@@ -5,9 +5,9 @@ shortdef: 'clausal residual subject of a cleft sentence'
 udver: '2'
 ---
 
-Cleft sentences arise when an element (i.e. a phrase) in a matrix clause is extracted for emphasis and put into a prominent position with respect to the other elements of the clause.
+Cleft sentences arise when an element (i.e. a phrase) in a matrix clause is extracted for emphasis and put into a prominent position with respect to the other elements of the clause. 
 
-In Latin, cleft sentences are sentences that have the structure of a non-verbal, [copular](la-dep/cop) predication where the extracted element is in topical position as the non-verbal predicate, and the residual elements of the matrix clause act together as the [subject](la-dep/nsubj), which can be introduced by a nominal element (cf. [`nsubj:cleft`](la-dep/nsubj-cleft)) or be left merely [clausal](la-dep/csubj), without an antecedent. The copula usually agrees with the extracted element (mostly in the third person singular).
+In Latin, cleft sentences are sentences that have the structure of a non-verbal, [copular](la-dep/cop) predication where the extracted element is in focus position as the non-verbal predicate, and the residual elements of the matrix clause act together as the [subject](la-dep/nsubj), which can be introduced by a nominal element (cf. [`nsubj:cleft`](la-dep/nsubj-cleft)) or be left [clausal](la-dep/csubj), without an antecedent. The copula usually agrees with the extracted element (mostly in the third person singular). The common `cleft` subrelation captures 
 
 In the subject of a cleft sentence, the gap left by the extracted phrase is recovered by means of a relative element, usually a pronoun (e.g. *qui*, *ubi*) but also possibly a determiner (e.g. *qualis*). This element is put in first position and morphosyntactically acts the same way the original phrase did (i.e. same case, number, gender...). A cleft sentence with clausal residual subject is thus characterised by the apparent mismatch of a relative clause which does not actually act in an attributive function with respect to the non-verbal predicate and does not have an antecedent.  
 

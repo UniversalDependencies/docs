@@ -9,7 +9,7 @@ The *ablativus absolutus* 'ablative absolute' (or the "seventh case" in some anc
 
 An ablative absolute is an embedded adverbial clause which consists of a nominal element, acting as the predicate, and its subject, both taking the ablative case. Most of the time, the predicative nominal element is the [participial form](la-feat/VerbForm) of a verb (the "dominant participle"), and then it agrees in [gender](la-feat/Gender) and [number](la-feat/Number) with the subject. However, an *ablativus absolutus* can also consist of a non-verbal predication, the copula then not being expressed (not least because the Latin [copula](la-dep/cop) does not possess participial forms), so that the construction appears to be made up of two juxtaposed nominals. Usually there are no other arguments in the absolute construction apart from these two. The fact that both elements are in the ablative case is an example of non-canonical subject agreement (Nikitina and Haug 2016): canonically, we would expect the [subject](la-dep/nsubj) to be in the nominative case, and the participial form to not necessarily agree with it in case. 
 
-The "absoluteness" of this construction manifests itself in the choice of the ablative, which is an oblique (i.e. not core) case, and in the fact that its subject is never co-referent to an argument of the main clause. In the latter case, non-finite (adverbial or complemental) clauses are traditionally called "secondary predications" (usually of subject or object) or "conjoined participles", and appear in the respective cases of the involved arguments (usually nominative or accusative); we treat them with a different specific subrelation (used in [`advcl:pred`](la-dep/advcl-pred) and [`xcomp:pred`](la-dep/xcomp-pred)). We observe that the semantic character (e.g. temporal, causal, ...) of such embedded adverbial clauses remains underspecified by their very nature.
+The "absoluteness" of this construction manifests itself in the choice of the ablative, which is an oblique (i.e. not core) case, and in the fact that its subject is never co-referent to an argument of the main clause. In the latter case, non-finite (adverbial or complemental) clauses are traditionally called "secondary predications" (usually of subject or object) or "conjoined participles" (it. *participio congiunto*), and appear in the respective cases of the involved arguments (usually nominative or accusative); we treat them with a different specific subrelation (used in [`advcl:pred`](la-dep/advcl-pred) and [`xcomp:pred`](la-dep/xcomp-pred)). We observe that the semantic character (e.g. temporal, causal, ...) of such embedded adverbial clauses remains underspecified by their very nature.
 
 One can notice that the *ablativus absolutus*, together with its peculiar agreement strategy, is actually just one possible type of embedded, dependent, non-finite clause, taking the case required by its context, here the ablative corresponding to an oblique argument. [Gerundives](la-feat/VerbForm), for example, often appear in similar constructions, so that we might observe somethng like *suspicio regni adpetendi* 'the suspicion of kingship being striven for', where in *regni adpetendi* (in a possible finite form: *regnum adpetiturum est* 'kingship will be striven for') the shared case is the genitive, *regnum* 'kingship' is the [passive subject](la-dep/nsubj-pass) of the gerundive and the whole acts as a [clausal modifier](la-dep/acl) to *suspicio* 'suspicion'. Similarly, we observe *suspicio acceptae pecuniae* 'the suspicion of money having been accepted' (possible finite form: *pecunia accepta est*) with a perfect participle, again in the genitive case (Pinkster 1990). However, given its iconicity and distinctive distribution, we mark only the *ablativus absolutus* with a specific subrelation out of this family of constructions.           
 
@@ -24,7 +24,7 @@ nsubj(existente,me-8)
 obl(existente,Mantue)
 advcl:abs(Manifest,existing)
 nsubj(existing,me-37)
-obl(existing,Mantua)
+obl(existing,in-Mantua)
 ~~~
 
 'Be it known to you all that **when I was in Mantua** a certain discussion arose, which, following the appearance rather than truth, received manifold expansion, but remained undecided.' (*Questio de aqua et terra*, UDante)
@@ -63,16 +63,16 @@ nmod(virtue,of-obedience)
 
 'But since some of the regal sentences sounded as encouragement to refer to His royal Highness, had I ever legates at my disposal and **if so desired**, something about my current situation, although some kind of presumption would forbid it, nonetheless I will obey, **virtue obliging [me]**.' (*De Monarchia*, UDante)
 
-[It. 'Ma poiché taluna delle frasi regali pareva esortare a riferire, se mai capitasse di disporre di messaggeri, alla regale Altezza qualcosa, desiderandolo, sulla condizione del mio stato, sebbene una certa qual parvenza di presunzione ne faccia ostacolo, tuttavia obbedirò alla suadente virtù dell'obbedienza.']
+[It. 'Ma poiché taluna delle frasi regali pareva esortare a riferire, se mai capitasse di disporre di messaggeri, alla regale Altezza qualcosa, **desiderandolo**, sulla condizione del mio stato, sebbene una certa qual parvenza di presunzione ne faccia ostacolo, tuttavia obbedirò **alla suadente virtù dell'obbedienza**.']
 
-* The semantic interpretation of the *ablativus absolutus* of *peroptando* 'desiring' strongly favours an active reading, despite the passive form of the verb and a possible impersonal interpretation ('if so desired').
+* The semantic interpretation of the *ablativus absolutus* of *peroptando* 'going to be very much desired' (translated as 'if so desired') strongly favours an active reading, despite the passive form of the verb and a possible impersonal interpretation ('if so desired').
 
 ~~~ sdparse
 Nos vero omnes , revelata facie gloriam domini speculantes , in eandem imaginem transformamur . \n We truly all , revealed with-face glory of-lord beholding , in the-same image we-are-transformed .
 advcl:abs(speculantes,revelata)
 nsubj:pass(revelata,facie)
 advcl:abs(beholding,revealed)
-nsubj:pass(revealed,face)
+nsubj:pass(revealed,with-face)
 ~~~
 
 'But we all beholding the glory of the Lord **with open face**, are transformed into the same image.' (*Summa contra Gentiles* citing 2 Cor. 3:18, ITTB)

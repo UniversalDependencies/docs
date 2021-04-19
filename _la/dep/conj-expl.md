@@ -13,6 +13,11 @@ Any phrase can be the explicative conjunct of any other phrase, but it will show
 
 Often, but not always, an explicative conjunct is introduced by a conjunctional element, which is coherently labeled as [`CCONJ`](la-pos/CCONJ) and bears the feature [`ConjType=Expl`](la-feat/ConjType), in parallel to this subrelation. In Late and Medieval Latin, the grammaticalised verbal phrases *scilicet* 'you may know' and *id est* 'that is' (sometimes [univerbated](la-feat/Compound)) are amongst the most common ones. The relation might also be pointed to by dedicated punctuation marks.
 
+Sometimes, explicative conjuncts look similar to [dislocated](u-dep/dislocated) elements. However, they differ in that 
+
+1. dislocations are lexically asymmetric: most of the times the dislocated element is a heavy and lexically full unit, while the dislocating element tends to be a functional word like a [pronoun](la-pos/PRON) or a [determiner](la-pos/DET); 
+1. logically, explicative conjuncts always come after the expanded element, while dislocated elements do not have this constraint: they are pushed at the margins of the sentence, be it before or after the dislocating element.
+
 ~~~ sdparse
 et Adalbertus dux derexit misso suo , id est Aggelmanno , qui ambulaverunt ... \n and Adalbertus leader he-sent legate his , that is Agelmannus , who they-went ...
 conj:expl(misso,Aggelmanno)
