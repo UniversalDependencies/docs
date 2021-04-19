@@ -11,6 +11,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="">Round</a></td>
   <td><a href="">Seed</a></td>
+  <td><a href="">Liquid</a></td>
   
   
 </tr>
@@ -30,6 +31,13 @@ udver: '2'
 #### Examples
 
 * _<b></b>&nbsp;_ “”
+
+
+### <a name="Liquid">`Liquid`</a>: Round
+
+#### Examples
+
+* _<b>kape-de</b>&nbsp;_ “coffee (liquid)”
 
 
 
