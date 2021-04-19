@@ -8,8 +8,10 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-•	In general, words are delimited by whitespace characters. Description of exceptions follows.
+•	In general, words are delimited by whitespace characters. Description of exceptions follows. 
+
 •	According to typographical rules, some punctuation marks (e.g., comma) are attached to a neighboring word, while others (e.g., the sentence-terminating danda) are not. We tokenize punctuation as separate tokens (words).
+
 
 
 ## Morphology
@@ -17,29 +19,52 @@ udver: '2'
 ### Tags
 
 •	Kangri uses all 17 universal POS categories, including particles (PART).
+
 •	Kangri has the following auxiliary verbs (AUX):
+
      है hai and था thā are present and past equivalents of “to be”. They are used as copulas and in periphrastic tenses.
+     
      रह raha (“to stay”) for the progressive aspect (with the stem of the main verb and the auxiliary ह/था).
-    	कर kara (“to do”) for the habitual aspect (with the perfective participle of the main verb).
-    	जा jā (“to go”) for the passive (with the perfective participle of the main verb).
+     
+     कर kara (“to do”) for the habitual aspect (with the perfective participle of the main verb).
+     
+     जा jā (“to go”) for the passive (with the perfective participle of the main verb).
+     
 •	Modal auxiliaries:
+
      सक saka (“be able, can”)
-    	पौणा pāna (“to manage”)
-    	चाहिदा cāhida (“needed, should, ought to”)
-    	हो ho (“to have to”)
-    	पड़ paṛa (“must”)
+     
+     पौणा pāna (“to manage”)
+     
+     चाहिदा cāhida (“needed, should, ought to”)
+     
+     हो ho (“to have to”)
+     
+     पड़ paṛa (“must”)
+     
 •	Phase verbs:
+
      लग laga (“to start”)
-    	चुक cuka (“to finish”)
+
+     चुक cuka (“to finish”)
+
 •	The current data treats verbs as auxiliaries and also some verbs that regularly appear in compound verbs as semantically less salient element. Since compound verbs are not periphrastic tense/aspect/voice forms, these verbs do not fit well in the UD definition of auxiliaries, and they shall be given a different analysis in the future releases. The following verbs are used as semantic auxiliaries in compound verbs:
-    	जा jā (“to go”) (note that this verb can also be used as real auxiliary in passives)
-    	ले le (“to take”)
-    	दे de (“to give”)
-    	सुटणा sutana (“to throw”)
-    	बैठ baiṭha (“to sit”)
-    	उठ uṭha (“to rise”)
-    	रख rakha (“to keep”)
-    	आ ā (“to come”)
+ 
+     जा jā (“to go”) (note that this verb can also be used as real auxiliary in passives)
+     
+     ले le (“to take”)
+
+     दे de (“to give”)
+
+     सुटणा sutana (“to throw”)
+
+     बैठ baiṭha (“to sit”)
+ 
+     उठ uṭha (“to rise”)
+ 
+     रख rakha (“to keep”)
+
+     आ ā (“to come”)
 
 ## Syntax
 
