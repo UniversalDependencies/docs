@@ -10,6 +10,8 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Imp">imperfective</a></td>
   <td><a href="#Perf">perfect</a></td>
+  <td><a href="#Cons">consecutive</a></td>
+  <td><a href="#Prosp">prospective</a></td>
   <td><a href="#Real">realis</a></td>
 </tr>
 </table>
@@ -32,6 +34,22 @@ The perfect aspect is used to indicate that a process occurred and was completed
 
 * _im <b>don</b> happen_ "it has happened"
 * _we <b>neva</b> eat_ "we haven't eaten"
+
+### <a name="Cons">`Cons`</a>: consecutive
+
+The consecutive aspect is used to indicate that something occurred directly following a previously-referenced event.
+
+#### Example
+
+*  _I <b>con<b> come Port Harcourt for twenty fourteen_ "Then I came to Port Harcourt in 2014"
+
+### <a name="Prosp">`Prosp`</a>: prospective
+
+The prospective aspect is used to convey intentions, plans, or expectations of carrying out a future action.
+
+#### Example
+
+*  _I <b>go</b> call am slowly again_ "I'll call it out again slowly"
 
 ### <a name="Real">`Real`</a>: realis
 
