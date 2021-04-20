@@ -414,6 +414,15 @@ auxiliaries that were previously listed (but not documented) in the source code 
 The user has to provide the missing information for all existing auxiliaries before they can add
 new ones.
 
+When validating language-specific lists of morphological features, auxiliary verbs etc., the validator
+can temporarily switch to a language different from the main language of the file. This is useful
+in cases of code-switching, i.e., when a foreign language phrase is inserted in the text, and the
+annotators decided to annotate it according to the foreign language guidelines (instead of simply
+tagging everything as `X` and connecting it as a `flat` structure). The alternative language is
+signaled for individual tokens using the `Lang` attribute in the MISC column. Its value is the ISO
+639 language code, as registered for the language in UD (either two letters from ISO 639-1, or
+three letters from ISO 639-3, lowercased!)
+
 Some additional tests are available in the
 [Udapi](https://github.com/udapi/udapi-python/blob/master/udapi/block/ud/markbugs.py)
 tool. They may reveal configurations that are not necessarily invalid but are suspicious and should be checked manually.

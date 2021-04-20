@@ -88,6 +88,10 @@ One may want to test that some kind of annotation, which is generally optional, 
 
 Many potential rules on levels 3-5 cannot be implemented as strict tests because there are legitimate exceptions. However, if it is still probable that a violation of the rule signals an actual annotation error, the rule could issue a warning. No such tests have been implemented so far.
 
+# Code Switching
+
+When validating language-specific lists of morphological features, auxiliary verbs etc., the validator can temporarily switch to a language different from the main language of the file. This is useful in cases of code-switching, i.e., when a foreign language phrase is inserted in the text, and the annotators decided to annotate it according to the foreign language guidelines (instead of simply tagging everything as `X` and connecting it as a `flat` structure). The alternative language is signaled for individual tokens using the `Lang` attribute in the MISC column. Its value is the ISO 639 language code, as registered for the language in UD (either two letters from ISO 639-1, or three letters from ISO 639-3, lowercased!)
+
 # Other Notes
 
 We should have a section in the documentation that would list all validation tests, explain them, link to the relevant parts of the guidelines and possibly also to the relevant part of the source code of the validation script. Some newly added rules are discussed and refined; in such cases, we may want to link to the corresponding issues in the issue tracker too.

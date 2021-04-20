@@ -219,6 +219,7 @@ Besides `SpaceAfter=No`, there are some other token- or word-level attributes th
 These are not required; but if this sort of information is available, it is desirable that it is encoded the same way in
 all treebanks.
 
+* `Lang` … language of the current token, if different from the main language of the file (code switching). The value is the ISO 639 language code, as registered for the language in UD (either two letters from ISO 639-1, or three letters from ISO 639-3, lowercased!) The validation script can take this attribute into account when validating language-specific annotation guidelines.
 * `Translit` … transliteration or transcription of the word form to another writing system. Typically this attribute is used in languages that do not write using the Latin script, and the attribute provides some standard romanization.
 * `LTranslit` … analogy of `Translit` for lemmas.
 * `Gloss` … approximate translation of the word form or the lemma to another language (typically English). If the translation consists of multiple words, they are connected using a hyphen.
