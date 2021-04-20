@@ -14,6 +14,7 @@ udver: '2'
   <td><a href="#Int">Int</a></td>
   <td><a href="#Prs">Prs</a></td>
   <td><a href="#Rcp">Rcp</a></td>
+  <td><a href="#Rel">Rel</a></td>
 </tr>
 </table>
 
@@ -71,4 +72,11 @@ The personal pronouns of Naija include _me, I/a, ma, you, your, him, im, e, am, 
 + _we we_
 + _una una_
 + _dem dem_
+
+### <a name="Rel">`Rel`</a>: relative pronoun
+
+#### Example
+
++ _dis are di things <b>dat</b> make shawarma_ "These are the things that make shawarma"
+
 <!-- Interlanguage links updated Čt lis 12 09:43:06 CET 2020 -->
