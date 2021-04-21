@@ -11,7 +11,7 @@ udver: '2'
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Jus">Jus</a></td>
-  <td><a href="#Cond">Cond</a></td>
+  <td><a href="#Cnd">Cnd</a></td>
   <td><a href="#Opt">Opt</a></td>
   <td><a href="#Pot">Pot</a></td>
 </tr>
@@ -46,7 +46,7 @@ The jussive is used to exhort someone to do something. It is carried by the auxi
 
 * _<b>make</b> you dey tink of oda people_ "you should think of other people"
 
-### <a name="Cond">`Cond`</a>: conditional
+### <a name="Cnd">`Cnd`</a>: conditional
 
 The conditional mood is used to express conditions that are dependent upon a hypothetical circumstance.
 
