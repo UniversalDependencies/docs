@@ -10,14 +10,6 @@ udver: '2'
 Language-specific feature identifying the form of derivation applied
 to a word.
 
-### <a name="Poss">`Poss`</a>: possessive -Онне
-
-Produces pronoun-like nominals from nearly any words that can take an indefinite genitive form.
-
-#### Examples
-
-* [mdf] _а ульцясь июленнекс пси._ "but the street is hot like July"
-
 ### <a name="Dimin">`Dimin`</a>: derivation with suffix -ня
 
 Produces diminutive derivations of nouns.
@@ -41,6 +33,22 @@ Produces converb.
 #### Examples
 
 * [mdf] _кенордазь_ "feeling happy"
+
+### <a name="NomAg">`NomAg`</a>: possessive -и/-ы
+
+Produces nomen agensis (non-temporal).
+
+#### Examples
+
+* [mdf] _кельги_ "one who loves"
+
+### <a name="Poss">`Poss`</a>: possessive -Онне
+
+Produces pronoun-like nominals from nearly any words that can take an indefinite genitive form.
+
+#### Examples
+
+* [mdf] _а ульцясь июленнекс пси._ "but the street is hot like July"
 
 ### <a name="Wife">`Wife`</a>: derivation with suffix -эря
 
