@@ -11,36 +11,19 @@ Language-specific feature identifying clitics attached to the word.
 
 Moksha has four enclitic particles with partial geographical complementary distribution, and all of them are used to express additive focus.
 
-### <a name="AddGA">`AddGA`</a>: Additive clitic -га/-ге/-ка/-ке
+### <a name="Add">`Add`</a>: Additive clitic -га/-ге/-ка/-ке/-вок/-овок/-киге/-онга/-нга
 
-Expresses additive adverbal _too, even_.
+Expresses additive adverbal _too, even_. There are two morphemes used in the
+literature that seem to have geographical associations. These are indicated by using Derivation values `GA`, `Vok`, `NgA` and `Kige`.
 
-#### Examples
-
-* [mdf] _нинге школав<b>га</b> аф якан._ "so I don't even go to school yet."
-
-### <a name="AddKige">`AddKige`</a>: Additive clitic -киге
-
-Expresses additive adverbal _too, even_.
 
 #### Examples
 
+* [mdf] _нинге школав<b>га</b> аф якан._ "so I don't <b>even</b> go to school yet."
 * [mdf] _И Маринкась сргозсь рана<b>киге</b>._ "And Marinka woke up <b>quite</b> early"
-
-### <a name="AddNgA">`AddNgA`</a>: Additive clitic -Онга
-
-Expresses additive adverbal _too, even_.
-
-#### Examples
-
 * [mdf] _А кда токади ёфси сядо<b>нга</b> кальдяв._ "But when it touches, it is <b>even</b> worse"
-
-### <a name="AddVok">`AddVok`</a>: Additive clitic -вок/-овок
-
-Expresses additive adverbal _too, even_.
-
-#### Examples
-
 * [mdf] _Эста самолёт<b>овок</b> теень афоль эряв,..._ "Then I wouldn't <b>even</b> have needed an airplane,..."
+* [mdf] _Эста самолёт<b>овок</b> теень афоль эряв,..._ "Then I wouldn't <b>even</b> have needed an airplane,..."
+
 
 <!-- Interlanguage links updated Čt lis 12 09:43:00 CET 2020 -->
