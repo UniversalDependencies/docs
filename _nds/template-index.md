@@ -4,7 +4,7 @@ title:  'Low Saxon UD'
 udver: '2'
 ---
 
-# UD for Low Saxon <span class="flagspan"><img class="flag" src="../../flags/svg/DE-NI.svg" /></span>
+# UD for Low Saxon <span class="flagspan"><img class="flag" src="../../flags/svg/DE-HANNOVER.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
