@@ -36,7 +36,7 @@ Expresses additive adverbal _too, even_.
 
 * [mdf] _А кда токади ёфси сядо<b>нга</b> кальдяв._ "But when it touches, it is <b>even</b> worse"
 
-### <a name="Vok">`Vok`</a>: derivation with suffixes -вок
+### <a name="AddVok">`AddVok`</a>: derivation with suffixes -вок
 
 Expresses additive adverbal _too, even_.
 
