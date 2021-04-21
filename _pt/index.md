@@ -69,7 +69,7 @@ More later.
 
 ## Treebanks
 
-There are [3](../treebanks/pt-comparison.html) Portuguese UD treebanks:
+There are [4](../treebanks/pt-comparison.html) Portuguese UD treebanks:
 
   * [Portuguese-Bosque](../treebanks/pt_bosque/index.html)
   * [Portuguese-GSD](../treebanks/pt_gsd/index.html)
