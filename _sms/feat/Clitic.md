@@ -19,6 +19,14 @@ Expresses additive adverbal _too_.
 
 * [sms] _tok<b>-i</b>_ "there too."
 
+### <a name="Han">`Han`</a>: Additive clitic -han
+
+Expresses _as we all know_.
+
+#### Examples
+
+* [sms] _aalmi<b>-han</b> kâʹl jåått da teâtt._ "the people, <b>as we know</b>, will do just as you suspect"
+
 ### <a name="QstA">`QstA`</a>: question particle -a
 
 Is added to the core of the question.
