@@ -16,7 +16,7 @@ udver: '2'
 
 `Dem`  The demonstratives express their deictic reference point, showing their space location in relation to the speech act (distance/person-oriented). The demonstrative appears in a noun phrase coding spatial orientation and position of the element in discussion with respect to the hearer and speaker. They do not have a fixed order; they may appear before or after the noun or appear as the head of a NP.
 
-### <a name="Dem=Prox">`Prox`</a>: Proximity
+### <a name="Prox">`Prox`</a>: Proximity
 
 Close to the speaker or the hearer
 
