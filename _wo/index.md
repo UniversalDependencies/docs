@@ -61,19 +61,20 @@ udver: '2'
 * When a verb has two objects, the one immediately folowing the verb is the primary object, the second one treated as the secondary object.
 
 Wolof uses the following relation subtypes:
-* `compound:prt` to attach verbal particles to verbs
-* `compound:svc` to connect verbs in a serial verb construction
-* `acl:relcl`: relative clause modifier
-* `obj:appl`: direct applicative object
-* `iobj:appl`: indirect applicative object
-* `obj:caus`: causative object
+* [compound:prt]() to attach verbal particles to verbs
+* [compound:svc]() to connect verbs in a serial verb construction
+* [acl:relcl](): relative clause modifier
+* [obj:caus](): causative object (caused agent)
+* [obj:appl](): direct applicative object
+* [iobj:appl](): indirect applicative object
+* [obl:appl](): oblique applicative argument
 
 ### Copular constructions
-* Wolof distinguish between three copulas: *di*, *la*, and *ngi*. These appear
-	* *di* appears in identificational sentences like *Góor gi di njiit* (The man is a leader). Such sentences follow the standard SVO worder order (i.e. Nominal Subject + Copula + Nominal Predicate). The predicate is typically a nominal one.
-	* *la* is used in predicational sentences like *Góor gi njjit la* (The man is a leader). In contrast to identificational sentences, Wolof predicational sentences do not show the SVO word order, but rather SOV order. The predicate, which is typically a nominal one, precedes the copula.
-	* *ngi* is mainly used in presentative/progressive sentences. Unlike the two previous copulas, the predicate of the *ngi* copula can only be a manner or a locative (e.g. in the house) as in *Góor gi mu ngi ci kër gi* (The man is in the house). Also, such copular constructions have an SVO word order.
 
+* Wolof distinguish between three copulas: *di*, *la*, and *ngi*. These appear
+  * *di* appears in identificational sentences like *Góor gi di njiit* (The man is a leader). Such sentences follow the standard SVO worder order (i.e. Nominal Subject + Copula + Nominal Predicate). The predicate is typically a nominal one.
+  * *la* is used in predicational sentences like *Góor gi njjit la* (The man is a leader). In contrast to identificational sentences, Wolof predicational sentences do not show the SVO word order, but rather SOV order. The predicate, which is typically a nominal one, precedes the copula.
+  * *ngi* is mainly used in presentative/progressive sentences. Unlike the two previous copulas, the predicate of the *ngi* copula can only be a manner or a locative (e.g. in the house) as in *Góor gi mu ngi ci kër gi* (The man is in the house). Also, such copular constructions have an SVO word order.
 
 
 
