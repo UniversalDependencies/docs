@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'Deixis'
-shortdef: 'deixis'
+title: 'Dem'
+shortdef: 'dem'
 udver: '2'
 ---
 
@@ -14,7 +14,7 @@ udver: '2'
 </tr>
 </table>
 
-`Deixis`  The demonstratives express their deictic reference point, showing their space location in relation to the speech act (distance/person-oriented). The demonstrative appears in a noun phrase coding spatial orientation and position of the element in discussion with respect to the hearer and speaker. They do not have a fixed order; they may appear before or after the noun or appear as the head of a NP.
+`Dem`  The demonstratives express their deictic reference point, showing their space location in relation to the speech act (distance/person-oriented). The demonstrative appears in a noun phrase coding spatial orientation and position of the element in discussion with respect to the hearer and speaker. They do not have a fixed order; they may appear before or after the noun or appear as the head of a NP.
 
 ### <a name="Prox">`Prox`</a>: Proximity
 
