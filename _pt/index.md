@@ -43,6 +43,11 @@ the POS tag of multi-word expressions as a whole.
   * Finite verb `Fin`, tagged [VERB]() or [AUX](), e.g. _estudo_ “I study”.
   * Participle `Part`, tagged [VERB]() or [AUX](), e.g. _estudado_ “studied”.
   * Gerund `Ger` or present participle, tagged [VERB]() or [AUX](), e.g. _estudando_ “studying”.
+  
+### Multiword expressions
+
+As documented in [1], the indication of the POS tags in the case of 'fixed' MWEs is particularly relevant, as these ex-pressions are
+crystallized in such way that their components can have completely different POStags from the total expression.  Having the information about the POS-tag of the entire MWE inthe MISC field helps to justify some dependency relations. We use adopted the `MWEPOS=VAL` for such cases, where val is any valid value for the UPOSTAG field.
 
 ### Features
 
@@ -63,9 +68,9 @@ Only `ser` and `estar` should be considered copulas.
 
 Passives are distinguished (`nsubj:pass`, `csubj:pass`), possessived (`nmod:poss`), predeterminers (`det:predet` for "ambos" in "ambos os filhos), preconj (`cc:preconj` for "ou" in "ou X ou Y").
 
-More later.
+### auxiliaries verbs
 
----
+TODO 
 
 ## Treebanks
 
@@ -75,3 +80,11 @@ There are [4](../treebanks/pt-comparison.html) Portuguese UD treebanks:
   * [Portuguese-GSD](../treebanks/pt_gsd/index.html)
   * [Portuguese-PUD](../treebanks/pt_pud/index.html)
   * [Portuguese-DHBB](../treebanks/pt_dhbb/index.html)
+
+## References
+
+- [1] Rademaker, Alexandre, Fabricio Chalub, Livy Real, Cláudia
+  Freitas, Eckhard Bick, and Valeria de Paiva. "Universal dependencies
+  for Portuguese." In Proceedings of the Fourth International
+  Conference on Dependency Linguistics (Depling 2017),
+  pp. 197-206. 2017. https://www.aclweb.org/anthology/W17-6523/
