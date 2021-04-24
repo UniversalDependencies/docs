@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Circ">Circ</a></td>
   <td><a href="#Obj">Obj</a></td>
+  <td><a href="#Ag">Ag</a></td>
   
 </tr>
 </table>
@@ -27,6 +28,14 @@ udver: '2'
 
 
 ### <a name="Obj">`Obj`</a>: Object
+
+
+#### Examples
+
+* _<b>o=t-ek</b>&nbsp;_ “My house”
+
+
+### <a name="Ag">`Ag`</a>: Agent
 
 
 #### Examples
