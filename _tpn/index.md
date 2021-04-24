@@ -96,7 +96,7 @@ Mapping UPOS to XPOS for Tupinambá:
 
 ## Treebanks
 
-There is 1 (../treebanks/tpn-comparison.html) Tupinamba UD treebanks:
+There is 1 (../treebanks/tpn-comparison.html) Tupinamba UD treebank:
 
   * [Tupinamba-A](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT)
 
