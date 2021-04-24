@@ -19,11 +19,9 @@ udver: '2'
 ### <a name="1">`Fut`</a>: Future
 
 
-
 #### Examples
 
 * _<b>o=ø-pi</b>&nbsp;_ “my foot”
-* _<b>o=et-a</b>&nbsp;_ “I sleep”
 
 
 
