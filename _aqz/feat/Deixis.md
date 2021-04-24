@@ -24,7 +24,7 @@ Close to the speaker or the hearer
 
 #### Examples
 
-* _<b>i=no t-et jẽ t-et</b>&nbsp;_ “his other name, this one's name”
+* _<b>i=jẽ t-et</b>&nbsp;_ “his other name, this one's name”
 
 
 ### <a name="Dist">`Dist`</a>: Distant
@@ -34,8 +34,8 @@ Distant from the
 
 #### Examples
 
-* _<b>i=no t-et jẽ t-et</b>&nbsp;_ “his other name, this one's name”
-
+* _<b>i=ke t-et</b>&nbsp;_ “that one's name”
+* _<b>i=ta t-et</b>&nbsp;_ “that one's name”
 
 ## Diffs
 
