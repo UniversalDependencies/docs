@@ -41,8 +41,8 @@ is used for the referential marker (also called argumentative, nominal). All lex
 
 #### Examples
 
-* _<b>t-uβ</b>&nbsp;_ “father (existential predicate)”
-* _<b>t-uβ-a</b>&nbsp;_ “A/the father”
+* _<b>t-uβ</b>&nbsp;_ “father (existential predicate) / there is a father / be a father / have a father”
+* _<b>t-uβ-a</b>&nbsp;_ “A/the father(s)”
   
 
 
