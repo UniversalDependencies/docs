@@ -19,11 +19,11 @@ udver: '2'
 
 ### <a name="Prog">`Prog`</a>: Progressive 
 
-It is used to signal the instrument with which an action was performed.
+The progressive aspect is expressed by the auxiliary "iko"
 
 #### Examples
 
-* _<b>Pixik-a'i a'e taw</b>&nbsp;_ “That village is very small” (small-DIM PRON village)
+* _<b>U'u arapapa ipira'i iko a'e</b>&nbsp;_ “The boat-billed heron is eating small fishes”
   
 </tr>
 </table>
