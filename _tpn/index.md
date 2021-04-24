@@ -73,10 +73,9 @@ monosylabic reduplication (`Red=Mo`), disylabic reduplication (`Red=Di`). The mo
 
 ## Syntax
 
-* The order of arguments cross-referenced on the predicate is SOV, and this order seems to be the most common when full NPs semantically associated with the bound arguments are present. These NPs are marked as `obl` ' obliques', since they are not the core arguments. 
+* The order of arguments cross-referenced on the predicate is SOV. Full NPs associated with core arguments may appear in any order. These NPs are marked as `obl` ' obliques', since they are not the core arguments. 
 * What has been traditionally called circunstantial mood or indicative II in some Tupí-Guaraní languages referes to a nominalization accompanied by the fronting of an adverbial expression: adverbs, adverbial expressions, postpositional phrases (oblique topicalization). The nominalized form in this case is marked by the feature-value [OblTop=Yes](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/OblTop.md).
-* Transitivity is found only with third person objects. 
-
+* Transitivity is found only with third person objects.
 
 ### 
 
