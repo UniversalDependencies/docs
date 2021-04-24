@@ -26,8 +26,6 @@ udver: '2'
 
 ### <a name="All">`All`</a>: Allative 
 
-is used for the referential marker (also called argumentative). It allows lexical roots, all of which are predicates 
-in Tupinambá, to funcion as arguments of predicates or allow them to be referential.
 
 #### Examples
 
@@ -38,8 +36,8 @@ in Tupinambá, to funcion as arguments of predicates or allow them to be referen
 
 ### <a name="Ref">`Ref`</a>: Referential (Argumentative)
 
-is used for the referential marker (also called argumentative). It allows lexical roots, all of which are predicates 
-in Tupinambá, to funcion as arguments of predicates or allow them to be referential.
+is used for the referential marker (also called argumentative, nominal). All lexical roots in Tupinambá are predicates. In order for these to function as arguments of predicates the Ref marker is used.
+
 
 #### Examples
 
@@ -48,11 +46,8 @@ in Tupinambá, to funcion as arguments of predicates or allow them to be referen
   
 
 
-
-
 ### <a name="Loc">`Loc`</a>: Locative
 
-there are three locative cases in Tupinambá
 
 #### Examples
 
@@ -71,8 +66,6 @@ Traslative
 
 ### <a name="Per">`Per`</a>: Perlative
 
-TraslatPerlativeive
-
 #### Examples
 
 * _<b>t-uβ-amo</b>&nbsp;_ “as / in the quality of a father”
@@ -80,19 +73,18 @@ TraslatPerlativeive
 
 ### <a name="Voc">`Voc`</a>: Vocative
 
-Vocative
+The vocative can be expressed, among others, by the sufix _we_ attached to the lexical root.
 
 #### Examples
 
-* _<b></b>&nbsp;_ “”
-
+* _<b>ʃe-ruβ-we</b>&nbsp;_ “ Oh, my father!”
 
 
 ### <a name="Dat">`Dat`</a>: Dative
 
 #### Examples
 
-* _<b>t-uβa-pe</b>&nbsp;_ “To the father”
+* _<b>t-uβ-we</b>&nbsp;_ “To the father”
 
 
 
