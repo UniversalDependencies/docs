@@ -8,10 +8,10 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-* Words are delimited by whitespace characters. Description of exceptions follows.
-* According to typographical rules, many punctuation marks are attached to a neighboring word. We always tokenize them as separate tokens (words);
-* There are no adjectives in Tupinambá. Modification is made by composition, juxtaposing lexical roots, so when a lexical root is modified by another a new word appears as in *kuɲãporaŋ(a)* 'beautiful woman' (*kuɲã* 'woman' + *poraŋ-(a)* 'beauty'). Such words are treated as [multiword tokens](https://universaldependencies.org/format.html#morphological-annotation).
-* Some compund words from Portuguese are written as one word, e.g. _santacruz_ 'holy cross'. 
+* Words are delimited by whitespace characters
+* According to typographical rules, many punctuation marks are attached to a neighboring word. They are given as separate tokens (words);
+* There are no adjectives in Tupinambá. Modification is made by composition, juxtaposing lexical roots, so when a lexical root is modified by another a new word appears as in *kuɲãporaŋ(a)* 'beautiful woman' (*kuɲã* 'woman' + *poraŋ-(a)* 'beauty'). Such words are treated sometimes as [multiword tokens](https://universaldependencies.org/format.html#morphological-annotation), sometimes as a single word.
+* Some compound words from Portuguese are written as one word, e.g. _santaCruz_ 'holy cross'. 
 
 
 ## Morphology
@@ -20,7 +20,7 @@ udver: '2'
 
 * Nous can take the following [Cases](https://universaldependencies.org/u/feat/Case.html): `Tra`, `Loc`, `All`, `Per`, `Dat`.
 
-* What has been traditionally called circunstantial mood or indicative II in some Tupí-Guaraní languages referes to a nominalization accompanied by the fronting of an adverbial expression: adverbs, adverbial expressions, postpositional phrases (oblique topicalization). The nominalized form in this case receives a marked with the feature-value `OblTop=Yes`.
+* What has been traditionally called circunstantial mood or indicative II in some Tupí-Guaraní languages referes to a nominalization accompanied by the fronting of an adverbial expression: adverbs, adverbial expressions, postpositional phrases (oblique topicalization). The nominalized form in this case is marked by the feature-value `OblTop=Yes`.
 
 * Lexical roots in Tupinambá are tagged either as NOUN or VERB, but NOUNS, due to the types of constructions are more frequent. 
 * Transitivity is found only with third person objects. 
