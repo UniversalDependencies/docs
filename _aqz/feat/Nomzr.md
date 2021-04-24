@@ -14,15 +14,12 @@ udver: '2'
 </tr>
 </table>
 
-`Tv` thematic vowel is
-
-
 ### <a name="Circ">`Circ`</a>: Circunstantial
 
 
 #### Examples
 
-* _<b>o=t-ek</b>&nbsp;_ “My house”
+* _<b>o=ø-tʃoga-ap</b>&nbsp;_ “My bite”
 
 
 
@@ -31,7 +28,7 @@ udver: '2'
 
 #### Examples
 
-* _<b>o=t-ek</b>&nbsp;_ “My house”
+* _<b>o=ø-i-mi</b>&nbsp;_ “My hunted thing”
 
 
 
