@@ -41,26 +41,34 @@ Nouns may also be reduplicated in both ways denoting: plurality, collectivity, s
 
 ### Tags
 
-* Tupinambá uses 16 of the 17 universal POS categories, *ADJ* is not used.
+This is an overview only. For more detailed discussion and examples, see the list of [Mundurukú POS tags](pos/index.html)
+and [Mundurukú features](feat/index.html).
 
-Mapping UPOS to XPOS for Tupinambá:
+* Tupinambá uses 16 of the 17 universal POS categories. `ADJ` is not used since there is no separate class of adjectives.
+Stative-verbs and possessed nouns behave alike, in a way that is not possible to distinguish them morphologically
+(I am ugly / I have uglyness; ugly boy / boy with uglyness).
+
+Mapping UPOS to XPOS Tupinambá
+
  UPOS | XPOS |
 :----: | :------: |
+ ADJ   | adj      |
  ADV   | adv      |
  INTJ  | intj     |
  NOUN  | n        |
  PROPN | ppn      |
  VERB  | v, vi, vt|
- ADP   | posp     |
+ ADP   | pp       |
  AUX   | aux      |
  CCONJ | cc       |
- DET   | dem      |
+ DET   | det      |
  NUM   | num      |
  PART  | pcl      |
  PRON  | pro      |
  SCONJ | sc       |
  PUNCT | punct    |
  SYM   | sym      |
+ X     | x        |
 
 ---
 
