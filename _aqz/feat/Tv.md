@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'Tv'
-shortdef: 'relational'
+shortdef: 'thematic vowel'
 udver: '2'
 ---
 
@@ -13,15 +13,12 @@ udver: '2'
 </tr>
 </table>
 
-`Tv` thematic vowel is
-
-
-### <a name="Yes">`Yes`</a>: contiguous
+`Tv` thematic vowel 'a'
 
 
 #### Examples
 
-* _<b>o=t-ek</b>&nbsp;_ “My house”
+* _<b>Konibu te=et-a</b>&nbsp;_ “Konibú is sleeping"
 
 
 
