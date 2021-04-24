@@ -14,7 +14,7 @@ udver: '2'
 </tr>
 </table>
 
-`Tv`  
+`VerbForm`  
 
 ### <a name="Tv">`Tv`</a>: Thematic vowel
 
