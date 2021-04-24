@@ -1,34 +1,44 @@
+
 ---
 layout: feature
-title: 'Echo'
-shortdef: 'echo'
+title: 'Red'
+shortdef: 'Red'
 udver: '2'
 ---
 
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Rdp">Rdp</a></td>
-  
+  <td><a href="#Mo">Mo</a></td>
+  <td><a href="#Di">Di</a></td>
+ 
   
 
 </tr>
 </table>
 
-`Echo`  
+`Red`  
 
 
-### <a name="Rdp">`Rdp`</a>: Reduplicative
+### <a name="Mo">`Mo`</a>: Monosylabic 
 
-The lemma is repeated, which can signify increasing intensity (to'oto'om) or repetition (uxi'uxi'u)
+Monosylabic reduplication
 
 #### Examples
 
 
+* _<b>to'oto'om</b>&nbsp;_ “Mud”
+
+
+
+### <a name="Di">`Di`</a>: Disylabic
+
+Disylabic reduplication
+
+#### Examples
+
 * _<b>uxi'uxi'u</b>&nbsp;_ “To chew”
-
-
-
+  
 
 
 
