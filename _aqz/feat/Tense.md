@@ -16,12 +16,12 @@ udver: '2'
 
 `Tense`  
 
-### <a name="1">`Fut`</a>: Future
+### <a name="Fut">`Fut`</a>: Future
 
 
 #### Examples
 
-* _<b>o=ø-pi</b>&nbsp;_ “my foot”
+* _<b></b>&nbsp;_ “”
 
 
 
