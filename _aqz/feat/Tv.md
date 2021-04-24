@@ -8,15 +8,16 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Tv">Tv</a></td>
+  <td><a href="#Yes">Yes</a></td>
   
   
 </tr>
 </table>
 
-`VerbForm`  
+`Tv` thematic vowel
 
-### <a name="Tv">`Tv`</a>: Thematic vowel
+### <a name="Yes">`Yes`</a>: Thematic vowel
+
 
 #### Examples
 
