@@ -14,6 +14,14 @@ udver: '2'
 * There are no adjectives in Tupinambá. Modification is made by composition, juxtaposing lexical roots, so when a lexical root is modified by another a new word appears as in *kuɲãporaŋ(a)* 'beautiful woman' (*kuɲã* 'woman' + *poraŋ-(a)* 'beauty'). Such words are treated sometimes as [multiword tokens](https://universaldependencies.org/format.html#morphological-annotation), sometimes as a single word.
 * Some compound words from Portuguese are written as one word, e.g. _santaCruz_ 'holy cross'. 
 
+
+## Morphology
+
+### Tags
+
+This is an overview only. For more detailed discussion and examples, see the list of [Mundurukú POS tags](pos/index.html)
+and [Mundurukú features](feat/index.html).
+
 Mapping UPOS to XPOS Mundurukú
 
  UPOS | XPOS |
@@ -35,13 +43,6 @@ Mapping UPOS to XPOS Mundurukú
  PUNCT | punct    |
  SYM   | sym      |
  X     | x        |
-
-## Morphology
-
-### Tags
-
-This is an overview only. For more detailed discussion and examples, see the list of [Mundurukú POS tags](pos/index.html)
-and [Mundurukú features](feat/index.html).
 
 * Mundurukú uses 16 ofthe 17 universal POS categories. `ADJ` is not used since there is no separate class of adjectives.
 Stative-verbs and possessed nouns behave alike, in a way that is not possible to distinguish them morphologically
