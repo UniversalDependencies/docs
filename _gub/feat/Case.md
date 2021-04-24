@@ -9,7 +9,6 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#All">All</a></td>
-  <td><a href="#Ben">Ben</a></td>
   <td><a href="#Dat">Dat</a></td>
   <td><a href="#Loc">Loc</a></td>
   
@@ -29,15 +28,6 @@ The allative case is expressed with the morpheme "pe"
 
 
 * _<b>ko-pe</b>&nbsp;_ “To the countryside”
-
-
-### <a name="Ben">`Ben`</a>: Benefactive
-
-The benefactive case is expressed with the morpheme "pe"
-
-#### Examples
-
-* _<b>wiràmiri pe</b>&nbsp;_ “For the bird”
 
 
 ### <a name="Dat">`Dat`</a>: Dative
