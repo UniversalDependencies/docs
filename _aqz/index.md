@@ -59,7 +59,7 @@ VERBAL FEATURE
 * Akuntsú has a set of [auxiliaries](https://universaldependencies.org/u/pos/AUX_.html) `Aux` that expresses the notion of ‘sitting,’ ‘lying,’ ‘standing,’ ‘walking,’  ‘moving,’  ‘coming’ and ‘going´. The auxiliaries are given in the table below:
 
 
-| standing | sitting | sitting | in movement |going|
+| Standing | Sitting | Lying | In movement |Going|
 :----: | :------: |:------: |:------: |:------: |
 |ãm|jã|toa|ko|tʃe|ka
 
