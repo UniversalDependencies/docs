@@ -8,20 +8,23 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-* In general, words are delimited by whitespace characters. Description of exceptions follows.
+* Words are delimited by whitespace characters. Description of exceptions follows.
 * According to typographical rules, many punctuation marks are attached to a neighboring word. We always tokenize them as separate tokens (words);
 * There are no adjectives in Tupinambá. Modification is made by composition, juxtaposing lexical roots, so when a lexical root is modified by another a new word appears as in *kuɲãporaŋ(a)* 'beautiful woman' (*kuɲã* 'woman' + *poraŋ-(a)* 'beauty'). Such words are treated as [multiword tokens](https://universaldependencies.org/format.html#morphological-annotation).
+* Some compund words from Portuguese are written as one word, e.g. _santacruz_ 'holy cross'. 
 
 
 ## Morphology
 
-* Tupinambá nouns are not marked for gender. Number is optionally marked.
+* Tupinambá nouns are not marked for gender. Number is optionally marked by the lexical root _etá_ .
 
-* Nous can take the following [Cases](https://universaldependencies.org/u/feat/Case.html): `Tra`, `Loc`, `All`, `Per`.
+* Nous can take the following [Cases](https://universaldependencies.org/u/feat/Case.html): `Tra`, `Loc`, `All`, `Per`, `Dat`.
 
 * What has been traditionally called circunstantial mood or indicative II in some Tupí-Guaraní languages referes to a nominalization accompanied by the fronting of an adverbial expression: adverbs, adverbial expressions, postpositional phrases (oblique topicalization). The nominalized form in this case receives a marked with the feature-value `OblTop=Yes`.
 
-* Lexical roots in Tupinambá are tagged either as NOUN or VERB, but NOUNS, due to the types of constructions are more frequent. VERB is only the case when transitive verbs are third person. The lexical root in the *gerund* [(VerbForm=Ger)](https://universaldependencies.org/u/feat/VerbForm.html) is also marked as VERB.
+* Lexical roots in Tupinambá are tagged either as NOUN or VERB, but NOUNS, due to the types of constructions are more frequent. 
+* Transitivity is found only with third person objects. 
+* The lexical root in the *gerund* [(VerbForm=Ger)](https://universaldependencies.org/u/feat/VerbForm.html) is marked as VERB even when combining with a relational.
 
 * Verbs are marked for [aspect](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/Aspect.md): `Compl` (completive), `Iter` (Iterative).
 
@@ -80,7 +83,7 @@ Mapping UPOS to XPOS for Tupinambá:
 
 ## Syntax
 
-* The order of arguments cross-referenced on the predicate is SOV, and this order seems to be the most common when full NPs semantically associated with the bound arguments are present. In this case, there is no fixed order, and the lack of a formal corpus dos not allow for precise figures. It is worth noting, though, that clauses with two NPs, each related with one of the bound arguments are no as frequent as one would expect.
+* The order of arguments cross-referenced on the predicate is SOV, and this order seems to be the most common when full NPs semantically associated with the bound arguments are present. These NPs are marked as `obl` ' obliques', since they are not the core arguments. 
 
 
 
