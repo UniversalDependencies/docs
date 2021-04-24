@@ -8,7 +8,8 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#1">Prox</a></td>
+  <td><a href="#Prox">Prox</a></td>
+  <td><a href="#Dist">Disr</a></td>
   
   
 </tr>
@@ -19,6 +20,16 @@ udver: '2'
 ### <a name="Prox">`Prox`</a>: Proximity
 
 Close to the speaker or the hearer
+
+
+#### Examples
+
+* _<b>i=no t-et jẽ t-et</b>&nbsp;_ “his other name, this one's name”
+
+
+### <a name="Dist">`Dist`</a>: Proximity
+
+Distant from the
 
 
 #### Examples
