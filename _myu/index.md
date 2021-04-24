@@ -51,21 +51,23 @@ Mapping UPOS to XPOS Mundurukú
 
 ### Nominal Features
 
-* Nominal words, [NOUN](https://universaldependencies.org/u/pos/NOUN.html), [PROPN](https://universaldependencies.org/u/pos/PROPN.html) and [PRON](https://universaldependencies.org/u/pos/PRON.html), are not marked for [Gender](https://universaldependencies.org/u/feat/Gender.html).
-* The two main values of the [Number](https://universaldependencies.org/u/feat/Number.html) feature are Sing and Plural. Plural is marked by a separate pronoun or by reduplication on the predicate.
+* [NOUN](https://universaldependencies.org/u/pos/NOUN.html), [PROPN](https://universaldependencies.org/u/pos/PROPN.html) and [PRON](https://universaldependencies.org/u/pos/PRON.html), are not marked for [Gender](https://universaldependencies.org/u/feat/Gender.html).
+* Personal Pronouns and Person Markers distinguish [Number](https://universaldependencies.org/u/feat/Number.html)(Singular or Plural). They also distinguish [Clusivity](https://universaldependencies.org/u/feat/Clusivity.html) in the 1<sup>st</sup> person plural. Mundurukú marks the 3<sup>rd</sup> person plural by adding the partical _ip_.
 * Another way to express existential predication is through the reduplication of a noun with the vowel *e* replacing
 the original vowel, e.g, *xat* 'food' *xaxet* 'there is food'. These nouns receive a marked `Redup=Ex` (reduplication existential) in the FEATS column.
-* Mundurukú classifiers are real nouns, and there are more than a hundred of nouns in classifier function. Nouns in this function
-have the feature `Noun=Clf`.
-* The relational markers `Rel`, which indicate contiguity or non-contiguity between a head and its dependent, take respectively the following features: `Rel=Cont` and `Rel=NCont`. 
+* Mundurukú classifiers are lexical roots. Nouns in this function have the feature `Noun=Clf`.
+* The relational markers `Rel`, which indicate contiguity or non-contiguity between a head and its dependent, take respectively the following features: `Rel=Cont` and `Rel=NCont`.
 * Mundurukú has possessor markers that distinguish alienably and inalienably possessed nouns. These types of possession have the feature [Poss](https://universaldependencies.org/u/feat/Poss.html) and the values alienable `(Poss=Ali)`, and inalienable `(Poss=Inal)`.
-
 
 ### Verbal Features
 
 * Verbs have a lexical [Aspect](https://universaldependencies.org/u/feat/Aspect.html): imperfective (Imp), perfective (Perf), iterative (Iter).
 * Some lexical roots can not easily be assigned to a  specific lexical category. This is the case with *kake* and *opop*.
 These are tagged as [AUX](https://universaldependencies.org/u/pos/AUX_.html) in the [UPOS](), and v:ex (existential verb) and `aux` respectively in the XPOS.
+* As a head marking language, Tupinambá cross-references both arguments of a two-place predicate, S and O, only when O is third person: *a-s-epjak* 1.SG-3(RELNCONT)-see 'I see him/her/it/them'. The [PERSON](https://universaldependencies.org/u/feat/Person.html) feature in this case ha sthe value `Person=13` indicating that A is 1<sup>st</sup> and O 3<sup>rd</sup> person.
+* The protmanteau markers indicating 1 -> 2 (A is 1<sup>st</sup> and U is 2<sup>nd</sup> person) are asigned the [PERSON](https://universaldependencies.org/u/feat/Person.html) feature `Person12Sg` and `Person12Pl`.
+
+---
 
 Mundurukú has some auxiliary verbs, which are tagged as [AUX](https://universaldependencies.org/u/pos/AUX_.html). The have two specific functions:
 indicate *tense* or *posture*. The table below, shows auxiliaries, giving their functions and giving their plural forms, which for some for some of the verbs have different forms for the singular and plural:
