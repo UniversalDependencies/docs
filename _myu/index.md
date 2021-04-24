@@ -9,8 +9,10 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-* In general, words are delimited by whitespace characters. Description of exceptions follows.
-* According to typographical rules, many punctuation marks are attached to a neighboring word. We always tokenize them as separate tokens (words);
+* Words are delimited by whitespace characters
+* According to typographical rules, many punctuation marks are attached to a neighboring word. They are given as separate tokens (words);
+* There are no adjectives in Tupinambá. Modification is made by composition, juxtaposing lexical roots, so when a lexical root is modified by another a new word appears as in *kuɲãporaŋ(a)* 'beautiful woman' (*kuɲã* 'woman' + *poraŋ-(a)* 'beauty'). Such words are treated sometimes as [multiword tokens](https://universaldependencies.org/format.html#morphological-annotation), sometimes as a single word.
+* Some compound words from Portuguese are written as one word, e.g. _santaCruz_ 'holy cross'. 
 
 Mapping UPOS to XPOS Mundurukú
 
