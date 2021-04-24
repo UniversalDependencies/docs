@@ -19,7 +19,7 @@ udver: '2'
 
 ### <a name="In">`In`</a>: Inclusive
 
-The dative case is expressed with the pronoun and first person morpheme "zane"
+The inclusive feature is expressed with the pronoun and first person morpheme "zane"
 
 #### Examples
 
@@ -30,7 +30,7 @@ The dative case is expressed with the pronoun and first person morpheme "zane"
 
 ### <a name="Ex">`Ex`</a>: Exclusive
 
-The dative case is expressed with the pronoun and first person morpheme "ure"
+The exclusive feature is expressed with the pronoun and first person morpheme "ure"
 
 #### Examples
 
