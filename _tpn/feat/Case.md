@@ -36,7 +36,7 @@ udver: '2'
 
 ### <a name="Ref">`Ref`</a>: Referential (Argumentative)
 
-is used for the referential marker (also called argumentative, nominal). All lexical roots in Tupinambá are predicates. In order for these to function as arguments of predicates the Ref marker is used.
+is used for the referential marker (also called argumentative, nominal). All lexical roots in Tupinambá are predicates. In order for these to function as arguments of predicates the Ref marker is used. Its function is nothing like that of nominal cases. 
 
 
 #### Examples
