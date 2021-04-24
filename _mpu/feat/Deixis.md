@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'Demonstrative'
-shortdef: 'Dem'
+title: 'Deixis'
+shortdef: 'Deixis'
 udver: '2'
 ---
 
