@@ -79,26 +79,17 @@ the original vowel, e.g, *xat* 'food' *xaxet* 'there is food'. These nouns recei
 * Mundurukú classifiers are real nouns, and there are more than a hundred of nouns in classifier function. Nouns in this function
 have the feature `Noun=Clf`.
 * The relational markers `Rel`, which indicate contiguity or non-contiguity between a head and its dependent, take respectively the following features: `Rel=Cont` and `Rel=NCont`. 
+* The relational markers `Rel`, which indicate contiguity or non-contiguity between a head and its dependent, take respectively the following features: `Rel=Cont` and `Rel=NCont`. A third type or relational indicates that a possessor is not present, neither contiguously or non-contiguously. This relational is tagged `Rel=Abs`, for absolute. The reflexive/correferential morpheme _o_. which is often referred to as 'relational<sub>3</sub>' is associated with the feature-value `Reflex=Yes`. 
 * Mundurukú has possessor markers that distinguish alienably and inalienably possessed nouns. These types of possession have the feature [Poss](https://universaldependencies.org/u/feat/Poss.html) and the values alienable `(Poss=Ali)`, and inalienable `(Poss=Inal)`.
-
+* Tupinambá is reach in nominalizations. Lexical roots can be nominalized by suffixes that receive the following features: nominalizatin of circusntance `Nomzr=Circ` (*-saβ* 'thing, way of VERB'), deverbal passive nominalization `Nomzr=DevPass` (*-pɨr* 'one that is VERB past participle'), `Nomzr=Ag`(*-sar* 'the VERB-_er_').
 
 ### Verbal Features
 
 * Verbs have a lexical [Aspect](https://universaldependencies.org/u/feat/Aspect.html): imperfective (Imp), perfective (Perf), iterative (Iter).
 * Some lexical roots can not easily be assigned to a  specific lexical category. This is the case with *kake* and *opop*.
 These are tagged as [AUX](https://universaldependencies.org/u/pos/AUX_.html) in the [UPOS](), and v:ex (existential verb) and `aux` respectively in the XPOS.
-
----
-
-### Features
-
-* The relational markers `Rel`, which indicate contiguity or non-contiguity between a head and its dependent, take respectively the following features: `Rel=Cont` and `Rel=NCont`. A third type or relational indicates that a possessor is not present, neither contiguously or non-contiguously. This relational is tagged `Rel=Abs`, for absolute. The reflexive/correferential morpheme _o_. which is often referred to as 'relational<sub>3</sub>' is associated with the feature-value `Reflex=Yes`. 
-
-* As a head marking language, Tupinambá cross-references both arguments of a two-place predicate, actor (A) and undergoer (U), only when U is third person: *a-s-epjak* 1.SG-3(RELNCONT)-see 'I see him/her/it/them'. The [PERSON](https://universaldependencies.org/u/feat/Person.html) feature in this case ha sthe value `Person=13` indicating that A is 1<sup>st</sup> and O 3<sup>rd</sup> person.
-
+* As a head marking language, Tupinambá cross-references both arguments of a two-place predicate, S and O, only when O is third person: *a-s-epjak* 1.SG-3(RELNCONT)-see 'I see him/her/it/them'. The [PERSON](https://universaldependencies.org/u/feat/Person.html) feature in this case ha sthe value `Person=13` indicating that A is 1<sup>st</sup> and O 3<sup>rd</sup> person.
 * The protmanteau markers indicating 1 -> 2 (A is 1<sup>st</sup> and U is 2<sup>nd</sup> person) are asigned the [PERSON](https://universaldependencies.org/u/feat/Person.html) feature `Person12Sg` and `Person12Pl`.
-
-* Tupinambá is reach in nominalizations. Lexical roots can be nominalized by suffixes that receive the following features: nominalizatin of circusntance `Nomzr=Circ` (*-saβ* 'thing, way of VERB'), deverbal passive nominalization `Nomzr=DevPass` (*-pɨr* 'one that is VERB past participle'), `Nomzr=Ag`(*-sar* 'the VERB-_er_').
 
 ---
 
