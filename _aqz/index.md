@@ -74,7 +74,7 @@ VERBAL FEATURE
 
 ## Treebanks
 
-There are [N](../treebanks/aqz-comparison.html) Akuntsu UD treebank:
+There is 1 Akuntsu UD treebank:
 
-  * [Akuntsu](../https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT)
+  * [Akuntsu](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT)
 
