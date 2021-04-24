@@ -10,8 +10,6 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Circ">Circ</a></td>
   <td><a href="#DevPass">DevPass</a></td>
-  <td><a href="#Ag">Ag</a></td>
-  <td><a href="#Rel">Rel</a></td>
   
   
 
@@ -21,48 +19,29 @@ udver: '2'
 
 ### <a name="Circ">`Circ`</a>: Circumstance
 
-The nominalizer of circumstance can be roughly translated as 'way / place of x'
+The nominalizer of circumstance is expressed with the suffix "haw"
 
 #### Examples
 
-* _<b>pyhaw</b>&nbsp;_ “place of darkness”
+* _<b>py-haw</b>&nbsp;_ “time of darkness”
 
   
 </tr>
 </table>
 
-### <a name="DevPass">`DevPass`</a>: Pasive deverbal
+### <a name="DevPass">`DevPass`</a>: Passive deverbal
 
-The deverbal passive
+The nominalizer of deverbal passive is expressed with the suffix "haw"
 
 #### Examples
 
-* _<b>i-juká-pɨr-a</b>&nbsp;_ “the one who is/must be killed”
+* _<b>yryk-haw</b>&nbsp;_ “what flows”
 
   
 </tr>
 </table>
 
 
-### <a name="Ag">`Ag`</a>: Agent
-
-The agent nominalizer
-
-#### Examples
-
-* _<b>juká-sar-a</b>&nbsp;_ “way / Kill-er”
-
-  
-</tr>
-</table>
-
-### <a name="Rel">`Rel`</a>: Relativizer
-
-The nominalizer of circumstance can be roughly translated as 'way / place of x'
-
-#### Examples
-
-* _<b>juká-saβ-a</b>&nbsp;_ “way / place of killing”
 
 ## Diffs
 
