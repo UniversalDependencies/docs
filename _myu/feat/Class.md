@@ -12,6 +12,7 @@ udver: '2'
   <td><a href="">Round</a></td>
   <td><a href="">Seed</a></td>
   <td><a href="">Liquid</a></td>
+  <td><a href="">CilRig</a></td>
   
   
 </tr>
@@ -38,6 +39,13 @@ udver: '2'
 #### Examples
 
 * _<b>kape-de</b>&nbsp;_ “coffee (liquid)”
+
+
+### <a name="CilRig">`CilRig`</a>: Colindric and rigid
+
+#### Examples
+
+* _<b>ako-ba</b>&nbsp;_ “banana”
 
 
 
