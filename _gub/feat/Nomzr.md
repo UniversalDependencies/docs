@@ -9,8 +9,9 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Circ">Circ</a></td>
+  <td><a href="#Pass">Pass</a></td>
   <td><a href="#DevPass">DevPass</a></td>
-  
+  <td><a href="#Ag">Ag</a></td>
   
 
 </tr>
@@ -23,19 +24,46 @@ The nominalizer of circumstance is expressed with the suffix "haw"
 
 #### Examples
 
-* _<b>py-haw</b>&nbsp;_ “time of darkness”
+* _<b>py-haw</b>&nbsp;_ “night (time of darkness)”
+* _<b>yryk-haw</b>&nbsp;_ “river (the way it flows)”
 
   
 </tr>
 </table>
 
-### <a name="DevPass">`DevPass`</a>: Passive deverbal
 
-The nominalizer of deverbal passive is expressed with the suffix "haw"
+### <a name="Ag">`Ag`</a>: Agent
+
+The nominalizer of circumstance is expressed with the suffix "har"
 
 #### Examples
 
-* _<b>yryk-haw</b>&nbsp;_ “what flows”
+* _<b>he-mu'e-har</b>&nbsp;_ “teacher (the person who teaches me)”
+
+
+  
+</tr>
+</table>
+
+### <a name="Pass">`Pass`</a>: Passive
+
+The nominalizer of deverbal passive is expressed with the suffix "pyr"
+
+#### Examples
+
+* _<b>imuzàg-pyr</b>&nbsp;_  "what is to be produced"
+
+  
+</tr>
+</table>
+
+### <a name="DevPass">`DevPass`</a>: Passive Deverbal
+
+The nominalizer of deverbal passive is expressed with the prefix "emi"
+
+#### Examples
+
+* _<b>he-r-emi-apo kwer</b>&nbsp;_  "what I did"
 
   
 </tr>
