@@ -14,16 +14,15 @@ udver: '2'
 </tr>
 </table>
 
-`Person`  
+`Tense`  
 
 ### <a name="1">`Fut`</a>: Future
 
-First Person: o=
+
 
 #### Examples
 
 * _<b>o=ø-pi</b>&nbsp;_ “my foot”
-
 * _<b>o=et-a</b>&nbsp;_ “I sleep”
 
 
