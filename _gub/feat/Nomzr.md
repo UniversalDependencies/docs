@@ -9,7 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Circ">Circ</a></td>
-  <td><a href="#Pass">Pass</a></td>
+  <td><a href="#Pas">Pas</a></td>
   <td><a href="#DevPass">DevPass</a></td>
   <td><a href="#Ag">Ag</a></td>
   
@@ -45,7 +45,7 @@ The nominalizer of circumstance is expressed with the suffix "har"
 </tr>
 </table>
 
-### <a name="Pass">`Pass`</a>: Passive
+### <a name="Pas">`Pas`</a>: Passive
 
 The nominalizer of deverbal passive is expressed with the suffix "pyr"
 
