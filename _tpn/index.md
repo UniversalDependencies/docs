@@ -36,8 +36,7 @@ Nouns may also be reduplicated in both ways denoting: plurality, collectivity, s
 
 * Nouns are also marked for tense.
 
-* As an omnipredicative language, lexical roots in Tupinambá are existential predicates. In order to function as arguments, the referential marker (a  ̴ ∅), is marked as Case (`Case=Ref`) despite its function being nothing like that of nominal cases.
-
+* As an omnipredicative language, lexical roots in Tupinambá are existential predicates. In order to function as arguments, the referential marker (a  ̴ ∅), is required (marked as `Case=Ref`) despite its function being nothing like that of nominal cases.
 
 
 ### Tags
