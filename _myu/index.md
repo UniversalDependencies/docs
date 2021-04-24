@@ -109,10 +109,9 @@ For this reason the feature [Person](https://universaldependencies.org/u/feat/Pe
 * There is a split in alignment type based on verbal aspect.
 
 
-### Non-verbal clauses
+### Non-verbal clauses 
 
-Mundurukú has some lexemes that function as [copula](https://universaldependencies.org/u/dep/cop.html) in non-verbal clauses for existentia and locational predicates. Examples are: *opop*, *kug̃*, and *kake*. These copular elements are not treated as the
-head of a clause, but rather the dependent of a lexical predicate
+* Mundurukú has some lexemes that function as [copula](https://universaldependencies.org/u/dep/cop.html) in non-verbal clauses for existentia and locational predicates. Examples are: *opop*, *kug̃*, and *kake*. These copular elements are not treated as the head of a clause, but rather the dependent of a lexical predicate
 ---
 
 ## Treebanks
