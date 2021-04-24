@@ -21,7 +21,7 @@ udver: '2'
 
 #### Examples
 
-* _<b></b>o=tʃet-a kom</b>&nbsp “I will leave”
+* _<b></b>o=tʃet-a kom “I will leave”
 
 
 
