@@ -73,9 +73,23 @@ monosylabic reduplication (`Red=Mo`), disylabic reduplication (`Red=Di`). The mo
 
 ## Syntax
 
+* As a head-marking language, core arguments, except oblique core arguments are cross-referenced on the predicate, as in the example below:
+
+```
+asepjak 
+
+a-s-epjak
+
+1.SG-3-see
+
+I see her/him/it/them
+```
+
+This is the case only when the object is third-person. For this reason the feature [Person](https://universaldependencies.org/u/feat/Person.html) takes values combining both arguments (A dn P): `Person=13`, `Person=23`, and `Person=33`. No othe combinations occur.
+
 * The order of arguments cross-referenced on the predicate is SOV. Full NPs associated with core arguments may appear in any order. These NPs are marked as `obl` ' obliques', since they are not the core arguments. 
 * What has been traditionally called circunstantial mood or indicative II in some Tupí-Guaraní languages referes to a nominalization accompanied by the fronting of an adverbial expression: adverbs, adverbial expressions, postpositional phrases (oblique topicalization). The nominalized form in this case is marked by the feature-value [OblTop=Yes](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/OblTop.md).
-* Transitivity is found only with third person objects.
+Transitivity is found only with third person objects.
 
 ### 
 
@@ -84,7 +98,7 @@ monosylabic reduplication (`Red=Mo`), disylabic reduplication (`Red=Di`). The mo
 
 ## Treebanks
 
-There is 1 (../treebanks/tpn-comparison.html) Tupinamba UD treebank:
+There is 1 Tupinamba UD treebank:
 
   * [Tupinamba-A](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT)
 
