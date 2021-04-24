@@ -70,8 +70,6 @@ Mapping UPOS to XPOS Tupinambá
  SYM   | sym      |
  X     | x        |
 
----
-
 
 ---
 
