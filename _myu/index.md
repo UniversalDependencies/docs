@@ -99,39 +99,20 @@ indicate *tense* or *posture*. The table below, shows auxiliaries, giving their 
 * There are three values for the [Voice](https://universaldependencies.org/u/feat/Voice.html) feature: Act, Mid Pass. All other verb forms have Voice=Act.
 
 
-
-
 ## Syntax
 
 ### Core Arguments, Oblique Arguments and Adjuncts
-
-As a head-marking language, core arguments, except oblique core arguments are cross-referenced on the predicate, as in the example below:
-
-```
-asepjak 
-
-a-s-epjak
-
-1.SG-3-see
-
-I see her/him/it/them
-```
-
-This is the case only when the object is third-person. For this reason the feature [Person](https://universaldependencies.org/u/feat/Person.html) takes values combining both arguments (A dn P): `Person=13`, `Person=23`, and `Person=33`. No othe combinations occur.
-
-
+* As a head-marking language, core arguments, except oblique core arguments are cross-referenced on the predicate.
+For this reason the feature [Person](https://universaldependencies.org/u/feat/Person.html) takes values combining both arguments (A dn P): `Person=13`, `Person=23`, and `Person=33`. No other combinations occur.
+* The order of arguments cross-referenced on the predicate is SOV. These NPs are marked as `obl` ' obliques', since they are not the core arguments. 
+* Transitivity is found only with third person objects.
+* There is a split in alignment type based on verbal aspect.
 
 
 ### Non-verbal clauses
 
 Mundurukú has some lexemes that function as [copula](https://universaldependencies.org/u/dep/cop.html) in non-verbal clauses for existentia and locational predicates. Examples are: *opop*, *kug̃*, and *kake*. These copular elements are not treated as the
 head of a clause, but rather the dependent of a lexical predicate
-
-
-
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
 ---
 
 ## Treebanks
