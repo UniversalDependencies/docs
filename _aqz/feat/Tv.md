@@ -16,7 +16,8 @@ udver: '2'
 
 `Tv`  
 
-### <a name="Fut">`Fut`</a>: Future
+### <a name="Tv">`Tv`</a>: Thematic vowel
+
 #### Examples
 
 * _<b>Konibu te=et-a</b>&nbsp;_ “Konibú is sleeping"
