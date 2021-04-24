@@ -21,7 +21,7 @@ udver: '2'
 
 ### <a name="Coll">`Coll`</a>: Collective 
 
-Words that use grammatical singular to describe a set of objects
+The collective number is expressed by the suffix "kwer"
 
 #### Examples
 
@@ -29,19 +29,24 @@ Words that use grammatical singular to describe a set of objects
 
 ### <a name="Plur">`Plur`</a>: Plural 
 
-Several entities or objects
+The plural number is expressed by the particle "wa", as well as being part of the personal pronouns "zane", "ure" and "pe"
 
 #### Examples
 
-* _<b>a'e wà</b>&nbsp;_ “They”
+* _<b>zane</b>&nbsp;_ “We (1.PL.IN)”
+* _<b>ure</b>&nbsp;_ “We (1.PL.EX)"
+* _<b>pe</b>&nbsp;_ “You (2.PL)”
+* _<b>a'e wa</b>&nbsp;_ “They”
 
 ### <a name="Sing">`Sing`</a>: Singular 
 
-One entity or object
+The singular number is expressed as part of the personal pronouns "ihe" and "ne" and the imperative morpheme "e"
 
 #### Examples
 
 * _<b>ihe</b>&nbsp;_ “I”
+* _<b>ne</b>&nbsp;_ “You (2.SG)”
+* _<b>E-z-apo</b>&nbsp;_ “Make”
   
 </tr>
 </table>
