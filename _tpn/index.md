@@ -62,7 +62,6 @@ Mapping UPOS to XPOS for Tupinambá:
  SCONJ | sc       |
  PUNCT | punct    |
  SYM   | sym      |
- X     | x        |
 
 ---
 
