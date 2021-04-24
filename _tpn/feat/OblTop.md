@@ -23,7 +23,7 @@ udver: '2'
 
 #### Examples
 
-* _<b>Kori i-juká-w</b>&nbsp;_ “ Today he killed him ” (Anch., Arte, 3 9v). Compare o-(i)-juká kori " he killed him today"
+* _<b>Kori i-juká-w</b>&nbsp;_ “ Today he killed him ” (Anch., Arte, 3 9v). Compare _o-(i)-juká kori_ "he killed him today".
 
  
 
