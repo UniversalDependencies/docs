@@ -11,9 +11,7 @@ udver: '2'
   <td><a href="#All">All</a></td>
   <td><a href="#Ben">Ben</a></td>
   <td><a href="#Dat">Dat</a></td>
-  <td><a href="#Ins">Ins</a></td>
   <td><a href="#Loc">Loc</a></td>
-  <td><a href="#Tra">Tra</a></td>
   
   
 
