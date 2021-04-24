@@ -25,7 +25,7 @@ udver: '2'
 
 ### <a name="All">`All`</a>: Allative 
 
-It expresses direction to something
+The allative case is expressed with the morpheme "pe"
 
 #### Examples
 
@@ -35,7 +35,7 @@ It expresses direction to something
 
 ### <a name="Ben">`Ben`</a>: Benefactive
 
-
+The benefactive case is expressed with the morpheme "pe"
 
 #### Examples
 
@@ -44,44 +44,25 @@ It expresses direction to something
 
 ### <a name="Dat">`Dat`</a>: Dative
 
-This is the word form used for indirect objects of verbs.
+The dative case is expressed with the morpheme "pe"
 
 #### Examples
 
 * _<b>Nuzapo pixik kwaw agwer ma'e amo ae awa pe</b>&nbsp;_ “He never did this kind of things to any other man”
 
 
-### <a name="Ins">`Ins`</a>: Instrumental 
-
-It is used to signal the instrument with which an action was performed.
-
-#### Examples
-
-* _<b>aguz pupe</b>&nbsp;_ “with a needle”
-  
-</tr>
-</table>
-
-
-
 ### <a name="Loc">`Loc`</a>: Locative
 
-There are different locatives
+The locative case is expressed with the morpheme "pe"
 
 #### Examples
 
 * _<b>a'e pe</b>&nbsp;_ “There”
 
 
-### <a name="Tra">`Tra`</a>: Traslative
-
-Traslative
-
-#### Examples
-
-* _<b>t-uβ-amo</b>&nbsp;_ “as / in the quality of a father”
-
-
+  
+</tr>
+</table>
 
 ## Diffs
 
