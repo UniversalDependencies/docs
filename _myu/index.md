@@ -19,8 +19,6 @@ udver: '2'
 
 ### Tags
 
-This is an overview only. For more detailed discussion and examples, see the list of [Mundurukú POS tags](pos/index.html)
-and [Mundurukú features](feat/index.html).
 
 * Mundurukú uses 16 ofthe 17 universal POS categories. `ADJ` is not used since there is no separate class of adjectives.
 Stative-verbs and possessed nouns behave alike, in a way that is not possible to distinguish them morphologically
