@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Cnd">Cnd</a></td>
   <td><a href="#CndGen">CndGen</a></td>
+  <td><a href="#CndPot">CndPot</a></td>
   <td><a href="#Des">Des</a></td>
   <td><a href="#Gen">Gen</a></td>
   <td><a href="#GenNec">GenNec</a></td>
@@ -147,6 +148,14 @@ gets a future or generalized predictive reading.
 #### Examples
 
 * _Arabayı <b>satarsa</b> hepimiz rahatlarız._ “If he sells the car it will be a relief to all of us.” (Göksel & Kerslake, 2005, p.488)
+
+### <a name="CndPot">`CndPot`</a>: conditional potential
+
+The potential modality can be combined with the conditional suffix.
+
+#### Examples
+
+* _durumların çoğu tartışma olmadan <b>çözülebilse</b>_ “if most situations could be resolved without conflict”
 
 ### <a name="Des">`Des`</a>: desiderative
 
