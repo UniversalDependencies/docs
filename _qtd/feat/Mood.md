@@ -21,6 +21,7 @@ udver: '2'
   <td><a href="#Opt">Opt</a></td>
   <td><a href="#Pot">Pot</a></td>
   <td><a href="#Prs">Prs</a></td>
+  <td><a href="#Sub">Sub</a></td>
 </tr>
 </table>
 
@@ -124,6 +125,18 @@ either is a statement of generalized validity, or a hypothetical statement (Gök
 
 * _Kaplumbağa hızlı <b>yürüyemez</b>._ “A tortoise can't walk fast.” (Göksel & Kerslake, 2005, p.488)
 * _Masayı şuraya <b>koyabiliriz</b>._ “We can/could put the table here.” (a hypothetical statement)
+
+### <a name="Sub">`Sub`</a>: subjunctive / conjunctive
+
+The subjunctive mood is used under certain circumstances in
+subordinate clauses, typically for actions that are subjective or
+otherwise uncertain. In German, it may be also used to convey the
+conditional meaning.
+
+#### Examples
+
+* [fr] <i>Je veux que tu le <b>fasses</b></i> "I want you to do it" lit. <i>I
+  want that you it do</i><tt>.Sub</tt>
 
 ### <a name="Cnd">`Cnd`</a>: conditional
 
