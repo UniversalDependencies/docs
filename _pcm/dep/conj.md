@@ -5,14 +5,8 @@ shortdef: 'conjunct'
 udver: '2'
 ---
 
-Naija does not uses `conj` as such, but splits it into three subrelations:
-
-+ [conj:appos]() : apposed conjunct
-+ [conj:coord]() : coordinated conjunct
-
-
 ~~~ conllu
-# visual-style 4 5 conj:coord	color:blue
+# visual-style 4 5 conj	color:blue
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
@@ -21,7 +15,7 @@ Naija does not uses `conj` as such, but splits it into three subrelations:
 2	dey	be	AUX	AUX	_	3	aux	_	_
 3	drink	drink	VERB	VERB	_	0	root	_	_
 4	kainkain	kainkain	NOUN	NOUN	_	3	obj	_	_
-5	ogogoro	ogogoro	NOUN	NOUN	_	4	conj:coord	_	_
+5	ogogoro	ogogoro	NOUN	NOUN	_	4	conj	_	_
 
 1	them	_	_	_	_	0	_	_	_
 2	be	_	_	_	_	0	_	_	_
@@ -34,13 +28,13 @@ Naija does not uses `conj` as such, but splits it into three subrelations:
 3	spirits	_	_	_	_	0	_	_	_
 4	,	_	_	_	_	0	_	_	_
 5	ogogoro	_	_	_	_	0	_	_	_
+
 ~~~
 
 
-+ [conj:dicto]() : disfluency, reformulation, elaboration
 
 ~~~ conllu
-# visual-style 5 8 conj:dicto	color:blue
+# visual-style 5 8 conj	color:blue
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 5	bgColor:blue
@@ -52,7 +46,7 @@ Naija does not uses `conj` as such, but splits it into three subrelations:
 5	think	think	NOUN	NOUN	_	3	obj	_	_
 6	your	your	PRON	PRON	_	8	nmod:poss	_	_
 7	think	think	NOUN	NOUN	_	8	compound	_	_
-8	faculty	faculty	NOUN	NOUN	_	5	conj:dicto	_	_
+8	faculty	faculty	NOUN	NOUN	_	5	conj	_	_
 
 1	you	_	_	_	_	0	_	_	_
 2	have	_	_	_	_	0	_	_	_
@@ -73,5 +67,6 @@ Naija does not uses `conj` as such, but splits it into three subrelations:
 8	rational	_	_	_	_	0	_	_	_
 9	thinking	_	_	_	_	0	_	_	_
 10	faculty	_	_	_	_	0	_	_	_
+
 ~~~
 <!-- Interlanguage links updated Čt lis 12 09:43:20 CET 2020 -->
