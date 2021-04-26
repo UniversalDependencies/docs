@@ -12,6 +12,7 @@ udver: '2'
   <td><a href="#CndGen">CndGen</a></td>
   <td><a href="#Des">Des</a></td>
   <td><a href="#Gen">Gen</a></td>
+  <td><a href="#GenNec">GenNec</a></td>
   <td><a href="#GenPot">GenPot</a></td>
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Ind">Ind</a></td>
@@ -86,12 +87,20 @@ With third person singular agreement the imperative form may also express a wish
 
 ### <a name="Nec">`Nec`</a>: necessitative
 
-This expresses some sort of necessity (mush/should/have to in English).
+This expresses some sort of necessity (must/should/have to in English).
 
 #### Examples
 
 * *eve gitmeli* 'she should go home'
 * *eve gitmeliydi* 'she should have gone home'
+
+### <a name="GenNec">`GenNec`</a>: general or hypothetical necessitative
+
+The necessitative suffix can be combined with a suffix of general modality.
+
+#### Examples
+
+* _Siyasi riskteki artış gözden <b>kaçmamalıdır</b>._ “The spike in political risk should not go unnoticed.”
 
 ### <a name="Pot">`Pot`</a>: potential
 
@@ -100,6 +109,7 @@ These moods are normally distinct, and the same verb may express both at the sam
 However, it is also very difficult to disambiguate between these two moods.
 
 #### Examples
+
 * *eve gidebilir* 'she can go home' ('she is capable of going home', or 'she just may go home')
 * *yağmur yağabilir* 'it may rain'
 * *eve gidemeyebilir* 'she may not be able to go home' (it is possible that she is not capable of going home)
