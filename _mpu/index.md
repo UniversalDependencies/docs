@@ -18,8 +18,6 @@ udver: '2'
 
 ### Tags
 
-This is an overview only. For more detailed discussion and examples, see the list of [Mundurukú POS tags](pos/index.html) and [Mundurukú features](feat/index.html).
-
 * Makurap uses 16 of the 17 universal POS categories. `ADJ` is not used since there is no separate class of adjectives.
 
 Mapping UPOS to XPOS Makurap
