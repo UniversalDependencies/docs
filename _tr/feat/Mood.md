@@ -12,6 +12,7 @@ udver: '2'
   <td><a href="#CndGen">CndGen</a></td>
   <td><a href="#Des">Des</a></td>
   <td><a href="#Gen">Gen</a></td>
+  <td><a href="#GenPot">GenPot</a></td>
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Nec">Nec</a></td>
@@ -33,6 +34,7 @@ The indicative can be considered the default mood. A verb in indicative merely s
 
 * *eve gidiyor* 'she is going home'
 * *eve gitti* 'she went home'
+* _Kaplumbağa yavaş <b>yürüyor</b>._ “The tortoise walks/is walking slowly.” (statement about a specific tortoise; Göksel & Kerslake, 2005, p.340)
 
 ### <a name="Gen">`Gen`</a>: generalized modality
 
@@ -48,6 +50,7 @@ This mood is typically marked by the aorist marker on verbs, and with *-DIr* suf
 * *ikinin karesi dörttür* 'two's square is four'
 * *Ali işe geç gider* 'Ali goes to work late'
 * *hastadır* '(I hypothesize/deduce that) she must be sick'
+* _Kaplumbağa yavaş <b>yürür</b>._ “A tortoise walks slowly.” (a general statement about tortoises; Göksel & Kerslake, 2005, p.340)
 
 ### <a name="Imp">`Imp`</a>: imperative
 
@@ -100,6 +103,16 @@ However, it is also very difficult to disambiguate between these two moods.
 * *eve gidebilir* 'she can go home' ('she is capable of going home', or 'she just may go home')
 * *yağmur yağabilir* 'it may rain'
 * *eve gidemeyebilir* 'she may not be able to go home' (it is possible that she is not capable of going home)
+
+### <a name="GenPot">`GenPot`</a>: general or hypothetical potential
+
+When the potential suffix is combined with the non-past (aorist) suffix, the resulting sentence
+either is a statement of generalized validity, or a hypothetical statement (Göksel & Kerslake, 2005, p.346).
+
+#### Examples
+
+* _Kaplumbağa hızlı <b>yürüyemez</b>._ “A tortoise can't walk fast.” (Göksel & Kerslake, 2005, p.488)
+* _Masayı şuraya <b>koyabiliriz</b>._ “We can/could put the table here.” (a hypothetical statement)
 
 ### <a name="Cnd">`Cnd`</a>: conditional
 
