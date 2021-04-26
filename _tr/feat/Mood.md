@@ -5,6 +5,22 @@ shortdef: 'mood'
 udver: '2'
 ---
 
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Cnd">Cnd</a></td>
+  <td><a href="#CndGen">CndGen</a></td>
+  <td><a href="#Des">Des</a></td>
+  <td><a href="#Gen">Gen</a></td>
+  <td><a href="#Imp">Imp</a></td>
+  <td><a href="#Ind">Ind</a></td>
+  <td><a href="#Nec">Nec</a></td>
+  <td><a href="#Opt">Opt</a></td>
+  <td><a href="#Pot">Pot</a></td>
+  <td><a href="#Prs">Prs</a></td>
+</tr>
+</table>
+
 `Mood` expresses the modality, a speaker's perspective, in finite verbs.
 Turkish verbs may carry a wide range of mood information.
 Different moods are indicated by a number of suffixes, which also interact with [tense](Tense) and [aspect](Aspect) of the verb.
@@ -17,6 +33,21 @@ The indicative can be considered the default mood. A verb in indicative merely s
 
 * *eve gidiyor* 'she is going home'
 * *eve gitti* 'she went home'
+
+### <a name="Gen">`Gen`</a>: generalized modality
+
+Turkish modal system includes a distinction between statements of direct experience (`Ind`) and statements with a more general or theoretical nature (Göksel & Kerslake, 2005, p.295).
+This mood is typically marked by the aorist marker on verbs, and with *-DIr* suffix on nominal predicates.
+
+(**NOTE:** this mood interacts with evidentiality.  One may consider the status of evidentiality expressed by this suffix to be "inferred". Hence, an alternative way of marking this could be `Evidential=Infer`, or something similar)
+
+#### Examples
+
+* *park yapılmaz* 'one does not park = no parking'
+* *iki, iki daha dört eder* 'two plus two is four'
+* *ikinin karesi dörttür* 'two's square is four'
+* *Ali işe geç gider* 'Ali goes to work late'
+* *hastadır* '(I hypothesize/deduce that) she must be sick'
 
 ### <a name="Imp">`Imp`</a>: imperative
 
@@ -36,33 +67,6 @@ Turkish has a particular form of imperative, where the request is not an order, 
 
 * *eve gitsene* '(please) go home'
 * *eve gitsenize* '(you-PLU, please) go home'
-
-### <a name="Cnd">`Cnd`</a>: conditional
-
-This expresses conditionality.
-It is the primary means of forming conditionals in Turkish ('if ...').
-The suffix responsible for this mood is *-sA*.
-The suffix is ambiguous between `Cnd` and `Des` (see below).
-
-#### Examples
-
-* *eve gittiyse* 'if she went home'
-* *eve gidiyorsa* 'if she is going home'
-* *eve giderse* 'if she goes home'
-* *eve gidecekdiyse* 'if she was going to go home'
-
-### <a name="Des">`Des`</a>: desiderative
-
-This mood expresses a wish.
-It shares the same form as the `Cnd` mood.
-It may be disambiguated by particles (*keşke*: desire, *eğer*: condition) or by the context.
-For example, desires do not work well with fixed time references.
-In general it is difficult to automatically disambiguate between these two moods.
-
-#### Examples
-
-* *(keşke) uyusa* 'I wish she sleeps'
-* *(keşke) uyusaydı* 'I wish she slept'
 
 ### <a name="Opt">`Opt`</a>: optative
 
@@ -86,21 +90,6 @@ This expresses some sort of necessity (mush/should/have to in English).
 * *eve gitmeli* 'she should go home'
 * *eve gitmeliydi* 'she should have gone home'
 
-### <a name="Gen">`Gen`</a>: generalized modality (**new proposal, not in UD**)
-
-Turkish modal system includes a distinction between statements of direct experience (`Ind`) and statements with a more general or theoretical nature (Göksel & Kerslake, 2005, p.295).
-This mood is typically marked by the aorist marker on verbs, and with *-DIr* suffix on nominal predicates.
-
-(**NOTE:** this mood interacts with evidentiality.  One may consider the status of evidentiality expressed by this suffix to be "inferred". Hence, an alternative way of marking this could be `Evidential=Infer`, or something similar)
-
-#### Examples
-
-* *park yapılmaz* 'one does not park = no parking'
-* *iki, iki daha dört eder* 'two plus two is four'
-* *ikinin karesi dörttür* 'two's square is four'
-* *Ali işe geç gider* 'Ali goes to work late'
-* *hastadır* '(I hypothesize/deduce that) she must be sick'
-
 ### <a name="Pot">`Pot`</a>: potential
 
 The suffix *-Abil* may indicate ability or possibility.
@@ -111,6 +100,43 @@ However, it is also very difficult to disambiguate between these two moods.
 * *eve gidebilir* 'she can go home' ('she is capable of going home', or 'she just may go home')
 * *yağmur yağabilir* 'it may rain'
 * *eve gidemeyebilir* 'she may not be able to go home' (it is possible that she is not capable of going home)
+
+### <a name="Cnd">`Cnd`</a>: conditional
+
+This expresses conditionality.
+It is the primary means of forming conditionals in Turkish ('if ...').
+The suffix responsible for this mood is *-sA*.
+The suffix is ambiguous between `Cnd` and `Des` (see below).
+
+#### Examples
+
+* *eve gittiyse* 'if she went home'
+* *eve gidiyorsa* 'if she is going home'
+* *eve giderse* 'if she goes home'
+* *eve gidecekdiyse* 'if she was going to go home'
+* _Arabayı <b>satsa</b> hepimiz rahatlarız._ “If he sold the car it would be a relief to all of us.” (Göksel & Kerslake, 2005, p.488)
+
+### <a name="CndGen">`CndGen`</a>: general (non-past) conditional
+
+When the conditional suffix is combined with the non-past (aorist) suffix, the resulting sentence
+gets a future or generalized predictive reading.
+
+#### Examples
+
+* _Arabayı <b>satarsa</b> hepimiz rahatlarız._ “If he sells the car it will be a relief to all of us.” (Göksel & Kerslake, 2005, p.488)
+
+### <a name="Des">`Des`</a>: desiderative
+
+This mood expresses a wish.
+It shares the same form as the `Cnd` mood.
+It may be disambiguated by particles (*keşke*: desire, *eğer*: condition) or by the context.
+For example, desires do not work well with fixed time references.
+In general it is difficult to automatically disambiguate between these two moods.
+
+#### Examples
+
+* *(keşke) uyusa* 'I wish she sleeps'
+* *(keşke) uyusaydı* 'I wish she slept'
 
 ### References
 - Aslı Göksel and Celia Kerslake. _Turkish: A Comprehensive Grammar_.
