@@ -33,6 +33,6 @@ have `Animacy=Anim|Animacy[gram]=Inan`.
 
 #### Examples
 
-- _посилають під три <b>чорти</b>&nbsp;_ “they send (it) under three devils” (idiomatic expression)
+* _посилають під три <b>чорти</b>&nbsp;_ “they send (it) under three devils” (idiomatic expression)
 
 <!-- Interlanguage links updated Čt lis 12 09:43:02 CET 2020 -->
