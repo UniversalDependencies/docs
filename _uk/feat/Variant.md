@@ -9,6 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Short">Short</a></td>
+  <td><a href="#Uncontr">Uncontr</a></td>
 </tr>
 </table>
 
@@ -46,4 +47,11 @@ They are separate words (unlike in some other languages) but in the word order t
 * _<b>mi</b>, <b>mě</b>, <b>ti</b>, <b>tě</b>, <b>mu</b>, <b>ho</b>, <b>si</b>, <b>se</b>_
 * _mně, mne, tobě, tebe, jemu, jeho, sobě, sebe_
 * “me, me, you, you, him, him, oneself, oneself”
+
+### <a name="Uncontr">`Uncontr`</a>: uncontracted form of adjectives
+
+#### Examples
+
+* _<b>бідная</b>_ (instead of _бідна_) “poor”
+
 <!-- Interlanguage links updated Čt lis 12 09:43:07 CET 2020 -->
