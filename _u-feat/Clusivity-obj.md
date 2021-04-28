@@ -14,7 +14,7 @@ udver: '2'
 </table>
 
 Clusivity is a feature of first-person plural personal [pronouns](u-pos/PRON).
-As such, it can also be reflected by inflection of [verbs](u-pos/VERB), e.g. in Plains Cree (Wolvengrey 2011 p. 66).
+As such, it can also be reflected by inflection of [verbs](u-pos/VERB), e.g. in Mbyá Guaraní.
 
 Some languages are head-marking, which means that the verbal morphology can cross-reference
 multiple core arguments, not just the subject. If the cross-reference involves the `Clusivity` of the argument,
@@ -22,20 +22,20 @@ we have two layers of `Clusivity` on the verb: `Clusivity[subj]`, and (for trans
 While it would be possible to make the subject layer the default and use just `Clusivity` for it,
 the explicit labeling of both layers is probably more helpful in such languages, as it can reduce confusion.
 
-### <a name="In">`In`</a>: inclusive
+### <a name="In">`In`</a>: inclusive object
 
 Includes the listener, i.e. _we_ = _I + you_ (+ optionally _they_).
 
 #### Examples
 
-* [crk] _<b>kiwīcihānaw</b>_ “we (I+you) help him”
+* [gun] _Ñande, <b>ñanderayvu</b> ra'e, añete'i po ra'e, chejaryi._ “She truly loves us (me+you), my grandmother.” (lit. 1.PL.INCL, B1.PL.INCL-R-love MIR, truth=DIM EPIS MIR, B1.SG-grandmother)
 
-### <a name="Ex">`Ex`</a>: exclusive
+### <a name="Ex">`Ex`</a>: exclusive object
 
 Excludes the listener, i.e. _we_ = _I + they._
 
 #### Examples
 
-* [crk] _<b>niwīcihānān</b>_ “we (I+they) help him”
+* [gun] _Ore upecha orejaryi <b>orereroayvu</b>._ “Our grandmothers advised us (me+them) like this.” (lit. 1.PL.EXCL like.this B1.PL.EXCL-grandmother B1.PL.EXCL-R-COM-speak)
 
 <!-- Interlanguage links updated Čt lis 12 09:42:59 CET 2020 -->
