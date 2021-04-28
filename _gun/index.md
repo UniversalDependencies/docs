@@ -132,7 +132,7 @@ These guidelines are very much a work in progress. They are meant to adapt [Dool
 | Relation		|	Description																						|
 |-----------------------|---------------------------------------------------------------------------------------------------|
 | advmod:sentcon	| Adverbial modifier used as sentence initial discourse connective									|
-| dep:mod		| Modifier underspecified for the syntactic category of its head									|
+| [dep:mod]()		| Modifier underspecified for the syntactic category of its head									|
 | [compound:svc]()	| Used for a variety of complex predicates, notably serial verb and postposed verb constructions	|
 | dislocated:cleft	| Used for cleft constructions that lack a copula													|
 | [obl:sentcon]()	| Nominal modifier used as a sentence initial discourse connective									|
