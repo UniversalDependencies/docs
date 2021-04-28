@@ -6,11 +6,11 @@ udver: '2'
 
 # UD for Mbyá Guaraní <span class="flagspan"><img class="flag" src="../../flags/svg/PY.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/AR.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/BR.svg" /></span>
 
-This is a brief overview of the UD annotation for Mbyá Guaraní. A full set of annotation guidelines can be downloaded at [gpythomas.com/Mbya_Treebank_Guidelines.pdf](https://www.gpythomas.com/Mbya_Treebank_Guidelines.pdf) and will be incorporated into the UD Mbya_Guarani documentation in the next release. 
+This is a brief overview of the UD annotation for Mbyá Guaraní. A full set of annotation guidelines can be downloaded at [gpythomas.com/Mbya_Treebank_Guidelines.pdf](https://www.gpythomas.com/Mbya_Treebank_Guidelines.pdf) and will be incorporated into the UD Mbya_Guarani documentation in the next release.
 
 These guidelines are very much a work in progress. They are meant to adapt [Dooley's (2015)](https://www.sil.org/resources/archives/72343) analysis of Mbyá to the UD framework:
 
-* Dooley, Robert A. (2015). Léxico Guarani, Dialeto Mbyá -- com informações úteis para o ensino médio, a aprendizagem e a pesquisa lingüística Brasília, Brazil: Summer Institute of Linguistics. 
+* Dooley, Robert A. (2015). Léxico Guarani, Dialeto Mbyá -- com informações úteis para o ensino médio, a aprendizagem e a pesquisa lingüística Brasília, Brazil: Summer Institute of Linguistics.
 
 ## Tokenization and Word Segmentation
 
@@ -129,13 +129,13 @@ These guidelines are very much a work in progress. They are meant to adapt [Dool
 
 * There are 6 relation subtypes in UD Mbya_Guarani:
 
-| Relation			|	Description																						|
-|-------------------|---------------------------------------------------------------------------------------------------|
+| Relation		|	Description																						|
+|-----------------------|---------------------------------------------------------------------------------------------------|
 | advmod:sentcon	| Adverbial modifier used as sentence initial discourse connective									|
-| dep:mod			| Modifier underspecified for the syntactic category of its head									|
+| dep:mod		| Modifier underspecified for the syntactic category of its head									|
 | compound:svc		| Used for a variety of complex predicates, notably serial verb and postposed verb constructions	|
 | dislocated:cleft	| Used for cleft constructions that lack a copula													|
-| obl:sentcon		| Nominal modifier used as a sentence initial discourse connective									|
+| [obl:sentcon]()	| Nominal modifier used as a sentence initial discourse connective									|
 | parataxis:rep		| Used to relate a reported speech form to a verb of speech report analyzed as its head				|
 
 ---
