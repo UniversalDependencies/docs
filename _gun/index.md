@@ -90,26 +90,25 @@ These guidelines are very much a work in progress. They are meant to adapt [Dool
 
 * Verbs are inflected for person, number and clusivity:
 
-	* Person has three possible values: 1, 2, 3.
-	* Person uses the layers subj and obj.
-	* Number has two possible values: Sing and Plur.
-	* Number uses the layer psor.
-	* Clusivity has two possible values, In and Ex.
-	* Clusivity uses the layers subj and obj.
+  * [Person]() has three possible values: `1`, `2`, `3`.
+    * Person uses the layers [subj](/u/feat/Person-subj.html) and [obj](/u/feat/Person-obj.html).
+  * [Number]() has two possible values: `Sing` and `Plur`.
+    * Number uses the layer [psor](/u/feat/Number-psor.html).
+  * [Clusivity]() has two possible values, `In` and `Ex`.
+    * Clusivity uses the layers [subj](/u/feat/Clusivity-subj.html) and [obj](/u/feat/Clusivity-obj.html).
 
-* Verbs have a subcategorization feature Subcat with two possible values: Ditran(sitive), Int(ransitive), IntInd(irect) and Tran(sitive).
+* Verbs have a subcategorization feature [Subcat]() with four possible values: `Ditr`(ansitive), `Intr`(ansitive), `IntInd`(irect) and `Tran`(sitive).
 
-* Verbs have a form feature with five possible values: Fin(ite), Inf(inite), Part(iciple), Post(posed verb), Prov(erb), Ser(ial), Vnoun (verbal noun).
+* Verbs have a [VerbForm]() feature with five possible values: `Fin`(ite), `Inf`(inite), `Part`(iciple), `Post`(posed verb), `Prov`(erb), `Ser`(ial), `Vnoun` (verbal noun).
 
-* Verbs have an optional mood feature with three possible values: Des(iderative), Ind(icative), Imp(erative).
+* Verbs have an optional [Mood]() feature with three possible values: `Des`(iderative), `Ind`(icative), `Imp`(erative).
 
-* Verbs have an optional Polarity feature with one possible value, Neg.
+* Verbs have an optional [Polarity]() feature with one possible value, `Neg`.
 
 * Nouns can be used as predicates without copula, and inflect for person, number and clusivity like inactive intransitive verbs. They have Person, Number and Clusitivity features.
 
-* Pronouns have a PronType feature with seven possible values: Add, Dem, Ind, Int, Neg, Prs, Tot.
-
-* The feature value PronType=Add has been added for additive pronouns that are unspecified for definiteness (e.g. _amboae_, 'another' or 'the other')
+* Pronouns have a [PronType]() feature with seven possible values: `Add`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Tot`.
+  * The feature value `PronType=Add` has been added for additive pronouns that are unspecified for definiteness (e.g. _amboae_, 'another' or 'the other')
 
 ## Syntax
 
