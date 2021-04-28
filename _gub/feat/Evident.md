@@ -9,7 +9,6 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Att">Att</a></td>
-  <td><a href="#Fh">Fh</a></td>
   
   
 
@@ -23,19 +22,7 @@ udver: '2'
 It is used to signal the instrument with which an action was performed.
 
 #### Examples
-(small-DIM PRON village)
-
-
-
-### <a name="Fh">`Fh`</a>: First Hand 
-
-It is used to signal the instrument with which an action was performed.
-
-#### Examples
-
-* _<b>blabla</b>&nbsp;_ “blabla” 
-  
-
+* _<b>Ukwaw kakwez zeʔengete imungetahaw aʔe wə kurɨ</b>&nbsp;_ “They know (attested in the distant past) how to read Guajajara" 
 
 
 
