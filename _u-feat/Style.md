@@ -5,10 +5,28 @@ shortdef: 'style or sublanguage to which this word form belongs'
 udver: '2'
 ---
 
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Arch">Arch</a></td>
+  <td><a href="#Coll">Coll</a></td>
+  <td><a href="#Expr">Expr</a></td>
+  <td><a href="#Form">Form</a></td>
+  <td><a href="#Rare">Rare</a></td>
+  <td><a href="#Slng">Slng</a></td>
+  <td><a href="#Vrnc">Vrnc</a></td>
+  <td><a href="#Vulg">Vulg</a></td>
+</tr>
+</table>
+
 This
 may be a lexical feature (some words-lemmas are archaic, some are
 colloquial) or a morphological feature (inflectional patterns may
-systematically change between dialects or styles). It could be used
+systematically change between dialects or styles).
+Besides real morphology, the choices that make a particular word form
+belong to a different style may also be orthographic.
+
+This feature could be used
 in many languages but only a few choose to actually annotate it. Seen
 in Bulgarian, Czech, Danish, Finnish and Hungarian.
 
