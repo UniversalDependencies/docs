@@ -28,7 +28,7 @@ belong to a different style may also be orthographic.
 
 This feature could be used
 in many languages but only a few choose to actually annotate it. Seen
-in Bulgarian, Czech, Danish, Finnish and Hungarian.
+in Bulgarian, Czech, Danish, English, Finnish and Hungarian.
 
 ### <a name="Arch">`Arch`</a>: archaic, obsolete
 
@@ -77,7 +77,7 @@ in Bulgarian, Czech, Danish, Finnish and Hungarian.
 
 This indicates a distinctive morphological or spelling choice for added expressiveness (with respect to pronunciation or meaning).
 
-In the case of an expressive spelling variant, this feature should be paired with a `CorrectForm` in the `MISC` field, as explained in [the page on typos](/u/overview/typos.html). 
+In the case of an expressive spelling variant, this feature should be paired with a `CorrectForm` in the MISC column, as explained in [the page on typos](/u/overview/typos.html). 
 `Style=Expr` should not apply if the variant differs from the canonical spelling only in capitalization, or is an abbreviation or typo.
 
 
