@@ -136,7 +136,7 @@ These guidelines are very much a work in progress. They are meant to adapt [Dool
 | [compound:svc]()	| Used for a variety of complex predicates, notably serial verb and postposed verb constructions	|
 | [dislocated:cleft]()	| Used for cleft constructions that lack a copula													|
 | [obl:sentcon]()	| Nominal modifier used as a sentence initial discourse connective									|
-| parataxis:rep		| Used to relate a reported speech form to a verb of speech report analyzed as its head				|
+| [parataxis:rep]()	| Used to relate a reported speech form to a verb of speech report analyzed as its head				|
 
 ---
 

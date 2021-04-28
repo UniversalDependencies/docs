@@ -10,7 +10,7 @@ The relation `dislocated:cleft` is used in cleft constructions that lack a copul
 ~~~ sdparse
 Ha'e cheremiarirõ'i kuery oja ramo'i va'e pe guarã . \n It my-grandchildren COL born recently REL for NMLZ-FUT .
 dislocated:cleft(oja, Ha'e)
-dep:mod(born, It)
+dislocated:cleft(born, It)
 ~~~
 
 “This is for my grandchildren who were born recently.”
