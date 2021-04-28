@@ -12,6 +12,7 @@ udver: '2'
   <td><a href="#Inf">Inf</a></td>
   <td><a href="#Part">Part</a></td>
   <td><a href="#Post">Post</a></td>
+  <td><a href="#Prov">Prov</a></td>
   <td><a href="#Ser">Ser</a></td>
   <td><a href="#Vnoun">Vnoun</a></td>
 </tr>
@@ -89,5 +90,11 @@ Another special form that is used in serial verb constructions.
 #### Examples
 
 * [gun] _Mava'e oikuaa <b>pota</b>?_ “Who will try to know?” (lit. who know <b>try</b>)
+
+### <a name="Prov">`Prov`</a>: proverb
+
+#### Examples
+
+* [gun] ???
 
 <!-- Interlanguage links updated Čt lis 12 09:43:08 CET 2020 -->
