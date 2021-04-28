@@ -22,7 +22,7 @@ udver: '2'
 
 #### Examples
 
-* _<b>pyhyk</b>&nbsp;_ "catch” 
+* _<b>pɨhɨk</b>&nbsp;_ "catch” 
 
 
 
