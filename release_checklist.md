@@ -25,7 +25,7 @@ Contents:
 
 If you want to write UD guidelines and/or provide annotated data for a language that is currently not listed on the UD website,
 make sure you have a [github account](https://github.com/) and contact a member of our release and documentation task force:
-Dan Zeman (zeman@ufal.mff.cuni.cz), Filip Ginter (ginter@cs.utu.fi).
+Dan Zeman (zeman@ufal.mff.cuni.cz).
 They will get you going.
 Similarly, if you want to contribute a new treebank of a language that is already listed on the UD website,
 contact the release task force and they will create a new treebank repository.
@@ -236,7 +236,7 @@ This block should be the last thing in the `README` file. The properties are as 
 * `Data available since` can be `UD v1.0`, `UD v1.1`, `UD v1.2`, `UD v1.3`, `UD v1.4`, `UD v2.0`, `UD v2.1` etc.
   Pick the number of the first release where this treebank appears.
   Do not change it when the treebank is released the next time.
-* `License`: anything containing the string `BY-NC-SA` will be given the CC non-commercial logo, `BY-SA` or `BY` the CC logo, and `GNU` the GNU logo. To add any other license, please provide a suitable icon to ginter@cs.utu.fi and zeman@ufal.mff.cuni.cz.
+* `License`: anything containing the string `BY-NC-SA` will be given the CC non-commercial logo, `BY-SA` or `BY` the CC logo, and `GNU` the GNU logo. To add any other license, please provide a suitable icon to zeman@ufal.mff.cuni.cz.
   * `Includes text`: Most treebanks should say `yes` here. But there are a few instances where
     the license of the underlying text does not allow redistribution. Here, the UD repository
     contains only the annotation without words and lemmas, but with a merging script that the
