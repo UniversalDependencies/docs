@@ -97,7 +97,7 @@ These guidelines are very much a work in progress. They are meant to adapt [Dool
   * [Clusivity]() has two possible values, `In` and `Ex`.
     * Clusivity uses the layers [subj](/u/feat/Clusivity-subj.html) and [obj](/u/feat/Clusivity-obj.html).
 
-* Verbs have a subcategorization feature [Subcat]() with four possible values: `Ditr`(ansitive), `Intr`(ansitive), `IntInd`(irect) and `Tran`(sitive).
+* Verbs have a subcategorization feature [Subcat]() with four possible values: `Ditr`(ansitive), `Intr`(ansitive), `Indir`(ect) and `Tran`(sitive).
 
 * Verbs have a [VerbForm]() feature with five possible values: `Fin`(ite), `Inf`(inite), `Part`(iciple), `Post`(posed verb), `Prov`(erb), `Ser`(ial), `Vnoun` (verbal noun).
 
