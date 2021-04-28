@@ -9,6 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Ditr">Ditr</a></td>
+  <td><a href="#Indir">Indir</a></td>
   <td><a href="#Intr">Intr</a></td>
   <td><a href="#Tran">Tran</a></td>
 </tr>
@@ -25,6 +26,14 @@ A verb that does not take arguments other than the subject.
 #### Examples
 
 * [en] _to <b>go</b>_
+
+### <a name="Indir">`Indir`</a>: indirect verb
+
+A verb that does not require a direct object but it requires an oblique argument.
+
+#### Examples
+
+* [en] _to <b>rely</b> on something_
 
 ### <a name="Tran">`Tran`</a>: transitive verb
 
