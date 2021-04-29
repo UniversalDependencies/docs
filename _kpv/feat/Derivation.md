@@ -127,6 +127,16 @@ Produces indefinite from interrogative.
 * [kpv] _кыдзкӧ_ "somehow"
 * [kpv] _кутшӧмкӧ_ "some kind of"
 
+### <a name="La">`La`</a>: derivation with suffix -ла
+
+Produces spatial nouns denoting area/place and is inadvertantly in a spatial case.
+
+#### Examples
+
+* [kpv] _быдла-: быдлаын_ "in every place, everywhere"
+* [kpv] _кыкла-: кыклаын_ "in two places"
+* [kpv] _важла-: важлаын_ "in the old place"
+
 ### <a name="LocMod">`LocMod`</a>: derivation with suffix -са
 
 Produces meaning _in_ added to adjectival heads adnominal phrases, contrast Inessive case.
