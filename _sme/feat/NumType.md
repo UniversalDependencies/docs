@@ -5,56 +5,40 @@ shortdef: 'numeral type'
 udver: '2'
 ---
 
-### <a name="Appr">`Appr`</a>: approximal number or corresponding interrogative / relative / indefinite / demonstrative word
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Card">Card</a></td>
+  <td><a href="#Coll">Coll</a></td>
+  <td><a href="#Ord">Ord</a></td>
+</tr>
+</table>
 
-This is a subtype of number
-
-#### Examples
-
-* [mdf] _мзярошка, кафтошка, кафта-колма_ "_about how many, two or so, two or three_"
+<!-- http://oahpa.no/sme/gramm/logut.eng.html -->
 
 ### <a name="Card">`Card`</a>: cardinal number or corresponding interrogative / relative / indefinite / demonstrative word
 
+Cardinal numerals are tagged [NUM]().
+
 #### Examples
 
-* [mdf] _фкя, кафта, колма_ "_one, two, three_"
+* [sme] _<b>okta</b>_ “one”, _<b>guokte</b>_ “two”, _<b>golbma</b>_ “three”
 
 ### <a name="Coll">`Coll`</a>: collective number or corresponding interrogative / relative / indefinite / demonstrative word
 
-#### Examples
-
-* [mdf] _сувасть кафцьке стирнятне_ "_both girls entered_"
-* [mdf] _колмоцьке танкатне_ "_all three tanks_"
-
-### <a name="Dist">`Dist`</a>: distributive number is made through reduplication of the number in the indefinite genitive for all but the number 'one'. Alternatively, the second element may appear in the nominative singular, in which case there is an implication the everything has been distributed.
+Collective numerals are nouns ([NOUN]()).
 
 #### Examples
 
-* [mdf] Кодама-кодама_ "_some kind of _"
+* [sme] _<b>guovttis</b>_ “two people”, _<b>golmmas</b>_ “three people”, _<b>njealjis</b>_ “four people”
 
 ### <a name="Ord">`Ord`</a>: ordinal number or corresponding interrogative / relative / indefinite / demonstrative word
 
-This is a subtype of adjective or (in some languages) of adverb.
+Ordinal numerals are adjectives ([ADJ]()).
 
 #### Examples
 
-* [mdf] _васенце, омбоце, колмоце_ "_first, second, third_"
-
-### <a name="Mult">`Mult`</a>: multiplicative numeral or corresponding interrogative / relative / indefinite / demonstrative word
-
-This is subtype of adverb.
-
-#### Examples
-
-* [mdf] _весть, кафксть, колмоксть, котоксть_ "_once, twice, thrice, six times_"
-
-### <a name="Sets">`Sets`</a>: set numeral or corresponding interrogative / relative / indefinite  word
-
-This is a subtype of number in Moksha, and it is a regular inflection of virtually any whole number. It is used for counting pairs, plural nouns, and types.
-
-#### Examples
-
-* [mdf] _кафонц носилкат_ "_two stretchers_"
+* [sme] _<b>vuosttaš</b>_ “first”, _<b>nubbi</b>_ “second”, _<b>goalmmát</b>_ “third”
 
 
 <!-- Interlanguage links updated Čt lis 12 09:43:04 CET 2020 -->
