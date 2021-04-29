@@ -6,9 +6,18 @@ udver: '2'
 
 # UD for Low Saxon <span class="flagspan"><img class="flag" src="../../flags/svg/DE-HANNOVER.svg" /></span>
 
+## Introduction
+
+A part of this documentation is copied from the current German documentation [UD for German](https://universaldependencies.org/de/index.html), which can mostly be applied to Low Saxon as well. 
+
 ## Tokenization and Word Segmentation
 
-*
+* In general, words are delimited by whitespace characters. Description of exceptions follows.
+* According to typographical rules, many punctuation marks are attached to a neighboring word.
+  We usually tokenize them as separate tokens (words)
+* Low Saxon compounds are written as one word and we do not split them.
+* There are classes of multi-word tokens such as contractions of prepositions and definite articles as well as contractions of verbs and a (clitic) pronoun.
+  Examples: _hek = hev + ik_ "I have", _im = in + dem_ "in the"
 
 ---
 **Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
