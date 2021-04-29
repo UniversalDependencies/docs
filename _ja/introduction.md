@@ -11,7 +11,8 @@ Japanese corpora annotated according to the Universal Dependency annotation sche
 
 As a first step, we construct conversion rules on using the 'NTT Japanese Phrase Structure Treebank' [(Tanaka and Nagata 2013)](http://www.aclweb.org/anthology/W13-4913) for the Mainichi Shimbun Newspaper.
 
-We also try to construct conversion rules for the 'Balanced Corpus of Contemporary Written Japanese' (BCCWJ) [(Maekawa et al. 2014)](http://link.springer.com/article/10.1007/s10579-013-9261-0) with third-party annotations.
+We construct conversion rules for the 'Balanced Corpus of Contemporary Written Japanese' (BCCWJ) [(Maekawa et al. 2014)](http://link.springer.com/article/10.1007/s10579-013-9261-0) with third-party annotations such as morpheme information and phrase-based dependencies.
+Currently, we annotated same annotation for UD Japanese GSD and UD Japanese PUD.
 
 # Basic Policy
 
@@ -38,13 +39,7 @@ Therefore, we keep the coordinate structure information in a different layer of 
 We also keep the surface case frame structures and the scope of negation in different layers.
 
 The Universal Dependency label set includes syntactic roles such as '[nsubj](http://universaldependencies.org/ja/dep/nsubj.html)', '[dobj](http://universaldependencies.org/ja/dep/dobj.html)', '[iobj](http://universaldependencies.org/ja/dep/iobj.html)'.
-These annotations are not provided under bunsetsu-based dependency annotation, and are instead served from predicate-argument relation annotations.
-
-Labels related to 'PASSIVE' such as '[nsubjpass](http://universaldependencies.org/ja/dep/nsubjpass.html)', '[csubjpass](http://universaldependencies.org/ja/dep/csubjpass.html)' and '[auxpass](http://universaldependencies.org/ja/dep/auxpass.html)' are defined in the Universal Dependency label set.  Hopefully, the Japanese language has only two passive auxiliary verbs reru(れる) and rareru(られる). Though these morphemes are polysemous, 90% of them are passive.  We also featured annotation of the sense of these morphemes.
-
-However, whereas the Universal Dependency label set handles 'PASSIVE', it does not handle 'CAUSATIVE'.
-The Japanese language has two causative auxiliary verbs seru(せる) and saseru(させる) which raise the issue of case alternation. 
-The case alternation of causatives should be handled in the Universal Dependency label set.
+These annotations are not provided under bunsetsu-based dependency annotation, and will be instead served from predicate-argument relation annotations in future development.
 
 The Universal Dependency label set discriminates whether the target is a clause or not.
 Unfortunately, the definition of 'clause' here is vague.
@@ -103,7 +98,7 @@ This word unit standard (morphological informatino-annotated lexicon) was derive
 The morphological analyser [MeCab](http://taku910.github.io/mecab/), developed in 2001-2004, is independently developped from the lexicon; however, the default lexicon is IPADIC. [NAIST-jdic](http://sourceforge.jp/projects/naist-jdic/) is the successor of IPADIC. NAIST-jdic resolves the license issues in IPADIC. NAIST-jdic inherits the word unit definitions and PoS tagset of IPADIC. 
 
 ### NINJAL UniDic 
-NINJAL proposed several word unit standards for Japanese corpus linguistics such as minimum word unit, \alpha word unit, \beta word unit, M word unit and so on [(小椋ほか 2010a)](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-01.pdf) [(小椋ほか 2010b)](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-02.pdf).  
+NINJAL proposed several word unit standards for Japanese corpus linguistics such as minimum word unit, \alpha word unit, \beta word unit, M word unit and so on [(小椋ほか 2010a)](http://doi.org/10.15084/00002855) [(小椋ほか 2010b)](http://doi.org/10.15084/00002856).  
 Since 2002, they maintain a morporlogical information annotated lexicon UniDic, and propose three sorts of word unit standard:
 
 * Short Unit Word (SUW): 
@@ -129,11 +124,7 @@ The unit includes several compound words as single word units. See the [manual](
 
 * [Comainu](https://comainu.org/): compound word constructions derived by chunking (CRF or history-based SVM) and dependency parsing.
 
-* CRF chunker (used in Comainu): [CRF++](https://taku910.github.io/crfpp/)
-
-* History based SVM chunker (used in Comainu): [YamCha](https://chasen.org/~taku/software/yamcha/)
-
-* [MSTParser](https://sourceforge.net/projects/mstparser/) (used in Comainu)
+* [Sudachi](https://github.com/WorksApplications/Sudachi): UniDic compatible Japanese morphological analyzer.
 
 ## Bunsetsu Unit (Base Phrase)
 
@@ -211,6 +202,18 @@ Some syntactic labels in UD are in case frame or semantic role annotation in and
 * CSJ Schema
 * BCCWJ-DepPara Schema
 * Word Dependency in CSJ 
+
+### Dependency Parsers:
+
+* [SpaCy](https://spacy.io/usage/v2-3#japanese): Japanese Dependency parsers  (UD schema)
+
+* [GiNZA](https://megagonlabs.github.io/ginza/): Japanese Dependency parsers  (UD schema)
+
+* [CaboCha](https://taku910.github.io/cabocha/): Japanese Dependency parsers  (Bunsetsu schema)
+
+* [KNP](https://github.com/ku-nlp/knp/): Japanese Dependency parsers  (Kyoto Corpus Schema)
+
+* [J.DepP](http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/jdepp/): Japanese Dependency parsers (Kyoto Corpus Schema)
 
 ### Kyoto Corpus Schema
 The Kyoto Corpus Schema is bunsetsu-based.
