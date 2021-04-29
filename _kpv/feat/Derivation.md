@@ -10,6 +10,14 @@ udver: '2'
 Language-specific feature identifying the form of derivation applied
 to a word.
 
+### <a name="Al">`Al`</a>: derivation with suffix -ал
+
+Produces verbs with meaning of irregular frequency.
+
+#### Examples
+
+* [kpv] _ветлыны: ветлалӧ_ "go/walk : walk around from time to time"
+
 ### <a name="An">`An`</a>: derivation with suffix -ан
 
 Produces adnominal deverbal noun modifier / noun.
