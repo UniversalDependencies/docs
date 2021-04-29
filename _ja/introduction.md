@@ -326,9 +326,9 @@ Tohoku University [(Butler 2012)](http://nlp.nii.ac.jp/tawc/papers/W04_butler.pd
 * 黒橋 禎夫, 居蔵 由衣子, 坂口 昌子. 2000. '[形態素・構文タグ付きコーパス作成の作業基準 version 1.8](http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/corpus/KyotoCorpus4.0/doc/syn_guideline.pdf)' (In Japanese)
 * Yasuharu Den, Junichi Nakamura, Toshinobu Ogiso and Hideki Ogura. 2008. '[A proper approach to Japanese morphological analysis: Dictionary, model and evaluation.](http://www.lrec-conf.org/proceedings/lrec2008/pdf/258_paper.pdf)'. In Proceedings of the 6th Language Resources and Evaluation Conference (LREC-2008).
 * 小椋 秀樹, 小磯 花絵, 冨士池 優美, 宮内 佐夜香, 小西 光 and 原 裕. 2010.
-「[『現代日本語書き言葉均衡コーパス』形態論情報規程集 第４版（上）](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-01.pdf)」 (In Japanese)
+「[『現代日本語書き言葉均衡コーパス』形態論情報規程集 第４版（上）](http://doi.org/10.15084/00002855)」 (In Japanese)
 * 小椋 秀樹, 小磯 花絵, 冨士池 優美, 宮内 佐夜香, 小西 光 and 原 裕. 2010.
-「[『現代日本語書き言葉均衡コーパス』形態論情報規程集 第４版（下）](http://pj.ninjal.ac.jp/corpus_center/bccwj/doc/report/JC-D-10-05-02.pdf)」 (In Japanese)
+「[『現代日本語書き言葉均衡コーパス』形態論情報規程集 第４版（下）](http://doi.org/10.15084/00002856)」 (In Japanese)
 * Toshinobu Ogiso, Mamoru Komachi, Yasuharu Den and Yuji Matsumoto. 2012. '[UniDic for Early Middle Japanese: a Dictionary for Morphological Analysis of Classical Japanese](http://www.lrec-conf.org/proceedings/lrec2012/pdf/906_Paper.pdf)'. In Proceedings of the Eighth International Conference on Language Resources and Evaluation Conference (LREC-2012).
 
 ## Dependency Annotation Schemata
