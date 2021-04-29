@@ -28,7 +28,8 @@ A part of this documentation is copied from the current German documentation [UD
 
 ### Tags
 
-*
+* Low Saxon uses all 17 universal POS categories, including particles ([PART]()).
+* The following words are particles in Low Saxon: _nich_ “not”, and the infinitive marker _to_ “to”.
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
