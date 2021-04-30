@@ -23,7 +23,7 @@ udver: '2'
 
 #### Examples
 
-* _<b>o=t-ek</b>&nbsp;_ “My house”
+* _<b>ater-ap</b>&nbsp;_ “The action of walking”
 
 
 
@@ -32,7 +32,7 @@ udver: '2'
 
 #### Examples
 
-* _<b>o=t-ek</b>&nbsp;_ “My house”
+* _<b>op eya tuli e yĩ eteara</b>&nbsp;_ “Which cutlass are you going to bring?”
 
 
 ### <a name="Ag">`Ag`</a>: Agent
@@ -40,7 +40,7 @@ udver: '2'
 
 #### Examples
 
-* _<b>o=t-ek</b>&nbsp;_ “My house”
+* _<b>terar-et</b>&nbsp;_ “The one who goes”
 
 
 
