@@ -24,7 +24,7 @@ The aorist expresses semantic values of habituality, repetition, general truth a
 
 #### Example
 
-*  _hoː =b hoːsoː ʃʔag -aː =b =u uː= tak // ʔasal -aː =b iː- <b>kti</b> =jeːb /_ "The man was carrying on his shoulder a lamb that he had grilled."
+-  _hoː =b hoːsoː ʃʔag -aː =b =u uː= tak // ʔasal -aː =b iː- <b>kti</b> =jeːb /_ "The man was carrying on his shoulder a lamb that he had grilled."
 
 ### <a name="Imp">`Imp`</a>: imperfective
 
@@ -32,7 +32,7 @@ The imperfective marks an unbounded process or state, seen from the point of vie
 
 #### Example
 
-* _uːn uː= tak / doːr han kan -aː =ji <b>ki=</b> i- ki / ti= takat hiːs =heːb =ajt //_ "this man <b>had</b> not even recognized me because he thought I was the woman."
+- _uːn uː= tak / doːr han kan -aː =ji <b>ki=</b> i- ki / ti= takat hiːs =heːb =ajt //_ "this man <b>had</b> not even recognized me because he thought I was the woman."
 
 ### <a name="Perf">`Perf`</a>: perfect
 
@@ -40,7 +40,7 @@ The perfect has a resultative value. The process or state is considered as havin
 
 #### Example
 
-* _kak jʔ <b>-aː</b> =b =wa ?_ "how have you come ?"
+- _kak jʔ <b>-aː</b> =b =wa ?_ "how have you come ?"
 
 ### <a name="Pfv">`Pfv`</a>: perfective
 
@@ -48,4 +48,4 @@ The perfective marks a bounded process or state, independently of any temporal b
 
 #### Example
 
-*  _tak / kaːm =i / hoː kʷiɖ -ja i- <b>ni</b> //_ "A man said: 'My camel disappeared.' "
+-  _tak / kaːm =i / hoː kʷiɖ -ja i- <b>ni</b> //_ "A man said: 'My camel disappeared.' "
