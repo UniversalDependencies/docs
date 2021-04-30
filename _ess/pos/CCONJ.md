@@ -8,6 +8,9 @@ shortdef: 'coordinating conjunction'
 `CCONJ` is used to tag an Yupik enclitic (_=llu_ "and").
 
 ### Examples
+* _Naakallu	nengyunllu_
+* naa(N)-[Abs.1SgPoss.Sg]=llu	nengyugh(N)-[Abs.2SgPoss.Sg]=llu
+* "My mother and your grandmother"
 ~~~ conllu
 1-3	Naakallu	_	_	_	_	_	_	_	Analysis=naa(N)^[Abs.1SgPoss.Sg]^\=llu|Gloss=my-mother-
 1	Naa	naa	NOUN	_	_	8	nsubj	_	Analysis=naa(N)|Gloss=mother
