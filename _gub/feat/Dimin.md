@@ -19,7 +19,7 @@ udver: '2'
 
 ### <a name="Yes">`Yes`</a>: Yes 
 
-Diminutive *a'i* is a noun modifier always bound to its host.
+The diminutive is expressed with the noun modifier *a'i*, always bound to its host.
 
 #### Examples
 

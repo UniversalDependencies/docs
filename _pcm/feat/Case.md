@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Nom">Nom</a></td>
   <td><a href="#Acc">Acc</a></td>
+  <td><a href="#Gen">Gen</a></td>
 </tr>
 </table>
 
@@ -43,6 +44,14 @@ Typically used when a personal pronoun is used as a complement for a predicate.
 * _<b>you</b>_ "you"
 * _<b>am</b>_ "him"
 * _<b>us</b>_ "us"
-* _<b>una</b>_ "you guys"
-* _<b>dem</b>_ "them"
+
+### <a name="Gen">`Gen`</a>: genitive
+
+Typically a noun ending in the clitic 's. 
+
+#### Examples
+
+* _Zimbabwe<b>'s</b> neighbour, di Botswana_ "Zimbabwe's neighbor, Botswana"
+ 
+
 <!-- Interlanguage links updated Čt lis 12 09:43:00 CET 2020 -->

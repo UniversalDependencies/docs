@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Perm">Perm</a></td>
   <td><a href="#Sub">Sub</a></td>
+  <td><a href="#Cnd">Cnd</a></td>
   
   
 </tr>
@@ -36,6 +37,15 @@ Contiguity is more often associated with
 
 * _<b>mbaʔeʔupaβiré</b>&nbsp;_ “After (having finished) eating”
 
+
+
+### <a name="Cnd">`Cnd`</a>: Permissive
+
+Contiguity is more often associated with
+
+#### Examples
+
+* _<b>mbaʔeʔupaβiré</b>&nbsp;_ “After (having finished) eating”
 
 
 

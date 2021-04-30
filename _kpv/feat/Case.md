@@ -8,8 +8,10 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Abe">Abe</a></td>
   <td><a href="#Abl">Abl</a></td>
   <td><a href="#Acc">Acc</a></td>
+  <td><a href="#Adp">Adp</a></td>
   <td><a href="#Apr">Apr</a></td>
   <td><a href="#AprEgr">AprEgr</a></td>
   <td><a href="#AprEla">AprEla</a></td>
@@ -32,6 +34,7 @@ udver: '2'
   <td><a href="#Loc">Loc</a></td>
   <td><a href="#Nom">Nom</a></td>
   <td><a href="#Prl">Prl</a></td>
+  <td><a href="#Prp">Prp</a></td>
   <td><a href="#Ter">Ter</a></td>
  <td><a href="#Tra">Tra</a></td>
 </tr>
@@ -43,6 +46,27 @@ and [numerals](u-pos/NUM) in Komi-Zyrian.<br/>
 Komi-Zyrian has 25 inflectional cases.
 
 
+### <a name="Abe">`Abe`</a>: abessive
+
+The abessive case is used primarily in the nominal phrase, and it expresses the absence the locus.
+The abessive in <тӧм> should be distinguished from the caritive <тӧг>, which has a predicative clause range.
+Earlier this has been refered to as PrivMod (privative modifier).
+
+#### Examples
+
+* [kpv] _кӧмтӧм_ "without a boot"
+* [kpv] _кӧмъястӧм_ "without boots"
+
+* [kpv] _босьті <b>ёртлысь</b> небӧгсӧ_ "I took <b>a friend's</b> book"
+
+### <a name="Abl">`Abl`</a>: ablative
+
+The ablative case expresses possessor of object.
+
+#### Examples
+
+* [kpv] _босьті <b>ёртлысь</b> небӧгсӧ_ "I took <b>a friend's</b> book"
+
 ### <a name="Acc">`Acc`</a>: accusative
 
 In Komi-Zyrian the specifically marked accusatives mark direct objects of verbs. This tends to be the marking of direct objects high in the hierarchies of identifiability and animacy.
@@ -52,13 +76,16 @@ In Komi-Zyrian the specifically marked accusatives mark direct objects of verbs.
 * [kpv] _ме <b>тэнӧ</b> нуӧда гортӧ_ "I will take <b>you</b> home"
 * [kpv] _аддза <b>ёртӧс</b>_ "I see <b>my friend</b>"
 
-### <a name="Abl">`Abl`</a>: ablative
+### <a name="Adp">`Adp`</a>: adpositional
 
-The ablative case expresses possessor of object.
+The adpositional case indicates special form of third person pronouns with adpositions.
+This is analogous to the PrepCase found in cs `Pre` prepositional case, which is realized in pronouns there.
+Although the forms <сы> and <на> are standard, there are occasional instances of <сійӧ> and <найӧ> occuring before
+adpositions.
 
 #### Examples
 
-* [kpv] _босьті <b>ёртлысь</b> небӧгсӧ_ "I took <b>a friend's</b> book"
+* [kpv] _<b>сы</b> вӧсна_ "for <b>it</b>"
 
 ### <a name="Apr">`Apr`</a>: approximative
 
@@ -221,11 +248,19 @@ The instrumental case is affixed to the noun defining the entity used as an inst
 
 ### <a name="Loc">`Loc`</a>: prepositional case
 
+The Komi locative case has a adnominal range and traditionally is considered an derivational suffix for adjectives.
+It is productively applied to both singular and plural stems. The locative case in <са> should be distinguished from the
+inessive case in <ын>, which takes the predicative clause range.
+
 The Russian prepositional case is used in Russian speech, and is accompanied by a Lang=Rus in Misc.
+
 
 #### Examples
 
-* [kpv] _в <b>шоке</b>_ "In <b>shock</b>"
+* [kpv] _<b>грездса_ "that is in a hamlet"
+* [kpv] _<b>грездъясса_ "that is in (the) hamlets"
+
+* [kpv] _в <b>шоке</b>_ "In <b>shock</b>" Lang=Rus
 
 ### <a name="Nom">`Nom`</a>: nominative / direct
 
@@ -237,13 +272,33 @@ The base form of the noun, typically used as citation form (lemma).
 
 ### <a name="Prl">`Prl`</a>: prolative 
 
-The transitive case may indicate a pathway through a three-dimensional or a two-dimensional space.
+The prolative case may indicate a pathway through a three-dimensional or a two-dimensional space in <ӧд>.
 In the central dialects it is often distinguished from the transitive.
 
 #### Examples
 
 * [kpv] _<b>туйӧд</b>_ "along the road"
 
+
+### <a name="Prp">`Prp`</a>: proprietive
+
+The proprietive case is the 'having' case in <а>. It tends to be an adnominal case in range but may also occur in
+the predicative clause range.
+
+#### Examples
+
+* [kpv] _<b>гӧрд дӧрӧма</b> ныв_ \n "girl <b>that has a red shirt</b>"
+* [kpv] _<b>гӧрд дӧрӧмъяса</b> зон_ \n "boy <b>that has red shirts</b>"
+
+* [kpv] _<b>ыджыд гӧрд дӧрӧма</b> ныв_ \n "girl <b>that has a big red shirt</b>"
+* [kpv] _<b>ичӧт гӧрд дӧрӧмъяса</b> зон_ \n "boy <b>that has little red shirts</b>"
+
+* [kpv] _<b>ичӧт гӧрд дӧрӧмъяса</b> зон_ \n "boy <b>that has little red shirts</b>"
+* [kpv] _<b>ичӧт гӧрд дӧрӧмъяса</b> зонъяс_ \n "boys <b>that has little red shirts</b>"
+
+* [kpv] _<b>ичӧт гӧрд дӧрӧмъясаяс</b>_ \n "[ones] <b>that has little red shirts</b>"
+
+* [kpv] _И еджыд чериыс <b>чукӧра</b> олӧ, кульмыны жӧ лӧсьӧдчӧ да. \n "And the white fish lives <b>in schools</b>, which make spawning simpler, too."
 
 ### <a name="Ter">`Ter`</a>: terminative / terminal allative
 

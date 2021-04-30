@@ -2,20 +2,22 @@
 layout: relation
 title: 'ccomp'
 shortdef: 'clausal complement'
+udver: '2'
 ---
 
 A clausal complement of a verb or adjective is a dependent clause with an internal subject which
-functions like an object of the verb, or adjective.
+functions like an object of a verb, or a complement of an adjective.
 
-<pre><code class="language-sdparse">Cô ấy nói rằng anh thích chơi bài 。 
+~~~ sdparse
+Cô ấy nói rằng anh thích chơi bài 。 \n She said that he likes to play cards .
 det:pmod(Cô, ấy)
-nsubj(Cô, nói)
+nsubj(nói, Cô)
+ccomp(nói, thích)
 mark(thích, rằng)
 nsubj(thích, anh)
 xcomp(thích, chơi)
-dobj(bài, chơi)
-ccomp(nói, thích)
+obj(chơi, bài)
 punct(nói, 。)
+~~~
 
-</code> </pre>
 <!-- Interlanguage links updated Čt lis 12 09:43:17 CET 2020 -->

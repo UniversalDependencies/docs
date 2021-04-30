@@ -19,7 +19,7 @@ udver: '2'
 
 ### <a name="Imp">`Imp`</a>: Imperative
 
-It is used to give orders.
+The imperative mood is expressed with the person morpheme "e" (2.SG).
 
 #### Examples
 

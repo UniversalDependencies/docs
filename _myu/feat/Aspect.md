@@ -16,6 +16,7 @@ udver: '2'
   <td><a href="">Hab</a></td>
   <td><a href="">Iter</a></td>
   <td><a href="">Prog</a></td>
+  <td><a href="">Dec</a></td>
   
   
 </tr>
@@ -61,7 +62,7 @@ The completive aspect
 
 
 
-### <a name="Hab">`Hab`</a>: Completive
+### <a name="Hab">`Hab`</a>: Habitual
 
 The habitual aspect
 
@@ -71,7 +72,7 @@ The habitual aspect
 
 
 
-### <a name="Iter">`Iter`</a>: Completive
+### <a name="Iter">`Iter`</a>: Iterative
 
 The iterative aspect
 
@@ -80,7 +81,18 @@ The iterative aspect
 * _<b>g̃ebuje aĩhĩ tõtõm</b>&nbsp;_ “My mother used to cry / kept crying”
 
 
-### <a name="Prog">`Prog`</a>: Completive
+### <a name="Prog">`Prog`</a>: Progressive
+
+The progressive aspect
+
+#### Examples
+
+* _<b>jokjog̃ tu ẽn?</b>&nbsp;_ “Are you bathing?”
+
+
+
+
+### <a name="Dec">`Dec`</a>: Deceased
 
 The progressive aspect
 

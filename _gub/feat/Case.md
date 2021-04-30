@@ -8,9 +8,9 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Ins">Ins</a></td>
+  <td><a href="#All">All</a></td>
+  <td><a href="#Dat">Dat</a></td>
   <td><a href="#Loc">Loc</a></td>
-  <td><a href="#Tra">Tra</a></td>
   
   
 
@@ -19,37 +19,38 @@ udver: '2'
 
 `Case`  
 
-### <a name="Ins">`Ins`</a>: Instrumental 
 
-It is used to signal the instrument with which an action was performed.
+### <a name="All">`All`</a>: Allative 
+
+The allative case is expressed with the morpheme "pe"
 
 #### Examples
 
-* _<b>aguz pupe</b>&nbsp;_ “with a needle”
-  
-</tr>
-</table>
 
+* _<b>ko-pe</b>&nbsp;_ “To the countryside”
+
+
+### <a name="Dat">`Dat`</a>: Dative
+
+The dative case is expressed with the morpheme "pe"
+
+#### Examples
+
+* _<b>Nuzapo pixik kwaw agwer ma'e amo ae awa pe</b>&nbsp;_ “He never did this kind of things to any other man”
 
 
 ### <a name="Loc">`Loc`</a>: Locative
 
-There are different locatives
+The locative case is expressed with the morpheme "pe"
 
 #### Examples
 
-* _<b>ko pe</b>&nbsp;_ “In the countryside”
+* _<b>a'e pe</b>&nbsp;_ “There”
 
 
-### <a name="Tra">`Tra`</a>: Traslative
-
-Traslative
-
-#### Examples
-
-* _<b>t-uβ-amo</b>&nbsp;_ “as / in the quality of a father”
-
-
+  
+</tr>
+</table>
 
 ## Diffs
 

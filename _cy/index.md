@@ -82,7 +82,7 @@ See [conjugation tables](conjugation.md) for forms and corresponding UD Tense/Mo
   * _o dan_ «under»
   * _o hyd_ «always»
   * _ynglŷn â_ «in connection with»
-  * _yn lle_ «instead»
+  * _yn hytrach_ «rather»
   * _yn erbyn_ «against»
   * _modd bynnag_ «however»
   * _oddi ar_ «since»

@@ -20,7 +20,7 @@ udver: '2'
 
 ### <a name="Compl">`Compl`</a>: Completive
 
-The completive aspect indicates that an action happens completely (an activity achievment)
+The completive aspect is expressed by the particle _pa(β)_.
 
 #### Examples
 
@@ -29,7 +29,7 @@ The completive aspect indicates that an action happens completely (an activity a
 
 ### <a name="Iter">`Iter`</a>: Iterative
 
-Iterative aspect indicates that the action happens continuously
+Iterative aspect is indicated by the particle _teɲẽ_.
 
 #### Examples
 
@@ -38,7 +38,7 @@ Iterative aspect indicates that the action happens continuously
 
 ### <a name="Suc">`Suc`</a>: Successive
 
-Successive aspect indicates that the action happens more than once, either the subject of the object has to have a plural reading (one after the other).
+Successive aspect indicates that the action happens more than once, either the subject or the object has to have a plural reading (one after the other).
 
 #### Examples
 

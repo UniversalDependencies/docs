@@ -2,6 +2,7 @@
 layout: relation
 title: 'iobj'
 shortdef: 'indirect object'
+udver: '2'
 ---
 
 An indirect object is a nominal which is the second object of the verb, often associated with the (animate) recipient/beneficiary object.

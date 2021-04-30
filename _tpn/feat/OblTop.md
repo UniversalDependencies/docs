@@ -14,16 +14,16 @@ udver: '2'
 </tr>
 </table>
 
-`Intens` is a 
+`OblTop` refers to a construction in which the main predicated is nominalized and adverbial expressions are fronted. The are indicated by the value Yes.
+
 
 ### <a name="Yes">`Yes`</a>: Yes
 
 
-Contiguity is more often associated with
 
 #### Examples
 
-* _<b>mbaʔeʔupaβiré</b>&nbsp;_ “After (having finished) eating”
+* _<b>Kori i-juká-w</b>&nbsp;_ “ Today he killed him ” (Anch., Arte, 3 9v). Compare _o-(i)-juká kori_ "he killed him today".
 
  
 

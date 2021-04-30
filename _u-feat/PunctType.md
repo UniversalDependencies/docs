@@ -5,8 +5,22 @@ shortdef: 'punctuation type'
 udver: '2'
 ---
 
-Many tagsets have just one tag for punctuation. Others (including the
-Penn Treebank and the Swedish Mamba tagset) classify punctuation in
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Brck">Brck</a></td>
+  <td><a href="#Colo">Colo</a></td>
+  <td><a href="#Comm">Comm</a></td>
+  <td><a href="#Dash">Dash</a></td>
+  <td><a href="#Excl">Excl</a></td>
+  <td><a href="#Peri">Peri</a></td>
+  <td><a href="#Qest">Qest</a></td>
+  <td><a href="#Quot">Quot</a></td>
+  <td><a href="#Semi">Semi</a></td>
+</tr>
+</table>
+
+Many tagsets have just one tag for punctuation. Others classify punctuation in
 more detail.
 
 ### <a name="Peri">`Peri`</a>: period at the end of sentence

@@ -2,14 +2,16 @@
 layout: relation
 title: 'dobj'
 shortdef: 'direct object'
+udver: '2'
 ---
 
-The direct object of a VP is the noun phrase which is the object of the verb.
+The direct object of a transitive verb is the second bare nominal argument of the verb.
 
-<pre><code class="language-sdparse">Nó đạt giải nhì 。
-dobj(đạt, giải)
-num(giải, nhì)
+~~~ sdparse
+Nó đạt giải nhì 。 \n He won second prize .
 nsubj(đạt, Nó)
+obj(đạt, giải)
+amod(giải, nhì)
 punct(đạt, 。)
 </code></pre>
 
