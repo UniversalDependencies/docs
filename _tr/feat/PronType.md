@@ -40,7 +40,6 @@ forms.
 * _kimin_  "whose"
 
 
-
 ### <a name="Dem">`Dem`</a>: demonstrative pronoun
 
 #### Examples:
@@ -69,9 +68,9 @@ Locative pronouns are typically distinguished from their _demonstrative_ counter
 * _şura_ "there"
 * _ora_ "there"
 
-### <a name="Neg">`Neg`</a>: article
+### <a name="Neg">`Neg`</a>: negative determiner or pronoun
 
-This universal feature is used only a few Turkish treebanks,
+This universal feature is used only a few Turkish treebanks
 for negative pronouns and determiners.
 
 #### Examples:
@@ -83,7 +82,7 @@ for negative pronouns and determiners.
 
 ### <a name="Art">`Art`</a>: article
 
-This universal feature is used only a few Turkish treebanks,
+This universal feature is used only a few Turkish treebanks
 for article-like determiners, mainly for the indefinte determiner
 _bir_.
 
