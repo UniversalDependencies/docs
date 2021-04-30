@@ -10,16 +10,19 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Cnd">Cnd</a></td>
   <td><a href="#CndGen">CndGen</a></td>
+  <td><a href="#CndGenPot">CndGenPot</a></td>
   <td><a href="#CndPot">CndPot</a></td>
   <td><a href="#Des">Des</a></td>
   <td><a href="#Gen">Gen</a></td>
   <td><a href="#GenNec">GenNec</a></td>
   <td><a href="#GenPot">GenPot</a></td>
+  <td><a href="#GenPotPot">GenPotPot</a></td>
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Nec">Nec</a></td>
   <td><a href="#Opt">Opt</a></td>
   <td><a href="#Pot">Pot</a></td>
+  <td><a href="#PotPot">PotPot</a></td>
   <td><a href="#Prs">Prs</a></td>
 </tr>
 </table>
@@ -27,6 +30,14 @@ udver: '2'
 `Mood` expresses the modality, a speaker's perspective, in finite verbs.
 Turkish verbs may carry a wide range of mood information.
 Different moods are indicated by a number of suffixes, which also interact with [tense](Tense) and [aspect](Aspect) of the verb.
+
+Similar to the [Voice]() feature, a Turkish verb may have multiple
+Mood values expressed on a single verb.
+Currently we concatenate the individual mood values,
+but this is far from a good solution
+(see issues [#197](https://github.com/UniversalDependencies/docs/issues/197) and
+[#125](https://github.com/UniversalDependencies/docs/issues/125#issuecomment-112512320)
+for the discussion).
 
 ### <a name="Ind">`Ind`</a>: indicative
 
@@ -106,14 +117,24 @@ The necessitative suffix can be combined with a suffix of general modality.
 ### <a name="Pot">`Pot`</a>: potential
 
 The suffix *-Abil* may indicate ability or possibility.
-These moods are normally distinct, and the same verb may express both at the same time (see the last example below).
+These moods are normally distinct, and the same verb may express both at the same time (see `PotPot` below).
 However, it is also very difficult to disambiguate between these two moods.
 
 #### Examples
 
 * *eve gidebilir* 'she can go home' ('she is capable of going home', or 'she just may go home')
 * *yağmur yağabilir* 'it may rain'
-* *eve gidemeyebilir* 'she may not be able to go home' (it is possible that she is not capable of going home)
+
+### <a name="PotPot">`PotPot`</a>: potential expressed twice
+
+The mood we mark as `Pot` may be expressed multiple times in some
+verbs, particularly in negative forms.
+In most cases this expresses ability and possibility at the same time
+(someting *may* (not) have potential to happen).
+
+#### Examples
+
+* _Gel<b>e</b>me<b>yebil</b>eceğini biliyordum _ "I knew he/she may not be able to come"
 
 ### <a name="GenPot">`GenPot`</a>: general or hypothetical potential
 
@@ -124,6 +145,24 @@ either is a statement of generalized validity, or a hypothetical statement (Gök
 
 * _Kaplumbağa hızlı <b>yürüyemez</b>._ “A tortoise can't walk fast.” (Göksel & Kerslake, 2005, p.488)
 * _Masayı şuraya <b>koyabiliriz</b>._ “We can/could put the table here.” (a hypothetical statement)
+
+### <a name="GenPotPot">`GenPotPot`</a>: generallized modality and potential expressed twice
+
+Similar to above, a generalized statement / hypothesis may have both ability and
+potential expressed.
+
+#### Examples
+
+* *eve gidemeyebilir* 'she may not be able to go home' (it is possible that she is not capable of going home)
+
+### <a name="CndGenPot">`CndGenPot`</a>: conditional predicate with generallized modality and potential
+
+A generalized statement / hypothesis may also be conditional and express ability or potential.
+
+
+#### Examples
+
+* *eve zamanında gid<b>ebilirse</b> yemek yapacak* 'if he/she can go home, he/she will cook'
 
 ### <a name="Cnd">`Cnd`</a>: conditional
 

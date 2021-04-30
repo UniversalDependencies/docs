@@ -29,17 +29,18 @@ A part of this documentation is copied from the current German documentation [UD
 ### Tags
 
 * Low Saxon uses all 17 universal POS categories, including particles ([PART]()).
-* The following words are particles in Low Saxon: _nich_ “not”, and the infinitive marker _to_ “to”.
+* The following words are particles in Low Saxon: _nich_/_nicht¹_ “not”, and the infinitive marker _to_/_tô⁵_ “to”.
 * The pronoun ([PRON]()) vs. determiner ([DET]()) distinction is based on word lists because the traditional grammar does not define determiners.
   In general, words that inflect for gender, to be able to agree with a modified noun, are tagged [DET](), even if they
   act independently in a given sentence; that includes possessives.
 * Low Saxon auxiliary verbs ([AUX]()) are:
-  * _weasen_ for perfect tenses of some verbs (_ik bün koamen_ “I have come”) and as copula (_hee is old_ “he is old”)
+  * _weasen_/_wēsen²_ for perfect tenses of some verbs (_ik bün koamen_ “I have come”) and as copula (_hee is old_ “he is old”)
   * _hebben_ for perfect tenses of the remaining verbs (_ik hev eaten_ “I have eaten”)
-  * _werden_ for the passive (_dat wardt eaten_ “it is (being) eaten”)
-  * _sköälen_, _willen_ and _werden_ for future tense (_ik skal binnenkört dår weasen_ “I will arrive soon”)
-  * modal verbs _dörven_ “may”, _künnen_ “can”, _möägen_ “may, want”, _möten_ “must”, _sköälen_ “shall”, _willen_ “want”
-  * The verbs _weasen, hebben_ and _werden_ can also occur as normal verbs ([VERB]()), meaning “be, have, become”.
+  * _werden_/_wērden¹_ for the passive (_dat wardt eaten_ “it is (being) eaten”)
+  * _sköälen_/_schȫlen¹_, _willen_/_willen¹_ and _werden_/_wērden¹_ for future tense (_ik skal binnenkört dår weasen_ “I will arrive soon”)
+  * modal verbs _dörven_ “may”, _künnen_ “can”, _möägen_/_mȫgen_ “may, want”, _möten_/_mö̂ten²_ “must”, _sköälen_/_schȫlen¹_ “shall”, _willen_/_willen¹_ “want”
+  * _doon_/_dôn¹_, _willen_/_willen¹_ and _werden_/_wērden¹_ for a periphrastic conditional (_see dea em lever besöken_ “she would prefer to visit him“)
+  * The verbs _weasen/_wēsen²_, _hebben_, _doon_/_dôn¹_ and _werden_/_wērden¹_ can also occur as normal verbs ([VERB]()), meaning “be, have, do, become”.
 * There are four main (de)verbal forms, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
   * Infinitive `Inf`, tagged [VERB]() or [AUX]().
   * Finite verb `Fin`, tagged [VERB]() or [AUX]().
@@ -52,8 +53,22 @@ A part of this documentation is copied from the current German documentation [UD
 ---
 
 ### Features
+#### Nominal Features
 
-*
+* Nominal words ([NOUN](), [PROPN]() and [PRON]()) have an inherent [Gender]() feature with one of two or three values: `Masc`, `Fem` or `Neut`. Most dialects preserve three genders, while in some, `Masc` and `Fem` have merged. 
+  * The following parts of speech inflect for `Gender` because they must agree with nouns: [ADJ](), [DET](),
+    [VERB](), [AUX](). For verbs (including auxiliaries), only participles can inflect for gender. Finite verbs don't.
+* The two main values of the [Number]() feature are `Sing` and `Plur`. The following parts of speech inflect for number:
+  [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET](), [VERB](), [AUX]() (finite and participles).
+* The number of values for [Case]() depends on the dialect. Few dialects have preserved four cases: `Nom`, `Gen`, `Dat`, `Acc`. Most dialects do not distinguish dative and accusative anymore and thus only know three cases:  `Nom`, `Gen`, `Acc`.  Some dialects have also merged the nominative and accusative and therefore only two cases remain: `Nom`, `Gen`.
+  Case occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET]().
+  However, case forms of nouns are extremely ambiguous and most of the time the case is distinguished only by the form of the article.
+* [Definite]() has 2 values: `Ind`, `Def`. It is used to distinguish the indefinite and definite articles ([DET]()).
+
+#### Degree and Polarity
+
+* [Degree]() applies to adjectives ([ADJ]()) and adverbs ([ADV]()) and has one of three possible values: `Pos`, `Cmp`, `Sup`.
+* [Polarity]() is used to mark the negative particle _nicht,_ i.e., only the `Neg` value is used.
 
 ---
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.

@@ -328,6 +328,8 @@ collections:
     output: true
   ha:
     output: true
+  hyw:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
