@@ -13,7 +13,7 @@ udver: '2'
   <td><a href="#CauCauPass">CauCau</a></td>
   <td><a href="#CauPass">CauPass</a></td>
   <td><a href="#CauPassRcp">CauPassRcp</a></td>
-  <td><a href="#CauRcp">CauPass</a></td>
+  <td><a href="#CauRcp">CauRcp</a></td>
   <td><a href="#Pass">Pass</a></td>
   <td><a href="#PassPass">PassPass</a></td>
   <td><a href="#PassRfl">PassRfl</a></td>
@@ -130,7 +130,7 @@ The meaning is “the subject was caused (by somebody) to do the action.”
 
 * _Ev Ahmet'e boya<b>-t-ıl-</b>dı_ “Somebody caused Ahmet to paint the house / Ahmet was caused to paint the house”
 
-### <a name="CauCauPass">`CauPass`</a>: passive causative causative voice
+### <a name="CauCauPass">`CauCauPass`</a>: passive causative causative voice
 
 This language-specific value indicates that a verb has been first causativized twice, then passivized.
 The meaning is “the subject was caused (by somebody) to cause (by likely somebody else) do the action.”
@@ -145,8 +145,11 @@ The meaning is “the subject was caused (by somebody) to cause (by likely someb
 This language-specific value indicates that a verb with a reciprocal suffix is causativized.
 The meaning is “the subject was caused (by somebody) to do the action.”
 
-
 It describes an event in which two agents (or groups of agents) perform the same action upon each other and another entity causes the action.
+
+#### Examples
+
+* _Babaları kardeşleri öp<b>üş-tür</b>dü_ "Their father made the siblings kiss each other"
 
 ### <a name="CauPassRcp">`CauPassRcp`</a>: causative reciprocal passive voice
 
