@@ -50,13 +50,11 @@ forms.
 * _o_ "that"
 
 
-
 ### <a name="Ind">`Ind`</a>: indefinite pronoun
 
 #### Examples:
 
-* _bazıların_ “some of them” (bazı-lar-ın = some-PLUR-POSS.PLUR.3; modified via [nmod:poss]() by the description of the set of which some members are selected)
-
+* _bazı_ “some” 
 
 
 ### <a name="Loc">`Loc`</a>: locative pronoun
@@ -70,5 +68,27 @@ Locative pronouns are typically distinguished from their _demonstrative_ counter
 * _bura_ "here"
 * _şura_ "there"
 * _ora_ "there"
+
+### <a name="Neg">`Neg`</a>: article
+
+This universal feature is used only a few Turkish treebanks,
+for negative pronouns and determiners.
+
+#### Examples:
+
+* _hiç_ "none"
+* _hiçbir_ "none"
+* _hiçbiri_ "none of them"
+
+
+### <a name="Art">`Art`</a>: article
+
+This universal feature is used only a few Turkish treebanks,
+for article-like determiners, mainly for the indefinte determiner
+_bir_.
+
+#### Examples:
+
+* _bir_ "a"
 
 <!-- Interlanguage links updated Čt lis 12 09:43:06 CET 2020 -->

@@ -11,7 +11,7 @@ udver: '2'
   <td><a href="#Cau">Cau</a></td>
   <td><a href="#CauCau">CauCau</a></td>
   <td><a href="#CauPass">CauPass</a></td>
-  <td><a href="#CauRcp">CauPass</a></td>
+  <td><a href="#CauRcp">CauRcp</a></td>
   <td><a href="#Pass">Pass</a></td>
   <td><a href="#PassPass">PassPass</a></td>
   <td><a href="#Rcp">Rcp</a></td>
@@ -90,7 +90,7 @@ Often, two or more causative suffixes are used for emphasis and do not express m
 
 #### Examples
 
-* _Evi boya-<b>t</b>-</b>tır</b>-dık_ “We had someone to have the house painted”
+* _Evi boya-<b>t</b>-<b>tır</b>-dık_ “We had someone to have the house painted”
 
 
 ### <a name="CauPass">`CauPass`</a>: passive causative voice
