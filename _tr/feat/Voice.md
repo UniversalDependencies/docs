@@ -53,7 +53,7 @@ the verb cannot have a subject.
 * _Ev boy<b>an</b>dı_  "The house was painted"
 * _Buradan düş<b>ül</b>ebilir_ "One may fall from here" (impersonal, intransitive verb passivized)
 
-## <a name="PassPass">`PassPass`</a>: double passive voice
+### <a name="PassPass">`PassPass`</a>: double passive voice
 
 When two passive suffixes are attached to a transitive verb, 
 typically it indicates an impersonal passive (see the discussion
@@ -65,7 +65,7 @@ stylistic reasons (even for intransitive verbs), e.g.,
 * _Böyle lafa kır-<b>ıl</b>-<b>ın</b>ır_ "[One] can be hurt by such words" (Double passive resulting in impersonal. Göksel & Kerslake 2005,p136)
 * _Burada uyu-<b>n</b>-<b>ul</b>-abilir_  "One may sleep here / this place is good for sleeping" (stylistic, single passive suffix attached to an intransitive verb is sufficient for impersonal meaning, second one is redundant).
 
-## <a name="PassRfl">`PassRfl`</a>: combination of passive and reflexive voices
+### <a name="PassRfl">`PassRfl`</a>: combination of passive and reflexive voices
 
 This language-specific value indicates that a verb with a reflexive suffix is passivized.
 
@@ -73,7 +73,7 @@ This language-specific value indicates that a verb with a reflexive suffix is pa
 
 * _Burada yıka-<b>n-ıl</b>-dı_ "[one] washed himself here"
 
-## <a name="PassRcp">`PassRcp`</a>: combination of passive and reciprocal voices
+### <a name="PassRcp">`PassRcp`</a>: combination of passive and reciprocal voices
 
 This language-specific value indicates that a verb with a reciprocal suffix is passivized.
 
