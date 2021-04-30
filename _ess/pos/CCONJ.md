@@ -9,7 +9,7 @@ udver: '2'
 
 ### Examples
 ```
-Naakallu			nengyunllu
+Naa-ka=llu			nengyu-n=llu
 naa(N)-[Abs.1SgPoss.Sg]=llu	nengyugh(N)-[Abs.2SgPoss.Sg]=llu
 "My mother and your grandmother"
 ```

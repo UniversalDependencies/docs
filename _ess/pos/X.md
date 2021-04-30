@@ -9,7 +9,7 @@ The tag `X` is used for inflectional suffixes.
 
 ### Examples
 ```
-Kaamgek			iflaak				.
+Kaamg-ek		ifla-a-k				.
 kameg(N)-[Abs.Du]	ifla(V)-[Ind.Trns]-[3Sg.3Du]	.
 "He/she lost the boots."
 ```
