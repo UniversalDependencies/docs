@@ -13,7 +13,7 @@ In general the Turkish-German code-switching treebank follows the guidelines of 
 * All sentences in the treebank include at least one intrasentential code-switching point. The language information of tokens are represented in the MISC column with the 
 `LangID` feature. The values of this feature are: `TR` for Turkish, `DE` for German, `MIXED` for intra-word code-switching (see below), `LANG3` for non-Turkish, non-German languages (mostly English in the treebank), and `OTHER` for punctuation.
 
-* Some tokens employ intra-word code-switching, e.g. _Terminim_, where _Termin_ 'appointment' is in German and _-im_ ‘my’ is Turkish possessive suffix.
+* Some tokens employ intra-word code-switching, e.g. _Terminim_, where _Termin_ 'appointment' is in German and _-im_ ‘my’ is a Turkish possessive suffix.
 Code-switching points are marked on the surface forms as the values of the `CSPoint` feature in the MISC column, e.g., `CSPoint=Termin§im`. `§` indicates the switch point.
 
 ---
@@ -53,7 +53,7 @@ Segmentation, code-switching points, and their interaction are described and exe
 
 * The treebank uses the standard UD relations and the subtype relations of individual [Turkish](https://github.com/UniversalDependencies/docs/blob/pages-source/_tr/index.md) and [German](https://github.com/UniversalDependencies/docs/blob/pages-source/_de/index.md) treebanks.
 
-* Subtype relations introduced with this treebank are `appos:trans` and `parataxis:trans`. Both are introduced to handle translation pairs , that is, a word, phrase or
+* Subtype relations introduced with this treebank are [appos:trans]() and [parataxis:trans](). Both are introduced to handle translation pairs , that is, a word, phrase or
 clause in one language and its repetition as a translation in the other language. Further description and examples can be found in (Çetinoğlu and Çöltekin, 2019)
 
 ---
