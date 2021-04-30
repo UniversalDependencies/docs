@@ -1,16 +1,18 @@
 ---
 layout: postag
 title: 'X'
-shortdef: 'inflection'
+shortdef: 'other'
 udver: '2'
 ---
 
 The tag `X` is used for inflectional suffixes.
 
 ### Examples
-* Kaamgek	iflaak	.
-* kameg(N)-[Abs.Du]	ifla(V)-[Ind.Trns]-[3Sg.3Du]
-* "He/she lost the boots."
+```
+Kaamgek			iflaak				.
+kameg(N)-[Abs.Du]	ifla(V)-[Ind.Trns]-[3Sg.3Du]	.
+"He/she lost the boots."
+```
 ~~~ conllu
 1-2	Kaamgek	_	_	_	_	_	_	_	Analysis=kameg(N)^[Abs.Du]|Gloss=skin-boot
 1	Kaamg	kaamg	NOUN	_	_	3	obj	_	Analysis=kameg(N)|Gloss=skin-boot
