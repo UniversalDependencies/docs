@@ -62,6 +62,6 @@ There is [1](../treebanks/ess-comparison.html) Yupik UD treebank:
 
 ## References
  * Emily Chen, Hyunji Hayley Park, and Lane Schwartz. 2020. [Improved finite-state morphological analysis for St. Lawrence Island Yupik using paradigm function morphology.](https://www.aclweb.org/anthology/2020.lrec-1.326) In Proceedings of the 12th Language Resources and Evaluation Conference, pages 2676–2684, Marseille, France. European Language Resources Association.
- * Steven A. Jacobson. 2001. A Practical Grammar of the St. Lawrence Island / Siberian Yupik Eskimo Language, Preliminary Edition, 2nd edition. AlaskaNative Language Center, Fairbanks, Alaska.
+ * Steven A. Jacobson. 2001. A Practical Grammar of the St. Lawrence Island / Siberian Yupik Eskimo Language, Preliminary Edition, 2nd edition. Alaska Native Language Center, Fairbanks, Alaska.
 
 
