@@ -2,6 +2,7 @@
 layout: postag
 title: 'NUM'
 shortdef: 'numeral'
+udver: '2'
 ---
 
 A numeral is a word that expresses a number and a relation to the number, such as quantity, sequence, frequency or fraction.

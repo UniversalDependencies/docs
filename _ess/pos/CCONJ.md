@@ -1,8 +1,8 @@
 ---
 layout: postag
 title: 'CCONJ'
-redirect_from: "en/pos/CONJ.html"
 shortdef: 'coordinating conjunction'
+udver: '2'
 ---
 
 `CCONJ` is used to tag an Yupik enclitic (_=llu_ "and").

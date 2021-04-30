@@ -2,6 +2,7 @@
 layout: postag
 title: 'PRON'
 shortdef: 'pronoun'
+udver: '2'
 ---
 `PRON` is used for demonstrative pronouns and interrogative pronouns. See Jacobson (2001, p. 107-114) for more details about the demonstratives.
 
