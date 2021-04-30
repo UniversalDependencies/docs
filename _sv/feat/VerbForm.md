@@ -39,7 +39,7 @@ Stem is a form of the verb that is only used as the modifier part of a compound.
 
 #### Examples
 
-* [sv] _<b>läs-</b> och <b>skriv<b>kunnighet_ "reading and writing ability" 
+* [sv] _<b>läs-</b> och <b>skriv</b>kunnighet_ "reading and writing ability" 
 
 ### <a name="Sup">`Sup`</a>: supine
 
