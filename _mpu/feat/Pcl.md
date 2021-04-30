@@ -13,14 +13,14 @@ udver: '2'
 </tr>
 </table>
 
-`Rel` is a morpheme that combines with lexical roots and postpositions. They signalize the adjacency or contiguity (Rel=Cont) and non-adjacency or non-contiguity of head and depenent, e.g., possessor-noun, object-postposition. In Akuntsú, the relational only expresses possessive relation between two elements within the same phrase, i.e., it indicates whether the possessed noun is or is not contiguous to its possessor, functioning in this language as a possessive marker. This prefix is no longer productive in this language. 
+`Dub` dubitative
 
 ### <a name="Dub">`Dub`</a>: Dubitative
 
 
 #### Examples
 
-* _<b>o=t-ek</b>&nbsp;_ “My house”
+* _<b>u eya xēke ekara</b>&nbsp;_ “It might rain”
 
 
 

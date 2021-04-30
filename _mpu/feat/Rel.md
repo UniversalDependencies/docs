@@ -18,22 +18,22 @@ udver: '2'
 
 ### <a name="Cont">`Cont`</a>: contiguous
 
-The only relationals found in Akuntsú are the contiguous: t- or ø-
+The contiguous are: x- ~ y-, ø-, w-
 
 #### Examples
 
-* _<b>o=t-ek</b>&nbsp;_ “My house”
-* _<b>o=ø-mepit</b>&nbsp;_ “My son”
+* _<b>o=y-ãy-en</b>&nbsp;_ “My tooth”
 
 
 ### <a name="NCont">`NCont`</a>: non-contiguous
 
-The only relationals found in Akuntsú are the contiguous: t- or ø-
+The non-contiguous are: t- or y-
 
 #### Examples
 
-* _<b>o=t-ek</b>&nbsp;_ “My house”
-* _<b>o=ø-mepit</b>&nbsp;_ “My son”
+* _<b>ø-y-akare-t</b>&nbsp;_ “Her head”
+* _<b>ø-t-eri-n</b>&nbsp;_ “His hammock”
+
 
 
 
