@@ -30,7 +30,7 @@ such as subject and object, to semantic roles, such as agent and patient.
 The above combinations (of camel-case voice values) are a temporary solution to indicate "multiple
 voice" features, but they are certainly not the best way to indicate
 these features.
-See https://github.com/UniversalDependencies/docs/issues/197 and
+See [#197](https://github.com/UniversalDependencies/docs/issues/197) and
 [#125](https://github.com/UniversalDependencies/docs/issues/125#issuecomment-112512320)
 for the discussion.
 
