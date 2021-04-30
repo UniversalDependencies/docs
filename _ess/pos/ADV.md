@@ -8,43 +8,30 @@ udver: '2'
 ### Definition
 
 Adverbs are words that typically modify [verbs](VERB) for such
-categories as time, place, direction or manner. They may also modify
-[adjectives](ADJ) and other adverbs, as in _<b>velmi významně</b>&nbsp;_ “very significantly” or
-_<b>prokazatelně</b> chybný&nbsp;_ “provably wrong”.
+categories as time, place, direction or manner. 
 
-There is a closed subclass of _pronominal adverbs_ that refer to
-circumstances in context, rather than naming them directly; similarly
-to pronouns, these can be categorized as interrogative, relative,
-demonstrative etc. Pronominal adverbs also get the `ADV`
-part-of-speech tag but they are differentiated by additional features.
-
-In accord with the UD approach,
-adverbial ordinal numerals _(poprvé, posedmé, postopadesáté)&nbsp;_
-are tagged `ADV`, although the traditional grammar classifies
-them as numerals.
-The same holds for multiplicative numerals
-_(jednou, sedmkrát, stopadesátkrát).&nbsp;_
-
-Note that Czech transgressives (also called adverbial participles or converbs)
-are tagged [VERB](), not `ADV`.
+Interrogative adverbs are tagged as `ADV`.
 
 ### Examples
 
-- _velmi&nbsp;_ “very”
-- _dobře&nbsp;_ “well”
-- _přesně&nbsp;_ “exactly”
-- _zítra&nbsp;_ “tomorrow”
-- _nahoru, dolů&nbsp;_ “up, down”
-- ordinal numeral adverbs: _poprvé, podruhé, potřetí&nbsp;_ “for the first time, for the second time, for the third time”
-- multiplicative numeral adverbs: _jednou, dvakrát, třikrát&nbsp;_ “once, twice, three times”
-- interrogative adverbs: _kde, kam, kdy, jak, proč&nbsp;_ “where, where to, when, how, why”
-- demonstrative adverbs: _tady, tam, teď, tehdy, tak&nbsp;_ “here, there, now, then, so”
-- indefinite adverbs: _někde, někam, někdy, nějak&nbsp;_ “somewhere, to somewhere, sometime, somehow”
-- total adverbs: _všude, vždy&nbsp;_ “everywhere, always”
-- negative adverbs: _nikde, nikdy&nbsp;_ “nowhere, never”
+- _sangavek_ "why"
+- _qavngaq_ "when"
+- _naten_ "how"
+
+The quantifier-qualifier construction serves as adverbial function (Jacobson 2001, p. 76-78) and is tagged as `ADV`.
+
+### Examples
+
+- _allakagh_ "separately from others"
+- _ellnginagh-_ "alone (base)" (as in _ellnginaan_ "only, inflected for 3rd person singular")
+
+Demonstrative adverbs are also tagged as `ADV`.
+
+### Examples
+- _qagani_ "outside"
+- _maani_ "here, in this area"
+- _whani_ "here, in this immediate place"
 
 ### References
 
-- [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an adverb?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnAdverbLinguistics.htm)
-- [Wikipedia](http://en.wikipedia.org/wiki/Adverb)
-<!-- Interlanguage links updated Čt lis 12 09:42:50 CET 2020 -->
+- Steven A. Jacobson. 2001. A Practical Grammar of the St. Lawrence Island / Siberian Yupik Eskimo Language, Preliminary Edition, 2nd edition. Alaska Native Language Center, Fairbanks, Alaska.

@@ -6,7 +6,7 @@ shortdef: 'noun'
 
 ### Definition
 
-Nouns are a part of speech typically denoting a person, place, thing, animal or idea. The `NOUN` tag is intended for common nouns only.
+Nouns are a part of speech typically denoting a person, place, thing, animal or idea.
 
 ### Examples
 
