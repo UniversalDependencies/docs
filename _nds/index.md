@@ -65,6 +65,11 @@ A part of this documentation is copied from the current German documentation [UD
   However, case forms of nouns are extremely ambiguous and most of the time the case is distinguished only by the form of the article.
 * [Definite]() has 2 values: `Ind`, `Def`. It is used to distinguish the indefinite and definite articles ([DET]()).
 
+#### Degree and Polarity
+
+* [Degree]() applies to adjectives ([ADJ]()) and adverbs ([ADV]()) and has one of three possible values: `Pos`, `Cmp`, `Sup`.
+* [Polarity]() is used to mark the negative particle _nicht,_ i.e., only the `Neg` value is used.
+
 ---
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
 
