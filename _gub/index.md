@@ -19,7 +19,7 @@ udver: '2'
 This is an overview only. For more detailed discussion and examples, see the list of [Mundurukú POS tags](pos/index.html)
 and [Mundurukú features](feat/index.html).
 
-* Tupinambá uses 16 of the 17 universal POS categories. `ADJ` is not used since there is no separate class of adjectives.
+* Guajajara uses 16 of the 17 universal POS categories. `ADJ` is not used since there is no separate class of adjectives.
 Stative-verbs and possessed nouns behave alike, in a way that is not possible to distinguish them morphologically
 (I am ugly / I have uglyness; ugly boy / boy with uglyness).
 
@@ -57,12 +57,9 @@ Mapping UPOS to XPOS Tupinambá
 * Nouns can be also marked for past tense.
 
 ### Verbal Features
-
-* Verbs have a lexical [Aspect](https://universaldependencies.org/u/feat/Aspect.html): imperfective (Imp), perfective (Perf), iterative (Iter).
-* As a head marking language, Tupinambá cross-references both arguments of a two-place predicate, S and O, only when O is third person: *a-s-epjak* 1.SG-3(RELNCONT)-see 'I see him/her/it/them'. The [PERSON](https://universaldependencies.org/u/feat/Person.html) feature in this case ha sthe value `Person=13` indicating that A is 1<sup>st</sup> and O 3<sup>rd</sup> person.
-* Verbs are marked for [aspect](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/Aspect.md): `Compl` (completive), `Iter` (Iterative), `Suc` Successive.
-* Verbs are also marked for [mood](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/Mood.md): `Perm` (permissive).
-* Lexical roots may be [reduplicated](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/Red.md) in two differentways: 
+* Verbs are marked for [aspect](https://github.com/UniversalDependencies/docs/blob/pages-source/_gub/feat/Aspect.md): `Prog` (Progressive).
+* Verbs are also marked for [mood](https://github.com/UniversalDependencies/docs/blob/pages-source/_gub/feat/Mood.md): `Imp` (Imperative).
+* Lexical roots may be [reduplicated](https://github.com/UniversalDependencies/docs/blob/pages-source/_gub/feat/Red.md) in two different ways: 
 monosylabic reduplication (`Red=Mo`), disylabic reduplication (`Red=Di`). The modify the aspect of the verb in different ways: disylabic reduplication indicate the repetition or duration of an action; monosylabic reduplication indicates iteration of the action. 
 ---
 
@@ -70,38 +67,18 @@ monosylabic reduplication (`Red=Mo`), disylabic reduplication (`Red=Di`). The mo
 
 ### Core Arguments, Oblique Arguments and Adjuncts
 
-As a head-marking language, core arguments, except oblique core arguments are cross-referenced on the predicate, as in the example below:
+As a head-marking language, core arguments, except oblique core arguments may be cross-referenced on the predicate, as in the example below:
 
 ```
-uzakook
+uzapo
 
-u-Z-akook
+u-Z-apo
 
-3-3-empty
+3-3-do
 
-He/She/They empty it/them
+He/She/They do it/them
 ```
 
-This is the case only when the object is third-person. For this reason the feature [Person](https://universaldependencies.org/u/feat/Person.html) takes values combining both arguments (A dn P): `Person=13`, `Person=23`, and `Person=33`. No othe combinations occur.
-
-
-
-
-
-
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
-
-## Syntax
-
-*
-
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
 
 ## Treebanks
 
