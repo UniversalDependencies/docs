@@ -8,10 +8,10 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Aor">aorist</a></td>
-  <td><a href="#Imp">imperfective</a></td>
-  <td><a href="#Perf">perfect</a></td>
-  <td><a href="#Pfv">perfective</a></td>
+  <td><a href="#Aor">aor</a></td>
+  <td><a href="#Imp">imp</a></td>
+  <td><a href="#Perf">perf</a></td>
+  <td><a href="#Pfv">pfv</a></td>
 </tr>
 </table>
 
