@@ -34,12 +34,12 @@ A part of this documentation is copied from the current German documentation [UD
   In general, words that inflect for gender, to be able to agree with a modified noun, are tagged [DET](), even if they
   act independently in a given sentence; that includes possessives.
 * Low Saxon auxiliary verbs ([AUX]()) are:
-  * _weasen_ for perfect tenses of some verbs (_ik bün koamen_ “I have come”) and as copula (_hee is old_ “he is old”)
+  * _weasen_/_wēsen²_ for perfect tenses of some verbs (_ik bün koamen_ “I have come”) and as copula (_hee is old_ “he is old”)
   * _hebben_ for perfect tenses of the remaining verbs (_ik hev eaten_ “I have eaten”)
-  * _werden_ for the passive (_dat wardt eaten_ “it is (being) eaten”)
-  * _sköälen_, _willen_ and _werden_ for future tense (_ik skal binnenkört dår weasen_ “I will arrive soon”)
-  * modal verbs _dörven_ “may”, _künnen_ “can”, _möägen_ “may, want”, _möten_ “must”, _sköälen_ “shall”, _willen_ “want”
-  * The verbs _weasen, hebben_ and _werden_ can also occur as normal verbs ([VERB]()), meaning “be, have, become”.
+  * _werden_/_wērden¹_ for the passive (_dat wardt eaten_ “it is (being) eaten”)
+  * _sköälen_/_schȫlen¹_, _willen_/_willen¹_ and _werden_/_wērden¹_ for future tense (_ik skal binnenkört dår weasen_ “I will arrive soon”)
+  * modal verbs _dörven_ “may”, _künnen_ “can”, _möägen_/_mȫgen_ “may, want”, _möten_/_mö̂ten²_ “must”, _sköälen_/_schȫlen¹_ “shall”, _willen_/_willen¹_ “want”
+  * The verbs _weasen/_wēsen²_, hebben_ and _werden_/_wērden¹_ can also occur as normal verbs ([VERB]()), meaning “be, have, become”.
 * There are four main (de)verbal forms, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
   * Infinitive `Inf`, tagged [VERB]() or [AUX]().
   * Finite verb `Fin`, tagged [VERB]() or [AUX]().
