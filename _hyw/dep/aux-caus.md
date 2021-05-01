@@ -10,9 +10,7 @@ The syntactical subject of the sentence (i.e. the causer) receives a [nsubj:caus
 The initial agent of the action described by the sentence is demoted and will be anotated with an [iobj:agent]() relation.
 
 ~~~ conllu
-# visual-style 6 7 aux:caus color:blue
-text = Բայց ընտանեկան պատճառներով մայրս զինքը բերել տուած է Կովկասէն եւ այլեւս հայրս չէ կրցած հեռանալ Կ. Պոլսէն։
-# translit = Bayc’ ëntanekan patč̣aṙnerov mayrs zink’ë berel towaç ē Kovkasēn ew aylews hayrs čē krc’aç heṙanal K. Polsēn.
+# visual-style 7 6 aux:caus color:blue
 1	Բայց	բայց	CCONJ	_	_	6	cc	_	Translit=Bayc’|LTranslit=bayc’
 2	ընտանեկան	ընտանեկան	ADJ	_	_	3	amod	_	Translit=ëntanekan|LTranslit=ëntanekan
 3	պատճառներով	պատճառ	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Plur	6	obl	_	Translit=patč̣aṙnerov|LTranslit=patč̣aṙ
