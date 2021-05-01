@@ -152,6 +152,12 @@ Since there is no official common standard spelling for Low Saxon, the examples 
   * The auxiliary verb in periphrastic passive is labeled [aux:pass]().
   * If the demoted agent is present, it has the form of a bare instrumental phrase and its relation is labeled [obl:agent]().
 
+### Non-verbal Clauses
+
+* The copula verb _weasen_/_wēsen²_ (be) is used in existential, equational, attributional, locative, possessive and benefactory nonverbal clauses.
+  * Existential clauses, especially in dialects from the German side, may also use a different verb, _geaven_/_gēven_ (give) with an accusative object: _dat givt eaten_ “there is food.”
+
+
 ---
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
 
