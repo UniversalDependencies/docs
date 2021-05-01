@@ -18,13 +18,13 @@ We already split auxiliary and non-auxiliary verbs at the level of UPOS tags.
 The `VerbType` feature may be used to capture finer distinctions that some
 tagsets make.
 
-???
 ### <a name="Aux">`Aux`</a>: auxiliary verb
 
 Verb used to create periphrastic verb forms (tenses, passives etc.)
 
 #### Examples
-???
+- _uːn uː= kaːm iraːnaj / fidig -a <b>dʔi</b> -jaː =b =u /_ "Gosh, this camel was let loose [and]"
+
 
 ### <a name="Cop">`Cop`</a>: copula verb
 
@@ -33,6 +33,7 @@ We have treated copulas as auxiliaries, this feature is used to distinguish them
 
 #### Examples
 - _hoː =b hoːsoː ʃʔag -aː =b <b>=u</b> uː= tak _ "The man was carrying on his shoulder a lamb"
+
 
 ### <a name="Light">`Light`</a>: light (support) verb
 
