@@ -23,6 +23,7 @@ The infinitive verb governs the causative auxiliary with an [aux:caus]() relatio
 11	փոխադրելու	փոխադրել	VERB	_	Case=Dat|Definite=Ind|Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	6	obl	_	Translit=p’oxadrelow|LTranslit=p’oxadrel
 12	համար	համար	ADP	_	AdpType=Post	11	case	_	Translit=hamar|LTranslit=hamar|SpaceAfter=No
 13	։	։	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
+
 ~~~
 
 For more details see [specific-syntax](http://universaldependencies.org/hyw/overview/specific-syntax.html).
