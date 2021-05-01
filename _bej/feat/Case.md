@@ -20,7 +20,7 @@ udver: '2'
 </tr>
 </table>
 
-In Beja, `Case` is an inflectional feature of [adpositions](bej-pos/ADP), [determiners](bej-pos/DET), [particles](bej-pos/PART) and [pronouns](bej-pos/PRON).
+In Beja, `Case` is an inflectional feature of [adpositions](_bej/pos/ADP), [determiners](_bej/pos/DET), [particles](_bej/pos/PART) and [pronouns](_bej/pos/PRON).
 
 Case helps specify the role of the noun phrase in the sentence. 
 
