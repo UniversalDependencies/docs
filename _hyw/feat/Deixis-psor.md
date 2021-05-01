@@ -13,7 +13,7 @@ udver: '2'
 </tr>
 </table>
 
-Western Armenian uses `the Deixis[psor]` as layered feature for [NOUN]() to encodes the position of an entity relative to either the speaker or the hearer.
+Western Armenian uses `Deixis[psor]` as layered feature for [NOUN]() to encodes the position of an entity relative to either the speaker or the hearer.
 
 ### <a name="Prox">`Prox`</a>: proximal
 
