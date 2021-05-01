@@ -118,7 +118,39 @@ Since there is no official common standard spelling for Low Saxon, the examples 
 
 ## Syntax
 
-*
+### Core Arguments, Oblique Arguments and Adjuncts
+
+* Nominal subject ([nsubj]()) is a noun phrase in the nominative case, without preposition.
+  * A finite subordinate clause may serve as the subject and is labeled `csubj`.
+  * If a verb is to serve as the subject, it becomes a verbal noun
+    (its form resembles the infinitive, or especially in older language the present participle, but it gets the neuter singular nominative article),
+    thus it is labeled `nsubj`.
+* Objects defined in the Low Saxon grammar may be bare noun phrases in accusative, and in dialects which have preserved the dative-accusative distinction, a dative object is possible as well. Bare genitive phrases do not generally occur as objects in the modern language anymore. 
+  Prepositional phrases in accusative (or also dative, in some dialects) can function as objects as well. 
+  For the purpose of UD the objects are divided to core objects, labeled [obj]() or [iobj](),
+  and oblique objects, labeled [obl:arg]().
+  * Bare accusative (and dative) objects are considered core.
+  * All prepositional objects are considered oblique.
+  * Accusative objects of some verbs alternate with finite clausal complements, which are labeled [ccomp]().
+  * If a verb subcategorizes for the infinitive (e.g. phasal verbs or verbs of control), the infinitival complement is labeled [xcomp]().
+  * If a verb subcategorizes for two core objects, one of them accusative (or `ccomp`) and the other non-accusative,
+    then the non-accusative object is labeled [iobj]().
+    Core nominal objects in other situations are labeled just [obj]().
+* Adjuncts (or, following the German grammar, adverbial modifiers realized as noun phrases) are usually
+  prepositional phrases, but they can be bare noun phrases as well. They are labeled [obl]():
+  * Temporal modifiers realized as accusative noun phrases: _ik werke elken dag_ “I work every day.”
+  * All prepositional phrases that are not prepositional objects (i.e., their role and form is not defined lexically by the predicate)
+    are adjuncts.
+* Extra attention has to be paid to the reflexive pronoun _sik_. It can function as:
+  * Core object ([obj]() or [iobj]()): _hee sügt sik in'n spegel_ “he sights himself in the mirror.”
+  * Reciprocal core objects (`obj` or `iobj`): _see küsset sik_ “they are kissing each other.”
+  * Inherently reflexive verb, cannot exist without the reflexive clitic, and the clitic cannot be substituted by an irreflexive pronoun
+    or a noun phrase.
+    In accord with the current UD guidelines, we label the relation
+    between the verb and the clitic as [expl:pv](), not `compound`. Example: _wy mussen uns spoden_ “we had to hurry.”
+* In passive clauses, the subject is labeled with [nsubj:pass]() or [csubj:pass](), respectively.
+  * The auxiliary verb in periphrastic passive is labeled [aux:pass]().
+  * If the demoted agent is present, it has the form of a bare instrumental phrase and its relation is labeled [obl:agent]().
 
 ---
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
