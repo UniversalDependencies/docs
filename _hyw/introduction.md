@@ -7,7 +7,7 @@ udver: '2'
 
 # Introduction
 
-The UD_Western_Armenian-ArmTDP treebank is based on the Western Armenian section of the Armenian Dependency Treebank (Հայերէնի Ծառադարան), created at the Yerevan State University by the ArmTDP team led by Marat M. Yavrumyan. The treebank covers different genres (texls dated between 1895 and 2020). The annotation scheme was developed in according to the UD guidelines. The original data was manually annotated by the ArmTDP team. The tokenization and POS-tagging process was carried out through alternating steps of automatic scripting and manual revision in the YerevaNN research lab (led by Hrant H. Khachatrian).
+The UD_Western_Armenian-ArmTDP treebank is based on the Western Armenian section of the Armenian Dependency Treebank (Հայերէնի Ծառադարան), created at the Yerevan State University by the ArmTDP team led by Marat M. Yavrumyan. The treebank covers different genres (texts dated between 1895 and 2020). The annotation scheme was developed in according to the UD guidelines. The original data was manually annotated by the ArmTDP team. The tokenization and POS-tagging process was carried out through alternating steps of automatic scripting and manual revision in the YerevaNN research lab (led by Hrant H. Khachatrian).
 
 ### Acknowledgments
 
