@@ -20,7 +20,7 @@ The initial agent of the action described by the sentence is demoted and will be
 7	տուած	տալ	AUX	_	Aspect=Perf|Polarity=Pos|VerbForm=Part|Voice=Cau	6	aux:caus	_	Translit=towaç|LTranslit=tal
 8	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	Translit=ē|LTranslit=em
 9	Կովկասէն	Կովկաս	PROPN	_	Animacy=Nhum|Case=Abl|Definite=Def|NameType=Geo|Number=Sing	6	obl	_	Translit=Kovkasēn|LTranslit=Kovkas|SpaceAfter=No
-19	։	։	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
+10	։	։	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
