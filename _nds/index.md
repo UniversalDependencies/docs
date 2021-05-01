@@ -8,7 +8,9 @@ udver: '2'
 
 ## Introduction
 
-A part of this documentation is copied from the current German documentation [UD for German](https://universaldependencies.org/de/index.html), which can mostly be applied to Low Saxon as well. 
+A part of this documentation is copied from the current German documentation [UD for German](https://universaldependencies.org/de/index.html), which can mostly be applied to Low Saxon as well.
+
+Since there is no official common standard spelling for Low Saxon, the examples provided here are given in the interregional spelling suggestion used e.g. by the Dutch Low Saxon Wikipedia (_Nysassiske Skryvwyse_, abbreviated "NSS", described in more detail here: https://skryvwyse.eu/ (only in Low Saxon)) and lemma forms are given in both the NSS and normalised Middle Low Saxon following the _Mittelniederdeutsches Handwörterbuch_ by Agathe Lasch et al. 
 
 ## Tokenization and Word Segmentation
 
@@ -40,7 +42,7 @@ A part of this documentation is copied from the current German documentation [UD
   * _sköälen_/_schȫlen¹_, _willen_/_willen¹_ and _werden_/_wērden¹_ for future tense (_ik skal binnenkört dår weasen_ “I will arrive soon”)
   * modal verbs _dörven_ “may”, _künnen_ “can”, _möägen_/_mȫgen_ “may, want”, _möten_/_mö̂ten²_ “must”, _sköälen_/_schȫlen¹_ “shall”, _willen_/_willen¹_ “want”
   * _doon_/_dôn¹_, _willen_/_willen¹_ and _werden_/_wērden¹_ for a periphrastic conditional (_see dea em lever besöken_ “she would prefer to visit him“)
-  * The verbs _weasen/_wēsen²_, _hebben_, _doon_/_dôn¹_ and _werden_/_wērden¹_ can also occur as normal verbs ([VERB]()), meaning “be, have, do, become”.
+  * The verbs _weasen_/_wēsen²_, _hebben_, _doon_/_dôn¹_ and _werden_/_wērden¹_ can also occur as normal verbs ([VERB]()), meaning “be, have, do, become”.
 * There are four main (de)verbal forms, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
   * Infinitive `Inf`, tagged [VERB]() or [AUX]().
   * Finite verb `Fin`, tagged [VERB]() or [AUX]().
@@ -68,7 +70,46 @@ A part of this documentation is copied from the current German documentation [UD
 #### Degree and Polarity
 
 * [Degree]() applies to adjectives ([ADJ]()) and adverbs ([ADV]()) and has one of three possible values: `Pos`, `Cmp`, `Sup`.
-* [Polarity]() is used to mark the negative particle _nicht,_ i.e., only the `Neg` value is used.
+* [Polarity]() is used to mark the negative particle _nich/_nicht¹_, i.e., only the `Neg` value is used.
+
+#### Verbal Features
+
+* Finite verbs always have one of two values of [Mood](): `Ind` or `Imp`. Some dialects have preserved separate forms for `Sub` (called _konjunktiv_ in Low Saxon).
+* Indicative and subjunctive verbs always have one of two values of [Tense](): `Past`, `Pres`.
+  * In the subjunctive mood, the tense feature is used to distinguish _konjunktiv I_ (`Pres`) and _konjunktiv II_ (`Past`).
+  * Imperative forms do not have the `Tense` feature.
+  * The `Tense` feature is also used to distinguish present and past participles (_singen(d)_ “singing” vs. _sungen_ “sung”).
+* In the plural, verbs do not commonly distinguish person and consequently are only tagged for `Plur`. Some dialects may show occasional exceptions to this rule in particular verbs (maybe due to influence from German or Dutch?), in case of which the person should be tagged. 
+* The features [Aspect]() and [Voice]() are not used in Low Saxon because
+  both the perfect aspect and the passive voice are expressed periphrastically.
+  
+
+#### Pronouns, Determiners, Quantifiers
+
+* [PronType]() is used with pronouns ([PRON]()), determiners ([DET]()) and adverbs ([ADV]()).
+* [NumType]() is used with numerals ([NUM]()), adjectives ([ADJ]()) and determiners ([DET]()).
+* The [Poss]() feature marks possessive personal determiners (e.g. _myn_/_mîn²_ “my”).
+* The [Reflex]() feature is always used together with `PronType=Prs` and it marks reflexive pronouns _(my/mî, dy/dî, sik/sik¹, uns/uns², ju/iü²)._
+  Note that their forms in the first and second person are ambiguous with irreflexive accusative forms, and the `Reflex` feature
+  must be decided by context.
+* [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
+  With personal possessive determiners ([DET]()), the feature actually encodes the person of the possessor.
+  Person is not marked on other types of pronouns and on nouns, although they can be almost always interpreted as the 3rd person.
+  * As a cross-reference to subject, person is also marked on finite verbs ([VERB](), [AUX]()).
+* The [Polite]() feature distinguishes informal second-person pronouns (_du_/_dû¹_, _jy_/_gî²_, `Polite=Infm`)
+  from the formal _Jy_/_gî²_ and _See_/_sê²_ (`Polite=Form`).
+  The formal pronoun _Jy_/_gî²_ is phonologically equivalent in all its case forms to the second-person plural _Jy_/_gî²_, 
+  and the formal pronoun _See_/_sê²_ is phonologically equivalent in part of its case forms to the third-person plural _see_/_sê²_
+  but they are distinguished in orthography by the capital letters _J_ and _S_.
+  We tag the formal pronoun _See_/_sê²_ as second person (because that is its meaning) and we do not tag formal pronouns for number (because they are used both
+  for singular and plural addressees) despite the fact that they combine with plural verbs.
+  The parser must learn that `Person=2|Polite=Form` subject attaches to `Number=Plur` verbs,
+  while `Number=Sing|Person=2|Polite=Infm` subject attaches to `Number=Sing|Person=2` verbs.
+
+#### Other Features
+
+* The following universal features are not used in German: [Animacy](), [Evident]().
+
 
 ---
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
