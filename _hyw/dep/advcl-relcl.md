@@ -18,5 +18,6 @@ The antecedent of the pronoun is the entire superordinate clause.
 6	եկաւ	գալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	1	advcl:relcl	_	Translit=ekaw|LTranslit=gal
 7	մեկնելու	մեկնիլ	VERB	_	Case=Dat|Definite=Ind|Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	6	xcomp	_	Translit=meknelow|LTranslit=meknil|SpaceAfter=No
 8	:	:	PUNCT	_	Foreign=Yes	1	punct	_	Translit=.|LTranslit=.
+
 ~~~
 <!-- Interlanguage links updated Čt lis 12 09:43:11 CET 2020 -->
