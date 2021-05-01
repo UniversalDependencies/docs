@@ -16,7 +16,7 @@ The dependencies presented in the Universal Dependencies framework are based on 
 
 ## Morphology
 
-This is an overview only. For more detailed discussion and examples, see the list of [Beja POS tags](pos/index.html)
+This is an overview only. For more detailed discussion and examples, see the list of [Beja POS tags](/_bej/pos/index.html)
 and [Beja features](feat/index.html).
 
 
