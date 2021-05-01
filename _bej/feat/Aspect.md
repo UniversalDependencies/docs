@@ -15,7 +15,7 @@ udver: '2'
 </tr>
 </table>
 
-In Beja, aspect is an inflexionnal feature of [verbs](bej-pos/VERB), [auxiliaries](bej-pos/AUX) and verbal affixes/clitics (see [SCONJ](bej-pos/SCONJ), [PART](bej-pos/PART)) that specifies the duration and completion of processes in time.
+In Beja, aspect is an inflexionnal feature of [verbs](_bej/pos/VERB), [auxiliaries](_bej/pos/AUX) and verbal affixes/clitics (see [SCONJ](_bej/pos/SCONJ), [PART](_bej/pos/PART)) that specifies the duration and completion of processes in time.
 
 
 ### <a name="Aor">`Aor`</a>: aorist
