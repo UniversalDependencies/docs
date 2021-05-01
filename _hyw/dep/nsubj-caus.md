@@ -18,11 +18,8 @@ The infinitive verb governs the causative auxiliary with an [aux:caus]() relatio
 6	պատրաստել	պատրաստել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	0	root	_	Translit=patrastel|LTranslit=patrastel
 7	կու	կը	AUX	_	Aspect=Imp|Mood=Ind	6	aux	_	Translit=kow|LTranslit=kë
 8	տայ	տալ	AUX	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Cau	6	aux	_	Translit=tay|LTranslit=tal
-9	կոր	կոր	AUX	_	Aspect=Prog|Mood=Ind|Style=Coll	6	aux	_	Translit=kor|LTranslit=kor
-10	տետրակները	տետրակ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	11	obj	_	Translit=tetraknerë|LTranslit=tetrak
-11	փոխադրելու	փոխադրել	VERB	_	Case=Dat|Definite=Ind|Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	6	obl	_	Translit=p’oxadrelow|LTranslit=p’oxadrel
-12	համար	համար	ADP	_	AdpType=Post	11	case	_	Translit=hamar|LTranslit=hamar|SpaceAfter=No
-13	։	։	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
+9	կոր	կոր	AUX	_	Aspect=Prog|Mood=Ind|Style=Coll	6	aux	_	Translit=kor|LTranslit=kor|SpaceAfter=No
+10	։	։	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
