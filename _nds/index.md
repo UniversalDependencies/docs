@@ -70,7 +70,7 @@ Since there is no official common standard spelling for Low Saxon, the examples 
 #### Degree and Polarity
 
 * [Degree]() applies to adjectives ([ADJ]()) and adverbs ([ADV]()) and has one of three possible values: `Pos`, `Cmp`, `Sup`.
-* [Polarity]() is used to mark the negative particle _nich/_nicht¹_, i.e., only the `Neg` value is used.
+* [Polarity]() is used to mark the negative particle _nich_/_nicht¹_, i.e., only the `Neg` value is used.
 
 #### Verbal Features
 
