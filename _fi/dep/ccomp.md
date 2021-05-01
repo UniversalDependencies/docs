@@ -2,6 +2,7 @@
 layout: relation
 title:  'ccomp'
 shortdef : 'clausal complement'
+udver: '2'
 ---
 
 *Clausal complement* is an object like clausal dependent. The governor is most
@@ -40,7 +41,7 @@ nmod:poss(koira-5, naapurin-4)
 nsubj(haukkui-6, koira-5)
 advmod(haukkui-6, kovasti-7)
 nsubj(suututti-9, Se-1)
-dobj(suututti-9, äitiä-10)
+obj(suututti-9, äitiä-10)
 punct(suututti-9, .-11)
 ~~~
 
@@ -54,5 +55,5 @@ a verb-derived noun
 Clauses modifying regular nouns get marked as `acl`:
 *semmonen __kampaus__ et se kestää*(`ccomp`)
 lit. “the kind of hairstyle that it lasts”
-(according to [Universal dependency relations: acl](http://universaldependencies.org/u/dep/all.html#al-u-dep/acl)). 
+(according to [Universal dependency relations: acl](http://universaldependencies.org/u/dep/all.html#al-u-dep/acl)).
 <!-- Interlanguage links updated Čt lis 12 09:43:17 CET 2020 -->

@@ -12,6 +12,7 @@ udver: '2'
   <td><a href="#Cop">Cop</a></td>
   <td><a href="#Mod">Mod</a></td>
   <td><a href="#Light">Light</a></td>
+  <td><a href="#Quasi">Quasi</a></td>
 </tr>
 </table>
 
@@ -78,5 +79,16 @@ it makes sense to mark light verbs with a dedicated feature value.
 #### Examples
 
 * [ja] <b>する</b> / _<b>suru</b>_ “do”
+
+### <a name="Quasi">`Quasi`</a>: quasi-verb
+
+A word that functions partially as a verb and is tagged [VERB](), yet it is defective in
+some other aspect that are typical of verbs in the given language. For example, quasi-verbs
+in Polish function as predicates and take infinitives of regular verbs as complements,
+yet their morphology is not verbal: they are more like frozen forms of adjectives.
+
+#### Examples
+
+* [pl] _<b>można</b>_ “possible”, _<b>trzeba</b>_ “necessary”, _<b>warto</b>_ “worth”
 
 <!-- Interlanguage links updated Čt lis 12 09:43:08 CET 2020 -->

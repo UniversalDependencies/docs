@@ -2,6 +2,7 @@
 layout: relation
 title:  'punct'
 shortdef : 'punctuation'
+udver: '2'
 ---
 
 The dependency type `punct` is used to mark punctuation. The dependent is the punctuation symbol, and the governor is the element which the punctuation symbol delimits. For instance, with coordination, the first coordinated element is the head of all `punct` dependencies in the coordination, and with subordinate clauses, the head of the subordinate clause is the governor of the `punct`.
@@ -9,9 +10,9 @@ The dependency type `punct` is used to mark punctuation. The dependent is the pu
 <!-- fname:punct_coord.pdf -->
 ~~~ sdparse
 kerrostaloja , rivitaloja ja omakotitaloja \n blockhouses , rowhouses and one_family_houses
-punct(kerrostaloja-1, ,-2)
+punct(rivitaloja-3, ,-2)
 conj(kerrostaloja-1, rivitaloja-3)
-cc(kerrostaloja-1, ja-4)
+cc(omakotitaloja-5, ja-4)
 conj(kerrostaloja-1, omakotitaloja-5)
 ~~~
 

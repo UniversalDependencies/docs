@@ -2,6 +2,7 @@
 layout: relation
 title:  'mark'
 shortdef : 'marker'
+udver: '2'
 ---
 
 A *marker* (`mark`) is the subordinating conjunction in a
@@ -14,7 +15,7 @@ mark(tulin-2, Kun-1)
 nmod(tulin-2, kotiin-3)
 punct(tulin-2, ,-4)
 advcl(jätin-5, tulin-2)
-dobj(jätin-5, avaimen-6)
+obj(jätin-5, avaimen-6)
 nmod(jätin-5, pöydälle-7)
 punct(jätin-5, .-8)
 ~~~

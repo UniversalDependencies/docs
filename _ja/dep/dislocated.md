@@ -5,8 +5,17 @@ shortdef: 'dislocated elements'
 udver: '2'
 ---
 
-The dependency type `dislocated` is used for the cleft sentences.
-UD Japanese does not use `dislocated` dependency label.
+The relation `dislocated` is used for topicalized nominals with the particles は / "wa" and も / "mo",
+unless the topicalized nominal is the subject, in which case it would be attached as [nsubj]().
 
-We need `topic` relation in order to treat the topic particles of は / "wa" and も / "mo".
+‘The elephant’s nose is long’
+
+~~~ sdparse
+象 は 鼻 が 長い \n zō wa hana ga nagai \n elephant TOPIC nose SUBJ long
+case(象, は)
+dislocated(長い, 象)
+case(鼻, が)
+nsubj(長い, 鼻)
+~~~
+
 <!-- Interlanguage links updated Čt lis 12 09:43:25 CET 2020 -->

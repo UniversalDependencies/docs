@@ -9,11 +9,11 @@ udver: '2'
 
 We always intended the Universal Dependencies representation to be used in shallow natural language understanding tasks such as relation extraction or biomedical event extraction. For such tasks, one is typically interested in the relation between certain entities, e.g., the relation between two persons or whether one protein interacts with another. UD is particularly well suited for such tasks as UD trees contain many direct dependencies between content words and many of the dependency labels provide a lot of information about the type of relation between two content words. However, for some constructions, the dependency path between two content words of interest can be very long in a UD tree, which complicates determining how the content words are related. Further, some dependency types such as [`obl`](u-dep/obl) or [`nmod`](u-dep/nmod) are used for many different types of arguments and modifiers, and therefore they are not very informative on their own. For these reasons, we also provide guidelines for an _enhanced_ representation, which makes some of the implicit relations between words more explicit, and augments some of the dependency labels to facilitate the disambiguation of types of arguments and modifiers.
 
-
 _Enhanced_ UD graphs may contain some or all of the following enhancements, which are described in the sections below.
 
-* [Null nodes for elided predicates](#ellipsis)
-* [Propagation of conjuncts](#propagation-of-conjuncts)
+* [Empty (null) nodes for elided predicates](#ellipsis)
+* [Propagation of incoming dependencies to conjuncts](#propagation-of-incoming-dependencies-to-conjuncts)
+* [Propagation of outgoing dependencies from conjuncts](#propagation-of-outgoing-dependencies-from-conjuncts)
 * [Additional subject relations for control and raising constructions](#controlledraised-subjects)
 * [Coreference in relative clause constructions](#relative-clauses)
 * [Modifier labels that contain the preposition or other case-marking information](#case-information)
@@ -39,7 +39,8 @@ in the order described below. We provide a more detailed explanation of the extr
    a fixed multi-word expression, the lemma of the expression is not necessarily composed of lemmas of the individual member words.
    For instance, the string representing the English expression “As Opposed To” is `as_opposed_to`. That is, the casing is normalized
    from “As” to “as” etc., but “opposed” is not replaced by its lemma “oppose” because the expression is fixed. We use the underscore
-   character (“_”) to connect member words.
+   character (“_”) to connect member words. The same approach can also be taken when a node has multiple case markers that are not
+   annotated as a fixed expression, e.g., `out_of` for “out of business”.
 4. [Case information](#case-information) –
    morphological case of the node whose relation to its parent is being enhanced. Value corresponds to the value of
    the Case feature but it is lowercased (e.g., `gen` instead of `Gen`). Unlike in morphological features, multivalues with comma
@@ -50,7 +51,10 @@ in the order described below. We provide a more detailed explanation of the extr
 
 (See also the guidelines on [ellipsis](specific-syntax.html#ellipsis).)
 
-In the _enhanced_ representation, we add special null nodes in clauses in which a predicate is elided.
+In the _enhanced_ representation, we add special empty (null) nodes in clauses in which a predicate is elided.
+(Although the node is termed ‘empty’ in the CoNLL-U format specification, and although it does not correspond
+to an overt surface token, its FORM, LEMMA, UPOS, XPOS and FEATS may be optionally filled with the assumed
+values; here they can be copied from the overt occurrence of the predicate.)
 
 <table id="ellipsis-example1"> <!--I like tea and you E5.1 rum .-->
 <tbody><tr><td width="600">
@@ -130,99 +134,9 @@ In the _enhanced_ representation, we add special null nodes in clauses in which 
 Note that this is a case in which the _enhanced_ UD graph is not a supergraph of the _basic_ tree as the _basic_ tree contains `orphan` relations, which are not present in the _enhanced_ UD graph.
 
 
-## Propagation of Conjuncts
+## Propagation of incoming dependencies to conjuncts
 
 In the _basic_ representation, the governor and dependents of a conjoined phrase are all attached to the first conjunct. This often leads to very long dependency paths between content words. The _enhanced_ representation therefore also contains dependencies between the other conjuncts and the governor and dependents of the phrase.
-
-### Conjoined verbs and verb phrases
-
-When two verbs share their objects (or other complements), the subject and the object of the conjoined verbs are attached to every conjunct.
-
-<table> <!--The store buys and sells cameras .-->
-<tbody><tr><td width="600">
-<div class="conllu-parse">
-1 The     _ _ _ _ 2 det   _ _
-2 store   _ _ _ _ 3 nsubj _ _
-3 buys    _ _ _ _ 0 root  _ _
-4 and     _ _ _ _ 5 cc    _ _
-5 sells   _ _ _ _ 3 conj  _ _
-6 cameras _ _ _ _ 3 obj   _ _
-7 .       _ _ _ _ 3 punct _ _
-</div>
-</td><td width="600">
-<div class="conllu-parse">
-# visual-style 5 2 nsubj color:blue
-# visual-style 5 6 obj color:blue
-1 The     _ _ _ _ 2 det   _ _
-2 store   _ _ _ _ 3 nsubj 5:nsubj _
-3 buys    _ _ _ _ 0 root  _ _
-4 and     _ _ _ _ 5 cc    _ _
-5 sells   _ _ _ _ 3 conj  _ _
-6 cameras _ _ _ _ 3 obj   5:obj _
-7 .       _ _ _ _ 3 punct _ _
-</div>
-</td></tr></tbody>
-</table>
-
-However, if the complements of the second verb are not shared, only the shared dependents are attached to every conjunct.
-
-<table> <!--She was reading or watching a movie .-->
-<tbody><tr><td width="600">
-<div class="conllu-parse">
-1 She      _ _ _ _ 3 nsubj _ _
-2 was      _ _ _ _ 3 aux   _ _
-3 reading  _ _ _ _ 0 root  _ _
-4 or       _ _ _ _ 5 cc    _ _
-5 watching _ _ _ _ 3 conj  _ _
-6 a        _ _ _ _ 7 det   _ _
-7 movie    _ _ _ _ 5 obj   _ _
-8 .        _ _ _ _ 3 punct _ _
-</div>
-</td><td width="600">
-<div class="conllu-parse">
-# visual-style 5 1 nsubj color:blue
-# visual-style 5 2 aux color:blue
-1 She      _ _ _ _ 3 nsubj 5:nsubj _
-2 was      _ _ _ _ 3 aux   5:aux _
-3 reading  _ _ _ _ 0 root  _ _
-4 or       _ _ _ _ 5 cc    _ _
-5 watching _ _ _ _ 3 conj  _ _
-6 a        _ _ _ _ 7 det   _ _
-7 movie    _ _ _ _ 5 obj   _ _
-8 .        _ _ _ _ 3 punct _ _
-</div>
-</td></tr></tbody>
-</table>
-
-Similarly, the enhanced representation can also distinguish private dependents of the first verb. Note however that in this case it cannot be inferred from the basic representation automatically.
-
-<table> <!--She was reading or watching a movie .-->
-<tbody><tr><td width="600">
-<div class="conllu-parse">
-1 She      _ _ _ _ 3 nsubj _ _
-2 was      _ _ _ _ 3 aux   _ _
-3 watching _ _ _ _ 0 root  _ _
-4 a        _ _ _ _ 5 det   _ _
-5 movie    _ _ _ _ 3 obj   _ _
-6 or       _ _ _ _ 7 cc    _ _
-7 reading  _ _ _ _ 3 conj  _ _
-8 .        _ _ _ _ 3 punct _ _
-</div>
-</td><td width="600">
-<div class="conllu-parse">
-# visual-style 7 1 nsubj color:blue
-# visual-style 7 2 aux color:blue
-1 She      _ _ _ _ 3 nsubj 7:nsubj _
-2 was      _ _ _ _ 3 aux   7:aux _
-3 watching _ _ _ _ 0 root  _ _
-4 a        _ _ _ _ 5 det   _ _
-5 movie    _ _ _ _ 3 obj   _ _
-6 or       _ _ _ _ 7 cc    _ _
-7 reading  _ _ _ _ 3 conj  _ _
-8 .        _ _ _ _ 3 punct _ _
-</div>
-</td></tr></tbody>
-</table>
 
 ### Conjoined subjects and objects
 
@@ -385,6 +299,103 @@ Each conjunct in a conjoined modifier phrase gets attached to the governor of th
 </div>
 </td></tr></tbody>
 </table>
+
+
+
+## Propagation of outgoing dependencies from conjuncts
+
+In the _basic_ representation, the governor and dependents of a conjoined phrase are all attached to the first conjunct. This often leads to very long dependency paths between content words. The _enhanced_ representation therefore also contains dependencies between the other conjuncts and the governor and dependents of the phrase.
+
+### Conjoined verbs and verb phrases
+
+When two verbs share their objects (or other complements), the subject and the object of the conjoined verbs are attached to every conjunct.
+
+<table> <!--The store buys and sells cameras .-->
+<tbody><tr><td width="600">
+<div class="conllu-parse">
+1 The     _ _ _ _ 2 det   _ _
+2 store   _ _ _ _ 3 nsubj _ _
+3 buys    _ _ _ _ 0 root  _ _
+4 and     _ _ _ _ 5 cc    _ _
+5 sells   _ _ _ _ 3 conj  _ _
+6 cameras _ _ _ _ 3 obj   _ _
+7 .       _ _ _ _ 3 punct _ _
+</div>
+</td><td width="600">
+<div class="conllu-parse">
+# visual-style 5 2 nsubj color:blue
+# visual-style 5 6 obj color:blue
+1 The     _ _ _ _ 2 det   _ _
+2 store   _ _ _ _ 3 nsubj 5:nsubj _
+3 buys    _ _ _ _ 0 root  _ _
+4 and     _ _ _ _ 5 cc    _ _
+5 sells   _ _ _ _ 3 conj  _ _
+6 cameras _ _ _ _ 3 obj   5:obj _
+7 .       _ _ _ _ 3 punct _ _
+</div>
+</td></tr></tbody>
+</table>
+
+However, if the complements of the second verb are not shared, only the shared dependents are attached to every conjunct.
+
+<table> <!--She was reading or watching a movie .-->
+<tbody><tr><td width="600">
+<div class="conllu-parse">
+1 She      _ _ _ _ 3 nsubj _ _
+2 was      _ _ _ _ 3 aux   _ _
+3 reading  _ _ _ _ 0 root  _ _
+4 or       _ _ _ _ 5 cc    _ _
+5 watching _ _ _ _ 3 conj  _ _
+6 a        _ _ _ _ 7 det   _ _
+7 movie    _ _ _ _ 5 obj   _ _
+8 .        _ _ _ _ 3 punct _ _
+</div>
+</td><td width="600">
+<div class="conllu-parse">
+# visual-style 5 1 nsubj color:blue
+# visual-style 5 2 aux color:blue
+1 She      _ _ _ _ 3 nsubj 5:nsubj _
+2 was      _ _ _ _ 3 aux   5:aux _
+3 reading  _ _ _ _ 0 root  _ _
+4 or       _ _ _ _ 5 cc    _ _
+5 watching _ _ _ _ 3 conj  _ _
+6 a        _ _ _ _ 7 det   _ _
+7 movie    _ _ _ _ 5 obj   _ _
+8 .        _ _ _ _ 3 punct _ _
+</div>
+</td></tr></tbody>
+</table>
+
+Similarly, the enhanced representation can also distinguish private dependents of the first verb. Note however that in this case it cannot be inferred from the basic representation automatically.
+
+<table> <!--She was reading or watching a movie .-->
+<tbody><tr><td width="600">
+<div class="conllu-parse">
+1 She      _ _ _ _ 3 nsubj _ _
+2 was      _ _ _ _ 3 aux   _ _
+3 watching _ _ _ _ 0 root  _ _
+4 a        _ _ _ _ 5 det   _ _
+5 movie    _ _ _ _ 3 obj   _ _
+6 or       _ _ _ _ 7 cc    _ _
+7 reading  _ _ _ _ 3 conj  _ _
+8 .        _ _ _ _ 3 punct _ _
+</div>
+</td><td width="600">
+<div class="conllu-parse">
+# visual-style 7 1 nsubj color:blue
+# visual-style 7 2 aux color:blue
+1 She      _ _ _ _ 3 nsubj 7:nsubj _
+2 was      _ _ _ _ 3 aux   7:aux _
+3 watching _ _ _ _ 0 root  _ _
+4 a        _ _ _ _ 5 det   _ _
+5 movie    _ _ _ _ 3 obj   _ _
+6 or       _ _ _ _ 7 cc    _ _
+7 reading  _ _ _ _ 3 conj  _ _
+8 .        _ _ _ _ 3 punct _ _
+</div>
+</td></tr></tbody>
+</table>
+
 
 
 ## Controlled/raised subjects
@@ -650,7 +661,8 @@ The following formal rules apply (copied from the summary at the beginning of th
   a fixed multi-word expression, the lemma of the expression is not necessarily composed of lemmas of the individual member words.
   For instance, the string representing the English expression “As Opposed To” is `as_opposed_to`. That is, the casing is normalized
   from “As” to “as” etc., but “opposed” is not replaced by its lemma “oppose” because the expression is fixed. We use the underscore
-  character (“_”) to connect member words.
+  character (“_”) to connect member words. The same approach can also be taken when a node has multiple case markers that are not
+   annotated as a fixed expression, e.g., `out_of` for “out of business”.
   * Multiple `case` or `mark` nodes may occur even if it is not a fixed expression. For example, a type of adverbial clause
     in Dutch uses two markers _om_ and _te_, the first one roughly corresponding to English “so that”, the second one being
     an infinitive marker. The incoming dependency of the subordinate clause will then be labeled `advcl:om_te`.
@@ -823,3 +835,15 @@ The following formal rules apply (copied from the summary at the beginning of th
 ## Additional enhancements
 
 Some postprocessing steps such as demoting light nouns that behave like quantificational determiners (as, for example, described in [Schuster and Manning (2016)](http://www.lrec-conf.org/proceedings/lrec2016/pdf/779_Paper.pdf)) can improve the usability of the dependency graphs for downstream applications. However, as most of these additions are highly language-specific, we do not provide any universal guidelines for such a representation and anything beyond the above additions is not part of the UD standard and should not be added to the officially released treebanks.
+
+----------
+
+DZ: Here are some additional thoughts on things that are not part of the officially approved guidelines
+but I think that they should be considered for addition in the future (based on experience with the
+treebanks that already contain some enhanced annotation).
+
+* If a corpus does not annotate any of the enhancements defined in the guidelines, it should always have the underscore character in the DEPS column. That is, the enhanced graph should not be just an exact copy of the basic tree. Otherwise it creates the impression that the user can expect some enhancements while there are actually none.
+* If one sentence in a corpus has the enhanced graph, then all sentences in the corpus must have it. It will facilitate processing of the corpus.
+* While individual enhancement types are optional, once a particular enhancement type is annotated somewhere in the corpus, the authors should annotate it everywhere in the corpus. This cannot be checked automatically for some enhancement types, but obviously the user will then assume that non-presence of the annotation in a sentence means that the phenomenon does not occur there.
+* It would be useful if one could recognize from the enhanced relation type what type of enhancement it represents. (Some relations may be a result of two enhancement types combined.) The Stanford Enhancer does this at least for the controlled subjects (generating `nsubj:xsubj`, `nsubj:pass:xsubj`, `csubj:xsubj`, or `csubj:pass:xsubj` for the new enhanced relation) but in fact, the `:xsubj` extension is not supported in the guidelines and is technically illegal.
+* Besides adding case information to `nmod`, `obl`, `acl`, and `advcl`, the Stanford Enhancer also adds conjunction information to `conj`. This is not allowed in the guidelines and thus illegal; however, several UD treebanks already contain it and, arguably, its usefulness can be compared to that of case information.

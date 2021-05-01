@@ -16,6 +16,8 @@ This feature typically applies to [pronouns](u-pos/PRON), [determiners](u-pos/DE
 - _sen_ "you-SG"
 - _siz_ "you-PL"
 
+
+
 ### <a name="Rcp">`Rcp`</a>: reciprocal pronoun
 
 This value covers reciprocal pronoun _birbir-_ and its inflected
@@ -26,8 +28,9 @@ forms.
 - _Birbirinize iyi bakın_ "Take care of each other"
 - _Akşamları birbirimize kitap okuruz_ "We read each other books in the evenings"
 
-### <a name="Int">`Int`</a>: interrogative pronoun, determiner, numeral or adverb
 
+
+### <a name="Int">`Int`</a>: interrogative pronoun, determiner, numeral or adverb
 
 #### Examples:
 
@@ -36,6 +39,7 @@ forms.
 * _kaç_  "how many"
 * _kimin_  "whose"
 
+
 ### <a name="Dem">`Dem`</a>: demonstrative pronoun
 
 #### Examples:
@@ -43,6 +47,14 @@ forms.
 * _bu_ "this"
 * _şu_ "that/this"
 * _o_ "that"
+
+
+### <a name="Ind">`Ind`</a>: indefinite pronoun
+
+#### Examples:
+
+* _bazı_ “some” 
+
 
 ### <a name="Loc">`Loc`</a>: locative pronoun
 
@@ -55,4 +67,27 @@ Locative pronouns are typically distinguished from their _demonstrative_ counter
 * _bura_ "here"
 * _şura_ "there"
 * _ora_ "there"
+
+### <a name="Neg">`Neg`</a>: negative determiner or pronoun
+
+This universal feature is used only a few Turkish treebanks
+for negative pronouns and determiners.
+
+#### Examples:
+
+* _hiç_ "none"
+* _hiçbir_ "none"
+* _hiçbiri_ "none of them"
+
+
+### <a name="Art">`Art`</a>: article
+
+This universal feature is used only a few Turkish treebanks
+for article-like determiners, mainly for the indefinte determiner
+_bir_.
+
+#### Examples:
+
+* _bir_ "a"
+
 <!-- Interlanguage links updated Čt lis 12 09:43:06 CET 2020 -->

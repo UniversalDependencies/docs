@@ -219,11 +219,14 @@ Besides `SpaceAfter=No`, there are some other token- or word-level attributes th
 These are not required; but if this sort of information is available, it is desirable that it is encoded the same way in
 all treebanks.
 
+* `Lang` … language of the current token, if different from the main language of the file (code switching). The value is the ISO 639 language code, as registered for the language in UD (either two letters from ISO 639-1, or three letters from ISO 639-3, lowercased!) The validation script can take this attribute into account when validating language-specific annotation guidelines.
 * `Translit` … transliteration or transcription of the word form to another writing system. Typically this attribute is used in languages that do not write using the Latin script, and the attribute provides some standard romanization.
 * `LTranslit` … analogy of `Translit` for lemmas.
 * `Gloss` … approximate translation of the word form or the lemma to another language (typically English). If the translation consists of multiple words, they are connected using a hyphen.
 * `MSeg` … morphemic segmentation as commonly used in interlinear glossed text in linguistic literature: a hyphen (“-”) denotes boundary between morphemes, “=” is placed between a clitic and its host word.
 * `MGloss` … glossing of individual morphemes as commonly used in interlinear glossed text in linguistic literature. Hypens and equals-to symbols delimit morphemes as in `MSeg`, and there should be the same number of morphemes as in `MSeg` (if `MSeg` is missing, a single morpheme is assumed). A gloss is either a lexical meaning in English, or a grammatical tag; if multiple words/tags are needed in the gloss of one morpheme, they are joined by a period (“.”). There are no guidelines for the tags ([Leipzig glossing rules](https://www.eva.mpg.de/lingua/resources/glossing-rules.php) are a source of tags that are commonly used). However, most of the tags should probably have a corresponding feature in the FEATS column, and there it must follow the UD guidelines.
+
+
 
 # Sentence Boundaries and Comments
 
@@ -232,7 +235,7 @@ Empty sentences are not allowed.
 
 Lines starting with the `#` character and preceding a sentence are considered as carrying comments or metadata relevant to the following sentence. These lines are an integral part of the format as they give the ability to embed metadata together with the sentences. Consequently, any tools compatible with the CoNLL-U format should carry these lines over into their output (unless specifically designed to process them in some way). Comment and metadata lines inside sentences (i.e., between the token lines) are disallowed.
 
-The contents of the comments and metadata is basically unrestricted and will vary depending on the application, but from v2 the following two comments are compulsory for every sentence (and there must be just one comment of each kind per sentence):
+The contents of the comments and metadata is basically unrestricted and will vary depending on the application, but from v2 on the following two comments are compulsory for every sentence (and there must be just one comment of each kind per sentence):
 
 * A treebank-wide unique sentence id (`sent_id`), formatted as in the examples below. It is assumed that the actual identifier does not contain whitespace characters (while the comment line may contain whitespace around the `sent_id` keyword and the equals-to sign). In sentence ids, the slash character ("/") is reserved for specialized downstream use and should be avoided in UD treebanks. (The specialized use deals with multiple annotations of one sentence within one file, or with parallel data within one file. See [Issue 321](https://github.com/UniversalDependencies/docs/issues/321) for more details. UD releases include some parallel treebanks but these are distributed separately by languages, hence sentence ids with slashes are not used.)
 * Comments used to specify the unannotated sentence as a single string (`text`) should also be formatted as below. If the original text is not available, the providers of the UD treebanks must approximate the `text` attribute using detokenization heuristics.
@@ -268,6 +271,19 @@ Example:
     2     यथा	यथा	ADV     _   PronType=Rel              3   advmod   _   Translit=yathā|LTranslit=yathā|Gloss=how
     3     अनुश्रूयते   अनु-श्रु	VERB    _   Mood=Ind|…|Voice=Pass     0   root     _   Translit=anuśrūyate|LTranslit=anu-śru|Gloss=it-is-heard
     4     ।      	।	PUNCT   _   _                         3   punct    _   Translit=.|LTranslit=.|Gloss=.
+
+Note that some sentence-level comments may pertain to multiple following sentences, not just the
+one they immediately precede. This is the case of document and paragraph boundaries (described in
+the next section) but it may also hold for other, user-defined comments that are not specified
+here. The CoNLL-U format does not formally distinguish such comments from comments that really
+pertain to just one sentence; nevertheless, the files will be more readable if comments pertaining
+to larger segments precede comments pertaining to smaller segments. In particular, there is a comment
+that is defined in the extension [CoNLL-U Plus](ext-format.html), `global.columns`, which must appear
+as the first line of a CoNLL-U Plus file; while this comment is not part of the basic CoNLL-U
+specification, it is recommended that processing tools keep it as the first line if it is present.
+In general, it is recommended that tools keep the order of the comments unless they are specifically
+designed to modify it.
+
 
 
 # Paragraph and Document Boundaries

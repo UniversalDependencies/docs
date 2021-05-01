@@ -106,12 +106,11 @@ The conditional mood is translated as 'if or when one Vs'.
 
 * [ess] _<b>Neghenghilkuvek</b> iyataghllequten._ "<b>If you don't eat</b>, you will get hungry."
 
-NOTE: another mood to consider: volitive of fear mood [Volitive.Of.Fear] [Jacobson (2001) p.129] ('for fear that'; 'lest'; 'would that not')
-The Volitive of Fear (VFO) mood has not been previously reported. It does not appear to exist in any other Eskimo language. The term “Volitive” is used by Palmer (1986:12, 115) to express modalities of hope, fear, regret, and desire. Badten et al. (1987:288) interpret this mood ending as consisting of a postbase -nayu- ‘may subject not V’, immediately followed by conditional mood endings. I consider this interpretation to be incorrect on the grounds that the person endings following -nayuka- are quite different from the ones following the conditional mood marker, as shown in Menovshchikov (1967:171-73). --de Reuse p. 49
-
-#### Examples
-
-* [ess] _Repall alingumaanga <b>tuqunayukama</b>._ "I was very afraid <b>that I would die</b>."
+>NOTE: another mood to consider: volitive of fear mood [Volitive.Of.Fear] [Jacobson (2001) p.129] ('for fear that'; 'lest'; 'would that not')
+The Volitive of Fear (VFO) mood has not been previously reported. It does not appear to exist in any other Eskimo language. The term “Volitive” is used by Palmer (1986:12, 115) to express modalities of hope, fear, regret, and desire. Badten et al. (1987:288) interpret this mood ending as consisting of a postbase -nayu- ‘may subject not V’, immediately followed by conditional mood endings. I consider this interpretation to be incorrect on the grounds that the person endings following -nayuka- are quite different from the ones following the conditional mood marker, as shown in Menovshchikov (1967:171-73). (de Reuse p. 49)
+>
+> Examples
+>* [ess] _Repall alingumaanga <b>tuqunayukama</b>._ "I was very afraid <b>that I would die</b>."
 
 NOTE: dependent moods (oblique moods): cannot be the main verb or the only verb of the sentence. Also called connective moods. They fill in the same role as some English coordinate conjunctions such as "before", "although", "when", "if" and "whenever"
 cf. independent moods: occur in main clauses only i.e. indicative, interrogative, optative moods

@@ -2,6 +2,7 @@
 layout: relation
 title:  'cop'
 shortdef : 'copula'
+udver: '2'
 ---
 
 *Warning: DRAFT*
@@ -22,13 +23,13 @@ If the morphological analyser used outputs an е- copula in aorist third person
 then this is attached as a leaf node.
 
 ~~~ sdparse
-Бұл ойын <ø . \n It game is . 
+Бұл ойын <ø . \n It game is .
 cop(ойын-2, <ø-3)
 nsubj(ойын-2, Бұл-1)
 punct(ойын-2, .-4)
 ~~~
 
-If the copula is not third person it has overt person marking: 
+If the copula is not third person it has overt person marking:
 
 ~~~ sdparse
 Мен студент <пін . \n I student am .
@@ -54,7 +55,7 @@ Use of "бол" without a predicate:
 
 Use of "бол" without subject or predicate:
 
-~~~ sdparse 
+~~~ sdparse
 Шылым шегуге болмайды . \n Cigarette smoking is-allowed-not .
 
 ~~~

@@ -42,7 +42,7 @@ e.g., 'reflexive voice' which is marked using language specific value ``Voice=Rf
 Another open issue is multiple values for certain UD morphological features.
 For example, a _gelemeselerdi_ "if they were not able to come_ expresses
 two different modalities, requiring assigning both ``Pot`` and ``Cnd``
-to the [Mood](feat/mood) feature.
+to the [Mood]() feature.
 Currently these multiple features are expressed
 by concatenating the values together in alphabetic order,
 resulting in feature-value pairs like ``Mood=CndPot``.
@@ -60,6 +60,11 @@ and [Turkish features](feat/index.html).
 * The question particle _mI_ is tagged as ``AUX``.
 * The copular suffix -_(y)_-, which is treated as a syntactic word, and its clitic counterpart _i-_ is marked as AUX.
 * Treatment of auxiliary/copula _ol_ differs among different treebanks.
+* There are four main (de)verbal forms, distinguished by the value of the [VerbForm]() feature:
+  * Finite verb `Fin`.
+  * Participle `Part`.
+  * Converb `Conv`.
+  * Verbal noun `Vnoun` (it includes the citation forms with _-mak_, sometimes called the infinitive).
 
 ## Syntax
 
@@ -85,8 +90,9 @@ see the list of [relations](dep/index.html),
 
 ## Treebanks
 
-As of v2.4, there are three treebanks, more treebanks are in progress.
+As of UD 2.7, there are [four](../treebanks/tr-comparison.html) Turkish UD treebanks, more treebanks are in progress.
 
-  * [Turkish-GB](http://coltekin.github.io/gk-treebank/)
-  * [Turkish-IMST](../treebanks/cs/index.html)
-  * [Turkish-PUD](../treebanks/cs_pud/index.html)
+  * [Turkish-BOUN](../treebanks/tr_boun/index.html)
+  * [Turkish-GB](../treebanks/tr_gb/index.html)
+  * [Turkish-IMST](../treebanks/tr_imst/index.html)
+  * [Turkish-PUD](../treebanks/tr_pud/index.html)

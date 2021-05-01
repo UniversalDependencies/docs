@@ -25,7 +25,7 @@ Contents:
 
 If you want to write UD guidelines and/or provide annotated data for a language that is currently not listed on the UD website,
 make sure you have a [github account](https://github.com/) and contact a member of our release and documentation task force:
-Dan Zeman (zeman@ufal.mff.cuni.cz), Filip Ginter (ginter@cs.utu.fi).
+Dan Zeman (zeman@ufal.mff.cuni.cz).
 They will get you going.
 Similarly, if you want to contribute a new treebank of a language that is already listed on the UD website,
 contact the release task force and they will create a new treebank repository.
@@ -236,7 +236,7 @@ This block should be the last thing in the `README` file. The properties are as 
 * `Data available since` can be `UD v1.0`, `UD v1.1`, `UD v1.2`, `UD v1.3`, `UD v1.4`, `UD v2.0`, `UD v2.1` etc.
   Pick the number of the first release where this treebank appears.
   Do not change it when the treebank is released the next time.
-* `License`: anything containing the string `BY-NC-SA` will be given the CC non-commercial logo, `BY-SA` or `BY` the CC logo, and `GNU` the GNU logo. To add any other license, please provide a suitable icon to ginter@cs.utu.fi and zeman@ufal.mff.cuni.cz.
+* `License`: anything containing the string `BY-NC-SA` will be given the CC non-commercial logo, `BY-SA` or `BY` the CC logo, and `GNU` the GNU logo. To add any other license, please provide a suitable icon to zeman@ufal.mff.cuni.cz.
   * `Includes text`: Most treebanks should say `yes` here. But there are a few instances where
     the license of the underlying text does not allow redistribution. Here, the UD repository
     contains only the annotation without words and lemmas, but with a merging script that the
@@ -347,13 +347,18 @@ you always have the latest update of the tools repository.
     $ python validate.py -h
 
 Note that you need Python 3 to run the validator, and you need a third-party
-Python module called `regex` installed via pip. See also the
+Python module called `regex` installed via pip, so when needed try this before
+invoking the validator:
+
+    $ sudo apt-get install python3-pip; python3 -m pip install regex
+
+See also the
 [README file](https://github.com/UniversalDependencies/tools/blob/master/README.md)
 in the tools repository.
 
 In general, you validate the data like so:
 
-    python validate.py --lang=xx --max-err=0 [file.conllu]
+    $ python validate.py --lang=xx --max-err=0 [file.conllu]
 
 for example for Finnish:
 
@@ -408,6 +413,15 @@ collected this way could be propagated to the UD documentation. The site initial
 auxiliaries that were previously listed (but not documented) in the source code of the validator.
 The user has to provide the missing information for all existing auxiliaries before they can add
 new ones.
+
+When validating language-specific lists of morphological features, auxiliary verbs etc., the validator
+can temporarily switch to a language different from the main language of the file. This is useful
+in cases of code-switching, i.e., when a foreign language phrase is inserted in the text, and the
+annotators decided to annotate it according to the foreign language guidelines (instead of simply
+tagging everything as `X` and connecting it as a `flat` structure). The alternative language is
+signaled for individual tokens using the `Lang` attribute in the MISC column. Its value is the ISO
+639 language code, as registered for the language in UD (either two letters from ISO 639-1, or
+three letters from ISO 639-3, lowercased!)
 
 Some additional tests are available in the
 [Udapi](https://github.com/udapi/udapi-python/blob/master/udapi/block/ud/markbugs.py)

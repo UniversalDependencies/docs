@@ -33,6 +33,14 @@ Participle is a non-finite verb form that in Swedish is used adjectively. The re
 * [sv] _<b>ökad</b> frånvaro_ "increased absence"
 * [sv] _vår <b>bisulfitbehandlade</b> potatis_ "our bisulfite-treated potato"
 
+### <a name="Stem">`Stem`</a>: stem
+
+Stem is a form of the verb that is only used as the modifier part of a compound. It occurs by itself only in cases of coordination where the head of the compound is not repeated. It then usually ends with a hyphen (-).
+
+#### Examples
+
+* [sv] _<b>läs-</b> och <b>skriv</b>kunnighet_ "reading and writing ability" 
+
 ### <a name="Sup">`Sup`</a>: supine
 
 Supine in Swedish is a special form of the past participle, used to form the composite past form of a verb.  It is used after the auxiliary verb _ha_ (to have) but not after _vara_ (to be):

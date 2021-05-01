@@ -35,6 +35,11 @@ Finally, neither the lemma nor the morphological features tell the user what the
 
 </pre>
 
+### Intentionally Noncanonical Spellings
+
+Abbreviations and expressive spelling variants are not considered typos, but may be paired with a `CorrectForm` for the canonical spelling. 
+See the [Abbr]()=`Yes` and [Style]()=`Expr` features.
+
 ## Wrongly Split Word
 
 If the word is erroneously written with one or more spaces, we have several incorrect tokens. We do not join them into one token with a space, although Universal Dependencies since version 2 allow words with spaces. This option is reserved for very specific situations, usually quite marginal in the language (with the exception of Vietnamese), but _predictable._ Not for arbitrary errors. Instead, UD defines the [goeswith]() relation to connect the parts of the word. The first part is always the head, the other parts are attached to it via `goeswith`.

@@ -1,27 +1,27 @@
 ---
 layout: feature
 title: 'VerbType'
-shortdef: 'type of verb'
+shortdef: 'Verb type'
 udver: '2'
 ---
 
 <table class="typeindex" border="1">
 <tr>
-  <td style="background-color:cornflowerblue;color:white"><strong>Value:</strong> </td>
-  <td><a href="#Ser">serial</a></td>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Cop">Cop</a></td>
 </tr>
 </table>
 
+In Naija the `VerbType` feature is used to annotate the function of verbs. At present, `Cop` is the only valid value.
 
 
-### <a name="Ser">`Ser`</a>: serial
+### <a name="Cop">`Cop`</a>: copula
 
-Modifying verbs appearing in [serial verb constructions](pcm/overview/specific-syntax#SVC) are marked with the lexical feature `VerbType=Ser`
 
-#### Examples
 
-* _because God no go give us temptation wey go <b>pass</b> our power_ "because God will not give us temptation that is above our ability"
-* _im go fall <b>throway</b>_ "It would fall off"
-* _di guy fine <b>reach</b> me_ "Is the guy as handsome as I am ?"
+#### Example
 
-<!-- Interlanguage links updated Čt lis 12 09:43:08 CET 2020 -->
+
+* _I <b>am</b> from Delta State_ "I'm from Delta State"
+
+<!-- Interlanguage links updated Čt lis 12 09:43:03 CET 2020 -->

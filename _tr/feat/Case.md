@@ -109,4 +109,14 @@ The oblique arguments of some verbs and complements (noun phrases) of some postp
 * _Ali'<b>den</b> hoşlanıyor_ "she likes Ali"
 * _Bunlar Akara'dakiler<b>den</b> dolayı oluyor_ "All these are happening because of people in Ankara"
 
+### <a name="Equ">`Equ`</a>: equative
+
+The equative case means “X-like”, “similar to X”, “same as X”. It marks the
+standard of comparison and it differs from the equative [Degree](), which
+marks the property being compared. It occurs in Turkish.
+
+#### Examples
+
+* _ben_ "I"; _<b>bence</b>_ "like me"
+
 <!-- Interlanguage links updated Čt lis 12 09:43:00 CET 2020 -->

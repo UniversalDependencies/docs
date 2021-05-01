@@ -2,6 +2,7 @@
 layout: postag
 title: 'ADJ'
 shortdef: 'adjective'
+udver: '2'
 ---
 
 ### Definition
@@ -22,7 +23,7 @@ In the same way, all adjectival participles are classified as adjectives, regard
 
 #### Conversion from JOS
 
-All adjectives are converted to `ADJ`. In addition to that, some numerals also become `ADJ`, namely: numerals with Form=letter and Type=ordinal; numeral with Form=letter, Type=ordinal and lemma _drug_; numerals with Form=letter, Type=special and lemma ending in _-en_.
+All adjectives are converted to `ADJ`. In addition to that, some numerals also become `ADJ`, namely: numerals with Form=letter and Type=ordinal; numeral with Form=letter, Type=pronominal and lemma _drug_; numerals with Form=letter, Type=special and lemma ending in _-en_.
 
 
 <!-- Interlanguage links updated Čt lis 12 09:42:49 CET 2020 -->

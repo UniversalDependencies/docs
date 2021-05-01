@@ -9,7 +9,8 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Compl">Compl</a></td>
-  
+  <td><a href="#Iter">Iter</a></td>
+  <td><a href="#Suc">Suc</a></td>
   
   
 </tr>
@@ -17,14 +18,31 @@ udver: '2'
 
 `Aspect` is a 
 
-### <a name="Compl">`Compl`</a>: contiguous
+### <a name="Compl">`Compl`</a>: Completive
 
-Contiguity is more often associated with
+The completive aspect is expressed by the particle _pa(β)_.
 
 #### Examples
 
-* _<b>mbaʔeʔupaβiré</b>&nbsp;_ “After (having finished) eating”
+* _<b>mbaʔe-ʔu-paβ-iré</b>&nbsp;_ “After (having finished) eating” - thing-ingest-COMPL-POSP
 
+
+### <a name="Iter">`Iter`</a>: Iterative
+
+Iterative aspect is indicated by the particle _teɲẽ_.
+
+#### Examples
+
+* _<b>a-watá-watá teɲẽ</b>&nbsp;_ “I keep on walking for nothing” - 1.SG-walk-walk for.nothing
+
+
+### <a name="Suc">`Suc`</a>: Successive
+
+Successive aspect indicates that the action happens more than once, either the subject or the object has to have a plural reading (one after the other).
+
+#### Examples
+
+* _<b>o-sɨk-sɨk</b>&nbsp;_ “They arrive(d) one father the other” - 3-arrive-arrive
 
 
 

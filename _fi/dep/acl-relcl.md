@@ -2,18 +2,19 @@
 layout: relation
 title:  'acl:relcl'
 shortdef : 'relative clause modifier'
+udver: '2'
 ---
 
 A *relative clause modifier* (`acl:relcl`) marks relative clauses. The
 governor is the phrase or clause modified. Usually, it is a noun, but in Finnish it can also be a verb, when the dependent refers to the entire action described. The dependent is the main
-predicate of the relative clause. 
+predicate of the relative clause.
 
 <!-- fname:relcl_NP.pdf -->
 ~~~ sdparse
 Mies , jonka hän oli nähnyt eilen , oli taas ovella . \n The_man , whom he had seen yesterday , was again at_the_door .
 acl:relcl(Mies-1, nähnyt-6)
 punct(nähnyt-6, ,-2)
-dobj(nähnyt-6, jonka-3)
+obj(nähnyt-6, jonka-3)
 nsubj(nähnyt-6, hän-4)
 aux(nähnyt-6, oli-5)
 advmod(nähnyt-6, eilen-7)
@@ -32,7 +33,7 @@ advmod(kolahti-2, auki-3)
 acl:relcl(kolahti-2, säikäytti-6)
 punct(säikäytti-6, ,-4)
 nsubj(säikäytti-6, mikä-5)
-dobj(säikäytti-6, lapsen-7)
+obj(säikäytti-6, lapsen-7)
 punct(kolahti-2, .-8)
 ~~~
 
