@@ -5,7 +5,7 @@ shortdef: 'definiteness or state'
 udver: '2'
 ---
 
-In Beja, the `Definite` feature is marked only on the [determiners](en-pos/DET).
+In Beja, the `Definite` feature is marked only on the [determiners](_bej/pos/DET).
 
 ### <a name="Ind">`Ind`</a>: indefinite
 
