@@ -8,8 +8,7 @@ udver: '2'
 The `aux:ex` relation links the future participle (i.e. the governor) and the finite form of existential _ունիմ_ “have” as [auxiliary](AUX).
 
 ~~~ conllu
-# visual-style 5 6 aux:ex color:blue
-text = Դեռ բաւական բաներ մը ունէին պատրաստելիք եւ երեքէն առաջ մարդու չէին սպասեր։
+# visual-style 6 5 aux:ex color:blue
 1	Դեռ	դեռ	ADV	_	_	6	advmod	_	Translit=Deṙ|LTranslit=deṙ
 2	բաւական	բաւական	ADJ	_	_	3	amod	_	Translit=bawakan|LTranslit=bawakan
 3	բաներ	բան	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Plur	6	obj	_	Translit=baner|LTranslit=ban
@@ -23,6 +22,7 @@ text = Դեռ բաւական բաներ մը ունէին պատրաստելիք
 11	չէին	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Imp|VerbForm=Fin	12	aux	_	Translit=čēin|LTranslit=em
 12	սպասեր	սպասել	VERB	_	Aspect=Imp|Connegative=Yes|Subcat=Tran|VerbForm=Part|Voice=Act	6	conj	_	Translit=spaser|LTranslit=spasel|SpaceAfter=No
 13	։	։	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
+
 ~~~ 
 
 For more details see [specific-syntax](http://universaldependencies.org/hyw/overview/specific-syntax.html).
