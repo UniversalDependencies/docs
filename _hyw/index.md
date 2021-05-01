@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'Armenian UD'
+title:  'Western Armenian UD'
 udver: '2'
 ---
 
