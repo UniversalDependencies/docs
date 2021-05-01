@@ -21,11 +21,6 @@ Since there is no official common standard spelling for Low Saxon, the examples 
 * There are classes of multi-word tokens such as contractions of prepositions and definite articles as well as contractions of verbs and a (clitic) pronoun.
   Examples: _hek = hev + ik_ "I have", _im = in + dem_ "in the"
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
-
 ## Morphology
 
 ### Tags
@@ -48,11 +43,6 @@ Since there is no official common standard spelling for Low Saxon, the examples 
   * Finite verb `Fin`, tagged [VERB]() or [AUX]().
   * Participle `Part`, tagged [VERB]() or [ADJ]().
   * Verbal noun `Vnoun`, tagged [NOUN](), looks like an infinitive or (especially in older language) like a present participle but has an article and may inflect.
-
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
 
 ### Features
 #### Nominal Features
@@ -110,12 +100,6 @@ Since there is no official common standard spelling for Low Saxon, the examples 
 
 * The following universal features are not used in German: [Animacy](), [Evident]().
 
-
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
-
 ## Syntax
 
 ### Core Arguments, Oblique Arguments and Adjuncts
@@ -157,11 +141,18 @@ Since there is no official common standard spelling for Low Saxon, the examples 
 * The copula verb _weasen_/_wēsen²_ (be) is used in existential, equational, attributional, locative, possessive and benefactory nonverbal clauses.
   * Existential clauses, especially in dialects from the German side, may also use a different verb, _geaven_/_gēven_ (give) with an accusative object: _dat givt eaten_ “there is food.”
 
+### Relations Overview
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
+* The following relation subtypes are used in Low Saxon:
+  * [nsubj:pass]() for nominal subjects of passive verbs
+  * [csubj:pass]() for clausal subjects of passive verbs
+  * [obl:agent]() for agents of passive verbs
+  * [obl:arg]() for prepositional objects
+  * [expl:pv]() for reflexive clitics of inherently reflexive verbs
+  * [aux:pass]() for passive auxiliaries
+  * [compound:prt]() for separable verb prefixes
+  * [det:poss]() for possessive determiners
+  * [nmod:poss]() for possessive modifier phrases
 
 ## Treebanks
 
@@ -170,9 +161,3 @@ There are [N](../treebanks/nds-comparison.html) Low Saxon UD treebanks:
   * [Low Saxon-A](../treebanks/nds_a/index.html)
   * [Low Saxon-B](../treebanks/nds_b/index.html)
 
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
