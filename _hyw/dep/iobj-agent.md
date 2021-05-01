@@ -9,7 +9,7 @@ In a causative construction, the `iobj:agent` relation attaches the causative (i
 when the latter is the syntactical indirect object of the sentence (this initial agent has been demoted and became an indirect object in the causative construction).
 
 ~~~ conllu
-# visual-style 10 12 iobj:agent color:blue
+# visual-style 10 8 iobj:agent color:blue
 1	Ես	ես	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Translit=Es|LTranslit=es
 2	դագաղ	դագաղ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	4	obj	_	Translit=dagaġ|LTranslit=dagaġ
 3	չեմ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	4	aux	_	Translit=čem|LTranslit=em
