@@ -11,6 +11,7 @@ udver: '2'
   <td><a href="#Aff">Aff</a></td>
   <td><a href="#Clit">Clit</a></td>
   <td><a href="#Stem">Stem</a></td>
+  <td><a href="#Unfinished">Unfinished</a></td>
 </tr>
 </table>
 
@@ -38,3 +39,12 @@ Stem item within the word.
 #### Examples
 
 - _kʷiɖ_ "disappear"
+
+
+### <a name="Unfinished">`Unfinished`</a>: unfinished
+
+Token which is unfinished like false starts, marked by the hash sign.
+
+#### Examples
+
+- _aː#_ (False start `DET`)
