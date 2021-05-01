@@ -8,7 +8,7 @@ udver: '2'
 Western Armenian uses `flat:dist` for distributive numerals.
 
 ~~~ conllu
-# visual-style 5 6 flat:repeat color:blue
+# visual-style 5 6 flat:dist color:blue
 1	Մայրը	մայր	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	8	nsubj	_	Translit=mayrë|LTranslit=mayr
 2	ու	ու	CCONJ	_	_	4	cc	_	Translit=ow|LTranslit=ow
 3	միւս	միւս	DET	_	PronType=Dem	4	det	_	Translit=miws|LTranslit=miws
