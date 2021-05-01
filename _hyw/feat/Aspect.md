@@ -88,7 +88,7 @@ The subject participle indicate durative aspect.
 
 ### <a name="Iter">`Iter`</a>: iterative
 
-Denotes repeated action, with multiplicative or distributive meanings. Western Armenian has three main iterative markers _-ատ, -ըտ, -ուըռտ, -կլտ, -կոտ, -կռտ, -շտկ, -ոտ, -ուըտ, -ռտ, -տ, տկ_ or _root reduplication_.
+Denotes repeated action, with multiplicative or distributive meanings. Western Armenian has three main iterative markers _-ատ, -ըտ, -ուըռտ, -կլտ, -կոտ, -կռտ, -շտկ, -ոտ, -ուըտ, -ռտ, -տ, -տկ_ or _root reduplication_.
 
 Note, that in Western Armenian iterative is considered as a lexical feature of [verbs](VERB), thus they have morphologically related not iterative counterparts, but it is not a regular system and the two verbs are represented by different lemmas. We mark them as biaspectual.
 
