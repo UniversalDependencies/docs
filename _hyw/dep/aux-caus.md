@@ -30,6 +30,7 @@ The initial agent of the action described by the sentence is demoted and will be
 17	.	.	PUNCT	_	_	16	punct	_	Translit=.|LTranslit=.
 18	Պոլսէն	Պոլիս|Պօլիս	PROPN	_	Animacy=Nhum|Case=Abl|Definite=Def|NameType=Geo|Number=Sing	16	flat	_	Translit=Polsēn|LTranslit=Polis|Pòlis|SpaceAfter=No
 19	։	։	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
+
 ~~~
 
 For more details see [specific-syntax](http://universaldependencies.org/hyw/overview/specific-syntax.html).
