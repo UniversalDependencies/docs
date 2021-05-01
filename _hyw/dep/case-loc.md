@@ -27,7 +27,7 @@ it receives the [obl]() relation (but retains the tag `ADP`).
 ~~~
 
 ~~~ conllu
-# visual-style 5 6 advcl:relcl color:blue
+# visual-style 5 6 case:loc color:blue
 # translit = Veradarj, jiwnov çaçkowaç dašterow mēǰēn.
 1	Վերադարձ	վերադարձ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=Veradarj|LTranslit=veradarj|SpaceAfter=No
 2	՝	՝	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,
