@@ -9,7 +9,7 @@ udver: '2'
 ## Tokenization and Word Segmentation
 
 * Words are generally delimited by whitespace or punctuation.
-* Words, containing “infixed” punctuation (e.g. question, exclamation, emphasis and Armenian abbreviation marks), as in *ինչո՞ւ = ինչու + ՞* “why?”, are treated as multi-word tokens and segmented to individual syntactic words. For more details, see [tokenization](tokenization.html).
+* Words, containing “infixed” punctuation (e.g. question, exclamation, emphasis and Armenian abbreviation marks), as in *ինչո՞ւ = ինչու + ՞* “why?”, are treated as multi-word tokens and segmented to individual syntactic words.
 
 ## Morphology
 
