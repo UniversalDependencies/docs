@@ -5,7 +5,7 @@ shortdef: 'existentials as auxiliary'
 udver: '2'
 ---
 
-The `aux:ex` relation links the future participle (i.e. the governor) and the finite form of existential _ունիմ_ “have” as [auxiliary](AUX).
+The `aux:ex` relation links the future participle (i.e. the governor) and the finite form of existential _ունիմ_ “have” as [AUX]().
 
 ~~~ conllu
 # visual-style 6 5 aux:ex color:blue
