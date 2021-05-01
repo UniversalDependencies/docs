@@ -1,6 +1,6 @@
 ---
 layout: feature
-title: 'Deixsis[psor]'
+title: 'Deixis[psor]'
 shortdef: 'relative location encoded in nouns'
 udver: '2'
 ---
