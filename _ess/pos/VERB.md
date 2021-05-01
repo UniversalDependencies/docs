@@ -2,6 +2,7 @@
 layout: postag
 title: 'VERB'
 shortdef: 'verb'
+udver: '2'
 ---
 
 ### Definition
@@ -10,14 +11,13 @@ A verb is a member of the syntactic class of words that typically signal events 
 
 ### Examples
 
-* _imeti_ "to have", _vedeti_ "to know", _dobiti_ "to get"
-* _morati_ "to must", _moči_ "to be able to", _postati_ "to become"
-* _začeti_ "to start,  _iti_ "to go", _priti_ "to come"
+* _tagi-_ "to come (base)"
+* _tagiit_ "they came"
+* _tagiiqngan_ "when it/he/she came"
 
-If a word is further analyzed into morphemes, verb-yielding derivational morphemes are tagged as `VERB`. These include noun-elaborating suffixes (N→N) that attach to nominal roots and yield nominal bases and nominalizing suffixes (V→N) that attach to verbal roots and yield nominal bases.
+If a word is further analyzed into morphemes, verb-yielding derivational morphemes are tagged as `VERB`. These include verb-elaborating suffixes (V→V) that attach to verbal roots and yield verbal bases and verbalizing suffixes (N→V) that attach to nominal roots and yield verbal bases.
 
 ### Examples
 
-* _imeti_ "to have", _vedeti_ "to know", _dobiti_ "to get"
-* _morati_ "to must", _moči_ "to be able to", _postati_ "to become"
-* _začeti_ "to start,  _iti_ "to go", _priti_ "to come"
+* _-yug(V→V)_ "to want to V" (as in _mayughyugtuq_ "he wants to climb")
+* _-lgu(N→V)_ "to have N" (as in _siguteghllalguut_ "they have big ears")

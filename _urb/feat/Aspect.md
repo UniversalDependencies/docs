@@ -18,11 +18,12 @@ udver: '2'
 
 ### <a name="Perf">`Perf`</a>: perfective
 
-Perfective in Ka'apor is marked by particle "ʔy"
+Perfective in Ka'apor is marked by particle "ʔɪ	"
 
 #### Examples
 
-* _<b>remusak ʔy</b>&nbsp;_ “(you) got sb. to see” (SG.2 Causative)
+* _<b>remusak ʔɪ	</b>&nbsp;_ “(you) got sb. to see” (SG.2 Causative)
+* _<b>neke ihẽ remupuʔam ʔɪ	</b>&nbsp;_ “You made me get up” (SG.2 Causative)
 
 
 

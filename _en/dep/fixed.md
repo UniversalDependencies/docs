@@ -353,13 +353,13 @@ case(all, at)
 
 ~~~ sdparse
 at most 50 percent
-nmod:npmod(percent, most)
+nmod(percent, most)
 case(most, at)
 ~~~
 
 ~~~ sdparse
 at least 50 percent
-nmod:npmod(percent, least)
+nmod(percent, least)
 case(least, at)
 ~~~
 
@@ -367,13 +367,13 @@ case(least, at)
 
 ~~~ sdparse
 At best , they were guesses
-nmod:npmod(guesses, best)
+nmod(guesses, best)
 case(best, At)
 ~~~
 
 ~~~ sdparse
 At worst , they were lies
-nmod:npmod(lies, worst)
+nmod(lies, worst)
 case(worst, At)
 ~~~
 

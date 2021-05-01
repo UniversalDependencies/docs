@@ -9,21 +9,20 @@ udver: '2'
 ## Tokenization and Word Segmentation
 
 * Words are generally delimited by whitespace or punctuation.
-* Hyphenated words are not further tokenized as hyphens may be used to separate foreign words (e.g. English words) from Yupicizing postbase and/or Yupik ending.
-* Words consisting of multiple morphemes are further analyzed into morphemes based on the Yupik morphological analyzer (Chen et al., 2020).
+* Words consisting of multiple morphemes are further analyzed into morphemes based on the Chen et al. (2020) Yupik morphological analyzer.
 * In order to enable the use of morphemes as tokens, we adapted the existing "multiword expressions" annotation mechanism.
-* A script is provided in the treebank repo to convert the morpheme-level annotations to word-level annotations.
+* Word-level annotation is available in the github repo as a separte file (not-to-release/ess_sli-ud-test.merged.conllu). We used [udapy](https://github.com/udapi/udapi-python) to remove "multiword expressions" to convert the morpheme-level annotations to word-level annotations.
 
 ## Morphology
 
 ### Tags
 
-* A typical Yupik word is nominals ([NOUN]()), verbals ([VERB]()) or particles ([PART]()).
+* Most Yupik words are nominals ([NOUN]()), verbals ([VERB]()) or particles ([PART]()).
 * If a word is further analyzed into morphemes, noun-yielding derivational morphemes are tagged as [NOUN]() and verb-yielding derivational morphemes are tagged as [VERB](). See the POS tag documentations for examples.
 * Particles ([PART]()) do not inflect, so they are not further analyzed into morphemes.
-* [ADV]() is used for interrogative adverbs.
+* [ADV]() is used for interrogative adverbs, quantifier-qualifier constructions and demonstrative adverbs.
 * [PRON]() is used for demonstrative pronouns and interrogative pronouns.
-* [DET]() is used for interrogative determiners.
+* [DET]() is used for two interrogative words.
 * [CCONJ]() is used for an Yupik enclitic (_=llu_ "and").
 * [NUM]() is used for numerals.
 * [X]() is used for inflectional suffixes.
