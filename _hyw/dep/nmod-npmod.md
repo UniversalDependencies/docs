@@ -14,6 +14,7 @@ This relation is a subtype of the [nmod]() relation, which captures the cases wh
 3	շլացուցիչ	շլացուցիչ	ADJ	_	Degree=Pos	4	amod	_	Translit=šlac’owc’ič|LTranslit=šlac’owc’ič
 4	սպիտակութիւն	սպիտակութիւն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Coll	0	root	_	Translit=spitakowt’iwn|LTranslit=spitakowt’iwn|SpaceAfter=No
 5	։	։	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
+
 ~~~
 
 ~~~ conllu
@@ -26,6 +27,7 @@ This relation is a subtype of the [nmod]() relation, which captures the cases wh
 6	այդ	այդ	DET	_	Deixis=Med|PronType=Dem	7	det	_	Translit=ayd|LTranslit=ayd
 7	հանգամանքը	հանգամանք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	5	obj	_	Translit=hangamank’ë|LTranslit=hangamank’|SpaceAfter=No
 8	։	։	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
+
 ~~~
 
 In conjunction with the [case]() relation, `nmod:npmod` provides a uniform analysis:
@@ -41,5 +43,6 @@ In conjunction with the [case]() relation, `nmod:npmod` provides a uniform analy
 7	կաթիլով	կաթիլ	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	1	obl	_	Translit=kat’ilov|LTranslit=kat’il
 8	մը	մը	DET	_	PronType=Art	7	det	_	Translit=më|LTranslit=më|SpaceAfter=No
 9	:	:	PUNCT	_	Foreign=Yes	1	punct	_	Translit=.|LTranslit=.
+
 ~~~
 <!-- Interlanguage links updated Čt lis 12 09:43:31 CET 2020 -->
