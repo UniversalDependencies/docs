@@ -16,13 +16,13 @@ The dependencies presented in the Universal Dependencies framework are based on 
 
 ## Morphology
 
-This is an overview only. For more detailed discussion and examples, see the list of [Beja POS tags](/_bej/pos/index.html)
+This is an overview only. For more detailed discussion and examples, see the list of [Beja POS tags](_bej/pos/index.html)
 and [Beja features](feat/index.html).
 
 
 ### Tags
 
- * The language specific tagset is the original annotation made from the extended version of the Leipzig Glossing Rules. (Available at https://corpafroas.huma-num.fr/glosses.html)
+ * The language specific tagset is the original annotation made from the extended version of the Leipzig Glossing Rules. (Available at [here](https://corpafroas.huma-num.fr/glosses.html))
  * The UD tagset is based on a conversion from the previous annotation to UPOS.
  * Beja uses 16 of the universal tags (with the exception of SYM, which is not relevant for oral data)
  * Due to morphological segmentation, affixes are analyzed according to their distributional/syntactic properties in the sentence, they can be tagged as PRO in case they carry out the pronominal subject index function, as SCONJ in case of a nominalizater marking a converb, as PART if it is a case marker, AUX to highlight verbal derivational affixes or as X in case of a phonic element, a false start or a swallowing noise. The same thing happens for clitics that can be DET or PRON.
@@ -31,7 +31,7 @@ and [Beja features](feat/index.html).
 ### Features
 
  * Beja treebank uses 21 universal features
- * Two langage specific features have been added to the scheme: Singulative which is used to distinguish collective nouns that designate a single entity with a boolean value (Yes if it is a singulative) and VerbClass to mark both verb classes in Beja (with values 1 and 2).
+ * Two langage specific features have been added to the scheme: Singulative which is used to distinguish collective nouns that designate a single entity with a boolean value (Yes if it is a singulative), TokenType to describe the token type due to morphological segmentation (with values affix, clitic, stem and unfinished) and VerbClass to mark both verb classes in Beja (with values 1 and 2).
  * We also added specific values :
 	* Augmentative for the Degree feature (`Aspect=Aug`)
 	* Aorist for the Aspect feature (`Aspect=Aor`)
