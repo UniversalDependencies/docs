@@ -10,7 +10,7 @@ udver: '2'
 
 A part of this documentation is copied from the current German documentation [UD for German](https://universaldependencies.org/de/index.html), which can mostly be applied to Low Saxon as well.
 
-Since there is no official common standard spelling for Low Saxon, the examples provided here are given in the interregional spelling suggestion used e.g. by the Dutch Low Saxon Wikipedia (_Nysassiske Skryvwyse_, abbreviated "NSS", described in more detail here: https://skryvwyse.eu/ (only in Low Saxon)) and lemma forms are given in both the NSS and normalised Middle Low Saxon following the _Mittelniederdeutsches Handwörterbuch_ by Agathe Lasch et al. 
+Since there is no official common standard spelling for Low Saxon, the examples provided here are given in the interregional spelling suggestion used e.g. by the Dutch Low Saxon Wikipedia (_Nysassiske Skryvwyse_, described in more detail here: https://skryvwyse.eu/ (only in Low Saxon)) and lemma forms are given in both the _Nysassiske Skryvwyse_ and normalised Middle Low Saxon following the _Mittelniederdeutsches Handwörterbuch_ by Agathe Lasch et al. 
 
 ## Tokenization and Word Segmentation
 
