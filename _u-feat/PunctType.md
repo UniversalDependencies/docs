@@ -12,6 +12,7 @@ udver: '2'
   <td><a href="#Colo">Colo</a></td>
   <td><a href="#Comm">Comm</a></td>
   <td><a href="#Dash">Dash</a></td>
+  <td><a href="#Elip">Elip</a></td>
   <td><a href="#Excl">Excl</a></td>
   <td><a href="#Peri">Peri</a></td>
   <td><a href="#Qest">Qest</a></td>
@@ -23,11 +24,17 @@ udver: '2'
 Many tagsets have just one tag for punctuation. Others classify punctuation in
 more detail.
 
-### <a name="Peri">`Peri`</a>: period at the end of sentence
+### <a name="Peri">`Peri`</a>: period at the end of sentence or clause
 
 #### Examples
 
 * [es] _¿Por qué? -, se pregunta<b>.</b>_ “Why? – she wonders.”
+
+### <a name="Elip">`Elip`</a>: ellipsis
+
+#### Examples
+
+* [pl] _Nie wiem, dlaczego ją wybrałem<b>…</b>_ “I don't know why I chose her ...”
 
 ### <a name="Qest">`Qest`</a>: question mark
 
