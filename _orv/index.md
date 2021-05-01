@@ -36,36 +36,88 @@ This is a brief overview of the use of POS tags in UD_Old_Russian-RNC:
 ### Features
 This is a brief overview of the features used in UD_Old_Russian-TOROT:
 
-* VERB can have the following features: Person (1, 2, 3), Number (Sing, Dual, Plur), Tense (Pres, Past, Fut), Aspect (Perf, Imp, Res), Mood (Ind, Imp), VerbForm (Fin, Inf, Part, Sup), Voice (Act, Pass). It should be noted that the Aspect feature is only used to distinguish the aorist (Tense=Past|Aspect=Perf) from the imperfect (Tense=Past|Aspect=Imp), and to distinguish the resultative l-participle from other participles (VerbForm=Part|Aspect=Res). Participles also have the features Gender (Fem, Masc, Neut), Case (Nom, Acc, Gen, Dat, Ins, Loc, Voc) and Strength (Strong, Weak). The latter feature separates short (nominal) forms (Strong) from long (pronominal) forms (Weak). Note that we do not recognise gerunds even for the latest texts, they are conservatively tagged at face value as short-form participles (VerbForm=Part|Strength=Strong).
+* [VERB]() and [AUX]() can have the following features:
+  * Person (1, 2, 3)
+  * Number (Sing, Dual, Plur)
+  * Tense (Pres, Past, Fut)
+  * Aspect (Perf, Imp, Res)
+  * Mood (Ind, Imp)
+  * VerbForm (Fin, Inf, Part, Sup)
+  * Voice (Act, Pass)
+* It should be noted that the Aspect feature is only used to distinguish the aorist (Tense=Past|Aspect=Perf) from the imperfect (Tense=Past|Aspect=Imp), and to distinguish the resultative l-participle from other participles (VerbForm=Part|Aspect=Res).
+* Participles also have the features
+  * Gender (Fem, Masc, Neut)
+  * Case (Nom, Acc, Gen, Dat, Ins, Loc, Voc)
+  * Strength (Strong, Weak). The latter feature separates short (nominal) forms (Strong) from long (pronominal) forms (Weak). As of release 2.8, `Strength=Strong` has been converted to `Variant=Short`, and `Strength=Weak` to nothing, to make the annotation compatible with other Slavic UD treebanks.
+* Note that we do not recognise gerunds even for the latest texts, they are conservatively tagged at face value as short-form participles (VerbForm=Part|Strength=Strong).
 
-* NOUN and PROPN can have the following features: Case, Gender, Number (with the specifications above). Note that animate genitive-accusatives are annotated with Case=Gen. There is no Animacy feature.
+* [NOUN]() and [PROPN]() can have the following features (with the specifications above):
+  * Case
+  * Gender
+  * Number
+* Note that animate genitive-accusatives are annotated with Case=Gen. There is no Animacy feature.
 
-* ADJ can have the following features: Case, Gender, Number, Strength (with the specifications above), Degree (Pos, Cmp, Sup)
-
+* [ADJ]() can have the following features (with the specifications above):
+  * Case
+  * Gender
+  * Number
+  * Strength (deprecated, see above)
+  * Degree (Pos, Cmp, Sup)
 
 This is a brief overview of the features used in UD_Old_Russian-RNC:
 
-* VERB and AUX can have the following features: Person (1, 2, 3), [Number]() (Sing, Dual, Plur), Tense (Pres, Past, Fut), Aspect (Perf, Imp), Mood (Ind, Imp, Cnd), VerbForm (Fin, Inf, Sup, Conv, Part, PartRes), Voice (Act, Pass, Mid), Reflex (Yes), Polarity (Neg), Analyt (Yes).
-Participles also have the features Gender (Fem, Masc, Neut), Case (Nom, Acc, Gen, Dat, Ins, Loc) and Variant (Short). The latter feature is applied to short forms; long forms are not marked explicitely. Variant=Short in UD-RNC corresponds directly to Strength=Weak in UD-TOROT.
-Unlike in UD-Torot, l-participles are tagged [VerbForm]()=PartRes and distinguish Aspect (Perf, Imp), converbs are tagged [VerbForm]()=Conv in UD-RNC.
-At the moment, the Aspect and [Analyt]() features are tagged only in some parts of the treebank.
+* [VERB]() and [AUX]() can have the following features:
+  * Person (1, 2, 3)
+  * [Number]() (Sing, Dual, Plur)
+  * Tense (Pres, Past, Fut)
+  * Aspect (Perf, Imp)
+  * Mood (Ind, Imp, Cnd)
+  * VerbForm (Fin, Inf, Sup, Conv, Part, PartRes)
+  * Voice (Act, Pass, Mid)
+  * Reflex (Yes)
+  * Polarity (Neg)
+  * Analyt (Yes)
+* Participles also have the features
+  * Gender (Fem, Masc, Neut)
+  * Case (Nom, Acc, Gen, Dat, Ins, Loc)
+  * Variant (Short). The latter feature is applied to short forms; long forms are not marked explicitely. Variant=Short in UD-RNC corresponds directly to Strength=Weak in UD-TOROT
+* Unlike in UD-Torot, l-participles are tagged [VerbForm]()=PartRes and distinguish Aspect (Perf, Imp), converbs are tagged [VerbForm]()=Conv in UD-RNC.
+* At the moment, the Aspect and [Analyt]() features are tagged only in some parts of the treebank.
 
-* NOUN and PROPN can have the following features: [Number]() (Sing, Dual, Plur, Count), Gender (Fem, Masc, Neut), Case (Nom, Acc, Gen, Dat, Ins, Loc, Voc), Animacy (Anim, Inan). The latter feature is only used to distinguish animate and inanimate accusative forms.
+* [NOUN]() and [PROPN]() can have the following features:
+  * [Number]() (Sing, Dual, Plur, Count)
+  * Gender (Fem, Masc, Neut)
+  * Case (Nom, Acc, Gen, Dat, Ins, Loc, Voc)
+  * Animacy (Anim, Inan). The latter feature is only used to distinguish animate and inanimate accusative forms.
 
-* ADJ can have the following features: Case, Gender, Number, Variant (with the specifications above), Degree (Pos, Cmp, Sup), Poss (Yes), Reflex (Yes).
+* [ADJ]() can have the following features (with the specifications above):
+  * Case
+  * Gender
+  * Number
+  * Variant
+  * Degree (Pos, Cmp, Sup)
+  * Poss (Yes)
+  * Reflex (Yes)
 
-* DET can have the following features: Case, Gender, Number, Animacy, Variant, Poss, Reflex (with the specifications above).
+* [DET]() can have the following features (with the specifications above):
+  * Case
+  * Gender
+  * Number
+  * Animacy
+  * Variant
+  * Poss
+  * Reflex
 
-* PRON can have the following features: Case, Gender, Number, Animacy, Person, PronType, Poss, Reflex, Analyt (with the specifications above).
+* [PRON]() can have the following features: Case, Gender, Number, Animacy, Person, PronType, Poss, Reflex, Analyt (with the specifications above).
 
-* NUM can have the following features: Case, Animacy, NumForm; Gender, Number, and Degree (Cmp) are tagged on a few numerals.
+* [NUM]() can have the following features: Case, Animacy, NumForm; Gender, Number, and Degree (Cmp) are tagged on a few numerals.
 
 * Other lexical features include:
   * Abbr (Yes)
 
 * Language-specific features include:
-  * [Analyt]() (Yes) is a marker of the analytic verb forms 
-  * [Variant]() distinguishes short and long forms of adjectives.
+  * [Analyt]() (Yes) is a marker of the analytic verb forms
+  * [Variant]() distinguishes short and long forms of adjectives and participles.
 
 
 ## Syntax
