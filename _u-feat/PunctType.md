@@ -18,6 +18,7 @@ udver: '2'
   <td><a href="#Qest">Qest</a></td>
   <td><a href="#Quot">Quot</a></td>
   <td><a href="#Semi">Semi</a></td>
+  <td><a href="#Slsh">Slsh</a></td>
 </tr>
 </table>
 
@@ -83,5 +84,11 @@ more detail.
 #### Examples
 
 * [es] _¿Por qué? <b>-</b>, se pregunta._ “Why? – she wonders.”
+
+### <a name="Slsh">`Slsh`</a>: slash or backslash
+
+#### Examples
+
+* [pl] _Zaczynała w RSC w połowie lat 60., grając pacjentkę szpitala dla obłąkanych w „Marat<b>/</b>Sade”._ “She started out at the RSC in the mid-Sixties playing an asylum-inmate in Marat/Sade.”
 
 <!-- Interlanguage links updated Čt lis 12 09:43:06 CET 2020 -->
