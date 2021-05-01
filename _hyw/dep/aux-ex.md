@@ -8,7 +8,7 @@ udver: '2'
 The `aux:ex` relation links the future participle (i.e. the governor) and the finite form of existential _ունիմ_ “have” as [auxiliary](AUX).
 
 ~~~ conllu
-# visual-style 5 6 advcl:relcl color:blue
+# visual-style 5 6 aux:ex color:blue
 text = Դեռ բաւական բաներ մը ունէին պատրաստելիք եւ երեքէն առաջ մարդու չէին սպասեր։
 1	Դեռ	դեռ	ADV	_	_	6	advmod	_	Translit=Deṙ|LTranslit=deṙ
 2	բաւական	բաւական	ADJ	_	_	3	amod	_	Translit=bawakan|LTranslit=bawakan
