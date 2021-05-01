@@ -12,7 +12,7 @@ When it follows a noun, it receives the `case:loc` relation label. But if it fol
 it receives the [obl]() relation (but retains the tag `ADP`).
 
 ~~~ conllu
-# visual-style 4 5 advcl:relcl color:blue
+# visual-style 4 5 case:loc color:blue
 text = Կաւի տեղերուն կապոյտ հողերուն վրայէն մէկը կը վազէր դարվեր:
 # translit = Kawi teġerown kapoyt hoġerown vrayēn mēkë kë vazēr darver.
 1	Կաւի	կաւ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	2	nmod:poss	_	Translit=Kawi|LTranslit=kaw
