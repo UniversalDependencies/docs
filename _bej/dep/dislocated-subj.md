@@ -5,7 +5,7 @@ shortdef: 'dislocated subject'
 udver: '2'
 ---
 
-The `dislocated:nsubj` relation is used between a dislocated subject and its head. 
+The `dislocated:subj` relation is used between a dislocated subject and its head. 
 
 ~~~ sdparse
 hoː =b hoːsoː ʃʔag -aː =b =u uː= tak // ʔasal -aː =b iː- kti =jeːb /
