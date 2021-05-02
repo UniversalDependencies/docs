@@ -44,12 +44,12 @@ This is a brief overview of the features used in UD_Old_Russian-TOROT:
   * Mood (Ind, Imp)
   * VerbForm (Fin, Inf, Part, Sup)
   * Voice (Act, Pass)
-* It should be noted that the Aspect feature is only used to distinguish the aorist (Tense=Past|Aspect=Perf) from the imperfect (Tense=Past|Aspect=Imp), and to distinguish the resultative l-participle from other participles (VerbForm=Part|Aspect=Res).
+* It should be noted that the Aspect feature is only used to distinguish the aorist (`Tense=Past|Aspect=Perf`) from the imperfect (`Tense=Past|Aspect=Imp`), and to distinguish the resultative l-participle from other participles (`VerbForm=Part|Aspect=Res`).
 * Participles also have the features
   * Gender (Fem, Masc, Neut)
   * Case (Nom, Acc, Gen, Dat, Ins, Loc, Voc)
   * Strength (Strong, Weak). The latter feature separates short (nominal) forms (Strong) from long (pronominal) forms (Weak). As of release 2.8, `Strength=Strong` has been converted to `Variant=Short`, and `Strength=Weak` to nothing, to make the annotation compatible with other Slavic UD treebanks.
-* Note that we do not recognise gerunds even for the latest texts, they are conservatively tagged at face value as short-form participles (VerbForm=Part|Strength=Strong).
+* Note that we do not recognise gerunds even for the latest texts, they are conservatively tagged at face value as short-form participles (`VerbForm=Part|Variant=Short`).
 
 * [NOUN]() and [PROPN]() can have the following features (with the specifications above):
   * Case
