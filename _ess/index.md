@@ -41,7 +41,7 @@ udver: '2'
 * Yupik uses absolutive-ergative to distinguish subjects ([nsubj]()) and objects ([obj]()). The subject of an intransitive verb is in absolutive case. The subject of a transitive verb is in ergative case. The direct object of a transitive verb is in absolutive case.
 * Nouns in ablative-modalis case may be used as an object of an intransitive verb. In such cases, those nouns are understood as "an indefinite object" (Jacobson 2001, p.20). Because such nouns are not encoded in the verb, we tagged them as oblique nominals in ablative-modalis case ([obl:mod]()) and distinguish them from other oblique nominals ([obl]()).
 * There are no known auxiliaries or copulas as stand-alone words. However, some derivational suffixes seem to play the role of auxiliaries or copulas and tagged as such.
-* We used [dep:aux]() to tag those derivational suffixes that act like auxiliaries (c.f. [aux]()).
+* We used [dep:aux]() to tag those derivational suffixes that act like auxiliaries (c.f. [aux](https://universaldependencies.org/u/dep/aux_)).
 * We used [dep:cop]() for a copula-like derviational suffix (c.f. [cop]()).
 * [dep:mark]() is used for derivational suffixes that act like a marker (c.f. [mark]())
 * [nmod:arg]() is used when a nominal base is used as the argument of a noun-elaborating (N→N) derivational suffix.
