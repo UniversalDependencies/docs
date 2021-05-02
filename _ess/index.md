@@ -32,8 +32,8 @@ udver: '2'
 
 * Unpossessed nouns inflect for [Case]() and [Number]().
 * Possessed nouns also inflect for [Number[psor]]() and [Person[psor]]() to encode the possessor's number and person information.
-* Verbs inflect for [Mood](), [Number[obj]](), [Number[subj]](), [Person[obj]](feat/Person-obj) and [Person[subj]](feat/Person-subj). Depending on the verb's valency ([Subcat](feat/Subcat)), the verb may to encode the number and person information about the subject only or both the subject and object.
-* Yupik inflections distinguish third person reflexive (also known as fourth person) from third person. In possessed nouns, [Reflex](feat/Reflex) is used when the possessor refers to the subject. [Reflex](feat/Reflex) is also used for quantifier-qualifier constructions (see [ADV]()). In verbs, [Reflex[obj]]() or [Reflex[subj]]() is used when the verb's object or subject refers back to the subject.
+* Verbs inflect for [Mood](), [Number[obj]](), [Number[subj]](), [Person[obj]](https://universaldependencies.org/ess/feat/Person-obj.html) and [Person[subj]](https://universaldependencies.org/ess/feat/Person-subj.html). Depending on the verb's valency ([Subcat](https://universaldependencies.org/ess/feat/Subcat.html)), the verb may to encode the number and person information about the subject only or both the subject and object.
+* Yupik inflections distinguish third person reflexive (also known as fourth person) from third person. In possessed nouns, [Reflex](https://universaldependencies.org/ess/feat/Reflex.html) is used when the possessor refers to the subject. [Reflex](https://universaldependencies.org/ess/feat/Reflex.html) is also used for quantifier-qualifier constructions (see [ADV]()). In verbs, [Reflex[obj]]() or [Reflex[subj]]() is used when the verb's object or subject refers back to the subject.
 
 ## Syntax
 
