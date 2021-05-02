@@ -9,7 +9,7 @@ udver: '2'
 ## Tokenization and Word Segmentation
 
 * Words are generally delimited by whitespace or punctuation.
-* Words consisting of multiple morphemes are further analyzed into morphemes based on the Chen et al. (2020) Yupik morphological analyzer.
+* Words consisting of multiple morphemes are further analyzed into morphemes based on the Chen et al. (2020) Yupik morphological analyzer. See Park et al. (2021) for more details.
 * In order to enable the use of morphemes as tokens, we adapted the existing "multiword expressions" annotation mechanism.
 * Word-level annotation is available in the github repo as a separte file (not-to-release/ess_sli-ud-test.merged.conllu). We used [udapy](https://github.com/udapi/udapi-python) to remove "multiword expressions" to convert the morpheme-level annotations to word-level annotations.
 
@@ -62,5 +62,5 @@ There is [1](../treebanks/ess-comparison.html) Yupik UD treebank:
 ## References
  * Emily Chen, Hyunji Hayley Park, and Lane Schwartz. 2020. [Improved finite-state morphological analysis for St. Lawrence Island Yupik using paradigm function morphology.](https://www.aclweb.org/anthology/2020.lrec-1.326) In Proceedings of the 12th Language Resources and Evaluation Conference, pages 2676–2684, Marseille, France. European Language Resources Association.
  * Steven A. Jacobson. 2001. A Practical Grammar of the St. Lawrence Island / Siberian Yupik Eskimo Language, Preliminary Edition, 2nd edition. Alaska Native Language Center, Fairbanks, Alaska.
-
+* Hyunji Hayley Park, Lane Schwartz, and Francis M. Tyers. 2021. Expanding Universal Dependencies for Polysynthetic Languages: A Case of St. Lawrence Island Yupik. In Proceedings of the 1st Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP). Online. Association for Computational Linguistics.
 
