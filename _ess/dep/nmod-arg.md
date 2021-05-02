@@ -1,11 +1,17 @@
 ---
 layout: relation
 title:  'nmod:arg'
-shortdef : 'nominal modifier'
+shortdef : 'nominal modifier used as an argument'
 udver: '2'
 ---
 
 `nmod:arg` is used for a nominal modifier which used as an argument of the following derivational suffix. This relation is used for the morpheme level annotations only.
+
+```
+...	pagungha-ligh-naq-a-qa						.
+...	pagunghagh*(N)-ligh(N→V)-@~fnaqe(V→V)-[Ind.Trns]-[1Sg.3Sg]	.
+"... I am going to put crowberries in it."
+```
 
 ~~~ conllu
 # sent_id = Jacobson.Ch11.gold:1

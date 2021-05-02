@@ -7,6 +7,12 @@ udver: '2'
 
 `dep:cop` is used for the copular-like derivational suffix, ~:(ng)u(N→V) (to be N), for the morpheme-level annotations.
 
+```
+Qikmi-i-gu-q					.
+qikmigh(N)-~:(ng)u(N→V)-[Ind.Intr]-[3Sg]	.
+"It is a dog."
+```
+
 ~~~ conllu
 # sent_id = Jacobson.Ch4.gold:23
 # text = Qikmiiguq.

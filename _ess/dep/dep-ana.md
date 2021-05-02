@@ -7,6 +7,12 @@ udver: '2'
 
 `dep:ana` is used for anaphoric prefixes for the morpheme-level annotations.
 
+```
+Ta-an'gani
+[Anaphor]-un'gani(DEM.ADV.Loc)
+"that one down there at the water"
+```
+
 ~~~ conllu
 # sent_id = Jacobson.Ch16.gold:23
 # text = Taan'gani meq sikumalghii.

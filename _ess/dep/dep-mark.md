@@ -7,6 +7,12 @@ udver: '2'
 
 `dep:mark` is used for marker-like derivational suffixes such as @~fna(V→V) (in order to V) for the morpheme-level annotations.
 
+```
+...	negh-na-lu-ku				...
+...	negh(V)-@~fna(V→V)-[Sbrd.Trns]-[_.3Sg]	...
+"... in order to eat it ..."
+```
+
 ~~~ conllu
 # sent_id = Jacobson.Ch16.gold:8
 # text = Amaa aagken tagimalghii neghnaluku nefkuuraq.

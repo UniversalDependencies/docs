@@ -7,6 +7,12 @@ udver: '2'
 
 `dep:pos` is used for the relation between a postural root and its postbase for the morpheme-level annotations.
 
+```
+...	ingagh-nga-ghpek			...
+...	ingagh*(POS)-nga(POS→STATIVE)-[2Sg]	...
+"... lying down ..."
+```
+
 ~~~ conllu
 # sent_id = Jacobson.Ch12.gold:3
 # text = Sangavek atightughaqsin ingaghngaghpek eflugami?

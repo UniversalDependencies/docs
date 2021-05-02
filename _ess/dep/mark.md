@@ -6,27 +6,11 @@ udver: '2'
 ---
 
 A marker is the subordinating conjunction introducing a finite clause subordinate to another clause.
-The mark is a dependent of the subordinate clause head.
+In the Yupik Jacobson corpus, it is only used for the particle _qayughllak_ "because".
 
 ~~~ sdparse
-Nevěděl jsem , že umíš německy . \n Not-know I-did , that you-can-speak German .
-mark(umíš, že)
-mark(you-can-speak, that)
+Qavanghitunga qayughllak paamna iglagtulghii . \n I-did-not-sleep because that-one-up-there-not-in-sight he-used-a-loud-voice .
+mark(iglagtulghii, qayughllak)
+mark(he-used-a-loud-voice, because)
 ~~~
 
-~~~ sdparse
-Zboží odešleme , jakmile peníze dorazí na náš účet . \n Goods we-will-dispatch , as-soon-as money arrive at our account .
-mark(dorazí, jakmile)
-mark(arrive, as-soon-as)
-~~~
-
-Note that the subordinating conjunction should not be confused with relative pronouns and adverbs.
-These fill a valency slot in the frame of the subordinate predicate,
-and are labeled according to their role in the frame, they are not `mark`:
-
-~~~ sdparse
-Rád bych věděl , kdy peníze dorazí na náš účet . \n Like-to I-would know , when money arrive at our account .
-advmod(dorazí, kdy)
-advmod(arrive, when)
-~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:29 CET 2020 -->

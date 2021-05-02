@@ -7,6 +7,11 @@ udver: '2'
 
 `dep:aux` is used for auxiliary-like derivational suffixes such as @lleqe(V→V) (will V) and ~(g)aqe(V→V) (to be currently V-ing) for the morpheme-level annotations.
 
+```
+Esghagh-lleq-a-mken				.
+esghagh(V)-@lleqe(V→V)-[Ind.Trns]-[1Sg.2Sg]	.
+```
+
 ~~~ conllu
 # sent_id = Jacobson.Ch7.gold:11
 # text = Esghaghlleqamken.
