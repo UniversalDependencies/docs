@@ -15,6 +15,7 @@ udver: '2'
   <td><a href="#Des">Des</a></td>
   <td><a href="#Gen">Gen</a></td>
   <td><a href="#GenNec">GenNec</a></td>
+  <td><a href="#GenNecPot">GenNecPot</a></td>
   <td><a href="#GenPot">GenPot</a></td>
   <td><a href="#GenPotPot">GenPotPot</a></td>
   <td><a href="#Imp">Imp</a></td>
@@ -113,6 +114,14 @@ The necessitative suffix can be combined with a suffix of general modality.
 #### Examples
 
 * _Siyasi riskteki artış gözden <b>kaçmamalıdır</b>._ “The spike in political risk should not go unnoticed.”
+
+### <a name="GenNecPot">`GenNecPot`</a>: general or hypothetical necessitative
+
+Both necessitative and potential can be combined with a suffix of general modality.
+
+#### Examples
+
+* _<b>söyleyebilmelidir</b>_ “should be able to say”
 
 ### <a name="Pot">`Pot`</a>: potential
 
