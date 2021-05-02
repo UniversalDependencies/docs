@@ -9,7 +9,7 @@ The `obl:mod` relation is used for a nominal in the ablative-modalis case (see [
 
 ~~~ sdparse
 Afsengaq neghtuq pagunghaghmeng . \n a-vole it-ate by-the-means-of-crowberry .
-obj(neghtuq, pagunghaghmeng)
-obj(it-ate, by-the-means-of-crowberry)
+obl:mod(neghtuq, pagunghaghmeng)
+obl:mod(it-ate, by-the-means-of-crowberry)
 ~~~
 
