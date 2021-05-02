@@ -32,8 +32,8 @@ udver: '2'
 
 * Unpossessed nouns inflect for [Case]() and [Number]().
 * Possessed nouns also inflect for [Number[psor]]() and [Person[psor]]() to encode the possessor's number and person information.
-* Verbs inflect for [Mood](), [Number[obj]](), [Number[subj]](), [Person[obj]]() and [Person[subj]](). Depending on the verb's valency ([Subcat]()), the verb may to encode the number and person information about the subject only or both the subject and object.
-* Yupik inflections distinguish third person reflexive (also known as fourth person) from third person. In possessed nouns, [Reflex]() is used when the possessor refers to the subject. [Reflex]() is also used for quantifier-qualifier constructions (see [ADV]()). In verbs, [Reflex[obj]]() or [Reflex[subj]]() is used when the verb's object or subject refers back to the subject.
+* Verbs inflect for [Mood](), [Number[obj]](), [Number[subj]](), [Person[obj]](ess-feat/Person-obj) and [Person[subj]](ess-feat/Person-subj). Depending on the verb's valency ([Subcat](ess-feat/Subcat)), the verb may to encode the number and person information about the subject only or both the subject and object.
+* Yupik inflections distinguish third person reflexive (also known as fourth person) from third person. In possessed nouns, [Reflex](ess-feat/Reflex) is used when the possessor refers to the subject. [Reflex](ess-feat/Reflex) is also used for quantifier-qualifier constructions (see [ADV]()). In verbs, [Reflex[obj]]() or [Reflex[subj]]() is used when the verb's object or subject refers back to the subject.
 
 ## Syntax
 
@@ -41,7 +41,7 @@ udver: '2'
 * Yupik uses absolutive-ergative to distinguish subjects ([nsubj]()) and objects ([obj]()). The subject of an intransitive verb is in absolutive case. The subject of a transitive verb is in ergative case. The direct object of a transitive verb is in absolutive case.
 * Nouns in ablative-modalis case may be used as an object of an intransitive verb. In such cases, those nouns are understood as "an indefinite object" (Jacobson 2001, p.20). Because such nouns are not encoded in the verb, we tagged them as oblique nominals in ablative-modalis case ([obl:mod]()) and distinguish them from other oblique nominals ([obl]()).
 * There are no known auxiliaries or copulas as stand-alone words. However, some derivational suffixes seem to play the role of auxiliaries or copulas and tagged as such.
-* We used [dep:aux]() to tag those derivational suffixes that act like auxiliaries (c.f. [aux]()).
+* We used [dep:aux]() to tag those derivational suffixes that act like auxiliaries (c.f. [aux](u-dep/aux_)).
 * We used [dep:cop]() for a copula-like derviational suffix (c.f. [cop]()).
 * [dep:mark]() is used for derivational suffixes that act like a marker (c.f. [mark]())
 * [nmod:arg]() is used when a nominal base is used as the argument of a noun-elaborating (N→N) derivational suffix.
