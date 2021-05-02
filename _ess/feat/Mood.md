@@ -45,9 +45,9 @@ In the main clause, the participial mood is used to convey the meaning of a vivi
 
 ### <a name="Obl">`Obl`</a>: participial-oblique
 
-> when used in the subordinate clause, the main clause describes an event focused on because it is unexpected or contains an element of surprise. As a result, the Participial Oblique moods are more accurately translated as ‘it was the fact (in the past) that..., but...’; ‘until now...’; ‘now that...’, and the main clause often contains interjections expressing excitement, particles meaning ‘already’, or the postbase -fte- l-pete- ‘to apparently V’. In addition, the clause in a Participial Oblique mood often contains particles such as taagken ‘next; and then’ or legan ‘and so’, emphasizing continuity with preceding events. Thus, the Participial Oblique moods prevent the focus of attention from being shifted toward the subordinate clause and away from the continuity of events or story line described by the main clause. They are used in vivid narrative, such as traditional stories, but also in conversation. (de Reuse, p. 50)
+> The participial-oblique mood is often - though apparently not always - used to form an observational construction (...) In some cases, however, it appears that the participial-oblique mood is used to express merely a casual linking in time, without the element of observation. (Jacobson, p. 121)
 
-> The participial-oblique mood is often - though apparently not always - used to form an observational construction, that is, to link an observation event, expressed by a verb in the participial-oblique mood, and an observed event, expressed by a verb in the indicative and often with the postbase +(pete)fte- 'evidently' (see 8.2.1), or by a subordinative or participial often with the postbase @-:(i/u)ma- 'evidently' (see 11.2.2), or through a demonstrative in its adverbial particle form (see 16.2.4), or by a noun with an augmentive postbase and an absolutive ending (see 17.3.2). In some cases, however, it appears that the participial-oblique mood is used to express merely a casual linking in time, without the element of observation. (Jacobson, p. 121)
+> [W]hen used in the subordinate clause, the main clause describes an event focused on because it is unexpected or contains an element of surprise. As a result, the Participial Oblique moods are more accurately translated as ‘it was the fact (in the past) that..., but...’; ‘until now...’; ‘now that...’, and the main clause often contains interjections expressing excitement, particles meaning ‘already’, or the postbase -fte- l-pete- ‘to apparently V’. In addition, the clause in a Participial Oblique mood often contains particles such as taagken ‘next; and then’ or legan ‘and so’, emphasizing continuity with preceding events. Thus, the Participial Oblique moods prevent the focus of attention from being shifted toward the subordinate clause and away from the continuity of events or story line described by the main clause. They are used in vivid narrative, such as traditional stories, but also in conversation. (de Reuse 1994, p. 50)
 
 #### Examples
 
@@ -106,15 +106,8 @@ The conditional mood is translated as 'if or when one Vs'.
 
 * [ess] _<b>Neghenghilkuvek</b> iyataghllequten._ "<b>If you don't eat</b>, you will get hungry."
 
->NOTE: another mood to consider: volitive of fear mood [Volitive.Of.Fear] [Jacobson (2001) p.129] ('for fear that'; 'lest'; 'would that not')
-The Volitive of Fear (VFO) mood has not been previously reported. It does not appear to exist in any other Eskimo language. The term “Volitive” is used by Palmer (1986:12, 115) to express modalities of hope, fear, regret, and desire. Badten et al. (1987:288) interpret this mood ending as consisting of a postbase -nayu- ‘may subject not V’, immediately followed by conditional mood endings. I consider this interpretation to be incorrect on the grounds that the person endings following -nayuka- are quite different from the ones following the conditional mood marker, as shown in Menovshchikov (1967:171-73). (de Reuse p. 49)
->
-> Examples
->* [ess] _Repall alingumaanga <b>tuqunayukama</b>._ "I was very afraid <b>that I would die</b>."
 
-NOTE: dependent moods (oblique moods): cannot be the main verb or the only verb of the sentence. Also called connective moods. They fill in the same role as some English coordinate conjunctions such as "before", "although", "when", "if" and "whenever"
-cf. independent moods: occur in main clauses only i.e. indicative, interrogative, optative moods
-cf. appositional/subordinative, participial: can occur in main clauses as well as in subordinate clauses
+### References
+- Steven A. Jacobson. 2001. A Practical Grammar of the St. Lawrence Island / Siberian Yupik Eskimo Language, Preliminary Edition, 2nd edition. Alaska Native Language Center, Fairbanks, Alaska.
 
-
-
+- Willem J. de Reuse. 1994. _Siberian Yupik Eskimo -- The Language and Its Contacts with Chukchi._  Studies in Indigenous Languages of the Americas. University of Utah Press, Salt Lake City, Utah.

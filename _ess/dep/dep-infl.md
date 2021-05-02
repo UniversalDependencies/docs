@@ -7,6 +7,11 @@ udver: '2'
 
 `dep:infl` is used for inflectional suffixes for the morpheme-level annotations.
 
+```
+Afsengaq-0		negh-tu-q			pagunghagh-meng			.
+afsengagh*(N)-[Abs.Sg]	negh(V)-[Ind.Intr]-[3Sg]	pagunghagh*(N)-[Abl_Mod.Sg]	.
+"A mouse ate crowberries."
+```
 ~~~ conllu
 # sent_id = Jacobson.Ch3.gold:1
 # text = Afsengaq neghtuq pagunghaghmeng.

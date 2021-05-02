@@ -5,23 +5,12 @@ shortdef: 'nominal subject'
 udver: '2'
 ---
 
-A nominal subject is a nominal phrase which is the syntactic subject of a clause;
-in Czech, the phrase is in the nominative [cs-feat/Case]().
-(See [csubj]() for when the subject is clausal.
-See [nsubj:pass]() and [csubj:pass]() for when the subject is not the proto-agent argument due to valence changing operations.)
-The governor of the `nsubj` relation might not always be a verb: when
-the verb is a copular verb, the root of the clause is the complement
-of the copular verb, which can be an adjective or noun.
+A nominal subject (nsubj) is a nominal which is the syntactic subject.
+In Yupik, the nominal subject is in absolutive case for an intransitive verb and in ergative case for a transitive verb (see [ess-feat/Case]()).
 
 ~~~ sdparse
-Novosvětskou symfonii napsal Antonín Dvořák . \n From-the-New-World Symphony wrote Antonín Dvořák .
-nsubj(napsal, Dvořák-5)
-nsubj(wrote, Dvořák-12)
+Afsengaq neghtuq pagunghaghmeng . \n a-vole it-ate by-the-means-of-crowberry .
+nsubj(neghtuq, Afsengaq)
+nsubj(it-ate, a-vole)
 ~~~
 
-~~~ sdparse
-Auto je červené . \n Car is red .
-nsubj(červené, Auto)
-nsubj(red, Car)
-~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:32 CET 2020 -->
