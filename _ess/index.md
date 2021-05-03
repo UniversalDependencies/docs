@@ -11,7 +11,7 @@ udver: '2'
 * Words are generally delimited by whitespace or punctuation.
 * Words consisting of multiple morphemes are further analyzed into morphemes based on the Chen et al. (2020) Yupik morphological analyzer. See Park et al. (2021) for more details.
 * In order to enable the use of morphemes as tokens, we adapted the existing "multiword expressions" annotation mechanism.
-* Word-level annotation is available in the github repo as a separte file (not-to-release/ess_sli-ud-test.merged.conllu). We used [udapy](https://github.com/udapi/udapi-python) to remove "multiword expressions" to convert the morpheme-level annotations to word-level annotations.
+* Word-level annotation is available in the github repo as a separate file (not-to-release/ess_sli-ud-test.merged.conllu). We used [udapy](https://github.com/udapi/udapi-python) to remove "multiword expressions" to convert the morpheme-level annotations to word-level annotations.
 
 ## Morphology
 
@@ -32,14 +32,14 @@ udver: '2'
 
 * Unpossessed nouns inflect for [Case]() and [Number]().
 * Possessed nouns also inflect for [Number[psor]]() and [Person[psor]]() to encode the possessor's number and person information.
-* Verbs inflect for [Mood](), [Number[obj]](), [Number[subj]](), [Person[obj]](https://universaldependencies.org/ess/feat/Person-obj.html) and [Person[subj]](https://universaldependencies.org/ess/feat/Person-subj.html). Depending on the verb's valency ([Subcat](https://universaldependencies.org/ess/feat/Subcat.html)), the verb may to encode the number and person information about the subject only or both the subject and object.
+* Verbs inflect for [Mood](), [Number[obj]](), [Number[subj]](), [Person[obj]](https://universaldependencies.org/ess/feat/Person-obj.html) and [Person[subj]](https://universaldependencies.org/ess/feat/Person-subj.html). Depending on the verb's valency ([Subcat](https://universaldependencies.org/ess/feat/Subcat.html)), the verb will encode the number and person information about the subject only or both the subject and object.
 * Yupik inflections distinguish third person reflexive (also known as fourth person) from third person. In possessed nouns, [Reflex](https://universaldependencies.org/ess/feat/Reflex.html) is used when the possessor refers to the subject. [Reflex](https://universaldependencies.org/ess/feat/Reflex.html) is also used for quantifier-qualifier constructions (see [ADV]()). In verbs, [Reflex[obj]]() or [Reflex[subj]]() is used when the verb's object or subject refers back to the subject.
 
 ## Syntax
 
 * Yupik does not have a fixed word order.
-* Yupik uses absolutive-ergative to distinguish subjects ([nsubj]()) and objects ([obj]()). The subject of an intransitive verb is in absolutive case. The subject of a transitive verb is in ergative case. The direct object of a transitive verb is in absolutive case.
-* Nouns in ablative-modalis case may be used as an object of an intransitive verb. In such cases, those nouns are understood as "an indefinite object" (Jacobson 2001, p.20). Because such nouns are not encoded in the verb, we tagged them as oblique nominals in ablative-modalis case ([obl:mod]()) and distinguish them from other oblique nominals ([obl]()).
+* Yupik use the absolutive-ergative alignment to distinguish subjects ([nsubj]()) and objects ([obj]()). The subject of an intransitive verb is in absolutive case. The subject of a transitive verb is in ergative case. The direct object of a transitive verb is in absolutive case.
+* Nouns in ablative-modalis case may be used as an object of an intransitive verb. In such cases, those nouns are understood as "an indefinite object" (Jacobson 2001, p.20). Because such nouns are not encoded in the verb, we tagged them as oblique nominals in ablative-modalis case ([obl:mod]()) to distinguish them from other oblique nominals ([obl]()).
 * There are no known auxiliaries or copulas as stand-alone words. However, some derivational suffixes seem to play the role of auxiliaries or copulas and tagged as such.
 * We used [dep:aux]() to tag those derivational suffixes that act like auxiliaries (c.f. [aux](https://universaldependencies.org/u/dep/aux_)).
 * We used [dep:cop]() for a copula-like derviational suffix (c.f. [cop]()).
