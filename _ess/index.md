@@ -14,11 +14,12 @@ udver: '2'
 * Word-level annotation is available in the github repo as a separate file (not-to-release/ess_sli-ud-test.merged.conllu). We used [udapy](https://github.com/udapi/udapi-python) to remove "multiword expressions" to convert the morpheme-level annotations to word-level annotations.
 
 ## Morphology
+\* Click on the hyperlinks for Yupik examples.
 
 ### Tags
 
 * Most Yupik words are nominals ([NOUN]()), verbals ([VERB]()) or particles ([PART]()).
-* If a word is further analyzed into morphemes, noun-yielding derivational morphemes are tagged as [NOUN]() and verb-yielding derivational morphemes are tagged as [VERB](). See the POS tag documentations for examples.
+* If a word is further analyzed into morphemes, noun-yielding derivational morphemes are tagged as [NOUN]() and verb-yielding derivational morphemes are tagged as [VERB]().
 * Particles ([PART]()) do not inflect, so they are not further analyzed into morphemes.
 * [ADV]() is used for interrogative adverbs, quantifier-qualifier constructions and demonstrative adverbs.
 * [PRON]() is used for demonstrative pronouns and interrogative pronouns.
@@ -36,6 +37,7 @@ udver: '2'
 * Yupik inflections distinguish third person reflexive (also known as fourth person) from third person. In possessed nouns, [Reflex](https://universaldependencies.org/ess/feat/Reflex.html) is used when the possessor refers to the subject. [Reflex](https://universaldependencies.org/ess/feat/Reflex.html) is also used for quantifier-qualifier constructions (see [ADV]()). In verbs, [Reflex[obj]]() or [Reflex[subj]]() is used when the verb's object or subject refers back to the subject.
 
 ## Syntax
+\* Click on the hyperlinks for Yupik examples.
 
 * Yupik does not have a fixed word order.
 * Yupik use the absolutive-ergative alignment to distinguish subjects ([nsubj]()) and objects ([obj]()). The subject of an intransitive verb is in absolutive case. The subject of a transitive verb is in ergative case. The direct object of a transitive verb is in absolutive case.
