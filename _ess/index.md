@@ -18,7 +18,7 @@ udver: '2'
 ### Tags
 
 * Most Yupik words are nominals ([NOUN]()), verbals ([VERB]()) or particles ([PART]()).
-* If a word is further analyzed into morphemes, noun-yielding derivational morphemes are tagged as [NOUN]() and verb-yielding derivational morphemes are tagged as [VERB](). See the POS tag documentations for examples.
+* If a word is further analyzed into morphemes, noun-yielding derivational morphemes are tagged as `NOUN` and verb-yielding derivational morphemes are tagged as `VERB`. See [NOUN]() and [VERB]() for examples.
 * Particles ([PART]()) do not inflect, so they are not further analyzed into morphemes.
 * [ADV]() is used for interrogative adverbs, quantifier-qualifier constructions and demonstrative adverbs.
 * [PRON]() is used for demonstrative pronouns and interrogative pronouns.
