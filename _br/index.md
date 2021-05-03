@@ -50,8 +50,6 @@ Verbal "particles":
 * *na*
 * *ra*
 
----
-
 ### Features
 
 Inherent:
