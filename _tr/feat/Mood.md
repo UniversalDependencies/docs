@@ -13,13 +13,16 @@ udver: '2'
   <td><a href="#CndGenPot">CndGenPot</a></td>
   <td><a href="#CndPot">CndPot</a></td>
   <td><a href="#Des">Des</a></td>
+  <td><a href="#DesPot">DesPot</a></td>
   <td><a href="#Gen">Gen</a></td>
   <td><a href="#GenNec">GenNec</a></td>
+  <td><a href="#GenNecPot">GenNecPot</a></td>
   <td><a href="#GenPot">GenPot</a></td>
   <td><a href="#GenPotPot">GenPotPot</a></td>
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Nec">Nec</a></td>
+  <td><a href="#NecPot">NecPot</a></td>
   <td><a href="#Opt">Opt</a></td>
   <td><a href="#Pot">Pot</a></td>
   <td><a href="#PotPot">PotPot</a></td>
@@ -106,6 +109,14 @@ This expresses some sort of necessity (must/should/have to in English).
 * *eve gitmeli* 'she should go home'
 * *eve gitmeliydi* 'she should have gone home'
 
+### <a name="NecPot">`NecPot`</a>: necessitative potential
+
+A combination of the necessitative and potential suffixes yields the meaning of “should be able to”.
+
+#### Examples
+
+* _Benim buradaki büyükelçim de, müşavirim de Çince <b>konuşabilmeli</b>._ “Both my ambassador and consultant here should be able to speak Chinese.”
+
 ### <a name="GenNec">`GenNec`</a>: general or hypothetical necessitative
 
 The necessitative suffix can be combined with a suffix of general modality.
@@ -113,6 +124,14 @@ The necessitative suffix can be combined with a suffix of general modality.
 #### Examples
 
 * _Siyasi riskteki artış gözden <b>kaçmamalıdır</b>._ “The spike in political risk should not go unnoticed.”
+
+### <a name="GenNecPot">`GenNecPot`</a>: general or hypothetical necessitative potential
+
+Both necessitative and potential can be combined with a suffix of general modality.
+
+#### Examples
+
+* _<b>söyleyebilmelidir</b>_ “should be able to say”
 
 ### <a name="Pot">`Pot`</a>: potential
 
@@ -209,8 +228,17 @@ In general it is difficult to automatically disambiguate between these two moods
 * *(keşke) uyusa* 'I wish she sleeps'
 * *(keşke) uyusaydı* 'I wish she slept'
 
+### <a name="DesPot">`DesPot`</a>: desiderative potential
+
+A combination of the desiderative and potential suffixes yields the meaning of “want to be able to”.
+
+#### Examples
+
+* _Dünyaya <b>yayabilsek</b>._ “If we could spread it to the world.”
+
 ### References
-- Aslı Göksel and Celia Kerslake. _Turkish: A Comprehensive Grammar_.
+
+* Aslı Göksel and Celia Kerslake. _Turkish: A Comprehensive Grammar_.
   London: Routledge, 2005.
 
 <!-- Interlanguage links updated Čt lis 12 09:43:03 CET 2020 -->

@@ -40,6 +40,14 @@ In Ancient Greek we distinguish the following 5 cases:
 
 * _ἄνερ_ / _áner_ “man”
 
+### <a name="Loc">`Loc`</a>: locative
+
 Remants of old cases, such as the locative, are annotated as the corresponding syncretic case or as adverbs.
+There is one exception though, one occurrence of the locative case in the Perseus corpus (alternatively,
+it could be tagged as [ADV]()):
+
+#### Examples
+
+* _Ἀθήνησιν_ / _Athḗnēsin_ “in Athens”
 
 <!-- Interlanguage links updated Čt lis 12 09:43:00 CET 2020 -->
