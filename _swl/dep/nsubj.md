@@ -2,6 +2,7 @@
 layout: relation
 title: 'nsubj'
 shortdef: 'nominal subject'
+udver: '2'
 ---
 
 The dependency type `nsubj` marks nominal subjects of a clause. Subjects are direct dependents of the main predicate of the clause, which may be a verb, noun or adjective.

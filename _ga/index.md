@@ -104,31 +104,31 @@ Here we summarise the morphological features of Irish which can be categorised i
       <table class="category">
        <tr><td><strong>Lexical features</strong></td></tr>
          <tr>
-          <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Abbr.html">Abbr</a></td>
+          <td><a>Abbr</a></td>
         </tr>
         <tr>
-          <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Dialect.html">Dialect</a></td>
+          <td><a href="https://universaldependencies.org/ga/feat/Dialect.html">Dialect</a></td>
         </tr>
         <tr>
-          <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Foreign.html">Foreign</a></td>
+          <td><a>Foreign</a></td>
         </tr>
         <tr>
-          <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-NumType.html">NumType</a></td>
+          <td><a href="https://universaldependencies.org/ga/feat/NumType.html">NumType</a></td>
         </tr>
                 <tr>
-          <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-PartType.html">PartType</a></td>
+          <td><a href="https://universaldependencies.org/ga/feat/PartType.html">PartType</a></td>
         </tr>
                 <tr>
-          <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Poss.html">Poss</a></td>
+          <td><a href="https://universaldependencies.org/ga/feat/Poss.html">Poss</a></td>
         </tr>
                 <tr>
-          <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-PrepForm.html">PrepForm</a></td>
+          <td><a href="https://universaldependencies.org/ga/feat/PrepForm.html">PrepForm</a></td>
         </tr>
                 <tr>
-          <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-PronType.html">PronType</a></td>
+          <td><a href="https://universaldependencies.org/ga/feat/PronType.html">PronType</a></td>
         </tr>
                 <tr>
-          <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Reflex.html">Reflex</a></td>
+          <td><a href="https://universaldependencies.org/ga/feat/Reflex.html">Reflex</a></td>
         </tr>
       </table>
     </td>
@@ -140,31 +140,31 @@ Here we summarise the morphological features of Irish which can be categorised i
           <td><i>Verbal</i></td>
         </tr>
         <tr>
-          <td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Case.html">Case</a></td>
-          <td><a>Mood</a></td>
+          <td><a href="https://universaldependencies.org/ga/feat/Case.html">Case</a></td>
+          <td><a href="https://universaldependencies.org/ga/feat/Mood.html">Mood</a></td>
         </tr>
         <tr>
-<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Definite.html">Definite</a></td>
-<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Person.html">Person</a></td>
+<td><a href="https://universaldependencies.org/ga/feat/Definite.html">Definite</a></td>
+<td><a href="https://universaldependencies.org/ga/feat/Person.html">Person</a></td>
 </tr>
         <tr>
-<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Degree.html">Degree</a></td>
-<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Polarity.html">Polarity</a></td>
+<td><a href="https://universaldependencies.org/ga/feat/Degree.html">Degree</a></td>
+<td><a href="https://universaldependencies.org/ga/feat/Polarity.html">Polarity</a></td>
         </tr>
         <tr>
-<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Gender.html">Gender</a></td>
-<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Tense.html">Tense</a></td>
+<td><a href="https://universaldependencies.org/ga/feat/Gender.html">Gender</a></td>
+<td><a href="https://universaldependencies.org/ga/feat/Tense.html">Tense</a></td>
 </tr>
      <tr>
-<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Number.html">Number</a></td>
-<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-VerbForm.html">VerbForm</a></td>
+<td><a href="https://universaldependencies.org/ga/feat/Number.html">Number</a></td>
+<td><a href="https://universaldependencies.org/ga/feat/VerbForm.html">VerbForm</a></td>
 </tr>
      <tr>
-<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Form.html">Form</a></td>
-<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-Voice.html">Voice</a></td>
+<td><a href="https://universaldependencies.org/ga/feat/Form.html">Form</a></td>
+<td><a href="https://universaldependencies.org/ga/feat/Voice.html">Voice</a></td>
 </tr>
      <tr>
-<td><a href="https://universaldependencies.org/treebanks/ga_idt/ga_idt-feat-NounType.html">NounType</a></td>
+<td><a href="https://universaldependencies.org/ga/feat/NounType.html">NounType</a></td>
 <td></td>
 </tr>
       </table>

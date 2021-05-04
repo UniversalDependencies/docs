@@ -17,16 +17,6 @@ This particle is used with an adverb to create an adverbial phrase. It’s most 
 * _<b>go</b> fóill_ “yet”
 * _<b>go</b> dona_ “badly”
 
-### <a name="Cmpl">`Cmpl`</a>: complementizer
-
-These complementizers are used to introduce a clausal complement. See [ccomp](ga-dep/CCOMP).
-
-#### Examples
-
-* _<b>go</b> raibh fhios acu_ “<b>that</b> they know”
-* _<b>nach</b> bhfeiceann siad_ “<b>that</b> they don’t see”
-* _Is beag <b>nár</b> thit an píosa_
-
 ### <a name="Comp">`Comp`</a>: comparative
 
 The comparative particle is used for introducing a comparative adjective (see [Degree]()).
@@ -37,6 +27,17 @@ The comparative particle is used for introducing a comparative adjective (see [D
 * _<b>níos</b> déine_ “more intense”
 
 NOTE: Although 'níos' is tagged as a substantive noun in the standard rule-based POS tagger and in IDT, we mark it as a particle in order to ensure consistency with the superlative form in the same manner.
+
+
+### <a name="Cmpl">`Cmpl`</a>: complementizer
+
+These complementizers are used to introduce a clausal complement. See [ccomp](ga-dep/CCOMP).
+
+#### Examples
+
+* _<b>go</b> raibh fhios acu_ “<b>that</b> they know”
+* _<b>nach</b> bhfeiceann siad_ “<b>that</b> they don’t see”
+* _Is beag <b>nár</b> thit an píosa_
 
 ### <a name="Cop">`Cop`</a>: copular
 
@@ -65,6 +66,7 @@ The particle _<b>a</b>_ is used with a verb stem to form the infinitive in Irish
 * _a thabhairt_ “to give”
 * _a dhénamh_ “to do”
 
+
 ### <a name="Num">`Num`</a>: numeral
 
 The particle used for counting in Irish is _<b>a</b>_. Most forms stay the same, but those numbers beginning with a vowel such as _aon_ (“one”), or _ocht_ (“eight”) are prefixed by <b>h-</b>.
@@ -86,6 +88,17 @@ This particle is used in last names to mean “son of” or “daughter of”. T
 * _Teaghlach <b>Uí</b> Ghallchóir_
 * _Liz <b>O'</b> Donnell_
 * _Aire <b>de</b> Valera_
+
+### <a name="Sup">`Sup`</a>: superlative
+
+The superlative particle is used for introducing a superlative adjective (see [Degree]()).
+
+#### Examples
+
+* _na torthaí <b>is</b> fearr_ “the best results”
+* _an t-eolas <b>is</b> déanaí_ “the latest information”
+
+
 
 ### <a name="Vb">`Vb`</a>: verbal
 

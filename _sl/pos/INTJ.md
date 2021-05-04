@@ -2,6 +2,7 @@
 layout: postag
 title: 'INTJ'
 shortdef: 'interjection'
+udver: '2'
 ---
 
 ### Definition
@@ -18,5 +19,5 @@ As a special case of interjections, the universal tagging scheme also recognizes
 
 #### Conversion from JOS.
 
-All interjections become `INTJ`.
+All JOS interjections become `INTJ`.
 <!-- Interlanguage links updated Čt lis 12 09:42:53 CET 2020 -->

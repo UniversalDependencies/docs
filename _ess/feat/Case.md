@@ -7,8 +7,6 @@ udver: '2'
 
 ### <a name="Abs">`Abs`</a>: absolutive
 
-Yupik uses absolutive-ergative to distinguish subjects and objects.
-
 The absolutive case marks subject of intransitive verb and direct
 object of transitive verb.
 
@@ -18,8 +16,6 @@ object of transitive verb.
 * [ess] _Yugem <b>walguyaagkek</b> iflaak.._ "She lost the man's <b>snow shoes</b>."
 
 ### <a name="Erg">`Erg`</a>: ergative
-
-Yupik uses absolutive-ergative to distinguish subjects and objects.
 
 The ergative case marks subject of transitive verb.
 

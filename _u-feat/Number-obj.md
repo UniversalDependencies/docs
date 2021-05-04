@@ -46,6 +46,10 @@ But it is better to have these features aligned with `Person[erg]`, `Polite[erg]
 
 Examples: [eu] _<b>d</b>akarki<b>o</b>gu_ `Number[abs]=Sing|Number[dat]=Sing`
 
+### <a name="Dual">`Dual`</a>: dual object
+
+Examples: [wbp] _Nyanyi <b>karnapalangu</b> wawirrijarra._ lit. _see-NONPAST <b>PRES-1SG(SUBJ)-3DU(OBJ)</b> kangaroo-DU(ABS)_ “I see two kangaroos.”
+
 ### <a name="Plur">`Plur`</a>: plural object
 
 Examples: [eu] _dakarkio<b>gu</b>_ `Number[erg]=Plur`

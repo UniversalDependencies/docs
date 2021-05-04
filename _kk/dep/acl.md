@@ -2,6 +2,7 @@
 layout: relation
 title: 'acl'
 shortdef: 'clausal modifier of noun'
+udver: '2'
 ---
 
 `acl` stands for finite and non-finite clauses that modify a noun, in
@@ -30,7 +31,6 @@ Gerunds in genitive modifying a noun:
 ~~~ sdparse
 Некенің тоқтатылуы жаңадан некеге тұру құқығын туғызады . \n Marriage-of terminating new-from marriage-to ? right is-born .
 acl(құқығын-6, тұру-5)
-
 ~~~
 
 Fronted relative clauses with empty copula:
@@ -39,7 +39,7 @@ Fronted relative clauses with empty copula:
 Шашы       ұзын     қызды     көрдім . \n Hair long girl saw-I .
 acl(қызды-3, ұзын-2)
 obj(көрдім-4, қызды-3)
-subj(ұзын-2, Шашы-1)
+nsubj(ұзын-2, Шашы-1)
 punct(көрдім-4, .-5)
 ~~~
 
@@ -47,13 +47,10 @@ punct(көрдім-4, .-5)
 
 Conditional phrases with 'болса':
 
-~~~ sdparse 
+~~~ sdparse
 Құлдық пен құл саудасына , қандай түрде болса да , тыйым салынады . \n Slavery and slave trade , whichever form-in may-be also , prohibition is-placed-on .
 acl(түрде-7, болса-8)
 advmod(болса-8, да-9)
-
 ~~~
-
-Secondary predication:
 
 <!-- Interlanguage links updated Čt lis 12 09:43:09 CET 2020 -->

@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Fin">finite</a></td>
   <td><a href="#Ger">gerund</a></td>
+  <td><a href="#Part">participle</a></td>
 </tr>
 </table>
 
@@ -32,4 +33,13 @@ Gerund is a non-finite verb form that shares properties of verbs and nouns.
 #### Example
 
 * _how many minute wey dem do <b>overhauling</b> ?_ "For how many minutes are they overhauling ?"
+
+### <a name="Part">`Part`</a>: participle
+
+This feature is used for present and past participles. 
+
+#### Example
+
+* _stop <b>surfing</b> di Internet_ "Stop surfing the internet"
+
 <!-- Interlanguage links updated Čt lis 12 09:43:08 CET 2020 -->

@@ -10,6 +10,14 @@ udver: '2'
 Language-specific feature identifying the form of derivation applied
 to a word.
 
+### <a name="Al">`Al`</a>: derivation with suffix -ал
+
+Produces verbs with meaning of irregular frequency.
+
+#### Examples
+
+* [kpv] _ветлыны: ветлалӧ_ "go/walk : walk around from time to time"
+
 ### <a name="An">`An`</a>: derivation with suffix -ан
 
 Produces adnominal deverbal noun modifier / noun.
@@ -27,6 +35,15 @@ Produces adnominal deverbal adjective modifier / adverb.
 #### Examples
 
 * [kpv] _кутана_ "holding"
+
+### <a name="Anin">`Anin`</a>: derivation with suffix -анін
+
+Produces deverbal noun indicating place where activity of the verb is performed
+
+#### Examples
+
+* [kpv] _сёянін_ "place for eating"
+* [kpv] _вузасянін_ "place of retail, store"
 
 ### <a name="CompMod">`CompMod`</a>: derivation with suffix -кодь
 
@@ -59,6 +76,22 @@ Produces converb.
 #### Examples
 
 * [kpv] _чӧвтігкостаныс_ "in between keeping silent"
+
+### <a name="Igkosta">`Igkosta`</a>: derivation with suffix -игкоста/-ігкоста
+
+Produces converb.
+
+#### Examples
+
+* [kpv] _ но ворсны велӧдчигкостаыс_ "but while learning to play in the meantime"
+
+### <a name="Igkosti">`Igkosti`</a>: derivation with suffix -игкості/-ігкості
+
+Produces converb, which may be a variant of `Igkost`.
+
+#### Examples
+
+* [kpv] _чукӧртчигкості_ "while gathering"
 
 ### <a name="Igmoz">`Igmoz`</a>: derivation with suffix -игмоз/-ігмоз
 
@@ -101,6 +134,16 @@ Produces indefinite from interrogative.
 * [kpv] _кодкӧ_ "somebody"
 * [kpv] _кыдзкӧ_ "somehow"
 * [kpv] _кутшӧмкӧ_ "some kind of"
+
+### <a name="La">`La`</a>: derivation with suffix -ла
+
+Produces spatial nouns denoting area/place and is inadvertantly in a spatial case.
+
+#### Examples
+
+* [kpv] _быдла-: быдлаын_ "in every place, everywhere"
+* [kpv] _кыкла-: кыклаын_ "in two places"
+* [kpv] _важла-: важлаын_ "in the old place"
 
 ### <a name="LocMod">`LocMod`</a>: derivation with suffix -са
 
@@ -176,6 +219,14 @@ Produces converbs.
 #### Examples
 
 * [kpv] _повтӧг_ "without fearing"
+
+### <a name="Voc">`Voc`</a>: derivation with suffix -ӧ
+
+Produces vocative with nouns.
+
+#### Examples
+
+* [kpv] _нылӧ_ "hey girl"
 
 ### <a name="VTer">`VTer`</a>: derivation with suffix -тӧдз
 

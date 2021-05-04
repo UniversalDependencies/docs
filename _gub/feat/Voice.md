@@ -21,8 +21,8 @@ Causatives are marked by the prefix *mu-* on the verb.
 
 #### Examples
 
-* _<b>re-mu-sak</b>&nbsp;_ “You make him see (it)” (2.SG-CAUS-see)
-* _<b>a-mu-jengar</b>&nbsp;_ “I make him sing" (1.SG-CAUS-sing)
+* _<b>U-mu-wɨwɨk</b>&nbsp;_ “He/She/They sew” (3-CAUS-sew)
+* _<b>u-mu-maw</b>&nbsp;_ “He/She/They cause the end" (3-CAUS-finish)
 
 
 

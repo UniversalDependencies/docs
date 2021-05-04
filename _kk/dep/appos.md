@@ -2,12 +2,13 @@
 layout: relation
 title:  'appos'
 shortdef : 'apposition'
+udver: '2'
 ---
 
-An appositional modifier of a noun is a nominal immediately 
-following the first noun that serves to define or modify that noun. It 
-includes examples in parentheses, as well as defining abbreviations 
-in one of these structures. 
+An appositional modifier of a noun is a nominal immediately
+following the first noun that serves to define or modify that noun. It
+includes examples in parentheses, as well as defining abbreviations
+in one of these structures.
 
 ~~~ sdparse
 Олар екеуі де көңілді үйге қарай келе жатыр . \n They both also happily house-to towards coming go .

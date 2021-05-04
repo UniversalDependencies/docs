@@ -2,15 +2,16 @@
 layout: relation
 title:  'amod'
 shortdef : 'adjectival modifier'
+udver: '2'
 ---
 
 Nouns may take adjectival modifiers, which are marked with the
-dependency type `amod`. 
+dependency type `amod`.
 
 ~~~ sdparse
-Азамат үлкен бір ағаш көрді . \n Azamat big one tree sees . 
+Азамат үлкен бір ағаш көрді . \n Azamat big one tree sees .
 amod(ағаш-4, үлкен-2)
-subj(көрді-5, Азамат-1)
+nsubj(көрді-5, Азамат-1)
 obj(көрді-5, ағаш-4)
 ~~~
 
@@ -37,8 +38,7 @@ Substantives in the attributive form of the locative (-DAGI) are also marked wit
 Олар әрдайым үлкен үйдің алдындағы бақшада бірге ойнайды . \n They always big house-of front-in garden-in together play .
 amod(бақшада-6, алдындағы-5)
 nmod(ойнайды-8, бақшада-6)
-subj(ойнайды-8, Олар-1)
+nsubj(ойнайды-8, Олар-1)
 ~~~
-
 
 <!-- Interlanguage links updated Čt lis 12 09:43:12 CET 2020 -->

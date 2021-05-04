@@ -11,6 +11,9 @@ udver: '2'
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Jus">Jus</a></td>
+  <td><a href="#Cnd">Cnd</a></td>
+  <td><a href="#Opt">Opt</a></td>
+  <td><a href="#Pot">Pot</a></td>
 </tr>
 </table>
 
@@ -37,9 +40,42 @@ The `Ind` and `Imp` values are only carried by instances of verbs following the 
 
 ### <a name="Jus">`Jus`</a>: jussive
 
-The jussive aspect is used to exhort someone to do something. It is carried by the auxiliary _make_.
+The jussive is used to exhort someone to do something. It is carried by the auxiliary _make_.
 
 #### Example
 
 * _<b>make</b> you dey tink of oda people_ "you should think of other people"
+
+### <a name="Cnd">`Cnd`</a>: conditional
+
+The conditional mood is used to express conditions that are dependent upon a hypothetical circumstance.
+
+#### Example
+
+* _I <b>for</b> show you serious_ "I would have shown you, seriously"
+
+### <a name="Nec">`Nec`</a>: necessitative
+
+The necessitative mood indicates the need to carry out a certain action.
+
+#### Example
+
+* _I <b>gats</b> go get di colour._ "I need to go get the color"
+
+### <a name="Opt">`Opt`</a>: optative
+
+The optative mood indicates a desire for something to occur.
+
+#### Example
+
+* _I con dey go pray sey <b>make</b> God change my life!"._ "I was praying for God to change my life"
+
+### <a name="Pot">`Pot`</a>: potential
+
+The potential mood indicates the ability to carry out an action.
+
+#### Example
+
+* _why you no <b>fit</b> advise dese children?"._ "Why can't you advise these children?"
+
 <!-- Interlanguage links updated Čt lis 12 09:43:03 CET 2020 -->

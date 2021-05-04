@@ -23,6 +23,10 @@ do not have any internal syntactic structure (except from a historical perspecti
 structural annotation is in principle arbitrary. In practice, however, it is highly desirable to use
 a consistent annotation of all fixed MWEs in all languages.
 
+Fixed MWEs should not have any internal modification. Therefore, if a word attaches as `fixed`, 
+it should not have any dependents (except perhaps `punct`, `goeswith`, and `reparandum` dependents, 
+as these are not true syntactic relations).
+
 ~~~ sdparse
 I like dogs as well as cats
 fixed(as-4, well-5)

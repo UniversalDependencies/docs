@@ -1,30 +1,41 @@
 ---
 layout: feature
 title: 'Deixis'
-shortdef: 'deixis'
+shortdef: 'Deixis'
 udver: '2'
 ---
 
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#1">Prox</a></td>
+  <td><a href="#Prox">Prox</a></td>
+  <td><a href="#Dist">Dist</a></td>
   
   
 </tr>
 </table>
 
-`Deixis`  The demonstratives express their deictic reference point, showing their space location in relation to the speech act (distance/person-oriented). The demonstrative appears in a noun phrase coding spatial orientation and position of the element in discussion with respect to the hearer and speaker. They do not have a fixed order; they may appear before or after the noun or appear as the head of a NP.
+`Dem`  The demonstratives express their deictic reference point, showing their space location in relation to the speech act (distance/person-oriented). The demonstrative appears in a noun phrase coding spatial orientation and position of the element in discussion with respect to the hearer and speaker. They do not have a fixed order; they may appear before or after the noun or appear as the head of a NP.
 
-### <a name="Prox">`Prox`</a>: Proximity
+### <a name="Prox">`Prox`</a>: Proximal
 
 Close to the speaker or the hearer
 
 
 #### Examples
 
-* _<b>i=no t-et jẽ t-et</b>&nbsp;_ “his other name, this one's name”
+* _<b>jẽ t-et</b>&nbsp;_ “this one's name”
 
+
+### <a name="Dist">`Dist`</a>: Distant
+
+Distant from the
+
+
+#### Examples
+
+* _<b>ke t-et</b>&nbsp;_ “that one's name”
+* _<b>ta t-et</b>&nbsp;_ “that one's name”
 
 ## Diffs
 

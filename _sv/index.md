@@ -54,6 +54,7 @@ For more information, see the list of [Swedish features](feat/index.html).
   * Passivization: Objects become (non-expletive) subjects when verbs are passivized.
 * The copula verb *vara* (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses. Existential clauses normally use a different verb (*finnas*).
 * The following subtypes are used in Swedish:
+  * [acl:cleft]() for cleft sentences
   * [acl:relcl]() for relative clauses
   * [aux:pass]() for passive auxiliaries
   * [compound:prt]() for verb particles

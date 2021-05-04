@@ -5,15 +5,37 @@ shortdef: 'punctuation type'
 udver: '2'
 ---
 
-Many tagsets have just one tag for punctuation. Others (including the
-Penn Treebank and the Swedish Mamba tagset) classify punctuation in
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Brck">Brck</a></td>
+  <td><a href="#Colo">Colo</a></td>
+  <td><a href="#Comm">Comm</a></td>
+  <td><a href="#Dash">Dash</a></td>
+  <td><a href="#Elip">Elip</a></td>
+  <td><a href="#Excl">Excl</a></td>
+  <td><a href="#Peri">Peri</a></td>
+  <td><a href="#Qest">Qest</a></td>
+  <td><a href="#Quot">Quot</a></td>
+  <td><a href="#Semi">Semi</a></td>
+  <td><a href="#Slsh">Slsh</a></td>
+</tr>
+</table>
+
+Many tagsets have just one tag for punctuation. Others classify punctuation in
 more detail.
 
-### <a name="Peri">`Peri`</a>: period at the end of sentence
+### <a name="Peri">`Peri`</a>: period at the end of sentence or clause
 
 #### Examples
 
 * [es] _¿Por qué? -, se pregunta<b>.</b>_ “Why? – she wonders.”
+
+### <a name="Elip">`Elip`</a>: ellipsis
+
+#### Examples
+
+* [pl] _Nie wiem, dlaczego ją wybrałem<b>…</b>_ “I don't know why I chose her ...”
 
 ### <a name="Qest">`Qest`</a>: question mark
 
@@ -62,5 +84,11 @@ more detail.
 #### Examples
 
 * [es] _¿Por qué? <b>-</b>, se pregunta._ “Why? – she wonders.”
+
+### <a name="Slsh">`Slsh`</a>: slash or backslash
+
+#### Examples
+
+* [pl] _Zaczynała w RSC w połowie lat 60., grając pacjentkę szpitala dla obłąkanych w „Marat<b>/</b>Sade”._ “She started out at the RSC in the mid-Sixties playing an asylum-inmate in Marat/Sade.”
 
 <!-- Interlanguage links updated Čt lis 12 09:43:06 CET 2020 -->

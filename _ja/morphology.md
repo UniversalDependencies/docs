@@ -8,7 +8,7 @@ udver: '2'
 
 As described in Introduction, the parts-of-speech of Japanese are defined as a
 mapping from UniDic POS tags of SUW (short unit word), LUW (long unit word) and their syntactic positions, because the UniDic guideline is fully established and widely used in Japanese NLP.
-The rule is defined cabocha2ud/conf/bccwj_pos_suw_rule.json
+The rule is defined cabocha2ud/conf/bccwj_pos_suw_rule.yaml
 
 The following table defines a mapping from UniDic SUW POS tags into
 Universal Dependencies POS tags (this table is not finalized yet; any
@@ -23,9 +23,9 @@ suggestions are welcome).
   <tr><td>PROPN</td><td>名詞-固有名詞(proper noun), 外国語</td></tr>
   <tr><td>VERB</td><td>動詞(verb), 名詞-普通名詞-サ変可能, 名詞-普通名詞-サ変形状詞可能</td></tr>
   <tr><td>ADP</td><td>助詞-格助詞(case particle), 助詞-係助詞(binding particle), 助詞-副助詞</td></tr>
-  <tr><td>AUX</td><td>助動詞(auxiliary verb), 形容詞-非自立可能, 接尾辞-形容詞的, 動詞-非自立可能, 助詞-副助詞</td></tr>
+  <tr><td><a href="http://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_auxiliary.pl?lcode=ja">AUX</a></td><td>助動詞(auxiliary verb),動詞-非自立可能（する，できる，くださる，いただく，いたす，なさる）,形状詞-助動詞語幹（そう，よう），名詞-助動詞語幹</td></tr>
   <tr><td>CCONJ</td><td>接続詞(conjunction), 助詞-格助詞(case particle)</td></tr>
-  <tr><td>DET</td><td>連体詞(adnomial)</td></tr>
+  <tr><td>DET</td><td>連体詞(adnomial)（こそあど）</td></tr>
   <tr><td>NUM</td><td>名詞-数詞(numeral noun), 名詞-普通名詞-助数詞可能</td></tr>
   <tr><td>PART</td><td>助詞-副助詞(adverbial particle), 助詞-終助詞(phrase final particle), 助動詞, 接尾辞-形容詞的, 接尾辞-名詞的, 接尾辞-動詞的</td></tr>
   <tr><td>PRON</td><td>代名詞(pronoun)</td></tr>

@@ -10,6 +10,8 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="">Hum</a></td>
   <td><a href="">Nhum</a></td>
+  <td><a href="">Anim</a></td>
+
   
 </tr>
 </table>
@@ -17,7 +19,7 @@ udver: '2'
 `Animacy` in Ka'apor may take the the following values ...
 
 
-### <a name="Hum">`Hum`</a>: Hum
+### <a name="Hum">`Hum`</a>: Human
 
 The example below has 
 
@@ -26,7 +28,16 @@ The example below has
 * _<b>aʔe</b>&nbsp;_ “(S)he” 
 
 
-### <a name="Nhum">`Nhum`</a>: Nhum
+### <a name="Nhum">`Nhum`</a>: Non-Human
+
+The example below has 
+
+#### Examples
+
+* _<b>???</b>&nbsp;_ “???” 
+
+
+### <a name="Anim">`Anim`</a>: Animated
 
 The example below has 
 

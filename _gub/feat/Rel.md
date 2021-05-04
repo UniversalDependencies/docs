@@ -23,7 +23,7 @@ e.g., possessor-noun, object-postposition.
 
 ### <a name="Cont">`Cont`</a>: contiguous
 
-Contiguity is more often associated with
+Contiguity is more often associated with the null morpheme or with "r".
 
 #### Examples
 
@@ -32,27 +32,24 @@ Contiguity is more often associated with
 
 ### <a name="NCont">`NCont`</a>: non-contiguous
 
-Non-contiguity is more often associated with
+Non-contiguity is more often associated with the morphemes "i" and "h".
 
 #### Examples
 
-* _<b>t-uβ</b>&nbsp;_ “He has a father / there is his father”
-* _<b>t-uβ-a</b>&nbsp;_ “He is (a/the) father / ”
+* _<b>i-hɨ</b>&nbsp;_ “He has a mother / there is his/her mother”
 
-* _<b>s-orɨβ</b>&nbsp;_ “(S)he/it is happy / there is her/his/its/their happiness”
-* _<b>s-orɨβ-a</b>&nbsp;_ “Her/his/their/its happiness”
+* _<b>h-emi-r-eko</b>&nbsp;_ “there is her/his/its/their wife”
 
 ### <a name="Abs">`Abs`</a>: absolute
 
-Abslute relational indicates that the possessor
+Abslute relational indicates that the possessor is absent. It is associated with the morphemes "i" and "h".
 
 #### Examples
 
-* _<b>t-uβ</b>&nbsp;_ “(There is a) (someone's)  father / ”
-* _<b>t-uβ-a</b>&nbsp;_ “A/the father(s)”
+* _<b>i-pira</b>&nbsp;_ “ (There is a) (someone's)  fish / ”
 
-* _<b>s-orɨβ</b>&nbsp;_ “(There is a) (someone's) happiness”
-* _<b>s-orɨβ-a</b>&nbsp;_ “Someone's happiness”
+* _<b>h-emi-r-eko</b>&nbsp;_ “(There is a) (someone's) wife”
+
 
 
 ## Diffs

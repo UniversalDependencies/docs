@@ -9,7 +9,10 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Circ">Circ</a></td>
-  <td><a href="#DevPass">DevPass</a></td>
+  <td><a href="#Pas">Pas</a></td>
+  <td><a href="#Ag">Ag</a></td>
+  <td><a href="#Rel">Rel</a></td>
+  <td><a href="#CCirc">CCirc</a></td>
   
   
 
@@ -29,7 +32,7 @@ The nominalizer of circumstance can be roughly translated as 'way / place of x'
 </tr>
 </table>
 
-### <a name="DevPass">`DevPass`</a>: Circumstance
+### <a name="Pas">`Pas`</a>: Pasive deverbal
 
 The deverbal passive
 
@@ -40,6 +43,39 @@ The deverbal passive
   
 </tr>
 </table>
+
+
+### <a name="Ag">`Ag`</a>: Agent
+
+The agent nominalizer
+
+#### Examples
+
+* _<b>juká-sar-a</b>&nbsp;_ “way / Kill-er”
+
+  
+</tr>
+</table>
+
+### <a name="Rel">`Rel`</a>: Relativizer
+
+The nominalizer of circumstance can be roughly translated as 'way / place of x'
+
+#### Examples
+
+* _<b>juká-saβ-a</b>&nbsp;_ “way / place of killing”
+
+
+
+### <a name="CCirc">`CCirc`</a>: Complement of circunstance
+
+The complement of circumstance 'the one who is (in)'
+
+#### Examples
+
+* _<b>ɨβakɨpendwara</b>&nbsp;_ “the one who is in heaven/in the sky”
+
+
 
 ## Diffs
 

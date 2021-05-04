@@ -80,7 +80,7 @@ udver: '2'
      The particle _ano_ is actually a conversion from the pronoun _ano_ “what”, but as a tag question marker it no longer is a pronoun and should be tagged [PART]() rather than [PRON]().
   * `Des` ... particle _sana_ “hopefully”
   * `Nfh` ... non-first-hand particle _daw_ “they say”
-* `Link=Yes` is currently used in the TRG treebank to signal the linker suffix.
+* [Link]()`=Yes` is currently used in the TRG treebank to signal the linker suffix.
   In the Ugnayan treebank, linkers are treated as separate syntactic words and the surface word is treated as a multi-word token.
 
 

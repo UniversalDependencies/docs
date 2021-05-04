@@ -5,7 +5,7 @@ shortdef: 'negative auxiliary'
 udver: '2'
 ---
 
-This is a subtype of [aux](), used for the negative auxiliaries and particles _оз, не, абу_.
+This is a subtype of [aux](), used for the negative auxiliaries and particles _оз, абу, не, ни_.
 
 The negative auxiliary, when attached to a predicate,
 typically carries some of the tense/aspect/modality suffixes as well as person/number agreement suffixes.
@@ -27,5 +27,16 @@ aux:neg(ӧтнам, абу)
 Но гӧгӧр сулалысь ылі вӧръяс абу на вежсьӧмаӧсь . \n But the surrounding distant forests have not _changed_ yet .
 aux:neg(Висьтавны, абу)
 ~~~
+
+~~~ sdparse
+Енэжын ни ӧти кымӧртор эз тыдав . \n Not a single small cloud could be seen in the sky.
+obl:lmod(тыдав-6, Енэжын-1)
+aux:neg(ӧти-3, ни-2)
+nummod(кымӧртор-4, ӧти-3)
+nsubj(тыдав-6, кымӧртор-4)
+aux:neg(тыдав-6, эз-5)
+punct(тыдав-6, .-7)
+~~~
+
 
 <!-- Interlanguage links updated Čt lis 12 09:43:15 CET 2020 -->

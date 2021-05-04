@@ -25,6 +25,17 @@ Irish demonstrative pronouns indicate nearness to the speaker, whether this is a
 * _an ceo <b>seo</b>_ “<b>this</b> fog”
 * _Ina measc <b>siúd</b>_ “in the midst of <b>that</b>”
 
+
+### <a name="Emp">`Emp`</a>: emphatic
+
+Personal pronouns (including prepositional pronouns) can take an emphatic suffix (se/sa) depending on whether the root has a broad or slender final vowel. The suffix -an is also used in some cases (_leosan_ "with them", _eisean_ "him", seisean "he" )
+
+#### Examples
+
+* _<b>Mise</b> amháin a thabharfas aire dó_ “<b>I</b> alone would take care of him” (no-one else)
+* _Ní fios <b>domsa</b>_ “<b>I</b> don't know/ (lit. The information is not at-me)”
+* _ar seis<b>ean</b>_ “said he”  (not her, them, etc)
+
 ### <a name="Ind">`Ind`</a>: indefinite
 
 Indefinite pronouns are used to refer to unspecified quantities or persons.

@@ -7,16 +7,6 @@ udver: '2'
 
 Mood is a feature that expresses modality and subclassifies finite verb forms. It allows for a speaker to express their attitude towards what they are saying.
 
-### <a name="Ind">`Ind`</a>: indicative mood
-
-The indicative mood can be considered the default form of a verb. A verb in the indicative indicates something that has happened, is happening or will happen.
-
-#### Examples
-
-* _Deirim_ "I say"
-* _Thug sé_ "He gave"
-* _Caithfidh mé_ "I will have to"
-
 ### <a name="Cnd">`Cnd`</a>: conditional mood
 
 The conditional mood is used to express actions that are hypothetical. In Irish, the conditional is expressed in two different verb endings; these endings begin with the suffix _<b>-f-</b>_ or _<b>-ó-</b>_. In all but the 3rd person singular and the 2nd person plural, the verb endings are synthetic and do not require a subject pronoun. Conditional clauses are often introduced using <b>go</b> or <b>dá</b>.
@@ -27,6 +17,7 @@ The conditional mood is used to express actions that are hypothetical. In Irish,
 * _Dá bhfeic<b>feá</b>_ "If you saw"
 * _...go bhfeic<b>feadh</b> sé_ "...that he would see"
 
+
 ### <a name="Imp">`Imp`</a>: imperative mood
 
 The imperative mood is used to give a command, express advice, or make a request.
@@ -36,6 +27,27 @@ The imperative mood is used to give a command, express advice, or make a request
 * _<b>Ná habair</b> liom_ "Don't tell me"
 * _<b>Bígí</b> ar ais anseo_ "Be back here"
 * _<b>Clúdaigh</b> an bia_ "Cover the food"
+
+### <a name="Ind">`Ind`</a>: indicative mood
+
+The indicative mood can be considered the default form of a verb. A verb in the indicative indicates something that has happened, is happening or will happen.
+
+#### Examples
+
+* _Deirim_ "I say"
+* _Thug sé_ "He gave"
+* _Caithfidh mé_ "I will have to"
+
+### <a name="Int">`Int`</a>: interrogative mood
+
+The interrogative mood is marked on copular question forms (nár, nach, ar, arbh, narbh etc)
+
+#### Examples
+
+* _An fíor é_ "Is it true?"
+* _Nach in aghaidh easa atá sé ag snámh?_ "Isn't he swimming against the tide/ fighting a losing battle?"
+* _Arbh é Seán a bhí ann?_ "Was it Sean who was there?"
+
 
 ### <a name="Sub">`Sub`</a>: subjunctive mood
 

@@ -1,8 +1,8 @@
 ---
 layout: relation
 title: 'orphan'
-redirect_from: "kk/dep/remnant.html"
-shortdef : 'remnant in ellipsis'
+shortdef : 'orphan in gapping attached to another orphan'
+udver: '2'
 ---
 
 The `orphan` relation is used to provide a treatment of ellipsis (in
@@ -12,10 +12,13 @@ that do not postulate empty nodes.
 
 ~~~ sdparse
 Ашылу матчы Сан-Паулуда , ал финалы Рио-де-Жанейрода орын алды . \n Opening match São-Paulo-in , and final Rio-de-Janeiro-in place took .
-remnant(Рио-де-Жанейрода-7, Сан-Паулуда-3)
-remnant(финалы-6 ,матчы-2)
-nmod(алды-9, Рио-де-Жанейрода-7)
-nsubj(алды-9, финалы-6)
 nmod(матчы-2, Ашылу-1)
+orphan(матчы-2, Сан-Паулуда-3)
+conj(матчы-2, алды-9)
+punct(алды-9, ,-4)
+cc(алды-9, ал-5)
+nsubj(алды-9, финалы-6)
+obl(алды-9, Рио-де-Жанейрода-7)
 ~~~
+
 <!-- Interlanguage links updated Čt lis 12 09:43:36 CET 2020 -->

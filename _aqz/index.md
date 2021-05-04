@@ -59,11 +59,9 @@ VERBAL FEATURE
 * Akuntsú has a set of [auxiliaries](https://universaldependencies.org/u/pos/AUX_.html) `Aux` that expresses the notion of ‘sitting,’ ‘lying,’ ‘standing,’ ‘walking,’  ‘moving,’  ‘coming’ and ‘going´. The auxiliaries are given in the table below:
 
 
-| ABC | DEF | GHI |
-|:----:|:-----:|:-----:|
-|    |      |  |
-|     |    |  |
-|     |    |  |
+| Standing | Sitting | Lying | In movement |Going|
+:----: | :------: |:------: |:------: |:------: |
+|ãm|jã|toa|ko|tʃe|ka
 
 * Some verbs occur with the morpheme -*ka*, which is a transitivizer (cf. Aragon, 2014). This [feature](https://universaldependencies.org/u/feat/index.html) (`Trans`) takes the value YES if the when the morpheme is present.  Verbs that may or not combine with this morpheme take no overt object or require two obligatory arguments. 
 
@@ -76,8 +74,7 @@ VERBAL FEATURE
 
 ## Treebanks
 
-There are [N](../treebanks/aqz-comparison.html) Akuntsu UD treebanks:
+There is 1 Akuntsu UD treebank:
 
-  * [Akuntsu-A](../treebanks/aqz_a/index.html)
-  * [Akuntsu-B](../treebanks/aqz_b/index.html)
+  * [Akuntsu](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT)
 

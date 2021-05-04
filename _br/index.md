@@ -15,7 +15,7 @@ is given to the first token, and subsequent tokens are given the part of speech 
 
 The most important tokenisation factor is with the words traditionally described as *inflected* or *conjugated* prepositions. Here
 we analyse them as contractions of prepositions and pronouns. For example, *dit* is tokenised as a multiword token
-constructed from *da* "to" and *it* "you". 
+constructed from *da* "to" and *it* "you".
 
 ## Morphology
 
@@ -25,7 +25,7 @@ constructed from *da* "to" and *it* "you".
 
 Some comments on various parts of speech:
 
-* [X]() Used for parts of multiword tokens that do not necessary have a part of speech of their own. 
+* [X]() Used for parts of multiword tokens that do not necessary have a part of speech of their own.
 * [ADP]() Breton has prepositions. Those words often called *inflected* or *conjugated* prepositions are analysed as multiword tokens (see above).
 * [PART]() Not used, words described in the literature as *verbal particles* are tagged as [AUX]().
 
@@ -50,31 +50,29 @@ Verbal "particles":
 * *na*
 * *ra*
 
----
-
 ### Features
 
 Inherent:
 
-* Gender (in NOUNs)
-* NumType
-* Polarity
-* Case
-* PronType
-* Reflex
-* Poss
-* Person
-* Gender[psor]
+* [Gender]() (in NOUNs)
+* [NumType]()
+* [Polarity]()
+* [Case]()
+* [PronType]()
+* [Reflex]()
+* [Poss]()
+* [Person]()
+* [Gender[psor]]()
 
 Inflectional:
 
-* Aspect
-* Degree
-* Gender (other than NOUNs)
-* Mood
-* Number
-* Tense
-* VerbForm
+* [Aspect]()
+* [Degree]()
+* [Gender]() (other than NOUNs)
+* [Mood]()
+* [Number]()
+* [Tense]()
+* [VerbForm]()
 
 
 ## Syntax
@@ -82,19 +80,14 @@ Inflectional:
 
 The following relation subtypes are used in the Breton data:
 
-* [acl:focus]()
 * [acl:relcl]()
-* [advmod:neg]()
 * [aux:pass]() Auxiliary verb used in the construction of the passive
 * [flat:name]()
 * [nmod:gen]() Nominal modification with genitive meaning using Celtic-style conjunctive genitive
 * [nmod:poss]()
-* [nsubj:appos]()
 * [nsubj:cop]()
 * [obl:agent]() An oblique introduced with *gant* "with" that expresses the agent in a passive construction
-* [obl:x]()
 
----
 
 ## Treebanks
 

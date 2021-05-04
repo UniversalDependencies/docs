@@ -2,15 +2,20 @@
 layout: relation
 title: 'iobj'
 shortdef: 'indirect object'
+udver: '2'
 ---
 
-The indirect object of a VP is the noun phrase which is the object of the verb.
+The indirect object of a verb is one of the two object nominals in a ditransitive clause.
+With a verb of giving, the indirect object denotes the recipient/goal and the direct
+object denotes the theme.
 
-<pre><code class="language-sdparse">Hắn tặng cô ấy hoa 。
-dobj(tặng, hoa)
-iobj(tặng, cô)
+~~~ sdparse
+Hắn tặng cô ấy hoa 。 \n He gave her flowers .
 nsubj(tặng, Hắn)
+iobj(tặng, cô)
 det:pmod(cô, ấy)
+obj(tặng, hoa)
 punct(tặng, 。)
-</code></pre>
+~~~
+
 <!-- Interlanguage links updated Čt lis 12 09:43:28 CET 2020 -->

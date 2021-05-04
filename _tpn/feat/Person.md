@@ -14,6 +14,7 @@ udver: '2'
   <td><a href="">3</a></td>
   <td><a href="">12</a></td>
   <td><a href="">13</a></td>
+  <td><a href="">23</a></td>
   
   
  
@@ -60,7 +61,7 @@ Second person
 
 ### <a name="3">`3`</a>: Person=2
 
-Second person
+Third person
 
 #### Examples
 
@@ -84,11 +85,29 @@ Second person
 
 ### <a name="13">`13`</a>: Person=13
 
-Second person
+First person exclusive.
+When the object is third person, both arguments of a transitive verb are cross-referenced on the predicate. 
+The patient is always cross-referenced by the relational of non-contiguity.
 
 #### Examples
 
 * _<b>ore-so</b>&nbsp;_ “(s)he/it/they go”
+
+  
+</tr>
+</table>
+
+
+### <a name="23">`23`</a>: Person=23
+
+Second person.
+
+When the object is third person, both arguments of a transitive verb are cross-referenced on the predicate. 
+The patient is always cross-referenced by the relational of non-contiguity.
+
+#### Examples
+
+* _<b>pe-s-apirõ</b>&nbsp;_ “you mourn her/him/it/them”
 
   
 </tr>

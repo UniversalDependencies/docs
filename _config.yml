@@ -316,6 +316,20 @@ collections:
     output: true
   ojp:
     output: true
+  qfn:
+    output: true
+  mpu:
+    output: true
+  lij:
+    output: true
+  nds:
+    output: true
+  bej:
+    output: true
+  ha:
+    output: true
+  hyw:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 

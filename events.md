@@ -1,6 +1,6 @@
 ---
 layout: base
-title: 'UD v2'
+title: 'UD Events'
 udver: '2'
 ---
 

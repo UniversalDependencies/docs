@@ -10,9 +10,9 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Spec">Spec</a></td>
   <td><a href="#Def">Def</a></td>
+  <td><a href="#Ind">Ind</a></td>
 </tr>
 </table>
-
 
 In Naija, articles carry a `Definite` feature.
 
@@ -27,4 +27,10 @@ In Naija, articles carry a `Definite` feature.
 #### Example
 
 *  _you dey do two tins at <b>di</b> same time_ "you are doing two things at the same time"
+
+### <a name="Ind">`Ind`</a>: indefinite
+
+#### Example
+
+*  _noting dey wrong wit being <b>a</b> queen_ "nothing's wrong with being a queen"
 <!-- Interlanguage links updated Čt lis 12 09:43:01 CET 2020 -->
