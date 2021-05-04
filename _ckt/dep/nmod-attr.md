@@ -15,7 +15,7 @@ nsubj(reindeer.herders, We)
 nmod:attr(ӄорагынрэтыԓьыморэ, Омваамвыԓьыморэ)
 nmod:attr(reindeer.herders, Amguema-ATTR)
 punct(ӄорагынрэтыԓьыморэ, .-4)
-punct(reindeer.herders, .-8)
+punct(reindeer.herders, .-9)
 ~~~
 
 “We are reindeer herders from Amguema.”
