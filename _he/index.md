@@ -49,7 +49,7 @@ udver: '2'
 * [Definite](): The Definiteness feature has two values: Def and Cons, for definite and for construct states respectively. The feature Definite=cons marks nouns ([NOUN]()), determiners ([DET]()), verbs ([VERB]()), numerals ([NUM]()) and adjectives ([ADJ]()) that act as the first token in a construct-state construction (מבנה סמיכות), and they mark the resulting construct-state NP as inherently definite (i.e., not requiring an overt ה definite marker). Definite=Def also marks instances of pronouns which express similarity (e.g. אנשים במרכז אותה תנועה).
 * [Gender](): All nominal words ([NOUN](), [PROPN]() and [PRON]()) in Hebrew have a grammatical Gender: either feminine (Fem) or masculine (Masc). The following parts of speech also inflect for Gender because they must agree with nouns: [ADJ](), [VERB](), [AUX]() and [NUM](). Nouns and verbs which are underspecified for gender are marked Gender=Fem,Masc.
 * [HebBinyan](): Hebrew has a morphological system of root+binyan conjugation that conveys agency (simple, intensive or causative) and voice (active passive, or middle/reflexive) in verbs ([VERB]()).
-* HebExistential: marked as true if given to existential verbs ([VERB]()) יש ‘there is’ or אין ‘there is no’ or past/future inflections such as היה ‘there was’ תהיה ‘there will be’.
+* [HebExistential](): marked as `Yes` if given to existential verbs ([VERB]()) יש ‘there is’ or אין ‘there is no’ or past/future inflections such as היה ‘there was’ תהיה ‘there will be’.
 * [Mood](): the value Imp marks imperative verb forms.
 * [Number](): The values for Number can be: sing (singular), plur (plural), dual for a couple (שנתיים  ‘two years’, as opposed to שנים ‘years’), or dual,plur for items which only have a dual form and no plural form (hence it is not necessarily two - could be more, e.g. שוליים ‘margins’).  The following parts of speech also inflect for number (either singular or plural) because they must agree with nouns:  [ADJ](), [DET](), [VERB](), [AUX](), where dual and plural inflect the same way.
 * [Person](): Finite verbs ([VERB]() or [AUX]()) and pronouns ([PRON]()) are marked for 1, 2 or 3 person in the case of  first, second and third person respectively. Verbs are also marked , or Person=1,2,3 when on the case of  lemmas unspecified for person (for example in present tense).
@@ -99,7 +99,7 @@ Non-verbal Clauses
   * [flat:name]() for the second part of a complex name
   * [mark:q]() for yes-no interrogative clause markers (either matrix or subordinate).
   * [nmod:poss]() for a covert pronoun in a genitive construction
-  * [nsubj]():[cop]() for the subject of a copular sentence. The copular verb in Hebrew is optional. Consequently, the only way to retrieve copular sentences is by their only obligatory element, which is the subject.
+  * [nsubj:cop]() for the subject of a copular sentence. The copular verb in Hebrew is optional. Consequently, the only way to retrieve copular sentences is by their only obligatory element, which is the subject.
 
 * The following main types are not used alone and must be subtyped: [compound](), [flat]()
 * The following relation types are not used in Hebrew at all: [clf](), [expl]().
