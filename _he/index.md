@@ -50,7 +50,6 @@ udver: '2'
 * [Gender](): All nominal words ([NOUN](), [PROPN]() and [PRON]()) in Hebrew have a grammatical Gender: either feminine (Fem) or masculine (Masc). The following parts of speech also inflect for Gender because they must agree with nouns: [ADJ](), [VERB](), [AUX]() and [NUM](). Nouns and verbs which are underspecified for gender are marked Gender=Fem,Masc.
 * [HebBinyan](): Hebrew has a morphological system of root+binyan conjugation that conveys agency (simple, intensive or causative) and voice (active passive, or middle/reflexive) in verbs ([VERB]()).
 * HebExistential: marked as true if given to existential verbs ([VERB]()) יש ‘there is’ or אין ‘there is no’ or past/future inflections such as היה ‘there was’ תהיה ‘there will be’.
-* HebSource: This feature can mark any category and accepts the values  ConvUncertainHead or ConvUncertainLabel to indicate that the head or label information for this token, respectively, is based on unreliable information detected in the automatic conversion process.
 * [Mood](): the value Imp marks imperative verb forms.
 * [Number](): The values for Number can be: sing (singular), plur (plural), dual for a couple (שנתיים  ‘two years’, as opposed to שנים ‘years’), or dual,plur for items which only have a dual form and no plural form (hence it is not necessarily two - could be more, e.g. שוליים ‘margins’).  The following parts of speech also inflect for number (either singular or plural) because they must agree with nouns:  [ADJ](), [DET](), [VERB](), [AUX](), where dual and plural inflect the same way.
 * [Person](): Finite verbs ([VERB]() or [AUX]()) and pronouns ([PRON]()) are marked for 1, 2 or 3 person in the case of  first, second and third person respectively. Verbs are also marked , or Person=1,2,3 when on the case of  lemmas unspecified for person (for example in present tense).
@@ -62,6 +61,7 @@ udver: '2'
 * [VerbForm](): marks a verb if it is either in infinitive form (inf) or participle (part).
 * [VerbType]()=Mod is given to modal auxiliaries ([AUX]()) and VerbType=Cop is given to copular auxiliaries.
 * [Voice](): can be either for active (act), passive (pass) or unaccusative (mid) verb forms.
+* HebSource: This feature can mark any category and accepts the values ConvUncertainHead or ConvUncertainLabel to indicate that the head or label information for this token, respectively, is based on unreliable information detected in the automatic conversion process. In UD v2.8, this attribute is moved from FEATS to MISC.
 
 ## Syntax
 
