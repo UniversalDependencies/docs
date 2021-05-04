@@ -47,8 +47,8 @@ udver: '2'
 * [Abbr](): The Abbreviation feature (Abbr=Yes) may be marked for [NOUN]() (ח”כ ‘Knesset member’), [PROPN]() (ארה”ב ‘United States’), [ADJ]() (ז”ל ‘R.I.P’) and [ADP]() (ע”י ‘by’).
 * [Case](): has possible values of Acc, Gen and Tem. Gen and Acc mark accusative and genitive prepositions ([ADP]()) respectively. When a pronoun is segmented into its basic lemmas (e.g. אותנו -> את_ + _אנחנו) the Case=Acc feature accompanies the case marker את. Temporal case (Tem) in Hebrew appears in temporal subordination כש ‘when (+clause)’, whose POS tag is [SCONJ]().
 * [Definite](): The Definiteness feature has two values: Def and Cons, for definite and for construct states respectively. The feature Definite=cons marks nouns ([NOUN]()), determiners ([DET]()), verbs ([VERB]()), numerals ([NUM]()) and adjectives ([ADJ]()) that act as the first token in a construct-state construction (מבנה סמיכות), and they mark the resulting construct-state NP as inherently definite (i.e., not requiring an overt ה definite marker). Definite=Def also marks instances of pronouns which express similarity (e.g. אנשים במרכז אותה תנועה).
-* [Gender]('http://universaldependencies.org/u/feat/Gender.html'): All nominal words ([NOUN](), [PROPN]() and [PRON]()) in Hebrew have a grammatical Gender: either feminine (Fem) or masculine (Masc). The following parts of speech also inflect for Gender because they must agree with nouns: [ADJ](), [VERB](), [AUX]() and [NUM](). Nouns and verbs which are underspecified for gender are marked Gender=Fem,Masc.
-* HebBinyan: Hebrew has a morphological system of root+binyan conjugation that conveys agency (simple, intensive or causative) and voice (active passive, or middle/reflexive) in verbs ([VERB]()).
+* [Gender](): All nominal words ([NOUN](), [PROPN]() and [PRON]()) in Hebrew have a grammatical Gender: either feminine (Fem) or masculine (Masc). The following parts of speech also inflect for Gender because they must agree with nouns: [ADJ](), [VERB](), [AUX]() and [NUM](). Nouns and verbs which are underspecified for gender are marked Gender=Fem,Masc.
+* [HebBinyan](): Hebrew has a morphological system of root+binyan conjugation that conveys agency (simple, intensive or causative) and voice (active passive, or middle/reflexive) in verbs ([VERB]()).
 * HebExistential: marked as true if given to existential verbs ([VERB]()) יש ‘there is’ or אין ‘there is no’ or past/future inflections such as היה ‘there was’ תהיה ‘there will be’.
 * HebSource: This feature can mark any category and accepts the values  ConvUncertainHead or ConvUncertainLabel to indicate that the head or label information for this token, respectively, is based on unreliable information detected in the automatic conversion process.
 * [Mood](): the value Imp marks imperative verb forms.
@@ -96,7 +96,6 @@ Non-verbal Clauses
   * [case:gen]() for a genitive case marker
   * [compound:affix]() non-standalone yet orthographically separated lemmas, largely originated as loan affixes (אנטי וירוס ‘antivirus’) but not only (e.g. בלתי הפיך ‘irreversible’).
   * [compound:smixut]() for a noun modifying another noun in a construct state.
-  * [det:def]() for a definite determiner
   * [flat:name]() for the second part of a complex name
   * [mark:q]() for yes-no interrogative clause markers (either matrix or subordinate).
   * [nmod:poss]() for a covert pronoun in a genitive construction
