@@ -5,7 +5,7 @@ shortdef: 'genitive case marker'
 udver: '2'
 ---
 
-The `case:gen` subtype of the [case]() relation is used for the genitive case marker של / _šl_.
+The `case:gen` subtype of the [case]() relation is used for the genitive case marker של / _šel_.
 
 ~~~ sdparse
 אמא של_ _הוא עוד חיה . \n mother of he still live .
