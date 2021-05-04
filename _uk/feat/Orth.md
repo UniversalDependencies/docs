@@ -9,4 +9,4 @@ udver: '2'
 
 #### Examples
 
-* _<b>мудрости<b>_ = alternative genitive form of _мудрість_ “wisdom”, the standard form is _мудрості_
+* _<b>мудрости</b>_ = alternative genitive form of _мудрість_ “wisdom”, the standard form is _мудрості_
