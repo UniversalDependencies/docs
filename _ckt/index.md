@@ -42,8 +42,8 @@ because they provide the clause with tense-aspect-modality features.
 
 The following are copulae:
 
-* *итык*: 
-* *вак*: 
+* *итык*:
+* *вак*:
 
 ### Features
 
@@ -57,12 +57,12 @@ The following relation subtypes are used in the Chukchi data:
 * [acl:relat]() Adnominal clause with *relational* morphology
 * [advmod:emph]() Used for discourse "particles" such as *-ым* and *-а/-э*
 * [aux:neg]() Negative auxiliary
-* [flat:foreign]() Used for chunks of text that are in Russian. 
+* [flat:foreign]() Used for chunks of text that are in Russian.
 * [flat:name]() Proper noun chunks without internal structure.
 * [nmod:attr]() Nominal modifier of a noun phrase with attributive morphology
 * [nmod:poss]() Nominal modifier of a noun phrase with possessive morphology
 * [nmod:relat]() A noun phrase modifying another noun phrase with *relational* meaning, see Dunn (1999: §8.7)
-* [parataxis:speech]() Parataxis where the "dependent" is reported speech.
+* [parataxis:rep]() Parataxis where the "dependent" is reported speech.
 
 ---
 
