@@ -23,11 +23,17 @@ udver: '2'
 
 ### Features
 
+#### Nouns
 * Most nouns are not inflected for number, although animate nouns can be, in this case they are annotated with `Number=Plur`.
+
+#### Verbs 
 * Transitive verbs have polypersonal agreement which is indicated through layered features `Person[obj]`, `Number[obj]`, `Person[subj]`, `Number[subj]`.
 * Finite verbs have `Aspect` but no `Tense`. 
   * The imperfective or incompletive is annotated with `Aspect=Imp`.
   * The perfective or completive is annotated with `Aspect=Perf`.
+* Incorporated movement is indicated through the feature `Movement`:
+  * Movement away from is marked with `Movement=Abl`, this is the morph *-eʼ-*
+  * Movement towards is marked with `Movement=Lat`, this is the morph *-l-*
 
 ## Syntax
 
