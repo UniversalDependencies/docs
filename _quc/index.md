@@ -41,6 +41,9 @@ udver: '2'
 * Incorporated movement is indicated through the feature `Movement`:
   * Movement away from is marked with `Movement=Abl`, this is the morph *-eʼ-*
   * Movement towards is marked with `Movement=Lat`, this is the morph *-l-*
+* There are two principle valency changing processes: Passive and antipassive. Both produce verbs with only set B agreement.
+  * In the passive, annotated with `Voice=Pass`, the object is promoted to subject and the subject is demoted to oblique.
+  * In the antipassive, annotated with `Voice=Antip`, the subject agreement is maintained and the object is demoted to oblique.
 
 ## Syntax
 
