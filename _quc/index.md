@@ -17,13 +17,17 @@ udver: '2'
 ### Tags
 
 * Kʼicheʼ uses 15 out of the 17 universal tags, unused are `X` and `SYM`.
+  * [ADJ]() [ADP]() [ADV]() [AUX]() [CCONJ]() [INTJ]() [NOUN]() [NUM]() [PART]() [PRON]() [PROPN]() [PUNCT]() [SCONJ]() [VERB]()
 * Kʼicheʼ has at minimum 2 auxiliaries, *tajin* for the progressive aspect and *ta(j)* for irrealis.
 * There are are several verbal nouns, which are annotated with `VerbForm=Inf` and a verbal adjective *-inaq* annotated with `VerbForm=Part`.
 
 ### Features
 
-* Most nouns are not inflected for number, although animate nouns can be.
+* Most nouns are not inflected for number, although animate nouns can be, in this case they are annotated with `Number=Plur`.
 * Transitive verbs have polypersonal agreement which is indicated through layered features `Person[obj]`, `Number[obj]`, `Person[subj]`, `Number[subj]`.
+* Finite verbs have `Aspect` but no `Tense`. 
+  * The imperfective or incompletive is annotated with `Aspect=Imp`.
+  * The perfective or completive is annotated with `Aspect=Perf`.
 
 ## Syntax
 
