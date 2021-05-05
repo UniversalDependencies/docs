@@ -20,9 +20,9 @@ udver: '2'
   * [ADJ]() [ADP]() [ADV]() [AUX]() [CCONJ]() [INTJ]() [NOUN]() [NUM]() [PART]() [PRON]() [PROPN]() [PUNCT]() [SCONJ]() [VERB]()
 * Kʼicheʼ has at minimum 2 auxiliaries, *tajin* for the progressive aspect and *ta(j)* for irrealis.
 * There are are several verbal nouns, which are annotated with `VerbForm=Inf` and a verbal adjective *-inaq* annotated with `VerbForm=Part`.
+* There are two prepositions in Kʼicheʼ, *chi* and *pa*.
 
 ### Features
-
 
 #### Nouns
 * Most nouns are not inflected for number, although animate nouns can be, in this case they are annotated with `Number=Plur`.
