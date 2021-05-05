@@ -23,8 +23,15 @@ udver: '2'
 
 ### Features
 
+
 #### Nouns
 * Most nouns are not inflected for number, although animate nouns can be, in this case they are annotated with `Number=Plur`.
+* There is a subset of nouns used relationally, these are called relational nouns and are used where adpositions would be used in other languages.
+  * They are marked with the feature `NounType=Relat`.
+  * The lemmas are: *ech*,  *ukʼ*,  *umal*,  *wach*,  *ibʼ*,  *onojel*,  *wiʼ*,  *pam*,  *ij*,  *xeʼ*,  *xoʼl*,  *tukel*,  *tzalaj*,  *naqaj*.
+  * Relational nouns are also used for:
+    * Reflexive, *ibʼ*
+    * Introducing the agent in a passive, *umal* 
 
 #### Verbs 
 * Transitive verbs have polypersonal agreement which is indicated through layered features `Person[obj]`, `Number[obj]`, `Person[subj]`, `Number[subj]`.
@@ -41,9 +48,10 @@ Kʼicheʼ has ergative-absolutive alignment and verbs have polypersonal agreemen
 set B subject marker. The subject of a transitive verb takes a set A subject marker and a set B object marker. If the verb is 
 passivised or antipassivised then the only remaining marker is a set B marker.
 
-There are no copulas but there is an existential word *kʼo* meaning something like "existent".
+There are no copulas but there is an existential word *kʼo* meaning something like "existent". Another non-verbal predicate
+is *rajawaxik* "necessary".
 
-## Language-specific relations
+### Language-specific relations
 
 * [`dep:ss`]() Used for status suffixes
 * [`dep:agr`]() Used for clitic agreement markers 
