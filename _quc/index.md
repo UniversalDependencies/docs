@@ -27,7 +27,7 @@ udver: '2'
 #### Nouns
 * Most nouns are not inflected for number, although animate nouns can be, in this case they are annotated with `Number=Plur`.
 * There is a subset of nouns used relationally, these are called relational nouns and are used where adpositions would be used in other languages.
-  * They are marked with the feature `NounType=Relat`.
+  * They are marked with the feature `[NounType]()=Relat`.
   * The lemmas are: *ech*,  *ukʼ*,  *umal*,  *wach*,  *ibʼ*,  *onojel*,  *wiʼ*,  *pam*,  *ij*,  *xeʼ*,  *xoʼl*,  *tukel*,  *tzalaj*,  *naqaj*.
   * Relational nouns are also used for:
     * Reflexive, *ibʼ*
@@ -44,6 +44,10 @@ udver: '2'
 * There are two principle valency changing processes: Passive and antipassive. Both produce verbs with only set B agreement.
   * In the passive, annotated with `Voice=Pass`, the object is promoted to subject and the subject is demoted to oblique.
   * In the antipassive, annotated with `Voice=Antip`, the subject agreement is maintained and the object is demoted to oblique.
+
+#### Adverbs
+
+* In Kʼicheʼ there is a class of words derived from intransitive verbs called directionals. These are classified as [ADV]() and have the feature `[AdvType]()=Dir`
 
 ## Syntax
 
