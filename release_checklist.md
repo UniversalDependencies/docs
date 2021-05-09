@@ -126,6 +126,8 @@ if a larger treebank of the same language exists and has training data.
 10. If this is one language of a multi-lingual parallel treebank, make sure that corresponding sentences in all languages end up in the same part (training/dev/test)!
 11. It is desirable that the data split of one treebank is stable across UD releases, i.e. a sentence that was in training data in release N is not moved to dev or test data in release N+1. We want to prevent accidental misguided results of experiments where people take a parser trained on UD 1.1 and apply it to test data from UD 1.2. In exceptional cases some restructuring that violates this rule can be approved by the release team, provided there are good reasons for it. (One obviously valid reason is that a growing treebank exceeds the 20K-word threshold and is split to training-test.) If at all possible, please try to plan ahead and minimize the need for re-splits in the future.
 
+See also [this e-mail thread](https://cl.lingfil.uu.se/pipermail/ud/2015-November/000095.html).
+
 ## The README file
 
 The `README` file is distributed together with the data and summarizes information about the treebank for its users;
