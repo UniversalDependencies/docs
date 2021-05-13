@@ -7,13 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Thai-PUD: POS Tags: `DET`
 
 There are 1 `DET` lemmas (7%), 25 `DET` types (1%) and 1040 `DET` tokens (5%).
-Out of 15 observed tags, the rank of `DET` is: 6 in number of lemmas, 10 in number of types and 5 in number of tokens.
+Out of 15 observed tags, the rank of `DET` is: 6 in number of lemmas, 10 in number of types and 6 in number of tokens.
 
 The 10 most frequent `DET` lemmas: _
 
 The 10 most frequent `DET` types:  ที่, นี้, ซึ่ง, นั้น, หลาย, ทั้ง, อีก, ทุก, บาง, ทั้งหมด
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 6052, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 4977, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 3134, <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> 1495, <tt><a href="th_pud-pos-DET.html">DET</a></tt> 1040, <tt><a href="th_pud-pos-PART.html">PART</a></tt> 1009, <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> 969, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 951, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 683, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 592, <tt><a href="th_pud-pos-NUM.html">NUM</a></tt> 581, <tt><a href="th_pud-pos-AUX.html">AUX</a></tt> 432, <tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> 272, <tt><a href="th_pud-pos-SYM.html">SYM</a></tt> 134, <tt><a href="th_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: _ (<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 6052, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 4361, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 3134, <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> 1495, <tt><a href="th_pud-pos-AUX.html">AUX</a></tt> 1449, <tt><a href="th_pud-pos-DET.html">DET</a></tt> 1040, <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> 969, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 951, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 683, <tt><a href="th_pud-pos-PART.html">PART</a></tt> 608, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 592, <tt><a href="th_pud-pos-NUM.html">NUM</a></tt> 581, <tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> 272, <tt><a href="th_pud-pos-SYM.html">SYM</a></tt> 134, <tt><a href="th_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  ที่ (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 495, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 126, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 102, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 30), นี้ (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 135, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 23), ซึ่ง (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 91, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 22), นั้น (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 74, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 20), หลาย (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 56, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 1), ทั้ง (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 34, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 2, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 2), อีก (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 30, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 20, <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> 1), ทั้งหมด (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 15, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 1, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 1), อัน (<tt><a href="th_pud-pos-DET.html">DET</a></tt> 13, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 2, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 1), ผู้ (<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 110, <tt><a href="th_pud-pos-DET.html">DET</a></tt> 11)
 
@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  ที่ (<tt><a href="th_pud-pos-DET.ht
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 25.000000 (the average of all parts of speech is 286.933333).
+The form / lemma ratio of `DET` is 25.000000 (the average of all parts of speech is 287.266667).
 
 The 1st highest number of forms (25) was observed with the lemma “_”: คนละ, ซึ่ง, ดังกล่าว, ทั้ง, ทั้งหมด, ที่, ทุก, นั่น, นั้น, นั้นเอง, นี่, นี้, บาง, ผู้, ละ, หลาย, อะ, อะไร, อัน, อีก, เกือบ, เดอะ, แต่ละ, ใด, ไหน.
 
@@ -72,7 +72,7 @@ Examples: ที่, นี้, ซึ่ง, นั้น, หลาย, ทั
 
 ## Relations
 
-`DET` nodes are attached to their parents using 11 different relations: <tt><a href="th_pud-dep-nsubj.html">nsubj</a></tt> (428; 41% instances), <tt><a href="th_pud-dep-det.html">det</a></tt> (407; 39% instances), <tt><a href="th_pud-dep-obj.html">obj</a></tt> (90; 9% instances), <tt><a href="th_pud-dep-obl-tmod.html">obl:tmod</a></tt> (46; 4% instances), <tt><a href="th_pud-dep-advmod.html">advmod</a></tt> (38; 4% instances), <tt><a href="th_pud-dep-cc-preconj.html">cc:preconj</a></tt> (15; 1% instances), <tt><a href="th_pud-dep-det-predet.html">det:predet</a></tt> (6; 1% instances), <tt><a href="th_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (6; 1% instances), <tt><a href="th_pud-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="th_pud-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="th_pud-dep-mark.html">mark</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 9 different relations: <tt><a href="th_pud-dep-nsubj.html">nsubj</a></tt> (429; 41% instances), <tt><a href="th_pud-dep-det.html">det</a></tt> (413; 40% instances), <tt><a href="th_pud-dep-obj.html">obj</a></tt> (90; 9% instances), <tt><a href="th_pud-dep-obl-tmod.html">obl:tmod</a></tt> (46; 4% instances), <tt><a href="th_pud-dep-advmod.html">advmod</a></tt> (38; 4% instances), <tt><a href="th_pud-dep-cc-preconj.html">cc:preconj</a></tt> (15; 1% instances), <tt><a href="th_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (6; 1% instances), <tt><a href="th_pud-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="th_pud-dep-conj.html">conj</a></tt> (1; 0% instances)
 
 Parents of `DET` nodes belong to 9 different parts of speech: <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (492; 47% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (426; 41% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> (94; 9% instances), <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="th_pud-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="th_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
 
@@ -82,7 +82,7 @@ Parents of `DET` nodes belong to 9 different parts of speech: <tt><a href="th_pu
 
 The highest child degree of a `DET` node is 1.
 
-Children of `DET` nodes are attached using 5 different relations: <tt><a href="th_pud-dep-dep.html">dep</a></tt> (2; 33% instances), <tt><a href="th_pud-dep-compound.html">compound</a></tt> (1; 17% instances), <tt><a href="th_pud-dep-conj.html">conj</a></tt> (1; 17% instances), <tt><a href="th_pud-dep-det-predet.html">det:predet</a></tt> (1; 17% instances), <tt><a href="th_pud-dep-fixed.html">fixed</a></tt> (1; 17% instances)
+Children of `DET` nodes are attached using 5 different relations: <tt><a href="th_pud-dep-dep.html">dep</a></tt> (2; 33% instances), <tt><a href="th_pud-dep-compound.html">compound</a></tt> (1; 17% instances), <tt><a href="th_pud-dep-conj.html">conj</a></tt> (1; 17% instances), <tt><a href="th_pud-dep-det.html">det</a></tt> (1; 17% instances), <tt><a href="th_pud-dep-fixed.html">fixed</a></tt> (1; 17% instances)
 
 Children of `DET` nodes belong to 4 different parts of speech: <tt><a href="th_pud-pos-DET.html">DET</a></tt> (2; 33% instances), <tt><a href="th_pud-pos-SYM.html">SYM</a></tt> (2; 33% instances), <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> (1; 17% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (1; 17% instances)
 

@@ -6,36 +6,33 @@ udver: '2'
 
 ## Treebank Statistics: UD_Dutch-LassySmall: POS Tags: `PUNCT`
 
-There are 20 `PUNCT` lemmas (0%), 20 `PUNCT` types (0%) and 14663 `PUNCT` tokens (15%).
-Out of 16 observed tags, the rank of `PUNCT` is: 14 in number of lemmas, 15 in number of types and 2 in number of tokens.
+There are 21 `PUNCT` lemmas (0%), 21 `PUNCT` types (0%) and 14671 `PUNCT` tokens (15%).
+Out of 16 observed tags, the rank of `PUNCT` is: 13 in number of lemmas, 15 in number of types and 2 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>., ,, ), (, :, -, ", «, », ;</em>
 
 The 10 most frequent `PUNCT` types:  <em>., ,, ), (, :, -, ", «, », ;</em>
 
-The 10 most frequent ambiguous lemmas: <em>.</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 4003, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 1), <em>,</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 3659, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 18), <em>)</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 1690, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 23, <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> 4), <em>(</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 1689, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 25, <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> 4), <em>:</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 674, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 3, <tt><a href="nl_lassysmall-pos-X.html">X</a></tt> 2), <em>-</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 635, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 11), <em>"</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 624, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 2), <em>«</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 605, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 2), <em>»</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 596, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 11), <em>'</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 156, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>.</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 4006, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 1), <em>,</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 3661, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 18), <em>)</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 1691, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 27), <em>(</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 1690, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 29), <em>:</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 674, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 5), <em>-</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 635, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 11), <em>"</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 624, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 2), <em>«</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 605, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 2), <em>»</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 596, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 11), <em>'</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 156, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>.</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 4003, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 1), <em>,</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 3659, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 18), <em>)</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 1690, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 23, <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> 4), <em>(</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 1689, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 25, <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> 4), <em>:</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 674, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 3, <tt><a href="nl_lassysmall-pos-X.html">X</a></tt> 2), <em>-</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 635, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 11), <em>"</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 624, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 2), <em>«</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 605, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 2), <em>»</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 596, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 11), <em>'</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 156, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>.</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 4006, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 1), <em>,</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 3661, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 18), <em>)</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 1691, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 27), <em>(</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 1690, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 29), <em>:</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 674, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 5), <em>-</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 635, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 11), <em>"</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 624, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 2), <em>«</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 605, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 2), <em>»</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 596, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 11), <em>'</em> (<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 156, <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 2)
 
 
 * <em>.</em>
-  * <tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 4003: <em>Deze moesten ze halen om niet uit het Vlaamse parlement te verdwijnen <b>.</b></em>
+  * <tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 4006: <em>Deze moesten ze halen om niet uit het Vlaamse parlement te verdwijnen <b>.</b></em>
   * <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 1: <em><b>.</b></em>
 * <em>,</em>
-  * <tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 3659: <em>Jong N-VA <b>,</b> de jongerenafdeling van de N-VA</em>
+  * <tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 3661: <em>Jong N-VA <b>,</b> de jongerenafdeling van de N-VA</em>
   * <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 18: <em>« Piwo <b>,</b> het houten paard » 1943-1946</em>
 * <em>)</em>
-  * <tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 1690: <em>Bart De Wever : algemeen voorzitter ( sinds 23 oktober 2004 <b>)</b></em>
-  * <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 23: <em>mr. L.W.S.A.L.B. ( Lousewies <b>)</b> van der Laan , fractievoorzitter</em>
-  * <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> 4: <em>Utrecht - mr. B. ( Boele <b>)</b> Staal</em>
+  * <tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 1691: <em>Bart De Wever : algemeen voorzitter ( sinds 23 oktober 2004 <b>)</b></em>
+  * <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 27: <em>mr. L.W.S.A.L.B. ( Lousewies <b>)</b> van der Laan , fractievoorzitter</em>
 * <em>(</em>
-  * <tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 1689: <em>Bart De Wever : algemeen voorzitter <b>(</b> sinds 23 oktober 2004 )</em>
-  * <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 25: <em>mr. L.W.S.A.L.B. <b>(</b> Lousewies ) van der Laan , fractievoorzitter</em>
-  * <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> 4: <em>Utrecht - mr. B. <b>(</b> Boele ) Staal</em>
+  * <tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 1690: <em>Bart De Wever : algemeen voorzitter <b>(</b> sinds 23 oktober 2004 )</em>
+  * <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 29: <em>mr. L.W.S.A.L.B. <b>(</b> Lousewies ) van der Laan , fractievoorzitter</em>
 * <em>:</em>
   * <tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 674: <em>Bart De Wever <b>:</b> algemeen voorzitter ( sinds 23 oktober 2004 )</em>
-  * <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 3: <em>« Immigratie <b>:</b> De tijdbom tikt » , Uitgeverij TYR , 1996 .</em>
-  * <tt><a href="nl_lassysmall-pos-X.html">X</a></tt> 2: <em>« Perspective <b>:</b> Madame Récamier by David »</em>
+  * <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 5: <em>« Immigratie <b>:</b> De tijdbom tikt » , Uitgeverij TYR , 1996 .</em>
 * <em>-</em>
   * <tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> 635: <em><b>-</b> Antwoord aan Paula D'Hondt » , Uitgeverij TYR , 1991 .</em>
   * <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> 11: <em>sp.a <b>-</b> spirit : 22</em>
@@ -54,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>.</em> (<tt><a href="nl_lassysmall-po
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.174542).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.161533).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -67,11 +64,11 @@ The 3rd highest number of forms (1) was observed with the lemma “"”: <em>"</
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="nl_lassysmall-dep-punct.html">punct</a></tt> (14663; 100% instances)
+`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="nl_lassysmall-dep-punct.html">punct</a></tt> (14671; 100% instances)
 
-Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (4447; 30% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (3483; 24% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (3376; 23% instances), <tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (1273; 9% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (633; 4% instances), <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> (456; 3% instances), <tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (453; 3% instances), <tt><a href="nl_lassysmall-pos-X.html">X</a></tt> (258; 2% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (124; 1% instances), <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (72; 0% instances), <tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt> (42; 0% instances), <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> (13; 0% instances), <tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> (10; 0% instances), <tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="nl_lassysmall-pos-INTJ.html">INTJ</a></tt> (4; 0% instances)
+Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (4458; 30% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (3446; 23% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (3392; 23% instances), <tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (1273; 9% instances), <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt> (712; 5% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (621; 4% instances), <tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (448; 3% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (118; 1% instances), <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (68; 0% instances), <tt><a href="nl_lassysmall-pos-X.html">X</a></tt> (50; 0% instances), <tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt> (42; 0% instances), <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> (10; 0% instances), <tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> (10; 0% instances), <tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="nl_lassysmall-pos-INTJ.html">INTJ</a></tt> (4; 0% instances)
 
-14660 (100%) `PUNCT` nodes are leaves.
+14668 (100%) `PUNCT` nodes are leaves.
 
 0 (0%) `PUNCT` nodes have one child.
 

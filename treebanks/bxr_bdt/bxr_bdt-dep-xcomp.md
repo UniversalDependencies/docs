@@ -24,10 +24,10 @@ The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 2 4 xcomp	color:blue
 1	Би	би	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	хэлээб	хэ	VERB	_	Mood=Des|Number=Sing|Person=1|Voice=Rcp	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	2	punct	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
 4	ерэхэ	ерэ	VERB	_	_	2	xcomp	_	_
 5	шадалтай	шадалтай	ADJ	_	_	4	aux	_	_
-6	гэжэ	гэ	VERB	_	VerbForm=Coverb	4	discourse	_	SpaceAfter=No
+6	гэжэ	гэ	VERB	_	VerbForm=Inf	4	discourse	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -41,7 +41,7 @@ The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 2 7 xcomp	color:blue
 1	Шүлэгүүдыень	шүлэг	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	2	nmod	_	_
 2	уншаад	уншаад	ADJ	_	_	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	2	punct	_	_
+3	,	,	PUNCT	_	_	4	punct	_	_
 4	һанаа	һанаа	CCONJ	_	_	2	cc	_	_
 5	бодолдоо	бодол	NOUN	_	Case=Dat|Reflex=Yes	6	nmod	_	_
 6	абаад	абаад	ADJ	_	_	2	conj	_	_

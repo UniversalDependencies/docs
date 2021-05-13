@@ -29,7 +29,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Loc` (44922; 12% of non-empty `Case`): <em>roce, době, případě, letech, straně, světě, trhu, oblasti, místě, základě</em>
 * `Nom` (87979; 24% of non-empty `Case`): <em>ministr, vláda, předseda, lidé, společnost, ředitel, prezident, firma, trenér, zákon</em>
 * `Voc` (109; 0% of non-empty `Case`): <em>pane, čtenáři, pánové, doktore, bože, generále, Soudruhu, děti, kolego, paní</em>
-* `EMPTY` (9451): <em>Kč, s, r, p, m, tel, c, č, km, b</em>
+* `EMPTY` (9393): <em>Kč, s, r, p, m, tel, c, č, km, b</em>
 
 <table>
   <tr><th>Paradigm <i>vláda</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>

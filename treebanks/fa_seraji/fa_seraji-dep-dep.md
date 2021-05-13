@@ -28,7 +28,7 @@ The following 29 pairs of parts of speech are connected with `dep`: <tt><a href=
 4	از	از	ADP	P	_	5	case	_	_
 5	شهادت	_	NOUN	N_SING	Number=Sing	3	nmod	_	_
 6	علی	علی	NOUN	N_SING	Number=Sing	5	nmod:poss	_	SpaceAfter=No
-7	)	)	PUNCT	DELM	_	6	punct	_	_
+7	)	)	PUNCT	DELM	_	8	punct	_	_
 8	ع	ع	NOUN	N_SING	Number=Sing	6	dep	_	_
 9	(	(	PUNCT	DELM	_	6	punct	_	SpaceAfter=No
 10	به	به	ADP	P	_	12	case	_	_
@@ -47,7 +47,7 @@ The following 29 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 5 dep	color:blue
 1	حسینی	حسینی	NOUN	N_SING	Number=Sing	0	root	_	SpaceAfter=No
-2	:	:	PUNCT	DELM	_	1	punct	_	_
+2	:	:	PUNCT	DELM	_	4	punct	_	_
 3	خجالت	_	NOUN	N_SING	Number=Sing	4	compound:lvc	_	_
 4	نمی‌کشیم	_	VERB	V_PRS	Number=Plur|Person=1|Polarity=Neg|Tense=Pres	1	parataxis	_	_
 5	خانم	خانم	NOUN	N_SING	Number=Sing	4	dep	_	SpaceAfter=No

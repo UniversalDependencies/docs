@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Kiril Simov, Petya Osenova, Martin Popel.
 
 Repository: [UD_Bulgarian-BTB](https://github.com/UniversalDependencies/UD_Bulgarian-BTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbg_btb27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbg_btb28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -110,7 +110,7 @@ We also would like to thank our annotator and validator to the treebank UD versi
 </ul>
 
 <ul>
-<li>This corpus contains 777 types of words that contain both letters and punctuation. Examples: г., лв., млн., в., по-късно, г-н, млрд., д-р, св., по-малко, ген., по-голяма, ч., по-добре, проф., ИТАР-ТАСС, най-много, с., т.г., т.нар., м​и​н​и​с​т​ъ​р​-​п​р​е​д​с​е​д​а​т​е​л​я​т, най-вече, най-добрият, най-сетне, по-голямата, по-голямо, хил., най-често, по-големи, м.г., най-големите, най-добре, най-добрите, най-малко, по-голям, ул., др., най-голям, по-силно, ст., Йоан-Павел, м​и​н​и​с​т​ъ​р​-​п​р​е​д​с​е​д​а​т​е​л​я, най-големи, най-после, по-бързо, по-рано, по-скоро, полк., чл., GSM-оператор</li>
+<li>This corpus contains 777 types of words that contain both letters and punctuation. Examples: г., лв., млн., в., по-късно, г-н, млрд., д-р, св., по-малко, ген., по-голяма, ч., по-добре, проф., ИТАР-ТАСС, най-много, с., т.г., т.нар., министър-председателят, най-вече, най-добрият, най-сетне, по-голямата, по-голямо, хил., най-често, по-големи, м.г., най-големите, най-добре, най-добрите, най-малко, по-голям, ул., др., най-голям, по-силно, ст., Йоан-Павел, министър-председателя, най-големи, най-после, по-бързо, по-рано, по-скоро, полк., чл., GSM-оператор</li>
 </ul>
 
 <ul>

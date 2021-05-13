@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-FQB: POS Tags: `ADJ`
 
 There are 360 `ADJ` lemmas (10%), 447 `ADJ` types (10%) and 1511 `ADJ` tokens (6%).
-Out of 17 observed tags, the rank of `ADJ` is: 4 in number of lemmas, 4 in number of types and 9 in number of tokens.
+Out of 16 observed tags, the rank of `ADJ` is: 4 in number of lemmas, 4 in number of types and 9 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>quel, premier, américain, grand, mondial, principal, célèbre, haut, humain, national</em>
 
@@ -19,23 +19,23 @@ The 10 most frequent ambiguous types:  <em>quel</em> (<tt><a href="fr_fqb-pos-DE
 
 
 * <em>quel</em>
-  * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 92: <em>Dans <b>quel</b> pays trouve -t -on les concours buzkhashi ?</em>
+  * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 92: <em>Dans <b>quel</b> pays trouve -t-on les concours buzkhashi ?</em>
   * <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 1: <em>Des travaux ont été réalisé dans ma résidence principale , je sais que le crédit d' impôt est limité , <b>quel</b> est le montant maximum ?</em>
 * <em>quelle</em>
-  * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 208: <em>Pour <b>quelle</b> compagnie Marty McKewon travaille -t -il ?</em>
+  * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 208: <em>Pour <b>quelle</b> compagnie Marty McKewon travaille -t-il ?</em>
   * <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 1: <em>De toutes les planètes , <b>quelle</b> est celle ayant le champ magnétique le plus puissant ?</em>
 * <em>Quels</em>
   * <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 19: <em><b>Quels</b> sont vos droits si vous êtes intermittent de le spectacle ?</em>
-  * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 3: <em><b>Quels</b> sites touristiques y a -t -il à Reims ?</em>
+  * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 3: <em><b>Quels</b> sites touristiques y a -t-il à Reims ?</em>
   * <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 2: <em><b>Quels</b> étaient les trois bateaux de Christophe Colomb ?</em>
 * <em>célèbre</em>
   * <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 17: <em>Où se trouve la <b>célèbre</b> salle d' opéra La Scala ?</em>
-  * <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 2: <em>Quand <b>célèbre</b> -t -on la Saint-Patrick ?</em>
+  * <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 2: <em>Quand <b>célèbre</b> -t-on la Saint-Patrick ?</em>
 * <em>quelles</em>
   * <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 3: <em>Je suis invalide , <b>quelles</b> sont les conséquences pour mes impôts ?</em>
   * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 2: <em>Je viens de déménager , <b>quelles</b> démarches dois -je effectuer auprès de les services fiscaux ?</em>
 * <em>autre</em>
-  * <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 10: <em>Quel <b>autre</b> nom donne -t -on à la " maladie de la vache folle " ?</em>
+  * <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 10: <em>Quel <b>autre</b> nom donne -t-on à la " maladie de la vache folle " ?</em>
   * <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 2: <em>Comment passer d' un espace personnel à un <b>autre</b> ?</em>
 * <em>anglais</em>
   * <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 6: <em>Que représente l' acronyme <b>anglais</b> " hazmat " ?</em>
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>quel</em> (<tt><a href="fr_fqb-pos-DE
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.241667 (the average of all parts of speech is 1.162933).
+The form / lemma ratio of `ADJ` is 1.241667 (the average of all parts of speech is 1.163777).
 
 The 1st highest number of forms (4) was observed with the lemma “américain”: <em>américain, américaine, américaines, américains</em>.
 

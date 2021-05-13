@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 `VERB` tokens may have the following values of `Voice`:
 
 * `Pass` (1651; 100% of non-empty `Voice`): <em>feita, feito, feitas, considerado, considerada, aprovada, lançado, acompanhado, apresentada, tomada</em>
-* `EMPTY` (19128): <em>tem, há, disse, pode, fazer, diz, ter, é, deve, está</em>
+* `EMPTY` (19126): <em>tem, há, disse, pode, fazer, diz, ter, é, deve, está</em>
 
 `Voice` seems to be **lexical feature** of `VERB`. 100% lemmas (583) occur only with one value of `Voice`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 `ADJ` tokens may have the following values of `Voice`:
 
 * `Pass` (1; 100% of non-empty `Voice`): <em>recomendados</em>
-* `EMPTY` (11330): <em>maior, primeiro, grande, primeira, novo, nova, mesmo, grandes, nacional, melhor</em>
+* `EMPTY` (11337): <em>maior, primeiro, grande, primeira, novo, nova, mesmo, grandes, nacional, melhor</em>
 
 ### `NOUN`
 
@@ -47,5 +47,5 @@ The most frequent other feature values with which `NOUN` and `Voice` co-occurred
 `NOUN` tokens may have the following values of `Voice`:
 
 * `Pass` (1; 100% of non-empty `Voice`): <em>contentores</em>
-* `EMPTY` (41309): <em>anos, presidente, ano, dia, país, pessoas, estado, parte, tempo, contos</em>
+* `EMPTY` (41320): <em>anos, presidente, ano, dia, país, pessoas, estado, parte, tempo, contos</em>
 

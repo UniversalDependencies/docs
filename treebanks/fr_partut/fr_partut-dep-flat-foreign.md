@@ -54,7 +54,7 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 29	développement	développement	NOUN	S	Gender=Masc|Number=Sing	26	nmod	_	_
 30	de	de	ADP	E	_	32	case	_	_
 31	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	32	det	_	_
-32	potentialités	potentialités	NOUN	S	Gender=Fem|Number=Plur	29	nmod	_	_
+32	potentialités	potentialité	NOUN	S	Gender=Fem|Number=Plur	29	nmod	_	_
 33	en	en	ADP	E	_	34	case	_	_
 34	matière	matière	NOUN	S	Gender=Fem|Number=Sing	23	obl	_	_
 35	d'	de	ADP	E	_	36	case	_	SpaceAfter=No

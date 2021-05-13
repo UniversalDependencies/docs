@@ -57,5 +57,5 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 `PRON` tokens may have the following values of `NumType`:
 
 * `Card` (1; 100% of non-empty `NumType`): <em>2000</em>
-* `EMPTY` (1657): <em>qui, -il, qu', -ce, se, que, -elle, -on, -je, je</em>
+* `EMPTY` (1657): <em>qui, qu', -ce, -t-il, se, que, -il, -je, -t-elle, je</em>
 

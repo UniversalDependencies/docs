@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 * `Fem` (149; 37% of non-empty `Gender`): <em>women, Madam, Mrs, policymakers, wellbeing, additionality, agriculture, bardolatry, codependency, cynicism</em>
 * `Masc` (254; 63% of non-empty `Gender`): <em>Mr, man, men, king, crisis, mycelium, child, children, basis, genius</em>
-* `EMPTY` (10167): <em>work, Commission, time, Parliament, President, member, countries, people, license, growth</em>
+* `EMPTY` (10168): <em>work, Commission, time, Parliament, President, member, countries, people, license, growth</em>
 
 `Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (127) occur only with one value of `Gender`.
 
@@ -61,7 +61,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 * `Fem` (2; 50% of non-empty `Gender`): <em>innovative, sentimentale</em>
 * `Masc` (2; 50% of non-empty `Gender`): <em>Perdu, necessary</em>
-* `EMPTY` (3836): <em>other, first, new, European, economic, financial, social, many, important, own</em>
+* `EMPTY` (3835): <em>other, first, new, European, economic, financial, social, many, important, own</em>
 
 ## Relations with Agreement in `Gender`
 

@@ -24,5 +24,5 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (3570; 79% of non-empty `Definite`): <em>die, de, dien</em>
 * `Ind` (971; 21% of non-empty `Definite`): <em>'n</em>
-* `EMPTY` (800): <em>hierdie, alle, meer, al, baie, daardie, dié, paar, sommige, sodanige</em>
+* `EMPTY` (801): <em>hierdie, alle, meer, al, baie, daardie, dié, paar, sommige, sodanige</em>
 

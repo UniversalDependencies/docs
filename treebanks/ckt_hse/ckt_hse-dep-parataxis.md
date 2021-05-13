@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Chukchi-HSE: Relations: `parataxis`
 
 This relation is universal.
-There are 1 language-specific subtypes of `parataxis`: <tt><a href="ckt_hse-dep-parataxis-speech.html">parataxis:speech</a></tt>.
+There are 1 language-specific subtypes of `parataxis`: <tt><a href="ckt_hse-dep-parataxis-rep.html">parataxis:rep</a></tt>.
 
 324 nodes (5%) are attached to their parents as `parataxis`.
 

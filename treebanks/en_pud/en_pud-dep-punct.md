@@ -80,7 +80,7 @@ The following 11 pairs of parts of speech are connected with `punct`: <tt><a hre
 8	up	up	ADV	RB	_	12	advmod	12:advmod	_
 9	near	near	ADP	IN	_	12	case	12:case	_
 10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_
-11	Canadian	canadian	ADJ	JJ	Degree=Pos	12	amod	12:amod	Proper=True
+11	Canadian	Canadian	ADJ	JJ	Degree=Pos	12	amod	12:amod	Proper=True
 12	border	border	NOUN	NN	Number=Sing	5	nmod	5:nmod:near	SpaceAfter=No
 13	.	.	PUNCT	.	_	5	punct	5:punct	_
 

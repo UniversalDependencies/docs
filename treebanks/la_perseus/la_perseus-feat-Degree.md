@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-268 tokens (1%) have a non-empty value of `Degree`.
-187 types (2%) occur at least once with a non-empty value of `Degree`.
-108 lemmas (2%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (199; 1% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (64; 0% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (5; 0% instances).
+267 tokens (1%) have a non-empty value of `Degree`.
+186 types (2%) occur at least once with a non-empty value of `Degree`.
+107 lemmas (2%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 3 part-of-speech tags: <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (199; 1% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (64; 0% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (4; 0% instances).
 
 ### `ADJ`
 
@@ -64,16 +64,15 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `VERB`
 
-5 <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Degree`.
+4 <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="la_perseus-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="la_perseus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="la_perseus-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (5; 100%), <tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4; 80%), <tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 80%), <tt><a href="la_perseus-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (3; 60%), <tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3; 60%), <tt><a href="la_perseus-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (3; 60%), <tt><a href="la_perseus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3; 60%).
+The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4; 100%), <tt><a href="la_perseus-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="la_perseus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="la_perseus-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (4; 100%), <tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3; 75%), <tt><a href="la_perseus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3; 75%).
 
 `VERB` tokens may have the following values of `Degree`:
 
-* `Cmp` (2; 40% of non-empty `Degree`): <em>audentior, doctior</em>
-* `Pos` (2; 40% of non-empty `Degree`): <em>apsenti, natus</em>
-* `Sup` (1; 20% of non-empty `Degree`): <em>sanctissimis</em>
-* `EMPTY` (6155): <em>est, esse, habet, inquit, erat, dixit, fuit, vidi, coepit, dedit</em>
+* `Cmp` (2; 50% of non-empty `Degree`): <em>audentior, doctior</em>
+* `Pos` (2; 50% of non-empty `Degree`): <em>apsenti, natus</em>
+* `EMPTY` (6160): <em>est, esse, habet, inquit, erat, dixit, fuit, vidi, coepit, dedit</em>
 
 ## Relations with Agreement in `Degree`
 

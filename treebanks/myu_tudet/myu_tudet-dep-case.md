@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-36 nodes (13%) are attached to their parents as `case`.
+71 nodes (14%) are attached to their parents as `case`.
 
-36 instances of `case` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.11111111111111.
+71 instances of `case` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.19718309859155.
 
-The following 2 pairs of parts of speech are connected with `case`: <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-ADP.html">ADP</a></tt> (35; 97% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-ADP.html">ADP</a></tt> (1; 3% instances).
+The following 5 pairs of parts of speech are connected with `case`: <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-ADP.html">ADP</a></tt> (62; 87% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-ADP.html">ADP</a></tt> (5; 7% instances), <tt><a href="myu_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="myu_tudet-pos-ADP.html">ADP</a></tt> (2; 3% instances), <tt><a href="myu_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="myu_tudet-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="myu_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="myu_tudet-pos-ADP.html">ADP</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -46,6 +46,21 @@ The following 2 pairs of parts of speech are connected with `case`: <tt><a href=
 8	kuka	kuka	X	x	_	7	dep	7:dep	_
 9	o'e	'e	VERB	v	Evident=Nfh	7	dep	7:dep	_
 10	ade	ade	PRON	pro	_	7	nmod	7:nmod	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 case	color:blue
+1	wida	wida	NOUN	n	_	3	obl	3:obl	_
+2	ayacat	ayacat	NOUN	n	_	3	obl	3:obl	_
+3	o’yaoka	aoka	VERB	vt	Aspect=Perf|Person=3	0	root	0:root	_
+4	Katõ	Katõ	PROPN	pn	_	3	obl	3:obl	_
+5	be	be	ADP	pp	_	4	case	4:case	_
 
 ~~~
 

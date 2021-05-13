@@ -25,10 +25,10 @@ The following 8 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 1	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
 2	न्याय	न्याय	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
 3	_	मी	PRON	_	Number=Plur|Person=1	5	nmod:poss	_	_
-4	_	चा	ADP	_	Case=Obl	3	case	_	_
+4	_	चा	ADP	_	Case=Abs	3	case	_	_
 5	हातात	हात	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	0	root	_	_
 6	असतो	असणे	AUX	_	Aspect=Imp|Gender=Masc|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	5	punct	_	_
+7	,	,	PUNCT	_	_	8	punct	_	_
 8	भीमा	भीमा	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	5	vocative	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	5	punct	_	SpaceAfter=No
 10	"	"	PUNCT	_	_	5	punct	_	_
@@ -42,11 +42,11 @@ The following 8 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 nmod:poss	color:blue
-1	या	हा	DET	_	Case=Obl|Distance=Prox|PronType=Dem	2	det	_	_
-2	_	प्रांत	NOUN	_	Case=Obl|Gender=Masc|Number=Sing	4	nmod:poss	_	_
+1	या	हा	DET	_	Case=Abs|Deixis=Prox|PronType=Dem	2	det	_	_
+2	_	प्रांत	NOUN	_	Case=Abs|Gender=Masc|Number=Sing	4	nmod:poss	_	_
 3	_	चा	ADP	_	Gender=Masc|Number=Sing	2	case	_	_
 4	राजा	राजा	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
-5	_	दौऱ्य	NOUN	_	Case=Obl|Gender=Masc|Number=Sing	7	obl	_	_
+5	_	दौऱ्य	NOUN	_	Case=Abs|Gender=Masc|Number=Sing	7	obl	_	_
 6	_	वर	ADP	_	_	5	case	_	_
 7	निघाला	निघणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 8	होता	असणे	AUX	_	Gender=Masc|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	SpaceAfter=No
@@ -62,7 +62,7 @@ The following 8 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 4	fgColor:white
 # visual-style 4 2 nmod:poss	color:blue
 1	न्यायाधीशाने	न्यायाधीश	NOUN	_	Case=Erg|Gender=Masc|Number=Sing	5	nsubj	_	_
-2	_	भीम	PROPN	_	Case=Obl|Gender=Masc|Number=Sing	4	nmod:poss	_	_
+2	_	भीम	PROPN	_	Case=Abs|Gender=Masc|Number=Sing	4	nmod:poss	_	_
 3	_	चा	ADP	_	Gender=Fem|Number=Sing	2	case	_	_
 4	मालकी	मालकी	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
 5	काढून	काढणे	VERB	_	Aspect=Perf|VerbForm=Conv	0	root	_	_

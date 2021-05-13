@@ -11,7 +11,7 @@ It occurs with 1 different values: `Card`.
 
 8491 tokens (3%) have a non-empty value of `NumType`.
 1697 types (6%) occur at least once with a non-empty value of `NumType`.
-1 lemmas (0%) occur at least once with a non-empty value of `NumType`.
+5 lemmas (0%) occur at least once with a non-empty value of `NumType`.
 The feature is used with 1 part-of-speech tags: <tt><a href="pt_gsd-pos-NUM.html">NUM</a></tt> (8491; 3% instances).
 
 ### `NUM`

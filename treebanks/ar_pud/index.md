@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Luma Ateyah, Martin Popel, Daniel Zeman, Nizar Habash, Dima Taji.
 
 Repository: [UD_Arabic-PUD](https://github.com/UniversalDependencies/UD_Arabic-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udar_pud27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udar_pud28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 3.0
 
@@ -90,7 +90,7 @@ employ ten-fold cross-validation.
 
 ## Relations
 
-[acl](ar_pud-dep-acl.html) – [acl:relcl](ar_pud-dep-acl-relcl.html) – [advcl](ar_pud-dep-advcl.html) – [advmod](ar_pud-dep-advmod.html) – [amod](ar_pud-dep-amod.html) – [appos](ar_pud-dep-appos.html) – [aux](ar_pud-dep-aux.html) – [case](ar_pud-dep-case.html) – [cc](ar_pud-dep-cc.html) – [cc:preconj](ar_pud-dep-cc-preconj.html) – [ccomp](ar_pud-dep-ccomp.html) – [compound](ar_pud-dep-compound.html) – [compound:prt](ar_pud-dep-compound-prt.html) – [conj](ar_pud-dep-conj.html) – [cop](ar_pud-dep-cop.html) – [csubj](ar_pud-dep-csubj.html) – [csubj:pass](ar_pud-dep-csubj-pass.html) – [dep](ar_pud-dep-dep.html) – [det](ar_pud-dep-det.html) – [det:predet](ar_pud-dep-det-predet.html) – [discourse](ar_pud-dep-discourse.html) – [dislocated](ar_pud-dep-dislocated.html) – [expl](ar_pud-dep-expl.html) – [fixed](ar_pud-dep-fixed.html) – [flat](ar_pud-dep-flat.html) – [goeswith](ar_pud-dep-goeswith.html) – [iobj](ar_pud-dep-iobj.html) – [mark](ar_pud-dep-mark.html) – [nmod](ar_pud-dep-nmod.html) – [nmod:gmod](ar_pud-dep-nmod-gmod.html) – [nsubj](ar_pud-dep-nsubj.html) – [nsubj:pass](ar_pud-dep-nsubj-pass.html) – [nummod](ar_pud-dep-nummod.html) – [obj](ar_pud-dep-obj.html) – [obl](ar_pud-dep-obl.html) – [obl:tmod](ar_pud-dep-obl-tmod.html) – [orphan](ar_pud-dep-orphan.html) – [parataxis](ar_pud-dep-parataxis.html) – [punct](ar_pud-dep-punct.html) – [root](ar_pud-dep-root.html) – [vocative](ar_pud-dep-vocative.html) – [xcomp](ar_pud-dep-xcomp.html)
+[acl](ar_pud-dep-acl.html) – [acl:relcl](ar_pud-dep-acl-relcl.html) – [advcl](ar_pud-dep-advcl.html) – [advmod](ar_pud-dep-advmod.html) – [amod](ar_pud-dep-amod.html) – [appos](ar_pud-dep-appos.html) – [aux](ar_pud-dep-aux.html) – [case](ar_pud-dep-case.html) – [cc](ar_pud-dep-cc.html) – [cc:preconj](ar_pud-dep-cc-preconj.html) – [ccomp](ar_pud-dep-ccomp.html) – [compound](ar_pud-dep-compound.html) – [compound:prt](ar_pud-dep-compound-prt.html) – [conj](ar_pud-dep-conj.html) – [cop](ar_pud-dep-cop.html) – [csubj](ar_pud-dep-csubj.html) – [csubj:pass](ar_pud-dep-csubj-pass.html) – [dep](ar_pud-dep-dep.html) – [det](ar_pud-dep-det.html) – [discourse](ar_pud-dep-discourse.html) – [dislocated](ar_pud-dep-dislocated.html) – [expl](ar_pud-dep-expl.html) – [fixed](ar_pud-dep-fixed.html) – [flat](ar_pud-dep-flat.html) – [goeswith](ar_pud-dep-goeswith.html) – [iobj](ar_pud-dep-iobj.html) – [mark](ar_pud-dep-mark.html) – [nmod](ar_pud-dep-nmod.html) – [nsubj](ar_pud-dep-nsubj.html) – [nsubj:pass](ar_pud-dep-nsubj-pass.html) – [nummod](ar_pud-dep-nummod.html) – [obj](ar_pud-dep-obj.html) – [obl](ar_pud-dep-obl.html) – [obl:tmod](ar_pud-dep-obl-tmod.html) – [orphan](ar_pud-dep-orphan.html) – [parataxis](ar_pud-dep-parataxis.html) – [punct](ar_pud-dep-punct.html) – [root](ar_pud-dep-root.html) – [vocative](ar_pud-dep-vocative.html) – [xcomp](ar_pud-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -623,6 +623,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>nmod:gmod</a>, <a>nsubj:pass</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 6 relation subtypes: <a>acl:relcl</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>nsubj:pass</a>, <a>obl:tmod</a></li>
 <li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
 </ul>

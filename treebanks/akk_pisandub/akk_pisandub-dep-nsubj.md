@@ -46,7 +46,7 @@ The following 5 pairs of parts of speech are connected with `nsubj`: <tt><a href
 5	UN-MEŠ	nišu	NOUN	_	_	4	nmod	_	_
 6	-šú	-šu	PRON	_	_	5	det	_	_
 7	ep-še-e-ti	epištu	NOUN	_	_	15	obj	_	_
-8	-ša	-ša	NOUN	_	_	7	det	_	_
+8	-ša	-ša	PRON	_	_	7	det	_	_
 9	dam-qa-a-ta	damqu	ADJ	_	_	7	amod	_	_
 10	ù	u	CCONJ	_	_	11	cc	_	_
 11	lìb-ba	libbu	NOUN	_	_	7	conj	_	_

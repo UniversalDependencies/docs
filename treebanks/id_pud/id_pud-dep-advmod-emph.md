@@ -43,7 +43,7 @@ The following 8 pairs of parts of speech are connected with `advmod:emph`: <tt><
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 advmod:emph	color:blue
-1	Charles	Charles	PROPN	_	_	7	nsubj:pass	_	SpaceAfter=No
+1	Charles	Charles	PROPN	_	_	9	nsubj:pass	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	meski	meski	SCONJ	_	_	7	mark	_	_
 4	pun	pun	PART	_	_	3	advmod:emph	_	_

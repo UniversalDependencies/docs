@@ -161,7 +161,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 * `Fem` (927; 22% of non-empty `Gender`): <em>была</em>
 * `Masc` (1520; 37% of non-empty `Gender`): <em>был, бывший, бывшем</em>
 * `Neut` (1694; 41% of non-empty `Gender`): <em>было</em>
-* `EMPTY` (5528): <em>бы, были, будет, быть, будут, есть, будем, буду, будучи, будь</em>
+* `EMPTY` (5544): <em>бы, были, будет, быть, будут, есть, будем, буду, будучи, будь</em>
 
 <table>
   <tr><th>Paradigm <i>быть</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>

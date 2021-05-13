@@ -40,7 +40,7 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 16	rdečečopek	rdečečopek	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	12	vocative	_	SpaceAfter=No|Dep=0|Rel=Root
 17	,	,	PUNCT	Z	_	18	punct	_	Dep=0|Rel=Root
 18	kajne	kajne	PART	Q	_	12	discourse	_	SpaceAfter=No|Dep=0|Rel=Root
-19	?	?	PUNCT	Z	_	12	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+19	?	?	PUNCT	Z	_	12	punct	_	Dep=0|Rel=Root
 
 ~~~
 

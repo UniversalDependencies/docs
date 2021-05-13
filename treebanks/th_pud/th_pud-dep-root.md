@@ -27,9 +27,9 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 3	เรื่อง	_	NOUN	NN	_	1	compound	_	SpaceAfter=No
 4	การแต่ง	_	VERB	VV	_	3	compound	_	SpaceAfter=No
 5	กาย	_	NOUN	NN	_	4	obj	_	SpaceAfter=No
-6	อาจ	_	VERB	MD	_	7	aux	_	SpaceAfter=No
+6	อาจ	_	AUX	MD	_	7	aux	_	SpaceAfter=No
 7	ล้า	_	VERB	VV	_	0	root	_	SpaceAfter=No
-8	สมัย	_	NOUN	NN	_	7	advmod	_	SpaceAfter=No
+8	สมัย	_	NOUN	NN	_	7	obl	_	SpaceAfter=No
 9	ไป	_	PART	RP	_	7	compound:prt	_	SpaceAfter=No
 10	หน่อย	_	ADV	RB	_	7	advmod	_	_
 
@@ -50,7 +50,7 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 6	สุด	_	ADV	RB	_	5	advmod	_	SpaceAfter=No
 7	ตาม	_	ADP	IN	_	10	case	_	SpaceAfter=No
 8	ที่	_	DET	WDT	_	10	nsubj	_	SpaceAfter=No
-9	ได้รับ	_	VERB	MD	Voice=Pass	10	aux	_	SpaceAfter=No
+9	ได้รับ	_	AUX	MD	Voice=Pass	10	aux	_	SpaceAfter=No
 10	อนุญาต	_	VERB	VV	_	5	xcomp	_	_
 
 ~~~
@@ -62,7 +62,7 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 3 root	color:blue
-1	นี่	_	PRON	PRD	_	3	advmod	_	SpaceAfter=No
+1	นี่	_	PRON	PRD	_	3	obl	_	SpaceAfter=No
 2	มัน	_	PRON	PRP	Person=3	3	nsubj	_	SpaceAfter=No
 3	น่าสยดสยอง	_	ADJ	JJ	_	0	root	_	SpaceAfter=No
 4	ทีเดียว	_	ADV	RB	_	3	advmod	_	_

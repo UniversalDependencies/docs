@@ -11,7 +11,7 @@ This relation is universal.
 11897 nodes (10%) are attached to their parents as `case`.
 
 11484 instances of `case` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.27897789358662.
+Average distance between parent and child is 1.27628813986719.
 
 The following 12 pairs of parts of speech are connected with `case`: <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (7312; 61% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (2885; 24% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (1328; 11% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (159; 1% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (126; 1% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (33; 0% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (27; 0% instances), <tt><a href="id_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (16; 0% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
@@ -66,7 +66,7 @@ The following 12 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 6 7 case	color:blue
 1	Semakin	semakin	ADV	D--	_	6	mark	_	MorphInd=^semakin<d>_D--$
 2	jauh	jauh	ADJ	ASP	Degree=Pos|Number=Sing	1	amod	_	SpaceAfter=No|MorphInd=^jauh<a>_ASP$
-3	,	,	PUNCT	Z--	_	6	punct	_	MorphInd=^,<z>_Z--$
+3	,	,	PUNCT	Z--	_	1	punct	_	MorphInd=^,<z>_Z--$
 4	maka	maka	DET	S--	PronType=Rel	5	det	_	MorphInd=^maka<s>_S--$
 5	warnanya	warna	NOUN	NSD+PS3	Number=Sing|Number[psor]=Sing|Person[psor]=3	6	nsubj	_	MorphInd=^warna<n>_NSD+dia<p>_PS3$
 6	berubah	berubah	VERB	VSA	Number=Sing|Voice=Act	0	root	_	MorphInd=^ber+ubah<v>_VSA$

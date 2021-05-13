@@ -86,7 +86,7 @@ The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 20	homines	homo	NOUN	n|n|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur	33	nsubj	_	_
 21	qui	qui	PRON	p|p|-|p|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	23	nsubj	_	_
 22	hoc	hic	DET	p|p|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	23	obj	_	_
-23	scirent	scio	VERB	v|v|3|p|i|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	20	acl:relcl	_	SpaceAfter=No
+23	scirent	scio	VERB	v|v|3|p|i|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	acl:relcl	_	SpaceAfter=No
 24	,	,	PUNCT	Punc	_	29	punct	_	_
 25	quomodo	quomodo	SCONJ	d|d|-|-|-|-|-|-|-|-	_	29	mark	_	_
 26	ipse	ipse	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	27	det	_	_
@@ -94,9 +94,9 @@ The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 28	iam	iam	ADV	d|d|-|-|-|-|-|-|-|-	_	29	advmod	_	_
 29	dixerat	dico	VERB	v|v|3|s|l|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	22	ccomp	_	_
 30	ut	ut	SCONJ	c|c|-|-|-|-|-|-|-|-	_	33	mark	_	_
-31	suis	suus	DET	a|a|3|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	32	nmod	_	_
+31	suis	suus	DET	a|a|3|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	32	nmod	_	_
 32	presentia	praesentia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	33	obl	_	_
-33	venire	uenio	VERB	v|v|3|p|i|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	16	ccomp	_	SpaceAfter=No
+33	venire	uenio	VERB	v|v|3|p|i|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	ccomp	_	SpaceAfter=No
 34	.	.	PUNCT	Punc	_	15	punct	_	_
 
 ~~~

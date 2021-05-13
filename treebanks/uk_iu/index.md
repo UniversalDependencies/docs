@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 The following people have contributed to making this treebank part of UD: Natalia Kotsyba, Bohdan Moskalevskyi, Mykhailo Romanenko.
 
 Repository: [UD_Ukrainian-IU](https://github.com/UniversalDependencies/UD_Ukrainian-IU)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uduk_iu27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uduk_iu28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -915,24 +915,9 @@ We thank Prof. Larysa Masenko for guidance.
 <ul>
   <li><a>PunctType</a>
     <ul>
-      <li>Bull
-        <ul>
-          <li>PUNCT: —, ✓, -</li>
-        </ul>
-      </li>
       <li>Dash
         <ul>
-          <li>PUNCT: —, -, –, --</li>
-        </ul>
-      </li>
-      <li>Hyph
-        <ul>
-          <li>PUNCT: -, –, −</li>
-        </ul>
-      </li>
-      <li>Ndash
-        <ul>
-          <li>PUNCT: -, –, —</li>
+          <li>PUNCT: —, -, –, --, −, ✓</li>
         </ul>
       </li>
       <li>Quot
@@ -1004,7 +989,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Gen (5)</li>
       <li>VERB-Fin--NOUN-Acc (2217)</li>
       <li>VERB-Fin--NOUN-Dat (118)</li>
-      <li>VERB-Fin--NOUN-Gen (547)</li>
+      <li>VERB-Fin--NOUN-Gen (546)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(близько) (1)</li>
       <li>VERB-Fin--NOUN-Ins (20)</li>
       <li>VERB-Fin--NOUN-Nom (3)</li>

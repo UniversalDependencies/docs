@@ -29,7 +29,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 1 <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=2</tt> (1; 100%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1; 100%), <tt><a href="koi_uh-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=2</tt> (1; 100%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1; 100%), <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `VERB` tokens may have the following values of `Polarity`:
 

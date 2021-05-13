@@ -80,15 +80,15 @@ Parents of `X` nodes belong to 7 different parts of speech: <tt><a href="kmr_mg-
 
 146 (98%) `X` nodes are leaves.
 
-2 (1%) `X` nodes have one child.
+0 (0%) `X` nodes have one child.
 
-0 (0%) `X` nodes have two children.
+2 (1%) `X` nodes have two children.
 
 1 (1%) `X` nodes have three or more children.
 
-The highest child degree of a `X` node is 3.
+The highest child degree of a `X` node is 5.
 
-Children of `X` nodes are attached using 4 different relations: <tt><a href="kmr_mg-dep-flat.html">flat</a></tt> (2; 40% instances), <tt><a href="kmr_mg-dep-nmod.html">nmod</a></tt> (1; 20% instances), <tt><a href="kmr_mg-dep-nmod-poss.html">nmod:poss</a></tt> (1; 20% instances), <tt><a href="kmr_mg-dep-punct.html">punct</a></tt> (1; 20% instances)
+Children of `X` nodes are attached using 4 different relations: <tt><a href="kmr_mg-dep-punct.html">punct</a></tt> (5; 56% instances), <tt><a href="kmr_mg-dep-flat.html">flat</a></tt> (2; 22% instances), <tt><a href="kmr_mg-dep-nmod.html">nmod</a></tt> (1; 11% instances), <tt><a href="kmr_mg-dep-nmod-poss.html">nmod:poss</a></tt> (1; 11% instances)
 
-Children of `X` nodes belong to 4 different parts of speech: <tt><a href="kmr_mg-pos-X.html">X</a></tt> (2; 40% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (1; 20% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (1; 20% instances), <tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (1; 20% instances)
+Children of `X` nodes belong to 4 different parts of speech: <tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (5; 56% instances), <tt><a href="kmr_mg-pos-X.html">X</a></tt> (2; 22% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (1; 11% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (1; 11% instances)
 

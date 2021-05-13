@@ -22,7 +22,7 @@ The 10 most frequent ambiguous types:  <em>tefek</em> (<tt><a href="tr_boun-pos-
   * <tt><a href="tr_boun-pos-X.html">X</a></tt> 2: <em>Çok ufak <b>tefek</b> .</em>
   * <tt><a href="tr_boun-pos-ADJ.html">ADJ</a></tt> 1: <em>Keser , testere elinden düşmediği gibi , her ay da ufak <b>tefek</b> noksanlar için de birkaç lira harcıyordu .</em>
 * <em>ol</em>
-  * <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> 3: <em>Bu meseller yoluyla ulaşPoteceğimiz bir husus şu olPotir : Dua bir " <b>ol</b> ! " buyruğuyla ortaya çıkıyor , fakat bu " <b>ol</b> ! " buyruğu gelişigüzel bir " <b>ol</b> ! " demekten ibaret bulunmuyor .</em>
+  * <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> 3: <em>Bu meseller yoluyla ulaşabileceğimiz bir husus şu olabilir : Dua bir " <b>ol</b> ! " buyruğuyla ortaya çıkıyor , fakat bu " <b>ol</b> ! " buyruğu gelişigüzel bir " <b>ol</b> ! " demekten ibaret bulunmuyor .</em>
   * <tt><a href="tr_boun-pos-VERB.html">VERB</a></tt> 2: <em>Kırmızı ; " Cesur <b>ol</b> ! "</em>
   * <tt><a href="tr_boun-pos-X.html">X</a></tt> 1: <em>Ne kadar annelerimiz us lu bir çocuk <b>ol</b> diye bizi hep tembihlesede uymadık ve belki zaman zaman beklide sıklıkla o tadı tattık .</em>
 * <em>çamaşır</em>
@@ -35,7 +35,7 @@ The 10 most frequent ambiguous types:  <em>tefek</em> (<tt><a href="tr_boun-pos-
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 2.389211).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 2.389386).
 
 The 1st highest number of forms (1) was observed with the lemma “Işıl”: <em>ışıl</em>.
 
@@ -43,9 +43,9 @@ The 2nd highest number of forms (1) was observed with the lemma “batıl”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “nişanlı”: <em>nişanlım</em>.
 
-`X` occurs with 8 features: <tt><a href="tr_boun-feat-Echo.html">Echo</a></tt> (10; 71% instances), <tt><a href="tr_boun-feat-Number.html">Number</a></tt> (4; 29% instances), <tt><a href="tr_boun-feat-Person.html">Person</a></tt> (4; 29% instances), <tt><a href="tr_boun-feat-Case.html">Case</a></tt> (3; 21% instances), <tt><a href="tr_boun-feat-Mood.html">Mood</a></tt> (1; 7% instances), <tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt> (1; 7% instances), <tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt> (1; 7% instances), <tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt> (1; 7% instances)
+`X` occurs with 6 features: <tt><a href="tr_boun-feat-Echo.html">Echo</a></tt> (10; 71% instances), <tt><a href="tr_boun-feat-Case.html">Case</a></tt> (3; 21% instances), <tt><a href="tr_boun-feat-Number.html">Number</a></tt> (3; 21% instances), <tt><a href="tr_boun-feat-Person.html">Person</a></tt> (3; 21% instances), <tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt> (1; 7% instances), <tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt> (1; 7% instances)
 
-`X` occurs with 9 feature-value pairs: `Case=Nom`, `Echo=Rdp`, `Mood=Imp`, `Number=Sing`, `Number[psor]=Sing`, `Person=2`, `Person=3`, `Person[psor]=1`, `Polarity=Pos`
+`X` occurs with 6 feature-value pairs: `Case=Nom`, `Echo=Rdp`, `Number=Sing`, `Number[psor]=Sing`, `Person=3`, `Person[psor]=1`
 
 `X` occurs with 4 feature combinations.
 The most frequent feature combination is `Echo=Rdp` (10 tokens).

@@ -23,22 +23,22 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 13 compound	color:blue
-1	Mae	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+1	Mae	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	gosodwr	gosodwr	NOUN	noun	Gender=Masc|Number=Sing	1	nsubj	_	_
 3	yn	yn	AUX	impf	_	4	aux	_	_
 4	rhoi	rhoi	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	1	xcomp	_	_
 5	siawns	siawns	NOUN	noun	Gender=Fem|Number=Sing	4	obj	_	_
 6	i	i	ADP	prep	_	7	case	_	_
 7	di	ti	PRON	indep	Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
-8	lawrlwytho	lawrlwytho	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	4	advcl	_	_
-9	updates	updates	NOUN	noun	Gender=Masc|Number=Sing	8	obj	_	_
+8	lawrlwytho	llawrlwytho	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	4	advcl	_	_
+9	updates	update	NOUN	noun	Gender=Masc|Number=Plur	8	obj	_	_
 10	a	a	CCONJ	cconj	_	11	cc	_	_
 11	galluogi	galluogi	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	8	conj	_	_
-12	MP3	MP3	NOUN	noun	Gender=Masc|Number=Sing	11	obj	_	_
+12	MP3	MP3	NOUN	noun	Abbr=Yes|Gender=Masc|Number=Sing	11	obj	_	_
 13	codecs	codecs	NOUN	noun	Gender=Masc|Number=Sing	12	compound	_	_
 14	i	i	ADP	prep	_	15	mark	_	_
 15	gael	cael	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	11	ccomp	_	_
-16	ei	ei	PRON	dep	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	obj	_	_
+16	ei	ef	PRON	dep	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	obj	_	_
 17	osod	gosod	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	15	ccomp	_	SpaceAfter=No
 18	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
 
@@ -53,7 +53,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 24 26 compound	color:blue
 1	Un	un	NUM	num	_	2	nummod	_	_
 2	peth	peth	NOUN	noun	Gender=Masc|Number=Sing	16	nsubj	_	_
-3	sydd	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Relative=Rel|Tense=Pres	2	acl:relcl	_	_
+3	sydd	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=FinRel	2	acl:relcl	_	_
 4	wedi	wedi	AUX	ante	_	5	aux	_	_
 5	codi	codi	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	3	xcomp	_	_
 6	unwaith	unwaith	ADV	adv	_	5	advmod	_	_
@@ -64,7 +64,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 11	arweinyddol	arweinyddol	ADJ	pos	Degree=Pos	10	amod	_	_
 12	Plaid	plaid	NOUN	noun	Gender=Fem|Number=Sing	10	nmod	_	_
 13	Cymru	Cymru	PROPN	place	Gender=Fem|Number=Sing	12	flat:name	_	_
-14	yw	bod	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres	16	cop	_	SpaceAfter=No
+14	yw	bod	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	SpaceAfter=No
 15	'r	y	DET	art	_	16	det	_	_
 16	cwestiwn	cwestiwn	NOUN	noun	Gender=Masc|Number=Sing	0	root	_	_
 17	am	am	ADP	prep	_	18	case	_	_
@@ -88,7 +88,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 compound	color:blue
-1	Ganwch	canu	VERB	verb	Mood=Ind|Mutation=SM|Number=Plur|Person=2|Tense=Fut	0	root	_	_
+1	Ganwch	canu	VERB	verb	Mood=Ind|Mutation=SM|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
 2	chi	chi	PRON	indep	Number=Plur|Person=2|PronType=Prs	1	nsubj	_	_
 3	yn	yn	ADP	prep	_	5	case	_	_
 4	y	y	DET	art	_	5	det	_	_

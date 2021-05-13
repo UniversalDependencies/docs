@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Dag Haug.
 
 Repository: [UD_Old_Church_Slavonic-PROIEL](https://github.com/UniversalDependencies/UD_Old_Church_Slavonic-PROIEL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcu_proiel27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcu_proiel28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -65,7 +65,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 
 ## Features
 
-[Aspect](cu_proiel-feat-Aspect.html) – [Case](cu_proiel-feat-Case.html) – [Degree](cu_proiel-feat-Degree.html) – [Gender](cu_proiel-feat-Gender.html) – [Mood](cu_proiel-feat-Mood.html) – [Number](cu_proiel-feat-Number.html) – [Person](cu_proiel-feat-Person.html) – [Polarity](cu_proiel-feat-Polarity.html) – [Poss](cu_proiel-feat-Poss.html) – [PronType](cu_proiel-feat-PronType.html) – [Reflex](cu_proiel-feat-Reflex.html) – [Strength](cu_proiel-feat-Strength.html) – [Tense](cu_proiel-feat-Tense.html) – [VerbForm](cu_proiel-feat-VerbForm.html) – [Voice](cu_proiel-feat-Voice.html)
+[Aspect](cu_proiel-feat-Aspect.html) – [Case](cu_proiel-feat-Case.html) – [Degree](cu_proiel-feat-Degree.html) – [Gender](cu_proiel-feat-Gender.html) – [Mood](cu_proiel-feat-Mood.html) – [Number](cu_proiel-feat-Number.html) – [Person](cu_proiel-feat-Person.html) – [Polarity](cu_proiel-feat-Polarity.html) – [Poss](cu_proiel-feat-Poss.html) – [PronType](cu_proiel-feat-PronType.html) – [Reflex](cu_proiel-feat-Reflex.html) – [Tense](cu_proiel-feat-Tense.html) – [Variant](cu_proiel-feat-Variant.html) – [VerbForm](cu_proiel-feat-VerbForm.html) – [Voice](cu_proiel-feat-Voice.html)
 
 ## Relations
 
@@ -118,14 +118,14 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 </ul>
 
 <ul>
-<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): бꙑти, не.бꙑти</li>
+<li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): бꙑти</li>
 </ul>
 
 <ul>
 </ul>
 
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
@@ -149,8 +149,17 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Part
   <ul>
-    <li>AUX: сꙑ, бꙑлъ, бꙑвъшоу, бꙑвъшю, бꙑвъ, бꙑвъши, бꙑли, сѫште, сѫштю, бꙑло</li>
+    <li>AUX: сꙑ, бꙑвъшоу, бꙑвъшю, бꙑвъ, бꙑвъши, сѫште, сѫштю, сѫштеи, сѫшти, сѫштоу</li>
     <li>VERB: г҃лѧ, отъвѣштавъ, г҃лѭште, видѣвъ, пришедъ, видѣвъше, г҃лѭще, отъвѣщавъ, въставъ, слꙑшавъше</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>PartRes
+  <ul>
+    <li>AUX: бꙑлъ, бꙑли, бꙑло, бꙑла, бꙑлꙑ, бъилъ</li>
+    <li>VERB: далъ, пришелъ, сътворилъ, чьли, имѣли, възлюбилъ, чъли, видѣлъ, вѣдѣли, вѣдѣлъ</li>
   </ul>
   </li>
 </ul>
@@ -174,13 +183,15 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Fem
     <ul>
       <li>ADJ: твоѣ, моѣ, своѭ, своѭ҄, деснѫѭ, си, своеи, она, своеѩ, твоѭ</li>
-      <li>AUX-Part: бꙑвъши, сѫшти, бꙑвъшѧѩ, бꙑла, бꙑлꙑ, бꙑвъшамъ, бꙑвъшѫѭ, бꙑвьшѧ, сѫштеѭ, сѫшть</li>
+      <li>AUX-Part: бꙑвъши, сѫшти, бꙑвъшѧѩ, бꙑвъшамъ, бꙑвъшѫѭ, бꙑвьшѧ, сѫштеѭ, сѫшть, сѫштѧ, сѫштѫ</li>
+      <li>AUX-PartRes: бꙑла, бꙑлꙑ</li>
       <li>DET: сиѭ, си, вьсеи, вьсеѭ, вьсѫ, сеи, едина, тои, тѫ, единѫ</li>
       <li>NOUN: земи, жена, вѣрѫ, мати, рѫцѣ, женѫ, ризꙑ, срѣдѣ, вѣрꙑ, притъчѫ</li>
       <li>NUM: пѧть, седмь, единѫ, девѧти, д҃, едина, пѧти, шесть, единоѩ, ж҃</li>
       <li>PRON: еи, ѭ, еѩ, ѭже, неи, ѣже, ѩже, ѭ҄, имъ, ѩ</li>
       <li>PROPN: мариѣ, галилеѩ, галилеи, елисаветь, марта, маръта, галилеѭ, галилеѭ҄, галилѣѩ, ерихѫ</li>
       <li>VERB-Part: г҃лѭшти, видѣвъши, имѫшти, с҃псна, пришедъши, нарицаемѣи, пристѫпьши, проливаема, рекъши, въставъши</li>
+      <li>VERB-PartRes: оумръла, Варила, вѣдѣла, имѣла, подвиѕалꙑ, послоушала, пришъла, пришълꙑ, просила, прѣбꙑлꙑ</li>
     </ul>
   </li>
 </ul>
@@ -213,13 +224,15 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Masc
     <ul>
       <li>ADJ: онъ, тъ, сь, мои, они, твои, вьси, мъноѕи, вьсѣкъ, свои</li>
-      <li>AUX-Part: сꙑ, бꙑлъ, бꙑвъ, бꙑвъшоу, бꙑли, сѫште, сѫштю, сѫштеи, сѫштоу, бꙑвъшю</li>
+      <li>AUX-Part: сꙑ, бꙑвъ, бꙑвъшоу, сѫште, сѫштю, сѫштеи, сѫштоу, бꙑвъшю, сѫшта, сѫще</li>
+      <li>AUX-PartRes: бꙑлъ, бꙑли, бъилъ</li>
       <li>DET: тъ, сь, вьси, весь, онъ, единъ, самъ, вьсь, етеръ, съ</li>
       <li>NOUN: с҃нъ, г҃и, оученици, о҃тца, день, домъ, б҃а, фарисѣи, ч҃лвкъ, о҃тцъ</li>
       <li>NUM: единъ, дъва, единого, оба, обою, единомоу, обѣма, едини, единꙑ, обоѭ</li>
       <li>PRON: емоу, его, и, имъ, иже, ꙇже, немоу, ихъ, ѩ, немь</li>
       <li>PROPN: и҃съ, и҃с, петръ, и҃са, ꙇ҃с, пилатъ, х҃ъ, и҃сви, иоанъ, иоана</li>
       <li>VERB-Part: г҃лѧ, отъвѣштавъ, г҃лѭште, видѣвъ, пришедъ, видѣвъше, г҃лѭще, отъвѣщавъ, въставъ, слꙑшавъше</li>
+      <li>VERB-PartRes: далъ, пришелъ, сътворилъ, чьли, имѣли, възлюбилъ, чъли, видѣлъ, вѣдѣли, вѣдѣлъ</li>
     </ul>
   </li>
 </ul>
@@ -242,12 +255,14 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Neut
     <ul>
       <li>ADJ: се, си, вьсѣ, мое, сего, б҃жие, твое, ничесоже, добро, сихъ</li>
-      <li>AUX-Part: бꙑвъшю, бꙑло, бꙑвъшаа, бꙑвъшее, бꙑвъшоу, бꙑвъшиихъ, бꙑвъша, бꙑвъшааго, бꙑвъшаго, бꙑвъшюмоу</li>
+      <li>AUX-Part: бꙑвъшю, бꙑвъшаа, бꙑвъшее, бꙑвъшоу, бꙑвъшиихъ, бꙑвъша, бꙑвъшааго, бꙑвъшаго, бꙑвъшюмоу, сѫштаа</li>
+      <li>AUX-PartRes: бꙑло</li>
       <li>DET: вьсѣ, се, вьсе, си, еже, то, ина, что, въсѣ, ничтоже</li>
       <li>NOUN: слово, ц҃срствие, очи, імѧ, мѣсто, врѣмѧ, имѧ, тѣло, знамение, небесе</li>
       <li>NUM: едино, съто, единого, дъвое, дьвѣ, обое, сотъ, сътома, сътомь, дъвое҅</li>
       <li>PRON: что, еже, чъто, ѣже, е, егоже, чесо, его, чьто, ѣ</li>
       <li>VERB-Part: писано, дано, написано, речено, реченое, нарицаемое, писана, писаное, пасомо, съказаемо</li>
+      <li>VERB-PartRes: лежало, оуподобило</li>
     </ul>
   </li>
 </ul>
@@ -278,7 +293,8 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
     <ul>
       <li>ADJ: си, они, вьси, своѩ, вьсѣ, мъноѕи, своимъ, мъногꙑ, сихъ, своихъ</li>
       <li>AUX-Fin: сѫтъ, бѣахѫ, бѫдѫтъ, есте, бѫдете, бисте, бѫ, бꙑшѧ, бѣшѧ, нѣсте</li>
-      <li>AUX-Part: бꙑли, сѫште, сѫштеи, бꙑвъшаа, бꙑвъшѧѩ, сѫще, бꙑвъшиихъ, бꙑлꙑ, сѫштиимъ, сѫщеи</li>
+      <li>AUX-Part: сѫште, сѫштеи, бꙑвъшаа, бꙑвъшѧѩ, сѫще, бꙑвъшиихъ, сѫштиимъ, сѫщеи, сѫщимъ, бꙑвъша</li>
+      <li>AUX-PartRes: бꙑли, бꙑлꙑ</li>
       <li>DET: вьси, вьсѣ, вьсѧ, вьсѣхъ, сихъ, тꙑ, си, инꙑ, вьсѣмъ, сиѩ</li>
       <li>NOUN: оученици, фарисѣи, оученикомъ, архиереи, дьни, июдеи, народи, оученикꙑ, кънижъници, оученикъ</li>
       <li>NUM: три, десѧтъ, трьми, десѧти, четꙑри, единꙑ, едини, единѣмъ, трии, тꙑсѫштъ</li>
@@ -286,6 +302,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
       <li>PROPN: хръсти, гоморѣнемь, е҃рслмхь, е҃рсмѣхъ, и҃мѣхъ, марии, содомѣхъ, х҃ь, ꙇ҃мѣхъ</li>
       <li>VERB-Fin: рѣшѧ, придѫ, г҃лаахѫ, имате, имѫтъ, вѣсте, г҃лашѧ, видите, идѫ, видѣшѧ</li>
       <li>VERB-Part: г҃лѭште, видѣвъше, г҃лѭще, слꙑшавъше, пришедъше, шедъше, пристѫпьше, г҃лште, ишедъше, емъше</li>
+      <li>VERB-PartRes: чьли, имѣли, чъли, вѣдѣли, пришъли, знали, любили, оубили, погоубили, покаали</li>
     </ul>
   </li>
 </ul>
@@ -295,7 +312,8 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
     <ul>
       <li>ADJ: онъ, се, тъ, сь, мои, моего, своего, никтоже, сего, вьсѣкъ</li>
       <li>AUX-Fin: естъ, бѣ, бѫдетъ, бꙑстъ, еси, есмъ, нѣстъ, би, нѣсмъ, бѫди</li>
-      <li>AUX-Part: сꙑ, бꙑлъ, бꙑвъшоу, бꙑвъшю, бꙑвъ, бꙑвъши, сѫштю, бꙑло, сѫшти, сѫштоу</li>
+      <li>AUX-Part: сꙑ, бꙑвъшоу, бꙑвъшю, бꙑвъ, бꙑвъши, сѫштю, сѫшти, сѫштоу, бꙑвъшее, сѫшта</li>
+      <li>AUX-PartRes: бꙑлъ, бꙑло, бꙑла, бъилъ</li>
       <li>DET: тъ, сь, сего, се, весь, онъ, сиѭ, единъ, самъ, того</li>
       <li>NOUN: с҃нъ, г҃и, о҃тца, слово, день, домъ, б҃а, о҃тцъ, б҃ъ, земи</li>
       <li>NUM: единъ, десѧте, единого, пѧть, седмь, едино, единѫ, девѧти, д҃, единомоу</li>
@@ -303,6 +321,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
       <li>PROPN: и҃съ, и҃с, петръ, и҃са, ꙇ҃с, пилатъ, х҃ъ, мариѣ, и҃сви, иоанъ</li>
       <li>VERB-Fin: рече, г҃ла, г҃лѭ, приде, дастъ, иматъ, сътвори, придетъ, отъвѣшта, посъла</li>
       <li>VERB-Part: г҃лѧ, отъвѣштавъ, видѣвъ, пришедъ, отъвѣщавъ, въставъ, слꙑшавъ, писано, шедъ, пристѫпь</li>
+      <li>VERB-PartRes: далъ, пришелъ, сътворилъ, възлюбилъ, видѣлъ, вѣдѣлъ, доконьчалъ, родилъ, сѣлъ, бьдѣлъ</li>
     </ul>
   </li>
 </ul>
@@ -399,13 +418,15 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Nom
     <ul>
       <li>ADJ: онъ, сь, тъ, они, мои, никтоже, вьси, мъноѕи, си, моѣ</li>
-      <li>AUX-Part: сꙑ, бꙑлъ, бꙑвъ, бꙑли, сѫште, бꙑло, сѫштеи, бꙑвъшѧѩ, сѫще, бꙑла</li>
+      <li>AUX-Part: сꙑ, бꙑвъ, сѫште, сѫштеи, бꙑвъшѧѩ, сѫще, сѫшти, сѫщеи, бꙑвъше, бꙑвъшее</li>
+      <li>AUX-PartRes: бꙑлъ, бꙑли, бꙑло, бꙑла, бꙑлꙑ, бъилъ</li>
       <li>DET: вьси, сь, си, единъ, се, самъ, весь, вьсѣ, тъ, вьсе</li>
       <li>NOUN: с҃нъ, оученици, о҃тцъ, б҃ъ, жена, ч҃лвкъ, архиереи, г҃ъ, народъ, фарисѣи</li>
       <li>NUM: единъ, дъва, оба, едино, седмь, пѧть, едина, дьвѣ, десѧть, едини</li>
       <li>PRON: азъ, иже, вꙑ, тꙑ, ꙇже, еже, кто, что, ѣже, мꙑ</li>
       <li>PROPN: и҃съ, и҃с, петръ, ꙇ҃с, пилатъ, х҃ъ, мариѣ, иоанъ, ꙇ҃съ, симонъ</li>
       <li>VERB-Part: г҃лѧ, отъвѣштавъ, г҃лѭште, видѣвъ, пришедъ, видѣвъше, г҃лѭще, отъвѣщавъ, въставъ, слꙑшавъше</li>
+      <li>VERB-PartRes: далъ, пришелъ, сътворилъ, чьли, имѣли, възлюбилъ, чъли, видѣлъ, вѣдѣли, вѣдѣлъ</li>
       <li>VERB-Sup: вьзѧтъ, видѣтъ, обрѣзатъ, разлѫчитъ, сѣатъ</li>
     </ul>
   </li>
@@ -458,10 +479,26 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Neg
     <ul>
       <li>ADV: не, ни</li>
+      <li>AUX-Fin: нѣстъ, нѣсмъ, нѣсте, нѣси, нѣ, нѣсмь, нѣсть</li>
     </ul>
   </li>
 </ul>
 
+<ul>
+  <li><a>Variant</a></li>
+</ul>
+
+<ul>
+  <li>Short
+    <ul>
+      <li>ADJ: мъноѕи, вьсѣкъ, б҃жие, мъногꙑ, б҃жии, мъногъ, добро, б҃жиѣ, б҃жіи, мънога</li>
+      <li>AUX-Part: сꙑ, бꙑвъшоу, бꙑвъшю, бꙑвъ, бꙑвъши, сѫште, сѫштю, сѫшти, сѫштоу, сѫшта</li>
+      <li>AUX-PartRes: бꙑлъ, бꙑли, бꙑло, бꙑла, бꙑлꙑ, бъилъ</li>
+      <li>VERB-Part: г҃лѧ, отъвѣштавъ, г҃лѭште, видѣвъ, пришедъ, видѣвъше, г҃лѭще, отъвѣщавъ, въставъ, слꙑшавъше</li>
+      <li>VERB-PartRes: далъ, пришелъ, сътворилъ, чьли, имѣли, възлюбилъ, чъли, видѣлъ, вѣдѣли, вѣдѣлъ</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Verbal Features</h3>
 
@@ -484,15 +521,6 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
     <ul>
       <li>AUX-Fin: бꙑстъ, бꙑшѧ, бꙑⷭ҇, бꙑсте, бꙑст</li>
       <li>VERB-Fin: рече, г҃ла, приде, рѣшѧ, сътвори, отъвѣшта, дастъ, посъла, придѫ, начѧтъ</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Res
-    <ul>
-      <li>AUX-Part: бꙑлъ, бꙑли, бꙑло, бꙑла, бꙑлꙑ, бъилъ</li>
-      <li>VERB-Part: далъ, пришелъ, сътворилъ, чьли, имѣли, възлюбилъ, чъли, видѣлъ, вѣдѣли, вѣдѣлъ</li>
     </ul>
   </li>
 </ul>
@@ -545,8 +573,10 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
     <ul>
       <li>AUX-Fin: бѣ, бꙑстъ, бѣахѫ, бꙑшѧ, бѣшѧ, бꙑⷭ҇, бѣаше, бѣхъ, бѣашете, бꙑсте</li>
       <li>AUX-Part: бꙑвъшоу, бꙑвъшю, бꙑвъ, бꙑвъши, бꙑвъшаа, бꙑвъшее, бꙑвъшѧѩ, бꙑвъша, бꙑвъшааго, бꙑвъшиихъ</li>
+      <li>AUX-PartRes: бꙑлъ, бꙑли, бꙑло, бꙑла, бꙑлꙑ, бъилъ</li>
       <li>VERB-Fin: рече, г҃ла, приде, рѣшѧ, сътвори, отъвѣшта, дастъ, посъла, придѫ, г҃лаахѫ</li>
       <li>VERB-Part: отъвѣштавъ, видѣвъ, пришедъ, видѣвъше, отъвѣщавъ, въставъ, слꙑшавъше, слꙑшавъ, писано, шедъ</li>
+      <li>VERB-PartRes: далъ, пришелъ, сътворилъ, чьли, имѣли, възлюбилъ, чъли, видѣлъ, вѣдѣли, вѣдѣлъ</li>
     </ul>
   </li>
 </ul>
@@ -573,10 +603,12 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
     <ul>
       <li>AUX-Fin: естъ, бѣ, бѫдетъ, бꙑстъ, еси, сѫтъ, есмъ, нѣстъ, би, бѣахѫ</li>
       <li>AUX-Inf: бꙑти</li>
-      <li>AUX-Part: сꙑ, бꙑлъ, бꙑвъшоу, бꙑвъшю, бꙑвъ, бꙑвъши, бꙑли, сѫште, сѫштю, бꙑло</li>
+      <li>AUX-Part: сꙑ, бꙑвъшоу, бꙑвъшю, бꙑвъ, бꙑвъши, сѫште, сѫштю, сѫштеи, сѫшти, сѫштоу</li>
+      <li>AUX-PartRes: бꙑлъ, бꙑли, бꙑло, бꙑла, бꙑлꙑ, бъилъ</li>
       <li>VERB-Fin: рече, г҃ла, г҃лѭ, приде, рѣшѧ, дастъ, иматъ, сътвори, придетъ, отъвѣшта</li>
       <li>VERB-Inf: ѣсти, г҃лати, дати, прити, творити, ити, видѣти, пити, слꙑшати, сътворити</li>
       <li>VERB-Part: г҃лѧ, отъвѣштавъ, г҃лѭште, видѣвъ, пришедъ, видѣвъше, г҃лѭще, отъвѣщавъ, въставъ, слꙑшавъше</li>
+      <li>VERB-PartRes: далъ, пришелъ, сътворилъ, чьли, имѣли, възлюбилъ, чъли, видѣлъ, вѣдѣли, вѣдѣлъ</li>
     </ul>
   </li>
 </ul>
@@ -702,37 +734,16 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <h3>Other Features</h3>
 
 
-<ul>
-  <li><a>Strength</a>
-    <ul>
-      <li>Strong
-        <ul>
-          <li>ADJ: мъноѕи, вьсѣкъ, б҃жие, мъногꙑ, б҃жии, мъногъ, добро, б҃жиѣ, б҃жіи, мънога</li>
-          <li>AUX-Part: сꙑ, бꙑлъ, бꙑвъшоу, бꙑвъшю, бꙑвъ, бꙑвъши, бꙑли, сѫште, сѫштю, бꙑло</li>
-          <li>VERB-Part: г҃лѧ, отъвѣштавъ, г҃лѭште, видѣвъ, пришедъ, видѣвъше, г҃лѭще, отъвѣщавъ, въставъ, слꙑшавъше</li>
-        </ul>
-      </li>
-      <li>Weak
-        <ul>
-          <li>ADJ: мрътвꙑхъ, ч҃лвчскꙑ, дроугꙑ, деснѫѭ, вѣчънꙑ, с҃тꙑ, вѣчънааго, ч҃лвскꙑ, дроугаѣ, дроуѕии</li>
-          <li>AUX-Part: сѫштеи, бꙑвъшаа, бꙑвъшее, бꙑвъшѧѩ, бꙑвъшааго, бꙑвъшиихъ, сѫштаа, сѫштиимъ, сѫщеи, сѫщимъ</li>
-          <li>VERB-Part: посълавъшааго, вѣроуѩи, нарицаемꙑ, грѧдꙑи, нарицаемааго, ꙇмѣѩи, г҃лѧи, видѧи, избъранꙑѩ, имѣѩи</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: бꙑти, не.бꙑти.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: бꙑти.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: бꙑти, не.бꙑти.</li>
+<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: бꙑти.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: бꙑти.</li>
 </ul>
 
@@ -760,10 +771,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Dat (4)</li>
       <li>VERB-Part--NOUN-Dat (25)</li>
       <li>VERB-Part--NOUN-Loc-ADP(при) (1)</li>
-      <li>VERB-Part--NOUN-Nom (47)</li>
+      <li>VERB-Part--NOUN-Nom (23)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
       <li>VERB-Part--PRON-Dat (84)</li>
-      <li>VERB-Part--PRON-Nom (26)</li>
+      <li>VERB-Part--PRON-Nom (15)</li>
+      <li>VERB-PartRes--NOUN-Nom (24)</li>
+      <li>VERB-PartRes--PRON-Nom (11)</li>
     </ul>
   </li>
 </ul>
@@ -793,15 +806,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Gen (39)</li>
       <li>VERB-Inf--PRON-Gen-ADP(отъ) (1)</li>
       <li>VERB-Part--NOUN (1)</li>
-      <li>VERB-Part--NOUN-Acc (342)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(къ) (1)</li>
-      <li>VERB-Part--NOUN-Gen (53)</li>
+      <li>VERB-Part--NOUN-Acc (324)</li>
+      <li>VERB-Part--NOUN-Gen (44)</li>
       <li>VERB-Part--NOUN-Gen-ADP(отъ) (2)</li>
       <li>VERB-Part--NOUN-Voc (1)</li>
-      <li>VERB-Part--PRON (1)</li>
-      <li>VERB-Part--PRON-Acc (217)</li>
-      <li>VERB-Part--PRON-Gen (16)</li>
+      <li>VERB-Part--PRON-Acc (171)</li>
+      <li>VERB-Part--PRON-Gen (14)</li>
       <li>VERB-Part--PRON-Gen-ADP(оу) (1)</li>
+      <li>VERB-PartRes--NOUN-Acc (18)</li>
+      <li>VERB-PartRes--NOUN-Dat-ADP(къ) (1)</li>
+      <li>VERB-PartRes--NOUN-Gen (9)</li>
+      <li>VERB-PartRes--PRON (1)</li>
+      <li>VERB-PartRes--PRON-Acc (46)</li>
+      <li>VERB-PartRes--PRON-Gen (2)</li>
       <li>VERB-Sup--NOUN-Acc (1)</li>
       <li>VERB-Sup--NOUN-Gen (14)</li>
       <li>VERB-Sup--PRON-Gen (8)</li>
@@ -829,14 +846,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Dat (41)</li>
       <li>VERB-Inf--PRON-Gen (2)</li>
       <li>VERB-Inf--PRON-Loc (2)</li>
-      <li>VERB-Part--NOUN-Dat (22)</li>
+      <li>VERB-Part--NOUN-Dat (17)</li>
       <li>VERB-Part--NOUN-Gen (22)</li>
       <li>VERB-Part--NOUN-Ins (8)</li>
-      <li>VERB-Part--NOUN-Loc (1)</li>
-      <li>VERB-Part--PRON-Dat (90)</li>
-      <li>VERB-Part--PRON-Gen (17)</li>
+      <li>VERB-Part--PRON-Dat (65)</li>
+      <li>VERB-Part--PRON-Gen (16)</li>
       <li>VERB-Part--PRON-Ins (1)</li>
-      <li>VERB-Part--PRON-Loc (4)</li>
+      <li>VERB-Part--PRON-Loc (3)</li>
+      <li>VERB-PartRes--NOUN-Dat (5)</li>
+      <li>VERB-PartRes--NOUN-Loc (1)</li>
+      <li>VERB-PartRes--PRON-Dat (25)</li>
+      <li>VERB-PartRes--PRON-Gen (1)</li>
+      <li>VERB-PartRes--PRON-Loc (1)</li>
       <li>VERB-Sup--NOUN-Dat (3)</li>
       <li>VERB-Sup--PRON-Gen (2)</li>
     </ul>
@@ -848,7 +869,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 23 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: съпасти сѧ, вънимати себѣ, отъврѣщи себе, съпасти себе, творити сѧ, ꙗко сѧ, възѧти свое, раздѣлити себѣ, ꙗко себе, въдаꙗти себе, възлюбити своѩ, иждити свое, ицѣлити сѧ, коупити себѣ, любити свое, оправьдати себе, пещи собоѭ, плакати себе, погоубити себе, свѧтити сѧ, с​ъ​в​ѣ​д​ѣ​т​е​л​ь​с​т​в​о​в​а​т​и​ ​с​е​б​ѣ, сътворити себе, сътворити себѣ</li>
+  <li>This corpus contains 23 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: съпасти сѧ, вънимати себѣ, отъврѣщи себе, съпасти себе, творити сѧ, ꙗко сѧ, възѧти свое, раздѣлити себѣ, ꙗко себе, въдаꙗти себе, възлюбити своѩ, иждити свое, ицѣлити сѧ, коупити себѣ, любити свое, оправьдати себе, пещи собоѭ, плакати себе, погоубити себе, свѧтити сѧ, съвѣдѣтельствовати себѣ, сътворити себе, сътворити себѣ</li>
 </ul>
 
 <h3>Relations Overview</h3>

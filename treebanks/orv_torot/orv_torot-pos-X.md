@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of X in UD_Old_Russian-TOROT'
+title:  'Statistics of X in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: POS Tags: `X`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: POS Tags: `X`
 
 There are 206 `X` lemmas (2%), 226 `X` types (1%) and 296 `X` tokens (0%).
 Out of 14 observed tags, the rank of `X` is: 6 in number of lemmas, 10 in number of types and 14 in number of tokens.
@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>а</em> (<tt><a href="orv_torot-pos-C
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.097087 (the average of all parts of speech is 3.571089).
+The form / lemma ratio of `X` is 1.097087 (the average of all parts of speech is 3.571475).
 
 The 1st highest number of forms (5) was observed with the lemma “перводигерь”: <em>перводегерь, перводигерь, перводигирь, перводигырь, перводїгерь</em>.
 

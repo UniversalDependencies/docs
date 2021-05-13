@@ -42,16 +42,16 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 2	:	:	PUNCT	sent	_	3	punct	_	_
 3	Tamîratine	tamîrat	NOUN	n	Case=Con|Gender=Masc|Number=Plur|PronType=Ind	1	parataxis	_	_
 4	ecêb	ecêb	ADJ	adj	Degree=Pos	3	amod	_	SpaceAfter=No
-5	,	,	PUNCT	cm	_	1	punct	_	_
+5	,	,	PUNCT	cm	_	6	punct	_	_
 6	zengilekî	zengil	NOUN	n	Case=Con|Gender=Masc|Number=Sing|PronType=Ind	3	conj	_	_
 7	derewîn	derewîn	ADJ	adj	Degree=Pos	6	amod	_	SpaceAfter=No
-8	,	,	PUNCT	cm	_	1	punct	_	_
+8	,	,	PUNCT	cm	_	9	punct	_	_
 9	kulekekê	kulek	NOUN	n	Case=Con|Gender=Fem|Number=Sing|PronType=Ind	3	conj	_	_
-10	hewayê	hewa	NOUN	n	Case=Obl|Definite=Def|Gender=Fem|Number=Sing	9	nmod:poss	_	_
+10	hewayê	hewa	NOUN	n	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	9	nmod:poss	_	_
 11	ya	yê	ADP	con	AdpType=Post|Gender=Fem|Number=Sing	9	case	_	_
 12	ko	ku	SCONJ	cnjsub	_	13	mark	_	_
 13	nade	dan	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	9	amod	_	_
-14	hewayê	hewa	NOUN	n	Case=Obl|Definite=Def|Gender=Fem|Number=Sing	13	obj	_	SpaceAfter=No
+14	hewayê	hewa	NOUN	n	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	13	obj	_	SpaceAfter=No
 15	.	.	PUNCT	sent	_	1	punct	_	_
 
 ~~~
@@ -72,7 +72,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 7	Azad	azad	ADJ	adj	Degree=Pos	6	flat	_	_
 8	tê	hatin	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
 9	bi	bi	ADP	pr	AdpType=Prep	10	case	_	_
-10	nav	nav	NOUN	n	Case=Obl|Definite=Def|Gender=Masc|Number=Sing	11	obl	_	_
+10	nav	nav	NOUN	n	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	11	obl	_	_
 11	kirin	navkirin	VERB	vblex	VerbForm=Inf	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	sent	_	11	punct	_	_
 

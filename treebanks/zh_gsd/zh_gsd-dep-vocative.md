@@ -33,7 +33,7 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 9	冷凍	冷凍	NOUN	NN	_	11	nmod	_	SpaceAfter=No
 10	包裝	包裝	NOUN	NN	_	11	nmod	_	SpaceAfter=No
 11	食物	食物	NOUN	NN	_	13	nmod	_	SpaceAfter=No
-12	的	的	PART	DEC	Case=Gen	11	case:dec	_	SpaceAfter=No
+12	的	的	PART	DEC	Case=Gen	11	case	_	SpaceAfter=No
 13	品牌	品牌	NOUN	NN	_	0	root	_	SpaceAfter=No
 14	，	，	PUNCT	,	_	13	punct	_	SpaceAfter=No
 15	在	在	VERB	VV	_	19	amod	_	SpaceAfter=No

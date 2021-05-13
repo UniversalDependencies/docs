@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of advmod in UD_Old_Russian-TOROT'
+title:  'Statistics of advmod in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Relations: `advmod`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Relations: `advmod`
 
 This relation is universal.
 
@@ -28,7 +28,7 @@ The following 20 pairs of parts of speech are connected with `advmod`: <tt><a hr
 4	чето	чьто	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	7	obj	_	ref=
 5	ти	ты	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	iobj	_	ref=
 6	есемо	быти	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	ref=
-7	водала	въдати	VERB	V-	Aspect=Res|Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	3	obj	_	ref=
+7	водала	въдати	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	3	obj	_	ref=
 8	ковати	ковати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	advcl	_	ref=
 
 ~~~
@@ -58,7 +58,7 @@ The following 20 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 advmod	color:blue
-1	тако	такыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	0	root	_	ref=55.2
+1	тако	такыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	ref=55.2
 2	и	и	ADV	Df	_	3	advmod	_	ref=55.2
 3	се	сии	ADJ	Pd	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	ref=55.2
 

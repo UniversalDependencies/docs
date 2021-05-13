@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Mbya_Guarani-Thomas: Features: `Subcat`
 
 This feature is language-specific.
-It occurs with 4 different values: `Ditran`, `Int`, `IntInd`, `Tran`.
+It occurs with 4 different values: `Ditr`, `Indir`, `Intr`, `Tran`.
 
 246 tokens (19%) have a non-empty value of `Subcat`.
 147 types (38%) occur at least once with a non-empty value of `Subcat`.
@@ -22,13 +22,13 @@ The most frequent other feature values with which `VERB` and `Subcat` co-occurre
 
 `VERB` tokens may have the following values of `Subcat`:
 
-* `Ditran` (4; 2% of non-empty `Subcat`): <em>ome'ẽ, tojapouka</em>
-* `Int` (110; 45% of non-empty `Subcat`): <em>oiko, opa, ou, cheayvu, roju, romba'apo, ndaipovei, oñevanga, roiko, aa</em>
-* `IntInd` (7; 3% of non-empty `Subcat`): <em>roñea'ã, jaje'apa, oña'ã, penderecharãi, ñeñandu</em>
+* `Ditr` (4; 2% of non-empty `Subcat`): <em>ome'ẽ, tojapouka</em>
+* `Indir` (7; 3% of non-empty `Subcat`): <em>roñea'ã, jaje'apa, oña'ã, penderecharãi, ñeñandu</em>
+* `Intr` (110; 45% of non-empty `Subcat`): <em>oiko, opa, ou, cheayvu, roju, romba'apo, ndaipovei, oñevanga, roiko, aa</em>
 * `Tran` (125; 51% of non-empty `Subcat`): <em>ha'e, he'i, rojapo, roñoty, aipota, ajapo, areko, ho'u, jaecha, ndoro'ui</em>
 
 <table>
-  <tr><th>Paradigm <i>ayvu</i></th><th><tt>Int</tt></th><th><tt>Tran</tt></th></tr>
+  <tr><th>Paradigm <i>ayvu</i></th><th><tt>Intr</tt></th><th><tt>Tran</tt></th></tr>
   <tr><td><tt><tt><a href="gun_thomas-feat-Clusivity-obj.html">Clusivity[obj]</a></tt><tt>=In</tt>|<tt><a href="gun_thomas-feat-Person-obj.html">Person[obj]</a></tt><tt>=1</tt></tt></td><td></td><td><em>ñanderayvu</em></td></tr>
   <tr><td><tt><tt><a href="gun_thomas-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt></tt></td><td><em>cheayvu</em></td><td></td></tr>
 </table>

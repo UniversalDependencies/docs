@@ -24,7 +24,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 1 7 csubj:pass	color:blue
 1	يعتقد	{iEotaqad_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	_
 2	أن	>an~a_1	SCONJ	IN	_	7	mark	_	_
-3	آخر	|xir_1	DET	PDT	Case=Acc	4	det:predet	_	_
+3	آخر	|xir_1	DET	PDT	Case=Acc	4	det	_	_
 4	دورة	daworap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	7	nsubj:pass	_	_
 5	ألعابٍ	laEob_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	4	nmod	_	_
 6	أولمبية	>uwlimobiy~_1	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	5	amod	_	_

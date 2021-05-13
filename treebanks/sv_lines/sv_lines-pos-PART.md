@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>att</em> (<tt><a href="sv_lines-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.416999).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.416904).
 
 The 1st highest number of forms (1) was observed with the lemma “att”: <em>att</em>.
 

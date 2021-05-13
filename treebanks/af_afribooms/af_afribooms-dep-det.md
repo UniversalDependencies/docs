@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5777 nodes (12%) are attached to their parents as `det`.
+5970 nodes (12%) are attached to their parents as `det`.
 
-5770 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.31296520685477.
+5967 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.3177554438861.
 
-The following 19 pairs of parts of speech are connected with `det`: <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (4791; 83% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (768; 13% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt>-<tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (105; 2% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt>-<tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (45; 1% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt>-<tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (16; 0% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-PART.html">PART</a></tt> (11; 0% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt>-<tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt>-<tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt>-<tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt>-<tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt>-<tt><a href="af_afribooms-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt>-<tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt>-<tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `det`: <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (4995; 84% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (768; 13% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt>-<tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (105; 2% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt>-<tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (45; 1% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt>-<tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (16; 0% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt>-<tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt>-<tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt>-<tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt>-<tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt>-<tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt>-<tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt>-<tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -42,9 +42,9 @@ The following 19 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 2 1 det	color:blue
 1	Ons	ons	PRON	PEMB	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
 2	demokrasie	demokrasie	NOUN	NSE	Number=Sing	4	nsubj	_	_
-3	is	is	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	4	cop	_	_
+3	is	wees	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	4	cop	_	_
 4	gesond	gesond	ADJ	ASP	AdjType=Pred|Case=Nom|Degree=Pos	0	root	_	SpaceAfter=No
-5	.	.	PUNCT	ZE	_	3	punct	_	_
+5	.	.	PUNCT	ZE	_	4	punct	_	_
 
 ~~~
 

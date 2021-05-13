@@ -27,7 +27,7 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 3	लावून	लावणे	VERB	_	Aspect=Perf|VerbForm=Conv	10	advcl	_	_
 4	राजा	राजा	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
 5	_	आपण	PRON	_	PronType=Prs	8	nmod:poss	_	_
-6	_	चा	ADP	_	Case=Obl	5	case	_	_
+6	_	चा	ADP	_	Case=Abs	5	case	_	_
 7	गावी	गाव	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	8	obj	_	_
 8	येईल	येणे	VERB	_	Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	ccomp	_	_
 9	असे	असे	SCONJ	_	_	8	mark	_	_
@@ -43,16 +43,16 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 11 ccomp	color:blue
-1	_	राजा	NOUN	_	Case=Obl|Gender=Masc|Number=Sing	3	nmod:poss	_	_
-2	_	चा	ADP	_	Case=Obl	1	case	_	_
-3	_	कान	NOUN	_	Case=Obl|Gender=Masc|Number=Sing	7	obl	_	_
+1	_	राजा	NOUN	_	Case=Abs|Gender=Masc|Number=Sing	3	nmod:poss	_	_
+2	_	चा	ADP	_	Case=Abs	1	case	_	_
+3	_	कान	NOUN	_	Case=Abs|Gender=Masc|Number=Sing	7	obl	_	_
 4	_	वर	ADP	_	_	3	case	_	_
-5	ते	तो	PRON	_	Case=Nom|Distance=Dist|Gender=Masc|Number=Plur|Person=3	7	nsubj	_	_
+5	ते	तो	PRON	_	Case=Nom|Deixis=Remt|Gender=Masc|Number=Plur|Person=3	7	nsubj	_	_
 6	कागाळ्या	कागाळी	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	7	obj	_	_
 7	घालतील	घालतील	VERB	_	Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	7	punct	_	_
+8	,	,	PUNCT	_	_	11	punct	_	_
 9	अशी	असा	SCONJ	_	_	11	mark	_	_
-10	त्याला	तो	PRON	_	Case=Dat|Distance=Dist|Gender=Masc|Number=Sing|Person=3	11	nsubj	_	_
+10	त्याला	तो	PRON	_	Case=Dat|Deixis=Remt|Gender=Masc|Number=Sing|Person=3	11	nsubj	_	_
 11	शंका	शंका	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	ccomp	_	_
 12	होती	असणे	AUX	_	Gender=Fem|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	cop	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	11	punct	_	_

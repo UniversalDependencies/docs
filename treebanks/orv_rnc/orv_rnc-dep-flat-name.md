@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of flat:name in UD_Old_Russian-RNC'
+title:  'Statistics of flat:name in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Relations: `flat:name`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Relations: `flat:name`
 
 This relation is a language-specific subtype of <tt><a href="orv_rnc-dep-flat.html">flat</a></tt>.
 
@@ -50,7 +50,7 @@ The following 6 pairs of parts of speech are connected with `flat:name`: <tt><a 
 10	стрелец	стрѣлецъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Norm=стрелец|SpaceAfter=Yes
 11	Захарко	Захарко	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	appos	_	Norm=Захарко|SpaceAfter=Yes
 12	Ѡндреевъ	Ондрѣевъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	11	flat:name	_	Norm=Ѡндреевъ|SpaceAfter=Yes
-13	снъ	сынъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	flat:name	_	Norm=снъ|SpaceAfter=No
+13	снъ	сынъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	flat:name	_	Norm=снъ
 
 ~~~
 

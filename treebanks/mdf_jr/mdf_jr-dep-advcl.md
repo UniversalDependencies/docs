@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Moksha-JR: Relations: `advcl`
 
 This relation is universal.
-There are 1 language-specific subtypes of `advcl`: <tt><a href="mdf_jr-dep-advcl-tmod.html">advcl:tmod</a></tt>.
+There are 2 language-specific subtypes of `advcl`: <tt><a href="mdf_jr-dep-advcl-cau.html">advcl:cau</a></tt>, <tt><a href="mdf_jr-dep-advcl-tcl.html">advcl:tcl</a></tt>.
 
-29 nodes (2%) are attached to their parents as `advcl`.
+32 nodes (1%) are attached to their parents as `advcl`.
 
-16 instances of `advcl` (55%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.03448275862069.
+18 instances of `advcl` (56%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.84375.
 
-The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (15; 52% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (10; 34% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (2; 7% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 3% instances).
+The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (17; 53% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (11; 34% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (2; 6% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -29,8 +29,8 @@ The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href
 4	оцю	оцю	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	5	amod	_	_
 5	самолёт	самолёт	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	3	obj	_	SpaceAfter=No
 6	,	,	PUNCT	CLB	_	10	punct	_	_
-7	аньцек	аньцек	ADV	Adv	_	10	advmod	_	_
-8	коданга	коданга	ADV	Adv	PronType=Ind	10	advmod	_	_
+7	аньцек	аньцек	ADV	Adv	_	10	advmod:foc	_	_
+8	коданга	коданга	ADV	Adv	PronType=Ind	10	advmod:mmod	_	_
 9	аф	аф	AUX	Aux	Polarity=Neg	10	aux:neg	_	_
 10	лисенди	лисендемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	2	advcl	_	SpaceAfter=No
 11	.	.	PUNCT	CLB	_	2	punct	_	_
@@ -64,7 +64,7 @@ The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href
 3	кда	кда	SCONJ	CS	_	4	mark	_	_
 4	рамась	рамамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	2	advcl	_	SpaceAfter=No
 5	,	,	PUNCT	CLB	_	7	punct	_	_
-6	аньцек	аньцек	ADV	Adv	_	7	advmod	_	_
+6	аньцек	аньцек	ADV	Adv	_	7	advmod:foc	_	_
 7	налхксемс	налхксемс	VERB	V	Valency=1|VerbForm=Inf	2	advcl	_	SpaceAfter=No
 8	,	,	PUNCT	CLB	_	7	punct	_	_
 9	а	а	CCONJ	CC	_	11	cc	_	_

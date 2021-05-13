@@ -12,7 +12,7 @@ There are also 2 other language-specific subtypes of `aux`: <tt><a href="fr_sequ
 948 nodes (1%) are attached to their parents as `aux:tense`.
 
 948 instances of `aux:tense` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.57700421940928.
+Average distance between parent and child is 1.57278481012658.
 
 The following 4 pairs of parts of speech are connected with `aux:tense`: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (909; 96% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (20; 2% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (18; 2% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 

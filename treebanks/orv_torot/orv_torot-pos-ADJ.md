@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of ADJ in UD_Old_Russian-TOROT'
+title:  'Statistics of ADJ in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: POS Tags: `ADJ`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: POS Tags: `ADJ`
 
 There are 1386 `ADJ` lemmas (15%), 5640 `ADJ` types (17%) and 15631 `ADJ` tokens (10%).
 Out of 14 observed tags, the rank of `ADJ` is: 4 in number of lemmas, 3 in number of types and 4 in number of tokens.
@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  <em>се</em> (<tt><a href="orv_torot-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 4.069264 (the average of all parts of speech is 3.571089).
+The form / lemma ratio of `ADJ` is 4.069264 (the average of all parts of speech is 3.571475).
 
 The 1st highest number of forms (109) was observed with the lemma “святыи”: <em>оѥ, свтыѧ, святыя, святѣй, свѧтаго, свѧтее, свѧтыими, свѧтѣи, свѧтѣмь, свѧтꙑꙗ, свꙗтаго, свꙗтыи, свꙗтыꙗ, сстых, сс҃тꙑꙗ, стаг, стая, стаꙗ, стга, стго, стг҃о, стии, стмъ, стм҃у, стм҃ь, сто, стог҃, стх҃ъ, стыя, сты҃и, сты҃имъ, сты҃мь, стѹ҃ю, ст҃[ꙑ]и, ст҃а, ст҃ааго, ст҃аго, ст҃ая, ст҃аѧ, ст҃аꙗ, ст҃го, ст҃и, ст҃ии, ст҃ми, ст҃му, ст҃мъ, ст҃мь, ст҃о, ст҃ого, ст҃ое, ст҃ому, ст҃омѹ, ст҃оую, ст҃ою, ст҃оѣ, ст҃оѥ, ст҃у, ст҃ууму, ст҃ую, ст҃хъ, ст҃ъ, ст҃ыи, ст҃ыимь, ст҃ыихъ, ст҃ыма, ст҃ыми, ст҃ымь, ст҃ыхъ, ст҃ыя, ст҃ыѣ, ст҃ыꙗ, ст҃ѣи, ст҃ѣмь, ст҃ѹю, ст҃ѹѹмѹ, ст҃ꙑи, ст҃ꙑимь, ст҃ꙑихъ, ст҃ꙑмъ, ст҃ꙑѧ, ст҃ꙑꙗ, стꙑх҃, стꙑꙗ, с҃таго, с҃тая, с҃таꙗ, с҃тго, с҃темъ, с҃тии, с҃тму, с҃тмъ, с҃тмꙋ, с҃тое, с҃тою, с҃тоѥ, с҃тую, с҃тхъ, с҃ты, с҃тыа, с҃тыи, с҃тымъ, с҃тымь, с҃тых, с҃тыхъ, с҃тыя, с҃тыѧ, с҃тїи, с҃тѣи, с҃тꙋю</em>.
 
@@ -70,13 +70,13 @@ The 2nd highest number of forms (94) was observed with the lemma “русьск
 
 The 3rd highest number of forms (80) was observed with the lemma “великыи”: <em>Великий, велика, великааго, великаго, великая, великаѧ, великаꙗ, велики, великиа, великии, великим, великими, великимъ, великимь, великим҃, великих, великихъ, великия, великиѧ, велико, великог, великого, великое, великои, великом, великомȣ, великому, великомъ, великомь, великомѹ, великомꙋ, великою, велику, великууму, великую, великъ, великъмь, великы, великыи, великый, великым, великыма, великыми, великымъ, великых, великыя, великыѧ, великыꙗ, великій, великї, великїа, великїи, великѹ, великѹю, великѹѹмѹ, великꙋ, великꙋю, великꙑ, великꙑи, великꙑй, великꙑмь, великꙑхъ, великꙑꙗ, велице, велицемъ, велици, велиции, велицїи, велицѣ, велицѣи, велицѣмь, величии, велкому, велцѣ, велїка, велїкии, велїку, велѣкъ, вѣликою, вѣликоѥ</em>.
 
-`ADJ` occurs with 8 features: <tt><a href="orv_torot-feat-Case.html">Case</a></tt> (15609; 100% instances), <tt><a href="orv_torot-feat-Number.html">Number</a></tt> (15609; 100% instances), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt> (15504; 99% instances), <tt><a href="orv_torot-feat-Degree.html">Degree</a></tt> (9488; 61% instances), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt> (9288; 59% instances), <tt><a href="orv_torot-feat-Person.html">Person</a></tt> (2700; 17% instances), <tt><a href="orv_torot-feat-Poss.html">Poss</a></tt> (2700; 17% instances), <tt><a href="orv_torot-feat-Reflex.html">Reflex</a></tt> (1510; 10% instances)
+`ADJ` occurs with 8 features: <tt><a href="orv_torot-feat-Case.html">Case</a></tt> (15609; 100% instances), <tt><a href="orv_torot-feat-Number.html">Number</a></tt> (15609; 100% instances), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt> (15504; 99% instances), <tt><a href="orv_torot-feat-Degree.html">Degree</a></tt> (9488; 61% instances), <tt><a href="orv_torot-feat-Variant.html">Variant</a></tt> (3606; 23% instances), <tt><a href="orv_torot-feat-Person.html">Person</a></tt> (2700; 17% instances), <tt><a href="orv_torot-feat-Poss.html">Poss</a></tt> (2700; 17% instances), <tt><a href="orv_torot-feat-Reflex.html">Reflex</a></tt> (1510; 10% instances)
 
-`ADJ` occurs with 24 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Masc`, `Gender=Neut`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `Reflex=Yes`, `Strength=Strong`, `Strength=Weak`
+`ADJ` occurs with 23 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Masc`, `Gender=Neut`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `Reflex=Yes`, `Variant=Short`
 
-`ADJ` occurs with 325 feature combinations.
-The most frequent feature combination is `Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak` (715 tokens).
-Examples: <em>блаженыи, бл҃говѣрныи, бл҃женыи, великыи, великꙑи, ст҃ыи, безбожныи, бл҃гыи, новгородьскꙑи, блж҃еныи</em>
+`ADJ` occurs with 309 feature combinations.
+The most frequent feature combination is `Case=Nom|Degree=Pos|Gender=Masc|Number=Sing` (733 tokens).
+Examples: <em>блаженыи, бл҃говѣрныи, бл҃женыи, великыи, великꙑи, ст҃ыи, безбожныи, бл҃гыи, новгородьскꙑи, бж҃ии</em>
 
 
 ## Relations

@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-FQB: POS Tags: `ADV`
 
-There are 50 `ADV` lemmas (1%), 55 `ADV` types (1%) and 843 `ADV` tokens (3%).
-Out of 17 observed tags, the rank of `ADV` is: 7 in number of lemmas, 7 in number of types and 10 in number of tokens.
+There are 50 `ADV` lemmas (1%), 55 `ADV` types (1%) and 843 `ADV` tokens (4%).
+Out of 16 observed tags, the rank of `ADV` is: 7 in number of lemmas, 7 in number of types and 10 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>où, quand, plus, combien, comment, ne, pas, pourquoi, surtout, _</em>
 
@@ -38,12 +38,12 @@ The 10 most frequent ambiguous types:  <em>où</em> (<tt><a href="fr_fqb-pos-ADV
 * <em>tout</em>
   * <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 1: <em>Quel terme représente la somme de <b>tout</b> le matériel génétique présent dans un organisme donné ?</em>
   * <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 1: <em>Qui fut le <b>tout</b> premier président américain à démissionner ?</em>
-  * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 1: <em>Comment nomme -t -on le processus normal chez <b>tout</b> être vivant , y compris chez les êtres humains , par lequel des cellules sont programmées à se " suicider " ?</em>
+  * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 1: <em>Comment nomme -t-on le processus normal chez <b>tout</b> être vivant , y compris chez les êtres humains , par lequel des cellules sont programmées à se " suicider " ?</em>
   * <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 1: <em>Est -ce que je dois régler malgré <b>tout</b> son montant à la date limite de paiement ?</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.100000 (the average of all parts of speech is 1.162933).
+The form / lemma ratio of `ADV` is 1.100000 (the average of all parts of speech is 1.163777).
 
 The 1st highest number of forms (7) was observed with the lemma “_”: <em>dessous, dessus, hui, lors, pas, peu, tant</em>.
 

@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  यह (<tt><a href="hi_hdtb-pos-DET.html
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 2.560606 (the average of all parts of speech is 1.203116).
+The form / lemma ratio of `PRON` is 2.560606 (the average of all parts of speech is 1.203447).
 
 The 1st highest number of forms (27) was observed with the lemma “वह”: उन, उनका, उनकी, उनके, उनको, उनमें, उनसे, उन्हीं, उन्हें, उन्होंने, उन्होनें, उन्‍हें, उन्‍होंने, उस, उसका, उसकी, उसके, उसको, उसने, उसमें, उससे, उसी, उसे, वह, वही, वे, वो.
 

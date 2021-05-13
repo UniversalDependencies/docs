@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Mbya_Guarani-Dooley: Features: `Subcat`
 
 This feature is language-specific.
-It occurs with 4 different values: `Ditran`, `Int`, `IntInd`, `Tran`.
+It occurs with 4 different values: `Ditr`, `Indir`, `Intr`, `Tran`.
 
 2163 tokens (18%) have a non-empty value of `Subcat`.
 31 types (27%) occur at least once with a non-empty value of `Subcat`.
@@ -22,9 +22,9 @@ The most frequent other feature values with which `VERB` and `Subcat` co-occurre
 
 `VERB` tokens may have the following values of `Subcat`:
 
-* `Ditran` (57; 3% of non-empty `Subcat`): <em>_</em>
-* `Int` (1084; 50% of non-empty `Subcat`): <em>_, tereo, aa, ereo, huũ, ikuai, nda'eveive, oi, ojae'o, ojapyxaka</em>
-* `IntInd` (70; 3% of non-empty `Subcat`): <em>_, oma'ẽ, ema'ẽ, oma'ẽmba</em>
+* `Ditr` (57; 3% of non-empty `Subcat`): <em>_</em>
+* `Indir` (70; 3% of non-empty `Subcat`): <em>_, oma'ẽ, ema'ẽ, oma'ẽmba</em>
+* `Intr` (1084; 50% of non-empty `Subcat`): <em>_, tereo, aa, ereo, huũ, ikuai, nda'eveive, oi, ojae'o, ojapyxaka</em>
 * `Tran` (952; 44% of non-empty `Subcat`): <em>_, he'i, Ereru, aipoa'e, aipoe'i, aity, ndaikuaavei, oguenoẽ'i, oguerovia, omondoropa</em>
 
 `Subcat` seems to be **lexical feature** of `VERB`. 96% lemmas (25) occur only with one value of `Subcat`.

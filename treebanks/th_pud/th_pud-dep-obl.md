@@ -9,32 +9,30 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `obl`: <tt><a href="th_pud-dep-obl-poss.html">obl:poss</a></tt>, <tt><a href="th_pud-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-1204 nodes (5%) are attached to their parents as `obl`.
+1413 nodes (6%) are attached to their parents as `obl`.
 
-1045 instances of `obl` (87%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.18521594684385.
+1224 instances of `obl` (87%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.95329087048832.
 
-The following 18 pairs of parts of speech are connected with `obl`: <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (892; 74% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> (155; 13% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (79; 7% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (27; 2% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (12; 1% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (12; 1% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="th_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="th_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `obl`: <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (993; 70% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> (156; 11% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (79; 6% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (68; 5% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (29; 2% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (25; 2% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (20; 1% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="th_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="th_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 8 11 obl	color:blue
-1	ป้าย	_	NOUN	NN	_	2	obj	_	SpaceAfter=No
-2	เขียน	_	VERB	VV	_	0	root	_	SpaceAfter=No
-3	ว่า	_	ADP	IN	_	8	mark	_	_
-4	คืน	_	NOUN	NN	_	8	obl:tmod	_	SpaceAfter=No
-5	นี้	_	DET	DT	_	4	det	_	SpaceAfter=No
-6	เรา	_	PRON	PRP	Person=1	8	nsubj	_	SpaceAfter=No
-7	จะ	_	VERB	MD	_	8	aux	_	SpaceAfter=No
-8	ทำ	_	VERB	VV	_	2	ccomp	_	SpaceAfter=No
-9	โทษ	_	NOUN	NN	_	8	obj	_	SpaceAfter=No
-10	ด้วย	_	ADP	IN	_	11	case	_	SpaceAfter=No
-11	ไฟ	_	NOUN	NN	_	8	obl	_	SpaceAfter=No
-12	สูง	_	ADJ	JJ	_	11	amod	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 obl	color:blue
+1	ข้อ	_	NOUN	NN	_	7	nsubj	_	SpaceAfter=No
+2	กำหนด	_	VERB	VV	_	1	acl	_	SpaceAfter=No
+3	เรื่อง	_	NOUN	NN	_	1	compound	_	SpaceAfter=No
+4	การแต่ง	_	VERB	VV	_	3	compound	_	SpaceAfter=No
+5	กาย	_	NOUN	NN	_	4	obj	_	SpaceAfter=No
+6	อาจ	_	AUX	MD	_	7	aux	_	SpaceAfter=No
+7	ล้า	_	VERB	VV	_	0	root	_	SpaceAfter=No
+8	สมัย	_	NOUN	NN	_	7	obl	_	SpaceAfter=No
+9	ไป	_	PART	RP	_	7	compound:prt	_	SpaceAfter=No
+10	หน่อย	_	ADV	RB	_	7	advmod	_	_
 
 ~~~
 
@@ -50,7 +48,7 @@ The following 18 pairs of parts of speech are connected with `obl`: <tt><a href=
 3	งาน	_	NOUN	NN	_	2	obj	_	SpaceAfter=No
 4	กับ	_	ADP	IN	_	5	case	_	SpaceAfter=No
 5	บีบีซี	_	PROPN	NNP	_	2	obl	_	SpaceAfter=No
-6	มา	_	PART	AS	Aspect=Perf	2	aux	_	SpaceAfter=No
+6	มา	_	AUX	AS	Aspect=Perf	2	aux	_	SpaceAfter=No
 7	หนึ่ง	_	NUM	CD	_	8	nummod	_	SpaceAfter=No
 8	ทศวรรษ	_	NOUN	NNB	_	2	obl:tmod	_	_
 

@@ -6,13 +6,13 @@ udver: '2'
 
 ## Treebank Statistics: UD_North_Sami-Giella: Features: `PronType`
 
-This feature is universal but the values `Coll` are language-specific.
-It occurs with 7 different values: `Coll`, `Dem`, `Ind`, `Int`, `Prs`, `Rcp`, `Rel`.
+This feature is universal.
+It occurs with 6 different values: `Dem`, `Ind`, `Int`, `Prs`, `Rcp`, `Rel`.
 
-2887 tokens (11%) have a non-empty value of `PronType`.
-312 types (4%) occur at least once with a non-empty value of `PronType`.
-73 lemmas (2%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (2847; 11% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (40; 0% instances).
+2847 tokens (11%) have a non-empty value of `PronType`.
+284 types (4%) occur at least once with a non-empty value of `PronType`.
+56 lemmas (1%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 1 part-of-speech tags: <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (2847; 11% instances).
 
 ### `PRON`
 
@@ -44,19 +44,6 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt><tt><a href="sme_giella-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sme_giella-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Mii</em></td><td><em>mii</em></td><td></td></tr>
   <tr><td><tt><tt><a href="sme_giella-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sme_giella-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>mat</em></td><td></td></tr>
 </table>
-
-### `NOUN`
-
-40 <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `PronType`.
-
-The most frequent other feature values with which `NOUN` and `PronType` co-occurred: <tt><a href="sme_giella-feat-Number.html">Number</a></tt><tt>=Sing</tt> (38; 95%), <tt><a href="sme_giella-feat-Case.html">Case</a></tt><tt>=Nom</tt> (29; 73%).
-
-`NOUN` tokens may have the following values of `PronType`:
-
-* `Coll` (40; 100% of non-empty `PronType`): <em>máŋggas, guovttis, Máŋgasat, golbmasa, golbmasis, golmmas, guovttos, máná-guovttos, viđas, Biera-guovttos</em>
-* `EMPTY` (6379): <em>sámi, jagi, olbmot, mánát, sámegiela, eadni, beaivvi, gánda, oahpaheaddji, olmmoš</em>
-
-`PronType` seems to be **lexical feature** of `NOUN`. 100% lemmas (17) occur only with one value of `PronType`.
 
 ## Relations with Agreement in `PronType`
 

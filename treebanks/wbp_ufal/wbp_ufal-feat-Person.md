@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="wbp_ufal-feat-Person.html">Person</a></tt>, <tt><a href="wbp_ufal-feat-Person-dat.html">Person[dat]</a></tt>, <tt><a href="wbp_ufal-feat-Person-obj.html">Person[obj]</a></tt>, <tt><a href="wbp_ufal-feat-Person-sdat.html">Person[sdat]</a></tt>.
+This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="wbp_ufal-feat-Person.html">Person</a></tt>, <tt><a href="wbp_ufal-feat-Person-dat.html">Person[dat]</a></tt>, <tt><a href="wbp_ufal-feat-Person-obj.html">Person[obj]</a></tt>.
 
-42 tokens (13%) have a non-empty value of `Person`.
-23 types (22%) occur at least once with a non-empty value of `Person`.
-6 lemmas (10%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="wbp_ufal-pos-PRON.html">PRON</a></tt> (24; 8% instances), <tt><a href="wbp_ufal-pos-AUX.html">AUX</a></tt> (17; 5% instances), <tt><a href="wbp_ufal-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+44 tokens (14%) have a non-empty value of `Person`.
+24 types (23%) occur at least once with a non-empty value of `Person`.
+5 lemmas (8%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: <tt><a href="wbp_ufal-pos-PRON.html">PRON</a></tt> (22; 7% instances), <tt><a href="wbp_ufal-pos-AUX.html">AUX</a></tt> (21; 7% instances), <tt><a href="wbp_ufal-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-24 <tt><a href="wbp_ufal-pos-PRON.html">PRON</a></tt> tokens (96% of all `PRON` tokens) have a non-empty value of `Person`.
+22 <tt><a href="wbp_ufal-pos-PRON.html">PRON</a></tt> tokens (96% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="wbp_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (24; 100%), <tt><a href="wbp_ufal-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (22; 92%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="wbp_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (22; 100%), <tt><a href="wbp_ufal-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (22; 100%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (14; 58% of non-empty `Person`): <em>ngaju, ngajulurlu, rna, Ngajulurlurna, ngajuku</em>
-* `2` (10; 42% of non-empty `Person`): <em>nyuntuku, Ngajulurlu, nyuntu, nyuntulurlu, nyuntukurra</em>
+* `1` (12; 55% of non-empty `Person`): <em>ngaju, ngajulurlu, Ngajulurlurna, ngajuku</em>
+* `2` (10; 45% of non-empty `Person`): <em>nyuntuku, Ngajulurlu, nyuntu, nyuntulurlu, nyuntukurra</em>
 * `EMPTY` (1): <em>yaliki</em>
 
 <table>
@@ -37,19 +37,21 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `AUX`
 
-17 <tt><a href="wbp_ufal-pos-AUX.html">AUX</a></tt> tokens (36% of all `AUX` tokens) have a non-empty value of `Person`.
+21 <tt><a href="wbp_ufal-pos-AUX.html">AUX</a></tt> tokens (42% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="wbp_ufal-feat-Person-dat.html">Person[dat]</a></tt><tt>=EMPTY</tt> (16; 94%), <tt><a href="wbp_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (15; 88%), <tt><a href="wbp_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 82%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="wbp_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18; 86%), <tt><a href="wbp_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (16; 76%), <tt><a href="wbp_ufal-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (11; 52%), <tt><a href="wbp_ufal-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (11; 52%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (11; 65% of non-empty `Person`): <em>karnangku, karna, karnapalangu, kapirna, kapirnarla</em>
-* `2` (3; 18% of non-empty `Person`): <em>kanpaju, kanpa</em>
-* `3` (3; 18% of non-empty `Person`): <em>kalu, kalujana</em>
-* `EMPTY` (30): <em>ka, kaju, karla, karlajinta</em>
+* `1` (14; 67% of non-empty `Person`): <em>karnangku, karna, rna, karnapalangu, kapirna, kapirnarla</em>
+* `2` (3; 14% of non-empty `Person`): <em>kanpaju, kanpa</em>
+* `3` (4; 19% of non-empty `Person`): <em>kalu, kalujana, karlajinta</em>
+* `EMPTY` (29): <em>ka, kaju, karla</em>
 
 <table>
   <tr><th>Paradigm <i>ka</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><tt><a href="wbp_ufal-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt>|<tt><a href="wbp_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>rna</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="wbp_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="wbp_ufal-feat-Number-dat.html">Number[dat]</a></tt><tt>=Sing</tt>|<tt><a href="wbp_ufal-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="wbp_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>karlajinta</em></td></tr>
   <tr><td><tt><tt><a href="wbp_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="wbp_ufal-feat-Number-obj.html">Number[obj]</a></tt><tt>=Dual</tt>|<tt><a href="wbp_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>karnapalangu</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="wbp_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="wbp_ufal-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="wbp_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>karnangku</em></td><td><em>kanpaju</em></td><td></td></tr>
   <tr><td><tt><tt><a href="wbp_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="wbp_ufal-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>kapirna, kapirnarla</em></td><td></td><td></td></tr>

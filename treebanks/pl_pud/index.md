@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Alina Wróblewska.
 
 Repository: [UD_Polish-PUD](https://github.com/UniversalDependencies/UD_Polish-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl_pud27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl_pud28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -912,7 +912,7 @@ year = {2018}
 <ul>
   <li><a>ConjType</a>
     <ul>
-      <li>Cmpr
+      <li>Comp
         <ul>
           <li>SCONJ: jak, niż</li>
         </ul>
@@ -929,11 +929,6 @@ year = {2018}
 <ul>
   <li><a>Foreign</a>
     <ul>
-      <li>No
-        <ul>
-          <li>X: dala</li>
-        </ul>
-      </li>
       <li>Yes
         <ul>
           <li>X: of, the, de, El, Von, 'Ya, A, Breaking, Buck, Century</li>
@@ -1050,17 +1045,12 @@ year = {2018}
       </li>
       <li>Dash
         <ul>
-          <li>PUNCT: —, –</li>
+          <li>PUNCT: —, –, -</li>
         </ul>
       </li>
       <li>Elip
         <ul>
           <li>PUNCT: …</li>
-        </ul>
-      </li>
-      <li>Hyph
-        <ul>
-          <li>PUNCT: -</li>
         </ul>
       </li>
       <li>Peri

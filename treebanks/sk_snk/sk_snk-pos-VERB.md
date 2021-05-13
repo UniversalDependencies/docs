@@ -23,19 +23,19 @@ The 10 most frequent ambiguous types:  <em>je</em> (<tt><a href="sk_snk-pos-AUX.
   * <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> 106: <em>Hospodárstvo KĽDR <b>je</b> na kolenách a deti hladujú .</em>
   * <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> 1: <em>Alebo sa kosatky rozhodnú oddeliť pár a obklopiť mladú veľrybu , poprípade zabrániť <b>je</b> v návrate na povrch mora a v nadýchnutí .</em>
 * <em>bol</em>
-  * <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> 211: <em>Mahmúd <b>bol</b> výborným kaligrafom a básnikom , písal pod pseudonymom Adli .</em>
+  * <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> 211: <em>Prvý preklad <b>bol</b> grécky .</em>
   * <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> 46: <em>Od roku 1748 <b>bol</b> Matej Bel na dôchodku .</em>
 * <em>bolo</em>
-  * <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> 103: <em>Dielo <b>bolo</b> úspešne sfilmované .</em>
-  * <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> 38: <em>Podľa Mahmúda <b>bolo</b> na jar 1826 grécke povstanie na konci .</em>
+  * <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> 103: <em>Cieľom <b>bolo</b> vytvoriť samostatný štát do roku 2005 .</em>
+  * <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> 38: <em>Vždy tu <b>bolo</b> niekolko kapiel .</em>
 * <em>bola</em>
-  * <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> 141: <em>Jeho počiatočná pozícia pri nástupe k moci <b>bola</b> mimoriadne slabá .</em>
+  * <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> 141: <em>Jemná pôda <b>bola</b> celkom šmykľavá .</em>
   * <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> 31: <em>Rozbujnená vegetácia na mieste , kde pred rokmi <b>bola</b> udržiavaná záhrada ?</em>
 * <em>sú</em>
   * <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> 119: <em>Po Silvestri <b>sú</b> zničení aj ľudia , aj zvieratá</em>
   * <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> 21: <em>Tu <b>sú</b> obžalovacie spisy , tu <b>sú</b> zatykače .</em>
 * <em>boli</em>
-  * <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> 97: <em>Traja ďalší ortodoxní biskupi <b>boli</b> tiež popravení .</em>
+  * <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> 97: <em>Ďalšou dôležitou témou <b>boli</b> morálne otázky .</em>
   * <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> 19: <em>Shepherdovci bývali v luxusnej štvrti , kde <b>boli</b> samé honosné domy .</em>
 * <em>som</em>
   * <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> 1474: <em>„ Prestal <b>som</b> piť v roku 1986 a odvtedy <b>som</b> nevypil ani kvapku ” .</em>
@@ -44,16 +44,16 @@ The 10 most frequent ambiguous types:  <em>je</em> (<tt><a href="sk_snk-pos-AUX.
   * <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> 113: <em>Napokon sa rozhodol , že ich <b>bude</b> nasledovať .</em>
   * <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> 12: <em>Ak spln pripadá na nedeľu , Veľká noc <b>bude</b> až nasledujúcu nedeľu .</em>
 * <em>si</em>
-  * <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> 385: <em>Kardinálov <b>si</b> starostlivo vyberal .</em>
+  * <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> 385: <em>Potom sa obrátil na Fínsko , aby <b>si</b> podobné ústupky vynútil aj od neho .</em>
   * <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> 61: <em>“ Našla <b>si</b> ju ? “ spýtal sa Chris .</em>
   * <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> 12: <em>" A vieš , ako dlho <b>si</b> tu ? "</em>
 * <em>byť</em>
-  * <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> 53: <em>Zo zbierky vyplýva , že každé zlo musí <b>byť</b> potrestané .</em>
+  * <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> 53: <em>Boh nemá podobu a nesmie <b>byť</b> zobrazovaný .</em>
   * <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> 9: <em>Väčšina zdrojov však uvádza , že by mal <b>byť</b> v Šanghaji .</em>
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 2.334483 (the average of all parts of speech is 1.801856).
+The form / lemma ratio of `VERB` is 2.334483 (the average of all parts of speech is 1.802472).
 
 The 1st highest number of forms (28) was observed with the lemma “ísť”: <em>Choď, Nejdem, Nejdeme, Nešlo, Poďte, Pôjdu, ide, idem, ideme, ideš, idú, išiel, išla, išli, išlo, nejde, nepôjdem, nepôjdeš, nepôjdu, nešiel, poď, poďme, pôjde, pôjdem, pôjdeme, ísť, šiel, šlo</em>.
 
@@ -86,7 +86,7 @@ Parents of `VERB` nodes belong to 13 different parts of speech:  (8201; 58% inst
 
 The highest child degree of a `VERB` node is 9.
 
-Children of `VERB` nodes are attached using 27 different relations: <tt><a href="sk_snk-dep-punct.html">punct</a></tt> (14031; 27% instances), <tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt> (5964; 12% instances), <tt><a href="sk_snk-dep-obl.html">obl</a></tt> (5375; 11% instances), <tt><a href="sk_snk-dep-obj.html">obj</a></tt> (5225; 10% instances), <tt><a href="sk_snk-dep-advmod.html">advmod</a></tt> (4058; 8% instances), <tt><a href="sk_snk-dep-obl-arg.html">obl:arg</a></tt> (2620; 5% instances), <tt><a href="sk_snk-dep-expl-pv.html">expl:pv</a></tt> (2592; 5% instances), <tt><a href="sk_snk-dep-aux.html">aux</a></tt> (1985; 4% instances), <tt><a href="sk_snk-dep-conj.html">conj</a></tt> (1853; 4% instances), <tt><a href="sk_snk-dep-cc.html">cc</a></tt> (1672; 3% instances), <tt><a href="sk_snk-dep-mark.html">mark</a></tt> (1544; 3% instances), <tt><a href="sk_snk-dep-ccomp.html">ccomp</a></tt> (1252; 2% instances), <tt><a href="sk_snk-dep-xcomp.html">xcomp</a></tt> (1048; 2% instances), <tt><a href="sk_snk-dep-advcl.html">advcl</a></tt> (753; 1% instances), <tt><a href="sk_snk-dep-dep.html">dep</a></tt> (349; 1% instances), <tt><a href="sk_snk-dep-expl-pass.html">expl:pass</a></tt> (221; 0% instances), <tt><a href="sk_snk-dep-nsubj-pass.html">nsubj:pass</a></tt> (135; 0% instances), <tt><a href="sk_snk-dep-iobj.html">iobj</a></tt> (128; 0% instances), <tt><a href="sk_snk-dep-csubj.html">csubj</a></tt> (77; 0% instances), <tt><a href="sk_snk-dep-advmod-emph.html">advmod:emph</a></tt> (64; 0% instances), <tt><a href="sk_snk-dep-parataxis.html">parataxis</a></tt> (53; 0% instances), <tt><a href="sk_snk-dep-discourse.html">discourse</a></tt> (40; 0% instances), <tt><a href="sk_snk-dep-vocative.html">vocative</a></tt> (28; 0% instances), <tt><a href="sk_snk-dep-csubj-pass.html">csubj:pass</a></tt> (19; 0% instances), <tt><a href="sk_snk-dep-compound.html">compound</a></tt> (5; 0% instances), <tt><a href="sk_snk-dep-appos.html">appos</a></tt> (3; 0% instances), <tt><a href="sk_snk-dep-nummod.html">nummod</a></tt> (2; 0% instances)
+Children of `VERB` nodes are attached using 27 different relations: <tt><a href="sk_snk-dep-punct.html">punct</a></tt> (14031; 27% instances), <tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt> (5964; 12% instances), <tt><a href="sk_snk-dep-obl.html">obl</a></tt> (5372; 11% instances), <tt><a href="sk_snk-dep-obj.html">obj</a></tt> (5223; 10% instances), <tt><a href="sk_snk-dep-advmod.html">advmod</a></tt> (4058; 8% instances), <tt><a href="sk_snk-dep-obl-arg.html">obl:arg</a></tt> (2619; 5% instances), <tt><a href="sk_snk-dep-expl-pv.html">expl:pv</a></tt> (2592; 5% instances), <tt><a href="sk_snk-dep-aux.html">aux</a></tt> (1985; 4% instances), <tt><a href="sk_snk-dep-conj.html">conj</a></tt> (1853; 4% instances), <tt><a href="sk_snk-dep-cc.html">cc</a></tt> (1672; 3% instances), <tt><a href="sk_snk-dep-mark.html">mark</a></tt> (1544; 3% instances), <tt><a href="sk_snk-dep-ccomp.html">ccomp</a></tt> (1255; 2% instances), <tt><a href="sk_snk-dep-xcomp.html">xcomp</a></tt> (1048; 2% instances), <tt><a href="sk_snk-dep-advcl.html">advcl</a></tt> (756; 1% instances), <tt><a href="sk_snk-dep-dep.html">dep</a></tt> (349; 1% instances), <tt><a href="sk_snk-dep-expl-pass.html">expl:pass</a></tt> (221; 0% instances), <tt><a href="sk_snk-dep-nsubj-pass.html">nsubj:pass</a></tt> (134; 0% instances), <tt><a href="sk_snk-dep-iobj.html">iobj</a></tt> (128; 0% instances), <tt><a href="sk_snk-dep-csubj.html">csubj</a></tt> (77; 0% instances), <tt><a href="sk_snk-dep-advmod-emph.html">advmod:emph</a></tt> (64; 0% instances), <tt><a href="sk_snk-dep-parataxis.html">parataxis</a></tt> (53; 0% instances), <tt><a href="sk_snk-dep-discourse.html">discourse</a></tt> (40; 0% instances), <tt><a href="sk_snk-dep-vocative.html">vocative</a></tt> (28; 0% instances), <tt><a href="sk_snk-dep-csubj-pass.html">csubj:pass</a></tt> (20; 0% instances), <tt><a href="sk_snk-dep-compound.html">compound</a></tt> (5; 0% instances), <tt><a href="sk_snk-dep-appos.html">appos</a></tt> (3; 0% instances), <tt><a href="sk_snk-dep-nummod.html">nummod</a></tt> (2; 0% instances)
 
 Children of `VERB` nodes belong to 17 different parts of speech: <tt><a href="sk_snk-pos-PUNCT.html">PUNCT</a></tt> (14031; 27% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (12306; 24% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (6124; 12% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (4561; 9% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (3568; 7% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (2542; 5% instances), <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> (1985; 4% instances), <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> (1744; 3% instances), <tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (1399; 3% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (1337; 3% instances), <tt><a href="sk_snk-pos-PART.html">PART</a></tt> (782; 2% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (395; 1% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (253; 0% instances), <tt><a href="sk_snk-pos-X.html">X</a></tt> (37; 0% instances), <tt><a href="sk_snk-pos-INTJ.html">INTJ</a></tt> (27; 0% instances), <tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="sk_snk-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Memduh Gökırmak, Francis Tyers.
 
 Repository: [UD_Kurmanji-MG](https://github.com/UniversalDependencies/UD_Kurmanji-MG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkmr_mg27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkmr_mg28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -76,7 +76,7 @@ year = 2017
 
 ## Relations
 
-[acl](kmr_mg-dep-acl.html) – [advcl](kmr_mg-dep-advcl.html) – [advmod](kmr_mg-dep-advmod.html) – [advmod:neg](kmr_mg-dep-advmod-neg.html) – [amod](kmr_mg-dep-amod.html) – [appos](kmr_mg-dep-appos.html) – [aux](kmr_mg-dep-aux.html) – [case](kmr_mg-dep-case.html) – [case:circ](kmr_mg-dep-case-circ.html) – [cc](kmr_mg-dep-cc.html) – [ccomp](kmr_mg-dep-ccomp.html) – [compound](kmr_mg-dep-compound.html) – [compound:lvc](kmr_mg-dep-compound-lvc.html) – [compound:nn](kmr_mg-dep-compound-nn.html) – [compound:redup](kmr_mg-dep-compound-redup.html) – [conj](kmr_mg-dep-conj.html) – [cop](kmr_mg-dep-cop.html) – [csubj](kmr_mg-dep-csubj.html) – [dep](kmr_mg-dep-dep.html) – [det](kmr_mg-dep-det.html) – [discourse](kmr_mg-dep-discourse.html) – [dislocated](kmr_mg-dep-dislocated.html) – [fixed](kmr_mg-dep-fixed.html) – [flat](kmr_mg-dep-flat.html) – [mark](kmr_mg-dep-mark.html) – [nmod](kmr_mg-dep-nmod.html) – [nmod:dat](kmr_mg-dep-nmod-dat.html) – [nmod:poss](kmr_mg-dep-nmod-poss.html) – [nsubj](kmr_mg-dep-nsubj.html) – [nummod](kmr_mg-dep-nummod.html) – [obj](kmr_mg-dep-obj.html) – [obl](kmr_mg-dep-obl.html) – [orphan](kmr_mg-dep-orphan.html) – [parataxis](kmr_mg-dep-parataxis.html) – [punct](kmr_mg-dep-punct.html) – [root](kmr_mg-dep-root.html) – [xcomp](kmr_mg-dep-xcomp.html)
+[acl](kmr_mg-dep-acl.html) – [advcl](kmr_mg-dep-advcl.html) – [advmod](kmr_mg-dep-advmod.html) – [advmod:neg](kmr_mg-dep-advmod-neg.html) – [amod](kmr_mg-dep-amod.html) – [appos](kmr_mg-dep-appos.html) – [aux](kmr_mg-dep-aux.html) – [case](kmr_mg-dep-case.html) – [cc](kmr_mg-dep-cc.html) – [ccomp](kmr_mg-dep-ccomp.html) – [compound](kmr_mg-dep-compound.html) – [compound:lvc](kmr_mg-dep-compound-lvc.html) – [compound:redup](kmr_mg-dep-compound-redup.html) – [conj](kmr_mg-dep-conj.html) – [cop](kmr_mg-dep-cop.html) – [csubj](kmr_mg-dep-csubj.html) – [dep](kmr_mg-dep-dep.html) – [det](kmr_mg-dep-det.html) – [discourse](kmr_mg-dep-discourse.html) – [dislocated](kmr_mg-dep-dislocated.html) – [fixed](kmr_mg-dep-fixed.html) – [flat](kmr_mg-dep-flat.html) – [mark](kmr_mg-dep-mark.html) – [nmod](kmr_mg-dep-nmod.html) – [nmod:poss](kmr_mg-dep-nmod-poss.html) – [nsubj](kmr_mg-dep-nsubj.html) – [nummod](kmr_mg-dep-nummod.html) – [obj](kmr_mg-dep-obj.html) – [obl](kmr_mg-dep-obl.html) – [obl:dat](kmr_mg-dep-obl-dat.html) – [orphan](kmr_mg-dep-orphan.html) – [parataxis](kmr_mg-dep-parataxis.html) – [punct](kmr_mg-dep-punct.html) – [root](kmr_mg-dep-root.html) – [xcomp](kmr_mg-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -255,6 +255,18 @@ year = 2017
 </ul>
 
 <ul>
+  <li>Acc
+    <ul>
+      <li>DET: vê, wê, vî, wî, van, wan, _</li>
+      <li>NOUN: gund, kurdan, caran, derî, odê, qesirê, dest, cih, salan, demê</li>
+      <li>NUM: yekê, 1932'an, 14an, 1500'an, 1534'an, 1603'an, 1604'an, 1788'an, 1825'an, 1829'an</li>
+      <li>PRON: min, me, wî, _, wê, te, wan, we, vê, ewî</li>
+      <li>PROPN: Holmes, Stonêrê, Rweylot, Tirkiyeyê, Cûlyayê, Ewropayê, Hindistanê, Amedê, Stenbolê, Stokmoranê</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Con
     <ul>
       <li>ADJ: saliya, derûniyê, germa, kelha, kurê, orjinalê, saliyê, tevahiya, tirşê</li>
@@ -273,18 +285,6 @@ year = 2017
       <li>NUM: du, yek, sê, pênc, çar, deh, dido, dwanzde, dû, penc</li>
       <li>PRON: em, ew, ez, ev, tu, emê, ezê, Honê, hûn, Eve</li>
       <li>PROPN: Holmes, Rweylot, Stonêr, roma, Şerlok, Botan, Keya, Teyran, Abdusamet, Elî</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Obl
-    <ul>
-      <li>DET: vê, wê, vî, wî, van, wan, _</li>
-      <li>NOUN: gund, kurdan, caran, derî, odê, qesirê, dest, cih, salan, demê</li>
-      <li>NUM: yekê, 1932'an, 14an, 1500'an, 1534'an, 1603'an, 1604'an, 1788'an, 1825'an, 1829'an</li>
-      <li>PRON: min, me, wî, _, wê, te, wan, we, vê, ewî</li>
-      <li>PROPN: Holmes, Stonêrê, Rweylot, Tirkiyeyê, Cûlyayê, Ewropayê, Hindistanê, Amedê, Stenbolê, Stokmoranê</li>
     </ul>
   </li>
 </ul>
@@ -647,21 +647,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN-Nom (1)</li>
-      <li>VERB-Fin--NOUN (9)</li>
+      <li>VERB-Fin--NOUN (10)</li>
+      <li>VERB-Fin--NOUN-Acc (27)</li>
       <li>VERB-Fin--NOUN-Con (85)</li>
       <li>VERB-Fin--NOUN-Con-ADP(yê) (3)</li>
       <li>VERB-Fin--NOUN-Con-ADP(yê)-ADP(yê) (1)</li>
       <li>VERB-Fin--NOUN-Nom (72)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(bi) (1)</li>
-      <li>VERB-Fin--NOUN-Obl (27)</li>
       <li>VERB-Fin--PRON (7)</li>
+      <li>VERB-Fin--PRON-Acc (91)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(tenê) (1)</li>
       <li>VERB-Fin--PRON-Nom (107)</li>
-      <li>VERB-Fin--PRON-Obl (91)</li>
-      <li>VERB-Fin--PRON-Obl-ADP(tenê) (1)</li>
+      <li>VERB-Inf--NOUN-Acc (4)</li>
       <li>VERB-Inf--NOUN-Con (34)</li>
       <li>VERB-Inf--NOUN-Con-ADP(yê) (3)</li>
       <li>VERB-Inf--NOUN-Nom (28)</li>
-      <li>VERB-Inf--NOUN-Obl (4)</li>
       <li>VERB-Inf--PRON-Nom (5)</li>
       <li>VERB-Part--NOUN-Con (1)</li>
       <li>VERB-Part--PRON (1)</li>
@@ -673,15 +673,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
+      <li>VERB-Fin--NOUN-Acc (58)</li>
       <li>VERB-Fin--NOUN-Con (131)</li>
       <li>VERB-Fin--NOUN-Con-ADP(yê) (6)</li>
       <li>VERB-Fin--NOUN-Nom (63)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(ve) (1)</li>
-      <li>VERB-Fin--NOUN-Obl (58)</li>
       <li>VERB-Fin--NOUN-Voc-ADP(yê) (1)</li>
       <li>VERB-Fin--PRON (26)</li>
+      <li>VERB-Fin--PRON-Acc (9)</li>
       <li>VERB-Fin--PRON-Nom (24)</li>
-      <li>VERB-Fin--PRON-Obl (9)</li>
       <li>VERB-Inf--NOUN-Con (2)</li>
       <li>VERB-Inf--NOUN-Nom (2)</li>
       <li>VERB-Part--NOUN-Nom (1)</li>
@@ -708,6 +708,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 7 relation subtypes: <a>advmod:neg</a>, <a>case:circ</a>, <a>compound:lvc</a>, <a>compound:nn</a>, <a>compound:redup</a>, <a>nmod:dat</a>, <a>nmod:poss</a></li>
+<li>This corpus uses 5 relation subtypes: <a>advmod:neg</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>nmod:poss</a>, <a>obl:dat</a></li>
 <li>The following 7 relation types are not used in this corpus at all: <a>iobj</a>, <a>vocative</a>, <a>expl</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

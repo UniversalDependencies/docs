@@ -24,12 +24,12 @@ The following 1 pairs of parts of speech are connected with `obl`: <tt><a href="
 # visual-style 3 7 obl	color:blue
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealer	dealer	NOUN	NN	Number=Sing	3	nsubj	_	_
-3	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
 5	car	car	NOUN	NN	Number=Sing	3	obj	_	_
 6	before	before	ADP	IN	_	7	case	_	_
-7	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
-8	.	.	PUNCT	Period	_	3	punct	_	_
+7	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	obl	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~
 

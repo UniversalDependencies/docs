@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1354 nodes (2%) are attached to their parents as `amod`.
+1679 nodes (2%) are attached to their parents as `amod`.
 
-1147 instances of `amod` (85%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.27843426883309.
+1443 instances of `amod` (86%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.26206075044669.
 
-The following 19 pairs of parts of speech are connected with `amod`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (1265; 93% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (24; 2% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (12; 1% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `amod`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (1579; 94% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (54; 3% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (14; 1% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (11; 1% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 19 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 6	fgColor:white
 # visual-style 6 7 amod	color:blue
 1	‘s	's	CCONJ	Cc	_	3	cc	_	_
-2	an	an	PART	Qq	Mood=Int|PartType=Vb|PronType=Int	3	mark:prt	_	_
+2	an	an	PART	Qq	PartType=Vb|PronType=Int	3	mark:prt	_	_
 3	robh	bi	VERB	V-s--d	Tense=Past	0	root	_	_
 4	a	a	DET	Dq	_	6	det	_	_
 5	h-uile	uile	DET	Dq	_	4	fixed	_	_
@@ -41,14 +41,19 @@ The following 19 pairs of parts of speech are connected with `amod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 amod	color:blue
-1	[Name]	[Name]	PROPN	Nn-fn	Case=Nom|Gender=Fem	0	root	_	_
-2	[Name]	[Name]	PROPN	Nn-mg	Case=Gen|Gender=Masc	1	flat	_	_
-3	Ruaidh	ruaidh	ADJ	Aq-smg	Case=Gen|Gender=Masc|Number=Sing	1	amod	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 amod	color:blue
+1	ò	ò	INTJ	I	_	3	discourse	_	_
+2	uill	uill	INTJ	I	_	3	discourse	_	_
+3	chuala	cluinn	VERB	V-s	Tense=Past	0	root	_	_
+4	mi	mi	PRON	Pp1s	Number=Sing|Person=1	3	nsubj	_	_
+5	[Name]	[Name]	PROPN	Nn-mn	Case=Nom|Gender=Masc	3	obj	_	_
+6	[Name]	[Name]	PROPN	Nn-mg	Case=Gen|Gender=Masc	5	flat:name	_	_
+7	Òig	òig	ADJ	Aq-smg	Case=Gen|Gender=Masc|Number=Sing	5	amod	_	_
+8	Ruaidh	ruaidh	ADJ	Aq-smg	Case=Gen|Gender=Masc|Number=Sing	5	amod	_	_
 
 ~~~
 

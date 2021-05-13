@@ -23,7 +23,7 @@ The following 12 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 4	fgColor:white
 # visual-style 4 3 amod	color:blue
 1	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
-2	हे	हा	DET	_	Distance=Prox|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	_
+2	हे	हा	DET	_	Deixis=Prox|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	_
 3	म्हातारे	म्हातारा	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	4	amod	_	_
 4	शेतकरी	शेतकरी	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
 5	साक्षीदार	साक्षीदार	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
@@ -45,13 +45,13 @@ The following 12 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 amod	color:blue
-1	त्या	तो	DET	_	Case=Obl|Distance=Dist|PronType=Dem	2	det	_	_
-2	_	गाव	NOUN	_	Case=Obl|Gender=Masc|Number=Sing	5	amod	_	_
+1	त्या	तो	DET	_	Case=Abs|Deixis=Remt|PronType=Dem	2	det	_	_
+2	_	गाव	NOUN	_	Case=Abs|Gender=Masc|Number=Sing	5	amod	_	_
 3	_	तील	ADP	_	_	2	case	_	_
 4	सारे	सारा	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	5	amod	_	_
 5	गोरगरीब	गोरगरीब	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	_
-6	_	केशवचंद्र	PROPN	_	Case=Obl|Gender=Masc|Number=Plur	8	nmod:poss	_	_
-7	_	चा	ADP	_	Case=Obl	6	case	_	_
+6	_	केशवचंद्र	PROPN	_	Case=Abs|Gender=Masc|Number=Plur	8	nmod:poss	_	_
+7	_	चा	ADP	_	Case=Abs	6	case	_	_
 8	नावे	नाव	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	10	obl	_	_
 9	खडे	खडा	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	10	obj	_	_
 10	फोडीत	फोडणे	VERB	_	Aspect=Imp|VerbForm=Part	0	root	_	_

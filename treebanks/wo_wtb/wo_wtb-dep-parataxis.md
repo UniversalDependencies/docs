@@ -22,16 +22,16 @@ The following 20 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 9 parataxis	color:blue
-1	Mu	mu	PRON	PRON	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
-2	a	a	AUX	INFL	FocusType=Subj|Mood=Ind	4	aux	4:aux	_
-3	di	di	AUX	AUX	Aspect=Imp|Mood=Ind|Tense=Pres	4	aux	4:aux	_
-4	dégg	dégg	VERB	VERB	VerbForm=Inf	0	root	0:root	SpaceAfter=No
-5	,	,	PUNCT	COMMA	_	9	punct	9:punct	_
-6	mu	mu	PRON	PRON	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	nsubj	9:nsubj	_
-7	a	a	AUX	INFL	FocusType=Subj|Mood=Ind	9	aux	9:aux	_
-8	di	di	AUX	AUX	Aspect=Imp|Mood=Ind|Tense=Pres	9	aux	9:aux	_
-9	gis	gis	VERB	VERB	Mood=Ind|VerbForm=Fin	4	parataxis	4:parataxis	SpaceAfter=No
-10	.	.	PUNCT	PERIOD	_	4	punct	4:punct	_
+1	Mu	mu	PRON	PRON	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	a	a	AUX	INFL	FocusType=Subj|Mood=Ind	4	aux	_	_
+3	di	di	AUX	AUX	Aspect=Imp|Mood=Ind|Tense=Pres	4	aux	_	_
+4	dégg	dégg	VERB	VERB	VerbForm=Inf	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	COMMA	_	9	punct	_	_
+6	mu	mu	PRON	PRON	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+7	a	a	AUX	INFL	FocusType=Subj|Mood=Ind	9	aux	_	_
+8	di	di	AUX	AUX	Aspect=Imp|Mood=Ind|Tense=Pres	9	aux	_	_
+9	gis	gis	VERB	VERB	Mood=Ind|VerbForm=Fin	4	parataxis	_	SpaceAfter=No
+10	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
 ~~~
 
@@ -42,21 +42,21 @@ The following 20 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 13 parataxis	color:blue
-1	Mu	mu	PRON	PRON	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
-2	doon	di	AUX	COP	Aspect=Imp|Mood=Ind|Tense=Past|VerbForm=Fin	4	cop	4:cop	_
-3	it	it	ADV	ADV	_	4	advmod	4:advmod	_
-4	jigéen	jigéen	NOUN	NOUN	_	0	root	0:root	_
-5	ju	bu	PRON	PRON	NounClass=Wol4|Number=Sing|Person=3|PronType=Rel	6	nsubj	6:nsubj	_
-6	maandu	maandu	VERB	VERB	Mood=Ind|VerbForm=Fin	4	acl:relcl	4:acl:relcl	_
-7	ci	ci	ADP	PREP	_	9	case	9:case	_
-8	gépp	bépp	DET	DET	NounClass=Wol3|Number=Sing|PronType=Tot	9	det	9:det	_
-9	anam	anam	NOUN	NOUN	_	6	obl	6:obl	SpaceAfter=No
-10	,	,	PUNCT	COMMA	_	13	punct	13:punct	_
-11	ku	bu	PRON	PRON	NounClass=Wol1|Number=Sing|Person=3|PronType=Int	13	nsubj	13:nsubj	_
-12	daan	di	AUX	INFL	Aspect=Hab|Mood=Ind|Tense=Past	13	aux	13:aux	_
-13	dunde	dunde	VERB	VERB	Mood=Ind|VerbForm=Fin	4	parataxis	4:parataxis	_
-14	Lislaam	Lislaam	PROPN	NAME	_	13	obj	13:obj	SpaceAfter=No
-15	.	.	PUNCT	PERIOD	_	4	punct	4:punct	_
+1	Mu	mu	PRON	PRON	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	doon	di	AUX	COP	Aspect=Imp|Mood=Ind|Tense=Past|VerbForm=Fin	4	cop	_	_
+3	it	it	ADV	ADV	_	4	advmod	_	_
+4	jigéen	jigéen	NOUN	NOUN	_	0	root	_	_
+5	ju	bu	PRON	PRON	NounClass=Wol4|Number=Sing|Person=3|PronType=Rel	6	nsubj	_	_
+6	maandu	maandu	VERB	VERB	Mood=Ind|VerbForm=Fin	4	acl:relcl	_	_
+7	ci	ci	ADP	PREP	_	9	case	_	_
+8	gépp	bépp	DET	DET	NounClass=Wol3|Number=Sing|PronType=Tot	9	det	_	_
+9	anam	anam	NOUN	NOUN	_	6	obl	_	SpaceAfter=No
+10	,	,	PUNCT	COMMA	_	13	punct	_	_
+11	ku	bu	PRON	PRON	NounClass=Wol1|Number=Sing|Person=3|PronType=Int	13	nsubj	_	_
+12	daan	di	AUX	INFL	Aspect=Hab|Mood=Ind|Tense=Past	13	aux	_	_
+13	dunde	dunde	VERB	VERB	Mood=Ind|VerbForm=Fin	4	parataxis	_	_
+14	Lislaam	Lislaam	PROPN	NAME	_	13	obj	_	SpaceAfter=No
+15	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
 ~~~
 
@@ -67,15 +67,15 @@ The following 20 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 parataxis	color:blue
-1	Ku	bu	PRON	PRON	NounClass=Wol1|Number=Sing|Person=3|PronType=Rel	3	nsubj	3:nsubj	_
-2	wax	wax	VERB	VERB	Mood=Ind|VerbForm=Fin	1	acl:relcl	1:acl:relcl	_
-3	feeñ	feeñ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	0:root	SpaceAfter=No
-4	:	:	PUNCT	COLON	_	5	punct	5:punct	_
-5	demokaraasi	demokaraasi	NOUN	NOUN	_	3	parataxis	3:parataxis	_
-6	ag	ag	CCONJ	CONJ	_	7	cc	7:cc	_
-7	làkki	làkk	NOUN	NOUN	Case=Gen|Number=Plur	5	conj	5:conj	_
-8	réew	réew	NOUN	NOUN	_	7	nmod	7:nmod	_
-9	mi	bi	DET	DET	Definite=Def|Deixis=Prox|NounClass=Wol6|Number=Sing|PronType=Art	8	det	8:det	_
+1	Ku	bu	PRON	PRON	NounClass=Wol1|Number=Sing|Person=3|PronType=Rel	3	nsubj	_	_
+2	wax	wax	VERB	VERB	Mood=Ind|VerbForm=Fin	1	acl:relcl	_	_
+3	feeñ	feeñ	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	:	:	PUNCT	COLON	_	5	punct	_	_
+5	demokaraasi	demokaraasi	NOUN	NOUN	_	3	parataxis	_	_
+6	ag	ag	CCONJ	CONJ	_	7	cc	_	_
+7	làkki	làkk	NOUN	NOUN	Case=Gen|Number=Plur	5	conj	_	_
+8	réew	réew	NOUN	NOUN	_	7	nmod	_	_
+9	mi	bi	DET	DET	Definite=Def|Deixis=Prox|NounClass=Wol6|Number=Sing|PronType=Art	8	det	_	_
 
 ~~~
 

@@ -7,13 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Buryat-BDT: POS Tags: `CCONJ`
 
 There are 15 `CCONJ` lemmas (1%), 15 `CCONJ` types (0%) and 83 `CCONJ` tokens (1%).
-Out of 16 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 13 in number of types and 13 in number of tokens.
+Out of 16 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 13 in number of types and 13 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>ба, болон, аад, али, харин, хамта, баһа, гадна, гү, и</em>
 
 The 10 most frequent `CCONJ` types:  <em>ба, болон, аад, али, харин, хамта, Баһа, Тиигээд, гадна, гү</em>
 
-The 10 most frequent ambiguous lemmas: <em>болон</em> (<tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 24, <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 4, <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> 1), <em>харин</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 10, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 6), <em>хамта</em> (<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 3, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 2), <em>баһа</em> (<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 9, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>гадна</em> (<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 1, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>гү</em> (<tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 19, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>суг</em> (<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 5, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>тиигээд</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 3, <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 2, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>хоёр</em> (<tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt> 16, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>һанаа</em> (<tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>болон</em> (<tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 24, <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 4, <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> 1), <em>харин</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 10, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 6), <em>хамта</em> (<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 3, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 2), <em>баһа</em> (<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 9, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>гадна</em> (<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 1, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>гү</em> (<tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 19, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>суг</em> (<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 5, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>тиигээд</em> (<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 3, <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 2, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>хоёр</em> (<tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt> 16, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>һанаа</em> (<tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>болон</em> (<tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 24, <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 4, <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 1), <em>харин</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 5, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 5), <em>хамта</em> (<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 3, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>Тиигээд</em> (<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 2, <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 1, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>гадна</em> (<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 2, <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 1, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>гү</em> (<tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 17, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>суг</em> (<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>хоёр</em> (<tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt> 7, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>һанаа</em> (<tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> 1)
 
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>болон</em> (<tt><a href="bxr_bdt
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.635385).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.633129).
 
 The 1st highest number of forms (1) was observed with the lemma “аад”: <em>аад</em>.
 
@@ -65,17 +65,17 @@ The 3rd highest number of forms (1) was observed with the lemma “ба”: <em>
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 8 different relations: <tt><a href="bxr_bdt-dep-cc.html">cc</a></tt> (70; 84% instances), <tt><a href="bxr_bdt-dep-discourse.html">discourse</a></tt> (4; 5% instances), <tt><a href="bxr_bdt-dep-advmod.html">advmod</a></tt> (3; 4% instances), <tt><a href="bxr_bdt-dep-flat.html">flat</a></tt> (2; 2% instances), <tt><a href="bxr_bdt-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="bxr_bdt-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="bxr_bdt-dep-fixed.html">fixed</a></tt> (1; 1% instances), <tt><a href="bxr_bdt-dep-mark.html">mark</a></tt> (1; 1% instances)
+`CCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="bxr_bdt-dep-cc.html">cc</a></tt> (71; 86% instances), <tt><a href="bxr_bdt-dep-discourse.html">discourse</a></tt> (4; 5% instances), <tt><a href="bxr_bdt-dep-advmod.html">advmod</a></tt> (3; 4% instances), <tt><a href="bxr_bdt-dep-flat.html">flat</a></tt> (2; 2% instances), <tt><a href="bxr_bdt-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="bxr_bdt-dep-fixed.html">fixed</a></tt> (1; 1% instances), <tt><a href="bxr_bdt-dep-mark.html">mark</a></tt> (1; 1% instances)
 
-Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (36; 43% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (19; 23% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (15; 18% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (8; 10% instances), <tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> (1; 1% instances)
+Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (36; 43% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (19; 23% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (16; 19% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (8; 10% instances), <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> (1; 1% instances)
 
-76 (92%) `CCONJ` nodes are leaves.
+67 (81%) `CCONJ` nodes are leaves.
 
-7 (8%) `CCONJ` nodes have one child.
+16 (19%) `CCONJ` nodes have one child.
 
 The highest child degree of a `CCONJ` node is 1.
 
-Children of `CCONJ` nodes are attached using 4 different relations: <tt><a href="bxr_bdt-dep-fixed.html">fixed</a></tt> (2; 29% instances), <tt><a href="bxr_bdt-dep-flat.html">flat</a></tt> (2; 29% instances), <tt><a href="bxr_bdt-dep-punct.html">punct</a></tt> (2; 29% instances), <tt><a href="bxr_bdt-dep-discourse.html">discourse</a></tt> (1; 14% instances)
+Children of `CCONJ` nodes are attached using 3 different relations: <tt><a href="bxr_bdt-dep-punct.html">punct</a></tt> (13; 81% instances), <tt><a href="bxr_bdt-dep-flat.html">flat</a></tt> (2; 13% instances), <tt><a href="bxr_bdt-dep-fixed.html">fixed</a></tt> (1; 6% instances)
 
-Children of `CCONJ` nodes belong to 4 different parts of speech: <tt><a href="bxr_bdt-pos-PUNCT.html">PUNCT</a></tt> (3; 43% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (2; 29% instances), <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> (1; 14% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (1; 14% instances)
+Children of `CCONJ` nodes belong to 3 different parts of speech: <tt><a href="bxr_bdt-pos-PUNCT.html">PUNCT</a></tt> (13; 81% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> (1; 6% instances)
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-299 nodes (1%) are attached to their parents as `xcomp`.
+365 nodes (1%) are attached to their parents as `xcomp`.
 
-279 instances of `xcomp` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.37123745819398.
+320 instances of `xcomp` (88%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.44109589041096.
 
-The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (184; 62% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (65; 22% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (20; 7% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (16; 5% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (7; 2% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `xcomp`: <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (188; 52% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (120; 33% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (30; 8% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (9; 2% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (8; 2% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -42,7 +42,7 @@ The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 10	fgColor:white
 # visual-style 10 13 xcomp	color:blue
 1	Dit	dit	PRON	PDOENP	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-2	is	is	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	4	cop	_	_
+2	is	wees	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	4	cop	_	_
 3	'n	'n	DET	LO	Definite=Ind|PronType=Art	4	det	_	_
 4	ideaal	ideaal	NOUN	NSE	Number=Sing	0	root	_	_
 5	waarvoor	waarvoor	PRON	PB	PronType=Rel	7	nsubj	_	_
@@ -60,28 +60,16 @@ The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 15 xcomp	color:blue
-1	Wanneer	wanneer	PRON	PB	PronType=Rel	9	amod	_	_
-2	die	die	DET	LB	Definite=Def|PronType=Art	3	det	_	_
-3	saadlot	saadlot	NOUN	NSE	Number=Sing	4	nsubj	_	_
-4	gereed	gereed	ADJ	ASP	AdjType=Pred|Case=Nom|Degree=Pos	1	obj	_	_
-5	is	is	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	4	cop	_	_
-6	vir	vir	ADP	SVS	AdpType=Prep	7	case	_	_
-7	monsterneming	monsterneming	NOUN	NSE	Number=Sing	4	obl	_	SpaceAfter=No
-8	,	,	PUNCT	ZM	_	7	punct	_	_
-9	kontak	kontak	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	0	root	_	_
-10	die	die	DET	LB	Definite=Def|PronType=Art	11	det	_	_
-11	ouditbeampte	ouditbeampte	NOUN	NSE	Number=Sing	9	obj	_	_
-12	om	om	ADP	SVS	AdpType=Prep	16	case	_	_
-13	monsters	monster	NOUN	NSM	Number=Plur	16	obj	_	_
-14	te	te	PART	UPI	PartType=Inf	16	mark	_	_
-15	kom	kom	AUX	VTUOA	Tense=Pres|VerbForm=Fin,Inf|VerbType=Aux	16	xcomp	_	_
-16	neem	neem	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	11	nmod	_	SpaceAfter=No
-17	.	.	PUNCT	ZE	_	16	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 xcomp	color:blue
+1	Dit	dit	PRON	PDOENP	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	word	word	VERB	VTHOK	Tense=Pres|VerbForm=Fin,Inf	0	root	_	_
+3	toenemend	toeneem	ADV	BS	Degree=Pos	2	advmod	_	_
+4	sterker	sterk	ADJ	AVP	AdjType=Pred|Case=Nom|Degree=Cmp	2	xcomp	_	SpaceAfter=No
+5	.	.	PUNCT	ZE	_	4	punct	_	_
 
 ~~~
 

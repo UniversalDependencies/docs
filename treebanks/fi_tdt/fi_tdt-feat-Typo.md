@@ -22,7 +22,7 @@ The most frequent other feature values with which `NOUN` and `Typo` co-occurred:
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (176; 100% of non-empty `Typo`): <em>n, version, 1dl, MUUTTOLIIKEIDEN, lypsy-ja, -näppäimesta, -sossupummit, 1​1​.​k​r​e​n​a​t​ö​ö​r​i​r​y​k​m​e​n​t​i​n, 1kpl, 2.5mm</em>
+* `Yes` (176; 100% of non-empty `Typo`): <em>n, version, 1dl, MUUTTOLIIKEIDEN, lypsy-ja, -näppäimesta, -sossupummit, 11.krenatöörirykmentin, 1kpl, 2.5mm</em>
 
 `Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (154) occur only with one value of `Typo`.
 

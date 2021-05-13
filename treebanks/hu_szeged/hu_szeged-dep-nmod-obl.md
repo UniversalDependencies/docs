@@ -7,65 +7,69 @@ udver: '2'
 ## Treebank Statistics: UD_Hungarian-Szeged: Relations: `nmod:obl`
 
 This relation is a language-specific subtype of <tt><a href="hu_szeged-dep-nmod.html">nmod</a></tt>.
-There are also 3 other language-specific subtypes of `nmod`: <tt><a href="hu_szeged-dep-nmod-att.html">nmod:att</a></tt>, <tt><a href="hu_szeged-dep-nmod-attlvc.html">nmod:attlvc</a></tt>, <tt><a href="hu_szeged-dep-nmod-obllvc.html">nmod:obllvc</a></tt>.
+There are also 2 other language-specific subtypes of `nmod`: <tt><a href="hu_szeged-dep-nmod-att.html">nmod:att</a></tt>, <tt><a href="hu_szeged-dep-nmod-attlvc.html">nmod:attlvc</a></tt>.
 
-3566 nodes (8%) are attached to their parents as `nmod:obl`.
+216 nodes (1%) are attached to their parents as `nmod:obl`.
 
-2617 instances of `nmod:obl` (73%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.12394840157039.
+162 instances of `nmod:obl` (75%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.81018518518519.
 
-The following 38 pairs of parts of speech are connected with `nmod:obl`: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (2013; 56% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (575; 16% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (256; 7% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (201; 6% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (103; 3% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (73; 2% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (54; 2% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (50; 1% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (49; 1% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (40; 1% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (33; 1% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (17; 0% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (13; 0% instances), <tt><a href="hu_szeged-pos-ADP.html">ADP</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt>-<tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt>-<tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt>-<tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="hu_szeged-pos-ADP.html">ADP</a></tt>-<tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hu_szeged-pos-ADP.html">ADP</a></tt>-<tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hu_szeged-pos-ADP.html">ADP</a></tt>-<tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt>-<tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt>-<tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt>-<tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt>-<tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt>-<tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt>-<tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 nmod:obl	color:blue
-1	Az	az	DET	_	Definite=Def|PronType=Art	5	det	_	_
-2	utolsó	utolsó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	5	amod:att	_	_
-3	hat	hat	NUM	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|NumType=Card|Person[psor]=None	4	nummod	_	_
-4	hónapos	hónapos	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	5	amod:att	_	_
-5	időszak	időszak	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	10	nsubj	_	_
-6	azonban	azonban	CCONJ	_	_	10	cc	_	_
-7	a	a	DET	_	Definite=Def|PronType=Art	8	det	_	_
-8	hét	hét	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	9	nmod:att	_	_
-9	elején	eleje	NOUN	_	Case=Sup|Number=Sing|Number[psed]=None|Number[psor]=Sing|Person[psor]=3	10	nmod:obl	_	_
-10	lejárt	le+jár	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	10	punct	_	_
-
-~~~
+The following 22 pairs of parts of speech are connected with `nmod:obl`: <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (103; 48% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (33; 15% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (17; 8% instances), <tt><a href="hu_szeged-pos-ADP.html">ADP</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (8; 4% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (8; 4% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (8; 4% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (8; 4% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (6; 3% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt>-<tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (5; 2% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="hu_szeged-pos-ADP.html">ADP</a></tt>-<tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hu_szeged-pos-ADP.html">ADP</a></tt>-<tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hu_szeged-pos-ADP.html">ADP</a></tt>-<tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt>-<tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt>-<tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt>-<tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt>-<tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt>-<tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 nmod:obl	color:blue
-1	Testületi	testületi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	2	amod:att	_	_
-2	döntés	döntés	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	5	nsubj	_	_
-3	leghamarabb	hamar	ADV	_	_	5	advmod:mode	_	_
-4	januárban	január	NOUN	_	Case=Ine|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	5	nmod:obl	_	_
-5	várható	várható	ADJ	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None|VerbForm=PartPres	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	5	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 nmod:obl	color:blue
+1	Három	három	NUM	_	Case=Nom|Number=Sing|NumType=Card	4	nummod	_	_
+2	és	és	CCONJ	_	_	3	cc	_	_
+3	fél	fél	NUM	_	Case=Nom|Number=Sing|NumType=Frac	1	conj	_	_
+4	perccel	perc	NOUN	_	Case=Ins|Number=Sing	6	nmod:obl	_	_
+5	a	a	DET	_	Definite=Def|PronType=Art	6	det	_	_
+6	vége	vég	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	obl	_	_
+7	előtt	előtt	ADP	_	_	6	case	_	_
+8	Magyarország	Magyarország	PROPN	_	Case=Nom|Number=Sing	10	nsubj	_	_
+9	65-47-re	65-47	NOUN	_	Case=Sub|Number=Sing	10	obl	_	_
+10	vezetett	vezet	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+11	!	!	PUNCT	_	_	10	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 1 nmod:obl	color:blue
-1	Erről	ez	PRON	_	Case=Del|Number=Sing|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|PronType=Dem	5	nmod:obl	_	_
-2	szakhatósági	szakhatósági	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	3	amod:att	_	_
-3	állásfoglalás	állásfoglalás	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	5	nsubj	_	_
-4	is	is	CCONJ	_	_	3	cc	_	ToDo=cc-without-conj
-5	készült	készül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	5	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 nmod:obl	color:blue
+1	A	a	DET	_	Definite=Def|PronType=Art	3	det	_	_
+2	piaci	piaci	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	3	amod:att	_	_
+3	szereplők	szereplő	NOUN	_	Case=Nom|Number=Plur	4	nsubj	_	_
+4	versengenek	verseng	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	magáért	maga	PRON	_	Case=Cau|Number=Sing|Person=3|PronType=Prs	7	nmod:obl	_	_
+6	a	a	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	versenyképességért	versenyképesség	NOUN	_	Case=Cau|Number=Sing	4	obl	_	_
+8	is	is	CCONJ	_	_	7	cc	_	SpaceAfter=No|ToDo=cc-without-conj
+9	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 nmod:obl	color:blue
+1	Akkor	akkor	ADV	_	PronType=Dem	3	advmod:tlocy	_	_
+2	már	már	ADV	_	_	3	advmod:tlocy	_	_
+3	diligyógyász	diligyógyász	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+4	volt	van	AUX	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	_
+5	a	a	DET	_	Definite=Def|PronType=Art	6	det	_	_
+6	Lipótmezőn	Lipótmező	PROPN	_	Case=Sup|Number=Sing	3	nmod:obl	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

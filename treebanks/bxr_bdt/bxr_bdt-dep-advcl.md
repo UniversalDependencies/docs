@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-140 nodes (1%) are attached to their parents as `advcl`.
+141 nodes (1%) are attached to their parents as `advcl`.
 
-83 instances of `advcl` (59%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.27857142857143.
+84 instances of `advcl` (60%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.26241134751773.
 
-The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (108; 77% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (5; 4% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (5; 4% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (4; 3% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> (3; 2% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (2; 1% instances).
+The following 10 pairs of parts of speech are connected with `advcl`: <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (108; 77% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (5; 4% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (5; 4% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (4; 3% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> (3; 2% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -25,10 +25,10 @@ The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href
 1	Эжын	эжын	NOUN	_	Case=Nom	3	nsubj	_	_
 2	гэртээ	гэр	NOUN	_	Case=Dat|Reflex=Yes	3	nmod	_	_
 3	ерэхэдэнь	ерэ	VERB	_	Case=Dat|Number[psor]=Sing|Person[psor]=3|VerbForm=Ger	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	3	punct	_	_
+4	,	,	PUNCT	_	_	7	punct	_	_
 5	аба	аба	NOUN	_	Case=Nom	7	nsubj	_	_
 6	кофе	кофе	NOUN	_	Case=Nom	7	obj	_	_
-7	шанажа	шана	VERB	_	VerbForm=Coverb	3	advcl	_	_
+7	шанажа	шана	VERB	_	VerbForm=Inf	3	advcl	_	_
 8	байгаа	бай	AUX	_	_	7	aux	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -44,9 +44,9 @@ The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href
 1	Намда	би	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
 2	ошохо	ошо	VERB	_	_	0	root	_	_
 3	хэрэгтэй	хэрэг	NOUN	_	Case=Com	2	aux	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	2	punct	_	_
+4	,	,	PUNCT	_	_	5	punct	_	_
 5	орой	орой	NOUN	_	Case=Nom	2	advcl	_	_
-6	болоо	боло	VERB	_	Mood=Des|Number=Sing|Person=3	5	cop	_	SpaceAfter=No
+6	болоо	боло	AUX	_	Mood=Des|Number=Sing|Person=3	5	cop	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~

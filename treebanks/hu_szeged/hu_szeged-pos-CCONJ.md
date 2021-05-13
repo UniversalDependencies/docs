@@ -69,17 +69,17 @@ The 3rd highest number of forms (1) was observed with the lemma “aztán”: <e
 
 Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (741; 40% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (625; 34% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (194; 11% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (140; 8% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (69; 4% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (36; 2% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (21; 1% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (2; 0% instances)
 
-1824 (100%) `CCONJ` nodes are leaves.
+1811 (99%) `CCONJ` nodes are leaves.
 
-5 (0%) `CCONJ` nodes have one child.
+16 (1%) `CCONJ` nodes have one child.
 
-0 (0%) `CCONJ` nodes have two children.
+2 (0%) `CCONJ` nodes have two children.
 
 3 (0%) `CCONJ` nodes have three or more children.
 
 The highest child degree of a `CCONJ` node is 4.
 
-Children of `CCONJ` nodes are attached using 4 different relations: <tt><a href="hu_szeged-dep-punct.html">punct</a></tt> (8; 53% instances), <tt><a href="hu_szeged-dep-conj.html">conj</a></tt> (5; 33% instances), <tt><a href="hu_szeged-dep-cc.html">cc</a></tt> (1; 7% instances), <tt><a href="hu_szeged-dep-nmod-obl.html">nmod:obl</a></tt> (1; 7% instances)
+Children of `CCONJ` nodes are attached using 4 different relations: <tt><a href="hu_szeged-dep-punct.html">punct</a></tt> (23; 77% instances), <tt><a href="hu_szeged-dep-conj.html">conj</a></tt> (5; 17% instances), <tt><a href="hu_szeged-dep-cc.html">cc</a></tt> (1; 3% instances), <tt><a href="hu_szeged-dep-nmod-obl.html">nmod:obl</a></tt> (1; 3% instances)
 
-Children of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (8; 53% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (3; 20% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (2; 13% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (1; 7% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1; 7% instances)
+Children of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (23; 77% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (3; 10% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1; 3% instances)
 

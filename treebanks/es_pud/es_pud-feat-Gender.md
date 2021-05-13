@@ -119,14 +119,14 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="es_pud-dep-det.html">det</a></tt>]--> DET</tt> (2911; 99%),
+<tt>NOUN --[<tt><a href="es_pud-dep-det.html">det</a></tt>]--> DET</tt> (2938; 99%),
 <tt>NOUN --[<tt><a href="es_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1234; 100%),
 <tt>NOUN --[<tt><a href="es_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (638; 50%),
-<tt>NOUN --[<tt><a href="es_pud-dep-det.html">det</a></tt>]--> PRON</tt> (258; 100%),
+<tt>NOUN --[<tt><a href="es_pud-dep-det.html">det</a></tt>]--> PRON</tt> (259; 100%),
 <tt>NOUN --[<tt><a href="es_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (165; 64%),
 <tt>NOUN --[<tt><a href="es_pud-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (162; 100%),
 <tt>PROPN --[<tt><a href="es_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (137; 98%),
-<tt>PROPN --[<tt><a href="es_pud-dep-det.html">det</a></tt>]--> DET</tt> (105; 95%),
+<tt>PROPN --[<tt><a href="es_pud-dep-det.html">det</a></tt>]--> DET</tt> (106; 95%),
 <tt>NOUN --[<tt><a href="es_pud-dep-appos.html">appos</a></tt>]--> PROPN</tt> (90; 64%),
 <tt>NOUN --[<tt><a href="es_pud-dep-acl.html">acl</a></tt>]--> VERB</tt> (82; 87%).
 

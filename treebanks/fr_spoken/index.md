@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Kim Gerdes, Sylvain Kahane, Mariam Nakhlé, Chunxiao Yan, Aline Etienne, Marine Courtin.
 
 Repository: [UD_French-Spoken](https://github.com/UniversalDependencies/UD_French-Spoken)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_spoken27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_spoken28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -62,21 +62,21 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
 
 ## Features
 
-[Definite](fr_spoken-feat-Definite.html) – [Gender](fr_spoken-feat-Gender.html) – [Mood](fr_spoken-feat-Mood.html) – [Number](fr_spoken-feat-Number.html) – [Person](fr_spoken-feat-Person.html) – [Polarity](fr_spoken-feat-Polarity.html) – [PossNumber](fr_spoken-feat-PossNumber.html) – [PossPerson](fr_spoken-feat-PossPerson.html) – [PronType](fr_spoken-feat-PronType.html) – [Tense](fr_spoken-feat-Tense.html) – [VerbForm](fr_spoken-feat-VerbForm.html)
+[Definite](fr_spoken-feat-Definite.html) – [Gender](fr_spoken-feat-Gender.html) – [Mood](fr_spoken-feat-Mood.html) – [Number](fr_spoken-feat-Number.html) – [Number[psor]](fr_spoken-feat-Number-psor.html) – [Person](fr_spoken-feat-Person.html) – [Person[psor]](fr_spoken-feat-Person-psor.html) – [Polarity](fr_spoken-feat-Polarity.html) – [PronType](fr_spoken-feat-PronType.html) – [Tense](fr_spoken-feat-Tense.html) – [VerbForm](fr_spoken-feat-VerbForm.html)
 
 ## Relations
 
-[acl](fr_spoken-dep-acl.html) – [acl:relcl](fr_spoken-dep-acl-relcl.html) – [advcl](fr_spoken-dep-advcl.html) – [advcl:cleft](fr_spoken-dep-advcl-cleft.html) – [advmod](fr_spoken-dep-advmod.html) – [amod](fr_spoken-dep-amod.html) – [appos](fr_spoken-dep-appos.html) – [aux](fr_spoken-dep-aux.html) – [aux:caus](fr_spoken-dep-aux-caus.html) – [aux:pass](fr_spoken-dep-aux-pass.html) – [case](fr_spoken-dep-case.html) – [cc](fr_spoken-dep-cc.html) – [ccomp:obj](fr_spoken-dep-ccomp-obj.html) – [ccomp:obl](fr_spoken-dep-ccomp-obl.html) – [ccomp:pred](fr_spoken-dep-ccomp-pred.html) – [compound](fr_spoken-dep-compound.html) – [conj](fr_spoken-dep-conj.html) – [cop](fr_spoken-dep-cop.html) – [csubj](fr_spoken-dep-csubj.html) – [csubj:pass](fr_spoken-dep-csubj-pass.html) – [dep](fr_spoken-dep-dep.html) – [dep:comp](fr_spoken-dep-dep-comp.html) – [det](fr_spoken-dep-det.html) – [discourse](fr_spoken-dep-discourse.html) – [dislocated](fr_spoken-dep-dislocated.html) – [expl:subj](fr_spoken-dep-expl-subj.html) – [fixed](fr_spoken-dep-fixed.html) – [flat](fr_spoken-dep-flat.html) – [iobj](fr_spoken-dep-iobj.html) – [mark](fr_spoken-dep-mark.html) – [nmod](fr_spoken-dep-nmod.html) – [nmod:appos](fr_spoken-dep-nmod-appos.html) – [nsubj](fr_spoken-dep-nsubj.html) – [nsubj:caus](fr_spoken-dep-nsubj-caus.html) – [nsubj:pass](fr_spoken-dep-nsubj-pass.html) – [nummod](fr_spoken-dep-nummod.html) – [obj](fr_spoken-dep-obj.html) – [obj:lvc](fr_spoken-dep-obj-lvc.html) – [obl:agent](fr_spoken-dep-obl-agent.html) – [obl:arg](fr_spoken-dep-obl-arg.html) – [obl:mod](fr_spoken-dep-obl-mod.html) – [orphan](fr_spoken-dep-orphan.html) – [parataxis](fr_spoken-dep-parataxis.html) – [parataxis:insert](fr_spoken-dep-parataxis-insert.html) – [parataxis:parenth](fr_spoken-dep-parataxis-parenth.html) – [reparandum](fr_spoken-dep-reparandum.html) – [root](fr_spoken-dep-root.html) – [vocative](fr_spoken-dep-vocative.html) – [xcomp:obj](fr_spoken-dep-xcomp-obj.html) – [xcomp:obl](fr_spoken-dep-xcomp-obl.html) – [xcomp:pred](fr_spoken-dep-xcomp-pred.html)
+[acl](fr_spoken-dep-acl.html) – [acl:relcl](fr_spoken-dep-acl-relcl.html) – [advcl](fr_spoken-dep-advcl.html) – [advcl:cleft](fr_spoken-dep-advcl-cleft.html) – [advmod](fr_spoken-dep-advmod.html) – [amod](fr_spoken-dep-amod.html) – [appos](fr_spoken-dep-appos.html) – [aux](fr_spoken-dep-aux.html) – [aux:caus](fr_spoken-dep-aux-caus.html) – [aux:pass](fr_spoken-dep-aux-pass.html) – [case](fr_spoken-dep-case.html) – [cc](fr_spoken-dep-cc.html) – [ccomp](fr_spoken-dep-ccomp.html) – [compound](fr_spoken-dep-compound.html) – [conj](fr_spoken-dep-conj.html) – [cop](fr_spoken-dep-cop.html) – [csubj](fr_spoken-dep-csubj.html) – [csubj:pass](fr_spoken-dep-csubj-pass.html) – [dep](fr_spoken-dep-dep.html) – [dep:comp](fr_spoken-dep-dep-comp.html) – [det](fr_spoken-dep-det.html) – [discourse](fr_spoken-dep-discourse.html) – [dislocated](fr_spoken-dep-dislocated.html) – [expl:subj](fr_spoken-dep-expl-subj.html) – [fixed](fr_spoken-dep-fixed.html) – [flat](fr_spoken-dep-flat.html) – [iobj](fr_spoken-dep-iobj.html) – [mark](fr_spoken-dep-mark.html) – [nmod](fr_spoken-dep-nmod.html) – [nmod:appos](fr_spoken-dep-nmod-appos.html) – [nsubj](fr_spoken-dep-nsubj.html) – [nsubj:caus](fr_spoken-dep-nsubj-caus.html) – [nsubj:pass](fr_spoken-dep-nsubj-pass.html) – [nummod](fr_spoken-dep-nummod.html) – [obj](fr_spoken-dep-obj.html) – [obj:lvc](fr_spoken-dep-obj-lvc.html) – [obl](fr_spoken-dep-obl.html) – [obl:agent](fr_spoken-dep-obl-agent.html) – [obl:arg](fr_spoken-dep-obl-arg.html) – [obl:mod](fr_spoken-dep-obl-mod.html) – [orphan](fr_spoken-dep-orphan.html) – [parataxis](fr_spoken-dep-parataxis.html) – [parataxis:insert](fr_spoken-dep-parataxis-insert.html) – [parataxis:parenth](fr_spoken-dep-parataxis-parenth.html) – [reparandum](fr_spoken-dep-reparandum.html) – [root](fr_spoken-dep-root.html) – [vocative](fr_spoken-dep-vocative.html) – [xcomp](fr_spoken-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 2806 sentences, 34690 tokens and 35225 syntactic words.</li>
+<li>This corpus contains 2837 sentences, 34437 tokens and 34972 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 tokens (0%) that are not followed by a space.</li>
+<li>This corpus contains 2 tokens (0%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -84,7 +84,7 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
 </ul>
 
 <ul>
-<li>This corpus contains 119 types of words that contain both letters and punctuation. Examples: c', l', d', j', qu', n', s', m', -ce, -là, jusqu', peut-être, aujourd'hui, c'est-à-dire, dix-huit, quelqu'un, rond-point, Notre-Dame, là-bas, -vous, -il, dix-neuf, t', -chose, Alsace-Lorraine, dix-neuvième, rendez-vous, vingt-cinq, vingt-deux, -on, -tu, S​a​i​n​t​-​J​e​a​n​-​d​e​-​M​a​u​r​i​e​n​n​e, Sainte-Claire, après-midi, dix-huitième, lorsqu', là-dedans, là-dessus, mi-temps, quatre-vingt-six, soixante-dix, vingt-et-unième, vingt-neuf, vis-à-vis, -d', -ils, -moi, -même, -nous, -t-il</li>
+<li>This corpus contains 118 types of words that contain both letters and punctuation. Examples: c', l', d', j', qu', n', s', m', -ce, -là, jusqu', peut-être, aujourd'hui, c'est-à-dire, dix-huit, quelqu'un, rond-point, Notre-Dame, là-bas, -vous, -il, dix-neuf, t', -chose, Alsace-Lorraine, dix-neuvième, rendez-vous, vingt-cinq, vingt-deux, -on, -tu, Saint-Jean-de-Maurienne, Sainte-Claire, après-midi, dix-huitième, lorsqu', là-dedans, là-dessus, mi-temps, soixante-dix, vingt-et-unième, vingt-neuf, vis-à-vis, -d', -ils, -moi, -même, -nous, -t-il, Jean-François</li>
 </ul>
 
 <ul>
@@ -132,7 +132,7 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
   <li>Fin
   <ul>
     <li>AUX: est, a, ai, était, sont, suis, ont, avez, êtes, avait</li>
-    <li>VERB: a, est, va, faut, ai, peut, avait, sais, vois, vais</li>
+    <li>VERB: a, est, va, faut, ai, peut, avait, sais, vais, vois</li>
   </ul>
   </li>
 </ul>
@@ -178,7 +178,7 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: petit, tous, tout, vrai, français, droit, sûr, gros, bon, premier</li>
+      <li>ADJ: petit, tous, tout, français, vrai, droit, sûr, gros, bon, premier</li>
       <li>AUX-Part: été</li>
       <li>DET: le, un, aucun, quel, certains, tel, tous</li>
       <li>NOUN: temps, fait, moment, ans, art, côté, cas, monde, pays, tram</li>
@@ -215,7 +215,7 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: jeune, même, petit, tout, magique, difficile, vrai, grande, droit, sûr</li>
+      <li>ADJ: jeune, même, petit, tout, magique, difficile, grande, vrai, droit, sûr</li>
       <li>AUX: est, a, ai, était, suis, été, avait, étais, sera, soit</li>
       <li>AUX-Fin: est, a, ai, était, suis, avait, étais, sera, soit, aurais</li>
       <li>AUX-Inf: avoir, être</li>
@@ -225,8 +225,8 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
       <li>NUM: un</li>
       <li>PRON: c', je, il, on, ça, j', tu, elle, le, moi</li>
       <li>PROPN: Nef, Kenya, Beauce, Gâtinais, Ethiopie, Élysée, Figaro, Seine, Église, CGC</li>
-      <li>VERB: a, est, va, faut, ai, peut, avait, sais, vois, crois</li>
-      <li>VERB-Fin: a, est, va, faut, ai, peut, avait, sais, vois, vais</li>
+      <li>VERB: a, est, va, faut, ai, peut, avait, sais, crois, vais</li>
+      <li>VERB-Fin: a, est, va, faut, ai, peut, avait, sais, vais, vois</li>
       <li>VERB-Part: eu, pu, travaillé, vu, arrivé, vécu, choisi, commencé, donné, été</li>
     </ul>
   </li>
@@ -266,7 +266,7 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
 <ul>
   <li>Neg
     <ul>
-      <li>ADV: pas, n', non, ne</li>
+      <li>ADV: pas, n', ne, non</li>
     </ul>
   </li>
 </ul>
@@ -302,7 +302,7 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
   <li>Ind
     <ul>
       <li>AUX-Fin: est, a, ai, était, sont, suis, ont, avez, êtes, avait</li>
-      <li>VERB-Fin: a, est, va, faut, ai, peut, avait, sais, vois, vais</li>
+      <li>VERB-Fin: a, est, va, faut, ai, peut, avait, sais, vais, vois</li>
     </ul>
   </li>
 </ul>
@@ -354,7 +354,7 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
     <ul>
       <li>AUX-Fin: est, a, ai, sont, suis, ont, avez, êtes, avons, soit</li>
       <li>AUX-Part: ayant, faisant, étant</li>
-      <li>VERB-Fin: a, est, va, faut, ai, peut, sais, vois, vais, veux</li>
+      <li>VERB-Fin: a, est, va, faut, ai, peut, sais, vais, vois, veux</li>
       <li>VERB-Part: attendant, disant, parlant, restant, allant, croyant, donnant, entendant, faisant, longeant</li>
     </ul>
   </li>
@@ -476,30 +476,32 @@ Xpos and features (which are not available in v2.2 of UD_French-Spoken) will be 
 
 
 
-
-<h3>Other Features</h3>
-
+<ul>
+  <li><a>Number[psor]</a></li>
+</ul>
 
 <ul>
-  <li><a>PossNumber</a>
+  <li>Plur
     <ul>
-      <li>Plur
-        <ul>
-          <li>DET: votre, notre, vos, nos, leur, leurs</li>
-        </ul>
-      </li>
-      <li>Sing
-        <ul>
-          <li>DET: mon, sa, son, ma, ses, mes, ton</li>
-          <li>PRON: sien</li>
-        </ul>
-      </li>
+      <li>DET: votre, notre, vos, nos, leur, leurs</li>
     </ul>
   </li>
 </ul>
 
 <ul>
-  <li><a>PossPerson</a>
+  <li>Sing
+    <ul>
+      <li>DET: mon, sa, son, ma, ses, mes, ton</li>
+      <li>PRON: sien</li>
+    </ul>
+  </li>
+</ul>
+
+<h3>Other Features</h3>
+
+
+<ul>
+  <li><a>Person[psor]</a>
     <ul>
       <li>1
         <ul>
@@ -541,10 +543,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (66)</li>
-      <li>VERB--PRON (820)</li>
+      <li>VERB--PRON (818)</li>
       <li>VERB-Fin--NOUN (124)</li>
       <li>VERB-Fin--NOUN-ADP(de) (1)</li>
-      <li>VERB-Fin--PRON (1254)</li>
+      <li>VERB-Fin--PRON (1249)</li>
       <li>VERB-Inf--NOUN (6)</li>
       <li>VERB-Inf--PRON (14)</li>
       <li>VERB-Part--NOUN (27)</li>
@@ -570,7 +572,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN (206)</li>
       <li>VERB-Inf--NOUN-ADP(de) (2)</li>
       <li>VERB-Inf--PRON (121)</li>
-      <li>VERB-Part--NOUN (103)</li>
+      <li>VERB-Part--NOUN (102)</li>
       <li>VERB-Part--NOUN-ADP(de) (1)</li>
       <li>VERB-Part--PRON (62)</li>
       <li>VERB-Part--PRON-ADP(à) (1)</li>
@@ -581,7 +583,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Part--PRON (1)</li>
+      <li>VERB--NOUN (14)</li>
+      <li>VERB--PRON (50)</li>
+      <li>VERB-Fin--NOUN (60)</li>
+      <li>VERB-Fin--PRON (254)</li>
+      <li>VERB-Inf--NOUN (19)</li>
+      <li>VERB-Inf--PRON (34)</li>
+      <li>VERB-Part--NOUN (10)</li>
+      <li>VERB-Part--PRON (29)</li>
     </ul>
   </li>
 </ul>
@@ -592,7 +601,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 22 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>ccomp:obj</a>, <a>ccomp:obl</a>, <a>ccomp:pred</a>, <a>csubj:pass</a>, <a>dep:comp</a>, <a>expl:subj</a>, <a>nmod:appos</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obj:lvc</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a>, <a>parataxis:insert</a>, <a>parataxis:parenth</a>, <a>xcomp:obj</a>, <a>xcomp:obl</a>, <a>xcomp:pred</a></li>
-<li>The following 4 main types are not used alone, they are always subtyped: <a>ccomp</a>, <a>expl</a>, <a>obl</a>, <a>xcomp</a></li>
+<li>This corpus uses 16 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>dep:comp</a>, <a>expl:subj</a>, <a>nmod:appos</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obj:lvc</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a>, <a>parataxis:insert</a>, <a>parataxis:parenth</a></li>
+<li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
 <li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>punct</a></li>
 </ul>

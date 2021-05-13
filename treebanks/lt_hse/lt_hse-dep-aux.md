@@ -25,8 +25,8 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 4 3 aux	color:blue
 1	Po	po	ADP	UH	_	2	case	_	En=after
 2	to	tas	PRON	DT	Case=Gen|Gender=Masc|Number=Sing	4	obl	_	En=that
-3	buvo	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	_	En=be
-4	įrašinėjama	įrašinėti	VERB	VBNH	Definite=Ind|Gender=Neut|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	_	En=write
+3	buvo	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	_	En=be
+4	įrašinėjama	įrašinėti	VERB	VBNH	Definite=Ind|Gender=Neut|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	_	En=write
 5	iš	iš%naujo	ADV	RB	Degree=Pos	4	advmod	_	En=again
 6	naujo	iš%naujo	ADV	RB	Degree=Pos	5	fixed	_	En=again|SpaceAfter=No
 7	.	.	PUNCT	PUNCT	_	4	punct	_	En=.
@@ -45,14 +45,14 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 3	kai	kai	SCONJ	UH	_	6	advmod	_	En=when
 4	į	į	ADP	UH	_	3	fixed	_	En=to
 5	lėktuvai	lėktuvas	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	En=airplane
-6	nukrenta	nukristi	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	En=drop
+6	nukrenta	nukristi	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	En=drop
 7	į	į	ADP	UH	_	8	case	_	En=to
 8	jūrą	jūra	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	En=sea|SpaceAfter=No
 9	,	,	PUNCT	PUNCT	_	6	punct	_	En=,
-10	nustatyti	nustatyti	VERB	VB	Polarity=Pos|Reflex=No|VerbForm=Inf|Voice=Act	15	xcomp	_	En=establish
+10	nustatyti	nustatyti	VERB	VB	Polarity=Pos|VerbForm=Inf|Voice=Act	15	xcomp	_	En=establish
 11	katastrofos	katastrofa	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	En=catastrophy
 12	priežastis	priežastis	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	10	obj	_	En=reason
-13	būna	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	15	aux	_	En=be
+13	būna	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	15	aux	_	En=be
 14	ypač	ypač	ADV	RB	Degree=Pos	15	advmod	_	En=especially
 15	sunku	sunkus	ADJ	PRED	Definite=Ind|Degree=Pos|Gender=Neut	0	root	_	En=difficult|SpaceAfter=No
 16	.	.	PUNCT	PUNCT	_	15	punct	_	En=.
@@ -69,7 +69,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 1	Svarbiausias	svarbus	ADJ	JJS	Case=Nom|Definite=Ind|Degree=Sup|Gender=Masc|Number=Sing	2	amod	_	En=most
 2	daiktas	daiktas	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	0	root	_	En=thing
 3	jam	jis	PRON	PRP	Case=Dat|Gender=Masc|Number=Sing|Person=3	2	obl	_	En=he
-4	yra	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux	_	En=be
+4	yra	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux	_	En=be
 5	tėvų	tėvai	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	En=parent
 6	priesaikai	priesaika	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	En=oath
 7	ir	ir	CCONJ	CC	_	9	cc	_	En=and

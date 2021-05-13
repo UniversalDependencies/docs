@@ -50,7 +50,7 @@ The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="bm_crb-pos-PRON.
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.083333 (the average of all parts of speech is 1.040590).
+The form / lemma ratio of `INTJ` is 1.083333 (the average of all parts of speech is 1.060038).
 
 The 1st highest number of forms (3) was observed with the lemma “ée”: <em>e, ee, èè</em>.
 
@@ -67,17 +67,17 @@ The 3rd highest number of forms (2) was observed with the lemma “yó”: <em>y
 
 Parents of `INTJ` nodes belong to 5 different parts of speech: <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (111; 50% instances), <tt><a href="bm_crb-pos-INTJ.html">INTJ</a></tt> (69; 31% instances),  (21; 9% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (15; 7% instances), <tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt> (8; 4% instances)
 
-127 (57%) `INTJ` nodes are leaves.
+125 (56%) `INTJ` nodes are leaves.
 
 64 (29%) `INTJ` nodes have one child.
 
-10 (4%) `INTJ` nodes have two children.
+14 (6%) `INTJ` nodes have two children.
 
-23 (10%) `INTJ` nodes have three or more children.
+21 (9%) `INTJ` nodes have three or more children.
 
 The highest child degree of a `INTJ` node is 5.
 
-Children of `INTJ` nodes are attached using 5 different relations: <tt><a href="bm_crb-dep-punct.html">punct</a></tt> (85; 51% instances), <tt><a href="bm_crb-dep-compound-redup.html">compound:redup</a></tt> (61; 36% instances), <tt><a href="bm_crb-dep-discourse.html">discourse</a></tt> (17; 10% instances), <tt><a href="bm_crb-dep-parataxis.html">parataxis</a></tt> (4; 2% instances), <tt><a href="bm_crb-dep-dep.html">dep</a></tt> (1; 1% instances)
+Children of `INTJ` nodes are attached using 5 different relations: <tt><a href="bm_crb-dep-punct.html">punct</a></tt> (89; 52% instances), <tt><a href="bm_crb-dep-compound-redup.html">compound:redup</a></tt> (61; 35% instances), <tt><a href="bm_crb-dep-discourse.html">discourse</a></tt> (17; 10% instances), <tt><a href="bm_crb-dep-parataxis.html">parataxis</a></tt> (4; 2% instances), <tt><a href="bm_crb-dep-dep.html">dep</a></tt> (1; 1% instances)
 
-Children of `INTJ` nodes belong to 5 different parts of speech: <tt><a href="bm_crb-pos-PUNCT.html">PUNCT</a></tt> (85; 51% instances), <tt><a href="bm_crb-pos-INTJ.html">INTJ</a></tt> (69; 41% instances), <tt><a href="bm_crb-pos-PART.html">PART</a></tt> (12; 7% instances), <tt><a href="bm_crb-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (1; 1% instances)
+Children of `INTJ` nodes belong to 5 different parts of speech: <tt><a href="bm_crb-pos-PUNCT.html">PUNCT</a></tt> (89; 52% instances), <tt><a href="bm_crb-pos-INTJ.html">INTJ</a></tt> (69; 40% instances), <tt><a href="bm_crb-pos-PART.html">PART</a></tt> (12; 7% instances), <tt><a href="bm_crb-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (1; 1% instances)
 

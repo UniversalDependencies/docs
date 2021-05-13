@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-31577 nodes (11%) are attached to their parents as `punct`.
+31578 nodes (11%) are attached to their parents as `punct`.
 
-22746 instances of `punct` (72%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.65899230452545.
+22749 instances of `punct` (72%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.65751472544176.
 
-The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (14859; 47% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (10547; 33% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (2583; 8% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (1712; 5% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (792; 3% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (526; 2% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (346; 1% instances), <tt><a href="it_vit-pos-X.html">X</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (97; 0% instances), <tt><a href="it_vit-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (52; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (34; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (17; 0% instances), <tt><a href="it_vit-pos-DET.html">DET</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="it_vit-pos-AUX.html">AUX</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (14855; 47% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (10557; 33% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (2579; 8% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (1714; 5% instances), <tt><a href="it_vit-pos-NUM.html">NUM</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (792; 3% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (526; 2% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (344; 1% instances), <tt><a href="it_vit-pos-X.html">X</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (97; 0% instances), <tt><a href="it_vit-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (52; 0% instances), <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (33; 0% instances), <tt><a href="it_vit-pos-ADP.html">ADP</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (17; 0% instances), <tt><a href="it_vit-pos-DET.html">DET</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="it_vit-pos-AUX.html">AUX</a></tt>-<tt><a href="it_vit-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 10	fgColor:white
 # visual-style 10 5 punct	color:blue
 1	Ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	l'	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
 3	acqua	acqua	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
 4	calda	caldo	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	10	punct	_	_

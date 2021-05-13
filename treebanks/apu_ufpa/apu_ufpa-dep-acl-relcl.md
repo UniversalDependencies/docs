@@ -22,7 +22,7 @@ The following 2 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 acl:relcl	color:blue
-1	Ywãtãa	Ywãtãa	NOUN	XPOS=naquele.lugar	_	2	obl:lmod	_	gloss[pt]=naquele.lugar
+1	Ywãtãa	ywãtãa	NOUN	XPOS=naquele.lugar	_	2	obl:lmod	_	gloss[pt]=naquele.lugar
 2	aapanhika	awa	VERB	XPOS=existir-IPFTV-PRED	_	0	root	_	gloss[pt]=existir-IPFTV-PRED
 3	kipatxi	kipatxi	NOUN	XPOS=terra	_	2	nsubj	_	gloss[pt]=terra
 4	peerapuku	eera	VERB	XPOS=?ATRIB.INTENS-?ser.bom-DISTR	_	3	acl:relcl	_	gloss[pt]=?ATRIB.INTENS-?ser.bom-DISTR|SpaceAfter=No
@@ -49,7 +49,7 @@ The following 2 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 10	nynuwa	nynuwa	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	gloss[pt]=3PL
 11	awary	awa	VERB	XPOS=ter	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	2	conj	_	gloss[pt]=ter-3SG.M.O
 12	iumyary	iumyary	NOUN	XPOS=macaxeira	_	11	obj	_	gloss[pt]=macaxeira
-13	apikumunhi	apiku	NOUN	XPOS=adiante-DAT	_	12	nmod	_	gloss[pt]=adiante-DAT
+13	apikumunhi	apiku	NOUN	XPOS=adiante	Case=Dat	12	nmod	_	gloss[pt]=adiante-DAT
 14	amãnteere	amãnteere	NOUN	XPOS=fruta	_	12	conj	_	gloss[pt]=fruta|SpaceAfter=No
 15	.	.	PUNCT	_	_	2	punct	_	_
 

@@ -34,7 +34,7 @@ The 3rd highest number of forms (3) was observed with the lemma “1970”: <em>
 
 `NUM` occurs with 4 features: <tt><a href="kmr_mg-feat-NumType.html">NumType</a></tt> (218; 100% instances), <tt><a href="kmr_mg-feat-Number.html">Number</a></tt> (109; 50% instances), <tt><a href="kmr_mg-feat-Case.html">Case</a></tt> (97; 44% instances), <tt><a href="kmr_mg-feat-Definite.html">Definite</a></tt> (60; 28% instances)
 
-`NUM` occurs with 6 feature-value pairs: `Case=Nom`, `Case=Obl`, `Definite=Def`, `NumType=Card`, `Number=Plur`, `Number=Sing`
+`NUM` occurs with 6 feature-value pairs: `Case=Acc`, `Case=Nom`, `Definite=Def`, `NumType=Card`, `Number=Plur`, `Number=Sing`
 
 `NUM` occurs with 7 feature combinations.
 The most frequent feature combination is `NumType=Card` (109 tokens).
@@ -47,17 +47,17 @@ Examples: <em>du, yek, yekê, 4, siseyan, yekem, sê, 1, 10, 15'ê</em>
 
 Parents of `NUM` nodes belong to 9 different parts of speech: <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (132; 61% instances), <tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (36; 17% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (19; 9% instances),  (13; 6% instances), <tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (10; 5% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="kmr_mg-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-140 (64%) `NUM` nodes are leaves.
+127 (58%) `NUM` nodes are leaves.
 
-31 (14%) `NUM` nodes have one child.
+45 (21%) `NUM` nodes have one child.
 
-20 (9%) `NUM` nodes have two children.
+13 (6%) `NUM` nodes have two children.
 
-27 (12%) `NUM` nodes have three or more children.
+33 (15%) `NUM` nodes have three or more children.
 
 The highest child degree of a `NUM` node is 7.
 
-Children of `NUM` nodes are attached using 14 different relations: <tt><a href="kmr_mg-dep-case.html">case</a></tt> (39; 22% instances), <tt><a href="kmr_mg-dep-flat.html">flat</a></tt> (28; 16% instances), <tt><a href="kmr_mg-dep-conj.html">conj</a></tt> (23; 13% instances), <tt><a href="kmr_mg-dep-punct.html">punct</a></tt> (20; 11% instances), <tt><a href="kmr_mg-dep-cop.html">cop</a></tt> (16; 9% instances), <tt><a href="kmr_mg-dep-nmod.html">nmod</a></tt> (16; 9% instances), <tt><a href="kmr_mg-dep-nsubj.html">nsubj</a></tt> (13; 7% instances), <tt><a href="kmr_mg-dep-det.html">det</a></tt> (10; 6% instances), <tt><a href="kmr_mg-dep-advmod.html">advmod</a></tt> (3; 2% instances), <tt><a href="kmr_mg-dep-cc.html">cc</a></tt> (3; 2% instances), <tt><a href="kmr_mg-dep-nmod-poss.html">nmod:poss</a></tt> (3; 2% instances), <tt><a href="kmr_mg-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="kmr_mg-dep-compound.html">compound</a></tt> (1; 1% instances), <tt><a href="kmr_mg-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
+Children of `NUM` nodes are attached using 14 different relations: <tt><a href="kmr_mg-dep-punct.html">punct</a></tt> (41; 21% instances), <tt><a href="kmr_mg-dep-case.html">case</a></tt> (39; 20% instances), <tt><a href="kmr_mg-dep-flat.html">flat</a></tt> (28; 14% instances), <tt><a href="kmr_mg-dep-conj.html">conj</a></tt> (23; 12% instances), <tt><a href="kmr_mg-dep-cop.html">cop</a></tt> (16; 8% instances), <tt><a href="kmr_mg-dep-nmod.html">nmod</a></tt> (16; 8% instances), <tt><a href="kmr_mg-dep-nsubj.html">nsubj</a></tt> (14; 7% instances), <tt><a href="kmr_mg-dep-det.html">det</a></tt> (10; 5% instances), <tt><a href="kmr_mg-dep-advmod.html">advmod</a></tt> (3; 2% instances), <tt><a href="kmr_mg-dep-cc.html">cc</a></tt> (3; 2% instances), <tt><a href="kmr_mg-dep-nmod-poss.html">nmod:poss</a></tt> (3; 2% instances), <tt><a href="kmr_mg-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="kmr_mg-dep-compound.html">compound</a></tt> (1; 1% instances), <tt><a href="kmr_mg-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
 
-Children of `NUM` nodes belong to 12 different parts of speech: <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (39; 22% instances), <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (38; 21% instances), <tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (36; 20% instances), <tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (20; 11% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (16; 9% instances), <tt><a href="kmr_mg-pos-DET.html">DET</a></tt> (10; 6% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (5; 3% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt> (3; 2% instances), <tt><a href="kmr_mg-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Children of `NUM` nodes belong to 12 different parts of speech: <tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (41; 21% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (40; 20% instances), <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (38; 19% instances), <tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (36; 18% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (16; 8% instances), <tt><a href="kmr_mg-pos-DET.html">DET</a></tt> (10; 5% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (5; 3% instances), <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt> (3; 2% instances), <tt><a href="kmr_mg-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 

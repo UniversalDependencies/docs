@@ -31,7 +31,7 @@ The following 12 pairs of parts of speech are connected with `punct`: <tt><a hre
 7	國會山	_	PROPN	NNP	_	9	compound	_	SpaceAfter=No|Translit=guóhuìshān
 8	任職	_	NOUN	NN	_	9	compound	_	SpaceAfter=No|Translit=rènzhí
 9	變遷	_	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=biànqiān
-10	的	_	PART	DEC	_	6	mark:relcl	_	SpaceAfter=No|Translit=de
+10	的	_	PART	DEC	_	6	mark:rel	_	SpaceAfter=No|Translit=de
 11	人	_	NOUN	NN	_	13	obl	_	SpaceAfter=No|Translit=rén
 12	而	_	ADV	RB	_	13	advmod	_	SpaceAfter=No|Translit='ér
 13	言	_	VERB	VV	_	21	advcl	_	SpaceAfter=No|Translit=yán
@@ -78,7 +78,7 @@ The following 12 pairs of parts of speech are connected with `punct`: <tt><a hre
 2	可能	_	NOUN	NN	_	1	obj	_	SpaceAfter=No|Translit=kěnéng
 3	有	_	VERB	VV	_	23	dep	_	SpaceAfter=No|Translit=yǒu
 4	正常	_	ADJ	JJ	_	7	amod	_	SpaceAfter=No|Translit=zhèngcháng
-5	的	_	PART	DEC	_	4	mark:relcl	_	SpaceAfter=No|Translit=de
+5	的	_	PART	DEC	_	4	mark:rel	_	SpaceAfter=No|Translit=de
 6	血紅蛋白	_	NOUN	NN	_	7	compound	_	SpaceAfter=No|Translit=xuèhóngdànbái
 7	水平	_	NOUN	NN	_	3	obj	_	SpaceAfter=No|Translit=shuǐpíng
 8	，	_	PUNCT	,	_	3	punct	_	SpaceAfter=No|Translit=，

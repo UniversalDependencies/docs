@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of NOUN in UD_Old_Russian-TOROT'
+title:  'Statistics of NOUN in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: POS Tags: `NOUN`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: POS Tags: `NOUN`
 
 There are 2852 `NOUN` lemmas (31%), 9966 `NOUN` types (30%) and 31705 `NOUN` tokens (21%).
 Out of 14 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 2 in number of types and 1 in number of tokens.
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>б҃ъ</em> (<tt><a href="orv_torot-p
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 3.494390 (the average of all parts of speech is 3.571089).
+The form / lemma ratio of `NOUN` is 3.494390 (the average of all parts of speech is 3.571475).
 
 The 1st highest number of forms (80) was observed with the lemma “кънязь”: <em>кнзе, кнзеи, кнзем, кнземъ, кнзи, кнзмъ, кнзь, кнзьми, кнзю, кнзя, кнз҃емь, кнз҃и, кнз҃мь, кнз҃ь, кнз҃ю, кнз҃ѧ, кнз’, княже, княз, князеи, князей, княземъ, князи, князь, князю, князя, кнѕи, кнѧ, кнѧже, кнѧж҃, кнѧз, кнѧзем, кнѧзема, кнѧземъ, кнѧземь, кнѧзем҃, кнѧзех, кнѧзехъ, кнѧзи, кнѧзии, кнѧзъ, кнѧзь, кнѧзьмь, кнѧзю, кнѧзѣ, кнѧзѧ, кнѧзꙗ, кн҃же, кн҃зеи, кн҃зема, кн҃земъ, кн҃земь, кн҃зи, кн҃зихъ, кн҃змь, кн҃зь, кн҃зьма, кн҃зю, кн҃зѣмь, кн҃зѣхъ, кн҃зѧ, кн҃ѧзеи, кн҃ѧзь, кн҃ѧзю, кн҃ѧзѧ, кнꙗзи, кнꙗзь, кнꙗзьмь, кнꙗзю, кнꙗзѧ, кнꙗзꙗ, къ[н]ѧз[ь, кънѧже, кънѧзь, кънѧзьхъ, кънѧзю, кънѧзѧ, кънѧзѹ, кънꙗземъ, к҃нзь</em>.
 

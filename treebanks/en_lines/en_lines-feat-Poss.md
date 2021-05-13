@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="en_lines-pos-PRON.h
 
 1291 <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> tokens (13% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="en_lines-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1290; 100%), <tt><a href="en_lines-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1272; 99%), <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1124; 87%), <tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=3</tt> (759; 59%), <tt><a href="en_lines-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (670; 52%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="en_lines-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1291; 100%), <tt><a href="en_lines-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1272; 99%), <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1124; 87%), <tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=3</tt> (759; 59%), <tt><a href="en_lines-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (670; 52%).
 
 `PRON` tokens may have the following values of `Poss`:
 

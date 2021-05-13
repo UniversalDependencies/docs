@@ -10,10 +10,10 @@ This relation is universal.
 
 1383 nodes (1%) are attached to their parents as `ccomp`.
 
-1184 instances of `ccomp` (86%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.94504699927693.
+1185 instances of `ccomp` (86%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.95589298626175.
 
-The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (1376; 99% instances), <tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `ccomp`: <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (1381; 100% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -32,32 +32,6 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 8	μαθεῖν	μανθάνω	VERB	v--ana---	Tense=Past|VerbForm=Inf|Voice=Act	9	csubj	_	_
 9	χρή	χρή	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	u--------	_	9	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 14 ccomp	color:blue
-1	τώ	τῷ	ADV	d--------	_	4	advmod	_	_
-2	ῥα	ἄρα	PART	g--------	_	4	advmod	_	_
-3	προκρόσσας	πρόκροσσοι	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	4	xcomp	_	_
-4	ἔρυσαν	ἐρύω	VERB	v3paia---	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	u--------	_	4	punct	_	_
-6	καὶ	καί	CCONJ	c--------	_	4	cc	_	_
-7	πλῆσαν	πίμπλημι	VERB	v3paia---	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
-8	ἁπάσης	ἅπας	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
-9	ἠϊόνος	ἠιών	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
-10	στόμα	στόμα	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	12	obj	_	_
-11	μακρόν	μακρός	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	10	nmod	_	SpaceAfter=No
-12	,	,	PUNCT	u--------	_	7	punct	_	_
-13	ὅσον	ὅσος	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	14	advmod	_	_
-14	συνεέργαθον	συνεέργω	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	ccomp	_	_
-15	ἄκραι	ἄκρα	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	14	nsubj	_	SpaceAfter=No
-16	.	.	PUNCT	u--------	_	4	punct	_	_
 
 ~~~
 
@@ -86,6 +60,30 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 16	τὸ	ὁ	DET	l-s---na-	Case=Acc|Gender=Neut|Number=Sing	17	det	_	_
 17	συμβαῖνον	συμβαίνω	VERB	v-sppana-	Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	nsubj	_	SpaceAfter=No
 18	.	.	PUNCT	u--------	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 11 ccomp	color:blue
+1	οὐ	οὐ	ADV	d--------	_	3	advmod	_	_
+2	γνώμαν	γνώμη	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
+3	ἴσχεις	ἴσχω	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ἐξ	ἐκ	ADP	r--------	_	5	case	_	_
+5	οἵων	οἷος	ADJ	a-p---ng-	Case=Gen|Gender=Neut|Number=Plur	11	obl	_	_
+6	τὰ	ὁ	DET	l-p---na-	Case=Acc|Gender=Neut|Number=Plur	7	det	_	_
+7	παρόντ̓	πάρειμι	VERB	v-pppana-	Case=Acc|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	11	advmod	_	_
+8	οἰκείας	οἰκεῖος	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	10	nmod	_	_
+9	εἰς	εἰς	ADP	r--------	_	10	case	_	_
+10	ἄτας	ἄτη	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	11	obl	_	_
+11	ἐμπίπτεις	ἐμπίπτω	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+12	οὕτως	οὕτως	ADV	d--------	_	13	advmod	_	_
+13	αἰκῶς	ἀεικής	ADV	d--------	_	11	advmod	_	SpaceAfter=No
+14	;	;	PUNCT	u--------	_	3	punct	_	_
 
 ~~~
 

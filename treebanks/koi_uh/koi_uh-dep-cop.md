@@ -22,7 +22,7 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 cop	color:blue
-1	Вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	3	cop	_	GTtags=V,IV,Ind,Prt1,Sg3
+1	Вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	cop	_	GTtags=V,IV,Ind,Prt1,Sg3
 2	сія	сія	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj:cop	_	GTtags=Pron,Pers,Sg3,Nom
 3	лажмытик	лажмытик	ADJ	_	_	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	6	punct	_	GTtags=CLB

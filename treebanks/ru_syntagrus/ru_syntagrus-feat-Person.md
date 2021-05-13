@@ -50,7 +50,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `AUX`
 
-2082 <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> tokens (22% of all `AUX` tokens) have a non-empty value of `Person`.
+2082 <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> tokens (21% of all `AUX` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="ru_syntagrus-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2082; 100%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2082; 100%), <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2082; 100%), <tt><a href="ru_syntagrus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2082; 100%), <tt><a href="ru_syntagrus-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2055; 99%), <tt><a href="ru_syntagrus-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2055; 99%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1350; 65%).
 
@@ -59,7 +59,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 * `1` (154; 7% of non-empty `Person`): <em>будем, буду, есть</em>
 * `2` (64; 3% of non-empty `Person`): <em>будь, будете, будешь, будьте, есть</em>
 * `3` (1864; 90% of non-empty `Person`): <em>будет, будут, есть, суть</em>
-* `EMPTY` (7587): <em>было, был, бы, были, была, быть, будучи, б, бывшие, бывший</em>
+* `EMPTY` (7603): <em>было, бы, был, были, была, быть, будучи, б, бывшие, бывший</em>
 
 <table>
   <tr><th>Paradigm <i>быть</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>

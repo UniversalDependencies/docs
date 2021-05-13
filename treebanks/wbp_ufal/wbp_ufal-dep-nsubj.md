@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-58 nodes (18%) are attached to their parents as `nsubj`.
+56 nodes (18%) are attached to their parents as `nsubj`.
 
-53 instances of `nsubj` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.56896551724138.
+51 instances of `nsubj` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.64285714285714.
 
-The following 3 pairs of parts of speech are connected with `nsubj`: <tt><a href="wbp_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="wbp_ufal-pos-NOUN.html">NOUN</a></tt> (41; 71% instances), <tt><a href="wbp_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="wbp_ufal-pos-PRON.html">PRON</a></tt> (16; 28% instances), <tt><a href="wbp_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="wbp_ufal-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 3 pairs of parts of speech are connected with `nsubj`: <tt><a href="wbp_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="wbp_ufal-pos-NOUN.html">NOUN</a></tt> (41; 73% instances), <tt><a href="wbp_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="wbp_ufal-pos-PRON.html">PRON</a></tt> (14; 25% instances), <tt><a href="wbp_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="wbp_ufal-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

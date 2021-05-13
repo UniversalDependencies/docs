@@ -28,7 +28,6 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 <table>
   <tr><th>Paradigm <i>אמר</i></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
-  <tr><td><tt><tt><a href="he_htb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="he_htb-feat-HebBinyan.html">HebBinyan</a></tt><tt>=PAAL</tt>|<tt><a href="he_htb-feat-HebSource.html">HebSource</a></tt><tt>=ConvUncertainHead</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="he_htb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td>אמר</td></tr>
   <tr><td><tt><tt><a href="he_htb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="he_htb-feat-HebBinyan.html">HebBinyan</a></tt><tt>=PAAL</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="he_htb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>תאמר</td><td>אמרת</td></tr>
   <tr><td><tt><tt><a href="he_htb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="he_htb-feat-HebBinyan.html">HebBinyan</a></tt><tt>=PAAL</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="he_htb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td>אמר</td></tr>
   <tr><td><tt><tt><a href="he_htb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>יאמר</td><td></td></tr>
@@ -57,18 +56,16 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><td><tt><tt><a href="he_htb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td>תהיה</td><td>היית</td></tr>
   <tr><td><tt><tt><a href="he_htb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>יהיה</td><td>היה</td></tr>
   <tr><td><tt><tt><a href="he_htb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td></td><td>הייתם</td></tr>
-  <tr><td><tt><tt><a href="he_htb-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="he_htb-feat-HebSource.html">HebSource</a></tt><tt>=ConvUncertainHead</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td>היו</td></tr>
   <tr><td><tt><tt><a href="he_htb-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td>הייתי</td></tr>
   <tr><td><tt><tt><a href="he_htb-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td>נהיה</td><td>היינו</td></tr>
   <tr><td><tt><tt><a href="he_htb-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>יהיו</td><td>היו</td></tr>
-  <tr><td><tt><tt><a href="he_htb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="he_htb-feat-HebSource.html">HebSource</a></tt><tt>=ConvUncertainHead</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>תהיה</td><td></td></tr>
   <tr><td><tt><tt><a href="he_htb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>תהיה</td><td>היתה</td></tr>
 </table>
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="he_htb-dep-conj.html">conj</a></tt>]--> VERB</tt> (856; 79%),
+<tt>VERB --[<tt><a href="he_htb-dep-conj.html">conj</a></tt>]--> VERB</tt> (857; 78%),
 <tt>AUX --[<tt><a href="he_htb-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
 <tt>AUX --[<tt><a href="he_htb-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (1; 100%),
 <tt>AUX --[<tt><a href="he_htb-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%).

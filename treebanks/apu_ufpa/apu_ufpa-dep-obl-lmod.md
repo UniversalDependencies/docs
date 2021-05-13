@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="apu_ufpa-dep-obl.html">obl</a></tt>.
 There are also 1 other language-specific subtypes of `obl`: <tt><a href="apu_ufpa-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-15 nodes (3%) are attached to their parents as `obl:lmod`.
+23 nodes (4%) are attached to their parents as `obl:lmod`.
 
-9 instances of `obl:lmod` (60%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.8.
+14 instances of `obl:lmod` (61%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.69565217391304.
 
-The following 2 pairs of parts of speech are connected with `obl:lmod`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (14; 93% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-PROPN.html">PROPN</a></tt> (1; 7% instances).
+The following 3 pairs of parts of speech are connected with `obl:lmod`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (21; 91% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-PROPN.html">PROPN</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -24,12 +24,32 @@ The following 2 pairs of parts of speech are connected with `obl:lmod`: <tt><a h
 # visual-style 4	fgColor:white
 # visual-style 4 2 obl:lmod	color:blue
 1	Inhinhiã	inhinhiã	ADV	Adv	_	4	advmod:tmod	_	gloss[pt]=então
-2	apikumunhi	apiku	NOUN	XPOS=adiante-DAT	_	4	obl:lmod	_	gloss[pt]=adiante-DAT
-3	iãkynytikinhi	iãkyny	NOUN	XPOS=3SG.M-rastro.de-atrás	Gender=Masc|Gender[psor]=Masc	4	obl	_	gloss[pt]=3SG.M-rastro.de-atrás
+2	apikumunhi	apiku	NOUN	XPOS=adiante	Case=Dat	4	obl:lmod	_	gloss[pt]=adiante-DAT
+3	iãkynytikinhi	iãkynytikinhi	NOUN	XPOS=3SG.M-rastro.de-atrás	Gender=Masc|Gender[psor]=Masc	4	obl	_	gloss[pt]=3SG.M-rastro.de-atrás
 4	sããputa	sa	VERB	XPOS=ir-ALEAT-VBLZ	_	0	root	_	gloss[pt]=ir-ALEAT-VBLZ
-5	araũkytary	araũkyta	VERB	XPOS=encontrar-3SG.M.O	_	4	conj	_	gloss[pt]=encontrar-3SG.M.O
+5	araũkytary	araũkyta	VERB	XPOS=encontrar	Number[obj]=Sing|Person[obj]=3	4	conj	_	gloss[pt]=encontrar-3SG.M.O
 6	ãkiti	hãkiti	NOUN	N	Case=Nom|Gender=Masc|Number=Sing	5	obj	_	gloss[pt]=onça|SpaceAfter=No
 7	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 obl:lmod	color:blue
+1	Ywã	ywa	PRON	Pron	Case=Loc	2	obl:lmod	_	gloss[pt]=lá
+2	awa	awa	VERB	XPOS=existir	_	0	root	_	gloss[pt]=existir
+3	kikiu	kikiu	NOUN	XPOS=roçado	_	2	nsubj	_	gloss[pt]=roçado|SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	awiri	awiri	NOUN	XPOS=rapé	_	3	conj	_	gloss[pt]=rapé|SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	kumyry	kumyry	NOUN	XPOS=beiju	_	3	conj	_	gloss[pt]=beiju|SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	ykynypuku	ykynypuku	PRON	XPOS=todo-DISTR	_	3	conj	_	gloss[pt]=todo-DISTR|SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

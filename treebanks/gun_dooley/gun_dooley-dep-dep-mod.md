@@ -36,7 +36,7 @@ The following 9 pairs of parts of speech are connected with `dep:mod`: <tt><a hr
 12	_	_	ADV	dem	_	15	advmod	_	_
 13	_	_	PART	discprt	_	12	dep:mod	_	_
 14	_	_	PRON	pro	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
-15	_	_	VERB	vi:a	Mood=Ind|Person[subj]=1|Subcat=Int|VerbForm=Fin	7	parataxis:rep	_	_
+15	_	_	VERB	vi:a	Mood=Ind|Person[subj]=1|Subcat=Intr|VerbForm=Fin	7	parataxis:rep	_	_
 16	_	_	PART	aspprt	_	15	dep:mod	_	_
 17	_	_	NOUN	n	_	15	obl	_	_
 18	_	_	ADP	post	_	17	case	_	_
@@ -57,7 +57,7 @@ The following 9 pairs of parts of speech are connected with `dep:mod`: <tt><a hr
 2	_	_	PART	quantprt	_	1	dep:mod	_	_
 3	_	_	PART	discprt	_	1	dep:mod	_	_
 4	_	_	PART	illocprt	_	1	dep:mod	_	_
-5	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	_
+5	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	0	root	_	_
 6	_	_	VERB	vs	Mood=Ind|Person=3|VerbForm=Ser	5	compound:svc	_	_
 7	_	_	NUM	num	NumType=Card	8	nummod	_	_
 8	_	_	NOUN	n	_	5	obl	_	_
@@ -80,8 +80,8 @@ The following 9 pairs of parts of speech are connected with `dep:mod`: <tt><a hr
 5	_	_	NOUN	n	_	6	nmod	_	_
 6	_	_	NOUN	n	_	8	obl	_	_
 7	_	_	PART	focprt	_	6	dep:mod	_	_
-8	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	_
-9	_	_	VERB	vi:d	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	8	advcl	_	_
+8	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	0	root	_	_
+9	_	_	VERB	vi:d	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	8	advcl	_	_
 10	_	_	SCONJ	subordconn	_	9	mark	_	_
 11	_	_	PUNCT	punct	_	8	punct	_	_
 

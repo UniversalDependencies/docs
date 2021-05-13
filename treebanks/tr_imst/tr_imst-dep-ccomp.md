@@ -11,9 +11,9 @@ This relation is universal.
 56 nodes (0%) are attached to their parents as `ccomp`.
 
 55 instances of `ccomp` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.26785714285714.
+Average distance between parent and child is 3.25.
 
-The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (19; 34% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> (12; 21% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> (11; 20% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> (6; 11% instances), <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (1; 2% instances).
+The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (20; 36% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> (12; 21% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> (11; 20% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> (6; 11% instances), <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -42,7 +42,7 @@ The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 3	aynı	aynı	ADJ	Adj	_	4	amod	_	_
 4	durumda	durum	NOUN	Noun	Case=Loc|Number=Sing|Person=3	7	ccomp	_	_
 5	yız	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres	4	cop	_	_
-6	,	,	PUNCT	Punc	_	7	punct	_	_
+6	,	,	PUNCT	Punc	_	4	punct	_	_
 7	demişti	de	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pqp	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	Punc	_	9	punct	_	_
 9	dedi	de	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	7	conj	_	SpaceAfter=No
@@ -58,10 +58,10 @@ The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 6	fgColor:white
 # visual-style 6 3 ccomp	color:blue
 1	Ben	ben	PRON	Pers	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-2	bir	bir	NUM	ANum	NumType=Card	3	det	_	_
+2	bir	bir	DET	ANum	Definite=Ind|PronType=Art	3	det	_	_
 3	tutsak	tutsak	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	6	ccomp	_	_
 4	ım	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres	3	cop	_	_
-5	,	,	PUNCT	Punc	_	6	punct	_	_
+5	,	,	PUNCT	Punc	_	3	punct	_	_
 6	dedi	de	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	Punc	_	6	punct	_	_
 

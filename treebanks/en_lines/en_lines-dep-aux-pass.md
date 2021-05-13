@@ -80,7 +80,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 17	to	to	PART	_	_	19	mark	_	_
 18	be	be	AUX	INF-AUX	VerbForm=Inf	19	aux:pass	_	_
 19	had	have	AUX	PASS	Mood=Ind|Tense=Past|VerbForm=Fin	13	acl:relcl	_	SpaceAfter=No
-20	,	,	PUNCT	_	_	25	punct	_	_
+20	,	,	PUNCT	Comma	_	25	punct	_	_
 21	so	so	SCONJ	_	_	25	mark	_	_
 22	that	that	SCONJ	_	_	21	fixed	_	_
 23	they	they	PRON	PERS-PL-NOM	Case=Nom|Number=Plur|Person=3|PronType=Prs	25	nsubj	_	_

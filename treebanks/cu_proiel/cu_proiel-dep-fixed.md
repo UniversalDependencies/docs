@@ -63,11 +63,11 @@ The following 7 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	не	невъзможьнъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	5	nsubj	_	ref=LUKE_18.27
-2	възможънаа	възможънаа	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	1	fixed	_	ref=LUKE_18.27
+1	не	невъзможьнъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	5	nsubj	_	ref=LUKE_18.27
+2	възможънаа	възможънаа	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	1	fixed	_	ref=LUKE_18.27
 3	отъ	отъ	ADP	R-	_	4	case	_	ref=LUKE_18.27
 4	ч҃лвкъ	чловѣкъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	ref=LUKE_18.27
-5	възможъна	възможьнъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Strength=Strong	0	root	_	ref=LUKE_18.27
+5	възможъна	възможьнъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Variant=Short	0	root	_	ref=LUKE_18.27
 6	отъ	отъ	ADP	R-	_	7	case	_	ref=LUKE_18.27
 7	б҃а	богъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	ref=LUKE_18.27
 8	сѫтъ	бꙑти	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=LUKE_18.27

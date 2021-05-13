@@ -25,7 +25,7 @@ The following 12 pairs of parts of speech are connected with `discourse`: <tt><a
 1	"	"	PUNCT	sent	_	4	punct	_	SpaceAfter=No
 2	Оны	ол	PRON	prn	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
 3	біз	біз	PRON	prn	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
-4	біл	біл	VERB	v	Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Aor|VerbForm=Fin	8	ccomp	_	_
+4	біл	біл	VERB	v	Aspect=Hab|Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
 5	ау	ау	PART	mod_emo	_	4	discourse	_	_
 6	!	!	PUNCT	sent	_	4	punct	_	SpaceAfter=No
 7	"	"	PUNCT	sent	_	4	punct	_	_
@@ -62,12 +62,12 @@ The following 12 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 6	fgColor:white
 # visual-style 6 1 discourse	color:blue
 1	Міне	міне	INTJ	ij	_	6	discourse	_	SpaceAfter=No
-2	,	,	PUNCT	cm	_	6	punct	_	_
+2	,	,	PUNCT	cm	_	1	punct	_	_
 3	сонда	сол	PRON	prn	Case=Loc|PronType=Dem	6	obl	_	_
 4	ғана	ғана	ADV	postadv	_	3	advmod	_	_
 5	ол	ол	PRON	prn	Case=Nom|PronType=Dem	6	nsubj	_	_
 6	тұрақты	тұрақты	ADJ	adj	_	0	root	_	_
-7	болады	бол	AUX	v	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	6	cop	_	SpaceAfter=No
+7	болады	бол	AUX	v	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	SpaceAfter=No
 8	.	.	PUNCT	sent	_	6	punct	_	_
 
 ~~~

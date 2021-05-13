@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Old_Russian-TOROT'
+title:  'UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
@@ -9,26 +9,26 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Old Russian TOROT
+# UD Old East Slavic TOROT
 
-Language: [Old Russian](/orv/index.html) (code: `orv`)<br/>
+Language: [Old East Slavic](/orv/index.html) (code: `orv`)<br/>
 Family: Indo-European, Slavic
 
 This treebank has been part of Universal Dependencies since the UD v2.4 release.
 
 The following people have contributed to making this treebank part of UD: Hanne Eckhoff.
 
-Repository: [UD_Old_Russian-TOROT](https://github.com/UniversalDependencies/UD_Old_Russian-TOROT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udorv_torot27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Repository: [UD_Old_East_Slavic-TOROT](https://github.com/UniversalDependencies/UD_Old_East_Slavic-TOROT)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udorv_torot28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-NC-SA 3.0
 
 Genre: nonfiction, legal
 
 Questions, comments?
-General annotation questions (either Old Russian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Old_Russian-TOROT/issues).
+General annotation questions (either Old East Slavic-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Old_East_Slavic-TOROT/issues).
 If you want to collaborate, please contact [hanne&nbsp;•&nbsp;eckhoff&nbsp;(æt)&nbsp;mod-langs&nbsp;•&nbsp;ox&nbsp;•&nbsp;ac&nbsp;•&nbsp;uk].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
@@ -44,11 +44,11 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-UD\_Old\_Russian-TOROT is a conversion of a selection of the Old East Slavonic and Middle Russian data in the Tromsø Old Russian and OCS Treebank (TOROT), which was originally annotated in PROIEL dependency format.
+UD\_Old\_East\_Slavic-TOROT is a conversion of a selection of the Old East Slavonic and Middle Russian data in the Tromsø Old Russian and OCS Treebank (TOROT), which was originally annotated in PROIEL dependency format.
 
 
 
-UD-Old-Russian-TOROT is a conversion of a selection of the Old East Slavonic and Middle Russian data in the Tromsø Old Russian and OCS Treebank (TOROT), which is maintained at UiT The Arctic University of Norway. The treebank is manually annotated, with some automatic preprocessing, on PROIEL dependency format. New texts are still being added. The treebank contains texts from a variety of mediaeval and early modern genres, such as chronicles, legal documents, lives of saints and correspondence. Treebank releases are available from https://github.com/torottreebank/treebank-releases. This conversion is based on the 20190505 release.
+UD Old East Slavic TOROT is a conversion of a selection of the Old East Slavonic and Middle Russian data in the Tromsø Old Russian and OCS Treebank (TOROT), which is maintained at UiT The Arctic University of Norway. The treebank is manually annotated, with some automatic preprocessing, on PROIEL dependency format. New texts are still being added. The treebank contains texts from a variety of mediaeval and early modern genres, such as chronicles, legal documents, lives of saints and correspondence. Treebank releases are available from https://github.com/torottreebank/treebank-releases. This conversion is based on the 20190505 release.
 
 ## Acknowledgments
 
@@ -60,7 +60,7 @@ Hanne Martine Eckhoff and Aleksandrs Berdičevskis. 2015. 'Linguistics vs. digit
 
 
 
-# Statistics of UD Old Russian TOROT
+# Statistics of UD Old East Slavic TOROT
 
 ## POS Tags
 
@@ -68,7 +68,7 @@ Hanne Martine Eckhoff and Aleksandrs Berdičevskis. 2015. 'Linguistics vs. digit
 
 ## Features
 
-[Aspect](orv_torot-feat-Aspect.html) – [Case](orv_torot-feat-Case.html) – [Degree](orv_torot-feat-Degree.html) – [Gender](orv_torot-feat-Gender.html) – [Mood](orv_torot-feat-Mood.html) – [Number](orv_torot-feat-Number.html) – [Person](orv_torot-feat-Person.html) – [Polarity](orv_torot-feat-Polarity.html) – [Poss](orv_torot-feat-Poss.html) – [PronType](orv_torot-feat-PronType.html) – [Reflex](orv_torot-feat-Reflex.html) – [Strength](orv_torot-feat-Strength.html) – [Tense](orv_torot-feat-Tense.html) – [VerbForm](orv_torot-feat-VerbForm.html) – [Voice](orv_torot-feat-Voice.html)
+[Aspect](orv_torot-feat-Aspect.html) – [Case](orv_torot-feat-Case.html) – [Degree](orv_torot-feat-Degree.html) – [Gender](orv_torot-feat-Gender.html) – [Mood](orv_torot-feat-Mood.html) – [Number](orv_torot-feat-Number.html) – [Person](orv_torot-feat-Person.html) – [Polarity](orv_torot-feat-Polarity.html) – [Poss](orv_torot-feat-Poss.html) – [PronType](orv_torot-feat-PronType.html) – [Reflex](orv_torot-feat-Reflex.html) – [Tense](orv_torot-feat-Tense.html) – [Variant](orv_torot-feat-Variant.html) – [VerbForm](orv_torot-feat-VerbForm.html) – [Voice](orv_torot-feat-Voice.html)
 
 ## Relations
 
@@ -121,15 +121,15 @@ Hanne Martine Eckhoff and Aleksandrs Berdičevskis. 2015. 'Linguistics vs. digit
 </ul>
 
 <ul>
-<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): быти, не быти</li>
+<li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): быти</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: не быти</li>
+<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: быти</li>
 </ul>
 
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
@@ -153,8 +153,17 @@ Hanne Martine Eckhoff and Aleksandrs Berdičevskis. 2015. 'Linguistics vs. digit
 <ul>
   <li>Part
   <ul>
-    <li>AUX: сущю, бывъ, сѹщю, было, бывшю, былъ, сыи, бывше, сѹще, сѹща</li>
+    <li>AUX: сущю, бывъ, сѹщю, бывшю, сыи, бывше, сѹще, сѹща, сѹщи, сы</li>
     <li>VERB: слышавъ, гл҃ѧ, видѣвъ, хотѧ, рекъ, рекуще, река, пришедъ, пришедшю, слышавше</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>PartRes
+  <ul>
+    <li>AUX: было, былъ, были, была, бꙑло, был, бꙑлъ, бꙑли, бꙑле</li>
+    <li>VERB: створилъ, пришелъ, далъ, пришли, взѧлъ, взѧли, взѧл, вышло, послалъ, реклъ</li>
   </ul>
   </li>
 </ul>
@@ -178,13 +187,15 @@ Hanne Martine Eckhoff and Aleksandrs Berdičevskis. 2015. 'Linguistics vs. digit
   <li>Fem
     <ul>
       <li>ADJ: свою, своеи, своею, ст҃ѣи, велика, своѥи, ст҃ꙑꙗ, мою, ст҃аꙗ, велику</li>
-      <li>AUX-Part: сѹщи, бывши, была, сѹщю, сущи, сущю, сущюю, бывъши, сѹщѹ, бывшю</li>
+      <li>AUX-Part: сѹщи, бывши, сѹщю, сущи, сущю, сущюю, бывъши, сѹщѹ, бывшю, бꙑвшеи</li>
+      <li>AUX-PartRes: была, были</li>
       <li>DET: всю, всѧ, тои, ту, всеи, сеи, си, сию, всею, всѣхъ</li>
       <li>NOUN: землю, земли, црк҃вь, землѧ, нощи, дружиною, кунъ, цр҃кви, дань, нощь</li>
       <li>NUM: тысѧч, тысѧщь, двѣ, тысѧчь, ѥдинои, ѥдинѹ, двою, едину, тысѧчю, ѥдина</li>
       <li>PRON: ю, юже, неи, еи, ея, яже, ѥи, ми, ѥꙗ, мѧ</li>
       <li>PROPN: русь, руси, ѡльга, чюдь, софии, волзѣ, лѹкꙑ, рѹсь, соѳьи, рѹси</li>
-      <li>VERB-Part: заложена, наставши, слышавъши, биющи, положена, гл҃щи, дала, избита, пришедъши, пришьдъши</li>
+      <li>VERB-Part: заложена, наставши, слышавъши, биющи, положена, гл҃щи, избита, пришедъши, пришьдъши, ркучи</li>
+      <li>VERB-PartRes: дала, въстала, пришла, стала, ѧла, въсплакали, задѣла, покрыла, стоꙗла, взала</li>
     </ul>
   </li>
 </ul>
@@ -204,13 +215,15 @@ Hanne Martine Eckhoff and Aleksandrs Berdičevskis. 2015. 'Linguistics vs. digit
   <li>Masc
     <ul>
       <li>ADJ: своѥго, свои, ст҃го, мои, ѡни, ѡн, самъ, своимъ, нашь, того</li>
-      <li>AUX-Part: сущю, бывъ, былъ, бывшю, сыи, сѹщю, бывше, сы, сѹща, были</li>
+      <li>AUX-Part: сущю, бывъ, бывшю, сыи, сѹщю, бывше, сы, сѹща, бывъшю, сѹщь</li>
+      <li>AUX-PartRes: былъ, были, был, бꙑло, бꙑлъ, бꙑли, бꙑле</li>
       <li>DET: вси, сего, тъ, того, весь, всѧ, всѣ, сии, всѣми, самъ</li>
       <li>NOUN: б҃ъ, дн҃ь, б҃а, кнѧзь, дн҃и, половци, брата, града, сн҃а, сн҃ъ</li>
       <li>NUM: ѥдинъ, единъ, два, ѡбои, три, ѥдиного, ѥдиномѹ, ѡба, ѡдинъ, двою</li>
       <li>PRON: ѥго, и, ихъ, ѥму, имъ, его, иже, ми, ему, ѥмѹ</li>
       <li>PROPN: володимеръ, изѧславъ, всеволодъ, ст҃ополкъ, гюрги, дв҃дъ, ярославъ, ѡлегъ, мьстиславъ, новѣгородѣ</li>
       <li>VERB-Part: слышавъ, гл҃ѧ, видѣвъ, хотѧ, рекъ, рекуще, река, пришедъ, пришедшю, слышавше</li>
+      <li>VERB-PartRes: створилъ, пришелъ, далъ, пришли, взѧлъ, взѧли, взѧл, послалъ, реклъ, цѣловалъ</li>
     </ul>
   </li>
 </ul>
@@ -219,13 +232,15 @@ Hanne Martine Eckhoff and Aleksandrs Berdičevskis. 2015. 'Linguistics vs. digit
   <li>Neut
     <ul>
       <li>ADJ: се, то, много, же, сего, мало, тѣмь, того, си, семь</li>
-      <li>AUX-Part: было, сѹще, бывшая, бывшаго, бывъшеѥ, сущю, сѹщю, бывшее, бывшемъ, бывшеє</li>
+      <li>AUX-Part: сѹще, бывшая, бывшаго, бывъшеѥ, сущю, сѹщю, бывшее, бывшемъ, бывшеє, бывшеѥ</li>
+      <li>AUX-PartRes: было, была, бꙑло</li>
       <li>DET: то, тож҃, се, томьж҃, все, тоже, всѧ, сеже, того, семь</li>
       <li>NOUN: лѣт, лѣт҃, мѣсто, мѣстѣ, имѧ, времѧ, лѣто, тѣло, зло, дѣти</li>
       <li>NUM: едино, двое, сотъ, три, сто, ѥдино, ѥдиномь, два, двѣма, единого</li>
       <li>PRON: что, ѥже, еже, чьто, ꙗже, чему, е, ѥгоже, яже, ѥ</li>
       <li>PROPN: берестовѣмь, городищи, льто, берестию, берестью, бѣлѣѡзерѣ, берестовое, бѣлоѡзеро, лтѣ, льтѣ</li>
-      <li>VERB-Part: вышло, рекше, погибло, въсходѧщю, повелѣно, положено, гл҃емаго, изгыбло, исходѧщю, остало</li>
+      <li>VERB-Part: рекше, въсходѧщю, повелѣно, положено, гл҃емаго, исходѧщю, писано, повелѣнаꙗ, варено, възвѣщено</li>
+      <li>VERB-PartRes: вышло, погибло, изгыбло, остало, разбило, диꙗло, стало, ѡстало, бывало, выехало</li>
     </ul>
   </li>
 </ul>
@@ -247,7 +262,8 @@ Hanne Martine Eckhoff and Aleksandrs Berdičevskis. 2015. 'Linguistics vs. digit
       <li>PRON: има, ваю, нима, ею, наю, нама, я, вѣ, ѥю, вама</li>
       <li>PROPN: ст҃ослава, ростиславичема, ростиславича, володимира, гюргевича, двд҃вичема, Святъславлича, Святъславличя, володимирицѧ, глѣбовича</li>
       <li>VERB-Fin: придоста, рекоста, поидоста, сѣдоста, радуита, яста, видѣста, взѧста, начаста, посласта</li>
-      <li>VERB-Part: гл҃ща, молѧща, рекшема, сѣдѧщема, ѿгонѧща, видѣвъша, глщ҃а, ицѣлѧюща, пожила, положена</li>
+      <li>VERB-Part: гл҃ща, молѧща, рекшема, сѣдѧщема, ѿгонѧща, видѣвъша, глщ҃а, ицѣлѧюща, положена, посѣщающа</li>
+      <li>VERB-PartRes: пожила, пришла, створила, вѣдала, избила, метала, начала, ошьла, пришьла, рекла</li>
     </ul>
   </li>
 </ul>
@@ -257,14 +273,16 @@ Hanne Martine Eckhoff and Aleksandrs Berdičevskis. 2015. 'Linguistics vs. digit
     <ul>
       <li>ADJ: ѡни, си, своя, своими, вси, своихъ, мнози, многы, сами, наши</li>
       <li>AUX-Fin: суть, быша, бѣша, бѧху, есмѧ, бꙑша, ѥсмы, есте, бѧхꙋ, ѥсте</li>
-      <li>AUX-Part: бывше, были, сѹщемъ, суще, сѹще, бывшая, соуще, сущая, сущим, сѹщиимъ</li>
+      <li>AUX-Part: бывше, сѹщемъ, суще, сѹще, бывшая, соуще, сущая, сущим, сѹщиимъ, сѹщиихъ</li>
+      <li>AUX-PartRes: были, была, бꙑли</li>
       <li>DET: вси, всѧ, всѣхъ, всѣ, всѣми, всѣмъ, вьсѧ, всꙗ, тѣхъ, всѣх</li>
       <li>NOUN: половци, дн҃и, вои, людье, лѣт, новгородьци, люди, кунъ, новгородци, мужи</li>
       <li>NUM: тысѧч, три, тысѧщь, ѡбои, тысѧчь, сотъ, трии, трех, трьхъ, д҃.хъ</li>
       <li>PRON: ихъ, имъ, ны, мы, вы, их, намъ, ними, них, я</li>
       <li>PROPN: ѡлговичи, лѹкꙑ, володимеричи, ѡлговичем, деревѣхъ, мстиславичи, ѡлговичь, лѹкахъ, лѹкъ, тархы</li>
       <li>VERB-Fin: придоша, рѣша, послаша, поидоша, идоша, начаша, сташа, даша, положиша, рекоша</li>
-      <li>VERB-Part: рекуще, слышавше, видѣвше, вземше, гл҃ще, пришедше, хотѧще, пришли, глщ҃е, шедше</li>
+      <li>VERB-Part: рекуще, слышавше, видѣвше, вземше, гл҃ще, пришедше, хотѧще, глщ҃е, шедше, послании</li>
+      <li>VERB-PartRes: пришли, взѧли, пошли, шли, били, пограбили, прияли, погибли, поимали, цѣловали</li>
     </ul>
   </li>
 </ul>
@@ -274,7 +292,8 @@ Hanne Martine Eckhoff and Aleksandrs Berdičevskis. 2015. 'Linguistics vs. digit
     <ul>
       <li>ADJ: своѥго, се, то, свою, же, ст҃го, того, свои, много, кто</li>
       <li>AUX-Fin: бѣ, быс, есть, ѥсть, будеть, бѧше, бы, ѥси, бꙑс҃, еси</li>
-      <li>AUX-Part: сущю, бывъ, сѹщю, было, бывшю, былъ, сыи, сѹщи, сы, сѹще</li>
+      <li>AUX-Part: сущю, бывъ, сѹщю, бывшю, сыи, сѹщи, сы, сѹще, сѹща, бывши</li>
+      <li>AUX-PartRes: было, былъ, была, бꙑло, был, бꙑлъ, бꙑле</li>
       <li>DET: то, сего, тож҃, того, се, всю, томьж҃, тъ, весь, все</li>
       <li>NOUN: лѣт, лѣт҃, б҃ъ, дн҃ь, землю, б҃а, кнѧзь, земли, града, брата</li>
       <li>NUM: ѥдинъ, единъ, ѥдиного, едино, ѥдиномѹ, единого, ѡдинъ, ѥдиномь, двое, ѥдинои</li>
@@ -282,6 +301,7 @@ Hanne Martine Eckhoff and Aleksandrs Berdičevskis. 2015. 'Linguistics vs. digit
       <li>PROPN: володимеръ, изѧславъ, всеволодъ, ст҃ополкъ, гюрги, дв҃дъ, ярославъ, ѡлегъ, русь, мьстиславъ</li>
       <li>VERB-Fin: реч, приде, иде, посла, повелѣ, поиде, престави, нача, створи, рече</li>
       <li>VERB-Part: слышавъ, гл҃ѧ, видѣвъ, хотѧ, рекъ, река, пришедъ, пришедшю, гл҃ꙗ, шедъ</li>
+      <li>VERB-PartRes: створилъ, пришелъ, далъ, взѧлъ, взѧл, вышло, послалъ, реклъ, цѣловалъ, почалъ</li>
     </ul>
   </li>
 </ul>
@@ -340,6 +360,7 @@ Hanne Martine Eckhoff and Aleksandrs Berdičevskis. 2015. 'Linguistics vs. digit
       <li>PRON: ѥго, ихъ, его, него, их, мене, нас, ѥгоже, нихъ, насъ</li>
       <li>PROPN: бориса, глѣба, новагорода, мстислава, изѧслава, володимера, ст҃ослава, всеволода, михаила, игорѧ</li>
       <li>VERB-Part: стоꙗща, гл҃ща, идуща, гл҃емаго, гл҃юща, кованых, лежаща, нарѧжаных, нарѧженых, сѣдѧща</li>
+      <li>VERB-PartRes: съзьрѣла</li>
     </ul>
   </li>
 </ul>
@@ -378,13 +399,15 @@ Hanne Martine Eckhoff and Aleksandrs Berdičevskis. 2015. 'Linguistics vs. digit
   <li>Nom
     <ul>
       <li>ADJ: кто, се, ѡни, ѡн, самъ, мои, то, нашь, вси, си</li>
-      <li>AUX-Part: бывъ, было, былъ, сыи, бывше, сы, были, была, сѹще, суще</li>
+      <li>AUX-Part: бывъ, сыи, бывше, сы, сѹще, суще, соуще, соущи, соущїи, бывши</li>
+      <li>AUX-PartRes: было, былъ, были, была, бꙑло, был, бꙑлъ, бꙑли, бꙑле</li>
       <li>DET: вси, всѧ, си, самъ, все, тъ, весь, всѣ, сии, се</li>
       <li>NOUN: б҃ъ, кнѧзь, людье, половци, ц҃рь, сн҃ъ, кн҃зь, гсь, землѧ, новгородьци</li>
       <li>NUM: единъ, ѥдинъ, два, ѡбои, ѡба, ѡдинъ, оба, три, ѥдина, едино</li>
       <li>PRON: иже, азъ, ты, мы, ѥже, еже, кто, вы, что, тꙑ</li>
       <li>PROPN: володимеръ, изѧславъ, всеволодъ, ст҃ополкъ, гюрги, дв҃дъ, ярославъ, ѡлегъ, мьстиславъ, ст҃ославъ</li>
       <li>VERB-Part: слышавъ, гл҃ѧ, видѣвъ, хотѧ, рекъ, рекуще, река, пришедъ, слышавше, видѣвше</li>
+      <li>VERB-PartRes: створилъ, пришелъ, далъ, пришли, взѧлъ, взѧли, взѧл, вышло, послалъ, реклъ</li>
       <li>VERB-Sup: видѣтъ, съповѣдатъ, ѡпочивать</li>
     </ul>
   </li>
@@ -423,7 +446,6 @@ Hanne Martine Eckhoff and Aleksandrs Berdičevskis. 2015. 'Linguistics vs. digit
     <ul>
       <li>ADJ: ст҃го, много, мало, блаженыи, велика, великъ, мнози, многы, стаг, ст҃ѣи</li>
       <li>ADV: много, добрѣ, скоро, крѣпко, мало, лютѣ, борзо, злѣ, прилѣжьно, высоко</li>
-      <li>PROPN: гюргевичь</li>
     </ul>
   </li>
 </ul>
@@ -444,10 +466,28 @@ Hanne Martine Eckhoff and Aleksandrs Berdičevskis. 2015. 'Linguistics vs. digit
   <li>Neg
     <ul>
       <li>ADV: не, ни, нѣ, но, нь, н[ь, на</li>
+      <li>AUX-Fin: нѣсмь, нѣс, нѣси, нѣсть</li>
+      <li>VERB: нѣс, нѣсть, нѣс҃, нѣ, нѣтѹ, нѣсмъ, нѣсмы, нѣста, нѣ҃с</li>
+      <li>VERB-Fin: нѣс, нѣсть, нѣс҃, нѣ, нѣсмъ, нѣсмы, нѣста, нѣ҃с</li>
     </ul>
   </li>
 </ul>
 
+<ul>
+  <li><a>Variant</a></li>
+</ul>
+
+<ul>
+  <li>Short
+    <ul>
+      <li>ADJ: много, мало, велика, великъ, мнози, многы, велику, многа, боле, камѧнѹ</li>
+      <li>AUX-Part: сущю, бывъ, сѹщю, бывшю, бывше, сѹще, сѹща, сѹщи, сы, бывъшю</li>
+      <li>AUX-PartRes: было, былъ, были, была, бꙑло, был, бꙑлъ, бꙑли, бꙑле</li>
+      <li>VERB-Part: слышавъ, гл҃ѧ, видѣвъ, хотѧ, рекъ, рекуще, река, пришедъ, пришедшю, слышавше</li>
+      <li>VERB-PartRes: створилъ, пришелъ, далъ, пришли, взѧлъ, взѧли, взѧл, вышло, послалъ, реклъ</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Verbal Features</h3>
 
@@ -470,15 +510,6 @@ Hanne Martine Eckhoff and Aleksandrs Berdičevskis. 2015. 'Linguistics vs. digit
     <ul>
       <li>AUX-Fin: быс, бы, бꙑс҃, бысть, быша, бꙑша, бых, быхъ, бꙑ, быста</li>
       <li>VERB-Fin: реч, приде, иде, посла, повелѣ, поиде, придоша, престави, нача, рѣша</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Res
-    <ul>
-      <li>AUX-Part: было, былъ, были, была, бꙑло, был, бꙑлъ, бꙑли, бꙑле</li>
-      <li>VERB-Part: створилъ, пришелъ, далъ, пришли, взѧлъ, взѧли, взѧл, вышло, послалъ, реклъ</li>
     </ul>
   </li>
 </ul>
@@ -523,8 +554,10 @@ Hanne Martine Eckhoff and Aleksandrs Berdičevskis. 2015. 'Linguistics vs. digit
     <ul>
       <li>AUX-Fin: бѣ, быс, бѧше, бы, бꙑс҃, бысть, быша, бѣша, бѧху, бꙑша</li>
       <li>AUX-Part: бывъ, бывшю, бывше, бывъшю, бывши, бывшая, бывшаго, бывъшеѥ, бывшее, бывшемъ</li>
+      <li>AUX-PartRes: было, былъ, были, была, бꙑло, был, бꙑлъ, бꙑли, бꙑле</li>
       <li>VERB-Fin: реч, приде, иде, посла, повелѣ, поиде, придоша, престави, нача, рѣша</li>
       <li>VERB-Part: слышавъ, видѣвъ, рекъ, пришедъ, пришедшю, слышавше, видѣвше, вземше, шедъ, пославъ</li>
+      <li>VERB-PartRes: створилъ, пришелъ, далъ, пришли, взѧлъ, взѧли, взѧл, вышло, послалъ, реклъ</li>
     </ul>
   </li>
 </ul>
@@ -551,10 +584,12 @@ Hanne Martine Eckhoff and Aleksandrs Berdičevskis. 2015. 'Linguistics vs. digit
     <ul>
       <li>AUX-Fin: бѣ, быс, есть, ѥсть, будеть, бѧше, суть, бы, бꙑс҃, ѥси</li>
       <li>AUX-Inf: быти, бꙑти, быть</li>
-      <li>AUX-Part: сущю, бывъ, сѹщю, было, бывшю, былъ, сыи, бывше, сѹще, сѹща</li>
+      <li>AUX-Part: сущю, бывъ, сѹщю, бывшю, сыи, бывше, сѹще, сѹща, сѹщи, сы</li>
+      <li>AUX-PartRes: было, былъ, были, была, бꙑло, был, бꙑлъ, бꙑли, бꙑле</li>
       <li>VERB-Fin: реч, приде, иде, посла, повелѣ, поиде, придоша, престави, нача, рѣша</li>
       <li>VERB-Inf: ити, видѣти, платити, бити, дати, створити, взѧти, имѣти, творити, молити</li>
       <li>VERB-Part: слышавъ, гл҃ѧ, видѣвъ, хотѧ, рекъ, рекуще, река, пришедъ, пришедшю, слышавше</li>
+      <li>VERB-PartRes: створилъ, пришелъ, далъ, пришли, взѧлъ, взѧли, взѧл, вышло, послалъ, реклъ</li>
     </ul>
   </li>
 </ul>
@@ -678,28 +713,6 @@ Hanne Martine Eckhoff and Aleksandrs Berdičevskis. 2015. 'Linguistics vs. digit
 <h3>Other Features</h3>
 
 
-<ul>
-  <li><a>Strength</a>
-    <ul>
-      <li>Strong
-        <ul>
-          <li>ADJ: много, мало, велика, великъ, мнози, многы, велику, многа, боле, камѧнѹ</li>
-          <li>AUX-Part: сущю, бывъ, сѹщю, было, бывшю, былъ, бывше, сѹще, сѹща, сѹщи</li>
-          <li>PROPN: гюргевичь</li>
-          <li>VERB-Part: слышавъ, гл҃ѧ, видѣвъ, хотѧ, рекъ, рекуще, река, пришедъ, пришедшю, слышавше</li>
-        </ul>
-      </li>
-      <li>Weak
-        <ul>
-          <li>ADJ: ст҃го, блаженыи, стаг, ст҃ѣи, друзии, великыи, ст҃ꙑꙗ, стг҃о, ст҃ѹю, блаженааго</li>
-          <li>AUX-Part: сыи, будущии, бывшая, сущая, сущим, сѹщиимъ, сѹщиихъ, бывшаго, бывъшеѥ, соущїи</li>
-          <li>VERB-Part: вѣдыи, послании, имыи, рекыи, стрѣлѧющим, идыи, могыи, золоченꙑми, любѧи, приходѧщая</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -709,7 +722,7 @@ Hanne Martine Eckhoff and Aleksandrs Berdičevskis. 2015. 'Linguistics vs. digit
 </ul>
 
 <ul>
-<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: быти, не быти.</li>
+<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: быти.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: быти.</li>
 </ul>
 
@@ -739,14 +752,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Nom (7)</li>
       <li>VERB-Inf--PRON-Dat (103)</li>
       <li>VERB-Inf--PRON-Nom (6)</li>
-      <li>VERB-Part--NOUN-Acc (2)</li>
+      <li>VERB-Part--NOUN-Acc (1)</li>
       <li>VERB-Part--NOUN-Dat (241)</li>
       <li>VERB-Part--NOUN-Gen (2)</li>
-      <li>VERB-Part--NOUN-Nom (369)</li>
-      <li>VERB-Part--PRON (2)</li>
+      <li>VERB-Part--NOUN-Nom (103)</li>
       <li>VERB-Part--PRON-Acc (2)</li>
       <li>VERB-Part--PRON-Dat (146)</li>
-      <li>VERB-Part--PRON-Nom (125)</li>
+      <li>VERB-Part--PRON-Nom (19)</li>
+      <li>VERB-PartRes--NOUN-Acc (1)</li>
+      <li>VERB-PartRes--NOUN-Nom (266)</li>
+      <li>VERB-PartRes--PRON (2)</li>
+      <li>VERB-PartRes--PRON-Nom (106)</li>
     </ul>
   </li>
 </ul>
@@ -783,19 +799,24 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Acc (117)</li>
       <li>VERB-Inf--PRON-Gen (80)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
-      <li>VERB-Part--NOUN (1)</li>
-      <li>VERB-Part--NOUN-Acc (1132)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(на) (6)</li>
+      <li>VERB-Part--NOUN-Acc (907)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(на) (5)</li>
       <li>VERB-Part--NOUN-Dat-ADP(по) (1)</li>
-      <li>VERB-Part--NOUN-Gen (261)</li>
+      <li>VERB-Part--NOUN-Gen (212)</li>
       <li>VERB-Part--NOUN-Loc-ADP(въ) (1)</li>
       <li>VERB-Part--NOUN-Loc-ADP(о) (1)</li>
       <li>VERB-Part--NOUN-Nom (1)</li>
-      <li>VERB-Part--PRON (1)</li>
-      <li>VERB-Part--PRON-Acc (261)</li>
-      <li>VERB-Part--PRON-Gen (142)</li>
+      <li>VERB-Part--PRON-Acc (144)</li>
+      <li>VERB-Part--PRON-Gen (83)</li>
       <li>VERB-Part--PRON-Loc-ADP(о) (2)</li>
-      <li>VERB-Part--PRON-Nom (3)</li>
+      <li>VERB-PartRes--NOUN (1)</li>
+      <li>VERB-PartRes--NOUN-Acc (225)</li>
+      <li>VERB-PartRes--NOUN-Acc-ADP(на) (1)</li>
+      <li>VERB-PartRes--NOUN-Gen (49)</li>
+      <li>VERB-PartRes--PRON (1)</li>
+      <li>VERB-PartRes--PRON-Acc (117)</li>
+      <li>VERB-PartRes--PRON-Gen (59)</li>
+      <li>VERB-PartRes--PRON-Nom (3)</li>
       <li>VERB-Sup--NOUN-Acc (2)</li>
       <li>VERB-Sup--NOUN-Gen (6)</li>
       <li>VERB-Sup--PRON-Gen (7)</li>
@@ -828,15 +849,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Ins (2)</li>
       <li>VERB-Inf--PRON-Loc (2)</li>
       <li>VERB-Part--NOUN-Acc (3)</li>
-      <li>VERB-Part--NOUN-Dat (119)</li>
-      <li>VERB-Part--NOUN-Gen (156)</li>
-      <li>VERB-Part--NOUN-Ins (59)</li>
+      <li>VERB-Part--NOUN-Dat (92)</li>
+      <li>VERB-Part--NOUN-Gen (147)</li>
+      <li>VERB-Part--NOUN-Ins (50)</li>
       <li>VERB-Part--NOUN-Loc (1)</li>
       <li>VERB-Part--NOUN-Nom (1)</li>
-      <li>VERB-Part--PRON-Dat (222)</li>
-      <li>VERB-Part--PRON-Gen (34)</li>
-      <li>VERB-Part--PRON-Ins (8)</li>
+      <li>VERB-Part--PRON-Dat (144)</li>
+      <li>VERB-Part--PRON-Gen (28)</li>
+      <li>VERB-Part--PRON-Ins (3)</li>
       <li>VERB-Part--PRON-Loc (1)</li>
+      <li>VERB-PartRes--NOUN-Dat (27)</li>
+      <li>VERB-PartRes--NOUN-Gen (9)</li>
+      <li>VERB-PartRes--NOUN-Ins (9)</li>
+      <li>VERB-PartRes--PRON-Dat (78)</li>
+      <li>VERB-PartRes--PRON-Gen (6)</li>
+      <li>VERB-PartRes--PRON-Ins (5)</li>
       <li>VERB-Sup--NOUN-Dat (1)</li>
       <li>VERB-Sup--NOUN-Gen (4)</li>
       <li>VERB-Sup--PRON-Gen (1)</li>

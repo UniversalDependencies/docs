@@ -69,7 +69,7 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 4	این	این	DET	DET	_	5	det	_	_
 5	افزایش	افزایش	NOUN	N_SING	Number=Sing	2	nmod:poss	_	_
 6	قیمت	قیمت	NOUN	N_SING	Number=Sing	5	nmod:poss	_	SpaceAfter=No
-7	،	،	PUNCT	DELM	_	8	punct	_	_
+7	،	،	PUNCT	DELM	_	2	punct	_	_
 8	آمریکا	آمریکا	NOUN	N_SING	Number=Sing	0	root	_	_
 9	خواهد	خواست#خواه	AUX	V_AUX	Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	aux	_	_
 10	بود	بود	AUX	V_PA	Number=Sing|Person=3|Tense=Past	8	cop	_	SpaceAfter=No

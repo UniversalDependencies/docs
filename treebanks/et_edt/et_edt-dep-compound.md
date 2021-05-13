@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `compound`: <tt><a href="et_edt-dep-compound-prt.html">compound:prt</a></tt>.
 
-594 nodes (0%) are attached to their parents as `compound`.
+602 nodes (0%) are attached to their parents as `compound`.
 
-568 instances of `compound` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.06902356902357.
+577 instances of `compound` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.06810631229236.
 
-The following 7 pairs of parts of speech are connected with `compound`: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (529; 89% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (38; 6% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (14; 2% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `compound`: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (535; 89% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (38; 6% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (14; 2% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,8 +27,8 @@ The following 7 pairs of parts of speech are connected with `compound`: <tt><a h
 2	"	"	PUNCT	Z	_	3	punct	3:punct	SpaceAfter=No
 3	Z	Z	X	Y	Abbr=Yes	0	root	0:root	_
 4	ja	ja	CCONJ	J	_	6	cc	6:cc	_
-5	kaks	kaks	NUM	N	Case=Nom|Number=Sing|NumForm=Letter|NumType=Card	6	compound	6:compound	_
-6	nulli	null	NUM	N	Case=Nom|Number=Sing|NumForm=Letter|NumType=Card	3	conj	3:conj	SpaceAfter=No
+5	kaks	kaks	NUM	N	Case=Nom|Number=Sing|NumForm=Word|NumType=Card	6	compound	6:compound	_
+6	nulli	null	NUM	N	Case=Par|Number=Sing|NumForm=Word|NumType=Card	3	conj	3:conj	SpaceAfter=No
 7	"	"	PUNCT	Z	_	3	punct	3:punct	_
 
 ~~~

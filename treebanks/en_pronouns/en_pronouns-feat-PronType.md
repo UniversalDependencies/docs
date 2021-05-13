@@ -16,18 +16,18 @@ The feature is used with 2 part-of-speech tags: <tt><a href="en_pronouns-pos-PRO
 
 ### `PRON`
 
-320 <tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt> tokens (94% of all `PRON` tokens) have a non-empty value of `PronType`.
+320 <tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt> tokens (97% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="en_pronouns-feat-Number.html">Number</a></tt><tt>=Sing</tt> (320; 100%), <tt><a href="en_pronouns-feat-Case.html">Case</a></tt><tt>=Gen</tt> (285; 89%), <tt><a href="en_pronouns-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (285; 89%), <tt><a href="en_pronouns-feat-Person.html">Person</a></tt><tt>=3</tt> (192; 60%), <tt><a href="en_pronouns-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (171; 53%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="en_pronouns-feat-Number.html">Number</a></tt><tt>=Sing</tt> (320; 100%), <tt><a href="en_pronouns-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (285; 89%), <tt><a href="en_pronouns-feat-Person.html">Person</a></tt><tt>=3</tt> (192; 60%), <tt><a href="en_pronouns-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (171; 53%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Prs` (320; 100% of non-empty `PronType`): <em>hers, his, mine, theirs, yours, it</em>
-* `EMPTY` (20): <em>all, There, it</em>
+* `EMPTY` (10): <em>There, it</em>
 
 ### `DET`
 
-185 <tt><a href="en_pronouns-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+185 <tt><a href="en_pronouns-pos-DET.html">DET</a></tt> tokens (95% of all `DET` tokens) have a non-empty value of `PronType`.
 
 The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="en_pronouns-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (180; 97%).
 
@@ -35,6 +35,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 * `Art` (180; 97% of non-empty `PronType`): <em>the</em>
 * `Ind` (5; 3% of non-empty `PronType`): <em>Any</em>
+* `EMPTY` (10): <em>all</em>
 
 ## Relations with Agreement in `PronType`
 

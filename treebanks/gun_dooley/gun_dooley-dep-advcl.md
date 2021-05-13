@@ -27,9 +27,9 @@ The following 3 pairs of parts of speech are connected with `advcl`: <tt><a href
 3	_	_	NOUN	n	_	2	obj	_	_
 4	_	_	PUNCT	punct	_	2	punct	_	_
 5	_	_	PART	temprt	_	6	dep:mod	_	_
-6	_	_	VERB	vi:a	Mood=Ind|Person[subj]=1|Subcat=Int|VerbForm=Fin	8	advcl	_	_
+6	_	_	VERB	vi:a	Mood=Ind|Person[subj]=1|Subcat=Intr|VerbForm=Fin	8	advcl	_	_
 7	_	_	SCONJ	subordconn	_	6	mark	_	_
-8	_	_	VERB	vi:a	Mood=Ind|Person[subj]=1|Subcat=Int|VerbForm=Fin	2	advcl	_	_
+8	_	_	VERB	vi:a	Mood=Ind|Person[subj]=1|Subcat=Intr|VerbForm=Fin	2	advcl	_	_
 9	_	_	SCONJ	subordconn	_	8	mark	_	_
 10	_	_	PUNCT	punct	_	2	punct	_	_
 11	_	_	VERB	vt	Mood=Ind|Subcat=Tran|VerbForm=Inf	0	root	_	_
@@ -44,13 +44,13 @@ The following 3 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 23	bgColor:blue
 # visual-style 23	fgColor:white
 # visual-style 23 20 advcl	color:blue
-1	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	12	advcl	_	_
+1	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	12	advcl	_	_
 2	_	_	SCONJ	subordconn	_	1	mark	_	_
 3	_	_	NOUN	n	_	12	obl	_	_
 4	_	_	PART	illocprt	_	3	dep:mod	_	_
 5	_	_	NOUN	n	_	7	nsubj	_	_
 6	_	_	PART	quantprt	_	5	dep:mod	_	_
-7	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	12	advcl	_	_
+7	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	12	advcl	_	_
 8	_	_	PART	temprt	_	7	dep:mod	_	_
 9	_	_	SCONJ	subordconn	_	7	mark	_	_
 10	_	_	PART	discprt	_	7	dep:mod	_	_
@@ -63,7 +63,7 @@ The following 3 pairs of parts of speech are connected with `advcl`: <tt><a href
 17	_	_	PART	intprt	_	15	dep:mod	_	_
 18	_	_	PUNCT	punct	_	26	punct	_	_
 19	_	_	PUNCT	punct	_	23	punct	_	_
-20	_	_	VERB	vi:a	Mood=Ind|Person[subj]=1|Subcat=Int|VerbForm=Fin	23	advcl	_	_
+20	_	_	VERB	vi:a	Mood=Ind|Person[subj]=1|Subcat=Intr|VerbForm=Fin	23	advcl	_	_
 21	_	_	SCONJ	subordconn	_	20	mark	_	_
 22	_	_	NOUN	n	_	23	obl	_	_
 23	_	_	NOUN	n	Number[psor]=Sing	26	parataxis:rep	_	_

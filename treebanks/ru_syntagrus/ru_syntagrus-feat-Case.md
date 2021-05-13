@@ -203,7 +203,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 
 * `Loc` (1; 20% of non-empty `Case`): <em>бывшем</em>
 * `Nom` (4; 80% of non-empty `Case`): <em>бывшие, бывший</em>
-* `EMPTY` (9664): <em>было, был, бы, были, будет, была, быть, будут, есть, будем</em>
+* `EMPTY` (9680): <em>было, бы, был, были, будет, была, быть, будут, есть, будем</em>
 
 <table>
   <tr><th>Paradigm <i>быть</i></th><th><tt>Nom</tt></th><th><tt>Loc</tt></th></tr>

@@ -23,7 +23,7 @@ The following 10 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 # visual-style 6	fgColor:white
 # visual-style 6 8 nmod:poss	color:blue
 1	เห็น	_	VERB	VV	_	0	root	_	SpaceAfter=No
-2	ได้	_	VERB	MD	_	1	aux	_	SpaceAfter=No
+2	ได้	_	AUX	MD	_	1	aux	_	SpaceAfter=No
 3	ชัด	_	ADV	RB	_	1	advmod	_	SpaceAfter=No
 4	ที่สุด	_	ADV	RB	_	3	advmod	_	SpaceAfter=No
 5	เมื่อ	_	ADP	IN	_	10	mark	_	SpaceAfter=No
@@ -62,7 +62,7 @@ The following 10 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 # visual-style 8	fgColor:white
 # visual-style 8 14 nmod:poss	color:blue
 1	เธอ	_	PRON	PRP	Person=3	3	nsubj:pass	_	SpaceAfter=No
-2	ถูก	_	VERB	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No
+2	ถูก	_	AUX	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No
 3	ตั้ง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 4	ข้อหา	_	NOUN	NN	_	3	obj	_	SpaceAfter=No
 5	ฐาน	_	ADP	IN	_	6	mark	_	SpaceAfter=No

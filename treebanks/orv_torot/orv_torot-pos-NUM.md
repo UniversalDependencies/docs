@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of NUM in UD_Old_Russian-TOROT'
+title:  'Statistics of NUM in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: POS Tags: `NUM`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: POS Tags: `NUM`
 
 There are 63 `NUM` lemmas (1%), 301 `NUM` types (1%) and 3772 `NUM` tokens (3%).
 Out of 14 observed tags, the rank of `NUM` is: 8 in number of lemmas, 8 in number of types and 9 in number of tokens.
@@ -64,7 +64,7 @@ The 10 most frequent ambiguous types:  <em>х҃</em> (<tt><a href="orv_torot-pos
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 4.777778 (the average of all parts of speech is 3.571089).
+The form / lemma ratio of `NUM` is 4.777778 (the average of all parts of speech is 3.571475).
 
 The 1st highest number of forms (47) was observed with the lemma “единъ”: <em>а, а҃, еди, един, едина, единаго, едино, единого, единои, едином, единому, единомъ, единомь, единомꙋ, единою, едину, единъ, единым, единымъ, единыхъ, единѣмъ, единѣхъ, единѹ, едінъ, єдино, єдинъ, ѥдин, ѥдина, ѥдини, ѥдино, ѥдиного, ѥдинои, ѥдином, ѥдиномȣ, ѥдиному, ѥдиномь, ѥдиномѹ, ѥдиноꙗ, ѥдину, ѥдинъ, ѥдины, ѥдиныи, ѥдинѣмъ, ѥдинѣмь, ѥдинѣхъ, ѥдинѹ, ѥдін</em>.
 

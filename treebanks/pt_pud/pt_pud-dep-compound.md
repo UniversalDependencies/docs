@@ -22,7 +22,7 @@ The following 6 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 compound	color:blue
-1	O	o	DET	PDT	Gender=Masc|Number=Sing	4	det:predet	_	_
+1	O	o	DET	PDT	Gender=Masc|Number=Sing	4	det	_	_
 2	seu	_	PRON	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	4	det	_	_
 3	primeiro	primeiro	ADJ	JJ	Gender=Masc|Number=Sing	4	amod	_	_
 4	rei	rei	NOUN	NN	Gender=Masc|Number=Sing	6	nsubj	_	_
@@ -61,7 +61,7 @@ The following 6 pairs of parts of speech are connected with `compound`: <tt><a h
 11	o	o	DET	_	Gender=Masc|Number=Sing	5	det	_	_
 12	que	_	ADP	IN	_	16	case	_	ToDo=ex-adp-child
 13	em	em	ADP	IN	_	16	case	_	_
-14	qualquer	_	DET	PDT	Gender=Masc|Number=Sing	16	det:predet	_	_
+14	qualquer	_	DET	PDT	Gender=Masc|Number=Sing	16	det	_	_
 15	outro	_	DET	DT	Gender=Masc|Number=Sing	16	det	_	_
 16	país	país	NOUN	NN	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	4	punct	_	_

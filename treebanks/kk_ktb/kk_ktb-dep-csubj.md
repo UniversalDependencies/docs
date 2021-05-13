@@ -50,7 +50,7 @@ The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href
 7	жылда	жыл	NOUN	n	Case=Loc	9	obl	_	_
 8	жүзеге	жүзеге	X	x	_	9	dep	_	_
 9	асыру	асыр	VERB	v	Case=Nom|VerbForm=Ger	10	csubj	_	_
-10	жоспарланып	жоспарла	VERB	v	Aspect=Perf|VerbForm=Cov|Voice=Pass	0	root	_	_
+10	жоспарланып	жоспарла	VERB	v	Aspect=Perf|VerbForm=Inf|Voice=Pass	0	root	_	_
 11	отыр	отыр	AUX	vaux	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	SpaceAfter=No
 12	.	.	PUNCT	sent	_	10	punct	_	_
 

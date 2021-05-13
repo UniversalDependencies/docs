@@ -35,7 +35,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 11	гусьӧник	гусьӧник	ADV	Adv	_	10	advmod	_	SpaceAfter=No
 12	,	,	PUNCT	CLB	_	14	punct	_	_
 13	дзик	дзик	ADV	Adv	AdvType=Deg	14	advmod:deg	_	GTtags=AdA
-14	ас	ас	DET	Det	PronType=Refl	11	appos	_	GTtags=Pron,Refl,Cmpl
+14	ас	ас	PRON	Pron	PronType=Prs|Reflex=Yes	11	appos	_	GTtags=Pron,Refl,Cmpl
 15	кежас	кежӧ	ADP	Adp	AdpType=Post|Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	14	case	_	GTtags=Po,Sg,Ill,PxSg3|SpaceAfter=No
 16	,	,	PUNCT	CLB	_	14	punct	_	_
 17	сэсся	сэсся	ADV	Adv	_	19	advmod:tmod	_	_
@@ -53,7 +53,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 2	fgColor:white
 # visual-style 2 3 discourse	color:blue
 1	—	—	PUNCT	PUNCT	_	6	punct	_	_
-2	Мый	мый	PRON	Pron	Animacy=NHum|Case=Nom|PronType=Int	6	obl	_	GTtags=Sem/NonHum,Nom,Interr
+2	Мый	мый	PRON	Pron	Animacy=Nhum|Case=Nom|PronType=Int	6	obl	_	GTtags=Sem/NonHum,Nom,Interr
 3	нӧ	нӧ	PART	Pcle	_	2	discourse	_	_
 4	дыр	дыр	ADV	Adv	_	6	advmod	_	_
 5	эн	оз	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Past	6	aux:neg	_	GTtags=Neg,Ind,Prt1,Sg2
@@ -61,7 +61,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 7	?	?	PUNCT	CLB	_	6	punct	_	_
 8	—	—	PUNCT	PUNCT	_	13	punct	_	_
 9	инькасӧ	инька	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	obj	_	GTtags=Sg,Acc,PxSg3
-10	ас	ас	DET	Det	PronType=Refl	12	obl	_	GTtags=Pron,Refl,Cmpl
+10	ас	ас	PRON	Pron	PronType=Prs|Reflex=Yes	12	obl	_	GTtags=Pron,Refl,Cmpl
 11	бердас	бердӧ	ADP	Adp	AdpType=Post|AdvType=Loc|Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	case	_	GTtags=Po,Spat,Sg,Ill,PxSg3
 12	жмитікӧ	жмитны	VERB	V	Case=Ill|Derivation=Ik|VerbForm=Conv	13	advcl	_	GTtags=Der/Ik,Ger,Ill
 13	юаліс	юавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	parataxis	_	GTtags=Ind,Prt1,Sg3
@@ -85,7 +85,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 6	понды	пондыны	VERB	V	Connegative=Yes	0	root	_	GTtags=ConNeg|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	9	punct	_	_
 8	кӧр	кӧр	ADV	Adv	_	9	mark	_	_
-9	дугда	дугдыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	6	advcl:tmod	_	GTtags=Ind,Prs,Sg1
+9	дугда	дугдыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	6	advcl:tcl	_	GTtags=Ind,Prs,Sg1
 10	боньгыныт	боньгыны	VERB	V	Person[psor]=2|VerbForm=Inf	9	xcomp	_	GTtags=Inf,Px2|SpaceAfter=No
 11	.	.	PUNCT	CLB	_	6	punct	_	_
 

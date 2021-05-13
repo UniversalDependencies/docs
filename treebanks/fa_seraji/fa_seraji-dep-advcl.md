@@ -23,7 +23,7 @@ The following 27 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 6	fgColor:white
 # visual-style 6 16 advcl	color:blue
 1	گفت	گفت#گو	VERB	V_PA	Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
-2	:	:	PUNCT	DELM	_	1	punct	_	_
+2	:	:	PUNCT	DELM	_	6	punct	_	_
 3	بر	بر	ADP	P	_	4	case	_	_
 4	من	من	PRON	PRO	Number=Sing|Person=1|PronType=Prs	6	obl	_	_
 5	روزی	روز	NOUN	N_SING	Number=Sing	6	nsubj	_	_
@@ -32,9 +32,9 @@ The following 27 pairs of parts of speech are connected with `advcl`: <tt><a hre
 8	آن	آن	PRON	PRO	Number=Sing|PronType=Dem	7	fixed	_	_
 9	که	که	CCONJ	CON	_	7	fixed	_	_
 10	علی	علی	NOUN	N_SING	Number=Sing	16	obj	_	SpaceAfter=No
-11	)	)	PUNCT	DELM	_	10	punct	_	_
+11	)	)	PUNCT	DELM	_	12	punct	_	_
 12	ع	ع	NOUN	N_SING	Number=Sing	10	dep	_	_
-13	(	(	PUNCT	DELM	_	10	punct	_	SpaceAfter=No
+13	(	(	PUNCT	DELM	_	14	punct	_	SpaceAfter=No
 14	را	را	PART	CLITIC	_	10	case	_	_
 15	یاد	یاد	NOUN	N_SING	Number=Sing	16	compound:lvc	_	_
 16	می‌کنم	_	VERB	V_PRS	Number=Sing|Person=1|Tense=Pres	6	advcl	_	SpaceAfter=No

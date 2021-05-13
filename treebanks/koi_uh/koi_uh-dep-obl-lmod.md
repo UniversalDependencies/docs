@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="koi_uh-dep-obl.html">obl</a></tt>.
 There are also 1 other language-specific subtypes of `obl`: <tt><a href="koi_uh-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-29 nodes (3%) are attached to their parents as `obl:lmod`.
+30 nodes (4%) are attached to their parents as `obl:lmod`.
 
-16 instances of `obl:lmod` (55%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.13793103448276.
+16 instances of `obl:lmod` (53%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.13333333333333.
 
-The following 5 pairs of parts of speech are connected with `obl:lmod`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (21; 72% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (3; 10% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (3; 10% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (1; 3% instances).
+The following 5 pairs of parts of speech are connected with `obl:lmod`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (21; 70% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (3; 10% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (3; 10% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -50,7 +50,7 @@ The following 5 pairs of parts of speech are connected with `obl:lmod`: <tt><a h
 7	эз	оз	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	8	aux:neg	_	GTtags=Neg,Ind,Prt1,Sg3
 8	тӧд	тӧдны	VERB	_	Connegative=Yes	4	ccomp	_	SpaceAfter=No
 9	,	,	PUNCT	CLB	_	12	punct	_	_
-10	мый	мый	PRON	_	Animacy=NHum|Case=Nom|PronType=Rel	12	obl:lmod	_	GTtags=Sem/NonHum,Nom,Rel
+10	мый	мый	PRON	_	Animacy=Nhum|Case=Nom|PronType=Rel	12	obl:lmod	_	GTtags=Sem/NonHum,Nom,Rel
 11	бердӧ	бердӧ	ADP	_	AdpType=Post|AdvType=Loc|Case=Ill|Number=Sing	10	case	_	GTtags=Po,Spat,Sg,Ill
 12	кутчыны	кутчыны	VERB	_	VerbForm=Inf	8	ccomp	_	SpaceAfter=No
 13	,	,	PUNCT	CLB	_	15	punct	_	_

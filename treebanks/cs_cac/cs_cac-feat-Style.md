@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Style` co-occurred
 
 111 <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `PRON` and `Style` co-occurred: <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (111; 100%), <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (111; 100%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (111; 100%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt> (104; 94%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt> (104; 94%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (104; 94%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (104; 94%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (104; 94%).
+The most frequent other feature values with which `PRON` and `Style` co-occurred: <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (111; 100%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (111; 100%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt> (104; 94%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt> (104; 94%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (104; 94%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=3</tt> (104; 94%), <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (104; 94%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (104; 94%).
 
 `PRON` tokens may have the following values of `Style`:
 

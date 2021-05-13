@@ -17,29 +17,29 @@ The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 17 16 ccomp	color:blue
-1	u	u	CCONJ	CNJ	_	3	cc	3:cc	u₃
-2	lū	lū	PART	MOD	_	3	cc	3:cc	lu-u₂
-3	ṭupšarru	ṭupšarru	NOUN	N	Gender=Masc|Nounbase=Free|Number=Sing	17	obj	17:obj	_
-4	lū	lū	PART	MOD	_	5	cc	5:cc	_
-5	bārû	bārû	NOUN	N	Gender=Masc|Nounbase=Free|Number=Sing	3	conj	3:conj	_
-6	lū	lū	PART	MOD	_	7	cc	7:cc	_
-7	mamma	mammāna	PRON	XP	_	3	conj	3:conj	ma-am-ma
-8	šanû	šanû	ADJ	AJ	Case=Nom|Gender=Masc|Number=Sing	7	amod	7:amod	ša₂-nu-u₂
-9	ṣalmu	ṣalmu	NOUN	N	Case=Nom|Gender=Masc|Nounbase=Free|Number=Sing	11	obj	11:obj	_
-10	šuātu	šuāti	DET	IP	Gender=Masc|Number=Sing|Person=3	9	amod	9:amod	šu-a-tu₂
-11	hulliq	halāqu	VERB	V	Gender=Masc|Mood=Imp|Number=Sing|Person=2|VerbForm=Finite|Verbstem=D	0	root	0:root	hul-li-iq
-12	ša	ša	ADP	DET	_	13	case	13:case	ša₂
-13	pî	pû	NOUN	N	Case=Gen|Gender=Masc|Nounbase=Suffixal|Number=Sing	16	obl	16:obl	pi-i-šu₂
-14	šu	_	PRON	_	Gender=Masc|Number=Sing|Person=3	13	det:poss	13:det:poss	_
-15	lā	lā	PART	MOD	_	16	advmod	16:advmod	la
-16	epāše	epēšu	VERB	V	Case=Gen|Gender=Masc|Nounbase=Free|Number=Sing|VerbForm=Inf|Verbstem=G	17	ccomp	17:ccomp	_
-17	iqabbâš	_	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Ventive=Yes|VerbForm=Finite|Verbstem=G	11	parataxis	11:parataxis	_
-18	šu	_	PRON	_	Gender=Masc|Number=Sing|Person=3	17	obj	17:obj	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 11 ccomp	color:blue
+1	ša	ša	SCONJ	REL	_	11	mark	11:mark	ša
+2	ina	ina	ADP	PRP	_	3	case	3:case	ina
+3	šarrāni	šarru	NOUN	N	Gender=Masc|Number=Plur	11	obl	11:obl	MAN.MEŠ-ni
+4	abbī	abu	NOUN	N	Gender=Masc|NounBase=Suffixal|Number=Plur	3	appos	3:appos	AD.MEŠ-a
+5	ya	_	PRON	_	Number=Sing|Person=1	4	det:poss	4:det:poss	_
+6	mamma	mammāna	PRON	XP	_	11	nsubj	11:nsubj	ma-am-ma
+7	ina	ina	ADP	PRP	_	8	case	8:case	ina
+8	qereb	qerbu	NOUN	N	Case=Gen|Gender=Masc|NounBase=Suffixal|Number=Sing	11	obl	11:obl	qe₂-reb-šu₂-nu
+9	šunu	_	PRON	_	Gender=Masc|Number=Plur|Person=3	8	det:poss	8:det:poss	_
+10	lā	lā	PART	MOD	_	11	advmod	11:advmod	la
+11	iṭhû	ṭehû	VERB	V	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|VerbStem=G	18	ccomp	18:ccomp	_
+12	qurādī	qurādu	NOUN	N	Gender=Masc|NounBase=Suffixal|Number=Plur	18	nsubj	18:nsubj	qu-ra-di-ia
+13	ya	_	PRON	_	Number=Sing|Person=1	12	det:poss	12:det:poss	_
+14	kīma	kīma	ADP	PRP	_	15	case	15:case	GIM
+15	iṣṣūrī	iṣṣūru	NOUN	N	Gender=Masc|Number=Plur	18	obl	18:obl	_
+16	eli	eli	ADP	PRP	_	17	dep	17:dep	UGU-šu₂-nu
+17	šunu	_	PRON	_	Gender=Masc|Number=Plur|Person=3	18	obl	18:obl	_
+18	išēʾʾû	_	VERB	_	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|VerbStem=G	0	root	0:root	_
 
 ~~~
 
@@ -51,13 +51,13 @@ The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 8	fgColor:white
 # visual-style 8 6 ccomp	color:blue
 1	ša	ša	PRON	DET	_	4	nsubj	4:nsubj	ša₂
-2	narû	_	NOUN	_	Gender=Masc|Nounbase=Suffixal|Number=Sing	4	obj	4:obj	_
+2	narû	_	NOUN	_	Gender=Masc|NounBase=Suffixal|Number=Sing	4	obj	4:obj	_
 3	wa	_	PRON	_	Number=Sing|Person=1	2	det	2:det	_
-4	emmaru	_	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Subordinative=Yes|Tense=Pres|VerbForm=Finite|Verbstem=G	0	root	0:root	_
+4	emmaru	_	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Subordinative=Yes|Tense=Pres|VerbForm=Fin|VerbStem=G	0	root	0:root	_
 5	ma	_	CCONJ	_	_	8	cc	8:cc	_
-6	annâ	annû	DET	N	Case=Acc|Gender=Masc|Nounbase=Free|Number=Sing	8	ccomp	8:ccomp	an-na-a
+6	annâ	annû	DET	N	Case=Acc|Gender=Masc|NounBase=Free|Number=Sing	8	ccomp	8:ccomp	an-na-a
 7	mīna	mīnu	PRON	QP	Case=Acc	8	obj	8:obj	mi-na
-8	iqabbû	qabû	VERB	V	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Subordinative=Yes|Tense=Pres|VerbForm=Finite|Verbstem=G	4	conj	4:conj	i-qa-bu-u₂
+8	iqabbû	qabû	VERB	V	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Subordinative=Yes|Tense=Pres|VerbForm=Fin|VerbStem=G	4	conj	4:conj	i-qa-bu-u₂
 
 ~~~
 

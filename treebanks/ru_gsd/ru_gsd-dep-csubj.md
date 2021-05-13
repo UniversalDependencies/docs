@@ -24,7 +24,7 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 3 4 csubj	color:blue
 1	Эти	этот	DET	DT	Animacy=Inan|Case=Acc|Number=Plur	2	det	_	_
 2	явления	явление	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	4	obj	_	_
-3	можно	можно	VERB	PRED	Degree=Pos	0	root	_	_
+3	можно	можно	VERB	PRED	_	0	root	_	_
 4	наблюдать	наблюдать	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	3	csubj	_	_
 5	с	с	ADP	IN	_	8	case	_	_
 6	помощью	помощь	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	5	fixed	_	_

@@ -30,7 +30,7 @@ The following 15 pairs of parts of speech are connected with `compound`: <tt><a 
 5	Бас	бас	NOUN	n	Case=Nom	6	compound	_	_
 6	прокурордың	прокурор	NOUN	n	Case=Gen	3	conj	_	_
 7	жұмысын	жұмыс	NOUN	n	Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3	8	obj	_	_
-8	қолдаймын	қолда	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No
+8	қолдаймын	қолда	VERB	v	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	sent	_	8	punct	_	_
 
 ~~~

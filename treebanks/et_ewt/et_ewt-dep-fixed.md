@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-69 nodes (0%) are attached to their parents as `fixed`.
+85 nodes (0%) are attached to their parents as `fixed`.
 
-69 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.07246376811594.
+85 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.05882352941176.
 
-The following 8 pairs of parts of speech are connected with `fixed`: <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (42; 61% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (12; 17% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (10; 14% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (53; 62% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (13; 15% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (12; 14% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -40,25 +40,24 @@ The following 8 pairs of parts of speech are connected with `fixed`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 13 fixed	color:blue
-1	See	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	4	nsubj:cop	4:nsubj	_
-2	võis	võima	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	4:aux	_
-3	olla	olema	AUX	V	VerbForm=Inf	4	cop	4:cop	_
-4	hoiatus	hoiatus	NOUN	S	Case=Nom|Number=Sing	0	root	0:root	SpaceAfter=No
-5	,	,	PUNCT	Z	_	11	punct	11:punct	_
-6	võis	võima	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	aux	11:aux	_
-7	olla	olema	AUX	V	VerbForm=Inf	11	cop	11:cop	_
-8	ka	ka	ADV	D	_	11	advmod	11:advmod	_
-9	täiesti	täiesti	ADV	D	_	10	advmod	10:advmod	_
-10	jama	jama	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	11	amod	11:amod	_
-11	jutt	jutt	NOUN	S	Case=Nom|Number=Sing	4	conj	4:conj	_
-12	mis	mis	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	11	conj	11:conj	_
-13	iganes	iganes	ADV	D	_	12	fixed	12:fixed	SpaceAfter=No
-14	.	.	PUNCT	Z	_	4	punct	4:punct	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 11 fixed	color:blue
+1	Newtoni	Newton	PROPN	S	Case=Gen|Number=Sing	7	obl	7:obl	_
+2	järgi	järgi	ADP	K	AdpType=Post	1	case	1:case	_
+3	jah	jah	ADV	D	_	7	advmod	7:advmod	_
+4	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	7:cop	_
+5	meeter	meeter	NOUN	S	Case=Nom|Number=Sing	7	nsubj:cop	7:nsubj	_
+6	igalpool	igal_pool	ADV	D	_	7	advmod	7:advmod	_
+7	meeter	meeter	NOUN	S	Case=Nom|Number=Sing	0	root	0:root	_
+8	ja	ja	CCONJ	J	_	12	cc	12:cc	_
+9	minut	minut	NOUN	S	Case=Nom|Number=Sing	12	nsubj:cop	12:nsubj	_
+10	igal	iga	PRON	P	Case=Ade|Number=Sing|PronType=Tot	12	obl	12:obl	_
+11	pool	pool	ADV	D	_	10	fixed	10:fixed	_
+12	minut	minut	NOUN	S	Case=Par|Number=Sing	7	conj	7:conj	SpaceAfter=No
+13	.	.	PUNCT	Z	_	7	punct	7:punct	_
 
 ~~~
 

@@ -18,12 +18,12 @@ The feature is used with 4 part-of-speech tags: <tt><a href="th_pud-pos-PART.htm
 
 8 <tt><a href="th_pud-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PART` and `PronType` co-occurred: <tt><a href="th_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="th_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8; 100%).
+The most frequent other feature values with which `PART` and `PronType` co-occurred: <tt><a href="th_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8; 100%).
 
 `PART` tokens may have the following values of `PronType`:
 
 * `Int` (8; 100% of non-empty `PronType`): หรือเปล่า, หรือไม่, เหรอ, หรือ, ไหม
-* `EMPTY` (1001): ได้, ไม่, ไป, มา, ขึ้น, อยู่, แล้ว, ออก, ยัง, ลง
+* `EMPTY` (600): ไม่, ไป, มา, ขึ้น, ออก, ลง, เข้า, หรือไม่, หรอก, ความไม่
 
 ### `PRON`
 

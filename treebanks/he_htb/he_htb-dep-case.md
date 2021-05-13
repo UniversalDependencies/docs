@@ -23,21 +23,21 @@ The following 42 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 6 case	color:blue
-1	ה	ה	DET	DET	PronType=Art	2	det:def	_	_
+1	ה	ה	DET	DET	Definite=Def|PronType=Art	2	det	_	_
 2	מוח	מוח	NOUN	NOUN	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	מתפלץ	התפלץ	VERB	VERB	Gender=Masc|HebBinyan=HITPAEL|Number=Sing|Person=1,2,3|VerbForm=Part	0	root	_	_
 4	לא	לא	ADV	ADV	Polarity=Neg	5	advmod	_	_
 5	רק	רק	ADV	ADV	_	6	advmod	_	_
 6	מ	מ	ADP	ADP	_	8	case	_	_
-7	ה	ה	DET	DET	PronType=Art	8	det:def	_	_
+7	ה	ה	DET	DET	Definite=Def|PronType=Art	8	det	_	_
 8	תופעה	תופעה	NOUN	NOUN	Gender=Fem|Number=Sing	3	obl	_	_
-9	ה	ה	DET	DET	PronType=Art	10	det:def	_	_
+9	ה	ה	DET	DET	Definite=Def|PronType=Art	10	det	_	_
 10	מבישה	מביש	ADJ	ADJ	Gender=Fem|Number=Sing	8	amod	_	_
 11	אלא	אלא	CCONJ	CCONJ	_	14	cc	_	_
 12	גם	גם	ADV	ADV	_	13	advmod	_	_
 13	מ	מ	ADP	ADP	_	14	case	_	_
 14	דרכי	דרך	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Plur	8	conj	_	_
-15	ה	ה	DET	DET	PronType=Art	16	det:def	_	_
+15	ה	ה	DET	DET	Definite=Def|PronType=Art	16	det	_	_
 16	הערמה	הערמה	NOUN	NOUN	Gender=Fem|Number=Sing	14	compound:smixut	_	_
 17	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
@@ -74,12 +74,12 @@ The following 42 pairs of parts of speech are connected with `case`: <tt><a href
 1	"	"	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	3	punct	_	_
 3	אמרה	אמר	VERB	VERB	Gender=Fem|HebBinyan=PAAL|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-4	ה	ה	DET	DET	PronType=Art	5	det:def	_	_
+4	ה	ה	DET	DET	Definite=Def|PronType=Art	5	det	_	_
 5	כותרת	כותרת	NOUN	NOUN	Gender=Fem|Number=Sing	3	nsubj	_	_
 6	ב	ב	ADP	ADP	_	7	case	_	_
 7	אנגלית	אנגלית	PROPN	PROPN	_	3	obl	_	_
 8	,	,	PUNCT	PUNCT	_	3	punct	_	_
-9	"	"	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No
+9	"	"	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No
 10	שלום	שלום	NOUN	NOUN	Gender=Masc|Number=Sing	3	obj	_	_
 11	עכשיו	עכשיו	ADV	ADV	_	10	advmod	_	SpaceAfter=No
 12	"	"	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No

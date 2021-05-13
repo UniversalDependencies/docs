@@ -55,14 +55,14 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="af_afribooms-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1579; 62%),
-<tt>NOUN --[<tt><a href="af_afribooms-dep-conj.html">conj</a></tt>]--> NOUN</tt> (929; 78%),
+<tt>NOUN --[<tt><a href="af_afribooms-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1584; 62%),
+<tt>NOUN --[<tt><a href="af_afribooms-dep-conj.html">conj</a></tt>]--> NOUN</tt> (935; 78%),
 <tt>PROPN --[<tt><a href="af_afribooms-dep-flat.html">flat</a></tt>]--> PROPN</tt> (229; 100%),
-<tt>NOUN --[<tt><a href="af_afribooms-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (99; 80%),
+<tt>NOUN --[<tt><a href="af_afribooms-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (93; 80%),
 <tt>NOUN --[<tt><a href="af_afribooms-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (86; 65%),
-<tt>NOUN --[<tt><a href="af_afribooms-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (55; 69%),
-<tt>NOUN --[<tt><a href="af_afribooms-dep-obl.html">obl</a></tt>]--> NOUN</tt> (34; 63%),
+<tt>NOUN --[<tt><a href="af_afribooms-dep-dep.html">dep</a></tt>]--> NOUN</tt> (66; 65%),
+<tt>NOUN --[<tt><a href="af_afribooms-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (55; 70%),
+<tt>NOUN --[<tt><a href="af_afribooms-dep-obl.html">obl</a></tt>]--> NOUN</tt> (46; 66%),
 <tt>NOUN --[<tt><a href="af_afribooms-dep-amod.html">amod</a></tt>]--> PROPN</tt> (32; 91%),
-<tt>NOUN --[<tt><a href="af_afribooms-dep-dep.html">dep</a></tt>]--> NOUN</tt> (21; 70%),
-<tt>NOUN --[<tt><a href="af_afribooms-dep-dep.html">dep</a></tt>]--> PROPN</tt> (21; 95%).
+<tt>NOUN --[<tt><a href="af_afribooms-dep-dep.html">dep</a></tt>]--> PROPN</tt> (22; 92%).
 

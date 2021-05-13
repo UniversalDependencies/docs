@@ -77,15 +77,15 @@ Parents of `AUX` nodes belong to 7 different parts of speech: <tt><a href="hu_sz
 
 196 (95%) `AUX` nodes are leaves.
 
-2 (1%) `AUX` nodes have one child.
+1 (0%) `AUX` nodes have one child.
 
-1 (0%) `AUX` nodes have two children.
+2 (1%) `AUX` nodes have two children.
 
 7 (3%) `AUX` nodes have three or more children.
 
 The highest child degree of a `AUX` node is 6.
 
-Children of `AUX` nodes are attached using 9 different relations: <tt><a href="hu_szeged-dep-xcomp.html">xcomp</a></tt> (8; 22% instances), <tt><a href="hu_szeged-dep-punct.html">punct</a></tt> (6; 17% instances), <tt><a href="hu_szeged-dep-nsubj.html">nsubj</a></tt> (5; 14% instances), <tt><a href="hu_szeged-dep-advcl.html">advcl</a></tt> (4; 11% instances), <tt><a href="hu_szeged-dep-mark.html">mark</a></tt> (4; 11% instances), <tt><a href="hu_szeged-dep-advmod.html">advmod</a></tt> (3; 8% instances), <tt><a href="hu_szeged-dep-advmod-mode.html">advmod:mode</a></tt> (2; 6% instances), <tt><a href="hu_szeged-dep-cc.html">cc</a></tt> (2; 6% instances), <tt><a href="hu_szeged-dep-obj.html">obj</a></tt> (2; 6% instances)
+Children of `AUX` nodes are attached using 9 different relations: <tt><a href="hu_szeged-dep-punct.html">punct</a></tt> (8; 21% instances), <tt><a href="hu_szeged-dep-xcomp.html">xcomp</a></tt> (8; 21% instances), <tt><a href="hu_szeged-dep-nsubj.html">nsubj</a></tt> (5; 13% instances), <tt><a href="hu_szeged-dep-advcl.html">advcl</a></tt> (4; 11% instances), <tt><a href="hu_szeged-dep-mark.html">mark</a></tt> (4; 11% instances), <tt><a href="hu_szeged-dep-advmod.html">advmod</a></tt> (3; 8% instances), <tt><a href="hu_szeged-dep-advmod-mode.html">advmod:mode</a></tt> (2; 5% instances), <tt><a href="hu_szeged-dep-cc.html">cc</a></tt> (2; 5% instances), <tt><a href="hu_szeged-dep-obj.html">obj</a></tt> (2; 5% instances)
 
-Children of `AUX` nodes belong to 8 different parts of speech: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (12; 33% instances), <tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (6; 17% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (5; 14% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (4; 11% instances), <tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> (4; 11% instances), <tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> (2; 6% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (2; 6% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1; 3% instances)
+Children of `AUX` nodes belong to 8 different parts of speech: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (12; 32% instances), <tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (8; 21% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (5; 13% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (4; 11% instances), <tt><a href="hu_szeged-pos-SCONJ.html">SCONJ</a></tt> (4; 11% instances), <tt><a href="hu_szeged-pos-CCONJ.html">CCONJ</a></tt> (2; 5% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (2; 5% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1; 3% instances)
 

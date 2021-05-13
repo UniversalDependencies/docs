@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Richárd Farkas, Katalin Simkó, Zsolt Szántó, Viktor Varga, Veronika Vincze.
 
 Repository: [UD_Hungarian-Szeged](https://github.com/UniversalDependencies/UD_Hungarian-Szeged)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhu_szeged27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhu_szeged28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -68,7 +68,7 @@ In version 1.3, 500 sentences from the HVG subcorpus of the Szeged Treebank were
 
 ## Relations
 
-[acl](hu_szeged-dep-acl.html) – [advcl](hu_szeged-dep-advcl.html) – [advmod](hu_szeged-dep-advmod.html) – [advmod:locy](hu_szeged-dep-advmod-locy.html) – [advmod:mode](hu_szeged-dep-advmod-mode.html) – [advmod:obl](hu_szeged-dep-advmod-obl.html) – [advmod:que](hu_szeged-dep-advmod-que.html) – [advmod:tfrom](hu_szeged-dep-advmod-tfrom.html) – [advmod:tlocy](hu_szeged-dep-advmod-tlocy.html) – [advmod:to](hu_szeged-dep-advmod-to.html) – [advmod:tto](hu_szeged-dep-advmod-tto.html) – [amod:att](hu_szeged-dep-amod-att.html) – [amod:attlvc](hu_szeged-dep-amod-attlvc.html) – [amod:mode](hu_szeged-dep-amod-mode.html) – [amod:obl](hu_szeged-dep-amod-obl.html) – [appos](hu_szeged-dep-appos.html) – [aux](hu_szeged-dep-aux.html) – [case](hu_szeged-dep-case.html) – [cc](hu_szeged-dep-cc.html) – [ccomp](hu_szeged-dep-ccomp.html) – [ccomp:obj](hu_szeged-dep-ccomp-obj.html) – [ccomp:obl](hu_szeged-dep-ccomp-obl.html) – [ccomp:pred](hu_szeged-dep-ccomp-pred.html) – [compound](hu_szeged-dep-compound.html) – [compound:preverb](hu_szeged-dep-compound-preverb.html) – [conj](hu_szeged-dep-conj.html) – [cop](hu_szeged-dep-cop.html) – [csubj](hu_szeged-dep-csubj.html) – [dep](hu_szeged-dep-dep.html) – [det](hu_szeged-dep-det.html) – [discourse](hu_szeged-dep-discourse.html) – [dislocated](hu_szeged-dep-dislocated.html) – [flat:name](hu_szeged-dep-flat-name.html) – [goeswith](hu_szeged-dep-goeswith.html) – [iobj](hu_szeged-dep-iobj.html) – [list](hu_szeged-dep-list.html) – [mark](hu_szeged-dep-mark.html) – [nmod](hu_szeged-dep-nmod.html) – [nmod:att](hu_szeged-dep-nmod-att.html) – [nmod:attlvc](hu_szeged-dep-nmod-attlvc.html) – [nmod:obl](hu_szeged-dep-nmod-obl.html) – [nmod:obllvc](hu_szeged-dep-nmod-obllvc.html) – [nsubj](hu_szeged-dep-nsubj.html) – [nsubj:lvc](hu_szeged-dep-nsubj-lvc.html) – [nummod](hu_szeged-dep-nummod.html) – [obj](hu_szeged-dep-obj.html) – [obj:lvc](hu_szeged-dep-obj-lvc.html) – [obl](hu_szeged-dep-obl.html) – [orphan](hu_szeged-dep-orphan.html) – [parataxis](hu_szeged-dep-parataxis.html) – [punct](hu_szeged-dep-punct.html) – [root](hu_szeged-dep-root.html) – [vocative](hu_szeged-dep-vocative.html) – [xcomp](hu_szeged-dep-xcomp.html)
+[acl](hu_szeged-dep-acl.html) – [advcl](hu_szeged-dep-advcl.html) – [advmod](hu_szeged-dep-advmod.html) – [advmod:locy](hu_szeged-dep-advmod-locy.html) – [advmod:mode](hu_szeged-dep-advmod-mode.html) – [advmod:que](hu_szeged-dep-advmod-que.html) – [advmod:tfrom](hu_szeged-dep-advmod-tfrom.html) – [advmod:tlocy](hu_szeged-dep-advmod-tlocy.html) – [advmod:to](hu_szeged-dep-advmod-to.html) – [advmod:tto](hu_szeged-dep-advmod-tto.html) – [amod:att](hu_szeged-dep-amod-att.html) – [amod:attlvc](hu_szeged-dep-amod-attlvc.html) – [appos](hu_szeged-dep-appos.html) – [aux](hu_szeged-dep-aux.html) – [case](hu_szeged-dep-case.html) – [cc](hu_szeged-dep-cc.html) – [ccomp](hu_szeged-dep-ccomp.html) – [ccomp:obj](hu_szeged-dep-ccomp-obj.html) – [ccomp:obl](hu_szeged-dep-ccomp-obl.html) – [ccomp:pred](hu_szeged-dep-ccomp-pred.html) – [compound](hu_szeged-dep-compound.html) – [compound:preverb](hu_szeged-dep-compound-preverb.html) – [conj](hu_szeged-dep-conj.html) – [cop](hu_szeged-dep-cop.html) – [csubj](hu_szeged-dep-csubj.html) – [dep](hu_szeged-dep-dep.html) – [det](hu_szeged-dep-det.html) – [discourse](hu_szeged-dep-discourse.html) – [dislocated](hu_szeged-dep-dislocated.html) – [flat:name](hu_szeged-dep-flat-name.html) – [goeswith](hu_szeged-dep-goeswith.html) – [iobj](hu_szeged-dep-iobj.html) – [list](hu_szeged-dep-list.html) – [mark](hu_szeged-dep-mark.html) – [nmod](hu_szeged-dep-nmod.html) – [nmod:att](hu_szeged-dep-nmod-att.html) – [nmod:attlvc](hu_szeged-dep-nmod-attlvc.html) – [nmod:obl](hu_szeged-dep-nmod-obl.html) – [nsubj](hu_szeged-dep-nsubj.html) – [nsubj:lvc](hu_szeged-dep-nsubj-lvc.html) – [nummod](hu_szeged-dep-nummod.html) – [obj](hu_szeged-dep-obj.html) – [obj:lvc](hu_szeged-dep-obj-lvc.html) – [obl](hu_szeged-dep-obl.html) – [obl:lvc](hu_szeged-dep-obl-lvc.html) – [orphan](hu_szeged-dep-orphan.html) – [parataxis](hu_szeged-dep-parataxis.html) – [punct](hu_szeged-dep-punct.html) – [root](hu_szeged-dep-root.html) – [vocative](hu_szeged-dep-vocative.html) – [xcomp](hu_szeged-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -192,7 +192,7 @@ In version 1.3, 500 sentences from the HVG subcorpus of the Szeged Treebank were
   <li>Plur
     <ul>
       <li>ADJ: hajlandóak, dolgozók, ellenzékiek, foglalkoztatottak, jók, kénytelenek, nagyok, várhatók, alacsonyak, alkalmasak</li>
-      <li>ADJ-PartPast: foglalkoztatottak, elhangzottak, elmondottakra, elzártaknak, feljelentettjeit, g​y​ó​g​y​s​z​e​r​m​é​r​g​e​z​e​t​t​e​k​e​t, leromlottakat, meghaltak, túlzottaknak, érdekeltek</li>
+      <li>ADJ-PartPast: foglalkoztatottak, elhangzottak, elmondottakra, elzártaknak, feljelentettjeit, gyógyszermérgezetteket, leromlottakat, meghaltak, túlzottaknak, érdekeltek</li>
       <li>ADJ-PartPres: dolgozók, várhatók, beruházók, előzőekkel, kitartóknak, láthatók, megtekinthetők, megvásárolhatók, működők, részesülőkre</li>
       <li>AUX: voltak, fognak, fogják, legyenek, lesznek, vannak, lennének, leszünk, maradnak, voltunk</li>
       <li>AUX-Fin: voltak, legyenek, lesznek, vannak, fogják, lennének, leszünk, maradnak, voltunk</li>
@@ -259,8 +259,8 @@ In version 1.3, 500 sentences from the HVG subcorpus of the Szeged Treebank were
 <ul>
   <li>Acc
     <ul>
-      <li>ADJ: feljelentettjeit, g​y​ó​g​y​s​z​e​r​m​é​r​g​e​z​e​t​t​e​k​e​t, jobbat, jót, kicsit, kiválót, korszakosat, kultikust, közöttieket, lepattanót</li>
-      <li>ADJ-PartPast: feljelentettjeit, g​y​ó​g​y​s​z​e​r​m​é​r​g​e​z​e​t​t​e​k​e​t, leromlottakat</li>
+      <li>ADJ: feljelentettjeit, gyógyszermérgezetteket, jobbat, jót, kicsit, kiválót, korszakosat, kultikust, közöttieket, lepattanót</li>
+      <li>ADJ-PartPast: feljelentettjeit, gyógyszermérgezetteket, leromlottakat</li>
       <li>ADJ-PartPres: lepattanót</li>
       <li>DET: ezt, azt, azokat, sokat, többet, ezeket, keveset, legtöbbet, sokakat</li>
       <li>NOUN: százalékát, részt, törvényt, forintot, részét, szerepet, javaslatot, kérdést, munkát, pontot</li>
@@ -289,7 +289,7 @@ In version 1.3, 500 sentences from the HVG subcorpus of the Szeged Treebank were
     <ul>
       <li>ADJ: düsseldorfihoz, 1997-eshez, megyeihez, tavalyihoz, utcaihoz, évihez</li>
       <li>DET: ehhez</li>
-      <li>NOUN: ellátáshoz, elnyeréséhez, fűtőolajhoz, inflációhoz, maradáshoz, végéhez, Alkotmánybírósághoz, D​o​s​z​t​o​j​e​v​s​z​k​i​j​-​r​e​n​d​e​z​é​s​é​h​e​z, EU-tagállamokhoz, Laptársunkhoz</li>
+      <li>NOUN: ellátáshoz, elnyeréséhez, fűtőolajhoz, inflációhoz, maradáshoz, végéhez, Alkotmánybírósághoz, Dosztojevszkij-rendezéséhez, EU-tagállamokhoz, Laptársunkhoz</li>
       <li>PRON: hozzá, ahhoz, amihez, ehhez, amelyhez, hozzájuk, magához, mindazokhoz</li>
       <li>PROPN: Brókerhez, Bírósághoz, Daewooéhoz, Kelebiától, Kolozsvárhoz, Kouchnerhez, Kínához, Lehmannhoz, McDonald'séhoz, NATO-hoz</li>
     </ul>
@@ -895,22 +895,6 @@ In version 1.3, 500 sentences from the HVG subcorpus of the Szeged Treebank were
 </ul>
 
 <ul>
-  <li>None
-    <ul>
-      <li>ADJ: magyar, első, új, című, orosz, nagy, olyan, egész, cseh, elmúlt</li>
-      <li>ADJ-PartFut: adandó, befejezendő, benyújtandó, elkövetkezendő, letöltendő, nyújtandó, operálandó, tartandó</li>
-      <li>ADJ-PartPast: elmúlt, készült, elkövetett, kiemelt, készített, megbízott, megjelent, tervezett, elakadt, elfogadott</li>
-      <li>ADJ-PartPres: jövő, következő, követően, való, várható, várhatóan, lehetővé, látható, szóló, vezető</li>
-      <li>DET: ez, ezt, azt, ezen, ebben, ilyen, e, arra, az, azokat</li>
-      <li>NOUN: év, szerdán, évben, kormány, ember, bizottság, elnök, idő, ráadásul, évek</li>
-      <li>NUM: két, egy, három, millió, ezer, tíz, fél, 30, négy, hat</li>
-      <li>PRON: azt, aki, az, ez, ami, ezt, ő, amely, annak, arra</li>
-      <li>PROPN: László, Ferenc, János, Magyar, RTL, és, Dubcek, Klub, Megyei, Csapó</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li>Plur
     <ul>
       <li>NOUN: lapunknak, lapunkat, napjainkban, válogatottunk, Termelésük, együttesünk, erejük, gyanújukat, helyzetüket, kérdésünkre</li>
@@ -940,19 +924,6 @@ In version 1.3, 500 sentences from the HVG subcorpus of the Szeged Treebank were
 <ul>
   <li><a>Number[psed]</a>
     <ul>
-      <li>None
-        <ul>
-          <li>ADJ: magyar, első, új, című, orosz, nagy, olyan, egész, cseh, elmúlt</li>
-          <li>ADJ-PartFut: adandó, befejezendő, benyújtandó, elkövetkezendő, letöltendő, nyújtandó, operálandó, tartandó</li>
-          <li>ADJ-PartPast: elmúlt, készült, elkövetett, kiemelt, készített, megbízott, megjelent, tervezett, elakadt, elfogadott</li>
-          <li>ADJ-PartPres: jövő, következő, követően, való, várható, várhatóan, lehetővé, látható, szóló, vezető</li>
-          <li>DET: ez, ezt, azt, ezen, ebben, ilyen, e, arra, az, azokat</li>
-          <li>NOUN: év, szerdán, évben, kormány, elnöke, ember, vezetője, bizottság, elnök, alapján</li>
-          <li>NUM: két, egy, három, millió, ezer, tíz, fél, 30, négy, hat</li>
-          <li>PRON: azt, aki, az, ez, ami, ezt, ő, amely, annak, arra</li>
-          <li>PROPN: László, Ferenc, János, Magyar, RTL, és, Dubcek, Klub, Megyei, Csapó</li>
-        </ul>
-      </li>
       <li>Sing
         <ul>
           <li>ADJ: svédé</li>
@@ -982,19 +953,6 @@ In version 1.3, 500 sentences from the HVG subcorpus of the Szeged Treebank were
           <li>NUM: harmada, kettejük, negyedében, negyedét, tizedére</li>
           <li>PRON: egyikének, egynémelyikében, némelyikén</li>
           <li>PROPN: Cigánybárójának, Cressidájának, Csirkefejének, Hercegével, Híradóját, Infernóját, Moraleseként, Moraleséről, Olümpuszát, Stúdiójának</li>
-        </ul>
-      </li>
-      <li>None
-        <ul>
-          <li>ADJ: magyar, első, új, című, orosz, nagy, olyan, egész, cseh, elmúlt</li>
-          <li>ADJ-PartFut: adandó, befejezendő, benyújtandó, elkövetkezendő, letöltendő, nyújtandó, operálandó, tartandó</li>
-          <li>ADJ-PartPast: elmúlt, készült, elkövetett, kiemelt, készített, megbízott, megjelent, tervezett, elakadt, elfogadott</li>
-          <li>ADJ-PartPres: jövő, következő, követően, való, várható, várhatóan, lehetővé, látható, szóló, vezető</li>
-          <li>DET: ez, ezt, azt, ezen, ebben, ilyen, e, arra, az, azokat</li>
-          <li>NOUN: év, szerdán, évben, kormány, ember, bizottság, elnök, idő, ráadásul, évek</li>
-          <li>NUM: két, egy, három, millió, ezer, tíz, fél, 30, négy, hat</li>
-          <li>PRON: azt, aki, az, ez, ami, ezt, ő, amely, annak, arra</li>
-          <li>PROPN: László, Ferenc, János, Magyar, RTL, és, Dubcek, Klub, Megyei, Csapó</li>
         </ul>
       </li>
     </ul>
@@ -1065,7 +1023,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 23 relation subtypes: <a>advmod:locy</a>, <a>advmod:mode</a>, <a>advmod:obl</a>, <a>advmod:que</a>, <a>advmod:tfrom</a>, <a>advmod:tlocy</a>, <a>advmod:to</a>, <a>advmod:tto</a>, <a>amod:att</a>, <a>amod:attlvc</a>, <a>amod:mode</a>, <a>amod:obl</a>, <a>ccomp:obj</a>, <a>ccomp:obl</a>, <a>ccomp:pred</a>, <a>compound:preverb</a>, <a>flat:name</a>, <a>nmod:att</a>, <a>nmod:attlvc</a>, <a>nmod:obl</a>, <a>nmod:obllvc</a>, <a>nsubj:lvc</a>, <a>obj:lvc</a></li>
+<li>This corpus uses 20 relation subtypes: <a>advmod:locy</a>, <a>advmod:mode</a>, <a>advmod:que</a>, <a>advmod:tfrom</a>, <a>advmod:tlocy</a>, <a>advmod:to</a>, <a>advmod:tto</a>, <a>amod:att</a>, <a>amod:attlvc</a>, <a>ccomp:obj</a>, <a>ccomp:obl</a>, <a>ccomp:pred</a>, <a>compound:preverb</a>, <a>flat:name</a>, <a>nmod:att</a>, <a>nmod:attlvc</a>, <a>nmod:obl</a>, <a>nsubj:lvc</a>, <a>obj:lvc</a>, <a>obl:lvc</a></li>
 <li>The following 2 main types are not used alone, they are always subtyped: <a>amod</a>, <a>flat</a></li>
 <li>The following 4 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>fixed</a>, <a>reparandum</a></li>
 </ul>

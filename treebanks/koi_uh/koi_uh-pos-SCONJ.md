@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Permyak-UH: POS Tags: `SCONJ`
 
 There are 5 `SCONJ` lemmas (1%), 5 `SCONJ` types (1%) and 8 `SCONJ` tokens (1%).
-Out of 15 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 13 in number of types and 12 in number of tokens.
+Out of 15 observed tags, the rank of `SCONJ` is: 12 in number of lemmas, 12 in number of types and 12 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>что, да, кӧр, кӧть, нежели</em>
 
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>да</em> (<tt><a href="koi_uh-pos-CC
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.206633).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.206107).
 
 The 1st highest number of forms (1) was observed with the lemma “да”: <em>да</em>.
 

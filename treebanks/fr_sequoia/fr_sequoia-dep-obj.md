@@ -12,7 +12,7 @@ There are 1 language-specific subtypes of `obj`: <tt><a href="fr_sequoia-dep-obj
 2227 nodes (3%) are attached to their parents as `obj`.
 
 1980 instances of `obj` (89%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.4279299506062.
+Average distance between parent and child is 2.42568477772789.
 
 The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1836; 82% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (283; 13% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (76; 3% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (19; 1% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (6; 0% instances).
 

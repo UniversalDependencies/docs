@@ -45,7 +45,7 @@ The following 8 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 7	fgColor:white
 # visual-style 7 1 csubj	color:blue
 1	Ambruk	ambruk	VERB	_	Mood=Ind|Voice=Act	7	csubj	_	_
-2	nya	nya	DET	_	_	1	det	_	_
+2	nya	nya	DET	_	PronType=Dem	1	det	_	_
 3	dan	dan	CCONJ	_	_	4	cc	_	_
 4	intervensi	intervensi	NOUN	_	Number=Sing	1	conj	_	_
 5	puluhan	puluh	NUM	_	NumType=Card	6	nummod	_	_
@@ -54,9 +54,9 @@ The following 8 pairs of parts of speech are connected with `csubj`: <tt><a href
 8	pelarian	lari	NOUN	_	Number=Sing	7	obj	_	_
 9	modal	modal	NOUN	_	Number=Sing	8	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	_
-11	membuat	buat	VERB	_	Mood=Ind|Voice=Act	7	conj	_	_
+11	membuat	buat	VERB	_	Mood=Ind|Voice=Act	7	advcl	_	_
 12	banyak	banyak	DET	_	Number=Plur|PronType=Ind	13	det	_	_
-13	usaha	usaha	NOUN	_	Number=Sing	11	obj	_	_
+13	usaha	usaha	NOUN	_	Number=Sing	14	nsubj	_	_
 14	menjadi	jadi	VERB	_	Mood=Ind|Voice=Act	11	ccomp	_	_
 15	bangkrut	bangkrut	VERB	_	Mood=Ind|Voice=Act	14	xcomp	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	7	punct	_	_

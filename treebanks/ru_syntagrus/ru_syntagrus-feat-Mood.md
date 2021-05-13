@@ -12,7 +12,7 @@ It occurs with 3 different values: `Cnd`, `Imp`, `Ind`.
 87093 tokens (8%) have a non-empty value of `Mood`.
 17850 types (15%) occur at least once with a non-empty value of `Mood`.
 6104 lemmas (14%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 4 part-of-speech tags: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (78293; 7% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (7373; 1% instances), <tt><a href="ru_syntagrus-pos-SCONJ.html">SCONJ</a></tt> (1411; 0% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (16; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (78293; 7% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (7389; 1% instances), <tt><a href="ru_syntagrus-pos-SCONJ.html">SCONJ</a></tt> (1411; 0% instances).
 
 ### `VERB`
 
@@ -42,14 +42,15 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-7373 <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> tokens (76% of all `AUX` tokens) have a non-empty value of `Mood`.
+7389 <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> tokens (76% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="ru_syntagrus-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (7373; 100%), <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7373; 100%), <tt><a href="ru_syntagrus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7373; 100%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5488; 74%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5291; 72%), <tt><a href="ru_syntagrus-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5291; 72%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="ru_syntagrus-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (7373; 100%), <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7373; 100%), <tt><a href="ru_syntagrus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7373; 100%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5488; 74%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5307; 72%), <tt><a href="ru_syntagrus-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5291; 72%).
 
 `AUX` tokens may have the following values of `Mood`:
 
+* `Cnd` (16; 0% of non-empty `Mood`): <em>бы</em>
 * `Imp` (27; 0% of non-empty `Mood`): <em>будь, будьте</em>
-* `Ind` (7346; 100% of non-empty `Mood`): <em>было, был, были, будет, была, будут, есть, будем, буду, будете</em>
+* `Ind` (7346; 99% of non-empty `Mood`): <em>было, был, были, будет, была, будут, есть, будем, буду, будете</em>
 * `EMPTY` (2296): <em>бы, быть, будучи, б, бывшие, бывший, бывшем</em>
 
 <table>
@@ -76,15 +77,6 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 * `Cnd` (1411; 100% of non-empty `Mood`): <em>чтобы, чтоб</em>
 * `EMPTY` (19114): <em>что, как, если, когда, то, чем, хотя, поскольку, пока, ведь</em>
-
-### `PART`
-
-16 <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Mood`.
-
-`PART` tokens may have the following values of `Mood`:
-
-* `Cnd` (16; 100% of non-empty `Mood`): <em>бы</em>
-* `EMPTY` (33835): <em>не, и, же, только, даже, вот, ли, лишь, именно, просто</em>
 
 ## Relations with Agreement in `Mood`
 

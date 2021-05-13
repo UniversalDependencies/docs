@@ -22,7 +22,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="zh_gsdsimp-pos-VERB
 
 * `Cau` (492; 54% of non-empty `Voice`): 以、 使、 让、 使得、 令、 导致、 要求、 派、 派遣、 任命
 * `Pass` (424; 46% of non-empty `Voice`): 被、 为
-* `EMPTY` (17559): 有、 在、 于、 为、 是、 由、 成、 到、 位、 开始
+* `EMPTY` (17578): 有、 在、 于、 为、 是、 由、 成、 到、 位、 开始
 
 `Voice` seems to be **lexical feature** of `VERB`. 100% lemmas (135) occur only with one value of `Voice`.
 
@@ -39,8 +39,10 @@ The feature is used with 3 part-of-speech tags: <tt><a href="zh_gsdsimp-pos-VERB
 
 1 <tt><a href="zh_gsdsimp-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Voice`.
 
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="zh_gsdsimp-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1; 100%).
+
 `AUX` tokens may have the following values of `Voice`:
 
 * `Pass` (1; 100% of non-empty `Voice`): 为
-* `EMPTY` (2685): 是、 为、 会、 可以、 可、 也是、 能、 要、 可能、 就是
+* `EMPTY` (3621): 是、 了、 为、 会、 可以、 着、 可、 也是、 能、 要
 

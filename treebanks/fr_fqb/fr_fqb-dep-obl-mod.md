@@ -12,7 +12,7 @@ There are also 2 other language-specific subtypes of `obl`: <tt><a href="fr_fqb-
 606 nodes (3%) are attached to their parents as `obl:mod`.
 
 426 instances of `obl:mod` (70%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.46699669966997.
+Average distance between parent and child is 5.33993399339934.
 
 The following 14 pairs of parts of speech are connected with `obl:mod`: <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (340; 56% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (101; 17% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> (47; 8% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (31; 5% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (30; 5% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (18; 3% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-X.html">X</a></tt> (4; 1% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-X.html">X</a></tt> (1; 0% instances).
 
@@ -59,24 +59,23 @@ The following 14 pairs of parts of speech are connected with `obl:mod`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 12 obl:mod	color:blue
-1	Combien	combien	ADV	_	PronType=Int	7	obj	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 11 obl:mod	color:blue
+1	Combien	combien	ADV	_	PronType=Int	6	obj	_	_
 2	de	de	ADP	_	_	3	case	_	_
 3	condoms	condom	NOUN	_	Gender=Masc|Number=Plur	1	obl:arg	_	_
-4	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:tense	_	SpaceAfter=No
-5	-t	t	PART	_	_	6	dep	_	SpaceAfter=No|wordform=t
-6	-on	il	PRON	_	Number=Sing|Person=3	7	nsubj	_	wordform=on
-7	vendu	vendre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-8	à	à	ADP	_	_	10	case	_	_
-9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-10	Japon	Japon	PROPN	_	Gender=Masc|Number=Sing	7	obl:mod	_	_
-11	en	en	ADP	_	_	12	case	_	_
-12	1991	1991	NUM	_	NumType=Card	7	obl:mod	_	_
-13	?	?	PUNCT	_	_	7	punct	_	_
+4	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:tense	_	SpaceAfter=No
+5	-t-on	il	PRON	_	Number=Sing|Person=3	6	nsubj	_	_
+6	vendu	vendre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	à	à	ADP	_	_	9	case	_	_
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	Japon	Japon	PROPN	_	Gender=Masc|Number=Sing	6	obl:mod	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	1991	1991	NUM	_	NumType=Card	6	obl:mod	_	_
+12	?	?	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

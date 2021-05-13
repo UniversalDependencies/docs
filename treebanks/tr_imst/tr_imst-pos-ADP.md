@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>ki</em> (<tt><a href="tr_imst-pos-ADP
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 2.097561 (the average of all parts of speech is 2.819906).
+The form / lemma ratio of `ADP` is 2.097561 (the average of all parts of speech is 2.821527).
 
 The 1st highest number of forms (16) was observed with the lemma “lik”: <em>'lik, 'luk, 'lük, lik, liği, liğin, liğinden, luk, lüğünün, lık, lıklar, lığı, lığıma, lığına, lığının, lığınız</em>.
 
@@ -77,17 +77,17 @@ Examples: <em>ki, için, gibi, diye, kadar, li, lı, olarak, sonra, önce</em>
 
 Parents of `ADP` nodes belong to 13 different parts of speech: <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> (1036; 51% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (422; 21% instances), <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> (227; 11% instances), <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> (137; 7% instances), <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> (74; 4% instances), <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (65; 3% instances), <tt><a href="tr_imst-pos-DET.html">DET</a></tt> (27; 1% instances), <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> (26; 1% instances),  (18; 1% instances), <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="tr_imst-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
-1987 (97%) `ADP` nodes are leaves.
+1960 (96%) `ADP` nodes are leaves.
 
-27 (1%) `ADP` nodes have one child.
+55 (3%) `ADP` nodes have one child.
 
-22 (1%) `ADP` nodes have two children.
+7 (0%) `ADP` nodes have two children.
 
-5 (0%) `ADP` nodes have three or more children.
+19 (1%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 5.
 
-Children of `ADP` nodes are attached using 18 different relations: <tt><a href="tr_imst-dep-punct.html">punct</a></tt> (18; 20% instances), <tt><a href="tr_imst-dep-cop.html">cop</a></tt> (17; 19% instances), <tt><a href="tr_imst-dep-conj.html">conj</a></tt> (8; 9% instances), <tt><a href="tr_imst-dep-det.html">det</a></tt> (8; 9% instances), <tt><a href="tr_imst-dep-nummod.html">nummod</a></tt> (8; 9% instances), <tt><a href="tr_imst-dep-nmod-poss.html">nmod:poss</a></tt> (5; 6% instances), <tt><a href="tr_imst-dep-advmod-emph.html">advmod:emph</a></tt> (4; 5% instances), <tt><a href="tr_imst-dep-compound-lvc.html">compound:lvc</a></tt> (3; 3% instances), <tt><a href="tr_imst-dep-nmod.html">nmod</a></tt> (3; 3% instances), <tt><a href="tr_imst-dep-obj.html">obj</a></tt> (3; 3% instances), <tt><a href="tr_imst-dep-obl.html">obl</a></tt> (3; 3% instances), <tt><a href="tr_imst-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="tr_imst-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="tr_imst-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="tr_imst-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="tr_imst-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="tr_imst-dep-compound.html">compound</a></tt> (1; 1% instances), <tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt> (1; 1% instances)
+Children of `ADP` nodes are attached using 18 different relations: <tt><a href="tr_imst-dep-punct.html">punct</a></tt> (46; 34% instances), <tt><a href="tr_imst-dep-cop.html">cop</a></tt> (17; 13% instances), <tt><a href="tr_imst-dep-conj.html">conj</a></tt> (8; 6% instances), <tt><a href="tr_imst-dep-det.html">det</a></tt> (8; 6% instances), <tt><a href="tr_imst-dep-nummod.html">nummod</a></tt> (8; 6% instances), <tt><a href="tr_imst-dep-obj.html">obj</a></tt> (8; 6% instances), <tt><a href="tr_imst-dep-nmod.html">nmod</a></tt> (6; 4% instances), <tt><a href="tr_imst-dep-advmod-emph.html">advmod:emph</a></tt> (5; 4% instances), <tt><a href="tr_imst-dep-nmod-poss.html">nmod:poss</a></tt> (5; 4% instances), <tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt> (5; 4% instances), <tt><a href="tr_imst-dep-obl.html">obl</a></tt> (4; 3% instances), <tt><a href="tr_imst-dep-acl.html">acl</a></tt> (3; 2% instances), <tt><a href="tr_imst-dep-amod.html">amod</a></tt> (3; 2% instances), <tt><a href="tr_imst-dep-cc.html">cc</a></tt> (3; 2% instances), <tt><a href="tr_imst-dep-compound-lvc.html">compound:lvc</a></tt> (3; 2% instances), <tt><a href="tr_imst-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="tr_imst-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="tr_imst-dep-compound.html">compound</a></tt> (1; 1% instances)
 
-Children of `ADP` nodes belong to 12 different parts of speech: <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> (17; 19% instances), <tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (17; 19% instances), <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> (11; 13% instances), <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (11; 13% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (10; 11% instances), <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> (7; 8% instances), <tt><a href="tr_imst-pos-DET.html">DET</a></tt> (5; 6% instances), <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> (4; 5% instances), <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Children of `ADP` nodes belong to 12 different parts of speech: <tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (46; 34% instances), <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> (17; 13% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (17; 13% instances), <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> (16; 12% instances), <tt><a href="tr_imst-pos-DET.html">DET</a></tt> (9; 7% instances), <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (8; 6% instances), <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> (7; 5% instances), <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> (7; 5% instances), <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 

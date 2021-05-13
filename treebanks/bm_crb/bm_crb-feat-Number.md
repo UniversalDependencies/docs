@@ -35,7 +35,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (71; 100% of non-empty `Number`): <em>kòròkèw, denw, misiw, sagaw, dunanw, gòòtèw, julaw, nyèdenw, sosow, surukuw</em>
-* `EMPTY` (2074): <em>ba, den, tuma, so, dennin, dugu, muso, tògò, fa, yòrò</em>
+* `EMPTY` (2070): <em>ba, den, tuma, so, dennin, dugu, muso, tògò, fa, yòrò</em>
 
 `Number` seems to be **lexical feature** of `NOUN`. 100% lemmas (38) occur only with one value of `Number`.
 

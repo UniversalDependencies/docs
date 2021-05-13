@@ -32,7 +32,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (610; 100% of non-empty `Polarity`): <em>mitte, ega, ei</em>
-* `EMPTY` (41433): <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, kus</em>
+* `EMPTY` (41434): <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, kus</em>
 
 ### `CCONJ`
 

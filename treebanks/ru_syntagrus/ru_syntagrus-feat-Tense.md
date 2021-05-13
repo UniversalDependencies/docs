@@ -57,7 +57,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-7397 <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> tokens (77% of all `AUX` tokens) have a non-empty value of `Tense`.
+7397 <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> tokens (76% of all `AUX` tokens) have a non-empty value of `Tense`.
 
 The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="ru_syntagrus-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (7397; 100%), <tt><a href="ru_syntagrus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7397; 100%), <tt><a href="ru_syntagrus-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7346; 99%), <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7346; 99%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5467; 74%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5342; 72%).
 
@@ -65,7 +65,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 * `Past` (5296; 72% of non-empty `Tense`): <em>было, был, были, была, бывшие, бывший, бывшем</em>
 * `Pres` (2101; 28% of non-empty `Tense`): <em>будет, будут, есть, будем, буду, будучи, будете, будешь, суть</em>
-* `EMPTY` (2272): <em>бы, быть, будь, б, будьте</em>
+* `EMPTY` (2288): <em>бы, быть, будь, б, будьте</em>
 
 <table>
   <tr><th>Paradigm <i>быть</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>

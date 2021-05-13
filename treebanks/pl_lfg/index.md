@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Agnieszka Patejuk, Adam Przepiórkowski.
 
 Repository: [UD_Polish-LFG](https://github.com/UniversalDependencies/UD_Polish-LFG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl_lfg27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl_lfg28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: GNU GPL 3.0
 
@@ -93,7 +93,7 @@ url = {http://nlp.ipipan.waw.pl/Bib/pat:prz:18:book.pdf}}
 
 ## Relations
 
-[acl](pl_lfg-dep-acl.html) – [acl:relcl](pl_lfg-dep-acl-relcl.html) – [advcl](pl_lfg-dep-advcl.html) – [advmod](pl_lfg-dep-advmod.html) – [amod](pl_lfg-dep-amod.html) – [appos](pl_lfg-dep-appos.html) – [aux](pl_lfg-dep-aux.html) – [aux:aglt](pl_lfg-dep-aux-aglt.html) – [aux:mood](pl_lfg-dep-aux-mood.html) – [aux:pass](pl_lfg-dep-aux-pass.html) – [case](pl_lfg-dep-case.html) – [cc](pl_lfg-dep-cc.html) – [cc:preconj](pl_lfg-dep-cc-preconj.html) – [ccomp](pl_lfg-dep-ccomp.html) – [ccomp:obj](pl_lfg-dep-ccomp-obj.html) – [conj](pl_lfg-dep-conj.html) – [cop](pl_lfg-dep-cop.html) – [cop:locat](pl_lfg-dep-cop-locat.html) – [csubj](pl_lfg-dep-csubj.html) – [det](pl_lfg-dep-det.html) – [discourse](pl_lfg-dep-discourse.html) – [expl:impers](pl_lfg-dep-expl-impers.html) – [expl:pv](pl_lfg-dep-expl-pv.html) – [fixed](pl_lfg-dep-fixed.html) – [flat](pl_lfg-dep-flat.html) – [iobj](pl_lfg-dep-iobj.html) – [mark](pl_lfg-dep-mark.html) – [nmod](pl_lfg-dep-nmod.html) – [nmod:poss](pl_lfg-dep-nmod-poss.html) – [nsubj](pl_lfg-dep-nsubj.html) – [nsubj:pass](pl_lfg-dep-nsubj-pass.html) – [nummod](pl_lfg-dep-nummod.html) – [obj](pl_lfg-dep-obj.html) – [obl](pl_lfg-dep-obl.html) – [obl:agent](pl_lfg-dep-obl-agent.html) – [punct](pl_lfg-dep-punct.html) – [root](pl_lfg-dep-root.html) – [vocative](pl_lfg-dep-vocative.html) – [xcomp](pl_lfg-dep-xcomp.html) – [xcomp:obj](pl_lfg-dep-xcomp-obj.html)
+[acl](pl_lfg-dep-acl.html) – [acl:relcl](pl_lfg-dep-acl-relcl.html) – [advcl](pl_lfg-dep-advcl.html) – [advmod](pl_lfg-dep-advmod.html) – [amod](pl_lfg-dep-amod.html) – [appos](pl_lfg-dep-appos.html) – [aux](pl_lfg-dep-aux.html) – [aux:clitic](pl_lfg-dep-aux-clitic.html) – [aux:cnd](pl_lfg-dep-aux-cnd.html) – [aux:imp](pl_lfg-dep-aux-imp.html) – [aux:pass](pl_lfg-dep-aux-pass.html) – [case](pl_lfg-dep-case.html) – [cc](pl_lfg-dep-cc.html) – [cc:preconj](pl_lfg-dep-cc-preconj.html) – [ccomp](pl_lfg-dep-ccomp.html) – [ccomp:obj](pl_lfg-dep-ccomp-obj.html) – [conj](pl_lfg-dep-conj.html) – [cop](pl_lfg-dep-cop.html) – [cop:locat](pl_lfg-dep-cop-locat.html) – [csubj](pl_lfg-dep-csubj.html) – [det](pl_lfg-dep-det.html) – [discourse](pl_lfg-dep-discourse.html) – [expl:impers](pl_lfg-dep-expl-impers.html) – [expl:pv](pl_lfg-dep-expl-pv.html) – [fixed](pl_lfg-dep-fixed.html) – [flat](pl_lfg-dep-flat.html) – [iobj](pl_lfg-dep-iobj.html) – [mark](pl_lfg-dep-mark.html) – [nmod](pl_lfg-dep-nmod.html) – [nmod:poss](pl_lfg-dep-nmod-poss.html) – [nsubj](pl_lfg-dep-nsubj.html) – [nsubj:pass](pl_lfg-dep-nsubj-pass.html) – [nummod](pl_lfg-dep-nummod.html) – [obj](pl_lfg-dep-obj.html) – [obl](pl_lfg-dep-obl.html) – [obl:agent](pl_lfg-dep-obl-agent.html) – [punct](pl_lfg-dep-punct.html) – [root](pl_lfg-dep-root.html) – [vocative](pl_lfg-dep-vocative.html) – [xcomp](pl_lfg-dep-xcomp.html) – [xcomp:obj](pl_lfg-dep-xcomp-obj.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -1116,7 +1116,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 13 relation subtypes: <a>acl:relcl</a>, <a>aux:aglt</a>, <a>aux:mood</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:obj</a>, <a>cop:locat</a>, <a>expl:impers</a>, <a>expl:pv</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>xcomp:obj</a></li>
+<li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>aux:clitic</a>, <a>aux:cnd</a>, <a>aux:imp</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:obj</a>, <a>cop:locat</a>, <a>expl:impers</a>, <a>expl:pv</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>xcomp:obj</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
 <li>The following 9 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

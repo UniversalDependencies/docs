@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of nsubj:pass in UD_Old_Russian-RNC'
+title:  'Statistics of nsubj:pass in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Relations: `nsubj:pass`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Relations: `nsubj:pass`
 
 This relation is a language-specific subtype of <tt><a href="orv_rnc-dep-nsubj.html">nsubj</a></tt>.
 
@@ -71,7 +71,7 @@ The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	написано	написати	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
 7	42	42	NUM	_	Case=Nom|Gender=Fem	8	nummod:gov	_	_
-8	стерляди	стерлядь	NOUN	_	Case=Nom|Gender=Fem|Number=Adnum	6	nsubj:pass	_	SpaceAfter=No
+8	стерляди	стерлядь	NOUN	_	Case=Nom|Gender=Fem|Number=Count	6	nsubj:pass	_	SpaceAfter=No
 9	;	;	PUNCT	_	_	16	punct	_	_
 10	против	противъ	ADP	_	_	14	case	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	_

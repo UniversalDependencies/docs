@@ -110,7 +110,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 146 <tt><a href="lt_hse-pos-VERB.html">VERB</a></tt> tokens (21% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="lt_hse-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (146; 100%), <tt><a href="lt_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (146; 100%), <tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (146; 100%), <tt><a href="lt_hse-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (142; 97%), <tt><a href="lt_hse-feat-Reflex.html">Reflex</a></tt><tt>=No</tt> (140; 96%), <tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (128; 88%), <tt><a href="lt_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (108; 74%), <tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (94; 64%), <tt><a href="lt_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (87; 60%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="lt_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (146; 100%), <tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (146; 100%), <tt><a href="lt_hse-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (142; 97%), <tt><a href="lt_hse-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (140; 96%), <tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (128; 88%), <tt><a href="lt_hse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (108; 74%), <tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (94; 64%), <tt><a href="lt_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (87; 60%), <tt><a href="lt_hse-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (75; 51%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -180,7 +180,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 1 <tt><a href="lt_hse-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="lt_hse-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="lt_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1; 100%), <tt><a href="lt_hse-feat-Reflex.html">Reflex</a></tt><tt>=No</tt> (1; 100%), <tt><a href="lt_hse-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1; 100%), <tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1; 100%), <tt><a href="lt_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1; 100%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="lt_hse-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="lt_hse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="lt_hse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1; 100%), <tt><a href="lt_hse-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1; 100%), <tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1; 100%), <tt><a href="lt_hse-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1; 100%).
 
 `AUX` tokens may have the following values of `Case`:
 

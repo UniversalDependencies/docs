@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 * `Conv` (773; 16% of non-empty `VerbForm`): <em>gidip, olup, dönüp, diyerek, ederek, edip, gelip, kalkıp, koşarak, belirterek</em>
 * `Part` (2589; 54% of non-empty `VerbForm`): <em>olan, olduğunu, olduğu, gelen, yapılan, eden, olmadığını, alan, yapılacak, yapan</em>
 * `Vnoun` (1417; 30% of non-empty `VerbForm`): <em>demek, olması, olmak, savunma, almak, görmek, yapmak, etmek, kurtulmak, etmeye</em>
-* `EMPTY` (6278): <em>dedi, dedim, değil, oldu, söyledi, olur, etti, geldi, var, verdi</em>
+* `EMPTY` (6216): <em>dedi, dedim, oldu, söyledi, olur, etti, değil, geldi, var, verdi</em>
 
 <table>
   <tr><th>Paradigm <i>ol</i></th><th><tt>Part</tt></th><th><tt>Conv</tt></th><th><tt>Vnoun</tt></th></tr>
@@ -107,12 +107,12 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 `AUX` tokens may have the following values of `VerbForm`:
 
 * `Conv` (21; 100% of non-empty `VerbForm`): <em>ken, yken, girerken, ymişçesine</em>
-* `EMPTY` (1023): <em>dir, mi, ise, mı, dır, ydi, dı, ydı, tu, mu</em>
+* `EMPTY` (1085): <em>dir, mi, ise, mı, dır, ydi, dı, ydı, değil, tu</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> VERB</tt> (168; 69%),
+<tt>VERB --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> VERB</tt> (169; 69%),
 <tt>VERB --[<tt><a href="tr_imst-dep-compound-redup.html">compound:redup</a></tt>]--> VERB</tt> (4; 67%),
 <tt>VERB --[<tt><a href="tr_imst-dep-case.html">case</a></tt>]--> VERB</tt> (1; 100%).
 

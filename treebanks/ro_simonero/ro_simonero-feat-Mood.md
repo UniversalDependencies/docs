@@ -39,7 +39,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 2096 <tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> tokens (42% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="ro_simonero-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2096; 100%), <tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=3</tt> (2089; 100%), <tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2034; 97%), <tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1397; 67%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="ro_simonero-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2096; 100%), <tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=3</tt> (2088; 100%), <tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2034; 97%), <tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1398; 67%).
 
 `AUX` tokens may have the following values of `Mood`:
 
@@ -50,7 +50,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 <table>
   <tr><th>Paradigm <i>fi</i></th><th><tt>Ind</tt></th><th><tt>Sub</tt></th></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sunt</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>fii</em></td></tr>
+  <tr><td><tt><tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>esti</em></td><td><em>fii</em></td></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>era</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ro_simonero-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>i</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>este, e</em></td><td></td></tr>
@@ -58,7 +58,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
   <tr><td><tt><tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sunteți</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>erau</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sunt</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>esti</em></td><td><em>fie, ﬁe</em></td></tr>
+  <tr><td><tt><tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>fie, ﬁe</em></td></tr>
 </table>
 
 ### `PART`
@@ -75,7 +75,7 @@ The most frequent other feature values with which `PART` and `Mood` co-occurred:
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> VERB</tt> (358; 67%),
+<tt>VERB --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> VERB</tt> (357; 67%),
 <tt>VERB --[<tt><a href="ro_simonero-dep-mark.html">mark</a></tt>]--> PART</tt> (214; 75%),
 <tt>AUX --[<tt><a href="ro_simonero-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="ro_simonero-dep-dep.html">dep</a></tt>]--> VERB</tt> (1; 100%).

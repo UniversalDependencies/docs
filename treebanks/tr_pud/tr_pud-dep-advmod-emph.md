@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="tr_pud-dep-advmod.html">advmod</a></tt>.
 
-120 nodes (1%) are attached to their parents as `advmod:emph`.
+117 nodes (1%) are attached to their parents as `advmod:emph`.
 
-117 instances of `advmod:emph` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.23333333333333.
+114 instances of `advmod:emph` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.23931623931624.
 
-The following 6 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (63; 53% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (21; 18% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (15; 13% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (10; 8% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (7; 6% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (4; 3% instances).
+The following 6 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (59; 50% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (21; 18% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (15; 13% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (10; 9% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (8; 7% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (4; 3% instances).
 
 
 ~~~ conllu
@@ -25,12 +25,12 @@ The following 6 pairs of parts of speech are connected with `advmod:emph`: <tt><
 1	Oyun	oyun	NOUN	NN	Number=Sing	2	nmod:poss	_	_
 2	tarzında	tarz	NOUN	NN	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	obl	_	_
 3	sert	sert	ADJ	JJ	Number=Sing	5	amod	_	_
-4	bir	bir	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	5	det	_	_
+4	bir	bir	DET	DT	Definite=Ind|Polarity=Pos	5	det	_	_
 5	yan	yan	NOUN	NN	Case=Nom|Number=Sing	6	nsubj	_	_
 6	olsa	ol	VERB	VB	Mood=Cnd|Number=Sing|Person=3|Tense=Pres	12	advcl	_	_
 7	da	da	ADV	RB	_	6	advmod:emph	_	_
 8	yumuşak	yumuşak	ADJ	JJ	Number=Sing	10	amod	_	_
-9	bir	bir	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	10	det	_	_
+9	bir	bir	DET	DT	Definite=Ind|Polarity=Pos	10	det	_	_
 10	tutuşu	tutuş	NOUN	VN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3|Polarity=Pos	12	csubj	_	_
 11	da	da	ADV	RB	_	10	advmod:emph	_	_
 12	var	var	ADJ	JJ	Polarity=Pos	0	root	_	SpaceAfter=No

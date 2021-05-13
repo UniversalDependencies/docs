@@ -12,7 +12,7 @@ There are 1 language-specific subtypes of `iobj`: <tt><a href="fr_sequoia-dep-io
 219 nodes (0%) are attached to their parents as `iobj`.
 
 190 instances of `iobj` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.03196347031963.
+Average distance between parent and child is 3.02283105022831.
 
 The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (211; 96% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (4; 2% instances).
 

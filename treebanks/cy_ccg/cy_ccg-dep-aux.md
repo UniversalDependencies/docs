@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1247 nodes (4%) are attached to their parents as `aux`.
+1413 nodes (4%) are attached to their parents as `aux`.
 
-1245 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.12910986367281.
+1411 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.12880396319887.
 
-The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1228; 98% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (16; 1% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1388; 98% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (22; 2% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,18 +22,16 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 aux	color:blue
-1	yr	y	PART	aff	_	2	advmod	_	_
-2	wy	bod	VERB	verb	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
-3	'n	yn	AUX	impf	_	4	aux	_	_
-4	eilio	eilio	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	2	xcomp	_	_
-5	Elin	Elin	PROPN	person	_	4	obj	_	_
-6	Jones	Jones	PROPN	person	_	5	flat:name	_	_
-7	ar	ar	ADP	prep	_	8	case	_	_
-8	gyfer	cyfer	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	4	obl	_	_
-9	swydd	swydd	NOUN	noun	Gender=Fem|Number=Sing	8	nmod	_	_
-10	y	y	DET	art	_	11	det	_	_
-11	Llywydd	llywydd	NOUN	noun	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\n
+1	Yr	y	PART	aff	_	2	advmod	_	_
+2	ydym	bod	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	yn	yn	AUX	impf	_	4	aux	_	_
+4	llithro	llithro	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	2	xcomp	_	_
+5	i	i	ADP	prep	_	6	case	_	_
+6	le	lle	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	4	obl	_	_
+7	tywyll	tywyll	ADJ	pos	Degree=Pos	6	amod	_	_
+8	dros	dros	ADP	prep	_	9	case	_	_
+9	ben	pen	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	4	obl	_	SpaceAfter=No
+10	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\n
 
 ~~~
 
@@ -44,8 +42,8 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 3 aux	color:blue
-1	Mae	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
-2	Nest	dod	VERB	verb	Mood=Ind|Mutation=NM|Number=Sing|Person=2|Tense=Past	1	nsubj	_	_
+1	Mae	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Nest	Nest	PROPN	person	Gender=Fem|Number=Sing	1	nsubj	_	_
 3	wedi	wedi	AUX	ante	_	6	aux	_	_
 4	bod	bod	AUX	verbnoun	Number=Sing|VerbForm=Vnoun	6	cop	_	_
 5	yn	yn	PART	pred	_	6	case:pred	_	_
@@ -62,11 +60,11 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 9	fgColor:white
 # visual-style 9 8 aux	color:blue
 1	Dyma	dyma	ADV	adv	_	2	advmod	_	_
-2	mae	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+2	mae	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	datblygwyr	datblygwr	NOUN	noun	Gender=Masc|Number=Plur	2	nsubj	_	_
 4	tai	tŷ	NOUN	noun	Gender=Masc|Number=Plur	3	nmod	_	_
 5	yn	yn	ADP	prep	_	7	case	_	_
-6	ei	ei	PRON	dep	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	obj	_	_
+6	ei	ef	PRON	dep	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	obj	_	_
 7	ddweud	dweud	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	2	xcomp	_	_
 8	yn	yn	AUX	impf	_	9	aux	_	_
 9	aml	aml	ADV	adv	_	7	advmod	_	_

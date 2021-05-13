@@ -46,8 +46,8 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 4	கழக	கழகம்	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	5	nmod	5:nmod	Translit=kalaka|LTranslit=kalakam
 5	மாணவர்கள்	மாணவர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	7	obl	7:obl:இடம்:nom	Translit=māṇavarkaḷ|LTranslit=māṇavar
 6	இடம்	இடம்	ADP	PP-------	AdpType=Post	5	case	5:case	Translit=iṭam|LTranslit=iṭam
-7	பேசிய	பேசு	VERB	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	8	acl	8:acl	Translit=pēciya|LTranslit=pēcu
-8	அவர்	அவர்	PRON	RpN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form|PronType=Prs	29	iobj	29:iobj	SpaceAfter=No|Translit=avar|LTranslit=avar
+7	பேசிய	பேசு	VERB	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	8	acl:relcl	8:acl:relcl	Translit=pēciya|LTranslit=pēcu
+8	அவர்	அவர்	PRON	RpN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form|PronType=Prs	29	iobj	7:nsubj|29:iobj	SpaceAfter=No|Translit=avar|LTranslit=avar
 9	,	,	PUNCT	Z:-------	PunctType=Comm	29	punct	29:punct	Translit=,|LTranslit=,
 10	ஒபாமாவின்	ஒபாமா	PROPN	NEG-3SH--	Case=Gen|Gender=Com|Number=Sing|Person=3|Polite=Form	12	nmod	12:nmod:gen	Translit=opāmāvin|LTranslit=opāmā
 11	இந்தியப்	இந்தியா	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	12	nmod	12:nmod	Translit=intiyap|LTranslit=intiyā

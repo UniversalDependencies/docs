@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `flat:name`: <tt><a 
 5	ꙇже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	ref=MATT_21.11
 6	отъ	отъ	ADP	R-	_	7	case	_	ref=MATT_21.11
 7	назарета	назаретъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	flat:name	_	ref=MATT_21.11
-8	галилеискааго	галилеискъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc,Neut|Number=Sing|Strength=Weak	7	advmod	_	ref=MATT_21.11
+8	галилеискааго	галилеискъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc,Neut|Number=Sing	7	advmod	_	ref=MATT_21.11
 
 ~~~
 

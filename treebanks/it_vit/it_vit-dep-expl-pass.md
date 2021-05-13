@@ -72,7 +72,7 @@ The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 47	per	per	ADP	E	_	48	case	_	_
 48	attività	attività	NOUN	S	Gender=Fem	46	nmod	_	_
 49	nazionali	nazionale	ADJ	A	Number=Plur	48	amod	_	_
-50	ed	ed	CCONJ	CC	_	51	cc	_	_
+50	ed	e	CCONJ	CC	_	51	cc	_	_
 51	estere	estero	ADJ	A	Gender=Fem|Number=Plur	49	conj	_	SpaceAfter=No
 52	.	.	PUNCT	FS	_	5	punct	_	_
 

@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Com`, `Fem`, `Masc`, `Neut`.
 
-1729 tokens (17%) have a non-empty value of `Gender`.
+1730 tokens (17%) have a non-empty value of `Gender`.
 31 types (2%) occur at least once with a non-empty value of `Gender`.
 31 lemmas (2%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 3 part-of-speech tags: <tt><a href="am_att-pos-PRON.html">PRON</a></tt> (1724; 17% instances), <tt><a href="am_att-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="am_att-pos-PRON.html">PRON</a></tt> (1725; 17% instances), <tt><a href="am_att-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-1724 <tt><a href="am_att-pos-PRON.html">PRON</a></tt> tokens (68% of all `PRON` tokens) have a non-empty value of `Gender`.
+1725 <tt><a href="am_att-pos-PRON.html">PRON</a></tt> tokens (68% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="am_att-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1705; 99%), <tt><a href="am_att-feat-Person.html">Person</a></tt><tt>=3</tt> (1545; 90%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="am_att-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1706; 99%), <tt><a href="am_att-feat-Person.html">Person</a></tt><tt>=3</tt> (1546; 90%).
 
 `PRON` tokens may have the following values of `Gender`:
 
 * `Com` (15; 1% of non-empty `Gender`): ኝ, ኧሁ, ሁ, ን, ኤ, እ
-* `Fem` (415; 24% of non-empty `Gender`): ኧች, ት, ኣት, ኣ, ዋ, ኢ, ሽ, ኣች, ኧሽ, ኡ
+* `Fem` (416; 24% of non-empty `Gender`): ኧች, ት, ኣት, ኣ, ዋ, ኢ, ሽ, ኣች, ኧሽ, ኡ
 * `Masc` (1232; 71% of non-empty `Gender`): ኧ, ይ, ት, ኦ, ው, ኡ, ህ, ኧት, ኧህ, ክ
 * `Neut` (62; 4% of non-empty `Gender`): ኝ, ኧሁ, ሁ, ኣቸው, ን, ኡ, ኣሁ, ኧ, ኧኝ, ዋ
-* `EMPTY` (825): ኧው, ኡ, ኝ, እ, ኤ, ምን, ኩ, ሁ, ኣቸው, እኔ
+* `EMPTY` (824): ኧው, ኡ, ኝ, እ, ኤ, ምን, ኩ, ሁ, ኣቸው, እኔ
 
 <table>
   <tr><th>Paradigm <i>ኡ</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>

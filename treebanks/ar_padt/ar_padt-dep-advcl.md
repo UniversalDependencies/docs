@@ -80,7 +80,7 @@ The following 30 pairs of parts of speech are connected with `advcl`: <tt><a hre
 4	أفضل	أَفضَل	ADJ	A-----MS4I	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	0	root	0:root	Vform=أَفضَلَ|Gloss=better_/_best|Root=f_.d_l|Translit=ʾafḍala|LTranslit=ʾafḍal
 5	من	مِن	ADP	P---------	AdpType=Prep	7	mark	7:mark	Vform=مِن|Gloss=from|Root=min|Translit=min|LTranslit=min
 6	أن	أَن	SCONJ	C---------	_	7	mark	7:mark	Vform=أَن|Gloss=to|Root='_n|Translit=ʾan|LTranslit=ʾan
-7	نزرع	زَرَع	VERB	VISA-1MP--	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	4	advcl	4:advcl:أَن_مِن	Vform=نَزرَعَ|Gloss=plant,implant,cultivate|Root=z_r_`|Translit=nazraʿa|LTranslit=zaraʿ
+7	نزرع	زَرَع	VERB	VISA-1MP--	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	4	advcl	4:advcl:مِن_أَن	Vform=نَزرَعَ|Gloss=plant,implant,cultivate|Root=z_r_`|Translit=nazraʿa|LTranslit=zaraʿ
 8	القمح	قَمح	NOUN	N------S4D	Case=Acc|Definite=Def|Number=Sing	7	obj	7:obj	Vform=اَلقَمحَ|Gloss=wheat,grain|Root=q_m_.h|Translit=al-qamḥa|LTranslit=qamḥ
 9	في	فِي	ADP	P---------	AdpType=Prep	10	case	10:case	Vform=فِي|Gloss=in|Root=fI|Translit=fī|LTranslit=fī
 10	رومانيا	رُومَانِيَا	X	X---------	Foreign=Yes	7	obl	7:obl:فِي	SpaceAfter=No|Vform=رُومَانِيَا|Gloss=Romania|Root=rUmAn|Translit=rūmāniyā|LTranslit=rūmāniyā

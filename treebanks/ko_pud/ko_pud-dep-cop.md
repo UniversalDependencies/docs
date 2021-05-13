@@ -28,7 +28,7 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 4	따르는	_	VERB	VV	Form=Adn	7	acl:relcl	_	Translit=.dda.reu.neun|LTranslit=_
 5	미국	_	PROPN	NNP	_	6	compound	_	Translit=.mi.gug|LTranslit=_
 6	의회	_	NOUN	NN	_	7	compound	_	Translit=.yi.hoe|LTranslit=_
-7	의원들에게	의원들	NOUN	NN+CM	Case=Advb|Number=Plur|Polite=Form	10	advmod	_	MSeg=의원들-에게|Translit=.yi.weon.deul.e.ge|LTranslit=.yi.weon.deul
+7	의원들에게	의원들	NOUN	NN+CM	Number=Plur|Polite=Form	10	advmod	_	MSeg=의원들-에게|Translit=.yi.weon.deul.e.ge|LTranslit=.yi.weon.deul
 8	이것은	이것	PRON	PRD+CM	Case=Nom|Polite=Form	10	nsubj	_	MSeg=이것-은|Translit=.i.geos.eun|LTranslit=.i.geos
 9	조금	_	ADV	RB	_	10	advmod	_	Translit=.jo.geum|LTranslit=_
 10	다를	_	ADJ	JJ	Form=Adn	11	dep	_	Translit=.da.reul|LTranslit=_
@@ -49,7 +49,7 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 2	분석가들은	분석가들	NOUN	NN+CM	Case=Nom|Number=Plur|Polite=Form	14	nsubj	_	MSeg=분석가들-은|Translit=.bun.seog.ga.deul.eun|LTranslit=.bun.seog.ga.deul
 3	삼성의	삼성	PROPN	NNP+CM	Case=Gen|Polite=Form	5	nmod:poss	_	MSeg=삼성-의|Translit=.sam.seong.yi|LTranslit=.sam.seong
 4	사업	_	NOUN	NN	_	5	compound	_	Translit=.sa.eob|LTranslit=_
-5	실패로	실패	NOUN	NN+CM	Case=Advb|Polite=Form	9	advmod	_	MSeg=실패-로|Translit=.sil.pae.ro|LTranslit=.sil.pae
+5	실패로	실패	NOUN	NN+CM	Polite=Form	9	advmod	_	MSeg=실패-로|Translit=.sil.pae.ro|LTranslit=.sil.pae
 6	가장	_	ADV	RB	_	7	advmod	_	Translit=.ga.jang|LTranslit=_
 7	큰	_	ADJ	JJ	Form=Adn	8	acl:relcl	_	Translit=.keun|LTranslit=_
 8	이득을	이득	NOUN	NN+CM	Case=Acc|Polite=Form	9	obj	_	MSeg=이득-을|Translit=.i.deug.eul|LTranslit=.i.deug
@@ -57,7 +57,7 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 10	기업이	기업	NOUN	NN+CM	Case=Nom|Polite=Form	11	nsubj	_	MSeg=기업-이|Translit=.gi.eob.i|LTranslit=.gi.eob
 11	화웨이	_	PROPN	NNP	_	14	advcl	_	SpaceAfter=No|Translit=.hwa.we.i|LTranslit=_
 12	라	_	AUX	VC	Mood=Ind|VerbForm=Fin	11	cop	_	SpaceAfter=No|Translit=.ra|LTranslit=_
-13	고	고	PART	QP	_	11	dep:prt	_	Translit=.go|LTranslit=_
+13	고	고	PART	QP	_	11	case	_	Translit=.go|LTranslit=_
 14	주장했다	_	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=.ju.jang.haess.da|LTranslit=_
 15	.	.	PUNCT	.	_	14	punct	_	Translit=.|LTranslit=_
 

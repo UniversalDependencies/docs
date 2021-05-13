@@ -19,13 +19,13 @@ The 10 most frequent ambiguous types:  <em>aj</em> (<tt><a href="sk_snk-pos-PART
 
 
 * <em>aj</em>
-  * <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 200: <em>Okrem tuberkulózy ho sužovala <b>aj</b> cirhóza pečene .</em>
+  * <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 200: <em>V tomto ohľade už predčil <b>aj</b> osvietencov .</em>
   * <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 87: <em>A tentoraz vraj povezie <b>aj</b> zatykače .</em>
 * <em>však</em>
   * <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 122: <em>Väčšina zdrojov <b>však</b> uvádza , že by mal byť v Šanghaji .</em>
   * <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 54: <em>Tento koncept by <b>však</b> vyžadoval príliš rýchlu počiatočnú rotáciu Zeme .</em>
 * <em>len</em>
-  * <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 90: <em>V čase Vladislavovej smrti mal Ľudovít <b>len</b> desať rokov .</em>
+  * <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 90: <em>Spomínaný dialóg medzi nimi je teda pravdepodobne <b>len</b> vymyslený .</em>
   * <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 6: <em>Srdce mi bilo ako zvon , no odľahlo mi , <b>len</b> čo za sebou zavrela .</em>
 * <em>už</em>
   * <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 69: <em>" Naša mačka je <b>už</b> druhý deň veľmi nepokojná .</em>
@@ -43,9 +43,9 @@ The 10 most frequent ambiguous types:  <em>aj</em> (<tt><a href="sk_snk-pos-PART
   * <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 52: <em>V prípade , že nebudú <b>ani</b> dedičia , nahradia ich univerzity .</em>
 * <em>ešte</em>
   * <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 53: <em>Nemôžem pritom nespomenúť <b>ešte</b> jednu vec .</em>
-  * <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> 16: <em>Kresťania zaraďujú medzi prorokov <b>ešte</b> Daniela .</em>
+  * <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> 16: <em>Táto teória však <b>ešte</b> nezískala širokú podporu .</em>
 * <em>tak</em>
-  * <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> 68: <em>Bellerofontov koniec už nebol <b>tak</b> šťastný .</em>
+  * <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> 68: <em>Zenón zomrel 9 . apríla 491 a prežil <b>tak</b> obidvoch svojich synov .</em>
   * <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 23: <em>Sily sú vyrovnané — a <b>tak</b> sa začína „ mýtická súťaž “ .</em>
   * <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 19: <em>Každý jeden šedý Reebok vás presvedčí , že <b>tak</b> skoro sa nič nezmení .</em>
   * <tt><a href="sk_snk-pos-X.html">X</a></tt> 1: <em>Emanuel s Makulienkou <b>tak</b> ‐ tak stačili preskočiť na najbližšie lekno .</em>
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>aj</em> (<tt><a href="sk_snk-pos-PART
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 0.986395 (the average of all parts of speech is 1.801856).
+The form / lemma ratio of `PART` is 0.986395 (the average of all parts of speech is 1.802472).
 
 The 1st highest number of forms (2) was observed with the lemma “tuším”: <em>TUŠÍM, Tuším</em>.
 

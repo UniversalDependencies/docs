@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of ccomp in UD_Old_Russian-TOROT'
+title:  'Statistics of ccomp in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Relations: `ccomp`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Relations: `ccomp`
 
 This relation is universal.
 
@@ -24,7 +24,7 @@ The following 28 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 3 5 ccomp	color:blue
 1	онъ	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	ref=
 2	же	же	ADV	Df	_	8	discourse	_	ref=
-3	ѹслꙑшавъ	услышати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	8	advcl	_	ref=
+3	ѹслꙑшавъ	услышати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	8	advcl	_	ref=
 4	оже	оже	SCONJ	G-	_	5	mark	_	ref=
 5	идѹть	ити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	ref=
 6	на	на	ADP	R-	_	7	case	_	ref=
@@ -58,7 +58,7 @@ The following 28 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 7 8 ccomp	color:blue
 1	и	и	CCONJ	C-	_	0	root	_	ref=85.1
 2	ина	иныи	DET	Px	Case=Nom|Gender=Fem|Number=Sing	4	det	_	ref=85.1
-3	многа	мъногыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	4	amod	_	ref=85.1
+3	многа	мъногыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	4	amod	_	ref=85.1
 4	лесть	льсть	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	ref=85.1
 5	еяже	иже	PRON	Pr	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	8	obj	_	ref=85.1
 6	нѣ	не	ADV	Df	Polarity=Neg	7	advmod	_	ref=85.1

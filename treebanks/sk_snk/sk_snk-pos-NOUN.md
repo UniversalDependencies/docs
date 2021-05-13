@@ -22,7 +22,7 @@ The 10 most frequent ambiguous types:  <em>chvíľu</em> (<tt><a href="sk_snk-po
   * <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> 61: <em>O <b>chvíľu</b> som späť . “</em>
   * <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> 9: <em>Blythe ostala <b>chvíľu</b> ticho , čo bol pre mňa jasný signál .</em>
 * <em>problémy</em>
-  * <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> 15: <em>Vzostup opäť nasledovali <b>problémy</b> .</em>
+  * <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> 15: <em>Štandardné <b>problémy</b></em>
   * <tt><a href="sk_snk-pos-X.html">X</a></tt> 1: <em>Včera byl tady zas a dělal <b>problémy</b> , " dodáva ospravedlňujúco .</em>
 * <em>ticho</em>
   * <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> 14: <em>Zrazu Tayerle stratil prehľad , kde je , ale v triede bolo <b>ticho</b> .</em>
@@ -34,24 +34,24 @@ The 10 most frequent ambiguous types:  <em>chvíľu</em> (<tt><a href="sk_snk-po
   * <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> 13: <em>V takýto <b>večer</b> však treba prísť skôr a obsadiť si stôl .</em>
   * <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> 10: <em>Dnes <b>večer</b> mal ísť do Spoločenského strediska .</em>
 * <em>lásky</em>
-  * <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> 12: <em>Prinesie na oltár <b>lásky</b> obeť tým , že odpoveď začne najhorším .</em>
+  * <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> 12: <em>Posledný krok urobí na Ministerstve <b>lásky</b> .</em>
   * <tt><a href="sk_snk-pos-X.html">X</a></tt> 1: <em>* Soud <b>lásky</b></em>
 * <em>správa</em>
-  * <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> 10: <em>Táto <b>správa</b> bola už niekoľkokrát vedecky vyvrátená .</em>
+  * <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> 10: <em>Predpokladá sa , že populácia úplne vymrie ( tlačová <b>správa</b> ( en ) ) .</em>
   * <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> 1: <em>Avšak rodine malého paviána sa nepáčilo , ako sa Jane <b>správa</b> k ich mláďaťu a nazlostení začali dievčinu prenasledovať .</em>
 * <em>zviera</em>
   * <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> 7: <em>Lori nemala ani najmenšie podozrenie , že vo mne sa prebudilo <b>zviera</b> .</em>
   * <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> 2: <em>Hrdlo mi <b>zviera</b> banálnosť .</em>
 * <em>pravda</em>
   * <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> 8: <em>Svätá <b>pravda</b> .</em>
-  * <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 2: <em>Nakoniec ťa , <b>pravda</b> , zastrelíme . "</em>
+  * <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 2: <em>To , <b>pravda</b> , nebolo veľmi pravdepodobné .</em>
 * <em>radosti</em>
   * <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> 8: <em>Od <b>radosti</b> sa rozosmiala , lebo niečo podobné by urobila i ona .</em>
   * <tt><a href="sk_snk-pos-X.html">X</a></tt> 1: <em>* Hru Dům <b>radosti</b> uviedlo v roku 1993 Divadlo Na zábradlí ( réžia : Arnošt Goldflam ) .</em>
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.870740 (the average of all parts of speech is 1.801856).
+The form / lemma ratio of `NOUN` is 1.870740 (the average of all parts of speech is 1.802472).
 
 The 1st highest number of forms (9) was observed with the lemma “krajina”: <em>krajina, krajinami, krajine, krajinou, krajinu, krajiny, krajinách, krajinám, krajín</em>.
 

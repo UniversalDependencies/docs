@@ -7,14 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Thai-PUD: Relations: `det`
 
 This relation is universal.
-There are 1 language-specific subtypes of `det`: <tt><a href="th_pud-dep-det-predet.html">det:predet</a></tt>.
 
-407 nodes (2%) are attached to their parents as `det`.
+413 nodes (2%) are attached to their parents as `det`.
 
-243 instances of `det` (60%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.65601965601966.
+243 instances of `det` (59%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.65859564164649.
 
-The following 5 pairs of parts of speech are connected with `det`: <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (366; 90% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (27; 7% instances), <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (7; 2% instances), <tt><a href="th_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (2; 0% instances).
+The following 6 pairs of parts of speech are connected with `det`: <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (371; 90% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (27; 7% instances), <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (7; 2% instances), <tt><a href="th_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="th_pud-pos-DET.html">DET</a></tt>-<tt><a href="th_pud-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +23,7 @@ The following 5 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 8	fgColor:white
 # visual-style 8 9 det	color:blue
 1	เห็น	_	VERB	VV	_	0	root	_	SpaceAfter=No
-2	ได้	_	VERB	MD	_	1	aux	_	SpaceAfter=No
+2	ได้	_	AUX	MD	_	1	aux	_	SpaceAfter=No
 3	ชัด	_	ADV	RB	_	1	advmod	_	SpaceAfter=No
 4	ที่สุด	_	ADV	RB	_	3	advmod	_	SpaceAfter=No
 5	เมื่อ	_	ADP	IN	_	10	mark	_	SpaceAfter=No

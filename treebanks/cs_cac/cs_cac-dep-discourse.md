@@ -48,7 +48,7 @@ The following 18 pairs of parts of speech are connected with `discourse`: <tt><a
 2	balkóně	balkón	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	6	obl	6:obl:na:loc	_
 3	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	6	expl:pv	6:expl:pv	LGloss=(zvr._zájmeno/částice)
 4	nám	já	PRON	PP-P3--1-------	Case=Dat|Number=Plur|Person=1|PronType=Prs	6	discourse	6:discourse	_
-5	jich	on	PRON	PPXP2--3-------	Case=Gen|Number=Plur|Person=3|PronType=Prs	7	nmod	7:nmod:gen	LId=on-1
+5	jich	on	PRON	PPXP2--3-------	Case=Gen|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	7	nmod	7:nmod:gen	LId=on-1
 6	sejde	sejít	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 7	více	hodně	ADV	Dg-------2A----	Degree=Cmp|Polarity=Pos	6	nsubj	6:nsubj	_
 8	než	než	SCONJ	J,-------------	_	9	mark	9:mark	LId=než-2

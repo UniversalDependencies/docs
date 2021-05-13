@@ -10,8 +10,8 @@ This relation is universal.
 
 164 nodes (1%) are attached to their parents as `advcl`.
 
-115 instances of `advcl` (70%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.40853658536585.
+114 instances of `advcl` (70%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.40243902439024.
 
 The following 3 pairs of parts of speech are connected with `advcl`: <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (162; 99% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-PART.html">PART</a></tt> (1; 1% instances).
 
@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `advcl`: <tt><a href
 2	,	_	PUNCT	_	_	1	punct	_	_
 3	n'	_	SCONJ	_	_	6	mark	_	_
 4	a	_	PRON	_	_	6	nsubj	_	_
-5	bɛ	_	AUX	_	_	6	aux	_	_
+5	bɛ	bɛ	AUX	_	Aspect=Imp|Polarity=Pos	6	aux	_	Gloss=IPFV.AFF
 6	wele	_	VERB	_	_	11	advcl	_	_
 7	ko	_	PART	_	_	8	discourse	_	_
 8	Jaason	_	PROPN	_	_	6	parataxis:obj	_	SpaceAfter=No
@@ -69,12 +69,12 @@ The following 3 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 8	fgColor:white
 # visual-style 8 6 advcl	color:blue
 1	o	ò	PRON	prn	_	4	nsubj	_	Gloss=ce
-2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
+2	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
 3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=3SG
 4	sòrò	sɔ̀rɔ	VERB	v	_	0	root	_	Gloss=obtenir
 5	jinèdennin	jinɛdennin	NOUN	n	_	8	nsubj	_	Gloss=esprit|Morf=esprit,fillette,enfant,DIM
 6	fana	fána	PART	prt	_	8	advcl	_	Gloss=aussi
-7	tun	tùn	PART	prt	Tense=Past	8	aux	_	Gloss=PST
+7	tun	tùn	AUX	prt	Tense=Past	8	aux	_	Gloss=PST
 8	ye	yé	VERB	cop	Polarity=Pos	4	ccomp	_	Gloss=EQU
 9	jinè	jínɛ	NOUN	n	_	12	nmod:poss	_	Gloss=esprit
 10	ninw	ninw	DET	prn/dtm	Definite=Def|Number=Plur|PronType=Dem	9	det	_	Gloss=DEM|Morf=DEM,PL

@@ -8,31 +8,30 @@ udver: '2'
 
 This relation is universal.
 
-1851 nodes (2%) are attached to their parents as `cop`.
+2332 nodes (2%) are attached to their parents as `cop`.
 
-1809 instances of `cop` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.30091842247434.
+2285 instances of `cop` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.31303602058319.
 
-The following 13 pairs of parts of speech are connected with `cop`: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (775; 42% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (751; 41% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (110; 6% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (70; 4% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (48; 3% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (45; 2% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (34; 2% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `cop`: <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (974; 42% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (948; 41% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (109; 5% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (92; 4% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (70; 3% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (59; 3% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (49; 2% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 cop	color:blue
-1	On	on	ADP	IN	_	3	case	_	Discourse=joint:83->75
-2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	Entity=(place-108
-3	floor	floor	NOUN	NN	Number=Sing	6	nmod	_	Entity=place-108)
-4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
-5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	Entity=(object-109
-6	wrapper	wrapper	NOUN	NN	Number=Sing	0	root	_	_
-7	from	from	ADP	IN	_	10	case	_	_
-8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	Entity=(object-110
-9	French	French	PROPN	NNP	Number=Sing	10	compound	_	_
-10	Chew	Chew	PROPN	NNP	Number=Sing	6	nmod	_	Entity=object-109)object-110)|SpaceAfter=No
-11	.	.	PUNCT	.	_	6	punct	_	_
+# visual-style 4 2 cop	color:blue
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	4:nsubj	Discourse=evaluation:11->13|Entity=(person-12)|SpaceAfter=No
+2	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
+3	so	so	ADV	RB	_	4	advmod	4:advmod	_
+4	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	0:root	_
+5	thinking	think	VERB	VBG	VerbForm=Ger	4	advcl	4:advcl	Discourse=attribution:12->13
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj	Discourse=antithesis:13->14|Entity=(person-4)
+7	spent	spend	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	5	ccomp	5:ccomp	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	Entity=(time-7
+9	night	night	NOUN	NN	Number=Sing	7	obj	7:obj	Entity=time-7)|SpaceAfter=No
+10	.	.	PUNCT	.	_	4	punct	4:punct	_
 
 ~~~
 
@@ -40,16 +39,14 @@ The following 13 pairs of parts of speech are connected with `cop`: <tt><a href=
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 cop	color:blue
-1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Discourse=evaluation:64->60
-2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
-3	dark	dark	ADJ	JJ	Degree=Pos	0	root	_	_
-4	under	under	ADP	IN	_	6	case	_	_
-5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	Entity=(object-81
-6	bleachers	bleacher	NOUN	NNS	Number=Plur	3	obl	_	Entity=object-81)|SpaceAfter=No
-7	.	.	PUNCT	.	_	3	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 cop	color:blue
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	Discourse=evaluation:5->3|Entity=(event-3)
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	4:cop	_
+3	an	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	Entity=(event-3
+4	accident	accident	NOUN	NN	Number=Sing	0	root	0:root	Entity=event-3)|SpaceAfter=No
+5	.	.	PUNCT	.	_	4	punct	4:punct	_
 
 ~~~
 
@@ -60,19 +57,19 @@ The following 13 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 2 cop	color:blue
-1	That	that	PRON	DT	Number=Sing|PronType=Dem	10	nsubj	_	Discourse=concession:10->6
-2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	SpaceAfter=No
-3	,	,	PUNCT	,	_	2	punct	_	_
-4	of	of	ADP	IN	_	5	case	_	_
-5	course	course	NOUN	NN	Number=Sing	10	obl	_	SpaceAfter=No
-6	,	,	PUNCT	,	_	5	punct	_	_
-7	if	if	SCONJ	IN	_	10	mark	_	Discourse=condition:11->10
-8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	Entity=(person-9)
-9	can	can	AUX	MD	VerbForm=Fin	10	aux	_	_
-10	get	get	VERB	VB	VerbForm=Inf	0	root	_	_
-11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	Entity=(event-18
-12	laugh	laugh	NOUN	NN	Number=Sing	10	obj	_	Entity=event-18)|SpaceAfter=No
-13	.	.	PUNCT	.	_	10	punct	_	_
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	10	nsubj	10:nsubj	Discourse=concession:10->6
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	SpaceAfter=No
+3	,	,	PUNCT	,	_	2	punct	2:punct	_
+4	of	of	ADV	IN	_	10	advmod	10:advmod	_
+5	course	course	NOUN	NN	Number=Sing	4	fixed	4:fixed	SpaceAfter=No
+6	,	,	PUNCT	,	_	4	punct	4:punct	_
+7	if	if	SCONJ	IN	_	10	mark	10:mark	Discourse=condition:11->10
+8	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	10:nsubj	Entity=(person-9)
+9	can	can	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
+10	get	get	VERB	VB	VerbForm=Inf	0	root	0:root	_
+11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	Entity=(event-18
+12	laugh	laugh	NOUN	NN	Number=Sing	10	obj	10:obj	Entity=event-18)|SpaceAfter=No
+13	.	.	PUNCT	.	_	10	punct	10:punct	_
 
 ~~~
 

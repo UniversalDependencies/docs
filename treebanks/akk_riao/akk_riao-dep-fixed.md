@@ -25,14 +25,14 @@ The following 3 pairs of parts of speech are connected with `fixed`: <tt><a href
 1	še’ī	_	NOUN	_	Gender=Masc|Number=Plur	11	obj	11:obj	_
 2	tabkāni	tabku	NOUN	AJ	Gender=Masc|Number=Plur	11	obl	11:obl	tab-ka-a-ni
 3	ana	ana	ADP	PRP	_	4	case	4:case	a-na
-4	erišti	erištu	NOUN	N	Case=Gen|Gender=Fem|Nounbase=Bound|Number=Sing	11	obl	11:obl	e-riš-ti
-5	māti	mātu	NOUN	N	Case=Gen|Gender=Fem|Nounbase=Suffixal|Number=Sing	4	nmod:poss	4:nmod:poss	KUR-ia
+4	erišti	erištu	NOUN	N	Case=Gen|Gender=Fem|NounBase=Bound|Number=Sing	11	obl	11:obl	e-riš-ti
+5	māti	mātu	NOUN	N	Case=Gen|Gender=Fem|NounBase=Suffixal|Number=Sing	4	nmod:poss	4:nmod:poss	KUR-ia
 6	ya	_	PRON	_	Number=Sing|Person=1	5	det:poss	5:det:poss	_
 7	eli	eli	ADP	PRP	_	10	advmod	10:advmod	UGU
 8	ša	ša	ADP	REL	_	7	fixed	7:fixed	ša₂
 9	pān	pānu	ADV	N	_	7	fixed	7:fixed	pa-an
-10	ušātir	watāru	VERB	V	Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Finite|Verbstem=S	11	xcomp	11:xcomp	u₂-ša₂-tir
-11	atbuk	tabāku	VERB	V	Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Finite|Verbstem=G	0	root	0:root	at-bu-uk
+10	ušātir	watāru	VERB	V	Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|VerbStem=S	11	xcomp	11:xcomp	u₂-ša₂-tir
+11	atbuk	tabāku	VERB	V	Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|VerbStem=G	0	root	0:root	at-bu-uk
 
 ~~~
 
@@ -46,14 +46,14 @@ The following 3 pairs of parts of speech are connected with `fixed`: <tt><a href
 1	še’ī	_	NOUN	_	Gender=Masc|Number=Plur	11	obj	11:obj	_
 2	tabkāni	tabku	NOUN	AJ	Gender=Masc|Number=Plur	11	obl	11:obl	tab-ka-a-ni
 3	ana	ana	ADP	PRP	_	4	case	4:case	a-na
-4	erišti	erištu	NOUN	N	Case=Gen|Gender=Fem|Nounbase=Bound|Number=Sing	11	obl	11:obl	e-riš-ti
-5	māti	mātu	NOUN	N	Case=Gen|Gender=Fem|Nounbase=Suffixal|Number=Sing	4	nmod:poss	4:nmod:poss	KUR-ia
+4	erišti	erištu	NOUN	N	Case=Gen|Gender=Fem|NounBase=Bound|Number=Sing	11	obl	11:obl	e-riš-ti
+5	māti	mātu	NOUN	N	Case=Gen|Gender=Fem|NounBase=Suffixal|Number=Sing	4	nmod:poss	4:nmod:poss	KUR-ia
 6	ya	_	PRON	_	Number=Sing|Person=1	5	det:poss	5:det:poss	_
 7	eli	eli	ADP	PRP	_	10	advmod	10:advmod	UGU
 8	ša	ša	ADP	REL	_	7	fixed	7:fixed	ša₂
 9	pān	pānu	ADV	N	_	7	fixed	7:fixed	pa-an
-10	ušātir	watāru	VERB	V	Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Finite|Verbstem=S	11	xcomp	11:xcomp	u₂-ša₂-tir
-11	atbuk	tabāku	VERB	V	Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Finite|Verbstem=G	0	root	0:root	at-bu-uk
+10	ušātir	watāru	VERB	V	Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|VerbStem=S	11	xcomp	11:xcomp	u₂-ša₂-tir
+11	atbuk	tabāku	VERB	V	Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|VerbStem=G	0	root	0:root	at-bu-uk
 
 ~~~
 

@@ -52,7 +52,7 @@ The following 20 pairs of parts of speech are connected with `advcl`: <tt><a hre
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	Orig=ⲁ̇
 2	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 3	ⲛⲁⲩ	ⲛⲁⲩ	VERB	V	VerbForm=Fin	0	root	_	_
-4	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	_	3	advmod	_	_
+4	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	Foreign=Yes	3	advmod	_	OrigLang=grc
 5	ⲉ	ⲉ	ADP	PREP	_	7	case	_	Orig=ⲉ̣
 6	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Entity=(place
 7	ϣⲟⲩϣⲧ	ϣⲟⲩϣⲧ	NOUN	N	_	3	obl	_	Orig=ϣⲟⲩϣⲧ̇
@@ -72,7 +72,7 @@ The following 20 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 14 advcl	color:blue
-1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	_	3	cc	_	_
+1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	3	cc	_	OrigLang=grc
 2	ⲉϥⲉ	ⲉⲣⲉ_ⲛⲧⲟϥ	PRON	AOPT_PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 3	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	0	root	_	_
 4	ⲛⲁ	ⲛⲁ	ADP	PREP	_	5	case	_	_

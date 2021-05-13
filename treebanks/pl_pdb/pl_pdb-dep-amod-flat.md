@@ -62,7 +62,7 @@ The following 5 pairs of parts of speech are connected with `amod:flat`: <tt><a 
 3	mleka	mleko	NOUN	subst:sg:gen:n:ncol	Case=Gen|Gender=Neut|Number=Sing	2	nmod:arg	2:nmod:arg	_
 4	na	na	ADP	prep:loc	AdpType=Prep	5	case	5:case	Case=Loc
 5	kartonie	karton	NOUN	subst:sg:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	nmod	1:nmod	_
-6	-	-	PUNCT	interp	PunctType=Hyph	1	punct	1:punct	_
+6	-	-	PUNCT	interp	PunctType=Dash	1	punct	1:punct	_
 7	2	2	ADJ	adj:sg:nom:m3:pos	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	1	appos	1:appos	_
 8	marzec	marzec	NOUN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nmod:flat	7:nmod:flat	_
 9	1998	1998	ADJ	adj:sg:gen:m3:pos	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	10	amod:flat	10:amod:flat	_

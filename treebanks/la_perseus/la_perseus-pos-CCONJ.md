@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-Perseus: POS Tags: `CCONJ`
 
 There are 22 `CCONJ` lemmas (0%), 25 `CCONJ` types (0%) and 1694 `CCONJ` tokens (6%).
-Out of 12 observed tags, the rank of `CCONJ` is: 10 in number of lemmas, 10 in number of types and 7 in number of tokens.
+Out of 13 observed tags, the rank of `CCONJ` is: 10 in number of lemmas, 10 in number of types and 7 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>et, que, atque, sed, aut, neque, nam, etiam, autem, at</em>
 
@@ -65,7 +65,7 @@ The 3rd highest number of forms (2) was observed with the lemma “etiam”: <em
 
 `CCONJ` nodes are attached to their parents using 8 different relations: <tt><a href="la_perseus-dep-cc.html">cc</a></tt> (1255; 74% instances), <tt><a href="la_perseus-dep-advmod.html">advmod</a></tt> (418; 25% instances), <tt><a href="la_perseus-dep-appos.html">appos</a></tt> (7; 0% instances), <tt><a href="la_perseus-dep-conj.html">conj</a></tt> (5; 0% instances), <tt><a href="la_perseus-dep-mark.html">mark</a></tt> (4; 0% instances), <tt><a href="la_perseus-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="la_perseus-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="la_perseus-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1010; 60% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (444; 26% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (149; 9% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (37; 2% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (30; 2% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (12; 1% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances),  (2; 0% instances), <tt><a href="la_perseus-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1011; 60% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (444; 26% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (149; 9% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (37; 2% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (30; 2% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (12; 1% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances),  (2; 0% instances), <tt><a href="la_perseus-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
 1660 (98%) `CCONJ` nodes are leaves.
 

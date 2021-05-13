@@ -9,8 +9,8 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-3246 tokens (13%) have a non-empty value of `Person`.
-287 types (7%) occur at least once with a non-empty value of `Person`.
+3246 tokens (14%) have a non-empty value of `Person`.
+290 types (7%) occur at least once with a non-empty value of `Person`.
 163 lemmas (4%) occur at least once with a non-empty value of `Person`.
 The feature is used with 4 part-of-speech tags: <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1602; 7% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (833; 3% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (809; 3% instances), <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (2; 0% instances).
 
@@ -72,16 +72,16 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 * `1` (146; 18% of non-empty `Person`): <em>-je, je, j', me, m', -moi, moi, nous</em>
 * `2` (23; 3% of non-empty `Person`): <em>vous, -vous</em>
-* `3` (640; 79% of non-empty `Person`): <em>-il, se, -elle, -on, y, s', -ils, il, -elles, le</em>
+* `3` (640; 79% of non-empty `Person`): <em>-t-il, se, -il, -t-elle, y, -t-on, -elle, s', -ils, -on</em>
 * `EMPTY` (849): <em>qui, qu', -ce, que, quoi, laquelle, lequel, dont, un, cela</em>
 
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>-il, il</em></td></tr>
+  <tr><td><tt><tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>-t-il, -il, il</em></td></tr>
   <tr><td><tt><tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>-ils</em></td></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>-elle, elle</em></td></tr>
+  <tr><td><tt><tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>-t-elle, -elle, elle</em></td></tr>
   <tr><td><tt><tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>-elles, elles</em></td></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>-je, je, j'</em></td><td></td><td><em>-on, on</em></td></tr>
+  <tr><td><tt><tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>-je, je, j'</em></td><td></td><td><em>-t-on, -on, on</em></td></tr>
   <tr><td><tt><tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>nous</em></td><td><em>vous, -vous</em></td><td></td></tr>
 </table>
 

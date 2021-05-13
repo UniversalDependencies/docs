@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 4	_	_	PRON	dem	PronType=Dem	7	obl	_	_
 5	_	_	ADP	post	_	4	case	_	_
 6	_	_	PART	intprt	_	4	dep:mod	_	_
-7	_	_	VERB	inact	Mood=Ind|Person[subj]=1|Subcat=Int|VerbForm=Fin	0	root	_	_
+7	_	_	VERB	inact	Mood=Ind|Person[subj]=1|Subcat=Intr|VerbForm=Fin	0	root	_	_
 8	_	_	PUNCT	punct	_	7	punct	_	_
 9	_	_	PUNCT	punct	_	13	punct	_	_
 10	_	_	X	for	_	13	dep	_	_

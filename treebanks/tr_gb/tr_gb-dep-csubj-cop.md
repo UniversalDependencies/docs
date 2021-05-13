@@ -24,7 +24,7 @@ The following 8 pairs of parts of speech are connected with `csubj:cop`: <tt><a 
 # visual-style 3 2 csubj:cop	color:blue
 1	Sorun	sorun	NOUN	_	Case=Nom|Number=Sing	2	obj	_	_
 2	yaratacağı	yarat	VERB	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3|Tense=Fut|VerbForm=Part	3	csubj:cop	_	_
-3	belli	belli	ADJ	_	Case=Nom|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+3	belli	belli	ADJ	_	_	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~

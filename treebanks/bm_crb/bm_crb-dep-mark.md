@@ -26,7 +26,7 @@ The following 6 pairs of parts of speech are connected with `mark`: <tt><a href=
 2	,	_	PUNCT	_	_	1	punct	_	_
 3	n'	_	SCONJ	_	_	6	mark	_	_
 4	a	_	PRON	_	_	6	nsubj	_	_
-5	bɛ	_	AUX	_	_	6	aux	_	_
+5	bɛ	bɛ	AUX	_	Aspect=Imp|Polarity=Pos	6	aux	_	Gloss=IPFV.AFF
 6	wele	_	VERB	_	_	11	advcl	_	_
 7	ko	_	PART	_	_	8	discourse	_	_
 8	Jaason	_	PROPN	_	_	6	parataxis:obj	_	SpaceAfter=No
@@ -59,7 +59,7 @@ The following 6 pairs of parts of speech are connected with `mark`: <tt><a href=
 12	,	,	PUNCT	_	_	9	punct	_	Gloss=,
 13	ko	kó	PART	cop	_	17	discourse	_	Gloss=
 14	aw	áw	PRON	pers	Number=Plur|Person=2|PronType=Emp	17	nsubj	_	Gloss=2PL.EMPH
-15	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	17	aux	_	Gloss=IPFV.NEG
+15	tè	tɛ	AUX	pm	Aspect=Imp|Polarity=Neg	17	aux	_	Gloss=IPFV.NEG
 16	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	17	obj	_	Gloss=3SG
 17	fa	fá	VERB	v	_	5	parataxis:obj	_	Gloss=remplir|SpaceAfter=No
 18	.	.	PUNCT	_	_	2	punct	_	Gloss=.
@@ -74,14 +74,14 @@ The following 6 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 17	fgColor:white
 # visual-style 17 11 mark	color:blue
 1	numunkè	nùmu.kɛ	NOUN	n	_	4	nsubj	_	Gloss=forgeron|Morf=forgeron,forgeron,mâle
-2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
+2	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
 3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=3SG
 4	gèn	gɛ́n	VERB	v	_	0	root	_	Gloss=chasser
-5	ka	kà	AUX	pm	_	7	aux	_	Gloss=INF
+5	ka	ka	AUX	pm	_	7	aux	_	Gloss=INF
 6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	obj	_	Gloss=3SG
 7	gèn	gɛ́n	VERB	v	_	4	xcomp	_	Gloss=chasser|SpaceAfter=No
-8	,	,	PUNCT	_	_	7	punct	_	Gloss=,
-9	ka	kà	AUX	pm	_	10	aux	_	Gloss=INF
+8	,	,	PUNCT	_	_	10	punct	_	Gloss=,
+9	ka	ka	AUX	pm	_	10	aux	_	Gloss=INF
 10	fò	fɔ́	VERB	v	_	7	xcomp	_	Gloss=dire
 11	ko	kó	PART	cop	_	17	mark	_	Gloss=
 12	:	:	PUNCT	_	_	11	punct	_	Gloss=:

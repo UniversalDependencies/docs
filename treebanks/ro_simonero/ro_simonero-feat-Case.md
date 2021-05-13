@@ -10,23 +10,23 @@ This feature is universal.
 It occurs with 5 different values: `Acc`, `Dat`, `Gen`, `Nom`, `Voc`.
 Some words have combined values of the feature; 2 combinations have been observed: `Acc|Nom`, `Dat|Gen`.
 
-64107 tokens (44%) have a non-empty value of `Case`.
-9488 types (53%) occur at least once with a non-empty value of `Case`.
-5126 lemmas (48%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (28478; 20% instances), <tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> (20077; 14% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (6955; 5% instances), <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (4199; 3% instances), <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> (4148; 3% instances), <tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (237; 0% instances), <tt><a href="ro_simonero-pos-PROPN.html">PROPN</a></tt> (13; 0% instances).
+63931 tokens (44%) have a non-empty value of `Case`.
+9392 types (52%) occur at least once with a non-empty value of `Case`.
+5092 lemmas (48%) occur at least once with a non-empty value of `Case`.
+The feature is used with 7 part-of-speech tags: <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (28429; 19% instances), <tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> (20077; 14% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (6828; 5% instances), <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (4199; 3% instances), <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> (4148; 3% instances), <tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (237; 0% instances), <tt><a href="ro_simonero-pos-PROPN.html">PROPN</a></tt> (13; 0% instances).
 
 ### `NOUN`
 
-28478 <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> tokens (67% of all `NOUN` tokens) have a non-empty value of `Case`.
+28429 <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> tokens (67% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23176; 81%), <tt><a href="ro_simonero-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (21801; 77%), <tt><a href="ro_simonero-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (20999; 74%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23175; 82%), <tt><a href="ro_simonero-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (21801; 77%), <tt><a href="ro_simonero-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (20957; 74%).
 
 `NOUN` tokens may have the following values of `Case`:
 
 * `Gen` (7796; 27% of non-empty `Case`): <em>pacienților, diabetului, insulinei, tratamentului, bolii, celulelor, glucozei, riscului, pacientului, funcției</em>
-* `Nom` (20678; 73% of non-empty `Case`): <em>pacienții, nivelul, cazul, insulină, creșterea, tratamentul, vârsta, scăderea, creștere, riscul</em>
+* `Nom` (20629; 73% of non-empty `Case`): <em>pacienții, nivelul, cazul, insulină, creșterea, tratamentul, vârsta, scăderea, creștere, riscul</em>
 * `Voc` (4; 0% of non-empty `Case`): <em>postoperator, prolactina, retinopatia, trimetorpin</em>
-* `EMPTY` (14220): <em>pacienți, ani, diabet, risc, tip, tratament, timp, studiu, cazuri, mg</em>
+* `EMPTY` (14269): <em>pacienți, ani, diabet, risc, tip, tratament, timp, studiu, cazuri, mg</em>
 
 <table>
   <tr><th>Paradigm <i>retinopatie</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th></tr>
@@ -51,22 +51,21 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 
 ### `ADJ`
 
-6955 <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> tokens (41% of all `ADJ` tokens) have a non-empty value of `Case`.
+6828 <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> tokens (40% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="ro_simonero-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (6933; 100%), <tt><a href="ro_simonero-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (6834; 98%), <tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6763; 97%), <tt><a href="ro_simonero-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (6727; 97%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="ro_simonero-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (6806; 100%), <tt><a href="ro_simonero-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (6762; 99%), <tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6726; 99%), <tt><a href="ro_simonero-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (6600; 97%).
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Gen` (1402; 20% of non-empty `Case`): <em>cardiace, ventriculare, arteriale, renale, aortice, cronice, diabetice, coronariene, orale, &b.beta;-celulare</em>
-* `Nom` (5553; 80% of non-empty `Case`): <em>mare, cardiacă, renală, cronică, crescută, severă, chirurgicală, aortică, mică, necesară</em>
-* `EMPTY` (10098): <em>vârstnici, zaharat, crescut, mici, clinice, mari, mare, important, clinic, adverse</em>
+* `Gen` (1404; 21% of non-empty `Case`): <em>cardiace, ventriculare, arteriale, renale, aortice, cronice, diabetice, coronariene, orale, &b.beta;-celulare</em>
+* `Nom` (5424; 79% of non-empty `Case`): <em>mare, cardiacă, renală, cronică, severă, chirurgicală, crescută, aortică, mică, necesară</em>
+* `EMPTY` (10224): <em>vârstnici, crescut, zaharat, mici, clinice, mare, mari, important, clinic, adverse</em>
 
 <table>
   <tr><th>Paradigm <i>mare</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ro_simonero-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Marele</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ro_simonero-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>marea</em></td><td><em>marii</em></td></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ro_simonero-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>marile</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ro_simonero-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="ro_simonero-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mare</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="ro_simonero-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mare</em></td><td><em>mari</em></td></tr>
 </table>
 
@@ -160,14 +159,14 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="ro_simonero-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5550; 54%),
-<tt>NOUN --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2483; 68%),
+<tt>NOUN --[<tt><a href="ro_simonero-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5526; 54%),
+<tt>NOUN --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2474; 68%),
 <tt>ADP --[<tt><a href="ro_simonero-dep-fixed.html">fixed</a></tt>]--> ADP</tt> (539; 100%),
-<tt>ADJ --[<tt><a href="ro_simonero-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (327; 51%),
-<tt>ADJ --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> ADJ</tt> (224; 89%),
+<tt>ADJ --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> ADJ</tt> (222; 89%),
 <tt>PRON --[<tt><a href="ro_simonero-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (85; 100%),
 <tt>NOUN --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> PRON</tt> (49; 77%),
 <tt>NOUN --[<tt><a href="ro_simonero-dep-case.html">case</a></tt>]--> NOUN</tt> (39; 65%),
 <tt>PRON --[<tt><a href="ro_simonero-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (38; 84%),
+<tt>ADJ --[<tt><a href="ro_simonero-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (21; 55%),
 <tt>NOUN --[<tt><a href="ro_simonero-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (21; 53%).
 

@@ -1,18 +1,18 @@
 ---
 layout: base
-title:  'Statistics of Tense in UD_Old_Russian-RNC'
+title:  'Statistics of Tense in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Features: `Tense`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Features: `Tense`
 
 This feature is universal.
 It occurs with 4 different values: `Fut`, `Imp`, `Past`, `Pres`.
 
-2001 tokens (7%) have a non-empty value of `Tense`.
+2000 tokens (7%) have a non-empty value of `Tense`.
 1162 types (15%) occur at least once with a non-empty value of `Tense`.
-622 lemmas (16%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1822; 6% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (178; 1% instances), <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+621 lemmas (16%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1822; 6% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (178; 1% instances).
 
 ### `VERB`
 
@@ -65,7 +65,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><td><tt><tt><a href="orv_rnc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>есте</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>суть</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>быхом</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=Short</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>сущу</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>сущу</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=PartRes</tt></tt></td><td></td><td></td><td><em>был, былъ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=PartRes</tt>|<tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>былъ, был</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=PartRes</tt></tt></td><td></td><td></td><td><em>была</em></td><td></td></tr>
@@ -86,15 +86,6 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><td><tt><tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=PartRes</tt>|<tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>были</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt>|<tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>будучи</em></td><td><em>будучи</em></td><td></td><td></td></tr>
 </table>
-
-### `SCONJ`
-
-1 <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Tense`.
-
-`SCONJ` tokens may have the following values of `Tense`:
-
-* `Fut` (1; 100% of non-empty `Tense`): <em>будет</em>
-* `EMPTY` (269): <em>что, чтобъ, яко, ино, как, буде, чтоб, чтобы, какъ, якоже</em>
 
 ## Relations with Agreement in `Tense`
 

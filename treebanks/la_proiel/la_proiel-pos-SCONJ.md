@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-PROIEL: POS Tags: `SCONJ`
 
 There are 42 `SCONJ` lemmas (0%), 48 `SCONJ` types (0%) and 6712 `SCONJ` tokens (3%).
-Out of 14 observed tags, the rank of `SCONJ` is: 8 in number of lemmas, 12 in number of types and 10 in number of tokens.
+Out of 14 observed tags, the rank of `SCONJ` is: 8 in number of lemmas, 12 in number of types and 11 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>ut, si, cum, quia, quod, ne, quoniam, nisi, dum, donec</em>
 
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>ut</em> (<tt><a href="la_proiel-pos-S
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.142857 (the average of all parts of speech is 3.418147).
+The form / lemma ratio of `SCONJ` is 1.142857 (the average of all parts of speech is 3.418760).
 
 The 1st highest number of forms (3) was observed with the lemma “ut”: <em>Vt, ut, uti</em>.
 
@@ -71,7 +71,7 @@ The 3rd highest number of forms (2) was observed with the lemma “cum”: <em>c
 
 `SCONJ` nodes are attached to their parents using 10 different relations: <tt><a href="la_proiel-dep-mark.html">mark</a></tt> (6542; 97% instances), <tt><a href="la_proiel-dep-ccomp.html">ccomp</a></tt> (96; 1% instances), <tt><a href="la_proiel-dep-advcl.html">advcl</a></tt> (33; 0% instances), <tt><a href="la_proiel-dep-advmod.html">advmod</a></tt> (15; 0% instances), <tt><a href="la_proiel-dep-csubj-pass.html">csubj:pass</a></tt> (9; 0% instances), <tt><a href="la_proiel-dep-appos.html">appos</a></tt> (5; 0% instances), <tt><a href="la_proiel-dep-fixed.html">fixed</a></tt> (5; 0% instances), <tt><a href="la_proiel-dep-conj.html">conj</a></tt> (4; 0% instances), <tt><a href="la_proiel-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="la_proiel-dep-acl.html">acl</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (5672; 85% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (325; 5% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (315; 5% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (137; 2% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (79; 1% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (62; 1% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (62; 1% instances), <tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (45; 1% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="la_proiel-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (2; 0% instances)
+Parents of `SCONJ` nodes belong to 12 different parts of speech: <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (5672; 85% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (323; 5% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (315; 5% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (137; 2% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (79; 1% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (62; 1% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (62; 1% instances), <tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (45; 1% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="la_proiel-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt> (2; 0% instances)
 
 6665 (99%) `SCONJ` nodes are leaves.
 

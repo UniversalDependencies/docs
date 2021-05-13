@@ -58,13 +58,13 @@ The following 35 pairs of parts of speech are connected with `nmod`: <tt><a href
 7	ⲕⲣⲟ	ⲕⲣⲟ	NOUN	N	_	4	obl	_	_
 8	ⲛ	ⲛ	ADP	PREP	_	10	case	_	_
 9	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	Entity=(place
-10	ⲑⲁⲗⲁⲥⲥⲁ	ⲑⲁⲗⲁⲥⲥⲁ	NOUN	N	_	7	nmod	_	Entity=place)place)
+10	ⲑⲁⲗⲁⲥⲥⲁ	ⲑⲁⲗⲁⲥⲥⲁ	NOUN	N	Foreign=Yes	7	nmod	_	Entity=place)place)|OrigLang=grc
 11	ⲉ	ⲉ	ADP	PREP	_	13	case	_	_
 12	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	Entity=(place
-13	ⲭⲱⲣⲁ	ⲭⲱⲣⲁ	NOUN	N	_	4	obl	_	_
+13	ⲭⲱⲣⲁ	ⲭⲱⲣⲁ	NOUN	N	Foreign=Yes	4	obl	_	OrigLang=grc
 14	ⲛ	ⲛ	ADP	PREP	_	16	case	_	_
 15	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	16	det	_	Entity=(person
-16	ⲅⲉⲣⲁⲥⲏⲛⲟⲥ	ⲅⲉⲣⲁⲥⲏⲛⲟⲥ	PROPN	NPROP	_	13	nmod	_	Entity=person)place)
+16	ⲅⲉⲣⲁⲥⲏⲛⲟⲥ	ⲅⲉⲣⲁⲥⲏⲛⲟⲥ	PROPN	NPROP	Foreign=Yes	13	nmod	_	Entity=person)place)|OrigLang=grc
 
 ~~~
 
@@ -80,15 +80,15 @@ The following 35 pairs of parts of speech are connected with `nmod`: <tt><a href
 3	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	6	mark	_	_
 4	ⲙⲡ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	6	aux	_	_
 5	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
-6	ⲃⲁⲡⲧⲓⲍⲉ	ⲃⲁⲡⲧⲓⲍⲉ	VERB	V	VerbForm=Fin	2	ccomp	_	_
+6	ⲃⲁⲡⲧⲓⲍⲉ	ⲃⲁⲡⲧⲓⲍⲉ	VERB	V	Foreign=Yes|VerbForm=Fin	2	ccomp	_	OrigLang=grc
 7	ⲛ	ⲛ	ADP	PREP	_	8	case	_	_
 8	ⲗⲁⲁⲩ	ⲗⲁⲁⲩ	NOUN	N	_	6	obj	_	Entity=(person
 9	ⲙⲙⲱ	ⲛ	ADP	PREP	_	10	case	_	_
 10	ⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=2|PronType=Prs	8	nmod	_	Entity=person)
 11	ⲛⲥⲁ	ⲛⲥⲁ	ADP	PREP	_	12	case	_	_
-12	ⲕⲣⲓⲥⲡⲟⲥ	ⲕⲣⲓⲥⲡⲟⲥ	PROPN	NPROP	_	6	obl	_	Entity=(person-Crispus_of_Chalcedon)
+12	ⲕⲣⲓⲥⲡⲟⲥ	ⲕⲣⲓⲥⲡⲟⲥ	PROPN	NPROP	Foreign=Yes	6	obl	_	Entity=(person-Crispus_of_Chalcedon)|OrigLang=grc
 13	ⲙⲛ	ⲙⲛ	ADP	PREP	_	14	cc	_	_
-14	ⲅⲁⲓⲟⲥ	ⲅⲁⲓⲟⲥ	PROPN	NPROP	_	12	conj	_	Entity=(person-Gaius_%28biblical_figure%29)
+14	ⲅⲁⲓⲟⲥ	ⲅⲁⲓⲟⲥ	PROPN	NPROP	Foreign=Yes	12	conj	_	Entity=(person-Gaius_%28biblical_figure%29)|OrigLang=grc
 15	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~

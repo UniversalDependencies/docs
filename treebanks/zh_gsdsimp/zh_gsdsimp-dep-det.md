@@ -33,7 +33,7 @@ The following 16 pairs of parts of speech are connected with `det`: <tt><a href=
 9	会	会	AUX	MD	_	10	aux	_	SpaceAfter=No
 10	设置	设置	VERB	VV	_	0	root	_	SpaceAfter=No
 11	昂贵	昂贵	ADJ	JJ	_	14	amod	_	SpaceAfter=No
-12	的	的	PART	DEC	_	11	mark:relcl	_	SpaceAfter=No
+12	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No
 13	音频	音频	NOUN	NN	_	14	nmod	_	SpaceAfter=No
 14	设备	设备	NOUN	NN	_	10	obj	_	SpaceAfter=No
 15	、	、	PUNCT	EC	_	17	punct	_	SpaceAfter=No
@@ -59,7 +59,7 @@ The following 16 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 3	fgColor:white
 # visual-style 3 1 det	color:blue
 1	他	他	PRON	PRP	Person=3	3	det	_	SpaceAfter=No
-2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
+2	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No
 3	哥哥	哥哥	NOUN	NN	_	9	nsubj	_	SpaceAfter=No
 4	洛马纳	洛马纳	PROPN	NNP	_	3	appos	_	SpaceAfter=No
 5	·	·	PUNCT	/	_	4	punct	_	SpaceAfter=No
@@ -94,13 +94,13 @@ The following 16 pairs of parts of speech are connected with `det`: <tt><a href=
 13	与	与	ADP	IN	_	17	det	_	SpaceAfter=No
 14	其他	其他	DET	DT	_	15	det	_	SpaceAfter=No
 15	地区	地区	NOUN	NN	_	13	nmod	_	SpaceAfter=No
-16	的	的	PART	DEC	Case=Gen	13	case:dec	_	SpaceAfter=No
+16	的	的	PART	DEC	Case=Gen	13	case	_	SpaceAfter=No
 17	交流	交流	NOUN	NN	_	19	nsubj	_	SpaceAfter=No
 18	才	才	ADV	RB	_	19	mark	_	SpaceAfter=No
 19	开始	开始	VERB	VV	_	8	parataxis	_	SpaceAfter=No
-20	变	变	AUX	VV	_	22	cop	_	SpaceAfter=No
-21	得	得	PART	DEV	_	22	mark:comp	_	SpaceAfter=No
-22	频繁	频繁	ADJ	JJ	_	19	xcomp	_	SpaceAfter=No
+20	变	变	VERB	VV	_	19	xcomp	_	SpaceAfter=No
+21	得	得	PART	DEV	_	20	compound:ext	_	SpaceAfter=No
+22	频繁	频繁	ADJ	JJ	_	20	xcomp	_	SpaceAfter=No
 23	。	。	PUNCT	.	_	8	punct	_	SpaceAfter=No
 
 ~~~

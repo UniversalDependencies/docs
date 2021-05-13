@@ -24,7 +24,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 14 15 cop	color:blue
 1	معاویه	معاویه	NOUN	N_SING	Number=Sing	2	nsubj	_	_
 2	گفت	گفت#گو	VERB	V_PA	Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
-3	:	:	PUNCT	DELM	_	2	punct	_	_
+3	:	:	PUNCT	DELM	_	14	punct	_	_
 4	چقدر	چقدر	ADV	ADV_I	PronType=Int	14	advmod	_	_
 5	در	در	ADP	P	_	6	case	_	_
 6	دل	دل	NOUN	N_SING	Number=Sing	14	nmod	_	_
@@ -32,7 +32,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 8	از	از	ADP	P	_	9	case	_	_
 9	دوستی	دوستی	NOUN	N_SING	Number=Sing	14	nmod	_	_
 10	علی	علی	NOUN	N_SING	Number=Sing	9	nmod:poss	_	SpaceAfter=No
-11	)	)	PUNCT	DELM	_	10	punct	_	_
+11	)	)	PUNCT	DELM	_	12	punct	_	_
 12	ع	ع	NOUN	N_SING	Number=Sing	10	dep	_	_
 13	(	(	PUNCT	DELM	_	10	punct	_	SpaceAfter=No
 14	باقی	باقی	NOUN	N_SING	Number=Sing	2	ccomp	_	_

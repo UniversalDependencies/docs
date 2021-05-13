@@ -49,7 +49,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 327 <tt><a href="mr_ufal-pos-PRON.html">PRON</a></tt> tokens (86% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="mr_ufal-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (326; 100%), <tt><a href="mr_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (268; 82%), <tt><a href="mr_ufal-feat-Distance.html">Distance</a></tt><tt>=Dist</tt> (184; 56%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="mr_ufal-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (326; 100%), <tt><a href="mr_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (268; 82%), <tt><a href="mr_ufal-feat-Deixis.html">Deixis</a></tt><tt>=Remt</tt> (184; 56%).
 
 `PRON` tokens may have the following values of `Person`:
 

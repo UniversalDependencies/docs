@@ -20,17 +20,17 @@ The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.htm
 
 434 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (14% of all `VERB` tokens) have a non-empty value of `Number[obj]`.
 
-The most frequent other feature values with which `VERB` and `Number[obj]` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (434; 100%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (433; 100%), <tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (429; 99%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=2</tt> (403; 93%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt> (402; 93%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (401; 92%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (356; 82%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (326; 75%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (296; 68%).
+The most frequent other feature values with which `VERB` and `Number[obj]` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (434; 100%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (433; 100%), <tt><a href="myv_jr-feat-Valency.html">Valency</a></tt><tt>=2</tt> (403; 93%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt> (402; 93%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (401; 92%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (356; 82%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (326; 75%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (296; 68%).
 
 `VERB` tokens may have the following values of `Number[obj]`:
 
 
 <table>
   <tr><th>Paradigm <i>ваномс</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Clitic.html">Clitic</a></tt><tt>=Ga</tt>|<tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Prec</tt>|<tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt></tt></td><td></td><td><em>ваныка</em></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>вансынь</em></td><td></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>Ванса</em></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>вансы</em></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Prec</tt>|<tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt></tt></td><td></td><td><em>ваныка</em></td></tr>
 </table>
 
 ### `AUX`
@@ -57,6 +57,5 @@ The most frequent other feature values with which `AUX` and `Number[obj]` co-occ
 ## Relations with Agreement in `Number[obj]`
 
 The 10 most frequent relations where parent and child node agree in `Number[obj]`:
-<tt>VERB --[<tt><a href="myv_jr-dep-compound-svc.html">compound:svc</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="myv_jr-dep-compound.html">compound</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="myv_jr-dep-compound.html">compound</a></tt>]--> VERB</tt> (2; 100%).
 

@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-PUD: POS Tags: `ADJ`
 
-There are 729 `ADJ` lemmas (14%), 729 `ADJ` types (13%) and 1540 `ADJ` tokens (7%).
+There are 727 `ADJ` lemmas (14%), 727 `ADJ` types (13%) and 1530 `ADJ` tokens (7%).
 Out of 17 observed tags, the rank of `ADJ` is: 4 in number of lemmas, 4 in number of types and 7 in number of tokens.
 
-The 10 most frequent `ADJ` lemmas: <em>new, many, more, first, other, such, last, great, high, own</em>
+The 10 most frequent `ADJ` lemmas: <em>new, many, more, other, first, such, last, high, own, several</em>
 
-The 10 most frequent `ADJ` types:  <em>new, many, more, first, other, such, last, great, high, own</em>
+The 10 most frequent `ADJ` types:  <em>new, many, more, other, first, such, last, high, own, several</em>
 
-The 10 most frequent ambiguous lemmas: <em>new</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 32, <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>more</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 29, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 19), <em>first</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 26, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 6), <em>other</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 26, <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 4), <em>such</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 20, <tt><a href="en_pud-pos-DET.html">DET</a></tt> 3), <em>last</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 19, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 4), <em>own</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 13, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 2), <em>much</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 4), <em>public</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 3), <em>south</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>new</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 32, <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>more</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 29, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 19), <em>other</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 26, <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 4), <em>first</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 25, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 6), <em>such</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 20, <tt><a href="en_pud-pos-DET.html">DET</a></tt> 3), <em>last</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 19, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 5), <em>own</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 13, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 2), <em>British</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> 3), <em>American</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> 3), <em>much</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 4)
 
-The 10 most frequent ambiguous types:  <em>more</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 25, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 18), <em>first</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 23, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 3), <em>such</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 19, <tt><a href="en_pud-pos-DET.html">DET</a></tt> 3), <em>own</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 13, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 1), <em>American</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> 2), <em>British</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> 3), <em>much</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 4), <em>public</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 3), <em>south</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>best</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 3)
+The 10 most frequent ambiguous types:  <em>more</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 25, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 18), <em>first</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 23, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 3), <em>such</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 19, <tt><a href="en_pud-pos-DET.html">DET</a></tt> 3), <em>own</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 13, <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 1), <em>British</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> 3), <em>American</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> 3), <em>much</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 4), <em>public</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 3), <em>south</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>best</em> (<tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 3)
 
 
 * <em>more</em>
@@ -30,12 +30,12 @@ The 10 most frequent ambiguous types:  <em>more</em> (<tt><a href="en_pud-pos-AD
 * <em>own</em>
   * <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 13: <em>“ Complete neglect of his <b>own</b> health , ” his wife , Alice , reported .</em>
   * <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> 1: <em>Various private interests <b>own</b> the remaining land , totaling about one percent of the state .</em>
-* <em>American</em>
-  * <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 9: <em>Throughout the war , Pearl Harbor was frequently used in <b>American</b> propaganda .</em>
-  * <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> 2: <em>" I have to congratulate Andy -- to get to No. 1 in the world that 's an incredible achievement , " the <b>American</b> said .</em>
 * <em>British</em>
   * <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 9: <em><b>British</b> cavalry troopers also received excellent mounted swordsmanship training .</em>
   * <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> 3: <em>Indians arrived from Canada , led by Joseph Brant ; they supported the <b>British</b> because the colonists were expropriating more and more of their lands .</em>
+* <em>American</em>
+  * <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 8: <em>Throughout the war , Pearl Harbor was frequently used in <b>American</b> propaganda .</em>
+  * <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> 3: <em>" I have to congratulate Andy -- to get to No. 1 in the world that 's an incredible achievement , " the <b>American</b> said .</em>
 * <em>much</em>
   * <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> 7: <em>Dündar warned Europe about having too <b>much</b> understanding for Erdogan 's course .</em>
   * <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> 4: <em>Our cellphones are so <b>much</b> more than phones these days .</em>
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>more</em> (<tt><a href="en_pud-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.000000 (the average of all parts of speech is 1.138338).
+The form / lemma ratio of `ADJ` is 1.000000 (the average of all parts of speech is 1.138758).
 
 The 1st highest number of forms (1) was observed with the lemma “13th”: <em>13th</em>.
 
@@ -60,22 +60,22 @@ The 2nd highest number of forms (1) was observed with the lemma “14th”: <em>
 
 The 3rd highest number of forms (1) was observed with the lemma “15th”: <em>15th</em>.
 
-`ADJ` occurs with 3 features: <tt><a href="en_pud-feat-Degree.html">Degree</a></tt> (1534; 100% instances), <tt><a href="en_pud-feat-NumType.html">NumType</a></tt> (56; 4% instances), <tt><a href="en_pud-feat-Number.html">Number</a></tt> (4; 0% instances)
+`ADJ` occurs with 3 features: <tt><a href="en_pud-feat-Degree.html">Degree</a></tt> (1524; 100% instances), <tt><a href="en_pud-feat-NumType.html">NumType</a></tt> (55; 4% instances), <tt><a href="en_pud-feat-Number.html">Number</a></tt> (4; 0% instances)
 
 `ADJ` occurs with 5 feature-value pairs: `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `NumType=Ord`, `Number=Sing`
 
 `ADJ` occurs with 6 feature combinations.
-The most frequent feature combination is `Degree=Pos` (1389 tokens).
-Examples: <em>new, many, other, such, last, great, high, first, own, several</em>
+The most frequent feature combination is `Degree=Pos` (1380 tokens).
+Examples: <em>new, many, other, such, last, high, own, several, first, political</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 20 different relations: <tt><a href="en_pud-dep-amod.html">amod</a></tt> (1226; 80% instances), <tt><a href="en_pud-dep-root.html">root</a></tt> (73; 5% instances), <tt><a href="en_pud-dep-xcomp.html">xcomp</a></tt> (47; 3% instances), <tt><a href="en_pud-dep-conj.html">conj</a></tt> (44; 3% instances), <tt><a href="en_pud-dep-case.html">case</a></tt> (18; 1% instances), <tt><a href="en_pud-dep-compound.html">compound</a></tt> (18; 1% instances), <tt><a href="en_pud-dep-nsubj.html">nsubj</a></tt> (15; 1% instances), <tt><a href="en_pud-dep-obl.html">obl</a></tt> (14; 1% instances), <tt><a href="en_pud-dep-ccomp.html">ccomp</a></tt> (13; 1% instances), <tt><a href="en_pud-dep-obj.html">obj</a></tt> (13; 1% instances), <tt><a href="en_pud-dep-advcl.html">advcl</a></tt> (11; 1% instances), <tt><a href="en_pud-dep-advmod.html">advmod</a></tt> (11; 1% instances), <tt><a href="en_pud-dep-acl-relcl.html">acl:relcl</a></tt> (9; 1% instances), <tt><a href="en_pud-dep-nmod.html">nmod</a></tt> (8; 1% instances), <tt><a href="en_pud-dep-acl.html">acl</a></tt> (7; 0% instances), <tt><a href="en_pud-dep-parataxis.html">parataxis</a></tt> (5; 0% instances), <tt><a href="en_pud-dep-fixed.html">fixed</a></tt> (4; 0% instances), <tt><a href="en_pud-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="en_pud-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-obl-npmod.html">obl:npmod</a></tt> (1; 0% instances)
+`ADJ` nodes are attached to their parents using 20 different relations: <tt><a href="en_pud-dep-amod.html">amod</a></tt> (1221; 80% instances), <tt><a href="en_pud-dep-root.html">root</a></tt> (73; 5% instances), <tt><a href="en_pud-dep-xcomp.html">xcomp</a></tt> (47; 3% instances), <tt><a href="en_pud-dep-conj.html">conj</a></tt> (44; 3% instances), <tt><a href="en_pud-dep-case.html">case</a></tt> (18; 1% instances), <tt><a href="en_pud-dep-nsubj.html">nsubj</a></tt> (15; 1% instances), <tt><a href="en_pud-dep-obl.html">obl</a></tt> (14; 1% instances), <tt><a href="en_pud-dep-ccomp.html">ccomp</a></tt> (13; 1% instances), <tt><a href="en_pud-dep-compound.html">compound</a></tt> (13; 1% instances), <tt><a href="en_pud-dep-obj.html">obj</a></tt> (13; 1% instances), <tt><a href="en_pud-dep-advcl.html">advcl</a></tt> (11; 1% instances), <tt><a href="en_pud-dep-advmod.html">advmod</a></tt> (11; 1% instances), <tt><a href="en_pud-dep-acl-relcl.html">acl:relcl</a></tt> (9; 1% instances), <tt><a href="en_pud-dep-nmod.html">nmod</a></tt> (8; 1% instances), <tt><a href="en_pud-dep-acl.html">acl</a></tt> (7; 0% instances), <tt><a href="en_pud-dep-parataxis.html">parataxis</a></tt> (5; 0% instances), <tt><a href="en_pud-dep-fixed.html">fixed</a></tt> (4; 0% instances), <tt><a href="en_pud-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="en_pud-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-obl-npmod.html">obl:npmod</a></tt> (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 13 different parts of speech: <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1175; 76% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (112; 7% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (101; 7% instances),  (73; 5% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (57; 4% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (12; 1% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `ADJ` nodes belong to 13 different parts of speech: <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1171; 77% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (112; 7% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (95; 6% instances),  (73; 5% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (57; 4% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (12; 1% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-X.html">X</a></tt> (1; 0% instances)
 
-1186 (77%) `ADJ` nodes are leaves.
+1176 (77%) `ADJ` nodes are leaves.
 
 148 (10%) `ADJ` nodes have one child.
 

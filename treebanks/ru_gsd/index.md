@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Ryan McDonald, Vitaly Nikolaev, Olga Lyashevskaya.
 
 Repository: [UD_Russian-GSD](https://github.com/UniversalDependencies/UD_Russian-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_gsd27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_gsd28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -191,10 +191,8 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
       <li>DET: этот, этого, свой, этом, своего, тот, каждый, весь, том, своим</li>
       <li>NOUN: года, году, лет, человек, год, км, города, г., районе, состав</li>
       <li>NUM: два, один, 2, 1, двух, одним, одного, 22, оба, 21</li>
-      <li>PART: Де</li>
       <li>PRON: он, который, его, ему, которого, него, ним, котором, им, нём</li>
       <li>PROPN: США, СССР, Александра, Владимир, Александр, Джон, КОАТУУ, Карл, Крыма, Михаил</li>
-      <li>PUNCT: -</li>
       <li>VERB-Fin: стал, получил, родился, начал, работал, окончил, участвовал, вышел, умер, писал</li>
       <li>VERB-Part: назначен, расположен, основан, награждён, назван, избран, установлен, вынужден, разработан, утверждён</li>
     </ul>
@@ -231,7 +229,6 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
       <li>NUM: один, одним, одного, двух, два, 1, двое, три, четырёх, 2</li>
       <li>PRON: который, которые, кто, которого, которых, которым, кем, которой, которая, которому</li>
       <li>PROPN: Александра, Владимир, Александр, Джон, Карл, Михаил, Сергей, Юрий, Алексей, Виктор</li>
-      <li>PUNCT: -</li>
       <li>VERB-Part: назначен, награждён, избран, вынужден, похоронен, произведён, ранен, убит, арестован, арестованы</li>
     </ul>
   </li>
@@ -246,7 +243,6 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
       <li>DET: свой, этот, свои, все, эти, каждый, такие, тот, весь, некоторые</li>
       <li>NOUN: года, году, время, области, лет, войны, реки, год, км, города</li>
       <li>NUM: 2, два, несколько, 1, 4, двух, 3, три, один, одной</li>
-      <li>PART: Де</li>
       <li>PRON: это, который, того, что, которые, тем, которой, которых, том, этом</li>
       <li>PROPN: России, США, СССР, Украины, Франции, Германии, Европы, Испании, РФ, Москве</li>
       <li>VERB-Part: расположен, основана, основан, расположена, принято, создана, расположено, назван, проведены, расположены</li>
@@ -285,10 +281,8 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
       <li>DET: этого, своей, этот, том, то, это, свою, свой, этой, этом</li>
       <li>NOUN: года, году, время, области, войны, год, реки, г., города, районе</li>
       <li>NUM: один, 1, одной, одним, одного, одна, одну, одно, одном, 21</li>
-      <li>PART: Де</li>
       <li>PRON: он, который, это, она, его, того, что, которой, тем, ему</li>
       <li>PROPN: России, СССР, Украины, Франции, Германии, Европы, Испании, РФ, Александра, Москве</li>
-      <li>PUNCT: -</li>
       <li>VERB-Fin: является, стал, составляет, может, находится, входит, получил, родился, имеет, начал</li>
       <li>VERB-Part: назначен, расположен, основана, основан, награждён, расположена, принято, создана, расположено, назван</li>
     </ul>
@@ -364,7 +358,6 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
       <li>DET: том, этом, своей, этой, своем, своих, своём, всех, этих, таком</li>
       <li>NOUN: году, районе, годах, составе, городе, начале, качестве, числе, конце, территории</li>
       <li>NUM: одной, двух, одном, 3, 50, трёх, 12, 2, 5, нескольких</li>
-      <li>PART: Де</li>
       <li>PRON: том, этом, котором, которой, ней, нём, которых, них, себе, нем</li>
       <li>PROPN: России, Москве, Франции, США, Испании, Германии, Японии, Америке, Украине, Азии</li>
       <li>VERB-Part: вышедшей, архивируемых, вмещающем, воспроизводившей, вошедших, входящем, готовящейся, дислоцированной, занимаемой, занимаемом</li>
@@ -383,7 +376,6 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
       <li>NUM: один, 1, 2, два, несколько, 4, одна, три, две, 3</li>
       <li>PRON: он, который, она, они, это, которые, что, которая, я, то</li>
       <li>PROPN: Владимир, Франция, США, Александр, Джон, Карл, Михаил, Россия, Сергей, Юрий</li>
-      <li>PUNCT: -</li>
       <li>SYM: $</li>
       <li>VERB-Part: назначен, расположен, основана, основан, награждён, расположена, принято, создана, расположено, назван</li>
     </ul>
@@ -420,7 +412,6 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
     <ul>
       <li>ADJ: старше, выше, лучше, мельче, меньше, ниже, умнее, Труднее, агрессивнее, быстрее</li>
       <li>ADV: более, менее, позже, больше, позднее, ранее, далее, чаще, раньше, выше</li>
-      <li>NUM: более, больше</li>
     </ul>
   </li>
 </ul>
@@ -430,10 +421,6 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
     <ul>
       <li>ADJ: второй, 2008, 2010, других, 2004, первый, 2012, 1, 2006, 2011</li>
       <li>ADV: так, уже, ещё, вместе, затем, впервые, здесь, очень, иногда, например</li>
-      <li>NOUN: экспедиции</li>
-      <li>NUM: немногих, 26, 46</li>
-      <li>VERB: можно, надо, Преобладающая</li>
-      <li>VERB-Part: Преобладающая</li>
     </ul>
   </li>
 </ul>
@@ -614,10 +601,7 @@ Russian Universal Dependencies Treebank annotated and converted by Google.
 <ul>
   <li>Card
     <ul>
-      <li>DET: один, одно, одного, одна</li>
       <li>NUM: 2, два, один, 1, несколько, двух, 10, 4, три, 3</li>
-      <li>PROPN: A3</li>
-      <li>SYM: $</li>
     </ul>
   </li>
 </ul>

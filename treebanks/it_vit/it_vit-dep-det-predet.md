@@ -14,7 +14,7 @@ There are also 1 other language-specific subtypes of `det`: <tt><a href="it_vit-
 359 instances of `det:predet` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.1142061281337.
 
-The following 5 pairs of parts of speech are connected with `det:predet`: <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-DET.html">DET</a></tt> (347; 97% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_vit-pos-DET.html">DET</a></tt> (6; 2% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="it_vit-pos-DET.html">DET</a></tt>-<tt><a href="it_vit-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `det:predet`: <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-DET.html">DET</a></tt> (348; 97% instances), <tt><a href="it_vit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_vit-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="it_vit-pos-DET.html">DET</a></tt>-<tt><a href="it_vit-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

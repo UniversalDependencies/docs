@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-FQB: POS Tags: `SCONJ`
 
 There are 4 `SCONJ` lemmas (0%), 5 `SCONJ` types (0%) and 180 `SCONJ` tokens (1%).
-Out of 17 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 14 in number of types and 13 in number of tokens.
+Out of 16 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 14 in number of types and 12 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>que, _, si, lorsque</em>
 
@@ -29,7 +29,7 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="fr_fqb-pos-SCO
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.250000 (the average of all parts of speech is 1.162933).
+The form / lemma ratio of `SCONJ` is 1.250000 (the average of all parts of speech is 1.163777).
 
 The 1st highest number of forms (2) was observed with the lemma “lorsque”: <em>lorsqu', lorsque</em>.
 

@@ -22,7 +22,7 @@ The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 fixed	color:blue
-1	Bu	bu	DET	DT	Definite=Def|Number=Sing|Polarity=Pos	2	det	_	_
+1	Bu	bu	DET	DT	Definite=Def|Polarity=Pos	2	det	_	_
 2	dönemde	dönem	NOUN	NN	Case=Loc|Number=Sing	17	obl	_	_
 3	Piaf	Piaf	PROPN	PROPN	Number=Sing	11	nsubj	_	Proper=True
 4	ve	ve	CCONJ	CCONJ	_	5	cc	_	_
@@ -32,7 +32,7 @@ The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href
 8	da	da	ADV	RB	_	7	fixed	_	_
 9	kulüpte	kulüp	NOUN	NN	Case=Loc|Number=Sing	6	conj	_	_
 10	şarkı	şarkı	NOUN	NN	Number=Sing	11	obj	_	_
-11	söylerken	söyle	ADV	CRB	Polarity=Pos	17	advcl	_	_
+11	söylerken	söyle	ADV	CRB	_	17	advcl	_	_
 12	Marcelle	Marcel	PROPN	PROPN	Case=Nom|Number=Sing	17	nsubj	_	Proper=True
 13	genelde	genel	ADV	RB	_	17	advmod	_	_
 14	odada	oda	NOUN	NN	Case=Loc|Number=Sing	17	obl	_	_
@@ -57,7 +57,7 @@ The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href
 5	Almanya'nın	Almanya	PROPN	PROPN	Case=Gen|Number=Sing	8	nsubj	_	Proper=True
 6	Nazi	Nazi	PROPN	PROPN	Number=Sing	7	nmod:poss	_	Proper=True
 7	rejiminden	rejim	NOUN	NN	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obl	_	_
-8	ayrılması	ayrıl	NOUN	VN	Aspect=Perf|Case=Nom|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Tense=Pres|VerbForm=Ger	9	nsubj	_	_
+8	ayrılması	ayrıl	VERB	VN	Aspect=Perf|Case=Nom|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Tense=Pres|VerbForm=Vnoun	9	nsubj	_	_
 9	gerektiğini	gerek	NOUN	VN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Polarity=Pos	10	xcomp	_	_
 10	anlıyorum	anla	VERB	VB	Aspect=Prog|Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	10	punct	_	_
@@ -79,7 +79,7 @@ The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href
 6	"	"	PUNCT	``	_	13	punct	_	SpaceAfter=No
 7	Hey	hey	INTJ	INTJ	_	13	discourse	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	7	punct	_	_
-9	bu	bu	DET	DT	Definite=Def|Number=Sing|Polarity=Pos	10	det	_	_
+9	bu	bu	DET	DT	Definite=Def|Polarity=Pos	10	det	_	_
 10	arada	ara	NOUN	NN	Case=Loc|Number=Sing	13	obl	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	10	punct	_	_
 12	bunu	bu	PRON	PRI	Case=Acc|Number=Sing|Polarity=Pos	13	obj	_	_
@@ -89,7 +89,7 @@ The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href
 16	?	?	PUNCT	.	_	13	punct	_	SpaceAfter=No
 17	"	"	PUNCT	''	_	13	punct	_	_
 18	gibi	gibi	ADP	IN	_	13	case	_	_
-19	bir	bir	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	20	det	_	_
+19	bir	bir	DET	DT	Definite=Ind|Polarity=Pos	20	det	_	_
 20	şey	şey	NOUN	NN	Number=Sing	21	obj	_	_
 21	söyledi	söyle	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	22	ccomp	_	_
 22	diyor	de	VERB	VB	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_

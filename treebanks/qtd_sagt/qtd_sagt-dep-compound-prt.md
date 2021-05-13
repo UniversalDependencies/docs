@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="qtd_sagt-dep-compound.html">compound</a></tt>.
 There are also 2 other language-specific subtypes of `compound`: <tt><a href="qtd_sagt-dep-compound-lvc.html">compound:lvc</a></tt>, <tt><a href="qtd_sagt-dep-compound-redup.html">compound:redup</a></tt>.
 
-80 nodes (0%) are attached to their parents as `compound:prt`.
+87 nodes (0%) are attached to their parents as `compound:prt`.
 
-76 instances of `compound:prt` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.0625.
+83 instances of `compound:prt` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.03448275862069.
 
-The following 8 pairs of parts of speech are connected with `compound:prt`: <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (43; 54% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (20; 25% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-PART.html">PART</a></tt> (12; 15% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `compound:prt`: <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (48; 55% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (20; 23% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-PART.html">PART</a></tt> (14; 16% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -72,7 +72,7 @@ The following 8 pairs of parts of speech are connected with `compound:prt`: <tt>
 7	değil	değil	PART	_	_	2	parataxis:discourse	_	LangID=TR
 8	mi	mi	AUX	_	Number=Sing|Person=3	7	aux:q	_	LangID=TR
 9	an	an	ADP	_	_	11	case	_	LangID=DE
-10	dem	der	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	11	det	_	LangID=DE
+10	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	LangID=DE
 11	IMS	IMS	PROPN	_	Case=Dat|Gender=Neut|Number=Sing	3	nmod	_	LangID=DE|SpaceAfter=No
 12	,	,	PUNCT	_	_	14	punct	_	LangID=OTHER
 13	ich	ich	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	LangID=DE

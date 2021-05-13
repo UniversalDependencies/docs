@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 flat:name	color:blue
-1	Elle	il	PRON	PRP	Gender=Fem|Number=Sing|Person=3	3	nsubj	_	wordform=elle
+1	Elle	il	PRON	PRP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	wordform=elle
 2	a	avoir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
 3	parlé	parler	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	de	de	ADP	IN	_	6	case	_	_
@@ -57,12 +57,12 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 12	dernières	dernier	ADJ	JJ	Gender=Fem|Number=Plur	13	amod	_	_
 13	années	année	NOUN	NN	Gender=Fem|Number=Plur	8	obl:mod	_	SpaceAfter=No
 14	,	,	PUNCT	,	_	13	punct	_	_
-15	des	un	DET	DT	Gender=Fem|Number=Plur	16	det	_	_
+15	des	un	DET	DT	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
 16	relations	relation	NOUN	NN	Gender=Fem|Number=Plur	8	obj	_	_
 17	moins	moins	ADV	RBR	_	18	advmod	_	_
 18	reluisantes	reluisant	ADJ	JJ	Gender=Fem|Number=Plur	16	amod	_	_
 19	avec	avec	ADP	IN	_	21	case	_	_
-20	le	le	DET	DT	Gender=Masc|Number=Sing	21	det	_	_
+20	le	le	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	continent	continent	NOUN	NN	Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
 22	.	.	PUNCT	.	_	8	punct	_	_
 

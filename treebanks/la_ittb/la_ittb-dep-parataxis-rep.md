@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `parataxis:rep`: <tt
 1	apostolus	apostolus	NOUN	B1|grn1|casA|gen1	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 2	dicit	dico	VERB	N3|modA|tem1|gen6	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	Punc	_	4	punct	_	_
-4	hebr.	uox	ADV	5	Abbr=Yes	2	advmod	_	_
+4	hebr.	hebr.	ADV	5	Abbr=Yes	2	advmod	_	_
 5	2-11	2-11	NUM	G5	NumForm=Reference	4	nummod	_	_
 6	qui	qui	PRON	F1|grn1|casA|gen1	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	22	nsubj	_	_
 7	sanctificat	sanctifico	VERB	J3|modA|tem1|gen6	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	SpaceAfter=No

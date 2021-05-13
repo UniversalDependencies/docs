@@ -36,7 +36,7 @@ The following 6 pairs of parts of speech are connected with `parataxis:rep`: <tt
 12	_	_	ADV	dem	_	15	advmod	_	_
 13	_	_	PART	discprt	_	12	dep:mod	_	_
 14	_	_	PRON	pro	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
-15	_	_	VERB	vi:a	Mood=Ind|Person[subj]=1|Subcat=Int|VerbForm=Fin	7	parataxis:rep	_	_
+15	_	_	VERB	vi:a	Mood=Ind|Person[subj]=1|Subcat=Intr|VerbForm=Fin	7	parataxis:rep	_	_
 16	_	_	PART	aspprt	_	15	dep:mod	_	_
 17	_	_	NOUN	n	_	15	obl	_	_
 18	_	_	ADP	post	_	17	case	_	_
@@ -68,7 +68,7 @@ The following 6 pairs of parts of speech are connected with `parataxis:rep`: <tt
 13	_	_	PART	discprt	_	12	dep:mod	_	_
 14	_	_	PART	illocprt	_	12	dep:mod	_	_
 15	_	_	NOUN	n	_	18	nsubj	_	_
-16	_	_	VERB	inact	Mood=Ind|Subcat=Int|VerbForm=Inf	15	acl	_	_
+16	_	_	VERB	inact	Mood=Ind|Subcat=Intr|VerbForm=Inf	15	acl	_	_
 17	_	_	SCONJ	rel	_	16	mark	_	_
 18	_	_	VERB	vt	Mood=Ind|Subcat=Tran|VerbForm=Inf	0	root	_	_
 19	_	_	NOUN	n	_	18	obl	_	_
@@ -100,7 +100,7 @@ The following 6 pairs of parts of speech are connected with `parataxis:rep`: <tt
 9	_	_	VERB	vpos	Polarity=Neg|VerbForm=Post	8	compound:svc	_	_
 10	_	_	PART	illocprt	_	8	dep:mod	_	_
 11	_	_	PUNCT	punct	_	12	punct	_	_
-12	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	8	conj	_	_
+12	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	8	conj	_	_
 13	_	_	PART	focprt	_	12	dep:mod	_	_
 14	_	_	PUNCT	punct	_	8	punct	_	_
 

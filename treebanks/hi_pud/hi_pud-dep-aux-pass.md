@@ -88,7 +88,7 @@ The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 15	की	_	ADP	IN	Case=Gen|Gender=Fem	14	case	_	Translit=kī
 16	गुंजाइश	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	19	obj	_	Translit=guṁjāiśa
 17	को	_	ADP	IN	Case=Acc	16	case	_	Translit=ko
-18	सीमित	_	ADJ	JJ	_	19	compound:conjv	_	Translit=sīmita
+18	सीमित	_	ADJ	JJ	_	19	compound:lvc	_	Translit=sīmita
 19	करने	_	VERB	VINF	VerbForm=Inf	22	xcomp	_	Translit=karane
 20	के	_	ADP	IN	Case=Gen|Gender=Masc|Number=Plur	19	case	_	Translit=ke
 21	संभावित	_	ADJ	JJ	_	22	amod	_	Translit=saṁbhāvita
@@ -109,7 +109,7 @@ The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 36	वास्तविक	_	ADJ	JJ	_	37	amod	_	Translit=vāstavika
 37	रूप	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	40	obl	_	Translit=rūpa
 38	से	_	ADP	IN	Case=Acc	37	case	_	Translit=se
-39	शामिल	_	ADJ	JJ	_	40	compound:conjv	_	Translit=śāmila
+39	शामिल	_	ADJ	JJ	_	40	compound:lvc	_	Translit=śāmila
 40	हैं	_	VERB	VBI	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres	11	acl:relcl	_	SpaceAfter=No|Translit=haiṁ
 41	।	_	PUNCT	.	_	29	punct	_	SpaceAfter=No|Translit=.
 42	”	_	PUNCT	``	_	29	punct	_	Translit=”

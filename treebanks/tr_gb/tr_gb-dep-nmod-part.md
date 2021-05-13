@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Turkish-GB: Relations: `nmod:part`
 
 This relation is a language-specific subtype of <tt><a href="tr_gb-dep-nmod.html">nmod</a></tt>.
-There are also 2 other language-specific subtypes of `nmod`: <tt><a href="tr_gb-dep-nmod-comp.html">nmod:comp</a></tt>, <tt><a href="tr_gb-dep-nmod-tmod.html">nmod:tmod</a></tt>.
+There are also 1 other language-specific subtypes of `nmod`: <tt><a href="tr_gb-dep-nmod-comp.html">nmod:comp</a></tt>.
 
 62 nodes (0%) are attached to their parents as `nmod:part`.
 

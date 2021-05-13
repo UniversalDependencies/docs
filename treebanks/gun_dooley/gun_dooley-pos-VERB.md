@@ -48,10 +48,10 @@ The 3rd highest number of forms (1) was observed with the lemma “_”: <em>_</
 
 `VERB` occurs with 10 features: <tt><a href="gun_dooley-feat-VerbForm.html">VerbForm</a></tt> (2409; 100% instances), <tt><a href="gun_dooley-feat-Mood.html">Mood</a></tt> (2351; 98% instances), <tt><a href="gun_dooley-feat-Subcat.html">Subcat</a></tt> (2163; 90% instances), <tt><a href="gun_dooley-feat-Person-subj.html">Person[subj]</a></tt> (1638; 68% instances), <tt><a href="gun_dooley-feat-Person.html">Person</a></tt> (168; 7% instances), <tt><a href="gun_dooley-feat-Polarity.html">Polarity</a></tt> (104; 4% instances), <tt><a href="gun_dooley-feat-Clusivity-subj.html">Clusivity[subj]</a></tt> (40; 2% instances), <tt><a href="gun_dooley-feat-Person-obj.html">Person[obj]</a></tt> (28; 1% instances), <tt><a href="gun_dooley-feat-Clusivity-obj.html">Clusivity[obj]</a></tt> (5; 0% instances), <tt><a href="gun_dooley-feat-Clusivity.html">Clusivity</a></tt> (1; 0% instances)
 
-`VERB` occurs with 29 feature-value pairs: `Clusivity=Ex`, `Clusivity[obj]=Ex`, `Clusivity[obj]=In`, `Clusivity[subj]=Ex`, `Clusivity[subj]=In`, `Mood=Des`, `Mood=Imp`, `Mood=Ind`, `Person=1`, `Person=2`, `Person=3`, `Person[obj]=1`, `Person[obj]=2`, `Person[obj]=3`, `Person[subj]=1`, `Person[subj]=2`, `Person[subj]=3`, `Polarity=Neg`, `Subcat=Ditran`, `Subcat=Int`, `Subcat=IntInd`, `Subcat=Tran`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `VerbForm=Post`, `VerbForm=Prov`, `VerbForm=Ser`, `VerbForm=Vnoun`
+`VERB` occurs with 29 feature-value pairs: `Clusivity=Ex`, `Clusivity[obj]=Ex`, `Clusivity[obj]=In`, `Clusivity[subj]=Ex`, `Clusivity[subj]=In`, `Mood=Des`, `Mood=Imp`, `Mood=Ind`, `Person=1`, `Person=2`, `Person=3`, `Person[obj]=1`, `Person[obj]=2`, `Person[obj]=3`, `Person[subj]=1`, `Person[subj]=2`, `Person[subj]=3`, `Polarity=Neg`, `Subcat=Ditr`, `Subcat=Indir`, `Subcat=Intr`, `Subcat=Tran`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `VerbForm=Post`, `VerbForm=Prov`, `VerbForm=Ser`, `VerbForm=Vnoun`
 
 `VERB` occurs with 65 feature combinations.
-The most frequent feature combination is `Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin` (657 tokens).
+The most frequent feature combination is `Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin` (657 tokens).
 Examples: <em>_, huũ, ikuai, oi, ojae'o, ojapyxaka, onhemondyi, oo, oporaei</em>
 
 

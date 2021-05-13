@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Clf`.
 
-271 tokens (3%) have a non-empty value of `NounType`.
+270 tokens (3%) have a non-empty value of `NounType`.
 59 types (4%) occur at least once with a non-empty value of `NounType`.
 1 lemmas (0) occur at least once with a non-empty value of `NounType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (270; 3% instances), <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (270; 3% instances).
 
 ### `NOUN`
 
@@ -21,14 +21,6 @@ The feature is used with 2 part-of-speech tags: <tt><a href="zh_hk-pos-NOUN.html
 `NOUN` tokens may have the following values of `NounType`:
 
 * `Clf` (270; 100% of non-empty `NounType`): 個、 位、 元、 條、 塊、 次、 天、 點、 分鐘、 張
-
-### `ADV`
-
-1 <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `NounType`.
-
-`ADV` tokens may have the following values of `NounType`:
-
-* `Clf` (1; 100% of non-empty `NounType`): 些
 
 ## Relations with Agreement in `NounType`
 

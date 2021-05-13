@@ -1,24 +1,24 @@
 ---
 layout: base
-title:  'Statistics of Mood in UD_Old_Russian-TOROT'
+title:  'Statistics of Mood in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Features: `Mood`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Features: `Mood`
 
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Ind`.
 
 18159 tokens (12%) have a non-empty value of `Mood`.
 6372 types (20%) occur at least once with a non-empty value of `Mood`.
-1940 lemmas (22%) occur at least once with a non-empty value of `Mood`.
+1939 lemmas (21%) occur at least once with a non-empty value of `Mood`.
 The feature is used with 2 part-of-speech tags: <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> (15476; 10% instances), <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> (2683; 2% instances).
 
 ### `VERB`
 
 15476 <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> tokens (61% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (15476; 100%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (15476; 100%), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (15476; 100%), <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15476; 100%), <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (15476; 100%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt> (12491; 81%), <tt><a href="orv_torot-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (10654; 69%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9495; 61%), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (9264; 60%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (15476; 100%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (15476; 100%), <tt><a href="orv_torot-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (15476; 100%), <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15476; 100%), <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (15476; 100%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt> (12491; 81%), <tt><a href="orv_torot-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (10654; 69%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9495; 61%), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (9264; 60%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 2683 <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> tokens (82% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2683; 100%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2683; 100%), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (2683; 100%), <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2683; 100%), <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2683; 100%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt> (2171; 81%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2142; 80%), <tt><a href="orv_torot-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1435; 53%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2683; 100%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2683; 100%), <tt><a href="orv_torot-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (2683; 100%), <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2683; 100%), <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2683; 100%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt> (2171; 81%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2142; 80%), <tt><a href="orv_torot-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1435; 53%).
 
 `AUX` tokens may have the following values of `Mood`:
 
@@ -71,10 +71,13 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
   <tr><td><tt><tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="orv_torot-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>быхом, быхомъ, бꙑхомъ, бѧхом</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="orv_torot-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>бысте, бѣсте</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="orv_torot-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>быша, бꙑша, ша</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="orv_torot-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="orv_torot-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>нѣсмь</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="orv_torot-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>буду, бѹдѹ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="orv_torot-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>есми, ѥсмь, есмь, ѥсмъ, есмъ, есемо, емь, ес, есмо, есьмъ, есьмь</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="orv_torot-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="orv_torot-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>нѣси</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="orv_torot-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>будеши, бѹдеши, будешь, бѹдеш]и, бѹдьше</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="orv_torot-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ѥси, еси, е[с]и, ес, си</em></td><td><em>бѹди, буди, бꙋди</em></td></tr>
+  <tr><td><tt><tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="orv_torot-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="orv_torot-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>нѣс, нѣсть</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="orv_torot-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>будеть, бѹдеть, будет, боудет, боудеть, буде, будетъ, бѹдет, бѹде, боудетъ, будет҃, будьть, бꙋд[е, бꙋдет</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="orv_torot-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>есть, ѥсть, ес, єс, ѥ, е, есте, є, єс҃, етсь</em></td><td><em>буди, бѹди, буд, ест</em></td></tr>
   <tr><td><tt><tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="orv_torot-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>будевѣ, бѹдевѣ</em></td><td></td></tr>

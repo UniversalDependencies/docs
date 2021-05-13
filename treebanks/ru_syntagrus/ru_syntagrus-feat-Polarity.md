@@ -21,7 +21,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="ru_syntagrus-pos-PA
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (266; 100% of non-empty `Polarity`): <em>не, ни, нет, нет-нет</em>
-* `EMPTY` (33585): <em>не, и, же, только, даже, вот, ли, лишь, именно, просто</em>
+* `EMPTY` (33569): <em>не, и, же, только, даже, вот, ли, лишь, именно, просто</em>
 
 ### `ADV`
 

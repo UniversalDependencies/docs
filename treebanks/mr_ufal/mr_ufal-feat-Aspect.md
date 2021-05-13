@@ -30,7 +30,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 <table>
   <tr><th>Paradigm <i>करणे</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th><th><tt>Hab</tt></th><th><tt>Prosp</tt></th></tr>
-  <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Obl</tt>|<tt><a href="mr_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>_</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Abs</tt>|<tt><a href="mr_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>_</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="mr_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="mr_ufal-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="mr_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>केला</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="mr_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="mr_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>करणारा</em></td><td></td></tr>
   <tr><td><tt><tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="mr_ufal-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="mr_ufal-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="mr_ufal-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>केलेले</em></td><td></td><td></td></tr>

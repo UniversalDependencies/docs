@@ -120,7 +120,7 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 
 14 <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> tokens (5% of all `NUM` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `NUM` and `Polarity` co-occurred: <tt><a href="ta_ttb-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (9; 64%), <tt><a href="ta_ttb-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (9; 64%).
+The most frequent other feature values with which `NUM` and `Polarity` co-occurred: <tt><a href="ta_ttb-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (14; 100%), <tt><a href="ta_ttb-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (9; 64%).
 
 `NUM` tokens may have the following values of `Polarity`:
 

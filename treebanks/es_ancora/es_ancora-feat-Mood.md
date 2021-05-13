@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 
-43144 tokens (8%) have a non-empty value of `Mood`.
+43152 tokens (8%) have a non-empty value of `Mood`.
 7600 types (20%) occur at least once with a non-empty value of `Mood`.
 1917 lemmas (7%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (30189; 5% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (12955; 2% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (30197; 5% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (12955; 2% instances).
 
 ### `VERB`
 
-30189 <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> tokens (64% of all `VERB` tokens) have a non-empty value of `Mood`.
+30197 <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> tokens (64% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (30189; 100%), <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (28388; 94%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (22620; 75%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (30197; 100%), <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (28396; 94%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (22628; 75%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (397; 1% of non-empty `Mood`): <em>tendría, haría, gustaría, supondría, diría, permitiría, tendrían, llegaría, trataría, daría</em>
 * `Imp` (298; 1% of non-empty `Mood`): <em>mira, añade, afirma, asegura, lean, vaya, vea, apunta, deje, figura</em>
-* `Ind` (27387; 91% of non-empty `Mood`): <em>tiene, dijo, hace, tienen, aseguró, explicó, afirmó, hizo, señaló, anunció</em>
+* `Ind` (27395; 91% of non-empty `Mood`): <em>tiene, dijo, hace, tienen, aseguró, explicó, afirmó, hizo, señaló, anunció</em>
 * `Sub` (2107; 7% of non-empty `Mood`): <em>tenga, haga, permita, tengan, hagan, hiciera, llegue, dé, diera, quede</em>
 * `EMPTY` (16998): <em>hacer, dar, tener, ganar, hecho, ver, poner, decir, evitar, conseguir</em>
 
@@ -93,14 +93,14 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> VERB</tt> (2426; 72%),
-<tt>VERB --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (223; 77%),
-<tt>VERB --[<tt><a href="es_ancora-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (107; 59%),
+<tt>VERB --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> VERB</tt> (2428; 72%),
+<tt>VERB --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (222; 77%),
+<tt>VERB --[<tt><a href="es_ancora-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (108; 59%),
 <tt>AUX --[<tt><a href="es_ancora-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (79; 53%),
 <tt>VERB --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> AUX</tt> (60; 70%),
 <tt>AUX --[<tt><a href="es_ancora-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (58; 57%),
 <tt>AUX --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> AUX</tt> (21; 78%),
-<tt>VERB --[<tt><a href="es_ancora-dep-compound.html">compound</a></tt>]--> VERB</tt> (12; 100%),
+<tt>VERB --[<tt><a href="es_ancora-dep-compound.html">compound</a></tt>]--> VERB</tt> (12; 92%),
 <tt>AUX --[<tt><a href="es_ancora-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (11; 79%),
 <tt>AUX --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (11; 73%).
 

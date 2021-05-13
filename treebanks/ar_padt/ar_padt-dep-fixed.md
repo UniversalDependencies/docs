@@ -67,7 +67,7 @@ The following 43 pairs of parts of speech are connected with `fixed`: <tt><a hre
 3	أن	أَنَّ	SCONJ	C---------	_	6	mark	6:mark	Vform=أَنَّ|Gloss=that|Root='_n|Translit=ʾanna|LTranslit=ʾanna
 4	ه	هُوَ	PRON	SP---3MS4-	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	fixed	3:fixed	Vform=هُ|Gloss=he,she,it|Translit=hu|LTranslit=huwa
 5	من	مِن	ADP	P---------	AdpType=Prep	6	case	6:case	Vform=مِن|Gloss=from|Root=min|Translit=min|LTranslit=min
-6	السابق	سَابِق	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	obl	2:obl:مِن_أَنَّ_هُوَ:gen	Vform=اَلسَّابِقِ|Gloss=former,previous,preceding,early|Root=s_b_q|Translit=as-sābiqi|LTranslit=sābiq
+6	السابق	سَابِق	ADJ	A-----MS2D	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	obl	2:obl:أَنَّ_هُوَ_مِن:gen	Vform=اَلسَّابِقِ|Gloss=former,previous,preceding,early|Root=s_b_q|Translit=as-sābiqi|LTranslit=sābiq
 7	ل	لِ	ADP	P---------	AdpType=Prep	8	case	8:case	Vform=لِ|Gloss=for,to|Root=l|Translit=li|LTranslit=li
 8	أوان	أَوَان	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	6	obl	6:obl:لِ:gen	Vform=أَوَانِ|Gloss=time,moment|Root='_w_n|Translit=ʾawāni|LTranslit=ʾawān
 9	ه	هُوَ	PRON	SP---3MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nmod	8:nmod:gen	Vform=هِ|Gloss=he,she,it|Translit=hi|LTranslit=huwa

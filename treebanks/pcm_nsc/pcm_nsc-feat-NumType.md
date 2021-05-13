@@ -32,7 +32,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="pcm_nsc-pos-NUM.htm
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (108; 100% of non-empty `NumType`): <em>first, second, third, fourth, eleventh, tenth, eighteenth, fifth, twenty-fourth</em>
-* `EMPTY` (3503): <em>small, own, good, kind, different, better, many, big, plenty, last</em>
+* `EMPTY` (3498): <em>small, own, good, kind, different, better, many, big, plenty, last</em>
 
 ### `NOUN`
 
@@ -43,7 +43,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Card` (13; 100% of non-empty `NumType`): <em>one, sixteen</em>
-* `EMPTY` (14753): <em>people, one, money, ting, school, time, man, person, house, work</em>
+* `EMPTY` (14752): <em>people, one, money, ting, school, time, man, person, house, work</em>
 
 ### `X`
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `X` tokens may have the following values of `NumType`:
 
 * `Card` (1; 100% of non-empty `NumType`): <em>thou~</em>
-* `EMPTY` (40171): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
+* `EMPTY` (40275): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
 
 ## Relations with Agreement in `NumType`
 

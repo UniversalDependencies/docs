@@ -43,7 +43,7 @@ The following 7 pairs of parts of speech are connected with `advmod`: <tt><a hre
 # visual-style 10	fgColor:white
 # visual-style 10 8 advmod	color:blue
 1	Сэсся	сэсся	ADV	Adv	_	2	advmod	_	GTtags=Adv
-2	петкӧтіс	петкӧтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=2	0	root	_	GTtags=V,TV,Ind,Prt1,Sg3
+2	петкӧтіс	петкӧтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=V,TV,Ind,Prt1,Sg3
 3	гидсис	гид	NOUN	N	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obl	_	GTtags=N,Sg,Ela,PxSg3
 4	сісь	сісь	ADJ	N	Animacy=Inan|Case=Nom|Number=Sing	5	amod	_	GTtags=N,Sem/Inanim,Sg,Nom
 5	пӧв	пӧв	NOUN	N	Case=Nom|Number=Sing	6	nmod	_	GTtags=N,Sg,Nom
@@ -53,7 +53,7 @@ The following 7 pairs of parts of speech are connected with `advmod`: <tt><a hre
 9	бырӧм	бырны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	10	acl	_	GTtags=A,Prc
 10	отопки	отопки	NOUN	N	Case=Nom|Number=Sing	6	conj	_	GTtags=N,Sg,Nom|SpaceAfter=No
 11	,	,	PUNCT	CLB	_	12	punct	_	GTtags=CLB
-12	ӧзтіс	ӧзтыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	2	conj	_	GTtags=V,IV,Ind,Prt1,Sg3
+12	ӧзтіс	ӧзтыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=V,IV,Ind,Prt1,Sg3
 13	кыдззез	кыдз	NOUN	N	Case=Nom|Number=Plur	14	nmod	_	GTtags=N,Pl,Nom
 14	увтӧ	увт	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	12	obl:lmod	_	GTtags=N,Sg,Nom,PxSg1
 15	би	би	NOUN	N	Case=Nom|Number=Sing	12	obj	_	GTtags=N,Sg,Nom|SpaceAfter=No
@@ -69,13 +69,13 @@ The following 7 pairs of parts of speech are connected with `advmod`: <tt><a hre
 # visual-style 3	fgColor:white
 # visual-style 3 1 advmod	color:blue
 1	Только	только	ADV	_	_	3	advmod	_	_
-2	ылын	ылын	ADV	_	AdvType=Loc|Case=Ine	3	advmod:lmod	_	GTtags=Spat,Ine
+2	ылын	ыв	NOUN	N	Case=Ine|NounType=Relat	3	obl:lmod	_	GTtags=Spat,Ine
 3	веськытлань	веськыт	ADJ	_	Case=Apr|Number=Sing	9	obl:lmod	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	6	punct	_	_
 5	самӧй	самӧй	ADV	_	_	6	advmod	_	_
-6	горизонт	горизонт	NOUN	_	Case=Nom|Number=Sing	3	appos	_	GTtags=Sg,Nom
-7	вылын	вылын	ADP	_	AdpType=Post|AdvType=Loc|Case=Ine|Number=Sing	6	case	_	SpaceAfter=No
-8	,	,	PUNCT	CLB	_	6	punct	_	_
+6	горизонт	горизонт	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	GTtags=Sg,Nom
+7	вылын	выв	NOUN	N	Case=Ine|NounType=Relat|Number=Sing	3	appos	_	SpaceAfter=No
+8	,	,	PUNCT	CLB	_	7	punct	_	_
 9	лэбтіcиcӧ	лэбтіcьны	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Pl3
 10	кык	кык	NUM	_	Case=Nom|Number=Sing|NumType=Card	13	nummod	_	GTtags=Card,Sg,Nom
 11	ыджыт	ыджыт	ADJ	_	Case=Nom|Number=Sing	13	amod	_	GTtags=Sg,Nom

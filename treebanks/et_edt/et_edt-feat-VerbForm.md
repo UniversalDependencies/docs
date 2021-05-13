@@ -176,7 +176,7 @@ The most frequent other feature values with which `PROPN` and `VerbForm` co-occu
 `ADV` tokens may have the following values of `VerbForm`:
 
 * `Part` (2; 100% of non-empty `VerbForm`): <em>märgatavamalt, väidetavasti</em>
-* `EMPTY` (42041): <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, mitte</em>
+* `EMPTY` (42042): <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, mitte</em>
 
 ## Relations with Agreement in `VerbForm`
 

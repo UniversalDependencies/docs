@@ -46,7 +46,7 @@ The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href
 5	ชาย	_	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 6	และ	_	CCONJ	CC	_	7	cc	_	SpaceAfter=No
 7	หญิง	_	NOUN	NN	_	5	conj	_	SpaceAfter=No
-8	ต่าง	_	PRON	PRP	Person=3	11	advmod	_	SpaceAfter=No
+8	ต่าง	_	PRON	PRP	Person=3	11	obl	_	SpaceAfter=No
 9	ก็	_	ADV	RB	_	11	advmod	_	SpaceAfter=No
 10	เป็น	_	AUX	VC	_	11	cop	_	SpaceAfter=No
 11	นัก	_	NOUN	NN	_	0	root	_	SpaceAfter=No
@@ -56,7 +56,7 @@ The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href
 15	และ	_	CCONJ	CC	_	21	cc	_	SpaceAfter=No
 16	การทำ	_	VERB	VV	_	21	csubj	_	SpaceAfter=No
 17	ดนตรี	_	NOUN	NN	_	16	obj	_	SpaceAfter=No
-18	ส่วน	_	NOUN	NN	_	21	advmod	_	SpaceAfter=No
+18	ส่วน	_	NOUN	NN	_	21	obl	_	SpaceAfter=No
 19	ใหญ่	_	ADJ	JJ	_	18	amod	_	SpaceAfter=No
 20	เป็น	_	AUX	VC	_	21	cop	_	SpaceAfter=No
 21	กิจกรรม	_	NOUN	NN	_	11	conj	_	SpaceAfter=No
@@ -109,7 +109,7 @@ The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href
 35	ตี	_	VERB	VV	_	33	xcomp	_	SpaceAfter=No
 36	หัว	_	NOUN	NN	_	35	obj	_	SpaceAfter=No
 37	มิ	_	PART	NEG	Polarity=Neg	38	advmod	_	SpaceAfter=No
-38	ได้	_	PART	AS	Aspect=Perf	39	aux	_	SpaceAfter=No
+38	ได้	_	AUX	AS	Aspect=Perf	39	aux	_	SpaceAfter=No
 39	เป็น	_	VERB	VC	_	22	conj	_	SpaceAfter=No
 40	เช่น	_	ADP	IN	_	41	case	_	SpaceAfter=No
 41	นั้น	_	PRON	PRD	_	39	obl	_	_

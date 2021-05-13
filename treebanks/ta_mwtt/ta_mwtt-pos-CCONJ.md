@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.732535).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.743028).
 
 The 1st highest number of forms (1) was observed with the lemma “அல்லது”: அல்லது.
 
@@ -32,7 +32,7 @@ The 1st highest number of forms (1) was observed with the lemma “அல்ல�
 
 `CCONJ` nodes are attached to their parents using 1 different relations: <tt><a href="ta_mwtt-dep-cc.html">cc</a></tt> (1; 100% instances)
 
-Parents of `CCONJ` nodes belong to 1 different parts of speech: <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (1; 100% instances)
+Parents of `CCONJ` nodes belong to 1 different parts of speech: <tt><a href="ta_mwtt-pos-PROPN.html">PROPN</a></tt> (1; 100% instances)
 
 1 (100%) `CCONJ` nodes are leaves.
 

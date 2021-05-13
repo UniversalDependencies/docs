@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-173 nodes (1%) are attached to their parents as `xcomp`.
+172 nodes (1%) are attached to their parents as `xcomp`.
 
-172 instances of `xcomp` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.30057803468208.
+172 instances of `xcomp` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.30813953488372.
 
-The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (99; 57% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (51; 29% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (9; 5% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (6; 3% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (98; 57% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (51; 30% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (9; 5% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (6; 3% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -32,7 +32,7 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 8	यह	_	PRON	PDEM	Number=Sing	15	nsubj	_	Translit=yaha
 9	हमारे	_	PRON	PRP	Animacy=Anim|Case=Acc|Number=Plur|Person=1	15	iobj	_	Translit=hamāre
 10	लिए	_	ADP	IN	_	9	case	_	Translit=lie
-11	आगे	_	NOUN	NST	_	12	compound:conjv	_	Translit=āge
+11	आगे	_	NOUN	NST	_	12	compound:lvc	_	Translit=āge
 12	बढ़ने	_	VERB	VINF	VerbForm=Inf	14	xcomp	_	Translit=baṛhane
 13	का	_	ADP	IN	Case=Gen|Gender=Masc|Number=Sing	12	case	_	Translit=kā
 14	अवसर	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	obj	_	Translit=avasara
@@ -54,7 +54,7 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 4	महिला	_	NOUN	NN	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	8	nsubj	_	Translit=mahilā
 5	ने	_	ADP	IN	Case=Erg	4	case	_	Translit=ne
 6	रोना	_	VERB	VINF	VerbForm=Inf	8	xcomp	_	Translit=ronā
-7	शुरू	_	NOUN	NN	Gender=Masc|Number=Sing	8	compound:conjv	_	Translit=śurū
+7	शुरू	_	NOUN	NN	Gender=Masc|Number=Sing	8	compound:lvc	_	Translit=śurū
 8	किया	_	VERB	VBI	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No|Bug=multi-subj|Translit=kiyā
 9	,	_	PUNCT	,	_	10	punct	_	Translit=,
 10	फिर	_	ADV	RB	_	8	advmod	_	Translit=phira

@@ -12,7 +12,7 @@ Some words have combined values of the feature; 1 combinations have been observe
 
 40821 tokens (8%) have a non-empty value of `PronType`.
 721 types (1%) occur at least once with a non-empty value of `PronType`.
-136 lemmas (0%) occur at least once with a non-empty value of `PronType`.
+139 lemmas (0%) occur at least once with a non-empty value of `PronType`.
 The feature is used with 3 part-of-speech tags: <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (19762; 4% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (16035; 3% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (5024; 1% instances).
 
 ### `DET`
@@ -32,13 +32,13 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 * `Rel` (349; 2% of non-empty `PronType`): <em>jehož, jejichž, jejíž, jejímž, jejímuž, jejíchž, kterážto</em>
 * `Tot` (660; 3% of non-empty `PronType`): <em>každý, každé, každého, všechny, každá, každém, každou, každým, každému, všechno</em>
 
-`PronType` seems to be **lexical feature** of `DET`. 100% lemmas (50) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `DET`. 100% lemmas (52) occur only with one value of `PronType`.
 
 ### `PRON`
 
 16035 <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (14227; 89%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13188; 82%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12581; 78%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10279; 64%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt> (9781; 61%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (9196; 57%), <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (9042; 56%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13188; 82%), <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (13178; 82%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12581; 78%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10279; 64%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt> (9781; 61%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (9196; 57%), <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (9042; 56%).
 
 `PRON` tokens may have the following values of `PronType`:
 

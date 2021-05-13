@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1891 nodes (6%) are attached to their parents as `root`.
+2184 nodes (6%) are attached to their parents as `root`.
 
-1891 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.96245372818615.
+2184 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.93406593406593.
 
-The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (1354; 72% instances), -<tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (227; 12% instances), -<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (177; 9% instances), -<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (54; 3% instances), -<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (49; 3% instances), -<tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (20; 1% instances), -<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (4; 0% instances), -<tt><a href="qtd_sagt-pos-PART.html">PART</a></tt> (3; 0% instances), -<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="qtd_sagt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), -<tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (1543; 71% instances), -<tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (273; 13% instances), -<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (211; 10% instances), -<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (66; 3% instances), -<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (48; 2% instances), -<tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (26; 1% instances), -<tt><a href="qtd_sagt-pos-PART.html">PART</a></tt> (6; 0% instances), -<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (5; 0% instances), -<tt><a href="qtd_sagt-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), -<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (2; 0% instances), -<tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -57,7 +57,7 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 9	Beispiel	Beispiel	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	10	nmod	_	LangID=DE
 10	Englisch	Englisch	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	obl	_	LangID=DE
 11	oder	oder	CCONJ	_	_	12	cc	_	LangID=DE
-12	Deutsch	deutsch	ADJ	_	Case=Dat|Gender=Neut|Number=Sing	10	conj	_	LangID=DE|SpaceAfter=No
+12	Deutsch	Deutsch	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	10	conj	_	LangID=DE|SpaceAfter=No
 13	.	.	PUNCT	_	_	6	punct	_	LangID=OTHER
 
 ~~~

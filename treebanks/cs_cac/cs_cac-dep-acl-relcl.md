@@ -27,7 +27,7 @@ The following 32 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 3	,	,	PUNCT	Z:-------------	_	6	punct	6:punct	_
 4	kde	kde	ADV	Db-------------	PronType=Int,Rel	6	advmod	2:ref	_
 5	kdysi	kdysi	ADV	Db-------------	PronType=Ind	6	advmod	6:advmod	_
-6	stávaly	stávat	VERB	VpTP---XR-AA---	Animacy=Inan|Aspect=Imp|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	2	acl:relcl	2:acl:relcl	LDeriv=stát|LId=stávat-3|LGloss=(někdo/něco_stojí,_např._na_nohou)
+6	stávaly	stávat	VERB	VpTP---XR-AA---	Animacy=Inan|Aspect=Imp|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	2	acl:relcl	2:acl:relcl	LId=stávat-3|LGloss=(někdo/něco_stojí,_např._na_nohou)|LDeriv=stát
 7	Lidice	Lidice	PROPN	NNFP1-----A----	Case=Nom|Gender=Fem|NameType=Geo|Number=Plur|Polarity=Pos	6	nsubj	6:nsubj	SpaceAfter=No
 8	,	,	PUNCT	Z:-------------	_	6	punct	6:punct	_
 9	zazněla	zaznít	VERB	VpQW---XR-AA---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
@@ -78,7 +78,7 @@ The following 32 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 10	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	11	case	11:case	_
 11	něčím	něčí	DET	PZZS7----------	Case=Ins|Gender=Masc,Neut|Number=Sing|Poss=Yes|PronType=Ind	9	obl:arg	9:obl:arg:s:ins|15:nsubj	SpaceAfter=No
 12	,	,	PUNCT	Z:-------------	_	15	punct	15:punct	_
-13	co	co	PRON	P4XXX----------	PronType=Int,Rel	15	nsubj	11:ref	LId=co-4|LGloss=(který:_př.:_o_těch,_co_odešli/co_je_znal)
+13	co	co	PRON	P4XXX----------	Animacy=Inan|PronType=Int,Rel	15	nsubj	11:ref	LId=co-4|LGloss=(který:_př.:_o_těch,_co_odešli/co_je_znal)
 14	lidi	člověk	NOUN	NNMP4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	15	obj	15:obj	_
 15	tlačí	tlačit	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl:relcl	11:acl:relcl	SpaceAfter=No
 16	.	.	PUNCT	Z:-------------	_	2	punct	2:punct	_

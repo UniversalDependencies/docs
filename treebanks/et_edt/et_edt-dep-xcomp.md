@@ -42,7 +42,7 @@ The following 24 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 6 xcomp	color:blue
-1	Teises	teine	ADJ	N	Case=Ine|Number=Sing|NumForm=Letter|NumType=Ord	2	amod	2:amod	_
+1	Teises	teine	ADJ	N	Case=Ine|Number=Sing|NumForm=Word|NumType=Ord	2	amod	2:amod	_
 2	sõidus	sõit	NOUN	S	Case=Ine|Number=Sing	3	obl	3:obl	_
 3	jäi	jääma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 4	Kuismanen	Kuismanen	PROPN	S	Case=Nom|Number=Sing	3	nsubj	3:nsubj	_

@@ -23,7 +23,7 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 2	fgColor:white
 # visual-style 2 3 compound	color:blue
 1	Camera	cameră	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
-2	o	unu	NUM	Mcfsrln	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	1	nummod	_	_
+2	o	unu	NUM	Mcfsrl	Case=Acc,Nom|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	1	nummod	_	_
 3	sută	sută	NUM	Mcfsrln	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	2	compound	_	_
 4	unu	unu	NUM	Mcmsrl	Case=Acc,Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	2	compound	_	SpaceAfter=No
 5	,	,	PUNCT	COMMA	_	6	punct	_	_
@@ -63,7 +63,7 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 2	fgColor:white
 # visual-style 2 3 compound	color:blue
 1	Cei	cel	DET	Tdmpr	Case=Acc,Nom|Gender=Masc|Number=Plur|PronType=Dem	6	det	_	_
-2	35	35	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	6	nummod	_	_
+2	35	35	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	6	nummod	_	_
 3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	2	compound	_	_
 4	milioane	milion	NUM	Mcfprln	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	2	compound	_	_
 5	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
@@ -77,7 +77,7 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 13	să	să	PART	Qs	Mood=Sub	14	mark	_	_
 14	PUTREZEASCĂ	putrezi	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	12	csubj	_	_
 15	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
-16	30	30	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	18	nummod	_	_
+16	30	30	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	18	nummod	_	_
 17	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	_
 18	ani	an	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	14	obl	_	_
 19	înainte	înainte	ADV	Rgp	Degree=Pos	23	mark	_	_

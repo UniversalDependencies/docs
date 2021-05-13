@@ -53,7 +53,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 4	Cabinet	cabinet	NOUN	NN	Number=Sing	2	obj	2:obj	_
 5	shortly	shortly	ADV	RB	_	9	advmod	9:advmod	_
 6	after	after	SCONJ	IN	_	9	mark	9:mark	_
-7	German	german	ADJ	JJ	Degree=Pos	8	amod	8:amod	Proper=True
+7	German	German	ADJ	JJ	Degree=Pos	8	amod	8:amod	Proper=True
 8	forces	force	NOUN	NNS	Number=Plur	9	nsubj	9:nsubj	_
 9	crossed	cross	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	2	advcl	2:advcl:after	_
 10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	_

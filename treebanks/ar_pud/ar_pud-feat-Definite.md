@@ -106,14 +106,14 @@ The most frequent other feature values with which `VERB` and `Definite` co-occur
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>NOUN --[<tt><a href="ar_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1543; 82%),
+<tt>NOUN --[<tt><a href="ar_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1575; 83%),
 <tt>NOUN --[<tt><a href="ar_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1357; 99%),
 <tt>NOUN --[<tt><a href="ar_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (239; 90%),
 <tt>ADJ --[<tt><a href="ar_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (164; 59%),
 <tt>PROPN --[<tt><a href="ar_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (154; 64%),
 <tt>NOUN --[<tt><a href="ar_pud-dep-ccomp.html">ccomp</a></tt>]--> ADJ</tt> (88; 92%),
-<tt>PROPN --[<tt><a href="ar_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (63; 72%),
 <tt>ADJ --[<tt><a href="ar_pud-dep-conj.html">conj</a></tt>]--> ADJ</tt> (33; 100%),
-<tt>NOUN --[<tt><a href="ar_pud-dep-nmod-gmod.html">nmod:gmod</a></tt>]--> NOUN</tt> (32; 97%),
-<tt>NOUN --[<tt><a href="ar_pud-dep-appos.html">appos</a></tt>]--> NOUN</tt> (27; 82%).
+<tt>NOUN --[<tt><a href="ar_pud-dep-appos.html">appos</a></tt>]--> NOUN</tt> (27; 82%),
+<tt>NOUN --[<tt><a href="ar_pud-dep-acl.html">acl</a></tt>]--> NOUN</tt> (16; 94%),
+<tt>NOUN --[<tt><a href="ar_pud-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (9; 69%).
 

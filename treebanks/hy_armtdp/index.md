@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Marat M. Yavrumyan.
 
 Repository: [UD_Armenian-ArmTDP](https://github.com/UniversalDependencies/UD_Armenian-ArmTDP)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhy_armtdp27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhy_armtdp28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -44,17 +44,17 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-Modern Eastern Armenian Universal Dependencies treebank, developed for UD originally by the ArmTDP team led by Marat M. Yavrumyan at the Yerevan State University.
+The Eastern Armenian UD treebank is based on the Eastern Armenian section of the Armenian Dependency Treebank (Հայերենի ծառադարան), developed for UD originally by the ArmTDP team led by Marat M. Yavrumyan at the Yerevan State University.
 
 
 
-UD_Armenian-ArmTDP is based on the ՀայՇտեմ-ArmTDP-East dataset (version 2.0), a mix of random sentences sampled from different sources and representing different genres and domains, released in several formats (local on-line newspaper and journal articles, contemporary fiction dated between 1976 and 2019). The treebank consists 2502 sentences (~53K tokens).
+The UD_Armenian-ArmTDP treebank is based on the Հայերենի ծառադարան dataset (version 2.0), a mix of texts sampled from different sources and representing different genres and domains (local on-line newspaper and journal articles, contemporary fiction dated between 1976 and 2019). The treebank consists of 2502 sentences (~53K tokens).
 
-The annotation scheme was developed in according to the UD guidelines. The original data was manually annotated by the ArmTDP team. The tokenization and POS-tagging process was carried out through alternating steps of automatic scripting and manual revision in the YerevaNN research lab (led by Hrant H. Khachatrian). The treebank is so far the only manual verificated corpus of Eastern Armenian supplied with comprehensive morphological annotation and syntactic annotation in the form of a complete dependency tree provided for every sentence.
+The annotation scheme was developed in accordance with the UD guidelines. The original data was manually annotated by the ArmTDP team. The tokenization and POS-tagging process was carried out through alternating steps of automatic scripting and manual revision in the YerevaNN research lab (led by Hrant H. Khachatrian). The treebank is so far the only manual verificated corpus of Eastern Armenian supplied with comprehensive morphological annotation and syntactic annotation in the form of a complete dependency tree provided for every sentence.
 
 ## Acknowledgments
 
-This work became possible in part by a research grant from the Armenian National Science and Education Fund (ANSEF) based in New York, USA and partially funded by ISTC Foundation, Yerevan, Armenia.
+This work became possible through research grants from the Armenian National Science and Education Fund (ANSEF) based in New York, USA, and partially, from ISTC Foundation, Yerevan, Armenia.
 
 The team behind the UD_Armenian-ArmTDP: Marat M. Yavrumyan, Hrant H. Khachatrian, Anna S. Danielyan, Gor D. Arakelyan, Martin S. Mirakyan.
 
@@ -72,7 +72,7 @@ The team behind the UD_Armenian-ArmTDP: Marat M. Yavrumyan, Hrant H. Khachatrian
 
 ## Features
 
-[Abbr](hy_armtdp-feat-Abbr.html) – [AdpType](hy_armtdp-feat-AdpType.html) – [Animacy](hy_armtdp-feat-Animacy.html) – [Aspect](hy_armtdp-feat-Aspect.html) – [Case](hy_armtdp-feat-Case.html) – [ConjType](hy_armtdp-feat-ConjType.html) – [Connegative](hy_armtdp-feat-Connegative.html) – [Definite](hy_armtdp-feat-Definite.html) – [Degree](hy_armtdp-feat-Degree.html) – [Distance](hy_armtdp-feat-Distance.html) – [Echo](hy_armtdp-feat-Echo.html) – [Foreign](hy_armtdp-feat-Foreign.html) – [Hyph](hy_armtdp-feat-Hyph.html) – [Mood](hy_armtdp-feat-Mood.html) – [NameType](hy_armtdp-feat-NameType.html) – [Number](hy_armtdp-feat-Number.html) – [Number[psor]](hy_armtdp-feat-Number-psor.html) – [NumForm](hy_armtdp-feat-NumForm.html) – [NumType](hy_armtdp-feat-NumType.html) – [Person](hy_armtdp-feat-Person.html) – [Person[psor]](hy_armtdp-feat-Person-psor.html) – [Polarity](hy_armtdp-feat-Polarity.html) – [Polite](hy_armtdp-feat-Polite.html) – [Poss](hy_armtdp-feat-Poss.html) – [PronType](hy_armtdp-feat-PronType.html) – [Reflex](hy_armtdp-feat-Reflex.html) – [Style](hy_armtdp-feat-Style.html) – [Subcat](hy_armtdp-feat-Subcat.html) – [Tense](hy_armtdp-feat-Tense.html) – [Typo](hy_armtdp-feat-Typo.html) – [VerbForm](hy_armtdp-feat-VerbForm.html) – [Voice](hy_armtdp-feat-Voice.html)
+[Abbr](hy_armtdp-feat-Abbr.html) – [AdpType](hy_armtdp-feat-AdpType.html) – [Animacy](hy_armtdp-feat-Animacy.html) – [Aspect](hy_armtdp-feat-Aspect.html) – [Case](hy_armtdp-feat-Case.html) – [ConjType](hy_armtdp-feat-ConjType.html) – [Connegative](hy_armtdp-feat-Connegative.html) – [Definite](hy_armtdp-feat-Definite.html) – [Degree](hy_armtdp-feat-Degree.html) – [Deixis](hy_armtdp-feat-Deixis.html) – [Echo](hy_armtdp-feat-Echo.html) – [Foreign](hy_armtdp-feat-Foreign.html) – [Hyph](hy_armtdp-feat-Hyph.html) – [Mood](hy_armtdp-feat-Mood.html) – [NameType](hy_armtdp-feat-NameType.html) – [Number](hy_armtdp-feat-Number.html) – [Number[psor]](hy_armtdp-feat-Number-psor.html) – [NumForm](hy_armtdp-feat-NumForm.html) – [NumType](hy_armtdp-feat-NumType.html) – [Person](hy_armtdp-feat-Person.html) – [Person[psor]](hy_armtdp-feat-Person-psor.html) – [Polarity](hy_armtdp-feat-Polarity.html) – [Polite](hy_armtdp-feat-Polite.html) – [Poss](hy_armtdp-feat-Poss.html) – [PronType](hy_armtdp-feat-PronType.html) – [Reflex](hy_armtdp-feat-Reflex.html) – [Style](hy_armtdp-feat-Style.html) – [Subcat](hy_armtdp-feat-Subcat.html) – [Tense](hy_armtdp-feat-Tense.html) – [Typo](hy_armtdp-feat-Typo.html) – [VerbForm](hy_armtdp-feat-VerbForm.html) – [Voice](hy_armtdp-feat-Voice.html)
 
 ## Relations
 
@@ -86,7 +86,7 @@ The team behind the UD_Armenian-ArmTDP: Marat M. Yavrumyan, Hrant H. Khachatrian
 </ul>
 
 <ul>
-<li>This corpus contains 10069 tokens (19%) that are not followed by a space.</li>
+<li>This corpus contains 10068 tokens (19%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -1002,15 +1002,8 @@ The team behind the UD_Armenian-ArmTDP: Marat M. Yavrumyan, Hrant H. Khachatrian
 </ul>
 
 <ul>
-  <li><a>Distance</a>
+  <li><a>Deixis</a>
     <ul>
-      <li>Dist
-        <ul>
-          <li>ADV: այնքան, այնտեղ, այնպես, էնքան, էնպես, էնտեղ</li>
-          <li>DET: այն, մյուս, նույն, էն, այնպիսի, Ն, այնքան, Նորին, էնքան, մեկել</li>
-          <li>PRON: այն, էն, դրան, մյուսները, այնպիսին, մյուսին, այնտեղից, մյուսը, մյուսի, այնտեղ</li>
-        </ul>
-      </li>
       <li>Med
         <ul>
           <li>ADV: այդպես, այդքան, էդպես, Էդքան, էդտեղ, տենց</li>
@@ -1023,6 +1016,13 @@ The team behind the UD_Armenian-ArmTDP: Marat M. Yavrumyan, Hrant H. Khachatrian
           <li>ADV: այստեղ, այսպես, էսպես, էստեղ, այս, այսչափ, այսքան</li>
           <li>DET: այս, էս, սույն, այսպիսի</li>
           <li>PRON: սա, այս, այստեղից, այսքանը, էստեղ, սրա, սրանք, Այսքանի, այստեղ, այստեղի</li>
+        </ul>
+      </li>
+      <li>Remt
+        <ul>
+          <li>ADV: այնքան, այնտեղ, այնպես, էնքան, էնպես, էնտեղ</li>
+          <li>DET: այն, մյուս, նույն, էն, այնպիսի, Ն, այնքան, Նորին, էնքան, մեկել</li>
+          <li>PRON: այն, էն, դրան, մյուսները, այնպիսին, մյուսին, այնտեղից, մյուսը, մյուսի, այնտեղ</li>
         </ul>
       </li>
     </ul>

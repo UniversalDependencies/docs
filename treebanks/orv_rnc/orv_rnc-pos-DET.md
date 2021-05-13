@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of DET in UD_Old_Russian-RNC'
+title:  'Statistics of DET in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: POS Tags: `DET`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: POS Tags: `DET`
 
 There are 26 `DET` lemmas (1%), 279 `DET` types (4%) and 1437 `DET` tokens (5%).
 Out of 17 observed tags, the rank of `DET` is: 10 in number of lemmas, 5 in number of types and 9 in number of tokens.
@@ -13,7 +13,7 @@ The 10 most frequent `DET` lemmas: <em>тотъ, твой, весь, свой, �
 
 The 10 most frequent `DET` types:  <em>твой, мои, тѣхъ, то, тѣ, твоему, того, т., вся, сей</em>
 
-The 10 most frequent ambiguous lemmas: <em>тотъ</em> (<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 362, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 18), <em>весь</em> (<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 173, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 2), <em>сей</em> (<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 77, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 2), <em>который</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 31, <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 20), <em>кой</em> (<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 8, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 2), <em>одинъ</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 20, <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 3), <em>иже</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 16, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 2), <em>съ</em> (<tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> 427, <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>тотъ</em> (<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 362, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 18), <em>весь</em> (<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 173, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 2), <em>сей</em> (<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 77, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 2), <em>который</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 31, <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 20), <em>кой</em> (<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 8, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 2), <em>одинъ</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 21, <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 3), <em>иже</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 16, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 2), <em>съ</em> (<tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> 427, <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>то</em> (<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 39, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 18, <tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 2), <em>того</em> (<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 30, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 20), <em>т.</em> (<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 28, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 3), <em>вся</em> (<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 25, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 2), <em>те</em> (<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 22, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 2), <em>тое</em> (<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 15, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 1), <em>тому</em> (<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 15, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 6), <em>всем</em> (<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 13, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 6), <em>всех</em> (<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 11, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 1), <em>томъ</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 23, <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 12)
 
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>то</em> (<tt><a href="orv_rnc-pos-D
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 10.730769 (the average of all parts of speech is 1.947446).
+The form / lemma ratio of `DET` is 10.730769 (the average of all parts of speech is 1.947924).
 
 The 1st highest number of forms (39) was observed with the lemma “тотъ”: <em>та, таво, те, тем, теми, темъ, тех, тии, то, тово, того, тое, тои, той, том, тому, томъ, томꙋ, тот, тотъ, тою, тоя, тоі, тоѣ, ту, тые, тыи, тыми, тымъ, тыхъ, тѡм, тѣ, тѣи, тѣм, тѣми, тѣмъ, тѣни, тѣх, тѣхъ</em>.
 

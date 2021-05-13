@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Kazakh-KTB: Relations: `acl`
 
 This relation is universal.
-There are 2 language-specific subtypes of `acl`: <tt><a href="kk_ktb-dep-acl-poss.html">acl:poss</a></tt>, <tt><a href="kk_ktb-dep-acl-relcl.html">acl:relcl</a></tt>.
+There are 1 language-specific subtypes of `acl`: <tt><a href="kk_ktb-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-107 nodes (1%) are attached to their parents as `acl`.
+108 nodes (1%) are attached to their parents as `acl`.
 
-105 instances of `acl` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.8785046728972.
+106 instances of `acl` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.87037037037037.
 
-The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (89; 83% instances), <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> (7; 7% instances), <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt>-<tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt>-<tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (90; 83% instances), <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> (7; 6% instances), <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (3; 3% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt>-<tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt>-<tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 acl	color:blue
-1	Қалыптасу	қалыпта	VERB	v	Case=Nom|VerbForm=Ger|Voice=Coop	2	acl	_	_
+1	Қалыптасу	қалыпта	VERB	v	Case=Nom|VerbForm=Ger|Voice=Rcp	2	acl	_	_
 2	кезеңі	кезең	NOUN	n	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	4	nsubj	_	_
 3	табысты	табысты	ADJ	adj	_	4	advmod	_	_
 4	аяқталды	аяқта	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No

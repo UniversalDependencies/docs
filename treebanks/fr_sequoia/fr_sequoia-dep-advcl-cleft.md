@@ -11,7 +11,7 @@ This relation is a language-specific subtype of <tt><a href="fr_sequoia-dep-advc
 20 nodes (0%) are attached to their parents as `advcl:cleft`.
 
 20 instances of `advcl:cleft` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.55.
+Average distance between parent and child is 8.5.
 
 The following 4 pairs of parts of speech are connected with `advcl:cleft`: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (16; 80% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2; 10% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1; 5% instances).
 

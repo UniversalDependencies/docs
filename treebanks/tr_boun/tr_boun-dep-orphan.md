@@ -30,7 +30,7 @@ The following 18 pairs of parts of speech are connected with `orphan`: <tt><a hr
 6	,	,	PUNCT	Punc	_	7	punct	_	_
 7	ardından	ardından	ADV	Adverb	_	9	advmod	_	_
 8	dostluğunu	dostluk	NOUN	Noun	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	obj	_	_
-9	sunuyorsun	sun	NOUN	Noun	Aspect=Prog|Number=Sing|Person=2|Polarity=Pos|Tense=Pres	0	root	_	_
+9	sunuyorsun	sun	NOUN	Noun	_	0	root	_	_
 10	bana	ben	PRON	Pers	Case=Dat|Number=Sing|Person=1	9	iobj	_	SpaceAfter=No
 11	.	.	PUNCT	Punc	_	9	punct	_	SpacesAfter=\n
 

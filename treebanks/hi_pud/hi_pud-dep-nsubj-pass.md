@@ -77,7 +77,7 @@ The following 9 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 7	साहित्य	_	NOUN	NN	Animacy=Inan|Gender=Masc|Number=Sing	8	compound	_	Translit=sāhitya
 8	पुरस्कारों	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	11	obl	_	Translit=puraskāroṁ
 9	से	_	ADP	IN	Case=Acc	8	case	_	Translit=se
-10	सम्मानित	_	ADJ	JJ	_	11	compound:conjv	_	Translit=sammānita
+10	सम्मानित	_	ADJ	JJ	_	11	compound:lvc	_	Translit=sammānita
 11	किया	_	VERB	VBI	Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=kiyā
 12	गया	_	AUX	VXH	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3	11	aux:pass	_	Translit=gayā
 13	था	_	AUX	VXH	Gender=Masc|Number=Sing|Person=3|Tense=Past	11	aux	_	SpaceAfter=No|Translit=thā

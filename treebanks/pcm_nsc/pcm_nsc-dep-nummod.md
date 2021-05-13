@@ -7,46 +7,59 @@ udver: '2'
 ## Treebank Statistics: UD_Naija-NSC: Relations: `nummod`
 
 This relation is universal.
-There are 3 language-specific subtypes of `nummod`: <tt><a href="pcm_nsc-dep-nummod-det.html">nummod:det</a></tt>, <tt><a href="pcm_nsc-dep-nummod-mod.html">nummod:mod</a></tt>, <tt><a href="pcm_nsc-dep-nummod-periph.html">nummod:periph</a></tt>.
 
-7 nodes (0%) are attached to their parents as `nummod`.
+555 nodes (0%) are attached to their parents as `nummod`.
 
-7 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.28571428571429.
+484 instances of `nummod` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.70990990990991.
 
-The following 3 pairs of parts of speech are connected with `nummod`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (4; 57% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (2; 29% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (1; 14% instances).
+The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (537; 97% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 22	bgColor:blue
-# visual-style 22	fgColor:white
-# visual-style 22 20 nummod	color:blue
-1	#	#	X	_	_	5	dep	_	AlignBegin=7082|AlignEnd=7379|Gloss=PUNCT
-2	and	and	CCONJ	_	_	5	discourse	_	AlignBegin=7379|AlignEnd=7480|Gloss=and
-3	{	{	X	_	_	5	dep	_	AlignBegin=7480|AlignEnd=7510|Gloss=PUNCT
-4	dat	dat	PRON	_	Number=Sing|PronType=Dem	5	nsubj	_	AlignBegin=7510|AlignEnd=7627|Gloss=SG.DEM
-5	was	be	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|VerbType=Cop	0	root	_	AlignBegin=7627|AlignEnd=7780|Gloss=be.IND.SG.1.PST.FIN
-6	like	like	ADP	_	_	5	discourse	_	AlignBegin=7780|AlignEnd=8070|Gloss=like
-7	||	||	X	_	_	22	dep	_	AlignBegin=8070|AlignEnd=8100|Gloss=PUNCT
-8	{	{	X	_	_	9	dep	_	AlignBegin=8070|AlignEnd=8100|Gloss=PUNCT
-9	dat	dat	PRON	_	Number=Sing|PronType=Dem	22	nsubj	_	AlignBegin=8100|AlignEnd=8390|Gloss=SG.DEM
-10	||	||	X	_	_	11	dep	_	AlignBegin=8390|AlignEnd=8420|Gloss=PUNCT
-11	dat	dat	PRON	_	Number=Sing|PronType=Dem	9	reparandum	_	AlignBegin=8420|AlignEnd=8563|Gloss=SG.DEM
-12	}	}	X	_	_	9	dep	_	AlignBegin=8563|AlignEnd=8593|Gloss=PUNCT
-13	||	||	X	_	_	22	dep	_	AlignBegin=8563|AlignEnd=8593|Gloss=PUNCT
-14	na	na	AUX	_	PartType=Cop	22	cop	_	AlignBegin=8593|AlignEnd=8707|Gloss=be
-15	}	}	X	_	_	5	dep	_	AlignBegin=8707|AlignEnd=8882|Gloss=PUNCT
-16	like	like	ADP	_	_	22	discourse	_	AlignBegin=8707|AlignEnd=8882|Gloss=like
-17	around	around	ADP	_	_	22	case	_	AlignBegin=8912|AlignEnd=9344|Gloss=around
-18	eh	eh	INTJ	_	_	22	discourse	_	AlignBegin=9344|AlignEnd=9896|Gloss=eh
-19	#	#	X	_	_	18	dep	_	AlignBegin=9896|AlignEnd=10354|Gloss=PUNCT
-20	nineteen	nineteen	NUM	_	NumType=Card	22	nummod	_	AlignBegin=10354|AlignEnd=10710|Gloss=nineteen.CARD
-21	ninety	ninety	NUM	_	NumType=Card	20	flat	_	AlignBegin=10710|AlignEnd=11051|Gloss=ninety.CARD
-22	era	era	NOUN	_	_	5	reparandum	_	AlignBegin=11051|AlignEnd=11580|Gloss=ant
-23	ehen	ehen	INTJ	_	_	5	discourse	_	AlignBegin=11580|AlignEnd=11954|Gloss=ehen
-24	//	//	X	_	_	5	dep	_	AlignBegin=11954|AlignEnd=11984|Gloss=PUNCT
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 12 nummod	color:blue
+1	#	#	X	_	_	3	dep	_	AlignBegin=27115|AlignEnd=27579|Gloss=PUNCT
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	AlignBegin=27579|AlignEnd=27670|Gloss=NOM.SG.1
+3	dey	dey	VERB	_	VerbType=Cop	0	root	_	AlignBegin=27670|AlignEnd=27840|Gloss=be
+4	dere	dere	ADV	_	_	3	xcomp	_	AlignBegin=27840|AlignEnd=27980|Gloss=there
+5	o	o	PART	_	PartType=Disc	4	advmod	_	AlignBegin=27980|AlignEnd=28240|Gloss=EMPH
+6	//=	//=	X	_	_	8	dep	_	AlignBegin=28240|AlignEnd=28270|Gloss=PUNCT
+7	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	AlignBegin=28270|AlignEnd=28450|Gloss=NOM.SG.1
+8	school	school	VERB	_	_	3	parataxis:conj	_	AlignBegin=28450|AlignEnd=28830|Gloss=school
+9	o	o	PART	_	PartType=Disc	8	advmod	_	AlignBegin=28830|AlignEnd=29030|Gloss=EMPH
+10	//=	//=	X	_	_	11	dep	_	AlignBegin=28830|AlignEnd=29030|Gloss=PUNCT
+11	setay	sotay	ADV	_	_	8	parataxis:conj	_	AlignBegin=29060|AlignEnd=29610|Gloss=such_that
+12	four	four	NUM	_	NumType=Card	13	nummod	_	AlignBegin=29610|AlignEnd=29950|Gloss=four.CARD
+13	years	year	NOUN	_	Number=Plur	11	obl:mod	_	AlignBegin=29950|AlignEnd=30270|Gloss=year.PL
+14	//	//	X	_	_	3	dep	_	AlignBegin=30270|AlignEnd=30300|Gloss=PUNCT
+
+~~~
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 11 nummod	color:blue
+1	#	#	X	_	_	7	dep	_	AlignBegin=287862|AlignEnd=289080|Gloss=PUNCT
+2	and	and	CCONJ	_	_	7	discourse	_	AlignBegin=289080|AlignEnd=289150|Gloss=and
+3	after	after	ADP	_	_	7	dep	_	AlignBegin=289150|AlignEnd=289340|Gloss=after
+4	<	<	X	_	_	3	dep	_	AlignBegin=289340|AlignEnd=289370|Gloss=PUNCT
+5	de	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	AlignBegin=289370|AlignEnd=289454|Gloss=NOM.PL.3
+6	go	go	AUX	_	Aspect=Prosp	7	aux	_	AlignBegin=289454|AlignEnd=289542|Gloss=PROSP
+7	say	say	VERB	_	_	0	root	_	AlignBegin=289542|AlignEnd=289720|Gloss=say
+8	[	[	X	_	_	12	dep	_	AlignBegin=289542|AlignEnd=289720|Gloss=PUNCT
+9	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	AlignBegin=289750|AlignEnd=289840|Gloss=NOM.PL.1|Lang=en
+10	are	be	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	12	cop	_	AlignBegin=289840|AlignEnd=289950|Gloss=be.IND.PRS.FIN|Lang=en
+11	one	one	NUM	_	NumType=Card	12	nummod	_	AlignBegin=289950|AlignEnd=290080|Gloss=one|Lang=en
+12	Nigeria	Nigeria	PROPN	_	_	7	parataxis	_	AlignBegin=290080|AlignEnd=290680|Gloss=Nigeria|Lang=en
+13	//]	//]	X	_	_	12	dep	_	AlignBegin=290680|AlignEnd=290710|Gloss=PUNCT
+14	//	//	X	_	_	7	dep	_	AlignBegin=290680|AlignEnd=290710|Gloss=PUNCT
 
 ~~~
 
@@ -78,51 +91,8 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 19	today	today	NOUN	_	_	16	obl:mod	_	AlignBegin=136955|AlignEnd=137500|Gloss=today
 20	>+	>+	X	_	_	21	dep	_	AlignBegin=137500|AlignEnd=137530|Gloss=PUNCT
 21	be	be	VERB	_	PartType=Cop	12	advcl:cleft	_	AlignBegin=137530|AlignEnd=137710|Gloss=be
-22	dat	dat	PRON	_	Number=Sing|PronType=Dem	21	dep:comp	_	AlignBegin=137710|AlignEnd=138054|Gloss=SG.DEM
+22	dat	dat	PRON	_	Number=Sing|PronType=Dem	21	nsubj	_	AlignBegin=137710|AlignEnd=138054|Gloss=SG.DEM
 23	//	//	X	_	_	12	dep	_	AlignBegin=138054|AlignEnd=138084|Gloss=PUNCT
-
-~~~
-
-
-~~~ conllu
-# visual-style 30	bgColor:blue
-# visual-style 30	fgColor:white
-# visual-style 32	bgColor:blue
-# visual-style 32	fgColor:white
-# visual-style 32 30 nummod	color:blue
-1	#	#	X	_	_	6	dep	_	AlignBegin=183040|AlignEnd=183400|Gloss=PUNCT
-2	JAMB	JAMB	PROPN	_	_	6	dislocated	_	AlignBegin=183400|AlignEnd=183770|Gloss=JAMB
-3	<	<	X	_	_	2	dep	_	AlignBegin=183770|AlignEnd=183800|Gloss=PUNCT
-4	recently	recently	ADV	_	_	6	advmod:periph	_	AlignBegin=183800|AlignEnd=184270|Gloss=recently
-5	<	<	X	_	_	4	dep	_	AlignBegin=184270|AlignEnd=184300|Gloss=PUNCT
-6	na	na	AUX	_	PartType=Cop	0	root	_	AlignBegin=184300|AlignEnd=184480|ExtPos=SCONJ|Gloss=be|PhraseType=Idiom
-7	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	fixed	_	AlignBegin=184480|AlignEnd=184590|Gloss=NOM.SG.3
-8	>+	>+	X	_	_	10	dep	_	AlignBegin=184590|AlignEnd=184620|Gloss=PUNCT
-9	dey	dey	AUX	_	Aspect=Imp	10	aux	_	AlignBegin=184620|AlignEnd=184780|Gloss=IPFV
-10	yarn	yarn	VERB	_	_	6	advcl:cleft	_	AlignBegin=184780|AlignEnd=185010|Gloss=talk
-11	sey	sey	SCONJ	_	_	14	mark	_	AlignBegin=185010|AlignEnd=185260|Gloss=COMP
-12	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	AlignBegin=185260|AlignEnd=185450|Gloss=NOM.PL.3
-13	go	go	AUX	_	Aspect=Prosp	14	aux	_	AlignBegin=185450|AlignEnd=185670|Gloss=PROSP
-14	arrange	arrange	VERB	_	_	10	ccomp:obj	_	AlignBegin=185670|AlignEnd=186110|Gloss=arrange
-15	one	one	DET	_	Definite=Spec|PronType=Art	19	det	_	AlignBegin=186110|AlignEnd=186260|Gloss=SPEC.ART
-16	kind	kind	ADJ	_	_	19	amod	_	AlignBegin=186260|AlignEnd=186580|Gloss=kind
-17	optional	optional	ADJ	_	_	19	amod	_	AlignBegin=186580|AlignEnd=187142|Gloss=optional
-18	mock	mock	ADJ	_	_	19	amod	_	AlignBegin=187142|AlignEnd=187470|Gloss=mock
-19	examination	examination	NOUN	_	_	14	obj	_	AlignBegin=187470|AlignEnd=188315|Gloss=examination
-20	#	#	X	_	_	27	dep	_	AlignBegin=188315|AlignEnd=188548|Gloss=PUNCT
-21	wey	wey	SCONJ	_	_	27	mark	_	AlignBegin=188548|AlignEnd=188719|Gloss=REL
-22	anybody	anybody	PRON	_	_	27	dislocated	_	AlignBegin=188719|AlignEnd=189229|Gloss=anybody
-23	wey	wey	SCONJ	_	_	24	mark	_	AlignBegin=189229|AlignEnd=189389|Gloss=REL
-24	like	like	VERB	_	_	22	acl:relcl	_	AlignBegin=189389|AlignEnd=189689|Gloss=like
-25	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	24	obj	_	AlignBegin=189689|AlignEnd=189839|Gloss=ACC.SG.3
-26	fit	fit	AUX	_	Mood=Pot	27	aux	_	AlignBegin=189839|AlignEnd=190059|Gloss=ABIL
-27	do	do	VERB	_	_	19	acl:relcl	_	AlignBegin=190059|AlignEnd=190269|Gloss=do
-28	before	before	ADP	_	_	32	case	_	AlignBegin=190269|AlignEnd=190619|Gloss=before
-29	di	di	DET	_	Definite=Def|PronType=Art	32	det	_	AlignBegin=190619|AlignEnd=190750|Gloss=DEF.ART
-30	twenty	twenty	NUM	_	NumType=Card	32	nummod	_	AlignBegin=190750|AlignEnd=191039|Gloss=twenty.CARD
-31	seventeen	seventeen	NUM	_	NumType=Card	30	flat	_	AlignBegin=191039|AlignEnd=191538|Gloss=seventeen.CARD
-32	UTME	UTME	PROPN	_	_	27	obl:arg	_	AlignBegin=191538|AlignEnd=192430|Gloss=UTME
-33	//	//	X	_	_	6	dep	_	AlignBegin=192430|AlignEnd=192460|Gloss=PUNCT
 
 ~~~
 

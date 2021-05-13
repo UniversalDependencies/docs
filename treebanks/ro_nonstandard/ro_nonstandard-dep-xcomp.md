@@ -28,7 +28,7 @@ The following 47 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 4	lua	lua	VERB	Vmn	VerbForm=Inf	10	csubj	_	ref=MATT19.9
 5	lăsată	lăsa	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	4	xcomp	_	ref=MATT19.9
 6	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MATT19.9
-7	altul	altul	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	nmod:agent	_	ref=MATT19.9|SpaceAfter=No
+7	altul	altul	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	obl:agent	_	ref=MATT19.9|SpaceAfter=No
 8	,	,	PUNCT	COMMA	_	4	punct	_	ref=MATT19.9
 9	curvie	curvie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	10	obj	_	ref=MATT19.9
 10	face	face	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT19.9|SpaceAfter=No
@@ -48,7 +48,7 @@ The following 47 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 3	chiamă	chema	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	ref=MATT22.45
 4	David	David	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	ref=MATT22.45
 5	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	ref=MATT22.45
-6	el	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	3	nmod:pmod	_	ref=MATT22.45
+6	el	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	3	obl:pmod	_	ref=MATT22.45
 7	Domnu	domn	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	xcomp	_	ref=MATT22.45|SpaceAfter=No
 8	,	,	PUNCT	COMMA	_	3	punct	_	ref=MATT22.45
 9	cum	cum	ADV	Rw	PronType=Int,Rel	13	advmod	_	ref=MATT22.45

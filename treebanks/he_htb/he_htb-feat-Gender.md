@@ -26,7 +26,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 * `Fem` (14155; 38% of non-empty `Gender`): משטרה, ארץ, ממשלה, חברה, שנים, שנה, עבודה, ידי, מדינה, דרך
 * `Fem,Masc` (96; 0% of non-empty `Gender`): פנים_, פני, סכין, פנים, מטבע, סכינים, דופן, מטבעות, גיהנום
 * `Masc` (23445; 62% of non-empty `Gender`): בית, יום, משרד, %, שר, משפט, דבר, פועל, מקום, תל
-* `EMPTY` (553): הכל, נק, ד, רעולי, אחים, רב, רח, __, באי, בטון
+* `EMPTY` (550): הכל, נק, ד, רעולי, אחים, רב, רח, __, באי, בטון
 
 `Gender` seems to be **lexical feature** of `NOUN`. 98% lemmas (3955) occur only with one value of `Gender`.
 
@@ -45,8 +45,6 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 <table>
   <tr><th>Paradigm <i>אמר</i></th><th><tt>Fem,Masc</tt></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="he_htb-feat-HebBinyan.html">HebBinyan</a></tt><tt>=PAAL</tt>|<tt><a href="he_htb-feat-HebSource.html">HebSource</a></tt><tt>=ConvUncertainHead</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=1,2,3</tt>|<tt><a href="he_htb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="he_htb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td>אומרת</td></tr>
-  <tr><td><tt><tt><a href="he_htb-feat-HebBinyan.html">HebBinyan</a></tt><tt>=PAAL</tt>|<tt><a href="he_htb-feat-HebSource.html">HebSource</a></tt><tt>=ConvUncertainHead</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="he_htb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="he_htb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td>אמר</td><td></td></tr>
   <tr><td><tt><tt><a href="he_htb-feat-HebBinyan.html">HebBinyan</a></tt><tt>=PAAL</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=1,2,3</tt>|<tt><a href="he_htb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="he_htb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td>אומר</td><td>אומרת</td></tr>
   <tr><td><tt><tt><a href="he_htb-feat-HebBinyan.html">HebBinyan</a></tt><tt>=PAAL</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="he_htb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="he_htb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td>אמרתי</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="he_htb-feat-HebBinyan.html">HebBinyan</a></tt><tt>=PAAL</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="he_htb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="he_htb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td>תאמר</td><td></td></tr>
@@ -100,9 +98,6 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><td><tt><tt><a href="he_htb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td>_אנחנו</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="he_htb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td></td><td>_אתם</td><td></td></tr>
   <tr><td><tt><tt><a href="he_htb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td>_הם</td><td>_הן</td></tr>
-  <tr><td><tt><tt><a href="he_htb-feat-HebSource.html">HebSource</a></tt><tt>=ConvUncertainHead</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td>_הוא, הוא</td><td>_היא, היא</td></tr>
-  <tr><td><tt><tt><a href="he_htb-feat-HebSource.html">HebSource</a></tt><tt>=ConvUncertainHead</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td>_אנחנו</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="he_htb-feat-HebSource.html">HebSource</a></tt><tt>=ConvUncertainHead</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td>_הם, הם</td><td>_הן, הן</td></tr>
   <tr><td><tt><tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td>אני, _אני</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td></td><td>_אתה, אתה</td><td>_את, את</td></tr>
   <tr><td><tt><tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td>_הוא, הוא</td><td>_היא, היא</td></tr>
@@ -126,8 +121,6 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 <table>
   <tr><th>Paradigm <i>היה</i></th><th><tt>Fem,Masc</tt></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="he_htb-feat-HebSource.html">HebSource</a></tt><tt>=ConvUncertainHead</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="he_htb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td></td><td>תהיה</td></tr>
-  <tr><td><tt><tt><a href="he_htb-feat-HebSource.html">HebSource</a></tt><tt>=ConvUncertainHead</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="he_htb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td>היו</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="he_htb-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td></td><td>הייה, היה</td><td></td></tr>
   <tr><td><tt><tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="he_htb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td>הייתי</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="he_htb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td>תהיה</td><td></td></tr>
@@ -166,7 +159,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 18 <tt><a href="he_htb-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="he_htb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (18; 100%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="he_htb-feat-Definite.html">Definite</a></tt><tt>=Cons</tt> (18; 100%), <tt><a href="he_htb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (18; 100%).
 
 `DET` tokens may have the following values of `Gender`:
 
@@ -182,7 +175,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="he_htb-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (1348; 50%),
 <tt>NOUN --[<tt><a href="he_htb-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1309; 62%),
 <tt>NOUN --[<tt><a href="he_htb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1213; 60%),
-<tt>VERB --[<tt><a href="he_htb-dep-conj.html">conj</a></tt>]--> VERB</tt> (1023; 70%),
+<tt>VERB --[<tt><a href="he_htb-dep-conj.html">conj</a></tt>]--> VERB</tt> (1024; 70%),
 <tt>VERB --[<tt><a href="he_htb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (762; 76%),
 <tt>NOUN --[<tt><a href="he_htb-dep-det.html">det</a></tt>]--> PRON</tt> (619; 90%),
 <tt>NOUN --[<tt><a href="he_htb-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (521; 52%).

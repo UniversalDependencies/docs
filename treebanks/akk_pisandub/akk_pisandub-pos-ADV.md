@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.272727 (the average of all parts of speech is 1.687616).
+The form / lemma ratio of `ADV` is 1.272727 (the average of all parts of speech is 1.690167).
 
 The 1st highest number of forms (4) was observed with the lemma “ūmišam”: <em>u₄-mi-ša-am, u₄-mi-šam, u₄]-⸢mi⸣-šam, ú-mi-ša-am-ma</em>.
 

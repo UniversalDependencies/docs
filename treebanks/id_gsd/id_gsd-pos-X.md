@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>an</em> (<tt><a href="id_gsd-pos-NUM.
   * <tt><a href="id_gsd-pos-X.html">X</a></tt> 1: <em>Sehingga kopi yang <b>di</b> hasilkan dari racikan tersebut begitu nikmat dan istimewa .</em>
 * <em>ke</em>
   * <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> 356: <em>Virus ini juga menyebar <b>ke</b> Mesir dan Kamerun .</em>
-  * <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> 62: <em>Sebagian besar dari teks - teks ini ditulis setelah abad <b>ke</b> - 11 .</em>
+  * <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> 62: <em>Sebagian besar dari teks-teks ini ditulis setelah abad <b>ke</b> - 11 .</em>
   * <tt><a href="id_gsd-pos-DET.html">DET</a></tt> 9: <em>Pada awal abad <b>ke</b> - 20 , Kuba hanya dibagi menjadi 6 provinsi .</em>
   * <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> 1: <em>Sekitar lima menit berada di dalam Kantor PDI , lima utusan tadi <b>ke</b> luar .</em>
   * <tt><a href="id_gsd-pos-X.html">X</a></tt> 1: <em>Gusti Prabhu Danurejo memiliki permasyuri Mas Ayu Gendhing dari perkawinan tersebut memiliki Putra : Sementara dari selir ( kakak Ipar Gusti Agung Mengwi / Raja Mengwi ) beliau berputra : Karena kacaunya perang saudara Pangeran Gung Dupati dan Pangeran Mas Sirno diungsikan sampai perang mereda dan Pangerang Gung Dupati diangkat Menjadi Raja Blambangan yang bergelar Sinuhun Gusti Prabhu Danuningrat memerintah Blambangan Kedhaton Macan putih pada tahun 1736 - 1763 Di akhir abad <b>ke</b> - 18 , setelah terjadi perang Puputan Bayu 1771 VOC mengisi kekosongan pemerintahan dan menggabungkan Blambangan kedalam karisidenan Besuki , dan mengangkat Mas Alit sebagai KRT Wiroguno sebagai Bupati Pertama dimulai dari KRT Wiroguno inilah dinasti Kerajaan Blambangan secara pasti dan terpercaya telah memeluk Islam , generasi diatas KRT Wiroguno tidak terdapat sumber terpercaya telah memeluk Agama Islam .</em>
@@ -66,7 +66,7 @@ The 10 most frequent ambiguous types:  <em>an</em> (<tt><a href="id_gsd-pos-NUM.
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.045328).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.057889).
 
 The 1st highest number of forms (1) was observed with the lemma “&amp;nbsp”: <em>&amp;nbsp</em>.
 
@@ -87,19 +87,19 @@ Examples: <em>jpg, an, www, b, dkk, s, x, y, &amp;nbsp, Duhai</em>
 
 `X` nodes are attached to their parents using 6 different relations: <tt><a href="id_gsd-dep-dep.html">dep</a></tt> (33; 85% instances), <tt><a href="id_gsd-dep-nsubj.html">nsubj</a></tt> (2; 5% instances), <tt><a href="id_gsd-dep-acl.html">acl</a></tt> (1; 3% instances), <tt><a href="id_gsd-dep-appos.html">appos</a></tt> (1; 3% instances), <tt><a href="id_gsd-dep-conj.html">conj</a></tt> (1; 3% instances), <tt><a href="id_gsd-dep-obl.html">obl</a></tt> (1; 3% instances)
 
-Parents of `X` nodes belong to 6 different parts of speech: <tt><a href="id_gsd-pos-X.html">X</a></tt> (10; 26% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (9; 23% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (7; 18% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (6; 15% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (5; 13% instances), <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> (2; 5% instances)
+Parents of `X` nodes belong to 5 different parts of speech: <tt><a href="id_gsd-pos-X.html">X</a></tt> (10; 26% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (9; 23% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (7; 18% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (7; 18% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (6; 15% instances)
 
-29 (74%) `X` nodes are leaves.
+24 (62%) `X` nodes are leaves.
 
-6 (15%) `X` nodes have one child.
+12 (31%) `X` nodes have one child.
 
 1 (3%) `X` nodes have two children.
 
-3 (8%) `X` nodes have three or more children.
+2 (5%) `X` nodes have three or more children.
 
 The highest child degree of a `X` node is 14.
 
-Children of `X` nodes are attached using 7 different relations: <tt><a href="id_gsd-dep-punct.html">punct</a></tt> (16; 52% instances), <tt><a href="id_gsd-dep-dep.html">dep</a></tt> (10; 32% instances), <tt><a href="id_gsd-dep-appos.html">appos</a></tt> (1; 3% instances), <tt><a href="id_gsd-dep-conj.html">conj</a></tt> (1; 3% instances), <tt><a href="id_gsd-dep-flat.html">flat</a></tt> (1; 3% instances), <tt><a href="id_gsd-dep-nmod.html">nmod</a></tt> (1; 3% instances), <tt><a href="id_gsd-dep-nummod.html">nummod</a></tt> (1; 3% instances)
+Children of `X` nodes are attached using 7 different relations: <tt><a href="id_gsd-dep-punct.html">punct</a></tt> (19; 56% instances), <tt><a href="id_gsd-dep-dep.html">dep</a></tt> (10; 29% instances), <tt><a href="id_gsd-dep-appos.html">appos</a></tt> (1; 3% instances), <tt><a href="id_gsd-dep-conj.html">conj</a></tt> (1; 3% instances), <tt><a href="id_gsd-dep-flat.html">flat</a></tt> (1; 3% instances), <tt><a href="id_gsd-dep-nmod.html">nmod</a></tt> (1; 3% instances), <tt><a href="id_gsd-dep-nummod.html">nummod</a></tt> (1; 3% instances)
 
-Children of `X` nodes belong to 6 different parts of speech: <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> (12; 39% instances), <tt><a href="id_gsd-pos-X.html">X</a></tt> (10; 32% instances), <tt><a href="id_gsd-pos-SYM.html">SYM</a></tt> (4; 13% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (2; 6% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (1; 3% instances)
+Children of `X` nodes belong to 6 different parts of speech: <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> (15; 44% instances), <tt><a href="id_gsd-pos-X.html">X</a></tt> (10; 29% instances), <tt><a href="id_gsd-pos-SYM.html">SYM</a></tt> (4; 12% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (2; 6% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (1; 3% instances)
 

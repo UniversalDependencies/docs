@@ -32,7 +32,7 @@ The following 32 pairs of parts of speech are connected with `advmod`: <tt><a hr
 7	û	û	CCONJ	cnjcoo	_	5	cc	_	_
 8	misîbetin	musîbet	NOUN	n	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	11	nsubj	_	_
 9	lê	li	ADP	pr	AdpType=Prep	10	case	_	_
-10	_	ew	PRON	prn	Case=Obl|Gender=Fem,Masc|Number=Sing|PronType=Dem	11	nmod	_	_
+10	_	ew	PRON	prn	Case=Acc|Gender=Fem,Masc|Number=Sing|PronType=Dem	11	nmod	_	_
 11	qewimîne	qewimin	VERB	vblex	Evident=Nfh|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	SpaceAfter=No
 12	.	.	PUNCT	sent	_	2	punct	_	_
 
@@ -45,9 +45,9 @@ The following 32 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 2 advmod	color:blue
-1	Min	ez	PRON	prn	Case=Obl|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+1	Min	ez	PRON	prn	Case=Acc|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 2	jî	jî	PART	emph	_	6	advmod	_	_
-3	derî	derî	NOUN	n	Case=Obl|Definite=Def|Gender=Masc|Number=Sing	6	obj	_	_
+3	derî	derî	NOUN	n	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	6	obj	_	_
 4	li	li	ADP	pr	AdpType=Prep	5	case	_	_
 5	xwe	xwe	PRON	prn	Gender=Fem,Masc|Number=Plur,Sing|PronType=Prs|Reflex=Yes	6	nmod	_	_
 6	girt	girtin	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -71,7 +71,7 @@ The following 32 pairs of parts of speech are connected with `advmod`: <tt><a hr
 7	û	û	CCONJ	cnjcoo	_	5	cc	_	_
 8	misîbetin	musîbet	NOUN	n	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	11	nsubj	_	_
 9	lê	li	ADP	pr	AdpType=Prep	10	case	_	_
-10	_	ew	PRON	prn	Case=Obl|Gender=Fem,Masc|Number=Sing|PronType=Dem	11	nmod	_	_
+10	_	ew	PRON	prn	Case=Acc|Gender=Fem,Masc|Number=Sing|PronType=Dem	11	nmod	_	_
 11	qewimîne	qewimin	VERB	vblex	Evident=Nfh|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	SpaceAfter=No
 12	.	.	PUNCT	sent	_	2	punct	_	_
 

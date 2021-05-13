@@ -12,18 +12,18 @@ It occurs with 1 different values: `Yes`.
 2031 tokens (1%) have a non-empty value of `Reflex`.
 19 types (0%) occur at least once with a non-empty value of `Reflex`.
 2 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 2 part-of-speech tags: <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (1027; 1% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (1004; 1% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="la_proiel-pos-DET.html">DET</a></tt> (1027; 1% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (1004; 1% instances).
 
-### `ADJ`
+### `DET`
 
-1027 <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> tokens (5% of all `ADJ` tokens) have a non-empty value of `Reflex`.
+1027 <tt><a href="la_proiel-pos-DET.html">DET</a></tt> tokens (13% of all `DET` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `ADJ` and `Reflex` co-occurred: <tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1027; 100%), <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (1027; 100%), <tt><a href="la_proiel-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (1027; 100%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (595; 58%).
+The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (1027; 100%), <tt><a href="la_proiel-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (1027; 100%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (595; 58%).
 
-`ADJ` tokens may have the following values of `Reflex`:
+`DET` tokens may have the following values of `Reflex`:
 
 * `Yes` (1027; 100% of non-empty `Reflex`): <em>suis, suam, sua, suum, suo, suos, suae, suas, sui, suorum</em>
-* `EMPTY` (19345): <em>haec, illi, hoc, illis, nihil, illum, omnia, his, omnes, ille</em>
+* `EMPTY` (6847): <em>omnes, hoc, omnibus, omni, mea, tua, meum, nostri, omnis, ipsum</em>
 
 ### `PRON`
 
@@ -39,5 +39,5 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 ## Relations with Agreement in `Reflex`
 
 The 10 most frequent relations where parent and child node agree in `Reflex`:
-<tt>PRON --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> ADJ</tt> (11; 73%).
+<tt>PRON --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> DET</tt> (11; 100%).
 

@@ -7,15 +7,15 @@ udver: '2'
 ## Treebank Statistics: UD_Buryat-BDT: POS Tags: `PART`
 
 There are 36 `PART` lemmas (1%), 46 `PART` types (1%) and 177 `PART` tokens (2%).
-Out of 16 observed tags, the rank of `PART` is: 8 in number of lemmas, 9 in number of types and 11 in number of tokens.
+Out of 16 observed tags, the rank of `PART` is: 8 in number of lemmas, 10 in number of types and 11 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>даа, һэн, гү, ха, лэ, гээд, _, һаа, үгы, гэхэ</em>
 
 The 10 most frequent `PART` types:  <em>даа, һэн, гү, ха, лэ, гээд, һаа, үгы, һаань, ааб</em>
 
-The 10 most frequent ambiguous lemmas: <em>гү</em> (<tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 19, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>_</em> (<tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 9, <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 9, <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> 3, <tt><a href="bxr_bdt-pos-DET.html">DET</a></tt> 2, <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 1, <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> 1), <em>һаа</em> (<tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 8, <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> 3), <em>үгы</em> (<tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 7, <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 2, <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> 1), <em>бэлэй</em> (<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 7, <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> 5, <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 1), <em>хүн</em> (<tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> 77, <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>гү</em> (<tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 19, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>_</em> (<tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 9, <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 9, <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 4, <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> 3, <tt><a href="bxr_bdt-pos-DET.html">DET</a></tt> 2, <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 1, <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> 1), <em>һаа</em> (<tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 8, <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> 3), <em>үгы</em> (<tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 7, <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 2, <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> 1), <em>бэлэй</em> (<tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> 7, <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 5, <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 1), <em>хүн</em> (<tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> 77, <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>гү</em> (<tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 17, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>гэгшэд</em> (<tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 2, <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 1), <em>гэжэ</em> (<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 87, <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 2), <em>бэлэй</em> (<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 7, <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> 5, <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 1), <em>гэхэдэ</em> (<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 6, <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 1), <em>гээ</em> (<tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 1, <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 1), <em>хэжэ</em> (<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 7, <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 1), <em>юм</em> (<tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> 65, <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>гү</em> (<tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 17, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>гэгшэд</em> (<tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 2, <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 1), <em>гэжэ</em> (<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 87, <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 2), <em>бэлэй</em> (<tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> 7, <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 5, <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 1), <em>гэхэдэ</em> (<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 6, <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 1), <em>гээ</em> (<tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 1, <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 1), <em>хэжэ</em> (<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 7, <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 1), <em>юм</em> (<tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> 65, <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 1)
 
 
 * <em>гү</em>
@@ -28,8 +28,8 @@ The 10 most frequent ambiguous types:  <em>гү</em> (<tt><a href="bxr_bdt-pos-P
   * <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 87: <em>« Путкинотко » <b>гэжэ</b> нэрэтэй ном соо һонин ушарнууд болоно .</em>
   * <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 2: <em>Кондратьев ганса найруулагша бэшэ , мүн оршуулагша байhан <b>гэжэ</b> мэдээжэ .</em>
 * <em>бэлэй</em>
-  * <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 7: <em>Ехэ шанга бөө , үзэлшэн , хэлэһэниинь тон тудалдадаг <b>бэлэй</b> .</em>
-  * <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> 5: <em>Хүдөөгэй ажалда хамсыгаа шуугаа <b>бэлэй</b> .</em>
+  * <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> 7: <em>Хүдөөгэй ажалда хамсыгаа шуугаа <b>бэлэй</b> .</em>
+  * <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 5: <em>Хамагые ойлгожо , бүхые багтаажа шададаг <b>бэлэй</b> .</em>
   * <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> 1: <em>Одоол тиихэдэ залуу найруулагша оролдожол , хаба шадалаа харуулаа <b>бэлэй</b> .</em>
 * <em>гэхэдэ</em>
   * <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 6: <em>Үшөө нэгэ һанал бодол <b>гэхэдэ</b> , мүнөө фермернүүдтэ тэдхэмжэ мүнгэн үгтэдэг .</em>
@@ -46,7 +46,7 @@ The 10 most frequent ambiguous types:  <em>гү</em> (<tt><a href="bxr_bdt-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.277778 (the average of all parts of speech is 1.635385).
+The form / lemma ratio of `PART` is 1.277778 (the average of all parts of speech is 1.633129).
 
 The 1st highest number of forms (8) was observed with the lemma “_”: <em>hаа, hэм, hэн, бэлэй, гэжэ, гээбы, гээшэмнай, юм</em>.
 
@@ -65,9 +65,9 @@ Examples: <em>даа, һэн, ха, лэ, гээд, һаа, үгы, һаань, 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 9 different relations: <tt><a href="bxr_bdt-dep-discourse.html">discourse</a></tt> (157; 89% instances), <tt><a href="bxr_bdt-dep-advmod-neg.html">advmod:neg</a></tt> (6; 3% instances), <tt><a href="bxr_bdt-dep-mark.html">mark</a></tt> (6; 3% instances), <tt><a href="bxr_bdt-dep-fixed.html">fixed</a></tt> (2; 1% instances), <tt><a href="bxr_bdt-dep-punct.html">punct</a></tt> (2; 1% instances), <tt><a href="bxr_bdt-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="bxr_bdt-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="bxr_bdt-dep-compound.html">compound</a></tt> (1; 1% instances), <tt><a href="bxr_bdt-dep-nsubj.html">nsubj</a></tt> (1; 1% instances)
+`PART` nodes are attached to their parents using 8 different relations: <tt><a href="bxr_bdt-dep-discourse.html">discourse</a></tt> (158; 89% instances), <tt><a href="bxr_bdt-dep-advmod-neg.html">advmod:neg</a></tt> (6; 3% instances), <tt><a href="bxr_bdt-dep-mark.html">mark</a></tt> (6; 3% instances), <tt><a href="bxr_bdt-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="bxr_bdt-dep-fixed.html">fixed</a></tt> (2; 1% instances), <tt><a href="bxr_bdt-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="bxr_bdt-dep-compound.html">compound</a></tt> (1; 1% instances), <tt><a href="bxr_bdt-dep-nsubj.html">nsubj</a></tt> (1; 1% instances)
 
-Parents of `PART` nodes belong to 6 different parts of speech: <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (113; 64% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (36; 20% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (14; 8% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (11; 6% instances), <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> (1; 1% instances)
+Parents of `PART` nodes belong to 6 different parts of speech: <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (111; 63% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (37; 21% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (14; 8% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (12; 7% instances), <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> (1; 1% instances)
 
 169 (95%) `PART` nodes are leaves.
 

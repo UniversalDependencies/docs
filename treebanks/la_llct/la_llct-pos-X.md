@@ -29,7 +29,7 @@ The 10 most frequent ambiguous types:  <em>[Propn]</em> (<tt><a href="la_llct-po
 
 ## Morphology
 
-The form / lemma ratio of `X` is 2.000000 (the average of all parts of speech is 2.628626).
+The form / lemma ratio of `X` is 2.000000 (the average of all parts of speech is 2.628423).
 
 The 1st highest number of forms (2) was observed with the lemma “missing^token”: <em>[--], [Propn]</em>.
 

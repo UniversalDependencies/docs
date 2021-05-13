@@ -13,7 +13,7 @@ The 10 most frequent `NUM` lemmas: <em>kélen, fìla, kɔ̀nɔntɔn, ségin, sà
 
 The 10 most frequent `NUM` types:  <em>kelen, fila, kònòntò, seegin, saba, 6, NAN, kelen-kelen, wolonfila, woro</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 94, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 71, <tt><a href="bm_crb-pos-PRON.html">PRON</a></tt> 60, <tt><a href="bm_crb-pos-PUNCT.html">PUNCT</a></tt> 59, <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 50, <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 44, <tt><a href="bm_crb-pos-PART.html">PART</a></tt> 37, <tt><a href="bm_crb-pos-DET.html">DET</a></tt> 12, <tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt> 9, <tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 8, <tt><a href="bm_crb-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="bm_crb-pos-X.html">X</a></tt> 4, <tt><a href="bm_crb-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="bm_crb-pos-NUM.html">NUM</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 94, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 71, <tt><a href="bm_crb-pos-PUNCT.html">PUNCT</a></tt> 63, <tt><a href="bm_crb-pos-PRON.html">PRON</a></tt> 60, <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 44, <tt><a href="bm_crb-pos-PART.html">PART</a></tt> 37, <tt><a href="bm_crb-pos-DET.html">DET</a></tt> 12, <tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt> 9, <tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 8, <tt><a href="bm_crb-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="bm_crb-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="bm_crb-pos-NUM.html">NUM</a></tt> 2)
 
 The 10 most frequent ambiguous types:  <em>woro</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="bm_crb-pos-NUM.html">NUM</a></tt> 1)
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>woro</em> (<tt><a href="bm_crb-pos-NO
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.040590).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.060038).
 
 The 1st highest number of forms (2) was observed with the lemma “_”: <em>kelen, kelen-kelen</em>.
 

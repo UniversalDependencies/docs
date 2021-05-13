@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_English-Pronouns: POS Tags: `SCONJ`
 
 There are 1 `SCONJ` lemmas (2%), 1 `SCONJ` types (1%) and 25 `SCONJ` tokens (1%).
-Out of 13 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 13 in number of types and 11 in number of tokens.
+Out of 13 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 13 in number of types and 10 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>that</em>
 

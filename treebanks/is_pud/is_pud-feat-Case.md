@@ -98,7 +98,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 * `Acc` (107; 17% of non-empty `Case`): <em>Krist, Miðjarðarhaf, Miðjarðarhafið, Beijing, Moravíu, Ítalíu, Þrakíu, Abakumov, Adríahaf, Aires-borg</em>
 * `Dat` (204; 31% of non-empty `Case`): <em>Bretlandi, Balkanskaga, Bandaríkjunum, Frakklandi, Grikklandi, Kyrrahafi, Rússlandi, Ítalíu, Alaska, Albaníu</em>
-* `Gen` (150; 23% of non-empty `Case`): <em>Evrópu, Bandaríkjanna, Breta, Akkemenída, Frakka, Kínverja, Q​i​n​g​-​k​e​i​s​a​r​a​v​e​l​d​i​s​i​n​s, Tútmosar, Asíu, Egyptalands</em>
+* `Gen` (150; 23% of non-empty `Case`): <em>Evrópu, Bandaríkjanna, Breta, Akkemenída, Frakka, Kínverja, Qing-keisaraveldisins, Tútmosar, Asíu, Egyptalands</em>
 * `Nom` (187; 29% of non-empty `Case`): <em>Kínverjar, Bandaríkin, Bretland, Evrópubúar, Kristófer, Kólumbus, Anselmi, Donald, Filippus, George</em>
 * `EMPTY` (816): <em>the, of, Hong, Kong, Trump, de, Clinton, Disney, Rafferty, a</em>
 

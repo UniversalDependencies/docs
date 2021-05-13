@@ -13,7 +13,7 @@ The 10 most frequent `X` lemmas: <em>_</em>
 
 The 10 most frequent `X` types:  <em>Bretanha, americano, americanos</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="pt_pud-pos-VERB.html">VERB</a></tt> 1059, <tt><a href="pt_pud-pos-PRON.html">PRON</a></tt> 891, <tt><a href="pt_pud-pos-ADP.html">ADP</a></tt> 689, <tt><a href="pt_pud-pos-NUM.html">NUM</a></tt> 467, <tt><a href="pt_pud-pos-AUX.html">AUX</a></tt> 418, <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt> 316, <tt><a href="pt_pud-pos-DET.html">DET</a></tt> 290, <tt><a href="pt_pud-pos-CCONJ.html">CCONJ</a></tt> 131, <tt><a href="pt_pud-pos-SCONJ.html">SCONJ</a></tt> 96, <tt><a href="pt_pud-pos-ADJ.html">ADJ</a></tt> 94, <tt><a href="pt_pud-pos-SYM.html">SYM</a></tt> 40, <tt><a href="pt_pud-pos-ADV.html">ADV</a></tt> 14, <tt><a href="pt_pud-pos-X.html">X</a></tt> 5, <tt><a href="pt_pud-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="pt_pud-pos-VERB.html">VERB</a></tt> 1059, <tt><a href="pt_pud-pos-PRON.html">PRON</a></tt> 891, <tt><a href="pt_pud-pos-ADP.html">ADP</a></tt> 677, <tt><a href="pt_pud-pos-NUM.html">NUM</a></tt> 467, <tt><a href="pt_pud-pos-AUX.html">AUX</a></tt> 418, <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt> 311, <tt><a href="pt_pud-pos-DET.html">DET</a></tt> 290, <tt><a href="pt_pud-pos-CCONJ.html">CCONJ</a></tt> 131, <tt><a href="pt_pud-pos-SCONJ.html">SCONJ</a></tt> 96, <tt><a href="pt_pud-pos-ADJ.html">ADJ</a></tt> 94, <tt><a href="pt_pud-pos-SYM.html">SYM</a></tt> 40, <tt><a href="pt_pud-pos-ADV.html">ADV</a></tt> 14, <tt><a href="pt_pud-pos-X.html">X</a></tt> 5, <tt><a href="pt_pud-pos-INTJ.html">INTJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>americano</em> (<tt><a href="pt_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="pt_pud-pos-X.html">X</a></tt> 1), <em>americanos</em> (<tt><a href="pt_pud-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="pt_pud-pos-X.html">X</a></tt> 1)
 
@@ -23,12 +23,12 @@ The 10 most frequent ambiguous types:  <em>americano</em> (<tt><a href="pt_pud-p
   * <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt> 1: <em>" Eu tenho que felicitar o Andy -- por chegar a o No. 1 de o mundo , que é uma conquista incrível " , disse o <b>americano</b> .</em>
   * <tt><a href="pt_pud-pos-X.html">X</a></tt> 1: <em>Como resultado , Trump não está muito preocupado sobre o voto latino <b>americano</b> em um nível nacional .</em>
 * <em>americanos</em>
-  * <tt><a href="pt_pud-pos-ADJ.html">ADJ</a></tt> 4: <em>Os povos nativos <b>americanos</b> por toda a América confiavam nele como produto principal de os seus tratamentos médicos .</em>
+  * <tt><a href="pt_pud-pos-ADJ.html">ADJ</a></tt> 4: <em>Os povos nativos <b>americanos</b> por toda a América confiavam em ele como produto principal de os seus tratamentos médicos .</em>
   * <tt><a href="pt_pud-pos-X.html">X</a></tt> 1: <em>A votação antecipada sugere que de esta vez os latino <b>americanos</b> votarão em grande número , mas é incerto se o aumento terá um impacto .</em>
 
 ## Morphology
 
-The form / lemma ratio of `X` is 3.000000 (the average of all parts of speech is 1.574215).
+The form / lemma ratio of `X` is 3.000000 (the average of all parts of speech is 1.571356).
 
 The 1st highest number of forms (3) was observed with the lemma “_”: <em>Bretanha, americano, americanos</em>.
 

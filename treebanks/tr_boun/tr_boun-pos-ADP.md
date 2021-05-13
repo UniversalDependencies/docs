@@ -26,7 +26,7 @@ The 10 most frequent ambiguous types:  <em>için</em> (<tt><a href="tr_boun-pos-
   * <tt><a href="tr_boun-pos-ADV.html">ADV</a></tt> 57: <em>İşe dalıyorum <b>sonra</b> ...</em>
 * <em>kadar</em>
   * <tt><a href="tr_boun-pos-ADP.html">ADP</a></tt> 241: <em>Bu süreç buraya <b>kadar</b> Türkiye'de de benzer bir biçimde gelişti .</em>
-  * <tt><a href="tr_boun-pos-ADV.html">ADV</a></tt> 39: <em>Ah ! Bilseniz , ne <b>kadar</b> güzel , aydınlık günlerle buluşPotirsiniz .</em>
+  * <tt><a href="tr_boun-pos-ADV.html">ADV</a></tt> 39: <em>Ah ! Bilseniz , ne <b>kadar</b> güzel , aydınlık günlerle buluşabilirsiniz .</em>
 * <em>ki</em>
   * <tt><a href="tr_boun-pos-CCONJ.html">CCONJ</a></tt> 184: <em>Ancak bu bir teferruat gayet tabii <b>ki</b> .</em>
   * <tt><a href="tr_boun-pos-ADP.html">ADP</a></tt> 153: <em>Dünya ve yüzeyinde <b>ki</b> varoluş , vizyon realitedir .</em>
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>için</em> (<tt><a href="tr_boun-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.113990 (the average of all parts of speech is 2.389211).
+The form / lemma ratio of `ADP` is 1.113990 (the average of all parts of speech is 2.389386).
 
 The 1st highest number of forms (7) was observed with the lemma “li”: <em>'li, 'lu, 'lı, li, lu, lü, lı</em>.
 
@@ -62,13 +62,13 @@ The 2nd highest number of forms (4) was observed with the lemma “lik”: <em>'
 
 The 3rd highest number of forms (4) was observed with the lemma “önce”: <em>önce, önceki, öncekiler, öncesi</em>.
 
-`ADP` occurs with 12 features: <tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt> (326; 10% instances), <tt><a href="tr_boun-feat-Mood.html">Mood</a></tt> (317; 10% instances), <tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt> (308; 10% instances), <tt><a href="tr_boun-feat-Number.html">Number</a></tt> (223; 7% instances), <tt><a href="tr_boun-feat-Person.html">Person</a></tt> (223; 7% instances), <tt><a href="tr_boun-feat-Case.html">Case</a></tt> (205; 6% instances), <tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt> (30; 1% instances), <tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt> (30; 1% instances), <tt><a href="tr_boun-feat-Tense.html">Tense</a></tt> (6; 0% instances), <tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt> (5; 0% instances), <tt><a href="tr_boun-feat-Voice.html">Voice</a></tt> (3; 0% instances), <tt><a href="tr_boun-feat-Evident.html">Evident</a></tt> (1; 0% instances)
+`ADP` occurs with 6 features: <tt><a href="tr_boun-feat-Number.html">Number</a></tt> (205; 6% instances), <tt><a href="tr_boun-feat-Person.html">Person</a></tt> (205; 6% instances), <tt><a href="tr_boun-feat-Case.html">Case</a></tt> (202; 6% instances), <tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt> (27; 1% instances), <tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt> (27; 1% instances), <tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt> (5; 0% instances)
 
-`ADP` occurs with 30 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Equ`, `Case=Gen`, `Case=Loc`, `Case=Nom`, `Evident=Fh`, `Mood=Cnd`, `Mood=Imp`, `Mood=Opt`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `Polarity=Pos`, `Tense=Past`, `Tense=Pres`, `VerbForm=Conv`, `VerbForm=Part`, `Voice=Cau`, `Voice=Pass`, `Voice=Rfl`
+`ADP` occurs with 17 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Equ`, `Case=Gen`, `Case=Loc`, `Case=Nom`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `Polarity=Pos`
 
-`ADP` occurs with 35 feature combinations.
-The most frequent feature combination is `_` (2677 tokens).
-Examples: <em>için, gibi, sonra, kadar, diye, ki, göre, önce, karşı, doğru</em>
+`ADP` occurs with 23 feature combinations.
+The most frequent feature combination is `_` (3001 tokens).
+Examples: <em>için, gibi, olarak, sonra, kadar, diye, ki, göre, önce, karşı</em>
 
 
 ## Relations

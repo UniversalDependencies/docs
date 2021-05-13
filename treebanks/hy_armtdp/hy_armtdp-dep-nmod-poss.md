@@ -54,7 +54,7 @@ The following 17 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 # visual-style 6	fgColor:white
 # visual-style 6 5 nmod:poss	color:blue
 1	Որ	որ	SCONJ	_	_	7	mark	_	Translit=Or|LTranslit=or
-2	մյուս	մյուս	DET	_	Distance=Dist|PronType=Dem	3	det	_	Translit=myows|LTranslit=myows
+2	մյուս	մյուս	DET	_	Deixis=Remt|PronType=Dem	3	det	_	Translit=myows|LTranslit=myows
 3	ռաունդին	ռաունդ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	7	obl	_	Translit=ṙaowndin|LTranslit=ṙaownd
 4	էլ	էլ	ADV	_	_	3	advmod:emph	_	Translit=ēl|LTranslit=ēl
 5	խաղալու	խաղալ	VERB	_	Case=Dat|Definite=Ind|Number=Coll|Polarity=Pos|Subcat=Intr|VerbForm=Gdv|Voice=Mid	6	nmod:poss	_	Translit=xaġalow|LTranslit=xaġal

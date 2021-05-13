@@ -31,7 +31,7 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 7	சிறைகளில்	சிறை	NOUN	NNL-3PN--	Case=Loc|Gender=Neut|Number=Plur|Person=3	11	nmod	11:nmod:இரு:loc	Translit=ciraikaḷil|LTranslit=cirai
 8	இருந்து	இரு	ADP	PP-------	AdpType=Post	7	case	7:case	Translit=iruntu|LTranslit=iru
 9	தலா	தலா	ADJ	JJ-------	_	11	amod	11:amod	Translit=talā|LTranslit=talā
-10	7	7	NUM	U=-------	NumForm=Digit	11	nummod	11:nummod	Translit=7|LTranslit=7
+10	7	7	NUM	U=-------	NumForm=Digit|NumType=Card	11	nummod	11:nummod	Translit=7|LTranslit=7
 11	பேர்	பேர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	25	nsubj	25:nsubj	Translit=pēr|LTranslit=pēr
 12	உம்	உம்	PART	Tv-------	_	11	advmod:emph	11:advmod:emph	Translit=um|LTranslit=um
 13	,	,	PUNCT	Z:-------	PunctType=Comm	25	punct	25:punct	Translit=,|LTranslit=,
@@ -44,7 +44,7 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 20	தில்லி	தில்லி	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	21	nmod	21:nmod:nom	Translit=tilli|LTranslit=tilli
 21	சிறையில்	சிறை	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	24	nmod	24:nmod:இரு:loc	Translit=ciraiyil|LTranslit=cirai
 22	இருந்து	இரு	ADP	PP-------	AdpType=Post	21	case	21:case	Translit=iruntu|LTranslit=iru
-23	2	2	NUM	U=-------	NumForm=Digit	24	nummod	24:nummod	Translit=2|LTranslit=2
+23	2	2	NUM	U=-------	NumForm=Digit|NumType=Card	24	nummod	24:nummod	Translit=2|LTranslit=2
 24	பேர்	பேர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	25	dep	25:dep	Translit=pēr|LTranslit=pēr
 25	உம்	உம்	PART	Tv-------	_	26	advmod:emph	26:advmod:emph	Translit=um|LTranslit=um
 26	விடுவிக்கப்	விடுவி	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	0	root	0:root	Translit=viṭuvikkap|LTranslit=viṭuvi

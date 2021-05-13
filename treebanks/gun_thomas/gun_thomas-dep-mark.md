@@ -24,14 +24,14 @@ The following 5 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 3 4 mark	color:blue
 1	Ha'e	ha'e	CCONJ	coordconn	_	10	cc	_	and
 2	ore	ore	PRON	pro	Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	1.PL.EXCL
-3	roju	ju	VERB	vi:a	Clusivity[subj]=Ex|Mood=Ind|Person[subj]=1|Subcat=Int|VerbForm=Fin	10	advcl	_	A1.PL.EXCL-come
+3	roju	ju	VERB	vi:a	Clusivity[subj]=Ex|Mood=Ind|Person[subj]=1|Subcat=Intr|VerbForm=Fin	10	advcl	_	A1.PL.EXCL-come
 4	ramo'i	ramo	SCONJ	subordconn	_	3	mark	_	when-=DIM
 5	ronguare	ronguare	SCONJ	nmlzer	_	3	mark	_	NMLZ.PAST
 6	ngo	ngo	PART	illocprt	_	3	dep:mod	_	EPIS
 7	ko'ape	ko'ape	ADV	dem	_	3	advmod	_	here
 8	,	,	PUNCT	punct	_	3	punct	_	_
 9	ka'aguy	ka'aguy	NOUN	n	_	10	nsubj	_	forest
-10	heta	eta	VERB	inact	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	B3-a.lot
+10	heta	eta	VERB	inact	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	0	root	_	B3-a.lot
 11	.	.	PUNCT	punct	_	10	punct	_	_
 
 ~~~
@@ -67,10 +67,10 @@ The following 5 pairs of parts of speech are connected with `mark`: <tt><a href=
 3	teĩ	teĩ	SCONJ	subordconn	_	1	mark	_	CONC
 4	ko	ko	PART	illocprt	_	1	dep:mod	_	EPIS
 5	ore	ore	PRON	pro	Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	1.PL.EXCL
-6	roñea'ã	ñea'ã	VERB	vd:a	Clusivity[subj]=Ex|Mood=Ind|Person[subj]=1|Subcat=IntInd|VerbForm=Fin	0	root	_	A1.PL.EXCL-make.efforts
+6	roñea'ã	ñea'ã	VERB	vd:a	Clusivity[subj]=Ex|Mood=Ind|Person[subj]=1|Subcat=Indir|VerbForm=Fin	0	root	_	A1.PL.EXCL-make.efforts
 7	apy	apy	ADV	dem	_	6	advmod	_	DEM
 8	,	,	PUNCT	punct	_	9	punct	_	_
-9	romba'apo	mba'apo	VERB	vi:a	Clusivity[subj]=Ex|Mood=Ind|Person[subj]=1|Subcat=Int|VerbForm=Fin	6	ccomp	_	A1.PL.EXCL-work
+9	romba'apo	mba'apo	VERB	vi:a	Clusivity[subj]=Ex|Mood=Ind|Person[subj]=1|Subcat=Intr|VerbForm=Fin	6	ccomp	_	A1.PL.EXCL-work
 10	pecha	upecha	ADV	dem	_	9	advmod	_	like.this
 11	.	.	PUNCT	punct	_	9	punct	_	_
 

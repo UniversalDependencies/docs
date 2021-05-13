@@ -58,5 +58,5 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="da_ddt-dep-advmod.html">advmod</a></tt>]--> VERB</tt> (248; 59%),
 <tt>VERB --[<tt><a href="da_ddt-dep-dep.html">dep</a></tt>]--> VERB</tt> (13; 57%),
 <tt>VERB --[<tt><a href="da_ddt-dep-cop.html">cop</a></tt>]--> AUX</tt> (1; 100%),
-<tt>VERB --[<tt><a href="da_ddt-dep-obl-loc.html">obl:loc</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="da_ddt-dep-obl-lmod.html">obl:lmod</a></tt>]--> VERB</tt> (1; 100%).
 

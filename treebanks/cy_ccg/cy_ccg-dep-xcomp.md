@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1438 nodes (4%) are attached to their parents as `xcomp`.
+1640 nodes (4%) are attached to their parents as `xcomp`.
 
-1434 instances of `xcomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.66063977746871.
+1636 instances of `xcomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.64085365853659.
 
-The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1071; 74% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (304; 21% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (44; 3% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
+The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1215; 74% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (345; 21% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (47; 3% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (11; 1% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -22,39 +22,34 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 xcomp	color:blue
-1	yr	y	PART	aff	_	2	advmod	_	_
-2	wy	bod	VERB	verb	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
-3	'n	yn	AUX	impf	_	4	aux	_	_
-4	eilio	eilio	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	2	xcomp	_	_
-5	Elin	Elin	PROPN	person	_	4	obj	_	_
-6	Jones	Jones	PROPN	person	_	5	flat:name	_	_
-7	ar	ar	ADP	prep	_	8	case	_	_
-8	gyfer	cyfer	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	4	obl	_	_
-9	swydd	swydd	NOUN	noun	Gender=Fem|Number=Sing	8	nmod	_	_
-10	y	y	DET	art	_	11	det	_	_
-11	Llywydd	llywydd	NOUN	noun	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\n
+1	Yr	y	PART	aff	_	2	advmod	_	_
+2	ydym	bod	VERB	verb	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	yn	yn	AUX	impf	_	4	aux	_	_
+4	llithro	llithro	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	2	xcomp	_	_
+5	i	i	ADP	prep	_	6	case	_	_
+6	le	lle	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	4	obl	_	_
+7	tywyll	tywyll	ADJ	pos	Degree=Pos	6	amod	_	_
+8	dros	dros	ADP	prep	_	9	case	_	_
+9	ben	pen	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	4	obl	_	SpaceAfter=No
+10	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\n
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 xcomp	color:blue
-1	yr	y	PART	aff	_	2	advmod	_	_
-2	ydw	bod	VERB	verb	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
-3	'n	yn	AUX	impf	_	4	aux	_	_
-4	nabod	nabod	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	2	xcomp	_	_
-5	rhywun	rhywun	NOUN	noun	Gender=Masc|Number=Sing	4	obj	_	_
-6	sy	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Relative=Rel|Tense=Pres	5	acl:relcl	_	SpaceAfter=No
-7	'n	yn	AUX	impf	_	8	aux	_	_
-8	medru	medru	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	6	xcomp	_	_
-9	siarad	siarad	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	8	xcomp	_	_
-10	Almaeneg	almaeneg	NOUN	noun	Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No
-11	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\n
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 xcomp	color:blue
+1	Ble	ble	ADV	adv	_	4	advmod	_	_
+2	i	i	ADP	prep	_	3	case	_	_
+3	ni	ni	PRON	indep	Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
+4	fod	bod	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	0	root	_	_
+5	coginio	coginio	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	4	xcomp	_	_
+6	a	a	CCONJ	cconj	_	7	cc	_	_
+7	bwyta	bwyta	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	5	conj	_	SpaceAfter=No
+8	?	?	PUNCT	punct	_	4	punct	_	SpacesAfter=\n
 
 ~~~
 
@@ -62,20 +57,20 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 6 xcomp	color:blue
-1	Mae	bod	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
-2	'r	y	DET	art	_	3	det	_	_
-3	amddiffynfa	amddiffynfa	NOUN	noun	Gender=Fem|Number=Sing	1	nsubj	_	_
-4	cyntaf	cynnar	ADJ	sup	Degree=Sup	3	amod	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 6 xcomp	color:blue
+1	Nid	ni	PART	neg	_	2	advmod	_	_
+2	oedd	bod	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+3	hi	hi	PRON	indep	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	ddim	dim	PART	neg	Mutation=SM	2	advmod	_	_
 5	yn	yn	AUX	impf	_	6	aux	_	_
-6	dyddio	dyddio	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	1	xcomp	_	_
-7	i	i	ADP	prep	_	8	case	_	_
-8	Oes	oes	NOUN	noun	Gender=Fem|Number=Sing	6	obl	_	_
-9	yr	y	DET	art	_	10	det	_	_
-10	Haearn	haearn	NOUN	noun	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
-11	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
+6	gallu	gallu	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	2	xcomp	_	_
+7	clywed	clywed	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	6	xcomp	_	_
+8	yn	yn	ADP	prep	_	10	case	_	_
+9	y	y	DET	art	_	10	det	_	_
+10	sinema	sinema	NOUN	noun	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+11	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\n
 
 ~~~
 

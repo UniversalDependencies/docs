@@ -40,5 +40,6 @@ The most frequent other feature values with which `ADJ` and `Variant` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `Variant`:
 <tt>ADJ --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> ADJ</tt> (21; 68%),
-<tt>ADJ --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>ADJ --[<tt><a href="cs_fictree-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (1; 100%).
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2298 nodes (10%) are attached to their parents as `punct`.
+2297 nodes (10%) are attached to their parents as `punct`.
 
-1590 instances of `punct` (69%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.70147954743255.
+1589 instances of `punct` (69%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.70265563778842.
 
-The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> (1252; 54% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> (537; 23% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> (257; 11% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> (121; 5% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> (60; 3% instances), <tt><a href="hi_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> (24; 1% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> (22; 1% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt>-<tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="hi_pud-pos-PART.html">PART</a></tt>-<tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="hi_pud-pos-X.html">X</a></tt>-<tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `punct`: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> (1254; 55% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> (536; 23% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> (258; 11% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> (122; 5% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> (60; 3% instances), <tt><a href="hi_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> (22; 1% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> (22; 1% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt>-<tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="hi_pud-pos-PART.html">PART</a></tt>-<tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="hi_pud-pos-X.html">X</a></tt>-<tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances).
 
 
 ~~~ conllu

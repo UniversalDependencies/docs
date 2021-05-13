@@ -52,9 +52,9 @@ The following 33 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 3 5 iobj	color:blue
 1	Слꙑшасте	слꙑшати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.27
 2	ѣко	ꙗко	SCONJ	G-	_	3	mark	_	ref=MATT_5.27
-3	речено	рещи	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	1	ccomp	_	ref=MATT_5.27
+3	речено	рещи	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	1	ccomp	_	ref=MATT_5.27
 4	бꙑⷭ҇	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	ref=MATT_5.27
-5	древънимъ	древльнь	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	3	iobj	_	ref=MATT_5.27
+5	древънимъ	древльнь	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	3	iobj	_	ref=MATT_5.27
 
 ~~~
 

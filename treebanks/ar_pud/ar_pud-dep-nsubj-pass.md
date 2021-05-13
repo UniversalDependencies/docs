@@ -28,7 +28,7 @@ The following 9 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 4	من	min_1	ADP	IN	_	6	case	_	_
 5	خلال	xilAl_1	ADP	IN	_	4	fixed	_	_
 6	حساب	HisAb_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	_
-7	كلينتون	kliynotuwn_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	6	nmod:gmod	_	_
+7	كلينتون	kliynotuwn_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	6	nmod	_	_
 8	المصرفي	maSorafiy~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	amod	_	_
 9	الكبير	kabiyr_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	amod	_	SpaceAfter=No
 10	.	._0	PUNCT	.	_	1	punct	_	_

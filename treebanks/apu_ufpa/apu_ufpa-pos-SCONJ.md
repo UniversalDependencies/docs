@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Apurina-UFPA: POS Tags: `SCONJ`
 
-There are 1 `SCONJ` lemmas (1%), 1 `SCONJ` types (0%) and 3 `SCONJ` tokens (1%).
-Out of 15 observed tags, the rank of `SCONJ` is: 14 in number of lemmas, 14 in number of types and 11 in number of tokens.
+There are 1 `SCONJ` lemmas (1%), 1 `SCONJ` types (0%) and 3 `SCONJ` tokens (0%).
+Out of 15 observed tags, the rank of `SCONJ` is: 14 in number of lemmas, 14 in number of types and 13 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>kutxi</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.184971).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.219388).
 
 The 1st highest number of forms (1) was observed with the lemma “kutxi”: <em>kutxi</em>.
 

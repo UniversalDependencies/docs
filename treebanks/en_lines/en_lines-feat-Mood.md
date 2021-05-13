@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="en_lines-pos-VERB.h
 
 5083 <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> tokens (46% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="en_lines-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5077; 100%), <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5074; 100%), <tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (3478; 68%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="en_lines-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5081; 100%), <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5074; 100%), <tt><a href="en_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (3478; 68%).
 
 `VERB` tokens may have the following values of `Mood`:
 

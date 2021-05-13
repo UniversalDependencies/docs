@@ -62,7 +62,7 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 `NOUN` tokens may have the following values of `Tense`:
 
 * `Past` (1; 100% of non-empty `Tense`): <em>hit</em>
-* `EMPTY` (4039): <em>time, people, years, year, government, city, state, war, century, world</em>
+* `EMPTY` (4035): <em>time, people, years, year, government, city, state, war, century, world</em>
 
 ## Relations with Agreement in `Tense`
 

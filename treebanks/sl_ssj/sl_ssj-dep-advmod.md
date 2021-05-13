@@ -31,7 +31,7 @@ The following 33 pairs of parts of speech are connected with `advmod`: <tt><a hr
 7	gotovo	gotovo	ADV	Rgp	Degree=Pos	9	advmod	_	Dep=9|Rel=AdvM
 8	ponovno	ponovno	ADV	Rgp	Degree=Pos	9	advmod	_	Dep=9|Rel=AdvO
 9	oživele	oživeti	VERB	Vmep-pf	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	SpaceAfter=No|Dep=0|Rel=Root
-10	.	.	PUNCT	Z	_	9	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+10	.	.	PUNCT	Z	_	9	punct	_	Dep=0|Rel=Root
 
 ~~~
 
@@ -50,7 +50,7 @@ The following 33 pairs of parts of speech are connected with `advmod`: <tt><a hr
 6	more	moči	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Dep=0|Rel=Root
 7	biti	biti	AUX	Va-n	VerbForm=Inf	8	cop	_	Dep=6|Rel=Atr
 8	sporno	sporen	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	xcomp	_	SpaceAfter=No|Dep=7|Rel=Atr
-9	.	.	PUNCT	Z	_	6	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+9	.	.	PUNCT	Z	_	6	punct	_	Dep=0|Rel=Root
 
 ~~~
 
@@ -71,7 +71,7 @@ The following 33 pairs of parts of speech are connected with `advmod`: <tt><a hr
 8	seboj	se	PRON	Px---i	Case=Ins|PronType=Prs|Reflex=Yes	10	nmod	_	Dep=10|Rel=Atr
 9	tesno	tesno	ADV	Rgp	Degree=Pos	10	advmod	_	Dep=10|Rel=Atr
 10	povezana	povezan	ADJ	Appmdn	Case=Nom|Degree=Pos|Gender=Masc|Number=Dual|VerbForm=Part	0	root	_	SpaceAfter=No|Dep=6|Rel=Atr
-11	.	.	PUNCT	Z	_	10	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+11	.	.	PUNCT	Z	_	10	punct	_	Dep=0|Rel=Root
 
 ~~~
 

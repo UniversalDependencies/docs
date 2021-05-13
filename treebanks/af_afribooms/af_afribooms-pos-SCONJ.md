@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Afrikaans-AfriBooms: POS Tags: `SCONJ`
 
 There are 31 `SCONJ` lemmas (1%), 32 `SCONJ` types (0%) and 1030 `SCONJ` tokens (2%).
-Out of 16 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 12 in number of types and 12 in number of tokens.
+Out of 16 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 11 in number of types and 12 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>dat, as, indien, soos, sodat, sowel, so, terwyl, omdat, nadat</em>
 
@@ -49,7 +49,7 @@ The 10 most frequent ambiguous types:  <em>dat</em> (<tt><a href="af_afribooms-p
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.032258 (the average of all parts of speech is 1.122045).
+The form / lemma ratio of `SCONJ` is 1.032258 (the average of all parts of speech is 1.122822).
 
 The 1st highest number of forms (2) was observed with the lemma “so”: <em>so, só</em>.
 
@@ -62,21 +62,21 @@ The 3rd highest number of forms (1) was observed with the lemma “aangesien”:
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 8 different relations: <tt><a href="af_afribooms-dep-amod.html">amod</a></tt> (871; 85% instances), <tt><a href="af_afribooms-dep-dep.html">dep</a></tt> (94; 9% instances), <tt><a href="af_afribooms-dep-cc.html">cc</a></tt> (54; 5% instances), <tt><a href="af_afribooms-dep-mark.html">mark</a></tt> (6; 1% instances), <tt><a href="af_afribooms-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="af_afribooms-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="af_afribooms-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="af_afribooms-dep-obj.html">obj</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 8 different relations: <tt><a href="af_afribooms-dep-amod.html">amod</a></tt> (871; 85% instances), <tt><a href="af_afribooms-dep-dep.html">dep</a></tt> (93; 9% instances), <tt><a href="af_afribooms-dep-cc.html">cc</a></tt> (55; 5% instances), <tt><a href="af_afribooms-dep-mark.html">mark</a></tt> (6; 1% instances), <tt><a href="af_afribooms-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="af_afribooms-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="af_afribooms-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="af_afribooms-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (620; 60% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (157; 15% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (115; 11% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (39; 4% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (31; 3% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (23; 2% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (14; 1% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt> (10; 1% instances), <tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (7; 1% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 14 different parts of speech: <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (656; 64% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (196; 19% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (95; 9% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (25; 2% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (19; 2% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (14; 1% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt> (1; 0% instances)
 
-76 (7%) `SCONJ` nodes are leaves.
+930 (90%) `SCONJ` nodes are leaves.
 
-893 (87%) `SCONJ` nodes have one child.
+95 (9%) `SCONJ` nodes have one child.
 
-31 (3%) `SCONJ` nodes have two children.
+0 (0%) `SCONJ` nodes have two children.
 
-30 (3%) `SCONJ` nodes have three or more children.
+5 (0%) `SCONJ` nodes have three or more children.
 
-The highest child degree of a `SCONJ` node is 4.
+The highest child degree of a `SCONJ` node is 3.
 
-Children of `SCONJ` nodes are attached using 13 different relations: <tt><a href="af_afribooms-dep-dep.html">dep</a></tt> (954; 91% instances), <tt><a href="af_afribooms-dep-punct.html">punct</a></tt> (31; 3% instances), <tt><a href="af_afribooms-dep-obl.html">obl</a></tt> (18; 2% instances), <tt><a href="af_afribooms-dep-ccomp.html">ccomp</a></tt> (14; 1% instances), <tt><a href="af_afribooms-dep-obj.html">obj</a></tt> (9; 1% instances), <tt><a href="af_afribooms-dep-xcomp.html">xcomp</a></tt> (7; 1% instances), <tt><a href="af_afribooms-dep-cop.html">cop</a></tt> (4; 0% instances), <tt><a href="af_afribooms-dep-amod.html">amod</a></tt> (3; 0% instances), <tt><a href="af_afribooms-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="af_afribooms-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="af_afribooms-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="af_afribooms-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="af_afribooms-dep-nmod.html">nmod</a></tt> (1; 0% instances)
+Children of `SCONJ` nodes are attached using 6 different relations: <tt><a href="af_afribooms-dep-dep.html">dep</a></tt> (104; 95% instances), <tt><a href="af_afribooms-dep-ccomp.html">ccomp</a></tt> (2; 2% instances), <tt><a href="af_afribooms-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="af_afribooms-dep-obj.html">obj</a></tt> (1; 1% instances), <tt><a href="af_afribooms-dep-obl.html">obl</a></tt> (1; 1% instances), <tt><a href="af_afribooms-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
 
-Children of `SCONJ` nodes belong to 15 different parts of speech: <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (568; 54% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (233; 22% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (66; 6% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (39; 4% instances), <tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (31; 3% instances), <tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (27; 3% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (20; 2% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (18; 2% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (13; 1% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt> (2; 0% instances)
+Children of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (70; 64% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (20; 18% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (7; 6% instances), <tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (5; 5% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (5; 5% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt> (1; 1% instances)
 

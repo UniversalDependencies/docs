@@ -23,11 +23,11 @@ The following 3 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 10	fgColor:white
 # visual-style 10 12 fixed	color:blue
 1	Ko'apy	ko'apy	ADV	dem	_	2	advmod	_	here
-2	roju	ju	VERB	vi:a	Clusivity[subj]=Ex|Mood=Ind|Person[subj]=1|Subcat=Int|VerbForm=Fin	6	advcl	_	A1.PL.EXCL-come
+2	roju	ju	VERB	vi:a	Clusivity[subj]=Ex|Mood=Ind|Person[subj]=1|Subcat=Intr|VerbForm=Fin	6	advcl	_	A1.PL.EXCL-come
 3	rire	rire	SCONJ	subordconn	_	2	mark	_	after
 4	ma	ma	PART	aspprt	_	2	dep:mod	_	ASP
 5	,	,	PUNCT	punct	_	6	punct	_	_
-6	ou	u	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	A3-come
+6	ou	u	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	0	root	_	A3-come
 7	kuri	kuri	PART	temprt	_	6	dep:mod	_	CUR
 8	cheñora	cheñora	NOUN	n	_	6	nsubj	_	lady
 9	,	,	PUNCT	punct	_	13	punct	_	_
@@ -100,7 +100,7 @@ The following 3 pairs of parts of speech are connected with `fixed`: <tt><a href
 9	opy	opy	NOUN	n	_	12	obl	_	prayer.house
 10	rupi	upi	ADP	post	_	9	case	_	R-through
 11	ani	ani	PART	negprt	_	12	dep:mod	_	NEG
-12	penderecharãi	echarãi	VERB	vd:i	Mood=Ind|Person[subj]=2|Subcat=IntInd|VerbForm=Fin	0	root	_	B2.PL-R-forget
+12	penderecharãi	echarãi	VERB	vd:i	Mood=Ind|Person[subj]=2|Subcat=Indir|VerbForm=Fin	0	root	_	B2.PL-R-forget
 13	,	,	PUNCT	punct	_	14	punct	_	_
 14	ha'e	ha'e	VERB	vt	Mood=Ind|Subcat=Tran|VerbForm=Inf	12	parataxis	_	say
 15	jepi	jepi	PART	aspprt	_	14	dep:mod	_	ITER

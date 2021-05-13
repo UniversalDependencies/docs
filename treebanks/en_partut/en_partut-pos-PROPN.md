@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>De</em> (<tt><a href="en_partut-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.010283 (the average of all parts of speech is 1.199053).
+The form / lemma ratio of `PROPN` is 1.010283 (the average of all parts of speech is 1.199242).
 
 The 1st highest number of forms (2) was observed with the lemma “April”: <em>APR, April</em>.
 

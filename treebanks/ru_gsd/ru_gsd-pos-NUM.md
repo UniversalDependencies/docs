@@ -59,9 +59,9 @@ The 2nd highest number of forms (5) was observed with the lemma “два”: <e
 
 The 3rd highest number of forms (5) was observed with the lemma “много”: <em>более, больше, многим, многих, много</em>.
 
-`NUM` occurs with 6 features: <tt><a href="ru_gsd-feat-Case.html">Case</a></tt> (2027; 96% instances), <tt><a href="ru_gsd-feat-NumType.html">NumType</a></tt> (2006; 95% instances), <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt> (1014; 48% instances), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt> (607; 29% instances), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt> (328; 16% instances), <tt><a href="ru_gsd-feat-Degree.html">Degree</a></tt> (8; 0% instances)
+`NUM` occurs with 5 features: <tt><a href="ru_gsd-feat-Case.html">Case</a></tt> (2027; 96% instances), <tt><a href="ru_gsd-feat-NumType.html">NumType</a></tt> (2006; 95% instances), <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt> (1014; 48% instances), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt> (607; 29% instances), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt> (328; 16% instances)
 
-`NUM` occurs with 16 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Degree=Cmp`, `Degree=Pos`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NumType=Card`, `Number=Plur`, `Number=Sing`
+`NUM` occurs with 14 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NumType=Card`, `Number=Plur`, `Number=Sing`
 
 `NUM` occurs with 89 feature combinations.
 The most frequent feature combination is `Case=Nom|NumType=Card` (466 tokens).

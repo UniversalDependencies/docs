@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4497 nodes (9%) are attached to their parents as `punct`.
+4499 nodes (9%) are attached to their parents as `punct`.
 
-4173 instances of `punct` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.68245496997999.
+4180 instances of `punct` (93%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.78217381640365.
 
-The following 17 pairs of parts of speech are connected with `punct`: <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (2363; 53% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (975; 22% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt>-<tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (423; 9% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt>-<tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (186; 4% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt>-<tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (121; 3% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt>-<tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (107; 2% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt>-<tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (66; 1% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt>-<tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (63; 1% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt>-<tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (58; 1% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (50; 1% instances), <tt><a href="af_afribooms-pos-PART.html">PART</a></tt>-<tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (32; 1% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (31; 1% instances), <tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (12; 0% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt>-<tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt>-<tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (2458; 55% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (1155; 26% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt>-<tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (254; 6% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt>-<tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (190; 4% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt>-<tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (121; 3% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt>-<tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (79; 2% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt>-<tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (65; 1% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt>-<tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (64; 1% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (60; 1% instances), <tt><a href="af_afribooms-pos-PART.html">PART</a></tt>-<tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (33; 1% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt>-<tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt>-<tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
@@ -56,14 +56,14 @@ The following 17 pairs of parts of speech are connected with `punct`: <tt><a hre
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 punct	color:blue
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 punct	color:blue
 1	Ons	ons	PRON	PEMB	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
 2	demokrasie	demokrasie	NOUN	NSE	Number=Sing	4	nsubj	_	_
-3	is	is	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	4	cop	_	_
+3	is	wees	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	4	cop	_	_
 4	gesond	gesond	ADJ	ASP	AdjType=Pred|Case=Nom|Degree=Pos	0	root	_	SpaceAfter=No
-5	.	.	PUNCT	ZE	_	3	punct	_	_
+5	.	.	PUNCT	ZE	_	4	punct	_	_
 
 ~~~
 

@@ -36,14 +36,14 @@ The 10 most frequent ambiguous types:  <em>nej</em> (<tt><a href="sv_lines-pos-I
   * <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> 1: <em>Sen han kom hit för ett och ett halvt år sen har han <b>förbanne</b> mig inte haft annat att göra än att fara opp till Rinsala och fiska .</em>
 * <em>skål</em>
   * <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> 2: <em>En pojke kom ut med en karaff rödvin och en <b>skål</b> oliver .</em>
-  * <tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt> 1: <em>Nåja -- <b>skål</b> för alla galningar ! sade Wentz och fattade entusiastiskt sitt glas .</em>
+  * <tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt> 1: <em>Nåja – <b>skål</b> för alla galningar ! sade Wentz och fattade entusiastiskt sitt glas .</em>
 * <em>ursäkta</em>
   * <tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt> 1: <em>... <b>ursäkta</b> , i fyrtioåtta år stod ni under brittiskt herravälde , arbetade i deras gruvor , drog vägar åt dom , byggde städer , bodde i skjul och passade opp på dom , städade efter dom , blev behandlade som skit ... men nu när allt det där är överståndet , tror ni verkligen att det över huvud taget fanns något sätt för er att träda in i den moderna världen utan lidande ?</em>
   * <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> 1: <em>Men ni får <b>ursäkta</b> , nu vill jag ha min lunch . "</em>
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.020833 (the average of all parts of speech is 1.416999).
+The form / lemma ratio of `INTJ` is 1.020833 (the average of all parts of speech is 1.416904).
 
 The 1st highest number of forms (2) was observed with the lemma “tack”: <em>T-tack, tack</em>.
 

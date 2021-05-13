@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Polite` co-occurre
 `PRON` tokens may have the following values of `Polite`:
 
 * `Form` (23; 100% of non-empty `Polite`): आप, उन्हें, आपको, उनकी, जिनके
-* `EMPTY` (1104): जो, यह, अपने, वह, उसने, उसके, अपनी, उसे, इसके, उसकी
+* `EMPTY` (1105): जो, यह, अपने, वह, उसने, उसके, अपनी, उसे, इसके, उसकी
 
 ### `AUX`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `AUX` and `Polite` co-occurred
 `AUX` tokens may have the following values of `Polite`:
 
 * `Form` (16; 100% of non-empty `Polite`): हैं, थे, चुके, दें, देते
-* `EMPTY` (1755): है, हैं, था, गया, गयी, हुए, दिया, थे, गए, जाता
+* `EMPTY` (1760): है, हैं, था, गया, गयी, हुए, दिया, थे, गए, थी
 
 ### `VERB`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `VERB` and `Polite` co-occurre
 `VERB` tokens may have the following values of `Polite`:
 
 * `Form` (15; 100% of non-empty `Polite`): करते, कहते, हैं, करती, करें, चाहते, थीं, थे, बताते, मिले
-* `EMPTY` (2047): किया, है, करने, कर, कहा, की, था, हो, होने, करते
+* `EMPTY` (2043): किया, है, करने, कर, कहा, की, था, हो, होने, करते
 
 ## Relations with Agreement in `Polite`
 

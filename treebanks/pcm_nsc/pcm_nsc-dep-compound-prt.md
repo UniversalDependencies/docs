@@ -38,7 +38,7 @@ The following 9 pairs of parts of speech are connected with `compound:prt`: <tt>
 13	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	AlignBegin=216957|AlignEnd=217042|Gloss=NOM.SG.3
 14	dey	dey	VERB	_	VerbType=Cop	4	advcl	_	AlignBegin=217042|AlignEnd=217211|Gloss=be
 15	like	like	ADP	_	_	16	case	_	AlignBegin=217211|AlignEnd=217429|Gloss=like
-16	dat	dat	PRON	_	Number=Sing|PronType=Dem	14	xcomp:pred	_	AlignBegin=217429|AlignEnd=217586|Gloss=SG.DEM
+16	dat	dat	PRON	_	Number=Sing|PronType=Dem	14	xcomp	_	AlignBegin=217429|AlignEnd=217586|Gloss=SG.DEM
 17	//	//	X	_	_	4	dep	_	AlignBegin=217586|AlignEnd=217616|Gloss=PUNCT
 
 ~~~
@@ -75,15 +75,15 @@ The following 9 pairs of parts of speech are connected with `compound:prt`: <tt>
 5	wey	when	SCONJ	_	_	8	mark	_	AlignBegin=231328|AlignEnd=231477|Gloss=when
 6	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	AlignBegin=231477|AlignEnd=231590|Gloss=NOM.PL.1
 7	dey	dey	AUX	_	Aspect=Imp	8	aux	_	AlignBegin=231590|AlignEnd=231710|Gloss=IPFV
-8	go	go	VERB	_	_	3	ccomp:pred	_	AlignBegin=231710|AlignEnd=231960|Gloss=go
+8	go	go	VERB	_	_	3	ccomp	_	AlignBegin=231710|AlignEnd=231960|Gloss=go
 9	#	#	X	_	_	12	dep	_	AlignBegin=231960|AlignEnd=232410|Gloss=PUNCT
 10	no	no	PART	_	Polarity=Neg	12	advmod	_	AlignBegin=232410|AlignEnd=232560|Gloss=NEG
 11	fit	fit	AUX	_	Mood=Pot	12	aux	_	AlignBegin=232560|AlignEnd=232680|Gloss=ABIL
 12	make	make	VERB	_	_	0	root	_	AlignBegin=232680|AlignEnd=232870|Gloss=make
 13	us	us	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	12	obj	_	AlignBegin=232870|AlignEnd=233000|Gloss=ACC.PL.1
-14	become	become	VERB	_	_	12	xcomp:obj	_	AlignBegin=233000|AlignEnd=233280|Gloss=become
+14	become	become	VERB	_	_	12	xcomp	_	AlignBegin=233000|AlignEnd=233280|Gloss=become
 15	better	beta	ADJ	_	Degree=Cmp	16	amod	_	AlignBegin=233280|AlignEnd=233490|Gloss=good.CMPR
-16	people	people	NOUN	_	Number=Plur	14	xcomp:pred	_	AlignBegin=233490|AlignEnd=233730|Gloss=people.PL
+16	people	people	NOUN	_	Number=Plur	14	xcomp	_	AlignBegin=233490|AlignEnd=233730|Gloss=people.PL
 17	because	because	SCONJ	_	_	22	mark	_	AlignBegin=233730|AlignEnd=233975|Gloss=because
 18	dis	dis	DET	_	Number=Sing|PronType=Dem	19	det	_	AlignBegin=233975|AlignEnd=234111|Gloss=SG.DEM
 19	school	school	NOUN	_	_	22	nsubj	_	AlignBegin=234111|AlignEnd=234280|Gloss=school

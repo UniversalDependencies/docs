@@ -45,7 +45,7 @@ The following 2 pairs of parts of speech are connected with `det:numgov`: <tt><a
 # visual-style 3 4 det:numgov	color:blue
 1	Pokud	pokud	SCONJ	J,-------------	_	2	mark	2:mark	_
 2	je	být	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	6:advcl:pokud	_
-3	jí	on	PRON	PPFS2--3-------	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	LGloss=(ona)
+3	jí	on	PRON	PPFS2--3-------	Case=Gen|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	nsubj	2:nsubj	LGloss=(ona)
 4	málo	málo	DET	Ca--1----------	Case=Nom|NumType=Card|PronType=Ind	3	det:numgov	3:det:numgov	SpaceAfter=No|LId=málo-1|LGloss=(málo_+_2._p.,_málo_peněz)
 5	,	,	PUNCT	Z:-------------	_	2	punct	2:punct	_
 6	vytvoří	vytvořit	VERB	VB-P---3P-AA---	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_

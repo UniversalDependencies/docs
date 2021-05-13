@@ -170,7 +170,7 @@ The most frequent other feature values with which `PROPN` and `Voice` co-occurre
 `ADV` tokens may have the following values of `Voice`:
 
 * `Act` (1; 100% of non-empty `Voice`): <em>väidetavasti</em>
-* `EMPTY` (42042): <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, mitte</em>
+* `EMPTY` (42043): <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, mitte</em>
 
 ## Relations with Agreement in `Voice`
 

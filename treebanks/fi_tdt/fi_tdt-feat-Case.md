@@ -26,7 +26,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Abl` (617; 1% of non-empty `Case`): <em>osalta, kannalta, vuodelta, pohjalta, nimeltään, osaltaan, osiltaan, tieltä, arviolta, laitokselta</em>
 * `Ade` (2441; 4% of non-empty `Case`): <em>perusteella, tavalla, avulla, alueella, hetkellä, puolella, matkalla, tasolla, kaudella, markkinoilla</em>
 * `All` (1427; 3% of non-empty `Case`): <em>komissiolle, jäsenvaltioille, puolelle, paikalle, markkinoille, alueelle, lattialle, pihalle, sijalle, ihmisille</em>
-* `Com` (36; 0% of non-empty `Case`): <em>poikineen, postikuluineen, ajatuksineni, allekirjoittajineen, asenteineen, e​d​u​s​k​u​n​t​a​k​ä​s​i​t​t​e​l​y​i​n​e​e​n​k​i​n, herkkuineen, hihoineen, iloineen, jalanjälkineen</em>
+* `Com` (36; 0% of non-empty `Case`): <em>poikineen, postikuluineen, ajatuksineni, allekirjoittajineen, asenteineen, eduskuntakäsittelyineenkin, herkkuineen, hihoineen, iloineen, jalanjälkineen</em>
 * `Ela` (3186; 6% of non-empty `Case`): <em>vuodesta, mielestäni, asiasta, syystä, mielestä, suhteista, maasta, alusta, asioista, muuttamisesta</em>
 * `Ess` (1634; 3% of non-empty `Case`): <em>vuonna, päivänä, aikana, vuosina, tarkoituksena, osana, tiistaina, perjantaina, keskiviikkona, lauantaina</em>
 * `Gen` (14272; 25% of non-empty `Case`): <em>vuoden, yhteisön, komission, yliopiston, artiklan, asetuksen, neuvoston, ajan, jäsenvaltioiden, maan</em>

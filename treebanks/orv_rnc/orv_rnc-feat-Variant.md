@@ -1,18 +1,18 @@
 ---
 layout: base
-title:  'Statistics of Variant in UD_Old_Russian-RNC'
+title:  'Statistics of Variant in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Features: `Variant`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Features: `Variant`
 
 This feature is language-specific.
 It occurs with 1 different values: `Short`.
 
-565 tokens (2%) have a non-empty value of `Variant`.
-328 types (4%) occur at least once with a non-empty value of `Variant`.
+564 tokens (2%) have a non-empty value of `Variant`.
+327 types (4%) occur at least once with a non-empty value of `Variant`.
 231 lemmas (6%) occur at least once with a non-empty value of `Variant`.
-The feature is used with 4 part-of-speech tags: <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (287; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (269; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (287; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (269; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (8; 0% instances).
 
 ### `ADJ`
 
@@ -47,16 +47,6 @@ The most frequent other feature values with which `DET` and `Variant` co-occurre
 `DET` tokens may have the following values of `Variant`:
 
 * `Short` (8; 100% of non-empty `Variant`): <em>каковы, какова, колика, такова, таковъ, толику</em>
-
-### `AUX`
-
-1 <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Variant`.
-
-The most frequent other feature values with which `AUX` and `Variant` co-occurred: <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1; 100%), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1; 100%), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1; 100%).
-
-`AUX` tokens may have the following values of `Variant`:
-
-* `Short` (1; 100% of non-empty `Variant`): <em>сущу</em>
 
 ## Relations with Agreement in `Variant`
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7 nodes (0%) are attached to their parents as `vocative`.
+12 nodes (0%) are attached to their parents as `vocative`.
 
-4 instances of `vocative` (57%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.71428571428571.
+7 instances of `vocative` (58%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.75.
 
-The following 2 pairs of parts of speech are connected with `vocative`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (6; 86% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 14% instances).
+The following 2 pairs of parts of speech are connected with `vocative`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (11; 92% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 8% instances).
 
 
 ~~~ conllu

@@ -81,7 +81,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 936 <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> tokens (48% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=EMPTY</tt> (936; 100%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (865; 92%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (780; 83%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (605; 65%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (533; 57%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="hy_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (936; 100%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (865; 92%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (780; 83%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (605; 65%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (533; 57%).
 
 `PRON` tokens may have the following values of `Person`:
 
@@ -106,7 +106,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 628 <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> tokens (32% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=EMPTY</tt> (628; 100%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Gen</tt> (627; 100%), <tt><a href="hy_armtdp-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (627; 100%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (388; 62%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (359; 57%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="hy_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (628; 100%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Gen</tt> (627; 100%), <tt><a href="hy_armtdp-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (627; 100%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (388; 62%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (359; 57%).
 
 `DET` tokens may have the following values of `Person`:
 

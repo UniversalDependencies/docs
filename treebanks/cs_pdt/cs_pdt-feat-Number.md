@@ -15,20 +15,20 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 833856 tokens (55%) have a non-empty value of `Number`.
 129498 types (101%) occur at least once with a non-empty value of `Number`.
 49108 lemmas (84%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (363295; 24% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (184589; 12% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (111060; 7% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (68762; 5% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (49229; 3% instances), <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (31665; 2% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (13607; 1% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (11649; 1% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (363292; 24% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (184589; 12% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (111060; 7% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (68762; 5% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (49229; 3% instances), <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (31665; 2% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (13607; 1% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (11649; 1% instances), <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
-363295 <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Number`.
+363292 <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (362731; 100%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (203008; 56%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (362728; 100%), <tt><a href="cs_pdt-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (203008; 56%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Dual` (81; 0% of non-empty `Number`): <em>očima, rukama, nohama, ušima</em>
-* `Plur` (103374; 28% of non-empty `Number`): <em>korun, let, procent, lidí, letech, lidé, milionů, miliónů, zemí, dolarů</em>
+* `Plur` (103371; 28% of non-empty `Number`): <em>korun, let, procent, lidí, letech, lidé, milionů, miliónů, zemí, dolarů</em>
 * `Sing` (259840; 72% of non-empty `Number`): <em>roku, roce, době, případě, společnosti, zákona, rok, ministr, vláda, strany</em>
-* `EMPTY` (9064): <em>Kč, s, r, p, m, tel, c, č, km, b</em>
+* `EMPTY` (9009): <em>Kč, s, r, p, m, tel, c, č, km, b</em>
 
 <table>
   <tr><th>Paradigm <i>ruka</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
@@ -323,15 +323,26 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
   <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Fem,Neut</tt></tt></td><td></td><td><em>dvě</em></td></tr>
 </table>
 
+### `SYM`
+
+3 <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> tokens (0% of all `SYM` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `SYM` and `Number` co-occurred: <tt><a href="cs_pdt-feat-ConjType.html">ConjType</a></tt><tt>=EMPTY</tt> (3; 100%).
+
+`SYM` tokens may have the following values of `Number`:
+
+* `Plur` (3; 100% of non-empty `Number`): <em>§§</em>
+* `EMPTY` (1365): <em>%, x, +, =, §, *, /, >, :, <</em>
+
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="cs_pdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (147874; 98%),
 <tt>NOUN --[<tt><a href="cs_pdt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (68189; 61%),
-<tt>VERB --[<tt><a href="cs_pdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (38835; 82%),
+<tt>VERB --[<tt><a href="cs_pdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (38834; 82%),
 <tt>NOUN --[<tt><a href="cs_pdt-dep-det.html">det</a></tt>]--> DET</tt> (23412; 82%),
 <tt>NOUN --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (17267; 78%),
-<tt>NOUN --[<tt><a href="cs_pdt-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (11064; 53%),
+<tt>NOUN --[<tt><a href="cs_pdt-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (11064; 52%),
 <tt>NOUN --[<tt><a href="cs_pdt-dep-flat.html">flat</a></tt>]--> PROPN</tt> (10708; 95%),
 <tt>ADJ --[<tt><a href="cs_pdt-dep-cop.html">cop</a></tt>]--> AUX</tt> (9995; 86%),
 <tt>VERB --[<tt><a href="cs_pdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (9683; 72%),

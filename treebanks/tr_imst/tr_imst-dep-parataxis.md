@@ -81,20 +81,20 @@ The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a 
 3	lik	lik	ADP	Ness	Case=Nom|Number=Sing|Person=3	2	case	_	_
 4	yolculuk	yolculuk	NOUN	Noun	Case=Nom|Number=Sing|Person=3	17	obl	_	_
 5	boyunca	boyunca	ADP	PCNom	_	4	case	_	SpaceAfter=No
-6	-	-	PUNCT	Punc	_	20	punct	_	SpaceAfter=No
+6	-	-	PUNCT	Punc	_	10	punct	_	SpaceAfter=No
 7	ki	ki	CCONJ	Conj	_	10	nmod	_	_
 8	yetmiş	yetmiş	NUM	NNum	Case=Nom|Number=Sing|NumType=Card|Person=3	10	obj	_	_
 9	kilometre	kilometre	NOUN	Noun	Case=Nom|Number=Sing|Person=3	8	compound	_	_
 10	kat	kat	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	parataxis	_	_
 11	edecektik	et	VERB	Verb	Aspect=Prosp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut,Past	10	compound	_	SpaceAfter=No
-12	-	-	PUNCT	Punc	_	20	punct	_	SpaceAfter=No
+12	-	-	PUNCT	Punc	_	4	punct	_	SpaceAfter=No
 13	bir	bir	NUM	ANum	NumType=Card	15	nummod	_	_
 14	tek	tek	ADJ	Adj	_	13	compound	_	_
 15	eve	ev	NOUN	Noun	Case=Dat|Number=Sing|Person=3	16	obl	_	_
 16	rastlamanın	rastla	VERB	Verb	Aspect=Perf|Case=Gen|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Vnoun	17	nsubj	_	_
 17	mümkün	mümkün	ADJ	Adj	_	20	amod	_	_
 18	olmadığı	ol	VERB	Verb	Aspect=Perf|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Neg|Tense=Past|VerbForm=Part	17	compound:lvc	_	_
-19	bir	bir	NUM	ANum	NumType=Card	20	det	_	_
+19	bir	bir	DET	ANum	Definite=Ind|PronType=Art	20	det	_	_
 20	coğrafya	coğrafya	NOUN	Noun	Case=Nom|Number=Sing|Person=3	0	root	_	SpaceAfter=No
 21	.	.	PUNCT	Punc	_	20	punct	_	_
 

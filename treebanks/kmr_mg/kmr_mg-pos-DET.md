@@ -64,10 +64,10 @@ The 3rd highest number of forms (3) was observed with the lemma “hindek”: <e
 
 `DET` occurs with 6 features: <tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt> (223; 100% instances), <tt><a href="kmr_mg-feat-Number.html">Number</a></tt> (200; 90% instances), <tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt> (180; 81% instances), <tt><a href="kmr_mg-feat-Case.html">Case</a></tt> (104; 47% instances), <tt><a href="kmr_mg-feat-Polarity.html">Polarity</a></tt> (14; 6% instances), <tt><a href="kmr_mg-feat-Person.html">Person</a></tt> (1; 0% instances)
 
-`DET` occurs with 14 feature-value pairs: `Case=Nom`, `Case=Obl`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Masc`, `Number=Plur`, `Number=Plur,Sing`, `Number=Sing`, `Person=3`, `Polarity=Neg`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`
+`DET` occurs with 14 feature-value pairs: `Case=Acc`, `Case=Nom`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Masc`, `Number=Plur`, `Number=Plur,Sing`, `Number=Sing`, `Person=3`, `Polarity=Neg`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`
 
 `DET` occurs with 13 feature combinations.
-The most frequent feature combination is `Case=Obl|Gender=Fem|Number=Sing|PronType=Dem` (53 tokens).
+The most frequent feature combination is `Case=Acc|Gender=Fem|Number=Sing|PronType=Dem` (53 tokens).
 Examples: <em>vê, wê, _</em>
 
 
@@ -85,7 +85,7 @@ Parents of `DET` nodes belong to 7 different parts of speech: <tt><a href="kmr_m
 
 The highest child degree of a `DET` node is 2.
 
-Children of `DET` nodes are attached using 5 different relations: <tt><a href="kmr_mg-dep-fixed.html">fixed</a></tt> (2; 33% instances), <tt><a href="kmr_mg-dep-advmod.html">advmod</a></tt> (1; 17% instances), <tt><a href="kmr_mg-dep-case.html">case</a></tt> (1; 17% instances), <tt><a href="kmr_mg-dep-nmod-dat.html">nmod:dat</a></tt> (1; 17% instances), <tt><a href="kmr_mg-dep-nsubj.html">nsubj</a></tt> (1; 17% instances)
+Children of `DET` nodes are attached using 5 different relations: <tt><a href="kmr_mg-dep-fixed.html">fixed</a></tt> (2; 33% instances), <tt><a href="kmr_mg-dep-advmod.html">advmod</a></tt> (1; 17% instances), <tt><a href="kmr_mg-dep-case.html">case</a></tt> (1; 17% instances), <tt><a href="kmr_mg-dep-nsubj.html">nsubj</a></tt> (1; 17% instances), <tt><a href="kmr_mg-dep-obl-dat.html">obl:dat</a></tt> (1; 17% instances)
 
 Children of `DET` nodes belong to 5 different parts of speech: <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (2; 33% instances), <tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt> (1; 17% instances), <tt><a href="kmr_mg-pos-DET.html">DET</a></tt> (1; 17% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (1; 17% instances)
 

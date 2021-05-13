@@ -69,7 +69,7 @@ The following 14 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 3 7 acl:relcl	color:blue
 1	Դու	դու	PRON	_	Case=Nom|Number=Sing|Person=2|Polite=Infm|PronType=Prs	4	nsubj	_	Translit=Dow|LTranslit=dow
 2	պիտի	պիտի	AUX	_	Polarity=Pos	4	aux	_	Translit=piti|LTranslit=piti
-3	այն	այն	PRON	_	Distance=Dist|Number=Sing|PronType=Dem	4	obj	_	Translit=ayn|LTranslit=ayn
+3	այն	այն	PRON	_	Deixis=Remt|Number=Sing|PronType=Dem	4	obj	_	Translit=ayn|LTranslit=ayn
 4	անես	անել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=2|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=anes|LTranslit=anel|SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,
 6	ինչ	ինչ	PRON	_	Case=Nom|Definite=Ind|Number=Sing|PronType=Rel	7	obj	_	Translit=inč|LTranslit=inč

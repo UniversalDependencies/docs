@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="cu_proiel-pos-C
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 7.920000 (the average of all parts of speech is 3.275325).
+The form / lemma ratio of `PRON` is 7.920000 (the average of all parts of speech is 3.276388).
 
 The 1st highest number of forms (61) was observed with the lemma “и”: <em>е, его, еи, еи҅, емоу, емъ, емь, ею, ею҅, еѩ, еѩ҅, еѭ, еѭ҄, е҅, е҅и҅, е҅моу, и, има, ими, имъ, имь, ихъ, ихь, и҅, и҅мъ, и҅хъ, й, моу, не, него, неи, немоу, немъ, немь, немѫ, нею, неѩ, неѭ, неѭ҄, ни, нима, ними, нимъ, нимь, нихъ, нъ, нь, нѧ, нѫѭ, нѭ, і, ѣ, ѩ, ѩ҅, ѭ, ѭ҄, ѭ҅, ꙇ, ꙇмъ, ꙇхъ, ꙇ҅хъ</em>.
 

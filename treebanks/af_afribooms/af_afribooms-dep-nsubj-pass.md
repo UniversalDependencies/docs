@@ -11,9 +11,9 @@ This relation is a language-specific subtype of <tt><a href="af_afribooms-dep-ns
 513 nodes (1%) are attached to their parents as `nsubj:pass`.
 
 513 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.43469785575049.
+Average distance between parent and child is 6.4327485380117.
 
-The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (290; 57% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (217; 42% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-X.html">X</a></tt> (2; 0% instances).
+The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (289; 56% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (217; 42% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt>-<tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -69,12 +69,12 @@ The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 5	Suid-Afrika	Suid-Afrika	PROPN	NEE	Number=Sing	8	nsubj:pass	_	_
 6	veel	veel	ADV	BS	Degree=Pos	8	advmod	_	_
 7	minder	min	ADV	BV	Degree=Cmp	8	advmod	_	_
-8	geraak	raak	VERB	VVHOG	Subcat=Tran|Tense=Past|VerbForm=Part	4	dep	_	_
+8	geraak	raak	VERB	VVHOG	Subcat=Tran|Tense=Past|VerbForm=Part	2	dep	_	_
 9	word	word	AUX	VTUOP	Tense=Pres|VerbForm=Fin,Inf|VerbType=Pas	8	aux:pass	_	_
 10	as	as	SCONJ	KO	_	8	amod	_	_
-11	baie	baie	DET	THAO	PronType=Ind	13	nummod	_	_
+11	baie	baie	DET	THAO	PronType=Ind	13	det	_	_
 12	ander	ander	ADJ	ASA	AdjType=Attr|Case=Nom|Degree=Pos	13	amod	_	_
-13	lande	land	NOUN	NSM	Number=Plur	10	dep	_	SpaceAfter=No
+13	lande	land	NOUN	NSM	Number=Plur	8	dep	_	SpaceAfter=No
 14	.	.	PUNCT	ZE	_	13	punct	_	_
 
 ~~~

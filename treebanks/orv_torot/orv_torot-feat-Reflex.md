@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of Reflex in UD_Old_Russian-TOROT'
+title:  'Statistics of Reflex in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Features: `Reflex`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Features: `Reflex`
 
 This feature is universal.
 It occurs with 1 different values: `Yes`.
@@ -29,7 +29,7 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 
 1510 <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> tokens (10% of all `ADJ` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `ADJ` and `Reflex` co-occurred: <tt><a href="orv_torot-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1510; 100%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt> (1510; 100%), <tt><a href="orv_torot-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (1510; 100%), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (1510; 100%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1083; 72%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (847; 56%).
+The most frequent other feature values with which `ADJ` and `Reflex` co-occurred: <tt><a href="orv_torot-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1510; 100%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt> (1510; 100%), <tt><a href="orv_torot-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (1510; 100%), <tt><a href="orv_torot-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1510; 100%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1083; 72%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (847; 56%).
 
 `ADJ` tokens may have the following values of `Reflex`:
 

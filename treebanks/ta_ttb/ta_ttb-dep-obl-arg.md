@@ -22,7 +22,7 @@ The following 14 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 obl:arg	color:blue
-1	2	2	NUM	U=-------	NumForm=Digit	2	nummod	2:nummod	Translit=2|LTranslit=2
+1	2	2	NUM	U=-------	NumForm=Digit|NumType=Card	2	nummod	2:nummod	Translit=2|LTranslit=2
 2	கோடி	கோடி	NUM	Ux-------	NumType=Card	3	nummod	3:nummod	Translit=kōṭi|LTranslit=kōṭi
 3	மக்களுக்கு	மக்கள்	NOUN	NND-3PA--	Animacy=Anim|Case=Dat|Gender=Com|Number=Plur|Person=3	5	obl:arg	5:obl:arg:dat	Translit=makkaḷukku|LTranslit=makkaḷ
 4	குடிநீர்	குடிநீர்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	obj	5:obj	Translit=kuṭinīr|LTranslit=kuṭinīr

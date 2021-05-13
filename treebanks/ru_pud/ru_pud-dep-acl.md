@@ -71,7 +71,7 @@ The following 17 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 9	fgColor:white
 # visual-style 9 8 acl	color:blue
 1	Ее	она	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3	3	obj	_	_
-2	можно	можно	VERB	PRED	Degree=Pos	0	root	_	_
+2	можно	можно	VERB	PRED	_	0	root	_	_
 3	назвать	назвать	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	2	csubj	_	_
 4	одной	один	NUM	CD	Case=Ins|Gender=Fem|Number=Sing	3	nummod	_	_
 5	из	из	ADP	IN	_	9	case	_	_

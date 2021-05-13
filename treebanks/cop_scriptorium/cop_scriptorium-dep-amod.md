@@ -33,7 +33,7 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 9	ϣⲏⲣⲉ	ϣⲏⲣⲉ	NOUN	N	_	6	nmod	_	_
 10	ϣⲏⲙ	ϣⲏⲙ	ADJ	N	_	9	amod	_	_
 11	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	12	mark	_	_
-12	ⲃⲓⲕⲧⲱⲣ	ⲃⲓⲕⲧⲱⲣ	PROPN	NPROP	_	9	xcomp	_	Entity=person)abstract)
+12	ⲃⲓⲕⲧⲱⲣ	ⲃⲓⲕⲧⲱⲣ	PROPN	NPROP	Foreign=Yes	9	xcomp	_	Entity=person)abstract)|OrigLang=la
 13	·	·	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
@@ -48,14 +48,14 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 1	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	dislocated	_	Entity=(person
 2	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	4	mark	_	_
 3	ⲛⲁ	ⲛⲁ	AUX	FUT	_	4	aux	_	_
-4	ⲥⲕⲁⲛⲇⲁⲗⲓⲍⲉ	ⲥⲕⲁⲛⲇⲁⲗⲓⲍⲉ	VERB	V	VerbForm=Fin	1	acl	_	_
+4	ⲥⲕⲁⲛⲇⲁⲗⲓⲍⲉ	ⲥⲕⲁⲛⲇⲁⲗⲓⲍⲉ	VERB	V	Foreign=Yes|VerbForm=Fin	1	acl	_	OrigLang=grc
 5	ⲛ	ⲛ	ADP	PREP	_	6	case	_	_
 6	ⲟⲩⲁ	ⲟⲩⲁ	NUM	NUM	NumType=Card	4	obj	_	Entity=(person
 7	ⲛ	ⲛ	ADP	PREP	_	8	case	_	_
 8	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	6	nmod	_	Entity=(person
 9	ⲕⲟⲩⲓ	ⲕⲟⲩⲓ	ADJ	N	_	8	amod	_	Orig=ⲕⲟⲩⲉⲓ
 10	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	11	mark	_	_
-11	ⲡⲓⲥⲧⲉⲩⲉ	ⲡⲓⲥⲧⲉⲩⲉ	VERB	V	VerbForm=Fin	8	acl	_	_
+11	ⲡⲓⲥⲧⲉⲩⲉ	ⲡⲓⲥⲧⲉⲩⲉ	VERB	V	Foreign=Yes|VerbForm=Fin	8	acl	_	OrigLang=grc
 12	ⲉⲣⲟ	ⲉ	ADP	PREP	_	13	case	_	_
 13	ⲓ	ⲁⲛⲟⲕ	PRON	PPERO	Definite=Def|Number=Sing|Person=1|PronType=Prs	11	obl	_	Entity=person)person)person)|Orig=ⲉⲓ
 14	ⲛⲁⲛⲟⲩ	ⲛⲁⲛⲟⲩ	VERB	VBD	VerbForm=Fin	0	root	_	_
@@ -80,7 +80,7 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 33	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	32	obj	_	_
 34	ⲉ	ⲉ	ADP	PREP	_	36	case	_	_
 35	ⲧⲉ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	Entity=(place
-36	ⲑⲁⲗⲁⲥⲥⲁ	ⲑⲁⲗⲁⲥⲥⲁ	NOUN	N	_	32	obl	_	Entity=place)
+36	ⲑⲁⲗⲁⲥⲥⲁ	ⲑⲁⲗⲁⲥⲥⲁ	NOUN	N	Foreign=Yes	32	obl	_	Entity=place)|OrigLang=grc
 
 ~~~
 
@@ -94,7 +94,7 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 1	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	2	case	_	_
 2	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	8	obl	_	Entity=(abstract)|Orig=ⲡⲁⲓ̈
 3	ⲟⲩ	ⲟⲩ	X	FM	Polarity=Neg	8	amod	_	_
-4	ⲙⲟⲛⲟⲛ	ⲙⲟⲛⲟⲛ	X	FM	_	3	fixed	_	_
+4	ⲙⲟⲛⲟⲛ	ⲙⲟⲛⲟⲛ	X	FM	Foreign=Yes	3	fixed	_	OrigLang=grc
 5	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	8	case	_	_
 6	ϩⲛ	ϩⲛ	ADP	PREP	_	5	fixed	_	Orig=ϩⲛ̅
 7	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	8	det	_	Entity=(place|Orig=ⲛ̅
@@ -108,7 +108,7 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 15	ⲉϩⲟⲩⲛ	ⲉϩⲟⲩⲛ	ADV	ADV	_	12	advmod	_	_
 16	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	12	advmod	_	Entity=person)
 17	·	·	PUNCT	PUNCT	_	23	punct	_	_
-18	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	_	23	cc	_	_
+18	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	23	cc	_	OrigLang=grc
 19	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	23	case	_	_
 20	ϩⲙ	ϩⲛ	ADP	PREP	_	19	fixed	_	Orig=ϩⲙ̅
 21	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	Entity=(abstract

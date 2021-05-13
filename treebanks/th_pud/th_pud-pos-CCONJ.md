@@ -7,15 +7,15 @@ udver: '2'
 ## Treebank Statistics: UD_Thai-PUD: POS Tags: `CCONJ`
 
 There are 1 `CCONJ` lemmas (7%), 18 `CCONJ` types (0%) and 592 `CCONJ` tokens (3%).
-Out of 15 observed tags, the rank of `CCONJ` is: 5 in number of lemmas, 11 in number of types and 10 in number of tokens.
+Out of 15 observed tags, the rank of `CCONJ` is: 5 in number of lemmas, 12 in number of types and 11 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: _
 
 The 10 most frequent `CCONJ` types:  และ, แต่, หรือ, กับ, อย่าง, จาก, นอก, พร้อม, แล้ว, ใน
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 6052, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 4977, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 3134, <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> 1495, <tt><a href="th_pud-pos-DET.html">DET</a></tt> 1040, <tt><a href="th_pud-pos-PART.html">PART</a></tt> 1009, <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> 969, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 951, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 683, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 592, <tt><a href="th_pud-pos-NUM.html">NUM</a></tt> 581, <tt><a href="th_pud-pos-AUX.html">AUX</a></tt> 432, <tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> 272, <tt><a href="th_pud-pos-SYM.html">SYM</a></tt> 134, <tt><a href="th_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: _ (<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 6052, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 4361, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 3134, <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> 1495, <tt><a href="th_pud-pos-AUX.html">AUX</a></tt> 1449, <tt><a href="th_pud-pos-DET.html">DET</a></tt> 1040, <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> 969, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 951, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 683, <tt><a href="th_pud-pos-PART.html">PART</a></tt> 608, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 592, <tt><a href="th_pud-pos-NUM.html">NUM</a></tt> 581, <tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> 272, <tt><a href="th_pud-pos-SYM.html">SYM</a></tt> 134, <tt><a href="th_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  แต่ (<tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 84, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 23, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 3), หรือ (<tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 38, <tt><a href="th_pud-pos-PART.html">PART</a></tt> 1), กับ (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 196, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 21, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 1), อย่าง (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 33, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="th_pud-pos-PART.html">PART</a></tt> 3), จาก (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 222, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 4), นอก (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 14, <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 4), พร้อม (<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 14, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 1), แล้ว (<tt><a href="th_pud-pos-PART.html">PART</a></tt> 29, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 15, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 14, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 4), ใน (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 682, <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 2), กระนั้น (<tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 1)
+The 10 most frequent ambiguous types:  แต่ (<tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 84, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 23, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 3), หรือ (<tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 38, <tt><a href="th_pud-pos-PART.html">PART</a></tt> 1), กับ (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 196, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 21, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 1), อย่าง (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 33, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="th_pud-pos-PART.html">PART</a></tt> 3), จาก (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 222, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 4), นอก (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 14, <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 4), พร้อม (<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 14, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 1), แล้ว (<tt><a href="th_pud-pos-AUX.html">AUX</a></tt> 29, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 15, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 14, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 4), ใน (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 682, <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 2), กระนั้น (<tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 1)
 
 
 * แต่
@@ -46,7 +46,7 @@ The 10 most frequent ambiguous types:  แต่ (<tt><a href="th_pud-pos-CCONJ.
   * <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 4: จาก นั้น ก็ มี สิ่ง ที่ เรียก กัน ว่า เรื่อง จริง ที่ โพสต์ ขึ้น มา เป็น ชุด รูปภาพ สื่อ ความหมาย <b>พร้อม</b> คำ บรรยาย ใต้ รูป
   * <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 1: อย่าง ไร ก็ ตาม มัน มุ่ง เน้น ไป ยัง ตำแหน่ง เล็ก ๆ ทาง ตะวัน ตก มาก เกิน ไป และ ไม่ ได้ เตรียม <b>พร้อม</b> รับมือ กับ ความขัดแย้ง โพ้น ทะเล
 * แล้ว
-  * <tt><a href="th_pud-pos-PART.html">PART</a></tt> 29: ตาม ที่ ผู้ กำกับ นับ เอง จน ถึง ปัจจุบัน เขา ทำ หนัง มา <b>แล้ว</b> 8 เรื่อง
+  * <tt><a href="th_pud-pos-AUX.html">AUX</a></tt> 29: ตาม ที่ ผู้ กำกับ นับ เอง จน ถึง ปัจจุบัน เขา ทำ หนัง มา <b>แล้ว</b> 8 เรื่อง
   * <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 15: โดยทั่ว ไป <b>แล้ว</b> จะ ไม่ ระเบิด แบบ ทำลายล้าง
   * <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 14: ผม ดู ไป ได้ ไม่ กี่ ตอน เอง <b>แล้ว</b> โทรศัพท์ ของ ผม ก็ เริ่ม สว่าง
   * <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 4: <b>แล้ว</b> โฆษณา ก็ จบ ลง
@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  แต่ (<tt><a href="th_pud-pos-CCONJ.
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 18.000000 (the average of all parts of speech is 286.933333).
+The form / lemma ratio of `CCONJ` is 18.000000 (the average of all parts of speech is 287.266667).
 
 The 1st highest number of forms (18) was observed with the lemma “_”: กระนั้น, กับ, จาก, ดัง, ถึง, ทว่า, นอก, พร้อม, ส่วน, หรือ, หลัง, อย่าง, แต่, แถม, และ, แล้ว, แอนด์, ใน.
 

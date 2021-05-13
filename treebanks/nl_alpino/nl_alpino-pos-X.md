@@ -6,88 +6,80 @@ udver: '2'
 
 ## Treebank Statistics: UD_Dutch-Alpino: POS Tags: `X`
 
-There are 483 `X` lemmas (2%), 482 `X` types (2%) and 743 `X` tokens (0%).
-Out of 16 observed tags, the rank of `X` is: 6 in number of lemmas, 6 in number of types and 14 in number of tokens.
+There are 53 `X` lemmas (0%), 58 `X` types (0%) and 206 `X` tokens (0%).
+Out of 16 observed tags, the rank of `X` is: 11 in number of lemmas, 11 in number of types and 15 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>fancy, o.a., the, jl., a, o.m., a.s., and, binnen-, etc.</em>
+The 10 most frequent `X` lemmas: <em>procent, onder ander, jongstleden, miljoen, zogenaamd, Rooms-katholiek, aanstaand, nummer, onder veel, etcetera</em>
 
-The 10 most frequent `X` types:  <em>fancy, o.a., the, jl., a, o.m., a.s., and, binnen-, etc.</em>
+The 10 most frequent `X` types:  <em>pct., o.a., jl., pct, mln., a.s., o.m., rk, etc., nl.</em>
 
-The 10 most frequent ambiguous lemmas: <em>o.a.</em> (<tt><a href="nl_alpino-pos-X.html">X</a></tt> 20, <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> 1), <em>the</em> (<tt><a href="nl_alpino-pos-X.html">X</a></tt> 15, <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> 3), <em>a</em> (<tt><a href="nl_alpino-pos-X.html">X</a></tt> 10, <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> 1), <em>front</em> (<tt><a href="nl_alpino-pos-X.html">X</a></tt> 7, <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> 3), <em>National</em> (<tt><a href="nl_alpino-pos-X.html">X</a></tt> 6, <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> 4), <em>flo</em> (<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> 122, <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> 12, <tt><a href="nl_alpino-pos-X.html">X</a></tt> 6, <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> 4), <em>giro</em> (<tt><a href="nl_alpino-pos-X.html">X</a></tt> 3, <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> 2), <em>la</em> (<tt><a href="nl_alpino-pos-X.html">X</a></tt> 3, <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> 1), <em>met</em> (<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> 1496, <tt><a href="nl_alpino-pos-X.html">X</a></tt> 3), <em>tot</em> (<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> 586, <tt><a href="nl_alpino-pos-X.html">X</a></tt> 3)
+The 10 most frequent ambiguous lemmas: <em>procent</em> (<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> 86, <tt><a href="nl_alpino-pos-X.html">X</a></tt> 39), <em>onder ander</em> (<tt><a href="nl_alpino-pos-X.html">X</a></tt> 18, <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> 1), <em>jongstleden</em> (<tt><a href="nl_alpino-pos-X.html">X</a></tt> 14, <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> 1), <em>miljoen</em> (<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> 82, <tt><a href="nl_alpino-pos-X.html">X</a></tt> 10, <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> 2), <em>zogenaamd</em> (<tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> 22, <tt><a href="nl_alpino-pos-X.html">X</a></tt> 9, <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> 1), <em>aanstaand</em> (<tt><a href="nl_alpino-pos-X.html">X</a></tt> 8, <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> 3), <em>nummer</em> (<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> 22, <tt><a href="nl_alpino-pos-X.html">X</a></tt> 8), <em>graad</em> (<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> 12, <tt><a href="nl_alpino-pos-X.html">X</a></tt> 5), <em>namelijk</em> (<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> 28, <tt><a href="nl_alpino-pos-X.html">X</a></tt> 5), <em>seconde</em> (<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> 13, <tt><a href="nl_alpino-pos-X.html">X</a></tt> 5)
 
-The 10 most frequent ambiguous types:  <em>o.a.</em> (<tt><a href="nl_alpino-pos-X.html">X</a></tt> 20, <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> 1), <em>the</em> (<tt><a href="nl_alpino-pos-X.html">X</a></tt> 15, <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> 3), <em>a</em> (<tt><a href="nl_alpino-pos-CCONJ.html">CCONJ</a></tt> 11, <tt><a href="nl_alpino-pos-X.html">X</a></tt> 8, <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> 1), <em>front</em> (<tt><a href="nl_alpino-pos-X.html">X</a></tt> 7, <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> 1), <em>National</em> (<tt><a href="nl_alpino-pos-X.html">X</a></tt> 6, <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> 4), <em>flo</em> (<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> 121, <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> 12, <tt><a href="nl_alpino-pos-X.html">X</a></tt> 6, <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> 4), <em>giro</em> (<tt><a href="nl_alpino-pos-X.html">X</a></tt> 3, <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> 2), <em>la</em> (<tt><a href="nl_alpino-pos-X.html">X</a></tt> 3, <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> 1), <em>m</em> (<tt><a href="nl_alpino-pos-X.html">X</a></tt> 3, <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> 1), <em>nl.</em> (<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> 3, <tt><a href="nl_alpino-pos-X.html">X</a></tt> 3)
+The 10 most frequent ambiguous types:  <em>o.a.</em> (<tt><a href="nl_alpino-pos-X.html">X</a></tt> 18, <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> 1), <em>jl.</em> (<tt><a href="nl_alpino-pos-X.html">X</a></tt> 11, <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> 1), <em>m</em> (<tt><a href="nl_alpino-pos-X.html">X</a></tt> 3, <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> 1), <em>resp.</em> (<tt><a href="nl_alpino-pos-X.html">X</a></tt> 2, <tt><a href="nl_alpino-pos-CCONJ.html">CCONJ</a></tt> 1), <em>C.U.R.</em> (<tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="nl_alpino-pos-X.html">X</a></tt> 1), <em>dr.</em> (<tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> 48, <tt><a href="nl_alpino-pos-X.html">X</a></tt> 1), <em>t.o.v.</em> (<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> 1, <tt><a href="nl_alpino-pos-X.html">X</a></tt> 1), <em>van</em> (<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> 4999, <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> 154, <tt><a href="nl_alpino-pos-X.html">X</a></tt> 1)
 
 
 * <em>o.a.</em>
-  * <tt><a href="nl_alpino-pos-X.html">X</a></tt> 20: <em>Met <b>o.a.</b> Dean Jones , David Tomlinson , Buddy Hackett en Michele Lee .</em>
+  * <tt><a href="nl_alpino-pos-X.html">X</a></tt> 18: <em>Met <b>o.a.</b> Dean Jones , David Tomlinson , Buddy Hackett en Michele Lee .</em>
   * <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> 1: <em>De vrouwen worden als groep practisch gediscrimineerd en wettelijk <b>o.a.</b> doordat de vrouw haar identiteit ontleent aan de man ( naamsverandering bij huwelijk ) , haar inkomen bij het zijne wordt opgeteld en moeders zonder echtgenoot minder zijn dan gehuwde moeders .</em>
-* <em>the</em>
-  * <tt><a href="nl_alpino-pos-X.html">X</a></tt> 15: <em>Santerra en Dax in " <b>the</b> adventures " .</em>
-  * <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> 3: <em>De nieuwe Sun wordt gemaakt door de Australische krantenmagnaat Rupert Murdoch ( 38 ) die sinds kort ook " The News of <b>the</b> World " bezit .</em>
-* <em>a</em>
-  * <tt><a href="nl_alpino-pos-CCONJ.html">CCONJ</a></tt> 11: <em>Dit bureau wordt voor 1969 geplaatst op een omzetniveau van 25 <b>a</b> 30 miljoen .</em>
-  * <tt><a href="nl_alpino-pos-X.html">X</a></tt> 8: <em>Wie nam de single ` Give peace <b>a</b> chance ' op in een hotelbed in Montreal in 1969 ?</em>
-  * <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> 1: <em>Bij de PvdA is ook geen detail onopgemerkt gebleven : de grootste regeringsfractie wil weten of is overwogen het accent op de <b>a</b> van Máxima bij naturalisatie te laten vervallen .</em>
-* <em>front</em>
-  * <tt><a href="nl_alpino-pos-X.html">X</a></tt> 7: <em>Dit <b>front</b> veroorzaakte regen terwijl het aanvankelijk aan de grond bleef vriezen .</em>
-  * <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> 1: <em>Zij verschenen dinsdagavond voor het <b>front</b> van het schoolbestuur , dat versterkt was met een lerarendelegatie om daar een brief te tekenen , waarin zij verklaarden hun actie te zullen beeindigen .</em>
-* <em>National</em>
-  * <tt><a href="nl_alpino-pos-X.html">X</a></tt> 6: <em>Wie leidde het African <b>National</b> Congress van 1917 tot 1924 ?</em>
-  * <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> 4: <em>Caledonian , Atlantis , Capitol International en Overseas <b>National</b> zijn vaste klanten van Schiphol .</em>
-* <em>flo</em>
-  * <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> 121: <em>Hij deed het voor <b>flo</b> 8000 .</em>
-  * <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> 12: <em>Later kwam <b>flo</b> 145.40 uit de bus .</em>
-  * <tt><a href="nl_alpino-pos-X.html">X</a></tt> 6: <em>Het kost wel meer dan <b>flo</b> 1000 .</em>
-  * <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> 4: <em>De investeringen beliepen ruim <b>flo</b> 35 mln. .</em>
-* <em>giro</em>
-  * <tt><a href="nl_alpino-pos-X.html">X</a></tt> 3: <em>Maar telkenjare kon wel de <b>giro</b> een zoete cent afdragen aan het Rijk .</em>
-  * <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> 2: <em>Goed , de <b>giro</b> gaat rente betalen .</em>
-* <em>la</em>
-  * <tt><a href="nl_alpino-pos-X.html">X</a></tt> 3: <em>Hoe hoog is de top van de Alto Cruz de <b>la</b> Demanda ?</em>
-  * <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> 1: <em>Welke hoofdsteden liggen aan weerszijden van de Rio de <b>la</b> Plata ?</em>
+* <em>jl.</em>
+  * <tt><a href="nl_alpino-pos-X.html">X</a></tt> 11: <em>Op 23 februari <b>jl.</b> reed Yvette haar echtgenoot naar een vergadering van middenstanders in een nabijgelegen dorp .</em>
+  * <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> 1: <em>Deze prijs ligt op basis van de koersen voor Petrofina en Bayer van vrijdag <b>jl.</b> dichter bij het bod van Bayer dan bij dat van Petrofina .</em>
 * <em>m</em>
   * <tt><a href="nl_alpino-pos-X.html">X</a></tt> 3: <em>Ad U3.1.1.1 t / <b>m</b> U3.1.1.3 PKU , CHT en AGS</em>
   * <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> 1: <em>Gebouwd op een wielbasis van 2,95 <b>m</b> is de wagen 23 cm korter dan een Impala Coupe en ook 10 cm smaller .</em>
-* <em>nl.</em>
-  * <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> 3: <em>De omzet was vrij groot , <b>nl.</b> 15,16 miljoen aandelen .</em>
-  * <tt><a href="nl_alpino-pos-X.html">X</a></tt> 3: <em>Die dingen hebben <b>nl.</b> voor de toerist twee voordelen :</em>
+* <em>resp.</em>
+  * <tt><a href="nl_alpino-pos-X.html">X</a></tt> 2: <em>GVAV en DOS hebben er nieuwe spelers bij ( <b>resp.</b> Jenen , Olsen en Temming ) en het valt nog niet te beoordelen in hoeverre dat van invloed zal zijn .</em>
+  * <tt><a href="nl_alpino-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Zij zijn de opvolgers van <b>resp.</b> wethouder R. S. Killian en H. Slob .</em>
+* <em>C.U.R.</em>
+  * <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> 1: <em>De rector magnificus signaleerde tot zijn voldoening dat de <b>C.U.R.</b> zich niet te buiten is gegaan aan " schijnheilige beginselverklaringen waarmede radicale studenten een ogenblik worden gepaaid , doch die bij nadere uitwerking niet blijken te worden waargemaakt " .</em>
+  * <tt><a href="nl_alpino-pos-X.html">X</a></tt> 1: <em>het interim-rapport van de Commissie Universiteit Rotterdam ( <b>C.U.R.</b> ) en de nota van minister Veringa .</em>
+* <em>dr.</em>
+  * <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> 48: <em>" De wereldluchtvaart staat volgens <b>dr.</b> Van der Wal nu voor een dilemma .</em>
+  * <tt><a href="nl_alpino-pos-X.html">X</a></tt> 1: <em>Deze <b>dr.</b> vindt trouwens in het algemeen , dat geslachtsverkeer de krachten aantast , die nodig zijn voor de ontwikkeling van het organisme . "</em>
+* <em>t.o.v.</em>
+  * <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> 1: <em>Gunstig nieuws was gisteren voor de Amerikaanse olieconcerns ook de bekendmaking , dat de overheid in Texas heeft bepaald , dat de toegestane olieproduktie in deze staat voor de maand september bijna 4,2 miljoen barrels per dag is , dat is <b>t.o.v.</b> augustus een stijging van niet minder dan 70 procent .</em>
+  * <tt><a href="nl_alpino-pos-X.html">X</a></tt> 1: <em>Alleen hoogovens bleef bij deze tendens ten achter bij een koersverlies <b>t.o.v.</b> vrijdag van flo 0,80 op flo 92,50 .</em>
+* <em>van</em>
+  * <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> 4999: <em>,, Ik wist dat mijn helft <b>van</b> het schema open ligt .</em>
+  * <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> 154: <em>Loek <b>van</b> Wely heeft zijn nationale schaaktitel geprolongeerd .</em>
+  * <tt><a href="nl_alpino-pos-X.html">X</a></tt> 1: <em>Dat ' <b>van</b> ' altijd weer , begint me te vervelen .</em>
 
 ## Morphology
 
-The form / lemma ratio of `X` is 0.997930 (the average of all parts of speech is 1.213343).
+The form / lemma ratio of `X` is 1.094340 (the average of all parts of speech is 1.213667).
 
-The 1st highest number of forms (1) was observed with the lemma “"proef"-”: <em>"proef"-</em>.
+The 1st highest number of forms (2) was observed with the lemma “Rooms-katholiek”: <em>rk, rk.</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “'n”: <em>'n</em>.
+The 2nd highest number of forms (2) was observed with the lemma “jongstleden”: <em>j.l., jl.</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “-avond”: <em>-avond</em>.
+The 3rd highest number of forms (2) was observed with the lemma “miljoen”: <em>mln, mln.</em>.
 
-`X` occurs with 2 features: <tt><a href="nl_alpino-feat-Foreign.html">Foreign</a></tt> (508; 68% instances), <tt><a href="nl_alpino-feat-Abbr.html">Abbr</a></tt> (119; 16% instances)
+`X` occurs with 1 features: <tt><a href="nl_alpino-feat-Abbr.html">Abbr</a></tt> (205; 100% instances)
 
-`X` occurs with 2 feature-value pairs: `Abbr=Yes`, `Foreign=Yes`
+`X` occurs with 1 feature-value pairs: `Abbr=Yes`
 
-`X` occurs with 3 feature combinations.
-The most frequent feature combination is `Foreign=Yes` (508 tokens).
-Examples: <em>fancy, the, a, and, front, to, National, be, fiction, flo</em>
+`X` occurs with 2 feature combinations.
+The most frequent feature combination is `Abbr=Yes` (205 tokens).
+Examples: <em>pct., o.a., jl., pct, mln., a.s., o.m., rk, etc., nl.</em>
 
 
 ## Relations
 
-`X` nodes are attached to their parents using 23 different relations: <tt><a href="nl_alpino-dep-fixed.html">fixed</a></tt> (230; 31% instances), <tt><a href="nl_alpino-dep-nmod.html">nmod</a></tt> (151; 20% instances), <tt><a href="nl_alpino-dep-flat.html">flat</a></tt> (66; 9% instances), <tt><a href="nl_alpino-dep-obl.html">obl</a></tt> (64; 9% instances), <tt><a href="nl_alpino-dep-nsubj.html">nsubj</a></tt> (37; 5% instances), <tt><a href="nl_alpino-dep-conj.html">conj</a></tt> (28; 4% instances), <tt><a href="nl_alpino-dep-appos.html">appos</a></tt> (24; 3% instances), <tt><a href="nl_alpino-dep-obj.html">obj</a></tt> (24; 3% instances), <tt><a href="nl_alpino-dep-cc.html">cc</a></tt> (23; 3% instances), <tt><a href="nl_alpino-dep-root.html">root</a></tt> (21; 3% instances), <tt><a href="nl_alpino-dep-parataxis.html">parataxis</a></tt> (18; 2% instances), <tt><a href="nl_alpino-dep-amod.html">amod</a></tt> (9; 1% instances), <tt><a href="nl_alpino-dep-case.html">case</a></tt> (9; 1% instances), <tt><a href="nl_alpino-dep-nsubj-pass.html">nsubj:pass</a></tt> (9; 1% instances), <tt><a href="nl_alpino-dep-acl.html">acl</a></tt> (7; 1% instances), <tt><a href="nl_alpino-dep-xcomp.html">xcomp</a></tt> (7; 1% instances), <tt><a href="nl_alpino-dep-det.html">det</a></tt> (5; 1% instances), <tt><a href="nl_alpino-dep-advcl.html">advcl</a></tt> (3; 0% instances), <tt><a href="nl_alpino-dep-obl-agent.html">obl:agent</a></tt> (3; 0% instances), <tt><a href="nl_alpino-dep-iobj.html">iobj</a></tt> (2; 0% instances), <tt><a href="nl_alpino-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="nl_alpino-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="nl_alpino-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+`X` nodes are attached to their parents using 14 different relations: <tt><a href="nl_alpino-dep-nmod.html">nmod</a></tt> (89; 43% instances), <tt><a href="nl_alpino-dep-obl.html">obl</a></tt> (39; 19% instances), <tt><a href="nl_alpino-dep-cc.html">cc</a></tt> (20; 10% instances), <tt><a href="nl_alpino-dep-fixed.html">fixed</a></tt> (12; 6% instances), <tt><a href="nl_alpino-dep-amod.html">amod</a></tt> (8; 4% instances), <tt><a href="nl_alpino-dep-nsubj.html">nsubj</a></tt> (7; 3% instances), <tt><a href="nl_alpino-dep-parataxis.html">parataxis</a></tt> (7; 3% instances), <tt><a href="nl_alpino-dep-acl.html">acl</a></tt> (6; 3% instances), <tt><a href="nl_alpino-dep-obj.html">obj</a></tt> (5; 2% instances), <tt><a href="nl_alpino-dep-case.html">case</a></tt> (4; 2% instances), <tt><a href="nl_alpino-dep-conj.html">conj</a></tt> (4; 2% instances), <tt><a href="nl_alpino-dep-appos.html">appos</a></tt> (2; 1% instances), <tt><a href="nl_alpino-dep-mark.html">mark</a></tt> (2; 1% instances), <tt><a href="nl_alpino-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `X` nodes belong to 13 different parts of speech: <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (214; 29% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt> (207; 28% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (142; 19% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (91; 12% instances),  (21; 3% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (19; 3% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (16; 2% instances), <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> (13; 2% instances), <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="nl_alpino-pos-INTJ.html">INTJ</a></tt> (4; 1% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (2; 0% instances)
+Parents of `X` nodes belong to 11 different parts of speech: <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (89; 43% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (48; 23% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (28; 14% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (17; 8% instances), <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> (8; 4% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt> (7; 3% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (1; 0% instances),  (1; 0% instances)
 
-421 (57%) `X` nodes are leaves.
+118 (57%) `X` nodes are leaves.
 
-64 (9%) `X` nodes have one child.
+22 (11%) `X` nodes have one child.
 
-75 (10%) `X` nodes have two children.
+36 (17%) `X` nodes have two children.
 
-183 (25%) `X` nodes have three or more children.
+30 (15%) `X` nodes have three or more children.
 
-The highest child degree of a `X` node is 12.
+The highest child degree of a `X` node is 5.
 
-Children of `X` nodes are attached using 22 different relations: <tt><a href="nl_alpino-dep-fixed.html">fixed</a></tt> (230; 24% instances), <tt><a href="nl_alpino-dep-punct.html">punct</a></tt> (195; 20% instances), <tt><a href="nl_alpino-dep-conj.html">conj</a></tt> (126; 13% instances), <tt><a href="nl_alpino-dep-det.html">det</a></tt> (110; 11% instances), <tt><a href="nl_alpino-dep-case.html">case</a></tt> (102; 10% instances), <tt><a href="nl_alpino-dep-nmod.html">nmod</a></tt> (60; 6% instances), <tt><a href="nl_alpino-dep-amod.html">amod</a></tt> (31; 3% instances), <tt><a href="nl_alpino-dep-flat.html">flat</a></tt> (18; 2% instances), <tt><a href="nl_alpino-dep-cc.html">cc</a></tt> (17; 2% instances), <tt><a href="nl_alpino-dep-parataxis.html">parataxis</a></tt> (13; 1% instances), <tt><a href="nl_alpino-dep-nummod.html">nummod</a></tt> (11; 1% instances), <tt><a href="nl_alpino-dep-mark.html">mark</a></tt> (10; 1% instances), <tt><a href="nl_alpino-dep-acl-relcl.html">acl:relcl</a></tt> (9; 1% instances), <tt><a href="nl_alpino-dep-appos.html">appos</a></tt> (8; 1% instances), <tt><a href="nl_alpino-dep-nsubj.html">nsubj</a></tt> (8; 1% instances), <tt><a href="nl_alpino-dep-cop.html">cop</a></tt> (7; 1% instances), <tt><a href="nl_alpino-dep-acl.html">acl</a></tt> (5; 1% instances), <tt><a href="nl_alpino-dep-nmod-poss.html">nmod:poss</a></tt> (5; 1% instances), <tt><a href="nl_alpino-dep-obl.html">obl</a></tt> (4; 0% instances), <tt><a href="nl_alpino-dep-advmod.html">advmod</a></tt> (3; 0% instances), <tt><a href="nl_alpino-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="nl_alpino-dep-obj.html">obj</a></tt> (1; 0% instances)
+Children of `X` nodes are attached using 16 different relations: <tt><a href="nl_alpino-dep-nummod.html">nummod</a></tt> (43; 22% instances), <tt><a href="nl_alpino-dep-punct.html">punct</a></tt> (39; 20% instances), <tt><a href="nl_alpino-dep-case.html">case</a></tt> (36; 18% instances), <tt><a href="nl_alpino-dep-det.html">det</a></tt> (18; 9% instances), <tt><a href="nl_alpino-dep-nmod.html">nmod</a></tt> (17; 9% instances), <tt><a href="nl_alpino-dep-appos.html">appos</a></tt> (14; 7% instances), <tt><a href="nl_alpino-dep-amod.html">amod</a></tt> (7; 4% instances), <tt><a href="nl_alpino-dep-fixed.html">fixed</a></tt> (7; 4% instances), <tt><a href="nl_alpino-dep-parataxis.html">parataxis</a></tt> (7; 4% instances), <tt><a href="nl_alpino-dep-cc.html">cc</a></tt> (2; 1% instances), <tt><a href="nl_alpino-dep-conj.html">conj</a></tt> (2; 1% instances), <tt><a href="nl_alpino-dep-cop.html">cop</a></tt> (2; 1% instances), <tt><a href="nl_alpino-dep-nsubj.html">nsubj</a></tt> (2; 1% instances), <tt><a href="nl_alpino-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="nl_alpino-dep-obl.html">obl</a></tt> (1; 1% instances), <tt><a href="nl_alpino-dep-orphan.html">orphan</a></tt> (1; 1% instances)
 
-Children of `X` nodes belong to 16 different parts of speech: <tt><a href="nl_alpino-pos-X.html">X</a></tt> (207; 21% instances), <tt><a href="nl_alpino-pos-PUNCT.html">PUNCT</a></tt> (195; 20% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (142; 15% instances), <tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (110; 11% instances), <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (105; 11% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (51; 5% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (45; 5% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (30; 3% instances), <tt><a href="nl_alpino-pos-CCONJ.html">CCONJ</a></tt> (23; 2% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (20; 2% instances), <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> (11; 1% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (9; 1% instances), <tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (8; 1% instances), <tt><a href="nl_alpino-pos-SCONJ.html">SCONJ</a></tt> (7; 1% instances), <tt><a href="nl_alpino-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Children of `X` nodes belong to 12 different parts of speech: <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (60; 30% instances), <tt><a href="nl_alpino-pos-PUNCT.html">PUNCT</a></tt> (39; 20% instances), <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (36; 18% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (19; 10% instances), <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> (13; 7% instances), <tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (10; 5% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt> (7; 4% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (6; 3% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="nl_alpino-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (1; 1% instances)
 

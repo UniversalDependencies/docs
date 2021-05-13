@@ -52,7 +52,7 @@ The following 5 pairs of parts of speech are connected with `flat`: <tt><a href=
 7	cent	cent	NUM	_	Number=Plur	6	flat	_	_
 8	soixante-dix	soixante-dix	NUM	_	Number=Plur	6	flat	_	_
 9	par	par	ADP	_	_	10	case	_	_
-10	là	là	ADV	_	_	6	nmod	_	_
+10	là	là	ADV	_	_	6	advmod	_	_
 
 ~~~
 
@@ -69,7 +69,7 @@ The following 5 pairs of parts of speech are connected with `flat`: <tt><a href=
 4	vient	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	de	de	ADP	_	_	7	mark	_	_
 6	s'	se	PRON	_	Person=3|PronType=Prs	7	dep:comp	_	_
-7	ouvrir	ouvrir	VERB	_	VerbForm=Inf	4	xcomp:obl	_	_
+7	ouvrir	ouvrir	VERB	_	VerbForm=Inf	4	xcomp	_	_
 8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	site	site	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
 10	Famibook	Famibook	PROPN	_	_	9	nmod:appos	_	_

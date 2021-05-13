@@ -25,7 +25,7 @@ The following 6 pairs of parts of speech are connected with `vocative`: <tt><a h
 1	Débutants	débutant	NOUN	_	Gender=Masc|Number=Plur	3	vocative	_	SpaceAfter=No|wordform=débutants
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	allez	aller	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	voir	voir	VERB	_	VerbForm=Inf	3	xcomp:obj	_	_
+4	voir	voir	VERB	_	VerbForm=Inf	3	xcomp	_	_
 5	ailleurs	ailleurs	ADV	_	_	4	advmod	_	_
 6	:)	:)	SYM	_	_	4	parataxis	_	ExtPos=ADV
 
@@ -43,7 +43,7 @@ The following 6 pairs of parts of speech are connected with `vocative`: <tt><a h
 3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 4	pars	partir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	dans	dans	ADP	_	_	7	case	_	_
-6	mon	son	DET	_	Number=Sing|PossNumber=Sing|PossPerson=1|PronType=Prs	7	det	_	_
+6	mon	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=1|PronType=Prs	7	det	_	_
 7	sommeil	sommeil	NOUN	_	Gender=Masc|Number=Sing	4	obl:arg	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -58,7 +58,7 @@ The following 6 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 9 4 vocative	color:blue
 1	-	-	PUNCT	_	_	9	punct	_	SpaceAfter=No
 2	Mais	mais	CCONJ	_	_	9	cc	_	wordform=mais
-3	ma	son	DET	_	Gender=Fem|Number=Sing|PossNumber=Sing|PossPerson=1|PronType=Prs	4	det	_	_
+3	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|PronType=Prs	4	det	_	_
 4	chérie	chéri	NOUN	_	Gender=Fem|Number=Sing	9	vocative	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	tu	il	PRON	_	Number=Sing|Person=2|PronType=Prs	9	nsubj	_	_

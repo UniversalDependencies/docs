@@ -43,5 +43,5 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (90; 100% of non-empty `Polarity`): <em>ingen, ingenting</em>
-* `EMPTY` (22709): <em>det, som, dei, han, eg, vi, seg, ein, dette, ho</em>
+* `EMPTY` (22712): <em>det, som, dei, han, eg, vi, seg, ein, dette, ho</em>
 

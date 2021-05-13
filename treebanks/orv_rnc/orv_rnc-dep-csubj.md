@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of csubj in UD_Old_Russian-RNC'
+title:  'Statistics of csubj in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Relations: `csubj`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Relations: `csubj`
 
 This relation is universal.
 
@@ -31,7 +31,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 7	ходить	ходити	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	9	csubj	_	_
 8	будет	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	9	cop	_	_
 9	далеко	далекий	ADJ	AdjType=Predic	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	_
 
 ~~~
 

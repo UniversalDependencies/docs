@@ -14,7 +14,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 112 tokens (0%) have a non-empty value of `Gender[psor]`.
 11 types (0%) occur at least once with a non-empty value of `Gender[psor]`.
-3 lemmas (0%) occur at least once with a non-empty value of `Gender[psor]`.
+4 lemmas (0%) occur at least once with a non-empty value of `Gender[psor]`.
 The feature is used with 2 part-of-speech tags: <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (111; 0% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `DET`

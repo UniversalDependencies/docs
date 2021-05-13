@@ -55,7 +55,7 @@ The following 5 pairs of parts of speech are connected with `compound:redup`: <t
 1	muso	mùso	NOUN	n	_	8	nsubj	_	Gloss=femme
 2	kònòntò	kɔ̀nɔntɔn	NUM	num	_	1	nummod	_	Gloss=neuf
 3	bèè	bɛ́ɛ	DET	dtm	_	1	det	_	Gloss=tout
-4	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	8	aux	_	Gloss=PFV.TR
+4	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	8	aux	_	Gloss=PFV.TR
 5	denkè	dén.kɛ	NOUN	n	_	8	obj	_	Gloss=fils|Morf=fils,enfant,mâle
 6	kelen	kélen	NUM	num	_	5	nummod	_	Gloss=un
 7	kelen	kélen	NUM	num	_	6	compound:redup	_	Gloss=un

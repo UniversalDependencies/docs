@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Miguel Ballesteros, Héctor Martínez Alonso, Ryan McDonald, Elena Pascual, Natalia Silveira, Daniel Zeman, Joakim Nivre.
 
 Repository: [UD_Spanish-GSD](https://github.com/UniversalDependencies/UD_Spanish-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_gsd27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_gsd28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -210,7 +210,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
       <li>PRON: la, una, ella, las, ellas, esta, otra, otras, ésta, muchas</li>
       <li>PROPN: guerra, Segunda, Primera, Europea, Ruta, Isla, española, TV, Aérea, batalla</li>
       <li>PROPN-Part: Quesada, Quemada, Abiertas, Agoda, Aplicadas, Blindada, Daida, Fócida, Google, Gymnosarda</li>
-      <li>SYM: h, $, &, m, €, +, h​t​t​p​:​/​/​r​e​d​s​i​s​m​i​c​a​.​u​p​r​m​.​e​d​u​/​s​p​a​n​i​s​h​/​i​n​f​o​r​m​a​c​i​o​n​/​t​e​r​r​1​9​1​8​.​p​h​p, h​t​t​p​:​/​/​w​w​w​.​r​u​m​b​o​.​e​s​/​d​i​s​n​e​y​/</li>
+      <li>SYM: h, $, &, m, €, +, http://redsismica.uprm.edu/spanish/informacion/terr1918.php, http://www.rumbo.es/disney/</li>
       <li>VERB-Fin: esta, deriva, llena, Juega, continua, forma, vas, expresa, ficha, sera</li>
       <li>VERB-Part: situada, conocida, ubicada, llamada, dirigida, fundada, publicada, realizada, construida, creada</li>
       <li>X: 's, C, b, cápita, i, pre, semi, ta, C., high</li>
@@ -261,7 +261,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
       <li>PRON: los, nos, les, ellos, las, otros, todos, muchos, ellas, algunos</li>
       <li>PROPN: Unidos, Estados, Luis, van, Dos, ángeles, on, siete, Ciencias, Olímpicos</li>
       <li>PROPN-Part: Unidos, Abiertas, Aplicadas, Blas, Casados, Google, José, Organizados, Owen, desnudos</li>
-      <li>SYM: $, km, m, #, &, h​t​t​p​:​/​/​r​e​d​s​i​s​m​i​c​a​.​u​p​r​m​.​e​d​u​/​s​p​a​n​i​s​h​/​i​n​f​o​r​m​a​c​i​o​n​/​t​e​r​r​1​9​1​8​.​p​h​p, h​t​t​p​:​/​/​w​w​w​.​r​u​m​b​o​.​e​s​/​d​i​s​n​e​y​/, www.dgt.es</li>
+      <li>SYM: $, km, m, #, &, http://redsismica.uprm.edu/spanish/informacion/terr1918.php, http://www.rumbo.es/disney/, www.dgt.es</li>
       <li>SYM-Part: $, #</li>
       <li>VERB-Fin: tienen, eran, encuentran, pertenecían, son, existen, tenían, están, corresponden, hacen</li>
       <li>VERB-Part: dedicados, relacionadas, realizadas, llamados, publicados, relacionados, formados, situados, utilizados, basadas</li>

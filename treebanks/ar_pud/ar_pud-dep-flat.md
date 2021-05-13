@@ -27,14 +27,14 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 3	سنوات	sanap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	1	obj	_	_
 4	في	fiy_1	ADP	IN	_	5	case	_	_
 5	إذاعة	<i*AEap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	1	obl	_	_
-6	بي	biy_1	PROPN	NNP	_	5	nmod:gmod	_	_
+6	بي	biy_1	PROPN	NNP	_	5	nmod	_	_
 7	بي	biy_1	PROPN	NNP	_	6	flat	_	_
 8	سي	siy_1	PROPN	NNP	_	6	flat	_	_
 9	وورلد	wrld_0	PROPN	NNP	Animacy=Nhum|Number=Sing	6	conj	_	_
 10	سيرفيس	syrfys_0	PROPN	NNP	Animacy=Nhum|Number=Sing	9	flat	_	_
 11	في	fiy_1	ADP	IN	_	12	case	_	_
 12	مبنى	mabonaY_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	9	nmod	_	_
-13	بوش	buw$_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	12	nmod:gmod	_	_
+13	بوش	buw$_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	12	nmod	_	_
 14	هاوس	hAws_0	PROPN	NNP	Animacy=Nhum|Number=Sing	13	flat	_	SpaceAfter=No
 15	.	._0	PUNCT	.	_	1	punct	_	_
 

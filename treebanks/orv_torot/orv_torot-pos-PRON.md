@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of PRON in UD_Old_Russian-TOROT'
+title:  'Statistics of PRON in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: POS Tags: `PRON`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: POS Tags: `PRON`
 
 There are 27 `PRON` lemmas (0%), 352 `PRON` types (1%) and 11222 `PRON` tokens (7%).
 Out of 14 observed tags, the rank of `PRON` is: 11 in number of lemmas, 7 in number of types and 7 in number of tokens.
@@ -68,7 +68,7 @@ The 10 most frequent ambiguous types:  <em>сѧ</em> (<tt><a href="orv_torot-pos
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 13.037037 (the average of all parts of speech is 3.571089).
+The form / lemma ratio of `PRON` is 13.037037 (the average of all parts of speech is 3.571475).
 
 The 1st highest number of forms (114) was observed with the lemma “и”: <em>iмъ, ιмъ, е, ег, его, егъ, ее, еи, емȣ, емо, емоу, ему, емѹ, емꙋ, ею, ея, еѣ, еѧ, еꙗ, и, им, има, ими, имо, имъ, имь, их, ихʼ, ихъ, их҃, и҃, м, мꙋ, не, нег, него, негѡ, нее, неи, нем, немȣ, немʼ, нему, немъ, немь, немѹ, нем҃, немꙋ, нею, нея, неѣ, неꙗ, ни, ним, нима, ними, ними., нимо, нимъ, нимь, нимї, ним҃, них, нихʼ, нихъ, них҃, нми, ного, нь, ньмь, ню, нїмь, нїхъ, нѣ, нѣмь, нѣмѹ, нѣмꙋ, нѥ, нѥго, нѥи, нѥмо, нѥмь, нѥмѹ, нѥю, нѥꙗ, нѧ, нꙗ, ю, я, єг, єго, ємꙋ, і, іхъ, ѣ, ѥ, ѥ]го, ѥго, ѥгѡ, ѥе, ѥи, ѥмȣ, ѥму, ѥмь, ѥмѹ, ѥю, ѥꙗ, ѧ, ѫ, ꙇ, ꙇмъ, ꙇх, ꙇхъ, ꙗ</em>.
 

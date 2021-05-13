@@ -42,7 +42,7 @@ The 10 most frequent ambiguous types:  <em>Efendim</em> (<tt><a href="tr_boun-po
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 2.389211).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 2.389386).
 
 The 1st highest number of forms (1) was observed with the lemma “Lakin”: <em>Lakin</em>.
 
@@ -50,13 +50,7 @@ The 2nd highest number of forms (1) was observed with the lemma “Nitekim”: <
 
 The 3rd highest number of forms (1) was observed with the lemma “Zira”: <em>Zira</em>.
 
-`SCONJ` occurs with 5 features: <tt><a href="tr_boun-feat-Case.html">Case</a></tt> (4; 57% instances), <tt><a href="tr_boun-feat-Number.html">Number</a></tt> (4; 57% instances), <tt><a href="tr_boun-feat-Person.html">Person</a></tt> (4; 57% instances), <tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt> (1; 14% instances), <tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt> (1; 14% instances)
-
-`SCONJ` occurs with 5 feature-value pairs: `Case=Nom`, `Number=Sing`, `Number[psor]=Sing`, `Person=3`, `Person[psor]=1`
-
-`SCONJ` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (3 tokens).
-Examples: <em>Ve, Yahu, fakat</em>
+`SCONJ` does not occur with any features.
 
 
 ## Relations

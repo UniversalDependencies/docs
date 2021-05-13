@@ -93,7 +93,7 @@ The following 12 pairs of parts of speech are connected with `parataxis`: <tt><a
 14	,	,	PUNCT	,	_	18	punct	18:punct	_
 15	self	self	NOUN	NN	Number=Sing	17	compound	17:compound	SpaceAfter=No
 16	-	-	PUNCT	HYPH	_	17	punct	17:punct	SpaceAfter=No
-17	governing	governing	VERB	VBG	VerbForm=Ger	18	amod	18:amod	_
+17	governing	govern	VERB	VBG	VerbForm=Ger	18	amod	18:amod	_
 18	territories	territory	NOUN	NNS	Number=Plur	9	parataxis	9:parataxis	_
 19	with	with	ADP	IN	_	23	case	23:case	_
 20	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	23	nmod:poss	23:nmod:poss	_

@@ -22,17 +22,17 @@ The following 2 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 fixed	color:blue
-1	사적으로	사적	NOUN	NN+CM	Case=Advb|Polite=Form	16	advcl	_	SpaceAfter=No|MSeg=사적-으로|Translit=.sa.jeog.eu.ro|LTranslit=.sa.jeog
-2	뿐	뿐	PART	AP	_	1	dep:prt	_	Translit=.bbun|LTranslit=_
+1	사적으로	사적	NOUN	NN+CM	Polite=Form	16	advcl	_	SpaceAfter=No|MSeg=사적-으로|Translit=.sa.jeog.eu.ro|LTranslit=.sa.jeog
+2	뿐	뿐	PART	AP	_	1	case	_	Translit=.bbun|LTranslit=_
 3	아니라	_	ADJ	JJ	Form=Compl	1	fixed	_	Translit=.a.ni.ra|LTranslit=_
-4	공적으로	공적	NOUN	NN+CM	Case=Advb|Polite=Form	16	advmod	_	SpaceAfter=No|MSeg=공적-으로|Translit=.gong.jeog.eu.ro|LTranslit=.gong.jeog
-5	도	도	PART	AP	_	4	dep:prt	_	Translit=.do|LTranslit=_
+4	공적으로	공적	NOUN	NN+CM	Polite=Form	16	advmod	_	SpaceAfter=No|MSeg=공적-으로|Translit=.gong.jeog.eu.ro|LTranslit=.gong.jeog
+5	도	도	PART	AP	_	4	case	_	Translit=.do|LTranslit=_
 6	스프링거는	스프링거	PROPN	NNP+CM	Case=Nom|Polite=Form	16	nsubj	_	MSeg=스프링거-는|Translit=.seu.peu.ring.geo.neun|LTranslit=.seu.peu.ring.geo
-7	유대인과	유대인	PROPN	NNP+CM	Case=Advb|Polite=Form	8	advmod	_	MSeg=유대인-과|Translit=.yu.dae.in.gwa|LTranslit=.yu.dae.in
+7	유대인과	유대인	PROPN	NNP+CM	Polite=Form	8	advmod	_	MSeg=유대인-과|Translit=.yu.dae.in.gwa|LTranslit=.yu.dae.in
 8	화해하기	_	NOUN	NN	_	9	ccomp	_	SpaceAfter=No|Translit=.hwa.hae.ha.gi|LTranslit=_
 9	위한	_	VERB	VV	Form=Adn	10	acl:relcl	_	Translit=.wi.han|LTranslit=_
 10	노력을	노력	NOUN	NN+CM	Case=Acc|Polite=Form	12	obj	_	MSeg=노력-을|Translit=.no.ryeog.eul|LTranslit=.no.ryeog
-11	적극적으로	적극적	NOUN	NN+CM	Case=Advb|Polite=Form	12	advmod	_	MSeg=적극적-으로|Translit=.jeog.geug.jeog.eu.ro|LTranslit=.jeog.geug.jeog
+11	적극적으로	적극적	NOUN	NN+CM	Polite=Form	12	advmod	_	MSeg=적극적-으로|Translit=.jeog.geug.jeog.eu.ro|LTranslit=.jeog.geug.jeog
 12	펼쳤고	_	VERB	VV	Form=Compl|Tense=Past	0	root	_	Translit=.pyeol.chyeoss.go|LTranslit=_
 13	이스라엘을	이스라엘	PROPN	NNP+CM	Case=Acc|Polite=Form	16	obj	_	MSeg=이스라엘-을|Translit=.i.seu.ra.el.eul|LTranslit=.i.seu.ra.el
 14	여러	_	DET	DT	_	15	det	_	Translit=.yeo.reo|LTranslit=_

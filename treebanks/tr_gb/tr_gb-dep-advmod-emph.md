@@ -10,10 +10,22 @@ This relation is a language-specific subtype of <tt><a href="tr_gb-dep-advmod.ht
 
 145 nodes (1%) are attached to their parents as `advmod:emph`.
 
-143 instances of `advmod:emph` (99%) are left-to-right (parent precedes child).
+144 instances of `advmod:emph` (99%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.06896551724138.
 
-The following 6 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (47; 32% instances), <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (46; 32% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (25; 17% instances), <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (12; 8% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (9; 6% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (6; 4% instances).
+The following 6 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="tr_gb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (48; 33% instances), <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (45; 31% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (25; 17% instances), <tt><a href="tr_gb-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (12; 8% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (9; 6% instances), <tt><a href="tr_gb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_gb-pos-ADV.html">ADV</a></tt> (6; 4% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 advmod:emph	color:blue
+1	ev	ev	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+2	bile	bile	ADV	_	_	1	advmod:emph	_	SpaceAfter=No
+
+~~~
 
 
 ~~~ conllu
@@ -27,18 +39,6 @@ The following 6 pairs of parts of speech are connected with `advmod:emph`: <tt><
 3	bilsin	bil	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 4	ki	ki	ADV	_	_	3	advmod:emph	_	SpaceAfter=No
 5	?	?	PUNCT	_	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 advmod:emph	color:blue
-1	annem	anne	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	0	root	_	_
-2	de	de	ADV	_	_	1	advmod:emph	_	_
 
 ~~~
 

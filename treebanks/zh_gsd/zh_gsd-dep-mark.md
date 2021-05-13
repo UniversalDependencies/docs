@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Chinese-GSD: Relations: `mark`
 
 This relation is universal.
-There are 3 language-specific subtypes of `mark`: <tt><a href="zh_gsd-dep-mark-advb.html">mark:advb</a></tt>, <tt><a href="zh_gsd-dep-mark-comp.html">mark:comp</a></tt>, <tt><a href="zh_gsd-dep-mark-relcl.html">mark:relcl</a></tt>.
+There are 2 language-specific subtypes of `mark`: <tt><a href="zh_gsd-dep-mark-adv.html">mark:adv</a></tt>, <tt><a href="zh_gsd-dep-mark-rel.html">mark:rel</a></tt>.
 
 4553 nodes (4%) are attached to their parents as `mark`.
 
 2682 instances of `mark` (59%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.7491763672304.
+Average distance between parent and child is 2.74807819020426.
 
-The following 19 pairs of parts of speech are connected with `mark`: <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (2461; 54% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (1361; 30% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (471; 10% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (109; 2% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (72; 2% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (21; 0% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `mark`: <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (2464; 54% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (1361; 30% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (472; 10% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (106; 2% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (72; 2% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (21; 0% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 19 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 12	fgColor:white
 # visual-style 12 9 mark	color:blue
 1	數百萬	數百萬	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
+2	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No
 3	巧克力	巧克力	NOUN	NN	_	4	compound	_	SpaceAfter=No
 4	棒	棒	PART	SFN	_	6	nsubj:pass	_	SpaceAfter=No
 5	被	被	VERB	BB	Voice=Pass	6	aux:pass	_	SpaceAfter=No
@@ -35,7 +35,7 @@ The following 19 pairs of parts of speech are connected with `mark`: <tt><a href
 10	瑪氏	瑪氏	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No
 11	則	則	ADV	RB	_	12	mark	_	SpaceAfter=No
 12	中斷	中斷	VERB	VV	_	6	parataxis	_	SpaceAfter=No
-13	了	了	PART	AS	Aspect=Perf	12	aux:aspect	_	SpaceAfter=No
+13	了	了	AUX	AS	Aspect=Perf	12	aux	_	SpaceAfter=No
 14	生產	生產	NOUN	NN	_	12	obj	_	SpaceAfter=No
 15	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
 16	公司	公司	NOUN	NN	_	17	nmod	_	SpaceAfter=No
@@ -101,7 +101,7 @@ The following 19 pairs of parts of speech are connected with `mark`: <tt><a href
 18	和	和	ADP	IN	_	22	case	_	SpaceAfter=No
 19	隨機	隨機	ADV	RB	_	20	advmod	_	SpaceAfter=No
 20	遇到	遇到	VERB	VV	_	22	acl:relcl	_	SpaceAfter=No
-21	的	的	PART	DEC	_	20	mark:relcl	_	SpaceAfter=No
+21	的	的	PART	DEC	_	20	mark:rel	_	SpaceAfter=No
 22	敵人	敵人	NOUN	NN	_	23	obl	_	SpaceAfter=No
 23	作戰	作戰	VERB	VV	_	0	root	_	SpaceAfter=No
 24	。	。	PUNCT	.	_	23	punct	_	SpaceAfter=No

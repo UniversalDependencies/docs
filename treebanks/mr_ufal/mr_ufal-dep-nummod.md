@@ -23,8 +23,8 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 8	fgColor:white
 # visual-style 8 7 nummod	color:blue
 1	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No
-2	त्या	तो	DET	_	Case=Obl|Distance=Dist|PronType=Dem	3	det	_	_
-3	_	तुकडा	NOUN	_	Case=Obl|Gender=Masc|Number=Sing	9	obl	_	_
+2	त्या	तो	DET	_	Case=Abs|Deixis=Remt|PronType=Dem	3	det	_	_
+3	_	तुकडा	NOUN	_	Case=Abs|Gender=Masc|Number=Sing	9	obl	_	_
 4	_	चा	ADP	_	Gender=Neut|Number=Sing	3	case	_	_
 5	का	का	ADV	_	_	9	advmod	_	_
 6	कोणी	कोण	PRON	_	Case=Erg|PronType=Int	9	nsubj	_	_
@@ -58,7 +58,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 nummod	color:blue
-1	तो	तो	DET	_	Case=Nom|Distance=Prox|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
+1	तो	तो	DET	_	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 2	आणखी	आणखी	ADJ	_	Case=Nom	3	amod	_	_
 3	एक	एक	NUM	_	_	4	nummod	_	_
 4	तरुण	तरुण	ADJ	_	Case=Nom	6	nsubj	_	_

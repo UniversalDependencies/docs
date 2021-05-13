@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="en_lines-pos-VERB.h
 
 10791 <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="en_lines-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (9591; 89%), <tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (5709; 53%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="en_lines-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (9595; 89%), <tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (5709; 53%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-838 nodes (3%) are attached to their parents as `mark`.
+965 nodes (3%) are attached to their parents as `mark`.
 
-608 instances of `mark` (73%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.40692124105012.
+707 instances of `mark` (73%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.47772020725389.
 
-The following 22 pairs of parts of speech are connected with `mark`: <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-SCONJ.html">SCONJ</a></tt> (419; 50% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (207; 25% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-SCONJ.html">SCONJ</a></tt> (55; 7% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (38; 5% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-SCONJ.html">SCONJ</a></tt> (36; 4% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt>-<tt><a href="qtd_sagt-pos-SCONJ.html">SCONJ</a></tt> (22; 3% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-SCONJ.html">SCONJ</a></tt> (18; 2% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-PART.html">PART</a></tt> (10; 1% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-SCONJ.html">SCONJ</a></tt> (5; 1% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt>-<tt><a href="qtd_sagt-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt>-<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt>-<tt><a href="qtd_sagt-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt>-<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 22 pairs of parts of speech are connected with `mark`: <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-SCONJ.html">SCONJ</a></tt> (498; 52% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (226; 23% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-SCONJ.html">SCONJ</a></tt> (69; 7% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-SCONJ.html">SCONJ</a></tt> (43; 4% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (38; 4% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-SCONJ.html">SCONJ</a></tt> (24; 2% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt>-<tt><a href="qtd_sagt-pos-SCONJ.html">SCONJ</a></tt> (20; 2% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-PART.html">PART</a></tt> (11; 1% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (6; 1% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt>-<tt><a href="qtd_sagt-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt>-<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt>-<tt><a href="qtd_sagt-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt>-<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -52,7 +52,7 @@ The following 22 pairs of parts of speech are connected with `mark`: <tt><a href
 6	,	,	PUNCT	_	_	8	punct	_	LangID=OTHER
 7	ich	ich	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	LangID=DE
 8	weiß	wissen	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	parataxis	_	LangID=DE
-9	es	es	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obj	_	LangID=DE
+9	es	es	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obj	_	LangID=DE
 10	nicht	nicht	PART	_	Polarity=Neg	8	advmod	_	LangID=DE|SpaceAfter=No
 11	.	.	PUNCT	_	_	4	punct	_	LangID=OTHER
 
@@ -66,9 +66,9 @@ The following 22 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 5	fgColor:white
 # visual-style 5 1 mark	color:blue
 1	Çünkü	çünkü	SCONJ	_	_	5	mark	_	LangID=TR
-2	o	o	PRON	_	Case=Nom|Number=Sing|Person=3	3	nmod	_	LangID=TR
-3	Punkteler	Punkte	NOUN	_	Case=Nom|Number=Plur	5	nsubj	_	CSPoint=Punkte§ler|LangID=MIXED
-4	bana	ban	NOUN	_	Case=Dat|Number=Sing	5	obl	_	LangID=TR
+2	o	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nmod	_	LangID=TR
+3	Punkteler	Punkte	NOUN	_	Case=Nom|Number=Plur	5	nsubj	_	CSPoint=Punkte§ler|DeCase=Acc|DeGender=Fem|LangID=MIXED
+4	bana	ben	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	obl	_	LangID=TR
 5	lazım	lazım	ADJ	_	_	0	root	_	LangID=TR|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	LangID=OTHER
 

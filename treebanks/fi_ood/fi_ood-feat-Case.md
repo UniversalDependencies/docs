@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 `NOUN` tokens may have the following values of `Case`:
 
 * `Abe` (3; 0% of non-empty `Case`): <em>ongelmitta, vastikkeetta, veloituksetta</em>
-* `Abl` (34; 1% of non-empty `Case`): <em>hotellilta, potilaalta, y​h​t​e​i​s​t​y​ö​k​u​m​p​p​a​n​e​i​l​t​a, Ensimetreiltä, KANNALTA, MTV-kanavalta, PUOLUEELTA, Pientuottajilta, Puolilta, Reunalta</em>
+* `Abl` (34; 1% of non-empty `Case`): <em>hotellilta, potilaalta, yhteistyökumppaneilta, Ensimetreiltä, KANNALTA, MTV-kanavalta, PUOLUEELTA, Pientuottajilta, Puolilta, Reunalta</em>
 * `Ade` (281; 6% of non-empty `Case`): <em>aamulla, illalla, viikolla, iltapäivällä, avulla, hetkellä, puolella, tasolla, tauolla, yöllä</em>
 * `All` (111; 2% of non-empty `Case`): <em>Bipap:lle, CPAP:lle, alkuasukkaille, cpapille, hautausmaalle, kendall-kostukselle, kohdalle, lapselle, ostoksille, 1940-luvulle</em>
 * `Com` (4; 0% of non-empty `Case`): <em>eläimineen, fiftarimekkoineen, huulipunineen, höysteineen</em>
@@ -63,7 +63,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 * `Ins` (4; 0% of non-empty `Case`): <em>Pienin, epävakain, italialaisin, kreikkalaisin</em>
 * `Nom` (558; 44% of non-empty `Case`): <em>hyvä, pitkä, rauhallinen, korkea, oma, vanha, huono, omat, toinen, asiallinen</em>
 * `Par` (328; 26% of non-empty `Case`): <em>hyvää, omia, hyviä, niukkaa, riittävää, helppoa, parasta, pieniä, runsasta, ensimmäistä</em>
-* `Tra` (33; 3% of non-empty `Case`): <em>huonoksi, sinisilmäiseksi, työläämmäksi, Suurimmaksi, Toiseksi, ahdistuneemmaksi, a​l​k​o​h​o​l​i​p​o​l​i​i​t​t​i​s​e​k​s​i, ensimmäiseksi, helpommiksi, historialliseksi</em>
+* `Tra` (33; 3% of non-empty `Case`): <em>huonoksi, sinisilmäiseksi, työläämmäksi, Suurimmaksi, Toiseksi, ahdistuneemmaksi, alkoholipoliittiseksi, ensimmäiseksi, helpommiksi, historialliseksi</em>
 * `EMPTY` (76): <em>koko, viime, eri, 1., 2., 14., 3., 4., 5., 9.</em>
 
 <table>

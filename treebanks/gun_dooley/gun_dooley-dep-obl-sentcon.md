@@ -36,7 +36,7 @@ The following 4 pairs of parts of speech are connected with `obl:sentcon`: <tt><
 12	_	_	ADV	dem	_	15	advmod	_	_
 13	_	_	PART	discprt	_	12	dep:mod	_	_
 14	_	_	PRON	pro	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
-15	_	_	VERB	vi:a	Mood=Ind|Person[subj]=1|Subcat=Int|VerbForm=Fin	7	parataxis:rep	_	_
+15	_	_	VERB	vi:a	Mood=Ind|Person[subj]=1|Subcat=Intr|VerbForm=Fin	7	parataxis:rep	_	_
 16	_	_	PART	aspprt	_	15	dep:mod	_	_
 17	_	_	NOUN	n	_	15	obl	_	_
 18	_	_	ADP	post	_	17	case	_	_
@@ -93,7 +93,7 @@ The following 4 pairs of parts of speech are connected with `obl:sentcon`: <tt><
 5	_	_	PART	illocprt	_	2	dep:mod	_	_
 6	_	_	PRON	pro	Person=3|PronType=Prs	8	nsubj	_	_
 7	_	_	PART	quantprt	_	6	dep:mod	_	_
-8	_	_	VERB	inact	Mood=Ind|Person[subj]=3|Polarity=Neg|Subcat=Int|VerbForm=Fin	0	root	_	_
+8	_	_	VERB	inact	Mood=Ind|Person[subj]=3|Polarity=Neg|Subcat=Intr|VerbForm=Fin	0	root	_	_
 9	_	_	SCONJ	rel	_	8	mark	_	_
 10	_	_	PUNCT	punct	_	8	punct	_	_
 

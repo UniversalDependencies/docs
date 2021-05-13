@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Danish-DDT: Relations: `advmod`
 
 This relation is universal.
+There are 1 language-specific subtypes of `advmod`: <tt><a href="da_ddt-dep-advmod-lmod.html">advmod:lmod</a></tt>.
 
 7233 nodes (7%) are attached to their parents as `advmod`.
 

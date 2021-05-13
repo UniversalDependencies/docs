@@ -1,18 +1,18 @@
 ---
 layout: base
-title:  'Statistics of Person in UD_Old_Russian-RNC'
+title:  'Statistics of Person in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Features: `Person`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Features: `Person`
 
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-2281 tokens (8%) have a non-empty value of `Person`.
+2280 tokens (8%) have a non-empty value of `Person`.
 714 types (9%) occur at least once with a non-empty value of `Person`.
-402 lemmas (10%) occur at least once with a non-empty value of `Person`.
-The feature is used with 5 part-of-speech tags: <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1232; 4% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (918; 3% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (129; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+401 lemmas (10%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1232; 4% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (918; 3% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (129; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 ### `PRON`
 
@@ -112,15 +112,6 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 * `3` (1; 100% of non-empty `Person`): <em>яже</em>
 * `EMPTY` (1436): <em>твой, мои, тѣхъ, то, тѣ, твоему, того, т., вся, сей</em>
-
-### `SCONJ`
-
-1 <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Person`.
-
-`SCONJ` tokens may have the following values of `Person`:
-
-* `3` (1; 100% of non-empty `Person`): <em>будет</em>
-* `EMPTY` (269): <em>что, чтобъ, яко, ино, как, буде, чтоб, чтобы, какъ, якоже</em>
 
 ## Relations with Agreement in `Person`
 

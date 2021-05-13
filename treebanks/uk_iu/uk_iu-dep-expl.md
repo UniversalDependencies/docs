@@ -63,7 +63,7 @@ The following 9 pairs of parts of speech are connected with `expl`: <tt><a href=
 6	-	-	PUNCT	U	PunctType=Dash	11	punct	11:punct	Id=1msg|LTranslit=-|Translit=-
 7	це	це	PRON	Pd--nnsnn	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	11	expl	11:expl	Id=1msh|LTranslit=ce|Translit=ce
 8	дуже	дуже	ADV	Rp	Degree=Pos	11	advmod	11:advmod	Id=1msi|LTranslit=duže|SpaceAfter=No|Translit=duže
-9	-	-	PUNCT	U	PunctType=Hyph	10	punct	10:punct	Id=1msj|LTranslit=-|SpaceAfter=No|Translit=-
+9	-	-	PUNCT	U	PunctType=Dash	10	punct	10:punct	Id=1msj|LTranslit=-|SpaceAfter=No|Translit=-
 10	дуже	дуже	ADV	Rp	Degree=Pos	8	flat:repeat	8:flat:repeat	Id=1msk|LTranslit=duže|Translit=duže
 11	важливо	важливо	ADV	Rp	Degree=Pos	0	root	0:root	Id=1msl|LTranslit=važlyvo|SpaceAfter=No|Translit=važlyvo
 12	!	!	PUNCT	U	_	11	punct	11:punct	Id=1msm|LTranslit=!|Translit=!

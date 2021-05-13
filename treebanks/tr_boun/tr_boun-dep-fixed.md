@@ -26,7 +26,7 @@ The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href
 2	Lütfi'nin	Lütfi	NOUN	Noun	Case=Gen|Number=Sing|Person=3	1	flat	_	_
 3	bugüne	bugün	NOUN	Noun	Case=Dat|Number=Sing|Person=3	10	obl	_	_
 4	kadar	kadar	ADP	PCDat	_	3	case	_	_
-5	bir	bir	DET	ANum	NumType=Card	6	det	_	_
+5	bir	bir	DET	ANum	_	6	det	_	_
 6	tutuklu	tutuklu	NOUN	Noun	Case=Nom|Number=Sing|Person=3	10	obl	_	_
 7	ya	ya	CCONJ	Conj	_	9	compound	_	_
 8	da	da	CCONJ	Conj	_	7	fixed	_	_
@@ -53,7 +53,7 @@ The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	Tabi	tabi	ADV	Noun	Case=Nom|Number=Sing|Person=3	7	advmod	_	_
+1	Tabi	tabi	ADV	Noun	_	7	advmod	_	_
 2	ki	ki	ADP	Rel	_	1	fixed	_	_
 3	benim	ben	PRON	Pers	Case=Gen|Number=Sing|Person=1	4	nmod:poss	_	_
 4	amacım	amaç	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	7	nsubj	_	_
@@ -72,16 +72,16 @@ The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 fixed	color:blue
-1	Ne	ne	ADV	Ques	Case=Nom|Number=Sing|Person=3	10	advmod	_	_
+1	Ne	ne	ADV	Ques	_	10	advmod	_	_
 2	var	var	VERB	Verb	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Polarity=Pos|Tense=Pres	1	fixed	_	_
 3	ki	ki	CCONJ	Conj	_	1	fixed	_	SpaceAfter=No
 4	,	,	PUNCT	Punc	_	10	punct	_	_
 5	ünü	ün	NOUN	Noun	Case=Acc|Number=Sing|Person=3	10	nsubj	_	_
 6	dünyayı	Dünya	NOUN	Noun	Case=Acc|Number=Sing|Person=3	7	obj	_	_
-7	tuttuktan	tut	NOUN	Noun	Aspect=Perf|Case=Abl|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Part	10	advcl	_	_
+7	tuttuktan	tut	NOUN	Noun	_	10	advcl	_	_
 8	sonra	sonra	ADP	PCAbl	_	7	case	_	_
 9	anca	anca	ADV	Adverb	_	10	advmod	_	_
-10	çıkPotmiştir	çık	VERB	Verb	Evident=Nfh|Mood=Pot|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
+10	çıkabilmiştir	çık	VERB	Verb	Evident=Nfh|Mood=Pot|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
 11	yurtdışına	yurtdışı	NOUN	Noun	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	10	obl	_	SpaceAfter=No
 12	.	.	PUNCT	Punc	_	10	punct	_	SpacesAfter=\n
 

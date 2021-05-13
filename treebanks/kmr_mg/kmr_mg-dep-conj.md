@@ -28,12 +28,12 @@ The following 34 pairs of parts of speech are connected with `conj`: <tt><a href
 4	hêla	hêl	NOUN	n	Case=Con|Definite=Def|Gender=Fem|Number=Sing	9	nmod	_	_
 5	serê	ser	NOUN	n	Case=Con|Definite=Def|Gender=Masc|Number=Sing	4	nmod:poss	_	_
 6	texte	text	NOUN	n	Case=Con|Definite=Def|Gender=Masc|Number=Sing	5	nmod:poss	_	_
-7	min	ez	PRON	prn	Case=Obl|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	6	nmod:poss	_	_
+7	min	ez	PRON	prn	Case=Acc|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	6	nmod:poss	_	_
 8	sekinî	sekinî	X	x	_	9	dep	_	_
 9	bû	bûn	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	û	û	CCONJ	cnjcoo	_	13	cc	_	_
 11	li	li	ADP	pr	AdpType=Prep	12	case	_	_
-12	min	ez	PRON	prn	Case=Obl|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	13	nmod	_	_
+12	min	ez	PRON	prn	Case=Acc|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	13	nmod	_	_
 13	dinihêrt	nihêrtin	VERB	vblex	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	conj	_	SpaceAfter=No
 14	.	.	PUNCT	sent	_	13	punct	_	_
 
@@ -48,14 +48,14 @@ The following 34 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 3 5 conj	color:blue
 1	Ewçend	ewçend	ADV	preadv	_	3	advmod	_	_
 2	bi	bi	ADP	pr	AdpType=Prep	3	case	_	_
-3	kerb	kerb	NOUN	n	Case=Obl|Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
+3	kerb	kerb	NOUN	n	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
 4	û	û	CCONJ	cnjcoo	_	5	cc	_	_
 5	xezeb	xezeb	NOUN	n	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	3	conj	_	_
 6	bûn	bûn	AUX	vbcop	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
 7	ko	ku	SCONJ	cnjsub	_	12	mark	_	_
 8	xelkê	xelk	NOUN	n	Case=Con|Definite=Def|Gender=Fem|Number=Sing	12	nsubj	_	_
 9	ji	ji	ADP	pr	AdpType=Prep	10	case	_	_
-10	wan	ew	PRON	prn	Case=Obl|Gender=Fem,Masc|Number=Plur|PronType=Dem	12	nmod	_	_
+10	wan	ew	PRON	prn	Case=Acc|Gender=Fem,Masc|Number=Plur|PronType=Dem	12	nmod	_	_
 11	re	re	ADP	post	AdpType=Post	10	case	_	_
 12	digot	gotin	VERB	vblex	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	advcl	_	_
 13	dînin	anîn	VERB	vblex	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	SpaceAfter=No
@@ -71,7 +71,7 @@ The following 34 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 4	fgColor:white
 # visual-style 4 9 conj	color:blue
 1	Di	di	ADP	pr	AdpType=Prep	2	case	_	_
-2	yekê	yek	NUM	num	Case=Obl|Definite=Def|Number=Sing|NumType=Card	9	orphan	_	_
+2	yekê	yek	NUM	num	Case=Acc|Definite=Def|Number=Sing|NumType=Card	9	orphan	_	_
 3	de	de	ADP	post	AdpType=Post	2	case	_	_
 4	Dr.	Dr.	NOUN	abbr	_	0	root	_	_
 5	di	di	ADP	pr	AdpType=Prep	6	case	_	_

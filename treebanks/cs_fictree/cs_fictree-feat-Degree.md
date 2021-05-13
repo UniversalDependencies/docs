@@ -124,6 +124,6 @@ The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="cs_fictree-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (4; 100%),
 <tt>ADJ --[<tt><a href="cs_fictree-dep-xcomp.html">xcomp</a></tt>]--> ADJ</tt> (4; 67%),
 <tt>ADV --[<tt><a href="cs_fictree-dep-cc.html">cc</a></tt>]--> ADV</tt> (4; 100%),
-<tt>ADJ --[<tt><a href="cs_fictree-dep-obl.html">obl</a></tt>]--> ADJ</tt> (3; 60%),
+<tt>ADJ --[<tt><a href="cs_fictree-dep-obl.html">obl</a></tt>]--> ADJ</tt> (3; 100%),
 <tt>ADV --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> ADV</tt> (3; 60%).
 

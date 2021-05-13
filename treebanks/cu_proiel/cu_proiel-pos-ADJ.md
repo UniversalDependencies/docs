@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>онъ</em> (<tt><a href="cu_proiel-p
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 3.053892 (the average of all parts of speech is 3.275325).
+The form / lemma ratio of `ADJ` is 3.053892 (the average of all parts of speech is 3.276388).
 
 The 1st highest number of forms (42) was observed with the lemma “чловѣчьскъ”: <em>члвѣческъ, чловѣчскꙑ, чловѣчьскаа, чловѣчьсцѣемь, ч҃кскꙑ, ч҃кꙑ, ч҃лвска, ч҃лвскааго, ч҃лвскоумоу, ч҃лвскꙑ, ч҃лвскꙑи, ч҃лвчка, ч҃лвчска, ч҃лвчскааго, ч҃лвчскомь, ч҃лвчскоумоу, ч҃лвчскъ, ч҃лвчскꙑ, ч҃лвчскꙑи, ч҃лвчсцѣ, ч҃лвчъскааго, ч҃лвчъскꙑи, ч҃лвчьскꙑ, ч҃лвѣчскꙑ, ч҃лвѣчъскомъ, ч҃лвѣчьскꙑ, ч҃ловчскааго, ч҃лскааго, ч҃лскоуоумоу, ч҃лскꙑ, ч҃лчкѫ, ч҃лчскаѣ, ч҃лчскꙑ, ч҃лчьскааго, ч҃лчьскꙑ, ч҃л҃вчскꙑ, ч҃л҃вѣчскꙑ, ч҃л҃вѣчсцѣмь, ч҃скъ, ч҃скꙑ, ч҃скꙑи, чⷭ҇кꙑ</em>.
 
@@ -66,12 +66,12 @@ The 2nd highest number of forms (33) was observed with the lemma “мъногъ
 
 The 3rd highest number of forms (27) was observed with the lemma “свои”: <em>свое, своего, своеи, своеи҅, своемоу, своемъ, своемь, своею, своеѩ, своеѩ҅, своеѭ, своеѭ҄, свое҅, свои, своима, своими, своимъ, своимь, своимі, своихъ, своѣ, своѩ, своѩ҅, своѭ, своѭ҄, своѭ҅, своꙇмъ</em>.
 
-`ADJ` occurs with 8 features: <tt><a href="cu_proiel-feat-Case.html">Case</a></tt> (5278; 100% instances), <tt><a href="cu_proiel-feat-Number.html">Number</a></tt> (5278; 100% instances), <tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt> (4903; 93% instances), <tt><a href="cu_proiel-feat-Degree.html">Degree</a></tt> (2578; 49% instances), <tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt> (2490; 47% instances), <tt><a href="cu_proiel-feat-Person.html">Person</a></tt> (1167; 22% instances), <tt><a href="cu_proiel-feat-Poss.html">Poss</a></tt> (1167; 22% instances), <tt><a href="cu_proiel-feat-Reflex.html">Reflex</a></tt> (409; 8% instances)
+`ADJ` occurs with 8 features: <tt><a href="cu_proiel-feat-Case.html">Case</a></tt> (5278; 100% instances), <tt><a href="cu_proiel-feat-Number.html">Number</a></tt> (5278; 100% instances), <tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt> (4903; 93% instances), <tt><a href="cu_proiel-feat-Degree.html">Degree</a></tt> (2578; 49% instances), <tt><a href="cu_proiel-feat-Variant.html">Variant</a></tt> (1680; 32% instances), <tt><a href="cu_proiel-feat-Person.html">Person</a></tt> (1167; 22% instances), <tt><a href="cu_proiel-feat-Poss.html">Poss</a></tt> (1167; 22% instances), <tt><a href="cu_proiel-feat-Reflex.html">Reflex</a></tt> (409; 8% instances)
 
-`ADJ` occurs with 25 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Degree=Cmp`, `Degree=Pos`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Fem,Neut`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `Reflex=Yes`, `Strength=Strong`, `Strength=Weak`
+`ADJ` occurs with 24 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Degree=Cmp`, `Degree=Pos`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Fem,Neut`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `Reflex=Yes`, `Variant=Short`
 
-`ADJ` occurs with 310 feature combinations.
-The most frequent feature combination is `Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong` (414 tokens).
+`ADJ` occurs with 304 feature combinations.
+The most frequent feature combination is `Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short` (414 tokens).
 Examples: <em>вьсѣкъ, б҃жии, достоинъ, мъногъ, июдеискъ, б҃жіи, слѣпъ, живъ, благъ, блаженъ</em>
 
 

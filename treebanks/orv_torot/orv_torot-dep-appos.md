@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of appos in UD_Old_Russian-TOROT'
+title:  'Statistics of appos in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Relations: `appos`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Relations: `appos`
 
 This relation is universal.
 
@@ -46,7 +46,7 @@ The following 51 pairs of parts of speech are connected with `appos`: <tt><a hre
 2	люде	людие	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	ref=6
 3	ꙋ	у	ADP	R-	_	4	case	_	ref=6
 4	него	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	ref=6
-5	много	мъногыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	1	nsubj	_	ref=6
+5	много	мъногыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	nsubj	_	ref=6
 6	хорозанцевъ	хоросаньць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	2	appos	_	ref=6
 
 ~~~
@@ -63,11 +63,11 @@ The following 51 pairs of parts of speech are connected with `appos`: <tt><a hre
 3	есть	быти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=6
 4	асатъ	асатъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=6
 5	хан	ханъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	appos	_	ref=6
-6	чюнерьскыѧ	чунерьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	5	amod	_	ref=6
-7	индѣнскыѧ	индѣискыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	6	appos	_	ref=6
+6	чюнерьскыѧ	чунерьскыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	ref=6
+7	индѣнскыѧ	индѣискыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	appos	_	ref=6
 8	а	а	CCONJ	C-	_	5	cc	_	ref=6
 9	холопъ	холопъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	conj	_	ref=6
-10	мекикътѹчѧровъ	меликътучаровъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	9	amod	_	ref=6
+10	мекикътѹчѧровъ	меликътучаровъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	9	amod	_	ref=6
 
 ~~~
 

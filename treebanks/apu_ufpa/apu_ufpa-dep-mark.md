@@ -8,7 +8,7 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (1%) are attached to their parents as `mark`.
+3 nodes (0%) are attached to their parents as `mark`.
 
 3 instances of `mark` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.
@@ -29,9 +29,9 @@ The following 1 pairs of parts of speech are connected with `mark`: <tt><a href=
 5	itixi	itixi	NOUN	XPOS=terra,chão	_	3	obl:lmod	_	gloss[pt]=terra,chão|SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	_
 7	kutxi	kutxi	SCONJ	XPOS=porque	_	9	mark	_	gloss[pt]=porque
-8	ywãtãa	ywãtãa	NOUN	XPOS=naquele.lugar	_	9	nsubj	_	gloss[pt]=naquele.lugar
+8	ywãtãa	ywãtãa	NOUN	XPOS=naquele.lugar	_	9	obl:lmod	_	gloss[pt]=naquele.lugar
 9	awary	awa	VERB	V	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	3	conj	_	gloss[pt]=existir-3SG.M.O
-10	nhipukury	nhipukury	NOUN	N	Case=Nom|Possessed=No	9	obj	_	gloss[pt]=comida-N.POSSD|SpaceAfter=No
+10	nhipukury	nhipukury	NOUN	N	Case=Nom|Gender=Masc|Possessed=No	9	obj	_	gloss[pt]=comida-N.POSSD|SpaceAfter=No
 11	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~

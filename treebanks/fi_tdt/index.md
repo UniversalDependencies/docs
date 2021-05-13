@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Filip Ginter, Jenna Kanerva, Veronika Laippala, Niko Miekka, Anna Missilä, Stina Ojala, Sampo Pyysalo.
 
 Repository: [UD_Finnish-TDT](https://github.com/UniversalDependencies/UD_Finnish-TDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_tdt27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_tdt28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -277,7 +277,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
   <li>Com
     <ul>
       <li>ADJ: kansanomaisine, liehuvine, ruumiillisine, tuttuine, uusine</li>
-      <li>NOUN: poikineen, postikuluineen, ajatuksineni, allekirjoittajineen, asenteineen, e​d​u​s​k​u​n​t​a​k​ä​s​i​t​t​e​l​y​i​n​e​e​n​k​i​n, herkkuineen, hihoineen, iloineen, jalanjälkineen</li>
+      <li>NOUN: poikineen, postikuluineen, ajatuksineni, allekirjoittajineen, asenteineen, eduskuntakäsittelyineenkin, herkkuineen, hihoineen, iloineen, jalanjälkineen</li>
       <li>PRON: kaikkine, Näine, muineen</li>
       <li>PROPN: bajamajoineen</li>
     </ul>
@@ -983,7 +983,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
       <li>Ton
         <ul>
           <li>ADJ: välttämätöntä, mahdotonta, tavattoman, uskomatonta, vaivatonta, ehdottomaan, erottamaton, laittoman, maksuton, riippumaton</li>
-          <li>NOUN: p​i​t​k​ä​a​i​k​a​i​s​t​y​ö​t​t​ö​m​i​e​n, syyttömiä, tuntemattomille, työttömien, työttömät</li>
+          <li>NOUN: pitkäaikaistyöttömien, syyttömiä, tuntemattomille, työttömien, työttömät</li>
           <li>VERB-Part: asettelematonta, palamaton</li>
         </ul>
       </li>
@@ -1173,7 +1173,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
           <li>AUX-Part: olevaan, olut</li>
           <li>CCONJ: jokö, van</li>
           <li>INTJ: joo.</li>
-          <li>NOUN: n, version, 1dl, MUUTTOLIIKEIDEN, lypsy-ja, -näppäimesta, -sossupummit, 1​1​.​k​r​e​n​a​t​ö​ö​r​i​r​y​k​m​e​n​t​i​n, 1kpl, 2.5mm</li>
+          <li>NOUN: n, version, 1dl, MUUTTOLIIKEIDEN, lypsy-ja, -näppäimesta, -sossupummit, 11.krenatöörirykmentin, 1kpl, 2.5mm</li>
           <li>NUM: kahden, miljoona</li>
           <li>PRON: minun, sen, Hedän, Kumpikin, Saman, Tosilla, Tämä, erääseen, johon, jonka</li>
           <li>PROPN: Pekkka, Begia, Carnegiein, EMN, Guinnesiin, Guinnesin, Hohenstaufen, Isoa-Britanniaan, Japani, Jonna</li>

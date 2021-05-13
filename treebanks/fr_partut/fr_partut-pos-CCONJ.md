@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-ParTUT: POS Tags: `CCONJ`
 
 There are 7 `CCONJ` lemmas (0%), 9 `CCONJ` types (0%) and 854 `CCONJ` tokens (3%).
-Out of 17 observed tags, the rank of `CCONJ` is: 14 in number of lemmas, 14 in number of types and 10 in number of tokens.
+Out of 17 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 14 in number of types and 9 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>et, ou, mais, car, que, soit, ni</em>
 
@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  <em>soit</em> (<tt><a href="fr_partut-pos
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.285714 (the average of all parts of speech is 1.366035).
+The form / lemma ratio of `CCONJ` is 1.285714 (the average of all parts of speech is 1.409310).
 
 The 1st highest number of forms (2) was observed with the lemma “mais”: <em>Ma, mais</em>.
 
@@ -55,7 +55,7 @@ The 3rd highest number of forms (1) was observed with the lemma “car”: <em>c
 
 `CCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="fr_partut-dep-cc.html">cc</a></tt> (853; 100% instances), <tt><a href="fr_partut-dep-conj.html">conj</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (421; 49% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (271; 32% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (105; 12% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (21; 2% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (19; 2% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (421; 49% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (273; 32% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (104; 12% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (21; 2% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (19; 2% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="fr_partut-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (1; 0% instances)
 
 851 (100%) `CCONJ` nodes are leaves.
 

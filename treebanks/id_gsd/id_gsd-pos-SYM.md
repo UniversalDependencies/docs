@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>m</em> (<tt><a href="id_gsd-pos-NOUN.
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.045328).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.057889).
 
 The 1st highest number of forms (1) was observed with the lemma “#”: <em>#</em>.
 
@@ -48,17 +48,17 @@ Examples: <em>/, %, =, *, km, &amp;, °, #, +, $</em>
 
 Parents of `SYM` nodes belong to 10 different parts of speech: <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (158; 38% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (139; 33% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (62; 15% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (40; 10% instances), <tt><a href="id_gsd-pos-SYM.html">SYM</a></tt> (10; 2% instances), <tt><a href="id_gsd-pos-X.html">X</a></tt> (4; 1% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances),  (1; 0% instances)
 
-279 (67%) `SYM` nodes are leaves.
+273 (65%) `SYM` nodes are leaves.
 
-65 (16%) `SYM` nodes have one child.
+67 (16%) `SYM` nodes have one child.
 
-28 (7%) `SYM` nodes have two children.
+34 (8%) `SYM` nodes have two children.
 
-46 (11%) `SYM` nodes have three or more children.
+44 (11%) `SYM` nodes have three or more children.
 
-The highest child degree of a `SYM` node is 8.
+The highest child degree of a `SYM` node is 6.
 
-Children of `SYM` nodes are attached using 11 different relations: <tt><a href="id_gsd-dep-nummod.html">nummod</a></tt> (138; 48% instances), <tt><a href="id_gsd-dep-punct.html">punct</a></tt> (59; 21% instances), <tt><a href="id_gsd-dep-nmod.html">nmod</a></tt> (29; 10% instances), <tt><a href="id_gsd-dep-case.html">case</a></tt> (16; 6% instances), <tt><a href="id_gsd-dep-compound.html">compound</a></tt> (16; 6% instances), <tt><a href="id_gsd-dep-flat.html">flat</a></tt> (8; 3% instances), <tt><a href="id_gsd-dep-appos.html">appos</a></tt> (6; 2% instances), <tt><a href="id_gsd-dep-advmod.html">advmod</a></tt> (5; 2% instances), <tt><a href="id_gsd-dep-cc.html">cc</a></tt> (4; 1% instances), <tt><a href="id_gsd-dep-conj.html">conj</a></tt> (4; 1% instances), <tt><a href="id_gsd-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
+Children of `SYM` nodes are attached using 11 different relations: <tt><a href="id_gsd-dep-nummod.html">nummod</a></tt> (138; 48% instances), <tt><a href="id_gsd-dep-punct.html">punct</a></tt> (62; 21% instances), <tt><a href="id_gsd-dep-nmod.html">nmod</a></tt> (29; 10% instances), <tt><a href="id_gsd-dep-case.html">case</a></tt> (16; 6% instances), <tt><a href="id_gsd-dep-compound.html">compound</a></tt> (16; 6% instances), <tt><a href="id_gsd-dep-flat.html">flat</a></tt> (8; 3% instances), <tt><a href="id_gsd-dep-appos.html">appos</a></tt> (6; 2% instances), <tt><a href="id_gsd-dep-advmod.html">advmod</a></tt> (5; 2% instances), <tt><a href="id_gsd-dep-cc.html">cc</a></tt> (4; 1% instances), <tt><a href="id_gsd-dep-conj.html">conj</a></tt> (4; 1% instances), <tt><a href="id_gsd-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
-Children of `SYM` nodes belong to 10 different parts of speech: <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (143; 50% instances), <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> (57; 20% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (30; 10% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (19; 7% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (16; 6% instances), <tt><a href="id_gsd-pos-SYM.html">SYM</a></tt> (10; 3% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Children of `SYM` nodes belong to 10 different parts of speech: <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (143; 49% instances), <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> (60; 21% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (30; 10% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (19; 7% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (16; 6% instances), <tt><a href="id_gsd-pos-SYM.html">SYM</a></tt> (10; 3% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 

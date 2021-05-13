@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_French-SRCMF: Features: `PronType`
 
-This feature is universal but the values `Ord` are language-specific.
-It occurs with 7 different values: `Art`, `Dem`, `Ind`, `Int`, `Ord`, `Prs`, `Rel`.
+This feature is universal.
+It occurs with 6 different values: `Art`, `Dem`, `Ind`, `Int`, `Prs`, `Rel`.
 Some words have combined values of the feature; 1 combinations have been observed: `Prs|Rel`.
 
-42680 tokens (25%) have a non-empty value of `PronType`.
-681 types (4%) occur at least once with a non-empty value of `PronType`.
+42655 tokens (25%) have a non-empty value of `PronType`.
+667 types (4%) occur at least once with a non-empty value of `PronType`.
 1 lemmas (0) occur at least once with a non-empty value of `PronType`.
-The feature is used with 8 part-of-speech tags: <tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (24316; 14% instances), <tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> (12630; 7% instances), <tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (3058; 2% instances), <tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> (2182; 1% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt> (303; 0% instances), <tt><a href="fro_srcmf-pos-SCONJ.html">SCONJ</a></tt> (180; 0% instances), <tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="fro_srcmf-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (24316; 14% instances), <tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> (12630; 7% instances), <tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (3062; 2% instances), <tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> (2182; 1% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt> (274; 0% instances), <tt><a href="fro_srcmf-pos-SCONJ.html">SCONJ</a></tt> (180; 0% instances), <tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="fro_srcmf-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 ### `PRON`
 
@@ -46,17 +46,18 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `ADV`
 
-3058 <tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> tokens (15% of all `ADV` tokens) have a non-empty value of `PronType`.
+3062 <tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> tokens (15% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="fro_srcmf-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3051; 100%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="fro_srcmf-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3055; 100%).
 
 `ADV` tokens may have the following values of `PronType`:
 
 * `Dem` (3047; 100% of non-empty `PronType`): <em>en, i, an, í, em, u, o, ent, n, ·n</em>
 * `Ind` (3; 0% of non-empty `PronType`): <em>Tot, tout</em>
+* `Int` (4; 0% of non-empty `PronType`): <em>enne, en, ene</em>
 * `Prs` (7; 0% of non-empty `PronType`): <em>nen, nel</em>
 * `Prs,Rel` (1; 0% of non-empty `PronType`): <em>Don</em>
-* `EMPTY` (17167): <em>si, ne, n', tant, bien, plus, ja, mout, or, mie</em>
+* `EMPTY` (17163): <em>si, ne, n', tant, bien, plus, ja, mout, or, mie</em>
 
 ### `ADP`
 
@@ -73,13 +74,12 @@ The most frequent other feature values with which `ADP` and `PronType` co-occurr
 
 ### `ADJ`
 
-303 <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt> tokens (5% of all `ADJ` tokens) have a non-empty value of `PronType`.
+274 <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `PronType`.
 
 `ADJ` tokens may have the following values of `PronType`:
 
-* `Ind` (274; 90% of non-empty `PronType`): <em>autre, meïsmes, tel, altre, nule, meïsme, autres, tex, altres, tiex</em>
-* `Ord` (29; 10% of non-empty `PronType`): <em>premier, tierce, cinquieme, premiere, premiers, tierz, disme, premeraine, premierz, prime</em>
-* `EMPTY` (6152): <em>grant, granz, bele, saint, bel, biax, bone, haut, bon, riche</em>
+* `Ind` (274; 100% of non-empty `PronType`): <em>autre, meïsmes, tel, altre, nule, meïsme, autres, tex, altres, tiex</em>
+* `EMPTY` (6181): <em>grant, granz, bele, saint, bel, biax, bone, haut, bon, riche</em>
 
 ### `SCONJ`
 

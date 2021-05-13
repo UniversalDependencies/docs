@@ -35,7 +35,7 @@ The following 12 pairs of parts of speech are connected with `cc:preconj`: <tt><
 11	nu	nu	PART	Qz	Polarity=Neg	12	advmod	_	_
 12	scria	scrie	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	conj	_	SpaceAfter=No
 13	,	,	PUNCT	COMMA	_	3	punct	_	_
-14	era	fi	AUX	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	cop	_	_
+14	era	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	cop	_	_
 15	totuna	totuna	ADV	Rgp	Degree=Pos	0	root	_	SpaceAfter=No
 16	.	.	PUNCT	PERIOD	_	15	punct	_	_
 
@@ -49,11 +49,11 @@ The following 12 pairs of parts of speech are connected with `cc:preconj`: <tt><
 # visual-style 4	fgColor:white
 # visual-style 4 3 cc:preconj	color:blue
 1	Solomonescu	Solomonescu	PROPN	Np	_	4	nsubj	_	_
-2	era	fi	AUX	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+2	era	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
 3	și	și	CCONJ	Crssp	Polarity=Pos	4	cc:preconj	_	_
 4	cântăreț	cântăreț	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 5	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	_
-6	biserică	biserică	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	nmod	_	ToDo=nmod
+6	biserică	biserică	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	4	nmod	_	_
 7	și	și	CCONJ	Crssp	Polarity=Pos	8	cc	_	_
 8	artist	artist	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	4	conj	_	_
 9	dramatic	dramatic	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No

@@ -29,7 +29,7 @@ The most frequent other feature values with which `PRON` and `Polite` co-occurre
 
 34 <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `VERB` and `Polite` co-occurred: <tt><a href="ug_udt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (34; 100%), <tt><a href="ug_udt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (34; 100%), <tt><a href="ug_udt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (34; 100%), <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (34; 100%), <tt><a href="ug_udt-feat-Person.html">Person</a></tt><tt>=2</tt> (34; 100%), <tt><a href="ug_udt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (34; 100%), <tt><a href="ug_udt-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (20; 59%).
+The most frequent other feature values with which `VERB` and `Polite` co-occurred: <tt><a href="ug_udt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (34; 100%), <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (34; 100%), <tt><a href="ug_udt-feat-Person.html">Person</a></tt><tt>=2</tt> (34; 100%), <tt><a href="ug_udt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (34; 100%), <tt><a href="ug_udt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (33; 97%), <tt><a href="ug_udt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (20; 59%), <tt><a href="ug_udt-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (20; 59%).
 
 `VERB` tokens may have the following values of `Polite`:
 

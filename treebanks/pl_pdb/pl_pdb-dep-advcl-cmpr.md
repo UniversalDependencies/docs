@@ -30,7 +30,7 @@ The following 10 pairs of parts of speech are connected with `advcl:cmpr`: <tt><
 5	nie	nie	PART	part	Polarity=Neg	7	advmod:neg	7:advmod:neg	_
 6	tak	tak	ADV	adv:pos	Degree=Pos|PronType=Dem	7	advmod	7:advmod	_
 7	dużo	dużo	ADV	adv:pos	Degree=Pos	1	conj	0:root|1:conj	_
-8	jak	jak	SCONJ	comp	ConjType=Cmpr	10	mark	10:mark	_
+8	jak	jak	SCONJ	comp	ConjType=Comp	10	mark	10:mark	_
 9	się	się	PRON	part	PronType=Prs|Reflex=Yes	10	expl:pv	10:expl:pv	_
 10	spodziewasz	spodziewać	VERB	fin:sg:sec:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl:cmpr	6:advcl:cmpr	SpaceAfter=No
 11	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	_
@@ -49,7 +49,7 @@ The following 10 pairs of parts of speech are connected with `advcl:cmpr`: <tt><
 3	wilgotną	wilgotny	ADJ	adj:sg:inst:f:pos	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	4	amod	4:amod	_
 4	dłonią	dłoń	NOUN	subst:sg:inst:f	Case=Ins|Gender=Fem|Number=Sing	1	iobj	1:iobj	SpaceAfter=No
 5	,	,	PUNCT	interp	PunctType=Comm	7	punct	7:punct	_
-6	jakby	jakby	SCONJ	comp	ConjType=Cmpr	7	mark	7:mark	_
+6	jakby	jakby	SCONJ	comp	ConjType=Comp	7	mark	7:mark	_
 7	gasiła	gasić	VERB	praet:sg:f:imperf	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl:cmpr	1:advcl:cmpr	_
 8	świecę	świeca	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	7	obj	7:obj	SpaceAfter=No
 9	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	_
@@ -71,7 +71,7 @@ The following 10 pairs of parts of speech are connected with `advcl:cmpr`: <tt><
 6	potrafię	potrafić	VERB	fin:sg:pri:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	0:root|3:conj	_
 7	więcej	więcej	DET	num:pl:acc:f:rec	Case=Acc|Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	6	iobj	6:iobj	SpaceAfter=No
 8	,	,	PUNCT	interp	PunctType=Comm	10	punct	10:punct	_
-9	niż	niż	SCONJ	comp	ConjType=Cmpr	10	mark	10:mark	_
+9	niż	niż	SCONJ	comp	ConjType=Comp	10	mark	10:mark	_
 10	mogło	móc	VERB	praet:sg:n:imperf	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl:cmpr	7:advcl:cmpr	_
 11	by	by	AUX	part	_	10	aux:cnd	10:aux:cnd	_
 12	się	się	PRON	part	PronType=Prs|Reflex=Yes	13	expl:pv	13:expl:pv	_

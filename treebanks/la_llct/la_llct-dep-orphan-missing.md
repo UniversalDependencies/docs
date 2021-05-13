@@ -30,7 +30,7 @@ The following 4 pairs of parts of speech are connected with `orphan:missing`: <t
 6	presbitero	presbyter	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	5	appos	_	_
 7	una	una	ADV	d|d|-|-|-|-|-|-|-|-	_	10	case	_	_
 8	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	7	fixed	_	_
-9	meis	meus	DET	a|a|1|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+9	meis	meus	DET	a|a|1|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	10	det	_	_
 10	heredes	heres	NOUN	n|n|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur	20	orphan:missing	_	_
 11	tibi	tu	PRON	p|p|2|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	20	orphan:missing	_	_
 12	qui	qui	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	14	det	_	_
@@ -112,7 +112,7 @@ The following 4 pairs of parts of speech are connected with `orphan:missing`: <t
 6	presbitero	presbyter	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	5	appos	_	_
 7	una	una	ADV	d|d|-|-|-|-|-|-|-|-	_	10	case	_	_
 8	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	7	fixed	_	_
-9	meis	meus	DET	a|a|1|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+9	meis	meus	DET	a|a|1|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	10	det	_	_
 10	heredes	heres	NOUN	n|n|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur	20	orphan:missing	_	_
 11	tibi	tu	PRON	p|p|2|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	20	orphan:missing	_	_
 12	qui	qui	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	14	det	_	_
@@ -194,7 +194,7 @@ The following 4 pairs of parts of speech are connected with `orphan:missing`: <t
 6	presbitero	presbyter	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	5	appos	_	_
 7	una	una	ADV	d|d|-|-|-|-|-|-|-|-	_	10	case	_	_
 8	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	7	fixed	_	_
-9	meis	meus	DET	a|a|1|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+9	meis	meus	DET	a|a|1|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	10	det	_	_
 10	heredes	heres	NOUN	n|n|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur	20	orphan:missing	_	_
 11	tibi	tu	PRON	p|p|2|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	20	orphan:missing	_	_
 12	qui	qui	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	14	det	_	_

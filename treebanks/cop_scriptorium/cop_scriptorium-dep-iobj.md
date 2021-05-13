@@ -45,7 +45,7 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 1 5 iobj	color:blue
 1	ⲙⲛ	ⲙⲛ	VERB	EXIST	Polarity=Neg	0	root	_	_
 2	ϭⲟⲙ	ϭⲟⲙ	NOUN	N	_	1	nsubj	_	Entity=(abstract)
-3	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	_	1	advmod	_	_
+3	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	Foreign=Yes	1	advmod	_	OrigLang=grc
 4	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	5	det	_	Entity=(person
 5	ⲗⲁⲁⲩ	ⲗⲁⲁⲩ	NOUN	N	_	1	iobj	_	Entity=person)
 6	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	7	mark	_	_
@@ -53,7 +53,7 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 8	ⲕⲉ	ⲕⲉ	DET	ART	PronType=Art	9	det	_	Entity=(object
 9	ⲥⲛⲧⲉ	ⲥⲛⲧⲉ	NOUN	N	_	7	obj	_	Entity=object)
 10	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	7	advmod	_	_
-11	ⲡⲁⲣⲁ	ⲡⲁⲣⲁ	ADP	PREP	_	12	case	_	_
+11	ⲡⲁⲣⲁ	ⲡⲁⲣⲁ	ADP	PREP	Foreign=Yes	12	case	_	OrigLang=grc
 12	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	obl	_	Entity=(object
 13	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	14	mark	_	_
 14	ⲕⲏ	ⲕⲱ	VERB	VSTAT	VerbForm=Fin	12	acl	_	_
@@ -61,9 +61,9 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 16	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	17	mark	_	_
 17	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	12	acl	_	_
 18	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	17	cop	_	_
-19	ⲓⲏⲥⲟⲩⲥ	ⲓⲏⲥⲟⲩⲥ	PROPN	NPROP	_	17	nsubj	_	Entity=(person-Jesus
+19	ⲓⲏⲥⲟⲩⲥ	ⲓⲏⲥⲟⲩⲥ	PROPN	NPROP	Foreign=Yes	17	nsubj	_	Entity=(person-Jesus|OrigLang=he
 20	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
-21	ⲭⲣⲓⲥⲧⲟⲥ	ⲭⲣⲓⲥⲧⲟⲥ	NOUN	N	_	19	appos	_	Entity=person-Jesus)object)
+21	ⲭⲣⲓⲥⲧⲟⲥ	ⲭⲣⲓⲥⲧⲟⲥ	NOUN	N	Foreign=Yes	19	appos	_	Entity=person-Jesus)object)|OrigLang=grc
 22	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~

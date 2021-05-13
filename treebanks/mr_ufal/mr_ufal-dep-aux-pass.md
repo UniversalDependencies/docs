@@ -43,7 +43,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 6	fgColor:white
 # visual-style 6 7 aux:pass	color:blue
 1	तेथे	तेथे	ADV	_	_	6	advmod	_	_
-2	_	राजा	NOUN	_	Case=Obl|Gender=Masc|Number=Sing	6	obl	_	_
+2	_	राजा	NOUN	_	Case=Abs|Gender=Masc|Number=Sing	6	obl	_	_
 3	_	साठी	ADP	_	_	2	case	_	_
 4	सिंहासन	सिंहासन	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj:pass	_	_
 5	तयार	तयार	ADV	_	_	6	compound:lvc	_	_

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Francis Tyers, Karina Mischenkova.
 
 Repository: [UD_Chukchi-HSE](https://github.com/UniversalDependencies/UD_Chukchi-HSE)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udckt_hse27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udckt_hse28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -62,7 +62,19 @@ the [Chuklang](http://chuklang.ru/) project. They have their own
 
 ## References
 
-* (citation)
+If you use this in your work, please cite:
+
+* Tyers, F. M. and Mishchenkova, K. (2020) "Dependency annotation of noun incorporation in polysynthetic languages". *Proceedings of the Fourth Workshop on Universal Dependencies (UDW 2020)*. pp. 195—204
+
+```
+@inproceedings{tyers:20,
+author = {Francis M. Tyers and Karina Mishchenkova},
+title = {Dependency annotation of noun incorporation in polysynthetic languages},
+booktitle = {Proceedings of the Fourth Workshop on Universal Dependencies (UDW 2020)},
+pages = {195--204},
+year = 2020
+}
+```
 
 
 # Statistics of UD Chukchi HSE
@@ -77,7 +89,7 @@ the [Chuklang](http://chuklang.ru/) project. They have their own
 
 ## Relations
 
-[acl](ckt_hse-dep-acl.html) – [acl:attr](ckt_hse-dep-acl-attr.html) – [acl:relat](ckt_hse-dep-acl-relat.html) – [advcl](ckt_hse-dep-advcl.html) – [advmod](ckt_hse-dep-advmod.html) – [advmod:emph](ckt_hse-dep-advmod-emph.html) – [amod](ckt_hse-dep-amod.html) – [appos](ckt_hse-dep-appos.html) – [aux](ckt_hse-dep-aux.html) – [aux:neg](ckt_hse-dep-aux-neg.html) – [case](ckt_hse-dep-case.html) – [cc](ckt_hse-dep-cc.html) – [ccomp](ckt_hse-dep-ccomp.html) – [conj](ckt_hse-dep-conj.html) – [cop](ckt_hse-dep-cop.html) – [dep](ckt_hse-dep-dep.html) – [det](ckt_hse-dep-det.html) – [discourse](ckt_hse-dep-discourse.html) – [dislocated](ckt_hse-dep-dislocated.html) – [flat](ckt_hse-dep-flat.html) – [flat:foreign](ckt_hse-dep-flat-foreign.html) – [flat:name](ckt_hse-dep-flat-name.html) – [mark](ckt_hse-dep-mark.html) – [nmod](ckt_hse-dep-nmod.html) – [nmod:attr](ckt_hse-dep-nmod-attr.html) – [nmod:poss](ckt_hse-dep-nmod-poss.html) – [nmod:relat](ckt_hse-dep-nmod-relat.html) – [nsubj](ckt_hse-dep-nsubj.html) – [nummod](ckt_hse-dep-nummod.html) – [obj](ckt_hse-dep-obj.html) – [obl](ckt_hse-dep-obl.html) – [orphan](ckt_hse-dep-orphan.html) – [parataxis](ckt_hse-dep-parataxis.html) – [parataxis:speech](ckt_hse-dep-parataxis-speech.html) – [punct](ckt_hse-dep-punct.html) – [reparandum](ckt_hse-dep-reparandum.html) – [root](ckt_hse-dep-root.html) – [vocative](ckt_hse-dep-vocative.html) – [xcomp](ckt_hse-dep-xcomp.html)
+[acl](ckt_hse-dep-acl.html) – [acl:attr](ckt_hse-dep-acl-attr.html) – [acl:relat](ckt_hse-dep-acl-relat.html) – [advcl](ckt_hse-dep-advcl.html) – [advmod](ckt_hse-dep-advmod.html) – [advmod:emph](ckt_hse-dep-advmod-emph.html) – [amod](ckt_hse-dep-amod.html) – [appos](ckt_hse-dep-appos.html) – [aux](ckt_hse-dep-aux.html) – [aux:neg](ckt_hse-dep-aux-neg.html) – [case](ckt_hse-dep-case.html) – [cc](ckt_hse-dep-cc.html) – [ccomp](ckt_hse-dep-ccomp.html) – [conj](ckt_hse-dep-conj.html) – [cop](ckt_hse-dep-cop.html) – [dep](ckt_hse-dep-dep.html) – [det](ckt_hse-dep-det.html) – [discourse](ckt_hse-dep-discourse.html) – [dislocated](ckt_hse-dep-dislocated.html) – [flat](ckt_hse-dep-flat.html) – [flat:foreign](ckt_hse-dep-flat-foreign.html) – [flat:name](ckt_hse-dep-flat-name.html) – [mark](ckt_hse-dep-mark.html) – [nmod](ckt_hse-dep-nmod.html) – [nmod:attr](ckt_hse-dep-nmod-attr.html) – [nmod:poss](ckt_hse-dep-nmod-poss.html) – [nmod:relat](ckt_hse-dep-nmod-relat.html) – [nsubj](ckt_hse-dep-nsubj.html) – [nummod](ckt_hse-dep-nummod.html) – [obj](ckt_hse-dep-obj.html) – [obl](ckt_hse-dep-obl.html) – [orphan](ckt_hse-dep-orphan.html) – [parataxis](ckt_hse-dep-parataxis.html) – [parataxis:rep](ckt_hse-dep-parataxis-rep.html) – [punct](ckt_hse-dep-punct.html) – [reparandum](ckt_hse-dep-reparandum.html) – [root](ckt_hse-dep-root.html) – [vocative](ckt_hse-dep-vocative.html) – [xcomp](ckt_hse-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -100,7 +112,7 @@ the [Chuklang](http://chuklang.ru/) project. They have their own
 
 <ul>
 <li>This corpus contains 653 multi-word tokens. On average, one multi-word token consists of 2.13 syntactic words.</li>
-<li>There are 493 types of multi-word tokens. Examples: ынӄэнэ, ӄэԓюӄъым, ӄоԓьым, ынкъамэ, гымнинэ, ԓюутэ, читъым, ынӄэна, ынӄэнъымэ, этъым, Ынӄорыӈа, иквъиӈа, иквъэтэ, нивӄинэ, нэмыӄэе, ынӄоръым, ынӄэнъым, эвына, энмэна, янотъым, Ӄорыӈэ, ӄэԓёӄъым, Апэтыпԓыткокэ, Гымнанъым, Игытъым, Къама, Нанъяачьым, Наӄамэ, Опопыӈа, Ынӄорыӈ, аʼачекъым, вае, гымыкытԓьэн, итыкэ, микынтим, миӈкыриыʼм, мурыгрээн, мытыпкирмыкъым, мытԓемыкъым, ниԓьуткуԓьэтӄинъым, нэмыӄэйъым, нэмэӈэ, пыкиргъиӈэ, т​ы​н​о​т​а​п​ы​н​м​ы​н​т​а​г​ъ​а​к​ъ​ы​м, ыныгрээн, ынӄорыӈэ, ынӄэнатаӈэ, ынӈинэ, ытръэчьым, ытԓыгынэ.</li>
+<li>There are 493 types of multi-word tokens. Examples: ынӄэнэ, ӄэԓюӄъым, ӄоԓьым, ынкъамэ, гымнинэ, ԓюутэ, читъым, ынӄэна, ынӄэнъымэ, этъым, Ынӄорыӈа, иквъиӈа, иквъэтэ, нивӄинэ, нэмыӄэе, ынӄоръым, ынӄэнъым, эвына, энмэна, янотъым, Ӄорыӈэ, ӄэԓёӄъым, Апэтыпԓыткокэ, Гымнанъым, Игытъым, Къама, Нанъяачьым, Наӄамэ, Опопыӈа, Ынӄорыӈ, аʼачекъым, вае, гымыкытԓьэн, итыкэ, микынтим, миӈкыриыʼм, мурыгрээн, мытыпкирмыкъым, мытԓемыкъым, ниԓьуткуԓьэтӄинъым, нэмыӄэйъым, нэмэӈэ, пыкиргъиӈэ, тынотапынмынтагъакъым, ыныгрээн, ынӄорыӈэ, ынӄэнатаӈэ, ынӈинэ, ытръэчьым, ытԓыгынэ.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -223,6 +235,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 10 relation subtypes: <a>acl:attr</a>, <a>acl:relat</a>, <a>advmod:emph</a>, <a>aux:neg</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:attr</a>, <a>nmod:poss</a>, <a>nmod:relat</a>, <a>parataxis:speech</a></li>
+<li>This corpus uses 10 relation subtypes: <a>acl:attr</a>, <a>acl:relat</a>, <a>advmod:emph</a>, <a>aux:neg</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:attr</a>, <a>nmod:poss</a>, <a>nmod:relat</a>, <a>parataxis:rep</a></li>
 <li>The following 8 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>expl</a>, <a>clf</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a></li>
 </ul>

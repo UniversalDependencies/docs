@@ -9,125 +9,113 @@ udver: '2'
 This feature is universal.
 It occurs with 8 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Par`, `Voc`.
 
-26820 tokens (42%) have a non-empty value of `Case`.
-13713 types (70%) occur at least once with a non-empty value of `Case`.
-7986 lemmas (66%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (14502; 23% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (4093; 6% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (3781; 6% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (2084; 3% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (1494; 2% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (504; 1% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (360; 1% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+79222 tokens (40%) have a non-empty value of `Case`.
+27447 types (72%) occur at least once with a non-empty value of `Case`.
+13489 lemmas (67%) occur at least once with a non-empty value of `Case`.
+The feature is used with 8 part-of-speech tags: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (43540; 22% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (13541; 7% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (11171; 6% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (5325; 3% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> (3779; 2% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (1014; 1% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (850; 0% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-14502 <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Case`.
+43540 <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (12123; 84%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10438; 72%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (37152; 85%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (31826; 73%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Acc` (2900; 20% of non-empty `Case`): <em>день, время, раз, жизнь, голову, руки, лицо, год, место, ночь</em>
-* `Dat` (644; 4% of non-empty `Case`): <em>словам, детям, следам, людям, мнению, сожалению, мере, времени, дороге, ночам</em>
-* `Gen` (3706; 26% of non-empty `Case`): <em>лет, года, раз, дня, воды, детей, людей, партии, человека, минут</em>
-* `Ins` (1252; 9% of non-empty `Case`): <em>зимой, помощью, праздником, днем, вечером, водой, утром, головой, ночью, глазами</em>
-* `Loc` (1430; 10% of non-empty `Case`): <em>жизни, году, стране, числе, мире, выборах, земле, голове, городе, комнате</em>
-* `Nom` (4555; 31% of non-empty `Case`): <em>люди, человек, мир, спасибо, день, время, друзья, баба, бог, дело</em>
-* `Par` (12; 0% of non-empty `Case`): <em>разу, толку, Воску, азу, чаю</em>
-* `Voc` (3; 0% of non-empty `Case`): <em>Боже, золотце, ребят</em>
-* `EMPTY` (140): <em>RT, с., л., ил., Пер., г, э., гр., гг., МЖ</em>
+* `Acc` (8423; 19% of non-empty `Case`): <em>время, день, раз, деньги, год, пару, работу, жизнь, вкус, месяц</em>
+* `Dat` (1926; 4% of non-empty `Case`): <em>детям, сожалению, людям, поводу, телефону, городу, мере, словам, времени, мнению</em>
+* `Gen` (10308; 24% of non-empty `Case`): <em>лет, года, раз, дня, воды, города, товаров, людей, времени, детей</em>
+* `Ins` (3235; 7% of non-empty `Case`): <em>вечером, зимой, летом, ночью, утром, помощью, водой, домом, днем, друзьями</em>
+* `Loc` (4067; 9% of non-empty `Case`): <em>месте, уровне, году, городе, жизни, случае, целом, итоге, магазинах, центре</em>
+* `Nom` (15522; 36% of non-empty `Case`): <em>магазин, цены, место, выбор, персонал, ассортимент, спасибо, люди, обслуживание, сотрудники</em>
+* `Par` (46; 0% of non-empty `Case`): <em>разу, народу, виду, толку, сраму, чаю, Воску, азу, кофейку, краю</em>
+* `Voc` (13; 0% of non-empty `Case`): <em>боже, ребят, господи</em>
+* `EMPTY` (699): <em>тц, г., см, мл, кг, с., р, р., км, л.</em>
 
 <table>
-  <tr><th>Paradigm <i>год</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>год</em></td><td><em>год</em></td><td><em>году</em></td><td><em>года, г.</em></td><td><em>году</em></td><td><em>годом</em></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>годы</em></td><td><em>годы, года</em></td><td><em>годам</em></td><td><em>лет</em></td><td><em>годах</em></td><td><em>годами</em></td></tr>
+  <tr><th>Paradigm <i>вид</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Par</tt></th></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>вид, Видъ</em></td><td><em>вид</em></td><td><em>виду</em></td><td><em>вида</em></td><td><em>виде, виду</em></td><td><em>видом</em></td><td><em>виду</em></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>виды</em></td><td><em>виды</em></td><td></td><td><em>видов</em></td><td></td><td><em>видами</em></td><td></td></tr>
 </table>
 
 ### `ADJ`
 
-4093 <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> tokens (84% of all `ADJ` tokens) have a non-empty value of `Case`.
+13541 <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> tokens (80% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="ru_taiga-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (4086; 100%), <tt><a href="ru_taiga-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (4076; 100%), <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (3589; 88%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2938; 72%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="ru_taiga-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (13530; 100%), <tt><a href="ru_taiga-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (13261; 98%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10081; 74%).
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Acc` (717; 18% of non-empty `Case`): <em>святую, первый, большую, последние, другую, новую, другой, новый, самые, второй</em>
-* `Dat` (121; 3% of non-empty `Case`): <em>крайней, другому, местному, больной, другой, очередной, первым, самой, 2м, Великой</em>
-* `Gen` (948; 23% of non-empty `Case`): <em>других, восточной, разных, первого, новой, самого, Единой, гражданской, национальной, правоохранительных</em>
-* `Ins` (438; 11% of non-empty `Case`): <em>самым, тяжелым, главным, другой, основными, первым, Божьим, большим, большой, важным</em>
-* `Loc` (340; 8% of non-empty `Case`): <em>общем, самом, дохлой, основном, конечном, новом, прошлом, прямом, чужом, большой</em>
-* `Nom` (1529; 37% of non-empty `Case`): <em>сам, сама, большой, самое, самый, Главная, вторая, первые, большая, другие</em>
-* `EMPTY` (797): <em>нужно, должна, нужны, хорошо, должно, лучше, 1, должен, нужна, ст.</em>
+* `Acc` (1951; 14% of non-empty `Case`): <em>первый, последний, данный, последние, следующий, новую, новый, последнее, второй, большую</em>
+* `Dat` (304; 2% of non-empty `Case`): <em>крайней, данному, местному, новой, первому, полной, старшему, разным, разумной, советским</em>
+* `Gen` (2238; 17% of non-empty `Case`): <em>разных, хорошего, первого, лучших, плохого, доброго, лучшего, особенного, различных, советского</em>
+* `Ins` (989; 7% of non-empty `Case`): <em>большим, первым, хорошим, большой, главным, новым, огромным, тяжелым, хорошими, доступными</em>
+* `Loc` (954; 7% of non-empty `Case`): <em>общем, высшем, высоком, основном, втором, новом, первом, хорошем, данном, первых</em>
+* `Nom` (7105; 52% of non-empty `Case`): <em>хороший, большой, отличный, хорошая, неплохой, вежливый, обычный, хорошее, добрый, вежливые</em>
+* `EMPTY` (3336): <em>нужно, лучше, хорошо, дорого, вкусно, удобно, чисто, интересно, нужен, должен</em>
 
 <table>
-  <tr><th>Paradigm <i>другой</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>другого</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>других</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>другой</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>другое</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>другие</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>другой</em></td><td></td><td><em>другому</em></td><td><em>другого</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>другая</em></td><td><em>другую</em></td><td><em>другой</em></td><td><em>другой</em></td><td></td><td><em>другой</em></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>другое</em></td><td></td><td><em>другому</em></td><td><em>другого</em></td><td><em>другом</em></td><td><em>другим</em></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>другие</em></td><td></td><td><em>другим</em></td><td><em>других</em></td><td><em>других</em></td><td><em>другими</em></td></tr>
+  <tr><th>Paradigm <i>хороший</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>хороших</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>хороший</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>хорошее</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>хорошие</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ru_taiga-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>хорошии</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>хороший, хоро, хорошии</em></td><td></td><td></td><td><em>хорошего</em></td><td><em>хорошем</em></td><td><em>хорошим</em></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_taiga-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>Хорлший</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>хорошая, Шорошая</em></td><td><em>хорошую</em></td><td><em>хорошей</em></td><td><em>хорошей</em></td><td></td><td><em>хорошей</em></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>хорошее</em></td><td></td><td></td><td><em>хорошего</em></td><td><em>хорошем</em></td><td><em>хорошим</em></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_taiga-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>Хорошое</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>хорошие</em></td><td></td><td><em>хорошим</em></td><td><em>хороших</em></td><td></td><td><em>хорошими</em></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ru_taiga-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>хорошии</em></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `PRON`
 
-3781 <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
+11171 <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2838; 75%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2765; 73%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1986; 53%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8818; 79%), <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7061; 63%), <tt><a href="ru_taiga-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (6673; 60%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (522; 14% of non-empty `Case`): <em>себя, его, что, меня, их, это, тебя, вас, ее, нас</em>
-* `Dat` (472; 12% of non-empty `Case`): <em>мне, себе, ему, им, вам, нам, тебе, ей, кому, всем</em>
-* `Gen` (425; 11% of non-empty `Case`): <em>нас, меня, того, вас, ничего, этого, них, тебя, него, всего</em>
-* `Ins` (172; 5% of non-empty `Case`): <em>собой, тем, ним, чем, вами, тобой, ней, нами, ними, мной</em>
-* `Loc` (151; 4% of non-empty `Case`): <em>том, себе, этом, ней, нем, чем, мне, них, всем, котором</em>
-* `Nom` (2038; 54% of non-empty `Case`): <em>я, он, это, ты, они, мы, она, вы, что, кто</em>
+* `Acc` (1826; 16% of non-empty `Case`): <em>что, его, меня, это, их, себя, все, ее, всё, то</em>
+* `Dat` (1541; 14% of non-empty `Case`): <em>мне, ему, вам, ей, всем, себе, им, нам, тебе, кому</em>
+* `Gen` (1325; 12% of non-empty `Case`): <em>меня, ничего, этого, нас, того, них, чего, него, всего, вас</em>
+* `Ins` (481; 4% of non-empty `Case`): <em>чем, ним, тем, собой, ней, этим, мной, ними, кем, вами</em>
+* `Loc` (393; 4% of non-empty `Case`): <em>том, этом, чем, ней, нем, себе, них, котором, чём, которой</em>
+* `Nom` (5604; 50% of non-empty `Case`): <em>я, он, это, все, она, что, они, мы, кто, вы</em>
 * `Par` (1; 0% of non-empty `Case`): <em>чего</em>
-* `EMPTY` (5): <em>т., кот.</em>
+* `EMPTY` (38): <em>т., еë, кот., что</em>
 
 <table>
   <tr><th>Paradigm <i>что</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Par</tt></th></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>что</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>что</em></td><td><em>что, че</em></td><td><em>чему</em></td><td><em>чего</em></td><td><em>чем, чём</em></td><td><em>чем</em></td><td><em>чего</em></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>что, што</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-</table>
-
-### `PROPN`
-
-2084 <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> tokens (85% of all `PROPN` tokens) have a non-empty value of `Case`.
-
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2042; 98%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1320; 63%), <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (1157; 56%).
-
-`PROPN` tokens may have the following values of `Case`:
-
-* `Acc` (239; 11% of non-empty `Case`): <em>Русь, крым, Петровича, Ирак, госдуму, Ирину, Катю, ПАРНАС, Россию, Бога</em>
-* `Dat` (76; 4% of non-empty `Case`): <em>Петровичу, Богу, Интерфаксу, Ирине, Пересу, зюганову, Алене, Алке, Амстердаму, Анастасии</em>
-* `Gen` (463; 22% of non-empty `Case`): <em>России, ЛДПР, Востока, Петровича, Госдумы, Путина, жириновского, СССР, Украины, яблока</em>
-* `Ins` (91; 4% of non-empty `Case`): <em>Ириной, Петровичем, Генрихом, ЗЕТИЛОВЫМ, Зюгановым, Игорем, Михаилом, Петей, Шнидер, Александром</em>
-* `Loc` (159; 8% of non-empty `Case`): <em>Ираке, Крыму, России, Москве, Украине, Кремле, Сочи, Франции, донбассе, Госдуме</em>
-* `Nom` (1051; 50% of non-empty `Case`): <em>Петрович, жириновский, Генрих, Убейд, Россия, Яблоко, парнас, Ирина, Катя, Петя</em>
-* `Voc` (5; 0% of non-empty `Case`): <em>Боже, Катюнь, Серёж</em>
-* `EMPTY` (376): <em>@xxxxxx, М., @yabloko, @Zhirinovskiy, Н., @screened-200, В., А., СС, И.</em>
-
-<table>
-  <tr><th>Paradigm <i>Петрович</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>Петрович</em></td><td><em>Петровича</em></td><td><em>Петровичу</em></td><td><em>Петровича</em></td><td><em>Петровиче</em></td><td><em>Петровичем</em></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td><em>Что</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>что</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>что</em></td><td><em>что</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-PronType.html">PronType</a></tt><tt>=Emp</tt></tt></td><td><em>что</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-PronType.html">PronType</a></tt><tt>=Exc</tt></tt></td><td><em>что</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-PronType.html">PronType</a></tt><tt>=Ind</tt></tt></td><td></td><td><em>что</em></td><td></td><td><em>чего</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td><em>что</em></td><td><em>что, што, че</em></td><td><em>чему</em></td><td><em>чего</em></td><td><em>чем, чём</em></td><td><em>чем, Чам</em></td><td><em>чего</em></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-PronType.html">PronType</a></tt><tt>=Neg</tt></tt></td><td></td><td><em>что</em></td><td><em>чему</em></td><td><em>чего</em></td><td><em>чем</em></td><td><em>чем</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>что</em></td><td><em>что, што</em></td><td><em>чему</em></td><td><em>чего</em></td><td><em>чем, чём</em></td><td><em>чем</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-PronType.html">PronType</a></tt><tt>=Rel</tt>|<tt><a href="ru_taiga-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>сто</em></td><td><em>сто</em></td><td></td><td></td><td><em>сём</em></td><td></td><td></td></tr>
 </table>
 
 ### `DET`
 
-1494 <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> tokens (89% of all `DET` tokens) have a non-empty value of `Case`.
+5325 <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> tokens (93% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1268; 85%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1029; 69%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4179; 78%), <tt><a href="ru_taiga-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4162; 78%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3734; 70%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Acc` (408; 27% of non-empty `Case`): <em>все, эти, свои, свой, этот, свою, каждый, это, нашу, эту</em>
-* `Dat` (60; 4% of non-empty `Case`): <em>всем, этому, своему, своим, моему, своей, этим, вашему, каждому, моим</em>
-* `Gen` (260; 17% of non-empty `Case`): <em>всех, этой, этих, тех, этого, наших, нашего, своей, своих, таких</em>
-* `Ins` (104; 7% of non-empty `Case`): <em>таким, своими, такой, своей, своим, каждым, какой, этим, этими, этой</em>
-* `Loc` (150; 10% of non-empty `Case`): <em>этом, том, этой, своих, своем, своей, всех, моей, нашем, таком</em>
-* `Nom` (512; 34% of non-empty `Case`): <em>все, этот, мой, мои, тот, эти, наш, вся, моя, такая</em>
-* `EMPTY` (183): <em>его, их, ее, её, н., т., Такова, таков</em>
+* `Acc` (1448; 27% of non-empty `Case`): <em>этот, все, эту, каждый, это, эти, свои, свой, свою, любой</em>
+* `Dat` (269; 5% of non-empty `Case`): <em>всем, этому, моему, своему, своей, другому, самой, тем, этим, какому</em>
+* `Gen` (866; 16% of non-empty `Case`): <em>этого, этой, всех, такого, этих, других, никаких, таких, тех, своего</em>
+* `Ins` (308; 6% of non-empty `Case`): <em>таким, своей, этим, своими, такой, всей, другими, своим, каждым, этими</em>
+* `Loc` (519; 10% of non-empty `Case`): <em>этом, том, самом, этой, других, всех, таком, своем, нашем, своих</em>
+* `Nom` (1915; 36% of non-empty `Case`): <em>все, сам, этот, такая, мой, такое, один, такой, сама, моя</em>
+* `EMPTY` (371): <em>его, их, ее, её, н., др., т., какова, такова, др</em>
 
 <table>
   <tr><th>Paradigm <i>этот</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -135,91 +123,116 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
   <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>этих</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>этот</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>это</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>эти</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>этот</em></td><td><em>этот</em></td><td><em>этому</em></td><td><em>этого</em></td><td><em>этом</em></td><td><em>этим</em></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>эта</em></td><td><em>эту</em></td><td><em>Этой</em></td><td><em>этой</em></td><td><em>этой</em></td><td><em>этой</em></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>это</em></td><td><em>это</em></td><td><em>этому</em></td><td><em>этого</em></td><td><em>этом</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>эти</em></td><td><em>эти, этих</em></td><td><em>этим</em></td><td><em>этих</em></td><td><em>этих</em></td><td><em>этими</em></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_taiga-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>это</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>эти, этих</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>этот</em></td><td></td><td><em>этому</em></td><td><em>этого</em></td><td><em>этом</em></td><td><em>этим</em></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>эта</em></td><td><em>эту</em></td><td><em>этой</em></td><td><em>этой</em></td><td><em>этой</em></td><td><em>этой</em></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>это</em></td><td></td><td><em>этому</em></td><td><em>этого</em></td><td><em>этом</em></td><td><em>этим</em></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_taiga-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>это</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>эти</em></td><td></td><td><em>этим</em></td><td><em>этих</em></td><td><em>этих</em></td><td><em>этими</em></td></tr>
+</table>
+
+### `PROPN`
+
+3779 <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt> tokens (85% of all `PROPN` tokens) have a non-empty value of `Case`.
+
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3708; 98%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2409; 64%), <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (1987; 53%).
+
+`PROPN` tokens may have the following values of `Case`:
+
+* `Acc` (419; 11% of non-empty `Case`): <em>Русь, крым, россию, сочи, Петровича, Турцию, Украину, Ирак, Китай, госдуму</em>
+* `Dat` (139; 4% of non-empty `Case`): <em>Петровичу, Ирине, Наде, Виктору, Гарри, Интерфаксу, Москве, Пересу, России, Фарингейту</em>
+* `Gen` (789; 21% of non-empty `Case`): <em>россии, москвы, Востока, Петровича, Путина, Госдумы, Украины, жириновского, Крыма, яблока</em>
+* `Ins` (149; 4% of non-empty `Case`): <em>Ириной, Петровичем, Россией, Генрихом, ЗЕТИЛОВЫМ, Зюгановым, Игорем, Михаилом, Петей, Шнидер</em>
+* `Loc` (405; 11% of non-empty `Case`): <em>Москве, России, Сочи, крыму, Ираке, Петербурге, Туре, Украине, Питере, Франции</em>
+* `Nom` (1875; 50% of non-empty `Case`): <em>Петрович, жириновский, Россия, яблоко, Ирина, Генрих, Убейд, парнас, Катя, Петя</em>
+* `Voc` (3; 0% of non-empty `Case`): <em>Катюнь, Серёж, Тань</em>
+* `EMPTY` (664): <em>@xxxxxx, сша, ЛДПР, М., СССР, РФ, @yabloko, А., кпрф, спб</em>
+
+<table>
+  <tr><th>Paradigm <i>Петрович</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_taiga-feat-NameType.html">NameType</a></tt><tt>=Prs</tt></tt></td><td><em>Петрович</em></td><td><em>Петровича</em></td><td><em>Петровичу</em></td><td><em>Петровича</em></td><td><em>Петровиче</em></td><td><em>Петровичем</em></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-NameType.html">NameType</a></tt><tt>=Patrn</tt></tt></td><td></td><td><em>Петрович</em></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `VERB`
 
-504 <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `Case`.
+1014 <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (504; 100%), <tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (504; 100%), <tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (499; 99%), <tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (354; 70%), <tt><a href="ru_taiga-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (310; 62%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (286; 57%), <tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (260; 52%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1014; 100%), <tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1014; 100%), <tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1002; 99%), <tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (658; 65%), <tt><a href="ru_taiga-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (594; 59%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (583; 57%).
 
 `VERB` tokens may have the following values of `Case`:
 
-* `Acc` (70; 14% of non-empty `Case`): <em>Заглохший, влекомый, вытянутые, гаснущие, дрожащий, желающих, зажатый, запланированный, заплеванные, звавшего</em>
-* `Dat` (24; 5% of non-empty `Case`): <em>изложенным, Ведущим, Вспотевшим, Входящим, Уносимым, выступающему, говорящему, действующим, имеющейся, информированным</em>
-* `Gen` (148; 29% of non-empty `Case`): <em>исчезнувших, организованных, живущих, нечего, развитых, Гомонящих, Назначенной, Прогретых, Служивших, битых</em>
-* `Ins` (65; 13% of non-empty `Case`): <em>состоявшимися, Рокочущим, Узаконенными, бьющейся, верующим, восходящей, впавшими, выбритым, выдавленным, завязанными</em>
-* `Loc` (24; 5% of non-empty `Case`): <em>возглашавших, действующем, закрытой, затерявшемся, затуманенном, обезумевшем, образующих, обтягивающих, оккупированном, опубликованном</em>
-* `Nom` (173; 34% of non-empty `Case`): <em>Стоявшие, находившиеся, пропавшие, являющиеся, Беременная, Венчанный, Влекомый, Вступивший, Входящая, Высвободившийся</em>
-* `EMPTY` (7496): <em>есть, может, нет, можно, надо, сказал, хочу, быть, стал, стоит</em>
+* `Acc` (167; 16% of non-empty `Case`): <em>желающих, интересующие, просроченные, связанные, имеющих, связанную, собранные, улучшенный, Заглохший, Рекомендованную</em>
+* `Dat` (63; 6% of non-empty `Case`): <em>погибшим, защищавшим, изложенным, некому, Ведущим, Вспотевшим, Входящим, Понимающим, Предпочитающим, Уносимым</em>
+* `Gen` (235; 23% of non-empty `Case`): <em>исчезнувших, нечего, желающих, проходящих, сопутствующих, выходящих, заболевших, называемого, некого, обманутых</em>
+* `Ins` (123; 12% of non-empty `Case`): <em>состоявшимися, вытекающими, закрытыми, оперирующим, Назначенной, Рокочущим, Узаконенными, благоустроенными, бьющейся, верующим</em>
+* `Loc` (41; 4% of non-empty `Case`): <em>закрытой, возглашавших, выделенных, вынужденной, действующем, запомнившемся, заряженной, затерявшемся, затуманенном, написанном</em>
+* `Nom` (385; 38% of non-empty `Case`): <em>знающие, работающие, сопутствующие, Стоявшие, Управляющая, влекомый, забытый, завышенные, казавшаяся, намоленное</em>
+* `EMPTY` (23723): <em>есть, можно, нет, может, надо, могу, делать, хочу, здравствуйте, нравится</em>
 
 <table>
-  <tr><th>Paradigm <i>стоять</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>стоявший</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>стоящему</em></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>стоявшее</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>Стоявшие</em></td><td></td><td></td></tr>
+  <tr><th>Paradigm <i>стоять</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>стоящего</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>стоявший</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>стоящему</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>стоявшее</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>Стоявшие</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>стоящие</em></td><td></td><td></td><td><em>стоящих</em></td><td><em>стоящими</em></td></tr>
 </table>
 
 ### `NUM`
 
-360 <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> tokens (39% of all `NUM` tokens) have a non-empty value of `Case`.
+850 <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> tokens (31% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="ru_taiga-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (356; 99%), <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (266; 74%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (222; 62%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="ru_taiga-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (830; 98%), <tt><a href="ru_taiga-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (528; 62%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (492; 58%).
 
 `NUM` tokens may have the following values of `Case`:
 
-* `Acc` (136; 38% of non-empty `Case`): <em>несколько, много, два, столько, сто, три, двадцать, один, сколько, двоих</em>
-* `Dat` (7; 2% of non-empty `Case`): <em>многим, нескольку, пяти, стольким, 3м, Обоим, одной</em>
-* `Gen` (51; 14% of non-empty `Case`): <em>двух, трех, одного, двоих, четырех, десяти, многих, нескольких, пяти, шести</em>
-* `Ins` (8; 2% of non-empty `Case`): <em>двумя, одним, одной, тремя</em>
-* `Loc` (11; 3% of non-empty `Case`): <em>одной, одном, трех, двух</em>
-* `Nom` (147; 41% of non-empty `Case`): <em>много, один, три, одна, два, двое, сколько, столько, несколько, одно</em>
-* `EMPTY` (574): <em>2, 1, 3, 5, 4, 10, 6, 20, 30, 7</em>
+* `Acc` (400; 47% of non-empty `Case`): <em>несколько, сколько, два, один, три, две, одну, столько, пол, сто</em>
+* `Dat` (15; 2% of non-empty `Case`): <em>одной, обоим, 12-ти, 3м, многим, нескольку, обеим, одному, пяти, стольким</em>
+* `Gen` (103; 12% of non-empty `Case`): <em>двух, одного, одной, нескольких, трех, двоих, обоих, пяти, десяти, обеих</em>
+* `Ins` (21; 2% of non-empty `Case`): <em>двумя, одним, несколькими, одной, пятью, сколькими, тремя, четырьмя, шестью</em>
+* `Loc` (47; 6% of non-empty `Case`): <em>одном, одной, двух, нескольких, трех, трёх, обоих, 3х, обеих, пяти</em>
+* `Nom` (264; 31% of non-empty `Case`): <em>два, один, сколько, одна, три, две, несколько, одно, оба, столько</em>
+* `EMPTY` (1877): <em>2, 3, 1, 5, 4, 10, 7, 30, 6, 20</em>
 
 <table>
   <tr><th>Paradigm <i>один</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>одного</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>одного</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>один</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>одного</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>один</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>один</em></td><td><em>один</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>одна</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>один</em></td><td></td><td></td><td><em>одного</em></td><td><em>одном</em></td><td><em>одним</em></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>один</em></td><td></td><td></td><td><em>одного</em></td><td><em>одном</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>одна</em></td><td><em>одну</em></td><td></td><td><em>одной</em></td><td><em>одной</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_taiga-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>оден</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>один</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>одно</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>один</em></td><td></td><td><em>одному</em></td><td><em>одного</em></td><td><em>одном</em></td><td><em>одним</em></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>один</em></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>одна</em></td><td><em>одну</em></td><td><em>одной</em></td><td><em>одной</em></td><td><em>одной</em></td><td><em>одной</em></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>одно</em></td><td></td><td></td><td><em>одного</em></td><td></td><td><em>одним</em></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>одно</em></td><td></td><td></td><td></td><td><em>одном</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>одно</em></td><td><em>одно</em></td><td></td><td><em>одного</em></td><td><em>одном</em></td><td><em>одним</em></td></tr>
 </table>
 
 ### `AUX`
 
 2 <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2; 100%), <tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2; 100%), <tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2; 100%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="ru_taiga-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2; 100%), <tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2; 100%), <tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2; 100%), <tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2; 100%).
 
 `AUX` tokens may have the following values of `Case`:
 
 * `Nom` (2; 100% of non-empty `Case`): <em>бывшая, бывший</em>
-* `EMPTY` (549): <em>бы, было, был, будет, были, была, быть, есть, будут, буду</em>
+* `EMPTY` (1602): <em>бы, было, был, будет, есть, была, были, быть, будут, буду</em>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="ru_taiga-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3147; 95%),
-<tt>NOUN --[<tt><a href="ru_taiga-dep-det.html">det</a></tt>]--> DET</tt> (1154; 84%),
-<tt>NOUN --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1051; 87%),
-<tt>NOUN --[<tt><a href="ru_taiga-dep-acl.html">acl</a></tt>]--> VERB</tt> (241; 84%),
-<tt>NOUN --[<tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (175; 77%),
-<tt>PROPN --[<tt><a href="ru_taiga-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (148; 77%),
-<tt>NOUN --[<tt><a href="ru_taiga-dep-appos.html">appos</a></tt>]--> NOUN</tt> (132; 71%),
-<tt>PROPN --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> PROPN</tt> (132; 91%),
-<tt>NOUN --[<tt><a href="ru_taiga-dep-appos.html">appos</a></tt>]--> PROPN</tt> (127; 64%),
-<tt>ADJ --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADJ</tt> (118; 94%).
+<tt>NOUN --[<tt><a href="ru_taiga-dep-amod.html">amod</a></tt>]--> ADJ</tt> (10453; 97%),
+<tt>NOUN --[<tt><a href="ru_taiga-dep-det.html">det</a></tt>]--> DET</tt> (3927; 91%),
+<tt>NOUN --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3387; 89%),
+<tt>ADJ --[<tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (790; 56%),
+<tt>ADJ --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADJ</tt> (553; 88%),
+<tt>NOUN --[<tt><a href="ru_taiga-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (448; 68%),
+<tt>NOUN --[<tt><a href="ru_taiga-dep-acl.html">acl</a></tt>]--> VERB</tt> (417; 64%),
+<tt>PROPN --[<tt><a href="ru_taiga-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (402; 84%),
+<tt>NOUN --[<tt><a href="ru_taiga-dep-appos.html">appos</a></tt>]--> NOUN</tt> (329; 67%),
+<tt>NOUN --[<tt><a href="ru_taiga-dep-amod.html">amod</a></tt>]--> VERB</tt> (310; 99%).
 

@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `compound:svc`: <tt>
 # visual-style 5	fgColor:white
 # visual-style 5 6 compound:svc	color:blue
 1	न्यायाधीशाने	न्यायाधीश	NOUN	_	Case=Erg|Gender=Masc|Number=Sing	5	nsubj	_	_
-2	_	भीम	PROPN	_	Case=Obl|Gender=Masc|Number=Sing	4	nmod:poss	_	_
+2	_	भीम	PROPN	_	Case=Abs|Gender=Masc|Number=Sing	4	nmod:poss	_	_
 3	_	चा	ADP	_	Gender=Fem|Number=Sing	2	case	_	_
 4	मालकी	मालकी	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
 5	काढून	काढणे	VERB	_	Aspect=Perf|VerbForm=Conv	0	root	_	_

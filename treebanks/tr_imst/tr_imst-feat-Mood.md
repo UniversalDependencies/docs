@@ -6,37 +6,36 @@ udver: '2'
 
 ## Treebank Statistics: UD_Turkish-IMST: Features: `Mood`
 
-This feature is universal but the values `CndPot`, `DesPot`, `Gen`, `GenNec`, `GenNecPot`, `GenPot`, `ImpPot`, `NecPot`, `Prs` are language-specific.
-It occurs with 16 different values: `Cnd`, `CndPot`, `Des`, `DesPot`, `Gen`, `GenNec`, `GenNecPot`, `GenPot`, `Imp`, `ImpPot`, `Ind`, `Nec`, `NecPot`, `Opt`, `Pot`, `Prs`.
+This feature is universal but the values `CndPot`, `DesPot`, `Gen`, `GenNec`, `GenNecPot`, `GenPot`, `NecPot`, `Prs` are language-specific.
+It occurs with 15 different values: `Cnd`, `CndPot`, `Des`, `DesPot`, `Gen`, `GenNec`, `GenNecPot`, `GenPot`, `Imp`, `Ind`, `Nec`, `NecPot`, `Opt`, `Pot`, `Prs`.
 
 12036 tokens (21%) have a non-empty value of `Mood`.
 6521 types (38%) occur at least once with a non-empty value of `Mood`.
-831 lemmas (14%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (11057; 19% instances), <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> (979; 2% instances).
+828 lemmas (14%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (10995; 19% instances), <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> (1041; 2% instances).
 
 ### `VERB`
 
-11057 <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Mood`.
+10995 <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (9811; 89%), <tt><a href="tr_imst-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (9696; 88%), <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (9349; 85%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (9349; 85%), <tt><a href="tr_imst-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (9317; 84%), <tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8798; 80%), <tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (8471; 77%), <tt><a href="tr_imst-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6278; 57%), <tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5898; 53%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (9811; 89%), <tt><a href="tr_imst-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (9634; 88%), <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (9287; 84%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (9287; 84%), <tt><a href="tr_imst-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (9255; 84%), <tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8736; 79%), <tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (8409; 76%), <tt><a href="tr_imst-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6216; 57%), <tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5848; 53%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Cnd` (208; 2% of non-empty `Mood`): <em>olsa, değilse, varsa, verirse, kalırsa, olmazsa, olsaydım, olursa, anlatsam, bakarsanız</em>
+* `Cnd` (206; 2% of non-empty `Mood`): <em>olsa, varsa, verirse, değilse, kalırsa, olmazsa, olsaydım, olursa, anlatsam, bakarsanız</em>
 * `CndPot` (6; 0% of non-empty `Mood`): <em>Gelemeyecekse, becerebilirse, bilemese, bulamazsam, keşfedemezseniz, yaratabiliyorsanız</em>
 * `Des` (17; 0% of non-empty `Mood`): <em>olsa, konuşsaydınız, Direnseydin, alsaydı, barışsalar, bitse, duymasaydım, düşseydin, etseydim, konuşsam</em>
 * `DesPot` (3; 0% of non-empty `Mood`): <em>dokundurabilselerdi, yayabilsek, yuvarlayabilsem</em>
-* `Gen` (122; 1% of non-empty `Mood`): <em>değildir, olmuştur, olacaktır, açmıştır, gerçekleşmiştir, ulaşmıştır, başlamıştır, doğurmuştur, gelmiştir, girmiştir</em>
+* `Gen` (114; 1% of non-empty `Mood`): <em>değildir, olmuştur, olacaktır, açmıştır, gerçekleşmiştir, ulaşmıştır, başlamıştır, doğurmuştur, gelmiştir, girmiştir</em>
 * `GenNec` (4; 0% of non-empty `Mood`): <em>alınmalıdırlar, bulunmalıdır, olmalıdır, uyarlanmalıdır</em>
 * `GenNecPot` (1; 0% of non-empty `Mood`): <em>söyleyebilmelidir</em>
 * `GenPot` (1; 0% of non-empty `Mood`): <em>okşayabilmiştir</em>
 * `Imp` (408; 4% of non-empty `Mood`): <em>var, olsun, bakın, bak, gerek, gel, al, at, bırakın, geç</em>
-* `ImpPot` (1; 0% of non-empty `Mood`): <em>devredebilsin</em>
-* `Ind` (9594; 87% of non-empty `Mood`): <em>dedi, olan, dedim, değil, olduğunu, oldu, olduğu, söyledi, olur, etti</em>
+* `Ind` (9542; 87% of non-empty `Mood`): <em>dedi, olan, dedim, olduğunu, oldu, olduğu, söyledi, olur, etti, değil</em>
 * `Nec` (51; 0% of non-empty `Mood`): <em>olmalı, olmalıydı, gitmeliyim, bulmalıyım, dönmeliyim, Anlatılmalı, Edilmeli, almalı, anlatmalıydım, anlatmalıyım</em>
 * `NecPot` (1; 0% of non-empty `Mood`): <em>konuşabilmeli</em>
 * `Opt` (147; 1% of non-empty `Mood`): <em>bakalım, gidelim, yazayım, alalım, anlatayım, diye, bakıla, basa, bileyim, edelim</em>
-* `Pot` (491; 4% of non-empty `Mood`): <em>olabilir, giremiyorum, alabilen, bilemiyorum, giremiyor, yanlışlanabilir, anlatamadım, edemiyor, girebilir, girebilmek</em>
+* `Pot` (492; 4% of non-empty `Mood`): <em>olabilir, giremiyorum, alabilen, bilemiyorum, giremiyor, yanlışlanabilir, anlatamadım, edemiyor, girebilir, girebilmek</em>
 * `Prs` (2; 0% of non-empty `Mood`): <em>Baksana, düşünsene</em>
 
 <table>
@@ -170,15 +169,15 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-979 <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Mood`.
+1041 <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (975; 100%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (869; 89%), <tt><a href="tr_imst-feat-Person.html">Person</a></tt><tt>=3</tt> (758; 77%), <tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (632; 65%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1037; 100%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (930; 89%), <tt><a href="tr_imst-feat-Person.html">Person</a></tt><tt>=3</tt> (814; 78%), <tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (682; 66%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Cnd` (45; 5% of non-empty `Mood`): <em>sa, se, yse, ise, sem, siyse, ysa</em>
-* `Gen` (237; 24% of non-empty `Mood`): <em>dir, dır, dur, tir, tur, tır, dür, lardır, lerdir, mıdır</em>
-* `Ind` (697; 71% of non-empty `Mood`): <em>mi, mı, ydi, dı, ydı, tu, mu, ydu, im, tı</em>
+* `Cnd` (47; 5% of non-empty `Mood`): <em>sa, se, yse, ise, değilse, sem, siyse, ysa</em>
+* `Gen` (245; 24% of non-empty `Mood`): <em>dir, dır, dur, tir, tur, tır, değildir, dür, lardır, lerdir</em>
+* `Ind` (749; 72% of non-empty `Mood`): <em>mi, mı, ydi, dı, ydı, değil, tu, mu, ydu, im</em>
 * `EMPTY` (65): <em>ise, idi</em>
 
 <table>
@@ -208,14 +207,14 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="tr_imst-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (786; 78%),
-<tt>VERB --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> VERB</tt> (724; 79%),
-<tt>VERB --[<tt><a href="tr_imst-dep-obj.html">obj</a></tt>]--> VERB</tt> (635; 78%),
-<tt>VERB --[<tt><a href="tr_imst-dep-acl.html">acl</a></tt>]--> VERB</tt> (195; 87%),
-<tt>VERB --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (109; 81%),
+<tt>VERB --[<tt><a href="tr_imst-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (787; 78%),
+<tt>VERB --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> VERB</tt> (726; 79%),
+<tt>VERB --[<tt><a href="tr_imst-dep-obj.html">obj</a></tt>]--> VERB</tt> (636; 78%),
+<tt>VERB --[<tt><a href="tr_imst-dep-acl.html">acl</a></tt>]--> VERB</tt> (198; 87%),
+<tt>VERB --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (111; 81%),
 <tt>VERB --[<tt><a href="tr_imst-dep-aux-q.html">aux:q</a></tt>]--> AUX</tt> (82; 77%),
 <tt>VERB --[<tt><a href="tr_imst-dep-compound.html">compound</a></tt>]--> VERB</tt> (54; 84%),
 <tt>VERB --[<tt><a href="tr_imst-dep-nmod-poss.html">nmod:poss</a></tt>]--> VERB</tt> (28; 97%),
-<tt>VERB --[<tt><a href="tr_imst-dep-compound-redup.html">compound:redup</a></tt>]--> VERB</tt> (21; 95%),
-<tt>VERB --[<tt><a href="tr_imst-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (16; 84%).
+<tt>VERB --[<tt><a href="tr_imst-dep-compound-redup.html">compound:redup</a></tt>]--> VERB</tt> (22; 96%),
+<tt>VERB --[<tt><a href="tr_imst-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (19; 70%).
 

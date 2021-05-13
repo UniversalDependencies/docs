@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Uyghur-UDT: Relations: `nmod:part`
 
 This relation is a language-specific subtype of <tt><a href="ug_udt-dep-nmod.html">nmod</a></tt>.
-There are also 8 other language-specific subtypes of `nmod`: <tt><a href="ug_udt-dep-nmod-abl.html">nmod:abl</a></tt>, <tt><a href="ug_udt-dep-nmod-cau.html">nmod:cau</a></tt>, <tt><a href="ug_udt-dep-nmod-clas.html">nmod:clas</a></tt>, <tt><a href="ug_udt-dep-nmod-comp.html">nmod:comp</a></tt>, <tt><a href="ug_udt-dep-nmod-ins.html">nmod:ins</a></tt>, <tt><a href="ug_udt-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="ug_udt-dep-nmod-ref.html">nmod:ref</a></tt>, <tt><a href="ug_udt-dep-nmod-tmod.html">nmod:tmod</a></tt>.
+There are also 4 other language-specific subtypes of `nmod`: <tt><a href="ug_udt-dep-nmod-cau.html">nmod:cau</a></tt>, <tt><a href="ug_udt-dep-nmod-comp.html">nmod:comp</a></tt>, <tt><a href="ug_udt-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="ug_udt-dep-nmod-tmod.html">nmod:tmod</a></tt>.
 
 6 nodes (0%) are attached to their parents as `nmod:part`.
 
@@ -27,9 +27,9 @@ The following 3 pairs of parts of speech are connected with `nmod:part`: <tt><a 
 2	بىلەن	بىلەن	ADP	C	_	1	fixed	_	Translit=bilen
 3	ھاشارەتلەرنىڭ	ھاشارەت	NOUN	N	Case=Gen|Number=Plur	4	nmod:part	_	Translit=hasharetlerning
 4	ھەممىسى	_	PRON	P	_	7	nsubj	_	Translit=hemmisi|Morf=Unknown
-5	دېگۈدەك	دېگۈدەك	NOUN	V	Case=Nom	7	advmod	_	Translit=dëgüdek
+5	دېگۈدەك	دېگۈدەك	NOUN	V	Case=Nom	7	obl	_	Translit=dëgüdek
 6	توڭلاپ	_	VERB	V	_	7	advmod	_	Translit=tonglap|Morf=Unknown
-7	ئۆلۈپ	ئۆل	VERB	V	Aspect=Perf|VerbForm=Cov	0	root	_	Translit=ölüp
+7	ئۆلۈپ	ئۆل	VERB	V	Aspect=Perf|VerbForm=Inf	0	root	_	Translit=ölüp
 8	كەتتى	كەت	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	SpaceAfter=No|Translit=ketti
 9	.	.	PUNCT	Y	_	8	punct	_	Translit=.
 

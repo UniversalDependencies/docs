@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Neg`, `Pos`.
 
-650 tokens (4%) have a non-empty value of `Polarity`.
-396 types (8%) occur at least once with a non-empty value of `Polarity`.
+652 tokens (4%) have a non-empty value of `Polarity`.
+397 types (8%) occur at least once with a non-empty value of `Polarity`.
 124 lemmas (6%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 5 part-of-speech tags: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (479; 3% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (75; 0% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (57; 0% instances), <tt><a href="tr_gb-pos-DET.html">DET</a></tt> (29; 0% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (10; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (479; 3% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (75; 0% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (57; 0% instances), <tt><a href="tr_gb-pos-DET.html">DET</a></tt> (29; 0% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances).
 
 ### `VERB`
 
 479 <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> tokens (16% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (442; 92%), <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (442; 92%), <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (428; 89%), <tt><a href="tr_gb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (428; 89%), <tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (427; 89%), <tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (408; 85%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (357; 75%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (242; 51%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (441; 92%), <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (441; 92%), <tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (428; 89%), <tt><a href="tr_gb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (428; 89%), <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (427; 89%), <tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (408; 85%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (356; 74%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (242; 51%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (472; 99% of non-empty `Polarity`): <em>görmedim, istemiyor, bilmiyordum, sevmiyor, gitmedi, konaklamayacaklar, anlayamıyorum, bilmiyorum, bitmiyor, düşünemiyorum</em>
 * `Pos` (7; 1% of non-empty `Polarity`): <em>aldıysan, ayrılmış, buluşacağız, bırakmışım, bırakıyorsun, edin, girelim</em>
-* `EMPTY` (2607): <em>geldi, gitmek, gerekiyor, görmüş, istiyor, söyledi, geçen, çalışıyor, ediyorum, gidiyor</em>
+* `EMPTY` (2606): <em>geldi, gitmek, gerekiyor, görmüş, istiyor, söyledi, geçen, çalışıyor, ediyorum, gidiyor</em>
 
 <table>
   <tr><th>Paradigm <i>al</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -62,8 +62,6 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 57 <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> tokens (7% of all `ADJ` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (57; 100%).
-
 `ADJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (57; 100% of non-empty `Polarity`): <em>yok</em>
@@ -91,7 +89,16 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 
 * `Neg` (7; 70% of non-empty `Polarity`): <em>hiçbiri, Hiçbirimiz, hiçbiriniz, hiçbirisi</em>
 * `Pos` (3; 30% of non-empty `Polarity`): <em>Bundan, bana, burada</em>
-* `EMPTY` (1064): <em>ben, sen, ne, burada, bana, benim, biz, kendi, o, onlar</em>
+* `EMPTY` (1061): <em>ben, sen, ne, burada, bana, benim, biz, kendi, o, onlar</em>
+
+### `CCONJ`
+
+2 <tt><a href="tr_gb-pos-CCONJ.html">CCONJ</a></tt> tokens (1% of all `CCONJ` tokens) have a non-empty value of `Polarity`.
+
+`CCONJ` tokens may have the following values of `Polarity`:
+
+* `Neg` (2; 100% of non-empty `Polarity`): <em>değil</em>
+* `EMPTY` (194): <em>ve, ne, ama, ya, da, de, hem, yoksa, ister, yok</em>
 
 ## Relations with Agreement in `Polarity`
 

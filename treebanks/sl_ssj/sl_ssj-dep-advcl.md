@@ -57,7 +57,7 @@ The following 15 pairs of parts of speech are connected with `advcl`: <tt><a hre
 11	z	z	ADP	Si	Case=Ins	12	case	_	Dep=12|Rel=Atr
 12	veseljem	veselje	NOUN	Ncnsi	Case=Ins|Gender=Neut|Number=Sing	13	obl	_	Dep=13|Rel=AdvM
 13	prisluhnil	prisluhniti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	3	parataxis	_	SpaceAfter=No|Dep=0|Rel=Root
-14	.	.	PUNCT	Z	_	3	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+14	.	.	PUNCT	Z	_	3	punct	_	Dep=0|Rel=Root
 
 ~~~
 

@@ -8,33 +8,56 @@ udver: '2'
 
 This relation is universal.
 
-485 nodes (1%) are attached to their parents as `advcl`.
+559 nodes (2%) are attached to their parents as `advcl`.
 
-369 instances of `advcl` (76%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.34639175257732.
+423 instances of `advcl` (76%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.35062611806798.
 
-The following 26 pairs of parts of speech are connected with `advcl`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (192; 40% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (103; 21% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (51; 11% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (45; 9% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (22; 5% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (19; 4% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (14; 3% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (9; 2% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-SYM.html">SYM</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 26 pairs of parts of speech are connected with `advcl`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (225; 40% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (118; 21% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (57; 10% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (49; 9% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (26; 5% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (22; 4% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (16; 3% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (13; 2% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 8 advcl	color:blue
-1	Byddaf	bod	VERB	verb	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	_	_
-2	i	i	PRON	indep	Number=Sing|Person=1	1	nsubj	_	SpaceAfter=No
-3	'n	yn	AUX	impf	_	4	aux	_	_
-4	gadael	gadael	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	1	xcomp	_	_
-5	cyn	cyn	ADP	prep	_	8	case	_	_
-6	i	i	ADP	prep	_	7	case	_	_
-7	ti	ti	PRON	indep	Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
-8	gyrraedd	cyrraedd	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	4	advcl	_	SpaceAfter=No
-9	,	,	PUNCT	punct	_	12	punct	_	_
-10	mae	bod	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	cop	_	SpaceAfter=No
-11	'n	yn	PART	pred	_	12	case:pred	_	_
-12	debyg	tebyg	ADJ	pos	Degree=Pos|Mutation=SM	1	parataxis	_	SpaceAfter=No
-13	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 advcl	color:blue
+1	Eistedd	eistedd	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	0	root	_	_
+2	yn	yn	AUX	impf	_	3	aux	_	_
+3	syllu	syllu	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	1	advcl	_	_
+4	ar	ar	ADP	prep	_	6	case	_	_
+5	y	y	DET	art	_	6	det	_	_
+6	cerflun	cerflun	NOUN	noun	Gender=Masc|Number=Sing	3	obl	_	_
+7	o	o	ADP	prep	_	8	case	_	_
+8	Hedd	Hedd	PROPN	person	_	6	nmod	_	_
+9	Wyn	Wyn	PROPN	place	Gender=Masc|Number=Sing	8	flat:name	_	_
+10	a	a	CCONJ	cconj	_	11	cc	_	_
+11	chael	cael	NOUN	verbnoun	Mutation=AM|Number=Sing|VerbForm=Vnoun	1	conj	_	_
+12	clywed	clywed	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	11	ccomp	_	_
+13	y	y	DET	art	_	14	det	_	_
+14	stori	stori	NOUN	noun	Gender=Fem|Number=Sing	12	obj	_	SpaceAfter=No
+15	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 2 advcl	color:blue
+1	Yn	yn	AUX	impf	_	2	aux	_	_
+2	dilyn	dilyn	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	7	advcl	_	_
+3	y	y	DET	art	_	4	det	_	_
+4	gynhadledd	cynhadledd	NOUN	noun	Gender=Fem|Mutation=SM|Number=Sing	2	obj	_	_
+5	hon	hon	PRON	dem	Gender=Fem|PronType=Dem	4	det	_	SpaceAfter=No
+6	,	,	PUNCT	punct	_	7	punct	_	_
+7	sefydlwyd	sefydlu	VERB	verb	Mood=Ind|Person=0|Tense=Past|VerbForm=Fin	0	root	_	_
+8	Plaid	plaid	NOUN	noun	Gender=Fem|Number=Sing	7	obj	_	_
+9	Weriniaethol	gweriniaethol	ADJ	pos	Degree=Pos|Mutation=SM	8	amod	_	_
+10	Cymru	Cymru	PROPN	place	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	punct	_	7	punct	_	SpacesAfter=\n
 
 ~~~
 
@@ -42,39 +65,21 @@ The following 26 pairs of parts of speech are connected with `advcl`: <tt><a hre
 ~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 9 advcl	color:blue
-1	Es	mynd	VERB	verb	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	_
-2	i	i	PRON	indep	Number=Sing|Person=1	1	nsubj	_	_
-3	allan	allan	ADV	adv	_	1	advmod	_	_
-4	cyn	cyn	ADP	prep	_	9	mark	_	_
-5	bod	bod	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	9	xcomp	_	_
-6	y	y	DET	art	_	7	det	_	_
-7	plant	plentyn	NOUN	noun	Gender=Masc|Number=Plur	5	nsubj	_	_
-8	wedi	wedi	AUX	ante	_	9	aux	_	_
-9	codi	codi	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	1	advcl	_	SpaceAfter=No
-10	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 7 advcl	color:blue
-1	yr	y	PART	aff	_	2	advmod	_	_
-2	oedd	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Imp	0	root	_	_
-3	o	e	PRON	indep	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-4	newydd	newydd	AUX	ante	_	5	aux	_	_
-5	fywta	bywta	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	2	xcomp	_	_
-6	pan	pan	SCONJ	sconj	_	7	mark	_	_
-7	gyrhaeddodd	cyrraedd	VERB	verb	Mood=Ind|Mutation=SM|Number=Sing|Person=3|Tense=Past	2	advcl	_	_
-8	ei	ei	PRON	dep	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	_	_
-9	chwaer	chwaer	NOUN	noun	Gender=Fem|Number=Sing	7	nsubj	_	SpaceAfter=No
-10	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\n
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 9 advcl	color:blue
+1	A	a	CCONJ	cconj	_	3	cc	_	_
+2	ble	ble	ADV	adv	_	3	advmod	_	_
+3	cewch	cael	VERB	verb	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	fynyddoedd	mynydd	NOUN	noun	Gender=Masc|Mutation=SM|Number=Plur	3	obj	_	SpaceAfter=No
+5	,	,	PUNCT	punct	_	7	punct	_	_
+6	yn	yn	PART	pred	_	7	case:pred	_	_
+7	aml	aml	ADV	adv	_	9	advmod	_	_
+8	iawn	iawn	ADV	adv	_	7	advmod	_	_
+9	cewch	cael	VERB	verb	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	3	advcl	_	_
+10	raeadrau	rhaeadr	NOUN	noun	Gender=Masc|Mutation=SM|Number=Plur	9	nsubj	_	_
+11	hefyd	hefyd	ADV	adv	_	9	advmod	_	SpaceAfter=No
+12	!	!	PUNCT	punct	_	3	punct	_	SpacesAfter=\n
 
 ~~~
 

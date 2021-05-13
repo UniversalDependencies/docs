@@ -43,7 +43,7 @@ The 10 most frequent ambiguous types:  <em>ve</em> (<tt><a href="tr_pud-pos-CCON
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.503294).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.517067).
 
 The 1st highest number of forms (1) was observed with the lemma “ama”: <em>ama</em>.
 
@@ -51,20 +51,14 @@ The 2nd highest number of forms (1) was observed with the lemma “ancak”: <em
 
 The 3rd highest number of forms (1) was observed with the lemma “and”: <em>and</em>.
 
-`CCONJ` occurs with 1 features: <tt><a href="tr_pud-feat-Number.html">Number</a></tt> (1; 0% instances)
-
-`CCONJ` occurs with 1 feature-value pairs: `Number=Sing`
-
-`CCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (492 tokens).
-Examples: <em>ve, veya, ile, hem, ya, ancak, ama, çünkü</em>
+`CCONJ` does not occur with any features.
 
 
 ## Relations
 
 `CCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="tr_pud-dep-cc.html">cc</a></tt> (482; 98% instances), <tt><a href="tr_pud-dep-cc-preconj.html">cc:preconj</a></tt> (8; 2% instances), <tt><a href="tr_pud-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="tr_pud-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="tr_pud-dep-flat.html">flat</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (261; 53% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (85; 17% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (71; 14% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (64; 13% instances), <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (233; 47% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (117; 24% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (71; 14% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (60; 12% instances), <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-X.html">X</a></tt> (1; 0% instances)
 
 479 (97%) `CCONJ` nodes are leaves.
 

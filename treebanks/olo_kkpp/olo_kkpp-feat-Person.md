@@ -11,22 +11,22 @@ It occurs with 4 different values: `0`, `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="olo_kkpp-feat-Person.html">Person</a></tt>, <tt><a href="olo_kkpp-feat-Person-psor.html">Person[psor]</a></tt>.
 
-285 tokens (17%) have a non-empty value of `Person`.
-150 types (20%) occur at least once with a non-empty value of `Person`.
+286 tokens (18%) have a non-empty value of `Person`.
+151 types (20%) occur at least once with a non-empty value of `Person`.
 105 lemmas (19%) occur at least once with a non-empty value of `Person`.
-The feature is used with 5 part-of-speech tags: <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (186; 11% instances), <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt> (60; 4% instances), <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (37; 2% instances), <tt><a href="olo_kkpp-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (187; 11% instances), <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt> (60; 4% instances), <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (37; 2% instances), <tt><a href="olo_kkpp-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-186 <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> tokens (73% of all `VERB` tokens) have a non-empty value of `Person`.
+187 <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> tokens (73% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="olo_kkpp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (184; 99%), <tt><a href="olo_kkpp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (179; 96%), <tt><a href="olo_kkpp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (174; 94%), <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (107; 58%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="olo_kkpp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (185; 99%), <tt><a href="olo_kkpp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (180; 96%), <tt><a href="olo_kkpp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (174; 93%), <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (108; 58%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (19; 10% of non-empty `Person`): <em>kuulimo, näimö, olen, tiezimö, sanon, Smietin, annan, otamo, pään, sanoo</em>
 * `2` (18; 10% of non-empty `Person`): <em>kuulittogo, tiezittö, Avua, Kuunelkaa, Nai, Tahtotgo, Tiezittögo, duumaičet, kačot, kuulitto</em>
-* `3` (149; 80% of non-empty `Person`): <em>sanoi, rodieu, sanoo, sanottih, istui, kraassi, kyzyy, lähtiettih, menöö, oli</em>
+* `3` (150; 80% of non-empty `Person`): <em>sanoi, rodieu, sanoo, sanottih, istui, kraassi, kyzyy, lähtiettih, menöö, oli</em>
 * `EMPTY` (70): <em>kuulluh, pietäh, arbuamah, ellendämäh, kuundelemah, käynnyh, lähtie, ostua, saamah, sanomah</em>
 
 <table>
@@ -103,5 +103,5 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="olo_kkpp-dep-conj.html">conj</a></tt>]--> VERB</tt> (37; 77%),
 <tt>VERB --[<tt><a href="olo_kkpp-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (12; 55%),
 <tt>AUX --[<tt><a href="olo_kkpp-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%),
-<tt>PRON --[<tt><a href="olo_kkpp-dep-aux-neg.html">aux:neg</a></tt>]--> AUX</tt> (1; 100%).
+<tt>PRON --[<tt><a href="olo_kkpp-dep-aux.html">aux</a></tt>]--> AUX</tt> (1; 100%).
 

@@ -22,10 +22,10 @@ The following 2 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 obj	color:blue
-1	Hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
-2	hit	hit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	hit	hit	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	bumps	bump	NOUN	NNS	Number=Plur	2	obj	_	SpaceAfter=No
-4	.	.	PUNCT	Period	_	2	punct	_	_
+4	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 
@@ -36,10 +36,10 @@ The following 2 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 obj	color:blue
-1	Dealers	dealer	NOUN	_	Number=Plur	2	nsubj	_	_
-2	saw	see	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	obj	_	SpaceAfter=No
-4	.	.	PUNCT	Period	_	2	punct	_	_
+1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
+2	saw	see	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	obj	_	SpaceAfter=No
+4	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 

@@ -57,7 +57,7 @@ The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="
 1	im-gur-d-EN-LÍL	Imgur-Enlil	PROPN	_	_	13	iobj	_	_
 2	BÀD	dūru	NOUN	_	_	1	appos	_	_
 3	ra-bí-a-am	rabû	ADJ	_	_	2	amod	_	_
-4	ša	ša	DET	_	_	5	case	_	_
+4	ša	ša	ADP	_	_	5	case	_	_
 5	KÁ-DINGIR-RA-KI	Babili	PROPN	_	_	2	nmod	_	_
 6	ša	ša	SCONJ	_	_	8	mark	_	_
 7	ul-la-nu-ú-a	ullânu	ADV	_	_	8	advmod	_	_
@@ -85,13 +85,13 @@ The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="
 4	IGI-GÁL-LA	igigallu	NOUN	_	_	1	appos	_	_
 5	DINGIR-MEŠ	ilu	NOUN	_	_	4	nmod	_	_
 6	muš-tar-ḫu	muštarhu	NOUN	_	_	1	appos	_	_
-7	ša	ša	PRON	REL	_	9	mark	_	_
+7	ša	ša	SCONJ	REL	_	9	mark	_	_
 8	a-na	ana	ADP	_	_	9	case	_	_
 9	ta-na-da-a-ti	tanattu	NOUN	_	_	6	acl	_	_
 10	šit-ku-nu	šitkunu	ADJ	_	_	9	amod	_	_
 11	IBILA	aplu	NOUN	_	_	1	appos	_	_
 12	reš-tu-ú	rēštû	ADJ	_	_	11	amod	_	_
-13	ša	ša	DET	_	_	14	mark	_	_
+13	ša	ša	SCONJ	_	_	14	mark	_	_
 14	d-AMAR-UTU	Marduk	PROPN	_	_	11	acl	_	_
 15	i-lit-ti	ilittu	NOUN	_	_	14	nmod	_	_
 16	d-e₄-ru₆-ú-a	Eruʾa	PROPN	_	_	14	conj	_	_

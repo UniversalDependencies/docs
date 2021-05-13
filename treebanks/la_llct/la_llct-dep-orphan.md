@@ -44,7 +44,7 @@ The following 5 pairs of parts of speech are connected with `orphan`: <tt><a hre
 19	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	21	case	_	_
 20	omnibus	omnis	DET	a|a|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur|PronType=Tot	21	det	_	_
 21	rebus	res	NOUN	n|n|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	4	conj	_	_
-22	suis	suus	DET	a|a|3|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	21	det	_	_
+22	suis	suus	DET	a|a|3|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	21	det	_	_
 23	ubique	ubique	ADV	d|d|-|-|-|-|-|-|-|-	_	28	advmod	_	_
 24	ei	is	PRON	p|p|-|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Dem,Prs	28	obl:arg	_	_
 25	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	27	case	_	_
@@ -76,16 +76,16 @@ The following 5 pairs of parts of speech are connected with `orphan`: <tt><a hre
 51	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	52	case	_	_
 52	omnibus	omnis	DET	a|a|-|p|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Plur|PronType=Tot	49	conj	_	_
 53	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	56	case	_	_
-54	mea	meus	DET	a|a|1|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	56	det	_	_
+54	mea	meus	DET	a|a|1|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	56	det	_	_
 55	esse	sum	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	46	advcl	_	_
 56	potestatem	potestas	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	55	obl	_	_
 57	post	post	ADP	r|r|-|-|-|-|-|-|-|-	_	59	case	_	_
-58	eius	is	DET	p|p|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Dem,Prs	59	det	_	_
+58	eius	is	PRON	p|p|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Dem,Prs	59	det	_	_
 59	decessum	decessus	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	55	obl	_	SpaceAfter=No
 60	,	,	PUNCT	Punc	_	64	punct	_	_
 61	ut	ut	SCONJ	c|c|-|-|-|-|-|-|-|-	_	64	mark	_	_
 62	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	65	case	_	_
-63	mea	meus	DET	a|a|1|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	65	det	_	_
+63	mea	meus	DET	a|a|1|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	65	det	_	_
 64	esse	sum	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	46	advcl	_	_
 65	potestatem	potestas	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	64	obl	_	_
 66	usufructuandi	usufructuo	VERB	t|t|-|s|p|d|p|n|g|-	Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Ger|Voice=Pass	65	acl	_	SpaceAfter=No
@@ -141,7 +141,7 @@ The following 5 pairs of parts of speech are connected with `orphan`: <tt><a hre
 31	pertenentibus	pertineo	VERB	t|t|-|p|p|p|a|f|b|-	Aspect=Imp|Case=Abl|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	30	advcl	_	_
 32	huius	hic	DET	p|p|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	33	det	_	_
 33	episcopatui	episcopatus	NOUN	n|n|-|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing	31	obl:arg	_	_
-34	vestro	uester	DET	a|a|2|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	33	det	_	SpaceAfter=No
+34	vestro	uester	DET	a|a|2|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs	33	det	_	SpaceAfter=No
 35	,	,	PUNCT	Punc	_	37	punct	_	_
 36	quarum	qui	DET	p|p|-|p|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Plur|PronType=Ind	37	nmod	_	_
 37	unam	unus	NUM	p|p|-|s|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Sing|NumType=Card	30	parataxis	_	_
@@ -229,7 +229,7 @@ The following 5 pairs of parts of speech are connected with `orphan`: <tt><a hre
 54	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	56	case	_	_
 55	omnibus	omnis	DET	a|a|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|PronType=Tot	56	det	_	_
 56	arboribus	arbor	NOUN	n|n|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	53	nmod	_	_
-57	suis	suus	DET	a|a|3|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	56	det	_	_
+57	suis	suus	DET	a|a|3|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	56	det	_	_
 58	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	59	cc	_	_
 59	res	res	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	56	conj	_	_
 60	movile	mobilis	ADJ	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	59	amod	_	_
@@ -243,7 +243,7 @@ The following 5 pairs of parts of speech are connected with `orphan`: <tt><a hre
 68	porci	porcus	NOUN	n|n|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	1	nmod	_	_
 69	quem	qui	PRON	p|p|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	77	obj	_	_
 70	hominibus	homo	NOUN	n|n|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	77	nsubj	_	_
-71	nostri	noster	DET	a|a|1|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	70	det	_	_
+71	nostri	noster	DET	a|a|1|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	70	det	_	_
 72	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	73	cc	_	_
 73	nos	nos	PRON	p|p|1|p|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	70	conj	_	_
 74	inibi	inibi	ADV	d|d|-|-|-|-|-|-|-|-	_	77	advmod	_	_

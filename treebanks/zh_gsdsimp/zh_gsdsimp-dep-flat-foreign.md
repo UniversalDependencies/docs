@@ -32,7 +32,7 @@ The following 3 pairs of parts of speech are connected with `flat:foreign`: <tt>
 7	游戏	游戏	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
 8	在	在	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No
 9	日本	日本	PROPN	NNP	_	8	obj	_	SpaceAfter=No
-10	的	的	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No
+10	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No
 11	知名	知名	ADJ	JJ	_	12	compound	_	SpaceAfter=No
 12	度	度	PART	SFN	_	6	obj	_	SpaceAfter=No
 13	时	时	ADP	IN	_	6	mark	_	SpaceAfter=No
@@ -61,7 +61,7 @@ The following 3 pairs of parts of speech are connected with `flat:foreign`: <tt>
 2	蜘蛛	蜘蛛	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 3	星云	星云	NOUN	NN	_	4	nmod	_	SpaceAfter=No
 4	中心	中心	NOUN	NN	_	7	nmod	_	SpaceAfter=No
-5	的	的	PART	DEC	Case=Gen	4	case:dec	_	SpaceAfter=No
+5	的	的	PART	DEC	Case=Gen	4	case	_	SpaceAfter=No
 6	白	白	NOUN	NN	_	7	nmod	_	SpaceAfter=No
 7	矮星	矮星	NOUN	NN	_	9	nsubj	_	SpaceAfter=No
 8	会	会	AUX	MD	_	9	aux	_	SpaceAfter=No
@@ -70,7 +70,7 @@ The following 3 pairs of parts of speech are connected with `flat:foreign`: <tt>
 11	高达	高达	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No
 12	10000	10000	NUM	CD	NumType=Card	11	obj	_	_
 13	K	K	X	FW	_	12	flat:foreign	_	SpaceAfter=No
-14	的	的	PART	DEC	_	11	mark:relcl	_	SpaceAfter=No
+14	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No
 15	强烈	强烈	ADJ	JJ	_	17	amod	_	SpaceAfter=No
 16	恒星	恒星	NOUN	NN	_	17	compound	_	SpaceAfter=No
 17	风	风	PART	SFN	_	9	obj	_	SpaceAfter=No
@@ -86,7 +86,7 @@ The following 3 pairs of parts of speech are connected with `flat:foreign`: <tt>
 27	1千亿	1千亿	NUM	CD	NumType=Card	28	nummod	_	SpaceAfter=No
 28	公里	公里	NOUN	NNB	_	29	advmod	_	SpaceAfter=No
 29	高	高	ADJ	JJ	_	31	amod	_	SpaceAfter=No
-30	的	的	PART	DEC	_	29	mark:relcl	_	SpaceAfter=No
+30	的	的	PART	DEC	_	29	mark:rel	_	SpaceAfter=No
 31	震波	震波	NOUN	NN	_	25	obj	_	SpaceAfter=No
 32	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
@@ -100,7 +100,7 @@ The following 3 pairs of parts of speech are connected with `flat:foreign`: <tt>
 # visual-style 9	fgColor:white
 # visual-style 9 10 flat:foreign	color:blue
 1	目前	目前	NOUN	NN	_	3	nmod	_	SpaceAfter=No
-2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
+2	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No
 3	教堂	教堂	NOUN	NN	_	18	nsubj	_	SpaceAfter=No
 4	由	由	VERB	VV	_	18	advcl	_	SpaceAfter=No
 5	詹姆斯	詹姆斯	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No

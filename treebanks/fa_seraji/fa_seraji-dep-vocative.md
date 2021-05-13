@@ -24,7 +24,7 @@ The following 7 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 2 5 vocative	color:blue
 1	معاویه	معاویه	NOUN	N_SING	Number=Sing	2	nsubj	_	_
 2	گفت	گفت#گو	VERB	V_PA	Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
-3	:	:	PUNCT	DELM	_	2	punct	_	_
+3	:	:	PUNCT	DELM	_	5	punct	_	_
 4	ای	ای	INTJ	INT	_	5	det	_	_
 5	اباظریف	اباظریف	NOUN	N_SING	Number=Sing	2	vocative	_	SpaceAfter=No
 6	!	!	PUNCT	DELM	_	2	punct	_	_
@@ -39,7 +39,7 @@ The following 7 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 1	fgColor:white
 # visual-style 1 3 vocative	color:blue
 1	مادر	مادر	NOUN	N_SING	Number=Sing	0	root	_	SpaceAfter=No
-2	:	:	PUNCT	DELM	_	1	punct	_	_
+2	:	:	PUNCT	DELM	_	3	punct	_	_
 3	احمد	احمد	NOUN	N_SING	Number=Sing	1	vocative	_	SpaceAfter=No
 4	!	!	PUNCT	DELM	_	1	punct	_	_
 5	احمد	احمد	NOUN	N_SING	Number=Sing	1	vocative	_	SpaceAfter=No
@@ -60,11 +60,11 @@ The following 7 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 12 5 vocative	color:blue
 1	سپس	سپس	ADV	ADV	_	2	advmod	_	_
 2	گفت	گفت#گو	VERB	V_PA	Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
-3	:	:	PUNCT	DELM	_	2	punct	_	_
+3	:	:	PUNCT	DELM	_	12	punct	_	_
 4	ای	ای	INTJ	INT	_	5	det	_	_
 5	مردم	مردم	NOUN	N_SING	Number=Sing	12	vocative	_	_
 6	مدینه	مدینه	NOUN	N_SING	Number=Sing	5	nmod:poss	_	SpaceAfter=No
-7	،	،	PUNCT	DELM	_	12	punct	_	_
+7	،	،	PUNCT	DELM	_	5	punct	_	_
 8	بر	بر	ADP	P	_	9	case	_	_
 9	بیعت	بیعت	NOUN	N_SING	Number=Sing	12	nmod	_	_
 10	با	با	ADP	P	_	11	case	_	_

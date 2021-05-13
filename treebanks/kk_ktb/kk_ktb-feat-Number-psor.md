@@ -69,7 +69,7 @@ The most frequent other feature values with which `VERB` and `Number[psor]` co-o
 
 48 <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> tokens (10% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (48; 100%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (48; 100%), <tt><a href="kk_ktb-feat-PronType.html">PronType</a></tt><tt>=Ref</tt> (31; 65%), <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (25; 52%).
+The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (48; 100%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (48; 100%), <tt><a href="kk_ktb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (31; 65%), <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (25; 52%).
 
 `PRON` tokens may have the following values of `Number[psor]`:
 

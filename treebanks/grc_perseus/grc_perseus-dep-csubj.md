@@ -11,9 +11,9 @@ This relation is universal.
 455 nodes (0%) are attached to their parents as `csubj`.
 
 330 instances of `csubj` (73%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.51208791208791.
+Average distance between parent and child is 4.51868131868132.
 
-The following 8 pairs of parts of speech are connected with `csubj`: <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (336; 74% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (84; 18% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (25; 5% instances), <tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-X.html">X</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (336; 74% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (85; 19% instances), <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (25; 5% instances), <tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-X.html">X</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

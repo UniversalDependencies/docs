@@ -49,16 +49,16 @@ The following 5 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 3 obl:tmod	color:blue
-1	이와	이	PRON	PRD+CM	Case=Advb|Polite=Form	2	advmod	_	MSeg=이-와|Translit=.i.wa|LTranslit=.i
+1	이와	이	PRON	PRD+CM	Polite=Form	2	advmod	_	MSeg=이-와|Translit=.i.wa|LTranslit=.i
 2	관련해서	_	NOUN	NN	_	13	advcl	_	SpaceAfter=No|Translit=.gwan.ryeon.hae.seo|LTranslit=_
 3	토요일	_	NOUN	NN	_	13	obl:tmod	_	Translit=.to.yo.il|LTranslit=_
-4	모로코에서	모로코	PROPN	NNP+CM	Case=Advb|Polite=Form	13	advmod	_	MSeg=모로코-에서|Translit=.mo.ro.ko.e.seo|LTranslit=.mo.ro.ko
+4	모로코에서	모로코	PROPN	NNP+CM	Polite=Form	13	advmod	_	MSeg=모로코-에서|Translit=.mo.ro.ko.e.seo|LTranslit=.mo.ro.ko
 5	선진국들은	선진국들	NOUN	NN+CM	Case=Nom|Number=Plur|Polite=Form	13	nsubj	_	MSeg=선진국들-은|Translit=.seon.jin.gug.deul.eun|LTranslit=.seon.jin.gug.deul
 6	서로의	서로	NOUN	NN+CM	Case=Gen|Polite=Form	8	nmod:poss	_	MSeg=서로-의|Translit=.seo.ro.yi|LTranslit=.seo.ro
 7	계획과	계획	NOUN	NN+CP	Polite=Form	9	advmod	_	MSeg=계획-과|Translit=.gye.hoeg.gwa|LTranslit=.gye.hoeg
-8	야심에	야심	NOUN	NN+CM	Case=Advb|Polite=Form	7	conj	_	MSeg=야심-에|Translit=.ya.sim.e|LTranslit=.ya.sim
+8	야심에	야심	NOUN	NN+CM	Polite=Form	7	conj	_	MSeg=야심-에|Translit=.ya.sim.e|LTranslit=.ya.sim
 9	대해	_	VERB	VV	Form=Compl	12	advcl	_	Translit=.dae.hae|LTranslit=_
-10	공개적으로	공개적	NOUN	NN+CM	Case=Advb|Polite=Form	12	advmod	_	MSeg=공개적-으로|Translit=.gong.gae.jeog.eu.ro|LTranslit=.gong.gae.jeog
+10	공개적으로	공개적	NOUN	NN+CM	Polite=Form	12	advmod	_	MSeg=공개적-으로|Translit=.gong.gae.jeog.eu.ro|LTranslit=.gong.gae.jeog
 11	문제를	문제	NOUN	NN+CM	Case=Acc|Polite=Form	12	obj	_	MSeg=문제-를|Translit=.mun.je.reul|LTranslit=.mun.je
 12	제기하게	_	NOUN	NN	_	13	advcl	_	SpaceAfter=No|Translit=.je.gi.ha.ge|LTranslit=_
 13	되었다	_	VERB	VV	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=.doe.eoss.da|LTranslit=_

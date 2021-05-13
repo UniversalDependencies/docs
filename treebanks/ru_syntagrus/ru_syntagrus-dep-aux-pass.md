@@ -94,7 +94,7 @@ The following 5 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 27	если	если	SCONJ	_	_	29	mark	29:mark	_
 28	их	они	PRON	_	Case=Acc|Number=Plur|Person=3	29	obj	29:obj	_
 29	вынудят	вынудить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	22	advcl	22:advcl	SpaceAfter=No
-30	:	:	PUNCT	_	_	29	punct	29:punct	_
+30	:	:	PUNCT	_	_	38	punct	29:punct	_
 31	хотите	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	38	advcl	38:advcl	_
 32	топливо	топливо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	31	obj	31:obj	SpaceAfter=No
 33	,	,	PUNCT	_	_	34	punct	34:punct	_

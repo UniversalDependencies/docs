@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Jana Strnadová, Gauthier Caron, Martin Popel, Daniel Zeman, Marie-Catherine de Marneffe, Bruno Guillaume.
 
 Repository: [UD_French-PUD](https://github.com/UniversalDependencies/UD_French-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_pud27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_pud28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 3.0
 
@@ -80,11 +80,11 @@ employ ten-fold cross-validation.
 
 ## POS Tags
 
-[ADJ](fr_pud-pos-ADJ.html) – [ADP](fr_pud-pos-ADP.html) – [ADV](fr_pud-pos-ADV.html) – [AUX](fr_pud-pos-AUX.html) – [CCONJ](fr_pud-pos-CCONJ.html) – [DET](fr_pud-pos-DET.html) – [NOUN](fr_pud-pos-NOUN.html) – [NUM](fr_pud-pos-NUM.html) – [PART](fr_pud-pos-PART.html) – [PRON](fr_pud-pos-PRON.html) – [PROPN](fr_pud-pos-PROPN.html) – [PUNCT](fr_pud-pos-PUNCT.html) – [SCONJ](fr_pud-pos-SCONJ.html) – [SYM](fr_pud-pos-SYM.html) – [VERB](fr_pud-pos-VERB.html) – [X](fr_pud-pos-X.html)
+[ADJ](fr_pud-pos-ADJ.html) – [ADP](fr_pud-pos-ADP.html) – [ADV](fr_pud-pos-ADV.html) – [AUX](fr_pud-pos-AUX.html) – [CCONJ](fr_pud-pos-CCONJ.html) – [DET](fr_pud-pos-DET.html) – [NOUN](fr_pud-pos-NOUN.html) – [NUM](fr_pud-pos-NUM.html) – [PRON](fr_pud-pos-PRON.html) – [PROPN](fr_pud-pos-PROPN.html) – [PUNCT](fr_pud-pos-PUNCT.html) – [SCONJ](fr_pud-pos-SCONJ.html) – [SYM](fr_pud-pos-SYM.html) – [VERB](fr_pud-pos-VERB.html) – [X](fr_pud-pos-X.html)
 
 ## Features
 
-[Foreign](fr_pud-feat-Foreign.html) – [Gender](fr_pud-feat-Gender.html) – [Mood](fr_pud-feat-Mood.html) – [Number](fr_pud-feat-Number.html) – [Number[psor]](fr_pud-feat-Number-psor.html) – [Person](fr_pud-feat-Person.html) – [Polarity](fr_pud-feat-Polarity.html) – [Poss](fr_pud-feat-Poss.html) – [PronType](fr_pud-feat-PronType.html) – [Tense](fr_pud-feat-Tense.html) – [VerbForm](fr_pud-feat-VerbForm.html)
+[Definite](fr_pud-feat-Definite.html) – [Foreign](fr_pud-feat-Foreign.html) – [Gender](fr_pud-feat-Gender.html) – [Mood](fr_pud-feat-Mood.html) – [Number](fr_pud-feat-Number.html) – [Number[psor]](fr_pud-feat-Number-psor.html) – [Person](fr_pud-feat-Person.html) – [Polarity](fr_pud-feat-Polarity.html) – [Poss](fr_pud-feat-Poss.html) – [PronType](fr_pud-feat-PronType.html) – [Tense](fr_pud-feat-Tense.html) – [VerbForm](fr_pud-feat-VerbForm.html)
 
 ## Relations
 
@@ -94,11 +94,11 @@ employ ten-fold cross-validation.
 
 
 <ul>
-<li>This corpus contains 1000 sentences, 24137 tokens and 24734 syntactic words.</li>
+<li>This corpus contains 1000 sentences, 24131 tokens and 24726 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 3445 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 3439 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -106,11 +106,11 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 147 types of words that contain both letters and punctuation. Examples: l', d', l’, d’, qu', s', n', qu’, n’, s’, c', jusqu', c’, -il, J.-C., États-Unis, peut-être, -t, Grande-Bretagne, M., au-delà, j’, Etats-Unis, au-dessus, av., j', jusqu’, porte-parole, P​a​p​o​u​a​s​i​e​-​N​o​u​v​e​l​l​e​-​G​u​i​n​é​e, Pays-Bas, grand-mère, m’, nord-ouest, quelqu'un, -ce, -là, C.B., J-C, J.-C, Joliot-Curie, Royaume-Uni, Sud-Est, aujourd'hui, cité-état, e-mails, elle-même, lorsqu’, l‘, soi-disant, 'Ya</li>
+<li>This corpus contains 146 types of words that contain both letters and punctuation. Examples: l', d', l’, d’, qu', s', n', qu’, n’, s’, c', jusqu', c’, J.-C., États-Unis, peut-être, -il, Grande-Bretagne, -t-il, M., au-delà, j’, Etats-Unis, au-dessus, av., j', jusqu’, porte-parole, quelqu'un, Papouasie-Nouvelle-Guinée, Pays-Bas, grand-mère, m’, nord-ouest, -ce, -là, C.B., J-C, J.-C, Joliot-Curie, Royaume-Uni, Sud-Est, aujourd'hui, cité-état, e-mails, elle-même, lorsqu’, l‘, soi-disant, 'Ya</li>
 </ul>
 
 <ul>
-<li>This corpus contains 597 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>This corpus contains 595 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 5 types of multi-word tokens. Examples: du, des, au, aux, desquelles.</li>
 </ul>
 
@@ -119,16 +119,15 @@ employ ten-fold cross-validation.
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
-<li>This corpus does not use the following tags: INTJ</li>
+<li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus does not use the following tags: PART, INTJ</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2 word types tagged as particles (PART): -là, -t</li>
 </ul>
 
 <ul>
-<li>This corpus contains 29 lemmas tagged as pronouns (PRON): aucun, ce, ceci, cela, celui, elle-même, en, eux-mêmes, il, je, le, lequel, lui, lui-même, me, on, que, quel, quelqu'un, quelqu’un, qui, quoi, rien, se, sienne, soi, sse, y, ça</li>
+<li>This corpus contains 25 lemmas tagged as pronouns (PRON): aucun, ce, ceci, cela, celui, certain, en, il, le, lequel, lui, lui-même, on, personne, que, quelqu'un, qui, quoi, rien, se, sienne, soi, un, y, ça</li>
 </ul>
 
 <ul>
@@ -136,7 +135,7 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>Out of the above, 4 lemmas occurred sometimes as PRON and sometimes as DET: aucun, ce, le, quel</li>
+<li>Out of the above, 4 lemmas occurred sometimes as PRON and sometimes as DET: aucun, ce, le, un</li>
 </ul>
 
 <ul>
@@ -189,13 +188,13 @@ employ ten-fold cross-validation.
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: première, grande, nouvelle, plusieurs, dernière, dernières, nombreuses, nouvelles, autres, deuxième</li>
+      <li>ADJ: première, grande, nouvelle, dernière, dernières, plusieurs, nombreuses, nouvelles, autres, deuxième</li>
       <li>ADJ-Part: issues, ouverte</li>
       <li>ADP: dont</li>
       <li>DET: la, les, une, l', l’, sa, des, cette, leur, ses</li>
       <li>NOUN: années, guerre, partie, ville, année, fois, mer, personnes, région, histoire</li>
-      <li>PRON: qui, elle, se, s', elles, s’, l', laquelle, que, celle</li>
-      <li>PROPN: Chine, Amérique, Europe, Australie, France, Italie, Afrique, Albanie, Grande-Bretagne, Méditerranée</li>
+      <li>PRON: elle, se, s', elles, s’, l', laquelle, celle, lesquelles, lui</li>
+      <li>PROPN: Chine, Amérique, Europe, Australie, France, Italie, Afrique, Albanie, Caraïbes, Grande-Bretagne</li>
       <li>SCONJ: que</li>
       <li>VERB-Part: composée, dirigée, apparue, devenue, utilisée, considérée, considérées, déroulée, détruite, faite</li>
     </ul>
@@ -205,14 +204,14 @@ employ ten-fold cross-validation.
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: autres, grand, général, nouveaux, plusieurs, certains, nouveau, chaque, dernier, nombreux</li>
+      <li>ADJ: autres, grand, dernier, derniers, général, nouveaux, plusieurs, certains, nouveau, chaque</li>
       <li>ADJ-Part: issu, issus</li>
       <li>ADP: dont, au-delà</li>
       <li>AUX-Part: été, fait</li>
       <li>DET: le, les, un, l', des, l’, son, ce, ses, ces</li>
       <li>NOUN: ans, nord, état, gouvernement, siècle, jour, monde, pays, sud, temps</li>
       <li>NUM: 1er, premier</li>
-      <li>PRON: il, qui, ils, se, s', lui, le, -il, s’, eux</li>
+      <li>PRON: il, ils, se, s', lui, le, s’, un, eux, je</li>
       <li>PROPN: Trump, J.-C., États-Unis, Joseph, Donald, Gerry, Cameroun, Edgar, Mexique, Rafferty</li>
       <li>VERB-Part: eu, déclaré, dit, fait, commencé, indiqué, décidé, joué, utilisé, compris</li>
       <li>X: Garden</li>
@@ -228,14 +227,14 @@ employ ten-fold cross-validation.
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: autres, plusieurs, nouveaux, certains, dernières, nombreuses, nouvelles, nombreux, quelques, telles</li>
+      <li>ADJ: autres, plusieurs, derniers, nouveaux, dernières, certains, nombreuses, nouvelles, nombreux, quelques</li>
       <li>ADJ-Part: issues, issus</li>
       <li>ADP: dont</li>
       <li>AUX-Fin: ont, sont, avaient, étaient, furent, aient, auraient, avons, sommes, soient</li>
       <li>DET: les, des, ses, ces, de, leurs, d', nos, d’, mes</li>
       <li>NOUN: années, ans, personnes, millions, entreprises, dollars, jours, euros, femmes, gens</li>
-      <li>PRON: qui, ils, nous, se, vous, eux, elles, s', ceux, lesquelles</li>
-      <li>PROPN: États-Unis, Caraïbes, Alpes, Andes, Pays-Bas, Antilles, Balkans, Boeing, Forums, News</li>
+      <li>PRON: ils, nous, se, vous, eux, elles, s', ceux, lesquelles, en</li>
+      <li>PROPN: États-Unis, Caraïbes, Alpes, Andes, Antilles, Pays-Bas, Balkans, Boeing, Forums, News</li>
       <li>SCONJ: que</li>
       <li>VERB-Fin: peuvent, sont, ont, pourraient, étaient, devons, font, avaient, commencent, devraient</li>
       <li>VERB-Part: inscrits, arrivés, considérées, construits, dirigés, domestiqués, oubliés, placés, rendues, suivies</li>
@@ -247,7 +246,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: première, chaque, grand, grande, nouvelle, britannique, autre, général, même, deuxième</li>
+      <li>ADJ: première, chaque, grand, grande, nouvelle, britannique, dernier, dernière, autre, deuxième</li>
       <li>ADJ-Part: issu, ouverte</li>
       <li>ADP: dont, au-delà</li>
       <li>AUX-Fin: a, est, était, avait, fut, ai, soit, aurait, serait, sera</li>
@@ -255,7 +254,7 @@ employ ten-fold cross-validation.
       <li>DET: le, la, l', un, une, l’, son, sa, cette, leur</li>
       <li>NOUN: guerre, partie, ville, nord, année, état, sud, gouvernement, mer, siècle</li>
       <li>NUM: 1er, premier</li>
-      <li>PRON: il, qui, elle, se, on, je, s', lui, s’, le</li>
+      <li>PRON: il, elle, se, on, je, s', lui, s’, le, l'</li>
       <li>PROPN: Chine, Hong, Kong, Paris, Trump, Pékin, J.-C., Amérique, Europe, Londres</li>
       <li>VERB-Fin: a, est, peut, avait, pourrait, était, va, devrait, dit, semble</li>
       <li>VERB-Part: eu, déclaré, dit, fait, commencé, indiqué, décidé, joué, utilisé, compris</li>
@@ -266,6 +265,25 @@ employ ten-fold cross-validation.
 
 
 
+<ul>
+  <li><a>Definite</a></li>
+</ul>
+
+<ul>
+  <li>Def
+    <ul>
+      <li>DET: le, la, les, l', l’, l‘</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: un, une, des, de, d', du</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
@@ -384,10 +402,43 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
+  <li>Art
+    <ul>
+      <li>DET: le, la, les, l', un, une, des, l’, de, d'</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Dem
+    <ul>
+      <li>PRON: ce, c', cela, c’, ça, ceci, ceux, -ce, ca, celle</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>PRON: on, un, quelqu'un, -t-on, certaines</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Int
+    <ul>
+      <li>DET: quelle</li>
+      <li>PRON: qui, quoi, que, lequel</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Neg
     <ul>
       <li>DET: aucun, aucune</li>
-      <li>PRON: aucun</li>
+      <li>PRON: rien, aucun, personne</li>
     </ul>
   </li>
 </ul>
@@ -396,7 +447,15 @@ employ ten-fold cross-validation.
   <li>Prs
     <ul>
       <li>DET: son, sa, ses, leur, leurs, notre, nos, mon, votre, ma</li>
-      <li>PRON: sienne</li>
+      <li>PRON: il, se, elle, ils, y, s', je, nous, lui, s’</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Rel
+    <ul>
+      <li>PRON: qui, que, qu', laquelle, lesquelles, lequel, qu’</li>
     </ul>
   </li>
 </ul>
@@ -446,7 +505,7 @@ employ ten-fold cross-validation.
     <ul>
       <li>AUX-Fin: a, est, ont, sont, était, avait, fut, avaient, étaient, furent</li>
       <li>DET: son, sa, ses, leur, leurs, sar</li>
-      <li>PRON: il, y, se, elle, ils, s', on, s’, lui, le</li>
+      <li>PRON: il, se, elle, ils, y, s', on, lui, s’, le</li>
       <li>VERB-Fin: a, est, peut, avait, pourrait, était, peuvent, sont, ont, pourraient</li>
     </ul>
   </li>
@@ -508,11 +567,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (362)</li>
-      <li>VERB-Fin--PRON (331)</li>
+      <li>VERB-Fin--NOUN (360)</li>
+      <li>VERB-Fin--PRON (333)</li>
       <li>VERB-Inf--NOUN (1)</li>
-      <li>VERB-Part--NOUN (190)</li>
-      <li>VERB-Part--PRON (134)</li>
+      <li>VERB-Part--NOUN (183)</li>
+      <li>VERB-Part--PRON (137)</li>
     </ul>
   </li>
 </ul>
@@ -520,11 +579,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (319)</li>
+      <li>VERB-Fin--NOUN (318)</li>
       <li>VERB-Fin--PRON (108)</li>
       <li>VERB-Inf--NOUN (231)</li>
       <li>VERB-Inf--PRON (53)</li>
-      <li>VERB-Part--NOUN (251)</li>
+      <li>VERB-Part--NOUN (250)</li>
       <li>VERB-Part--PRON (60)</li>
     </ul>
   </li>

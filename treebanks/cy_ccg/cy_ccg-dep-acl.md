@@ -9,53 +9,47 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="cy_ccg-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-569 nodes (2%) are attached to their parents as `acl`.
+631 nodes (2%) are attached to their parents as `acl`.
 
-549 instances of `acl` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.99824253075571.
+608 instances of `acl` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.98573692551506.
 
-The following 12 pairs of parts of speech are connected with `acl`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (471; 83% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (54; 9% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (17; 3% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (10; 2% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `acl`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (511; 81% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (66; 10% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (21; 3% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (13; 2% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 6 acl	color:blue
-1	Mae	bod	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	cop	_	SpaceAfter=No
-2	'n	yn	PART	pred	_	3	case:pred	_	_
-3	rhaid	rhaid	NOUN	noun	Gender=Masc|Number=Sing	0	root	_	_
-4	i	i	ADP	prep	_	5	case	_	_
-5	ti	ti	PRON	indep	Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
-6	ddod	dod	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	3	acl	_	_
-7	cyn	cyn	ADP	prep	_	8	case	_	_
-8	yfory	yfory	ADV	adv	_	6	advmod	_	SpaceAfter=No
-9	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\n
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 7 acl	color:blue
+1	Ond	ond	CCONJ	cconj	_	3	cc	_	_
+2	nid	ni	PART	neg	_	3	advmod	_	_
+3	oes	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	rhaid	rhaid	NOUN	noun	Gender=Masc|Number=Sing	3	nsubj	_	_
+5	i	i	ADP	iprep	_	6	case	_	_
+6	e	e	PRON	indep	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
+7	fod	bod	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	4	acl	_	SpaceAfter=No
+8	.	.	PUNCT	punct	_	3	punct	_	SpacesAfter=\n
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 9 acl	color:blue
-1	Mae	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
-2	gan	gan	ADP	prep	_	4	case	_	_
-3	y	y	DET	art	_	4	det	_	_
-4	ddinas	dinas	NOUN	noun	Gender=Fem|Mutation=SM|Number=Sing	1	obl	_	_
-5	stryd	stryd	NOUN	noun	Gender=Fem|Number=Sing	1	nsubj	_	_
-6	fawr	mawr	ADJ	pos	Degree=Pos|Mutation=SM	5	amod	_	_
-7	hir	hir	ADJ	pos	Degree=Pos	5	amod	_	_
-8	lle	lle	ADV	adv	_	9	advmod	_	_
-9	mae	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	acl	_	_
-10	nifer	nifer	NOUN	noun	Gender=Masc|Number=Sing	9	nsubj	_	_
-11	o	o	ADP	prep	_	12	case	_	_
-12	siopau	siop	NOUN	noun	Gender=Masc|Number=Plur	10	nmod	_	_
-13	bach	bach	ADJ	pos	Degree=Pos|Gender=Masc|Number=Sing	12	amod	_	SpaceAfter=No
-14	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 5 acl	color:blue
+1	Faint	maint	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	0	root	_	_
+2	o	o	ADP	prep	_	4	case	_	SpaceAfter=No
+3	'r	y	DET	art	_	4	det	_	_
+4	rhain	rhain	PRON	dem	Number=Plur|PronType=Dem	1	nmod	_	_
+5	allwch	gallu	VERB	verb	Mood=Ind|Mutation=SM|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	1	acl	_	_
+6	chi	chi	PRON	indep	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	_
+7	eu	hwy	PRON	dep	Number=Plur|Person=3|PronType=Prs	8	obj	_	_
+8	darganfod	darganfod	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	5	xcomp	_	SpaceAfter=No
+9	?	?	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
 
 ~~~
 
@@ -66,7 +60,7 @@ The following 12 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 8 acl	color:blue
-1	Mae	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+1	Mae	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	2018	2018	NUM	num	_	1	nsubj	_	_
 3	wedi	wedi	AUX	ante	_	6	aux	_	_
 4	bod	bod	AUX	verbnoun	Number=Sing|VerbForm=Vnoun	6	cop	_	_
@@ -75,7 +69,7 @@ The following 12 pairs of parts of speech are connected with `acl`: <tt><a href=
 7	gyda	gyda	ADP	prep	_	8	case	_	_
 8	mwy	mawr	ADJ	cmp	Degree=Cmp	6	acl	_	_
 9	na	na	ADP	prep	_	11	case	_	SpaceAfter=No
-10	'i	ei	PRON	dep	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	_
+10	'i	ef	PRON	dep	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	nmod:poss	_	_
 11	siâr	siâr	NOUN	noun	Gender=Masc|Number=Sing	8	obl	_	_
 12	o	o	ADP	prep	_	13	case	_	_
 13	bontydd	pont	NOUN	noun	Gender=Fem|Mutation=SM|Number=Plur	11	nmod	_	SpaceAfter=No

@@ -11,7 +11,7 @@ This relation is universal.
 139 nodes (1%) are attached to their parents as `dislocated`.
 
 139 instances of `dislocated` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.03597122302158.
+Average distance between parent and child is 5.02877697841727.
 
 The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (121; 87% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (12; 9% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_fqb-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 

@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>che</em> (<tt><a href="it_vit-pos-PRO
 * <em>come</em>
   * <tt><a href="it_vit-pos-ADP.html">ADP</a></tt> 370: <em>È <b>come</b> un' energia che sta crescendo complessivamente " .</em>
   * <tt><a href="it_vit-pos-CCONJ.html">CCONJ</a></tt> 119: <em>Sarebbe <b>come</b> appaltare la giustizia a i privati .</em>
-  * <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt> 63: <em>Non gliela la lasciarono fare <b>come</b> l' aveva immaginata .</em>
+  * <tt><a href="it_vit-pos-SCONJ.html">SCONJ</a></tt> 63: <em>Non glie la lasciarono fare <b>come</b> l' aveva immaginata .</em>
   * <tt><a href="it_vit-pos-PRON.html">PRON</a></tt> 13: <em>Ma la musica italiana Caetano <b>come</b> l' ha scoperta ?</em>
   * <tt><a href="it_vit-pos-ADV.html">ADV</a></tt> 6: <em>E i depositi in banca , non mi spiegai <b>come</b> , completamente esauriti .</em>
   * <tt><a href="it_vit-pos-INTJ.html">INTJ</a></tt> 1: <em>Occorre ricordare anzitutto che l' effetto maggioritario di la nuova legge elettorale c' è stato , e <b>come</b> .</em>
@@ -79,7 +79,7 @@ The 10 most frequent ambiguous types:  <em>che</em> (<tt><a href="it_vit-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.020833 (the average of all parts of speech is 1.499005).
+The form / lemma ratio of `SCONJ` is 1.020833 (the average of all parts of speech is 1.499345).
 
 The 1st highest number of forms (2) was observed with the lemma “come”: <em>com', come</em>.
 

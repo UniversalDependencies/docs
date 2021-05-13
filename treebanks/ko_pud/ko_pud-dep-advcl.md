@@ -23,9 +23,9 @@ The following 29 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 9	fgColor:white
 # visual-style 9 6 advcl	color:blue
 1	타당성	_	NOUN	NN	_	2	compound	_	Translit=.ta.dang.seong|LTranslit=_
-2	조사에	조사	NOUN	NN+CM	Case=Advb|Polite=Form	3	advmod	_	MSeg=조사-에|Translit=.jo.sa.e|LTranslit=.jo.sa
+2	조사에	조사	NOUN	NN+CM	Polite=Form	3	advmod	_	MSeg=조사-에|Translit=.jo.sa.e|LTranslit=.jo.sa
 3	따르면	_	VERB	VV	Form=Compl	16	advcl	_	Translit=.dda.reu.myeon|LTranslit=_
-4	곤돌라에	곤돌라	NOUN	NN+CM	Case=Advb|Polite=Form	6	advmod	_	MSeg=곤돌라-에|Translit=.gon.dol.ra.e|LTranslit=.gon.dol.ra
+4	곤돌라에	곤돌라	NOUN	NN+CM	Polite=Form	6	advmod	_	MSeg=곤돌라-에|Translit=.gon.dol.ra.e|LTranslit=.gon.dol.ra
 5	승객을	승객	NOUN	NN+CM	Case=Acc|Polite=Form	6	obj	_	MSeg=승객-을|Translit=.seung.gaeg.eul|LTranslit=.seung.gaeg
 6	태우고	_	VERB	VV	Form=Compl|Voice=Cau	9	advcl	_	Translit=.tae.u.go|LTranslit=_
 7	포토맥	_	PROPN	NNP	_	8	compound	_	Translit=.po.to.maeg|LTranslit=_
@@ -36,7 +36,7 @@ The following 29 pairs of parts of speech are connected with `advcl`: <tt><a hre
 12	4	4	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=4|LTranslit=_
 13	분이	분	NOUN	NNB+CM	Case=Nom|Polite=Form	14	nsubj:pass	_	MSeg=분-이|Translit=.bun.i|LTranslit=.bun
 14	소요될	_	NOUN	NN	_	15	dep	_	SpaceAfter=No|Translit=.so.yo.doel|LTranslit=_
-15	것으로	것	NOUN	NNB+CM	Case=Advb|Polite=Form	16	advmod	_	MSeg=것-으로|Translit=.geos.eu.ro|LTranslit=.geos
+15	것으로	것	NOUN	NNB+CM	Polite=Form	16	advmod	_	MSeg=것-으로|Translit=.geos.eu.ro|LTranslit=.geos
 16	추정된다	_	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=.chu.jeong.doen.da|LTranslit=_
 17	.	.	PUNCT	.	_	16	punct	_	Translit=.|LTranslit=_
 
@@ -54,7 +54,7 @@ The following 29 pairs of parts of speech are connected with `advcl`: <tt><a hre
 3	중	_	NOUN	NNB	_	5	compound	_	Translit=.jung|LTranslit=_
 4	한	_	DET	DT	_	5	nummod	_	Translit=.han|LTranslit=_
 5	명이	명	NOUN	NNB+CM	Case=Nom|Polite=Form	8	nsubj	_	MSeg=명-이|Translit=.myeong.i|LTranslit=.myeong
-6	처음으로	처음	NOUN	NN+CM	Case=Advb|Polite=Form	8	advmod	_	MSeg=처음-으로|Translit=.cheo.eum.eu.ro|LTranslit=.cheo.eum
+6	처음으로	처음	NOUN	NN+CM	Polite=Form	8	advmod	_	MSeg=처음-으로|Translit=.cheo.eum.eu.ro|LTranslit=.cheo.eum
 7	울기	_	VERB	VV	VerbForm=Ger	8	ccomp	_	Translit=.ul.gi|LTranslit=_
 8	시작했고	_	NOUN	NN	_	15	advcl	_	SpaceAfter=No|Translit=.si.jag.haess.go|LTranslit=_
 9	그	_	DET	DT	_	10	det	_	Translit=.geu|LTranslit=_
@@ -77,9 +77,9 @@ The following 29 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 16	fgColor:white
 # visual-style 16 3 advcl	color:blue
 1	타당성	_	NOUN	NN	_	2	compound	_	Translit=.ta.dang.seong|LTranslit=_
-2	조사에	조사	NOUN	NN+CM	Case=Advb|Polite=Form	3	advmod	_	MSeg=조사-에|Translit=.jo.sa.e|LTranslit=.jo.sa
+2	조사에	조사	NOUN	NN+CM	Polite=Form	3	advmod	_	MSeg=조사-에|Translit=.jo.sa.e|LTranslit=.jo.sa
 3	따르면	_	VERB	VV	Form=Compl	16	advcl	_	Translit=.dda.reu.myeon|LTranslit=_
-4	곤돌라에	곤돌라	NOUN	NN+CM	Case=Advb|Polite=Form	6	advmod	_	MSeg=곤돌라-에|Translit=.gon.dol.ra.e|LTranslit=.gon.dol.ra
+4	곤돌라에	곤돌라	NOUN	NN+CM	Polite=Form	6	advmod	_	MSeg=곤돌라-에|Translit=.gon.dol.ra.e|LTranslit=.gon.dol.ra
 5	승객을	승객	NOUN	NN+CM	Case=Acc|Polite=Form	6	obj	_	MSeg=승객-을|Translit=.seung.gaeg.eul|LTranslit=.seung.gaeg
 6	태우고	_	VERB	VV	Form=Compl|Voice=Cau	9	advcl	_	Translit=.tae.u.go|LTranslit=_
 7	포토맥	_	PROPN	NNP	_	8	compound	_	Translit=.po.to.maeg|LTranslit=_
@@ -90,7 +90,7 @@ The following 29 pairs of parts of speech are connected with `advcl`: <tt><a hre
 12	4	4	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=4|LTranslit=_
 13	분이	분	NOUN	NNB+CM	Case=Nom|Polite=Form	14	nsubj:pass	_	MSeg=분-이|Translit=.bun.i|LTranslit=.bun
 14	소요될	_	NOUN	NN	_	15	dep	_	SpaceAfter=No|Translit=.so.yo.doel|LTranslit=_
-15	것으로	것	NOUN	NNB+CM	Case=Advb|Polite=Form	16	advmod	_	MSeg=것-으로|Translit=.geos.eu.ro|LTranslit=.geos
+15	것으로	것	NOUN	NNB+CM	Polite=Form	16	advmod	_	MSeg=것-으로|Translit=.geos.eu.ro|LTranslit=.geos
 16	추정된다	_	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=.chu.jeong.doen.da|LTranslit=_
 17	.	.	PUNCT	.	_	16	punct	_	Translit=.|LTranslit=_
 

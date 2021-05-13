@@ -20,7 +20,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="id_csui-pos-NOUN.ht
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (68; 1% of non-empty `Number`): <em>langkah-langkah, negara-negara, bank-bank, syarat-syarat, anak-anak, monyet-monyet, nama-nama, obligasi-obligasi, peringkat-peringkat, p​e​r​u​s​a​h​a​a​n​-​p​e​r​u​s​a​h​a​a​n</em>
+* `Plur` (68; 1% of non-empty `Number`): <em>langkah-langkah, negara-negara, bank-bank, syarat-syarat, anak-anak, monyet-monyet, nama-nama, obligasi-obligasi, peringkat-peringkat, perusahaan-perusahaan</em>
 * `Sing` (7581; 99% of non-empty `Number`): <em>persen, Rp, tahun, dolar, sebesar, saham, perusahaan, pemerintah, negara, pertumbuhan</em>
 * `EMPTY` (12): <em>Demikian, kesulitan, musiman, patungan, Olahraga</em>
 

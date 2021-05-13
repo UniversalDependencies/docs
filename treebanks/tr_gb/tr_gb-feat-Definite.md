@@ -48,7 +48,7 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 `PRON` tokens may have the following values of `Definite`:
 
 * `Def` (1; 100% of non-empty `Definite`): <em>o</em>
-* `EMPTY` (1073): <em>ben, sen, ne, burada, bana, benim, biz, kendi, o, onlar</em>
+* `EMPTY` (1070): <em>ben, sen, ne, burada, bana, benim, biz, kendi, o, onlar</em>
 
 ## Relations with Agreement in `Definite`
 

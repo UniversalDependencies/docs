@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-PUD: POS Tags: `AUX`
 
 There are 3 `AUX` lemmas (0%), 40 `AUX` types (1%) and 1028 `AUX` tokens (4%).
-Out of 16 observed tags, the rank of `AUX` is: 15 in number of lemmas, 10 in number of types and 10 in number of tokens.
+Out of 15 observed tags, the rank of `AUX` is: 15 in number of lemmas, 10 in number of types and 10 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>être, avoir, faire</em>
 
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="fr_pud-pos-AUX.h
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 13.333333 (the average of all parts of speech is 1.295763).
+The form / lemma ratio of `AUX` is 13.333333 (the average of all parts of speech is 1.297529).
 
 The 1st highest number of forms (20) was observed with the lemma “être”: <em>est, furent, fussent, fut, sera, serais, serait, seront, soient, soit, sommes, sont, suis, étaient, étais, était, étant, étions, été, être</em>.
 
@@ -76,7 +76,7 @@ Examples: <em>a, est, fait</em>
 
 `AUX` nodes are attached to their parents using 4 different relations: <tt><a href="fr_pud-dep-aux-tense.html">aux:tense</a></tt> (568; 55% instances), <tt><a href="fr_pud-dep-cop.html">cop</a></tt> (226; 22% instances), <tt><a href="fr_pud-dep-aux-pass.html">aux:pass</a></tt> (225; 22% instances), <tt><a href="fr_pud-dep-aux-caus.html">aux:caus</a></tt> (9; 1% instances)
 
-Parents of `AUX` nodes belong to 7 different parts of speech: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (788; 77% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (120; 12% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (102; 10% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 7 different parts of speech: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (789; 77% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (124; 12% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (96; 9% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (12; 1% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 
 1028 (100%) `AUX` nodes are leaves.
 

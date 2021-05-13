@@ -118,7 +118,7 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 17	проехать	проехать	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	20	xcomp	_	_
 18	к	к	ADP	IN	_	19	case	_	_
 19	которому	который	PRON	AWP	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	17	obl	_	_
-20	можно	можно	VERB	PRED	Degree=Pos	12	acl:relcl	_	_
+20	можно	можно	VERB	PRED	_	12	acl:relcl	_	_
 21	было	быть	AUX	VBC	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	20	aux	_	_
 22	только	только	PART	UH	_	24	advmod	_	_
 23	через	через	ADP	IN	_	24	case	_	_

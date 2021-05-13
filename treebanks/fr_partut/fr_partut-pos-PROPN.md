@@ -46,7 +46,7 @@ The 10 most frequent ambiguous types:  <em>CE</em> (<tt><a href="fr_partut-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.366035).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.409310).
 
 The 1st highest number of forms (2) was observed with the lemma “De”: <em>DE, De</em>.
 
@@ -61,7 +61,7 @@ The 3rd highest number of forms (1) was observed with the lemma “A5-0108”: <
 
 `PROPN` nodes are attached to their parents using 13 different relations: <tt><a href="fr_partut-dep-nmod.html">nmod</a></tt> (224; 47% instances), <tt><a href="fr_partut-dep-flat-name.html">flat:name</a></tt> (60; 13% instances), <tt><a href="fr_partut-dep-flat.html">flat</a></tt> (54; 11% instances), <tt><a href="fr_partut-dep-obl.html">obl</a></tt> (39; 8% instances), <tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt> (34; 7% instances), <tt><a href="fr_partut-dep-conj.html">conj</a></tt> (29; 6% instances), <tt><a href="fr_partut-dep-obj.html">obj</a></tt> (11; 2% instances), <tt><a href="fr_partut-dep-appos.html">appos</a></tt> (10; 2% instances), <tt><a href="fr_partut-dep-nsubj-pass.html">nsubj:pass</a></tt> (5; 1% instances), <tt><a href="fr_partut-dep-xcomp.html">xcomp</a></tt> (5; 1% instances), <tt><a href="fr_partut-dep-root.html">root</a></tt> (3; 1% instances), <tt><a href="fr_partut-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-obl-agent.html">obl:agent</a></tt> (1; 0% instances)
 
-Parents of `PROPN` nodes belong to 8 different parts of speech: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (278; 58% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (81; 17% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (80; 17% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (22; 5% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (8; 2% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (3; 1% instances),  (3; 1% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (1; 0% instances)
+Parents of `PROPN` nodes belong to 8 different parts of speech: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (278; 58% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (81; 17% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (81; 17% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (22; 5% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (8; 2% instances),  (3; 1% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 
 208 (44%) `PROPN` nodes are leaves.
 

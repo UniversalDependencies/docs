@@ -52,7 +52,7 @@ The following 2 pairs of parts of speech are connected with `list`: <tt><a href=
 28	անմիջականորեն	անմիջականորեն	ADV	_	_	29	advmod	_	Translit=anmiǰakanoren|LTranslit=anmiǰakanoren
 29	կապված	կապվել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	3	ccomp	_	Translit=kapvaç|LTranslit=kapvel
 30	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	29	aux	_	Translit=en|LTranslit=em
-31	սույն	սույն	DET	_	Distance=Prox|PronType=Dem	32	det	_	Translit=sowyn|LTranslit=sowyn
+31	սույն	սույն	DET	_	Deixis=Prox|PronType=Dem	32	det	_	Translit=sowyn|LTranslit=sowyn
 32	որոշման	որոշում	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	34	nmod:poss	_	Translit=orošman|LTranslit=orošowm
 33	1-ին	1-ին	ADJ	_	NumForm=Digit|NumType=Ord	34	amod	_	Translit=1-in|LTranslit=1-in
 34	կետում	կետ	NOUN	_	Animacy=Nhum|Case=Loc|Definite=Ind|Number=Sing	35	obl	_	Translit=ketowm|LTranslit=ket
@@ -61,7 +61,7 @@ The following 2 pairs of parts of speech are connected with `list`: <tt><a href=
 37	իրականացման	իրականացում	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	29	obl	_	Translit=irakanac’man|LTranslit=irakanac’owm
 38	հետ	հետ	ADP	_	AdpType=Post	37	case	_	Translit=het|LTranslit=het
 39	և	և	CCONJ	_	_	42	cc	_	Translit=ew|LTranslit=ew
-40	դրա	դա	PRON	_	Case=Gen|Distance=Med|Number=Sing|PronType=Dem	42	obl	_	Translit=dra|LTranslit=da
+40	դրա	դա	PRON	_	Case=Gen|Deixis=Med|Number=Sing|PronType=Dem	42	obl	_	Translit=dra|LTranslit=da
 41	համար	համար	ADP	_	AdpType=Post	40	case	_	Translit=hamar|LTranslit=hamar
 42	ունեն	ունեմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	29	conj	_	Translit=ownen|LTranslit=ownem
 43	զգալի	զգալի	ADJ	_	Degree=Pos	44	amod	_	Translit=zgali|LTranslit=zgali

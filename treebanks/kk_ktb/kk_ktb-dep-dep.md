@@ -31,7 +31,7 @@ The following 11 pairs of parts of speech are connected with `dep`: <tt><a href=
 7	жылда	жыл	NOUN	n	Case=Loc	9	obl	_	_
 8	жүзеге	жүзеге	X	x	_	9	dep	_	_
 9	асыру	асыр	VERB	v	Case=Nom|VerbForm=Ger	10	csubj	_	_
-10	жоспарланып	жоспарла	VERB	v	Aspect=Perf|VerbForm=Cov|Voice=Pass	0	root	_	_
+10	жоспарланып	жоспарла	VERB	v	Aspect=Perf|VerbForm=Inf|Voice=Pass	0	root	_	_
 11	отыр	отыр	AUX	vaux	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	SpaceAfter=No
 12	.	.	PUNCT	sent	_	10	punct	_	_
 
@@ -47,7 +47,7 @@ The following 11 pairs of parts of speech are connected with `dep`: <tt><a href=
 1	Мұның	бұл	PRON	prn	Case=Gen|PronType=Dem	3	nmod:poss	_	_
 2	жарқын	жарқын	ADJ	adj	_	3	amod	_	_
 3	дәлелі	дәлел	NOUN	n	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	7	nsubj	_	_
-4	–	–	PUNCT	guio	_	7	punct	_	_
+4	–	–	PUNCT	guio	_	3	punct	_	_
 5	жұмыс	жұмыс	X	x	_	6	dep	_	_
 6	берушілердің	беруші	NOUN	n	Case=Gen|Number=Plur	7	nmod:poss	_	_
 7	бағасы	баға	NOUN	n	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	0	root	_	SpaceAfter=No
@@ -64,13 +64,13 @@ The following 11 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 2 1 dep	color:blue
 1	Жыл	жыл	X	x	_	2	dep	_	_
 2	сайын	сайын	ADV	adv	_	5	compound	_	SpaceAfter=No
-3	,	,	PUNCT	cm	_	5	punct	_	_
+3	,	,	PUNCT	cm	_	2	punct	_	_
 4	ай	ай	X	x	_	5	dep	_	_
 5	сайын	сайын	ADV	adv	_	9	advmod	_	_
 6	жаңа	жаңа	ADJ	adj	_	7	amod	_	_
 7	ғимараттар	ғимарат	NOUN	n	Case=Nom|Number=Plur	9	nsubj	_	_
 8	іске	іске	X	x	_	9	dep	_	_
-9	қосылып	қос	VERB	v	Aspect=Perf|VerbForm=Cov|Voice=Pass	0	root	_	_
+9	қосылып	қос	VERB	v	Aspect=Perf|VerbForm=Inf|Voice=Pass	0	root	_	_
 10	жатыр	жат	AUX	vaux	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	SpaceAfter=No
 11	.	.	PUNCT	sent	_	9	punct	_	_
 

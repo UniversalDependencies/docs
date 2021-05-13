@@ -24,7 +24,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 * `Acc` (2252; 24% of non-empty `Case`): <em>seg, dei, oss, meg, han, henne, deg, ho, dykk, kån</em>
 * `Nom` (7049; 76% of non-empty `Case`): <em>han, eg, dei, vi, ho, me, du, de, man, ha</em>
-* `EMPTY` (13498): <em>det, som, ein, dette, kva, noko, sin, sine, sitt, si</em>
+* `EMPTY` (13501): <em>det, som, ein, dette, kva, noko, sin, sine, sitt, si</em>
 
 <table>
   <tr><th>Paradigm <i>dei</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -51,7 +51,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 `PROPN` tokens may have the following values of `Case`:
 
 * `Gen` (337; 100% of non-empty `Case`): <em>Guds, Noregs, Breiviks, Høgres, Parkinsons, Europas, Paulus', Hitlers, Venstres, Tysklands</em>
-* `EMPTY` (13966): <em>Noreg, Førde, Språkrådet, Sogn, Fjordane, Oslo, Kviteseid, Høgre, Helse, Tyskland</em>
+* `EMPTY` (13965): <em>Noreg, Førde, Språkrådet, Sogn, Fjordane, Oslo, Kviteseid, Høgre, Helse, Tyskland</em>
 
 `Case` seems to be **lexical feature** of `PROPN`. 100% lemmas (181) occur only with one value of `Case`.
 
@@ -59,12 +59,12 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 18 <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="no_nynorsk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (18; 100%), <tt><a href="no_nynorsk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="no_nynorsk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15; 83%), <tt><a href="no_nynorsk-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (12; 67%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="no_nynorsk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (18; 100%), <tt><a href="no_nynorsk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (18; 100%), <tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15; 83%), <tt><a href="no_nynorsk-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (12; 67%).
 
 `ADJ` tokens may have the following values of `Case`:
 
 * `Gen` (18; 100% of non-empty `Case`): <em>liks, enkeltes, intellektuelles, kristnes, mogleges, rettes, tilsettes</em>
-* `EMPTY` (29083): <em>meir, mange, fleire, mykje, nye, store, heile, godt, heilt, norske</em>
+* `EMPTY` (27131): <em>meir, mange, fleire, mykje, nye, store, heile, godt, heilt, norske</em>
 
 ### `DET`
 

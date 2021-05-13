@@ -44,9 +44,9 @@ The following 20 pairs of parts of speech are connected with `advmod:emph`: <tt>
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 advmod:emph	color:blue
-1	Kendinize	kendi	PRON	Reflex	Case=Dat|Number=Plur|Number[psor]=Plur|Person=2|Person[psor]=2|Voice=Rfl	6	obl	_	_
+1	Kendinize	kendi	PRON	Reflex	_	6	obl	_	_
 2	açıklık	açıklık	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	amod	_	_
-3	bir	bir	DET	ANum	NumType=Card	4	det	_	_
+3	bir	bir	DET	ANum	_	4	det	_	_
 4	alan	alan	VERB	Verb	Case=Nom|Number=Sing|Person=3	6	obj	_	_
 5	da	da	CCONJ	Conj	_	4	advmod:emph	_	_
 6	buldunuz	bul	VERB	Verb	Aspect=Perf|Evident=Fh|Number=Plur|Person=2|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
@@ -62,9 +62,9 @@ The following 20 pairs of parts of speech are connected with `advmod:emph`: <tt>
 # visual-style 7	fgColor:white
 # visual-style 7 8 advmod:emph	color:blue
 1	Sonuçta	sonuç	NOUN	Noun	Case=Loc|Number=Sing|Person=3	9	obl	_	_
-2	kimi	kimi	DET	Det	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	3	det	_	_
+2	kimi	kimi	DET	Det	_	3	det	_	_
 3	firmalar	firma	NOUN	Noun	Case=Nom|Number=Plur|Person=3	4	nsubj	_	_
-4	elenirken	ele	VERB	Verb	Aspect=Hab|Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Aor|VerbForm=Conv|Voice=Pass	9	advcl	_	SpaceAfter=No
+4	elenirken	ele	VERB	Verb	Aspect=Hab|Mood=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Conv|Voice=Pass	9	advcl	_	SpaceAfter=No
 5	,	,	PUNCT	Punc	_	9	punct	_	_
 6	kimileri	kimi	NOUN	Noun	Case=Nom|Number=Plur|Number[psor]=Plur|Person=3|Person[psor]=3	9	nsubj	_	_
 7	daha	daha	ADV	Adverb	_	9	advmod	_	_

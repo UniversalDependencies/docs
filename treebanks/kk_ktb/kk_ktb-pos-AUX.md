@@ -60,9 +60,9 @@ The 2nd highest number of forms (17) was observed with the lemma “ал”: <em
 
 The 3rd highest number of forms (13) was observed with the lemma “е”: <em>быз, еді, екен, екендіктерін, екені, екенімен, екенін, екеніне, емес, мын, міз, піз, терміз</em>.
 
-`AUX` occurs with 12 features: <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt> (416; 100% instances), <tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt> (318; 76% instances), <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt> (302; 72% instances), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt> (301; 72% instances), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt> (301; 72% instances), <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt> (54; 13% instances), <tt><a href="kk_ktb-feat-Case.html">Case</a></tt> (47; 11% instances), <tt><a href="kk_ktb-feat-Polarity.html">Polarity</a></tt> (40; 10% instances), <tt><a href="kk_ktb-feat-Number-psor.html">Number[psor]</a></tt> (28; 7% instances), <tt><a href="kk_ktb-feat-Person-psor.html">Person[psor]</a></tt> (28; 7% instances), <tt><a href="kk_ktb-feat-Evident.html">Evident</a></tt> (15; 4% instances), <tt><a href="kk_ktb-feat-Polite.html">Polite</a></tt> (6; 1% instances)
+`AUX` occurs with 12 features: <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt> (416; 100% instances), <tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt> (318; 76% instances), <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt> (302; 72% instances), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt> (301; 72% instances), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt> (301; 72% instances), <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt> (136; 33% instances), <tt><a href="kk_ktb-feat-Case.html">Case</a></tt> (47; 11% instances), <tt><a href="kk_ktb-feat-Polarity.html">Polarity</a></tt> (40; 10% instances), <tt><a href="kk_ktb-feat-Number-psor.html">Number[psor]</a></tt> (28; 7% instances), <tt><a href="kk_ktb-feat-Person-psor.html">Person[psor]</a></tt> (28; 7% instances), <tt><a href="kk_ktb-feat-Evident.html">Evident</a></tt> (15; 4% instances), <tt><a href="kk_ktb-feat-Polite.html">Polite</a></tt> (6; 1% instances)
 
-`AUX` occurs with 36 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Evident=Fh`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Opt`, `Mood=Pot`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Plur,Sing`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=1`, `Person[psor]=3`, `Polarity=Neg`, `Polite=Form`, `Tense=Aor`, `Tense=Fut`, `Tense=FutPlan`, `Tense=Past`, `Tense=Pres`, `VerbForm=Conv`, `VerbForm=Cov`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Part`
+`AUX` occurs with 36 feature-value pairs: `Aspect=Hab`, `Aspect=Imp`, `Aspect=Perf`, `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Evident=Fh`, `Mood=Cnd`, `Mood=Des`, `Mood=Imp`, `Mood=Ind`, `Mood=Opt`, `Mood=Pot`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Plur,Sing`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=1`, `Person[psor]=3`, `Polarity=Neg`, `Polite=Form`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Conv`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`
 
 `AUX` occurs with 68 feature combinations.
 The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin` (108 tokens).
@@ -75,17 +75,17 @@ Examples: <em>болды, еді, кетті, бастады, қалды, алд
 
 Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (227; 54% instances), <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> (100; 24% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> (60; 14% instances), <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> (16; 4% instances), <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="kk_ktb-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt> (4; 1% instances),  (1; 0% instances)
 
-404 (97%) `AUX` nodes are leaves.
+407 (98%) `AUX` nodes are leaves.
 
-8 (2%) `AUX` nodes have one child.
+6 (1%) `AUX` nodes have one child.
 
-4 (1%) `AUX` nodes have two children.
+2 (0%) `AUX` nodes have two children.
 
-1 (0%) `AUX` nodes have three or more children.
+2 (0%) `AUX` nodes have three or more children.
 
-The highest child degree of a `AUX` node is 3.
+The highest child degree of a `AUX` node is 4.
 
-Children of `AUX` nodes are attached using 6 different relations: <tt><a href="kk_ktb-dep-punct.html">punct</a></tt> (11; 58% instances), <tt><a href="kk_ktb-dep-advmod.html">advmod</a></tt> (2; 11% instances), <tt><a href="kk_ktb-dep-nsubj.html">nsubj</a></tt> (2; 11% instances), <tt><a href="kk_ktb-dep-obl.html">obl</a></tt> (2; 11% instances), <tt><a href="kk_ktb-dep-cc.html">cc</a></tt> (1; 5% instances), <tt><a href="kk_ktb-dep-nmod.html">nmod</a></tt> (1; 5% instances)
+Children of `AUX` nodes are attached using 6 different relations: <tt><a href="kk_ktb-dep-punct.html">punct</a></tt> (9; 53% instances), <tt><a href="kk_ktb-dep-advmod.html">advmod</a></tt> (2; 12% instances), <tt><a href="kk_ktb-dep-nsubj.html">nsubj</a></tt> (2; 12% instances), <tt><a href="kk_ktb-dep-obl.html">obl</a></tt> (2; 12% instances), <tt><a href="kk_ktb-dep-cc.html">cc</a></tt> (1; 6% instances), <tt><a href="kk_ktb-dep-nmod.html">nmod</a></tt> (1; 6% instances)
 
-Children of `AUX` nodes belong to 4 different parts of speech: <tt><a href="kk_ktb-pos-PUNCT.html">PUNCT</a></tt> (11; 58% instances), <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> (5; 26% instances), <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> (2; 11% instances), <tt><a href="kk_ktb-pos-SCONJ.html">SCONJ</a></tt> (1; 5% instances)
+Children of `AUX` nodes belong to 4 different parts of speech: <tt><a href="kk_ktb-pos-PUNCT.html">PUNCT</a></tt> (9; 53% instances), <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> (5; 29% instances), <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> (2; 12% instances), <tt><a href="kk_ktb-pos-SCONJ.html">SCONJ</a></tt> (1; 6% instances)
 

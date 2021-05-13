@@ -8,30 +8,33 @@ udver: '2'
 
 This relation is universal.
 
-178 nodes (1%) are attached to their parents as `fixed`.
+208 nodes (1%) are attached to their parents as `fixed`.
 
-178 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.09550561797753.
+208 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.08653846153846.
 
-The following 13 pairs of parts of speech are connected with `fixed`: <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt>-<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (82; 46% instances), <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (29; 16% instances), <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (12; 7% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (12; 7% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (12; 7% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> (8; 4% instances), <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (7; 4% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (6; 3% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (5; 3% instances), <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt>-<tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt>-<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="cy_ccg-pos-PART.html">PART</a></tt>-<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
+The following 16 pairs of parts of speech are connected with `fixed`: <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt>-<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (92; 44% instances), <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (29; 14% instances), <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (15; 7% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (14; 7% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (13; 6% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> (9; 4% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (9; 4% instances), <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (8; 4% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (6; 3% instances), <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt>-<tt><a href="cy_ccg-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="cy_ccg-pos-DET.html">DET</a></tt>-<tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="cy_ccg-pos-ADP.html">ADP</a></tt>-<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="cy_ccg-pos-PART.html">PART</a></tt>-<tt><a href="cy_ccg-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 fixed	color:blue
-1	Hi	hi	PRON	indep	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
-2	yw	bod	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	SpaceAfter=No
-3	'r	y	DET	art	_	5	det	_	_
-4	drydedd	trydydd	ADJ	ord	Degree=Pos|Gender=Fem|Mutation=SM	5	amod	_	_
-5	blaned	blaned	NOUN	noun	Gender=Fem|Number=Sing	0	root	_	_
-6	oddi	oddi	ADP	prep	_	9	case	_	_
-7	wrth	wrth	ADP	prep	_	6	fixed	_	_
-8	yr	y	DET	art	_	9	det	_	_
-9	haul	haul	NOUN	noun	Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
-10	.	.	PUNCT	punct	_	5	punct	_	SpacesAfter=\n
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 fixed	color:blue
+1	Bu	bod	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	SpaceAfter=No
+2	'r	y	DET	art	_	3	det	_	_
+3	porthladd	porthladd	NOUN	noun	Gender=Masc|Number=Sing	5	nsubj	_	_
+4	yn	yn	PART	pred	_	5	case:pred	_	_
+5	bwysig	pwysig	ADJ	pos	Degree=Pos|Mutation=SM	0	root	_	_
+6	i	i	ADP	prep	_	8	case	_	SpaceAfter=No
+7	'r	y	DET	art	_	8	det	_	_
+8	dref	tref	NOUN	noun	Gender=Fem|Mutation=SM|Number=Sing	5	obl	_	_
+9	ar	ar	ADP	prep	_	12	case	_	_
+10	hyd	hyd	ADP	prep	_	9	fixed	_	_
+11	y	y	DET	art	_	12	det	_	_
+12	canrifoedd	canrif	NOUN	noun	Gender=Fem|Number=Plur	5	obl	_	SpaceAfter=No
+13	.	.	PUNCT	punct	_	5	punct	_	SpacesAfter=\n
 
 ~~~
 
@@ -49,34 +52,34 @@ The following 13 pairs of parts of speech are connected with `fixed`: <tt><a hre
 5	,	,	PUNCT	punct	_	7	punct	_	_
 6	mewn	mewn	ADP	prep	_	7	case	_	_
 7	ffordd	ffordd	NOUN	noun	Gender=Fem|Number=Sing	1	obl	_	_
-8	eironig	geironig	ADJ	pos	Degree=Pos|Mutation=SM	7	amod	_	SpaceAfter=No
+8	eironig	eironig	ADJ	pos	Degree=Pos	7	amod	_	SpaceAfter=No
 9	.	.	PUNCT	punct	_	1	punct	_	SpacesAfter=\n
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 13 fixed	color:blue
-1	yr	y	PART	aff	_	2	advmod	_	_
-2	wy	bod	VERB	verb	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	_
-3	'n	yn	AUX	impf	_	4	aux	_	_
-4	hoffi	hoffi	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	2	xcomp	_	SpaceAfter=No
-5	'r	y	DET	art	_	6	det	_	_
-6	syniad	syniad	NOUN	noun	Gender=Masc|Number=Sing	4	obj	_	_
-7	ein	ein	PRON	dep	Number=Plur|Person=1|Poss=Yes|PronType=Prs	8	nsubj	_	_
-8	bod	bod	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	6	acl	_	_
-9	yn	yn	AUX	impf	_	10	aux	_	_
-10	trafod	trafod	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	8	xcomp	_	SpaceAfter=No
-11	,	,	PUNCT	punct	_	12	punct	_	_
-12	yn	yn	ADP	prep	_	10	advmod	_	_
-13	hytrach	hytrach	ADJ	pos	Degree=Pos	12	fixed	_	_
-14	nac	nac	CCONJ	cconj	_	15	cc	_	_
-15	ymladd	ymladd	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	10	advcl	_	SpaceAfter=No
-16	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\n
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 15 fixed	color:blue
+1	Mae	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	hynny	hyn	PRON	dem	Number=Plur|PronType=Dem	1	nsubj	_	_
+3	newydd	newydd	AUX	ante	_	4	aux	_	_
+4	ddod	dod	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	1	xcomp	_	_
+5	i	i	ADP	prep	_	6	case	_	_
+6	ben	pen	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	4	obl	_	_
+7	ac	a	CCONJ	cconj	_	8	cc	_	_
+8	mae	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	SpaceAfter=No
+9	'r	y	DET	art	_	10	det	_	_
+10	trosiant	trosiant	NOUN	noun	Gender=Masc|Number=Sing	8	nsubj	_	_
+11	busnesau	busnes	NOUN	noun	Gender=Masc|Number=Plur	10	nmod	_	_
+12	wedi	wedi	AUX	ante	_	13	aux	_	_
+13	saethu	saethu	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	8	xcomp	_	_
+14	i	i	ADP	prep	_	13	advmod	_	_
+15	fyny	fyny	ADV	adv	_	14	fixed	_	SpaceAfter=No
+16	.	.	PUNCT	punct	_	8	punct	_	SpacesAfter=\n
 
 ~~~
 

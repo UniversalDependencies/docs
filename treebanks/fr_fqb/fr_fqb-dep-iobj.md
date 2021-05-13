@@ -17,25 +17,24 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 iobj	color:blue
-1	Quand	quand	ADV	_	PronType=Int	8	advmod	_	_
+# visual-style 7 6 iobj	color:blue
+1	Quand	quand	ADV	_	PronType=Int	7	advmod	_	_
 2	et	et	CCONJ	_	_	3	cc	_	_
 3	comment	comment	ADV	_	PronType=Int	1	conj	_	_
 4	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-5	-t	t	PART	_	_	6	dep	_	SpaceAfter=No|wordform=t
-6	-on	il	PRON	_	Number=Sing|Person=3	4	nsubj	_	wordform=on
-7	me	le/lui	PRON	_	Number=Sing|Person=1	8	iobj	_	_
-8	verser	verser	VERB	_	VerbForm=Inf	4	xcomp	_	_
-9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-10	prime	prime	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
-11	pour	pour	ADP	_	_	13	case	_	_
-12	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	13	det	_	SpaceAfter=No
-13	emploi	emploi	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-14	?	?	PUNCT	_	_	8	punct	_	_
+5	-t-on	il	PRON	_	Number=Sing|Person=3	4	nsubj	_	_
+6	me	le/lui	PRON	_	Number=Sing|Person=1	7	iobj	_	_
+7	verser	verser	VERB	_	VerbForm=Inf	4	xcomp	_	_
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	prime	prime	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
+10	pour	pour	ADP	_	_	12	case	_	_
+11	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No
+12	emploi	emploi	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+13	?	?	PUNCT	_	_	7	punct	_	_
 
 ~~~
 

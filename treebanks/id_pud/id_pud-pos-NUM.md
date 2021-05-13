@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>kedua</em> (<tt><a href="id_pud-pos-N
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.074766 (the average of all parts of speech is 1.138187).
+The form / lemma ratio of `NUM` is 1.074766 (the average of all parts of speech is 1.138347).
 
 The 1st highest number of forms (3) was observed with the lemma “dua”: <em>berdua, dua, kedua</em>.
 
@@ -35,12 +35,12 @@ The 2nd highest number of forms (3) was observed with the lemma “puluh”: <em
 
 The 3rd highest number of forms (2) was observed with the lemma “1960”: <em>1960, 1960-an</em>.
 
-`NUM` occurs with 1 features: <tt><a href="id_pud-feat-NumType.html">NumType</a></tt> (510; 99% instances)
+`NUM` occurs with 1 features: <tt><a href="id_pud-feat-NumType.html">NumType</a></tt> (515; 100% instances)
 
 `NUM` occurs with 1 feature-value pairs: `NumType=Card`
 
-`NUM` occurs with 2 feature combinations.
-The most frequent feature combination is `NumType=Card` (510 tokens).
+`NUM` occurs with 1 feature combinations.
+The most frequent feature combination is `NumType=Card` (515 tokens).
 Examples: <em>satu, dua, kedua, tiga, juta, empat, 1, 10, 3, puluh</em>
 
 
@@ -48,7 +48,7 @@ Examples: <em>satu, dua, kedua, tiga, juta, empat, 1, 10, 3, puluh</em>
 
 `NUM` nodes are attached to their parents using 12 different relations: <tt><a href="id_pud-dep-nummod.html">nummod</a></tt> (372; 72% instances), <tt><a href="id_pud-dep-flat.html">flat</a></tt> (76; 15% instances), <tt><a href="id_pud-dep-obl-tmod.html">obl:tmod</a></tt> (16; 3% instances), <tt><a href="id_pud-dep-conj.html">conj</a></tt> (11; 2% instances), <tt><a href="id_pud-dep-nsubj.html">nsubj</a></tt> (10; 2% instances), <tt><a href="id_pud-dep-nmod.html">nmod</a></tt> (9; 2% instances), <tt><a href="id_pud-dep-appos.html">appos</a></tt> (6; 1% instances), <tt><a href="id_pud-dep-nmod-tmod.html">nmod:tmod</a></tt> (5; 1% instances), <tt><a href="id_pud-dep-obl.html">obl</a></tt> (4; 1% instances), <tt><a href="id_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (2; 0% instances), <tt><a href="id_pud-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="id_pud-dep-root.html">root</a></tt> (2; 0% instances)
 
-Parents of `NUM` nodes belong to 8 different parts of speech: <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (348; 68% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (62; 12% instances), <tt><a href="id_pud-pos-SYM.html">SYM</a></tt> (38; 7% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (36; 7% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (24; 5% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances),  (2; 0% instances)
+Parents of `NUM` nodes belong to 8 different parts of speech: <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (347; 67% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (62; 12% instances), <tt><a href="id_pud-pos-SYM.html">SYM</a></tt> (38; 7% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (36; 7% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (25; 5% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances),  (2; 0% instances)
 
 374 (73%) `NUM` nodes are leaves.
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 The following people have contributed to making this treebank part of UD: Marhaba Eli, Daniel Zeman, Francis Tyers.
 
 Repository: [UD_Uyghur-UDT](https://github.com/UniversalDependencies/UD_Uyghur-UDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udug_udt27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udug_udt28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -68,7 +68,7 @@ middle school, including stories, records and reports.
 
 ## Relations
 
-[acl](ug_udt-dep-acl.html) – [advcl](ug_udt-dep-advcl.html) – [advcl:cond](ug_udt-dep-advcl-cond.html) – [advmod](ug_udt-dep-advmod.html) – [advmod:emph](ug_udt-dep-advmod-emph.html) – [advmod:tmod](ug_udt-dep-advmod-tmod.html) – [amod](ug_udt-dep-amod.html) – [appos](ug_udt-dep-appos.html) – [aux](ug_udt-dep-aux.html) – [aux:q](ug_udt-dep-aux-q.html) – [case](ug_udt-dep-case.html) – [cc](ug_udt-dep-cc.html) – [ccomp](ug_udt-dep-ccomp.html) – [compound](ug_udt-dep-compound.html) – [compound:lvc](ug_udt-dep-compound-lvc.html) – [compound:redup](ug_udt-dep-compound-redup.html) – [conj](ug_udt-dep-conj.html) – [cop](ug_udt-dep-cop.html) – [csubj](ug_udt-dep-csubj.html) – [dep](ug_udt-dep-dep.html) – [det](ug_udt-dep-det.html) – [discourse](ug_udt-dep-discourse.html) – [dislocated](ug_udt-dep-dislocated.html) – [fixed](ug_udt-dep-fixed.html) – [flat](ug_udt-dep-flat.html) – [goeswith](ug_udt-dep-goeswith.html) – [mark](ug_udt-dep-mark.html) – [nmod](ug_udt-dep-nmod.html) – [nmod:abl](ug_udt-dep-nmod-abl.html) – [nmod:cau](ug_udt-dep-nmod-cau.html) – [nmod:clas](ug_udt-dep-nmod-clas.html) – [nmod:comp](ug_udt-dep-nmod-comp.html) – [nmod:ins](ug_udt-dep-nmod-ins.html) – [nmod:part](ug_udt-dep-nmod-part.html) – [nmod:poss](ug_udt-dep-nmod-poss.html) – [nmod:ref](ug_udt-dep-nmod-ref.html) – [nmod:tmod](ug_udt-dep-nmod-tmod.html) – [nsubj](ug_udt-dep-nsubj.html) – [nummod](ug_udt-dep-nummod.html) – [obj](ug_udt-dep-obj.html) – [obj:cau](ug_udt-dep-obj-cau.html) – [obl](ug_udt-dep-obl.html) – [orphan](ug_udt-dep-orphan.html) – [parataxis](ug_udt-dep-parataxis.html) – [punct](ug_udt-dep-punct.html) – [reparandum](ug_udt-dep-reparandum.html) – [root](ug_udt-dep-root.html) – [vocative](ug_udt-dep-vocative.html) – [xcomp](ug_udt-dep-xcomp.html)
+[acl](ug_udt-dep-acl.html) – [advcl](ug_udt-dep-advcl.html) – [advcl:cond](ug_udt-dep-advcl-cond.html) – [advmod](ug_udt-dep-advmod.html) – [advmod:emph](ug_udt-dep-advmod-emph.html) – [amod](ug_udt-dep-amod.html) – [appos](ug_udt-dep-appos.html) – [aux](ug_udt-dep-aux.html) – [case](ug_udt-dep-case.html) – [cc](ug_udt-dep-cc.html) – [ccomp](ug_udt-dep-ccomp.html) – [compound](ug_udt-dep-compound.html) – [compound:lvc](ug_udt-dep-compound-lvc.html) – [compound:redup](ug_udt-dep-compound-redup.html) – [conj](ug_udt-dep-conj.html) – [cop](ug_udt-dep-cop.html) – [csubj](ug_udt-dep-csubj.html) – [dep](ug_udt-dep-dep.html) – [det](ug_udt-dep-det.html) – [discourse](ug_udt-dep-discourse.html) – [dislocated](ug_udt-dep-dislocated.html) – [fixed](ug_udt-dep-fixed.html) – [flat](ug_udt-dep-flat.html) – [goeswith](ug_udt-dep-goeswith.html) – [mark](ug_udt-dep-mark.html) – [nmod](ug_udt-dep-nmod.html) – [nmod:cau](ug_udt-dep-nmod-cau.html) – [nmod:comp](ug_udt-dep-nmod-comp.html) – [nmod:part](ug_udt-dep-nmod-part.html) – [nmod:poss](ug_udt-dep-nmod-poss.html) – [nmod:tmod](ug_udt-dep-nmod-tmod.html) – [nsubj](ug_udt-dep-nsubj.html) – [nummod](ug_udt-dep-nummod.html) – [obj](ug_udt-dep-obj.html) – [obl](ug_udt-dep-obl.html) – [obl:tmod](ug_udt-dep-obl-tmod.html) – [orphan](ug_udt-dep-orphan.html) – [parataxis](ug_udt-dep-parataxis.html) – [punct](ug_udt-dep-punct.html) – [reparandum](ug_udt-dep-reparandum.html) – [root](ug_udt-dep-root.html) – [vocative](ug_udt-dep-vocative.html) – [xcomp](ug_udt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -86,7 +86,7 @@ middle school, including stories, records and reports.
 </ul>
 
 <ul>
-<li>This corpus contains 251 types of words that contain both letters and punctuation. Examples: &gt;, &lt;, پەن-تېخنىكا, ‹‹ئوتتۇز, بىر-بىرلەپ, توپا-توزانغا, ،بۇ, ئەدەپ–ئەخلاق, ئەر-خوتۇن, بىر-بىرىنى, بىر-بىرىنىڭ, بىر-بىرىگە, كۈندىن–كۈنگە, مەشرىپى››گە, يىراق-يىراقلارغا, يۈز_بەردى, پەن-تېخنىكىنىڭ, چىلىق–چىلىق, چۈشتىن_كېيىن, ھاسىراپ–ھۆمۈدەپ, ‹‹ئىلى, &lt;&lt;, (مايسا), 1928-يىلى, 2​0​1​2​-​_​ي​ى​ل​ى​_​4​-​ئ​ا​ي​ن​ى​ڭ​_​3​-​ك​ۈ​ن​ى, 20_يىل, 3-يىللىقتا, 5-يىللىقتا, «ئانا», «بالىلىق, «شاپپىدە», «قورساق, «كىشىلەر, «مۇقىمسىزلىق»نى, «مېنىڭ, «يۇقىرى, «يېيىش»كە, ،كەل, ئابرۇي–ئىناۋىتى, ئاتا-ئانا, ئاتا-ئانام, ئاتا-ئانىسى, ئاتا-ئانىلىق, ئاتا-ئانىمىز, ئاتا–ئانىسىنىمۇ, ئاجايىپ-غارايىپ, ئارقا-ئارقىدىن, ئار–نومۇس, ئاستا–ئاستا, ئانچە-مۇنچە</li>
+<li>This corpus contains 251 types of words that contain both letters and punctuation. Examples: &gt;, &lt;, پەن-تېخنىكا, ‹‹ئوتتۇز, بىر-بىرلەپ, توپا-توزانغا, ،بۇ, ئەدەپ–ئەخلاق, ئەر-خوتۇن, بىر-بىرىنى, بىر-بىرىنىڭ, بىر-بىرىگە, كۈندىن–كۈنگە, مەشرىپى››گە, يىراق-يىراقلارغا, يۈز_بەردى, پەن-تېخنىكىنىڭ, چىلىق–چىلىق, چۈشتىن_كېيىن, ھاسىراپ–ھۆمۈدەپ, ‹‹ئىلى, &lt;&lt;, (مايسا), 1928-يىلى, 2012-_يىلى_4-ئاينىڭ_3-كۈنى, 20_يىل, 3-يىللىقتا, 5-يىللىقتا, «ئانا», «بالىلىق, «شاپپىدە», «قورساق, «كىشىلەر, «مۇقىمسىزلىق»نى, «مېنىڭ, «يۇقىرى, «يېيىش»كە, ،كەل, ئابرۇي–ئىناۋىتى, ئاتا-ئانا, ئاتا-ئانام, ئاتا-ئانىسى, ئاتا-ئانىلىق, ئاتا-ئانىمىز, ئاتا–ئانىسىنىمۇ, ئاجايىپ-غارايىپ, ئارقا-ئارقىدىن, ئار–نومۇس, ئاستا–ئاستا, ئانچە-مۇنچە</li>
 </ul>
 
 <ul>
@@ -139,14 +139,6 @@ middle school, including stories, records and reports.
 </ul>
 
 <ul>
-  <li>Cov
-  <ul>
-    <li>VERB: بولۇپ, قاراپ, قىلىپ, كۆرۈپ, كىرىپ, چىقىپ, كېلىپ, ئۆتۈپ, دەپ, ئۇچۇپ</li>
-  </ul>
-  </li>
-</ul>
-
-<ul>
   <li>Fin
   <ul>
     <li>AUX: ئىدى, كەتتى, بولىدۇ, بولدى, بولغان, ئىدىڭ, بولدۇم, تۇرىدۇ, كېتىدۇ, كەلدى</li>
@@ -161,6 +153,14 @@ middle school, including stories, records and reports.
   <ul>
     <li>AUX: بولغاندىن, بولغان, بولغاندا, بولغىنى, بولۇش, بولۇشى, بولۇشىدىن, تۇرغاندا, تۇرغىنى, كېتىشتىن</li>
     <li>VERB: قىلىش, كەلگەندە, بولۇشى, بولغان, ياشقا, بارغاندا, قىلىشنى, ياش, ئېلىش, بولغاندا</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Inf
+  <ul>
+    <li>VERB: بولۇپ, قاراپ, قىلىپ, كۆرۈپ, كىرىپ, چىقىپ, كېلىپ, ئۆتۈپ, دەپ, ئۇچۇپ</li>
   </ul>
   </li>
 </ul>
@@ -236,11 +236,11 @@ middle school, including stories, records and reports.
 <ul>
   <li>Abl
     <ul>
-      <li>ADJ: ئۇزاقتىن, يېڭىدىن, يۇقىرىدىن, ئاكىلىقتىن, ئۇزۇندىن, بارلىقتىن, سوغۇقتىن, كىچىكىدىن, يېقىندىن, ساراڭدىن</li>
+      <li>ADJ: ئۇزاقتىن, يېڭىدىن, يۇقىرىدىن, ئاكىلىقتىن, ئۇزۇندىن, بارلىقتىن, سوغۇقتىن, سۆزۈمدىن, كىچىكىدىن, يېقىندىن</li>
       <li>AUX-Ger: بولغاندىن, بولۇشىدىن, كېتىشتىن</li>
       <li>NOUN: ئاندىن, يەردىن, ئەزەلدىن, بىردەمدىن, مەكتەپتىن, يىلدىن, ئارقىدىن, ئارىدىن, ئىشتىن, تەرەپتىن</li>
       <li>NUM: بىردىن, بىرىدىن</li>
-      <li>PRON: ئۇلاردىن, بىزدىن, سەندىن, مەندىن, ئۆزۈمدىن, ئۆزىدىن, سىزدىن, سىلىدىن</li>
+      <li>PRON: ئۇلاردىن, بىزدىن, سەندىن, مەندىن, ئۆزۈمدىن, ھېلىقى, ئۆزىدىن, سىزدىن, سىلىدىن, مەن</li>
       <li>PROPN: قەشقەردىن</li>
       <li>VERB-Ger: بولغاندىن, ئاڭلىغاندىن, ئۆتكەندىن, قىلغاندىن, بولۇشىدىن, بەرگەندىن, تاشتىن, دېگەندىن, قورققىنىدىن, قېلىشىدىن</li>
       <li>VERB-Part: ئۆيلەنگەندىن</li>
@@ -350,11 +350,21 @@ middle school, including stories, records and reports.
 </ul>
 
 <ul>
+  <li>Hab
+    <ul>
+      <li>AUX-Fin: بولىدۇ, تۇرىدۇ, كېتىدۇ, بولمايدۇ, بېرىسەن, بېرىدۇ, تۇرىمىز, بولمامدۇ, بولىسىز, بولىسەن</li>
+      <li>PART-Fin: ئوخشىمامدۇ, ئوخشىمامسەن</li>
+      <li>VERB-Fin: قىلىدۇ, بولىدۇ, كېلىدۇ, دەيدۇ, بولمايدۇ, بېرىدۇ, تۇرىدۇ, دەمسىز, چۈشىدۇ, ھېسابلىنىدۇ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Perf
     <ul>
       <li>AUX-Conv: بولۇپ, تۇرۇپ, كېتىپ, بېرىپ, يۈرۈپ, ئولتۇرۇپ, كېلىپ</li>
       <li>VERB-Conv: دەپ, قىلىپ, بولۇپ, قاراپ, ئېلىپ, كېلىپ, تۇرۇپ, بېرىپ, قايتىپ, كۆرۈپ</li>
-      <li>VERB-Cov: بولۇپ, قاراپ, قىلىپ, كۆرۈپ, كىرىپ, چىقىپ, كېلىپ, ئۆتۈپ, دەپ, ئۇچۇپ</li>
+      <li>VERB-Inf: بولۇپ, قاراپ, قىلىپ, كۆرۈپ, كىرىپ, چىقىپ, كېلىپ, ئۆتۈپ, دەپ, ئۇچۇپ</li>
     </ul>
   </li>
 </ul>
@@ -392,17 +402,16 @@ middle school, including stories, records and reports.
 </ul>
 
 <ul>
-  <li><a>Tense</a></li>
+  <li>Int
+    <ul>
+      <li>VERB-Fin: بولدىڭىزمۇ</li>
+      <li>VERB-Ger: باققانمۇ</li>
+    </ul>
+  </li>
 </ul>
 
 <ul>
-  <li>Aor
-    <ul>
-      <li>AUX-Fin: بولىدۇ, تۇرىدۇ, كېتىدۇ, بولمايدۇ, بېرىسەن, بېرىدۇ, تۇرىمىز, بولمامدۇ, بولىسىز, بولىسەن</li>
-      <li>PART-Fin: ئوخشىمامدۇ, ئوخشىمامسەن</li>
-      <li>VERB-Fin: قىلىدۇ, بولىدۇ, كېلىدۇ, دەيدۇ, بولمايدۇ, بېرىدۇ, تۇرىدۇ, دەمسىز, چۈشىدۇ, ھېسابلىنىدۇ</li>
-    </ul>
-  </li>
+  <li><a>Tense</a></li>
 </ul>
 
 <ul>
@@ -419,6 +428,16 @@ middle school, including stories, records and reports.
 </ul>
 
 <ul>
+  <li>Pres
+    <ul>
+      <li>AUX-Fin: بولىدۇ, تۇرىدۇ, كېتىدۇ, بولمايدۇ, بېرىسەن, بېرىدۇ, تۇرىمىز, بولمامدۇ, بولىسىز, بولىسەن</li>
+      <li>PART-Fin: ئوخشىمامدۇ, ئوخشىمامسەن</li>
+      <li>VERB-Fin: قىلىدۇ, بولىدۇ, كېلىدۇ, دەيدۇ, بولمايدۇ, بېرىدۇ, تۇرىدۇ, دەمسىز, چۈشىدۇ, ھېسابلىنىدۇ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Voice</a></li>
 </ul>
 
@@ -426,9 +445,9 @@ middle school, including stories, records and reports.
   <li>Pass
     <ul>
       <li>VERB-Conv: تاشلىنىپ, تىكىلىپ, چايقىلىپ, ئىشلىنىپ, توپلىنىپ, قىلىنسا, يۇلۇپ</li>
-      <li>VERB-Cov: بىلىنىپ, ئاڭلىنىپ, تىكىلىپ, قىلىنىپ, قاپلىنىپ, يۇلۇپ, چايقىلىپ</li>
       <li>VERB-Fin: ھېسابلىنىدۇ, بىلىنىدۇ, بىلىندى, قىلىندى, قىلىنغان, قىلىنىدۇ, ئاتىلىدۇ, بىلىندىڭىز, تاشلىنىدۇ, تىكىلدى</li>
       <li>VERB-Ger: ئوينىلىش, تەشكىللىنىشى, ساقلىنىش, ساقلىنىشى, ياسىلىشىغا, چايقىلىشقا</li>
+      <li>VERB-Inf: بىلىنىپ, ئاڭلىنىپ, تىكىلىپ, قىلىنىپ, قاپلىنىپ, يۇلۇپ, چايقىلىپ</li>
       <li>VERB-Part: قىلىنغان</li>
     </ul>
   </li>
@@ -661,12 +680,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN-Nom (67)</li>
       <li>VERB-Conv--PRON (3)</li>
       <li>VERB-Conv--PRON-Nom (20)</li>
-      <li>VERB-Cov--NOUN (57)</li>
-      <li>VERB-Cov--NOUN-Acc (1)</li>
-      <li>VERB-Cov--NOUN-Nom (100)</li>
-      <li>VERB-Cov--PRON (4)</li>
-      <li>VERB-Cov--PRON-Acc (1)</li>
-      <li>VERB-Cov--PRON-Nom (53)</li>
       <li>VERB-Fin--NOUN (154)</li>
       <li>VERB-Fin--NOUN-Dat (1)</li>
       <li>VERB-Fin--NOUN-Loc (1)</li>
@@ -681,6 +694,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--NOUN-Nom (54)</li>
       <li>VERB-Ger--PRON (1)</li>
       <li>VERB-Ger--PRON-Nom (24)</li>
+      <li>VERB-Inf--NOUN (57)</li>
+      <li>VERB-Inf--NOUN-Acc (1)</li>
+      <li>VERB-Inf--NOUN-Nom (100)</li>
+      <li>VERB-Inf--PRON (4)</li>
+      <li>VERB-Inf--PRON-Acc (1)</li>
+      <li>VERB-Inf--PRON-Nom (53)</li>
       <li>VERB-Part--NOUN (5)</li>
       <li>VERB-Part--NOUN-Nom (21)</li>
       <li>VERB-Part--NOUN-Nom-ADP(بىلەن) (1)</li>
@@ -692,7 +711,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (254)</li>
+      <li>VERB--NOUN (255)</li>
       <li>VERB--NOUN-Acc (479)</li>
       <li>VERB--NOUN-Dat (3)</li>
       <li>VERB--NOUN-Loc (1)</li>
@@ -707,12 +726,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON (7)</li>
       <li>VERB-Conv--PRON-Acc (10)</li>
       <li>VERB-Conv--PRON-Nom (2)</li>
-      <li>VERB-Cov--NOUN (15)</li>
-      <li>VERB-Cov--NOUN-Acc (41)</li>
-      <li>VERB-Cov--NOUN-Nom (11)</li>
-      <li>VERB-Cov--PRON (5)</li>
-      <li>VERB-Cov--PRON-Acc (6)</li>
-      <li>VERB-Fin--NOUN (52)</li>
+      <li>VERB-Fin--NOUN (53)</li>
       <li>VERB-Fin--NOUN-ADP(_) (1)</li>
       <li>VERB-Fin--NOUN-ADP(سىرت) (1)</li>
       <li>VERB-Fin--NOUN-Acc (90)</li>
@@ -727,6 +741,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--PRON (5)</li>
       <li>VERB-Ger--PRON-Acc (7)</li>
       <li>VERB-Ger--PRON-Nom (1)</li>
+      <li>VERB-Inf--NOUN (15)</li>
+      <li>VERB-Inf--NOUN-Acc (41)</li>
+      <li>VERB-Inf--NOUN-Nom (11)</li>
+      <li>VERB-Inf--PRON (5)</li>
+      <li>VERB-Inf--PRON-Acc (6)</li>
       <li>VERB-Part--NOUN (7)</li>
       <li>VERB-Part--NOUN-Acc (6)</li>
       <li>VERB-Part--NOUN-Nom (4)</li>
@@ -753,6 +772,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 16 relation subtypes: <a>advcl:cond</a>, <a>advmod:emph</a>, <a>advmod:tmod</a>, <a>aux:q</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>nmod:abl</a>, <a>nmod:cau</a>, <a>nmod:clas</a>, <a>nmod:comp</a>, <a>nmod:ins</a>, <a>nmod:part</a>, <a>nmod:poss</a>, <a>nmod:ref</a>, <a>nmod:tmod</a>, <a>obj:cau</a></li>
+<li>This corpus uses 10 relation subtypes: <a>advcl:cond</a>, <a>advmod:emph</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>nmod:cau</a>, <a>nmod:comp</a>, <a>nmod:part</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>obl:tmod</a></li>
 <li>The following 4 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>list</a></li>
 </ul>

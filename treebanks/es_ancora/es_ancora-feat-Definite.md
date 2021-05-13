@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-62606 tokens (11%) have a non-empty value of `Definite`.
-29 types (0%) occur at least once with a non-empty value of `Definite`.
-5 lemmas (0%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 2 part-of-speech tags: <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (61454; 11% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1152; 0% instances).
+73287 tokens (13%) have a non-empty value of `Definite`.
+32 types (0%) occur at least once with a non-empty value of `Definite`.
+6 lemmas (0%) occur at least once with a non-empty value of `Definite`.
+The feature is used with 2 part-of-speech tags: <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (72135; 13% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1152; 0% instances).
 
 ### `DET`
 
-61454 <tt><a href="es_ancora-pos-DET.html">DET</a></tt> tokens (83% of all `DET` tokens) have a non-empty value of `Definite`.
+72135 <tt><a href="es_ancora-pos-DET.html">DET</a></tt> tokens (86% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (61454; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (47212; 77%), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (31935; 52%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (72135; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (57889; 80%), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (42610; 59%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (51873; 84% of non-empty `Definite`): <em>la, el, los, las, Al, A</em>
-* `Ind` (9581; 16% of non-empty `Definite`): <em>un, una, unos, unas, uno</em>
+* `Def` (62554; 87% of non-empty `Definite`): <em>el, la, los, las, a, o, Al, els</em>
+* `Ind` (9581; 13% of non-empty `Definite`): <em>un, una, unos, unas, uno</em>
 * `EMPTY` (12184): <em>su, sus, este, esta, todo, esa, ese, todos, otros, cada</em>
 
 ### `PRON`
@@ -36,7 +36,7 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 
 * `Def` (1150; 100% of non-empty `Definite`): <em>lo</em>
 * `Ind` (2; 0% of non-empty `Definite`): <em>LO, les</em>
-* `EMPTY` (24770): <em>que, se, le, lo, me, donde, nos, uno, quien, la</em>
+* `EMPTY` (24772): <em>que, se, le, lo, me, donde, nos, uno, quien, la</em>
 
 <table>
   <tr><th>Paradigm <i>él</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>

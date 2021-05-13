@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Tamil-MWTT: Relations: `obl`
 
 This relation is universal.
-There are 10 language-specific subtypes of `obl`: <tt><a href="ta_mwtt-dep-obl-abl.html">obl:abl</a></tt>, <tt><a href="ta_mwtt-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="ta_mwtt-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="ta_mwtt-dep-obl-ben.html">obl:ben</a></tt>, <tt><a href="ta_mwtt-dep-obl-cmpr.html">obl:cmpr</a></tt>, <tt><a href="ta_mwtt-dep-obl-inst.html">obl:inst</a></tt>, <tt><a href="ta_mwtt-dep-obl-loc.html">obl:loc</a></tt>, <tt><a href="ta_mwtt-dep-obl-pmod.html">obl:pmod</a></tt>, <tt><a href="ta_mwtt-dep-obl-soc.html">obl:soc</a></tt>, <tt><a href="ta_mwtt-dep-obl-tmod.html">obl:tmod</a></tt>.
+There are 7 language-specific subtypes of `obl`: <tt><a href="ta_mwtt-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="ta_mwtt-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="ta_mwtt-dep-obl-cmpr.html">obl:cmpr</a></tt>, <tt><a href="ta_mwtt-dep-obl-inst.html">obl:inst</a></tt>, <tt><a href="ta_mwtt-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="ta_mwtt-dep-obl-pmod.html">obl:pmod</a></tt>, <tt><a href="ta_mwtt-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-124 nodes (5%) are attached to their parents as `obl`.
+128 nodes (5%) are attached to their parents as `obl`.
 
-123 instances of `obl` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.13709677419355.
+127 instances of `obl` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.09375.
 
-The following 7 pairs of parts of speech are connected with `obl`: <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (102; 82% instances), <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-PROPN.html">PROPN</a></tt> (9; 7% instances), <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="ta_mwtt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_mwtt-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `obl`: <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (106; 83% instances), <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-PROPN.html">PROPN</a></tt> (8; 6% instances), <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ta_mwtt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ta_mwtt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ta_mwtt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -23,9 +23,9 @@ The following 7 pairs of parts of speech are connected with `obl`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 obl	color:blue
-1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3	3	nsubj	3:nsubj	Translit=kumār|LTranslit=kumār
-2	ஊருக்குப்	ஊர்	NOUN	_	Case=Dat|Number=Sing|Person=3	3	obl	3:obl	Translit=ūrukkup|LTranslit=ūr
-3	போனான்	போ	VERB	_	Gender=Masc|Number=Sing|Person=3|Tense=Past	0	root	0:root	Translit=pōṉāṉ|LTranslit=pō
+1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3|Polite=Form	3	nsubj	3:nsubj	Translit=kumār|LTranslit=kumār
+2	ஊருக்குப்	ஊர்	NOUN	_	Case=Dat|Gender=Neut|Number=Sing|Person=3	3	obl	3:obl	Translit=ūrukkup|LTranslit=ūr
+3	போனான்	போ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Form|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Translit=pōṉāṉ|LTranslit=pō
 4	.	.	PUNCT	_	PunctType=Peri	3	punct	3:punct	Translit=.|LTranslit=.
 
 ~~~

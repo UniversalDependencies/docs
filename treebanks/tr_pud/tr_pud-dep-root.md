@@ -13,7 +13,7 @@ This relation is universal.
 1000 instances of `root` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 13.429.
 
-The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (640; 64% instances), -<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (243; 24% instances), -<tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (96; 10% instances), -<tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (8; 1% instances), -<tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), -<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> (4; 0% instances), -<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), -<tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (649; 65% instances), -<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (236; 24% instances), -<tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (95; 10% instances), -<tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (8; 1% instances), -<tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), -<tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> (4; 0% instances), -<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -61,8 +61,8 @@ The following 8 pairs of parts of speech are connected with `root`: -<tt><a href
 1	Yine	yine	ADV	RB	_	7	advmod	_	_
 2	de	de	ADV	RB	_	1	advmod:emph	_	_
 3	hâlâ	hâlâ	ADV	RB	_	4	advmod	_	_
-4	cevaplanamamış	cevaplanama	ADJ	VJ	Aspect=Perf|Evident=Nfh|Mood=Pot|Number=Sing|Person=3|Polarity=Neg|Tense=Past|Voice=Pass	6	acl	_	_
-5	bazı	bazı	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	6	det	_	_
+4	cevaplanamamış	cevaplanama	VERB	VJ	Aspect=Perf|Evident=Nfh|Mood=Pot|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	_
+5	bazı	bazı	DET	DT	Definite=Ind|Polarity=Pos	6	det	_	_
 6	sorular	soru	NOUN	NN	Case=Nom|Number=Plur	7	nsubj	_	_
 7	var	var	ADJ	JJ	Polarity=Pos	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	7	punct	_	_

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1445 nodes (5%) are attached to their parents as `det`.
+1685 nodes (5%) are attached to their parents as `det`.
 
-1440 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.1916955017301.
+1680 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.19881305637982.
 
-The following 14 pairs of parts of speech are connected with `det`: <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (1306; 90% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (47; 3% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (35; 2% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (14; 1% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt>-<tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (12; 1% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (12; 1% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (8; 1% instances), <tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt>-<tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt>-<tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `det`: <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (1539; 91% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (60; 4% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (18; 1% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (18; 1% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt>-<tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (16; 1% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (14; 1% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt>-<tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt>-<tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-X.html">X</a></tt>-<tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 14 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 det	color:blue
-1	Okay	Okay	ADJ	_	_	6	discourse	_	LangID=DE
+1	Okay	Okay	INTJ	_	_	6	discourse	_	LangID=DE
 2	Äh	Äh	INTJ	_	_	6	discourse	_	LangID=TR
 3	hangi	hangi	DET	_	Definite=Def	4	det	_	LangID=TR
 4	derslerde	ders	NOUN	_	Case=Loc|Number=Plur	6	obl	_	LangID=TR
@@ -56,22 +56,20 @@ The following 14 pairs of parts of speech are connected with `det`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 det	color:blue
-1	Ya	ya	INTJ	_	_	2	discourse	_	LangID=TR
-2	sen	sen	PRON	_	Case=Nom|Number=Sing	9	reparandum	_	LangID=TR
-3	willst	wollen	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	9	aux	_	LangID=DE
-4	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	LangID=DE
-5	nach	nach	ADP	_	_	7	case	_	LangID=DE
-6	dem	der	PRON	_	Case=Dat|Definite=Def|Number=Sing|PronType=Art	7	det	_	LangID=DE
-7	Bachelor	Bachelor	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	9	obl	_	LangID=DE
-8	Master	Master	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	LangID=DE
-9	machen	machen	VERB	_	VerbForm=Inf	0	root	_	LangID=DE
-10	oder	oder	CCONJ	_	_	9	parataxis	_	LangID=DE|SpaceAfter=No
-11	?	?	PUNCT	_	_	9	punct	_	LangID=OTHER
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 det	color:blue
+1	Aha	aha	INTJ	_	_	2	discourse	_	LangID=TR
+2	bak	bak	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	LangID=TR
+3	bu	bu	PRON	_	Case=Nom|Number=Sing|PronType=Dem	5	det	_	LangID=TR
+4	bizim	biz	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=1|Person[psor]=1|PronType=Prs	5	nmod	_	LangID=TR
+5	at	at	NOUN	_	Case=Nom|Number=Sing	2	conj	_	LangID=TR
+6	shadow	shadow	NOUN	_	Foreign=Yes	7	nmod	_	LangID=LANG3
+7	man	man	NOUN	_	Foreign=Yes	5	appos:trans	_	LangID=LANG3
+8	Schattenmähne	Schattenmähne	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	appos:trans	_	LangID=DE|SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	LangID=OTHER
 
 ~~~
 

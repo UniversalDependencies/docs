@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
-50178 tokens (51%) have a non-empty value of `Gender`.
-24612 types (82%) occur at least once with a non-empty value of `Gender`.
-15059 lemmas (80%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 10 part-of-speech tags: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (26754; 27% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (9543; 10% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (6584; 7% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (3857; 4% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (1428; 1% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (824; 1% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (607; 1% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> (579; 1% instances), <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+50176 tokens (51%) have a non-empty value of `Gender`.
+24611 types (82%) occur at least once with a non-empty value of `Gender`.
+15058 lemmas (80%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (26754; 27% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (9543; 10% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (6584; 7% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (3857; 4% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (1428; 1% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (824; 1% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (607; 1% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> (579; 1% instances).
 
 ### `NOUN`
 
@@ -219,26 +219,6 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
   <tr><td><tt><tt><a href="ru_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>был</em></td><td><em>была</em></td><td><em>было</em></td></tr>
   <tr><td><tt><tt><a href="ru_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ru_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="ru_gsd-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>был</em></td><td></td><td><em>было</em></td></tr>
 </table>
-
-### `PART`
-
-1 <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `PART` and `Gender` co-occurred: <tt><a href="ru_gsd-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`PART` tokens may have the following values of `Gender`:
-
-* `Masc` (1; 100% of non-empty `Gender`): <em>Де</em>
-* `EMPTY` (1086): <em>не, же, и, также, только, лишь, даже, де, это, ни</em>
-
-### `PUNCT`
-
-1 <tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> tokens (0% of all `PUNCT` tokens) have a non-empty value of `Gender`.
-
-`PUNCT` tokens may have the following values of `Gender`:
-
-* `Masc` (1; 100% of non-empty `Gender`): <em>-</em>
-* `EMPTY` (18124): <em>,, ., --, ), (, ``, &#39;&#39;, -, :, ;</em>
 
 ## Relations with Agreement in `Gender`
 

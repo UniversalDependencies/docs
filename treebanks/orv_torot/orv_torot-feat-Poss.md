@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of Poss in UD_Old_Russian-TOROT'
+title:  'Statistics of Poss in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Features: `Poss`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Features: `Poss`
 
 This feature is universal.
 It occurs with 1 different values: `Yes`.
@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="orv_torot-pos-ADJ.h
 
 2700 <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> tokens (17% of all `ADJ` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="orv_torot-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2700; 100%), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (2700; 100%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1924; 71%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1513; 56%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt> (1510; 56%).
+The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="orv_torot-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2700; 100%), <tt><a href="orv_torot-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (2700; 100%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1924; 71%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1513; 56%), <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=3</tt> (1510; 56%).
 
 `ADJ` tokens may have the following values of `Poss`:
 

@@ -50,7 +50,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (392; 23% of non-empty `Degree`): <em>mer, tidigare, mindre, vidare, mera, längre, senare, ytterligare, bättre, närmare</em>
 * `Pos` (1082; 63% of non-empty `Degree`): <em>mycket, helt, ofta, länge, långt, snabbt, relativt, direkt, starkt, säkert</em>
 * `Sup` (255; 15% of non-empty `Degree`): <em>mest, minst, främst, högst, helst, bäst, oftast, längst, knappast, ytterst</em>
-* `EMPTY` (5302): <em>så, också, hur, där, här, nu, bara, ut, även, då</em>
+* `EMPTY` (5307): <em>så, också, hur, där, här, nu, bara, ut, även, då</em>
 
 <table>
   <tr><th>Paradigm <i>mycket</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>

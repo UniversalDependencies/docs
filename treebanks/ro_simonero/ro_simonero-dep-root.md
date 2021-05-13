@@ -22,17 +22,17 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 6 root	color:blue
-1	Din	din	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	O
-2	contra	contra	ADV	Rgp	Degree=Pos	6	obl	_	O
-3	,	,	PUNCT	COMMA	_	2	punct	_	O
-4	venele	venă	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	6	nsubj	_	B-ANAT
-5	centrale	central	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	I-ANAT
-6	devin	deveni	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	O
-7	subțiri	subțire	ADJ	Afp-p-n	Definite=Ind|Degree=Pos|Number=Plur	6	xcomp	_	O
-8	și	și	CCONJ	Crssp	Polarity=Pos	10	cc	_	O
-9	ușor	ușor	ADV	Rgp	Degree=Pos	10	advmod	_	O
-10	distensibile	distensibil	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	7	conj	_	O
-11	.	.	PUNCT	PERIOD	_	6	punct	_	O
+1	Din	din	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
+2	contra	contra	ADV	Rgp	Degree=Pos	6	obl	_	SpaceAfter=No
+3	,	,	PUNCT	COMMA	_	2	punct	_	_
+4	venele	venă	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	6	nsubj	_	BioNERLabel=B-ANAT
+5	centrale	central	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	BioNERLabel=I-ANAT
+6	devin	deveni	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	subțiri	subțire	ADJ	Afp-p-n	Definite=Ind|Degree=Pos|Number=Plur	6	xcomp	_	_
+8	și	și	CCONJ	Crssp	Polarity=Pos	10	cc	_	_
+9	ușor	ușor	ADV	Rgp	Degree=Pos	10	advmod	_	_
+10	distensibile	distensibil	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	7	conj	_	SpaceAfter=No
+11	.	.	PUNCT	PERIOD	_	6	punct	_	_
 
 ~~~
 
@@ -43,16 +43,16 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 3 root	color:blue
-1	Consecința	consecință	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	3	nsubj	_	O
-2	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	O
-3	scăderea	scădere	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	O
-4	biodisponibilității	biodisponibilitate	NOUN	Ncfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	nmod	_	O
-5	oxidului	oxid	NOUN	Ncmsoy	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	B-CHEM
-6	nitric	nitric	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	I-CHEM
-7	(	(	PUNCT	LPAR	_	8	punct	_	O
-8	NO	NO	NOUN	Yn	Abbr=Yes	3	appos	_	B-CHEM
-9	)	)	PUNCT	RPAR	_	8	punct	_	O
-10	.	.	PUNCT	PERIOD	_	3	punct	_	O
+1	Consecința	consecință	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	scăderea	scădere	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
+4	biodisponibilității	biodisponibilitate	NOUN	Ncfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	3	nmod	_	_
+5	oxidului	oxid	NOUN	Ncmsoy	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	BioNERLabel=B-CHEM
+6	nitric	nitric	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	BioNERLabel=I-CHEM
+7	(	(	PUNCT	LPAR	_	8	punct	_	SpaceAfter=No
+8	NO	NO	NOUN	Yn	Abbr=Yes	3	appos	_	BioNERLabel=B-CHEM|SpaceAfter=No
+9	)	)	PUNCT	RPAR	_	8	punct	_	SpaceAfter=No
+10	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
 ~~~
 
@@ -63,16 +63,16 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 7 root	color:blue
-1	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	advmod	_	O
-2	aceea	acela	PRON	Pd3fsr	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	1	fixed	_	O
-3	,	,	PUNCT	COMMA	_	1	punct	_	O
-4	testele	test	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	7	nsubj	_	B-PROC
-5	non-invazive	non-invaziv	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	I-PROC
-6	sunt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	O
-7	importante	important	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	0	root	_	O
-8	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	O
-9	diagnostic	diagnostic	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	7	obl	_	O
-10	.	.	PUNCT	PERIOD	_	7	punct	_	O
+1	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	advmod	_	_
+2	aceea	acela	PRON	Pd3fsr	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	1	fixed	_	SpaceAfter=No
+3	,	,	PUNCT	COMMA	_	1	punct	_	_
+4	testele	test	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	7	nsubj	_	BioNERLabel=B-PROC
+5	non-invazive	non-invaziv	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	BioNERLabel=I-PROC
+6	sunt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	importante	important	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	0	root	_	_
+8	pentru	pentru	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
+9	diagnostic	diagnostic	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+10	.	.	PUNCT	PERIOD	_	7	punct	_	_
 
 ~~~
 

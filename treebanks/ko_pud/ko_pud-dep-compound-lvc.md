@@ -29,8 +29,8 @@ The following 6 pairs of parts of speech are connected with `compound:lvc`: <tt>
 5	딸의	딸	NOUN	NN+CM	Case=Gen|Polite=Form	6	nmod:poss	_	MSeg=딸-의|Translit=.ddal.yi|LTranslit=.ddal
 6	살인	_	NOUN	NN	_	7	compound	_	Translit=.sal.in|LTranslit=_
 7	미수	_	NOUN	NN	_	8	compound	_	Translit=.mi.su|LTranslit=_
-8	혐의로	혐의	NOUN	NN+CM	Case=Advb|Polite=Form	10	advmod	_	SpaceAfter=No|MSeg=혐의-로|Translit=.hyeom.yi.ro|LTranslit=.hyeom.yi
-9	도	도	PART	AP	_	8	dep:prt	_	Translit=.do|LTranslit=_
+8	혐의로	혐의	NOUN	NN+CM	Polite=Form	10	advmod	_	SpaceAfter=No|MSeg=혐의-로|Translit=.hyeom.yi.ro|LTranslit=.hyeom.yi
+9	도	도	PART	AP	_	8	case	_	Translit=.do|LTranslit=_
 10	기소되었다	_	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=.gi.so.doe.eoss.da|LTranslit=_
 11	.	.	PUNCT	.	_	10	punct	_	Translit=.|LTranslit=_
 
@@ -70,9 +70,9 @@ The following 6 pairs of parts of speech are connected with `compound:lvc`: <tt>
 2	이	_	DET	DT	_	3	det	_	Translit=.i|LTranslit=_
 3	퍼레이드가	퍼레이드	NOUN	NN+CM	Case=Nom|Polite=Form	8	nsubj	_	MSeg=퍼레이드-가|Translit=.peo.re.i.deu.ga|LTranslit=.peo.re.i.deu
 4	브라질의	브라질	PROPN	NNP+CM	Case=Gen|Polite=Form	5	nmod:poss	_	MSeg=브라질-의|Translit=.beu.ra.jil.yi|LTranslit=.beu.ra.jil
-5	카니발에	카니발	NOUN	NN+CM	Case=Advb|Polite=Form	6	advmod	_	MSeg=카니발-에|Translit=.ka.ni.bal.e|LTranslit=.ka.ni.bal
+5	카니발에	카니발	NOUN	NN+CM	Polite=Form	6	advmod	_	MSeg=카니발-에|Translit=.ka.ni.bal.e|LTranslit=.ka.ni.bal
 6	필적하는	_	NOUN	NN	_	7	acl:relcl	_	SpaceAfter=No|Translit=.pil.jeog.ha.neun|LTranslit=_
-7	행사가	행사	NOUN	NN+CM	Case=Comp|Polite=Form	8	compound:lvc	_	MSeg=행사-가|Translit=.haeng.sa.ga|LTranslit=.haeng.sa
+7	행사가	행사	NOUN	NN+CM	Polite=Form	8	compound:lvc	_	MSeg=행사-가|Translit=.haeng.sa.ga|LTranslit=.haeng.sa
 8	되기를	되기	PART	VV+CM	Case=Acc|Polite=Form|VerbForm=Ger	10	ccomp	_	MSeg=되기-를|Translit=.doe.gi.reul|LTranslit=.doe.gi
 9	바라고	_	VERB	VV	Form=Aux	10	aux	_	Translit=.ba.ra.go|LTranslit=_
 10	있다	_	VERB	VX	Mood=Ind|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=.iss.da|LTranslit=_

@@ -26,7 +26,7 @@ The following 13 pairs of parts of speech are connected with `discourse`: <tt><a
 2	же	же	ADV	Df	_	8	discourse	_	ref=MATT_5.29
 3	око	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	ref=MATT_5.29
 4	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	3	nmod	_	ref=MATT_5.29
-5	десное	деснъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	3	amod	_	ref=MATT_5.29
+5	десное	деснъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	ref=MATT_5.29
 6	съблажнаатъ	съблажнꙗти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	ref=MATT_5.29
 7	тѧ	тꙑ	PRON	Pp	Case=Acc|Number=Sing|Person=2|PronType=Prs	6	obj	_	ref=MATT_5.29
 8	ꙇзьми	изѧти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.29
@@ -48,13 +48,13 @@ The following 13 pairs of parts of speech are connected with `discourse`: <tt><a
 1	бѫдѣте	бꙑти	AUX	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ref=MATT_5.48
 2	оубо	оубо	ADV	Df	_	4	discourse	_	ref=MATT_5.48
 3	вꙑ	вꙑ	PRON	Pp	Case=Nom|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	ref=MATT_5.48
-4	съвръшени	съврьшенъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	0	root	_	ref=MATT_5.48
+4	съвръшени	съврьшенъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	0	root	_	ref=MATT_5.48
 5	ѣко	ꙗко	ADV	Dq	PronType=Rel	10	advmod	_	ref=MATT_5.48
 6	и	и	ADV	Df	_	7	advmod	_	ref=MATT_5.48
 7	отецъ	отьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	ref=MATT_5.48
 8	вашъ	вашь	ADJ	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes	7	nmod	_	ref=MATT_5.48
-9	н҃бскꙑ	небесьскъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	7	amod	_	ref=MATT_5.48
-10	съвръшенъ	съврьшенъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	4	advcl	_	ref=MATT_5.48
+9	н҃бскꙑ	небесьскъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	ref=MATT_5.48
+10	съвръшенъ	съврьшенъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	4	advcl	_	ref=MATT_5.48
 11	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	ref=MATT_5.48
 
 ~~~
@@ -73,9 +73,9 @@ The following 13 pairs of parts of speech are connected with `discourse`: <tt><a
 5	да	да	SCONJ	G-	_	6	mark	_	ref=MATT_21.4
 6	събѫдетъ	събꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	ref=MATT_21.4
 7	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	expl	_	ref=MATT_21.4
-8	реченое	рещи	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	6	nsubj	_	ref=MATT_21.4
+8	реченое	рещи	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	nsubj	_	ref=MATT_21.4
 9	п҃ркмъ	пророкъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	8	obl:agent	_	ref=MATT_21.4
-10	г҃лѭщемъ	глаголати	VERB	V-	Case=Ins|Gender=Masc,Neut|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	9	acl	_	ref=MATT_21.4
+10	г҃лѭщемъ	глаголати	VERB	V-	Case=Ins|Gender=Masc,Neut|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	9	acl	_	ref=MATT_21.4
 
 ~~~
 

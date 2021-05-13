@@ -26,7 +26,7 @@ The following 2 pairs of parts of speech are connected with `flat:foreign`: <tt>
 2	Лучший	лучший	ADJ	_	_	7	compound	_	_
 3	полнометражный	полнометражный	ADJ	_	_	2	flat:foreign	_	_
 4	фильм	фильм	NOUN	_	Case=Nom	2	flat:foreign	_	SpaceAfter=No
-5	»	»	PUNCT	_	_	4	punct	_	_
+5	»	»	PUNCT	_	_	2	punct	_	_
 6	гэһэн	гэһэн	ADV	_	_	7	discourse	_	_
 7	номинацида	номинаци	NOUN	_	Case=Dat	24	nmod	_	_
 8	Александр	Александр	PROPN	_	Case=Nom|Gender=Masc	10	compound	_	_
@@ -61,7 +61,7 @@ The following 2 pairs of parts of speech are connected with `flat:foreign`: <tt>
 2	Лучший	лучший	ADJ	_	_	7	compound	_	_
 3	полнометражный	полнометражный	ADJ	_	_	2	flat:foreign	_	_
 4	фильм	фильм	NOUN	_	Case=Nom	2	flat:foreign	_	SpaceAfter=No
-5	»	»	PUNCT	_	_	4	punct	_	_
+5	»	»	PUNCT	_	_	2	punct	_	_
 6	гэһэн	гэһэн	ADV	_	_	7	discourse	_	_
 7	номинацида	номинаци	NOUN	_	Case=Dat	24	nmod	_	_
 8	Александр	Александр	PROPN	_	Case=Nom|Gender=Masc	10	compound	_	_

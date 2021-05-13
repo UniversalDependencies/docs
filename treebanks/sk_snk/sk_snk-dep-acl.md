@@ -12,7 +12,7 @@ There are 1 language-specific subtypes of `acl`: <tt><a href="sk_snk-dep-acl-rel
 263 nodes (0%) are attached to their parents as `acl`.
 
 263 instances of `acl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.28897338403042.
+Average distance between parent and child is 4.29657794676806.
 
 The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (181; 69% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt>-<tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (51; 19% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (11; 4% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (10; 4% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (6; 2% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt>-<tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sk_snk-pos-X.html">X</a></tt>-<tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 

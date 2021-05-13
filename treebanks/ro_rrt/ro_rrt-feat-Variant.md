@@ -9,40 +9,40 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Short`.
 
-3277 tokens (1%) have a non-empty value of `Variant`.
-310 types (1%) occur at least once with a non-empty value of `Variant`.
+3278 tokens (2%) have a non-empty value of `Variant`.
+311 types (1%) occur at least once with a non-empty value of `Variant`.
 238 lemmas (1%) occur at least once with a non-empty value of `Variant`.
-The feature is used with 11 part-of-speech tags: <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (2063; 1% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (571; 0% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (275; 0% instances), <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (140; 0% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (115; 0% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (70; 0% instances), <tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> (14; 0% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances).
+The feature is used with 11 part-of-speech tags: <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (2064; 1% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (575; 0% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (273; 0% instances), <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (140; 0% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (115; 0% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (70; 0% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> (12; 0% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances).
 
 ### `PRON`
 
-2063 <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> tokens (17% of all `PRON` tokens) have a non-empty value of `Variant`.
+2064 <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> tokens (17% of all `PRON` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="ro_rrt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2058; 100%), <tt><a href="ro_rrt-feat-Strength.html">Strength</a></tt><tt>=Weak</tt> (2056; 100%), <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt> (1740; 84%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1584; 77%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1381; 67%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1114; 54%), <tt><a href="ro_rrt-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (1114; 54%).
+The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="ro_rrt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2059; 100%), <tt><a href="ro_rrt-feat-Strength.html">Strength</a></tt><tt>=Weak</tt> (2057; 100%), <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt> (1741; 84%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1587; 77%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1377; 67%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1115; 54%), <tt><a href="ro_rrt-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (1115; 54%).
 
 `PRON` tokens may have the following values of `Variant`:
 
-* `Short` (2063; 100% of non-empty `Variant`): <em>s-, -și, -l, și-, -i, -se, -o, l-, i-, m-</em>
+* `Short` (2064; 100% of non-empty `Variant`): <em>s-, -și, -l, și-, -i, -se, -o, l-, i-, m-</em>
 
 ### `ADP`
 
-571 <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> tokens (2% of all `ADP` tokens) have a non-empty value of `Variant`.
+575 <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> tokens (2% of all `ADP` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `ADP` and `Variant` co-occurred: <tt><a href="ro_rrt-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (571; 100%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (570; 100%).
+The most frequent other feature values with which `ADP` and `Variant` co-occurred: <tt><a href="ro_rrt-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (575; 100%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (574; 100%).
 
 `ADP` tokens may have the following values of `Variant`:
 
-* `Short` (571; 100% of non-empty `Variant`): <em>într-, dintr-, de-, printr-, -n, pe-, d-, n, p-, -mpotriva</em>
+* `Short` (575; 100% of non-empty `Variant`): <em>într-, dintr-, de-, printr-, -n, pe-, d-, n, p-, pân'</em>
 
 ### `VERB`
 
-275 <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Variant`.
+273 <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `VERB` and `Variant` co-occurred: <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (273; 99%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (237; 86%), <tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (224; 81%), <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (224; 81%), <tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (224; 81%), <tt><a href="ro_rrt-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (221; 80%).
+The most frequent other feature values with which `VERB` and `Variant` co-occurred: <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (271; 99%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (237; 87%), <tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (224; 82%), <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (224; 82%), <tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (224; 82%), <tt><a href="ro_rrt-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (221; 81%).
 
 `VERB` tokens may have the following values of `Variant`:
 
-* `Short` (275; 100% of non-empty `Variant`): <em>făcându, dându, -i, asigurându, e-, tăindu, lovindu, mișcându, rupându, transformându</em>
+* `Short` (273; 100% of non-empty `Variant`): <em>făcându, dându, -i, asigurându, tăindu, e-, lovindu, mișcându, rupându, transformându</em>
 
 `Variant` seems to be **lexical feature** of `VERB`. 100% lemmas (187) occur only with one value of `Variant`.
 
@@ -76,16 +76,6 @@ The most frequent other feature values with which `AUX` and `Variant` co-occurre
 
 * `Short` (70; 100% of non-empty `Variant`): <em>-a, -i, -au, -ai, -ar, -aș, E-, fiindu, -am, -ați</em>
 
-### `SCONJ`
-
-14 <tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> tokens (1% of all `SCONJ` tokens) have a non-empty value of `Variant`.
-
-The most frequent other feature values with which `SCONJ` and `Variant` co-occurred: <tt><a href="ro_rrt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (14; 100%).
-
-`SCONJ` tokens may have the following values of `Variant`:
-
-* `Short` (14; 100% of non-empty `Variant`): <em>c-, de-, dac-</em>
-
 ### `ADV`
 
 13 <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Variant`.
@@ -95,6 +85,16 @@ The most frequent other feature values with which `ADV` and `Variant` co-occurre
 `ADV` tokens may have the following values of `Variant`:
 
 * `Short` (13; 100% of non-empty `Variant`): <em>așa-, -nainte, ne-, -aici, -așa, -ncoace, -ntotdeauna, cân'</em>
+
+### `SCONJ`
+
+12 <tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> tokens (1% of all `SCONJ` tokens) have a non-empty value of `Variant`.
+
+The most frequent other feature values with which `SCONJ` and `Variant` co-occurred: <tt><a href="ro_rrt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (12; 100%).
+
+`SCONJ` tokens may have the following values of `Variant`:
+
+* `Short` (12; 100% of non-empty `Variant`): <em>c-, de-, dac-</em>
 
 ### `NOUN`
 

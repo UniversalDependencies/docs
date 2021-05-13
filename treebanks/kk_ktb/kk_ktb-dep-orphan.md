@@ -27,7 +27,7 @@ The following 6 pairs of parts of speech are connected with `orphan`: <tt><a hre
 3	кісінің	кісі	NOUN	n	Case=Gen	4	nmod:poss	_	_
 4	көңіліне	көңіл	NOUN	n	Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3	5	orphan	_	_
 5	ақыл	ақыл	NOUN	n	Case=Nom	0	root	_	SpaceAfter=No
-6	,	,	PUNCT	cm	_	5	punct	_	_
+6	,	,	PUNCT	cm	_	8	punct	_	_
 7	бойында	бой	NOUN	n	Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3	8	orphan	_	_
 8	ар	ар	NOUN	n	Case=Nom	5	conj	_	SpaceAfter=No
 9	,	,	PUNCT	cm	_	8	punct	_	_
@@ -52,16 +52,16 @@ The following 6 pairs of parts of speech are connected with `orphan`: <tt><a hre
 4	және	және	CCONJ	cnjcoo	_	5	cc	_	_
 5	Кура-Аракс	Кура-Аракс	PROPN	np	Case=Nom	3	conj	_	_
 6	ойпаттары	ойпат	NOUN	n	Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3	0	root	_	SpaceAfter=No
-7	,	,	PUNCT	cm	_	6	punct	_	_
+7	,	,	PUNCT	cm	_	10	punct	_	_
 8	солтүстік-шығысын	солтүстік-шығыс	ADJ	adj	Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3	10	orphan	_	_
 9	Горган	Горган	PROPN	np	Case=Nom	10	nmod:poss	_	_
 10	жазығы	жазық	NOUN	n	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	6	conj	_	SpaceAfter=No
 11	,	,	PUNCT	cm	_	10	punct	_	_
 12	оңтүстігін	оңтүстік	ADJ	adj	Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3	16	obj	_	_
-13	—	—	PUNCT	guio	_	16	punct	_	_
+13	—	—	PUNCT	guio	_	12	punct	_	_
 14	Гермезир	Гермезир	PROPN	np	Case=Nom	15	nmod:poss	_	_
 15	шөлі	шөл	NOUN	n	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	16	nsubj	_	_
-16	алып	ал	VERB	v	Aspect=Perf|VerbForm=Cov	6	conj	_	_
+16	алып	ал	VERB	v	Aspect=Perf|VerbForm=Inf	6	conj	_	_
 17	жатыр	жат	AUX	vaux	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	SpaceAfter=No
 18	.	.	PUNCT	sent	_	16	punct	_	_
 
@@ -79,7 +79,7 @@ The following 6 pairs of parts of speech are connected with `orphan`: <tt><a hre
 3	сүтқоректілердің	сүтқоректі	NOUN	n	Case=Gen|Number=Plur	0	root	_	_
 4	100-ге	100	NUM	num	Case=Dat|NumType=Card,Ord	3	orphan	_	_
 5	тарта	тарта	ADP	post	_	4	case	_	SpaceAfter=No
-6	,	,	PUNCT	cm	_	3	punct	_	_
+6	,	,	PUNCT	cm	_	7	punct	_	_
 7	құстардың	құс	NOUN	n	Case=Gen|Number=Plur	3	conj	_	_
 8	400-ге	400	NUM	num	Case=Dat|NumType=Card,Ord	7	orphan	_	_
 9	жуық	жуық	ADP	post	_	8	case	_	SpaceAfter=No

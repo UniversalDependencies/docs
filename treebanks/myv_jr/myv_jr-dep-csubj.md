@@ -46,9 +46,9 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 2	ульнесь	ульнемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	1	cop	_	GTtags=IV,Ind,Prt1,ScSg3
 3	велявтомс	велявтомс	VERB	V	Valency=1|VerbForm=Inf	1	csubj	_	GTtags=IV,Inf
 4	вейке	вейке	NUM	Num	Case=Nom|Definite=Ind|Number=Sing|NumType=Card	5	nummod	_	GTtags=Card,Sg,Nom,Indef
-5	бока	бока	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	6	nmod:part	_	GTtags=Relator,Sg,Nom,Indef
-6	лангсто	ланго	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	3	obl:lmod	_	GTtags=Relator,SP,Ela,Indef
-7	омбоцес	омбоце	DET	Det	Case=Ill|Definite=Ind|Number=Plur,Sing|NumType=Ord	5	conj	_	GTtags=Ord,SP,Ill,Indef|SpaceAfter=No
+5	бока	бока	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	6	nmod	_	GTtags=Relator,Sg,Nom,Indef
+6	лангсто	ланго	NOUN	N	Case=Ela|Definite=Ind|NounType=Relat|Number=Plur,Sing	3	obl:lfrom	_	GTtags=Relator,SP,Ela,Indef
+7	омбоцес	омбоце	ADJ	A	Case=Ill|Definite=Ind|Number=Plur,Sing|NumType=Ord	5	conj	_	GTtags=Ord,SP,Ill,Indef|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
@@ -63,10 +63,10 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 1	—	—	PUNCT	PUNCT	_	2	punct	_	_
 2	Паро	паро	ADJ	A	_	0	root	_	_
 3	се	се	DET	Det	Number=Sing|PronType=Dem	4	det	_	GTtags=Dem,Sg
-4	шкане	шка	NOUN	N	Case=Temp|Definite=Ind|Number=Plur,Sing	5	obl	_	GTtags=SP,TempCx,Indef
+4	шкане	шка	NOUN	N	Case=Tem|Definite=Ind|Number=Plur,Sing	5	obl	_	GTtags=SP,TempCx,Indef
 5	вирьсэлить	вирь	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing|Number[subj]=Sing|Person[subj]=2|Tense=Past	2	csubj	_	GTtags=Sem/Plc,SP,Ine,Indef,Prt2,ScSg2
 6	—	—	PUNCT	PUNCT	_	7	punct	_	_
-7	маштовлидизь	маштомс	VERB	V	Mood=Cnj|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=2|Person[subj]=3|Valency=2	5	conj	_	GTtags=TV,Hom2,Conj,ScPl3,OcSg2
+7	маштовлидизь	маштомс	VERB	V	Mood=Sub|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=2|Person[subj]=3|Valency=2	5	conj	_	GTtags=TV,Hom2,Conj,ScPl3,OcSg2
 8	тонть	тон	PRON	Pron	Case=Gen|Number=Sing|Person=2|PronType=Prs	7	obj	_	GTtags=Pers,Sg2,Err/Orth,Dial,Gen|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	2	punct	_	_
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Manuela Sanguinetti.
 
 Repository: [UD_French-ParTUT](https://github.com/UniversalDependencies/UD_French-ParTUT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_partut27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_partut28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -127,11 +127,11 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 </ul>
 
 <ul>
-<li>This corpus contains 51 lemmas tagged as pronouns (PRON): aucun, auquel, autre, autrui, beaucoup, ce, ceci, cela, celle, celles, celui, celui-ci, certain, ceux, ceux-ci, chacun, dernier, dont, elle, elle-même, en, eux-mêmes, il, je, le, lequel, leur, lui, me, moi, moi-même, nous, nul, on, où, personne, premier, que, quel, qui, quiconque, quoi, rien, se, si, sien, soi, tout, un, vous, y</li>
+<li>This corpus contains 48 lemmas tagged as pronouns (PRON): aucun, auquel, autre, autrui, beaucoup, ce, ceci, cela, celle, celui, celui-ci, certain, ceux, chacun, dernier, dont, elle, en, il, je, le, lequel, leur, lui, lui-même, me, moi, moi-même, nous, nul, on, où, personne, premier, que, quel, qui, quiconque, quoi, rien, se, si, sien, soi, tout, un, vous, y</li>
 </ul>
 
 <ul>
-<li>This corpus contains 28 lemmas tagged as determiners (DET): aucun, autre, ce, certain, ces, cet, cette, chaque, de, la, le, leur, maint, mon, nombreux, nos, notre, plusieurs, quel, quelconque, quelque, son, tel, tout, un, uno, vos, votre</li>
+<li>This corpus contains 29 lemmas tagged as determiners (DET): aucun, autre, ce, certain, ces, cet, cette, chaque, de, l', la, le, leur, maint, mon, nombreux, nos, notre, plusieurs, quel, quelconque, quelque, son, tel, tout, un, uno, vos, votre</li>
 </ul>
 
 <ul>
@@ -139,31 +139,22 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 </ul>
 
 <ul>
-<li>This corpus contains 8 lemmas tagged as auxiliaries (AUX): aller, avoir, devoir, faire, pouvoir, savoir, vouloir, être</li>
+<li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): avoir, faire, être</li>
 </ul>
 
 <ul>
-<li>Out of the above, 7 lemmas occurred sometimes as AUX and sometimes as VERB: aller, avoir, faire, pouvoir, savoir, vouloir, être</li>
+<li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: avoir, faire, être</li>
 </ul>
 
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: est, a, sont, ont, peut, voudrais, doit, devrait, sera, peuvent</li>
-    <li>VERB: a, est, convient, ont, fait, concerne, pense, font, faut, agit</li>
-  </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Ger
-  <ul>
-    <li>AUX: étant, ayant, faisant</li>
-    <li>VERB: Considérant, concernant, établissant, attendant, sachant, tenant, utilisant, affirmant, agissant, aidant</li>
+    <li>AUX: est, a, sont, ont, sera, soient, soit, suis, étaient, était</li>
+    <li>VERB: a, peut, voudrais, doit, est, devrait, convient, ont, peuvent, fait</li>
   </ul>
   </li>
 </ul>
@@ -171,7 +162,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: être, faire, avoir, pouvoir, aller</li>
+    <li>AUX: être, faire, avoir</li>
     <li>VERB: faire, améliorer, dire, abonner, assurer, savoir, avoir, compter, utiliser, communiquer</li>
   </ul>
   </li>
@@ -180,8 +171,8 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>Part
   <ul>
-    <li>AUX: été, pu, ayant, dû, fait, étant</li>
-    <li>VERB: dite, fait, tenu, concernant, compris, donné, mis, soumis, dit, visant</li>
+    <li>AUX: été, étant, ayant, faisant, fait</li>
+    <li>VERB: dite, concernant, fait, tenu, compris, donné, mis, soumis, considérant, dit</li>
   </ul>
   </li>
 </ul>
@@ -209,7 +200,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
   <li>Masc
     <ul>
       <li>ADJ: présent, européen, structurels, faux, important, premier, public, seul, nouveau, divers</li>
-      <li>AUX-Part: été, pu, dû, fait</li>
+      <li>AUX-Part: été, fait</li>
       <li>DET: le, un, ce, des, son, tous, tout, votre, cet, mon</li>
       <li>NOUN: pays, parlement, programme, membres, droit, états, contrat, rapport, cas, conseil</li>
       <li>PRON: il, on, ils, le, ceux, chacun, tous, -il, Nul, celui</li>
@@ -228,11 +219,11 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
   <li>Plur
     <ul>
       <li>ADJ: autres, nécessaires, applicables, structurels, dangereuses, mêmes, communautaires, techniques, disponibles, publicitaires</li>
-      <li>AUX-Fin: sont, ont, peuvent, soient, pouvez, étaient, devons, doivent, sommes, devraient</li>
+      <li>AUX-Fin: sont, ont, soient, étaient, sommes, avons, avez, êtes, seront, aient</li>
       <li>DET: les, des, ces, tous, ses, leurs, certains, nos, toutes, de</li>
       <li>NOUN: membres, états, droits, fonds, mesures, exigences, produits, termes, transports, conditions</li>
       <li>PRON: nous, vous, ils, elles, ceux, tous, autres, ceux-ci, leur, auxquelles</li>
-      <li>VERB-Fin: ont, font, espérons, choisissez, cliquez, utilisez, accumulent, appliquent, avons, demandons</li>
+      <li>VERB-Fin: ont, peuvent, pouvez, devons, doivent, font, devraient, devrions, espérons, allons</li>
       <li>VERB-Part: dites, utilisés, adoptées, harmonisées, prévues, rendues, accordés, appliquées, concernées, existants</li>
     </ul>
   </li>
@@ -242,13 +233,14 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
   <li>Sing
     <ul>
       <li>ADJ: présent, technique, européen, possible, communautaire, nécessaire, présente, économique, autre, applicable</li>
-      <li>AUX: est, a, été, peut, voudrais, doit, devrait, sera, soit, suis</li>
-      <li>AUX-Fin: est, a, peut, voudrais, doit, devrait, sera, soit, suis, était</li>
-      <li>AUX-Part: été, pu, ayant, dû, fait, étant</li>
+      <li>AUX: est, a, été, sera, soit, suis, était, ai, ait, serait</li>
+      <li>AUX-Fin: est, a, sera, soit, suis, était, ai, ait, serait, avait</li>
+      <li>AUX-Part: été, ayant, fait, étant</li>
       <li>DET: le, la, l', une, un, ce, cette, toute, son, votre</li>
       <li>NOUN: commission, parlement, oeuvre, programme, droit, sécurité, contrat, rapport, directive, conseil</li>
-      <li>PRON: il, je, ce, on, j', l', le, elle, cela, chacun</li>
-      <li>VERB-Fin: a, est, convient, fait, concerne, pense, faut, agit, demande, tiens</li>
+      <li>PRON: il, je, ce, on, j', le, elle, l', cela, chacun</li>
+      <li>VERB: a, peut, voudrais, fait, doit, est, dite, devrait, convient, tenu</li>
+      <li>VERB-Fin: a, peut, voudrais, doit, est, devrait, convient, fait, concerne, pense</li>
       <li>VERB-Part: dite, fait, tenu, compris, concernant, donné, dit, visant, demandé, proposé</li>
     </ul>
   </li>
@@ -305,8 +297,8 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>Cnd
     <ul>
-      <li>AUX-Fin: voudrais, devrait, devraient, serait, devrions, pourrait, aurait, aurions, pourraient, aurais</li>
-      <li>VERB-Fin: conviendrait, souhaiterais, aimeraient, altérerait, apparaîtra, augmenterait, aurait, entraîneraient, entraînerait, ferait</li>
+      <li>AUX-Fin: serait, aurait, aurions, aurais, seraient</li>
+      <li>VERB-Fin: voudrais, devrait, devraient, devrions, pourrait, conviendrait, pourraient, saurait, souhaiterais, aimeraient</li>
     </ul>
   </li>
 </ul>
@@ -323,8 +315,8 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: est, a, sont, ont, peut, doit, sera, peuvent, pouvez, suis</li>
-      <li>VERB-Fin: a, est, convient, ont, fait, concerne, pense, font, faut, agit</li>
+      <li>AUX-Fin: est, a, sont, ont, sera, suis, étaient, était, sommes, ai</li>
+      <li>VERB-Fin: a, peut, doit, est, convient, ont, peuvent, fait, pouvez, concerne</li>
     </ul>
   </li>
 </ul>
@@ -332,8 +324,8 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>Sub
     <ul>
-      <li>AUX-Fin: soient, soit, ait, aient, puissions, ayons, puisse, puissent, soyons</li>
-      <li>VERB-Fin: ait, permettent, prenne, soit, fonctionne, accélèrent, agisse, atteigne, clarifie, examine</li>
+      <li>AUX-Fin: soient, soit, ait, aient, ayons, soyons</li>
+      <li>VERB-Fin: ait, permettent, prenne, soit, fonctionne, puissions, accélèrent, agisse, atteigne, clarifie</li>
     </ul>
   </li>
 </ul>
@@ -345,8 +337,8 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>Fut
     <ul>
-      <li>AUX-Fin: sera, devra, pourront, seront, pourra, aurai, aurons, auront, devrons, devront</li>
-      <li>VERB-Fin: aura, auront, dirai, ferai, soutiendra, acceptera, adhéreront, adopterons, adopteront, affichera</li>
+      <li>AUX-Fin: sera, seront, aurai, aurons, auront</li>
+      <li>VERB-Fin: devra, pourront, aura, auront, dirai, ferai, pourra, soutiendra, acceptera, adhéreront</li>
     </ul>
   </li>
 </ul>
@@ -354,7 +346,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: était, avait, avaient, avions, étaient, avais, devait, devions, faisaient, pouvait</li>
+      <li>AUX-Fin: était, avait, avaient, avions, étaient, avais, faisaient, étais</li>
       <li>VERB-Fin: avait, provenaient, recommandait, arrivait, attendait, avaient, constituaient, contenaient, contenait, couvrait</li>
     </ul>
   </li>
@@ -363,7 +355,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Part: été, pu, dû, fait</li>
+      <li>AUX-Part: été, fait</li>
       <li>VERB-Fin: agit, fournit, accélèrent, adhèrent, altèrent, génèrent, inclut, pris, remplit, repris</li>
       <li>VERB-Part: dite, fait, tenu, compris, donné, mis, dit, soumis, nommés, demandé</li>
     </ul>
@@ -373,12 +365,13 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>Pres
     <ul>
-      <li>AUX: est, a, sont, ont, peut, voudrais, doit, devrait, soit, peuvent</li>
-      <li>AUX-Fin: est, a, sont, ont, peut, voudrais, doit, devrait, peuvent, soient</li>
-      <li>AUX-Part: ayant, étant</li>
-      <li>VERB-Fin: a, est, convient, ont, fait, concerne, pense, font, faut, demande</li>
+      <li>AUX: est, a, sont, ont, soit, soient, suis, étaient, étant, sommes</li>
+      <li>AUX-Fin: est, a, sont, ont, soient, soit, suis, étaient, sommes, ai</li>
+      <li>AUX-Part: étant, ayant, faisant</li>
+      <li>VERB: a, peut, voudrais, doit, est, devrait, concernant, convient, ont, peuvent</li>
+      <li>VERB-Fin: a, peut, voudrais, doit, est, devrait, convient, ont, peuvent, fait</li>
       <li>VERB-Inf: retirer</li>
-      <li>VERB-Part: concernant, visant, modifiant, existants, comprenant, participants, établissant, assurant, découlant, existante</li>
+      <li>VERB-Part: concernant, considérant, visant, établissant, modifiant, existants, comprenant, participants, sachant, allant</li>
     </ul>
   </li>
 </ul>
@@ -403,7 +396,6 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>Dem
     <ul>
-      <li>ADJ: tel</li>
       <li>DET: ce, cette, ces, cet, de, d', Des, telles</li>
       <li>PRON: c', ce, cela, ceux, ça, ceci, celui, -ce, celle, celui-ci</li>
     </ul>
@@ -421,8 +413,8 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>Ind
     <ul>
-      <li>DET: toute, certains, tout, aucune, chaque, quelques, aucun, autres, certaines, plusieurs</li>
-      <li>PRON: chacun, tous, Nul, autres, beaucoup, un, Quiconque, aucune, autre, autrui</li>
+      <li>DET: toute, tous, tout, certains, aucune, toutes, chaque, quelques, aucun, autres</li>
+      <li>PRON: chacun, tous, on, Nul, autres, beaucoup, un, Quiconque, aucune, autre</li>
     </ul>
   </li>
 </ul>
@@ -447,7 +439,6 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>Prs
     <ul>
-      <li>ADP: En</li>
       <li>DET: son, votre, sa, leur, ses, notre, leurs, mon, nos, vos</li>
       <li>PRON: nous, il, je, vous, s', y, se, on, en, ils</li>
     </ul>
@@ -458,15 +449,6 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
   <li>Rel
     <ul>
       <li>PRON: qui, que, qu', dont, où, laquelle, quoi, lequel, auxquelles, lesquels</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Tot
-    <ul>
-      <li>DET: tous, toutes, toute, tout</li>
-      <li>PRON: tous</li>
     </ul>
   </li>
 </ul>
@@ -512,9 +494,9 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>1
     <ul>
-      <li>AUX-Fin: voudrais, suis, devons, sommes, ai, avons, devrions, allons, pouvons, vais</li>
+      <li>AUX-Fin: suis, sommes, ai, avons, aurions, avions, aurai, aurais, aurons, avais</li>
       <li>PRON: nous, je, j', me, m', moi, moi-même, -moi, -nous</li>
-      <li>VERB-Fin: pense, espérons, tiens, crois, avons, demandons, pensons, voyons, ai, espère</li>
+      <li>VERB-Fin: voudrais, pense, devons, devrions, espérons, tiens, allons, crois, pouvons, avons</li>
     </ul>
   </li>
 </ul>
@@ -522,10 +504,10 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>2
     <ul>
-      <li>AUX: pouvez, avez, êtes, Faites, devez, pourrez, va, voulez</li>
-      <li>AUX-Fin: pouvez, avez, êtes, Faites, devez, pourrez, voulez</li>
+      <li>AUX-Fin: avez, êtes, Faites</li>
       <li>PRON: vous, -vous</li>
-      <li>VERB-Fin: choisissez, cliquez, utilisez, avez, permettez, souhaitez, connaissez, publiez, saisissez, voyez</li>
+      <li>VERB: pouvez, choisissez, cliquez, utilisez, avez, permettez, souhaitez, connaissez, publiez, saisissez</li>
+      <li>VERB-Fin: pouvez, choisissez, cliquez, utilisez, avez, permettez, souhaitez, connaissez, publiez, saisissez</li>
       <li>VERB-Part: dites</li>
     </ul>
   </li>
@@ -534,12 +516,11 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>3
     <ul>
-      <li>ADP: En</li>
-      <li>AUX: est, a, sont, ont, peut, doit, devrait, sera, soit, peuvent</li>
-      <li>AUX-Fin: est, a, sont, ont, peut, doit, devrait, sera, peuvent, soient</li>
+      <li>AUX: est, a, sont, ont, sera, soit, soient, étaient, était, ait</li>
+      <li>AUX-Fin: est, a, sont, ont, sera, soient, soit, étaient, était, ait</li>
       <li>DET: une</li>
-      <li>PRON: il, ce, s', se, on, ils, l', le, elle, elles</li>
-      <li>VERB-Fin: a, est, convient, ont, fait, concerne, font, faut, agit, apporte</li>
+      <li>PRON: il, ce, s', se, on, ils, le, elle, elles, l'</li>
+      <li>VERB-Fin: a, peut, doit, est, devrait, convient, ont, peuvent, fait, concerne</li>
     </ul>
   </li>
 </ul>
@@ -559,7 +540,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 </ul>
 
 <ul>
-<li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: avoir, pouvoir, devoir, être, vouloir, aller, savoir.</li>
+<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: avoir, être.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: être, avoir.</li>
 </ul>
 
@@ -569,16 +550,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (283)</li>
+      <li>VERB--NOUN (1)</li>
+      <li>VERB-Fin--NOUN (349)</li>
       <li>VERB-Fin--NOUN-ADP(de) (5)</li>
-      <li>VERB-Fin--PRON (448)</li>
-      <li>VERB-Ger--NOUN (2)</li>
-      <li>VERB-Ger--NOUN-ADP(de) (1)</li>
-      <li>VERB-Ger--PRON (1)</li>
-      <li>VERB-Inf--NOUN (58)</li>
-      <li>VERB-Inf--PRON (132)</li>
-      <li>VERB-Part--NOUN (89)</li>
-      <li>VERB-Part--PRON (97)</li>
+      <li>VERB-Fin--PRON (577)</li>
+      <li>VERB-Inf--PRON (4)</li>
+      <li>VERB-Part--NOUN (90)</li>
+      <li>VERB-Part--NOUN-ADP(de) (1)</li>
+      <li>VERB-Part--PRON (94)</li>
     </ul>
   </li>
 </ul>
@@ -591,13 +570,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(jusque) (1)</li>
       <li>VERB-Fin--PRON (97)</li>
       <li>VERB-Fin--PRON-ADP(de) (1)</li>
-      <li>VERB-Ger--NOUN (34)</li>
-      <li>VERB-Ger--PRON (2)</li>
       <li>VERB-Inf--NOUN (340)</li>
       <li>VERB-Inf--PRON (65)</li>
       <li>VERB-Inf--PRON-ADP(de) (1)</li>
-      <li>VERB-Part--NOUN (131)</li>
-      <li>VERB-Part--PRON (41)</li>
+      <li>VERB-Part--NOUN (165)</li>
+      <li>VERB-Part--PRON (43)</li>
     </ul>
   </li>
 </ul>

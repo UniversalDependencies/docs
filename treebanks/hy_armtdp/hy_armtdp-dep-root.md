@@ -31,7 +31,7 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 7	մասին	մասին	ADP	_	AdpType=Post	6	case	_	Translit=masin|LTranslit=masin
 8	և	և	CCONJ	_	_	9	cc	_	Translit=ew|LTranslit=ew
 9	ոգևորվում	ոգևորվել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	2	conj	_	Translit=ogeworvowm|LTranslit=ogeworvel
-10	այդ	այդ	DET	_	Distance=Med|PronType=Dem	11	det	_	Translit=ayd|LTranslit=ayd
+10	այդ	այդ	DET	_	Deixis=Med|PronType=Dem	11	det	_	Translit=ayd|LTranslit=ayd
 11	պարտությամբ	պարտություն	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	9	obl	_	Translit=partowt’yamb|LTranslit=partowt’yown|SpaceAfter=No
 12	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 

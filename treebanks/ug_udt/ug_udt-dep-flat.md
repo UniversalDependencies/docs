@@ -30,7 +30,7 @@ The following 7 pairs of parts of speech are connected with `flat`: <tt><a href=
 6	بەش	بەش	NUM	M	_	7	nummod	_	Translit=besh
 7	قىزنى	قىز	NOUN	N	Case=Acc	9	obj	_	Translit=qizni
 8	دەريادىن	_	NOUN	N	_	9	obl	_	Translit=deryadin|Morf=Unknown
-9	ئۆتكۈزۈپ	ئۆتكۈز	VERB	V	Aspect=Perf|VerbForm=Cov	0	root	_	Translit=ötküzüp
+9	ئۆتكۈزۈپ	ئۆتكۈز	VERB	V	Aspect=Perf|VerbForm=Inf	0	root	_	Translit=ötküzüp
 10	قويسىڭىز	_	AUX	V	_	9	aux	_	SpaceAfter=No|Translit=qoysingiz|Morf=Unknown
 11	،	،	PUNCT	Y	_	10	punct	_	Translit=,
 

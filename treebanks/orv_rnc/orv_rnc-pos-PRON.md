@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of PRON in UD_Old_Russian-RNC'
+title:  'Statistics of PRON in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: POS Tags: `PRON`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: POS Tags: `PRON`
 
 There are 49 `PRON` lemmas (1%), 158 `PRON` types (2%) and 1648 `PRON` tokens (5%).
 Out of 17 observed tags, the rank of `PRON` is: 8 in number of lemmas, 8 in number of types and 8 in number of tokens.
@@ -13,7 +13,7 @@ The 10 most frequent `PRON` lemmas: <em>онъ, ты, они, я, мы, что, 
 
 The 10 most frequent `PRON` types:  <em>что, ево, ты, тебѣ, я, его, ему, они, имъ, тебе</em>
 
-The 10 most frequent ambiguous lemmas: <em>что</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 95, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 59, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1), <em>то</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 73, <tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 2), <em>который</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 31, <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 20), <em>тотъ</em> (<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 362, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 18), <em>иже</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 16, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 2), <em>все</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 15, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1), <em>се</em> (<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 14, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 6), <em>весь</em> (<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 173, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 2), <em>кой</em> (<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 8, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 2), <em>сей</em> (<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 77, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>что</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 94, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 59, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1), <em>то</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 73, <tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 2), <em>который</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 31, <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 20), <em>тотъ</em> (<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 362, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 18), <em>иже</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 16, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 2), <em>все</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 15, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1), <em>се</em> (<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 14, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 6), <em>што</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 3, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 1), <em>весь</em> (<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 173, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 2), <em>кой</em> (<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 8, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 2)
 
 The 10 most frequent ambiguous types:  <em>что</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 68, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 59, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1), <em>онъ</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 35, <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 1), <em>ти</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 34, <tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 1), <em>томъ</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 23, <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 12), <em>того</em> (<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 30, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 20), <em>которые</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 18, <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 7), <em>то</em> (<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 39, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 18, <tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 2), <em>иже</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 8, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 2), <em>том</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 9, <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 5), <em>тово</em> (<tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 11, <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 7)
 
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>что</em> (<tt><a href="orv_rnc-pos
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 3.224490 (the average of all parts of speech is 1.947446).
+The form / lemma ratio of `PRON` is 3.224490 (the average of all parts of speech is 1.947924).
 
 The 1st highest number of forms (17) was observed with the lemma “онъ”: <em>ево, ег[о], его, ему, емꙋ, им, имъ, их, нево, него, нему, немъ, ним, нимъ, них, он, онъ</em>.
 

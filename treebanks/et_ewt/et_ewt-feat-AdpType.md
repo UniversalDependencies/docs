@@ -9,19 +9,19 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Post`, `Prep`.
 
-925 tokens (2%) have a non-empty value of `AdpType`.
-126 types (1%) occur at least once with a non-empty value of `AdpType`.
-108 lemmas (1%) occur at least once with a non-empty value of `AdpType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (920; 2% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (5; 0% instances).
+1077 tokens (2%) have a non-empty value of `AdpType`.
+132 types (1%) occur at least once with a non-empty value of `AdpType`.
+114 lemmas (1%) occur at least once with a non-empty value of `AdpType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (1071; 2% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (6; 0% instances).
 
 ### `ADP`
 
-920 <tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> tokens (99% of all `ADP` tokens) have a non-empty value of `AdpType`.
+1071 <tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> tokens (99% of all `ADP` tokens) have a non-empty value of `AdpType`.
 
 `ADP` tokens may have the following values of `AdpType`:
 
-* `Post` (751; 82% of non-empty `AdpType`): <em>eest, kohta, jaoks, peale, pärast, puhul, all, vastu, järgi, juurde</em>
-* `Prep` (169; 18% of non-empty `AdpType`): <em>peale, üle, enne, ilma, pärast, koos, läbi, tänu, kuni, mööda</em>
+* `Post` (862; 80% of non-empty `AdpType`): <em>eest, kohta, jaoks, peale, puhul, pärast, järgi, all, vastu, alla</em>
+* `Prep` (209; 20% of non-empty `AdpType`): <em>üle, peale, enne, ilma, koos, pärast, läbi, tänu, mööda, kuni</em>
 
 <table>
   <tr><th>Paradigm <i>peale</i></th><th><tt>Post</tt></th><th><tt>Prep</tt></th></tr>
@@ -30,10 +30,10 @@ The feature is used with 2 part-of-speech tags: <tt><a href="et_ewt-pos-ADP.html
 
 ### `ADV`
 
-5 <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `AdpType`.
+6 <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `AdpType`.
 
 `ADV` tokens may have the following values of `AdpType`:
 
-* `Post` (2; 40% of non-empty `AdpType`): <em>ette, peale</em>
-* `Prep` (3; 60% of non-empty `AdpType`): <em>enne, mööda, pärast</em>
+* `Post` (3; 50% of non-empty `AdpType`): <em>ette, peale, üle</em>
+* `Prep` (3; 50% of non-empty `AdpType`): <em>enne, mööda, pärast</em>
 

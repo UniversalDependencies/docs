@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3543 nodes (10%) are attached to their parents as `case`.
+3538 nodes (10%) are attached to their parents as `case`.
 
-3543 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.68924640135478.
+3538 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.68711136235161.
 
-The following 12 pairs of parts of speech are connected with `case`: <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (2716; 77% instances), <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (425; 12% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (204; 6% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (90; 3% instances), <tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (37; 1% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (34; 1% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-SCONJ.html">SCONJ</a></tt> (12; 0% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-SCONJ.html">SCONJ</a></tt> (10; 0% instances), <tt><a href="fr_spoken-pos-X.html">X</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fr_spoken-pos-X.html">X</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `case`: <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (2710; 77% instances), <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (423; 12% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (204; 6% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (90; 3% instances), <tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (37; 1% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (35; 1% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-SCONJ.html">SCONJ</a></tt> (14; 0% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-SCONJ.html">SCONJ</a></tt> (10; 0% instances), <tt><a href="fr_spoken-pos-X.html">X</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fr_spoken-pos-X.html">X</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -37,7 +37,7 @@ The following 12 pairs of parts of speech are connected with `case`: <tt><a href
 1	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	_
 2	allez	aller	VERB	ETRE	Number=Plur|Person=2	0	root	_	_
 3	être	être	AUX	_	VerbForm=Inf	4	cop	_	_
-4	médecin	médecin	NOUN	_	Gender=Masc|Number=Sing	2	xcomp:obj	_	_
+4	médecin	médecin	NOUN	_	Gender=Masc|Number=Sing	2	xcomp	_	_
 5	en	en	ADP	_	_	6	case	_	_
 6	France	France	PROPN	_	_	4	nmod	_	_
 7	en	en	ADP	_	_	8	case	_	_

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="qtd_sagt-dep-aux.html">aux</a></tt>.
 There are also 1 other language-specific subtypes of `aux`: <tt><a href="qtd_sagt-dep-aux-pass.html">aux:pass</a></tt>.
 
-144 nodes (0%) are attached to their parents as `aux:q`.
+159 nodes (0%) are attached to their parents as `aux:q`.
 
-131 instances of `aux:q` (91%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.09027777777778.
+144 instances of `aux:q` (91%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.08176100628931.
 
-The following 8 pairs of parts of speech are connected with `aux:q`: <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (61; 42% instances), <tt><a href="qtd_sagt-pos-PART.html">PART</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (31; 22% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (20; 14% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (15; 10% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (8; 6% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (5; 3% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="qtd_sagt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `aux:q`: <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (68; 43% instances), <tt><a href="qtd_sagt-pos-PART.html">PART</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (34; 21% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (24; 15% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (15; 9% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (8; 5% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (5; 3% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (4; 3% instances), <tt><a href="qtd_sagt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -52,7 +52,7 @@ The following 8 pairs of parts of speech are connected with `aux:q`: <tt><a href
 7	,	,	PUNCT	_	_	8	punct	_	LangID=OTHER
 8	değil	değil	PART	_	_	5	parataxis:discourse	_	LangID=TR
 9	mi	mi	AUX	_	Number=Sing|Person=3	8	aux:q	_	LangID=TR
-10	ki	ki	ADV	_	_	8	advmod	_	SpaceAfter=No
+10	ki	ki	ADV	_	_	8	advmod	_	LangID=TR|SpaceAfter=No
 11	.	.	PUNCT	_	_	5	punct	_	LangID=OTHER
 
 ~~~
@@ -68,7 +68,7 @@ The following 8 pairs of parts of speech are connected with `aux:q`: <tt><a href
 2	orda	ora	PRON	_	Case=Loc|Number=Sing	8	obl	_	LangID=TR
 3	etrafında	etraf	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=2	8	obl	_	LangID=TR
 4	aber	aber	CCONJ	_	_	8	cc	_	LangID=DE
-5	ge--	genç	ADJ	_	_	6	reparandum	_	LangID=DE
+5	ge--	genç	ADJ	_	_	6	reparandum	_	LangID=DE|CorrectForm=genç
 6	genç	genç	ADJ	_	_	8	nsubj	_	LangID=TR
 7	de	de	ADV	_	_	6	advmod:emph	_	LangID=TR
 8	var	var	ADJ	_	_	0	root	_	LangID=TR

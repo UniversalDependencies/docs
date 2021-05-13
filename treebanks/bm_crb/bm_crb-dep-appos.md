@@ -38,7 +38,7 @@ The following 3 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 6	fgColor:white
 # visual-style 6 7 appos	color:blue
 1	limògòw	limɔgɔw	NOUN	n	Number=Plur	4	nsubj	_	Gloss=mouche|Morf=mouche,PL
-2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
+2	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
 3	i	í	PRON	pers	PronType=Prs	4	obj	_	Gloss=REFL
 4	kanto	kán.to	VERB	v	_	0	root	_	Gloss=s'adresser|Morf=s'adresser,cou,rester
 5	ko	kó	PART	cop	_	13	discourse	_	Gloss=
@@ -46,7 +46,7 @@ The following 3 pairs of parts of speech are connected with `appos`: <tt><a href
 7	San	San	PROPN	n.prop	_	6	appos	_	Gloss=NOM.M|Morf=NOM.M,San|SpaceAfter=No
 8	,	,	PUNCT	_	_	6	punct	_	Gloss=,
 9	an	án	PRON	pers	Number=Plur|Person=1|PronType=Prs	13	nsubj	_	Gloss=1PL
-10	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	13	aux	_	Gloss=IPFV.AFF
+10	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	13	aux	_	Gloss=IPFV.AFF
 11	mun	mùn	PRON	prn	_	12	nmod:poss	_	Gloss=quoi
 12	nyògòn	ɲɔ̀gɔn	NOUN	n	_	13	obj	_	Gloss=pareil
 13	sòsò	sɔ̀sɔ	VERB	v	_	4	parataxis:obj	_	Gloss=contredire

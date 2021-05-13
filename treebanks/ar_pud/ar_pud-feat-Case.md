@@ -173,13 +173,13 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="ar_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1349; 99%),
-<tt>NOUN --[<tt><a href="ar_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1229; 66%),
+<tt>NOUN --[<tt><a href="ar_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1230; 65%),
 <tt>NOUN --[<tt><a href="ar_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (252; 95%),
-<tt>NOUN --[<tt><a href="ar_pud-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (248; 59%),
+<tt>NOUN --[<tt><a href="ar_pud-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (249; 59%),
 <tt>PROPN --[<tt><a href="ar_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (176; 73%),
-<tt>NOUN --[<tt><a href="ar_pud-dep-det-predet.html">det:predet</a></tt>]--> PRON</tt> (97; 96%),
+<tt>NOUN --[<tt><a href="ar_pud-dep-det.html">det</a></tt>]--> PRON</tt> (97; 96%),
 <tt>NOUN --[<tt><a href="ar_pud-dep-ccomp.html">ccomp</a></tt>]--> ADJ</tt> (89; 93%),
-<tt>NOUN --[<tt><a href="ar_pud-dep-det-predet.html">det:predet</a></tt>]--> DET</tt> (69; 53%),
-<tt>PROPN --[<tt><a href="ar_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (62; 67%),
-<tt>ADJ --[<tt><a href="ar_pud-dep-conj.html">conj</a></tt>]--> ADJ</tt> (29; 88%).
+<tt>NOUN --[<tt><a href="ar_pud-dep-det.html">det</a></tt>]--> DET</tt> (69; 53%),
+<tt>ADJ --[<tt><a href="ar_pud-dep-conj.html">conj</a></tt>]--> ADJ</tt> (29; 88%),
+<tt>NOUN --[<tt><a href="ar_pud-dep-appos.html">appos</a></tt>]--> NOUN</tt> (19; 58%).
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="lv_lvtb-dep-aux.html">aux</a></tt>.
 
-1278 nodes (1%) are attached to their parents as `aux:pass`.
+1524 nodes (1%) are attached to their parents as `aux:pass`.
 
-1261 instances of `aux:pass` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.12910798122066.
+1503 instances of `aux:pass` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.11548556430446.
 
-The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1273; 100% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1519; 100% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -47,7 +47,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 9	rādīt	rādīt	VERB	vmnn0t3000n	Polarity=Pos|VerbForm=Inf	8	xcomp	8:xcomp	LvtbNodeId=a-p10683-p20s6w9
 10	cilvēkiem	cilvēks	NOUN	ncmpd1	Case=Dat|Gender=Masc|Number=Plur	9	iobj	9:iobj	LvtbNodeId=a-p10683-p20s6w10|SpaceAfter=No
 11	:	:	PUNCT	zo	_	15	punct	15:punct	LvtbNodeId=a-p10683-p20s6w11
-12	vairāk	vairāk	ADV	r0q	_	15	advmod	15:advmod	LvtbNodeId=a-p10683-p20s6w12
+12	vairāk	daudz	ADV	rcq	Degree=Cmp	15	advmod	15:advmod	LvtbNodeId=a-p10683-p20s6w12
 13	par	par	ADP	spsa	_	15	case	15:case	LvtbNodeId=a-p10683-p20s6w13
 14	šo	šī	DET	pd3fsan	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Dem	15	det	15:det	LvtbNodeId=a-p10683-p20s6w14
 15	tēmu	tēma	NOUN	ncfsa4	Case=Acc|Gender=Fem|Number=Sing	4	conj	4:conj	LvtbNodeId=a-p10683-p20s6w15

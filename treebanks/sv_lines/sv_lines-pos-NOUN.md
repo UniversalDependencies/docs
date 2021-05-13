@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>sätt</em> (<tt><a href="sv_lines-pos
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.383824 (the average of all parts of speech is 1.416999).
+The form / lemma ratio of `NOUN` is 1.383824 (the average of all parts of speech is 1.416904).
 
 The 1st highest number of forms (6) was observed with the lemma “bror”: <em>broder, brodern, broders, bror, bröder, bröderna</em>.
 

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Erzya-JR: POS Tags: `PART`
 
-There are 30 `PART` lemmas (1%), 30 `PART` types (1%) and 115 `PART` tokens (1%).
+There are 28 `PART` lemmas (1%), 28 `PART` types (0%) and 113 `PART` tokens (1%).
 Out of 16 observed tags, the rank of `PART` is: 10 in number of lemmas, 12 in number of types and 13 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>жо, бути, прок, вана, эно, буто, весемеде, ялатеке, сехте, бульчом</em>
@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>бути</em> (<tt><a href="myv_jr-po
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 2.038924).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 2.044097).
 
 The 1st highest number of forms (1) was observed with the lemma “азё”: <em>азё</em>.
 
@@ -65,26 +65,26 @@ The 2nd highest number of forms (1) was observed with the lemma “бульчо�
 
 The 3rd highest number of forms (1) was observed with the lemma “бути”: <em>бути</em>.
 
-`PART` occurs with 10 features: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt> (10; 9% instances), <tt><a href="myv_jr-feat-Degree.html">Degree</a></tt> (10; 9% instances), <tt><a href="myv_jr-feat-Case.html">Case</a></tt> (9; 8% instances), <tt><a href="myv_jr-feat-Number.html">Number</a></tt> (9; 8% instances), <tt><a href="myv_jr-feat-Evident.html">Evident</a></tt> (2; 2% instances), <tt><a href="myv_jr-feat-Clitic.html">Clitic</a></tt> (1; 1% instances), <tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt> (1; 1% instances), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt> (1; 1% instances), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt> (1; 1% instances), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt> (1; 1% instances)
+`PART` occurs with 8 features: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt> (10; 9% instances), <tt><a href="myv_jr-feat-Case.html">Case</a></tt> (9; 8% instances), <tt><a href="myv_jr-feat-Degree.html">Degree</a></tt> (9; 8% instances), <tt><a href="myv_jr-feat-Number.html">Number</a></tt> (9; 8% instances), <tt><a href="myv_jr-feat-Evident.html">Evident</a></tt> (2; 2% instances), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt> (1; 1% instances), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt> (1; 1% instances), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt> (1; 1% instances)
 
-`PART` occurs with 11 feature-value pairs: `Case=Nom`, `Clitic=Add`, `Definite=Ind`, `Degree=Cmp`, `Degree=Sup`, `Derivation=PronGak`, `Evident=Nfh`, `Mood=Imp`, `Number=Sing`, `Number[subj]=Sing`, `Person[subj]=2`
+`PART` occurs with 9 feature-value pairs: `Case=Nom`, `Definite=Ind`, `Degree=Cmp`, `Degree=Sup`, `Evident=Nfh`, `Mood=Imp`, `Number=Sing`, `Number[subj]=Sing`, `Person[subj]=2`
 
-`PART` occurs with 9 feature combinations.
+`PART` occurs with 7 feature combinations.
 The most frequent feature combination is `_` (91 tokens).
 Examples: <em>жо, бути, прок, вана, эно, буто, Бульчом, Ведь, Каня, нать</em>
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 13 different relations: <tt><a href="myv_jr-dep-discourse.html">discourse</a></tt> (37; 32% instances), <tt><a href="myv_jr-dep-advmod.html">advmod</a></tt> (33; 29% instances), <tt><a href="myv_jr-dep-fixed.html">fixed</a></tt> (15; 13% instances), <tt><a href="myv_jr-dep-advmod-deg.html">advmod:deg</a></tt> (8; 7% instances), <tt><a href="myv_jr-dep-mark.html">mark</a></tt> (7; 6% instances), <tt><a href="myv_jr-dep-advmod-mmod.html">advmod:mmod</a></tt> (5; 4% instances), <tt><a href="myv_jr-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="myv_jr-dep-compound.html">compound</a></tt> (2; 2% instances), <tt><a href="myv_jr-dep-root.html">root</a></tt> (2; 2% instances), <tt><a href="myv_jr-dep-cc-preconj.html">cc:preconj</a></tt> (1; 1% instances), <tt><a href="myv_jr-dep-nmod-comp.html">nmod:comp</a></tt> (1; 1% instances), <tt><a href="myv_jr-dep-obl.html">obl</a></tt> (1; 1% instances), <tt><a href="myv_jr-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
+`PART` nodes are attached to their parents using 14 different relations: <tt><a href="myv_jr-dep-discourse.html">discourse</a></tt> (37; 33% instances), <tt><a href="myv_jr-dep-advmod.html">advmod</a></tt> (33; 29% instances), <tt><a href="myv_jr-dep-fixed.html">fixed</a></tt> (14; 12% instances), <tt><a href="myv_jr-dep-mark.html">mark</a></tt> (7; 6% instances), <tt><a href="myv_jr-dep-advmod-deg.html">advmod:deg</a></tt> (5; 4% instances), <tt><a href="myv_jr-dep-advmod-eval.html">advmod:eval</a></tt> (5; 4% instances), <tt><a href="myv_jr-dep-advmod-comp.html">advmod:comp</a></tt> (2; 2% instances), <tt><a href="myv_jr-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="myv_jr-dep-compound.html">compound</a></tt> (2; 2% instances), <tt><a href="myv_jr-dep-root.html">root</a></tt> (2; 2% instances), <tt><a href="myv_jr-dep-cc-preconj.html">cc:preconj</a></tt> (1; 1% instances), <tt><a href="myv_jr-dep-nmod-comp.html">nmod:comp</a></tt> (1; 1% instances), <tt><a href="myv_jr-dep-obl.html">obl</a></tt> (1; 1% instances), <tt><a href="myv_jr-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
 
-Parents of `PART` nodes belong to 10 different parts of speech: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (35; 30% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (34; 30% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (17; 15% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (14; 12% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (7; 6% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (2; 2% instances),  (2; 2% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (1; 1% instances)
+Parents of `PART` nodes belong to 10 different parts of speech: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (35; 31% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (33; 29% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (16; 14% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (14; 12% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (7; 6% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (2; 2% instances),  (2; 2% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (1; 1% instances)
 
-105 (91%) `PART` nodes are leaves.
+103 (91%) `PART` nodes are leaves.
 
 6 (5%) `PART` nodes have one child.
 
-4 (3%) `PART` nodes have two children.
+4 (4%) `PART` nodes have two children.
 
 The highest child degree of a `PART` node is 2.
 

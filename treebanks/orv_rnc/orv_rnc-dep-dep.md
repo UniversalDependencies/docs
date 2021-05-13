@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of dep in UD_Old_Russian-RNC'
+title:  'Statistics of dep in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Relations: `dep`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Relations: `dep`
 
 This relation is universal.
 
@@ -44,7 +44,7 @@ The following 11 pairs of parts of speech are connected with `dep`: <tt><a href=
 2	глаголет	глаголати	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Norm=глаголет|SpaceAfter=Yes
 3	к	къ	ADP	_	_	4	case	_	Norm=к|SpaceAfter=Yes
 4	сынома	сынъ	NOUN	_	Case=Dat|Gender=Masc|Number=Dual	2	obl	_	Norm=сынома|SpaceAfter=No
-5	</i>	</i>	X	_	_	2	dep	_	NoIndex=Yes|SpaceAfter=No
+5	</i>	</i>	X	_	_	2	dep	_	NoIndex=Yes
 
 ~~~
 

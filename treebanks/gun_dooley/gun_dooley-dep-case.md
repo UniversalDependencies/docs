@@ -36,7 +36,7 @@ The following 7 pairs of parts of speech are connected with `case`: <tt><a href=
 12	_	_	ADV	dem	_	15	advmod	_	_
 13	_	_	PART	discprt	_	12	dep:mod	_	_
 14	_	_	PRON	pro	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
-15	_	_	VERB	vi:a	Mood=Ind|Person[subj]=1|Subcat=Int|VerbForm=Fin	7	parataxis:rep	_	_
+15	_	_	VERB	vi:a	Mood=Ind|Person[subj]=1|Subcat=Intr|VerbForm=Fin	7	parataxis:rep	_	_
 16	_	_	PART	aspprt	_	15	dep:mod	_	_
 17	_	_	NOUN	n	_	15	obl	_	_
 18	_	_	ADP	post	_	17	case	_	_
@@ -57,7 +57,7 @@ The following 7 pairs of parts of speech are connected with `case`: <tt><a href=
 2	_	_	PART	quantprt	_	1	dep:mod	_	_
 3	_	_	PART	discprt	_	1	dep:mod	_	_
 4	_	_	PART	illocprt	_	1	dep:mod	_	_
-5	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	_
+5	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	0	root	_	_
 6	_	_	VERB	vs	Mood=Ind|Person=3|VerbForm=Ser	5	compound:svc	_	_
 7	_	_	NUM	num	NumType=Card	8	nummod	_	_
 8	_	_	NOUN	n	_	5	obl	_	_
@@ -75,10 +75,10 @@ The following 7 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 3 5 case	color:blue
 1	_	_	PRON	pro	Person=3|PronType=Prs	6	obl:sentcon	_	_
 2	_	_	PART	illocprt	_	1	dep:mod	_	_
-3	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	6	ccomp	_	_
+3	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	6	ccomp	_	_
 4	_	_	SCONJ	subordconn	_	3	mark	_	_
 5	re	e	ADP	post	_	3	case	_	R-ABL
-6	_	_	VERB	vd:i	Mood=Ind|Person[subj]=3|Polarity=Neg|Subcat=IntInd|VerbForm=Fin	0	root	_	_
+6	_	_	VERB	vd:i	Mood=Ind|Person[subj]=3|Polarity=Neg|Subcat=Indir|VerbForm=Fin	0	root	_	_
 7	_	_	PUNCT	punct	_	6	punct	_	_
 
 ~~~

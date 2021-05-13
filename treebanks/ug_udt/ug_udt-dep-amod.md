@@ -22,7 +22,7 @@ The following 37 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 amod	color:blue
-1	ئەمەلىيەتتە	ئەمەلىيەت	NOUN	N	Case=Loc	7	advmod	_	Translit=emeliyette
+1	ئەمەلىيەتتە	ئەمەلىيەت	NOUN	N	Case=Loc	7	obl	_	Translit=emeliyette
 2	مېنىڭ	مەن	PRON	P	Case=Gen|Number=Sing|Person=1|PronType=Prs	6	nmod:poss	_	Translit=mëning
 3	بۇ	بۇ	PRON	P	Case=Nom|PronType=Dem	5	det	_	Translit=bu
 4	قاباھەتلىك	قاباھەتلىك	NOUN	N	Case=Nom	5	amod	_	Translit=qabahetlik
@@ -50,7 +50,7 @@ The following 37 pairs of parts of speech are connected with `amod`: <tt><a href
 7	بىر	بىر	NUM	M	_	8	nummod	_	Translit=bir
 8	سىقىم	سىقىم	NOUN	Q	Case=Nom	9	amod	_	Translit=siqim
 9	لايدەك	_	NOUN	N	_	10	obl	_	Translit=laydek|Morf=Unknown
-10	چاپلىشىمەن	چاپلاش	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=chaplishimen
+10	چاپلىشىمەن	چاپلاش	VERB	V	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=chaplishimen
 11	.	.	PUNCT	Y	_	10	punct	_	Translit=.
 
 ~~~

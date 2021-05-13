@@ -114,6 +114,6 @@ The most frequent other feature values with which `X` and `VerbForm` co-occurred
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="grc_perseus-dep-conj.html">conj</a></tt>]--> VERB</tt> (4935; 98%),
 <tt>VERB --[<tt><a href="grc_perseus-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (93; 99%),
-<tt>VERB --[<tt><a href="grc_perseus-dep-vocative.html">vocative</a></tt>]--> VERB</tt> (9; 56%),
+<tt>VERB --[<tt><a href="grc_perseus-dep-vocative.html">vocative</a></tt>]--> VERB</tt> (9; 53%),
 <tt>VERB --[<tt><a href="grc_perseus-dep-appos.html">appos</a></tt>]--> VERB</tt> (6; 100%).
 

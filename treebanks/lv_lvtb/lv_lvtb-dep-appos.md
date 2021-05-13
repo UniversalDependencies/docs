@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-432 nodes (0%) are attached to their parents as `appos`.
+507 nodes (0%) are attached to their parents as `appos`.
 
-432 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.22453703703704.
+507 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.22879684418146.
 
-The following 15 pairs of parts of speech are connected with `appos`: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (279; 65% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (66; 15% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (42; 10% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (22; 5% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (8; 2% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `appos`: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (338; 67% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (74; 15% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (49; 10% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (22; 4% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (9; 2% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 15 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 2 5 appos	color:blue
 1	Izpirkuma	izpirkums	NOUN	ncmsg1	Case=Gen|Gender=Masc|Number=Sing	2	nmod	2:nmod:gen	LvtbNodeId=a-d29-p82s8w1
 2	summa	summa	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	11	iobj	11:iobj	LvtbNodeId=a-d29-p82s8w2
-3	–	–	PUNCT	zd	_	5	punct	5:punct	LvtbNodeId=a-d29-p82s8w3
+3	–	-	PUNCT	zd	_	5	punct	5:punct	LvtbNodeId=a-d29-p82s8w3
 4	pāris	pāris	ADV	r0q	_	5	advmod	5:advmod	LvtbNodeId=a-d29-p82s8w4
 5	simti	simts	NOUN	ncmpn1	Case=Nom|Gender=Masc|Number=Plur	2	appos	2:appos	LvtbNodeId=a-d29-p82s8w5
 6	latu	lats	NOUN	ncmpg1	Case=Gen|Gender=Masc|Number=Plur	5	nmod	5:nmod:gen	LvtbNodeId=a-d29-p82s8w6|SpaceAfter=No

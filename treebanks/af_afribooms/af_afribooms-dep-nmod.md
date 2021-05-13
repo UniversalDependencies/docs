@@ -10,10 +10,10 @@ This relation is universal.
 
 2941 nodes (6%) are attached to their parents as `nmod`.
 
-2675 instances of `nmod` (91%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.04250255015301.
+2673 instances of `nmod` (91%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.04114246854811.
 
-The following 22 pairs of parts of speech are connected with `nmod`: <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (2531; 86% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (133; 5% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (65; 2% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-X.html">X</a></tt> (64; 2% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (42; 1% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (28; 1% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (13; 0% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt>-<tt><a href="af_afribooms-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `nmod`: <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (2535; 86% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (133; 5% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (66; 2% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-X.html">X</a></tt> (64; 2% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (42; 1% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (28; 1% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (13; 0% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt>-<tt><a href="af_afribooms-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -45,8 +45,8 @@ The following 22 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 10	fgColor:white
 # visual-style 10 13 nmod	color:blue
 1	Ons	ons	PRON	PEMP	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
-2	is	is	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	4	cop	_	_
-3	veral	veral	ADV	BS	Degree=Pos	2	advmod	_	_
+2	is	wees	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	4	cop	_	_
+3	veral	veral	ADV	BS	Degree=Pos	4	advmod	_	_
 4	bekommerd	bekommerd	ADJ	ASP	AdjType=Pred|Case=Nom|Degree=Pos	0	root	_	_
 5	oor	oor	ADP	SVS	AdpType=Prep	8	case	_	_
 6	die	die	DET	LB	Definite=Def|PronType=Art	8	det	_	_
@@ -59,7 +59,7 @@ The following 22 pairs of parts of speech are connected with `nmod`: <tt><a href
 13	Kenia	Kenia	PROPN	NEE	Number=Sing	10	nmod	_	_
 14	en	en	CCONJ	KN	_	13	cc	_	_
 15	Tsjad	Tsjad	PROPN	NEE	Number=Sing	13	flat	_	SpaceAfter=No
-16	.	.	PUNCT	ZE	_	2	punct	_	_
+16	.	.	PUNCT	ZE	_	4	punct	_	_
 
 ~~~
 
@@ -75,10 +75,10 @@ The following 22 pairs of parts of speech are connected with `nmod`: <tt><a href
 3	het	het	AUX	VUOT	Tense=Pres|VerbForm=Fin,Inf|VerbType=Aux	11	aux	_	_
 4	ons	ons	PRON	PEMP	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	_
 5	ons	ons	PRON	PEMB	Number=Plur|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
-6	eerste	eerste	ADJ	TRAB	AdjType=Attr|Case=Nom|Degree=Pos	7	nummod	_	_
+6	eerste	eerste	ADJ	TRAB	AdjType=Attr|Case=Nom|Degree=Pos	7	amod	_	_
 7	resessie	resessie	NOUN	NSE	Number=Sing	11	obj	_	_
 8	in	in	ADP	SVS	AdpType=Prep	10	case	_	_
-9	17	17	SYM	RS	_	10	nummod	_	_
+9	17	17	SYM	RS	_	10	dep	_	_
 10	jaar	jaar	NOUN	NSE	Number=Sing	11	obl	_	_
 11	ervaar	ervaar	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	0	root	_	SpaceAfter=No
 12	.	.	PUNCT	ZE	_	11	punct	_	_

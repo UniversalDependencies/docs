@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-24 nodes (4%) are attached to their parents as `det`.
+27 nodes (4%) are attached to their parents as `det`.
 
-24 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.125.
+27 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.11111111111111.
 
-The following 2 pairs of parts of speech are connected with `det`: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (14; 58% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-DET.html">DET</a></tt> (10; 42% instances).
+The following 2 pairs of parts of speech are connected with `det`: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (16; 59% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-DET.html">DET</a></tt> (11; 41% instances).
 
 
 ~~~ conllu
@@ -40,7 +40,7 @@ The following 2 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 det	color:blue
-1	Txamary	txa	AUX	XPOS=AUX-FRUSTR-3SG.M.O	_	2	aux	_	gloss[pt]=AUX-FRUSTR-3SG.M.O
+1	Txamary	txamary	CCONJ	XPOS=AUX-FRUSTR	Number[obj]=Sing|Person[obj]=3	2	cc	_	gloss[pt]=AUX-FRUSTR-3SG.M.O
 2	aapanhika	awa	VERB	XPOS=existir-IPFTV-PRED	_	0	root	_	gloss[pt]=existir-IPFTV-PRED
 3	kaiãpukury	kaiãpuku	DET	XPOS=muito-DISTR-M	_	4	det	_	gloss[pt]=muito-DISTR-M
 4	arẽka	herẽka	NOUN	N	Gender=Masc|Gender[psor]=Masc	5	nsubj	_	gloss[pt]=3SG.M-sangue.de

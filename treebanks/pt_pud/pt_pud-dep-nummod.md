@@ -24,14 +24,14 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 9 8 nummod	color:blue
 1	O	o	DET	DT	Gender=Masc|Number=Sing	3	det	_	_
 2	atual	atual	ADJ	JJ	Gender=Masc|Number=Sing	3	amod	_	_
-3	período	período	NOUN	NN	Gender=Masc|Number=Sing	6	nsubj	_	_
+3	período	período	NOUN	NN	Gender=Masc|Number=Sing	9	nsubj	_	_
 4	de	de	ADP	IN	_	5	case	_	_
 5	espera	espera	NOUN	NN	Gender=Fem|Number=Sing	3	nmod	_	_
-6	é	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
+6	é	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	cop	_	_
 7	de	de	ADP	IN	_	9	case	_	_
 8	oito	_	NUM	CD	_	9	nummod	_	_
-9	semanas	semana	NOUN	NN	Gender=Fem|Number=Plur	6	obl	_	SpaceAfter=No
-10	.	.	PUNCT	.	_	6	punct	_	_
+9	semanas	semana	NOUN	NN	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	9	punct	_	_
 
 ~~~
 

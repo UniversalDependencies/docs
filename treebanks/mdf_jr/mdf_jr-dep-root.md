@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-167 nodes (11%) are attached to their parents as `root`.
+313 nodes (11%) are attached to their parents as `root`.
 
-167 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.37724550898204.
+313 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.36421725239617.
 
-The following 6 pairs of parts of speech are connected with `root`: -<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (129; 77% instances), -<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (22; 13% instances), -<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (11; 7% instances), -<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (3; 2% instances), -<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 1% instances), -<tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `root`: -<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (257; 82% instances), -<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (25; 8% instances), -<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (20; 6% instances), -<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (7; 2% instances), -<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (3; 1% instances), -<tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,9 +24,9 @@ The following 6 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0 6 root	color:blue
 1	Лётчикне	лётчик	NOUN	N	Case=Nom|Definite=Def|Number=Plur	6	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	CLB	_	3	punct	_	_
-3	улема	улема	PART	Pcle	_	6	advmod:mmod	_	SpaceAfter=No
+3	улема	улема	PART	Pcle	_	6	advmod:eval	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	3	punct	_	_
-5	кядьса	кядь	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	6	obl	_	_
+5	кядьса	кядь	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	6	obl:inst	_	_
 6	токсесазь	токсемс	VERB	V	Mood=Ind|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Pres|Valency=2	0	root	_	_
 7	коволнятнень	ковол	NOUN	N	Case=Gen|Definite=Def|Derivation=Dimin|Number=Plur	6	obj	_	SpaceAfter=No
 8	.	.	PUNCT	CLB	_	6	punct	_	_

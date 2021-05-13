@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Polish-PUD: Features: `PunctType`
 
 This feature is language-specific.
-It occurs with 11 different values: `Brck`, `Colo`, `Comm`, `Dash`, `Elip`, `Hyph`, `Peri`, `Qest`, `Quot`, `Semi`, `Slsh`.
+It occurs with 10 different values: `Brck`, `Colo`, `Comm`, `Dash`, `Elip`, `Peri`, `Qest`, `Quot`, `Semi`, `Slsh`.
 
 2657 tokens (14%) have a non-empty value of `PunctType`.
 14 types (0%) occur at least once with a non-empty value of `PunctType`.
@@ -25,9 +25,8 @@ The most frequent other feature values with which `PUNCT` and `PunctType` co-occ
 * `Brck` (68; 3% of non-empty `PunctType`): <em>(, )</em>
 * `Colo` (22; 1% of non-empty `PunctType`): <em>:</em>
 * `Comm` (1073; 40% of non-empty `PunctType`): <em>,</em>
-* `Dash` (99; 4% of non-empty `PunctType`): <em>—, –</em>
+* `Dash` (118; 4% of non-empty `PunctType`): <em>—, –, -</em>
 * `Elip` (3; 0% of non-empty `PunctType`): <em>…</em>
-* `Hyph` (19; 1% of non-empty `PunctType`): <em>-</em>
 * `Peri` (1119; 42% of non-empty `PunctType`): <em>.</em>
 * `Qest` (14; 1% of non-empty `PunctType`): <em>?</em>
 * `Quot` (222; 8% of non-empty `PunctType`): <em>”, „</em>

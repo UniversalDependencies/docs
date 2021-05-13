@@ -11,7 +11,7 @@ This relation is universal.
 3099 nodes (4%) are attached to their parents as `root`.
 
 3099 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.87350758309132.
+Average distance between parent and child is 6.87221684414327.
 
 The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1963; 63% instances), -<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (794; 26% instances), -<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (174; 6% instances), -<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (121; 4% instances), -<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (18; 1% instances), -<tt><a href="fr_sequoia-pos-X.html">X</a></tt> (10; 0% instances), -<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (7; 0% instances), -<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (5; 0% instances), -<tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (3; 0% instances), -<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), -<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (1; 0% instances).
 

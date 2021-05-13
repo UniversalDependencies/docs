@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  है (<tt><a href="hi_hdtb-pos-AUX.html
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 4.692308 (the average of all parts of speech is 1.203116).
+The form / lemma ratio of `AUX` is 4.692308 (the average of all parts of speech is 1.203447).
 
 The 1st highest number of forms (34) was observed with the lemma “जा”: गई, गईं, गए, गया, गयी, गये, जा, जाए, जाएँ, जाएँगी, जाएँगीं, जाएँगे, जाएं, जाएंगी, जाएंगीं, जाएंगे, जाएंगें, जाएगा, जाएगी, जाएगें, जाकर, जाता, जाती, जातीं, जाते, जाना, जानी, जाने, जाय, जाया, जाये, जायेंगी, जायेंगे, जायेगा.
 

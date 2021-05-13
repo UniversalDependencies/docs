@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of iobj in UD_Old_Russian-TOROT'
+title:  'Statistics of iobj in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Relations: `iobj`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Relations: `iobj`
 
 This relation is universal.
 
@@ -28,7 +28,7 @@ The following 34 pairs of parts of speech are connected with `iobj`: <tt><a href
 4	чето	чьто	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	7	obj	_	ref=
 5	ти	ты	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	iobj	_	ref=
 6	есемо	быти	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	ref=
-7	водала	въдати	VERB	V-	Aspect=Res|Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	3	obj	_	ref=
+7	водала	въдати	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	3	obj	_	ref=
 8	ковати	ковати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	advcl	_	ref=
 
 ~~~
@@ -42,7 +42,7 @@ The following 34 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 1 4 iobj	color:blue
 1	дивѧт	дивити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=6
 2	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	expl	_	ref=6
-3	бѣломѹ	бѣлыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=6
+3	бѣломѹ	бѣлыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	ref=6
 4	члк҃ѹ	человѣкъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	ref=6
 
 ~~~
@@ -55,12 +55,12 @@ The following 34 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 7	fgColor:white
 # visual-style 7 5 iobj	color:blue
 1	ѧ	я	PRON	Pp	Case=Nom|Gender=Fem|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	ref=
-2	дала	дати	VERB	V-	Aspect=Res|Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+2	дала	дати	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	0	root	_	ref=
 3	тобѣ	ты	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	iobj	_	ref=
 4	а	а	CCONJ	C-	_	2	cc	_	ref=
 5	нѣжѧтѣ	нѣжата	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	7	iobj	_	ref=
 6	не	не	ADV	Df	Polarity=Neg	7	advmod	_	ref=
-7	дала	дати	VERB	V-	Aspect=Res|Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	2	conj	_	ref=
+7	дала	дати	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	2	conj	_	ref=
 
 ~~~
 

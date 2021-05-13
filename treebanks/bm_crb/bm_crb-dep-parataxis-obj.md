@@ -27,11 +27,11 @@ The following 8 pairs of parts of speech are connected with `parataxis:obj`: <tt
 3	ko	_	PART	_	_	5	discourse	_	_
 4	u	_	PRON	_	_	5	nsubj	_	_
 5	delila	_	VERB	_	_	2	parataxis:obj	_	SpaceAfter=No
-6	,	_	PUNCT	_	_	2	punct	_	_
+6	,	_	PUNCT	_	_	11	punct	_	_
 7	ko	_	PART	_	_	11	discourse	_	_
 8	maa	_	NOUN	_	_	11	nsubj	_	_
 9	caman	_	ADJ	_	_	8	amod	_	_
-10	bɛ	_	AUX	_	_	11	aux	_	_
+10	bɛ	bɛ	AUX	_	Aspect=Imp|Polarity=Pos	11	aux	_	Gloss=IPFV.AFF
 11	tɛmɛ	_	VERB	_	_	2	parataxis	_	_
 12	sira	_	NOUN	_	_	11	obl	_	_
 13	in	_	DET	_	_	12	det	_	_
@@ -52,7 +52,7 @@ The following 8 pairs of parts of speech are connected with `parataxis:obj`: <tt
 2	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
 3	i	í	PRON	pers	PronType=Prs	4	obj	_	Gloss=REFL
 4	kanto	kánto	VERB	v	_	0	root	_	Gloss=s'adresser|Morf=s'adresser,cou,rester|SpaceAfter=No
-5	,	,	PUNCT	_	_	4	punct	_	Gloss=,
+5	,	,	PUNCT	_	_	7	punct	_	Gloss=,
 6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Gloss=3SG
 7	ko	kó	VERB	cop	_	4	parataxis	_	Gloss=
 8	yoo	yó	INTJ	intj	_	7	parataxis:obj	_	Gloss=salut|SpaceAfter=No
@@ -71,7 +71,7 @@ The following 8 pairs of parts of speech are connected with `parataxis:obj`: <tt
 2	,	_	PUNCT	_	_	1	punct	_	_
 3	n'	_	SCONJ	_	_	6	mark	_	_
 4	a	_	PRON	_	_	6	nsubj	_	_
-5	bɛ	_	AUX	_	_	6	aux	_	_
+5	bɛ	bɛ	AUX	_	Aspect=Imp|Polarity=Pos	6	aux	_	Gloss=IPFV.AFF
 6	wele	_	VERB	_	_	11	advcl	_	_
 7	ko	_	PART	_	_	8	discourse	_	_
 8	Jaason	_	PROPN	_	_	6	parataxis:obj	_	SpaceAfter=No

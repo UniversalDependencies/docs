@@ -13,7 +13,7 @@ This relation is universal.
 209 instances of `nummod` (56%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.13440860215054.
 
-The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (328; 88% instances), <tt><a href="id_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (38; 10% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (2; 1% instances).
+The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (327; 88% instances), <tt><a href="id_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (38; 10% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (2; 1% instances).
 
 
 ~~~ conllu

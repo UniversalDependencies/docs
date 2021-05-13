@@ -12,7 +12,7 @@ There are also 1 other language-specific subtypes of `expl`: <tt><a href="fr_fqb
 331 nodes (1%) are attached to their parents as `expl:subj`.
 
 254 instances of `expl:subj` (77%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.25679758308157.
+Average distance between parent and child is 1.14803625377644.
 
 The following 3 pairs of parts of speech are connected with `expl:subj`: <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (315; 95% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (9; 3% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (7; 2% instances).
 

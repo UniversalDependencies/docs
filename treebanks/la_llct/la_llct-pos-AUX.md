@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Latin-LLCT: POS Tags: `AUX`
 
-There are 3 `AUX` lemmas (0%), 59 `AUX` types (1%) and 2863 `AUX` tokens (1%).
+There are 2 `AUX` lemmas (0%), 58 `AUX` types (1%) and 2862 `AUX` tokens (1%).
 Out of 15 observed tags, the rank of `AUX` is: 13 in number of lemmas, 10 in number of types and 12 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: <em>sum, habeo, fio</em>
+The 10 most frequent `AUX` lemmas: <em>sum, habeo</em>
 
 The 10 most frequent `AUX` types:  <em>est, fuerit, sum, fuit, fuerint, sunt, esse, fui, sumus, es</em>
 
-The 10 most frequent ambiguous lemmas: <em>sum</em> (<tt><a href="la_llct-pos-AUX.html">AUX</a></tt> 2848, <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> 1265), <em>habeo</em> (<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> 994, <tt><a href="la_llct-pos-AUX.html">AUX</a></tt> 14), <em>fio</em> (<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> 329, <tt><a href="la_llct-pos-AUX.html">AUX</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>sum</em> (<tt><a href="la_llct-pos-AUX.html">AUX</a></tt> 2848, <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> 1265), <em>habeo</em> (<tt><a href="la_llct-pos-VERB.html">VERB</a></tt> 994, <tt><a href="la_llct-pos-AUX.html">AUX</a></tt> 14)
 
 The 10 most frequent ambiguous types:  <em>est</em> (<tt><a href="la_llct-pos-AUX.html">AUX</a></tt> 998, <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> 624), <em>fuerit</em> (<tt><a href="la_llct-pos-AUX.html">AUX</a></tt> 437, <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> 119), <em>sum</em> (<tt><a href="la_llct-pos-AUX.html">AUX</a></tt> 353, <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> 3, <tt><a href="la_llct-pos-DET.html">DET</a></tt> 1), <em>fuit</em> (<tt><a href="la_llct-pos-AUX.html">AUX</a></tt> 237, <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> 54), <em>fuerint</em> (<tt><a href="la_llct-pos-AUX.html">AUX</a></tt> 207, <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> 18), <em>sunt</em> (<tt><a href="la_llct-pos-AUX.html">AUX</a></tt> 150, <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> 17), <em>esse</em> (<tt><a href="la_llct-pos-AUX.html">AUX</a></tt> 100, <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> 86), <em>fui</em> (<tt><a href="la_llct-pos-AUX.html">AUX</a></tt> 98, <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> 80), <em>es</em> (<tt><a href="la_llct-pos-AUX.html">AUX</a></tt> 24, <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> 4), <em>fuisset</em> (<tt><a href="la_llct-pos-AUX.html">AUX</a></tt> 24, <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> 2)
 
@@ -52,17 +52,15 @@ The 10 most frequent ambiguous types:  <em>est</em> (<tt><a href="la_llct-pos-AU
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 19.666667 (the average of all parts of speech is 2.628626).
+The form / lemma ratio of `AUX` is 29.000000 (the average of all parts of speech is 2.628423).
 
 The 1st highest number of forms (49) was observed with the lemma “sum”: <em>erant, erat, es, esse, essed, essem, essemus, essent, essere, esset, est, estis, et, fue, fuemus, fuerant, fuerat, fuere, fuerent, fueret, fueri, fuerimus, fuerint, fueris, fuerit, fueritis, fuero, fuerunt, fuet, fui, fuimus, fuisse, fuissent, fuisserunt, fuisset, fuit, furit, his, is, phore, sia, siit, simus, sint, sit, sum, summus, sumus, sunt</em>.
 
 The 2nd highest number of forms (9) was observed with the lemma “habeo”: <em>abemus, aberent, abetis, abuerimus, abuerit, abueritis, abuisset, abuit, habemus</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “fio”: <em>fiant</em>.
+`AUX` occurs with 7 features: <tt><a href="la_llct-feat-Tense.html">Tense</a></tt> (2862; 100% instances), <tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt> (2862; 100% instances), <tt><a href="la_llct-feat-Voice.html">Voice</a></tt> (2862; 100% instances), <tt><a href="la_llct-feat-Mood.html">Mood</a></tt> (2744; 96% instances), <tt><a href="la_llct-feat-Number.html">Number</a></tt> (2744; 96% instances), <tt><a href="la_llct-feat-Person.html">Person</a></tt> (2744; 96% instances), <tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt> (1134; 40% instances)
 
-`AUX` occurs with 7 features: <tt><a href="la_llct-feat-Tense.html">Tense</a></tt> (2863; 100% instances), <tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt> (2863; 100% instances), <tt><a href="la_llct-feat-Voice.html">Voice</a></tt> (2863; 100% instances), <tt><a href="la_llct-feat-Mood.html">Mood</a></tt> (2745; 96% instances), <tt><a href="la_llct-feat-Number.html">Number</a></tt> (2745; 96% instances), <tt><a href="la_llct-feat-Person.html">Person</a></tt> (2745; 96% instances), <tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt> (1134; 40% instances)
-
-`AUX` occurs with 17 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Past`, `Tense=Pqp`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `Voice=Act`
+`AUX` occurs with 16 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Past`, `Tense=Pqp`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `Voice=Act`
 
 `AUX` occurs with 32 feature combinations.
 The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act` (996 tokens).
@@ -71,11 +69,11 @@ Examples: <em>est, es, et</em>
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 4 different relations: <tt><a href="la_llct-dep-cop.html">cop</a></tt> (1593; 56% instances), <tt><a href="la_llct-dep-aux-pass.html">aux:pass</a></tt> (1247; 44% instances), <tt><a href="la_llct-dep-aux.html">aux</a></tt> (21; 1% instances), <tt><a href="la_llct-dep-conj.html">conj</a></tt> (2; 0% instances)
+`AUX` nodes are attached to their parents using 4 different relations: <tt><a href="la_llct-dep-cop.html">cop</a></tt> (1593; 56% instances), <tt><a href="la_llct-dep-aux-pass.html">aux:pass</a></tt> (1246; 44% instances), <tt><a href="la_llct-dep-aux.html">aux</a></tt> (21; 1% instances), <tt><a href="la_llct-dep-conj.html">conj</a></tt> (2; 0% instances)
 
-Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (1696; 59% instances), <tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> (466; 16% instances), <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (409; 14% instances), <tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> (176; 6% instances), <tt><a href="la_llct-pos-DET.html">DET</a></tt> (109; 4% instances), <tt><a href="la_llct-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="la_llct-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="la_llct-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="la_llct-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (1695; 59% instances), <tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> (466; 16% instances), <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (409; 14% instances), <tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> (176; 6% instances), <tt><a href="la_llct-pos-DET.html">DET</a></tt> (109; 4% instances), <tt><a href="la_llct-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="la_llct-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="la_llct-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="la_llct-pos-X.html">X</a></tt> (1; 0% instances)
 
-2851 (100%) `AUX` nodes are leaves.
+2850 (100%) `AUX` nodes are leaves.
 
 12 (0%) `AUX` nodes have one child.
 

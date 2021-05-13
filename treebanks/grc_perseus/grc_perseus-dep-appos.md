@@ -27,7 +27,7 @@ The following 21 pairs of parts of speech are connected with `appos`: <tt><a hre
 3	πένθους	πένθος	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
 4	ὀλίγον	ὀλίγος	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	1	nmod	_	_
 5	προσώρισεν	προσορίζω	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-6	,	,	PUNCT	u--------	_	1	punct	_	_
+6	,	,	PUNCT	u--------	_	7	punct	_	_
 7	ἡμέρας	ἡμέρα	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	1	appos	_	_
 8	ἕνδεκα	ἕνδεκα	NUM	m--------	_	7	nummod	_	SpaceAfter=No
 9	·	·	PUNCT	u--------	_	5	punct	_	_
@@ -48,7 +48,7 @@ The following 21 pairs of parts of speech are connected with `appos`: <tt><a hre
 5	χρήματος	χρῆμα	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	_
 6	τὴν	ὁ	DET	l-s---fa-	Case=Acc|Gender=Fem|Number=Sing	7	det	_	_
 7	τελευτήν	τελευτή	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	SpaceAfter=No
-8	,	,	PUNCT	u--------	_	7	punct	_	_
+8	,	,	PUNCT	u--------	_	10	punct	_	_
 9	κῇ	πῆ	ADV	d--------	_	10	advmod	_	_
 10	ἀποβήσεται	ἀποβαίνω	VERB	v3sasm---	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	7	appos	_	SpaceAfter=No
 11	·	·	PUNCT	u--------	_	3	punct	_	_
@@ -67,7 +67,7 @@ The following 21 pairs of parts of speech are connected with `appos`: <tt><a hre
 3	ἡμῖν	ἐγώ	PRON	p-p---md-	Case=Dat|Gender=Masc|Number=Plur	5	advmod	_	_
 4	ἐστιν	εἰμί	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
 5	ἠξιωμένα	ἀξιόω	VERB	v-prpenn-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	SpaceAfter=No
-6	,	,	PUNCT	u--------	_	2	punct	_	_
+6	,	,	PUNCT	u--------	_	10	punct	_	_
 7	αἰδοῖον	αἰδοῖος	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	9	nmod	_	_
 8	εὑρεθέντα	εὑρίσκω	VERB	v-sappma-	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	nmod	_	_
 9	πρόξενον	πρόξενος	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_

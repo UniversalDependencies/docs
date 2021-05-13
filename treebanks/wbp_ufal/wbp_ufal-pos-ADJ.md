@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.333333 (the average of all parts of speech is 1.693548).
+The form / lemma ratio of `ADJ` is 1.333333 (the average of all parts of speech is 1.721311).
 
 The 1st highest number of forms (2) was observed with the lemma “wita”: <em>Wita, witangku</em>.
 
@@ -34,8 +34,8 @@ The 3rd highest number of forms (1) was observed with the lemma “murrumurru”
 `ADJ` occurs with 2 feature-value pairs: `Case=Abs`, `Case=Erg`
 
 `ADJ` occurs with 3 feature combinations.
-The most frequent feature combination is `Case=Erg` (3 tokens).
-Examples: <em>witangku</em>
+The most frequent feature combination is `_` (3 tokens).
+Examples: <em>murrumurru, mata</em>
 
 
 ## Relations

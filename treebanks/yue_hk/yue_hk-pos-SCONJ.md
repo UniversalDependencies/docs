@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  嘅話 (<tt><a href="yue_hk-pos-SCONJ.htm
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 2.111111 (the average of all parts of speech is 1.622766).
+The form / lemma ratio of `SCONJ` is 2.111111 (the average of all parts of speech is 1.624294).
 
 The 1st highest number of forms (18) was observed with the lemma “_”: 假如, 即使, 去, 哪怕, 唻, 嗰陣時, 嘅話, 嚟, 如果, 既然, 根據, 正如, 無論, 由於, 當, 話, 除非, 雖然.
 

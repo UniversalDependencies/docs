@@ -50,17 +50,17 @@ The 3rd highest number of forms (1) was observed with the lemma “е”: <em>Е
 
 Parents of `INTJ` nodes belong to 6 different parts of speech: <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (9; 39% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> (7; 30% instances),  (3; 13% instances), <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> (2; 9% instances), <tt><a href="kk_ktb-pos-INTJ.html">INTJ</a></tt> (1; 4% instances), <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> (1; 4% instances)
 
-8 (35%) `INTJ` nodes are leaves.
+1 (4%) `INTJ` nodes are leaves.
 
-9 (39%) `INTJ` nodes have one child.
+15 (65%) `INTJ` nodes have one child.
 
-5 (22%) `INTJ` nodes have two children.
+6 (26%) `INTJ` nodes have two children.
 
 1 (4%) `INTJ` nodes have three or more children.
 
 The highest child degree of a `INTJ` node is 3.
 
-Children of `INTJ` nodes are attached using 3 different relations: <tt><a href="kk_ktb-dep-punct.html">punct</a></tt> (20; 91% instances), <tt><a href="kk_ktb-dep-conj.html">conj</a></tt> (1; 5% instances), <tt><a href="kk_ktb-dep-dep.html">dep</a></tt> (1; 5% instances)
+Children of `INTJ` nodes are attached using 3 different relations: <tt><a href="kk_ktb-dep-punct.html">punct</a></tt> (28; 93% instances), <tt><a href="kk_ktb-dep-conj.html">conj</a></tt> (1; 3% instances), <tt><a href="kk_ktb-dep-dep.html">dep</a></tt> (1; 3% instances)
 
-Children of `INTJ` nodes belong to 3 different parts of speech: <tt><a href="kk_ktb-pos-PUNCT.html">PUNCT</a></tt> (20; 91% instances), <tt><a href="kk_ktb-pos-INTJ.html">INTJ</a></tt> (1; 5% instances), <tt><a href="kk_ktb-pos-X.html">X</a></tt> (1; 5% instances)
+Children of `INTJ` nodes belong to 3 different parts of speech: <tt><a href="kk_ktb-pos-PUNCT.html">PUNCT</a></tt> (28; 93% instances), <tt><a href="kk_ktb-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="kk_ktb-pos-X.html">X</a></tt> (1; 3% instances)
 

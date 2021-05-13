@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  或者 (<tt><a href="yue_hk-pos-CCONJ.htm
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.583333 (the average of all parts of speech is 1.622766).
+The form / lemma ratio of `CCONJ` is 1.583333 (the average of all parts of speech is 1.624294).
 
 The 1st highest number of forms (14) was observed with the lemma “_”: 不過, 以至, 但, 但係, 同, 同埋, 定, 定係, 或, 或者, 況且, 而, 與, 與及.
 

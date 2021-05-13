@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of discourse in UD_Old_Russian-RNC'
+title:  'Statistics of discourse in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Relations: `discourse`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Relations: `discourse`
 
 This relation is universal.
 

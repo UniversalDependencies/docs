@@ -56,7 +56,7 @@ The following 3 pairs of parts of speech are connected with `obl:own`: <tt><a hr
 2	не	не	DET	det	PronType=Int	3	det	_	_
 3	сын	сын	NOUN	n	Case=Nom	4	nsubj	_	_
 4	қалды	қал	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	ccomp	_	_
-5	дейсің	де	VERB	v	Mood=Ind|Number=Sing|Person=2|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	дейсің	де	VERB	v	Aspect=Hab|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	?	?	PUNCT	sent	_	5	punct	_	_
 
 ~~~

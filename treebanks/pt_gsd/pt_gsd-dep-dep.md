@@ -23,14 +23,14 @@ The following 51 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 4 dep	color:blue
 1	Segundo	_	ADP	ADP	_	3	case	_	_
-2	a	_	DET	DET	_	3	det	_	_
+2	a	o	DET	DET	_	3	det	_	_
 3	tradição	tradição	NOUN	NOUN	_	5	nmod	_	_
 4	que	_	PRON	PRON	_	5	dep	_	_
 5	tinha	ter	VERB	VERB	_	0	root	_	_
 6	oito	_	NUM	NUM	NumType=Card	7	nummod	_	_
 7	irmãs	irmão	NOUN	NOUN	_	5	obj	_	_
 8	gémeas	gémeo	ADJ	ADJ	_	7	amod	_	SpaceAfter=No
-9	:	_	PUNCT	.	_	7	punct	_	_
+9	:	:	PUNCT	.	_	7	punct	_	_
 10	Basília	_	PROPN	PNOUN	_	7	appos	_	SpaceAfter=No
 11	;	_	PUNCT	.	_	5	punct	_	_
 
@@ -45,11 +45,11 @@ The following 51 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 6 2 dep	color:blue
 1	E	_	CCONJ	CONJ	_	6	cc	_	_
 2	aí	_	PART	PRT	_	6	dep	_	SpaceAfter=No
-3	,	_	PUNCT	.	_	2	punct	_	_
-4	o	_	DET	DET	_	5	det	_	_
+3	,	,	PUNCT	.	_	2	punct	_	_
+4	o	o	DET	DET	_	5	det	_	_
 5	que	_	PRON	PRON	_	6	obj	_	_
 6	acharam	achar	VERB	VERB	_	0	root	_	SpaceAfter=No
-7	?	_	PUNCT	.	_	6	punct	_	_
+7	?	?	PUNCT	.	_	6	punct	_	_
 
 ~~~
 
@@ -65,15 +65,15 @@ The following 51 pairs of parts of speech are connected with `dep`: <tt><a href=
 3	de	_	ADP	ADP	_	2	fixed	_	_
 4	ter	ter	AUX	AUX	_	5	aux	_	_
 5	entregue	entregar	VERB	VERB	_	0	root	_	_
-6	o	_	DET	DET	_	7	det	_	_
+6	o	o	DET	DET	_	7	det	_	_
 7	governo	governo	NOUN	NOUN	_	5	obj	_	_
 8	de	de	ADP	ADP	_	10	case	_	_
 9	o	o	DET	DET	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	Paraná	_	PROPN	PNOUN	_	7	nmod	_	SpaceAfter=No
-11	,	_	PUNCT	.	_	13	punct	_	_
-12	o	_	DET	DET	_	13	det	_	_
+11	,	,	PUNCT	.	_	13	punct	_	_
+12	o	o	DET	DET	_	13	det	_	_
 13	dr	dr	NOUN	NOUN	_	5	dep	_	SpaceAfter=No
-14	.	_	PUNCT	.	_	5	punct	_	_
+14	.	.	PUNCT	.	_	5	punct	_	_
 
 ~~~
 

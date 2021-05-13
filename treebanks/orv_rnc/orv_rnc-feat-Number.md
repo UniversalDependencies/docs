@@ -1,18 +1,18 @@
 ---
 layout: base
-title:  'Statistics of Number in UD_Old_Russian-RNC'
+title:  'Statistics of Number in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Features: `Number`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Features: `Number`
 
-This feature is universal but the values `Adnum` are language-specific.
-It occurs with 4 different values: `Adnum`, `Dual`, `Plur`, `Sing`.
+This feature is universal but the values `Count` are language-specific.
+It occurs with 4 different values: `Count`, `Dual`, `Plur`, `Sing`.
 
-16464 tokens (54%) have a non-empty value of `Number`.
+16463 tokens (54%) have a non-empty value of `Number`.
 6908 types (89%) occur at least once with a non-empty value of `Number`.
-3372 lemmas (85%) occur at least once with a non-empty value of `Number`.
-The feature is used with 9 part-of-speech tags: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (6431; 21% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (2704; 9% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (2221; 7% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1893; 6% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1584; 5% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1406; 5% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (185; 1% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (38; 0% instances), <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
+3370 lemmas (85%) occur at least once with a non-empty value of `Number`.
+The feature is used with 9 part-of-speech tags: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (6431; 21% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (2704; 9% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (2221; 7% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1893; 6% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1584; 5% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1406; 5% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (185; 1% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (38; 0% instances), <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -22,14 +22,14 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Adnum` (76; 1% of non-empty `Number`): <em>стороне, стерляди, срока, дес., десятины, человека, денги, леща, недели, подводы</em>
+* `Count` (76; 1% of non-empty `Number`): <em>стороне, стерляди, срока, дес., десятины, человека, денги, леща, недели, подводы</em>
 * `Dual` (4; 0% of non-empty `Number`): <em>сынома, года, оброку</em>
 * `Plur` (1947; 30% of non-empty `Number`): <em>людей, денги, денегъ, людемъ, люди, товарыщи, книги, рублевъ, старостамъ, воеводамъ</em>
 * `Sing` (4404; 68% of non-empty `Number`): <em>государю, государя, государь, году, день, указу, челом, земли, князя, челомъ</em>
 * `EMPTY` (215): <em>г., х., де, алт., с., д., л., об.</em>
 
 <table>
-  <tr><th>Paradigm <i>годъ</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th><th><tt>Adnum</tt></th></tr>
+  <tr><th>Paradigm <i>годъ</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th><th><tt>Count</tt></th></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>годъ, год</em></td><td><em>года</em></td><td><em>годы</em></td><td><em>года</em></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>году</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>году, г[ода], г[оду], го[да], года</em></td><td></td><td></td><td></td></tr>
@@ -44,7 +44,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Adnum` (1; 0% of non-empty `Number`): <em>дългѣи</em>
+* `Count` (1; 0% of non-empty `Number`): <em>дългѣи</em>
 * `Dual` (2; 0% of non-empty `Number`): <em>ранней, руденскою</em>
 * `Plur` (869; 32% of non-empty `Number`): <em>великихъ, стрѣлецкіе, посадскихъ, уѣздныхъ, земскимъ, иные, земскихъ, оброчные, оброчныхъ, святых</em>
 * `Sing` (1832; 68% of non-empty `Number`): <em>великого, великому, государева, приказной, прошломъ, великомꙋ, 160-го, 206, великий, государеву</em>
@@ -222,7 +222,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><tt><a href="orv_rnc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>есте</em></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>суть</em></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="orv_rnc-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>быхом</em></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=Short</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>сущу</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>сущу</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=PartRes</tt></tt></td><td><em>был, былъ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=PartRes</tt>|<tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>былъ, был</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=PartRes</tt></tt></td><td><em>была</em></td><td></td></tr>
@@ -259,16 +259,14 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 * `Sing` (37; 97% of non-empty `Number`): <em>1, единъ, один, одна, однова, одном, одною, ѡдинъ, 18, 207</em>
 * `EMPTY` (332): <em>3, 2, обе, много, 5, два, дву, две, сколко, 10</em>
 
-`Number` seems to be **lexical feature** of `NUM`. 100% lemmas (10) occur only with one value of `Number`.
-
 ### `SCONJ`
 
-2 <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> tokens (1% of all `SCONJ` tokens) have a non-empty value of `Number`.
+1 <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Number`.
 
 `SCONJ` tokens may have the following values of `Number`:
 
-* `Sing` (2; 100% of non-empty `Number`): <em>будет, иже</em>
-* `EMPTY` (268): <em>что, чтобъ, яко, ино, как, буде, чтоб, чтобы, какъ, якоже</em>
+* `Sing` (1; 100% of non-empty `Number`): <em>иже</em>
+* `EMPTY` (269): <em>что, чтобъ, яко, ино, как, буде, чтоб, чтобы, какъ, якоже</em>
 
 ## Relations with Agreement in `Number`
 

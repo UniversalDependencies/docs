@@ -39,7 +39,7 @@ The following 3 pairs of parts of speech are connected with `iobj:agent`: <tt><a
 # visual-style 4	fgColor:white
 # visual-style 4 6 iobj:agent	color:blue
 1	Հենց	հենց	ADV	_	_	2	advmod:emph	_	Translit=Henc’|LTranslit=henc’
-2	դա	դա	PRON	_	Case=Nom|Distance=Med|Number=Sing|PronType=Dem	4	nsubj:caus	_	Translit=da|LTranslit=da
+2	դա	դա	PRON	_	Case=Nom|Deixis=Med|Number=Sing|PronType=Dem	4	nsubj:caus	_	Translit=da|LTranslit=da
 3	էլ	էլ	ADV	_	_	2	advmod:emph	_	Translit=ēl|LTranslit=ēl
 4	հիվանդացրել	հիվանդացնել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Cau	0	root	_	Translit=hivandac’rel|LTranslit=hivandac’nel
 5	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	4	aux	_	Translit=ēr|LTranslit=em
@@ -71,7 +71,7 @@ The following 3 pairs of parts of speech are connected with `iobj:agent`: <tt><a
 14	մի	մի	DET	_	PronType=Art	23	iobj:agent	_	Translit=mi|LTranslit=mi
 15	քանիսին	քանիսը	PRON	_	Case=Dat|Number=Sing|PronType=Ind	14	fixed	_	Translit=k’anisin|LTranslit=k’anisë|SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	Translit=,|LTranslit=,
-17	այդ	այդ	DET	_	Distance=Med|PronType=Dem	14	advmod:emph	_	Translit=ayd|LTranslit=ayd
+17	այդ	այդ	DET	_	Deixis=Med|PronType=Dem	14	advmod:emph	_	Translit=ayd|LTranslit=ayd
 18	թվում	թիվ	NOUN	_	Animacy=Nhum|Case=Loc|Definite=Ind|Number=Sing	17	fixed	_	Translit=t’vowm|LTranslit=t’iv
 19	և	և	CCONJ	_	_	17	fixed	_	Translit=ew|LTranslit=ew
 20	Սաթոյին	Սաթո	PROPN	_	Animacy=Hum|Case=Dat|Definite=Def|NameType=Giv|Number=Sing	17	obl	_	Translit=Sat’oyin|LTranslit=Sat’o|SpaceAfter=No

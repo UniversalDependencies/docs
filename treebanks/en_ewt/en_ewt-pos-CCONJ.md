@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  <em>and</em> (<tt><a href="en_ewt-pos-CCO
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.687500 (the average of all parts of speech is 1.194473).
+The form / lemma ratio of `CCONJ` is 1.687500 (the average of all parts of speech is 1.215729).
 
 The 1st highest number of forms (11) was observed with the lemma “and”: <em>'n, a, ad=nd, adn, afnd, amd, an, and, ans, at, n</em>.
 
@@ -79,21 +79,21 @@ Examples: <em>and, but, or, &, both, either, yet, nor, plus, not</em>
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 8 different relations: <tt><a href="en_ewt-dep-cc.html">cc</a></tt> (8100; 99% instances), <tt><a href="en_ewt-dep-cc-preconj.html">cc:preconj</a></tt> (101; 1% instances), <tt><a href="en_ewt-dep-fixed.html">fixed</a></tt> (10; 0% instances), <tt><a href="en_ewt-dep-conj.html">conj</a></tt> (6; 0% instances), <tt><a href="en_ewt-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-root.html">root</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="en_ewt-dep-cc.html">cc</a></tt> (8101; 99% instances), <tt><a href="en_ewt-dep-cc-preconj.html">cc:preconj</a></tt> (101; 1% instances), <tt><a href="en_ewt-dep-fixed.html">fixed</a></tt> (10; 0% instances), <tt><a href="en_ewt-dep-conj.html">conj</a></tt> (6; 0% instances), <tt><a href="en_ewt-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="en_ewt-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 18 different parts of speech: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (3565; 43% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (2366; 29% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (979; 12% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (726; 9% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (177; 2% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (165; 2% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (80; 1% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (35; 0% instances), <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (31; 0% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt> (23; 0% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (18; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (15; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (14; 0% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances),  (1; 0% instances)
+Parents of `CCONJ` nodes belong to 17 different parts of speech: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (3578; 44% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (2384; 29% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (983; 12% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (726; 9% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (168; 2% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (165; 2% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (80; 1% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (34; 0% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt> (23; 0% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (18; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (16; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (14; 0% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (4; 0% instances),  (1; 0% instances)
 
-8175 (99%) `CCONJ` nodes are leaves.
+8187 (100%) `CCONJ` nodes are leaves.
 
-20 (0%) `CCONJ` nodes have one child.
+32 (0%) `CCONJ` nodes have one child.
 
-24 (0%) `CCONJ` nodes have two children.
+1 (0%) `CCONJ` nodes have two children.
 
-2 (0%) `CCONJ` nodes have three or more children.
+1 (0%) `CCONJ` nodes have three or more children.
 
 The highest child degree of a `CCONJ` node is 4.
 
-Children of `CCONJ` nodes are attached using 10 different relations: <tt><a href="en_ewt-dep-punct.html">punct</a></tt> (31; 41% instances), <tt><a href="en_ewt-dep-cc.html">cc</a></tt> (30; 40% instances), <tt><a href="en_ewt-dep-conj.html">conj</a></tt> (6; 8% instances), <tt><a href="en_ewt-dep-advmod.html">advmod</a></tt> (2; 3% instances), <tt><a href="en_ewt-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="en_ewt-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="en_ewt-dep-cc-preconj.html">cc:preconj</a></tt> (1; 1% instances), <tt><a href="en_ewt-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="en_ewt-dep-nmod-npmod.html">nmod:npmod</a></tt> (1; 1% instances), <tt><a href="en_ewt-dep-obl.html">obl</a></tt> (1; 1% instances)
+Children of `CCONJ` nodes are attached using 6 different relations: <tt><a href="en_ewt-dep-punct.html">punct</a></tt> (24; 63% instances), <tt><a href="en_ewt-dep-conj.html">conj</a></tt> (6; 16% instances), <tt><a href="en_ewt-dep-cc.html">cc</a></tt> (5; 13% instances), <tt><a href="en_ewt-dep-case.html">case</a></tt> (1; 3% instances), <tt><a href="en_ewt-dep-cc-preconj.html">cc:preconj</a></tt> (1; 3% instances), <tt><a href="en_ewt-dep-discourse.html">discourse</a></tt> (1; 3% instances)
 
-Children of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (35; 47% instances), <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (31; 41% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (3; 4% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (1; 1% instances)
+Children of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (24; 63% instances), <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (7; 18% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (5; 13% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (1; 3% instances)
 

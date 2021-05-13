@@ -9,36 +9,38 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Art`, `Dem`, `Ind`, `Int`, `Prs`, `Rel`, `Tot`.
 
-95188 tokens (18%) have a non-empty value of `PronType`.
-250 types (1%) occur at least once with a non-empty value of `PronType`.
-104 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (72596; 14% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (22592; 4% instances).
+110724 tokens (20%) have a non-empty value of `PronType`.
+257 types (1%) occur at least once with a non-empty value of `PronType`.
+98 lemmas (0%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (87262; 16% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (23462; 4% instances).
 
 ### `DET`
 
-72596 <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+87262 <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (57861; 80%), <tt><a href="ca_ancora-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (48972; 67%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (68677; 79%), <tt><a href="ca_ancora-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (63638; 73%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (53800; 74% of non-empty `PronType`): <em>la, el, l', les, els, un, meva, una, los, las</em>
-* `Dem` (3352; 5% of non-empty `PronType`): <em>aquest, aquesta, aquests, aquestes, aquell, aquells, aquella, aquelles, tal, tals</em>
-* `Ind` (12136; 17% of non-empty `PronType`): <em>un, una, altres, tots, mateix, tot, cap, cada, uns, diferents</em>
+* `Art` (68466; 78% of non-empty `PronType`): <em>el, la, l', els, les, un, meva, una, los, las</em>
+* `Dem` (3352; 4% of non-empty `PronType`): <em>aquest, aquesta, aquests, aquestes, aquell, aquells, aquella, aquelles, tal, tals</em>
+* `Ind` (12136; 14% of non-empty `PronType`): <em>un, una, altres, tots, mateix, tot, cap, cada, uns, diferents</em>
 * `Int` (62; 0% of non-empty `PronType`): <em>quina, quin, quines, quins, quants</em>
 * `Prs` (3140; 4% of non-empty `PronType`): <em>seva, seu, seus, seves, nostra, nostre, nostres, meu, meus, su</em>
 * `Rel` (56; 0% of non-empty `PronType`): <em>qual, Que</em>
 * `Tot` (50; 0% of non-empty `PronType`): <em>tot</em>
-* `EMPTY` (8): <em>Armats, Collserola, Interior, Jean-Paul, Lydia, Paral·lel, Vinyoles, pesca</em>
+* `EMPTY` (12): <em>Armats, Collserola, Interior, Jean-Paul, Lydia, Paral·lel, Quin, Quins, Vinyoles, este</em>
 
 <table>
   <tr><th>Paradigm <i>el</i></th><th><tt>Prs</tt></th><th><tt>Art</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td><em>l</em></td></tr>
+  <tr><td><tt><tt><a href="ca_ancora-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ca_ancora-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt>|<tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>el</em></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>el</em></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>els</em></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>la, L'</em></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>les</em></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>l'</em></td></tr>
+  <tr><td><tt><tt><a href="ca_ancora-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>la</em></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>el</em></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>els</em></td></tr>
   <tr><td><tt><tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>la</em></td></tr>
@@ -47,23 +49,22 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
   <tr><td><tt><tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>l'</em></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `DET`. 91% lemmas (72) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `DET`. 91% lemmas (69) occur only with one value of `PronType`.
 
 ### `PRON`
 
-22592 <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> tokens (96% of all `PRON` tokens) have a non-empty value of `PronType`.
+23462 <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (19027; 84%), <tt><a href="ca_ancora-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (16867; 75%), <tt><a href="ca_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (16642; 74%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (15771; 70%), <tt><a href="ca_ancora-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (13960; 62%), <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12006; 53%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (19718; 84%), <tt><a href="ca_ancora-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (16846; 72%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (16637; 71%), <tt><a href="ca_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (16620; 71%), <tt><a href="ca_ancora-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (12463; 53%), <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12007; 51%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Dem` (643; 3% of non-empty `PronType`): <em>això, aquest, aquesta, tal, allò, aquests, aquestes, aquells, aquell, aquelles</em>
-* `Ind` (1938; 9% of non-empty `PronType`): <em>un, una, altres, uns, alguns, res, tots, altra, altre, ningú</em>
-* `Int` (285; 1% of non-empty `PronType`): <em>com, què, qui, on, quan, quina, quin, quines, quins, quant</em>
-* `Prs` (10586; 47% of non-empty `PronType`): <em>es, s', hi, li, ho, els, la, ens, el, l'</em>
-* `Rel` (8760; 39% of non-empty `PronType`): <em>que, on, què, qui, qual, quals, quan, com</em>
+* `Ind` (1938; 8% of non-empty `PronType`): <em>un, una, altres, uns, alguns, res, tots, altra, altre, ningú</em>
+* `Int` (286; 1% of non-empty `PronType`): <em>com, què, qui, on, quan, quina, quin, quines, quins, quant</em>
+* `Prs` (11455; 49% of non-empty `PronType`): <em>es, s', hi, se, li, ho, els, la, ens, el</em>
+* `Rel` (8760; 37% of non-empty `PronType`): <em>que, on, què, qui, qual, quals, quan, com</em>
 * `Tot` (380; 2% of non-empty `PronType`): <em>tot</em>
-* `EMPTY` (864): <em>se, s, hi, 's, 'n, -se, m</em>
 
 <table>
   <tr><th>Paradigm <i>que</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>

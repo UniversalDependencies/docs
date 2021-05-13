@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `expl`: <tt><a href="nl_alpino-dep-expl-pv.html">expl:pv</a></tt>.
 
-457 nodes (0%) are attached to their parents as `expl`.
+308 nodes (0%) are attached to their parents as `expl`.
 
-371 instances of `expl` (81%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.08096280087527.
+257 instances of `expl` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.73051948051948.
 
-The following 8 pairs of parts of speech are connected with `expl`: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (323; 71% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (88; 19% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (28; 6% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (10; 2% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="nl_alpino-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `expl`: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (209; 68% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (71; 23% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (18; 6% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -31,7 +31,7 @@ The following 8 pairs of parts of speech are connected with `expl`: <tt><a href=
 6	de	de	DET	LID|bep|stan|rest	Definite=Def	7	det	7:det	_
 7	Copa	Copa	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	9	nsubj	9:nsubj	_
 8	niet	niet	ADV	BW	_	9	advmod	9:advmod	_
-9	doorgaat	doorgaan	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	2	ccomp	2:ccomp	SpaceAfter=No
+9	doorgaat	door_gaan	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	2	ccomp	2:ccomp	SpaceAfter=No
 10	.	.	PUNCT	LET	_	2	punct	2:punct	_
 
 ~~~
@@ -71,7 +71,7 @@ The following 8 pairs of parts of speech are connected with `expl`: <tt><a href=
 6	dat	dat	SCONJ	VG|onder	_	9	mark	9:mark	_
 7	de	de	DET	LID|bep|stan|rest	Definite=Def	8	det	8:det	_
 8	boeken	boek	NOUN	N|soort|mv|basis	Number=Plur	9	nsubj:pass	9:nsubj:pass	_
-9	uitgeleend	uitlenen	VERB	WW|vd|vrij|zonder	VerbForm=Part	5	csubj	5:csubj	_
+9	uitgeleend	uit_lenen	VERB	WW|vd|vrij|zonder	VerbForm=Part	5	csubj	5:csubj	_
 10	worden	worden	AUX	WW|pv|tgw|mv	Number=Plur|Tense=Pres|VerbForm=Fin	9	aux:pass	9:aux:pass	SpaceAfter=No
 11	.	.	PUNCT	LET	_	5	punct	5:punct	_
 

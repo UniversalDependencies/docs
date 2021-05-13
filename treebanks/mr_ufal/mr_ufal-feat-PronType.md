@@ -29,7 +29,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 49 <tt><a href="mr_ufal-pos-PRON.html">PRON</a></tt> tokens (13% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="mr_ufal-feat-Distance.html">Distance</a></tt><tt>=EMPTY</tt> (48; 98%), <tt><a href="mr_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (48; 98%), <tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (45; 92%), <tt><a href="mr_ufal-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (42; 86%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="mr_ufal-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (48; 98%), <tt><a href="mr_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (48; 98%), <tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (45; 92%), <tt><a href="mr_ufal-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (42; 86%).
 
 `PRON` tokens may have the following values of `PronType`:
 

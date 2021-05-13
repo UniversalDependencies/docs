@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  呢 (<tt><a href="yue_hk-pos-PART.html">P
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.265306 (the average of all parts of speech is 1.622766).
+The form / lemma ratio of `PART` is 1.265306 (the average of all parts of speech is 1.624294).
 
 The 1st highest number of forms (36) was observed with the lemma “_”: 㗎, 㗎喎, 㗎嘞, 下, 之, 個喎, 先, 到, 吖, 吖嘛, 呀, 呢, 咖嘛, 唧, 唻, 啦, 喇, 喎, 嘅, 嘑, 嘞, 噉, 嚟, 囖, 地, 埋, 得, 得到, 所, 晒, 法, 添, 等等, 誒m, 阿, 𠿪.
 
@@ -70,13 +70,7 @@ The 2nd highest number of forms (1) was observed with the lemma “㗎”: 㗎.
 
 The 3rd highest number of forms (1) was observed with the lemma “㗎嘑”: 㗎喇.
 
-`PART` occurs with 1 features: <tt><a href="yue_hk-feat-NounType.html">NounType</a></tt> (2; 0% instances)
-
-`PART` occurs with 1 feature-value pairs: `NounType=Clf`
-
-`PART` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (1533 tokens).
-Examples: 嘅、 呢、 呀、 啦、 㗎、 喇、 喎、 嘞、 囖、 吖
+`PART` does not occur with any features.
 
 
 ## Relations

@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.732535).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.743028).
 
 The 1st highest number of forms (1) was observed with the lemma “தான்”: தான்.
 
@@ -30,9 +30,9 @@ The 1st highest number of forms (1) was observed with the lemma “தான்�
 
 ## Relations
 
-`PART` nodes are attached to their parents using 1 different relations: <tt><a href="ta_mwtt-dep-dep.html">dep</a></tt> (2; 100% instances)
+`PART` nodes are attached to their parents using 2 different relations: <tt><a href="ta_mwtt-dep-advmod-emph.html">advmod:emph</a></tt> (1; 50% instances), <tt><a href="ta_mwtt-dep-nmod.html">nmod</a></tt> (1; 50% instances)
 
-Parents of `PART` nodes belong to 2 different parts of speech: <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (1; 50% instances), <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt> (1; 50% instances)
+Parents of `PART` nodes belong to 2 different parts of speech: <tt><a href="ta_mwtt-pos-ADP.html">ADP</a></tt> (1; 50% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (1; 50% instances)
 
 2 (100%) `PART` nodes are leaves.
 

@@ -36,8 +36,8 @@ The following 1 pairs of parts of speech are connected with `list`: <tt><a href=
 12	tuhastatakse	tuhastama	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	9	advcl	9:advcl	SpaceAfter=No
 13	,	,	PUNCT	Z	_	15	punct	15:punct	_
 14	ja	ja	CCONJ	J	_	15	cc	15:cc	_
-15	laul	laul	NOUN	S	Case=Nom|Number=Sing	6	conj	6:conj	_
-16	mida	mis	PRON	P	Case=Par|Number=Sing|PronType=Int,Rel	20	obj	20:obj	_
+15	laul	laul	NOUN	S	Case=Nom|Number=Sing	6	conj	6:conj|20:obj	_
+16	mida	mis	PRON	P	Case=Par|Number=Sing|PronType=Int,Rel	20	obj	15:ref	_
 17	võiks	võima	AUX	V	Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act	20	aux	20:aux	_
 18	sel	see	DET	P	Case=Ade|Number=Sing|PronType=Dem	19	det	19:det	_
 19	hetkel	hetk	NOUN	S	Case=Ade|Number=Sing	20	obl	20:obl	_

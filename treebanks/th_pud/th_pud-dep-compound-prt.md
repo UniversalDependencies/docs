@@ -27,9 +27,9 @@ The following 2 pairs of parts of speech are connected with `compound:prt`: <tt>
 3	เรื่อง	_	NOUN	NN	_	1	compound	_	SpaceAfter=No
 4	การแต่ง	_	VERB	VV	_	3	compound	_	SpaceAfter=No
 5	กาย	_	NOUN	NN	_	4	obj	_	SpaceAfter=No
-6	อาจ	_	VERB	MD	_	7	aux	_	SpaceAfter=No
+6	อาจ	_	AUX	MD	_	7	aux	_	SpaceAfter=No
 7	ล้า	_	VERB	VV	_	0	root	_	SpaceAfter=No
-8	สมัย	_	NOUN	NN	_	7	advmod	_	SpaceAfter=No
+8	สมัย	_	NOUN	NN	_	7	obl	_	SpaceAfter=No
 9	ไป	_	PART	RP	_	7	compound:prt	_	SpaceAfter=No
 10	หน่อย	_	ADV	RB	_	7	advmod	_	_
 
@@ -50,7 +50,7 @@ The following 2 pairs of parts of speech are connected with `compound:prt`: <tt>
 6	นา	_	NOUN	NN	_	5	compound	_	SpaceAfter=No
 7	ของ	_	ADP	IN	_	8	case	_	SpaceAfter=No
 8	ผม	_	PRON	PRP	Person=1	5	nmod:poss	_	SpaceAfter=No
-9	อยู่	_	PART	AS	Aspect=Prog	2	aux	_	SpaceAfter=No
+9	อยู่	_	AUX	AS	Aspect=Prog	2	aux	_	SpaceAfter=No
 10	เรื่อย	_	ADV	RB	_	2	advmod	_	SpaceAfter=No
 11	ๆ	_	SYM	SYM	_	10	dep	_	_
 12	และ	_	CCONJ	CC	_	16	cc	_	SpaceAfter=No
@@ -68,7 +68,7 @@ The following 2 pairs of parts of speech are connected with `compound:prt`: <tt>
 24	มัน	_	PRON	PRP	Person=3	26	nsubj	_	SpaceAfter=No
 25	ไม่	_	PART	NEG	Polarity=Neg	26	advmod	_	SpaceAfter=No
 26	อยาก	_	VERB	VV	_	16	ccomp	_	SpaceAfter=No
-27	ถูก	_	VERB	MD	Voice=Pass	28	aux:pass	_	SpaceAfter=No
+27	ถูก	_	AUX	MD	Voice=Pass	28	aux:pass	_	SpaceAfter=No
 28	ขาย	_	VERB	VV	_	26	xcomp	_	_
 
 ~~~

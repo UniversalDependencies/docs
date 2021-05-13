@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-2933 tokens (2%) have a non-empty value of `Abbr`.
-713 types (4%) occur at least once with a non-empty value of `Abbr`.
-711 lemmas (7%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 5 part-of-speech tags: <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (2864; 2% instances), <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> (38; 0% instances), <tt><a href="ro_simonero-pos-X.html">X</a></tt> (24; 0% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> (3; 0% instances).
+2789 tokens (2%) have a non-empty value of `Abbr`.
+695 types (4%) occur at least once with a non-empty value of `Abbr`.
+692 lemmas (7%) occur at least once with a non-empty value of `Abbr`.
+The feature is used with 5 part-of-speech tags: <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (2720; 2% instances), <tt><a href="ro_simonero-pos-ADV.html">ADV</a></tt> (38; 0% instances), <tt><a href="ro_simonero-pos-X.html">X</a></tt> (24; 0% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="ro_simonero-pos-ADP.html">ADP</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
-2864 <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> tokens (7% of all `NOUN` tokens) have a non-empty value of `Abbr`.
+2720 <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> tokens (6% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="ro_simonero-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2860; 100%), <tt><a href="ro_simonero-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2860; 100%), <tt><a href="ro_simonero-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2860; 100%), <tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2860; 100%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="ro_simonero-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2716; 100%), <tt><a href="ro_simonero-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2716; 100%), <tt><a href="ro_simonero-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2716; 100%), <tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2716; 100%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
-* `Yes` (2864; 100% of non-empty `Abbr`): <em>mg, IC, vs, HTA, TA, DZ, FA, p, AVC, dl</em>
-* `EMPTY` (39834): <em>pacienții, pacienți, ani, nivelul, diabet, risc, cazul, insulină, tip, creșterea</em>
+* `Yes` (2720; 100% of non-empty `Abbr`): <em>mg, IC, vs, HTA, TA, DZ, FA, AVC, dl, EI</em>
+* `EMPTY` (39978): <em>pacienții, pacienți, ani, nivelul, diabet, risc, cazul, insulină, tip, creșterea</em>
 
-`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (706) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (687) occur only with one value of `Abbr`.
 
 ### `ADV`
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (38; 100% of non-empty `Abbr`): <em>vs, cca, aprox, etc, etc., vs., aprox.</em>
-* `EMPTY` (5872): <em>mai, ca, iar, cât, atât, mult, astfel, când, chiar, asemenea</em>
+* `EMPTY` (5873): <em>mai, ca, iar, cât, atât, mult, astfel, când, chiar, asemenea</em>
 
 ### `X`
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (4; 100% of non-empty `Abbr`): <em>AV</em>
-* `EMPTY` (17049): <em>mare, vârstnici, crescut, zaharat, clinice, mici, cardiacă, cardiace, mari, important</em>
+* `EMPTY` (17048): <em>mare, vârstnici, crescut, zaharat, clinice, mici, cardiacă, cardiace, mari, important</em>
 
 ### `ADP`
 

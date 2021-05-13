@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Emanuel Borges Völker, Felix Hennig, Arne Köhn, Maximilan Wendt.
 
 Repository: [UD_German-HDT](https://github.com/UniversalDependencies/UD_German-HDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_hdt27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_hdt28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -380,7 +380,7 @@ and correct errors in annotated corpora
       <li>ADJ: viele, beiden, neue, neuer, deutsche, größte, erste, erster, amerikanische, japanische</li>
       <li>ADP: namens, voller</li>
       <li>DET: die, der, das, ein, eine, diese, alle, keine, kein, einige</li>
-      <li>NOUN: Internet, Name, Vorsitzende, Vorsitzender, Riese, V​o​r​s​t​a​n​d​s​v​o​r​s​i​t​z​e​n​d​e​r, Unternehmen, Vorstandsvorsitzende, Server, E-Mail</li>
+      <li>NOUN: Internet, Name, Vorsitzende, Vorsitzender, Riese, Vorstandsvorsitzender, Unternehmen, Vorstandsvorsitzende, Server, E-Mail</li>
       <li>NUM: eins</li>
       <li>PRON: es, die, man, sie, er, das, der, wir, was, dies</li>
       <li>PROPN: Microsoft, Intel, AOL, IBM, Apple, Napster, Compaq, Siemens, Sony, Gates</li>

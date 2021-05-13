@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Dag Haug.
 
 Repository: [UD_Latin-PROIEL](https://github.com/UniversalDependencies/UD_Latin-PROIEL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_proiel27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_proiel28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -110,7 +110,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 </ul>
 
 <ul>
-<li>This corpus contains 33 lemmas tagged as determiners (DET): aliqui, aliquis, aliquot, alius, hic, idem, ille, ipse, is, iste, nemo, nescio, nescioquis, neuter, nihil, nullus, omnis, qualiscumque, qui, quicumque, quidam, quilibet, quis, quispiam, quisquam, quisque, quisquis, quivis, talis, tantus, ullus, unusquisque, uterque</li>
+<li>This corpus contains 38 lemmas tagged as determiners (DET): aliqui, aliquis, aliquot, alius, hic, idem, ille, ipse, is, iste, meus, nemo, nescio, nescioquis, neuter, nihil, noster, nullus, omnis, qualiscumque, qui, quicumque, quidam, quilibet, quis, quispiam, quisquam, quisque, quisquis, quivis, suus, talis, tantus, tuus, ullus, unusquisque, uterque, vester</li>
 </ul>
 
 <ul>
@@ -118,11 +118,11 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 </ul>
 
 <ul>
-<li>This corpus contains 6 lemmas tagged as auxiliaries (AUX): adduco, ago, eo, nescio, relinquo, sum</li>
+<li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): ago, nescio, relinquo, sum</li>
 </ul>
 
 <ul>
-<li>Out of the above, 5 lemmas occurred sometimes as AUX and sometimes as VERB: adduco, ago, eo, nescio, relinquo</li>
+<li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: ago, nescio, relinquo</li>
 </ul>
 
 <ul>
@@ -157,7 +157,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: esse, fore, fuisse, iri</li>
+    <li>AUX: esse, fore, fuisse</li>
     <li>VERB: facere, fieri, posse, dicere, habere, venire, videre, scire, dare, loqui</li>
   </ul>
   </li>
@@ -190,9 +190,9 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: suam, magna, tua, mea, sua, meam, nostra, publica, tuam, haec</li>
+      <li>ADJ: magna, publica, haec, publicae, illam, illa, multa, magnam, tertia, summa</li>
       <li>AUX-Part: futuram, futura, futurae, futurarum</li>
-      <li>DET: illa, hac, ea, eam, hanc, haec, omnis, nulla, eadem, omni</li>
+      <li>DET: suam, tua, mea, sua, meam, illa, nostra, hac, ea, tuam</li>
       <li>NOUN: re, rebus, res, causa, domum, terram, terra, die, rem, gratia</li>
       <li>NUM: una, duas, unam, duabus, duae, tribus, tres, unius, duarum, ducentae</li>
       <li>PRON: quae, quam, qua, eam, quas, eius, ea, se, quibus, eas</li>
@@ -207,7 +207,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Fem,Masc
     <ul>
       <li>ADJ: nemo, certiorem, maior, neminem, certior, plures, maiores, fidelis, fortis, maiorem</li>
-      <li>DET: omnes, omnem, omnis, illis, talem, neminem, talis, eo, omnibus, tales</li>
+      <li>DET: omnes, omnem, omnis, illis, talem, neminem, talis, eo, suis, omnibus</li>
       <li>NOUN: diebus, die, dies, diem, scrobibus, diei, scrobes, boues, dierum, scrobe</li>
       <li>NUM: tres, tribus, tris</li>
       <li>PRON: vobis, me, ego, vos, tibi, te, mihi, nobis, nos, quis</li>
@@ -232,7 +232,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
     <ul>
       <li>ADJ: illi, illis, illum, omnes, ille, hic, his, illos, illo, quis</li>
       <li>AUX-Part: futurus, futuros, futurum, futuri</li>
-      <li>DET: omnes, ipsum, ille, quidam, omnium, ipse, hic, illius, hunc, hoc</li>
+      <li>DET: suos, nostri, omnes, suis, ipsum, meus, noster, suum, tuus, meum</li>
       <li>NOUN: dei, deus, deo, domini, filius, fratres, deum, dominus, pater, spiritus</li>
       <li>NUM: unus, unum, duo, duos, duobus, tres, uno, unius, uni, duorum</li>
       <li>PRON: qui, me, eum, te, eius, se, vobis, vos, mihi, ego</li>
@@ -246,9 +246,9 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Masc,Neut
     <ul>
-      <li>ADJ: magno, meo, Romani, suo, tuo, tuum, suum, meum, magnum, nostro</li>
+      <li>ADJ: magno, Romani, magnum, sancto, Romano, totum, summo, novissimo, sanctum, summum</li>
       <li>AUX-Part: futurorum</li>
-      <li>DET: eo, hoc, ipso, eodem, ipsum, illo, quodam, nullo, nullum, aliquo</li>
+      <li>DET: eo, hoc, meo, suo, tuo, ipso, tuum, eodem, suum, meum</li>
       <li>NOUN: locis, aequum, die, praeclarum, tumulum</li>
       <li>NUM: uno, unum, duobus, duorum, ducentorum, duo, quadringentorum</li>
       <li>PRON: quo, quanto, eo, eorum, ipso, mei, quantum, quoquo, tui, ipsorum</li>
@@ -262,9 +262,9 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Neut
     <ul>
-      <li>ADJ: hoc, haec, nihil, omnia, illud, aliquid, multa, quid, sua, his</li>
+      <li>ADJ: hoc, haec, nihil, omnia, illud, aliquid, multa, quid, his, bonum</li>
       <li>AUX-Part: futurum, futura</li>
-      <li>DET: omnia, hoc, omne, aliud, haec, illud, nihil, id, ipsum, omni</li>
+      <li>DET: omnia, hoc, sua, meum, omne, aliud, mea, haec, tuo, illud</li>
       <li>NOUN: nomine, verbum, regnum, tempore, caelo, tempus, testimonium, nomen, castra, opus</li>
       <li>NUM: unum, milia, duo, milibus, milium, tria, uno, duobus, ducenta, sescenta</li>
       <li>PRON: quod, quae, quid, id, quo, ea, eo, quibus, quaecumque, se</li>
@@ -283,10 +283,10 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: illis, haec, omnia, his, omnes, suis, illos, illi, omnibus, suos</li>
+      <li>ADJ: illis, haec, omnia, his, omnes, illos, illi, omnibus, multa, multi</li>
       <li>AUX-Fin: sunt, erant, estis, sumus, sint, essent, erunt, fuerunt, sitis, estote</li>
       <li>AUX-Part: futura, futuros, futurorum, futurae, futurarum, futuri</li>
-      <li>DET: omnes, omnibus, his, omnia, omnium, illorum, haec, iis, illis, ipsos</li>
+      <li>DET: omnes, omnibus, suis, his, omnia, suos, omnium, nostris, meis, nostri</li>
       <li>NOUN: fratres, rebus, homines, hominum, diebus, discipuli, dies, litteras, locis, castra</li>
       <li>NUM: duo, milia, duos, tribus, tres, duobus, duas, milibus, milium, duabus</li>
       <li>PRON: qui, quae, vobis, vos, nos, eos, eis, eorum, nobis, se</li>
@@ -301,10 +301,10 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: hoc, nihil, illum, illi, ille, suam, hic, meum, illo, nemo</li>
+      <li>ADJ: hoc, nihil, illum, illi, ille, hic, illo, nemo, magna, illud</li>
       <li>AUX-Fin: est, erat, sit, sum, esset, fuit, erit, es, fuerit, fuerat</li>
       <li>AUX-Part: futurum, futurus, futuram, futura</li>
-      <li>DET: hoc, omni, omnis, ipsum, omnem, eius, huius, illa, eo, hac</li>
+      <li>DET: hoc, omni, suam, meum, omnis, suum, ipsum, tuum, tua, meo</li>
       <li>NOUN: dei, deus, die, deo, domini, filius, re, deum, dominus, causa</li>
       <li>NUM: unum, unus, una, uno, unam, unius, uni, Vni, Vna, Vnam</li>
       <li>PRON: qui, me, eum, eius, quod, te, ego, mihi, quid, se</li>
@@ -323,8 +323,8 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Abl
     <ul>
-      <li>ADJ: suis, his, illo, sua, illis, meo, suo, omnibus, hoc, tuo</li>
-      <li>DET: omnibus, omni, hoc, his, eo, hac, ipso, illa, ea, illo</li>
+      <li>ADJ: his, illo, illis, omnibus, hoc, magna, magno, multis, publica, mortuis</li>
+      <li>DET: omnibus, omni, suis, hoc, his, sua, meo, suo, eo, hac</li>
       <li>NOUN: die, re, rebus, nomine, causa, tempore, caelo, diebus, loco, spiritu</li>
       <li>NUM: uno, una, tribus, duobus, milibus, duabus, ducentis, quingentis, sescentis, mille</li>
       <li>PRON: quo, me, eo, vobis, quibus, qua, te, se, nobis, eis</li>
@@ -340,9 +340,9 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Acc
     <ul>
-      <li>ADJ: illum, haec, nihil, hoc, suam, omnia, illos, suum, suos, meum</li>
+      <li>ADJ: illum, haec, nihil, hoc, omnia, illos, illud, aliquid, multa, omnes</li>
       <li>AUX-Part: futurum, futuram, futuros, futura</li>
-      <li>DET: ipsum, omnes, omnem, omnia, eam, hanc, hoc, hunc, omne, illam</li>
+      <li>DET: suam, suum, ipsum, suos, meum, omnes, tuum, omnem, meam, omnia</li>
       <li>NOUN: deum, domum, locum, terram, hominem, rem, patrem, verbum, litteras, diem</li>
       <li>NUM: unum, duos, milia, duas, duo, unam, tres, tria, ducentos, ducenta</li>
       <li>PRON: me, eum, se, te, vos, quid, eos, quod, nos, quae</li>
@@ -358,8 +358,8 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Dat
     <ul>
-      <li>ADJ: illi, illis, his, suis, huic, omnibus, suo, publicae, aliis, nostris</li>
-      <li>DET: huic, omnibus, omni, ei, illi, ipsis, his, illis, ipsi, iis</li>
+      <li>ADJ: illi, illis, his, huic, omnibus, publicae, aliis, nemini, ceteris, alii</li>
+      <li>DET: suis, huic, omnibus, suo, nostris, meo, nostro, omni, suae, ei</li>
       <li>NOUN: deo, homini, domino, hominibus, rei, discipulis, populo, gentibus, fratri, patri</li>
       <li>NUM: uni, duobus, Vni, Duabus, dementiae, quingentis, tribus, unis, uno</li>
       <li>PRON: mihi, vobis, ei, tibi, eis, nobis, sibi, cui, quibus, iis</li>
@@ -374,9 +374,9 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Gen
     <ul>
-      <li>ADJ: nostri, Romani, mei, sui, totius, tui, suae, nostrorum, meae, publicae</li>
+      <li>ADJ: Romani, totius, publicae, novi, omnium, alterius, magni, sanctorum, mortuorum, bonorum</li>
       <li>AUX-Part: futurorum, futurarum</li>
-      <li>DET: omnium, eius, huius, illius, illorum, ipsius, earum, eiusdem, omnis, eorum</li>
+      <li>DET: omnium, eius, huius, nostri, illius, mei, illorum, sui, tui, suae</li>
       <li>NOUN: dei, domini, hominis, hominum, populi, rerum, modi, sacerdotum, rei, vitae</li>
       <li>NUM: unius, milium, trium, duorum, duarum, ducentorum, quadringentorum, ouorum, quinquaginta, sescentorum</li>
       <li>PRON: eius, eorum, cuius, quorum, vestrum, ipsius, mei, ipsorum, quarum, earum</li>
@@ -393,7 +393,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
     <ul>
       <li>ADJ: ille, omnes, hic, haec, illi, nemo, nihil, quis, hoc, quidam</li>
       <li>AUX-Part: futurus, futurum, futura, futurae, futuri</li>
-      <li>DET: omnes, omnis, haec, ille, quidam, ipse, hic, omnia, illa, hoc</li>
+      <li>DET: omnes, omnis, meus, tua, haec, mea, nostri, tuus, noster, ille</li>
       <li>NOUN: deus, filius, dominus, homo, pater, res, discipuli, spiritus, dies, mulier</li>
       <li>NUM: unus, duo, unum, milia, una, tres, duae, tria, ducentae, Vna</li>
       <li>PRON: qui, quae, ego, quod, tu, vos, nos, ipse, quid, quis</li>
@@ -408,8 +408,8 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Voc
     <ul>
-      <li>ADJ: mi, mei, carissimi, bone, caeci, immortales, optime, stulti, boni, fidelis</li>
-      <li>DET: omnes, illa, omnis</li>
+      <li>ADJ: carissimi, bone, caeci, immortales, optime, stulti, boni, fidelis, incredula, magna</li>
+      <li>DET: mi, mei, omnes, illa, meus, mea, meum, noster, omnis</li>
       <li>NOUN: domine, fratres, viri, magister, pater, fili, rex, hypocritae, mulier, Pharisaei</li>
       <li>PRON: tu</li>
       <li>PROPN: Iesu, Simon, Pomponi, Saule, Agrippa, Abba, Marce, Petre, Tite, Anania</li>
@@ -566,7 +566,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
   <li>Pres
     <ul>
       <li>AUX-Fin: est, sunt, sit, sum, estis, es, sumus, sint, sis, sim</li>
-      <li>AUX-Inf: esse, fore, iri</li>
+      <li>AUX-Inf: esse, fore</li>
       <li>VERB-Fin: ait, dicit, dico, habet, potest, nolite, velim, oportet, scribis, habent</li>
       <li>VERB-Inf: facere, fieri, posse, dicere, habere, venire, videre, scire, dare, loqui</li>
       <li>VERB-Part: dicens, dicentes, respondens, habens, videns, habentes, dicentem, videntes, audientes, surgens</li>
@@ -594,10 +594,8 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Pass
     <ul>
-      <li>AUX-Fin: adduceretur</li>
-      <li>AUX-Inf: iri</li>
       <li>VERB-Fin: videtur, dicitur, loquitur, loquebatur, operatur, vocatur, loquor, vereor, videntur, opinor</li>
-      <li>VERB-Inf: fieri, loqui, uti, proficisci, dari, pati, dici, sequi, mori, videri</li>
+      <li>VERB-Inf: fieri, loqui, uti, proficisci, dari, pati, dici, sequi, mori, iri</li>
       <li>VERB-Part: factum, facta, scriptum, factus, locutus, data, dictum, profectus, mortuus, facti</li>
     </ul>
   </li>
@@ -653,7 +651,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Yes
     <ul>
-      <li>ADJ: suis, suam, sua, mea, tua, meum, nostri, suum, tuum, meo</li>
+      <li>DET: suis, suam, sua, mea, tua, meum, nostri, suum, tuum, meo</li>
     </ul>
   </li>
 </ul>
@@ -665,7 +663,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>Yes
     <ul>
-      <li>ADJ: suis, suam, sua, suum, suo, suos, suae, suas, sui, suorum</li>
+      <li>DET: suis, suam, sua, suum, suo, suos, suae, suas, sui, suorum</li>
       <li>PRON: se, sibi, sese, sui</li>
     </ul>
   </li>
@@ -678,8 +676,8 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>1
     <ul>
-      <li>ADJ: mea, meum, nostri, meo, nostra, meam, nostris, meus, nostrum, mei</li>
       <li>AUX-Fin: sum, sumus, essem, sim, eram, simus, essemus, ero, erimus, fui</li>
+      <li>DET: mea, meum, nostri, meo, nostra, meam, nostris, meus, nostrum, mei</li>
       <li>PRON: me, ego, mihi, nos, nobis, mei, nostri, nostrum, mi</li>
       <li>VERB-Fin: dico, velim, vidi, scio, habeo, scripsi, dixi, faciam, veni, video</li>
     </ul>
@@ -689,8 +687,8 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>2
     <ul>
-      <li>ADJ: tua, tuum, tuo, vestra, tuam, tuus, tuis, tui, tuae, vestrum</li>
       <li>AUX-Fin: estis, es, sis, sitis, estote, esses, eritis, eris, esto, essetis</li>
+      <li>DET: tua, tuum, tuo, vestra, tuam, tuus, tuis, tui, tuae, vestrum</li>
       <li>PRON: te, vobis, vos, tibi, tu, vestrum, tui, vestri</li>
       <li>VERB-Fin: nolite, scribis, habes, vade, quaeris, scitis, habetis, videte, fac, noli</li>
     </ul>
@@ -700,8 +698,8 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
   <li>3
     <ul>
-      <li>ADJ: suis, suam, sua, suum, suo, suos, suae, suas, sui, suorum</li>
       <li>AUX-Fin: est, sunt, erat, sit, esset, erant, fuit, erit, sint, fuerit</li>
+      <li>DET: suis, suam, sua, suum, suo, suos, suae, suas, sui, suorum</li>
       <li>PRON: eum, eius, se, ei, eos, eis, eorum, eo, id, ea</li>
       <li>VERB-Fin: dixit, ait, dicit, venit, habet, dixerunt, misit, potest, fecit, respondit</li>
     </ul>
@@ -723,7 +721,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 </ul>
 
 <ul>
-<li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: sum, nescio, adduco, ago, eo, relinquo.</li>
+<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: sum, nescio, ago, relinquo.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: sum, eo.</li>
 </ul>
 

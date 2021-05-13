@@ -24,7 +24,7 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 3	fgColor:white
 # visual-style 3 5 compound	color:blue
 1	ازدهرت	{izodahar_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-2	هذه	h`*A_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	3	det:predet	_	_
+2	هذه	h`*A_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	3	det	_	_
 3	المدينة	madiynap_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	SpaceAfter=No
 4	-	-_0	PUNCT	-	_	5	punct	_	SpaceAfter=No
 5	الدولة	dawolap_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	3	compound	_	_
@@ -32,7 +32,7 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 7	ذات	*At_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	1	obl	_	_
 8	فترة	fatorap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	nmod	_	_
 9	مملكة	mamolakap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	nmod	_	_
-10	سوكوتاي	swkwtAy_0	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	9	nmod:gmod	_	SpaceAfter=No
+10	سوكوتاي	swkwtAy_0	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
 11	.	._0	PUNCT	.	_	1	punct	_	_
 
 ~~~
@@ -45,7 +45,7 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 29	fgColor:white
 # visual-style 29 30 compound	color:blue
 1	ضم	Dam~-u_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-2	عدة	Eid~ap_1	DET	PDT	Case=Acc	3	det:predet	_	_
+2	عدة	Eid~ap_1	DET	PDT	Case=Acc	3	det	_	_
 3	أغانٍ	>ugoniyap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Plur	1	obj	_	_
 4	تم	tam~-i_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	3	acl:relcl	_	_
 5	تأليف	ta>oliyf_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	nsubj	_	SpaceAfter=No
@@ -55,7 +55,7 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 9	مع	maE_1	ADP	IN	_	10	case	_	_
 10	جيم	jiym_2	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	8	nmod	_	_
 11	شقيق	$aqiyq_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	10	appos	_	_
-12	رافيرتي	rAfyrty_0	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	11	nmod:gmod	_	SpaceAfter=No
+12	رافيرتي	rAfyrty_0	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
 13	,	,_0	PUNCT	,	_	15	punct	_	_
 14	الذي	Al~a*iy_1	PRON	REL	Case=Gen|Gender=Masc|Number=Sing	15	nsubj	_	_
 15	يعمل	Eamil-a_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	10	acl:relcl	_	_
@@ -72,7 +72,7 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 26	مع	maE_1	ADP	IN	_	27	case	_	_
 27	شركة	$arikap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	25	obl	_	_
 28	"	"_0	PUNCT	``	_	29	punct	_	SpaceAfter=No
-29	ديكا	diyk_2	PROPN	NNP	Animacy=Nhum|Number=Sing	27	nmod:gmod	_	_
+29	ديكا	diyk_2	PROPN	NNP	Animacy=Nhum|Number=Sing	27	nmod	_	_
 30	ريكوردز	rykwrdz_0	NOUN	NN	Animacy=Nhum|Definite=Ind|Number=Plur	29	compound	_	SpaceAfter=No
 31	"	"_0	PUNCT	''	_	29	punct	_	_
 32	في	fiy_1	ADP	IN	_	33	case	_	_

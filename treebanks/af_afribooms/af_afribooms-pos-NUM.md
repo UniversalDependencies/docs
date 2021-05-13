@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Afrikaans-AfriBooms: POS Tags: `NUM`
 
 There are 24 `NUM` lemmas (0%), 24 `NUM` types (0%) and 218 `NUM` tokens (0%).
-Out of 16 observed tags, the rank of `NUM` is: 13 in number of lemmas, 13 in number of types and 16 in number of tokens.
+Out of 16 observed tags, the rank of `NUM` is: 12 in number of lemmas, 12 in number of types and 16 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>een, geen, drie, twee, miljoen, albei, beide, ses, vyf, biljoen</em>
 
@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>geen</em> (<tt><a href="af_afribooms-
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.122045).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.122822).
 
 The 1st highest number of forms (1) was observed with the lemma “Tweehonderd”: <em>Tweehonderd</em>.
 
@@ -46,21 +46,21 @@ The 3rd highest number of forms (1) was observed with the lemma “agtien”: <e
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 10 different relations: <tt><a href="af_afribooms-dep-nummod.html">nummod</a></tt> (150; 69% instances), <tt><a href="af_afribooms-dep-dep.html">dep</a></tt> (26; 12% instances), <tt><a href="af_afribooms-dep-amod.html">amod</a></tt> (13; 6% instances), <tt><a href="af_afribooms-dep-root.html">root</a></tt> (10; 5% instances), <tt><a href="af_afribooms-dep-obl.html">obl</a></tt> (5; 2% instances), <tt><a href="af_afribooms-dep-conj.html">conj</a></tt> (4; 2% instances), <tt><a href="af_afribooms-dep-nsubj.html">nsubj</a></tt> (3; 1% instances), <tt><a href="af_afribooms-dep-obj.html">obj</a></tt> (3; 1% instances), <tt><a href="af_afribooms-dep-det.html">det</a></tt> (2; 1% instances), <tt><a href="af_afribooms-dep-nmod.html">nmod</a></tt> (2; 1% instances)
+`NUM` nodes are attached to their parents using 9 different relations: <tt><a href="af_afribooms-dep-nummod.html">nummod</a></tt> (152; 70% instances), <tt><a href="af_afribooms-dep-dep.html">dep</a></tt> (26; 12% instances), <tt><a href="af_afribooms-dep-amod.html">amod</a></tt> (13; 6% instances), <tt><a href="af_afribooms-dep-root.html">root</a></tt> (10; 5% instances), <tt><a href="af_afribooms-dep-obl.html">obl</a></tt> (5; 2% instances), <tt><a href="af_afribooms-dep-conj.html">conj</a></tt> (4; 2% instances), <tt><a href="af_afribooms-dep-nsubj.html">nsubj</a></tt> (3; 1% instances), <tt><a href="af_afribooms-dep-obj.html">obj</a></tt> (3; 1% instances), <tt><a href="af_afribooms-dep-nmod.html">nmod</a></tt> (2; 1% instances)
 
-Parents of `NUM` nodes belong to 12 different parts of speech: <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (164; 75% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (12; 6% instances),  (10; 5% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (10; 5% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt> (8; 4% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (6; 3% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Parents of `NUM` nodes belong to 10 different parts of speech: <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (166; 76% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (12; 6% instances),  (10; 5% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (10; 5% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt> (9; 4% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (4; 2% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
 165 (76%) `NUM` nodes are leaves.
 
-28 (13%) `NUM` nodes have one child.
+23 (11%) `NUM` nodes have one child.
 
-9 (4%) `NUM` nodes have two children.
+12 (6%) `NUM` nodes have two children.
 
-16 (7%) `NUM` nodes have three or more children.
+18 (8%) `NUM` nodes have three or more children.
 
-The highest child degree of a `NUM` node is 6.
+The highest child degree of a `NUM` node is 11.
 
-Children of `NUM` nodes are attached using 13 different relations: <tt><a href="af_afribooms-dep-amod.html">amod</a></tt> (17; 16% instances), <tt><a href="af_afribooms-dep-obl.html">obl</a></tt> (17; 16% instances), <tt><a href="af_afribooms-dep-dep.html">dep</a></tt> (13; 13% instances), <tt><a href="af_afribooms-dep-cop.html">cop</a></tt> (11; 11% instances), <tt><a href="af_afribooms-dep-nsubj.html">nsubj</a></tt> (10; 10% instances), <tt><a href="af_afribooms-dep-case.html">case</a></tt> (8; 8% instances), <tt><a href="af_afribooms-dep-nmod.html">nmod</a></tt> (7; 7% instances), <tt><a href="af_afribooms-dep-det.html">det</a></tt> (6; 6% instances), <tt><a href="af_afribooms-dep-cc.html">cc</a></tt> (5; 5% instances), <tt><a href="af_afribooms-dep-conj.html">conj</a></tt> (4; 4% instances), <tt><a href="af_afribooms-dep-advmod.html">advmod</a></tt> (3; 3% instances), <tt><a href="af_afribooms-dep-nummod.html">nummod</a></tt> (2; 2% instances), <tt><a href="af_afribooms-dep-ccomp.html">ccomp</a></tt> (1; 1% instances)
+Children of `NUM` nodes are attached using 15 different relations: <tt><a href="af_afribooms-dep-amod.html">amod</a></tt> (20; 15% instances), <tt><a href="af_afribooms-dep-obl.html">obl</a></tt> (17; 13% instances), <tt><a href="af_afribooms-dep-dep.html">dep</a></tt> (14; 10% instances), <tt><a href="af_afribooms-dep-obj.html">obj</a></tt> (13; 10% instances), <tt><a href="af_afribooms-dep-cop.html">cop</a></tt> (11; 8% instances), <tt><a href="af_afribooms-dep-nsubj.html">nsubj</a></tt> (10; 7% instances), <tt><a href="af_afribooms-dep-case.html">case</a></tt> (8; 6% instances), <tt><a href="af_afribooms-dep-punct.html">punct</a></tt> (8; 6% instances), <tt><a href="af_afribooms-dep-advmod.html">advmod</a></tt> (7; 5% instances), <tt><a href="af_afribooms-dep-det.html">det</a></tt> (7; 5% instances), <tt><a href="af_afribooms-dep-nmod.html">nmod</a></tt> (7; 5% instances), <tt><a href="af_afribooms-dep-cc.html">cc</a></tt> (5; 4% instances), <tt><a href="af_afribooms-dep-conj.html">conj</a></tt> (4; 3% instances), <tt><a href="af_afribooms-dep-aux.html">aux</a></tt> (2; 1% instances), <tt><a href="af_afribooms-dep-ccomp.html">ccomp</a></tt> (1; 1% instances)
 
-Children of `NUM` nodes belong to 13 different parts of speech: <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (30; 29% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt> (23; 22% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (11; 11% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (8; 8% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt> (8; 8% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (6; 6% instances), <tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (5; 5% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (4; 4% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (4; 4% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="af_afribooms-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Children of `NUM` nodes belong to 15 different parts of speech: <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (42; 31% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt> (23; 17% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (13; 10% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt> (9; 7% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (8; 6% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (8; 6% instances), <tt><a href="af_afribooms-pos-PUNCT.html">PUNCT</a></tt> (8; 6% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (6; 4% instances), <tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (6; 4% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (4; 3% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="af_afribooms-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
 

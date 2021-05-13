@@ -12,7 +12,7 @@ There are also 2 other language-specific subtypes of `aux`: <tt><a href="fr_fqb-
 247 nodes (1%) are attached to their parents as `aux:pass`.
 
 247 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.25910931174089.
+Average distance between parent and child is 1.25506072874494.
 
 The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (247; 100% instances).
 

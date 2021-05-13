@@ -49,7 +49,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (1813; 100% of non-empty `Foreign`): <em>play, managementu, management, CD, s, facto, st, o, homo, neem</em>
-* `EMPTY` (370546): <em>roku, korun, let, roce, strany, procent, společnosti, době, případě, firmy</em>
+* `EMPTY` (370488): <em>roku, korun, let, roce, strany, procent, společnosti, době, případě, firmy</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (945) occur only with one value of `Foreign`.
 

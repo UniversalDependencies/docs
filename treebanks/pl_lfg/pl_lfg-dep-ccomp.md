@@ -28,7 +28,7 @@ The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href
 3	zamordować	zamordować	VERB	inf:perf	Aspect=Perf|VerbForm=Inf|Voice=Act	5	ccomp	5:ccomp	SpaceAfter=No
 4	,	,	PUNCT	interp	PunctType=Comm	3	punct	3:punct	_
 5	wystarczyło	wystarczyć	VERB	praet:sg:n:perf	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
-6	by	by	AUX	qub	Mood=Cnd	5	aux:mood	5:aux:mood	_
+6	by	by	AUX	qub	Mood=Cnd	5	aux:cnd	5:aux:cnd	_
 7	dwóch	dwa	NUM	num:pl:acc:m1:rec	Case=Acc|Gender=Masc|Number=Plur|NumType=Card|SubGender=Masc1	8	nummod	8:nummod	DepType=Rec
 8	żołnierzy	żołnierz	NOUN	subst:pl:gen:m1	Case=Gen|Gender=Masc|Number=Plur|SubGender=Masc1	5	nsubj	5:nsubj	SpaceAfter=No
 9	.	.	PUNCT	interp	PunctType=Peri	5	punct	5:punct	_
@@ -50,7 +50,7 @@ The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href
 6	mi	ja	PRON	ppron12:sg:dat:m1:pri:nakc	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs|SubGender=Masc1|Variant=Short	5	iobj	5:iobj	SpaceAfter=No
 7	,	,	PUNCT	interp	PunctType=Comm	11	punct	11:punct	_
 8	żeby	żeby	SCONJ	comp	_	11	mark	11:mark	SpaceAfter=No
-9	m	być	AUX	aglt:sg:pri:imperf:nwok	Aspect=Imp|Number=Sing|Person=1|Variant=Short	11	aux:aglt	11:aux:aglt	_
+9	m	być	AUX	aglt:sg:pri:imperf:nwok	Aspect=Imp|Number=Sing|Person=1|Variant=Short	11	aux:clitic	11:aux:clitic	_
 10	był	być	AUX	praet:sg:m1:imperf	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|SubGender=Masc1|Tense=Past|VerbForm=Fin|Voice=Act	11	cop	11:cop	_
 11	ostrożny	ostrożny	ADJ	adj:sg:nom:m1:pos	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|SubGender=Masc1	5	ccomp	5:ccomp	SpaceAfter=No
 12	.	.	PUNCT	interp	PunctType=Peri	5	punct	5:punct	_

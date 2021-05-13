@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-68 nodes (0%) are attached to their parents as `appos`.
+67 nodes (0%) are attached to their parents as `appos`.
 
-68 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.61764705882353.
+67 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.64179104477612.
 
-The following 13 pairs of parts of speech are connected with `appos`: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (28; 41% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (11; 16% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (8; 12% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (5; 7% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (3; 4% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-X.html">X</a></tt> (2; 3% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `appos`: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (28; 42% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (11; 16% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (8; 12% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (5; 7% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (3; 4% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-X.html">X</a></tt> (2; 3% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -60,17 +60,17 @@ The following 13 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 13 18 appos	color:blue
 1	À	à	ADP	E	_	3	case	_	_
 2	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-3	suite	suite	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	_
+3	suite	suite	NOUN	S	Gender=Fem|Number=Sing	12	obl	_	_
 4	de	de	ADP	E	_	6	case	_	_
 5	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
 6	élargissement	élargissement	NOUN	S	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	3	punct	_	_
 8	ce	ce	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
-9	type	type	NOUN	S	Gender=Masc|Number=Sing	13	nsubj	_	_
+9	type	type	NOUN	S	Gender=Masc|Number=Sing	12	nsubj	_	_
 10	d'	de	ADP	E	_	11	case	_	SpaceAfter=No
 11	activité	activité	NOUN	S	Gender=Fem|Number=Sing	9	nmod	_	_
-12	devrait	devoir	AUX	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
-13	continuer	continuer	VERB	V	VerbForm=Inf	0	root	_	_
+12	devrait	devoir	VERB	VM	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+13	continuer	continuer	VERB	V	VerbForm=Inf	12	xcomp	_	_
 14	à	à	ADP	E	_	16	mark	_	_
 15	se	se	PRON	P	Person=3|PronType=Prs	16	expl	_	_
 16	développer	développer	VERB	V	VerbForm=Inf	13	xcomp	_	SpaceAfter=No
@@ -85,7 +85,7 @@ The following 13 pairs of parts of speech are connected with `appos`: <tt><a hre
 25	le	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	26	det	_	_
 26	programme	programme	NOUN	S	Gender=Masc|Number=Sing	23	nmod	_	_
 27	Pericles	Pericles	PROPN	SP	_	26	nmod	_	SpaceAfter=No
-28	.	.	PUNCT	FS	_	13	punct	_	_
+28	.	.	PUNCT	FS	_	12	punct	_	_
 
 ~~~
 

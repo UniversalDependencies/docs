@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-Sequoia: POS Tags: `SCONJ`
 
 There are 7 `SCONJ` lemmas (0%), 11 `SCONJ` types (0%) and 761 `SCONJ` tokens (1%).
-Out of 17 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 14 in number of types and 13 in number of tokens.
+Out of 16 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 14 in number of types and 13 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>que, si, comme, parce, lorsque, quand, puisque</em>
 
@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="fr_sequoia-pos
   * <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> 68: <em>Or , il est pris en otage et traité <b>comme</b> un prisonnier de guerre .</em>
   * <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> 28: <em>Pour soutenir " le chef " , <b>comme</b> l' explique un de les démissionnaires .</em>
 * <em>quand</em>
-  * <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> 8: <em>A -t -on jamais pensé à ne relâcher ces sanctions que <b>quand</b> le gouvernement serbe aura vraiment fait un geste ?</em>
+  * <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> 8: <em>A -t-on jamais pensé à ne relâcher ces sanctions que <b>quand</b> le gouvernement serbe aura vraiment fait un geste ?</em>
   * <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> 2: <em>Pour conforter l' équipe et grossir l' effectif , nous allons <b>quand</b> même prendre un milieu offensif et un attaquant habitué à le côté droit " .</em>
 * <em>s'</em>
   * <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> 132: <em>L' EBM <b>s'</b> inclina devant Joeuf par 70-61 .</em>
@@ -41,7 +41,7 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="fr_sequoia-pos
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.571429 (the average of all parts of speech is 1.405182).
+The form / lemma ratio of `SCONJ` is 1.571429 (the average of all parts of speech is 1.405809).
 
 The 1st highest number of forms (2) was observed with the lemma “lorsque”: <em>lorsqu', lorsque</em>.
 

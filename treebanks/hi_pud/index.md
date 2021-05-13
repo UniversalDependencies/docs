@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Esha Banerjee, Pinkey Nainwani, Martin Popel, Daniel Zeman.
 
 Repository: [UD_Hindi-PUD](https://github.com/UniversalDependencies/UD_Hindi-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhi_pud27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhi_pud28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 3.0
 
@@ -86,11 +86,11 @@ employ ten-fold cross-validation.
 
 ## Features
 
-[Animacy](hi_pud-feat-Animacy.html) – [Aspect](hi_pud-feat-Aspect.html) – [Case](hi_pud-feat-Case.html) – [Definite](hi_pud-feat-Definite.html) – [Gender](hi_pud-feat-Gender.html) – [Gender[psor]](hi_pud-feat-Gender-psor.html) – [Mood](hi_pud-feat-Mood.html) – [Number](hi_pud-feat-Number.html) – [Number[psor]](hi_pud-feat-Number-psor.html) – [NumType](hi_pud-feat-NumType.html) – [Person](hi_pud-feat-Person.html) – [Polarity](hi_pud-feat-Polarity.html) – [Polite](hi_pud-feat-Polite.html) – [PronType](hi_pud-feat-PronType.html) – [Tense](hi_pud-feat-Tense.html) – [VerbForm](hi_pud-feat-VerbForm.html)
+[Animacy](hi_pud-feat-Animacy.html) – [Aspect](hi_pud-feat-Aspect.html) – [Case](hi_pud-feat-Case.html) – [Definite](hi_pud-feat-Definite.html) – [Foreign](hi_pud-feat-Foreign.html) – [Gender](hi_pud-feat-Gender.html) – [Gender[psor]](hi_pud-feat-Gender-psor.html) – [Mood](hi_pud-feat-Mood.html) – [Number](hi_pud-feat-Number.html) – [Number[psor]](hi_pud-feat-Number-psor.html) – [NumType](hi_pud-feat-NumType.html) – [Person](hi_pud-feat-Person.html) – [Polarity](hi_pud-feat-Polarity.html) – [Polite](hi_pud-feat-Polite.html) – [PronType](hi_pud-feat-PronType.html) – [Tense](hi_pud-feat-Tense.html) – [VerbForm](hi_pud-feat-VerbForm.html)
 
 ## Relations
 
-[acl](hi_pud-dep-acl.html) – [acl:relcl](hi_pud-dep-acl-relcl.html) – [advcl](hi_pud-dep-advcl.html) – [advmod](hi_pud-dep-advmod.html) – [amod](hi_pud-dep-amod.html) – [appos](hi_pud-dep-appos.html) – [aux](hi_pud-dep-aux.html) – [aux:pass](hi_pud-dep-aux-pass.html) – [case](hi_pud-dep-case.html) – [cc](hi_pud-dep-cc.html) – [ccomp](hi_pud-dep-ccomp.html) – [compound](hi_pud-dep-compound.html) – [compound:conjv](hi_pud-dep-compound-conjv.html) – [compound:redup](hi_pud-dep-compound-redup.html) – [conj](hi_pud-dep-conj.html) – [cop](hi_pud-dep-cop.html) – [dep](hi_pud-dep-dep.html) – [det](hi_pud-dep-det.html) – [det:predet](hi_pud-dep-det-predet.html) – [discourse](hi_pud-dep-discourse.html) – [fixed](hi_pud-dep-fixed.html) – [flat:name](hi_pud-dep-flat-name.html) – [iobj](hi_pud-dep-iobj.html) – [list](hi_pud-dep-list.html) – [mark](hi_pud-dep-mark.html) – [nmod](hi_pud-dep-nmod.html) – [nmod:poss](hi_pud-dep-nmod-poss.html) – [nsubj](hi_pud-dep-nsubj.html) – [nsubj:pass](hi_pud-dep-nsubj-pass.html) – [nummod](hi_pud-dep-nummod.html) – [obj](hi_pud-dep-obj.html) – [obl](hi_pud-dep-obl.html) – [obl:agent](hi_pud-dep-obl-agent.html) – [obl:tmod](hi_pud-dep-obl-tmod.html) – [parataxis](hi_pud-dep-parataxis.html) – [punct](hi_pud-dep-punct.html) – [root](hi_pud-dep-root.html) – [xcomp](hi_pud-dep-xcomp.html)
+[acl](hi_pud-dep-acl.html) – [acl:relcl](hi_pud-dep-acl-relcl.html) – [advcl](hi_pud-dep-advcl.html) – [advmod](hi_pud-dep-advmod.html) – [amod](hi_pud-dep-amod.html) – [appos](hi_pud-dep-appos.html) – [aux](hi_pud-dep-aux.html) – [aux:pass](hi_pud-dep-aux-pass.html) – [case](hi_pud-dep-case.html) – [cc](hi_pud-dep-cc.html) – [ccomp](hi_pud-dep-ccomp.html) – [compound](hi_pud-dep-compound.html) – [compound:lvc](hi_pud-dep-compound-lvc.html) – [compound:redup](hi_pud-dep-compound-redup.html) – [conj](hi_pud-dep-conj.html) – [cop](hi_pud-dep-cop.html) – [dep](hi_pud-dep-dep.html) – [det](hi_pud-dep-det.html) – [discourse](hi_pud-dep-discourse.html) – [fixed](hi_pud-dep-fixed.html) – [flat](hi_pud-dep-flat.html) – [flat:name](hi_pud-dep-flat-name.html) – [iobj](hi_pud-dep-iobj.html) – [list](hi_pud-dep-list.html) – [mark](hi_pud-dep-mark.html) – [nmod](hi_pud-dep-nmod.html) – [nmod:poss](hi_pud-dep-nmod-poss.html) – [nsubj](hi_pud-dep-nsubj.html) – [nsubj:pass](hi_pud-dep-nsubj-pass.html) – [nummod](hi_pud-dep-nummod.html) – [obj](hi_pud-dep-obj.html) – [obl](hi_pud-dep-obl.html) – [obl:agent](hi_pud-dep-obl-agent.html) – [obl:tmod](hi_pud-dep-obl-tmod.html) – [parataxis](hi_pud-dep-parataxis.html) – [punct](hi_pud-dep-punct.html) – [root](hi_pud-dep-root.html) – [xcomp](hi_pud-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -252,7 +252,7 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: नये, पहले, पिछले, नया, पूरा, बड़ा, छोटे, तीसरे, दूसरे, पुराने</li>
       <li>ADP: के, का, वाले, वाली, वाला, संबंधी, योग्य, स्थित, आधारित, केन्द्रित</li>
-      <li>AUX: है, था, गया, गयी, दिया, हुए, जाता, थी, सकता, रहा</li>
+      <li>AUX: है, था, गया, गयी, दिया, थी, हुए, जाता, सकता, रहा</li>
       <li>AUX-Inf: पाना</li>
       <li>DET: एक, इस, यह, उस, ऐसा, द, उसी, ऐसे, ऐसी, थोड़ा</li>
       <li>NOUN: रूप, वर्ष, समय, क्षेत्र, शुरू, काम, साल, तरह, बार, युद्ध</li>
@@ -474,7 +474,7 @@ employ ten-fold cross-validation.
   <li>Pres
     <ul>
       <li>AUX: है, हैं, हूं, चाहिए, जाए, थे, सकते, हो, चाहेंगे, दें</li>
-      <li>VERB: है, हैं, करें, करता, करते, चाहिए, निपटें, फटते, फिशिंग, मांगा</li>
+      <li>VERB: है, हैं, करें, करता, करते, निपटें, फटते, फिशिंग, मांगा, लव</li>
     </ul>
   </li>
 </ul>
@@ -491,7 +491,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: जो, उसके, जिसमें, उसकी, उनकी, उसका, जिसे, जिसका, जिनमें, जहां</li>
+      <li>PRON: जो, उसके, जिसमें, उसकी, उनकी, उसका, जिसे, जिनमें, जिसका, जहां</li>
     </ul>
   </li>
 </ul>
@@ -499,7 +499,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Rel
     <ul>
-      <li>PRON: जो</li>
+      <li>PRON: जो, जिन्हें, जिसका</li>
     </ul>
   </li>
 </ul>
@@ -547,7 +547,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>3
     <ul>
-      <li>AUX: है, हैं, था, गया, गयी, हुए, दिया, थे, गए, जाता</li>
+      <li>AUX: है, हैं, था, गया, गयी, हुए, दिया, थे, गए, थी</li>
       <li>AUX-Inf: पाना</li>
       <li>PRON: वह, उसने, उसके, उसे, उसकी, उसका, वे, उन्हें, उन्होंने, उनकी</li>
       <li>VERB: किया, है, कहा, की, था, करते, थी, हैं, हुआ, हुई</li>
@@ -613,6 +613,18 @@ employ ten-fold cross-validation.
 <h3>Other Features</h3>
 
 
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>X: थ़ॉट, न्यू, या</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -636,13 +648,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(_) (1)</li>
       <li>VERB--NOUN-Acc (7)</li>
       <li>VERB--NOUN-Acc-ADP(_) (106)</li>
-      <li>VERB--NOUN-Nom (183)</li>
+      <li>VERB--NOUN-Nom (184)</li>
       <li>VERB--NOUN-Nom-ADP(_) (11)</li>
       <li>VERB--PRON (50)</li>
       <li>VERB--PRON-ADP(_) (1)</li>
       <li>VERB--PRON-Acc (138)</li>
       <li>VERB--PRON-Acc-ADP(_) (4)</li>
-      <li>VERB--PRON-Nom (159)</li>
+      <li>VERB--PRON-Nom (160)</li>
       <li>VERB--PRON-Nom-ADP(_) (1)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(_) (7)</li>
       <li>VERB-Inf--NOUN-Nom (7)</li>
@@ -658,7 +670,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN (20)</li>
       <li>VERB--NOUN-Acc (32)</li>
       <li>VERB--NOUN-Acc-ADP(_) (86)</li>
-      <li>VERB--NOUN-Nom (757)</li>
+      <li>VERB--NOUN-Nom (756)</li>
       <li>VERB--NOUN-Nom-ADP(_) (4)</li>
       <li>VERB--PRON (27)</li>
       <li>VERB--PRON-Acc (29)</li>
@@ -700,7 +712,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:conjv</a>, <a>compound:redup</a>, <a>det:predet</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
-<li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
+<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
 <li>The following 8 relation types are not used in this corpus at all: <a>csubj</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

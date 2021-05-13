@@ -28,8 +28,8 @@ The following 13 pairs of parts of speech are connected with `compound:lvc`: <tt
 3	چىشلەپ	_	VERB	V	_	4	compound:lvc	_	Translit=chishlep|Morf=Unknown
 4	كەلگەن	كەل	VERB	V	Case=Nom|Tense=Past|VerbForm=Part	5	acl	_	Translit=kelgen
 5	چاۋارلارنى	_	NOUN	N	_	7	obj	_	Translit=chawarlarni|Morf=Unknown
-6	بىربىرلەپ	_	NOUN	N	_	7	advmod	_	Translit=birbirlep|Morf=Unknown
-7	تىزىپ	تىز	VERB	V	Aspect=Perf|VerbForm=Cov	0	root	_	SpaceAfter=No|Translit=tizip
+6	بىربىرلەپ	_	NOUN	N	_	7	obl	_	Translit=birbirlep|Morf=Unknown
+7	تىزىپ	تىز	VERB	V	Aspect=Perf|VerbForm=Inf	0	root	_	SpaceAfter=No|Translit=tizip
 8	.	.	PUNCT	Y	_	7	punct	_	SpaceAfter=No|Translit=.
 9	.	.	PUNCT	Y	_	7	punct	_	SpaceAfter=No|Translit=.
 10	.	.	PUNCT	Y	_	7	punct	_	Translit=.
@@ -71,11 +71,11 @@ The following 13 pairs of parts of speech are connected with `compound:lvc`: <tt
 6	تاغ	تاغ	NOUN	N	Case=Nom	7	amod	_	Translit=tagh
 7	چوققىلىرى	چوققا	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3	12	nsubj	_	Translit=choqqiliri
 8	قىشمۇ	قىش	NOUN	N	Case=Nom	9	compound:lvc	_	Translit=qishmu
-9	ياز	ياز	NOUN	N	Case=Nom	12	advmod	_	Translit=yaz
+9	ياز	ياز	NOUN	N	Case=Nom	12	obl	_	Translit=yaz
 10	قار-مۇز	_	NOUN	N	_	12	obl	_	Translit=qar-muz|Morf=Unknown
 11	بىلەن	بىلەن	ADP	R	_	10	case	_	Translit=bilen
-12	قاپلىنىپ	قاپلى	VERB	V	Aspect=Perf|VerbForm=Cov|Voice=Pass	0	root	_	Translit=qaplinip
-13	تۇرىدۇ	تۇر	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	12	aux	_	SpaceAfter=No|Translit=turidu
+12	قاپلىنىپ	قاپلى	VERB	V	Aspect=Perf|VerbForm=Inf|Voice=Pass	0	root	_	Translit=qaplinip
+13	تۇرىدۇ	تۇر	AUX	V	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	SpaceAfter=No|Translit=turidu
 14	.	.	PUNCT	Y	_	13	punct	_	Translit=.
 
 ~~~

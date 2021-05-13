@@ -23,9 +23,9 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 2	fgColor:white
 # visual-style 2 3 nummod	color:blue
 1	עצה	עצה	NOUN	NOUN	Gender=Fem|Number=Sing	5	nsubj	_	_
-2	מספר	מספר	NOUN	NOUN	Gender=Masc|HebSource=ConvUncertainLabel|Number=Sing	1	nmod	_	_
+2	מספר	מספר	NOUN	NOUN	Gender=Masc|Number=Sing	1	nmod	_	HebSource=ConvUncertainLabel
 3	1	1	NUM	NUM	_	2	nummod	_	SpaceAfter=No
-4	:	:	PUNCT	PUNCT	_	5	punct	_	_
+4	:	:	PUNCT	PUNCT	_	1	punct	_	_
 5	הצטרפו	הצטרף	VERB	VERB	Gender=Fem,Masc|HebBinyan=HITPAEL|Mood=Imp|Number=Plur|Person=2	0	root	_	_
 6	ל	ל	ADP	ADP	_	7	case	_	_
 7	גופים	גוף	NOUN	NOUN	Gender=Masc|Number=Plur	5	obl	_	_
@@ -56,16 +56,16 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 12 nummod	color:blue
-1	ה	ה	DET	DET	PronType=Art	2	det:def	_	_
+1	ה	ה	DET	DET	Definite=Def|PronType=Art	2	det	_	_
 2	בנייה	בנייה	NOUN	NOUN	Gender=Fem|Number=Sing	4	nsubj	_	_
 3	לא	לא	ADV	ADV	Polarity=Neg	4	advmod	_	_
 4	הושלמה	הושלם	VERB	VERB	Gender=Fem|HebBinyan=HUFAL|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	_
 5	ב	ב	ADP	ADP	_	7	case	_	_
-6	ה_	ה	DET	DET	PronType=Art	7	det:def	_	_
+6	ה_	ה	DET	DET	Definite=Def|PronType=Art	7	det	_	_
 7	מועד	מועד	NOUN	NOUN	Gender=Masc|Number=Sing	4	obl	_	_
 8	ש	ש	SCONJ	SCONJ	_	9	mark	_	_
 9	נקבע	נקבע	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|Number=Sing|Person=3|Tense=Past|Voice=Mid	7	acl:relcl	_	_
-10	,	,	PUNCT	PUNCT	_	7	punct	_	_
+10	,	,	PUNCT	PUNCT	_	11	punct	_	_
 11	ספטמבר	ספטמבר	PROPN	PROPN	_	7	appos	_	_
 12	84	84	NUM	NUM	_	11	nummod	_	SpaceAfter=No
 13	.	.	PUNCT	PUNCT	_	4	punct	_	_

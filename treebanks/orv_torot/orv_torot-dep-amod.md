@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of amod in UD_Old_Russian-TOROT'
+title:  'Statistics of amod in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Relations: `amod`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Relations: `amod`
 
 This relation is universal.
 
@@ -25,7 +25,7 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 1	и	и	CCONJ	C-	_	3	cc	_	ref=6
 2	тѹтъ	тутъ	ADV	Df	_	3	advmod	_	ref=6
 3	есть	быти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=6
-4	индѣискаа	индѣискыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	5	amod	_	ref=6
+4	индѣискаа	индѣискыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	ref=6
 5	страна	страна	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	ref=6
 
 ~~~
@@ -43,10 +43,10 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 4	престави	прѣставити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
 5	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	expl	_	ref=
 6	раба	раба	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	ref=
-7	бж҃иꙗ	божии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	6	amod	_	ref=
+7	бж҃иꙗ	божии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	6	amod	_	ref=
 8	анна	анна	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	6	appos	_	ref=
 9	игумениꙗ	игумения	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	appos	_	ref=
-10	ст҃ꙑꙗ	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	11	amod	_	ref=
+10	ст҃ꙑꙗ	святыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	ref=
 11	варвара	варвара	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	9	nmod	_	ref=
 
 ~~~
@@ -67,7 +67,7 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 7	скверну	сквьрна	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	ref=86.20
 8	и	и	CCONJ	C-	_	5	cc	_	ref=86.20
 9	ино	иныи	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	5	conj	_	ref=86.20
-10	пуще	пущии	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing|Strength=Strong	9	amod	_	ref=86.21
+10	пуще	пущии	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing|Variant=Short	9	amod	_	ref=86.21
 
 ~~~
 

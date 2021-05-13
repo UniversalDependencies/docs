@@ -18,8 +18,6 @@ The feature is used with 2 part-of-speech tags: <tt><a href="bm_crb-pos-ADJ.html
 
 3 <tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="bm_crb-feat-AdjType.html">AdjType</a></tt><tt>=EMPTY</tt> (3; 100%).
-
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (3; 100% of non-empty `NumType`): <em>SABANAN, filanan, tannan</em>

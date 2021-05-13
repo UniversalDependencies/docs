@@ -27,7 +27,7 @@ The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href
 2	případě	případ	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	9	obl	_	SpaceAfter=No
 3	,	,	PUNCT	Z:-------------	_	6	punct	_	_
 4	že	že	SCONJ	J,-------------	_	6	mark	_	_
-5	je	on	PRON	PPXP4--3-------	Case=Acc|Number=Plur|Person=3|PronType=Prs	7	obj	_	LId=on-1
+5	je	on	PRON	PPXP4--3-------	Case=Acc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	7	obj	_	LId=on-1
 6	nelze	lze	VERB	VB-S---3P-NA---	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	_
 7	přiřadit	přiřadit	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	6	csubj	_	SpaceAfter=No
 8	,	,	PUNCT	Z:-------------	_	6	punct	_	_

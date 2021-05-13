@@ -7,14 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Naija-NSC: Relations: `advmod`
 
 This relation is universal.
-There are 2 language-specific subtypes of `advmod`: <tt><a href="pcm_nsc-dep-advmod-emph.html">advmod:emph</a></tt>, <tt><a href="pcm_nsc-dep-advmod-periph.html">advmod:periph</a></tt>.
 
-4691 nodes (3%) are attached to their parents as `advmod`.
+6683 nodes (5%) are attached to their parents as `advmod`.
 
-3340 instances of `advmod` (71%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.85823918141121.
+4048 instances of `advmod` (61%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.2421068382463.
 
-The following 33 pairs of parts of speech are connected with `advmod`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (2021; 43% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (1321; 28% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (293; 6% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (270; 6% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (257; 5% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (115; 2% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (61; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (43; 1% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (42; 1% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (38; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (36; 1% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (29; 1% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (25; 1% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (22; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (21; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (16; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (15; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 44 pairs of parts of speech are connected with `advmod`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (2621; 39% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (1562; 23% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (597; 9% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (467; 7% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (296; 4% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (185; 3% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (174; 3% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (101; 2% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (97; 1% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (87; 1% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (59; 1% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (52; 1% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (49; 1% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (44; 1% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (40; 1% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (38; 1% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (28; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (19; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (17; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (17; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (16; 0% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (15; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (11; 0% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt>-<tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -37,43 +36,51 @@ The following 33 pairs of parts of speech are connected with `advmod`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 advmod	color:blue
-1	#	#	X	_	_	4	dep	_	AlignBegin=42316|AlignEnd=42678|Gloss=PUNCT
-2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	AlignBegin=42678|AlignEnd=42759|Gloss=NOM.SG.1
-3	no	no	PART	_	Polarity=Neg	4	advmod	_	AlignBegin=42759|AlignEnd=42939|Gloss=NEG
-4	go	go	VERB	_	_	0	root	_	AlignBegin=42939|AlignEnd=43049|Gloss=go
-5	back	back	ADV	_	_	4	advmod	_	AlignBegin=43049|AlignEnd=43289|Gloss=back
-6	to	to	ADP	_	_	7	case	_	AlignBegin=43289|AlignEnd=43369|Gloss=to
-7	school	school	NOUN	_	_	4	obl:arg	_	AlignBegin=43369|AlignEnd=43589|Gloss=school
-8	again	again	ADV	_	_	4	advmod	_	AlignBegin=43589|AlignEnd=43940|Gloss=again
-9	//	//	X	_	_	4	dep	_	AlignBegin=43940|AlignEnd=43970|Gloss=PUNCT
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 advmod	color:blue
+1	#	#	X	_	_	3	dep	_	AlignBegin=27115|AlignEnd=27579|Gloss=PUNCT
+2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	AlignBegin=27579|AlignEnd=27670|Gloss=NOM.SG.1
+3	dey	dey	VERB	_	VerbType=Cop	0	root	_	AlignBegin=27670|AlignEnd=27840|Gloss=be
+4	dere	dere	ADV	_	_	3	xcomp	_	AlignBegin=27840|AlignEnd=27980|Gloss=there
+5	o	o	PART	_	PartType=Disc	4	advmod	_	AlignBegin=27980|AlignEnd=28240|Gloss=EMPH
+6	//=	//=	X	_	_	8	dep	_	AlignBegin=28240|AlignEnd=28270|Gloss=PUNCT
+7	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	AlignBegin=28270|AlignEnd=28450|Gloss=NOM.SG.1
+8	school	school	VERB	_	_	3	parataxis:conj	_	AlignBegin=28450|AlignEnd=28830|Gloss=school
+9	o	o	PART	_	PartType=Disc	8	advmod	_	AlignBegin=28830|AlignEnd=29030|Gloss=EMPH
+10	//=	//=	X	_	_	11	dep	_	AlignBegin=28830|AlignEnd=29030|Gloss=PUNCT
+11	setay	sotay	ADV	_	_	8	parataxis:conj	_	AlignBegin=29060|AlignEnd=29610|Gloss=such_that
+12	four	four	NUM	_	NumType=Card	13	nummod	_	AlignBegin=29610|AlignEnd=29950|Gloss=four.CARD
+13	years	year	NOUN	_	Number=Plur	11	obl:mod	_	AlignBegin=29950|AlignEnd=30270|Gloss=year.PL
+14	//	//	X	_	_	3	dep	_	AlignBegin=30270|AlignEnd=30300|Gloss=PUNCT
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 5 advmod	color:blue
-1	#	#	X	_	_	12	dep	_	AlignBegin=37956|AlignEnd=38608|Gloss=PUNCT
-2	later	later	ADJ	_	Degree=Cmp	12	advcl:periph	_	AlignBegin=38608|AlignEnd=39013|Gloss=late.CMPR
-3	<	<	X	_	_	2	dep	_	AlignBegin=39013|AlignEnd=39043|Gloss=PUNCT
-4	#	#	X	_	_	2	dep	_	AlignBegin=39043|AlignEnd=40120|Gloss=PUNCT
-5	even	even	ADV	_	_	8	advmod	_	AlignBegin=40120|AlignEnd=40413|Gloss=even
-6	if	if	SCONJ	_	_	8	mark	_	AlignBegin=40413|AlignEnd=40750|Gloss=if
-7	na	na	AUX	_	PartType=Cop	8	cop	_	AlignBegin=40750|AlignEnd=40940|Gloss=be
-8	money	money	NOUN	_	_	12	advcl:emph	_	AlignBegin=40940|AlignEnd=41120|Gloss=money
-9	<	<	X	_	_	8	dep	_	AlignBegin=41120|AlignEnd=41150|Gloss=PUNCT
-10	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	expl:subj	_	AlignBegin=41150|AlignEnd=41259|Gloss=NOM.SG.3
-11	no	no	PART	_	Polarity=Neg	12	advmod	_	AlignBegin=41259|AlignEnd=41450|Gloss=NEG
-12	get	get	VERB	_	_	0	root	_	AlignBegin=41450|AlignEnd=41780|Gloss=get
-13	//	//	X	_	_	12	dep	_	AlignBegin=41780|AlignEnd=41810|Gloss=PUNCT
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 advmod	color:blue
+1	#	#	X	_	_	5	dep	_	AlignBegin=73066|AlignEnd=73583|Gloss=PUNCT
+2	so	so	ADV	_	_	5	discourse	_	AlignBegin=73583|AlignEnd=73676|Gloss=so
+3	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	AlignBegin=73676|AlignEnd=73789|Gloss=NOM.SG.1
+4	con	con	AUX	_	Aspect=Cons	5	aux	_	AlignBegin=73789|AlignEnd=74049|Gloss=CONS
+5	go	go	VERB	_	_	0	root	_	AlignBegin=74049|AlignEnd=74199|Gloss=go
+6	school	school	NOUN	_	_	5	obj	_	AlignBegin=74199|AlignEnd=74889|Gloss=school
+7	o	o	PART	_	PartType=Disc	6	advmod	_	AlignBegin=74889|AlignEnd=75099|Gloss=EMPH
+8	//=	//=	X	_	_	10	dep	_	AlignBegin=75099|AlignEnd=75129|Gloss=PUNCT
+9	con	con	AUX	_	Aspect=Cons	10	aux	_	AlignBegin=75129|AlignEnd=75395|Gloss=CONS
+10	reach	reach	VERB	_	_	5	parataxis:conj	_	AlignBegin=75395|AlignEnd=75644|Gloss=reach
+11	#	#	X	_	_	12	dep	_	AlignBegin=75644|AlignEnd=75949|Gloss=PUNCT
+12	two	two	NUM	_	NumType=Card	10	obj	_	AlignBegin=75949|AlignEnd=76029|Gloss=two.CARD
+13	thousand	thousand	NUM	_	NumType=Card	12	flat	_	AlignBegin=76029|AlignEnd=76379|Gloss=thousand.CARD
+14	and	and	CCONJ	_	_	15	cc	_	AlignBegin=76379|AlignEnd=76639|Gloss=and
+15	eight	eight	NUM	_	NumType=Card	13	conj	_	AlignBegin=76639|AlignEnd=76791|Gloss=eight.CARD
+16	//	//	X	_	_	5	dep	_	AlignBegin=76791|AlignEnd=76821|Gloss=PUNCT
 
 ~~~
 

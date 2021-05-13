@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Act`, `Pass`.
 
-12879 tokens (11%) have a non-empty value of `Voice`.
-2979 types (15%) occur at least once with a non-empty value of `Voice`.
+12866 tokens (11%) have a non-empty value of `Voice`.
+2985 types (15%) occur at least once with a non-empty value of `Voice`.
 2594 lemmas (14%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 12 part-of-speech tags: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (10482; 9% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (879; 1% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (579; 0% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (314; 0% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (296; 0% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (292; 0% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="id_gsd-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (4; 0% instances).
+The feature is used with 12 part-of-speech tags: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (10481; 9% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (874; 1% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (573; 0% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (313; 0% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (296; 0% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (292; 0% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="id_gsd-pos-PART.html">PART</a></tt> (7; 0% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (4; 0% instances).
 
 ### `VERB`
 
-10482 <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> tokens (86% of all `VERB` tokens) have a non-empty value of `Voice`.
+10481 <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> tokens (86% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="id_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10479; 100%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="id_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10478; 100%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (7162; 68% of non-empty `Voice`): <em>menjadi, memiliki, berada, menggunakan, membuat, bermain, mulai, kembali, berasal, mempunyai</em>
+* `Act` (7161; 68% of non-empty `Voice`): <em>menjadi, memiliki, berada, menggunakan, membuat, bermain, mulai, kembali, berasal, mempunyai</em>
 * `Pass` (3320; 32% of non-empty `Voice`): <em>terletak, digunakan, dikenal, terjadi, disebut, terdapat, terdiri, dilakukan, dirilis, ditemukan</em>
 * `EMPTY` (1720): <em>merupakan, ada, termasuk, berhasil, belajar, hidup, tahu, adanya, gagal, jadi</em>
 
@@ -30,43 +30,43 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 ### `NOUN`
 
-879 <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> tokens (3% of all `NOUN` tokens) have a non-empty value of `Voice`.
+874 <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> tokens (3% of all `NOUN` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `NOUN` and `Voice` co-occurred: <tt><a href="id_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (879; 100%).
+The most frequent other feature values with which `NOUN` and `Voice` co-occurred: <tt><a href="id_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (866; 99%).
 
 `NOUN` tokens may have the following values of `Voice`:
 
-* `Act` (829; 94% of non-empty `Voice`): <em>tanggal, sepak, gelar, hukum, jalan, pukul, milik, jawab, kali, pos</em>
+* `Act` (824; 94% of non-empty `Voice`): <em>tanggal, sepak, gelar, hukum, jalan, pukul, milik, jawab, kali, pos</em>
 * `Pass` (50; 6% of non-empty `Voice`): <em>disini, Dirilis, didunia, ditempat, teriakan, Terhambatnya, diSurga, diangkat, diare, diatom</em>
-* `EMPTY` (26121): <em>tahun, orang, desa, kota, nama, bagian, bahasa, wilayah, negara, daerah</em>
+* `EMPTY` (25565): <em>tahun, orang, desa, kota, nama, bagian, bahasa, wilayah, film, daerah</em>
 
 `Voice` seems to be **lexical feature** of `NOUN`. 100% lemmas (316) occur only with one value of `Voice`.
 
 ### `ADV`
 
-579 <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> tokens (12% of all `ADV` tokens) have a non-empty value of `Voice`.
+573 <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> tokens (12% of all `ADV` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `ADV` and `Voice` co-occurred: <tt><a href="id_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (578; 100%).
+The most frequent other feature values with which `ADV` and `Voice` co-occurred: <tt><a href="id_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (567; 99%).
 
 `ADV` tokens may have the following values of `Voice`:
 
-* `Act` (564; 97% of non-empty `Voice`): <em>dapat, harus, sudah, kembali, mulai, turut, kira, ingin, bersama, perlu</em>
+* `Act` (558; 97% of non-empty `Voice`): <em>dapat, harus, sudah, kembali, mulai, turut, ingin, bersama, perlu, berturut</em>
 * `Pass` (15; 3% of non-empty `Voice`): <em>terpaksa, diduga, Disaat, diolah, dipotong</em>
-* `EMPTY` (4181): <em>juga, akan, telah, lebih, kemudian, hanya, bisa, masih, sangat, banyak</em>
+* `EMPTY` (4151): <em>juga, akan, telah, lebih, kemudian, hanya, bisa, masih, sangat, banyak</em>
 
 `Voice` seems to be **lexical feature** of `ADV`. 100% lemmas (45) occur only with one value of `Voice`.
 
 ### `PROPN`
 
-314 <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Voice`.
+313 <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `PROPN` and `Voice` co-occurred: <tt><a href="id_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (314; 100%).
+The most frequent other feature values with which `PROPN` and `Voice` co-occurred: <tt><a href="id_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (311; 99%).
 
 `PROPN` tokens may have the following values of `Voice`:
 
-* `Act` (282; 90% of non-empty `Voice`): <em>Hukum, Tata, Kerja, Undang, Kali, Balai, Kutai, Sepak, Aku, Fei</em>
+* `Act` (281; 90% of non-empty `Voice`): <em>Hukum, Tata, Kerja, Kali, Balai, Kutai, Sepak, Aku, Fei, Ji</em>
 * `Pass` (32; 10% of non-empty `Voice`): <em>Diana, Dipertuan, Dian, Terpadu, dit, DIATASI, DiVA, Dibuat, Dibuka, Die</em>
-* `EMPTY` (22476): <em>indonesia, kabupaten, kecamatan, Jawa, provinsi, Amerika, Timur, Barat, jepang, tengah</em>
+* `EMPTY` (22460): <em>indonesia, kabupaten, kecamatan, Jawa, provinsi, Amerika, Timur, Barat, jepang, tengah</em>
 
 `Voice` seems to be **lexical feature** of `PROPN`. 100% lemmas (192) occur only with one value of `Voice`.
 
@@ -94,7 +94,7 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 
 * `Act` (234; 80% of non-empty `Voice`): <em>berbeda, keluar, bersama, lanjut, beragam, bersamaan, pecah, cetak, erat, hias</em>
 * `Pass` (58; 20% of non-empty `Voice`): <em>terkenal, terpisah, terbalik, tercinta, terkemuka, ternama, dibakar, didaerah, dijahit, dipecah</em>
-* `EMPTY` (4236): <em>lain, besar, baru, lainnya, sama, kecil, utama, pertama, tinggi, baik</em>
+* `EMPTY` (4208): <em>lain, besar, baru, lainnya, sama, kecil, utama, pertama, tinggi, baik</em>
 
 `Voice` seems to be **lexical feature** of `ADJ`. 100% lemmas (147) occur only with one value of `Voice`.
 
@@ -107,7 +107,7 @@ The most frequent other feature values with which `DET` and `Voice` co-occurred:
 `DET` tokens may have the following values of `Voice`:
 
 * `Act` (7; 100% of non-empty `Voice`): <em>berikut, beragam, Bagi</em>
-* `EMPTY` (4005): <em>ini, itu, sebuah, tersebut, satu, seorang, salah, beberapa, para, berbagai</em>
+* `EMPTY` (3979): <em>ini, itu, sebuah, tersebut, satu, seorang, salah, beberapa, para, berbagai</em>
 
 ### `PART`
 
@@ -130,7 +130,7 @@ The most frequent other feature values with which `PRON` and `Voice` co-occurred
 `PRON` tokens may have the following values of `Voice`:
 
 * `Act` (7; 100% of non-empty `Voice`): <em>Aku, berdirinya</em>
-* `EMPTY` (4757): <em>yang, ia, mereka, dia, apa, kita, kamu, siapa, engkau, aku</em>
+* `EMPTY` (4754): <em>yang, ia, mereka, dia, apa, kita, kamu, siapa, engkau, aku</em>
 
 ### `SCONJ`
 
@@ -169,10 +169,10 @@ The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="id_gsd-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (594; 52%),
 <tt>VERB --[<tt><a href="id_gsd-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (181; 55%),
 <tt>VERB --[<tt><a href="id_gsd-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (128; 52%),
-<tt>ADV --[<tt><a href="id_gsd-dep-compound-plur.html">compound:plur</a></tt>]--> ADV</tt> (6; 100%),
-<tt>NOUN --[<tt><a href="id_gsd-dep-compound-plur.html">compound:plur</a></tt>]--> NOUN</tt> (6; 67%),
 <tt>ADV --[<tt><a href="id_gsd-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (2; 67%),
 <tt>ADP --[<tt><a href="id_gsd-dep-acl.html">acl</a></tt>]--> VERB</tt> (1; 100%),
+<tt>ADV --[<tt><a href="id_gsd-dep-compound.html">compound</a></tt>]--> ADV</tt> (1; 100%),
 <tt>ADV --[<tt><a href="id_gsd-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1; 100%),
-<tt>ADV --[<tt><a href="id_gsd-dep-dep.html">dep</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>ADV --[<tt><a href="id_gsd-dep-dep.html">dep</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>VERB --[<tt><a href="id_gsd-dep-csubj.html">csubj</a></tt>]--> NOUN</tt> (1; 100%).
 

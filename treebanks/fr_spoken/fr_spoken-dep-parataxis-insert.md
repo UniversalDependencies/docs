@@ -9,33 +9,27 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="fr_spoken-dep-parataxis.html">parataxis</a></tt>.
 There are also 1 other language-specific subtypes of `parataxis`: <tt><a href="fr_spoken-dep-parataxis-parenth.html">parataxis:parenth</a></tt>.
 
-14 nodes (0%) are attached to their parents as `parataxis:insert`.
+15 nodes (0%) are attached to their parents as `parataxis:insert`.
 
-12 instances of `parataxis:insert` (86%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.92857142857143.
+12 instances of `parataxis:insert` (80%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.6.
 
-The following 4 pairs of parts of speech are connected with `parataxis:insert`: <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (7; 50% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (5; 36% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 7% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 7% instances).
+The following 4 pairs of parts of speech are connected with `parataxis:insert`: <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (8; 53% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (5; 33% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 7% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 9 parataxis:insert	color:blue
-1	alors	alors	ADV	_	_	3	advmod	_	_
-2	que	que	PRON	_	_	4	obj	_	_
-3	va	aller	VERB	ETRE	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	faire	faire	VERB	_	VerbForm=Inf	3	xcomp:obj	_	_
-5	maintenant	maintenant	ADV	_	_	4	advmod	_	_
-6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	président	président	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
-8	se	se	PRON	_	Person=3|PronType=Prs	9	dep:comp	_	_
-9	demande	demander	VERB	_	_	4	parataxis:insert	_	_
-10	Le	le	DET	_	_	11	det	_	_
-11	Progrès	Progrès	PROPN	_	_	9	nsubj	_	_
-12	à	à	ADP	_	_	13	case	_	_
-13	Lyon	Lyon	PROPN	_	_	9	obl:mod	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 parataxis:insert	color:blue
+1	sois	être	AUX	CCOMP	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	_
+2	purifié	purifier	VERB	_	_	3	parataxis:insert	_	_
+3	entend	entendre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	-on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	nsubj	_	_
+5	dans	dans	ADP	_	_	7	case	_	_
+6	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
+7	évangile	évangile	NOUN	_	Gender=Masc|Number=Sing	3	obl:mod	_	_
 
 ~~~
 

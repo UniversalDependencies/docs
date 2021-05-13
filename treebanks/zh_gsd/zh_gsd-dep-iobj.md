@@ -58,17 +58,17 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 1	麥格林	麥格林	PROPN	NNP	_	2	nmod	_	SpaceAfter=No
 2	神父	神父	NOUN	NN	_	9	nsubj	_	SpaceAfter=No
 3	花	花	VERB	VV	_	9	advcl	_	SpaceAfter=No
-4	了	了	PART	AS	Aspect=Perf	3	aux:aspect	_	SpaceAfter=No
+4	了	了	AUX	AS	Aspect=Perf	3	aux	_	SpaceAfter=No
 5	相當	相當	ADV	RB	_	6	advmod	_	SpaceAfter=No
 6	長	長	ADJ	JJ	_	8	amod	_	SpaceAfter=No
-7	的	的	PART	DEC	_	6	mark:relcl	_	SpaceAfter=No
+7	的	的	PART	DEC	_	6	mark:rel	_	SpaceAfter=No
 8	時間	時間	NOUN	NN	_	3	obj	_	SpaceAfter=No
 9	詢問	詢問	VERB	VV	_	0	root	_	SpaceAfter=No
 10	路濟亞	路濟亞	PROPN	NNP	_	9	iobj	_	SpaceAfter=No
 11	關於	關於	ADP	IN	_	15	det	_	SpaceAfter=No
 12	聖母	聖母	PROPN	NNP	_	13	nsubj	_	SpaceAfter=No
 13	顯靈	顯靈	VERB	VV	_	11	ccomp	_	SpaceAfter=No
-14	的	的	PART	DEC	Case=Gen	11	case:dec	_	SpaceAfter=No
+14	的	的	PART	DEC	Case=Gen	11	case	_	SpaceAfter=No
 15	細節	細節	NOUN	NN	_	9	obj	_	SpaceAfter=No
 16	。	。	PUNCT	.	_	9	punct	_	SpaceAfter=No
 

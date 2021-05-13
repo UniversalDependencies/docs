@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-760 nodes (1%) are attached to their parents as `cop`.
+927 nodes (1%) are attached to their parents as `cop`.
 
-760 instances of `cop` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.93947368421053.
+927 instances of `cop` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.92880258899676.
 
-The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (385; 51% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (159; 21% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (109; 14% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (60; 8% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (16; 2% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (13; 2% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (11; 1% instances), <tt><a href="gd_arcosg-pos-ADP.html">ADP</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (463; 50% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (208; 22% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (139; 15% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (72; 8% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (18; 2% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (16; 2% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 2	chan	is	AUX	Wp-in	Polarity=Neg|Tense=Pres	3	cop	_	_
 3	urrainn	urrainn	NOUN	Uf	_	0	root	_	_
 4	do	do	ADP	Sp	_	5	case	_	_
-5	mi	mi	PRON	Pp1s	Number=Sing|Person=1	3	obl	_	_
+5	mi	mi	PRON	Pp1s	Number=Sing|Person=1	3	nmod	_	_
 
 ~~~
 

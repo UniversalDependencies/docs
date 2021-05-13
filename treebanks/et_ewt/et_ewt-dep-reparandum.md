@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6 nodes (0%) are attached to their parents as `reparandum`.
+8 nodes (0%) are attached to their parents as `reparandum`.
 
-5 instances of `reparandum` (83%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.83333333333333.
+5 instances of `reparandum` (63%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.625.
 
-The following 5 pairs of parts of speech are connected with `reparandum`: <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (2; 33% instances), <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (1; 17% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (1; 17% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (1; 17% instances).
+The following 7 pairs of parts of speech are connected with `reparandum`: <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (2; 25% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 13% instances), <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (1; 13% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (1; 13% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (1; 13% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 13% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (1; 13% instances).
 
 
 ~~~ conllu
@@ -28,6 +28,38 @@ The following 5 pairs of parts of speech are connected with `reparandum`: <tt><a
 4	teema	teema	NOUN	S	Case=Nom|Number=Sing	5	nsubj	5:nsubj	_
 5	oli	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 6	.	.	PUNCT	Z	_	5	punct	5:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 20	bgColor:blue
+# visual-style 20	fgColor:white
+# visual-style 21	bgColor:blue
+# visual-style 21	fgColor:white
+# visual-style 21 20 reparandum	color:blue
+1	Kuigi	kuigi	SCONJ	J	_	4	mark	4:mark	_
+2	ma	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+3	ei	ei	AUX	V	Polarity=Neg	4	aux	4:aux	_
+4	saa	saama	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	16	advcl	16:advcl	_
+5	aru	aru	NOUN	S	Case=Par|Number=Sing	4	obj	4:obj	_
+6	küll	küll	ADV	D	_	4	advmod	4:advmod	_
+7	mis	mis	DET	P	Case=Nom|Number=Sing|PronType=Int,Rel	8	det	8:det	_
+8	moodi	moodi	ADV	D	_	4	advmod	4:advmod	SpaceAfter=No
+9	,	,	PUNCT	Z	_	16	punct	16:punct	_
+10	aga	aga	CCONJ	J	_	16	cc	16:cc	_
+11	kõik	kõik	PRON	P	Case=Nom|Number=Sing|PronType=Tot	16	nsubj	13:nsubj|16:nsubj	_
+12	mis	mis	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	13	nsubj	11:ref	_
+13	liigub	liikuma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl:relcl	11:acl	_
+14	kiiremini	kiiremini	ADV	D	_	13	advmod	13:advmod	SpaceAfter=No
+15	,	,	PUNCT	Z	_	16	punct	16:punct	_
+16	liigub	liikuma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+17	tema	tema	PRON	P	Case=Gen|Number=Sing|Person=3|PronType=Prs	16	obl	16:obl	SpaceAfter=No|CorrectSpaceAfter=Yes
+18	jaoks	jaoks	ADP	K	AdpType=Post	17	case	17:case	_
+19	ka	ka	ADV	D	_	20	advmod	20:advmod	_
+20	aeg	aeg	ADV	D	_	21	reparandum	21:reparandum	_
+21	aeglasemini	aeglasemini	ADV	D	_	16	advmod	16:advmod	SpaceAfter=No
+22	.	.	PUNCT	Z	_	16	punct	16:punct	_
 
 ~~~
 
@@ -64,24 +96,6 @@ The following 5 pairs of parts of speech are connected with `reparandum`: <tt><a
 24	eesmàrgil	ees_märk	NOUN	S	Case=Ade|Number=Sing|Typo=Yes	25	obl	25:obl	CorrectForm=eesmärgil
 25	paastume	paastuma	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	17	conj	17:conj	SpaceAfter=No
 26	.	.	PUNCT	Z	_	5	punct	5:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 reparandum	color:blue
-1	Aga	aga	CCONJ	J	_	8	cc	8:cc	_
-2	teoorias	teooria	NOUN	S	Case=Ine|Number=Sing	8	obl	8:obl	_
-3	olen	olema	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	8:cop	_
-4	muidugi	muidugi	ADV	D	_	8	advmod	8:advmod	_
-5	oi	oi	INTJ	B	_	8	discourse	8:discourse	_
-6	oi	oi	INTJ	B	_	5	reparandum	5:reparandum	_
-7	kui	kui	ADV	D	_	8	mark	8:mark	_
-8	tugev	tugev	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	0:root	_
 
 ~~~
 

@@ -38,10 +38,10 @@ The 10 most frequent ambiguous types:  <em>tidak</em> (<tt><a href="id_gsd-pos-P
 * <em>ya</em>
   * <tt><a href="id_gsd-pos-PART.html">PART</a></tt> 3: <em>Allahku , <b>ya</b> Allahku , mengapa Engkau meninggalkan aku ?</em>
   * <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> 1: <em>Saya suka tampilan Halaman utama versi Kenrick , sayangnya kotak pencarian yang sebelumnya ada di koq dihilangkan <b>ya</b> ?</em>
-  * <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 1: <em>Di antara ciri khas dialek Jepang Barat adalah penggunaan kata oru ( おる ) untuk iru ( いる , ada ) serta pemakaian kopula ja ( じゃ ) atau <b>ya</b> ( や ) dan bukan da ( だ ) . Akhiran bentuk negasi adalah - n ( ～ ん ) seperti dalam wakaran ( わから ん , tidak tahu ) , dan bukan - nai ( ～ ない ) seperti dalam wakaranai ( わからない ) . Ciri - ciri khas tersebut sebagian berasal dari bahasa Jepang Kuno . Jenis - jenis dialek Hokuriku : Bantuan | style = " padding : 0em 0.5 em 0em 0.5 em ; background - color : # f1fcf5 ; " | | style = " width : 50 % % ; vertical - align : top ; border : 1px solid # abd5f5 ; background - color : # f1f5fc ; " | Tips Membuat kesalahan ?</em>
+  * <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 1: <em>Di antara ciri khas dialek Jepang Barat adalah penggunaan kata oru ( おる ) untuk iru ( いる , ada ) serta pemakaian kopula ja ( じゃ ) atau <b>ya</b> ( や ) dan bukan da ( だ ) . Akhiran bentuk negasi adalah - n ( ～ ん ) seperti dalam wakaran ( わから ん , tidak tahu ) , dan bukan - nai ( ～ ない ) seperti dalam wakaranai ( わからない ) . Ciri-ciri khas tersebut sebagian berasal dari bahasa Jepang Kuno . Jenis-jenis dialek Hokuriku : Bantuan | style = " padding : 0em 0.5 em 0em 0.5 em ; background - color : # f1fcf5 ; " | | style = " width : 50 % % ; vertical - align : top ; border : 1px solid # abd5f5 ; background - color : # f1f5fc ; " | Tips Membuat kesalahan ?</em>
 * <em>non</em>
   * <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> 9: <em>Setelah kematian Al - Hakam pada 976 , situasi mulai memburuk bagi <b>non</b> - Muslim pada umumnya .</em>
-  * <tt><a href="id_gsd-pos-PART.html">PART</a></tt> 4: <em>Walaupun warga <b>non</b> - Melayu tidak dimasukkan ke dalam posisi pemerintahan , banyak dari jabatan - jabatan sipil diisi oleh warga <b>non</b> - Melayu , kebanyakan adalah orang India yang sengaja didatangkan untuk mengisi jabatan ini .</em>
+  * <tt><a href="id_gsd-pos-PART.html">PART</a></tt> 4: <em>Walaupun warga <b>non</b> - Melayu tidak dimasukkan ke dalam posisi pemerintahan , banyak dari jabatan-jabatan sipil diisi oleh warga <b>non</b> - Melayu , kebanyakan adalah orang India yang sengaja didatangkan untuk mengisi jabatan ini .</em>
   * <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1: <em>Sebagai perdana menteri , ia membuat bahasa Sinhala menjadi bahasa resmi Sri Lanka dan mengusung kebijakan - kebijaka sosialis dan <b>non</b> - Barat .</em>
   * <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 1: <em>PATTIRO ( Pusat Telaah dan Informasi Regional ) adalah sebuah organisasi non pemerintah ( <b>non</b> government organization ) yang didirikan pada tanggal 17 April 1999 di Jakarta , yang mendedikasikan aktivitasnya pada upaya mewujudkan tata pemerintahan yang baik ( good governance ) dan peningkatan partisipasi publik di Indonesia , terutama pada tingkat lokal .</em>
 * <em>tanpa</em>
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>tidak</em> (<tt><a href="id_gsd-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.200000 (the average of all parts of speech is 1.045328).
+The form / lemma ratio of `PART` is 1.200000 (the average of all parts of speech is 1.057889).
 
 The 1st highest number of forms (4) was observed with the lemma “bukan”: <em>bukan, bukankah, bukanlah, bukannya</em>.
 
@@ -79,17 +79,17 @@ Examples: <em>tidak, tak, bukan, bukankah, belum, bukanlah, jangan, tanpa, tidak
 
 Parents of `PART` nodes belong to 11 different parts of speech: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (391; 66% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (75; 13% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (61; 10% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (24; 4% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (22; 4% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (12; 2% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-571 (97%) `PART` nodes are leaves.
+560 (95%) `PART` nodes are leaves.
 
-12 (2%) `PART` nodes have one child.
+24 (4%) `PART` nodes have one child.
 
-6 (1%) `PART` nodes have two children.
+4 (1%) `PART` nodes have two children.
 
-1 (0%) `PART` nodes have three or more children.
+2 (0%) `PART` nodes have three or more children.
 
 The highest child degree of a `PART` node is 3.
 
-Children of `PART` nodes are attached using 11 different relations: <tt><a href="id_gsd-dep-punct.html">punct</a></tt> (9; 33% instances), <tt><a href="id_gsd-dep-cc.html">cc</a></tt> (6; 22% instances), <tt><a href="id_gsd-dep-advmod.html">advmod</a></tt> (3; 11% instances), <tt><a href="id_gsd-dep-compound.html">compound</a></tt> (2; 7% instances), <tt><a href="id_gsd-dep-acl.html">acl</a></tt> (1; 4% instances), <tt><a href="id_gsd-dep-ccomp.html">ccomp</a></tt> (1; 4% instances), <tt><a href="id_gsd-dep-conj.html">conj</a></tt> (1; 4% instances), <tt><a href="id_gsd-dep-flat.html">flat</a></tt> (1; 4% instances), <tt><a href="id_gsd-dep-nsubj.html">nsubj</a></tt> (1; 4% instances), <tt><a href="id_gsd-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 4% instances), <tt><a href="id_gsd-dep-obj.html">obj</a></tt> (1; 4% instances)
+Children of `PART` nodes are attached using 11 different relations: <tt><a href="id_gsd-dep-punct.html">punct</a></tt> (20; 53% instances), <tt><a href="id_gsd-dep-cc.html">cc</a></tt> (6; 16% instances), <tt><a href="id_gsd-dep-advmod.html">advmod</a></tt> (3; 8% instances), <tt><a href="id_gsd-dep-compound.html">compound</a></tt> (2; 5% instances), <tt><a href="id_gsd-dep-acl.html">acl</a></tt> (1; 3% instances), <tt><a href="id_gsd-dep-ccomp.html">ccomp</a></tt> (1; 3% instances), <tt><a href="id_gsd-dep-conj.html">conj</a></tt> (1; 3% instances), <tt><a href="id_gsd-dep-flat.html">flat</a></tt> (1; 3% instances), <tt><a href="id_gsd-dep-nsubj.html">nsubj</a></tt> (1; 3% instances), <tt><a href="id_gsd-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 3% instances), <tt><a href="id_gsd-dep-obj.html">obj</a></tt> (1; 3% instances)
 
-Children of `PART` nodes belong to 7 different parts of speech: <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> (9; 33% instances), <tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (6; 22% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (3; 11% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (3; 11% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (3; 11% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (2; 7% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (1; 4% instances)
+Children of `PART` nodes belong to 7 different parts of speech: <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> (20; 53% instances), <tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (6; 16% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (3; 8% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (3; 8% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (3; 8% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (2; 5% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (1; 3% instances)
 

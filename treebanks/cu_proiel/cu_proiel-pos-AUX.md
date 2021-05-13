@@ -6,10 +6,10 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_Church_Slavonic-PROIEL: POS Tags: `AUX`
 
-There are 2 `AUX` lemmas (0%), 114 `AUX` types (1%) and 2080 `AUX` tokens (4%).
+There are 1 `AUX` lemmas (0%), 114 `AUX` types (1%) and 2080 `AUX` tokens (4%).
 Out of 14 observed tags, the rank of `AUX` is: 14 in number of lemmas, 8 in number of types and 8 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: <em>бꙑти, не.бꙑти</em>
+The 10 most frequent `AUX` lemmas: <em>бꙑти</em>
 
 The 10 most frequent `AUX` types:  <em>естъ, бѣ, бѫдетъ, бꙑстъ, еси, сѫтъ, есмъ, бꙑти, нѣстъ, би</em>
 
@@ -33,19 +33,17 @@ The 10 most frequent ambiguous types:  <em>бишѧ</em> (<tt><a href="cu_proiel
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 57.000000 (the average of all parts of speech is 3.275325).
+The form / lemma ratio of `AUX` is 114.000000 (the average of all parts of speech is 3.276388).
 
-The 1st highest number of forms (107) was observed with the lemma “бꙑти”: <em>би, бимъ, бимь, бисте, бишѧ, бодетъ, бодѫтъ, бъвъшю, бъилъ, бѣ, бѣахѫ, бѣаше, бѣашете, бѣа҅хѫ, бѣсте, бѣхомъ, бѣхъ, бѣхѫ, бѣшѧ, бѫ, бѫде, бѫдете, бѫдетъ, бѫдеши, бѫди, бѫдѣте, бѫдѫ, бѫдѫтъ, бѫдѫщии, бѫтъ, бꙑвъ, бꙑвъша, бꙑвъшаа, бꙑвъшааго, бꙑвъшаго, бꙑвъшамъ, бꙑвъше, бꙑвъшее, бꙑвъшеи, бꙑвъши, бꙑвъшиихъ, бꙑвъшии҅, бꙑвъшимъ, бꙑвъшоу, бꙑвъшъ, бꙑвъшю, бꙑвъшюмоу, бꙑвъшѧѩ, бꙑвъшѫѭ, бꙑвьшѧ, бꙑла, бꙑли, бꙑло, бꙑлъ, бꙑлꙑ, бꙑст, бꙑсте, бꙑстъ, бꙑти, бꙑшѧ, бꙑⷭ҇, е, есвѣ, еси, есмъ, есмь, еста, есте, естъ, есть, е҅си, е҅смъ, е҅стъ, си, сѫи, сѫтъ, сѫть, сѫшта, сѫштаа, сѫште, сѫштее, сѫштеи, сѫштеѭ, сѫшти, сѫштиими, сѫштиимъ, сѫштиихъ, сѫштимъ, сѫштоу, сѫштъ, сѫшть, сѫштю, сѫштѧ, сѫштѫ, сѫща, сѫще, сѫщеи, сѫщи, сѫщимъ, сѫщоу, сѫщтихъ, сѫщю, сѫщѧѩ, сѫщѫ, сꙑ, сꙑи, сꙙи</em>.
+The 1st highest number of forms (114) was observed with the lemma “бꙑти”: <em>би, бимъ, бимь, бисте, бишѧ, бодетъ, бодѫтъ, бъвъшю, бъилъ, бѣ, бѣахѫ, бѣаше, бѣашете, бѣа҅хѫ, бѣсте, бѣхомъ, бѣхъ, бѣхѫ, бѣшѧ, бѫ, бѫде, бѫдете, бѫдетъ, бѫдеши, бѫди, бѫдѣте, бѫдѫ, бѫдѫтъ, бѫдѫщии, бѫтъ, бꙑвъ, бꙑвъша, бꙑвъшаа, бꙑвъшааго, бꙑвъшаго, бꙑвъшамъ, бꙑвъше, бꙑвъшее, бꙑвъшеи, бꙑвъши, бꙑвъшиихъ, бꙑвъшии҅, бꙑвъшимъ, бꙑвъшоу, бꙑвъшъ, бꙑвъшю, бꙑвъшюмоу, бꙑвъшѧѩ, бꙑвъшѫѭ, бꙑвьшѧ, бꙑла, бꙑли, бꙑло, бꙑлъ, бꙑлꙑ, бꙑст, бꙑсте, бꙑстъ, бꙑти, бꙑшѧ, бꙑⷭ҇, е, есвѣ, еси, есмъ, есмь, еста, есте, естъ, есть, е҅си, е҅смъ, е҅стъ, нѣ, нѣси, нѣсмъ, нѣсмь, нѣсте, нѣстъ, нѣсть, си, сѫи, сѫтъ, сѫть, сѫшта, сѫштаа, сѫште, сѫштее, сѫштеи, сѫштеѭ, сѫшти, сѫштиими, сѫштиимъ, сѫштиихъ, сѫштимъ, сѫштоу, сѫштъ, сѫшть, сѫштю, сѫштѧ, сѫштѫ, сѫща, сѫще, сѫщеи, сѫщи, сѫщимъ, сѫщоу, сѫщтихъ, сѫщю, сѫщѧѩ, сѫщѫ, сꙑ, сꙑи, сꙙи</em>.
 
-The 2nd highest number of forms (7) was observed with the lemma “не.бꙑти”: <em>нѣ, нѣси, нѣсмъ, нѣсмь, нѣсте, нѣстъ, нѣсть</em>.
+`AUX` occurs with 11 features: <tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt> (2080; 100% instances), <tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt> (2080; 100% instances), <tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt> (2080; 100% instances), <tt><a href="cu_proiel-feat-Number.html">Number</a></tt> (2016; 97% instances), <tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt> (1863; 90% instances), <tt><a href="cu_proiel-feat-Person.html">Person</a></tt> (1863; 90% instances), <tt><a href="cu_proiel-feat-Aspect.html">Aspect</a></tt> (518; 25% instances), <tt><a href="cu_proiel-feat-Case.html">Case</a></tt> (153; 7% instances), <tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt> (152; 7% instances), <tt><a href="cu_proiel-feat-Variant.html">Variant</a></tt> (111; 5% instances), <tt><a href="cu_proiel-feat-Polarity.html">Polarity</a></tt> (91; 4% instances)
 
-`AUX` occurs with 10 features: <tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt> (2080; 100% instances), <tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt> (2080; 100% instances), <tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt> (2056; 99% instances), <tt><a href="cu_proiel-feat-Number.html">Number</a></tt> (2016; 97% instances), <tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt> (1863; 90% instances), <tt><a href="cu_proiel-feat-Person.html">Person</a></tt> (1863; 90% instances), <tt><a href="cu_proiel-feat-Aspect.html">Aspect</a></tt> (542; 26% instances), <tt><a href="cu_proiel-feat-Case.html">Case</a></tt> (153; 7% instances), <tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt> (153; 7% instances), <tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt> (152; 7% instances)
+`AUX` occurs with 32 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Nom`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `Variant=Short`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `VerbForm=PartRes`, `Voice=Act`, `Voice=Pass`
 
-`AUX` occurs with 32 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Aspect=Res`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Nom`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Strength=Strong`, `Strength=Weak`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Act`, `Voice=Pass`
-
-`AUX` occurs with 89 feature combinations.
-The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act` (580 tokens).
-Examples: <em>естъ, нѣстъ, есть, е҅стъ, е, нѣ, нѣсть</em>
+`AUX` occurs with 95 feature combinations.
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act` (523 tokens).
+Examples: <em>естъ, есть, е҅стъ, е</em>
 
 
 ## Relations

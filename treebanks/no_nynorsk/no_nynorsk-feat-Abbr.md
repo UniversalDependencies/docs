@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (109; 100% of non-empty `Abbr`): <em>etc, ca., etc., t.v., dvs., f.v., ca, t.d., f.eks., t.h.</em>
-* `EMPTY` (8968): <em>så, også, no, her, berre, slik, då, nok, òg, korleis</em>
+* `EMPTY` (8966): <em>så, også, no, her, berre, slik, då, nok, òg, korleis</em>
 
 `Abbr` seems to be **lexical feature** of `ADV`. 100% lemmas (18) occur only with one value of `Abbr`.
 
@@ -47,18 +47,18 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (37; 100% of non-empty `Abbr`): <em>jf., e.</em>
-* `EMPTY` (28743): <em>har, seier, er, få, kjem, får, meiner, ha, går, fekk</em>
+* `EMPTY` (30686): <em>har, seier, er, få, kjem, får, meiner, ha, går, fekk</em>
 
 ### `ADJ`
 
 25 <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="no_nynorsk-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="no_nynorsk-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="no_nynorsk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="no_nynorsk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (25; 100%).
+The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="no_nynorsk-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="no_nynorsk-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="no_nynorsk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (25; 100%).
 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (25; 100% of non-empty `Abbr`): <em>ok, d., ang., fung., l., rk, sk., spes</em>
-* `EMPTY` (29076): <em>meir, mange, fleire, mykje, nye, store, heile, godt, heilt, norske</em>
+* `EMPTY` (27124): <em>meir, mange, fleire, mykje, nye, store, heile, godt, heilt, norske</em>
 
 ### `ADP`
 
@@ -67,7 +67,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADP` tokens may have the following values of `Abbr`:
 
 * `Yes` (15; 100% of non-empty `Abbr`): <em>m.a., pr.</em>
-* `EMPTY` (37793): <em>i, på, til, av, med, for, om, frå, ut, etter</em>
+* `EMPTY` (37648): <em>i, på, til, av, med, for, om, frå, ut, som</em>
 
 ### `PRON`
 
@@ -78,7 +78,7 @@ The most frequent other feature values with which `PRON` and `Abbr` co-occurred:
 `PRON` tokens may have the following values of `Abbr`:
 
 * `Yes` (4; 100% of non-empty `Abbr`): <em>d.</em>
-* `EMPTY` (22795): <em>det, som, dei, han, eg, vi, seg, ein, dette, ho</em>
+* `EMPTY` (22798): <em>det, som, dei, han, eg, vi, seg, ein, dette, ho</em>
 
 ### `CCONJ`
 
@@ -96,7 +96,7 @@ The most frequent other feature values with which `PRON` and `Abbr` co-occurred:
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>Ap</em>
-* `EMPTY` (14302): <em>Noreg, Førde, Språkrådet, Sogn, Fjordane, Oslo, Kviteseid, Høgre, Helse, Tyskland</em>
+* `EMPTY` (14301): <em>Noreg, Førde, Språkrådet, Sogn, Fjordane, Oslo, Kviteseid, Høgre, Helse, Tyskland</em>
 
 ## Relations with Agreement in `Abbr`
 

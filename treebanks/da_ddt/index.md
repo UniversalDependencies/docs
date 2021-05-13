@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Anders Johannsen, Héctor Martínez Alonso, Barbara Plank.
 
 Repository: [UD_Danish-DDT](https://github.com/UniversalDependencies/UD_Danish-DDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udda_ddt27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udda_ddt28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -100,7 +100,7 @@ Technical report, DSL
 
 ## Relations
 
-[acl:relcl](da_ddt-dep-acl-relcl.html) – [advcl](da_ddt-dep-advcl.html) – [advmod](da_ddt-dep-advmod.html) – [amod](da_ddt-dep-amod.html) – [appos](da_ddt-dep-appos.html) – [aux](da_ddt-dep-aux.html) – [case](da_ddt-dep-case.html) – [cc](da_ddt-dep-cc.html) – [ccomp](da_ddt-dep-ccomp.html) – [compound:prt](da_ddt-dep-compound-prt.html) – [conj](da_ddt-dep-conj.html) – [cop](da_ddt-dep-cop.html) – [dep](da_ddt-dep-dep.html) – [det](da_ddt-dep-det.html) – [discourse](da_ddt-dep-discourse.html) – [expl](da_ddt-dep-expl.html) – [fixed](da_ddt-dep-fixed.html) – [flat](da_ddt-dep-flat.html) – [goeswith](da_ddt-dep-goeswith.html) – [iobj](da_ddt-dep-iobj.html) – [list](da_ddt-dep-list.html) – [mark](da_ddt-dep-mark.html) – [nmod](da_ddt-dep-nmod.html) – [nmod:poss](da_ddt-dep-nmod-poss.html) – [nsubj](da_ddt-dep-nsubj.html) – [nummod](da_ddt-dep-nummod.html) – [obj](da_ddt-dep-obj.html) – [obl](da_ddt-dep-obl.html) – [obl:loc](da_ddt-dep-obl-loc.html) – [obl:tmod](da_ddt-dep-obl-tmod.html) – [parataxis](da_ddt-dep-parataxis.html) – [punct](da_ddt-dep-punct.html) – [reparandum](da_ddt-dep-reparandum.html) – [root](da_ddt-dep-root.html) – [vocative](da_ddt-dep-vocative.html) – [xcomp](da_ddt-dep-xcomp.html)
+[acl:relcl](da_ddt-dep-acl-relcl.html) – [advcl](da_ddt-dep-advcl.html) – [advmod](da_ddt-dep-advmod.html) – [advmod:lmod](da_ddt-dep-advmod-lmod.html) – [amod](da_ddt-dep-amod.html) – [appos](da_ddt-dep-appos.html) – [aux](da_ddt-dep-aux.html) – [case](da_ddt-dep-case.html) – [cc](da_ddt-dep-cc.html) – [ccomp](da_ddt-dep-ccomp.html) – [compound:prt](da_ddt-dep-compound-prt.html) – [conj](da_ddt-dep-conj.html) – [cop](da_ddt-dep-cop.html) – [dep](da_ddt-dep-dep.html) – [det](da_ddt-dep-det.html) – [discourse](da_ddt-dep-discourse.html) – [expl](da_ddt-dep-expl.html) – [fixed](da_ddt-dep-fixed.html) – [flat](da_ddt-dep-flat.html) – [goeswith](da_ddt-dep-goeswith.html) – [iobj](da_ddt-dep-iobj.html) – [list](da_ddt-dep-list.html) – [mark](da_ddt-dep-mark.html) – [nmod](da_ddt-dep-nmod.html) – [nmod:poss](da_ddt-dep-nmod-poss.html) – [nsubj](da_ddt-dep-nsubj.html) – [nummod](da_ddt-dep-nummod.html) – [obj](da_ddt-dep-obj.html) – [obl](da_ddt-dep-obl.html) – [obl:lmod](da_ddt-dep-obl-lmod.html) – [obl:tmod](da_ddt-dep-obl-tmod.html) – [parataxis](da_ddt-dep-parataxis.html) – [punct](da_ddt-dep-punct.html) – [reparandum](da_ddt-dep-reparandum.html) – [root](da_ddt-dep-root.html) – [vocative](da_ddt-dep-vocative.html) – [xcomp](da_ddt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -784,7 +784,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 5 relation subtypes: <a>acl:relcl</a>, <a>compound:prt</a>, <a>nmod:poss</a>, <a>obl:loc</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 6 relation subtypes: <a>acl:relcl</a>, <a>advmod:lmod</a>, <a>compound:prt</a>, <a>nmod:poss</a>, <a>obl:lmod</a>, <a>obl:tmod</a></li>
 <li>The following 2 main types are not used alone, they are always subtyped: <a>acl</a>, <a>compound</a></li>
 <li>The following 4 relation types are not used in this corpus at all: <a>csubj</a>, <a>dislocated</a>, <a>clf</a>, <a>orphan</a></li>
 </ul>

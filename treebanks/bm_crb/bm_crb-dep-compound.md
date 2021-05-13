@@ -26,7 +26,7 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 1	Dawuda	Dáwuda	PROPN	n.prop	_	3	nsubj	_	Gloss=NOM.M
 2	yèrè	yɛ̀rɛ	DET	dtm	_	1	det	_	Gloss=même
 3	tagara	tagara	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=aller|Morf=aller,PFV.INTR
-4	ka	kà	AUX	pm	_	5	aux	_	Gloss=INF
+4	ka	ka	AUX	pm	_	5	aux	_	Gloss=INF
 5	taga	tága	VERB	v	_	3	xcomp	_	Gloss=aller
 6	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	9	nmod:poss	_	Gloss=3SG
 7	yèrè	yɛ̀rɛ	DET	dtm	_	6	det	_	Gloss=même
@@ -37,8 +37,8 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 12	kòròkèw	kɔrɔkɛw	NOUN	n	Number=Plur	13	nmod:poss	_	Gloss=frère.aîné|Morf=frère.aîné,aîné,mâle,PL
 13	taw	taw	NOUN	n	Number=Plur	9	compound	_	Gloss=propriété|Morf=propriété,PL
 14	ta	tà	VERB	v	_	5	xcomp	_	Gloss=prendre|SpaceAfter=No
-15	,	,	PUNCT	_	_	14	punct	_	Gloss=,
-16	ka	kà	AUX	pm	_	18	aux	_	Gloss=INF
+15	,	,	PUNCT	_	_	18	punct	_	Gloss=,
+16	ka	ka	AUX	pm	_	18	aux	_	Gloss=INF
 17	o	ò	PRON	prn	_	18	obj	_	Gloss=ce
 18	don	dòn	VERB	v	_	14	xcomp	_	Gloss=entrer
 19	subagamuso	subagamuso	NOUN	n	_	21	nmod:poss	_	Gloss=sorcier|Morf=sorcier,inciter,AG.OCC,femme

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Uyghur-UDT: Relations: `nmod:cau`
 
 This relation is a language-specific subtype of <tt><a href="ug_udt-dep-nmod.html">nmod</a></tt>.
-There are also 8 other language-specific subtypes of `nmod`: <tt><a href="ug_udt-dep-nmod-abl.html">nmod:abl</a></tt>, <tt><a href="ug_udt-dep-nmod-clas.html">nmod:clas</a></tt>, <tt><a href="ug_udt-dep-nmod-comp.html">nmod:comp</a></tt>, <tt><a href="ug_udt-dep-nmod-ins.html">nmod:ins</a></tt>, <tt><a href="ug_udt-dep-nmod-part.html">nmod:part</a></tt>, <tt><a href="ug_udt-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="ug_udt-dep-nmod-ref.html">nmod:ref</a></tt>, <tt><a href="ug_udt-dep-nmod-tmod.html">nmod:tmod</a></tt>.
+There are also 4 other language-specific subtypes of `nmod`: <tt><a href="ug_udt-dep-nmod-comp.html">nmod:comp</a></tt>, <tt><a href="ug_udt-dep-nmod-part.html">nmod:part</a></tt>, <tt><a href="ug_udt-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="ug_udt-dep-nmod-tmod.html">nmod:tmod</a></tt>.
 
 68 nodes (0%) are attached to their parents as `nmod:cau`.
 
@@ -65,14 +65,14 @@ The following 14 pairs of parts of speech are connected with `nmod:cau`: <tt><a 
 4	بولۇپ	بول	AUX	V	Aspect=Perf|VerbForm=Conv	3	cop	_	Translit=bolup
 5	كېچە-كۈندۈز	_	NOUN	N	_	8	nmod:tmod	_	Translit=këche-kündüz|Morf=Unknown
 6	توختىماي	_	VERB	V	_	8	advmod	_	Translit=toxtimay|Morf=Unknown
-7	پىيادە	پىيادە	NOUN	D	Case=Nom	8	advmod	_	Translit=piyade
+7	پىيادە	پىيادە	NOUN	D	Case=Nom	8	obl	_	Translit=piyade
 8	ماڭىدىغان	_	VERB	V	_	14	obl	_	Translit=mangidighan|Morf=Unknown
 9	بولساق	بول	AUX	V	Mood=Cnd|Number=Sing|Person=1|VerbForm=Conv	8	aux	_	SpaceAfter=No|Translit=bolsaq
 10	،	،	PUNCT	Y	_	9	punct	_	Translit=,
 11	3500	3500	NUM	M	NumType=Ord	12	nummod	_	Translit=3500
 12	يىل	يىل	NOUN	N	Case=Nom	13	amod	_	Translit=yil
 13	ۋاقىت	ۋاقىت	NOUN	N	Case=Nom	14	nsubj	_	Translit=waqit
-14	كېتىدۇ	كەت	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=këtidu
+14	كېتىدۇ	كەت	VERB	V	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=këtidu
 15	؛	_	PUNCT	Y	_	14	punct	_	Translit=;|Morf=Unknown
 
 ~~~

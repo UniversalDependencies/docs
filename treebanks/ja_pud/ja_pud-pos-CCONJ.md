@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Japanese-PUD: POS Tags: `CCONJ`
 
-There are 15 `CCONJ` lemmas (0%), 16 `CCONJ` types (0%) and 143 `CCONJ` tokens (0%).
+There are 17 `CCONJ` lemmas (0%), 18 `CCONJ` types (0%) and 145 `CCONJ` tokens (1%).
 Out of 16 observed tags, the rank of `CCONJ` is: 11 in number of lemmas, 11 in number of types and 15 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: しかし, また, および, さらに, そして, 一方, それ, あるいは, だ, 及び
 
 The 10 most frequent `CCONJ` types:  しかし, また, および, さらに, そして, 一方, それ, あるいは, 及び, かつ
 
-The 10 most frequent ambiguous lemmas: また (<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 35, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 5), さらに (<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 10), 一方 (<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 10, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 3), それ (<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> 68, <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 4), だ (<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> 751, <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 2), ところ (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 1), に (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 982, <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> 27, <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: また (<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 35, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 5), さらに (<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 10), 一方 (<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 10, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 3), それ (<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> 68, <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 4), だ (<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> 733, <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 2), ところ (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 1), に (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 982, <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> 27, <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 1), よる (<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> 76, <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 1), 従う (<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> 1)
 
-The 10 most frequent ambiguous types:  また (<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 35, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 5), さらに (<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 10), 一方 (<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 10, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 3), それ (<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> 68, <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 4), 及び (<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> 1), だ (<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> 73, <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 1), です (<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> 19, <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 1), ところ (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 1), に (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 982, <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> 152, <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> 27, <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  また (<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 35, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 5), さらに (<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 10), 一方 (<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 10, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 3), それ (<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> 68, <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 4), 及び (<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> 1), だ (<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> 73, <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 1), です (<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> 19, <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 1), ところ (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 1), に (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 982, <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> 152, <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> 27, <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 1), よっ (<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> 17, <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 
 * また
@@ -47,10 +47,13 @@ The 10 most frequent ambiguous types:  また (<tt><a href="ja_pud-pos-CCONJ.htm
   * <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> 152: 私 は いずれ に せよ 刑務 所 に 行く が 、 その 価値 が あり ます よう <b>に</b> 。
   * <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> 27: 私 は いずれ <b>に</b> せよ 刑務 所 に 行く が 、 その 価値 が あり ます よう に 。
   * <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 1: <b>に</b> も かかわら ず 、 党内 の 全員 が 、 大統領 が 昨日 彼 ら に 送ろう と し た メッセージ を 理解 し た わけ で は なかっ た 。
+* よっ
+  * <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> 17: 新た な 支出 は クリントン の 巨大 な 銀行 口座 に <b>よっ</b> て 充填 さ れ て いる 。
+  * <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 1: <b>よっ</b> て 、 適切 な 神学 理論 は 未来 の 目的 と いう 観点 から 構築 さ れる べき で ある 。
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.066667 (the average of all parts of speech is 1.049698).
+The form / lemma ratio of `CCONJ` is 1.058824 (the average of all parts of speech is 1.049631).
 
 The 1st highest number of forms (2) was observed with the lemma “だ”: だ, です.
 
@@ -63,21 +66,21 @@ The 3rd highest number of forms (1) was observed with the lemma “および”:
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 1 different relations: <tt><a href="ja_pud-dep-cc.html">cc</a></tt> (143; 100% instances)
+`CCONJ` nodes are attached to their parents using 1 different relations: <tt><a href="ja_pud-dep-cc.html">cc</a></tt> (145; 100% instances)
 
-Parents of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (81; 57% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (51; 36% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (5; 3% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (1; 1% instances)
+Parents of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (87; 60% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (47; 32% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (5; 3% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (1; 1% instances)
 
-54 (38%) `CCONJ` nodes are leaves.
+54 (37%) `CCONJ` nodes are leaves.
 
-81 (57%) `CCONJ` nodes have one child.
+81 (56%) `CCONJ` nodes have one child.
 
-6 (4%) `CCONJ` nodes have two children.
+8 (6%) `CCONJ` nodes have two children.
 
 2 (1%) `CCONJ` nodes have three or more children.
 
 The highest child degree of a `CCONJ` node is 4.
 
-Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (68; 68% instances), <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (32; 32% instances)
+Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (70; 67% instances), <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (34; 33% instances)
 
-Children of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (68; 68% instances), <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (27; 27% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (3; 3% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances)
+Children of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (70; 67% instances), <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (27; 26% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (5; 5% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances)
 

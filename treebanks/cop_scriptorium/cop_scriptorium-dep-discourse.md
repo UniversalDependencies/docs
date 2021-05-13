@@ -25,12 +25,12 @@ The following 9 pairs of parts of speech are connected with `discourse`: <tt><a 
 1	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	2	mark	_	_
 2	ⲁⲙⲏⲓ	ⲉⲓ	VERB	VIMP	VerbForm=Fin	0	root	_	_
 3	ⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	Orig=ⲧⲛ̄
-4	ⲁⲣⲓⲑⲩⲥⲓⲁⲍⲉ	ⲣⲑⲩⲥⲓⲁⲍⲉ	VERB	VIMP	VerbForm=Fin	2	conj	_	Morphs=ⲁⲣⲓ-ⲑⲩⲥⲓⲁⲍⲉ
-5	ⲱ	ⲱ	PART	PTC	_	7	discourse	_	Orig=ⲱ̄
+4	ⲁⲣⲓⲑⲩⲥⲓⲁⲍⲉ	ⲣⲑⲩⲥⲓⲁⲍⲉ	VERB	VIMP	Foreign=Yes|VerbForm=Fin	2	conj	_	Morphs=ⲁⲣⲓ-ⲑⲩⲥⲓⲁⲍⲉ|OrigLang=grc
+5	ⲱ	ⲱ	PART	PTC	Foreign=Yes	7	discourse	_	Orig=ⲱ̄|OrigLang=grc
 6	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	7	det	_	Entity=(person|Orig=ⲛ̄
 7	ⲣⲱⲙⲉ	ⲣⲱⲙⲉ	NOUN	N	_	2	vocative	_	_
 8	ⲛ	ⲛ	ADP	PREP	_	9	case	_	Orig=ⲛ̄
-9	ϩⲣⲱⲙⲁⲓⲟⲥ	ϩⲣⲱⲙⲁⲓⲟⲥ	NOUN	N	_	7	nmod	_	Entity=person)|Orig=ϩⲣⲟⲙⲁⲓⲟⲥ
+9	ϩⲣⲱⲙⲁⲓⲟⲥ	ϩⲣⲱⲙⲁⲓⲟⲥ	NOUN	N	Foreign=Yes	7	nmod	_	Entity=person)|Orig=ϩⲣⲟⲙⲁⲓⲟⲥ|OrigLang=grc
 10	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
@@ -55,7 +55,7 @@ The following 9 pairs of parts of speech are connected with `discourse`: <tt><a 
 11	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	13	aux	_	Orig=Ⲛ
 12	ⲧⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	Orig=ⲦⲚ
 13	ⲟⲩϫⲁⲓ	ⲟⲩϫⲁⲓ	VERB	V	VerbForm=Fin	7	advcl	_	Orig=ⲞⲨϪⲀⲒ
-14	ϩⲁⲙⲏⲛ	ϩⲁⲙⲏⲛ	PART	PTC	_	7	discourse	_	Orig=ϨⲀⲘⲎⲚ
+14	ϩⲁⲙⲏⲛ	ϩⲁⲙⲏⲛ	PART	PTC	Foreign=Yes	7	discourse	_	Orig=ϨⲀⲘⲎⲚ|OrigLang=he
 15	⁛	⁛	PUNCT	PUNCT	_	7	punct	_	_
 16	—	—	PUNCT	PUNCT	_	7	punct	_	_
 
@@ -68,7 +68,7 @@ The following 9 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 discourse	color:blue
-1	ⲱ	ⲱ	PART	PTC	_	2	discourse	_	Orig=Ⲱ
+1	ⲱ	ⲱ	PART	PTC	Foreign=Yes	2	discourse	_	Orig=Ⲱ|OrigLang=grc
 2	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	0	root	_	Entity=(person
 3	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	6	mark	_	_
 4	ⲁ	ⲁ	AUX	APST	_	6	aux	_	_

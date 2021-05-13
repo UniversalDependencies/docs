@@ -90,7 +90,7 @@ The following 23 pairs of parts of speech are connected with `appos`: <tt><a hre
 3	為期	_	VERB	VV	_	7	acl:relcl	_	SpaceAfter=No|Translit=wèiqī
 4	10	_	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=10
 5	週	_	NOUN	NNB	_	3	obj	_	SpaceAfter=No|Translit=週
-6	的	_	PART	DEC	_	3	mark:relcl	_	SpaceAfter=No|Translit=de
+6	的	_	PART	DEC	_	3	mark:rel	_	SpaceAfter=No|Translit=de
 7	課程	_	NOUN	NN	_	15	nsubj:pass	_	SpaceAfter=No|Translit=kèchéng
 8	已經	_	ADV	RB	_	15	advmod	_	SpaceAfter=No|Translit=yǐjīng
 9	被	_	ADP	BB	Voice=Pass	12	case	_	SpaceAfter=No|Translit=bèi

@@ -49,19 +49,19 @@ The following 38 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 3	fgColor:white
 # visual-style 3 9 appos	color:blue
 1	化外	化外	NOUN	NN	_	3	nmod	_	SpaceAfter=No
-2	之	之	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
+2	之	之	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No
 3	地	地	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 4	，	，	PUNCT	,	_	3	punct	_	SpaceAfter=No
 5	文明	文明	NOUN	NN	_	6	nmod	_	SpaceAfter=No
 6	地区	地区	NOUN	NN	_	9	nmod	_	SpaceAfter=No
 7	以外	以外	NOUN	NN	_	6	acl	_	SpaceAfter=No
-8	的	的	PART	DEC	Case=Gen	6	case:dec	_	SpaceAfter=No
+8	的	的	PART	DEC	Case=Gen	6	case	_	SpaceAfter=No
 9	地方	地方	NOUN	NN	_	3	appos	_	SpaceAfter=No
 10	，	，	PUNCT	,	_	11	punct	_	SpaceAfter=No
 11	即	即	VERB	VC	_	0	root	_	SpaceAfter=No
 12	没有	没有	VERB	VV	_	11	xcomp	_	SpaceAfter=No
 13	开化	开化	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No
-14	的	的	PART	DEC	_	13	mark:relcl	_	SpaceAfter=No
+14	的	的	PART	DEC	_	13	mark:rel	_	SpaceAfter=No
 15	地方	地方	NOUN	NN	_	12	obj	_	SpaceAfter=No
 16	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
@@ -84,15 +84,15 @@ The following 38 pairs of parts of speech are connected with `appos`: <tt><a hre
 8	是	是	AUX	VC	_	12	cop	_	SpaceAfter=No
 9	冒险	冒险	NOUN	NN	_	10	nmod	_	SpaceAfter=No
 10	游戏	游戏	NOUN	NN	_	12	nmod	_	SpaceAfter=No
-11	的	的	PART	DEC	Case=Gen	10	case:dec	_	SpaceAfter=No
+11	的	的	PART	DEC	Case=Gen	10	case	_	SpaceAfter=No
 12	分支	分支	NOUN	NN	_	0	root	_	SpaceAfter=No
 13	，	，	PUNCT	,	_	12	punct	_	SpaceAfter=No
 14	它	它	PRON	PRP	Person=3	15	nsubj	_	SpaceAfter=No
 15	融合	融合	VERB	VV	_	12	parataxis	_	SpaceAfter=No
-16	了	了	PART	AS	Aspect=Perf	15	aux:aspect	_	SpaceAfter=No
+16	了	了	AUX	AS	Aspect=Perf	15	aux	_	SpaceAfter=No
 17	动作	动作	NOUN	NN	_	18	nmod	_	SpaceAfter=No
 18	游戏	游戏	NOUN	NN	_	21	nmod	_	SpaceAfter=No
-19	的	的	PART	DEC	Case=Gen	18	case:dec	_	SpaceAfter=No
+19	的	的	PART	DEC	Case=Gen	18	case	_	SpaceAfter=No
 20	一些	一些	ADJ	JJ	_	21	amod	_	SpaceAfter=No
 21	特征	特征	NOUN	NN	_	15	obj	_	SpaceAfter=No
 22	。	。	PUNCT	.	_	12	punct	_	SpaceAfter=No

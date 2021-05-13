@@ -12,18 +12,18 @@ It occurs with 2 different values: `Anim`, `Inan`.
 312927 tokens (21%) have a non-empty value of `Animacy`.
 62656 types (49%) occur at least once with a non-empty value of `Animacy`.
 28576 lemmas (49%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 8 part-of-speech tags: <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (163540; 11% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (75523; 5% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (48951; 3% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (12708; 1% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (6987; 0% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (3633; 0% instances), <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (1282; 0% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (303; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> (163482; 11% instances), <tt><a href="cs_pdt-pos-ADJ.html">ADJ</a></tt> (75523; 5% instances), <tt><a href="cs_pdt-pos-PROPN.html">PROPN</a></tt> (48951; 3% instances), <tt><a href="cs_pdt-pos-VERB.html">VERB</a></tt> (12708; 1% instances), <tt><a href="cs_pdt-pos-DET.html">DET</a></tt> (6987; 0% instances), <tt><a href="cs_pdt-pos-PRON.html">PRON</a></tt> (3633; 0% instances), <tt><a href="cs_pdt-pos-AUX.html">AUX</a></tt> (1282; 0% instances), <tt><a href="cs_pdt-pos-NUM.html">NUM</a></tt> (303; 0% instances), <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> (58; 0% instances).
 
 ### `NOUN`
 
-163540 <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> tokens (44% of all `NOUN` tokens) have a non-empty value of `Animacy`.
+163482 <tt><a href="cs_pdt-pos-NOUN.html">NOUN</a></tt> tokens (44% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (163540; 100%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (163528; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (106842; 65%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="cs_pdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (163482; 100%), <tt><a href="cs_pdt-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (163470; 100%), <tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (106842; 65%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
 * `Anim` (42328; 26% of non-empty `Animacy`): <em>lidí, ministr, předseda, lidé, ředitel, prezident, trenér, ministra, prezidenta, premiér</em>
-* `Inan` (121212; 74% of non-empty `Animacy`): <em>roku, roce, případě, zákona, rok, světa, trhu, zákon, zájem, státu</em>
+* `Inan` (121154; 74% of non-empty `Animacy`): <em>roku, roce, případě, zákona, rok, světa, trhu, zákon, zájem, státu</em>
 * `EMPTY` (208819): <em>korun, let, strany, procent, společnosti, době, firmy, Kč, práce, jednání</em>
 
 <table>
@@ -42,7 +42,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
   <tr><td><tt><tt><a href="cs_pdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>členové</em></td><td></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `NOUN`. 99% lemmas (6951) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `NOUN`. 99% lemmas (6950) occur only with one value of `Animacy`.
 
 ### `ADJ`
 
@@ -190,6 +190,17 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
   <tr><th>Paradigm <i>jeden</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
   <tr><td><tt></tt></td><td><em>jednoho</em></td><td><em>jeden</em></td></tr>
 </table>
+
+### `SYM`
+
+58 <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> tokens (4% of all `SYM` tokens) have a non-empty value of `Animacy`.
+
+The most frequent other feature values with which `SYM` and `Animacy` co-occurred: <tt><a href="cs_pdt-feat-ConjType.html">ConjType</a></tt><tt>=EMPTY</tt> (58; 100%).
+
+`SYM` tokens may have the following values of `Animacy`:
+
+* `Inan` (58; 100% of non-empty `Animacy`): <em>§, §§</em>
+* `EMPTY` (1310): <em>%, x, +, =, *, /, >, :, <, $</em>
 
 ## Relations with Agreement in `Animacy`
 

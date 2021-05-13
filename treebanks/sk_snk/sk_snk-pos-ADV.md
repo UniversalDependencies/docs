@@ -28,12 +28,12 @@ The 10 most frequent ambiguous types:  <em>potom</em> (<tt><a href="sk_snk-pos-A
   * <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> 87: <em>Sú <b>tam</b> psi ? “ spýtal sa ma , kým sa vyšvihol na múr .</em>
   * <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 1: <em>Iba pred piatimi dňami sa pohrával myšlienkou , že jej rozbije hlavu dlažobným kameňom , lenže čo <b>tam</b> teraz po tom ?</em>
 * <em>tak</em>
-  * <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> 68: <em>Bellerofontov koniec už nebol <b>tak</b> šťastný .</em>
+  * <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> 68: <em>Zenón zomrel 9 . apríla 491 a prežil <b>tak</b> obidvoch svojich synov .</em>
   * <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 23: <em>Sily sú vyrovnané — a <b>tak</b> sa začína „ mýtická súťaž “ .</em>
   * <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 19: <em>Každý jeden šedý Reebok vás presvedčí , že <b>tak</b> skoro sa nič nezmení .</em>
   * <tt><a href="sk_snk-pos-X.html">X</a></tt> 1: <em>Emanuel s Makulienkou <b>tak</b> ‐ tak stačili preskočiť na najbližšie lekno .</em>
 * <em>ako</em>
-  * <tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> 266: <em>Martin Luther sa narodil <b>ako</b> jedno z deviatich detí baníka .</em>
+  * <tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> 266: <em>Aldrin vstúpil do Eagla <b>ako</b> prvý .</em>
   * <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> 30: <em>Uvidíme , <b>ako</b> do celé dopadne .</em>
 * <em>už</em>
   * <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 69: <em>" Naša mačka je <b>už</b> druhý deň veľmi nepokojná .</em>
@@ -46,7 +46,7 @@ The 10 most frequent ambiguous types:  <em>potom</em> (<tt><a href="sk_snk-pos-A
   * <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> 18: <em>Po ľubečskom zjazde sa mesto <b>napokon</b> dostalo do Monomachových rúk .</em>
   * <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 2: <em>Pravdepodobne sa <b>napokon</b> nevyrobili vôbec nijaké topánky .</em>
 * <em>spolu</em>
-  * <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> 34: <em>Po roku 1938 <b>spolu</b> emigrovali do Spojených štátov amerických .</em>
+  * <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> 34: <em>Bol ženatý so Zuzanou Hermanovou , <b>spolu</b> mali osem detí .</em>
   * <tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> 4: <em>Na začiatku 60 . rokov vycestoval <b>spolu</b> s Allenom Ginsbergom do Indie .</em>
 * <em>domov</em>
   * <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> 32: <em>Vigilius zomrel na ceste <b>domov</b> 7 . júla 555 v Syrakúzach .</em>
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>potom</em> (<tt><a href="sk_snk-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.041080 (the average of all parts of speech is 1.801856).
+The form / lemma ratio of `ADV` is 1.041080 (the average of all parts of speech is 1.802472).
 
 The 1st highest number of forms (3) was observed with the lemma “dlho”: <em>dlho, dlhšie, najdlhšie</em>.
 
@@ -87,7 +87,7 @@ Parents of `ADV` nodes belong to 12 different parts of speech: <tt><a href="sk_s
 
 The highest child degree of a `ADV` node is 10.
 
-Children of `ADV` nodes are attached using 24 different relations: <tt><a href="sk_snk-dep-punct.html">punct</a></tt> (173; 21% instances), <tt><a href="sk_snk-dep-advmod-emph.html">advmod:emph</a></tt> (138; 17% instances), <tt><a href="sk_snk-dep-advmod.html">advmod</a></tt> (104; 13% instances), <tt><a href="sk_snk-dep-conj.html">conj</a></tt> (78; 9% instances), <tt><a href="sk_snk-dep-cc.html">cc</a></tt> (70; 8% instances), <tt><a href="sk_snk-dep-obl.html">obl</a></tt> (58; 7% instances), <tt><a href="sk_snk-dep-case.html">case</a></tt> (38; 5% instances), <tt><a href="sk_snk-dep-dep.html">dep</a></tt> (37; 4% instances), <tt><a href="sk_snk-dep-orphan.html">orphan</a></tt> (24; 3% instances), <tt><a href="sk_snk-dep-fixed.html">fixed</a></tt> (20; 2% instances), <tt><a href="sk_snk-dep-amod.html">amod</a></tt> (14; 2% instances), <tt><a href="sk_snk-dep-appos.html">appos</a></tt> (12; 1% instances), <tt><a href="sk_snk-dep-mark.html">mark</a></tt> (12; 1% instances), <tt><a href="sk_snk-dep-advcl.html">advcl</a></tt> (8; 1% instances), <tt><a href="sk_snk-dep-csubj.html">csubj</a></tt> (8; 1% instances), <tt><a href="sk_snk-dep-xcomp.html">xcomp</a></tt> (8; 1% instances), <tt><a href="sk_snk-dep-cop.html">cop</a></tt> (7; 1% instances), <tt><a href="sk_snk-dep-nmod.html">nmod</a></tt> (5; 1% instances), <tt><a href="sk_snk-dep-obl-arg.html">obl:arg</a></tt> (4; 0% instances), <tt><a href="sk_snk-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="sk_snk-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="sk_snk-dep-nummod.html">nummod</a></tt> (2; 0% instances), <tt><a href="sk_snk-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
+Children of `ADV` nodes are attached using 24 different relations: <tt><a href="sk_snk-dep-punct.html">punct</a></tt> (173; 21% instances), <tt><a href="sk_snk-dep-advmod-emph.html">advmod:emph</a></tt> (138; 17% instances), <tt><a href="sk_snk-dep-advmod.html">advmod</a></tt> (104; 13% instances), <tt><a href="sk_snk-dep-conj.html">conj</a></tt> (78; 9% instances), <tt><a href="sk_snk-dep-cc.html">cc</a></tt> (70; 8% instances), <tt><a href="sk_snk-dep-obl.html">obl</a></tt> (57; 7% instances), <tt><a href="sk_snk-dep-case.html">case</a></tt> (38; 5% instances), <tt><a href="sk_snk-dep-dep.html">dep</a></tt> (37; 4% instances), <tt><a href="sk_snk-dep-orphan.html">orphan</a></tt> (24; 3% instances), <tt><a href="sk_snk-dep-fixed.html">fixed</a></tt> (20; 2% instances), <tt><a href="sk_snk-dep-amod.html">amod</a></tt> (14; 2% instances), <tt><a href="sk_snk-dep-appos.html">appos</a></tt> (12; 1% instances), <tt><a href="sk_snk-dep-mark.html">mark</a></tt> (12; 1% instances), <tt><a href="sk_snk-dep-advcl.html">advcl</a></tt> (9; 1% instances), <tt><a href="sk_snk-dep-csubj.html">csubj</a></tt> (8; 1% instances), <tt><a href="sk_snk-dep-xcomp.html">xcomp</a></tt> (8; 1% instances), <tt><a href="sk_snk-dep-cop.html">cop</a></tt> (7; 1% instances), <tt><a href="sk_snk-dep-nmod.html">nmod</a></tt> (5; 1% instances), <tt><a href="sk_snk-dep-obl-arg.html">obl:arg</a></tt> (4; 0% instances), <tt><a href="sk_snk-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="sk_snk-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="sk_snk-dep-nummod.html">nummod</a></tt> (2; 0% instances), <tt><a href="sk_snk-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
 Children of `ADV` nodes belong to 16 different parts of speech: <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (173; 21% instances), <tt><a href="sk_snk-pos-PUNCT.html">PUNCT</a></tt> (173; 21% instances), <tt><a href="sk_snk-pos-PART.html">PART</a></tt> (159; 19% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (92; 11% instances), <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> (62; 7% instances), <tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> (38; 5% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (28; 3% instances), <tt><a href="sk_snk-pos-X.html">X</a></tt> (21; 3% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (17; 2% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (13; 2% instances), <tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (13; 2% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (12; 1% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (12; 1% instances), <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="sk_snk-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 

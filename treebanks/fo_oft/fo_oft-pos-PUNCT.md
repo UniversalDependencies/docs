@@ -39,7 +39,7 @@ The 3rd highest number of forms (1) was observed with the lemma “(”: <em>(</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="fo_oft-dep-punct.html">punct</a></tt> (1564; 100% instances)
 
-Parents of `PUNCT` nodes belong to 9 different parts of speech: <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (717; 46% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (467; 30% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (203; 13% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt> (110; 7% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (38; 2% instances), <tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (24; 2% instances), <tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="fo_oft-pos-ADP.html">ADP</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 9 different parts of speech: <tt><a href="fo_oft-pos-NOUN.html">NOUN</a></tt> (717; 46% instances), <tt><a href="fo_oft-pos-VERB.html">VERB</a></tt> (468; 30% instances), <tt><a href="fo_oft-pos-PROPN.html">PROPN</a></tt> (202; 13% instances), <tt><a href="fo_oft-pos-ADJ.html">ADJ</a></tt> (110; 7% instances), <tt><a href="fo_oft-pos-ADV.html">ADV</a></tt> (38; 2% instances), <tt><a href="fo_oft-pos-NUM.html">NUM</a></tt> (24; 2% instances), <tt><a href="fo_oft-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fo_oft-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="fo_oft-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
 1562 (100%) `PUNCT` nodes are leaves.
 

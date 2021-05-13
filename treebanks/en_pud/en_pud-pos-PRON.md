@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>that</em> (<tt><a href="en_pud-pos-SC
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.321429 (the average of all parts of speech is 1.138338).
+The form / lemma ratio of `PRON` is 1.321429 (the average of all parts of speech is 1.138758).
 
 The 1st highest number of forms (3) was observed with the lemma “he”: <em>he, him, his</em>.
 

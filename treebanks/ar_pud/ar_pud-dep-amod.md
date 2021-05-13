@@ -28,7 +28,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 4	من	min_1	ADP	IN	_	6	case	_	_
 5	خلال	xilAl_1	ADP	IN	_	4	fixed	_	_
 6	حساب	HisAb_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	_
-7	كلينتون	kliynotuwn_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	6	nmod:gmod	_	_
+7	كلينتون	kliynotuwn_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	6	nmod	_	_
 8	المصرفي	maSorafiy~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	amod	_	_
 9	الكبير	kabiyr_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	amod	_	SpaceAfter=No
 10	.	._0	PUNCT	.	_	1	punct	_	_
@@ -48,7 +48,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 4	حجر	Hajar_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Plur	0	root	_	_
 5	الأساس	>asAs_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	4	nmod	_	_
 6	ل	l	ADP	IN	_	8	case	_	SpaceAfter=No
-7	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	8	det:predet	_	_
+7	هذه	h`*A_1	PRON	PDEM	Case=Gen|Gender=Fem|Number=Sing	8	det	_	_
 8	الانتخابات	{inotixAb_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
 9	.	._0	PUNCT	.	_	4	punct	_	_
 

@@ -12,7 +12,7 @@ It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 2441 tokens (10%) have a non-empty value of `Mood`.
 260 types (6%) occur at least once with a non-empty value of `Mood`.
 162 lemmas (4%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 3 part-of-speech tags: <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1602; 7% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (838; 3% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1602; 7% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (838; 4% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `AUX`
 
@@ -70,7 +70,7 @@ The most frequent other feature values with which `PRON` and `Mood` co-occurred:
 `PRON` tokens may have the following values of `Mood`:
 
 * `Ind` (1; 100% of non-empty `Mood`): <em>Il</em>
-* `EMPTY` (1657): <em>qui, -il, qu', -ce, se, que, -elle, -on, -je, je</em>
+* `EMPTY` (1657): <em>qui, qu', -ce, -t-il, se, que, -il, -je, -t-elle, je</em>
 
 ## Relations with Agreement in `Mood`
 

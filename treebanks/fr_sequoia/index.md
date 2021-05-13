@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Marie Candito, Djamé Seddah, Guy Perrier, Bruno Guillaume.
 
 Repository: [UD_French-Sequoia](https://github.com/UniversalDependencies/UD_French-Sequoia)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_sequoia27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_sequoia28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: LGPL-LR
 
@@ -83,7 +83,7 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
 
 ## POS Tags
 
-[ADJ](fr_sequoia-pos-ADJ.html) – [ADP](fr_sequoia-pos-ADP.html) – [ADV](fr_sequoia-pos-ADV.html) – [AUX](fr_sequoia-pos-AUX.html) – [CCONJ](fr_sequoia-pos-CCONJ.html) – [DET](fr_sequoia-pos-DET.html) – [INTJ](fr_sequoia-pos-INTJ.html) – [NOUN](fr_sequoia-pos-NOUN.html) – [NUM](fr_sequoia-pos-NUM.html) – [PART](fr_sequoia-pos-PART.html) – [PRON](fr_sequoia-pos-PRON.html) – [PROPN](fr_sequoia-pos-PROPN.html) – [PUNCT](fr_sequoia-pos-PUNCT.html) – [SCONJ](fr_sequoia-pos-SCONJ.html) – [SYM](fr_sequoia-pos-SYM.html) – [VERB](fr_sequoia-pos-VERB.html) – [X](fr_sequoia-pos-X.html)
+[ADJ](fr_sequoia-pos-ADJ.html) – [ADP](fr_sequoia-pos-ADP.html) – [ADV](fr_sequoia-pos-ADV.html) – [AUX](fr_sequoia-pos-AUX.html) – [CCONJ](fr_sequoia-pos-CCONJ.html) – [DET](fr_sequoia-pos-DET.html) – [INTJ](fr_sequoia-pos-INTJ.html) – [NOUN](fr_sequoia-pos-NOUN.html) – [NUM](fr_sequoia-pos-NUM.html) – [PRON](fr_sequoia-pos-PRON.html) – [PROPN](fr_sequoia-pos-PROPN.html) – [PUNCT](fr_sequoia-pos-PUNCT.html) – [SCONJ](fr_sequoia-pos-SCONJ.html) – [SYM](fr_sequoia-pos-SYM.html) – [VERB](fr_sequoia-pos-VERB.html) – [X](fr_sequoia-pos-X.html)
 
 ## Features
 
@@ -97,11 +97,11 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
 
 
 <ul>
-<li>This corpus contains 3099 sentences, 68615 tokens and 70567 syntactic words.</li>
+<li>This corpus contains 3099 sentences, 68596 tokens and 70548 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 10779 tokens (16%) that are not followed by a space.</li>
+<li>This corpus contains 10760 tokens (16%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -109,7 +109,7 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
 </ul>
 
 <ul>
-<li>This corpus contains 306 types of words that contain both letters and punctuation. Examples: l', d', n', qu', s', c', M., j', jusqu', Jean-Claude, -il, aujourd'hui, Hauts-de-Seine, peut-être, IIb/IIIa, après-midi, Deviers-Joncour, post-ménopausique, lorsqu', Jean-François, Jean-Pierre, m', politico-financière, -ce, -t, Jean-Paul, Thomson-CSF, celle-ci, en-dessous, non-lieu, rétro-commissions, États-Unis, Île-de-France, contre-indiqué, p​o​s​t​-​c​o​m​m​e​r​c​i​a​l​i​s​a​t​i​o​n, rendez-vous, -en, -nous, -vous, Chin-Feun, GPIIb/IIIa, Jean-Louis, REPLACE-2, T-score, calcium-élément, celui-ci, etc., -ils, -je, -moi</li>
+<li>This corpus contains 309 types of words that contain both letters and punctuation. Examples: l', d', n', qu', s', c', M., j', jusqu', Jean-Claude, aujourd'hui, Hauts-de-Seine, -il, peut-être, IIb/IIIa, après-midi, l'on, Deviers-Joncour, post-ménopausique, lorsqu', Jean-François, Jean-Pierre, m', politico-financière, -ce, Jean-Paul, Thomson-CSF, celle-ci, en-dessous, non-lieu, rétro-commissions, États-Unis, Île-de-France, -t-il, contre-indiqué, post-commercialisation, rendez-vous, -en, -nous, -vous, Chin-Feun, GPIIb/IIIa, Jean-Louis, REPLACE-2, T-score, calcium-élément, celui-ci, etc., -ils, -je</li>
 </ul>
 
 <ul>
@@ -122,11 +122,11 @@ The conversion process to UD is described in [(Bonfante & al. 2018)](https://hal
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus does not use the following tags: PART</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 word types tagged as particles (PART): -t</li>
 </ul>
 
 <ul>
@@ -547,7 +547,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN (794)</li>
-      <li>VERB-Fin--PRON (869)</li>
+      <li>VERB-Fin--PRON (881)</li>
       <li>VERB-Part--NOUN (306)</li>
       <li>VERB-Part--PRON (213)</li>
     </ul>

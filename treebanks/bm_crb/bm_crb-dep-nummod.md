@@ -45,7 +45,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 5	tigèra	tigɛra	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	9	advcl	_	Gloss=couper|Morf=couper,PFV.INTR|SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	Gloss=,
 7	dennin	dén.nin	NOUN	n	_	9	nsubj	_	Gloss=fillette|Morf=fillette,enfant,DIM
-8	be	bé	AUX	pm	Aspect=Imp|Polarity=Pos	9	aux	_	Gloss=IPFV.Pos
+8	be	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	9	aux	_	Gloss=IPFV.AFF
 9	sa	sà	VERB	v	_	0	root	_	Gloss=mourir|SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	Gloss=.
 

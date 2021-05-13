@@ -45,7 +45,7 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 21	IV	iv	ADJ	ORD	_	20	flat:name	_	Proper=True
 22	было	быть	AUX	VBC	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 23	бы	бы	AUX	RP	Mood=Cnd	22	aux	_	_
-24	больше	много	NUM	RBR	Degree=Cmp	25	nummod	_	_
+24	больше	много	NUM	RBR	_	25	nummod	_	_
 25	прав	право	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	22	nsubj	_	_
 26	на	на	ADP	IN	_	27	case	_	_
 27	трон	трон	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	25	nmod	_	SpaceAfter=No

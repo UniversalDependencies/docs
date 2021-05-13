@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-7282 tokens (34%) have a non-empty value of `Number`.
+7283 tokens (34%) have a non-empty value of `Number`.
 3467 types (65%) occur at least once with a non-empty value of `Number`.
-3005 lemmas (65%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (4036; 19% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (1721; 8% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (779; 4% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (435; 2% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (197; 1% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (91; 0% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (17; 0% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+3038 lemmas (66%) occur at least once with a non-empty value of `Number`.
+The feature is used with 10 part-of-speech tags: <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (4032; 19% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (1726; 8% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (779; 4% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (435; 2% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (197; 1% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (91; 0% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (17; 0% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-4036 <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+4032 <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (1101; 27% of non-empty `Number`): <em>people, years, police, investors, months, companies, countries, euros, films, children</em>
-* `Sing` (2935; 73% of non-empty `Number`): <em>time, year, government, city, state, war, century, world, day, place</em>
+* `Sing` (2931; 73% of non-empty `Number`): <em>time, year, government, city, state, war, century, world, day, place</em>
 * `EMPTY` (4): <em>BC, Multi, bjórr, hit</em>
 
 <table>
@@ -31,20 +31,20 @@ The feature is used with 10 part-of-speech tags: <tt><a href="en_pud-pos-NOUN.ht
 
 ### `PROPN`
 
-1721 <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
+1726 <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Number`.
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (79; 5% of non-empty `Number`): <em>States, Alps, Powers, Ages, Americans, Americas, Andes, Balkans, Chinese, Democrats</em>
-* `Sing` (1642; 95% of non-empty `Number`): <em>China, Sea, October, Trump, North, America, April, Europe, France, War</em>
-* `EMPTY` (6): <em>I, I., V, VI, X</em>
+* `Sing` (1647; 95% of non-empty `Number`): <em>China, Sea, October, Trump, North, America, April, Europe, France, War</em>
+* `EMPTY` (15): <em>Great, I, American, Atlantic, Dark, I., Middle, National, United, V</em>
 
 <table>
-  <tr><th>Paradigm <i>age</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>Age</em></td><td><em>Ages</em></td></tr>
+  <tr><th>Paradigm <i>Chinese</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>Chinese</em></td><td><em>Chinese</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (1127) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (1121) occur only with one value of `Number`.
 
 ### `PRON`
 
@@ -114,7 +114,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 `ADJ` tokens may have the following values of `Number`:
 
 * `Sing` (4; 100% of non-empty `Number`): <em>Canadian, Historian, Spanish, male</em>
-* `EMPTY` (1536): <em>new, many, more, first, other, such, last, great, high, own</em>
+* `EMPTY` (1526): <em>new, many, more, other, first, such, last, high, own, several</em>
 
 ### `ADV`
 
@@ -141,14 +141,14 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="en_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (404; 63%),
+<tt>NOUN --[<tt><a href="en_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (405; 63%),
 <tt>NOUN --[<tt><a href="en_pud-dep-compound.html">compound</a></tt>]--> NOUN</tt> (271; 67%),
 <tt>NOUN --[<tt><a href="en_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (179; 79%),
-<tt>PROPN --[<tt><a href="en_pud-dep-compound.html">compound</a></tt>]--> PROPN</tt> (172; 92%),
 <tt>PROPN --[<tt><a href="en_pud-dep-flat.html">flat</a></tt>]--> PROPN</tt> (172; 97%),
-<tt>NOUN --[<tt><a href="en_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (164; 68%),
+<tt>PROPN --[<tt><a href="en_pud-dep-compound.html">compound</a></tt>]--> PROPN</tt> (171; 90%),
+<tt>NOUN --[<tt><a href="en_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (164; 67%),
 <tt>NOUN --[<tt><a href="en_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (161; 62%),
-<tt>NOUN --[<tt><a href="en_pud-dep-compound.html">compound</a></tt>]--> PROPN</tt> (88; 67%),
-<tt>NOUN --[<tt><a href="en_pud-dep-cop.html">cop</a></tt>]--> AUX</tt> (85; 62%),
+<tt>NOUN --[<tt><a href="en_pud-dep-compound.html">compound</a></tt>]--> PROPN</tt> (89; 67%),
+<tt>NOUN --[<tt><a href="en_pud-dep-cop.html">cop</a></tt>]--> AUX</tt> (84; 61%),
 <tt>PROPN --[<tt><a href="en_pud-dep-conj.html">conj</a></tt>]--> PROPN</tt> (78; 95%).
 

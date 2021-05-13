@@ -28,9 +28,9 @@ The following 12 pairs of parts of speech are connected with `acl`: <tt><a href=
 3	เรื่อง	_	NOUN	NN	_	1	compound	_	SpaceAfter=No
 4	การแต่ง	_	VERB	VV	_	3	compound	_	SpaceAfter=No
 5	กาย	_	NOUN	NN	_	4	obj	_	SpaceAfter=No
-6	อาจ	_	VERB	MD	_	7	aux	_	SpaceAfter=No
+6	อาจ	_	AUX	MD	_	7	aux	_	SpaceAfter=No
 7	ล้า	_	VERB	VV	_	0	root	_	SpaceAfter=No
-8	สมัย	_	NOUN	NN	_	7	advmod	_	SpaceAfter=No
+8	สมัย	_	NOUN	NN	_	7	obl	_	SpaceAfter=No
 9	ไป	_	PART	RP	_	7	compound:prt	_	SpaceAfter=No
 10	หน่อย	_	ADV	RB	_	7	advmod	_	_
 
@@ -49,7 +49,7 @@ The following 12 pairs of parts of speech are connected with `acl`: <tt><a href=
 4	โอกาส	_	NOUN	NN	_	3	obj	_	SpaceAfter=No
 5	เดียว	_	ADJ	JJ	_	4	amod	_	SpaceAfter=No
 6	ที่	_	DET	WDT	_	8	obl:tmod	_	SpaceAfter=No
-7	จะ	_	VERB	MD	_	8	aux	_	SpaceAfter=No
+7	จะ	_	AUX	MD	_	8	aux	_	SpaceAfter=No
 8	ไถ่	_	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
 9	ตัว	_	NOUN	NN	_	8	obj	_	SpaceAfter=No
 10	คืน	_	VERB	VV	_	8	acl	_	SpaceAfter=No

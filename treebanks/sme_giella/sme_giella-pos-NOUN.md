@@ -60,9 +60,9 @@ The 2nd highest number of forms (21) was observed with the lemma “beana”: <e
 
 The 3rd highest number of forms (13) was observed with the lemma “girji”: <em>girji, girjin, girjji, girjjiid, girjjiidat, girjjiideatte, girjjiideattet, girjjiiguin, girjjiin, girjjis, girjjistis, girjjit, girjái</em>.
 
-`NOUN` occurs with 5 features: <tt><a href="sme_giella-feat-Case.html">Case</a></tt> (6374; 99% instances), <tt><a href="sme_giella-feat-Number.html">Number</a></tt> (6206; 97% instances), <tt><a href="sme_giella-feat-Number-psor.html">Number[psor]</a></tt> (248; 4% instances), <tt><a href="sme_giella-feat-Person-psor.html">Person[psor]</a></tt> (248; 4% instances), <tt><a href="sme_giella-feat-PronType.html">PronType</a></tt> (40; 1% instances)
+`NOUN` occurs with 5 features: <tt><a href="sme_giella-feat-Case.html">Case</a></tt> (6374; 99% instances), <tt><a href="sme_giella-feat-Number.html">Number</a></tt> (6206; 97% instances), <tt><a href="sme_giella-feat-Number-psor.html">Number[psor]</a></tt> (248; 4% instances), <tt><a href="sme_giella-feat-Person-psor.html">Person[psor]</a></tt> (248; 4% instances), <tt><a href="sme_giella-feat-NumType.html">NumType</a></tt> (40; 1% instances)
 
-`NOUN` occurs with 16 feature-value pairs: `Case=Acc`, `Case=Com`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Loc`, `Case=Nom`, `Number=Plur`, `Number=Sing`, `Number[psor]=Dual`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`, `PronType=Coll`
+`NOUN` occurs with 16 feature-value pairs: `Case=Acc`, `Case=Com`, `Case=Ess`, `Case=Gen`, `Case=Ill`, `Case=Loc`, `Case=Nom`, `NumType=Coll`, `Number=Plur`, `Number=Sing`, `Number[psor]=Dual`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`
 
 `NOUN` occurs with 87 feature combinations.
 The most frequent feature combination is `Case=Nom|Number=Sing` (1330 tokens).

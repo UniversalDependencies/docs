@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Acc` (1780; 70% of non-empty `Case`): <em>se, o, me, a, nos, lo, os, la, as, los</em>
 * `Dat` (228; 9% of non-empty `Case`): <em>lhe, me, nos, lhes, se, Ihe, vos</em>
 * `Nom` (534; 21% of non-empty `Case`): <em>ele, eu, eles, ela, você, nós, elas, vocês, voce, vós</em>
-* `EMPTY` (4925): <em>que, o, isso, onde, quem, tudo, os, isto, nada, a</em>
+* `EMPTY` (4923): <em>que, o, isso, onde, quem, tudo, os, isto, nada, a</em>
 
 <table>
   <tr><th>Paradigm <i>ele</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th></tr>
@@ -34,7 +34,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
   <tr><td><tt><tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_bosque-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>eles</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ela</em></td><td></td><td><em>lhe</em></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pt_bosque-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>elas</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="pt_bosque-feat-Gender.html">Gender</a></tt><tt>=Unsp</tt>|<tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td><em>lhe</em></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pt_bosque-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td><em>lhe</em></td></tr>
 </table>
 
 ## Relations with Agreement in `Case`

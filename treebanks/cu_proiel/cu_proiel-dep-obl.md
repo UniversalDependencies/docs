@@ -42,7 +42,7 @@ The following 38 pairs of parts of speech are connected with `obl`: <tt><a href=
 2	же	же	ADV	Df	_	8	discourse	_	ref=MATT_5.29
 3	око	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	ref=MATT_5.29
 4	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	3	nmod	_	ref=MATT_5.29
-5	десное	деснъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	3	amod	_	ref=MATT_5.29
+5	десное	деснъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	ref=MATT_5.29
 6	съблажнаатъ	съблажнꙗти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	ref=MATT_5.29
 7	тѧ	тꙑ	PRON	Pp	Case=Acc|Number=Sing|Person=2|PronType=Prs	6	obj	_	ref=MATT_5.29
 8	ꙇзьми	изѧти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.29
@@ -62,7 +62,7 @@ The following 38 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 5 obl	color:blue
 1	ꙇ	и	CCONJ	C-	_	6	cc	_	ref=MATT_21.10
-2	въшедъшоу	вънити	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	6	advcl	_	ref=MATT_21.10
+2	въшедъшоу	вънити	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	6	advcl	_	ref=MATT_21.10
 3	емоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	ref=MATT_21.10
 4	въ	въ	ADP	R-	_	5	case	_	ref=MATT_21.10
 5	иероусалимъ	иѥроусалимъ	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	ref=MATT_21.10
@@ -70,7 +70,7 @@ The following 38 pairs of parts of speech are connected with `obl`: <tt><a href=
 7	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	expl	_	ref=MATT_21.10
 8	весь	вьсь	DET	Px	Case=Nom|Gender=Masc|Number=Sing	9	det	_	ref=MATT_21.10
 9	градъ	градъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=MATT_21.10
-10	г҃лѧ	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	ref=MATT_21.10
+10	г҃лѧ	глаголати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	6	advcl	_	ref=MATT_21.10
 
 ~~~
 

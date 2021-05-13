@@ -24,7 +24,7 @@ The following 32 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 3 acl	color:blue
 1	Osalevad	osalema	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-2	kümned	kümme	NUM	N	Case=Nom|Number=Plur|NumForm=Letter|NumType=Card	4	nummod	4:nummod	_
+2	kümned	kümme	NUM	N	Case=Nom|Number=Plur|NumForm=Word|NumType=Card	4	nummod	4:nummod	_
 3	tuntud	tuntud	ADJ	A	Case=Nom|Degree=Pos|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	4:acl	_
 4	intellektuaalid	intellektuaal	NOUN	S	Case=Nom|Number=Plur	1	nsubj	1:nsubj	SpaceAfter=No
 5	.	.	PUNCT	Z	_	1	punct	1:punct	_

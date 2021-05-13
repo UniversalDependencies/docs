@@ -24,7 +24,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 4 5 amod	color:blue
 1	Peut-être	peut-être	ADV	RB	_	8	advmod	_	wordform=peut-être
 2	que	que	ADP	IN	_	1	fixed	_	_
-3	le	le	DET	DT	Gender=Masc|Number=Sing	4	det	_	_
+3	le	le	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	code	code	NOUN	NN	Gender=Masc|Number=Sing	8	nsubj	_	_
 5	vestimentaire	vestimentaire	ADJ	JJ	Gender=Masc|Number=Sing	4	amod	_	_
 6	était	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
@@ -44,8 +44,8 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 1	Et	et	CCONJ	CC	_	6	cc	_	wordform=et
 2	bien	bien	ADV	RB	_	6	advmod	_	_
 3	sûr	sûr	ADJ	JJ	Gender=Masc|Number=Sing	2	fixed	_	_
-4	il	il	PRON	PRP	Gender=Masc|Number=Sing|Person=3	6	expl:subj	_	_
-5	y	y	PRON	PRP	Person=3	6	expl:comp	_	_
+4	il	il	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	_
+5	y	y	PRON	PRP	Person=3|PronType=Prs	6	expl:comp	_	_
 6	a	avoir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	Bob	Bob	PROPN	NNP	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	10	punct	_	_
@@ -62,7 +62,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 15 amod	color:blue
-1	Le	le	DET	DT	Gender=Masc|Number=Sing	2	det	_	wordform=le
+1	Le	le	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	wordform=le
 2	temps	temps	NOUN	NN	Gender=Masc|Number=Sing	10	nsubj	_	_
 3	de	de	ADP	IN	_	4	case	_	_
 4	prestation	prestation	NOUN	NN	Gender=Fem|Number=Sing	2	nmod	_	_
@@ -74,7 +74,7 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 10	sera	être	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 11	ainsi	ainsi	ADV	RB	_	10	advmod	_	_
 12	à	à	ADP	INDT	_	14	case	_	_
-13	le	le	DET	_	Gender=Masc|Number=Sing	14	det	_	_
+13	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	moins	moins	ADV	RBR	_	15	advmod	_	_
 15	égal	égal	ADJ	JJ	Gender=Masc|Number=Sing	10	amod	_	_
 16	à	à	ADP	IN	_	18	case	_	_

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-37 nodes (2%) are attached to their parents as `mark`.
+36 nodes (2%) are attached to their parents as `mark`.
 
-37 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.2972972972973.
+36 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.33333333333333.
 
-The following 8 pairs of parts of speech are connected with `mark`: <tt><a href="akk_pisandub-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_pisandub-pos-SCONJ.html">SCONJ</a></tt> (27; 73% instances), <tt><a href="akk_pisandub-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_pisandub-pos-SCONJ.html">SCONJ</a></tt> (3; 8% instances), <tt><a href="akk_pisandub-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_pisandub-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="akk_pisandub-pos-PRON.html">PRON</a></tt>-<tt><a href="akk_pisandub-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances), <tt><a href="akk_pisandub-pos-PROPN.html">PROPN</a></tt>-<tt><a href="akk_pisandub-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="akk_pisandub-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_pisandub-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="akk_pisandub-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_pisandub-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="akk_pisandub-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_pisandub-pos-PRON.html">PRON</a></tt> (1; 3% instances).
+The following 5 pairs of parts of speech are connected with `mark`: <tt><a href="akk_pisandub-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_pisandub-pos-SCONJ.html">SCONJ</a></tt> (29; 81% instances), <tt><a href="akk_pisandub-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_pisandub-pos-SCONJ.html">SCONJ</a></tt> (4; 11% instances), <tt><a href="akk_pisandub-pos-PRON.html">PRON</a></tt>-<tt><a href="akk_pisandub-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances), <tt><a href="akk_pisandub-pos-PROPN.html">PROPN</a></tt>-<tt><a href="akk_pisandub-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances), <tt><a href="akk_pisandub-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_pisandub-pos-ADP.html">ADP</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -54,31 +54,44 @@ The following 8 pairs of parts of speech are connected with `mark`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 4 mark	color:blue
-1	DUMU-MEŠ	māru	NOUN	_	_	17	iobj	_	_
-2	TIN-TIR-[KI	Babili	PROPN	_	_	1	nmod	_	_
-3	xx]	_	X	_	_	1	dep	_	_
-4	⸢ša⸣	ša	PRON	_	_	7	mark	_	_
-5	ki-ma	kīma	ADP	_	_	7	case	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 1 mark	color:blue
+1	i-nu-um	inu	SCONJ	_	_	8	mark	_	_
+2	i-na	ina	ADP	_	_	3	case	_	_
+3	mé-eṣ-ḫe-ru-ti	meṣherūtu	NOUN	_	_	8	obl	_	_
+4	-ia	-ia	PRON	_	_	3	det	_	_
+5	DUMU	māru	NOUN	_	_	8	obl	_	_
 6	la	lā	PART	_	_	7	advmod	_	_
-7	lìb-[bi]	libbu	NOUN	_	_	3	dep	_	_
-8	⸢DINGIR⸣	ilu	NOUN	_	_	7	nmod	_	_
-9	-ma	-ma	CCONJ	_	_	10	cc	_	_
-10	ab-šá-a-ni	abšānu	NOUN	_	_	8	conj	_	_
-11	la	lā	PART	_	_	12	advmod	_	_
-12	si-ma-ti	simtu	NOUN	_	_	10	nmod	_	_
-13	-šú-nu	-šunu	PRON	_	_	12	det	_	_
-14	šu-ziz-⸢zu⸣	šuzuzzu	ADJ	_	_	10	amod	_	_
-15	an-ḫu-ut	anhūtu	NOUN	_	_	17	obj	_	_
-16	-su-un	-šunu	PRON	_	_	15	det	_	_
-17	ú-pa-áš-ši-ḫa	pašāhu	VERB	_	_	0	root	_	_
-18	ú-ša-ap-ṭi-ir	paṭāru	VERB	_	_	17	parataxis	_	_
-19	sa-ar-ma	sarmāʾu	NOUN	_	_	18	obj	_	_
+7	ma-am-ma-na-ma	mammāna	PRON	_	_	5	det	_	_
+8	a-nu-ku-ma	anāku	PRON	_	_	15	xcomp	_	_
+9	áš-rat	ešertu&nbsp;	NOUN	_	_	15	obj	_	_
+10	d-AG	Nabu	PROPN	_	_	9	nmod	_	_
+11	ù	u	CCONJ	_	_	12	cc	_	_
+12	d-AMAR-UTU	Marduk	PROPN	_	_	10	conj	_	_
+13	EN	bēlu	NOUN	_	_	12	appos	_	_
+14	-e-a	-ia	PRON	_	_	13	det	_	_
+15	áš-te-né-eʾ-e-a	šeʾû	VERB	_	_	0	root	_	_
+16	ka-a-a-nim	kayyānu	ADV	_	_	15	advmod	_	_
+17	šá	ša	SCONJ	_	_	18	mark	_	_
+18	ku-un-ni	kânu	VERB	_	_	15	xcomp	_	_
+19	pa-ar-ṣi	parṣu	NOUN	_	_	18	obj	_	_
 20	-šu-nu	-šunu	PRON	_	_	19	det	_	_
+21	ù	u	CCONJ	_	_	22	cc	_	_
+22	šu-ul-lu-mu	šalāmu	NOUN	_	_	18	conj	_	_
+23	ki-du-de-e	kidudû	NOUN	_	_	22	nmod	_	_
+24	-šu-nu	-šunu	PRON	_	_	23	det	_	_
+25	i-ta-ma-a	awû	VERB	_	_	15	parataxis	_	_
+26	ka-ba-at-tim	kabattu	NOUN	_	_	25	compound	_	_
+27	a-na	ana	ADP	_	_	28	case	_	_
+28	kit-ti	kittu	NOUN	_	_	25	obl	_	_
+29	ù	u	CCONJ	_	_	30	cc	_	_
+30	mi-ša-ri	mīšaru	NOUN	_	_	28	conj	_	_
+31	ba-ša-a	bāšû	ADJ	_	_	32	amod	_	_
+32	uz-na	uznu	NOUN	_	_	25	obj	_	_
+33	-a-a	-ia	PRON	_	_	32	det	_	_
 
 ~~~
 

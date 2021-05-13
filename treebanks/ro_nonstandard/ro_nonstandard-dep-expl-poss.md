@@ -106,7 +106,7 @@ The following 4 pairs of parts of speech are connected with `expl:poss`: <tt><a 
 37	oi	vrea	AUX	Vaip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres	38	aux	_	_
 38	umplea	umple	VERB	Vmn	VerbForm=Inf	30	acl	_	_
 39	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	40	case	_	_
-40	jele	jale	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	38	nmod:pmod	_	Rhyme=ID33|SpaceAfter=No|Type=Paired
+40	jele	jale	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	38	obl:pmod	_	Rhyme=ID33|SpaceAfter=No|Type=Paired
 41	,	,	PUNCT	COMMA	_	38	punct	_	_
 42	Şi	și	CCONJ	Ccssp	Polarity=Pos	44	cc	_	_
 43	oi	vrea	AUX	Vaip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres	44	aux	_	_

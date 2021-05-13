@@ -29,7 +29,7 @@ The following 7 pairs of parts of speech are connected with `advmod:neg`: <tt><a
 5	габаһаа	габа	NOUN	_	Case=Abl	6	nmod	_	_
 6	гараа	гара	VERB	_	Mood=Des|Number=Sing|Person=3	0	root	_	_
 7	бэшэ	бэшэ	ADV	_	_	6	advmod:neg	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	6	punct	_	_
+8	,	,	PUNCT	_	_	19	punct	_	_
 9	дэлхэйн	дэлхэйн	NOUN	_	Case=Nom	11	nmod	_	_
 10	амитан	амитан	NOUN	_	Case=Nom	11	compound	_	_
 11	зон	зон	NOUN	_	Case=Nom	19	nsubj	_	_
@@ -40,7 +40,7 @@ The following 7 pairs of parts of speech are connected with `advmod:neg`: <tt><a
 16	утаһаар	ута	NOUN	_	Case=Abl	17	nmod	_	_
 17	холбоотой	холбо	VERB	_	_	19	advmod	_	Morf=Unknown
 18	ажа	ажа	ADV	_	_	19	advmod	_	_
-19	амидарна	амидар	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	6	parataxis	_	_
+19	амидарна	амидар	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	parataxis	_	_
 20	ха	ха	PART	_	_	19	discourse	_	_
 21	юм	юм	AUX	_	Evident=Fh	19	discourse	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	6	punct	_	_
@@ -60,7 +60,7 @@ The following 7 pairs of parts of speech are connected with `advmod:neg`: <tt><a
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	би	би	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	шуран	шуран	ADV	_	_	0	root	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	6	punct	_	_
+7	,	,	PUNCT	_	_	9	punct	_	_
 8	түргэ	түргэ	ADV	_	_	9	advmod	_	_
 9	мэргэн	мэргэн	NOUN	_	Case=Nom	6	conj	_	_
 10	бэшэб	бэшэ	ADV	_	_	6	advmod:neg	_	SpaceAfter=No
@@ -78,10 +78,10 @@ The following 7 pairs of parts of speech are connected with `advmod:neg`: <tt><a
 1	һалхинай	һалхин	NOUN	_	Case=Gen	0	root	_	_
 2	үгы	үгы	PART	_	_	1	advmod:neg	_	_
 3	һаа	һаа	PART	_	_	1	discourse	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	1	punct	_	_
+4	,	,	PUNCT	_	_	7	punct	_	_
 5	модоной	модон	NOUN	_	Case=Gen	6	nmod	_	_
 6	орой	орой	NOUN	_	Case=Nom	7	nsubj	_	_
-7	хүдэлхэгүй	хүдэл	VERB	_	Mood=Ind|Tense=Aor|VerbForm=Fin	1	advcl	_	SpaceAfter=No
+7	хүдэлхэгүй	хүдэл	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	1	advcl	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~

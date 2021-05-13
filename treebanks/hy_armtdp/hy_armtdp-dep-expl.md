@@ -22,7 +22,7 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 expl	color:blue
-1	Սա	սա	PRON	_	Case=Nom|Distance=Prox|Number=Sing|PronType=Dem	4	expl	_	Translit=Sa|LTranslit=sa
+1	Սա	սա	PRON	_	Case=Nom|Deixis=Prox|Number=Sing|PronType=Dem	4	expl	_	Translit=Sa|LTranslit=sa
 2	նվազագույնն	նվազ	ADV	_	Degree=Sup	4	advmod	_	Translit=nvazagowynn|LTranslit=nvaz
 3	եմ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	Translit=em|LTranslit=em
 4	ասում	ասել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=asowm|LTranslit=asel|SpaceAfter=No
@@ -38,7 +38,7 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 2 expl	color:blue
 1	Հոգեբանության	հոգեբանություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	5	nmod:poss	_	Translit=Hogebanowt’yan|LTranslit=hogebanowt’yown
-2	այս	այս	PRON	_	Distance=Prox|Number=Sing|PronType=Dem	5	expl	_	Translit=ays|LTranslit=ays
+2	այս	այս	PRON	_	Deixis=Prox|Number=Sing|PronType=Dem	5	expl	_	Translit=ays|LTranslit=ays
 3	ինչ	ինչ	DET	_	PronType=Int	5	det	_	Translit=inč|LTranslit=inč
 4	՞	՞	PUNCT	_	_	3	punct	_	Translit=?|LTranslit=?
 5	տակնուվրայություն	տակնուվրայություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Coll	0	root	_	Translit=taknowvrayowt’yown|LTranslit=taknowvrayowt’yown
@@ -54,7 +54,7 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 23	bgColor:blue
 # visual-style 23	fgColor:white
 # visual-style 23 21 expl	color:blue
-1	Այդ	այդ	DET	_	Distance=Med|PronType=Dem	2	det	_	Translit=Ayd|LTranslit=ayd
+1	Այդ	այդ	DET	_	Deixis=Med|PronType=Dem	2	det	_	Translit=Ayd|LTranslit=ayd
 2	ամենի	ամենը	PRON	_	Case=Gen|PronType=Tot	3	nmod:poss	_	Translit=ameni|LTranslit=amenë
 3	ֆոնին	ֆոն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	23	obl	_	Translit=fonin|LTranslit=fon|SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	Translit=,|LTranslit=,
@@ -74,7 +74,7 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 18	կենտրոնների	կենտրոն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	10	obl	_	Translit=kentronneri|LTranslit=kentron
 19	միջև	միջև	ADP	_	AdpType=Post	18	case	_	Translit=miǰew|LTranslit=miǰew|SpaceAfter=No
 20	,	,	PUNCT	_	_	23	punct	_	Translit=,|LTranslit=,
-21	դա	դա	PRON	_	Case=Nom|Distance=Med|Number=Sing|PronType=Dem	23	expl	_	Translit=da|LTranslit=da
+21	դա	դա	PRON	_	Case=Nom|Deixis=Med|Number=Sing|PronType=Dem	23	expl	_	Translit=da|LTranslit=da
 22	Հարավային	հարավային	ADJ	_	Degree=Pos	23	amod	_	Translit=Haravayin|LTranslit=haravayin
 23	Կովկասն	Կովկաս	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Def|NameType=Geo|Number=Sing	0	root	_	Translit=Kovkasn|LTranslit=Kovkas
 24	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	23	cop	_	Translit=ē|LTranslit=em|SpaceAfter=No

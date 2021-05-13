@@ -22,11 +22,11 @@ The following 1 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 2 csubj	color:blue
-1	ते	तो	PRON	_	Distance=Dist|Gender=Neut|Number=Sing|Person=3	2	obj	_	_
+1	ते	तो	PRON	_	Deixis=Remt|Gender=Neut|Number=Sing|Person=3	2	obj	_	_
 2	विकणे	विकणे	VERB	_	Case=Nom|InfForm=Dict|VerbForm=Inf	7	csubj	_	_
-3	_	तो	PRON	_	Distance=Dist|Gender=Masc|Number=Sing|Person=3	5	nmod:poss	_	_
-4	_	चा	ADP	_	Case=Obl	3	case	_	_
-5	_	जिवा	NOUN	_	Case=Obl|Gender=Masc|Number=Sing	7	obl	_	_
+3	_	तो	PRON	_	Deixis=Remt|Gender=Masc|Number=Sing|Person=3	5	nmod:poss	_	_
+4	_	चा	ADP	_	Case=Abs	3	case	_	_
+5	_	जिवा	NOUN	_	Case=Abs|Gender=Masc|Number=Sing	7	obl	_	_
 6	_	वर	ADP	_	_	5	case	_	_
 7	येत	येणे	VERB	_	Aspect=Imp|VerbForm=Part	0	root	_	_
 8	होते	असणे	AUX	_	Gender=Neut|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	SpaceAfter=No

@@ -26,15 +26,15 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 2	şîrê	şîr	NOUN	n	Case=Con|Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	_
 3	ko	ku	SCONJ	cnjsub	_	7	mark	_	_
 4	di	di	ADP	pr	AdpType=Prep	6	case	_	_
-5	vî	ev	DET	det	Case=Obl|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
-6	misînî	misîn	NOUN	n	Case=Obl|Gender=Masc|Number=Sing|PronType=Dem	7	nmod	_	_
+5	vî	ev	DET	det	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+6	misînî	misîn	NOUN	n	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	7	nmod	_	_
 7	diçe	çûn	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
 8	nakeve	ketin	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	serê	ser	NOUN	n	Case=Con|Definite=Def|Gender=Masc|Number=Sing	8	nmod	_	_
-10	min	ez	PRON	prn	Case=Obl|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	9	nmod:poss	_	_
+10	min	ez	PRON	prn	Case=Acc|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	9	nmod:poss	_	_
 11	ko	ku	SCONJ	cnjsub	_	14	mark	_	_
 12	têra	têr	NOUN	n	Case=Con|Definite=Def|Gender=Fem|Number=Sing	14	compound:lvc	_	_
-13	wî	ew	PRON	prn	Case=Obl|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nmod:poss	_	_
+13	wî	ew	PRON	prn	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nmod:poss	_	_
 14	bike	kirin	VERB	vblex	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	SpaceAfter=No
 15	.	.	PUNCT	sent	_	14	punct	_	_
 
@@ -47,18 +47,18 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 6 acl	color:blue
-1	Holmes	Holmes	PROPN	np	Case=Obl|Gender=Masc|Number=Sing	9	nsubj	_	_
+1	Holmes	Holmes	PROPN	np	Case=Acc|Gender=Masc|Number=Sing	9	nsubj	_	_
 2	werîsê	werîs	NOUN	n	Case=Con|Definite=Def|Gender=Masc|Number=Sing	9	obj	_	_
 3	ko	ku	SCONJ	cnjsub	_	6	mark	_	_
 4	li	li	ADP	pr	AdpType=Prep	6	case	_	_
 5	rex	rex	NOUN	n	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	fixed	_	_
-6	textî	text	NOUN	n	Case=Obl|Gender=Masc|Number=Sing|PronType=Dem	2	acl	_	_
+6	textî	text	NOUN	n	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	2	acl	_	_
 7	bû	bûn	AUX	vbcop	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
-8	şanî	şan	NOUN	n	Case=Obl|Gender=Masc|Number=Sing|PronType=Dem	9	compound:lvc	_	_
+8	şanî	şan	NOUN	n	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	9	compound:lvc	_	_
 9	da	dan	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	û	û	CCONJ	cnjcoo	_	11	cc	_	_
 11	gote	gotin	VERB	vblex	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	conj	_	_
-12	banû	banû	NOUN	n	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	11	nmod:dat	_	_
+12	banû	banû	NOUN	n	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	11	obl:dat	_	_
 13	Stonêrê	Stonêr	PROPN	np	Case=Con|Gender=Masc|Number=Sing	12	flat	_	SpaceAfter=No
 14	.	.	PUNCT	sent	_	9	punct	_	_
 
@@ -77,7 +77,7 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 4	hene	hebûn	AUX	vbhaver	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	ko	ku	SCONJ	cnjsub	_	12	mark	_	_
 6	ji	ji	ADP	pr	AdpType=Prep	7	case	_	_
-7	xwendevanan	xwendevan	NOUN	n	Case=Obl|Definite=Def|Gender=Masc|Number=Plur	12	nmod	_	_
+7	xwendevanan	xwendevan	NOUN	n	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	12	nmod	_	_
 8	re	re	ADP	post	AdpType=Post	7	case	_	_
 9	bi	bi	ADP	pr	AdpType=Prep	10	case	_	_
 10	temamî	temamî	NOUN	n	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	12	nmod	_	_

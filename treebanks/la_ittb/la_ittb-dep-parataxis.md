@@ -28,14 +28,14 @@ The following 25 pairs of parts of speech are connected with `parataxis`: <tt><a
 3	inquit	inquam	VERB	N3|modA|tem1|gen6	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	SpaceAfter=No
 4	,	,	PUNCT	Punc	_	7	punct	_	_
 5	de	de	ADP	S4	AdpType=Prep	6	case	_	_
-6	hominibus	homo	NOUN	C1|grn1|casO|gen1	Case=Abl|Degree=Pos|Gender=Masc|Number=Plur	7	obl:arg	_	_
+6	hominibus	homo	NOUN	C1|grn1|casO|gen1	Case=Abl|Gender=Masc|Number=Plur	7	obl:arg	_	_
 7	loquens	loquor	VERB	L2|modM|tem1|grp1|casA|gen1	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	3	advcl	_	SpaceAfter=No
 8	,	,	PUNCT	Punc	_	10	punct	_	_
 9	sicut	sicut	SCONJ	O4|vgr1	_	10	mark	_	_
-10	angeli	angelus	NOUN	B1|grn1|casJ|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	advcl	_	_
-11	dei	deus	PROPN	F1|grn1|casB|gen1	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	10	nmod	_	_
+10	angeli	angelus	NOUN	B1|grn1|casJ|gen1	Case=Nom|Gender=Masc|Number=Plur	1	advcl	_	_
+11	dei	deus	PROPN	F1|grn1|casB|gen1	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
 12	in	in	ADP	S4	AdpType=Prep	13	case	_	_
-13	caelo	caelum	NOUN	B1|grn1|casF|gen3|vgr1	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing	10	orphan	_	SpaceAfter=No
+13	caelo	caelum	NOUN	B1|grn1|casF|gen3|vgr1	Case=Abl|Gender=Neut|Number=Sing	10	orphan	_	SpaceAfter=No
 14	.	.	PUNCT	Punc	_	1	punct	_	_
 
 ~~~
@@ -73,9 +73,9 @@ The following 25 pairs of parts of speech are connected with `parataxis`: <tt><a
 4	dormitauit	dormito	VERB	J3|modA|tem4|gen6	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	_
 5	neque	neque	CCONJ	O4	Polarity=Neg	6	cc	_	_
 6	dormiet	dormio	VERB	M3|modA|tem3|gen6	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	4	conj	_	_
-7	qui	qui	PRON	F1|grn1|casA|gen1	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|PronType=Rel	8	nsubj	_	_
+7	qui	qui	PRON	F1|grn1|casA|gen1	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	8	nsubj	_	_
 8	custodit	custodio	VERB	M3|modA|tem1|gen6	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	csubj	_	_
-9	israel	israel	PROPN	C1|grn1|casD|gen1	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
+9	israel	israel	PROPN	C1|grn1|casD|gen1	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
 10	.	.	PUNCT	Punc	_	1	punct	_	_
 
 ~~~

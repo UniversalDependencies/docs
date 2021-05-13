@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Romanian-Nonstandard: Relations: `nmod`
 
 This relation is universal.
-There are 3 language-specific subtypes of `nmod`: <tt><a href="ro_nonstandard-dep-nmod-agent.html">nmod:agent</a></tt>, <tt><a href="ro_nonstandard-dep-nmod-pmod.html">nmod:pmod</a></tt>, <tt><a href="ro_nonstandard-dep-nmod-tmod.html">nmod:tmod</a></tt>.
+There are 1 language-specific subtypes of `nmod`: <tt><a href="ro_nonstandard-dep-nmod-tmod.html">nmod:tmod</a></tt>.
 
 26197 nodes (5%) are attached to their parents as `nmod`.
 

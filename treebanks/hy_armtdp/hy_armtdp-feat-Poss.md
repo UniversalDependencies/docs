@@ -18,7 +18,7 @@ The feature is used with 5 part-of-speech tags: <tt><a href="hy_armtdp-pos-DET.h
 
 684 <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> tokens (35% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Gen</tt> (684; 100%), <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=EMPTY</tt> (656; 96%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (395; 58%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (387; 57%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (373; 55%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Gen</tt> (684; 100%), <tt><a href="hy_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (656; 96%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (395; 58%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (387; 57%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (373; 55%).
 
 `DET` tokens may have the following values of `Poss`:
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `ADJ` and `Poss` co-occurred: 
 
 8 <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (8; 100%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (7; 88%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="hy_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (8; 100%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (7; 88%).
 
 `PRON` tokens may have the following values of `Poss`:
 

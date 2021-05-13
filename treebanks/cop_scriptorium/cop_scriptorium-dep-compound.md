@@ -27,10 +27,10 @@ The following 6 pairs of parts of speech are connected with `compound`: <tt><a h
 3	ⲁ	ⲁ	AUX	APST	_	5	aux	_	_
 4	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
 5	ⲟⲩⲱⲙ	ⲟⲩⲱⲙ	VERB	V	VerbForm=Fin	1	acl	_	Entity=person)
-6	ⲇⲉ	ⲇⲉ	PART	PTC	_	8	advmod	_	_
+6	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	8	advmod	_	OrigLang=grc
 7	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	8	aux	_	_
 8	ⲩⲛ	ⲟⲩⲛ	VERB	EXIST	_	0	root	_	_
-9	ⲁⲣⲁ	ⲁⲣⲁ	PART	PTC	_	8	advmod	_	_
+9	ⲁⲣⲁ	ⲁⲣⲁ	PART	PTC	Foreign=Yes	8	advmod	_	OrigLang=grc
 10	ⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	14	det	_	Entity=(person
 11	ϭⲓⲥ	ϭⲓⲥ	NUM	NUM	NumType=Card	12	compound	_	_
 12	ⲧⲃⲁ	ⲧⲃⲁ	NUM	NUM	NumType=Card	14	nummod	_	_
@@ -74,10 +74,10 @@ The following 6 pairs of parts of speech are connected with `compound`: <tt><a h
 1	ⲁ	ⲁ	AUX	APST	_	3	aux	_	Orig=[.]
 2	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	compound	_	_
 3	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Fin	0	root	_	_
-4	ⲇⲉ	ⲇⲉ	PART	PTC	_	3	advmod	_	_
+4	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	3	advmod	_	OrigLang=grc
 5	ⲉϩⲣⲁⲓ	ⲉϩⲣⲁⲓ	ADV	ADV	_	3	advmod	_	_
 6	ⲉ	ⲉ	ADP	PREP	_	7	case	_	_
-7	ⲕⲁⲡⲁⲣⲛⲁⲟⲩⲙ	ⲕⲁⲡⲁⲣⲛⲁⲟⲩⲙ	PROPN	NPROP	_	3	obl	_	Entity=(place-Capernaum)
+7	ⲕⲁⲡⲁⲣⲛⲁⲟⲩⲙ	ⲕⲁⲡⲁⲣⲛⲁⲟⲩⲙ	PROPN	NPROP	Foreign=Yes	3	obl	_	Entity=(place-Capernaum)|OrigLang=grc
 8	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	18	cc	_	_
 9	ⲛⲧⲉⲣⲉ	ⲛⲧⲉⲣⲉ	AUX	APREC	_	11	aux	_	_
 10	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_

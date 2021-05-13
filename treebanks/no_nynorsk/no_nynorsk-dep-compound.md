@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `compound`: <tt><a href="no_nynorsk-dep-compound-prt.html">compound:prt</a></tt>.
 
-238 nodes (0%) are attached to their parents as `compound`.
+167 nodes (0%) are attached to their parents as `compound`.
 
-170 instances of `compound` (71%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.46638655462185.
+167 instances of `compound` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.64071856287425.
 
-The following 25 pairs of parts of speech are connected with `compound`: <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (47; 20% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (39; 16% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-SYM.html">SYM</a></tt> (27; 11% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-SYM.html">SYM</a></tt> (27; 11% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (23; 10% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-SYM.html">SYM</a></tt> (16; 7% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (11; 5% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (10; 4% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-X.html">X</a></tt> (10; 4% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-SYM.html">SYM</a></tt> (4; 2% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (4; 2% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="no_nynorsk-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `compound`: <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (47; 28% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (39; 23% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (23; 14% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (11; 7% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (10; 6% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-X.html">X</a></tt> (10; 6% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (4; 2% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-SYM.html">SYM</a></tt> (4; 2% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -60,12 +60,13 @@ The following 25 pairs of parts of speech are connected with `compound`: <tt><a 
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 compound	color:blue
-1	½	½	SYM	_	_	3	compound	_	_
-2	ts	ts	NOUN	_	Abbr=Yes	3	nmod	_	_
-3	peppar	pepar	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 compound	color:blue
+1	600	600	NUM	_	Number=Plur|NumType=Card	2	compound	_	_
+2	000	000	NUM	_	Number=Plur|NumType=Card	0	root	_	_
+3	til	til	ADP	_	_	4	case	_	_
+4	KOLS-prosjekt	KOLS-prosjekt	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	2	obl	_	_
 
 ~~~
 

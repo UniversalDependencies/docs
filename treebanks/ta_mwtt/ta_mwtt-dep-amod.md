@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-46 nodes (2%) are attached to their parents as `amod`.
+44 nodes (2%) are attached to their parents as `amod`.
 
-46 instances of `amod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.10869565217391.
+44 instances of `amod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.11363636363636.
 
-The following 6 pairs of parts of speech are connected with `amod`: <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-ADJ.html">ADJ</a></tt> (28; 61% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (12; 26% instances), <tt><a href="ta_mwtt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_mwtt-pos-ADJ.html">ADJ</a></tt> (3; 7% instances), <tt><a href="ta_mwtt-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_mwtt-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-NUM.html">NUM</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `amod`: <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-ADJ.html">ADJ</a></tt> (29; 66% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (10; 23% instances), <tt><a href="ta_mwtt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_mwtt-pos-ADJ.html">ADJ</a></tt> (3; 7% instances), <tt><a href="ta_mwtt-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_mwtt-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-ADV.html">ADV</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -22,10 +22,10 @@ The following 6 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 amod	color:blue
-1	அங்கு	அங்கு	ADV	_	_	4	obl:pmod	4:obl:pmod	Translit=aṅku|LTranslit=aṅku
+1	அங்கு	அங்கு	ADV	_	_	4	advmod	4:advmod	Translit=aṅku|LTranslit=aṅku
 2	நிறைய	நிறைய	ADJ	_	_	3	amod	3:amod	Translit=niṟaiya|LTranslit=niṟaiya
-3	வீடுகள்	வீடு	NOUN	_	Case=Nom|Number=Plur	4	nsubj	4:nsubj	Translit=vīṭukaḷ|LTranslit=vīṭu
-4	இருக்கின்றன	இரு	VERB	_	Gender=Neut|Number=Plur|Person=3|Tense=Pres	0	root	0:root	Translit=irukkiṉṟaṉa|LTranslit=iru
+3	வீடுகள்	வீடு	NOUN	_	Case=Nom|Gender=Neut|Number=Plur|Person=3	4	nsubj	4:nsubj	Translit=vīṭukaḷ|LTranslit=vīṭu
+4	இருக்கின்றன	இரு	VERB	_	Gender=Neut|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Polite=Form|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Translit=irukkiṉṟaṉa|LTranslit=iru
 5	.	.	PUNCT	_	PunctType=Peri	4	punct	4:punct	Translit=.|LTranslit=.
 
 ~~~
@@ -37,10 +37,10 @@ The following 6 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 amod	color:blue
-1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3	6	nsubj	6:nsubj	Translit=kumār|LTranslit=kumār
+1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3|Polite=Form	6	nsubj	6:nsubj	Translit=kumār|LTranslit=kumār
 2	தன்	தான்	PRON	_	Case=Gen|Gender=Com|Number=Sing	3	nmod:poss	3:nmod:poss	Translit=taṉ|LTranslit=tāṉ
 3	சொந்த	சொந்தம்	NOUN	_	Number=Sing|Person=3	4	amod	4:amod	Translit=conta|LTranslit=contam
-4	அனுபவத்தால்	அனுபவம்	NOUN	_	Case=Ins|Number=Sing|Person=3	6	obl:inst	6:obl:inst	Translit=aṉupavattāl|LTranslit=aṉupavam
+4	அனுபவத்தால்	அனுபவம்	NOUN	_	Case=Ins|Number=Sing|Person=3	6	obl	6:obl	Translit=aṉupavattāl|LTranslit=aṉupavam
 5	தொழிலைக்	தொழில்	NOUN	_	Case=Acc|Number=Sing|Person=3	6	obj	6:obj	Translit=toḻilaik|LTranslit=toḻil
 6	கற்றுக்	கல்	VERB	_	VerbForm=Conv	0	root	0:root	Translit=kaṟṟuk|LTranslit=kal
 7	கொண்டான்	கொள்	AUX	_	Gender=Masc|Number=Sing|Person=3|Tense=Past	6	aux	6:aux	Translit=koṇṭāṉ|LTranslit=koḷ

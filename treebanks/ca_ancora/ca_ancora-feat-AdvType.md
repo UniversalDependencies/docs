@@ -49,5 +49,5 @@ The most frequent other feature values with which `SYM` and `AdvType` co-occurre
 ## Relations with Agreement in `AdvType`
 
 The 10 most frequent relations where parent and child node agree in `AdvType`:
-<tt>NOUN --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> NOUN</tt> (82; 60%).
+<tt>NOUN --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> NOUN</tt> (82; 58%).
 

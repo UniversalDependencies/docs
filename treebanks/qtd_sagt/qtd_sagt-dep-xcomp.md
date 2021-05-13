@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-284 nodes (1%) are attached to their parents as `xcomp`.
+322 nodes (1%) are attached to their parents as `xcomp`.
 
-205 instances of `xcomp` (72%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.1830985915493.
+234 instances of `xcomp` (73%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.17080745341615.
 
-The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (175; 62% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (51; 18% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (30; 11% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (7; 2% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (7; 2% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (5; 2% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (192; 60% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (61; 19% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (36; 11% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (8; 2% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (8; 2% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (6; 2% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-PART.html">PART</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -46,7 +46,7 @@ The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 4	şey	şey	NOUN	_	Case=Nom|Number=Sing	5	xcomp	_	LangID=TR
 5	olmak	ol	VERB	_	Number=Sing|VerbForm=Vnoun	6	csubj	_	LangID=TR
 6	lazım	lazım	ADJ	_	_	0	root	_	LangID=TR
-7	sprachenbegabt	Sprachebegabt	ADJ	_	_	6	dislocated	_	LangID=DE
+7	sprachenbegabt	Sprachebegabt	ADJ	_	_	6	dislocated	_	LangID=DE|DislocateHead=4
 8	meinst	meinen	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	6	parataxis:discourse	_	LangID=DE
 9	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	LangID=DE|SpaceAfter=No
 10	?	?	PUNCT	_	_	6	punct	_	LangID=OTHER
@@ -55,21 +55,23 @@ The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 xcomp	color:blue
-1	Hani	hani	ADV	_	_	3	advmod	_	LangID=TR
-2	şey	şey	NOUN	_	Case=Nom|Number=Sing	3	obj	_	LangID=TR
-3	diyorlar	de	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	LangID=TR
-4	ja	ja	ADV	_	_	3	advmod	_	LangID=DE
-5	assozial	Assozial	ADJ	_	_	3	xcomp	_	LangID=DE|SpaceAfter=No
-6	,	,	PUNCT	_	_	9	punct	_	LangID=OTHER
-7	hiçbir	hiçbir	DET	_	Definite=Ind	8	det	_	LangID=TR
-8	şeyden	şey	NOUN	_	Case=Abl|Number=Sing	9	obl	_	LangID=TR
-9	anlamaz	anla	VERB	_	Aspect=Hab|Evident=Fh|Mood=Gen|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	3	xcomp	_	LangID=TR
-10	...	...	PUNCT	_	_	3	punct	_	LangID=OTHER
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 10 xcomp	color:blue
+1	Habe	haben	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	LangID=DE
+2	ich	ich	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	LangID=DE
+3	mir	ich	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	7	expl:pv	_	LangID=DE
+4	jetzt	jetzt	ADV	_	_	7	advmod	_	LangID=DE
+5	überhaupt	überhaupt	ADV	_	_	6	advmod	_	LangID=DE
+6	nicht	nicht	PART	_	Polarity=Neg	7	advmod	_	LangID=DE
+7	überlegt	überlegen	VERB	_	VerbForm=Part	0	root	_	LangID=DE
+8	ama	ama	CCONJ	_	_	10	cc	_	LangID=TR
+9	aslında	aslında	ADV	_	_	10	advmod	_	LangID=TR
+10	iyi	iyi	ADJ	_	_	11	xcomp	_	LangID=TR
+11	olur	ol	VERB	_	Aspect=Hab|Evident=Fh|Mood=Gen|Number=Sing|Person=3|Tense=Pres	7	conj	_	LangID=TR|SpaceAfter=No
+12	.	.	PUNCT	_	_	7	punct	_	LangID=OTHER
 
 ~~~
 

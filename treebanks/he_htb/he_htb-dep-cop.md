@@ -26,7 +26,7 @@ The following 11 pairs of parts of speech are connected with `cop`: <tt><a href=
 2	היא	הוא	AUX	AUX	Gender=Fem|Number=Sing|Person=3|Polarity=Pos|VerbForm=Part|VerbType=Cop	3	cop	_	_
 3	מקום	מקום	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
 4	לא	לא	ADV	ADV	Polarity=Neg	6	advmod	_	SpaceAfter=No
-5	-	-	PUNCT	PUNCT	_	6	punct	_	SpaceAfter=No
+5	-	-	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
 6	שגרתי	שגרתי	ADJ	ADJ	Gender=Masc|Number=Sing	3	amod	_	SpaceAfter=No
 7	.	.	PUNCT	PUNCT	_	3	punct	_	_
 

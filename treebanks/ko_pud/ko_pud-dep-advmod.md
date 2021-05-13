@@ -23,9 +23,9 @@ The following 39 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 3	fgColor:white
 # visual-style 3 2 advmod	color:blue
 1	타당성	_	NOUN	NN	_	2	compound	_	Translit=.ta.dang.seong|LTranslit=_
-2	조사에	조사	NOUN	NN+CM	Case=Advb|Polite=Form	3	advmod	_	MSeg=조사-에|Translit=.jo.sa.e|LTranslit=.jo.sa
+2	조사에	조사	NOUN	NN+CM	Polite=Form	3	advmod	_	MSeg=조사-에|Translit=.jo.sa.e|LTranslit=.jo.sa
 3	따르면	_	VERB	VV	Form=Compl	16	advcl	_	Translit=.dda.reu.myeon|LTranslit=_
-4	곤돌라에	곤돌라	NOUN	NN+CM	Case=Advb|Polite=Form	6	advmod	_	MSeg=곤돌라-에|Translit=.gon.dol.ra.e|LTranslit=.gon.dol.ra
+4	곤돌라에	곤돌라	NOUN	NN+CM	Polite=Form	6	advmod	_	MSeg=곤돌라-에|Translit=.gon.dol.ra.e|LTranslit=.gon.dol.ra
 5	승객을	승객	NOUN	NN+CM	Case=Acc|Polite=Form	6	obj	_	MSeg=승객-을|Translit=.seung.gaeg.eul|LTranslit=.seung.gaeg
 6	태우고	_	VERB	VV	Form=Compl|Voice=Cau	9	advcl	_	Translit=.tae.u.go|LTranslit=_
 7	포토맥	_	PROPN	NNP	_	8	compound	_	Translit=.po.to.maeg|LTranslit=_
@@ -36,7 +36,7 @@ The following 39 pairs of parts of speech are connected with `advmod`: <tt><a hr
 12	4	4	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=4|LTranslit=_
 13	분이	분	NOUN	NNB+CM	Case=Nom|Polite=Form	14	nsubj:pass	_	MSeg=분-이|Translit=.bun.i|LTranslit=.bun
 14	소요될	_	NOUN	NN	_	15	dep	_	SpaceAfter=No|Translit=.so.yo.doel|LTranslit=_
-15	것으로	것	NOUN	NNB+CM	Case=Advb|Polite=Form	16	advmod	_	MSeg=것-으로|Translit=.geos.eu.ro|LTranslit=.geos
+15	것으로	것	NOUN	NNB+CM	Polite=Form	16	advmod	_	MSeg=것-으로|Translit=.geos.eu.ro|LTranslit=.geos
 16	추정된다	_	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=.chu.jeong.doen.da|LTranslit=_
 17	.	.	PUNCT	.	_	16	punct	_	Translit=.|LTranslit=_
 
@@ -54,7 +54,7 @@ The following 39 pairs of parts of speech are connected with `advmod`: <tt><a hr
 3	클린턴의	클린턴	PROPN	NNP+CM	Case=Gen|Polite=Form	6	nmod:poss	_	MSeg=클린턴-의|Translit=.keul.rin.teon.yi|LTranslit=.keul.rin.teon
 4	거액의	거액	NOUN	NN+CM	Case=Gen|Polite=Form	6	nmod:poss	_	MSeg=거액-의|Translit=.geo.aeg.yi|LTranslit=.geo.aeg
 5	은행	_	NOUN	NN	_	6	compound	_	Translit=.eun.haeng|LTranslit=_
-6	계좌에서	계좌	NOUN	NN+CM	Case=Advb|Polite=Form	7	advmod	_	MSeg=계좌-에서|Translit=.gye.jwa.e.seo|LTranslit=.gye.jwa
+6	계좌에서	계좌	NOUN	NN+CM	Polite=Form	7	advmod	_	MSeg=계좌-에서|Translit=.gye.jwa.e.seo|LTranslit=.gye.jwa
 7	충당되었다	_	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=.chung.dang.doe.eoss.da|LTranslit=_
 8	.	.	PUNCT	.	_	7	punct	_	Translit=.|LTranslit=_
 

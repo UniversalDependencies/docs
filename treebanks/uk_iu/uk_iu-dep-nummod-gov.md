@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="uk_iu-dep-nummod.html">nummod</a></tt>.
 
-432 nodes (0%) are attached to their parents as `nummod:gov`.
+431 nodes (0%) are attached to their parents as `nummod:gov`.
 
-416 instances of `nummod:gov` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.58564814814815.
+415 instances of `nummod:gov` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.584686774942.
 
-The following 5 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (422; 98% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-X.html">X</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `nummod:gov`: <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (422; 98% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt>-<tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -48,7 +48,7 @@ The following 5 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 7	з	з	ADP	Spsg	Case=Gen	8	case	8:case	Id=3bi9|LTranslit=z|Translit=z
 8	розуму	розум	NOUN	Ncmsgn	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obl	6:obl	Id=3bia|LTranslit=rozum|Translit=rozumu
 9	пів	пів	NUM	Mlc-a	Case=Acc|NumType=Card|Orth=Alt|Uninflect=Yes	11	nummod:gov	11:nummod:gov	Id=3bib|LTranslit=piv|SpaceAfter=No|Translit=piv
-10	-	-	PUNCT	U	PunctType=Hyph	9	punct	9:punct	Id=3bic|LTranslit=-|SpaceAfter=No|Translit=-
+10	-	-	PUNCT	U	PunctType=Dash	9	punct	9:punct	Id=3bic|LTranslit=-|SpaceAfter=No|Translit=-
 11	Хрещатика	Хрещатик	PROPN	Npmsgn	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obj	6:obj	Id=3bid|LTranslit=Chreščatyk|SpaceAfter=No|Translit=Chreščatyka
 12	...	...	PUNCT	U	_	6	punct	6:punct	Id=3bie|LTranslit=...|Translit=...
 

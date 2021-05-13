@@ -72,7 +72,7 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 10	أن	أَنَّ	SCONJ	C---------	_	13	mark	13:mark	Vform=أَنَّ|Gloss=that|Root='_n|Translit=ʾanna|LTranslit=ʾanna
 11	ها	هُوَ	PRON	SP---3FS4-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nsubj	13:nsubj	Vform=هَا|Gloss=he,she,it|Translit=hā|LTranslit=huwa
 12	"	"	PUNCT	G---------	_	13	punct	13:punct	SpaceAfter=No|Vform="|Translit="
-13	جيدة	جَيِّد	ADJ	A-----FS1I	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	2	obl:arg	2:obl:arg:أَنَّ_بِ:nom	SpaceAfter=No|Vform=جَيِّدَةٌ|Gloss=good,well|Root=^g_w_d|Translit=ǧayyidatun|LTranslit=ǧayyid
+13	جيدة	جَيِّد	ADJ	A-----FS1I	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	2	obl:arg	2:obl:arg:بِ_أَنَّ:nom	SpaceAfter=No|Vform=جَيِّدَةٌ|Gloss=good,well|Root=^g_w_d|Translit=ǧayyidatun|LTranslit=ǧayyid
 14	"	"	PUNCT	G---------	_	13	punct	13:punct	SpaceAfter=No|Vform="|Translit="
 15	.	.	PUNCT	G---------	_	1	punct	1:punct	Vform=.|Translit=.
 

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 8 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Par`, `Voc`.
 
-52551 tokens (54%) have a non-empty value of `Case`.
-26184 types (87%) occur at least once with a non-empty value of `Case`.
-15807 lemmas (84%) occur at least once with a non-empty value of `Case`.
-The feature is used with 11 part-of-speech tags: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (26755; 27% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (12024; 12% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (6585; 7% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (2042; 2% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (2027; 2% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (1918; 2% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (1194; 1% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+52549 tokens (54%) have a non-empty value of `Case`.
+26183 types (87%) occur at least once with a non-empty value of `Case`.
+15806 lemmas (84%) occur at least once with a non-empty value of `Case`.
+The feature is used with 9 part-of-speech tags: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (26755; 27% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (12024; 12% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (6585; 7% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (2042; 2% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (2027; 2% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (1918; 2% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (1194; 1% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ru_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -208,26 +208,6 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
   <tr><td><tt><tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>бывшего</em></td><td><em>бывшим</em></td></tr>
   <tr><td><tt><tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>бывшие</em></td><td></td><td></td></tr>
 </table>
-
-### `PART`
-
-1 <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Case`.
-
-The most frequent other feature values with which `PART` and `Case` co-occurred: <tt><a href="ru_gsd-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`PART` tokens may have the following values of `Case`:
-
-* `Loc` (1; 100% of non-empty `Case`): <em>Де</em>
-* `EMPTY` (1086): <em>не, же, и, также, только, лишь, даже, де, это, ни</em>
-
-### `PUNCT`
-
-1 <tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> tokens (0% of all `PUNCT` tokens) have a non-empty value of `Case`.
-
-`PUNCT` tokens may have the following values of `Case`:
-
-* `Nom` (1; 100% of non-empty `Case`): <em>-</em>
-* `EMPTY` (18124): <em>,, ., --, ), (, ``, &#39;&#39;, -, :, ;</em>
 
 ### `SYM`
 

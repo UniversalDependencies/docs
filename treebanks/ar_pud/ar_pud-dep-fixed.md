@@ -28,7 +28,7 @@ The following 14 pairs of parts of speech are connected with `fixed`: <tt><a hre
 4	من	min_1	ADP	IN	_	6	case	_	_
 5	خلال	xilAl_1	ADP	IN	_	4	fixed	_	_
 6	حساب	HisAb_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	_
-7	كلينتون	kliynotuwn_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	6	nmod:gmod	_	_
+7	كلينتون	kliynotuwn_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	6	nmod	_	_
 8	المصرفي	maSorafiy~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	amod	_	_
 9	الكبير	kabiyr_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	amod	_	SpaceAfter=No
 10	.	._0	PUNCT	.	_	1	punct	_	_
@@ -50,7 +50,7 @@ The following 14 pairs of parts of speech are connected with `fixed`: <tt><a hre
 6	الأراضي	>aroD_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	7	nmod	_	_
 7	توسيع	tawosiyE_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	_
 8	منطقة	minoTaqap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	nmod	_	_
-9	فونتفيل	fwntfyl_0	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	8	nmod:gmod	_	SpaceAfter=No
+9	فونتفيل	fwntfyl_0	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
 10	.	._0	PUNCT	.	_	1	punct	_	_
 
 ~~~
@@ -68,7 +68,7 @@ The following 14 pairs of parts of speech are connected with `fixed`: <tt><a hre
 4	إذا	<i*A_1	ADP	IN	_	3	fixed	_	_
 5	كان	kAn-u_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	9	aux	_	_
 6	كأس	ka>os_1	PROPN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Masc|Number=Sing	9	nsubj	_	_
-7	ديفيس	diyfiys_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	6	nmod:gmod	_	_
+7	ديفيس	diyfiys_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	6	nmod	_	_
 8	قد	qado_1	PART	RP	_	9	compound:prt	_	_
 9	لعب	laEib-a_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	1	advcl	_	_
 10	دوراً	dawor_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Ind|Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No

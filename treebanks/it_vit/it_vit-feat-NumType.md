@@ -9,7 +9,7 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Card`, `Ord`, `Range`.
 
-7000 tokens (2%) have a non-empty value of `NumType`.
+7000 tokens (3%) have a non-empty value of `NumType`.
 1504 types (6%) occur at least once with a non-empty value of `NumType`.
 1452 lemmas (9%) occur at least once with a non-empty value of `NumType`.
 The feature is used with 3 part-of-speech tags: <tt><a href="it_vit-pos-NUM.html">NUM</a></tt> (6440; 2% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt> (559; 0% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
@@ -42,7 +42,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Card` (1; 0% of non-empty `NumType`): <em>prima</em>
 * `Ord` (558; 100% of non-empty `NumType`): <em>primo, seconda, prima, secondo, terzo, prime, primi, quarto, quinto, terza</em>
-* `EMPTY` (19477): <em>precedente, altri, nuovo, grande, economico, stesso, altre, nuova, nuovi, ex</em>
+* `EMPTY` (19509): <em>precedente, altri, nuovo, grande, economico, stesso, altre, nuova, nuovi, ex</em>
 
 <table>
   <tr><th>Paradigm <i>prima</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th></tr>
@@ -50,7 +50,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
   <tr><td><tt><tt><a href="it_vit-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="it_vit-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>prima</em></td><td><em>prima</em></td></tr>
 </table>
 
-`NumType` seems to be **lexical feature** of `ADJ`. 97% lemmas (37) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `ADJ`. 97% lemmas (38) occur only with one value of `NumType`.
 
 ### `NOUN`
 
@@ -61,7 +61,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Card` (1; 100% of non-empty `NumType`): <em>6</em>
-* `EMPTY` (58079): <em>anni, miliardi, anno, n, parte, legge, società, posti, presidente, art</em>
+* `EMPTY` (58013): <em>anni, miliardi, anno, n, parte, legge, società, posti, presidente, art</em>
 
 ## Relations with Agreement in `NumType`
 

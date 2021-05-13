@@ -25,7 +25,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 # visual-style 6 2 nsubj:caus	color:blue
 1	et	et	CCONJ	_	_	6	cc	_	_
 2	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj:caus	_	_
-3	m'	lui	PRON	_	_	6	obl:arg	_	_
+3	m'	lui	PRON	_	_	6	iobj	_	_
 4	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
 5	fait	faire	AUX	DoubleAux	_	6	aux:caus	_	_
 6	voir	voir	VERB	CAUSATIVE	VerbForm=Inf	0	root	_	_
@@ -48,7 +48,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 7	tragédies	tragédie	NOUN	_	_	4	nmod	_	_
 8	aujourd'hui	aujourd'	ADV	_	_	10	advmod	_	_
 9	font	faire	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux:caus	_	_
-10	douter	douter	VERB	_	VerbForm=Inf	2	ccomp:obj	_	_
+10	douter	douter	VERB	_	VerbForm=Inf	2	ccomp	_	_
 11	de	de	ADP	_	_	13	case	_	_
 12	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	13	det	_	_
 13	espérance	espérance	NOUN	_	Gender=Fem|Number=Sing	10	obl:arg	_	_

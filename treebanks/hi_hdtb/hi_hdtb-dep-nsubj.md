@@ -80,9 +80,9 @@ The following 49 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 4	पर	पर	ADP	PSP	AdpType=Post	3	mark	_	ChunkId=VGNN|ChunkType=child|Translit=para
 5	हरी	हरा	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	6	amod	_	ChunkId=NP2|ChunkType=child|Translit=harī
 6	बुग्याल	बुग्याल	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	nmod	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head|Translit=bugyāla
-7	'	SINGLE_QUOTE	PUNCT	SYM	_	8	punct	_	SpaceAfter=No|ChunkId=NP3|ChunkType=child|Translit='
+7	'	'	PUNCT	SYM	_	8	punct	_	SpaceAfter=No|ChunkId=NP3|ChunkType=child|Translit='
 8	दूब	दूब	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	10	nsubj	_	SpaceAfter=No|Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=dūba
-9	'	SINGLE_QUOTE	PUNCT	SYM	_	8	punct	_	ChunkId=NP3|ChunkType=child|Translit='
+9	'	'	PUNCT	SYM	_	8	punct	_	ChunkId=NP3|ChunkType=child|Translit='
 10	मिलती	मिल	VERB	VM	Aspect=Imp|Gender=Fem|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	Vib=ता_है|Tam=wA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=milatī
 11	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=hai
 12	।	।	PUNCT	SYM	_	10	punct	_	ChunkId=BLK|ChunkType=head|Translit=.

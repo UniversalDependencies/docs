@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Andrius Utka, Erika Rimkutė, Agnė Bielinskienė, Jolanta Kovalevskaitė, Loïc Boizou, Gabrielė Aleksandravičiūtė, Kristina Brokaitė, Daniel Zeman, Natalia Perkova, Bernadeta Griciūtė.
 
 Repository: [UD_Lithuanian-ALKSNIS](https://github.com/UniversalDependencies/UD_Lithuanian-ALKSNIS)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlt_alksnis27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlt_alksnis28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -117,7 +117,7 @@ doi:10.3233/978-1-61499-701-6-107
 </ul>
 
 <ul>
-<li>This corpus contains 33 types of words with spaces. Examples: 95 46, - 977, 50 - 1829, 10 . 6, 10 . 7, 144 - 5249, 1993 / 13 / EEB, 2004 07 28, 51 - 1893, 6 - 5661, 70 - 2630, 86 320, 994 98, CFI = 0,87, C​H​I​ ​-​ ​S​Q​U​A​R​E​ ​=​ ​1​4​0​,​8​1, D​A​g​ ​=​ ​D​A​ ​+​ ​∑​ ​k​n​ ​D​P​n​ ​+​ ​∑​ ​D​S​n, GFI = 0,89, N = 317, N = 368, NNFI = 0,84, RMSEA = 0,055, a = 0,624, a = 0,721, a = 0,760, a = 0,832, n = 4186, odd - ball, p < 0,01, p = 0,000, r = 0,36, r = 0,39, rpb = 0,42, t 58 = 4,084</li>
+<li>This corpus contains 33 types of words with spaces. Examples: 95 46, - 977, 50 - 1829, 10 . 6, 10 . 7, 144 - 5249, 1993 / 13 / EEB, 2004 07 28, 51 - 1893, 6 - 5661, 70 - 2630, 86 320, 994 98, CFI = 0,87, CHI - SQUARE = 140,81, DAg = DA + ∑ kn DPn + ∑ DSn, GFI = 0,89, N = 317, N = 368, NNFI = 0,84, RMSEA = 0,055, a = 0,624, a = 0,721, a = 0,760, a = 0,832, n = 4186, odd - ball, p < 0,01, p = 0,000, r = 0,36, r = 0,39, rpb = 0,42, t 58 = 4,084</li>
 </ul>
 
 <ul>
@@ -1020,7 +1020,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 20 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: užtikrinti vystymąsi, girdėti save, išaukštinti save, išvysti save, kaltinti save, kontroliuoti save, laikyti save, pasičiupinėti save, p​a​t​v​i​r​t​i​n​t​i​ ​į​s​i​s​t​e​i​g​i​m​ą, realizuoti save, reikšti kalbėjimąsi, remti mokymąsi, skatinti kūrimąsi, skatinti įsisavinimą, statyti save, stebėti save, sukelti domėjimąsi, suslėpti save, ugdyti pasitikėjimą, įtikinti save</li>
+  <li>This corpus contains 20 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: užtikrinti vystymąsi, girdėti save, išaukštinti save, išvysti save, kaltinti save, kontroliuoti save, laikyti save, pasičiupinėti save, patvirtinti įsisteigimą, realizuoti save, reikšti kalbėjimąsi, remti mokymąsi, skatinti kūrimąsi, skatinti įsisavinimą, statyti save, stebėti save, sukelti domėjimąsi, suslėpti save, ugdyti pasitikėjimą, įtikinti save</li>
 </ul>
 
 <h3>Relations Overview</h3>

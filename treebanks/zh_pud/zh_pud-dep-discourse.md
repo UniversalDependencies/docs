@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 20	fgColor:white
 # visual-style 20 12 discourse	color:blue
 1	幸運	_	ADJ	JJ	_	3	csubj	_	SpaceAfter=No|Translit=xìngyùn
-2	的	_	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No|Translit=de
+2	的	_	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|Translit=de
 3	是	_	VERB	VC	_	29	dep	_	SpaceAfter=No|Translit=shì
 4	，	_	PUNCT	,	_	8	punct	_	SpaceAfter=No|Translit=，
 5	當時	_	NOUN	NN	_	8	obl:tmod	_	SpaceAfter=No|Translit=dāngshí

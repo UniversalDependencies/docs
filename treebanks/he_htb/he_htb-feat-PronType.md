@@ -18,6 +18,8 @@ The feature is used with 3 part-of-speech tags: <tt><a href="he_htb-pos-DET.html
 
 16531 <tt><a href="he_htb-pos-DET.html">DET</a></tt> tokens (95% of all `DET` tokens) have a non-empty value of `PronType`.
 
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="he_htb-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (16531; 100%).
+
 `DET` tokens may have the following values of `PronType`:
 
 * `Art` (16531; 100% of non-empty `PronType`): ה, ה_
@@ -46,7 +48,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 `ADV` tokens may have the following values of `PronType`:
 
-* `Int` (390; 100% of non-empty `PronType`): מה, מי, האם, מדוע, כיצד, איך, למה, היכן, איזו, איפה
+* `Int` (390; 100% of non-empty `PronType`): מה, מי, האם, כיצד, מדוע, איך, למה, היכן, איזו, איפה
 * `EMPTY` (5947): לא, גם, רק, יותר, עוד, כך, ביותר, אתמול, כבר, שם
 
 `PronType` seems to be **lexical feature** of `ADV`. 100% lemmas (13) occur only with one value of `PronType`.

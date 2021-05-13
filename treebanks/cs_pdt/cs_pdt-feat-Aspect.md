@@ -88,7 +88,7 @@ The most frequent other feature values with which `NOUN` and `Aspect` co-occurre
 `NOUN` tokens may have the following values of `Aspect`:
 
 * `Perf` (2; 100% of non-empty `Aspect`): <em>rozlišení, vyhovění</em>
-* `EMPTY` (372357): <em>roku, korun, let, roce, strany, procent, společnosti, době, případě, firmy</em>
+* `EMPTY` (372299): <em>roku, korun, let, roce, strany, procent, společnosti, době, případě, firmy</em>
 
 ### `ADP`
 

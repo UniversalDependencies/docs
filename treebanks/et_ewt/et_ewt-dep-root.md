@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4493 nodes (8%) are attached to their parents as `root`.
+5536 nodes (8%) are attached to their parents as `root`.
 
-4493 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.1215223681282.
+5536 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.16148843930636.
 
-The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (2504; 56% instances), -<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (896; 20% instances), -<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (386; 9% instances), -<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (208; 5% instances), -<tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (189; 4% instances), -<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (167; 4% instances), -<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (58; 1% instances), -<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (51; 1% instances), -<tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (16; 0% instances), -<tt><a href="et_ewt-pos-X.html">X</a></tt> (9; 0% instances), -<tt><a href="et_ewt-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), -<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), -<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="et_ewt-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (3051; 55% instances), -<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1118; 20% instances), -<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (485; 9% instances), -<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (259; 5% instances), -<tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (244; 4% instances), -<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (210; 4% instances), -<tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (74; 1% instances), -<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (55; 1% instances), -<tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (16; 0% instances), -<tt><a href="et_ewt-pos-X.html">X</a></tt> (12; 0% instances), -<tt><a href="et_ewt-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), -<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), -<tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (2; 0% instances), -<tt><a href="et_ewt-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

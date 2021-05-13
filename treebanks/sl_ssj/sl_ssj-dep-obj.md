@@ -25,7 +25,7 @@ The following 20 pairs of parts of speech are connected with `obj`: <tt><a href=
 1	Če	če	SCONJ	Cs	_	2	mark	_	Dep=2|Rel=Conj
 2	uporabim	uporabiti	VERB	Vmer1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Dep=0|Rel=Root
 3	prispodobo	prispodoba	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No|Dep=2|Rel=Obj
-4	.	.	PUNCT	Z	_	2	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+4	.	.	PUNCT	Z	_	2	punct	_	Dep=0|Rel=Root
 
 ~~~
 
@@ -47,7 +47,7 @@ The following 20 pairs of parts of speech are connected with `obj`: <tt><a href=
 9	ga	on	PRON	Pp3msa--y	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	11	obj	_	Dep=11|Rel=Obj
 10	sploh	sploh	PART	Q	_	11	advmod	_	Dep=0|Rel=Root
 11	imamo	imeti	VERB	Vmpr1p-n	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	parataxis	_	SpaceAfter=No|Dep=0|Rel=Root
-12	!	!	PUNCT	Z	_	1	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+12	!	!	PUNCT	Z	_	1	punct	_	Dep=0|Rel=Root
 
 ~~~
 

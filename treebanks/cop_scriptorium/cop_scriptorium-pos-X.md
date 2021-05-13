@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Coptic-Scriptorium: POS Tags: `X`
 
 There are 27 `X` lemmas (1%), 32 `X` types (1%) and 46 `X` tokens (0%).
-Out of 15 observed tags, the rank of `X` is: 13 in number of lemmas, 12 in number of types and 14 in number of tokens.
+Out of 15 observed tags, the rank of `X` is: 12 in number of lemmas, 12 in number of types and 14 in number of tokens.
 
 The 10 most frequent `X` lemmas: unknown, ⲙⲟⲛⲟⲛ, ⲟⲩ, .., ....., [...], ...., [..], ......, .........
 
@@ -45,7 +45,7 @@ The 10 most frequent ambiguous types:  ⲟⲩ (<tt><a href="cop_scriptorium-pos-
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.185185 (the average of all parts of speech is 1.124670).
+The form / lemma ratio of `X` is 1.185185 (the average of all parts of speech is 1.124953).
 
 The 1st highest number of forms (5) was observed with the lemma “UNKNOWN”: [....]ⲥ, [...]ϥ, ⲉ[.....], ⲉⲃ[........], ⲟⲩⲇ[.......].
 
@@ -53,13 +53,13 @@ The 2nd highest number of forms (1) was observed with the lemma “..”: ...
 
 The 3rd highest number of forms (1) was observed with the lemma “....”: .....
 
-`X` occurs with 1 features: <tt><a href="cop_scriptorium-feat-Polarity.html">Polarity</a></tt> (4; 9% instances)
+`X` occurs with 2 features: <tt><a href="cop_scriptorium-feat-Foreign.html">Foreign</a></tt> (13; 28% instances), <tt><a href="cop_scriptorium-feat-Polarity.html">Polarity</a></tt> (4; 9% instances)
 
-`X` occurs with 1 feature-value pairs: `Polarity=Neg`
+`X` occurs with 2 feature-value pairs: `Foreign=Yes`, `Polarity=Neg`
 
-`X` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (42 tokens).
-Examples: ⲙⲟⲛⲟⲛ, .., ....., [...], ...., [..], ......, ........., .........., .....ⲟ...
+`X` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (30 tokens).
+Examples: .., ....., [...], ...., [..], ......, ........., .........., .....ⲟ..., [....]ⲥ
 
 
 ## Relations

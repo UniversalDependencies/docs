@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Naija-NSC: Relations: `obl:agent`
 
 This relation is a language-specific subtype of .
-There are also 3 other language-specific subtypes of `obl`: <tt><a href="pcm_nsc-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="pcm_nsc-dep-obl-lvc.html">obl:lvc</a></tt>, <tt><a href="pcm_nsc-dep-obl-mod.html">obl:mod</a></tt>.
+There are also 2 other language-specific subtypes of `obl`: <tt><a href="pcm_nsc-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="pcm_nsc-dep-obl-mod.html">obl:mod</a></tt>.
 
-12 nodes (0%) are attached to their parents as `obl:agent`.
+11 nodes (0%) are attached to their parents as `obl:agent`.
 
-12 instances of `obl:agent` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.66666666666667.
+11 instances of `obl:agent` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.81818181818182.
 
-The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (9; 75% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 8% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 8% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (1; 8% instances).
+The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (9; 82% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 9% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (1; 9% instances).
 
 
 ~~~ conllu
@@ -25,9 +25,9 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 5 9 obl:agent	color:blue
 1	di	di	DET	_	Definite=Def|PronType=Art	3	det	_	AlignBegin=85203|AlignEnd=85406|Gloss=DEF.ART
 2	English	English	ADJ	_	_	3	amod	_	AlignBegin=85406|AlignEnd=85780|Gloss=English
-3	man	man	NOUN	_	_	4	xcomp:pred	_	AlignBegin=85780|AlignEnd=86020|Gloss=man
+3	man	man	NOUN	_	_	4	nsubj	_	AlignBegin=85780|AlignEnd=86020|Gloss=man
 4	dey	dey	VERB	_	VerbType=Cop	0	root	_	AlignBegin=86020|AlignEnd=86180|Gloss=be
-5	wanted	want	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	4	xcomp:obj	_	AlignBegin=86180|AlignEnd=86687|Gloss=want.IND.PST.FIN
+5	wanted	want	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	4	ccomp	_	AlignBegin=86180|AlignEnd=86687|Gloss=want.IND.PST.FIN
 6	by	by	ADP	_	_	9	case	_	AlignBegin=86687|AlignEnd=86820|Gloss=by
 7	{	{	X	_	_	9	dep	_	AlignBegin=86687|AlignEnd=86820|Gloss=PUNCT
 8	former	former	ADJ	_	_	9	amod	_	AlignBegin=86820|AlignEnd=87120|Gloss=former
@@ -37,45 +37,6 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 12	ah	ah	INTJ	_	_	11	discourse	_	AlignBegin=88010|AlignEnd=88110|Gloss=ah
 13	}	}	X	_	_	9	dep	_	AlignBegin=88010|AlignEnd=88110|Gloss=PUNCT
 14	//	//	X	_	_	4	dep	_	AlignBegin=88010|AlignEnd=88110|Gloss=PUNCT
-
-~~~
-
-
-~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 15 obl:agent	color:blue
-1	#	#	X	_	_	4	dep	_	AlignBegin=80080|AlignEnd=80460|Gloss=PUNCT
-2	Jesus	Jesus	PROPN	_	_	4	nsubj	_	AlignBegin=80460|AlignEnd=80901|Gloss=Jesus
-3	con	con	AUX	_	Aspect=Cons	4	aux	_	AlignBegin=80901|AlignEnd=81190|Gloss=CONS
-4	answer	answer	VERB	_	_	0	root	_	AlignBegin=81190|AlignEnd=81570|Gloss=answer
-5	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	obj	_	AlignBegin=81570|AlignEnd=81709|Gloss=ACC.SG.3
-6	sey	sey	SCONJ	_	_	12	mark	_	AlignBegin=81709|AlignEnd=81950|Gloss=COMP
-7	[	[	X	_	_	12	dep	_	AlignBegin=81950|AlignEnd=81980|Gloss=PUNCT
-8	yes	yes	INTJ	_	_	12	discourse	_	AlignBegin=81980|AlignEnd=82503|Gloss=yes|Lang=en
-9	it	it	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	expl:subj	_	AlignBegin=82503|AlignEnd=82700|Gloss=NOM.NT.SG.3|Lang=en
-10	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	AlignBegin=82700|AlignEnd=82890|Gloss=be.IND.SG.3.PRS.FIN|Lang=en
-11	very	very	ADV	_	_	12	advmod	_	AlignBegin=82890|AlignEnd=83200|Gloss=very|Lang=en
-12	possible	possible	ADJ	_	_	4	ccomp:obj	_	AlignBegin=83200|AlignEnd=83840|Gloss=possible|Lang=en
-13	#	#	X	_	_	15	dep	_	AlignBegin=83840|AlignEnd=84112|Gloss=PUNCT
-14	for	for	ADP	_	_	15	case	_	AlignBegin=84112|AlignEnd=84250|Gloss=for|Lang=en
-15	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	12	obl:agent	_	AlignBegin=84250|AlignEnd=84419|Gloss=NOM.2|Lang=en
-16	to	to	ADP	_	_	17	mark	_	AlignBegin=84419|AlignEnd=84590|Gloss=to|Lang=en
-17	do	do	VERB	_	_	15	ccomp:pred	_	AlignBegin=84590|AlignEnd=84710|Gloss=do|Lang=en
-18	wetin	wetin	PRON	_	PronType=Int	17	obj	_	AlignBegin=84710|AlignEnd=84990|Gloss=what.Q|Lang=en
-19	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	21	nsubj	_	AlignBegin=84990|AlignEnd=85139|Gloss=NOM.SG.1|Lang=en
-20	dey	dey	AUX	_	Aspect=Imp	21	aux	_	AlignBegin=85139|AlignEnd=85253|Gloss=IPFV|Lang=en
-21	do	do	VERB	_	_	18	acl:relcl	_	AlignBegin=85253|AlignEnd=85391|Gloss=do|Lang=en
-22	|c	|c	X	_	_	25	dep	_	AlignBegin=85391|AlignEnd=85421|Gloss=PUNCT
-23	but	but	CCONJ	_	_	25	cc	_	AlignBegin=85421|AlignEnd=85575|Gloss=but|Lang=en
-24	dere	dere	PRON	_	_	25	expl:subj	_	AlignBegin=85575|AlignEnd=85790|Gloss=there|Lang=en
-25	is	be	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	AlignBegin=85790|AlignEnd=85930|Gloss=be.IND.SG.3.PRS.FIN|Lang=en
-26	a	a	DET	_	Definite=Ind|PronType=Art	27	det	_	AlignBegin=85930|AlignEnd=86074|Gloss=INDF.ART|Lang=en
-27	condition	condition	NOUN	_	_	25	dep:comp	_	AlignBegin=86074|AlignEnd=86630|Gloss=condition|Lang=en
-28	//]	//]	X	_	_	12	dep	_	AlignBegin=86630|AlignEnd=86660|Gloss=PUNCT
-29	//	//	X	_	_	4	dep	_	AlignBegin=86630|AlignEnd=86660|Gloss=PUNCT
 
 ~~~
 
@@ -129,13 +90,78 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 41	industry	industry	NOUN	_	_	37	nmod	_	AlignBegin=46886|AlignEnd=47450|Gloss=industry
 42	<	<	X	_	_	23	dep	_	AlignBegin=47450|AlignEnd=47480|Gloss=PUNCT
 43	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	44	nsubj	_	AlignBegin=47480|AlignEnd=47650|Gloss=NOM.SG.3
-44	get	get	VERB	_	_	18	ccomp:obj	_	AlignBegin=47650|AlignEnd=47840|Gloss=get
+44	get	get	VERB	_	_	18	ccomp	_	AlignBegin=47650|AlignEnd=47840|Gloss=get
 45	as	as	ADP	_	_	47	mark	_	AlignBegin=47840|AlignEnd=48040|Gloss=as
 46	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	47	nsubj	_	AlignBegin=48040|AlignEnd=48100|Gloss=NOM.SG.3
-47	be	be	VERB	_	PartType=Cop	44	ccomp:pred	_	AlignBegin=48100|AlignEnd=48290|Gloss=be
-48	o	o	PART	_	PartType=Disc	47	advmod:emph	_	AlignBegin=48290|AlignEnd=48510|Gloss=EMPH
+47	be	be	VERB	_	PartType=Cop	44	ccomp	_	AlignBegin=48100|AlignEnd=48290|Gloss=be
+48	o	o	PART	_	PartType=Disc	47	advmod	_	AlignBegin=48290|AlignEnd=48510|Gloss=EMPH
 49	]	]	X	_	_	44	dep	_	AlignBegin=48510|AlignEnd=48540|Gloss=PUNCT
 50	//	//	X	_	_	4	dep	_	AlignBegin=48510|AlignEnd=48540|Gloss=PUNCT
+
+~~~
+
+
+~~~ conllu
+# visual-style 28	bgColor:blue
+# visual-style 28	fgColor:white
+# visual-style 22	bgColor:blue
+# visual-style 22	fgColor:white
+# visual-style 22 28 obl:agent	color:blue
+1	#	#	X	_	_	3	dep	_	AlignBegin=213860|AlignEnd=214160|Gloss=PUNCT
+2	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	AlignBegin=214160|AlignEnd=214373|Gloss=NOM.PL.3
+3	say	say	VERB	_	_	0	root	_	AlignBegin=214373|AlignEnd=214511|Gloss=say
+4	[	[	X	_	_	22	dep	_	AlignBegin=214511|AlignEnd=214541|Gloss=PUNCT
+5	one	one	DET	_	Definite=Spec|PronType=Art	7	det	_	AlignBegin=214541|AlignEnd=214800|Gloss=SPEC.ART
+6	sales	sale	NOUN	_	Number=Plur	7	compound	_	AlignBegin=214800|AlignEnd=215082|Gloss=sale.PL
+7	man	man	NOUN	_	_	22	dislocated	_	AlignBegin=215082|AlignEnd=215607|Gloss=man
+8	for	for	ADP	_	_	10	case	_	AlignBegin=215607|AlignEnd=215752|Gloss=for
+9	one	one	DET	_	Definite=Spec|PronType=Art	10	det	_	AlignBegin=215752|AlignEnd=215981|Gloss=SPEC.ART
+10	restaurant	restaurant	NOUN	_	_	7	nmod	_	AlignBegin=215981|AlignEnd=216549|Gloss=restaurant
+11	for	for	ADP	_	_	12	case	_	AlignBegin=216549|AlignEnd=216750|Gloss=for
+12	Awoyaya	Awoyaya	PROPN	_	_	10	nmod	_	AlignBegin=216750|AlignEnd=217520|Gloss=Awoyaya
+13	Ibeju	Ibeju	PROPN	_	_	12	flat	_	AlignBegin=217520|AlignEnd=218000|Gloss=Ibeju
+14	Lekki	Lekki	PROPN	_	_	12	flat	_	AlignBegin=218000|AlignEnd=218293|Gloss=Lekki
+15	for	for	ADP	_	_	16	case	_	AlignBegin=218293|AlignEnd=218460|Gloss=for
+16	Lagos	Lagos	PROPN	_	_	14	nmod	_	AlignBegin=218460|AlignEnd=218836|ExtPos=PROPN|Gloss=Lagos|PhraseType=Title
+17	State	state	NOUN	_	_	16	flat	_	AlignBegin=218836|AlignEnd=219210|Gloss=state|InTitle=Yes
+18	<	<	X	_	_	7	dep	_	AlignBegin=219210|AlignEnd=219240|Gloss=PUNCT
+19	#	#	X	_	_	7	dep	_	AlignBegin=219240|AlignEnd=219540|Gloss=PUNCT
+20	dem	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	22	nsubj	_	AlignBegin=219540|AlignEnd=219661|Gloss=NOM.PL.3
+21	don	don	AUX	_	Aspect=Perf	22	aux	_	AlignBegin=219661|AlignEnd=219870|Gloss=PRF
+22	catch	catch	VERB	_	_	3	parataxis	_	AlignBegin=219870|AlignEnd=220110|Gloss=catch
+23	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	22	obj	_	AlignBegin=220110|AlignEnd=220340|Gloss=ACC.SG.3
+24	o	o	PART	_	PartType=Disc	23	advmod	_	AlignBegin=220340|AlignEnd=220480|Gloss=EMPH
+25	#	#	X	_	_	28	dep	_	AlignBegin=220480|AlignEnd=220656|Gloss=PUNCT
+26	by	by	ADP	_	_	28	case	_	AlignBegin=220656|AlignEnd=220946|Gloss=by
+27	{	{	X	_	_	28	dep	_	AlignBegin=220946|AlignEnd=220976|Gloss=PUNCT
+28	oro~	X	X	_	_	22	obl:agent	_	AlignBegin=220976|AlignEnd=221206|Gloss=X
+29	||	||	X	_	_	30	dep	_	AlignBegin=221206|AlignEnd=221236|Gloss=PUNCT
+30	operatives	operative	NOUN	_	Number=Plur	28	reparandum	_	AlignBegin=221236|AlignEnd=221942|Gloss=operative.PL
+31	}	}	X	_	_	28	dep	_	AlignBegin=221942|AlignEnd=221972|Gloss=PUNCT
+32	of	of	ADP	_	_	34	case	_	AlignBegin=221972|AlignEnd=222136|Gloss=of
+33	di	di	DET	_	Definite=Def|PronType=Art	34	det	_	AlignBegin=222136|AlignEnd=222237|Gloss=DEF.ART
+34	Lagos	Lagos	PROPN	_	_	30	nmod	_	AlignBegin=222237|AlignEnd=222600|ExtPos=PROPN|Gloss=Lagos|PhraseType=Title
+35	State	state	NOUN	_	_	34	flat	_	AlignBegin=222600|AlignEnd=222786|Gloss=state|InTitle=Yes
+36	Command	command	NOUN	_	_	34	flat	_	AlignBegin=222786|AlignEnd=223350|ExtPos=PROPN|Gloss=command|InTitle=Yes
+37	#	#	X	_	_	44	dep	_	AlignBegin=223350|AlignEnd=223541|Gloss=PUNCT
+38	on	on	ADP	_	_	44	mark	_	AlignBegin=223541|AlignEnd=223731|ExtPos=ADP|Gloss=on|PhraseType=Idiom
+39	top	top	NOUN	_	_	38	fixed	_	AlignBegin=223731|AlignEnd=223973|Gloss=top|InIdiom=Yes
+40	sey	sey	SCONJ	_	_	38	fixed	_	AlignBegin=223973|AlignEnd=224241|Gloss=COMP|InIdiom=Yes
+41	[	[	X	_	_	44	dep	_	AlignBegin=224241|AlignEnd=224271|Gloss=PUNCT
+42	di	di	DET	_	Definite=Def|PronType=Art	43	det	_	AlignBegin=224271|AlignEnd=224421|Gloss=DEF.ART
+43	guy	guy	NOUN	_	_	44	nsubj	_	AlignBegin=224421|AlignEnd=224741|Gloss=guy
+44	rob	rob	VERB	_	_	22	ccomp	_	AlignBegin=224741|AlignEnd=225081|Gloss=rob
+45	{	{	X	_	_	47	dep	_	AlignBegin=225081|AlignEnd=225111|Gloss=PUNCT
+46	im	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	47	nmod:poss	_	AlignBegin=225111|AlignEnd=225390|Gloss=NOM.SG.3
+47	oga	oga	NOUN	_	_	44	obj	_	AlignBegin=225390|AlignEnd=225842|Gloss=boss
+48	|a	|a	X	_	_	50	dep	_	AlignBegin=225842|AlignEnd=225872|Gloss=PUNCT
+49	one	one	DET	_	Definite=Spec|PronType=Art	50	det	_	AlignBegin=225872|AlignEnd=226130|Gloss=SPEC.ART
+50	Paulina	Paulina	PROPN	_	_	47	appos	_	AlignBegin=226130|AlignEnd=226773|Gloss=Paulina
+51	Paul	Paul	PROPN	_	_	50	flat	_	AlignBegin=226773|AlignEnd=227385|Gloss=Paul
+52	}	}	X	_	_	47	dep	_	AlignBegin=227385|AlignEnd=227415|Gloss=PUNCT
+53	]	]	X	_	_	44	dep	_	AlignBegin=227385|AlignEnd=227415|Gloss=PUNCT
+54	]	]	X	_	_	22	dep	_	AlignBegin=227385|AlignEnd=227415|Gloss=PUNCT
+55	//	//	X	_	_	3	dep	_	AlignBegin=227385|AlignEnd=227415|Gloss=PUNCT
 
 ~~~
 

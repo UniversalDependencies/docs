@@ -9,9 +9,9 @@ udver: '2'
 There are 8 `SYM` lemmas (0%), 8 `SYM` types (0%) and 37 `SYM` tokens (0%).
 Out of 17 observed tags, the rank of `SYM` is: 16 in number of lemmas, 17 in number of types and 17 in number of tokens.
 
-The 10 most frequent `SYM` lemmas: <em>%, N, WE201800674, №, 29.210.01936, dni24.com, h​t​t​p​s​:​/​/​w​w​w​.​y​o​u​t​u​b​e​.​c​o​m​/​w​a​t​c​h​?​v​=​k​u​w​y​0​1​y​9​s​x​s​v​l​=​h​y, h​t​t​p​s​:​/​/​w​w​w​.​y​o​u​t​u​b​e​.​c​o​m​/​w​a​t​c​h​?​v​d​q​o​1​i​o​x​m​t​8​i</em>
+The 10 most frequent `SYM` lemmas: <em>%, N, WE201800674, №, 29.210.01936, dni24.com, https://www.youtube.com/watch?v=kuwy01y9sxsvl=hy, https://www.youtube.com/watch?vdqo1ioxmt8i</em>
 
-The 10 most frequent `SYM` types:  <em>%, N, WE201800674, №, 29.210.01936, dni24.com, h​t​t​p​s​:​/​/​w​w​w​.​y​o​u​t​u​b​e​.​c​o​m​/​w​a​t​c​h​?​v​=​k​u​W​Y​0​1​y​9​s​X​s​v​l​=​h​y, h​t​t​p​s​:​/​/​w​w​w​.​y​o​u​t​u​b​e​.​c​o​m​/​w​a​t​c​h​?​v​D​Q​o​1​i​o​x​m​t​8​I</em>
+The 10 most frequent `SYM` types:  <em>%, N, WE201800674, №, 29.210.01936, dni24.com, https://www.youtube.com/watch?v=kuWY01y9sXsvl=hy, https://www.youtube.com/watch?vDQo1ioxmt8I</em>
 
 The 10 most frequent ambiguous lemmas: 
 

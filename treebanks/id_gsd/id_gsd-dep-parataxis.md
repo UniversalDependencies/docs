@@ -11,7 +11,7 @@ This relation is universal.
 404 nodes (0%) are attached to their parents as `parataxis`.
 
 356 instances of `parataxis` (88%) are left-to-right (parent precedes child).
-Average distance between parent and child is 12.9207920792079.
+Average distance between parent and child is 12.8019801980198.
 
 The following 23 pairs of parts of speech are connected with `parataxis`: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (250; 62% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (41; 10% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (33; 8% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (15; 4% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (14; 3% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (10; 2% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (9; 2% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-PART.html">PART</a></tt> (1; 0% instances).
 
@@ -23,15 +23,15 @@ The following 23 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 4	fgColor:white
 # visual-style 4 9 parataxis	color:blue
 1	Tuh	tuh	PART	X--	_	4	advmod	_	SpaceAfter=No|MorphInd=^tuh<x>_X--$
-2	,	,	PUNCT	Z--	_	4	punct	_	MorphInd=^,<z>_Z--$
+2	,	,	PUNCT	Z--	_	1	punct	_	MorphInd=^,<z>_Z--$
 3	kamu	kamu	PRON	PS2	Number=Sing|Person=2|Polite=Infm|PronType=Prs	4	nsubj	_	MorphInd=^kamu<p>_PS2$
 4	lupa	lupa	VERB	VSA	Number=Sing|Voice=Act	0	root	_	MorphInd=^lupa<v>_VSA$
 5	lagi	lagi	ADV	D--	_	4	advmod	_	MorphInd=^lagi<d>_D--$
 6	kan	kan	PART	F--	_	4	amod	_	SpaceAfter=No|MorphInd=^kan<f>_F--$
 7	?	?	PUNCT	Z--	_	4	punct	_	MorphInd=^?<z>_Z--$
-8	-	-	PUNCT	Z--	_	4	punct	_	MorphInd=^-<z>_Z--$
+8	-	-	PUNCT	Z--	_	9	punct	_	MorphInd=^-<z>_Z--$
 9	Lihat	lihat	VERB	VSA	Number=Sing|Voice=Act	4	parataxis	_	SpaceAfter=No|MorphInd=^lihat<v>_VSA$
-10	,	,	PUNCT	Z--	_	4	punct	_	MorphInd=^,<z>_Z--$
+10	,	,	PUNCT	Z--	_	12	punct	_	MorphInd=^,<z>_Z--$
 11	kamu	kamu	PRON	PS2	Number=Sing|Person=2|Polite=Infm|PronType=Prs	12	nsubj	_	MorphInd=^kamu<p>_PS2$
 12	lupa	lupa	VERB	VSA	Number=Sing|Voice=Act	4	parataxis	_	MorphInd=^lupa<v>_VSA$
 13	lagi	lagi	ADV	D--	_	12	advmod	_	MorphInd=^lagi<d>_D--$

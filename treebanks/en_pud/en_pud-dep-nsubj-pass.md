@@ -50,7 +50,7 @@ The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 4	just	just	ADV	RB	_	8	advmod	8:advmod	_
 5	off	off	ADP	IN	_	8	case	8:case	_
 6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
-7	Mexican	mexican	ADJ	JJ	Degree=Pos	8	amod	8:amod	Proper=True
+7	Mexican	Mexican	ADJ	JJ	Degree=Pos	8	amod	8:amod	Proper=True
 8	coast	coast	NOUN	NN	Number=Sing	3	obl	3:obl:off	_
 9	from	from	ADP	IN	_	10	case	10:case	_
 10	April	April	PROPN	NNP	Number=Sing	3	obl	3:obl:from	_

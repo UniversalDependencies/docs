@@ -22,17 +22,17 @@ The following 30 pairs of parts of speech are connected with `nsubj:cop`: <tt><a
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 2 nsubj:cop	color:blue
-1	ה	ה	DET	DET	PronType=Art	2	det:def	_	_
+1	ה	ה	DET	DET	Definite=Def|PronType=Art	2	det	_	_
 2	מועד	מועד	NOUN	NOUN	Gender=Masc|Number=Sing	9	nsubj:cop	_	_
 3	ה	ה	SCONJ	SCONJ	_	4	mark	_	_
 4	מוצע	הוצע	VERB	VERB	Gender=Masc|HebBinyan=HUFAL|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Pass	2	acl:relcl	_	_
 5	ל	ל	ADP	ADP	_	7	case	_	_
-6	ה_	ה	DET	DET	PronType=Art	7	det:def	_	_
+6	ה_	ה	DET	DET	Definite=Def|PronType=Art	7	det	_	_
 7	רפורמה	רפורמה	NOUN	NOUN	Gender=Fem|Number=Sing	4	obl	_	_
 8	הוא	הוא	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Polarity=Pos|VerbForm=Part|VerbType=Cop	9	cop	_	_
 9	ספטמבר	ספטמבר	NOUN	NOUN	Definite=Cons	0	root	_	_
 10	92	92	NUM	NUM	_	9	compound:smixut	_	SpaceAfter=No
-11	,	,	PUNCT	PUNCT	_	9	punct	_	_
+11	,	,	PUNCT	PUNCT	_	14	punct	_	_
 12	ו	ו	CCONJ	CCONJ	_	14	cc	_	_
 13	היא	הוא	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
 14	תיעשה	נעשה	VERB	VERB	Gender=Fem|HebBinyan=NIFAL|Number=Sing|Person=3|Tense=Fut|Voice=Mid	9	conj	_	_
@@ -50,13 +50,13 @@ The following 30 pairs of parts of speech are connected with `nsubj:cop`: <tt><a
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 2 nsubj:cop	color:blue
-1	ה	ה	DET	DET	PronType=Art	2	det:def	_	_
+1	ה	ה	DET	DET	Definite=Def|PronType=Art	2	det	_	_
 2	רושם	רושם	NOUN	NOUN	Gender=Masc|Number=Sing	9	nsubj:cop	_	_
 3	הוא	הוא	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Polarity=Pos|VerbForm=Part|VerbType=Cop	9	cop	_	_
 4	ש	ש	SCONJ	SCONJ	_	9	mark	_	_
-5	ה	ה	DET	DET	PronType=Art	6	det:def	_	_
+5	ה	ה	DET	DET	Definite=Def|PronType=Art	6	det	_	_
 6	ממסד	ממסד	NOUN	NOUN	Gender=Masc|Number=Sing	9	nsubj	_	_
-7	ה	ה	DET	DET	PronType=Art	8	det:def	_	_
+7	ה	ה	DET	DET	Definite=Def|PronType=Art	8	det	_	_
 8	צרפתי	צרפתי	ADJ	ADJ	Gender=Masc|Number=Sing	6	amod	_	_
 9	מצפה	ציפה	VERB	VERB	Gender=Masc|HebBinyan=PIEL|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	0	root	_	_
 10	ש	ש	SCONJ	SCONJ	_	11	mark	_	_
@@ -75,12 +75,12 @@ The following 30 pairs of parts of speech are connected with `nsubj:cop`: <tt><a
 # visual-style 10	fgColor:white
 # visual-style 10 1 nsubj:cop	color:blue
 1	בעלי	בעל	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	10	nsubj:cop	_	_
-2	ה	ה	DET	DET	PronType=Art	3	det:def	_	_
+2	ה	ה	DET	DET	Definite=Def|PronType=Art	3	det	_	_
 3	השקפה	השקפה	NOUN	NOUN	Gender=Fem|Number=Sing	1	compound:smixut	_	_
 4	מן	מן	ADP	ADP	_	6	case	_	_
-5	ה	ה	DET	DET	PronType=Art	6	det:def	_	_
+5	ה	ה	DET	DET	Definite=Def|PronType=Art	6	det	_	_
 6	סוג	סוג	NOUN	NOUN	Gender=Masc|Number=Sing	3	nmod	_	_
-7	ה	ה	DET	DET	PronType=Art	8	det:def	_	_
+7	ה	ה	DET	DET	Definite=Def|PronType=Art	8	det	_	_
 8	שלישי	שלישי	NUM	NUM	Gender=Masc|Number=Sing	6	amod	_	_
 9	הם	הוא	AUX	AUX	Gender=Masc|Number=Plur|Person=3|Polarity=Pos|VerbForm=Part|VerbType=Cop	10	cop	_	_
 10	מעטים	מעט	ADJ	ADJ	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No

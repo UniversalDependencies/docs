@@ -12,22 +12,22 @@ Some words have combined values of the feature; 1 combinations have been observe
 
 12035 tokens (21%) have a non-empty value of `Tense`.
 6521 types (38%) occur at least once with a non-empty value of `Tense`.
-831 lemmas (14%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (11057; 19% instances), <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> (978; 2% instances).
+828 lemmas (14%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (10995; 19% instances), <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> (1040; 2% instances).
 
 ### `VERB`
 
-11057 <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Tense`.
+10995 <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (9811; 89%), <tt><a href="tr_imst-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (9696; 88%), <tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9594; 87%), <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (9349; 85%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (9349; 85%), <tt><a href="tr_imst-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (9317; 84%), <tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8798; 80%), <tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (8471; 77%), <tt><a href="tr_imst-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6278; 57%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (9811; 89%), <tt><a href="tr_imst-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (9634; 88%), <tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9542; 87%), <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (9287; 84%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (9287; 84%), <tt><a href="tr_imst-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (9255; 84%), <tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8736; 79%), <tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (8409; 76%), <tt><a href="tr_imst-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6216; 57%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (592; 5% of non-empty `Tense`): <em>olacak, yapılacak, gelecek, verecek, yapacak, olmayacak, sürecek, yapacağız, alacak, olacaktır</em>
 * `Fut,Past` (37; 0% of non-empty `Tense`): <em>olacaktı, öğrenecekti, Feshedeceklermiş, anlatacaktım, anlatacaktın, anlatmayacaktım, bekleyecektim, bitmeyecekmiş, bulabileceklerdi, diyecektik</em>
-* `Past` (4263; 39% of non-empty `Tense`): <em>dedi, dedim, olduğunu, oldu, olduğu, söyledi, etti, geldi, verdi, baktı</em>
+* `Past` (4251; 39% of non-empty `Tense`): <em>dedi, dedim, olduğunu, oldu, olduğu, söyledi, etti, geldi, verdi, baktı</em>
 * `Pqp` (267; 2% of non-empty `Tense`): <em>başlamıştı, demişti, gelmişti, etmişti, geçmişti, kalkmıştı, çıkmıştı, başlamışlardı, dönmüştü, heyecanlanmıştı</em>
-* `Pres` (5898; 53% of non-empty `Tense`): <em>olan, değil, olur, gelen, var, diyor, demek, olmaz, olsun, yapılan</em>
+* `Pres` (5848; 53% of non-empty `Tense`): <em>olan, olur, değil, gelen, var, diyor, demek, olmaz, olsun, yapılan</em>
 
 <table>
   <tr><th>Paradigm <i>ol</i></th><th><tt>Fut,Past</tt></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Pqp</tt></th></tr>
@@ -168,14 +168,14 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-978 <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Tense`.
+1040 <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (975; 100%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (868; 89%), <tt><a href="tr_imst-feat-Person.html">Person</a></tt><tt>=3</tt> (757; 77%), <tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (697; 71%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1037; 100%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (929; 89%), <tt><a href="tr_imst-feat-Person.html">Person</a></tt><tt>=3</tt> (813; 78%), <tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (749; 72%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Past` (346; 35% of non-empty `Tense`): <em>ydi, dı, ydı, tu, ydu, tı, di, ti, ydim, du</em>
-* `Pres` (632; 65% of non-empty `Tense`): <em>dir, mi, mı, dır, mu, dur, sa, tir, im, yim</em>
+* `Past` (358; 34% of non-empty `Tense`): <em>ydi, dı, ydı, tu, ydu, tı, di, değildi, ti, ydim</em>
+* `Pres` (682; 66% of non-empty `Tense`): <em>dir, mi, mı, dır, değil, mu, dur, sa, tir, im</em>
 * `EMPTY` (66): <em>ise</em>
 
 <table>
@@ -204,14 +204,14 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> VERB</tt> (629; 69%),
+<tt>VERB --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> VERB</tt> (631; 69%),
 <tt>VERB --[<tt><a href="tr_imst-dep-aux-q.html">aux:q</a></tt>]--> AUX</tt> (80; 75%),
-<tt>VERB --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (69; 51%),
+<tt>VERB --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (71; 52%),
 <tt>VERB --[<tt><a href="tr_imst-dep-compound.html">compound</a></tt>]--> VERB</tt> (47; 73%),
+<tt>VERB --[<tt><a href="tr_imst-dep-compound-redup.html">compound:redup</a></tt>]--> VERB</tt> (22; 96%),
 <tt>VERB --[<tt><a href="tr_imst-dep-cop.html">cop</a></tt>]--> AUX</tt> (22; 69%),
-<tt>VERB --[<tt><a href="tr_imst-dep-compound-redup.html">compound:redup</a></tt>]--> VERB</tt> (21; 95%),
-<tt>VERB --[<tt><a href="tr_imst-dep-cop.html">cop</a></tt>]--> VERB</tt> (7; 78%),
-<tt>VERB --[<tt><a href="tr_imst-dep-cc.html">cc</a></tt>]--> VERB</tt> (5; 56%),
+<tt>VERB --[<tt><a href="tr_imst-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (14; 52%),
+<tt>VERB --[<tt><a href="tr_imst-dep-aux.html">aux</a></tt>]--> AUX</tt> (5; 71%),
 <tt>VERB --[<tt><a href="tr_imst-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (4; 67%),
-<tt>VERB --[<tt><a href="tr_imst-dep-obl.html">obl</a></tt>]--> VERB</tt> (2; 67%).
+<tt>VERB --[<tt><a href="tr_imst-dep-cc.html">cc</a></tt>]--> VERB</tt> (2; 67%).
 

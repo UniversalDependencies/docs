@@ -114,7 +114,7 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="grc_perseus-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (4657; 55%),
 <tt>VERB --[<tt><a href="grc_perseus-dep-conj.html">conj</a></tt>]--> VERB</tt> (4201; 84%),
 <tt>VERB --[<tt><a href="grc_perseus-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (201; 60%),
-<tt>VERB --[<tt><a href="grc_perseus-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (79; 53%),
+<tt>VERB --[<tt><a href="grc_perseus-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (80; 54%),
 <tt>VERB --[<tt><a href="grc_perseus-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (57; 61%),
 <tt>VERB --[<tt><a href="grc_perseus-dep-obl.html">obl</a></tt>]--> VERB</tt> (52; 51%),
 <tt>VERB --[<tt><a href="grc_perseus-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (19; 63%),

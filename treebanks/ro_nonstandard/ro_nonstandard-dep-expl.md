@@ -29,7 +29,7 @@ The following 9 pairs of parts of speech are connected with `expl`: <tt><a href=
 4	,	,	PUNCT	COMMA	_	5	punct	_	ref=MATT20.32
 5	chemă	chema	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	ref=MATT20.32
 6	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MATT20.32
-7	ei	el	PRON	Pp3mpa--------s	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Strong	5	nmod:pmod	_	ref=MATT20.32
+7	ei	el	PRON	Pp3mpa--------s	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Strong	5	obl:pmod	_	ref=MATT20.32
 8	și	și	CCONJ	Ccssp	Polarity=Pos	9	cc	_	ref=MATT20.32
 9	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	ref=MATT20.32|SpaceAfter=No
 10	:	:	PUNCT	COLON	_	12	punct	_	ref=MATT20.32

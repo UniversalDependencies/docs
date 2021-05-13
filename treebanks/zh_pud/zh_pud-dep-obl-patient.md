@@ -31,7 +31,7 @@ The following 4 pairs of parts of speech are connected with `obl:patient`: <tt><
 6	授予	_	VERB	VV	_	13	csubj	_	SpaceAfter=No|Translit=shòuyǔ
 7	精心	_	ADV	RB	_	8	advmod	_	SpaceAfter=No|Translit=jīngxīn
 8	培育	_	VERB	VV	_	10	acl:relcl	_	SpaceAfter=No|Translit=péiyù
-9	的	_	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No|Translit=de
+9	的	_	PART	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de
 10	守護者們	_	VERB	VV	_	6	iobj	_	SpaceAfter=No|Translit=shǒuhùzhěmen
 11	安全	_	AUX	JJ	_	13	cop	_	SpaceAfter=No|Translit='ānquán
 12	得	_	PART	DEV	_	13	mark:prt	_	SpaceAfter=No|Translit=de

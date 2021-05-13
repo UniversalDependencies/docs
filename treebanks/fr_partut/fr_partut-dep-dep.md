@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 4	nombre	nombre	NOUN	S	Gender=Masc|Number=Sing	10	nsubj	_	_
 5	de	de	ADP	E	_	7	case	_	_
 6	fausses	faux	ADJ	A	Gender=Fem|Number=Plur	7	amod	_	_
-7	pièces	pièces	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
+7	pièces	pièce	NOUN	S	Gender=Fem|Number=Plur	4	nmod	_	_
 8	en	en	ADP	E	_	9	case	_	_
 9	euros	euro	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	_
 10	continue	continuer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -37,7 +37,7 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 13	,	,	PUNCT	FF	_	12	punct	_	_
 14	tout	tout	ADV	B	_	16	advmod	_	_
 15	en	en	ADP	E	_	16	case	_	_
-16	demeurant	demeurer	VERB	V	VerbForm=Ger	12	advcl	_	_
+16	demeurant	demeurer	VERB	V	Tense=Pres|VerbForm=Part	12	advcl	_	_
 17	limité	limiter	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	dep	_	_
 18	dans	dans	ADP	E	_	20	case	_	_
 19	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_

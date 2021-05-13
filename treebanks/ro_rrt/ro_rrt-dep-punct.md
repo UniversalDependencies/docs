@@ -10,10 +10,10 @@ This relation is universal.
 
 27990 nodes (13%) are attached to their parents as `punct`.
 
-17240 instances of `punct` (62%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.20789567702751.
+17236 instances of `punct` (62%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.20746695248303.
 
-The following 16 pairs of parts of speech are connected with `punct`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (13398; 48% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (8322; 30% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (1894; 7% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (1374; 5% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (1093; 4% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (901; 3% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (533; 2% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (291; 1% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (46; 0% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (42; 0% instances), <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (33; 0% instances), <tt><a href="ro_rrt-pos-X.html">X</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (25; 0% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (18; 0% instances), <tt><a href="ro_rrt-pos-PART.html">PART</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (17; 0% instances), <tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `punct`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (13427; 48% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (8307; 30% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (1907; 7% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (1350; 5% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (1095; 4% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (893; 3% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (533; 2% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (290; 1% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (46; 0% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (42; 0% instances), <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (33; 0% instances), <tt><a href="ro_rrt-pos-X.html">X</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (28; 0% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (19; 0% instances), <tt><a href="ro_rrt-pos-PART.html">PART</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (17; 0% instances), <tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -34,7 +34,7 @@ The following 16 pairs of parts of speech are connected with `punct`: <tt><a hre
 10	CU	cu	ADP	Spsa	AdpType=Prep|Case=Acc	9	fixed	_	_
 11	OCHII	ochi	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	9	fixed	_	_
 12	PE	pe	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
-13	TINE	tu	PRON	Pp2-sa--------s	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Strong	9	nmod:pmod	_	SpaceAfter=No
+13	TINE	tu	PRON	Pp2-sa--------s	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Strong	9	obl:pmod	_	SpaceAfter=No
 14	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
 ~~~
@@ -49,7 +49,7 @@ The following 16 pairs of parts of speech are connected with `punct`: <tt><a hre
 1	Scrisul	scris	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	6	nsubj	_	_
 2	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
 3	sine	sine	PRON	Px3--a--------s	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Strong	1	amod	_	_
-4	era	fi	AUX	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
+4	era	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
 5	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	6	det	_	_
 6	treabă	treabă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
 7	ușoară	ușor	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No

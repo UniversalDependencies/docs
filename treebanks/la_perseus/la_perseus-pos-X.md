@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Latin-Perseus: POS Tags: `X`
 
-There are 31 `X` lemmas (1%), 33 `X` types (0%) and 54 `X` tokens (0%).
-Out of 12 observed tags, the rank of `X` is: 9 in number of lemmas, 9 in number of types and 11 in number of tokens.
+There are 26 `X` lemmas (1%), 27 `X` types (0%) and 48 `X` tokens (0%).
+Out of 13 observed tags, the rank of `X` is: 9 in number of lemmas, 9 in number of types and 11 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>,, que, C, L, M, unknown, Aefulanus, Aulus, Cn, Q</em>
+The 10 most frequent `X` lemmas: <em>,, que, C, L, M, unknown, Aulus, Cn, Q, Tiberius</em>
 
-The 10 most frequent `X` types:  <em>c, ,, L, M, A, Aefulanum, Cn, Q, Ti, Trimalchio</em>
+The 10 most frequent `X` types:  <em>c, ,, L, M, A, Cn, Q, Ti, Trimalchio, adcedere</em>
 
-The 10 most frequent ambiguous lemmas: <em>,</em> (<tt><a href="la_perseus-pos-PUNCT.html">PUNCT</a></tt> 2058, <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="la_perseus-pos-X.html">X</a></tt> 6), <em>que</em> (<tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> 294, <tt><a href="la_perseus-pos-X.html">X</a></tt> 6), <em>C</em> (<tt><a href="la_perseus-pos-X.html">X</a></tt> 5, <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> 1), <em>L</em> (<tt><a href="la_perseus-pos-X.html">X</a></tt> 4, <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> 2), <em>M</em> (<tt><a href="la_perseus-pos-X.html">X</a></tt> 4, <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> 1), <em>Q</em> (<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="la_perseus-pos-X.html">X</a></tt> 1), <em>Tiberius</em> (<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="la_perseus-pos-X.html">X</a></tt> 1), <em>Trimalchio</em> (<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> 29, <tt><a href="la_perseus-pos-X.html">X</a></tt> 1), <em>accedo</em> (<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> 13, <tt><a href="la_perseus-pos-X.html">X</a></tt> 1), <em>ceterus</em> (<tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> 15, <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> 2, <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 1, <tt><a href="la_perseus-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>,</em> (<tt><a href="la_perseus-pos-PUNCT.html">PUNCT</a></tt> 2058, <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="la_perseus-pos-X.html">X</a></tt> 6), <em>que</em> (<tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> 294, <tt><a href="la_perseus-pos-X.html">X</a></tt> 6), <em>C</em> (<tt><a href="la_perseus-pos-X.html">X</a></tt> 5, <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> 1), <em>L</em> (<tt><a href="la_perseus-pos-X.html">X</a></tt> 4, <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> 2), <em>M</em> (<tt><a href="la_perseus-pos-X.html">X</a></tt> 4, <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> 1), <em>unknown</em> (<tt><a href="la_perseus-pos-X.html">X</a></tt> 3, <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> 1), <em>Q</em> (<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="la_perseus-pos-X.html">X</a></tt> 1), <em>Tiberius</em> (<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="la_perseus-pos-X.html">X</a></tt> 1), <em>Trimalchio</em> (<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> 29, <tt><a href="la_perseus-pos-X.html">X</a></tt> 1), <em>accedo</em> (<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> 13, <tt><a href="la_perseus-pos-X.html">X</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>c</em> (<tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> 14, <tt><a href="la_perseus-pos-X.html">X</a></tt> 6, <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> 1), <em>,</em> (<tt><a href="la_perseus-pos-PUNCT.html">PUNCT</a></tt> 2058, <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="la_perseus-pos-X.html">X</a></tt> 6), <em>L</em> (<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="la_perseus-pos-X.html">X</a></tt> 4), <em>M</em> (<tt><a href="la_perseus-pos-X.html">X</a></tt> 4, <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> 1), <em>A</em> (<tt><a href="la_perseus-pos-ADP.html">ADP</a></tt> 5, <tt><a href="la_perseus-pos-X.html">X</a></tt> 1), <em>Q</em> (<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="la_perseus-pos-X.html">X</a></tt> 1), <em>Trimalchio</em> (<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> 23, <tt><a href="la_perseus-pos-X.html">X</a></tt> 1), <em>adcedere</em> (<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> 1, <tt><a href="la_perseus-pos-X.html">X</a></tt> 1), <em>ceteris</em> (<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="la_perseus-pos-X.html">X</a></tt> 1), <em>quom</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="la_perseus-pos-X.html">X</a></tt> 1)
 
@@ -54,40 +54,34 @@ The 10 most frequent ambiguous types:  <em>c</em> (<tt><a href="la_perseus-pos-C
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.064516 (the average of all parts of speech is 2.099410).
+The form / lemma ratio of `X` is 1.038462 (the average of all parts of speech is 2.099410).
 
-The 1st highest number of forms (4) was observed with the lemma “unknown”: <em>conlubuissent, eque, icurae, mih</em>.
+The 1st highest number of forms (3) was observed with the lemma “unknown”: <em>eque, icurae, mih</em>.
 
 The 2nd highest number of forms (1) was observed with the lemma “,”: <em>,</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “Aefulanus”: <em>Aefulanum</em>.
+The 3rd highest number of forms (1) was observed with the lemma “Aulus”: <em>A</em>.
 
-`X` occurs with 9 features: <tt><a href="la_perseus-feat-Number.html">Number</a></tt> (4; 7% instances), <tt><a href="la_perseus-feat-Tense.html">Tense</a></tt> (4; 7% instances), <tt><a href="la_perseus-feat-VerbForm.html">VerbForm</a></tt> (4; 7% instances), <tt><a href="la_perseus-feat-Voice.html">Voice</a></tt> (4; 7% instances), <tt><a href="la_perseus-feat-Mood.html">Mood</a></tt> (3; 6% instances), <tt><a href="la_perseus-feat-Person.html">Person</a></tt> (3; 6% instances), <tt><a href="la_perseus-feat-Case.html">Case</a></tt> (2; 4% instances), <tt><a href="la_perseus-feat-Gender.html">Gender</a></tt> (2; 4% instances), <tt><a href="la_perseus-feat-Aspect.html">Aspect</a></tt> (1; 2% instances)
-
-`X` occurs with 16 feature-value pairs: `Aspect=Perf`, `Case=Acc`, `Gender=Masc`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=2`, `Person=3`, `Tense=Past`, `Tense=Pqp`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `Voice=Act`, `Voice=Pass`
-
-`X` occurs with 7 feature combinations.
-The most frequent feature combination is `_` (48 tokens).
-Examples: <em>c, ,, L, M, A, Cn, Q, Ti, Trimalchio, adcedere</em>
+`X` does not occur with any features.
 
 
 ## Relations
 
-`X` nodes are attached to their parents using 9 different relations: <tt><a href="la_perseus-dep-nmod.html">nmod</a></tt> (21; 39% instances), <tt><a href="la_perseus-dep-advmod.html">advmod</a></tt> (10; 19% instances), <tt><a href="la_perseus-dep-obj.html">obj</a></tt> (6; 11% instances), <tt><a href="la_perseus-dep-punct.html">punct</a></tt> (6; 11% instances), <tt><a href="la_perseus-dep-cc.html">cc</a></tt> (5; 9% instances), <tt><a href="la_perseus-dep-root.html">root</a></tt> (3; 6% instances), <tt><a href="la_perseus-dep-mark.html">mark</a></tt> (1; 2% instances), <tt><a href="la_perseus-dep-nsubj.html">nsubj</a></tt> (1; 2% instances), <tt><a href="la_perseus-dep-parataxis.html">parataxis</a></tt> (1; 2% instances)
+`X` nodes are attached to their parents using 8 different relations: <tt><a href="la_perseus-dep-nmod.html">nmod</a></tt> (19; 40% instances), <tt><a href="la_perseus-dep-advmod.html">advmod</a></tt> (10; 21% instances), <tt><a href="la_perseus-dep-punct.html">punct</a></tt> (6; 13% instances), <tt><a href="la_perseus-dep-cc.html">cc</a></tt> (5; 10% instances), <tt><a href="la_perseus-dep-obj.html">obj</a></tt> (4; 8% instances), <tt><a href="la_perseus-dep-root.html">root</a></tt> (2; 4% instances), <tt><a href="la_perseus-dep-mark.html">mark</a></tt> (1; 2% instances), <tt><a href="la_perseus-dep-nsubj.html">nsubj</a></tt> (1; 2% instances)
 
-Parents of `X` nodes belong to 6 different parts of speech: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (24; 44% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (23; 43% instances),  (3; 6% instances), <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> (2; 4% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="la_perseus-pos-X.html">X</a></tt> (1; 2% instances)
+Parents of `X` nodes belong to 6 different parts of speech: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (21; 44% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (21; 44% instances),  (2; 4% instances), <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> (2; 4% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="la_perseus-pos-X.html">X</a></tt> (1; 2% instances)
 
-24 (44%) `X` nodes are leaves.
+22 (46%) `X` nodes are leaves.
 
-21 (39%) `X` nodes have one child.
+20 (42%) `X` nodes have one child.
 
-3 (6%) `X` nodes have two children.
+2 (4%) `X` nodes have two children.
 
-6 (11%) `X` nodes have three or more children.
+4 (8%) `X` nodes have three or more children.
 
 The highest child degree of a `X` node is 8.
 
-Children of `X` nodes are attached using 15 different relations: <tt><a href="la_perseus-dep-punct.html">punct</a></tt> (22; 39% instances), <tt><a href="la_perseus-dep-advmod.html">advmod</a></tt> (7; 12% instances), <tt><a href="la_perseus-dep-obj.html">obj</a></tt> (6; 11% instances), <tt><a href="la_perseus-dep-nsubj.html">nsubj</a></tt> (5; 9% instances), <tt><a href="la_perseus-dep-advcl.html">advcl</a></tt> (4; 7% instances), <tt><a href="la_perseus-dep-acl.html">acl</a></tt> (2; 4% instances), <tt><a href="la_perseus-dep-mark.html">mark</a></tt> (2; 4% instances), <tt><a href="la_perseus-dep-obl.html">obl</a></tt> (2; 4% instances), <tt><a href="la_perseus-dep-amod.html">amod</a></tt> (1; 2% instances), <tt><a href="la_perseus-dep-case.html">case</a></tt> (1; 2% instances), <tt><a href="la_perseus-dep-cc.html">cc</a></tt> (1; 2% instances), <tt><a href="la_perseus-dep-conj.html">conj</a></tt> (1; 2% instances), <tt><a href="la_perseus-dep-cop.html">cop</a></tt> (1; 2% instances), <tt><a href="la_perseus-dep-csubj.html">csubj</a></tt> (1; 2% instances), <tt><a href="la_perseus-dep-parataxis.html">parataxis</a></tt> (1; 2% instances)
+Children of `X` nodes are attached using 13 different relations: <tt><a href="la_perseus-dep-punct.html">punct</a></tt> (20; 45% instances), <tt><a href="la_perseus-dep-advmod.html">advmod</a></tt> (6; 14% instances), <tt><a href="la_perseus-dep-advcl.html">advcl</a></tt> (4; 9% instances), <tt><a href="la_perseus-dep-obj.html">obj</a></tt> (3; 7% instances), <tt><a href="la_perseus-dep-mark.html">mark</a></tt> (2; 5% instances), <tt><a href="la_perseus-dep-nsubj.html">nsubj</a></tt> (2; 5% instances), <tt><a href="la_perseus-dep-acl.html">acl</a></tt> (1; 2% instances), <tt><a href="la_perseus-dep-amod.html">amod</a></tt> (1; 2% instances), <tt><a href="la_perseus-dep-case.html">case</a></tt> (1; 2% instances), <tt><a href="la_perseus-dep-cop.html">cop</a></tt> (1; 2% instances), <tt><a href="la_perseus-dep-csubj.html">csubj</a></tt> (1; 2% instances), <tt><a href="la_perseus-dep-obl.html">obl</a></tt> (1; 2% instances), <tt><a href="la_perseus-dep-parataxis.html">parataxis</a></tt> (1; 2% instances)
 
-Children of `X` nodes belong to 10 different parts of speech: <tt><a href="la_perseus-pos-PUNCT.html">PUNCT</a></tt> (22; 39% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (11; 19% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (8; 14% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (6; 11% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (4; 7% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="la_perseus-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances), <tt><a href="la_perseus-pos-X.html">X</a></tt> (1; 2% instances)
+Children of `X` nodes belong to 9 different parts of speech: <tt><a href="la_perseus-pos-PUNCT.html">PUNCT</a></tt> (20; 45% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (7; 16% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (6; 14% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (5; 11% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="la_perseus-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances), <tt><a href="la_perseus-pos-X.html">X</a></tt> (1; 2% instances)
 

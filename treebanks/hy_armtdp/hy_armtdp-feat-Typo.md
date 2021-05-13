@@ -72,7 +72,7 @@ The most frequent other feature values with which `ADV` and `Typo` co-occurred: 
 
 1 <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (1; 100%).
+The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="hy_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (1; 100%).
 
 `PRON` tokens may have the following values of `Typo`:
 

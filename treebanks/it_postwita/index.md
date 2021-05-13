@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Manuela Sanguinetti.
 
 Repository: [UD_Italian-PoSTWITA](https://github.com/UniversalDependencies/UD_Italian-PoSTWITA)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_postwita27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_postwita28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -79,11 +79,11 @@ The treebank development has also been possible thanks to the contribution of Fa
 
 
 <ul>
-<li>This corpus contains 6713 sentences, 119272 tokens and 124445 syntactic words.</li>
+<li>This corpus contains 6713 sentences, 119376 tokens and 124557 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 13160 tokens (11%) that are not followed by a space.</li>
+<li>This corpus contains 13288 tokens (11%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -91,11 +91,11 @@ The treebank development has also been possible thanks to the contribution of Fa
 </ul>
 
 <ul>
-<li>This corpus contains 4133 types of words that contain both letters and punctuation. Examples: @user, l', #grillo, #monti, @user1, @user2, #governo, e', c', #serviziopubblico, @user3, #piazzapulita, #m5s, d', un', #manovra, #berlusconi, #mario, #politica, @user4, #lega, #ministri, #pd, #italia, :D, #Napolitano, po', #oramonti, #sapevatelo, #bersani, #rimontiamo, #pdl, @user5, B., #fullmonti, #bossi, c:, #rt, #crisi, #m5stour, #news, #roma, #fatepresto, #liberalizzazioni, #ballarò, #cinemaInChiesa, #movimento5stelle, #antipolitica, #opencamera, #postofisso</li>
+<li>This corpus contains 4116 types of words that contain both letters and punctuation. Examples: @user, l', #grillo, #monti, @user1, @user2, #governo, e', c', #serviziopubblico, @user3, #piazzapulita, #m5s, d', un', #manovra, #berlusconi, #mario, #politica, @user4, #lega, #ministri, #pd, #italia, :D, #Napolitano, po', #oramonti, #sapevatelo, #bersani, #rimontiamo, #pdl, @user5, B., #fullmonti, #bossi, c:, #rt, #crisi, #m5stour, #news, #roma, #fatepresto, #liberalizzazioni, #ballarò, #cinemaInChiesa, #movimento5stelle, #antipolitica, #opencamera, #postofisso</li>
 </ul>
 
 <ul>
-<li>This corpus contains 5145 multi-word tokens. On average, one multi-word token consists of 2.01 syntactic words.</li>
+<li>This corpus contains 5153 multi-word tokens. On average, one multi-word token consists of 2.01 syntactic words.</li>
 <li>There are 459 types of multi-word tokens. Examples: del, della, al, alla, dei, nel, sul, dal, dell', all', alle, ai, delle, sulla, nella, dalla, degli, sui, nei, sulle, agli, dai, col, dall', nell', dalle, sull', allo, dello, nelle, seguimi, farlo, farsi, negli, dagli, farci, coi, ditemi, glielo, dirlo, nello, parlarne, spararsi, dallo, dargli, dirla, farla, farmi, fatemi, permettersi.</li>
 </ul>
 
@@ -112,11 +112,11 @@ The treebank development has also been possible thanks to the contribution of Fa
 </ul>
 
 <ul>
-<li>This corpus contains 68 lemmas tagged as pronouns (PRON): alcuno, altro, ce, che, chi, chiunque, ché, ci, ciò, coloro, cosa, costui, cui, c’, egli, entrambi, esso, gli, il, io, la, le, li, lo, loro, me, mi, mio, molto, ne, nessuno, niente, noi, nostro, nulla, ognuno, parecchio, poco, qual, qualche, qualcosa, qualcosaltro, qualcuno, quale, quando, quanto, quello, questo, se, si, stesso, suo, sé, tanto, te, terzo, ti, tu, tuo, tutto, una, uni, uno, ve, vi, voi, voialtri, vostro</li>
+<li>This corpus contains 70 lemmas tagged as pronouns (PRON): alcuno, altro, ce, che, chi, chiunque, ché, ci, ciò, coloro, cosa, costui, cui, c’, egli, entrambi, esso, gli, il, io, la, le, lei, li, lo, loro, lui, me, mi, mio, molto, ne, nessuno, niente, noi, nostro, nulla, ognuno, parecchio, poco, qual, qualche, qualcosa, qualcosaltro, qualcuno, quale, quando, quanto, quello, questo, se, si, stesso, suo, sé, tanto, te, terzo, ti, tu, tuo, tutto, una, uni, uno, ve, vi, voi, voialtri, vostro</li>
 </ul>
 
 <ul>
-<li>This corpus contains 42 lemmas tagged as determiners (DET): 1, alcuno, altro, certo, che, del, della, di, diverso, il, l', lo, loro, mio, molto, nessuno, niente, nostro, ogni, poco, proprio, qualche, quale, qualsiasi, qualunque, quanto, quello, questo, simile, stesso, sto, suo, tale, tantissimo, tanto, troppo, tuo, tutto, uno, vario, vostro, ‎lo</li>
+<li>This corpus contains 43 lemmas tagged as determiners (DET): 1, alcuno, altro, certo, che, del, della, di, diverso, il, l', lo, loro, mio, molto, nessuno, niente, nostro, ogni, poco, proprio, qualche, quale, qualsiasi, qualunque, quanto, quello, questo, simile, stesso, sto, suo, tale, tantissimo, tanto, troppo, tuo, tutto, un, uno, vario, vostro, ‎lo</li>
 </ul>
 
 <ul>
@@ -138,7 +138,7 @@ The treebank development has also been possible thanks to the contribution of Fa
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: è, sono, ha, ho, e', siamo, sei, può, hanno, sarà</li>
+    <li>AUX: è, sono, ha, e', ho, siamo, sei, può, hanno, sarà</li>
     <li>VERB: fa, è, ha, dice, piace, va, ho, parla, amo, fanno</li>
   </ul>
   </li>
@@ -157,7 +157,7 @@ The treebank development has also been possible thanks to the contribution of Fa
   <li>Inf
   <ul>
     <li>AUX: essere, aver, voler, esser, poter, avere, dover, potere, volere</li>
-    <li>VERB: fare, far, dire, vedere, andare, avere, parlare, pagare, ridere, uscire</li>
+    <li>VERB: fare, far, dire, vedere, andare, avere, pagare, parlare, ridere, uscire</li>
   </ul>
   </li>
 </ul>
@@ -201,7 +201,6 @@ The treebank development has also been possible thanks to the contribution of Fa
       <li>PRON: lo, tutti, tutto, quello, l', li, gli, questo, uno, nessuno</li>
       <li>PROPN: pepe</li>
       <li>VERB-Part: fatto, detto, dato, nominato, messo, trovato, letto, perso, iniziato, rotto</li>
-      <li>X: mal</li>
     </ul>
   </li>
 </ul>
@@ -238,7 +237,7 @@ The treebank development has also been possible thanks to the contribution of Fa
       <li>VERB: fa, fatto, è, ha, dice, piace, va, ho, detto, parla</li>
       <li>VERB-Fin: fa, è, ha, dice, piace, va, ho, parla, amo, so</li>
       <li>VERB-Part: fatto, detto, dato, nominato, fatta, messo, trovato, letto, perso, iniziato</li>
-      <li>X: mal, te</li>
+      <li>X: te</li>
     </ul>
   </li>
 </ul>
@@ -282,6 +281,14 @@ The treebank development has also been possible thanks to the contribution of Fa
   </li>
 </ul>
 
+<ul>
+  <li>Cmp
+    <ul>
+      <li>ADJ: peggiori</li>
+    </ul>
+  </li>
+</ul>
+
 
 
 <h3>Verbal Features</h3>
@@ -305,8 +312,8 @@ The treebank development has also been possible thanks to the contribution of Fa
   <li>Imp
     <ul>
       <li>AUX-Fin: abbiamo, siate, Siamo, vogliamo, Sii, stai, state, stiamo</li>
-      <li>VERB: speriamo, segui, fate, Controlla, dite, scusa, guarda, vai, scusate, vediamo</li>
-      <li>VERB-Fin: speriamo, segui, fate, Controlla, dite, scusa, guarda, vai, scusate, vediamo</li>
+      <li>VERB: speriamo, fate, segui, Controlla, dite, scusa, guarda, vai, scusate, vediamo</li>
+      <li>VERB-Fin: speriamo, fate, segui, Controlla, dite, scusa, guarda, vai, scusate, vediamo</li>
     </ul>
   </li>
 </ul>
@@ -314,7 +321,7 @@ The treebank development has also been possible thanks to the contribution of Fa
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: è, sono, ha, ho, e', sei, siamo, può, hanno, sarà</li>
+      <li>AUX-Fin: è, sono, ha, e', ho, sei, siamo, può, hanno, sarà</li>
       <li>VERB-Fin: fa, è, ha, dice, piace, va, ho, parla, amo, fanno</li>
     </ul>
   </li>
@@ -421,7 +428,7 @@ The treebank development has also been possible thanks to the contribution of Fa
   <li>Int
     <ul>
       <li>DET: che, quale, quali, quanta, quanti, quanto, ke, quante</li>
-      <li>PRON: cosa, chi, che, quanto, cos', quale, qnti, qual', quali, QUANDO</li>
+      <li>PRON: cosa, chi, che, quanto, cos', quale, cos, qnti, qual', quali</li>
     </ul>
   </li>
 </ul>
@@ -570,20 +577,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1164)</li>
+      <li>VERB-Fin--NOUN (1169)</li>
       <li>VERB-Fin--NOUN-ADP(di) (4)</li>
       <li>VERB-Fin--NOUN-ADP(senza) (1)</li>
-      <li>VERB-Fin--PRON (908)</li>
+      <li>VERB-Fin--PRON (912)</li>
       <li>VERB-Fin--PRON-ADP(a) (1)</li>
       <li>VERB-Fin--PRON-ADP(in) (1)</li>
       <li>VERB-Ger--NOUN (28)</li>
       <li>VERB-Ger--PRON (27)</li>
-      <li>VERB-Inf--NOUN (92)</li>
-      <li>VERB-Inf--PRON (72)</li>
+      <li>VERB-Inf--NOUN (93)</li>
+      <li>VERB-Inf--PRON (74)</li>
       <li>VERB-Inf--PRON-ADP(per) (1)</li>
       <li>VERB-Part--NOUN (177)</li>
       <li>VERB-Part--NOUN-ADP(oltre) (1)</li>
-      <li>VERB-Part--PRON (150)</li>
+      <li>VERB-Part--PRON (151)</li>
     </ul>
   </li>
 </ul>
@@ -591,19 +598,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1662)</li>
+      <li>VERB-Fin--NOUN (1670)</li>
       <li>VERB-Fin--NOUN-ADP(a) (1)</li>
       <li>VERB-Fin--NOUN-ADP(di) (3)</li>
       <li>VERB-Fin--NOUN-ADP(su) (1)</li>
-      <li>VERB-Fin--PRON (950)</li>
+      <li>VERB-Fin--PRON (949)</li>
       <li>VERB-Fin--PRON-ADP(contro) (1)</li>
-      <li>VERB-Ger--NOUN (77)</li>
+      <li>VERB-Ger--NOUN (76)</li>
       <li>VERB-Ger--PRON (28)</li>
-      <li>VERB-Inf--NOUN (812)</li>
-      <li>VERB-Inf--PRON (344)</li>
+      <li>VERB-Inf--NOUN (815)</li>
+      <li>VERB-Inf--PRON (342)</li>
       <li>VERB-Inf--PRON-ADP(a) (1)</li>
       <li>VERB-Part--NOUN (350)</li>
-      <li>VERB-Part--PRON (150)</li>
+      <li>VERB-Part--PRON (151)</li>
     </ul>
   </li>
 </ul>
@@ -611,12 +618,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--PRON (681)</li>
+      <li>VERB-Fin--PRON (682)</li>
       <li>VERB-Fin--PRON-ADP(a) (3)</li>
       <li>VERB-Ger--PRON (12)</li>
       <li>VERB-Inf--NOUN-ADP(a) (1)</li>
-      <li>VERB-Inf--PRON (94)</li>
-      <li>VERB-Part--PRON (130)</li>
+      <li>VERB-Inf--PRON (95)</li>
+      <li>VERB-Part--PRON (131)</li>
     </ul>
   </li>
 </ul>

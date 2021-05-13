@@ -27,7 +27,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (143; 13% of non-empty `Person`): <em>kita, aku, kami, saya, kamilah</em>
 * `2` (108; 10% of non-empty `Person`): <em>kamu, engkau, anda, kalian, kau</em>
 * `3` (885; 78% of non-empty `Person`): <em>ia, mereka, dia, beliau, Nya, merekapun</em>
-* `EMPTY` (3628): <em>yang, apa, dia, siapa, dirinya, apakah, siapakah, saat, adanya, nya</em>
+* `EMPTY` (3625): <em>yang, apa, dia, siapa, dirinya, apakah, siapakah, saat, adanya, nya</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (14) occur only with one value of `Person`.
 
@@ -40,7 +40,7 @@ The most frequent other feature values with which `PROPN` and `Person` co-occurr
 `PROPN` tokens may have the following values of `Person`:
 
 * `1` (8; 100% of non-empty `Person`): <em>Kutai, Kumari, Kusambut, Kustilah</em>
-* `EMPTY` (22782): <em>indonesia, kabupaten, kecamatan, Jawa, provinsi, Amerika, Timur, Barat, jepang, tengah</em>
+* `EMPTY` (22765): <em>indonesia, kabupaten, kecamatan, Jawa, provinsi, Amerika, Timur, Barat, jepang, tengah</em>
 
 ### `VERB`
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 * `1` (5; 83% of non-empty `Person`): <em>kukatakan, Kubebaskankah, Kutebuskah, kudengar</em>
 * `2` (1; 17% of non-empty `Person`): <em>kaukatakan</em>
-* `EMPTY` (12196): <em>menjadi, merupakan, memiliki, ada, terletak, digunakan, berada, menggunakan, dikenal, terjadi</em>
+* `EMPTY` (12195): <em>menjadi, merupakan, memiliki, ada, terletak, digunakan, berada, menggunakan, dikenal, terjadi</em>
 
 <table>
   <tr><th>Paradigm <i>katakan</i></th><th><tt>1</tt></th><th><tt>2</tt></th></tr>

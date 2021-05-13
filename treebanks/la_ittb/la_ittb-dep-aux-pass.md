@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="la_ittb-dep-aux.html">aux</a></tt>.
 
-2928 nodes (1%) are attached to their parents as `aux:pass`.
+2929 nodes (1%) are attached to their parents as `aux:pass`.
 
 2198 instances of `aux:pass` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.21857923497268.
+Average distance between parent and child is 1.21952884943667.
 
-The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (2927; 100% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (2928; 100% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,8 +25,8 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 1	tum	tum	CCONJ	O4	_	2	cc	_	_
 2	etiam	etiam	ADV	O4|vgr1	_	0	root	_	_
 3	propter	propter	ADP	S4	AdpType=Prep	4	case	_	_
-4	multa	multus	NOUN	B1|grn1|casM|gen3	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	2	conj	_	_
-5	quae	qui	PRON	F1|grn1|casJ|gen3|vgr1	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|PronType=Rel	6	nsubj:pass	_	_
+4	multa	multus	NOUN	B1|grn1|casM|gen3	Case=Acc|Gender=Neut|Number=Plur	2	conj	_	_
+5	quae	qui	PRON	F1|grn1|casJ|gen3|vgr1	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	6	nsubj:pass	_	_
 6	praeexiguntur	praeexigo	VERB	L3|modJ|tem1|gen9	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	acl:relcl	_	SpaceAfter=No
 7	,	,	PUNCT	Punc	_	9	punct	_	_
 8	ut	ut	SCONJ	O4|vgr1	_	9	mark	_	_

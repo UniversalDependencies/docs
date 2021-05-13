@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>fie</em> (<tt><a href="ro_simonero-po
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.100000 (the average of all parts of speech is 1.666491).
+The form / lemma ratio of `CCONJ` is 1.100000 (the average of all parts of speech is 1.666462).
 
 The 1st highest number of forms (2) was observed with the lemma “și”: <em>si, și</em>.
 

@@ -25,7 +25,7 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 1	Морт	морт	NOUN	N	Case=Nom|Number=Sing	6	dislocated	_	GTtags=N,Sg,Nom
 2	тэ	тэ	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj:cop	_	GTtags=Pron,Pers,Sg2,Nom|SpaceAfter=No
 3	,	,	PUNCT	CLB	_	4	punct	_	GTtags=CLB
-4	адзза	адззыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Valency=2	6	advcl:mmod	_	GTtags=V,TV,Ind,Prs,Sg1|SpaceAfter=No
+4	адзза	адззыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	6	advcl:mcl	_	GTtags=V,TV,Ind,Prs,Sg1|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	4	punct	_	GTtags=CLB
 6	простӧй	простӧй	ADJ	A	_	0	root	_	GTtags=A|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	8	punct	_	GTtags=CLB
@@ -38,7 +38,7 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 14	может	может	ADV	Adv	_	17	advmod:mmod	_	GTtags=Adv|SpaceAfter=No
 15	,	,	PUNCT	CLB	_	14	punct	_	GTtags=CLB
 16	и	и	CCONJ	CC	_	17	advmod	_	_
-17	петас	петны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Valency=1	6	conj	_	GTtags=V,IV,Ind,Fut,Sg3
+17	петас	петны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut	6	conj	_	GTtags=V,IV,Ind,Fut,Sg3
 18	сія	сія	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	GTtags=Pron,Pers,Sg3,Nom|SpaceAfter=No
 19	.	.	PUNCT	CLB	_	6	punct	_	GTtags=CLB
 

@@ -23,5 +23,5 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (2838; 100% of non-empty `Polarity`): <em>no, pas, ni, només</em>
-* `EMPTY` (12618): <em>més, també, ja, després, ahir, molt, avui, només, ara, així</em>
+* `EMPTY` (12644): <em>més, també, ja, després, ahir, molt, avui, només, ara, així</em>
 

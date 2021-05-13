@@ -28,12 +28,12 @@ The following 31 pairs of parts of speech are connected with `fixed`: <tt><a hre
 4	,	,	PUNCT	PUNCT	_	8	punct	_	En=,
 5	nors	nors	SCONJ	UH	_	8	mark	_	En=though
 6	ir	ir	CCONJ	CC	_	5	fixed	_	En=even
-7	buvo	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	En=be
+7	buvo	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	En=be
 8	vedęs	vedęs	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	12	advcl	_	En=married|SpaceAfter=No
 9	,	,	PUNCT	PUNCT	_	8	punct	_	En=,
-10	atrodo	atrodyti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	12	parataxis	_	En=seem|SpaceAfter=No
+10	atrodo	atrodyti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	12	parataxis	_	En=seem|SpaceAfter=No
 11	,	,	PUNCT	PUNCT	_	10	punct	_	En=,
-12	nevengė	vengti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Reflex=No|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	En=avoid
+12	nevengė	vengti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	En=avoid
 13	nuotykių	nuotykis	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	12	obj	_	En=adventure
 14	su	su	ADP	UH	_	16	case	_	En=with
 15	gražių	gražus	ADJ	JJL	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	16	amod	_	En=beautiful
@@ -54,8 +54,8 @@ The following 31 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 5 6 fixed	color:blue
 1	Po	po	ADP	UH	_	2	case	_	En=after
 2	to	tas	PRON	DT	Case=Gen|Gender=Masc|Number=Sing	4	obl	_	En=that
-3	buvo	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	_	En=be
-4	įrašinėjama	įrašinėti	VERB	VBNH	Definite=Ind|Gender=Neut|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	_	En=write
+3	buvo	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	4	aux	_	En=be
+4	įrašinėjama	įrašinėti	VERB	VBNH	Definite=Ind|Gender=Neut|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	_	En=write
 5	iš	iš%naujo	ADV	RB	Degree=Pos	4	advmod	_	En=again
 6	naujo	iš%naujo	ADV	RB	Degree=Pos	5	fixed	_	En=again|SpaceAfter=No
 7	.	.	PUNCT	PUNCT	_	4	punct	_	En=.
@@ -74,8 +74,8 @@ The following 31 pairs of parts of speech are connected with `fixed`: <tt><a hre
 3	,	,	PUNCT	PUNCT	_	1	punct	_	En=,
 4	ji	ji	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nsubj	_	En=she
 5	būtinai	būtinai	ADV	RB	Degree=Pos	6	advmod	_	En=necessary
-6	turi	turėti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	En=have
-7	turėti	turėti	VERB	VB	Polarity=Pos|Reflex=No|VerbForm=Inf|Voice=Act	6	xcomp	_	En=have
+6	turi	turėti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	En=have
+7	turėti	turėti	VERB	VB	Polarity=Pos|VerbForm=Inf|Voice=Act	6	xcomp	_	En=have
 8	priešų	priešas	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	7	obj	_	En=enemy|SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	6	punct	_	En=.
 

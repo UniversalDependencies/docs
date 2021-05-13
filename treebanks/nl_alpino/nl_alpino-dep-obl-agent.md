@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="nl_alpino-dep-obl.html">obl</a></tt>.
 
-322 nodes (0%) are attached to their parents as `obl:agent`.
+263 nodes (0%) are attached to their parents as `obl:agent`.
 
-179 instances of `obl:agent` (56%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.91614906832298.
+154 instances of `obl:agent` (59%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.02661596958175.
 
-The following 9 pairs of parts of speech are connected with `obl:agent`: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (215; 67% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (76; 24% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (10; 3% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (6; 2% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (187; 71% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (49; 19% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (9; 3% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (6; 2% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> (2; 1% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -32,7 +32,7 @@ The following 9 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 8	zijn	zijn	AUX	WW|inf|vrij|zonder	VerbForm=Inf	7	aux:pass	7:aux:pass	_
 9	door	door	ADP	VZ|init	_	11	case	11:case	_
 10	de	de	DET	LID|bep|stan|rest	Definite=Def	11	det	11:det	_
-11	FARC-rebellen	FARC-rebel	NOUN	N|soort|mv|basis	Number=Plur	7	obl:agent	7:obl:agent	SpaceAfter=No
+11	FARC-rebellen	FARC_rebel	NOUN	N|soort|mv|basis	Number=Plur	7	obl:agent	7:obl:agent	SpaceAfter=No
 12	.	.	PUNCT	LET	_	7	punct	7:punct	_
 
 ~~~
@@ -59,26 +59,27 @@ The following 9 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 7 obl:agent	color:blue
-1	Noem	noemen	VERB	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-2	een	een	DET	LID|onbep|stan|agr	Definite=Ind	3	det	3:det	_
-3	journalist	journalist	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	1	obj	1:obj|14:nsubj:pass:relsubj	_
-4	die	die	PRON	VNW|betr|pron|stan|vol|persoon|getal	PronType=Rel	14	nsubj:pass	3:ref	_
-5	door	door	ADP	VZ|init	_	7	case	7:case	_
-6	de	de	DET	LID|bep|stan|rest	Definite=Def	7	det	7:det	_
-7	Gewapende	gewapend	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	14	obl:agent	14:obl:agent	_
-8	Islamitische	islamitisch	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	7	fixed	7:fixed	_
-9	Groep	groep	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	7	fixed	7:fixed	_
-10	(	(	PUNCT	LET	_	11	punct	11:punct	SpaceAfter=No
-11	GIA	GIA	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	7	nmod	7:nmod	SpaceAfter=No
-12	)	)	PUNCT	LET	_	11	punct	11:punct	_
-13	is	zijn	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	14	aux:pass	14:aux:pass	_
-14	vermoord	vermoorden	VERB	WW|vd|vrij|zonder	VerbForm=Part	3	acl:relcl	3:acl:relcl	SpaceAfter=No
-15	.	.	PUNCT	LET	_	1	punct	1:punct	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 6 obl:agent	color:blue
+1	Dit	dit	PRON	VNW|aanw|pron|stan|vol|3o|ev	Person=3|PronType=Dem	15	nsubj:pass	15:nsubj:pass	_
+2	werd	worden	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	15	aux:pass	15:aux:pass	_
+3	gisteravond	gisteravond	ADV	BW	_	15	advmod	15:advmod	_
+4	door	door	ADP	VZ|init	_	6	case	6:case	_
+5	het	het	DET	LID|bep|stan|evon	Definite=Def	6	det	6:det	_
+6	actiecomite	actie_comité	ADJ	ADJ|nom|sup|met-e|zonder-n|stan	Degree=Sup	15	obl:agent	14:nsubj:relsubj|15:obl:agent	SpaceAfter=No
+7	,	,	PUNCT	LET	_	14	punct	14:punct	_
+8	dat	dat	PRON	VNW|betr|pron|stan|vol|3|ev	Person=3|PronType=Rel	14	nsubj	6:ref	_
+9	in	in	ADP	VZ|init	_	11	case	11:case	_
+10	het	het	DET	LID|bep|stan|evon	Definite=Def	11	det	11:det	_
+11	CJMV-gebouw	CJMV_gebouw	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	14	obl	14:obl:in	_
+12	in	in	ADP	VZ|init	_	13	case	13:case	_
+13	Groningen	Groningen	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	11	nmod	11:nmod:in	_
+14	vergaderde	vergaderen	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	6	acl:relcl	6:acl:relcl	_
+15	besloten	besluiten	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	SpaceAfter=No
+16	.	.	PUNCT	LET	_	15	punct	15:punct	_
 
 ~~~
 

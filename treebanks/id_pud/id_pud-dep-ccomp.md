@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-99 nodes (1%) are attached to their parents as `ccomp`.
+97 nodes (0%) are attached to their parents as `ccomp`.
 
-99 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.96969696969697.
+97 instances of `ccomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.93814432989691.
 
-The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (70; 71% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (13; 13% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (7; 7% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (4; 4% instances), <tt><a href="id_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-SYM.html">SYM</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (69; 71% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (13; 13% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (4; 4% instances), <tt><a href="id_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-SYM.html">SYM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

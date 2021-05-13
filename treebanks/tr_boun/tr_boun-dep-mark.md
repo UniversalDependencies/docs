@@ -24,12 +24,12 @@ The following 19 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 3 1 mark	color:blue
 1	Eğer	eğer	CCONJ	Conj	_	3	mark	_	_
 2	böyle	böyle	ADV	Adverb	_	3	advmod	_	_
-3	olursa	ol	VERB	Verb	Aspect=Hab|Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|Tense=Aor	8	advcl	_	SpaceAfter=No
+3	olursa	ol	VERB	Verb	Aspect=Hab|Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	8	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	Punc	_	8	punct	_	_
 5	bilimin	bilim	NOUN	Noun	Case=Gen|Number=Sing|Person=3	6	nmod:poss	_	_
 6	kapısına	kapı	NOUN	Noun	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	8	obj	_	_
 7	kilit	kilit	NOUN	Noun	Case=Nom|Number=Sing|Person=3	8	obj	_	_
-8	vurulur	vur	VERB	Verb	Aspect=Hab|Number=Sing|Person=3|Polarity=Pos|Tense=Aor|Voice=Pass	0	root	_	SpaceAfter=No
+8	vurulur	vur	VERB	Verb	Aspect=Hab|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|Voice=Pass	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	Punc	_	8	punct	_	SpacesAfter=\n
 
 ~~~
@@ -57,7 +57,7 @@ The following 19 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 3 4 mark	color:blue
 1	Öyle	öyle	ADV	Adverb	_	2	advmod	_	_
 2	güzel	güzel	ADJ	Adj	_	3	amod	_	_
-3	yetiştirmişsiniz	yetiş	NOUN	Noun	Evident=Nfh|Number=Plur|Person=2|Polarity=Pos|Tense=Past|Voice=Cau	0	root	_	_
+3	yetiştirmişsiniz	yetiş	NOUN	Noun	_	0	root	_	_
 4	ki	ki	CCONJ	Conj	_	3	mark	_	_
 5	onu	o	PRON	Pers	Case=Acc|Number=Sing|Person=3	3	obj	_	SpaceAfter=No
 6	...	...	PUNCT	Punc	_	3	punct	_	SpacesAfter=\n

@@ -67,7 +67,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 `NUM` tokens may have the following values of `Case`:
 
-* `Tem` (26; 100% of non-empty `Case`): 20.30, 20.00, 01.00, 1.2.19, 1.6.90, 13.11, 14.3.89, 15.459.00, 16.11, 2.3.3
+* `Tem` (26; 100% of non-empty `Case`): 20.30, 20.00, 01.00, 1.2.19, 1.6.90, 13.00, 13.11, 14.3.89, 15.459.00, 16.11
 * `EMPTY` (3283): אחד, שני, אחת, שתי, 1, 0, מיליון, אלף, 2, שלושה
 
 `Case` seems to be **lexical feature** of `NUM`. 100% lemmas (23) occur only with one value of `Case`.

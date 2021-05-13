@@ -32,7 +32,7 @@ The following 1 pairs of parts of speech are connected with `obl`: <tt><a href="
 7	발굴하고	_	NOUN	NN	_	12	advcl	_	SpaceAfter=No|Translit=.bal.gul.ha.go|LTranslit=_
 8	그의	그	PRON	PRP+CM	Case=Gen|Person=3|Polite=Form	9	nmod:poss	_	MSeg=그-의|Translit=.geu.yi|LTranslit=.geu
 9	수수께끼를	수수께끼	NOUN	NN+CM	Case=Acc|Polite=Form	12	obj	_	MSeg=수수께끼-를|Translit=.su.su.gge.ggi.reul|LTranslit=.su.su.gge.ggi
-10	억류수에	억류수	NOUN	NN+CM	Case=Advb|Polite=Form	12	advmod	_	MSeg=억류수-에|Translit=.eog.ryu.su.e|LTranslit=.eog.ryu.su
+10	억류수에	억류수	NOUN	NN+CM	Polite=Form	12	advmod	_	MSeg=억류수-에|Translit=.eog.ryu.su.e|LTranslit=.eog.ryu.su
 11	내어	_	VERB	VV	Form=Aux	12	aux	_	SpaceAfter=No|Translit=.nae.eo|LTranslit=_
 12	주는	_	VERB	VX	Form=Adn	13	acl:relcl	_	Translit=.ju.neun|LTranslit=_
 13	동안	_	NOUN	NN	_	18	advmod	_	Translit=.dong.an|LTranslit=_

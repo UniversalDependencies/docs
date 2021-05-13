@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of fixed in UD_Old_Russian-TOROT'
+title:  'Statistics of fixed in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Relations: `fixed`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Relations: `fixed`
 
 This relation is universal.
 
@@ -54,7 +54,7 @@ The following 2 pairs of parts of speech are connected with `fixed`: <tt><a href
 14	очию	око	NOUN	Nb	Case=Gen|Gender=Neut|Number=Dual	15	obj	_	ref=86
 15	провести	провести	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	9	conj	_	ref=86
 16	ꙗко	яко	SCONJ	G-	_	18	mark	_	ref=86
-17	многыимъ	мъногыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	18	advmod	_	ref=86
+17	многыимъ	мъногыи	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	18	advmod	_	ref=86
 18	мьнѣти	мьнѣти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	advcl	_	ref=86
 19	ꙗко	якоже	SCONJ	G-	_	22	mark	_	ref=86
 20	же	же	SCONJ	G-	_	19	fixed	_	ref=86

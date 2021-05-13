@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Abl`, `Acc`, `Dat`, `Gen`, `Loc`, `Nom`, `Voc`.
 
-13620 tokens (47%) have a non-empty value of `Case`.
-6719 types (67%) occur at least once with a non-empty value of `Case`.
+13618 tokens (47%) have a non-empty value of `Case`.
+6718 types (67%) occur at least once with a non-empty value of `Case`.
 3547 lemmas (77%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (7013; 24% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (2778; 10% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (2457; 8% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1287; 4% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (81; 0% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="la_perseus-pos-X.html">X</a></tt> (2; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (7014; 24% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (2778; 10% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (2457; 8% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1287; 4% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (81; 0% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-7013 <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+7014 <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4959; 71%).
 
 `NOUN` tokens may have the following values of `Case`:
 
 * `Abl` (1874; 27% of non-empty `Case`): <em>manu, caelo, die, urbe, voce, bello, re, amore, loco, more</em>
-* `Acc` (2456; 35% of non-empty `Case`): <em>rem, vocem, terram, locum, domum, nomen, bellum, senatum, dies, verba</em>
+* `Acc` (2457; 35% of non-empty `Case`): <em>rem, vocem, terram, locum, domum, nomen, bellum, senatum, dies, verba</em>
 * `Dat` (301; 4% of non-empty `Case`): <em>ecclesiis, rei, consuli, terrae, amicis, auribus, collo, homini, labori, lacrimis</em>
 * `Gen` (791; 11% of non-empty `Case`): <em>rei, hominum, terrae, vitae, Dei, animi, rerum, populi, Catilinae, domini</em>
 * `Loc` (18; 0% of non-empty `Case`): <em>Romae, domi, militiae, animi</em>
@@ -110,7 +110,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Gen` (90; 7% of non-empty `Case`): <em>amantis, dicentis, dicentium, perditorum, sedentis, transeundi, Dictorum, Periturae, abrupti, agitantis</em>
 * `Nom` (498; 39% of non-empty `Case`): <em>dicentes, dicens, mota, natus, ardens, contenta, existumans, locutus, nactus, obliti</em>
 * `Voc` (6; 0% of non-empty `Case`): <em>conscripti, factura</em>
-* `EMPTY` (4873): <em>est, esse, habet, inquit, erat, dixit, fuit, vidi, coepit, dedit</em>
+* `EMPTY` (4877): <em>est, esse, habet, inquit, erat, dixit, fuit, vidi, coepit, dedit</em>
 
 <table>
   <tr><th>Paradigm <i>habeo</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Abl</tt></th></tr>
@@ -146,24 +146,15 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
   <tr><td><tt><tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>unum</em></td><td></td><td></td><td><em>uno</em></td></tr>
 </table>
 
-### `ADV`
+### `PROPN`
 
-2 <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Case`.
+1 <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-`ADV` tokens may have the following values of `Case`:
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%).
 
-* `Acc` (1; 50% of non-empty `Case`): <em>Multum</em>
-* `Nom` (1; 50% of non-empty `Case`): <em>fors</em>
-* `EMPTY` (2201): <em>non, iam, ne, tamen, quam, sic, nunc, ita, modo, etiam</em>
+`PROPN` tokens may have the following values of `Case`:
 
-### `X`
-
-2 <tt><a href="la_perseus-pos-X.html">X</a></tt> tokens (4% of all `X` tokens) have a non-empty value of `Case`.
-
-`X` tokens may have the following values of `Case`:
-
-* `Acc` (2; 100% of non-empty `Case`): <em>Aefulanum, sestertiarios</em>
-* `EMPTY` (52): <em>c, ,, L, M, A, Cn, Q, Ti, Trimalchio, adcedere</em>
+* `Acc` (1; 100% of non-empty `Case`): <em>Aefulanum</em>
 
 ## Relations with Agreement in `Case`
 

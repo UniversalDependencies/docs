@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="lv_lvtb-dep-csubj.html">csubj</a></tt>.
 
-69 nodes (0%) are attached to their parents as `csubj:pass`.
+102 nodes (0%) are attached to their parents as `csubj:pass`.
 
-67 instances of `csubj:pass` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.43478260869565.
+96 instances of `csubj:pass` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.7843137254902.
 
-The following 6 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (60; 87% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (5; 7% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (90; 88% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 6 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 2	viņš	viņš	PRON	pp3msnn	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	LvtbNodeId=a-p10016-p5s5w2
 3	strādā	strādāt	VERB	vmnipi230an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	6:advcl	LvtbNodeId=a-p10016-p5s5w3|SpaceAfter=No
 4	,	,	PUNCT	zc	_	3	punct	3:punct	LvtbNodeId=a-p10016-p5s5w4
-5	tiek	tikt	AUX	vtnipi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux:pass	6:aux:pass	LvtbNodeId=a-p10016-p5s5w5
+5	tiek	tikt	AUX	vanipi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux:pass	6:aux:pass	LvtbNodeId=a-p10016-p5s5w5
 6	domāts	domāt	VERB	vmnpdmsnpsnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	LvtbNodeId=a-p10016-p5s5w6|SpaceAfter=No
 7	,	,	PUNCT	zc	_	10	punct	10:punct	LvtbNodeId=a-p10016-p5s5w7
 8	kā	kā	SCONJ	cs	_	10	mark	10:mark	LvtbNodeId=a-p10016-p5s5w8
@@ -72,28 +72,19 @@ The following 6 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 16 csubj:pass	color:blue
-1	Ja	ja	SCONJ	cs	_	6	mark	6:mark	LvtbNodeId=a-p7950-p4s6w1
-2	jau	jau	PART	q	_	6	discourse	6:discourse	LvtbNodeId=a-p7950-p4s6w2
-3	pats	pats	DET	pg0msnn	Case=Nom|Gender=Masc|Number=Sing|PronType=Tot	4	det	4:det	LvtbNodeId=a-p7950-p4s6w3
-4	prezidents	prezidents	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	6:nsubj|7:nsubj	LvtbNodeId=a-p7950-p4s6w4
-5	tā	tā	ADV	r0m	PronType=Dem	6	advmod	6:advmod	LvtbNodeId=a-p7950-p4s6w5
-6	var	varēt	VERB	vonipi330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	14	advcl	14:advcl	LvtbNodeId=a-p7950-p4s6w6
-7	darīt	darīt	VERB	vmnn0t3000n	Polarity=Pos|VerbForm=Inf	6	xcomp	6:xcomp	LvtbNodeId=a-p7950-p4s6w7|SpaceAfter=No
-8	,	,	PUNCT	zc	_	6	punct	6:punct	LvtbNodeId=a-p7950-p4s6w8
-9	tad	tad	ADV	r0t	PronType=Dem	14	advmod	14:advmod	LvtbNodeId=a-p7950-p4s6w9
-10	par	par	ADP	sppd	_	12	case	12:case	LvtbNodeId=a-p7950-p4s6w10
-11	vienkāršiem	vienkāršs	ADJ	afmpdnp	Case=Dat|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	12	amod	12:amod	LvtbNodeId=a-p7950-p4s6w11
-12	cilvēkiem	cilvēks	NOUN	ncmpd1	Case=Dat|Gender=Masc|Number=Plur	16	iobj	16:iobj	LvtbNodeId=a-p7950-p4s6w12
-13	nav	būt	AUX	vcnipii30ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	14:cop	LvtbNodeId=a-p7950-p4s6w13
-14	vērts	vērts	ADJ	afmsnnp	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	0:root	LvtbNodeId=a-p7950-p4s6w14
-15	pat	pat	PART	q	_	16	discourse	16:discourse	LvtbNodeId=a-p7950-p4s6w15
-16	runāt	runāt	VERB	vmnn0i2000n	Polarity=Pos|VerbForm=Inf	14	csubj:pass	14:csubj:pass	LvtbNodeId=a-p7950-p4s6w16|SpaceAfter=No
-17	.	.	PUNCT	zs	_	14	punct	14:punct	LvtbNodeId=a-p7950-p4s6w17
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 2 csubj:pass	color:blue
+1	Kāpēc	kāpēc	ADV	r0c	PronType=Int	2	advmod	2:advmod	LvtbNodeId=a-p9969-p20s3w1
+2	tā	tā	ADV	r0m	PronType=Dem	6	csubj:pass	6:csubj:pass|7:dep	LvtbNodeId=a-p9969-p20s3w2|SpaceAfter=No
+3	,	,	PUNCT	zc	_	2	punct	2:punct	LvtbNodeId=a-p9969-p20s3w3
+4	tas	tas	PRON	pd3msnn	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj:pass	6:nsubj:pass|7:nsubj:pass	LvtbNodeId=a-p9969-p20s3w4
+5	vecākiem	vecāks	NOUN	ncmpd1	Case=Dat|Gender=Masc|Number=Plur	6	iobj	6:iobj	LvtbNodeId=a-p9969-p20s3w5
+6	neesot	nebūt	VERB	vcnrpii00ay	Evident=Nfh|Mood=Qot|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p9969-p20s3w6
+7	paskaidrots	paskaidrot	VERB	vmnpdmsnpsnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	6	xcomp	6:xcomp	LvtbNodeId=a-p9969-p20s3w7|SpaceAfter=No
+8	.	.	PUNCT	zs	_	6	punct	6:punct	LvtbNodeId=a-p9969-p20s3w8
 
 ~~~
 

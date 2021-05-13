@@ -26,9 +26,9 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 2	gero	geras	ADJ	JJL	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	1	fixed	_	En=good|SpaceAfter=No
 3	,	,	PUNCT	PUNCT	_	1	punct	_	En=,
 4	tas	tas	DET	DT	Case=Nom|Gender=Masc|Number=Sing	6	det	_	En=those
-5	grįžtamasis	grįžti	VERB	VBNL	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Part|Voice=Pass	6	amod	_	En=return
+5	grįžtamasis	grįžti	VERB	VBNL	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	6	amod	_	En=return
 6	ryšys	ryšys	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	En=connection
-7	veikia	veikti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	En=operate
+7	veikia	veikti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	En=operate
 8	nuo	nuo	ADP	UH	_	10	case	_	En=since
 9	1939	1939	ADJ	ORD	_	10	amod	_	En=1939
 10	metų	metai	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	7	obl	_	En=years|SpaceAfter=No
@@ -47,7 +47,7 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 2	abejonės	abejonė	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	7	parataxis	_	En=doubts|SpaceAfter=No
 3	,	,	PUNCT	PUNCT	_	2	punct	_	En=,
 4	lietuviai	lietuvis	ADJ	JJL	Case=Dat|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	7	nsubj	_	En=Lithianian
-5	nėra	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	En=be
+5	nėra	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	En=be
 6	žydšaudžių	žydšaudys	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	7	amod	_	En=Jew-shooter
 7	tauta	tauta	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	En=nation|SpaceAfter=No
 8	.	.	PUNCT	PUNCT	_	7	punct	_	En=.
@@ -61,7 +61,7 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
-1	Mąstanti	mąstyti	VERB	VBNL	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|Polarity=Pos|Reflex=No|Tense=Pres|Variant=Full|VerbForm=Part|Voice=Act	2	amod	_	En=think
+1	Mąstanti	mąstyti	VERB	VBNL	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	2	amod	_	En=think
 2	asmenybė	asmenybė	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	En=personality
 3	jam	jis	PRON	PRP	Case=Dat|Gender=Masc|Number=Sing|Person=3	4	obl	_	En=he
 4	svarbesnė	svarbus	ADJ	JJR	Case=Nom|Definite=Ind|Degree=Cmp|Gender=Fem|Number=Sing	0	root	_	En=important

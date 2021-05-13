@@ -43,13 +43,13 @@ The following 9 pairs of parts of speech are connected with `discourse:intj`: <t
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 discourse:intj	color:blue
-1	-	-	PUNCT	interp	PunctType=Hyph	8	punct	8:punct	_
+1	-	-	PUNCT	interp	PunctType=Dash	8	punct	8:punct	_
 2	A	a	INTJ	interj	_	5	discourse:intj	5:discourse:intj	SpaceAfter=No
 3	,	,	PUNCT	interp	PunctType=Comm	2	punct	2:punct	_
 4	to	to	AUX	pred	Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Quasi	5	cop	5:cop	_
 5	pan	pan	NOUN	subst:sg:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	8	parataxis:obj	8:parataxis:obj	_
 6	komisarz	komisarz	NOUN	subst:sg:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	5	appos	5:appos	_
-7	-	-	PUNCT	interp	PunctType=Hyph	8	punct	8:punct	_
+7	-	-	PUNCT	interp	PunctType=Dash	8	punct	8:punct	_
 8	wyszczerzył	wyszczerzyć	VERB	praet:sg:m1:perf	Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 9	spróchniałe	spróchniały	ADJ	adj:pl:acc:m3:pos	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	10	amod	10:amod	_
 10	zęby	ząb	NOUN	subst:pl:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	8	obj	8:obj	SpaceAfter=No

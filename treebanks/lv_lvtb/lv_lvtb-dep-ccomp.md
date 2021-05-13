@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3223 nodes (1%) are attached to their parents as `ccomp`.
+3828 nodes (2%) are attached to their parents as `ccomp`.
 
-3055 instances of `ccomp` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.94291033198883.
+3632 instances of `ccomp` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.87277951933124.
 
-The following 24 pairs of parts of speech are connected with `ccomp`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (2546; 79% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (160; 5% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (153; 5% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (131; 4% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (65; 2% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (56; 2% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (33; 1% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (19; 1% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (14; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 23 pairs of parts of speech are connected with `ccomp`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (3100; 81% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (185; 5% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (175; 5% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (119; 3% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (72; 2% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (54; 1% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (40; 1% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (21; 1% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (18; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -38,25 +38,6 @@ The following 24 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 7 ccomp	color:blue
-1	-	-	PUNCT	zd	_	4	punct	4:punct	LvtbNodeId=a-d197-p84s1w1
-2	Nu	nu	PART	q	_	4	discourse	4:discourse	LvtbNodeId=a-d197-p84s1w2|SpaceAfter=No
-3	,	,	PUNCT	zc	_	2	punct	2:punct	LvtbNodeId=a-d197-p84s1w3
-4	teicu	teikt	VERB	vmnist11san	Evident=Fh|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d197-p84s1w4
-5	jau	jau	ADV	r0t	_	4	advmod	4:advmod	LvtbNodeId=a-d197-p84s1w5|SpaceAfter=No
-6	,	,	PUNCT	zc	_	7	punct	7:punct	LvtbNodeId=a-d197-p84s1w6
-7	rakstniece	rakstniece	NOUN	ncfsn5	Case=Nom|Gender=Fem|Number=Sing	4	ccomp	4:ccomp	LvtbNodeId=a-d197-p84s1w7
-8	esmu	būt	AUX	vcnipii1san	Evident=Fh|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	7:cop	LvtbNodeId=a-d197-p84s1w8|SpaceAfter=No
-9	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-d197-p84s1w9
-
-~~~
-
-
-~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 4	bgColor:blue
@@ -71,6 +52,25 @@ The following 24 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 7	modinātājs	modinātājs	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	8:nsubj	LvtbNodeId=a-d131-p23s2w7
 8	nenozvanīja	nozvanīt	VERB	vmnisi330ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	4:ccomp	LvtbNodeId=a-d131-p23s2w8|SpaceAfter=No
 9	.	.	PUNCT	zs	_	2	punct	2:punct	LvtbNodeId=a-d131-p23s2w9
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 7 ccomp	color:blue
+1	-	-	PUNCT	zd	_	4	punct	4:punct	LvtbNodeId=a-d197-p84s1w1
+2	Nu	nu	PART	q	_	4	discourse	4:discourse	LvtbNodeId=a-d197-p84s1w2|SpaceAfter=No
+3	,	,	PUNCT	zc	_	2	punct	2:punct	LvtbNodeId=a-d197-p84s1w3
+4	teicu	teikt	VERB	vmnist11san	Evident=Fh|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d197-p84s1w4
+5	jau	jau	ADV	r0t	_	4	advmod	4:advmod	LvtbNodeId=a-d197-p84s1w5|SpaceAfter=No
+6	,	,	PUNCT	zc	_	7	punct	7:punct	LvtbNodeId=a-d197-p84s1w6
+7	rakstniece	rakstniece	NOUN	ncfsn5	Case=Nom|Gender=Fem|Number=Sing	4	ccomp	4:ccomp	LvtbNodeId=a-d197-p84s1w7
+8	esmu	būt	AUX	vcnipii1san	Evident=Fh|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	7:cop	LvtbNodeId=a-d197-p84s1w8|SpaceAfter=No
+9	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-d197-p84s1w9
 
 ~~~
 

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-Sequoia: POS Tags: `X`
 
 There are 107 `X` lemmas (2%), 107 `X` types (1%) and 179 `X` tokens (0%).
-Out of 17 observed tags, the rank of `X` is: 7 in number of lemmas, 8 in number of types and 14 in number of tokens.
+Out of 16 observed tags, the rank of `X` is: 7 in number of lemmas, 8 in number of types and 14 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>the, van, en, in, Medicines, and, Company, UK, a, devils</em>
 
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>en</em> (<tt><a href="fr_sequoia-pos-
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.405182).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.405809).
 
 The 1st highest number of forms (1) was observed with the lemma “115L”: <em>115L</em>.
 

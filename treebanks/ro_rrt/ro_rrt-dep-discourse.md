@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-20 nodes (0%) are attached to their parents as `discourse`.
+19 nodes (0%) are attached to their parents as `discourse`.
 
-12 instances of `discourse` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.55.
+12 instances of `discourse` (63%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.68421052631579.
 
-The following 11 pairs of parts of speech are connected with `discourse`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> (5; 25% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> (3; 15% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (3; 15% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (2; 10% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (1; 5% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (1; 5% instances), <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (1; 5% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> (1; 5% instances).
+The following 11 pairs of parts of speech are connected with `discourse`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> (5; 26% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> (3; 16% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (2; 11% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (2; 11% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (1; 5% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (1; 5% instances), <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (1; 5% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> (1; 5% instances).
 
 
 ~~~ conllu

@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of discourse in UD_Old_Russian-TOROT'
+title:  'Statistics of discourse in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Relations: `discourse`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Relations: `discourse`
 
 This relation is universal.
 
@@ -40,10 +40,10 @@ The following 13 pairs of parts of speech are connected with `discourse`: <tt><a
 1	исавъ	исавъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=93.13
 2	же	же	ADV	Df	_	4	discourse	_	ref=93.13
 3	быс	быти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	ref=93.13
-4	лукавъ	лукавыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	0	root	_	ref=93.13
+4	лукавъ	лукавыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	ref=93.13
 5	а	а	CCONJ	C-	_	4	cc	_	ref=93.13
 6	яковъ	яковъ	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=93.14
-7	прв҃днъ	правьдьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	4	conj	_	ref=93.14
+7	прв҃днъ	правьдьныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	4	conj	_	ref=93.14
 
 ~~~
 

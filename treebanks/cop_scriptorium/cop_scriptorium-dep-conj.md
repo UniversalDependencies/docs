@@ -50,7 +50,7 @@ The following 30 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 5	fgColor:white
 # visual-style 5 7 conj	color:blue
 1	ⲛⲧⲱⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=2|PronType=Prs	5	dislocated	_	Orig=ⲛ̄ⲧⲱⲧⲛ̄
-2	ⲇⲉ	ⲇⲉ	PART	PTC	_	5	advmod	_	_
+2	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	5	advmod	_	OrigLang=grc
 3	ⲛⲉ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	4	det	_	Entity=(person
 4	ⲥⲛⲏⲩ	ⲥⲟⲛ	NOUN	N	_	5	vocative	_	Entity=person)
 5	ϩⲁⲣⲉϩ	ϩⲁⲣⲉϩ	VERB	V	VerbForm=Fin	0	root	_	_
@@ -81,15 +81,15 @@ The following 30 pairs of parts of speech are connected with `conj`: <tt><a href
 3	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	6	mark	_	_
 4	ⲙⲡ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	6	aux	_	_
 5	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
-6	ⲃⲁⲡⲧⲓⲍⲉ	ⲃⲁⲡⲧⲓⲍⲉ	VERB	V	VerbForm=Fin	2	ccomp	_	_
+6	ⲃⲁⲡⲧⲓⲍⲉ	ⲃⲁⲡⲧⲓⲍⲉ	VERB	V	Foreign=Yes|VerbForm=Fin	2	ccomp	_	OrigLang=grc
 7	ⲛ	ⲛ	ADP	PREP	_	8	case	_	_
 8	ⲗⲁⲁⲩ	ⲗⲁⲁⲩ	NOUN	N	_	6	obj	_	Entity=(person
 9	ⲙⲙⲱ	ⲛ	ADP	PREP	_	10	case	_	_
 10	ⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=2|PronType=Prs	8	nmod	_	Entity=person)
 11	ⲛⲥⲁ	ⲛⲥⲁ	ADP	PREP	_	12	case	_	_
-12	ⲕⲣⲓⲥⲡⲟⲥ	ⲕⲣⲓⲥⲡⲟⲥ	PROPN	NPROP	_	6	obl	_	Entity=(person-Crispus_of_Chalcedon)
+12	ⲕⲣⲓⲥⲡⲟⲥ	ⲕⲣⲓⲥⲡⲟⲥ	PROPN	NPROP	Foreign=Yes	6	obl	_	Entity=(person-Crispus_of_Chalcedon)|OrigLang=grc
 13	ⲙⲛ	ⲙⲛ	ADP	PREP	_	14	cc	_	_
-14	ⲅⲁⲓⲟⲥ	ⲅⲁⲓⲟⲥ	PROPN	NPROP	_	12	conj	_	Entity=(person-Gaius_%28biblical_figure%29)
+14	ⲅⲁⲓⲟⲥ	ⲅⲁⲓⲟⲥ	PROPN	NPROP	Foreign=Yes	12	conj	_	Entity=(person-Gaius_%28biblical_figure%29)|OrigLang=grc
 15	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~

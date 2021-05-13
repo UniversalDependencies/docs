@@ -27,7 +27,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 3	را	را	PART	CLITIC	_	2	case	_	_
 4	یاد	یاد	NOUN	N_SING	Number=Sing	5	compound:lvc	_	_
 5	می‌کنم	_	VERB	V_PRS	Number=Sing|Person=1|Tense=Pres	0	root	_	SpaceAfter=No
-6	،	،	PUNCT	DELM	_	5	punct	_	_
+6	،	،	PUNCT	DELM	_	12	punct	_	_
 7	بر	بر	ADP	P	_	9	case	_	_
 8	آن	آن	DET	DET	_	9	det	_	_
 9	محبت	_	NOUN	N_SING	Number=Sing	12	obl	_	_
@@ -52,7 +52,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 4	نام	نام	NOUN	N_SING	Number=Sing	3	fixed	_	_
 5	تلفن	تلفن	NOUN	N_SING	Number=Sing	4	nmod:poss	_	_
 6	همراه	همراه	NOUN	N_SING	Number=Sing	5	flat	_	SpaceAfter=No
-7	،	،	PUNCT	DELM	_	16	punct	_	_
+7	،	،	PUNCT	DELM	_	2	punct	_	_
 8	از	از	ADP	P	_	9	case	_	_
 9	رونق	رونق	NOUN	N_SING	Number=Sing	16	nmod	_	_
 10	بازار	بازار	NOUN	N_SING	Number=Sing	9	nmod:poss	_	_
@@ -83,7 +83,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 7	استحاله	_	ADJ	ADJ	Degree=Pos	4	acl:relcl	_	_
 8	شده	کرد#کن	AUX	V_PP	Number=Sing|Person=3|VerbForm=Part	7	cop	_	_
 9	باشد	بود#باش	VERB	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	8	aux:pass	_	SpaceAfter=No
-10	،	،	PUNCT	DELM	_	12	punct	_	_
+10	،	،	PUNCT	DELM	_	4	punct	_	_
 11	وجود	وجود	NOUN	N_SING	Number=Sing	12	compound:lvc	_	_
 12	ندارد	داشت#دار	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	DELM	_	12	punct	_	_

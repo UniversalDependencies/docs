@@ -25,7 +25,7 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 1	Сонь	сон	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	nmod:poss	_	GTtags=Pers,Sg3,Gen
 2	равжа	равжа	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	3	amod	_	GTtags=Sg,Nom,Indef
 3	сельмонза	сельме	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	GTtags=Pl,Nom,PxSg3
-4	цифтордсть	цифтордомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Prt1|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScPl3|SpaceAfter=No
+4	цифтордсть	цифтордомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScPl3|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	8	punct	_	_
 6	кода	кода	SCONJ	CS	_	8	mark	_	_
 7	заря	заря	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	8	compound	_	GTtags=Sg,Nom,Indef
@@ -42,10 +42,10 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 5	fgColor:white
 # visual-style 5 4 compound	color:blue
 1	Самолётсь	самолёт	NOUN	N	Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	GTtags=Sg,Nom,Def
-2	туцяс	туця	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	3	obl:lmod	_	GTtags=SP,Ill,Indef
-3	повсь	повомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
+2	туцяс	туця	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	3	obl:lto	_	GTtags=SP,Ill,Indef
+3	повсь	повомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
 4	варьхмодема	варьхмодемс	VERB	V	Case=Nom|Definite=Ind|Number=Sing|Valency=1|VerbForm=Vnoun	5	compound	_	GTtags=IV,Der/NomAct,Sg,Nom,Indef
-5	ёткова	ётка	NOUN	N	Case=Prl|Definite=Ind|Number=Plur,Sing	3	obl:lmod	_	GTtags=SP,Prl,Indef|SpaceAfter=No
+5	ёткова	ётка	NOUN	N	Case=Prl|Definite=Ind|Number=Plur,Sing	3	obl:lmp	_	GTtags=SP,Prl,Indef|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~

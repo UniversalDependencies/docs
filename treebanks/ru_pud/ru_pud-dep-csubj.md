@@ -24,7 +24,7 @@ The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 3 4 csubj	color:blue
 1	Сейчас	сейчас	ADV	RB	Degree=Pos	3	advmod	_	_
 2	там	там	ADV	RB	Degree=Pos	3	advmod	_	_
-3	можно	можно	VERB	PRED	Degree=Pos	0	root	_	_
+3	можно	можно	VERB	PRED	_	0	root	_	_
 4	увидеть	увидеть	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	3	csubj	_	_
 5	только	только	PART	UH	_	6	advmod	_	_
 6	руины	руины	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	4	obj	_	SpaceAfter=No

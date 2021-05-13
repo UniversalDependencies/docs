@@ -41,7 +41,7 @@ The following 3 pairs of parts of speech are connected with `case:loc`: <tt><a h
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 case:loc	color:blue
-1	Այդ	այդ	DET	_	Distance=Med|PronType=Dem	2	det	_	Translit=Ayd|LTranslit=ayd
+1	Այդ	այդ	DET	_	Deixis=Med|PronType=Dem	2	det	_	Translit=Ayd|LTranslit=ayd
 2	գիշերվանից	գիշեր	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Sing	8	obl	_	Translit=gišervanic’|LTranslit=gišer
 3	Արմինուսին	Արմինուս	PROPN	_	Animacy=Hum|Case=Dat|Definite=Def|NameType=Giv|Number=Sing	8	obj	_	Translit=Arminowsin|LTranslit=Arminows
 4	այլևս	այլևս	ADV	_	_	8	advmod	_	Translit=aylews|LTranslit=aylews
@@ -61,7 +61,7 @@ The following 3 pairs of parts of speech are connected with `case:loc`: <tt><a h
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 case:loc	color:blue
-1	Այնպես	այնպես	ADV	_	Distance=Dist|PronType=Dem	2	advmod	_	Translit=Aynpes|LTranslit=aynpes
+1	Այնպես	այնպես	ADV	_	Deixis=Remt|PronType=Dem	2	advmod	_	Translit=Aynpes|LTranslit=aynpes
 2	պատահեց	պատահել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Translit=patahec’|LTranslit=patahel|SpaceAfter=No
 3	,	,	PUNCT	_	_	9	punct	_	Translit=,|LTranslit=,
 4	որ	որ	SCONJ	_	_	9	mark	_	Translit=or|LTranslit=or
@@ -110,7 +110,7 @@ The following 3 pairs of parts of speech are connected with `case:loc`: <tt><a h
 47	կաթնակերների	կաթնակեր	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Plur	51	nmod:poss	_	Translit=kat’nakerneri|LTranslit=kat’naker
 48	ու	ու	CCONJ	_	_	49	cc	_	Translit=ow|LTranslit=ow
 49	պառավների	պառավ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Plur	47	conj	_	Translit=paṙavneri|LTranslit=paṙav
-50	այդ	այդ	DET	_	Distance=Med|PronType=Dem	51	det	_	Translit=ayd|LTranslit=ayd
+50	այդ	այդ	DET	_	Deixis=Med|PronType=Dem	51	det	_	Translit=ayd|LTranslit=ayd
 51	դասարանի	դասարան	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	55	obl	_	Translit=dasarani|LTranslit=dasaran
 52	համար	համար	ADP	_	AdpType=Post	51	case	_	Translit=hamar|LTranslit=hamar
 53	հազիվ	հազիվ	ADV	_	_	54	advmod:emph	_	Translit=haziv|LTranslit=haziv
@@ -118,7 +118,7 @@ The following 3 pairs of parts of speech are connected with `case:loc`: <tt><a h
 55	ուզում	ուզել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	15	conj	_	Translit=owzowm|LTranslit=owzel
 56	էինք	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Imp|VerbForm=Fin	55	aux	_	Translit=ēink’|LTranslit=em
 57	կարդալ	կարդալ	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	55	xcomp	_	Translit=kardal|LTranslit=kardal
-58	այդ	այդ	DET	_	Distance=Med|PronType=Dem	59	det	_	Translit=ayd|LTranslit=ayd
+58	այդ	այդ	DET	_	Deixis=Med|PronType=Dem	59	det	_	Translit=ayd|LTranslit=ayd
 59	տան	տուն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	62	nmod:poss	_	Translit=tan|LTranslit=town
 60	միակ	միակ	ADV	_	_	61	advmod	_	Translit=miak|LTranslit=miak
 61	գեղարվեստական	գեղարվեստական	ADJ	_	_	62	amod	_	Translit=geġarvestakan|LTranslit=geġarvestakan
@@ -153,7 +153,7 @@ The following 3 pairs of parts of speech are connected with `case:loc`: <tt><a h
 90	,	,	PUNCT	_	_	96	punct	_	Translit=,|LTranslit=,
 91	թե	թե	SCONJ	_	_	96	mark	_	Translit=t’e|LTranslit=t’e
 92	հենց	հենց	ADV	_	_	93	advmod	_	Translit=henc’|LTranslit=henc’
-93	այդ	այդ	DET	_	Distance=Med|PronType=Dem	94	det	_	Translit=ayd|LTranslit=ayd
+93	այդ	այդ	DET	_	Deixis=Med|PronType=Dem	94	det	_	Translit=ayd|LTranslit=ayd
 94	պատմությունն	պատմություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	96	obj	_	Translit=patmowt’yownn|LTranslit=patmowt’yown
 95	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	96	aux	_	Translit=ē|LTranslit=em
 96	պատմում	պատմել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	89	ccomp	_	Translit=patmowm|LTranslit=patmel

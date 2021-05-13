@@ -23,8 +23,8 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 3	fgColor:white
 # visual-style 3 5 dislocated	color:blue
 1	हां	हो	INTJ	_	_	4	vocative	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	4	punct	_	_
-3	हे	हा	PRON	_	Distance=Prox|Gender=Neut|Number=Sing|Person=3	4	obj	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	हे	हा	PRON	_	Deixis=Prox|Gender=Neut|Number=Sing|Person=3	4	obj	_	_
 4	बघा	बघणे	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
 5	घोडेस्वार	घोडेस्वार	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	dislocated	_	SpaceAfter=No
 6	!	!	PUNCT	_	_	4	punct	_	_
@@ -41,14 +41,14 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 1	मेरीला	मेरी	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	2	nsubj	_	_
 2	वाटते	वाटणे	VERB	_	Aspect=Imp|Gender=Neut|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	कि	कि	SCONJ	_	_	12	mark	_	_
-4	_	तो	PRON	_	Case=Obl|Distance=Dist|Gender=Fem|Number=Sing|Person=3	6	nmod:poss	_	_
-5	_	च्या	ADP	_	Case=Obl	4	case	_	_
+4	_	तो	PRON	_	Case=Abs|Deixis=Remt|Gender=Fem|Number=Sing|Person=3	6	nmod:poss	_	_
+5	_	च्या	ADP	_	Case=Abs	4	case	_	_
 6	आईला	आई	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	12	nsubj	_	_
 7	जेम्स	जेम्स	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
 8	कुठे	कुठे	ADV	_	_	9	advmod	_	_
 9	गेला	जाणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	12	dislocated	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	12	punct	_	_
-11	हे	हा	PRON	_	Case=Acc|Distance=Prox|Gender=Neut|Number=Sing|Person=3	2	obj	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	हे	हा	PRON	_	Case=Acc|Deixis=Prox|Gender=Neut|Number=Sing|Person=3	2	obj	_	_
 12	माहित	माहित	ADV	_	_	2	ccomp	_	_
 13	आहे	असणे	AUX	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	12	punct	_	_
@@ -66,7 +66,7 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 2	कुठे	कुठे	ADV	_	_	5	dislocated	_	_
 3	आहे	असणे	AUX	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	2	punct	_	_
-5	हे	हा	PRON	_	Case=Acc|Distance=Prox|Gender=Neut|Number=Sing|Person=3	7	obj	_	_
+5	हे	हा	PRON	_	Case=Acc|Deixis=Prox|Gender=Neut|Number=Sing|Person=3	7	obj	_	_
 6	मेरीला	मेरी	PROPN	_	Case=Dat|Gender=Fem|Number=Sing	7	nsubj	_	_
 7	माहित	माहित	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 8	नाही	नाही	AUX	_	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	7	aux	_	SpaceAfter=No

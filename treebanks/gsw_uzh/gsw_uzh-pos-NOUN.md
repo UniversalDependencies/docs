@@ -11,7 +11,7 @@ Out of 15 observed tags, the rank of `NOUN` is: 7 in number of lemmas, 1 in numb
 
 The 10 most frequent `NOUN` lemmas: <em>_</em>
 
-The 10 most frequent `NOUN` types:  <em>Wuchä, Kontakt, Lüt, Musigbistro, Referat, Region, Sach, Taag, $, B​a​g​u​e​t​t​e​s​c​h​l​i​f​f​-​D​i​a​m​a​n​t​e</em>
+The 10 most frequent `NOUN` types:  <em>Wuchä, Kontakt, Lüt, Musigbistro, Referat, Region, Sach, Taag, $, Baguetteschliff-Diamante</em>
 
 The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="gsw_uzh-pos-NOUN.html">NOUN</a></tt> 186, <tt><a href="gsw_uzh-pos-PUNCT.html">PUNCT</a></tt> 178, <tt><a href="gsw_uzh-pos-AUX.html">AUX</a></tt> 152, <tt><a href="gsw_uzh-pos-ADV.html">ADV</a></tt> 144, <tt><a href="gsw_uzh-pos-ADP.html">ADP</a></tt> 138, <tt><a href="gsw_uzh-pos-DET.html">DET</a></tt> 135, <tt><a href="gsw_uzh-pos-VERB.html">VERB</a></tt> 128, <tt><a href="gsw_uzh-pos-PRON.html">PRON</a></tt> 118, <tt><a href="gsw_uzh-pos-ADJ.html">ADJ</a></tt> 85, <tt><a href="gsw_uzh-pos-PROPN.html">PROPN</a></tt> 57, <tt><a href="gsw_uzh-pos-CCONJ.html">CCONJ</a></tt> 47, <tt><a href="gsw_uzh-pos-PART.html">PART</a></tt> 34, <tt><a href="gsw_uzh-pos-SCONJ.html">SCONJ</a></tt> 26, <tt><a href="gsw_uzh-pos-NUM.html">NUM</a></tt> 13, <tt><a href="gsw_uzh-pos-X.html">X</a></tt> 3)
 

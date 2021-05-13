@@ -180,7 +180,7 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 `SYM` tokens may have the following values of `Number`:
 
 * `Sing` (1; 100% of non-empty `Number`): <em>#cambiaverso</em>
-* `EMPTY` (2145): <em>@user, #labuonascuola, #monti, @user1, @user2, #renzi, #scuola, @user3, h​t​t​p​:​/​/​t​.​c​o​/​o​D​P​U​t​x​2​D​v​V, #Grillo</em>
+* `EMPTY` (2145): <em>@user, #labuonascuola, #monti, @user1, @user2, #renzi, #scuola, @user3, http://t.co/oDPUtx2DvV, #Grillo</em>
 
 ### `X`
 

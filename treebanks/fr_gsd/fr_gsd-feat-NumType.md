@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (215; 100% of non-empty `NumType`): <em>XIXe, XXe, XVIIe, XVIe, XVIIIe, XIIe, XVe, XIIIe, XIe, VIe</em>
-* `EMPTY` (23517): <em>premier, première, français, autres, même, française, tous, dernier, grande, grand</em>
+* `EMPTY` (23513): <em>premier, première, français, autres, même, française, tous, dernier, grande, grand</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (23) occur only with one value of `NumType`.
 

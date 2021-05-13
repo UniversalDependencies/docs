@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="gd_arcosg-dep-mark.html">mark</a></tt>.
 
-4126 nodes (7%) are attached to their parents as `mark:prt`.
+4966 nodes (7%) are attached to their parents as `mark:prt`.
 
-4126 instances of `mark:prt` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.09209888511876.
+4966 instances of `mark:prt` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.09101892871526.
 
-The following 10 pairs of parts of speech are connected with `mark:prt`: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (2969; 72% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (771; 19% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (246; 6% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (97; 2% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (12; 0% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (11; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (10; 0% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (8; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `mark:prt`: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (3609; 73% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (903; 18% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (277; 6% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (126; 3% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (16; 0% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (14; 0% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (10; 0% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (8; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,9 +22,9 @@ The following 10 pairs of parts of speech are connected with `mark:prt`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 mark:prt	color:blue
-1	turkey	turkey	X	Xfe	Foreign=Yes	0	root	_	_
-2	burger	burger	X	Xfe	Foreign=Yes	1	flat	_	_
-3	an	an	PART	Qq	Mood=Int|PartType=Vb|PronType=Int	4	mark:prt	_	_
+1	turkey	turkey	NOUN	Xfe	Foreign=Yes	0	root	_	_
+2	burger	burger	NOUN	Xfe	Foreign=Yes	1	flat:foreign	_	_
+3	an	an	PART	Qq	PartType=Vb|PronType=Int	4	mark:prt	_	_
 4	robh	bi	VERB	V-s--d	Tense=Past	1	parataxis	_	_
 5	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
 6	math	math	ADJ	Ap	_	4	xcomp:pred	_	SpaceAfter=No
@@ -40,7 +40,7 @@ The following 10 pairs of parts of speech are connected with `mark:prt`: <tt><a 
 # visual-style 13	fgColor:white
 # visual-style 13 12 mark:prt	color:blue
 1	‘s	's	CCONJ	Cc	_	3	cc	_	_
-2	an	an	PART	Qq	Mood=Int|PartType=Vb|PronType=Int	3	mark:prt	_	_
+2	an	an	PART	Qq	PartType=Vb|PronType=Int	3	mark:prt	_	_
 3	robh	bi	VERB	V-s--d	Tense=Past	0	root	_	_
 4	a	a	DET	Dq	_	6	det	_	_
 5	h-uile	uile	DET	Dq	_	4	fixed	_	_

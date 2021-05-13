@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Marie Candito, Bruno Guillaume, Teresa Lynn, Héctor Martínez Alonso, Benoît Sagot, Djamé Seddah, Eric Villemonte de la Clergerie.
 
 Repository: [UD_French-FTB](https://github.com/UniversalDependencies/UD_French-FTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_ftb27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_ftb28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: LGPL-LR. The underlying text is not included; the user must obtain it separately and then merge with the UD annotation using a script distributed with UD
 
@@ -187,7 +187,6 @@ Marie Candito: marie.candito@linguist.univ-paris-diderot.fr
       <li>NUM: _, Deux, 1992, Quatre, Trois, 1993, Huit, 1991, Sept, 1989</li>
       <li>PRON: _, Elle, elles, Celle, Celles, Se, S', En, Où, Aucune</li>
       <li>PROPN: _, FO, EDF, Genève, CGT, Jean, Anita, France, BOURSE, BT</li>
-      <li>PUNCT: _</li>
       <li>VERB-Part: _, Basée, Devenue, Décidée, Emises, Fixée, Lancée, Liée, Née, Partie</li>
     </ul>
   </li>
@@ -246,7 +245,6 @@ Marie Candito: marie.candito@linguist.univ-paris-diderot.fr
       <li>NUM: _, 1992, 4, 27, 19, 1993, 3, 12, 13, 17</li>
       <li>PRON: _, il, c', On, Elle, ce, Cela, Je, Celui, Tout</li>
       <li>PROPN: _, Paris, Michel, France, FO, Jean, Air, FRANCFORT, Hachette, Jacques</li>
-      <li>PUNCT: _</li>
       <li>VERB-Fin: _, Reste, Est, Peut, Voilà, faut, Faudra, Sait, Serait, Voici</li>
       <li>VERB-Inf: _</li>
       <li>VERB-Part: _, Interrogé, Né, Réuni, Entré, Nommé, Passé, Appelé, Placé, Agé</li>
@@ -271,7 +269,6 @@ Marie Candito: marie.candito@linguist.univ-paris-diderot.fr
 <ul>
   <li>Ind
     <ul>
-      <li>ADJ: _</li>
       <li>DET: _, un, une, des, D', De, Plusieurs, Quelques, Chaque, Certains</li>
       <li>PRON: _</li>
     </ul>
@@ -411,7 +408,6 @@ Marie Candito: marie.candito@linguist.univ-paris-diderot.fr
 <ul>
   <li>Art
     <ul>
-      <li>ADJ: _</li>
       <li>DET: _, le, la, les, l', un, une, des, D', De</li>
       <li>PRON: _</li>
     </ul>

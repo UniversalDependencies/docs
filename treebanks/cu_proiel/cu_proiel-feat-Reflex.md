@@ -29,7 +29,7 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 
 409 <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> tokens (8% of all `ADJ` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `ADJ` and `Reflex` co-occurred: <tt><a href="cu_proiel-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (409; 100%), <tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (409; 100%), <tt><a href="cu_proiel-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (409; 100%), <tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (409; 100%), <tt><a href="cu_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (250; 61%).
+The most frequent other feature values with which `ADJ` and `Reflex` co-occurred: <tt><a href="cu_proiel-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (409; 100%), <tt><a href="cu_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (409; 100%), <tt><a href="cu_proiel-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (409; 100%), <tt><a href="cu_proiel-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (409; 100%), <tt><a href="cu_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (250; 61%).
 
 `ADJ` tokens may have the following values of `Reflex`:
 

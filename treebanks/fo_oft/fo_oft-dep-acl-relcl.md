@@ -7,7 +7,6 @@ udver: '2'
 ## Treebank Statistics: UD_Faroese-OFT: Relations: `acl:relcl`
 
 This relation is a language-specific subtype of <tt><a href="fo_oft-dep-acl.html">acl</a></tt>.
-There are also 1 other language-specific subtypes of `acl`: <tt><a href="fo_oft-dep-acl-cleft.html">acl:cleft</a></tt>.
 
 15 nodes (0%) are attached to their parents as `acl:relcl`.
 

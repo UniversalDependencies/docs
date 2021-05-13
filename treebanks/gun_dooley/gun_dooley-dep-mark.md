@@ -27,9 +27,9 @@ The following 6 pairs of parts of speech are connected with `mark`: <tt><a href=
 3	_	_	NOUN	n	_	2	obj	_	_
 4	_	_	PUNCT	punct	_	2	punct	_	_
 5	_	_	PART	temprt	_	6	dep:mod	_	_
-6	_	_	VERB	vi:a	Mood=Ind|Person[subj]=1|Subcat=Int|VerbForm=Fin	8	advcl	_	_
+6	_	_	VERB	vi:a	Mood=Ind|Person[subj]=1|Subcat=Intr|VerbForm=Fin	8	advcl	_	_
 7	_	_	SCONJ	subordconn	_	6	mark	_	_
-8	_	_	VERB	vi:a	Mood=Ind|Person[subj]=1|Subcat=Int|VerbForm=Fin	2	advcl	_	_
+8	_	_	VERB	vi:a	Mood=Ind|Person[subj]=1|Subcat=Intr|VerbForm=Fin	2	advcl	_	_
 9	_	_	SCONJ	subordconn	_	8	mark	_	_
 10	_	_	PUNCT	punct	_	2	punct	_	_
 11	_	_	VERB	vt	Mood=Ind|Subcat=Tran|VerbForm=Inf	0	root	_	_
@@ -52,7 +52,7 @@ The following 6 pairs of parts of speech are connected with `mark`: <tt><a href=
 6	_	_	PUNCT	punct	_	5	punct	_	_
 7	_	_	PUNCT	punct	_	9	punct	_	_
 8	_	_	PRON	pro	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
-9	_	_	VERB	vi:a	Mood=Ind|Person[subj]=1|Subcat=Int|VerbForm=Fin	5	parataxis:rep	_	_
+9	_	_	VERB	vi:a	Mood=Ind|Person[subj]=1|Subcat=Intr|VerbForm=Fin	5	parataxis:rep	_	_
 10	_	_	PART	aspprt	_	9	dep:mod	_	_
 11	_	_	PART	focprt	_	9	dep:mod	_	_
 12	_	_	PUNCT	punct	_	9	punct	_	_
@@ -75,7 +75,7 @@ The following 6 pairs of parts of speech are connected with `mark`: <tt><a href=
 5	_	_	SCONJ	rel	_	3	mark	_	_
 6	_	_	PART	discprt	_	3	dep:mod	_	_
 7	_	_	PART	illocprt	_	3	dep:mod	_	_
-8	_	_	VERB	n:pred	Mood=Ind|Subcat=Int|VerbForm=Vnoun	0	root	_	_
+8	_	_	VERB	n:pred	Mood=Ind|Subcat=Intr|VerbForm=Vnoun	0	root	_	_
 9	_	_	PART	illocprt	_	8	dep:mod	_	_
 10	_	_	PUNCT	punct	_	8	punct	_	_
 

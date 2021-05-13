@@ -33,7 +33,7 @@ The most frequent other feature values with which `NOUN` and `Derivation` co-occ
 * `Llinen,Vs` (258; 3% of non-empty `Derivation`): <em>mahdollisuus, mahdollisuuden, mahdollisuutta, mahdollisuuksia, mahdollisuudet, todellisuudessa, todellisuus, turvallisuuden, teollisuuden, mahdollisuuksien</em>
 * `Minen` (1757; 23% of non-empty `Derivation`): <em>muuttamisesta, soveltamista, tekemistä, liittymistä, soveltamisesta, kotouttamiseen, varmistamiseksi, perustamisen, soveltaminen, saaminen</em>
 * `Tar` (19; 0% of non-empty `Derivation`): <em>kuningatar, kaunotar, kuningattaren, herttuatar, kaunotarta, kaunottaria, kuningatarta, kuningattarien, paronitar, vapaaherratar</em>
-* `Ton` (6; 0% of non-empty `Derivation`): <em>p​i​t​k​ä​a​i​k​a​i​s​t​y​ö​t​t​ö​m​i​e​n, syyttömiä, tuntemattomille, työttömien, työttömät</em>
+* `Ton` (6; 0% of non-empty `Derivation`): <em>pitkäaikaistyöttömien, syyttömiä, tuntemattomille, työttömien, työttömät</em>
 * `Ton,Vs` (52; 1% of non-empty `Derivation`): <em>onnettomuus, onnettomuuden, koskemattomuutensa, lento-onnettomuus, onnettomuudessa, onnettomuudesta, onnettomuuksien, riippumattomuus, Levottomuudet, Levottomuuksien</em>
 * `U` (1965; 26% of non-empty `Derivation`): <em>avulla, alussa, loppuun, keskustelua, alusta, apua, lopussa, kasvu, kasvua, lopulla</em>
 * `Vs` (937; 13% of non-empty `Derivation`): <em>yhteydessä, oikeus, oikeuden, osuus, yhteyttä, ihmisoikeuksien, terveyttä, ihmisoikeuksia, liikkuvuuden, oikeutta</em>

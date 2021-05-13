@@ -107,12 +107,12 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 35	id	is	PRON	p|p|-|s|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem,Prs	37	advmod:emph	_	_
 36	est	sum	VERB	v|v|3|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	35	fixed	_	_
 37	res	res	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	32	obj	_	_
-38	mea	meus	DET	a|a|1|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	37	det	_	_
+38	mea	meus	DET	a|a|1|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	37	det	_	_
 39	illa	ille	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	37	det	_	_
 40	pertenentes	pertineo	VERB	t|t|-|s|p|p|a|f|a|-	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	37	acl	_	_
 41	ipsius	ipse	DET	p|p|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	42	det	_	_
 42	episcopatui	episcopatus	NOUN	n|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	40	obl:arg	_	_
-43	vestri	uester	DET	a|a|2|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	42	det	_	_
+43	vestri	uester	DET	a|a|2|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs	42	det	_	_
 44	sancti	sanctus	ADJ	a|a|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	45	amod	_	_
 45	Martini	Martinus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	42	nmod	_	SpaceAfter=No
 46	,	,	PUNCT	Punc	_	49	punct	_	_
@@ -128,7 +128,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 56	ipsi	ipse	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	55	det	_	_
 57	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	58	case	_	_
 58	manus	manus	NOUN	n|n|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur	60	obl	_	_
-59	mea	meus	DET	a|a|1|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	58	det	_	_
+59	mea	meus	DET	a|a|1|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	58	det	_	_
 60	abui	habeo	VERB	v|v|1|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	37	acl:relcl	_	SpaceAfter=No
 61	,	,	PUNCT	Punc	_	63	punct	_	_
 62	tam	tam	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Dem	63	cc	_	_
@@ -193,7 +193,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 121	ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	105	conj	_	_
 122	aut	aut	CCONJ	c|c|-|-|-|-|-|-|-|-	_	123	cc	_	_
 123	filio	filius	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	121	conj	_	_
-124	meo	meus	DET	a|a|1|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	123	det	_	_
+124	meo	meus	DET	a|a|1|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	123	det	_	_
 125	Vualfridi	Walfridus	PROPN	Propn|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	123	flat	_	SpaceAfter=No
 126	;	;	PUNCT	Punc	_	1	punct	_	_
 

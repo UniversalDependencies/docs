@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="et_ewt-dep-cc.html">cc</a></tt>.
 
-14 nodes (0%) are attached to their parents as `cc:preconj`.
+16 nodes (0%) are attached to their parents as `cc:preconj`.
 
-14 instances of `cc:preconj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.28571428571429.
+16 instances of `cc:preconj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25.
 
-The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (7; 50% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (3; 21% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (2; 14% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 7% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 7% instances).
+The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (7; 44% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (3; 19% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (2; 13% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (2; 13% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (2; 13% instances).
 
 
 ~~~ conllu
@@ -57,26 +57,21 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 4 cc:preconj	color:blue
-1	Pole	olema	VERB	V	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-2	vahet	vahe	NOUN	S	Case=Par|Number=Sing	1	nsubj	1:nsubj	SpaceAfter=No
-3	,	,	PUNCT	Z	_	5	punct	5:punct	_
-4	kas	kas	ADV	D	_	5	cc:preconj	5:cc	_
-5	kasutada	kasutama	VERB	V	VerbForm=Inf	2	acl	2:acl	_
-6	kaamerat	kaamera	NOUN	S	Case=Par|Number=Sing	5	obj	5:obj	_
-7	või	või	CCONJ	J	_	8	cc	8:cc	_
-8	ei	ei	ADV	D	_	6	conj	6:conj	SpaceAfter=No
-9	,	,	PUNCT	Z	_	13	punct	13:punct	_
-10	sama	sama	ADV	D	_	11	advmod	11:advmod	_
-11	vali	vali	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	12	amod	12:amod	_
-12	klõbin	klõbin	NOUN	S	Case=Nom|Number=Sing	13	nsubj	13:nsubj	_
-13	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	1:conj	_
-14	ikka	ikka	ADV	D	_	13	advmod	13:advmod	SpaceAfter=No
-15	.	.	PUNCT	Z	_	1	punct	1:punct	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 cc:preconj	color:blue
+1	tussu	tussu	PROPN	S	Case=Nom|Number=Sing	6	parataxis	6:parataxis	SpaceAfter=No
+2	:	:	PUNCT	Z	_	1	punct	1:punct	_
+3	footon	footon	NOUN	S	Case=Nom|Number=Sing	6	nsubj:cop	6:nsubj	_
+4	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	6:cop	_
+5	nii	nii	ADV	D	_	6	cc:preconj	6:cc	_
+6	osake	osake	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	0:root	_
+7	kui	kui	CCONJ	J	_	9	cc	9:cc	_
+8	ka	ka	ADV	D	_	9	advmod	9:advmod	_
+9	laine	laine	NOUN	S	Case=Nom|Number=Sing	6	conj	6:conj	SpaceAfter=No
+10	.	.	PUNCT	Z	_	6	punct	6:punct	_
 
 ~~~
 

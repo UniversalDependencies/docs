@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="ug_udt-pos-VERB.htm
 
 138 <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="ug_udt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (138; 100%), <tt><a href="ug_udt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (138; 100%), <tt><a href="ug_udt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (117; 85%), <tt><a href="ug_udt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (111; 80%), <tt><a href="ug_udt-feat-Person.html">Person</a></tt><tt>=3</tt> (111; 80%), <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (86; 62%), <tt><a href="ug_udt-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (77; 56%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="ug_udt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (138; 100%), <tt><a href="ug_udt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (117; 85%), <tt><a href="ug_udt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (111; 80%), <tt><a href="ug_udt-feat-Person.html">Person</a></tt><tt>=3</tt> (111; 80%), <tt><a href="ug_udt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (104; 75%), <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (86; 62%), <tt><a href="ug_udt-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (77; 56%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
@@ -31,7 +31,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 
 53 <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> tokens (5% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (52; 98%), <tt><a href="ug_udt-feat-Person.html">Person</a></tt><tt>=3</tt> (52; 98%), <tt><a href="ug_udt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (38; 72%), <tt><a href="ug_udt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (36; 68%), <tt><a href="ug_udt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (36; 68%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (52; 98%), <tt><a href="ug_udt-feat-Person.html">Person</a></tt><tt>=3</tt> (52; 98%), <tt><a href="ug_udt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (42; 79%), <tt><a href="ug_udt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (38; 72%), <tt><a href="ug_udt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (36; 68%), <tt><a href="ug_udt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (36; 68%).
 
 `AUX` tokens may have the following values of `Polarity`:
 

@@ -68,11 +68,13 @@ Parents of `CCONJ` nodes belong to 7 different parts of speech: <tt><a href="mr_
 
 63 (98%) `CCONJ` nodes are leaves.
 
-1 (2%) `CCONJ` nodes have one child.
+0 (0%) `CCONJ` nodes have one child.
 
-The highest child degree of a `CCONJ` node is 1.
+1 (2%) `CCONJ` nodes have two children.
 
-Children of `CCONJ` nodes are attached using 1 different relations: <tt><a href="mr_ufal-dep-parataxis.html">parataxis</a></tt> (1; 100% instances)
+The highest child degree of a `CCONJ` node is 2.
 
-Children of `CCONJ` nodes belong to 1 different parts of speech: <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt> (1; 100% instances)
+Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="mr_ufal-dep-parataxis.html">parataxis</a></tt> (1; 50% instances), <tt><a href="mr_ufal-dep-punct.html">punct</a></tt> (1; 50% instances)
+
+Children of `CCONJ` nodes belong to 2 different parts of speech: <tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (1; 50% instances), <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt> (1; 50% instances)
 

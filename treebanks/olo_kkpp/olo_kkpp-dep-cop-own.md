@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `cop:own`: <tt><a hr
 # visual-style 1	fgColor:white
 # visual-style 1 3 cop:own	color:blue
 1	Heil	Hyö	PRON	PRON	Case=All|Number=Plur|Person=3|PronType=Prs	0	root	_	_
-2	ei	ei	AUX	AUX	Mood=Ind|Number=Sing|Person=3	1	aux:neg	_	_
+2	ei	ei	AUX	AUX	Mood=Ind|Number=Sing|Person=3	1	aux	_	_
 3	ole	olla	AUX	AUX	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop:own	_	_
 4	ovvostustu	ovvostus	NOUN	NOUN	Case=Par|Number=Sing	1	nsubj:cop	_	_
 5	sit	sit	PRON	PRON	Case=Par|Number=Sing	4	nmod	_	SpaceAfter=No

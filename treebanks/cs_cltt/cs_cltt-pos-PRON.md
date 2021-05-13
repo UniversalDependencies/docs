@@ -13,7 +13,7 @@ The 10 most frequent `PRON` lemmas: <em>se, jenž, on, veškerý</em>
 
 The 10 most frequent `PRON` types:  <em>se, nichž, němž, jej, němuž, je, jim, jí, jimiž, veškeré</em>
 
-The 10 most frequent ambiguous lemmas: <em>jenž</em> (<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 73, <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 21)
+The 10 most frequent ambiguous lemmas: 
 
 The 10 most frequent ambiguous types:  <em>se</em> (<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 472, <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> 29), <em>je</em> (<tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> 199, <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 11, <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> 10), <em>jehož</em> (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 6, <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 5)
 
@@ -31,7 +31,7 @@ The 10 most frequent ambiguous types:  <em>se</em> (<tt><a href="cs_cltt-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 9.250000 (the average of all parts of speech is 1.726345).
+The form / lemma ratio of `PRON` is 9.250000 (the average of all parts of speech is 1.725132).
 
 The 1st highest number of forms (15) was observed with the lemma “on”: <em>ho, je, jej, jemu, ji, jim, jimi, jí, nich, nim, nimi, ní, ním, ně, něj</em>.
 
@@ -39,7 +39,7 @@ The 2nd highest number of forms (14) was observed with the lemma “jenž”: <e
 
 The 3rd highest number of forms (4) was observed with the lemma “se”: <em>se, sebou, si, sobě</em>.
 
-`PRON` occurs with 10 features: <tt><a href="cs_cltt-feat-Case.html">Case</a></tt> (636; 100% instances), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt> (636; 100% instances), <tt><a href="cs_cltt-feat-Reflex.html">Reflex</a></tt> (480; 75% instances), <tt><a href="cs_cltt-feat-Variant.html">Variant</a></tt> (474; 75% instances), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt> (156; 25% instances), <tt><a href="cs_cltt-feat-PrepCase.html">PrepCase</a></tt> (93; 15% instances), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt> (90; 14% instances), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt> (71; 11% instances), <tt><a href="cs_cltt-feat-Style.html">Style</a></tt> (12; 2% instances), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt> (2; 0% instances)
+`PRON` occurs with 10 features: <tt><a href="cs_cltt-feat-Case.html">Case</a></tt> (636; 100% instances), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt> (636; 100% instances), <tt><a href="cs_cltt-feat-Reflex.html">Reflex</a></tt> (480; 75% instances), <tt><a href="cs_cltt-feat-Variant.html">Variant</a></tt> (474; 75% instances), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt> (156; 25% instances), <tt><a href="cs_cltt-feat-PrepCase.html">PrepCase</a></tt> (143; 22% instances), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt> (90; 14% instances), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt> (71; 11% instances), <tt><a href="cs_cltt-feat-Style.html">Style</a></tt> (12; 2% instances), <tt><a href="cs_cltt-feat-Animacy.html">Animacy</a></tt> (2; 0% instances)
 
 `PRON` occurs with 22 feature-value pairs: `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=3`, `PrepCase=Npr`, `PrepCase=Pre`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`, `Style=Arch`, `Variant=Short`
 

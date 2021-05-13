@@ -29,9 +29,9 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 5	да	да	SCONJ	G-	_	6	mark	_	ref=MATT_21.4
 6	събѫдетъ	събꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	ref=MATT_21.4
 7	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	expl	_	ref=MATT_21.4
-8	реченое	рещи	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	6	nsubj	_	ref=MATT_21.4
+8	реченое	рещи	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	nsubj	_	ref=MATT_21.4
 9	п҃ркмъ	пророкъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	8	obl:agent	_	ref=MATT_21.4
-10	г҃лѭщемъ	глаголати	VERB	V-	Case=Ins|Gender=Masc,Neut|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	9	acl	_	ref=MATT_21.4
+10	г҃лѭщемъ	глаголати	VERB	V-	Case=Ins|Gender=Masc,Neut|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	9	acl	_	ref=MATT_21.4
 
 ~~~
 
@@ -48,7 +48,7 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 4	томоу	тъ	DET	Pd	Case=Dat|Gender=Masc,Neut|Number=Sing	3	det	_	ref=MATT_26.24
 5	имьже	иже	PRON	Pr	Case=Ins|Gender=Masc|Number=Sing|PronType=Rel	8	obl:agent	_	ref=MATT_26.24
 6	с҃нъ	сꙑнъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	ref=MATT_26.24|LId=1
-7	ч҃скъ	чловѣчьскъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	6	amod	_	ref=MATT_26.24
+7	ч҃скъ	чловѣчьскъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	ref=MATT_26.24
 8	прѣдастъ	прѣдати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	_	ref=MATT_26.24
 9	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	expl	_	ref=MATT_26.24
 
@@ -67,7 +67,7 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 4	на	на	ADP	R-	_	5	case	_	ref=LUKE_4.15
 5	сънъмищихъ	съньмище	NOUN	Nb	Case=Loc|Gender=Neut|Number=Plur	3	obl	_	ref=LUKE_4.15
 6	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	det	_	ref=LUKE_4.15
-7	славимъ	славити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Pass	3	advcl	_	ref=LUKE_4.15
+7	славимъ	славити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Pass	3	advcl	_	ref=LUKE_4.15
 8	вьсѣми	вьсь	ADJ	Px	Case=Ins|Gender=Masc|Number=Plur	7	obl:agent	_	ref=LUKE_4.15
 
 ~~~

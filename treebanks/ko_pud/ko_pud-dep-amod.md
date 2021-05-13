@@ -27,7 +27,7 @@ The following 6 pairs of parts of speech are connected with `amod`: <tt><a href=
 3	클린턴의	클린턴	PROPN	NNP+CM	Case=Gen|Polite=Form	6	nmod:poss	_	MSeg=클린턴-의|Translit=.keul.rin.teon.yi|LTranslit=.keul.rin.teon
 4	거액의	거액	NOUN	NN+CM	Case=Gen|Polite=Form	6	nmod:poss	_	MSeg=거액-의|Translit=.geo.aeg.yi|LTranslit=.geo.aeg
 5	은행	_	NOUN	NN	_	6	compound	_	Translit=.eun.haeng|LTranslit=_
-6	계좌에서	계좌	NOUN	NN+CM	Case=Advb|Polite=Form	7	advmod	_	MSeg=계좌-에서|Translit=.gye.jwa.e.seo|LTranslit=.gye.jwa
+6	계좌에서	계좌	NOUN	NN+CM	Polite=Form	7	advmod	_	MSeg=계좌-에서|Translit=.gye.jwa.e.seo|LTranslit=.gye.jwa
 7	충당되었다	_	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=.chung.dang.doe.eoss.da|LTranslit=_
 8	.	.	PUNCT	.	_	7	punct	_	Translit=.|LTranslit=_
 
@@ -69,7 +69,7 @@ The following 6 pairs of parts of speech are connected with `amod`: <tt><a href=
 5	및	_	CCONJ	CC	_	6	cc	_	ToDo=cc-after-conj|Translit=.mich|LTranslit=_
 6	로비스트들이	로비스트들	NOUN	NN+CM	Case=Nom|Number=Plur|Polite=Form	4	conj	_	MSeg=로비스트들-이|Translit=.ro.bi.seu.teu.deul.i|LTranslit=.ro.bi.seu.teu.deul
 7	그	_	DET	DT	_	8	det	_	Translit=.geu|LTranslit=_
-8	책에	책	NOUN	NN+CM	Case=Advb|Polite=Form	10	advmod	_	MSeg=책-에|Translit=.chaeg.e|LTranslit=.chaeg
+8	책에	책	NOUN	NN+CM	Polite=Form	10	advmod	_	MSeg=책-에|Translit=.chaeg.e|LTranslit=.chaeg
 9	관심을	관심	NOUN	NN+CM	Case=Acc|Polite=Form	10	obj	_	MSeg=관심-을|Translit=.gwan.sim.eul|LTranslit=.gwan.sim
 10	갖게	_	VERB	VV	Form=Compl	11	advcl	_	Translit=.gaj.ge|LTranslit=_
 11	됨은	됨	PART	VV+CM	Case=Nom|Polite=Form|VerbForm=Ger	12	csubj	_	MSeg=됨-은|Translit=.doem.eun|LTranslit=.doem

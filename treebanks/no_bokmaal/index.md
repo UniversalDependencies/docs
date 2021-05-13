@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Lilja Øvrelid, Fredrik Jørgensen, Petter Hohle.
 
 Repository: [UD_Norwegian-Bokmaal](https://github.com/UniversalDependencies/UD_Norwegian-Bokmaal)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udno_bokmaal27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udno_bokmaal28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -176,7 +176,7 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 </ul>
 
 <ul>
-<li>This corpus contains 34524 tokens (11%) that are not followed by a space.</li>
+<li>This corpus contains 34509 tokens (11%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -781,16 +781,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(over) (2)</li>
       <li>VERB-Fin--PRON (2629)</li>
       <li>VERB-Fin--PRON-Acc (6)</li>
-      <li>VERB-Fin--PRON-Nom (5621)</li>
-      <li>VERB-Inf--NOUN (1058)</li>
+      <li>VERB-Fin--PRON-Nom (5622)</li>
+      <li>VERB-Inf--NOUN (1057)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
       <li>VERB-Inf--PRON (534)</li>
       <li>VERB-Inf--PRON-Acc (7)</li>
-      <li>VERB-Inf--PRON-Nom (1463)</li>
+      <li>VERB-Inf--PRON-Nom (1462)</li>
       <li>VERB-Part--NOUN (1045)</li>
       <li>VERB-Part--NOUN-ADP(med) (1)</li>
       <li>VERB-Part--PRON (511)</li>
-      <li>VERB-Part--PRON-Nom (1015)</li>
+      <li>VERB-Part--PRON-Nom (1016)</li>
     </ul>
   </li>
 </ul>
@@ -804,7 +804,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON (784)</li>
       <li>VERB-Fin--PRON-Acc (819)</li>
       <li>VERB-Fin--PRON-Nom (11)</li>
-      <li>VERB-Inf--NOUN (3500)</li>
+      <li>VERB-Inf--NOUN (3501)</li>
       <li>VERB-Inf--PRON (400)</li>
       <li>VERB-Inf--PRON-ADP(med) (1)</li>
       <li>VERB-Inf--PRON-Acc (499)</li>

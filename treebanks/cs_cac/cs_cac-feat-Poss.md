@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 6020 tokens (1%) have a non-empty value of `Poss`.
 567 types (1%) occur at least once with a non-empty value of `Poss`.
-312 lemmas (1%) occur at least once with a non-empty value of `Poss`.
+313 lemmas (1%) occur at least once with a non-empty value of `Poss`.
 The feature is used with 2 part-of-speech tags: <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (5371; 1% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (649; 0% instances).
 
 ### `DET`
@@ -25,6 +25,8 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 * `Yes` (5371; 100% of non-empty `Poss`): <em>jejich, jeho, své, její, naší, svou, naše, našeho, svých, našich</em>
 * `EMPTY` (14391): <em>to, které, který, která, tím, této, těchto, tyto, tom, kteří</em>
 
+`Poss` seems to be **lexical feature** of `DET`. 100% lemmas (10) occur only with one value of `Poss`.
+
 ### `ADJ`
 
 649 <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Poss`.
@@ -36,7 +38,7 @@ The most frequent other feature values with which `ADJ` and `Poss` co-occurred: 
 * `Yes` (649; 100% of non-empty `Poss`): <em>Karlovy, Erbenových, Erbenovy, Fučíkova, Mohorovičićovy, Bohrův, Fučíkovy, Erbenova, Erbenově, Fučíkův</em>
 * `EMPTY` (73573): <em>další, pracovní, první, jednotlivých, základní, nové, možno, socialistické, různých, dalších</em>
 
-`Poss` seems to be **lexical feature** of `ADJ`. 100% lemmas (304) occur only with one value of `Poss`.
+`Poss` seems to be **lexical feature** of `ADJ`. 100% lemmas (303) occur only with one value of `Poss`.
 
 ## Relations with Agreement in `Poss`
 

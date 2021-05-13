@@ -78,7 +78,7 @@ The following 4 pairs of parts of speech are connected with `parataxis`: <tt><a 
 3	அடைக்க	அடை	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	5	advcl	5:advcl	Translit=aṭaikka|LTranslit=aṭai
 4	ப்பட்ட்	படு	AUX	VT-T---PA	Polarity=Pos|VerbForm=Part|Voice=Pass	3	aux	3:aux	Translit=ppaṭṭ|LTranslit=paṭu
 5	இருந்த	இரு	ADJ	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	8	amod	8:amod	Translit=irunta|LTranslit=iru
-6	100	100	NUM	U=-------	NumForm=Digit	8	nummod	8:nummod	Translit=100|LTranslit=100
+6	100	100	NUM	U=-------	NumForm=Digit|NumType=Card	8	nummod	8:nummod	Translit=100|LTranslit=100
 7	இந்திய	இந்தியா	PROPN	NO--3SN--	Gender=Neut|Number=Sing|Person=3	8	nmod	8:nmod	Translit=intiya|LTranslit=intiyā
 8	மீனவர்கள்	மீனவர்	NOUN	NNN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	10	nsubj	10:nsubj	Translit=mīnavarkaḷ|LTranslit=mīnavar
 9	இன்று	இன்று	ADV	AA-------	_	10	advmod	10:advmod	Translit=inru|LTranslit=inru

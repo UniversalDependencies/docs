@@ -70,9 +70,9 @@ The 2nd highest number of forms (5) was observed with the lemma “हा”: <e
 
 The 3rd highest number of forms (2) was observed with the lemma “एक”: <em>एक, एका</em>.
 
-`DET` occurs with 5 features: <tt><a href="mr_ufal-feat-PronType.html">PronType</a></tt> (112; 100% instances), <tt><a href="mr_ufal-feat-Number.html">Number</a></tt> (88; 79% instances), <tt><a href="mr_ufal-feat-Distance.html">Distance</a></tt> (79; 71% instances), <tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt> (57; 51% instances), <tt><a href="mr_ufal-feat-Case.html">Case</a></tt> (42; 38% instances)
+`DET` occurs with 5 features: <tt><a href="mr_ufal-feat-PronType.html">PronType</a></tt> (112; 100% instances), <tt><a href="mr_ufal-feat-Number.html">Number</a></tt> (88; 79% instances), <tt><a href="mr_ufal-feat-Deixis.html">Deixis</a></tt> (79; 71% instances), <tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt> (57; 51% instances), <tt><a href="mr_ufal-feat-Case.html">Case</a></tt> (42; 38% instances)
 
-`DET` occurs with 11 feature-value pairs: `Case=Nom`, `Case=Obl`, `Distance=Dist`, `Distance=Prox`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `PronType=Dem`, `PronType=Ind`
+`DET` occurs with 11 feature-value pairs: `Case=Abs`, `Case=Nom`, `Deixis=Prox`, `Deixis=Remt`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `PronType=Dem`, `PronType=Ind`
 
 `DET` occurs with 25 feature combinations.
 The most frequent feature combination is `Number=Sing|PronType=Ind` (22 tokens).

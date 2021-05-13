@@ -48,7 +48,7 @@ The following 19 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 4	महिला	_	NOUN	NN	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	8	nsubj	_	Translit=mahilā
 5	ने	_	ADP	IN	Case=Erg	4	case	_	Translit=ne
 6	रोना	_	VERB	VINF	VerbForm=Inf	8	xcomp	_	Translit=ronā
-7	शुरू	_	NOUN	NN	Gender=Masc|Number=Sing	8	compound:conjv	_	Translit=śurū
+7	शुरू	_	NOUN	NN	Gender=Masc|Number=Sing	8	compound:lvc	_	Translit=śurū
 8	किया	_	VERB	VBI	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No|Bug=multi-subj|Translit=kiyā
 9	,	_	PUNCT	,	_	10	punct	_	Translit=,
 10	फिर	_	ADV	RB	_	8	advmod	_	Translit=phira

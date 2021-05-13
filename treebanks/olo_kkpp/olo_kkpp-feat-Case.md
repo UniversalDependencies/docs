@@ -139,7 +139,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Ine` (2; 8% of non-empty `Case`): <em>kuunneltes, luadimas</em>
 * `Nom` (2; 8% of non-empty `Case`): <em>kehitynnyh, tundiettu</em>
 * `Par` (2; 8% of non-empty `Case`): <em>koskijoi, sanottuu</em>
-* `EMPTY` (232): <em>sanoi, pietäh, rodieu, sanoo, kuulimo, kuulittogo, kuulluh, sanottih, tiezimö, tiezittö</em>
+* `EMPTY` (233): <em>sanoi, pietäh, rodieu, sanoo, kuulimo, kuulittogo, kuulluh, sanottih, tiezimö, tiezittö</em>
 
 <table>
   <tr><th>Paradigm <i>sanuo</i></th><th><tt>Par</tt></th><th><tt>Ill</tt></th></tr>
@@ -169,14 +169,14 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 ### `X`
 
-3 <tt><a href="olo_kkpp-pos-X.html">X</a></tt> tokens (43% of all `X` tokens) have a non-empty value of `Case`.
+3 <tt><a href="olo_kkpp-pos-X.html">X</a></tt> tokens (50% of all `X` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `X` and `Case` co-occurred: <tt><a href="olo_kkpp-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="olo_kkpp-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="olo_kkpp-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="olo_kkpp-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="olo_kkpp-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt><tt>=Plur</tt> (2; 67%).
+The most frequent other feature values with which `X` and `Case` co-occurred: <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt><tt>=Plur</tt> (2; 67%).
 
 `X` tokens may have the following values of `Case`:
 
 * `Par` (3; 100% of non-empty `Case`): <em>d’engaa, piduhuttu, puččii</em>
-* `EMPTY` (4): <em>teidänyh, ttiteatr, u, y</em>
+* `EMPTY` (3): <em>ttiteatr, u, y</em>
 
 ### `ADP`
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-435 nodes (0%) are attached to their parents as `csubj`.
+309 nodes (0%) are attached to their parents as `csubj`.
 
-383 instances of `csubj` (88%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.35862068965517.
+276 instances of `csubj` (89%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.90614886731392.
 
-The following 15 pairs of parts of speech are connected with `csubj`: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (206; 47% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (107; 25% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (69; 16% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (13; 3% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (9; 2% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (8; 2% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (6; 1% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-DET.html">DET</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `csubj`: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (128; 41% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (86; 28% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (54; 17% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (11; 4% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (9; 3% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (5; 2% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 15 pairs of parts of speech are connected with `csubj`: <tt><a hre
 3	werd	worden	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	bekend	bekend	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	3	xcomp	3:xcomp	_
 5	dat	dat	SCONJ	VG|onder	_	11	mark	11:mark	_
-6	directielid	directielid	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	11	nsubj	11:nsubj	_
+6	directielid	directie_lid	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	11	nsubj	11:nsubj	_
 7	P.	P.	PROPN	SPEC|deeleigen	_	6	appos	6:appos	_
 8	Stuyts	Stuyts	PROPN	SPEC|deeleigen	_	7	flat	7:flat	_
 9	ziek	ziek	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	11	advmod	11:advmod	_
@@ -72,7 +72,7 @@ The following 15 pairs of parts of speech are connected with `csubj`: <tt><a hre
 6	dat	dat	SCONJ	VG|onder	_	9	mark	9:mark	_
 7	de	de	DET	LID|bep|stan|rest	Definite=Def	8	det	8:det	_
 8	boeken	boek	NOUN	N|soort|mv|basis	Number=Plur	9	nsubj:pass	9:nsubj:pass	_
-9	uitgeleend	uitlenen	VERB	WW|vd|vrij|zonder	VerbForm=Part	5	csubj	5:csubj	_
+9	uitgeleend	uit_lenen	VERB	WW|vd|vrij|zonder	VerbForm=Part	5	csubj	5:csubj	_
 10	worden	worden	AUX	WW|pv|tgw|mv	Number=Plur|Tense=Pres|VerbForm=Fin	9	aux:pass	9:aux:pass	SpaceAfter=No
 11	.	.	PUNCT	LET	_	5	punct	5:punct	_
 

@@ -31,7 +31,7 @@ The following 85 pairs of parts of speech are connected with `conj`: <tt><a href
 7	og	og	CCONJ	_	_	8	cc	_	_
 8	vender	vende	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
 9	sig	sig	PRON	_	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	8	obj	_	_
-10	om	om	ADV	_	_	8	obl:loc	_	_
+10	om	om	ADV	_	_	8	advmod:lmod	_	_
 11	på	på	ADP	_	AdpType=Prep	12	case	_	_
 12	siden	side	NOUN	_	Definite=Def|Gender=Com|Number=Sing	10	obl	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	5	punct	_	_

@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of nsubj in UD_Old_Russian-RNC'
+title:  'Statistics of nsubj in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Relations: `nsubj`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Relations: `nsubj`
 
 This relation is universal.
 There are 1 language-specific subtypes of `nsubj`: <tt><a href="orv_rnc-dep-nsubj-pass.html">nsubj:pass</a></tt>.

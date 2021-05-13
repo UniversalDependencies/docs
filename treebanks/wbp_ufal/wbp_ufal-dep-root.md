@@ -8,10 +8,10 @@ udver: '2'
 
 This relation is universal.
 
-55 nodes (18%) are attached to their parents as `root`.
+55 nodes (17%) are attached to their parents as `root`.
 
 55 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.61818181818182.
+Average distance between parent and child is 3.63636363636364.
 
 The following 1 pairs of parts of speech are connected with `root`: -<tt><a href="wbp_ufal-pos-VERB.html">VERB</a></tt> (55; 100% instances).
 

@@ -26,7 +26,7 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 2	používání	používání	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	1	nmod	_	_
 3	může	moci	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	být	být	AUX	Vf--------A----	Polarity=Pos|VerbForm=Inf	5	aux:pass	_	_
-5	vyjádřen	vyjádřený	ADJ	VsYS---XX-AP---	Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	3	obj	_	LDeriv=vyjádřit
+5	vyjádřen	vyjádřený	ADJ	VsYS---XX-AP---	Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	3	ccomp	_	LDeriv=vyjádřit
 6	i	i	CCONJ	J^-------------	_	7	advmod:emph	_	LId=i-1
 7	jinak	jinak	ADV	Db-------------	_	5	advmod	_	_
 8	než	než	SCONJ	J,-------------	_	10	mark	_	LId=než-2

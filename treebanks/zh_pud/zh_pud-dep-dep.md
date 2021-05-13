@@ -88,14 +88,14 @@ The following 25 pairs of parts of speech are connected with `dep`: <tt><a href=
 3	一	_	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|Translit=yī
 4	個	_	NOUN	NNB	_	7	clf	_	SpaceAfter=No|Translit=gè
 5	很棒	_	ADJ	JJ	_	7	amod	_	SpaceAfter=No|Translit=hěnbàng
-6	的	_	PART	DEC	_	5	mark:relcl	_	SpaceAfter=No|Translit=de
+6	的	_	PART	DEC	_	5	mark:rel	_	SpaceAfter=No|Translit=de
 7	團隊	_	NOUN	NN	_	2	obj	_	SpaceAfter=No|Translit=tuánduì
 8	，	_	PUNCT	,	_	2	punct	_	SpaceAfter=No|Translit=，
 9	這	_	PRON	PRD	_	14	nsubj	_	SpaceAfter=No|Translit=zhè
 10	是	_	AUX	VC	_	14	cop	_	SpaceAfter=No|Translit=shì
 11	我們	_	PRON	PRP	Number=Plur|Person=1	12	nsubj	_	SpaceAfter=No|Translit=wǒmen
 12	乘風破浪	_	VERB	VV	_	14	acl:relcl	_	SpaceAfter=No|Translit=chéngfēngpòlàng
-13	的	_	PART	DEC	_	12	mark:relcl	_	SpaceAfter=No|Translit=de
+13	的	_	PART	DEC	_	12	mark:rel	_	SpaceAfter=No|Translit=de
 14	機會	_	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=jīhuì
 15	。	_	PUNCT	.	_	14	punct	_	Translit=。
 

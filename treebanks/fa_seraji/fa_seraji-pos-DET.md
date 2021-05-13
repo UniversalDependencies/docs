@@ -74,9 +74,9 @@ The 3rd highest number of forms (3) was observed with the lemma “این”: ا
 
 Parents of `DET` nodes belong to 9 different parts of speech: <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (3422; 97% instances), <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> (27; 1% instances), <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt> (26; 1% instances), <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> (23; 1% instances), <tt><a href="fa_seraji-pos-NUM.html">NUM</a></tt> (22; 1% instances), <tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt> (20; 1% instances), <tt><a href="fa_seraji-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fa_seraji-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fa_seraji-pos-DET.html">DET</a></tt> (1; 0% instances)
 
-3510 (99%) `DET` nodes are leaves.
+3509 (99%) `DET` nodes are leaves.
 
-12 (0%) `DET` nodes have one child.
+13 (0%) `DET` nodes have one child.
 
 19 (1%) `DET` nodes have two children.
 
@@ -84,7 +84,7 @@ Parents of `DET` nodes belong to 9 different parts of speech: <tt><a href="fa_se
 
 The highest child degree of a `DET` node is 4.
 
-Children of `DET` nodes are attached using 10 different relations: <tt><a href="fa_seraji-dep-fixed.html">fixed</a></tt> (40; 70% instances), <tt><a href="fa_seraji-dep-case.html">case</a></tt> (5; 9% instances), <tt><a href="fa_seraji-dep-nmod-poss.html">nmod:poss</a></tt> (5; 9% instances), <tt><a href="fa_seraji-dep-acl-relcl.html">acl:relcl</a></tt> (1; 2% instances), <tt><a href="fa_seraji-dep-amod.html">amod</a></tt> (1; 2% instances), <tt><a href="fa_seraji-dep-aux.html">aux</a></tt> (1; 2% instances), <tt><a href="fa_seraji-dep-cc.html">cc</a></tt> (1; 2% instances), <tt><a href="fa_seraji-dep-ccomp.html">ccomp</a></tt> (1; 2% instances), <tt><a href="fa_seraji-dep-det.html">det</a></tt> (1; 2% instances), <tt><a href="fa_seraji-dep-nsubj.html">nsubj</a></tt> (1; 2% instances)
+Children of `DET` nodes are attached using 11 different relations: <tt><a href="fa_seraji-dep-fixed.html">fixed</a></tt> (40; 69% instances), <tt><a href="fa_seraji-dep-case.html">case</a></tt> (5; 9% instances), <tt><a href="fa_seraji-dep-nmod-poss.html">nmod:poss</a></tt> (5; 9% instances), <tt><a href="fa_seraji-dep-acl-relcl.html">acl:relcl</a></tt> (1; 2% instances), <tt><a href="fa_seraji-dep-amod.html">amod</a></tt> (1; 2% instances), <tt><a href="fa_seraji-dep-aux.html">aux</a></tt> (1; 2% instances), <tt><a href="fa_seraji-dep-cc.html">cc</a></tt> (1; 2% instances), <tt><a href="fa_seraji-dep-ccomp.html">ccomp</a></tt> (1; 2% instances), <tt><a href="fa_seraji-dep-det.html">det</a></tt> (1; 2% instances), <tt><a href="fa_seraji-dep-nsubj.html">nsubj</a></tt> (1; 2% instances), <tt><a href="fa_seraji-dep-punct.html">punct</a></tt> (1; 2% instances)
 
-Children of `DET` nodes belong to 8 different parts of speech: <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (22; 39% instances), <tt><a href="fa_seraji-pos-CCONJ.html">CCONJ</a></tt> (20; 35% instances), <tt><a href="fa_seraji-pos-PART.html">PART</a></tt> (5; 9% instances), <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt> (4; 7% instances), <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> (3; 5% instances), <tt><a href="fa_seraji-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="fa_seraji-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="fa_seraji-pos-NUM.html">NUM</a></tt> (1; 2% instances)
+Children of `DET` nodes belong to 9 different parts of speech: <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (22; 38% instances), <tt><a href="fa_seraji-pos-CCONJ.html">CCONJ</a></tt> (20; 34% instances), <tt><a href="fa_seraji-pos-PART.html">PART</a></tt> (5; 9% instances), <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt> (4; 7% instances), <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> (3; 5% instances), <tt><a href="fa_seraji-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="fa_seraji-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="fa_seraji-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (1; 2% instances)
 

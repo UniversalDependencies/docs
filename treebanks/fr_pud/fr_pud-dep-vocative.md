@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 5	pas	pas	ADV	RB	Polarity=Neg	4	advmod	_	_
 6	besoin	besoin	NOUN	NN	Gender=Masc|Number=Sing	4	obj	_	_
 7	de	de	ADP	IN	_	8	case	_	_
-8	ça	ça	PRON	PDEM	_	4	obl	_	SpaceAfter=No
+8	ça	ça	PRON	PDEM	PronType=Dem	4	obl	_	SpaceAfter=No
 9	,	,	PUNCT	,	_	11	punct	_	_
 10	mes	son	DET	DTP$	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
 11	amis	ami	NOUN	NN	Gender=Masc|Number=Plur	4	vocative	_	SpaceAfter=No

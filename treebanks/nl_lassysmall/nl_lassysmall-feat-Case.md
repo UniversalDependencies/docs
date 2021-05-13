@@ -22,9 +22,9 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (327; 34% of non-empty `Case`): <em>zich, hem, elkaar, hen, haar, zichzelf, ons, je, mij, me</em>
-* `Nom` (621; 66% of non-empty `Case`): <em>hij, zij, men, ik, je, we, wij, u, Zijzelf, jij</em>
-* `EMPTY` (2205): <em>zijn, die, ze, het, haar, dat, hun, meer, dit, wat</em>
+* `Acc` (330; 35% of non-empty `Case`): <em>zich, hem, elkaar, hen, haar, zichzelf, ons, je, mij, u</em>
+* `Nom` (618; 65% of non-empty `Case`): <em>hij, zij, men, ik, je, we, wij, Zijzelf, jij</em>
+* `EMPTY` (2204): <em>zijn, die, ze, het, haar, dat, hun, meer, dit, wat</em>
 
 <table>
   <tr><th>Paradigm <i>je</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>

@@ -26,9 +26,9 @@ The following 2 pairs of parts of speech are connected with `amod`: <tt><a href=
 2	romongakuaa	mongakuaa	VERB	vt	Clusivity[subj]=Ex|Mood=Ind|Person[subj]=1|Subcat=Tran|VerbForm=Fin	0	root	_	A1.PL.EXCL-CAUS-grow
 3	peicha	upeicha	ADV	dem	_	2	advmod	_	like.this
 4	,	,	PUNCT	punct	_	5	punct	_	_
-5	romba'apo	mba'apo	VERB	vi:a	Clusivity[subj]=Ex|Mood=Ind|Person[subj]=1|Subcat=Int|VerbForm=Fin	2	conj	_	A1.PL.EXCL-work
+5	romba'apo	mba'apo	VERB	vi:a	Clusivity[subj]=Ex|Mood=Ind|Person[subj]=1|Subcat=Intr|VerbForm=Fin	2	conj	_	A1.PL.EXCL-work
 6	,	,	PUNCT	punct	_	7	punct	_	_
-7	roñemĩty	ñemĩty	VERB	vi:a	Clusivity[subj]=Ex|Mood=Ind|Person[subj]=1|Subcat=Int|VerbForm=Fin	2	conj	_	A1.PL.EXCL-sow
+7	roñemĩty	ñemĩty	VERB	vi:a	Clusivity[subj]=Ex|Mood=Ind|Person[subj]=1|Subcat=Intr|VerbForm=Fin	2	conj	_	A1.PL.EXCL-sow
 8	roñoty	ño	VERB	vt	Clusivity[subj]=Ex|Mood=Ind|Person[subj]=1|Subcat=Tran|VerbForm=Fin	2	conj	_	A1.PL.EXCL-TRANS-plant
 9	avachi	avachi	NOUN	n	_	8	obj	_	corn
 10	hũ'i	ũ	ADJ	inact	_	9	amod	_	B3-black-=DIM
@@ -48,7 +48,7 @@ The following 2 pairs of parts of speech are connected with `amod`: <tt><a href=
 1	Ha'e	ha'e	CCONJ	coordconn	_	16	cc	_	and
 2	kyrĩgue'i	kyrĩ	NOUN	n	Number=Plur	17	dislocated	_	child-PL-=DIM
 3	apy	apy	ADV	dem	_	4	advmod	_	DEM
-4	oiko	iko	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	2	acl	_	A3-live
+4	oiko	iko	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	2	acl	_	A3-live
 5	va'e	va'e	SCONJ	rel	_	4	mark	_	REL
 6	pavẽ'i	pavẽ	ADV	quant	_	4	advmod	_	all-=DIM
 7	me	me	ADP	post	_	2	case	_	DAT

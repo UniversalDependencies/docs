@@ -9,18 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Card`, `Mult`, `Ord`.
 
-142 tokens (1%) have a non-empty value of `NumType`.
+139 tokens (1%) have a non-empty value of `NumType`.
 1 types (0) occur at least once with a non-empty value of `NumType`.
 1 lemmas (0) occur at least once with a non-empty value of `NumType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> (124; 1% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (15; 0% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (3; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> (114; 1% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (15; 0% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (10; 0% instances).
 
 ### `NUM`
 
-124 <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+114 <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="en_gumreddit-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (63; 55%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (124; 100% of non-empty `NumType`): <em>_</em>
+* `Card` (114; 100% of non-empty `NumType`): <em>_</em>
 
 ### `ADJ`
 
@@ -31,15 +33,18 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (15; 100% of non-empty `NumType`): <em>_</em>
-* `EMPTY` (982): <em>_</em>
+* `EMPTY` (985): <em>_</em>
 
 ### `ADV`
 
-3 <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `NumType`.
+10 <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `NumType`.
+
+The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="en_gumreddit-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (6; 60%).
 
 `ADV` tokens may have the following values of `NumType`:
 
-* `Mult` (3; 100% of non-empty `NumType`): <em>_</em>
+* `Mult` (4; 40% of non-empty `NumType`): <em>_</em>
+* `Ord` (6; 60% of non-empty `NumType`): <em>_</em>
 * `EMPTY` (1009): <em>_</em>
 
 ## Relations with Agreement in `NumType`

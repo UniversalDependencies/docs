@@ -22,11 +22,11 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 1 csubj	color:blue
-1	Tapatinti	tapatinti	VERB	VB	Polarity=Pos|Reflex=No|VerbForm=Inf|Voice=Act	7	csubj	_	En=identify
+1	Tapatinti	tapatinti	VERB	VB	Polarity=Pos|VerbForm=Inf|Voice=Act	7	csubj	_	En=identify
 2	ją	ji	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3	1	obj	_	En=it
 3	su	su	ADP	UH	_	4	case	_	En=with
 4	TSRS	TSRS	PROPN	NNP	_	1	obl	_	En=USSR
-5	yra	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	En=be
+5	yra	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	En=be
 6	piktybiška	piktybiškas	ADJ	JJL	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	En=malicious
 7	demagogija	demagogija	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	En=demagoguery
 8	–	–	PUNCT	PUNCT	_	9	punct	_	En=–
@@ -36,7 +36,7 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 12	,	,	PUNCT	PUNCT	_	9	punct	_	En=,
 13	kiekvienas	kiekvienas	DET	DT	Case=Nom|Gender=Masc|Number=Sing	15	amod	_	En=each
 14	lietuvis	lietuvis	ADJ	JJL	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	15	amod	_	En=Lithianian
-15	žino	žinoti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	En=know|SpaceAfter=No
+15	žino	žinoti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	parataxis	_	En=know|SpaceAfter=No
 16	,	,	PUNCT	PUNCT	_	18	punct	_	En=,
 17	kuo	kuo	CCONJ	CC	_	18	advmod	_	En=how
 18	skiriasi	skirtis	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=Yes|Tense=Pres|VerbForm=Fin|Voice=Act	15	ccomp	_	En=differ
@@ -63,15 +63,15 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 5	,	,	PUNCT	PUNCT	_	8	punct	_	En=,
 6	dar	dar	ADV	RB	Degree=Pos	8	advmod	_	En=yet
 7	kitaip	kitaip	ADV	RB	Degree=Pos	8	advmod	_	En=otherwise
-8	vadinami	vadinti	VERB	VBNL	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Part|Voice=Act	4	acl:relcl	_	En=call
+8	vadinami	vadinti	VERB	VBNL	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	4	acl:relcl	_	En=call
 9	juodosiomis	juodas	ADJ	JJL	Case=Ins|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	10	amod	_	En=black
 10	dėžėmis	dėžė	NOUN	NN	Case=Ins|Gender=Fem|Number=Plur	8	iobj	_	En=box|SpaceAfter=No
 11	,	,	PUNCT	PUNCT	_	8	punct	_	En=,
-12	pagaminti	pagaminti	VERB	VB	Polarity=Pos|Reflex=No|VerbForm=Inf|Voice=Act	30	advcl	_	En=manufacture
+12	pagaminti	pagaminti	VERB	VB	Polarity=Pos|VerbForm=Inf|Voice=Act	30	advcl	_	En=manufacture
 13	taip	taip	ADV	RB	Degree=Pos	12	advmod	_	En=so|SpaceAfter=No
 14	,	,	PUNCT	PUNCT	_	16	punct	_	En=,
 15	kad	kad	SCONJ	UH	_	16	mark	_	En=that
-16	atlaikytų	atlaikyti	VERB	VBC	Mood=Cnd|Number=Plur|Person=3|Polarity=Pos|Reflex=No|VerbForm=Fin|Voice=Act	12	conj	_	En=survive
+16	atlaikytų	atlaikyti	VERB	VBC	Mood=Cnd|Number=Plur|Person=3|Polarity=Pos|VerbForm=Fin|Voice=Act	12	conj	_	En=survive
 17	ypač	ypač	ADV	RB	Degree=Pos	18	advmod	_	En=especially
 18	stiprius	stiprus	ADJ	JJL	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	19	amod	_	En=strong
 19	smūgius	smūgis	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	16	obj	_	En=hit
@@ -79,11 +79,11 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 21	metu	metas	NOUN	NN	Case=Ins|Gender=Masc|Number=Sing	19	nmod	_	En=time|SpaceAfter=No
 22	,	,	PUNCT	PUNCT	_	16	punct	_	En=,
 23	juos	jie	PRON	PRP	Case=Acc|Number=Plur|Person=3	24	obj	_	En=he
-24	aptikti	aptikti	VERB	VB	Polarity=Pos|Reflex=No|VerbForm=Inf|Voice=Act	30	csubj	_	En=find
+24	aptikti	aptikti	VERB	VB	Polarity=Pos|VerbForm=Inf|Voice=Act	30	csubj	_	En=find
 25	jūros	jūra	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	En=sea
 26	dugne	dugnas	NOUN	NN	Case=Loc|Gender=Masc|Number=Sing	24	obl	_	En=bed
 27	neretai	neretai	ADV	RB	Degree=Pos|Polarity=Neg	30	advmod	_	En=frequently
-28	būna	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	30	aux	_	En=be
+28	būna	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	30	aux	_	En=be
 29	ypač	ypač	ADV	RB	Degree=Pos	30	advmod	_	En=especially
 30	sunku	sunkus	ADJ	PRED	Definite=Ind|Degree=Pos|Gender=Neut	0	root	_	En=difficult|SpaceAfter=No
 31	.	.	PUNCT	PUNCT	_	30	punct	_	En=.
@@ -107,8 +107,8 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 8	sovietmečiu	sovietmetai	NOUN	NN	Case=Loc|Gender=Masc|Number=Plur	3	parataxis	_	En=the_Soviet_era|SpaceAfter=No
 9	,	,	PUNCT	PUNCT	_	8	punct	_	En=,
 10	man	aš	PRON	PRP	Case=Acc|Number=Sing|Person=1	11	obj	_	En=I
-11	knieti	knietėti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	En=want
-12	pakartoti	pakartoti	VERB	VB	Polarity=Pos|Reflex=No|VerbForm=Inf|Voice=Act	11	csubj	_	En=repeat
+11	knieti	knietėti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	En=want
+12	pakartoti	pakartoti	VERB	VB	Polarity=Pos|VerbForm=Inf|Voice=Act	11	csubj	_	En=repeat
 13	Sokrato	Sokratas	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	En=Socrates
 14	žodžius	žodis	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	12	obj	_	En=word
 15	iš	iš	ADP	UH	_	17	case	_	En=from
@@ -117,7 +117,7 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 18	–	–	PUNCT	PUNCT	_	21	punct	_	En=–
 19	„	„	PUNCT	PUNCT	_	21	punct	_	En=„|SpaceAfter=No
 20	Aš	aš	PRON	PRP	Case=Nom|Number=Sing|Person=1	21	nsubj	_	En=I
-21	dūstu	dusti	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	14	appos	_	En=suffocate|SpaceAfter=No
+21	dūstu	dusti	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	14	appos	_	En=suffocate|SpaceAfter=No
 22	“	“	PUNCT	PUNCT	_	21	punct	_	En=“|SpaceAfter=No
 23	.	.	PUNCT	PUNCT	_	11	punct	_	En=.
 

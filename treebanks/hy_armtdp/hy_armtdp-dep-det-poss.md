@@ -50,7 +50,7 @@ The following 7 pairs of parts of speech are connected with `det:poss`: <tt><a h
 7	ետևից	ետևից	ADV	_	_	6	advmod	_	Translit=etewic’|LTranslit=etewic’|SpaceAfter=No
 8	,	,	PUNCT	_	_	6	punct	_	Translit=,|LTranslit=,|SpaceAfter=No
 9	–	–	PUNCT	_	_	6	punct	_	Translit=–|LTranslit=–
-10	էսպես	այսպես	ADV	_	Distance=Prox|PronType=Dem|Style=Coll	11	advmod	_	Translit=ēspes|LTranslit=ayspes
+10	էսպես	այսպես	ADV	_	Deixis=Prox|PronType=Dem|Style=Coll	11	advmod	_	Translit=ēspes|LTranslit=ayspes
 11	խելոք	խելոք	ADJ	_	Degree=Pos	12	amod	_	Translit=xelok’|LTranslit=xelok’
 12	շուն	շուն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=šown|LTranslit=šown
 13	ա	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Coll|Tense=Pres|VerbForm=Fin	12	cop	_	Translit=a|LTranslit=em

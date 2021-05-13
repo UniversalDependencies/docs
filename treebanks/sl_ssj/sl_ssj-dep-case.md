@@ -31,7 +31,7 @@ The following 20 pairs of parts of speech are connected with `case`: <tt><a href
 7	vložiti	vložiti	VERB	Vmen	Aspect=Perf|VerbForm=Inf	6	ccomp	_	Dep=6|Rel=Obj
 8	več	več	DET	Rgc	PronType=Ind	9	det	_	Dep=9|Rel=Atr
 9	truda	trud	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No|Dep=7|Rel=Obj
-10	.	.	PUNCT	Z	_	6	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+10	.	.	PUNCT	Z	_	6	punct	_	Dep=0|Rel=Root
 
 ~~~
 
@@ -77,7 +77,7 @@ The following 20 pairs of parts of speech are connected with `case`: <tt><a href
 9	ga	on	PRON	Pp3msa--y	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	11	obj	_	Dep=11|Rel=Obj
 10	sploh	sploh	PART	Q	_	11	advmod	_	Dep=0|Rel=Root
 11	imamo	imeti	VERB	Vmpr1p-n	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	parataxis	_	SpaceAfter=No|Dep=0|Rel=Root
-12	!	!	PUNCT	Z	_	1	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+12	!	!	PUNCT	Z	_	1	punct	_	Dep=0|Rel=Root
 
 ~~~
 

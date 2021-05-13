@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3162 nodes (10%) are attached to their parents as `punct`.
+3704 nodes (10%) are attached to their parents as `punct`.
 
-2207 instances of `punct` (70%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.93769765970904.
+2561 instances of `punct` (69%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.98164146868251.
 
-The following 16 pairs of parts of speech are connected with `punct`: <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (2026; 64% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (392; 12% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (334; 11% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (97; 3% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (94; 3% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (92; 3% instances), <tt><a href="qtd_sagt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (82; 3% instances), <tt><a href="qtd_sagt-pos-PART.html">PART</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (13; 0% instances), <tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (11; 0% instances), <tt><a href="qtd_sagt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-SYM.html">SYM</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-X.html">X</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
+The following 16 pairs of parts of speech are connected with `punct`: <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (2350; 63% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (457; 12% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (406; 11% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (127; 3% instances), <tt><a href="qtd_sagt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (111; 3% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (107; 3% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (90; 2% instances), <tt><a href="qtd_sagt-pos-PART.html">PART</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (16; 0% instances), <tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (13; 0% instances), <tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="qtd_sagt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="qtd_sagt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-SYM.html">SYM</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-X.html">X</a></tt>-<tt><a href="qtd_sagt-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 16 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 11 punct	color:blue
-1	Okay	Okay	ADJ	_	_	6	discourse	_	LangID=DE
+1	Okay	Okay	INTJ	_	_	6	discourse	_	LangID=DE
 2	Äh	Äh	INTJ	_	_	6	discourse	_	LangID=TR
 3	hangi	hangi	DET	_	Definite=Def	4	det	_	LangID=TR
 4	derslerde	ders	NOUN	_	Case=Loc|Number=Plur	6	obl	_	LangID=TR

@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>was</em> (<tt><a href="en_pud-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 3.000000 (the average of all parts of speech is 1.138338).
+The form / lemma ratio of `AUX` is 3.000000 (the average of all parts of speech is 1.138758).
 
 The 1st highest number of forms (13) was observed with the lemma “be”: <em>'m, 's, am, are, be, been, being, is, was, were, ’m, ’re, ’s</em>.
 
@@ -73,7 +73,7 @@ Examples: <em>is, has, 's, ’s, does</em>
 
 `AUX` nodes are attached to their parents using 8 different relations: <tt><a href="en_pud-dep-aux.html">aux</a></tt> (410; 40% instances), <tt><a href="en_pud-dep-cop.html">cop</a></tt> (316; 31% instances), <tt><a href="en_pud-dep-aux-pass.html">aux:pass</a></tt> (274; 27% instances), <tt><a href="en_pud-dep-root.html">root</a></tt> (6; 1% instances), <tt><a href="en_pud-dep-acl-relcl.html">acl:relcl</a></tt> (3; 0% instances), <tt><a href="en_pud-dep-ccomp.html">ccomp</a></tt> (3; 0% instances), <tt><a href="en_pud-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-conj.html">conj</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 13 different parts of speech: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (651; 64% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (152; 15% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (152; 15% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (17; 2% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (7; 1% instances),  (6; 1% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 13 different parts of speech: <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (651; 64% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (152; 15% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (151; 15% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (18; 2% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (7; 1% instances),  (6; 1% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-X.html">X</a></tt> (1; 0% instances)
 
 1000 (99%) `AUX` nodes are leaves.
 

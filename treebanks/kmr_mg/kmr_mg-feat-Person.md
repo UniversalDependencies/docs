@@ -54,7 +54,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 540 <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> tokens (61% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (540; 100%), <tt><a href="kmr_mg-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (540; 100%), <tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt> (428; 79%), <tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (399; 74%), <tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Obl</tt> (361; 67%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (540; 100%), <tt><a href="kmr_mg-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (540; 100%), <tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt> (428; 79%), <tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (399; 74%), <tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt> (361; 67%).
 
 `PRON` tokens may have the following values of `Person`:
 
@@ -97,7 +97,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 1 <tt><a href="kmr_mg-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Obl</tt> (1; 100%), <tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1; 100%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1; 100%), <tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1; 100%).
 
 `DET` tokens may have the following values of `Person`:
 

@@ -11,7 +11,7 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 40977 tokens (8%) have a non-empty value of `Person`.
 5609 types (9%) occur at least once with a non-empty value of `Person`.
-2550 lemmas (9%) occur at least once with a non-empty value of `Person`.
+2552 lemmas (9%) occur at least once with a non-empty value of `Person`.
 The feature is used with 4 part-of-speech tags: <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (22408; 5% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (11184; 2% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (3931; 1% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (3454; 1% instances).
 
 ### `VERB`
@@ -89,7 +89,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 3454 <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> tokens (22% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3454; 100%), <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3454; 100%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (2965; 86%), <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (2616; 76%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2182; 63%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1864; 54%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3454; 100%), <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3454; 100%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (2965; 86%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2182; 63%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1864; 54%).
 
 `PRON` tokens may have the following values of `Person`:
 

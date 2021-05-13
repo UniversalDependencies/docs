@@ -10,10 +10,10 @@ This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 Some words have combined values of the feature; 1 combinations have been observed: `Plur|Sing`.
 
-117190 tokens (39%) have a non-empty value of `Number`.
-23730 types (76%) occur at least once with a non-empty value of `Number`.
-16131 lemmas (71%) occur at least once with a non-empty value of `Number`.
-The feature is used with 6 part-of-speech tags: <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (55395; 18% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (24752; 8% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (18989; 6% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (14293; 5% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (3757; 1% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (4; 0% instances).
+117154 tokens (39%) have a non-empty value of `Number`.
+23719 types (76%) occur at least once with a non-empty value of `Number`.
+16121 lemmas (71%) occur at least once with a non-empty value of `Number`.
+The feature is used with 7 part-of-speech tags: <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (55395; 18% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (22802; 8% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (18990; 6% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (14293; 5% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (3757; 1% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (1909; 1% instances), <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (8; 0% instances).
 
 ### `NOUN`
 
@@ -39,15 +39,15 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `ADJ`
 
-24752 <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> tokens (85% of all `ADJ` tokens) have a non-empty value of `Number`.
+22802 <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> tokens (84% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="no_nynorsk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (21022; 85%), <tt><a href="no_nynorsk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (20798; 84%), <tt><a href="no_nynorsk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (15992; 65%), <tt><a href="no_nynorsk-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (15203; 61%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="no_nynorsk-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (20761; 91%), <tt><a href="no_nynorsk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (14914; 65%), <tt><a href="no_nynorsk-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (13633; 60%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (6200; 25% of non-empty `Number`): <em>mange, store, nye, ulike, norske, gode, 1., siste, tilsette, få</em>
-* `Sing` (18552; 75% of non-empty `Number`): <em>mykje, heile, godt, heilt, norsk, viktig, langt, svært, litt, rett</em>
-* `EMPTY` (4349): <em>meir, fleire, mest, tidlegare, større, vidare, betre, mindre, minst, lenger</em>
+* `Plur` (5820; 26% of non-empty `Number`): <em>mange, store, nye, ulike, norske, gode, 1., siste, tilsette, få</em>
+* `Sing` (16982; 74% of non-empty `Number`): <em>mykje, heile, godt, heilt, norsk, viktig, langt, svært, litt, rett</em>
+* `EMPTY` (4347): <em>meir, fleire, mest, tidlegare, større, vidare, betre, mindre, minst, lenger</em>
 
 <table>
   <tr><th>Paradigm <i>mykje</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -58,15 +58,15 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `PRON`
 
-18989 <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> tokens (83% of all `PRON` tokens) have a non-empty value of `Number`.
+18990 <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> tokens (83% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="no_nynorsk-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (17527; 92%), <tt><a href="no_nynorsk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (12276; 65%), <tt><a href="no_nynorsk-feat-Person.html">Person</a></tt><tt>=3</tt> (11200; 59%), <tt><a href="no_nynorsk-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9694; 51%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="no_nynorsk-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (17528; 92%), <tt><a href="no_nynorsk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (12277; 65%), <tt><a href="no_nynorsk-feat-Person.html">Person</a></tt><tt>=3</tt> (11201; 59%), <tt><a href="no_nynorsk-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9695; 51%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (4601; 24% of non-empty `Number`): <em>dei, vi, me, oss, sine, alle, våre, de, ingen, kvarandre</em>
-* `Sing` (14388; 76% of non-empty `Number`): <em>det, han, eg, seg, ein, dette, ho, du, noko, sin</em>
-* `EMPTY` (3810): <em>som, kva, kven, der, d., eg, ha, Dette, dét, man</em>
+* `Sing` (14389; 76% of non-empty `Number`): <em>det, han, eg, seg, ein, dette, ho, du, noko, sin</em>
+* `EMPTY` (3812): <em>som, kva, kven, der, d., eg, ha, her, Dette, dét</em>
 
 <table>
   <tr><th>Paradigm <i>sin</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -117,26 +117,52 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 ### `VERB`
 
-4 <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Number`.
+1909 <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="no_nynorsk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="no_nynorsk-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="no_nynorsk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (4; 100%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="no_nynorsk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1909; 100%), <tt><a href="no_nynorsk-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1909; 100%), <tt><a href="no_nynorsk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1909; 100%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Sing` (4; 100% of non-empty `Number`): <em>blir, innført, lagt, stoppa</em>
-* `EMPTY` (28776): <em>har, seier, er, få, kjem, får, meiner, ha, går, fekk</em>
+* `Plur` (371; 19% of non-empty `Number`): <em>tekne, komne, bruka, brukte, lagde, nytta, samla, drepne, sende, fjerna</em>
+* `Sing` (1538; 81% of non-empty `Number`): <em>sett, lagt, gjort, fødd, sendt, brukt, sagt, gjennomført, vist, kalla</em>
+* `EMPTY` (28814): <em>har, seier, er, få, kjem, får, meiner, ha, går, fekk</em>
+
+<table>
+  <tr><th>Paradigm <i>kome</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="no_nynorsk-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="no_nynorsk-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>kome</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="no_nynorsk-feat-Definite.html">Definite</a></tt><tt>=Ind</tt></tt></td><td><em>komen, kome</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td></td><td><em>komne</em></td></tr>
+</table>
+
+### `AUX`
+
+8 <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="no_nynorsk-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="no_nynorsk-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="no_nynorsk-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (8; 100%).
+
+`AUX` tokens may have the following values of `Number`:
+
+* `Plur` (2; 25% of non-empty `Number`): <em>blitt, vortne</em>
+* `Sing` (6; 75% of non-empty `Number`): <em>blitt, vorten</em>
+* `EMPTY` (16716): <em>er, har, var, kan, skal, vil, må, vart, vore, blir</em>
+
+<table>
+  <tr><th>Paradigm <i>verte</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="no_nynorsk-feat-Definite.html">Definite</a></tt><tt>=Ind</tt></tt></td><td><em>vorten</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td></td><td><em>vortne</em></td></tr>
+</table>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="no_nynorsk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (12310; 84%),
-<tt>NOUN --[<tt><a href="no_nynorsk-dep-det.html">det</a></tt>]--> DET</tt> (12150; 95%),
+<tt>NOUN --[<tt><a href="no_nynorsk-dep-det.html">det</a></tt>]--> DET</tt> (12151; 95%),
+<tt>NOUN --[<tt><a href="no_nynorsk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (12068; 84%),
 <tt>NOUN --[<tt><a href="no_nynorsk-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5747; 54%),
 <tt>NOUN --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2821; 73%),
 <tt>NOUN --[<tt><a href="no_nynorsk-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (1934; 88%),
 <tt>NOUN --[<tt><a href="no_nynorsk-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (1697; 93%),
-<tt>ADJ --[<tt><a href="no_nynorsk-dep-obl.html">obl</a></tt>]--> NOUN</tt> (1584; 54%),
-<tt>ADJ --[<tt><a href="no_nynorsk-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1111; 78%),
-<tt>ADJ --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> ADJ</tt> (861; 84%),
-<tt>ADJ --[<tt><a href="no_nynorsk-dep-expl.html">expl</a></tt>]--> PRON</tt> (837; 91%).
+<tt>ADJ --[<tt><a href="no_nynorsk-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (851; 78%),
+<tt>ADJ --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> ADJ</tt> (752; 84%),
+<tt>ADJ --[<tt><a href="no_nynorsk-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (681; 73%),
+<tt>ADJ --[<tt><a href="no_nynorsk-dep-det.html">det</a></tt>]--> DET</tt> (609; 75%).
 

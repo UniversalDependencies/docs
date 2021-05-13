@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="nl_alpino-dep-expl.html">expl</a></tt>.
 
-427 nodes (0%) are attached to their parents as `expl:pv`.
+354 nodes (0%) are attached to their parents as `expl:pv`.
 
-254 instances of `expl:pv` (59%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.37002341920375.
+222 instances of `expl:pv` (63%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.58757062146893.
 
-The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (412; 96% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (15; 4% instances).
+The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (349; 99% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (5; 1% instances).
 
 
 ~~~ conllu
@@ -23,12 +23,12 @@ The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 # visual-style 3	fgColor:white
 # visual-style 3 4 expl:pv	color:blue
 1	De	de	DET	LID|bep|stan|rest	Definite=Def	2	det	2:det	_
-2	aanvalsdrift	aanvalsdrift	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	3	nsubj	3:nsubj	_
+2	aanvalsdrift	aanval_drift	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	3	nsubj	3:nsubj	_
 3	openbaarde	openbaren	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	_
 4	zich	zich	PRON	VNW|refl|pron|obl|red|3|getal	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	3	expl:pv	3:expl:pv	_
 5	op	op	ADP	VZ|init	_	7	case	7:case	_
 6	het	het	DET	LID|bep|stan|evon	Definite=Def	7	det	7:det	_
-7	NK	NK	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	3	obl	3:obl:op	_
+7	NK	NK	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	3	obl	3:obl:op	_
 8	al	al	ADV	BW	_	3	advmod	3:advmod	_
 9	direct	direct	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	12	amod	12:amod	_
 10	na	na	ADP	VZ|init	_	12	case	12:case	_

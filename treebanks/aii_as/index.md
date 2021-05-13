@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Mary Yako.
 
 Repository: [UD_Assyrian-AS](https://github.com/UniversalDependencies/UD_Assyrian-AS)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaii_as27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaii_as28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -72,7 +72,7 @@ Building the Uppsala Assyrian Treebank was a project conducted by Mary Yako at U
 
 ## Relations
 
-[acl](aii_as-dep-acl.html) – [acl:relcl](aii_as-dep-acl-relcl.html) – [advcl](aii_as-dep-advcl.html) – [advmod](aii_as-dep-advmod.html) – [amod](aii_as-dep-amod.html) – [aux](aii_as-dep-aux.html) – [aux:poss](aii_as-dep-aux-poss.html) – [case](aii_as-dep-case.html) – [cc](aii_as-dep-cc.html) – [ccomp](aii_as-dep-ccomp.html) – [compound](aii_as-dep-compound.html) – [conj](aii_as-dep-conj.html) – [cop](aii_as-dep-cop.html) – [csubj](aii_as-dep-csubj.html) – [det](aii_as-dep-det.html) – [iobj](aii_as-dep-iobj.html) – [mark](aii_as-dep-mark.html) – [nmod](aii_as-dep-nmod.html) – [nmod:poss](aii_as-dep-nmod-poss.html) – [nsubj](aii_as-dep-nsubj.html) – [obj](aii_as-dep-obj.html) – [obl](aii_as-dep-obl.html) – [parataxis](aii_as-dep-parataxis.html) – [punct](aii_as-dep-punct.html) – [root](aii_as-dep-root.html) – [xcomp](aii_as-dep-xcomp.html)
+[acl](aii_as-dep-acl.html) – [acl:relcl](aii_as-dep-acl-relcl.html) – [advcl](aii_as-dep-advcl.html) – [advmod](aii_as-dep-advmod.html) – [amod](aii_as-dep-amod.html) – [aux](aii_as-dep-aux.html) – [aux:pass](aii_as-dep-aux-pass.html) – [case](aii_as-dep-case.html) – [cc](aii_as-dep-cc.html) – [ccomp](aii_as-dep-ccomp.html) – [compound](aii_as-dep-compound.html) – [conj](aii_as-dep-conj.html) – [cop](aii_as-dep-cop.html) – [csubj](aii_as-dep-csubj.html) – [det](aii_as-dep-det.html) – [iobj](aii_as-dep-iobj.html) – [mark](aii_as-dep-mark.html) – [nmod](aii_as-dep-nmod.html) – [nmod:poss](aii_as-dep-nmod-poss.html) – [nsubj](aii_as-dep-nsubj.html) – [nsubj:pass](aii_as-dep-nsubj-pass.html) – [obj](aii_as-dep-obj.html) – [obl](aii_as-dep-obl.html) – [parataxis](aii_as-dep-parataxis.html) – [punct](aii_as-dep-punct.html) – [root](aii_as-dep-root.html) – [xcomp](aii_as-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -448,6 +448,7 @@ Building the Uppsala Assyrian Treebank was a project conducted by Mary Yako at U
 
 <ul>
 <li>This corpus uses 11 lemmas as auxiliaries (<a>aux</a>). Examples: ܗܵܘܹܐ, ܒܸܕ, ܒܸܬ, ܟܹܐ, ܒ, ܒܹܬ, ܟܲܕ, ܟܸܐ, ܡܵܨܸܢ, ܦܵܝܫ, ܩܲܡ.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: ܗܵܘܹܐ.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -471,7 +472,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(ܠ) (2)</li>
       <li>VERB--PRON (5)</li>
       <li>VERB--PRON-Acc (1)</li>
-      <li>VERB-Part--NOUN (1)</li>
     </ul>
   </li>
 </ul>
@@ -491,6 +491,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 3 relation subtypes: <a>acl:relcl</a>, <a>aux:poss</a>, <a>nmod:poss</a></li>
+<li>This corpus uses 4 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>nmod:poss</a>, <a>nsubj:pass</a></li>
 <li>The following 14 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>appos</a>, <a>nummod</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

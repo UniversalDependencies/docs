@@ -17,32 +17,28 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 21 10 discourse	color:blue
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 7 discourse	color:blue
 1	ina	ina	ADP	PRP	_	2	case	2:case	ina
-2	limme	līmu	NOUN	N	Case=Gen|Gender=Masc|Nounbase=Bound|Number=Sing	6	obl	6:obl	li-me
-3	Miqti-adur	Miqti-adur	PROPN	PN	Gender=Masc	2	nmod:poss	2:nmod:poss	{m}IDIM-a-dur₂
-4	ina	ina	ADP	PRP	_	5	case	5:case	ina
-5	Ninua	Ninua	PROPN	SN	_	6	obl	6:obl	{URU}NINA
-6	usbāku	wašābu	VERB	V	Gender=Com|Number=Sing|Person=1|VerbForm=Stative|Verbstem=G	0	root	0:root	us-ba-ku
-7	ṭēmu	ṭēmu	NOUN	N	Gender=Masc|Nounbase=Free|Number=Sing	8	obj	8:obj	ṭe₂-e-mu
-8	uttērū	_	VERB	_	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|Ventive=Yes|VerbForm=Finite|Verbstem=D	6	advcl	6:advcl	_
-9	ni	_	PRON	_	Number=Sing|Person=1	8	obl	8:obl	_
-10	mā	mā	PART	PRP	_	21	discourse	21:discourse	ma-a
-11	Ameka	Ameka	PROPN	RN	Gender=Masc	21	nsubj	21:nsubj	{m}a-me-ka
-12	Araš-tua	Araš-tua	PROPN	RN	Gender=Masc	11	conj	11:conj	{m}ar-aš₂-tu-a
-13	maddattu	maddattu	NOUN	N	Case=Nom|Gender=Fem|Nounbase=Free|Number=Sing	21	obj	21:obj	ma-da-tu₂
-14	u	u	CCONJ	CNJ	_	15	cc	15:cc	u
-15	kadurru	kudurru	NOUN	N	Case=Acc|Gender=Masc|Nounbase=Free|Number=Sing	13	conj	13:conj	ka-du-ru
-16	ša	ša	ADP	DET	_	17	case	17:case	ša₂
-17	Aššur	Aššur	PROPN	DN	Gender=Masc	13	nmod	13:nmod	aš-šur
-18	bēli	bēlu	NOUN	N	Case=Gen|Gender=Masc|Nounbase=Suffixal|Number=Sing	17	appos	17:appos	EN-a
-19	ya	_	PRON	_	Number=Sing|Person=1	18	det:poss	18:det:poss	_
-20	lū	lū	PART	MOD	_	21	advmod:emph	21:advmod:emph	lu
-21	iklû	kalû	VERB	V	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Finite|Verbstem=G	8	parataxis	8:parataxis	ik-lu-u₂
+2	Kalhi	Kalhu	PROPN	SN	Case=Gen	3	obl	3:obl	{URU}kal-hi
+3	usbāku	wašābu	VERB	V	Gender=Com|Number=Sing|Person=1|VerbForm=Stat|VerbStem=G	5	advcl	5:advcl	us-ba-ku
+4	ṭēmu	ṭēmu	NOUN	N	Gender=Masc|NounBase=Free|Number=Sing	5	obj	5:obj	ṭe₂-e-mu
+5	uttērū	_	VERB	_	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|Ventive=Yes|VerbForm=Fin|VerbStem=D	0	root	0:root	_
+6	ni	_	PRON	_	Number=Sing|Person=1	5	obl	5:obl	_
+7	mā	mā	PART	PRP	_	15	discourse	15:discourse	ma-a
+8	amēlê	awīlu	NOUN	N	Gender=Masc|Number=Plur	15	nsubj	15:nsubj	LU₂.MEŠ-e
+9	Laqaya	Laqayu	PROPN	EN	Gender=Masc	8	nmod:poss	8:nmod:poss	{KUR}la-qa-a-a
+10	Hindanu	Hindanu	PROPN	SN	Case=Nom	9	conj	9:conj	{URU}hi-in-da-a-nu
+11	Suhi	Suhu	PROPN	GN	Case=Gen	9	conj	9:conj	{KUR}su-hi
+12	ana	ana	ADP	PRP	_	13	case	13:case	a-na
+13	sihirti	sihirtu	NOUN	N	Case=Gen|Gender=Fem|NounBase=Suffixal|Number=Sing	15	obl	15:obl	si-hir₂-ti-šu₂-nu
+14	šunu	_	PRON	_	Gender=Masc|Number=Plur|Person=3	13	det:poss	13:det:poss	_
+15	ittabalkutū	_	VERB	_	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|VerbStem=N	5	parataxis	5:parataxis	_
+16	Purattu	Purattu	PROPN	WN	Case=Nom|Gender=Fem	17	obj	17:obj	{ID₂}pu-rat-tu
+17	ētabrū	_	VERB	_	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|VerbStem=G	15	parataxis	15:parataxis	_
 
 ~~~
 

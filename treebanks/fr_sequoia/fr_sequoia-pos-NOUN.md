@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-Sequoia: POS Tags: `NOUN`
 
 There are 2943 `NOUN` lemmas (42%), 3582 `NOUN` types (36%) and 15195 `NOUN` tokens (22%).
-Out of 17 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 1 in number of tokens.
+Out of 16 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 1 in number of tokens.
 
 The 10 most frequent `NOUN` lemmas: <em>patient, affaire, %, monsieur, an, commission, président, effet, traitement, bivalirudine</em>
 
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>risque</em> (<tt><a href="fr_sequoia-
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.217125 (the average of all parts of speech is 1.405182).
+The form / lemma ratio of `NOUN` is 1.217125 (the average of all parts of speech is 1.405809).
 
 The 1st highest number of forms (7) was observed with the lemma “monsieur”: <em>M., MM., Madame, Mesdames, Mme, Monsieur, messieurs</em>.
 

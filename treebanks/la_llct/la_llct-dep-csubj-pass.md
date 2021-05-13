@@ -29,7 +29,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 5	legi	lego	VERB	v|v|-|-|p|n|p|-|-|-	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Pass	6	ccomp	_	_
 6	fecissemus	facio	VERB	v|v|1|p|l|s|a|-|-|-	Aspect=Perf|Mood=Sub|Number=Plur|Person=1|Tense=Pqp|VerbForm=Fin|Voice=Act	8	advcl	_	SpaceAfter=No
 7	,	,	PUNCT	Punc	_	6	punct	_	_
-8	contenebatur	contineo	VERB	v|v|3|s|i|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Pass	0	root	_	_
+8	contenebatur	contineo	VERB	v|v|3|s|i|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 9	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	10	case	_	_
 10	eis	is	PRON	p|p|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur|Person=3|PronType=Dem,Prs	8	obl	_	_
 11	sicut	sicut	SCONJ	c|c|-|-|-|-|-|-|-|-	_	13	mark	_	_
@@ -51,11 +51,11 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 2	licentiam	licentia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
 3	abeas	habeo	VERB	v|v|2|s|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	post	post	ADP	r|r|-|-|-|-|-|-|-|-	_	6	case	_	_
-5	meum	meus	DET	a|a|1|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+5	meum	meus	DET	a|a|1|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	6	det	_	_
 6	ovitum	obitus	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	_
 7	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	8	case	_	_
 8	vita	uita	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	3	obl	_	_
-9	tua	tuus	DET	a|a|2|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	8	det	_	_
+9	tua	tuus	DET	a|a|2|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	8	det	_	_
 10	quando	quando	SCONJ	d|d|-|-|-|-|-|-|-|-	_	11	mark	_	_
 11	volueris	uolo	VERB	v|v|2|s|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	26	advcl	_	_
 12	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	14	case	_	_
@@ -67,7 +67,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 18	dotis	dos	NOUN	n|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
 19	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	20	case	_	_
 20	nepotibus	nepos	NOUN	n|n|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	22	nmod	_	_
-21	meis	meus	DET	a|a|1|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	20	det	_	_
+21	meis	meus	DET	a|a|1|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	20	det	_	_
 22	qui	qui	PRON	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	23	nsubj	_	_
 23	dignus	dignus	ADJ	a|a|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	26	acl:relcl	_	_
 24	fuerit	sum	AUX	v|v|3|s|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	23	cop	_	_
@@ -102,7 +102,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 3	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	4	case	_	_
 4	aures	auris	NOUN	n|n|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur	8	obl	_	_
 5	mansuetudinis	mansuetudo	NOUN	n|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
-6	nostre	noster	DET	a|a|1|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+6	nostre	noster	DET	a|a|1|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	5	det	_	_
 7	esset	sum	AUX	v|v|-|-|p|n|a|-|-|-	Tense=Pres|VerbForm=Inf|Voice=Act	8	aux:pass	_	_
 8	perventum	peruenio	VERB	t|t|-|s|r|p|p|n|a|-	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	csubj	_	_
 9	qualiter	qualiter	SCONJ	d|d|-|-|-|-|-|-|-|-	_	36	mark	_	_
@@ -147,7 +147,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 48	pastor	Pastor	PROPN	Propn|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	46	conj	_	_
 49	eiusdem	idem	DET	p|p|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	50	det	_	_
 50	ecclesie	ecclesia	NOUN	n|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	46	nmod	_	_
-51	nostrum	noster	DET	a|a|1|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	56	det	_	_
+51	nostrum	noster	DET	a|a|1|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	56	det	_	_
 52	dignissime	digne	ADV	d|d|-|-|-|-|-|-|-|s	Degree=Abs	55	advmod	_	_
 53	non	non	PART	d|d|-|-|-|-|-|-|-|-	Polarity=Neg	54	advmod	_	_
 54	valet	ualeo	VERB	v|v|3|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	43	conj	_	_

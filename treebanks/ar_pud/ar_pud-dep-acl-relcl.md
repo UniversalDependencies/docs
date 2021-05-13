@@ -80,7 +80,7 @@ The following 15 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 9 13 acl:relcl	color:blue
 1	كان	kAn-u_1	AUX	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	4	cop	_	_
 2	هذان	h`*A_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Dual	4	nsubj	_	_
-3	آخر	|xar_1	DET	PDT	Case=Acc	4	det:predet	_	_
+3	آخر	|xar_1	DET	PDT	Case=Acc	4	det	_	_
 4	البومين	bwmyn_0	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Masc|Number=Dual	0	root	_	_
 5	ينتج	>anotaj_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	acl:relcl	_	SpaceAfter=No
 6	هما	hmA	PRON	PRP	Case=Acc|Number=Dual|Person=3	5	obj	_	_

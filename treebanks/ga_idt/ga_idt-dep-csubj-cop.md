@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 1 other language-specific subtypes of `csubj`: <tt><a href="ga_idt-dep-csubj-cleft.html">csubj:cleft</a></tt>.
 
-609 nodes (1%) are attached to their parents as `csubj:cop`.
+613 nodes (1%) are attached to their parents as `csubj:cop`.
 
-609 instances of `csubj:cop` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.4384236453202.
+613 instances of `csubj:cop` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.44535073409462.
 
-The following 17 pairs of parts of speech are connected with `csubj:cop`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (268; 44% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (144; 24% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (88; 14% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (68; 11% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (6; 1% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `csubj:cop`: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (266; 43% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (150; 24% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (88; 14% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (66; 11% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (9; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt>-<tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt>-<tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt>-<tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,8 +26,8 @@ The following 17 pairs of parts of speech are connected with `csubj:cop`: <tt><a
 1	Shíl	síl	VERB	VTI	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 2	siad	siad	PRON	Pers	Number=Plur|Person=3	1	nsubj	_	_
 3	gur	is	AUX	Cop	Tense=Pres|VerbForm=Cop	4	cop	_	_
-4	chóir	cóir	NOUN	Noun	Form=Len|Gender=Fem|Number=Sing	1	ccomp	_	_
-5	daobhtha	daobhtha	ADP	Pron	Number=Plur|Person=2	4	obl:prep	_	_
+4	chóir	cóir	NOUN	Noun	Case=NomAcc|Form=Len|Gender=Fem|Number=Sing	1	ccomp	_	_
+5	daobhtha	do	ADP	Pron	Number=Plur|Person=3	4	obl:prep	_	_
 6	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	8	obj	_	_
 7	a	a	PART	Inf	PartType=Inf	8	mark	_	_
 8	phógadh	pógadh	NOUN	Noun	Form=Len|VerbForm=Inf	4	csubj:cop	_	SpaceAfter=No
@@ -43,11 +43,11 @@ The following 17 pairs of parts of speech are connected with `csubj:cop`: <tt><a
 # visual-style 7	fgColor:white
 # visual-style 7 11 csubj:cop	color:blue
 1	Bhí	bí	VERB	PastInd	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
-2	piseog	piseog	NOUN	Noun	Gender=Fem|Number=Sing	1	nsubj	_	_
+2	piseog	piseog	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	1	nsubj	_	_
 3	ag	ag	ADP	Simp	_	4	case	_	_
 4	baint	baint	NOUN	Noun	VerbForm=Vnoun	1	xcomp	_	_
 5	leis	le	ADP	Prep	Gender=Masc|Number=Sing|Person=3	4	obl:prep	_	_
-6	nach	is	AUX	Cop	PronType=Rel|Tense=Pres|VerbForm=Cop	7	cop	_	_
+6	nach	is	AUX	Cop	Polarity=Neg|PronType=Rel|Tense=Pres|VerbForm=Cop	7	cop	_	_
 7	cóir	cóir	ADJ	Adj	Degree=Pos	2	acl:relcl	_	_
 8	duit	do	ADP	Prep	Number=Sing|Person=2	7	obl:prep	_	_
 9	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	11	obj	_	_
@@ -67,9 +67,9 @@ The following 17 pairs of parts of speech are connected with `csubj:cop`: <tt><a
 1	Is	is	AUX	Cop	Tense=Pres|VerbForm=Cop	2	cop	_	_
 2	gnách	gnách	ADJ	Adj	Degree=Pos	0	root	_	_
 3	go	go	PART	Vb	PartType=Cmpl	4	mark:prt	_	_
-4	mbíonn	bí	VERB	PresImp	Form=Ecl|Mood=Int	2	csubj:cop	_	_
-5	teocht	teocht	NOUN	Noun	Gender=Fem|Number=Sing	4	nsubj	_	_
-6	ard	ard	ADJ	Adj	Gender=Fem|Number=Sing	5	amod	_	_
+4	mbíonn	bí	VERB	PresImp	Aspect=Hab|Form=Ecl|Mood=Ind|Tense=Pres	2	csubj:cop	_	_
+5	teocht	teocht	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	4	nsubj	_	_
+6	ard	ard	ADJ	Adj	Case=NomAcc|Gender=Fem|Number=Sing	5	amod	_	_
 7	iontu	i	ADP	Prep	Number=Plur|Person=3	4	obl:prep	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	2	punct	_	_
 

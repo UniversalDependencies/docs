@@ -45,16 +45,16 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 1 2 flat:name	color:blue
 1	Дядя	дядя	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	GTtags=N,Sg,Nom
 2	Митя	Митя	NOUN	N	Case=Nom|Number=Sing	1	flat:name	_	GTtags=N,Prop,Sem/Ant,Sg,Nom
-3	видзӧтіс	видзӧтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	0	root	_	GTtags=V,IV,Ind,Prt1,Sg3|SpaceAfter=No
+3	видзӧтіс	видзӧтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=V,IV,Ind,Prt1,Sg3|SpaceAfter=No
 4	,	,	PUNCT	CLB	_	6	punct	_	GTtags=CLB
 5	кыдз	кыдз	ADV	Adv	AdvType=Man|PronType=Rel	6	advmod	_	GTtags=Adv,Manner,Rel
-6	пиньӧвтчисӧ	пиньӧвтчыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|Valency=1	3	advcl	_	GTtags=V,IV,Ind,Prt1,Pl3
+6	пиньӧвтчисӧ	пиньӧвтчыны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	3	advcl	_	GTtags=V,IV,Ind,Prt1,Pl3
 7	менам	ме	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	8	nmod:poss	_	GTtags=Pron,Pers,Sg1,Gen
 8	аннэзӧ	ан	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=1	6	nsubj	_	GTtags=N,Pl,Nom,PxSg1|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	11	punct	_	GTtags=CLB
 10	и	и	CCONJ	CC	_	11	cc	_	GTtags=CC
 11	шынняліс	шыннявны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	conj	_	GTtags=V,Ind,Prt1,Sg3
-12	довольнӧя	довольнӧя	ADV	Adv	Derivation=A	11	advmod	_	GTtags=A,Der,Der/A,Adv|SpaceAfter=No
+12	довольнӧя	довольнӧя	ADV	Adv	_	11	advmod	_	GTtags=A,Der,Der/A,Adv|SpaceAfter=No
 13	.	.	PUNCT	CLB	_	3	punct	_	GTtags=CLB
 
 ~~~
@@ -71,7 +71,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 3	эна	эна	PRON	_	Case=Nom|Number=Plur|PronType=Dem	5	det	_	_
 4	кык	кык	NUM	Num	NumType=Card	5	nummod	_	GTtags=Num,Card,Cmpl
 5	керкуын	керку	NOUN	N	Case=Ine|Number=Sing	6	obl:lmod	_	GTtags=N,Sg,Ine
-6	олісӧ	овны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|Valency=1	0	root	_	GTtags=V,IV,Ind,Prt1,Pl3
+6	олісӧ	овны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=V,IV,Ind,Prt1,Pl3
 7	воннэз	вон	NOUN	N	Case=Nom|Number=Plur	6	nsubj	_	GTtags=N,Pl,Nom|SpaceAfter=No
 8	:	:	PUNCT	CLB	_	9	punct	_	GTtags=CLB
 9	Нетулика	Нетулика	PROPN	NameType=Giv	_	7	list	_	_

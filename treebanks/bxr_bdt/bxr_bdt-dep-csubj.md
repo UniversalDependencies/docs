@@ -45,17 +45,17 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 4	туршада	турша	NOUN	_	Case=Dat	7	nmod	_	_
 5	буряад	буряад	ADJ	_	_	6	amod	_	_
 6	хэлэеэ	хэлэн	NOUN	_	Case=Nom|Reflex=Yes	7	obj	_	_
-7	шудалжал	шудал	VERB	_	VerbForm=Coverb	0	root	_	_
+7	шудалжал	шудал	VERB	_	VerbForm=Inf	0	root	_	_
 8	байһан	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
 9	аад	аад	CCONJ	_	_	7	advmod	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	7	punct	_	_
+10	,	,	PUNCT	_	_	18	punct	_	_
 11	гэнтэ	гэнтэ	ADV	_	_	17	advmod	_	_
 12	гүрэнэй	гүрэнэй	NOUN	_	Case=Nom	13	amod	_	_
 13	хэлэн	хэлэн	NOUN	_	Case=Nom	15	nmod	_	_
-14	гэжэ	гэ	VERB	_	VerbForm=Coverb	16	discourse	_	_
+14	гэжэ	гэ	VERB	_	VerbForm=Inf	16	discourse	_	_
 15	программа	программа	NOUN	_	Case=Nom	16	obj	_	_
 16	шэлэн	шэлэ	VERB	_	_	17	xcomp	_	_
-17	абалга	аба	VERB	_	VerbForm=Coverb	18	csubj	_	_
+17	абалга	аба	VERB	_	VerbForm=Inf	18	csubj	_	_
 18	гайхалтай	гайхалтай	ADJ	_	_	7	parataxis	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	18	punct	_	_
 
@@ -74,7 +74,7 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 4	арад	арад	NOUN	_	Case=Nom	5	csubj	_	_
 5	арад	арад	NOUN	_	Case=Nom	0	root	_	_
 6	бэшэ	бэшэ	ADV	_	_	5	advmod:neg	_	_
-7	гэжэ	гэ	VERB	_	VerbForm=Coverb	11	discourse	_	_
+7	гэжэ	гэ	VERB	_	VerbForm=Inf	11	discourse	_	_
 8	сэсэн	сэсэн	ADJ	_	_	9	amod	_	_
 9	үгые	үгы	NOUN	_	Case=Nom|Reflex=Yes	11	obj	_	_
 10	эндэ	эндэ	ADV	_	_	11	advmod	_	_

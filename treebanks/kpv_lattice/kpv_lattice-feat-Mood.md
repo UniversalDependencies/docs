@@ -9,51 +9,85 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Ind`.
 
-633 tokens (13%) have a non-empty value of `Mood`.
-454 types (19%) occur at least once with a non-empty value of `Mood`.
-320 lemmas (19%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (516; 10% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (117; 2% instances).
+1034 tokens (13%) have a non-empty value of `Mood`.
+683 types (20%) occur at least once with a non-empty value of `Mood`.
+468 lemmas (20%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (779; 10% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (255; 3% instances).
 
 ### `VERB`
 
-516 <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Mood`.
+779 <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> tokens (58% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (516; 100%), <tt><a href="kpv_lattice-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (516; 100%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (516; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (433; 84%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (388; 75%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (323; 63%), <tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (262; 51%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (779; 100%), <tt><a href="kpv_lattice-feat-Derivation.html">Derivation</a></tt><tt>=EMPTY</tt> (779; 100%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (779; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (649; 83%), <tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (587; 75%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (569; 73%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (495; 64%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Imp` (8; 2% of non-empty `Mood`): <em>Вайӧ, Кутчысь, Кывзы, Мыччыв, Юав, бӧрйы, восьты, унмовськӧдчы</em>
-* `Ind` (508; 98% of non-empty `Mood`): <em>колӧ, кутіс, лои, Локтас, воис, мунӧ, вешйис, воисны, вӧлі, гижис</em>
-* `EMPTY` (345): <em>вермы, лоны, идралӧм, идралӧмын, кут, мунны, восьлавны, вӧчны, позь, тӧдны</em>
+* `Imp` (19; 2% of non-empty `Mood`): <em>бӧрйы, Вайӧ, Кутчысь, Кывзы, Мун, Мыччыв, Юав, видзӧдлы, видзӧдтӧ, виччысь</em>
+* `Ind` (760; 98% of non-empty `Mood`): <em>воис, лои, мунӧ, Локтас, видзӧдліс, кыліс, муніс, шуис, шыасис, юаліс</em>
+* `EMPTY` (561): <em>идралӧм, лоны, шуны, идралӧмын, мунны, вӧчны, пов, виччысьны, волыны, восьлавны</em>
 
 <table>
-  <tr><th>Paradigm <i>юавны</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=1</tt></tt></td><td><em>юалі</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=2</tt></tt></td><td><em>юалі</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=2</tt></tt></td><td></td><td><em>Юав</em></td></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=1</tt></tt></td><td><em>юаліс</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=2</tt></tt></td><td><em>юаліс</em></td><td></td></tr>
+  <tr><th>Paradigm <i>мунны</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=1</tt></tt></td><td></td><td><em>Мун</em></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>мунас</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=1</tt></tt></td><td><em>мунас</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>муніс</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=1</tt></tt></td><td><em>муніс</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>мунӧ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=1</tt></tt></td><td><em>мунӧ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>мунісны</em></td><td></td></tr>
 </table>
 
-`Mood` seems to be **lexical feature** of `VERB`. 99% lemmas (311) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 97% lemmas (450) occur only with one value of `Mood`.
 
 ### `AUX`
 
-117 <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> tokens (91% of all `AUX` tokens) have a non-empty value of `Mood`.
+255 <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> tokens (84% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (100; 85%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (89; 76%), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (82; 70%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (69; 59%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (69; 59%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="kpv_lattice-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (222; 87%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (195; 76%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (177; 69%), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (140; 55%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (132; 52%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Ind` (117; 100% of non-empty `Mood`): <em>эз, оз, вӧлі, эг, ог, он, абу, эн, вӧліны, вӧлӧма</em>
-* `EMPTY` (11): <em>абу, вӧв, абуӧсь, вӧвны, эм, эмӧсь</em>
+* `Imp` (4; 2% of non-empty `Mood`): <em>Эн, вай</em>
+* `Ind` (251; 98% of non-empty `Mood`): <em>эз, вӧлі, оз, колӧ, абу, он, эг, ог, вӧліны, кутіс</em>
+* `EMPTY` (49): <em>вермы, абу, кут, не, лоны, вӧв, вӧвны, позь, вермыны, должен</em>
+
+<table>
+  <tr><th>Paradigm <i>оз</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Clitic.html">Clitic</a></tt><tt>=O</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>оз-ӧ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Clitic.html">Clitic</a></tt><tt>=O</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>оз-ӧ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>Огыд</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>эг</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ог</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td><em>Эн</em></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>эн</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>он</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>эз</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>оз</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>эг</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>огӧ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td><em>Эн</em></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>эз</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>оз</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>эг, эз</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ог</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>эн</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>он</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>эз</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>оз</em></td><td></td></tr>
+</table>
+
+`Mood` seems to be **lexical feature** of `AUX`. 93% lemmas (13) occur only with one value of `Mood`.
 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="kpv_lattice-dep-conj.html">conj</a></tt>]--> VERB</tt> (101; 82%),
-<tt>VERB --[<tt><a href="kpv_lattice-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (11; 52%),
-<tt>VERB --[<tt><a href="kpv_lattice-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (7; 70%),
-<tt>VERB --[<tt><a href="kpv_lattice-dep-aux.html">aux</a></tt>]--> AUX</tt> (6; 67%),
+<tt>VERB --[<tt><a href="kpv_lattice-dep-conj.html">conj</a></tt>]--> VERB</tt> (172; 76%),
+<tt>VERB --[<tt><a href="kpv_lattice-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (16; 53%),
+<tt>VERB --[<tt><a href="kpv_lattice-dep-aux-tense.html">aux:tense</a></tt>]--> AUX</tt> (10; 67%),
+<tt>VERB --[<tt><a href="kpv_lattice-dep-appos.html">appos</a></tt>]--> VERB</tt> (2; 67%),
+<tt>AUX --[<tt><a href="kpv_lattice-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="kpv_lattice-dep-advcl-eval.html">advcl:eval</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="kpv_lattice-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="kpv_lattice-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%).
 

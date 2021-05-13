@@ -12,9 +12,9 @@ There are 1 language-specific subtypes of `cc`: <tt><a href="id_pud-dep-cc-preco
 587 nodes (3%) are attached to their parents as `cc`.
 
 587 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.25042589437819.
+Average distance between parent and child is 2.24531516183986.
 
-The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (259; 44% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (202; 34% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (78; 13% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (26; 4% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (11; 2% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="id_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="id_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="id_pud-pos-DET.html">DET</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-X.html">X</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (259; 44% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (203; 35% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (78; 13% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (26; 4% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (11; 2% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="id_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="id_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="id_pud-pos-DET.html">DET</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-X.html">X</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -63,7 +63,7 @@ The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 12 11 cc	color:blue
 1	Di	di	ADP	_	_	3	case	_	_
 2	antara	antara	NOUN	_	Number=Sing	3	nmod:lmod	_	_
-3	nya	nya	PRON	_	Number=Sing	6	obl	_	_
+3	nya	nya	PRON	_	Number=Sing|Person=3|PronType=Prs	6	obl	_	_
 4	adalah	adalah	AUX	_	_	6	cop	_	_
 5	bekas	bekas	ADJ	_	_	6	amod	_	_
 6	biara	biara	NOUN	_	Number=Sing	0	root	_	_

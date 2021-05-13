@@ -24,7 +24,7 @@ The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 2	fgColor:white
 # visual-style 2 3 dislocated	color:blue
 1	Heta	eta	PRON	inact	Person=3|PronType=Ind	2	nsubj	_	B3-a.lot
-2	oĩ	ĩ	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	A3-localized
+2	oĩ	ĩ	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	0	root	_	A3-localized
 3	ka'aguy	ka'aguy	NOUN	n	_	2	dislocated	_	forest
 4	mi	mi	PART	intprt	_	2	dep:mod	_	DIM
 5	.	.	PUNCT	punct	_	2	punct	_	_
@@ -40,7 +40,7 @@ The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 9 15 dislocated	color:blue
 1	Ka'aguy	ka'aguy	NOUN	n	_	3	dislocated	_	forest
 2	heta	eta	PRON	inact	Person=3|PronType=Ind	3	nsubj	_	B3-a.lot
-3	oĩ	ĩ	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	A3-localized
+3	oĩ	ĩ	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	0	root	_	A3-localized
 4	upepe	upepe	ADV	dem	_	5	advmod	_	there
 5	ro'u	'u	VERB	vt	Clusivity[subj]=Ex|Mood=Ind|Person[subj]=1|Subcat=Tran|VerbForm=Fin	9	dislocated	_	A1.PL.EXCL-ingest
 6	va'erã	va'e	SCONJ	rel	_	5	mark	_	REL-FUT
@@ -66,7 +66,7 @@ The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 9 5 dislocated	color:blue
 1	Ka'aguy	ka'aguy	NOUN	n	_	3	dislocated	_	forest
 2	heta	eta	PRON	inact	Person=3|PronType=Ind	3	nsubj	_	B3-a.lot
-3	oĩ	ĩ	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	A3-localized
+3	oĩ	ĩ	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	0	root	_	A3-localized
 4	upepe	upepe	ADV	dem	_	5	advmod	_	there
 5	ro'u	'u	VERB	vt	Clusivity[subj]=Ex|Mood=Ind|Person[subj]=1|Subcat=Tran|VerbForm=Fin	9	dislocated	_	A1.PL.EXCL-ingest
 6	va'erã	va'e	SCONJ	rel	_	5	mark	_	REL-FUT

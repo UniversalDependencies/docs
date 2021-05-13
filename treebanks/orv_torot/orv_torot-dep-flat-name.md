@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of flat:name in UD_Old_Russian-TOROT'
+title:  'Statistics of flat:name in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Relations: `flat:name`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Relations: `flat:name`
 
 This relation is a language-specific subtype of <tt><a href="orv_torot-dep-flat.html">flat</a></tt>.
 

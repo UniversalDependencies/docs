@@ -47,17 +47,17 @@ The following 3 pairs of parts of speech are connected with `det:rel`: <tt><a hr
 # visual-style 6 7 det:rel	color:blue
 1	ni	ní	SCONJ	conj	_	5	mark	_	Gloss=si
 2	aw	áw	PRON	pers	Number=Plur|Person=2|PronType=Emp	5	nsubj	_	Gloss=2PL.EMPH
-3	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
+3	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	5	aux	_	Gloss=PFV.TR
 4	o	ò	PRON	prn	_	5	obj	_	Gloss=ce
 5	kè	kɛ́	VERB	v	_	15	advcl	_	Gloss=faire
 6	tuma	tùma	NOUN	n	_	5	obl	_	Gloss=moment
 7	min	mín	PRON	prn	PronType=Rel	6	det:rel	_	Gloss=REL|SpaceAfter=No
 8	,	,	PUNCT	_	_	5	punct	_	Gloss=,
 9	n	ń	PRON	pers	PronType=Prs	11	nsubj	_	Gloss=je
-10	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	11	aux	_	Gloss=IPFV.AFF
+10	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	11	aux	_	Gloss=IPFV.AFF
 11	kegunya	kègun.ya	NOUN	n	_	15	dislocated	_	Gloss=ruse|Morf=ruse,malin,DEQU
 12	n	ń	PRON	pers	PronType=Prs	15	nsubj	_	Gloss=je
-13	bè	bɛ́	AUX	pm	Aspect=Imp|Polarity=Pos	15	aux	_	Gloss=IPFV.AFF
+13	bè	bɛ	AUX	pm	Aspect=Imp|Polarity=Pos	15	aux	_	Gloss=IPFV.AFF
 14	dò	dɔ́	PRON	n	_	15	obj	_	Gloss=l'un.de.deux
 15	fara	fàra	VERB	v	_	0	root	_	Gloss=ajouter
 16	aw	áw	PRON	pers	Number=Plur|Person=2|PronType=Emp	18	nmod:poss	_	Gloss=2PL.EMPH
@@ -80,12 +80,12 @@ The following 3 pairs of parts of speech are connected with `det:rel`: <tt><a hr
 3	n	ń	PRON	pers	PronType=Prs	8	dislocated	_	Gloss=je
 4	dun	dùn	PART	prt	_	3	discourse	_	Gloss=TOP.CNTR
 5	ne	né	PRON	pers	Number=Sing|Person=1|PronType=Emp	8	nsubj	_	Gloss=1SG.EMPH
-6	tè	tɛ́	AUX	pm	Aspect=Imp|Polarity=Neg	8	aux	_	Gloss=IPFV.NEG
+6	tè	tɛ	AUX	pm	Aspect=Imp|Polarity=Neg	8	aux	_	Gloss=IPFV.NEG
 7	Maromarosilayòrò	Maromaro.sira.yɔrɔ	NOUN	n	_	8	obj	_	Gloss=TOP|Morf=TOP,chemin,lieu
 8	dòn	dɔ́n	VERB	n	_	2	parataxis:obj	_	Gloss=connaissance|SpaceAfter=No
-9	,	,	PUNCT	_	_	8	punct	_	Gloss=,
+9	,	,	PUNCT	_	_	14	punct	_	Gloss=,
 10	i	í	PRON	pers	PronType=Prs	14	nsubj	_	Gloss=2.SG
-11	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	14	aux	_	Gloss=PFV.TR
+11	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	14	aux	_	Gloss=PFV.TR
 12	o	ò	PRON	prn	_	14	obj	_	Gloss=ce
 13	min	mín	DET	prn	PronType=Rel	12	det:rel	_	Gloss=REL
 14	fò	fɔ́	VERB	v	_	7	acl	_	Gloss=dire|SpaceAfter=No

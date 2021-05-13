@@ -18,7 +18,7 @@ The feature is used with 6 part-of-speech tags: <tt><a href="hu_szeged-pos-NOUN.
 
 9690 <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7798; 80%), <tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=None</tt> (5998; 62%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7798; 80%), <tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6929; 72%), <tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (6929; 72%).
 
 `NOUN` tokens may have the following values of `Case`:
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Abs` (51; 1% of non-empty `Case`): <em>példaként, tagjaként, feladatként, Rendezőként, ajándékként, aktivistaként, bölcsőjeként, célként, díjátadóként, elsőként</em>
 * `Acc` (1562; 16% of non-empty `Case`): <em>százalékát, részt, törvényt, forintot, részét, szerepet, javaslatot, kérdést, munkát, pontot</em>
 * `Ade` (43; 0% of non-empty `Case`): <em>matematikánál, 2-2-nél, 2-4-nél, adóhatóságnál, alkotmánybíróságnál, bankautomatáknál, bolgároknál, cseheknél, csúcsánál, cégnél</em>
-* `All` (116; 1% of non-empty `Case`): <em>ellátáshoz, elnyeréséhez, fűtőolajhoz, inflációhoz, maradáshoz, végéhez, Alkotmánybírósághoz, D​o​s​z​t​o​j​e​v​s​z​k​i​j​-​r​e​n​d​e​z​é​s​é​h​e​z, EU-tagállamokhoz, Laptársunkhoz</em>
+* `All` (116; 1% of non-empty `Case`): <em>ellátáshoz, elnyeréséhez, fűtőolajhoz, inflációhoz, maradáshoz, végéhez, Alkotmánybírósághoz, Dosztojevszkij-rendezéséhez, EU-tagállamokhoz, Laptársunkhoz</em>
 * `Cau` (42; 0% of non-empty `Case`): <em>dollárért, koronáért, BL-szereplésért, bocsátásáért, címért, díjamért, elismerésemért, energiahordozókért, euróért, forintért</em>
 * `Dat` (186; 2% of non-empty `Case`): <em>lapunknak, parlamentnek, kormánynak, chaebolnak, százalékának, államnak, alapítványnak, bírónak, dolgozóknak, elnökének</em>
 * `Del` (111; 1% of non-empty `Case`): <em>posztjáról, kérdésekről, megszüntetéséről, posztról, részéről, sorsukról, szerepéről, Befejezésről, alkalmazottakról, biztonságáról</em>
@@ -47,25 +47,22 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 <table>
   <tr><th>Paradigm <i>év</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Abs</tt></th><th><tt>Ins</tt></th><th><tt>Ine</tt></th><th><tt>All</tt></th><th><tt>Sup</tt></th><th><tt>Sub</tt></th><th><tt>Del</tt></th><th><tt>Ter</tt></th></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>év</em></td><td><em>évet</em></td><td></td><td><em>évvel</em></td><td><em>évben</em></td><td></td><td><em>éven</em></td><td><em>évre</em></td><td></td><td><em>évig</em></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=None</tt>|<tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>éve</em></td><td></td><td></td><td></td><td><em>évében</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=None</tt>|<tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt><tt>=None</tt>|<tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt><tt>=None</tt></tt></td><td><em>év</em></td><td></td><td></td><td><em>évvel</em></td><td><em>évben</em></td><td></td><td><em>éven</em></td><td><em>évre</em></td><td><em>évről</em></td><td><em>évig</em></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>év</em></td><td><em>évet</em></td><td></td><td><em>évvel</em></td><td><em>évben</em></td><td></td><td><em>éven</em></td><td><em>évre</em></td><td><em>évről</em></td><td><em>évig</em></td></tr>
   <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>éve</em></td><td><em>évét</em></td><td><em>éveként</em></td><td></td><td><em>évében</em></td><td><em>évéhez</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>évek</em></td><td></td><td></td><td></td><td><em>években</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=None</tt>|<tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt><tt>=None</tt>|<tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt><tt>=None</tt></tt></td><td><em>évek</em></td><td></td><td></td><td></td><td><em>években</em></td><td></td><td><em>éveken</em></td><td></td><td></td><td><em>évekig</em></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>évek</em></td><td></td><td></td><td></td><td><em>években</em></td><td></td><td><em>éveken</em></td><td></td><td></td><td><em>évekig</em></td></tr>
 </table>
 
 ### `ADJ`
 
 5543 <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5461; 99%), <tt><a href="hu_szeged-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (4453; 80%), <tt><a href="hu_szeged-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4394; 79%), <tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=None</tt> (3297; 59%), <tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt><tt>=None</tt> (3292; 59%), <tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt><tt>=None</tt> (3292; 59%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5461; 99%), <tt><a href="hu_szeged-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (4453; 80%), <tt><a href="hu_szeged-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4394; 79%).
 
 `ADJ` tokens may have the following values of `Case`:
 
 * `Abl` (2; 0% of non-empty `Case`): <em>beruházótól, várttól</em>
 * `Abs` (4; 0% of non-empty `Case`): <em>kellőképpen, dortmundiként, háromféleképp</em>
-* `Acc` (11; 0% of non-empty `Case`): <em>feljelentettjeit, g​y​ó​g​y​s​z​e​r​m​é​r​g​e​z​e​t​t​e​k​e​t, jobbat, jót, kicsit, kiválót, korszakosat, kultikust, közöttieket, lepattanót</em>
+* `Acc` (11; 0% of non-empty `Case`): <em>feljelentettjeit, gyógyszermérgezetteket, jobbat, jót, kicsit, kiválót, korszakosat, kultikust, közöttieket, lepattanót</em>
 * `Ade` (14; 0% of non-empty `Case`): <em>vártnál, eddiginél, tavalyinál, korúnál, közepesnél, számítottnál, szükségesnél, tervezettnél, véginél, átlagosnál</em>
 * `All` (7; 0% of non-empty `Case`): <em>düsseldorfihoz, 1997-eshez, megyeihez, tavalyihoz, utcaihoz, évihez</em>
 * `Dat` (52; 1% of non-empty `Case`): <em>alkalmatlannak, bűnösnek, döntőnek, Alkotmánysértőnek, Kedvezőbbnek, Megalázónak, Sajnálatosnak, Szerencsésebbnek, Súlyosnak, alkalmasnak</em>
@@ -81,14 +78,10 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 <table>
   <tr><th>Paradigm <i>jó</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Tra</tt></th></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jó</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=None</tt>|<tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt><tt>=None</tt>|<tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt><tt>=None</tt></tt></td><td><em>jó</em></td><td><em>jót</em></td><td></td><td><em>jóvá</em></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jó</em></td><td><em>jót</em></td><td></td><td><em>jóvá</em></td></tr>
   <tr><td><tt><tt><a href="hu_szeged-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>jók</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=None</tt>|<tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt><tt>=None</tt>|<tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt><tt>=None</tt></tt></td><td><em>jók</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jobb</em></td><td></td><td><em>jobbnak</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=None</tt>|<tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt><tt>=None</tt>|<tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt><tt>=None</tt></tt></td><td><em>jobb</em></td><td><em>jobbat</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jobb</em></td><td><em>jobbat</em></td><td><em>jobbnak</em></td><td></td></tr>
   <tr><td><tt><tt><a href="hu_szeged-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>legjobb</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=None</tt>|<tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt><tt>=None</tt>|<tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt><tt>=None</tt></tt></td><td><em>legjobb</em></td><td></td><td></td><td></td></tr>
 </table>
 
 `Case` seems to be **lexical feature** of `ADJ`. 93% lemmas (2040) occur only with one value of `Case`.
@@ -97,7 +90,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 2718 <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2712; 100%), <tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=None</tt> (1751; 64%), <tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt><tt>=None</tt> (1740; 64%), <tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt><tt>=None</tt> (1740; 64%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2712; 100%).
 
 `PROPN` tokens may have the following values of `Case`:
 
@@ -121,15 +114,14 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 <table>
   <tr><th>Paradigm <i>Budapest</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Abl</tt></th><th><tt>Sup</tt></th><th><tt>Sub</tt></th><th><tt>Del</tt></th><th><tt>Ter</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>Budapest</em></td><td><em>Budapestet</em></td><td></td><td><em>Budapesten</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=None</tt>|<tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt><tt>=None</tt>|<tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt><tt>=None</tt></tt></td><td><em>Budapest</em></td><td><em>Budapestet</em></td><td><em>Budapesttől</em></td><td><em>Budapesten</em></td><td><em>Budapestre</em></td><td><em>Budapestről</em></td><td><em>Budapestig</em></td></tr>
+  <tr><td><tt></tt></td><td><em>Budapest</em></td><td><em>Budapestet</em></td><td><em>Budapesttől</em></td><td><em>Budapesten</em></td><td><em>Budapestre</em></td><td><em>Budapestről</em></td><td><em>Budapestig</em></td></tr>
 </table>
 
 ### `PRON`
 
 1380 <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="hu_szeged-feat-Person.html">Person</a></tt><tt>=3</tt> (1322; 96%), <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1220; 88%), <tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt><tt>=None</tt> (851; 62%), <tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=None</tt> (850; 62%), <tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt><tt>=None</tt> (850; 62%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="hu_szeged-feat-Person.html">Person</a></tt><tt>=3</tt> (1322; 96%), <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1220; 88%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -154,17 +146,15 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 <table>
   <tr><th>Paradigm <i>az</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th><th><tt>Ela</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th><th><tt>Sup</tt></th><th><tt>Sub</tt></th><th><tt>Del</tt></th><th><tt>Ter</tt></th><th><tt>Cau</tt></th></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=None</tt>|<tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt><tt>=None</tt>|<tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt><tt>=None</tt></tt></td><td><em>az</em></td><td><em>azt</em></td><td><em>annak</em></td><td><em>annak</em></td><td><em>azzal, avval</em></td><td><em>abban</em></td><td><em>abba</em></td><td><em>abból</em></td><td><em>ahhoz</em></td><td><em>attól</em></td><td><em>azon</em></td><td><em>arra</em></td><td><em>arról</em></td><td><em>addig</em></td><td><em>azért</em></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>az</em></td><td><em>azt</em></td><td><em>annak</em></td><td><em>annak</em></td><td><em>azzal</em></td><td><em>abban</em></td><td></td><td></td><td><em>ahhoz</em></td><td><em>attól</em></td><td><em>azon</em></td><td><em>arra</em></td><td><em>arról</em></td><td></td><td><em>azért</em></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=None</tt>|<tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt><tt>=None</tt>|<tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt><tt>=None</tt></tt></td><td><em>azok</em></td><td><em>azokat</em></td><td><em>azoknak</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>azok</em></td><td><em>azokat</em></td><td></td><td></td><td></td><td><em>azokban</em></td><td></td><td><em>azokból</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>az</em></td><td><em>azt</em></td><td><em>annak</em></td><td><em>annak</em></td><td><em>azzal, avval</em></td><td><em>abban</em></td><td><em>abba</em></td><td><em>abból</em></td><td><em>ahhoz</em></td><td><em>attól</em></td><td><em>azon</em></td><td><em>arra</em></td><td><em>arról</em></td><td><em>addig</em></td><td><em>azért</em></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>azok</em></td><td><em>azokat</em></td><td><em>azoknak</em></td><td></td><td></td><td><em>azokban</em></td><td></td><td><em>azokból</em></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `NUM`
 
 1115 <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1112; 100%), <tt><a href="hu_szeged-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1003; 90%), <tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=EMPTY</tt> (639; 57%), <tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (635; 57%), <tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (635; 57%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1112; 100%), <tt><a href="hu_szeged-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1003; 90%).
 
 `NUM` tokens may have the following values of `Case`:
 
@@ -185,8 +175,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 <table>
   <tr><th>Paradigm <i>millió</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Ins</tt></th><th><tt>Ess</tt></th><th><tt>Ine</tt></th><th><tt>Cau</tt></th></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=None</tt>|<tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt><tt>=None</tt>|<tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt><tt>=None</tt></tt></td><td><em>millió</em></td><td></td><td></td><td><em>millióan</em></td><td></td><td></td></tr>
-  <tr><td><tt></tt></td><td><em>millió</em></td><td><em>milliót</em></td><td><em>millióval</em></td><td></td><td><em>millióban</em></td><td><em>millióért</em></td></tr>
+  <tr><td><tt></tt></td><td><em>millió</em></td><td><em>milliót</em></td><td><em>millióval</em></td><td><em>millióan</em></td><td><em>millióban</em></td><td><em>millióért</em></td></tr>
 </table>
 
 ### `DET`
@@ -221,7 +210,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="hu_szeged-dep-amod-att.html">amod:att</a></tt>]--> ADJ</tt> (2149; 51%),
+<tt>NOUN --[<tt><a href="hu_szeged-dep-amod-att.html">amod:att</a></tt>]--> ADJ</tt> (2150; 51%),
 <tt>PROPN --[<tt><a href="hu_szeged-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (774; 83%),
 <tt>NOUN --[<tt><a href="hu_szeged-dep-conj.html">conj</a></tt>]--> NOUN</tt> (466; 95%),
 <tt>ADJ --[<tt><a href="hu_szeged-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (160; 99%),

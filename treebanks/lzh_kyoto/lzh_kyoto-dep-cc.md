@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3071 nodes (1%) are attached to their parents as `cc`.
+3287 nodes (1%) are attached to their parents as `cc`.
 
-3071 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.46043633995441.
+3287 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.45756008518406.
 
-The following 19 pairs of parts of speech are connected with `cc`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-CCONJ.html">CCONJ</a></tt> (2700; 88% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (151; 5% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-CCONJ.html">CCONJ</a></tt> (51; 2% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (49; 2% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (34; 1% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (22; 1% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (17; 1% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (16; 1% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt>-<tt><a href="lzh_kyoto-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt>-<tt><a href="lzh_kyoto-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `cc`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-CCONJ.html">CCONJ</a></tt> (2860; 87% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (183; 6% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (69; 2% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-CCONJ.html">CCONJ</a></tt> (52; 2% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (35; 1% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (22; 1% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (17; 1% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (17; 1% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt>-<tt><a href="lzh_kyoto-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -53,17 +53,15 @@ The following 19 pairs of parts of speech are connected with `cc`: <tt><a href="
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 cc	color:blue
-1	君子	君子	NOUN	n,名詞,人,役割	_	5	acl	_	Gloss=lord|SpaceAfter=No
-2	而	而	CCONJ	p,助詞,接続,並列	_	4	cc	_	Gloss=and|SpaceAfter=No
-3	不	不	ADV	v,副詞,否定,無界	Polarity=Neg	4	advmod	_	Gloss=not|SpaceAfter=No
-4	仁	仁	NOUN	n,名詞,描写,態度	_	1	conj	_	Gloss=benevolence|SpaceAfter=No
-5	者	者	PART	p,助詞,提示,*	_	6	nsubj	_	Gloss=that-which|SpaceAfter=No
-6	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
-7	矣	矣	PART	p,助詞,句末,*	_	6	discourse:sp	_	Gloss=[PFV]|SpaceAfter=No
-8	夫	夫	PART	p,助詞,句末,*	_	6	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 cc	color:blue
+1	世民	世民	PROPN	n,名詞,人,名	NameType=Giv	6	nsubj	_	Gloss=[given-name]|SpaceAfter=No
+2	與	與	ADP	v,前置詞,関係,*	_	3	cc	_	Gloss=associate-with|SpaceAfter=No
+3	寂	寂	PROPN	n,名詞,人,名	NameType=Giv	1	conj	_	Gloss=[given-name]|SpaceAfter=No
+4	等	等	NOUN	n,名詞,数量,*	_	1	conj	_	Gloss=class|SpaceAfter=No
+5	復	復	ADV	v,副詞,頻度,重複	_	6	advmod	_	Gloss=again|SpaceAfter=No
+6	說	說	VERB	v,動詞,行為,態度	_	0	root	_	Gloss=relaxed|SpaceAfter=No
 
 ~~~
 

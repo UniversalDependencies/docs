@@ -23,7 +23,7 @@ The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="t
 # visual-style 5	fgColor:white
 # visual-style 5 6 cc	color:blue
 1	1.	1.	NUM	Ux-------	NumType=Card	11	obj	11:obj	Translit=1.|LTranslit=1.
-2	ஒரு	ஒரு	NUM	JJ-------	_	3	nummod	3:nummod	Translit=oru|LTranslit=oru
+2	ஒரு	ஒரு	NUM	JJ-------	NumType=Card	3	nummod	3:nummod	Translit=oru|LTranslit=oru
 3	ஆண்	ஆண்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	8	nsubj	8:nsubj	Translit=āṇ|LTranslit=āṇ
 4	உம்	உம்	PART	Tv-------	_	3	advmod:emph	3:advmod:emph	Translit=um|LTranslit=um
 5	பெண்ண்	பெண்	NOUN	NNN-3SH--	Case=Nom|Gender=Com|Number=Sing|Person=3|Polite=Form	3	conj	3:conj|8:nsubj	Translit=peṇṇ|LTranslit=peṇ
@@ -50,7 +50,7 @@ The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="t
 3	கிழக்குப்	கிழக்கு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	1	conj	1:conj|4:nmod:nom	Translit=kilakkup|LTranslit=kilakku
 4	பகுதிகளுக்க்	பகுதி	NOUN	NND-3PN--	Case=Dat|Gender=Neut|Number=Plur|Person=3	9	obl	9:obl:ஆகு:dat	Translit=pakutikaḷukk|LTranslit=pakuti
 5	ஆக	ஆகு	ADP	PP-------	AdpType=Post	4	case	4:case	Translit=āka|LTranslit=āku
-6	55	55	NUM	U=-------	NumForm=Digit	7	nummod	7:nummod	Translit=55|LTranslit=55
+6	55	55	NUM	U=-------	NumForm=Digit|NumType=Card	7	nummod	7:nummod	Translit=55|LTranslit=55
 7	பேருந்துகளை	பேருந்து	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	9	obj	9:obj	Translit=pēruntukaḷai|LTranslit=pēruntu
 8	இந்தியா	இந்தியா	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	9	nsubj	9:nsubj	Translit=intiyā|LTranslit=intiyā
 9	வழங்கிய்	வழங்கு	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	0	root	0:root	Translit=valaṅkiy|LTranslit=valaṅku
@@ -74,7 +74,7 @@ The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="t
 6	,	,	PUNCT	Z:-------	PunctType=Comm	7	punct	7:punct	Translit=,|LTranslit=,
 7	ஆங்கிலம்	ஆங்கிலம்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	1	conj	1:conj|8:nmod:nom	Translit=āṅkilam|LTranslit=āṅkilam
 8	ஆகிய	ஆகு	ADJ	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	9	amod	9:amod	Translit=ākiya|LTranslit=āku
-9	மொழிகளில்	மொழி	NOUN	NNL-3PN--	Case=Loc|Gender=Neut|Number=Plur|Person=3	10	obl	10:obl:loc|13:obl:loc	Translit=molikaḷil|LTranslit=moli
+9	மொழிகளில்	மொழி	NOUN	NNL-3PN--	Case=Loc|Gender=Neut|Number=Plur|Person=3	10	obl	10:obl:loc	Translit=molikaḷil|LTranslit=moli
 10	பேசவ்	பேசு	VERB	Vu-T---AA	Polarity=Pos|VerbForm=Inf|Voice=Act	15	xcomp	15:xcomp	Translit=pēcav|LTranslit=pēcu
 11	உம்	உம்	PART	Tv-------	_	10	advmod:emph	10:advmod:emph	Translit=um|LTranslit=um
 12	,	,	PUNCT	Z:-------	PunctType=Comm	13	punct	13:punct	Translit=,|LTranslit=,

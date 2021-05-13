@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 * `Plur` (1284; 31% of non-empty `Number`): <em>árum, ára, áhrif, milljónir, ár, sinnum, yfirráð, fjárfestar, lögum, mörkum</em>
 * `Sing` (2798; 69% of non-empty `Number`): <em>árið, hluta, október, stað, öld, fólk, fjölda, sinn, sögu, ár</em>
-* `EMPTY` (19): <em>Frú, ati, dala, dr., eiðinu, etým, evra, heimi, hofi, k​a​r​l​h​o​r​m​ó​n​a​g​e​t​n​a​ð​a​r​v​ö​r​n</em>
+* `EMPTY` (19): <em>Frú, ati, dala, dr., eiðinu, etým, evra, heimi, hofi, karlhormónagetnaðarvörn</em>
 
 <table>
   <tr><th>Paradigm <i>ár</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

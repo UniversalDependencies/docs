@@ -1,19 +1,19 @@
 ---
 layout: base
-title:  'Statistics of AUX in UD_Old_Russian-TOROT'
+title:  'Statistics of AUX in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: POS Tags: `AUX`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: POS Tags: `AUX`
 
-There are 2 `AUX` lemmas (0%), 250 `AUX` types (1%) and 3260 `AUX` tokens (2%).
+There are 1 `AUX` lemmas (0%), 250 `AUX` types (1%) and 3260 `AUX` tokens (2%).
 Out of 14 observed tags, the rank of `AUX` is: 14 in number of lemmas, 9 in number of types and 10 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: <em>быти, не быти</em>
+The 10 most frequent `AUX` lemmas: <em>быти</em>
 
 The 10 most frequent `AUX` types:  <em>бѣ, быс, есть, ѥсть, будеть, бѧше, суть, бы, быти, бꙑс҃</em>
 
-The 10 most frequent ambiguous lemmas: <em>не быти</em> (<tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> 49, <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> 5)
+The 10 most frequent ambiguous lemmas: <em>быти</em> (<tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> 3260, <tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> 49)
 
 The 10 most frequent ambiguous types:  <em>бѣ</em> (<tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> 401, <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> 2), <em>сы</em> (<tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> 12, <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> 1), <em>ѥ</em> (<tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> 17, <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> 5), <em>е</em> (<tt><a href="orv_torot-pos-NUM.html">NUM</a></tt> 44, <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> 27, <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> 4), <em>бе</em> (<tt><a href="orv_torot-pos-ADP.html">ADP</a></tt> 27, <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> 2, <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> 1), <em>си</em> (<tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> 107, <tt><a href="orv_torot-pos-PRON.html">PRON</a></tt> 74, <tt><a href="orv_torot-pos-DET.html">DET</a></tt> 48, <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> 5, <tt><a href="orv_torot-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> 2), <em>б҃ы</em> (<tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> 1, <tt><a href="orv_torot-pos-NOUN.html">NOUN</a></tt> 1), <em>нѣс</em> (<tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> 23, <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> 1), <em>нѣсть</em> (<tt><a href="orv_torot-pos-VERB.html">VERB</a></tt> 15, <tt><a href="orv_torot-pos-AUX.html">AUX</a></tt> 1)
 
@@ -55,17 +55,15 @@ The 10 most frequent ambiguous types:  <em>бѣ</em> (<tt><a href="orv_torot-pos
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 125.000000 (the average of all parts of speech is 3.571089).
+The form / lemma ratio of `AUX` is 250.000000 (the average of all parts of speech is 3.571475).
 
-The 1st highest number of forms (246) was observed with the lemma “быти”: <em>Бяшеть, Выс, б]ѧше, бдуть, бе, беста, беѣ, боудет, боудетъ, боудеть, боудꙋть, буд, буда, буде, будевѣ, будем, будемъ, будет, будета, будете, будетъ, будеть, будет҃, будеши, будешь, буди, будть, буду, будут, будуть, будущаго, будущая, будуще, будущемъ, будущи, будущии, будьть, будѣте, будѧше, буть, бы, быв, бывша, бывшаго, бывшая, бывше, бывшее, бывшемъ, бывшею, бывшеє, бывшеѥ, бывши, бывшим, бывшимъ, бывших, бывшю, бывшѹ, бывшꙋ, бывъ, бывъша, бывъше, бывъшеи, бывъшемъ, бывъшеѥ, бывъши, бывъшиихъ, бывъшю, бывыи, бывьї, был, была, были, было, былъ, быс, быстʼ, быста, бысте, бысть, бысь, быс҃, быти, быть, бых, быхом, быхомъ, быхъ, быша, бы҃, бы҃с, бяхуть, бяше, бяшетъ, бѣ, бѣахѹть, бѣаша, бѣаше, бѣста, бѣсте, бѣх, бѣхъ, бѣхѹ, бѣша, бѣше, бѣяху, бѧста, бѧх, бѧхȣть, бѧхом, бѧхомъ, бѧху, бѧхуть, бѧхъ, бѧхѹ, бѧхѹть, бѧхꙋ, бѧше, бѧшеть, бѹде, бѹдевѣ, бѹдет, бѹдете, бѹдеть, бѹдеш]и, бѹдеши, бѹди, бѹдть, бѹдьше, бѹдѣмъ, бѹдѧше, бѹдѹ, бѹдѹть, бѹдꙗше, б҃ы, бꙋд[е, бꙋдет, бꙋди, бꙑ, бꙑвшеи, бꙑвъше, бꙑле, бꙑли, бꙑло, бꙑлъ, бꙑста, бꙑсть, бꙑс҃, бꙑти, бꙑт҃, бꙑхо, бꙑхомъ, бꙑхъ, бꙑша, бꙗаше, бꙗше, е, е[с]и, емь, ес, есвѣ, есемо, еси, есми, есмо, есмъ, есмы, есмь, есмя, есмѧ, ест, еста, есте, есть, есьмъ, есьмь, етсь, сȣща, си, соуть, соуща, соущаѧ, соуще, соущи, соущимъ, соущїи, соущꙋ, сут, сутъ, суть, суща, сущаго, сущая, суще, сущеи, сущемъ, сущи, сущим, сущимъ, сущихъ, сущу, сущю, сущюю, сы, сыи, сѹт, сѹть, сѹт҃, сѹщȣ, сѹща, сѹщааго, сѹщаго, сѹщаѧ, сѹщаꙗ, сѹще, сѹщеи, сѹщема, сѹщемъ, сѹщи, сѹщии, сѹщиими, сѹщиимъ, сѹщиихъ, сѹщимъ, сѹщь, сѹщю, сѹщюѹмѹ, сѹщѹ, сꙋщи, сꙋщими, ша, ще, є, єс, єсмѧ, єс҃, ѥ, ѥси, ѥсме, ѥсми, ѥсмъ, ѥсмы, ѥсмь, ѥста, ѥсте, ѥсть, ѥсьмы</em>.
+The 1st highest number of forms (250) was observed with the lemma “быти”: <em>Бяшеть, Выс, б]ѧше, бдуть, бе, беста, беѣ, боудет, боудетъ, боудеть, боудꙋть, буд, буда, буде, будевѣ, будем, будемъ, будет, будета, будете, будетъ, будеть, будет҃, будеши, будешь, буди, будть, буду, будут, будуть, будущаго, будущая, будуще, будущемъ, будущи, будущии, будьть, будѣте, будѧше, буть, бы, быв, бывша, бывшаго, бывшая, бывше, бывшее, бывшемъ, бывшею, бывшеє, бывшеѥ, бывши, бывшим, бывшимъ, бывших, бывшю, бывшѹ, бывшꙋ, бывъ, бывъша, бывъше, бывъшеи, бывъшемъ, бывъшеѥ, бывъши, бывъшиихъ, бывъшю, бывыи, бывьї, был, была, были, было, былъ, быс, быстʼ, быста, бысте, бысть, бысь, быс҃, быти, быть, бых, быхом, быхомъ, быхъ, быша, бы҃, бы҃с, бяхуть, бяше, бяшетъ, бѣ, бѣахѹть, бѣаша, бѣаше, бѣста, бѣсте, бѣх, бѣхъ, бѣхѹ, бѣша, бѣше, бѣяху, бѧста, бѧх, бѧхȣть, бѧхом, бѧхомъ, бѧху, бѧхуть, бѧхъ, бѧхѹ, бѧхѹть, бѧхꙋ, бѧше, бѧшеть, бѹде, бѹдевѣ, бѹдет, бѹдете, бѹдеть, бѹдеш]и, бѹдеши, бѹди, бѹдть, бѹдьше, бѹдѣмъ, бѹдѧше, бѹдѹ, бѹдѹть, бѹдꙗше, б҃ы, бꙋд[е, бꙋдет, бꙋди, бꙑ, бꙑвшеи, бꙑвъше, бꙑле, бꙑли, бꙑло, бꙑлъ, бꙑста, бꙑсть, бꙑс҃, бꙑти, бꙑт҃, бꙑхо, бꙑхомъ, бꙑхъ, бꙑша, бꙗаше, бꙗше, е, е[с]и, емь, ес, есвѣ, есемо, еси, есми, есмо, есмъ, есмы, есмь, есмя, есмѧ, ест, еста, есте, есть, есьмъ, есьмь, етсь, нѣс, нѣси, нѣсмь, нѣсть, сȣща, си, соуть, соуща, соущаѧ, соуще, соущи, соущимъ, соущїи, соущꙋ, сут, сутъ, суть, суща, сущаго, сущая, суще, сущеи, сущемъ, сущи, сущим, сущимъ, сущихъ, сущу, сущю, сущюю, сы, сыи, сѹт, сѹть, сѹт҃, сѹщȣ, сѹща, сѹщааго, сѹщаго, сѹщаѧ, сѹщаꙗ, сѹще, сѹщеи, сѹщема, сѹщемъ, сѹщи, сѹщии, сѹщиими, сѹщиимъ, сѹщиихъ, сѹщимъ, сѹщь, сѹщю, сѹщюѹмѹ, сѹщѹ, сꙋщи, сꙋщими, ша, ще, є, єс, єсмѧ, єс҃, ѥ, ѥси, ѥсме, ѥсми, ѥсмъ, ѥсмы, ѥсмь, ѥста, ѥсте, ѥсть, ѥсьмы</em>.
 
-The 2nd highest number of forms (4) was observed with the lemma “не быти”: <em>нѣс, нѣси, нѣсмь, нѣсть</em>.
+`AUX` occurs with 11 features: <tt><a href="orv_torot-feat-Tense.html">Tense</a></tt> (3260; 100% instances), <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt> (3260; 100% instances), <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt> (3260; 100% instances), <tt><a href="orv_torot-feat-Number.html">Number</a></tt> (3163; 97% instances), <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt> (2683; 82% instances), <tt><a href="orv_torot-feat-Person.html">Person</a></tt> (2683; 82% instances), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt> (1435; 44% instances), <tt><a href="orv_torot-feat-Case.html">Case</a></tt> (480; 15% instances), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt> (480; 15% instances), <tt><a href="orv_torot-feat-Variant.html">Variant</a></tt> (377; 12% instances), <tt><a href="orv_torot-feat-Polarity.html">Polarity</a></tt> (5; 0% instances)
 
-`AUX` occurs with 10 features: <tt><a href="orv_torot-feat-VerbForm.html">VerbForm</a></tt> (3260; 100% instances), <tt><a href="orv_torot-feat-Voice.html">Voice</a></tt> (3260; 100% instances), <tt><a href="orv_torot-feat-Tense.html">Tense</a></tt> (3174; 97% instances), <tt><a href="orv_torot-feat-Number.html">Number</a></tt> (3163; 97% instances), <tt><a href="orv_torot-feat-Mood.html">Mood</a></tt> (2683; 82% instances), <tt><a href="orv_torot-feat-Person.html">Person</a></tt> (2683; 82% instances), <tt><a href="orv_torot-feat-Aspect.html">Aspect</a></tt> (1521; 47% instances), <tt><a href="orv_torot-feat-Case.html">Case</a></tt> (480; 15% instances), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt> (480; 15% instances), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt> (480; 15% instances)
+`AUX` occurs with 29 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Imp`, `Mood=Ind`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `Variant=Short`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `VerbForm=PartRes`, `Voice=Act`
 
-`AUX` occurs with 29 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Aspect=Res`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Imp`, `Mood=Ind`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Strength=Strong`, `Strength=Weak`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Act`
-
-`AUX` occurs with 106 feature combinations.
+`AUX` occurs with 109 feature combinations.
 The most frequent feature combination is `Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act` (576 tokens).
 Examples: <em>бѣ, бѧше, бѧшеть, бꙗше, бѹдꙗше, бѣаше, бꙗаше, будѧше, бяше, бѣше</em>
 

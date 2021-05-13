@@ -74,7 +74,7 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 16	Andrea	Andreas	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	13	conj	_	SpaceAfter=No
 17	,	,	PUNCT	Punc	_	18	punct	_	_
 18	avocato	aduocatus	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	16	appos	_	_
-19	eius	is	DET	p|p|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Dem,Prs	18	det	_	SpaceAfter=No
+19	eius	is	PRON	p|p|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Dem,Prs	18	det	_	SpaceAfter=No
 20	,	,	PUNCT	Punc	_	21	punct	_	_
 21	si	si	SCONJ	c|c|-|-|-|-|-|-|-|-	_	41	mark	_	_
 22	aliquit	aliquis	PRON	p|p|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	40	obj	_	_
@@ -88,7 +88,7 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 30	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	32	case	_	_
 31	ipsas	ipse	DET	p|p|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	32	det	_	_
 32	cartulas	chartula	NOUN	n|n|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur	33	obl	_	_
-33	legebatur	lego	VERB	v|v|3|s|i|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Pass	25	acl:relcl	_	SpaceAfter=No
+33	legebatur	lego	VERB	v|v|3|s|i|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	25	acl:relcl	_	SpaceAfter=No
 34	,	,	PUNCT	Punc	_	25	punct	_	_
 35	da	da	ADP	r|r|-|-|-|-|-|-|-|-	_	36	case	_	_
 36	parte	pars	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	40	obl	_	_

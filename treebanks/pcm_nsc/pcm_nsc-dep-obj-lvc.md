@@ -47,7 +47,7 @@ The following 5 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 2	make	make	VERB	_	_	0	root	_	AlignBegin=338386|AlignEnd=338625|Gloss=make
 3	yoursef	yoursef	PRON	_	Case=Acc|Person=2|PronType=Prs|Reflex=Yes	2	obj	_	AlignBegin=338625|AlignEnd=338895|Gloss=ACC.2.REFL
 4	comfortable	comfortable	ADJ	_	_	2	obj:lvc	_	AlignBegin=338895|AlignEnd=339435|Gloss=comfortable
-5	o	o	PART	_	PartType=Disc	4	advmod:emph	_	AlignBegin=339435|AlignEnd=339635|Gloss=EMPH
+5	o	o	PART	_	PartType=Disc	4	advmod	_	AlignBegin=339435|AlignEnd=339635|Gloss=EMPH
 6	//	//	X	_	_	2	dep	_	AlignBegin=339635|AlignEnd=339665|Gloss=PUNCT
 
 ~~~
@@ -61,13 +61,13 @@ The following 5 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 # visual-style 9 10 obj:lvc	color:blue
 1	to	to	ADP	_	_	2	case	_	AlignBegin=62052|AlignEnd=62403|Gloss=to
 2	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	obl:mod	_	AlignBegin=62403|AlignEnd=62754|Gloss=ACC.SG.1
-3	ma	ma	PART	_	PartType=Disc	2	advmod:emph	_	AlignBegin=62754|AlignEnd=63106|Gloss=FOC
+3	ma	ma	PART	_	PartType=Disc	2	advmod	_	AlignBegin=62754|AlignEnd=63106|Gloss=FOC
 4	<	<	X	_	_	2	dep	_	AlignBegin=63106|AlignEnd=63106|Gloss=PUNCT
 5	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	AlignBegin=63106|AlignEnd=63457|Gloss=NOM.SG.1
 6	no	no	PART	_	Polarity=Neg	7	advmod	_	AlignBegin=63457|AlignEnd=63808|Gloss=NEG
 7	ready	ready	ADJ	_	_	0	root	_	AlignBegin=63808|AlignEnd=64159|Gloss=ready
 8	to	to	ADP	_	_	9	mark	_	AlignBegin=64159|AlignEnd=64510|Gloss=to
-9	do	do	VERB	_	_	7	xcomp:obl	_	AlignBegin=64510|AlignEnd=64862|Gloss=do
+9	do	do	VERB	_	_	7	xcomp	_	AlignBegin=64510|AlignEnd=64862|Gloss=do
 10	falla	follow	VERB	_	_	9	obj:lvc	_	AlignBegin=64862|AlignEnd=65213|Gloss=follow
 11	follow	follow	VERB	_	_	10	compound:svc	_	AlignBegin=65213|AlignEnd=65564|Gloss=follow
 12	//	//	X	_	_	7	dep	_	AlignBegin=65564|AlignEnd=65564|Gloss=PUNCT

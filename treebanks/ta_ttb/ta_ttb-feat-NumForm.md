@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ta_ttb-pos-NUM.html
 
 149 <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> tokens (54% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="ta_ttb-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (149; 100%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="ta_ttb-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (149; 100%).
 
 `NUM` tokens may have the following values of `NumForm`:
 

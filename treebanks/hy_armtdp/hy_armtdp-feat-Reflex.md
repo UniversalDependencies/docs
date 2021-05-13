@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="hy_armtdp-pos-DET.h
 
 178 <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> tokens (9% of all `DET` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Gen</tt> (178; 100%), <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=EMPTY</tt> (178; 100%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (178; 100%), <tt><a href="hy_armtdp-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (178; 100%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Emp</tt> (178; 100%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (127; 71%).
+The most frequent other feature values with which `DET` and `Reflex` co-occurred: <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Gen</tt> (178; 100%), <tt><a href="hy_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (178; 100%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (178; 100%), <tt><a href="hy_armtdp-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (178; 100%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Emp</tt> (178; 100%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (127; 71%).
 
 `DET` tokens may have the following values of `Reflex`:
 
@@ -29,7 +29,7 @@ The most frequent other feature values with which `DET` and `Reflex` co-occurred
 
 48 <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (48; 100%), <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=EMPTY</tt> (48; 100%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (48; 100%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Emp</tt> (47; 98%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (36; 75%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt> (26; 54%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (48; 100%), <tt><a href="hy_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (48; 100%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (48; 100%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Emp</tt> (47; 98%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (36; 75%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt> (26; 54%).
 
 `PRON` tokens may have the following values of `Reflex`:
 

@@ -23,16 +23,16 @@ The following 21 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 cc	color:blue
-1	Din	din	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	O
-2	acest	acest	DET	Dd3msr---e	Case=Nom|Gender=Masc|Number=Sing|Person=3|Position=Prenom|PronType=Dem	3	det	_	O
-3	motiv	motiv	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	7	obl	_	O
-4	și	și	CCONJ	Crssp	Polarity=Pos	5	cc	_	O
-5	beneficiul	beneficiu	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	conj	_	O
-6	stentării	stentare	NOUN	Ncfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	5	nmod	_	B-PROC
-7	rămâne	rămâne	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	O
-8	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	O
-9	discuție	discuție	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	7	obl	_	O
-10	.	.	PUNCT	PERIOD	_	7	punct	_	O
+1	Din	din	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
+2	acest	acest	DET	Dd3msr---e	Case=Nom|Gender=Masc|Number=Sing|Person=3|Position=Prenom|PronType=Dem	3	det	_	_
+3	motiv	motiv	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	7	obl	_	_
+4	și	și	CCONJ	Crssp	Polarity=Pos	5	cc	_	_
+5	beneficiul	beneficiu	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	conj	_	_
+6	stentării	stentare	NOUN	Ncfsoy	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	5	nmod	_	BioNERLabel=B-PROC
+7	rămâne	rămâne	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
+9	discuție	discuție	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+10	.	.	PUNCT	PERIOD	_	7	punct	_	_
 
 ~~~
 
@@ -43,15 +43,15 @@ The following 21 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 5 cc	color:blue
-1	Dificultate	dificultate	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	B-DISO
-2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	mark	_	I-DISO
-3	a	a	PART	Qn	PartType=Inf	4	mark	_	I-DISO
-4	merge	merge	VERB	Vmnp	Tense=Pres|VerbForm=Inf	1	acl	_	I-DISO
-5	și	și	CCONJ	Crssp	Polarity=Pos	8	cc	_	O
-6	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	8	mark	_	I-DISO
-7	a	a	PART	Qn	PartType=Inf	8	mark	_	I-DISO
-8	vorbi	vorbi	VERB	Vmnp	Tense=Pres|VerbForm=Inf	4	conj	_	I-DISO
-9	.	.	PUNCT	PERIOD	_	1	punct	_	O
+1	Dificultate	dificultate	NOUN	Ncfsrn	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	BioNERLabel=B-DISO
+2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	mark	_	BioNERLabel=I-DISO
+3	a	a	PART	Qn	PartType=Inf	4	mark	_	BioNERLabel=I-DISO
+4	merge	merge	VERB	Vmnp	Tense=Pres|VerbForm=Inf	1	acl	_	BioNERLabel=I-DISO
+5	și	și	CCONJ	Crssp	Polarity=Pos	8	cc	_	_
+6	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	8	mark	_	BioNERLabel=I-DISO
+7	a	a	PART	Qn	PartType=Inf	8	mark	_	BioNERLabel=I-DISO
+8	vorbi	vorbi	VERB	Vmnp	Tense=Pres|VerbForm=Inf	4	conj	_	BioNERLabel=I-DISO|SpaceAfter=No
+9	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
 ~~~
 
@@ -62,17 +62,17 @@ The following 21 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 8 cc	color:blue
-1	Din	din	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	O
-2	contra	contra	ADV	Rgp	Degree=Pos	6	obl	_	O
-3	,	,	PUNCT	COMMA	_	2	punct	_	O
-4	venele	venă	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	6	nsubj	_	B-ANAT
-5	centrale	central	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	I-ANAT
-6	devin	deveni	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	O
-7	subțiri	subțire	ADJ	Afp-p-n	Definite=Ind|Degree=Pos|Number=Plur	6	xcomp	_	O
-8	și	și	CCONJ	Crssp	Polarity=Pos	10	cc	_	O
-9	ușor	ușor	ADV	Rgp	Degree=Pos	10	advmod	_	O
-10	distensibile	distensibil	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	7	conj	_	O
-11	.	.	PUNCT	PERIOD	_	6	punct	_	O
+1	Din	din	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
+2	contra	contra	ADV	Rgp	Degree=Pos	6	obl	_	SpaceAfter=No
+3	,	,	PUNCT	COMMA	_	2	punct	_	_
+4	venele	venă	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	6	nsubj	_	BioNERLabel=B-ANAT
+5	centrale	central	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	BioNERLabel=I-ANAT
+6	devin	deveni	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	subțiri	subțire	ADJ	Afp-p-n	Definite=Ind|Degree=Pos|Number=Plur	6	xcomp	_	_
+8	și	și	CCONJ	Crssp	Polarity=Pos	10	cc	_	_
+9	ușor	ușor	ADV	Rgp	Degree=Pos	10	advmod	_	_
+10	distensibile	distensibil	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	7	conj	_	SpaceAfter=No
+11	.	.	PUNCT	PERIOD	_	6	punct	_	_
 
 ~~~
 

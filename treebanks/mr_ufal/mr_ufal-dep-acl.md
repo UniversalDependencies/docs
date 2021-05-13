@@ -23,11 +23,11 @@ The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 acl	color:blue
-1	एका	एक	DET	_	Case=Obl|Number=Sing|PronType=Ind	4	det	_	_
+1	एका	एक	DET	_	Case=Abs|Number=Sing|PronType=Ind	4	det	_	_
 2	खळखळ	खळखळ	ADV	_	_	3	advmod	_	_
-3	वाहणाऱ्या	वहाणे	VERB	_	Aspect=Hab|Case=Obl|VerbForm=Part	4	acl	_	_
-4	_	झरा	NOUN	_	Case=Obl|Gender=Masc|Number=Sing	6	nmod:poss	_	_
-5	_	चा	ADP	_	Case=Obl	4	case	_	_
+3	वाहणाऱ्या	वहाणे	VERB	_	Aspect=Hab|Case=Abs|VerbForm=Part	4	acl	_	_
+4	_	झरा	NOUN	_	Case=Abs|Gender=Masc|Number=Sing	6	nmod:poss	_	_
+5	_	चा	ADP	_	Case=Abs	4	case	_	_
 6	काठी	काठ	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	8	obl	_	_
 7	दोघं	दोघे	PRON	_	Gender=Masc|Number=Plur|Person=3	8	nsubj	_	_
 8	बसली	बसणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -43,19 +43,19 @@ The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 16	fgColor:white
 # visual-style 16 10 acl	color:blue
 1	भाऊ	भाऊ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
-2	_	राजपुत्र	NOUN	_	Case=Obl|Gender=Masc|Number=Sing	4	obl	_	_
+2	_	राजपुत्र	NOUN	_	Case=Abs|Gender=Masc|Number=Sing	4	obl	_	_
 3	_	कडे	ADP	_	_	2	case	_	_
 4	येऊन	येणे	VERB	_	Aspect=Perf|VerbForm=Conv	5	advcl	_	_
 5	म्हणाला	म्हणणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	5	punct	_	_
+6	,	,	PUNCT	_	_	19	punct	_	_
 7	राजाला	राजा	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	19	obj	_	_
-8	_	अंगण	NOUN	_	Case=Obl|Gender=Neut|Number=Sing	10	nmod:poss	_	_
+8	_	अंगण	NOUN	_	Case=Abs|Gender=Neut|Number=Sing	10	nmod:poss	_	_
 9	_	तील	ADP	_	_	8	case	_	_
-10	_	मोती	NOUN	_	Case=Obl|Gender=Fem|Number=Plur	16	acl	_	_
+10	_	मोती	NOUN	_	Case=Abs|Gender=Fem|Number=Plur	16	acl	_	_
 11	_	पैकी	ADP	_	_	10	case	_	_
-12	_	राणी	NOUN	_	Case=Obl|Gender=Fem|Number=Sing	14	nmod:poss	_	_
-13	_	चा	ADP	_	Case=Obl	12	case	_	_
-14	_	नथ	NOUN	_	Case=Obl|Gender=Fem|Number=Sing	16	nmod:poss	_	_
+12	_	राणी	NOUN	_	Case=Abs|Gender=Fem|Number=Sing	14	nmod:poss	_	_
+13	_	चा	ADP	_	Case=Abs	12	case	_	_
+14	_	नथ	NOUN	_	Case=Abs|Gender=Fem|Number=Sing	16	nmod:poss	_	_
 15	_	चा	ADP	_	Gender=Masc|Number=Plur	14	case	_	_
 16	मोती	मोती	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	17	obj	_	_
 17	निवडून	निवडणे	VERB	_	Aspect=Perf|VerbForm=Conv	19	advcl	_	_

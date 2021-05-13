@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Kim Gerdes, John Lee, Herman Leung, Tak-sum Wong.
 
 Repository: [UD_Chinese-HK](https://github.com/UniversalDependencies/UD_Chinese-HK)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_hk27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_hk28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -88,7 +88,7 @@ This work was partially supported by a grant from the PROCORE-France/Hong Kong J
 </ul>
 
 <ul>
-<li>This corpus contains 8 types of words that contain both letters and punctuation. Examples: Yes!, D​e​c​l​a​r​a​t​i​o​n​_​o​f​_​R​e​n​u​n​c​i​a​t​i​o​n​_​o​f​_​B​r​i​t​i​s​h​_​C​i​t​i​z​e​n​s​h​i​p, Philip_, Yes!卡, a​r​b​i​t​r​a​r​y​_​u​s​e​_​o​f​_​p​o​w​e​r, 一而再、再而三, 以大欺小！, 計數！</li>
+<li>This corpus contains 8 types of words that contain both letters and punctuation. Examples: Yes!, Declaration_of_Renunciation_of_British_Citizenship, Philip_, Yes!卡, arbitrary_use_of_power, 一而再、再而三, 以大欺小！, 計數！</li>
 </ul>
 
 <ul>
@@ -173,7 +173,6 @@ This work was partially supported by a grant from the PROCORE-France/Hong Kong J
     <ul>
       <li>Clf
         <ul>
-          <li>ADV: 些</li>
           <li>NOUN: 個, 位, 元, 條, 塊, 次, 天, 點, 分鐘, 張</li>
         </ul>
       </li>

@@ -62,7 +62,7 @@ The following 11 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 6 1 advmod	color:blue
 1	இதன்படி	இதன்படி	ADV	AA-------	_	6	advmod	6:advmod	Translit=itanpaṭi|LTranslit=itanpaṭi
 2	இந்தியாவுக்கு	இந்தியா	PROPN	NED-3SN--	Case=Dat|Gender=Neut|Number=Sing|Person=3	6	nsubj	6:nsubj	Translit=intiyāvukku|LTranslit=intiyā
-3	128	128	NUM	U=-------	NumForm=Digit	4	nummod	4:nummod	Translit=128|LTranslit=128
+3	128	128	NUM	U=-------	NumForm=Digit|NumType=Card	4	nummod	4:nummod	Translit=128|LTranslit=128
 4	நாடுகளின்	நாடு	NOUN	NNG-3PN--	Case=Gen|Gender=Neut|Number=Plur|Person=3	5	nmod	5:nmod:gen	Translit=nāṭukaḷin|LTranslit=nāṭu
 5	ஆதரவு	ஆதரவு	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	6	nmod	6:nmod:nom	Translit=ātaravu|LTranslit=ātaravu
 6	தேவை	தேவை	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	0	root	0:root	SpaceAfter=No|Translit=tēvai|LTranslit=tēvai

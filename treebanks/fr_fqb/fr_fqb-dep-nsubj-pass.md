@@ -12,7 +12,7 @@ There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="fr_fq
 240 nodes (1%) are attached to their parents as `nsubj:pass`.
 
 159 instances of `nsubj:pass` (66%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.75.
+Average distance between parent and child is 3.60833333333333.
 
 The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (148; 62% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (62; 26% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (21; 9% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (7; 3% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-X.html">X</a></tt> (1; 0% instances).
 

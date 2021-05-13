@@ -25,7 +25,7 @@ The following 11 pairs of parts of speech are connected with `aux`: <tt><a href=
 1	판발카르는	판발카르	PROPN	NNP+CM	Case=Nom|Polite=Form	13	nsubj	_	MSeg=판발카르-는|Translit=.pan.bal.ka.reu.neun|LTranslit=.pan.bal.ka.reu
 2	그들이	그들	PRON	PRP+CM	Case=Nom|Number=Plur|Person=3|Polite=Form	6	nsubj	_	MSeg=그들-이|Translit=.geu.deul.i|LTranslit=.geu.deul
 3	그	_	DET	DT	_	4	det	_	Translit=.geu|LTranslit=_
-4	건물에서	건물	NOUN	NN+CM	Case=Advb|Polite=Form	6	advmod	_	MSeg=건물-에서|Translit=.geon.mul.e.seo|LTranslit=.geon.mul
+4	건물에서	건물	NOUN	NN+CM	Polite=Form	6	advmod	_	MSeg=건물-에서|Translit=.geon.mul.e.seo|LTranslit=.geon.mul
 5	나와야	_	VERB	VV	Form=Aux	6	aux	_	Translit=.na.wa.ya|LTranslit=_
 6	할	_	VERB	VX	Form=Adn	7	dep	_	Translit=.hal|LTranslit=_
 7	것	_	NOUN	NNB	_	8	advmod	_	Translit=.geos|LTranslit=_
@@ -75,7 +75,7 @@ The following 11 pairs of parts of speech are connected with `aux`: <tt><a href=
 6	엉망	_	NOUN	NN	_	9	acl:relcl	_	SpaceAfter=No|Translit=.eong.mang|LTranslit=_
 7	이라는	_	AUX	VC	Form=Adn	6	cop	_	Translit=.i.ra.neun|LTranslit=_
 8	증거	_	NOUN	NN	_	9	compound	_	Translit=.jeung.geo|LTranslit=_
-9	자료로	자료	NOUN	NN+CM	Case=Advb|Polite=Form	13	advmod	_	MSeg=자료-로|Translit=.ja.ryo.ro|LTranslit=.ja.ryo
+9	자료로	자료	NOUN	NN+CM	Polite=Form	13	advmod	_	MSeg=자료-로|Translit=.ja.ryo.ro|LTranslit=.ja.ryo
 10	이	_	DET	DT	_	11	det	_	Translit=.i|LTranslit=_
 11	데이터를	데이터	NOUN	NN+CM	Case=Acc|Polite=Form	13	obj	_	MSeg=데이터-를|Translit=.de.i.teo.reul|LTranslit=.de.i.teo
 12	내밀지	_	VERB	VV	Form=Aux	13	aux	_	Translit=.nae.mil.ji|LTranslit=_

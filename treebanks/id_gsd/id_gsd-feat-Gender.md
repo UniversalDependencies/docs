@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 * `Fem` (1; 3% of non-empty `Gender`): <em>seniwati</em>
 * `Masc` (29; 97% of non-empty `Gender`): <em>ilmuwan, bangsawan, fisikawan, karyawan, karyawannya, rohaniwan, wisatawan, bangsawannya</em>
-* `EMPTY` (26970): <em>tahun, orang, desa, kota, nama, bagian, bahasa, wilayah, negara, tanggal</em>
+* `EMPTY` (26409): <em>tahun, orang, desa, kota, nama, bagian, bahasa, tanggal, wilayah, film</em>
 
 ### `PROPN`
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 * `Fem` (2; 18% of non-empty `Gender`): <em>Indrawati, Selawati</em>
 * `Masc` (9; 82% of non-empty `Gender`): <em>Taiwan, Belawan, Wisatawan</em>
-* `EMPTY` (22779): <em>indonesia, kabupaten, kecamatan, Jawa, provinsi, Amerika, Timur, Barat, jepang, tengah</em>
+* `EMPTY` (22762): <em>indonesia, kabupaten, kecamatan, Jawa, provinsi, Amerika, Timur, Barat, jepang, tengah</em>
 
 ### `ADJ`
 
@@ -47,5 +47,5 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 `ADJ` tokens may have the following values of `Gender`:
 
 * `Masc` (1; 100% of non-empty `Gender`): <em>dermawan</em>
-* `EMPTY` (4527): <em>lain, besar, baru, lainnya, sama, kecil, utama, pertama, tinggi, baik</em>
+* `EMPTY` (4499): <em>lain, besar, baru, lainnya, sama, kecil, utama, pertama, tinggi, baik</em>
 

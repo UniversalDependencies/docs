@@ -50,10 +50,10 @@ The 3rd highest number of forms (5) was observed with the lemma “iko”: <em>a
 
 `VERB` occurs with 9 features: <tt><a href="gun_thomas-feat-VerbForm.html">VerbForm</a></tt> (258; 100% instances), <tt><a href="gun_thomas-feat-Mood.html">Mood</a></tt> (256; 99% instances), <tt><a href="gun_thomas-feat-Subcat.html">Subcat</a></tt> (246; 95% instances), <tt><a href="gun_thomas-feat-Person-subj.html">Person[subj]</a></tt> (203; 79% instances), <tt><a href="gun_thomas-feat-Clusivity-subj.html">Clusivity[subj]</a></tt> (69; 27% instances), <tt><a href="gun_thomas-feat-Polarity.html">Polarity</a></tt> (13; 5% instances), <tt><a href="gun_thomas-feat-Person-obj.html">Person[obj]</a></tt> (8; 3% instances), <tt><a href="gun_thomas-feat-Clusivity-obj.html">Clusivity[obj]</a></tt> (4; 2% instances), <tt><a href="gun_thomas-feat-Person.html">Person</a></tt> (4; 2% instances)
 
-`VERB` occurs with 24 feature-value pairs: `Clusivity[obj]=Ex`, `Clusivity[obj]=In`, `Clusivity[subj]=Ex`, `Clusivity[subj]=In`, `Mood=Des`, `Mood=Imp`, `Mood=Ind`, `Person=1`, `Person=3`, `Person[obj]=1`, `Person[obj]=3`, `Person[subj]=1`, `Person[subj]=2`, `Person[subj]=3`, `Polarity=Neg`, `Subcat=Ditran`, `Subcat=Int`, `Subcat=IntInd`, `Subcat=Tran`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Post`, `VerbForm=Ser`, `VerbForm=Vnoun`
+`VERB` occurs with 24 feature-value pairs: `Clusivity[obj]=Ex`, `Clusivity[obj]=In`, `Clusivity[subj]=Ex`, `Clusivity[subj]=In`, `Mood=Des`, `Mood=Imp`, `Mood=Ind`, `Person=1`, `Person=3`, `Person[obj]=1`, `Person[obj]=3`, `Person[subj]=1`, `Person[subj]=2`, `Person[subj]=3`, `Polarity=Neg`, `Subcat=Ditr`, `Subcat=Indir`, `Subcat=Intr`, `Subcat=Tran`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Post`, `VerbForm=Ser`, `VerbForm=Vnoun`
 
 `VERB` occurs with 35 feature combinations.
-The most frequent feature combination is `Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin` (51 tokens).
+The most frequent feature combination is `Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin` (51 tokens).
 Examples: <em>oiko, opa, ou, oñevanga, oja, opyta, heta, ikatu, oñembo'e, oñemokyri'ĩmba</em>
 
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-13218 nodes (4%) are attached to their parents as `obj`.
+13091 nodes (4%) are attached to their parents as `obj`.
 
-12420 instances of `obj` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.0793614767741.
+12294 instances of `obj` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.03529142158735.
 
-The following 28 pairs of parts of speech are connected with `obj`: <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (9398; 71% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (2409; 18% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (498; 4% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (405; 3% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (229; 2% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (86; 1% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (49; 0% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (35; 0% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (20; 0% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (15; 0% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-X.html">X</a></tt> (13; 0% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (9; 0% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt>-<tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 25 pairs of parts of speech are connected with `obj`: <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (9570; 73% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (2430; 19% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (409; 3% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (379; 3% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (86; 1% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (59; 0% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (36; 0% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (28; 0% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (16; 0% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt> (16; 0% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-X.html">X</a></tt> (13; 0% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (9; 0% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt>-<tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -53,24 +53,24 @@ The following 28 pairs of parts of speech are connected with `obj`: <tt><a href=
 
 
 ~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 9 obj	color:blue
-1	Har	ha	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	6	nmod	_	_
-2	du	du	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
-3	friske	frisk	ADJ	_	Degree=Pos|Number=Plur	4	amod	_	_
-4	urter	urt	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	1	obj	_	SpaceAfter=No
-5	,	$,	PUNCT	_	_	1	punct	_	_
-6	så	så	ADV	_	_	7	advmod	_	_
-7	dryss	drysse	VERB	_	Mood=Imp|VerbForm=Fin	0	root	_	_
-8	på	på	ADP	_	_	7	compound:prt	_	_
-9	litt	litt	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	7	obj	_	_
-10	av	av	ADP	_	_	11	case	_	_
-11	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
-12	og	og	ADV	_	_	7	advmod	_	SpaceAfter=No
-13	.	$.	PUNCT	_	_	7	punct	_	_
+# visual-style 9 10 obj	color:blue
+1	-	$-	PUNCT	_	_	7	punct	_	_
+2	Kor	kor	ADV	_	_	3	advmod	_	_
+3	lang	lang	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	4	amod	_	_
+4	tid	tid	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	7	obj	_	_
+5	vil	vilje	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
+7	taka	take	VERB	_	VerbForm=Inf	0	root	_	_
+8	å	å	PART	_	_	9	mark	_	_
+9	få	få	VERB	_	VerbForm=Inf	7	csubj	_	_
+10	Hellas	Hellas	PROPN	_	_	9	obj	_	_
+11	på	på	ADP	_	_	12	case	_	_
+12	fote	fote	NOUN	_	_	9	obl	_	SpaceAfter=No
+13	?	$?	PUNCT	_	_	7	punct	_	_
 
 ~~~
 

@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Zyrian-IKDP: POS Tags: `PROPN`
 
-There are 21 `PROPN` lemmas (4%), 22 `PROPN` types (3%) and 31 `PROPN` tokens (2%).
-Out of 15 observed tags, the rank of `PROPN` is: 8 in number of lemmas, 8 in number of types and 12 in number of tokens.
+There are 21 `PROPN` lemmas (3%), 22 `PROPN` types (2%) and 31 `PROPN` tokens (1%).
+Out of 16 observed tags, the rank of `PROPN` is: 8 in number of lemmas, 8 in number of types and 12 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Иван, из, Ляпин, Азия, Генриетта, Дань, Елена, Зӧт, Йӧртым, Красный</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.047619 (the average of all parts of speech is 1.252319).
+The form / lemma ratio of `PROPN` is 1.047619 (the average of all parts of speech is 1.333333).
 
 The 1st highest number of forms (2) was observed with the lemma “Ляпин”: <em>Ляпинын, Ляпиныс</em>.
 

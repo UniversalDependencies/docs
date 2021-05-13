@@ -27,7 +27,7 @@ The following 9 pairs of parts of speech are connected with `mark`: <tt><a href=
 3	लावून	लावणे	VERB	_	Aspect=Perf|VerbForm=Conv	10	advcl	_	_
 4	राजा	राजा	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
 5	_	आपण	PRON	_	PronType=Prs	8	nmod:poss	_	_
-6	_	चा	ADP	_	Case=Obl	5	case	_	_
+6	_	चा	ADP	_	Case=Abs	5	case	_	_
 7	गावी	गाव	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	8	obj	_	_
 8	येईल	येणे	VERB	_	Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	ccomp	_	_
 9	असे	असे	SCONJ	_	_	8	mark	_	_
@@ -43,14 +43,14 @@ The following 9 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 7 mark	color:blue
-1	_	केशवचंद्र	PROPN	_	Case=Obl|Gender=Masc|Number=Sing	4	nmod:poss	_	_
+1	_	केशवचंद्र	PROPN	_	Case=Abs|Gender=Masc|Number=Sing	4	nmod:poss	_	_
 2	_	चा	ADP	_	Gender=Fem|Number=Sing	1	case	_	_
 3	_	च	PART	_	_	2	discourse	_	_
 4	जमीन	जमीन	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 5	आहे	असणे	AUX	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	4	punct	_	_
+6	,	,	PUNCT	_	_	10	punct	_	_
 7	असा	असा	SCONJ	_	_	9	mark	_	_
-8	त्याने	तो	PRON	_	Case=Erg|Distance=Dist|Gender=Masc|Number=Sing|Person=3	10	nsubj	_	_
+8	त्याने	तो	PRON	_	Case=Erg|Deixis=Remt|Gender=Masc|Number=Sing|Person=3	10	nsubj	_	_
 9	निर्णय	निर्णय	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_
 10	दिला	देणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	4	ccomp	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_

@@ -47,7 +47,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (392; 100% of non-empty `Abbr`): <em>jne, jt., jt, s.t, sh, n-ö, nt, st, jm, jms</em>
-* `EMPTY` (41651): <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, mitte</em>
+* `EMPTY` (41652): <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, mitte</em>
 
 `Abbr` seems to be **lexical feature** of `ADV`. 100% lemmas (39) occur only with one value of `Abbr`.
 
@@ -73,7 +73,7 @@ The most frequent other feature values with which `SYM` and `Abbr` co-occurred: 
 `SYM` tokens may have the following values of `Abbr`:
 
 * `Yes` (125; 100% of non-empty `Abbr`): <em>=, *, §, 'i, sulev@ekspress.ee, C18:2n-6, C18:3n-3, anne@ekspress.ee, s., °C</em>
-* `EMPTY` (558): <em>%, %-l, %-ni, &amp;, -, %-lt, &, ?, *, %-lise</em>
+* `EMPTY` (558): <em>%, %-l, %-ni, &amp;, -, &, %-lt, ?, *, %-lise</em>
 
 `Abbr` seems to be **lexical feature** of `SYM`. 100% lemmas (83) occur only with one value of `Abbr`.
 
@@ -112,12 +112,12 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 
 9 <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NUM` and `Abbr` co-occurred: <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Letter</tt> (9; 100%), <tt><a href="et_edt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (9; 100%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (9; 100%).
+The most frequent other feature values with which `NUM` and `Abbr` co-occurred: <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (9; 100%), <tt><a href="et_edt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (9; 100%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (9; 100%).
 
 `NUM` tokens may have the following values of `Abbr`:
 
 * `Yes` (9; 100% of non-empty `Abbr`): <em>milj., milj</em>
-* `EMPTY` (9271): <em>kaks, 1, üks, 2, 000, kolm, 10, kahe, 3, ühe</em>
+* `EMPTY` (9269): <em>kaks, 1, üks, 2, 000, kolm, 10, kahe, 3, ühe</em>
 
 ## Relations with Agreement in `Abbr`
 

@@ -11,48 +11,75 @@ This relation is universal.
 40 nodes (0%) are attached to their parents as `fixed`.
 
 40 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.025.
+Average distance between parent and child is 1.
 
-The following 18 pairs of parts of speech are connected with `fixed`: <tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> (6; 15% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (6; 15% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> (5; 13% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (4; 10% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> (2; 5% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-PART.html">PART</a></tt> (2; 5% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> (2; 5% instances), <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> (2; 5% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gumreddit-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="en_gumreddit-pos-X.html">X</a></tt>-<tt><a href="en_gumreddit-pos-X.html">X</a></tt> (1; 3% instances).
+The following 13 pairs of parts of speech are connected with `fixed`: <tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> (7; 18% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> (7; 18% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (5; 13% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (4; 10% instances), <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> (3; 8% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> (3; 8% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> (2; 5% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> (2; 5% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="en_gumreddit-pos-X.html">X</a></tt>-<tt><a href="en_gumreddit-pos-X.html">X</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
-# visual-style 29	bgColor:blue
-# visual-style 29	fgColor:white
-# visual-style 28	bgColor:blue
-# visual-style 28	fgColor:white
-# visual-style 28 29 fixed	color:blue
-1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Discourse=preparation:3->9|Entity=(person-4)|Lem=_|Len=1
-2	_	_	ADV	RB	_	3	advmod	_	Lem=_|Len=4
-3	_	_	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Lem=see|Len=3
-4	_	_	DET	DT	Definite=Ind|PronType=Art	5	det	_	Entity=(abstract-5|Lem=_|Len=1
-5	_	_	NOUN	NN	Number=Sing	3	obj	_	Lem=_|Len=4
-6	_	_	VERB	VBG	VerbForm=Ger	5	acl	_	Discourse=elaboration:4->3|Lem=make|Len=6
-7	_	_	NOUN	NN	Number=Sing	6	obj	_	Entity=(abstract-6|Lem=_|Len=7
-8	_	_	ADP	IN	_	11	case	_	Lem=_|Len=2
-9	_	_	DET	DT	Definite=Ind|PronType=Art	11	det	_	Entity=(abstract-7|Lem=_|Len=1
-10	_	_	ADJ	JJ	Degree=Pos	11	amod	_	Lem=_|Len=7
-11	_	_	NOUN	NN	Number=Sing	7	nmod	_	Lem=_|Len=9
-12	_	_	PRON	WDT	PronType=Rel	13	nsubj	_	Discourse=elaboration:5->3|Lem=_|Len=5
-13	_	_	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	11	acl:relcl	_	Lem=remind|Len=8
-14	_	_	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	13	obj	_	Entity=(person-4)|Lem=I|Len=2
-15	_	_	ADP	IN	_	16	case	_	Lem=_|Len=2
-16	_	_	PRON	DT	Number=Sing|PronType=Dem	13	obl	_	Entity=(event-1)abstract-5)abstract-6)abstract-7)|Lem=_|Len=4|SpaceAfter=No
-17	_	_	PUNCT	,	_	19	punct	_	Lem=_|Len=1
-18	_	_	CCONJ	CC	_	19	cc	_	Discourse=attribution:6->7|Lem=_|Len=3
-19	_	_	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	_	Lem=think|Len=7
-20	_	_	PRON	PRP	Case=Nom|Person=2|PronType=Prs	21	dep	_	Discourse=joint:7->3|Entity=(person-8|Lem=_|Len=3
-21	_	_	NOUN	NNS	Number=Plur	23	nsubj	_	Entity=person-8)|Lem=guy|Len=4
-22	_	_	AUX	MD	VerbForm=Fin	23	aux	_	Lem=_|Len=5
-23	_	_	VERB	VB	VerbForm=Inf	19	ccomp	_	Lem=_|Len=3
-24	_	_	DET	DT	Definite=Ind|PronType=Art	25	det	_	Entity=(abstract-9|Lem=_|Len=1
-25	_	_	NOUN	NN	Number=Sing	23	obj	_	Entity=abstract-9)|Lem=_|Len=6
-26	_	_	SYM	SYM	_	27	cc	_	Lem=_|Len=1
-27	_	_	NOUN	NN	Number=Sing	25	conj	_	Entity=(abstract-10)|Lem=_|Len=8|SpaceAfter=No
-28	_	_	ADP	IN	_	30	case	_	Lem=_|Len=3
-29	_	_	ADP	IN	_	28	fixed	_	Lem=_|Len=2
-30	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	23	obl	_	Entity=(event-1)|Lem=_|Len=2|SpaceAfter=No
-31	_	_	PUNCT	.	_	3	punct	_	Lem=_|Len=1
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 12 fixed	color:blue
+1	_	_	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	Discourse=justify:115->114|Lem=*LOWER*|Len=6
+2	_	_	SCONJ	IN	_	10	mark	10:mark	Lem=_|Len=4
+3	_	_	PROPN	NNP	Number=Sing	10	nsubj	10:nsubj	Entity=(abstract-98-Iron_Chef_America|Lem=_|Len=4
+4	_	_	PROPN	NNP	Number=Sing	3	flat	3:flat	Entity=abstract-98-Iron_Chef_America)|Lem=_|Len=4
+5	_	_	ADV	RB	_	10	advmod	10:advmod	Lem=_|Len=4
+6	_	_	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	10:cop	Lem=be|Len=3
+7	_	_	PART	RB	Polarity=Neg	10	advmod	10:advmod	Lem=not|Len=3
+8	_	_	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	Entity=(abstract-99|Lem=_|Len=1
+9	_	_	ADJ	JJ	Degree=Pos	10	amod	10:amod	Lem=_|Len=5
+10	_	_	NOUN	NN	Number=Sing	1	ccomp	1:ccomp	Entity=abstract-99)|Lem=_|Len=8
+11	_	_	ADP	IN	_	15	case	15:case	Lem=_|Len=2
+12	_	_	ADP	IN	_	11	fixed	11:fixed	Lem=_|Len=2
+13	_	_	DET	DT	Definite=Def|PronType=Art	15	det	15:det	Entity=(substance-100|Lem=_|Len=3
+14	_	_	VERB	VBN	Tense=Past|VerbForm=Part	15	amod	15:amod	Lem=feature|Len=8
+15	_	_	NOUN	NN	Number=Sing	10	nmod	10:nmod:as_to	Entity=substance-100)|Lem=_|Len=10|SpaceAfter=No
+16	_	_	PUNCT	.	_	1	punct	1:punct	Lem=_|Len=1
+
+~~~
+
+
+~~~ conllu
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 18 19 fixed	color:blue
+1	_	_	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Discourse=joint:145->133|Entity=(abstract-136|Lem=*LOWER*|Len=3
+2	_	_	NUM	CD	NumForm=Word|NumType=Card	3	nummod	3:nummod	Lem=*LOWER*|Len=3
+3	_	_	NOUN	NN	Number=Sing	15	nsubj	15:nsubj|30:nsubj:xsubj	Lem=_|Len=10
+4	_	_	ADP	IN	_	6	case	6:case	Lem=_|Len=7
+5	_	_	NOUN	NN	Number=Sing	6	compound	6:compound	Entity=(object-137|Lem=_|Len=5
+6	_	_	NOUN	NN	Number=Sing	3	nmod	3:nmod:between	Entity=object-137)|Lem=_|Len=8
+7	_	_	CCONJ	CC	_	8	cc	8:cc	Lem=_|Len=3
+8	_	_	NOUN	NN	Number=Sing	6	conj	3:nmod:between|6:conj:and	Entity=(substance-98)abstract-136)|Lem=_|Len=4
+9	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	15:cop	Lem=be|Len=2
+10	_	_	SCONJ	IN	_	15	mark	15:mark	Entity=(abstract-136|Lem=_|Len=4
+11	_	_	SYM	SYM	_	15	nsubj	15:nsubj|30:nsubj:xsubj	Entity=(object-138|Lem=_|Len=1
+12	_	_	NUM	CD	NumForm=Digit|NumType=Card	11	nummod	11:nummod	Lem=100000|Len=7
+13	_	_	ADP	IN	_	14	case	14:case	Lem=_|Len=2
+14	_	_	NOUN	NN	Number=Sing	11	nmod	11:nmod:in	Entity=(object-139)object-138)|Lem=_|Len=4
+15	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Lem=weigh|Len=6
+16	_	_	DET	DT	Definite=Ind|PronType=Art	17	det	17:det	Lem=_|Len=1
+17	_	_	NOUN	NN	Number=Sing	18	obl:npmod	18:obl:npmod	Lem=_|Len=3
+18	_	_	ADV	RBR	Degree=Cmp	21	advmod	21:advmod	Lem=_|Len=4
+19	_	_	ADP	IN	_	18	fixed	18:fixed	Lem=_|Len=4
+20	_	_	SYM	SYM	_	15	obj	15:obj	Entity=(substance-140|Lem=_|Len=1
+21	_	_	NUM	CD	NumForm=Digit|NumType=Card	20	nummod	20:nummod	Lem=100000|Len=7
+22	_	_	ADP	IN	_	23	case	23:case	Lem=_|Len=2
+23	_	_	NOUN	NN	Number=Sing	20	nmod	20:nmod:in	Entity=(substance-98)substance-140)|Lem=_|Len=4
+24	_	_	CCONJ	CC	_	28	cc	28:cc	Discourse=joint:146->145|Lem=_|Len=3
+25	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cop	28:cop	Lem=be|Len=2
+26	_	_	DET	DT	Definite=Ind|PronType=Art	27	det	27:det	Lem=_|Len=1
+27	_	_	NOUN	NN	Number=Sing	28	obl:npmod	28:obl:npmod	Lem=_|Len=3
+28	_	_	ADJ	JJR	Degree=Cmp	15	conj	15:conj:and	Lem=easy|Len=6
+29	_	_	PART	TO	_	30	mark	30:mark	Lem=_|Len=2
+30	_	_	VERB	VB	VerbForm=Inf	28	xcomp	28:xcomp	Lem=_|Len=4
+31	_	_	ADV	RB	Degree=Pos	28	advmod	28:advmod	Entity=abstract-136)|Lem=_|Len=3|SpaceAfter=No
+32	_	_	PUNCT	.	_	15	punct	15:punct	Lem=_|Len=1
 
 ~~~
 
@@ -63,52 +90,15 @@ The following 18 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 fixed	color:blue
-1	_	_	ADV	WRB	PronType=Int|Typo=Yes	5	advmod	_	Discourse=elaboration:114->112|Lem=_|Len=3
-2	_	_	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	Lem=_|Len=2|SpaceAfter=No
-3	_	_	PART	RB	Polarity=Neg	5	advmod	_	Lem=not|Len=3
-4	_	_	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	Entity=(person-54)|Lem=_|Len=3
-5	_	_	VERB	VB	VerbForm=Inf	0	root	_	Lem=_|Len=2
-6	_	_	PRON	DT	Number=Sing|PronType=Dem	5	obj	_	Entity=(event-125)|Lem=_|Len=4
-7	_	_	ADV	RB	_	5	advmod	_	Lem=_|Len=2
-8	_	_	ADV	RB	Degree=Pos	7	fixed	_	Lem=_|Len=4|SpaceAfter=No
-9	_	_	PUNCT	.	_	5	punct	_	Lem=_|Len=1
-
-~~~
-
-
-~~~ conllu
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 17 18 fixed	color:blue
-1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Discourse=concession:74->76|Entity=(person-7)|Lem=_|Len=1|SpaceAfter=No
-2	_	_	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	Lem=be|Len=2
-3	_	_	ADJ	JJ	Degree=Pos	0	root	_	Lem=_|Len=4
-4	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Entity=(object-60)|Lem=_|Len=2|SpaceAfter=No
-5	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	Lem=be|Len=2
-6	_	_	ADV	RB	_	7	advmod	_	Lem=_|Len=6
-7	_	_	ADJ	JJ	Degree=Pos	3	ccomp	_	Lem=_|Len=12|SpaceAfter=No
-8	_	_	PUNCT	,	_	10	punct	_	Lem=_|Len=1
-9	_	_	CCONJ	CC	_	10	cc	_	Discourse=preparation:75->76|Lem=_|Len=3
-10	_	_	VERB	VB	Typo=Yes|VerbForm=Inf	3	conj	_	Lem=come|Len=3
-11	_	_	ADP	RP	Typo=Yes	10	compound:prt	_	Lem=_|Len=2|SpaceAfter=No
-12	_	_	PUNCT	:	_	16	punct	_	Lem=_|Len=3
-13	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	Discourse=background:76->77|Entity=(object-60)|Lem=_|Len=2
-14	_	_	AUX	MD	VerbForm=Fin	16	aux	_	Lem=_|Len=2|SpaceAfter=No
-15	_	_	PART	RB	Polarity=Neg	16	advmod	_	Lem=not|Len=3
-16	_	_	VERB	VB	VerbForm=Inf	3	parataxis	_	Lem=_|Len=4
-17	_	_	ADV	RBR	_	20	advmod	_	Entity=(object-62|Lem=_|Len=4
-18	_	_	ADP	IN	_	17	fixed	_	Lem=_|Len=4
-19	_	_	DET	DT	Definite=Ind|PronType=Art	20	det	_	Entity=(object-63|Lem=_|Len=1
-20	_	_	NOUN	NN	Number=Sing	16	obj	_	Lem=_|Len=8
-21	_	_	ADP	IN	_	22	case	_	Lem=_|Len=2
-22	_	_	PRON	WP	PronType=Int	20	nmod	_	Entity=(object-64|Lem=_|Len=4|SpaceAfter=No
-23	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	acl:relcl	_	Lem=be|Len=2
-24	_	_	ADP	IN	_	26	case	_	Lem=_|Len=2
-25	_	_	DET	DT	Definite=Def|PronType=Art	26	det	_	Entity=(place-65|Lem=_|Len=3
-26	_	_	NOUN	NN	Number=Sing	23	obl	_	Entity=object-62)object-63)object-64)place-65)|Lem=_|Len=11|SpaceAfter=No
-27	_	_	PUNCT	.	_	3	punct	_	Lem=_|Len=1
+1	_	_	ADV	WRB	PronType=Int|Typo=Yes	5	advmod	5:advmod	Discourse=elaboration:114->112|Lem=_|Len=3
+2	_	_	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	5:aux	Lem=_|Len=2
+3	_	_	PART	RB	Polarity=Neg	5	advmod	5:advmod	Lem=not|Len=3
+4	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj	Entity=(person-54)|Lem=_|Len=3
+5	_	_	VERB	VB	VerbForm=Inf	0	root	0:root	Lem=_|Len=2
+6	_	_	PRON	DT	Number=Sing|PronType=Dem	5	obj	5:obj	Entity=(event-124)|Lem=_|Len=4
+7	_	_	ADV	RB	_	5	advmod	5:advmod	Lem=_|Len=2
+8	_	_	ADV	RB	Degree=Pos	7	fixed	7:fixed	Lem=_|Len=4|SpaceAfter=No
+9	_	_	PUNCT	.	_	5	punct	5:punct	Lem=_|Len=1
 
 ~~~
 

@@ -45,7 +45,7 @@ The following 19 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 3	fgColor:white
 # visual-style 3 6 acl	color:blue
 1	Չկար	կամ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Mid	0	root	_	Translit=Čkar|LTranslit=kam
-2	այն	այն	DET	_	Distance=Dist|PronType=Dem	3	det	_	Translit=ayn|LTranslit=ayn
+2	այն	այն	DET	_	Deixis=Remt|PronType=Dem	3	det	_	Translit=ayn|LTranslit=ayn
 3	մեկը	մեկը	PRON	_	Case=Nom|PronType=Ind	1	nsubj	_	Translit=mekë|LTranslit=mekë|SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	Translit=,|LTranslit=,
 5	որ	որ	SCONJ	_	_	6	mark	_	Translit=or|LTranslit=or

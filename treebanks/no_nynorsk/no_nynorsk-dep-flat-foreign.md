@@ -74,8 +74,8 @@ The following 6 pairs of parts of speech are connected with `flat:foreign`: <tt>
 25	som	som	PRON	_	PronType=Rel	28	nsubj:pass	_	_
 26	nett	nett	ADV	_	_	28	compound	_	_
 27	vart	verte	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	28	aux:pass	_	_
-28	send	sende	ADJ	_	Definite=Ind|Number=Sing|VerbForm=Part	24	amod	_	_
-29	ut	ut	ADP	_	_	28	obl	_	SpaceAfter=No
+28	send	sende	VERB	_	Definite=Ind|Number=Sing|VerbForm=Part	24	acl:relcl	_	_
+29	ut	ut	ADP	_	_	28	compound:prt	_	SpaceAfter=No
 30	.	$.	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -114,8 +114,8 @@ The following 6 pairs of parts of speech are connected with `flat:foreign`: <tt>
 25	som	som	PRON	_	PronType=Rel	28	nsubj:pass	_	_
 26	nett	nett	ADV	_	_	28	compound	_	_
 27	vart	verte	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	28	aux:pass	_	_
-28	send	sende	ADJ	_	Definite=Ind|Number=Sing|VerbForm=Part	24	amod	_	_
-29	ut	ut	ADP	_	_	28	obl	_	SpaceAfter=No
+28	send	sende	VERB	_	Definite=Ind|Number=Sing|VerbForm=Part	24	acl:relcl	_	_
+29	ut	ut	ADP	_	_	28	compound:prt	_	SpaceAfter=No
 30	.	$.	PUNCT	_	_	2	punct	_	_
 
 ~~~

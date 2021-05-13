@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-Sequoia: POS Tags: `PROPN`
 
 There are 1111 `PROPN` lemmas (16%), 1118 `PROPN` types (11%) and 3328 `PROPN` tokens (5%).
-Out of 17 observed tags, the rank of `PROPN` is: 2 in number of lemmas, 4 in number of types and 7 in number of tokens.
+Out of 16 observed tags, the rank of `PROPN` is: 2 in number of lemmas, 4 in number of types and 7 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Aclasta, Angiox, Paris, Jacques, France, Union, Chirac, RPR, Taïwan, Michel</em>
 
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>RPR</em> (<tt><a href="fr_sequoia-pos
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.006301 (the average of all parts of speech is 1.405182).
+The form / lemma ratio of `PROPN` is 1.006301 (the average of all parts of speech is 1.405809).
 
 The 1st highest number of forms (2) was observed with the lemma “Aclasta”: <em>ACLASTA, Aclasta</em>.
 

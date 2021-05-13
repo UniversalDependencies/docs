@@ -28,7 +28,7 @@ The following 10 pairs of parts of speech are connected with `ccomp:pmod`: <tt><
 4	-adîncă	adânc	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	|SpaceAfter=No
 5	,	,	PUNCT	COMMA	_	11	punct	_	_
 6	Pă	pe	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
-7	cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	9	nmod:pmod	_	|SpaceAfter=No
+7	cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	9	obl:pmod	_	|SpaceAfter=No
 8	-l	el	PRON	Pp3msa--------w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak	9	obj	_	_
 9	prinde	prinde	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp:pmod	_	|SpaceAfter=No
 10	-l	el	PRON	Pp3msa--------w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak	11	obj	_	_
@@ -69,7 +69,7 @@ The following 10 pairs of parts of speech are connected with `ccomp:pmod`: <tt><
 # visual-style 8 11 ccomp:pmod	color:blue
 1	Domnul	domn	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	_
 2	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
-3	boieri	boier	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	11	nmod:pmod	_	|SpaceAfter=No
+3	boieri	boier	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	11	obl:pmod	_	|SpaceAfter=No
 4	,	,	PUNCT	COMMA	_	3	punct	_	_
 5	să	să	PART	Qs	PartType=Sub	8	mark	_	_
 6	nu	nu	ADV	Qz	Polarity=Neg	8	advmod	_	_

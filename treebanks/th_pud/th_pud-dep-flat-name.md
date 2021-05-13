@@ -69,7 +69,7 @@ The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a 
 4	ฤดู	_	NOUN	NN	_	1	flat:name	_	Proper=True|SpaceAfter=No
 5	หนาว	_	ADJ	JJ	_	4	amod	_	Proper=True
 6	2019	_	NUM	CD	_	1	obl:tmod	_	Proper=True
-7	จะ	_	VERB	MD	_	8	aux	_	SpaceAfter=No
+7	จะ	_	AUX	MD	_	8	aux	_	SpaceAfter=No
 8	จัด	_	VERB	VV	_	0	root	_	SpaceAfter=No
 9	ขึ้น	_	PART	RP	_	8	compound:prt	_	SpaceAfter=No
 10	ที่	_	ADP	IN	_	11	case	_	SpaceAfter=No

@@ -8,12 +8,30 @@ udver: '2'
 
 This relation is universal.
 
-4 nodes (0%) are attached to their parents as `discourse`.
+10 nodes (0%) are attached to their parents as `discourse`.
 
-4 instances of `discourse` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.25.
+9 instances of `discourse` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.4.
 
-The following 3 pairs of parts of speech are connected with `discourse`: <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> (2; 50% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> (1; 25% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PART.html">PART</a></tt> (1; 25% instances).
+The following 6 pairs of parts of speech are connected with `discourse`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> (4; 40% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> (2; 20% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-PART.html">PART</a></tt> (1; 10% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> (1; 10% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> (1; 10% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PART.html">PART</a></tt> (1; 10% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 discourse	color:blue
+1	Вов	вов	INTJ	Interj	_	2	discourse	_	_
+2	раман	рамамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres	0	root	_	GTtags=Ind,Prs,ScSg1
+3	хромовай	хромовай	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	4	amod	_	GTtags=Sg,Nom,Indef
+4	кямот	кяме	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	2	obj	_	GTtags=Pl,Nom,Indef
+5	—	—	PUNCT	PUNCT	_	7	punct	_	_
+6	эста	эста	ADV	Adv	AdvType=Tim	7	advmod:tmod	_	GTtags=Sem/Time
+7	няйсак	няемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Tense=Pres	2	parataxis	_	GTtags=Ind,Prs,ScSg2,OcSg3|SpaceAfter=No
+8	!	!	PUNCT	PUNCT	_	2	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -39,40 +57,19 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 discourse	color:blue
-1	Вай	вай	INTJ	Interj	_	3	discourse	_	_
-2	конашкава	конашкава	ADV	Adv	_	3	advmod:deg	_	_
-3	ужяль	ужяль	ADV	Adv	_	0	root	_	_
-4	вазнясь	вазня	NOUN	N	Case=Nom|Definite=Def|Number=Sing	3	nsubj:cop	_	GTtags=Sg,Nom,Def|SpaceAfter=No
-5	!	!	PUNCT	CLB	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 3 discourse	color:blue
-1	И	и	CCONJ	CC	_	11	cc	_	SpaceAfter=No
-2	,	,	PUNCT	CLB	_	3	punct	_	_
-3	улема	улема	PART	Pcle	_	11	discourse	_	GTtags=Epist|SpaceAfter=No
-4	,	,	PUNCT	CLB	_	3	punct	_	_
-5	тянкса	тянкса	ADV	Adv	_	11	advmod	_	_
-6	редакциятнень	редакция	NOUN	N	Case=Gen|Definite=Def|Number=Plur	8	nmod	_	GTtags=Pl,Gen,Def
-7	рахсемань	рахсема	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	8	nmod	_	GTtags=SP,Gen,Indef
-8	отделснонды	отдел	NOUN	N	Case=Dat|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=3	11	obl:agent	_	GTtags=SP,Dat,PxPl3
-9	работама	работамс	VERB	V	Case=Loc|VerbForm=Inf	11	xcomp	_	GTtags=Inf,Loc
-10	сашендови	сашендовомс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	11	aux	_	GTtags=IV,Ind,Prs,ScSg3
-11	сявондемс	сявондемс	VERB	V	Valency=2|VerbForm=Inf	0	root	_	GTtags=TV,Inf
-12	ётай-потай	ётай-потай	VERB	V	Tense=Pres|VerbForm=Part	13	advcl	_	GTtags=PrsPrc
-13	ломатть	ломань	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	11	obj	_	GTtags=Pl,Nom,Indef|SpaceAfter=No
-14	.	.	PUNCT	CLB	_	11	punct	_	_
+# visual-style 1 2 discourse	color:blue
+1	Немойкс	немой	ADJ	A	Case=Tra|Definite=Ind|Number=Plur,Sing	4	obl	_	GTtags=SP,Tra,Indef
+2	вдь	вдь	PART	Pcle	_	1	discourse	_	_
+3	аф	аф	AUX	V	Polarity=Neg|VerbType=Aux	4	aux:neg	_	GTtags=Aux,Neg
+4	молят	молемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres	0	root	_	GTtags=Ind,Prs,ScSg2
+5	авать	ава	NOUN	N	Case=Gen|Definite=Def|Number=Sing	4	obl:lmod	_	GTtags=Sg,Gen,Def
+6	ваксса	ваксса	ADP	Adp	Case=Ine	5	case	_	GTtags=Ine
+7	ряцок	ряцок	ADV	Adv	_	4	advmod	_	SpaceAfter=No
+8	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 

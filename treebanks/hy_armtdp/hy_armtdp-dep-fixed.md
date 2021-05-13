@@ -23,7 +23,7 @@ The following 43 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 2	fgColor:white
 # visual-style 2 3 fixed	color:blue
 1	Ու	ու	CCONJ	_	_	5	cc	_	Translit=OW|LTranslit=ow
-2	էդպես	այդպես	ADV	_	Distance=Med|PronType=Dem|Style=Coll	5	advmod	_	Translit=ēdpes|LTranslit=aydpes
+2	էդպես	այդպես	ADV	_	Deixis=Med|PronType=Dem|Style=Coll	5	advmod	_	Translit=ēdpes|LTranslit=aydpes
 3	էլ	էլ	PART	_	_	2	fixed	_	Translit=ēl|LTranslit=ēl
 4	չեմ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	5	aux	_	Translit=čem|LTranslit=em
 5	գտել	գտնել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=gtel|LTranslit=gtnel|SpaceAfter=No

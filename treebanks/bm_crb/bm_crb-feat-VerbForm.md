@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Part` (37; 100% of non-empty `VerbForm`): <em>nalen, sigilen, kotò, selen, jèlen, bannen, bintò, bòlen, bònnen, dalen</em>
-* `EMPTY` (2474): <em>ko, tagara, taga, kè, bè, na, ye, fò, di, nana</em>
+* `EMPTY` (2461): <em>ko, tagara, taga, kè, bè, na, ye, fò, di, nana</em>
 
 `VerbForm` seems to be **lexical feature** of `VERB`. 100% lemmas (27) occur only with one value of `VerbForm`.
 
@@ -34,13 +34,11 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 `NOUN` tokens may have the following values of `VerbForm`:
 
 * `Vnoun` (20; 100% of non-empty `VerbForm`): <em>kanliba, falennò, tobili, nyininkali, FURULI, foli, furakèli, nyinini</em>
-* `EMPTY` (2125): <em>ba, den, tuma, so, dennin, dugu, muso, tògò, fa, yòrò</em>
+* `EMPTY` (2121): <em>ba, den, tuma, so, dennin, dugu, muso, tògò, fa, yòrò</em>
 
 ### `ADJ`
 
 3 <tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
-
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="bm_crb-feat-AdjType.html">AdjType</a></tt><tt>=EMPTY</tt> (3; 100%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 

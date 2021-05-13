@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Polish-PDB: Features: `PunctType`
 
 This feature is language-specific.
-It occurs with 12 different values: `Brck`, `Colo`, `Comm`, `Dash`, `Elip`, `Excl`, `Hyph`, `Peri`, `Qest`, `Quot`, `Semi`, `Slsh`.
+It occurs with 11 different values: `Brck`, `Colo`, `Comm`, `Dash`, `Elip`, `Excl`, `Peri`, `Qest`, `Quot`, `Semi`, `Slsh`.
 
 57891 tokens (17%) have a non-empty value of `PunctType`.
 30 types (0%) occur at least once with a non-empty value of `PunctType`.
@@ -23,10 +23,9 @@ The feature is used with 1 part-of-speech tags: <tt><a href="pl_pdb-pos-PUNCT.ht
 * `Brck` (1630; 3% of non-empty `PunctType`): <em>), (, [, ]</em>
 * `Colo` (1174; 2% of non-empty `PunctType`): <em>:</em>
 * `Comm` (21532; 37% of non-empty `PunctType`): <em>,, ,,</em>
-* `Dash` (578; 1% of non-empty `PunctType`): <em>–, —, --</em>
+* `Dash` (5972; 10% of non-empty `PunctType`): <em>-, –, —, --</em>
 * `Elip` (19; 0% of non-empty `PunctType`): <em>…</em>
 * `Excl` (430; 1% of non-empty `PunctType`): <em>!</em>
-* `Hyph` (5394; 9% of non-empty `PunctType`): <em>-</em>
 * `Peri` (22887; 40% of non-empty `PunctType`): <em>.</em>
 * `Qest` (1205; 2% of non-empty `PunctType`): <em>?</em>
 * `Quot` (2832; 5% of non-empty `PunctType`): <em>", ”, „, '', ', “, », «, ’, ’’</em>

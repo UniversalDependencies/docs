@@ -118,7 +118,7 @@ The following 7 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 29	para	para	ADP	IN	_	31	case	_	_
 30	Pequim	Pequim	PROPN	NNP	Gender=Fem|Number=Sing	31	nsubj	_	_
 31	mostrar	_	VERB	VB	_	28	xcomp	_	_
-32	as	o	DET	PDT	Gender=Fem|Number=Plur	34	det:predet	_	_
+32	as	o	DET	PDT	Gender=Fem|Number=Plur	34	det	_	_
 33	suas	_	PRON	DTP$	Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|PronType=Prs	34	det	_	_
 34	ambições	ambição	NOUN	NN	Gender=Fem|Number=Plur	31	obj	_	_
 35	tanto	_	ADP	IN	_	38	cc:preconj	_	ToDo=ex-adp-child

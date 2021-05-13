@@ -28,7 +28,7 @@ The following 3 pairs of parts of speech are connected with `fixed`: <tt><a href
 4	_	_	NOUN	n	_	7	obl	_	_
 5	_	_	PRON	pro	Person=3|PronType=Prs	7	nsubj	_	_
 6	_	_	ADJ	mod	_	5	amod	_	_
-7	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	_
+7	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	0	root	_	_
 8	_	_	PART	illocprt	_	7	dep:mod	_	_
 9	_	_	PRON	pro	Number=Sing|Person=1|PronType=Prs	10	obl	_	_
 10	_	_	VERB	vt	Mood=Ind|Person[subj]=3|Subcat=Tran|VerbForm=Fin	7	advcl	_	_
@@ -47,16 +47,16 @@ The following 3 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 4 5 fixed	color:blue
 1	_	_	NOUN	n	_	3	obl	_	_
 2	_	_	ADP	post	_	1	case	_	_
-3	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	6	advcl	_	_
+3	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	6	advcl	_	_
 4	_	_	PART	negprt	_	3	dep:mod	_	_
 5	_	_	SCONJ	subordconn	_	4	fixed	_	_
-6	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	12	advcl	_	_
+6	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	12	advcl	_	_
 7	_	_	VERB	vs	Mood=Ind|Person=3|VerbForm=Ser	6	compound:svc	_	_
 8	_	_	SCONJ	subordconn	_	6	mark	_	_
 9	_	_	PART	illocprt	_	6	dep:mod	_	_
 10	oakã	akã	NOUN	n	_	12	obl	_	3-head
 11	_	_	ADP	post	_	10	case	_	_
-12	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	_
+12	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	0	root	_	_
 13	_	_	PUNCT	punct	_	12	punct	_	_
 
 ~~~

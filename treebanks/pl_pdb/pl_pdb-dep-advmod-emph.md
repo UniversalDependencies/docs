@@ -39,7 +39,7 @@ The following 15 pairs of parts of speech are connected with `advmod:emph`: <tt>
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 advmod:emph	color:blue
-1	-	-	PUNCT	interp	PunctType=Hyph	5	punct	5:punct	_
+1	-	-	PUNCT	interp	PunctType=Dash	5	punct	5:punct	_
 2	Przecież	przecież	PART	part	_	5	advmod:emph	5:advmod:emph	_
 3	to	to	AUX	pred	Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Quasi	5	cop	5:cop	_
 4	jest	być	AUX	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	5:aux	_

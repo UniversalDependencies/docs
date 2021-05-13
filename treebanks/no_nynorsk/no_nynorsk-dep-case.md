@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-33696 nodes (11%) are attached to their parents as `case`.
+33551 nodes (11%) are attached to their parents as `case`.
 
-33515 instances of `case` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.56882122507123.
+33370 instances of `case` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.5544395099997.
 
-The following 11 pairs of parts of speech are connected with `case`: <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (24649; 73% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (4929; 15% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (1591; 5% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (941; 3% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (799; 2% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (323; 1% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (218; 1% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (127; 0% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (98; 0% instances), <tt><a href="no_nynorsk-pos-X.html">X</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (19; 0% instances), <tt><a href="no_nynorsk-pos-INTJ.html">INTJ</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (2; 0% instances).
+The following 11 pairs of parts of speech are connected with `case`: <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (24649; 73% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (4929; 15% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (1591; 5% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (799; 2% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (786; 2% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (322; 1% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (229; 1% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (127; 0% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (98; 0% instances), <tt><a href="no_nynorsk-pos-X.html">X</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (19; 0% instances), <tt><a href="no_nynorsk-pos-INTJ.html">INTJ</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

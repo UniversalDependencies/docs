@@ -50,7 +50,7 @@ The following 9 pairs of parts of speech are connected with `list`: <tt><a href=
 3	Statki	statek	NOUN	subst:pl:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	_
 4	przewożące	przewozić	ADJ	pact:pl:nom:m3:imperf:aff	Animacy=Inan|Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Act	3	acl	3:acl	_
 5	więcej	więcej	DET	num:pl:acc:m1:rec	Animacy=Hum|Case=Acc|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	4	obj	4:obj	_
-6	niż	niż	SCONJ	comp	ConjType=Cmpr	8	mark	8:mark	_
+6	niż	niż	SCONJ	comp	ConjType=Comp	8	mark	8:mark	_
 7	36	36	NUM	num:pl:acc:m1:rec	Animacy=Hum|Case=Acc|Gender=Masc|Number=Plur|NumForm=Digit|NumType=Card	8	nummod:gov	8:nummod:gov	_
 8	pasażerów	pasażer	NOUN	subst:pl:gen:m1	Animacy=Hum|Case=Gen|Gender=Masc|Number=Plur	5	obl:cmpr	5:obl:cmpr	_
 

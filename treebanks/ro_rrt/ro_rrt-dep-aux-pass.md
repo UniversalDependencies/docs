@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ro_rrt-dep-aux.html">aux</a></tt>.
 
-1599 nodes (1%) are attached to their parents as `aux:pass`.
+1602 nodes (1%) are attached to their parents as `aux:pass`.
 
-1596 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.11069418386492.
+1599 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.10986267166042.
 
-The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (1556; 97% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (37; 2% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (6; 0% instances).
+The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (1571; 98% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (26; 2% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (5; 0% instances).
 
 
 ~~~ conllu
@@ -71,10 +71,10 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 3	,	,	PUNCT	COMMA	_	2	punct	_	_
 4	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
 5	talent	talent	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
-6	aparte	aparte	ADV	Rgp	Degree=Pos	5	advmod	_	_
+6	aparte	aparte	ADJ	Afp	Degree=Pos	5	amod	_	_
 7	a	avea	AUX	Va--3s	Number=Sing|Person=3	5	aux	_	_
 8	fost	fi	AUX	Vap--sm	Gender=Masc|Number=Sing|VerbForm=Part	5	aux:pass	_	_
-9	Mihail	Mihail	PROPN	Np	_	5	nsubj	_	_
+9	Mihail	Mihail	PROPN	Np	_	5	nsubj:pass	_	_
 10	Sebastian	Sebastian	PROPN	Np	_	9	flat	_	SpaceAfter=No
 11	,	,	PUNCT	COMMA	_	18	punct	_	_
 12	iar	iar	ADV	Rc	_	18	cc	_	_

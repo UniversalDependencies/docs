@@ -81,7 +81,7 @@ The following 9 pairs of parts of speech are connected with `obj`: <tt><a href="
 3	ⲕⲧⲉ	ⲕⲧⲟ	VERB	V	VerbForm=Fin	0	root	_	_
 4	ⲓⲁⲧ	ⲉⲓⲁ	NOUN	N	_	3	obj	_	_
 5	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	4	det	_	_
-6	ⲇⲉ	ⲇⲉ	PART	PTC	_	3	advmod	_	_
+6	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	3	advmod	_	OrigLang=grc
 7	ⲉ	ⲉ	PART	PREP	_	8	mark	_	_
 8	ⲛⲁⲩ	ⲛⲁⲩ	VERB	V	VerbForm=Inf	3	xcomp	_	_
 9	ⲉ	ⲉ	ADP	PREP	_	10	case	_	_

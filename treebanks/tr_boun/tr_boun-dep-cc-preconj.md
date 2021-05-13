@@ -36,10 +36,10 @@ The following 10 pairs of parts of speech are connected with `cc:preconj`: <tt><
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 cc:preconj	color:blue
-1	Ne	ne	CCONJ	Conj	Case=Nom|Number=Sing|Person=3	3	cc:preconj	_	_
+1	Ne	ne	CCONJ	Conj	_	3	cc:preconj	_	_
 2	yol	yol	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
 3	bitiyor	bit	VERB	Verb	Aspect=Prog|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
-4	ne	ne	CCONJ	Conj	Case=Nom|Number=Sing|Person=3	5	cc:preconj	_	_
+4	ne	ne	CCONJ	Conj	_	5	cc:preconj	_	_
 5	yeşil	yeşil	ADJ	Adj	_	3	orphan	_	_
 6	ne	ne	CCONJ	Conj	_	8	cc:preconj	_	_
 7	de	de	CCONJ	Conj	_	8	cc:preconj	_	_
@@ -55,10 +55,10 @@ The following 10 pairs of parts of speech are connected with `cc:preconj`: <tt><
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 cc:preconj	color:blue
-1	Ne	ne	CCONJ	Conj	Case=Nom|Number=Sing|Person=3	3	cc:preconj	_	_
+1	Ne	ne	CCONJ	Conj	_	3	cc:preconj	_	_
 2	yol	yol	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	nsubj	_	_
 3	bitiyor	bit	VERB	Verb	Aspect=Prog|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
-4	ne	ne	CCONJ	Conj	Case=Nom|Number=Sing|Person=3	5	cc:preconj	_	_
+4	ne	ne	CCONJ	Conj	_	5	cc:preconj	_	_
 5	yeşil	yeşil	ADJ	Adj	_	3	orphan	_	_
 6	ne	ne	CCONJ	Conj	_	8	cc:preconj	_	_
 7	de	de	CCONJ	Conj	_	8	cc:preconj	_	_

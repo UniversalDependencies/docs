@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 6 different values: `Abl`, `Acc`, `Com`, `Dat`, `Gen`, `Nom`.
 
-4059 tokens (40%) have a non-empty value of `Case`.
-2335 types (57%) occur at least once with a non-empty value of `Case`.
-1352 lemmas (55%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (2950; 29% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (701; 7% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> (260; 3% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (122; 1% instances), <tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (4; 0% instances).
+4058 tokens (40%) have a non-empty value of `Case`.
+2334 types (57%) occur at least once with a non-empty value of `Case`.
+1351 lemmas (55%) occur at least once with a non-empty value of `Case`.
+The feature is used with 8 part-of-speech tags: <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (2950; 29% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (700; 7% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> (260; 3% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (121; 1% instances), <tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt> (9; 0% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (4; 0% instances).
 
 ### `NOUN`
 
@@ -25,10 +25,10 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Abl` (67; 2% of non-empty `Case`): <em>нютагһаа, наһанһаа, онһоо, утаһаар, багаһаа, зүрхэнһөө, сагһаа, хотоһоо, үндэһэнһөө, һууринһаа</em>
 * `Acc` (130; 4% of non-empty `Case`): <em>бэеэ, зааниие, хүниие, зониие, поэзии, хүбүүе, үхибүүниинь, үхибүүдые, Сэхыень, арадуудые</em>
 * `Com` (90; 3% of non-empty `Case`): <em>хэрэгтэй, наһатай, бэлигтэй, соёлтой, шадабаритай, артистнартай, нэрэтэй, түүхэтэй, удхатай, үхибүүтэй</em>
-* `Dat` (394; 13% of non-empty `Case`): <em>үедэ, ондо, нютагта, хотодо, һургуулида, туршада, хүндэ, сагта, жэлдэ, гэртээ</em>
+* `Dat` (393; 13% of non-empty `Case`): <em>үедэ, ондо, нютагта, хотодо, һургуулида, туршада, хүндэ, сагта, жэлдэ, гэртээ</em>
 * `Gen` (529; 18% of non-empty `Case`): <em>аймагай, соёлой, жэлэй, театрай, хэлэнэй, хүнэй, һургуулиин, зоной, нютагай, буряадай</em>
-* `Nom` (1740; 59% of non-empty `Case`): <em>хүн, зон, гэр, хэлэ, ажал, хэлэн, Буряад, бэлиг, нютаг, соёл</em>
-* `EMPTY` (154): <em>угаараа, хэлээр, аймагаар, багшаар, барилдаагаар, дүнгүүдээр, замаар, машинаар, наһаараа, поездруу</em>
+* `Nom` (1741; 59% of non-empty `Case`): <em>хүн, зон, гэр, хэлэ, ажал, хэлэн, Буряад, бэлиг, нютаг, соёл</em>
+* `EMPTY` (162): <em>түмэр, угаараа, хэлээр, аймагаар, багшаар, барилдаагаар, дүнгүүдээр, замаар, машинаар, наһаараа</em>
 
 <table>
   <tr><th>Paradigm <i>нютаг</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Com</tt></th><th><tt>Abl</tt></th></tr>
@@ -40,7 +40,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PROPN`
 
-701 <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Case`.
+700 <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Case`.
 
 `PROPN` tokens may have the following values of `Case`:
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Com` (7; 1% of non-empty `Case`): <em>Борисовтай, Далбаевтай, Ивановтой, Митрошкинатай, Протасоватай, Ханхареевнатай, Цыреноватай</em>
 * `Dat` (25; 4% of non-empty `Case`): <em>Улаан-Үдэдэ, Зандинда, Абида, Баянгазада, Голливудта, Москвадашье, Париста, Суулгада, Теравада, Туркада</em>
 * `Gen` (138; 20% of non-empty `Case`): <em>Россиин, Агын, СССР-эй, Усть-Ордын, Азиин, Ивалгын, Монголой, Сибириин, Суулгын, Түнхэнэй</em>
-* `Nom` (517; 74% of non-empty `Case`): <em>Байгал, Энэдхэг, Хойто, Булад, Улаан-Үдэ, Баянгаза, Цыпелма, Баяр, Зүдхэлиин, Зүүн</em>
+* `Nom` (516; 74% of non-empty `Case`): <em>Байгал, Энэдхэг, Хойто, Булад, Улаан-Үдэ, Баянгаза, Цыпелма, Баяр, Зүдхэлиин, Зүүн</em>
 * `EMPTY` (9): <em>Мундаргын, Абагал, Гүрэнэй, Кондратьев, Кондратьевай, Хатареев, Хүсөөтэдэ, Шишкинские</em>
 
 <table>
@@ -80,18 +80,18 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `VERB`
 
-122 <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> tokens (8% of all `VERB` tokens) have a non-empty value of `Case`.
+121 <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> tokens (8% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (122; 100%), <tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (122; 100%), <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (120; 98%), <tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (119; 98%), <tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (117; 96%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (121; 100%), <tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (121; 100%), <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (119; 98%), <tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (118; 98%), <tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (116; 96%).
 
 `VERB` tokens may have the following values of `Case`:
 
 * `Abl` (2; 2% of non-empty `Case`): <em>барихаһаа, табихаһаа</em>
-* `Acc` (20; 16% of non-empty `Case`): <em>байхаяа, бэдэрхэеэ, бэелүүлхэеэ, бүтээхэеэ, долгилхые, орилхыень, орохыень, сахихаяа, туһалхые, тэжээхэеэ</em>
-* `Dat` (64; 52% of non-empty `Case`): <em>гэхэдэ, байхада, байхадаа, ошоходоо, хэлэхэдэ, ерэхэдэнь, ерэхэдээ, харахада, хүдэлхэдөө, эхилхэдэнь</em>
+* `Acc` (20; 17% of non-empty `Case`): <em>байхаяа, бэдэрхэеэ, бэелүүлхэеэ, бүтээхэеэ, долгилхые, орилхыень, орохыень, сахихаяа, туһалхые, тэжээхэеэ</em>
+* `Dat` (63; 52% of non-empty `Case`): <em>гэхэдэ, байхада, ошоходоо, хэлэхэдэ, байхадаа, ерэхэдэнь, ерэхэдээ, харахада, хүдэлхэдөө, эхилхэдэнь</em>
 * `Gen` (7; 6% of non-empty `Case`): <em>болохынь, бэелүүлхын, түрэһэнэй, шэлэхын, эзэлхын, ябахын, һурахын</em>
 * `Nom` (29; 24% of non-empty `Case`): <em>ерэхэб, болохоб, ошохоб, һанагшаб, Ошохоо, ажаллагшад, байхаш, байһанаа, барихаш, болохош</em>
-* `EMPTY` (1475): <em>гэжэ, байгаа, болоно, байна, бии, болоо, гээшэ, байһан, ажаһуудаг, болонхой</em>
+* `EMPTY` (1376): <em>гэжэ, бии, байгаа, гээшэ, ажаһуудаг, эхилээ, байна, ерээ, хэжэ, ябаа</em>
 
 <table>
   <tr><th>Paradigm <i>һура</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
@@ -126,20 +126,20 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 * `Com` (4; 50% of non-empty `Case`): <em>муутай, хурсатай, хэрэгтэй, шогтой</em>
 * `Gen` (1; 13% of non-empty `Case`): <em>Горского</em>
 * `Nom` (1; 13% of non-empty `Case`): <em>һайнууд</em>
-* `EMPTY` (814): <em>буряад, түрэл, уран, олон, һайн, бага, үндэр, бэрхэ, агууехэ, гоё</em>
+* `EMPTY` (806): <em>буряад, түрэл, уран, олон, һайн, бага, үндэр, бэрхэ, агууехэ, гоё</em>
 
 ### `AUX`
 
-5 <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> tokens (3% of all `AUX` tokens) have a non-empty value of `Case`.
+6 <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="bxr_bdt-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (5; 100%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="bxr_bdt-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (6; 100%).
 
 `AUX` tokens may have the following values of `Case`:
 
-* `Abl` (1; 20% of non-empty `Case`): <em>байхаһаа</em>
-* `Dat` (3; 60% of non-empty `Case`): <em>байхада, байхадаа</em>
-* `Nom` (1; 20% of non-empty `Case`): <em>байхал</em>
-* `EMPTY` (191): <em>юм, байна, байгаа, байһан, байгааб, гээшэб, бай, бэлэй, байба, байдаг</em>
+* `Abl` (1; 17% of non-empty `Case`): <em>байхаһаа</em>
+* `Dat` (4; 67% of non-empty `Case`): <em>байхада, байхадаа</em>
+* `Nom` (1; 17% of non-empty `Case`): <em>байхал</em>
+* `EMPTY` (290): <em>юм, байгаа, байна, байһан, болоно, бай, болоо, байгааб, бэлэй, гээшэб</em>
 
 <table>
   <tr><th>Paradigm <i>бай</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th><th><tt>Abl</tt></th></tr>
@@ -154,19 +154,19 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 `ADV` tokens may have the following values of `Case`:
 
 * `Nom` (4; 100% of non-empty `Case`): <em>тэндэхи, хаанахи</em>
-* `EMPTY` (791): <em>ехэ, мүнөө, гэһэн, бэшэ, һайхан, эндэ, эгээл, хадаа, үшөө, бүхы</em>
+* `EMPTY` (770): <em>ехэ, мүнөө, гэһэн, бэшэ, һайхан, эндэ, эгээл, хадаа, үшөө, ганса</em>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>PROPN --[<tt><a href="bxr_bdt-dep-flat.html">flat</a></tt>]--> PROPN</tt> (145; 78%),
-<tt>NOUN --[<tt><a href="bxr_bdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (107; 75%),
-<tt>NOUN --[<tt><a href="bxr_bdt-dep-compound.html">compound</a></tt>]--> NOUN</tt> (65; 55%),
-<tt>NOUN --[<tt><a href="bxr_bdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (41; 89%),
+<tt>PROPN --[<tt><a href="bxr_bdt-dep-flat.html">flat</a></tt>]--> PROPN</tt> (146; 78%),
+<tt>NOUN --[<tt><a href="bxr_bdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (108; 76%),
+<tt>NOUN --[<tt><a href="bxr_bdt-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (41; 85%),
 <tt>PROPN --[<tt><a href="bxr_bdt-dep-conj.html">conj</a></tt>]--> PROPN</tt> (41; 91%),
 <tt>NOUN --[<tt><a href="bxr_bdt-dep-appos.html">appos</a></tt>]--> PROPN</tt> (33; 97%),
 <tt>NOUN --[<tt><a href="bxr_bdt-dep-amod.html">amod</a></tt>]--> NOUN</tt> (29; 54%),
 <tt>PROPN --[<tt><a href="bxr_bdt-dep-compound.html">compound</a></tt>]--> NOUN</tt> (15; 71%),
 <tt>PROPN --[<tt><a href="bxr_bdt-dep-flat.html">flat</a></tt>]--> NOUN</tt> (15; 58%),
-<tt>PROPN --[<tt><a href="bxr_bdt-dep-list.html">list</a></tt>]--> PROPN</tt> (12; 100%).
+<tt>PROPN --[<tt><a href="bxr_bdt-dep-list.html">list</a></tt>]--> PROPN</tt> (12; 100%),
+<tt>NOUN --[<tt><a href="bxr_bdt-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (10; 77%).
 

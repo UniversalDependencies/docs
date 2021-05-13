@@ -41,7 +41,7 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 17	terra	terra	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	12	obl	_	_
 18	ecclesie	ecclesia	NOUN	n|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	_
 19	episcopatis	episcopatus	NOUN	n|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	18	nmod	_	_
-20	vestri	uester	DET	a|a|2|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	19	nmod	_	SpaceAfter=No
+20	vestri	uester	DET	a|a|2|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs	19	nmod	_	SpaceAfter=No
 21	,	,	PUNCT	Punc	_	22	punct	_	_
 22	domne	domnus	NOUN	n|n|-|s|-|-|-|m|v|-	Case=Voc|Gender=Masc|Number=Sing	20	vocative	_	_
 23	Iacobe	Iacobus	PROPN	Propn|n|-|s|-|-|-|m|v|-	Case=Voc|Gender=Masc|Number=Sing	22	flat	_	_
@@ -56,7 +56,7 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 32	ut	ut	SCONJ	c|c|-|-|-|-|-|-|-|-	_	35	mark	_	_
 33	ibi	ubi	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Rel	34	advmod	_	_
 34	avitare	habito	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	35	xcomp	_	_
-35	deberem	debeo	VERB	v|v|1|s|i|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|VerbType=Mod|Voice=Act	12	advcl	_	SpaceAfter=No
+35	deberem	debeo	VERB	v|v|1|s|i|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|VerbType=Mod|Voice=Act	12	advcl	_	SpaceAfter=No
 36	;	;	PUNCT	Punc	_	1	punct	_	_
 
 ~~~

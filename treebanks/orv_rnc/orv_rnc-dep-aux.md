@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of aux in UD_Old_Russian-RNC'
+title:  'Statistics of aux in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Relations: `aux`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Relations: `aux`
 
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="orv_rnc-dep-aux-pass.html">aux:pass</a></tt>.
@@ -76,7 +76,7 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 10	12	12	NUM	_	Case=Nom|NumForm=Digit	11	nummod:gov	_	_
 11	человека	человекъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	nsubj:pass	_	_
 12	в	въ	ADP	_	_	14	case	_	_
-13	ъднои	одна	NUM	_	Case=Loc|Gender=Fem|Number=Sing	14	nummod	_	_
+13	ъднои	одинъ	NUM	_	Case=Loc|Gender=Fem|Number=Sing	14	nummod	_	_
 14	лодьи	лодья	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
 15	,	_	PUNCT	_	_	20	punct	_	_
 16	и	и	CCONJ	_	_	20	cc	_	_

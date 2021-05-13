@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="en_ewt-dep-compound.html">compound</a></tt>.
 
-910 nodes (0%) are attached to their parents as `compound:prt`.
+911 nodes (0%) are attached to their parents as `compound:prt`.
 
-910 instances of `compound:prt` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.33296703296703.
+911 instances of `compound:prt` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.33260153677278.
 
-The following 5 pairs of parts of speech are connected with `compound:prt`: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (888; 98% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (18; 2% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `compound:prt`: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (889; 98% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (18; 2% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -69,7 +69,7 @@ The following 5 pairs of parts of speech are connected with `compound:prt`: <tt>
 7	'll	will	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
 8	be	be	AUX	VB	VerbForm=Inf	10	cop	10:cop	_
 9	much	much	ADV	RB	_	10	advmod	10:advmod	_
-10	better	better	ADJ	JJR	Degree=Cmp	1	parataxis	1:parataxis	_
+10	better	good	ADJ	JJR	Degree=Cmp	1	parataxis	1:parataxis	_
 11	off	off	ADP	RP	_	10	compound:prt	10:compound:prt	SpaceAfter=No
 12	!	!	PUNCT	.	_	1	punct	1:punct	_
 

@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>než</em> (<tt><a href="cs_pdt-pos-SC
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.022727 (the average of all parts of speech is 2.182017).
+The form / lemma ratio of `SCONJ` is 1.022727 (the average of all parts of speech is 2.182054).
 
 The 1st highest number of forms (2) was observed with the lemma “ačkoliv”: <em>ačkoli, ačkoliv</em>.
 

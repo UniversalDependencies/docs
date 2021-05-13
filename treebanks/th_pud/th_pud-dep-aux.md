@@ -14,7 +14,7 @@ There are 1 language-specific subtypes of `aux`: <tt><a href="th_pud-dep-aux-pas
 725 instances of `aux` (78%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.66307857911733.
 
-The following 12 pairs of parts of speech are connected with `aux`: <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (491; 53% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-PART.html">PART</a></tt> (375; 40% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (21; 2% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (12; 1% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="th_pud-pos-PART.html">PART</a></tt> (9; 1% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="th_pud-pos-PART.html">PART</a></tt> (9; 1% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="th_pud-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="th_pud-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="th_pud-pos-PART.html">PART</a></tt>-<tt><a href="th_pud-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-AUX.html">AUX</a></tt> (865; 93% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="th_pud-pos-AUX.html">AUX</a></tt> (30; 3% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="th_pud-pos-AUX.html">AUX</a></tt> (21; 2% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="th_pud-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="th_pud-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="th_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="th_pud-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="th_pud-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -31,32 +31,8 @@ The following 12 pairs of parts of speech are connected with `aux`: <tt><a href=
 6	สุด	_	ADV	RB	_	5	advmod	_	SpaceAfter=No
 7	ตาม	_	ADP	IN	_	10	case	_	SpaceAfter=No
 8	ที่	_	DET	WDT	_	10	nsubj	_	SpaceAfter=No
-9	ได้รับ	_	VERB	MD	Voice=Pass	10	aux	_	SpaceAfter=No
+9	ได้รับ	_	AUX	MD	Voice=Pass	10	aux	_	SpaceAfter=No
 10	อนุญาต	_	VERB	VV	_	5	xcomp	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 aux	color:blue
-1	กระนั้น	_	CCONJ	CC	_	4	cc	_	SpaceAfter=No
-2	ก็	_	ADV	RB	_	4	advmod	_	SpaceAfter=No
-3	ยังคง	_	PART	AS	Aspect=Prog	4	aux	_	SpaceAfter=No
-4	มี	_	VERB	VV	_	0	root	_	SpaceAfter=No
-5	คำ	_	NOUN	NN	_	4	obj	_	SpaceAfter=No
-6	ถาม	_	VERB	VV	_	5	acl	_	SpaceAfter=No
-7	ที่	_	DET	WDT	_	11	nsubj	_	SpaceAfter=No
-8	ยัง	_	PART	AS	Aspect=Prog	11	aux	_	SpaceAfter=No
-9	ไม่	_	PART	NEG	Polarity=Neg	10	advmod	_	SpaceAfter=No
-10	ได้	_	PART	AS	Aspect=Perf	11	aux	_	SpaceAfter=No
-11	รับ	_	VERB	VV	_	5	acl:relcl	_	SpaceAfter=No
-12	คำ	_	NOUN	NN	_	11	obj	_	SpaceAfter=No
-13	ตอบ	_	VERB	VV	_	12	acl	_	SpaceAfter=No
-14	อยู่	_	PART	AS	Aspect=Prog	4	aux	_	_
 
 ~~~
 
@@ -70,7 +46,7 @@ The following 12 pairs of parts of speech are connected with `aux`: <tt><a href=
 1	พวก	_	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
 2	เขา	_	PRON	PRP	Person=3	1	compound	_	SpaceAfter=No
 3	มัก	_	ADV	RB	_	6	advmod	_	SpaceAfter=No
-4	จะ	_	VERB	MD	_	6	aux	_	SpaceAfter=No
+4	จะ	_	AUX	MD	_	6	aux	_	SpaceAfter=No
 5	เป็น	_	AUX	VC	_	6	cop	_	SpaceAfter=No
 6	ศิลปิน	_	NOUN	NN	_	0	root	_	SpaceAfter=No
 7	ที่	_	DET	WDT	_	8	nsubj	_	SpaceAfter=No
@@ -80,6 +56,27 @@ The following 12 pairs of parts of speech are connected with `aux`: <tt><a href=
 11	ต่าง	_	ADJ	JJ	_	10	amod	_	SpaceAfter=No
 12	ๆ	_	SYM	SYM	_	11	dep	_	_
 13	อยู่แล้ว	_	ADV	RB	_	8	advmod	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 7 aux	color:blue
+1	แล้ว	_	CCONJ	CC	_	4	cc	_	SpaceAfter=No
+2	ผล	_	NOUN	NN	_	4	nsubj	_	SpaceAfter=No
+3	ก็	_	ADV	RB	_	4	advmod	_	SpaceAfter=No
+4	ออก	_	VERB	VV	_	0	root	_	SpaceAfter=No
+5	มา	_	PART	RP	_	4	compound:prt	_	SpaceAfter=No
+6	แทบ	_	ADV	RB	_	10	advmod	_	SpaceAfter=No
+7	จะ	_	AUX	MD	_	10	aux	_	SpaceAfter=No
+8	ไม่	_	PART	NEG	Polarity=Neg	10	advmod	_	SpaceAfter=No
+9	ยอด	_	ADV	RB	_	10	advmod	_	SpaceAfter=No
+10	เยี่ยม	_	ADJ	JJ	_	4	ccomp	_	SpaceAfter=No
+11	เลย	_	ADV	RB	_	10	advmod	_	_
 
 ~~~
 

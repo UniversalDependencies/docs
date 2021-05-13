@@ -26,34 +26,34 @@ The 10 most frequent ambiguous types:  <em>som</em> (<tt><a href="sk_snk-pos-AUX
   * <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> 106: <em>Hospodárstvo KĽDR <b>je</b> na kolenách a deti hladujú .</em>
   * <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> 1: <em>Alebo sa kosatky rozhodnú oddeliť pár a obklopiť mladú veľrybu , poprípade zabrániť <b>je</b> v návrate na povrch mora a v nadýchnutí .</em>
 * <em>bol</em>
-  * <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> 211: <em>Mahmúd <b>bol</b> výborným kaligrafom a básnikom , písal pod pseudonymom Adli .</em>
+  * <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> 211: <em>Prvý preklad <b>bol</b> grécky .</em>
   * <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> 46: <em>Od roku 1748 <b>bol</b> Matej Bel na dôchodku .</em>
 * <em>sme</em>
   * <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> 209: <em>Našli <b>sme</b> ich ?</em>
   * <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> 5: <em>" A <b>sme</b> tu , " oznamovala .</em>
 * <em>bola</em>
-  * <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> 141: <em>Jeho počiatočná pozícia pri nástupe k moci <b>bola</b> mimoriadne slabá .</em>
+  * <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> 141: <em>Jemná pôda <b>bola</b> celkom šmykľavá .</em>
   * <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> 31: <em>Rozbujnená vegetácia na mieste , kde pred rokmi <b>bola</b> udržiavaná záhrada ?</em>
 * <em>sú</em>
   * <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> 119: <em>Po Silvestri <b>sú</b> zničení aj ľudia , aj zvieratá</em>
   * <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> 21: <em>Tu <b>sú</b> obžalovacie spisy , tu <b>sú</b> zatykače .</em>
 * <em>bolo</em>
-  * <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> 103: <em>Dielo <b>bolo</b> úspešne sfilmované .</em>
-  * <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> 38: <em>Podľa Mahmúda <b>bolo</b> na jar 1826 grécke povstanie na konci .</em>
+  * <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> 103: <em>Cieľom <b>bolo</b> vytvoriť samostatný štát do roku 2005 .</em>
+  * <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> 38: <em>Vždy tu <b>bolo</b> niekolko kapiel .</em>
 * <em>bude</em>
   * <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> 113: <em>Napokon sa rozhodol , že ich <b>bude</b> nasledovať .</em>
   * <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> 12: <em>Ak spln pripadá na nedeľu , Veľká noc <b>bude</b> až nasledujúcu nedeľu .</em>
 * <em>boli</em>
-  * <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> 97: <em>Traja ďalší ortodoxní biskupi <b>boli</b> tiež popravení .</em>
+  * <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> 97: <em>Ďalšou dôležitou témou <b>boli</b> morálne otázky .</em>
   * <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> 19: <em>Shepherdovci bývali v luxusnej štvrti , kde <b>boli</b> samé honosné domy .</em>
 * <em>si</em>
-  * <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> 385: <em>Kardinálov <b>si</b> starostlivo vyberal .</em>
+  * <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> 385: <em>Potom sa obrátil na Fínsko , aby <b>si</b> podobné ústupky vynútil aj od neho .</em>
   * <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> 61: <em>“ Našla <b>si</b> ju ? “ spýtal sa Chris .</em>
   * <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> 12: <em>" A vieš , ako dlho <b>si</b> tu ? "</em>
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 12.666667 (the average of all parts of speech is 1.801856).
+The form / lemma ratio of `AUX` is 12.666667 (the average of all parts of speech is 1.802472).
 
 The 1st highest number of forms (32) was observed with the lemma “byť”: <em>Buďme, Nebudete, Nebuď, bol, bola, boli, bolo, bude, budem, budeme, budete, budeš, budú, buďte, byť, je, nebol, nebola, neboli, nebolo, nebude, nebudem, nebudeme, nebudeš, nebudú, niesme, si, sme, so, som, ste, sú</em>.
 

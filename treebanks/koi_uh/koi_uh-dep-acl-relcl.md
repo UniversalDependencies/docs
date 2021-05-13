@@ -24,17 +24,17 @@ The following 2 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 10 13 acl:relcl	color:blue
 1	Мортлӧ	морт	NOUN	N	Animacy=Anim|Case=Dat|Number=Sing	4	obl	_	GTtags=N,Sem/Ani,Sg,Dat
 2	пыр	пыр	ADV	Adv	_	4	advmod:tmod	_	GTtags=Adv
-3	овлӧ	овлыны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	4	cop	_	GTtags=V,IV,Ind,Prs,Sg3
+3	овлӧ	овлыны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	cop	_	GTtags=V,IV,Ind,Prs,Sg3
 4	долыт	долыт	ADJ	A	_	0	root	_	GTtags=A|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	8	punct	_	GTtags=CLB
 6	кӧр	кӧр	ADV	Adv	_	8	mark	_	GTtags=Adv
 7	сія	сія	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	GTtags=Pron,Pers,Sg3,Nom
-8	локтас	локны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut	4	advcl:tmod	_	GTtags=V,Ind,Fut,Sg3
+8	локтас	локны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut	4	advcl:tcl	_	GTtags=V,Ind,Fut,Sg3
 9	сэтшӧм	сэтшӧм	ADJ	Adn	PronType=Dem	10	amod	_	GTtags=Adn,Dem
 10	пельӧсокӧ	пельӧс	NOUN	N	Case=Ill|Derivation=Dimin|Number=Sing	8	obl:lmod	_	GTtags=N,Der/Ок,Der/Dimin,N,Sg,Ill|SpaceAfter=No
 11	,	,	PUNCT	CLB	_	13	punct	_	GTtags=CLB
 12	кӧда	кӧда	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	13	nsubj	_	GTtags=Pron,Rel,Sg,Nom
-13	чужтӧ	чужтыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=2	10	acl:relcl	_	GTtags=V,TV,Ind,Prs,Sg3
+13	чужтӧ	чужтыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	acl:relcl	_	GTtags=V,TV,Ind,Prs,Sg3
 14	памятяс	памятяс	NOUN	_	_	13	obl:lmod	_	_
 15	приятнӧй	приятнӧй	ADJ	A	_	16	amod	_	GTtags=A
 16	касьтылӧм	касьтылӧм	NOUN	N	Animacy=Inan|Case=Nom|Number=Sing	13	obj	_	GTtags=N,Sem/Inanim,Sg,Nom|SpaceAfter=No
@@ -71,7 +71,7 @@ The following 2 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 20	перина	перина	NOUN	N	Case=Nom|Number=Sing	18	appos	_	GTtags=Sg,Nom
 21	туйӧ	туй	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	23	obl	_	GTtags=Sg,Nom,PxSg1
 22	кыза	кыза	ADV	Adv	_	23	advmod	_	_
-23	вӧвдӧм	вӧвдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt2	24	acl	_	GTtags=Ind,Prt2,Sg3
+23	вӧвдӧм	вӧвдны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	24	acl	_	GTtags=Ind,Prt2,Sg3
 24	турун	турун	NOUN	N	Case=Nom|Number=Sing	20	nmod	_	GTtags=Sg,Nom|SpaceAfter=No
 25	,	,	PUNCT	CLB	_	27	punct	_	_
 26	а	а	CCONJ	CC	_	27	cc	_	_

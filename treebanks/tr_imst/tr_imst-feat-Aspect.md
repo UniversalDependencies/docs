@@ -6,27 +6,26 @@ udver: '2'
 
 ## Treebank Statistics: UD_Turkish-IMST: Features: `Aspect`
 
-This feature is universal but the values `DurPerf`, `Hab`, `ProgRapid`, `Prosp`, `Rapid` are language-specific.
-It occurs with 7 different values: `DurPerf`, `Hab`, `Perf`, `Prog`, `ProgRapid`, `Prosp`, `Rapid`.
+This feature is universal but the values `Dur`, `Hab`, `Prosp`, `Rapid` are language-specific.
+It occurs with 6 different values: `Dur`, `Hab`, `Perf`, `Prog`, `Prosp`, `Rapid`.
 
 12033 tokens (21%) have a non-empty value of `Aspect`.
 6520 types (38%) occur at least once with a non-empty value of `Aspect`.
-831 lemmas (14%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 2 part-of-speech tags: <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (11057; 19% instances), <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> (976; 2% instances).
+828 lemmas (14%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 2 part-of-speech tags: <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (10995; 19% instances), <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> (1038; 2% instances).
 
 ### `VERB`
 
-11057 <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Aspect`.
+10995 <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (9811; 89%), <tt><a href="tr_imst-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (9696; 88%), <tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9594; 87%), <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (9349; 85%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (9349; 85%), <tt><a href="tr_imst-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (9317; 84%), <tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8798; 80%), <tt><a href="tr_imst-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6278; 57%), <tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5898; 53%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (9811; 89%), <tt><a href="tr_imst-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (9634; 88%), <tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9542; 87%), <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (9287; 84%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (9287; 84%), <tt><a href="tr_imst-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (9255; 84%), <tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8736; 79%), <tt><a href="tr_imst-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6216; 57%), <tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5848; 53%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `DurPerf` (3; 0% of non-empty `Aspect`): <em>uyuyakaldığı, uyuyakaldığını, uyuyakalmıştı</em>
+* `Dur` (3; 0% of non-empty `Aspect`): <em>uyuyakaldığı, uyuyakaldığını, uyuyakalmıştı</em>
 * `Hab` (1177; 11% of non-empty `Aspect`): <em>olur, olmaz, olabilir, eder, ister, gerekir, gelir, sanırım, yeter, alır</em>
-* `Perf` (8471; 77% of non-empty `Aspect`): <em>dedi, olan, dedim, değil, olduğunu, oldu, olduğu, söyledi, etti, geldi</em>
-* `Prog` (1360; 12% of non-empty `Aspect`): <em>diyor, oluyor, bilmiyorum, geliyor, biliyorum, biliyor, istiyorum, gidiyoruz, yapıyor, ediyor</em>
-* `ProgRapid` (1; 0% of non-empty `Aspect`): <em>takılıveriyor</em>
+* `Perf` (8409; 76% of non-empty `Aspect`): <em>dedi, olan, dedim, olduğunu, oldu, olduğu, söyledi, etti, değil, geldi</em>
+* `Prog` (1361; 12% of non-empty `Aspect`): <em>diyor, oluyor, bilmiyorum, geliyor, biliyorum, biliyor, istiyorum, gidiyoruz, yapıyor, ediyor</em>
 * `Prosp` (37; 0% of non-empty `Aspect`): <em>olacaktı, öğrenecekti, Feshedeceklermiş, anlatacaktım, anlatacaktın, anlatmayacaktım, bekleyecektim, bitmeyecekmiş, bulabileceklerdi, diyecektik</em>
 * `Rapid` (8; 0% of non-empty `Aspect`): <em>alıverdi, doluverdi, ediver, edivermişti, gidiverdi, oluverip, tıraşlayıvermiştin, yumuşayıveren</em>
 
@@ -185,14 +184,14 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 ### `AUX`
 
-976 <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Aspect`.
+1038 <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (866; 89%), <tt><a href="tr_imst-feat-Person.html">Person</a></tt><tt>=3</tt> (755; 77%), <tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (697; 71%), <tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (632; 65%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (927; 89%), <tt><a href="tr_imst-feat-Person.html">Person</a></tt><tt>=3</tt> (811; 78%), <tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (749; 72%), <tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (682; 66%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
 * `Hab` (1; 0% of non-empty `Aspect`): <em>girerken</em>
-* `Perf` (975; 100% of non-empty `Aspect`): <em>dir, mi, mı, dır, ydi, dı, ydı, tu, mu, dur</em>
+* `Perf` (1037; 100% of non-empty `Aspect`): <em>dir, mi, mı, dır, ydi, dı, ydı, değil, tu, mu</em>
 * `EMPTY` (68): <em>ise, idi</em>
 
 <table>
@@ -225,14 +224,14 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> VERB</tt> (714; 78%),
-<tt>VERB --[<tt><a href="tr_imst-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (659; 65%),
+<tt>VERB --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> VERB</tt> (716; 78%),
+<tt>VERB --[<tt><a href="tr_imst-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (661; 65%),
 <tt>VERB --[<tt><a href="tr_imst-dep-obj.html">obj</a></tt>]--> VERB</tt> (480; 59%),
-<tt>VERB --[<tt><a href="tr_imst-dep-acl.html">acl</a></tt>]--> VERB</tt> (152; 68%),
-<tt>VERB --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (68; 50%),
+<tt>VERB --[<tt><a href="tr_imst-dep-acl.html">acl</a></tt>]--> VERB</tt> (153; 67%),
+<tt>VERB --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (70; 51%),
 <tt>VERB --[<tt><a href="tr_imst-dep-compound.html">compound</a></tt>]--> VERB</tt> (47; 73%),
 <tt>VERB --[<tt><a href="tr_imst-dep-cop.html">cop</a></tt>]--> AUX</tt> (28; 88%),
 <tt>VERB --[<tt><a href="tr_imst-dep-nmod-poss.html">nmod:poss</a></tt>]--> VERB</tt> (28; 97%),
-<tt>VERB --[<tt><a href="tr_imst-dep-compound-redup.html">compound:redup</a></tt>]--> VERB</tt> (22; 100%),
-<tt>VERB --[<tt><a href="tr_imst-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (12; 63%).
+<tt>VERB --[<tt><a href="tr_imst-dep-compound-redup.html">compound:redup</a></tt>]--> VERB</tt> (23; 100%),
+<tt>VERB --[<tt><a href="tr_imst-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (18; 67%).
 

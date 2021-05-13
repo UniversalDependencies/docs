@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="tr_boun-pos-INTJ
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 0.955556 (the average of all parts of speech is 2.389211).
+The form / lemma ratio of `INTJ` is 0.955556 (the average of all parts of speech is 2.389386).
 
 The 1st highest number of forms (1) was observed with the lemma “"aa”: <em>"Aa</em>.
 
@@ -62,13 +62,7 @@ The 2nd highest number of forms (1) was observed with the lemma “A”: <em>a</
 
 The 3rd highest number of forms (1) was observed with the lemma “AAA”: <em>Aaa</em>.
 
-`INTJ` occurs with 9 features: <tt><a href="tr_boun-feat-Case.html">Case</a></tt> (36; 35% instances), <tt><a href="tr_boun-feat-Number.html">Number</a></tt> (36; 35% instances), <tt><a href="tr_boun-feat-Person.html">Person</a></tt> (36; 35% instances), <tt><a href="tr_boun-feat-Tense.html">Tense</a></tt> (2; 2% instances), <tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt> (1; 1% instances), <tt><a href="tr_boun-feat-Evident.html">Evident</a></tt> (1; 1% instances), <tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt> (1; 1% instances), <tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt> (1; 1% instances), <tt><a href="tr_boun-feat-Voice.html">Voice</a></tt> (1; 1% instances)
-
-`INTJ` occurs with 11 feature-value pairs: `Aspect=Perf`, `Case=Dat`, `Case=Nom`, `Evident=Fh`, `Number=Sing`, `Person=3`, `Polarity=Pos`, `Tense=Past`, `Tense=Pres`, `VerbForm=Part`, `Voice=Pass`
-
-`INTJ` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (65 tokens).
-Examples: <em>Aman, hadi, ha, sakın, Haydi, E, be, Aaaa, Hey, of</em>
+`INTJ` does not occur with any features.
 
 
 ## Relations

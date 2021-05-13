@@ -25,10 +25,10 @@ The following 1 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 2 1 nummod	color:blue
 1	Du	du	NUM	CD	Case=Nom|Gender=Masc	2	nummod	_	En=two
 2	sodiečiai	sodietis	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	En=farmer
-3	sėdi	sėdėti	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	En=sit
+3	sėdi	sėdėti	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	En=sit
 4	ant	ant	ADP	UH	_	8	case	_	En=on
 5	potvynio	potvynis	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	En=flood
-6	apsemtų	apsemti	VERB	VBNL	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|Polarity=Pos|Reflex=No|Tense=Past|VerbForm=Part|Voice=Pass	7	acl	_	En=submerged
+6	apsemtų	apsemti	VERB	VBNL	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	7	acl	_	En=submerged
 7	namų	namai	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	En=house
 8	stogo	stogas	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	3	obl	_	En=roof|SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	3	punct	_	En=.

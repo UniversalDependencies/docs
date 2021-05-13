@@ -11,9 +11,9 @@ This relation is universal.
 73 nodes (1%) are attached to their parents as `amod`.
 
 73 instances of `amod` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.08219178082192.
+Average distance between parent and child is 1.06849315068493.
 
-The following 6 pairs of parts of speech are connected with `amod`: <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> (63; 86% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="bm_crb-pos-X.html">X</a></tt>-<tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `amod`: <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> (64; 88% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (3; 4% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,12 +22,10 @@ The following 6 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 amod	color:blue
-1	<>	_	X	_	_	2	discourse	_	Gloss=_|SpaceAfter=No
-2	Den	dén	NOUN	n	_	0	root	_	Gloss=enfant
-3	ɲuman	ɲùman	ADJ	adj	_	2	amod	_	Gloss=bon
-4	ni	ni	X	conj	_	5	cc	_	Gloss=et
-5	Kɔnɔnin	kɔnɔnin	NOUN	n	_	2	conj	_	Gloss=oiseau|Morf=oiseau,DIM|SpaceAfter=No
-6	</>	_	X	_	_	2	punct	_	Gloss=_
+1	<>	_	PUNCT	_	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	NSIIRI	nsíiri	NOUN	n	_	0	root	_	Gloss=conte
+3	SABANAN	sábanan	ADJ	adj	NumType=Ord	2	amod	_	Gloss=troisième|Morf=troisième,trois,ORD|SpaceAfter=No
+4	</>	_	PUNCT	_	_	2	punct	_	Gloss=_
 
 ~~~
 

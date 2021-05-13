@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Çağrı Çöltekin.
 
 Repository: [UD_Turkish-GB](https://github.com/UniversalDependencies/UD_Turkish-GB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_gb27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_gb28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -77,7 +77,7 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
 
 ## Relations
 
-[acl](tr_gb-dep-acl.html) – [advcl](tr_gb-dep-advcl.html) – [advmod](tr_gb-dep-advmod.html) – [advmod:emph](tr_gb-dep-advmod-emph.html) – [amod](tr_gb-dep-amod.html) – [appos](tr_gb-dep-appos.html) – [aux](tr_gb-dep-aux.html) – [aux:q](tr_gb-dep-aux-q.html) – [case](tr_gb-dep-case.html) – [cc](tr_gb-dep-cc.html) – [ccomp](tr_gb-dep-ccomp.html) – [compound](tr_gb-dep-compound.html) – [compound:redup](tr_gb-dep-compound-redup.html) – [conj](tr_gb-dep-conj.html) – [cop](tr_gb-dep-cop.html) – [csubj](tr_gb-dep-csubj.html) – [csubj:cop](tr_gb-dep-csubj-cop.html) – [det](tr_gb-dep-det.html) – [discourse](tr_gb-dep-discourse.html) – [dislocated](tr_gb-dep-dislocated.html) – [fixed](tr_gb-dep-fixed.html) – [flat](tr_gb-dep-flat.html) – [goeswith](tr_gb-dep-goeswith.html) – [mark](tr_gb-dep-mark.html) – [nmod](tr_gb-dep-nmod.html) – [nmod:comp](tr_gb-dep-nmod-comp.html) – [nmod:part](tr_gb-dep-nmod-part.html) – [nmod:tmod](tr_gb-dep-nmod-tmod.html) – [nsubj](tr_gb-dep-nsubj.html) – [nsubj:cop](tr_gb-dep-nsubj-cop.html) – [nummod](tr_gb-dep-nummod.html) – [obj](tr_gb-dep-obj.html) – [obl](tr_gb-dep-obl.html) – [obl:agent](tr_gb-dep-obl-agent.html) – [obl:tmod](tr_gb-dep-obl-tmod.html) – [orphan](tr_gb-dep-orphan.html) – [parataxis](tr_gb-dep-parataxis.html) – [punct](tr_gb-dep-punct.html) – [root](tr_gb-dep-root.html) – [vocative](tr_gb-dep-vocative.html) – [xcomp](tr_gb-dep-xcomp.html)
+[acl](tr_gb-dep-acl.html) – [advcl](tr_gb-dep-advcl.html) – [advmod](tr_gb-dep-advmod.html) – [advmod:emph](tr_gb-dep-advmod-emph.html) – [amod](tr_gb-dep-amod.html) – [appos](tr_gb-dep-appos.html) – [aux](tr_gb-dep-aux.html) – [aux:q](tr_gb-dep-aux-q.html) – [case](tr_gb-dep-case.html) – [cc](tr_gb-dep-cc.html) – [ccomp](tr_gb-dep-ccomp.html) – [compound](tr_gb-dep-compound.html) – [compound:redup](tr_gb-dep-compound-redup.html) – [conj](tr_gb-dep-conj.html) – [cop](tr_gb-dep-cop.html) – [csubj](tr_gb-dep-csubj.html) – [csubj:cop](tr_gb-dep-csubj-cop.html) – [det](tr_gb-dep-det.html) – [discourse](tr_gb-dep-discourse.html) – [dislocated](tr_gb-dep-dislocated.html) – [fixed](tr_gb-dep-fixed.html) – [flat](tr_gb-dep-flat.html) – [goeswith](tr_gb-dep-goeswith.html) – [mark](tr_gb-dep-mark.html) – [nmod](tr_gb-dep-nmod.html) – [nmod:comp](tr_gb-dep-nmod-comp.html) – [nmod:part](tr_gb-dep-nmod-part.html) – [nsubj](tr_gb-dep-nsubj.html) – [nsubj:cop](tr_gb-dep-nsubj-cop.html) – [nummod](tr_gb-dep-nummod.html) – [obj](tr_gb-dep-obj.html) – [obl](tr_gb-dep-obl.html) – [obl:agent](tr_gb-dep-obl-agent.html) – [obl:tmod](tr_gb-dep-obl-tmod.html) – [orphan](tr_gb-dep-orphan.html) – [parataxis](tr_gb-dep-parataxis.html) – [punct](tr_gb-dep-punct.html) – [root](tr_gb-dep-root.html) – [vocative](tr_gb-dep-vocative.html) – [xcomp](tr_gb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -116,7 +116,7 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
 </ul>
 
 <ul>
-<li>This corpus contains 55 lemmas tagged as pronouns (PRON): Fatma, Zehra, aynısı, bazıları, bazılarımız, bazısı, başkaları, başkası, ben, bir, birbir, biri, birimiz, birşey, biz, bizler, bu, bura, böylesi, hangileri, hangileriniz, hanginiz, hangisi, hani, hepimiz, hepsi, herkes, herşey, hiçbiri, hiçbirimiz, hiçbiriniz, ikisi, insan, kendi, kim, kiminiz, kimse, ne, nere, o, onlar, ora, sen, siz, sizler, yarısı, yemek, yenisi, çok, çoğu, öbürü, öteki, şişmanın, şu, şura</li>
+<li>This corpus contains 53 lemmas tagged as pronouns (PRON): Fatma, aynısı, bazıları, bazılarımız, bazısı, başkaları, başkası, ben, bir, birbir, biri, birimiz, birşey, biz, bizler, bu, bura, böylesi, hangileri, hangileriniz, hanginiz, hangisi, hani, hepimiz, hepsi, herkes, herşey, hiçbiri, hiçbirimiz, hiçbiriniz, ikisi, insan, kendi, kim, kiminiz, kimse, ne, nere, o, onlar, ora, sen, siz, sizler, yarısı, yenisi, çok, çoğu, öbürü, öteki, şişmanın, şu, şura</li>
 </ul>
 
 <ul>
@@ -196,7 +196,6 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
       <li>NUM: 1830’larda, 1920’lerde, otuzlarda</li>
       <li>PRON: onlar, onları, onların, bunları, kendiniz, bunlar, bunlardan, kimseler, Biz, Siz</li>
       <li>PROPN: Ahmet’ler, Fransızlar, Atatürk’ler, Nehru’lar, Nermin’ler, Semra’lar, İtalyanlar, Türkleri</li>
-      <li>VERB: aldık, bulduk, geldiler, gelmişler, girelim, soralım, yayardık, gidiyoruz, gitsek, gittiler</li>
       <li>VERB-Fin: aldık, bulduk, geldiler, gelmişler, girelim, soralım, yayardık, gidiyoruz, gitsek, gittiler</li>
       <li>VERB-Part: katılanların, sevmeyenleri, katılanlar, vermeyenleri, Olanları, Söylediklerini, alacaklarını, bayılanlar, dediklerimi, dikeceklerimizde</li>
       <li>VERB-Vnoun: alınmalar, boşaltmalarını, gidişlerimiz, götürülmeler, uyandırılmalar</li>
@@ -207,19 +206,17 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: var, memnun, belli, ki, orta, yeniden</li>
+      <li>ADJ: memnun, ki, orta, yeniden</li>
       <li>ADP: başka, durumunda, halinde, için, kadar, karşı, lıktan, üzere, gibime, kadarını</li>
-      <li>ADV: rahat, usul, püklüm, süklüm</li>
       <li>AUX: değil, mı, dı, oldu, olacak, olduğunu, mu, mış, mi, miş</li>
       <li>AUX-Conv: ken</li>
       <li>AUX-Fin: değil, dı, oldu, olacak, mış, miş, ydı, dır, tı, ydi</li>
       <li>AUX-Part: olduğunu, olduğu, olacağı, olacağımızı, olduktan, olduğuna, olmadığın, bulunduğumuza, olacağına, olacağını</li>
       <li>AUX-Vnoun: olmak, olması, olmamız, olma, olmasına, olmasını</li>
-      <li>NOUN: gün, bugün, şey, evde, saat, çocuk, ev, yıl, kız, zaman</li>
+      <li>NOUN: gün, bugün, şey, evde, saat, çocuk, ev, yıl, kız, yemek</li>
       <li>NUM: altıda, ikide, 9’da, biri, dörde, dördün, kaçta, 1994’te, 5’te, buçukta</li>
       <li>PRON: ben, sen, ne, burada, bana, benim, kendi, o, biz, senin</li>
       <li>PROPN: Ahmet, Ali, Ayşe, Semra, Mehmet, Necla, Erol, Türk, Fatma, İngiliz</li>
-      <li>VERB: geldi, gitmek, istiyor, gerekiyor, söyledi, ediyorum, gördüm, etti, gitti, görmedim</li>
       <li>VERB-Conv: geleceklerken, göstermişken</li>
       <li>VERB-Fin: geldi, istiyor, gerekiyor, söyledi, ediyorum, gördüm, etti, gitti, görmedim, istemiyor</li>
       <li>VERB-Part: çaldığını, aldığını, bilmediğini, edildikten, ettirmediğini, evleneceğini, gerektiğini, istemediğine, okuduğunu, olduğu</li>
@@ -333,18 +330,15 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: yok, var, nasıl, memnun, ne, belli, ki, orta</li>
+      <li>ADJ: yok, nasıl, memnun, ne, ki, orta</li>
       <li>ADP: gibileri, zaman</li>
-      <li>ADV: rahat, usul, püklüm, süklüm</li>
       <li>AUX: olmak, olması, olmadığın, olmamız, değil, olma, olmadığım, olmayacağın</li>
       <li>AUX-Part: olmadığın, olmadığım, olmayacağın</li>
       <li>AUX-Vnoun: olmak, olması, olmamız, olma</li>
-      <li>DET: O, ne</li>
       <li>NOUN: gün, bugün, şey, saat, çocuk, ev, yıl, kız, zaman, çocuklar</li>
       <li>NUM: iki, milyarlık, onbeşi, İki</li>
       <li>PRON: ben, sen, ne, biz, kendi, o, onlar, bu, herkes, siz</li>
       <li>PROPN: Fransızca, Aynur, Timur, İngilizce, Almanca, Aydın, Erzurum, Handan, Turgut, Türk</li>
-      <li>VERB: gitmek, gitmeniz, almak, görmek, yapmamız, çıkmak, almamız, gelmek, gelmesi, vermek</li>
       <li>VERB-Fin: başlayacağı</li>
       <li>VERB-Part: sevmeyenleri, katılanlar, olduğu, oturacağım, vermeyenleri, Bildiğim, Dediğim, Geçen, Kazanan, anlattığı</li>
       <li>VERB-Vnoun: gitmek, gitmeniz, almak, görmek, yapmamız, çıkmak, almamız, gelmek, gelmesi, vermek</li>
@@ -391,9 +385,9 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
       <li>AUX-Fin: değil, değilim, değildi, değildir, değiliz, değiller, değilse, olamayacaksın, olmadı, olmayacak</li>
       <li>AUX-Part: olmadığın, olamayacağını, olmadığım, olmayacağın</li>
       <li>AUX-Vnoun: olmamalarına</li>
+      <li>CCONJ: değil</li>
       <li>DET: hiçbir, hiç</li>
       <li>PRON: hiçbiri, Hiçbirimiz, hiçbiriniz, hiçbirisi</li>
-      <li>VERB: görmedim, istemiyor, bilmiyordum, sevmiyor, gitmedi, konaklamayacaklar, anlayamıyorum, bilmiyorum, bitmiyor, düşünemiyorum</li>
       <li>VERB-Conv: fısıldaşmaya</li>
       <li>VERB-Fin: görmedim, istemiyor, bilmiyordum, sevmiyor, gitmedi, konaklamayacaklar, anlayamıyorum, bilmiyorum, bitmiyor, düşünemiyorum</li>
       <li>VERB-Part: sevmeyenleri, bilmediğini, ettirmediğini, istemediğine, vermeyenleri, almayacağını, anlamadığını, anlayamadığını, baktırmadığından, bitmeyebileceğinin</li>
@@ -423,15 +417,7 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
 <ul>
   <li>Dur
     <ul>
-      <li>VERB-Fin: yürüyedur</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>DurPerf
-    <ul>
-      <li>VERB-Fin: donakaldık, kutlayagelmişlerdir</li>
+      <li>VERB-Fin: donakaldık, kutlayagelmişlerdir, yürüyedur</li>
     </ul>
   </li>
 </ul>
@@ -440,7 +426,6 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
   <li>Hab
     <ul>
       <li>AUX-Fin: olursa, olur, olurdu, olabilir, olursak, bilirim, olabilirdim, olamaz, olamazsın, olmayız</li>
-      <li>VERB: içer, gerekebilir, yayardık, bilir, bulabilirsin, gelir, gelirim, giderse, konuşabilirsin, sayılır</li>
       <li>VERB-Conv: geleceklerken, çalışırken</li>
       <li>VERB-Fin: içer, gerekebilir, yayardık, bilir, bulabilirsin, gelir, gelirim, giderse, konuşabilirsin, sayılır</li>
     </ul>
@@ -462,7 +447,6 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
     <ul>
       <li>AUX: oldu, olacak, olacağız, olacağım, olamayacaksın, olduk, oldun, olmadı, olmayacak, olmuş</li>
       <li>AUX-Fin: oldu, olacak, olacağız, olacağım, olamayacaksın, olduk, oldun, olmadı, olmayacak, olmuş</li>
-      <li>VERB: geldi, görmüş, söyledi, gitti, gitmiş, gördüm, etti, görmedim, verdi, aldık</li>
       <li>VERB-Conv: göstermişken</li>
       <li>VERB-Fin: geldi, görmüş, söyledi, gitti, gitmiş, gördüm, etti, görmedim, verdi, aldık</li>
       <li>VERB-Part: tanınmış, pişmiş, toplanmış, yemiş, şaşılacak</li>
@@ -471,19 +455,10 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
 </ul>
 
 <ul>
-  <li>PerfRapid
-    <ul>
-      <li>VERB-Fin: giriverdi</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li>Prog
     <ul>
       <li>AUX-Fin: oluyor, oluyorum, olmuyor, oluyorsun, biliyor, bulunuyoruz, oluyordu, oluyorduk, oluyorlar, oluyorlardı</li>
-      <li>VERB: gerekiyor, istiyor, çalışıyor, ediyorum, gidiyor, istemiyor, sanıyorum, seviyor, yapıyor, duruyor</li>
-      <li>VERB-Fin: gerekiyor, istiyor, çalışıyor, ediyorum, gidiyor, istemiyor, sanıyorum, seviyor, yapıyor, geliyor</li>
+      <li>VERB-Fin: gerekiyor, istiyor, çalışıyor, ediyorum, gidiyor, istemiyor, sanıyorum, seviyor, yapıyor, duruyor</li>
     </ul>
   </li>
 </ul>
@@ -500,7 +475,7 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
 <ul>
   <li>Rapid
     <ul>
-      <li>VERB-Fin: kapayıversene</li>
+      <li>VERB-Fin: giriverdi, kapayıversene</li>
     </ul>
   </li>
 </ul>
@@ -548,7 +523,6 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
   <li>Gen
     <ul>
       <li>AUX-Fin: dır, dir, olur, olurdu, değildir, miyimdir, olmuştur, bilirim, değilimdir, dur</li>
-      <li>VERB: içer, yayardık, bilir, gelir, gelirim, sayılır, sever, yapar, yetişir, alır</li>
       <li>VERB-Conv: geleceklerken, çalışırken</li>
       <li>VERB-Fin: içer, yayardık, bilir, gelir, gelirim, sayılır, sever, yapar, yetişir, alır</li>
     </ul>
@@ -584,7 +558,6 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
   <li>Imp
     <ul>
       <li>AUX-Fin: olsun, olun</li>
-      <li>VERB: ver, al, git, bak, gel, getir, kal, kes, yürü, Koşma</li>
       <li>VERB-Fin: ver, al, git, bak, gel, getir, kal, kes, yürü, Koşma</li>
     </ul>
   </li>
@@ -593,12 +566,10 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
 <ul>
   <li>Ind
     <ul>
-      <li>ADJ: var, belli</li>
       <li>AUX: değil, olan, dı, oldu, olacak, olarak, mış, miş, ydı, tı</li>
       <li>AUX-Conv: olarak, yken</li>
       <li>AUX-Fin: değil, dı, oldu, olacak, mış, miş, ydı, tı, ydi, tu</li>
       <li>AUX-Part: olan, olacağım, olmayan, olduğu, olacağı, olmayacak, oldukları, olduğum, olduğumuz, olduğun</li>
-      <li>VERB: geldi, gerekiyor, görmüş, istiyor, söyledi, çalışıyor, ediyorum, geçen, gidiyor, gitti</li>
       <li>VERB-Conv: gelince, gidip, oturup, alıp, ağlaya, başlayınca, bulup, deyip, gelip, görünce</li>
       <li>VERB-Fin: geldi, gerekiyor, görmüş, istiyor, söyledi, çalışıyor, ediyorum, gidiyor, gitti, gitmiş</li>
       <li>VERB-Part: geçen, yaptığı, geldiği, ettiğimiz, oynayan, sevdiği, gördüğünüz, sevdiğim, akan, aldığın</li>
@@ -640,7 +611,7 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
 <ul>
   <li>PotPot
     <ul>
-      <li>VERB-Fin: edemeyebileceğim</li>
+      <li>VERB-Part: edemeyebileceğim</li>
     </ul>
   </li>
 </ul>
@@ -675,7 +646,6 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
       <li>AUX: dı, oldu, olduğunu, mış, miş, ydı, olduğu, tı, ydi, tu</li>
       <li>AUX-Fin: dı, oldu, mış, miş, ydı, tı, ydi, tu, ymış, di</li>
       <li>AUX-Part: olduğunu, olduğu, olduktan, olduğuna, olmadığın, bulunduğumuza, oldukları, olduklarını, olduğum, olduğumuz</li>
-      <li>VERB: geldi, görmüş, söyledi, gitti, gitmiş, gördüm, etti, görmedim, verdi, aldık</li>
       <li>VERB-Conv: göstermişken</li>
       <li>VERB-Fin: geldi, görmüş, söyledi, gitti, gitmiş, gördüm, etti, görmedim, verdi, aldık</li>
       <li>VERB-Part: yaptığı, geldiği, çaldığını, ettiğimiz, sevdiği, bildiğim, ettiğin, gördüğünüz, sevdiğim, aldığın</li>
@@ -694,11 +664,9 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
 <ul>
   <li>Pres
     <ul>
-      <li>ADJ: var, belli</li>
       <li>AUX: değil, olan, mı, dir, olsa, olsun, olursa, yım, dır, olmalı</li>
       <li>AUX-Fin: değil, dir, olsa, olsun, olursa, yım, dır, olmalı, olsam, olur</li>
       <li>AUX-Part: olan, olmayan</li>
-      <li>VERB: gerekiyor, istiyor, geçen, çalışıyor, ediyorum, gidiyor, istemiyor, olsa, sanıyorum, seviyor</li>
       <li>VERB-Conv: geleceklerken, çalışırken</li>
       <li>VERB-Fin: gerekiyor, istiyor, çalışıyor, ediyorum, gidiyor, istemiyor, olsa, sanıyorum, seviyor, ver</li>
       <li>VERB-Part: geçen, oynayan, katılanların, sevmeyenleri, akan, arayan, baltalayan, başlayan, duran, gelen</li>
@@ -713,7 +681,6 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
 <ul>
   <li>Cau
     <ul>
-      <li>VERB: bitirmiş, bitirdi, işletiyordu, yaptırdık, ayırtmak, bitirir, bitirmeye, değiştirecek, düzeltiyordu, ettirmediğini</li>
       <li>VERB-Fin: bitirmiş, bitirdi, işletiyordu, yaptırdık, bitirir, değiştirecek, düzeltiyordu, inandıramadı, kapatıyorsunuz, kızarttım</li>
       <li>VERB-Part: ettirmediğini, baktırmadığından</li>
       <li>VERB-Vnoun: bitirmeye, pişirmesini, ayırtmak, boşaltmalarını, değiştirmek, düzeltmemiz, kolaylaştırmak, okutma, okutmak, rahatlatmaya</li>
@@ -750,7 +717,7 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
 <ul>
   <li>CauPassRcp
     <ul>
-      <li>VERB-Fin: D​ö​ğ​ü​ş​t​ü​r​ü​l​m​e​y​e​b​i​l​i​y​o​r​m​u​ş​s​u​n​u​z​d​u​r, Görüştürülemeye, dövüştürüldü</li>
+      <li>VERB-Fin: Döğüştürülmeyebiliyormuşsunuzdur, Görüştürülemeye, dövüştürüldü</li>
     </ul>
   </li>
 </ul>
@@ -824,9 +791,8 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
     <ul>
       <li>AUX: tı, değildik, di, olacak</li>
       <li>AUX-Fin: tı, değildik, olacak</li>
-      <li>VERB: geleceğine, aldı, bayılıyor, getirdiler, korkuyor, pişiriyoruz, sanıyor, Yaparım, aldım, aradı</li>
       <li>VERB-Conv: geleceklerken, çalışırken</li>
-      <li>VERB-Fin: geleceğine, korkuyor, aldım, açacağını, başlayacağı, bilmiyordum, dayanamayacağını, değer, duymamaz, duymaz</li>
+      <li>VERB-Fin: geleceğine, aldı, bayılıyor, getirdiler, korkuyor, pişiriyoruz, sanıyor, Yaparım, aldım, aradı</li>
       <li>VERB-Part: şaşılacak</li>
     </ul>
   </li>
@@ -837,7 +803,6 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
     <ul>
       <li>AUX: mış, miş, ymış, muş, ymiş, larmış, olmuş, olmuştur, sa, se</li>
       <li>AUX-Fin: mış, miş, ymış, muş, larmış, olmuş, olmuştur, ymiş, ymüş, değillermiş</li>
-      <li>VERB: görmüş, gitmiş, bitirmiş, okumuş, yapmış, gelmişler, istemiş, isteniyormuş, olmuş, tanışmışlar</li>
       <li>VERB-Conv: göstermişken</li>
       <li>VERB-Fin: görmüş, gitmiş, bitirmiş, okumuş, yapmış, gelmişler, istemiş, isteniyormuş, olmuş, tanışmışlar</li>
       <li>VERB-Part: tanınmış, pişmiş, toplanmış, yemiş</li>
@@ -863,7 +828,7 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
 <ul>
   <li>Dem
     <ul>
-      <li>DET: bu, O</li>
+      <li>DET: O, bu</li>
       <li>PRON: burada, bu, bunu, oraya, o, bundan, burası, buraya, bunun, buradan</li>
     </ul>
   </li>
@@ -896,7 +861,6 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
   <li>Neg
     <ul>
       <li>AUX: değil</li>
-      <li>CCONJ: değil</li>
     </ul>
   </li>
 </ul>
@@ -924,7 +888,6 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
 <ul>
   <li>Card
     <ul>
-      <li>ADV: en</li>
       <li>NUM: iki, üç, beş, yüz, dört, on, bir, bin, dokuz, sekiz</li>
     </ul>
   </li>
@@ -969,8 +932,7 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
       <li>AUX: yım, olsam, değilim, miyiz, dük, olacağız, oluyorum, ydik, değiliz, miyimdir</li>
       <li>AUX-Fin: yım, olsam, değilim, dük, olacağız, oluyorum, ydik, değiliz, miyimdir, olacağım</li>
       <li>PRON: ben, bana, benim, biz, bizim, beni, bize, bizi, benden, benimle</li>
-      <li>VERB: ediyorum, gördüm, görmedim, sanıyorum, aldık, gidiyorum, bilmiyordum, istiyorum, okudum, sanıyordum</li>
-      <li>VERB-Fin: ediyorum, gördüm, görmedim, sanıyorum, aldık, gidiyorum, bilmiyordum, istiyorum, sanıyordum, çalışıyorum</li>
+      <li>VERB-Fin: ediyorum, gördüm, görmedim, sanıyorum, aldık, gidiyorum, bilmiyordum, istiyorum, okudum, sanıyordum</li>
     </ul>
   </li>
 </ul>
@@ -981,7 +943,6 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
       <li>AUX: musun, misiniz, misin, musunuz, mısın, mısınız, mıydınız, olamayacaksın, oldun, oluyorsun</li>
       <li>AUX-Fin: olamayacaksın, oldun, oluyorsun, sün, sın, değildiniz, değilsin, değilsiniz, dur, olacaksın</li>
       <li>PRON: sen, senin, siz, seni, sana, sizin, size, kendiniz, Kendin, Sizler</li>
-      <li>VERB: ver, istiyorsun, aldın, gittin, gördün, al, bulabilirsin, istiyorsunuz, konuşabilirsin, gidiyorsun</li>
       <li>VERB-Fin: ver, istiyorsun, aldın, gittin, gördün, al, bulabilirsin, istiyorsunuz, konuşabilirsin, gidiyorsun</li>
     </ul>
   </li>
@@ -990,13 +951,11 @@ _Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar. London: Rou
 <ul>
   <li>3
     <ul>
-      <li>ADJ: var, belli</li>
       <li>AUX: değil, mı, dı, oldu, olacak, mu, mış, mi, miş, ydı</li>
       <li>AUX-Conv: ken</li>
       <li>AUX-Fin: değil, dı, oldu, olacak, mış, miş, ydı, dır, tı, ydi</li>
       <li>AUX-Part: olduğunu</li>
-      <li>PRON: herkes, o, herkesin, ona, birisi, kendisi, kendisine, onun, kendisini, onu</li>
-      <li>VERB: geldi, istiyor, gerekiyor, söyledi, etti, gitti, istemiyor, olsa, seviyor, verdi</li>
+      <li>PRON: herkes, o, herkesin, ona, birisi, kendisi, onun, kendisine, kendisini, onu</li>
       <li>VERB-Conv: geleceklerken, göstermişken</li>
       <li>VERB-Fin: geldi, istiyor, gerekiyor, söyledi, etti, gitti, istemiyor, olsa, seviyor, verdi</li>
       <li>VERB-Part: tanınmış, pişmiş, yemiş</li>
@@ -1108,21 +1067,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Nom (1)</li>
-      <li>VERB--PRON-Nom (4)</li>
       <li>VERB-Conv--NOUN-Ins (1)</li>
       <li>VERB-Conv--NOUN-Nom (9)</li>
       <li>VERB-Conv--PRON-Nom (5)</li>
       <li>VERB-Fin--NOUN-Acc (3)</li>
       <li>VERB-Fin--NOUN-Gen (9)</li>
       <li>VERB-Fin--NOUN-Ins (6)</li>
-      <li>VERB-Fin--NOUN-Loc (1)</li>
-      <li>VERB-Fin--NOUN-Nom (416)</li>
+      <li>VERB-Fin--NOUN-Nom (417)</li>
       <li>VERB-Fin--PRON-Abl (1)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
       <li>VERB-Fin--PRON-Dat (3)</li>
       <li>VERB-Fin--PRON-Gen (5)</li>
-      <li>VERB-Fin--PRON-Nom (212)</li>
+      <li>VERB-Fin--PRON-Nom (216)</li>
       <li>VERB-Part--NOUN-Acc (1)</li>
       <li>VERB-Part--NOUN-Gen (22)</li>
       <li>VERB-Part--NOUN-Nom (26)</li>
@@ -1140,15 +1096,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Acc (3)</li>
-      <li>VERB--NOUN-Nom (2)</li>
-      <li>VERB--PRON-Nom (2)</li>
       <li>VERB-Conv--NOUN-Acc (10)</li>
       <li>VERB-Conv--NOUN-Nom (13)</li>
       <li>VERB-Conv--PRON-Acc (2)</li>
       <li>VERB-Fin--NOUN-Abl (1)</li>
-      <li>VERB-Fin--NOUN-Acc (412)</li>
-      <li>VERB-Fin--NOUN-Nom (276)</li>
+      <li>VERB-Fin--NOUN-Acc (414)</li>
+      <li>VERB-Fin--NOUN-Nom (280)</li>
       <li>VERB-Fin--PRON-Abl (6)</li>
       <li>VERB-Fin--PRON-Acc (93)</li>
       <li>VERB-Fin--PRON-Nom (13)</li>
@@ -1157,7 +1110,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Nom (36)</li>
       <li>VERB-Part--PRON-Acc (11)</li>
       <li>VERB-Part--PRON-Nom (3)</li>
-      <li>VERB-Vnoun--NOUN-Acc (52)</li>
+      <li>VERB-Vnoun--NOUN-Acc (53)</li>
       <li>VERB-Vnoun--NOUN-Nom (68)</li>
       <li>VERB-Vnoun--PRON-Acc (22)</li>
       <li>VERB-Vnoun--PRON-Nom (1)</li>
@@ -1183,6 +1136,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 10 relation subtypes: <a>advmod:emph</a>, <a>aux:q</a>, <a>compound:redup</a>, <a>csubj:cop</a>, <a>nmod:comp</a>, <a>nmod:part</a>, <a>nmod:tmod</a>, <a>nsubj:cop</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 9 relation subtypes: <a>advmod:emph</a>, <a>aux:q</a>, <a>compound:redup</a>, <a>csubj:cop</a>, <a>nmod:comp</a>, <a>nmod:part</a>, <a>nsubj:cop</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
 <li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

@@ -8,29 +8,31 @@ udver: '2'
 
 This relation is universal.
 
-43 nodes (0%) are attached to their parents as `advcl`.
+49 nodes (0%) are attached to their parents as `advcl`.
 
-37 instances of `advcl` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.86046511627907.
+42 instances of `advcl` (86%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.77551020408163.
 
-The following 1 pairs of parts of speech are connected with `advcl`: <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (43; 100% instances).
+The following 1 pairs of parts of speech are connected with `advcl`: <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (49; 100% instances).
 
 
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 6 advcl	color:blue
-1	būl	būlu	NOUN	N	Gender=Masc|Nounbase=Bound|Number=Sing	3	obj	3:obj	_
-2	ṣēri	ṣēru	NOUN	N	Case=Gen|Gender=Masc|Nounbase=Free|Number=Sing	1	nmod:poss	1:nmod:poss	_
-3	ušatlimū	šutlumu	VERB	V	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Finite|Verbstem=S	0	root	0:root	u₂-šat-li-mu-ni-ma
-4	ni	_	PRON	_	Number=Sing|Person=1	3	obl	3:obl	_
-5	ma	_	CCONJ	_	_	8	cc	8:cc	_
-6	epēš	epēšu	VERB	V	Gender=Masc|Nounbase=Bound|Number=Sing|VerbForm=Inf|Verbstem=G	8	advcl	8:advcl	e-peš
-7	baʾʾuri	buʾʾuru	NOUN	N	Case=Gen|Gender=Masc|Nounbase=Free|Number=Sing	6	nmod:poss	6:nmod:poss	ba-ʾu-ri
-8	iqbû	qabû	VERB	V	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Finite|Verbstem=G	3	conj	3:conj	iq-bu-ni
-9	ni	_	PRON	_	Number=Sing|Person=1	8	obj	8:obj	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 6 advcl	color:blue
+1	rubû	rubû	NOUN	N	Case=Nom|Gender=Masc|NounBase=Free|Number=Sing	11	nsubj	11:nsubj	NUN-u₂
+2	arkû	warkû	ADJ	AJ	Case=Nom|Gender=Masc|Number=Sing	1	amod	1:amod	EGIR-u₂
+3	enūma	inūma	SCONJ	SBJ	_	6	mark	6:mark	e-nu-ma
+4	dūru	dūru	NOUN	N	Case=Nom|Gender=Masc|NounBase=Free|Number=Sing	6	nsubj	6:nsubj	BAD₃
+5	šū	šū	DET	IP	Gender=Masc|Number=Sing|Person=3	4	amod	4:amod	šu
+6	ušalbaru	labāru	VERB	V	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Subordinative=Yes|Tense=Pres|VerbForm=Fin|VerbStem=S	11	advcl	11:advcl	u₂-šal-ba-ru-ma
+7	ma	_	CCONJ	_	_	8	cc	8:cc	_
+8	ennahu	anāhu	VERB	V	Mood=Ind|Number=Sing|Person=3|Subordinative=Yes|Tense=Pres|VerbForm=Fin|VerbStem=G	6	conj	6:conj	e-na-hu
+9	anhūs	anhūtu	NOUN	N	Gender=Fem|NounBase=Suffixal|Number=Sing	11	obj	11:obj	an-hu-su
+10	su	_	PRON	_	Gender=Masc|Number=Sing|Person=3	9	det:poss	9:det:poss	_
+11	luddiš	edēšu	VERB	V	Gender=Masc|Mood=Prec|Number=Sing|Person=3|VerbForm=Fin|VerbStem=D	0	root	0:root	lu-ud-diš
 
 ~~~
 

@@ -14,7 +14,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 8082 tokens (14%) have a non-empty value of `Person[psor]`.
 4945 types (29%) occur at least once with a non-empty value of `Person[psor]`.
 1934 lemmas (33%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 8 part-of-speech tags: <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> (4986; 9% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (1708; 3% instances), <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> (931; 2% instances), <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> (354; 1% instances), <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (70; 0% instances), <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> (15; 0% instances), <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> (15; 0% instances), <tt><a href="tr_imst-pos-DET.html">DET</a></tt> (3; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> (4986; 9% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (1708; 3% instances), <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> (931; 2% instances), <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> (357; 1% instances), <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (70; 0% instances), <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> (15; 0% instances), <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> (15; 0% instances).
 
 ### `NOUN`
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `NOUN` and `Person[psor]` co-o
 
 ### `VERB`
 
-1708 <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> tokens (15% of all `VERB` tokens) have a non-empty value of `Person[psor]`.
+1708 <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> tokens (16% of all `VERB` tokens) have a non-empty value of `Person[psor]`.
 
 The most frequent other feature values with which `VERB` and `Person[psor]` co-occurred: <tt><a href="tr_imst-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (1708; 100%), <tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1706; 100%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1703; 100%), <tt><a href="tr_imst-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1703; 100%), <tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1625; 95%), <tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1543; 90%), <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (1446; 85%), <tt><a href="tr_imst-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1398; 82%), <tt><a href="tr_imst-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1241; 73%), <tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1043; 61%).
 
@@ -133,9 +133,9 @@ The most frequent other feature values with which `ADJ` and `Person[psor]` co-oc
 
 ### `PRON`
 
-354 <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> tokens (16% of all `PRON` tokens) have a non-empty value of `Person[psor]`.
+357 <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> tokens (16% of all `PRON` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="tr_imst-feat-Person.html">Person</a></tt><tt>=3</tt> (289; 82%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (240; 68%), <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (240; 68%), <tt><a href="tr_imst-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (196; 55%).
+The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="tr_imst-feat-Person.html">Person</a></tt><tt>=3</tt> (292; 82%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (243; 68%), <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (243; 68%), <tt><a href="tr_imst-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (199; 56%).
 
 `PRON` tokens may have the following values of `Person[psor]`:
 
@@ -170,7 +170,7 @@ The most frequent other feature values with which `PRON` and `Person[psor]` co-o
 
 ### `NUM`
 
-70 <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> tokens (3% of all `NUM` tokens) have a non-empty value of `Person[psor]`.
+70 <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> tokens (6% of all `NUM` tokens) have a non-empty value of `Person[psor]`.
 
 The most frequent other feature values with which `NUM` and `Person[psor]` co-occurred: <tt><a href="tr_imst-feat-Person.html">Person</a></tt><tt>=3</tt> (70; 100%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (67; 96%), <tt><a href="tr_imst-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (56; 80%), <tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Nom</tt> (38; 54%).
 
@@ -213,22 +213,14 @@ The most frequent other feature values with which `PROPN` and `Person[psor]` co-
 `PROPN` tokens may have the following values of `Person[psor]`:
 
 
-### `DET`
-
-3 <tt><a href="tr_imst-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Person[psor]`.
-
-`DET` tokens may have the following values of `Person[psor]`:
-
-
 ## Relations with Agreement in `Person[psor]`
 
 The 10 most frequent relations where parent and child node agree in `Person[psor]`:
-<tt>VERB --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> VERB</tt> (80; 82%),
+<tt>VERB --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> VERB</tt> (81; 82%),
 <tt>ADJ --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> ADJ</tt> (8; 62%),
 <tt>NOUN --[<tt><a href="tr_imst-dep-compound-redup.html">compound:redup</a></tt>]--> NOUN</tt> (5; 56%),
 <tt>NOUN --[<tt><a href="tr_imst-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (2; 100%),
 <tt>ADP --[<tt><a href="tr_imst-dep-nmod-poss.html">nmod:poss</a></tt>]--> ADJ</tt> (1; 100%),
-<tt>NOUN --[<tt><a href="tr_imst-dep-advmod-emph.html">advmod:emph</a></tt>]--> VERB</tt> (1; 100%),
 <tt>NUM --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> NUM</tt> (1; 100%),
 <tt>VERB --[<tt><a href="tr_imst-dep-cc.html">cc</a></tt>]--> PRON</tt> (1; 100%).
 

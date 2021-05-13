@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Noëmi Aepli.
 
 Repository: [UD_Swiss_German-UZH](https://github.com/UniversalDependencies/UD_Swiss_German-UZH)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgsw_uzh27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgsw_uzh28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -125,7 +125,7 @@ year={2018}
 </ul>
 
 <ul>
-<li>This corpus contains 12 types of words that contain both letters and punctuation. Examples: B​a​g​u​e​t​t​e​s​c​h​l​i​f​f​-​D​i​a​m​a​n​t​e, Chaux-de-Fonds, Informations-, Marie-Claire, Mercury-atlas-8-flug, Mont-pèlerin, Möhli-basel, Natsi-spiler, P​o​w​e​r​P​o​i​n​t​-​P​r​ä​s​e​n​t​a​t​i​o​n, Schloss-heer, Scientology-Chilä, YB-Fans</li>
+<li>This corpus contains 12 types of words that contain both letters and punctuation. Examples: Baguetteschliff-Diamante, Chaux-de-Fonds, Informations-, Marie-Claire, Mercury-atlas-8-flug, Mont-pèlerin, Möhli-basel, Natsi-spiler, PowerPoint-Präsentation, Schloss-heer, Scientology-Chilä, YB-Fans</li>
 </ul>
 
 <ul>

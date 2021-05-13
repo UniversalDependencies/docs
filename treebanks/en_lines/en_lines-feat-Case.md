@@ -7,25 +7,24 @@ udver: '2'
 ## Treebank Statistics: UD_English-LinES: Features: `Case`
 
 This feature is universal.
-It occurs with 3 different values: `Acc`, `Gen`, `Nom`.
+It occurs with 2 different values: `Acc`, `Nom`.
 
-6225 tokens (7%) have a non-empty value of `Case`.
+6224 tokens (7%) have a non-empty value of `Case`.
 589 types (6%) occur at least once with a non-empty value of `Case`.
-497 lemmas (6%) occur at least once with a non-empty value of `Case`.
-The feature is used with 15 part-of-speech tags: <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (4627; 5% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (458; 0% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (312; 0% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (265; 0% instances), <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (214; 0% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (143; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (128; 0% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (37; 0% instances), <tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (16; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-PART.html">PART</a></tt> (1; 0% instances).
+496 lemmas (6%) occur at least once with a non-empty value of `Case`.
+The feature is used with 15 part-of-speech tags: <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (4626; 5% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (458; 0% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (312; 0% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (265; 0% instances), <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> (214; 0% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (143; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (128; 0% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (37; 0% instances), <tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (16; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt> (12; 0% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-4627 <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> tokens (48% of all `PRON` tokens) have a non-empty value of `Case`.
+4626 <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> tokens (48% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="en_lines-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4626; 100%), <tt><a href="en_lines-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4328; 94%), <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3446; 74%), <tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=3</tt> (2743; 59%), <tt><a href="en_lines-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2402; 52%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="en_lines-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4626; 100%), <tt><a href="en_lines-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4327; 94%), <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3445; 74%), <tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=3</tt> (2743; 59%), <tt><a href="en_lines-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2402; 52%).
 
 `PRON` tokens may have the following values of `Case`:
 
 * `Acc` (1244; 27% of non-empty `Case`): <em>him, her, me, them, himself, us, myself, themselves, itself, herself</em>
-* `Gen` (1; 0% of non-empty `Case`): <em>her</em>
 * `Nom` (3382; 73% of non-empty `Case`): <em>he, I, they, we, she, all, other, each, others, some</em>
-* `EMPTY` (5001): <em>it, you, his, that, my, what, there, their, this, who</em>
+* `EMPTY` (5002): <em>it, you, his, that, my, what, there, their, this, who</em>
 
 <table>
   <tr><th>Paradigm <i>he</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>

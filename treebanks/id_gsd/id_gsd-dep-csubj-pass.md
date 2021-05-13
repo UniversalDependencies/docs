@@ -26,9 +26,9 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 2	pihak	pihak	NOUN	NSD	Number=Sing	10	obl	_	MorphInd=^pihak<n>_NSD$
 3	yang	yang	PRON	S--	PronType=Rel	4	nsubj	_	MorphInd=^yang<s>_S--$
 4	lain	lain	ADJ	ASP	Degree=Pos|Number=Sing	2	amod	_	SpaceAfter=No|MorphInd=^lain<a>_ASP$
-5	,	,	PUNCT	Z--	_	10	punct	_	MorphInd=^,<z>_Z--$
+5	,	,	PUNCT	Z--	_	2	punct	_	MorphInd=^,<z>_Z--$
 6	berjenis	berjenis	VERB	VSA	Number=Sing|Voice=Act	10	csubj:pass	_	MorphInd=^ber+jenis<n>_VSA$
-7	-	-	PUNCT	Z--	_	6	punct	_	MorphInd=^-<z>_Z--$
+7	-	-	PUNCT	Z--	_	8	punct	_	MorphInd=^-<z>_Z--$
 8	jenis	jenis	VERB	NSD	Number=Sing	6	fixed	_	MorphInd=^jenis<n>_NSD$
 9	ulat	ulat	NOUN	NSD	Number=Sing	6	obj	_	MorphInd=^ulat<n>_NSD$
 10	diketahui	diketahui	VERB	VSP	Number=Sing|Voice=Pass	0	root	_	MorphInd=^di+ketahui<v>_VSP$
@@ -87,7 +87,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 38	notabene	notabene	NOUN	X--	_	39	amod	_	MorphInd=^notabene<x>_X--$
 39	tinggal	tinggal	VERB	VSA	Number=Sing|Voice=Act	35	acl	_	MorphInd=^tinggal<v>_VSA$
 40	satu	satu	NUM	CC-	NumType=Card	39	nummod	_	MorphInd=^satu<c>_CC-$
-41	-	-	PUNCT	Z--	_	40	punct	_	MorphInd=^-<z>_Z--$
+41	-	-	PUNCT	Z--	_	42	punct	_	MorphInd=^-<z>_Z--$
 42	satunya	satu	NUM	CC-+PS3	Number[psor]=Sing|NumType=Card|Person[psor]=3	40	fixed	_	MorphInd=^satu<c>_CC-+dia<p>_PS3$
 43	personel	personel	NOUN	NSD	Number=Sing	39	compound	_	MorphInd=^personel<n>_NSD$
 44	awal	awal	ADJ	NSD	Number=Sing	43	amod	_	MorphInd=^awal<n>_NSD$

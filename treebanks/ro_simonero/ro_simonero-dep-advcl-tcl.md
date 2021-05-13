@@ -22,16 +22,16 @@ The following 1 pairs of parts of speech are connected with `advcl:tcl`: <tt><a 
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 6 advcl:tcl	color:blue
-1	Consultați	consulta	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	O
-2	diabeticianul	diabetician	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	obj	_	O
-3	înainte	înainte	ADV	Rgp	Degree=Pos	6	mark	_	O
-4	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	3	fixed	_	O
-5	a	a	PART	Qn	PartType=Inf	6	mark	_	O
-6	lua	lua	VERB	Vmnp	Tense=Pres|VerbForm=Inf	1	advcl:tcl	_	O
-7	orice	orice	DET	Di3--r---e	Case=Nom|Person=3|Position=Prenom|PronType=Ind	8	det	_	O
-8	supliment	supliment	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	6	obj	_	O
-9	nutritiv	nutritiv	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	O
-10	.	.	PUNCT	PERIOD	_	1	punct	_	O
+1	Consultați	consulta	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
+2	diabeticianul	diabetician	NOUN	Ncmsry	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	obj	_	_
+3	înainte	înainte	ADV	Rgp	Degree=Pos	6	mark	_	_
+4	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	3	fixed	_	_
+5	a	a	PART	Qn	PartType=Inf	6	mark	_	_
+6	lua	lua	VERB	Vmnp	Tense=Pres|VerbForm=Inf	1	advcl:tcl	_	_
+7	orice	orice	DET	Di3--r---e	Case=Nom|Person=3|Position=Prenom|PronType=Ind	8	det	_	_
+8	supliment	supliment	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	6	obj	_	_
+9	nutritiv	nutritiv	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
+10	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
 ~~~
 

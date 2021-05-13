@@ -47,9 +47,9 @@ The 2nd highest number of forms (1) was observed with the lemma “%”: <em>%</
 
 The 3rd highest number of forms (1) was observed with the lemma “&#39;&#39;”: <em>&#39;&#39;</em>.
 
-`SYM` occurs with 2 features: <tt><a href="ru_gsd-feat-Case.html">Case</a></tt> (1; 1% instances), <tt><a href="ru_gsd-feat-NumType.html">NumType</a></tt> (1; 1% instances)
+`SYM` occurs with 1 features: <tt><a href="ru_gsd-feat-Case.html">Case</a></tt> (1; 1% instances)
 
-`SYM` occurs with 2 feature-value pairs: `Case=Nom`, `NumType=Card`
+`SYM` occurs with 1 feature-value pairs: `Case=Nom`
 
 `SYM` occurs with 2 feature combinations.
 The most frequent feature combination is `_` (176 tokens).

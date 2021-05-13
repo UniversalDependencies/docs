@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Permyak-UH: Features: `Tense`
 
-This feature is universal but the values `Prt2` are language-specific.
-It occurs with 4 different values: `Fut`, `Past`, `Pres`, `Prt2`.
+This feature is universal.
+It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
 132 tokens (16%) have a non-empty value of `Tense`.
 112 types (24%) occur at least once with a non-empty value of `Tense`.
@@ -18,14 +18,13 @@ The feature is used with 3 part-of-speech tags: <tt><a href="koi_uh-pos-VERB.htm
 
 111 <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> tokens (76% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (106; 95%), <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (106; 95%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (90; 81%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt> (84; 76%), <tt><a href="koi_uh-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (80; 72%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (105; 95%), <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (105; 95%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (90; 81%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt> (83; 75%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (6; 5% of non-empty `Tense`): <em>петас, кокаласӧ, локтас, сетас, шедас</em>
-* `Past` (76; 68% of non-empty `Tense`): <em>босьтіс, быдмис, гижис, котӧртіс, краситӧм, краситӧма, пондыліс, тшӧктіс, юаліс, Локтін</em>
+* `Past` (79; 71% of non-empty `Tense`): <em>босьтіс, быдмис, гижис, котӧртіс, краситӧм, краситӧма, пондыліс, тшӧктіс, юаліс, Локтін</em>
 * `Pres` (26; 23% of non-empty `Tense`): <em>зэрӧ, тыдалӧ, Висьтала, Кылӧ, Мунан, адзза, веритан, видзӧтан, визывтӧ, вуграся</em>
-* `Prt2` (3; 3% of non-empty `Tense`): <em>вӧвдӧм, гардчӧмкодь, ылӧстӧма</em>
 * `EMPTY` (36): <em>вӧтны, осьт, адззыв, боньгыныт, бӧрйыны, вежӧртӧ, вермы, видзчисьны, воштісьны, гленитчы</em>
 
 <table>

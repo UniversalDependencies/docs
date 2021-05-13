@@ -79,7 +79,7 @@ The following 19 pairs of parts of speech are connected with `conj`: <tt><a href
 6	물론	_	NOUN	NN	_	13	advcl	_	Translit=.mul.ron|LTranslit=_
 7	세인트	_	PROPN	NNP	_	10	advmod	_	Translit=.se.in.teu|LTranslit=_
 8	헬레나	_	PROPN	NNP	_	7	flat:name	_	SpaceAfter=No|Translit=.hel.re.na|LTranslit=_
-9	와	와	PART	CM	Case=Advb|Polite=Form	7	dep:prt	_	Translit=.wa|LTranslit=_
+9	와	와	PART	CM	Polite=Form	7	case	_	Translit=.wa|LTranslit=_
 10	같은	_	ADJ	JJ	Form=Adn	12	acl:relcl	_	Translit=.gat.eun|LTranslit=_
 11	화산	_	NOUN	NN	_	12	compound	_	SpaceAfter=No|Translit=.hwa.san|LTranslit=_
 12	섬을	섬	NOUN	NN+CM	Case=Acc|Polite=Form	13	obj	_	MSeg=섬-을|Translit=.seom.eul|LTranslit=.seom

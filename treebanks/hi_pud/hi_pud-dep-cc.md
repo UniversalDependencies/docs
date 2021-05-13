@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-548 nodes (2%) are attached to their parents as `cc`.
+547 nodes (2%) are attached to their parents as `cc`.
 
-528 instances of `cc` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.28284671532847.
+528 instances of `cc` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.28336380255941.
 
-The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-CCONJ.html">CCONJ</a></tt> (209; 38% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-CCONJ.html">CCONJ</a></tt> (190; 35% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_pud-pos-CCONJ.html">CCONJ</a></tt> (72; 13% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-CCONJ.html">CCONJ</a></tt> (67; 12% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_pud-pos-CCONJ.html">CCONJ</a></tt> (6; 1% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-CCONJ.html">CCONJ</a></tt> (208; 38% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-CCONJ.html">CCONJ</a></tt> (191; 35% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_pud-pos-CCONJ.html">CCONJ</a></tt> (70; 13% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-CCONJ.html">CCONJ</a></tt> (66; 12% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_pud-pos-CCONJ.html">CCONJ</a></tt> (6; 1% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt>-<tt><a href="hi_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="hi_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -32,7 +32,7 @@ The following 8 pairs of parts of speech are connected with `cc`: <tt><a href="h
 8	यह	_	PRON	PDEM	Number=Sing	15	nsubj	_	Translit=yaha
 9	हमारे	_	PRON	PRP	Animacy=Anim|Case=Acc|Number=Plur|Person=1	15	iobj	_	Translit=hamāre
 10	लिए	_	ADP	IN	_	9	case	_	Translit=lie
-11	आगे	_	NOUN	NST	_	12	compound:conjv	_	Translit=āge
+11	आगे	_	NOUN	NST	_	12	compound:lvc	_	Translit=āge
 12	बढ़ने	_	VERB	VINF	VerbForm=Inf	14	xcomp	_	Translit=baṛhane
 13	का	_	ADP	IN	Case=Gen|Gender=Masc|Number=Sing	12	case	_	Translit=kā
 14	अवसर	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	obj	_	Translit=avasara

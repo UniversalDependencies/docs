@@ -26,7 +26,7 @@ The following 21 pairs of parts of speech are connected with `obj`: <tt><a href=
 2	أدخل	daxal-u_1	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|Voice=Act	0	root	_	_
 3	السجن	sijon_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	2	obj	_	_
 4	في	fiy_1	ADP	IN	_	6	case	_	_
-5	كل	kul~_1	DET	PDT	Case=Gen	6	det:predet	_	_
+5	كل	kul~_1	DET	PDT	Case=Gen	6	det	_	_
 6	الأحوال	HAl_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
 7	,	,_0	PUNCT	,	_	8	punct	_	_
 8	آمل	>amal-a_1	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	2	parataxis	_	_
@@ -76,13 +76,13 @@ The following 21 pairs of parts of speech are connected with `obj`: <tt><a href=
 1	من	min_1	ADP	IN	_	0	root	_	_
 2	المرجح	muraj~iH_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obj	_	_
 3	أن	>ano_1	ADP	IN	_	7	mark	_	_
-4	هذه	h`*A_1	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing	5	det:predet	_	_
+4	هذه	h`*A_1	PRON	PDEM	Case=Acc|Gender=Fem|Number=Sing	5	det	_	_
 5	المادة	mAd~ap_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Fem|Number=Sing	7	nsubj	_	_
 6	النيزكية	nayozakiy~_1	ADJ	JJ	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	5	amod	_	_
 7	غنية	ganiy~_1	ADJ	JJ	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing	1	csubj	_	_
 8	ب	b	ADP	IN	_	9	case	_	SpaceAfter=No
 9	عنصر	EunoSur_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	obl	_	_
-10	الإيريديوم	Ayrydywm_0	NOUN	NN	Animacy=Nhum|Definite=Def|Gender=Masc|Number=Sing	9	nmod:gmod	_	SpaceAfter=No
+10	الإيريديوم	Ayrydywm_0	NOUN	NN	Animacy=Nhum|Definite=Def|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
 11	.	._0	PUNCT	.	_	1	punct	_	_
 
 ~~~

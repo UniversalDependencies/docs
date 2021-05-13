@@ -8,31 +8,25 @@ udver: '2'
 
 This relation is universal.
 
-322 nodes (3%) are attached to their parents as `compound`.
+348 nodes (3%) are attached to their parents as `compound`.
 
-318 instances of `compound` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.39751552795031.
+330 instances of `compound` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.4051724137931.
 
-The following 27 pairs of parts of speech are connected with `compound`: <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (118; 37% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (85; 26% instances), <tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt>-<tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt> (25; 8% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (21; 7% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (20; 6% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (10; 3% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (10; 3% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-PUNCT.html">PUNCT</a></tt> (3; 1% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="bxr_bdt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt>-<tt><a href="bxr_bdt-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt>-<tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-SYM.html">SYM</a></tt>-<tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 28 pairs of parts of speech are connected with `compound`: <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (141; 41% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (85; 24% instances), <tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt>-<tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt> (26; 7% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (21; 6% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (21; 6% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (11; 3% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (10; 3% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (6; 2% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt>-<tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt>-<tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt>-<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt>-<tt><a href="bxr_bdt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-SYM.html">SYM</a></tt>-<tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt>-<tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 2 compound	color:blue
-1	Хүбүүн	хүбүүн	NOUN	_	Case=Nom	4	nsubj	_	_
-2	гэрэйхи	гэр	NOUN	_	Case=Nom	3	compound	_	_
-3	ажалаа	ажал	NOUN	_	Case=Nom|Reflex=Yes	4	obj	_	_
-4	абанхай	аба	VERB	_	_	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	4	punct	_	_
-6	юундэб	юундэб	ADP	_	_	10	mark	_	_
-7	гэхэдэ	гэхэ	PART	_	_	10	discourse	_	SpaceAfter=No
-8	,	,	PUNCT	_	_	10	punct	_	_
-9	багшань	багша	NOUN	_	Case=Nom|Number[psor]=Sing|Person[psor]=3	10	nsubj	_	_
-10	шалгаха	шалга	VERB	_	_	4	advcl	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	10	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 compound	color:blue
+1	Мааттида	Маатти	PROPN	_	Case=Dat|Gender=Masc	0	root	_	Gloss=to.Maatti
+2	шэнэ	шэнэ	ADJ	_	_	4	amod	_	Gloss=new
+3	түмэр	түмэр	NOUN	_	_	4	compound	_	Gloss=iron
+4	морин	морин	NOUN	_	Case=Nom	1	nsubj	_	Gloss=horse|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
 ~~~
 

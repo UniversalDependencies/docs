@@ -13,7 +13,7 @@ The 10 most frequent `SCONJ` lemmas: _
 
 The 10 most frequent `SCONJ` types:  หาก
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 6052, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 4977, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 3134, <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> 1495, <tt><a href="th_pud-pos-DET.html">DET</a></tt> 1040, <tt><a href="th_pud-pos-PART.html">PART</a></tt> 1009, <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> 969, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 951, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 683, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 592, <tt><a href="th_pud-pos-NUM.html">NUM</a></tt> 581, <tt><a href="th_pud-pos-AUX.html">AUX</a></tt> 432, <tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> 272, <tt><a href="th_pud-pos-SYM.html">SYM</a></tt> 134, <tt><a href="th_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: _ (<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> 6052, <tt><a href="th_pud-pos-VERB.html">VERB</a></tt> 4361, <tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 3134, <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt> 1495, <tt><a href="th_pud-pos-AUX.html">AUX</a></tt> 1449, <tt><a href="th_pud-pos-DET.html">DET</a></tt> 1040, <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> 969, <tt><a href="th_pud-pos-ADV.html">ADV</a></tt> 951, <tt><a href="th_pud-pos-PRON.html">PRON</a></tt> 683, <tt><a href="th_pud-pos-PART.html">PART</a></tt> 608, <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt> 592, <tt><a href="th_pud-pos-NUM.html">NUM</a></tt> 581, <tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> 272, <tt><a href="th_pud-pos-SYM.html">SYM</a></tt> 134, <tt><a href="th_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  หาก (<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> 13, <tt><a href="th_pud-pos-SCONJ.html">SCONJ</a></tt> 1)
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  หาก (<tt><a href="th_pud-pos-ADP.ht
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 286.933333).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 287.266667).
 
 The 1st highest number of forms (1) was observed with the lemma “_”: หาก.
 

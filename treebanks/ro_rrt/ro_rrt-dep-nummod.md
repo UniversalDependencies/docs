@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4230 nodes (2%) are attached to their parents as `nummod`.
+4239 nodes (2%) are attached to their parents as `nummod`.
 
-2221 instances of `nummod` (53%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.67541371158392.
+2227 instances of `nummod` (53%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.67492333097429.
 
-The following 14 pairs of parts of speech are connected with `nummod`: <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (3624; 86% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (354; 8% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (111; 3% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (71; 2% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (25; 1% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (17; 0% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="ro_rrt-pos-X.html">X</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `nummod`: <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (3643; 86% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (352; 8% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (111; 3% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (70; 2% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (24; 1% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (16; 0% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="ro_rrt-pos-X.html">X</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,9 +22,9 @@ The following 14 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nummod	color:blue
-1	4	4	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	2	nummod	_	_
-2	aprilie	aprilie	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
-3	1984	1984	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	2	nummod	_	SpaceAfter=No
+1	4	4	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	2	nummod	_	_
+2	aprilie	aprilie	NOUN	Ncm--n	Definite=Ind|Gender=Masc	0	root	_	_
+3	1984	1984	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	2	nummod	_	SpaceAfter=No
 4	,	,	PUNCT	COMMA	_	5	punct	_	_
 5	Aseară	aseară	ADV	Rgp	Degree=Pos	2	advmod	_	_
 6	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_

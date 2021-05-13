@@ -66,11 +66,11 @@ The following 9 pairs of parts of speech are connected with `mark`: <tt><a href=
 3	бѫдетъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	cop	_	ref=MATT_6.22
 4	око	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	ref=MATT_6.22
 5	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	4	nmod	_	ref=MATT_6.22
-6	просто	простъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	10	advcl	_	ref=MATT_6.22
+6	просто	простъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	10	advcl	_	ref=MATT_6.22
 7	вьсе	вьсь	DET	Px	Case=Nom|Gender=Neut|Number=Sing	8	det	_	ref=MATT_6.22
 8	тѣло	тѣло	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	ref=MATT_6.22
 9	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	8	nmod	_	ref=MATT_6.22
-10	свѣтъло	свѣтьлъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	0	root	_	ref=MATT_6.22
+10	свѣтъло	свѣтьлъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	ref=MATT_6.22
 11	бѫдетъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	10	cop	_	ref=MATT_6.22
 
 ~~~

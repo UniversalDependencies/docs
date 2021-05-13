@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of ADP in UD_Old_Russian-RNC'
+title:  'Statistics of ADP in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: POS Tags: `ADP`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: POS Tags: `ADP`
 
 There are 60 `ADP` lemmas (1%), 103 `ADP` types (1%) and 3482 `ADP` tokens (11%).
 Out of 17 observed tags, the rank of `ADP` is: 7 in number of lemmas, 9 in number of types and 3 in number of tokens.
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>о</em> (<tt><a href="orv_rnc-pos-ADP
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.716667 (the average of all parts of speech is 1.947446).
+The form / lemma ratio of `ADP` is 1.716667 (the average of all parts of speech is 1.947924).
 
 The 1st highest number of forms (7) was observed with the lemma “въ”: <em>в, в-, во, въ, въво, у, уво</em>.
 

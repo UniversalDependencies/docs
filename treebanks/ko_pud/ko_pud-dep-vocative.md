@@ -25,9 +25,9 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 1	그것은	그것	PRON	PRD+CM	Case=Nom|Polite=Form	7	nsubj	_	MSeg=그것-은|Translit=.geu.geos.eun|LTranslit=.geu.geos
 2	우리	_	NOUN	NN	_	5	advmod	_	Translit=.u.ri|LTranslit=_
 3	나라	_	NOUN	_	_	2	goeswith	_	SpaceAfter=No|Translit=.na.ra|LTranslit=_
-4	에	에	PART	CM	Case=Advb|Polite=Form	2	dep:prt	_	Translit=.e|LTranslit=_
+4	에	에	PART	CM	Polite=Form	2	case	_	Translit=.e|LTranslit=_
 5	필요한	_	NOUN	NN	_	6	dep	_	SpaceAfter=No|Translit=.pil.yo.han|LTranslit=_
-6	것이	것	NOUN	NNB+CM	Case=Comp|Polite=Form	7	compound:lvc	_	MSeg=것-이|Translit=.geos.i|LTranslit=.geos
+6	것이	것	NOUN	NNB+CM	Polite=Form	7	compound:lvc	_	MSeg=것-이|Translit=.geos.i|LTranslit=.geos
 7	아닙니다	_	ADJ	JJ	Mood=Ind|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=.a.nib.ni.da|LTranslit=_
 8	,	,	PUNCT	,	_	9	punct	_	Translit=,|LTranslit=_
 9	여러분	_	PRON	PRP	Person=2	7	vocative	_	SpaceAfter=No|Translit=.yeo.reo.bun|LTranslit=_

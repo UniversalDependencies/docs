@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of acl:relcl in UD_Old_Russian-RNC'
+title:  'Statistics of acl:relcl in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Relations: `acl:relcl`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Relations: `acl:relcl`
 
 This relation is a language-specific subtype of <tt><a href="orv_rnc-dep-acl.html">acl</a></tt>.
 
@@ -33,7 +33,7 @@ The following 18 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 9	земля	земля	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	10	obl	_	Norm=земля|SpaceAfter=Yes
 10	созда	создати	VERB	Tense=Aor	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	acl:relcl	_	Norm=созда|SpaceAfter=Yes
 11	человека	человекъ	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	Norm=человека|SpaceAfter=No
-12	!	!	PUNCT	_	_	1	punct	_	Norm=!|SpaceAfter=No
+12	!	!	PUNCT	_	_	1	punct	_	Norm=!
 
 ~~~
 
@@ -65,7 +65,7 @@ The following 18 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 19	по	по	ADP	_	_	20	case	_	Norm=по|SpaceAfter=Yes
 20	имени	имя	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	17	obl	_	Norm=имени|SpaceAfter=Yes
 21	своему	свой	DET	_	Case=Dat|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	20	det	_	Norm=своему|SpaceAfter=No
-22	.	.	PUNCT	_	_	3	punct	_	Norm=.|SpaceAfter=No
+22	.	.	PUNCT	_	_	3	punct	_	Norm=.
 
 ~~~
 

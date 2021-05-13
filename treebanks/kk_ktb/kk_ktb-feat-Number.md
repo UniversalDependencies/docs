@@ -20,7 +20,7 @@ The feature is used with 6 part-of-speech tags: <tt><a href="kk_ktb-pos-VERB.htm
 
 758 <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> tokens (48% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (758; 100%), <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (754; 99%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (717; 95%), <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (666; 88%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=3</tt> (619; 82%), <tt><a href="kk_ktb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (610; 80%), <tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (381; 50%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (754; 99%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (717; 95%), <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (664; 88%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=3</tt> (619; 82%), <tt><a href="kk_ktb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (610; 80%), <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (486; 64%), <tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (381; 50%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -30,12 +30,12 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>де</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>деймін</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>дейсің</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>дейді</em></td><td><em>дейді</em></td></tr>
   <tr><td><tt><tt><a href="kk_ktb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt>|<tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kk_ktb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>демепті</em></td></tr>
   <tr><td><tt><tt><a href="kk_ktb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt>|<tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>деген екен</em></td><td></td></tr>
   <tr><td><tt><tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td><em>десең</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Aor</tt>|<tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>деймін</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Aor</tt>|<tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>дейсің</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Aor</tt>|<tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>дейді</em></td><td><em>дейді</em></td></tr>
   <tr><td><tt><tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>деді</em></td><td><em>деді</em></td></tr>
 </table>
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 301 <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> tokens (72% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (301; 100%), <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (301; 100%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (289; 96%), <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (276; 92%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=3</tt> (254; 84%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (301; 100%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (289; 96%), <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (273; 91%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=3</tt> (254; 84%), <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (219; 73%).
 
 `AUX` tokens may have the following values of `Number`:
 
@@ -66,9 +66,9 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 <table>
   <tr><th>Paradigm <i>е</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="kk_ktb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt>|<tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Aor</tt></tt></td><td><em>екен</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Aor</tt></tt></td><td><em>мын</em></td><td><em>быз, міз, піз, терміз</em></td></tr>
-  <tr><td><tt><tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kk_ktb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Aor</tt></tt></td><td><em>емес</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="kk_ktb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt>|<tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>екен</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>мын</em></td><td><em>быз, міз, піз, терміз</em></td></tr>
+  <tr><td><tt><tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kk_ktb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>емес</em></td><td></td></tr>
   <tr><td><tt><tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>еді</em></td><td></td></tr>
 </table>
 

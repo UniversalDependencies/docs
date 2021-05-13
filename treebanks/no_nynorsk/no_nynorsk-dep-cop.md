@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7019 nodes (2%) are attached to their parents as `cop`.
+7020 nodes (2%) are attached to their parents as `cop`.
 
-6790 instances of `cop` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.28707793132925.
+6791 instances of `cop` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.28703703703704.
 
-The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (3027; 43% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (2741; 39% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (376; 5% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (222; 3% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (217; 3% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (197; 3% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (98; 1% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (92; 1% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (45; 1% instances), <tt><a href="no_nynorsk-pos-X.html">X</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (4; 0% instances).
+The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (3016; 43% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (2742; 39% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (387; 6% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (222; 3% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (217; 3% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (197; 3% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (98; 1% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (92; 1% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (45; 1% instances), <tt><a href="no_nynorsk-pos-X.html">X</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (4; 0% instances).
 
 
 ~~~ conllu

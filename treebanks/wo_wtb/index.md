@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Bamba Dione.
 
 Repository: [UD_Wolof-WTB](https://github.com/UniversalDependencies/UD_Wolof-WTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udwo_wtb27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udwo_wtb28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -677,7 +677,6 @@ The treebank is developed by Cheikh Bamba Dione. The syntactic annotation was ch
       <li>Compl
         <ul>
           <li>AUX: la, lañu, laa, lees, lanu, nga</li>
-          <li>PRON: nu</li>
         </ul>
       </li>
       <li>Subj

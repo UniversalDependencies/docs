@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Gustavo Mendonça, Larissa Rinaldi, Martin Popel, Daniel Zeman, Valeria de Paiva, Alexandre Rademaker.
 
 Repository: [UD_Portuguese-PUD](https://github.com/UniversalDependencies/UD_Portuguese-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_pud27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpt_pud28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 3.0
 
@@ -49,23 +49,24 @@ Universal Dependencies](http://universaldependencies.org/conll17/).
 
 
 
-There are
-1000 sentences in each language, always in the same order. (The sentence
-alignment is 1-1 but occasionally a sentence-level segment actually consists
-of two real sentences.) The sentences are taken from the news domain (sentence
-id starts in ‘n’) and from Wikipedia (sentence id starts with ‘w’). There are
-usually only a few sentences from each document, selected randomly, not
-necessarily adjacent. The digits on the second and third position in the
-sentence ids encode the original language of the sentence. The first 750
-sentences are originally English (01). The remaining 250 sentences are
-originally German (02), French (03), Italian (04) or Spanish (05) and they
-were translated to other languages via English. Translation into German,
-French, Italian, Spanish, Arabic, Hindi, Chinese, Indonesian, Japanese,
-Korean, Portuguese, Russian, Thai and Turkish has been provided by DFKI and
-performed (except for German) by professional translators. Then the data has
-been annotated morphologically and syntactically by Google according to Google
-universal annotation guidelines; finally, it has been converted by members of
-the UD community to UD v2 guidelines.
+There are 1000 sentences in each language, always in the same
+order. (The sentence alignment is 1-1 but occasionally a
+sentence-level segment actually consists of two real sentences.) The
+sentences are taken from the news domain (sentence id starts in ‘n’)
+and from Wikipedia (sentence id starts with ‘w’). There are usually
+only a few sentences from each document, selected randomly, not
+necessarily adjacent. The digits on the second and third position in
+the sentence ids encode the original language of the sentence. The
+first 750 sentences are originally English (01). The remaining 250
+sentences are originally German (02), French (03), Italian (04) or
+Spanish (05) and they were translated to other languages via
+English. Translation into German, French, Italian, Spanish, Arabic,
+Hindi, Chinese, Indonesian, Japanese, Korean, Portuguese, Russian,
+Thai and Turkish has been provided by DFKI and performed (except for
+German) by professional translators. Then the data has been annotated
+morphologically and syntactically by Google according to Google
+universal annotation guidelines; finally, it has been converted by
+members of the UD community to UD v2 guidelines.
 
 Additional languages have been provided (both translation and native UD v2
 annotation) by other teams: Czech by Charles University, Finnish by University
@@ -90,13 +91,13 @@ employ ten-fold cross-validation.
 
 ## Relations
 
-[acl](pt_pud-dep-acl.html) – [acl:relcl](pt_pud-dep-acl-relcl.html) – [advcl](pt_pud-dep-advcl.html) – [advmod](pt_pud-dep-advmod.html) – [amod](pt_pud-dep-amod.html) – [appos](pt_pud-dep-appos.html) – [aux](pt_pud-dep-aux.html) – [aux:pass](pt_pud-dep-aux-pass.html) – [case](pt_pud-dep-case.html) – [cc](pt_pud-dep-cc.html) – [cc:preconj](pt_pud-dep-cc-preconj.html) – [ccomp](pt_pud-dep-ccomp.html) – [compound](pt_pud-dep-compound.html) – [conj](pt_pud-dep-conj.html) – [cop](pt_pud-dep-cop.html) – [csubj](pt_pud-dep-csubj.html) – [csubj:pass](pt_pud-dep-csubj-pass.html) – [dep](pt_pud-dep-dep.html) – [det](pt_pud-dep-det.html) – [det:predet](pt_pud-dep-det-predet.html) – [discourse](pt_pud-dep-discourse.html) – [dislocated](pt_pud-dep-dislocated.html) – [expl:pv](pt_pud-dep-expl-pv.html) – [fixed](pt_pud-dep-fixed.html) – [flat](pt_pud-dep-flat.html) – [flat:name](pt_pud-dep-flat-name.html) – [iobj](pt_pud-dep-iobj.html) – [mark](pt_pud-dep-mark.html) – [nmod](pt_pud-dep-nmod.html) – [nsubj](pt_pud-dep-nsubj.html) – [nsubj:pass](pt_pud-dep-nsubj-pass.html) – [nummod](pt_pud-dep-nummod.html) – [obj](pt_pud-dep-obj.html) – [obl](pt_pud-dep-obl.html) – [obl:tmod](pt_pud-dep-obl-tmod.html) – [orphan](pt_pud-dep-orphan.html) – [parataxis](pt_pud-dep-parataxis.html) – [punct](pt_pud-dep-punct.html) – [root](pt_pud-dep-root.html) – [vocative](pt_pud-dep-vocative.html) – [xcomp](pt_pud-dep-xcomp.html)
+[acl](pt_pud-dep-acl.html) – [acl:relcl](pt_pud-dep-acl-relcl.html) – [advcl](pt_pud-dep-advcl.html) – [advmod](pt_pud-dep-advmod.html) – [amod](pt_pud-dep-amod.html) – [appos](pt_pud-dep-appos.html) – [aux](pt_pud-dep-aux.html) – [aux:pass](pt_pud-dep-aux-pass.html) – [case](pt_pud-dep-case.html) – [cc](pt_pud-dep-cc.html) – [cc:preconj](pt_pud-dep-cc-preconj.html) – [ccomp](pt_pud-dep-ccomp.html) – [compound](pt_pud-dep-compound.html) – [conj](pt_pud-dep-conj.html) – [cop](pt_pud-dep-cop.html) – [csubj](pt_pud-dep-csubj.html) – [csubj:pass](pt_pud-dep-csubj-pass.html) – [dep](pt_pud-dep-dep.html) – [det](pt_pud-dep-det.html) – [discourse](pt_pud-dep-discourse.html) – [dislocated](pt_pud-dep-dislocated.html) – [expl:pv](pt_pud-dep-expl-pv.html) – [fixed](pt_pud-dep-fixed.html) – [flat](pt_pud-dep-flat.html) – [flat:name](pt_pud-dep-flat-name.html) – [iobj](pt_pud-dep-iobj.html) – [mark](pt_pud-dep-mark.html) – [nmod](pt_pud-dep-nmod.html) – [nsubj](pt_pud-dep-nsubj.html) – [nsubj:pass](pt_pud-dep-nsubj-pass.html) – [nummod](pt_pud-dep-nummod.html) – [obj](pt_pud-dep-obj.html) – [obl](pt_pud-dep-obl.html) – [obl:tmod](pt_pud-dep-obl-tmod.html) – [orphan](pt_pud-dep-orphan.html) – [parataxis](pt_pud-dep-parataxis.html) – [punct](pt_pud-dep-punct.html) – [root](pt_pud-dep-root.html) – [vocative](pt_pud-dep-vocative.html) – [xcomp](pt_pud-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 1000 sentences, 21917 tokens and 23395 syntactic words.</li>
+<li>This corpus contains 1000 sentences, 21917 tokens and 23407 syntactic words.</li>
 </ul>
 
 <ul>
@@ -112,8 +113,8 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 1478 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 35 types of multi-word tokens. Examples: da, do, no, na, dos, ao, das, à, nos, pelo, pela, nas, pelos, às, aos, desta, disso, deste, deles, numa, pelas, dele, num, desses, nesta, destes, delas, neste, Nisto, bem-sucedido, dela, destas, disto, nisso, norte-coreano.</li>
+<li>This corpus contains 1490 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 43 types of multi-word tokens. Examples: da, do, no, na, dos, ao, das, à, nos, pelo, pela, nas, pelos, às, aos, desta, disso, deste, deles, numa, pelas, dele, num, desses, naquele, nesta, destes, delas, naquilo, neste, Nisto, bem-sucedido, daquele, dela, destas, disto, naquela, naqueles, nele, neles, nisso, norte-coreano, àquela.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -129,11 +130,11 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 11 lemmas tagged as pronouns (PRON): _, ela, elas, ele, eles, este, eu, o, que, quem, tudo</li>
+<li>This corpus contains 12 lemmas tagged as pronouns (PRON): _, aquilo, ela, elas, ele, eles, este, eu, o, que, quem, tudo</li>
 </ul>
 
 <ul>
-<li>This corpus contains 9 lemmas tagged as determiners (DET): _, cujo, esse, este, nosso, o, outro, seu, um</li>
+<li>This corpus contains 10 lemmas tagged as determiners (DET): _, aquele, cujo, esse, este, nosso, o, outro, seu, um</li>
 </ul>
 
 <ul>
@@ -177,23 +178,15 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-  <li>Com
-    <ul>
-      <li>NOUN: porta-voz</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li>Fem
     <ul>
       <li>ADJ: primeira, nova, grande, mais, maior, grandes, segunda, última, americana, britânica</li>
-      <li>ADP: a, nessa, daquela, naquela, àquela</li>
+      <li>ADP: a, nessa, daquela</li>
       <li>AUX: consideradas, deixada, nomeada</li>
       <li>DET: a, as, uma, esta, várias, outras, muitas, cada, própria, estas</li>
       <li>NOUN: vez, pessoas, guerra, parte, cidade, região, vida, vezes, volta, área</li>
       <li>NUM: duas, uma, 760, 15,001, 19,999, 330.000, 360, 500, 600.000</li>
-      <li>PRON: sua, ela, suas, a, elas, esta, minha, nossa, essa, la</li>
+      <li>PRON: sua, ela, suas, a, elas, esta, minha, nossa, aquela, essa</li>
       <li>PROPN: China, América, Austrália, Europa, França, Grécia, Itália, Albânia, Clinton, Paris</li>
       <li>VERB: conhecidas, construída, crescidas, derrotada, destruída, dividida, encontrada, estabelecidas, formada, levantadas</li>
     </ul>
@@ -204,7 +197,7 @@ employ ten-fold cross-validation.
   <li>Masc
     <ul>
       <li>ADJ: grande, mais, novos, primeiro, últimos, novo, maior, Unidos, todo, melhor</li>
-      <li>ADP: naquele, naquilo, nesse, Aqueles, consigo, daquele, naqueles, nele, neles, nestes</li>
+      <li>ADP: nesse, Aqueles, consigo, nestes</li>
       <li>AUX: declarado, proclamado, chamado, considerados, tornado</li>
       <li>DET: o, os, um, este, muitos, cada, isso, outros, vários, alguns</li>
       <li>NOUN: anos, ano, governo, estado, mundo, acordo, século, tempo, sul, dia</li>
@@ -225,7 +218,7 @@ employ ten-fold cross-validation.
   <li>Plur
     <ul>
       <li>ADJ: novos, grandes, últimos, mais, Unidos, agrícolas, indígenas, políticos, Olímpicos, americanos</li>
-      <li>ADP: Aqueles, naqueles, neles, nestes</li>
+      <li>ADP: Aqueles, nestes</li>
       <li>AUX: foram, são, estão, podem, tinham, eram, estavam, têm, começaram, poderiam</li>
       <li>AUX-Fin: são</li>
       <li>DET: os, as, muitos, várias, outras, muitas, outros, vários, alguns, estes</li>
@@ -243,7 +236,7 @@ employ ten-fold cross-validation.
   <li>Sing
     <ul>
       <li>ADJ: grande, primeira, maior, nova, mais, primeiro, nacional, novo, melhor, segunda</li>
-      <li>ADP: naquele, a, naquilo, nessa, nesse, consigo, daquela, daquele, naquela, nele</li>
+      <li>ADP: a, nessa, nesse, consigo, daquela</li>
       <li>AUX: é, foi, está, pode, tinha, estava, era, tem, seria, começou</li>
       <li>AUX-Fin: É</li>
       <li>DET: o, a, um, uma, esta, este, cada, isso, outro, mesmo</li>
@@ -508,7 +501,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>3
     <ul>
-      <li>ADP: consigo, nele, neles</li>
+      <li>ADP: consigo</li>
       <li>AUX: é, foi, foram, são, está, pode, tinha, estava, estão, podem</li>
       <li>AUX-Fin: são, É</li>
       <li>PRON: se, ele, sua, seu, eles, ela, suas, seus, o, lo</li>
@@ -578,8 +571,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (515)</li>
-      <li>VERB--NOUN-ADP(de) (1)</li>
+      <li>VERB--NOUN (514)</li>
+      <li>VERB--NOUN-ADP(de) (2)</li>
       <li>VERB--PRON (156)</li>
       <li>VERB--PRON-Nom (173)</li>
       <li>VERB-Fin--PRON (1)</li>
@@ -596,6 +589,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(a) (1)</li>
       <li>VERB--NOUN-ADP(em) (1)</li>
       <li>VERB--PRON (36)</li>
+      <li>VERB--PRON-ADP(a) (1)</li>
+      <li>VERB--PRON-ADP(em) (1)</li>
       <li>VERB--PRON-Acc (37)</li>
       <li>VERB-Fin--NOUN (1)</li>
       <li>VERB-Fin--NOUN-ADP(de) (1)</li>
@@ -607,6 +602,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
+      <li>VERB--PRON-ADP(em) (3)</li>
       <li>VERB--PRON-Dat (7)</li>
     </ul>
   </li>
@@ -615,7 +611,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 47 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: _ se, tornar se, aplicar se, encontrar se, casar se, considerar se, estender se, matricular se, reunir se, unir se, acreditar se, apaixonar se, arrepender se, beneficiar se, campeão se, dar se, declarar se, desarmado se, desenvolver se, desintegrar se, desmoronar se, dividido se, encaixar se, encher se, encontrar nos, estabelecer se, expandir se, expressar se, identificar se, imergir se, impor se, impossível se, inimigo se, inscrever se, inválido se, ler se, melhor se, mercado se, mudar se, opor se, orgulhar se, poderoso me, presidente se, questionar se, recuperar se, recusar se, render se</li>
+  <li>This corpus contains 48 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: _ se, tornar se, aplicar se, encontrar se, casar se, considerar se, estender se, matricular se, reunir se, unir se, acreditar se, apaixonar se, arrepender se, basear se, beneficiar se, campeão se, dar se, declarar se, desarmado se, desenvolver se, desintegrar se, desmoronar se, dividido se, encaixar se, encher se, encontrar nos, estabelecer se, expandir se, expressar se, identificar se, imergir se, impor se, impossível se, inimigo se, inscrever se, inválido se, ler se, melhor se, mercado se, mudar se, opor se, orgulhar se, poderoso me, presidente se, questionar se, recuperar se, recusar se, render se</li>
 </ul>
 
 
@@ -623,7 +619,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>expl:pv</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>csubj:pass</a>, <a>expl:pv</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:tmod</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
 <li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

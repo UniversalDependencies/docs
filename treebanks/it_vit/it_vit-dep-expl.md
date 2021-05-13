@@ -12,7 +12,7 @@ There are 2 language-specific subtypes of `expl`: <tt><a href="it_vit-dep-expl-i
 2780 nodes (1%) are attached to their parents as `expl`.
 
 2263 instances of `expl` (81%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.33956834532374.
+Average distance between parent and child is 1.33992805755396.
 
 The following 6 pairs of parts of speech are connected with `expl`: <tt><a href="it_vit-pos-VERB.html">VERB</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (2748; 99% instances), <tt><a href="it_vit-pos-PRON.html">PRON</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (12; 0% instances), <tt><a href="it_vit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (11; 0% instances), <tt><a href="it_vit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="it_vit-pos-ADV.html">ADV</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="it_vit-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_vit-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
@@ -24,7 +24,7 @@ The following 6 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 10	fgColor:white
 # visual-style 10 9 expl	color:blue
 1	Ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	l'	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
 3	acqua	acqua	NOUN	S	Gender=Fem|Number=Sing	1	obj	_	_
 4	calda	caldo	ADJ	A	Gender=Fem|Number=Sing	3	amod	_	SpaceAfter=No
 5	,	,	PUNCT	FF	_	10	punct	_	_

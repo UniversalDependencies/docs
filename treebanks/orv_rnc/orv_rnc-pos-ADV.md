@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of ADV in UD_Old_Russian-RNC'
+title:  'Statistics of ADV in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: POS Tags: `ADV`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: POS Tags: `ADV`
 
 There are 194 `ADV` lemmas (5%), 233 `ADV` types (3%) and 480 `ADV` tokens (2%).
 Out of 17 observed tags, the rank of `ADV` is: 5 in number of lemmas, 6 in number of types and 11 in number of tokens.
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>тако</em> (<tt><a href="orv_rnc-p
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.201031 (the average of all parts of speech is 1.947446).
+The form / lemma ratio of `ADV` is 1.201031 (the average of all parts of speech is 1.947924).
 
 The 1st highest number of forms (5) was observed with the lemma “много”: <em>боле, мног, многа, много, побольши</em>.
 

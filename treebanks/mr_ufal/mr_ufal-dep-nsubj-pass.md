@@ -7,7 +7,6 @@ udver: '2'
 ## Treebank Statistics: UD_Marathi-UFAL: Relations: `nsubj:pass`
 
 This relation is a language-specific subtype of <tt><a href="mr_ufal-dep-nsubj.html">nsubj</a></tt>.
-There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="mr_ufal-dep-nsubj-own.html">nsubj:own</a></tt>.
 
 7 nodes (0%) are attached to their parents as `nsubj:pass`.
 

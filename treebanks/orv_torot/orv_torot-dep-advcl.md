@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of advcl in UD_Old_Russian-TOROT'
+title:  'Statistics of advcl in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Relations: `advcl`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Relations: `advcl`
 
 This relation is universal.
 
@@ -28,7 +28,7 @@ The following 47 pairs of parts of speech are connected with `advcl`: <tt><a hre
 4	чето	чьто	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	7	obj	_	ref=
 5	ти	ты	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	iobj	_	ref=
 6	есемо	быти	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	ref=
-7	водала	въдати	VERB	V-	Aspect=Res|Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	3	obj	_	ref=
+7	водала	въдати	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	3	obj	_	ref=
 8	ковати	ковати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	advcl	_	ref=
 
 ~~~
@@ -42,12 +42,12 @@ The following 47 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 5 3 advcl	color:blue
 1	моисѣеви	моисеи	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	3	nsubj	_	ref=94.20
 2	же	же	ADV	Df	_	5	discourse	_	ref=94.20
-3	възмогъшю	възмощи	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	5	advcl	_	ref=94.21
+3	възмогъшю	възмощи	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	5	advcl	_	ref=94.21
 4	быс	быти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	ref=94.21
-5	великъ	великыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	0	root	_	ref=94.21
+5	великъ	великыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	ref=94.21
 6	в	въ	ADP	R-	_	7	case	_	ref=94.21
 7	дому	домъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	5	obl	_	ref=94.21
-8	фараѡни	фараонь	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	7	amod	_	ref=94.21
+8	фараѡни	фараонь	ADJ	A-	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	7	amod	_	ref=94.21
 
 ~~~
 
@@ -64,9 +64,9 @@ The following 47 pairs of parts of speech are connected with `advcl`: <tt><a hre
 4	твои	твои	ADJ	Ps	Case=Nom|Gender=Masc|Number=Sing|Person=2|Poss=Yes	3	nmod	_	ref=56.3
 5	аки	акы	ADV	Df	_	0	root	_	ref=56.3
 6	волкъ	вълкъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=56.3
-7	восхищая	въсхыщати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	5	advcl	_	ref=56.3
+7	восхищая	въсхыщати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	5	advcl	_	ref=56.3
 8	и	и	CCONJ	C-	_	7	cc	_	ref=56.3
-9	грабѧ	грабити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	7	conj	_	ref=56.3
+9	грабѧ	грабити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	7	conj	_	ref=56.3
 
 ~~~
 

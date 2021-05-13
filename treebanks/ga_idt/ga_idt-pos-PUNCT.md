@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Irish-IDT: POS Tags: `PUNCT`
 
-There are 29 `PUNCT` lemmas (0%), 28 `PUNCT` types (0%) and 11181 `PUNCT` tokens (10%).
-Out of 17 observed tags, the rank of `PUNCT` is: 13 in number of lemmas, 14 in number of types and 3 in number of tokens.
+There are 29 `PUNCT` lemmas (0%), 28 `PUNCT` types (0%) and 11183 `PUNCT` tokens (10%).
+Out of 17 observed tags, the rank of `PUNCT` is: 11 in number of lemmas, 14 in number of types and 3 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>., ,, ', (, ), -, :, ?, /, ;</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 0.965517 (the average of all parts of speech is 1.545394).
+The form / lemma ratio of `PUNCT` is 0.965517 (the average of all parts of speech is 1.643740).
 
 The 1st highest number of forms (3) was observed with the lemma “.”: <em>,, ., ?</em>.
 
@@ -34,11 +34,11 @@ The 3rd highest number of forms (1) was observed with the lemma “"”: <em>"</
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="ga_idt-dep-punct.html">punct</a></tt> (11171; 100% instances), <tt><a href="ga_idt-dep-root.html">root</a></tt> (10; 0% instances)
+`PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="ga_idt-dep-punct.html">punct</a></tt> (11173; 100% instances), <tt><a href="ga_idt-dep-root.html">root</a></tt> (10; 0% instances)
 
-Parents of `PUNCT` nodes belong to 18 different parts of speech: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (4924; 44% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (3548; 32% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (767; 7% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (561; 5% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (284; 3% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (229; 2% instances), <tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (200; 2% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (165; 1% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (144; 1% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (132; 1% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt> (59; 1% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (49; 0% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt> (47; 0% instances), <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> (28; 0% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (20; 0% instances),  (10; 0% instances), <tt><a href="ga_idt-pos-SYM.html">SYM</a></tt> (9; 0% instances), <tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances)
+Parents of `PUNCT` nodes belong to 18 different parts of speech: <tt><a href="ga_idt-pos-VERB.html">VERB</a></tt> (4948; 44% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (3564; 32% instances), <tt><a href="ga_idt-pos-PROPN.html">PROPN</a></tt> (737; 7% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (559; 5% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (287; 3% instances), <tt><a href="ga_idt-pos-NUM.html">NUM</a></tt> (225; 2% instances), <tt><a href="ga_idt-pos-CCONJ.html">CCONJ</a></tt> (193; 2% instances), <tt><a href="ga_idt-pos-ADV.html">ADV</a></tt> (169; 2% instances), <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (136; 1% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (130; 1% instances), <tt><a href="ga_idt-pos-X.html">X</a></tt> (81; 1% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (44; 0% instances), <tt><a href="ga_idt-pos-INTJ.html">INTJ</a></tt> (34; 0% instances), <tt><a href="ga_idt-pos-DET.html">DET</a></tt> (28; 0% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (22; 0% instances), <tt><a href="ga_idt-pos-SYM.html">SYM</a></tt> (11; 0% instances),  (10; 0% instances), <tt><a href="ga_idt-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances)
 
-11178 (100%) `PUNCT` nodes are leaves.
+11180 (100%) `PUNCT` nodes are leaves.
 
 1 (0%) `PUNCT` nodes have one child.
 

@@ -25,7 +25,7 @@ The following 22 pairs of parts of speech are connected with `appos`: <tt><a hre
 1	اما	اما	CCONJ	CON	_	8	cc	_	_
 2	اکثریت	اکثریت	NOUN	N_SING	Number=Sing	8	nsubj	_	_
 3	مردم	مردم	NOUN	N_SING	Number=Sing	2	nmod:poss	_	SpaceAfter=No
-4	،	،	PUNCT	DELM	_	2	punct	_	_
+4	،	،	PUNCT	DELM	_	6	punct	_	_
 5	بویژه	بویژه	ADV	ADV	_	6	advmod	_	_
 6	بنی‌هاشم	_	NOUN	N_SING	Number=Sing	2	appos	_	_
 7	مقاومت	مقاومت	NOUN	N_SING	Number=Sing	8	compound:lvc	_	_
@@ -51,7 +51,7 @@ The following 22 pairs of parts of speech are connected with `appos`: <tt><a hre
 8	دو	دو	NUM	NUM	NumType=Card	9	nummod	_	_
 9	بخش	بخش	NOUN	N_SING	Number=Sing	10	compound:lvc	_	_
 10	می‌کنم	کرد#کن	VERB	V_PRS	Number=Sing|Person=1|Tense=Pres	0	root	_	SpaceAfter=No
-11	:	:	PUNCT	DELM	_	10	punct	_	_
+11	:	:	PUNCT	DELM	_	12	punct	_	_
 12	تصویربرداری	تصویربرداری	NOUN	N_SING	Number=Sing	10	appos	_	_
 13	و	و	CCONJ	CON	_	14	cc	_	_
 14	مونتاژ	_	NOUN	N_SING	Number=Sing	12	conj	_	SpaceAfter=No
@@ -68,11 +68,11 @@ The following 22 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 11 4 appos	color:blue
 1	این	این	DET	DET	_	2	det	_	_
 2	آدمها	آدم	NOUN	N_PL	Number=Plur	11	nsubj	_	SpaceAfter=No
-3	،	،	PUNCT	DELM	_	11	punct	_	_
+3	،	،	PUNCT	DELM	_	2	punct	_	_
 4	آدمهای	آدم	NOUN	N_PL	Number=Plur	11	appos	_	_
 5	سری	سری	NOUN	N_SING	Number=Sing	4	nmod:poss	_	_
 6	جدید	جدید	ADJ	ADJ	Degree=Pos	5	amod	_	SpaceAfter=No
-7	،	،	PUNCT	DELM	_	11	punct	_	_
+7	،	،	PUNCT	DELM	_	4	punct	_	_
 8	به	به	ADP	P	_	10	case	_	_
 9	هیچ	هیچ	ADV	ADV_NEG	Polarity=Neg	10	det	_	_
 10	وجه	وجه	NOUN	N_SING	Number=Sing	11	nmod	_	_

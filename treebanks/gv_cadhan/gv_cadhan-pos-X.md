@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Manx-Cadhan: POS Tags: `X`
 
 There are 5 `X` lemmas (0%), 5 `X` types (0%) and 5 `X` tokens (0%).
-Out of 17 observed tags, the rank of `X` is: 14 in number of lemmas, 14 in number of types and 16 in number of tokens.
+Out of 17 observed tags, the rank of `X` is: 14 in number of lemmas, 15 in number of types and 16 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>X, a.r.e., chess, chessmen, zee</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.186747).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.247440).
 
 The 1st highest number of forms (1) was observed with the lemma “X”: <em>X</em>.
 

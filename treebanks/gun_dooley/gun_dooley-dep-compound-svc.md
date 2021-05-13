@@ -26,7 +26,7 @@ The following 2 pairs of parts of speech are connected with `compound:svc`: <tt>
 2	_	_	PART	quantprt	_	1	dep:mod	_	_
 3	_	_	PART	discprt	_	1	dep:mod	_	_
 4	_	_	PART	illocprt	_	1	dep:mod	_	_
-5	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	_
+5	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	0	root	_	_
 6	_	_	VERB	vs	Mood=Ind|Person=3|VerbForm=Ser	5	compound:svc	_	_
 7	_	_	NUM	num	NumType=Card	8	nummod	_	_
 8	_	_	NOUN	n	_	5	obl	_	_

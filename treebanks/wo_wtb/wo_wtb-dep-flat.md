@@ -22,11 +22,11 @@ The following 8 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 flat	color:blue
-1	Koli	Koli	PROPN	NAME	_	3	nsubj	3:nsubj	_
-2	Tingala	Tingala	PROPN	NAME	_	1	flat	1:flat	_
-3	jiite	jiite	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	0:root	_
-4	leen	ko	PRON	CL	Case=Acc|Number=Plur|Person=2,3|PronType=Prs	3	obj	3:obj	SpaceAfter=No
-5	.	.	PUNCT	PERIOD	_	3	punct	3:punct	_
+1	Koli	Koli	PROPN	NAME	_	3	nsubj	_	_
+2	Tingala	Tingala	PROPN	NAME	_	1	flat	_	_
+3	jiite	jiite	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	_
+4	leen	ko	PRON	CL	Case=Acc|Number=Plur|Person=2,3|PronType=Prs	3	obj	_	SpaceAfter=No
+5	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
 ~~~
 
@@ -37,19 +37,19 @@ The following 8 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 flat	color:blue
-1	Le	le	DET	DET	_	0	root	0:root	_
-2	Monde	Monde	NOUN	NOUN	_	1	flat	1:flat	SpaceAfter=No
-3	:	:	PUNCT	COLON	_	5	punct	5:punct	_
-4	Lu	bu	PRON	PRON	NounClass=Wol7|Number=Sing|Person=3|PronType=Int	5	nsubj	5:nsubj	_
-5	tax	tax	VERB	VERB	Mood=Ind|VerbForm=Fin	1	parataxis	1:parataxis	_
-6	nga	mu	PRON	PRON	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	7:nsubj	_
-7	bind	bind	VERB	VERB	Mood=Ind|VerbForm=Fin	5	ccomp	5:ccomp	_
-8	Doomi	Doomi	NOUN	NOUN	Case=Gen|Number=Plur	7	obj	7:obj	_
-9	Golo	Golo	PROPN	NAME	_	8	flat	8:flat	_
-10	ci	ci	ADP	PREP	_	11	case	11:case	_
-11	Wolof	Wolof	PROPN	NAME	_	7	obl	7:obl	_
-12	njëkk	njëkk	ADV	ADV	_	7	advmod	7:advmod	SpaceAfter=No
-13	?	?	PUNCT	INT-MARK	_	7	punct	7:punct	_
+1	Le	le	DET	DET	_	0	root	_	_
+2	Monde	Monde	NOUN	NOUN	_	1	flat	_	SpaceAfter=No
+3	:	:	PUNCT	COLON	_	5	punct	_	_
+4	Lu	bu	PRON	PRON	NounClass=Wol7|Number=Sing|Person=3|PronType=Int	5	nsubj	_	_
+5	tax	tax	VERB	VERB	Mood=Ind|VerbForm=Fin	1	parataxis	_	_
+6	nga	mu	PRON	PRON	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	_
+7	bind	bind	VERB	VERB	Mood=Ind|VerbForm=Fin	5	ccomp	_	_
+8	Doomi	Doomi	NOUN	NOUN	Case=Gen|Number=Plur	7	obj	_	_
+9	Golo	Golo	PROPN	NAME	_	8	flat	_	_
+10	ci	ci	ADP	PREP	_	11	case	_	_
+11	Wolof	Wolof	PROPN	NAME	_	7	obl	_	_
+12	njëkk	njëkk	ADV	ADV	_	7	advmod	_	SpaceAfter=No
+13	?	?	PUNCT	INT-MARK	_	7	punct	_	_
 
 ~~~
 
@@ -60,19 +60,19 @@ The following 8 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 flat	color:blue
-1	Le	le	DET	DET	_	0	root	0:root	_
-2	Monde	Monde	NOUN	NOUN	_	1	flat	1:flat	SpaceAfter=No
-3	:	:	PUNCT	COLON	_	5	punct	5:punct	_
-4	Lu	bu	PRON	PRON	NounClass=Wol7|Number=Sing|Person=3|PronType=Int	5	nsubj	5:nsubj	_
-5	tax	tax	VERB	VERB	Mood=Ind|VerbForm=Fin	1	parataxis	1:parataxis	_
-6	nga	mu	PRON	PRON	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	7:nsubj	_
-7	bind	bind	VERB	VERB	Mood=Ind|VerbForm=Fin	5	ccomp	5:ccomp	_
-8	Doomi	Doomi	NOUN	NOUN	Case=Gen|Number=Plur	7	obj	7:obj	_
-9	Golo	Golo	PROPN	NAME	_	8	flat	8:flat	_
-10	ci	ci	ADP	PREP	_	11	case	11:case	_
-11	Wolof	Wolof	PROPN	NAME	_	7	obl	7:obl	_
-12	njëkk	njëkk	ADV	ADV	_	7	advmod	7:advmod	SpaceAfter=No
-13	?	?	PUNCT	INT-MARK	_	7	punct	7:punct	_
+1	Le	le	DET	DET	_	0	root	_	_
+2	Monde	Monde	NOUN	NOUN	_	1	flat	_	SpaceAfter=No
+3	:	:	PUNCT	COLON	_	5	punct	_	_
+4	Lu	bu	PRON	PRON	NounClass=Wol7|Number=Sing|Person=3|PronType=Int	5	nsubj	_	_
+5	tax	tax	VERB	VERB	Mood=Ind|VerbForm=Fin	1	parataxis	_	_
+6	nga	mu	PRON	PRON	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	_
+7	bind	bind	VERB	VERB	Mood=Ind|VerbForm=Fin	5	ccomp	_	_
+8	Doomi	Doomi	NOUN	NOUN	Case=Gen|Number=Plur	7	obj	_	_
+9	Golo	Golo	PROPN	NAME	_	8	flat	_	_
+10	ci	ci	ADP	PREP	_	11	case	_	_
+11	Wolof	Wolof	PROPN	NAME	_	7	obl	_	_
+12	njëkk	njëkk	ADV	ADV	_	7	advmod	_	SpaceAfter=No
+13	?	?	PUNCT	INT-MARK	_	7	punct	_	_
 
 ~~~
 

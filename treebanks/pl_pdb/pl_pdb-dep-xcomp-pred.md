@@ -28,7 +28,7 @@ The following 14 pairs of parts of speech are connected with `xcomp:pred`: <tt><
 3	senator	senator	NOUN	subst:sg:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	2:nsubj	_
 4	Franciszek	Franciszek	PROPN	subst:sg:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	3	appos	3:appos	_
 5	Bachleda	Bachleda	PROPN	subst:sg:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	4	flat	4:flat	SpaceAfter=No
-6	-	-	PUNCT	interp	PunctType=Hyph	7	punct	7:punct	SpaceAfter=No
+6	-	-	PUNCT	interp	PunctType=Dash	7	punct	7:punct	SpaceAfter=No
 7	Księdzularz	Księdzularz	PROPN	subst:sg:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	5	conj	4:flat|5:conj	SpaceAfter=No
 8	.	.	PUNCT	interp	PunctType=Peri	2	punct	2:punct	_
 

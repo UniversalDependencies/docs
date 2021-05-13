@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Card`, `Mult`, `Ord`.
 
-520 tokens (2%) have a non-empty value of `NumType`.
+519 tokens (2%) have a non-empty value of `NumType`.
 247 types (5%) occur at least once with a non-empty value of `NumType`.
 239 lemmas (5%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (454; 2% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (56; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (4; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (454; 2% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (55; 0% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (4; 0% instances).
 
 ### `NUM`
 
@@ -27,14 +27,14 @@ The feature is used with 4 part-of-speech tags: <tt><a href="en_pud-pos-NUM.html
 
 ### `ADJ`
 
-56 <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `NumType`.
+55 <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="en_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (56; 100%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="en_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (55; 100%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
-* `Ord` (56; 100% of non-empty `NumType`): <em>first, second, third, 8th, 16th, 20th, 3rd, 5th, 13th, 14th</em>
-* `EMPTY` (1484): <em>new, many, more, other, such, last, great, high, own, several</em>
+* `Ord` (55; 100% of non-empty `NumType`): <em>first, second, third, 8th, 16th, 20th, 3rd, 5th, 13th, 14th</em>
+* `EMPTY` (1475): <em>new, many, more, other, such, last, high, own, several, political</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (16) occur only with one value of `NumType`.
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `PROPN` and `NumType` co-occur
 `PROPN` tokens may have the following values of `NumType`:
 
 * `Card` (6; 100% of non-empty `NumType`): <em>I, I., V, VI, X</em>
-* `EMPTY` (1721): <em>China, Sea, October, Trump, North, America, April, Europe, France, War</em>
+* `EMPTY` (1735): <em>China, Sea, October, Trump, North, America, April, Europe, France, War</em>
 
 ### `ADV`
 

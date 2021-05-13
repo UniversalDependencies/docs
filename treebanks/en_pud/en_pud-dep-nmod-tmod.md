@@ -50,7 +50,7 @@ The following 9 pairs of parts of speech are connected with `nmod:tmod`: <tt><a 
 6	,	,	PUNCT	,	_	11	punct	11:punct	_
 7	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
 8	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	10	amod	10:amod	_
-9	Greek	greek	ADJ	JJ	Degree=Pos	10	amod	10:amod	Proper=True
+9	Greek	Greek	ADJ	JJ	Degree=Pos	10	amod	10:amod	Proper=True
 10	texts	text	NOUN	NNS	Number=Plur	11	nsubj	11:nsubj|13:nsubj:xsubj	_
 11	began	begin	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
 12	to	to	PART	TO	_	13	mark	13:mark	_

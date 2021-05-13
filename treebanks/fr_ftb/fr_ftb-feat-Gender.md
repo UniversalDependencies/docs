@@ -12,7 +12,7 @@ It occurs with 2 different values: `Fem`, `Masc`.
 293967 tokens (51%) have a non-empty value of `Gender`.
 1370 types (74%) occur at least once with a non-empty value of `Gender`.
 1189 lemmas (75%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 10 part-of-speech tags: <tt><a href="fr_ftb-pos-NOUN.html">NOUN</a></tt> (115471; 20% instances), <tt><a href="fr_ftb-pos-DET.html">DET</a></tt> (77215; 13% instances), <tt><a href="fr_ftb-pos-ADJ.html">ADJ</a></tt> (34368; 6% instances), <tt><a href="fr_ftb-pos-PRON.html">PRON</a></tt> (21812; 4% instances), <tt><a href="fr_ftb-pos-PROPN.html">PROPN</a></tt> (17832; 3% instances), <tt><a href="fr_ftb-pos-VERB.html">VERB</a></tt> (14796; 3% instances), <tt><a href="fr_ftb-pos-NUM.html">NUM</a></tt> (11279; 2% instances), <tt><a href="fr_ftb-pos-AUX.html">AUX</a></tt> (1104; 0% instances), <tt><a href="fr_ftb-pos-ADP.html">ADP</a></tt> (89; 0% instances), <tt><a href="fr_ftb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="fr_ftb-pos-NOUN.html">NOUN</a></tt> (115471; 20% instances), <tt><a href="fr_ftb-pos-DET.html">DET</a></tt> (77216; 13% instances), <tt><a href="fr_ftb-pos-ADJ.html">ADJ</a></tt> (34368; 6% instances), <tt><a href="fr_ftb-pos-PRON.html">PRON</a></tt> (21812; 4% instances), <tt><a href="fr_ftb-pos-PROPN.html">PROPN</a></tt> (17832; 3% instances), <tt><a href="fr_ftb-pos-VERB.html">VERB</a></tt> (14796; 3% instances), <tt><a href="fr_ftb-pos-NUM.html">NUM</a></tt> (11279; 2% instances), <tt><a href="fr_ftb-pos-AUX.html">AUX</a></tt> (1104; 0% instances), <tt><a href="fr_ftb-pos-ADP.html">ADP</a></tt> (89; 0% instances).
 
 ### `NOUN`
 
@@ -30,14 +30,14 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 ### `DET`
 
-77215 <tt><a href="fr_ftb-pos-DET.html">DET</a></tt> tokens (90% of all `DET` tokens) have a non-empty value of `Gender`.
+77216 <tt><a href="fr_ftb-pos-DET.html">DET</a></tt> tokens (90% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="fr_ftb-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (68136; 88%), <tt><a href="fr_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (61188; 79%), <tt><a href="fr_ftb-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (54610; 71%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="fr_ftb-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (68137; 88%), <tt><a href="fr_ftb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (61189; 79%), <tt><a href="fr_ftb-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (54610; 71%).
 
 `DET` tokens may have the following values of `Gender`:
 
 * `Fem` (34987; 45% of non-empty `Gender`): <em>_, la, L', les, Cette, une, ces, des, Sa, Leur</em>
-* `Masc` (42228; 55% of non-empty `Gender`): <em>_, le, les, l', un, Ce, ces, des, Son, Cet</em>
+* `Masc` (42229; 55% of non-empty `Gender`): <em>_, le, les, l', un, Ce, ces, des, Son, Cet</em>
 * `EMPTY` (8278): <em>_, L', Des, Les, D', quelqu', le</em>
 
 ### `ADJ`
@@ -48,8 +48,8 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (15468; 45% of non-empty `Gender`): <em>_, Seule, Toutes, Première, Autre, Quelle, toute, Dernière, Même, Deuxième</em>
-* `Masc` (18900; 55% of non-empty `Gender`): <em>_, Autre, Tout, tous, Seul, Seuls, Difficile, Premier, Dernier, Deuxième</em>
+* `Fem` (15469; 45% of non-empty `Gender`): <em>_, Seule, Toutes, Première, Autre, Quelle, toute, Dernière, Même, Deuxième</em>
+* `Masc` (18899; 55% of non-empty `Gender`): <em>_, Autre, Tout, tous, Seul, Seuls, Difficile, Premier, Dernier, Deuxième</em>
 * `EMPTY` (2194): <em>_, Quitte</em>
 
 ### `PRON`
@@ -124,19 +124,10 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 * `Masc` (69; 78% of non-empty `Gender`): <em>_, À</em>
 * `EMPTY` (92507): <em>_, en, A, Pour, à, dans, de, d', après, avec</em>
 
-### `PUNCT`
-
-1 <tt><a href="fr_ftb-pos-PUNCT.html">PUNCT</a></tt> tokens (0% of all `PUNCT` tokens) have a non-empty value of `Gender`.
-
-`PUNCT` tokens may have the following values of `Gender`:
-
-* `Fem` (1; 100% of non-empty `Gender`): <em>_</em>
-* `EMPTY` (75127): <em>_, ", -, (, […], ), ., ,, :, [</em>
-
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="fr_ftb-dep-det.html">det</a></tt>]--> DET</tt> (65140; 90%),
+<tt>NOUN --[<tt><a href="fr_ftb-dep-det.html">det</a></tt>]--> DET</tt> (65141; 90%),
 <tt>NOUN --[<tt><a href="fr_ftb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (22840; 98%),
 <tt>NOUN --[<tt><a href="fr_ftb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (17148; 52%),
 <tt>NOUN --[<tt><a href="fr_ftb-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (7737; 90%),

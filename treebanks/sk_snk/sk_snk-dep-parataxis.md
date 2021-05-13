@@ -37,54 +37,59 @@ The following 10 pairs of parts of speech are connected with `parataxis`: <tt><a
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 11 parataxis	color:blue
-1	Prvým	prvý	ADJ	NAis7	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|NumType=Ord	3	amod	3:amod	_
-2	umelým	umelý	ADJ	AAis7x	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	3	amod	3:amod	_
-3	satelitom	satelit	NOUN	SSis7	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	0	root	0:root	_
-4	Mesiaca	mesiac	PROPN	SSis2:r	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	3:nmod:gen	_
-5	bola	byť	AUX	VLescf+	Aspect=Imp|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	3	cop	3:cop	_
-6	sovietska	sovietsky	ADJ	AAfs1x	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	7:amod	_
-7	sonda	sonda	NOUN	SSfs1	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	3:nsubj	_
-8	Luna	luna	PROPN	SSfs1:r	Case=Nom|Gender=Fem|Number=Sing	7	nmod	7:nmod:nom	_
-9	10	10	NUM	0	NumForm=Digit	8	nummod	8:nummod	_
-10	(	(	PUNCT	Z	_	11	punct	11:punct	SpaceAfter=No
-11	odštartovala	odštartovať	VERB	VLdscf+	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	3	parataxis	3:parataxis	_
-12	31	31	NUM	0	NumForm=Digit	14	nummod	14:nummod	SpaceAfter=No
-13	.	.	PUNCT	Z	_	12	punct	12:punct	_
-14	marca	marec	NOUN	SSis2	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	obl	11:obl:gen	_
-15	1966	1966	NUM	0	NumForm=Digit	14	nummod	14:nummod	SpaceAfter=No
-16	)	)	PUNCT	Z	_	11	punct	11:punct	SpaceAfter=No
-17	.	.	PUNCT	Z	_	3	punct	3:punct	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 7 parataxis	color:blue
+1	Jeho	jeho	DET	PUms7	Animacy=Anim|Case=Ins|Gender=Masc|Gender[psor]=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	2:det	_
+2	otcom	otec	NOUN	SSms7	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	0	root	0:root	_
+3	bol	byť	AUX	VLescm+	Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	2	cop	2:cop	_
+4	cisár	cisár	NOUN	SSms1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	5	nmod	5:nmod:nom	_
+5	Arkadius	arkadius	PROPN	SSms1:r	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	2:nsubj	_
+6	(	(	PUNCT	Z	_	7	punct	7:punct	SpaceAfter=No
+7	vládol	vládnuť	VERB	VLescm+	Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	2	parataxis	2:parataxis	_
+8	395	395	NUM	0	NumForm=Digit	7	obl	7:obl	_
+9	–	–	PUNCT	Z	_	10	punct	10:punct	_
+10	408	408	NUM	0	NumForm=Digit	8	conj	7:obl|8:conj	SpaceAfter=No
+11	)	)	PUNCT	Z	_	7	punct	7:punct	SpaceAfter=No
+12	,	,	PUNCT	Z	_	13	punct	11.1:punct	_
+13	matkou	matka	NOUN	SSfs7	Case=Ins|Gender=Fem|Number=Sing	2	conj	11.1:dep	_
+14	Eudoxia	eudoxia	PROPN	SSfs1:r	Case=Nom|Gender=Fem|Number=Sing	13	orphan	11.1:dep	SpaceAfter=No
+15	,	,	PUNCT	Z	_	16	punct	16:punct	_
+16	dcéra	dcéra	NOUN	SSfs1	Case=Nom|Gender=Fem|Number=Sing	14	appos	14:appos	_
+17	magistra	magister	NOUN	SSms2	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	19	nmod	19:nmod:gen	_
+18	militum	militum	X	%	Foreign=Yes	17	nmod	17:nmod	_
+19	Bautona	bauton	PROPN	SSms2:r	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	16	nmod	16:nmod:gen	SpaceAfter=No
+20	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 15 parataxis	color:blue
-1	Pokúšal	pokúšať	VERB	VLescm+	Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	0:root	_
-2	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	1	expl:pv	1:expl:pv	_
-3	jej	ona	PRON	PFfs3	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obl:arg	5:obl:arg:dat	_
-4	to	to	DET	PFns4	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	5	obj	5:obj	_
-5	vysvetliť	vysvetliť	VERB	VId+	Aspect=Perf|Polarity=Pos|VerbForm=Inf	1	xcomp	1:xcomp	_
-6	tak	tak	ADV	PD	PronType=Dem	5	advmod	5:advmod	SpaceAfter=No
-7	,	,	PUNCT	Z	_	9	punct	9:punct	_
-8	aby	aby	SCONJ	OY	Mood=Cnd	9	mark	9:mark	_
-9	pochopila	pochopiť	VERB	VLdscf+	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	5	advcl	5:advcl:aby	SpaceAfter=No
-10	.	.	PUNCT	Z	_	1	punct	1:punct	_
-11	"	"	PUNCT	Z	_	15	punct	15:punct	SpaceAfter=No
-12	Toto	toto	DET	PFns1	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	15	nsubj	15:nsubj	_
-13	bol	byť	AUX	VLesci+	Animacy=Inan|Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	15	cop	15:cop	_
-14	výnimočný	výnimočný	ADJ	AAis1x	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	15	amod	15:amod	_
-15	prípad	prípad	NOUN	SSis1	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1	parataxis	1:parataxis	SpaceAfter=No
-16	.	.	PUNCT	Z	_	1	punct	1:punct	_
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 17 parataxis	color:blue
+1	"	"	PUNCT	ZIP	_	2	punct	2:punct	SpaceAfter=No
+2	Môže	môcť	VERB	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	ccomp	8:ccomp	_
+3	to	to	DET	PFns1	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	nsubj	2:nsubj|4:nsubj	_
+4	trvať	trvať	VERB	VIe+	Aspect=Imp|Polarity=Pos|VerbForm=Inf	2	xcomp	2:xcomp	_
+5	dlho	dlho	ADV	Dx	Degree=Pos	4	advmod	4:advmod	SpaceAfter=No
+6	,	,	PUNCT	ZIP	_	2	punct	2:punct	SpaceAfter=No
+7	"	"	PUNCT	ZIP	_	2	punct	2:punct	_
+8	odvetil	odvetiť	VERB	VLdscm+	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	0:root	_
+9	O	o	X	Q	Hyph=Yes	11	nmod	11:nmod	_
+10	'	'	PUNCT	ZIP	_	9	punct	9:punct	SpaceAfter=No
+11	Brien	brien	PROPN	SSms1:r	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	8:nsubj	SpaceAfter=No
+12	.	.	PUNCT	ZIP	_	8	punct	8:punct	_
+13	"	"	PUNCT	ZIP	_	17	punct	17:punct	SpaceAfter=No
+14	Ty	ty	PRON	PPhs1	Case=Nom|Number=Sing|Person=2|PronType=Prs	17	nsubj	17:nsubj	_
+15	si	byť	AUX	VKesb+	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	17	cop	17:cop	_
+16	ťažký	ťažký	ADJ	AAis1x	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	17:amod	_
+17	prípad	prípad	NOUN	SSis1	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	parataxis	8:parataxis	SpaceAfter=No
+18	.	.	PUNCT	ZIP	_	8	punct	8:punct	_
 
 ~~~
 

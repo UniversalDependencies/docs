@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Warlpiri-UFAL: POS Tags: `VERB`
 
-There are 23 `VERB` lemmas (37%), 34 `VERB` types (32%) and 69 `VERB` tokens (22%).
+There are 23 `VERB` lemmas (38%), 34 `VERB` types (32%) and 69 `VERB` tokens (22%).
 Out of 8 observed tags, the rank of `VERB` is: 2 in number of lemmas, 2 in number of types and 2 in number of tokens.
 
 The 10 most frequent `VERB` lemmas: <em>nguna, wajilipi, jarnti, nya, purla, yi, nyangu, nga, panti, parnka</em>
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 1.478261 (the average of all parts of speech is 1.693548).
+The form / lemma ratio of `VERB` is 1.478261 (the average of all parts of speech is 1.721311).
 
 The 1st highest number of forms (4) was observed with the lemma “nguna”: <em>ngunami, ngunamilki, ngunanjakurra, ngunanjakurraku</em>.
 
@@ -54,7 +54,7 @@ Parents of `VERB` nodes belong to 2 different parts of speech:  (55; 80% instanc
 
 The highest child degree of a `VERB` node is 6.
 
-Children of `VERB` nodes are attached using 10 different relations: <tt><a href="wbp_ufal-dep-nsubj.html">nsubj</a></tt> (58; 23% instances), <tt><a href="wbp_ufal-dep-punct.html">punct</a></tt> (55; 22% instances), <tt><a href="wbp_ufal-dep-obj.html">obj</a></tt> (50; 20% instances), <tt><a href="wbp_ufal-dep-aux.html">aux</a></tt> (46; 19% instances), <tt><a href="wbp_ufal-dep-obl.html">obl</a></tt> (14; 6% instances), <tt><a href="wbp_ufal-dep-advcl.html">advcl</a></tt> (10; 4% instances), <tt><a href="wbp_ufal-dep-iobj.html">iobj</a></tt> (8; 3% instances), <tt><a href="wbp_ufal-dep-xcomp.html">xcomp</a></tt> (4; 2% instances), <tt><a href="wbp_ufal-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="wbp_ufal-dep-obl-tmod.html">obl:tmod</a></tt> (1; 0% instances)
+Children of `VERB` nodes are attached using 10 different relations: <tt><a href="wbp_ufal-dep-nsubj.html">nsubj</a></tt> (56; 22% instances), <tt><a href="wbp_ufal-dep-punct.html">punct</a></tt> (55; 22% instances), <tt><a href="wbp_ufal-dep-obj.html">obj</a></tt> (50; 20% instances), <tt><a href="wbp_ufal-dep-aux.html">aux</a></tt> (49; 20% instances), <tt><a href="wbp_ufal-dep-obl.html">obl</a></tt> (14; 6% instances), <tt><a href="wbp_ufal-dep-advcl.html">advcl</a></tt> (10; 4% instances), <tt><a href="wbp_ufal-dep-iobj.html">iobj</a></tt> (8; 3% instances), <tt><a href="wbp_ufal-dep-xcomp.html">xcomp</a></tt> (4; 2% instances), <tt><a href="wbp_ufal-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="wbp_ufal-dep-obl-tmod.html">obl:tmod</a></tt> (1; 0% instances)
 
-Children of `VERB` nodes belong to 7 different parts of speech: <tt><a href="wbp_ufal-pos-NOUN.html">NOUN</a></tt> (105; 42% instances), <tt><a href="wbp_ufal-pos-PUNCT.html">PUNCT</a></tt> (55; 22% instances), <tt><a href="wbp_ufal-pos-AUX.html">AUX</a></tt> (46; 19% instances), <tt><a href="wbp_ufal-pos-PRON.html">PRON</a></tt> (25; 10% instances), <tt><a href="wbp_ufal-pos-VERB.html">VERB</a></tt> (14; 6% instances), <tt><a href="wbp_ufal-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="wbp_ufal-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Children of `VERB` nodes belong to 7 different parts of speech: <tt><a href="wbp_ufal-pos-NOUN.html">NOUN</a></tt> (105; 42% instances), <tt><a href="wbp_ufal-pos-PUNCT.html">PUNCT</a></tt> (55; 22% instances), <tt><a href="wbp_ufal-pos-AUX.html">AUX</a></tt> (49; 20% instances), <tt><a href="wbp_ufal-pos-PRON.html">PRON</a></tt> (23; 9% instances), <tt><a href="wbp_ufal-pos-VERB.html">VERB</a></tt> (14; 6% instances), <tt><a href="wbp_ufal-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="wbp_ufal-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 

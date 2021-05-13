@@ -69,7 +69,7 @@ The 3rd highest number of forms (4) was observed with the lemma “होणे�
 
 `AUX` occurs with 9 features: <tt><a href="mr_ufal-feat-VerbForm.html">VerbForm</a></tt> (217; 100% instances), <tt><a href="mr_ufal-feat-Number.html">Number</a></tt> (211; 97% instances), <tt><a href="mr_ufal-feat-Person.html">Person</a></tt> (211; 97% instances), <tt><a href="mr_ufal-feat-Tense.html">Tense</a></tt> (138; 63% instances), <tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt> (87; 40% instances), <tt><a href="mr_ufal-feat-Polarity.html">Polarity</a></tt> (49; 22% instances), <tt><a href="mr_ufal-feat-Aspect.html">Aspect</a></tt> (33; 15% instances), <tt><a href="mr_ufal-feat-Mood.html">Mood</a></tt> (5; 2% instances), <tt><a href="mr_ufal-feat-Case.html">Case</a></tt> (1; 0% instances)
 
-`AUX` occurs with 20 feature-value pairs: `Aspect=Hab`, `Aspect=Imp`, `Aspect=Perf`, `Case=Obl`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Imp`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Part`
+`AUX` occurs with 20 feature-value pairs: `Aspect=Hab`, `Aspect=Imp`, `Aspect=Perf`, `Case=Abs`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Imp`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Part`
 
 `AUX` occurs with 37 feature combinations.
 The most frequent feature combination is `Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (64 tokens).
@@ -78,13 +78,13 @@ Examples: <em>आहे</em>
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 7 different relations: <tt><a href="mr_ufal-dep-aux.html">aux</a></tt> (136; 62% instances), <tt><a href="mr_ufal-dep-cop.html">cop</a></tt> (65; 30% instances), <tt><a href="mr_ufal-dep-root.html">root</a></tt> (9; 4% instances), <tt><a href="mr_ufal-dep-aux-pass.html">aux:pass</a></tt> (5; 2% instances), <tt><a href="mr_ufal-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="mr_ufal-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="mr_ufal-dep-obj.html">obj</a></tt> (1; 0% instances)
+`AUX` nodes are attached to their parents using 8 different relations: <tt><a href="mr_ufal-dep-aux.html">aux</a></tt> (136; 62% instances), <tt><a href="mr_ufal-dep-cop.html">cop</a></tt> (61; 28% instances), <tt><a href="mr_ufal-dep-root.html">root</a></tt> (9; 4% instances), <tt><a href="mr_ufal-dep-aux-pass.html">aux:pass</a></tt> (5; 2% instances), <tt><a href="mr_ufal-dep-cop-own.html">cop:own</a></tt> (4; 2% instances), <tt><a href="mr_ufal-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="mr_ufal-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="mr_ufal-dep-obj.html">obj</a></tt> (1; 0% instances)
 
 Parents of `AUX` nodes belong to 9 different parts of speech: <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt> (125; 57% instances), <tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt> (44; 20% instances), <tt><a href="mr_ufal-pos-ADJ.html">ADJ</a></tt> (15; 7% instances), <tt><a href="mr_ufal-pos-ADV.html">ADV</a></tt> (15; 7% instances),  (9; 4% instances), <tt><a href="mr_ufal-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="mr_ufal-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="mr_ufal-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="mr_ufal-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
-187 (86%) `AUX` nodes are leaves.
+189 (87%) `AUX` nodes are leaves.
 
-20 (9%) `AUX` nodes have one child.
+18 (8%) `AUX` nodes have one child.
 
 3 (1%) `AUX` nodes have two children.
 
@@ -92,7 +92,7 @@ Parents of `AUX` nodes belong to 9 different parts of speech: <tt><a href="mr_uf
 
 The highest child degree of a `AUX` node is 5.
 
-Children of `AUX` nodes are attached using 12 different relations: <tt><a href="mr_ufal-dep-punct.html">punct</a></tt> (23; 41% instances), <tt><a href="mr_ufal-dep-nsubj.html">nsubj</a></tt> (10; 18% instances), <tt><a href="mr_ufal-dep-advmod.html">advmod</a></tt> (4; 7% instances), <tt><a href="mr_ufal-dep-aux.html">aux</a></tt> (4; 7% instances), <tt><a href="mr_ufal-dep-compound-lvc.html">compound:lvc</a></tt> (4; 7% instances), <tt><a href="mr_ufal-dep-obj.html">obj</a></tt> (3; 5% instances), <tt><a href="mr_ufal-dep-parataxis.html">parataxis</a></tt> (2; 4% instances), <tt><a href="mr_ufal-dep-xcomp.html">xcomp</a></tt> (2; 4% instances), <tt><a href="mr_ufal-dep-case.html">case</a></tt> (1; 2% instances), <tt><a href="mr_ufal-dep-cc.html">cc</a></tt> (1; 2% instances), <tt><a href="mr_ufal-dep-iobj.html">iobj</a></tt> (1; 2% instances), <tt><a href="mr_ufal-dep-mark.html">mark</a></tt> (1; 2% instances)
+Children of `AUX` nodes are attached using 12 different relations: <tt><a href="mr_ufal-dep-punct.html">punct</a></tt> (21; 39% instances), <tt><a href="mr_ufal-dep-nsubj.html">nsubj</a></tt> (10; 19% instances), <tt><a href="mr_ufal-dep-advmod.html">advmod</a></tt> (4; 7% instances), <tt><a href="mr_ufal-dep-aux.html">aux</a></tt> (4; 7% instances), <tt><a href="mr_ufal-dep-compound-lvc.html">compound:lvc</a></tt> (4; 7% instances), <tt><a href="mr_ufal-dep-obj.html">obj</a></tt> (3; 6% instances), <tt><a href="mr_ufal-dep-parataxis.html">parataxis</a></tt> (2; 4% instances), <tt><a href="mr_ufal-dep-xcomp.html">xcomp</a></tt> (2; 4% instances), <tt><a href="mr_ufal-dep-case.html">case</a></tt> (1; 2% instances), <tt><a href="mr_ufal-dep-cc.html">cc</a></tt> (1; 2% instances), <tt><a href="mr_ufal-dep-iobj.html">iobj</a></tt> (1; 2% instances), <tt><a href="mr_ufal-dep-mark.html">mark</a></tt> (1; 2% instances)
 
-Children of `AUX` nodes belong to 9 different parts of speech: <tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (23; 41% instances), <tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt> (12; 21% instances), <tt><a href="mr_ufal-pos-ADV.html">ADV</a></tt> (8; 14% instances), <tt><a href="mr_ufal-pos-AUX.html">AUX</a></tt> (4; 7% instances), <tt><a href="mr_ufal-pos-PRON.html">PRON</a></tt> (3; 5% instances), <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt> (3; 5% instances), <tt><a href="mr_ufal-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="mr_ufal-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="mr_ufal-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances)
+Children of `AUX` nodes belong to 9 different parts of speech: <tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (21; 39% instances), <tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt> (12; 22% instances), <tt><a href="mr_ufal-pos-ADV.html">ADV</a></tt> (8; 15% instances), <tt><a href="mr_ufal-pos-AUX.html">AUX</a></tt> (4; 7% instances), <tt><a href="mr_ufal-pos-PRON.html">PRON</a></tt> (3; 6% instances), <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt> (3; 6% instances), <tt><a href="mr_ufal-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="mr_ufal-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="mr_ufal-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances)
 

@@ -55,7 +55,7 @@ The following 7 pairs of parts of speech are connected with `appos`: <tt><a href
 3	ons	ons	PRON	PEMP	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	25	nsubj	_	_
 4	ook	ook	ADV	BS	Degree=Pos	25	advmod	_	_
 5	SAOG	SAOG	X	RL	_	7	amod	_	_
-6	se	se	PART	UPS	PartType=Gen	7	det	_	_
+6	se	se	PART	UPS	PartType=Gen	7	case	_	_
 7	interaksie	interaksie	NOUN	NSE	Number=Sing	25	obj	_	_
 8	met	met	ADP	SVS	AdpType=Prep	10	case	_	_
 9	die	die	DET	LB	Definite=Def|PronType=Art	10	det	_	_

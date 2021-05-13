@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>je</em> (<tt><a href="cs_cac-pos-AUX.
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 28.500000 (the average of all parts of speech is 2.186231).
+The form / lemma ratio of `AUX` is 28.500000 (the average of all parts of speech is 2.186534).
 
 The 1st highest number of forms (50) was observed with the lemma “být”: <em>Nebuď, bude, budeme, budete, budeš, budiž, budou, budu, buď, buďme, buďte, by, bych, bychom, byl, byla, byli, bylo, byly, bys, byste, byvše, být, býti, je, jest, jsem, jsi, jsme, jsou, jsouc, jsouce, jste, nebude, nebudeme, nebudete, nebudeš, nebudou, nebudu, nebyl, nebyla, nebyli, nebylo, nebyly, nejsem, nejsme, nejsou, není, seš, si</em>.
 

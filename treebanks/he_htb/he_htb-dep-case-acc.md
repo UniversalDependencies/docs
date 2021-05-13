@@ -26,12 +26,12 @@ The following 9 pairs of parts of speech are connected with `case:acc`: <tt><a h
 1	איובה	איובה	PROPN	PROPN	_	2	nsubj	_	_
 2	שילמה	שילם	VERB	VERB	Gender=Fem|HebBinyan=PIEL|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 3	את	את	ADP	ADP	Case=Acc	5	case:acc	_	_
-4	ה	ה	DET	DET	PronType=Art	5	det:def	_	_
+4	ה	ה	DET	DET	Definite=Def|PronType=Art	5	det	_	_
 5	מחיר	מחיר	NOUN	NOUN	Gender=Masc|Number=Sing	2	obj	_	_
 6	עד	עד	ADP	ADP	_	7	case	_	_
 7	אמצע	אמצע	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	2	obl	_	_
 8	שנות	שנה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Plur	7	compound:smixut	_	_
-9	ה	ה	DET	DET	PronType=Art	10	det:def	_	_
+9	ה	ה	DET	DET	Definite=Def|PronType=Art	10	det	_	_
 10	80	80	NUM	NUM	_	8	compound:smixut	_	_
 11	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
@@ -52,7 +52,7 @@ The following 9 pairs of parts of speech are connected with `case:acc`: <tt><a h
 6	את_	את	ADP	ADP	Case=Acc	7	case:acc	_	_
 7	_הוא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
 8	ל	ל	ADP	ADP	_	10	case	_	_
-9	ה_	ה	DET	DET	PronType=Art	10	det:def	_	_
+9	ה_	ה	DET	DET	Definite=Def|PronType=Art	10	det	_	_
 10	מוות	מוות	NOUN	NOUN	Gender=Masc|Number=Sing	5	obl	_	_
 11	שלא	שלא	ADV	ADV	_	12	advmod	_	_
 12	ב	ב	ADP	ADP	_	13	case	_	_

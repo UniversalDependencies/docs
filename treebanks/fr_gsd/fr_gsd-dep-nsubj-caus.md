@@ -12,9 +12,9 @@ There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="fr_gs
 149 nodes (0%) are attached to their parents as `nsubj:caus`.
 
 148 instances of `nsubj:caus` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.87248322147651.
+Average distance between parent and child is 4.85234899328859.
 
-The following 4 pairs of parts of speech are connected with `nsubj:caus`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (65; 44% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (53; 36% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (28; 19% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (3; 2% instances).
+The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (68; 46% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (53; 36% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (28; 19% instances).
 
 
 ~~~ conllu
@@ -43,10 +43,10 @@ The following 4 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 2 nsubj:caus	color:blue
-1	Son	son	DET	_	Number=Sing|PossNumber=Sing|PossPerson=3|PronType=Prs	2	det	_	wordform=son
+1	Son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	2	det	_	wordform=son
 2	entourage	entourage	NOUN	_	Gender=Masc|Number=Sing	9	nsubj:caus	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	_
-4	ses	son	DET	_	Number=Plur|PossNumber=Sing|PossPerson=3|PronType=Prs	5	det	_	_
+4	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|PronType=Prs	5	det	_	_
 5	enfants	enfant	NOUN	_	Number=Plur	2	conj	_	_
 6	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
 7	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj:agent	_	_

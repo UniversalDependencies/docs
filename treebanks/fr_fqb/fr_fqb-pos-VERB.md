@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-FQB: POS Tags: `VERB`
 
 There are 384 `VERB` lemmas (10%), 683 `VERB` types (16%) and 1890 `VERB` tokens (8%).
-Out of 17 observed tags, the rank of `VERB` is: 3 in number of lemmas, 3 in number of types and 6 in number of tokens.
+Out of 16 observed tags, the rank of `VERB` is: 3 in number of lemmas, 3 in number of types and 6 in number of tokens.
 
 The 10 most frequent `VERB` lemmas: <em>avoir, trouver, être, nommer, faire, pouvoir, devoir, naître, inventer, connaître</em>
 
@@ -23,18 +23,18 @@ The 10 most frequent ambiguous types:  <em>est</em> (<tt><a href="fr_fqb-pos-AUX
   * <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 60: <em>Où <b>est</b> le Taj Mahal ?</em>
   * <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 1: <em>Quand la première voie ferrée reliant la côte <b>est</b> à la côte ouest fut -elle complétée ?</em>
 * <em>a</em>
-  * <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 326: <em>Quel succès d' Elvis Presley Gilmore <b>a</b> -t -il chanté ?</em>
-  * <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 52: <em>Dans combien de pays Greenpeace <b>a</b> -t -elle des agences ?</em>
+  * <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 326: <em>Quel succès d' Elvis Presley Gilmore <b>a</b> -t-il chanté ?</em>
+  * <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 52: <em>Dans combien de pays Greenpeace <b>a</b> -t-elle des agences ?</em>
   * <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1: <em>Qui est l' auteur de le livre sur le piratage informatique qui s' intitule " The Cuckoo 's Egg : Tracking <b>a</b> Spy Through the Maze of Computer Espionage " ?</em>
 * <em>fait</em>
   * <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 33: <em>De quoi est <b>fait</b> le magma ?</em>
   * <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 1: <em>J' ai <b>fait</b> construire une maison , ai -je droit à une exonération de taxe foncière ?</em>
 * <em>puis</em>
   * <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 24: <em>à partir de quand <b>puis</b> -je bénéficier d' une aide à le logement ?</em>
-  * <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Comment nomme -t -on la technique par laquelle l' on sème certaines plantes dans un sol contaminé à les métaux toxiques afin que ces plantes ingèrent ces métaux , qu' elles soient récoltées , <b>puis</b> que les métaux soient recouvrés à fins de recyclage ?</em>
+  * <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Comment nomme -t-on la technique par laquelle l' on sème certaines plantes dans un sol contaminé à les métaux toxiques afin que ces plantes ingèrent ces métaux , qu' elles soient récoltées , <b>puis</b> que les métaux soient recouvrés à fins de recyclage ?</em>
 * <em>mort</em>
   * <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 20: <em>Quand le cardinal Juan Jesus Posadas Ocampo est -il <b>mort</b> ?</em>
-  * <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 9: <em>Où Ayrton Senna a -t -il eu l' accident qui a entraîné sa <b>mort</b> ?</em>
+  * <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 9: <em>Où Ayrton Senna a -t-il eu l' accident qui a entraîné sa <b>mort</b> ?</em>
 * <em>ai</em>
   * <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 16: <em>Je n' <b>ai</b> pas vu l' agent recenseur , à qui dois -je m' adresser ?</em>
   * <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 14: <em>J' <b>ai</b> une résidence secondaire , où dois -je me faire recenser ?</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>est</em> (<tt><a href="fr_fqb-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 1.778646 (the average of all parts of speech is 1.162933).
+The form / lemma ratio of `VERB` is 1.778646 (the average of all parts of speech is 1.163777).
 
 The 1st highest number of forms (10) was observed with the lemma “avoir”: <em>a, ai, avaient, avait, avoir, ayant, eu, eurent, eut, ont</em>.
 

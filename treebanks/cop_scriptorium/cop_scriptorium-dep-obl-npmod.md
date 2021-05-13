@@ -33,7 +33,7 @@ The following 12 pairs of parts of speech are connected with `obl:npmod`: <tt><a
 9	ⲙⲟⲩⲟⲩⲧ	ⲙⲟⲩⲟⲩⲧ	VERB	V	VerbForm=Fin	6	acl	_	_
 10	ⲙ	ⲛ	ADP	PREP	_	12	case	_	Orig=ⲙ̄
 11	ⲡⲉⲧⲛ	ⲡⲉⲧⲛ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	12	det	_	Entity=(object|Orig=ⲡⲉⲧ︤ⲛ︥
-12	ⲥⲱⲙⲁ	ⲥⲱⲙⲁ	NOUN	N	_	9	obj	_	Entity=object)person)|Orig=ⲥⲱⲙⲁ`
+12	ⲥⲱⲙⲁ	ⲥⲱⲙⲁ	NOUN	N	Foreign=Yes	9	obj	_	Entity=object)person)|Orig=ⲥⲱⲙⲁ`|OrigLang=grc
 13	·	·	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
@@ -54,7 +54,7 @@ The following 12 pairs of parts of speech are connected with `obl:npmod`: <tt><a
 7	ϭⲉ	ϭⲉ	PART	PTC	_	10	advmod	_	_
 8	ⲛ	ⲛ	ADV	NEG	Polarity=Neg	10	advmod	_	_
 9	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	10	nsubj	_	_
-10	ⲛⲟⲉⲓ	ⲛⲟⲉⲓ	VERB	V	VerbForm=Fin	1	ccomp	_	Orig=ⲛⲟⲉⲓⲉ
+10	ⲛⲟⲉⲓ	ⲛⲟⲉⲓ	VERB	V	Foreign=Yes|VerbForm=Fin	1	ccomp	_	Orig=ⲛⲟⲉⲓⲉ|OrigLang=grc
 11	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	10	advmod	_	_
 12	.	.	PUNCT	PUNCT	_	1	punct	_	_
 

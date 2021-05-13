@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-Perseus: POS Tags: `ADP`
 
 There are 34 `ADP` lemmas (1%), 40 `ADP` types (0%) and 1329 `ADP` tokens (5%).
-Out of 12 observed tags, the rank of `ADP` is: 8 in number of lemmas, 8 in number of types and 8 in number of tokens.
+Out of 13 observed tags, the rank of `ADP` is: 8 in number of lemmas, 8 in number of types and 8 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>in, ad, ab, de, ex, per, cum, super, pro, inter</em>
 

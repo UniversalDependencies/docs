@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  ⲉ (<tt><a href="cop_scriptorium-pos-SCO
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.076923 (the average of all parts of speech is 1.124670).
+The form / lemma ratio of `PART` is 1.076923 (the average of all parts of speech is 1.124953).
 
 The 1st highest number of forms (4) was observed with the lemma “ⲉⲣⲉ”: ⲉ, ⲉⲛⲧ, ⲉⲣⲉ, ⲛⲧ.
 
@@ -67,13 +67,13 @@ The 2nd highest number of forms (3) was observed with the lemma “ⲛ”: ⲙ, 
 
 The 3rd highest number of forms (2) was observed with the lemma “ⲉⲛⲉ”: ⲉⲛⲉ, ⲛⲉ.
 
-`PART` occurs with 1 features: <tt><a href="cop_scriptorium-feat-Polarity.html">Polarity</a></tt> (7; 0% instances)
+`PART` occurs with 2 features: <tt><a href="cop_scriptorium-feat-Foreign.html">Foreign</a></tt> (746; 44% instances), <tt><a href="cop_scriptorium-feat-Polarity.html">Polarity</a></tt> (7; 0% instances)
 
-`PART` occurs with 1 feature-value pairs: `Polarity=Neg`
+`PART` occurs with 2 feature-value pairs: `Foreign=Yes`, `Polarity=Neg`
 
-`PART` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (1681 tokens).
-Examples: ⲉ, ⲇⲉ, ⲅⲁⲣ, ⲛϭⲓ, ⲛⲧ, ϭⲉ, ⲉⲓⲥ, ⲱ, ⲉⲣⲉ, ⲙⲉⲛ
+`PART` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (936 tokens).
+Examples: ⲉ, ⲛϭⲓ, ⲛⲧ, ϭⲉ, ⲉⲓⲥ, ⲉⲣⲉ, ⲙⲛⲛⲥⲁ, ϩⲏⲏⲧⲉ, ⲉⲧⲃⲉ, ⲛ
 
 
 ## Relations
@@ -94,5 +94,5 @@ The highest child degree of a `PART` node is 4.
 
 Children of `PART` nodes are attached using 13 different relations: <tt><a href="cop_scriptorium-dep-fixed.html">fixed</a></tt> (20; 33% instances), <tt><a href="cop_scriptorium-dep-mark.html">mark</a></tt> (12; 20% instances), <tt><a href="cop_scriptorium-dep-punct.html">punct</a></tt> (8; 13% instances), <tt><a href="cop_scriptorium-dep-vocative.html">vocative</a></tt> (7; 11% instances), <tt><a href="cop_scriptorium-dep-obl.html">obl</a></tt> (3; 5% instances), <tt><a href="cop_scriptorium-dep-parataxis.html">parataxis</a></tt> (3; 5% instances), <tt><a href="cop_scriptorium-dep-advcl.html">advcl</a></tt> (2; 3% instances), <tt><a href="cop_scriptorium-dep-advmod.html">advmod</a></tt> (1; 2% instances), <tt><a href="cop_scriptorium-dep-cc.html">cc</a></tt> (1; 2% instances), <tt><a href="cop_scriptorium-dep-ccomp.html">ccomp</a></tt> (1; 2% instances), <tt><a href="cop_scriptorium-dep-dislocated.html">dislocated</a></tt> (1; 2% instances), <tt><a href="cop_scriptorium-dep-nmod.html">nmod</a></tt> (1; 2% instances), <tt><a href="cop_scriptorium-dep-nsubj.html">nsubj</a></tt> (1; 2% instances)
 
-Children of `PART` nodes belong to 9 different parts of speech: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (14; 23% instances), <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> (11; 18% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (10; 16% instances), <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (8; 13% instances), <tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (8; 13% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (4; 7% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (3; 5% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
+Children of `PART` nodes belong to 9 different parts of speech: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (14; 23% instances), <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> (12; 20% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (10; 16% instances), <tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (8; 13% instances), <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (7; 11% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (4; 7% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (3; 5% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
 

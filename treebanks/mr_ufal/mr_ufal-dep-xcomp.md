@@ -42,11 +42,11 @@ The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href
 1	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No
 2	नका	नका	AUX	_	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|VerbForm=Fin	3	aux	_	_
 3	घालवू	घालवणे	VERB	_	Mood=Imp|Number=Plur|Person=2|Polarity=Neg|VerbForm=Fin	0	root	_	_
-4	त्याला	तो	PRON	_	Case=Acc|Distance=Dist|Gender=Masc|Number=Sing|Person=3	3	obj	_	_
+4	त्याला	तो	PRON	_	Case=Acc|Deixis=Remt|Gender=Masc|Number=Sing|Person=3	3	obj	_	_
 5	दूर	दूर	ADJ	_	Case=Nom	3	xcomp	_	SpaceAfter=No
 6	!	!	PUNCT	_	_	3	punct	_	SpaceAfter=No
 7	"	"	PUNCT	_	_	3	punct	_	_
-8	ती	तो	PRON	_	Case=Nom|Distance=Dist|Gender=Fem|Number=Sing|Person=3	10	nsubj	_	_
+8	ती	तो	PRON	_	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3	10	nsubj	_	_
 9	रडत	रडणे	VERB	_	Aspect=Imp|VerbForm=Part	10	advcl	_	_
 10	म्हणाली	म्हणणे	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|VerbForm=Fin	3	parataxis	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_
@@ -65,7 +65,7 @@ The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href
 3	तुला	तू	PRON	_	Case=Dat|Number=Sing|Person=2	8	iobj	_	_
 4	तू	तू	PRON	_	Case=Nom|Number=Sing|Person=2	5	nsubj	_	_
 5	मागशील	मागणे	VERB	_	Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	7	acl	_	_
-6	ती	तो	DET	_	Distance=Dist|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
+6	ती	तो	DET	_	Deixis=Remt|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
 7	किंमत	किंमत	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	_
 8	द्यायला	देणे	VERB	_	VerbForm=Sup	9	xcomp	_	_
 9	तयार	तयार	ADV	_	_	0	root	_	_

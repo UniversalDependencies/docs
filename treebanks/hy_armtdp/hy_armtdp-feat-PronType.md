@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="hy_armtdp-pos-PRON.
 
 1941 <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=EMPTY</tt> (1605; 83%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1532; 79%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1269; 65%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1099; 57%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1005; 52%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="hy_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (1605; 83%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1532; 79%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1269; 65%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1099; 57%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1005; 52%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -48,7 +48,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 1933 <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1305; 68%), <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=EMPTY</tt> (1281; 66%), <tt><a href="hy_armtdp-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1249; 65%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1245; 64%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1243; 64%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1305; 68%), <tt><a href="hy_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (1281; 66%), <tt><a href="hy_armtdp-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1249; 65%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1245; 64%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1243; 64%).
 
 `DET` tokens may have the following values of `PronType`:
 

@@ -53,10 +53,10 @@ The following 8 pairs of parts of speech are connected with `obl:npmod`: <tt><a 
 1	Buried	bury	VERB	VBN	Tense=Past|VerbForm=Part	14	advcl	14:advcl	_
 2	100	100	NUM	CD	NumType=Card	3	nummod	3:nummod	_
 3	meters	meter	NOUN	NNS	Number=Plur	8	obl:npmod	8:obl:npmod	_
-4	(	(	PUNCT	(	_	6	punct	6:punct	SpaceAfter=No
+4	(	(	PUNCT	-LRB-	_	6	punct	6:punct	SpaceAfter=No
 5	328	328	NUM	CD	NumType=Card	6	nummod	6:nummod	_
 6	feet	foot	NOUN	NNS	Number=Plur	3	appos	3:appos	SpaceAfter=No
-7	)	)	PUNCT	)	_	6	punct	6:punct	_
+7	)	)	PUNCT	-RRB-	_	6	punct	6:punct	_
 8	underground	underground	ADV	RB	_	1	advmod	1:advmod	SpaceAfter=No
 9	,	,	PUNCT	,	_	14	punct	14:punct	_
 10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	_

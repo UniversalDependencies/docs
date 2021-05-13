@@ -24,12 +24,12 @@ The following 20 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 4 9 acl	color:blue
 1	Volt	van	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	egy	egy	DET	_	Definite=Ind|PronType=Art	4	det	_	_
-3	öreg	öreg	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	4	amod:att	_	_
-4	barátom	barát	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=Sing|Person[psor]=1	1	nsubj	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	1	punct	_	_
-6	aki	aki	PRON	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|PronType=Rel	9	nsubj	_	_
-7	ilyen	ilyen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	8	amod:att	_	_
-8	sorsot	sors	NOUN	_	Case=Acc|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	9	obj	_	_
+3	öreg	öreg	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	4	amod:att	_	_
+4	barátom	barát	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	1	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	_	_
+6	aki	aki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	9	nsubj	_	_
+7	ilyen	ilyen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	8	amod:att	_	_
+8	sorsot	sors	NOUN	_	Case=Acc|Number=Sing	9	obj	_	_
 9	viselt	visel	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -42,20 +42,20 @@ The following 20 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 13 acl	color:blue
-1	Rezník	Rezník	PROPN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	7	nsubj	_	_
+1	Rezník	Rezník	PROPN	_	Case=Nom|Number=Sing	7	nsubj	_	_
 2	nem	nem	ADV	_	PronType=Neg	3	advmod	_	_
 3	sokkal	sokkal	ADV	_	_	5	advmod:mode	_	_
 4	a	a	DET	_	Definite=Def|PronType=Art	5	det	_	_
-5	szerencsétlenség	szerencsétlenség	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	7	obl	_	_
+5	szerencsétlenség	szerencsétlenség	NOUN	_	Case=Nom|Number=Sing	7	obl	_	_
 6	előtt	előtt	ADP	_	_	5	case	_	_
 7	került	kerül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-8	Dubcek	Dubcek	PROPN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	7	obl	_	_
+8	Dubcek	Dubcek	PROPN	_	Case=Nom|Number=Sing	7	obl	_	_
 9	mellé	mellé	ADP	_	_	8	case	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	7	punct	_	_
-11	aki	aki	PRON	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|PronType=Rel	13	nsubj	_	_
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	aki	aki	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Rel	13	nsubj	_	_
 12	nem	nem	ADV	_	PronType=Neg	13	advmod	_	_
 13	kedvelte	kedvel	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	acl	_	_
-14	őt	ő	PRON	_	Case=Acc|Number=Sing|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|PronType=Prs	13	obj	_	SpaceAfter=No
+14	őt	ő	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	13	obj	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~
@@ -75,14 +75,14 @@ The following 20 pairs of parts of speech are connected with `acl`: <tt><a href=
 6	Ildikó	Ildikó	PROPN	_	Case=Nom|Number=Sing	5	flat:name	_	_
 7	vette	vesz	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 8	át	át	ADV	_	_	7	compound:preverb	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	7	punct	_	_
+9	,	,	PUNCT	_	_	13	punct	_	_
 10	akit	aki	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Rel	13	obj	_	_
 11	egyébként	egyébként	ADV	_	_	13	advmod:mode	_	_
 12	ő	ő	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
 13	hozott	hoz	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	acl	_	_
-14	magával	maga	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	13	nmod:obl	_	_
+14	magával	maga	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	13	obl	_	_
 15	korábbi	korábbi	ADJ	_	Case=Nom|Degree=Cmp|Number=Sing	16	amod:att	_	_
-16	munkahelyéről	munkahely	NOUN	_	Case=Del|Number=Sing|Number[psor]=Sing|Person[psor]=3	13	nmod:obl	_	SpaceAfter=No
+16	munkahelyéről	munkahely	NOUN	_	Case=Del|Number=Sing|Number[psor]=Sing|Person[psor]=3	13	obl	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~

@@ -23,7 +23,7 @@ The following 53 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 6	fgColor:white
 # visual-style 6 8 conj	color:blue
 1	लेकिन	लेकिन	CCONJ	CC	_	11	cc	_	SpaceAfter=No|ChunkId=CCP|ChunkType=head|Translit=lekina
-2	,	COMMA	PUNCT	SYM	_	11	punct	_	ChunkId=CCP|ChunkType=child|Translit=,
+2	,	,	PUNCT	SYM	_	11	punct	_	ChunkId=CCP|ChunkType=child|Translit=,
 3	इस	यह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	4	det	_	ChunkId=NP|ChunkType=child|Translit=isa
 4	समझौते	समझौता	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	obl	_	Vib=0_से|Tam=0|ChunkId=NP|ChunkType=head|Translit=samajhaute
 5	से	से	ADP	PSP	AdpType=Post	4	case	_	ChunkId=NP|ChunkType=child|Translit=se

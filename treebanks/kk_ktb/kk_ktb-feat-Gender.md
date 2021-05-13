@@ -48,5 +48,5 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>PROPN --[<tt><a href="kk_ktb-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (32; 78%).
+<tt>PROPN --[<tt><a href="kk_ktb-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (31; 78%).
 

@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of Animacy in UD_Old_Russian-RNC'
+title:  'Statistics of Animacy in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Features: `Animacy`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Features: `Animacy`
 
 This feature is universal.
 It occurs with 1 different values: `Anim`.

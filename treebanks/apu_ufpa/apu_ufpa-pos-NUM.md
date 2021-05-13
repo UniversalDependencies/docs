@@ -6,10 +6,10 @@ udver: '2'
 
 ## Treebank Statistics: UD_Apurina-UFPA: POS Tags: `NUM`
 
-There are 2 `NUM` lemmas (1%), 3 `NUM` types (1%) and 9 `NUM` tokens (2%).
-Out of 15 observed tags, the rank of `NUM` is: 9 in number of lemmas, 6 in number of types and 8 in number of tokens.
+There are 1 `NUM` lemmas (1%), 3 `NUM` types (1%) and 9 `NUM` tokens (1%).
+Out of 15 observed tags, the rank of `NUM` is: 11 in number of lemmas, 8 in number of types and 8 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: <em>hãty, Hãtu</em>
+The 10 most frequent `NUM` lemmas: <em>hãty</em>
 
 The 10 most frequent `NUM` types:  <em>hãty, ãty, Hãtu</em>
 
@@ -21,13 +21,17 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.500000 (the average of all parts of speech is 1.184971).
+The form / lemma ratio of `NUM` is 3.000000 (the average of all parts of speech is 1.219388).
 
-The 1st highest number of forms (2) was observed with the lemma “hãty”: <em>hãty, ãty</em>.
+The 1st highest number of forms (3) was observed with the lemma “hãty”: <em>Hãtu, hãty, ãty</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “Hãtu”: <em>Hãtu</em>.
+`NUM` occurs with 1 features: <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt> (2; 22% instances)
 
-`NUM` does not occur with any features.
+`NUM` occurs with 2 feature-value pairs: `Gender=Fem`, `Gender=Masc`
+
+`NUM` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (7 tokens).
+Examples: <em>hãty, ãty</em>
 
 
 ## Relations

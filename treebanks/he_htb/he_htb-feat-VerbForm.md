@@ -22,7 +22,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Inf` (2510; 37% of non-empty `VerbForm`): לעשות, לתת, לשלם, לפנות, למנוע, לבצע, לחיות, לקבל, למצוא, לצפות
+* `Inf` (2510; 37% of non-empty `VerbForm`): לעשות, לתת, לשלם, לחיות, לפנות, למנוע, לבצע, לקבל, למצוא, לצפות
 * `Part` (4319; 63% of non-empty `VerbForm`): מדובר, אומר, חולים, כולל, נראה, יודע, רבים, רוצה, עולה, רוצים
 * `EMPTY` (7447): יש, אין, אמר, עבר, היו, היה, הגיעו, עלה, הגיע, טען
 
@@ -30,7 +30,6 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><th>Paradigm <i>אמר</i></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
   <tr><td><tt><tt><a href="he_htb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=1,2,3</tt></tt></td><td></td><td>אומר</td></tr>
   <tr><td><tt><tt><a href="he_htb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=1,2,3</tt></tt></td><td></td><td>אומרים</td></tr>
-  <tr><td><tt><tt><a href="he_htb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="he_htb-feat-HebSource.html">HebSource</a></tt><tt>=ConvUncertainHead</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=1,2,3</tt></tt></td><td></td><td>אומרת</td></tr>
   <tr><td><tt><tt><a href="he_htb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=1,2,3</tt></tt></td><td></td><td>אומרת</td></tr>
   <tr><td><tt><tt><a href="he_htb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="he_htb-feat-Person.html">Person</a></tt><tt>=1,2,3</tt></tt></td><td></td><td>אומרות</td></tr>
   <tr><td><tt></tt></td><td>לומר</td><td></td></tr>

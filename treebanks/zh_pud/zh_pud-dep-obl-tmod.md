@@ -66,7 +66,7 @@ The following 8 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 8	兩	_	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=liǎng
 9	歲	_	NOUN	NNB	_	10	obl:tmod	_	SpaceAfter=No|Translit=suì
 10	大	_	ADJ	JJ	_	12	acl:relcl	_	SpaceAfter=No|Translit=dà
-11	的	_	PART	DEC	_	10	mark:relcl	_	SpaceAfter=No|Translit=de
+11	的	_	PART	DEC	_	10	mark:rel	_	SpaceAfter=No|Translit=de
 12	女兒	_	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=nǚr
 13	。	_	PUNCT	.	_	4	punct	_	Translit=。
 
@@ -83,7 +83,7 @@ The following 8 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 2	年	_	NOUN	NNB	_	15	obl:tmod	_	SpaceAfter=No|Translit=nián
 3	最	_	ADV	RB	_	4	advmod	_	SpaceAfter=No|Translit=zuì
 4	成功	_	ADJ	JJ	_	6	amod	_	SpaceAfter=No|Translit=chénggōng
-5	的	_	PART	DEC	_	4	mark:relcl	_	SpaceAfter=No|Translit=de
+5	的	_	PART	DEC	_	4	mark:rel	_	SpaceAfter=No|Translit=de
 6	電影	_	NOUN	NN	_	15	nsubj	_	SpaceAfter=No|Translit=diànyǐng
 7	是	_	AUX	VC	_	15	cop	_	SpaceAfter=No|Translit=shì
 8	由	_	VERB	VV	_	15	acl:relcl	_	SpaceAfter=No|Translit=yóu
@@ -91,7 +91,7 @@ The following 8 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 10	·	_	PUNCT	/	_	11	punct	_	Proper=True|SpaceAfter=No|Translit=·
 11	斯瑪拉迪斯	_	PROPN	NNP	_	9	flat:name	_	SpaceAfter=No|Translit=sī瑪lā迪sī
 12	導演	_	VERB	VV	_	8	ccomp	_	SpaceAfter=No|Translit=dǎoyǎn
-13	的	_	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No|Translit=de
+13	的	_	PART	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de
 14	《	_	PUNCT	(	_	15	punct	_	SpaceAfter=No|Translit=《
 15	葛雷柯	_	PROPN	NNP	_	0	root	_	SpaceAfter=No|Translit=葛léi柯
 16	》	_	PUNCT	)	_	15	punct	_	SpaceAfter=No|Translit=》

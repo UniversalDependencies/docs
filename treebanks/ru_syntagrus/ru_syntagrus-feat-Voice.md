@@ -64,7 +64,7 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 `AUX` tokens may have the following values of `Voice`:
 
 * `Act` (8145; 100% of non-empty `Voice`): <em>было, был, были, будет, была, быть, будут, есть, будем, буду</em>
-* `EMPTY` (1524): <em>бы, б</em>
+* `EMPTY` (1540): <em>бы, б</em>
 
 ## Relations with Agreement in `Voice`
 

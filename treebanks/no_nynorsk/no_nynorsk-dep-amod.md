@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-15166 nodes (5%) are attached to their parents as `amod`.
+14779 nodes (5%) are attached to their parents as `amod`.
 
-14180 instances of `amod` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.31959646577872.
+14180 instances of `amod` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.24007037011976.
 
-The following 7 pairs of parts of speech are connected with `amod`: <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (14724; 97% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (214; 1% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (110; 1% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (76; 1% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (34; 0% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="no_nynorsk-pos-X.html">X</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `amod`: <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (14425; 98% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (200; 1% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (103; 1% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (29; 0% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (16; 0% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="no_nynorsk-pos-X.html">X</a></tt>-<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

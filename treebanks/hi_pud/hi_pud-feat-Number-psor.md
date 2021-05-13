@@ -20,7 +20,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="hi_pud-pos-PRON.htm
 
 287 <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> tokens (25% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="hi_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (286; 100%), <tt><a href="hi_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (197; 69%), <tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (197; 69%), <tt><a href="hi_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt> (189; 66%), <tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (179; 62%), <tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (177; 62%), <tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (152; 53%).
+The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="hi_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (283; 99%), <tt><a href="hi_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (197; 69%), <tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (197; 69%), <tt><a href="hi_pud-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=Masc</tt> (189; 66%), <tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (179; 62%), <tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt> (177; 62%), <tt><a href="hi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (152; 53%).
 
 `PRON` tokens may have the following values of `Number[psor]`:
 

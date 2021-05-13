@@ -69,7 +69,7 @@ The following 7 pairs of parts of speech are connected with `vocative`: <tt><a h
 4	děvenko	děvenka	NOUN	NNFS5-----A----	Case=Voc|Gender=Fem|Number=Sing|Polarity=Pos	2	vocative	2:vocative|8:vocative	SpaceAfter=No
 5	,	,	PUNCT	Z:-------------	_	8	punct	8:punct	_
 6	máma	máma	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	8	nsubj	8:nsubj	_
-7	ji	on	PRON	PPFS4--3-------	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	8:obj	_
+7	ji	on	PRON	PPFS4--3-------	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	8	obj	8:obj	_
 8	má	mít	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	0:root|2:conj	_
 9	taky	také	ADV	Db-------------	_	8	advmod	8:advmod	LGloss=(rovněž)
 10	ráda	rád	ADJ	ACQW------A----	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short	8	obl	8:obl	SpaceAfter=No

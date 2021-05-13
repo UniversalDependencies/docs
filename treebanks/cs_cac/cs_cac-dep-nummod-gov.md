@@ -48,7 +48,7 @@ The following 3 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 1	A	a	CCONJ	J^-------------	_	5	cc	5:cc	LId=a-1
 2	já	já	PRON	PP-S1--1-------	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
 3	už	už	ADV	Db-------------	_	5	advmod	5:advmod	_
-4	jich	on	PRON	PPXP2--3-------	Case=Gen|Number=Plur|Person=3|PronType=Prs	5	obj	5:obj	_
+4	jich	on	PRON	PPXP2--3-------	Case=Gen|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	5	obj	5:obj	_
 5	mám	mít	VERB	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 6	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	7	case	7:case	LId=v-1
 7	sobě	se	PRON	P6-X6----------	Case=Loc|PronType=Prs|Reflex=Yes	5	obl	5:obl:v:loc	LGloss=(zvr._zájmeno/částice)

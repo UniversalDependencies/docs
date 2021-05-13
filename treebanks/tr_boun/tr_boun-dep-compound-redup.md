@@ -41,11 +41,11 @@ The following 37 pairs of parts of speech are connected with `compound:redup`: <
 1	Aslan	Aslan	PROPN	Prop	Case=Nom|Number=Sing|Person=3	2	nmod:poss	_	_
 2	burcu	Burcu	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	nmod:poss	_	_
 3	kadınları	kadın	ADJ	NAdj	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	7	nsubj	_	_
-4	yalandan	yalan	ADV	Noun	Case=Abl|Number=Sing|Person=3	7	advmod	_	SpaceAfter=No
+4	yalandan	yalan	ADV	Noun	_	7	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	Punc	_	6	punct	_	_
-6	dolandan	dol	NOUN	Noun	Case=Abl|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Part	4	compound:redup	_	_
+6	dolandan	dol	NOUN	Noun	_	4	compound:redup	_	_
 7	nefret	nefret	NOUN	Noun	Case=Nom|Number=Sing|Person=3	0	root	_	_
-8	ederler	et	VERB	Verb	Aspect=Hab|Number=Plur|Person=3|Polarity=Pos|Tense=Aor	7	compound:lvc	_	SpaceAfter=No
+8	ederler	et	VERB	Verb	Aspect=Hab|Number=Plur|Person=3|Polarity=Pos|Tense=Pres	7	compound:lvc	_	SpaceAfter=No
 9	.	.	PUNCT	Punc	_	7	punct	_	SpacesAfter=\n
 
 ~~~

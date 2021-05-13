@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="hu_szeged-pos-NUM.h
 
 1115 <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1112; 100%), <tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1005; 90%), <tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=EMPTY</tt> (639; 57%), <tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (635; 57%), <tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (635; 57%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1112; 100%), <tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1005; 90%).
 
 `NUM` tokens may have the following values of `NumType`:
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 184 <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Nom</tt> (184; 100%), <tt><a href="hu_szeged-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (184; 100%), <tt><a href="hu_szeged-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (184; 100%), <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (183; 99%), <tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=None</tt> (112; 61%), <tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt><tt>=None</tt> (112; 61%), <tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt><tt>=None</tt> (112; 61%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Nom</tt> (184; 100%), <tt><a href="hu_szeged-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (184; 100%), <tt><a href="hu_szeged-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (184; 100%), <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (183; 99%).
 
 `ADJ` tokens may have the following values of `NumType`:
 

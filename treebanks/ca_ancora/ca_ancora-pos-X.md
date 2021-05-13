@@ -19,12 +19,12 @@ The 10 most frequent ambiguous types:  <em>8'4</em> (<tt><a href="ca_ancora-pos-
 
 
 * <em>8'4</em>
-  * <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> 1: <em>Les previsions situen la demanda de viatgers en els 19'4 milions anuals , que variaria entre els <b>8'4</b> milions de viatgers del primer any als 21 milions per al quinzè any de funcionament .</em>
-  * <tt><a href="ca_ancora-pos-X.html">X</a></tt> 1: <em>Malgrat que en la passada Setmana Santa no es va produir cap incident , la demanda del servei va superar en un <b>8'4</b> % la que es va registrar en el mateix període de l' any anterior .</em>
+  * <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> 1: <em>Les previsions situen la demanda de viatgers en els 19'4 milions anuals , que variaria entre els <b>8'4</b> milions de viatgers de el primer any a els 21 milions per a el quinzè any de funcionament .</em>
+  * <tt><a href="ca_ancora-pos-X.html">X</a></tt> 1: <em>Malgrat que en la passada Setmana Santa no es va produir cap incident , la demanda de el servei va superar en un <b>8'4</b> % la que es va registrar en el mateix període de l' any anterior .</em>
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.411346).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.413654).
 
 The 1st highest number of forms (1) was observed with the lemma “1'2”: <em>1'2</em>.
 

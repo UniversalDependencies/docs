@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Sookyoung Kwak, Yongseok Cho, Martin Popel, Daniel Zeman.
 
 Repository: [UD_Korean-PUD](https://github.com/UniversalDependencies/UD_Korean-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udko_pud27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udko_pud28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 3.0
 
@@ -92,7 +92,7 @@ employ ten-fold cross-validation.
 
 ## Relations
 
-[acl:relcl](ko_pud-dep-acl-relcl.html) – [advcl](ko_pud-dep-advcl.html) – [advmod](ko_pud-dep-advmod.html) – [amod](ko_pud-dep-amod.html) – [appos](ko_pud-dep-appos.html) – [aux](ko_pud-dep-aux.html) – [cc](ko_pud-dep-cc.html) – [ccomp](ko_pud-dep-ccomp.html) – [compound](ko_pud-dep-compound.html) – [compound:lvc](ko_pud-dep-compound-lvc.html) – [conj](ko_pud-dep-conj.html) – [cop](ko_pud-dep-cop.html) – [csubj](ko_pud-dep-csubj.html) – [csubj:pass](ko_pud-dep-csubj-pass.html) – [dep](ko_pud-dep-dep.html) – [dep:prt](ko_pud-dep-dep-prt.html) – [det](ko_pud-dep-det.html) – [discourse](ko_pud-dep-discourse.html) – [fixed](ko_pud-dep-fixed.html) – [flat](ko_pud-dep-flat.html) – [flat:name](ko_pud-dep-flat-name.html) – [goeswith](ko_pud-dep-goeswith.html) – [iobj](ko_pud-dep-iobj.html) – [nmod:poss](ko_pud-dep-nmod-poss.html) – [nsubj](ko_pud-dep-nsubj.html) – [nsubj:pass](ko_pud-dep-nsubj-pass.html) – [nummod](ko_pud-dep-nummod.html) – [obj](ko_pud-dep-obj.html) – [obl](ko_pud-dep-obl.html) – [obl:tmod](ko_pud-dep-obl-tmod.html) – [orphan](ko_pud-dep-orphan.html) – [punct](ko_pud-dep-punct.html) – [root](ko_pud-dep-root.html) – [vocative](ko_pud-dep-vocative.html)
+[acl:relcl](ko_pud-dep-acl-relcl.html) – [advcl](ko_pud-dep-advcl.html) – [advmod](ko_pud-dep-advmod.html) – [amod](ko_pud-dep-amod.html) – [appos](ko_pud-dep-appos.html) – [aux](ko_pud-dep-aux.html) – [case](ko_pud-dep-case.html) – [cc](ko_pud-dep-cc.html) – [ccomp](ko_pud-dep-ccomp.html) – [compound](ko_pud-dep-compound.html) – [compound:lvc](ko_pud-dep-compound-lvc.html) – [conj](ko_pud-dep-conj.html) – [cop](ko_pud-dep-cop.html) – [csubj](ko_pud-dep-csubj.html) – [csubj:pass](ko_pud-dep-csubj-pass.html) – [dep](ko_pud-dep-dep.html) – [det](ko_pud-dep-det.html) – [discourse](ko_pud-dep-discourse.html) – [fixed](ko_pud-dep-fixed.html) – [flat](ko_pud-dep-flat.html) – [flat:name](ko_pud-dep-flat-name.html) – [goeswith](ko_pud-dep-goeswith.html) – [iobj](ko_pud-dep-iobj.html) – [nmod:poss](ko_pud-dep-nmod-poss.html) – [nsubj](ko_pud-dep-nsubj.html) – [nsubj:pass](ko_pud-dep-nsubj-pass.html) – [nummod](ko_pud-dep-nummod.html) – [obj](ko_pud-dep-obj.html) – [obl](ko_pud-dep-obl.html) – [obl:tmod](ko_pud-dep-obl-tmod.html) – [orphan](ko_pud-dep-orphan.html) – [punct](ko_pud-dep-punct.html) – [root](ko_pud-dep-root.html) – [vocative](ko_pud-dep-vocative.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -212,33 +212,6 @@ employ ten-fold cross-validation.
       <li>PART-Ger: 있음을, 되기를, 주기를</li>
       <li>PRON: 이를, 그것을, 그를, 우리를, 그녀를, 그곳을, 나를, 이들을</li>
       <li>PROPN: 남극을, 모라비아를, 영국을, 지중해를, 테르모필레를, Medal를, 광저우를, 그리스를, 대서양을, 독일을</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Advb
-    <ul>
-      <li>ADJ-Ger: 그럼에, 아름다움에</li>
-      <li>DET: 총으로</li>
-      <li>NOUN: 때문에, 것으로, 월에, 년에, 사이에, 방식으로, 정도로, 지역에서, 사람들에게, 처음으로</li>
-      <li>NUM: 50에, 만에, 백만에서, 하나에는, 하나와</li>
-      <li>PART: 에, 에서, 와, 로, 과, 처럼, 보다, 않기로, 에게, 으로</li>
-      <li>PART-Fin: 있는지에, 할지에</li>
-      <li>PART-Ger: 않기로, 가르치기보다, 거둠으로써, 되기에, 됨으로써, 보기로, 보냄으로써, 세움으로써, 쓰기로, 열기로</li>
-      <li>PRON: 그곳에서, 그녀에게, 여기에서, 이것으로, 이로, 그것에, 그로써, 그에게, 우리에게, 이와</li>
-      <li>PROPN: 미국에, 영국에서, 글래스고에서, 스위스에서, 아프리카에서, 알래스카에, 알프스에, BBC에게, BBC에서, CNN에</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Comp
-    <ul>
-      <li>NOUN: 게, 대통령이, 도움이, 것이, 대상이, 도구가, 계획이, 곳은, 공간이, 공급원이</li>
-      <li>PART: 이</li>
-      <li>PRON: 누가</li>
-      <li>PROPN: 라스티슬라프가, 총무가</li>
     </ul>
   </li>
 </ul>
@@ -445,15 +418,15 @@ employ ten-fold cross-validation.
       <li>ADJ-Ger: 그럼에, 놀랍기는, 심각함은, 아름다움에, 있기를</li>
       <li>ADV: 불과했어요</li>
       <li>AUX-Fin: 이세요</li>
-      <li>DET: 있는가를, 총으로</li>
+      <li>DET: 총으로, 있는가를</li>
       <li>DET-Fin: 있는가를</li>
-      <li>NOUN: 때문에, 것으로, 것을, 것이, 것은, 지역의, 명의, 영향을, 정부는, 개의</li>
+      <li>NOUN: 때문에, 것으로, 것이, 월에, 것을, 년에, 사이에, 것은, 방식으로, 정도로</li>
       <li>NUM: 하나는, 하나와, 1은, 50에, 만에, 백만에서, 하나를, 하나에는</li>
-      <li>PART: 의, 는, 에, 와, 가, 에서, 이, 은, 과, 를</li>
+      <li>PART: 에, 의, 는, 와, 에서, 가, 과, 이, 은, 로</li>
       <li>PART-Fin: 않았어요, 나뉘어졌는가를, 나는군요, 나왔나요, 말고를, 바라요, 아는지와, 있는지에, 좋겠어요, 좋아했어요</li>
       <li>PART-Ger: 있음을, 않기로, 가르치기보다, 거둠으로써, 되기를, 되기에, 됨으로써, 됨은, 보기로, 보냄으로써</li>
       <li>PRON: 그는, 자신의, 그의, 그녀는, 나는, 그것은, 그들은, 이는, 그녀가, 그녀의</li>
-      <li>PROPN: 중국의, 영국의, 마케도니아의, 독일과, 미국에, 유럽의, 태국의, 히치콕의, 남극을, 미시마는</li>
+      <li>PROPN: 중국의, 미국에, 영국에서, 영국의, 마케도니아의, 글래스고에서, 독일과, 스위스에서, 아프리카에서, 알래스카에</li>
       <li>VERB: 눈</li>
     </ul>
   </li>
@@ -513,11 +486,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (24)</li>
+      <li>VERB--NOUN (19)</li>
+      <li>VERB--NOUN-ADP(가) (2)</li>
+      <li>VERB--NOUN-ADP(은) (1)</li>
+      <li>VERB--NOUN-ADP(이) (2)</li>
       <li>VERB--NOUN-Nom (164)</li>
       <li>VERB--PRON (1)</li>
       <li>VERB--PRON-Nom (32)</li>
-      <li>VERB-Fin--NOUN (17)</li>
+      <li>VERB-Fin--NOUN (14)</li>
+      <li>VERB-Fin--NOUN-ADP(가) (1)</li>
+      <li>VERB-Fin--NOUN-ADP(는) (2)</li>
       <li>VERB-Fin--NOUN-Nom (132)</li>
       <li>VERB-Fin--PRON (2)</li>
       <li>VERB-Fin--PRON-Nom (39)</li>
@@ -531,11 +509,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (30)</li>
+      <li>VERB--NOUN (27)</li>
+      <li>VERB--NOUN-ADP(를) (2)</li>
+      <li>VERB--NOUN-ADP(을) (1)</li>
       <li>VERB--NOUN-Acc (333)</li>
       <li>VERB--PRON (1)</li>
       <li>VERB--PRON-Acc (10)</li>
-      <li>VERB-Fin--NOUN (19)</li>
+      <li>VERB-Fin--NOUN (15)</li>
+      <li>VERB-Fin--NOUN-ADP(과) (1)</li>
+      <li>VERB-Fin--NOUN-ADP(를) (2)</li>
+      <li>VERB-Fin--NOUN-ADP(을) (1)</li>
       <li>VERB-Fin--NOUN-Acc (108)</li>
       <li>VERB-Fin--PRON (1)</li>
       <li>VERB-Fin--PRON-Acc (2)</li>
@@ -548,10 +531,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN (1)</li>
-      <li>VERB--NOUN-Advb (2)</li>
-      <li>VERB-Fin--NOUN-Advb (2)</li>
-      <li>VERB-Fin--PRON-Advb (2)</li>
+      <li>VERB--NOUN (3)</li>
+      <li>VERB-Fin--NOUN (2)</li>
+      <li>VERB-Fin--PRON (2)</li>
     </ul>
   </li>
 </ul>
@@ -562,7 +544,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>compound:lvc</a>, <a>csubj:pass</a>, <a>dep:prt</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>compound:lvc</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:tmod</a></li>
 <li>The following 2 main types are not used alone, they are always subtyped: <a>acl</a>, <a>nmod</a></li>
-<li>The following 9 relation types are not used in this corpus at all: <a>xcomp</a>, <a>expl</a>, <a>dislocated</a>, <a>mark</a>, <a>clf</a>, <a>case</a>, <a>list</a>, <a>parataxis</a>, <a>reparandum</a></li>
+<li>The following 8 relation types are not used in this corpus at all: <a>xcomp</a>, <a>expl</a>, <a>dislocated</a>, <a>mark</a>, <a>clf</a>, <a>list</a>, <a>parataxis</a>, <a>reparandum</a></li>
 </ul>

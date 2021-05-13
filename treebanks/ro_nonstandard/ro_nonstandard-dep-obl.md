@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Romanian-Nonstandard: Relations: `obl`
 
 This relation is universal.
+There are 2 language-specific subtypes of `obl`: <tt><a href="ro_nonstandard-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="ro_nonstandard-dep-obl-pmod.html">obl:pmod</a></tt>.
 
 32909 nodes (6%) are attached to their parents as `obl`.
 

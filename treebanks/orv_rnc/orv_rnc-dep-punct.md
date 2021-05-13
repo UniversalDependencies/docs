@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of punct in UD_Old_Russian-RNC'
+title:  'Statistics of punct in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Relations: `punct`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Relations: `punct`
 
 This relation is universal.
 
@@ -13,7 +13,7 @@ This relation is universal.
 2815 instances of `punct` (62%) are right-to-left (child precedes parent).
 Average distance between parent and child is 7.43697478991597.
 
-The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (1975; 44% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (1918; 42% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (286; 6% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (151; 3% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (68; 2% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (49; 1% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (29; 1% instances), <tt><a href="orv_rnc-pos-X.html">X</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (28; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="orv_rnc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (1975; 44% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (1918; 42% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (285; 6% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (152; 3% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (68; 2% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (49; 1% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (29; 1% instances), <tt><a href="orv_rnc-pos-X.html">X</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (28; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="orv_rnc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt>-<tt><a href="orv_rnc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

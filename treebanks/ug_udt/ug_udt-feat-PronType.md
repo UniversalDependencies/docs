@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="ug_udt-pos-PRON.htm
 
 1945 <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> tokens (72% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ug_udt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1408; 72%), <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1041; 54%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ug_udt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1407; 72%), <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1041; 54%).
 
 `PRON` tokens may have the following values of `PronType`:
 

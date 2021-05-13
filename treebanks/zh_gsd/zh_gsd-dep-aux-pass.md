@@ -7,14 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Chinese-GSD: Relations: `aux:pass`
 
 This relation is a language-specific subtype of <tt><a href="zh_gsd-dep-aux.html">aux</a></tt>.
-There are also 1 other language-specific subtypes of `aux`: <tt><a href="zh_gsd-dep-aux-aspect.html">aux:aspect</a></tt>.
 
 426 nodes (0%) are attached to their parents as `aux:pass`.
 
 426 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.06807511737089.
+Average distance between parent and child is 2.05868544600939.
 
-The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (422; 99% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (423; 99% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +23,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 6	fgColor:white
 # visual-style 6 5 aux:pass	color:blue
 1	數百萬	數百萬	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
+2	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No
 3	巧克力	巧克力	NOUN	NN	_	4	compound	_	SpaceAfter=No
 4	棒	棒	PART	SFN	_	6	nsubj:pass	_	SpaceAfter=No
 5	被	被	VERB	BB	Voice=Pass	6	aux:pass	_	SpaceAfter=No
@@ -35,7 +34,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 10	瑪氏	瑪氏	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No
 11	則	則	ADV	RB	_	12	mark	_	SpaceAfter=No
 12	中斷	中斷	VERB	VV	_	6	parataxis	_	SpaceAfter=No
-13	了	了	PART	AS	Aspect=Perf	12	aux:aspect	_	SpaceAfter=No
+13	了	了	AUX	AS	Aspect=Perf	12	aux	_	SpaceAfter=No
 14	生產	生產	NOUN	NN	_	12	obj	_	SpaceAfter=No
 15	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
 16	公司	公司	NOUN	NN	_	17	nmod	_	SpaceAfter=No
@@ -66,7 +65,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 9	認為	認為	AUX	VV	_	11	cop	_	SpaceAfter=No
 10	最	最	ADV	RB	_	11	advmod	_	SpaceAfter=No
 11	原始	原始	ADJ	JJ	_	13	acl:relcl	_	SpaceAfter=No
-12	的	的	PART	DEC	_	11	mark:relcl	_	SpaceAfter=No
+12	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No
 13	陶塤	陶塤	NOUN	NN	_	19	nsubj	_	SpaceAfter=No
 14	均	均	ADV	RB	_	15	advmod	_	SpaceAfter=No
 15	只有	只有	VERB	VV	_	19	advcl	_	SpaceAfter=No
@@ -107,7 +106,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 19	瓮城	瓮城	PROPN	NNP	_	23	nsubj	_	SpaceAfter=No
 20	幾乎	幾乎	ADV	RB	_	23	advmod	_	SpaceAfter=No
 21	為	為	AUX	VC	_	23	cop	_	SpaceAfter=No
-22	正	正	PART	PFA	_	23	case:pref	_	SpaceAfter=No
+22	正	正	PART	PFA	_	23	case	_	SpaceAfter=No
 23	方形	方形	NOUN	NN	_	6	parataxis	_	SpaceAfter=No
 24	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
 25	南北	南北	NOUN	NN	_	26	nsubj	_	SpaceAfter=No

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-217 nodes (4%) are attached to their parents as `obj`.
+282 nodes (4%) are attached to their parents as `obj`.
 
-123 instances of `obj` (57%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.89400921658986.
+168 instances of `obj` (60%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.08510638297872.
 
-The following 8 pairs of parts of speech are connected with `obj`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (171; 79% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (34; 16% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (6; 3% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `obj`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (199; 71% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (59; 21% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (11; 4% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (6; 2% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 8 pairs of parts of speech are connected with `obj`: <tt><a href="
 1	Ныв	ныв	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
 2	ёртыслы	ёрт	NOUN	N	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl	_	_
 3	гижис	гижны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-4	письмӧ	письмӧ	NOUN	N	Case=Nom|Number=Sing	3	obj	_	Lang=Mixed|SpaceAfter=No
+4	письмӧ	письмӧ	NOUN	N	Case=Nom|Number=Sing	3	obj	_	OrigLang=ru|SpaceAfter=No
 5	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
@@ -51,23 +51,21 @@ The following 8 pairs of parts of speech are connected with `obj`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 11 obj	color:blue
-1	Урожай	урожай	NOUN	N	Case=Nom|Number=Sing	2	obj	_	Lang=Mixed
-2	идралӧм	идравны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	4	csubj	_	_
-3	–	–	PUNCT	PUNCT	_	4	punct	_	_
-4	удж	удж	NOUN	N	Case=Nom|Number=Sing	0	root	_	_
-5	сезоннӧй	сезоннӧй	ADJ	A	Case=Nom|Number=Sing	4	amod	_	Lang=Mixed|SpaceAfter=No
-6	,	,	PUNCT	CLB	_	9	punct	_	_
-7	сійӧ	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
-8	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres	9	aux:neg	_	_
-9	виччысь	виччыны	VERB	V	Connegative=Yes	5	conj	_	_
-10	некутшӧм	некутшӧм	ADJ	A	Case=Nom|Number=Sing|Polarity=Neg	11	amod	_	_
-11	нюжмасьӧм	нюжмасьны	VERB	V	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part	9	obj	_	SpaceAfter=No
-12	.	.	PUNCT	CLB	_	4	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 obj	color:blue
+1	Сэсся	сэсся	ADV	Adv	_	2	advmod:tmod	_	_
+2	тэчи	тэчны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,Err/Dial,Sg3
+3	чукӧртӧмасӧ	чукӧртны	VERB	V	Clitic=So|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=2	2	obj	_	GTtags=TV,Ind,Prt2,Sg3,Clt/сӧ
+4	ас	ас	PRON	Pron	PronType=Prs|Reflex=Yes	2	obl	_	GTtags=Det,Refl,Abs
+5	гӧгӧр	гӧгӧр	ADP	Adp	AdpType=Post|Case=Nom|Number=Sing	4	case	_	GTtags=Po,Sg,Nom
+6	да	да	CCONJ	CC	_	7	cc	_	_
+7	заводиті	заводитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	2	conj	_	GTtags=IV,Ind,Prt1,Err/Dial,Sg3
+8	войсӧ	вой	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	obj	_	GTtags=Sg,Acc,PxSg3
+9	виччысьны	виччысьны	VERB	V	Valency=2|VerbForm=Inf	7	xcomp	_	GTtags=TV,Inf|SpaceAfter=No
+10	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 

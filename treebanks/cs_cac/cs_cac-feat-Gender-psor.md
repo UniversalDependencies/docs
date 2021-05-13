@@ -54,7 +54,7 @@ The most frequent other feature values with which `ADJ` and `Gender[psor]` co-oc
 `ADJ` tokens may have the following values of `Gender[psor]`:
 
 
-`Gender[psor]` seems to be **lexical feature** of `ADJ`. 100% lemmas (304) occur only with one value of `Gender[psor]`.
+`Gender[psor]` seems to be **lexical feature** of `ADJ`. 100% lemmas (303) occur only with one value of `Gender[psor]`.
 
 ## Relations with Agreement in `Gender[psor]`
 

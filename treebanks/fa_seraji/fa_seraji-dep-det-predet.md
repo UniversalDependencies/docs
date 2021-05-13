@@ -50,7 +50,7 @@ The following 4 pairs of parts of speech are connected with `det:predet`: <tt><a
 5	سلاحی	سلاح	NOUN	N_SING	Number=Sing	7	obj	_	_
 6	حمل	حمل	NOUN	N_SING	Number=Sing	7	compound:lvc	_	_
 7	نمی‌کرد	_	VERB	V_PA	Number=Sing|Person=3|Tense=Past	1	acl:relcl	_	SpaceAfter=No
-8	،	،	PUNCT	DELM	_	12	punct	_	_
+8	،	،	PUNCT	DELM	_	1	punct	_	_
 9	توسط	توسط	ADP	P	_	10	case	_	_
 10	پلیس	پلیس	NOUN	N_SING	Number=Sing	12	nmod	_	_
 11	بروکسل	_	NOUN	N_SING	Number=Sing	10	nmod:poss	_	_

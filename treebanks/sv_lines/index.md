@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Lars Ahrenberg.
 
 Repository: [UD_Swedish-LinES](https://github.com/UniversalDependencies/UD_Swedish-LinES)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_lines27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_lines28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -421,18 +421,10 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 </ul>
 
 <ul>
-  <li>Opt
-    <ul>
-      <li>VERB-Fin: LEVE</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li>Sub
     <ul>
       <li>AUX-Fin: vore, måtte, finge</li>
-      <li>VERB-Fin: vore, förbanne, ginge, vare, vete</li>
+      <li>VERB-Fin: vore, LEVE, förbanne, ginge, vare, vete</li>
     </ul>
   </li>
 </ul>
@@ -479,14 +471,6 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
       <li>VERB-Inf: göra, ta, se, gå, komma, använda, få, bli, ha, säga</li>
       <li>VERB-Part: leende, flåsande, sittande, svävande, tröstande, dansande, dinglande, fastställande, flämtande, frågande</li>
       <li>VERB-Sup: kommit, gjort, fått, varit, sett, gått, blivit, sagt, hört, tagit</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Mid
-    <ul>
-      <li>VERB-Fin: trängdes</li>
     </ul>
   </li>
 </ul>

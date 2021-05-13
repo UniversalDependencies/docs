@@ -30,7 +30,7 @@ The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a
 5	коливатись	коливатися	VERB	Vmpn	Aspect=Imp|VerbForm=Inf	4	xcomp	4:xcomp	Id=2d5r|LTranslit=kolyvatyśа|Translit=kolyvatyś
 6	від	від	ADP	Spsg	Case=Gen	7	case	7:case	Id=2d5s|LTranslit=vid|Translit=vid
 7	1	1	NUM	Mlcmsg	Case=Gen|Gender=Masc|NumType=Card|Uninflect=Yes	5	obl	5:obl	Id=2d5t|LTranslit=1|SpaceAfter=No|Translit=1
-8	-	-	PUNCT	U	PunctType=Ndash	9	punct	9:punct	Id=2d5u|LTranslit=-|SpaceAfter=No|Translit=-
+8	-	-	PUNCT	U	PunctType=Dash	9	punct	9:punct	Id=2d5u|LTranslit=-|SpaceAfter=No|Translit=-
 9	10	10	NUM	Mlc-g	Case=Gen|NumType=Card|Uninflect=Yes	7	flat:range	7:flat:range	Id=2d5v|LTranslit=10|Translit=10
 10	до	до	ADP	Spsg	Case=Gen	12	case	12:case	Id=2d5w|LTranslit=do|Translit=do
 11	декількох	декілька	DET	Mlc-g	Case=Gen|NumType=Card|PronType=Ind	12	det:nummod	12:det:nummod	Id=2d5x|LTranslit=dekiľka|Translit=dekiľkoch
@@ -57,7 +57,7 @@ The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a
 9	із	із	ADP	Spsg	Case=Gen	13	case	13:case	Id=2hbr|LTranslit=iz|Translit=iz
 10	сучасної	сучасний	ADJ	Afpfsgf	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	amod	13:amod	Id=2hbs|LTranslit=sučasnyj|Translit=sučasnoji
 11	арт	арт	NOUN	Ncmsnn	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	13	compound	13:compound	Id=2hbt|LTranslit=art|SpaceAfter=No|Translit=art
-12	-	-	PUNCT	U	PunctType=Hyph	11	punct	11:punct	Id=2hbu|LTranslit=-|SpaceAfter=No|Translit=-
+12	-	-	PUNCT	U	PunctType=Dash	11	punct	11:punct	Id=2hbu|LTranslit=-|SpaceAfter=No|Translit=-
 13	спільноти	спільнота	NOUN	Ncfsgn	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	8:nmod	Id=2hbv|LTranslit=spiľnota|Translit=spiľnoty
 14	відмовився	відмовитися	VERB	Vmeis-sm	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	0:root	Id=2hbw|LTranslit=vidmovytyśа|Translit=vidmovyvśа
 15	зніматися	зніматися	VERB	Vmpn	Aspect=Imp|VerbForm=Inf	14	xcomp	14:xcomp	Id=2hbx|LTranslit=znimatyśа|Translit=znimatyśа

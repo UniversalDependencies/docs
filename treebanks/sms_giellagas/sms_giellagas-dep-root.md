@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-104 nodes (8%) are attached to their parents as `root`.
+178 nodes (8%) are attached to their parents as `root`.
 
-104 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.70192307692308.
+178 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.4438202247191.
 
-The following 6 pairs of parts of speech are connected with `root`: -<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (89; 86% instances), -<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), -<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (5; 5% instances), -<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (2; 2% instances), -<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), -<tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (157; 88% instances), -<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (10; 6% instances), -<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (5; 3% instances), -<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (2; 1% instances), -<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (2; 1% instances), -<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), -<tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 6 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0 3 root	color:blue
 1	Tõt	tõt	DET	Det	Case=Nom|Number=Sing|PronType=Dem	2	det	_	GTtags=Dem,Sg,Nom
 2	nijdd	nijdd	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	3	nsubj	_	GTtags=Sem/Kin,Sg,Nom
-3	ǩeeʹrjti	ǩeeʹrjted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
+3	ǩeeʹrjti	ǩeeʹrjted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=2	0	root	_	GTtags=Ind,Prt,Sg3
 4	ǩeeʹrj	ǩeʹrjj	NOUN	N	Case=Acc|Number=Sing	3	obj	_	GTtags=Sg,Acc
 5	taaurõššʼses	taaurõš	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obl	_	GTtags=Sg,Ill,PxSg3|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	3	punct	_	_
@@ -56,7 +56,7 @@ The following 6 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	fgColor:white
 # visual-style 0 2 root	color:blue
 1	Seeʹst	son	PRON	Pron	Case=Loc|Number=Plur|Person=3|PronType=Prs	2	obl	_	GTtags=Pers,Pl3,Loc
-2	jeäʹla	iʹlla	AUX	V	Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=V
+2	jeäʹla	iʹlla	AUX	V	Number=Plur|Person=3|Tense=Pres|Valency=1	0	root	_	GTtags=V
 3	ǩeeʹrjteeʹjest	ǩeeʹrjteei	NOUN	N	Case=Loc|Number=Sing	2	obl	_	GTtags=Sg,Loc
 4	võl	võl	ADV	Adv	AdvType=Tim	2	advmod	_	GTtags=Sem/Time
 5	ni	ni	PART	Pcle	_	6	advmod:neg	_	_

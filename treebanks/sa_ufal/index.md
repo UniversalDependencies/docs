@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 The following people have contributed to making this treebank part of UD: Puneet Dwivedi, Daniel Zeman, Erica Biagetti.
 
 Repository: [UD_Sanskrit-UFAL](https://github.com/UniversalDependencies/UD_Sanskrit-UFAL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsa_ufal27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsa_ufal28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -106,7 +106,7 @@ analysis of the text.
 
 <ul>
 <li>This corpus contains 259 multi-word tokens. On average, one multi-word token consists of 2.42 syntactic words.</li>
-<li>There are 250 types of multi-word tokens. Examples: चेति, अस्मत्स्वामी, मासषट्केन, यस्यार्थाः, यस्यार्थास्तस्य, वरमपि, शासनशतेन, अजातमृतमूर्खेभ्यो, अतो'हं, अत्रास्ति, अथासौ, अदितिसुता, अनन्तपारं, अनुचितस्थानप्रवेशाद्, अन्तःपुरमध्याद्, अप्राप्तकालं, अभयप्रदानं, अभिमतसिद्धये, आवयोर्भक्षितशेष, आहारो'स्त्येव, इवात्मानं, इहागमनम्, इ​ह​ा​ग​म​न​े​न​ा​न​ु​ग​ृ​ह​ी​त​ा​स​्​म​ि, उदकग्रहणार्थम्, उदकपानार्थम्, एकप्रदेशे, एतस्मिन्नन्तरे, एवञ्च, एवेदम्, कठोरहृदयम्, कदाचिद्रात्रौ, कन्यैव, कर्तव्याश्चेति, कर्मकराः, कलितचरणो, क​स​्​म​ि​ं​श​्​च​ि​न​्​न​ग​र​ा​भ​्​य​ा​स​े, किंनिमित्तम्, किञ्चिदर्थेन, किञ्चिद्यदर्थेन, कियन्मात्रम्, कीलिकापनीयते, कूटतुलामानम्, कृतघ्नः, कृतनिश्चयः, क​ो​ऽ​प​्​य​ु​प​ा​य​ो​ऽ​न​ु​ष​्​ठ​ी​य​त​ा​म​्, क्षीरमिवाम्बुमध्यात्, क्षुत्क्षामेण, गणवसुमुनयः, गतिविषयः, गम्भीरतररावम्.</li>
+<li>There are 250 types of multi-word tokens. Examples: चेति, अस्मत्स्वामी, मासषट्केन, यस्यार्थाः, यस्यार्थास्तस्य, वरमपि, शासनशतेन, अजातमृतमूर्खेभ्यो, अतो'हं, अत्रास्ति, अथासौ, अदितिसुता, अनन्तपारं, अनुचितस्थानप्रवेशाद्, अन्तःपुरमध्याद्, अप्राप्तकालं, अभयप्रदानं, अभिमतसिद्धये, आवयोर्भक्षितशेष, आहारो'स्त्येव, इवात्मानं, इहागमनम्, इहागमनेनानुगृहीतास्मि, उदकग्रहणार्थम्, उदकपानार्थम्, एकप्रदेशे, एतस्मिन्नन्तरे, एवञ्च, एवेदम्, कठोरहृदयम्, कदाचिद्रात्रौ, कन्यैव, कर्तव्याश्चेति, कर्मकराः, कलितचरणो, कस्मिंश्चिन्नगराभ्यासे, किंनिमित्तम्, किञ्चिदर्थेन, किञ्चिद्यदर्थेन, कियन्मात्रम्, कीलिकापनीयते, कूटतुलामानम्, कृतघ्नः, कृतनिश्चयः, कोऽप्युपायोऽनुष्ठीयताम्, क्षीरमिवाम्बुमध्यात्, क्षुत्क्षामेण, गणवसुमुनयः, गतिविषयः, गम्भीरतररावम्.</li>
 </ul>
 
 <h2>Morphology</h2>

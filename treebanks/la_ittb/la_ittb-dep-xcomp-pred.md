@@ -30,7 +30,7 @@ The following 9 pairs of parts of speech are connected with `xcomp:pred`: <tt><a
 6	mortem	mors	NOUN	C1|grn1|casD|gen2	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
 7	,	,	PUNCT	Punc	_	8	punct	_	_
 8	mortem	mors	NOUN	C1|grn1|casD|gen2	Case=Acc|Gender=Fem|Number=Sing	6	appos	_	_
-9	autem	autem	ADV	O4	_	8	advmod:cc	_	_
+9	autem	autem	ADV	O4	_	8	cc	_	_
 10	crucis	crux	NOUN	C1|grn1|casB|gen2	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
 11	:	:	PUNCT	Punc	_	1	punct	_	_
 

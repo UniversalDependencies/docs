@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-FQB: POS Tags: `DET`
 
 There are 16 `DET` lemmas (0%), 35 `DET` types (1%) and 3836 `DET` tokens (16%).
-Out of 17 observed tags, the rank of `DET` is: 10 in number of lemmas, 9 in number of types and 2 in number of tokens.
+Out of 16 observed tags, the rank of `DET` is: 10 in number of lemmas, 9 in number of types and 2 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>le, quel, un, son, _, ce, chaque, il, quelqu'un, 17 451</em>
 
@@ -28,20 +28,20 @@ The 10 most frequent ambiguous types:  <em>le</em> (<tt><a href="fr_fqb-pos-DET.
   * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 367: <em>Quelles sont <b>les</b> conditions pour bénéficier d' une allocation logement ?</em>
   * <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 2: <em>Vous avez oublié votre mot de passe et / ou votre identifiant : comment <b>les</b> récupérer ?</em>
 * <em>quelle</em>
-  * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 208: <em>Pour <b>quelle</b> compagnie Marty McKewon travaille -t -il ?</em>
+  * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 208: <em>Pour <b>quelle</b> compagnie Marty McKewon travaille -t-il ?</em>
   * <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 1: <em>De toutes les planètes , <b>quelle</b> est celle ayant le champ magnétique le plus puissant ?</em>
 * <em>quel</em>
-  * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 92: <em>Dans <b>quel</b> pays trouve -t -on les concours buzkhashi ?</em>
+  * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 92: <em>Dans <b>quel</b> pays trouve -t-on les concours buzkhashi ?</em>
   * <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 1: <em>Des travaux ont été réalisé dans ma résidence principale , je sais que le crédit d' impôt est limité , <b>quel</b> est le montant maximum ?</em>
 * <em>un</em>
-  * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 201: <em>Combien y a -t -il de mégaoctets dans <b>un</b> gigaoctet ?</em>
+  * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 201: <em>Combien y a -t-il de mégaoctets dans <b>un</b> gigaoctet ?</em>
   * <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 4: <em>Nommez l' <b>un</b> de les dieux principaux de l' hindouisme .</em>
 * <em>une</em>
   * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 113: <em>Qu' est -ce qu' <b>une</b> aide à le logement ?</em>
   * <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 2: <em>Nommez l' <b>une</b> de les sept merveilles de l' Antiquité .</em>
 * <em>son</em>
-  * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 17: <em>À qui Shostakovitch a -t -il dédié <b>son</b> quatuor à cordes no 8 ?</em>
-  * <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 3: <em>Quand le pilote d' essai Chuch Yeager a -t -il brisé le mur de le <b>son</b> ?</em>
+  * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 17: <em>À qui Shostakovitch a -t-il dédié <b>son</b> quatuor à cordes no 8 ?</em>
+  * <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 3: <em>Quand le pilote d' essai Chuch Yeager a -t-il brisé le mur de le <b>son</b> ?</em>
 * <em>quelles</em>
   * <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 3: <em>Je suis invalide , <b>quelles</b> sont les conséquences pour mes impôts ?</em>
   * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 2: <em>Je viens de déménager , <b>quelles</b> démarches dois -je effectuer auprès de les services fiscaux ?</em>
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>le</em> (<tt><a href="fr_fqb-pos-DET.
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.187500 (the average of all parts of speech is 1.162933).
+The form / lemma ratio of `DET` is 2.187500 (the average of all parts of speech is 1.163777).
 
 The 1st highest number of forms (11) was observed with the lemma “son”: <em>leur, leurs, ma, mes, mon, notre, sa, ses, son, vos, votre</em>.
 

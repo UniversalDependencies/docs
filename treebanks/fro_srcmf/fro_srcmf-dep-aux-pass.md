@@ -51,7 +51,7 @@ The following 5 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 4	n'	_	ADV	ADVneg	Polarity=Neg	7	advmod	_	_
 5	en	_	ADV	PROadv	PronType=Dem	8	advmod	_	_
 6	ert	_	AUX	VERcjg	VerbForm=Fin	7	aux:pass	_	_
-7	veüd	_	ADJ	ADJqua	Morph=VPar	0	root	_	_
+7	veüd	_	ADJ	ADJqua	VerbForm=Part	0	root	_	_
 8	gerun	_	NOUN	NOMcom	_	7	nsubj	_	_
 
 ~~~
@@ -66,7 +66,7 @@ The following 5 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 1	Ou	_	CCONJ	CONcoo	_	4	cc:nc	_	_
 2	nos	_	PRON	PROper	PronType=Prs	4	nsubj	_	_
 3	somes	_	AUX	VERcjg	VerbForm=Fin	4	aux:pass	_	_
-4	anchanté	_	NOUN	NOMcom	Morph=VPar	0	root	_	_
+4	anchanté	_	NOUN	NOMcom	VerbForm=Part	0	root	_	_
 5	tuit	_	PRON	PROind	PronType=Ind	4	obl	_	_
 
 ~~~

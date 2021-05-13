@@ -10,10 +10,10 @@ This relation is universal.
 
 139 nodes (8%) are attached to their parents as `appos`.
 
-138 instances of `appos` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.59712230215827.
+139 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.64028776978417.
 
-The following 5 pairs of parts of speech are connected with `appos`: <tt><a href="akk_pisandub-pos-PROPN.html">PROPN</a></tt>-<tt><a href="akk_pisandub-pos-NOUN.html">NOUN</a></tt> (125; 90% instances), <tt><a href="akk_pisandub-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_pisandub-pos-NOUN.html">NOUN</a></tt> (7; 5% instances), <tt><a href="akk_pisandub-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_pisandub-pos-PROPN.html">PROPN</a></tt> (5; 4% instances), <tt><a href="akk_pisandub-pos-PRON.html">PRON</a></tt>-<tt><a href="akk_pisandub-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="akk_pisandub-pos-PRON.html">PRON</a></tt>-<tt><a href="akk_pisandub-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `appos`: <tt><a href="akk_pisandub-pos-PROPN.html">PROPN</a></tt>-<tt><a href="akk_pisandub-pos-NOUN.html">NOUN</a></tt> (121; 87% instances), <tt><a href="akk_pisandub-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_pisandub-pos-NOUN.html">NOUN</a></tt> (10; 7% instances), <tt><a href="akk_pisandub-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_pisandub-pos-PROPN.html">PROPN</a></tt> (6; 4% instances), <tt><a href="akk_pisandub-pos-PRON.html">PRON</a></tt>-<tt><a href="akk_pisandub-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="akk_pisandub-pos-PRON.html">PRON</a></tt>-<tt><a href="akk_pisandub-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 5 pairs of parts of speech are connected with `appos`: <tt><a href
 3	6	6	NUM	_	_	5	nummod	_	_
 4	1/2	1/2	NUM	_	_	3	flat	_	_
 5	NINDA	akalu	NOUN	_	_	2	conj	_	_
-6	ša	ša	DET	_	_	7	case	_	_
+6	ša	ša	ADP	_	_	7	case	_	_
 7	É-GAL	ēkallu	NOUN	_	_	2	nmod	_	_
 8	LÚ-dAMAR-UTU	Amel-Marduk	PROPN	_	_	7	nmod	_	_
 9	LUGAL	šarru	NOUN	_	_	8	appos	_	_
@@ -48,7 +48,7 @@ The following 5 pairs of parts of speech are connected with `appos`: <tt><a href
 5	UN-MEŠ	nišu	NOUN	_	_	4	nmod	_	_
 6	-šú	-šu	PRON	_	_	5	det	_	_
 7	ep-še-e-ti	epištu	NOUN	_	_	15	obj	_	_
-8	-ša	-ša	NOUN	_	_	7	det	_	_
+8	-ša	-ša	PRON	_	_	7	det	_	_
 9	dam-qa-a-ta	damqu	ADJ	_	_	7	amod	_	_
 10	ù	u	CCONJ	_	_	11	cc	_	_
 11	lìb-ba	libbu	NOUN	_	_	7	conj	_	_

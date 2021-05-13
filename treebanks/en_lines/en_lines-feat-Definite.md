@@ -35,7 +35,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 2 <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="en_lines-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `PRON` tokens may have the following values of `Definite`:
 

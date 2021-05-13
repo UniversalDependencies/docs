@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Turkish-BOUN: POS Tags: `DET`
 
-There are 66 `DET` lemmas (0%), 69 `DET` types (0%) and 5069 `DET` tokens (4%).
+There are 65 `DET` lemmas (0%), 68 `DET` types (0%) and 5068 `DET` tokens (4%).
 Out of 17 observed tags, the rank of `DET` is: 10 in number of lemmas, 11 in number of types and 8 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>bir, bu, her, o, tüm, hiçbir, şu, bazı, birkaç, bütün</em>
@@ -22,7 +22,7 @@ The 10 most frequent ambiguous types:  <em>bir</em> (<tt><a href="tr_boun-pos-DE
   * <tt><a href="tr_boun-pos-DET.html">DET</a></tt> 2323: <em>Saddam Hüseyin , 42 yaşında iken <b>bir</b> darbeyle iktidara el koydu .</em>
   * <tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> 117: <em>Romantikte de böyle <b>bir</b> yan var .</em>
   * <tt><a href="tr_boun-pos-ADV.html">ADV</a></tt> 49: <em>"Müsait yerde"nin bu ilk haliydi , bunun <b>bir</b> de ikinci hali var dır .</em>
-  * <tt><a href="tr_boun-pos-CCONJ.html">CCONJ</a></tt> 2: <em>Babam da annem de 'deli oğlan'larının bu işi yapPoteceğine <b>bir</b> inandılar <b>bir</b> inanamadılar ama hep yanımda oldular .</em>
+  * <tt><a href="tr_boun-pos-CCONJ.html">CCONJ</a></tt> 2: <em>Babam da annem de 'deli oğlan'larının bu işi yapabileceğine <b>bir</b> inandılar <b>bir</b> inanamadılar ama hep yanımda oldular .</em>
 * <em>bu</em>
   * <tt><a href="tr_boun-pos-DET.html">DET</a></tt> 763: <em>Ancak <b>bu</b> bir teferruat gayet tabii ki .</em>
   * <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> 43: <em>Geleceğimiz , şu <b>bu</b> değil , üniversite olmalı ...</em>
@@ -35,7 +35,7 @@ The 10 most frequent ambiguous types:  <em>bir</em> (<tt><a href="tr_boun-pos-DE
 * <em>şu</em>
   * <tt><a href="tr_boun-pos-DET.html">DET</a></tt> 55: <em>Adam güldü , <b>şu</b> cevabı verdi .</em>
   * <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> 11: <em>Geleceğimiz , <b>şu</b> bu değil , üniversite olmalı ...</em>
-  * <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> 1: <em>Bu meseller yoluyla ulaşPoteceğimiz bir husus <b>şu</b> olPotir : Dua bir " ol ! " buyruğuyla ortaya çıkıyor , fakat bu " ol ! " buyruğu gelişigüzel bir " ol ! " demekten ibaret bulunmuyor .</em>
+  * <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> 1: <em>Bu meseller yoluyla ulaşabileceğimiz bir husus <b>şu</b> olabilir : Dua bir " ol ! " buyruğuyla ortaya çıkıyor , fakat bu " ol ! " buyruğu gelişigüzel bir " ol ! " demekten ibaret bulunmuyor .</em>
 * <em>bütün</em>
   * <tt><a href="tr_boun-pos-DET.html">DET</a></tt> 52: <em>Hümanizm , <b>bütün</b> bu tarifler ışığında önce İtalya'da ortaya çıkmış .</em>
   * <tt><a href="tr_boun-pos-ADJ.html">ADJ</a></tt> 47: <em>Eğer beni tanısaydınız <b>bütün</b> bunları bilirdiniz .</em>
@@ -58,12 +58,12 @@ The 10 most frequent ambiguous types:  <em>bir</em> (<tt><a href="tr_boun-pos-DE
   * <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> 2: <em>Üstelik pek <b>çoğu</b> daha uykudan uyanmış bile değil .</em>
 * <em>birer</em>
   * <tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> 10: <em>Saçlarından tutup <b>birer</b> <b>birer</b> ,</em>
-  * <tt><a href="tr_boun-pos-DET.html">DET</a></tt> 7: <em>Böylece her zekâ hastalığına ilaç olacak <b>birer</b> reçete bulunPotir .</em>
+  * <tt><a href="tr_boun-pos-DET.html">DET</a></tt> 7: <em>Böylece her zekâ hastalığına ilaç olacak <b>birer</b> reçete bulunabilir .</em>
   * <tt><a href="tr_boun-pos-ADV.html">ADV</a></tt> 2: <em>Falsolarımızı <b>birer</b> birer düzeltiyordu .</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.045455 (the average of all parts of speech is 2.389211).
+The form / lemma ratio of `DET` is 1.046154 (the average of all parts of speech is 2.389386).
 
 The 1st highest number of forms (4) was observed with the lemma “bir”: <em>BİR, bi, bir, birer</em>.
 
@@ -71,22 +71,16 @@ The 2nd highest number of forms (2) was observed with the lemma “hangi”: <em
 
 The 3rd highest number of forms (2) was observed with the lemma “çok”: <em>çok, çoğu</em>.
 
-`DET` occurs with 13 features: <tt><a href="tr_boun-feat-NumType.html">NumType</a></tt> (2525; 50% instances), <tt><a href="tr_boun-feat-Number.html">Number</a></tt> (86; 2% instances), <tt><a href="tr_boun-feat-Person.html">Person</a></tt> (86; 2% instances), <tt><a href="tr_boun-feat-Case.html">Case</a></tt> (85; 2% instances), <tt><a href="tr_boun-feat-PronType.html">PronType</a></tt> (27; 1% instances), <tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt> (17; 0% instances), <tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt> (17; 0% instances), <tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt> (4; 0% instances), <tt><a href="tr_boun-feat-Mood.html">Mood</a></tt> (2; 0% instances), <tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt> (1; 0% instances), <tt><a href="tr_boun-feat-Tense.html">Tense</a></tt> (1; 0% instances), <tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt> (1; 0% instances), <tt><a href="tr_boun-feat-Voice.html">Voice</a></tt> (1; 0% instances)
-
-`DET` occurs with 20 feature-value pairs: `Aspect=Imp`, `Case=Acc`, `Case=Nom`, `Mood=Imp`, `Mood=Pot`, `NumType=Card`, `NumType=Dist`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=2`, `Person=3`, `Person[psor]=1`, `Person[psor]=3`, `Polarity=Pos`, `PronType=Dem`, `PronType=Prs`, `Tense=Fut`, `VerbForm=Part`, `Voice=Rfl`
-
-`DET` occurs with 14 feature combinations.
-The most frequent feature combination is `NumType=Card` (2516 tokens).
-Examples: <em>bir, "bir, BİR, "Hiçbir, 0</em>
+`DET` does not occur with any features.
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 13 different relations: <tt><a href="tr_boun-dep-det.html">det</a></tt> (4943; 98% instances), <tt><a href="tr_boun-dep-nsubj.html">nsubj</a></tt> (65; 1% instances), <tt><a href="tr_boun-dep-obj.html">obj</a></tt> (18; 0% instances), <tt><a href="tr_boun-dep-obl.html">obl</a></tt> (11; 0% instances), <tt><a href="tr_boun-dep-amod.html">amod</a></tt> (9; 0% instances), <tt><a href="tr_boun-dep-conj.html">conj</a></tt> (7; 0% instances), <tt><a href="tr_boun-dep-nmod-poss.html">nmod:poss</a></tt> (5; 0% instances), <tt><a href="tr_boun-dep-root.html">root</a></tt> (4; 0% instances), <tt><a href="tr_boun-dep-compound.html">compound</a></tt> (2; 0% instances), <tt><a href="tr_boun-dep-flat.html">flat</a></tt> (2; 0% instances), <tt><a href="tr_boun-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="tr_boun-dep-compound-redup.html">compound:redup</a></tt> (1; 0% instances), <tt><a href="tr_boun-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 13 different relations: <tt><a href="tr_boun-dep-det.html">det</a></tt> (4942; 98% instances), <tt><a href="tr_boun-dep-nsubj.html">nsubj</a></tt> (65; 1% instances), <tt><a href="tr_boun-dep-obj.html">obj</a></tt> (18; 0% instances), <tt><a href="tr_boun-dep-obl.html">obl</a></tt> (11; 0% instances), <tt><a href="tr_boun-dep-amod.html">amod</a></tt> (9; 0% instances), <tt><a href="tr_boun-dep-conj.html">conj</a></tt> (7; 0% instances), <tt><a href="tr_boun-dep-nmod-poss.html">nmod:poss</a></tt> (5; 0% instances), <tt><a href="tr_boun-dep-root.html">root</a></tt> (4; 0% instances), <tt><a href="tr_boun-dep-compound.html">compound</a></tt> (2; 0% instances), <tt><a href="tr_boun-dep-flat.html">flat</a></tt> (2; 0% instances), <tt><a href="tr_boun-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="tr_boun-dep-compound-redup.html">compound:redup</a></tt> (1; 0% instances), <tt><a href="tr_boun-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 13 different parts of speech: <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> (4267; 84% instances), <tt><a href="tr_boun-pos-ADJ.html">ADJ</a></tt> (324; 6% instances), <tt><a href="tr_boun-pos-VERB.html">VERB</a></tt> (209; 4% instances), <tt><a href="tr_boun-pos-ADV.html">ADV</a></tt> (179; 4% instances), <tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (25; 0% instances), <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> (20; 0% instances), <tt><a href="tr_boun-pos-PROPN.html">PROPN</a></tt> (20; 0% instances), <tt><a href="tr_boun-pos-ADP.html">ADP</a></tt> (12; 0% instances), <tt><a href="tr_boun-pos-DET.html">DET</a></tt> (4; 0% instances),  (4; 0% instances), <tt><a href="tr_boun-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="tr_boun-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="tr_boun-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 13 different parts of speech: <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> (4266; 84% instances), <tt><a href="tr_boun-pos-ADJ.html">ADJ</a></tt> (324; 6% instances), <tt><a href="tr_boun-pos-VERB.html">VERB</a></tt> (209; 4% instances), <tt><a href="tr_boun-pos-ADV.html">ADV</a></tt> (179; 4% instances), <tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (25; 0% instances), <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> (20; 0% instances), <tt><a href="tr_boun-pos-PROPN.html">PROPN</a></tt> (20; 0% instances), <tt><a href="tr_boun-pos-ADP.html">ADP</a></tt> (12; 0% instances), <tt><a href="tr_boun-pos-DET.html">DET</a></tt> (4; 0% instances),  (4; 0% instances), <tt><a href="tr_boun-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="tr_boun-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="tr_boun-pos-X.html">X</a></tt> (1; 0% instances)
 
-4939 (97%) `DET` nodes are leaves.
+4938 (97%) `DET` nodes are leaves.
 
 99 (2%) `DET` nodes have one child.
 

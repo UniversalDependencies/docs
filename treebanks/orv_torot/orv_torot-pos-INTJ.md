@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of INTJ in UD_Old_Russian-TOROT'
+title:  'Statistics of INTJ in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: POS Tags: `INTJ`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: POS Tags: `INTJ`
 
 There are 14 `INTJ` lemmas (0%), 23 `INTJ` types (0%) and 477 `INTJ` tokens (0%).
 Out of 14 observed tags, the rank of `INTJ` is: 13 in number of lemmas, 14 in number of types and 13 in number of tokens.
@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>се</em> (<tt><a href="orv_torot-pos
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.642857 (the average of all parts of speech is 3.571089).
+The form / lemma ratio of `INTJ` is 1.642857 (the average of all parts of speech is 3.571475).
 
 The 1st highest number of forms (3) was observed with the lemma “аминъ”: <em>амин, аминъ, аминь</em>.
 

@@ -23,7 +23,7 @@ The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 1	fgColor:white
 # visual-style 1 10 ccomp	color:blue
 1	เห็น	_	VERB	VV	_	0	root	_	SpaceAfter=No
-2	ได้	_	VERB	MD	_	1	aux	_	SpaceAfter=No
+2	ได้	_	AUX	MD	_	1	aux	_	SpaceAfter=No
 3	ชัด	_	ADV	RB	_	1	advmod	_	SpaceAfter=No
 4	ที่สุด	_	ADV	RB	_	3	advmod	_	SpaceAfter=No
 5	เมื่อ	_	ADP	IN	_	10	mark	_	SpaceAfter=No
@@ -50,7 +50,7 @@ The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 2	ที่	_	ADP	IN	_	1	fixed	_	SpaceAfter=No
 3	เขา	_	PRON	PRP	Person=3	4	nsubj	_	SpaceAfter=No
 4	ว่า	_	VERB	VV	_	0	root	_	SpaceAfter=No
-5	กัน	_	PRON	PRP	_	4	advmod	_	SpaceAfter=No
+5	กัน	_	PRON	PRP	_	4	obl	_	SpaceAfter=No
 6	ว่า	_	ADP	IN	_	8	mark	_	SpaceAfter=No
 7	เป็น	_	AUX	VC	_	8	cop	_	SpaceAfter=No
 8	กระบวนการ	_	NOUN	NN	_	4	ccomp	_	SpaceAfter=No

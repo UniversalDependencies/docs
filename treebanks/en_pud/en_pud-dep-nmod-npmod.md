@@ -71,7 +71,7 @@ The following 7 pairs of parts of speech are connected with `nmod:npmod`: <tt><a
 22	loyalty	loyalty	NOUN	NN	Number=Sing	21	obj	21:obj	_
 23	to	to	ADP	IN	_	26	case	26:case	_
 24	the	the	DET	DT	Definite=Def|PronType=Art	26	det	26:det	_
-25	Egyptian	egyptian	ADJ	JJ	Degree=Pos	26	amod	26:amod	Proper=True
+25	Egyptian	Egyptian	ADJ	JJ	Degree=Pos	26	amod	26:amod	Proper=True
 26	pharaoh	pharaoh	NOUN	NN	Number=Sing	21	obl	21:obl:to	SpaceAfter=No
 27	.	.	PUNCT	.	_	13	punct	13:punct	_
 

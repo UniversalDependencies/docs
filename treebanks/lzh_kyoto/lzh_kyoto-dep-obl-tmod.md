@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="lzh_kyoto-dep-obl.html">obl</a></tt>.
 There are also 1 other language-specific subtypes of `obl`: <tt><a href="lzh_kyoto-dep-obl-lmod.html">obl:lmod</a></tt>.
 
-2077 nodes (1%) are attached to their parents as `obl:tmod`.
+2571 nodes (1%) are attached to their parents as `obl:tmod`.
 
-2014 instances of `obl:tmod` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.19499277804526.
+2501 instances of `obl:tmod` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.38428626993388.
 
-The following 7 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1974; 95% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (75; 4% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (16; 1% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (2333; 91% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> (103; 4% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (94; 4% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (19; 1% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -34,6 +34,22 @@ The following 7 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 obl:tmod	color:blue
+1	顯慶	顯慶	NOUN	n,名詞,時,*	Case=Tem	2	nmod	_	Gloss=[era-name]|SpaceAfter=No
+2	四	四	NUM	n,数詞,数字,*	_	4	obl:tmod	_	Gloss=four|SpaceAfter=No
+3	年	年	NOUN	n,名詞,時,*	Case=Tem	2	clf	_	Gloss=year|SpaceAfter=No
+4	削	削	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=pare|SpaceAfter=No
+5	無忌	無忌	PROPN	n,名詞,人,名	NameType=Giv	6	nmod	_	Gloss=[given-name]|SpaceAfter=No
+6	官	官	NOUN	n,名詞,人,役割	_	4	obj	_	Gloss=officer|SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 8	bgColor:blue
@@ -48,23 +64,6 @@ The following 7 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 7	小	小	VERB	v,動詞,描写,量	Degree=Pos|VerbForm=Part	8	amod	_	Gloss=small|SpaceAfter=No
 8	數	數	NOUN	n,名詞,数量,*	_	0	root	_	Gloss=number|SpaceAfter=No
 9	也	也	PART	p,助詞,句末,*	_	8	discourse:sp	_	Gloss=[final-particle]|SpaceAfter=No
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 obl:tmod	color:blue
-1	今	今	NOUN	n,名詞,時,*	Case=Tem	4	obl:tmod	_	Gloss=now|SpaceAfter=No
-2	魯	魯	PROPN	n,名詞,主体,国名	Case=Loc|NameType=Nat	4	nsubj	_	Gloss=[country-name]|SpaceAfter=No
-3	方	方	NOUN	n,名詞,度量衡,*	NounType=Class	4	nmod	_	Gloss=square|SpaceAfter=No
-4	百	百	NUM	n,数詞,数字,*	_	6	acl	_	Gloss=hundred|SpaceAfter=No
-5	里	里	NOUN	n,名詞,度量衡,*	NounType=Class	4	clf	_	Gloss=[distance-unit]|SpaceAfter=No
-6	者	者	PART	p,助詞,提示,*	_	7	nsubj	_	Gloss=that-which|SpaceAfter=No
-7	五	五	NUM	n,数詞,数字,*	_	0	root	_	Gloss=five|SpaceAfter=No
 
 ~~~
 

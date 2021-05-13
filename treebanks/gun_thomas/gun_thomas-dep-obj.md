@@ -24,7 +24,7 @@ The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 1 2 obj	color:blue
 1	Romoĩ	moĩ	VERB	vt	Clusivity[subj]=Ex|Mood=Ind|Person[subj]=1|Subcat=Tran|VerbForm=Fin	0	root	_	A1.PL.EXCL-CAUS-localized
 2	mitã	mitã	NOUN	n	_	1	obj	_	child
-3	oñembo'e	ñembo'e	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	1	xcomp	_	A3-learn
+3	oñembo'e	ñembo'e	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	1	xcomp	_	A3-learn
 4	aguã	aguã	SCONJ	subordconn	_	3	mark	_	PURP
 5	jurua	jurua	NOUN	n	_	3	obl	_	non.indigenous
 6	rami	rami	ADP	post	_	5	case	_	like

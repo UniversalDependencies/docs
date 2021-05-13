@@ -42,7 +42,7 @@ The following 16 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 4	fgColor:white
 # visual-style 4 1 iobj	color:blue
 1	Onlara	o	PRON	Pers	Case=Dat|Number=Plur|Person=3	4	iobj	_	_
-2	bir	bir	DET	ANum	NumType=Card	3	det	_	_
+2	bir	bir	DET	ANum	_	3	det	_	_
 3	şeyler	şey	NOUN	Noun	Case=Nom|Number=Plur|Person=3	4	obj	_	_
 4	götürsünler	götür	VERB	Verb	Mood=Imp|Number=Plur|Person=3|Polarity=Pos	0	root	_	SpaceAfter=No
 5	...	...	PUNCT	Punc	_	4	punct	_	SpacesAfter=\n

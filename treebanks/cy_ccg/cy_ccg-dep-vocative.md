@@ -22,9 +22,9 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 10 vocative	color:blue
-1	Gobeithiaf	gobeithio	VERB	verb	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	_	_
+1	Gobeithiaf	gobeithio	VERB	verb	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
 2	y	y	DET	art	_	3	det	_	_
-3	gwnewch	gwneud	VERB	verb	Mood=Ind|Number=Plur|Person=2|Tense=Fut	1	ccomp	_	_
+3	gwnewch	gwneud	VERB	verb	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	1	ccomp	_	_
 4	ystyried	ystyried	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	3	xcomp	_	_
 5	ymestyn	ymestyn	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	4	xcomp	_	_
 6	y	y	DET	art	_	7	det	_	_
@@ -42,11 +42,11 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 18	lawr	llawr	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	16	obl	_	_
 19	gwlad	gwlad	NOUN	noun	Gender=Fem|Number=Sing	18	nmod	_	_
 20	gael	cael	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	16	acl	_	_
-21	ei	ei	PRON	dep	Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obj	_	_
+21	ei	ef	PRON	dep	Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obj	_	_
 22	gyfleu	cyfleu	NOUN	verbnoun	Mutation=SM|Number=Sing|VerbForm=Vnoun	20	ccomp	_	SpaceAfter=No
 23	,	,	PUNCT	punct	_	27	punct	_	_
 24	yn	yn	ADP	prep	_	27	advmod	_	_
-25	hytrach	hytrach	ADJ	pos	Degree=Pos	24	fixed	_	_
+25	hytrach	hytrach	ADV	adv	_	24	fixed	_	_
 26	nag	na	ADP	prep	_	27	case	_	_
 27	ymgynghori	ymgynghori	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	22	advcl	_	_
 28	â	â	ADP	prep	_	30	case	_	SpaceAfter=No

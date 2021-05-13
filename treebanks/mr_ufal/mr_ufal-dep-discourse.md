@@ -22,7 +22,7 @@ The following 18 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 discourse	color:blue
-1	_	तो	PRON	_	Case=Nom|Distance=Dist|Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
+1	_	तो	PRON	_	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
 2	_	ही	PART	_	_	1	discourse	_	_
 3	म्हणाला	म्हणणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	_
@@ -39,15 +39,15 @@ The following 18 pairs of parts of speech are connected with `discourse`: <tt><a
 1	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
 2	_	खरा	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	discourse	_	_
 3	_	च	PART	_	_	2	discourse	_	_
-4	,	,	PUNCT	_	_	6	punct	_	_
+4	,	,	PUNCT	_	_	2	punct	_	_
 5	न्याय	न्याय	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
 6	उरला	उरणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 7	नाही	नाही	AUX	_	Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	6	aux	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
 9	"	"	PUNCT	_	_	6	punct	_	_
-10	_	देवी	NOUN	_	Case=Obl|Gender=Fem|Number=Sing	13	nmod:poss	_	_
+10	_	देवी	NOUN	_	Case=Abs|Gender=Fem|Number=Sing	13	nmod:poss	_	_
 11	_	चा	ADP	_	Gender=Masc|Number=Sing	10	case	_	_
-12	तो	तो	DET	_	Distance=Dist|Gender=Masc|Number=Sing|PronType=Dem	13	det	_	_
+12	तो	तो	DET	_	Deixis=Remt|Gender=Masc|Number=Sing|PronType=Dem	13	det	_	_
 13	पुजारी	पुजारी	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
 14	म्हणाला	म्हणणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Fin	6	parataxis	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	14	punct	_	_

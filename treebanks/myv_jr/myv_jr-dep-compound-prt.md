@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Erzya-JR: Relations: `compound:prt`
 
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-compound.html">compound</a></tt>.
-There are also 3 other language-specific subtypes of `compound`: <tt><a href="myv_jr-dep-compound-coll.html">compound:coll</a></tt>, <tt><a href="myv_jr-dep-compound-redup.html">compound:redup</a></tt>, <tt><a href="myv_jr-dep-compound-svc.html">compound:svc</a></tt>.
+There are also 1 other language-specific subtypes of `compound`: <tt><a href="myv_jr-dep-compound-redup.html">compound:redup</a></tt>.
 
-4 nodes (0%) are attached to their parents as `compound:prt`.
+3 nodes (0%) are attached to their parents as `compound:prt`.
 
-3 instances of `compound:prt` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.25.
+2 instances of `compound:prt` (67%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.33333333333333.
 
-The following 1 pairs of parts of speech are connected with `compound:prt`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (4; 100% instances).
+The following 1 pairs of parts of speech are connected with `compound:prt`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (3; 100% instances).
 
 
 ~~~ conllu

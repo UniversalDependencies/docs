@@ -11,7 +11,7 @@ It occurs with 1 different values: `3`.
 
 2213 tokens (6%) have a non-empty value of `Person`.
 373 types (8%) occur at least once with a non-empty value of `Person`.
-227 lemmas (8%) occur at least once with a non-empty value of `Person`.
+229 lemmas (8%) occur at least once with a non-empty value of `Person`.
 The feature is used with 4 part-of-speech tags: <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1426; 4% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (500; 1% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (216; 1% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (71; 0% instances).
 
 ### `VERB`
@@ -53,7 +53,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 71 <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> tokens (11% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (71; 100%), <tt><a href="cs_cltt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (71; 100%), <tt><a href="cs_cltt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (70; 99%), <tt><a href="cs_cltt-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (51; 72%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (36; 51%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (71; 100%), <tt><a href="cs_cltt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (71; 100%), <tt><a href="cs_cltt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (70; 99%), <tt><a href="cs_cltt-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (50; 70%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (36; 51%).
 
 `PRON` tokens may have the following values of `Person`:
 

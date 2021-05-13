@@ -106,11 +106,11 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="es_pud-dep-det.html">det</a></tt>]--> DET</tt> (2929; 100%),
+<tt>NOUN --[<tt><a href="es_pud-dep-det.html">det</a></tt>]--> DET</tt> (2956; 100%),
 <tt>NOUN --[<tt><a href="es_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1242; 100%),
 <tt>NOUN --[<tt><a href="es_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (746; 59%),
 <tt>VERB --[<tt><a href="es_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (473; 79%),
-<tt>NOUN --[<tt><a href="es_pud-dep-det.html">det</a></tt>]--> PRON</tt> (260; 100%),
+<tt>NOUN --[<tt><a href="es_pud-dep-det.html">det</a></tt>]--> PRON</tt> (261; 100%),
 <tt>NOUN --[<tt><a href="es_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (243; 71%),
 <tt>NOUN --[<tt><a href="es_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (200; 77%),
 <tt>PROPN --[<tt><a href="es_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (158; 100%),

@@ -53,11 +53,11 @@ The 2nd highest number of forms (9) was observed with the lemma “그”: 그�
 
 The 3rd highest number of forms (6) was observed with the lemma “우리”: 우리가, 우리는, 우리를, 우리에, 우리에게, 우리의.
 
-`PRON` occurs with 4 features: <tt><a href="ko_pud-feat-Case.html">Case</a></tt> (347; 93% instances), <tt><a href="ko_pud-feat-Polite.html">Polite</a></tt> (344; 92% instances), <tt><a href="ko_pud-feat-Person.html">Person</a></tt> (233; 62% instances), <tt><a href="ko_pud-feat-Number.html">Number</a></tt> (41; 11% instances)
+`PRON` occurs with 4 features: <tt><a href="ko_pud-feat-Polite.html">Polite</a></tt> (344; 92% instances), <tt><a href="ko_pud-feat-Case.html">Case</a></tt> (309; 83% instances), <tt><a href="ko_pud-feat-Person.html">Person</a></tt> (233; 62% instances), <tt><a href="ko_pud-feat-Number.html">Number</a></tt> (41; 11% instances)
 
-`PRON` occurs with 10 feature-value pairs: `Case=Acc`, `Case=Advb`, `Case=Comp`, `Case=Gen`, `Case=Nom`, `Number=Plur`, `Person=1`, `Person=2`, `Person=3`, `Polite=Form`
+`PRON` occurs with 8 feature-value pairs: `Case=Acc`, `Case=Gen`, `Case=Nom`, `Number=Plur`, `Person=1`, `Person=2`, `Person=3`, `Polite=Form`
 
-`PRON` occurs with 33 feature combinations.
+`PRON` occurs with 29 feature combinations.
 The most frequent feature combination is `Case=Nom|Person=3|Polite=Form` (94 tokens).
 Examples: 그는, 그녀는, 그녀가, 그가
 
@@ -78,7 +78,7 @@ Parents of `PRON` nodes belong to 9 different parts of speech: <tt><a href="ko_p
 
 The highest child degree of a `PRON` node is 4.
 
-Children of `PRON` nodes are attached using 11 different relations: <tt><a href="ko_pud-dep-acl-relcl.html">acl:relcl</a></tt> (9; 21% instances), <tt><a href="ko_pud-dep-cop.html">cop</a></tt> (8; 19% instances), <tt><a href="ko_pud-dep-dep-prt.html">dep:prt</a></tt> (6; 14% instances), <tt><a href="ko_pud-dep-punct.html">punct</a></tt> (5; 12% instances), <tt><a href="ko_pud-dep-compound.html">compound</a></tt> (4; 10% instances), <tt><a href="ko_pud-dep-conj.html">conj</a></tt> (3; 7% instances), <tt><a href="ko_pud-dep-det.html">det</a></tt> (2; 5% instances), <tt><a href="ko_pud-dep-nsubj.html">nsubj</a></tt> (2; 5% instances), <tt><a href="ko_pud-dep-advmod.html">advmod</a></tt> (1; 2% instances), <tt><a href="ko_pud-dep-appos.html">appos</a></tt> (1; 2% instances), <tt><a href="ko_pud-dep-nmod-poss.html">nmod:poss</a></tt> (1; 2% instances)
+Children of `PRON` nodes are attached using 11 different relations: <tt><a href="ko_pud-dep-acl-relcl.html">acl:relcl</a></tt> (9; 21% instances), <tt><a href="ko_pud-dep-cop.html">cop</a></tt> (8; 19% instances), <tt><a href="ko_pud-dep-case.html">case</a></tt> (6; 14% instances), <tt><a href="ko_pud-dep-punct.html">punct</a></tt> (5; 12% instances), <tt><a href="ko_pud-dep-compound.html">compound</a></tt> (4; 10% instances), <tt><a href="ko_pud-dep-conj.html">conj</a></tt> (3; 7% instances), <tt><a href="ko_pud-dep-det.html">det</a></tt> (2; 5% instances), <tt><a href="ko_pud-dep-nsubj.html">nsubj</a></tt> (2; 5% instances), <tt><a href="ko_pud-dep-advmod.html">advmod</a></tt> (1; 2% instances), <tt><a href="ko_pud-dep-appos.html">appos</a></tt> (1; 2% instances), <tt><a href="ko_pud-dep-nmod-poss.html">nmod:poss</a></tt> (1; 2% instances)
 
 Children of `PRON` nodes belong to 9 different parts of speech: <tt><a href="ko_pud-pos-NOUN.html">NOUN</a></tt> (9; 21% instances), <tt><a href="ko_pud-pos-AUX.html">AUX</a></tt> (8; 19% instances), <tt><a href="ko_pud-pos-PART.html">PART</a></tt> (6; 14% instances), <tt><a href="ko_pud-pos-PUNCT.html">PUNCT</a></tt> (5; 12% instances), <tt><a href="ko_pud-pos-VERB.html">VERB</a></tt> (5; 12% instances), <tt><a href="ko_pud-pos-PROPN.html">PROPN</a></tt> (4; 10% instances), <tt><a href="ko_pud-pos-DET.html">DET</a></tt> (2; 5% instances), <tt><a href="ko_pud-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="ko_pud-pos-ADV.html">ADV</a></tt> (1; 2% instances)
 

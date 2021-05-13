@@ -50,11 +50,11 @@ The following 4 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 7	дедушка	дедушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8	nsubj:pass	8:nsubj:pass	_
 8	задержан	задержать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	4	ccomp	4:ccomp	_
 9	и	и	CCONJ	_	_	15	cc	15:cc	SpaceAfter=No
-10	,	,	PUNCT	_	_	15	punct	15:punct	_
+10	,	,	PUNCT	_	_	9	punct	15:punct	_
 11	когда	когда	ADV	_	Degree=Pos	13	advmod	13:advmod	_
 12	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux:pass	13:aux:pass	_
 13	отпущен	отпустить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	15	csubj:pass	15:csubj:pass	SpaceAfter=No
-14	,	,	PUNCT	_	_	15	punct	15:punct	_
+14	,	,	PUNCT	_	_	13	punct	15:punct	_
 15	неизвестно	неизвестный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	8	conj	8:conj	SpaceAfter=No
 16	.	.	PUNCT	_	_	4	punct	4:punct	_
 

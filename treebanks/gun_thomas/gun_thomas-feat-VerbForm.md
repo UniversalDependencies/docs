@@ -30,11 +30,11 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 <table>
   <tr><th>Paradigm <i>iko</i></th><th><tt>Fin</tt></th><th><tt>Ser</tt></th></tr>
-  <tr><td><tt><tt><a href="gun_thomas-feat-Clusivity-subj.html">Clusivity[subj]</a></tt><tt>=Ex</tt>|<tt><a href="gun_thomas-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="gun_thomas-feat-Subcat.html">Subcat</a></tt><tt>=Int</tt></tt></td><td><em>roiko</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="gun_thomas-feat-Clusivity-subj.html">Clusivity[subj]</a></tt><tt>=In</tt>|<tt><a href="gun_thomas-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="gun_thomas-feat-Subcat.html">Subcat</a></tt><tt>=Int</tt></tt></td><td><em>jaiko</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="gun_thomas-feat-Clusivity-subj.html">Clusivity[subj]</a></tt><tt>=Ex</tt>|<tt><a href="gun_thomas-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="gun_thomas-feat-Subcat.html">Subcat</a></tt><tt>=Intr</tt></tt></td><td><em>roiko</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="gun_thomas-feat-Clusivity-subj.html">Clusivity[subj]</a></tt><tt>=In</tt>|<tt><a href="gun_thomas-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="gun_thomas-feat-Subcat.html">Subcat</a></tt><tt>=Intr</tt></tt></td><td><em>jaiko</em></td><td></td></tr>
   <tr><td><tt><tt><a href="gun_thomas-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>oikovy</em></td></tr>
-  <tr><td><tt><tt><a href="gun_thomas-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="gun_thomas-feat-Subcat.html">Subcat</a></tt><tt>=Int</tt></tt></td><td><em>aiko</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="gun_thomas-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="gun_thomas-feat-Subcat.html">Subcat</a></tt><tt>=Int</tt></tt></td><td><em>oiko</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="gun_thomas-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="gun_thomas-feat-Subcat.html">Subcat</a></tt><tt>=Intr</tt></tt></td><td><em>aiko</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="gun_thomas-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="gun_thomas-feat-Subcat.html">Subcat</a></tt><tt>=Intr</tt></tt></td><td><em>oiko</em></td><td></td></tr>
 </table>
 
 `VerbForm` seems to be **lexical feature** of `VERB`. 92% lemmas (90) occur only with one value of `VerbForm`.

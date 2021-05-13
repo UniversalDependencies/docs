@@ -23,14 +23,14 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 5 flat	color:blue
 1	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Entity=(person|Orig=Ⲡ
-2	ⲙⲁⲕⲁⲣⲓⲟⲥ	ⲙⲁⲕⲁⲣⲓⲟⲥ	NOUN	N	_	9	dislocated	_	_
-3	ⲇⲉ	ⲇⲉ	PART	PTC	_	9	advmod	_	_
-4	ⲁⲡⲁ	ⲁⲡⲁ	NOUN	N	_	2	appos	_	_
-5	ⲃⲓⲕⲧⲱⲣ	ⲃⲓⲕⲧⲱⲣ	PROPN	NPROP	_	4	flat	_	Entity=person)
+2	ⲙⲁⲕⲁⲣⲓⲟⲥ	ⲙⲁⲕⲁⲣⲓⲟⲥ	NOUN	N	Foreign=Yes	9	dislocated	_	OrigLang=grc
+3	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	9	advmod	_	OrigLang=grc
+4	ⲁⲡⲁ	ⲁⲡⲁ	NOUN	N	Foreign=Yes	2	appos	_	OrigLang=he
+5	ⲃⲓⲕⲧⲱⲣ	ⲃⲓⲕⲧⲱⲣ	PROPN	NPROP	Foreign=Yes	4	flat	_	Entity=person)|OrigLang=la
 6	·	·	PUNCT	PUNCT	_	4	punct	_	_
 7	ⲙⲡⲉ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	9	aux	_	Orig=ⲙ̄ⲡⲉ
 8	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
-9	ⲡⲉⲓⲑⲉ	ⲡⲉⲓⲑⲉ	VERB	V	VerbForm=Fin	0	root	_	Orig=ⲡⲓⲑⲉ
+9	ⲡⲉⲓⲑⲉ	ⲡⲉⲓⲑⲉ	VERB	V	Foreign=Yes|VerbForm=Fin	0	root	_	Orig=ⲡⲓⲑⲉ|OrigLang=grc
 10	ⲛⲁ	ⲛⲁ	ADP	PREP	_	11	case	_	_
 11	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	obl	_	_
 12	·	·	PUNCT	PUNCT	_	15	punct	_	_

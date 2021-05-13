@@ -22,35 +22,35 @@ The following 4 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 23	bgColor:blue
 # visual-style 23	fgColor:white
 # visual-style 23 28 list	color:blue
-1	Anotación	anotación	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
-2	por	por	ADP	ADP	AdpType=Prep	3	case	_	_
-3	cuartos	cuarto	NOUN	NOUN	Gender=Masc|Number=Plur	1	nmod	_	SpaceAfter=No
-4	:	:	PUNCT	PUNCT	PunctType=Colo	5	punct	_	_
-5	1ro	1	ADJ	NUM	NumForm=Digit|NumType=Ord	1	appos	_	_
-6	2do	2	ADJ	NUM	NumForm=Digit|NumType=Ord	5	list	_	_
-7	3ro	3	ADJ	NUM	NumForm=Digit|NumType=Ord	5	list	_	_
-8	4to	4	ADJ	NUM	NumForm=Digit|NumType=Ord	5	list	_	_
-9	PO	PO	NOUN	PROPN	_	5	list	_	MWE=PO_Total|MWEPOS=PROPN
-10	Total	Total	NOUN	PROPN	_	5	list	_	_
-11	-	-	PUNCT	PUNCT	PunctType=Dash	13	punct	_	_
-12	Los	el	DET	DET	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
-13	Angeles	Angeles	PROPN	PROPN	_	1	appos	_	MWE=Angeles_Lakers|MWEPOS=PROPN
-14	Lakers	Lakers	PROPN	PROPN	_	13	flat	_	_
-15	27	27	NUM	NUM	NumForm=Digit|NumType=Card	13	appos	_	_
-16	30	30	NUM	NUM	NumForm=Digit|NumType=Card	15	list	_	_
-17	35	35	NUM	NUM	NumForm=Digit|NumType=Card	15	list	_	_
-18	15	15	NUM	NUM	NumForm=Digit|NumType=Card	15	list	_	_
-19	15	15	NUM	NUM	NumForm=Digit|NumType=Card	15	list	_	_
-20	122	122	NUM	NUM	NumForm=Digit|NumType=Card	15	list	_	_
-21	Golden	Golden	PROPN	PROPN	_	13	list	_	MWE=Golden_State|MWEPOS=PROPN
-22	State	State	PROPN	PROPN	_	21	flat	_	_
-23	31	31	NUM	NUM	NumForm=Digit|NumType=Card	21	appos	_	_
-24	32	32	NUM	NUM	NumForm=Digit|NumType=Card	23	list	_	_
-25	19	19	NUM	NUM	NumForm=Digit|NumType=Card	23	list	_	_
-26	25	25	NUM	NUM	NumForm=Digit|NumType=Card	23	list	_	_
-27	18	18	NUM	NUM	NumForm=Digit|NumType=Card	23	list	_	_
-28	125	125	NUM	NUM	NumForm=Digit|NumType=Card	23	list	_	SpaceAfter=No
-29	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
+1	Anotación	anotación	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+2	por	por	ADP	_	_	3	case	_	_
+3	cuartos	cuarto	NOUN	_	Gender=Masc|Number=Plur	1	nmod	_	SpaceAfter=No
+4	:	:	PUNCT	_	PunctType=Colo	5	punct	_	_
+5	1ro	1	ADJ	_	NumForm=Digit|NumType=Ord	1	appos	_	_
+6	2do	2	ADJ	_	NumForm=Digit|NumType=Ord	5	list	_	_
+7	3ro	3	ADJ	_	NumForm=Digit|NumType=Ord	5	list	_	_
+8	4to	4	ADJ	_	NumForm=Digit|NumType=Ord	5	list	_	_
+9	PO	PO	NOUN	_	_	5	list	_	MWE=PO_Total|MWEPOS=PROPN
+10	Total	Total	NOUN	_	_	5	list	_	_
+11	-	-	PUNCT	_	PunctType=Dash	13	punct	_	_
+12	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	Angeles	Angeles	PROPN	_	_	1	appos	_	MWE=Angeles_Lakers|MWEPOS=PROPN
+14	Lakers	Lakers	PROPN	_	_	13	flat	_	_
+15	27	27	NUM	_	NumForm=Digit|NumType=Card	13	appos	_	_
+16	30	30	NUM	_	NumForm=Digit|NumType=Card	15	list	_	_
+17	35	35	NUM	_	NumForm=Digit|NumType=Card	15	list	_	_
+18	15	15	NUM	_	NumForm=Digit|NumType=Card	15	list	_	_
+19	15	15	NUM	_	NumForm=Digit|NumType=Card	15	list	_	_
+20	122	122	NUM	_	NumForm=Digit|NumType=Card	15	list	_	_
+21	Golden	Golden	PROPN	_	_	13	list	_	MWE=Golden_State|MWEPOS=PROPN
+22	State	State	PROPN	_	_	21	flat	_	_
+23	31	31	NUM	_	NumForm=Digit|NumType=Card	21	appos	_	_
+24	32	32	NUM	_	NumForm=Digit|NumType=Card	23	list	_	_
+25	19	19	NUM	_	NumForm=Digit|NumType=Card	23	list	_	_
+26	25	25	NUM	_	NumForm=Digit|NumType=Card	23	list	_	_
+27	18	18	NUM	_	NumForm=Digit|NumType=Card	23	list	_	_
+28	125	125	NUM	_	NumForm=Digit|NumType=Card	23	list	_	SpaceAfter=No
+29	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 ~~~
 
@@ -61,35 +61,35 @@ The following 4 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 list	color:blue
-1	Anotación	anotación	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
-2	por	por	ADP	ADP	AdpType=Prep	3	case	_	_
-3	cuartos	cuarto	NOUN	NOUN	Gender=Masc|Number=Plur	1	nmod	_	SpaceAfter=No
-4	:	:	PUNCT	PUNCT	PunctType=Colo	5	punct	_	_
-5	1ro	1	ADJ	NUM	NumForm=Digit|NumType=Ord	1	appos	_	_
-6	2do	2	ADJ	NUM	NumForm=Digit|NumType=Ord	5	list	_	_
-7	3ro	3	ADJ	NUM	NumForm=Digit|NumType=Ord	5	list	_	_
-8	4to	4	ADJ	NUM	NumForm=Digit|NumType=Ord	5	list	_	_
-9	PO	PO	NOUN	PROPN	_	5	list	_	MWE=PO_Total|MWEPOS=PROPN
-10	Total	Total	NOUN	PROPN	_	5	list	_	_
-11	-	-	PUNCT	PUNCT	PunctType=Dash	13	punct	_	_
-12	Los	el	DET	DET	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
-13	Angeles	Angeles	PROPN	PROPN	_	1	appos	_	MWE=Angeles_Lakers|MWEPOS=PROPN
-14	Lakers	Lakers	PROPN	PROPN	_	13	flat	_	_
-15	27	27	NUM	NUM	NumForm=Digit|NumType=Card	13	appos	_	_
-16	30	30	NUM	NUM	NumForm=Digit|NumType=Card	15	list	_	_
-17	35	35	NUM	NUM	NumForm=Digit|NumType=Card	15	list	_	_
-18	15	15	NUM	NUM	NumForm=Digit|NumType=Card	15	list	_	_
-19	15	15	NUM	NUM	NumForm=Digit|NumType=Card	15	list	_	_
-20	122	122	NUM	NUM	NumForm=Digit|NumType=Card	15	list	_	_
-21	Golden	Golden	PROPN	PROPN	_	13	list	_	MWE=Golden_State|MWEPOS=PROPN
-22	State	State	PROPN	PROPN	_	21	flat	_	_
-23	31	31	NUM	NUM	NumForm=Digit|NumType=Card	21	appos	_	_
-24	32	32	NUM	NUM	NumForm=Digit|NumType=Card	23	list	_	_
-25	19	19	NUM	NUM	NumForm=Digit|NumType=Card	23	list	_	_
-26	25	25	NUM	NUM	NumForm=Digit|NumType=Card	23	list	_	_
-27	18	18	NUM	NUM	NumForm=Digit|NumType=Card	23	list	_	_
-28	125	125	NUM	NUM	NumForm=Digit|NumType=Card	23	list	_	SpaceAfter=No
-29	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
+1	Anotación	anotación	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+2	por	por	ADP	_	_	3	case	_	_
+3	cuartos	cuarto	NOUN	_	Gender=Masc|Number=Plur	1	nmod	_	SpaceAfter=No
+4	:	:	PUNCT	_	PunctType=Colo	5	punct	_	_
+5	1ro	1	ADJ	_	NumForm=Digit|NumType=Ord	1	appos	_	_
+6	2do	2	ADJ	_	NumForm=Digit|NumType=Ord	5	list	_	_
+7	3ro	3	ADJ	_	NumForm=Digit|NumType=Ord	5	list	_	_
+8	4to	4	ADJ	_	NumForm=Digit|NumType=Ord	5	list	_	_
+9	PO	PO	NOUN	_	_	5	list	_	MWE=PO_Total|MWEPOS=PROPN
+10	Total	Total	NOUN	_	_	5	list	_	_
+11	-	-	PUNCT	_	PunctType=Dash	13	punct	_	_
+12	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	Angeles	Angeles	PROPN	_	_	1	appos	_	MWE=Angeles_Lakers|MWEPOS=PROPN
+14	Lakers	Lakers	PROPN	_	_	13	flat	_	_
+15	27	27	NUM	_	NumForm=Digit|NumType=Card	13	appos	_	_
+16	30	30	NUM	_	NumForm=Digit|NumType=Card	15	list	_	_
+17	35	35	NUM	_	NumForm=Digit|NumType=Card	15	list	_	_
+18	15	15	NUM	_	NumForm=Digit|NumType=Card	15	list	_	_
+19	15	15	NUM	_	NumForm=Digit|NumType=Card	15	list	_	_
+20	122	122	NUM	_	NumForm=Digit|NumType=Card	15	list	_	_
+21	Golden	Golden	PROPN	_	_	13	list	_	MWE=Golden_State|MWEPOS=PROPN
+22	State	State	PROPN	_	_	21	flat	_	_
+23	31	31	NUM	_	NumForm=Digit|NumType=Card	21	appos	_	_
+24	32	32	NUM	_	NumForm=Digit|NumType=Card	23	list	_	_
+25	19	19	NUM	_	NumForm=Digit|NumType=Card	23	list	_	_
+26	25	25	NUM	_	NumForm=Digit|NumType=Card	23	list	_	_
+27	18	18	NUM	_	NumForm=Digit|NumType=Card	23	list	_	_
+28	125	125	NUM	_	NumForm=Digit|NumType=Card	23	list	_	SpaceAfter=No
+29	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 ~~~
 
@@ -100,35 +100,35 @@ The following 4 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 10 list	color:blue
-1	Anotación	anotación	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
-2	por	por	ADP	ADP	AdpType=Prep	3	case	_	_
-3	cuartos	cuarto	NOUN	NOUN	Gender=Masc|Number=Plur	1	nmod	_	SpaceAfter=No
-4	:	:	PUNCT	PUNCT	PunctType=Colo	5	punct	_	_
-5	1ro	1	ADJ	NUM	NumForm=Digit|NumType=Ord	1	appos	_	_
-6	2do	2	ADJ	NUM	NumForm=Digit|NumType=Ord	5	list	_	_
-7	3ro	3	ADJ	NUM	NumForm=Digit|NumType=Ord	5	list	_	_
-8	4to	4	ADJ	NUM	NumForm=Digit|NumType=Ord	5	list	_	_
-9	PO	PO	NOUN	PROPN	_	5	list	_	MWE=PO_Total|MWEPOS=PROPN
-10	Total	Total	NOUN	PROPN	_	5	list	_	_
-11	-	-	PUNCT	PUNCT	PunctType=Dash	13	punct	_	_
-12	Los	el	DET	DET	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
-13	Angeles	Angeles	PROPN	PROPN	_	1	appos	_	MWE=Angeles_Lakers|MWEPOS=PROPN
-14	Lakers	Lakers	PROPN	PROPN	_	13	flat	_	_
-15	27	27	NUM	NUM	NumForm=Digit|NumType=Card	13	appos	_	_
-16	30	30	NUM	NUM	NumForm=Digit|NumType=Card	15	list	_	_
-17	35	35	NUM	NUM	NumForm=Digit|NumType=Card	15	list	_	_
-18	15	15	NUM	NUM	NumForm=Digit|NumType=Card	15	list	_	_
-19	15	15	NUM	NUM	NumForm=Digit|NumType=Card	15	list	_	_
-20	122	122	NUM	NUM	NumForm=Digit|NumType=Card	15	list	_	_
-21	Golden	Golden	PROPN	PROPN	_	13	list	_	MWE=Golden_State|MWEPOS=PROPN
-22	State	State	PROPN	PROPN	_	21	flat	_	_
-23	31	31	NUM	NUM	NumForm=Digit|NumType=Card	21	appos	_	_
-24	32	32	NUM	NUM	NumForm=Digit|NumType=Card	23	list	_	_
-25	19	19	NUM	NUM	NumForm=Digit|NumType=Card	23	list	_	_
-26	25	25	NUM	NUM	NumForm=Digit|NumType=Card	23	list	_	_
-27	18	18	NUM	NUM	NumForm=Digit|NumType=Card	23	list	_	_
-28	125	125	NUM	NUM	NumForm=Digit|NumType=Card	23	list	_	SpaceAfter=No
-29	.	.	PUNCT	PUNCT	PunctType=Peri	1	punct	_	_
+1	Anotación	anotación	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+2	por	por	ADP	_	_	3	case	_	_
+3	cuartos	cuarto	NOUN	_	Gender=Masc|Number=Plur	1	nmod	_	SpaceAfter=No
+4	:	:	PUNCT	_	PunctType=Colo	5	punct	_	_
+5	1ro	1	ADJ	_	NumForm=Digit|NumType=Ord	1	appos	_	_
+6	2do	2	ADJ	_	NumForm=Digit|NumType=Ord	5	list	_	_
+7	3ro	3	ADJ	_	NumForm=Digit|NumType=Ord	5	list	_	_
+8	4to	4	ADJ	_	NumForm=Digit|NumType=Ord	5	list	_	_
+9	PO	PO	NOUN	_	_	5	list	_	MWE=PO_Total|MWEPOS=PROPN
+10	Total	Total	NOUN	_	_	5	list	_	_
+11	-	-	PUNCT	_	PunctType=Dash	13	punct	_	_
+12	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	Angeles	Angeles	PROPN	_	_	1	appos	_	MWE=Angeles_Lakers|MWEPOS=PROPN
+14	Lakers	Lakers	PROPN	_	_	13	flat	_	_
+15	27	27	NUM	_	NumForm=Digit|NumType=Card	13	appos	_	_
+16	30	30	NUM	_	NumForm=Digit|NumType=Card	15	list	_	_
+17	35	35	NUM	_	NumForm=Digit|NumType=Card	15	list	_	_
+18	15	15	NUM	_	NumForm=Digit|NumType=Card	15	list	_	_
+19	15	15	NUM	_	NumForm=Digit|NumType=Card	15	list	_	_
+20	122	122	NUM	_	NumForm=Digit|NumType=Card	15	list	_	_
+21	Golden	Golden	PROPN	_	_	13	list	_	MWE=Golden_State|MWEPOS=PROPN
+22	State	State	PROPN	_	_	21	flat	_	_
+23	31	31	NUM	_	NumForm=Digit|NumType=Card	21	appos	_	_
+24	32	32	NUM	_	NumForm=Digit|NumType=Card	23	list	_	_
+25	19	19	NUM	_	NumForm=Digit|NumType=Card	23	list	_	_
+26	25	25	NUM	_	NumForm=Digit|NumType=Card	23	list	_	_
+27	18	18	NUM	_	NumForm=Digit|NumType=Card	23	list	_	_
+28	125	125	NUM	_	NumForm=Digit|NumType=Card	23	list	_	SpaceAfter=No
+29	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 ~~~
 

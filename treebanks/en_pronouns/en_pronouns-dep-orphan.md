@@ -22,14 +22,14 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 orphan	color:blue
-1	Dealers	dealer	NOUN	_	Number=Plur	2	nsubj	_	_
-2	like	like	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	seeing	see	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Inf	2	xcomp	_	_
-4	cars	car	NOUN	_	Number=Plur	3	obj	_	SpaceAfter=No
+1	Dealers	dealer	NOUN	NNS	Number=Plur	2	nsubj	_	_
+2	like	like	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	seeing	see	VERB	VBG	Tense=Pres|VerbForm=Part	2	xcomp	_	_
+4	cars	car	NOUN	NNS	Number=Plur	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
 6	especially	especially	ADV	RB	_	7	orphan	_	_
-7	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	conj	_	SpaceAfter=No
-8	.	.	PUNCT	Period	_	2	punct	_	_
+7	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	conj	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 

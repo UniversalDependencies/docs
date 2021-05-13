@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 The following people have contributed to making this treebank part of UD: Lương Nguyễn Thị, Linh Hà Mỹ, Phương Lê Hồng, Huyền Nguyễn Thị Minh.
 
 Repository: [UD_Vietnamese-VTB](https://github.com/UniversalDependencies/UD_Vietnamese-VTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udvi_vtb27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udvi_vtb28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -82,7 +82,7 @@ The Vietnamese UD treebank is a conversion of the constituent treebank created i
 </ul>
 
 <ul>
-<li>This corpus contains 13 types of words that contain both letters and punctuation. Examples: H., TP .HCM, 4-Jan, 43H-016, 54N-7, Aug-16, NP-DOB, TP., TP. HCM, TP.HCM, k​h​o​a​i​l​a​n​g​b​a​h​a​o​.​ ​c​o​m​.​ ​v​n, khoailangbahao.com, q.1</li>
+<li>This corpus contains 13 types of words that contain both letters and punctuation. Examples: H., TP .HCM, 4-Jan, 43H-016, 54N-7, Aug-16, NP-DOB, TP., TP. HCM, TP.HCM, khoailangbahao. com. vn, khoailangbahao.com, q.1</li>
 </ul>
 
 <ul>

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Hebrew-HTB: Features: `HebExistential`
 
 This feature is language-specific.
-It occurs with 1 different values: `True`.
+It occurs with 1 different values: `Yes`.
 
 539 tokens (0%) have a non-empty value of `HebExistential`.
 13 types (0%) occur at least once with a non-empty value of `HebExistential`.
@@ -22,5 +22,5 @@ The most frequent other feature values with which `VERB` and `HebExistential` co
 
 `VERB` tokens may have the following values of `HebExistential`:
 
-* `True` (539; 100% of non-empty `HebExistential`): יש, אין, היו, היה, יהיה, יהיו, היתה, תהיה, ישנם, הייה
+* `Yes` (539; 100% of non-empty `HebExistential`): יש, אין, היו, היה, יהיה, יהיו, היתה, תהיה, ישנם, הייה
 

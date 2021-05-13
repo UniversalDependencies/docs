@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-308 nodes (1%) are attached to their parents as `cop`.
+307 nodes (1%) are attached to their parents as `cop`.
 
-284 instances of `cop` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.24675324675325.
+285 instances of `cop` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.20846905537459.
 
-The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (136; 44% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (135; 44% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (25; 8% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (7; 2% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (136; 44% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (135; 44% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (24; 8% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (7; 2% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

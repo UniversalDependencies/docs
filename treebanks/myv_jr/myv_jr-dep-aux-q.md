@@ -40,7 +40,7 @@ The following 4 pairs of parts of speech are connected with `aux:q`: <tt><a href
 1	Виде	виде	ADJ	A	_	0	root	_	_
 2	ли	ли	AUX	Pcle	_	1	aux:q	_	_
 3	кияк	кияк	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	7	nsubj	_	GTtags=Indef,Sg,Nom
-4	косояк	косояк	ADV	Adv	Case=Ine|Definite=Ind	7	obl	_	GTtags=Indef,Ine
+4	косояк	косояк	ADV	Adv	Case=Ine|Definite=Ind	7	advmod:lmod	_	GTtags=Indef,Ine
 5	мезтькак	мезеяк	PRON	Pron	Case=Nom|Definite=Ind|Number=Plur|PronType=Ind	7	obj	_	GTtags=Indef,Pl,Nom,Indef
 6	а	а	AUX	Pcle	Polarity=Neg	7	aux:neg	_	GTtags=Neg
 7	тейни	тейнемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=2	1	conj	_	GTtags=TV,Ind,Prs,ScSg3|SpaceAfter=No

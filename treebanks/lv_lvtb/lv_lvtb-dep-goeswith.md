@@ -8,12 +8,31 @@ udver: '2'
 
 This relation is universal.
 
-5 nodes (0%) are attached to their parents as `goeswith`.
+6 nodes (0%) are attached to their parents as `goeswith`.
 
-5 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+6 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 5 pairs of parts of speech are connected with `goeswith`: <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 20% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 20% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 20% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 20% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 20% instances).
+The following 5 pairs of parts of speech are connected with `goeswith`: <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (2; 33% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 17% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 17% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 17% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 17% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 goeswith	color:blue
+1	Tā	tāpat	ADV	r0m	Typo=Yes	4	advmod	4:advmod	CorrectForm=Tāpat|CorrectionType=Spacing,Spelling|CorrectSpaceAfter=No|LvtbNodeId=a-d60-p5s4w1
+2	pat	_	X	_	Typo=Yes	1	goeswith	1:goeswith	CorrectionType=Spacing,Spelling|LvtbNodeId=a-d60-p5s4w1
+3	vien	vien	PART	q	_	1	discourse	1:discourse	LvtbNodeId=a-d60-p5s4w2
+4	pavērties	pavērties	VERB	vmyn0i1000n	Polarity=Pos|Reflex=Yes|VerbForm=Inf	0	root	0:root	LvtbNodeId=a-d60-p5s4w3|SpaceAfter=No
+5	,	,	PUNCT	zc	_	7	punct	7:punct	LvtbNodeId=a-d60-p5s4w4
+6	bez	bez	ADP	spsg	_	7	case	7:case	LvtbNodeId=a-d60-p5s4w5
+7	domas	doma	NOUN	ncfsg4	Case=Gen|Gender=Fem|Number=Sing	4	obl	4:obl:gen	LvtbNodeId=a-d60-p5s4w6
+8	kādas	kāda	DET	pi0fsgn	Case=Gen|Gender=Fem|Number=Sing|PronType=Ind	7	det	7:det	LvtbNodeId=a-d60-p5s4w7|SpaceAfter=No
+9	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-d60-p5s4w8
+
+~~~
 
 
 ~~~ conllu
@@ -51,25 +70,6 @@ The following 5 pairs of parts of speech are connected with `goeswith`: <tt><a h
 27	nagu	nags	NOUN	ncmpg1	Case=Gen|Gender=Masc|Number=Plur	28	nmod	28:nmod:gen	LvtbNodeId=a-c60-p8s1w25
 28	graušana	graušana	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	23	nmod	23:nmod:kā	LvtbNodeId=a-c60-p8s1w26|SpaceAfter=No
 29	.	.	PUNCT	zs	_	9	punct	9:punct	LvtbNodeId=a-c60-p8s1w27
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 goeswith	color:blue
-1	Tā	tāpat	ADV	r0m	Typo=Yes	4	advmod	4:advmod	CorrectForm=Tāpat|CorrectionType=Spacing,Spelling|CorrectSpaceAfter=No|LvtbNodeId=a-d60-p5s4w1
-2	pat	_	X	_	Typo=Yes	1	goeswith	1:goeswith	CorrectionType=Spacing,Spelling|LvtbNodeId=a-d60-p5s4w1
-3	vien	vien	PART	q	_	1	discourse	1:discourse	LvtbNodeId=a-d60-p5s4w2
-4	pavērties	pavērties	VERB	vmyn0i1000n	Polarity=Pos|Reflex=Yes|VerbForm=Inf	0	root	0:root	LvtbNodeId=a-d60-p5s4w3|SpaceAfter=No
-5	,	,	PUNCT	zc	_	7	punct	7:punct	LvtbNodeId=a-d60-p5s4w4
-6	bez	bez	ADP	spsg	_	7	case	7:case	LvtbNodeId=a-d60-p5s4w5
-7	domas	doma	NOUN	ncfsg4	Case=Gen|Gender=Fem|Number=Sing	4	obl	4:obl:gen	LvtbNodeId=a-d60-p5s4w6
-8	kādas	kāda	DET	pi0fsgn	Case=Gen|Gender=Fem|Number=Sing|PronType=Ind	7	det	7:det	LvtbNodeId=a-d60-p5s4w7|SpaceAfter=No
-9	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-d60-p5s4w8
 
 ~~~
 

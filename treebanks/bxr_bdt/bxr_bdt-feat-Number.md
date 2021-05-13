@@ -14,30 +14,24 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 1169 tokens (11%) have a non-empty value of `Number`.
 666 types (16%) occur at least once with a non-empty value of `Number`.
 373 lemmas (15%) occur at least once with a non-empty value of `Number`.
-The feature is used with 7 part-of-speech tags: <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (529; 5% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (380; 4% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> (155; 2% instances), <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (71; 1% instances), <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> (23; 0% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (10; 0% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (480; 5% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (380; 4% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> (155; 2% instances), <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (120; 1% instances), <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> (23; 0% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (10; 0% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-529 <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> tokens (33% of all `VERB` tokens) have a non-empty value of `Number`.
+480 <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> tokens (32% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=3</tt> (437; 83%), <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (339; 64%), <tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (339; 64%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=3</tt> (391; 81%), <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (306; 64%), <tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (306; 64%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (79; 15% of non-empty `Number`): <em>болоод, ерээд, гараад, абаад, байгаад, байнабди, болонхойбди, ороод, танилсаабди, танилсаад</em>
-* `Sing` (450; 85% of non-empty `Number`): <em>болоно, байна, болоо, байһан, эхилээ, ябаа, ерээ, түрэһэн, ябаһан, болоһон</em>
-* `EMPTY` (1068): <em>гэжэ, байгаа, бии, гээшэ, ажаһуудаг, болонхой, байдаг, боложо, болохо, бэлэй</em>
+* `Plur` (76; 16% of non-empty `Number`): <em>ерээд, гараад, абаад, болоод, байнабди, болонхойбди, ороод, танилсаабди, танилсаад, хараад</em>
+* `Sing` (404; 84% of non-empty `Number`): <em>эхилээ, байна, ерээ, ябаа, түрэһэн, ябаһан, байһан, болоно, болоо, табигдаһан</em>
+* `EMPTY` (1017): <em>гэжэ, бии, байгаа, гээшэ, ажаһуудаг, хэжэ, ябаха, боложо, гэхэдэ, ошожо</em>
 
 <table>
-  <tr><th>Paradigm <i>бай</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="bxr_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>байгааб, байгаагүйб</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="bxr_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>байгааш</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="bxr_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>байгаад</em></td></tr>
-  <tr><td><tt><tt><a href="bxr_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Aor</tt></tt></td><td></td><td><em>байнабди</em></td></tr>
-  <tr><td><tt><tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Aor</tt></tt></td><td><em>байнаб</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Aor</tt></tt></td><td></td><td><em>байнат</em></td></tr>
-  <tr><td><tt><tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Aor</tt></tt></td><td><em>байна</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>байһан, байһаншье</em></td><td></td></tr>
+  <tr><th>Paradigm <i>гэ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="bxr_bdt-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td><em>гэгшэд</em></td></tr>
+  <tr><td><tt><tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>гэнэ</em></td><td></td></tr>
 </table>
 
 ### `NOUN`
@@ -47,7 +41,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (380; 100% of non-empty `Number`): <em>хүнүүд, арадуудай, үхибүүд, моголнуудай, баледэй, буряадууд, үдэрнүүдтэ, амитад, багшанарай, буряадуудай</em>
-* `EMPTY` (2724): <em>хүн, зон, гэр, хэлэ, үедэ, ажал, хэлэн, ондо, Буряад, бэлиг</em>
+* `EMPTY` (2732): <em>хүн, зон, гэр, хэлэ, үедэ, ажал, хэлэн, ондо, Буряад, бэлиг</em>
 
 `Number` seems to be **lexical feature** of `NOUN`. 100% lemmas (168) occur only with one value of `Number`.
 
@@ -65,26 +59,27 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `AUX`
 
-71 <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> tokens (36% of all `AUX` tokens) have a non-empty value of `Number`.
+120 <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> tokens (41% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="bxr_bdt-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (71; 100%), <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (50; 70%), <tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (50; 70%), <tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=3</tt> (48; 68%), <tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Aor</tt> (36; 51%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="bxr_bdt-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (120; 100%), <tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=3</tt> (94; 78%), <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (83; 69%), <tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (83; 69%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (5; 7% of non-empty `Number`): <em>байнабди, байнабта, байнат, юмбибди</em>
-* `Sing` (66; 93% of non-empty `Number`): <em>байна, байһан, байгааб, гээшэб, бэлэй, шадаа, һэм, һэмби, байгааш, байнаб</em>
-* `EMPTY` (125): <em>юм, байгаа, бай, байба, байдаг, шадаха, баатай, байхада, Хэрбэеэ, Хэрбээ</em>
+* `Plur` (8; 7% of non-empty `Number`): <em>байнабди, болоод, байгаад, байнабта, байнат, юмбибди</em>
+* `Sing` (112; 93% of non-empty `Number`): <em>байна, байһан, болоно, болоо, байгааб, гээшэб, бэлэй, шадаа, һэм, һэмби</em>
+* `EMPTY` (176): <em>юм, байгаа, бай, байба, байдаг, болонхой, шадаха, баатай, байнхаар, байхада</em>
 
 <table>
   <tr><th>Paradigm <i>бай</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="bxr_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>байгааб</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="bxr_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>байгааб, байгаагүйб</em></td><td></td></tr>
   <tr><td><tt><tt><a href="bxr_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>байгааш</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="bxr_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Aor</tt></tt></td><td></td><td><em>байнабди</em></td></tr>
-  <tr><td><tt><tt><a href="bxr_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Aor</tt></tt></td><td></td><td><em>байнабта</em></td></tr>
-  <tr><td><tt><tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Aor</tt></tt></td><td><em>байнаб</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Aor</tt></tt></td><td><em>байналши</em></td><td><em>байнат</em></td></tr>
-  <tr><td><tt><tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Aor</tt></tt></td><td><em>байна</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="bxr_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>байгаад</em></td></tr>
+  <tr><td><tt><tt><a href="bxr_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>байнабди</em></td></tr>
+  <tr><td><tt><tt><a href="bxr_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>байнабта</em></td></tr>
+  <tr><td><tt><tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>байнаб</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>байналши</em></td><td><em>байнат</em></td></tr>
   <tr><td><tt><tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>байһан</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>байна</em></td><td></td></tr>
 </table>
 
 ### `PART`
@@ -108,7 +103,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (10; 100% of non-empty `Number`): <em>Арсалановтан, Бодонгууд, Борголовтоной, Далбаевтан, Дармаевтанайнгаа, Лыгденовтэнэй, Могоолнуудай, Монголшуудай, Шенхоровтоной, Янхаевтан</em>
-* `EMPTY` (700): <em>Байгал, Булад, Цыпелма, Баяр, Энэдхэг, Дандар, Матти, Хойто, Екатерина, Магдан</em>
+* `EMPTY` (699): <em>Байгал, Булад, Цыпелма, Баяр, Энэдхэг, Дандар, Матти, Хойто, Екатерина, Магдан</em>
 
 `Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (10) occur only with one value of `Number`.
 
@@ -119,7 +114,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (1; 100% of non-empty `Number`): <em>һайнууд</em>
-* `EMPTY` (821): <em>буряад, түрэл, уран, олон, һайн, бага, үндэр, бэрхэ, агууехэ, гоё</em>
+* `EMPTY` (813): <em>буряад, түрэл, уран, олон, һайн, бага, үндэр, бэрхэ, агууехэ, гоё</em>
 
 ## Relations with Agreement in `Number`
 

@@ -24,10 +24,10 @@ The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 6 3 ccomp	color:blue
 1	_	_	PRON	pro	Person=3|PronType=Prs	6	obl:sentcon	_	_
 2	_	_	PART	illocprt	_	1	dep:mod	_	_
-3	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	6	ccomp	_	_
+3	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	6	ccomp	_	_
 4	_	_	SCONJ	subordconn	_	3	mark	_	_
 5	re	e	ADP	post	_	3	case	_	R-ABL
-6	_	_	VERB	vd:i	Mood=Ind|Person[subj]=3|Polarity=Neg|Subcat=IntInd|VerbForm=Fin	0	root	_	_
+6	_	_	VERB	vd:i	Mood=Ind|Person[subj]=3|Polarity=Neg|Subcat=Indir|VerbForm=Fin	0	root	_	_
 7	_	_	PUNCT	punct	_	6	punct	_	_
 
 ~~~

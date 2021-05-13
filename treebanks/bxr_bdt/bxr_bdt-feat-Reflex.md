@@ -12,7 +12,7 @@ It occurs with 1 different values: `Yes`.
 291 tokens (3%) have a non-empty value of `Reflex`.
 194 types (5%) occur at least once with a non-empty value of `Reflex`.
 140 lemmas (6%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 6 part-of-speech tags: <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (229; 2% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> (27; 0% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (25; 0% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (229; 2% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> (27; 0% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (24; 0% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Reflex` co-occurre
 `NOUN` tokens may have the following values of `Reflex`:
 
 * `Yes` (229; 100% of non-empty `Reflex`): <em>гэртээ, наһанайнгаа, нютагаа, угаараа, хэлэеэ, арадайнгаа, нютагтаа, гэртэхинэйнгээ, нютагайнгаа, наһаараа</em>
-* `EMPTY` (2875): <em>хүн, зон, гэр, хэлэ, үедэ, ажал, хэлэн, ондо, Буряад, бэлиг</em>
+* `EMPTY` (2883): <em>хүн, зон, гэр, хэлэ, үедэ, ажал, хэлэн, ондо, Буряад, бэлиг</em>
 
 `Reflex` seems to be **lexical feature** of `NOUN`. 100% lemmas (112) occur only with one value of `Reflex`.
 
@@ -40,14 +40,14 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 
 ### `VERB`
 
-25 <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Reflex`.
+24 <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `VERB` and `Reflex` co-occurred: <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (25; 100%), <tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (21; 84%).
+The most frequent other feature values with which `VERB` and `Reflex` co-occurred: <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (24; 100%), <tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (20; 83%).
 
 `VERB` tokens may have the following values of `Reflex`:
 
-* `Yes` (25; 100% of non-empty `Reflex`): <em>байхадаа, ошоходоо, ерэхэдээ, хүдэлхэдөө, ябахадаа, Ошохоо, абаһандаа, айлшалхадаа, байһанаа, болоходоо</em>
-* `EMPTY` (1572): <em>гэжэ, байгаа, болоно, байна, бии, болоо, гээшэ, байһан, ажаһуудаг, болонхой</em>
+* `Yes` (24; 100% of non-empty `Reflex`): <em>ошоходоо, байхадаа, ерэхэдээ, хүдэлхэдөө, ябахадаа, Ошохоо, абаһандаа, айлшалхадаа, байһанаа, болоходоо</em>
+* `EMPTY` (1473): <em>гэжэ, бии, байгаа, гээшэ, ажаһуудаг, эхилээ, байна, ерээ, хэжэ, ябаа</em>
 
 `Reflex` seems to be **lexical feature** of `VERB`. 100% lemmas (16) occur only with one value of `Reflex`.
 
@@ -60,7 +60,18 @@ The most frequent other feature values with which `PROPN` and `Reflex` co-occurr
 `PROPN` tokens may have the following values of `Reflex`:
 
 * `Yes` (8; 100% of non-empty `Reflex`): <em>Түгнынгөө, Дармаевтанайнгаа, Полисоо, Цыпелмае, Цыренгармаевые, Шалановае, Шэбэртэеэ</em>
-* `EMPTY` (702): <em>Байгал, Булад, Цыпелма, Баяр, Энэдхэг, Дандар, Матти, Хойто, Екатерина, Магдан</em>
+* `EMPTY` (701): <em>Байгал, Булад, Цыпелма, Баяр, Энэдхэг, Дандар, Матти, Хойто, Екатерина, Магдан</em>
+
+### `AUX`
+
+2 <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Reflex`.
+
+The most frequent other feature values with which `AUX` and `Reflex` co-occurred: <tt><a href="bxr_bdt-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (2; 100%).
+
+`AUX` tokens may have the following values of `Reflex`:
+
+* `Yes` (2; 100% of non-empty `Reflex`): <em>байхадаа</em>
+* `EMPTY` (294): <em>юм, байгаа, байна, байһан, болоно, бай, болоо, байгааб, бэлэй, гээшэб</em>
 
 ### `ADJ`
 
@@ -69,18 +80,7 @@ The most frequent other feature values with which `PROPN` and `Reflex` co-occurr
 `ADJ` tokens may have the following values of `Reflex`:
 
 * `Yes` (1; 100% of non-empty `Reflex`): <em>зориһоные</em>
-* `EMPTY` (821): <em>буряад, түрэл, уран, олон, һайн, бага, үндэр, бэрхэ, агууехэ, гоё</em>
-
-### `AUX`
-
-1 <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Reflex`.
-
-The most frequent other feature values with which `AUX` and `Reflex` co-occurred: <tt><a href="bxr_bdt-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (1; 100%).
-
-`AUX` tokens may have the following values of `Reflex`:
-
-* `Yes` (1; 100% of non-empty `Reflex`): <em>байхадаа</em>
-* `EMPTY` (195): <em>юм, байна, байгаа, байһан, байгааб, гээшэб, бай, бэлэй, байба, байдаг</em>
+* `EMPTY` (813): <em>буряад, түрэл, уран, олон, һайн, бага, үндэр, бэрхэ, агууехэ, гоё</em>
 
 ## Relations with Agreement in `Reflex`
 

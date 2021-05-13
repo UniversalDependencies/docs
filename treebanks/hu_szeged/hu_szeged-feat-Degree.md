@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="hu_szeged-pos-ADJ.h
 
 4708 <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> tokens (85% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4648; 99%), <tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4301; 91%), <tt><a href="hu_szeged-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4210; 89%), <tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=None</tt> (2534; 54%), <tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt><tt>=None</tt> (2531; 54%), <tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt><tt>=None</tt> (2531; 54%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4648; 99%), <tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4301; 91%), <tt><a href="hu_szeged-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4210; 89%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
@@ -30,8 +30,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 <table>
   <tr><th>Paradigm <i>nagy</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
   <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>nagy</em></td><td><em>nagyobb, nagyobbik</em></td><td><em>legnagyobb</em></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=None</tt>|<tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt><tt>=None</tt>|<tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt><tt>=None</tt></tt></td><td><em>nagy</em></td><td><em>nagyobb</em></td><td><em>legnagyobb</em></td></tr>
-  <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=None</tt>|<tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt><tt>=None</tt>|<tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt><tt>=None</tt></tt></td><td><em>nagyok</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>nagyok</em></td><td></td><td></td></tr>
 </table>
 
 `Degree` seems to be **lexical feature** of `ADJ`. 97% lemmas (1806) occur only with one value of `Degree`.
@@ -61,12 +60,12 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="hu_szeged-dep-amod-att.html">amod:att</a></tt>]--> ADJ</tt> (109; 68%),
 <tt>ADJ --[<tt><a href="hu_szeged-dep-conj.html">conj</a></tt>]--> ADJ</tt> (107; 79%),
-<tt>ADJ --[<tt><a href="hu_szeged-dep-obl.html">obl</a></tt>]--> ADJ</tt> (28; 100%),
+<tt>ADJ --[<tt><a href="hu_szeged-dep-obl.html">obl</a></tt>]--> ADJ</tt> (38; 70%),
 <tt>ADJ --[<tt><a href="hu_szeged-dep-orphan.html">orphan</a></tt>]--> ADJ</tt> (6; 100%),
-<tt>ADJ --[<tt><a href="hu_szeged-dep-advmod-mode.html">advmod:mode</a></tt>]--> ADJ</tt> (3; 100%),
 <tt>ADJ --[<tt><a href="hu_szeged-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="hu_szeged-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="hu_szeged-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="hu_szeged-dep-acl.html">acl</a></tt>]--> ADJ</tt> (1; 100%),
-<tt>ADJ --[<tt><a href="hu_szeged-dep-appos.html">appos</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="hu_szeged-dep-appos.html">appos</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>ADV --[<tt><a href="hu_szeged-dep-conj.html">conj</a></tt>]--> ADV</tt> (1; 100%).
 

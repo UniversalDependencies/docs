@@ -13,7 +13,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 216 tokens (1%) have a non-empty value of `Number[psor]`.
 12 types (0%) occur at least once with a non-empty value of `Number[psor]`.
-2 lemmas (0%) occur at least once with a non-empty value of `Number[psor]`.
+4 lemmas (0%) occur at least once with a non-empty value of `Number[psor]`.
 The feature is used with 1 part-of-speech tags: <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (216; 1% instances).
 
 ### `DET`

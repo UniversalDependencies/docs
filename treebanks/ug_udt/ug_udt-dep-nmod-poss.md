@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Uyghur-UDT: Relations: `nmod:poss`
 
 This relation is a language-specific subtype of <tt><a href="ug_udt-dep-nmod.html">nmod</a></tt>.
-There are also 8 other language-specific subtypes of `nmod`: <tt><a href="ug_udt-dep-nmod-abl.html">nmod:abl</a></tt>, <tt><a href="ug_udt-dep-nmod-cau.html">nmod:cau</a></tt>, <tt><a href="ug_udt-dep-nmod-clas.html">nmod:clas</a></tt>, <tt><a href="ug_udt-dep-nmod-comp.html">nmod:comp</a></tt>, <tt><a href="ug_udt-dep-nmod-ins.html">nmod:ins</a></tt>, <tt><a href="ug_udt-dep-nmod-part.html">nmod:part</a></tt>, <tt><a href="ug_udt-dep-nmod-ref.html">nmod:ref</a></tt>, <tt><a href="ug_udt-dep-nmod-tmod.html">nmod:tmod</a></tt>.
+There are also 4 other language-specific subtypes of `nmod`: <tt><a href="ug_udt-dep-nmod-cau.html">nmod:cau</a></tt>, <tt><a href="ug_udt-dep-nmod-comp.html">nmod:comp</a></tt>, <tt><a href="ug_udt-dep-nmod-part.html">nmod:part</a></tt>, <tt><a href="ug_udt-dep-nmod-tmod.html">nmod:tmod</a></tt>.
 
 1475 nodes (4%) are attached to their parents as `nmod:poss`.
 
@@ -29,7 +29,7 @@ The following 29 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 4	يىلتىزىنى	يىلتىز	NOUN	N	Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3	7	obj	_	Translit=yiltizini
 5	قۇرتتەك	_	NOUN	N	_	7	obl	_	Translit=qurttek|Morf=Unknown
 6	ئاۋايلاپ	_	VERB	V	_	7	advmod	_	Translit=awaylap|Morf=Unknown
-7	يەيمەن	يە	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=yeymen
+7	يەيمەن	يە	VERB	V	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=yeymen
 8	.	.	PUNCT	Y	_	7	punct	_	Translit=.
 
 ~~~
@@ -50,7 +50,7 @@ The following 29 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 7	بىر	بىر	NUM	M	_	8	nummod	_	Translit=bir
 8	سىقىم	سىقىم	NOUN	Q	Case=Nom	9	amod	_	Translit=siqim
 9	لايدەك	_	NOUN	N	_	10	obl	_	Translit=laydek|Morf=Unknown
-10	چاپلىشىمەن	چاپلاش	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=chaplishimen
+10	چاپلىشىمەن	چاپلاش	VERB	V	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=chaplishimen
 11	.	.	PUNCT	Y	_	10	punct	_	Translit=.
 
 ~~~

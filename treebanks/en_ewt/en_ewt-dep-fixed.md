@@ -8,35 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-614 nodes (0%) are attached to their parents as `fixed`.
+622 nodes (0%) are attached to their parents as `fixed`.
 
-614 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.08957654723127.
+622 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.08520900321543.
 
-The following 25 pairs of parts of speech are connected with `fixed`: <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (157; 26% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (154; 25% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (84; 14% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (57; 9% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (33; 5% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (24; 4% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (24; 4% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt>-<tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (13; 2% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (10; 2% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (10; 2% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (7; 1% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-PART.html">PART</a></tt> (7; 1% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_ewt-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt>-<tt><a href="en_ewt-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt>-<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 12 fixed	color:blue
-1	To	to	PART	TO	_	2	mark	2:mark	_
-2	pander	pander	VERB	VB	VerbForm=Inf	0	root	0:root	_
-3	to	to	ADP	IN	_	8	case	8:case	_
-4	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
-5	mythical	mythical	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
-6	"	"	PUNCT	``	_	8	punct	8:punct	SpaceAfter=No
-7	Arab	arab	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
-8	street	street	NOUN	NN	Number=Sing	2	obl	2:obl:to	SpaceAfter=No
-9	"	"	PUNCT	''	_	8	punct	8:punct	SpaceAfter=No
-10	,	,	PUNCT	,	_	2	punct	2:punct	_
-11	of	of	ADV	RB	_	2	advmod	2:advmod	_
-12	course	course	ADV	RB	_	11	fixed	11:fixed	SpaceAfter=No
-13	.	.	PUNCT	.	_	2	punct	2:punct	_
-
-~~~
+The following 25 pairs of parts of speech are connected with `fixed`: <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (159; 26% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (106; 17% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (85; 14% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (57; 9% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (55; 9% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (34; 5% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (24; 4% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt>-<tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (21; 3% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt>-<tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (13; 2% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (10; 2% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (10; 2% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (7; 1% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-PART.html">PART</a></tt> (7; 1% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_ewt-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt>-<tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt>-<tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt>-<tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -58,6 +35,30 @@ The following 25 pairs of parts of speech are connected with `fixed`: <tt><a hre
 11	bell	bell	PROPN	NNP	Number=Sing	12	compound	12:compound	_
 12	dog	dog	NOUN	NN	Number=Sing	3	obl	3:obl:because_of	SpaceAfter=No
 13	?	?	PUNCT	.	_	3	punct	3:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 13 fixed	color:blue
+1	Please	please	INTJ	UH	_	2	discourse	2:discourse	_
+2	clarify	clarify	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	0:root	_
+3	"	"	PUNCT	``	_	4	punct	4:punct	SpaceAfter=No
+4	all	all	NOUN	NN	Number=Sing	2	obj	2:obj	SpaceAfter=No
+5	"	"	PUNCT	''	_	4	punct	4:punct	_
+6	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	8:aux	_
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	8:nsubj	_
+8	intend	intend	VERB	VB	VerbForm=Inf	2	parataxis	2:parataxis	_
+9	10MM	10mm	NOUN	NN	Number=Sing	8	obj	8:obj	_
+10	for	for	ADP	IN	_	11	case	11:case	_
+11	ENA	ENA	PROPN	NNP	Number=Sing	8	obl	8:obl:for	_
+12	as	as	ADV	RB	_	8	advmod	8:advmod	_
+13	well	well	ADV	RB	Degree=Pos	12	fixed	12:fixed	SpaceAfter=No
+14	?	?	PUNCT	.	_	2	punct	2:punct	_
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2899 nodes (1%) are attached to their parents as `cop`.
+1952 nodes (1%) are attached to their parents as `cop`.
 
-1686 instances of `cop` (58%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.44739565367368.
+1237 instances of `cop` (63%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.76793032786885.
 
-The following 12 pairs of parts of speech are connected with `cop`: <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (1060; 37% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (981; 34% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (411; 14% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (201; 7% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (89; 3% instances), <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (58; 2% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (42; 1% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (33; 1% instances), <tt><a href="nl_alpino-pos-DET.html">DET</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="nl_alpino-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `cop`: <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (814; 42% instances), <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (698; 36% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (175; 9% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (72; 4% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (65; 3% instances), <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (46; 2% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (39; 2% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (26; 1% instances), <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="nl_alpino-pos-DET.html">DET</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt>-<tt><a href="nl_alpino-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -60,21 +60,24 @@ The following 12 pairs of parts of speech are connected with `cop`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 6 cop	color:blue
-1	"	"	PUNCT	LET	_	2	punct	2:punct	SpaceAfter=No
-2	Natuurlijk	natuurlijk	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	0	root	0:root	_
-3	meneer	meneer	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	2	parataxis	2:parataxis	SpaceAfter=No
-4	,	,	PUNCT	LET	_	5	punct	5:punct	_
-5	wie	wie	PRON	VNW|vb|pron|stan|vol|3p|getal	Person=3|PronType=Int	2	parataxis	2:parataxis	_
-6	bent	zijn	AUX	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
-7	u	u	PRON	VNW|pers|pron|nomin|vol|2b|getal	Case=Nom|Person=2|PronType=Prs	5	nsubj	5:nsubj	_
-8	wel	wel	ADV	BW	_	5	advmod	5:advmod	SpaceAfter=No
-9	?	?	PUNCT	LET	_	2	punct	2:punct	SpaceAfter=No
-10	"	"	PUNCT	LET	_	2	punct	2:punct	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 5 cop	color:blue
+1	Een	een	DET	LID|onbep|stan|agr	Definite=Ind	2	det	2:det	_
+2	paar	paar	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	3	nmod	3:nmod	_
+3	weken	week	NOUN	N|soort|mv|basis	Number=Plur	11	nsubj	11:nsubj	_
+4	voetbalfeest	voetbal_feest	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	3	nmod	3:nmod	_
+5	is	zijn	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	11	cop	11:cop	_
+6	net	net	ADV	BW	_	11	advmod	11:advmod	_
+7	wat	wat	PRON	VNW|vb|pron|stan|vol|3o|ev	Person=3|PronType=Int	11	obj	11:obj	_
+8	het	het	DET	LID|bep|stan|evon	Definite=Def	9	det	9:det	_
+9	land	land	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	11	nsubj	11:nsubj	_
+10	nodig	nodig	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	11	xcomp	11:xcomp	_
+11	heeft	hebben	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
+12	.	.	PUNCT	LET	_	11	punct	11:punct	_
+13	''	''	PUNCT	LET	_	11	punct	11:punct	_
 
 ~~~
 

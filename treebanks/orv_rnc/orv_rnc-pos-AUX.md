@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of AUX in UD_Old_Russian-RNC'
+title:  'Statistics of AUX in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: POS Tags: `AUX`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: POS Tags: `AUX`
 
 There are 3 `AUX` lemmas (0%), 39 `AUX` types (0%) and 253 `AUX` tokens (1%).
 Out of 17 observed tags, the rank of `AUX` is: 15 in number of lemmas, 12 in number of types and 14 in number of tokens.
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>было</em> (<tt><a href="orv_rnc-p
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 13.000000 (the average of all parts of speech is 1.947446).
+The form / lemma ratio of `AUX` is 13.000000 (the average of all parts of speech is 1.947924).
 
 The 1st highest number of forms (37) was observed with the lemma “быти”: <em>будет, будетъ, будеть, буди, будутъ, будучи, бы, был, была, были, было, былъ, бысть, быт[и], быти, быть, быхом, бяху, бяше, бѣ, бꙋд, бꙋдет, бꙋдетъ, бꙋдеш[ь], бꙋдь, бꙋдꙋт, е., еси, есми, есмь, есмя, есте, есть, есь, есьмы, суть, сущу</em>.
 
@@ -62,9 +62,9 @@ The 2nd highest number of forms (2) was observed with the lemma “бъ”: <em>
 
 The 3rd highest number of forms (1) was observed with the lemma “бы”: <em>бы</em>.
 
-`AUX` occurs with 11 features: <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt> (204; 81% instances), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt> (186; 74% instances), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt> (185; 73% instances), <tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt> (178; 70% instances), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt> (129; 51% instances), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt> (125; 49% instances), <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt> (64; 25% instances), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt> (43; 17% instances), <tt><a href="orv_rnc-feat-Aspect.html">Aspect</a></tt> (11; 4% instances), <tt><a href="orv_rnc-feat-Case.html">Case</a></tt> (1; 0% instances), <tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt> (1; 0% instances)
+`AUX` occurs with 10 features: <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt> (204; 81% instances), <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt> (186; 74% instances), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt> (185; 73% instances), <tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt> (178; 70% instances), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt> (129; 51% instances), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt> (125; 49% instances), <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt> (64; 25% instances), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt> (43; 17% instances), <tt><a href="orv_rnc-feat-Aspect.html">Aspect</a></tt> (11; 4% instances), <tt><a href="orv_rnc-feat-Case.html">Case</a></tt> (1; 0% instances)
 
-`AUX` occurs with 26 feature-value pairs: `Analyt=Yes`, `Aspect=Imp`, `Aspect=Perf`, `Case=Dat`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Past`, `Tense=Pres`, `Variant=Short`, `VerbForm=Conv`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `VerbForm=PartRes`, `Voice=Act`
+`AUX` occurs with 25 feature-value pairs: `Analyt=Yes`, `Aspect=Imp`, `Aspect=Perf`, `Case=Dat`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Past`, `Tense=Pres`, `VerbForm=Conv`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `VerbForm=PartRes`, `Voice=Act`
 
 `AUX` occurs with 52 feature combinations.
 The most frequent feature combination is `Analyt=Yes|Mood=Cnd` (45 tokens).

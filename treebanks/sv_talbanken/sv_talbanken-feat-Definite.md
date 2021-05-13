@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Definite` co-occur
 
 * `Def` (7690; 34% of non-empty `Definite`): <em>äktenskapet, barnen, samhället, familjen, kvinnan, barnet, mannen, kvinnorna, världen, föräldrarna</em>
 * `Ind` (14738; 66% of non-empty `Definite`): <em>år, barn, del, procent, människor, tid, sätt, arbete, fall, kvinnor</em>
-* `EMPTY` (574): <em>kr, %, dr, s., kap., proc, KPI, milj, mån, kl</em>
+* `EMPTY` (569): <em>kr, %, dr, s., kap., proc, KPI, milj, mån, kl</em>
 
 <table>
   <tr><th>Paradigm <i>barn</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>

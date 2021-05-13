@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Cantonese-HK: POS Tags: `PRON`
 
 There are 29 `PRON` lemmas (3%), 34 `PRON` types (2%) and 1183 `PRON` tokens (8%).
-Out of 15 observed tags, the rank of `PRON` is: 9 in number of lemmas, 10 in number of types and 6 in number of tokens.
+Out of 15 observed tags, the rank of `PRON` is: 8 in number of lemmas, 10 in number of types and 6 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: _、 我、 你、 佢、 我哋、 咩、 佢哋、 自己、 人哋、 呢度
 
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  佢 (<tt><a href="yue_hk-pos-PRON.html">P
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.172414 (the average of all parts of speech is 1.622766).
+The form / lemma ratio of `PRON` is 1.172414 (the average of all parts of speech is 1.624294).
 
 The 1st highest number of forms (26) was observed with the lemma “_”: 乜嘢, 人哋, 什麼, 你, 你哋, 佢, 佢哋, 依個, 依啲, 依度, 呢個, 呢啲, 呢度, 咩, 嗰個, 嗰啲, 嗰度, 大家, 我, 我們, 我哋, 自己, 講講, 邊, 邊個, 閣下.
 

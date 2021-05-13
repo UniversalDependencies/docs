@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Japanese-PUD: POS Tags: `ADV`
 
-There are 127 `ADV` lemmas (2%), 127 `ADV` types (2%) and 322 `ADV` tokens (1%).
+There are 127 `ADV` lemmas (2%), 127 `ADV` types (2%) and 323 `ADV` tokens (1%).
 Out of 16 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 11 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: 最も, より, さらに, どう, ほとんど, 初めて, 特に, 現在, すぐ, 今
 
 The 10 most frequent `ADV` types:  最も, より, さらに, どう, ほとんど, 初めて, 特に, 現在, すぐ, 今
 
-The 10 most frequent ambiguous lemmas: より (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 22, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 12), さらに (<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 10), ほとんど (<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 9, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 6), 現在 (<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 8, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 5), 今 (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 7), また (<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 35, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 5), あまり (<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 4, <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> 1), そう (<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 3, <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> 2), 以上 (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 3), 以前 (<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 3, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 2)
+The 10 most frequent ambiguous lemmas: より (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 22, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 12), さらに (<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 10), ほとんど (<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 9, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 6), 現在 (<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 9, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 4), 今 (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 7), また (<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 35, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 5), あまり (<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 4, <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> 1), そう (<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 3, <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> 2), 以上 (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 3), 以前 (<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 3, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 2)
 
-The 10 most frequent ambiguous types:  より (<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> 28, <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 22, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 12), さらに (<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 10), ほとんど (<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 9, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 6), 現在 (<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 8, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 5), 今 (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 7), また (<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 35, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 5), あまり (<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 4, <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> 1), そう (<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 3, <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> 2), 以上 (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 3), 以前 (<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 3, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 2)
+The 10 most frequent ambiguous types:  より (<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> 28, <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 22, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 12), さらに (<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 13, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 10), ほとんど (<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 9, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 6), 現在 (<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 9, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 4), 今 (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 7), また (<tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> 35, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 5), あまり (<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 4, <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> 1), そう (<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 3, <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> 2), 以上 (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 3), 以前 (<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 3, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 2)
 
 
 * より
@@ -29,8 +29,8 @@ The 10 most frequent ambiguous types:  より (<tt><a href="ja_pud-pos-VERB.html
   * <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 9: 南アフリカ は 既に <b>ほとんど</b> 後戻り でき ない 地点 に あり 、 彼 ら の 望み に 合わせる 必要 が ある 。
   * <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 6: 中世 時代 に は 、 <b>ほとんど</b> の クリスチャン が 母国 語 で 聖書 を 読む こと は でき なかっ た 。
 * 現在
-  * <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 8: <b>現在</b> 、 RECO が エージェント に 対し て 課す こと の できる 最高 罰金 額 は 2 万 5000 ドル で ある 。
-  * <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 5: <b>現在</b> の 待機 期間 は 8 週間 で ある 。
+  * <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 9: <b>現在</b> 、 RECO が エージェント に 対し て 課す こと の できる 最高 罰金 額 は 2 万 5000 ドル で ある 。
+  * <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 4: <b>現在</b> の 待機 期間 は 8 週間 で ある 。
 * 今
   * <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 9: だ が 、 <b>今</b> は 全て が 番狂わせ で 、 常 に 答え を 探し て いる よう だ 。
   * <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 7: <b>今</b> 、 カンジル は 孤独 な 豚 か も しれ ない が 、 常 に ひとりぼっち で は ない 。
@@ -52,34 +52,34 @@ The 10 most frequent ambiguous types:  より (<tt><a href="ja_pud-pos-VERB.html
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.049698).
+The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.049631).
 
 The 1st highest number of forms (1) was observed with the lemma “1人”: 1人.
 
-The 2nd highest number of forms (1) was observed with the lemma “1日”: 1日.
+The 2nd highest number of forms (1) was observed with the lemma “Really”: Really.
 
-The 3rd highest number of forms (1) was observed with the lemma “Really”: Really.
+The 3rd highest number of forms (1) was observed with the lemma “あまり”: あまり.
 
 `ADV` does not occur with any features.
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 8 different relations: <tt><a href="ja_pud-dep-advmod.html">advmod</a></tt> (294; 91% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (9; 3% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (7; 2% instances), <tt><a href="ja_pud-dep-root.html">root</a></tt> (4; 1% instances), <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (3; 1% instances), <tt><a href="ja_pud-dep-advcl.html">advcl</a></tt> (2; 1% instances), <tt><a href="ja_pud-dep-obj.html">obj</a></tt> (2; 1% instances), <tt><a href="ja_pud-dep-dislocated.html">dislocated</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 5 different relations: <tt><a href="ja_pud-dep-advmod.html">advmod</a></tt> (314; 97% instances), <tt><a href="ja_pud-dep-root.html">root</a></tt> (4; 1% instances), <tt><a href="ja_pud-dep-advcl.html">advcl</a></tt> (2; 1% instances), <tt><a href="ja_pud-dep-obj.html">obj</a></tt> (2; 1% instances), <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 8 different parts of speech: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (195; 61% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (68; 21% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (43; 13% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (6; 2% instances),  (4; 1% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 8 different parts of speech: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (201; 62% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (64; 20% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (43; 13% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (5; 2% instances),  (4; 1% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-220 (68%) `ADV` nodes are leaves.
+221 (68%) `ADV` nodes are leaves.
 
-62 (19%) `ADV` nodes have one child.
+63 (20%) `ADV` nodes have one child.
 
 13 (4%) `ADV` nodes have two children.
 
-27 (8%) `ADV` nodes have three or more children.
+26 (8%) `ADV` nodes have three or more children.
 
-The highest child degree of a `ADV` node is 7.
+The highest child degree of a `ADV` node is 6.
 
-Children of `ADV` nodes are attached using 15 different relations: <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (65; 34% instances), <tt><a href="ja_pud-dep-case.html">case</a></tt> (37; 19% instances), <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (28; 15% instances), <tt><a href="ja_pud-dep-nummod.html">nummod</a></tt> (11; 6% instances), <tt><a href="ja_pud-dep-aux.html">aux</a></tt> (10; 5% instances), <tt><a href="ja_pud-dep-advcl.html">advcl</a></tt> (9; 5% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (9; 5% instances), <tt><a href="ja_pud-dep-advmod.html">advmod</a></tt> (6; 3% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (6; 3% instances), <tt><a href="ja_pud-dep-mark.html">mark</a></tt> (4; 2% instances), <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (3; 2% instances), <tt><a href="ja_pud-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="ja_pud-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="ja_pud-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="ja_pud-dep-obj.html">obj</a></tt> (1; 1% instances)
+Children of `ADV` nodes are attached using 13 different relations: <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (65; 35% instances), <tt><a href="ja_pud-dep-case.html">case</a></tt> (37; 20% instances), <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (37; 20% instances), <tt><a href="ja_pud-dep-advcl.html">advcl</a></tt> (9; 5% instances), <tt><a href="ja_pud-dep-aux.html">aux</a></tt> (9; 5% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (8; 4% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (6; 3% instances), <tt><a href="ja_pud-dep-advmod.html">advmod</a></tt> (5; 3% instances), <tt><a href="ja_pud-dep-mark.html">mark</a></tt> (4; 2% instances), <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (4; 2% instances), <tt><a href="ja_pud-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="ja_pud-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="ja_pud-dep-obj.html">obj</a></tt> (1; 1% instances)
 
-Children of `ADV` nodes belong to 13 different parts of speech: <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (65; 34% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (41; 21% instances), <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (37; 19% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (11; 6% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (10; 5% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (9; 5% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (6; 3% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (3; 2% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="ja_pud-pos-PART.html">PART</a></tt> (1; 1% instances)
+Children of `ADV` nodes belong to 13 different parts of speech: <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (65; 35% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (38; 20% instances), <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (37; 20% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (11; 6% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (9; 5% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (9; 5% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (5; 3% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (3; 2% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="ja_pud-pos-PART.html">PART</a></tt> (1; 1% instances)
 

@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Assyrian-AS: Relations: `nsubj`
 
 This relation is universal.
+There are 1 language-specific subtypes of `nsubj`: <tt><a href="aii_as-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
 40 nodes (9%) are attached to their parents as `nsubj`.
 

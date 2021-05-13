@@ -121,7 +121,7 @@ The following 4 pairs of parts of speech are connected with `det`: <tt><a href="
 31	aby	aby	SCONJ	J,-------------	_	34	mark	_	_
 32	by	být	AUX	Vc-------------	Mood=Cnd|Person=3|VerbForm=Fin	34	aux	_	_
 33	byl	být	AUX	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	34	aux:pass	_	_
-34	podán	podaný	ADJ	VsYS---XX-AP---	Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	25	obl	_	LDeriv=podat
+34	podán	podaný	ADJ	VsYS---XX-AP---	Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	25	advcl	_	LDeriv=podat
 35	věrný	věrný	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	38	amod	_	_
 36	a	a	CCONJ	J^-------------	_	37	cc	_	LId=a-1
 37	poctivý	poctivý	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	35	conj	_	_

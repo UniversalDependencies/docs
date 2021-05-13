@@ -1,19 +1,19 @@
 ---
 layout: base
-title:  'Statistics of NUM in UD_Old_Russian-RNC'
+title:  'Statistics of NUM in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: POS Tags: `NUM`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: POS Tags: `NUM`
 
-There are 118 `NUM` lemmas (3%), 162 `NUM` types (2%) and 370 `NUM` tokens (1%).
+There are 117 `NUM` lemmas (3%), 162 `NUM` types (2%) and 370 `NUM` tokens (1%).
 Out of 17 observed tags, the rank of `NUM` is: 6 in number of lemmas, 7 in number of types and 12 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>два, 3, одинъ, оба, 2, 5, много, три, 10, двадцать</em>
 
 The 10 most frequent `NUM` types:  <em>3, 2, обе, много, 5, два, дву, две, сколко, 10</em>
 
-The 10 most frequent ambiguous lemmas: <em>3</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 22, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 6), <em>одинъ</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 20, <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 3), <em>2</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 13, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 2), <em>5</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 10, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 2), <em>много</em> (<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 10, <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 10), <em>10</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 9, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 4), <em>сто</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 9, <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> 1), <em>8</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 7, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 3), <em>6</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 5, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 4), <em>1</em> (<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 4)
+The 10 most frequent ambiguous lemmas: <em>3</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 22, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 6), <em>одинъ</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 21, <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 3), <em>2</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 13, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 2), <em>5</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 10, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 2), <em>много</em> (<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 10, <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 10), <em>10</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 9, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 4), <em>сто</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 9, <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> 1), <em>8</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 7, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 3), <em>6</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 5, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 4), <em>1</em> (<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 4)
 
 The 10 most frequent ambiguous types:  <em>3</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 15, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>2</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 13, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 2), <em>много</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 10, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 6), <em>5</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 9, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 2), <em>10</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 7, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>8</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 7, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>сто</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 6, <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> 1), <em>6</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 5, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>1</em> (<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 4, <tt><a href="orv_rnc-pos-X.html">X</a></tt> 1), <em>30</em> (<tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> 4, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 3)
 
@@ -57,9 +57,9 @@ The 10 most frequent ambiguous types:  <em>3</em> (<tt><a href="orv_rnc-pos-NUM.
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.372881 (the average of all parts of speech is 1.947446).
+The form / lemma ratio of `NUM` is 1.384615 (the average of all parts of speech is 1.947924).
 
-The 1st highest number of forms (11) was observed with the lemma “одинъ”: <em>адин, аднꙋ, один, одиного, одна, однова, одново, одном, одною, одну, ѡдинъ</em>.
+The 1st highest number of forms (12) was observed with the lemma “одинъ”: <em>адин, аднꙋ, один, одиного, одна, однова, одново, одном, одною, одну, ъднои, ѡдинъ</em>.
 
 The 2nd highest number of forms (6) was observed with the lemma “два”: <em>два, две, двема, двома, дву, двѣ</em>.
 

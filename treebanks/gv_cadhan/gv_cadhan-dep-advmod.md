@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-171 nodes (3%) are attached to their parents as `advmod`.
+527 nodes (3%) are attached to their parents as `advmod`.
 
-115 instances of `advmod` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.57309941520468.
+423 instances of `advmod` (80%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.58823529411765.
 
-The following 15 pairs of parts of speech are connected with `advmod`: <tt><a href="gv_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> (61; 36% instances), <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> (44; 26% instances), <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> (17; 10% instances), <tt><a href="gv_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> (15; 9% instances), <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> (10; 6% instances), <tt><a href="gv_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="gv_cadhan-pos-ADP.html">ADP</a></tt> (8; 5% instances), <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> (6; 4% instances), <tt><a href="gv_cadhan-pos-NUM.html">NUM</a></tt>-<tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gv_cadhan-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt>-<tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="gv_cadhan-pos-DET.html">DET</a></tt>-<tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gv_cadhan-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="gv_cadhan-pos-NUM.html">NUM</a></tt>-<tt><a href="gv_cadhan-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="gv_cadhan-pos-NUM.html">NUM</a></tt>-<tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="gv_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="gv_cadhan-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 16 pairs of parts of speech are connected with `advmod`: <tt><a href="gv_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> (231; 44% instances), <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> (90; 17% instances), <tt><a href="gv_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> (67; 13% instances), <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> (60; 11% instances), <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> (44; 8% instances), <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> (11; 2% instances), <tt><a href="gv_cadhan-pos-VERB.html">VERB</a></tt>-<tt><a href="gv_cadhan-pos-ADP.html">ADP</a></tt> (11; 2% instances), <tt><a href="gv_cadhan-pos-NUM.html">NUM</a></tt>-<tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="gv_cadhan-pos-PRON.html">PRON</a></tt>-<tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gv_cadhan-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt>-<tt><a href="gv_cadhan-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt>-<tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="gv_cadhan-pos-DET.html">DET</a></tt>-<tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="gv_cadhan-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gv_cadhan-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="gv_cadhan-pos-NUM.html">NUM</a></tt>-<tt><a href="gv_cadhan-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="gv_cadhan-pos-NUM.html">NUM</a></tt>-<tt><a href="gv_cadhan-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,8 +24,8 @@ The following 15 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 3 1 advmod	color:blue
 1	Nish	nish	ADV	_	_	3	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
-3	gow	gow	VERB	_	_	0	root	_	_
-4	yn	yn	DET	_	_	5	det	_	_
+3	gow	gow	VERB	_	Mood=Imp|Number=Sing|Person=2	0	root	_	_
+4	yn	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
 5	baagh	baagh	NOUN	_	_	3	obj	_	_
 6	braew	braew	ADJ	_	_	5	amod	_	_
 7	shoh	shoh	DET	_	_	5	det	_	SpaceAfter=No
@@ -40,8 +40,8 @@ The following 15 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 advmod	color:blue
-1	T'	bee	VERB	_	_	0	root	_	_
-2	eh	eh	PRON	_	_	1	nsubj	_	_
+1	T'	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
+2	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	goaill	goaill	NOUN	_	_	1	xcomp	_	_
 4	stiagh	stiagh	ADV	_	_	3	advmod	_	_
 5	inçhyn	inçhyn	NOUN	_	_	3	obj	_	SpaceAfter=No
@@ -57,19 +57,20 @@ The following 15 pairs of parts of speech are connected with `advmod`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 advmod	color:blue
-1	Bee	bee	VERB	_	_	0	root	_	_
-2	yn	yn	DET	_	_	3	det	_	_
-3	guilley	guilley	NOUN	_	_	1	nsubj	_	_
-4	feer	feer	ADV	_	_	5	advmod	_	_
-5	skee	skee	ADJ	_	_	3	xcomp:pred	_	_
-6	jeh	jeh	ADP	_	_	7	case	_	_
-7	ad	ad	PRON	_	_	5	obl	_	_
-8	.	.	PUNCT	_	_	1	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 advmod	color:blue
+1	Dy	dy	PART	_	PartType=Ad	2	mark	_	_
+2	mennick	mennick	ADJ	_	_	3	advmod	_	_
+3	ta	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
+4	'n	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+5	rio	rio	NOUN	_	_	3	nsubj	_	_
+6	trooid-hoilshagh	trooid-hoilshagh	ADJ	_	_	3	xcomp:pred	_	_
+7	er	er	ADP	_	_	8	case	_	_
+8	tuarastyl	tuarastyl	NOUN	_	_	6	obl	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

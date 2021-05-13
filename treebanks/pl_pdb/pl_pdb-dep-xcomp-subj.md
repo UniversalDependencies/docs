@@ -72,7 +72,7 @@ The following 6 pairs of parts of speech are connected with `xcomp:subj`: <tt><a
 4	mieć	mieć	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	3:xcomp	_
 5	trójkę	trójka	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	4	iobj	4:iobj	_
 6	dzieci	dziecko	NOUN	subst:pl:gen:n:col	Case=Gen|Gender=Neut|Number=Plur|NumType=Sets	5	nmod:arg	5:nmod:arg	_
-7	-	-	PUNCT	interp	PunctType=Hyph	8	punct	8:punct	_
+7	-	-	PUNCT	interp	PunctType=Dash	8	punct	8:punct	_
 8	pisze	pisać	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 9	"	"	PUNCT	interp	PunctType=Quot	11	punct	11:punct	SpaceAfter=No
 10	Na	na	ADP	prep:acc	AdpType=Prep	11	case	11:case	Case=Acc

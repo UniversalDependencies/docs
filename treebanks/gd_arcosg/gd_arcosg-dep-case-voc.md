@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="gd_arcosg-dep-case.html">case</a></tt>.
 
-52 nodes (0%) are attached to their parents as `case:voc`.
+59 nodes (0%) are attached to their parents as `case:voc`.
 
-52 instances of `case:voc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.07692307692308.
+59 instances of `case:voc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.
 
-The following 4 pairs of parts of speech are connected with `case:voc`: <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (33; 63% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (15; 29% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (2; 4% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (2; 4% instances).
+The following 3 pairs of parts of speech are connected with `case:voc`: <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (40; 68% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (15; 25% instances), <tt><a href="gd_arcosg-pos-INTJ.html">INTJ</a></tt>-<tt><a href="gd_arcosg-pos-PART.html">PART</a></tt> (4; 7% instances).
 
 
 ~~~ conllu
@@ -41,12 +41,12 @@ The following 4 pairs of parts of speech are connected with `case:voc`: <tt><a h
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 case:voc	color:blue
-1	ciamar	ciamar	ADV	Uq	Mood=Int	3	xcomp:pred	_	_
+1	ciamar	ciamar	ADV	Uq	_	3	xcomp:pred	_	_
 2	a	a	PART	Q-r	PartType=Vb|PronType=Rel	3	mark:prt	_	_
 3	bha	bi	VERB	V-s	Tense=Past	0	root	_	_
 4	na	an	DET	Tdp	Number=Plur	5	det	_	_
-5	veggie	veggie	X	Xfe	Foreign=Yes	3	nsubj	_	_
-6	burgers	burgers	X	Xfe	Foreign=Yes	5	flat	_	_
+5	veggie	veggie	NOUN	Xfe	Foreign=Yes	3	nsubj	_	_
+6	burgers	burgers	NOUN	Xfe	Foreign=Yes	5	flat:name	_	_
 7	a	a	PART	Uv	PartType=Voc	8	case:voc	_	_
 8	ghràidh	gràidh	NOUN	Ncsmv	Case=Voc|Gender=Masc|Number=Sing	3	vocative	_	SpaceAfter=No
 9	?	?	PUNCT	Fg	_	3	punct	_	_

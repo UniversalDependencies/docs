@@ -28,7 +28,7 @@ The following 14 pairs of parts of speech are connected with `flat`: <tt><a href
 3	به	به	ADP	P	_	4	case	_	_
 4	امام	امام	NOUN	N_SING	Number=Sing	9	nmod	_	_
 5	حسین	حسین	NOUN	N_SING	Number=Sing	4	flat	_	SpaceAfter=No
-6	)	)	PUNCT	DELM	_	5	punct	_	_
+6	)	)	PUNCT	DELM	_	7	punct	_	_
 7	ع	ع	NOUN	N_SING	Number=Sing	5	dep	_	_
 8	(	(	PUNCT	DELM	_	5	punct	_	SpaceAfter=No
 9	محترمانه‌تر	محترمانه	ADJ	ADJ_CMPR	Degree=Cmp	0	root	_	_
@@ -50,7 +50,7 @@ The following 14 pairs of parts of speech are connected with `flat`: <tt><a href
 2	حسین	حسین	NOUN	N_SING	Number=Sing	1	flat	_	_
 3	بن	بن	X	FW	_	2	flat	_	_
 4	علی	علی	NOUN	N_SING	Number=Sing	3	flat	_	SpaceAfter=No
-5	)	)	PUNCT	DELM	_	4	punct	_	_
+5	)	)	PUNCT	DELM	_	6	punct	_	_
 6	ع	ع	NOUN	N_SING	Number=Sing	4	dep	_	_
 7	(	(	PUNCT	DELM	_	4	punct	_	SpaceAfter=No
 8	جدا	جدا	ADJ	ADJ	Degree=Pos	0	root	_	_

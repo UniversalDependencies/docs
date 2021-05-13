@@ -30,7 +30,7 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 6	dvesto	dvesto	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	Dep=8|Rel=Atr
 7	petdeset	petdeset	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	Dep=8|Rel=Atr
 8	milijonov	milijon	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	3	conj	_	SpaceAfter=No|Dep=3|Rel=Coord
-9	.	.	PUNCT	Z	_	1	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+9	.	.	PUNCT	Z	_	1	punct	_	Dep=0|Rel=Root
 
 ~~~
 
@@ -51,7 +51,7 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 8	seboj	se	PRON	Px---i	Case=Ins|PronType=Prs|Reflex=Yes	10	nmod	_	Dep=10|Rel=Atr
 9	tesno	tesno	ADV	Rgp	Degree=Pos	10	advmod	_	Dep=10|Rel=Atr
 10	povezana	povezan	ADJ	Appmdn	Case=Nom|Degree=Pos|Gender=Masc|Number=Dual|VerbForm=Part	0	root	_	SpaceAfter=No|Dep=6|Rel=Atr
-11	.	.	PUNCT	Z	_	10	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+11	.	.	PUNCT	Z	_	10	punct	_	Dep=0|Rel=Root
 
 ~~~
 
@@ -73,7 +73,7 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 9	na	na	ADP	Sl	Case=Loc	11	case	_	Dep=11|Rel=Atr
 10	tujih	tuj	ADJ	Agpfpl	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur	11	amod	_	Dep=11|Rel=Atr
 11	straneh	stran	NOUN	Ncfpl	Case=Loc|Gender=Fem|Number=Plur	7	obl	_	SpaceAfter=No|Dep=7|Rel=AdvO
-12	.	.	PUNCT	Z	_	1	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+12	.	.	PUNCT	Z	_	1	punct	_	Dep=0|Rel=Root
 
 ~~~
 

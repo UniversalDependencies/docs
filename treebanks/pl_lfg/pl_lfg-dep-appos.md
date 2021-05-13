@@ -46,7 +46,7 @@ The following 10 pairs of parts of speech are connected with `appos`: <tt><a hre
 5	sierotę	sierota	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	2	appos	2:appos	SpaceAfter=No
 6	,	,	PUNCT	interp	PunctType=Comm	2	punct	2:punct	_
 7	widział	widzieć	VERB	praet:sg:m1:imperf	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|SubGender=Masc1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
-8	em	być	AUX	aglt:sg:pri:imperf:wok	Aspect=Imp|Number=Sing|Person=1|Variant=Long	7	aux:aglt	7:aux:aglt	_
+8	em	być	AUX	aglt:sg:pri:imperf:wok	Aspect=Imp|Number=Sing|Person=1|Variant=Long	7	aux:clitic	7:aux:clitic	_
 9	także	także	PART	qub	_	7	advmod	7:advmod	SpaceAfter=No
 10	.	.	PUNCT	interp	PunctType=Peri	7	punct	7:punct	_
 

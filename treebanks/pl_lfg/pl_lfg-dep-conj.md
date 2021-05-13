@@ -31,7 +31,7 @@ The following 32 pairs of parts of speech are connected with `conj`: <tt><a href
 7	wróbla	wróbel	NOUN	subst:sg:gen:m2	Case=Gen|Gender=Masc|Number=Sing|SubGender=Masc2	9	obj	9:obj	_
 8	nie	nie	PART	qub	Polarity=Neg	9	advmod	9:advmod	_
 9	spotkał	spotkać	VERB	praet:sg:m1:perf	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|SubGender=Masc1|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	4:conj	SpaceAfter=No
-10	eś	być	AUX	aglt:sg:sec:imperf:wok	Aspect=Imp|Number=Sing|Person=2|Variant=Long	9	aux:aglt	9:aux:aglt	SpaceAfter=No
+10	eś	być	AUX	aglt:sg:sec:imperf:wok	Aspect=Imp|Number=Sing|Person=2|Variant=Long	9	aux:clitic	9:aux:clitic	SpaceAfter=No
 11	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	_
 
 ~~~

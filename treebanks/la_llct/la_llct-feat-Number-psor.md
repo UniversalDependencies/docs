@@ -18,9 +18,9 @@ The feature is used with 1 part-of-speech tags: <tt><a href="la_llct-pos-DET.htm
 
 ### `DET`
 
-5227 <tt><a href="la_llct-pos-DET.html">DET</a></tt> tokens (26% of all `DET` tokens) have a non-empty value of `Number[psor]`.
+5227 <tt><a href="la_llct-pos-DET.html">DET</a></tt> tokens (27% of all `DET` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="la_llct-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (5227; 100%), <tt><a href="la_llct-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5227; 100%), <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3492; 67%), <tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt> (3430; 66%), <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3167; 61%), <tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Abl</tt> (2894; 55%).
+The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="la_llct-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (5227; 100%), <tt><a href="la_llct-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5227; 100%), <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3492; 67%), <tt><a href="la_llct-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt> (3430; 66%), <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3167; 61%), <tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Abl</tt> (2894; 55%).
 
 `DET` tokens may have the following values of `Number[psor]`:
 

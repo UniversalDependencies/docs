@@ -41,7 +41,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (1615; 100% of non-empty `NumType`): <em>primer, primera, últims, segona, últim, segon, primers, tercer, última, darrers</em>
-* `EMPTY` (28463): <em>passat, gran, nou, general, nova, catalana, espanyol, grans, baix, noves</em>
+* `EMPTY` (28465): <em>passat, gran, nou, general, nova, catalana, espanyol, grans, baix, noves</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (44) occur only with one value of `NumType`.
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `SYM` and `NumType` co-occurre
 `SYM` tokens may have the following values of `NumType`:
 
 * `Frac` (580; 100% of non-empty `NumType`): <em>50%, 10%, 30%, 5%, 25%, 1%, 20%, 40%, 2%, 0,1%</em>
-* `EMPTY` (4053): <em>', %, 10%, 2%, 40%, -, -3%, 1%, 10,2%, 13,7%</em>
+* `EMPTY` (4043): <em>', %, 10%, 2%, 40%, -, -3%, 1%, 10,2%, 13,7%</em>
 
 `NumType` seems to be **lexical feature** of `SYM`. 100% lemmas (263) occur only with one value of `NumType`.
 

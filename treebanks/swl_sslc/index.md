@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 The following people have contributed to making this treebank part of UD: Moa Gärdenfors, Carl Börstell, Robert Östling, Lars Wallin, Mats Wirén.
 
 Repository: [UD_Swedish_Sign_Language-SSLC](https://github.com/UniversalDependencies/UD_Swedish_Sign_Language-SSLC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udswl_sslc27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udswl_sslc28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -93,7 +93,7 @@ software for converting between the annotation format (ELAN) and CoNLL-U.
 </ul>
 
 <ul>
-<li>This corpus contains 372 types of words that contain both letters and punctuation. Examples: TITTA-PÅ, PU@g, TID-FRAMÅT, V​A​R​E​L​S​E​(​V​b​)​+​F​Ö​R​F​L​Y​T​T​A​@​p, HAND(G)+HANTERA@p, GLOSA:(?)@z, HAND(GG)+HANTERA@p, LÅTA-VARA, BESTÄMMA-SIG, HAND(G)@p@hd, JA@ub, JA@ub@z, FINNAS*INTE, GÅ-IN(N), HAND(Q)+HANTERA@p, P​Å​K​A​L​L​A​-​U​P​P​M​Ä​R​K​S​A​M​H​E​T​@​g, tp@&, GÅ(N), NU@b, TECKNA.FLYT, V​A​R​E​L​S​E​(​V​V​b​)​+​F​Ö​R​F​L​Y​T​T​A​@​p, glosa@&, ÅR@b, BEGE-SIG-HEM, BEGE-SIG-IVÄG, F​O​R​M​(​Y​Y​b​)​+​B​E​S​K​R​I​V​N​I​N​G​@​p, GLOSA:(PD)@z, HAND(YYb)+HANTERA@p, HÅL@b, LISTBOJ.TVÅ, PEK@z, ROPA@ca, SPRINGA(G), V​A​R​E​L​S​E​(​V​V​b​)​+​R​Ö​R​E​L​S​E​@​p, DÅ@b, F​O​R​M​(​J​J​b​)​+​B​E​S​K​R​I​V​N​I​N​G​@​p, FÖLJA-EFTER, FÖLJAS-ÅT, GLOSA:(PU)@z, HAND(JJb)+HANTERA@p, I@b^DAG, KOM-HIT@rd, KOMMA-HIT(L), LIGGA(G), LIGGA-SÖMNLÖS, MÖSSA(G), OK@b, RUND@kl, RÖST-ANVÄNDA, SVANS-VIFTA</li>
+<li>This corpus contains 372 types of words that contain both letters and punctuation. Examples: TITTA-PÅ, PU@g, TID-FRAMÅT, VARELSE(Vb)+FÖRFLYTTA@p, HAND(G)+HANTERA@p, GLOSA:(?)@z, HAND(GG)+HANTERA@p, LÅTA-VARA, BESTÄMMA-SIG, HAND(G)@p@hd, JA@ub, JA@ub@z, FINNAS*INTE, GÅ-IN(N), HAND(Q)+HANTERA@p, PÅKALLA-UPPMÄRKSAMHET@g, tp@&, GÅ(N), NU@b, TECKNA.FLYT, VARELSE(VVb)+FÖRFLYTTA@p, glosa@&, ÅR@b, BEGE-SIG-HEM, BEGE-SIG-IVÄG, FORM(YYb)+BESKRIVNING@p, GLOSA:(PD)@z, HAND(YYb)+HANTERA@p, HÅL@b, LISTBOJ.TVÅ, PEK@z, ROPA@ca, SPRINGA(G), VARELSE(VVb)+RÖRELSE@p, DÅ@b, FORM(JJb)+BESKRIVNING@p, FÖLJA-EFTER, FÖLJAS-ÅT, GLOSA:(PU)@z, HAND(JJb)+HANTERA@p, I@b^DAG, KOM-HIT@rd, KOMMA-HIT(L), LIGGA(G), LIGGA-SÖMNLÖS, MÖSSA(G), OK@b, RUND@kl, RÖST-ANVÄNDA, SVANS-VIFTA</li>
 </ul>
 
 <ul>

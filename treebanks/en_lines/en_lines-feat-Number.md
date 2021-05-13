@@ -33,7 +33,7 @@ The feature is used with 10 part-of-speech tags: <tt><a href="en_lines-pos-NOUN.
 
 6167 <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> tokens (64% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="en_lines-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5507; 89%), <tt><a href="en_lines-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4987; 81%), <tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=3</tt> (3503; 57%), <tt><a href="en_lines-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3182; 52%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="en_lines-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5507; 89%), <tt><a href="en_lines-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4987; 81%), <tt><a href="en_lines-feat-Person.html">Person</a></tt><tt>=3</tt> (3503; 57%), <tt><a href="en_lines-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3183; 52%).
 
 `PRON` tokens may have the following values of `Number`:
 

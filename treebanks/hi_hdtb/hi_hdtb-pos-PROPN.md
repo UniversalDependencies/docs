@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  सिंह (<tt><a href="hi_hdtb-pos-PR
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.008117 (the average of all parts of speech is 1.203116).
+The form / lemma ratio of `PROPN` is 1.008117 (the average of all parts of speech is 1.203447).
 
 The 1st highest number of forms (4) was observed with the lemma “का”: का, की, के, के..
 

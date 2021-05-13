@@ -33,7 +33,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 9	مباشرةً	mubA$arap_1	ADV	RB	_	8	advmod	_	_
 10	من	min_1	ADP	IN	_	11	case	_	_
 11	سلالة	sulAlap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	obl	_	_
-12	توكوغاوا	twkwgAwA_0	PROPN	NNP	Animacy=Hum|Gender=Fem|Number=Sing	11	nmod:gmod	_	_
+12	توكوغاوا	twkwgAwA_0	PROPN	NNP	Animacy=Hum|Gender=Fem|Number=Sing	11	nmod	_	_
 13	إيه	<iyh_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	12	flat	_	SpaceAfter=No
 14	-	-_0	PUNCT	-	_	15	punct	_	SpaceAfter=No
 15	ياسو	>asA-u_1	X	GW	_	13	goeswith	_	Proper=True|SpaceAfter=No
@@ -50,7 +50,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 7 9 goeswith	color:blue
 1	قد	qado_1	PART	RP	_	2	compound:prt	_	_
 2	يجد	wajad-i_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
-3	أغلب	>agolab_1	DET	PDT	Case=Nom	4	det:predet	_	_
+3	أغلب	>agolab_1	DET	PDT	Case=Nom	4	det	_	_
 4	الناس	nAs_1	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	nsubj	_	_
 5	أن	>an~a_1	SCONJ	IN	_	13	mark	_	_
 6	"	"_0	PUNCT	``	_	7	punct	_	SpaceAfter=No

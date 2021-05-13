@@ -38,7 +38,7 @@ The following 3 pairs of parts of speech are connected with `dislocated:cleft`: 
 14	hi'aju	aju	ADJ	inact	_	10	amod	_	B3-ripe
 15	ma	ma	PART	aspprt	_	14	dep:mod	_	ASP
 16	,	,	PUNCT	punct	_	17	punct	_	_
-17	ijavovo'i	javovo	VERB	inact	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	10	acl	_	B3-burst-=DIM
+17	ijavovo'i	javovo	VERB	inact	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	10	acl	_	B3-burst-=DIM
 18	ma	ma	PART	aspprt	_	17	dep:mod	_	ASP
 19	okuapy	kua	VERB	vs	Mood=Ind|Person=3|VerbForm=Ser	17	compound:svc	_	A3-be.PL-V2
 20	ma	ma	PART	aspprt	_	17	dep:mod	_	ASP
@@ -80,7 +80,7 @@ The following 3 pairs of parts of speech are connected with `dislocated:cleft`: 
 14	hi'aju	aju	ADJ	inact	_	10	amod	_	B3-ripe
 15	ma	ma	PART	aspprt	_	14	dep:mod	_	ASP
 16	,	,	PUNCT	punct	_	17	punct	_	_
-17	ijavovo'i	javovo	VERB	inact	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	10	acl	_	B3-burst-=DIM
+17	ijavovo'i	javovo	VERB	inact	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	10	acl	_	B3-burst-=DIM
 18	ma	ma	PART	aspprt	_	17	dep:mod	_	ASP
 19	okuapy	kua	VERB	vs	Mood=Ind|Person=3|VerbForm=Ser	17	compound:svc	_	A3-be.PL-V2
 20	ma	ma	PART	aspprt	_	17	dep:mod	_	ASP
@@ -109,7 +109,7 @@ The following 3 pairs of parts of speech are connected with `dislocated:cleft`: 
 1	Ha'e	ha'e	PRON	pro	Person=3|PronType=Prs	4	dislocated:cleft	_	3
 2	cheremiarirõ'i	emiarirõ	NOUN	n	Number[psor]=Sing	4	nsubj	_	B1.SG-R-grandchild-=DIM
 3	kuery	kuery	PART	quantprt	_	2	dep:mod	_	COL
-4	oja	ja	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	A3-born
+4	oja	ja	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	0	root	_	A3-born
 5	ramo'i	ramo	PART	temprt	_	4	dep:mod	_	recently-=DIM
 6	va'e	va'e	SCONJ	rel	_	4	mark	_	REL
 7	pe	pe	ADP	post	_	4	case	_	DAT

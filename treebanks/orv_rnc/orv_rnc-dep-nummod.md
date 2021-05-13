@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of nummod in UD_Old_Russian-RNC'
+title:  'Statistics of nummod in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Relations: `nummod`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Relations: `nummod`
 
 This relation is universal.
 There are 1 language-specific subtypes of `nummod`: <tt><a href="orv_rnc-dep-nummod-gov.html">nummod:gov</a></tt>.
@@ -27,7 +27,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 2	ж	жъ	PART	_	_	1	advmod	_	_
 3	на	на	ADP	_	_	5	case	_	_
 4	обѣ	оба	NUM	_	Case=Acc|Gender=Fem	5	nummod	_	_
-5	сторонѣ	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Adnum	1	obl	_	SpaceAfter=No
+5	сторонѣ	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Count	1	obl	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
@@ -60,7 +60,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 19	тиуна	тиунъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	22	orphan	_	_
 20	по	по	ADP	_	_	22	case	_	_
 21	двѣ	два	NUM	_	Case=Acc|Gender=Fem	22	nummod	_	_
-22	дългѣи	долгий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Adnum	15	conj	_	SpaceAfter=No
+22	дългѣи	долгий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Count	15	conj	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	9	punct	_	_
 
 ~~~

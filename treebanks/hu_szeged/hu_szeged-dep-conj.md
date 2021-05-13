@@ -23,11 +23,11 @@ The following 50 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 4	fgColor:white
 # visual-style 4 7 conj	color:blue
 1	Az	az	DET	_	Definite=Def|PronType=Art	2	det	_	_
-2	építkezés	építkezés	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	4	nsubj	_	_
+2	építkezés	építkezés	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 3	jövőre	jövőre	ADV	_	_	4	advmod:tlocy	_	_
 4	kezdődne	kezdődik	VERB	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	és	és	CCONJ	_	_	7	cc	_	_
-6	2002-ben	2002	NUM	_	Case=Ine|Number=Sing|Number[psed]=None|Number[psor]=None|NumType=Card|Person[psor]=None	7	nmod:obl	_	_
+6	2002-ben	2002	NUM	_	Case=Ine|Number=Sing|NumType=Card	7	obl	_	_
 7	fejeződne	fejeződik	VERB	_	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
 8	be	be	ADV	_	Degree=Pos	7	compound:preverb	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	4	punct	_	_
@@ -42,13 +42,13 @@ The following 50 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 5	fgColor:white
 # visual-style 5 8 conj	color:blue
 1	A	a	DET	_	Definite=Def|PronType=Art	3	det	_	_
-2	tervezett	tervezett	ADJ	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None|VerbForm=PartPast	3	amod:att	_	_
-3	bezárás	bezárás	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	9	nsubj	_	_
-4	75	75	NUM	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|NumType=Card|Person[psor]=None	5	nummod	_	_
-5	diákot	diák	NOUN	_	Case=Acc|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	9	obj	_	_
+2	tervezett	tervezett	ADJ	_	Case=Nom|Number=Sing|VerbForm=PartPast	3	amod:att	_	_
+3	bezárás	bezárás	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	_
+4	75	75	NUM	_	Case=Nom|Number=Sing|NumType=Card	5	nummod	_	_
+5	diákot	diák	NOUN	_	Case=Acc|Number=Sing	9	obj	_	_
 6	és	és	CCONJ	_	_	8	cc	_	_
-7	17	17	NUM	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|NumType=Card|Person[psor]=None	8	nummod	_	_
-8	pedagógust	pedagógus	NOUN	_	Case=Acc|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	5	conj	_	_
+7	17	17	NUM	_	Case=Nom|Number=Sing|NumType=Card	8	nummod	_	_
+8	pedagógust	pedagógus	NOUN	_	Case=Acc|Number=Sing	5	conj	_	_
 9	érint	érint	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
@@ -61,13 +61,13 @@ The following 50 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 conj	color:blue
-1	Mindez	mindez	PRON	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|PronType=Dem	8	nsubj	_	_
+1	Mindez	mindez	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	_
 2	mára	mára	ADV	_	_	8	advmod:tto	_	_
-3	kritikus	kritikus	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	7	amod:att	_	_
-4	forgalmi	forgalmi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	7	amod:att	_	_
+3	kritikus	kritikus	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	7	amod:att	_	_
+4	forgalmi	forgalmi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	7	amod:att	_	_
 5	és	és	CCONJ	_	_	6	cc	_	_
-6	környezeti	környezeti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	4	conj	_	_
-7	helyzethez	helyzet	NOUN	_	Case=All|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	8	nmod:obl	_	_
+6	környezeti	környezeti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	4	conj	_	_
+7	helyzethez	helyzet	NOUN	_	Case=All|Number=Sing	8	obl	_	_
 8	vezetett	vezet	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 

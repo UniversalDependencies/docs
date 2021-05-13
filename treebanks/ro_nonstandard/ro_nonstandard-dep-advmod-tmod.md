@@ -27,7 +27,7 @@ The following 11 pairs of parts of speech are connected with `advmod:tmod`: <tt>
 3	voiu	vrea	AUX	Vaip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres	4	aux	_	ref=MATT17.17
 4	răbda	răbda	VERB	Vmn	VerbForm=Inf	0	root	_	ref=MATT17.17
 5	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	ref=MATT17.17
-6	voi	tu	PRON	Pp2-pa--------s	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Strong	4	nmod:pmod	_	ref=MATT17.17|SpaceAfter=No
+6	voi	tu	PRON	Pp2-pa--------s	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Strong	4	obl:pmod	_	ref=MATT17.17|SpaceAfter=No
 7	?	?	PUNCT	QUEST	_	4	punct	_	ref=MATT17.17
 
 ~~~

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3311 nodes (2%) are attached to their parents as `cop`.
+3509 nodes (1%) are attached to their parents as `cop`.
 
-2916 instances of `cop` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.81938991241317.
+3054 instances of `cop` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.80507267027643.
 
-The following 11 pairs of parts of speech are connected with `cop`: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1202; 36% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1109; 33% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (416; 13% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (341; 10% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (145; 4% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (59; 2% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (30; 1% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `cop`: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1279; 36% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (970; 28% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (531; 15% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (461; 13% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (160; 5% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (69; 2% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (29; 1% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -60,10 +60,10 @@ The following 11 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 cop	color:blue
-1	Pasūtījums	pasūtījums	NOUN	ncmsn1	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj	LvtbNodeId=a-d197-p69s1w1
-2	bija	būt	AUX	vcnisii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	3:cop	LvtbNodeId=a-d197-p69s1w2
-3	klāt	klāt	ADV	r0p	_	0	root	0:root	LvtbNodeId=a-d197-p69s1w3|SpaceAfter=No
-4	.	.	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-d197-p69s1w4
+1	Putniņi	putniņš	NOUN	ncmpn1	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	3:nsubj	LvtbNodeId=a-d173-p964s3w1
+2	būs	būt	AUX	vcnifii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	3	cop	3:cop	LvtbNodeId=a-d173-p964s3w2
+3	beigti	beigt	VERB	vmnpdmpnppnpn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	0:root	LvtbNodeId=a-d173-p964s3w3|SpaceAfter=No
+4	!	!	PUNCT	zs	_	3	punct	3:punct	LvtbNodeId=a-d173-p964s3w4
 
 ~~~
 

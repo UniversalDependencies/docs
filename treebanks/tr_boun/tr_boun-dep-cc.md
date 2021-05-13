@@ -25,7 +25,7 @@ The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 4 1 cc	color:blue
 1	Ancak	ancak	CCONJ	Conj	_	4	cc	_	_
 2	bu	bu	DET	Det	_	4	nsubj	_	_
-3	bir	bir	DET	ANum	NumType=Card	4	det	_	_
+3	bir	bir	DET	ANum	_	4	det	_	_
 4	teferruat	teferruat	NOUN	Noun	Case=Nom|Number=Sing|Person=3	0	root	_	_
 5	gayet	gayet	ADV	Adverb	_	6	advmod	_	_
 6	tabii	tabii	ADV	Adj	_	4	advmod	_	_

@@ -51,15 +51,15 @@ The 3rd highest number of forms (1) was observed with the lemma “heger”: <em
 
 Parents of `CCONJ` nodes belong to 12 different parts of speech: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (186; 51% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (113; 31% instances), <tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (26; 7% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (16; 4% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (7; 2% instances), <tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="kmr_mg-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="kmr_mg-pos-PART.html">PART</a></tt> (1; 0% instances),  (1; 0% instances)
 
-361 (99%) `CCONJ` nodes are leaves.
+357 (98%) `CCONJ` nodes are leaves.
 
-2 (1%) `CCONJ` nodes have one child.
+6 (2%) `CCONJ` nodes have one child.
 
 2 (1%) `CCONJ` nodes have two children.
 
 The highest child degree of a `CCONJ` node is 2.
 
-Children of `CCONJ` nodes are attached using 4 different relations: <tt><a href="kmr_mg-dep-conj.html">conj</a></tt> (2; 33% instances), <tt><a href="kmr_mg-dep-dep.html">dep</a></tt> (2; 33% instances), <tt><a href="kmr_mg-dep-mark.html">mark</a></tt> (1; 17% instances), <tt><a href="kmr_mg-dep-punct.html">punct</a></tt> (1; 17% instances)
+Children of `CCONJ` nodes are attached using 4 different relations: <tt><a href="kmr_mg-dep-punct.html">punct</a></tt> (5; 50% instances), <tt><a href="kmr_mg-dep-conj.html">conj</a></tt> (2; 20% instances), <tt><a href="kmr_mg-dep-dep.html">dep</a></tt> (2; 20% instances), <tt><a href="kmr_mg-dep-mark.html">mark</a></tt> (1; 10% instances)
 
-Children of `CCONJ` nodes belong to 4 different parts of speech: <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (2; 33% instances), <tt><a href="kmr_mg-pos-X.html">X</a></tt> (2; 33% instances), <tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (1; 17% instances), <tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt> (1; 17% instances)
+Children of `CCONJ` nodes belong to 4 different parts of speech: <tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (5; 50% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (2; 20% instances), <tt><a href="kmr_mg-pos-X.html">X</a></tt> (2; 20% instances), <tt><a href="kmr_mg-pos-SCONJ.html">SCONJ</a></tt> (1; 10% instances)
 

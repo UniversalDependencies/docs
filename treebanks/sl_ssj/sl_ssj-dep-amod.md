@@ -32,7 +32,7 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 8	seboj	se	PRON	Px---i	Case=Ins|PronType=Prs|Reflex=Yes	10	nmod	_	Dep=10|Rel=Atr
 9	tesno	tesno	ADV	Rgp	Degree=Pos	10	advmod	_	Dep=10|Rel=Atr
 10	povezana	povezan	ADJ	Appmdn	Case=Nom|Degree=Pos|Gender=Masc|Number=Dual|VerbForm=Part	0	root	_	SpaceAfter=No|Dep=6|Rel=Atr
-11	.	.	PUNCT	Z	_	10	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+11	.	.	PUNCT	Z	_	10	punct	_	Dep=0|Rel=Root
 
 ~~~
 
@@ -69,7 +69,7 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 4	zaenkrat	zaenkrat	ADV	Rgp	Degree=Pos	6	advmod	_	Dep=6|Rel=AdvO
 5	ne	ne	PART	Q	Polarity=Neg	6	advmod	_	Dep=6|Rel=PPart
 6	zmoremo	zmoči	VERB	Vmer1p	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Dep=0|Rel=Root
-7	.	.	PUNCT	Z	_	6	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+7	.	.	PUNCT	Z	_	6	punct	_	Dep=0|Rel=Root
 
 ~~~
 

@@ -11,9 +11,9 @@ This relation is universal.
 9 nodes (0%) are attached to their parents as `vocative`.
 
 9 instances of `vocative` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 11.1111111111111.
+Average distance between parent and child is 11.3333333333333.
 
-The following 4 pairs of parts of speech are connected with `vocative`: <tt><a href="akk_pisandub-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_pisandub-pos-NOUN.html">NOUN</a></tt> (5; 56% instances), <tt><a href="akk_pisandub-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_pisandub-pos-PROPN.html">PROPN</a></tt> (2; 22% instances), <tt><a href="akk_pisandub-pos-PRON.html">PRON</a></tt>-<tt><a href="akk_pisandub-pos-PROPN.html">PROPN</a></tt> (1; 11% instances), <tt><a href="akk_pisandub-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_pisandub-pos-PRON.html">PRON</a></tt> (1; 11% instances).
+The following 4 pairs of parts of speech are connected with `vocative`: <tt><a href="akk_pisandub-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_pisandub-pos-NOUN.html">NOUN</a></tt> (6; 67% instances), <tt><a href="akk_pisandub-pos-PRON.html">PRON</a></tt>-<tt><a href="akk_pisandub-pos-PROPN.html">PROPN</a></tt> (1; 11% instances), <tt><a href="akk_pisandub-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_pisandub-pos-PRON.html">PRON</a></tt> (1; 11% instances), <tt><a href="akk_pisandub-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_pisandub-pos-PROPN.html">PROPN</a></tt> (1; 11% instances).
 
 
 ~~~ conllu
@@ -34,40 +34,6 @@ The following 4 pairs of parts of speech are connected with `vocative`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 1 vocative	color:blue
-1	D-AMAR-UTU	Marduk	PROPN	_	_	16	vocative	_	_
-2	EN	bēlu	NOUN	_	_	1	appos	_	_
-3	GAL	rabû	ADJ	_	_	2	amod	_	_
-4	ba-⸢laṭ⸣	balāṭu	NOUN	_	_	16	obj	_	_
-5	[u₄-um	ūmu	NOUN	_	_	4	nmod	_	_
-6	re-e-qú-ú-tim]	rēqu	ADJ	_	_	5	amod	_	_
-7	[še-bé-e	šebû	NOUN	_	_	4	conj	_	_
-8	li-it-tu-ú-ti	littūtu	NOUN	_	_	7	nmod	_	_
-9	ku-un	kūnu	NOUN	_	_	7	conj	_	_
-10	GIŠ-GU-ZA	kussû	NOUN	_	_	9	nmod	_	_
-11	ù	u	CCONJ	_	_	12	cc	_	_
-12	la-bar	labāru	NOUN	_	_	9	conj	_	_
-13	pa-le]-⸢e⸣	palû	NOUN	_	_	12	nmod	_	_
-14	a-na	ana	ADP	_	_	15	case	_	_
-15	ši-ri-ik-⸢tim⸣	šeriktu	NOUN	_	_	16	obl	_	_
-16	[šu-úr-kam	šarāku	VERB	_	_	0	root	_	_
-17	ù	u	CCONJ	_	_	18	cc	_	_
-18	a-na-ku	anāku	PRON	_	_	16	conj	_	_
-19	-ma	-ma	CCONJ	_	_	20	dep	_	_
-20	xx]	_	X	_	_	18	dep	_	_
-21	⸢lìb⸣-bi	libbu	NOUN	_	_	20	dep	_	_
-22	-ka	-ka	PRON	_	_	21	det	_	_
-23	a-na	ana	ADP	_	_	24	case	_	_
-24	da-rí-a-tim	dārītu	NOUN	_	_	21	nmod	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 10	bgColor:blue
@@ -83,6 +49,55 @@ The following 4 pairs of parts of speech are connected with `vocative`: <tt><a h
 8	ù	u	CCONJ	_	_	9	cc	_	_
 9	d-AMAR-UTU	Marduk	PROPN	_	_	7	conj	_	_
 10	a-na-ku	anāku	PRON	_	_	0	root	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 35	bgColor:blue
+# visual-style 35	fgColor:white
+# visual-style 35 16 vocative	color:blue
+1	áš-šu-ru-ú	Aššuru	PROPN	_	_	7	csubj	_	_
+2	šá	ša	SCONJ	_	_	7	mark	_	_
+3	i-na	ina	ADP	_	_	4	case	_	_
+4	ze-ru-ut	zērūtu	NOUN	_	_	7	obl	_	_
+5	DINGIR-MEŠ	ilu	NOUN	_	_	4	nmod	_	_
+6	ma-at-ak-ka-di-i	Mat-Akkadi	PROPN	_	_	7	obj	_	_
+7	i-bé-lu	bêlu	VERB	_	_	35	ccomp	_	_
+8	-ma	-ma	CCONJ	_	_	13	cc	_	_
+9	i-na	ina	ADP	_	_	10	case	_	_
+10	ni-ri	nīru	NOUN	_	_	13	obl	_	_
+11	-šu	-šu	PRON	_	_	10	det	_	_
+12	ka-ab-tim	kabtu	ADJ	_	_	10	amod	_	_
+13	ú-šá-az-zi-qu	nazāqu	VERB	_	_	7	conj	_	_
+14	ni-ši	nišu	NOUN	_	_	13	obj	_	_
+15	ma-a-ti	mātu	NOUN	_	_	14	nmod	_	_
+16	a-na-ku	anāku	PRON	_	_	35	vocative	_	_
+17	en-šu	enšu	NOUN	_	_	16	appos	_	_
+18	pí-is-nu-qu	pisnuqu	NOUN	_	_	17	conj	_	_
+19	mu-uš-te-eʾ-ú	mušteʾʾû	NOUN	_	_	18	conj	_	_
+20	EN	bēlu	NOUN	_	_	19	nmod	_	_
+21	EN-EN	bēlu	NOUN	_	_	20	nmod	_	_
+22	i-na	ina	ADP	_	_	23	case	_	_
+23	e-mu-qí	emūqu	NOUN	_	_	35	obl	_	_
+24	ga-áš-ra-a-tim	gašru	ADJ	_	_	23	amod	_	_
+25	šá	ša	ADP	_	_	26	case	_	_
+26	d-AG	Nabu	PROPN	_	_	23	nmod	_	_
+27	ù	u	CCONJ	_	_	28	cc	_	_
+28	d-AMAR-UTU	Marduk	PROPN	_	_	26	conj	_	_
+29	EN-MEŠ	bēlu	NOUN	_	_	28	nmod	_	_
+30	-e-a	-ia	PRON	_	_	29	det	_	_
+31	ul-tu	ištu	ADP	_	_	32	case	_	_
+32	ma-at-ak-ka-di-i	Mat-Akkadi	PROPN	_	_	35	obl	_	_
+33	še-ep	šēpu	NOUN	_	_	35	obj	_	_
+34	-šu-nu	-šunu	PRON	_	_	33	det	_	_
+35	ap-ru-us	parāsu	VERB	_	_	0	root	_	_
+36	-ma	-ma	CCONJ	_	_	39	cc	_	_
+37	ni-ir	nīru	NOUN	_	_	39	obj	_	_
+38	-šu-nu	-šunu	PRON	_	_	37	det	_	_
+39	ú-ša-ad-di-im	nadû	VERB	_	_	35	conj	_	_
 
 ~~~
 

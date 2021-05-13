@@ -24,12 +24,12 @@ The following 1 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 3 6 ccomp	color:blue
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	dealers	dealer	NOUN	NNS	Number=Plur	3	nsubj	_	_
-3	liked	like	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-4	that	that	SCONJ	_	_	6	mark	_	_
-5	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
-6	cleaned	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
-7	easily	easy	ADV	RB	_	6	advmod	_	SpaceAfter=No
-8	.	.	PUNCT	Period	_	3	punct	_	_
+3	liked	like	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	that	that	SCONJ	IN	_	6	mark	_	_
+5	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nsubj	_	_
+6	cleaned	clean	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	ccomp	_	_
+7	easily	easily	ADV	RB	_	6	advmod	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~
 

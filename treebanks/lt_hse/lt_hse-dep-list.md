@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 10	fgColor:white
 # visual-style 10 12 list	color:blue
 1	Taip	taip	ADV	RB	Degree=Pos	0	root	_	En=so
-2	nėra	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	En=be
+2	nėra	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	En=be
 3	ir	ir	PART	UH	_	14	advmod:emph	_	En=even
 4	Strepsiado	Strepsiado	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	En=Strepsiade|SpaceAfter=No
 5	-	-	PUNCT	PUNCT	_	6	punct	_	En=-|SpaceAfter=No

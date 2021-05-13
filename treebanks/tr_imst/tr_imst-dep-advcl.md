@@ -8,76 +8,73 @@ udver: '2'
 
 This relation is universal.
 
-10 nodes (0%) are attached to their parents as `advcl`.
+37 nodes (0%) are attached to their parents as `advcl`.
 
-10 instances of `advcl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.
+37 instances of `advcl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.45945945945946.
 
-The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (6; 60% instances), <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (1; 10% instances), <tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (1; 10% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> (1; 10% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> (1; 10% instances).
+The following 6 pairs of parts of speech are connected with `advcl`: <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (27; 73% instances), <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (4; 11% instances), <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (3; 8% instances), <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 advcl	color:blue
-1	Araba	araba	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	obj	_	_
-2	beğenmeyene	beğen	VERB	Verb	Aspect=Perf|Case=Dat|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Part	3	advcl	_	_
-3	bakın	bak	VERB	Verb	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
-4	.	.	PUNCT	Punc	_	3	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 advcl	color:blue
+1	Herkes	herkes	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	nsubj	_	_
+2	istediği	iste	VERB	Verb	Aspect=Perf|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	4	advcl	_	_
+3	gibi	gibi	ADP	PCNom	_	2	case	_	_
+4	sevişiyor	seviş	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	Punc	_	8	punct	_	_
+6	her	her	DET	Det	_	8	nsubj	_	_
+7	şey	şey	NOUN	Noun	Case=Nom|Number=Sing|Person=3	6	compound	_	_
+8	serbest	serbest	ADJ	Adj	_	4	conj	_	SpaceAfter=No
+9	.	.	PUNCT	Punc	_	8	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 25	bgColor:blue
-# visual-style 25	fgColor:white
-# visual-style 25 9 advcl	color:blue
-1	CHP'nin	Chp	NOUN	Abr	Abbr=Yes|Case=Gen|Number=Sing|Person=3	6	nmod:poss	_	_
-2	Doğu	doğu	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	6	amod	_	_
-3	ve	ve	CCONJ	Conj	_	4	cc	_	_
-4	Güneydoğu	güneydoğu	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	2	conj	_	_
-5	için	için	ADP	PCNom	_	2	case	_	_
-6	hazırladığı	hazırla	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	8	acl	_	_
-7	demokratikleşme	demokratikleş	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Vnoun	8	nmod:poss	_	_
-8	paketinde	paket	NOUN	Noun	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	25	nmod	_	_
-9	isteyenlere	iste	VERB	Verb	Aspect=Perf|Case=Dat|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Part	25	advcl	_	_
-10	ana	ana	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	18	obj	_	_
-11	dillerini	dil	NOUN	Noun	Case=Acc|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=3	10	compound	_	SpaceAfter=No
-12	,	,	PUNCT	Punc	_	18	punct	_	_
-13	devlet	devlet	NOUN	Noun	Case=Nom|Number=Sing|Person=3	14	nmod:poss	_	_
-14	denetiminde	denetim	NOUN	Noun	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	17	nmod	_	_
-15	ki	ki	ADP	Rel	_	14	case	_	_
-16	özel	özel	ADJ	Adj	_	17	amod	_	_
-17	kurslarda	kurs	NOUN	Noun	Case=Loc|Number=Plur|Person=3	20	obl	_	_
-18	öğrenme	öğren	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Vnoun	19	nmod:poss	_	_
-19	olanağı	olanak	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	20	nsubj	_	_
-20	sağlanacağı	sağla	VERB	Verb	Aspect=Perf|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Fut|VerbForm=Part|Voice=Pass	25	nmod:poss	_	_
-21	ve	ve	CCONJ	Conj	_	24	cc	_	_
-22	üniversitelerde	üniversite	NOUN	Noun	Case=Loc|Number=Plur|Person=3	24	obl	_	_
-23	enstitü	enstitü	NOUN	Noun	Case=Nom|Number=Sing|Person=3	24	nsubj	_	_
-24	kurulacağı	kur	VERB	Verb	Aspect=Perf|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Fut|VerbForm=Part|Voice=Pass	20	conj	_	_
-25	vaadinde	vaat	NOUN	Noun	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	0	root	_	_
-26	bulunuldu	bulun	VERB	Verb	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|Voice=Pass	25	compound:lvc	_	SpaceAfter=No
-27	.	.	PUNCT	Punc	_	25	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 3 advcl	color:blue
-1	Yalnızca	yalnızca	ADV	Adverb	_	0	root	_	_
-2	yararlı	yararlı	ADJ	Adj	_	3	obj	_	_
-3	olandan	ol	VERB	Verb	Aspect=Perf|Case=Abl|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Part	5	advcl	_	_
-4	tiksiniyoruz	tiksin	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Polite=Infm|Tense=Pres	1	conj	_	SpaceAfter=No
-5	...	...	PUNCT	Punc	_	4	punct	_	_
+# visual-style 5 2 advcl	color:blue
+1	Çok	çok	ADJ	Adj	_	2	amod	_	_
+2	sevdiğim	sev	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Ind|Number[psor]=Sing|Person[psor]=1|Polarity=Pos|Tense=Past|VerbForm=Part	5	advcl	_	_
+3	bir	bir	DET	ANum	Definite=Ind|PronType=Art	4	det	_	_
+4	mahalle	mahalle	NOUN	Noun	Case=Nom|Number=Sing|Person=3	5	nmod:poss	_	_
+5	arkadaşım	arkadaş	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	6	nsubj	_	_
+6	var	var	ADJ	Adj	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	Punc	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 5 advcl	color:blue
+1	Ardından	art	NOUN	Noun	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	2	nmod	_	_
+2	gene	gene	ADV	Adverb	_	15	advmod	_	SpaceAfter=No
+3	,	,	PUNCT	Punc	_	2	punct	_	_
+4	gündüzleri	gündüz	NOUN	Noun	Case=Acc|Number=Plur|Person=3	5	obl	_	_
+5	gezdiğim	gez	VERB	Verb	Aspect=Perf|Case=Nom|Mood=Ind|Number[psor]=Sing|Person[psor]=1|Polarity=Pos|Tense=Past|VerbForm=Part	14	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	Punc	_	5	punct	_	_
+7	birlikte	birlikte	ADP	PCIns	_	12	case	_	_
+8	aynı	aynı	ADJ	Adj	_	9	amod	_	_
+9	mahallede	mahalle	NOUN	Noun	Case=Loc|Number=Sing|Person=3	11	nmod	_	_
+10	ki	ki	ADP	Rel	_	9	case	_	_
+11	sinemaları	sinema	NOUN	Noun	Case=Acc|Number=Plur|Person=3	12	obj	_	_
+12	dolaştığım	dolaş	VERB	Verb	Aspect=Perf|Mood=Ind|Number[psor]=Sing|Person[psor]=1|Polarity=Pos|Tense=Past|VerbForm=Part	14	acl	_	_
+13	genç	genç	ADJ	Adj	_	14	amod	_	_
+14	kızlara	kız	ADJ	NAdj	Case=Dat|Number=Plur|Person=3	15	amod	_	_
+15	geliyordu	gel	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Infm|Tense=Past	0	root	_	_
+16	sıra	sıra	NOUN	Noun	Case=Nom|Number=Sing|Person=3	15	nsubj	_	SpaceAfter=No
+17	.	.	PUNCT	Punc	_	15	punct	_	_
 
 ~~~
 

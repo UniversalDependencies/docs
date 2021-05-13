@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>lu</em> (<tt><a href="akk_pisandub-po
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.400000 (the average of all parts of speech is 1.687616).
+The form / lemma ratio of `PART` is 1.400000 (the average of all parts of speech is 1.690167).
 
 The 1st highest number of forms (2) was observed with the lemma “lā”: <em>la, la]</em>.
 

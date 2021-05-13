@@ -38,10 +38,10 @@ The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 7 ccomp	color:blue
-1	Holmes	Holmes	PROPN	np	Case=Obl|Gender=Masc|Number=Sing	3	nsubj	_	SpaceAfter=No
-2	,	,	PUNCT	cm	_	3	punct	_	_
+1	Holmes	Holmes	PROPN	np	Case=Acc|Gender=Masc|Number=Sing	3	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	cm	_	1	punct	_	_
 3	gote	gotin	VERB	vblex	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-4	min	ez	PRON	prn	Case=Obl|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	3	nmod:dat	_	SpaceAfter=No
+4	min	ez	PRON	prn	Case=Acc|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	3	obl:dat	_	SpaceAfter=No
 5	:	:	PUNCT	sent	_	7	punct	_	_
 6	Çi	çi	DET	prn	PronType=Int	7	det	_	_
 7	mirovekî	mirov	NOUN	n	Case=Con|Gender=Masc|Number=Sing|PronType=Ind	3	ccomp	_	_
@@ -69,7 +69,7 @@ The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 9	ber	ber	ADP	pr	AdpType=Prep	8	fixed	_	_
 10	ba	ba	NOUN	n	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	14	nmod	_	_
 11	û	û	CCONJ	cnjcoo	_	12	cc	_	_
-12	firtinê	firtina	NOUN	n	Case=Obl|Definite=Def|Gender=Fem|Number=Sing	10	conj	_	_
+12	firtinê	firtina	NOUN	n	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	10	conj	_	_
 13	ez	ez	PRON	prn	Case=Nom|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
 14	şaş	şaş	ADJ	adj	Degree=Pos	6	ccomp	_	_
 15	im	bûn	AUX	vbcop	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	cop	_	SpaceAfter=No

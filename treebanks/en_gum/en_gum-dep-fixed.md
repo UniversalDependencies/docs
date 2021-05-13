@@ -8,56 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-299 nodes (0%) are attached to their parents as `fixed`.
+438 nodes (0%) are attached to their parents as `fixed`.
 
-299 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.11036789297659.
+438 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.07990867579909.
 
-The following 29 pairs of parts of speech are connected with `fixed`: <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (53; 18% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (50; 17% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (35; 12% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (34; 11% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (29; 10% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (17; 6% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (17; 6% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (14; 5% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (12; 4% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (8; 3% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 10 fixed	color:blue
-1	Its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	Discourse=elaboration:12->9|Entity=(abstract-14(abstract-12)
-2	goal	goal	NOUN	NN	Number=Sing	5	nsubj	_	Entity=abstract-14)
-3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	to	to	PART	TO	_	5	mark	_	_
-5	decrease	decrease	VERB	VB	VerbForm=Inf	0	root	_	_
-6	IE6	IE6	PROPN	NNP	Number=Sing	7	compound	_	Entity=(person-9(abstract-3)
-7	users	user	NOUN	NNS	Number=Plur	5	obj	_	Entity=person-9)
-8	to	to	ADP	IN	_	12	case	_	_
-9	less	less	ADJ	JJR	Degree=Cmp	11	advmod	_	Entity=(person-15
-10	than	than	ADP	IN	_	9	fixed	_	_
-11	one	one	NUM	CD	NumType=Card	12	nummod	_	_
-12	percent	percent	NOUN	NN	Number=Sing	5	obl	_	Entity=person-15)|SpaceAfter=No
-13	.	.	PUNCT	.	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 fixed	color:blue
-1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	Discourse=result:106->105|Entity=(object-93)|SpaceAfter=No
-2	'll	will	AUX	MD	VerbForm=Fin	3	aux	_	_
-3	dissolve	dissolve	VERB	VB	VerbForm=Inf	0	root	_	_
-4	in	in	ADP	IN	_	6	case	_	_
-5	an	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	Entity=(time-95
-6	hour	hour	NOUN	NN	Number=Sing	3	obl	_	Entity=time-95)
-7	instead	instead	ADV	RB	_	10	case	_	_
-8	of	of	ADP	IN	_	7	fixed	_	_
-9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	Entity=(time-96
-10	day	day	NOUN	NN	Number=Sing	3	obl	_	Entity=time-96)|SpaceAfter=No
-11	.	.	PUNCT	.	_	3	punct	_	_
-
-~~~
+The following 22 pairs of parts of speech are connected with `fixed`: <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (78; 18% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (66; 15% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (66; 15% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (48; 11% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (40; 9% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (34; 8% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (31; 7% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (21; 5% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (19; 4% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (16; 4% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -66,17 +22,58 @@ The following 29 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 fixed	color:blue
-1	Passing	pass	VERB	VBG	VerbForm=Ger	0	root	_	Discourse=joint:86->77|Entity=(event-117
-2	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	Entity=(abstract-118
-3	Living	living	NOUN	NN	Number=Sing	4	compound	_	Entity=(abstract-119
-4	Wage	wage	NOUN	NN	Number=Sing	5	compound	_	Entity=abstract-119)
-5	program	program	NOUN	NN	Number=Sing	1	obj	_	_
-6	lifting	lift	VERB	VBG	VerbForm=Ger	5	acl	_	Discourse=result:87->86
-7	people	people	NOUN	NNS	Number=Plur	6	obj	_	Entity=(person-120)
-8	out	out	ADP	RP	_	10	case	_	_
-9	of	of	ADP	IN	_	8	fixed	_	_
-10	poverty	poverty	NOUN	NN	Number=Sing	6	obl	_	Entity=(abstract-121)event-117)abstract-118)|SpaceAfter=No
-11	.	.	PUNCT	.	_	1	punct	_	_
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	Discourse=joint:51->49|Entity=(place-55)
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	Entity=(place-55
+4	limestone	limestone	NOUN	NN	Number=Sing	5	compound	5:compound	Entity=(substance-92)
+5	island	island	NOUN	NN	Number=Sing	0	root	0:root	_
+6	with	with	ADP	IN	_	7	case	7:case	_
+7	heights	height	NOUN	NNS	Number=Plur	5	nmod	5:nmod:with	Entity=(abstract-93
+8	up	up	ADV	IN	_	10	advmod	10:advmod	_
+9	to	to	ADP	IN	_	8	fixed	8:fixed	_
+10	213	213	NUM	CD	NumForm=Digit|NumType=Card	11	nummod	11:nummod	Entity=(abstract-94
+11	m	meter	NOUN	NNS	Number=Plur	7	nmod:npmod	7:nmod:npmod	Entity=abstract-93)abstract-94)
+12	in	in	ADP	IN	_	14	case	14:case	_
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	Entity=(place-95
+14	west	west	NOUN	NN	Number=Sing	7	nmod	7:nmod:in	Entity=place-55)place-95)|SpaceAfter=No
+15	.	.	PUNCT	.	_	5	punct	5:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 fixed	color:blue
+1	Due	due	ADJ	JJ	Degree=Pos	3	case	3:case	Discourse=result:7->6
+2	to	to	ADP	IN	_	1	fixed	1:fixed	_
+3	that	that	PRON	DT	Number=Sing|PronType=Dem	9	obl	9:obl:due_to	Entity=(event-10)|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	punct	3:punct	_
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	Entity=(organization-8
+6	religion	religion	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	Entity=organization-8)
+7	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	9:cop	_
+8	relatively	relatively	ADV	RB	Degree=Pos	9	advmod	9:advmod	_
+9	secretive	secretive	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
+10	.	.	PUNCT	.	_	9	punct	9:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 fixed	color:blue
+1	Get	get	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	Discourse=joint:9->2
+2	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	Entity=(object-11(person-4)
+3	feet	foot	NOUN	NNS	Number=Plur	1	obj	1:obj	Entity=object-11)
+4	off	off	ADP	IN	_	6	case	6:case	_
+5	of	of	ADP	IN	_	4	fixed	4:fixed	_
+6	there	there	ADV	RB	PronType=Dem	1	obl	1:obl:off_of	SpaceAfter=No
+7	.	.	PUNCT	.	_	1	punct	1:punct	_
 
 ~~~
 

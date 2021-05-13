@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `appos`: <tt><a href
 2	_	_	ADP	post	_	1	case	_	_
 3	_	_	PART	discprt	_	1	dep:mod	_	_
 4	_	_	PART	illocprt	_	1	dep:mod	_	_
-5	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	_
+5	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	0	root	_	_
 6	_	_	NOUN	n	_	7	nmod	_	_
 7	_	_	NOUN	n	_	9	nmod	_	_
 8	_	_	NOUN	n	_	7	appos	_	_
@@ -75,7 +75,7 @@ The following 3 pairs of parts of speech are connected with `appos`: <tt><a href
 6	_	_	PRON	pro	Person=3|PronType=Prs	4	appos	_	_
 7	_	_	CCONJ	coordconn	_	6	cc	_	_
 8	_	_	PART	illocprt	_	6	dep:mod	_	_
-9	_	_	VERB	vd:a	Mood=Ind|Person[subj]=3|Subcat=IntInd|VerbForm=Fin	0	root	_	_
+9	_	_	VERB	vd:a	Mood=Ind|Person[subj]=3|Subcat=Indir|VerbForm=Fin	0	root	_	_
 10	_	_	VERB	vs	Mood=Ind|Person=3|VerbForm=Ser	9	compound:svc	_	_
 11	_	_	NOUN	n	_	9	obl	_	_
 12	_	_	ADP	post	_	11	case	_	_

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Joakim Nivre, Bernadeta Griciūtė.
 
 Repository: [UD_Swedish-PUD](https://github.com/UniversalDependencies/UD_Swedish-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_pud27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_pud28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -92,7 +92,7 @@ The syntactic annotation was checked and corrected manually by Joakim Nivre.
 </ul>
 
 <ul>
-<li>This corpus contains 147 types of words that contain both letters and punctuation. Examples: f.Kr., USA:s, 1960-talet, 1970-talet, 700-talet, St., 1500-talet, 1900-talet, 1980-talet, 1990-talet, B.C., Joliot-Curie, Qing-dynastins, e-post, e-postmeddelanden, e.Kr., n't, 'Ya, 10-veckorskursen, 1200-talet, 1300-talet, 1350-talet, 1400-talet, 18-åring, 1950-talet, 200-talet, 2000-talet, 28-åringen, 3%-räntan, 400-tal, 400-talet, 45:e, 500-talet, 53-åringen, 60-talshiten, 800-talet, AKP:s, Amarna-breven, Australien-laget, B-29:or, BBC:s, BNP-tillväxten, Beijing-vänliga, Bian-kanalen, Buena-trädgården, CNN-reportrar, CRTC-utfrågningar, C​e​c​e​l​i​a​-​k​o​n​s​e​r​v​a​t​o​r​i​e​t, C​e​n​t​u​r​y​-​u​t​m​ä​r​k​e​l​s​e​r​n​a, Chilia-armen</li>
+<li>This corpus contains 147 types of words that contain both letters and punctuation. Examples: f.Kr., USA:s, 1960-talet, 1970-talet, 700-talet, St., 1500-talet, 1900-talet, 1980-talet, 1990-talet, B.C., Joliot-Curie, Qing-dynastins, e-post, e-postmeddelanden, e.Kr., n't, 'Ya, 10-veckorskursen, 1200-talet, 1300-talet, 1350-talet, 1400-talet, 18-åring, 1950-talet, 200-talet, 2000-talet, 28-åringen, 3%-räntan, 400-tal, 400-talet, 45:e, 500-talet, 53-åringen, 60-talshiten, 800-talet, AKP:s, Amarna-breven, Australien-laget, B-29:or, BBC:s, BNP-tillväxten, Beijing-vänliga, Bian-kanalen, Buena-trädgården, CNN-reportrar, CRTC-utfrågningar, Cecelia-konservatoriet, Century-utmärkelserna, Chilia-armen</li>
 </ul>
 
 <ul>

@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of nummod in UD_Old_Russian-TOROT'
+title:  'Statistics of nummod in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Relations: `nummod`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Relations: `nummod`
 
 This relation is universal.
 
@@ -41,7 +41,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 2	семцю	сѣмьца	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	ref=248.35
 3	яша	яти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=248.35
 4	ѡдиного	одинъ	NUM	Ma	Case=Gen|Gender=Masc|Number=Sing	2	nummod	_	ref=248.35
-5	живого	живыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	2	amod	_	ref=248.35
+5	живого	живыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	ref=248.35
 6	ти	ти	CCONJ	C-	_	2	cc	_	ref=248.35
 7	смердъ	смьрдъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	ref=248.35
 8	нѣколико	нѣколико	ADV	Df	_	2	conj	_	ref=248.35

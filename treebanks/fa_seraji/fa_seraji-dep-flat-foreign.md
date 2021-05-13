@@ -24,7 +24,7 @@ The following 7 pairs of parts of speech are connected with `flat:foreign`: <tt>
 # visual-style 4 5 flat:foreign	color:blue
 1	عدی	_	NOUN	N_SING	Number=Sing	2	nsubj	_	_
 2	گفت	گفت#گو	VERB	V_PA	Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
-3	:	:	PUNCT	DELM	_	2	punct	_	_
+3	:	:	PUNCT	DELM	_	4	punct	_	_
 4	قلوبنا	_	X	FW	_	2	ccomp	_	_
 5	لیست	لیست	X	FW	_	4	flat:foreign	_	_
 6	بیدک	_	X	FW	_	5	flat:foreign	_	_
@@ -47,7 +47,7 @@ The following 7 pairs of parts of speech are connected with `flat:foreign`: <tt>
 5	پیامبر	پیامبر	NOUN	N_SING	Number=Sing	4	nmod:poss	_	_
 6	اکرم	اکرم	ADJ	ADJ	Degree=Pos	5	amod	_	_
 7	می‌فرماید	فرمود#فرما	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
-8	:	:	PUNCT	DELM	_	7	punct	_	_
+8	:	:	PUNCT	DELM	_	9	punct	_	_
 9	بالمؤمنین	بالمؤمنین	X	FW	_	7	ccomp	_	_
 10	رإف	رإف	ADJ	ADJ	Degree=Pos	9	flat:foreign	_	_
 11	رحیم	رحیم	X	FW	_	10	flat:foreign	_	SpaceAfter=No
@@ -64,7 +64,7 @@ The following 7 pairs of parts of speech are connected with `flat:foreign`: <tt>
 # visual-style 32 33 flat:foreign	color:blue
 1	احمدالحسن	احمدالحسن	NOUN	N_SING	Number=Sing	2	nsubj	_	_
 2	گفت	گفت#گو	VERB	V_PA	Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
-3	:	:	PUNCT	DELM	_	2	punct	_	_
+3	:	:	PUNCT	DELM	_	6	punct	_	_
 4	این	این	PRON	PRO	Number=Sing|PronType=Dem	6	nsubj	_	_
 5	یک	یک	NUM	NUM	NumType=Card	6	nummod	_	_
 6	روش	روش	NOUN	N_SING	Number=Sing	2	ccomp	_	_
@@ -88,7 +88,7 @@ The following 7 pairs of parts of speech are connected with `flat:foreign`: <tt>
 24	را	را	PART	CLITIC	_	22	case	_	_
 25	خواند	خواند#خوان	VERB	V_PA	Number=Sing|Person=3|Tense=Past	6	conj	_	_
 26	که	که	SCONJ	CON	_	25	dep	_	SpaceAfter=No
-27	:	:	PUNCT	DELM	_	25	punct	_	_
+27	:	:	PUNCT	DELM	_	28	punct	_	_
 28	کل	کل	X	FW	_	25	ccomp	_	_
 29	یرید	یرید	X	FW	_	28	flat:foreign	_	_
 30	رجاله	رجاله	X	FW	_	29	flat:foreign	_	_

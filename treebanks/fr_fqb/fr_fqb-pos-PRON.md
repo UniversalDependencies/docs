@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-FQB: POS Tags: `PRON`
 
-There are 24 `PRON` lemmas (1%), 51 `PRON` types (1%) and 1658 `PRON` tokens (7%).
-Out of 17 observed tags, the rank of `PRON` is: 9 in number of lemmas, 8 in number of types and 8 in number of tokens.
+There are 24 `PRON` lemmas (1%), 54 `PRON` types (1%) and 1658 `PRON` tokens (7%).
+Out of 16 observed tags, the rank of `PRON` is: 9 in number of lemmas, 8 in number of types and 8 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: <em>il, qui, que, le/lui, ce, quoi, y, lequel, le, _</em>
 
-The 10 most frequent `PRON` types:  <em>qui, -il, qu', -ce, se, que, -elle, -on, -je, je</em>
+The 10 most frequent `PRON` types:  <em>qui, qu', -ce, -t-il, se, que, -il, -je, -t-elle, je</em>
 
 The 10 most frequent ambiguous lemmas: <em>il</em> (<tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 608, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 2), <em>que</em> (<tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 266, <tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> 151, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 2), <em>ce</em> (<tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 157, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 7), <em>le</em> (<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 2759, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 10), <em>_</em> (<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 33, <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 31, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 18, <tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 9, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 7, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 6, <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="fr_fqb-pos-SYM.html">SYM</a></tt> 1), <em>un</em> (<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 372, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 5), <em>autre</em> (<tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 11, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 2), <em>où</em> (<tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 188, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 2), <em>2000</em> (<tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> 1, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 1), <em>tout</em> (<tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 1, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 1)
 
@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>qu'</em> (<tt><a href="fr_fqb-pos-SCO
   * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 1161: <em>Qu' est -ce qu' une aide à <b>le</b> logement ?</em>
   * <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 5: <em>Vous avez remboursé un trop perçu , devez -vous <b>le</b> déduire ?</em>
 * <em>un</em>
-  * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 201: <em>Combien y a -t -il de mégaoctets dans <b>un</b> gigaoctet ?</em>
+  * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 201: <em>Combien y a -t-il de mégaoctets dans <b>un</b> gigaoctet ?</em>
   * <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 4: <em>Nommez l' <b>un</b> de les dieux principaux de l' hindouisme .</em>
 * <em>l'</em>
   * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 471: <em>Vais -je continuer à percevoir <b>l'</b> aide à le logement étudiant ?</em>
@@ -41,10 +41,10 @@ The 10 most frequent ambiguous types:  <em>qu'</em> (<tt><a href="fr_fqb-pos-SCO
   * <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1: <em>Qui a écrit " Fiddler <b>on</b> the Roof " ?</em>
 * <em>Quels</em>
   * <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 19: <em><b>Quels</b> sont vos droits si vous êtes intermittent de le spectacle ?</em>
-  * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 3: <em><b>Quels</b> sites touristiques y a -t -il à Reims ?</em>
+  * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 3: <em><b>Quels</b> sites touristiques y a -t-il à Reims ?</em>
   * <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 2: <em><b>Quels</b> étaient les trois bateaux de Christophe Colomb ?</em>
 * <em>autre</em>
-  * <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 10: <em>Quel <b>autre</b> nom donne -t -on à la " maladie de la vache folle " ?</em>
+  * <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 10: <em>Quel <b>autre</b> nom donne -t-on à la " maladie de la vache folle " ?</em>
   * <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 2: <em>Comment passer d' un espace personnel à un <b>autre</b> ?</em>
 * <em>ce</em>
   * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 3: <em>Comment <b>ce</b> Fonds est -il utilisé ?</em>
@@ -55,9 +55,9 @@ The 10 most frequent ambiguous types:  <em>qu'</em> (<tt><a href="fr_fqb-pos-SCO
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 2.125000 (the average of all parts of speech is 1.162933).
+The form / lemma ratio of `PRON` is 2.250000 (the average of all parts of speech is 1.163777).
 
-The 1st highest number of forms (15) was observed with the lemma “il”: <em>-elle, -elles, -il, -ils, -je, -on, -vous, elle, elles, il, j', je, nous, on, vous</em>.
+The 1st highest number of forms (18) was observed with the lemma “il”: <em>-elle, -elles, -il, -ils, -je, -on, -t-elle, -t-il, -t-on, -vous, elle, elles, il, j', je, nous, on, vous</em>.
 
 The 2nd highest number of forms (6) was observed with the lemma “le/lui”: <em>-moi, m', me, s', se, vous</em>.
 
@@ -78,9 +78,9 @@ Examples: <em>qui, Qu', que, quoi, Quels</em>
 
 Parents of `PRON` nodes belong to 8 different parts of speech: <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (1120; 68% instances),  (178; 11% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (159; 10% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (153; 9% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (22; 1% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (21; 1% instances), <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
-1171 (71%) `PRON` nodes are leaves.
+1405 (85%) `PRON` nodes are leaves.
 
-297 (18%) `PRON` nodes have one child.
+63 (4%) `PRON` nodes have one child.
 
 10 (1%) `PRON` nodes have two children.
 
@@ -88,7 +88,7 @@ Parents of `PRON` nodes belong to 8 different parts of speech: <tt><a href="fr_f
 
 The highest child degree of a `PRON` node is 5.
 
-Children of `PRON` nodes are attached using 16 different relations: <tt><a href="fr_fqb-dep-dep.html">dep</a></tt> (234; 23% instances), <tt><a href="fr_fqb-dep-punct.html">punct</a></tt> (185; 18% instances), <tt><a href="fr_fqb-dep-cop.html">cop</a></tt> (179; 18% instances), <tt><a href="fr_fqb-dep-nsubj.html">nsubj</a></tt> (177; 17% instances), <tt><a href="fr_fqb-dep-dislocated.html">dislocated</a></tt> (135; 13% instances), <tt><a href="fr_fqb-dep-case.html">case</a></tt> (62; 6% instances), <tt><a href="fr_fqb-dep-advcl-cleft.html">advcl:cleft</a></tt> (17; 2% instances), <tt><a href="fr_fqb-dep-det.html">det</a></tt> (6; 1% instances), <tt><a href="fr_fqb-dep-nmod.html">nmod</a></tt> (6; 1% instances), <tt><a href="fr_fqb-dep-acl.html">acl</a></tt> (3; 0% instances), <tt><a href="fr_fqb-dep-fixed.html">fixed</a></tt> (3; 0% instances), <tt><a href="fr_fqb-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="fr_fqb-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="fr_fqb-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="fr_fqb-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="fr_fqb-dep-obj.html">obj</a></tt> (1; 0% instances)
+Children of `PRON` nodes are attached using 15 different relations: <tt><a href="fr_fqb-dep-punct.html">punct</a></tt> (185; 24% instances), <tt><a href="fr_fqb-dep-cop.html">cop</a></tt> (179; 23% instances), <tt><a href="fr_fqb-dep-nsubj.html">nsubj</a></tt> (177; 23% instances), <tt><a href="fr_fqb-dep-dislocated.html">dislocated</a></tt> (135; 17% instances), <tt><a href="fr_fqb-dep-case.html">case</a></tt> (62; 8% instances), <tt><a href="fr_fqb-dep-advcl-cleft.html">advcl:cleft</a></tt> (17; 2% instances), <tt><a href="fr_fqb-dep-det.html">det</a></tt> (6; 1% instances), <tt><a href="fr_fqb-dep-nmod.html">nmod</a></tt> (6; 1% instances), <tt><a href="fr_fqb-dep-acl.html">acl</a></tt> (3; 0% instances), <tt><a href="fr_fqb-dep-fixed.html">fixed</a></tt> (3; 0% instances), <tt><a href="fr_fqb-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="fr_fqb-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="fr_fqb-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="fr_fqb-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="fr_fqb-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Children of `PRON` nodes belong to 14 different parts of speech: <tt><a href="fr_fqb-pos-PART.html">PART</a></tt> (234; 23% instances), <tt><a href="fr_fqb-pos-PUNCT.html">PUNCT</a></tt> (185; 18% instances), <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (179; 18% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (153; 15% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (149; 15% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (64; 6% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (24; 2% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (16; 2% instances), <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="fr_fqb-pos-X.html">X</a></tt> (1; 0% instances)
+Children of `PRON` nodes belong to 13 different parts of speech: <tt><a href="fr_fqb-pos-PUNCT.html">PUNCT</a></tt> (185; 24% instances), <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (179; 23% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (153; 20% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (149; 19% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (64; 8% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (24; 3% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (16; 2% instances), <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="fr_fqb-pos-X.html">X</a></tt> (1; 0% instances)
 

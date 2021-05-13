@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-Sequoia: POS Tags: `ADV`
 
 There are 271 `ADV` lemmas (4%), 273 `ADV` types (3%) and 2635 `ADV` tokens (4%).
-Out of 17 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 9 in number of tokens.
+Out of 16 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 9 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>ne, pas, plus, moins, très, également, aussi, bien, non, alors</em>
 
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>pas</em> (<tt><a href="fr_sequoia-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.007380 (the average of all parts of speech is 1.405182).
+The form / lemma ratio of `ADV` is 1.007380 (the average of all parts of speech is 1.405809).
 
 The 1st highest number of forms (2) was observed with the lemma “ne”: <em>n', ne</em>.
 

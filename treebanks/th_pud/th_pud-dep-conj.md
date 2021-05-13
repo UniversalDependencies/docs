@@ -27,14 +27,14 @@ The following 26 pairs of parts of speech are connected with `conj`: <tt><a href
 3	เกม	_	NOUN	NN	_	2	obj	_	SpaceAfter=No
 4	หนัก	_	ADJ	JJ	_	3	amod	_	SpaceAfter=No
 5	ๆ	_	SYM	SYM	_	4	dep	_	_
-6	ได้	_	VERB	MD	_	2	aux	_	_
+6	ได้	_	AUX	MD	_	2	aux	_	_
 7	แต่	_	CCONJ	CC	_	9	cc	_	SpaceAfter=No
 8	ก็	_	ADV	RB	_	9	advmod	_	SpaceAfter=No
 9	เล่น	_	VERB	VV	_	2	conj	_	SpaceAfter=No
 10	เกม	_	NOUN	NN	_	9	obj	_	SpaceAfter=No
 11	เบา	_	ADJ	JJ	_	10	amod	_	SpaceAfter=No
 12	ๆ	_	SYM	SYM	_	11	dep	_	_
-13	ได้	_	VERB	MD	_	9	aux	_	SpaceAfter=No
+13	ได้	_	AUX	MD	_	9	aux	_	SpaceAfter=No
 14	เช่น	_	AUX	VC	_	15	cop	_	SpaceAfter=No
 15	กัน	_	PRON	PRP	_	9	acl	_	_
 
@@ -71,7 +71,7 @@ The following 26 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 11	fgColor:white
 # visual-style 11 13 conj	color:blue
 1	ไวส์	_	PROPN	NNP	_	3	nsubj	_	SpaceAfter=No
-2	ได้	_	PART	AS	Aspect=Perf	3	aux	_	SpaceAfter=No
+2	ได้	_	AUX	AS	Aspect=Perf	3	aux	_	SpaceAfter=No
 3	รับ	_	VERB	VV	_	0	root	_	SpaceAfter=No
 4	การเชิดชู	_	VERB	VV	_	3	obj	_	SpaceAfter=No
 5	เกียรติ	_	NOUN	NN	_	4	obj	_	SpaceAfter=No

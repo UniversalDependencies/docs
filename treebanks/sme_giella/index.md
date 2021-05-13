@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Trond Trosterud, Lene Antonsen, Francis Tyers.
 
 Repository: [UD_North_Sami-Giella](https://github.com/UniversalDependencies/UD_North_Sami-Giella)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsme_giella27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsme_giella28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -482,14 +482,6 @@ year = 2017
 </ul>
 
 <ul>
-  <li>Coll
-    <ul>
-      <li>NOUN: máŋggas, guovttis, Máŋgasat, golbmasa, golbmasis, golmmas, guovttos, máná-guovttos, viđas, Biera-guovttos</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li>Dem
     <ul>
       <li>PRON: dat, dan, dán, dát, dakkár, daid, dasa, das, dákkár, dainna</li>
@@ -545,6 +537,14 @@ year = 2017
   <li>Card
     <ul>
       <li>NUM: guokte, golbma, ovtta, okta, moadde, máŋga, golmma, vihtta, guovtti, máŋgga</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Coll
+    <ul>
+      <li>NOUN: máŋggas, guovttis, Máŋgasat, golbmasa, golbmasis, golmmas, guovttos, máná-guovttos, viđas, Biera-guovttos</li>
     </ul>
   </li>
 </ul>

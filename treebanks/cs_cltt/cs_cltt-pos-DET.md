@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Czech-CLTT: POS Tags: `DET`
 
-There are 18 `DET` lemmas (1%), 90 `DET` types (2%) and 1161 `DET` tokens (3%).
+There are 20 `DET` lemmas (1%), 90 `DET` types (2%) and 1161 `DET` tokens (3%).
 Out of 15 observed tags, the rank of `DET` is: 9 in number of lemmas, 7 in number of types and 8 in number of tokens.
 
-The 10 most frequent `DET` lemmas: <em>který, tento, jeho, ten, všechen, svůj, takový, jenž, každý, některý</em>
+The 10 most frequent `DET` lemmas: <em>který, tento, jeho, ten, všechen, svůj, takový, každý, jejichž, některý</em>
 
 The 10 most frequent `DET` types:  <em>které, jejich, která, jeho, této, tohoto, který, těchto, tyto, tato</em>
 
-The 10 most frequent ambiguous lemmas: <em>jenž</em> (<tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 73, <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 21)
+The 10 most frequent ambiguous lemmas: 
 
 The 10 most frequent ambiguous types:  <em>jejich</em> (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 93, <tt><a href="cs_cltt-pos-X.html">X</a></tt> 6), <em>to</em> (<tt><a href="cs_cltt-pos-PART.html">PART</a></tt> 33, <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 19), <em>tuto</em> (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 11, <tt><a href="cs_cltt-pos-ADV.html">ADV</a></tt> 7), <em>jehož</em> (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 6, <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> 5), <em>t</em> (<tt><a href="cs_cltt-pos-DET.html">DET</a></tt> 1, <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> 1)
 
@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>jejich</em> (<tt><a href="cs_cltt-pos
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 5.000000 (the average of all parts of speech is 1.726345).
+The form / lemma ratio of `DET` is 4.500000 (the average of all parts of speech is 1.725132).
 
 The 1st highest number of forms (15) was observed with the lemma “tento”: <em>t, tato, tento, tohoto, tomto, tomuto, toto, touto, tuto, tyto, této, tímto, těchto, těmito, těmto</em>.
 

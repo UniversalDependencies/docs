@@ -51,7 +51,7 @@ The 3rd highest number of forms (1) was observed with the lemma “कडे”:
 
 `ADP` occurs with 3 features: <tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt> (116; 39% instances), <tt><a href="mr_ufal-feat-Number.html">Number</a></tt> (116; 39% instances), <tt><a href="mr_ufal-feat-Case.html">Case</a></tt> (54; 18% instances)
 
-`ADP` occurs with 7 feature-value pairs: `Case=Nom`, `Case=Obl`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
+`ADP` occurs with 7 feature-value pairs: `Case=Abs`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
 
 `ADP` occurs with 9 feature combinations.
 The most frequent feature combination is `_` (131 tokens).
@@ -62,7 +62,7 @@ Examples: <em>_, बाहेर, पुढे, पलीकडे, मध्य
 
 `ADP` nodes are attached to their parents using 3 different relations: <tt><a href="mr_ufal-dep-case.html">case</a></tt> (291; 98% instances), <tt><a href="mr_ufal-dep-advmod.html">advmod</a></tt> (6; 2% instances), <tt><a href="mr_ufal-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt> (157; 53% instances), <tt><a href="mr_ufal-pos-PRON.html">PRON</a></tt> (101; 34% instances), <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt> (22; 7% instances), <tt><a href="mr_ufal-pos-PROPN.html">PROPN</a></tt> (14; 5% instances), <tt><a href="mr_ufal-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="mr_ufal-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `ADP` nodes belong to 7 different parts of speech: <tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt> (157; 53% instances), <tt><a href="mr_ufal-pos-PRON.html">PRON</a></tt> (101; 34% instances), <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt> (23; 8% instances), <tt><a href="mr_ufal-pos-PROPN.html">PROPN</a></tt> (14; 5% instances), <tt><a href="mr_ufal-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="mr_ufal-pos-AUX.html">AUX</a></tt> (1; 0% instances),  (1; 0% instances)
 
 296 (99%) `ADP` nodes are leaves.
 

@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>že</em> (<tt><a href="sk_snk-pos-SCO
   * <tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> 204: <em>Pezinčania zase hovoria " ísť na Cajlu " , <b>keď</b> niekomu " preskočilo " .</em>
   * <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 1: <em>“ Ale <b>keď</b> kapitán Hook na tom trvá ! “ vysvetľoval John , starší z Wendiných bratov .</em>
 * <em>ako</em>
-  * <tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> 266: <em>Martin Luther sa narodil <b>ako</b> jedno z deviatich detí baníka .</em>
+  * <tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> 266: <em>Aldrin vstúpil do Eagla <b>ako</b> prvý .</em>
   * <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> 30: <em>Uvidíme , <b>ako</b> do celé dopadne .</em>
 * <em>kým</em>
   * <tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> 30: <em>Chvíľu potrvá , <b>kým</b> si na seba opäť zvyknú .</em>
@@ -50,7 +50,7 @@ The 10 most frequent ambiguous types:  <em>že</em> (<tt><a href="sk_snk-pos-SCO
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 0.961538 (the average of all parts of speech is 1.801856).
+The form / lemma ratio of `SCONJ` is 0.961538 (the average of all parts of speech is 1.802472).
 
 The 1st highest number of forms (1) was observed with the lemma “aby”: <em>aby</em>.
 

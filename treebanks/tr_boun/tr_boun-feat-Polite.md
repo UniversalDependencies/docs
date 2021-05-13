@@ -23,5 +23,5 @@ The most frequent other feature values with which `VERB` and `Polite` co-occurre
 `VERB` tokens may have the following values of `Polite`:
 
 * `Infm` (3; 100% of non-empty `Polite`): <em>"görmüyor, dansediyorlardı, sarfediyor</em>
-* `EMPTY` (20829): <em>olan, dedi, olduğunu, olduğu, oldu, vardı, gelen, etti, söyledi, olur</em>
+* `EMPTY` (20845): <em>olan, dedi, olduğunu, olduğu, oldu, vardı, gelen, etti, söyledi, olur</em>
 

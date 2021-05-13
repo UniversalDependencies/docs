@@ -27,7 +27,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 3	par	par	ADP	IN	_	4	case	_	_
 4	personne	personne	NOUN	NN	Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	7	punct	_	_
-6	le	le	DET	DT	Gender=Masc|Number=Sing	7	det	_	_
+6	le	le	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	maximum	maximum	NOUN	NN	Gender=Masc|Number=Sing	2	appos	_	_
 8	autorisé	autoriser	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	2	punct	_	_
@@ -41,13 +41,13 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 10 nummod	color:blue
-1	Les	le	DET	DT	Gender=Fem|Number=Plur	2	det	_	wordform=les
+1	Les	le	DET	DT	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	wordform=les
 2	sources	source	NOUN	NN	Gender=Fem|Number=Plur	5	nsubj	_	_
 3	consultées	consulté	ADJ	JJ	Gender=Fem|Number=Plur	2	amod	_	_
 4	ont	avoir	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
 5	indiqué	indiquer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6	que	que	SCONJ	IN	_	12	mark	_	_
-7	c’	ce	PRON	PDEM	_	12	nsubj	_	SpaceAfter=No|wordform=c'
+7	c’	ce	PRON	PDEM	PronType=Dem	12	nsubj	_	SpaceAfter=No|wordform=c'
 8	est	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 9	«	«	PUNCT	``	_	12	punct	_	_
 10	100	100	NUM	CD	_	11	nummod	_	SpaceAfter=No

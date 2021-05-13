@@ -40,7 +40,7 @@ The following 12 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 6 7 amod	color:blue
 1	แผนก	_	NOUN	NN	_	4	nsubj	_	SpaceAfter=No
 2	นี้	_	DET	DT	_	1	det	_	SpaceAfter=No
-3	กำลัง	_	PART	AS	Aspect=Prog	4	aux	_	SpaceAfter=No
+3	กำลัง	_	AUX	AS	Aspect=Prog	4	aux	_	SpaceAfter=No
 4	เผชิญ	_	VERB	VV	_	0	root	_	SpaceAfter=No
 5	กับ	_	ADP	IN	_	6	case	_	SpaceAfter=No
 6	ความท้าทาย	_	VERB	VV	_	4	obl	_	SpaceAfter=No
@@ -58,19 +58,19 @@ The following 12 pairs of parts of speech are connected with `amod`: <tt><a href
 1	สิ่ง	_	NOUN	NN	_	18	obj	_	SpaceAfter=No
 2	ที่	_	DET	WDT	_	5	obj	_	SpaceAfter=No
 3	เธอ	_	PRON	PRP	Person=3	5	nsubj	_	SpaceAfter=No
-4	กำลัง	_	PART	AS	Aspect=Prog	5	aux	_	SpaceAfter=No
+4	กำลัง	_	AUX	AS	Aspect=Prog	5	aux	_	SpaceAfter=No
 5	พูด	_	VERB	VV	_	1	acl:relcl	_	SpaceAfter=No
 6	และ	_	CCONJ	CC	_	7	cc	_	SpaceAfter=No
 7	สิ่ง	_	NOUN	NN	_	1	conj	_	SpaceAfter=No
 8	ที่	_	DET	WDT	_	11	obj	_	SpaceAfter=No
 9	เธอ	_	PRON	PRP	Person=3	11	nsubj	_	SpaceAfter=No
-10	กำลัง	_	PART	AS	Aspect=Prog	11	aux	_	SpaceAfter=No
+10	กำลัง	_	AUX	AS	Aspect=Prog	11	aux	_	SpaceAfter=No
 11	ทำ	_	VERB	VV	_	7	acl:relcl	_	_
 12	มัน	_	PRON	PRP	Person=3	16	reparandum	_	_
 13	—	_	PUNCT	-	_	12	punct	_	_
-14	ที่	_	PRON	PRP	_	18	advmod	_	SpaceAfter=No
+14	ที่	_	PRON	PRP	_	18	obl	_	SpaceAfter=No
 15	จริง	_	ADJ	JJ	_	14	amod	_	_
-16	มัน	_	PRON	PRP	Person=3	18	advmod	_	SpaceAfter=No
+16	มัน	_	PRON	PRP	Person=3	18	obl	_	SpaceAfter=No
 17	ไม่	_	PART	NEG	Polarity=Neg	18	advmod	_	SpaceAfter=No
 18	น่าเชื่อ	_	VERB	VV	_	0	root	_	SpaceAfter=No
 19	เลย	_	ADV	RB	_	18	advmod	_	_

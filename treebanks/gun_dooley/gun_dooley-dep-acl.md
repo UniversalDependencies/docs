@@ -24,14 +24,14 @@ The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 2 3 acl	color:blue
 1	_	_	NOUN	n	_	2	compound	_	_
 2	_	_	NOUN	n	_	6	obl	_	_
-3	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	2	acl	_	_
+3	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	2	acl	_	_
 4	_	_	SCONJ	rel	_	3	mark	_	_
 5	_	_	ADP	post	_	2	case	_	_
-6	_	_	VERB	inact	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	10	advcl	_	_
+6	_	_	VERB	inact	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	10	advcl	_	_
 7	_	_	SCONJ	rel	_	6	mark	_	_
 8	_	_	PART	discprt	_	6	dep:mod	_	_
 9	_	_	PART	illocprt	_	6	dep:mod	_	_
-10	_	_	VERB	inact	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	_
+10	_	_	VERB	inact	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	0	root	_	_
 11	_	_	PART	aspprt	_	10	dep:mod	_	_
 12	_	_	VERB	vs	Mood=Ind|Person=3|VerbForm=Ser	10	compound:svc	_	_
 13	_	_	PUNCT	punct	_	10	punct	_	_
@@ -65,15 +65,15 @@ The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 acl	color:blue
-1	_	_	VERB	n:pred	Mood=Ind|Subcat=Int|VerbForm=Vnoun	12	advcl	_	_
-2	_	_	VERB	inact	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	1	advcl	_	_
+1	_	_	VERB	n:pred	Mood=Ind|Subcat=Intr|VerbForm=Vnoun	12	advcl	_	_
+2	_	_	VERB	inact	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	1	advcl	_	_
 3	_	_	SCONJ	rel	_	2	mark	_	_
 4	_	_	PART	intprt	_	1	dep:mod	_	_
 5	_	_	SCONJ	subordconn	_	1	mark	_	_
 6	_	_	PART	illocprt	_	1	dep:mod	_	_
 7	_	_	PART	illocprt	_	1	dep:mod	_	_
 8	_	_	PRON	quant	PronType=Ind	12	obj	_	_
-9	_	_	VERB	inact	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	8	acl	_	_
+9	_	_	VERB	inact	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	8	acl	_	_
 10	_	_	SCONJ	rel	_	9	mark	_	_
 11	_	_	PART	focprt	_	8	dep:mod	_	_
 12	_	_	VERB	vt	Mood=Ind|Person[subj]=3|Subcat=Tran|VerbForm=Fin	0	root	_	_

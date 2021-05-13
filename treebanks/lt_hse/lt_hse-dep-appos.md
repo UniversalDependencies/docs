@@ -23,7 +23,7 @@ The following 15 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 5	fgColor:white
 # visual-style 5 7 appos	color:blue
 1	Apdovanojimą	apdovanojimas	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	En=award
-2	teikia	teikti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	En=provide
+2	teikia	teikti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	En=provide
 3	„	„	PUNCT	PUNCT	_	5	punct	_	En=„|SpaceAfter=No
 4	Sugiharos	sugihara	PROPN	NNP	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	En=Sugihara
 5	fondas	fondas	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	En=foundation
@@ -47,7 +47,7 @@ The following 15 pairs of parts of speech are connected with `appos`: <tt><a hre
 2	SSRS	SSRS	PROPN	NNP	_	3	nmod	_	En=SSRS
 3	okupacijos	okupacija	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	En=0
 4	laikais	laikas	NOUN	NN	Case=Ins|Gender=Masc|Number=Plur	5	obl	_	En=time
-5	veikė	veikti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	En=function
+5	veikė	veikti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	En=function
 6	milžiniška	milžiniškas	ADJ	JJL	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	En=big
 7	gamykla	gamykla	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	En=factory
 8	„	„	PUNCT	PUNCT	_	9	punct	_	En=„|SpaceAfter=No
@@ -67,15 +67,15 @@ The following 15 pairs of parts of speech are connected with `appos`: <tt><a hre
 1	Savarankiškas	savarankiškas	ADJ	JJL	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	En=independent|SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	4	punct	_	En=,
 3	nieko	niekas	PRON	DT	Case=Gen|Gender=Masc|Number=Sing	4	obl:agent	_	En=nothing
-4	neribojamas	riboti	VERB	VBNL	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|Polarity=Neg|Reflex=No|Tense=Pres|VerbForm=Part|Voice=Pass	1	conj	_	En=limit
+4	neribojamas	riboti	VERB	VBNL	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Pass	1	conj	_	En=limit
 5	valstybingumas	valstybingumas	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	En=statehood
-6	laikomas	laikyti	VERB	VBNL	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	_	En=regard
+6	laikomas	laikyti	VERB	VBNL	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	_	En=regard
 7	absoliučia	absoliutus	ADJ	JJL	Case=Ins|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	En=absolutely
 8	ir	ir	CCONJ	CC	_	9	cc	_	En=and
 9	pirmąja	pirmas	ADJ	ORD	Case=Ins|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	7	conj	_	En=first
 10	vertybe	vertybė	NOUN	NN	Case=Ins|Gender=Fem|Number=Sing	6	iobj	_	En=worthy|SpaceAfter=No
 11	,	,	PUNCT	PUNCT	_	12	punct	_	En=,
-12	nepalyginti	palyginti	VERB	VB	Polarity=Neg|Reflex=No|VerbForm=Inf|Voice=Act	13	advcl	_	En=compared
+12	nepalyginti	palyginti	VERB	VB	Polarity=Neg|VerbForm=Inf|Voice=Act	13	advcl	_	En=compared
 13	svarbesne	svarbus	ADJ	JJR	Case=Ins|Definite=Ind|Degree=Cmp|Gender=Fem|Number=Sing	10	appos	_	En=important
 14	už	už	ADP	UH	_	15	case	_	En=than
 15	demokratiją	demokratija	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	13	obl	_	En=democracy|SpaceAfter=No

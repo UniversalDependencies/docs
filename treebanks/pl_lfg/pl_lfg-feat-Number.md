@@ -297,7 +297,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="pl_lfg-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (5078; 89%),
 <tt>VERB --[<tt><a href="pl_lfg-dep-obl.html">obl</a></tt>]--> NOUN</tt> (4903; 56%),
 <tt>NOUN --[<tt><a href="pl_lfg-dep-det.html">det</a></tt>]--> DET</tt> (2564; 99%),
-<tt>VERB --[<tt><a href="pl_lfg-dep-aux-aglt.html">aux:aglt</a></tt>]--> AUX</tt> (1643; 100%),
+<tt>VERB --[<tt><a href="pl_lfg-dep-aux-clitic.html">aux:clitic</a></tt>]--> AUX</tt> (1643; 100%),
 <tt>VERB --[<tt><a href="pl_lfg-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (1363; 96%),
 <tt>VERB --[<tt><a href="pl_lfg-dep-conj.html">conj</a></tt>]--> VERB</tt> (1337; 81%),
 <tt>VERB --[<tt><a href="pl_lfg-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1300; 96%),

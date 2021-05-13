@@ -9,28 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fut`, `Past`.
 
-48 tokens (0%) have a non-empty value of `Tense`.
+49 tokens (0%) have a non-empty value of `Tense`.
 5 types (1%) occur at least once with a non-empty value of `Tense`.
-6 lemmas (1%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="bm_crb-pos-PART.html">PART</a></tt> (38; 0% instances), <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> (10; 0% instances).
-
-### `PART`
-
-38 <tt><a href="bm_crb-pos-PART.html">PART</a></tt> tokens (5% of all `PART` tokens) have a non-empty value of `Tense`.
-
-`PART` tokens may have the following values of `Tense`:
-
-* `Past` (38; 100% of non-empty `Tense`): <em>tun</em>
-* `EMPTY` (664): <em>ko, fana, de, dun, le, dè, sa, wa, bilen, yo</em>
+4 lemmas (0%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 1 part-of-speech tags: <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> (49; 0% instances).
 
 ### `AUX`
 
-10 <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Tense`.
+49 <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> tokens (3% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="bm_crb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="bm_crb-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="bm_crb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (9; 90%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="bm_crb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (49; 100%), <tt><a href="bm_crb-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (49; 100%), <tt><a href="bm_crb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (39; 80%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Fut` (10; 100% of non-empty `Tense`): <em>bèna, na, n', tèna</em>
-* `EMPTY` (1353): <em>ka, ye, bè, tè, ma, be, bɛ, diye, kana, mana</em>
+* `Fut` (10; 20% of non-empty `Tense`): <em>bèna, na, n', tèna</em>
+* `Past` (39; 80% of non-empty `Tense`): <em>tun</em>
+* `EMPTY` (1372): <em>ka, ye, bè, tè, ma, be, bɛ, diye, kana, mana</em>
 

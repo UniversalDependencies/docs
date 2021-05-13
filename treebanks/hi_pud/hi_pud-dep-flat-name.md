@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Hindi-PUD: Relations: `flat:name`
 
-This relation is a language-specific subtype of .
+This relation is a language-specific subtype of <tt><a href="hi_pud-dep-flat.html">flat</a></tt>.
 
 205 nodes (1%) are attached to their parents as `flat:name`.
 

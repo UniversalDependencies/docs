@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Elena Badmaeva, Francis Tyers.
 
 Repository: [UD_Buryat-BDT](https://github.com/UniversalDependencies/UD_Buryat-BDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbxr_bdt27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbxr_bdt28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -77,7 +77,7 @@ year = 2017
 
 ## Relations
 
-[acl](bxr_bdt-dep-acl.html) – [advcl](bxr_bdt-dep-advcl.html) – [advmod](bxr_bdt-dep-advmod.html) – [advmod:neg](bxr_bdt-dep-advmod-neg.html) – [amod](bxr_bdt-dep-amod.html) – [appos](bxr_bdt-dep-appos.html) – [aux](bxr_bdt-dep-aux.html) – [aux:pass](bxr_bdt-dep-aux-pass.html) – [case](bxr_bdt-dep-case.html) – [cc](bxr_bdt-dep-cc.html) – [ccomp](bxr_bdt-dep-ccomp.html) – [compound](bxr_bdt-dep-compound.html) – [conj](bxr_bdt-dep-conj.html) – [cop](bxr_bdt-dep-cop.html) – [csubj](bxr_bdt-dep-csubj.html) – [det](bxr_bdt-dep-det.html) – [discourse](bxr_bdt-dep-discourse.html) – [dislocated](bxr_bdt-dep-dislocated.html) – [fixed](bxr_bdt-dep-fixed.html) – [flat](bxr_bdt-dep-flat.html) – [flat:foreign](bxr_bdt-dep-flat-foreign.html) – [goeswith](bxr_bdt-dep-goeswith.html) – [iobj](bxr_bdt-dep-iobj.html) – [list](bxr_bdt-dep-list.html) – [mark](bxr_bdt-dep-mark.html) – [nmod](bxr_bdt-dep-nmod.html) – [nmod:own](bxr_bdt-dep-nmod-own.html) – [nsubj](bxr_bdt-dep-nsubj.html) – [nsubj:pass](bxr_bdt-dep-nsubj-pass.html) – [nummod](bxr_bdt-dep-nummod.html) – [obj](bxr_bdt-dep-obj.html) – [orphan](bxr_bdt-dep-orphan.html) – [parataxis](bxr_bdt-dep-parataxis.html) – [punct](bxr_bdt-dep-punct.html) – [root](bxr_bdt-dep-root.html) – [vocative](bxr_bdt-dep-vocative.html) – [xcomp](bxr_bdt-dep-xcomp.html)
+[acl](bxr_bdt-dep-acl.html) – [advcl](bxr_bdt-dep-advcl.html) – [advmod](bxr_bdt-dep-advmod.html) – [advmod:neg](bxr_bdt-dep-advmod-neg.html) – [amod](bxr_bdt-dep-amod.html) – [appos](bxr_bdt-dep-appos.html) – [aux](bxr_bdt-dep-aux.html) – [aux:pass](bxr_bdt-dep-aux-pass.html) – [case](bxr_bdt-dep-case.html) – [cc](bxr_bdt-dep-cc.html) – [ccomp](bxr_bdt-dep-ccomp.html) – [compound](bxr_bdt-dep-compound.html) – [conj](bxr_bdt-dep-conj.html) – [cop](bxr_bdt-dep-cop.html) – [csubj](bxr_bdt-dep-csubj.html) – [det](bxr_bdt-dep-det.html) – [discourse](bxr_bdt-dep-discourse.html) – [fixed](bxr_bdt-dep-fixed.html) – [flat](bxr_bdt-dep-flat.html) – [flat:foreign](bxr_bdt-dep-flat-foreign.html) – [iobj](bxr_bdt-dep-iobj.html) – [list](bxr_bdt-dep-list.html) – [mark](bxr_bdt-dep-mark.html) – [nmod](bxr_bdt-dep-nmod.html) – [nsubj](bxr_bdt-dep-nsubj.html) – [nsubj:pass](bxr_bdt-dep-nsubj-pass.html) – [nummod](bxr_bdt-dep-nummod.html) – [obj](bxr_bdt-dep-obj.html) – [obl](bxr_bdt-dep-obl.html) – [orphan](bxr_bdt-dep-orphan.html) – [parataxis](bxr_bdt-dep-parataxis.html) – [punct](bxr_bdt-dep-punct.html) – [root](bxr_bdt-dep-root.html) – [vocative](bxr_bdt-dep-vocative.html) – [xcomp](bxr_bdt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -95,7 +95,7 @@ year = 2017
 </ul>
 
 <ul>
-<li>This corpus contains 48 types of words that contain both letters and punctuation. Examples: Улаан-Үдэ, Улаан-Үдэдэ, 1-дэхи, СССР-эй, Усть-Ордын, Малые-Голы, Улаан-Үдын, Эхирэд-Булагадай, 3-дахи, 90-ээд, Саха-Яхадай, 0-һээ, 10-дахи, 2-дохи, 22-25-най, 24-һөө, 25-да, 27-до, 29-дэхи, 4-дэхи, 50-дахи, 6-дахи, 7-дохи, 70-аад, 8-дахи, 80-яад, 9-дэхи, Алан-гуагай, Алас-Дурна, Алташын-Адагай, В.Н.Иванов, Гран-при, Мухар-Шэбэрэй, СМИ-гэй, США-гай, Согто-Хангил, Усть-Ордада, бая-суулба, з​у​р​а​а​ш​а​-​н​а​й​р​у​у​л​а​г​ш​а​а​р, и​н​ж​е​н​е​р​–​б​и​о​т​е​х​н​о​л​о​г​о​й, лицей-интернадай, лицей-интернадта, лицей-интернадһаа, монгол-буряадуудай, тиимэш-иимэш, хазар-монголшууд, харалга-наадануудта, һайханай-графическа</li>
+<li>This corpus contains 48 types of words that contain both letters and punctuation. Examples: Улаан-Үдэ, Улаан-Үдэдэ, 1-дэхи, СССР-эй, Усть-Ордын, Малые-Голы, Улаан-Үдын, Эхирэд-Булагадай, 3-дахи, 90-ээд, Саха-Яхадай, 0-һээ, 10-дахи, 2-дохи, 22-25-най, 24-һөө, 25-да, 27-до, 29-дэхи, 4-дэхи, 50-дахи, 6-дахи, 7-дохи, 70-аад, 8-дахи, 80-яад, 9-дэхи, Алан-гуагай, Алас-Дурна, Алташын-Адагай, В.Н.Иванов, Гран-при, Мухар-Шэбэрэй, СМИ-гэй, США-гай, Согто-Хангил, Усть-Ордада, бая-суулба, зурааша-найруулагшаар, инженер–биотехнологой, лицей-интернадай, лицей-интернадта, лицей-интернадһаа, монгол-буряадуудай, тиимэш-иимэш, хазар-монголшууд, харалга-наадануудта, һайханай-графическа</li>
 </ul>
 
 <ul>
@@ -119,7 +119,7 @@ year = 2017
 </ul>
 
 <ul>
-<li>This corpus contains 20 lemmas tagged as determiners (DET): _, алишье, булта, бусад, бусадшье, бухы, бэшэн, даяар, зарим, нүгөө, тиихэ, тэрэ, хамаг, хуу, хэдэн, энэ, энээхэн, эрэ, ямар, ямаршье</li>
+<li>This corpus contains 26 lemmas tagged as determiners (DET): _, алишье, булта, бусад, бусадшье, бухы, бэшэн, бүхы, гэһэн, даяар, зарим, иимэ, нүгөө, олон, тиимэ, тиихэ, тэрэ, хамаг, хуу, хэды, хэдэн, энэ, энээхэн, эрэ, ямар, ямаршье</li>
 </ul>
 
 <ul>
@@ -127,11 +127,11 @@ year = 2017
 </ul>
 
 <ul>
-<li>This corpus contains 14 lemmas tagged as auxiliaries (AUX): _, аргагүйгөөр, баатай, бай, болго, бэлэй, гээшэ, хэрбэ, шада, юм, юмби, яда, һаа, һэм</li>
+<li>This corpus contains 22 lemmas tagged as auxiliaries (AUX): _, аргагүйгөөр, баатай, бай, болго, боло, болошо, бэлэй, гарга, гээшэ, тэмдэглэ, хэрбэ, шада, эхил, юм, юмби, яба, яда, үзэ, үнгэр, һаа, һэм</li>
 </ul>
 
 <ul>
-<li>Out of the above, 6 lemmas occurred sometimes as AUX and sometimes as VERB: _, бай, болго, бэлэй, гээшэ, шада</li>
+<li>Out of the above, 14 lemmas occurred sometimes as AUX and sometimes as VERB: _, бай, болго, боло, болошо, бэлэй, гарга, гээшэ, тэмдэглэ, шада, эхил, яба, үзэ, үнгэр</li>
 </ul>
 
 <ul>
@@ -141,15 +141,8 @@ year = 2017
 <ul>
   <li>Conv
   <ul>
-    <li>VERB: байбал, болобол, гэбэл, оруулбал, хэлэбэл, шиидхэбэл</li>
-  </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Coverb
-  <ul>
-    <li>VERB: гэжэ, боложо, хэжэ, ошожо, хүдэлжэ, заажа, һуража, абажа, дүүргэжэ, ерэжэ</li>
+    <li>AUX: байбал</li>
+    <li>VERB: болобол, гэбэл, байбал, оруулбал, хэлэбэл, шиидхэбэл</li>
   </ul>
   </li>
 </ul>
@@ -157,8 +150,8 @@ year = 2017
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: байна, байһан, байгааб, бай, байба, баатай, байнабди, байгааш, байнаб, байнабта</li>
-    <li>VERB: болоно, байна, бии, гээшэ, байһан, бэлэй, ерээ, ерээд, түрэһэн, ябаһан</li>
+    <li>AUX: байна, байһан, болоно, бай, байгааб, байба, баатай, байнабди, бэлэй, байгаагүйб</li>
+    <li>VERB: бии, гээшэ, байна, ерээ, ерээд, түрэһэн, ябаһан, байһан, болоно, бэлэй</li>
   </ul>
   </li>
 </ul>
@@ -166,8 +159,17 @@ year = 2017
 <ul>
   <li>Ger
   <ul>
-    <li>AUX: байхада, байхадаа, байхал, байхаһаа</li>
-    <li>VERB: гэхэдэ, дүүргээд, үзэе, дүүргээ, һананам, байхада, байхадаа, ерэхэб, ошоходоо, хэлэхэдэ</li>
+    <li>AUX: байхада, байхадаа, үзэе, байхал, байхаһаа</li>
+    <li>VERB: гэхэдэ, дүүргээд, дүүргээ, үзэе, һананам, байхада, ерэхэб, ошоходоо, хэлэхэдэ, абанги</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Inf
+  <ul>
+    <li>AUX: байжа, боложо</li>
+    <li>VERB: гэжэ, хэжэ, боложо, ошожо, хүдэлжэ, заажа, һуража, абажа, дүүргэжэ, ерэжэ</li>
   </ul>
   </li>
 </ul>
@@ -204,14 +206,14 @@ year = 2017
   <li>Plur
     <ul>
       <li>ADJ: һайнууд</li>
-      <li>AUX: байнабди, байнабта, байнат, юмбибди</li>
-      <li>AUX-Fin: байнабди, байнабта, байнат</li>
+      <li>AUX: байнабди, болоод, байгаад, байнабта, байнат, юмбибди</li>
+      <li>AUX-Fin: байнабди, байгаад, байнабта, байнат</li>
       <li>NOUN: хүнүүд, арадуудай, үхибүүд, моголнуудай, баледэй, буряадууд, үдэрнүүдтэ, амитад, багшанарай, буряадуудай</li>
       <li>PART: бэлэйбди, гээшэбибди, һэмди</li>
       <li>PRON: манай, бидэ, эдэ, Тэдэнэй, та, тэдэнэр, бидэнэй, маанарые, танай, Маанадта</li>
       <li>PROPN: Арсалановтан, Бодонгууд, Борголовтоной, Далбаевтан, Дармаевтанайнгаа, Лыгденовтэнэй, Могоолнуудай, Монголшуудай, Шенхоровтоной, Янхаевтан</li>
-      <li>VERB: болоод, ерээд, гараад, абаад, байгаад, байнабди, болонхойбди, ороод, танилсаабди, танилсаад</li>
-      <li>VERB-Fin: ерээд, байгаад, байнабди, ажаһуугаад, байнат, бодхоогоод, бүтээгээд, гэлдэнэбди, дурданабди, ерээбди</li>
+      <li>VERB: ерээд, гараад, абаад, болоод, байнабди, болонхойбди, ороод, танилсаабди, танилсаад, хараад</li>
+      <li>VERB-Fin: ерээд, байнабди, ажаһуугаад, байгаад, байнат, бодхоогоод, бүтээгээд, гэлдэнэбди, дурданабди, ерээбди</li>
     </ul>
   </li>
 </ul>
@@ -219,12 +221,12 @@ year = 2017
 <ul>
   <li>Sing
     <ul>
-      <li>AUX: байна, байһан, байгааб, гээшэб, бэлэй, шадаа, һэм, һэмби, байгааш, байнаб</li>
-      <li>AUX-Fin: байна, байһан, байгааб, байгааш, байнаб, байналши, шадана</li>
+      <li>AUX: байна, байһан, болоно, болоо, байгааб, гээшэб, бэлэй, шадаа, һэм, һэмби</li>
+      <li>AUX-Fin: байна, байһан, болоно, байгааб, байгаагүйб, байгааш, байнаб, байналши, болоогүй, болоһон</li>
       <li>PART: гү, гүш, хүм</li>
       <li>PRON: би, минии, намда, намайе, ши, шамтай, Бишье, Намааршье, Намтаяа, Шамда</li>
-      <li>VERB: болоно, байна, болоо, байһан, эхилээ, ябаа, ерээ, түрэһэн, ябаһан, болоһон</li>
-      <li>VERB-Fin: болоно, байна, байһан, ерээ, түрэһэн, ябаһан, болоһон, табигдаһан, ажаһууна, гараһан</li>
+      <li>VERB: эхилээ, байна, ерээ, ябаа, түрэһэн, ябаһан, байһан, болоно, болоо, табигдаһан</li>
+      <li>VERB-Fin: байна, ерээ, түрэһэн, ябаһан, байһан, болоно, табигдаһан, ажаһууна, болоһон, гараһан</li>
     </ul>
   </li>
 </ul>
@@ -276,7 +278,7 @@ year = 2017
       <li>NOUN: үедэ, ондо, нютагта, хотодо, һургуулида, туршада, хүндэ, сагта, жэлдэ, гэртээ</li>
       <li>PRON: намда, бүхэндэ, Маанадта, Шамда, Энээндэнь, бидэнтэеэ, бултадаа, маанарта, танда, тэдээндэ</li>
       <li>PROPN: Улаан-Үдэдэ, Зандинда, Абида, Баянгазада, Голливудта, Москвадашье, Париста, Суулгада, Теравада, Туркада</li>
-      <li>VERB-Ger: гэхэдэ, байхада, байхадаа, ошоходоо, хэлэхэдэ, ерэхэдэнь, ерэхэдээ, харахада, хүдэлхэдөө, эхилхэдэнь</li>
+      <li>VERB-Ger: гэхэдэ, байхада, ошоходоо, хэлэхэдэ, байхадаа, ерэхэдэнь, ерэхэдээ, харахада, хүдэлхэдөө, эхилхэдэнь</li>
     </ul>
   </li>
 </ul>
@@ -335,8 +337,8 @@ year = 2017
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: байгааб, байгааш</li>
-      <li>VERB-Fin: ерээ, ерээд, байгаад, байгааш, гүйгээб, хэлээгүй, ажаһуугаад, багтаагүй, байгааб, байгаагүйб</li>
+      <li>AUX-Fin: байгааб, байгаагүйб, байгаад, байгааш, болоогүй</li>
+      <li>VERB-Fin: ерээ, ерээд, байгааш, гүйгээб, хэлээгүй, ажаһуугаад, багтаагүй, байгаад, бодхоогоод, бүтээгээд</li>
     </ul>
   </li>
 </ul>
@@ -344,8 +346,8 @@ year = 2017
 <ul>
   <li>Perf
     <ul>
-      <li>AUX-Fin: байба</li>
-      <li>VERB-Fin: абаба, хэлэбэ, болобо, оробо, хүртэбэ, асарба, баалаба, байба, бая-суулба, гараба</li>
+      <li>AUX-Fin: байба, болобо</li>
+      <li>VERB-Fin: абаба, хэлэбэ, оробо, хүртэбэ, асарба, баалаба, бая-суулба, болобо, гараба, дэлгэбэ</li>
     </ul>
   </li>
 </ul>
@@ -366,7 +368,8 @@ year = 2017
 <ul>
   <li>Cnd
     <ul>
-      <li>VERB-Conv: байбал, болобол, гэбэл, оруулбал, хэлэбэл, шиидхэбэл</li>
+      <li>AUX-Conv: байбал</li>
+      <li>VERB-Conv: болобол, гэбэл, байбал, оруулбал, хэлэбэл, шиидхэбэл</li>
     </ul>
   </li>
 </ul>
@@ -374,8 +377,8 @@ year = 2017
 <ul>
   <li>Des
     <ul>
-      <li>AUX: шадаа, ядааб</li>
-      <li>VERB: болоо, эхилээ, ябаа, болоод, гараад, абаад, гараа, золгооб, хэлээ, үнгэрөө</li>
+      <li>AUX: болоо, шадаа, болоод, болошоо, гаргаа, эхилээ, ябаа, ядааб, үнгэрөө</li>
+      <li>VERB: эхилээ, ябаа, болоо, гараад, абаад, болоод, гараа, золгооб, хэлээ, табигдаа</li>
     </ul>
   </li>
 </ul>
@@ -383,8 +386,9 @@ year = 2017
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: бай, баатай</li>
-      <li>VERB-Fin: бии, гээшэ, бэлэй, бай, угаа, хэ, абарыт, байлсаатай, биил, гуйлаа</li>
+      <li>AUX-Fin: бай, баатай, бэлэй</li>
+      <li>VERB: бии, гээшэ, бэлэй, угаа, бай, хэ, ябаарай, абарыт, байлсаатай, биил</li>
+      <li>VERB-Fin: бии, гээшэ, бэлэй, угаа, бай, хэ, абарыт, байлсаатай, биил, гуйлаа</li>
     </ul>
   </li>
 </ul>
@@ -392,16 +396,8 @@ year = 2017
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: байна, байһан, байгааб, байба, байнабди, байгааш, байнаб, байнабта, байналши, байнат</li>
-      <li>VERB-Fin: болоно, байна, байһан, ерээ, ерээд, түрэһэн, ябаһан, болоһон, табигдаһан, ажаһууна</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Prsc
-    <ul>
-      <li>VERB: ябаарай</li>
+      <li>AUX-Fin: байна, байһан, болоно, байгааб, байба, байнабди, байгаагүйб, байгаад, байгааш, байнаб</li>
+      <li>VERB-Fin: байна, ерээ, ерээд, түрэһэн, ябаһан, байһан, болоно, табигдаһан, ажаһууна, болоһон</li>
     </ul>
   </li>
 </ul>
@@ -411,20 +407,20 @@ year = 2017
 </ul>
 
 <ul>
-  <li>Aor
+  <li>Past
     <ul>
-      <li>AUX-Fin: байна, байнабди, байнаб, байнабта, байналши, байнат, шадана</li>
-      <li>VERB-Fin: болоно, байна, ажаһууна, хөөрэнэ, түрүүлнэ, хүрэнэ, үгөө, байнабди, мэдэнэгүй, мэдэхэгүй</li>
+      <li>AUX-Fin: байһан, байгааб, байба, байгаагүйб, байгаад, байгааш, болобо, болоогүй, болоһон</li>
+      <li>VERB-Fin: ерээ, ерээд, түрэһэн, ябаһан, байһан, табигдаһан, болоһон, гараһан, ороһон, хүдэлһэн</li>
+      <li>VERB-Ger: абаһандаа, байһанаа, түрэһэнэй, хатарһанаа, хүдэлгэһэнөө</li>
     </ul>
   </li>
 </ul>
 
 <ul>
-  <li>Past
+  <li>Pres
     <ul>
-      <li>AUX-Fin: байһан, байгааб, байба, байгааш</li>
-      <li>VERB-Fin: байһан, ерээ, ерээд, түрэһэн, ябаһан, болоһон, табигдаһан, гараһан, ороһон, хүдэлһэн</li>
-      <li>VERB-Ger: абаһандаа, байһанаа, түрэһэнэй, хатарһанаа, хүдэлгэһэнөө</li>
+      <li>AUX-Fin: байна, болоно, байнабди, байнаб, байнабта, байналши, байнат, шадана, ябана</li>
+      <li>VERB-Fin: байна, болоно, ажаһууна, хөөрэнэ, түрүүлнэ, хүрэнэ, үгөө, байнабди, мэдэнэгүй, мэдэхэгүй</li>
     </ul>
   </li>
 </ul>
@@ -437,9 +433,9 @@ year = 2017
   <li>Cau
     <ul>
       <li>VERB: нэгэдүүлхэ, хандуулдаг, бадаруулһан, буулгуулдаг, дахуулаад, дурлуулһан, сайлуулжа, сухалдуулаа, татуулаа, ташуурдуулааб</li>
-      <li>VERB-Coverb: сайлуулжа</li>
       <li>VERB-Fin: хандуулдаг, бадаруулһан, буулгуулдаг, дурлуулһан, урдуулаагүй, уяруулна</li>
       <li>VERB-Ger: хабаадуулхада</li>
+      <li>VERB-Inf: сайлуулжа</li>
     </ul>
   </li>
 </ul>
@@ -475,7 +471,7 @@ year = 2017
 <ul>
   <li>Dem
     <ul>
-      <li>DET: энэ, тэрэ, эрэ, энэл, Энээхэн, тиихэ</li>
+      <li>DET: энэ, тэрэ, эрэ, иимэ, энэл, Энээхэн, тиимэ, тиихэ</li>
       <li>PRON: эдэ, тэрэ, тэрэнэй, энэшни, Тэдэнэй, энэ, тэдэнэр, бүгэдые, бүхэниие, тэрэшни</li>
     </ul>
   </li>
@@ -494,7 +490,7 @@ year = 2017
   <li>Int
     <ul>
       <li>ADV: юундэ, хэды, Юундэб, хэдышье, хэзээ, хэзээб, Хаанаһаа, ямараар</li>
-      <li>DET: ямар, алишье</li>
+      <li>DET: ямар, алишье, хэды</li>
       <li>PRON: юуб, юу, Хамагые, юун, юуншье</li>
     </ul>
   </li>
@@ -520,6 +516,14 @@ year = 2017
   </li>
 </ul>
 
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: гурба, зургаадахи</li>
+    </ul>
+  </li>
+</ul>
+
 
 <ul>
   <li><a>Reflex</a></li>
@@ -533,7 +537,7 @@ year = 2017
       <li>NOUN: гэртээ, наһанайнгаа, нютагаа, угаараа, хэлэеэ, арадайнгаа, нютагтаа, гэртэхинэйнгээ, нютагайнгаа, наһаараа</li>
       <li>PRON: өөрынгөө, өөрөө, өөрын, Өөһэнөө, өөрөөшье, өөһэдын, өөһэдөө, бултадаа, өөдөө, өөһэд</li>
       <li>PROPN: Түгнынгөө, Дармаевтанайнгаа, Полисоо, Цыпелмае, Цыренгармаевые, Шалановае, Шэбэртэеэ</li>
-      <li>VERB-Ger: байхадаа, ошоходоо, ерэхэдээ, хүдэлхэдөө, ябахадаа, Ошохоо, абаһандаа, айлшалхадаа, байһанаа, болоходоо</li>
+      <li>VERB-Ger: ошоходоо, байхадаа, ерэхэдээ, хүдэлхэдөө, ябахадаа, Ошохоо, абаһандаа, айлшалхадаа, байһанаа, болоходоо</li>
     </ul>
   </li>
 </ul>
@@ -545,12 +549,12 @@ year = 2017
 <ul>
   <li>1
     <ul>
-      <li>AUX: байгааб, гээшэб, байнабди, һэмби, байнаб, юмбибди, ядааб</li>
-      <li>AUX-Fin: байгааб, байнабди, байнаб</li>
+      <li>AUX: байгааб, гээшэб, байнабди, һэмби, байгаагүйб, байнаб, болонхойб, юмбибди, ядааб</li>
+      <li>AUX-Fin: байгааб, байнабди, байгаагүйб, байнаб</li>
       <li>PART: бэлэйбди, гээшэбибди, хүм, һэмди</li>
       <li>PRON: би, минии, манай, намда, намайе, бидэ, бидэнэй, маанарые, Бишье, Маанадта</li>
       <li>VERB: золгооб, арсалааб, байнабди, болонхойбди, гүйгээб, оройгдооб, оролдодогби, танилсаабди, хэлээб, үгөөб</li>
-      <li>VERB-Fin: байнабди, гүйгээб, оролдодогби, үгөөб, һананаб, абадагби, ажаһуунаб, амардагби, багшалнаб, байгааб</li>
+      <li>VERB-Fin: байнабди, гүйгээб, оролдодогби, үгөөб, һананаб, абадагби, ажаһуунаб, амардагби, багшалнаб, байнаб</li>
     </ul>
   </li>
 </ul>
@@ -570,11 +574,11 @@ year = 2017
 <ul>
   <li>3
     <ul>
-      <li>AUX: байна, байһан, бэлэй, шадаа, һэм, шадана</li>
-      <li>AUX-Fin: байна, байһан, шадана</li>
+      <li>AUX: байна, байһан, болоно, болоо, бэлэй, шадаа, һэм, болоод, байгаад, болоогүй</li>
+      <li>AUX-Fin: байна, байһан, болоно, байгаад, болоогүй, болоһон, шадана, ябана</li>
       <li>PART: гү</li>
-      <li>VERB: болоно, байна, болоо, байһан, эхилээ, ябаа, ерээ, болоод, ерээд, түрэһэн</li>
-      <li>VERB-Fin: болоно, байна, байһан, ерээ, ерээд, түрэһэн, ябаһан, болоһон, табигдаһан, ажаһууна</li>
+      <li>VERB: эхилээ, байна, ерээ, ябаа, ерээд, түрэһэн, ябаһан, байһан, болоно, болоо</li>
+      <li>VERB-Fin: байна, ерээ, ерээд, түрэһэн, ябаһан, байһан, болоно, табигдаһан, ажаһууна, болоһон</li>
     </ul>
   </li>
 </ul>
@@ -621,11 +625,11 @@ year = 2017
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 7 lemmas as copulas (<a>cop</a>). Examples: бай, боло, бэлэй, болошо, буряад, яба, үнгэр.</li>
+<li>This corpus uses 6 lemmas as copulas (<a>cop</a>). Examples: бай, боло, бэлэй, болошо, яба, үнгэр.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 27 lemmas as auxiliaries (<a>aux</a>). Examples: бай, боло, хэрэг, шада, аргатай, бэлэй, еһотой, ёһотой, баатай, шадалтай, _, алтай, аргагүйгөөр, болго, болошо, гарга, гээшэ, тааруу, тэмдэглэ, шухала, эхил, яба, яда, ядаха, үзэ, үрдеэ, үүргэ.</li>
+<li>This corpus uses 29 lemmas as auxiliaries (<a>aux</a>). Examples: бай, боло, хэрэг, шада, аргатай, бэлэй, еһотой, ёһотой, баатай, шадалтай, һаа, _, алтай, аргагүйгөөр, болго, болошо, гарга, гээшэ, тааруу, тэмдэглэ, хэрбэ, шухала, эхил, яба, яда, ядаха, үзэ, үрдеэ, үүргэ.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: бай.</li>
 </ul>
 
@@ -640,23 +644,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Com (1)</li>
       <li>VERB--NOUN-Dat (2)</li>
       <li>VERB--NOUN-Gen (8)</li>
-      <li>VERB--NOUN-Nom (157)</li>
+      <li>VERB--NOUN-Nom (160)</li>
       <li>VERB--PRON (2)</li>
       <li>VERB--PRON-Nom (40)</li>
       <li>VERB-Conv--NOUN-Nom (3)</li>
-      <li>VERB-Coverb--NOUN (1)</li>
-      <li>VERB-Coverb--NOUN-Gen (1)</li>
-      <li>VERB-Coverb--NOUN-Nom (31)</li>
-      <li>VERB-Coverb--NOUN-Nom-ADP(юһэн) (1)</li>
-      <li>VERB-Coverb--PRON (1)</li>
-      <li>VERB-Coverb--PRON-Nom (5)</li>
-      <li>VERB-Fin--NOUN (2)</li>
+      <li>VERB-Fin--NOUN (1)</li>
       <li>VERB-Fin--NOUN-Abl (1)</li>
       <li>VERB-Fin--NOUN-Acc (3)</li>
       <li>VERB-Fin--NOUN-Com (1)</li>
       <li>VERB-Fin--NOUN-Dat (1)</li>
       <li>VERB-Fin--NOUN-Gen (6)</li>
-      <li>VERB-Fin--NOUN-Nom (130)</li>
+      <li>VERB-Fin--NOUN-Nom (131)</li>
       <li>VERB-Fin--PRON (3)</li>
       <li>VERB-Fin--PRON-Nom (16)</li>
       <li>VERB-Ger--NOUN-Dat (1)</li>
@@ -666,6 +664,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--PRON-Acc (1)</li>
       <li>VERB-Ger--PRON-Gen (2)</li>
       <li>VERB-Ger--PRON-Nom (18)</li>
+      <li>VERB-Inf--NOUN (1)</li>
+      <li>VERB-Inf--NOUN-Gen (1)</li>
+      <li>VERB-Inf--NOUN-Nom (32)</li>
+      <li>VERB-Inf--PRON (1)</li>
+      <li>VERB-Inf--PRON-Nom (5)</li>
     </ul>
   </li>
 </ul>
@@ -686,14 +689,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Gen (7)</li>
       <li>VERB--PRON-Nom (1)</li>
       <li>VERB-Conv--NOUN-Acc (1)</li>
-      <li>VERB-Coverb--NOUN-Acc (17)</li>
-      <li>VERB-Coverb--NOUN-Com (1)</li>
-      <li>VERB-Coverb--NOUN-Dat (6)</li>
-      <li>VERB-Coverb--NOUN-Gen (2)</li>
-      <li>VERB-Coverb--NOUN-Nom (41)</li>
-      <li>VERB-Coverb--NOUN-Nom-ADP(сонь) (1)</li>
-      <li>VERB-Coverb--PRON-Acc (4)</li>
-      <li>VERB-Coverb--PRON-Nom (1)</li>
       <li>VERB-Fin--NOUN (3)</li>
       <li>VERB-Fin--NOUN-Abl (2)</li>
       <li>VERB-Fin--NOUN-Acc (17)</li>
@@ -713,6 +708,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--NOUN-Nom (28)</li>
       <li>VERB-Ger--PRON (1)</li>
       <li>VERB-Ger--PRON-Acc (1)</li>
+      <li>VERB-Inf--NOUN-Acc (17)</li>
+      <li>VERB-Inf--NOUN-Com (1)</li>
+      <li>VERB-Inf--NOUN-Dat (6)</li>
+      <li>VERB-Inf--NOUN-Gen (2)</li>
+      <li>VERB-Inf--NOUN-Nom (41)</li>
+      <li>VERB-Inf--NOUN-Nom-ADP(сонь) (1)</li>
+      <li>VERB-Inf--PRON-Acc (4)</li>
+      <li>VERB-Inf--PRON-Nom (1)</li>
     </ul>
   </li>
 </ul>
@@ -726,15 +729,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Gen (1)</li>
       <li>VERB--NOUN-Nom (1)</li>
       <li>VERB--PRON-Dat (3)</li>
-      <li>VERB-Coverb--NOUN (2)</li>
-      <li>VERB-Coverb--NOUN-Dat (2)</li>
-      <li>VERB-Coverb--PRON-Dat (1)</li>
       <li>VERB-Fin--NOUN (4)</li>
       <li>VERB-Fin--NOUN-Abl (1)</li>
       <li>VERB-Fin--NOUN-Acc (2)</li>
       <li>VERB-Fin--NOUN-Dat (5)</li>
       <li>VERB-Fin--NOUN-Nom (1)</li>
       <li>VERB-Ger--PRON (1)</li>
+      <li>VERB-Inf--NOUN (2)</li>
+      <li>VERB-Inf--NOUN-Dat (2)</li>
+      <li>VERB-Inf--PRON-Dat (1)</li>
     </ul>
   </li>
 </ul>
@@ -744,7 +747,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 74 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: марта хэлэеэ, ханда анхаралаа, шудал хэлэеэ, яба өөһэнөө, һэргээ нютагаа, аба ажалаа, алда мүрөө, алда хэлэеэ, асар дүүгээ, баала үбгэеэ, баясуул харагшадаа, болошо залуушуулые, буса зоноо, буулга киногоо, бэелүүл хүсэлөө, бүтээ хэрэгээ, гунхуул толгойгоо, гүйсэдхэ хатараа, г​ү​н​з​э​г​ы​р​ү​ү​л​ ​б​э​л​и​г​э​э​ ​ш​ү​л​э​г​ү​ү​д​э​э​р​э​э, дабта үгые, даха хүбүүгээ, дуратай далайдаа, дурда нютагаа, дэлгэнхэй эдеэгээ, дүүргэ училищияа, ерэ гэртээ, заһуул үһэеэ, зорюулха дүрэеэ, мэдэ хэлэеэ, ойлгуул харагшадтаа, сахи дүримые, сухалда эжые, таби анхаралаашье, таша альгаа, т​а​һ​а​л​х​а​ ​г​э​р​т​э​х​и​н​э​й​н​г​э​э, туһал эжыдээ, тэжээ малаа, түрэ хүбүүгээ, түрүүл зондоо, угта баярые, халира гэртээ, хамгаал эрхые, хамтадха талаангаа, харуул уншагшадтаа, харуул шадалаа, хубилга бодолые, худалда газараа, хужарла харагшадаа, хэ ажалаа, хэлсэ эсэгэеэ</li>
+  <li>This corpus contains 74 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: марта хэлэеэ, ханда анхаралаа, шудал хэлэеэ, яба өөһэнөө, һэргээ нютагаа, аба ажалаа, алда мүрөө, алда хэлэеэ, асар дүүгээ, баала үбгэеэ, баясуул харагшадаа, болошо залуушуулые, буса зоноо, буулга киногоо, бэелүүл хүсэлөө, бүтээ хэрэгээ, гунхуул толгойгоо, гүйсэдхэ хатараа, гүнзэгырүүл бэлигээ шүлэгүүдээрээ, дабта үгые, даха хүбүүгээ, дуратай далайдаа, дурда нютагаа, дэлгэнхэй эдеэгээ, дүүргэ училищияа, ерэ гэртээ, заһуул үһэеэ, зорюулха дүрэеэ, мэдэ хэлэеэ, ойлгуул харагшадтаа, сахи дүримые, сухалда эжые, таби анхаралаашье, таша альгаа, таһалха гэртэхинэйнгээ, туһал эжыдээ, тэжээ малаа, түрэ хүбүүгээ, түрүүл зондоо, угта баярые, халира гэртээ, хамгаал эрхые, хамтадха талаангаа, харуул уншагшадтаа, харуул шадалаа, хубилга бодолые, худалда газараа, хужарла харагшадаа, хэ ажалаа, хэлсэ эсэгэеэ</li>
     <ul>
       <li>Out of those, 1 lemmas occurred more than once, but never without a reflexive dependent. Examples: һонирхуул</li>
     </ul>
@@ -753,6 +756,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 5 relation subtypes: <a>advmod:neg</a>, <a>aux:pass</a>, <a>flat:foreign</a>, <a>nmod:own</a>, <a>nsubj:pass</a></li>
-<li>The following 5 relation types are not used in this corpus at all: <a>obl</a>, <a>expl</a>, <a>clf</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>This corpus uses 4 relation subtypes: <a>advmod:neg</a>, <a>aux:pass</a>, <a>flat:foreign</a>, <a>nsubj:pass</a></li>
+<li>The following 6 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

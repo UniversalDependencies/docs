@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Chinese-PUD: Relations: `mark:adv`
 
 This relation is a language-specific subtype of <tt><a href="zh_pud-dep-mark.html">mark</a></tt>.
-There are also 2 other language-specific subtypes of `mark`: <tt><a href="zh_pud-dep-mark-prt.html">mark:prt</a></tt>, <tt><a href="zh_pud-dep-mark-relcl.html">mark:relcl</a></tt>.
+There are also 2 other language-specific subtypes of `mark`: <tt><a href="zh_pud-dep-mark-prt.html">mark:prt</a></tt>, <tt><a href="zh_pud-dep-mark-rel.html">mark:rel</a></tt>.
 
 22 nodes (0%) are attached to their parents as `mark:adv`.
 

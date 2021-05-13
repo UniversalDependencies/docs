@@ -23,7 +23,7 @@ The following 13 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 8	fgColor:white
 # visual-style 8 3 obl	color:blue
 1	ki-ma	kīma	ADP	_	_	3	case	_	_
-2	ša	ša	DET	_	_	3	case	_	_
+2	ša	ša	ADP	_	_	3	case	_	_
 3	u₄-um	ūmu	NOUN	_	_	8	obl	_	_
 4	ul-lu-tim	ullû	ADJ	_	_	3	amod	_	_
 5	re-ši	rēšu	NOUN	_	_	8	obj	_	_

@@ -50,11 +50,12 @@ The following 81 pairs of parts of speech are connected with `dep`: <tt><a href=
 4	“	“	PUNCT	Z	_	5	punct	5:punct	_
 5	skríkla	skríknuť	VERB	VLdsaf+	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	0:root	_
 6	som	byť	AUX	VKesa+	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
-7	a	a	CCONJ	O	_	10	cc	10:cc	_
-8	vyjavene	vyjavene	ADV	Dx	Degree=Pos	10	advmod	10:advmod	_
-9	naňho	na_on	PRON	PFms4g	AdpType=Preppron|Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	10	obj	10:obj	_
-10	pozrela	pozrieť	VERB	VLdsaf+	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	5	conj	0:root|5:conj	SpaceAfter=No
-11	.	.	PUNCT	Z	_	5	punct	5:punct	_
+7	a	a	CCONJ	O	_	11	cc	11:cc	_
+8	vyjavene	vyjavene	ADV	Dx	Degree=Pos	11	advmod	11:advmod	_
+9	na	na	ADP	Eu4	AdpType=Prep|Case=Acc	10	case	10:case	_
+10	neho	on	PRON	PFms4	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	11	obj	11:obj	_
+11	pozrela	pozrieť	VERB	VLdsaf+	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	5	conj	0:root|5:conj	SpaceAfter=No
+12	.	.	PUNCT	Z	_	5	punct	5:punct	_
 
 ~~~
 

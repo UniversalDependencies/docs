@@ -22,7 +22,7 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 5 xcomp	color:blue
-1	ئېتىشلارغا	_	NOUN	N	_	13	advmod	_	Translit=ëtishlargha|Morf=Unknown
+1	ئېتىشلارغا	_	NOUN	N	_	13	obl	_	Translit=ëtishlargha|Morf=Unknown
 2	قارىغاندا	_	ADP	R	_	1	fixed	_	SpaceAfter=No|Translit=qarighanda|Morf=Missing,6
 3	،	،	PUNCT	Y	_	1	punct	_	Translit=,
 4	«	«	PUNCT	Y	_	1	punct	_	SpaceAfter=No|Translit=«
@@ -47,7 +47,7 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 16	fgColor:white
 # visual-style 16 17 xcomp	color:blue
 1	ئۇ	ئۇ	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	Translit=u
-2	چۈشتىن	_	NOUN	N	_	3	nmod:abl	_	Translit=chüshtin|Morf=Unknown
+2	چۈشتىن	_	NOUN	N	Case=Abl	3	nmod	_	Translit=chüshtin|Morf=Unknown
 3	بۇرۇن	بۇرۇن	NOUN	D	Case=Nom	5	advmod	_	Translit=burun
 4	سائەت	سائەت	NOUN	N	Case=Nom	5	amod	_	Translit=saet
 5	ئوندا	ئون	NUM	V	Case=Loc|NumType=Ord	16	obl	_	SpaceAfter=No|Translit=onda

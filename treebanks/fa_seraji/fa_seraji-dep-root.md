@@ -44,7 +44,7 @@ The following 8 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
 1	لندن	لندن	NOUN	N_SING	Number=Sing	0	root	_	_
-2	-	-	PUNCT	DELM	_	1	punct	_	_
+2	-	-	PUNCT	DELM	_	3	punct	_	_
 3	ایرنا	ایرنا	NOUN	N_SING	Number=Sing	1	parataxis	_	SpaceAfter=No
 4	:	:	PUNCT	DELM	_	1	punct	_	_
 

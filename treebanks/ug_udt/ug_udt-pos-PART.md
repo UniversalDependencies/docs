@@ -59,9 +59,9 @@ The 1st highest number of forms (22) was observed with the lemma “_”: ئىش
 
 The 2nd highest number of forms (2) was observed with the lemma “ئوخشى”: ئوخشىمامدۇ, ئوخشىمامسەن.
 
-`PART` occurs with 6 features: <tt><a href="ug_udt-feat-Mood.html">Mood</a></tt> (2; 2% instances), <tt><a href="ug_udt-feat-Number.html">Number</a></tt> (2; 2% instances), <tt><a href="ug_udt-feat-Person.html">Person</a></tt> (2; 2% instances), <tt><a href="ug_udt-feat-Polarity.html">Polarity</a></tt> (2; 2% instances), <tt><a href="ug_udt-feat-Tense.html">Tense</a></tt> (2; 2% instances), <tt><a href="ug_udt-feat-VerbForm.html">VerbForm</a></tt> (2; 2% instances)
+`PART` occurs with 7 features: <tt><a href="ug_udt-feat-Aspect.html">Aspect</a></tt> (2; 2% instances), <tt><a href="ug_udt-feat-Mood.html">Mood</a></tt> (2; 2% instances), <tt><a href="ug_udt-feat-Number.html">Number</a></tt> (2; 2% instances), <tt><a href="ug_udt-feat-Person.html">Person</a></tt> (2; 2% instances), <tt><a href="ug_udt-feat-Polarity.html">Polarity</a></tt> (2; 2% instances), <tt><a href="ug_udt-feat-Tense.html">Tense</a></tt> (2; 2% instances), <tt><a href="ug_udt-feat-VerbForm.html">VerbForm</a></tt> (2; 2% instances)
 
-`PART` occurs with 7 feature-value pairs: `Mood=Ind`, `Number=Sing`, `Person=2`, `Person=3`, `Polarity=Neg`, `Tense=Aor`, `VerbForm=Fin`
+`PART` occurs with 8 feature-value pairs: `Aspect=Hab`, `Mood=Ind`, `Number=Sing`, `Person=2`, `Person=3`, `Polarity=Neg`, `Tense=Pres`, `VerbForm=Fin`
 
 `PART` occurs with 3 feature combinations.
 The most frequent feature combination is `_` (119 tokens).

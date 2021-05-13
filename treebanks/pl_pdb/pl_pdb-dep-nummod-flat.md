@@ -31,7 +31,7 @@ The following 2 pairs of parts of speech are connected with `nummod:flat`: <tt><
 6	zagości	zagościć	VERB	fin:sg:ter:perf	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	0:root	_
 7	zespół	zespół	NOUN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	6:nsubj	_
 8	Dwa	dwa	NUM	num:pl:nom:m2:congr	Animacy=Nhum|Case=Nom|Gender=Masc|Number=Plur|NumForm=Word	9	nummod:flat	9:nummod:flat	_
-9	Kamraty	kamrat	NOUN	depr:pl:nom:m2	Animacy=Nhum|Case=Nom|Gender=Masc|NounForm=Depr|Number=Plur	7	appos	7:appos	SpaceAfter=No
+9	Kamraty	kamrat	NOUN	depr:pl:nom:m2	Animacy=Nhum|Case=Nom|Gender=Masc|Number=Plur|Polite=Depr	7	appos	7:appos	SpaceAfter=No
 10	,	,	PUNCT	interp	PunctType=Comm	11	punct	11:punct	_
 11	znany	znany	ADJ	adj:sg:nom:m3:pos	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	7:amod	_
 12	ze	z	ADP	prep:gen:wok	AdpType=Prep|Variant=Long	14	case	14:case	Case=Gen
@@ -63,7 +63,7 @@ The following 2 pairs of parts of speech are connected with `nummod:flat`: <tt><
 12	nową	nowy	ADJ	adj:sg:inst:f:pos	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	13	amod	13:amod	_
 13	winietą	winieta	NOUN	subst:sg:inst:f	Case=Ins|Gender=Fem|Number=Sing	20	obl	20:obl	_
 14	Dwa	dwa	NUM	num:pl:nom:m2:congr	Animacy=Nhum|Case=Nom|Gender=Masc|Number=Plur|NumForm=Word	15	nummod:flat	15:nummod:flat	_
-15	Jerze	Jerzy	PROPN	depr:pl:nom:m2	Animacy=Nhum|Case=Nom|Gender=Masc|NounForm=Depr|Number=Plur	13	nmod	13:nmod	SpaceAfter=No
+15	Jerze	Jerzy	PROPN	depr:pl:nom:m2	Animacy=Nhum|Case=Nom|Gender=Masc|Number=Plur|Polite=Depr	13	nmod	13:nmod	SpaceAfter=No
 16	.	.	PUNCT	interp	PunctType=Peri	15	punct	15:punct	SpaceAfter=No
 17	.	.	PUNCT	interp	PunctType=Peri	16	punct	16:punct	SpaceAfter=No
 18	.	.	PUNCT	interp	PunctType=Peri	17	punct	17:punct	SpaceAfter=No

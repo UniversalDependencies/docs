@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `obj`: <tt><a href="apu_ufpa-dep-obj-agent.html">obj:agent</a></tt>.
 
-63 nodes (11%) are attached to their parents as `obj`.
+68 nodes (11%) are attached to their parents as `obj`.
 
-53 instances of `obj` (84%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.26984126984127.
+58 instances of `obj` (85%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.29411764705882.
 
-The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (57; 90% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (4; 6% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (2; 3% instances).
+The following 4 pairs of parts of speech are connected with `obj`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (60; 88% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (4; 6% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (3; 4% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 3 2 obj	color:blue
 1	Pupỹkary	pupỹkary	NOUN	N	Case=Nom|Gender=Masc	4	nsubj	_	gloss_pt=apurinã
 2	ithupa	ithupa	NOUN	N	Case=Nom|Gender=Masc	3	obj	_	gloss_pt=mata
-3	sikasaaky	sika	VERB	_	AdvType=Tim|VerbType=Conv	4	advcl:tmod	_	gloss_pt=dar-TEMP
+3	sikasaaky	sika	VERB	_	Case=Tem|VerbForm=Conv	4	advcl:tcl	_	gloss_pt=dar-TEMP
 4	atamatary	atama	VERB	_	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	0	root	_	gloss_pt=ver-VBLZ-3SG.M.O
 5	erẽkatxi	herẽkatxi	NOUN	N	Case=Nom|Gender=Masc|Possessed=No	4	obj	_	gloss_pt=sangue.de-N.POSSD|SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	_
@@ -59,7 +59,7 @@ The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="
 1	Ywa	ywa	PRON	Pron	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	gloss[pt]=3SG.M
 2	awary	awa	VERB	V	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	0	root	_	gloss[pt]=ter-3SG.M.O
 3	ykynypuku	ykyny	PRON	XPOS=todo-DISTR	_	2	obj	_	gloss[pt]=todo-DISTR
-4	aapukutxiã	awapukutxi	NOUN	N	Case=Loc|Gender=Masc|Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3	2	obl:lmod	_	gloss[pt]=3SG.M-casa.de-N.POSSD-LOC|SpaceAfter=No
+4	aapukutxiã	awapukutxi	NOUN	N	Case=Loc|Gender=Masc|Gender[psor]=Masc|Number[psor]=Sing|Person[psor]=3|Possessed=No	2	obl:lmod	_	gloss[pt]=3SG.M-casa.de-N.POSSD-LOC|SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~

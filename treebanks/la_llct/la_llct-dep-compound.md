@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 8 10 compound	color:blue
 1	tunc	tunc	ADV	d|d|-|-|-|-|-|-|-|-	_	14	advmod	_	_
 2	predicte	praedictus	DET	a|a|-|p|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	3	nmod	_	_
-3	testimonia	testimonium	NOUN	n|n|-|p|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Plur	13	dislocated:nmod	_	_
+3	testimonia	testimonium	NOUN	n|n|-|p|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Plur	13	dislocated:obj	_	_
 4	separatim	separatim	ADV	d|d|-|-|-|-|-|-|-|-	_	13	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	Punc	_	4	punct	_	_
 6	diligenter	diligenter	ADV	d|d|-|-|-|-|-|-|-|-	_	13	advmod	_	SpaceAfter=No

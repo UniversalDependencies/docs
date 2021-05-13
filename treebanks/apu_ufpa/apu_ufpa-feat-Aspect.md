@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 1 different values: `Prog`.
 
 1 tokens (0%) have a non-empty value of `Aspect`.
-1 types (1%) occur at least once with a non-empty value of `Aspect`.
+1 types (0%) occur at least once with a non-empty value of `Aspect`.
 1 lemmas (1%) occur at least once with a non-empty value of `Aspect`.
 The feature is used with 1 part-of-speech tags: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
@@ -23,5 +23,5 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 `VERB` tokens may have the following values of `Aspect`:
 
 * `Prog` (1; 100% of non-empty `Aspect`): <em>nhikanãtary</em>
-* `EMPTY` (133): <em>awary, awa, amutary, kaiãapuku, sary, apukary, awama, kaiãapukury, sããputa, 'awary</em>
+* `EMPTY` (147): <em>awa, awary, amutary, kaiãapuku, sary, apukary, awama, kaiãapukury, sããputa, 'awary</em>
 

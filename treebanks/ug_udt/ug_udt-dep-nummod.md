@@ -31,7 +31,7 @@ The following 20 pairs of parts of speech are connected with `nummod`: <tt><a hr
 7	بىر	بىر	NUM	M	_	8	nummod	_	Translit=bir
 8	سىقىم	سىقىم	NOUN	Q	Case=Nom	9	amod	_	Translit=siqim
 9	لايدەك	_	NOUN	N	_	10	obl	_	Translit=laydek|Morf=Unknown
-10	چاپلىشىمەن	چاپلاش	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=chaplishimen
+10	چاپلىشىمەن	چاپلاش	VERB	V	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=chaplishimen
 11	.	.	PUNCT	Y	_	10	punct	_	Translit=.
 
 ~~~

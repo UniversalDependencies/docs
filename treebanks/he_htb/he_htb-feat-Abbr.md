@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (596; 100% of non-empty `Abbr`): ש"ח, יו"ר, מנכ"ל, ח"כ, ד"ר, חו"ל, עו"ד, מ"ר, מד"א, מו"ם
-* `EMPTY` (37653): בית, יום, משרד, משטרה, %, ארץ, שר, משפט, ממשלה, חברה
+* `EMPTY` (37650): בית, יום, משרד, משטרה, %, ארץ, שר, משפט, ממשלה, חברה
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (53) occur only with one value of `Abbr`.
 
@@ -72,8 +72,6 @@ The most frequent other feature values with which `NUM` and `Abbr` co-occurred: 
 ### `X`
 
 2 <tt><a href="he_htb-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Abbr`.
-
-The most frequent other feature values with which `X` and `Abbr` co-occurred: <tt><a href="he_htb-feat-Xtra.html">Xtra</a></tt><tt>=Junk</tt> (2; 100%).
 
 `X` tokens may have the following values of `Abbr`:
 

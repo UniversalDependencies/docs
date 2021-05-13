@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Alina Wróblewska, Daniel Zeman, Jan Mašek, Rudolf Rosa.
 
 Repository: [UD_Polish-PDB](https://github.com/UniversalDependencies/UD_Polish-PDB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl_pdb27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl_pdb28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -67,7 +67,7 @@ We would like to thank all of the contributors of the original Polish Dependency
 
 ## Features
 
-[Abbr](pl_pdb-feat-Abbr.html) – [AdpType](pl_pdb-feat-AdpType.html) – [Animacy](pl_pdb-feat-Animacy.html) – [Aspect](pl_pdb-feat-Aspect.html) – [Case](pl_pdb-feat-Case.html) – [Clitic](pl_pdb-feat-Clitic.html) – [ConjType](pl_pdb-feat-ConjType.html) – [Degree](pl_pdb-feat-Degree.html) – [Emphatic](pl_pdb-feat-Emphatic.html) – [Foreign](pl_pdb-feat-Foreign.html) – [Gender](pl_pdb-feat-Gender.html) – [Hyph](pl_pdb-feat-Hyph.html) – [Mood](pl_pdb-feat-Mood.html) – [NounForm](pl_pdb-feat-NounForm.html) – [Number](pl_pdb-feat-Number.html) – [Number[psor]](pl_pdb-feat-Number-psor.html) – [NumForm](pl_pdb-feat-NumForm.html) – [NumType](pl_pdb-feat-NumType.html) – [PartType](pl_pdb-feat-PartType.html) – [Person](pl_pdb-feat-Person.html) – [Polarity](pl_pdb-feat-Polarity.html) – [Poss](pl_pdb-feat-Poss.html) – [PrepCase](pl_pdb-feat-PrepCase.html) – [PronType](pl_pdb-feat-PronType.html) – [Pun](pl_pdb-feat-Pun.html) – [PunctSide](pl_pdb-feat-PunctSide.html) – [PunctType](pl_pdb-feat-PunctType.html) – [Reflex](pl_pdb-feat-Reflex.html) – [Tense](pl_pdb-feat-Tense.html) – [Variant](pl_pdb-feat-Variant.html) – [VerbForm](pl_pdb-feat-VerbForm.html) – [VerbType](pl_pdb-feat-VerbType.html) – [Voice](pl_pdb-feat-Voice.html)
+[Abbr](pl_pdb-feat-Abbr.html) – [AdpType](pl_pdb-feat-AdpType.html) – [Animacy](pl_pdb-feat-Animacy.html) – [Aspect](pl_pdb-feat-Aspect.html) – [Case](pl_pdb-feat-Case.html) – [Clitic](pl_pdb-feat-Clitic.html) – [ConjType](pl_pdb-feat-ConjType.html) – [Degree](pl_pdb-feat-Degree.html) – [Emphatic](pl_pdb-feat-Emphatic.html) – [Foreign](pl_pdb-feat-Foreign.html) – [Gender](pl_pdb-feat-Gender.html) – [Hyph](pl_pdb-feat-Hyph.html) – [Mood](pl_pdb-feat-Mood.html) – [Number](pl_pdb-feat-Number.html) – [Number[psor]](pl_pdb-feat-Number-psor.html) – [NumForm](pl_pdb-feat-NumForm.html) – [NumType](pl_pdb-feat-NumType.html) – [PartType](pl_pdb-feat-PartType.html) – [Person](pl_pdb-feat-Person.html) – [Polarity](pl_pdb-feat-Polarity.html) – [Polite](pl_pdb-feat-Polite.html) – [Poss](pl_pdb-feat-Poss.html) – [PrepCase](pl_pdb-feat-PrepCase.html) – [PronType](pl_pdb-feat-PronType.html) – [Pun](pl_pdb-feat-Pun.html) – [PunctSide](pl_pdb-feat-PunctSide.html) – [PunctType](pl_pdb-feat-PunctType.html) – [Reflex](pl_pdb-feat-Reflex.html) – [Tense](pl_pdb-feat-Tense.html) – [Variant](pl_pdb-feat-Variant.html) – [VerbForm](pl_pdb-feat-VerbForm.html) – [VerbType](pl_pdb-feat-VerbType.html) – [Voice](pl_pdb-feat-Voice.html)
 
 ## Relations
 
@@ -843,6 +843,18 @@ We would like to thank all of the contributors of the original Polish Dependency
   </li>
 </ul>
 
+<ul>
+  <li><a>Polite</a></li>
+</ul>
+
+<ul>
+  <li>Depr
+    <ul>
+      <li>NOUN: chłopaki, nastolatki, Chłopy, Kamraty, Wykształciuchy, niedobitki, ułomka, zombie, łajzy</li>
+      <li>PROPN: Jerze, VIP-y</li>
+    </ul>
+  </li>
+</ul>
 
 
 <ul>
@@ -913,7 +925,7 @@ We would like to thank all of the contributors of the original Polish Dependency
 <ul>
   <li><a>ConjType</a>
     <ul>
-      <li>Cmpr
+      <li>Comp
         <ul>
           <li>SCONJ: jak, niż, jakby, niczym, aniżeli, niby</li>
         </ul>
@@ -950,11 +962,6 @@ We would like to thank all of the contributors of the original Polish Dependency
 <ul>
   <li><a>Foreign</a>
     <ul>
-      <li>No
-        <ul>
-          <li>X: dala, ciemku, cna, dna, dwójnasób, młodu, naprzeciwka, niemiara, oścież, oślep</li>
-        </ul>
-      </li>
       <li>Yes
         <ul>
           <li>X: de, San, a, of, von, New, Don, bin, di, Le</li>
@@ -970,19 +977,6 @@ We would like to thank all of the contributors of the original Polish Dependency
       <li>Yes
         <ul>
           <li>ADJ: czarno, biało, polsko, czerwono, południowo, żółto, brązowo, budowlano, niebiesko, niemiecko</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li><a>NounForm</a>
-    <ul>
-      <li>Depr
-        <ul>
-          <li>NOUN: chłopaki, nastolatki, Chłopy, Kamraty, Wykształciuchy, niedobitki, ułomka, zombie, łajzy</li>
-          <li>PROPN: Jerze, VIP-y</li>
         </ul>
       </li>
     </ul>
@@ -1087,7 +1081,7 @@ We would like to thank all of the contributors of the original Polish Dependency
       </li>
       <li>Dash
         <ul>
-          <li>PUNCT: –, —, --</li>
+          <li>PUNCT: -, –, —, --</li>
         </ul>
       </li>
       <li>Elip
@@ -1098,11 +1092,6 @@ We would like to thank all of the contributors of the original Polish Dependency
       <li>Excl
         <ul>
           <li>PUNCT: !</li>
-        </ul>
-      </li>
-      <li>Hyph
-        <ul>
-          <li>PUNCT: -</li>
         </ul>
       </li>
       <li>Peri

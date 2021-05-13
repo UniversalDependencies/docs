@@ -67,7 +67,7 @@ The 3rd highest number of forms (14) was observed with the lemma “kaout”: <e
 
 `AUX` occurs with 9 features: <tt><a href="br_keb-feat-VerbForm.html">VerbForm</a></tt> (710; 53% instances), <tt><a href="br_keb-feat-Tense.html">Tense</a></tt> (686; 52% instances), <tt><a href="br_keb-feat-Person.html">Person</a></tt> (639; 48% instances), <tt><a href="br_keb-feat-Number.html">Number</a></tt> (626; 47% instances), <tt><a href="br_keb-feat-Mood.html">Mood</a></tt> (580; 44% instances), <tt><a href="br_keb-feat-Gender.html">Gender</a></tt> (39; 3% instances), <tt><a href="br_keb-feat-Aspect.html">Aspect</a></tt> (37; 3% instances), <tt><a href="br_keb-feat-Reflex.html">Reflex</a></tt> (25; 2% instances), <tt><a href="br_keb-feat-Polarity.html">Polarity</a></tt> (9; 1% instances)
 
-`AUX` occurs with 20 feature-value pairs: `Aspect=Hab`, `Gender=Fem`, `Gender=Masc`, `Mood=Cnd`, `Mood=Ind`, `Mood=Opt`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Person=Auto`, `Polarity=Neg`, `Reflex=Yes`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`
+`AUX` occurs with 20 feature-value pairs: `Aspect=Hab`, `Gender=Fem`, `Gender=Masc`, `Mood=Cnd`, `Mood=Ind`, `Mood=Opt`, `Number=Plur`, `Number=Sing`, `Person=0`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Reflex=Yes`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`
 
 `AUX` occurs with 36 feature combinations.
 The most frequent feature combination is `_` (566 tokens).

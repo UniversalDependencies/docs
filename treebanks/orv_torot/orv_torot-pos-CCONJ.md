@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of CCONJ in UD_Old_Russian-TOROT'
+title:  'Statistics of CCONJ in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: POS Tags: `CCONJ`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: POS Tags: `CCONJ`
 
 There are 20 `CCONJ` lemmas (0%), 39 `CCONJ` types (0%) and 14156 `CCONJ` tokens (9%).
 Out of 14 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 13 in number of types and 5 in number of tokens.
@@ -76,7 +76,7 @@ The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="orv_torot-pos-C
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.950000 (the average of all parts of speech is 3.571089).
+The form / lemma ratio of `CCONJ` is 1.950000 (the average of all parts of speech is 3.571475).
 
 The 1st highest number of forms (8) was observed with the lemma “и”: <em>[и], i, ι, и, н, і, ї, ꙇ</em>.
 

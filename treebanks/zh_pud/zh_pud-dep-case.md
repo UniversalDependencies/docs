@@ -32,7 +32,7 @@ The following 15 pairs of parts of speech are connected with `case`: <tt><a href
 7	國會山	_	PROPN	NNP	_	9	compound	_	SpaceAfter=No|Translit=guóhuìshān
 8	任職	_	NOUN	NN	_	9	compound	_	SpaceAfter=No|Translit=rènzhí
 9	變遷	_	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=biànqiān
-10	的	_	PART	DEC	_	6	mark:relcl	_	SpaceAfter=No|Translit=de
+10	的	_	PART	DEC	_	6	mark:rel	_	SpaceAfter=No|Translit=de
 11	人	_	NOUN	NN	_	13	obl	_	SpaceAfter=No|Translit=rén
 12	而	_	ADV	RB	_	13	advmod	_	SpaceAfter=No|Translit='ér
 13	言	_	VERB	VV	_	21	advcl	_	SpaceAfter=No|Translit=yán
@@ -94,7 +94,7 @@ The following 15 pairs of parts of speech are connected with `case`: <tt><a href
 6	使	_	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No|Translit=shǐ
 7	政府	_	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=zhèngfǔ
 8	支出	_	VERB	VV	_	10	csubj	_	SpaceAfter=No|Translit=zhīchū
-9	的	_	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No|Translit=de
+9	的	_	PART	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de
 10	突破	_	VERB	VV	_	6	ccomp	_	SpaceAfter=No|Translit=tūpò
 11	了	_	PART	AS	Aspect=Perf	10	aux	_	SpaceAfter=No|Translit=le
 12	新上限	_	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=xīnshàngxiàn

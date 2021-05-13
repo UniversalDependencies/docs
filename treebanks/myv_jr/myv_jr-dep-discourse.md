@@ -43,7 +43,7 @@ The following 21 pairs of parts of speech are connected with `discourse`: <tt><a
 1	―	―	PUNCT	PUNCT	_	6	punct	_	_
 2	Омбоце	омбоце	ADJ	Num	Case=Nom|Definite=Ind|Number=Sing|NumType=Ord	3	amod	_	GTtags=Ord
 3	ёндо	ён	NOUN	N	Case=Abl|Definite=Ind|Number=Plur,Sing	6	obl	_	GTtags=Relator,Spat,Abl
-4	истя	истя	ADV	Adv	AdvType=Man	6	advmod	_	GTtags=Manner
+4	истя	истя	ADV	Adv	AdvType=Man	6	advmod:mmod	_	GTtags=Manner
 5	жо	жо	PART	Pcle	_	4	discourse	_	_
 6	кившкадсь	кившкадемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
 7	Вострин	Вострин	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|Gender=Masc|NameType=Sur|Number=Sing	6	nsubj	_	GTtags=Prop,Ant_Mal,Sg,Nom,Indef|SpaceAfter=No

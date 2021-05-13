@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Rattima Nitisaroj, Yanin Sawanakunanon, Martin Popel, Daniel Zeman.
 
 Repository: [UD_Thai-PUD](https://github.com/UniversalDependencies/UD_Thai-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udth_pud27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udth_pud28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 3.0
 
@@ -92,7 +92,7 @@ employ ten-fold cross-validation.
 
 ## Relations
 
-[acl](th_pud-dep-acl.html) – [acl:relcl](th_pud-dep-acl-relcl.html) – [advcl](th_pud-dep-advcl.html) – [advmod](th_pud-dep-advmod.html) – [amod](th_pud-dep-amod.html) – [appos](th_pud-dep-appos.html) – [aux](th_pud-dep-aux.html) – [aux:pass](th_pud-dep-aux-pass.html) – [case](th_pud-dep-case.html) – [cc](th_pud-dep-cc.html) – [cc:preconj](th_pud-dep-cc-preconj.html) – [ccomp](th_pud-dep-ccomp.html) – [clf](th_pud-dep-clf.html) – [compound](th_pud-dep-compound.html) – [compound:prt](th_pud-dep-compound-prt.html) – [conj](th_pud-dep-conj.html) – [cop](th_pud-dep-cop.html) – [csubj](th_pud-dep-csubj.html) – [dep](th_pud-dep-dep.html) – [det](th_pud-dep-det.html) – [det:predet](th_pud-dep-det-predet.html) – [discourse](th_pud-dep-discourse.html) – [dislocated](th_pud-dep-dislocated.html) – [fixed](th_pud-dep-fixed.html) – [flat:name](th_pud-dep-flat-name.html) – [goeswith](th_pud-dep-goeswith.html) – [iobj](th_pud-dep-iobj.html) – [mark](th_pud-dep-mark.html) – [nmod](th_pud-dep-nmod.html) – [nmod:poss](th_pud-dep-nmod-poss.html) – [nsubj](th_pud-dep-nsubj.html) – [nsubj:pass](th_pud-dep-nsubj-pass.html) – [nummod](th_pud-dep-nummod.html) – [obj](th_pud-dep-obj.html) – [obl](th_pud-dep-obl.html) – [obl:poss](th_pud-dep-obl-poss.html) – [obl:tmod](th_pud-dep-obl-tmod.html) – [parataxis](th_pud-dep-parataxis.html) – [punct](th_pud-dep-punct.html) – [reparandum](th_pud-dep-reparandum.html) – [root](th_pud-dep-root.html) – [vocative](th_pud-dep-vocative.html) – [xcomp](th_pud-dep-xcomp.html)
+[acl](th_pud-dep-acl.html) – [acl:relcl](th_pud-dep-acl-relcl.html) – [advcl](th_pud-dep-advcl.html) – [advmod](th_pud-dep-advmod.html) – [amod](th_pud-dep-amod.html) – [appos](th_pud-dep-appos.html) – [aux](th_pud-dep-aux.html) – [aux:pass](th_pud-dep-aux-pass.html) – [case](th_pud-dep-case.html) – [cc](th_pud-dep-cc.html) – [cc:preconj](th_pud-dep-cc-preconj.html) – [ccomp](th_pud-dep-ccomp.html) – [clf](th_pud-dep-clf.html) – [compound](th_pud-dep-compound.html) – [compound:prt](th_pud-dep-compound-prt.html) – [conj](th_pud-dep-conj.html) – [cop](th_pud-dep-cop.html) – [csubj](th_pud-dep-csubj.html) – [dep](th_pud-dep-dep.html) – [det](th_pud-dep-det.html) – [discourse](th_pud-dep-discourse.html) – [dislocated](th_pud-dep-dislocated.html) – [fixed](th_pud-dep-fixed.html) – [flat:name](th_pud-dep-flat-name.html) – [goeswith](th_pud-dep-goeswith.html) – [iobj](th_pud-dep-iobj.html) – [mark](th_pud-dep-mark.html) – [nmod](th_pud-dep-nmod.html) – [nmod:poss](th_pud-dep-nmod-poss.html) – [nsubj](th_pud-dep-nsubj.html) – [nsubj:pass](th_pud-dep-nsubj-pass.html) – [nummod](th_pud-dep-nummod.html) – [obj](th_pud-dep-obj.html) – [obl](th_pud-dep-obl.html) – [obl:poss](th_pud-dep-obl-poss.html) – [obl:tmod](th_pud-dep-obl-tmod.html) – [parataxis](th_pud-dep-parataxis.html) – [punct](th_pud-dep-punct.html) – [reparandum](th_pud-dep-reparandum.html) – [root](th_pud-dep-root.html) – [vocative](th_pud-dep-vocative.html) – [xcomp](th_pud-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -126,7 +126,7 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 32 word types tagged as particles (PART): การได้, การไม่, กำลัง, ขึ้น, ครับ, ความไม่, ค่อนข้าง, นะ, มา, มิ, ยัง, ยังคง, ลง, ล่ะ, หรอก, หรือ, หรือเปล่า, หรือไม่, อยู่, อย่าง, อย่างไม่, ออก, เข้า, เคย, เสีย, เหรอ, แลัว, แล้ว, ได้, ไป, ไม่, ไหม</li>
+<li>This corpus contains 22 word types tagged as particles (PART): การไม่, ขึ้น, ครับ, ความไม่, นะ, มา, มิ, ลง, ล่ะ, หรอก, หรือ, หรือเปล่า, หรือไม่, อย่าง, อย่างไม่, ออก, เข้า, เสีย, เหรอ, ไป, ไม่, ไหม</li>
 </ul>
 
 <ul>
@@ -189,7 +189,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Perf
     <ul>
-      <li>PART: ได้, แล้ว, มา, เคย, การได้, อยู่, แลัว</li>
+      <li>AUX: ได้, แล้ว, มา, เคย, การได้, อยู่, แลัว</li>
     </ul>
   </li>
 </ul>
@@ -197,7 +197,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Prog
     <ul>
-      <li>PART: อยู่, ยัง, กำลัง, ยังคง, ค่อนข้าง</li>
+      <li>AUX: อยู่, ยัง, กำลัง, ยังคง, ค่อนข้าง</li>
     </ul>
   </li>
 </ul>
@@ -209,7 +209,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Imp
     <ul>
-      <li>VERB: ห้าม</li>
+      <li>AUX: ห้าม</li>
     </ul>
   </li>
 </ul>
@@ -222,7 +222,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Pass
     <ul>
-      <li>VERB: ถูก, ได้รับ, ต้อง, การถูก</li>
+      <li>AUX: ถูก, ได้รับ, ต้อง, การถูก</li>
     </ul>
   </li>
 </ul>
@@ -272,7 +272,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>3
     <ul>
-      <li>PRON: เขา, เธอ, มัน, พระองค์, ตัวเอง, ตนเอง, ต่าง, พ​ร​ะ​อ​ง​ค​์​ภ​า​ย​ห​ล​ั​ง​ก​า​ร​ส​ว​ร​ร​ค​ต​โ​ด​ย​ใ​ช​้​ช​ื​่​อ​ย​ุ​ค​ท​ี​่​พ​ร​ะ​อ​ง​ค​์</li>
+      <li>PRON: เขา, เธอ, มัน, พระองค์, ตัวเอง, ตนเอง, ต่าง, พระองค์ภายหลังการสวรรคตโดยใช้ชื่อยุคที่พระองค์</li>
     </ul>
   </li>
 </ul>
@@ -332,7 +332,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>det:predet</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:poss</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:poss</a>, <a>obl:tmod</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
 <li>The following 3 relation types are not used in this corpus at all: <a>expl</a>, <a>list</a>, <a>orphan</a></li>
 </ul>

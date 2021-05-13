@@ -12,20 +12,20 @@ It occurs with 6 different values: `Fin`, `Gdv`, `Ger`, `Inf`, `Part`, `Sup`.
 48536 tokens (24%) have a non-empty value of `VerbForm`.
 15035 types (51%) occur at least once with a non-empty value of `VerbForm`.
 2190 lemmas (26%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (40689; 20% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (7847; 4% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (40691; 20% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (7845; 4% instances).
 
 ### `VERB`
 
-40689 <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+40691 <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (31681; 78%), <tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (31311; 77%), <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (30100; 74%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (24167; 59%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23821; 59%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (31683; 78%), <tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (31313; 77%), <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (30100; 74%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (24168; 59%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23822; 59%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (27132; 67% of non-empty `VerbForm`): <em>dixit, ait, dicit, dico, venit, habet, dixerunt, misit, potest, fecit</em>
+* `Fin` (27133; 67% of non-empty `VerbForm`): <em>dixit, ait, dicit, dico, venit, habet, dixerunt, misit, potest, fecit</em>
 * `Gdv` (740; 2% of non-empty `VerbForm`): <em>faciendum, agendum, serenda, adhibenda, iurando, ponenda, cavendum, dicendum, facienda, fugienda</em>
 * `Ger` (306; 1% of non-empty `VerbForm`): <em>audiendi, dicendi, scribendo, pugnandi, manducandum, praedandi, scribendum, bellandi, navigandi, frumentandi</em>
-* `Inf` (4179; 10% of non-empty `VerbForm`): <em>facere, fieri, posse, dicere, habere, venire, videre, scire, dare, loqui</em>
+* `Inf` (4180; 10% of non-empty `VerbForm`): <em>facere, fieri, posse, dicere, habere, venire, videre, scire, dare, loqui</em>
 * `Part` (8316; 20% of non-empty `VerbForm`): <em>dicens, factum, dicentes, facta, respondens, scriptum, factus, locutus, habens, data</em>
 * `Sup` (16; 0% of non-empty `VerbForm`): <em>factu, frumentatum, salutatum, gratulatum, nuptum, oratum, postulatum, potum, questum, redditum</em>
 * `EMPTY` (1): <em>ἀποθέωσιν</em>
@@ -136,14 +136,14 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-7847 <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+7845 <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7845; 100%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (6228; 79%), <tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5997; 76%), <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (5962; 76%), <tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5725; 73%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5124; 65%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7845; 100%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (6227; 79%), <tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5997; 76%), <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (5961; 76%), <tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5724; 73%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5123; 65%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (7043; 90% of non-empty `VerbForm`): <em>est, sunt, erat, sit, sum, esset, erant, fuit, erit, estis</em>
-* `Inf` (752; 10% of non-empty `VerbForm`): <em>esse, fore, fuisse, iri</em>
+* `Fin` (7042; 90% of non-empty `VerbForm`): <em>est, sunt, erat, sit, sum, esset, erant, fuit, erit, estis</em>
+* `Inf` (751; 10% of non-empty `VerbForm`): <em>esse, fore, fuisse</em>
 * `Part` (52; 1% of non-empty `VerbForm`): <em>futurum, futurus, futura, futuram, futuros, futurorum, futurae, futurarum, futuri</em>
 
 <table>

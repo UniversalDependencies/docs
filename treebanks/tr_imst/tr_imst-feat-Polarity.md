@@ -12,17 +12,17 @@ It occurs with 2 different values: `Neg`, `Pos`.
 11057 tokens (19%) have a non-empty value of `Polarity`.
 6402 types (37%) occur at least once with a non-empty value of `Polarity`.
 827 lemmas (14%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 2 part-of-speech tags: <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (11056; 19% instances), <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (10994; 19% instances), <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> (63; 0% instances).
 
 ### `VERB`
 
-11056 <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Polarity`.
+10994 <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="tr_imst-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (9695; 88%), <tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9593; 87%), <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (9348; 85%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (9348; 85%), <tt><a href="tr_imst-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (9316; 84%), <tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8797; 80%), <tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (8470; 77%), <tt><a href="tr_imst-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6277; 57%), <tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5897; 53%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="tr_imst-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (9633; 88%), <tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9541; 87%), <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (9286; 84%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (9286; 84%), <tt><a href="tr_imst-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (9254; 84%), <tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8735; 79%), <tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (8408; 76%), <tt><a href="tr_imst-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6215; 57%), <tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5847; 53%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
-* `Neg` (1245; 11% of non-empty `Polarity`): <em>değil, olmaz, olmadığını, bilmiyorum, değildir, değildi, değilim, olmadığı, olmadı, olmayan</em>
+* `Neg` (1183; 11% of non-empty `Polarity`): <em>değil, olmaz, olmadığını, bilmiyorum, olmadığı, olmadı, olmayan, değildir, değilim, olmuyor</em>
 * `Pos` (9811; 89% of non-empty `Polarity`): <em>dedi, olan, dedim, olduğunu, oldu, olduğu, söyledi, olur, etti, geldi</em>
 * `EMPTY` (1): <em>alırsınız</em>
 
@@ -154,26 +154,27 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 
 ### `AUX`
 
-1 <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Polarity`.
+63 <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> tokens (6% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt> (1; 100%), <tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1; 100%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="tr_imst-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%), <tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1; 100%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (62; 98%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (62; 98%), <tt><a href="tr_imst-feat-Person.html">Person</a></tt><tt>=3</tt> (57; 90%), <tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (53; 84%), <tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (51; 81%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
-* `Pos` (1; 100% of non-empty `Polarity`): <em>girerken</em>
+* `Neg` (62; 98% of non-empty `Polarity`): <em>değil, değildi, değildir, değilim, değilmiş, değilse, değiliz, değilsin</em>
+* `Pos` (1; 2% of non-empty `Polarity`): <em>girerken</em>
 * `EMPTY` (1043): <em>dir, mi, ise, mı, dır, ydi, dı, ydı, tu, mu</em>
 
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
-<tt>VERB --[<tt><a href="tr_imst-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (864; 85%),
-<tt>VERB --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> VERB</tt> (754; 82%),
-<tt>VERB --[<tt><a href="tr_imst-dep-obj.html">obj</a></tt>]--> VERB</tt> (635; 78%),
-<tt>VERB --[<tt><a href="tr_imst-dep-acl.html">acl</a></tt>]--> VERB</tt> (192; 85%),
-<tt>VERB --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (107; 79%),
+<tt>VERB --[<tt><a href="tr_imst-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (866; 85%),
+<tt>VERB --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> VERB</tt> (756; 82%),
+<tt>VERB --[<tt><a href="tr_imst-dep-obj.html">obj</a></tt>]--> VERB</tt> (636; 78%),
+<tt>VERB --[<tt><a href="tr_imst-dep-acl.html">acl</a></tt>]--> VERB</tt> (195; 86%),
+<tt>VERB --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (109; 80%),
 <tt>VERB --[<tt><a href="tr_imst-dep-compound.html">compound</a></tt>]--> VERB</tt> (42; 66%),
 <tt>VERB --[<tt><a href="tr_imst-dep-nmod-poss.html">nmod:poss</a></tt>]--> VERB</tt> (26; 90%),
-<tt>VERB --[<tt><a href="tr_imst-dep-compound-redup.html">compound:redup</a></tt>]--> VERB</tt> (22; 100%),
-<tt>VERB --[<tt><a href="tr_imst-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (17; 89%),
-<tt>VERB --[<tt><a href="tr_imst-dep-compound-lvc.html">compound:lvc</a></tt>]--> VERB</tt> (11; 92%).
+<tt>VERB --[<tt><a href="tr_imst-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (23; 85%),
+<tt>VERB --[<tt><a href="tr_imst-dep-compound-redup.html">compound:redup</a></tt>]--> VERB</tt> (23; 100%),
+<tt>VERB --[<tt><a href="tr_imst-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (17; 85%).
 

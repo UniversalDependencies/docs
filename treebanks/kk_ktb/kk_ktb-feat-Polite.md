@@ -18,7 +18,7 @@ The feature is used with 5 part-of-speech tags: <tt><a href="kk_ktb-pos-PRON.htm
 
 33 <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> tokens (7% of all `PRON` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `PRON` and `Polite` co-occurred: <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=2</tt> (32; 97%), <tt><a href="kk_ktb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (32; 97%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (24; 73%).
+The most frequent other feature values with which `PRON` and `Polite` co-occurred: <tt><a href="kk_ktb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (33; 100%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=2</tt> (32; 97%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (24; 73%).
 
 `PRON` tokens may have the following values of `Polite`:
 
@@ -29,7 +29,7 @@ The most frequent other feature values with which `PRON` and `Polite` co-occurre
 
 16 <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `VERB` and `Polite` co-occurred: <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="kk_ktb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (14; 88%), <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (12; 75%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=2</tt> (12; 75%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12; 75%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 56%).
+The most frequent other feature values with which `VERB` and `Polite` co-occurred: <tt><a href="kk_ktb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (14; 88%), <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (12; 75%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=2</tt> (12; 75%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12; 75%), <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (11; 69%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 56%).
 
 `VERB` tokens may have the following values of `Polite`:
 
@@ -55,7 +55,7 @@ The most frequent other feature values with which `NOUN` and `Polite` co-occurre
 
 6 <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `AUX` and `Polite` co-occurred: <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6; 100%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=2</tt> (6; 100%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (6; 100%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 67%).
+The most frequent other feature values with which `AUX` and `Polite` co-occurred: <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6; 100%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=2</tt> (6; 100%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (6; 100%), <tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5; 83%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 67%).
 
 `AUX` tokens may have the following values of `Polite`:
 

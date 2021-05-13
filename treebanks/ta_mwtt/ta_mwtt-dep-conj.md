@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4 nodes (0%) are attached to their parents as `conj`.
+5 nodes (0%) are attached to their parents as `conj`.
 
-4 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.25.
+5 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.2.
 
-The following 2 pairs of parts of speech are connected with `conj`: <tt><a href="ta_mwtt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (3; 75% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (1; 25% instances).
+The following 2 pairs of parts of speech are connected with `conj`: <tt><a href="ta_mwtt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ta_mwtt-pos-PROPN.html">PROPN</a></tt> (3; 60% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt> (2; 40% instances).
 
 
 ~~~ conllu
@@ -24,22 +24,23 @@ The following 2 pairs of parts of speech are connected with `conj`: <tt><a href=
 # visual-style 1 3 conj	color:blue
 1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3	0	root	0:root	Translit=kumār|LTranslit=kumār
 2	அல்லது	அல்லது	CCONJ	_	_	3	cc	3:cc	Translit=allatu|LTranslit=allatu
-3	ராஜா	ராஜா	NOUN	_	Case=Nom|Number=Sing|Person=3	1	conj	1:conj	Translit=rājā|LTranslit=rājā
+3	ராஜா	ராஜா	PROPN	_	Case=Nom|Number=Sing|Person=3	1	conj	1:conj	Translit=rājā|LTranslit=rājā
 4	.	.	PUNCT	_	PunctType=Peri	1	punct	1:punct	Translit=.|LTranslit=.
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 conj	color:blue
-1	டீயாவது	டீ	NOUN	_	Case=Nom|Number=Sing|Person=3	3	obj	3:obj	Translit=ṭīyāvatu|LTranslit=ṭī
-2	காப்பியாவது	காப்பி	NOUN	_	Case=Nom|Number=Sing|Person=3	1	conj	1:conj	Translit=kāppiyāvatu|LTranslit=kāppi
-3	போடு	போடு	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Neg	0	root	0:root	Translit=pōṭu|LTranslit=pōṭu
-4	.	.	PUNCT	_	PunctType=Peri	3	punct	3:punct	Translit=.|LTranslit=.
+# visual-style 2 3 conj	color:blue
+1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3	4	nsubj	4:nsubj	Translit=kumār|LTranslit=kumār
+2	வாசலுக்கும்	வாசல்	NOUN	_	Case=Dat|Number=Sing|Person=3	4	obl	4:obl	Translit=vācalukkum|LTranslit=vācal
+3	தெருவுக்குமாக	தெரு	NOUN	_	Case=Dat|Number=Sing|Person=3	2	conj	2:conj	Translit=teruvukkumāka|LTranslit=teru
+4	நடந்தான்	நட	VERB	_	Gender=Masc|Number=Sing|Person=3|Tense=Past	0	root	0:root	Translit=naṭantāṉ|LTranslit=naṭa
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	4:punct	Translit=.|LTranslit=.
 
 ~~~
 

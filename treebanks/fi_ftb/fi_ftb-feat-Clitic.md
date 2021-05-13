@@ -224,7 +224,7 @@ The most frequent other feature values with which `ADJ` and `Clitic` co-occurred
 * `Han` (3; 3% of non-empty `Clitic`): <em>Rehelliseltähän, Ujohan, olennaistahan</em>
 * `Kaan` (14; 13% of non-empty `Clitic`): <em>ainoatakaan, ainuttakaan, Ensimmäistäkään, edellisestäkään, huonokaan, kummoistakaan, surkeinkaan, syksyisillekään, tämänkertainenkaan, uudetkaan</em>
 * `Kin` (84; 76% of non-empty `Clitic`): <em>eriäviäkin, hienompikin, lyhytkin, pienetkin, isokin, isompikin, kansallisiakin, nykyistenkin, yrityskohtaisiakin, Hyvälläkin</em>
-* `Ko` (7; 6% of non-empty `Clitic`): <em>Kuusivuotiaanako, L​u​o​n​n​o​n​s​u​o​j​e​l​u​l​l​i​s​i​s​t​a​k​o, Pitkäkö, Suuriko, Vanhako, metalliseltako, tällaistako</em>
+* `Ko` (7; 6% of non-empty `Clitic`): <em>Kuusivuotiaanako, Luonnonsuojelullisistako, Pitkäkö, Suuriko, Vanhako, metalliseltako, tällaistako</em>
 * `Pa` (1; 1% of non-empty `Clitic`): <em>Omapa</em>
 * `S` (1; 1% of non-empty `Clitic`): <em>minkäslaista</em>
 

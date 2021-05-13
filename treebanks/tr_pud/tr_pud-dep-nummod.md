@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-266 nodes (2%) are attached to their parents as `nummod`.
+268 nodes (2%) are attached to their parents as `nummod`.
 
-266 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.2406015037594.
+267 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.23880597014925.
 
-The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (224; 84% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (19; 7% instances), <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (14; 5% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-X.html">X</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (226; 84% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (19; 7% instances), <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (14; 5% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-X.html">X</a></tt>-<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -43,10 +43,10 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	İki	iki	NUM	CD	Number=Sing|NumType=Ord	2	nummod	_	_
 2	minareli	_	ADJ	JJ	Number=Sing	5	amod	_	_
 3	küçük	küçük	ADJ	JJ	Number=Sing	5	amod	_	_
-4	bir	bir	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	5	det	_	_
+4	bir	bir	DET	DT	Definite=Ind|Polarity=Pos	5	det	_	_
 5	kasaba	kasaba	NOUN	NN	Number=Sing	8	nsubj	_	_
 6	yanımızdan	yanı	NOUN	NN	Case=Abl|Number=Sing	8	obl	_	_
-7	geçip	geç	ADV	CRB	Polarity=Pos	8	advcl	_	_
+7	geçip	geç	ADV	CRB	_	8	advcl	_	_
 8	gidiyor	git	VERB	VB	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	8	punct	_	_
 

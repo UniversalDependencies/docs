@@ -70,14 +70,14 @@ The most frequent other feature values with which `AUX` and `Animacy` co-occurre
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="ar_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1570; 84%),
+<tt>NOUN --[<tt><a href="ar_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1597; 84%),
+<tt>NOUN --[<tt><a href="ar_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (368; 70%),
 <tt>NOUN --[<tt><a href="ar_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (246; 93%),
 <tt>PROPN --[<tt><a href="ar_pud-dep-flat.html">flat</a></tt>]--> PROPN</tt> (229; 95%),
-<tt>NOUN --[<tt><a href="ar_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (209; 78%),
-<tt>NOUN --[<tt><a href="ar_pud-dep-nmod-gmod.html">nmod:gmod</a></tt>]--> PROPN</tt> (159; 62%),
+<tt>PROPN --[<tt><a href="ar_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (139; 81%),
 <tt>NOUN --[<tt><a href="ar_pud-dep-appos.html">appos</a></tt>]--> PROPN</tt> (93; 92%),
-<tt>PROPN --[<tt><a href="ar_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (76; 81%),
 <tt>PROPN --[<tt><a href="ar_pud-dep-conj.html">conj</a></tt>]--> PROPN</tt> (71; 93%),
-<tt>PROPN --[<tt><a href="ar_pud-dep-nmod-gmod.html">nmod:gmod</a></tt>]--> PROPN</tt> (63; 82%),
-<tt>NOUN --[<tt><a href="ar_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (43; 69%).
+<tt>NOUN --[<tt><a href="ar_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (43; 69%),
+<tt>PROPN --[<tt><a href="ar_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (32; 89%),
+<tt>NOUN --[<tt><a href="ar_pud-dep-appos.html">appos</a></tt>]--> NOUN</tt> (30; 91%).
 

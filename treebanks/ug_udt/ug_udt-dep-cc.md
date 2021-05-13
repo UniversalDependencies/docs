@@ -64,10 +64,10 @@ The following 30 pairs of parts of speech are connected with `cc`: <tt><a href="
 2	باشقا	باشقا	ADJ	A	_	3	amod	_	Translit=bashqa
 3	شەيئىلەر	شەيئى	NOUN	N	Case=Nom|Number=Plur	5	nsubj	_	Translit=sheyiler
 4	بىلەن	بىلەن	ADP	R	_	3	case	_	Translit=bilen
-5	ئوخشىمايدۇ	ئوخشى	VERB	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Aor|VerbForm=Fin	7	ccomp	_	SpaceAfter=No|Translit=oxshimaydu
+5	ئوخشىمايدۇ	ئوخشى	VERB	V	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	7	ccomp	_	SpaceAfter=No|Translit=oxshimaydu
 6	،	،	PUNCT	Y	_	5	punct	_	Translit=,
-7	دەپ	دە	VERB	V	Aspect=Perf|VerbForm=Cov	8	ccomp	_	Translit=dep
-8	قارىلىدۇ	قارى	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=qarilidu
+7	دەپ	دە	VERB	V	Aspect=Perf|VerbForm=Inf	8	ccomp	_	Translit=dep
+8	قارىلىدۇ	قارى	VERB	V	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=qarilidu
 9	.	.	PUNCT	Y	_	8	punct	_	Translit=.
 
 ~~~

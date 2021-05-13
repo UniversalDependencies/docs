@@ -45,7 +45,7 @@ The 3rd highest number of forms (3) was observed with the lemma “मेरी�
 
 `PROPN` occurs with 3 features: <tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt> (55; 100% instances), <tt><a href="mr_ufal-feat-Number.html">Number</a></tt> (55; 100% instances), <tt><a href="mr_ufal-feat-Case.html">Case</a></tt> (54; 98% instances)
 
-`PROPN` occurs with 9 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Erg`, `Case=Nom`, `Case=Obl`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
+`PROPN` occurs with 9 feature-value pairs: `Case=Abs`, `Case=Acc`, `Case=Dat`, `Case=Erg`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
 
 `PROPN` occurs with 11 feature combinations.
 The most frequent feature combination is `Case=Nom|Gender=Masc|Number=Sing` (23 tokens).
@@ -54,13 +54,13 @@ Examples: <em>भीमा, जेम्स, _, केशवचंद्र, क
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 9 different relations: <tt><a href="mr_ufal-dep-nsubj.html">nsubj</a></tt> (28; 51% instances), <tt><a href="mr_ufal-dep-nmod-poss.html">nmod:poss</a></tt> (10; 18% instances), <tt><a href="mr_ufal-dep-obj.html">obj</a></tt> (4; 7% instances), <tt><a href="mr_ufal-dep-vocative.html">vocative</a></tt> (4; 7% instances), <tt><a href="mr_ufal-dep-nsubj-own.html">nsubj:own</a></tt> (3; 5% instances), <tt><a href="mr_ufal-dep-conj.html">conj</a></tt> (2; 4% instances), <tt><a href="mr_ufal-dep-root.html">root</a></tt> (2; 4% instances), <tt><a href="mr_ufal-dep-appos.html">appos</a></tt> (1; 2% instances), <tt><a href="mr_ufal-dep-obl.html">obl</a></tt> (1; 2% instances)
+`PROPN` nodes are attached to their parents using 8 different relations: <tt><a href="mr_ufal-dep-nsubj.html">nsubj</a></tt> (31; 56% instances), <tt><a href="mr_ufal-dep-nmod-poss.html">nmod:poss</a></tt> (10; 18% instances), <tt><a href="mr_ufal-dep-obj.html">obj</a></tt> (4; 7% instances), <tt><a href="mr_ufal-dep-vocative.html">vocative</a></tt> (4; 7% instances), <tt><a href="mr_ufal-dep-conj.html">conj</a></tt> (2; 4% instances), <tt><a href="mr_ufal-dep-root.html">root</a></tt> (2; 4% instances), <tt><a href="mr_ufal-dep-appos.html">appos</a></tt> (1; 2% instances), <tt><a href="mr_ufal-dep-obl.html">obl</a></tt> (1; 2% instances)
 
 Parents of `PROPN` nodes belong to 5 different parts of speech: <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt> (31; 56% instances), <tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt> (18; 33% instances), <tt><a href="mr_ufal-pos-ADV.html">ADV</a></tt> (3; 5% instances),  (2; 4% instances), <tt><a href="mr_ufal-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
 
-36 (65%) `PROPN` nodes are leaves.
+32 (58%) `PROPN` nodes are leaves.
 
-16 (29%) `PROPN` nodes have one child.
+20 (36%) `PROPN` nodes have one child.
 
 0 (0%) `PROPN` nodes have two children.
 
@@ -68,7 +68,7 @@ Parents of `PROPN` nodes belong to 5 different parts of speech: <tt><a href="mr_
 
 The highest child degree of a `PROPN` node is 5.
 
-Children of `PROPN` nodes are attached using 8 different relations: <tt><a href="mr_ufal-dep-case.html">case</a></tt> (14; 48% instances), <tt><a href="mr_ufal-dep-punct.html">punct</a></tt> (4; 14% instances), <tt><a href="mr_ufal-dep-cop.html">cop</a></tt> (3; 10% instances), <tt><a href="mr_ufal-dep-advmod.html">advmod</a></tt> (2; 7% instances), <tt><a href="mr_ufal-dep-cc.html">cc</a></tt> (2; 7% instances), <tt><a href="mr_ufal-dep-nsubj.html">nsubj</a></tt> (2; 7% instances), <tt><a href="mr_ufal-dep-conj.html">conj</a></tt> (1; 3% instances), <tt><a href="mr_ufal-dep-discourse.html">discourse</a></tt> (1; 3% instances)
+Children of `PROPN` nodes are attached using 8 different relations: <tt><a href="mr_ufal-dep-case.html">case</a></tt> (14; 42% instances), <tt><a href="mr_ufal-dep-punct.html">punct</a></tt> (8; 24% instances), <tt><a href="mr_ufal-dep-cop.html">cop</a></tt> (3; 9% instances), <tt><a href="mr_ufal-dep-advmod.html">advmod</a></tt> (2; 6% instances), <tt><a href="mr_ufal-dep-cc.html">cc</a></tt> (2; 6% instances), <tt><a href="mr_ufal-dep-nsubj.html">nsubj</a></tt> (2; 6% instances), <tt><a href="mr_ufal-dep-conj.html">conj</a></tt> (1; 3% instances), <tt><a href="mr_ufal-dep-discourse.html">discourse</a></tt> (1; 3% instances)
 
-Children of `PROPN` nodes belong to 8 different parts of speech: <tt><a href="mr_ufal-pos-ADP.html">ADP</a></tt> (14; 48% instances), <tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (4; 14% instances), <tt><a href="mr_ufal-pos-AUX.html">AUX</a></tt> (3; 10% instances), <tt><a href="mr_ufal-pos-ADV.html">ADV</a></tt> (2; 7% instances), <tt><a href="mr_ufal-pos-CCONJ.html">CCONJ</a></tt> (2; 7% instances), <tt><a href="mr_ufal-pos-PRON.html">PRON</a></tt> (2; 7% instances), <tt><a href="mr_ufal-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="mr_ufal-pos-PROPN.html">PROPN</a></tt> (1; 3% instances)
+Children of `PROPN` nodes belong to 8 different parts of speech: <tt><a href="mr_ufal-pos-ADP.html">ADP</a></tt> (14; 42% instances), <tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (8; 24% instances), <tt><a href="mr_ufal-pos-AUX.html">AUX</a></tt> (3; 9% instances), <tt><a href="mr_ufal-pos-ADV.html">ADV</a></tt> (2; 6% instances), <tt><a href="mr_ufal-pos-CCONJ.html">CCONJ</a></tt> (2; 6% instances), <tt><a href="mr_ufal-pos-PRON.html">PRON</a></tt> (2; 6% instances), <tt><a href="mr_ufal-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="mr_ufal-pos-PROPN.html">PROPN</a></tt> (1; 3% instances)
 

@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Mod`.
 
-4414 tokens (1%) have a non-empty value of `VerbType`.
-117 types (1%) occur at least once with a non-empty value of `VerbType`.
-8 lemmas (0%) occur at least once with a non-empty value of `VerbType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (4413; 1% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+4413 tokens (1%) have a non-empty value of `VerbType`.
+116 types (1%) occur at least once with a non-empty value of `VerbType`.
+7 lemmas (0%) occur at least once with a non-empty value of `VerbType`.
+The feature is used with 1 part-of-speech tags: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (4413; 1% instances).
 
 ### `VERB`
 
@@ -23,14 +23,4 @@ The most frequent other feature values with which `VERB` and `VerbType` co-occur
 `VERB` tokens may have the following values of `VerbType`:
 
 * `Mod` (4413; 100% of non-empty `VerbType`): <em>potest, possunt, possit, uult, posset, uelle, debet, poterit, possumus, uelit</em>
-
-### `AUX`
-
-1 <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `VerbType`.
-
-The most frequent other feature values with which `AUX` and `VerbType` co-occurred: <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="la_ittb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1; 100%), <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (1; 100%), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1; 100%).
-
-`AUX` tokens may have the following values of `VerbType`:
-
-* `Mod` (1; 100% of non-empty `VerbType`): <em>esse</em>
 

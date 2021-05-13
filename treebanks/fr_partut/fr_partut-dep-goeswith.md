@@ -34,10 +34,10 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 10	nombre	nombre	NOUN	S	Gender=Masc|Number=Sing	21	nsubj	_	_
 11	de	de	ADP	E	_	13	case	_	_
 12	faux	faux	ADJ	A	Gender=Masc	13	amod	_	_
-13	billets	billets	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	_
+13	billets	billet	NOUN	S	Gender=Masc|Number=Plur	10	nmod	_	_
 14	en	en	ADP	E	_	15	case	_	_
 15	euros	euro	NOUN	S	Gender=Masc|Number=Plur	13	nmod	_	_
-16	détectés	détectés	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	13	acl	_	_
+16	détectés	détecté	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	13	acl	_	_
 17	en	en	ADP	E	_	18	case	_	_
 18	circulation	circulation	NOUN	S	Gender=Fem|Number=Sing	16	obl	_	_
 19	s'	se	PRON	P	Person=3|PronType=Prs	21	expl	_	SpaceAfter=No
@@ -56,7 +56,7 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 32	à	à	ADP	E	_	34	case	_	_
 33	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	34	det	_	_
 34	niveaux	niveau	NOUN	S	Gender=Masc|Number=Plur	30	nmod	_	_
-35	antérieurs	antérieurs	ADJ	A	Number=Plur	34	amod	_	_
+35	antérieurs	antérieur	ADJ	A	Number=Plur	34	amod	_	_
 36	à	à	ADP	E	_	38	case	_	_
 37	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	38	det	_	_
 38	mise	mise	NOUN	S	Gender=Fem|Number=Sing	34	nmod	_	_

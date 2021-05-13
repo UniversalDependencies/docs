@@ -21,7 +21,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="id_pud-pos-ADJ.html
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Sup` (58; 100% of non-empty `Degree`): <em>terakhir, terbaik, terbesar, tertinggi, terutama, teratas, terburuk, terawal, terbanyak, terbaru</em>
-* `EMPTY` (974): <em>besar, lain, baru, pertama, sama, banyak, salah, baik, lama, biasa</em>
+* `EMPTY` (987): <em>besar, lain, baru, pertama, baik, sama, banyak, salah, lama, biasa</em>
 
 `Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (15) occur only with one value of `Degree`.
 

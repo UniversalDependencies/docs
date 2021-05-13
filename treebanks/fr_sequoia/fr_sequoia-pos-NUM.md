@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-Sequoia: POS Tags: `NUM`
 
 There are 350 `NUM` lemmas (5%), 350 `NUM` types (4%) and 1649 `NUM` tokens (2%).
-Out of 17 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 11 in number of tokens.
+Out of 16 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 11 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>deux, 5, 2006, trois, 2, 10, 30, 4, 3, 1</em>
 
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>deux</em> (<tt><a href="fr_sequoia-po
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.405182).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.405809).
 
 The 1st highest number of forms (1) was observed with the lemma “-6”: <em>-6</em>.
 

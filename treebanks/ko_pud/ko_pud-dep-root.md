@@ -28,7 +28,7 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 4	따르는	_	VERB	VV	Form=Adn	7	acl:relcl	_	Translit=.dda.reu.neun|LTranslit=_
 5	미국	_	PROPN	NNP	_	6	compound	_	Translit=.mi.gug|LTranslit=_
 6	의회	_	NOUN	NN	_	7	compound	_	Translit=.yi.hoe|LTranslit=_
-7	의원들에게	의원들	NOUN	NN+CM	Case=Advb|Number=Plur|Polite=Form	10	advmod	_	MSeg=의원들-에게|Translit=.yi.weon.deul.e.ge|LTranslit=.yi.weon.deul
+7	의원들에게	의원들	NOUN	NN+CM	Number=Plur|Polite=Form	10	advmod	_	MSeg=의원들-에게|Translit=.yi.weon.deul.e.ge|LTranslit=.yi.weon.deul
 8	이것은	이것	PRON	PRD+CM	Case=Nom|Polite=Form	10	nsubj	_	MSeg=이것-은|Translit=.i.geos.eun|LTranslit=.i.geos
 9	조금	_	ADV	RB	_	10	advmod	_	Translit=.jo.geum|LTranslit=_
 10	다를	_	ADJ	JJ	Form=Adn	11	dep	_	Translit=.da.reul|LTranslit=_
@@ -45,14 +45,14 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 17 root	color:blue
-1	학생들에게	학생들	NOUN	NN+CM	Case=Advb|Number=Plur|Polite=Form	7	iobj	_	MSeg=학생들-에게|Translit=.hag.saeng.deul.e.ge|LTranslit=.hag.saeng.deul
+1	학생들에게	학생들	NOUN	NN+CM	Number=Plur|Polite=Form	7	iobj	_	MSeg=학생들-에게|Translit=.hag.saeng.deul.e.ge|LTranslit=.hag.saeng.deul
 2	과학적	_	NOUN	NN	_	3	compound	_	SpaceAfter=No|Translit=.gwa.hag.jeog|LTranslit=_
 3	방법을	방법	NOUN	NN+CM	Case=Acc|Polite=Form	7	obj	_	MSeg=방법-을|Translit=.bang.beob.eul|LTranslit=.bang.beob
 4	별도의	별도	NOUN	NN+CM	Case=Gen|Polite=Form	6	nmod:poss	_	MSeg=별도-의|Translit=.byeol.do.yi|LTranslit=.byeol.do
 5	학과	_	NOUN	NN	_	6	compound	_	Translit=.hag.gwa|LTranslit=_
-6	단위로	단위	NOUN	NN+CM	Case=Advb|Polite=Form	7	advmod	_	MSeg=단위-로|Translit=.dan.wi.ro|LTranslit=.dan.wi
-7	가르치기보다	가르치기	PART	VV+CM	Case=Advb|Polite=Form|VerbForm=Ger	17	advcl	_	SpaceAfter=No|MSeg=가르치기-보다|Translit=.ga.reu.chi.gi.bo.da|LTranslit=.ga.reu.chi.gi
-8	는	는	PART	AP	_	7	dep:prt	_	Translit=.neun|LTranslit=_
+6	단위로	단위	NOUN	NN+CM	Polite=Form	7	advmod	_	MSeg=단위-로|Translit=.dan.wi.ro|LTranslit=.dan.wi
+7	가르치기보다	가르치기	PART	VV+CM	Polite=Form|VerbForm=Ger	17	advcl	_	SpaceAfter=No|MSeg=가르치기-보다|Translit=.ga.reu.chi.gi.bo.da|LTranslit=.ga.reu.chi.gi
+8	는	는	PART	AP	_	7	case	_	Translit=.neun|LTranslit=_
 9	예를	예	NOUN	NN+CM	Case=Acc|Polite=Form	10	obj	_	MSeg=예-를|Translit=.ye.reul|LTranslit=.ye
 10	들어	_	VERB	VV	Form=Compl	17	advcl	_	Translit=.deul.eo|LTranslit=_
 11	학생들이	학생들	NOUN	NN+CM	Case=Nom|Number=Plur|Polite=Form	17	nsubj	_	MSeg=학생들-이|Translit=.hag.saeng.deul.i|LTranslit=.hag.saeng.deul

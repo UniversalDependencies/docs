@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `clf`: <tt><a href="
 # visual-style 10	fgColor:white
 # visual-style 10 12 clf	color:blue
 1	เธอ	_	PRON	PRP	Person=3	3	nsubj:pass	_	SpaceAfter=No
-2	ถูก	_	VERB	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No
+2	ถูก	_	AUX	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No
 3	ตั้ง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 4	ข้อหา	_	NOUN	NN	_	3	obj	_	SpaceAfter=No
 5	ฐาน	_	ADP	IN	_	6	mark	_	SpaceAfter=No
@@ -70,7 +70,7 @@ The following 7 pairs of parts of speech are connected with `clf`: <tt><a href="
 3	ครั้ง	_	PROPN	NNB	_	1	clf	_	Proper=True|SpaceAfter=No
 4	ที่	_	NOUN	NN	_	3	flat:name	_	Proper=True
 5	1	_	NUM	CD	_	4	nummod	_	_
-6	ได้	_	PART	AS	Aspect=Perf	7	aux	_	SpaceAfter=No
+6	ได้	_	AUX	AS	Aspect=Perf	7	aux	_	SpaceAfter=No
 7	นำ	_	VERB	VV	_	0	root	_	SpaceAfter=No
 8	มา	_	PART	RP	_	7	compound:prt	_	SpaceAfter=No
 9	ซึ่ง	_	ADP	IN	_	10	case	_	SpaceAfter=No

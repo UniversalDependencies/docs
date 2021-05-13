@@ -62,12 +62,12 @@ The 2nd highest number of forms (1) was observed with the lemma “Д”: <em>д
 
 The 3rd highest number of forms (1) was observed with the lemma “Де”: <em>де</em>.
 
-`PART` occurs with 5 features: <tt><a href="ru_gsd-feat-Polarity.html">Polarity</a></tt> (432; 40% instances), <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt> (1; 0% instances), <tt><a href="ru_gsd-feat-Case.html">Case</a></tt> (1; 0% instances), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt> (1; 0% instances), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt> (1; 0% instances)
+`PART` occurs with 1 features: <tt><a href="ru_gsd-feat-Polarity.html">Polarity</a></tt> (432; 40% instances)
 
-`PART` occurs with 5 feature-value pairs: `Animacy=Inan`, `Case=Loc`, `Gender=Masc`, `Number=Sing`, `Polarity=Neg`
+`PART` occurs with 1 feature-value pairs: `Polarity=Neg`
 
-`PART` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (654 tokens).
+`PART` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (655 tokens).
 Examples: <em>же, и, также, только, лишь, даже, не, де, это, именно</em>
 
 

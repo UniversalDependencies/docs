@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Hindi-HDTB: POS Tags: `SCONJ`
 
 There are 24 `SCONJ` lemmas (0%), 24 `SCONJ` types (0%) and 6726 `SCONJ` tokens (2%).
-Out of 16 observed tags, the rank of `SCONJ` is: 14 in number of lemmas, 13 in number of types and 12 in number of tokens.
+Out of 16 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 13 in number of types and 12 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: कि, तो, हालांकि, अगर, यदि, क्योंकि, ताकि, बहरहाल, बल्कि, यानि
 
@@ -49,7 +49,7 @@ The 10 most frequent ambiguous types:  कि (<tt><a href="hi_hdtb-pos-SCONJ.ht
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.203116).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.203447).
 
 The 1st highest number of forms (2) was observed with the lemma “यानि”: यानि, यानी.
 

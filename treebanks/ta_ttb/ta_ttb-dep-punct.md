@@ -65,7 +65,7 @@ The following 9 pairs of parts of speech are connected with `punct`: <tt><a href
 7	,	,	PUNCT	Z:-------	PunctType=Comm	8	punct	8:punct	Translit=,|LTranslit=,
 8	போர்ச்சுக்கல்	போர்ச்சுக்கல்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	conj	4:conj|9:nmod:nom	Translit=pōrccukkal|LTranslit=pōrccukkal
 9	ஆகிய	ஆகு	ADJ	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	11	amod	11:amod	Translit=ākiya|LTranslit=āku
-10	3	3	NUM	U=-------	NumForm=Digit	11	nummod	11:nummod	Translit=3|LTranslit=3
+10	3	3	NUM	U=-------	NumForm=Digit|NumType=Card	11	nummod	11:nummod	Translit=3|LTranslit=3
 11	நாடுகள்	நாடு	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	12	nsubj	12:nsubj	Translit=nāṭukaḷ|LTranslit=nāṭu
 12	போட்டியிடுகின்றன	போட்டியிடு	VERB	Vr-P3PNAA	Gender=Neut|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=pōṭṭiyiṭukinrana|LTranslit=pōṭṭiyiṭu
 13	.	.	PUNCT	Z#-------	PunctType=Peri	12	punct	12:punct	Translit=.|LTranslit=.

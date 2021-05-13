@@ -52,13 +52,13 @@ The 3rd highest number of forms (1) was observed with the lemma “एक”: <e
 
 Parents of `NUM` nodes belong to 5 different parts of speech: <tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt> (27; 79% instances), <tt><a href="mr_ufal-pos-NUM.html">NUM</a></tt> (4; 12% instances), <tt><a href="mr_ufal-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="mr_ufal-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt> (1; 3% instances)
 
-28 (82%) `NUM` nodes are leaves.
+27 (79%) `NUM` nodes are leaves.
 
-6 (18%) `NUM` nodes have one child.
+7 (21%) `NUM` nodes have one child.
 
 The highest child degree of a `NUM` node is 1.
 
-Children of `NUM` nodes are attached using 3 different relations: <tt><a href="mr_ufal-dep-flat.html">flat</a></tt> (3; 50% instances), <tt><a href="mr_ufal-dep-amod.html">amod</a></tt> (2; 33% instances), <tt><a href="mr_ufal-dep-nummod.html">nummod</a></tt> (1; 17% instances)
+Children of `NUM` nodes are attached using 4 different relations: <tt><a href="mr_ufal-dep-flat.html">flat</a></tt> (3; 43% instances), <tt><a href="mr_ufal-dep-amod.html">amod</a></tt> (2; 29% instances), <tt><a href="mr_ufal-dep-nummod.html">nummod</a></tt> (1; 14% instances), <tt><a href="mr_ufal-dep-punct.html">punct</a></tt> (1; 14% instances)
 
-Children of `NUM` nodes belong to 2 different parts of speech: <tt><a href="mr_ufal-pos-NUM.html">NUM</a></tt> (4; 67% instances), <tt><a href="mr_ufal-pos-ADJ.html">ADJ</a></tt> (2; 33% instances)
+Children of `NUM` nodes belong to 3 different parts of speech: <tt><a href="mr_ufal-pos-NUM.html">NUM</a></tt> (4; 57% instances), <tt><a href="mr_ufal-pos-ADJ.html">ADJ</a></tt> (2; 29% instances), <tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (1; 14% instances)
 

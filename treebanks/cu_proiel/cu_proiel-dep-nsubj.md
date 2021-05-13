@@ -27,7 +27,7 @@ The following 56 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 2	же	же	ADV	Df	_	8	discourse	_	ref=MATT_5.29
 3	око	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	ref=MATT_5.29
 4	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	3	nmod	_	ref=MATT_5.29
-5	десное	деснъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	3	amod	_	ref=MATT_5.29
+5	десное	деснъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	ref=MATT_5.29
 6	съблажнаатъ	съблажнꙗти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	ref=MATT_5.29
 7	тѧ	тꙑ	PRON	Pp	Case=Acc|Number=Sing|Person=2|PronType=Prs	6	obj	_	ref=MATT_5.29
 8	ꙇзьми	изѧти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.29
@@ -52,12 +52,12 @@ The following 56 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 4	тѧ	тꙑ	PRON	Pp	Case=Acc|Number=Sing|Person=2|PronType=Prs	5	obj	_	ref=MATT_5.39
 5	оударитъ	оударити	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	ref=MATT_5.39
 6	въ	въ	ADP	R-	_	8	case	_	ref=MATT_5.39
-7	деснѫѭ	деснъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	8	amod	_	ref=MATT_5.39
+7	деснѫѭ	деснъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	ref=MATT_5.39
 8	ланитѫ	ланита	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	ref=MATT_5.39
 9	обрати	обратити	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.39
 10	емоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj	_	ref=MATT_5.39
 11	и	и	ADV	Df	_	12	advmod	_	ref=MATT_5.39
-12	дроугѫѭ҄	дроугъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	9	obj	_	ref=MATT_5.39
+12	дроугѫѭ҄	дроугъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	obj	_	ref=MATT_5.39
 
 ~~~
 

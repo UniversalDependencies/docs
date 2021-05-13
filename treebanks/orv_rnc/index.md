@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Old_Russian-RNC'
+title:  'UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
@@ -9,26 +9,26 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Old Russian RNC
+# UD Old East Slavic RNC
 
-Language: [Old Russian](/orv/index.html) (code: `orv`)<br/>
+Language: [Old East Slavic](/orv/index.html) (code: `orv`)<br/>
 Family: Indo-European, Slavic
 
 This treebank has been part of Universal Dependencies since the UD v2.4 release.
 
 The following people have contributed to making this treebank part of UD: Olga Lyashevskaya, Maria Skachedubova.
 
-Repository: [UD_Old_Russian-RNC](https://github.com/UniversalDependencies/UD_Old_Russian-RNC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udorv_rnc27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Repository: [UD_Old_East_Slavic-RNC](https://github.com/UniversalDependencies/UD_Old_East_Slavic-RNC)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udorv_rnc28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
 Genre: legal, nonfiction
 
 Questions, comments?
-General annotation questions (either Old Russian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Old_Russian-RNC/issues).
+General annotation questions (either Old East Slavic-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Old_East_Slavic-RNC/issues).
 If you want to collaborate, please contact [olesar&nbsp;(æt)&nbsp;yandex&nbsp;•&nbsp;ru].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
@@ -44,7 +44,7 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-`UD_Old_Russian-RNC` is a sample of the Middle Russian corpus (1300-1700), a part of the Russian National Corpus. The data were originally annotated according to the RNC and extended UD-Russian morphological schemas and UD 2.4 dependency schema.
+`UD_Old_East_Slavic-RNC` is a sample of the Middle Russian corpus (1300-1700), a part of the Russian National Corpus. The data were originally annotated according to the RNC and extended UD-Russian morphological schemas and UD 2.4 dependency schema.
 
 
 
@@ -67,7 +67,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 
 
 
-# Statistics of UD Old Russian RNC
+# Statistics of UD Old East Slavic RNC
 
 ## POS Tags
 
@@ -89,7 +89,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 </ul>
 
 <ul>
-<li>This corpus contains 4640 tokens (15%) that are not followed by a space.</li>
+<li>This corpus contains 4510 tokens (15%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -136,7 +136,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 </ul>
 
 <ul>
-<li>There are 6 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
@@ -152,7 +152,6 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
   <li>Fin
   <ul>
     <li>AUX: есть, бы, есте, будет, буди, будутъ, бысть, еси, суть, будетъ</li>
-    <li>SCONJ: будет</li>
     <li>VERB: бьет, есть, пожалуй, пожалꙋи, бьетъ, вели, бью, нет, учнутъ, пожалуи</li>
   </ul>
   </li>
@@ -181,14 +180,6 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
   <ul>
     <li>AUX: было, были, былъ, был, была</li>
     <li>VERB: велѣлъ, послал, писал, поколол, приложил, было, велел, послалъ, дал, подалъ</li>
-  </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Sup
-  <ul>
-    <li>VERB: податъ</li>
   </ul>
   </li>
 </ul>
@@ -273,7 +264,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
 </ul>
 
 <ul>
-  <li>Adnum
+  <li>Count
     <ul>
       <li>ADJ: дългѣи</li>
       <li>NOUN: стороне, стерляди, срока, дес., десятины, человека, денги, леща, недели, подводы</li>
@@ -322,8 +313,7 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
       <li>NUM: 1, единъ, один, одна, однова, одном, одною, ѡдинъ, 18, 207</li>
       <li>PRON: что, ево, ты, тебѣ, я, его, ему, тебе, мнѣ, онъ</li>
       <li>PROPN: Москвѣ, Кунгурѣ, Ивановичю, Борису, Ивана, Москве, Петр, Григорья, Иванъ, Фальк</li>
-      <li>SCONJ: будет, иже</li>
-      <li>SCONJ-Fin: будет</li>
+      <li>SCONJ: иже</li>
       <li>VERB-Fin: бьет, есть, пожалуй, пожалꙋи, бьетъ, вели, бью, нет, пожалуи, смилуйся</li>
       <li>VERB-Part: велѣно, написано, писано, велено, дана, прислано, привито, дано, отпущена, посажено</li>
       <li>VERB-PartRes: велѣлъ, послал, писал, поколол, приложил, было, велел, послалъ, дал, подалъ</li>
@@ -495,7 +485,6 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
   <li>Short
     <ul>
       <li>ADJ: государева, государеву, велики, самъ, государевы, здорово, многи, пьян, возможно, пьяна</li>
-      <li>AUX-Part: сущу</li>
       <li>DET: каковы, какова, колика, такова, таковъ, толику</li>
       <li>VERB-Part: велѣно, написано, писано, посланы, сажены, велено, дана, прислано, взяты, глаголюще</li>
     </ul>
@@ -533,7 +522,6 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
       <li>VERB-Inf: велеть, взять, подать, отпустить, послати, послать, прислать, дати, выбрать, доложить</li>
       <li>VERB-Part: велѣно, написано, писано, посланы, сажены, велено, дана, прислано, взяты, привито</li>
       <li>VERB-PartRes: велѣлъ, послал, поколол, приложил, велел, послалъ, дал, подалъ, пожаловалъ, учал</li>
-      <li>VERB-Sup: податъ</li>
     </ul>
   </li>
 </ul>
@@ -568,7 +556,6 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
     <ul>
       <li>AUX: бы, есть, есте, будет, будутъ, бысть, еси, суть, будетъ, бꙋдет</li>
       <li>AUX-Fin: есть, бы, есте, будет, будутъ, бысть, еси, суть, будетъ, бꙋдет</li>
-      <li>SCONJ-Fin: будет</li>
       <li>VERB-Fin: бьет, есть, бьетъ, бью, нет, учнутъ, бꙋдет, нетъ, придет, рече</li>
       <li>VERB-PartRes: хотел</li>
     </ul>
@@ -584,7 +571,6 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
     <ul>
       <li>AUX-Conv: будучи</li>
       <li>AUX-Fin: будет, будутъ, будетъ, бꙋдет, бꙋдетъ, бꙋдеш[ь], будеть, бꙋдꙋт</li>
-      <li>SCONJ-Fin: будет</li>
       <li>VERB-Fin: учнутъ, бꙋдет, придет, укажешь, будеть, доведется, пошлю, сотворит, станет, доведетца</li>
       <li>VERB-Inf: вступаться, ослушаться</li>
       <li>VERB-PartRes: взял, далъ, дошла, послал</li>
@@ -638,13 +624,11 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
       <li>AUX-Inf: быть, быти</li>
       <li>AUX-Part: сущу</li>
       <li>AUX-PartRes: было, былъ, были, была, был</li>
-      <li>SCONJ-Fin: будет</li>
       <li>VERB-Conv: вышед, смотря, взявъ, выбравъ, написавъ, пропустя, прося, усмотря, Исполняя, бивъ</li>
       <li>VERB-Fin: бьет, есть, пожалуй, пожалꙋи, бьетъ, вели, бью, нет, учнутъ, пожалуи</li>
       <li>VERB-Inf: имати, платить, сбирать, велеть, взять, чинить, быть, давать, подать, сечь</li>
       <li>VERB-Part: глаголюще, писавы, Покаряющаяся, Сый, бывшихъ, взем, видящи, воздыхающе, возложьше, враждующихъ</li>
       <li>VERB-PartRes: велѣлъ, послал, писал, поколол, приложил, было, велел, послалъ, дал, подалъ</li>
-      <li>VERB-Sup: податъ</li>
     </ul>
   </li>
 </ul>
@@ -802,7 +786,6 @@ Proceedings of the International Conference Dialogue 2019. Moscow, May 29 - June
       <li>AUX-Fin: есть, бы, будет, будутъ, бысть, суть, будетъ, бꙋдет, е., бяху</li>
       <li>DET: яже</li>
       <li>PRON: ево, его, ему, они, имъ, ихъ, онъ, их, он, него</li>
-      <li>SCONJ-Fin: будет</li>
       <li>VERB-Fin: бьет, есть, бьетъ, нет, учнутъ, бꙋдет, нетъ, придет, рече, родитца</li>
     </ul>
   </li>
@@ -941,7 +924,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Acc (57)</li>
       <li>VERB-Fin--PRON-Gen (7)</li>
       <li>VERB-Fin--PRON-Nom (2)</li>
-      <li>VERB-Inf--NOUN-Acc (187)</li>
+      <li>VERB-Inf--NOUN-Acc (188)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(о) (1)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(по) (1)</li>
       <li>VERB-Inf--NOUN-Dat (3)</li>
@@ -968,7 +951,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-PartRes--PRON-Acc (52)</li>
       <li>VERB-PartRes--PRON-Gen (7)</li>
       <li>VERB-PartRes--PRON-Nom (4)</li>
-      <li>VERB-Sup--NOUN-Acc (1)</li>
     </ul>
   </li>
 </ul>
@@ -991,7 +973,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Dat-ADP(о) (1)</li>
       <li>VERB-Fin--PRON-Ins (4)</li>
       <li>VERB-Inf--NOUN-Acc (1)</li>
-      <li>VERB-Inf--NOUN-Dat (83)</li>
+      <li>VERB-Inf--NOUN-Dat (84)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(въ) (1)</li>
       <li>VERB-Inf--NOUN-Ins (19)</li>
       <li>VERB-Inf--PRON-Dat (141)</li>
@@ -1006,7 +988,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-PartRes--NOUN-Ins (47)</li>
       <li>VERB-PartRes--PRON-Dat (62)</li>
       <li>VERB-PartRes--PRON-Ins (1)</li>
-      <li>VERB-Sup--NOUN-Dat (1)</li>
     </ul>
   </li>
 </ul>

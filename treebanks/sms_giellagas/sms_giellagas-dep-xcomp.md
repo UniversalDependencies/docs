@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-25 nodes (2%) are attached to their parents as `xcomp`.
+31 nodes (1%) are attached to their parents as `xcomp`.
 
-17 instances of `xcomp` (68%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.4.
+20 instances of `xcomp` (65%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.45161290322581.
 
-The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (11; 44% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (10; 40% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (4; 16% instances).
+The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (13; 42% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (11; 35% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (4; 13% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -23,10 +23,10 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 1 xcomp	color:blue
 1	Kueʹllen	kueʹll	NOUN	_	Case=Ess	2	xcomp	_	GTtags=Ess
-2	vuâjj	vuõjjâd	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3
+2	vuâjj	vuõjjâd	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	0	root	_	GTtags=Ind,Prs,Sg3
 3	ja	ja	CCONJ	_	_	5	cc	_	_
 4	låʹdden	låʹdd	NOUN	_	Case=Ess	5	xcomp	_	GTtags=Ess
-5	ǩeârdd	ǩeʹrdded	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
+5	ǩeârdd	ǩeʹrdded	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	2	conj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
@@ -39,10 +39,10 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 3 xcomp	color:blue
 1	Son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg3,Nom
-2	ǩiččlõõddi	ǩiččlõddâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Sg3
+2	ǩiččlõõddi	ǩiččlõddâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=2	0	root	_	GTtags=Ind,Prt,Sg3
 3	looppted	looppted	VERB	V	VerbForm=Inf	2	xcomp	_	GTtags=Inf
 4	tääbbaǩ	tääbbaǩ	NOUN	N	Case=Gen|Number=Sing	5	obj	_	GTtags=Sg,Gen
-5	puälddmõõžž	pueʹldded	VERB	V	Case=Acc|Derivation=Vnoun|Number=Sing	3	obj	_	GTtags=Sg,Acc
+5	puälddmõõžž	pueʹldded	VERB	V	Case=Acc|Number=Sing|VerbForm=Vnoun	3	obj	_	GTtags=Sg,Acc
 6	da	da	CCONJ	CC	_	8	cc	_	_
 7	veeiʹn	veiʹnn	NOUN	N	Case=Gen|Number=Sing	8	obj	_	GTtags=Sg,Gen
 8	juukkmõõžž	juukkmõš	NOUN	N	Case=Acc|Number=Sing	5	conj	_	GTtags=Sg,Acc|SpaceAfter=No
@@ -64,7 +64,7 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 5	da	da	CCONJ	CC	_	6	cc	_	_
 6	mättat	mättʼted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Sg3
 7	što	što	SCONJ	CS	_	9	mark	_	_
-8	mäʹhtt	mäʹhtt	ADV	Adv	_	9	advmod	_	_
+8	mäʹhtt	mäʹhtt	ADV	Adv	_	9	advmod:mmod	_	_
 9	âlgg	õlggâd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	ccomp	_	GTtags=Ind,Prs,Sg3
 10	jååʹtted	jååʹtted	VERB	V	VerbForm=Inf	9	xcomp	_	GTtags=Inf
 11	što	što	SCONJ	CS	_	14	mark	_	_

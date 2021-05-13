@@ -28,7 +28,7 @@ The following 47 pairs of parts of speech are connected with `obl:cmpr`: <tt><a 
 3	odpowiadać	odpowiadać	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	0:root	_
 4	przed	przed	ADP	prep:inst:nwok	AdpType=Prep|Variant=Short	5	case	5:case	Case=Ins
 5	sądem	sąd	NOUN	subst:sg:inst:m3	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	3	obl	3:obl	_
-6	jak	jak	SCONJ	comp	ConjType=Cmpr	7	mark	7:mark	_
+6	jak	jak	SCONJ	comp	ConjType=Comp	7	mark	7:mark	_
 7	dorośli	dorosły	NOUN	subst:pl:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Plur	3	obl:cmpr	3:obl:cmpr	SpaceAfter=No
 8	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	_
 
@@ -46,7 +46,7 @@ The following 47 pairs of parts of speech are connected with `obl:cmpr`: <tt><a 
 3	umarła	umrzeć	VERB	praet:sg:f:perf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 4	m	być	AUX	aglt:sg:pri:imperf:nwok	Aspect=Imp|Clitic=Yes|Number=Sing|Person=1|Variant=Short	3	aux:clitic	3:aux:clitic	_
 5	wcześniej	wcześnie	ADV	adv:com	Degree=Cmp	3	advmod	3:advmod	_
-6	niż	niż	SCONJ	comp	ConjType=Cmpr	8	mark	8:mark	_
+6	niż	niż	SCONJ	comp	ConjType=Comp	8	mark	8:mark	_
 7	moja	mój	DET	adj:sg:nom:f:pos	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	det:poss	8:det:poss	_
 8	obietnica	obietnica	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	5	obl:cmpr	5:obl:cmpr	SpaceAfter=No
 9	.	.	PUNCT	interp	PunctType=Peri	3	punct	3:punct	_
@@ -65,7 +65,7 @@ The following 47 pairs of parts of speech are connected with `obl:cmpr`: <tt><a 
 3	że	że	SCONJ	comp	_	5	mark	5:mark	_
 4	jest	być	AUX	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	5:cop	_
 5	ważniejsza	ważny	ADJ	adj:sg:nom:f:com	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	1	ccomp	1:ccomp	_
-6	niż	niż	SCONJ	comp	ConjType=Cmpr	7	mark	7:mark	_
+6	niż	niż	SCONJ	comp	ConjType=Comp	7	mark	7:mark	_
 7	dzieci	dziecko	NOUN	subst:pl:nom:n:col	Case=Nom|Gender=Neut|Number=Plur|NumType=Sets	5	obl:cmpr	5:obl:cmpr	SpaceAfter=No
 8	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	_
 

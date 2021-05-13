@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="lzh_kyoto-dep-nsubj.html">nsubj</a></tt>.
 
-13 nodes (0%) are attached to their parents as `nsubj:pass`.
+15 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-13 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.84615384615385.
+15 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.2.
 
-The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (5; 38% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (3; 23% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (3; 23% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (1; 8% instances).
+The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (5; 33% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (4; 27% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt> (3; 20% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt> (1; 7% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
@@ -38,6 +38,19 @@ The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 nsubj:pass	color:blue
+1	九齡	九齡	PROPN	n,名詞,人,名	NameType=Giv	3	nsubj:pass	_	Gloss=[given-name]|SpaceAfter=No
+2	力	力	ADV	v,動詞,行為,動作	VerbForm=Conv	3	advmod	_	Gloss=force|SpaceAfter=No
+3	爭	爭	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=quarrel|SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
@@ -49,19 +62,6 @@ The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 4	治	治	VERB	v,動詞,行為,動作	_	0	root	_	Gloss=govern|SpaceAfter=No
 5	於	於	ADP	v,前置詞,基盤,*	_	6	case	_	Gloss=at|SpaceAfter=No
 6	人	人	NOUN	n,名詞,人,人	_	4	obl	_	Gloss=person|SpaceAfter=No
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 nsubj:pass	color:blue
-1	九齡	九齡	PROPN	n,名詞,人,名	NameType=Giv	3	nsubj:pass	_	Gloss=[given-name]|SpaceAfter=No
-2	力	力	ADV	v,動詞,行為,動作	VerbForm=Conv	3	advmod	_	Gloss=force|SpaceAfter=No
-3	爭	爭	VERB	v,動詞,行為,交流	_	0	root	_	Gloss=quarrel|SpaceAfter=No
 
 ~~~
 

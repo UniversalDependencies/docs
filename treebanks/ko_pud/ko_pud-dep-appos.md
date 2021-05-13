@@ -24,7 +24,7 @@ The following 10 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 9 12 appos	color:blue
 1	오즈본은	오즈본	PROPN	NNP+CM	Case=Nom|Polite=Form	15	nsubj	_	MSeg=오즈본-은|Translit=.o.jeu.bon.eun|LTranslit=.o.jeu.bon
 2	7	7	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|Translit=7|LTranslit=_
-3	월에	월	NOUN	NNB+CM	Case=Advb|Polite=Form	4	advmod	_	MSeg=월-에|Translit=.weol.e|LTranslit=.weol
+3	월에	월	NOUN	NNB+CM	Polite=Form	4	advmod	_	MSeg=월-에|Translit=.weol.e|LTranslit=.weol
 4	해고된	_	NOUN	NN	_	5	acl:relcl	_	SpaceAfter=No|Translit=.hae.go.doen|LTranslit=_
 5	후	_	NOUN	NN	_	15	advmod	_	Translit=.hu|LTranslit=_
 6	한	_	DET	DT	_	9	det	_	Translit=.han|LTranslit=_
@@ -35,7 +35,7 @@ The following 10 pairs of parts of speech are connected with `appos`: <tt><a hre
 11	speakers	_	NOUN	NN	_	12	compound	_	Translit=speakers|LTranslit=_
 12	agency	_	NOUN	NN	_	9	appos	_	SpaceAfter=No|Translit=agency|LTranslit=_
 13	)	)	PUNCT	)	_	12	punct	_	SpaceAfter=No|Translit=)|LTranslit=_
-14	에	에	PART	CM	Case=Advb|Polite=Form	9	dep:prt	_	Translit=.e|LTranslit=_
+14	에	에	PART	CM	Polite=Form	9	case	_	Translit=.e|LTranslit=_
 15	재취업했다	_	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=.jae.chwi.eob.haess.da|LTranslit=_
 16	.	.	PUNCT	.	_	15	punct	_	Translit=.|LTranslit=_
 
@@ -54,7 +54,7 @@ The following 10 pairs of parts of speech are connected with `appos`: <tt><a hre
 4	Davis	_	PROPN	NNP	_	2	appos	_	Translit=Davis|LTranslit=_
 5	Cup	_	PROPN	NNP	_	4	flat:name	_	SpaceAfter=No|Translit=Cup|LTranslit=_
 6	)	)	PUNCT	)	_	4	punct	_	SpaceAfter=No|Translit=)|LTranslit=_
-7	이	이	PART	CM	Case=Nom|Polite=Form	2	dep:prt	_	Translit=.i|LTranslit=_
+7	이	이	PART	CM	Case=Nom|Polite=Form	2	case	_	Translit=.i|LTranslit=_
 8	기여를	기여	NOUN	NN+CM	Case=Acc|Polite=Form	9	obj	_	MSeg=기여-를|Translit=.gi.yeo.reul|LTranslit=.gi.yeo
 9	했는지도	했는지	PART	VV+AP	Tense=Past|VerbForm=Fin	10	csubj	_	MSeg=했는지-도|Translit=.haess.neun.ji.do|LTranslit=.haess.neun.ji
 10	의문	_	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=.yi.mun|LTranslit=_
@@ -73,7 +73,7 @@ The following 10 pairs of parts of speech are connected with `appos`: <tt><a hre
 1	앤디가	앤디	PROPN	NNP+CM	Case=Nom|Polite=Form	13	nsubj	_	MSeg=앤디-가|Translit=.aen.di.ga|LTranslit=.aen.di
 2	4	4	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|Translit=4|LTranslit=_
 3	월	_	NOUN	NNB	_	5	obl:tmod	_	Translit=.weol|LTranslit=_
-4	몬테카를로에서	몬테카를로	PROPN	NNP+CM	Case=Advb|Polite=Form	5	advmod	_	MSeg=몬테카를로-에서|Translit=.mon.te.ka.reul.ro.e.seo|LTranslit=.mon.te.ka.reul.ro
+4	몬테카를로에서	몬테카를로	PROPN	NNP+CM	Polite=Form	5	advmod	_	MSeg=몬테카를로-에서|Translit=.mon.te.ka.reul.ro.e.seo|LTranslit=.mon.te.ka.reul.ro
 5	열린	_	VERB	VV	Form=Adn|Tense=Past|Voice=Pass	6	acl:relcl	_	Translit=.yeol.rin|LTranslit=_
 6	베누아	_	PROPN	NNP	_	13	advmod	_	Translit=.be.nu.a|LTranslit=_
 7	페르	_	PROPN	NNP	_	6	flat:name	_	SpaceAfter=No|Translit=.pe.reu|LTranslit=_
@@ -81,7 +81,7 @@ The following 10 pairs of parts of speech are connected with `appos`: <tt><a hre
 9	Benoît	_	PROPN	NNP	_	6	appos	_	Translit=Benoît|LTranslit=_
 10	Paire	_	PROPN	NNP	_	9	flat:name	_	SpaceAfter=No|Translit=Paire|LTranslit=_
 11	)	)	PUNCT	)	_	9	punct	_	SpaceAfter=No|Translit=)|LTranslit=_
-12	에	에	PART	CM	Case=Advb|Polite=Form	6	dep:prt	_	Translit=.e|LTranslit=_
+12	에	에	PART	CM	Polite=Form	6	case	_	Translit=.e|LTranslit=_
 13	출전했을	_	NOUN	NN	_	14	acl:relcl	_	SpaceAfter=No|Translit=.chul.jeon.haess.eul|LTranslit=_
 14	때가	때	NOUN	NN+CM	Case=Nom|Polite=Form	17	nsubj	_	MSeg=때-가|Translit=.ddae.ga|LTranslit=.ddae
 15	바로	_	ADV	RB	_	17	advmod	_	Translit=.ba.ro|LTranslit=_

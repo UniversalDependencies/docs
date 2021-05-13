@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Danish-DDT: Relations: `obl:tmod`
 
 This relation is a language-specific subtype of <tt><a href="da_ddt-dep-obl.html">obl</a></tt>.
-There are also 1 other language-specific subtypes of `obl`: <tt><a href="da_ddt-dep-obl-loc.html">obl:loc</a></tt>.
+There are also 1 other language-specific subtypes of `obl`: <tt><a href="da_ddt-dep-obl-lmod.html">obl:lmod</a></tt>.
 
 132 nodes (0%) are attached to their parents as `obl:tmod`.
 

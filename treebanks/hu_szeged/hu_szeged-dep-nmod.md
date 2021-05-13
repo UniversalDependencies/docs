@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Hungarian-Szeged: Relations: `nmod`
 
 This relation is universal.
-There are 4 language-specific subtypes of `nmod`: <tt><a href="hu_szeged-dep-nmod-att.html">nmod:att</a></tt>, <tt><a href="hu_szeged-dep-nmod-attlvc.html">nmod:attlvc</a></tt>, <tt><a href="hu_szeged-dep-nmod-obl.html">nmod:obl</a></tt>, <tt><a href="hu_szeged-dep-nmod-obllvc.html">nmod:obllvc</a></tt>.
+There are 3 language-specific subtypes of `nmod`: <tt><a href="hu_szeged-dep-nmod-att.html">nmod:att</a></tt>, <tt><a href="hu_szeged-dep-nmod-attlvc.html">nmod:attlvc</a></tt>, <tt><a href="hu_szeged-dep-nmod-obl.html">nmod:obl</a></tt>.
 
 66 nodes (0%) are attached to their parents as `nmod`.
 
@@ -24,13 +24,13 @@ The following 13 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 8	fgColor:white
 # visual-style 8 2 nmod	color:blue
 1	Kiszivárogtatott	ki+szivárog	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Cau	2	amod:att	_	_
-2	információ	információ	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	8	nmod	_	ToDo=nmod
+2	információ	információ	NOUN	_	Case=Nom|Number=Sing	8	nmod	_	ToDo=nmod
 3	szerint	szerint	ADP	_	_	2	case	_	_
 4	a	a	DET	_	Definite=Def|PronType=Art	6	det	_	_
-5	valódi	valódi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	6	amod:att	_	_
-6	ok	ok	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	8	nsubj	_	_
+5	valódi	valódi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	amod:att	_	_
+6	ok	ok	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	_
 7	az	az	DET	_	Definite=Def|PronType=Art	8	det	_	_
-8	értékesítés	értékesítés	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	0	root	_	SpaceAfter=No
+8	értékesítés	értékesítés	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
@@ -43,14 +43,14 @@ The following 13 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 7	fgColor:white
 # visual-style 7 5 nmod	color:blue
 1	Az	az	DET	_	Definite=Def|PronType=Art	3	det	_	_
-2	ideiglenes	ideiglenes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	3	amod:att	_	_
-3	helyettesítés	helyettesítés	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	4	nmod:att	_	_
-4	dátumáról	dátum	NOUN	_	Case=Del|Number=Sing|Number[psed]=None|Number[psor]=Sing|Person[psor]=3	8	nmod:obl	_	_
-5	maga	maga	PRON	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|PronType=Prs	7	nmod	_	_
+2	ideiglenes	ideiglenes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	3	amod:att	_	_
+3	helyettesítés	helyettesítés	NOUN	_	Case=Nom|Number=Sing	4	nmod:att	_	_
+4	dátumáról	dátum	NOUN	_	Case=Del|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obl	_	_
+5	maga	maga	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	nmod	_	_
 6	az	az	DET	_	Definite=Def|PronType=Art	7	det	_	_
-7	államfő	államfő	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	8	nsubj	_	_
+7	államfő	államfő	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	_
 8	dönt	dönt	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-9	írásban	írás	NOUN	_	Case=Ine|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	8	nmod:obl	_	SpaceAfter=No
+9	írásban	írás	NOUN	_	Case=Ine|Number=Sing	8	obl	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
@@ -77,7 +77,7 @@ The following 13 pairs of parts of speech are connected with `nmod`: <tt><a href
 13	a	a	DET	_	Definite=Def|PronType=Art	14	det	_	_
 14	befektetők	befektető	NOUN	_	Case=Nom|Number=Plur	20	nsubj	_	_
 15	az	az	DET	_	Definite=Def|PronType=Art	16	det	_	_
-16	árfolyam-emelkedéssel	árfolyam-emelkedés	NOUN	_	Case=Ins|Number=Sing	20	nmod:obl	_	_
+16	árfolyam-emelkedéssel	árfolyam-emelkedés	NOUN	_	Case=Ins|Number=Sing	20	obl	_	_
 17	a	a	DET	_	Definite=Def|PronType=Art	19	det	_	_
 18	lendületes	lendületes	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	19	amod:att	_	_
 19	terjeszkedést	terjeszkedés	NOUN	_	Case=Acc|Number=Sing	20	obj	_	_

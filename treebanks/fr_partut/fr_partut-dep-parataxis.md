@@ -81,7 +81,7 @@ The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a 
 10	soit	être	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
 11	dit	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	parataxis	_	_
 12	en	en	ADP	E	_	13	mark	_	_
-13	passant	passer	VERB	V	VerbForm=Ger	11	advcl	_	SpaceAfter=No
+13	passant	passer	VERB	V	Tense=Pres|VerbForm=Part	11	advcl	_	SpaceAfter=No
 14	.	.	PUNCT	FS	_	5	punct	_	_
 
 ~~~

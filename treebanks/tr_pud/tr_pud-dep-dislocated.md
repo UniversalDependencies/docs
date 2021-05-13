@@ -24,7 +24,7 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 5 16 dislocated	color:blue
 1	Sahip	sahip	ADJ	JJ	Number=Sing	4	acl	_	_
 2	olduğu	ol	AUX	VJ	Number=Sing|Number[psor]=Sing|Person[psor]=3|Polarity=Pos	1	cop	_	_
-3	bu	bu	DET	DT	Definite=Def|Number=Sing|Polarity=Pos	4	det	_	_
+3	bu	bu	DET	DT	Definite=Def|Polarity=Pos	4	det	_	_
 4	enerjinin	enerji	NOUN	NN	Case=Gen|Number=Sing	5	nmod:poss	_	_
 5	kaynağı	kaynağ	NOUN	NN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	nsubj	_	_
 6	ne	ne	PRON	WP	Number=Sing|PronType=Int	0	root	_	SpaceAfter=No
@@ -33,9 +33,9 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 9	ya	ya	ADV	RB	_	16	advmod	_	_
 10	şok	şok	NOUN	NN	Number=Sing	11	nmod:poss	_	_
 11	dalgalarını	dalga	NOUN	NN	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	12	obj	_	_
-12	tetikleyecek	tetikley	NOUN	VN	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut	14	xcomp	_	_
+12	tetikleyecek	tetikley	VERB	VN	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Vnoun	14	xcomp	_	_
 13	kadar	kadar	ADP	IN	_	12	case	_	_
-14	gür	gür	ADV	JJ	Number=Sing	15	advmod	_	_
+14	gür	gür	ADV	JJ	_	15	advmod	_	_
 15	çıkan	çık	VERB	VJ	Number=Sing|Polarity=Pos	16	acl	_	_
 16	sesinin	ses	NOUN	NN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	dislocated	_	SpaceAfter=No
 17	?	?	PUNCT	.	_	16	punct	_	_
@@ -59,7 +59,7 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 8	çok	çok	ADV	RB	_	9	advmod	_	_
 9	hoşuna	hoşuna	NOUN	NN	Case=Dat|Number=Sing	12	acl	_	_
 10	gidecek	git	VERB	VJ	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut	9	compound:lvc	_	_
-11	bir	bir	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	12	det	_	_
+11	bir	bir	DET	DT	Definite=Ind|Polarity=Pos	12	det	_	_
 12	satır	satır	NOUN	NN	Case=Nom|Number=Sing	13	nsubj	_	_
 13	var	_	ADJ	JJ	Polarity=Pos	0	root	_	_
 14	dı	_	AUX	AUX	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	13	cop	_	_
@@ -91,7 +91,7 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 8	:	:	PUNCT	:	_	18	punct	_	_
 9	"	"	PUNCT	``	_	18	punct	_	SpaceAfter=No
 10	Açıkçası	Açıkça	NOUN	NN	Number=Sing	18	obl	_	_
-11	bir	bir	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	13	det	_	_
+11	bir	bir	DET	DT	Definite=Ind|Polarity=Pos	13	det	_	_
 12	genel	genel	ADJ	JJ	Number=Sing	13	amod	_	_
 13	seçim	seçim	NOUN	NN	Case=Nom|Number=Sing	18	nsubj	_	_
 14	hükumetin	hükumet	NOUN	NN	Case=Gen|Number=Sing	15	nmod:poss	_	_

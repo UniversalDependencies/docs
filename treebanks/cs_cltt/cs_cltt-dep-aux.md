@@ -36,7 +36,7 @@ The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="
 11	dani	daň	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	8	obl:arg	_	_
 12	a	a	CCONJ	J^-------------	_	13	cc	_	LId=a-1
 13	vykazovat	vykazovat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	8	conj	_	_
-14	ji	on	PRON	PPFS4--3-------	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	_	SpaceAfter=No|LId=on-1
+14	ji	on	PRON	PPFS4--3-------	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	13	obj	_	SpaceAfter=No|LId=on-1
 15	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
 ~~~

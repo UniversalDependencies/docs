@@ -12,20 +12,20 @@ It occurs with 3 different values: `1`, `2`, `3`.
 49436 tokens (25%) have a non-empty value of `Person`.
 9606 types (33%) occur at least once with a non-empty value of `Person`.
 1776 lemmas (21%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (27132; 14% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (11718; 6% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (7043; 4% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (3543; 2% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (27133; 14% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (11718; 6% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (7042; 4% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt> (3543; 2% instances).
 
 ### `VERB`
 
-27132 <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> tokens (67% of all `VERB` tokens) have a non-empty value of `Person`.
+27133 <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> tokens (67% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (27132; 100%), <tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (27132; 100%), <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (27132; 100%), <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (23744; 88%), <tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19675; 73%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18133; 67%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (15950; 59%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (27133; 100%), <tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (27133; 100%), <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (27133; 100%), <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (23744; 88%), <tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19675; 73%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18134; 67%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (15950; 59%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (4886; 18% of non-empty `Person`): <em>dico, velim, vidi, scio, habeo, scripsi, dixi, faciam, veni, video</em>
 * `2` (4387; 16% of non-empty `Person`): <em>nolite, scribis, habes, vade, quaeris, scitis, habetis, videte, fac, noli</em>
-* `3` (17859; 66% of non-empty `Person`): <em>dixit, ait, dicit, venit, habet, dixerunt, misit, potest, fecit, respondit</em>
-* `EMPTY` (13558): <em>dicens, factum, dicentes, facere, facta, fieri, respondens, scriptum, posse, factus</em>
+* `3` (17860; 66% of non-empty `Person`): <em>dixit, ait, dicit, venit, habet, dixerunt, misit, potest, fecit, respondit</em>
+* `EMPTY` (13559): <em>dicens, factum, dicentes, facere, facta, fieri, respondens, scriptum, posse, factus</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -79,16 +79,16 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `AUX`
 
-7043 <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Person`.
+7042 <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7043; 100%), <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7042; 100%), <tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5997; 85%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (5470; 78%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5087; 72%), <tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5019; 71%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7042; 100%), <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7042; 100%), <tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5997; 85%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (5470; 78%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5086; 72%), <tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5019; 71%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (620; 9% of non-empty `Person`): <em>sum, sumus, essem, sim, eram, simus, essemus, ero, erimus, fui</em>
 * `2` (461; 7% of non-empty `Person`): <em>estis, es, sis, sitis, estote, esses, eritis, eris, esto, essetis</em>
-* `3` (5962; 85% of non-empty `Person`): <em>est, sunt, erat, sit, esset, erant, fuit, erit, sint, fuerit</em>
-* `EMPTY` (804): <em>esse, fore, fuisse, futurum, futurus, futura, futuram, futuros, futurorum, futurae</em>
+* `3` (5961; 85% of non-empty `Person`): <em>est, sunt, erat, sit, esset, erant, fuit, erit, sint, fuerit</em>
+* `EMPTY` (803): <em>esse, fore, fuisse, futurum, futurus, futura, futuram, futuros, futurorum, futurae</em>
 
 <table>
   <tr><th>Paradigm <i>sum</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -116,18 +116,18 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>simus</em></td><td><em>sitis</em></td><td><em>sint</em></td></tr>
 </table>
 
-### `ADJ`
+### `DET`
 
-3543 <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> tokens (17% of all `ADJ` tokens) have a non-empty value of `Person`.
+3543 <tt><a href="la_proiel-pos-DET.html">DET</a></tt> tokens (45% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `ADJ` and `Person` co-occurred: <tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (3543; 100%), <tt><a href="la_proiel-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (3543; 100%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2305; 65%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="la_proiel-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (3543; 100%), <tt><a href="la_proiel-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2516; 71%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2305; 65%).
 
-`ADJ` tokens may have the following values of `Person`:
+`DET` tokens may have the following values of `Person`:
 
 * `1` (1511; 43% of non-empty `Person`): <em>mea, meum, nostri, meo, nostra, meam, nostris, meus, nostrum, mei</em>
 * `2` (1005; 28% of non-empty `Person`): <em>tua, tuum, tuo, vestra, tuam, tuus, tuis, tui, tuae, vestrum</em>
 * `3` (1027; 29% of non-empty `Person`): <em>suis, suam, sua, suum, suo, suos, suae, suas, sui, suorum</em>
-* `EMPTY` (16829): <em>haec, illi, hoc, illis, nihil, illum, omnia, his, omnes, ille</em>
+* `EMPTY` (4331): <em>omnes, hoc, omnibus, omni, omnis, ipsum, his, omnia, omnium, omnem</em>
 
 ## Relations with Agreement in `Person`
 
@@ -139,7 +139,7 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>AUX --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (33; 69%),
 <tt>AUX --[<tt><a href="la_proiel-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (16; 70%),
 <tt>VERB --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> AUX</tt> (16; 53%),
+<tt>PRON --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> DET</tt> (14; 64%),
 <tt>VERB --[<tt><a href="la_proiel-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (14; 100%),
-<tt>AUX --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> AUX</tt> (13; 93%),
-<tt>PRON --[<tt><a href="la_proiel-dep-acl.html">acl</a></tt>]--> AUX</tt> (8; 67%).
+<tt>AUX --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> AUX</tt> (13; 93%).
 

@@ -12,7 +12,7 @@ It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 102 tokens (32%) have a non-empty value of `Tense`.
 42 types (40%) occur at least once with a non-empty value of `Tense`.
 24 lemmas (39%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="wbp_ufal-pos-VERB.html">VERB</a></tt> (55; 18% instances), <tt><a href="wbp_ufal-pos-AUX.html">AUX</a></tt> (47; 15% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="wbp_ufal-pos-VERB.html">VERB</a></tt> (55; 17% instances), <tt><a href="wbp_ufal-pos-AUX.html">AUX</a></tt> (47; 15% instances).
 
 ### `VERB`
 
@@ -35,18 +35,20 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-47 <tt><a href="wbp_ufal-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Tense`.
+47 <tt><a href="wbp_ufal-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="wbp_ufal-feat-Person-dat.html">Person[dat]</a></tt><tt>=EMPTY</tt> (42; 89%), <tt><a href="wbp_ufal-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (34; 72%), <tt><a href="wbp_ufal-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (34; 72%), <tt><a href="wbp_ufal-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (30; 64%), <tt><a href="wbp_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (30; 64%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="wbp_ufal-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (33; 70%), <tt><a href="wbp_ufal-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (33; 70%), <tt><a href="wbp_ufal-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (29; 62%), <tt><a href="wbp_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (29; 62%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Fut` (2; 4% of non-empty `Tense`): <em>kapirna, kapirnarla</em>
 * `Pres` (45; 96% of non-empty `Tense`): <em>ka, kaju, karnangku, karla, karna, kalu, kanpaju, karnapalangu, kalujana, kanpa</em>
+* `EMPTY` (3): <em>rna</em>
 
 <table>
   <tr><th>Paradigm <i>ka</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th></tr>
   <tr><td><tt>_</tt></td><td><em>ka</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="wbp_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="wbp_ufal-feat-Number-dat.html">Number[dat]</a></tt><tt>=Sing</tt>|<tt><a href="wbp_ufal-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="wbp_ufal-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="wbp_ufal-feat-Person-dat.html">Person[dat]</a></tt><tt>=3</tt>|<tt><a href="wbp_ufal-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt></tt></td><td><em>karlajinta</em></td><td></td></tr>
   <tr><td><tt><tt><a href="wbp_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="wbp_ufal-feat-Number-obj.html">Number[obj]</a></tt><tt>=Dual</tt>|<tt><a href="wbp_ufal-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="wbp_ufal-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt></tt></td><td><em>karnapalangu</em></td><td></td></tr>
   <tr><td><tt><tt><a href="wbp_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="wbp_ufal-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="wbp_ufal-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="wbp_ufal-feat-Person-obj.html">Person[obj]</a></tt><tt>=2</tt></tt></td><td><em>karnangku</em></td><td></td></tr>
   <tr><td><tt><tt><a href="wbp_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="wbp_ufal-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="wbp_ufal-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="wbp_ufal-feat-Person-obj.html">Person[obj]</a></tt><tt>=1</tt></tt></td><td><em>kanpaju</em></td><td></td></tr>
@@ -57,11 +59,10 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><td><tt><tt><a href="wbp_ufal-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="wbp_ufal-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>kalu</em></td><td></td></tr>
   <tr><td><tt><tt><a href="wbp_ufal-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="wbp_ufal-feat-Person-obj.html">Person[obj]</a></tt><tt>=1</tt></tt></td><td><em>kaju</em></td><td></td></tr>
   <tr><td><tt><tt><a href="wbp_ufal-feat-Person-dat.html">Person[dat]</a></tt><tt>=3</tt></tt></td><td><em>karla</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="wbp_ufal-feat-Person-dat.html">Person[dat]</a></tt><tt>=3</tt>|<tt><a href="wbp_ufal-feat-Person-sdat.html">Person[sdat]</a></tt><tt>=3</tt></tt></td><td><em>karlajinta</em></td><td></td></tr>
 </table>
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="wbp_ufal-dep-aux.html">aux</a></tt>]--> AUX</tt> (44; 96%).
+<tt>VERB --[<tt><a href="wbp_ufal-dep-aux.html">aux</a></tt>]--> AUX</tt> (44; 90%).
 

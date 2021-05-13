@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1051 nodes (2%) are attached to their parents as `mark`.
+1050 nodes (2%) are attached to their parents as `mark`.
 
-983 instances of `mark` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.32350142721218.
+953 instances of `mark` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.30666666666667.
 
-The following 7 pairs of parts of speech are connected with `mark`: <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-PART.html">PART</a></tt> (977; 93% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt>-<tt><a href="af_afribooms-pos-PART.html">PART</a></tt> (62; 6% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt>-<tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt>-<tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `mark`: <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-PART.html">PART</a></tt> (1000; 95% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt>-<tt><a href="af_afribooms-pos-PART.html">PART</a></tt> (17; 2% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-PART.html">PART</a></tt> (14; 1% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt>-<tt><a href="af_afribooms-pos-PART.html">PART</a></tt> (8; 1% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt>-<tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -39,51 +39,35 @@ The following 7 pairs of parts of speech are connected with `mark`: <tt><a href=
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 7 mark	color:blue
-1	Ons	ons	PRON	PEMP	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
-2	is	is	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	6	cop	_	_
-3	nie	nie	ADV	BS	Degree=Pos	2	advmod	_	_
-4	'n	'n	DET	LO	Definite=Ind|PronType=Art	6	det	_	_
-5	waterryke	waterryk	ADJ	ASA	AdjType=Attr|Case=Nom|Degree=Pos	6	amod	_	_
-6	land	land	NOUN	NSE	Number=Sing	0	root	_	_
-7	nie	nie	PART	UPO	PartType=Neg	2	mark	_	SpaceAfter=No
-8	.	.	PUNCT	ZE	_	2	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 mark	color:blue
+1	Hierdie	hierdie	DET	PA	PronType=Dem	2	det	_	_
+2	waardes	waarde	NOUN	NSM	Number=Plur	6	nsubj	_	_
+3	is	wees	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	6	cop	_	_
+4	nie	nie	ADV	BS	Degree=Pos	6	advmod	_	_
+5	altyd	altyd	ADV	BS	Degree=Pos	6	advmod	_	_
+6	ooglopend	ooglopend	ADJ	ASP	AdjType=Pred|Case=Nom|Degree=Pos	0	root	_	_
+7	nie	nie	PART	UPO	PartType=Neg	6	mark	_	SpaceAfter=No
+8	.	.	PUNCT	ZE	_	6	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 23	bgColor:blue
-# visual-style 23	fgColor:white
-# visual-style 23 18 mark	color:blue
-1	En	en	CCONJ	KN	_	14	amod	_	_
-2	omdat	omdat	SCONJ	KO	_	14	amod	_	_
-3	ons	ons	PRON	PEMP	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
-4	nie	nie	ADV	BS	Degree=Pos	6	advmod	_	_
-5	genoeg	genoeg	ADV	BS	Degree=Pos	6	advmod	_	_
-6	gespaar	spaar	VERB	VVHOO	Subcat=Intr|Tense=Past|VerbForm=Part	2	dep	_	_
-7	het	het	AUX	VUOT	Tense=Pres|VerbForm=Fin,Inf|VerbType=Aux	6	aux	_	_
-8	nie	nie	PART	UPO	PartType=Neg	6	advmod	_	SpaceAfter=No
-9	,	,	PUNCT	ZM	_	6	punct	_	_
-10	moes	moet	AUX	VVUOM	Tense=Past|VerbForm=Fin|VerbType=Mod	14	aux	_	_
-11	ons	ons	PRON	PEMP	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	14	nsubj	_	_
-12	op	op	ADP	SVS	AdpType=Prep	13	case	_	_
-13	korttermyn-kapitaalvloei	korttermyn-kapitaalvloei	NOUN	NA	Number=Sing	14	obl	_	_
-14	staatmaak	staatmaak	VERB	VTHSO	Subcat=Intr|Tense=Pres|VerbForm=Fin,Inf	0	root	_	_
-15	om	om	ADP	SVS	AdpType=Prep	23	case	_	_
-16	die	die	DET	LB	Definite=Def|PronType=Art	17	det	_	_
-17	tekort	tekort	NOUN	NSE	Number=Sing	23	obj	_	_
-18	sowel	sowel	SCONJ	KO	_	23	mark	_	_
-19	as	as	SCONJ	KO	_	23	amod	_	_
-20	ons	ons	PRON	PEMP	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	21	det	_	_
-21	beleggingsprogramme	beleggingsprogram	NOUN	NSM	Number=Plur	19	dep	_	_
-22	te	te	PART	UPI	PartType=Inf	23	mark	_	_
-23	finansier	finansier	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	14	obl	_	SpaceAfter=No
-24	.	.	PUNCT	ZE	_	23	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 mark	color:blue
+1	Ons	ons	PRON	PEMP	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
+2	is	wees	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	6	cop	_	_
+3	nie	nie	ADV	BS	Degree=Pos	6	advmod	_	_
+4	'n	'n	DET	LO	Definite=Ind|PronType=Art	6	det	_	_
+5	waterryke	waterryk	ADJ	ASA	AdjType=Attr|Case=Nom|Degree=Pos	6	amod	_	_
+6	land	land	NOUN	NSE	Number=Sing	0	root	_	_
+7	nie	nie	PART	UPO	PartType=Neg	6	mark	_	SpaceAfter=No
+8	.	.	PUNCT	ZE	_	6	punct	_	_
 
 ~~~
 

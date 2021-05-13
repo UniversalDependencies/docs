@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>Митя</em> (<tt><a href="koi_uh-po
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.052632 (the average of all parts of speech is 1.206633).
+The form / lemma ratio of `PROPN` is 1.052632 (the average of all parts of speech is 1.206107).
 
 The 1st highest number of forms (2) was observed with the lemma “Франция”: <em>Франция, Франциялӧн</em>.
 

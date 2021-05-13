@@ -74,7 +74,7 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 4	de	de	ADP	_	_	5	case	_	_
 5	ele	ele	PRON	INP	Gender=Masc|Number=Sing|Person=3	3	obj	_	_
 6	terminar	_	VERB	VB	_	3	csubj	_	_
-7	a	o	DET	PDT	Gender=Fem|Number=Sing	9	det:predet	_	_
+7	a	o	DET	PDT	Gender=Fem|Number=Sing	9	det	_	_
 8	sua	_	PRON	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	9	det	_	_
 9	carreira	_	NOUN	NN	Gender=Fem|Number=Sing	6	obj	_	_
 10	aqui	aqui	ADV	RB	_	6	advmod	_	SpaceAfter=No

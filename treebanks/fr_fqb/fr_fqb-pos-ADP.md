@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-FQB: POS Tags: `ADP`
 
 There are 43 `ADP` lemmas (1%), 21 `ADP` types (0%) and 2869 `ADP` tokens (12%).
-Out of 17 observed tags, the rank of `ADP` is: 8 in number of lemmas, 11 in number of types and 3 in number of tokens.
+Out of 16 observed tags, the rank of `ADP` is: 8 in number of lemmas, 11 in number of types and 3 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>de, à, en, dans, pour, sur, par, _, sous, comme</em>
 
@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="fr_fqb-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 0.488372 (the average of all parts of speech is 1.162933).
+The form / lemma ratio of `ADP` is 0.488372 (the average of all parts of speech is 1.163777).
 
 The 1st highest number of forms (4) was observed with the lemma “_”: <em>après, d', de, à</em>.
 

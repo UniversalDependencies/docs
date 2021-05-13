@@ -39,7 +39,7 @@ The following 4 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 amod	color:blue
-1	O	o	DET	_	Case=Nom|PronType=Dem	2	det	_	_
+1	O	o	DET	_	PronType=Dem	2	det	_	_
 2	kedinin	kedi	NOUN	_	Case=Gen|Number=Sing	6	nsubj	_	_
 3	insana	insan	NOUN	_	Case=Dat|Number=Sing	6	obl	_	_
 4	hoş	hoş	ADJ	_	_	6	amod	_	_

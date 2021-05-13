@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ro_rrt-dep-expl.html">expl</a></tt>.
 There are also 3 other language-specific subtypes of `expl`: <tt><a href="ro_rrt-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="ro_rrt-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="ro_rrt-dep-expl-poss.html">expl:poss</a></tt>.
 
-2267 nodes (1%) are attached to their parents as `expl:pv`.
+2268 nodes (1%) are attached to their parents as `expl:pv`.
 
-2158 instances of `expl:pv` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.26643140714601.
+2159 instances of `expl:pv` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.2663139329806.
 
-The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (2265; 100% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (2266; 100% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -45,7 +45,7 @@ The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 1	Annie	Annie	PROPN	Np	_	12	nsubj	_	_
 2	Bowyer	Bowyer	PROPN	Np	_	1	flat	_	SpaceAfter=No
 3	,	,	PUNCT	COMMA	_	4	punct	_	_
-4	76	76	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	1	nummod	_	SpaceAfter=No
+4	76	76	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	1	nummod	_	SpaceAfter=No
 5	,	,	PUNCT	COMMA	_	4	punct	_	_
 6	din	din	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 7	Strada	stradă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	1	nmod	_	_

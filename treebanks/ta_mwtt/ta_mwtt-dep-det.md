@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-50 nodes (2%) are attached to their parents as `det`.
+54 nodes (2%) are attached to their parents as `det`.
 
-50 instances of `det` (100%) are right-to-left (child precedes parent).
+52 instances of `det` (96%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 5 pairs of parts of speech are connected with `det`: <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-DET.html">DET</a></tt> (42; 84% instances), <tt><a href="ta_mwtt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_mwtt-pos-DET.html">DET</a></tt> (4; 8% instances), <tt><a href="ta_mwtt-pos-NUM.html">NUM</a></tt>-<tt><a href="ta_mwtt-pos-DET.html">DET</a></tt> (2; 4% instances), <tt><a href="ta_mwtt-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_mwtt-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-DET.html">DET</a></tt> (1; 2% instances).
+The following 4 pairs of parts of speech are connected with `det`: <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-DET.html">DET</a></tt> (47; 87% instances), <tt><a href="ta_mwtt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_mwtt-pos-DET.html">DET</a></tt> (4; 7% instances), <tt><a href="ta_mwtt-pos-NUM.html">NUM</a></tt>-<tt><a href="ta_mwtt-pos-DET.html">DET</a></tt> (2; 4% instances), <tt><a href="ta_mwtt-pos-ADV.html">ADV</a></tt>-<tt><a href="ta_mwtt-pos-DET.html">DET</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -23,9 +23,9 @@ The following 5 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 2	fgColor:white
 # visual-style 2 1 det	color:blue
 1	இந்த	இந்த	DET	_	_	2	det	2:det	Translit=inta|LTranslit=inta
-2	புத்தகத்தைக்	புத்தகம்	NOUN	_	Case=Acc|Number=Sing|Person=3	3	obj	3:obj	Translit=puttakattaik|LTranslit=puttakam
-3	கொடுங்கள்	கொடு	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Pos	0	root	0:root	Translit=koṭuṅkaḷ|LTranslit=koṭu
-4	.	.	PUNCT	_	Polite=Form|PunctType=Peri	3	punct	3:punct	Translit=.|LTranslit=.
+2	புத்தகத்தைக்	புத்தகம்	NOUN	_	Case=Acc|Gender=Neut|Number=Sing|Person=3	3	obj	3:obj	Translit=puttakattaik|LTranslit=puttakam
+3	கொடுங்கள்	கொடு	VERB	_	Animacy=Anim|Gender=Com|Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin|Voice=Act	0	root	0:root	Translit=koṭuṅkaḷ|LTranslit=koṭu
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	3:punct	Translit=.|LTranslit=.
 
 ~~~
 
@@ -50,11 +50,11 @@ The following 5 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 det	color:blue
-1	இந்த	இந்த	DET	_	_	2	det	2:det	Translit=inta|LTranslit=inta
-2	இரண்டு	இரண்டு	NUM	_	Case=Nom	3	nummod	3:nummod	Translit=iraṇṭu|LTranslit=iraṇṭu
+1	*இந்த	இந்த	DET	_	_	2	det	2:det	Translit=inta|LTranslit=inta*discuss
+2	இரண்டு	இரண்டு	NUM	_	NumType=Card	3	nummod	3:nummod	Translit=iraṇṭu|LTranslit=iraṇṭu
 3	மாணவர்களும்	மாணவர்	NOUN	_	Case=Nom|Number=Plur	6	nsubj	6:nsubj	Translit=māṇavarkaḷum|LTranslit=māṇavar
 4	ஒரு	ஒன்று	NUM	_	_	5	nummod	5:nummod	Translit=oru|LTranslit=oṉṟu
-5	அறையில்	அறை	NOUN	_	Case=Loc|Number=Sing|Person=3	6	obl:loc	6:obl:loc	Translit=aṟaiyil|LTranslit=aṟai
+5	அறையில்	அறை	NOUN	_	Case=Loc|Number=Sing|Person=3	6	obl:lmod	6:obl:lmod	Translit=aṟaiyil|LTranslit=aṟai
 6	தங்குகிறார்கள்	தங்கு	VERB	_	Gender=Com|Number=Plur|Person=3|Tense=Pres	0	root	0:root	Translit=taṅkukiṟārkaḷ|LTranslit=taṅku
 7	.	.	PUNCT	_	PunctType=Peri	6	punct	6:punct	Translit=.|LTranslit=.
 

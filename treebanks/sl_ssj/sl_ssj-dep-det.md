@@ -31,7 +31,7 @@ The following 2 pairs of parts of speech are connected with `det`: <tt><a href="
 7	vložiti	vložiti	VERB	Vmen	Aspect=Perf|VerbForm=Inf	6	ccomp	_	Dep=6|Rel=Obj
 8	več	več	DET	Rgc	PronType=Ind	9	det	_	Dep=9|Rel=Atr
 9	truda	trud	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No|Dep=7|Rel=Obj
-10	.	.	PUNCT	Z	_	6	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+10	.	.	PUNCT	Z	_	6	punct	_	Dep=0|Rel=Root
 
 ~~~
 
@@ -51,7 +51,7 @@ The following 2 pairs of parts of speech are connected with `det`: <tt><a href="
 7	pripada	pripadati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl	_	Dep=4|Rel=Atr
 8	vsem	ves	DET	Pg-mpd	Case=Dat|Gender=Masc|Number=Plur|PronType=Tot	9	det	_	Dep=9|Rel=Atr
 9	Evropejcem	Evropejec	PROPN	Npmpd	Case=Dat|Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No|Dep=7|Rel=Obj
-10	.	.	PUNCT	Z	_	1	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+10	.	.	PUNCT	Z	_	1	punct	_	Dep=0|Rel=Root
 
 ~~~
 

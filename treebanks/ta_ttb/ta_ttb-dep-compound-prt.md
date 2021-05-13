@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `compound:prt`: <tt>
 5	பகுதியில்	பகுதி	NOUN	NNL-3SN--	Case=Loc|Gender=Neut|Number=Sing|Person=3	11	obl	11:obl:loc	Translit=pakutiyil|LTranslit=pakuti
 6	தமிழர்களுக்க்	தமிழர்	PROPN	NED-3PA--	Animacy=Anim|Case=Dat|Gender=Com|Number=Plur|Person=3	11	obl	11:obl:ஆகு:dat	Translit=tamilarkaḷukk|LTranslit=tamilar
 7	ஆக	ஆகு	ADP	PP-------	AdpType=Post	6	case	6:case	Translit=āka|LTranslit=āku
-8	50	50	NUM	U=-------	NumForm=Digit	9	nummod	9:nummod	Translit=50|LTranslit=50
+8	50	50	NUM	U=-------	NumForm=Digit|NumType=Card	9	nummod	9:nummod	Translit=50|LTranslit=50
 9	ஆயிரம்	ஆயிரம்	NUM	Ux-------	NumType=Card	10	nummod	10:nummod	Translit=āyiram|LTranslit=āyiram
 10	வீடுகளை	வீடு	NOUN	NNA-3PN--	Case=Acc|Gender=Neut|Number=Plur|Person=3	11	obj	11:obj	Translit=vīṭukaḷai|LTranslit=vīṭu
 11	கட்டிக்	கட்டு	VERB	Vt-T---AA	Polarity=Pos|VerbForm=Part|Voice=Act	16	advcl	16:advcl:ஆகு	Translit=kaṭṭik|LTranslit=kaṭṭu

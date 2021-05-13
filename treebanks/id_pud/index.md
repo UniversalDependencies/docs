@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Ruli Manurung, Muh Shohibussirri, Martin Popel, Daniel Zeman, Ika Alfina, Arawinda Dinakaramani, Muhammad Yudistira Hanifmuti, Jessica Naraiswari Arwidarasti, Yogi Lesmana Sulestio.
 
 Repository: [UD_Indonesian-PUD](https://github.com/UniversalDependencies/UD_Indonesian-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udid_pud27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udid_pud28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 3.0
 
@@ -87,7 +87,7 @@ We thank the contributors of the revision project of the Indonesian PUD:
 * Annotators: Ika Alfina, Arawinda Dinakaramani, Muhammad Yudistira Hanifmuti, Jessica Naraiswari Arwidarasti, Yogi Lesmana Sulestio
 
 ## References
-* Ika Alfina, Daniel Zeman, Arawinda Dinakaramani, Indra Budi, and Heru Suhartanto. "**Selecting the UD v2 Morphological Features for Indonesian Dependency Treebank**". In Proceedings of the 2020 International Conference of Asian Language Processing (IALP) in Kuala Lumpur, Malaysia, 4-6 Desember 2020. (_accepted_)
+* Ika Alfina, Daniel Zeman, Arawinda Dinakaramani, Indra Budi, and Heru Suhartanto. ["**Selecting the UD v2 Morphological Features for Indonesian Dependency Treebank**"](https://ieeexplore.ieee.org/document/9310513). In Proceedings of the 2020 International Conference of Asian Language Processing (IALP) in Kuala Lumpur, Malaysia, 4-6 Desember 2020.
 * Ika Alfina, Arawinda Dinakaramani, Mohamad Ivan Fanany, and Heru Suhartanto. ["**A Gold Standard Dependency Treebank for Indonesian**"](https://waseda.repo.nii.ac.jp/?action=repository_action_common_download&item_id=48059&item_no=1&attribute_id=101&file_no=1). In Proceedings of 33rd Pacific Asia Conference on Language, Information and Computation (PACLIC) 2019 in Hakodate, Japan, 13-15 September 2019.
 * Ryan McDonald, Joakim Nivre, Yvonne Quirmbach-Brundage, Yoav Goldberg, Dipanjan Das, Kuzman Ganchev, Keith Hall, Slav Petrov, Hao Zhang, Oscar Tackstrom, Claudia Bedini, Nuria Bertomeu Castello and Jungmee Lee. "**Universal Dependency Annotation for Multilingual Parsing**". In Proceedings of ACL 2013.
 
@@ -111,7 +111,7 @@ We thank the contributors of the revision project of the Indonesian PUD:
 
 
 <ul>
-<li>This corpus contains 1000 sentences, 19030 tokens and 19440 syntactic words.</li>
+<li>This corpus contains 1000 sentences, 19032 tokens and 19442 syntactic words.</li>
 </ul>
 
 <ul>
@@ -123,7 +123,7 @@ We thank the contributors of the revision project of the Indonesian PUD:
 </ul>
 
 <ul>
-<li>This corpus contains 176 types of words that contain both letters and punctuation. Examples: rata-rata, laki-laki, orang-orang, baru-baru, negara-negara, undang-undang, anak-anak, bertahun-tahun, masing-masing, A.S., batas-batas, 1970-an, Nn., No., St., Tn., bagian-bagian, batu-batu, benar-benar, bersama-sama, bulan-bulan, kira-kira, kota-kota, paru-paru, puing-puing, pulau-pulau, satu-satu, 1960-an, 1980-an, 1990-an, 60-an, B.C., Joliot-Curie, Ms., asal-muasal, bangsa-bangsa, benda-benda, berhati-hati, besar-besaran, gereja-gereja, hal-hal, hati-hati, ide-ide, jelas-jelas, ke-16, ke-3, ke-5, lagi-lagi, n't, partikel-partikel</li>
+<li>This corpus contains 175 types of words that contain both letters and punctuation. Examples: rata-rata, laki-laki, orang-orang, baru-baru, negara-negara, undang-undang, anak-anak, bertahun-tahun, masing-masing, A.S., batas-batas, 1970-an, Nn., No., St., Tn., bagian-bagian, batu-batu, benar-benar, bersama-sama, bulan-bulan, kira-kira, kota-kota, paru-paru, puing-puing, pulau-pulau, satu-satu, 1960-an, 1980-an, 1990-an, 60-an, B.C., Joliot-Curie, Ms., asal-muasal, bangsa-bangsa, benda-benda, berhati-hati, besar-besaran, gereja-gereja, hal-hal, hati-hati, ide-ide, jelas-jelas, ke-16, ke-3, ke-5, lagi-lagi, n't, partikel-partikel</li>
 </ul>
 
 <ul>
@@ -144,7 +144,7 @@ We thank the contributors of the revision project of the Indonesian PUD:
 </ul>
 
 <ul>
-<li>This corpus contains 27 lemmas tagged as pronouns (PRON): _, aku, anda, apa, begitu, demikian, dia, diri, ia, ini, itu, kalian, kami, kamu, kita, ku, mana, mereka, nya, orang, sana, saya, semua, siapa, sini, suatu, yang</li>
+<li>This corpus contains 26 lemmas tagged as pronouns (PRON): aku, anda, apa, begitu, demikian, dia, diri, ia, ini, itu, kalian, kami, kamu, kita, ku, mana, mereka, nya, orang, sana, saya, semua, siapa, sini, suatu, yang</li>
 </ul>
 
 <ul>
@@ -191,8 +191,7 @@ We thank the contributors of the revision project of the Indonesian PUD:
     <ul>
       <li>DET: sebuah, seorang, suatu</li>
       <li>NOUN: tahun, orang, bulan, bagian, hari, negara, kota, laut, perang, hal</li>
-      <li>PRON: nya, ia, saya, dia, Anda, Aku, ku, diri, kamu</li>
-      <li>PROPN: Marxisme</li>
+      <li>PRON: nya, ia, saya, dia, Anda, Aku, ku, kamu</li>
     </ul>
   </li>
 </ul>
@@ -276,7 +275,7 @@ We thank the contributors of the revision project of the Indonesian PUD:
 <ul>
   <li>Dem
     <ul>
-      <li>DET: ini, itu, tersebut, sang, si</li>
+      <li>DET: ini, itu, nya, tersebut, sang, si</li>
       <li>PRON: itu, ini, sana, begitu, demikian, sini</li>
     </ul>
   </li>
@@ -294,7 +293,7 @@ We thank the contributors of the revision project of the Indonesian PUD:
   <li>Ind
     <ul>
       <li>ADV: kadang, kadang-kadang</li>
-      <li>DET: sebuah, para, banyak, beberapa, seorang, berbagai, sebagian, suatu, kebanyakan, sejenis</li>
+      <li>DET: sebuah, para, banyak, beberapa, seorang, berbagai, suatu, sebagian, kebanyakan, sejenis</li>
       <li>PRON: seseorang, sesuatu</li>
     </ul>
   </li>
@@ -312,7 +311,7 @@ We thank the contributors of the revision project of the Indonesian PUD:
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: nya, ia, mereka, saya, kami, dia, kita, Anda, diri, Aku</li>
+      <li>PRON: nya, ia, mereka, saya, kami, dia, kita, diri, Anda, Aku</li>
     </ul>
   </li>
 </ul>
@@ -419,7 +418,7 @@ We thank the contributors of the revision project of the Indonesian PUD:
     <ul>
       <li>Yes
         <ul>
-          <li>NOUN: SM, AIDS, ATM, BC, C, DFB, GIF, HFC, M, MLA</li>
+          <li>NOUN: SM, AIDS, ATM, BC, DFB, GIF, HFC, MLA, MP, No.</li>
           <li>PROPN: AS, A.S., BBC, CNN, Nn., Tn., B.C., DNA, GCA, GOP</li>
         </ul>
       </li>
@@ -486,9 +485,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (478)</li>
-      <li>VERB--PRON (460)</li>
-      <li>VERB--PRON-ADP(dari) (1)</li>
+      <li>VERB--NOUN (477)</li>
+      <li>VERB--PRON (457)</li>
     </ul>
   </li>
 </ul>

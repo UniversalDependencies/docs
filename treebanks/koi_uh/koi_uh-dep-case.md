@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-18 nodes (2%) are attached to their parents as `case`.
+16 nodes (2%) are attached to their parents as `case`.
 
-18 instances of `case` (100%) are left-to-right (parent precedes child).
+16 instances of `case` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 5 pairs of parts of speech are connected with `case`: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> (10; 56% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt>-<tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> (3; 17% instances), <tt><a href="koi_uh-pos-DET.html">DET</a></tt>-<tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> (2; 11% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (2; 11% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt>-<tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> (1; 6% instances).
+The following 4 pairs of parts of speech are connected with `case`: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> (8; 50% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt>-<tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> (5; 31% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt>-<tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -49,26 +49,30 @@ The following 5 pairs of parts of speech are connected with `case`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 11 case	color:blue
-1	—	—	PUNCT	PUNCT	_	6	punct	_	_
-2	Мый	мый	PRON	Pron	Animacy=NHum|Case=Nom|PronType=Int	6	obl	_	GTtags=Sem/NonHum,Nom,Interr
-3	нӧ	нӧ	PART	Pcle	_	2	discourse	_	_
-4	дыр	дыр	ADV	Adv	_	6	advmod	_	_
-5	эн	оз	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Past	6	aux:neg	_	GTtags=Neg,Ind,Prt1,Sg2
-6	лок	локны	VERB	V	Connegative=Yes	0	root	_	GTtags=ConNeg|SpaceAfter=No
-7	?	?	PUNCT	CLB	_	6	punct	_	_
-8	—	—	PUNCT	PUNCT	_	13	punct	_	_
-9	инькасӧ	инька	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	obj	_	GTtags=Sg,Acc,PxSg3
-10	ас	ас	DET	Det	PronType=Refl	12	obl	_	GTtags=Pron,Refl,Cmpl
-11	бердас	бердӧ	ADP	Adp	AdpType=Post|AdvType=Loc|Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	case	_	GTtags=Po,Spat,Sg,Ill,PxSg3
-12	жмитікӧ	жмитны	VERB	V	Case=Ill|Derivation=Ik|VerbForm=Conv	13	advcl	_	GTtags=Der/Ik,Ger,Ill
-13	юаліс	юавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	parataxis	_	GTtags=Ind,Prt1,Sg3
-14	сія	сія	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	GTtags=Pers,Sg3,Nom|SpaceAfter=No
-15	.	.	PUNCT	CLB	_	6	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 case	color:blue
+1	Талун	талун	ADV	Adv	_	10	advmod	_	GTtags=Adv|SpaceAfter=No
+2	,	,	PUNCT	CLB	_	3	punct	_	GTtags=CLB
+3	кӧр	кӧр	ADV	Adv	_	4	advmod	_	GTtags=Adv
+4	пантасим	пантасьны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past	1	advcl:tcl	_	GTtags=V,IV,Ind,Prt1,Pl1
+5	ю	ю	NOUN	N	Case=Nom|Number=Sing	4	obl	_	GTtags=N,Sg,Nom
+6	дорас	дор	NOUN	N	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	case	_	GTtags=N,Sg,Ine,PxSg3|SpaceAfter=No
+7	,	,	PUNCT	CLB	_	8	punct	_	GTtags=CLB
+8	сія	сія	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	GTtags=Pron,Pers,Sg3,Nom
+9	медперво	медперво	ADV	Adv	_	10	advmod	_	GTtags=Adv
+10	кыскис	кыскыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=V,Ind,Prt1,Sg3
+11	бадь	бадь	NOUN	N	Animacy=Inan|Case=Nom|Number=Sing	12	nmod	_	GTtags=N,Sem/Inanim,Sg,Nom
+12	кусттэз	куст	NOUN	N	Case=Nom|Number=Plur	13	nmod	_	GTtags=N,Pl,Nom
+13	коласісь	колас	NOUN	N	Case=Ela|Number=Sing	10	obl	_	GTtags=N,Sg,Ela
+14	ыджыт	ыджыт	ADJ	A	_	15	amod	_	GTtags=A
+15	лагун	лагун	NOUN	N	Case=Nom|Number=Sing	10	obj	_	GTtags=N,Sg,Nom
+16	и	и	CCONJ	CC	_	17	cc	_	GTtags=CC
+17	нюжӧтіс	нюжӧтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	conj	_	GTtags=V,IV,Ind,Prt1,Sg3
+18	меным	ме	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	17	obl	_	GTtags=Pron,Pers,Sg1,Dat|SpaceAfter=No
+19	.	.	PUNCT	CLB	_	10	punct	_	GTtags=CLB
 
 ~~~
 

@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="cs_cltt-pos-PRON.ht
 
 12 <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `PRON` and `Style` co-occurred: <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (12; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt> (12; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (12; 100%), <tt><a href="cs_cltt-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (12; 100%), <tt><a href="cs_cltt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="cs_cltt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (12; 100%).
+The most frequent other feature values with which `PRON` and `Style` co-occurred: <tt><a href="cs_cltt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (12; 100%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt> (12; 100%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12; 100%), <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=3</tt> (12; 100%), <tt><a href="cs_cltt-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (12; 100%), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (12; 100%), <tt><a href="cs_cltt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="cs_cltt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (12; 100%).
 
 `PRON` tokens may have the following values of `Style`:
 

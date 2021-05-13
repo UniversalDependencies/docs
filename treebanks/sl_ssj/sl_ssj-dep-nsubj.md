@@ -27,7 +27,7 @@ The following 38 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 3	z	z	ADP	Si	Case=Ins	4	case	_	Dep=4|Rel=Atr
 4	leti	leto	NOUN	Ncnpi	Case=Ins|Gender=Neut|Number=Plur	5	obl	_	Dep=5|Rel=AdvO
 5	raste	rasti	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Dep=0|Rel=Root
-6	.	.	PUNCT	Z	_	5	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+6	.	.	PUNCT	Z	_	5	punct	_	Dep=0|Rel=Root
 
 ~~~
 
@@ -48,7 +48,7 @@ The following 38 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 8	seboj	se	PRON	Px---i	Case=Ins|PronType=Prs|Reflex=Yes	10	nmod	_	Dep=10|Rel=Atr
 9	tesno	tesno	ADV	Rgp	Degree=Pos	10	advmod	_	Dep=10|Rel=Atr
 10	povezana	povezan	ADJ	Appmdn	Case=Nom|Degree=Pos|Gender=Masc|Number=Dual|VerbForm=Part	0	root	_	SpaceAfter=No|Dep=6|Rel=Atr
-11	.	.	PUNCT	Z	_	10	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+11	.	.	PUNCT	Z	_	10	punct	_	Dep=0|Rel=Root
 
 ~~~
 
@@ -65,7 +65,7 @@ The following 38 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 4	z	z	ADP	Si	Case=Ins	5	case	_	Dep=5|Rel=Atr
 5	zakonom	zakon	NOUN	Ncmsi	Case=Ins|Gender=Masc|Number=Sing	6	obl	_	Dep=6|Rel=AdvM
 6	prepovedal	prepovedati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	Dep=0|Rel=Root
-7	goloto	golota	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No|Dep=6|Rel=Obj
+7	goloto	golota	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	Dep=6|Rel=Obj
 
 ~~~
 

@@ -24,11 +24,11 @@ The following 4 pairs of parts of speech are connected with `nsubj:nc`: <tt><a h
 # visual-style 7	fgColor:white
 # visual-style 7 8 nsubj:nc	color:blue
 1	احمد	احمد	NOUN	N_SING	Number=Sing	0	root	_	SpaceAfter=No
-2	:	:	PUNCT	DELM	_	1	punct	_	_
+2	:	:	PUNCT	DELM	_	3	punct	_	_
 3	ا	_	INTJ	INT	_	1	parataxis	_	SpaceAfter=No
-4	…	…	PUNCT	DELM	_	1	punct	_	_
+4	…	…	PUNCT	DELM	_	9	punct	_	_
 5	آره	_	INTJ	INT	_	9	parataxis	_	_
-6	-	-	PUNCT	DELM	_	9	punct	_	_
+6	-	-	PUNCT	DELM	_	5	punct	_	_
 7	یاد	یاد	NOUN	N_SING	Number=Sing	9	compound:lvc	_	_
 8	م	من	PRON	PRO	Number=Sing|Person=1|PronType=Prs	7	nsubj:nc	_	_
 9	رفته	رفت#رو	VERB	V_PP	Number=Sing|Person=3|VerbForm=Part	1	parataxis	_	_
@@ -55,7 +55,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:nc`: <tt><a h
 8	غیرکلیشه	_	ADJ	ADJ	Degree=Pos	7	amod	_	_
 9	نشان	نشان	NOUN	N_SING	Number=Sing	10	compound:lvc	_	_
 10	بدهی	_	VERB	V_SUB	Mood=Sub|Number=Sing|Person=2|Tense=Pres	14	advcl	_	SpaceAfter=No
-11	،	،	PUNCT	DELM	_	14	punct	_	_
+11	،	،	PUNCT	DELM	_	10	punct	_	_
 12	بد	بد	ADJ	ADJ	Degree=Pos	14	compound:lvc	_	_
 13	شان	آن‌ها	PRON	PRO	Number=Plur|Person=3|PronType=Prs	12	nsubj:nc	_	_
 14	می‌آید	آمد#آ	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
@@ -71,7 +71,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:nc`: <tt><a h
 # visual-style 7	fgColor:white
 # visual-style 7 8 nsubj:nc	color:blue
 1	مادر	مادر	NOUN	N_SING	Number=Sing	0	root	_	SpaceAfter=No
-2	:	:	PUNCT	DELM	_	1	punct	_	_
+2	:	:	PUNCT	DELM	_	3	punct	_	_
 3	احمد	احمد	NOUN	N_SING	Number=Sing	1	vocative	_	SpaceAfter=No
 4	!	!	PUNCT	DELM	_	1	punct	_	_
 5	احمد	احمد	NOUN	N_SING	Number=Sing	1	vocative	_	SpaceAfter=No

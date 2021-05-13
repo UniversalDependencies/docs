@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-62 nodes (23%) are attached to their parents as `root`.
+109 nodes (21%) are attached to their parents as `root`.
 
-62 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.61290322580645.
+109 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.91743119266055.
 
-The following 3 pairs of parts of speech are connected with `root`: -<tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt> (46; 74% instances), -<tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt> (14; 23% instances), -<tt><a href="myu_tudet-pos-INTJ.html">INTJ</a></tt> (2; 3% instances).
+The following 5 pairs of parts of speech are connected with `root`: -<tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt> (83; 76% instances), -<tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt> (21; 19% instances), -<tt><a href="myu_tudet-pos-AUX.html">AUX</a></tt> (2; 2% instances), -<tt><a href="myu_tudet-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), -<tt><a href="myu_tudet-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -44,13 +44,16 @@ The following 3 pairs of parts of speech are connected with `root`: -<tt><a href
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 1 root	color:blue
-1	Ka'ũma	ka'ũma	INTJ	intj	_	0	root	0:root	_
-2	!	!	PUNCT	punct	_	1	punct	1:punct	_
+# visual-style 0 5 root	color:blue
+1	Kog̃ũnpi	kog̃ũnpi	NOUN	_	_	5	obl	5:obl	_
+2	be	be	ADP	posp	_	1	case	1:case	_
+3	okapap	kap	NOUN	n	Nomzr=Pa|Person=3	4	nmod	4:nmod	_
+4	kabuk	kabuk	NOUN	n	_	5	obl	5:obl	_
+5	opop	pop	AUX	aux	_	0	root	0:root	_
 
 ~~~
 

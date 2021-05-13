@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of flat in UD_Old_Russian-RNC'
+title:  'Statistics of flat in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Relations: `flat`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Relations: `flat`
 
 This relation is universal.
 There are 1 language-specific subtypes of `flat`: <tt><a href="orv_rnc-dep-flat-name.html">flat:name</a></tt>.
@@ -30,7 +30,7 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 5	февраля	февраль	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	flat	_	Norm=февраля|SpaceAfter=Yes
 6	въ	въ	ADP	_	_	7	case	_	Norm=въ|SpaceAfter=Yes
 7	день	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	nmod	_	Norm=день|SpaceAfter=No
-8	.	.	PUNCT	_	_	1	punct	_	Norm=.|SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	Norm=.
 
 ~~~
 

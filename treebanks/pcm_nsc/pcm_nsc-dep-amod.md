@@ -7,14 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Naija-NSC: Relations: `amod`
 
 This relation is universal.
-There are 1 language-specific subtypes of `amod`: <tt><a href="pcm_nsc-dep-amod-emph.html">amod:emph</a></tt>.
 
-1825 nodes (1%) are attached to their parents as `amod`.
+1823 nodes (1%) are attached to their parents as `amod`.
 
-1776 instances of `amod` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.29369863013699.
+1773 instances of `amod` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.29292375205705.
 
-The following 8 pairs of parts of speech are connected with `amod`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1680; 92% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (48; 3% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (41; 2% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (32; 2% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (11; 1% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (3; 0% instances).
+The following 8 pairs of parts of speech are connected with `amod`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1681; 92% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (47; 3% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (38; 2% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (33; 2% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (11; 1% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
@@ -47,7 +46,7 @@ The following 8 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 amod	color:blue
-1	maybe	maybe	ADV	_	_	5	advmod:periph	_	AlignBegin=163800|AlignEnd=164018|Gloss=maybe
+1	maybe	maybe	ADV	_	_	5	advmod	_	AlignBegin=163800|AlignEnd=164018|Gloss=maybe
 2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	AlignBegin=164018|AlignEnd=164150|Gloss=NOM.SG.1
 3	fit	fit	AUX	_	Mood=Pot	5	aux	_	AlignBegin=164150|AlignEnd=164310|Gloss=ABIL
 4	con	con	AUX	_	Aspect=Cons	5	aux	_	AlignBegin=164310|AlignEnd=164490|Gloss=CONS

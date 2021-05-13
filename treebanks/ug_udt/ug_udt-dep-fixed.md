@@ -44,7 +44,7 @@ The following 31 pairs of parts of speech are connected with `fixed`: <tt><a hre
 3	ئۇلار	ئۇلار	PRON	P	Case=Nom|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	Translit=ular
 4	قاراڭغۇدا	قاراڭغۇ	NOUN	A	Case=Loc	6	obl	_	Translit=qarangghuda
 5	يولدىن	يول	NOUN	N	Case=Abl	6	obl	_	Translit=yoldin
-6	ئېزىپ	ئەز	VERB	V	Aspect=Perf|VerbForm=Cov	0	root	_	Translit=ëzip
+6	ئېزىپ	ئەز	VERB	V	Aspect=Perf|VerbForm=Inf	0	root	_	Translit=ëzip
 7	قاپتۇ	_	AUX	V	_	6	aux	_	SpaceAfter=No|Translit=qaptu|Morf=Unknown
 8	.	.	PUNCT	Y	_	7	punct	_	Translit=.
 

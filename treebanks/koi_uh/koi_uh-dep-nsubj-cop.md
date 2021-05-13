@@ -22,7 +22,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:cop`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nsubj:cop	color:blue
-1	Вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	3	cop	_	GTtags=V,IV,Ind,Prt1,Sg3
+1	Вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	cop	_	GTtags=V,IV,Ind,Prt1,Sg3
 2	сія	сія	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj:cop	_	GTtags=Pron,Pers,Sg3,Nom
 3	лажмытик	лажмытик	ADJ	_	_	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	6	punct	_	GTtags=CLB
@@ -79,7 +79,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:cop`: <tt><a 
 20	перина	перина	NOUN	N	Case=Nom|Number=Sing	18	appos	_	GTtags=Sg,Nom
 21	туйӧ	туй	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	23	obl	_	GTtags=Sg,Nom,PxSg1
 22	кыза	кыза	ADV	Adv	_	23	advmod	_	_
-23	вӧвдӧм	вӧвдны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Prt2	24	acl	_	GTtags=Ind,Prt2,Sg3
+23	вӧвдӧм	вӧвдны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	24	acl	_	GTtags=Ind,Prt2,Sg3
 24	турун	турун	NOUN	N	Case=Nom|Number=Sing	20	nmod	_	GTtags=Sg,Nom|SpaceAfter=No
 25	,	,	PUNCT	CLB	_	27	punct	_	_
 26	а	а	CCONJ	CC	_	27	cc	_	_

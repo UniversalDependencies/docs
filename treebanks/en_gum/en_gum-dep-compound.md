@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `compound`: <tt><a href="en_gum-dep-compound-prt.html">compound:prt</a></tt>.
 
-4010 nodes (4%) are attached to their parents as `compound`.
+4339 nodes (3%) are attached to their parents as `compound`.
 
-3921 instances of `compound` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.25860349127182.
+4247 instances of `compound` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.2544365061074.
 
-The following 25 pairs of parts of speech are connected with `compound`: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1979; 49% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (1113; 28% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (551; 14% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (130; 3% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (38; 1% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (37; 1% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (35; 1% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (28; 1% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (20; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (14; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (9; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (7; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 28 pairs of parts of speech are connected with `compound`: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (2236; 52% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (1164; 27% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (575; 13% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (135; 3% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (33; 1% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (31; 1% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (29; 1% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (27; 1% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (20; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (15; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (9; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,22 +23,17 @@ The following 25 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 9 compound	color:blue
-1	There	there	PRON	EX	_	2	expl	_	Discourse=elaboration:76->75
-2	were	be	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-3	things	thing	NOUN	NNS	Number=Plur	2	nsubj	_	Entity=(object-95
-4	in	in	ADP	IN	_	6	case	_	_
-5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	Entity=(abstract-96
-6	shadows	shadow	NOUN	NNS	Number=Plur	2	obl	_	Entity=object-95)abstract-96)|SpaceAfter=No
-7	;	;	PUNCT	:	_	10	punct	_	_
-8	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	Discourse=elaboration:77->76|Entity=(object-95(object-97
-9	metal	metal	NOUN	NN	Number=Sing	10	compound	_	Entity=(substance-98)
-10	pail	pail	NOUN	NN	Number=Sing	3	appos	_	Entity=object-97)|SpaceAfter=No
-11	,	,	PUNCT	,	_	13	punct	_	_
-12	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	Entity=(object-99
-13	mop	mop	NOUN	NN	Number=Sing	10	conj	_	Entity=object-99)|SpaceAfter=No
-14	,	,	PUNCT	,	_	15	punct	_	_
-15	rags	rag	NOUN	NNS	Number=Plur	10	conj	_	Entity=(object-100)object-95)|SpaceAfter=No
-16	.	.	PUNCT	.	_	2	punct	_	_
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	Discourse=background:71->69|Entity=(person-4)
+2	did	do	AUX	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	4	aux	4:aux	_
+3	n't	not	PART	RB	Polarity=Neg	4	advmod	4:advmod	_
+4	want	want	VERB	VB	VerbForm=Inf	0	root	0:root	_
+5	you	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	4	obj	4:obj|7:nsubj:xsubj	Entity=(person-10)
+6	to	to	PART	TO	_	7	mark	7:mark	_
+7	have	have	VERB	VB	VerbForm=Inf	4	xcomp	4:xcomp	_
+8	her	her	PRON	PRP$	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	nmod:poss	10:nmod:poss	Entity=(abstract-30(person-26)
+9	phone	phone	NOUN	NN	Number=Sing	10	compound	10:compound	_
+10	number	number	NOUN	NN	Number=Sing	7	obj	7:obj	Entity=abstract-30)|SpaceAfter=No
+11	.	.	PUNCT	.	_	4	punct	4:punct	_
 
 ~~~
 
@@ -49,10 +44,10 @@ The following 25 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 compound	color:blue
-1	Digital	Digital	PROPN	NNP	Number=Sing	2	amod	_	Discourse=preparation:1->57|Entity=(place-1(abstract-2
-2	Humanities	Humanities	PROPN	NNP	Number=Sing	3	compound	_	Entity=abstract-2)
-3	Clinics	Clinic	PROPN	NNPS	Number=Plur	0	root	_	Entity=place-1)
-4	-	-	PUNCT	:	_	3	punct	_	_
+1	Digital	Digital	ADJ	NNP	Degree=Pos	2	amod	2:amod	Discourse=preparation:1->57|Entity=(place-1(abstract-2-Digital_humanities
+2	Humanities	Humanity	PROPN	NNPS	Number=Plur	3	compound	3:compound	Entity=abstract-2-Digital_humanities)
+3	Clinics	Clinic	PROPN	NNPS	Number=Plur	0	root	0:root	Entity=place-1)
+4	-	-	PUNCT	:	_	3	punct	3:punct	_
 
 ~~~
 
@@ -63,17 +58,17 @@ The following 25 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 9 compound	color:blue
-1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj:pass	_	Discourse=background:84->83|Entity=(object-110)
-2	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
-3	sold	sell	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-4	at	at	ADP	IN	_	7	case	_	_
-5	eighth-grade	eighth-grade	NOUN	NN	Number=Sing	7	compound	_	Entity=(event-111(organization-112)
-6	basketball	basketball	NOUN	NN	Number=Sing	7	compound	_	Entity=(abstract-113)
-7	games	game	NOUN	NNS	Number=Plur	3	obl	_	_
-8	on	on	ADP	IN	_	10	case	_	_
-9	Friday	Friday	PROPN	NNP	Number=Sing	10	compound	_	Entity=(time-114(time-115)
-10	nights	night	NOUN	NNS	Number=Plur	7	nmod	_	Entity=event-111)time-114)|SpaceAfter=No
-11	.	.	PUNCT	.	_	3	punct	_	_
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj:pass	3:nsubj:pass	Discourse=background:84->83|Entity=(object-110)
+2	were	be	AUX	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	3:aux:pass	_
+3	sold	sell	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
+4	at	at	ADP	IN	_	7	case	7:case	_
+5	eighth-grade	eighth-grade	NOUN	NN	Number=Sing	7	compound	7:compound	Bridge=place-70<organization-112|Entity=(event-111(organization-112)
+6	basketball	basketball	NOUN	NN	Number=Sing	7	compound	7:compound	Entity=(abstract-113)
+7	games	game	NOUN	NNS	Number=Plur	3	obl	3:obl:at	_
+8	on	on	ADP	IN	_	10	case	10:case	_
+9	Friday	Friday	PROPN	NNP	Number=Sing	10	compound	10:compound	Entity=(time-114(time-115)
+10	nights	night	NOUN	NNS	Number=Plur	7	nmod	7:nmod:on	Entity=event-111)time-114)|SpaceAfter=No
+11	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 ~~~
 

@@ -57,7 +57,7 @@ The following 17 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 10	เรา	_	PRON	PRP	Person=1	9	obj	_	SpaceAfter=No
 11	ก้าว	_	VERB	VV	_	9	xcomp	_	SpaceAfter=No
 12	ไป	_	PART	RP	_	11	compound:prt	_	SpaceAfter=No
-13	ข้าง	_	NOUN	NN	_	11	advmod	_	SpaceAfter=No
+13	ข้าง	_	NOUN	NN	_	11	obl	_	SpaceAfter=No
 14	หน้า	_	ADJ	JJ	_	13	amod	_	_
 
 ~~~
@@ -76,7 +76,7 @@ The following 17 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 5	ใน	_	ADP	IN	_	6	case	_	SpaceAfter=No
 6	ภูมิภาค	_	NOUN	NN	_	4	obl	_	SpaceAfter=No
 7	ที่	_	DET	WDT	_	9	nsubj	_	SpaceAfter=No
-8	จะ	_	VERB	MD	_	9	aux	_	SpaceAfter=No
+8	จะ	_	AUX	MD	_	9	aux	_	SpaceAfter=No
 9	สำเร็จ	_	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
 10	ลุล่วง	_	ADV	RB	_	9	advmod	_	_
 

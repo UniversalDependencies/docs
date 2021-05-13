@@ -36,7 +36,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 12	,	,	PUNCT	_	_	19	punct	_	_
 13	tapi	tetapi	CCONJ	_	_	19	cc	_	_
 14	melakukan	laku	VERB	_	Mood=Ind|Voice=Act	19	csubj	_	_
-15	nya	nya	PRON	_	Number=Sing	14	obj	_	_
+15	nya	nya	PRON	_	Number=Sing|Person=3|PronType=Prs	14	obj	_	_
 16	tiga	tiga	NUM	_	NumType=Card	17	nummod	_	_
 17	kali	kali	NOUN	_	Number=Sing	14	obl	_	_
 18	berturut-turut	turut	VERB	_	Mood=Ind|Voice=Act	17	acl	_	_
@@ -57,7 +57,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 2	itu	itu	PRON	_	PronType=Dem	11	obl	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	terjadi	jadi	VERB	_	Mood=Ind|Voice=Pass	11	csubj:pass	_	_
-5	nya	nya	DET	_	_	4	det	_	_
+5	nya	nya	DET	_	PronType=Dem	4	det	_	_
 6	badai	badai	NOUN	_	Number=Sing	4	nsubj:pass	_	_
 7	di	di	ADP	_	_	8	case	_	_
 8	pulau	pulau	NOUN	_	Number=Sing	6	nmod	_	_

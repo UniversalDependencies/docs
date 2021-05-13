@@ -15,7 +15,7 @@ The 10 most frequent `PART` types:  的, か, さ, まで, たり, ほど, だ�
 
 The 10 most frequent ambiguous lemmas: か (<tt><a href="ja_pud-pos-PART.html">PART</a></tt> 54, <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 31), まで (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 43, <tt><a href="ja_pud-pos-PART.html">PART</a></tt> 7), たり (<tt><a href="ja_pud-pos-PART.html">PART</a></tt> 5, <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> 2), ほど (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 6, <tt><a href="ja_pud-pos-PART.html">PART</a></tt> 4), だけ (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 14, <tt><a href="ja_pud-pos-PART.html">PART</a></tt> 2), 風 (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="ja_pud-pos-PART.html">PART</a></tt> 1)
 
-The 10 most frequent ambiguous types:  か (<tt><a href="ja_pud-pos-PART.html">PART</a></tt> 54, <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 31), さ (<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> 182, <tt><a href="ja_pud-pos-PART.html">PART</a></tt> 14, <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> 5), まで (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 43, <tt><a href="ja_pud-pos-PART.html">PART</a></tt> 7), ほど (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 6, <tt><a href="ja_pud-pos-PART.html">PART</a></tt> 4), だけ (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 14, <tt><a href="ja_pud-pos-PART.html">PART</a></tt> 2), い (<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> 150, <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> 10, <tt><a href="ja_pud-pos-PART.html">PART</a></tt> 1), 風 (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="ja_pud-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous types:  か (<tt><a href="ja_pud-pos-PART.html">PART</a></tt> 54, <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 31), さ (<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> 182, <tt><a href="ja_pud-pos-PART.html">PART</a></tt> 14, <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> 5), まで (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 43, <tt><a href="ja_pud-pos-PART.html">PART</a></tt> 7), ほど (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 6, <tt><a href="ja_pud-pos-PART.html">PART</a></tt> 4), だけ (<tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 14, <tt><a href="ja_pud-pos-PART.html">PART</a></tt> 2), い (<tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> 160, <tt><a href="ja_pud-pos-PART.html">PART</a></tt> 1), 風 (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="ja_pud-pos-PART.html">PART</a></tt> 1)
 
 
 * か
@@ -35,8 +35,7 @@ The 10 most frequent ambiguous types:  か (<tt><a href="ja_pud-pos-PART.html">P
   * <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> 14: 彼 は 自ら の 試合 に 対し 厳しい <b>だけ</b> で なく 、 柔らか な ボール さばき の 技術 も 持ち合わせ て いる 。
   * <tt><a href="ja_pud-pos-PART.html">PART</a></tt> 2: この 慣習 は 、 現代 に おい て わずか に 緩ん だ <b>だけ</b> で 、 今 で も 、 友人 間 で 名前 を 使う こと は 勧め られ ず 、 姓 の 使用 が 一般 的 で ある 。
 * い
-  * <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> 150: 以前 、 ジェッツ は ブロガー の 間 で のみ 読ま れ て <b>い</b> た 。
-  * <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> 10: 食物 と し て 直接 利用 する ほか に 、 なめし皮 、 毛糸 、 皮革 、 肥料 を 提供 する 動物 も <b>い</b> た 。
+  * <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> 160: 以前 、 ジェッツ は ブロガー の 間 で のみ 読ま れ て <b>い</b> た 。
   * <tt><a href="ja_pud-pos-PART.html">PART</a></tt> 1: 幸い な こと に 、 ソニー ・ オーストラリア に い た 誰 か は 、 「 おい 、 ところ で 、 君 たち は これ に 気づい た か <b>い</b> ？ 」 と いう 様子 だっ た 、 と ポール は 言っ た 。
 * 風
   * <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 2: 安定 し た <b>風</b> が 吹き 始める と 、 露出 し た 地面 に 広がる 微 粒子 の 振動 が 始まり ます 。
@@ -44,7 +43,7 @@ The 10 most frequent ambiguous types:  か (<tt><a href="ja_pud-pos-PART.html">P
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.049698).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.049631).
 
 The 1st highest number of forms (1) was observed with the lemma “い”: い.
 
@@ -57,11 +56,21 @@ The 3rd highest number of forms (1) was observed with the lemma “がかる”:
 
 ## Relations
 
-`PART` nodes are attached to their parents using 1 different relations: <tt><a href="ja_pud-dep-mark.html">mark</a></tt> (210; 100% instances)
+`PART` nodes are attached to their parents using 2 different relations: <tt><a href="ja_pud-dep-mark.html">mark</a></tt> (209; 100% instances), <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 5 different parts of speech: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (119; 57% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (67; 32% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (21; 10% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 5 different parts of speech: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (117; 56% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (69; 33% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (21; 10% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 
-210 (100%) `PART` nodes are leaves.
+204 (97%) `PART` nodes are leaves.
 
-The highest child degree of a `PART` node is 0.
+0 (0%) `PART` nodes have one child.
+
+0 (0%) `PART` nodes have two children.
+
+6 (3%) `PART` nodes have three or more children.
+
+The highest child degree of a `PART` node is 3.
+
+Children of `PART` nodes are attached using 1 different relations: <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (18; 100% instances)
+
+Children of `PART` nodes belong to 3 different parts of speech: <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (6; 33% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (6; 33% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (6; 33% instances)
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-35 nodes (0%) are attached to their parents as `dep`.
+36 nodes (0%) are attached to their parents as `dep`.
 
-28 instances of `dep` (80%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.4.
+28 instances of `dep` (78%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.38888888888889.
 
-The following 20 pairs of parts of speech are connected with `dep`: <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (6; 17% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (5; 14% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (5; 14% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> (2; 6% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-X.html">X</a></tt> (1; 3% instances).
+The following 21 pairs of parts of speech are connected with `dep`: <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (6; 17% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (5; 14% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (4; 11% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> (2; 6% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-X.html">X</a></tt> (2; 6% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-X.html">X</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -33,9 +33,34 @@ The following 20 pairs of parts of speech are connected with `dep`: <tt><a href=
 9	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
 10	cântărit	cântări	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	7	ccomp	_	_
 11	(	(	PUNCT	LPAR	_	12	punct	_	SpaceAfter=No
-12	e	e	NOUN	Ncm--n	Definite=Ind|Gender=Masc	10	dep	_	SpaceAfter=No
+12	e	e	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	10	dep	_	SpaceAfter=No
 13	)	)	PUNCT	RPAR	_	12	punct	_	SpaceAfter=No
 14	.	.	PUNCT	PERIOD	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 12 dep	color:blue
+1	Coeficientul	coeficient	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	_
+2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
+3	variație	variație	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	nmod	_	_
+4	V	V	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	3	nmod	_	_
+5	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+6	prin	prin	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
+7	definiție	definiție	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	8	nmod	_	_
+8	V	V	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
+9	=	=	PUNCT	EQUAL	_	8	punct	_	_
+10	100	100	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	8	nummod	_	_
+11	*	*	PUNCT	STAR	AdpType=Prep	10	punct	_	_
+12	s	s	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	10	dep	_	_
+13	/	/	PUNCT	SLASH	AdpType=Prep	10	punct	_	_
+14	m	m	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	10	dep	_	SpaceAfter=No
+15	;	;	PUNCT	SCOLON	AdpType=Prep	8	punct	_	_
 
 ~~~
 
@@ -58,34 +83,9 @@ The following 20 pairs of parts of speech are connected with `dep`: <tt><a href=
 10	(	(	PUNCT	LPAR	_	11	punct	_	SpaceAfter=No
 11	M.	M.	NOUN	Yn	Abbr=Yes	7	appos	_	_
 12	Schwartzfeld	Schwartzfeld	PROPN	Np	_	11	flat	_	_
-13	ș.a.	ș.a.	PRON	Yp	Abbr=Yes	11	dep	_	SpaceAfter=No
+13	ș.a.	și_alții	PRON	Yp,Yn	Abbr=Yes	11	dep	_	SpaceAfter=No
 14	)	)	PUNCT	RPAR	_	11	punct	_	SpaceAfter=No
 15	.	.	PUNCT	PERIOD	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 12 dep	color:blue
-1	Coeficientul	coeficient	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	_
-2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
-3	variație	variație	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	1	nmod	_	_
-4	V	V	NOUN	Ncm--n	Definite=Ind|Gender=Masc	3	nmod	_	_
-5	este	fi	AUX	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
-6	prin	prin	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
-7	definiție	definiție	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	8	nmod	_	ToDo=nmod
-8	V	V	NOUN	Ncm--n	Definite=Ind|Gender=Masc	0	root	_	_
-9	=	=	PUNCT	EQUAL	_	8	punct	_	_
-10	100	100	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	8	nummod	_	_
-11	*	*	PUNCT	STAR	AdpType=Prep	10	punct	_	_
-12	s	s	NOUN	Ncm--n	Definite=Ind|Gender=Masc	10	dep	_	_
-13	/	/	PUNCT	SLASH	AdpType=Prep	10	punct	_	_
-14	m	m	NOUN	Ncm--n	Definite=Ind|Gender=Masc	10	dep	_	SpaceAfter=No
-15	;	;	PUNCT	SCOLON	AdpType=Prep	8	punct	_	_
 
 ~~~
 

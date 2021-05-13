@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
-13615 tokens (47%) have a non-empty value of `Gender`.
-6698 types (67%) occur at least once with a non-empty value of `Gender`.
+13613 tokens (47%) have a non-empty value of `Gender`.
+6697 types (67%) occur at least once with a non-empty value of `Gender`.
 3541 lemmas (76%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 7 part-of-speech tags: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (7034; 24% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (2773; 10% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (2457; 8% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1266; 4% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (81; 0% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="la_perseus-pos-X.html">X</a></tt> (2; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (7035; 24% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (2773; 10% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (2457; 8% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1266; 4% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (81; 0% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-7034 <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
+7035 <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4981; 71%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
 * `Fem` (2769; 39% of non-empty `Gender`): <em>res, rem, rei, vocem, Cynthia, manus, manu, terrae, terram, urbe</em>
-* `Masc` (2676; 38% of non-empty `Gender`): <em>Catilina, Trimalchio, amor, nemo, animus, hominum, senatus, amore, homines, loco</em>
+* `Masc` (2677; 38% of non-empty `Gender`): <em>Catilina, Trimalchio, amor, nemo, animus, hominum, senatus, amore, homines, loco</em>
 * `Neut` (1589; 23% of non-empty `Gender`): <em>caelo, nihil, bello, omnia, nomen, bellum, verba, caput, tempore, imperium</em>
 * `EMPTY` (6): <em>senioribus, cancer, caracterem, femur, tot</em>
 
@@ -39,7 +39,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>qui</em></td><td><em>quae</em></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (2051) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (2052) occur only with one value of `Gender`.
 
 ### `ADJ`
 
@@ -116,7 +116,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 * `Fem` (379; 30% of non-empty `Gender`): <em>dicentem, ardens, contenta, data, diversa, mota, visa, advocata, cognita, composita</em>
 * `Masc` (654; 52% of non-empty `Gender`): <em>dicentes, conscripti, dicens, sedentem, amantis, natus, dicentem, existumans, interfecto, locutus</em>
 * `Neut` (233; 18% of non-empty `Gender`): <em>facta, scriptum, falso, dicens, faciendum, facto, factum, interposito, iussa, mandata</em>
-* `EMPTY` (4894): <em>est, esse, habet, inquit, erat, dixit, fuit, vidi, coepit, dedit</em>
+* `EMPTY` (4898): <em>est, esse, habet, inquit, erat, dixit, fuit, vidi, coepit, dedit</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -153,24 +153,15 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>unus</em></td><td><em>una</em></td><td></td></tr>
 </table>
 
-### `ADV`
+### `PROPN`
 
-2 <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Gender`.
+1 <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Gender`.
 
-`ADV` tokens may have the following values of `Gender`:
+The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1; 100%).
 
-* `Fem` (1; 50% of non-empty `Gender`): <em>fors</em>
-* `Neut` (1; 50% of non-empty `Gender`): <em>Multum</em>
-* `EMPTY` (2201): <em>non, iam, ne, tamen, quam, sic, nunc, ita, modo, etiam</em>
+`PROPN` tokens may have the following values of `Gender`:
 
-### `X`
-
-2 <tt><a href="la_perseus-pos-X.html">X</a></tt> tokens (4% of all `X` tokens) have a non-empty value of `Gender`.
-
-`X` tokens may have the following values of `Gender`:
-
-* `Masc` (2; 100% of non-empty `Gender`): <em>Aefulanum, sestertiarios</em>
-* `EMPTY` (52): <em>c, ,, L, M, A, Cn, Q, Ti, Trimalchio, adcedere</em>
+* `Masc` (1; 100% of non-empty `Gender`): <em>Aefulanum</em>
 
 ## Relations with Agreement in `Gender`
 

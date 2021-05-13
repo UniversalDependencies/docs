@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-637 tokens (1%) have a non-empty value of `Poss`.
-45 types (0%) occur at least once with a non-empty value of `Poss`.
+639 tokens (1%) have a non-empty value of `Poss`.
+44 types (0%) occur at least once with a non-empty value of `Poss`.
 7 lemmas (0%) occur at least once with a non-empty value of `Poss`.
-The feature is used with 2 part-of-speech tags: <tt><a href="it_postwita-pos-DET.html">DET</a></tt> (598; 0% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (39; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="it_postwita-pos-DET.html">DET</a></tt> (600; 0% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (39; 0% instances).
 
 ### `DET`
 
-598 <tt><a href="it_postwita-pos-DET.html">DET</a></tt> tokens (4% of all `DET` tokens) have a non-empty value of `Poss`.
+600 <tt><a href="it_postwita-pos-DET.html">DET</a></tt> tokens (4% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="it_postwita-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (598; 100%), <tt><a href="it_postwita-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (598; 100%), <tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt> (403; 67%), <tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (329; 55%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="it_postwita-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (600; 100%), <tt><a href="it_postwita-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (600; 100%), <tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt> (403; 67%), <tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (329; 55%).
 
 `DET` tokens may have the following values of `Poss`:
 
-* `Yes` (598; 100% of non-empty `Poss`): <em>mio, mia, suo, sua, suoi, tuo, loro, nostro, tua, miei</em>
-* `EMPTY` (13840): <em>il, la, i, l', un, le, una, gli, lo, che</em>
+* `Yes` (600; 100% of non-empty `Poss`): <em>mio, mia, suo, sua, suoi, tuo, loro, nostro, tua, miei</em>
+* `EMPTY` (13871): <em>il, la, i, l', un, le, una, gli, lo, che</em>
 
 ### `PRON`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (39; 100% of non-empty `Poss`): <em>tua, mio, sua, suoi, mia, miei, mie, suo, LORO, nostri</em>
-* `EMPTY` (6431): <em>che, si, mi, ci, lo, ti, tutti, io, chi, c'</em>
+* `EMPTY` (6444): <em>che, si, mi, ci, lo, ti, tutti, io, chi, c'</em>
 
 ## Relations with Agreement in `Poss`
 

@@ -12,19 +12,19 @@ It occurs with 2 different values: `Imp`, `Perf`.
 18141 tokens (9%) have a non-empty value of `Aspect`.
 5933 types (20%) occur at least once with a non-empty value of `Aspect`.
 1536 lemmas (18%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 2 part-of-speech tags: <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (16522; 8% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (1619; 1% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (16523; 8% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (1618; 1% instances).
 
 ### `VERB`
 
-16522 <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> tokens (41% of all `VERB` tokens) have a non-empty value of `Aspect`.
+16523 <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> tokens (41% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (16035; 97%), <tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11505; 70%), <tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (11497; 70%), <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11182; 68%), <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (10743; 65%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10549; 64%), <tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (8970; 54%), <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (8880; 54%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (16036; 97%), <tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11506; 70%), <tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (11498; 70%), <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11183; 68%), <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (10743; 65%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10550; 64%), <tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (8970; 54%), <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (8881; 54%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (3725; 23% of non-empty `Aspect`): <em>dicebant, dicebat, posset, possent, habebat, habebant, fieret, diceret, poterat, sedebat</em>
+* `Imp` (3726; 23% of non-empty `Aspect`): <em>dicebant, dicebat, posset, possent, habebat, habebant, fieret, diceret, poterat, sedebat</em>
 * `Perf` (12797; 77% of non-empty `Aspect`): <em>dixit, venit, factum, dixerunt, misit, facta, fecit, respondit, dedit, scriptum</em>
-* `EMPTY` (24168): <em>ait, dicit, dico, dicens, dicentes, habet, potest, facere, fieri, respondens</em>
+* `EMPTY` (24169): <em>ait, dicit, dico, dicens, dicentes, habet, potest, facere, fieri, respondens</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -64,15 +64,15 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 ### `AUX`
 
-1619 <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> tokens (21% of all `AUX` tokens) have a non-empty value of `Aspect`.
+1618 <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> tokens (21% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1618; 100%), <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1573; 97%), <tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1537; 95%), <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (1403; 87%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1147; 71%), <tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1119; 69%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="la_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1618; 100%), <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1572; 97%), <tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1536; 95%), <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (1402; 87%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1146; 71%), <tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1119; 69%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
-* `Imp` (1179; 73% of non-empty `Aspect`): <em>erat, esset, erant, essent, essem, eram, esses, essemus, eramus, essetis</em>
+* `Imp` (1178; 73% of non-empty `Aspect`): <em>erat, esset, erant, essent, essem, eram, esses, essemus, eramus, essetis</em>
 * `Perf` (440; 27% of non-empty `Aspect`): <em>fuit, fuerit, fuisse, fuerunt, fuerint, fui, fuimus, fuero, fuistis, fueritis</em>
-* `EMPTY` (6228): <em>est, sunt, esse, sit, sum, erit, estis, es, sumus, sint</em>
+* `EMPTY` (6227): <em>est, sunt, esse, sit, sum, erit, estis, es, sumus, sint</em>
 
 <table>
   <tr><th>Paradigm <i>sum</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>

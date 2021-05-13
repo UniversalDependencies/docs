@@ -44,7 +44,7 @@ The following 13 pairs of parts of speech are connected with `appos`: <tt><a hre
 2	ئىككىمىز	ئىككى	NUM	M	Case=Nom|Number[psor]=Plur|NumType=Ord|Person[psor]=1	5	nsubj	_	Translit=ikkimiz
 3	دائىم	دائىم	ADV	D	_	5	advmod	_	Translit=daim
 4	يايلاقتا	يايلاق	NOUN	N	Case=Loc	5	obl	_	Translit=yaylaqta
-5	ئوينايمىز	ئوينا	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=oynaymiz
+5	ئوينايمىز	ئوينا	VERB	V	Aspect=Hab|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=oynaymiz
 6	.	.	PUNCT	Y	_	5	punct	_	Translit=.
 
 ~~~
@@ -58,7 +58,7 @@ The following 13 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 1 2 appos	color:blue
 1	پادىشاھ	پادىشاھ	NOUN	N	Case=Nom	7	nsubj	_	Translit=padishah
 2	ئۆزى	ئۆز	PRON	P	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3|Reflex=Yes	1	appos	_	Translit=özi
-3	ئەڭ	ئەڭ	PRON	D	Case=Nom	4	advmod	_	Translit=eng
+3	ئەڭ	ئەڭ	PRON	D	Case=Nom	4	obl	_	Translit=eng
 4	ئالىي	ئالىي	ADJ	A	_	5	amod	_	Translit=aliy
 5	چەۋەندازلىرىنى	چەۋەنداز	ADJ	N	Case=Acc|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3	6	obj	_	Translit=chewendazlirini
 6	باشلاپ	باشلاپ	NOUN	V	Case=Nom	7	advcl	_	Translit=bashlap

@@ -11,7 +11,7 @@ It occurs with 1 different values: `Pass`.
 
 1394 tokens (1%) have a non-empty value of `Voice`.
 568 types (3%) occur at least once with a non-empty value of `Voice`.
-559 lemmas (3%) occur at least once with a non-empty value of `Voice`.
+559 lemmas (4%) occur at least once with a non-empty value of `Voice`.
 The feature is used with 1 part-of-speech tags: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (1394; 1% instances).
 
 ### `VERB`
@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 `VERB` tokens may have the following values of `Voice`:
 
 * `Pass` (1394; 100% of non-empty `Voice`): <em>attached, made, used, told, done, sent, called, born, appreciated, given</em>
-* `EMPTY` (27012): <em>have, get, know, had, is, go, do, want, said, see</em>
+* `EMPTY` (26983): <em>have, get, know, had, is, go, do, want, said, see</em>
 
 `Voice` seems to be **lexical feature** of `VERB`. 100% lemmas (559) occur only with one value of `Voice`.
 

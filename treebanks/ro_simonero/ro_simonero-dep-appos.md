@@ -22,17 +22,17 @@ The following 40 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 appos	color:blue
-1	El	el	PRON	Pp3msr--------s	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	3	nsubj	_	O
-2	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	O
-3	depozitat	depozita	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	O
-4	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	O
-5	organite	organit	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	3	obl	_	O
-6	specifice	specific	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	5	amod	_	O
-7	,	,	PUNCT	COMMA	_	8	punct	_	O
-8	veziculele	veziculă	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	5	appos	_	B-CHEM
-9	GLUT	GLUT	NOUN	Yn	Abbr=Yes	8	nmod	_	I-CHEM
-10	4	4	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	9	nummod	_	O
-11	.	.	PUNCT	PERIOD	_	3	punct	_	O
+1	El	el	PRON	Pp3msr--------s	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	3	nsubj:pass	_	_
+2	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
+3	depozitat	depozita	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+4	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	_
+5	organite	organit	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	3	obl	_	_
+6	specifice	specific	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	5	amod	_	SpaceAfter=No
+7	,	,	PUNCT	COMMA	_	8	punct	_	_
+8	veziculele	veziculă	NOUN	Ncfpry	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	5	appos	_	BioNERLabel=B-CHEM
+9	GLUT	GLUT	NOUN	Yn	Abbr=Yes	8	nmod	_	BioNERLabel=I-CHEM
+10	4	4	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	9	nummod	_	SpaceAfter=No
+11	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
 ~~~
 
@@ -43,12 +43,12 @@ The following 40 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 appos	color:blue
-1	Hemoglobina	hemoglobină	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	B-CHEM
-2	glicată	glicat	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	1	amod	_	I-CHEM
-3	(	(	PUNCT	LPAR	_	4	punct	_	O
-4	A1c	A1c	X	X	_	1	appos	_	B-CHEM
-5	)	)	PUNCT	RPAR	_	4	punct	_	O
-6	.	.	PUNCT	PERIOD	_	1	punct	_	O
+1	Hemoglobina	hemoglobină	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	BioNERLabel=B-CHEM
+2	glicată	glicat	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	1	amod	_	BioNERLabel=I-CHEM
+3	(	(	PUNCT	LPAR	_	4	punct	_	SpaceAfter=No
+4	A1c	A1c	X	X	_	1	appos	_	BioNERLabel=B-CHEM|SpaceAfter=No
+5	)	)	PUNCT	RPAR	_	4	punct	_	SpaceAfter=No
+6	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
 ~~~
 
@@ -59,29 +59,29 @@ The following 40 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 15 appos	color:blue
-1	Autorii	autor	NOUN	Ncmpry	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	3	nsubj	_	O
-2	au	avea	AUX	Va--3p	Number=Plur|Person=3|VerbForm=Fin	3	aux	_	O
-3	efectuat	efectua	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	O
-4	EC	EC	NOUN	Yn	Abbr=Yes	3	obj	_	B-PROC
-5	și	și	CCONJ	Crssp	Polarity=Pos	6	cc	_	O
-6	FSIVGTT	FSIVGTT	NOUN	Yn	Abbr=Yes	4	conj	_	B-PROC
-7	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	O
-8	un	un	DET	Timsr	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	9	det	_	O
-9	număr	număr	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	3	obl	_	O
-10	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	O
-11	56	56	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	12	nummod	_	O
-12	subiecți	subiect	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	9	nmod	_	O
-13	(	(	PUNCT	LPAR	_	15	punct	_	O
-14	28	28	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	15	nummod	_	O
-15	nonobezi	nonobez	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	12	appos	_	O
-16	,	,	PUNCT	COMMA	_	18	punct	_	O
-17	13	13	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	18	nummod	_	O
-18	obezi	obez	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	15	conj	_	O
-19	și	și	CCONJ	Crssp	Polarity=Pos	21	cc	_	O
-20	15	15	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	21	nummod	_	O
-21	diabetici	diabetic	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	15	conj	_	O
-22	)	)	PUNCT	RPAR	_	15	punct	_	O
-23	.	.	PUNCT	PERIOD	_	3	punct	_	O
+1	Autorii	autor	NOUN	Ncmpry	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	3	nsubj	_	_
+2	au	avea	AUX	Va--3p	Number=Plur|Person=3|VerbForm=Fin	3	aux	_	_
+3	efectuat	efectua	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+4	EC	EC	NOUN	Yn	Abbr=Yes	3	obj	_	BioNERLabel=B-PROC
+5	și	și	CCONJ	Crssp	Polarity=Pos	6	cc	_	_
+6	FSIVGTT	FSIVGTT	NOUN	Yn	Abbr=Yes	4	conj	_	BioNERLabel=B-PROC
+7	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
+8	un	un	DET	Timsr	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	9	det	_	_
+9	număr	număr	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	3	obl	_	_
+10	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	_
+11	56	56	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	12	nummod	_	_
+12	subiecți	subiect	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	9	nmod	_	_
+13	(	(	PUNCT	LPAR	_	15	punct	_	SpaceAfter=No
+14	28	28	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	15	nummod	_	_
+15	nonobezi	nonobez	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	12	appos	_	SpaceAfter=No
+16	,	,	PUNCT	COMMA	_	18	punct	_	_
+17	13	13	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	18	nummod	_	_
+18	obezi	obez	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	15	conj	_	_
+19	și	și	CCONJ	Crssp	Polarity=Pos	21	cc	_	_
+20	15	15	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	21	nummod	_	_
+21	diabetici	diabetic	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	15	conj	_	SpaceAfter=No
+22	)	)	PUNCT	RPAR	_	15	punct	_	SpaceAfter=No
+23	.	.	PUNCT	PERIOD	_	3	punct	_	_
 
 ~~~
 

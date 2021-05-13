@@ -30,7 +30,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 6	สุด	_	ADV	RB	_	5	advmod	_	SpaceAfter=No
 7	ตาม	_	ADP	IN	_	10	case	_	SpaceAfter=No
 8	ที่	_	DET	WDT	_	10	nsubj	_	SpaceAfter=No
-9	ได้รับ	_	VERB	MD	Voice=Pass	10	aux	_	SpaceAfter=No
+9	ได้รับ	_	AUX	MD	Voice=Pass	10	aux	_	SpaceAfter=No
 10	อนุญาต	_	VERB	VV	_	5	xcomp	_	_
 
 ~~~
@@ -75,7 +75,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 4	เป็น	_	AUX	VC	_	5	cop	_	SpaceAfter=No
 5	ที่	_	NOUN	NN	_	1	acl:relcl	_	SpaceAfter=No
 6	ปรึกษา	_	VERB	VV	_	5	acl	_	SpaceAfter=No
-7	ได้	_	PART	AS	Aspect=Perf	8	aux	_	SpaceAfter=No
+7	ได้	_	AUX	AS	Aspect=Perf	8	aux	_	SpaceAfter=No
 8	กล่าว	_	VERB	VV	_	0	root	_	SpaceAfter=No
 9	ว่า	_	ADP	IN	_	13	mark	_	SpaceAfter=No
 10	มัน	_	PRON	PRP	Person=3	13	nsubj	_	SpaceAfter=No

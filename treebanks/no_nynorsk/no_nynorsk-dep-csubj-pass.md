@@ -13,7 +13,7 @@ This relation is a language-specific subtype of <tt><a href="no_nynorsk-dep-csub
 2 instances of `csubj:pass` (67%) are left-to-right (parent precedes child).
 Average distance between parent and child is 6.33333333333333.
 
-The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (3; 100% instances).
+The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (3; 100% instances).
 
 
 ~~~ conllu
@@ -35,7 +35,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 11	for	for	ADP	_	_	12	case	_	_
 12	handverk	handverk	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	10	nmod	_	_
 13	blei	bli	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	14	aux:pass	_	_
-14	vist	vise	ADJ	_	Definite=Ind|Gender=Neut|Number=Sing|VerbForm=Part	0	root	_	SpaceAfter=No
+14	vist	vise	VERB	_	Definite=Ind|Gender=Neut|Number=Sing|VerbForm=Part	0	root	_	SpaceAfter=No
 15	.	$.	PUNCT	_	_	14	punct	_	_
 
 ~~~

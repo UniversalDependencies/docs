@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-ParTUT: POS Tags: `VERB`
 
-There are 1033 `VERB` lemmas (16%), 1725 `VERB` types (23%) and 4728 `VERB` tokens (10%).
+There are 1032 `VERB` lemmas (16%), 1725 `VERB` types (23%) and 4728 `VERB` tokens (10%).
 Out of 17 observed tags, the rank of `VERB` is: 3 in number of lemmas, 2 in number of types and 5 in number of tokens.
 
 The 10 most frequent `VERB` lemmas: <em>have, be, make, take, like, include, use, write, do, give</em>
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>have</em> (<tt><a href="en_partut-pos
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 1.669894 (the average of all parts of speech is 1.199053).
+The form / lemma ratio of `VERB` is 1.671512 (the average of all parts of speech is 1.199242).
 
 The 1st highest number of forms (8) was observed with the lemma “be”: <em>'s, are, be, been, being, is, was, were</em>.
 

@@ -11,7 +11,7 @@ This relation is universal.
 1950 nodes (2%) are attached to their parents as `mark`.
 
 1949 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.73179487179487.
+Average distance between parent and child is 2.73641025641026.
 
 The following 20 pairs of parts of speech are connected with `mark`: <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (1389; 71% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (229; 12% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> (123; 6% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (95; 5% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-PART.html">PART</a></tt> (23; 1% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> (15; 1% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (14; 1% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt>-<tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (12; 1% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt>-<tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (10; 1% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt>-<tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt>-<tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="sk_snk-pos-X.html">X</a></tt>-<tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt>-<tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt>-<tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt>-<tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
@@ -60,22 +60,22 @@ The following 20 pairs of parts of speech are connected with `mark`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 mark	color:blue
-1	Či	či	CCONJ	O	_	4	mark	4:mark	_
-2	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	4	expl:pv	4:expl:pv	_
-3	to	to	DET	PFns1	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	4:nsubj	_
-4	stalo	stať	VERB	VLdscn+	Aspect=Perf|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	10	csubj	10:csubj	_
-5	s	s	ADP	Eu7	AdpType=Prep|Case=Ins	7	case	7:case	_
-6	Husravovým	husravov	ADJ	AFns7x:r	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	7	amod	7:amod	_
-7	vedomím	vedomie	NOUN	SSns7	Case=Ins|Gender=Neut|Number=Sing	4	obl	4:obl:s:ins	SpaceAfter=No
-8	,	,	PUNCT	Z	_	4	punct	4:punct	_
-9	je	byť	AUX	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	cop	10:cop	_
-10	nejasné	nejasný	ADJ	AAns1x	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	0:root	SpaceAfter=No
-11	.	.	PUNCT	Z	_	10	punct	10:punct	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 5 mark	color:blue
+1	Spornou	sporný	ADJ	AAfs7x	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	2	amod	2:amod	_
+2	otázkou	otázka	NOUN	SSfs7	Case=Ins|Gender=Fem|Number=Sing	3	obl:arg	3:obl:arg:ins	_
+3	zostávalo	zostávať	VERB	VLescn+	Aspect=Imp|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	0:root	SpaceAfter=No
+4	,	,	PUNCT	Z	_	9	punct	9:punct	_
+5	či	či	CCONJ	O	_	9	mark	9:mark	_
+6	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	10	expl:pv	10:expl:pv	_
+7	rysy	rys	NOUN	SSip1	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	9	nsubj	9:nsubj|10:nsubj	_
+8	Mesiaca	mesiac	PROPN	SSis2:r	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	7:nmod:gen	_
+9	môžu	môcť	VERB	VKepc+	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	csubj	3:csubj	_
+10	meniť	meniť	VERB	VIe+	Aspect=Imp|Polarity=Pos|VerbForm=Inf	9	xcomp	9:xcomp	SpaceAfter=No
+11	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
 ~~~
 

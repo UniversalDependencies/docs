@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Kim Gerdes, John Lee, Herman Leung, Tak-sum Wong.
 
 Repository: [UD_Cantonese-HK](https://github.com/UniversalDependencies/UD_Cantonese-HK)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udyue_hk27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udyue_hk28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -88,7 +88,7 @@ This work was partially supported by a grant from the PROCORE-France/Hong Kong J
 </ul>
 
 <ul>
-<li>This corpus contains 7 types of words that contain both letters and punctuation. Examples: Yes!, D​e​c​l​a​r​a​t​i​o​n​_​o​f​_​R​e​n​u​n​c​i​a​t​i​o​n​_​o​f​_​U​K​_​c​i​t​i​z​e​n​s​h​i​p, Next-stop-is-Tin-Fu, a​n​g​l​e​-​s​u​m​-​o​f​-​t​r​i​a​n​g​l​e, a​r​b​i​t​r​a​r​y​_​u​s​e​_​o​f​_​p​o​w​e​r, last-touch, 一而再，再而三</li>
+<li>This corpus contains 7 types of words that contain both letters and punctuation. Examples: Yes!, Declaration_of_Renunciation_of_UK_citizenship, Next-stop-is-Tin-Fu, angle-sum-of-triangle, arbitrary_use_of_power, last-touch, 一而再，再而三</li>
 </ul>
 
 <ul>
@@ -120,11 +120,11 @@ This work was partially supported by a grant from the PROCORE-France/Hong Kong J
 </ul>
 
 <ul>
-<li>This corpus contains 29 lemmas tagged as auxiliaries (AUX): _, 中意, 住, 使, 係, 係咪, 冇, 可, 可以, 可能, 咗, 唔使, 唔好, 好, 希望, 得, 想, 應該, 會, 有, 緊, 肯, 要, 覺得, 該, 識, 識得, 過, 需要</li>
+<li>This corpus contains 28 lemmas tagged as auxiliaries (AUX): _, 中意, 住, 使, 係, 冇, 可, 可以, 可能, 咗, 唔使, 唔好, 好, 希望, 得, 想, 應該, 會, 有, 緊, 肯, 要, 覺得, 該, 識, 識得, 過, 需要</li>
 </ul>
 
 <ul>
-<li>Out of the above, 15 lemmas occurred sometimes as AUX and sometimes as VERB: _, 中意, 住, 使, 係, 係咪, 冇, 唔使, 得, 想, 有, 要, 覺得, 識, 過</li>
+<li>Out of the above, 14 lemmas occurred sometimes as AUX and sometimes as VERB: _, 中意, 住, 使, 係, 冇, 唔使, 得, 想, 有, 要, 覺得, 識, 過</li>
 </ul>
 
 <ul>
@@ -173,9 +173,7 @@ This work was partially supported by a grant from the PROCORE-France/Hong Kong J
     <ul>
       <li>Clf
         <ul>
-          <li>DET: 依個</li>
           <li>NOUN: 個, 啲, 蚊, 條, 位, 年, 次, 點, 份, 封</li>
-          <li>PART: 個, 啲</li>
         </ul>
       </li>
     </ul>
@@ -187,7 +185,7 @@ This work was partially supported by a grant from the PROCORE-France/Hong Kong J
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: _、 係、 係咪.</li>
+<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: _、 係.</li>
 </ul>
 
 <ul>

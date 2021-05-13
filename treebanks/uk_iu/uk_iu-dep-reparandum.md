@@ -37,7 +37,7 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 13	головне	головний	ADJ	Afpnsns	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	14	amod	14:amod	Id=040v|LTranslit=holovnyj|Translit=holovne
 14	місто	місто	NOUN	Ncnsnn	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	11	appos	11:appos	Id=040w|LTranslit=misto|Translit=misto
 15	Злітно	злітний	ADJ	A	Hyph=Yes	17	compound	17:compound	Id=040x|LTranslit=zlitnyj|SpaceAfter=No|Translit=Zlitno
-16	-	-	PUNCT	U	PunctType=Hyph	15	punct	15:punct	Id=040y|LTranslit=-|SpaceAfter=No|Translit=-
+16	-	-	PUNCT	U	PunctType=Dash	15	punct	15:punct	Id=040y|LTranslit=-|SpaceAfter=No|Translit=-
 17	посадкової	посадковий	ADJ	Ao-fsgf	Case=Gen|Gender=Fem|Number=Sing	18	amod	18:amod	Id=040z|LTranslit=posadkovyj|Translit=posadkovoji
 18	Смуги	смуга	NOUN	Ncfsgn	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	14:nmod	Id=0410|LTranslit=smuha|Translit=Smuhy
 19	Один	один	NUM	Mlcmsn	Case=Nom|Gender=Masc|NumType=Card	18	flat:title	18:flat:title	Id=0411|LTranslit=odyn|SpaceAfter=No|Translit=Odyn

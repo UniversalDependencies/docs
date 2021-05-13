@@ -48,7 +48,7 @@ The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href
 5	dibinde	dip	NOUN	Noun	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	2	conj	_	_
 6	kuruyemiş	kuruyemiş	NOUN	Noun	Case=Nom|Number=Sing|Person=3	7	nmod:poss	_	_
 7	kavanozunun	kavanoz	NOUN	Noun	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	nmod:poss	_	SpaceAfter=No
-8	.	.	PUNCT	Punc	_	1	punct	_	_
+8	.	.	PUNCT	Punc	_	2	punct	_	_
 
 ~~~
 

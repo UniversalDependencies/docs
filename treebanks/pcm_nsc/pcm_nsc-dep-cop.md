@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2529 nodes (2%) are attached to their parents as `cop`.
+2651 nodes (2%) are attached to their parents as `cop`.
 
-2529 instances of `cop` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.25425069197311.
+2651 instances of `cop` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.19539796303282.
 
-The following 14 pairs of parts of speech are connected with `cop`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (1168; 46% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (351; 14% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (311; 12% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (255; 10% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (172; 7% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (138; 5% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (51; 2% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (26; 1% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (20; 1% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (12; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `cop`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (1170; 44% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (469; 18% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (312; 12% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (253; 10% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (172; 6% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (139; 5% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (51; 2% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (26; 1% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (21; 1% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 14 pairs of parts of speech are connected with `cop`: <tt><a href=
 6	if	if	SCONJ	_	_	9	mark	_	AlignBegin=234295|AlignEnd=234500|Gloss=if
 7	na	na	AUX	_	PartType=Cop	9	cop	_	AlignBegin=234500|AlignEnd=234670|Gloss=be
 8	dat	dat	DET	_	Number=Sing|PronType=Dem	9	det	_	AlignBegin=234670|AlignEnd=234830|Gloss=SG.DEM
-9	one	one	NOUN	_	_	12	acl:periph	_	AlignBegin=234830|AlignEnd=235109|Gloss=one
+9	one	one	NOUN	_	_	12	acl	_	AlignBegin=234830|AlignEnd=235109|Gloss=one
 10	<	<	X	_	_	9	dep	_	AlignBegin=235109|AlignEnd=235139|Gloss=PUNCT
 11	no	no	PART	_	Polarity=Neg	12	advmod	_	AlignBegin=235139|AlignEnd=235370|Gloss=NEG
 12	problem	problem	NOUN	_	_	3	parataxis	_	AlignBegin=235370|AlignEnd=235725|Gloss=problem
@@ -70,7 +70,7 @@ The following 14 pairs of parts of speech are connected with `cop`: <tt><a href=
 4	we	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	AlignBegin=95227|AlignEnd=95299|Gloss=NOM.PL.1
 5	con	con	AUX	_	Aspect=Cons	6	aux	_	AlignBegin=95299|AlignEnd=95509|Gloss=CONS
 6	do	do	VERB	_	_	2	advcl:cleft	_	AlignBegin=95509|AlignEnd=95734|Gloss=do
-7	o	o	PART	_	PartType=Disc	6	advmod:emph	_	AlignBegin=95734|AlignEnd=95849|Gloss=EMPH
+7	o	o	PART	_	PartType=Disc	6	advmod	_	AlignBegin=95734|AlignEnd=95849|Gloss=EMPH
 8	//	//	X	_	_	2	dep	_	AlignBegin=95849|AlignEnd=95879|Gloss=PUNCT
 
 ~~~

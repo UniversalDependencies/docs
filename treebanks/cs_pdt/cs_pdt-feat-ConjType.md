@@ -16,7 +16,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="cs_pdt-pos-SYM.html
 
 ### `SYM`
 
-151 <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> tokens (12% of all `SYM` tokens) have a non-empty value of `ConjType`.
+151 <tt><a href="cs_pdt-pos-SYM.html">SYM</a></tt> tokens (11% of all `SYM` tokens) have a non-empty value of `ConjType`.
 
 `SYM` tokens may have the following values of `ConjType`:
 

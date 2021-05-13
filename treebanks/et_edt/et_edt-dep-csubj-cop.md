@@ -64,7 +64,7 @@ The following 18 pairs of parts of speech are connected with `csubj:cop`: <tt><a
 # visual-style 6	fgColor:white
 # visual-style 6 7 csubj:cop	color:blue
 1	“	“	PUNCT	Z	_	6	punct	6:punct	_
-2	Paari	paar	NUM	N	Case=Gen|Number=Sing|NumForm=Letter|NumType=Card	3	nummod	3:nummod	_
+2	Paari	paar	NUM	N	Case=Gen|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	_
 3	kuu	kuu	NOUN	S	Case=Gen|Number=Sing	6	obl	6:obl	_
 4	pärast	pärast	ADP	K	AdpType=Post	3	case	3:case	_
 5	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	6:cop	_

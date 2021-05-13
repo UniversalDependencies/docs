@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Turkish-PUD: POS Tags: `DET`
 
-There are 24 `DET` lemmas (0%), 22 `DET` types (0%) and 690 `DET` tokens (4%).
+There are 23 `DET` lemmas (0%), 21 `DET` types (0%) and 689 `DET` tokens (4%).
 Out of 16 observed tags, the rank of `DET` is: 10 in number of lemmas, 11 in number of types and 8 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>bir, bu, her, diğer, birçok, bazı, tüm, o, birkaç, şu</em>
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>bir</em> (<tt><a href="tr_pud-pos-DET
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 0.916667 (the average of all parts of speech is 1.503294).
+The form / lemma ratio of `DET` is 0.913043 (the average of all parts of speech is 1.517067).
 
 The 1st highest number of forms (1) was observed with the lemma “%”: <em>%</em>.
 
@@ -62,22 +62,22 @@ The 2nd highest number of forms (1) was observed with the lemma “50”: <em>50
 
 The 3rd highest number of forms (1) was observed with the lemma “_”: <em>%</em>.
 
-`DET` occurs with 8 features: <tt><a href="tr_pud-feat-Number.html">Number</a></tt> (688; 100% instances), <tt><a href="tr_pud-feat-Definite.html">Definite</a></tt> (677; 98% instances), <tt><a href="tr_pud-feat-Polarity.html">Polarity</a></tt> (673; 98% instances), <tt><a href="tr_pud-feat-Case.html">Case</a></tt> (6; 1% instances), <tt><a href="tr_pud-feat-PronType.html">PronType</a></tt> (4; 1% instances), <tt><a href="tr_pud-feat-NumType.html">NumType</a></tt> (1; 0% instances), <tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt> (1; 0% instances), <tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt> (1; 0% instances)
+`DET` occurs with 3 features: <tt><a href="tr_pud-feat-Definite.html">Definite</a></tt> (677; 98% instances), <tt><a href="tr_pud-feat-Polarity.html">Polarity</a></tt> (673; 98% instances), <tt><a href="tr_pud-feat-PronType.html">PronType</a></tt> (3; 0% instances)
 
-`DET` occurs with 11 feature-value pairs: `Case=Acc`, `Case=Loc`, `Definite=Def`, `Definite=Ind`, `NumType=Ord`, `Number=Sing`, `Number[psor]=Sing`, `Person[psor]=3`, `Polarity=Neg`, `Polarity=Pos`, `PronType=Int`
+`DET` occurs with 5 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Polarity=Neg`, `Polarity=Pos`, `PronType=Int`
 
-`DET` occurs with 12 feature combinations.
-The most frequent feature combination is `Definite=Ind|Number=Sing|Polarity=Pos` (462 tokens).
+`DET` occurs with 7 feature combinations.
+The most frequent feature combination is `Definite=Ind|Polarity=Pos` (462 tokens).
 Examples: <em>bir, birçok, bazı, birkaç, herhangi, Birtakım</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 5 different relations: <tt><a href="tr_pud-dep-det.html">det</a></tt> (679; 98% instances), <tt><a href="tr_pud-dep-det-predet.html">det:predet</a></tt> (8; 1% instances), <tt><a href="tr_pud-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="tr_pud-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="tr_pud-dep-obl.html">obl</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 4 different relations: <tt><a href="tr_pud-dep-det.html">det</a></tt> (686; 100% instances), <tt><a href="tr_pud-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="tr_pud-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="tr_pud-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 6 different parts of speech: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (672; 97% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 7 different parts of speech: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (657; 95% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (17; 2% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-688 (100%) `DET` nodes are leaves.
+687 (100%) `DET` nodes are leaves.
 
 2 (0%) `DET` nodes have one child.
 

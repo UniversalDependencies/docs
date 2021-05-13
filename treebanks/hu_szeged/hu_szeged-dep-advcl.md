@@ -25,11 +25,11 @@ The following 32 pairs of parts of speech are connected with `advcl`: <tt><a hre
 1	Olykor	olykor	ADV	_	PronType=Ind	3	advmod:tlocy	_	_
 2	annyira	annyira	ADV	_	PronType=Dem	3	advmod:mode	_	_
 3	koncentráltam	koncentrál	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	3	punct	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
 5	hogy	hogy	SCONJ	_	_	6	mark	_	_
 6	könynyezett	könnyezik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	_
 7	a	a	DET	_	Definite=Def|PronType=Art	8	det	_	_
-8	szemem	szem	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=Sing|Person[psor]=1	6	nsubj	_	SpaceAfter=No
+8	szemem	szem	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	6	nsubj	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -44,12 +44,12 @@ The following 32 pairs of parts of speech are connected with `advcl`: <tt><a hre
 1	S	s	CCONJ	_	_	10	cc	_	_
 2	miközben	miközben	ADV	_	PronType=Rel	5	advmod:mode	_	_
 3	Törökország	Törökország	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
-4	ásványkincsekben	ásványkincs	NOUN	_	Case=Ine|Number=Plur	5	nmod:obl	_	_
+4	ásványkincsekben	ásványkincs	NOUN	_	Case=Ine|Number=Plur	5	obl	_	_
 5	szegény	szegény	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	10	advcl	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	külkereskedelme	külkereskedelem	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	nsubj	_	_
 8	gyors	gyors	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	9	amod:att	_	_
-9	ütemben	ütem	NOUN	_	Case=Ine|Number=Sing	10	nmod:obl	_	_
+9	ütemben	ütem	NOUN	_	Case=Ine|Number=Sing	10	obl	_	_
 10	bővül	bővül	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	10	punct	_	_
 
@@ -63,15 +63,15 @@ The following 32 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 9	fgColor:white
 # visual-style 9 5 advcl	color:blue
 1	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
-2	Ő	ő	PRON	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|PronType=Prs	5	nsubj	_	_
+2	Ő	ő	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 3	a	a	DET	_	Definite=Def|PronType=Art	5	det	_	_
-4	mi	mi	PRON	_	Case=Nom|Number=Plur|Number[psed]=None|Number[psor]=None|Person=1|Person[psor]=None|PronType=Prs	5	nmod:att	_	_
-5	emberünk	ember	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=Plur|Person[psor]=1	9	advcl	_	SpaceAfter=No
+4	mi	mi	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nmod:att	_	_
+5	emberünk	ember	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	9	advcl	_	SpaceAfter=No
 6	!	!	PUNCT	_	_	5	punct	_	SpaceAfter=No
 7	"	"	PUNCT	_	_	5	punct	_	_
-8	—	—	PUNCT	_	_	9	punct	_	_
+8	—	—	PUNCT	_	_	5	punct	_	_
 9	lelkesedett	lelkesedik	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-10	Rankovic	Rankovic	PROPN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	9	nsubj	_	SpaceAfter=No
+10	Rankovic	Rankovic	PROPN	_	Case=Nom|Number=Sing	9	nsubj	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	9	punct	_	_
 
 ~~~

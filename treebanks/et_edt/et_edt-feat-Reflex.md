@@ -23,5 +23,5 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (1164; 100% of non-empty `Reflex`): <em>ise, end, endale, enda, ennast, endast, endal, iseenda, enese, endaga</em>
-* `EMPTY` (21854): <em>ta, see, oma, mis, ma, kes, seda, tema, mida, nad</em>
+* `EMPTY` (21853): <em>ta, see, oma, mis, ma, kes, seda, tema, mida, nad</em>
 

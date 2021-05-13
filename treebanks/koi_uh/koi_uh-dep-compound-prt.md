@@ -35,7 +35,7 @@ The following 1 pairs of parts of speech are connected with `compound:prt`: <tt>
 11	гусьӧник	гусьӧник	ADV	Adv	_	10	advmod	_	SpaceAfter=No
 12	,	,	PUNCT	CLB	_	14	punct	_	_
 13	дзик	дзик	ADV	Adv	AdvType=Deg	14	advmod:deg	_	GTtags=AdA
-14	ас	ас	DET	Det	PronType=Refl	11	appos	_	GTtags=Pron,Refl,Cmpl
+14	ас	ас	PRON	Pron	PronType=Prs|Reflex=Yes	11	appos	_	GTtags=Pron,Refl,Cmpl
 15	кежас	кежӧ	ADP	Adp	AdpType=Post|Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	14	case	_	GTtags=Po,Sg,Ill,PxSg3|SpaceAfter=No
 16	,	,	PUNCT	CLB	_	14	punct	_	_
 17	сэсся	сэсся	ADV	Adv	_	19	advmod:tmod	_	_

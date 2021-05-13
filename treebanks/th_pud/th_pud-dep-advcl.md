@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-321 nodes (1%) are attached to their parents as `advcl`.
+341 nodes (2%) are attached to their parents as `advcl`.
 
-267 instances of `advcl` (83%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.14953271028037.
+286 instances of `advcl` (84%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.78592375366569.
 
-The following 15 pairs of parts of speech are connected with `advcl`: <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (268; 83% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (14; 4% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (11; 3% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (10; 3% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `advcl`: <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (286; 84% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (15; 4% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (12; 4% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (10; 3% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 15 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 3	fgColor:white
 # visual-style 3 6 advcl	color:blue
 1	เธอ	_	PRON	PRP	Person=3	3	nsubj:pass	_	SpaceAfter=No
-2	ถูก	_	VERB	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No
+2	ถูก	_	AUX	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No
 3	ตั้ง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 4	ข้อหา	_	NOUN	NN	_	3	obj	_	SpaceAfter=No
 5	ฐาน	_	ADP	IN	_	6	mark	_	SpaceAfter=No
@@ -52,37 +52,30 @@ The following 15 pairs of parts of speech are connected with `advcl`: <tt><a hre
 3	ทุก	_	DET	DT	_	4	det	_	SpaceAfter=No
 4	คน	_	NOUN	NNB	_	0	root	_	SpaceAfter=No
 5	ที่	_	ADP	IN	_	7	mark	_	SpaceAfter=No
-6	สามารถ	_	VERB	MD	_	7	aux	_	SpaceAfter=No
+6	สามารถ	_	AUX	MD	_	7	aux	_	SpaceAfter=No
 7	อยู่	_	VERB	VV	_	4	advcl	_	SpaceAfter=No
 8	เหนือ	_	ADP	IN	_	9	case	_	SpaceAfter=No
 9	มัน	_	PRON	PRP	Person=3	7	obl	_	SpaceAfter=No
-10	ได้	_	VERB	MD	_	7	aux	_	_
+10	ได้	_	AUX	MD	_	7	aux	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 10 advcl	color:blue
-1	แต่	_	CCONJ	CC	_	5	cc	_	SpaceAfter=No
-2	ก็	_	ADV	RB	_	5	advmod	_	SpaceAfter=No
-3	คง	_	VERB	MD	_	5	aux	_	SpaceAfter=No
-4	ไม่	_	PART	NEG	Polarity=Neg	5	advmod	_	SpaceAfter=No
-5	สำคัญ	_	ADJ	JJ	_	0	root	_	SpaceAfter=No
-6	เพราะ	_	ADP	IN	_	10	mark	_	SpaceAfter=No
-7	ฉัน	_	PRON	PRP	Person=1	10	nsubj	_	SpaceAfter=No
-8	จะ	_	VERB	MD	_	10	aux	_	SpaceAfter=No
-9	ไม่	_	PART	NEG	Polarity=Neg	10	advmod	_	SpaceAfter=No
-10	มี	_	VERB	VV	_	5	advcl	_	SpaceAfter=No
-11	ปัญหา	_	NOUN	NN	_	10	obj	_	SpaceAfter=No
-12	กับ	_	ADP	IN	_	13	case	_	SpaceAfter=No
-13	มัน	_	PRON	PRP	Person=3	10	obl	_	SpaceAfter=No
-14	นาน	_	ADV	RB	_	10	advmod	_	SpaceAfter=No
-15	นัก	_	ADV	RB	_	10	advmod	_	SpaceAfter=No
-16	หรอก	_	PART	EP	_	10	discourse	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 advcl	color:blue
+1	และ	_	CCONJ	CC	_	3	cc	_	SpaceAfter=No
+2	แน่นอน	_	ADV	RB	_	3	advmod	_	_
+3	มี	_	VERB	VV	_	0	root	_	SpaceAfter=No
+4	บ็อบ	_	PROPN	NNP	_	3	obj	_	SpaceAfter=No
+5	ซึ่ง	_	DET	WDT	_	7	nsubj	_	SpaceAfter=No
+6	เป็น	_	AUX	VC	_	7	cop	_	SpaceAfter=No
+7	แหล่ง	_	NOUN	NN	_	4	acl:relcl	_	SpaceAfter=No
+8	ความฮา	_	ADJ	JJ	_	7	compound	_	SpaceAfter=No
+9	อย่างต่อเนื่อง	_	VERB	VV	_	8	advcl	_	_
 
 ~~~
 

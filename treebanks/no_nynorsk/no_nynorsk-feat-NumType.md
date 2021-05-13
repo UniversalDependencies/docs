@@ -30,10 +30,9 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> NUM</tt> (175; 100%),
-<tt>NUM --[<tt><a href="no_nynorsk-dep-obl.html">obl</a></tt>]--> NUM</tt> (58; 100%),
+<tt>NUM --[<tt><a href="no_nynorsk-dep-obl.html">obl</a></tt>]--> NUM</tt> (59; 100%),
 <tt>NUM --[<tt><a href="no_nynorsk-dep-compound.html">compound</a></tt>]--> NUM</tt> (23; 100%),
 <tt>NUM --[<tt><a href="no_nynorsk-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (9; 100%),
 <tt>NUM --[<tt><a href="no_nynorsk-dep-flat-name.html">flat:name</a></tt>]--> NUM</tt> (5; 100%),
-<tt>NUM --[<tt><a href="no_nynorsk-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (2; 100%),
-<tt>NUM --[<tt><a href="no_nynorsk-dep-cc.html">cc</a></tt>]--> NUM</tt> (1; 100%).
+<tt>NUM --[<tt><a href="no_nynorsk-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (2; 100%).
 

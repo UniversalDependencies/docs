@@ -7,7 +7,6 @@ udver: '2'
 ## Treebank Statistics: UD_Breton-KEB: Relations: `nsubj:cop`
 
 This relation is a language-specific subtype of <tt><a href="br_keb-dep-nsubj.html">nsubj</a></tt>.
-There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="br_keb-dep-nsubj-appos.html">nsubj:appos</a></tt>.
 
 1 nodes (0%) are attached to their parents as `nsubj:cop`.
 

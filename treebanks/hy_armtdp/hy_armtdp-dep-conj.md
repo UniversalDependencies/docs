@@ -63,7 +63,7 @@ The following 58 pairs of parts of speech are connected with `conj`: <tt><a href
 4	թե	թե	CCONJ	_	_	5	cc	_	Translit=t’e|LTranslit=t’e
 5	պրոգրեսիվ	պրոգրեսիվ	ADJ	_	Degree=Pos	2	conj	_	Translit=progresiv|LTranslit=progresiv|SpaceAfter=No
 6	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
-7	այդ	այդ	DET	_	Distance=Med|PronType=Dem	8	det	_	Translit=ayd|LTranslit=ayd
+7	այդ	այդ	DET	_	Deixis=Med|PronType=Dem	8	det	_	Translit=ayd|LTranslit=ayd
 8	բանավեճը	բանավեճ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	10	nsubj	_	Translit=banaveč̣ë|LTranslit=banaveč̣
 9	միշտ	միշտ	ADV	_	_	10	advmod	_	Translit=mišt|LTranslit=mišt
 10	եղել	լինել	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=eġel|LTranslit=linel

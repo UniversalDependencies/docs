@@ -16,12 +16,12 @@ The feature is used with 1 part-of-speech tags: <tt><a href="en_pronouns-pos-DET
 
 ### `DET`
 
-180 <tt><a href="en_pronouns-pos-DET.html">DET</a></tt> tokens (97% of all `DET` tokens) have a non-empty value of `Definite`.
+180 <tt><a href="en_pronouns-pos-DET.html">DET</a></tt> tokens (92% of all `DET` tokens) have a non-empty value of `Definite`.
 
 The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="en_pronouns-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (180; 100%).
 
 `DET` tokens may have the following values of `Definite`:
 
 * `Def` (180; 100% of non-empty `Definite`): <em>the</em>
-* `EMPTY` (5): <em>Any</em>
+* `EMPTY` (15): <em>all, Any</em>
 

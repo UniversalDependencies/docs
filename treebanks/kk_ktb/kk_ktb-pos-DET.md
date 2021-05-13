@@ -63,9 +63,9 @@ The 2nd highest number of forms (2) was observed with the lemma “сол”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “ана”: <em>ана</em>.
 
-`DET` occurs with 2 features: <tt><a href="kk_ktb-feat-PronType.html">PronType</a></tt> (219; 100% instances), <tt><a href="kk_ktb-feat-Case.html">Case</a></tt> (3; 1% instances)
+`DET` occurs with 3 features: <tt><a href="kk_ktb-feat-PronType.html">PronType</a></tt> (219; 100% instances), <tt><a href="kk_ktb-feat-Reflex.html">Reflex</a></tt> (13; 6% instances), <tt><a href="kk_ktb-feat-Case.html">Case</a></tt> (3; 1% instances)
 
-`DET` occurs with 7 feature-value pairs: `Case=Nom`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Qnt`, `PronType=Ref`
+`DET` occurs with 8 feature-value pairs: `Case=Nom`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Prs`, `PronType=Tot`, `Reflex=Yes`
 
 `DET` occurs with 7 feature combinations.
 The most frequent feature combination is `PronType=Dem` (111 tokens).
@@ -78,13 +78,13 @@ Examples: <em>осы, бұл, ол, сол, мына, бұ, мұндай, ман
 
 Parents of `DET` nodes belong to 5 different parts of speech: <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> (212; 97% instances), <tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="kk_ktb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (1; 0% instances)
 
-216 (99%) `DET` nodes are leaves.
+215 (98%) `DET` nodes are leaves.
 
-3 (1%) `DET` nodes have one child.
+4 (2%) `DET` nodes have one child.
 
 The highest child degree of a `DET` node is 1.
 
-Children of `DET` nodes are attached using 3 different relations: <tt><a href="kk_ktb-dep-appos.html">appos</a></tt> (1; 33% instances), <tt><a href="kk_ktb-dep-dep.html">dep</a></tt> (1; 33% instances), <tt><a href="kk_ktb-dep-det.html">det</a></tt> (1; 33% instances)
+Children of `DET` nodes are attached using 4 different relations: <tt><a href="kk_ktb-dep-appos.html">appos</a></tt> (1; 25% instances), <tt><a href="kk_ktb-dep-dep.html">dep</a></tt> (1; 25% instances), <tt><a href="kk_ktb-dep-det.html">det</a></tt> (1; 25% instances), <tt><a href="kk_ktb-dep-punct.html">punct</a></tt> (1; 25% instances)
 
-Children of `DET` nodes belong to 3 different parts of speech: <tt><a href="kk_ktb-pos-DET.html">DET</a></tt> (1; 33% instances), <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> (1; 33% instances), <tt><a href="kk_ktb-pos-X.html">X</a></tt> (1; 33% instances)
+Children of `DET` nodes belong to 4 different parts of speech: <tt><a href="kk_ktb-pos-DET.html">DET</a></tt> (1; 25% instances), <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> (1; 25% instances), <tt><a href="kk_ktb-pos-PUNCT.html">PUNCT</a></tt> (1; 25% instances), <tt><a href="kk_ktb-pos-X.html">X</a></tt> (1; 25% instances)
 

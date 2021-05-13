@@ -28,7 +28,7 @@ The following 12 pairs of parts of speech are connected with `aux`: <tt><a href=
 3	از	از	ADP	P	_	4	case	_	_
 4	یاد	یاد	NOUN	N_SING	Number=Sing	2	nmod	_	_
 5	علی	علی	NOUN	N_SING	Number=Sing	4	nmod:poss	_	SpaceAfter=No
-6	)	)	PUNCT	DELM	_	5	punct	_	_
+6	)	)	PUNCT	DELM	_	7	punct	_	_
 7	ع	ع	NOUN	N_SING	Number=Sing	5	dep	_	_
 8	(	(	PUNCT	DELM	_	5	punct	_	SpaceAfter=No
 9	چیزی	چیز	NOUN	N_SING	Number=Sing	15	obj	_	_

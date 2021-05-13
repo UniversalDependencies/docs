@@ -79,7 +79,7 @@ The most frequent other feature values with which `VERB` and `Definite` co-occur
 
 409 <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> tokens (21% of all `PRON` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (392; 96%), <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=EMPTY</tt> (386; 94%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (338; 83%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (253; 62%).
+The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (392; 96%), <tt><a href="hy_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (386; 94%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (338; 83%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (253; 62%).
 
 `PRON` tokens may have the following values of `Definite`:
 
@@ -109,7 +109,7 @@ The most frequent other feature values with which `ADP` and `Definite` co-occurr
 
 1 <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Abl</tt> (1; 100%), <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="hy_armtdp-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (1; 100%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Abl</tt> (1; 100%), <tt><a href="hy_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="hy_armtdp-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (1; 100%).
 
 `DET` tokens may have the following values of `Definite`:
 

@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 1 3 csubj	color:blue
 1	'Awary	'awa	VERB	XPOS=não.existir	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	0	root	_	gloss[pt]=não.existir-3SG.M.O
 2	kãkiti	kãkiti	NOUN	N	Gender=Masc	3	nsubj	_	gloss[pt]=gente
-3	atamarakitinhitã	atama	VERB	XPOS=ver-FOC-REL.M.O-GER-VBLZ-LOC	_	1	csubj	_	gloss[pt]=ver-FOC-REL.M.O-GER-VBLZ-LOC|SpaceAfter=No
+3	atamarakitinhitã	atama	VERB	XPOS=ver-FOC-REL.M.O-GER-VBLZ	Case=Loc	1	csubj	_	gloss[pt]=ver-FOC-REL.M.O-GER-VBLZ-LOC|SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~

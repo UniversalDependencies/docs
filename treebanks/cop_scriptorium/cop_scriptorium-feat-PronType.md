@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 7 different values: `Art`, `Dem`, `Ind`, `Int`, `Prs`, `Rcp`, `Tot`.
 
 13884 tokens (29%) have a non-empty value of `PronType`.
-129 types (5%) occur at least once with a non-empty value of `PronType`.
-77 lemmas (3%) occur at least once with a non-empty value of `PronType`.
+128 types (5%) occur at least once with a non-empty value of `PronType`.
+76 lemmas (3%) occur at least once with a non-empty value of `PronType`.
 The feature is used with 4 part-of-speech tags: <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (7510; 15% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (6189; 13% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (145; 0% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (40; 0% instances).
 
 ### `PRON`
@@ -32,7 +32,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt></tt></td><td>ⲛⲓⲙ</td><td>ⲛⲓⲙ</td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `PRON`. 96% lemmas (48) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 96% lemmas (47) occur only with one value of `PronType`.
 
 ### `DET`
 
@@ -65,6 +65,8 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 ### `NOUN`
 
 40 <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `PronType`.
+
+The most frequent other feature values with which `NOUN` and `PronType` co-occurred: <tt><a href="cop_scriptorium-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (40; 100%).
 
 `NOUN` tokens may have the following values of `PronType`:
 

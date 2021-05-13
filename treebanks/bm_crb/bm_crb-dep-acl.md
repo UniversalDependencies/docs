@@ -66,13 +66,13 @@ The following 5 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 11	fgColor:white
 # visual-style 11 4 acl	color:blue
 1	N	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=1SG
-2	y'	y'	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR|SpaceAfter=No
+2	y'	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR|SpaceAfter=No
 3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=3SG
 4	ta	tà	VERB	v	_	11	acl	_	Gloss=prendre
 5	yɔrɔ	yɔ́rɔ	NOUN	n	_	4	obl	_	Gloss=lieu
 6	min	mîn	DET	dtm	PronType=Rel	5	det	_	Gloss=REL
 7	n	ń	PRON	pers	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	Gloss=1SG
-8	y'	y'	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	10	aux	_	Gloss=PFV.TR|SpaceAfter=No
+8	y'	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	10	aux	_	Gloss=PFV.TR|SpaceAfter=No
 9	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	10	obj	_	Gloss=3SG
 10	bila	bìla	VERB	v	_	0	root	_	Gloss=mettre
 11	yen	yèn	ADV	adv	_	10	obl	_	Gloss=là-bas|SpaceAfter=No

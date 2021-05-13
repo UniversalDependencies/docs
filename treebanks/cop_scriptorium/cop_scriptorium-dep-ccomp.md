@@ -51,7 +51,7 @@ The following 18 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 ccomp	color:blue
-1	ⲕⲁⲧⲁ	ⲕⲁⲧⲁ	ADP	PREP	_	3	case	_	_
+1	ⲕⲁⲧⲁ	ⲕⲁⲧⲁ	ADP	PREP	Foreign=Yes	3	case	_	OrigLang=grc
 2	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Orig=ⲑ
 3	ϩⲉ	ϩⲉ	NOUN	N	_	0	root	_	Orig=ⲉ
 4	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	5	mark	_	_
@@ -84,9 +84,9 @@ The following 18 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 6	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
 7	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	13	mark	_	_
 8	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	9	det	_	Entity=(person
-9	ⲡⲛⲉⲩⲙⲁ	ⲡⲛⲉⲩⲙⲁ	NOUN	N	_	13	nsubj	_	_
+9	ⲡⲛⲉⲩⲙⲁ	ⲡⲛⲉⲩⲙⲁ	NOUN	N	Foreign=Yes	13	nsubj	_	OrigLang=grc
 10	ⲛ	ⲛ	ADP	PREP	_	11	case	_	_
-11	ⲁⲕⲁⲑⲁⲣⲧⲟⲛ	ⲁⲕⲁⲑⲁⲣⲧⲟⲛ	NOUN	N	_	9	nmod	_	Entity=person)
+11	ⲁⲕⲁⲑⲁⲣⲧⲟⲛ	ⲁⲕⲁⲑⲁⲣⲧⲟⲛ	NOUN	N	Foreign=Yes	9	nmod	_	Entity=person)|OrigLang=grc
 12	ⲛⲙⲙⲁ	ⲙⲛ	ADP	PREP	_	13	case	_	_
 13	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	ccomp	_	_
 14	.	.	PUNCT	PUNCT	_	4	punct	_	_

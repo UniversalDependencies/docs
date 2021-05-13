@@ -61,7 +61,7 @@ The following 11 pairs of parts of speech are connected with `flat:foreign`: <tt
 # visual-style 3	fgColor:white
 # visual-style 3 5 flat:foreign	color:blue
 1	Ainult	ainult	ADV	D	_	3	advmod	3:advmod	_
-2	viieks	viis	NUM	N	Case=Tra|Number=Sing|NumForm=Letter|NumType=Card	3	nummod	3:nummod	_
+2	viieks	viis	NUM	N	Case=Tra|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	_
 3	minutiks	minut	NOUN	S	Case=Tra|Number=Sing	0	root	0:root	SpaceAfter=No
 4	,	,	PUNCT	Z	_	3	punct	3:punct	_
 5	please	please	X	T	_	3	flat:foreign	3:flat	SpaceAfter=No

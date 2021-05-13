@@ -41,10 +41,10 @@ The following 12 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 3	fgColor:white
 # visual-style 3 2 amod	color:blue
 1	ꙇ	и	CCONJ	C-	_	9	cc	_	ref=JOHN_11.26
-2	вьсѣкъ	вьсꙗкъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	3	amod	_	ref=JOHN_11.26
-3	живꙑ	живъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	9	nsubj	_	ref=JOHN_11.26
+2	вьсѣкъ	вьсꙗкъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	3	amod	_	ref=JOHN_11.26
+3	живꙑ	живъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	nsubj	_	ref=JOHN_11.26
 4	и	и	CCONJ	C-	_	3	cc	_	ref=JOHN_11.26
-5	вѣроуѩи	вѣровати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Act	3	conj	_	ref=JOHN_11.26
+5	вѣроуѩи	вѣровати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	conj	_	ref=JOHN_11.26
 6	въ	въ	ADP	R-	_	7	case	_	ref=JOHN_11.26
 7	мѧ	азъ	PRON	Pp	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obl	_	ref=JOHN_11.26
 8	не	не	ADV	Df	Polarity=Neg	9	advmod	_	ref=JOHN_11.26
@@ -70,7 +70,7 @@ The following 12 pairs of parts of speech are connected with `amod`: <tt><a href
 7	въ	въ	ADP	R-	_	8	case	_	ref=MARK_8.27
 8	вьси	вьсь	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	1	obl	_	ref=MARK_8.27
 9	кесариѩ	кесариꙗ	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	ref=MARK_8.27
-10	филиповꙑ	филиповъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	9	amod	_	ref=MARK_8.27
+10	филиповꙑ	филиповъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	9	amod	_	ref=MARK_8.27
 
 ~~~
 

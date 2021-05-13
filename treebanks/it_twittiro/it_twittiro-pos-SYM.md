@@ -9,9 +9,9 @@ udver: '2'
 There are 603 `SYM` lemmas (12%), 603 `SYM` types (9%) and 2146 `SYM` tokens (7%).
 Out of 16 observed tags, the rank of `SYM` is: 4 in number of lemmas, 5 in number of types and 6 in number of tokens.
 
-The 10 most frequent `SYM` lemmas: <em>@user, #labuonascuola, #monti, @user1, @user2, #renzi, #scuola, @user3, h​t​t​p​:​/​/​t​.​c​o​/​o​D​P​U​t​x​2​D​v​V, #Grillo</em>
+The 10 most frequent `SYM` lemmas: <em>@user, #labuonascuola, #monti, @user1, @user2, #renzi, #scuola, @user3, http://t.co/oDPUtx2DvV, #Grillo</em>
 
-The 10 most frequent `SYM` types:  <em>@user, #labuonascuola, #monti, @user1, @user2, #renzi, #scuola, @user3, h​t​t​p​:​/​/​t​.​c​o​/​o​D​P​U​t​x​2​D​v​V, #Grillo</em>
+The 10 most frequent `SYM` types:  <em>@user, #labuonascuola, #monti, @user1, @user2, #renzi, #scuola, @user3, http://t.co/oDPUtx2DvV, #Grillo</em>
 
 The 10 most frequent ambiguous lemmas: <em>@user</em> (<tt><a href="it_twittiro-pos-SYM.html">SYM</a></tt> 513, <tt><a href="it_twittiro-pos-INTJ.html">INTJ</a></tt> 8, <tt><a href="it_twittiro-pos-ADV.html">ADV</a></tt> 2, <tt><a href="it_twittiro-pos-VERB.html">VERB</a></tt> 2, <tt><a href="it_twittiro-pos-ADP.html">ADP</a></tt> 1, <tt><a href="it_twittiro-pos-NOUN.html">NOUN</a></tt> 1), <em>#labuonascuola</em> (<tt><a href="it_twittiro-pos-SYM.html">SYM</a></tt> 347, <tt><a href="it_twittiro-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="it_twittiro-pos-X.html">X</a></tt> 1), <em>@user1</em> (<tt><a href="it_twittiro-pos-SYM.html">SYM</a></tt> 76, <tt><a href="it_twittiro-pos-NUM.html">NUM</a></tt> 1), <em>@user2</em> (<tt><a href="it_twittiro-pos-SYM.html">SYM</a></tt> 75, <tt><a href="it_twittiro-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="it_twittiro-pos-VERB.html">VERB</a></tt> 1), <em>#passodopopasso</em> (<tt><a href="it_twittiro-pos-SYM.html">SYM</a></tt> 6, <tt><a href="it_twittiro-pos-NOUN.html">NOUN</a></tt> 1), <em>a</em> (<tt><a href="it_twittiro-pos-ADP.html">ADP</a></tt> 722, <tt><a href="it_twittiro-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="it_twittiro-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="it_twittiro-pos-SYM.html">SYM</a></tt> 1), <em>e</em> (<tt><a href="it_twittiro-pos-CCONJ.html">CCONJ</a></tt> 368, <tt><a href="it_twittiro-pos-VERB.html">VERB</a></tt> 2, <tt><a href="it_twittiro-pos-SYM.html">SYM</a></tt> 1, <tt><a href="it_twittiro-pos-X.html">X</a></tt> 1), <em>guli1979</em> (<tt><a href="it_twittiro-pos-NUM.html">NUM</a></tt> 2, <tt><a href="it_twittiro-pos-SYM.html">SYM</a></tt> 1), <em>spot</em> (<tt><a href="it_twittiro-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="it_twittiro-pos-SYM.html">SYM</a></tt> 1)
 
@@ -72,7 +72,7 @@ The 3rd highest number of forms (1) was observed with the lemma “#10o”: <em>
 
 `SYM` occurs with 2 feature combinations.
 The most frequent feature combination is `_` (2145 tokens).
-Examples: <em>@user, #labuonascuola, #monti, @user1, @user2, #renzi, #scuola, @user3, h​t​t​p​:​/​/​t​.​c​o​/​o​D​P​U​t​x​2​D​v​V, #Grillo</em>
+Examples: <em>@user, #labuonascuola, #monti, @user1, @user2, #renzi, #scuola, @user3, http://t.co/oDPUtx2DvV, #Grillo</em>
 
 
 ## Relations

@@ -8,42 +8,53 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (0%) are attached to their parents as `ccomp`.
+12 nodes (1%) are attached to their parents as `ccomp`.
 
-3 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.33333333333333.
+12 instances of `ccomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.
 
-The following 1 pairs of parts of speech are connected with `ccomp`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (3; 100% instances).
+The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (11; 92% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 21 ccomp	color:blue
-1	Ас	ас	ADJ	A	Case=Nom|Number=Sing|PronType=Prs	6	reparandum	_	SpaceAfter=No
-2	,	,	PUNCT	CLB	_	1	punct	_	_
-3	мыйке	мыйке	PRON	Pron	Case=Nom|PronType=Ind	1	conj	_	SpaceAfter=No
-4	,	,	PUNCT	CLB	_	5	punct	_	_
-5	ас	ас	ADJ	A	Case=Nom|Number=Sing|PronType=Prs	6	amod	_	_
-6	муас	му	NOUN	N	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	obl	_	_
-7	рӧдиттьыны	рӧдиттьыны	VERB	V	VerbForm=Inf	8	xcomp	_	Lang=Mixed
-8	мӧдэма	мӧдны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	SpaceAfter=No
-9	,	,	PUNCT	CLB	_	10	punct	_	_
-10	абу	абу	AUX	Pcle	Polarity=Neg	11	aux:neg	_	_
-11	мӧдэма	мӧдны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	8	conj	_	SpaceAfter=No
-12	,	,	PUNCT	CLB	_	13	punct	_	_
-13	оз	оз	AUX	V	Mood=Ind|Person=3|Polarity=Neg|Tense=Pres	16	reparandum	_	SpaceAfter=No
-14	,	,	PUNCT	CLB	_	15	punct	_	_
-15	абу	абу	AUX	Pcle	Polarity=Neg	16	aux:neg	_	_
-16	мӧдэма	мӧдны	VERB	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	8	conj	_	_
-17	тытэн	тытэн	ADV	Adv	_	16	obl	_	SpaceAfter=No
-18	,	,	PUNCT	CLB	_	19	punct	_	_
-19	Из	из	PROPN	N	Case=Nom|Number=Sing	21	obl	_	_
-20	сайын	сайын	ADP	Po	Case=Ine|Number=Sing	19	case	_	_
-21	рӧдиттьынысэ	рӧдиттьыны	VERB	V	Clitic=So|VerbForm=Inf	16	ccomp	_	Lang=Mixed|SpaceAfter=No
-22	.	.	PUNCT	CLB	_	8	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 ccomp	color:blue
+1	Ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	GTtags=Pers,Sg1,Nom
+2	любита	любитны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg1
+3	фотояс	фото	NOUN	N	Case=Nom|Number=Plur	4	obj	_	GTtags=Pl,Nom
+4	вӧчны	вӧчны	VERB	V	VerbForm=Inf	2	ccomp	_	GTtags=Inf|SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	6	punct	_	_
+6	лыддьысьны	лыддьысьны	VERB	V	VerbForm=Inf	2	ccomp	_	GTtags=Refl,Inf
+7	мыйке	мыйкӧ	PRON	Pron	Case=Nom|Definite=Ind|Derivation=Ko|Number=Sing|PronType=Ind	8	det	_	GTtags=Indef,Indef,Sg,Nom,Der/кӧ
+8	выльторъяс	выльтор	NOUN	N	Case=Nom|Number=Plur	6	obj	_	GTtags=Pl,Nom|SpaceAfter=No
+9	.	.	PUNCT	PUNCT	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 9 ccomp	color:blue
+1	И	и	CCONJ	CC	_	2	cc	_	_
+2	заводиті	заводитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Err/Dial,Sg3
+3	сіес	сійӧ	PRON	Pron	Case=Acc|Number=Sing|Person=3|PronType=Prs	2	obj	_	GTtags=Pers,Sg3,Acc,Err/Dial|SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	5	punct	_	_
+5	вошйи	вошйыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	GTtags=Ind,Prt1,Err/Dial,Sg3|SpaceAfter=No
+6	,	,	PUNCT	PUNCT	_	9	punct	_	_
+7	мыля	мыйла	SCONJ	CS	_	9	mark	_	GTtags=CS
+8	ачум	ас	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	9	nsubj:cop	_	GTtags=Refl,Sg1,Err/Dial,Nom
+9	коми-изьватас	коми-изьватас	NOUN	N	Case=Nom|Number=Sing	5	ccomp	_	GTtags=Sg,Nom
+10	и	и	CCONJ	CC	_	13	cc	_	_
+11	менэ	ме	PRON	Pron	Case=Acc|Number=Sing|Person=1|PronType=Prs	13	obj	_	GTtags=Pers,Sg1,Err/Dial,Acc
+12	сыа	сійӧ	PRON	Pron	PronType=Dem	13	nsubj	_	GTtags=Err/Dial,Dem
+13	интересуйтэ	интересуйтны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Err/Dial,Sg3|SpaceAfter=No
+14	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 

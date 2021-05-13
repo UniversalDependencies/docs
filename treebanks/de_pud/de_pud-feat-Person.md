@@ -220,9 +220,9 @@ The most frequent other feature values with which `NUM` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>NOUN --[<tt><a href="de_pud-dep-det.html">det</a></tt>]--> DET</tt> (2591; 100%),
+<tt>NOUN --[<tt><a href="de_pud-dep-det.html">det</a></tt>]--> DET</tt> (2622; 100%),
 <tt>NOUN --[<tt><a href="de_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1040; 99%),
-<tt>NOUN --[<tt><a href="de_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (815; 100%),
+<tt>NOUN --[<tt><a href="de_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (816; 100%),
 <tt>VERB --[<tt><a href="de_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (540; 56%),
 <tt>VERB --[<tt><a href="de_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (430; 78%),
 <tt>VERB --[<tt><a href="de_pud-dep-obj.html">obj</a></tt>]--> NOUN</tt> (371; 59%),

@@ -24,10 +24,10 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 8 7 xcomp	color:blue
 1	Smith	Smith	PROPN	np	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
 2	bandora	bandor	NOUN	n	Case=Con|Definite=Def|Gender=Fem|Number=Sing	8	obj	_	_
-3	mirov	mirov	NOUN	n	Case=Obl|Definite=Def|Gender=Masc|Number=Sing	2	nmod:poss	_	_
+3	mirov	mirov	NOUN	n	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	2	nmod:poss	_	_
 4	li	li	X	x	_	5	dep	_	_
 5	ser	ser	ADP	pr	AdpType=Prep	6	case	_	_
-6	civakê	civak	NOUN	n	Case=Obl|Definite=Def|Gender=Fem|Number=Sing	8	nmod	_	_
+6	civakê	civak	NOUN	n	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	8	nmod	_	_
 7	girîng	girîng	ADJ	adj	Degree=Pos	8	xcomp	_	_
 8	dibîne	dîtin	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	sent	_	8	punct	_	_
@@ -48,10 +48,10 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 5	di	di	ADP	pr	AdpType=Prep	6	case	_	_
 6	merasîma	merasîm	NOUN	n	Case=Con|Definite=Def|Gender=Fem|Number=Sing	13	nmod	_	_
 7	15'ê	15	NUM	num	NumType=Card	6	nmod:poss	_	_
-8	Tebaxê	tebax	NOUN	n	Case=Obl|Definite=Def|Gender=Fem|Number=Sing	7	flat	_	_
+8	Tebaxê	tebax	NOUN	n	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	7	flat	_	_
 9	de	de	ADP	post	AdpType=Post	6	case	_	_
 10	bi	bi	ADP	pr	AdpType=Prep	11	case	_	_
-11	qezayê	qeza	NOUN	n	Case=Obl|Definite=Def|Gender=Fem|Number=Sing	13	nmod	_	_
+11	qezayê	qeza	NOUN	n	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	13	nmod	_	_
 12	şehîd	şehîd	NOUN	n	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	13	xcomp	_	_
 13	ket	ketin	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 14	.	.	PUNCT	sent	_	13	punct	_	_

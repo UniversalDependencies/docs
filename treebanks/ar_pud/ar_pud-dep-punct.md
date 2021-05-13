@@ -28,7 +28,7 @@ The following 11 pairs of parts of speech are connected with `punct`: <tt><a hre
 4	من	min_1	ADP	IN	_	6	case	_	_
 5	خلال	xilAl_1	ADP	IN	_	4	fixed	_	_
 6	حساب	HisAb_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	_
-7	كلينتون	kliynotuwn_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	6	nmod:gmod	_	_
+7	كلينتون	kliynotuwn_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	6	nmod	_	_
 8	المصرفي	maSorafiy~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	amod	_	_
 9	الكبير	kabiyr_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	6	amod	_	SpaceAfter=No
 10	.	._0	PUNCT	.	_	1	punct	_	_
@@ -77,7 +77,7 @@ The following 11 pairs of parts of speech are connected with `punct`: <tt><a hre
 5	عائدة	EA}id_1	ADJ	JJ	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
 6	على	EalaY_1	ADP	IN	_	7	case	_	_
 7	دراجة	dar~Ajap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	5	obl	_	_
-8	إي	>ay~_1	PROPN	NNP	_	7	nmod:gmod	_	SpaceAfter=No
+8	إي	>ay~_1	PROPN	NNP	_	7	nmod	_	SpaceAfter=No
 9	-	-_0	PUNCT	-	_	10	punct	_	SpaceAfter=No
 10	ميكرو	mykrw_0	PROPN	NNP	_	8	flat	_	_
 11	الصغيرة	Sagiyr_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	7	amod	_	SpaceAfter=No

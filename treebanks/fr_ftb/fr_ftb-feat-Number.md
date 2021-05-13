@@ -12,7 +12,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 335363 tokens (58%) have a non-empty value of `Number`.
 1469 types (79%) occur at least once with a non-empty value of `Number`.
 1258 lemmas (80%) occur at least once with a non-empty value of `Number`.
-The feature is used with 11 part-of-speech tags: <tt><a href="fr_ftb-pos-NOUN.html">NOUN</a></tt> (114997; 20% instances), <tt><a href="fr_ftb-pos-DET.html">DET</a></tt> (85469; 15% instances), <tt><a href="fr_ftb-pos-ADJ.html">ADJ</a></tt> (35898; 6% instances), <tt><a href="fr_ftb-pos-VERB.html">VERB</a></tt> (34799; 6% instances), <tt><a href="fr_ftb-pos-PRON.html">PRON</a></tt> (22336; 4% instances), <tt><a href="fr_ftb-pos-PROPN.html">PROPN</a></tt> (18612; 3% instances), <tt><a href="fr_ftb-pos-AUX.html">AUX</a></tt> (11882; 2% instances), <tt><a href="fr_ftb-pos-NUM.html">NUM</a></tt> (11279; 2% instances), <tt><a href="fr_ftb-pos-ADP.html">ADP</a></tt> (89; 0% instances), <tt><a href="fr_ftb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="fr_ftb-pos-X.html">X</a></tt> (1; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="fr_ftb-pos-NOUN.html">NOUN</a></tt> (114997; 20% instances), <tt><a href="fr_ftb-pos-DET.html">DET</a></tt> (85470; 15% instances), <tt><a href="fr_ftb-pos-ADJ.html">ADJ</a></tt> (35898; 6% instances), <tt><a href="fr_ftb-pos-VERB.html">VERB</a></tt> (34799; 6% instances), <tt><a href="fr_ftb-pos-PRON.html">PRON</a></tt> (22336; 4% instances), <tt><a href="fr_ftb-pos-PROPN.html">PROPN</a></tt> (18612; 3% instances), <tt><a href="fr_ftb-pos-AUX.html">AUX</a></tt> (11882; 2% instances), <tt><a href="fr_ftb-pos-NUM.html">NUM</a></tt> (11279; 2% instances), <tt><a href="fr_ftb-pos-ADP.html">ADP</a></tt> (89; 0% instances), <tt><a href="fr_ftb-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -30,21 +30,21 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `DET`
 
-85469 <tt><a href="fr_ftb-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+85470 <tt><a href="fr_ftb-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="fr_ftb-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (76206; 89%), <tt><a href="fr_ftb-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (62616; 73%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="fr_ftb-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (76207; 89%), <tt><a href="fr_ftb-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (62616; 73%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Plur` (23212; 27% of non-empty `Number`): <em>_, les, ces, des, D', Leur, De, Plusieurs, Quelques, Certains</em>
-* `Sing` (62257; 73% of non-empty `Number`): <em>_, le, la, l', Cette, un, une, Ce, Son, Cet</em>
+* `Sing` (62258; 73% of non-empty `Number`): <em>_, le, la, l', Cette, un, une, Ce, Son, Cet</em>
 * `EMPTY` (24): <em>_, le</em>
 
 ### `ADJ`
 
 35898 <tt><a href="fr_ftb-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="fr_ftb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (18663; 52%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="fr_ftb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (18662; 52%).
 
 `ADJ` tokens may have the following values of `Number`:
 
@@ -126,15 +126,6 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 * `Sing` (39; 44% of non-empty `Number`): <em>_, À</em>
 * `EMPTY` (92507): <em>_, en, A, Pour, à, dans, de, d', après, avec</em>
 
-### `PUNCT`
-
-1 <tt><a href="fr_ftb-pos-PUNCT.html">PUNCT</a></tt> tokens (0% of all `PUNCT` tokens) have a non-empty value of `Number`.
-
-`PUNCT` tokens may have the following values of `Number`:
-
-* `Sing` (1; 100% of non-empty `Number`): <em>_</em>
-* `EMPTY` (75127): <em>_, ", -, (, […], ), ., ,, :, [</em>
-
 ### `X`
 
 1 <tt><a href="fr_ftb-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Number`.
@@ -147,7 +138,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="fr_ftb-dep-det.html">det</a></tt>]--> DET</tt> (69235; 96%),
+<tt>NOUN --[<tt><a href="fr_ftb-dep-det.html">det</a></tt>]--> DET</tt> (69236; 96%),
 <tt>NOUN --[<tt><a href="fr_ftb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (22797; 98%),
 <tt>NOUN --[<tt><a href="fr_ftb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (19296; 58%),
 <tt>VERB --[<tt><a href="fr_ftb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (11192; 89%),

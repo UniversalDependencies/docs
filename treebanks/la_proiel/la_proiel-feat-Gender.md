@@ -13,7 +13,7 @@ Some words have combined values of the feature; 3 combinations have been observe
 98149 tokens (49%) have a non-empty value of `Gender`.
 17315 types (59%) occur at least once with a non-empty value of `Gender`.
 6779 lemmas (80%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (40357; 20% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (19406; 10% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (18320; 9% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (9008; 5% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (6421; 3% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt> (3588; 2% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (997; 0% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (52; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (40357; 20% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (18320; 9% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (16046; 8% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (9008; 5% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt> (6948; 3% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (6421; 3% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (997; 0% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (52; 0% instances).
 
 ### `NOUN`
 
@@ -44,36 +44,6 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 </table>
 
 `Gender` seems to be **lexical feature** of `NOUN`. 97% lemmas (3138) occur only with one value of `Gender`.
-
-### `ADJ`
-
-19406 <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (16046; 83%), <tt><a href="la_proiel-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (16046; 83%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12233; 63%).
-
-`ADJ` tokens may have the following values of `Gender`:
-
-* `Fem` (4208; 22% of non-empty `Gender`): <em>suam, magna, tua, mea, sua, meam, nostra, publica, tuam, haec</em>
-* `Fem,Masc` (591; 3% of non-empty `Gender`): <em>nemo, certiorem, maior, neminem, certior, plures, maiores, fidelis, fortis, maiorem</em>
-* `Fem,Neut` (2; 0% of non-empty `Gender`): <em>extremis, inconsutilis</em>
-* `Masc` (8251; 43% of non-empty `Gender`): <em>illi, illis, illum, omnes, ille, hic, his, illos, illo, quis</em>
-* `Masc,Neut` (1241; 6% of non-empty `Gender`): <em>magno, meo, Romani, suo, tuo, tuum, suum, meum, magnum, nostro</em>
-* `Neut` (5113; 26% of non-empty `Gender`): <em>hoc, haec, nihil, omnia, illud, aliquid, multa, quid, sua, his</em>
-* `EMPTY` (966): <em>suis, nostris, meis, multis, tuis, totius, reliquis, paucis, magnis, superioribus</em>
-
-<table>
-  <tr><th>Paradigm <i>ille</i></th><th><tt>Fem,Masc</tt></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>illo</em></td><td><em>illo</em></td><td><em>illa</em></td><td><em>illo</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>illis</em></td><td><em>illis</em></td><td></td><td><em>illis</em></td><td><em>illis</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>illum, illud</em></td><td></td><td><em>illam</em></td><td><em>illud</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>illos</em></td><td></td><td><em>illas</em></td><td><em>illa</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>illi, illo</em></td><td></td><td><em>illi</em></td><td><em>illi</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>illis</em></td><td></td><td><em>illis</em></td><td><em>illis</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>illius</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>illorum</em></td><td></td><td><em>illarum</em></td><td><em>illorum</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ille</em></td><td></td><td><em>illa</em></td><td><em>illud</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>illi</em></td><td></td><td><em>illae</em></td><td><em>illa</em></td></tr>
-</table>
 
 ### `PRON`
 
@@ -115,6 +85,36 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_proiel-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>quae</em></td><td><em>qui</em></td><td></td><td><em>quae</em></td><td><em>quae, QVAE</em></td></tr>
 </table>
 
+### `ADJ`
+
+16046 <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Gender`.
+
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9933; 62%), <tt><a href="la_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (8621; 54%).
+
+`ADJ` tokens may have the following values of `Gender`:
+
+* `Fem` (2995; 19% of non-empty `Gender`): <em>magna, publica, haec, publicae, illam, illa, multa, magnam, tertia, summa</em>
+* `Fem,Masc` (586; 4% of non-empty `Gender`): <em>nemo, certiorem, maior, neminem, certior, plures, maiores, fidelis, fortis, maiorem</em>
+* `Fem,Neut` (2; 0% of non-empty `Gender`): <em>extremis, inconsutilis</em>
+* `Masc` (6984; 44% of non-empty `Gender`): <em>illi, illis, illum, omnes, ille, hic, his, illos, illo, quis</em>
+* `Masc,Neut` (862; 5% of non-empty `Gender`): <em>magno, Romani, magnum, sancto, Romano, totum, summo, novissimo, sanctum, summum</em>
+* `Neut` (4617; 29% of non-empty `Gender`): <em>hoc, haec, nihil, omnia, illud, aliquid, multa, quid, his, bonum</em>
+* `EMPTY` (783): <em>multis, totius, reliquis, paucis, magnis, superioribus, nequam, superiore, ceteris, communi</em>
+
+<table>
+  <tr><th>Paradigm <i>ille</i></th><th><tt>Fem,Masc</tt></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>illo</em></td><td><em>illo</em></td><td><em>illa</em></td><td><em>illo</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>illis</em></td><td><em>illis</em></td><td></td><td><em>illis</em></td><td><em>illis</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>illum, illud</em></td><td></td><td><em>illam</em></td><td><em>illud</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>illos</em></td><td></td><td><em>illas</em></td><td><em>illa</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>illi, illo</em></td><td></td><td><em>illi</em></td><td><em>illi</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>illis</em></td><td></td><td><em>illis</em></td><td><em>illis</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>illius</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>illorum</em></td><td></td><td><em>illarum</em></td><td><em>illorum</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ille</em></td><td></td><td><em>illa</em></td><td><em>illud</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>illi</em></td><td></td><td><em>illae</em></td><td><em>illa</em></td></tr>
+</table>
+
 ### `VERB`
 
 9008 <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> tokens (22% of all `VERB` tokens) have a non-empty value of `Gender`.
@@ -128,7 +128,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 * `Masc` (5486; 61% of non-empty `Gender`): <em>dicens, dicentes, respondens, factus, locutus, habens, profectus, mortuus, habentes, videns</em>
 * `Masc,Neut` (33; 0% of non-empty `Gender`): <em>iurando, munitum, acceptum, adprobatum, aedificando, apertum, aversum, clausum, coactum, concluso</em>
 * `Neut` (1770; 20% of non-empty `Gender`): <em>factum, scriptum, dictum, datum, scripta, facta, facto, faciendum, visum, audito</em>
-* `EMPTY` (31682): <em>dixit, ait, dicit, dico, venit, habet, dixerunt, misit, potest, facere</em>
+* `EMPTY` (31684): <em>dixit, ait, dicit, dico, venit, habet, dixerunt, misit, potest, facere</em>
 
 <table>
   <tr><th>Paradigm <i>facio</i></th><th><tt>Fem,Masc</tt></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -157,6 +157,38 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
   <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Gdv</tt></tt></td><td></td><td><em>faciendi</em></td><td></td><td><em>faciendae</em></td><td><em>facienda</em></td></tr>
 </table>
 
+### `DET`
+
+6948 <tt><a href="la_proiel-pos-DET.html">DET</a></tt> tokens (88% of all `DET` tokens) have a non-empty value of `Gender`.
+
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="la_proiel-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5988; 86%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4903; 71%), <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3588; 52%), <tt><a href="la_proiel-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3588; 52%).
+
+`DET` tokens may have the following values of `Gender`:
+
+* `Fem` (2328; 34% of non-empty `Gender`): <em>suam, tua, mea, sua, meam, illa, nostra, hac, ea, tuam</em>
+* `Fem,Masc` (233; 3% of non-empty `Gender`): <em>omnes, omnem, omnis, illis, talem, neminem, talis, eo, suis, omnibus</em>
+* `Fem,Neut` (2; 0% of non-empty `Gender`): <em>omnibus</em>
+* `Masc` (2469; 36% of non-empty `Gender`): <em>suos, nostri, omnes, suis, ipsum, meus, noster, suum, tuus, meum</em>
+* `Masc,Neut` (746; 11% of non-empty `Gender`): <em>eo, hoc, meo, suo, tuo, ipso, tuum, eodem, suum, meum</em>
+* `Neut` (1170; 17% of non-empty `Gender`): <em>omnia, hoc, sua, meum, omne, aliud, mea, haec, tuo, illud</em>
+* `EMPTY` (926): <em>omnibus, omni, his, eius, suis, huius, omnium, nostris, meis, tuis</em>
+
+<table>
+  <tr><th>Paradigm <i>omnis</i></th><th><tt>Fem,Masc</tt></th><th><tt>Fem,Neut</tt></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>omni</em></td><td></td><td><em>omni</em></td><td><em>omni</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>omnibus</em></td><td><em>omnibus</em></td><td><em>omnibus</em></td><td><em>omnibus</em></td><td><em>omnibus</em></td><td><em>omnibus</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>omnem, omnis</em></td><td></td><td><em>omnem, omnis</em></td><td><em>omnem</em></td><td><em>omnem</em></td><td><em>omne</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>omnes, omnis</em></td><td></td><td><em>omnes</em></td><td></td><td><em>omnes</em></td><td><em>omnia</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>omni</em></td><td></td><td><em>omni</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>omnibus</em></td><td></td><td><em>omnibus</em></td><td></td><td><em>omnibus</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td></td><td><em>omnis</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>omnium</em></td><td></td><td></td><td><em>omnium</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>omnis</em></td><td></td><td><em>omnis</em></td><td><em>omnis</em></td><td><em>omnis</em></td><td><em>omne</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>omnes</em></td><td></td><td><em>omnes</em></td><td></td><td><em>omnes</em></td><td><em>omnia</em></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Voc</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>omnis</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Voc</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>omnes</em></td><td></td><td><em>omnes</em></td><td></td></tr>
+</table>
+
 ### `PROPN`
 
 6421 <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> tokens (91% of all `PROPN` tokens) have a non-empty value of `Gender`.
@@ -183,38 +215,6 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 </table>
 
 `Gender` seems to be **lexical feature** of `PROPN`. 97% lemmas (879) occur only with one value of `Gender`.
-
-### `DET`
-
-3588 <tt><a href="la_proiel-pos-DET.html">DET</a></tt> tokens (83% of all `DET` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2603; 73%).
-
-`DET` tokens may have the following values of `Gender`:
-
-* `Fem` (1115; 31% of non-empty `Gender`): <em>illa, hac, ea, eam, hanc, haec, omnis, nulla, eadem, omni</em>
-* `Fem,Masc` (228; 6% of non-empty `Gender`): <em>omnes, omnem, omnis, illis, talem, neminem, talis, eo, omnibus, tales</em>
-* `Fem,Neut` (2; 0% of non-empty `Gender`): <em>omnibus</em>
-* `Masc` (1202; 34% of non-empty `Gender`): <em>omnes, ipsum, ille, quidam, omnium, ipse, hic, illius, hunc, hoc</em>
-* `Masc,Neut` (367; 10% of non-empty `Gender`): <em>eo, hoc, ipso, eodem, ipsum, illo, quodam, nullo, nullum, aliquo</em>
-* `Neut` (674; 19% of non-empty `Gender`): <em>omnia, hoc, omne, aliud, haec, illud, nihil, id, ipsum, omni</em>
-* `EMPTY` (743): <em>omnibus, omni, his, eius, huius, omnium, iis, huic, aliquot, ei</em>
-
-<table>
-  <tr><th>Paradigm <i>omnis</i></th><th><tt>Fem,Masc</tt></th><th><tt>Fem,Neut</tt></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>omni</em></td><td></td><td><em>omni</em></td><td><em>omni</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>omnibus</em></td><td><em>omnibus</em></td><td><em>omnibus</em></td><td><em>omnibus</em></td><td><em>omnibus</em></td><td><em>omnibus</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>omnem, omnis</em></td><td></td><td><em>omnem, omnis</em></td><td><em>omnem</em></td><td><em>omnem</em></td><td><em>omne</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>omnes, omnis</em></td><td></td><td><em>omnes</em></td><td></td><td><em>omnes</em></td><td><em>omnia</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>omni</em></td><td></td><td><em>omni</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>omnibus</em></td><td></td><td><em>omnibus</em></td><td></td><td><em>omnibus</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td></td><td><em>omnis</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>omnium</em></td><td></td><td></td><td><em>omnium</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>omnis</em></td><td></td><td><em>omnis</em></td><td><em>omnis</em></td><td><em>omnis</em></td><td><em>omne</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>omnes</em></td><td></td><td><em>omnes</em></td><td></td><td><em>omnes</em></td><td><em>omnia</em></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Voc</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>omnis</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=Voc</tt>|<tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>omnes</em></td><td></td><td><em>omnes</em></td><td></td></tr>
-</table>
 
 ### `NUM`
 
@@ -253,7 +253,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 * `Masc` (19; 37% of non-empty `Gender`): <em>futurus, futuros, futurum, futuri</em>
 * `Masc,Neut` (2; 4% of non-empty `Gender`): <em>futurorum</em>
 * `Neut` (21; 40% of non-empty `Gender`): <em>futurum, futura</em>
-* `EMPTY` (7795): <em>est, sunt, esse, erat, sit, sum, esset, erant, fuit, erit</em>
+* `EMPTY` (7793): <em>est, sunt, esse, erat, sit, sum, esset, erant, fuit, erit</em>
 
 <table>
   <tr><th>Paradigm <i>sum</i></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -267,14 +267,14 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
+<tt>NOUN --[<tt><a href="la_proiel-dep-det.html">det</a></tt>]--> DET</tt> (4648; 70%),
 <tt>NOUN --[<tt><a href="la_proiel-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3074; 67%),
-<tt>NOUN --[<tt><a href="la_proiel-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (2701; 79%),
-<tt>NOUN --[<tt><a href="la_proiel-dep-det.html">det</a></tt>]--> DET</tt> (2199; 62%),
 <tt>NOUN --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1741; 54%),
 <tt>VERB --[<tt><a href="la_proiel-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (1307; 59%),
-<tt>ADJ --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> ADJ</tt> (583; 85%),
+<tt>ADJ --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> ADJ</tt> (571; 86%),
 <tt>PROPN --[<tt><a href="la_proiel-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (480; 94%),
-<tt>ADJ --[<tt><a href="la_proiel-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (444; 75%),
+<tt>ADJ --[<tt><a href="la_proiel-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (435; 74%),
 <tt>PROPN --[<tt><a href="la_proiel-dep-appos.html">appos</a></tt>]--> NOUN</tt> (427; 86%),
-<tt>PROPN --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> PROPN</tt> (338; 87%).
+<tt>PROPN --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> PROPN</tt> (338; 87%),
+<tt>ADJ --[<tt><a href="la_proiel-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (290; 82%).
 

@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 
-3287 tokens (13%) have a non-empty value of `VerbForm`.
+3288 tokens (13%) have a non-empty value of `VerbForm`.
 1416 types (24%) occur at least once with a non-empty value of `VerbForm`.
 663 lemmas (14%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (2255; 9% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (1028; 4% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (4; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (2256; 9% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (1028; 4% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (4; 0% instances).
 
 ### `VERB`
 
-2255 <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+2256 <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1418; 63%), <tt><a href="fr_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1355; 60%), <tt><a href="fr_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1355; 60%), <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1336; 59%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1418; 63%), <tt><a href="fr_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1356; 60%), <tt><a href="fr_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1356; 60%), <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1337; 59%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Fin` (900; 40% of non-empty `VerbForm`): <em>a, est, peut, avait, pourrait, était, peuvent, sont, ont, pourraient</em>
 * `Inf` (422; 19% of non-empty `VerbForm`): <em>faire, avoir, voir, devenir, partir, produire, aider, créer, donner, envoyer</em>
-* `Part` (933; 41% of non-empty `VerbForm`): <em>eu, déclaré, dit, fait, commencé, indiqué, décidé, joué, utilisé, compris</em>
+* `Part` (934; 41% of non-empty `VerbForm`): <em>eu, déclaré, dit, fait, commencé, indiqué, décidé, joué, utilisé, compris</em>
 
 <table>
   <tr><th>Paradigm <i>avoir</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -87,12 +87,12 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (4; 100% of non-empty `VerbForm`): <em>issu, issues, issus, ouverte</em>
-* `EMPTY` (1599): <em>autres, première, plusieurs, chaque, grand, grande, nouvelle, britannique, autre, général</em>
+* `EMPTY` (1619): <em>autres, première, plusieurs, chaque, grand, grande, nouvelle, britannique, dernier, dernière</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="fr_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (147; 79%),
-<tt>VERB --[<tt><a href="fr_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (41; 58%),
+<tt>VERB --[<tt><a href="fr_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (42; 58%),
 <tt>VERB --[<tt><a href="fr_pud-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (1; 100%).
 

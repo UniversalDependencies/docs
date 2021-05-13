@@ -22,7 +22,7 @@ The following 7 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 advcl	color:blue
-1	तो	तो	PRON	_	Case=Nom|Distance=Dist|Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
+1	तो	तो	PRON	_	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
 2	कपाळाला	कपाळ	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	4	iobj	_	_
 3	हात	हात	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
 4	लावून	लावणे	VERB	_	Aspect=Perf|VerbForm=Conv	5	advcl	_	_
@@ -41,7 +41,7 @@ The following 7 pairs of parts of speech are connected with `advcl`: <tt><a href
 1	तेथे	तेथे	ADV	_	_	6	amod	_	_
 2	फक्त	फक्त	ADJ	_	Case=Nom	3	amod	_	_
 3	गरिबांना	गरिब	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	6	nsubj	_	_
-4	_	येणे	VERB	_	Case=Obl|InfForm=Dict|VerbForm=Inf	6	advcl	_	_
+4	_	येणे	VERB	_	Case=Abs|InfForm=Dict|VerbForm=Inf	6	advcl	_	_
 5	_	स	ADP	_	_	4	case	_	_
 6	बंदी	बंदी	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 7	होती	असणे	AUX	_	Gender=Fem|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	SpaceAfter=No

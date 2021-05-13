@@ -13,7 +13,7 @@ This relation is universal.
 2 instances of `cc` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 2 pairs of parts of speech are connected with `cc`: <tt><a href="ta_mwtt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_mwtt-pos-ADV.html">ADV</a></tt> (1; 50% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-CCONJ.html">CCONJ</a></tt> (1; 50% instances).
+The following 2 pairs of parts of speech are connected with `cc`: <tt><a href="ta_mwtt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ta_mwtt-pos-ADV.html">ADV</a></tt> (1; 50% instances), <tt><a href="ta_mwtt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ta_mwtt-pos-CCONJ.html">CCONJ</a></tt> (1; 50% instances).
 
 
 ~~~ conllu
@@ -39,7 +39,7 @@ The following 2 pairs of parts of speech are connected with `cc`: <tt><a href="t
 # visual-style 3 2 cc	color:blue
 1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3	0	root	0:root	Translit=kumār|LTranslit=kumār
 2	அல்லது	அல்லது	CCONJ	_	_	3	cc	3:cc	Translit=allatu|LTranslit=allatu
-3	ராஜா	ராஜா	NOUN	_	Case=Nom|Number=Sing|Person=3	1	conj	1:conj	Translit=rājā|LTranslit=rājā
+3	ராஜா	ராஜா	PROPN	_	Case=Nom|Number=Sing|Person=3	1	conj	1:conj	Translit=rājā|LTranslit=rājā
 4	.	.	PUNCT	_	PunctType=Peri	1	punct	1:punct	Translit=.|LTranslit=.
 
 ~~~

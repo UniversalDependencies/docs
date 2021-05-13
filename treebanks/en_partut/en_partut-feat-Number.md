@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-15861 tokens (32%) have a non-empty value of `Number`.
-3769 types (55%) occur at least once with a non-empty value of `Number`.
-2757 lemmas (49%) occur at least once with a non-empty value of `Number`.
-The feature is used with 6 part-of-speech tags: <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (10503; 21% instances), <tt><a href="en_partut-pos-DET.html">DET</a></tt> (1539; 3% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (1313; 3% instances), <tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (1245; 3% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (1238; 2% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (23; 0% instances).
+15862 tokens (32%) have a non-empty value of `Number`.
+3770 types (55%) occur at least once with a non-empty value of `Number`.
+2758 lemmas (49%) occur at least once with a non-empty value of `Number`.
+The feature is used with 6 part-of-speech tags: <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (10504; 21% instances), <tt><a href="en_partut-pos-DET.html">DET</a></tt> (1539; 3% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (1313; 3% instances), <tt><a href="en_partut-pos-AUX.html">AUX</a></tt> (1245; 3% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (1238; 2% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (23; 0% instances).
 
 ### `NOUN`
 
-10503 <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
+10504 <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (2900; 28% of non-empty `Number`): <em>countries, people, states, plays, years, rights, terms, measures, requirements, works</em>
-* `Sing` (7603; 72% of non-empty `Number`): <em>work, Commission, time, Parliament, President, member, license, growth, Directive, programme</em>
+* `Sing` (7604; 72% of non-empty `Number`): <em>work, Commission, time, Parliament, President, member, license, growth, Directive, programme</em>
 * `EMPTY` (67): <em>No, South, design, gas, greenhouse, manufacturing, European, Measure, information, living</em>
 
 <table>
@@ -120,14 +120,14 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 * `Plur` (2; 9% of non-empty `Number`): <em>themselves, innovative</em>
 * `Sing` (21; 91% of non-empty `Number`): <em>particular, Lankan, clear, following, free, full, general, overall, possible, this</em>
-* `EMPTY` (3817): <em>other, first, new, European, economic, financial, social, many, important, own</em>
+* `EMPTY` (3816): <em>other, first, new, European, economic, financial, social, many, important, own</em>
 
 `Number` seems to be **lexical feature** of `ADJ`. 100% lemmas (14) occur only with one value of `Number`.
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="en_partut-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1951; 60%),
+<tt>NOUN --[<tt><a href="en_partut-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1952; 60%),
 <tt>NOUN --[<tt><a href="en_partut-dep-conj.html">conj</a></tt>]--> NOUN</tt> (693; 80%),
 <tt>NOUN --[<tt><a href="en_partut-dep-cop.html">cop</a></tt>]--> AUX</tt> (230; 75%),
 <tt>NOUN --[<tt><a href="en_partut-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (98; 81%),

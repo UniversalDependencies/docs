@@ -11,20 +11,20 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="tr_gb-feat-Person.html">Person</a></tt>, <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt>.
 
-3180 tokens (19%) have a non-empty value of `Person`.
-1602 types (31%) occur at least once with a non-empty value of `Person`.
-285 lemmas (14%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (2097; 12% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (543; 3% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (528; 3% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (12; 0% instances).
+3170 tokens (18%) have a non-empty value of `Person`.
+1599 types (31%) occur at least once with a non-empty value of `Person`.
+284 lemmas (14%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (2096; 12% instances), <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> (546; 3% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (528; 3% instances).
 
 ### `VERB`
 
-2097 <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> tokens (68% of all `VERB` tokens) have a non-empty value of `Person`.
+2096 <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> tokens (68% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2097; 100%), <tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2097; 100%), <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2097; 100%), <tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2064; 98%), <tt><a href="tr_gb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1866; 89%), <tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (1787; 85%), <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1707; 81%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1648; 79%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1403; 67%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2096; 100%), <tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2096; 100%), <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2096; 100%), <tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2090; 100%), <tt><a href="tr_gb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1865; 89%), <tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (1786; 85%), <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1707; 81%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1647; 79%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1403; 67%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (628; 30% of non-empty `Person`): <em>ediyorum, gördüm, görmedim, sanıyorum, aldık, gidiyorum, bilmiyordum, istiyorum, okudum, sanıyordum</em>
+* `1` (627; 30% of non-empty `Person`): <em>ediyorum, gördüm, görmedim, sanıyorum, aldık, gidiyorum, bilmiyordum, istiyorum, okudum, sanıyordum</em>
 * `2` (274; 13% of non-empty `Person`): <em>ver, istiyorsun, aldın, gittin, gördün, al, bulabilirsin, istiyorsunuz, konuşabilirsin, gidiyorsun</em>
 * `3` (1195; 57% of non-empty `Person`): <em>geldi, istiyor, gerekiyor, söyledi, etti, gitti, istemiyor, olsa, seviyor, verdi</em>
 * `EMPTY` (989): <em>gitmek, geçen, görmüş, yaptığı, almak, gitmeniz, görmek, çalışıyor, bitirmiş, geldiği</em>
@@ -78,16 +78,16 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-543 <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> tokens (51% of all `PRON` tokens) have a non-empty value of `Person`.
+546 <tt><a href="tr_gb-pos-PRON.html">PRON</a></tt> tokens (51% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (532; 98%), <tt><a href="tr_gb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (503; 93%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (533; 98%), <tt><a href="tr_gb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (513; 94%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (251; 46% of non-empty `Person`): <em>ben, bana, benim, biz, bizim, beni, bize, bizi, benden, benimle</em>
 * `2` (168; 31% of non-empty `Person`): <em>sen, senin, siz, seni, sana, sizin, size, kendiniz, Kendin, Sizler</em>
-* `3` (124; 23% of non-empty `Person`): <em>herkes, o, herkesin, ona, birisi, kendisi, kendisine, onun, kendisini, onu</em>
-* `EMPTY` (531): <em>ne, burada, kendi, onlar, bu, bunu, oraya, kimse, kim, o</em>
+* `3` (127; 23% of non-empty `Person`): <em>herkes, o, herkesin, ona, birisi, kendisi, onun, kendisine, kendisini, onu</em>
+* `EMPTY` (525): <em>ne, burada, kendi, onlar, bu, bunu, oraya, kimse, kim, o</em>
 
 <table>
   <tr><th>Paradigm <i>kendi</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -161,17 +161,6 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Opt</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>olayım</em></td><td></td><td><em>olsun</em></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Opt</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_gb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>olalım</em></td><td></td><td></td></tr>
 </table>
-
-### `ADJ`
-
-12 <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `ADJ` and `Person` co-occurred: <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (12; 100%).
-
-`ADJ` tokens may have the following values of `Person`:
-
-* `3` (12; 100% of non-empty `Person`): <em>var, belli</em>
-* `EMPTY` (794): <em>var, yok, yeni, büyük, güzel, iyi, küçük, lazım, zor, önemli</em>
 
 ## Relations with Agreement in `Person`
 

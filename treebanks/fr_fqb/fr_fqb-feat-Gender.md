@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
 9829 tokens (41%) have a non-empty value of `Gender`.
-2530 types (60%) occur at least once with a non-empty value of `Gender`.
+2532 types (60%) occur at least once with a non-empty value of `Gender`.
 2167 lemmas (60%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 8 part-of-speech tags: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (3675; 15% instances), <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (2801; 12% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (1238; 5% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (932; 4% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (768; 3% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (411; 2% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
@@ -108,13 +108,13 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (118; 29% of non-empty `Gender`): <em>-elle, laquelle, -elles, une, celle, celle-ci, elle, elles, lesquelles</em>
-* `Masc` (293; 71% of non-empty `Gender`): <em>-il, -ils, il, lequel, le, un, celui, celui-ci, ceux, eux</em>
-* `EMPTY` (1247): <em>qui, qu', -ce, se, que, -on, -je, je, s', y</em>
+* `Fem` (118; 29% of non-empty `Gender`): <em>-t-elle, -elle, laquelle, -elles, une, celle, celle-ci, elle, elles, lesquelles</em>
+* `Masc` (293; 71% of non-empty `Gender`): <em>-t-il, -il, -ils, il, lequel, le, un, celui, celui-ci, ceux</em>
+* `EMPTY` (1247): <em>qui, qu', -ce, se, que, -je, je, -t-on, s', -on</em>
 
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>-il, il</em></td><td><em>-elle, elle</em></td></tr>
+  <tr><td><tt><tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>-t-il, -il, il</em></td><td><em>-t-elle, -elle, elle</em></td></tr>
   <tr><td><tt><tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>-ils</em></td><td><em>-elles, elles</em></td></tr>
 </table>
 

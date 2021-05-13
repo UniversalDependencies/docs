@@ -11,9 +11,9 @@ This relation is universal.
 6713 nodes (5%) are attached to their parents as `root`.
 
 6713 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.92209146432296.
+Average distance between parent and child is 4.9241769700581.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (3650; 54% instances), -<tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> (1654; 25% instances), -<tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> (437; 7% instances), -<tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> (364; 5% instances), -<tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt> (192; 3% instances), -<tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (146; 2% instances), -<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (130; 2% instances), -<tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> (71; 1% instances), -<tt><a href="it_postwita-pos-X.html">X</a></tt> (50; 1% instances), -<tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (11; 0% instances), -<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (4; 0% instances), -<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (4; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (3651; 54% instances), -<tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> (1660; 25% instances), -<tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> (437; 7% instances), -<tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> (359; 5% instances), -<tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt> (178; 3% instances), -<tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (148; 2% instances), -<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (129; 2% instances), -<tt><a href="it_postwita-pos-ADV.html">ADV</a></tt> (86; 1% instances), -<tt><a href="it_postwita-pos-X.html">X</a></tt> (46; 1% instances), -<tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (11; 0% instances), -<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (4; 0% instances), -<tt><a href="it_postwita-pos-DET.html">DET</a></tt> (4; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	fgColor:white
 # visual-style 0 8 root	color:blue
 1	@user	@user	SYM	SYM	_	8	vocative:mention	_	_
-2	si	sì	INTJ	I	_	8	discourse	_	_
+2	si	sì	INTJ	I	_	8	discourse	_	CorrectForm=sì
 3	cazzo	cazzo	INTJ	I	_	8	discourse	_	_
 4	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	expl	_	SpaceAfter=No
 5	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	dep	_	_

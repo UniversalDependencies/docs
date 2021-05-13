@@ -33,7 +33,7 @@ The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="
 9	會	會	AUX	MD	_	10	aux	_	SpaceAfter=No
 10	設置	設置	VERB	VV	_	0	root	_	SpaceAfter=No
 11	昂貴	昂貴	ADJ	JJ	_	14	amod	_	SpaceAfter=No
-12	的	的	PART	DEC	_	11	mark:relcl	_	SpaceAfter=No
+12	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No
 13	音頻	音頻	NOUN	NN	_	14	nmod	_	SpaceAfter=No
 14	設備	設備	NOUN	NN	_	10	obj	_	SpaceAfter=No
 15	、	、	PUNCT	EC	_	17	punct	_	SpaceAfter=No
@@ -90,7 +90,7 @@ The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="
 9	法魯克	法魯克	PROPN	NNP	_	13	nmod	_	SpaceAfter=No
 10	與	與	CCONJ	CC	_	11	cc	_	SpaceAfter=No
 11	拳四郎	拳四郎	PROPN	NNP	_	9	conj	_	SpaceAfter=No
-12	的	的	PART	DEC	Case=Gen	9	case:dec	_	SpaceAfter=No
+12	的	的	PART	DEC	Case=Gen	9	case	_	SpaceAfter=No
 13	對決	對決	NOUN	NN	_	14	obl	_	SpaceAfter=No
 14	劃下	劃下	VERB	VV	_	0	root	_	SpaceAfter=No
 15	休止	休止	VERB	VV	_	16	compound	_	SpaceAfter=No

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Özlem Çetinoğlu, Çağrı Çöltekin.
 
 Repository: [UD_Turkish_German-SAGT](https://github.com/UniversalDependencies/UD_Turkish_German-SAGT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqtd_sagt27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqtd_sagt28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -45,7 +45,6 @@ Do not submit pull requests against the UD repository.
 ## Description
 
 UD Turkish-German SAGT is a Turkish-German code-switching treebank that is developed as part of the [SAGT](https://www.ims.uni-stuttgart.de/en/research/projects/sagt/) project.
-
 
 
 
@@ -96,11 +95,11 @@ For the speech collection (Note that the paper describes a separate speech corpu
 
 
 <ul>
-<li>This corpus contains 1891 sentences, 31697 tokens and 31946 syntactic words.</li>
+<li>This corpus contains 2184 sentences, 36940 tokens and 37233 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 3115 tokens (10%) that are not followed by a space.</li>
+<li>This corpus contains 3655 tokens (10%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -108,12 +107,12 @@ For the speech collection (Note that the paper describes a separate speech corpu
 </ul>
 
 <ul>
-<li>This corpus contains 322 types of words that contain both letters and punctuation. Examples: Türkiye'de, İstanbul'a, Berlin'e, Almanya'da, H&M, Kunde'lere, Kunde'lerin, Mısır'a, Netflix'te, Ostsee'ye, be--, ich--, kü--, me--, n--, wie--, İstanbul'un, Allah'tan, Alman'a, Almanya'ya, Amazon'da, Amazon'dan, BK'nın, Bochum'a, Bodensee'ye, Es--, Essen'den, Frankfurt'da, Fransa'ya, Hertrampf'da, Hohenheim'da, IMS'de, Konstanz'ın, Kunde'lerle, Leverkursen'e, Offenbach'da, Reutlingen'de, Rottenburg'da, S-Bahn, Samsun'a, Theo'yu, Türkiye'nin, Türkiye'ye, Türkçe'de, bis--, f--, halt--, he--, man--, sp--</li>
+<li>This corpus contains 345 types of words that contain both letters and punctuation. Examples: Türkiye'de, Almanya'da, İstanbul'a, Berlin'e, H&M, Kunde'lere, Kunde'lerin, Mısır'a, Netflix'te, Ostsee'ye, be--, kü--, me--, n--, İstanbul'un, Allah'tan, Alman'a, Almanya'ya, Amazon'da, Amazon'dan, BK'nın, Bochum'a, Bodensee'ye, Es--, Essen'den, Frankfurt'da, Fransa'ya, Hertrampf'da, Hohenheim'da, IMS'de, Konstanz'ın, Kunde'lerle, Leverkursen'e, Malta'da, Man'i, Offenbach'da, Ra's, Reutlingen'de, Rottenburg'da, S-Bahn, Samsun'a, Samsun'da, Theo'yu, Türkiye'nin, Türkiye'ye, Türkçe'de, Wuppertal'da, bis--, büy--, de--</li>
 </ul>
 
 <ul>
-<li>This corpus contains 246 multi-word tokens. On average, one multi-word token consists of 2.01 syntactic words.</li>
-<li>There are 164 types of multi-word tokens. Examples: vardı, güzeldi, şeydi, yoktu, değildi, nasıldı, neydi, buradaki, oradaki, türlü, şimdiki, buradaydım, düşmanlığı, haftalığına, ilgili, istersen, iyiydi, kişilik, kökenli, kötüydü, küfürlü, lazımdı, olacaktı, seneliğine, sıcaktı, sınıflılar, varmış, çeşitli, Almanya'daydım, Ankara'lılar, Antenleriydi, Araplık, Bayağıdır, Bereichdayım, Berlin'deki, E​r​n​ä​h​r​u​n​g​s​w​i​s​s​e​n​s​c​h​a​f​t​'​d​ı, Evdeki, Flächedeki, Frühschichtdim, Grundschuledeydim, Gymnasiumdaydım, Hauptzielimdi, Jugendamtdayım, Kindergartendeki, Koşuşturmalı, Kreissparkasse'deyim, Nedense, Nevşehir'li, Nufringen'deydi, Osmanlı.</li>
+<li>This corpus contains 290 multi-word tokens. On average, one multi-word token consists of 2.01 syntactic words.</li>
+<li>There are 188 types of multi-word tokens. Examples: vardı, güzeldi, değildi, şeydi, nasıldı, yoktu, neydi, türlü, şimdiki, buradaki, değilim, düşmanlığı, olacaktı, oradaki, bugünkü, buradaydım, değildim, haftalığına, ilgili, iyiydi, kişilik, kökenli, kötüydü, küfürlü, lazımdı, nedense, seneliğine, sıcaktı, sınıflılar, varmış, çeşitli, öyleydi, Almanya'daydım, Ankara'lılar, Antenleriydi, Apple'inkiler, Araplık, Bayağıdır, Bereichdayım, Berlin'deki, Beşiktaş'mış, Ernährungswissenschaft'dı, Evdeki, Flächedeki, Frühschichtdim, Grundschuledeydim, Gymnasiumdaydım, Hauptzielimdi, Jugendamtdayım, Kindergartendeki.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -125,27 +124,27 @@ For the speech collection (Note that the paper describes a separate speech corpu
 </ul>
 
 <ul>
-<li>This corpus contains 8 word types tagged as particles (PART): Ja, an, auf, değil, hin, nicht, weg, zu</li>
+<li>This corpus contains 9 word types tagged as particles (PART): Ja, an, auf, değil, hin, nicht, to, weg, zu</li>
 </ul>
 
 <ul>
-<li>This corpus contains 83 lemmas tagged as pronouns (PRON): Allem, Ihr|ihr, Sie|sie, all, alle, ander, bazıları, bazılarını, ben, benim, birbir, biri, birisi, bisschen, biz, bißchen, bu, bura, darüber, das, dazu, dein, deine, der, derjenige, derselbe, die, dies, dir, diğeri, diğerleri, du, dünya, ein, er, er|es|sie, es, etwas, hangileri, hangisi, hepimiz, hepsi, herkes, ich, ihr, irgendein, irgendeine, irgendetwas, irgendwas, irgendwelch, irgendwelche, jed, jemand, kein, kendi, kim, kimse, man, mein, meist, my, ne, nere, nichts, niemand, o, ora, paar, sein, sen, sie, siz, sowas, this, unser, viel, was, welch, wenig, wer, wir, worüber, şu</li>
+<li>This corpus contains 86 lemmas tagged as pronouns (PRON): I, all, alle, andere, baz, bazıları, ben, benim, beriki, birbir, biri, birisi, bisschen, biz, bu, bura, darüber, das, dazu, dein, deine, der, derjenige, derselbe, die, dies, dir, diğeri, diğerleri, du, dünya, ein, er, er|es|sie, es, etwas, euer, hangileri, hangisi, hepimiz, hepsi, herkes, ich, ihr, irgendein, irgendeine, irgendetwas, irgendwas, irgendwelch, irgendwelche, irgendwo, jed, jede, jemand, kein, kendi, kim, kimse, man, manch, mein, meist, my, ne, nere, nichts, niemand, o, ora, paar, sein, sen, sie, siz, sowas, this, unser, viel, was, welch, wenig, wer, wir, worüber, şu, şura</li>
 </ul>
 
 <ul>
-<li>This corpus contains 44 lemmas tagged as determiners (DET): The, a, alle, baz, bazı, başka, bi, bir, biraz, birkaç, bu, böyle, das, dem, der, die, dies, diğer, ein, euer, hangi, her, hiçbir, jed, jeder, kein, manch, mehr, mehrere, mein, meist, o, solch, tek, tüm, unser, viel, viele, çok, çoğu, öbür, öyle, şu, şöyle</li>
+<li>This corpus contains 38 lemmas tagged as determiners (DET): The, a, alle, baz, bazı, başka, bir, biraz, birkaç, bu, böyle, der, die, dies, diğer, ein, hangi, her, hiçbir, jed, jede, kein, kendi, manch, mehr, mehrere, meist, o, solch, tek, tüm, viel, çok, çoğu, öbür, öyle, şu, şöyle</li>
 </ul>
 
 <ul>
-<li>Out of the above, 15 lemmas occurred sometimes as PRON and sometimes as DET: alle, bu, das, der, die, dies, ein, jed, kein, mein, meist, o, unser, viel, şu</li>
+<li>Out of the above, 16 lemmas occurred sometimes as PRON and sometimes as DET: alle, baz, bu, der, die, dies, ein, jed, jede, kein, kendi, manch, meist, o, viel, şu</li>
 </ul>
 
 <ul>
-<li>This corpus contains 13 lemmas tagged as auxiliaries (AUX): be, dürfen, haben, i, können, mi, mögen, müssen, ol, sein, sollen, werden, wollen</li>
+<li>This corpus contains 13 lemmas tagged as auxiliaries (AUX): be, dürfen, haben, i, können, mi, mögen, müssen, sein, sollen, tun, werden, wollen</li>
 </ul>
 
 <ul>
-<li>Out of the above, 9 lemmas occurred sometimes as AUX and sometimes as VERB: dürfen, haben, können, mögen, müssen, ol, sein, werden, wollen</li>
+<li>Out of the above, 9 lemmas occurred sometimes as AUX and sometimes as VERB: dürfen, haben, können, mögen, müssen, sein, tun, werden, wollen</li>
 </ul>
 
 <ul>
@@ -156,7 +155,7 @@ For the speech collection (Note that the paper describes a separate speech corpu
   <li>Conv
   <ul>
     <li>AUX: ken, yken</li>
-    <li>VERB: olarak, gidip, olunca, geçip, atlaya, baka, derken, gidince, oturup, sürterek</li>
+    <li>VERB: olarak, gidip, olunca, geçip, yaparken, atlaya, baka, bilerek, derken, doğup</li>
   </ul>
   </li>
 </ul>
@@ -164,8 +163,8 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: ist, habe, war, hat, sind, muss, kann, haben, würde, bin</li>
-    <li>VERB: glaube, habe, weiß, haben, weißt, gibt, denke, kommt, finde, hat</li>
+    <li>AUX: ist, habe, war, sind, hat, muss, kann, bin, haben, würde</li>
+    <li>VERB: glaube, habe, weiß, weißt, haben, gibt, denke, finde, hat, kommt</li>
   </ul>
   </li>
 </ul>
@@ -173,8 +172,8 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: sein, haben, können, müssen, werden</li>
-    <li>VERB: machen, lernen, anfangen, stempeln, haben, sagen, arbeiten, gehen, kaufen, bewerben</li>
+    <li>AUX: sein, können, haben, müssen, sollen, werden</li>
+    <li>VERB: machen, lernen, sagen, anfangen, haben, stempeln, arbeiten, gehen, studieren, kaufen</li>
   </ul>
   </li>
 </ul>
@@ -182,8 +181,8 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Part
   <ul>
-    <li>AUX: gehabt, worden</li>
-    <li>VERB: gemacht, gesagt, olduğu, angeschaut, gesehen, gedacht, angefangen, dediğim, gegangen, gekauft</li>
+    <li>AUX: gewesen, gehabt, worden</li>
+    <li>VERB: gemacht, gesagt, olduğu, angeschaut, gedacht, gesehen, angefangen, dediğim, gegangen, gekauft</li>
   </ul>
   </li>
 </ul>
@@ -191,7 +190,7 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Vnoun
   <ul>
-    <li>VERB: gitmek, yapmak, konuşmak, okumak, olması, yapmam, demek, gitmeyi, görmek, etmek</li>
+    <li>VERB: yapmak, gitmek, yapmam, demek, gitmeyi, konuşmak, okumak, olması, görmek, etmek</li>
   </ul>
   </li>
 </ul>
@@ -206,11 +205,11 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: ganze, türkische, anderen, erste, große, kleine, türkisch, andere, englische, großer</li>
-      <li>DET: die, der, eine, keine, den, viele, einer, mehr, ne, solche</li>
-      <li>NOUN: Zeit, Ahnung, Prüfungen, Sachen, Sprache, Pause, Wochen, Serien, Uni, Mathe</li>
-      <li>PRON: die, sie, alle, deine, diese, eine, meiner, der, irgendwelche, keine</li>
-      <li>PROPN: Türkei, Konstanz, BK, Henna, Alka|LangID=DE, Informatik, Insel, Kanarische, MSV, Abiturprüfung</li>
+      <li>ADJ: anderen, ganze, türkisch, türkische, erste, große, kleine, andere, englische, ganzen</li>
+      <li>DET: die, der, eine, keine, den, viele, einer, alle, manche, mehr</li>
+      <li>NOUN: Zeit, Ahnung, Sachen, Prüfungen, Uni, Pause, Sprache, Wochen, Linguistik, Stadt</li>
+      <li>PRON: die, sie, meine, alle, meiner, deine, diese, eine, der, irgendwelche</li>
+      <li>PROPN: Türkei, Konstanz, BK, Henna, Informatik, Alka, BWL, Insel, Kanarische, MSV</li>
     </ul>
   </li>
 </ul>
@@ -218,11 +217,11 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: großen, ganzen, einfach, letzten, eigenen, großer, guten, türkische, Deutsch, Letzte</li>
-      <li>DET: dem, einen, ein, der, den, die, jeden, einem, kein, viel</li>
-      <li>NOUN: Kunden, Tag, Fall, Typ, Abend, Garten, Spaß, Bachelor, Bus, Filme</li>
-      <li>PRON: er, der, die, ihn, jeder, dein, dem, den, meinem, ihm</li>
-      <li>PROPN: Schatz, Erasmus, Freitag, Rap, August, Bosch, Euro, Februar, Hutchinson, Juni</li>
+      <li>ADJ: großen, ganzen, einfach, letzten, türkische, anderen, eigenen, großer, guten, scheiß</li>
+      <li>DET: dem, ein, einen, der, den, die, einem, jeden, viele, kein</li>
+      <li>NOUN: Tag, Kunden, Spaß, Fall, Typ, Abend, Filme, Freunde, Garten, Bachelor</li>
+      <li>PRON: er, der, die, jeder, den, ihn, meinem, dein, dem, ihm</li>
+      <li>PROPN: Rap, Schatz, Bosch, Erasmus, Freitag, Jonny, August, Euro, Februar, Hutchinson</li>
     </ul>
   </li>
 </ul>
@@ -230,11 +229,11 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Neut
     <ul>
-      <li>ADJ: neues, nächstes, Deutsch, anderes, eigenes, ganzen, letztes, normales, schönes, vollkommen</li>
-      <li>DET: dem, das, ein, die, dieses, alles, des, viele, einem, kein</li>
-      <li>NOUN: Beispiel, Buch, Dings, Leute, Semester, Hause, Ding, Jahr, Gefühl, Praktikum</li>
-      <li>PRON: es, das, ich, alles, was, die, allem, du, irgendetwas, sie</li>
-      <li>PROPN: Englisch, Stuttgart, Bondorf, Deutschland, Deutsch, Dortmund, Herrenberg, Istanbul, Spanien, Syrien</li>
+      <li>ADJ: nächstes, anderes, eigenes, ganzen, letztes, normales, schönes, vollkommen, Emotionales, allgemeinem</li>
+      <li>DET: dem, das, ein, die, dieses, alles, viele, des, kein, den</li>
+      <li>NOUN: Beispiel, Buch, Dings, Leute, Semester, Hause, Praktikum, Ding, Jahr, Ende</li>
+      <li>PRON: das, es, ich, alles, was, die, allem, du, mein, irgendetwas</li>
+      <li>PROPN: Englisch, Deutschland, Stuttgart, Bondorf, Deutsch, Dortmund, Düsseldorf, Wuppertal, Herrenberg, Istanbul</li>
     </ul>
   </li>
 </ul>
@@ -247,19 +246,20 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: anderen, verschiedene, ganzen, bestimmte, türkische, Deutsch, Grammatische, Stoff'ları, Traurige, andere</li>
+      <li>ADJ: anderen, ganzen, verschiedene, andere, bestimmte, gute, schönsten, türkische, türkischen, Stoff'ları</li>
       <li>ADP: lılar, kiler</li>
-      <li>AUX: sind, haben, waren, können, müssen, ler, werden, seid, hatten, habt</li>
-      <li>AUX-Fin: sind, haben, waren, können, müssen, werden, seid, hatten, habt, hätten</li>
-      <li>DET: die, viele, den, der, mehrere, alle, diese, solche, manche, manchen</li>
-      <li>NOUN: şeyler, Leute, Prüfungen, Sachen, insanlar, Wochen, Serien, kitaplar, şeyleri, Fremdsprachen</li>
-      <li>PRON: wir, die, sie, bizim, ihr, uns, onlar, onları, alle, sich</li>
-      <li>PROPN: Türkler, Rap, Euro, Türklerde, Almanlar, Almanların, Formale, Hecken, Hip-Hop, Lazlar</li>
-      <li>VERB: haben, diyelim, sagen, bakalım, gittik, hatten, gideceğiz, diyorlar, gehen, gidiyoruz</li>
-      <li>VERB-Fin: haben, sagen, hatten, gehen, kommen, brauchen, sind, essen, habt, heißen</li>
+      <li>AUX: sind, haben, waren, können, müssen, werden, ler, hatten, hätten, seid</li>
+      <li>AUX-Fin: sind, haben, waren, können, müssen, werden, hatten, hätten, seid, sollen</li>
+      <li>AUX-Part: worden</li>
+      <li>DET: die, den, viele, der, mehrere, diese, alle, manche, solche, manchen</li>
+      <li>NOUN: şeyler, Leute, Sachen, Prüfungen, insanlar, Wochen, Serien, Sprachen, kitaplar, şeyleri</li>
+      <li>PRON: wir, die, sie, bizim, ihr, uns, onlar, sich, onları, biz</li>
+      <li>PROPN: Türkler, Rap, Almanlar, Euro, IfL, Türklerde, Almanların, Deutschen, Formale, Hecken</li>
+      <li>VERB: haben, diyelim, sagen, bakalım, gittik, hatten, yapmışlar, diyorlar, gideceğiz, sind</li>
+      <li>VERB-Fin: haben, sagen, hatten, sind, gehen, kommen, brauchen, geben, reden, essen</li>
       <li>VERB-Inf: Fangen</li>
-      <li>VERB-Part: anlatılanlar, arayanlar, dediklerine, edenleri, olanları, olduklarını, saçmalayanlar, verdikleri, verecekler, yaşadıklarını</li>
-      <li>VERB-Vnoun: almalarına</li>
+      <li>VERB-Part: anlattıkları, anlatılanlar, arayanlar, dediklerine, edenleri, olanlar, olanlardan, olanları, olduklarını, saçmalayanlar</li>
+      <li>VERB-Vnoun: almalarına, ödemeleri</li>
     </ul>
   </li>
 </ul>
@@ -267,22 +267,22 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: erste, ganze, türkische, großen, türkisch, einfach, große, großer, letzte, englische</li>
-      <li>ADP: ki, li, geçen, lı, lik, içinde, lü, lık, lığı, liğine</li>
-      <li>AUX: ist, habe, war, mi, hat, muss, dı, kann, würde, mı</li>
+      <li>ADJ: ganze, türkisch, türkische, erste, große, großen, einfach, großer, nächstes, scheiß</li>
+      <li>ADP: ki, li, geçen, lı, lik, lü, lığı, içinde, lu, lık</li>
+      <li>AUX: ist, habe, war, mi, hat, muss, kann, dı, bin, mı</li>
       <li>AUX-Conv: ken</li>
-      <li>AUX-Fin: ist, habe, war, hat, muss, kann, würde, bin, kannst, wird</li>
-      <li>DET: dem, die, der, ein, das, eine, einen, den, keine, einem</li>
-      <li>NOUN: şey, şimdi, zaman, Beispiel, sene, şeyi, Buch, Zeit, ben, Dings</li>
+      <li>AUX-Fin: ist, habe, war, hat, muss, kann, bin, würde, kannst, wird</li>
+      <li>DET: dem, der, die, ein, eine, das, einen, keine, den, einem</li>
+      <li>NOUN: şey, şimdi, zaman, Beispiel, sene, şeyi, Buch, Zeit, Dings, hafta</li>
       <li>NUM: bir, iki, altı, on, bin, elli, ikincisi, yirmi, 200, Birincisi</li>
-      <li>PRON: ich, das, es, du, o, ondan, man, was, ben, mir</li>
-      <li>PROPN: Englisch, Stuttgart, Türkei, Türkçe, Deutschland, İngilizce, Bondorf, Konstanz, Türkiye'de, İstanbul'a</li>
-      <li>VERB: glaube, habe, oluyor, weiß, weißt, gibt, bilmiyorum, denke, yaptım, kommt</li>
-      <li>VERB-Conv: derken, inerken, oynarken, yaparken, yapılırken, yazarken</li>
-      <li>VERB-Fin: glaube, habe, weiß, weißt, gibt, denke, kommt, finde, hat, geht</li>
+      <li>PRON: ich, das, es, du, ben, o, ondan, man, was, mir</li>
+      <li>PROPN: Türkei, Deutschland, Englisch, Türkçe, Stuttgart, İngilizce, Samsun, Türkiye'de, Türk, Alman</li>
+      <li>VERB: glaube, habe, oluyor, weiß, weißt, yaptım, denke, gibt, bilmiyorum, finde</li>
+      <li>VERB-Conv: yaparken, derken, inerken, oynarken, yapılırken, yazarken</li>
+      <li>VERB-Fin: glaube, habe, weiß, weißt, gibt, denke, finde, hat, kommt, geht</li>
       <li>VERB-Inf: benützen</li>
-      <li>VERB-Part: olduğu, dediğim, geçen, sevdiğim, istediğim, olan, geldikten, bildiğim, bildiğin, bittikten</li>
-      <li>VERB-Vnoun: gitmek, yapmak, konuşmak, okumak, olması, yapmam, demek, gitmeyi, görmek, etmek</li>
+      <li>VERB-Part: olduğu, dediğim, geçen, sevdiğim, istediğin, olan, yaptığın, geldikten, istediğim, bildiğim</li>
+      <li>VERB-Vnoun: yapmak, gitmek, yapmam, demek, gitmeyi, konuşmak, okumak, olması, görmek, etmek</li>
     </ul>
   </li>
 </ul>
@@ -294,12 +294,12 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Abl
     <ul>
-      <li>ADP: lüğümden</li>
-      <li>NOUN: yüzden, şeyden, yerden, Abiturdan, Hauptschuleden, Tunnelden, işten, kitaptan, sınıftan, yandan</li>
+      <li>ADP: gibisinden, lüğümden</li>
+      <li>NOUN: yüzden, şeyden, Hauptschuleden, yerden, yönden, Abiturdan, Tunnelden, içimden, işten, kitaptan</li>
       <li>PRON: ondan, bundan, onlardan, Oradan, bizden, neden, Nelerden, birbirinden, buradan, nereden</li>
       <li>PROPN: Allah'tan, Amazon'dan, Essen'den, Almanya'dan, Arsenal'dan, Bochum'dan, Brezilya'dan, Daimler'dan, Dortmund'dan, Frankfurt'dan</li>
-      <li>VERB: geldikten, bittikten, kaldıktan, Kullanacaklarımdan, aldığından, ayrıldıktan, başladıktan, bitirdikten, ettikten, gezdikten</li>
-      <li>VERB-Part: geldikten, bittikten, kaldıktan, aldığından, ayrıldıktan, başladıktan, bitirdikten, ettikten, gezdikten, gösterdikten</li>
+      <li>VERB: geldikten, bittikten, dedikten, kaldıktan, Kullanacaklarımdan, aldığından, ayrıldıktan, başladıktan, bitirdikten, ettikten</li>
+      <li>VERB-Part: geldikten, bittikten, dedikten, kaldıktan, aldığından, ayrıldıktan, başladıktan, bitirdikten, ettikten, gezdikten</li>
       <li>VERB-Vnoun: gitmeden, okumadan</li>
     </ul>
   </li>
@@ -308,15 +308,15 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Acc
     <ul>
-      <li>ADJ: ganzen, türkische, großen, anderen, englische, ganze, kleine, nächstes, verschiedene, Neues</li>
+      <li>ADJ: ganzen, türkische, anderen, großen, verschiedene, englische, ganze, große, kleine, nächstes</li>
       <li>ADP: lığı</li>
-      <li>DET: die, eine, ein, das, einen, den, viele, jeden, keine, alles</li>
-      <li>NOUN: Buch, Zeit, şey, şeyi, Sachen, kitabı, Pause, Prüfungen, dili, Fall</li>
+      <li>DET: die, eine, ein, das, einen, den, viele, keine, jeden, kein</li>
+      <li>NOUN: Buch, şeyi, Sachen, Zeit, şey, Jahr, Pause, Praktikum, Tag, kitabı</li>
       <li>NUM: bir, yirmi</li>
-      <li>PRON: es, das, was, mich, onu, alles, die, sich, dich, onları</li>
-      <li>PROPN: Englisch, Türkei, Henna, Konstanz, A2, Groupon, Rap, Spanisch, Sport, Theo'yu</li>
-      <li>VERB: gitmeyi, istediğimi, zorlaşacağımı, Gidelim'e, bitirmeyi, büyüttüğünü, diyeceğimi, edeceğimi, etmemi, etmeni</li>
-      <li>VERB-Part: istediğimi, zorlaşacağımı, büyüttüğünü, diyeceğimi, geçtiğini, gittiği, istemediğini, kastettiğini, konuşulduğunu, koruduğunu</li>
+      <li>PRON: das, es, mich, was, onu, alles, sich, die, beni, dich</li>
+      <li>PROPN: Türkei, Deutschland, Englisch, Henna, Konstanz, Rap, A2, BK, Groupon, Spanisch</li>
+      <li>VERB: gitmeyi, istediğimi, zorlaşacağımı, Dediğini, Gidelim'e, anlattığını, bitirmeyi, büyüttüğünü, diyeceğimi, edeceğimi</li>
+      <li>VERB-Part: istediğimi, zorlaşacağımı, Dediğini, anlattığını, büyüttüğünü, diyeceğimi, geçtiğini, gittiği, istemediğini, kastettiğini</li>
       <li>VERB-Vnoun: gitmeyi, bitirmeyi, etmemi, etmeni, gelmemi, gelmesini, gelmeyi, kapatmayı, kapatılmasını, yapmayı</li>
     </ul>
   </li>
@@ -325,15 +325,15 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Dat
     <ul>
-      <li>ADJ: anderen, türkischen, ersten, großen, letzten, letzter, vierten, 1., Deutsch, allgemeinem</li>
+      <li>ADJ: anderen, türkischen, ersten, ganzen, großen, letzter, schönsten, vierten, 1., allgemeinem</li>
       <li>ADP: li, lı, liğine, lığına, gibime, içine, lu, size</li>
-      <li>DET: dem, der, einem, den, einer, diesem, jedem, jeder, ein, manchen</li>
-      <li>NOUN: Beispiel, Hause, üzerine, eve, şeye, hoşuma, Wochenende, tatile, Kunden, Leuten</li>
-      <li>PRON: mir, bana, dir, sana, ona, allem, uns, dem, meinem, oraya</li>
-      <li>PROPN: Berlin'e, Deutschland, Englisch, İstanbul'a, Dortmund, Freitag, Istanbul, Mısır'a, Ostsee'ye, Samsun</li>
-      <li>VERB: okumaya, yapmaya, çalışmaya, konuşmaya, yemeye, Görmeye, almalarına, bakmana, dediklerine, düşene</li>
-      <li>VERB-Part: dediklerine, düşene</li>
-      <li>VERB-Vnoun: okumaya, yapmaya, çalışmaya, konuşmaya, yemeye, Görmeye, almalarına, bakmana, etmeye, gelmeye</li>
+      <li>DET: dem, der, den, einem, einer, diesem, jedem, jeder, ein, manchen</li>
+      <li>NOUN: Beispiel, şeye, Hause, üzerine, eve, hoşuma, Uni, Wochenende, Leuten, tatile</li>
+      <li>PRON: mir, dir, bana, ona, sana, uns, allem, mich, oraya, meinem</li>
+      <li>PROPN: Samsun, Berlin'e, Deutschland, Englisch, Türkei, İstanbul'a, Deutschen, Dortmund, Freitag, Istanbul</li>
+      <li>VERB: okumaya, yapmaya, çalışmaya, etmeye, gezmeye, gitmeye, konuşmaya, yemeye, Görmeye, almalarına</li>
+      <li>VERB-Part: dediklerine, duyduğuma, düşene, ölene</li>
+      <li>VERB-Vnoun: okumaya, yapmaya, çalışmaya, etmeye, gezmeye, gitmeye, konuşmaya, yemeye, Görmeye, almalarına</li>
     </ul>
   </li>
 </ul>
@@ -352,11 +352,11 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Gen
     <ul>
-      <li>ADJ: türkisch, Dortmund'un, Grundschulenin, deutschklingenden, einfacher</li>
+      <li>ADJ: türkisch, Dortmund'un, deutschklingenden, einfacher, soziale</li>
       <li>DET: der, des</li>
-      <li>NOUN: Dings, şeyin, adamın, annemin, oyunun, Autornun, ailemin, ayın, babamın, dilin</li>
-      <li>PRON: onun, benim, bizim, bunun, deiner, unsere, Buranın, Onların, be--, deinen</li>
-      <li>PROPN: BK'nın, Konstanz'ın, Türkiye'nin, İstanbul'un, Almanya'nın, Austen'nın, Beşiktaş'ın, Ertaş'ın, Fitzek'in, Ibiza'nın</li>
+      <li>NOUN: Dings, şeyin, adamın, annemin, insanın, oyuncuların, oyunun, Autornun, CPUların, ailemin</li>
+      <li>PRON: onun, benim, bizim, bunun, deiner, buranın, senin, sizin, unsere, Onların</li>
+      <li>PROPN: BK'nın, Konstanz'ın, Türkiye'nin, İstanbul'un, Almanya'nın, Apple'in, Austen'nın, Beşiktaş'ın, DC'nin, Ertaş'ın</li>
       <li>VERB-Part: ayırdığın, gösterdiğin, çalıştığının</li>
       <li>VERB-Vnoun: başlamamın</li>
     </ul>
@@ -367,8 +367,9 @@ For the speech collection (Note that the paper describes a separate speech corpu
   <li>Ins
     <ul>
       <li>ADP: likle</li>
-      <li>NOUN: annemle, arkadaşlarımla, insanlarla, Kunde'lerle, arabayla, uçakla, şeyle, Autorlarla, Babamla, Busla</li>
-      <li>PRON: onunla, benimle, birbirleriyle, bizimle, bununla, onlarla, seninle, sizlerle</li>
+      <li>NOUN: annemle, arkadaşlarımla, insanlarla, Kunde'lerle, arabayla, numarayla, uçakla, şeyle, şeylerle, Autorlarla</li>
+      <li>PRON: onunla, benimle, birbirleriyle, onlarla, birbiriyle, bizimle, bununla, seninle, sizlerle</li>
+      <li>PROPN: Eren'le, İsveç'le</li>
       <li>VERB: giyinişle, olanlarla</li>
       <li>VERB-Vnoun: giyinişle</li>
     </ul>
@@ -379,10 +380,10 @@ For the speech collection (Note that the paper describes a separate speech corpu
   <li>Loc
     <ul>
       <li>ADP: içinde, orada, karşında</li>
-      <li>NOUN: yerde, okulda, ileride, şeyde, evde, hakkında, halde, içinde, arada, başta</li>
-      <li>PRON: orada, burada, bizde, orda, bunda, sende, bende, nerede, burda, neresinde</li>
-      <li>PROPN: Türkiye'de, Almanya'da, Netflix'te, Amazon'da, Hertrampf'da, Hohenheim'da, IMS'de, Offenbach'da, Reutlingen'de, Rottenburg'da</li>
-      <li>VERB-Part: başladığında, geldiğimizde, açtığında, geldiklerinde, geldiğinde, sorduğumda, yaptığımda, yaptığımızda, yaptığında, çevirdiklerinde</li>
+      <li>NOUN: yerde, okulda, şeyde, ileride, filmde, içinde, derste, halde, evde, hakkında</li>
+      <li>PRON: orada, burada, bizde, orda, bende, sende, bunda, burda, nerede, sizde</li>
+      <li>PROPN: Türkiye'de, Almanya'da, Netflix'te, Amazon'da, Frankfurt'da, Hertrampf'da, Hohenheim'da, IMS'de, Malta'da, Offenbach'da</li>
+      <li>VERB-Part: başladığında, geldiğimizde, açtığında, bakıldığında, geldiklerinde, geldiğinde, sorduğumda, yaptığımda, yaptığımızda, yaptığında</li>
       <li>VERB-Vnoun: edilmesinde</li>
     </ul>
   </li>
@@ -391,16 +392,16 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: erste, ganze, letzte, fleißige, große, türkische, andere, anderes, echt, einfach</li>
-      <li>ADP: ki, geçen, li, lik, lı, lü, lık, lılar, lığı, kiler</li>
-      <li>DET: die, das, ein, der, eine, keine, dieses, viele, ne, diese</li>
-      <li>NOUN: şey, şimdi, zaman, sene, şeyler, ben, hafta, saat, kitap, sonra</li>
+      <li>ADJ: erste, ganze, müde, türkische, fleißige, große, letzte, andere, anderes, deutsche</li>
+      <li>ADP: ki, geçen, li, lik, lü, lı, lık, lılar, lığı, kiler</li>
+      <li>DET: die, ein, das, der, eine, keine, viele, dieses, diese, dieser</li>
+      <li>NOUN: şey, şimdi, zaman, sene, şeyler, hafta, saat, kitap, tane, Leute</li>
       <li>NUM: bir, iki, altı, on, bin, elli, ikincisi, 200, Birincisi, beş</li>
-      <li>PRON: ich, du, das, es, wir, o, man, die, ben, sie</li>
-      <li>PROPN: Stuttgart, Türkçe, Allah, Alman, Deutsch, Fransızca, Schatz, Türk, Türkler, Amerika</li>
-      <li>VERB: dediğim, gitmek, yapmak, geçen, konuşmak, okumak, sevdiğim, yapmam, demek, görmek</li>
-      <li>VERB-Part: dediğim, geçen, sevdiğim, istediğim, bildiğim, bildiğin, geldiği, istediğin, okuduğum, oturduğum</li>
-      <li>VERB-Vnoun: gitmek, yapmak, konuşmak, okumak, yapmam, demek, görmek, etmek, bakmak, almak</li>
+      <li>PRON: ich, das, du, es, ben, die, o, wir, man, sie</li>
+      <li>PROPN: Türkçe, Stuttgart, Türk, İngilizce, Alman, Türkler, Allah, BWL, Deutsch, Fransızca</li>
+      <li>VERB: dediğim, yapmak, gitmek, geçen, yapmam, demek, konuşmak, okumak, sevdiğim, görmek</li>
+      <li>VERB-Part: dediğim, geçen, sevdiğim, istediğin, yaptığın, istediğim, bildiğim, bildiğin, ettiğim, geldiği</li>
+      <li>VERB-Vnoun: yapmak, gitmek, yapmam, demek, konuşmak, okumak, görmek, etmek, bakmak, almak</li>
     </ul>
   </li>
 </ul>
@@ -414,7 +415,7 @@ For the speech collection (Note that the paper describes a separate speech corpu
   <li>Def
     <ul>
       <li>DET: dem, die, o, der, her, bu, das, den, hangi, şu</li>
-      <li>PRON: das, die, dem, des</li>
+      <li>PRON: das, die, des, dem</li>
     </ul>
   </li>
 </ul>
@@ -422,8 +423,8 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Ind
     <ul>
-      <li>DET: bir, ein, eine, einen, keine, birkaç, viele, einem, jeden, viel</li>
-      <li>PRON: man, alles, sowas, etwas, allem, paar, alle, nichts, was, irgendetwas</li>
+      <li>DET: bir, ein, eine, einen, keine, viele, birkaç, einem, jeden, kein</li>
+      <li>PRON: man, alles, sowas, etwas, allem, paar, alle, jeder, nichts, was</li>
     </ul>
   </li>
 </ul>
@@ -441,11 +442,19 @@ For the speech collection (Note that the paper describes a separate speech corpu
     <ul>
       <li>DET: keine, kein, keinen</li>
       <li>PART: nicht</li>
-      <li>PRON: keine, kein, keiner, keinen, keins</li>
-      <li>VERB: bilmiyorum, bilmem, etmeye, gelmedi, görmedim, istemiyorum, başlamadım, duymadım, çıkmıyor, başlayamadım</li>
-      <li>VERB-Conv: sormaya, öğrenmeyince</li>
+      <li>PRON: kein, keine, keiner, keinen, keines, keins</li>
+      <li>VERB: bilmiyorum, bilmem, gelmedi, etmeye, görmedim, istemiyorum, yapmıyorsun, başlamadım, duymadım, yapmıyor</li>
+      <li>VERB-Conv: sormaya, öğrenmeye, öğrenmeyince</li>
       <li>VERB-Part: anlamadığımız, bakmadığımız, bilmediğim, denemediğim, gitmediğim, görmediğim, görmediğimiz, ilaçlamadığımız, istemediğini, okumadığın</li>
       <li>VERB-Vnoun: dinlememek</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pos
+    <ul>
+      <li>VERB: gitti</li>
     </ul>
   </li>
 </ul>
@@ -461,9 +470,8 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Hab
     <ul>
-      <li>AUX: olur</li>
-      <li>VERB: olur, bilmem, olabilir, derken, giderim, ister, isterdim, isterim, yapabilirsin, yaparım</li>
-      <li>VERB-Conv: derken, yaparken, giderken, öğrenirken, ararken, gezerken, geçerken, inerken, otururken, oynarken</li>
+      <li>VERB: olur, bilmem, olabilir, yaparken, derken, giderim, isterdim, isterim, yapabilirsin, yaparım</li>
+      <li>VERB-Conv: yaparken, derken, giderken, öğrenirken, ararken, gezerken, geçerken, inerken, otururken, oynarken</li>
       <li>VERB-Part: ister, İnanır</li>
     </ul>
   </li>
@@ -472,8 +480,8 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: se, sen, ysem</li>
-      <li>VERB: diyelim, bileyim, diyeyim, bakalım, yapalım, etmeye, olsa, gidelim, verirse, olmasa</li>
+      <li>AUX: se, sa, sen, ysem</li>
+      <li>VERB: diyelim, bileyim, diyeyim, bakalım, etmeye, olsa, yapalım, gidelim, olmasa, olursa</li>
     </ul>
   </li>
 </ul>
@@ -481,10 +489,10 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Perf
     <ul>
-      <li>AUX: dı, di, ydi, ydı, ydım, mıydı, tu, miydi, tı, dim</li>
-      <li>VERB: yaptım, dedim, geldi, geçti, dedi, başladım, ettim, gittim, oldu, olmadı</li>
+      <li>AUX: dı, di, ydi, ydı, ydım, yim, dır, im, ler, mıydı</li>
+      <li>VERB: yaptım, dedim, geldi, geçti, başladım, dedi, ettim, gitti, gittim, oldu</li>
       <li>VERB-Conv: gelmişken, gitmişken</li>
-      <li>VERB-Part: başlamış, oturmuş, yaşamış</li>
+      <li>VERB-Part: başlamış, büyümüş, oturmuş, yaşamış</li>
     </ul>
   </li>
 </ul>
@@ -492,7 +500,7 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Prog
     <ul>
-      <li>VERB: oluyor, bilmiyorum, gidiyor, geliyor, yapıyor, yapıyorsun, diyor, düşünüyorum, ediyor, gerekiyor</li>
+      <li>VERB: oluyor, bilmiyorum, gidiyor, geliyor, yapıyorsun, diyor, yapıyor, düşünüyorum, ediyor, ediyorsun</li>
     </ul>
   </li>
 </ul>
@@ -512,8 +520,8 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Cnd
     <ul>
-      <li>AUX: se, sen</li>
-      <li>VERB: verirse, gidiliyorsa, istiyorsan, olsa, olsaydı, olursa, yapsam, Dinlersem, alsan, alırsak</li>
+      <li>AUX: se, sa, sen</li>
+      <li>VERB: olsa, olursa, verirse, gidiliyorsa, istiyorsan, olmasa, olsaydı, yaparsan, yapsam, Dinlersem</li>
     </ul>
   </li>
 </ul>
@@ -522,7 +530,7 @@ For the speech collection (Note that the paper describes a separate speech corpu
   <li>Des
     <ul>
       <li>AUX: ysem</li>
-      <li>VERB: olsa, atlatsam, desem, olmasa, uyumazsan, yapsan, yapılırsa</li>
+      <li>VERB: olsa, atlatsam, bakıyorsa, desem, olmasa, uyumazsan, yapsan, yapılırsa</li>
     </ul>
   </li>
 </ul>
@@ -530,9 +538,9 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Gen
     <ul>
-      <li>AUX: dır, olur, dir, dur, lerdir</li>
-      <li>VERB: olur, bilmem, derken, giderim, ister, isterim, yaparım, başlarım, bilir, gideriz</li>
-      <li>VERB-Conv: derken, yaparken, giderken, öğrenirken, ararken, gezerken, geçerken, inerken, otururken, oynarken</li>
+      <li>AUX: dır, dir, dur, lerdir</li>
+      <li>VERB: olur, bilmem, yaparken, derken, giderim, isterim, yaparım, bakarım, başlarım, bilir</li>
+      <li>VERB-Conv: yaparken, derken, giderken, öğrenirken, ararken, gezerken, geçerken, inerken, otururken, oynarken</li>
       <li>VERB-Part: ister, İnanır</li>
     </ul>
   </li>
@@ -541,7 +549,7 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>GenPot
     <ul>
-      <li>VERB: olabilir, yapabilirsin, gidebilirim, okuyamazsın, olabilirsin, yapabiliriz, yapılabilir, alabilirim, bakabilirim, bulabilirim</li>
+      <li>VERB: olabilir, yapabilirsin, gidebilirim, okuyamazsın, olabilirsin, yapabiliriz, yapılabilir, alabilirim, bakabilir, bakabilirim</li>
     </ul>
   </li>
 </ul>
@@ -549,7 +557,8 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Imp
     <ul>
-      <li>VERB: bak, olsun, guck, erzähl, düşün, sag, bitsin, dur, okuyun, olan</li>
+      <li>AUX-Fin: sei</li>
+      <li>VERB: bak, olsun, guck, erzähl, getir, bitsin, düşün, sag, dur, komm</li>
     </ul>
   </li>
 </ul>
@@ -557,13 +566,14 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Ind
     <ul>
-      <li>AUX: ist, habe, war, hat, sind, muss, dı, kann, haben, bin</li>
-      <li>AUX-Fin: ist, habe, war, hat, sind, muss, kann, haben, bin, kannst</li>
-      <li>VERB: glaube, habe, oluyor, weiß, haben, weißt, gibt, bilmiyorum, yaptım, denke</li>
+      <li>AUX: ist, habe, war, sind, hat, muss, kann, dı, bin, haben</li>
+      <li>AUX-Fin: ist, habe, war, sind, hat, muss, kann, bin, haben, kannst</li>
+      <li>AUX-Part: worden</li>
+      <li>VERB: glaube, habe, oluyor, weiß, weißt, haben, yaptım, gibt, bilmiyorum, denke</li>
       <li>VERB-Conv: gelmişken, gitmişken</li>
-      <li>VERB-Fin: glaube, habe, weiß, haben, weißt, gibt, denke, kommt, finde, hat</li>
+      <li>VERB-Fin: glaube, habe, weiß, weißt, haben, gibt, denke, finde, hat, kommt</li>
       <li>VERB-Inf: benützen</li>
-      <li>VERB-Part: başlamış, geçen, oturmuş, yaşamış</li>
+      <li>VERB-Part: başlamış, büyümüş, geçen, oturmuş, yaşamış</li>
     </ul>
   </li>
 </ul>
@@ -579,7 +589,7 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Opt
     <ul>
-      <li>VERB: diyelim, bileyim, diyeyim, bakalım, yapalım, etmeye, gidelim, vereyim, Varsayalım, alayım</li>
+      <li>VERB: diyelim, bileyim, diyeyim, bakalım, etmeye, yapalım, gidelim, göstereyim, konuşa, vereyim</li>
     </ul>
   </li>
 </ul>
@@ -587,8 +597,9 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Pot
     <ul>
-      <li>VERB: başlayamadım, bulamadım, okuyabiliyorsun, yapabiliyorsun, Yetiştiremiyorsun, alışabilen, anlayabildiğim, anlayabiliyorum, anlayamadım, açamıyorum</li>
+      <li>VERB: başlayamadım, bilemeyeceğim, bulamadım, geçemedim, okuyabiliyorsun, yapabiliyorsun, yapamadım, Yetiştiremiyorsun, alamamışlar, alışabilen</li>
       <li>VERB-Part: alışabilen, anlayabildiğim, edebileceğin</li>
+      <li>VERB-Vnoun: kullanabilmek, üretebilmek</li>
     </ul>
   </li>
 </ul>
@@ -604,10 +615,9 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Sub
     <ul>
-      <li>AUX: würde, hätte, wäre, könnte, möchte, habe, hätten, würden, könnten, sollte</li>
-      <li>AUX-Fin: würde, hätte, wäre, könnte, möchte, habe, hätten, würden, könnten, sollte</li>
-      <li>VERB: hätte, mache, bestehe, lerne, fange, findest, hättest, käme, lasse, nehme</li>
-      <li>VERB-Fin: hätte, bestehe, käme, lasse, nehme, versuche</li>
+      <li>AUX-Fin: würde, hätte, wäre, hätten, könnte, möchte, habe, würden, würdest, könnten</li>
+      <li>VERB: findest, hätte, mache, bestehe, lerne, fange, fangen, glaube, hättest, käme</li>
+      <li>VERB-Fin: hätte, bestehe, glaube, käme, lasse, nehme, versuche</li>
     </ul>
   </li>
 </ul>
@@ -619,8 +629,9 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Fut
     <ul>
-      <li>VERB: olacak, yapacağım, gideceğiz, yapacaksın, gelecek, bakacağım, başlayacağım, deneyeceğim, diyecektim, gerekecek</li>
-      <li>VERB-Part: olacak, yapacağım, zorlaşacağımı, alacak, diyeceğimi, edebileceğin, edecek, olacağı, verecekler, çalışacağım</li>
+      <li>VERB: olacak, yapacağım, gelecek, gideceğiz, yapacaksın, başlayacağım, bakacağım, gidecek, yapacaklar, bilemeyeceğim</li>
+      <li>VERB-Part: olacak, yapacağım, zorlaşacağımı, alacak, diyeceğimi, edebileceğin, edecek, gerekecekti, olacağı, verecekler</li>
+      <li>VERB-Vnoun: gidecek</li>
     </ul>
   </li>
 </ul>
@@ -628,12 +639,13 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Past
     <ul>
-      <li>AUX: war, dı, würde, di, ydi, waren, wollte, hätte, wäre, ydı</li>
-      <li>AUX-Fin: war, würde, waren, wollte, hätte, wäre, konnte, hatte, musste, sollte</li>
-      <li>VERB: yaptım, olduğu, dedim, hatte, dachte, geldi, dediğim, geçti, dedi, başladım</li>
+      <li>AUX: war, dı, würde, di, ydi, waren, wollte, hatte, hätte, wäre</li>
+      <li>AUX-Fin: war, würde, waren, wollte, hatte, hätte, wäre, konnte, musste, sollte</li>
+      <li>AUX-Part: worden</li>
+      <li>VERB: yaptım, olduğu, hatte, dedim, dachte, geldi, dediğim, geçti, başladım, dedi</li>
       <li>VERB-Conv: gelmişken, gitmişken</li>
-      <li>VERB-Fin: hatte, dachte, hatten, meinte, kam, gab, war, hätte, ging, hieß</li>
-      <li>VERB-Part: olduğu, dediğim, sevdiğim, istediğim, geldikten, bildiğim, bildiğin, bittikten, geldiği, istediğin</li>
+      <li>VERB-Fin: hatte, dachte, hatten, meinte, gab, kam, war, ging, hätte, entschieden</li>
+      <li>VERB-Part: olduğu, dediğim, sevdiğim, istediğin, yaptığın, geldikten, istediğim, bildiğim, bildiğin, bittikten</li>
     </ul>
   </li>
 </ul>
@@ -649,12 +661,13 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Pres
     <ul>
-      <li>AUX: ist, habe, hat, sind, muss, kann, haben, bin, kannst, musst</li>
-      <li>AUX-Fin: ist, habe, hat, sind, muss, kann, haben, bin, kannst, wird</li>
-      <li>VERB: glaube, habe, oluyor, weiß, haben, weißt, gibt, bilmiyorum, denke, kommt</li>
-      <li>VERB-Conv: derken, yaparken, giderken, öğrenirken, ararken, gezerken, geçerken, inerken, otururken, oynarken</li>
-      <li>VERB-Fin: glaube, habe, weiß, haben, weißt, gibt, denke, kommt, finde, hat</li>
-      <li>VERB-Part: geçen, olan, düşeni, gelen, ister, çalışan, alışabilen, anlatılanlar, arayanlar, denen</li>
+      <li>AUX: ist, habe, sind, hat, muss, kann, bin, haben, kannst, wird</li>
+      <li>AUX-Fin: ist, habe, sind, hat, muss, kann, bin, haben, kannst, wird</li>
+      <li>VERB: glaube, habe, oluyor, weiß, weißt, haben, diyelim, denke, gibt, bilmiyorum</li>
+      <li>VERB-Conv: yaparken, derken, giderken, öğrenirken, ararken, gezerken, geçerken, inerken, otururken, oynarken</li>
+      <li>VERB-Fin: glaube, habe, weiß, weißt, haben, gibt, denke, finde, hat, kommt</li>
+      <li>VERB-Inf: durchbeißen, übertreiben</li>
+      <li>VERB-Part: geçen, olan, yapan, diyen, düşeni, gelen, ister, okuyan, çalışan, alışabilen</li>
     </ul>
   </li>
 </ul>
@@ -666,9 +679,10 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Cau
     <ul>
-      <li>VERB: bitirdi, bitirdim, dolduruyoruz, geliştirmek, Koşuşturma, Yetiştiremiyorsun, anlatsana, anlatıyorlar, bileyim, biriktirmen</li>
+      <li>VERB: öldürdüler, bitirdi, bitirdim, dolduruyoruz, geliştirmek, yansıtmak, Koşuşturma, Yetiştiremiyorsun, anlatsana, anlatıyorlar</li>
+      <li>VERB-Conv: başlatıp</li>
       <li>VERB-Part: bitirdikten, büyüttüğünü, kapatan, şaşırtan</li>
-      <li>VERB-Vnoun: geliştirmek, Koşuşturma, biriktirmen, bitirmeyi, değiştirmek, diktirmeyi, kurutma, pişirmek, sevdirmek, yansıtmak</li>
+      <li>VERB-Vnoun: geliştirmek, yansıtmak, Koşuşturma, biriktirmen, bitirmeyi, değiştirmek, diktirmeyi, kurutma, pişirmek, sevdirmek</li>
     </ul>
   </li>
 </ul>
@@ -700,12 +714,11 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Pass
     <ul>
-      <li>AUX: wird, werden, worden, wurde, wurden, würde, würdest</li>
-      <li>AUX-Fin: wird, werden, wurde, wurden, würde</li>
+      <li>AUX-Fin: wird, werden, wurde, wurden, würdest</li>
       <li>AUX-Part: worden</li>
-      <li>VERB: kesiliyor, denen, gidiliyorsa, yapılabilir, yapılıyor, alınmış, anlatılanlar, aranıyor, biliniyor, boğuluyordu</li>
+      <li>VERB: kesiliyor, denen, gidiliyorsa, yapılabilir, yapılıyor, alınmış, anlatılanlar, aranıyor, açıldı, bakıldığında</li>
       <li>VERB-Conv: yapılırken</li>
-      <li>VERB-Part: anlatılanlar, dendiği, denen, konuşulduğunu, kurulandılar, takıldığımız, yapılan, yapıldığını, yayınlanan, yaşandığını</li>
+      <li>VERB-Part: anlatılanlar, bakıldığında, dendiği, denen, konuşulduğunu, kurulandılar, takıldığımız, yapan--, yapılan, yapıldığını</li>
       <li>VERB-Vnoun: edilmesinde, kapatılmasını, kesilmesi, sorulması</li>
     </ul>
   </li>
@@ -722,7 +735,7 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Rcp
     <ul>
-      <li>VERB: tanışıyoruz, yazışıyorsun</li>
+      <li>VERB: tanışmıştık, tanışmıştım, tanışıyoruz, yazışıyorsun</li>
     </ul>
   </li>
 </ul>
@@ -743,9 +756,9 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Fh
     <ul>
-      <li>AUX: dı, di, ydi, ydı, ydım, mıydı, tu, miydi, tı, dim</li>
-      <li>VERB: oluyor, bilmiyorum, yaptım, diyelim, dedim, gidiyor, geliyor, geldi, olur, bileyim</li>
-      <li>VERB-Conv: derken, yaparken, giderken, öğrenirken, ararken, gezerken, geçerken, inerken, otururken, oynarken</li>
+      <li>AUX: dı, di, ydi, ydı, ydım, yim, im, ler, mıydı, tu</li>
+      <li>VERB: oluyor, diyelim, yaptım, bilmiyorum, gidiyor, olur, dedim, geliyor, geldi, yapıyorsun</li>
+      <li>VERB-Conv: yaparken, derken, giderken, öğrenirken, ararken, gezerken, geçerken, inerken, otururken, oynarken</li>
       <li>VERB-Part: ister, İnanır</li>
     </ul>
   </li>
@@ -754,10 +767,10 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Nfh
     <ul>
-      <li>AUX: miş, muş, se, sen, mış, ysem</li>
-      <li>VERB: demiş, olmuş, yapmışlar, gitmiştik, olsa, etmişler, gelmiş, gelmişti, gitmiştim, konuşmuştuk</li>
+      <li>AUX: muş, miş, mış, se, ymiş, sa, sen, ysem</li>
+      <li>VERB: olmuş, yapmışlar, demiş, olsa, gelmiş, gitmiştik, özlemişim, etmişler, gelmişti, gitmiştim</li>
       <li>VERB-Conv: gelmişken, gitmişken</li>
-      <li>VERB-Part: başlamış, oturmuş, yaşamış</li>
+      <li>VERB-Part: başlamış, büyümüş, oturmuş, yaşamış</li>
     </ul>
   </li>
 </ul>
@@ -772,8 +785,8 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Art
     <ul>
-      <li>DET: dem, die, der, ein, eine, das, den, einen, einem, des</li>
-      <li>PRON: das, die, dem, des</li>
+      <li>DET: dem, die, der, ein, eine, das, den, einen, einem, einer</li>
+      <li>PRON: das, die, des, Einem</li>
     </ul>
   </li>
 </ul>
@@ -781,8 +794,8 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Dem
     <ul>
-      <li>DET: das, dieses, dem, die, der, diese, diesem, dieser, diesen</li>
-      <li>PRON: das, die, der, diese, diesen, dem, den, denen, dies, denjenigen</li>
+      <li>DET: dieses, diese, dieser, diesem, bu, diesen</li>
+      <li>PRON: das, die, bu, der, diese, bunu, şu, diesen, bunlar, dem</li>
     </ul>
   </li>
 </ul>
@@ -790,8 +803,8 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Ind
     <ul>
-      <li>DET: viele, jeden, viel, alles, mehr, mehrere, alle, jeder, solche, jedem</li>
-      <li>PRON: man, alles, sowas, etwas, allem, paar, alle, nichts, was, irgendetwas</li>
+      <li>DET: viele, jeden, viel, alles, mehrere, mehr, alle, jeder, jedes, manche</li>
+      <li>PRON: man, alles, sowas, etwas, allem, paar, alle, jeder, nichts, was</li>
     </ul>
   </li>
 </ul>
@@ -799,7 +812,7 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Int
     <ul>
-      <li>PRON: was, wer, welche, welches, wen</li>
+      <li>PRON: was, welche, wen, wer, welches</li>
     </ul>
   </li>
 </ul>
@@ -808,7 +821,7 @@ For the speech collection (Note that the paper describes a separate speech corpu
   <li>Neg
     <ul>
       <li>DET: keine, kein, keinen</li>
-      <li>PRON: keine, kein, keiner, keinen, keins, nichts</li>
+      <li>PRON: kein, keine, keiner, keinen, keines, keins, nichts</li>
     </ul>
   </li>
 </ul>
@@ -816,8 +829,7 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Prs
     <ul>
-      <li>DET: meinen</li>
-      <li>PRON: ich, es, du, wir, mir, sie, mich, er, dir, sich</li>
+      <li>PRON: ich, es, du, o, wir, ondan, ben, mir, sie, mich</li>
     </ul>
   </li>
 </ul>
@@ -825,8 +837,7 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Rel
     <ul>
-      <li>DET: die, der, das</li>
-      <li>PRON: das, die, was, der, den, er</li>
+      <li>PRON: das, die, was, der, den</li>
     </ul>
   </li>
 </ul>
@@ -838,7 +849,7 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Card
     <ul>
-      <li>NUM: bir, iki, zwei, üç, dört, altı, kaç, yirmi, drei, ein</li>
+      <li>NUM: bir, iki, zwei, üç, dört, altı, kaç, drei, ein, yirmi</li>
     </ul>
   </li>
 </ul>
@@ -866,8 +877,7 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Yes
     <ul>
-      <li>DET: eure, meinen, unser, unsere</li>
-      <li>PRON: mein, dein, meine, meinem, unsere, deinen, meinen, meiner, seine, deine</li>
+      <li>PRON: mein, meine, dein, meinem, meiner, unsere, meinen, deinen, seine, ihren</li>
     </ul>
   </li>
 </ul>
@@ -891,11 +901,11 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>1
     <ul>
-      <li>AUX: habe, kann, muss, würde, bin, war, haben, werde, sind, wollte</li>
-      <li>AUX-Fin: habe, kann, muss, würde, bin, war, haben, werde, sind, wollte</li>
-      <li>PRON: ich, wir, mir, mich, ben, benim, bana, bizim, uns, bence</li>
-      <li>VERB: glaube, habe, weiß, bilmiyorum, denke, yaptım, diyelim, finde, dedim, bileyim</li>
-      <li>VERB-Fin: glaube, habe, weiß, denke, finde, dachte, haben, hatte, meine, hatten</li>
+      <li>AUX: habe, bin, muss, kann, war, würde, haben, werde, sind, wollte</li>
+      <li>AUX-Fin: habe, bin, muss, kann, war, würde, haben, werde, sind, wollte</li>
+      <li>PRON: ich, wir, ben, mir, mich, benim, bana, bizim, biz, uns</li>
+      <li>VERB: glaube, habe, weiß, diyelim, yaptım, denke, bilmiyorum, finde, dedim, hatte</li>
+      <li>VERB-Fin: glaube, habe, weiß, denke, finde, hatte, dachte, haben, meine, gehe</li>
       <li>VERB-Inf: Fangen, Sitzenbleiben, benützen</li>
       <li>VERB-Part: geschickt, gewöhnt, hat--</li>
     </ul>
@@ -905,11 +915,12 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>2
     <ul>
-      <li>AUX: kannst, musst, hast, bist, musun, seid, willst, wirst, mısın, habt</li>
-      <li>AUX-Fin: kannst, hast, bist, seid, wirst, habt, werdet, möchtest, sollst</li>
-      <li>PRON: du, dir, ihr, sen, dich, sana, senin, seni, euch, sende</li>
-      <li>VERB: weißt, hast, bak, yapıyorsun, machst, ediyorsun, yapacaksın, findest, gidiyorsun, kennst</li>
+      <li>AUX: kannst, hast, musst, bist, musun, seid, willst, wirst, mısın, habt</li>
+      <li>AUX-Fin: kannst, hast, bist, seid, wirst, habt, werdet, würdest, möchtest, sei</li>
+      <li>PRON: du, dir, sen, ihr, dich, sana, dein, seni, senin, sende</li>
+      <li>VERB: weißt, bak, hast, yapıyorsun, machst, ediyorsun, findest, gidiyorsun, kennst, yapacaksın</li>
       <li>VERB-Fin: weißt, hast, machst, habt, kannst, kommst, Weisst, gehst, hält</li>
+      <li>VERB-Vnoun: gidecek</li>
     </ul>
   </li>
 </ul>
@@ -917,13 +928,15 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>3
     <ul>
-      <li>AUX: ist, war, mi, hat, dı, sind, mı, wird, di, haben</li>
+      <li>AUX: ist, war, mi, hat, sind, dı, mı, di, wird, haben</li>
       <li>AUX-Conv: ken</li>
-      <li>AUX-Fin: ist, war, hat, sind, wird, haben, muss, kann, waren, wäre</li>
-      <li>PRON: es, o, sie, ondan, er, onun, sich, onu, herkes, ona</li>
-      <li>VERB: oluyor, gibt, kommt, hat, geht, gidiyor, geliyor, geldi, haben, sagt</li>
-      <li>VERB-Conv: derken, inerken, oynarken, yaparken, yapılırken, yazarken</li>
-      <li>VERB-Fin: gibt, kommt, hat, geht, haben, sagt, heißt, macht, ist, sieht</li>
+      <li>AUX-Fin: ist, war, hat, sind, wird, haben, muss, kann, waren, würde</li>
+      <li>AUX-Part: worden</li>
+      <li>PRON: es, o, ondan, sie, er, onun, onu, sich, ona, onlar</li>
+      <li>VERB: oluyor, gibt, hat, kommt, geht, gidiyor, geliyor, heißt, olur, haben</li>
+      <li>VERB-Conv: yaparken, derken, inerken, oynarken, yapılırken, yazarken</li>
+      <li>VERB-Fin: gibt, hat, kommt, geht, heißt, haben, macht, sagt, sieht, ist</li>
+      <li>VERB-Inf: übertreiben</li>
       <li>VERB-Part: herumgeheult</li>
     </ul>
   </li>
@@ -938,11 +951,11 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Plur
     <ul>
-      <li>NOUN: akrabamız, yemekleri, zamanımız, şeyleri, Abgabelerimiz, Abgabeleriniz, Abgabemiz, Antenleri, Baustelleleri, Familieniz</li>
-      <li>PRON: birbirimize, birbirlerine, birbirleriyle</li>
+      <li>NOUN: Ergebnisseleri, akrabamız, yemekleri, zamanımız, şeyleri, Abgabelerimiz, Abgabeleriniz, Abgabemiz, Antenleri, Baustelleleri</li>
+      <li>PRON: birbirimize, birbirlerine, birbirleriyle, nelerimiz</li>
       <li>PROPN: Sufiler'in, İngilizcelerini</li>
-      <li>VERB-Part: aradığımız, geldiğimizde, kaldığımız, anlamadığımız, bakmadığımız, bulduğumuz, dediklerine, ettiğimiz, geldiklerinde, gittiğiniz</li>
-      <li>VERB-Vnoun: almalarına, etmemiz, okumamız, okumanız, yapmamız</li>
+      <li>VERB-Part: aradığımız, geldiğimizde, kaldığımız, anlamadığımız, anlattıkları, bakmadığımız, bulduğumuz, dediklerine, ettiğimiz, geldiklerinde</li>
+      <li>VERB-Vnoun: almalarına, etmemiz, okumamız, okumanız, yapmamız, ödemeleri</li>
     </ul>
   </li>
 </ul>
@@ -950,13 +963,13 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <ul>
   <li>Sing
     <ul>
-      <li>ADP: geçen, liğine, lığı, lığına, gibime, kisi, liği, liğin, lüğümden</li>
-      <li>NOUN: şeyi, hoşuma, üzerine, hakkında, iyisi, içinde, yanına, yemeği, adı, aklıma</li>
+      <li>ADP: geçen, lığı, liğine, lığına, gibime, gibisinden, kisi, liği, liğin, lüğümden</li>
+      <li>NOUN: şeyi, hoşuma, üzerine, adı, içinde, hakkında, yemeği, aklıma, iyisi, yanına</li>
       <li>NUM: ikincisi, Birincisi, yirmisi</li>
-      <li>PRON: benim, bizim, kendimi, kendin, birisi, burası, hepsini, orası, senin, kendim</li>
-      <li>PROPN: İngilizcesini, Abitur'umu, Allah'ım, Almanların, Devleti, Türkçesi, Zalim, Zeliha'nın, İngilizcemi, İstanbul'un</li>
-      <li>VERB: dediğim, yapmam, istediğim, sevdiğim, yapacağım, bildiğim, bildiğin, geldiği, istediğin, oturduğum</li>
-      <li>VERB-Part: dediğim, istediğim, sevdiğim, bildiğim, bildiğin, geldiği, istediğin, oturduğum, yapacağım, yaptığın</li>
+      <li>PRON: benim, bizim, kendimi, burası, kendin, birisi, hepsini, orası, senin, kendim</li>
+      <li>PROPN: Türkçesi, İngilizcesini, AMD'si, Abitur'umu, Allah'ım, Almanların, Avengers'ın, Devleti, IBM'i, Intel'i</li>
+      <li>VERB: dediğim, yapmam, istediğin, yaptığın, istediğim, sevdiğim, yapacağım, bildiğim, bildiğin, geldiği</li>
+      <li>VERB-Part: dediğim, istediğin, yaptığın, istediğim, sevdiğim, bildiğim, bildiğin, geldiği, oturduğum, yapacağım</li>
       <li>VERB-Vnoun: yapmam, alışması, başlamamın, gitmen, süslemesi, temizlemem, yazmam, almam, aramam, ayarlaman</li>
     </ul>
   </li>
@@ -970,17 +983,18 @@ For the speech collection (Note that the paper describes a separate speech corpu
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: Half, international</li>
-          <li>ADP: of</li>
+          <li>ADJ: Half, international, parallel, small</li>
+          <li>ADP: of, to</li>
           <li>AUX: is</li>
-          <li>CCONJ: and</li>
+          <li>CCONJ: and, vs.</li>
           <li>DET: The, a</li>
           <li>INTJ: äh</li>
-          <li>NOUN: Cheeseburger, King, Queens, Motherboard, Protectors, action, man, Arts, Au-Pair, Break</li>
-          <li>NUM: Two</li>
-          <li>PRON: my, this</li>
-          <li>PROPN: Netflix, Bachelor, Jane, Park, South, Anne, Atos, Austen, Bang, Bing</li>
-          <li>VERB: triggered</li>
+          <li>NOUN: Cheeseburger, King, Queens, Motherboard, Protectors, action, dagger, man, Arts, Au-Pair</li>
+          <li>NUM: 96, Two</li>
+          <li>PART: to</li>
+          <li>PRON: I, my, this</li>
+          <li>PROPN: Netflix, Iron, Keanu, Bachelor, Basic, Batman, Ghul, Jane, Marvel, Park</li>
+          <li>VERB: have, came, kill, triggered</li>
         </ul>
       </li>
     </ul>
@@ -993,33 +1007,33 @@ For the speech collection (Note that the paper describes a separate speech corpu
       <li>1
         <ul>
           <li>ADP: gibime, lüğümden</li>
-          <li>NOUN: hoşuma, aklıma, annem, arkadaşım, sınavım, Abiturumu, annemin, annemle, arkadaşlarım, arkadaşlarımla</li>
-          <li>PRON: benim, bizim, kendimi, kendim, benimle, birbirimize, kendime</li>
+          <li>NOUN: hoşuma, aklıma, annem, annemle, arkadaşım, sınavım, Abiturumu, annemin, arkadaşlarım, arkadaşlarımla</li>
+          <li>PRON: benim, bizim, kendimi, kendim, benimle, birbirimize, kendime, nelerimiz</li>
           <li>PROPN: Abitur'umu, Allah'ım, İngilizcemi</li>
-          <li>VERB: dediğim, yapmam, istediğim, sevdiğim, yapacağım, bildiğim, oturduğum, aldığım, aradığımız, bakacağım</li>
+          <li>VERB: dediğim, yapmam, istediğim, sevdiğim, yapacağım, bildiğim, oturduğum, özlemişim, aldığım, aradığımız</li>
           <li>VERB-Part: dediğim, istediğim, sevdiğim, bildiğim, oturduğum, yapacağım, aldığım, aradığımız, ettiğim, geldiğimizde</li>
-          <li>VERB-Vnoun: yapmam, başlamamın, temizlemem, yazmam, almam, aramam, bilmem, düşünmem, etmem, etmemi</li>
+          <li>VERB-Vnoun: yapmam, başlamamın, temizlemem, yazmam, almam, aramam, bakmam, bilmem, düşünmem, etmem</li>
         </ul>
       </li>
       <li>2
         <ul>
           <li>ADP: geçen, liğin</li>
-          <li>NOUN: üzerine, hoşuna, Kunde'lerin, zamanın, zamanını, öğlende, Abgabeleriniz, Abiturunu, Bereichın, Bewerbungun</li>
+          <li>NOUN: üzerine, hoşuna, Kunde'lerin, derslerin, zamanın, zamanını, öğlende, Abgabeleriniz, Abiturunu, Arbeitından</li>
           <li>PRON: kendin, hepsini, senin, sizin, hangilerini, hangisini, kendini, seninle</li>
           <li>PROPN: Almanların, Zeliha'nın, İstanbul'un</li>
-          <li>VERB: bildiğin, istediğin, yaptığın, gitmen, alacağın, atmışın, ayarlaman, açtığında, bakmana, baktığın</li>
-          <li>VERB-Part: bildiğin, istediğin, yaptığın, açtığında, baktığın, başladığında, büyüdüğün, dediğin, edebileceğin, ettiğin</li>
+          <li>VERB: istediğin, yaptığın, bildiğin, baktığın, dediğin, gitmen, vurduğun, Dediğini, alacağın, atmışın</li>
+          <li>VERB-Part: istediğin, yaptığın, bildiğin, baktığın, dediğin, vurduğun, Dediğini, açtığında, bakıldığında, başladığında</li>
           <li>VERB-Vnoun: gitmen, ayarlaman, bakmana, biriktirmen, düşünmen, etmen, etmeni, konuşman, okumanız, sevmen</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>ADP: liğine, lığı, lığına, kisi, liği</li>
-          <li>NOUN: şeyi, hakkında, iyisi, içinde, yemeği, adı, alakası, sonuna, yanına, yaşında</li>
+          <li>ADP: lığı, liğine, lığına, gibisinden, kisi, liği</li>
+          <li>NOUN: şeyi, adı, içinde, hakkında, yemeği, iyisi, adını, alakası, başında, sonuna</li>
           <li>NUM: ikincisi, Birincisi, yirmisi</li>
-          <li>PRON: birisi, burası, orası, kendisi, birbirleriyle, birbirinden, birbirine, birbirlerine, neresi, neresinde</li>
-          <li>PROPN: İngilizcesini, Devleti, Sufiler'in, Türkçesi, İngilizcelerini</li>
-          <li>VERB-Part: geldiği, düşeni, yaptığı, aldığı, aldığından, başladığında, büyüttüğünü, dediklerine, ettiği, geldiklerinde</li>
+          <li>PRON: burası, birisi, orası, kendisi, birbirleriyle, birbirinden, birbirine, birbiriyle, birbirlerine, birisine</li>
+          <li>PROPN: Türkçesi, İngilizcesini, AMD'si, Avengers'ın, Devleti, IBM'i, Intel'i, Sufiler'in, Türkçe'si, İngilizcelerini</li>
+          <li>VERB-Part: geldiği, düşeni, yaptığı, aldığı, aldığından, anlattıkları, anlattığını, başladığında, birleştiği, büyüttüğünü</li>
           <li>VERB-Vnoun: alışması, süslemesi, almalarına, denemesi, diktirmeyi, edilmesinde, etmesi, gelmesini, giymeyi, kapatılmasını</li>
         </ul>
       </li>
@@ -1032,13 +1046,13 @@ For the speech collection (Note that the paper describes a separate speech corpu
     <ul>
       <li>Yes
         <ul>
+          <li>ADJ: teoretikmen</li>
           <li>ADV: bazenleri, bilene</li>
-          <li>INTJ: pf</li>
-          <li>NOUN: arkadaşnan, *mrank, mabloları, maplar, mül</li>
+          <li>NOUN: arkadaşnan, motion, Immobilientechniknen, Milluminati, mabloları, maplar, mizza, mrank, mül</li>
           <li>PRON: bazileri, bazilerini</li>
           <li>PROPN: Nizze</li>
           <li>VERB: tozunuyor, harcamaz</li>
-          <li>X: tschiu, Medientechniknen, Milluminati</li>
+          <li>X: tschiu</li>
         </ul>
       </li>
     </ul>
@@ -1050,12 +1064,12 @@ For the speech collection (Note that the paper describes a separate speech corpu
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 4 lemmas as copulas (<a>cop</a>). Examples: sein, i, ol, be.</li>
+<li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: sein, i, be.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 9 lemmas as auxiliaries (<a>aux</a>). Examples: haben, können, werden, müssen, sein, wollen, sollen, mögen, dürfen.</li>
-<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: werden, wollen.</li>
+<li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: haben, können, werden, müssen, sein, wollen, sollen, mögen, dürfen, tun.</li>
+<li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: werden, sein, wollen.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -1064,34 +1078,41 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (3)</li>
+      <li>VERB--NOUN (5)</li>
       <li>VERB--NOUN-Acc (5)</li>
       <li>VERB--NOUN-Gen (1)</li>
-      <li>VERB--NOUN-Nom (242)</li>
+      <li>VERB--NOUN-Nom (259)</li>
       <li>VERB--NOUN-Nom-ADP(diye) (1)</li>
+      <li>VERB--NOUN-Nom-ADP(gibi) (1)</li>
       <li>VERB--NOUN-Nom-ADP(lik) (1)</li>
-      <li>VERB--PRON-Nom (356)</li>
+      <li>VERB--PRON (2)</li>
+      <li>VERB--PRON-Nom (445)</li>
+      <li>VERB--PRON-Nom-ADP(birlikte) (1)</li>
       <li>VERB--PRON-Nom-ADP(ki) (1)</li>
+      <li>VERB-Conv--NOUN (1)</li>
       <li>VERB-Conv--NOUN-Gen (1)</li>
-      <li>VERB-Conv--NOUN-Nom (13)</li>
-      <li>VERB-Conv--PRON-Nom (5)</li>
+      <li>VERB-Conv--NOUN-Nom (12)</li>
+      <li>VERB-Conv--PRON-Nom (6)</li>
+      <li>VERB-Fin--NOUN (1)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>
-      <li>VERB-Fin--NOUN-Nom (58)</li>
+      <li>VERB-Fin--NOUN-Nom (65)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(als) (1)</li>
-      <li>VERB-Fin--PRON-Nom (650)</li>
-      <li>VERB-Inf--NOUN-Nom (18)</li>
-      <li>VERB-Inf--PRON-Nom (226)</li>
-      <li>VERB-Part--NOUN-Gen (4)</li>
-      <li>VERB-Part--NOUN-Nom (40)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(aus) (1)</li>
+      <li>VERB-Fin--PRON-Nom (743)</li>
+      <li>VERB-Inf--NOUN-Nom (20)</li>
+      <li>VERB-Inf--PRON-Nom (267)</li>
+      <li>VERB-Part--NOUN-Acc (1)</li>
+      <li>VERB-Part--NOUN-Gen (5)</li>
+      <li>VERB-Part--NOUN-Nom (45)</li>
       <li>VERB-Part--NOUN-Nom-ADP(für) (1)</li>
-      <li>VERB-Part--PRON-Gen (2)</li>
+      <li>VERB-Part--PRON-Gen (4)</li>
       <li>VERB-Part--PRON-Gen-ADP(ki) (1)</li>
-      <li>VERB-Part--PRON-Nom (261)</li>
+      <li>VERB-Part--PRON-Nom (300)</li>
       <li>VERB-Part--PRON-Nom-ADP(wie) (1)</li>
       <li>VERB-Vnoun--NOUN-Gen (2)</li>
-      <li>VERB-Vnoun--NOUN-Nom (10)</li>
+      <li>VERB-Vnoun--NOUN-Nom (9)</li>
       <li>VERB-Vnoun--PRON-Gen (3)</li>
-      <li>VERB-Vnoun--PRON-Nom (7)</li>
+      <li>VERB-Vnoun--PRON-Nom (8)</li>
     </ul>
   </li>
 </ul>
@@ -1099,62 +1120,72 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (2)</li>
-      <li>VERB--NOUN-Acc (243)</li>
+      <li>VERB--NOUN (4)</li>
+      <li>VERB--NOUN-Acc (286)</li>
+      <li>VERB--NOUN-Acc-ADP(auf) (1)</li>
       <li>VERB--NOUN-Acc-ADP(für) (1)</li>
       <li>VERB--NOUN-Acc-ADP(için) (1)</li>
-      <li>VERB--NOUN-Nom (180)</li>
+      <li>VERB--NOUN-Ins (1)</li>
+      <li>VERB--NOUN-Nom (214)</li>
       <li>VERB--NOUN-Nom-ADP(diye) (1)</li>
-      <li>VERB--PRON-Acc (103)</li>
+      <li>VERB--PRON-Acc (131)</li>
       <li>VERB--PRON-Acc-ADP(kin) (1)</li>
       <li>VERB--PRON-Dat (1)</li>
-      <li>VERB--PRON-Nom (38)</li>
+      <li>VERB--PRON-Dat-ADP(von) (1)</li>
+      <li>VERB--PRON-Nom (43)</li>
       <li>VERB--PRON-Nom-ADP(diye) (1)</li>
-      <li>VERB-Conv--NOUN-Acc (7)</li>
+      <li>VERB-Conv--NOUN-Acc (10)</li>
       <li>VERB-Conv--NOUN-Nom (3)</li>
       <li>VERB-Conv--PRON-Acc (5)</li>
       <li>VERB-Fin--NOUN (2)</li>
-      <li>VERB-Fin--NOUN-Acc (186)</li>
+      <li>VERB-Fin--NOUN-Acc (211)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(als) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(auf) (2)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(dahinter) (1)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(für) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(nach) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(um) (2)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(von) (2)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(wie) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(zu) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(über) (2)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(über) (3)</li>
       <li>VERB-Fin--NOUN-Dat (1)</li>
-      <li>VERB-Fin--NOUN-Nom (30)</li>
+      <li>VERB-Fin--NOUN-Nom (35)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(für) (1)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(wie) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(über) (2)</li>
-      <li>VERB-Fin--PRON-Acc (82)</li>
-      <li>VERB-Fin--PRON-Dat (6)</li>
-      <li>VERB-Fin--PRON-Nom (20)</li>
-      <li>VERB-Inf--NOUN (3)</li>
-      <li>VERB-Inf--NOUN-Acc (74)</li>
+      <li>VERB-Fin--PRON-Acc (94)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(an) (1)</li>
+      <li>VERB-Fin--PRON-Dat (9)</li>
+      <li>VERB-Fin--PRON-Nom (22)</li>
+      <li>VERB-Inf--NOUN (4)</li>
+      <li>VERB-Inf--NOUN-Acc (90)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(auf) (1)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(von) (1)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(über) (1)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(mit) (1)</li>
-      <li>VERB-Inf--NOUN-Nom (13)</li>
+      <li>VERB-Inf--NOUN-Dat-ADP(mit) (2)</li>
+      <li>VERB-Inf--NOUN-Nom (15)</li>
       <li>VERB-Inf--NOUN-Nom-ADP(in) (1)</li>
-      <li>VERB-Inf--PRON-Acc (77)</li>
+      <li>VERB-Inf--PRON-Acc (86)</li>
       <li>VERB-Inf--PRON-Dat (1)</li>
-      <li>VERB-Inf--PRON-Nom (8)</li>
+      <li>VERB-Inf--PRON-Nom (10)</li>
       <li>VERB-Inf--PRON-Nom-ADP(für) (1)</li>
       <li>VERB-Part--NOUN (1)</li>
-      <li>VERB-Part--NOUN-Acc (68)</li>
+      <li>VERB-Part--NOUN-Acc (85)</li>
       <li>VERB-Part--NOUN-Acc-ADP(nach) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(von) (1)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(von) (2)</li>
       <li>VERB-Part--NOUN-Acc-ADP(über) (1)</li>
-      <li>VERB-Part--NOUN-Nom (28)</li>
-      <li>VERB-Part--PRON-Acc (61)</li>
-      <li>VERB-Part--PRON-Dat (1)</li>
-      <li>VERB-Part--PRON-Nom (21)</li>
-      <li>VERB-Vnoun--NOUN-Acc (29)</li>
-      <li>VERB-Vnoun--NOUN-Nom (36)</li>
-      <li>VERB-Vnoun--PRON-Acc (4)</li>
-      <li>VERB-Vnoun--PRON-Nom (2)</li>
+      <li>VERB-Part--NOUN-Ins (1)</li>
+      <li>VERB-Part--NOUN-Nom (31)</li>
+      <li>VERB-Part--PRON-Acc (69)</li>
+      <li>VERB-Part--PRON-Dat (2)</li>
+      <li>VERB-Part--PRON-Dat-ADP(mit) (1)</li>
+      <li>VERB-Part--PRON-Nom (24)</li>
+      <li>VERB-Vnoun--NOUN-Acc (30)</li>
+      <li>VERB-Vnoun--NOUN-Ins (1)</li>
+      <li>VERB-Vnoun--NOUN-Nom (41)</li>
+      <li>VERB-Vnoun--PRON-Acc (5)</li>
+      <li>VERB-Vnoun--PRON-Nom (3)</li>
     </ul>
   </li>
 </ul>
@@ -1164,17 +1195,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN-Dat-ADP(mit) (1)</li>
       <li>VERB--NOUN-Dat-ADP(von) (1)</li>
-      <li>VERB--PRON-Dat (2)</li>
+      <li>VERB--PRON-Dat (3)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(mit) (1)</li>
-      <li>VERB-Fin--PRON-Dat (13)</li>
+      <li>VERB-Fin--PRON-Dat (21)</li>
+      <li>VERB-Fin--PRON-Dat-ADP(mit) (1)</li>
       <li>VERB-Fin--PRON-Dat-ADP(zu) (1)</li>
-      <li>VERB-Inf--NOUN-Dat (1)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(mit) (2)</li>
+      <li>VERB-Inf--NOUN-Dat (2)</li>
+      <li>VERB-Inf--NOUN-Dat-ADP(mit) (3)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(von) (1)</li>
       <li>VERB-Inf--PRON-Acc (1)</li>
-      <li>VERB-Inf--PRON-Dat (4)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(mit) (1)</li>
-      <li>VERB-Part--PRON-Dat (10)</li>
+      <li>VERB-Inf--PRON-Dat (6)</li>
+      <li>VERB-Part--PRON-Dat (15)</li>
     </ul>
   </li>
 </ul>
@@ -1182,14 +1213,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 45 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: denken mir, überlegen mir, freuen mich, vorstellen dir, entscheiden mich, erinnern mich, fragen mich, fühlen mich, konzentrieren mich, sicher mir, vorstellen mir, abgucken sich, anmelden mich, aufraffen mich, ausdenken sich, bereiten dich, bewerben dich, bewerben mich, bewerben sich, beziehen sich, denken uns, dingsen sich, einarbeiten dich, einleben euch, erneuern sich, erschrecken sich, fühlen dich, gewöhnen mich, halten mich, herleiten mir, interessieren mich, kümmern uns, lachen dich, legen dir, liegen mir, melden sich, nehmen dir, richten sich, schmecken mir, transformieren sich, weiterbilden dich, wohlfühlen sich, wundern mich, ziehen sich, ändern sich</li>
+  <li>This corpus contains 54 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: denken mir, überlegen mir, sicher mir, bewerben mich, erinnern mich, freuen mich, vorstellen dir, bewerben dich, entscheiden mich, fragen mich, fühlen mich, konzentrieren mich, vorstellen mir, abgucken sich, anmelden mich, anschauen mir, aufraffen mich, ausdenken sich, bereiten dich, beschäftigen sich, bewerben sich, beziehen sich, denken uns, dingsen sich, einarbeiten dich, einleben euch, erinnern sich, erneuern sich, erschrecken sich, fühlen dich, fühlen sich, gewöhnen mich, halten mich, herleiten mir, hinbeamen uns, interessieren mich, kümmern uns, lachen dich, legen dir, liegen mir, melden sich, nehmen dir, richten sich, schmecken mir, stellen mir, transformieren sich, unterhalten sich, verpissen dich, weiterbilden dich, wohlfühlen mich</li>
 </ul>
 
 
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 2 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: bewerben mich, denken mir</li>
+  <li>This corpus contains 1 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: bewerben mich</li>
 </ul>
 
 <h3>Relations Overview</h3>

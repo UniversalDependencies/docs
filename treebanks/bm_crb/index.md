@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.3 release.
 The following people have contributed to making this treebank part of UD: Katya Aplonova, Francis Tyers.
 
 Repository: [UD_Bambara-CRB](https://github.com/UniversalDependencies/UD_Bambara-CRB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbm_crb27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbm_crb28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -30,9 +30,7 @@ Questions, comments?
 General annotation questions (either Bambara-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Bambara-CRB/issues).
 If you want to collaborate, please contact [aplooon&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com].
-Development of the treebank happens outside the UD repository.
-If there are bugs, either the original data source or the conversion procedure must be fixed.
-Do not submit pull requests against the UD repository.
+Development of the treebank happens directly in the UD repository, so you may submit bug fixes as pull requests against the dev branch.
 
 | Annotation | Source |
 |------------|--------|
@@ -49,12 +47,15 @@ The UD Bambara treebank is a section of the Corpus Référence du Bambara annota
 
 
 
-Bambara (also known as Bamana) is the most widely-spoken language of the Manding language group (Niger-Congo > Mande > Western Mande). It is spoken mainly in Mali by 13-14 million people;
-of these, around four million are L1 speakers. Development of the [Bambara Reference Corpus](http://cormand.huma-num.fr/) was started in April 2012 (Vydrin 2013, Maslinsky 2014).
-The corpus includes a non-disambiguated sub-corpus and a disambiguated one. At present, the whole corpus contains about nine million tokens.
-The corpus was annotated using UD Annotatrix annotation tool (Tyers, Sheyanova, Washington 2018).
+Bambara (also known as Bamana) is the most widely-spoken language of the Manding language group
+(Niger-Congo > Mande > Western Mande). It is spoken mainly in Mali by 13-14 million people;
+of these, around four million are L1 speakers. Development of the
+[Bambara Reference Corpus](http://cormand.huma-num.fr/) was started in April 2012 (Vydrin 2013,
+Maslinsky 2014). The corpus includes a non-disambiguated sub-corpus and a disambiguated one. At
+present, the whole corpus contains about nine million tokens. The corpus was annotated using
+UD Annotatrix annotation tool (Tyers, Sheyanova, Washington 2018).
 
-Documentation for a treebank is available on UD site (http://universaldependencies.org/bm/dep/).
+Documentation for the treebank is available on the [UD web site](http://universaldependencies.org/bm/dep/).
 
 
 ## Acknowledgments
@@ -63,10 +64,26 @@ The conversion and annotation has been done by Katya Aplonova and Francis M. Tye
 in Moscow. We would like to thank the developers and annotators of the Corpus Référence du Bambara for permission
 to base this on their work.
 
+## Citation
+
+If you use this corpus in your research please cite
+
+```bibtex
+@inproceedings{aplonova_2018,
+author = {Aplonova, K. and Tyers, F. M.},
+title = {Towards a dependency treebank for Bambara},
+booktitle = {Proceedings of the 16th Conference on Treebanks and Linguistic Theories},
+pages = {138--146},
+year = 2018
+}
+```
+
 ## References
 
-* Maslinsky, K. (2014). Daba: a model and tools for Manding corpora. In Proceedings of TALAf 2014 : Traitement Automatique des Langues Africaines, pages 114-122.
-* Tyers, F. M., Sheyanova, M., and Washington, J. N. (2018). UD Annotatrix: An annotation tool for Universal Dependencies. In Proceedings of the 16th International Workshop on Treebanks and Linguistic Theories.
+* Maslinsky, K. (2014). Daba: a model and tools for Manding corpora.
+In Proceedings of TALAf 2014 : Traitement Automatique des Langues Africaines, pages 114-122.
+* Tyers, F. M., Sheyanova, M., and Washington, J. N. (2018). UD Annotatrix: An annotation tool for Universal Dependencies.
+In Proceedings of the 16th International Workshop on Treebanks and Linguistic Theories.
 * Vydrin, V. (2013). Bamana reference corpus (BRC). Procedia - Social and Behavioral Sciences, 95, pages 75–80.
 
 
@@ -79,7 +96,7 @@ to base this on their work.
 
 ## Features
 
-[AdjType](bm_crb-feat-AdjType.html) – [Aspect](bm_crb-feat-Aspect.html) – [Definite](bm_crb-feat-Definite.html) – [Mood](bm_crb-feat-Mood.html) – [Number](bm_crb-feat-Number.html) – [NumType](bm_crb-feat-NumType.html) – [Person](bm_crb-feat-Person.html) – [Polarity](bm_crb-feat-Polarity.html) – [PronType](bm_crb-feat-PronType.html) – [Tense](bm_crb-feat-Tense.html) – [Valency](bm_crb-feat-Valency.html) – [VerbForm](bm_crb-feat-VerbForm.html) – [Voice](bm_crb-feat-Voice.html)
+[Aspect](bm_crb-feat-Aspect.html) – [Definite](bm_crb-feat-Definite.html) – [Mood](bm_crb-feat-Mood.html) – [Number](bm_crb-feat-Number.html) – [NumType](bm_crb-feat-NumType.html) – [Person](bm_crb-feat-Person.html) – [Polarity](bm_crb-feat-Polarity.html) – [PronType](bm_crb-feat-PronType.html) – [Tense](bm_crb-feat-Tense.html) – [Valency](bm_crb-feat-Valency.html) – [VerbForm](bm_crb-feat-VerbForm.html) – [Voice](bm_crb-feat-Voice.html)
 
 ## Relations
 
@@ -117,7 +134,7 @@ to base this on their work.
 </ul>
 
 <ul>
-<li>This corpus contains 20 word types tagged as particles (PART): bada, bani, bilen, de, dennin, dun, dè, dɛ, fana, hali, k', ko, koyi, kòni, le, sa, tun, wa, wo, yo</li>
+<li>This corpus contains 19 word types tagged as particles (PART): bada, bani, bilen, de, dennin, dun, dè, dɛ, fana, hali, k', ko, koyi, kòni, le, sa, wa, wo, yo</li>
 </ul>
 
 <ul>
@@ -133,11 +150,11 @@ to base this on their work.
 </ul>
 
 <ul>
-<li>This corpus contains 31 lemmas tagged as auxiliaries (AUX): _, b', be, bé, bɛ, bɛ́, bɛ́na, bɛ́nà, dìyé, dòn, k', ka, kà, kàna, kànâ, ká, ma, mà, má, mán, mána, mánà, n', nà, té, tɛ, tɛ́, tɛ́nà, y', ye, yé</li>
+<li>This corpus contains 17 lemmas tagged as auxiliaries (AUX): bá, bɛ, bɛ́na, dìyé, dòn, fulakɛ, ka, kàna, kɔ́, ma, mán, mána, na, tùn, tɛ, tɛ́na, ye</li>
 </ul>
 
 <ul>
-<li>Out of the above, 9 lemmas occurred sometimes as AUX and sometimes as VERB: _, b', bé, bɛ́, dòn, nà, tɛ, tɛ́, yé</li>
+<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: dòn, tɛ</li>
 </ul>
 
 <ul>
@@ -215,7 +232,7 @@ to base this on their work.
 <ul>
   <li>Neg
     <ul>
-      <li>AUX: tè, ma, kana, te, man, tèna</li>
+      <li>AUX: tè, ma, kana, te, tɛ, man, tèna</li>
       <li>VERB: tè, tɛ</li>
     </ul>
   </li>
@@ -224,7 +241,7 @@ to base this on their work.
 <ul>
   <li>Pos
     <ul>
-      <li>AUX: ye, bè, ka, be, mana, bèna, y', bɛ, na, b'</li>
+      <li>AUX: ye, bè, ka, be, bɛ, mana, bèna, y', b', na</li>
       <li>VERB: tagara, bè, ye, nana, bòra, sera, kèra, tora, cira, banna</li>
     </ul>
   </li>
@@ -241,7 +258,7 @@ to base this on their work.
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: bè, tè, be, te, bɛ, b'</li>
+      <li>AUX: bè, tè, be, bɛ, te, tɛ, b'</li>
       <li>VERB: be, bè, tè, tɛ</li>
     </ul>
   </li>
@@ -309,7 +326,7 @@ to base this on their work.
 <ul>
   <li>Past
     <ul>
-      <li>PART: tun</li>
+      <li>AUX: tun</li>
     </ul>
   </li>
 </ul>
@@ -434,18 +451,6 @@ to base this on their work.
 
 
 <ul>
-  <li><a>AdjType</a>
-    <ul>
-      <li>Attr
-        <ul>
-          <li>ADJ: caman, camanba, KEGUNMAN</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li><a>Valency</a>
     <ul>
       <li>1
@@ -471,7 +476,7 @@ to base this on their work.
 </ul>
 
 <ul>
-<li>This corpus uses 37 lemmas as auxiliaries (<a>aux</a>). Examples: kà, yé, ye, bɛ́, bɛ, tɛ́, ka, _, ká, tùn, má, ma, tɛ, bé, dìyé, kàna, mána, bɛ́na, kànâ, y', mà, nà, té, k', mánà, b', be, bá, bɛ́nà, dòn, fulakɛ, kɔ́, mán, n', tún, tɛ́nà, à.</li>
+<li>This corpus uses 17 lemmas as auxiliaries (<a>aux</a>). Examples: ka, ye, bɛ, tɛ, ma, tùn, dìyé, kàna, mána, bɛ́na, na, bá, dòn, fulakɛ, kɔ́, mán, tɛ́na.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -481,7 +486,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (534)</li>
-      <li>VERB--PRON (1212)</li>
+      <li>VERB--PRON (1213)</li>
       <li>VERB-Part--NOUN (15)</li>
       <li>VERB-Part--PRON (15)</li>
     </ul>

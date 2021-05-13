@@ -77,9 +77,9 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 36	URU-an-šá-an	Anšan	PROPN	_	_	35	nmod	_	_
 37	NUMUN	zēru	NOUN	_	_	2	appos	_	_
 38	da-ru-ú	dārû	ADJ	_	_	37	amod	_	_
-39	ša	ša	DET	_	_	40	case	_	_
+39	ša	ša	ADP	_	_	40	case	_	_
 40	LUGAL-ú-tu	šarrūtu	NOUN	_	_	37	obj	_	_
-41	ša	ša	PRON	_	_	45	mark	_	_
+41	ša	ša	SCONJ	_	_	45	mark	_	_
 42	d-EN	Bel	PROPN	_	_	45	csubj	_	_
 43	u	u	CCONJ	_	_	44	cc	_	_
 44	d-AG	Nabu	PROPN	_	_	42	conj	_	_
@@ -135,7 +135,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 14	-e-a	-ia	PRON	_	_	13	det	_	_
 15	áš-te-né-eʾ-e-a	šeʾû	VERB	_	_	0	root	_	_
 16	ka-a-a-nim	kayyānu	ADV	_	_	15	advmod	_	_
-17	šá	ša	DET	_	_	18	mark	_	_
+17	šá	ša	SCONJ	_	_	18	mark	_	_
 18	ku-un-ni	kânu	VERB	_	_	15	xcomp	_	_
 19	pa-ar-ṣi	parṣu	NOUN	_	_	18	obj	_	_
 20	-šu-nu	-šunu	PRON	_	_	19	det	_	_

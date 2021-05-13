@@ -19,12 +19,12 @@ The 10 most frequent ambiguous types:  <em>I</em> (<tt><a href="sk_snk-pos-NUM.h
 
 
 * <em>I</em>
-  * <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> 23: <em>Cár Mikuláš <b>I</b> . vyhlásil sultánovi 26 . apríla 1828 vojnu .</em>
+  * <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> 23: <em>Anastasios <b>I</b> . ( cisár )</em>
   * <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 6: <em><b>I</b> v našom rozprávaní ide o tvorenie — o tvorenie človeka .</em>
   * <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> 2: <em>ODCHODY A návraty ĽUBOMÍRA Ďuroviča ( <b>I</b> . )</em>
   * <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 1: <em>“ <b>I</b> mne sa raz snívalo , že budem učiť najväčšieho hrdinu všetkých čias , “ vyhlásil Fil .</em>
 * <em>veľa</em>
-  * <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> 18: <em>Hermovi bola pripisovaná úloha vo <b>veľa</b> oblastiach :</em>
+  * <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> 18: <em>V poslednom období svojho života Ignác zakúsil <b>veľa</b> telesného utrpenia .</em>
   * <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> 2: <em>Musí sa <b>veľa</b> učiť a Kasandrinou úlohou bolo vychovať ju a pripraviť na život včely .</em>
 * <em>trochu</em>
   * <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> 20: <em>Prišlo mi jej tak <b>trochu</b> ľúto .</em>
@@ -48,14 +48,14 @@ The 10 most frequent ambiguous types:  <em>I</em> (<tt><a href="sk_snk-pos-NUM.h
   * <tt><a href="sk_snk-pos-X.html">X</a></tt> 1: <em>* <b>V</b> sudu Diogenově</em>
 * <em>mnohých</em>
   * <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> 8: <em>Jeho pôvod je predmetom <b>mnohých</b> vedeckých debát .</em>
-  * <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> 2: <em>Prvý raz po <b>mnohých</b> rokoch zabudol na všadeprítomnú televíznu obrazovku .</em>
+  * <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> 2: <em>V <b>mnohých</b> prípadoch to zaberie .</em>
 * <em>pár</em>
   * <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> 3: <em>Príslušníka vojenskej polície , poľovníka a manželský <b>pár</b> v stredných rokoch .</em>
   * <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> 2: <em>“ Neviete , že vám piraňa za <b>pár</b> sekúd obžerie všetko mäso ? “</em>
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.144638 (the average of all parts of speech is 1.801856).
+The form / lemma ratio of `NUM` is 1.144638 (the average of all parts of speech is 1.802472).
 
 The 1st highest number of forms (11) was observed with the lemma “jeden”: <em>jeden, jedna, jednej, jedno, jednom, jednou, jednu, jedny, jedného, jednému, jedným</em>.
 
@@ -88,7 +88,7 @@ Parents of `NUM` nodes belong to 11 different parts of speech: <tt><a href="sk_s
 
 The highest child degree of a `NUM` node is 7.
 
-Children of `NUM` nodes are attached using 20 different relations: <tt><a href="sk_snk-dep-punct.html">punct</a></tt> (461; 39% instances), <tt><a href="sk_snk-dep-nmod.html">nmod</a></tt> (265; 22% instances), <tt><a href="sk_snk-dep-conj.html">conj</a></tt> (99; 8% instances), <tt><a href="sk_snk-dep-case.html">case</a></tt> (69; 6% instances), <tt><a href="sk_snk-dep-advmod-emph.html">advmod:emph</a></tt> (65; 5% instances), <tt><a href="sk_snk-dep-nummod.html">nummod</a></tt> (65; 5% instances), <tt><a href="sk_snk-dep-cop.html">cop</a></tt> (37; 3% instances), <tt><a href="sk_snk-dep-cc.html">cc</a></tt> (36; 3% instances), <tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt> (28; 2% instances), <tt><a href="sk_snk-dep-amod.html">amod</a></tt> (15; 1% instances), <tt><a href="sk_snk-dep-advmod.html">advmod</a></tt> (14; 1% instances), <tt><a href="sk_snk-dep-dep.html">dep</a></tt> (9; 1% instances), <tt><a href="sk_snk-dep-obl.html">obl</a></tt> (9; 1% instances), <tt><a href="sk_snk-dep-appos.html">appos</a></tt> (7; 1% instances), <tt><a href="sk_snk-dep-mark.html">mark</a></tt> (6; 1% instances), <tt><a href="sk_snk-dep-det.html">det</a></tt> (5; 0% instances), <tt><a href="sk_snk-dep-flat.html">flat</a></tt> (4; 0% instances), <tt><a href="sk_snk-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+Children of `NUM` nodes are attached using 21 different relations: <tt><a href="sk_snk-dep-punct.html">punct</a></tt> (461; 39% instances), <tt><a href="sk_snk-dep-nmod.html">nmod</a></tt> (265; 22% instances), <tt><a href="sk_snk-dep-conj.html">conj</a></tt> (99; 8% instances), <tt><a href="sk_snk-dep-case.html">case</a></tt> (69; 6% instances), <tt><a href="sk_snk-dep-advmod-emph.html">advmod:emph</a></tt> (65; 5% instances), <tt><a href="sk_snk-dep-nummod.html">nummod</a></tt> (65; 5% instances), <tt><a href="sk_snk-dep-cop.html">cop</a></tt> (37; 3% instances), <tt><a href="sk_snk-dep-cc.html">cc</a></tt> (36; 3% instances), <tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt> (28; 2% instances), <tt><a href="sk_snk-dep-amod.html">amod</a></tt> (15; 1% instances), <tt><a href="sk_snk-dep-advmod.html">advmod</a></tt> (14; 1% instances), <tt><a href="sk_snk-dep-dep.html">dep</a></tt> (9; 1% instances), <tt><a href="sk_snk-dep-obl.html">obl</a></tt> (8; 1% instances), <tt><a href="sk_snk-dep-appos.html">appos</a></tt> (7; 1% instances), <tt><a href="sk_snk-dep-mark.html">mark</a></tt> (6; 1% instances), <tt><a href="sk_snk-dep-det.html">det</a></tt> (5; 0% instances), <tt><a href="sk_snk-dep-flat.html">flat</a></tt> (4; 0% instances), <tt><a href="sk_snk-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="sk_snk-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
 Children of `NUM` nodes belong to 16 different parts of speech: <tt><a href="sk_snk-pos-PUNCT.html">PUNCT</a></tt> (461; 39% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (239; 20% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (166; 14% instances), <tt><a href="sk_snk-pos-PART.html">PART</a></tt> (73; 6% instances), <tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> (68; 6% instances), <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> (37; 3% instances), <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> (32; 3% instances), <tt><a href="sk_snk-pos-X.html">X</a></tt> (22; 2% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (19; 2% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (18; 2% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (16; 1% instances), <tt><a href="sk_snk-pos-SYM.html">SYM</a></tt> (15; 1% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (12; 1% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (9; 1% instances), <tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (4; 0% instances)
 

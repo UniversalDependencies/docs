@@ -31,7 +31,7 @@ The 10 most frequent ambiguous types:  ϣⲏⲙ (<tt><a href="cop_scriptorium-po
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.000000 (the average of all parts of speech is 1.124670).
+The form / lemma ratio of `ADJ` is 1.000000 (the average of all parts of speech is 1.124953).
 
 The 1st highest number of forms (1) was observed with the lemma “ϣⲏⲙ”: ϣⲏⲙ.
 
@@ -39,7 +39,13 @@ The 2nd highest number of forms (1) was observed with the lemma “ⲕⲁⲑⲟ�
 
 The 3rd highest number of forms (1) was observed with the lemma “ⲕⲟⲩⲓ”: ⲕⲟⲩⲓ.
 
-`ADJ` does not occur with any features.
+`ADJ` occurs with 1 features: <tt><a href="cop_scriptorium-feat-Foreign.html">Foreign</a></tt> (1; 3% instances)
+
+`ADJ` occurs with 1 feature-value pairs: `Foreign=Yes`
+
+`ADJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (30 tokens).
+Examples: ϣⲏⲙ, ⲕⲟⲩⲓ, ⲟⲩⲱⲧ
 
 
 ## Relations

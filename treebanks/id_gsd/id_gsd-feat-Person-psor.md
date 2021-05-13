@@ -11,14 +11,14 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="id_gsd-feat-Person.html">Person</a></tt>, <tt><a href="id_gsd-feat-Person-psor.html">Person[psor]</a></tt>.
 
-1877 tokens (2%) have a non-empty value of `Person[psor]`.
+1876 tokens (2%) have a non-empty value of `Person[psor]`.
 986 types (5%) occur at least once with a non-empty value of `Person[psor]`.
 887 lemmas (5%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 12 part-of-speech tags: <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (1243; 1% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (289; 0% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (94; 0% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (76; 0% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (51; 0% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (42; 0% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (32; 0% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (21; 0% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="id_gsd-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The feature is used with 12 part-of-speech tags: <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (1242; 1% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (289; 0% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (94; 0% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (76; 0% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (51; 0% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (42; 0% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (32; 0% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (21; 0% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="id_gsd-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-1243 <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> tokens (5% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
+1242 <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> tokens (5% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
 
 The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="id_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1118; 90%).
 
@@ -163,9 +163,4 @@ The most frequent other feature values with which `PART` and `Person[psor]` co-o
 
 `CCONJ` tokens may have the following values of `Person[psor]`:
 
-
-## Relations with Agreement in `Person[psor]`
-
-The 10 most frequent relations where parent and child node agree in `Person[psor]`:
-<tt>NOUN --[<tt><a href="id_gsd-dep-compound-plur.html">compound:plur</a></tt>]--> NOUN</tt> (1; 100%).
 

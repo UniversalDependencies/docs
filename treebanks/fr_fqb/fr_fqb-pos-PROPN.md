@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-FQB: POS Tags: `PROPN`
 
 There are 1203 `PROPN` lemmas (32%), 1203 `PROPN` types (28%) and 2086 `PROPN` tokens (9%).
-Out of 17 observed tags, the rank of `PROPN` is: 2 in number of lemmas, 2 in number of types and 5 in number of tokens.
+Out of 16 observed tags, the rank of `PROPN` is: 2 in number of lemmas, 2 in number of types and 5 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>États-Unis, New, Terre, Californie, Alaska, John, York, soleil, Charles, Kentucky</em>
 
@@ -20,7 +20,7 @@ The 10 most frequent ambiguous types:  <em>New</em> (<tt><a href="fr_fqb-pos-PRO
 
 * <em>New</em>
   * <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> 16: <em>Combien coûte un voyage aller-retour <b>New</b> York - Londres sur le Concorde ?</em>
-  * <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1: <em>Quand Aldous Huxley a -t -il écrit " Brave <b>New</b> World " ?</em>
+  * <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1: <em>Quand Aldous Huxley a -t-il écrit " Brave <b>New</b> World " ?</em>
 * <em>King</em>
   * <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> 4: <em>Qui a assassiné Martin Luther <b>King</b> ?</em>
   * <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1: <em>Quel est le nom de le fils de le Roi Lion dans le film " The Lion <b>King</b> " ?</em>
@@ -38,21 +38,21 @@ The 10 most frequent ambiguous types:  <em>New</em> (<tt><a href="fr_fqb-pos-PRO
   * <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1: <em>Quel était le nom d' origine de le " <b>Star</b> Spangled Banner " ?</em>
 * <em>World</em>
   * <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> 2: <em>Dans quelle ville de la Floride se trouve Sea <b>World</b> ?</em>
-  * <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1: <em>Quand Aldous Huxley a -t -il écrit " Brave New <b>World</b> " ?</em>
+  * <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1: <em>Quand Aldous Huxley a -t-il écrit " Brave New <b>World</b> " ?</em>
 * <em>A</em>
   * <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 1: <em>Où se trouve l' université Prairie View <b>A</b> & M ?</em>
   * <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> 1: <em>Quel était le nom de l' ordinateur dans " 2001 : <b>A</b> Space Odyssey " ?</em>
   * <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1: <em>Qui est l' auteur de le livre " The Iron Lady : <b>A</b> Biography of Margaret Thatcher " ?</em>
 * <em>American</em>
   * <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> 1: <em>Quel est le nom de la compagnie qui produit la collection de poupées " <b>American</b> Girl " ?</em>
-  * <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1: <em>Quel personnage Scott Bakula a -t -il joué dans <b>American</b> Beauty ?</em>
+  * <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1: <em>Quel personnage Scott Bakula a -t-il joué dans <b>American</b> Beauty ?</em>
 * <em>Canyon</em>
   * <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 1: <em>Où se trouve le Grand <b>Canyon</b> ?</em>
   * <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> 1: <em>Où se trouve le Kings ' <b>Canyon</b> ?</em>
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.162933).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.163777).
 
 The 1st highest number of forms (1) was observed with the lemma “'N”: <em>'N</em>.
 

@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 * `Fin` (3; 60% of non-empty `VerbForm`): <em>difere, há, opõem</em>
 * `Inf` (2; 40% of non-empty `VerbForm`): <em>arrecadar, reduzir</em>
-* `EMPTY` (2006): <em>disse, há, tem, diz, é, fazer, está, ter, fez, partir</em>
+* `EMPTY` (2004): <em>disse, há, tem, diz, fazer, é, está, ter, fez, partir</em>
 
 ### `AUX`
 
@@ -35,5 +35,5 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 `AUX` tokens may have the following values of `VerbForm`:
 
 * `Fin` (2; 100% of non-empty `VerbForm`): <em>são, É</em>
-* `EMPTY` (826): <em>é, foi, foram, ser, são, sido, está, pode, tinha, ter</em>
+* `EMPTY` (828): <em>é, foi, foram, ser, são, sido, está, pode, tinha, ter</em>
 

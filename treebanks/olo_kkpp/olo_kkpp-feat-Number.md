@@ -11,10 +11,10 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt>, <tt><a href="olo_kkpp-feat-Number-psor.html">Number[psor]</a></tt>.
 
-977 tokens (60%) have a non-empty value of `Number`.
-642 types (85%) occur at least once with a non-empty value of `Number`.
+978 tokens (60%) have a non-empty value of `Number`.
+643 types (85%) occur at least once with a non-empty value of `Number`.
 464 lemmas (83%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (429; 26% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (194; 12% instances), <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (100; 6% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (93; 6% instances), <tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> (79; 5% instances), <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt> (61; 4% instances), <tt><a href="olo_kkpp-pos-NUM.html">NUM</a></tt> (16; 1% instances), <tt><a href="olo_kkpp-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="olo_kkpp-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="olo_kkpp-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The feature is used with 10 part-of-speech tags: <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (429; 26% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (195; 12% instances), <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (100; 6% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (93; 6% instances), <tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> (79; 5% instances), <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt> (61; 4% instances), <tt><a href="olo_kkpp-pos-NUM.html">NUM</a></tt> (16; 1% instances), <tt><a href="olo_kkpp-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="olo_kkpp-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="olo_kkpp-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -39,14 +39,14 @@ The feature is used with 10 part-of-speech tags: <tt><a href="olo_kkpp-pos-NOUN.
 
 ### `VERB`
 
-194 <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> tokens (76% of all `VERB` tokens) have a non-empty value of `Number`.
+195 <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> tokens (76% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="olo_kkpp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (184; 95%), <tt><a href="olo_kkpp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (179; 92%), <tt><a href="olo_kkpp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (177; 91%), <tt><a href="olo_kkpp-feat-Person.html">Person</a></tt><tt>=3</tt> (149; 77%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="olo_kkpp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (185; 95%), <tt><a href="olo_kkpp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (180; 92%), <tt><a href="olo_kkpp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (177; 91%), <tt><a href="olo_kkpp-feat-Person.html">Person</a></tt><tt>=3</tt> (150; 77%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Plur` (82; 42% of non-empty `Number`): <em>kuulimo, kuulittogo, sanottih, tiezimö, tiezittö, lähtiettih, näimö, saneltih, torvittih, avvutetah</em>
-* `Sing` (112; 58% of non-empty `Number`): <em>sanoi, rodieu, sanoo, istui, kraassi, kyzyy, menöö, olen, oli, on</em>
+* `Sing` (113; 58% of non-empty `Number`): <em>sanoi, rodieu, sanoo, istui, kraassi, kyzyy, menöö, olen, oli, on</em>
 * `EMPTY` (62): <em>kuulluh, pietäh, arbuamah, ellendämäh, kuundelemah, käynnyh, lähtie, ostua, saamah, sanomah</em>
 
 <table>
@@ -158,15 +158,15 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 ### `X`
 
-3 <tt><a href="olo_kkpp-pos-X.html">X</a></tt> tokens (43% of all `X` tokens) have a non-empty value of `Number`.
+3 <tt><a href="olo_kkpp-pos-X.html">X</a></tt> tokens (50% of all `X` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `X` and `Number` co-occurred: <tt><a href="olo_kkpp-feat-Case.html">Case</a></tt><tt>=Par</tt> (3; 100%), <tt><a href="olo_kkpp-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="olo_kkpp-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="olo_kkpp-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="olo_kkpp-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="olo_kkpp-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (3; 100%).
+The most frequent other feature values with which `X` and `Number` co-occurred: <tt><a href="olo_kkpp-feat-Case.html">Case</a></tt><tt>=Par</tt> (3; 100%).
 
 `X` tokens may have the following values of `Number`:
 
 * `Plur` (2; 67% of non-empty `Number`): <em>d’engaa, puččii</em>
 * `Sing` (1; 33% of non-empty `Number`): <em>piduhuttu</em>
-* `EMPTY` (4): <em>teidänyh, ttiteatr, u, y</em>
+* `EMPTY` (3): <em>ttiteatr, u, y</em>
 
 ### `ADP`
 

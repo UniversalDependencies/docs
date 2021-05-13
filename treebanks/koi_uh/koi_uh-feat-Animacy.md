@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Permyak-UH: Features: `Animacy`
 
-This feature is universal but the values `Hum`, `NHum` are language-specific.
-It occurs with 4 different values: `Anim`, `Hum`, `Inan`, `NHum`.
+This feature is universal but the values `Hum` are language-specific.
+It occurs with 4 different values: `Anim`, `Hum`, `Inan`, `Nhum`.
 
 35 tokens (4%) have a non-empty value of `Animacy`.
 25 types (5%) occur at least once with a non-empty value of `Animacy`.
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 * `Anim` (2; 14% of non-empty `Animacy`): <em>Мортлӧ, вонӧ</em>
 * `Hum` (3; 21% of non-empty `Animacy`): <em>соседыс, oтиp</em>
 * `Inan` (9; 64% of non-empty `Animacy`): <em>бадь, видзоккез, кадӧ, касьтылӧм, керку, керкуокыс, муӧ, син, ягӧд</em>
-* `EMPTY` (154): <em>айӧ, йӧрсӧ, айся, дорас, дорын, луныс, машина, морт, ойнас, олісьыс</em>
+* `EMPTY` (157): <em>айӧ, йӧрсӧ, айся, дорас, дорын, луныс, машина, морт, ойнас, олісьыс</em>
 
 `Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (12) occur only with one value of `Animacy`.
 
@@ -48,8 +48,8 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 
 `PRON` tokens may have the following values of `Animacy`:
 
-* `NHum` (3; 100% of non-empty `Animacy`): <em>мый</em>
-* `EMPTY` (78): <em>сія, ме, менам, тэ, сійӧ, меным, сылӧ, сылӧн, тэнат, мыйкӧ</em>
+* `Nhum` (3; 100% of non-empty `Animacy`): <em>мый</em>
+* `EMPTY` (80): <em>сія, ме, менам, тэ, сійӧ, меным, сылӧ, сылӧн, тэнат, ас</em>
 
 ### `ADJ`
 

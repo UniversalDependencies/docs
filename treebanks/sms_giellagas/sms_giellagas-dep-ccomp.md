@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-25 nodes (2%) are attached to their parents as `ccomp`.
+40 nodes (2%) are attached to their parents as `ccomp`.
 
-24 instances of `ccomp` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.36.
+38 instances of `ccomp` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.575.
 
-The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (21; 84% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (2; 8% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-SCONJ.html">SCONJ</a></tt> (1; 4% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (1; 4% instances).
+The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (34; 85% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (2; 5% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -22,9 +22,9 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 ccomp	color:blue
-1	Joordam	juʹrdded	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg1
+1	Joordam	juʹrdded	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Valency=2	0	root	_	GTtags=Ind,Prs,Sg1
 2	što	što	SCONJ	CS	_	3	mark	_	_
-3	âbrr	âʹbrred	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	1	ccomp	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
+3	âbrr	âʹbrred	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	1	ccomp	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
 4	.	.	PUNCT	CLB	_	1	punct	_	_
 
 ~~~
@@ -43,7 +43,7 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 5	da	da	CCONJ	CC	_	6	cc	_	_
 6	mättat	mättʼted	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	conj	_	GTtags=Ind,Prs,Sg3
 7	što	što	SCONJ	CS	_	9	mark	_	_
-8	mäʹhtt	mäʹhtt	ADV	Adv	_	9	advmod	_	_
+8	mäʹhtt	mäʹhtt	ADV	Adv	_	9	advmod:mmod	_	_
 9	âlgg	õlggâd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	ccomp	_	GTtags=Ind,Prs,Sg3
 10	jååʹtted	jååʹtted	VERB	V	VerbForm=Inf	9	xcomp	_	GTtags=Inf
 11	što	što	SCONJ	CS	_	14	mark	_	_

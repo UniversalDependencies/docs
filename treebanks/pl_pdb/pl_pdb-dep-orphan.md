@@ -33,7 +33,7 @@ The following 31 pairs of parts of speech are connected with `orphan`: <tt><a hr
 9	,	,	PUNCT	interp	PunctType=Comm	10	punct	10:punct	_
 10	kuzynka	kuzynka	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	6	conj	0:root|6:conj	_
 11	Marcela	Marcela	PROPN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	10	appos	10:appos	_
-12	-	-	PUNCT	interp	PunctType=Hyph	10	punct	10:punct	_
+12	-	-	PUNCT	interp	PunctType=Dash	10	punct	10:punct	_
 13	piękne	piękny	ADJ	adj:pl:acc:f:pos	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	14	amod	14:amod	_
 14	nogi	noga	NOUN	subst:pl:acc:f	Case=Acc|Gender=Fem|Number=Plur	10	orphan	10:orphan	SpaceAfter=No
 15	.	.	PUNCT	interp	PunctType=Peri	6	punct	6:punct	_
@@ -92,7 +92,7 @@ The following 31 pairs of parts of speech are connected with `orphan`: <tt><a hr
 14	,	,	PUNCT	interp	PunctType=Comm	15	punct	15:punct	_
 15	kastracja	kastracja	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	4	conj	0:root|4:conj	_
 16	kocurów	kocur	NOUN	subst:pl:gen:m2	Animacy=Nhum|Case=Gen|Gender=Masc|Number=Plur	15	nmod	15:nmod	_
-17	-	-	PUNCT	interp	PunctType=Hyph	15	punct	15:punct	_
+17	-	-	PUNCT	interp	PunctType=Dash	15	punct	15:punct	_
 18	żeby	żeby	SCONJ	comp	_	20	mark	20:mark	_
 19	nie	nie	PART	part	Polarity=Neg	20	advmod:neg	20:advmod:neg	_
 20	śmierdziało	śmierdzieć	VERB	praet:sg:n:imperf	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	15	orphan	15:orphan	SpaceAfter=No

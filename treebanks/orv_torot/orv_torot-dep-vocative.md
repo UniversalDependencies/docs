@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of vocative in UD_Old_Russian-TOROT'
+title:  'Statistics of vocative in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Relations: `vocative`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Relations: `vocative`
 
 This relation is universal.
 

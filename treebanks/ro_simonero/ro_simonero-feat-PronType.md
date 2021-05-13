@@ -65,7 +65,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 * `Int,Rel` (492; 93% of non-empty `PronType`): <em>cât, când, cum, precum, unde, câte, atât, oare</em>
 * `Neg` (38; 7% of non-empty `PronType`): <em>nici, niciodată, nicidecum</em>
-* `EMPTY` (5380): <em>mai, ca, iar, atât, mult, astfel, chiar, asemenea, decât, frecvent</em>
+* `EMPTY` (5381): <em>mai, ca, iar, atât, mult, astfel, chiar, asemenea, decât, frecvent</em>
 
 `PronType` seems to be **lexical feature** of `ADV`. 100% lemmas (11) occur only with one value of `PronType`.
 

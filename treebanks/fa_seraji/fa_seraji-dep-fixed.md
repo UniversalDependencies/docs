@@ -28,7 +28,7 @@ The following 55 pairs of parts of speech are connected with `fixed`: <tt><a hre
 4	از	از	ADP	P	_	5	case	_	_
 5	شهادت	_	NOUN	N_SING	Number=Sing	3	nmod	_	_
 6	علی	علی	NOUN	N_SING	Number=Sing	5	nmod:poss	_	SpaceAfter=No
-7	)	)	PUNCT	DELM	_	6	punct	_	_
+7	)	)	PUNCT	DELM	_	8	punct	_	_
 8	ع	ع	NOUN	N_SING	Number=Sing	6	dep	_	_
 9	(	(	PUNCT	DELM	_	6	punct	_	SpaceAfter=No
 10	به	به	ADP	P	_	12	case	_	_
@@ -51,7 +51,7 @@ The following 55 pairs of parts of speech are connected with `fixed`: <tt><a hre
 3	که	که	CCONJ	CON	_	1	fixed	_	_
 4	خود	خود	PRON	PRO	Number=Sing|Person=3|PronType=Prs|Reflex=Yes	11	nsubj	_	_
 5	ت	تو	PRON	PRO	Number=Sing|Person=2|PronType=Prs	4	nmod:poss	_	_
-6	-	-	PUNCT	DELM	_	4	punct	_	_
+6	-	-	PUNCT	DELM	_	7	punct	_	_
 7	معاویه	معاویه	NOUN	N_SING	Number=Sing	4	appos	_	_
 8	-	-	PUNCT	DELM	_	4	punct	_	_
 9	به	به	ADP	P	_	10	case	_	_

@@ -23,14 +23,14 @@ The following 12 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 7 obj	color:blue
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-2	voudrais	vouloir	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	voudrais	vouloir	VERB	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	encore	encore	ADV	B	_	4	advmod	_	_
-4	aborder	aborder	VERB	V	VerbForm=Inf	0	root	_	_
+4	aborder	aborder	VERB	V	VerbForm=Inf	2	xcomp	_	_
 5	un	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 6	dernier	dernier	ADJ	NO	Gender=Masc|Number=Sing|NumType=Ord	7	amod	_	_
 7	point	point	NOUN	S	Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
-8	:	:	PUNCT	FC	_	4	punct	_	_
+8	:	:	PUNCT	FC	_	2	punct	_	_
 
 ~~~
 
@@ -42,13 +42,13 @@ The following 12 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 7 obj	color:blue
 1	Cher	cher	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
-2	collègue	collègue	NOUN	S	Gender=Masc|Number=Sing	5	vocative	_	_
-3	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
-4	allons	aller	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
-5	vérifier	vérifier	VERB	V	VerbForm=Inf	0	root	_	_
-6	tout	tout	DET	T	Gender=Masc|Number=Sing|PronType=Tot	7	det	_	_
+2	collègue	collègue	NOUN	S	Gender=Masc|Number=Sing	4	vocative	_	_
+3	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
+4	allons	aller	VERB	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	vérifier	vérifier	VERB	V	VerbForm=Inf	4	xcomp	_	_
+6	tout	tout	DET	T	Gender=Masc|Number=Sing|PronType=Ind	7	det	_	_
 7	cela	cela	PRON	PD	Number=Sing|Person=3|PronType=Dem	5	obj	_	SpaceAfter=No
-8	.	.	PUNCT	FS	_	5	punct	_	_
+8	.	.	PUNCT	FS	_	4	punct	_	_
 
 ~~~
 

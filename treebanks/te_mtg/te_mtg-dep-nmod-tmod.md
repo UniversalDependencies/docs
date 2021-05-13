@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Telugu-MTG: Relations: `nmod:tmod`
 
 This relation is a language-specific subtype of <tt><a href="te_mtg-dep-nmod.html">nmod</a></tt>.
-There are also 2 other language-specific subtypes of `nmod`: <tt><a href="te_mtg-dep-nmod-cmp.html">nmod:cmp</a></tt>, <tt><a href="te_mtg-dep-nmod-poss.html">nmod:poss</a></tt>.
+There are also 1 other language-specific subtypes of `nmod`: <tt><a href="te_mtg-dep-nmod-poss.html">nmod:poss</a></tt>.
 
 10 nodes (0%) are attached to their parents as `nmod:tmod`.
 

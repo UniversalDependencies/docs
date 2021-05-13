@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Giuseppe G. A. Celano, Daniel Zeman.
 
 Repository: [UD_Latin-Perseus](https://github.com/UniversalDependencies/UD_Latin-Perseus)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_perseus27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_perseus28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-NC-SA 2.5
 
@@ -109,7 +109,7 @@ Further details can be found at:
 
 ## POS Tags
 
-[ADJ](la_perseus-pos-ADJ.html) – [ADP](la_perseus-pos-ADP.html) – [ADV](la_perseus-pos-ADV.html) – [CCONJ](la_perseus-pos-CCONJ.html) – [INTJ](la_perseus-pos-INTJ.html) – [NOUN](la_perseus-pos-NOUN.html) – [NUM](la_perseus-pos-NUM.html) – [PRON](la_perseus-pos-PRON.html) – [PUNCT](la_perseus-pos-PUNCT.html) – [SCONJ](la_perseus-pos-SCONJ.html) – [VERB](la_perseus-pos-VERB.html) – [X](la_perseus-pos-X.html)
+[ADJ](la_perseus-pos-ADJ.html) – [ADP](la_perseus-pos-ADP.html) – [ADV](la_perseus-pos-ADV.html) – [CCONJ](la_perseus-pos-CCONJ.html) – [INTJ](la_perseus-pos-INTJ.html) – [NOUN](la_perseus-pos-NOUN.html) – [NUM](la_perseus-pos-NUM.html) – [PRON](la_perseus-pos-PRON.html) – [PROPN](la_perseus-pos-PROPN.html) – [PUNCT](la_perseus-pos-PUNCT.html) – [SCONJ](la_perseus-pos-SCONJ.html) – [VERB](la_perseus-pos-VERB.html) – [X](la_perseus-pos-X.html)
 
 ## Features
 
@@ -146,8 +146,8 @@ Further details can be found at:
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 12 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>CCONJ</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
-<li>This corpus does not use the following tags: PROPN, DET, AUX, PART, SYM</li>
+<li>This corpus uses 13 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>CCONJ</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus does not use the following tags: DET, AUX, PART, SYM</li>
 </ul>
 
 <ul>
@@ -179,7 +179,6 @@ Further details can be found at:
   <li>Fin
   <ul>
     <li>VERB: est, habet, inquit, erat, dixit, fuit, vidi, coepit, dedit, audivi</li>
-    <li>X: conlubuissent, nutricas, vomuit</li>
   </ul>
   </li>
 </ul>
@@ -204,7 +203,6 @@ Further details can be found at:
   <li>Inf
   <ul>
     <li>VERB: esse, habere, dicere, facere, posse, ire, vivere, fore, fuisse, afferri</li>
-    <li>X: decollari</li>
   </ul>
   </li>
 </ul>
@@ -229,7 +227,6 @@ Further details can be found at:
   <li>Fem
     <ul>
       <li>ADJ: magna, publicae, publicam, suam, magnam, publica, altera, mea, nulla, omnis</li>
-      <li>ADV: fors</li>
       <li>NOUN: res, rem, rei, vocem, Cynthia, manus, manu, terrae, terram, urbe</li>
       <li>NUM: una, prima, singulas, Ambae, Secundam, XXVIII, binas, decima, decimam, duabus</li>
       <li>PRON: quae, illa, quam, ea, hanc, haec, te, mea, quas, hac</li>
@@ -246,9 +243,9 @@ Further details can be found at:
       <li>NOUN: Catilina, Trimalchio, amor, nemo, animus, hominum, senatus, amore, homines, loco</li>
       <li>NUM: primus, singulos, uno, unum, primo, uni, unus, DC, VII, XV</li>
       <li>PRON: qui, mihi, me, ego, se, te, ille, tibi, quis, nos</li>
+      <li>PROPN: Aefulanum</li>
       <li>VERB-Gdv: commutando, consulendos, desperandi, expectandum, experiendi, expurgandi, ferendi, horrendus, loquendo, oriundus</li>
       <li>VERB-Part: dicentes, conscripti, dicens, sedentem, amantis, natus, dicentem, existumans, interfecto, locutus</li>
-      <li>X: Aefulanum, sestertiarios</li>
     </ul>
   </li>
 </ul>
@@ -257,7 +254,6 @@ Further details can be found at:
   <li>Neut
     <ul>
       <li>ADJ: omnia, multa, suum, sua, tantum, magna, talia, cuncta, duo, magnum</li>
-      <li>ADV: Multum</li>
       <li>NOUN: caelo, nihil, bello, omnia, nomen, bellum, verba, caput, tempore, imperium</li>
       <li>NOUN-Part: meriti</li>
       <li>NUM: millia, milia, singula, uno, unum, XII, duobus, milibus, millibus, prima</li>
@@ -285,8 +281,6 @@ Further details can be found at:
       <li>VERB-Fin: sunt, fuerunt, fecere, habemus, habent, erant, habebant, volunt, adoraverunt, coeperunt</li>
       <li>VERB-Gdv: accipiundis, coercendas, concitanda, consulendos, dandis, desperandi, faciundis, ferenda, ferendi, horrenda</li>
       <li>VERB-Part: dicentes, conscripti, facta, actis, amantis, obliti, devictis, dicentium, dispositis, expectantes</li>
-      <li>X: conlubuissent, sestertiarios</li>
-      <li>X-Fin: conlubuissent</li>
     </ul>
   </li>
 </ul>
@@ -295,7 +289,6 @@ Further details can be found at:
   <li>Sing
     <ul>
       <li>ADJ: magna, publicae, suo, publicam, suam, meo, magno, magnum, suum, magnam</li>
-      <li>ADV: Multum, fors</li>
       <li>NOUN: rem, Catilina, rei, vocem, Trimalchio, res, Cynthia, amor, caelo, nihil</li>
       <li>NOUN-Part: meriti</li>
       <li>NUM: una, uno, unum, prima, primus, primo, uni, Secundam, decima, decimam</li>
@@ -305,7 +298,6 @@ Further details can be found at:
       <li>VERB-Gdv: aperiundum, appellando, augendae, canendo, cavendum, commutando, confirmandam, conservandae, constituendae, dandum</li>
       <li>VERB-Ger: cenandum, cogitandum, consolandi, convertendi, exprobrandi, faciendum, recipiendi, temptandi</li>
       <li>VERB-Part: dicens, dicentem, sedentem, scriptum, falso, natus, posito, ardens, contenta, data</li>
-      <li>X-Fin: nutricas, vomuit</li>
     </ul>
   </li>
 </ul>
@@ -333,14 +325,13 @@ Further details can be found at:
   <li>Acc
     <ul>
       <li>ADJ: omnia, publicam, suam, omnis, magnam, magnum, multa, omnes, suum, tantum</li>
-      <li>ADV: Multum</li>
       <li>NOUN: rem, vocem, terram, locum, domum, nomen, bellum, senatum, dies, verba</li>
       <li>NUM: unum, singulas, singulos, milia, singula, DC, Secundam, XII, XXVIII, binas</li>
       <li>PRON: me, te, se, quid, quod, haec, quae, quem, hoc, eos</li>
+      <li>PROPN: Aefulanum</li>
       <li>VERB-Gdv: cavendum, coercendas, concitanda, confirmandam, consulendos, dandum, deponendam, expectandum, horrenda, horrendas</li>
       <li>VERB-Ger: cenandum, cogitandum, faciendum, legendum</li>
       <li>VERB-Part: dicentem, sedentem, amantis, habentem, contentum, delatum, descendentem, dicens, facta, facturum</li>
-      <li>X: Aefulanum, sestertiarios</li>
     </ul>
   </li>
 </ul>
@@ -386,7 +377,6 @@ Further details can be found at:
   <li>Nom
     <ul>
       <li>ADJ: magna, duo, omnes, alter, nulla, solus, alii, unus, altera, ceteri</li>
-      <li>ADV: fors</li>
       <li>NOUN: res, Trimalchio, amor, nemo, Catilina, animus, consul, Caesar, Cynthia, puer</li>
       <li>NUM: millia, prima, una, primus, unus, Ambae, duo, quartum, singuli, tertia</li>
       <li>PRON: qui, ego, quae, ille, quis, illa, tu, ipse, haec, nos</li>
@@ -440,7 +430,6 @@ Further details can be found at:
     <ul>
       <li>ADJ: extremo, summa, extrema, maximus, proxima, proximam, proximis, summo, taeterrima, ultima</li>
       <li>ADV: Novissime, maxime, plurimum, seuerissime, aegerrime, familiarissime, minime, minimum, parcissime, pertinacissime</li>
-      <li>VERB-Part: sanctissimis</li>
     </ul>
   </li>
 </ul>
@@ -466,12 +455,10 @@ Further details can be found at:
 <ul>
   <li>Perf
     <ul>
-      <li>NOUN-Part: meriti</li>
       <li>VERB: dixit, fuit, vidi, inquit, audivi, fecit, iussit, coepit, dedit, potuit</li>
       <li>VERB-Fin: dixit, fuit, vidi, inquit, audivi, fecit, iussit, coepit, dedit, potuit</li>
       <li>VERB-Inf: fuisse, fecisse, nosse, potuisse, venisse, dixisse, odisse, perdidisse, reliquisse, tenuisse</li>
       <li>VERB-Part: conscripti, scriptum, facta, falso, mota, natus, posito, actis, cognita, contenta</li>
-      <li>X-Fin: vomuit</li>
     </ul>
   </li>
 </ul>
@@ -492,7 +479,6 @@ Further details can be found at:
   <li>Ind
     <ul>
       <li>VERB-Fin: est, habet, inquit, erat, dixit, fuit, vidi, coepit, dedit, audivi</li>
-      <li>X-Fin: nutricas, vomuit</li>
     </ul>
   </li>
 </ul>
@@ -501,7 +487,6 @@ Further details can be found at:
   <li>Sub
     <ul>
       <li>VERB-Fin: sit, esset, possit, posset, audiat, faceret, foret, aperuisset, facias, sim</li>
-      <li>X-Fin: conlubuissent</li>
     </ul>
   </li>
 </ul>
@@ -523,12 +508,10 @@ Further details can be found at:
 <ul>
   <li>Past
     <ul>
-      <li>NOUN-Part: meriti</li>
       <li>VERB: erat, dixit, fuit, vidi, inquit, audivi, fecit, iussit, coepit, dedit</li>
       <li>VERB-Fin: erat, dixit, fuit, vidi, inquit, audivi, fecit, iussit, coepit, dedit</li>
       <li>VERB-Inf: fuisse, fecisse, nosse, potuisse, venisse, dixisse, odisse, perdidisse, reliquisse, tenuisse</li>
       <li>VERB-Part: conscripti, scriptum, facta, falso, mota, natus, posito, actis, cognita, contenta</li>
-      <li>X-Fin: vomuit</li>
     </ul>
   </li>
 </ul>
@@ -537,7 +520,6 @@ Further details can be found at:
   <li>Pqp
     <ul>
       <li>VERB-Fin: aperuisset, fecerat, dixerat, habuerat, fuerat, iussisset, viderat, censuerat, ceperat, coeperat</li>
-      <li>X-Fin: conlubuissent</li>
     </ul>
   </li>
 </ul>
@@ -551,8 +533,6 @@ Further details can be found at:
       <li>VERB-Ger: cenandum, convertendi, faciendum</li>
       <li>VERB-Inf: esse, habere, dicere, facere, posse, ire, vivere, afferri, fieri, loqui</li>
       <li>VERB-Part: dicens, dicentem, dicentes, sedentem, amantis, ardens, existumans, habentem, patiens, referens</li>
-      <li>X-Fin: nutricas</li>
-      <li>X-Inf: decollari</li>
     </ul>
   </li>
 </ul>
@@ -570,7 +550,6 @@ Further details can be found at:
       <li>VERB-Ger: cenandum, convertendi, faciendum, legendum</li>
       <li>VERB-Inf: esse, habere, dicere, facere, posse, ire, vivere, fore, fuisse, agere</li>
       <li>VERB-Part: dicens, dicentem, dicentes, sedentem, ardens, existumans, habentem, natus, referens, audienti</li>
-      <li>X-Fin: conlubuissent, nutricas, vomuit</li>
     </ul>
   </li>
 </ul>
@@ -578,13 +557,11 @@ Further details can be found at:
 <ul>
   <li>Pass
     <ul>
-      <li>NOUN-Part: meriti</li>
       <li>VERB: videtur, afferri, cogor, fieri, videbatur, conscripti, datur, dicitur, fertur, scriptum</li>
       <li>VERB-Fin: videtur, cogor, videbatur, datur, dicitur, fertur, habetur, sequitur, cunctamini, dicar</li>
       <li>VERB-Gdv: accipiundis, aperiundum, appellando, augendae, canendo, cavendum, concitanda, conservandae, dandis, dissimulandi</li>
       <li>VERB-Inf: afferri, fieri, dici, occidi, imitari, loqui, pati, uti, videri, capi</li>
       <li>VERB-Part: conscripti, scriptum, facta, falso, mota, posito, actis, cognita, contenta, data</li>
-      <li>X-Inf: decollari</li>
     </ul>
   </li>
 </ul>
@@ -614,7 +591,6 @@ Further details can be found at:
   <li>2
     <ul>
       <li>VERB-Fin: es, eris, potes, putes, vides, cave, facias, vis, habes, aspice</li>
-      <li>X-Fin: nutricas</li>
     </ul>
   </li>
 </ul>
@@ -624,7 +600,6 @@ Further details can be found at:
     <ul>
       <li>VERB: est, habet, inquit, erat, dixit, fuit, coepit, dedit, sunt, fecit</li>
       <li>VERB-Fin: est, habet, inquit, erat, dixit, fuit, coepit, dedit, sunt, fecit</li>
-      <li>X-Fin: conlubuissent, vomuit</li>
     </ul>
   </li>
 </ul>
@@ -658,8 +633,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc (5)</li>
       <li>VERB-Fin--NOUN-Nom (1024)</li>
       <li>VERB-Fin--NOUN-Voc (1)</li>
-      <li>VERB-Fin--PRON-Acc (6)</li>
-      <li>VERB-Fin--PRON-Nom (536)</li>
+      <li>VERB-Fin--PRON-Acc (7)</li>
+      <li>VERB-Fin--PRON-Nom (537)</li>
       <li>VERB-Fin--PRON-Voc (1)</li>
       <li>VERB-Gdv--NOUN-Abl (3)</li>
       <li>VERB-Gdv--NOUN-Acc (9)</li>
@@ -670,7 +645,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Gdv--PRON-Nom (4)</li>
       <li>VERB-Inf--NOUN-Acc (90)</li>
       <li>VERB-Inf--NOUN-Nom (13)</li>
-      <li>VERB-Inf--PRON-Acc (65)</li>
+      <li>VERB-Inf--PRON-Acc (66)</li>
       <li>VERB-Inf--PRON-Nom (13)</li>
       <li>VERB-Part--NOUN-Abl (144)</li>
       <li>VERB-Part--NOUN-Acc (15)</li>
@@ -688,8 +663,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Acc (3)</li>
       <li>VERB-Fin--NOUN (10)</li>
       <li>VERB-Fin--NOUN-Abl (67)</li>
-      <li>VERB-Fin--NOUN-Acc (1196)</li>
-      <li>VERB-Fin--NOUN-Dat (51)</li>
+      <li>VERB-Fin--NOUN-Acc (1198)</li>
+      <li>VERB-Fin--NOUN-Dat (52)</li>
       <li>VERB-Fin--NOUN-Gen (7)</li>
       <li>VERB-Fin--NOUN-Nom (12)</li>
       <li>VERB-Fin--PRON-Abl (3)</li>

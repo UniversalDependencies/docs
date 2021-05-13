@@ -43,20 +43,24 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (61; 100% of non-empty `Polarity`): ⲙⲛ, ⲙⲙⲛ, ⲙⲙⲛⲧ, ⲙⲛⲧⲁ, ⲙⲛⲧ, ⲙⲙⲛⲧⲉ
-* `EMPTY` (5726): ⲡⲉϫⲁ, ⲧⲣⲉ, ⲉⲓ, ϫⲱ, ϣⲱⲡⲉ, ⲃⲱⲕ, ϫⲟⲟ, ⲛⲁⲩ, ϯ, ⲣ
+* `EMPTY` (5727): ⲡⲉϫⲁ, ⲧⲣⲉ, ⲉⲓ, ϫⲱ, ϣⲱⲡⲉ, ⲃⲱⲕ, ϫⲟⲟ, ⲛⲁⲩ, ϯ, ⲣ
 
 ### `CCONJ`
 
-59 <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> tokens (4% of all `CCONJ` tokens) have a non-empty value of `Polarity`.
+59 <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> tokens (5% of all `CCONJ` tokens) have a non-empty value of `Polarity`.
+
+The most frequent other feature values with which `CCONJ` and `Polarity` co-occurred: <tt><a href="cop_scriptorium-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt> (59; 100%).
 
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (59; 100% of non-empty `Polarity`): ⲟⲩⲇⲉ
-* `EMPTY` (1292): ⲁⲩⲱ, ϫⲉ, ⲁⲗⲗⲁ, ⲏ, ⲉⲓⲧⲉ, ⲙⲏ, ⲕⲁⲛ, ⲟⲩⲧⲉ, ⲡⲗⲏⲛ, ⲉϣⲱⲡⲉ
+* `EMPTY` (1147): ⲁⲩⲱ, ⲁⲗⲗⲁ, ⲏ, ϫⲉ, ⲉⲓⲧⲉ, ⲙⲏ, ⲟⲩⲧⲉ, ⲡⲗⲏⲛ, ⲕⲁⲛ, ⲕⲁⲓ
 
 ### `PART`
 
 7 <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Polarity`.
+
+The most frequent other feature values with which `PART` and `Polarity` co-occurred: <tt><a href="cop_scriptorium-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (6; 86%).
 
 `PART` tokens may have the following values of `Polarity`:
 
@@ -66,6 +70,8 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 ### `X`
 
 4 <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> tokens (9% of all `X` tokens) have a non-empty value of `Polarity`.
+
+The most frequent other feature values with which `X` and `Polarity` co-occurred: <tt><a href="cop_scriptorium-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (3; 75%).
 
 `X` tokens may have the following values of `Polarity`:
 
@@ -90,7 +96,7 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `SCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): ⲟⲩⲇⲉ
-* `EMPTY` (2723): ⲉ, ϫⲉ, ⲉⲧ, ⲉⲛⲧ, ⲉⲧⲉ, ⲛⲧ, ⲉⲣⲉ, ⲉϣⲱⲡⲉ, ϫⲉⲕⲁⲁⲥ, ⲉⲧⲉⲣⲉ
+* `EMPTY` (2868): ϫⲉ, ⲉ, ⲉⲧ, ⲉⲛⲧ, ⲉⲧⲉ, ⲛⲧ, ⲉⲣⲉ, ⲉϣⲱⲡⲉ, ϫⲉⲕⲁⲁⲥ, ⲉⲧⲉⲣⲉ
 
 ## Relations with Agreement in `Polarity`
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Taraka Rama, Sowmya Vajjala.
 
 Repository: [UD_Telugu-MTG](https://github.com/UniversalDependencies/UD_Telugu-MTG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udte_mtg27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udte_mtg28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -68,7 +68,7 @@ Taraka Rama (University of Oslo, Norway) and Sowmya Vajjala (Iowa State Universi
 
 ## Relations
 
-[acl](te_mtg-dep-acl.html) – [acl:relcl](te_mtg-dep-acl-relcl.html) – [advcl](te_mtg-dep-advcl.html) – [advcl:cond](te_mtg-dep-advcl-cond.html) – [advmod](te_mtg-dep-advmod.html) – [amod](te_mtg-dep-amod.html) – [appos](te_mtg-dep-appos.html) – [case](te_mtg-dep-case.html) – [cc](te_mtg-dep-cc.html) – [ccomp](te_mtg-dep-ccomp.html) – [clf](te_mtg-dep-clf.html) – [compound](te_mtg-dep-compound.html) – [compound:lvc](te_mtg-dep-compound-lvc.html) – [compound:redup](te_mtg-dep-compound-redup.html) – [compound:svc](te_mtg-dep-compound-svc.html) – [conj](te_mtg-dep-conj.html) – [csubj](te_mtg-dep-csubj.html) – [dep](te_mtg-dep-dep.html) – [det](te_mtg-dep-det.html) – [discourse](te_mtg-dep-discourse.html) – [dislocated](te_mtg-dep-dislocated.html) – [flat](te_mtg-dep-flat.html) – [iobj](te_mtg-dep-iobj.html) – [list](te_mtg-dep-list.html) – [mark](te_mtg-dep-mark.html) – [nmod](te_mtg-dep-nmod.html) – [nmod:cmp](te_mtg-dep-nmod-cmp.html) – [nmod:poss](te_mtg-dep-nmod-poss.html) – [nmod:tmod](te_mtg-dep-nmod-tmod.html) – [nsubj](te_mtg-dep-nsubj.html) – [nsubj:nc](te_mtg-dep-nsubj-nc.html) – [nummod](te_mtg-dep-nummod.html) – [obj](te_mtg-dep-obj.html) – [obl](te_mtg-dep-obl.html) – [obl:cau](te_mtg-dep-obl-cau.html) – [obl:tmod](te_mtg-dep-obl-tmod.html) – [orphan](te_mtg-dep-orphan.html) – [parataxis](te_mtg-dep-parataxis.html) – [punct](te_mtg-dep-punct.html) – [root](te_mtg-dep-root.html) – [vocative](te_mtg-dep-vocative.html) – [xcomp](te_mtg-dep-xcomp.html)
+[acl](te_mtg-dep-acl.html) – [acl:relcl](te_mtg-dep-acl-relcl.html) – [advcl](te_mtg-dep-advcl.html) – [advcl:cond](te_mtg-dep-advcl-cond.html) – [advmod](te_mtg-dep-advmod.html) – [amod](te_mtg-dep-amod.html) – [appos](te_mtg-dep-appos.html) – [case](te_mtg-dep-case.html) – [cc](te_mtg-dep-cc.html) – [ccomp](te_mtg-dep-ccomp.html) – [clf](te_mtg-dep-clf.html) – [compound](te_mtg-dep-compound.html) – [compound:lvc](te_mtg-dep-compound-lvc.html) – [compound:redup](te_mtg-dep-compound-redup.html) – [compound:svc](te_mtg-dep-compound-svc.html) – [conj](te_mtg-dep-conj.html) – [csubj](te_mtg-dep-csubj.html) – [dep](te_mtg-dep-dep.html) – [det](te_mtg-dep-det.html) – [discourse](te_mtg-dep-discourse.html) – [dislocated](te_mtg-dep-dislocated.html) – [flat](te_mtg-dep-flat.html) – [iobj](te_mtg-dep-iobj.html) – [list](te_mtg-dep-list.html) – [mark](te_mtg-dep-mark.html) – [nmod](te_mtg-dep-nmod.html) – [nmod:poss](te_mtg-dep-nmod-poss.html) – [nmod:tmod](te_mtg-dep-nmod-tmod.html) – [nsubj](te_mtg-dep-nsubj.html) – [nsubj:nc](te_mtg-dep-nsubj-nc.html) – [nummod](te_mtg-dep-nummod.html) – [obj](te_mtg-dep-obj.html) – [obl](te_mtg-dep-obl.html) – [obl:cau](te_mtg-dep-obl-cau.html) – [obl:cmp](te_mtg-dep-obl-cmp.html) – [obl:tmod](te_mtg-dep-obl-tmod.html) – [orphan](te_mtg-dep-orphan.html) – [parataxis](te_mtg-dep-parataxis.html) – [punct](te_mtg-dep-punct.html) – [root](te_mtg-dep-root.html) – [vocative](te_mtg-dep-vocative.html) – [xcomp](te_mtg-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -226,6 +226,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>advcl:cond</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>compound:svc</a>, <a>nmod:cmp</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:nc</a>, <a>obl:cau</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>advcl:cond</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>compound:svc</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:nc</a>, <a>obl:cau</a>, <a>obl:cmp</a>, <a>obl:tmod</a></li>
 <li>The following 6 relation types are not used in this corpus at all: <a>expl</a>, <a>aux</a>, <a>cop</a>, <a>fixed</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

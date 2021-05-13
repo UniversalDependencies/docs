@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-ParTUT: POS Tags: `ADJ`
 
-There are 1150 `ADJ` lemmas (18%), 1154 `ADJ` types (15%) and 3840 `ADJ` tokens (8%).
+There are 1149 `ADJ` lemmas (18%), 1153 `ADJ` types (15%) and 3839 `ADJ` tokens (8%).
 Out of 17 observed tags, the rank of `ADJ` is: 2 in number of lemmas, 3 in number of types and 6 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>other, first, new, european, economic, financial, social, many, important, own</em>
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>other</em> (<tt><a href="en_partut-po
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.003478 (the average of all parts of speech is 1.199053).
+The form / lemma ratio of `ADJ` is 1.003481 (the average of all parts of speech is 1.199242).
 
 The 1st highest number of forms (2) was observed with the lemma “European”: <em>EUROPEAN, European</em>.
 
@@ -63,22 +63,22 @@ The 2nd highest number of forms (2) was observed with the lemma “classic”: <
 
 The 3rd highest number of forms (2) was observed with the lemma “deep”: <em>deep, deeper</em>.
 
-`ADJ` occurs with 4 features: <tt><a href="en_partut-feat-Degree.html">Degree</a></tt> (3815; 99% instances), <tt><a href="en_partut-feat-NumType.html">NumType</a></tt> (138; 4% instances), <tt><a href="en_partut-feat-Number.html">Number</a></tt> (23; 1% instances), <tt><a href="en_partut-feat-Gender.html">Gender</a></tt> (4; 0% instances)
+`ADJ` occurs with 4 features: <tt><a href="en_partut-feat-Degree.html">Degree</a></tt> (3814; 99% instances), <tt><a href="en_partut-feat-NumType.html">NumType</a></tt> (138; 4% instances), <tt><a href="en_partut-feat-Number.html">Number</a></tt> (23; 1% instances), <tt><a href="en_partut-feat-Gender.html">Gender</a></tt> (4; 0% instances)
 
 `ADJ` occurs with 8 feature-value pairs: `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `Gender=Fem`, `Gender=Masc`, `NumType=Ord`, `Number=Plur`, `Number=Sing`
 
 `ADJ` occurs with 10 feature combinations.
-The most frequent feature combination is `Degree=Pos` (3498 tokens).
+The most frequent feature combination is `Degree=Pos` (3497 tokens).
 Examples: <em>other, new, European, economic, financial, social, many, important, own, first</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 23 different relations: <tt><a href="en_partut-dep-amod.html">amod</a></tt> (3115; 81% instances), <tt><a href="en_partut-dep-conj.html">conj</a></tt> (210; 5% instances), <tt><a href="en_partut-dep-root.html">root</a></tt> (162; 4% instances), <tt><a href="en_partut-dep-xcomp.html">xcomp</a></tt> (94; 2% instances), <tt><a href="en_partut-dep-advcl.html">advcl</a></tt> (38; 1% instances), <tt><a href="en_partut-dep-obl.html">obl</a></tt> (38; 1% instances), <tt><a href="en_partut-dep-ccomp.html">ccomp</a></tt> (34; 1% instances), <tt><a href="en_partut-dep-acl-relcl.html">acl:relcl</a></tt> (31; 1% instances), <tt><a href="en_partut-dep-nmod.html">nmod</a></tt> (23; 1% instances), <tt><a href="en_partut-dep-acl.html">acl</a></tt> (17; 0% instances), <tt><a href="en_partut-dep-nsubj.html">nsubj</a></tt> (17; 0% instances), <tt><a href="en_partut-dep-obj.html">obj</a></tt> (14; 0% instances), <tt><a href="en_partut-dep-flat.html">flat</a></tt> (13; 0% instances), <tt><a href="en_partut-dep-nsubj-pass.html">nsubj:pass</a></tt> (9; 0% instances), <tt><a href="en_partut-dep-advmod.html">advmod</a></tt> (7; 0% instances), <tt><a href="en_partut-dep-fixed.html">fixed</a></tt> (5; 0% instances), <tt><a href="en_partut-dep-appos.html">appos</a></tt> (4; 0% instances), <tt><a href="en_partut-dep-csubj.html">csubj</a></tt> (3; 0% instances), <tt><a href="en_partut-dep-compound.html">compound</a></tt> (2; 0% instances), <tt><a href="en_partut-dep-csubj-pass.html">csubj:pass</a></tt> (1; 0% instances), <tt><a href="en_partut-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="en_partut-dep-nmod-npmod.html">nmod:npmod</a></tt> (1; 0% instances), <tt><a href="en_partut-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+`ADJ` nodes are attached to their parents using 23 different relations: <tt><a href="en_partut-dep-amod.html">amod</a></tt> (3114; 81% instances), <tt><a href="en_partut-dep-conj.html">conj</a></tt> (210; 5% instances), <tt><a href="en_partut-dep-root.html">root</a></tt> (162; 4% instances), <tt><a href="en_partut-dep-xcomp.html">xcomp</a></tt> (94; 2% instances), <tt><a href="en_partut-dep-advcl.html">advcl</a></tt> (38; 1% instances), <tt><a href="en_partut-dep-obl.html">obl</a></tt> (38; 1% instances), <tt><a href="en_partut-dep-ccomp.html">ccomp</a></tt> (34; 1% instances), <tt><a href="en_partut-dep-acl-relcl.html">acl:relcl</a></tt> (31; 1% instances), <tt><a href="en_partut-dep-nmod.html">nmod</a></tt> (23; 1% instances), <tt><a href="en_partut-dep-acl.html">acl</a></tt> (17; 0% instances), <tt><a href="en_partut-dep-nsubj.html">nsubj</a></tt> (17; 0% instances), <tt><a href="en_partut-dep-obj.html">obj</a></tt> (14; 0% instances), <tt><a href="en_partut-dep-flat.html">flat</a></tt> (13; 0% instances), <tt><a href="en_partut-dep-nsubj-pass.html">nsubj:pass</a></tt> (9; 0% instances), <tt><a href="en_partut-dep-advmod.html">advmod</a></tt> (7; 0% instances), <tt><a href="en_partut-dep-fixed.html">fixed</a></tt> (5; 0% instances), <tt><a href="en_partut-dep-appos.html">appos</a></tt> (4; 0% instances), <tt><a href="en_partut-dep-csubj.html">csubj</a></tt> (3; 0% instances), <tt><a href="en_partut-dep-compound.html">compound</a></tt> (2; 0% instances), <tt><a href="en_partut-dep-csubj-pass.html">csubj:pass</a></tt> (1; 0% instances), <tt><a href="en_partut-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="en_partut-dep-nmod-npmod.html">nmod:npmod</a></tt> (1; 0% instances), <tt><a href="en_partut-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 13 different parts of speech: <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (3041; 79% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (274; 7% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (203; 5% instances),  (162; 4% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (78; 2% instances), <tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (32; 1% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (26; 1% instances), <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (16; 0% instances), <tt><a href="en_partut-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="en_partut-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="en_partut-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="en_partut-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `ADJ` nodes belong to 13 different parts of speech: <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (3040; 79% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt> (274; 7% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (203; 5% instances),  (162; 4% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (78; 2% instances), <tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (32; 1% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (26; 1% instances), <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (16; 0% instances), <tt><a href="en_partut-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="en_partut-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="en_partut-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="en_partut-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="en_partut-pos-X.html">X</a></tt> (1; 0% instances)
 
-2821 (73%) `ADJ` nodes are leaves.
+2820 (73%) `ADJ` nodes are leaves.
 
 551 (14%) `ADJ` nodes have one child.
 

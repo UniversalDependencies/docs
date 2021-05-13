@@ -49,7 +49,7 @@ The following 26 pairs of parts of speech are connected with `compound:redup`: <
 5	ئۇزاق	ئۇزاق	ADJ	A	Case=Nom	8	advmod	_	Translit=uzaq
 6	خىياللارغا	خىيال	NOUN	V	Case=Dat|Number=Plur	8	obl	_	Translit=xiyallargha
 7	غەرق	_	ADJ	A	_	8	compound	_	Translit=gherq|Morf=Unknown
-8	بولىسەن	بول	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=bolisen
+8	بولىسەن	بول	VERB	V	Aspect=Hab|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=bolisen
 9	.	.	PUNCT	Y	_	8	punct	_	Translit=.
 
 ~~~
@@ -64,7 +64,7 @@ The following 26 pairs of parts of speech are connected with `compound:redup`: <
 1	بالىلىق	بالىلىق	NOUN	A	Case=Nom	2	amod	_	Translit=baliliq
 2	دەۋر	دەۋر	NOUN	N	Case=Nom	7	nsubj	_	Translit=dewr
 3	ئەگرى	_	ADJ	A	_	4	compound:redup	_	Translit=egri|Morf=Missing,1
-4	توقاي	توقاي	NOUN	N	Case=Nom	5	advmod	_	Translit=toqay
+4	توقاي	توقاي	NOUN	N	Case=Nom	5	obl	_	Translit=toqay
 5	كەتكەن	كەت	VERB	V	Case=Nom|Tense=Past|VerbForm=Part	6	acl	_	Translit=ketken
 6	ئېرىققا	_	NOUN	N	_	7	obl	_	Translit=ëriqqa|Morf=Unknown
 7	ئوخشايدۇ	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=oxshaydu|Morf=Unknown

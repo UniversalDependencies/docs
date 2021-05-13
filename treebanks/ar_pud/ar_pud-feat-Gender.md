@@ -178,7 +178,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="ar_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1109; 81%),
-<tt>NOUN --[<tt><a href="ar_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1015; 54%),
+<tt>NOUN --[<tt><a href="ar_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1034; 54%),
 <tt>VERB --[<tt><a href="ar_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (525; 85%),
 <tt>PROPN --[<tt><a href="ar_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (235; 98%),
 <tt>VERB --[<tt><a href="ar_pud-dep-obj.html">obj</a></tt>]--> NOUN</tt> (218; 52%),

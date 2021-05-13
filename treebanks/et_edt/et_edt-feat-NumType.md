@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
-12033 tokens (3%) have a non-empty value of `NumType`.
-2345 types (3%) occur at least once with a non-empty value of `NumType`.
-1874 lemmas (4%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 6 part-of-speech tags: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (9280; 2% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (2630; 1% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (90; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (28; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-X.html">X</a></tt> (1; 0% instances).
+12032 tokens (3%) have a non-empty value of `NumType`.
+2343 types (3%) occur at least once with a non-empty value of `NumType`.
+1873 lemmas (4%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 6 part-of-speech tags: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (9278; 2% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (2631; 1% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (90; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (28; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NUM`
 
-9280 <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+9278 <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6899; 74%), <tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (5762; 62%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6889; 74%), <tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (5760; 62%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (9269; 100% of non-empty `NumType`): <em>kaks, 1, üks, 2, 000, kolm, 10, kahe, 3, ühe</em>
+* `Card` (9267; 100% of non-empty `NumType`): <em>kaks, 1, üks, 2, 000, kolm, 10, kahe, 3, ühe</em>
 * `Ord` (11; 0% of non-empty `NumType`): <em>kolmandat, 2000.-2001., I, III, Teine, VII, esimest, kolmas, sajas, teise</em>
 
 <table>
@@ -33,42 +33,42 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
   <tr><td><tt></tt></td><td><em>2000</em></td><td><em>2000.-2001.</em></td></tr>
 </table>
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (1484) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (1483) occur only with one value of `NumType`.
 
 ### `ADJ`
 
-2630 <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> tokens (7% of all `ADJ` tokens) have a non-empty value of `NumType`.
+2631 <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> tokens (7% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2630; 100%), <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2630; 100%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2630; 100%), <tt><a href="et_edt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2620; 100%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1904; 72%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2631; 100%), <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2631; 100%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2631; 100%), <tt><a href="et_edt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2621; 100%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1905; 72%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Card` (1; 0% of non-empty `NumType`): <em>Teine</em>
-* `Ord` (2629; 100% of non-empty `NumType`): <em>esimene, 1., esimest, esimese, teine, 2000., 2., teise, 1997., 1999.</em>
-* `EMPTY` (34150): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, oluline, viimase</em>
+* `Ord` (2630; 100% of non-empty `NumType`): <em>esimene, 1., esimest, esimese, teine, 2000., 2., teise, 1997., 1999.</em>
+* `EMPTY` (34149): <em>suur, hea, võimalik, eesti, suurem, uue, suure, raske, oluline, viimase</em>
 
 <table>
   <tr><th>Paradigm <i>teine</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th></tr>
-  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Letter</tt></tt></td><td></td><td><em>teiselt</em></td></tr>
-  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Add</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Letter</tt></tt></td><td></td><td><em>teise</em></td></tr>
-  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Ade</tt>|<tt><a href="et_edt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Letter</tt></tt></td><td></td><td><em>teisel</em></td></tr>
+  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td></td><td><em>teiselt</em></td></tr>
+  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Add</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td></td><td><em>teise</em></td></tr>
+  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Ade</tt>|<tt><a href="et_edt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td></td><td><em>teisel</em></td></tr>
   <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Ade</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>teisel</em></td></tr>
-  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Ade</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Letter</tt></tt></td><td></td><td><em>teisel</em></td></tr>
-  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=All</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Letter</tt></tt></td><td></td><td><em>teisele</em></td></tr>
-  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Ela</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Letter</tt></tt></td><td></td><td><em>teisest</em></td></tr>
-  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Ess</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Letter</tt></tt></td><td></td><td><em>teisena</em></td></tr>
+  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Ade</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td></td><td><em>teisel</em></td></tr>
+  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=All</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td></td><td><em>teisele</em></td></tr>
+  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Ela</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td></td><td><em>teisest</em></td></tr>
+  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Ess</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td></td><td><em>teisena</em></td></tr>
   <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>teise</em></td></tr>
-  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Letter</tt></tt></td><td></td><td><em>teise</em></td></tr>
+  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td></td><td><em>teise</em></td></tr>
   <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Ine</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>teises</em></td></tr>
-  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Ine</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Letter</tt></tt></td><td></td><td><em>teises</em></td></tr>
+  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Ine</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td></td><td><em>teises</em></td></tr>
   <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="et_edt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>teine</em></td></tr>
-  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="et_edt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Letter</tt></tt></td><td></td><td><em>teised</em></td></tr>
+  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="et_edt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td></td><td><em>teised</em></td></tr>
   <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>teine</em></td></tr>
-  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Letter</tt></tt></td><td><em>Teine</em></td><td><em>teine</em></td></tr>
+  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td><em>Teine</em></td><td><em>teine</em></td></tr>
   <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Par</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>teist</em></td></tr>
-  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Par</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Letter</tt></tt></td><td></td><td><em>teist</em></td></tr>
+  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Par</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td></td><td><em>teist</em></td></tr>
   <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Tra</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>teiseks</em></td></tr>
-  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Tra</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Letter</tt></tt></td><td></td><td><em>teiseks</em></td></tr>
+  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Tra</tt>|<tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td></td><td><em>teiseks</em></td></tr>
 </table>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (395) occur only with one value of `NumType`.
@@ -82,7 +82,7 @@ The most frequent other feature values with which `SYM` and `NumType` co-occurre
 `SYM` tokens may have the following values of `NumType`:
 
 * `Card` (90; 100% of non-empty `NumType`): <em>%, %-lt, %-le, %-ni</em>
-* `EMPTY` (593): <em>%, %-l, =, &amp;, %-ni, *, -, &, ?, §</em>
+* `EMPTY` (593): <em>%, %-l, =, %-ni, &amp;, *, -, &, ?, §</em>
 
 ### `PROPN`
 
@@ -123,12 +123,12 @@ The most frequent other feature values with which `X` and `NumType` co-occurred:
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="et_edt-dep-compound.html">compound</a></tt>]--> NUM</tt> (529; 100%),
-<tt>NUM --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> NUM</tt> (343; 100%),
-<tt>NUM --[<tt><a href="et_edt-dep-flat.html">flat</a></tt>]--> NUM</tt> (112; 100%),
+<tt>NUM --[<tt><a href="et_edt-dep-compound.html">compound</a></tt>]--> NUM</tt> (535; 100%),
+<tt>NUM --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> NUM</tt> (344; 100%),
+<tt>NUM --[<tt><a href="et_edt-dep-flat.html">flat</a></tt>]--> NUM</tt> (110; 100%),
 <tt>NUM --[<tt><a href="et_edt-dep-goeswith.html">goeswith</a></tt>]--> NUM</tt> (94; 100%),
 <tt>ADJ --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (65; 87%),
-<tt>NUM --[<tt><a href="et_edt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (52; 98%),
+<tt>NUM --[<tt><a href="et_edt-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (44; 98%),
 <tt>SYM --[<tt><a href="et_edt-dep-compound.html">compound</a></tt>]--> NUM</tt> (37; 97%),
 <tt>ADJ --[<tt><a href="et_edt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (8; 80%),
 <tt>NUM --[<tt><a href="et_edt-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (7; 100%),

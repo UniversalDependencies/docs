@@ -53,7 +53,7 @@ The following 25 pairs of parts of speech are connected with `advcl:tcl`: <tt><a
 6	trezesc	trezi	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	advcl:tcl	_	|SpaceAfter=No
 7	,	,	PUNCT	COMMA	_	6	punct	_	_
 8	La	la	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	_
-9	viața	viață	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	12	nmod:pmod	_	_
+9	viața	viață	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	12	obl:pmod	_	_
 10	mea	meu	DET	Ds1fsrs	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|PronType=Prs	9	det	_	_
 11	mă	eu	PRON	Pp1-sa--------w	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	12	expl:pv	_	_
 12	gândesc	gândi	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	|SpaceAfter=No

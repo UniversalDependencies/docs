@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-314 nodes (1%) are attached to their parents as `cop`.
+316 nodes (1%) are attached to their parents as `cop`.
 
-306 instances of `cop` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.96178343949045.
+308 instances of `cop` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.96518987341772.
 
-The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="pt_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_pud-pos-AUX.html">AUX</a></tt> (148; 47% instances), <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_pud-pos-AUX.html">AUX</a></tt> (141; 45% instances), <tt><a href="pt_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_pud-pos-AUX.html">AUX</a></tt> (9; 3% instances), <tt><a href="pt_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_pud-pos-AUX.html">AUX</a></tt> (8; 3% instances), <tt><a href="pt_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_pud-pos-AUX.html">AUX</a></tt> (5; 2% instances), <tt><a href="pt_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_pud-pos-AUX.html">AUX</a></tt> (3; 1% instances).
+The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="pt_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_pud-pos-AUX.html">AUX</a></tt> (148; 47% instances), <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_pud-pos-AUX.html">AUX</a></tt> (142; 45% instances), <tt><a href="pt_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_pud-pos-AUX.html">AUX</a></tt> (9; 3% instances), <tt><a href="pt_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_pud-pos-AUX.html">AUX</a></tt> (8; 3% instances), <tt><a href="pt_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="pt_pud-pos-AUX.html">AUX</a></tt> (5; 2% instances), <tt><a href="pt_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="pt_pud-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="pt_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

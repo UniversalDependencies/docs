@@ -22,7 +22,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Prs` (292; 100% of non-empty `PronType`): जो, उसके, जिसमें, उसकी, उनकी, उसका, जिसे, जिसका, जिनमें, जहां
-* `Rel` (1; 0% of non-empty `PronType`): जो
-* `EMPTY` (834): यह, अपने, वह, उसने, उसे, अपनी, इसके, उसके, वे, उन्हें
+* `Prs` (289; 99% of non-empty `PronType`): जो, उसके, जिसमें, उसकी, उनकी, उसका, जिसे, जिनमें, जिसका, जहां
+* `Rel` (4; 1% of non-empty `PronType`): जो, जिन्हें, जिसका
+* `EMPTY` (835): यह, अपने, वह, उसने, उसे, अपनी, इसके, उसके, वे, उन्हें
 

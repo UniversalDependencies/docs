@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (28; 100% of non-empty `Foreign`): <em>capita, companionship, family, versa, vice, Agriculture, Community, Food, Nations, Organization</em>
-* `EMPTY` (22974): <em>år, barn, del, äktenskapet, procent, barnen, människor, kr, tid, sätt</em>
+* `EMPTY` (22969): <em>år, barn, del, äktenskapet, procent, barnen, människor, kr, tid, sätt</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (23) occur only with one value of `Foreign`.
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>sic</em>
-* `EMPTY` (7030): <em>så, också, hur, där, här, nu, bara, ut, mycket, mer</em>
+* `EMPTY` (7035): <em>så, också, hur, där, här, nu, bara, ut, mycket, mer</em>
 
 ### `CCONJ`
 

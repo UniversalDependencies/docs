@@ -30,9 +30,9 @@ The following 1 pairs of parts of speech are connected with `parataxis`: <tt><a 
 5	mitã'i	mitã	NOUN	n	_	8	nsubj	_	child-=DIM
 6	,	,	PUNCT	punct	_	7	punct	_	_
 7	cheremiarirõ'i	emiarirõ	NOUN	n	Number[psor]=Sing	5	appos	_	B1.SG-R-grandchild-=DIM
-8	oiko	iko	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	A3-live
+8	oiko	iko	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	0	root	_	A3-live
 9	,	,	PUNCT	punct	_	10	punct	_	_
-10	ojau	jau	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	8	parataxis	_	A3-born
+10	ojau	jau	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	8	parataxis	_	A3-born
 11	.	.	PUNCT	punct	_	10	punct	_	_
 
 ~~~

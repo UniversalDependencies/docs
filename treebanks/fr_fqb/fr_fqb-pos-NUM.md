@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-FQB: POS Tags: `NUM`
 
 There are 66 `NUM` lemmas (2%), 66 `NUM` types (2%) and 115 `NUM` tokens (0%).
-Out of 17 observed tags, the rank of `NUM` is: 6 in number of lemmas, 6 in number of types and 14 in number of tokens.
+Out of 16 observed tags, the rank of `NUM` is: 6 in number of lemmas, 6 in number of types and 13 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>deux, 1994, 1993, 1989, 1990, 1991, 1992, 1988, 10, 1929</em>
 
@@ -20,14 +20,14 @@ The 10 most frequent ambiguous types:  <em>2000</em> (<tt><a href="fr_fqb-pos-NU
 
 * <em>2000</em>
   * <tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> 1: <em>À quel chef d' État fut décerné le prix Nobel de la paix en <b>2000</b> ?</em>
-  * <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 1: <em>Quand le Dow a -t -il atteint <b>2000</b> pour la première fois ?</em>
+  * <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 1: <em>Quand le Dow a -t-il atteint <b>2000</b> pour la première fois ?</em>
 * <em>cent</em>
   * <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 2: <em>De qui est la tête figurant sur le 10 <b>cent</b> ?</em>
   * <tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> 1: <em>Quelle ville écossaise mythique apparaît une journée tous les <b>cent</b> ans ?</em>
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.162933).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.163777).
 
 The 1st highest number of forms (1) was observed with the lemma “1”: <em>1</em>.
 

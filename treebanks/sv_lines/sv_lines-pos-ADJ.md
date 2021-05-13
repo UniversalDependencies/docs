@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:  <em>andra</em> (<tt><a href="sv_lines-pos
 
 
 * <em>andra</em>
-  * <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> 133: <em>I brist på <b>andra</b> idéer slöt han ögonen .</em>
+  * <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> 133: <em>Bray ställde massor av frågor – inte alla vänliga – om <b>andra</b> människor .</em>
   * <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> 15: <em>Rikedomarna lämnar jag åt <b>andra</b> .</em>
 * <em>annat</em>
   * <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> 53: <em>Den gamle läkaren tog min puls , tydligen med tankarna på <b>annat</b> håll .</em>
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>andra</em> (<tt><a href="sv_lines-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.339397 (the average of all parts of speech is 1.416999).
+The form / lemma ratio of `ADJ` is 1.339397 (the average of all parts of speech is 1.416904).
 
 The 1st highest number of forms (8) was observed with the lemma “dålig”: <em>dålig, dåliga, dåligt, sämre, sämst, sämsta, värre, värsta</em>.
 

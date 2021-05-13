@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  अन्य (<tt><a href="hi_hdtb-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.065009 (the average of all parts of speech is 1.203116).
+The form / lemma ratio of `ADJ` is 1.065009 (the average of all parts of speech is 1.203447).
 
 The 1st highest number of forms (5) was observed with the lemma “अच्छा”: अच्छा, अच्छी, अच्छे, अच्‍छा, अच्‍छी.
 

@@ -24,12 +24,12 @@ The following 1 pairs of parts of speech are connected with `nmod:lmod`: <tt><a 
 # visual-style 8	fgColor:white
 # visual-style 8 7 nmod:lmod	color:blue
 1	Ми	ме	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	GTtags=Pron,Pers,Pl1,Nom
-2	вуджим	вуджны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|Valency=2	0	root	_	GTtags=V,TV,Ind,Prt1,Pl1
+2	вуджим	вуджны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	GTtags=V,TV,Ind,Prt1,Pl1
 3	Гырка	Гырка	NOUN	N	Case=Nom|Number=Sing	4	nmod	_	GTtags=N,Prop,Sg,Nom
 4	логсӧ	лог	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obj	_	GTtags=N,Sg,Acc,PxSg3|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	GTtags=CLB
-6	сибӧтчим	сибӧтчыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|Valency=1	2	conj	_	GTtags=V,IV,Ind,Prt1,Pl1
-7	дорись	дор	NOUN	N	Case=Ela|Number=Sing	8	nmod:lmod	_	GTtags=V,IV,Der/ісь,ActPrsPtc,Sg,Nom
+6	сибӧтчим	сибӧтчыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past	2	conj	_	GTtags=V,IV,Ind,Prt1,Pl1
+7	дорись	дор	NOUN	N	Case=Ela|NounType=Relat|Number=Sing	8	nmod:lmod	_	GTtags=V,IV,Der/ісь,ActPrsPtc,Sg,Nom
 8	керкуокыс	керку	NOUN	N	Animacy=Inan|Case=Nom|Derivation=Dimin|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	obl:lmod	_	GTtags=N,Sem/Inanim,Der/Ок,Der/Dimin,N,Sg,Nom,PxSg3
 9	дынӧ	дынӧ	ADP	Adp	AdpType=Post|AdvType=Loc|Case=Ill|Number=Sing	8	case	_	GTtags=Adp,Po,Spat,Sg,Ill|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	2	punct	_	GTtags=CLB

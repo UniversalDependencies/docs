@@ -22,7 +22,7 @@ The following 19 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 2 vocative	color:blue
-1	-	-	PUNCT	interp	PunctType=Hyph	8	punct	8:punct	_
+1	-	-	PUNCT	interp	PunctType=Dash	8	punct	8:punct	_
 2	Panie	pan	NOUN	subst:sg:voc:m1	Animacy=Hum|Case=Voc|Gender=Masc|Number=Sing	8	vocative	8:vocative	_
 3	podchorąży	podchorąży	NOUN	subst:sg:voc:m1	Animacy=Hum|Case=Voc|Gender=Masc|Number=Sing	2	appos	2:appos	SpaceAfter=No
 4	,	,	PUNCT	interp	PunctType=Comm	2	punct	2:punct	_
@@ -41,7 +41,7 @@ The following 19 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 10 vocative	color:blue
-1	-	-	PUNCT	interp	PunctType=Hyph	4	punct	4:punct	_
+1	-	-	PUNCT	interp	PunctType=Dash	4	punct	4:punct	_
 2	Szybko	szybko	ADV	adv:pos	Degree=Pos	4	advmod	4:advmod	_
 3	się	się	PRON	part	PronType=Prs|Reflex=Yes	4	expl:pv	4:expl:pv	_
 4	zadomowiła	zadomowić	VERB	praet:sg:f:perf	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_

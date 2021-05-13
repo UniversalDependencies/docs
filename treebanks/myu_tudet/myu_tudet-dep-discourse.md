@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (1%) are attached to their parents as `discourse`.
+8 nodes (2%) are attached to their parents as `discourse`.
 
-2 instances of `discourse` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.66666666666667.
+7 instances of `discourse` (88%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.25.
 
-The following 2 pairs of parts of speech are connected with `discourse`: <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-PART.html">PART</a></tt> (2; 67% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt> (1; 33% instances).
+The following 3 pairs of parts of speech are connected with `discourse`: <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-PART.html">PART</a></tt> (6; 75% instances), <tt><a href="myu_tudet-pos-ADV.html">ADV</a></tt>-<tt><a href="myu_tudet-pos-PART.html">PART</a></tt> (1; 13% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt> (1; 13% instances).
 
 
 ~~~ conllu
@@ -26,6 +26,26 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 2	wa	wa	VERB	vx	_	0	root	0:root	_
 3	du	du	PART	pcl	_	2	discourse	2:discourse	_
 4	?	?	PUNCT	punct	_	2	punct	2:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 discourse	color:blue
+1	Ag̃okatkat	ag̃okatkat	NOUN	n	_	4	obl	4:obl	_
+2	acã	acã	ADV	adv	_	4	advmod	4:advmod	_
+3	cũg̃'i	cũg̃	X	x	_	4	dep	4:dep	_
+4	osunuy	osunuy	AUX	aux	_	0	root	0:root	_
+5	sũg̃tabi	sũg̃tabi	NOUN	n	_	4	obl	4:obl	_
+6	eju	eju	ADP	posp	_	5	case	5:case	_
+7	g̃axĩn	g̃axĩn	ADV	adv	_	9	advmod	9:advmod	_
+8	ma	ma	PART	pcl	_	7	discourse	7:discourse	_
+9	oajẽm	ajẽm	VERB	v	Aspect=Perf|Number=Sing|Person=1	4	advcl	4:advcl	_
+10	puye	puye	ADP	_	_	9	case	9:case	_
 
 ~~~
 

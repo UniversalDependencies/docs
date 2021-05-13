@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `aux`: <tt><a href="qtd_sagt-dep-aux-pass.html">aux:pass</a></tt>, <tt><a href="qtd_sagt-dep-aux-q.html">aux:q</a></tt>.
 
-600 nodes (2%) are attached to their parents as `aux`.
+691 nodes (2%) are attached to their parents as `aux`.
 
-493 instances of `aux` (82%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.84.
+567 instances of `aux` (82%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.84370477568741.
 
-The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (569; 95% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (12; 2% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (9; 2% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (646; 93% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (17; 2% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (15; 2% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -43,7 +43,7 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 5	fgColor:white
 # visual-style 5 3 aux	color:blue
 1	Ah	ah	INTJ	_	_	5	discourse	_	LangID=DE
-2	das	der	PRON	_	Case=Nom|Number=Sing|PronType=Dem	5	nsubj	_	LangID=DE
+2	das	der	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	LangID=DE
 3	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	LangID=DE
 4	auch	auch	ADV	_	_	5	advmod	_	LangID=DE
 5	krass	krass	ADJ	_	_	0	root	_	LangID=DE

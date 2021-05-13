@@ -31,7 +31,7 @@ The most frequent other feature values with which `NOUN` and `Definite` co-occur
 
 176 <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> tokens (40% of all `PROPN` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `PROPN` and `Definite` co-occurred: <tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (173; 98%), <tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (171; 97%), <tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Obl</tt> (120; 68%).
+The most frequent other feature values with which `PROPN` and `Definite` co-occurred: <tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt> (173; 98%), <tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (171; 97%), <tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt> (120; 68%).
 
 `PROPN` tokens may have the following values of `Definite`:
 
@@ -84,6 +84,6 @@ The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>PROPN --[<tt><a href="kmr_mg-dep-conj.html">conj</a></tt>]--> PROPN</tt> (15; 88%),
 <tt>NUM --[<tt><a href="kmr_mg-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9; 82%),
 <tt>NOUN --[<tt><a href="kmr_mg-dep-acl.html">acl</a></tt>]--> NOUN</tt> (8; 89%),
-<tt>NOUN --[<tt><a href="kmr_mg-dep-appos.html">appos</a></tt>]--> NOUN</tt> (7; 70%),
-<tt>NUM --[<tt><a href="kmr_mg-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (7; 58%).
+<tt>NUM --[<tt><a href="kmr_mg-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (8; 62%),
+<tt>NOUN --[<tt><a href="kmr_mg-dep-appos.html">appos</a></tt>]--> NOUN</tt> (7; 70%).
 

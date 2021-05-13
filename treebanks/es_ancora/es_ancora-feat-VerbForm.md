@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
-68304 tokens (12%) have a non-empty value of `VerbForm`.
+68312 tokens (12%) have a non-empty value of `VerbForm`.
 13004 types (33%) occur at least once with a non-empty value of `VerbForm`.
-3750 lemmas (14%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (47187; 9% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (14596; 3% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (6510; 1% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (11; 0% instances).
+3749 lemmas (14%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 4 part-of-speech tags: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (47195; 8% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (14596; 3% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (6510; 1% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (11; 0% instances).
 
 ### `VERB`
 
-47187 <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+47195 <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (28388; 60%), <tt><a href="es_ancora-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (27387; 58%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27014; 57%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (28396; 60%), <tt><a href="es_ancora-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (27395; 58%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27022; 57%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (30198; 64% of non-empty `VerbForm`): <em>tiene, dijo, hace, tienen, aseguró, explicó, afirmó, hizo, señaló, anunció</em>
+* `Fin` (30206; 64% of non-empty `VerbForm`): <em>tiene, dijo, hace, tienen, aseguró, explicó, afirmó, hizo, señaló, anunció</em>
 * `Ger` (1318; 3% of non-empty `VerbForm`): <em>haciendo, dando, teniendo, diciendo, pensando, trabajando, hablando, intentando, jugando, dejando</em>
 * `Inf` (10957; 23% of non-empty `VerbForm`): <em>hacer, dar, tener, ganar, ver, poner, decir, evitar, conseguir, llegar</em>
 * `Part` (4714; 10% of non-empty `VerbForm`): <em>hecho, tenido, dado, visto, conseguido, pasado, ganado, llegado, perdido, logrado</em>
@@ -119,7 +119,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (6510; 100% of non-empty `VerbForm`): <em>pasado, pasada, previsto, abierta, abierto, dispuesto, hecho, privado, fallecido, llamado</em>
-* `EMPTY` (29950): <em>primer, gran, nuevo, primera, mayor, próximo, nueva, últimos, mejor, general</em>
+* `EMPTY` (29951): <em>primer, gran, nuevo, primera, mayor, próximo, nueva, últimos, mejor, general</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (1322) occur only with one value of `VerbForm`.
 
@@ -134,18 +134,18 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 * `Fin` (9; 82% of non-empty `VerbForm`): <em>parte, alusión, banda, capitulo, cara, hincapié, punto, vergüenza</em>
 * `Inf` (1; 9% of non-empty `VerbForm`): <em>leña</em>
 * `Part` (1; 9% of non-empty `VerbForm`): <em>heredado</em>
-* `EMPTY` (100661): <em>años, presidente, millones, año, equipo, partido, país, parte, vez, día</em>
+* `EMPTY` (100656): <em>años, presidente, millones, año, equipo, partido, país, parte, vez, día</em>
 
 `VerbForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (10) occur only with one value of `VerbForm`.
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> VERB</tt> (3381; 78%),
-<tt>VERB --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (2580; 64%),
+<tt>VERB --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> VERB</tt> (3383; 78%),
+<tt>VERB --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (2581; 64%),
 <tt>AUX --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (312; 59%),
-<tt>VERB --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (252; 86%),
-<tt>VERB --[<tt><a href="es_ancora-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (117; 63%),
+<tt>VERB --[<tt><a href="es_ancora-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (251; 86%),
+<tt>VERB --[<tt><a href="es_ancora-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (118; 63%),
 <tt>AUX --[<tt><a href="es_ancora-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (97; 62%),
 <tt>VERB --[<tt><a href="es_ancora-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (80; 62%),
 <tt>VERB --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> AUX</tt> (67; 76%),

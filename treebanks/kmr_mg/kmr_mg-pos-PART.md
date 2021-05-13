@@ -68,13 +68,13 @@ Examples: <em>jî, ma, ji</em>
 
 Parents of `PART` nodes belong to 8 different parts of speech: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (84; 72% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (13; 11% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (8; 7% instances), <tt><a href="kmr_mg-pos-ADJ.html">ADJ</a></tt> (6; 5% instances), <tt><a href="kmr_mg-pos-NUM.html">NUM</a></tt> (3; 3% instances), <tt><a href="kmr_mg-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 
-114 (97%) `PART` nodes are leaves.
+110 (94%) `PART` nodes are leaves.
 
-3 (3%) `PART` nodes have one child.
+7 (6%) `PART` nodes have one child.
 
 The highest child degree of a `PART` node is 1.
 
-Children of `PART` nodes are attached using 3 different relations: <tt><a href="kmr_mg-dep-case.html">case</a></tt> (1; 33% instances), <tt><a href="kmr_mg-dep-cc.html">cc</a></tt> (1; 33% instances), <tt><a href="kmr_mg-dep-nsubj.html">nsubj</a></tt> (1; 33% instances)
+Children of `PART` nodes are attached using 4 different relations: <tt><a href="kmr_mg-dep-punct.html">punct</a></tt> (4; 57% instances), <tt><a href="kmr_mg-dep-case.html">case</a></tt> (1; 14% instances), <tt><a href="kmr_mg-dep-cc.html">cc</a></tt> (1; 14% instances), <tt><a href="kmr_mg-dep-nsubj.html">nsubj</a></tt> (1; 14% instances)
 
-Children of `PART` nodes belong to 3 different parts of speech: <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (1; 33% instances), <tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt> (1; 33% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (1; 33% instances)
+Children of `PART` nodes belong to 4 different parts of speech: <tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (4; 57% instances), <tt><a href="kmr_mg-pos-ADP.html">ADP</a></tt> (1; 14% instances), <tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt> (1; 14% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (1; 14% instances)
 

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-Perseus: POS Tags: `INTJ`
 
 There are 14 `INTJ` lemmas (0%), 15 `INTJ` types (0%) and 43 `INTJ` tokens (0%).
-Out of 12 observed tags, the rank of `INTJ` is: 11 in number of lemmas, 11 in number of types and 12 in number of tokens.
+Out of 13 observed tags, the rank of `INTJ` is: 11 in number of lemmas, 11 in number of types and 12 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>Hercules, o, ah, vae, heu!, ecce, hei, heu, heus!, io</em>
 

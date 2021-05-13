@@ -20,7 +20,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="gun_dooley-pos-VERB
 
 1638 <tt><a href="gun_dooley-pos-VERB.html">VERB</a></tt> tokens (68% of all `VERB` tokens) have a non-empty value of `Person[subj]`.
 
-The most frequent other feature values with which `VERB` and `Person[subj]` co-occurred: <tt><a href="gun_dooley-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1611; 98%), <tt><a href="gun_dooley-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1547; 94%), <tt><a href="gun_dooley-feat-Subcat.html">Subcat</a></tt><tt>=Int</tt> (986; 60%).
+The most frequent other feature values with which `VERB` and `Person[subj]` co-occurred: <tt><a href="gun_dooley-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1611; 98%), <tt><a href="gun_dooley-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1547; 94%), <tt><a href="gun_dooley-feat-Subcat.html">Subcat</a></tt><tt>=Intr</tt> (986; 60%).
 
 `VERB` tokens may have the following values of `Person[subj]`:
 

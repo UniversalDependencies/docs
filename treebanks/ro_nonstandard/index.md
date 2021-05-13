@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Cătălina Mărănduc, Cenel-Augusto Perez, Victoria Bobicev, Cătălin Mititelu, Florinel Hociung, Valentin Roșca, Roman Untilov, Petru Rebeja.
 
 Repository: [UD_Romanian-Nonstandard](https://github.com/UniversalDependencies/UD_Romanian-Nonstandard)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udro_nonstandard27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udro_nonstandard28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -90,7 +90,7 @@ Also in October 2020 we addad the rest of the Ion Neculce's ”Chronicle” (174
 
 ## Relations
 
-[acl](ro_nonstandard-dep-acl.html) – [advcl](ro_nonstandard-dep-advcl.html) – [advcl:tcl](ro_nonstandard-dep-advcl-tcl.html) – [advmod](ro_nonstandard-dep-advmod.html) – [advmod:tmod](ro_nonstandard-dep-advmod-tmod.html) – [amod](ro_nonstandard-dep-amod.html) – [appos](ro_nonstandard-dep-appos.html) – [aux](ro_nonstandard-dep-aux.html) – [aux:pass](ro_nonstandard-dep-aux-pass.html) – [case](ro_nonstandard-dep-case.html) – [cc](ro_nonstandard-dep-cc.html) – [cc:preconj](ro_nonstandard-dep-cc-preconj.html) – [ccomp](ro_nonstandard-dep-ccomp.html) – [ccomp:pmod](ro_nonstandard-dep-ccomp-pmod.html) – [clf](ro_nonstandard-dep-clf.html) – [compound](ro_nonstandard-dep-compound.html) – [conj](ro_nonstandard-dep-conj.html) – [cop](ro_nonstandard-dep-cop.html) – [csubj](ro_nonstandard-dep-csubj.html) – [csubj:pass](ro_nonstandard-dep-csubj-pass.html) – [dep](ro_nonstandard-dep-dep.html) – [det](ro_nonstandard-dep-det.html) – [discourse](ro_nonstandard-dep-discourse.html) – [expl](ro_nonstandard-dep-expl.html) – [expl:impers](ro_nonstandard-dep-expl-impers.html) – [expl:pass](ro_nonstandard-dep-expl-pass.html) – [expl:poss](ro_nonstandard-dep-expl-poss.html) – [expl:pv](ro_nonstandard-dep-expl-pv.html) – [fixed](ro_nonstandard-dep-fixed.html) – [flat](ro_nonstandard-dep-flat.html) – [goeswith](ro_nonstandard-dep-goeswith.html) – [iobj](ro_nonstandard-dep-iobj.html) – [list](ro_nonstandard-dep-list.html) – [mark](ro_nonstandard-dep-mark.html) – [nmod](ro_nonstandard-dep-nmod.html) – [nmod:agent](ro_nonstandard-dep-nmod-agent.html) – [nmod:pmod](ro_nonstandard-dep-nmod-pmod.html) – [nmod:tmod](ro_nonstandard-dep-nmod-tmod.html) – [nsubj](ro_nonstandard-dep-nsubj.html) – [nsubj:pass](ro_nonstandard-dep-nsubj-pass.html) – [nummod](ro_nonstandard-dep-nummod.html) – [obj](ro_nonstandard-dep-obj.html) – [obl](ro_nonstandard-dep-obl.html) – [orphan](ro_nonstandard-dep-orphan.html) – [parataxis](ro_nonstandard-dep-parataxis.html) – [punct](ro_nonstandard-dep-punct.html) – [root](ro_nonstandard-dep-root.html) – [vocative](ro_nonstandard-dep-vocative.html) – [xcomp](ro_nonstandard-dep-xcomp.html)
+[acl](ro_nonstandard-dep-acl.html) – [advcl](ro_nonstandard-dep-advcl.html) – [advcl:tcl](ro_nonstandard-dep-advcl-tcl.html) – [advmod](ro_nonstandard-dep-advmod.html) – [advmod:tmod](ro_nonstandard-dep-advmod-tmod.html) – [amod](ro_nonstandard-dep-amod.html) – [appos](ro_nonstandard-dep-appos.html) – [aux](ro_nonstandard-dep-aux.html) – [aux:pass](ro_nonstandard-dep-aux-pass.html) – [case](ro_nonstandard-dep-case.html) – [cc](ro_nonstandard-dep-cc.html) – [cc:preconj](ro_nonstandard-dep-cc-preconj.html) – [ccomp](ro_nonstandard-dep-ccomp.html) – [ccomp:pmod](ro_nonstandard-dep-ccomp-pmod.html) – [clf](ro_nonstandard-dep-clf.html) – [compound](ro_nonstandard-dep-compound.html) – [conj](ro_nonstandard-dep-conj.html) – [cop](ro_nonstandard-dep-cop.html) – [csubj](ro_nonstandard-dep-csubj.html) – [csubj:pass](ro_nonstandard-dep-csubj-pass.html) – [dep](ro_nonstandard-dep-dep.html) – [det](ro_nonstandard-dep-det.html) – [discourse](ro_nonstandard-dep-discourse.html) – [expl](ro_nonstandard-dep-expl.html) – [expl:impers](ro_nonstandard-dep-expl-impers.html) – [expl:pass](ro_nonstandard-dep-expl-pass.html) – [expl:poss](ro_nonstandard-dep-expl-poss.html) – [expl:pv](ro_nonstandard-dep-expl-pv.html) – [fixed](ro_nonstandard-dep-fixed.html) – [flat](ro_nonstandard-dep-flat.html) – [goeswith](ro_nonstandard-dep-goeswith.html) – [iobj](ro_nonstandard-dep-iobj.html) – [list](ro_nonstandard-dep-list.html) – [mark](ro_nonstandard-dep-mark.html) – [nmod](ro_nonstandard-dep-nmod.html) – [nmod:tmod](ro_nonstandard-dep-nmod-tmod.html) – [nsubj](ro_nonstandard-dep-nsubj.html) – [nsubj:pass](ro_nonstandard-dep-nsubj-pass.html) – [nummod](ro_nonstandard-dep-nummod.html) – [obj](ro_nonstandard-dep-obj.html) – [obl](ro_nonstandard-dep-obl.html) – [obl:agent](ro_nonstandard-dep-obl-agent.html) – [obl:pmod](ro_nonstandard-dep-obl-pmod.html) – [orphan](ro_nonstandard-dep-orphan.html) – [parataxis](ro_nonstandard-dep-parataxis.html) – [punct](ro_nonstandard-dep-punct.html) – [root](ro_nonstandard-dep-root.html) – [vocative](ro_nonstandard-dep-vocative.html) – [xcomp](ro_nonstandard-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -825,13 +825,11 @@ Also in October 2020 we addad the rest of the Ion Neculce's ”Chronicle” (174
       <li>Postnom
         <ul>
           <li>DET: acesta, acela, aceștiia, cela, aceasta, aceia, acestuia, aceaia, acealea, ceia</li>
-          <li>PRON: ceia, celora</li>
         </ul>
       </li>
       <li>Prenom
         <ul>
           <li>DET: acel, această, acest, acea, acei, aceste, acestu, ceastă, acele, acelui</li>
-          <li>PRON: acea</li>
         </ul>
       </li>
     </ul>
@@ -1122,6 +1120,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 14 relation subtypes: <a>advcl:tcl</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:pmod</a>, <a>csubj:pass</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>expl:poss</a>, <a>expl:pv</a>, <a>nmod:agent</a>, <a>nmod:pmod</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a></li>
+<li>This corpus uses 14 relation subtypes: <a>advcl:tcl</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:pmod</a>, <a>csubj:pass</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>expl:poss</a>, <a>expl:pv</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:pmod</a></li>
 <li>The following 2 relation types are not used in this corpus at all: <a>dislocated</a>, <a>reparandum</a></li>
 </ul>

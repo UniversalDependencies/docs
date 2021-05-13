@@ -131,7 +131,7 @@ The following 4 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 62	,	,	PUNCT	Z:-------------	_	64	punct	_	_
 63	a	a	CCONJ	J^-------------	_	64	cc	_	LId=a-1
 64	nevznikla-li	nevznikla-li	X	X@-------------	_	27	conj	_	_
-65	jim	on	PRON	PPXP3--3-------	Case=Dat|Number=Plur|Person=3|PronType=Prs	64	obl:arg	_	LId=on-1
+65	jim	on	PRON	PPXP3--3-------	Case=Dat|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	64	obl:arg	_	LId=on-1
 66	povinnost	povinnost	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	64	nsubj	_	_
 67	vést	vést	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	66	acl	_	LId=vést-1
 68	účetnictví	účetnictví	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	67	obj	_	_

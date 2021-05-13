@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (11; 100% of non-empty `Polarity`): <em>tidak, tak, bukan</em>
-* `EMPTY` (4749): <em>juga, akan, dapat, telah, lebih, kemudian, hanya, bisa, masih, sangat</em>
+* `EMPTY` (4713): <em>juga, akan, dapat, telah, lebih, kemudian, hanya, bisa, masih, sangat</em>
 
 ### `NOUN`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 `NOUN` tokens may have the following values of `Polarity`:
 
 * `Neg` (8; 100% of non-empty `Polarity`): <em>anti, non, ketidakcukupan, ketidakjelasan, ketidakpastian, nonbuku, nonkriminal</em>
-* `EMPTY` (26992): <em>tahun, orang, desa, kota, nama, bagian, bahasa, wilayah, negara, tanggal</em>
+* `EMPTY` (26431): <em>tahun, orang, desa, kota, nama, bagian, bahasa, tanggal, wilayah, film</em>
 
 ### `PROPN`
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `PROPN` and `Polarity` co-occu
 `PROPN` tokens may have the following values of `Polarity`:
 
 * `Neg` (4; 100% of non-empty `Polarity`): <em>Tak, t, tidak</em>
-* `EMPTY` (22786): <em>indonesia, kabupaten, kecamatan, Jawa, provinsi, Amerika, Timur, Barat, jepang, tengah</em>
+* `EMPTY` (22769): <em>indonesia, kabupaten, kecamatan, Jawa, provinsi, Amerika, Timur, Barat, jepang, tengah</em>
 
 ### `ADJ`
 
@@ -67,5 +67,5 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 `ADJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>non</em>
-* `EMPTY` (4527): <em>lain, besar, baru, lainnya, sama, kecil, utama, pertama, tinggi, baik</em>
+* `EMPTY` (4499): <em>lain, besar, baru, lainnya, sama, kecil, utama, pertama, tinggi, baik</em>
 

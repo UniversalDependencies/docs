@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
 27661 tokens (39%) have a non-empty value of `Gender`.
-6132 types (65%) occur at least once with a non-empty value of `Gender`.
+6134 types (65%) occur at least once with a non-empty value of `Gender`.
 4395 lemmas (65%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 9 part-of-speech tags: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (14317; 20% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (5885; 8% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (3001; 4% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2195; 3% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (1438; 2% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (813; 1% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
@@ -44,7 +44,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 * `Fem` (2762; 47% of non-empty `Gender`): <em>la, une, cette, sa, aucune, certaines, toute, ma, quelles, toutes</em>
 * `Masc` (3123; 53% of non-empty `Gender`): <em>le, un, ce, cet, les, aucun, tout, du, certains, quel</em>
-* `EMPTY` (4573): <em>les, l', des, son, ces, ses, votre, de, leur, d'</em>
+* `EMPTY` (4561): <em>les, l', des, son, ces, ses, votre, de, leur, d'</em>
 
 <table>
   <tr><th>Paradigm <i>le</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -121,7 +121,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>il, -il, On, -on</em></td><td><em>elle, -elle</em></td></tr>
+  <tr><td><tt><tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>il, -il, -t-il, On, -on</em></td><td><em>elle, -elle, -t-elle</em></td></tr>
   <tr><td><tt><tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ils, -ils</em></td><td><em>elles</em></td></tr>
 </table>
 

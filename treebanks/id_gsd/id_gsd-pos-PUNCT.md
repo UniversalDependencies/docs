@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Indonesian-GSD: POS Tags: `PUNCT`
 
-There are 37 `PUNCT` lemmas (0%), 39 `PUNCT` types (0%) and 18228 `PUNCT` tokens (15%).
+There are 37 `PUNCT` lemmas (0%), 39 `PUNCT` types (0%) and 17557 `PUNCT` tokens (15%).
 Out of 16 observed tags, the rank of `PUNCT` is: 12 in number of lemmas, 12 in number of types and 3 in number of tokens.
 
-The 10 most frequent `PUNCT` lemmas: <em>,, ., -, ), (, ?, ", :, _, ;</em>
+The 10 most frequent `PUNCT` lemmas: <em>,, ., ), (, -, ?, ", :, _, ;</em>
 
-The 10 most frequent `PUNCT` types:  <em>,, ., -, ), (, ?, ", :, ', ;</em>
+The 10 most frequent `PUNCT` types:  <em>,, ., ), (, -, ?, ", :, ', ;</em>
 
-The 10 most frequent ambiguous lemmas: <em>.</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 5637, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 1), <em>_</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 176, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 24, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 2), <em>–</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 53, <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> 1), <em>—</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 11, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1), <em>~</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> 1), <em>&amp;nbsp</em> (<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="id_gsd-pos-X.html">X</a></tt> 1), <em>banyak</em> (<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> 92, <tt><a href="id_gsd-pos-DET.html">DET</a></tt> 47, <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> 2, <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 1), <em>habis</em> (<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> 1, <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 1), <em>mengenai</em> (<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> 33, <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> 6, <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 1), <em>ul</em> (<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>.</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 5637, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 1), <em>_</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 176, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 24, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 2), <em>–</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 48, <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> 1), <em>—</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 11, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1), <em>~</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> 1), <em>&amp;nbsp</em> (<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="id_gsd-pos-X.html">X</a></tt> 1), <em>banyak</em> (<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> 92, <tt><a href="id_gsd-pos-DET.html">DET</a></tt> 47, <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> 2, <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 1), <em>habis</em> (<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> 1, <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 1), <em>mengenai</em> (<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> 33, <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> 6, <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 1), <em>ul</em> (<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>.</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 5637, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 1), <em>'</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 161, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1), <em>–</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 53, <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> 1), <em>''</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 14, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1), <em>—</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 11, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1), <em>~</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> 1), <em>&amp;nbsp</em> (<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="id_gsd-pos-X.html">X</a></tt> 1), <em>banyak</em> (<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> 86, <tt><a href="id_gsd-pos-DET.html">DET</a></tt> 34, <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> 1, <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 1), <em>habis</em> (<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> 1, <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 1), <em>mengenai</em> (<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> 30, <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> 6, <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>.</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 5637, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 1), <em>'</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 161, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1), <em>–</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 48, <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> 1), <em>''</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 14, <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1), <em>—</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 11, <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1), <em>~</em> (<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> 1), <em>&amp;nbsp</em> (<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="id_gsd-pos-X.html">X</a></tt> 1), <em>banyak</em> (<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> 86, <tt><a href="id_gsd-pos-DET.html">DET</a></tt> 34, <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> 1, <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 1), <em>habis</em> (<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> 1, <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 1), <em>mengenai</em> (<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> 30, <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> 6, <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 1)
 
 
 * <em>.</em>
@@ -26,7 +26,7 @@ The 10 most frequent ambiguous types:  <em>.</em> (<tt><a href="id_gsd-pos-PUNCT
   * <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> 2: <em>Zaki al - Arsuzi dianggap sebagai " Socrates " Partai Ba <b>'</b> ath .</em>
   * <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> 1: <em>Tetapi karena tidak dikelola oleh manajer profesional dan terlalu banyaknya ' politisasi <b>'</b> atau campur tangan pemerintah , mengakibatkan perusahaan tersebut hanya dijadikan ' sapi perah ' oleh para birokrat .</em>
 * <em>–</em>
-  * <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 53: <em>Tahap kedua dilaksanakan pada November 2011 <b>–</b> Februari 2012 utuk 15 keluarga .</em>
+  * <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 48: <em>Tahap kedua dilaksanakan pada November 2011 <b>–</b> Februari 2012 utuk 15 keluarga .</em>
   * <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> 1: <em>Hutan hujan tropika atau sering juga ditulis sebagai hutan hujan tropis adalah bioma berupa hutan yang selalu basah atau lembap , yang dapat ditemui di wilayah sekitar khatulistiwa ; yakni kurang lebih pada lintang 0 ° <b>–</b> 10 ° ke utara dan ke selatan garis khatulistiwa .</em>
 * <em>''</em>
   * <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> 14: <em>Iye wah foto kopian-ku <b>''</b> ( mau kalian lihat saya ?</em>
@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  <em>.</em> (<tt><a href="id_gsd-pos-PUNCT
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.054054 (the average of all parts of speech is 1.045328).
+The form / lemma ratio of `PUNCT` is 1.054054 (the average of all parts of speech is 1.057889).
 
 The 1st highest number of forms (3) was observed with the lemma “_”: <em>', '', _</em>.
 
@@ -72,27 +72,27 @@ The 3rd highest number of forms (1) was observed with the lemma “"”: <em>"</
 `PUNCT` occurs with 2 feature-value pairs: `Degree=Pos`, `Number=Sing`
 
 `PUNCT` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (18226 tokens).
-Examples: <em>,, ., -, ), (, ?, ", :, ', ;</em>
+The most frequent feature combination is `_` (17555 tokens).
+Examples: <em>,, ., ), (, -, ?, ", :, ', ;</em>
 
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 9 different relations: <tt><a href="id_gsd-dep-punct.html">punct</a></tt> (18213; 100% instances), <tt><a href="id_gsd-dep-dep.html">dep</a></tt> (5; 0% instances), <tt><a href="id_gsd-dep-compound.html">compound</a></tt> (4; 0% instances), <tt><a href="id_gsd-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="id_gsd-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="id_gsd-dep-compound-plur.html">compound:plur</a></tt> (1; 0% instances), <tt><a href="id_gsd-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="id_gsd-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="id_gsd-dep-root.html">root</a></tt> (1; 0% instances)
+`PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="id_gsd-dep-punct.html">punct</a></tt> (17556; 100% instances), <tt><a href="id_gsd-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (7327; 40% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (4747; 26% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (4695; 26% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (550; 3% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (310; 2% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (222; 1% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (144; 1% instances), <tt><a href="id_gsd-pos-SYM.html">SYM</a></tt> (57; 0% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt> (45; 0% instances), <tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (38; 0% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (34; 0% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (28; 0% instances), <tt><a href="id_gsd-pos-X.html">X</a></tt> (12; 0% instances), <tt><a href="id_gsd-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="id_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (6747; 38% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (4758; 27% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (4103; 23% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (721; 4% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (303; 2% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (245; 1% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (168; 1% instances), <tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (123; 1% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (84; 0% instances), <tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (82; 0% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt> (70; 0% instances), <tt><a href="id_gsd-pos-SYM.html">SYM</a></tt> (60; 0% instances), <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> (35; 0% instances), <tt><a href="id_gsd-pos-AUX.html">AUX</a></tt> (22; 0% instances), <tt><a href="id_gsd-pos-PART.html">PART</a></tt> (20; 0% instances), <tt><a href="id_gsd-pos-X.html">X</a></tt> (15; 0% instances),  (1; 0% instances)
 
-18204 (100%) `PUNCT` nodes are leaves.
+17537 (100%) `PUNCT` nodes are leaves.
 
-19 (0%) `PUNCT` nodes have one child.
+6 (0%) `PUNCT` nodes have one child.
 
-1 (0%) `PUNCT` nodes have two children.
+13 (0%) `PUNCT` nodes have two children.
 
-4 (0%) `PUNCT` nodes have three or more children.
+1 (0%) `PUNCT` nodes have three or more children.
 
-The highest child degree of a `PUNCT` node is 6.
+The highest child degree of a `PUNCT` node is 3.
 
-Children of `PUNCT` nodes are attached using 13 different relations: <tt><a href="id_gsd-dep-flat.html">flat</a></tt> (11; 30% instances), <tt><a href="id_gsd-dep-punct.html">punct</a></tt> (7; 19% instances), <tt><a href="id_gsd-dep-nummod.html">nummod</a></tt> (5; 14% instances), <tt><a href="id_gsd-dep-dep.html">dep</a></tt> (4; 11% instances), <tt><a href="id_gsd-dep-conj.html">conj</a></tt> (2; 5% instances), <tt><a href="id_gsd-dep-advmod.html">advmod</a></tt> (1; 3% instances), <tt><a href="id_gsd-dep-compound.html">compound</a></tt> (1; 3% instances), <tt><a href="id_gsd-dep-compound-plur.html">compound:plur</a></tt> (1; 3% instances), <tt><a href="id_gsd-dep-fixed.html">fixed</a></tt> (1; 3% instances), <tt><a href="id_gsd-dep-mark.html">mark</a></tt> (1; 3% instances), <tt><a href="id_gsd-dep-nmod.html">nmod</a></tt> (1; 3% instances), <tt><a href="id_gsd-dep-nsubj.html">nsubj</a></tt> (1; 3% instances), <tt><a href="id_gsd-dep-obj.html">obj</a></tt> (1; 3% instances)
+Children of `PUNCT` nodes are attached using 1 different relations: <tt><a href="id_gsd-dep-punct.html">punct</a></tt> (35; 100% instances)
 
-Children of `PUNCT` nodes belong to 8 different parts of speech: <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (12; 32% instances), <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> (8; 22% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (7; 19% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (5; 14% instances), <tt><a href="id_gsd-pos-X.html">X</a></tt> (2; 5% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="id_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances)
+Children of `PUNCT` nodes belong to 1 different parts of speech: <tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> (35; 100% instances)
 

@@ -40,7 +40,7 @@ The following 12 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 3	fgColor:white
 # visual-style 3 1 discourse	color:blue
 1	Ô	ô	INTJ	_	_	3	discourse	_	wordform=ô
-2	ma	son	DET	_	Gender=Fem|Number=Sing|PossNumber=Sing|PossPerson=1|PronType=Prs	3	det	_	_
+2	ma	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|PronType=Prs	3	det	_	_
 3	vigne	vigne	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 4	bien	bien	ADV	_	_	5	advmod	_	_
 5	aimée	aimer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	SpaceAfter=No

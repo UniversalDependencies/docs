@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of parataxis in UD_Old_Russian-TOROT'
+title:  'Statistics of parataxis in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Relations: `parataxis`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Relations: `parataxis`
 
 This relation is universal.
 
@@ -44,7 +44,7 @@ The following 13 pairs of parts of speech are connected with `parataxis`: <tt><a
 3	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	det	_	ref=9
 4	сказывають	съказывати	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	ref=9
 5	велми	вельми	ADV	Df	_	6	advmod	_	ref=9
-6	много	мъногыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	1	nsubj	_	ref=9
+6	много	мъногыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	nsubj	_	ref=9
 
 ~~~
 

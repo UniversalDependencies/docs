@@ -23,12 +23,12 @@ The following 1 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 # visual-style 6	fgColor:white
 # visual-style 6 7 obj:lvc	color:blue
 1	A	a	DET	_	Definite=Def|PronType=Art	2	det	_	_
-2	vészhelyzetből	vészhelyzet	NOUN	_	Case=Ela|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	6	nmod:obl	_	_
+2	vészhelyzetből	vészhelyzet	NOUN	_	Case=Ela|Number=Sing	6	obl	_	_
 3	egyedül	egyedül	ADV	_	_	6	advmod:mode	_	_
 4	a	a	DET	_	Definite=Def|PronType=Art	5	det	_	_
-5	taxisok	taxis	NOUN	_	Case=Nom|Number=Plur|Number[psed]=None|Number[psor]=None|Person[psor]=None	6	nsubj	_	_
+5	taxisok	taxis	NOUN	_	Case=Nom|Number=Plur	6	nsubj	_	_
 6	húztak	húz	VERB	_	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-7	hasznot	haszon	NOUN	_	Case=Acc|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	6	obj:lvc	_	SpaceAfter=No
+7	hasznot	haszon	NOUN	_	Case=Acc|Number=Sing	6	obj:lvc	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~

@@ -54,7 +54,7 @@ The following 5 pairs of parts of speech are connected with `compound:prt`: <tt>
 6	of	of	ADP	_	_	8	case	_	_
 7	the	the	DET	DEF	Definite=Def|PronType=Art	8	det	_	_
 8	road	road	NOUN	SG-NOM	Number=Sing	5	nmod	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	11	punct	_	_
+9	,	,	PUNCT	Comma	_	11	punct	_	_
 10	he	he	PRON	PERS-P3SG-NOM	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
 11	declared	declare	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	2	parataxis	_	SpaceAfter=No
 12	.	.	PUNCT	Period	_	2	punct	_	_
@@ -80,7 +80,7 @@ The following 5 pairs of parts of speech are connected with `compound:prt`: <tt>
 10	in	in	ADP	_	_	12	case	_	_
 11	the	the	DET	DEF	Definite=Def|PronType=Art	12	det	_	_
 12	celebrations	celebration	NOUN	PL-NOM	Number=Plur	8	obl	_	SpaceAfter=No
-13	?	?	PUNCT	Questionmark	_	2	punct	_	_
+13	?	?	PUNCT	QuestionMark	_	2	punct	_	_
 
 ~~~
 

@@ -23,20 +23,20 @@ The following 1 pairs of parts of speech are connected with `expl:poss`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 expl:poss	color:blue
-1	Unii	un	DET	Di3mpr---e	Case=Nom|Gender=Masc|Number=Plur|Person=3|Position=Prenom|PronType=Ind	3	det	_	O
-2	nanici	nanic	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	3	amod	_	O
-3	hipofizari	hipofizar	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	5	nsubj	_	O
-4	își	sine	PRON	Px3--d--------w	Case=Dat|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	5	expl:poss	_	O
-5	arată	arăta	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	O
-6	vârsta	vârstă	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	5	obj	_	O
-7	staturală	statural	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	O
-8	,	,	PUNCT	COMMA	_	5	punct	_	O
-9	și	și	CCONJ	Crssp	Polarity=Pos	12	cc	_	O
-10	nu	nu	PART	Qz	Polarity=Neg	12	advmod	_	O
-11	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	O
-12	cea	acela	PRON	Pd3fsr	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	5	conj	_	O
-13	cronologică	cronologic	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	O
-14	.	.	PUNCT	PERIOD	_	5	punct	_	O
+1	Unii	un	DET	Di3mpr---e	Case=Nom|Gender=Masc|Number=Plur|Person=3|Position=Prenom|PronType=Ind	3	det	_	_
+2	nanici	nanic	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	3	amod	_	_
+3	hipofizari	hipofizar	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	5	nsubj	_	_
+4	își	sine	PRON	Px3--d--------w	Case=Dat|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	5	expl:poss	_	_
+5	arată	arăta	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	vârsta	vârstă	NOUN	Ncfsry	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	5	obj	_	_
+7	staturală	statural	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
+8	,	,	PUNCT	COMMA	_	5	punct	_	_
+9	și	și	CCONJ	Crssp	Polarity=Pos	12	cc	_	_
+10	nu	nu	PART	Qz	Polarity=Neg	12	advmod	_	_
+11	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	12	case	_	_
+12	cea	acela	PRON	Pd3fsr	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	5	conj	_	_
+13	cronologică	cronologic	ADJ	Afpfsrn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	SpaceAfter=No
+14	.	.	PUNCT	PERIOD	_	5	punct	_	_
 
 ~~~
 

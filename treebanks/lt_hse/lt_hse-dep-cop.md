@@ -26,7 +26,7 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 2	abejonės	abejonė	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	7	parataxis	_	En=doubts|SpaceAfter=No
 3	,	,	PUNCT	PUNCT	_	2	punct	_	En=,
 4	lietuviai	lietuvis	ADJ	JJL	Case=Dat|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	7	nsubj	_	En=Lithianian
-5	nėra	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	En=be
+5	nėra	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	En=be
 6	žydšaudžių	žydšaudys	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	7	amod	_	En=Jew-shooter
 7	tauta	tauta	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	En=nation|SpaceAfter=No
 8	.	.	PUNCT	PUNCT	_	7	punct	_	En=.
@@ -43,7 +43,7 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 1	Iš	iš	ADP	UH	_	2	case	_	En=from
 2	tikrųjų	tikras	ADJ	JJL	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	6	parataxis	_	En=real
 3	reikalas	reikalas	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	En=matter
-4	nebuvo	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Reflex=No|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	En=be
+4	nebuvo	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	En=be
 5	toks	toks	ADV	RB	Degree=Pos	6	advmod	_	En=such
 6	paprastas	paprastas	ADJ	JJL	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	En=simple|SpaceAfter=No
 7	.	.	PUNCT	PUNCT	_	6	punct	_	En=.
@@ -58,10 +58,10 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 5	fgColor:white
 # visual-style 5 2 cop	color:blue
 1	Jis	jis	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	_	En=he
-2	buvo	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	En=be
+2	buvo	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	En=be
 3	pagal	pagal	ADP	UH	_	4	case	_	En=under
 4	išgales	išgalė	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	5	obl	_	En=possibility
-5	tęsiamas	tęsti	VERB	VBNL	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	_	En=continue
+5	tęsiamas	tęsti	VERB	VBNL	Case=Nom|Definite=Ind|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	_	En=continue
 6	nacių	nacis	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	En=Nazi
 7	okupacijos	okupacija	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	En=occupation
 8	metais	metai	NOUN	NN	Case=Ins|Gender=Masc|Number=Plur	5	obl	_	En=years|SpaceAfter=No

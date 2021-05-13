@@ -152,7 +152,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 22	trabalho	trabalho	NOUN	_	Gender=Masc|Number=Sing	20	nsubj	_	_
 23	de	de	ADP	_	_	25	case	_	_
 24	300	300	NUM	_	NumType=Card	25	nummod	_	_
-25	especialistas	especialista	NOUN	_	Gender=Unsp|Number=Plur	22	nmod	_	_
+25	especialistas	especialista	NOUN	_	Number=Plur	22	nmod	_	_
 26	durante	durante	ADP	_	_	28	case	_	_
 27	três	três	NUM	_	NumType=Card	28	nummod	_	_
 28	anos	ano	NOUN	_	Gender=Masc|Number=Plur	22	nmod	_	SpaceAfter=No

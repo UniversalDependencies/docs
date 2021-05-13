@@ -52,7 +52,7 @@ The following 30 pairs of parts of speech are connected with `conj`: <tt><a href
 7	ثم	vum~a_1	CCONJ	CC	_	8	cc	_	_
 8	تبعت	tabiE-a_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	1	conj	_	SpaceAfter=No
 9	ها	hA	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3	8	obj	_	_
-10	إحدى	>aHad_1	DET	PDT	Case=Nom	11	det:predet	_	_
+10	إحدى	>aHad_1	DET	PDT	Case=Nom	11	det	_	_
 11	صديقات	Sadiyq_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Plur	8	nsubj	_	SpaceAfter=No
 12	ها	hA	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	11	nmod	_	SpaceAfter=No
 13	.	._0	PUNCT	.	_	1	punct	_	_
@@ -73,7 +73,7 @@ The following 30 pairs of parts of speech are connected with `conj`: <tt><a href
 5	ما	mA_1	PART	RP	_	7	compound:prt	_	_
 6	بين	bayona_1	ADP	IN	_	7	case	_	_
 7	شهري	$ahor_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Dual	1	obl	_	_
-8	نيسان	niysAn_1	PROPN	NNP	Animacy=Nhum|Gender=Masc|Number=Sing	7	nmod:gmod	_	_
+8	نيسان	niysAn_1	PROPN	NNP	Animacy=Nhum|Gender=Masc|Number=Sing	7	nmod	_	_
 9	و	w	CCONJ	CC	_	10	cc	_	SpaceAfter=No
 10	حزيران	HaziyrAn_1	PROPN	NNP	Animacy=Nhum|Gender=Masc|Number=Sing	8	conj	_	SpaceAfter=No
 11	.	._0	PUNCT	.	_	1	punct	_	_

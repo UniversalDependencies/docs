@@ -20,5 +20,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="gv_cadhan-pos-NOUN.
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (2; 100% of non-empty `Typo`): <em>charrrey, okley</em>
+* `Yes` (2; 100% of non-empty `Typo`): <em>okley, charrrey</em>
 

@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of det in UD_Old_Russian-TOROT'
+title:  'Statistics of det in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Relations: `det`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Relations: `det`
 
 This relation is universal.
 
@@ -61,7 +61,7 @@ The following 16 pairs of parts of speech are connected with `det`: <tt><a href=
 2	ѡни	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	ref=
 3	же	же	ADV	Df	_	6	discourse	_	ref=
 4	то	тыи	ADJ	Pd	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	ref=
-5	видѧще	видѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	ref=
+5	видѧще	видѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	6	advcl	_	ref=
 6	побѣгоша	побѣгнути	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
 7	вси	вьсь	DET	Px	Case=Nom|Gender=Masc|Number=Plur	2	det	_	ref=
 

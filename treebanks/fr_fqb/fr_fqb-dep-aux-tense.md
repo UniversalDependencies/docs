@@ -12,7 +12,7 @@ There are also 2 other language-specific subtypes of `aux`: <tt><a href="fr_fqb-
 503 nodes (2%) are attached to their parents as `aux:tense`.
 
 502 instances of `aux:tense` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.83499005964215.
+Average distance between parent and child is 1.57256461232604.
 
 The following 3 pairs of parts of speech are connected with `aux:tense`: <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (497; 99% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 

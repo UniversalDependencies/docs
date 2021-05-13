@@ -43,7 +43,7 @@ The following 29 pairs of parts of speech are connected with `discourse`: <tt><a
 3	،	،	PUNCT	Y	_	2	punct	_	Translit=,
 4	مەن	مەن	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Translit=men
 5	ئۆلەر	_	VERB	V	_	6	acl	_	Translit=öler|Morf=Unknown
-6	ھالەتتە	ھالەت	NOUN	N	Case=Loc	7	advmod	_	Translit=halette
+6	ھالەتتە	ھالەت	NOUN	N	Case=Loc	7	obl	_	Translit=halette
 7	ياتىمەن	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=yatimen|Morf=Unknown
 8	،	،	PUNCT	Y	_	7	punct	_	Translit=,
 

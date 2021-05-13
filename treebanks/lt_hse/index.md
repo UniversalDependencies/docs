@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Olga Lyashevskaya, Dmitry Sichinava.
 
 Repository: [UD_Lithuanian-HSE](https://github.com/UniversalDependencies/UD_Lithuanian-HSE)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlt_hse27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlt_hse28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -58,7 +58,7 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
 
 ## Features
 
-[Case](lt_hse-feat-Case.html) – [Definite](lt_hse-feat-Definite.html) – [Degree](lt_hse-feat-Degree.html) – [Gender](lt_hse-feat-Gender.html) – [Mood](lt_hse-feat-Mood.html) – [Number](lt_hse-feat-Number.html) – [Person](lt_hse-feat-Person.html) – [Polarity](lt_hse-feat-Polarity.html) – [Reflex](lt_hse-feat-Reflex.html) – [Tense](lt_hse-feat-Tense.html) – [Variant](lt_hse-feat-Variant.html) – [VerbForm](lt_hse-feat-VerbForm.html) – [Voice](lt_hse-feat-Voice.html)
+[Aspect](lt_hse-feat-Aspect.html) – [Case](lt_hse-feat-Case.html) – [Definite](lt_hse-feat-Definite.html) – [Degree](lt_hse-feat-Degree.html) – [Gender](lt_hse-feat-Gender.html) – [Mood](lt_hse-feat-Mood.html) – [Number](lt_hse-feat-Number.html) – [Person](lt_hse-feat-Person.html) – [Polarity](lt_hse-feat-Polarity.html) – [Reflex](lt_hse-feat-Reflex.html) – [Tense](lt_hse-feat-Tense.html) – [Variant](lt_hse-feat-Variant.html) – [VerbForm](lt_hse-feat-VerbForm.html) – [Voice](lt_hse-feat-Voice.html)
 
 ## Relations
 
@@ -124,10 +124,26 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
 </ul>
 
 <ul>
+  <li>Conv
+  <ul>
+    <li>VERB: duodama, apsijuokdamas, atsižvelgdamos, keldamas, nesakoma, nesikurdama, neturėdama, pasmerkdami</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Fin
   <ul>
     <li>AUX: buvo, yra, nėra, būtų, nebūtų, būna, esu, nebuvo, bus, Esame</li>
     <li>VERB: gali, turi, negali, nėra, sako, žino, analizuoja, bando, dera, dūstu</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ger
+  <ul>
+    <li>VERB: paėmus, Remiantis, atgaunant, ištaisyt, pabrėžiant, pagalvojus, puldinėt, sakant, sekant, įskaitant</li>
   </ul>
   </li>
 </ul>
@@ -150,22 +166,6 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
   </li>
 </ul>
 
-<ul>
-  <li>PartPad
-  <ul>
-    <li>VERB: paėmus, Remiantis, atgaunant, ištaisyt, pabrėžiant, pagalvojus, puldinėt, sakant, sekant, įskaitant</li>
-  </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>PartPus
-  <ul>
-    <li>VERB: duodama, apsijuokdamas, atsižvelgdamos, keldamas, nesakoma, nesikurdama, neturėdama, pasmerkdami</li>
-  </ul>
-  </li>
-</ul>
-
 <h3>Nominal Features</h3>
 
 
@@ -182,8 +182,8 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
       <li>NUM: Dešimtys, dvi, trijų</li>
       <li>PRON: ji, ją, kurios, jos, kurią, kuri, ja, jai, jas, kokios</li>
       <li>PROPN: Lietuvos, Europos, Rusijos, Lietuva, Rusija, Lietuvoje, Vilma, Lietuvą, Rusijai, Juknaitė</li>
+      <li>VERB-Conv: duodama, atsižvelgdamos, nesakoma, nesikurdama, neturėdama</li>
       <li>VERB-Part: paskelbta, Mąstanti, apsuptose, atitinkančios, atmesta, atsakyta, atsiradusi, baigta, baramos, bijanti</li>
-      <li>VERB-PartPus: duodama, atsižvelgdamos, nesakoma, nesikurdama, neturėdama</li>
     </ul>
   </li>
 </ul>
@@ -198,8 +198,8 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
       <li>NUM: du, trys, šimtus, penkis, trijų, tūkstančius, vieną, šimtą</li>
       <li>PRON: jis, to, kuris, jie, jo, nieko, jį, kurie, kurį, viso</li>
       <li>PROPN: Strepsiado, Sokratas, Sokrato, Strepsiadas, Tu-154, Aristofano, Vytautas, Radžvilas, Stalino, Sąjūdžio</li>
+      <li>VERB-Conv: apsijuokdamas, keldamas, pasmerkdami</li>
       <li>VERB-Part: vadinami, girdėję, grįžtamasis, laikomas, pastebimi, skirtas, sudužusio, žinojęs, Pradėjęs, apibrėžimas</li>
-      <li>VERB-PartPus: apsijuokdamas, keldamas, pasmerkdami</li>
     </ul>
   </li>
 </ul>
@@ -229,9 +229,9 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
       <li>NUM: šimtus, Dešimtys, tūkstančius</li>
       <li>PRON: juos, jų, jie, mes, mus, mums, kurie, jiems, jus, kuriuos</li>
       <li>PROPN: Atėnuose, Sovietų, Vakarų, Atėnus, Dionizijų, Faidonais, Faidrais, Kritonais, Rytų, Vakarai</li>
+      <li>VERB-Conv: atsižvelgdamos, pasmerkdami</li>
       <li>VERB-Fin: gali, turi, analizuoja, draudžiame, gyvename, žinome, Grįžkime, Lukterėkime, Matote, Nedrįskite</li>
       <li>VERB-Part: vadinami, girdėję, pastebimi, apibrėžimas, apsuptose, atidarę, dedamus, fiksuoti, gaminami, gerbtinų</li>
-      <li>VERB-PartPus: atsižvelgdamos, pasmerkdami</li>
     </ul>
   </li>
 </ul>
@@ -247,10 +247,10 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
       <li>NUM: vieną, šimtą</li>
       <li>PRON: jis, ji, to, kuris, jo, man, ją, nieko, aš, jį</li>
       <li>PROPN: Lietuvos, Strepsiado, Sokratas, Sokrato, Europos, Strepsiadas, Rusijos, Tu-154, Aristofano, Lietuva</li>
+      <li>VERB-Conv: duodama, apsijuokdamas, keldamas, nesakoma, nesikurdama, neturėdama</li>
       <li>VERB-Fin: gali, negali, sako, žino, bando, dera, dūstu, kalba, nėra, reikia</li>
       <li>VERB-Inf: nesiseka, nesutinku</li>
       <li>VERB-Part: grįžtamasis, laikomas, paskelbta, skirtas, sudužusio, žinojęs, Mąstanti, Pradėjęs, aplamdytą, apsemtų</li>
-      <li>VERB-PartPus: duodama, apsijuokdamas, keldamas, nesakoma, nesikurdama, neturėdama</li>
     </ul>
   </li>
 </ul>
@@ -423,10 +423,10 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
       <li>CCONJ: ne, nei</li>
       <li>NOUN: nedaugelis, nepriklausomybė, nepriklausomybę, nelietuviai, nenuolaidumas, nenuolaidumą, nepasitenkinimu, nepasitikėjimu, nepriklausomybės, nesutarimai</li>
       <li>PART: ne, nė</li>
+      <li>VERB-Conv: nesakoma, nesikurdama, neturėdama</li>
       <li>VERB-Fin: nėra, negali, neapėmė, nemėgsta, nesiskiria, Nedrįskite, Nesame, Nesinori, Neturėtume, neapkenčia</li>
       <li>VERB-Inf: negirdėti, nematyti, nemėgti, nepalyginti, nepasitikėti, nepastebėti, nereflektuoti, nesiseka, nesiūlyti, nesutikti</li>
       <li>VERB-Part: laikąs, neapkenčianti, neartikuliuotas, neatsižvelgiąs, negalima, neišnykusios, neleistina, nemokančių, nenorinčiose, nepažeistus</li>
-      <li>VERB-PartPus: nesakoma, nesikurdama, neturėdama</li>
     </ul>
   </li>
 </ul>
@@ -438,25 +438,17 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
       <li>AUX-Fin: buvo, yra, būtų, būna, esu, bus, Esame, būsime</li>
       <li>AUX-Inf: būti</li>
       <li>AUX-Part: Esama, esą, esąs</li>
+      <li>VERB-Conv: duodama, apsijuokdamas, atsižvelgdamos, keldamas, pasmerkdami</li>
       <li>VERB-Fin: gali, turi, sako, žino, analizuoja, bando, dera, dūstu, gyvena, kalba</li>
+      <li>VERB-Ger: paėmus, Remiantis, atgaunant, ištaisyt, pabrėžiant, pagalvojus, puldinėt, sakant, sekant, įskaitant</li>
       <li>VERB-Inf: būti, mylėti, turėti, vadinti, atsirasti, diskriminuoti, gaminti, padaryti, pagaminti, remti</li>
       <li>VERB-Part: vadinami, žinoma, galima, bandoma, girdėję, grįžtamasis, laikomas, paskelbta, pastebimi, skirtas</li>
-      <li>VERB-PartPad: paėmus, Remiantis, atgaunant, ištaisyt, pabrėžiant, pagalvojus, puldinėt, sakant, sekant, įskaitant</li>
-      <li>VERB-PartPus: duodama, apsijuokdamas, atsižvelgdamos, keldamas, pasmerkdami</li>
     </ul>
   </li>
 </ul>
 
 <ul>
   <li><a>Variant</a></li>
-</ul>
-
-<ul>
-  <li>Full
-    <ul>
-      <li>VERB-Part: Mąstanti, atitinkančios, kalbančiu, mylinčių, mąstančiam, neapkenčianti, nenorinčiose, nereflektuojantis, nesibaigiantis, nutrinanti</li>
-    </ul>
-  </li>
 </ul>
 
 <ul>
@@ -470,6 +462,28 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
 <h3>Verbal Features</h3>
 
 
+<ul>
+  <li><a>Aspect</a></li>
+</ul>
+
+<ul>
+  <li>Hab
+    <ul>
+      <li>AUX-Fin: nebūna</li>
+      <li>VERB-Fin: būna, išbrokuodavo, pasisakydavau, sakydavome, tikrindavo, įrašinėdavo</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Perf
+    <ul>
+      <li>VERB-Fin: Sakiau, kovėsi</li>
+      <li>VERB-Ger: paėmus, pagalvojus</li>
+      <li>VERB-Part: sudužusio, žinojęs, Pradėjęs, atidarę, dirbusio, dirbęs, girdėję, ištraukę, kalbėjęs, kilęs</li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Mood</a></li>
@@ -503,6 +517,14 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
 </ul>
 
 <ul>
+  <li>Nec
+    <ul>
+      <li>VERB-Part: Būtina, baustinas, gerbtinų, leistinas, neleistina, nepriimtina, priimtinas, sektinų</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Tense</a></li>
 </ul>
 
@@ -520,25 +542,8 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
     <ul>
       <li>AUX-Fin: buvo, nebuvo</li>
       <li>VERB-Fin: lėmė, pasakojo, atsirado, galėjo, gamino, gavo, liko, neapėmė, norėjo, pasirinko</li>
-      <li>VERB-Part: paskelbta, skirtas, aplamdytą, apsemtų, apsuptose, atmesta, atsakyta, atsiradusi, baigta, buvęs</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>PastIter
-    <ul>
-      <li>VERB-Fin: išbrokuodavo, pasisakydavau, sakydavome, tikrindavo, įrašinėdavo</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>PastSimp
-    <ul>
-      <li>VERB-Fin: Sakiau, kovėsi</li>
-      <li>VERB-Part: sudužusio, žinojęs, Pradėjęs, atidarę, dirbusio, dirbęs, girdėję, ištraukę, kalbėjęs, kilęs</li>
-      <li>VERB-PartPad: paėmus, pagalvojus</li>
+      <li>VERB-Ger: paėmus, pagalvojus</li>
+      <li>VERB-Part: girdėję, paskelbta, skirtas, sudužusio, žinojęs, Pradėjęs, aplamdytą, apsemtų, apsuptose, atidarę</li>
     </ul>
   </li>
 </ul>
@@ -546,21 +551,12 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: yra, nėra, būna, esu, Esame, nesame</li>
+      <li>AUX-Fin: yra, nėra, būna, esu, Esame, nebūna, nesame</li>
       <li>AUX-Part: Esama, esą, esąs</li>
       <li>VERB-Fin: gali, turi, negali, nėra, sako, žino, analizuoja, dera, dūstu, gyvena</li>
+      <li>VERB-Ger: Remiantis, atgaunant, ištaisyt, pabrėžiant, puldinėt, sakant, sekant, įskaitant</li>
       <li>VERB-Inf: nesiseka, nesutinku</li>
       <li>VERB-Part: vadinami, žinoma, galima, bandoma, grįžtamasis, laikomas, pastebimi, Kalbama, Mąstanti, apibrėžimas</li>
-      <li>VERB-PartPad: Remiantis, atgaunant, ištaisyt, pabrėžiant, puldinėt, sakant, sekant, įskaitant</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>PresHab
-    <ul>
-      <li>AUX-Fin: nebūna</li>
-      <li>VERB-Fin: būna</li>
     </ul>
   </li>
 </ul>
@@ -575,19 +571,11 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
       <li>AUX-Fin: buvo, yra, nėra, būtų, nebūtų, būna, esu, nebuvo, bus, Esame</li>
       <li>AUX-Inf: būti</li>
       <li>AUX-Part: esą, esąs</li>
+      <li>VERB-Conv: duodama, apsijuokdamas, atsižvelgdamos, keldamas, nesakoma, nesikurdama, neturėdama, pasmerkdami</li>
       <li>VERB-Fin: gali, turi, negali, nėra, sako, žino, analizuoja, bando, dera, dūstu</li>
+      <li>VERB-Ger: paėmus, atgaunant, ištaisyt, pabrėžiant, pagalvojus, puldinėt, sakant, sekant, įskaitant</li>
       <li>VERB-Inf: būti, mylėti, turėti, vadinti, atsirasti, diskriminuoti, gaminti, padaryti, pagaminti, remti</li>
       <li>VERB-Part: vadinami, girdėję, sudužusio, žinojęs, Mąstanti, Pradėjęs, aplamdytą, apsuptose, atidarę, atitinkančios</li>
-      <li>VERB-PartPad: paėmus, atgaunant, ištaisyt, pabrėžiant, pagalvojus, puldinėt, sakant, sekant, įskaitant</li>
-      <li>VERB-PartPus: duodama, apsijuokdamas, atsižvelgdamos, keldamas, nesakoma, nesikurdama, neturėdama, pasmerkdami</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Necess
-    <ul>
-      <li>VERB-Part: Būtina, baustinas, gerbtinų, leistinas, neleistina, nepriimtina, priimtinas, sektinų</li>
     </ul>
   </li>
 </ul>
@@ -614,29 +602,14 @@ A pilot version which includes news and an essay by Tomas Venclova is available 
 </ul>
 
 <ul>
-  <li>No
-    <ul>
-      <li>AUX-Fin: buvo, yra, nėra, būtų, nebūtų, būna, esu, nebuvo, bus, Esame</li>
-      <li>AUX-Inf: būti</li>
-      <li>AUX-Part: Esama, esą, esąs</li>
-      <li>VERB-Fin: gali, turi, negali, nėra, sako, žino, analizuoja, bando, dera, dūstu</li>
-      <li>VERB-Inf: būti, mylėti, turėti, vadinti, atsirasti, diskriminuoti, gaminti, padaryti, pagaminti, remti</li>
-      <li>VERB-Part: vadinami, žinoma, galima, bandoma, girdėję, grįžtamasis, laikomas, paskelbta, pastebimi, skirtas</li>
-      <li>VERB-PartPad: paėmus, atgaunant, ištaisyt, pabrėžiant, pagalvojus, puldinėt, sakant, sekant, įskaitant</li>
-      <li>VERB-PartPus: duodama, keldamas, nesakoma, neturėdama, pasmerkdami</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li>Yes
     <ul>
       <li>NOUN: atsitvėrimas, nepasitenkinimu, nepasitikėjimu, nusiteikimas, pasiklausymo, pasirinkimo, įsijungimas</li>
+      <li>VERB-Conv: apsijuokdamas, atsižvelgdamos, nesikurdama</li>
       <li>VERB-Fin: darosi, nesiskiria, skiriasi, Nesinori, apsigynėme, apsiribokime, atsiliepia, atsiras, atsitinka, auga</li>
+      <li>VERB-Ger: Remiantis</li>
       <li>VERB-Inf: destalinizuotis, didžiuotis, keistis, mokytis, nesiseka, nesiūlyti, skaitytis, susidurti, tikėtis, vadintis</li>
       <li>VERB-Part: atsiradusi, laikąs, neatsižvelgiąs, nesibaigiantis, nusipelnęs, pasitaikę</li>
-      <li>VERB-PartPad: Remiantis</li>
-      <li>VERB-PartPus: apsijuokdamas, atsižvelgdamos, nesikurdama</li>
     </ul>
   </li>
 </ul>
@@ -703,6 +676,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
+      <li>VERB-Conv--PRON-Nom (1)</li>
       <li>VERB-Fin--NOUN-Acc (1)</li>
       <li>VERB-Fin--NOUN-Dat (1)</li>
       <li>VERB-Fin--NOUN-Gen (10)</li>
@@ -711,14 +685,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Acc (1)</li>
       <li>VERB-Fin--PRON-Gen (2)</li>
       <li>VERB-Fin--PRON-Nom (57)</li>
+      <li>VERB-Ger--NOUN-Nom (1)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
       <li>VERB-Inf--NOUN-Nom (2)</li>
       <li>VERB-Part--NOUN-Gen (3)</li>
       <li>VERB-Part--NOUN-Nom (25)</li>
       <li>VERB-Part--PRON-Gen (1)</li>
       <li>VERB-Part--PRON-Nom (7)</li>
-      <li>VERB-PartPad--NOUN-Nom (1)</li>
-      <li>VERB-PartPus--PRON-Nom (1)</li>
     </ul>
   </li>
 </ul>
@@ -726,6 +699,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
+      <li>VERB-Conv--NOUN-Acc (1)</li>
+      <li>VERB-Conv--NOUN-Gen (1)</li>
+      <li>VERB-Conv--PRON-Acc (1)</li>
       <li>VERB-Fin--NOUN-Acc (66)</li>
       <li>VERB-Fin--NOUN-Dat (3)</li>
       <li>VERB-Fin--NOUN-Gen (22)</li>
@@ -735,6 +711,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Acc (17)</li>
       <li>VERB-Fin--PRON-Dat (2)</li>
       <li>VERB-Fin--PRON-Gen (4)</li>
+      <li>VERB-Ger--NOUN-Acc (3)</li>
+      <li>VERB-Ger--NOUN-Ins (1)</li>
+      <li>VERB-Ger--PRON-Acc (2)</li>
       <li>VERB-Inf--NOUN-Acc (28)</li>
       <li>VERB-Inf--NOUN-Gen (8)</li>
       <li>VERB-Inf--NOUN-Ins (3)</li>
@@ -750,12 +729,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Nom (1)</li>
       <li>VERB-Part--PRON-Acc (3)</li>
       <li>VERB-Part--PRON-Gen (4)</li>
-      <li>VERB-PartPad--NOUN-Acc (3)</li>
-      <li>VERB-PartPad--NOUN-Ins (1)</li>
-      <li>VERB-PartPad--PRON-Acc (2)</li>
-      <li>VERB-PartPus--NOUN-Acc (1)</li>
-      <li>VERB-PartPus--NOUN-Gen (1)</li>
-      <li>VERB-PartPus--PRON-Acc (1)</li>
     </ul>
   </li>
 </ul>
@@ -763,6 +736,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
+      <li>VERB-Conv--NOUN-Dat (1)</li>
+      <li>VERB-Conv--PRON-Dat (1)</li>
       <li>VERB-Fin--NOUN-Dat (6)</li>
       <li>VERB-Fin--NOUN-Ins (7)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
@@ -776,8 +751,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Ins (8)</li>
       <li>VERB-Part--NOUN-Nom (1)</li>
       <li>VERB-Part--PRON-Dat (2)</li>
-      <li>VERB-PartPus--NOUN-Dat (1)</li>
-      <li>VERB-PartPus--PRON-Dat (1)</li>
     </ul>
   </li>
 </ul>
@@ -787,7 +760,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 1 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: k​l​i​u​d​y​t​i​ ​n​e​p​a​s​i​t​i​k​ė​j​i​m​u</li>
+  <li>This corpus contains 1 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: kliudyti nepasitikėjimu</li>
 </ul>
 
 <h3>Relations Overview</h3>

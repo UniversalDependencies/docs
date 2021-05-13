@@ -25,10 +25,10 @@ The following 9 pairs of parts of speech are connected with `obj`: <tt><a href="
 1	Эжын	эжын	NOUN	_	Case=Nom	3	nsubj	_	_
 2	гэртээ	гэр	NOUN	_	Case=Dat|Reflex=Yes	3	nmod	_	_
 3	ерэхэдэнь	ерэ	VERB	_	Case=Dat|Number[psor]=Sing|Person[psor]=3|VerbForm=Ger	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	3	punct	_	_
+4	,	,	PUNCT	_	_	7	punct	_	_
 5	аба	аба	NOUN	_	Case=Nom	7	nsubj	_	_
 6	кофе	кофе	NOUN	_	Case=Nom	7	obj	_	_
-7	шанажа	шана	VERB	_	VerbForm=Coverb	3	advcl	_	_
+7	шанажа	шана	VERB	_	VerbForm=Inf	3	advcl	_	_
 8	байгаа	бай	AUX	_	_	7	aux	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -44,11 +44,11 @@ The following 9 pairs of parts of speech are connected with `obj`: <tt><a href="
 1	Би	би	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	тэрээндэ	тэрэ	PRON	_	Case=Dat|PronType=Dem	3	obj	_	_
 3	хэлээб	хэ	VERB	_	Mood=Des|Number=Sing|Person=1|Voice=Rcp	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	3	punct	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
 5	уһан	уһан	NOUN	_	Case=Nom	6	nsubj	_	_
-6	бусалжа	бусал	VERB	_	VerbForm=Coverb	3	ccomp	_	_
-7	байна	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	6	aux	_	_
-8	гэжэ	гэ	VERB	_	VerbForm=Coverb	6	discourse	_	SpaceAfter=No
+6	бусалжа	бусал	VERB	_	VerbForm=Inf	3	ccomp	_	_
+7	байна	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+8	гэжэ	гэ	VERB	_	VerbForm=Inf	6	discourse	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~

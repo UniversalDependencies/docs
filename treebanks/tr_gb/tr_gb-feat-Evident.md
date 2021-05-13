@@ -18,13 +18,13 @@ The feature is used with 2 part-of-speech tags: <tt><a href="tr_gb-pos-VERB.html
 
 402 <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> tokens (13% of all `VERB` tokens) have a non-empty value of `Evident`.
 
-The most frequent other feature values with which `VERB` and `Evident` co-occurred: <tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (394; 98%), <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (394; 98%), <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (392; 98%), <tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (367; 91%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (352; 88%), <tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (337; 84%), <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (331; 82%), <tt><a href="tr_gb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (330; 82%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (265; 66%), <tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt> (247; 61%).
+The most frequent other feature values with which `VERB` and `Evident` co-occurred: <tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (394; 98%), <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (394; 98%), <tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (393; 98%), <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (392; 98%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (352; 88%), <tt><a href="tr_gb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (337; 84%), <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (331; 82%), <tt><a href="tr_gb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (330; 82%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (265; 66%), <tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt> (247; 61%).
 
 `VERB` tokens may have the following values of `Evident`:
 
 * `Fh` (49; 12% of non-empty `Evident`): <em>geleceğine, aldı, bayılıyor, getirdiler, korkuyor, pişiriyoruz, sanıyor, Yaparım, aldım, aradı</em>
 * `Nfh` (353; 88% of non-empty `Evident`): <em>görmüş, gitmiş, bitirmiş, okumuş, yapmış, gelmişler, istemiş, isteniyormuş, olmuş, tanışmışlar</em>
-* `EMPTY` (2684): <em>geldi, gitmek, gerekiyor, istiyor, söyledi, geçen, çalışıyor, ediyorum, gidiyor, gitti</em>
+* `EMPTY` (2683): <em>geldi, gitmek, gerekiyor, istiyor, söyledi, geçen, çalışıyor, ediyorum, gidiyor, gitti</em>
 
 <table>
   <tr><th>Paradigm <i>git</i></th><th><tt>Nfh</tt></th><th><tt>Fh</tt></th></tr>

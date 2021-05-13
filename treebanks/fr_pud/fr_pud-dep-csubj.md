@@ -23,13 +23,13 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 csubj	color:blue
-1	Il	il	PRON	PRP	Gender=Masc|Number=Sing|Person=3	3	expl:subj	_	wordform=il
+1	Il	il	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	wordform=il
 2	est	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	difficile	difficile	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
 4	de	de	ADP	IN	_	5	mark	_	_
 5	penser	penser	VERB	VB	VerbForm=Inf	3	csubj	_	_
 6	que	que	SCONJ	IN	_	9	mark	_	_
-7	l'	le	DET	DT	Gender=Fem|Number=Sing	8	det	_	SpaceAfter=No
+7	l'	le	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
 8	Italie	Italie	PROPN	NNP	Gender=Fem|Number=Sing	9	nsubj	_	_
 9	a	avoir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
 10	moins	moins	ADV	RBR	_	12	advmod	_	_
@@ -58,7 +58,7 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 4	,	,	PUNCT	,	_	3	punct	_	_
 5	fulminer	fulminer	VERB	VB	VerbForm=Inf	9	csubj	_	_
 6	contre	contre	ADP	IN	_	8	case	_	_
-7	le	le	DET	DT	Gender=Masc|Number=Sing	8	det	_	_
+7	le	le	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	commerce	commerce	NOUN	NN	Gender=Masc|Number=Sing	5	obl	_	_
 9	a	avoir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	tout	tout	ADJ	PDT	Gender=Masc|Number=Sing	12	amod	_	_
@@ -76,7 +76,7 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 14	fgColor:white
 # visual-style 14 7 csubj	color:blue
 1	«	«	PUNCT	``	_	3	punct	_	_
-2	Je	il	PRON	PRP	Number=Sing|Person=1	3	nsubj	_	wordform=je
+2	Je	il	PRON	PRP	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	wordform=je
 3	dois	devoir	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	féliciter	féliciter	VERB	VB	VerbForm=Inf	3	xcomp	_	_
 5	Andy	Andy	PROPN	NNP	Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
@@ -93,7 +93,7 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 16	,	,	PUNCT	,	_	3	punct	_	_
 17	a	avoir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux:tense	_	_
 18	constaté	constater	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	parataxis	_	_
-19	l’	le	DET	DT	Gender=Masc|Number=Sing	20	det	_	SpaceAfter=No|wordform=l'
+19	l’	le	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	SpaceAfter=No|wordform=l'
 20	américain	américain	NOUN	NN	Gender=Masc|Number=Sing	18	nsubj	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	18	punct	_	_
 

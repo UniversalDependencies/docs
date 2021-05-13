@@ -34,7 +34,7 @@ The following 23 pairs of parts of speech are connected with `acl`: <tt><a href=
 10	na	na	ADP	Sa	Case=Acc	12	case	_	Dep=12|Rel=Atr
 11	ta	ta	DET	Pd-msa	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	12	det	_	Dep=12|Rel=Atr
 12	narod	narod	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obl	_	SpaceAfter=No|Dep=9|Rel=AdvO
-13	.	.	PUNCT	Z	_	5	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+13	.	.	PUNCT	Z	_	5	punct	_	Dep=0|Rel=Root
 
 ~~~
 

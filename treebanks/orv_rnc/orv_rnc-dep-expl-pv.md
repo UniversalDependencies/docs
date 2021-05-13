@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of expl:pv in UD_Old_Russian-RNC'
+title:  'Statistics of expl:pv in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Relations: `expl:pv`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Relations: `expl:pv`
 
 This relation is a language-specific subtype of <tt><a href="orv_rnc-dep-expl.html">expl</a></tt>.
 

@@ -65,7 +65,7 @@ The following 8 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 11	قانون	قانون	NOUN	N_SING	Number=Sing	12	nsubj	_	_
 12	نقض	نقض	NOUN	N_SING	Number=Sing	10	ccomp	_	_
 13	بشود	کرد#کن	AUX	V_SUB	Mood=Sub|Number=Sing|Person=3|Tense=Pres	12	cop	_	SpaceAfter=No
-14	؛	؛	PUNCT	DELM	_	12	punct	_	_
+14	؛	؛	PUNCT	DELM	_	17	punct	_	_
 15	چه	چه	SCONJ	CON	_	16	cc:preconj	_	_
 16	توسط	توسط	ADP	P	_	17	case	_	_
 17	خود	خود	PRON	PRO	Number=Sing|Person=3|PronType=Prs|Reflex=Yes	12	nmod	_	_
@@ -87,7 +87,7 @@ The following 8 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 4	fgColor:white
 # visual-style 4 3 cc:preconj	color:blue
 1	تو	تو	PRON	PRO	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	SpaceAfter=No
-2	،	،	PUNCT	DELM	_	4	punct	_	_
+2	،	،	PUNCT	DELM	_	1	punct	_	_
 3	هم	هم	SCONJ	CON	_	4	cc:preconj	_	_
 4	میخانه	میخانه	NOUN	N_SING	Number=Sing	0	root	_	_
 5	ما	ما	PRON	PRO	Number=Plur|Person=1|PronType=Prs	4	nmod:poss	_	_

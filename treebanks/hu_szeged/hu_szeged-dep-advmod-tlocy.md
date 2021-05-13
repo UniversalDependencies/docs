@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Hungarian-Szeged: Relations: `advmod:tlocy`
 
 This relation is a language-specific subtype of <tt><a href="hu_szeged-dep-advmod.html">advmod</a></tt>.
-There are also 7 other language-specific subtypes of `advmod`: <tt><a href="hu_szeged-dep-advmod-locy.html">advmod:locy</a></tt>, <tt><a href="hu_szeged-dep-advmod-mode.html">advmod:mode</a></tt>, <tt><a href="hu_szeged-dep-advmod-obl.html">advmod:obl</a></tt>, <tt><a href="hu_szeged-dep-advmod-que.html">advmod:que</a></tt>, <tt><a href="hu_szeged-dep-advmod-tfrom.html">advmod:tfrom</a></tt>, <tt><a href="hu_szeged-dep-advmod-to.html">advmod:to</a></tt>, <tt><a href="hu_szeged-dep-advmod-tto.html">advmod:tto</a></tt>.
+There are also 6 other language-specific subtypes of `advmod`: <tt><a href="hu_szeged-dep-advmod-locy.html">advmod:locy</a></tt>, <tt><a href="hu_szeged-dep-advmod-mode.html">advmod:mode</a></tt>, <tt><a href="hu_szeged-dep-advmod-que.html">advmod:que</a></tt>, <tt><a href="hu_szeged-dep-advmod-tfrom.html">advmod:tfrom</a></tt>, <tt><a href="hu_szeged-dep-advmod-to.html">advmod:to</a></tt>, <tt><a href="hu_szeged-dep-advmod-tto.html">advmod:tto</a></tt>.
 
 746 nodes (2%) are attached to their parents as `advmod:tlocy`.
 
@@ -23,11 +23,11 @@ The following 12 pairs of parts of speech are connected with `advmod:tlocy`: <tt
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 advmod:tlocy	color:blue
-1	Ezt	ez	PRON	_	Case=Acc|Number=Sing|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|PronType=Dem	3	obj	_	_
+1	Ezt	ez	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	obj	_	_
 2	este	este	ADV	_	_	3	advmod:tlocy	_	_
 3	visszavonta	vissza+von	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	a	a	DET	_	Definite=Def|PronType=Art	5	det	_	_
-5	cég	cég	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	3	nsubj	_	SpaceAfter=No
+5	cég	cég	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -42,12 +42,12 @@ The following 12 pairs of parts of speech are connected with `advmod:tlocy`: <tt
 1	—	—	PUNCT	_	_	9	punct	_	_
 2	Ma	ma	ADV	_	_	9	advmod:tlocy	_	_
 3	a	a	DET	_	Definite=Def|PronType=Art	5	det	_	_
-4	kortárs	kortárs	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	5	nmod:att	_	_
-5	zenére	zene	NOUN	_	Case=Sub|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	9	nmod:obl	_	_
+4	kortárs	kortárs	NOUN	_	Case=Nom|Number=Sing	5	nmod:att	_	_
+5	zenére	zene	NOUN	_	Case=Sub|Number=Sing	9	obl	_	_
 6	nagyon	nagyon	ADV	_	_	7	advmod:mode	_	_
-7	szűk	szűk	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	8	amod:att	_	_
-8	réteg	réteg	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	9	nsubj	_	_
-9	kíváncsi	kíváncsi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	0	root	_	SpaceAfter=No
+7	szűk	szűk	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	8	amod:att	_	_
+8	réteg	réteg	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	_
+9	kíváncsi	kíváncsi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	_	_
 
 ~~~
@@ -61,10 +61,10 @@ The following 12 pairs of parts of speech are connected with `advmod:tlocy`: <tt
 # visual-style 3 1 advmod:tlocy	color:blue
 1	Akkor	akkor	ADV	_	PronType=Dem	3	advmod:tlocy	_	_
 2	már	már	ADV	_	_	3	advmod:tlocy	_	_
-3	diligyógyász	diligyógyász	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	0	root	_	_
+3	diligyógyász	diligyógyász	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 4	volt	van	AUX	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	_
 5	a	a	DET	_	Definite=Def|PronType=Art	6	det	_	_
-6	Lipótmezőn	Lipótmező	PROPN	_	Case=Sup|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	3	nmod:obl	_	SpaceAfter=No
+6	Lipótmezőn	Lipótmező	PROPN	_	Case=Sup|Number=Sing	3	nmod:obl	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~

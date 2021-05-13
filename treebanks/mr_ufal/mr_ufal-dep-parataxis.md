@@ -42,7 +42,7 @@ The following 13 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 5	fgColor:white
 # visual-style 5 12 parataxis	color:blue
 1	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
-2	हे	हा	DET	_	Distance=Prox|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	_
+2	हे	हा	DET	_	Deixis=Prox|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	_
 3	म्हातारे	म्हातारा	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	4	amod	_	_
 4	शेतकरी	शेतकरी	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
 5	साक्षीदार	साक्षीदार	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
@@ -69,7 +69,7 @@ The following 13 pairs of parts of speech are connected with `parataxis`: <tt><a
 3	मेले	मेला	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	_	_	3	punct	_	SpaceAfter=No
 5	"	"	PUNCT	_	_	3	punct	_	_
-6	म्हाताऱ्या	म्हातारा	ADJ	_	Case=Obl	7	amod	_	_
+6	म्हाताऱ्या	म्हातारा	ADJ	_	Case=Abs	7	amod	_	_
 7	गुरवाने	गुरव	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	8	nsubj	_	_
 8	विचारले	विचारणे	VERB	_	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|VerbForm=Fin	3	parataxis	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	_

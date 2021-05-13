@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>gud</em> (<tt><a href="sv_lines-pos-N
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.109643 (the average of all parts of speech is 1.416999).
+The form / lemma ratio of `PROPN` is 1.109643 (the average of all parts of speech is 1.416904).
 
 The 1st highest number of forms (3) was observed with the lemma “Bray”: <em>BRAY, Bray, Brays</em>.
 

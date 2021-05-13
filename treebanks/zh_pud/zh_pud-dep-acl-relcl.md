@@ -31,7 +31,7 @@ The following 16 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 7	國會山	_	PROPN	NNP	_	9	compound	_	SpaceAfter=No|Translit=guóhuìshān
 8	任職	_	NOUN	NN	_	9	compound	_	SpaceAfter=No|Translit=rènzhí
 9	變遷	_	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=biànqiān
-10	的	_	PART	DEC	_	6	mark:relcl	_	SpaceAfter=No|Translit=de
+10	的	_	PART	DEC	_	6	mark:rel	_	SpaceAfter=No|Translit=de
 11	人	_	NOUN	NN	_	13	obl	_	SpaceAfter=No|Translit=rén
 12	而	_	ADV	RB	_	13	advmod	_	SpaceAfter=No|Translit='ér
 13	言	_	VERB	VV	_	21	advcl	_	SpaceAfter=No|Translit=yán
@@ -64,7 +64,7 @@ The following 16 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 8	兩	_	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=liǎng
 9	歲	_	NOUN	NNB	_	10	obl:tmod	_	SpaceAfter=No|Translit=suì
 10	大	_	ADJ	JJ	_	12	acl:relcl	_	SpaceAfter=No|Translit=dà
-11	的	_	PART	DEC	_	10	mark:relcl	_	SpaceAfter=No|Translit=de
+11	的	_	PART	DEC	_	10	mark:rel	_	SpaceAfter=No|Translit=de
 12	女兒	_	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=nǚr
 13	。	_	PUNCT	.	_	4	punct	_	Translit=。
 
@@ -85,7 +85,7 @@ The following 16 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 6	打	_	AUX	VV	_	8	cop	_	SpaceAfter=No|Translit=dǎ
 7	得	_	PART	DEV	_	8	mark:prt	_	SpaceAfter=No|Translit=de
 8	很爛	_	ADJ	JJ	_	3	ccomp	_	SpaceAfter=No|Translit=hěnlàn
-9	的	_	PART	DEC	_	3	mark:relcl	_	SpaceAfter=No|Translit=de
+9	的	_	PART	DEC	_	3	mark:rel	_	SpaceAfter=No|Translit=de
 10	澳大利亞人	_	PROPN	NNP	_	13	nsubj	_	SpaceAfter=No|Translit=澳dàlìyàrén
 11	蒙混	_	VERB	VV	_	13	advcl	_	SpaceAfter=No|Translit=ménghùn
 12	過關	_	VERB	VV	_	13	advcl	_	SpaceAfter=No|Translit=guòguān

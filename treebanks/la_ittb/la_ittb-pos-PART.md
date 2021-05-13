@@ -37,7 +37,7 @@ The 10 most frequent ambiguous types:  <em>non</em> (<tt><a href="la_ittb-pos-PA
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.250000 (the average of all parts of speech is 3.432157).
+The form / lemma ratio of `PART` is 1.250000 (the average of all parts of speech is 3.291705).
 
 The 1st highest number of forms (2) was observed with the lemma “nam”: <em>nam, namque</em>.
 
@@ -56,9 +56,9 @@ Examples: <em>non, ne</em>
 
 ## Relations
 
-`PART` nodes are attached to their parents using 9 different relations: <tt><a href="la_ittb-dep-advmod.html">advmod</a></tt> (7333; 78% instances), <tt><a href="la_ittb-dep-advmod-neg.html">advmod:neg</a></tt> (1661; 18% instances), <tt><a href="la_ittb-dep-discourse.html">discourse</a></tt> (290; 3% instances), <tt><a href="la_ittb-dep-conj.html">conj</a></tt> (72; 1% instances), <tt><a href="la_ittb-dep-orphan.html">orphan</a></tt> (41; 0% instances), <tt><a href="la_ittb-dep-root.html">root</a></tt> (28; 0% instances), <tt><a href="la_ittb-dep-advcl.html">advcl</a></tt> (14; 0% instances), <tt><a href="la_ittb-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="la_ittb-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+`PART` nodes are attached to their parents using 9 different relations: <tt><a href="la_ittb-dep-advmod.html">advmod</a></tt> (7332; 78% instances), <tt><a href="la_ittb-dep-advmod-neg.html">advmod:neg</a></tt> (1662; 18% instances), <tt><a href="la_ittb-dep-discourse.html">discourse</a></tt> (290; 3% instances), <tt><a href="la_ittb-dep-conj.html">conj</a></tt> (72; 1% instances), <tt><a href="la_ittb-dep-orphan.html">orphan</a></tt> (41; 0% instances), <tt><a href="la_ittb-dep-root.html">root</a></tt> (28; 0% instances), <tt><a href="la_ittb-dep-advcl.html">advcl</a></tt> (14; 0% instances), <tt><a href="la_ittb-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="la_ittb-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 12 different parts of speech: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (6229; 66% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (1393; 15% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (678; 7% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (675; 7% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (285; 3% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (69; 1% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (46; 0% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (34; 0% instances),  (28; 0% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 12 different parts of speech: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (6228; 66% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (1394; 15% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (678; 7% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (675; 7% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (285; 3% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (69; 1% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (46; 0% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (34; 0% instances),  (28; 0% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
 
 9151 (97%) `PART` nodes are leaves.
 

@@ -9,32 +9,32 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-1991 tokens (1%) have a non-empty value of `Polarity`.
-7 types (0%) occur at least once with a non-empty value of `Polarity`.
+1994 tokens (1%) have a non-empty value of `Polarity`.
+5 types (0%) occur at least once with a non-empty value of `Polarity`.
 4 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 4 part-of-speech tags: <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (1893; 1% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (74; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (19; 0% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (5; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (1897; 1% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (73; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (19; 0% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (5; 0% instances).
 
 ### `PART`
 
-1893 <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> tokens (63% of all `PART` tokens) have a non-empty value of `Polarity`.
+1897 <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> tokens (63% of all `PART` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `PART` and `Polarity` co-occurred: <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (1893; 100%).
+The most frequent other feature values with which `PART` and `Polarity` co-occurred: <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (1897; 100%).
 
 `PART` tokens may have the following values of `Polarity`:
 
-* `Neg` (1893; 100% of non-empty `Polarity`): <em>no, not, don't, n't, didn't</em>
-* `EMPTY` (1117): <em>o, sef, sha, dem, ma, shey, ni, ba, self, nna</em>
+* `Neg` (1897; 100% of non-empty `Polarity`): <em>no, not, n't, don't</em>
+* `EMPTY` (1121): <em>o, sef, sha, dem, ma, shey, ni, ba, self, nna</em>
 
 ### `AUX`
 
-74 <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Polarity`.
+73 <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="pcm_nsc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (74; 100%), <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (74; 100%), <tt><a href="pcm_nsc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (73; 99%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="pcm_nsc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (73; 100%), <tt><a href="pcm_nsc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (73; 100%), <tt><a href="pcm_nsc-feat-PartType.html">PartType</a></tt><tt>=EMPTY</tt> (73; 100%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
-* `Neg` (74; 100% of non-empty `Polarity`): <em>never, shouldn't</em>
-* `EMPTY` (12186): <em>dey, go, na, con, don, be, make, fit, come, meh</em>
+* `Neg` (73; 100% of non-empty `Polarity`): <em>never</em>
+* `EMPTY` (12197): <em>dey, go, na, con, don, be, make, fit, come, meh</em>
 
 ### `INTJ`
 
@@ -54,7 +54,7 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 `DET` tokens may have the following values of `Polarity`:
 
 * `Neg` (5; 100% of non-empty `Polarity`): <em>no</em>
-* `EMPTY` (5657): <em>di, dis, dat, all, one, some, a, dose, any, anoder</em>
+* `EMPTY` (5653): <em>di, dis, dat, all, one, some, a, dose, any, anoder</em>
 
 ## Relations with Agreement in `Polarity`
 

@@ -175,5 +175,5 @@ The most frequent other feature values with which `ADJ` and `Variant` co-occurre
 ## Relations with Agreement in `Variant`
 
 The 10 most frequent relations where parent and child node agree in `Variant`:
-<tt>PRON --[<tt><a href="pl_lfg-dep-aux-aglt.html">aux:aglt</a></tt>]--> AUX</tt> (2; 100%).
+<tt>PRON --[<tt><a href="pl_lfg-dep-aux-clitic.html">aux:clitic</a></tt>]--> AUX</tt> (2; 100%).
 

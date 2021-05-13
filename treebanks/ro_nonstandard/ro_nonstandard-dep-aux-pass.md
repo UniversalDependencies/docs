@@ -23,7 +23,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 4	fgColor:white
 # visual-style 4 5 aux:pass	color:blue
 1	Despre	despre	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	2	case	_	ref=MATT22.16.content
-2	dajdea	dajdie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	nmod:pmod	_	ref=MATT22.16.content
+2	dajdea	dajdie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	obl:pmod	_	ref=MATT22.16.content
 3	împăratului	împărat	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	ref=MATT22.16.content
 4	întrebat	întreba	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	0	root	_	ref=MATT22.16.content
 5	fu	fi	AUX	Vais3s	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	aux:pass	_	ref=MATT22.16.content
@@ -62,7 +62,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 2	nu	nu	ADV	Qz	Polarity=Neg	3	advmod	_	ref=PAVEL_EFES_4.30
 3	întristareți	întrista	VERB	Vmm-2p---l	Mood=Imp|Number=Plur|Person=2|Variant=Long|VerbForm=Fin	0	root	_	ref=PAVEL_EFES_4.30
 4	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	ref=PAVEL_EFES_4.30
-5	Duhul	duh	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	3	nmod:pmod	_	ref=PAVEL_EFES_4.30
+5	Duhul	duh	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	3	obl:pmod	_	ref=PAVEL_EFES_4.30
 6	Sfînt	sfânt	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	ref=PAVEL_EFES_4.30
 7	al	al	DET	Tsmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Art	9	det	_	ref=PAVEL_EFES_4.30
 8	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	9	det	_	ref=PAVEL_EFES_4.30

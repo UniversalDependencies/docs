@@ -59,9 +59,9 @@ The 2nd highest number of forms (1) was observed with the lemma “1165”: <em>
 
 The 3rd highest number of forms (1) was observed with the lemma “1918”: <em>1918</em>.
 
-`X` occurs with 4 features: <tt><a href="pl_pud-feat-Abbr.html">Abbr</a></tt> (154; 67% instances), <tt><a href="pl_pud-feat-Pun.html">Pun</a></tt> (151; 66% instances), <tt><a href="pl_pud-feat-Foreign.html">Foreign</a></tt> (55; 24% instances), <tt><a href="pl_pud-feat-NumForm.html">NumForm</a></tt> (21; 9% instances)
+`X` occurs with 4 features: <tt><a href="pl_pud-feat-Abbr.html">Abbr</a></tt> (154; 67% instances), <tt><a href="pl_pud-feat-Pun.html">Pun</a></tt> (151; 66% instances), <tt><a href="pl_pud-feat-Foreign.html">Foreign</a></tt> (54; 23% instances), <tt><a href="pl_pud-feat-NumForm.html">NumForm</a></tt> (21; 9% instances)
 
-`X` occurs with 6 feature-value pairs: `Abbr=Yes`, `Foreign=No`, `Foreign=Yes`, `NumForm=Digit`, `Pun=No`, `Pun=Yes`
+`X` occurs with 5 feature-value pairs: `Abbr=Yes`, `Foreign=Yes`, `NumForm=Digit`, `Pun=No`, `Pun=Yes`
 
 `X` occurs with 6 feature combinations.
 The most frequent feature combination is `Abbr=Yes|Pun=Yes` (146 tokens).

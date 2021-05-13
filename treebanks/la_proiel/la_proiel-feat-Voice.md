@@ -12,18 +12,18 @@ It occurs with 2 different values: `Act`, `Pass`.
 47474 tokens (24%) have a non-empty value of `Voice`.
 14287 types (49%) occur at least once with a non-empty value of `Voice`.
 2167 lemmas (26%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 2 part-of-speech tags: <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (39627; 20% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (7847; 4% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (39629; 20% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (7845; 4% instances).
 
 ### `VERB`
 
-39627 <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Voice`.
+39629 <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (31358; 79%), <tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (31311; 79%), <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (27132; 68%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23308; 59%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (23105; 58%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="la_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (31360; 79%), <tt><a href="la_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (31313; 79%), <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (27133; 68%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23309; 59%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (23106; 58%).
 
 `VERB` tokens may have the following values of `Voice`:
 
 * `Act` (30100; 76% of non-empty `Voice`): <em>dixit, ait, dicit, dico, venit, dicens, dicentes, habet, dixerunt, misit</em>
-* `Pass` (9527; 24% of non-empty `Voice`): <em>factum, facta, fieri, scriptum, factus, locutus, data, videtur, loqui, dictum</em>
+* `Pass` (9529; 24% of non-empty `Voice`): <em>factum, facta, fieri, scriptum, factus, locutus, data, videtur, loqui, dictum</em>
 * `EMPTY` (1063): <em>faciendum, audiendi, dicendi, scribendo, agendum, serenda, adhibenda, cavendum, dicendum, iurando</em>
 
 <table>
@@ -119,21 +119,20 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 ### `AUX`
 
-7847 <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Voice`.
+7845 <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7043; 90%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (6228; 79%), <tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5997; 76%), <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (5962; 76%), <tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5725; 73%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5124; 65%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="la_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7042; 90%), <tt><a href="la_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (6227; 79%), <tt><a href="la_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5997; 76%), <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (5961; 76%), <tt><a href="la_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (5724; 73%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5123; 65%).
 
 `AUX` tokens may have the following values of `Voice`:
 
 * `Act` (7845; 100% of non-empty `Voice`): <em>est, sunt, esse, erat, sit, sum, esset, erant, fuit, erit</em>
-* `Pass` (2; 0% of non-empty `Voice`): <em>adduceretur, iri</em>
 
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="la_proiel-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (4551; 61%),
+<tt>VERB --[<tt><a href="la_proiel-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (4552; 61%),
 <tt>VERB --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (3840; 78%),
-<tt>VERB --[<tt><a href="la_proiel-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1783; 65%),
+<tt>VERB --[<tt><a href="la_proiel-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1784; 65%),
 <tt>VERB --[<tt><a href="la_proiel-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (1448; 68%),
 <tt>VERB --[<tt><a href="la_proiel-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (262; 77%),
 <tt>VERB --[<tt><a href="la_proiel-dep-obj.html">obj</a></tt>]--> VERB</tt> (230; 73%),

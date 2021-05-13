@@ -46,7 +46,7 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 5	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	Dep=6|Rel=PPart
 6	zamomljal	zamomljati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	Dep=0|Rel=Root
 7	Wunderlich	Wunderlich	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	SpaceAfter=No|Dep=6|Rel=Sb
-8	.	.	PUNCT	Z	_	6	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+8	.	.	PUNCT	Z	_	6	punct	_	Dep=0|Rel=Root
 
 ~~~
 
@@ -67,7 +67,7 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 8	dobro	dober	ADJ	Agpnsa	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	Dep=9|Rel=Atr
 9	delovanje	delovanje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	Dep=6|Rel=Obj
 10	kmetijstva	kmetijstvo	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	SpaceAfter=No|Dep=9|Rel=Atr
-11	.	.	PUNCT	Z	_	6	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+11	.	.	PUNCT	Z	_	6	punct	_	Dep=0|Rel=Root
 
 ~~~
 

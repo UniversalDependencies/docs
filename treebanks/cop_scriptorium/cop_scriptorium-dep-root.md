@@ -49,7 +49,7 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 3 root	color:blue
-1	ⲕⲁⲧⲁ	ⲕⲁⲧⲁ	ADP	PREP	_	3	case	_	_
+1	ⲕⲁⲧⲁ	ⲕⲁⲧⲁ	ADP	PREP	Foreign=Yes	3	case	_	OrigLang=grc
 2	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Orig=ⲑ
 3	ϩⲉ	ϩⲉ	NOUN	N	_	0	root	_	Orig=ⲉ
 4	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	5	mark	_	_

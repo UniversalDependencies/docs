@@ -13,7 +13,7 @@ This relation is universal.
 18411 instances of `root` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 4.90462223670632.
 
-The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (15042; 82% instances), -<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (1049; 6% instances), -<tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (1023; 6% instances), -<tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (343; 2% instances), -<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (324; 2% instances), -<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (232; 1% instances), -<tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (121; 1% instances), -<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (98; 1% instances), -<tt><a href="la_proiel-pos-INTJ.html">INTJ</a></tt> (79; 0% instances), -<tt><a href="la_proiel-pos-X.html">X</a></tt> (57; 0% instances), -<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (43; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (15042; 82% instances), -<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (1036; 6% instances), -<tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (1023; 6% instances), -<tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (343; 2% instances), -<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (324; 2% instances), -<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (232; 1% instances), -<tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (121; 1% instances), -<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (98; 1% instances), -<tt><a href="la_proiel-pos-INTJ.html">INTJ</a></tt> (79; 0% instances), -<tt><a href="la_proiel-pos-X.html">X</a></tt> (57; 0% instances), -<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (43; 0% instances), -<tt><a href="la_proiel-pos-DET.html">DET</a></tt> (13; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 3	exultate	ex(s)ulto	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=MATT_5.12
 4	quoniam	quoniam	SCONJ	G-	_	7	mark	_	ref=MATT_5.12
 5	merces	merces	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	ref=MATT_5.12
-6	vestra	vester	ADJ	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes	5	nmod	_	ref=MATT_5.12
+6	vestra	vester	DET	Ps	Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes	5	det	_	ref=MATT_5.12
 7	copiosa	copiosus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	advcl	_	ref=MATT_5.12
 8	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	ref=MATT_5.12
 9	in	in	ADP	R-	_	10	case	_	ref=MATT_5.12

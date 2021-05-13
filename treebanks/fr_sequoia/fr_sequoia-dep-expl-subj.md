@@ -12,7 +12,7 @@ There are also 2 other language-specific subtypes of `expl`: <tt><a href="fr_seq
 241 nodes (0%) are attached to their parents as `expl:subj`.
 
 224 instances of `expl:subj` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.13278008298755.
+Average distance between parent and child is 2.12033195020747.
 
 The following 6 pairs of parts of speech are connected with `expl:subj`: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (159; 66% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (42; 17% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (29; 12% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (7; 3% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (2; 1% instances).
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Ryan McDonald, Joakim Nivre, Daniel Zeman, Septina Dian Larasati.
 
 Repository: [UD_Indonesian-GSD](https://github.com/UniversalDependencies/UD_Indonesian-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udid_gsd27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udid_gsd28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -67,17 +67,17 @@ http://septinalarasati.com/morphind/).
 
 ## Relations
 
-[acl](id_gsd-dep-acl.html) – [advcl](id_gsd-dep-advcl.html) – [advmod](id_gsd-dep-advmod.html) – [amod](id_gsd-dep-amod.html) – [appos](id_gsd-dep-appos.html) – [aux](id_gsd-dep-aux.html) – [case](id_gsd-dep-case.html) – [cc](id_gsd-dep-cc.html) – [ccomp](id_gsd-dep-ccomp.html) – [compound](id_gsd-dep-compound.html) – [compound:plur](id_gsd-dep-compound-plur.html) – [conj](id_gsd-dep-conj.html) – [cop](id_gsd-dep-cop.html) – [csubj](id_gsd-dep-csubj.html) – [csubj:pass](id_gsd-dep-csubj-pass.html) – [dep](id_gsd-dep-dep.html) – [det](id_gsd-dep-det.html) – [fixed](id_gsd-dep-fixed.html) – [flat](id_gsd-dep-flat.html) – [iobj](id_gsd-dep-iobj.html) – [mark](id_gsd-dep-mark.html) – [nmod](id_gsd-dep-nmod.html) – [nsubj](id_gsd-dep-nsubj.html) – [nsubj:pass](id_gsd-dep-nsubj-pass.html) – [nummod](id_gsd-dep-nummod.html) – [obj](id_gsd-dep-obj.html) – [obl](id_gsd-dep-obl.html) – [parataxis](id_gsd-dep-parataxis.html) – [punct](id_gsd-dep-punct.html) – [root](id_gsd-dep-root.html) – [xcomp](id_gsd-dep-xcomp.html)
+[acl](id_gsd-dep-acl.html) – [advcl](id_gsd-dep-advcl.html) – [advmod](id_gsd-dep-advmod.html) – [amod](id_gsd-dep-amod.html) – [appos](id_gsd-dep-appos.html) – [aux](id_gsd-dep-aux.html) – [case](id_gsd-dep-case.html) – [cc](id_gsd-dep-cc.html) – [ccomp](id_gsd-dep-ccomp.html) – [compound](id_gsd-dep-compound.html) – [conj](id_gsd-dep-conj.html) – [cop](id_gsd-dep-cop.html) – [csubj](id_gsd-dep-csubj.html) – [csubj:pass](id_gsd-dep-csubj-pass.html) – [dep](id_gsd-dep-dep.html) – [det](id_gsd-dep-det.html) – [fixed](id_gsd-dep-fixed.html) – [flat](id_gsd-dep-flat.html) – [iobj](id_gsd-dep-iobj.html) – [mark](id_gsd-dep-mark.html) – [nmod](id_gsd-dep-nmod.html) – [nsubj](id_gsd-dep-nsubj.html) – [nsubj:pass](id_gsd-dep-nsubj-pass.html) – [nummod](id_gsd-dep-nummod.html) – [obj](id_gsd-dep-obj.html) – [obl](id_gsd-dep-obl.html) – [parataxis](id_gsd-dep-parataxis.html) – [punct](id_gsd-dep-punct.html) – [root](id_gsd-dep-root.html) – [xcomp](id_gsd-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 5593 sentences and 121923 tokens.</li>
+<li>This corpus contains 5593 sentences and 120581 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 16358 tokens (13%) that are not followed by a space.</li>
+<li>This corpus contains 16360 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -85,7 +85,7 @@ http://septinalarasati.com/morphind/).
 </ul>
 
 <ul>
-<li>This corpus contains 124 types of words that contain both letters and punctuation. Examples: &amp;, km&amp;sup2, orang-orang, benar-benar, &amp;nbsp, laki-laki, p​e​r​t​a​n​y​a​a​n​-​p​e​r​t​a​n​y​a​a​n, Moody's, Rubik's, berlaksa-laksa, diam-diam, hal-hal, hamba-Ku, kata-kata, tanda-tanda, 14&amp;nbsp, 22&amp;nbsp, 36&amp;nbsp, 40&amp;nbsp, 764&amp;nbsp, Anggota-anggota, Aphrodite's, Assisted_GPS, Bird's, Cinta-Dante-Cahaya, Dosen-dosen, GL_ARB_robustness, GL_EXT_robustness, He's, Heaven's, ID&amp;T, It's, Ja's, Jane's, Levy's, Lloyd's, M&amp;D, Nama-Nya, Negara-negara, P&amp;G, PEI-AISAH, Pepper's, Punk's, Rasul-Nya, Robert's, She's, TV's, Tiba-tiba, Valve's, Vol.</li>
+<li>This corpus contains 421 types of words that contain both letters and punctuation. Examples: orang-orang, masing-masing, &amp;, km&amp;sup2, anak-anak, laki-laki, negara-negara, lagu-lagu, lain-lain, undang-undang, kadang-kadang, tiba-tiba, benar-benar, kata-kata, kitab-kitab, kota-kota, raja-raja, rata-rata, kapal-kapal, kira-kira, sisa-sisa, tempat-tempat, daerah-daerah, hal-hal, karya-karya, kawan-kawan, nama-nama, produk-produk, sekolah-sekolah, tanda-tanda, Jenis-jenis, abu-abu, album-album, bahasa-bahasa, barang-barang, batu-batu, cerita-cerita, gedung-gedung, ilmu-ilmu, isu-isu, kelompok-kelompok, pertanyaan-pertanyaan, tahun-tahun, teks-teks, ucapan-ucapan, unsur-unsur, &amp;nbsp, akhir-akhir, aturan-aturan, ayat-ayat</li>
 </ul>
 
 <ul>
@@ -117,11 +117,11 @@ http://septinalarasati.com/morphind/).
 </ul>
 
 <ul>
-<li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): adalah, ialah, rata</li>
+<li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): adalah, dapat, harus, ialah</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: adalah</li>
+<li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: adalah, dapat, harus</li>
 </ul>
 
 <ul>
@@ -162,11 +162,12 @@ http://septinalarasati.com/morphind/).
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: laki-laki, cuma-cuma, diam-diam</li>
-      <li>ADV: mati-matian, bersama-sama, betul-betul, diam-diam</li>
-      <li>NOUN: orang-orang, p​e​r​t​a​n​y​a​a​n​-​p​e​r​t​a​n​y​a​a​n, hal-hal, kata-kata, tanda-tanda, Anggota-anggota, Dosen-dosen, anjing-anjing, badan-badan, batu-batu</li>
-      <li>PRON: mereka, kita, kami, kalian, anak-anakmu, kamilah, merekapun</li>
-      <li>PROPN: Negara-negara</li>
+      <li>ADJ: abu-abu, lain-lain, laki-laki, rata-rata, betul-betul, cuma-cuma, hidup-hidup, luka-luka, samar-samar, tengah-tengah</li>
+      <li>ADV: kadang-kadang, tiba-tiba, masing-masing, kira-kira, mula-mula, rata-rata, benar-benar, jarang-jarang, mati-matian, sering-sering</li>
+      <li>DET: masing-masing</li>
+      <li>NOUN: orang-orang, anak-anak, laki-laki, negara-negara, kata-kata, kitab-kitab, kota-kota, lagu-lagu, raja-raja, tempat-tempat</li>
+      <li>PRON: mereka, kita, kami, kalian, agar-agar, anak-anakmu, apa-apa, kamilah, merekapun, sendiri-sendiri</li>
+      <li>PROPN: Lagu-lagu, Negara-negara, Nabi-nabi, Raja-Raja, Akhir-akhir, Alat-alat, Alun-Alun, Anak-anak, Argumen-argumen, Ayat-Ayat</li>
       <li>VERB: berlaksa-laksa, orang-orang, berdua-duaan</li>
     </ul>
   </li>
@@ -177,11 +178,11 @@ http://septinalarasati.com/morphind/).
     <ul>
       <li>ADJ: lain, besar, awal, baru, sama, kecil, utama, tinggi, baik, sendiri</li>
       <li>ADP: dalam, tentang, atas, selain, asal, saat, bersama, bagi, mana, melawan</li>
-      <li>ADV: dapat, harus, sudah, kembali, terutama, tetap, mulai, kali, tiba, kurang</li>
-      <li>AUX: rata</li>
+      <li>ADV: dapat, harus, sudah, kembali, terutama, tetap, mulai, kali, kurang, biasa</li>
+      <li>AUX: dapat, harus</li>
       <li>CCONJ: lalu, akibat, mana, baik, melainkan, Stasiun, alias, bersama, saat, sebab</li>
       <li>DET: salah, sebagian, kebanyakan, mayoritas, orang, seekor, sekelompok, banyak, berikut, buah</li>
-      <li>NOUN: tahun, orang, desa, kota, nama, bagian, bahasa, wilayah, negara, daerah</li>
+      <li>NOUN: tahun, orang, desa, kota, nama, bagian, bahasa, wilayah, film, daerah</li>
       <li>NUM: meter, XII, mm, persen, setengah, 1880an, 1980an, 1990an, REVOLUSI, buta</li>
       <li>PART: tiada, Berdasar, bersorak, keluar, membelinya, silakan, tercetusnya, terkejutnya</li>
       <li>PRON: ia, dia, kamu, aku, engkau, dirinya, Perang, beliau, saya, anda</li>
@@ -210,14 +211,13 @@ http://septinalarasati.com/morphind/).
     <ul>
       <li>ADJ: lain, besar, baru, sama, kecil, utama, tinggi, baik, sendiri, dekat</li>
       <li>ADP: dalam, atas, selain, sampai, luar, baik, sesuai, seluas, sejauh, pasca</li>
-      <li>ADV: tetap, kurang, biasa, baru, sedikit, sama, lalu, rata, relatif, sendiri</li>
-      <li>AUX: rata</li>
+      <li>ADV: tetap, kurang, biasa, baru, sedikit, sama, lalu, relatif, banyak, sendiri</li>
       <li>CCONJ: lalu, baik, Adapun, Layaknya, lain, sama, selain, sewaktu</li>
       <li>DET: salah, sebagian, seekor, sekelompok, banyak, semacam, sendiri, aneka, baik, sama</li>
       <li>NOUN: luas, pusat, salah, atas, panjang, luar, sebagian, jarak, seri, bekas</li>
       <li>NUM: 1880an, 1980an, 1990an, buta, muda</li>
       <li>PART: tiada</li>
-      <li>PRON: sendiri, adakah, dekat</li>
+      <li>PRON: sendiri, adakah, dekat, sendiri-sendiri</li>
       <li>PROPN: Nasional, Raya, baru, Agung, Pusat, Besar, Internasional, Suci, Perdana, United</li>
       <li>PUNCT: banyak, habis</li>
       <li>SCONJ: lalu, sewaktu, Adapun, selain, usai, Baru, jadi</li>
@@ -273,14 +273,14 @@ http://septinalarasati.com/morphind/).
     <ul>
       <li>ADJ: berbeda, keluar, bersama, lanjut, beragam, bersamaan, pecah, cetak, erat, hias</li>
       <li>ADP: tentang, bersama, bagi, melawan, berdasarkan, lewat, antar, menuju, mulai, menjadi</li>
-      <li>ADV: dapat, harus, sudah, kembali, mulai, turut, kira, ingin, bersama, perlu</li>
+      <li>ADV: dapat, harus, sudah, kembali, mulai, turut, ingin, bersama, perlu, berturut</li>
       <li>CCONJ: melainkan, bersama</li>
       <li>DET: berikut, beragam, Bagi</li>
       <li>NOUN: tanggal, sepak, gelar, hukum, jalan, pukul, milik, jawab, kali, pos</li>
       <li>NUM: XII, inchi</li>
       <li>PART: Berdasar, bersorak, keluar, membelinya, silakan</li>
       <li>PRON: Aku, berdirinya</li>
-      <li>PROPN: Hukum, Tata, Kerja, Undang, Kali, Balai, Kutai, Sepak, Aku, Fei</li>
+      <li>PROPN: Hukum, Tata, Kerja, Kali, Balai, Kutai, Sepak, Aku, Fei, Ji</li>
       <li>SCONJ: melainkan, berikut</li>
       <li>VERB: menjadi, memiliki, berada, menggunakan, membuat, bermain, mulai, kembali, berasal, mempunyai</li>
     </ul>
@@ -361,7 +361,7 @@ http://septinalarasati.com/morphind/).
   <li>Rel
     <ul>
       <li>DET: kemudian, sementara, demikian, jadi, maka, sehubungan</li>
-      <li>PRON: yang, saat, bahwa, jadi, berkat, ketika, yg, agar, Bila, Demikian</li>
+      <li>PRON: yang, saat, bahwa, jadi, berkat, ketika, yg, Bila, Demikian, Manakala</li>
     </ul>
   </li>
 </ul>
@@ -504,7 +504,7 @@ http://septinalarasati.com/morphind/).
           <li>ADJ: barumu</li>
           <li>ADP: menurutmu, untukmu, kepadamu</li>
           <li>ADV: Amu, mendorongmu</li>
-          <li>NOUN: bakau, bagimu, istrimu, kepadamu, matamu, namu, Maumu, dirimu, dosamu, hari-harimu</li>
+          <li>NOUN: bakau, bagimu, istrimu, kepadamu, matamu, Maumu, dirimu, dosamu, hari-harimu, hatimu</li>
           <li>PRON: akau, anak-anakmu</li>
           <li>PROPN: Allahmu, Bintangmu, Kepadamu</li>
           <li>VERB: Menyayangimu, melayanimu, membuatmu, menikahimu</li>
@@ -539,7 +539,7 @@ http://septinalarasati.com/morphind/).
 </ul>
 
 <ul>
-<li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: dapat, harus, terpaksa.</li>
+<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: dapat, harus.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -548,13 +548,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (1594)</li>
+      <li>VERB--NOUN (1592)</li>
       <li>VERB--NOUN-ADP(dalam) (2)</li>
       <li>VERB--NOUN-ADP(di)-ADP(antara) (1)</li>
       <li>VERB--NOUN-ADP(saat) (1)</li>
       <li>VERB--NOUN-ADP(seperti) (1)</li>
       <li>VERB--NOUN-ADP(untuk) (1)</li>
-      <li>VERB--PRON (2067)</li>
+      <li>VERB--PRON (2065)</li>
     </ul>
   </li>
 </ul>
@@ -602,6 +602,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 3 relation subtypes: <a>compound:plur</a>, <a>csubj:pass</a>, <a>nsubj:pass</a></li>
+<li>This corpus uses 2 relation subtypes: <a>csubj:pass</a>, <a>nsubj:pass</a></li>
 <li>The following 9 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

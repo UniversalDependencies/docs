@@ -30,12 +30,12 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 6	איש_	איש	NOUN	NOUN	Definite=Def|Gender=Fem|Number=Sing	4	obl	_	_
 7	_של_	של	ADP	ADP	_	8	case:gen	_	_
 8	_הוא	הוא	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod:poss	_	_
-9	,	,	PUNCT	PUNCT	_	6	punct	_	_
+9	,	,	PUNCT	PUNCT	_	11	punct	_	_
 10	ש	ש	SCONJ	SCONJ	_	11	mark	_	_
 11	עשתה	עשה	VERB	VERB	Gender=Fem|HebBinyan=PAAL|Number=Sing|Person=3|Tense=Past|Voice=Act	6	acl:relcl	_	_
 12	ב	ב	ADP	ADP	_	13	case	_	_
 13	בוסטון	בוסטון	PROPN	PROPN	_	11	obl	_	_
-14	.	.	PUNCT	PUNCT	_	3	punct	_	_
+14	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 

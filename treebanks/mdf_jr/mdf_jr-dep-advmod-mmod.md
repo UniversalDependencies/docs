@@ -7,46 +7,58 @@ udver: '2'
 ## Treebank Statistics: UD_Moksha-JR: Relations: `advmod:mmod`
 
 This relation is a language-specific subtype of <tt><a href="mdf_jr-dep-advmod.html">advmod</a></tt>.
-There are also 3 other language-specific subtypes of `advmod`: <tt><a href="mdf_jr-dep-advmod-deg.html">advmod:deg</a></tt>, <tt><a href="mdf_jr-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="mdf_jr-dep-advmod-tmod.html">advmod:tmod</a></tt>.
+There are also 9 other language-specific subtypes of `advmod`: <tt><a href="mdf_jr-dep-advmod-cau.html">advmod:cau</a></tt>, <tt><a href="mdf_jr-dep-advmod-deg.html">advmod:deg</a></tt>, <tt><a href="mdf_jr-dep-advmod-eval.html">advmod:eval</a></tt>, <tt><a href="mdf_jr-dep-advmod-foc.html">advmod:foc</a></tt>, <tt><a href="mdf_jr-dep-advmod-freq.html">advmod:freq</a></tt>, <tt><a href="mdf_jr-dep-advmod-lfrom.html">advmod:lfrom</a></tt>, <tt><a href="mdf_jr-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="mdf_jr-dep-advmod-lto.html">advmod:lto</a></tt>, <tt><a href="mdf_jr-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
-9 nodes (1%) are attached to their parents as `advmod:mmod`.
+34 nodes (1%) are attached to their parents as `advmod:mmod`.
 
-5 instances of `advmod:mmod` (56%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.11111111111111.
+18 instances of `advmod:mmod` (53%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.70588235294118.
 
-The following 4 pairs of parts of speech are connected with `advmod:mmod`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (6; 67% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-PART.html">PART</a></tt> (1; 11% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 11% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PART.html">PART</a></tt> (1; 11% instances).
+The following 3 pairs of parts of speech are connected with `advmod:mmod`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (31; 91% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (2; 6% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 advmod:mmod	color:blue
-1	Уборкать	уборка	NOUN	N	Case=Gen|Definite=Def|Number=Sing	5	obl:tmod	_	GTtags=Sg,Gen,Def
-2	пингста	пингста	ADP	Adp	Case=Ela	1	case	_	GTtags=Ela
-3	сембе	сембе	DET	Det	Case=Nom|Definite=Ind|Number=Sing	4	det	_	GTtags=Qnt,Sg,Nom,Indef
-4	ломаттне	ломань	NOUN	N	Case=Nom|Definite=Def|Number=Plur	5	nsubj	_	GTtags=Pl,Nom,Def
-5	работасть	работамс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScPl3
-6	пяк	пяк	ADV	Adv	AdvType=Deg	7	advmod:deg	_	GTtags=Deg
-7	вишкста	вишкста	ADV	Adv	_	5	advmod:mmod	_	SpaceAfter=No
-8	.	.	PUNCT	CLB	_	5	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 advmod:mmod	color:blue
+1	А	а	CCONJ	CC	_	2	cc	_	_
+2	касан	касомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=1	0	root	_	_
+3	пяк	пяк	ADV	Adv	AdvType=Deg	4	advmod:deg	_	_
+4	савор	савор	ADV	Adv	_	2	advmod:mmod	_	SpaceAfter=No
+5	,	,	PUNCT	CLB	_	9	punct	_	_
+6	нинге	нинге	ADV	Adv	AdvType=Tim	9	advmod:tmod	_	_
+7	школавга	школа	NOUN	N	Case=Lat|Clitic=AddGA|Definite=Ind|Number=Plur,Sing	9	obl:lto	_	_
+8	аф	аф	AUX	Aux	Polarity=Neg	9	aux:neg	_	_
+9	якан	якамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=1	2	conj	_	SpaceAfter=No
+10	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 advmod:mmod	color:blue
-1	Тя	тя	DET	Det	Case=Nom|Number=Sing|PronType=Dem	5	expl	_	GTtags=Dem,Sg,Nom
-2	Млай	Млай	PROPN	N	Case=Nom|Definite=Def|NameType=Giv|Number=Sing	5	nsubj:cop	_	GTtags=Prop,Sg,Nom,Def
-3	въдь	вдь	PART	Pcle	Style=Ped	5	advmod:mmod	_	ModernForm=вдь
-4	пинекс	пине	NOUN	N	Case=Tra|Definite=Ind|Number=Plur,Sing	5	nmod	_	GTtags=SP,Tra,Indef
-5	кяжи	кяжи	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	0	root	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
-6	.	.	PUNCT	CLB	_	5	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 advmod:mmod	color:blue
+1	сонь	сон	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	0	root	_	GTtags=Pers,Sg3,Gen
+2	мархтонза	мархта	ADP	Adp	Number[psor]=Sing|Person[psor]=3	1	case	_	GTtags=PxSg3
+3	марса	марса	ADV	Adv	_	1	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	6	punct	_	_
+5	сембонь	сембе	PRON	Pron	Case=Gen|Definite=Ind|Number=Plur,Sing	6	nmod	_	GTtags=SP,Gen,Indef
+6	ёткста	ётка	NOUN	N	Case=Ela|Definite=Ind|NounType=Relat|Number=Plur,Sing	1	conj	_	GTtags=Relator,SP,Ela,Indef
+7	цебярьста	цебярьста	ADV	Adv	AdvType=Man	6	advmod:mmod	_	GTtags=Manner|SpaceAfter=No
+8	,	,	PUNCT	PUNCT	_	9	punct	_	_
+9	монь	мон	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	conj	_	GTtags=Pers,Sg1,Gen
+10	корязон	коряс	ADP	Adp	Case=Ill|Number[psor]=Sing|Person[psor]=1	9	case	_	GTtags=Ill,PxSg1
+11	мазыста	мазыста	ADV	Adv	AdvType=Man	9	advmod:mmod	_	GTtags=Manner|SpaceAfter=No
+12	,	,	PUNCT	PUNCT	_	13	punct	_	_
+13	сембонь	сембе	PRON	Pron	Case=Gen|Definite=Ind|Number=Plur,Sing	1	conj	_	GTtags=SP,Gen,Indef
+14	мархта	мархта	ADP	Adp	_	13	case	_	_
+15	марса	марса	ADV	Adv	_	13	advmod	_	SpaceAfter=No
+16	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
 
@@ -54,23 +66,25 @@ The following 4 pairs of parts of speech are connected with `advmod:mmod`: <tt><
 ~~~ conllu
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 11 advmod:mmod	color:blue
-1	―	―	PUNCT	PUNCT	_	3	punct	_	_
-2	Цёранянди	цёраня	NOUN	N	Case=Dat|Definite=Ind|Number=Plur,Sing	3	xcomp	_	Gloss[eng]=boy
-3	шачелеть	шачемс	VERB	V	Mood=Cnj|Number[subj]=Sing|Person[subj]=2|Valency=1	0	root	_	Gloss[eng]=be-born|SpaceAfter=No
-4	,	,	PUNCT	CLB	_	7	punct	_	_
-5	сяда	сяда	ADV	Adv	_	7	advmod:deg	_	Gloss[eng]=more
-6	кице	ки	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	7	nsubj	_	Gloss[eng]=road
-7	удалаль	удаламс	VERB	V	Mood=Cnj|Number[subj]=Sing|Person[subj]=3|Valency=1	3	conj	_	Gloss[eng]=succeed|SpaceAfter=No
-8	,	,	PUNCT	CLB	_	9	punct	_	_
-9	лётчикокска	лётчик	NOUN	N	Case=Tra|Clitic=AddGA|Definite=Ind|Number=Plur,Sing	13	xcomp	_	Gloss[eng]=pilot|SpaceAfter=No
-10	,	,	PUNCT	CLB	_	11	punct	_	_
-11	пади	пади	ADV	Adv	_	13	advmod:mmod	_	Gloss[eng]=might|SpaceAfter=No
-12	,	,	PUNCT	CLB	_	11	punct	_	_
-13	улелеть	улемс	AUX	V	Mood=Cnj|Number[subj]=Sing|Person[subj]=2|Valency=1	3	conj	_	Gloss[eng]=be|SpaceAfter=No
-14	.	.	PUNCT	CLB	_	3	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 11 advmod:mmod	color:blue
+1	сонь	сон	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	0	root	_	GTtags=Pers,Sg3,Gen
+2	мархтонза	мархта	ADP	Adp	Number[psor]=Sing|Person[psor]=3	1	case	_	GTtags=PxSg3
+3	марса	марса	ADV	Adv	_	1	advmod	_	SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	6	punct	_	_
+5	сембонь	сембе	PRON	Pron	Case=Gen|Definite=Ind|Number=Plur,Sing	6	nmod	_	GTtags=SP,Gen,Indef
+6	ёткста	ётка	NOUN	N	Case=Ela|Definite=Ind|NounType=Relat|Number=Plur,Sing	1	conj	_	GTtags=Relator,SP,Ela,Indef
+7	цебярьста	цебярьста	ADV	Adv	AdvType=Man	6	advmod:mmod	_	GTtags=Manner|SpaceAfter=No
+8	,	,	PUNCT	PUNCT	_	9	punct	_	_
+9	монь	мон	PRON	Pron	Case=Gen|Number=Sing|Person=1|PronType=Prs	1	conj	_	GTtags=Pers,Sg1,Gen
+10	корязон	коряс	ADP	Adp	Case=Ill|Number[psor]=Sing|Person[psor]=1	9	case	_	GTtags=Ill,PxSg1
+11	мазыста	мазыста	ADV	Adv	AdvType=Man	9	advmod:mmod	_	GTtags=Manner|SpaceAfter=No
+12	,	,	PUNCT	PUNCT	_	13	punct	_	_
+13	сембонь	сембе	PRON	Pron	Case=Gen|Definite=Ind|Number=Plur,Sing	1	conj	_	GTtags=SP,Gen,Indef
+14	мархта	мархта	ADP	Adp	_	13	case	_	_
+15	марса	марса	ADV	Adv	_	13	advmod	_	SpaceAfter=No
+16	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
 

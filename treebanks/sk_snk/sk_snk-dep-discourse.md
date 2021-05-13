@@ -11,7 +11,7 @@ This relation is universal.
 46 nodes (0%) are attached to their parents as `discourse`.
 
 38 instances of `discourse` (83%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.89130434782609.
+Average distance between parent and child is 1.91304347826087.
 
 The following 7 pairs of parts of speech are connected with `discourse`: <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (23; 50% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-DET.html">DET</a></tt> (14; 30% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt>-<tt><a href="sk_snk-pos-DET.html">DET</a></tt> (3; 7% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-PART.html">PART</a></tt> (2; 4% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sk_snk-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-INTJ.html">INTJ</a></tt> (1; 2% instances).
 

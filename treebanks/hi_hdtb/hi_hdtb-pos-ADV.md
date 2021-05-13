@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  बाद (<tt><a href="hi_hdtb-pos-ADP.h
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.025424 (the average of all parts of speech is 1.203116).
+The form / lemma ratio of `ADV` is 1.025424 (the average of all parts of speech is 1.203447).
 
 The 1st highest number of forms (3) was observed with the lemma “वहाँ”: वहाँ, वहां, वहीं.
 

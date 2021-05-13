@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-ParTUT: POS Tags: `ADP`
 
 There are 44 `ADP` lemmas (1%), 46 `ADP` types (1%) and 4667 `ADP` tokens (16%).
-Out of 17 observed tags, the rank of `ADP` is: 8 in number of lemmas, 10 in number of types and 3 in number of tokens.
+Out of 17 observed tags, the rank of `ADP` is: 8 in number of lemmas, 9 in number of types and 3 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>de, à, en, dans, pour, sur, par, avec, que, entre</em>
 
@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="fr_partut-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.045455 (the average of all parts of speech is 1.366035).
+The form / lemma ratio of `ADP` is 1.045455 (the average of all parts of speech is 1.409310).
 
 The 1st highest number of forms (2) was observed with the lemma “d'après”: <em>après, d'</em>.
 
@@ -68,13 +68,7 @@ The 2nd highest number of forms (2) was observed with the lemma “de”: <em>d'
 
 The 3rd highest number of forms (2) was observed with the lemma “que”: <em>qu', que</em>.
 
-`ADP` occurs with 2 features: <tt><a href="fr_partut-feat-Person.html">Person</a></tt> (1; 0% instances), <tt><a href="fr_partut-feat-PronType.html">PronType</a></tt> (1; 0% instances)
-
-`ADP` occurs with 2 feature-value pairs: `Person=3`, `PronType=Prs`
-
-`ADP` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (4666 tokens).
-Examples: <em>de, à, d', en, dans, pour, sur, par, avec, entre</em>
+`ADP` does not occur with any features.
 
 
 ## Relations

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="no_nynorsk-dep-compound.html">compound</a></tt>.
 
-2833 nodes (1%) are attached to their parents as `compound:prt`.
+3067 nodes (1%) are attached to their parents as `compound:prt`.
 
-2768 instances of `compound:prt` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.61560183551006.
+2998 instances of `compound:prt` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.58265405934138.
 
-The following 1 pairs of parts of speech are connected with `compound:prt`: <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (2833; 100% instances).
+The following 1 pairs of parts of speech are connected with `compound:prt`: <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (3067; 100% instances).
 
 
 ~~~ conllu

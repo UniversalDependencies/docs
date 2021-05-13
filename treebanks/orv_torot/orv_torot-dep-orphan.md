@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of orphan in UD_Old_Russian-TOROT'
+title:  'Statistics of orphan in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Relations: `orphan`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Relations: `orphan`
 
 This relation is universal.
 
@@ -29,7 +29,7 @@ The following 46 pairs of parts of speech are connected with `orphan`: <tt><a hr
 5	на	на	ADP	R-	_	6	case	_	ref=6
 6	головѣ	голова	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	4	orphan	_	ref=6
 7	а	а	CCONJ	C-	_	4	orphan	_	ref=6
-8	дрѹгаа	другыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	4	orphan	_	ref=6
+8	дрѹгаа	другыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	orphan	_	ref=6
 9	на	на	ADP	R-	_	10	case	_	ref=6
 10	бедрах	бедро	NOUN	Nb	Case=Loc|Gender=Neut|Number=Plur	8	orphan	_	ref=6
 

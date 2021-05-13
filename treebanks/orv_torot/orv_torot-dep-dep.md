@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of dep in UD_Old_Russian-TOROT'
+title:  'Statistics of dep in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Relations: `dep`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Relations: `dep`
 
 This relation is universal.
 

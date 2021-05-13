@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-56 nodes (0%) are attached to their parents as `csubj`.
+68 nodes (0%) are attached to their parents as `csubj`.
 
-47 instances of `csubj` (84%) are right-to-left (child precedes parent).
+58 instances of `csubj` (85%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.25.
 
-The following 10 pairs of parts of speech are connected with `csubj`: <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (27; 48% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (15; 27% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (7; 13% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 11 pairs of parts of speech are connected with `csubj`: <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (31; 46% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (21; 31% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (8; 12% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -43,7 +43,7 @@ The following 10 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 csubj	color:blue
-1	Bosch'ta	Bosch	PROPN	_	Case=Loc|Number=Sing	4	obl	_	CSPoint=Bosch§'ta|LangID=MIXED
+1	Bosch'ta	Bosch	PROPN	_	Case=Loc|Number=Sing	4	obl	_	CSPoint=Bosch§'ta|DeCase=Dat|LangID=MIXED
 2	da	da	ADV	_	_	1	advmod:emph	_	LangID=TR
 3	çok	çok	ADV	_	_	4	advmod	_	LangID=TR
 4	soran	sor	VERB	_	Case=Nom|Number=Sing|Tense=Pres|VerbForm=Part	5	csubj	_	LangID=TR
@@ -52,7 +52,7 @@ The following 10 pairs of parts of speech are connected with `csubj`: <tt><a hre
 7	ja	ja	INTJ	_	_	9	discourse	_	LangID=DE
 8	woher	woher	ADV	_	_	9	advmod	_	LangID=DE
 9	kommen	kommen	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	ccomp	_	LangID=DE
-10	Sie	Sie|sie	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	LangID=DE
+10	Sie	sie	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	LangID=DE
 11	denn	denn	ADV	_	_	9	advmod	_	LangID=DE|SpaceAfter=No
 12	?	?	PUNCT	_	_	5	punct	_	LangID=OTHER
 
@@ -65,7 +65,7 @@ The following 10 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 csubj	color:blue
-1	Fanı	Fan	NOUN	_	Case=Acc|Number=Sing	3	obj	_	CSPoint=Fan§ı|LangID=MIXED
+1	Fanı	Fan	NOUN	_	Case=Acc|Number=Sing	3	obj	_	CSPoint=Fan§ı|DeCase=Acc|DeGender=Masc|LangID=MIXED
 2	komple	komple	ADJ	_	_	3	amod	_	LangID=TR
 3	temizlemem	temizle	VERB	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1|VerbForm=Vnoun	4	csubj	_	LangID=TR
 4	gerek	gerek	NOUN	_	Case=Nom|Number=Sing	0	root	_	LangID=TR|SpaceAfter=No

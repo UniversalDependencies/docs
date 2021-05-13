@@ -24,7 +24,7 @@ The following 22 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 6 3 dislocated	color:blue
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	6	cc	_	Orig=ⲁ̇ⲩⲱ̇
 2	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Entity=(abstract|Orig=ⲧ̇
-3	ⲙⲛⲧⲙⲟⲛⲁⲭⲟⲥ	ⲙⲛⲧⲙⲟⲛⲁⲭⲟⲥ	NOUN	N	_	6	dislocated	_	Entity=abstract)|Morphs=ⲙⲛⲧ-ⲙⲟⲛⲁⲭⲟⲥ|Orig=ⲙⲛⲧ̇ⲙⲟⲛⲁⲭⲟⲥ
+3	ⲙⲛⲧⲙⲟⲛⲁⲭⲟⲥ	ⲙⲛⲧⲙⲟⲛⲁⲭⲟⲥ	NOUN	N	Foreign=Yes	6	dislocated	_	Entity=abstract)|Morphs=ⲙⲛⲧ-ⲙⲟⲛⲁⲭⲟⲥ|Orig=ⲙⲛⲧ̇ⲙⲟⲛⲁⲭⲟⲥ|OrigLang=grc
 4	ⲙⲡⲉ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	6	aux	_	Orig=ⲙ̇ⲡⲉ
 5	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
 6	ϩⲉ	ϩⲉ	VERB	V	VerbForm=Fin	0	root	_	_
@@ -46,7 +46,7 @@ The following 22 pairs of parts of speech are connected with `dislocated`: <tt><
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	5	advmod	_	_
 3	ⲧⲉⲛⲟⲩ	ⲧⲉⲛⲟⲩ	ADV	ADV	_	5	advmod	_	_
 4	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	Orig=ⲧⲉⲧⲛ̇
-5	ⲫⲟⲣⲉⲓ	ⲫⲟⲣⲉⲓ	VERB	V	VerbForm=Fin	0	root	_	_
+5	ⲫⲟⲣⲉⲓ	ⲫⲟⲣⲉⲓ	VERB	V	Foreign=Yes|VerbForm=Fin	0	root	_	OrigLang=grc
 6	ⲛ	ⲛ	ADP	PREP	_	8	case	_	Orig=ⲛ̇
 7	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	8	det	_	Entity=(object|Orig=ϩⲛ̇
 8	ϣⲧⲏⲛ	ϣⲧⲏⲛ	NOUN	N	_	5	obj	_	Orig=ϣ̇ⲧⲏⲛ
@@ -69,10 +69,10 @@ The following 22 pairs of parts of speech are connected with `dislocated`: <tt><
 3	ⲁ	ⲁ	AUX	APST	_	5	aux	_	_
 4	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
 5	ⲟⲩⲱⲙ	ⲟⲩⲱⲙ	VERB	V	VerbForm=Fin	1	acl	_	Entity=person)
-6	ⲇⲉ	ⲇⲉ	PART	PTC	_	8	advmod	_	_
+6	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	8	advmod	_	OrigLang=grc
 7	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	8	aux	_	_
 8	ⲩⲛ	ⲟⲩⲛ	VERB	EXIST	_	0	root	_	_
-9	ⲁⲣⲁ	ⲁⲣⲁ	PART	PTC	_	8	advmod	_	_
+9	ⲁⲣⲁ	ⲁⲣⲁ	PART	PTC	Foreign=Yes	8	advmod	_	OrigLang=grc
 10	ⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	14	det	_	Entity=(person
 11	ϭⲓⲥ	ϭⲓⲥ	NUM	NUM	NumType=Card	12	compound	_	_
 12	ⲧⲃⲁ	ⲧⲃⲁ	NUM	NUM	NumType=Card	14	nummod	_	_

@@ -35,7 +35,7 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 11	لن	lano_1	PART	RP	Polarity=Neg	12	advmod	_	_
 12	تكون	kAn-u_1	VERB	VBC	Aspect=Imp|Gender=Masc|Mood=Sub|Number=Sing|Person=3|Tense=Fut|Voice=Act	1	ccomp	_	_
 13	هناك	hunAka_1	ADV	RB	_	12	advmod	_	_
-14	أي	>ay~_1	DET	WDT	Case=Nom	15	det:predet	_	_
+14	أي	>ay~_1	DET	WDT	Case=Nom	15	det	_	_
 15	زيادة	ziyAdap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	12	nsubj	_	_
 16	في	fiy_1	ADP	IN	_	17	case	_	_
 17	ضريبة	Dariybap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	15	nmod	_	_
@@ -44,7 +44,7 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 20	,	,_0	PUNCT	,	_	22	punct	_	_
 21	حتى	Hat~aY_1	ADP	IN	_	22	case	_	_
 22	عام	EAm_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	12	obl	_	_
-23	2017	2017_0	NUM	CD	_	22	nmod:gmod	_	_
+23	2017	2017_0	NUM	CD	_	22	nmod	_	_
 24	على	EalaY_1	ADP	IN	_	22	advmod	_	_
 25	الأقل	>aqal~_2	ADJ	JJR	Case=Gen|Definite=Def	24	fixed	_	SpaceAfter=No
 26	.	._0	PUNCT	.	_	1	punct	_	_
@@ -77,7 +77,7 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 17	تحقيق	taHoqiyq_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	16	nmod	_	_
 18	أهداف	hadaf_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	17	nmod	_	_
 19	قمة	qim~ap_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	18	nmod	_	_
-20	باريس	bAriys_1	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	19	nmod:gmod	_	_
+20	باريس	bAriys_1	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	19	nmod	_	_
 21	ل	l	ADP	IN	_	22	case	_	SpaceAfter=No
 22	لمناخ	munAx_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Sing	18	nmod	_	SpaceAfter=No
 23	.	._0	PUNCT	.	_	1	punct	_	_

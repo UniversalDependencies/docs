@@ -29,7 +29,7 @@ The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 5	не	не	ADV	Df	Polarity=Neg	6	advmod	_	ref=MATT_5.39
 6	противити	противити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=MATT_5.39
 7	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	expl	_	ref=MATT_5.39
-8	зълоу	зълъ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	6	iobj	_	ref=MATT_5.39
+8	зълоу	зълъ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	6	iobj	_	ref=MATT_5.39
 
 ~~~
 
@@ -67,7 +67,7 @@ The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 2	же	же	ADV	Df	_	1	discourse	_	ref=LUKE_7.7
 3	ни	ни	ADV	Df	Polarity=Neg	6	advmod	_	ref=LUKE_7.7
 4	себе	себе	PRON	Pk	Case=Gen|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	obj	_	ref=LUKE_7.7
-5	достоина	достоинъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc,Neut|Number=Sing|Strength=Strong	6	xcomp	_	ref=LUKE_7.7
+5	достоина	достоинъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc,Neut|Number=Sing|Variant=Short	6	xcomp	_	ref=LUKE_7.7
 6	сътворихъ	сътворити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_7.7
 7	прити	прити	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	ccomp	_	ref=LUKE_7.7
 8	къ	къ	ADP	R-	_	9	case	_	ref=LUKE_7.7

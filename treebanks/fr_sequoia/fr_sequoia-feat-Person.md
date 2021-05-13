@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-5791 tokens (8%) have a non-empty value of `Person`.
-1024 types (11%) occur at least once with a non-empty value of `Person`.
+5779 tokens (8%) have a non-empty value of `Person`.
+1027 types (11%) occur at least once with a non-empty value of `Person`.
 508 lemmas (8%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2128; 3% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1898; 3% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (1765; 3% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2128; 3% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1886; 3% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (1765; 3% instances).
 
 ### `VERB`
 
@@ -41,24 +41,24 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-1898 <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> tokens (66% of all `PRON` tokens) have a non-empty value of `Person`.
+1886 <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> tokens (65% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1839; 97%), <tt><a href="fr_sequoia-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1557; 82%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1239; 65%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1019; 54%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1827; 97%), <tt><a href="fr_sequoia-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1545; 82%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1227; 65%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1007; 53%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (457; 24% of non-empty `Person`): <em>nous, je, j', me, m', moi, -nous, -je, -moi</em>
 * `2` (135; 7% of non-empty `Person`): <em>vous, -vous, Toi</em>
-* `3` (1306; 69% of non-empty `Person`): <em>il, se, y, s', en, elle, ils, c', on, le</em>
-* `EMPTY` (993): <em>qui, que, ce, dont, cela, où, qu', un, laquelle, ceci</em>
+* `3` (1294; 69% of non-empty `Person`): <em>il, se, y, s', en, elle, ils, c', on, le</em>
+* `EMPTY` (1005): <em>qui, que, ce, dont, cela, où, qu', un, laquelle, ceci</em>
 
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>il, -il, On, -on</em></td></tr>
+  <tr><td><tt><tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>il, -il, -t-il, On, -on</em></td></tr>
   <tr><td><tt><tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>ils, -ils</em></td></tr>
-  <tr><td><tt><tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>elle, -elle</em></td></tr>
+  <tr><td><tt><tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>elle, -elle, -t-elle</em></td></tr>
   <tr><td><tt><tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>elles</em></td></tr>
-  <tr><td><tt><tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>je, j', -je</em></td><td></td><td><em>on, il, -on</em></td></tr>
+  <tr><td><tt><tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>je, j', -je</em></td><td></td><td><em>on, il, -on, -t-on</em></td></tr>
   <tr><td><tt><tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>nous, -nous</em></td><td><em>vous, -vous</em></td><td></td></tr>
 </table>
 
@@ -94,7 +94,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="fr_sequoia-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (577; 57%),
+<tt>VERB --[<tt><a href="fr_sequoia-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (577; 56%),
 <tt>VERB --[<tt><a href="fr_sequoia-dep-expl-comp.html">expl:comp</a></tt>]--> PRON</tt> (167; 59%),
 <tt>VERB --[<tt><a href="fr_sequoia-dep-expl-subj.html">expl:subj</a></tt>]--> PRON</tt> (143; 90%),
 <tt>VERB --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> VERB</tt> (118; 58%),

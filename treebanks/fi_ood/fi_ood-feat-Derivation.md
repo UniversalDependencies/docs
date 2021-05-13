@@ -25,10 +25,10 @@ The most frequent other feature values with which `NOUN` and `Derivation` co-occ
 
 * `Inen` (3; 1% of non-empty `Derivation`): <em>aikuinen, viranomaiselle</em>
 * `Inen,Vs` (15; 3% of non-empty `Derivation`): <em>limaisuutta, Hiljaisuuden, Tulevaisuuden, hiljaisuus, kokonaisuudessaan, kokonaisuuteen, mausteisuus, musikaalisuuden, ominaisuuksia, salaisuus</em>
-* `Ja` (109; 23% of non-empty `Derivation`): <em>Vierailija, valvojan, jakajan, käyttäjä, unennäkijä, Kuntatyöntekijä, Liikkujan, N​A​I​S​K​A​M​P​A​A​M​O​T​Y​Ö​N​T​E​K​I​J​Ä​I​N, NBA-pelaajien, Osallistujat</em>
+* `Ja` (109; 23% of non-empty `Derivation`): <em>Vierailija, valvojan, jakajan, käyttäjä, unennäkijä, Kuntatyöntekijä, Liikkujan, NAISKAMPAAMOTYÖNTEKIJÄIN, NBA-pelaajien, Osallistujat</em>
 * `Lainen` (18; 4% of non-empty `Derivation`): <em>Eteläafrikkalaiset, Nokialaisten, PERUS-SUOMALAISTEN, Venäläisiä, Yövuorolaisena, ammattilainen, ammattilaisten, australialaisilla, humalaiset, juutalaisten</em>
-* `Llinen,Vs` (15; 3% of non-empty `Derivation`): <em>l​i​i​k​e​n​n​e​t​u​r​v​a​l​l​i​s​u​u​t​t​a, mahdollisuus, v​o​i​t​t​o​m​a​h​d​o​l​l​i​s​u​u​k​s​i​s​t​a, Kirjallisuus, laadullisuus, l​i​i​k​e​n​n​e​t​u​r​v​a​l​l​i​s​u​u​t​e​e​n, mahdollisuuksia, merkkiuskollisuutta, toiminnallisuuden, turvallisuuden</em>
-* `Minen` (88; 18% of non-empty `Derivation`): <em>#johtaminen, hapettuminen, osaaminen, tanssimista, tekemistä, #kuluttaminen, Haukkumista, Kirjoitaminen, Korvaaminen, K​u​s​t​a​n​n​u​s​t​o​i​m​i​t​t​a​m​i​n​e​n</em>
+* `Llinen,Vs` (15; 3% of non-empty `Derivation`): <em>liikenneturvallisuutta, mahdollisuus, voittomahdollisuuksista, Kirjallisuus, laadullisuus, liikenneturvallisuuteen, mahdollisuuksia, merkkiuskollisuutta, toiminnallisuuden, turvallisuuden</em>
+* `Minen` (88; 18% of non-empty `Derivation`): <em>#johtaminen, hapettuminen, osaaminen, tanssimista, tekemistä, #kuluttaminen, Haukkumista, Kirjoitaminen, Korvaaminen, Kustannustoimittaminen</em>
 * `Ton,Vs` (1; 0% of non-empty `Derivation`): <em>hoitamattomuus</em>
 * `U` (157; 33% of non-empty `Derivation`): <em>hapetus, loppuun, hapetuksen, avulla, tuoksu, Palvelu, apua, keskustelu, lämpöilyä, näkyä</em>
 * `Vs` (70; 15% of non-empty `Derivation`): <em>rakkauden, Viisauden, hapokkuus, käännösoikeudet, pituutta, #peliriippuvuus, Kauneus, Peliriippuvuudesta, Rakkaus, Saatavuus</em>

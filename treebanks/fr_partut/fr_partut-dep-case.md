@@ -40,13 +40,13 @@ The following 16 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 11	fgColor:white
 # visual-style 11 9 case	color:blue
 1	Ils	il	PRON	PE	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
-2	génèrent	génèrent	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	génèrent	génèrer	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
 4	humus	humus	NOUN	S	Gender=Fem|Number=Sing	2	obj	_	_
 5	sur	sur	ADP	E	_	8	case	_	_
-6	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Tot	8	det	_	_
+6	tous	tout	DET	T	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
 7	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
-8	continents	continents	NOUN	S	Gender=Fem|Number=Plur	2	obl	_	_
+8	continents	continent	NOUN	S	Gender=Fem|Number=Plur	2	obl	_	_
 9	de	de	ADP	E	_	11	case	_	_
 10	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	Terre	Terre	PROPN	SP	_	8	nmod	_	SpaceAfter=No

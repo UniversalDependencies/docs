@@ -20,7 +20,7 @@ The feature is used with 10 part-of-speech tags: <tt><a href="ko_pud-pos-NOUN.ht
 
 `NOUN` tokens may have the following values of `Polite`:
 
-* `Form` (3603; 100% of non-empty `Polite`): 때문에, 것으로, 것을, 것이, 것은, 지역의, 명의, 영향을, 정부는, 개의
+* `Form` (3603; 100% of non-empty `Polite`): 때문에, 것으로, 것이, 월에, 것을, 년에, 사이에, 것은, 방식으로, 정도로
 * `EMPTY` (4479): 년, 수, 것, 중, 월, 후, 말했다, 일, 인해, 이후
 
 `Polite` seems to be **lexical feature** of `NOUN`. 100% lemmas (1787) occur only with one value of `Polite`.
@@ -31,7 +31,7 @@ The feature is used with 10 part-of-speech tags: <tt><a href="ko_pud-pos-NOUN.ht
 
 `PROPN` tokens may have the following values of `Polite`:
 
-* `Form` (630; 100% of non-empty `Polite`): 중국의, 영국의, 마케도니아의, 독일과, 미국에, 유럽의, 태국의, 히치콕의, 남극을, 미시마는
+* `Form` (630; 100% of non-empty `Polite`): 중국의, 미국에, 영국에서, 영국의, 마케도니아의, 글래스고에서, 독일과, 스위스에서, 아프리카에서, 알래스카에
 * `EMPTY` (1046): 미국, 영국, 중국, 유럽, 지중해, 트럼프, 프랑스, 그리스, 독일, 도널드
 
 `Polite` seems to be **lexical feature** of `PROPN`. 100% lemmas (417) occur only with one value of `Polite`.
@@ -57,7 +57,7 @@ The most frequent other feature values with which `PART` and `Polite` co-occurre
 
 `PART` tokens may have the following values of `Polite`:
 
-* `Form` (282; 100% of non-empty `Polite`): 의, 는, 에, 와, 가, 에서, 이, 은, 과, 를
+* `Form` (282; 100% of non-empty `Polite`): 에, 의, 는, 와, 에서, 가, 과, 이, 은, 로
 * `EMPTY` (214): 는, 고, 도, 라고, 만, 있다고, 까지, 달라고, 대해서는, 된다고
 
 `Polite` seems to be **lexical feature** of `PART`. 100% lemmas (42) occur only with one value of `Polite`.
@@ -90,7 +90,7 @@ The most frequent other feature values with which `ADJ` and `Polite` co-occurred
 
 `DET` tokens may have the following values of `Polite`:
 
-* `Form` (2; 100% of non-empty `Polite`): 있는가를, 총으로
+* `Form` (2; 100% of non-empty `Polite`): 총으로, 있는가를
 * `EMPTY` (463): 그, 이, 두, 한, 다른, 여러, 모든, 만, 몇, 세
 
 ### `ADV`

@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  <em>en</em> (<tt><a href="no_bokmaal-pos-
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.736842 (the average of all parts of speech is 1.381919).
+The form / lemma ratio of `DET` is 1.736842 (the average of all parts of speech is 1.381903).
 
 The 1st highest number of forms (7) was observed with the lemma “en”: <em>at, ei, en, ens, er, et, ett</em>.
 
@@ -80,15 +80,15 @@ Examples: <em>en</em>
 
 `DET` nodes are attached to their parents using 20 different relations: <tt><a href="no_bokmaal-dep-det.html">det</a></tt> (13554; 94% instances), <tt><a href="no_bokmaal-dep-obl.html">obl</a></tt> (214; 1% instances), <tt><a href="no_bokmaal-dep-nmod.html">nmod</a></tt> (142; 1% instances), <tt><a href="no_bokmaal-dep-nsubj.html">nsubj</a></tt> (141; 1% instances), <tt><a href="no_bokmaal-dep-obj.html">obj</a></tt> (84; 1% instances), <tt><a href="no_bokmaal-dep-conj.html">conj</a></tt> (78; 1% instances), <tt><a href="no_bokmaal-dep-root.html">root</a></tt> (75; 1% instances), <tt><a href="no_bokmaal-dep-appos.html">appos</a></tt> (20; 0% instances), <tt><a href="no_bokmaal-dep-nsubj-pass.html">nsubj:pass</a></tt> (15; 0% instances), <tt><a href="no_bokmaal-dep-xcomp.html">xcomp</a></tt> (15; 0% instances), <tt><a href="no_bokmaal-dep-flat-name.html">flat:name</a></tt> (8; 0% instances), <tt><a href="no_bokmaal-dep-orphan.html">orphan</a></tt> (7; 0% instances), <tt><a href="no_bokmaal-dep-acl-relcl.html">acl:relcl</a></tt> (6; 0% instances), <tt><a href="no_bokmaal-dep-ccomp.html">ccomp</a></tt> (5; 0% instances), <tt><a href="no_bokmaal-dep-acl.html">acl</a></tt> (4; 0% instances), <tt><a href="no_bokmaal-dep-iobj.html">iobj</a></tt> (4; 0% instances), <tt><a href="no_bokmaal-dep-reparandum.html">reparandum</a></tt> (4; 0% instances), <tt><a href="no_bokmaal-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="no_bokmaal-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="no_bokmaal-dep-expl.html">expl</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (12380; 86% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (791; 6% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (394; 3% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (258; 2% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (198; 1% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (193; 1% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt> (79; 1% instances),  (75; 1% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="no_bokmaal-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances)
+Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (12380; 86% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (790; 5% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (394; 3% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (258; 2% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (199; 1% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (193; 1% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt> (79; 1% instances),  (75; 1% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="no_bokmaal-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances)
 
 13449 (94%) `DET` nodes are leaves.
 
-614 (4%) `DET` nodes have one child.
+615 (4%) `DET` nodes have one child.
 
-164 (1%) `DET` nodes have two children.
+162 (1%) `DET` nodes have two children.
 
-153 (1%) `DET` nodes have three or more children.
+154 (1%) `DET` nodes have three or more children.
 
 The highest child degree of a `DET` node is 9.
 

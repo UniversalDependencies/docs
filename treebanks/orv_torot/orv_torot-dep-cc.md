@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of cc in UD_Old_Russian-TOROT'
+title:  'Statistics of cc in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Relations: `cc`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Relations: `cc`
 
 This relation is universal.
 
@@ -23,12 +23,12 @@ The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 2	fgColor:white
 # visual-style 2 4 cc	color:blue
 1	ѧ	я	PRON	Pp	Case=Nom|Gender=Fem|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	ref=
-2	дала	дати	VERB	V-	Aspect=Res|Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+2	дала	дати	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	0	root	_	ref=
 3	тобѣ	ты	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	iobj	_	ref=
 4	а	а	CCONJ	C-	_	2	cc	_	ref=
 5	нѣжѧтѣ	нѣжата	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	7	iobj	_	ref=
 6	не	не	ADV	Df	Polarity=Neg	7	advmod	_	ref=
-7	дала	дати	VERB	V-	Aspect=Res|Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	2	conj	_	ref=
+7	дала	дати	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	2	conj	_	ref=
 
 ~~~
 
@@ -58,7 +58,7 @@ The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 5	fgColor:white
 # visual-style 5 6 cc	color:blue
 1	на	на	ADP	R-	_	4	case	_	ref=20
-2	великыи	великыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	4	amod	_	ref=20
+2	великыи	великыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	ref=20
 3	же	же	ADV	Df	_	10	discourse	_	ref=20
 4	дн҃ь	дьнь	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	10	obl	_	ref=20
 5	волосыны	волосыни	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	ref=20
@@ -66,7 +66,7 @@ The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="
 7	кола	кола	PROPN	Ne	Case=Nom|Gender=Neut|Number=Plur	5	conj	_	ref=20
 8	в	въ	ADP	R-	_	9	case	_	ref=20
 9	зорю	зоря	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	ref=20
-10	вошьли	вънити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=20
+10	вошьли	вънити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	0	root	_	ref=20
 
 ~~~
 

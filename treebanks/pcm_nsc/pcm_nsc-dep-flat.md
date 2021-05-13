@@ -29,7 +29,7 @@ The following 41 pairs of parts of speech are connected with `flat`: <tt><a href
 4	con	con	AUX	_	Aspect=Cons	5	aux	_	AlignBegin=73789|AlignEnd=74049|Gloss=CONS
 5	go	go	VERB	_	_	0	root	_	AlignBegin=74049|AlignEnd=74199|Gloss=go
 6	school	school	NOUN	_	_	5	obj	_	AlignBegin=74199|AlignEnd=74889|Gloss=school
-7	o	o	PART	_	PartType=Disc	6	advmod:emph	_	AlignBegin=74889|AlignEnd=75099|Gloss=EMPH
+7	o	o	PART	_	PartType=Disc	6	advmod	_	AlignBegin=74889|AlignEnd=75099|Gloss=EMPH
 8	//=	//=	X	_	_	10	dep	_	AlignBegin=75099|AlignEnd=75129|Gloss=PUNCT
 9	con	con	AUX	_	Aspect=Cons	10	aux	_	AlignBegin=75129|AlignEnd=75395|Gloss=CONS
 10	reach	reach	VERB	_	_	5	parataxis:conj	_	AlignBegin=75395|AlignEnd=75644|Gloss=reach

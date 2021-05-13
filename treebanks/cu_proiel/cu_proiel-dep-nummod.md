@@ -62,7 +62,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 2	fgColor:white
 # visual-style 2 3 nummod	color:blue
 1	се	се	INTJ	I-	_	4	vocative	_	ref=MATT_25.22
-2	дроугаѣ	дроугъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Dual|Strength=Weak	4	obj	_	ref=MATT_25.22
+2	дроугаѣ	дроугъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Dual	4	obj	_	ref=MATT_25.22
 3	дъва	дъва	NUM	Ma	Case=Acc|Gender=Masc|Number=Dual	2	nummod	_	ref=MATT_25.22
 4	приобрѣтъ	приобрѣсти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_25.22
 5	има	и	PRON	Pp	Case=Ins|Gender=Masc|Number=Dual|Person=3|PronType=Prs	4	obl	_	ref=MATT_25.22

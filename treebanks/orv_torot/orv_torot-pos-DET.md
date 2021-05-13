@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of DET in UD_Old_Russian-TOROT'
+title:  'Statistics of DET in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: POS Tags: `DET`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: POS Tags: `DET`
 
 There are 35 `DET` lemmas (0%), 391 `DET` types (1%) and 2786 `DET` tokens (2%).
 Out of 14 observed tags, the rank of `DET` is: 10 in number of lemmas, 6 in number of types and 11 in number of tokens.
@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>всѧ</em> (<tt><a href="orv_torot-p
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 11.171429 (the average of all parts of speech is 3.571089).
+The form / lemma ratio of `DET` is 11.171429 (the average of all parts of speech is 3.571475).
 
 The 1st highest number of forms (64) was observed with the lemma “вьсь”: <em>в[сѧ, вес, весь, вохи, вохо, все, всего, всее, всеи, всей, всем, всему, всемъ, всемь, всемѹ, всемꙋ, всехъ, всею, всея, всеі, всеѧ, всеꙗ, вси, всихъ, всхѣ, всь, всю, вся, всѣ, всѣго, всѣи, всѣм, всѣмʼ, всѣми, всѣмъ, всѣмь, всѣмѹ, всѣм҃, всѣх, всѣхʼ, всѣхъ, всѣх҃, всѣю, всѧ, всꙗ, въсь, въсю, вьсе, вьсего, вьсеи, вьсемь, вьсею, вьсеꙗ, вьси, вьсь, вьсю, вьсѣ, вьсѣми, вьсѣмъ, вьсѣмь, вьсѣхъ, вьсѧ, вьсꙗ, вѣ</em>.
 

@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-19 tokens (0%) have a non-empty value of `Typo`.
-16 types (0%) occur at least once with a non-empty value of `Typo`.
-17 lemmas (0%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 7 part-of-speech tags: <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="qtd_sagt-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+21 tokens (0%) have a non-empty value of `Typo`.
+18 types (0%) occur at least once with a non-empty value of `Typo`.
+18 lemmas (0%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 7 part-of-speech tags: <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-5 <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
+9 <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="qtd_sagt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="qtd_sagt-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3; 60%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="qtd_sagt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="qtd_sagt-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7; 78%), <tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5; 56%).
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (5; 100% of non-empty `Typo`): <em>arkadaşnan, *mrank, mabloları, maplar, mül</em>
+* `Yes` (9; 100% of non-empty `Typo`): <em>arkadaşnan, motion, Immobilientechniknen, Milluminati, mabloları, maplar, mizza, mrank, mül</em>
 
 ### `ADV`
 
@@ -31,14 +31,6 @@ The most frequent other feature values with which `NOUN` and `Typo` co-occurred:
 `ADV` tokens may have the following values of `Typo`:
 
 * `Yes` (4; 100% of non-empty `Typo`): <em>bazenleri, bilene</em>
-
-### `X`
-
-4 <tt><a href="qtd_sagt-pos-X.html">X</a></tt> tokens (9% of all `X` tokens) have a non-empty value of `Typo`.
-
-`X` tokens may have the following values of `Typo`:
-
-* `Yes` (4; 100% of non-empty `Typo`): <em>tschiu, Medientechniknen, Milluminati</em>
 
 ### `PRON`
 
@@ -60,13 +52,23 @@ The most frequent other feature values with which `VERB` and `Typo` co-occurred:
 
 * `Yes` (2; 100% of non-empty `Typo`): <em>tozunuyor, harcamaz</em>
 
-### `INTJ`
+### `X`
 
-1 <tt><a href="qtd_sagt-pos-INTJ.html">INTJ</a></tt> tokens (0% of all `INTJ` tokens) have a non-empty value of `Typo`.
+2 <tt><a href="qtd_sagt-pos-X.html">X</a></tt> tokens (4% of all `X` tokens) have a non-empty value of `Typo`.
 
-`INTJ` tokens may have the following values of `Typo`:
+`X` tokens may have the following values of `Typo`:
 
-* `Yes` (1; 100% of non-empty `Typo`): <em>pf</em>
+* `Yes` (2; 100% of non-empty `Typo`): <em>tschiu</em>
+
+### `ADJ`
+
+1 <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="qtd_sagt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`ADJ` tokens may have the following values of `Typo`:
+
+* `Yes` (1; 100% of non-empty `Typo`): <em>teoretikmen</em>
 
 ### `PROPN`
 

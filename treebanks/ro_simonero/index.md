@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Maria Mitrofan, Verginica Barbu Mititelu.
 
 Repository: [UD_Romanian-SiMoNERo](https://github.com/UniversalDependencies/UD_Romanian-SiMoNERo)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udro_simonero27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udro_simonero28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -59,6 +59,8 @@ We are grateful to the following texts providers: http://federatiaromanadiabet.r
 
 ## References
 
+Mititelu, V.B. and Mitrofan, M., The Romanian Medical Treebank - SiMoNERo. Proceedings of the The 15th Edition of the International Conference on Linguistic Resources and Tools for Natural Language Processing – ConsILR-2020ISSN 1843-911X, p.7-16, 2020.
+
 Maria Mitrofan, Verginica Barbu Mititelu, Grigorina Mitrofan, MoNERo: a Biomedical Gold Standard Corpus for the Romanian Language, in Proceedings of the BioNLP workshop, Florence, Italy, 1 August 2019, p. 71-79, Association for Computational Linguistics (https://www.aclweb.org/anthology/W19-5008).
 
 
@@ -75,7 +77,7 @@ Maria Mitrofan, Verginica Barbu Mititelu, Grigorina Mitrofan, MoNERo: a Biomedic
 
 ## Relations
 
-[acl](ro_simonero-dep-acl.html) – [advcl](ro_simonero-dep-advcl.html) – [advcl:tcl](ro_simonero-dep-advcl-tcl.html) – [advmod](ro_simonero-dep-advmod.html) – [advmod:tmod](ro_simonero-dep-advmod-tmod.html) – [amod](ro_simonero-dep-amod.html) – [appos](ro_simonero-dep-appos.html) – [aux](ro_simonero-dep-aux.html) – [aux:pass](ro_simonero-dep-aux-pass.html) – [case](ro_simonero-dep-case.html) – [cc](ro_simonero-dep-cc.html) – [cc:preconj](ro_simonero-dep-cc-preconj.html) – [ccomp](ro_simonero-dep-ccomp.html) – [ccomp:pmod](ro_simonero-dep-ccomp-pmod.html) – [compound](ro_simonero-dep-compound.html) – [conj](ro_simonero-dep-conj.html) – [cop](ro_simonero-dep-cop.html) – [csubj](ro_simonero-dep-csubj.html) – [csubj:pass](ro_simonero-dep-csubj-pass.html) – [dep](ro_simonero-dep-dep.html) – [det](ro_simonero-dep-det.html) – [expl](ro_simonero-dep-expl.html) – [expl:impers](ro_simonero-dep-expl-impers.html) – [expl:pass](ro_simonero-dep-expl-pass.html) – [expl:poss](ro_simonero-dep-expl-poss.html) – [expl:pv](ro_simonero-dep-expl-pv.html) – [fixed](ro_simonero-dep-fixed.html) – [flat](ro_simonero-dep-flat.html) – [goeswith](ro_simonero-dep-goeswith.html) – [iobj](ro_simonero-dep-iobj.html) – [mark](ro_simonero-dep-mark.html) – [nmod](ro_simonero-dep-nmod.html) – [nmod:agent](ro_simonero-dep-nmod-agent.html) – [nmod:pmod](ro_simonero-dep-nmod-pmod.html) – [nmod:tmod](ro_simonero-dep-nmod-tmod.html) – [nsubj](ro_simonero-dep-nsubj.html) – [nsubj:pass](ro_simonero-dep-nsubj-pass.html) – [nummod](ro_simonero-dep-nummod.html) – [obj](ro_simonero-dep-obj.html) – [obl](ro_simonero-dep-obl.html) – [orphan](ro_simonero-dep-orphan.html) – [parataxis](ro_simonero-dep-parataxis.html) – [punct](ro_simonero-dep-punct.html) – [root](ro_simonero-dep-root.html) – [xcomp](ro_simonero-dep-xcomp.html)
+[acl](ro_simonero-dep-acl.html) – [advcl](ro_simonero-dep-advcl.html) – [advcl:tcl](ro_simonero-dep-advcl-tcl.html) – [advmod](ro_simonero-dep-advmod.html) – [advmod:tmod](ro_simonero-dep-advmod-tmod.html) – [amod](ro_simonero-dep-amod.html) – [appos](ro_simonero-dep-appos.html) – [aux](ro_simonero-dep-aux.html) – [aux:pass](ro_simonero-dep-aux-pass.html) – [case](ro_simonero-dep-case.html) – [cc](ro_simonero-dep-cc.html) – [cc:preconj](ro_simonero-dep-cc-preconj.html) – [ccomp](ro_simonero-dep-ccomp.html) – [ccomp:pmod](ro_simonero-dep-ccomp-pmod.html) – [compound](ro_simonero-dep-compound.html) – [conj](ro_simonero-dep-conj.html) – [cop](ro_simonero-dep-cop.html) – [csubj](ro_simonero-dep-csubj.html) – [csubj:pass](ro_simonero-dep-csubj-pass.html) – [dep](ro_simonero-dep-dep.html) – [det](ro_simonero-dep-det.html) – [expl](ro_simonero-dep-expl.html) – [expl:impers](ro_simonero-dep-expl-impers.html) – [expl:pass](ro_simonero-dep-expl-pass.html) – [expl:poss](ro_simonero-dep-expl-poss.html) – [expl:pv](ro_simonero-dep-expl-pv.html) – [fixed](ro_simonero-dep-fixed.html) – [flat](ro_simonero-dep-flat.html) – [goeswith](ro_simonero-dep-goeswith.html) – [iobj](ro_simonero-dep-iobj.html) – [mark](ro_simonero-dep-mark.html) – [nmod](ro_simonero-dep-nmod.html) – [nmod:tmod](ro_simonero-dep-nmod-tmod.html) – [nsubj](ro_simonero-dep-nsubj.html) – [nsubj:pass](ro_simonero-dep-nsubj-pass.html) – [nummod](ro_simonero-dep-nummod.html) – [obj](ro_simonero-dep-obj.html) – [obl](ro_simonero-dep-obl.html) – [obl:agent](ro_simonero-dep-obl-agent.html) – [obl:pmod](ro_simonero-dep-obl-pmod.html) – [orphan](ro_simonero-dep-orphan.html) – [parataxis](ro_simonero-dep-parataxis.html) – [punct](ro_simonero-dep-punct.html) – [root](ro_simonero-dep-root.html) – [xcomp](ro_simonero-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -85,7 +87,7 @@ Maria Mitrofan, Verginica Barbu Mititelu, Grigorina Mitrofan, MoNERo: a Biomedic
 </ul>
 
 <ul>
-<li>All tokens in this corpus are followed by a space.</li>
+<li>This corpus contains 20472 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -219,7 +221,7 @@ Maria Mitrofan, Verginica Barbu Mititelu, Grigorina Mitrofan, MoNERo: a Biomedic
       <li>AUX-Fin: au, sunt, vor, erau, veți, vom, ați, suntem, sunteți, a</li>
       <li>DET: ale, unor, cele, aceste, alte, multe, ai, acestor, toate, acești</li>
       <li>NOUN: pacienții, pacienți, ani, cazuri, pacienților, vârstnici, studii, ori, celulele, celule</li>
-      <li>NUM: 2, 1, două, 3, 4, 5, 30, 10, 20, 6</li>
+      <li>NUM: două, trei, ambele, primele, patru, cinci, ultimii, șase, doi, ultimele</li>
       <li>PRON: acestea, cei, cele, acestora, ele, aceștia, celor, toate, le, li</li>
       <li>VERB-Fin: pot, au, apar, fac, cresc, aveau, produc, scad, susțin, includ</li>
       <li>VERB-Part: legate, tratați, asociate, diagnosticate, efectuate, folosite, aflați, considerate, diagnosticați, utilizate</li>
@@ -231,12 +233,12 @@ Maria Mitrofan, Verginica Barbu Mititelu, Grigorina Mitrofan, MoNERo: a Biomedic
   <li>Sing
     <ul>
       <li>ADJ: mare, crescut, zaharat, cardiacă, important, renală, cronică, clinic, severă, chirurgicală</li>
-      <li>AUX: este, a, fost, va, era, e, Aș, fii, i, putut</li>
-      <li>AUX-Fin: este, era, e, Aș, fii, i, sunt, voi</li>
+      <li>AUX: este, a, fost, va, era, e, Aș, esti, fii, i</li>
+      <li>AUX-Fin: este, era, e, Aș, esti, fii, i, sunt, voi</li>
       <li>AUX-Part: fost, putut</li>
       <li>DET: a, o, un, al, unui, acest, această, unei, cel, cea</li>
       <li>NOUN: nivelul, diabet, risc, cazul, insulină, tip, creșterea, tratamentul, tratament, vârsta</li>
-      <li>NUM: primul, prima, i, II, III, doua, doilea, primă, IV, ultimul</li>
+      <li>NUM: 2, 1, 3, 4, 5, 30, 10, 20, 6, 15</li>
       <li>PRON: ceea, cea, aceasta, cel, aceea, acesta, unul, el, o, acestuia</li>
       <li>PROPN: Americii, Americă, Asiei, Europei, Franței, Greciei, României</li>
       <li>VERB-Fin: poate, are, privește, crește, produce, face, rămâne, scade, apare, pare</li>
@@ -300,7 +302,7 @@ Maria Mitrofan, Verginica Barbu Mititelu, Grigorina Mitrofan, MoNERo: a Biomedic
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: mare, cardiacă, renală, cronică, crescută, severă, chirurgicală, aortică, mică, necesară</li>
+      <li>ADJ: mare, cardiacă, renală, cronică, severă, chirurgicală, crescută, aortică, mică, necesară</li>
       <li>DET: o, un, acest, această, cel, cele, aceste, alte, cea, toate</li>
       <li>NOUN: pacienții, nivelul, cazul, insulină, creșterea, tratamentul, vârsta, scăderea, creștere, riscul</li>
       <li>NUM: primul, prima, ambele, primele, primă, ultimii, ultimul, ultima, ultimele, primii</li>
@@ -598,7 +600,7 @@ Maria Mitrofan, Verginica Barbu Mititelu, Grigorina Mitrofan, MoNERo: a Biomedic
   <li>Ord
     <ul>
       <li>ADJ: ultimul, opta, primul</li>
-      <li>NUM: primul, prima, i, II, primele, III, doua, doilea, primă, ultimii</li>
+      <li>NUM: primul, II, iv, III, prima, i, primele, doua, doilea, primă</li>
     </ul>
   </li>
 </ul>
@@ -646,7 +648,7 @@ Maria Mitrofan, Verginica Barbu Mititelu, Grigorina Mitrofan, MoNERo: a Biomedic
 <ul>
   <li>2
     <ul>
-      <li>AUX-Fin: veți, ați, sunteți, fii</li>
+      <li>AUX-Fin: veți, ați, sunteți, esti, fii</li>
       <li>DET: tău</li>
       <li>PRON: vă, v-, dumneavoastră, te, tine, ți</li>
       <li>VERB-Fin: vezi, aveți, consultați, observați, participați, puteți, Contactați, acceptați, aflați, ai</li>
@@ -701,7 +703,7 @@ Maria Mitrofan, Verginica Barbu Mititelu, Grigorina Mitrofan, MoNERo: a Biomedic
           <li>ADJ: AV</li>
           <li>ADP: vs.</li>
           <li>ADV: vs, cca, aprox, etc, etc., vs., aprox.</li>
-          <li>NOUN: mg, IC, vs, HTA, TA, DZ, FA, p, AVC, dl</li>
+          <li>NOUN: mg, IC, vs, HTA, TA, DZ, FA, AVC, dl, EI</li>
           <li>X: GH, AG, max, ș.a.</li>
         </ul>
       </li>
@@ -725,6 +727,11 @@ Maria Mitrofan, Verginica Barbu Mititelu, Grigorina Mitrofan, MoNERo: a Biomedic
 <ul>
   <li><a>NumForm</a>
     <ul>
+      <li>Combi
+        <ul>
+          <li>NUM: 31.12.2012</li>
+        </ul>
+      </li>
       <li>Digit
         <ul>
           <li>NUM: 2, 1, 3, 4, 5, 30, 10, 20, 6, 15</li>
@@ -732,7 +739,7 @@ Maria Mitrofan, Verginica Barbu Mititelu, Grigorina Mitrofan, MoNERo: a Biomedic
       </li>
       <li>Roman
         <ul>
-          <li>NUM: i, II, III, IV, V, l, I-, VII, VIII, XIX</li>
+          <li>NUM: II, iv, III, i, V, l, VII, XIX, I-, VIII</li>
         </ul>
       </li>
       <li>Word
@@ -810,10 +817,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (457)</li>
+      <li>VERB-Fin--NOUN (458)</li>
       <li>VERB-Fin--NOUN-ADP(de) (2)</li>
       <li>VERB-Fin--NOUN-Gen (3)</li>
-      <li>VERB-Fin--NOUN-Nom (1875)</li>
+      <li>VERB-Fin--NOUN-Nom (1874)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(decât) (1)</li>
       <li>VERB-Fin--PRON-Gen (1)</li>
       <li>VERB-Fin--PRON-Nom (934)</li>
@@ -823,13 +830,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN (37)</li>
       <li>VERB-Inf--NOUN-Nom (121)</li>
       <li>VERB-Inf--PRON-Nom (32)</li>
-      <li>VERB-Part--NOUN (179)</li>
+      <li>VERB-Part--NOUN (167)</li>
       <li>VERB-Part--NOUN-ADP(dintre) (1)</li>
       <li>VERB-Part--NOUN-ADP(la) (2)</li>
       <li>VERB-Part--NOUN-Gen (1)</li>
-      <li>VERB-Part--NOUN-Nom (645)</li>
+      <li>VERB-Part--NOUN-Nom (591)</li>
       <li>VERB-Part--NOUN-Nom-ADP(la) (1)</li>
-      <li>VERB-Part--PRON-Nom (241)</li>
+      <li>VERB-Part--PRON-Nom (229)</li>
     </ul>
   </li>
 </ul>
@@ -837,12 +844,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (563)</li>
+      <li>VERB-Fin--NOUN (566)</li>
       <li>VERB-Fin--NOUN-ADP(de) (1)</li>
       <li>VERB-Fin--NOUN-ADP(pe) (2)</li>
       <li>VERB-Fin--NOUN-ADP(în) (2)</li>
       <li>VERB-Fin--NOUN-Gen (2)</li>
-      <li>VERB-Fin--NOUN-Nom (1312)</li>
+      <li>VERB-Fin--NOUN-Nom (1309)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(la) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(pe) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(în) (1)</li>
@@ -933,6 +940,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 14 relation subtypes: <a>advcl:tcl</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:pmod</a>, <a>csubj:pass</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>expl:poss</a>, <a>expl:pv</a>, <a>nmod:agent</a>, <a>nmod:pmod</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a></li>
+<li>This corpus uses 14 relation subtypes: <a>advcl:tcl</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:pmod</a>, <a>csubj:pass</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>expl:poss</a>, <a>expl:pv</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:pmod</a></li>
 <li>The following 6 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
 </ul>

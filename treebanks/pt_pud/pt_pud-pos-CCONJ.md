@@ -13,7 +13,7 @@ The 10 most frequent `CCONJ` lemmas: <em>e, _</em>
 
 The 10 most frequent `CCONJ` types:  <em>e, mas, ou, porém, Entretanto, como, contudo, portanto</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="pt_pud-pos-VERB.html">VERB</a></tt> 1059, <tt><a href="pt_pud-pos-PRON.html">PRON</a></tt> 891, <tt><a href="pt_pud-pos-ADP.html">ADP</a></tt> 689, <tt><a href="pt_pud-pos-NUM.html">NUM</a></tt> 467, <tt><a href="pt_pud-pos-AUX.html">AUX</a></tt> 418, <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt> 316, <tt><a href="pt_pud-pos-DET.html">DET</a></tt> 290, <tt><a href="pt_pud-pos-CCONJ.html">CCONJ</a></tt> 131, <tt><a href="pt_pud-pos-SCONJ.html">SCONJ</a></tt> 96, <tt><a href="pt_pud-pos-ADJ.html">ADJ</a></tt> 94, <tt><a href="pt_pud-pos-SYM.html">SYM</a></tt> 40, <tt><a href="pt_pud-pos-ADV.html">ADV</a></tt> 14, <tt><a href="pt_pud-pos-X.html">X</a></tt> 5, <tt><a href="pt_pud-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="pt_pud-pos-VERB.html">VERB</a></tt> 1059, <tt><a href="pt_pud-pos-PRON.html">PRON</a></tt> 891, <tt><a href="pt_pud-pos-ADP.html">ADP</a></tt> 677, <tt><a href="pt_pud-pos-NUM.html">NUM</a></tt> 467, <tt><a href="pt_pud-pos-AUX.html">AUX</a></tt> 418, <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt> 311, <tt><a href="pt_pud-pos-DET.html">DET</a></tt> 290, <tt><a href="pt_pud-pos-CCONJ.html">CCONJ</a></tt> 131, <tt><a href="pt_pud-pos-SCONJ.html">SCONJ</a></tt> 96, <tt><a href="pt_pud-pos-ADJ.html">ADJ</a></tt> 94, <tt><a href="pt_pud-pos-SYM.html">SYM</a></tt> 40, <tt><a href="pt_pud-pos-ADV.html">ADV</a></tt> 14, <tt><a href="pt_pud-pos-X.html">X</a></tt> 5, <tt><a href="pt_pud-pos-INTJ.html">INTJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>como</em> (<tt><a href="pt_pud-pos-ADP.html">ADP</a></tt> 116, <tt><a href="pt_pud-pos-ADV.html">ADV</a></tt> 5, <tt><a href="pt_pud-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="pt_pud-pos-SCONJ.html">SCONJ</a></tt> 4), <em>portanto</em> (<tt><a href="pt_pud-pos-ADP.html">ADP</a></tt> 1, <tt><a href="pt_pud-pos-CCONJ.html">CCONJ</a></tt> 1)
 
@@ -29,7 +29,7 @@ The 10 most frequent ambiguous types:  <em>como</em> (<tt><a href="pt_pud-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 4.000000 (the average of all parts of speech is 1.574215).
+The form / lemma ratio of `CCONJ` is 4.000000 (the average of all parts of speech is 1.571356).
 
 The 1st highest number of forms (8) was observed with the lemma “_”: <em>E, Entretanto, como, contudo, mas, ou, portanto, porém</em>.
 
@@ -42,7 +42,7 @@ The 2nd highest number of forms (1) was observed with the lemma “e”: <em>e</
 
 `CCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="pt_pud-dep-cc.html">cc</a></tt> (534; 92% instances), <tt><a href="pt_pud-dep-discourse.html">discourse</a></tt> (42; 7% instances), <tt><a href="pt_pud-dep-cc-preconj.html">cc:preconj</a></tt> (2; 0% instances)
 
-Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt> (231; 40% instances), <tt><a href="pt_pud-pos-VERB.html">VERB</a></tt> (217; 38% instances), <tt><a href="pt_pud-pos-PROPN.html">PROPN</a></tt> (52; 9% instances), <tt><a href="pt_pud-pos-ADJ.html">ADJ</a></tt> (40; 7% instances), <tt><a href="pt_pud-pos-NUM.html">NUM</a></tt> (13; 2% instances), <tt><a href="pt_pud-pos-ADV.html">ADV</a></tt> (11; 2% instances), <tt><a href="pt_pud-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="pt_pud-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="pt_pud-pos-SYM.html">SYM</a></tt> (3; 1% instances), <tt><a href="pt_pud-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="pt_pud-pos-NOUN.html">NOUN</a></tt> (230; 40% instances), <tt><a href="pt_pud-pos-VERB.html">VERB</a></tt> (219; 38% instances), <tt><a href="pt_pud-pos-PROPN.html">PROPN</a></tt> (52; 9% instances), <tt><a href="pt_pud-pos-ADJ.html">ADJ</a></tt> (40; 7% instances), <tt><a href="pt_pud-pos-NUM.html">NUM</a></tt> (13; 2% instances), <tt><a href="pt_pud-pos-ADV.html">ADV</a></tt> (11; 2% instances), <tt><a href="pt_pud-pos-ADP.html">ADP</a></tt> (6; 1% instances), <tt><a href="pt_pud-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="pt_pud-pos-SYM.html">SYM</a></tt> (3; 1% instances), <tt><a href="pt_pud-pos-DET.html">DET</a></tt> (1; 0% instances)
 
 515 (89%) `CCONJ` nodes are leaves.
 

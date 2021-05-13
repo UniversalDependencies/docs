@@ -30,7 +30,7 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 6	binatang	binatang	NOUN	_	Number=Sing	4	obj	_	_
 7	dengan	dengan	ADP	_	_	9	case:adv	_	_
 8	tidak	tidak	PART	_	Polarity=Neg	9	advmod	_	_
-9	sungguh-sungguh	sungguh	ADV	_	_	4	advmod	_	SpaceAfter=No
+9	sungguh-sungguh	sungguh	ADJ	_	_	4	advmod	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~

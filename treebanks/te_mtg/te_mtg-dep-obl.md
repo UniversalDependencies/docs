@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Telugu-MTG: Relations: `obl`
 
 This relation is universal.
-There are 2 language-specific subtypes of `obl`: <tt><a href="te_mtg-dep-obl-cau.html">obl:cau</a></tt>, <tt><a href="te_mtg-dep-obl-tmod.html">obl:tmod</a></tt>.
+There are 3 language-specific subtypes of `obl`: <tt><a href="te_mtg-dep-obl-cau.html">obl:cau</a></tt>, <tt><a href="te_mtg-dep-obl-cmp.html">obl:cmp</a></tt>, <tt><a href="te_mtg-dep-obl-tmod.html">obl:tmod</a></tt>.
 
 305 nodes (5%) are attached to their parents as `obl`.
 

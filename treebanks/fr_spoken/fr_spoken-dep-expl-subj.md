@@ -24,7 +24,7 @@ The following 7 pairs of parts of speech are connected with `expl:subj`: <tt><a 
 # visual-style 4 1 expl:subj	color:blue
 1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	_
 2	il	il	PRON	conj:reform	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	reparandum	_	_
-3	y	y	PRON	_	Person=3|PronType=Prs	4	obl:arg	_	_
+3	y	y	PRON	_	Person=3|PronType=Prs	4	iobj	_	_
 4	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	certains	certain	DET	_	Gender=Masc|Number=Plur|Person=3|PronType=Ind	6	det	_	_
 6	métiers	métier	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
@@ -34,7 +34,7 @@ The following 7 pairs of parts of speech are connected with `expl:subj`: <tt><a 
 10	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
 11	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	reparandum	_	_
 12	être	être	AUX	DoubleAux	Number=Sing|Person=3|VerbForm=Inf	13	aux	_	_
-13	né	naître	VERB	ETRE	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	xcomp:obj	_	_
+13	né	naître	VERB	ETRE	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	xcomp	_	_
 
 ~~~
 

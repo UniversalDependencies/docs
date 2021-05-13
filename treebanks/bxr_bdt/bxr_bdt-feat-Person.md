@@ -14,29 +14,29 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 753 tokens (7%) have a non-empty value of `Person`.
 381 types (9%) occur at least once with a non-empty value of `Person`.
 195 lemmas (8%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (527; 5% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> (132; 1% instances), <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (71; 1% instances), <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> (23; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (478; 5% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> (132; 1% instances), <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (120; 1% instances), <tt><a href="bxr_bdt-pos-PART.html">PART</a></tt> (23; 0% instances).
 
 ### `VERB`
 
-527 <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> tokens (33% of all `VERB` tokens) have a non-empty value of `Person`.
+478 <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> tokens (32% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (450; 85%), <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (339; 64%), <tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (339; 64%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (404; 85%), <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (306; 64%), <tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (306; 64%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (80; 15% of non-empty `Person`): <em>золгооб, арсалааб, байнабди, болонхойбди, гүйгээб, оройгдооб, оролдодогби, танилсаабди, хэлээб, үгөөб</em>
+* `1` (77; 16% of non-empty `Person`): <em>золгооб, арсалааб, байнабди, болонхойбди, гүйгээб, оройгдооб, оролдодогби, танилсаабди, хэлээб, үгөөб</em>
 * `2` (10; 2% of non-empty `Person`): <em>байгааш, байнат, болонолши, татааш, хаанабши, харанабши, харанат, хэлэхэбши, һэрюулээш</em>
-* `3` (437; 83% of non-empty `Person`): <em>болоно, байна, болоо, байһан, эхилээ, ябаа, ерээ, болоод, ерээд, түрэһэн</em>
-* `EMPTY` (1070): <em>гэжэ, байгаа, бии, гээшэ, ажаһуудаг, болонхой, байдаг, боложо, болохо, бэлэй</em>
+* `3` (391; 82% of non-empty `Person`): <em>эхилээ, байна, ерээ, ябаа, ерээд, түрэһэн, ябаһан, байһан, болоно, болоо</em>
+* `EMPTY` (1019): <em>гэжэ, бии, байгаа, гээшэ, ажаһуудаг, хэжэ, ябаха, боложо, гэхэдэ, ошожо</em>
 
 <table>
   <tr><th>Paradigm <i>бай</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="bxr_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>байгааб, байгаагүйб</em></td><td><em>байгааш</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="bxr_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>байгааш</em></td><td></td></tr>
   <tr><td><tt><tt><a href="bxr_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>байгаад</em></td></tr>
-  <tr><td><tt><tt><a href="bxr_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Aor</tt></tt></td><td><em>байнабди</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Aor</tt></tt></td><td><em>байнаб</em></td><td></td><td><em>байна</em></td></tr>
+  <tr><td><tt><tt><a href="bxr_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>байнабди</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>байһан, байһаншье</em></td></tr>
-  <tr><td><tt><tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Aor</tt></tt></td><td></td><td><em>байнат</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>байнаб</em></td><td></td><td><em>байна</em></td></tr>
+  <tr><td><tt><tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>байнат</em></td><td></td></tr>
 </table>
 
 ### `PRON`
@@ -53,24 +53,25 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `AUX`
 
-71 <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> tokens (36% of all `AUX` tokens) have a non-empty value of `Person`.
+120 <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> tokens (41% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="bxr_bdt-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (71; 100%), <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (66; 93%), <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (50; 70%), <tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (50; 70%), <tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Aor</tt> (36; 51%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="bxr_bdt-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (120; 100%), <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (112; 93%), <tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (83; 69%), <tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (83; 69%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (19; 27% of non-empty `Person`): <em>байгааб, гээшэб, байнабди, һэмби, байнаб, юмбибди, ядааб</em>
-* `2` (4; 6% of non-empty `Person`): <em>байгааш, байнабта, байналши, байнат</em>
-* `3` (48; 68% of non-empty `Person`): <em>байна, байһан, бэлэй, шадаа, һэм, шадана</em>
-* `EMPTY` (125): <em>юм, байгаа, бай, байба, байдаг, шадаха, баатай, байхада, Хэрбэеэ, Хэрбээ</em>
+* `1` (22; 18% of non-empty `Person`): <em>байгааб, гээшэб, байнабди, һэмби, байгаагүйб, байнаб, болонхойб, юмбибди, ядааб</em>
+* `2` (4; 3% of non-empty `Person`): <em>байгааш, байнабта, байналши, байнат</em>
+* `3` (94; 78% of non-empty `Person`): <em>байна, байһан, болоно, болоо, бэлэй, шадаа, һэм, болоод, байгаад, болоогүй</em>
+* `EMPTY` (176): <em>юм, байгаа, бай, байба, байдаг, болонхой, шадаха, баатай, байнхаар, байхада</em>
 
 <table>
   <tr><th>Paradigm <i>бай</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="bxr_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>байгааб</em></td><td><em>байгааш</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="bxr_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Aor</tt></tt></td><td><em>байнабди</em></td><td><em>байнабта</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Aor</tt></tt></td><td><em>байнаб</em></td><td><em>байналши</em></td><td><em>байна</em></td></tr>
+  <tr><td><tt><tt><a href="bxr_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>байгааб, байгаагүйб</em></td><td><em>байгааш</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="bxr_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>байгаад</em></td></tr>
+  <tr><td><tt><tt><a href="bxr_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>байнабди</em></td><td><em>байнабта</em></td><td></td></tr>
   <tr><td><tt><tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>байһан</em></td></tr>
-  <tr><td><tt><tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Aor</tt></tt></td><td></td><td><em>байнат</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>байнаб</em></td><td><em>байналши</em></td><td><em>байна</em></td></tr>
+  <tr><td><tt><tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>байнат</em></td><td></td></tr>
 </table>
 
 ### `PART`

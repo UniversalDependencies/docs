@@ -24,12 +24,12 @@ The following 8 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 4 8 acl:relcl	color:blue
 1	Visa	visas	DET	DT	Case=Nom|Gender=Fem|Number=Sing	2	det	_	En=all
 2	tai	tai	PRON	DT	_	3	nsubj	_	En=this
-3	primena	priminti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	En=mention
+3	primena	priminti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	En=mention
 4	karikatūra	karikatūra	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	3	obj	_	En=cartoon|SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	8	punct	_	En=,
 6	kurią	kuris	PRON	WPA	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	En=which
 7	neseniai	neseniai	ADV	RB	Degree=Pos|Polarity=Neg	8	advmod	_	En=recently
-8	mačiau	matyti	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Reflex=No|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	En=see
+8	mačiau	matyti	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	En=see
 9	lenkų	lenkas	ADJ	JJL	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	10	amod	_	En=Polish
 10	žurnale	žurnalas	NOUN	NN	Case=Loc|Gender=Masc|Number=Sing	8	obl	_	En=magazine|SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	10	punct	_	En=.
@@ -49,12 +49,12 @@ The following 8 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 4	kurie	kuris	PRON	WPA	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	En=which
 5	pas	pas	ADP	UH	_	6	case	_	En=to
 6	jus	jūs	PRON	PRP	Case=Acc|Number=Plur|Person=2	7	obl	_	En=you
-7	vadinami	vadinti	VERB	VBNH	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Part|Voice=Act	2	acl:relcl	_	En=call
+7	vadinami	vadinti	VERB	VBNH	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	2	acl:relcl	_	En=call
 8	dešiniaisiais	dešinys	ADJ	JJL	Case=Ins|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	7	obj	_	En=right-wing|SpaceAfter=No
 9	,	,	PUNCT	PUNCT	_	10	punct	_	En=,
 10	pas	pas	ADP	UH	_	11	case	_	En=with
 11	mus	mes	PRON	PRP	Case=Acc|Number=Plur|Person=1	12	obl	_	En=we
-12	vadinami	vadinti	VERB	VBNH	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	En=call
+12	vadinami	vadinti	VERB	VBNH	Case=Nom|Definite=Ind|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	En=call
 13	pusgalviais	pusgalvis	NOUN	NN	Case=Ins|Gender=Masc|Number=Plur	12	obj	_	En=left-wing|SpaceAfter=No
 14	“	“	PUNCT	PUNCT	_	12	punct	_	En=“|SpaceAfter=No
 15	.	.	PUNCT	PUNCT	_	12	punct	_	En=.
@@ -69,19 +69,19 @@ The following 8 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 10	fgColor:white
 # visual-style 10 13 acl:relcl	color:blue
 1	Bet	bet	CCONJ	CC	_	2	cc	_	En=but
-2	reikia	reikėti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	En=need
+2	reikia	reikėti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	En=need
 3	prie	prie	ADP	UH	_	4	case	_	En=to
 4	jos	ji	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	5	obl	_	En=they
-5	prisidėti	prisidėti	VERB	VB	Polarity=Pos|Reflex=No|VerbForm=Inf|Voice=Act	2	xcomp	_	En=take_part|SpaceAfter=No
+5	prisidėti	prisidėti	VERB	VB	Polarity=Pos|VerbForm=Inf|Voice=Act	2	xcomp	_	En=take_part|SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	9	punct	_	En=,
 7	o	o	CCONJ	CC	_	9	cc	_	En=and
 8	ne	ne	PART	UH	Polarity=Neg	9	advmod	_	En=not
-9	pasiduoti	pasiduoti	VERB	VB	Polarity=Pos|Reflex=No|VerbForm=Inf|Voice=Act	5	conj	_	En=grasp
+9	pasiduoti	pasiduoti	VERB	VB	Polarity=Pos|VerbForm=Inf|Voice=Act	5	conj	_	En=grasp
 10	tiems	tie	PRON	DT	Case=Dat|Gender=Masc|Number=Plur	9	iobj	_	En=that|SpaceAfter=No
 11	,	,	PUNCT	PUNCT	_	12	punct	_	En=,
 12	kas	kas	PRON	WP	Case=Nom	13	nsubj	_	En=who
-13	bando	bandyti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Past|VerbForm=Fin|Voice=Act	10	acl:relcl	_	En=try
-14	įamžinti	įamžinti	VERB	VB	Polarity=Pos|Reflex=No|VerbForm=Inf|Voice=Act	13	xcomp	_	En=commemorate
+13	bando	bandyti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	10	acl:relcl	_	En=try
+14	įamžinti	įamžinti	VERB	VB	Polarity=Pos|VerbForm=Inf|Voice=Act	13	xcomp	_	En=commemorate
 15	prieštvaninį	prieštvaninis	ADJ	JJL	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	En=antediluvian
 16	mentalitetą	mentalitetas	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	14	obj	_	En=mentality|SpaceAfter=No
 17	.	.	PUNCT	PUNCT	_	2	punct	_	En=.

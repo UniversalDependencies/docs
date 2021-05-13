@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="tr_gb-pos-VERB.html
 
 319 <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> tokens (10% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (294; 92%), <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (294; 92%), <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (270; 85%), <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (268; 84%), <tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (263; 82%), <tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (247; 77%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (236; 74%), <tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt> (184; 58%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (183; 57%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (294; 92%), <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (294; 92%), <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (270; 85%), <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (268; 84%), <tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (265; 83%), <tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (247; 77%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (236; 74%), <tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt> (184; 58%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (183; 57%).
 
 `VERB` tokens may have the following values of `Voice`:
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 * `CauCau` (5; 2% of non-empty `Voice`): <em>kestirttim, yaptırtmış, akıttırıyor</em>
 * `CauCauPass` (1; 0% of non-empty `Voice`): <em>yaptırtıldı</em>
 * `CauPass` (12; 4% of non-empty `Voice`): <em>büyütülürlerse, başlatılmak, diktirildi, durdurulmak, görevlendirilir, kararlaştırıldı, karşılaştırılmasını, pişirilseydi, uyandırılmalar, yapılaştırılmamış</em>
-* `CauPassRcp` (3; 1% of non-empty `Voice`): <em>D​ö​ğ​ü​ş​t​ü​r​ü​l​m​e​y​e​b​i​l​i​y​o​r​m​u​ş​s​u​n​u​z​d​u​r, Görüştürülemeye, dövüştürüldü</em>
+* `CauPassRcp` (3; 1% of non-empty `Voice`): <em>Döğüştürülmeyebiliyormuşsunuzdur, Görüştürülemeye, dövüştürüldü</em>
 * `CauRcp` (2; 1% of non-empty `Voice`): <em>araştırmalıyız, öpüştürdü</em>
 * `Pass` (164; 51% of non-empty `Voice`): <em>isteniyormuş, sayılır, açıldı, konmuş, satılmış, addediliyoruz, alınmaması, açılmamıştır, biliniyor, bozulmaktadır</em>
 * `PassPass` (2; 1% of non-empty `Voice`): <em>kırılınır, üzülünebilir</em>
@@ -34,7 +34,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 * `PassRfl` (1; 0% of non-empty `Voice`): <em>yıkanılır</em>
 * `Rcp` (18; 6% of non-empty `Voice`): <em>tanışmışlar, dövüşmezler, dövüştü, dövüştüler, tanışamadın, tanıştınız, fısıldaşmaya, karşılaştım, tanışmış, tanışıyormuşsunuz</em>
 * `Rfl` (10; 3% of non-empty `Voice`): <em>kapanıyor, yıkanabilirler, Görünen, giyindin, kapanmıştı, sürünüyor, yalanıyordu, yıkanmıştı</em>
-* `EMPTY` (2767): <em>geldi, gitmek, gerekiyor, görmüş, istiyor, söyledi, geçen, çalışıyor, ediyorum, gidiyor</em>
+* `EMPTY` (2766): <em>geldi, gitmek, gerekiyor, görmüş, istiyor, söyledi, geçen, çalışıyor, ediyorum, gidiyor</em>
 
 <table>
   <tr><th>Paradigm <i>yap</i></th><th><tt>Pass</tt></th><th><tt>Cau</tt></th><th><tt>CauCau</tt></th><th><tt>CauCauPass</tt></th></tr>

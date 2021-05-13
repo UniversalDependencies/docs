@@ -50,14 +50,14 @@ The 10 most frequent ambiguous types:  <em>det</em> (<tt><a href="sv_lines-pos-P
   * <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> 149: <em>Jag har ingen aning om <b>vad</b> ni talar om .</em>
   * <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> 2: <em>" Å , <b>vad</b> jag önskar att jag kunde sätta dit Lucius Malfoy för nånting "</em>
   * <tt><a href="sv_lines-pos-DET.html">DET</a></tt> 1: <em>Jag gick runt en stor grop som någon hade grävt i sluttningen , till <b>vad</b> ändamål kunde jag inte räkna ut .</em>
-  * <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> 1: <em>" Den nye läraren i försvar mot svartkonster måste vara en beundrare till honom -- slår <b>vad</b> om att det är en häxa . "</em>
+  * <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> 1: <em>" Den nye läraren i försvar mot svartkonster måste vara en beundrare till honom – slår <b>vad</b> om att det är en häxa . "</em>
 * <em>min</em>
   * <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> 146: <em>Den gamle läkaren tog <b>min</b> puls , tydligen med tankarna på annat håll .</em>
   * <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> 5: <em>Bray skrattade åt Dandos <b>min</b> :</em>
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 2.102041 (the average of all parts of speech is 1.416999).
+The form / lemma ratio of `PRON` is 2.102041 (the average of all parts of speech is 1.416904).
 
 The 1st highest number of forms (6) was observed with the lemma “jag”: <em>jag, mej, mig, min, mina, mitt</em>.
 

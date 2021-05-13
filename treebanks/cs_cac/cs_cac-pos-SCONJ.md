@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>ať</em> (<tt><a href="cs_cac-pos-SCO
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.023256 (the average of all parts of speech is 2.186231).
+The form / lemma ratio of `SCONJ` is 1.023256 (the average of all parts of speech is 2.186534).
 
 The 1st highest number of forms (2) was observed with the lemma “ačkoliv”: <em>ačkoli, ačkoliv</em>.
 

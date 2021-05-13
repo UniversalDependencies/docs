@@ -71,15 +71,15 @@ Parents of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="ru_
 
 15 (15%) `INTJ` nodes are leaves.
 
-52 (52%) `INTJ` nodes have one child.
+50 (50%) `INTJ` nodes have one child.
 
-20 (20%) `INTJ` nodes have two children.
+19 (19%) `INTJ` nodes have two children.
 
-13 (13%) `INTJ` nodes have three or more children.
+16 (16%) `INTJ` nodes have three or more children.
 
 The highest child degree of a `INTJ` node is 4.
 
-Children of `INTJ` nodes are attached using 12 different relations: <tt><a href="ru_syntagrus-dep-punct.html">punct</a></tt> (107; 79% instances), <tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt> (7; 5% instances), <tt><a href="ru_syntagrus-dep-cc.html">cc</a></tt> (4; 3% instances), <tt><a href="ru_syntagrus-dep-parataxis.html">parataxis</a></tt> (4; 3% instances), <tt><a href="ru_syntagrus-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="ru_syntagrus-dep-discourse.html">discourse</a></tt> (2; 1% instances), <tt><a href="ru_syntagrus-dep-fixed.html">fixed</a></tt> (2; 1% instances), <tt><a href="ru_syntagrus-dep-flat-name.html">flat:name</a></tt> (2; 1% instances), <tt><a href="ru_syntagrus-dep-obl.html">obl</a></tt> (2; 1% instances), <tt><a href="ru_syntagrus-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="ru_syntagrus-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt> (1; 1% instances)
+Children of `INTJ` nodes are attached using 12 different relations: <tt><a href="ru_syntagrus-dep-punct.html">punct</a></tt> (113; 80% instances), <tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt> (7; 5% instances), <tt><a href="ru_syntagrus-dep-cc.html">cc</a></tt> (4; 3% instances), <tt><a href="ru_syntagrus-dep-parataxis.html">parataxis</a></tt> (4; 3% instances), <tt><a href="ru_syntagrus-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="ru_syntagrus-dep-discourse.html">discourse</a></tt> (2; 1% instances), <tt><a href="ru_syntagrus-dep-fixed.html">fixed</a></tt> (2; 1% instances), <tt><a href="ru_syntagrus-dep-flat-name.html">flat:name</a></tt> (2; 1% instances), <tt><a href="ru_syntagrus-dep-obl.html">obl</a></tt> (2; 1% instances), <tt><a href="ru_syntagrus-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="ru_syntagrus-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt> (1; 1% instances)
 
-Children of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (107; 79% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (6; 4% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="ru_syntagrus-pos-CCONJ.html">CCONJ</a></tt> (4; 3% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt> (1; 1% instances)
+Children of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (113; 80% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (6; 4% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="ru_syntagrus-pos-CCONJ.html">CCONJ</a></tt> (4; 3% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt> (1; 1% instances)
 

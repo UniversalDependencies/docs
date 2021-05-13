@@ -65,9 +65,9 @@ The 2nd highest number of forms (2) was observed with the lemma “1975”: <em>
 
 The 3rd highest number of forms (2) was observed with the lemma “44”: <em>41-44, 44</em>.
 
-`X` occurs with 4 features: <tt><a href="pl_pdb-feat-Abbr.html">Abbr</a></tt> (2085; 67% instances), <tt><a href="pl_pdb-feat-Pun.html">Pun</a></tt> (1749; 56% instances), <tt><a href="pl_pdb-feat-NumForm.html">NumForm</a></tt> (861; 28% instances), <tt><a href="pl_pdb-feat-Foreign.html">Foreign</a></tt> (167; 5% instances)
+`X` occurs with 4 features: <tt><a href="pl_pdb-feat-Abbr.html">Abbr</a></tt> (2085; 67% instances), <tt><a href="pl_pdb-feat-Pun.html">Pun</a></tt> (1749; 56% instances), <tt><a href="pl_pdb-feat-NumForm.html">NumForm</a></tt> (861; 28% instances), <tt><a href="pl_pdb-feat-Foreign.html">Foreign</a></tt> (152; 5% instances)
 
-`X` occurs with 7 feature-value pairs: `Abbr=Yes`, `Foreign=No`, `Foreign=Yes`, `NumForm=Digit`, `NumForm=Roman`, `Pun=No`, `Pun=Yes`
+`X` occurs with 6 feature-value pairs: `Abbr=Yes`, `Foreign=Yes`, `NumForm=Digit`, `NumForm=Roman`, `Pun=No`, `Pun=Yes`
 
 `X` occurs with 7 feature combinations.
 The most frequent feature combination is `Abbr=Yes|Pun=Yes` (1239 tokens).

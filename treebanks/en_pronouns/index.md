@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Robert Munro.
 
 Repository: [UD_English-Pronouns](https://github.com/UniversalDependencies/UD_English-Pronouns)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_pronouns27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_pronouns28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -120,11 +120,11 @@ Please cite this book if using this dataset.
 
 
 <ul>
-<li>This corpus contains 285 sentences and 1695 tokens.</li>
+<li>This corpus contains 285 sentences and 1705 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 385 tokens (23%) that are not followed by a space.</li>
+<li>This corpus contains 395 tokens (23%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -152,18 +152,18 @@ Please cite this book if using this dataset.
 </ul>
 
 <ul>
-<li>This corpus contains 8 lemmas tagged as pronouns (PRON): all, he, it, me, she, there, they, you</li>
+<li>This corpus contains 7 lemmas tagged as pronouns (PRON): hers, his, it, mine, theirs, there, yours</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2 lemmas tagged as determiners (DET): any, the</li>
+<li>This corpus contains 3 lemmas tagged as determiners (DET): all, any, the</li>
 </ul>
 
 <ul>
 </ul>
 
 <ul>
-<li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): be, do, will</li>
+<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): be, will</li>
 </ul>
 
 <ul>
@@ -177,7 +177,7 @@ Please cite this book if using this dataset.
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: 's, is, was, 'll, ai, do</li>
+    <li>AUX: 's, is, was, 'll, ai</li>
     <li>VERB: cleaned, like, drove, sold, gave, is, knew, liked, Take, accelerated</li>
   </ul>
   </li>
@@ -194,8 +194,7 @@ Please cite this book if using this dataset.
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: is</li>
-    <li>VERB: seeing, cleaning</li>
+    <li>VERB: clean</li>
   </ul>
   </li>
 </ul>
@@ -203,7 +202,7 @@ Please cite this book if using this dataset.
 <ul>
   <li>Part
   <ul>
-    <li>VERB: cleaned</li>
+    <li>VERB: cleaned, seeing, cleaning, painted</li>
   </ul>
   </li>
 </ul>
@@ -247,8 +246,8 @@ Please cite this book if using this dataset.
 <ul>
   <li>Plur
     <ul>
-      <li>AUX-Fin: is</li>
       <li>NOUN: dealers, cars, bumps</li>
+      <li>VERB-Fin: like, sell, sold</li>
     </ul>
   </li>
 </ul>
@@ -256,12 +255,10 @@ Please cite this book if using this dataset.
 <ul>
   <li>Sing
     <ul>
-      <li>AUX-Fin: 's, was, is, ai</li>
-      <li>AUX-Inf: is</li>
+      <li>AUX-Fin: 's, is, was, ai</li>
       <li>NOUN: dealer, car, paint</li>
       <li>PRON: hers, his, mine, theirs, yours, it</li>
-      <li>VERB-Fin: cleaned, like, sold, drove, is, accelerated, broke, clean, get, hit</li>
-      <li>VERB-Inf: seeing, cleaning</li>
+      <li>VERB-Fin: cleaned, drove, is, sold, accelerated, broke, get, hit, parks, saw</li>
     </ul>
   </li>
 </ul>
@@ -271,17 +268,9 @@ Please cite this book if using this dataset.
 </ul>
 
 <ul>
-  <li>Gen
-    <ul>
-      <li>PRON: hers, his, mine, theirs, yours</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li>Nom
     <ul>
-      <li>PRON: all</li>
+      <li>DET: all</li>
     </ul>
   </li>
 </ul>
@@ -309,7 +298,7 @@ Please cite this book if using this dataset.
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: easy, painted</li>
+      <li>ADJ: easy</li>
     </ul>
   </li>
 </ul>
@@ -346,10 +335,8 @@ Please cite this book if using this dataset.
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: 's, is, was, ai, do</li>
-      <li>AUX-Inf: is</li>
+      <li>AUX-Fin: 's, is, was, ai</li>
       <li>VERB-Fin: cleaned, like, drove, sold, gave, is, knew, liked, accelerated, broke</li>
-      <li>VERB-Inf: seeing, cleaning</li>
     </ul>
   </li>
 </ul>
@@ -370,8 +357,8 @@ Please cite this book if using this dataset.
   <li>Past
     <ul>
       <li>AUX-Fin: was</li>
-      <li>VERB-Fin: cleaned, drove, gave, knew, liked, accelerated, broke, came, got, hit</li>
-      <li>VERB-Part: cleaned</li>
+      <li>VERB-Fin: cleaned, drove, sold, gave, knew, liked, accelerated, broke, came, got</li>
+      <li>VERB-Part: cleaned, painted</li>
     </ul>
   </li>
 </ul>
@@ -379,10 +366,9 @@ Please cite this book if using this dataset.
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: 's, is, ai, do</li>
-      <li>AUX-Inf: is</li>
-      <li>VERB-Fin: like, is, sold, Take, clean, get, parks, sell, sells</li>
-      <li>VERB-Inf: seeing, cleaning</li>
+      <li>AUX-Fin: 's, is, ai</li>
+      <li>VERB-Fin: like, is, Take, do, get, parks, sell, sells</li>
+      <li>VERB-Part: seeing, cleaning</li>
     </ul>
   </li>
 </ul>
@@ -452,11 +438,9 @@ Please cite this book if using this dataset.
 <ul>
   <li>1
     <ul>
-      <li>AUX-Fin: 's, was, is, ai</li>
-      <li>AUX-Inf: is</li>
+      <li>AUX-Fin: was, ai</li>
       <li>PRON: mine, it</li>
-      <li>VERB-Fin: cleaned, like, sold, drove, accelerated, broke, clean, get, hit, is</li>
-      <li>VERB-Inf: seeing, cleaning</li>
+      <li>VERB-Fin: cleaned, like, drove, sold, accelerated, broke, get, hit, saw, sell</li>
     </ul>
   </li>
 </ul>
@@ -464,11 +448,9 @@ Please cite this book if using this dataset.
 <ul>
   <li>2
     <ul>
-      <li>AUX-Fin: 's, was, is, ai</li>
-      <li>AUX-Inf: is</li>
+      <li>AUX-Fin: ai</li>
       <li>PRON: yours, it</li>
-      <li>VERB-Fin: cleaned, like, sold, drove, accelerated, broke, clean, get, hit, is</li>
-      <li>VERB-Inf: seeing, cleaning</li>
+      <li>VERB-Fin: cleaned, like, drove, sold, accelerated, broke, get, hit, saw, sell</li>
     </ul>
   </li>
 </ul>
@@ -476,11 +458,9 @@ Please cite this book if using this dataset.
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: 's, was, is, ai</li>
-      <li>AUX-Inf: is</li>
+      <li>AUX-Fin: 's, is, was, ai</li>
       <li>PRON: hers, his, theirs, it</li>
-      <li>VERB-Fin: cleaned, like, sold, drove, accelerated, broke, clean, get, hit, is</li>
-      <li>VERB-Inf: seeing, cleaning</li>
+      <li>VERB-Fin: cleaned, like, sold, drove, is, parks, sells, accelerated, broke, get</li>
     </ul>
   </li>
 </ul>
@@ -510,10 +490,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (135)</li>
-      <li>VERB-Fin--PRON-Gen (65)</li>
+      <li>VERB-Fin--NOUN (140)</li>
+      <li>VERB-Fin--PRON (70)</li>
       <li>VERB-Part--NOUN (10)</li>
-      <li>VERB-Part--PRON-Gen (5)</li>
+      <li>VERB-Part--PRON (5)</li>
     </ul>
   </li>
 </ul>
@@ -522,9 +502,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Fin--NOUN (35)</li>
-      <li>VERB-Fin--PRON-Gen (5)</li>
-      <li>VERB-Inf--NOUN (10)</li>
-      <li>VERB-Inf--PRON-Gen (10)</li>
+      <li>VERB-Fin--PRON (5)</li>
+      <li>VERB-Part--NOUN (10)</li>
+      <li>VERB-Part--PRON (10)</li>
     </ul>
   </li>
 </ul>
@@ -532,7 +512,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--PRON-Gen (5)</li>
+      <li>VERB-Fin--PRON (5)</li>
     </ul>
   </li>
 </ul>

@@ -43,7 +43,7 @@ The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 xcomp	color:blue
-1	Bir	bir	DET	ANum	NumType=Card	2	det	_	_
+1	Bir	bir	DET	ANum	_	2	det	_	_
 2	heves	heves	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	xcomp	_	_
 3	başladım	başla	VERB	Verb	Aspect=Perf|Evident=Fh|Number=Sing|Person=1|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	Punc	_	3	punct	_	SpacesAfter=\n
@@ -60,7 +60,7 @@ The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 1	Etraftan	etraf	NOUN	Noun	Case=Abl|Number=Sing|Person=3	4	obl	_	_
 2	benimle	ben	PRON	Pers	Case=Ins|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	3	obl	_	_
 3	evlenmek	evlen	VERB	Verb	Case=Nom|Polarity=Pos	4	xcomp	_	_
-4	isteyenler	iste	NOUN	Noun	Case=Nom|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Part	5	nsubj	_	_
+4	isteyenler	iste	NOUN	Noun	_	5	nsubj	_	_
 5	vardı	var	VERB	Verb	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Tense=Past	0	root	_	_
 6	ve	ve	CCONJ	Conj	_	9	cc	_	_
 7	ben	ben	PRON	Pers	Case=Nom|Number=Sing|Person=1	9	nsubj	_	_

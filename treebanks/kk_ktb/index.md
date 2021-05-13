@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Aibek Makazhanov, Jonathan North Washington, Francis Tyers.
 
 Repository: [UD_Kazakh-KTB](https://github.com/UniversalDependencies/UD_Kazakh-KTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkk_ktb27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkk_ktb28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -88,11 +88,11 @@ year = {2015},
 
 ## Features
 
-[Aspect](kk_ktb-feat-Aspect.html) – [Case](kk_ktb-feat-Case.html) – [Degree](kk_ktb-feat-Degree.html) – [Evident](kk_ktb-feat-Evident.html) – [Gender](kk_ktb-feat-Gender.html) – [Mood](kk_ktb-feat-Mood.html) – [Number](kk_ktb-feat-Number.html) – [Number[psor]](kk_ktb-feat-Number-psor.html) – [NumType](kk_ktb-feat-NumType.html) – [Person](kk_ktb-feat-Person.html) – [Person[psor]](kk_ktb-feat-Person-psor.html) – [Polarity](kk_ktb-feat-Polarity.html) – [Polite](kk_ktb-feat-Polite.html) – [PronType](kk_ktb-feat-PronType.html) – [Tense](kk_ktb-feat-Tense.html) – [VerbForm](kk_ktb-feat-VerbForm.html) – [Voice](kk_ktb-feat-Voice.html)
+[Aspect](kk_ktb-feat-Aspect.html) – [Case](kk_ktb-feat-Case.html) – [Degree](kk_ktb-feat-Degree.html) – [Evident](kk_ktb-feat-Evident.html) – [Gender](kk_ktb-feat-Gender.html) – [Mood](kk_ktb-feat-Mood.html) – [Number](kk_ktb-feat-Number.html) – [Number[psor]](kk_ktb-feat-Number-psor.html) – [NumType](kk_ktb-feat-NumType.html) – [Person](kk_ktb-feat-Person.html) – [Person[psor]](kk_ktb-feat-Person-psor.html) – [Polarity](kk_ktb-feat-Polarity.html) – [Polite](kk_ktb-feat-Polite.html) – [PronType](kk_ktb-feat-PronType.html) – [Reflex](kk_ktb-feat-Reflex.html) – [Tense](kk_ktb-feat-Tense.html) – [VerbForm](kk_ktb-feat-VerbForm.html) – [Voice](kk_ktb-feat-Voice.html)
 
 ## Relations
 
-[acl](kk_ktb-dep-acl.html) – [acl:poss](kk_ktb-dep-acl-poss.html) – [acl:relcl](kk_ktb-dep-acl-relcl.html) – [advcl](kk_ktb-dep-advcl.html) – [advmod](kk_ktb-dep-advmod.html) – [amod](kk_ktb-dep-amod.html) – [appos](kk_ktb-dep-appos.html) – [aux](kk_ktb-dep-aux.html) – [case](kk_ktb-dep-case.html) – [cc](kk_ktb-dep-cc.html) – [ccomp](kk_ktb-dep-ccomp.html) – [clf](kk_ktb-dep-clf.html) – [compound](kk_ktb-dep-compound.html) – [compound:lvc](kk_ktb-dep-compound-lvc.html) – [conj](kk_ktb-dep-conj.html) – [cop](kk_ktb-dep-cop.html) – [csubj](kk_ktb-dep-csubj.html) – [dep](kk_ktb-dep-dep.html) – [det](kk_ktb-dep-det.html) – [discourse](kk_ktb-dep-discourse.html) – [flat:name](kk_ktb-dep-flat-name.html) – [iobj](kk_ktb-dep-iobj.html) – [iobj:caus](kk_ktb-dep-iobj-caus.html) – [mark](kk_ktb-dep-mark.html) – [nmod](kk_ktb-dep-nmod.html) – [nmod:poss](kk_ktb-dep-nmod-poss.html) – [nsubj](kk_ktb-dep-nsubj.html) – [nummod](kk_ktb-dep-nummod.html) – [obj](kk_ktb-dep-obj.html) – [obl](kk_ktb-dep-obl.html) – [obl:own](kk_ktb-dep-obl-own.html) – [orphan](kk_ktb-dep-orphan.html) – [parataxis](kk_ktb-dep-parataxis.html) – [punct](kk_ktb-dep-punct.html) – [root](kk_ktb-dep-root.html) – [vocative](kk_ktb-dep-vocative.html) – [xcomp](kk_ktb-dep-xcomp.html)
+[acl](kk_ktb-dep-acl.html) – [acl:relcl](kk_ktb-dep-acl-relcl.html) – [advcl](kk_ktb-dep-advcl.html) – [advmod](kk_ktb-dep-advmod.html) – [amod](kk_ktb-dep-amod.html) – [appos](kk_ktb-dep-appos.html) – [aux](kk_ktb-dep-aux.html) – [case](kk_ktb-dep-case.html) – [cc](kk_ktb-dep-cc.html) – [ccomp](kk_ktb-dep-ccomp.html) – [clf](kk_ktb-dep-clf.html) – [compound](kk_ktb-dep-compound.html) – [compound:lvc](kk_ktb-dep-compound-lvc.html) – [conj](kk_ktb-dep-conj.html) – [cop](kk_ktb-dep-cop.html) – [csubj](kk_ktb-dep-csubj.html) – [dep](kk_ktb-dep-dep.html) – [det](kk_ktb-dep-det.html) – [discourse](kk_ktb-dep-discourse.html) – [flat:name](kk_ktb-dep-flat-name.html) – [iobj](kk_ktb-dep-iobj.html) – [mark](kk_ktb-dep-mark.html) – [nmod](kk_ktb-dep-nmod.html) – [nmod:poss](kk_ktb-dep-nmod-poss.html) – [nsubj](kk_ktb-dep-nsubj.html) – [nummod](kk_ktb-dep-nummod.html) – [obj](kk_ktb-dep-obj.html) – [obl](kk_ktb-dep-obl.html) – [obl:own](kk_ktb-dep-obl-own.html) – [orphan](kk_ktb-dep-orphan.html) – [parataxis](kk_ktb-dep-parataxis.html) – [punct](kk_ktb-dep-punct.html) – [root](kk_ktb-dep-root.html) – [vocative](kk_ktb-dep-vocative.html) – [xcomp](kk_ktb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -164,15 +164,6 @@ year = {2015},
 </ul>
 
 <ul>
-  <li>Cov
-  <ul>
-    <li>AUX: болып, бола, келе, алмай, бара, боп, отыра, тұра</li>
-    <li>VERB: басып, дами, алып, бара, жоспарланып, қарап, ала, бақылап, жаулап, көріп</li>
-  </ul>
-  </li>
-</ul>
-
-<ul>
   <li>Fin
   <ul>
     <li>AUX: болды, еді, жатыр, бастады, кетті, емес, келеді, отыр, екен, болады</li>
@@ -186,6 +177,15 @@ year = {2015},
   <ul>
     <li>AUX: екенін, болуы, болу, болуға, болғанда, болғанын, алатынына, алмауда, алғаннан, алғаныма</li>
     <li>VERB: алуға, жасау, келгенде, оқу, шешуі, қорғалуға, алу, асыру, атауға, ашылу</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Inf
+  <ul>
+    <li>AUX: болып, бола, келе, алмай, бара, боп, отыра, тұра</li>
+    <li>VERB: басып, дами, алып, бара, жоспарланып, қарап, ала, бақылап, жаулап, көріп</li>
   </ul>
   </li>
 </ul>
@@ -251,8 +251,8 @@ year = {2015},
       <li>AUX-Fin: болды, еді, жатыр, емес, кетті, бастады, келеді, отыр, екен, болады</li>
       <li>PRON: мен, ол, оның, сіздің, оны, сені, Сіз, маған, оған, Сен</li>
       <li>VERB-Conv: берсе, десең, жатса, Сүйсем, алмаса, ашылса, барса, болса, білсе, білсең</li>
-      <li>VERB-Cov: Тарағысы, айтқым, айтқысы, оқытса, Қарағысы, қайтқысы, қатысқысы, құттықтағым, ұсынғым</li>
       <li>VERB-Fin: деді, біледі, болды, өтті, береді, шықты, болады, болыпты, келді, табылады</li>
+      <li>VERB-Inf: Тарағысы, айтқым, айтқысы, оқытса, Қарағысы, қайтқысы, қатысқысы, құттықтағым, ұсынғым</li>
     </ul>
   </li>
 </ul>
@@ -387,14 +387,14 @@ year = {2015},
   <li>Neg
     <ul>
       <li>AUX-Conv: болмаса, кетпесем</li>
-      <li>AUX-Cov: алмай</li>
       <li>AUX-Fin: емес, алмайды, алмады, алмаймын, алмас, болған емес, болған жоқ, келген жоқ, келмеді, көрме</li>
       <li>AUX-Ger: алмауда, болмасымды, кетпесіне</li>
+      <li>AUX-Inf: алмай</li>
       <li>AUX-Part: алмайтындай, алмаған</li>
       <li>VERB-Conv: алаланбай, алмаса, аспай, жемей, жығылмай, келмей, саналмаса, қалдырмай, қорықпай, қылмай</li>
-      <li>VERB-Cov: ашпай, білінбей, келмей</li>
       <li>VERB-Fin: келмейді, болмайды, айтпайды, білмеймін, қылмады, айтылмады, айырмайды, араласпаймын, араласқан жоқ, аяма</li>
       <li>VERB-Ger: айрылмауға, алаланбауы, алмастан, бермеуі, жазылмасын, жетіспеушілігінен, келмеуі, сұғылмауына, қосылмау</li>
+      <li>VERB-Inf: ашпай, білінбей, келмей</li>
       <li>VERB-Part: Ашылмайтын, еңсерілмейтін, жатпайтын, оқымаған, сездірмеске, сүймеген, шешілмеген, Қорықпайтын</li>
     </ul>
   </li>
@@ -409,15 +409,24 @@ year = {2015},
 </ul>
 
 <ul>
+  <li>Hab
+    <ul>
+      <li>AUX-Fin: емес, келеді, екен, болады, мын, алмайды, береді, кетеді, тұрады, қалады</li>
+      <li>VERB-Fin: біледі, береді, болады, табылады, түседі, тұрады, көрінеді, дейді, келеді, келмейді</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Imp
     <ul>
       <li>AUX-Conv: бола</li>
-      <li>AUX-Cov: бола, келе, алмай, бара, отыра, тұра</li>
       <li>AUX-Ger: алатынына, болатыны</li>
+      <li>AUX-Inf: бола, келе, алмай, бара, отыра, тұра</li>
       <li>AUX-Part: алмайтындай, болатын, отыратын</li>
       <li>VERB-Conv: қайта, ажарлана, арсыздана, арттыра, жая, мадақтай, тұра, шақыра, қаша</li>
-      <li>VERB-Cov: дами, бара, ала, отыра, араласа, арта, бере, жете, келе, кіре</li>
       <li>VERB-Ger: жығатынын, мақтанатыны, табылатынын, әкелетіні, өзгеретінін</li>
+      <li>VERB-Inf: дами, бара, ала, отыра, араласа, арта, бере, жете, келе, кіре</li>
       <li>VERB-Part: жейтін, тұратын, Ашылмайтын, Танытатын, асыратын, баратын, болатын, білетін, бұзатын, дайындайтын</li>
     </ul>
   </li>
@@ -427,9 +436,9 @@ year = {2015},
   <li>Perf
     <ul>
       <li>AUX-Conv: болып, алып, жіберіп, жүріп, отырып, тұрып</li>
-      <li>AUX-Cov: болып, алмай, боп</li>
+      <li>AUX-Inf: болып, алмай, боп</li>
       <li>VERB-Conv: деп, алып, бастап, барып, Сөйтіп, беріп, болып, қашып, құлап, айналып</li>
-      <li>VERB-Cov: басып, алып, жоспарланып, қарап, бақылап, жаулап, көріп, шығып, құрып, беріп</li>
+      <li>VERB-Inf: басып, алып, жоспарланып, қарап, бақылап, жаулап, көріп, шығып, құрып, беріп</li>
     </ul>
   </li>
 </ul>
@@ -443,7 +452,18 @@ year = {2015},
     <ul>
       <li>AUX-Conv: болса, болмаса, берсек, болсам, болсаң, жатса, кетпесем</li>
       <li>VERB-Conv: берсе, десең, жатса, Сүйсем, алмаса, ашылса, барса, болса, білсе, білсең</li>
-      <li>VERB-Cov: оқытса</li>
+      <li>VERB-Inf: оқытса</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Des
+    <ul>
+      <li>AUX-Fin: бермек, болмақ</li>
+      <li>VERB-Fin: алсам екен, аңдысам екен, кеңейтілмек, көздемек</li>
+      <li>VERB-Ger: білмек</li>
+      <li>VERB-Inf: Тарағысы, айтқым, айтқысы, Қарағысы, қайтқысы, қатысқысы, құттықтағым, ұсынғым</li>
     </ul>
   </li>
 </ul>
@@ -485,45 +505,17 @@ year = {2015},
 </ul>
 
 <ul>
-  <li>Vol
-    <ul>
-      <li>VERB-Cov: Тарағысы, айтқым, айтқысы, Қарағысы, қайтқысы, қатысқысы, құттықтағым, ұсынғым</li>
-      <li>VERB-Fin: алсам екен, аңдысам екен</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li><a>Tense</a></li>
-</ul>
-
-<ul>
-  <li>Aor
-    <ul>
-      <li>AUX-Fin: емес, келеді, екен, болады, мын, алмайды, береді, кетеді, тұрады, қалады</li>
-      <li>VERB-Fin: біледі, береді, болады, табылады, түседі, тұрады, көрінеді, дейді, келеді, келмейді</li>
-    </ul>
-  </li>
 </ul>
 
 <ul>
   <li>Fut
     <ul>
-      <li>AUX-Fin: алмас</li>
+      <li>AUX-Fin: бермек, алмас, болмақ</li>
       <li>AUX-Ger: болмасымды, кетпесіне</li>
-      <li>VERB-Fin: көрсет, барарсың, бүлінер, бәсеңдер, естірсіз, көрер, соғармын, суынар, сөйлесерміз, ішермін</li>
-      <li>VERB-Ger: алмастан, жазылмасын</li>
+      <li>VERB-Fin: көрсет, барарсың, бүлінер, бәсеңдер, естірсіз, кеңейтілмек, көздемек, көрер, соғармын, суынар</li>
+      <li>VERB-Ger: алмастан, білмек, жазылмасын</li>
       <li>VERB-Part: Блоктарға, артар, аяр, дер, сездірмеске</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>FutPlan
-    <ul>
-      <li>AUX-Fin: бермек, болмақ</li>
-      <li>VERB-Fin: кеңейтілмек, көздемек</li>
-      <li>VERB-Ger: білмек</li>
     </ul>
   </li>
 </ul>
@@ -544,8 +536,8 @@ year = {2015},
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: жатыр, отыр, жатырмыз, жүр, тұр, отырмын, тұрмын, жатырмын, жатырсыздар, жүрміз</li>
-      <li>VERB-Fin: тұр</li>
+      <li>AUX-Fin: жатыр, емес, келеді, отыр, екен, болады, мын, алмайды, береді, кетеді</li>
+      <li>VERB-Fin: біледі, береді, болады, табылады, түседі, тұрады, көрінеді, дейді, келеді, келмейді</li>
     </ul>
   </li>
 </ul>
@@ -555,25 +547,25 @@ year = {2015},
 </ul>
 
 <ul>
-  <li>Coop
+  <li>Pass
     <ul>
-      <li>VERB-Conv: тартысып, Қиюласып, өлтіріспей</li>
-      <li>VERB-Cov: айтысып, араласа, соғыса, танысып, қатысқысы, құшақтасып</li>
-      <li>VERB-Fin: айналысады, араласқан жоқ, байланысты, бөлісеміз, жалғасты, жасасты, келісті, сөйлесерміз, танысты, қатысамын</li>
-      <li>VERB-Ger: жетіспеушілігінен, танысқаныма, істесуге, Қалыптасу, қатысуға, әңгімелесуіміз, өлтіріскеніне</li>
-      <li>VERB-Part: таласқандай, топтасқан</li>
+      <li>VERB-Conv: алаланбай, ажарлана, ашылса, байқалып, басталып, бұзылып, жарияланып, жасалып, жығылмай, расталса</li>
+      <li>VERB-Fin: ашылды, табылады, құрылды, жойылды, көрінеді, анықталады, басталды, берілді, жарияланады, жасалады</li>
+      <li>VERB-Ger: қорғалуға, ашылу, азапталуға, алаланбауы, асырылуы, аяқталуы, басталуы, басталғаннан, басылуы, білінген</li>
+      <li>VERB-Inf: жоспарланып, бөлініп, өткізіліп, басылып, білінбей, бұжырланып, жіберіліп, көрсетіліп, сайланып, салына</li>
+      <li>VERB-Part: аталған, кеңейтілген, табылған, Атқарылған, Ашылмайтын, арналған, белгіленген, еңсерілмейтін, жабдықталған, жарияланған</li>
     </ul>
   </li>
 </ul>
 
 <ul>
-  <li>Pass
+  <li>Rcp
     <ul>
-      <li>VERB-Conv: алаланбай, ажарлана, ашылса, байқалып, басталып, бұзылып, жарияланып, жасалып, жығылмай, расталса</li>
-      <li>VERB-Cov: жоспарланып, бөлініп, өткізіліп, басылып, білінбей, бұжырланып, жіберіліп, көрсетіліп, сайланып, салына</li>
-      <li>VERB-Fin: ашылды, табылады, құрылды, жойылды, көрінеді, анықталады, басталды, берілді, жарияланады, жасалады</li>
-      <li>VERB-Ger: қорғалуға, ашылу, азапталуға, алаланбауы, асырылуы, аяқталуы, басталуы, басталғаннан, басылуы, білінген</li>
-      <li>VERB-Part: аталған, кеңейтілген, табылған, Атқарылған, Ашылмайтын, арналған, белгіленген, еңсерілмейтін, жабдықталған, жарияланған</li>
+      <li>VERB-Conv: тартысып, Қиюласып, өлтіріспей</li>
+      <li>VERB-Fin: айналысады, араласқан жоқ, байланысты, бөлісеміз, жалғасты, жасасты, келісті, сөйлесерміз, танысты, қатысамын</li>
+      <li>VERB-Ger: жетіспеушілігінен, танысқаныма, істесуге, Қалыптасу, қатысуға, әңгімелесуіміз, өлтіріскеніне</li>
+      <li>VERB-Inf: айтысып, араласа, соғыса, танысып, қатысқысы, құшақтасып</li>
+      <li>VERB-Part: таласқандай, топтасқан</li>
     </ul>
   </li>
 </ul>
@@ -639,16 +631,8 @@ year = {2015},
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: біз, мен, ол, біздің, оның, олар, сіздің, оны, сені, Сіз</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Qnt
-    <ul>
-      <li>DET: барлық, әр, бүкіл, бірқатар, көп, көптеген, қанша, бірнеше, Бірталай, бірсыпыра</li>
-      <li>PRON: бәрі, барлығы, бәрін, бірқатары, күллі</li>
+      <li>DET: өз</li>
+      <li>PRON: біз, мен, ол, біздің, оның, олар, өзі, сіздің, оны, сені</li>
     </ul>
   </li>
 </ul>
@@ -662,18 +646,10 @@ year = {2015},
 </ul>
 
 <ul>
-  <li>Ref
-    <ul>
-      <li>DET: өз</li>
-      <li>PRON: өзі, өзінің, өзіміздің, өзінде, өзінше, өздері, өздерінің, өздерің, өзін, өзін-өзі</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li>Tot
     <ul>
-      <li>PRON: баршаға</li>
+      <li>DET: барлық, әр, бүкіл, бірқатар, көп, көптеген, қанша, бірнеше, Бірталай, бірсыпыра</li>
+      <li>PRON: бәрі, барлығы, бәрін, баршаға, бірқатары, күллі</li>
     </ul>
   </li>
 </ul>
@@ -715,6 +691,18 @@ year = {2015},
 </ul>
 
 
+<ul>
+  <li><a>Reflex</a></li>
+</ul>
+
+<ul>
+  <li>Yes
+    <ul>
+      <li>DET: өз</li>
+      <li>PRON: өзі, өзінің, өзіміздің, өзінде, өзінше, өздері, өздерінің, өздерің, өзін, өзін-өзі</li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Person</a></li>
@@ -727,8 +715,8 @@ year = {2015},
       <li>AUX-Fin: мын, жатырмыз, алдым, алмаймын, отырмын, тұрмын, беремін, болайын, болдым, быз</li>
       <li>PRON: біз, мен, біздің, маған, бізді, менің, Мені, бізге, Бізде, Менде</li>
       <li>VERB-Conv: Сүйсем, жатсам, тұрсам</li>
-      <li>VERB-Cov: айтқым, құттықтағым, ұсынғым</li>
       <li>VERB-Fin: құттықтаймын, айтамыз, алам, білейік, білмеймін, көрдім, ойлаймын, айқындаймыз, алдым, алдық</li>
+      <li>VERB-Inf: айтқым, құттықтағым, ұсынғым</li>
     </ul>
   </li>
 </ul>
@@ -752,8 +740,8 @@ year = {2015},
       <li>AUX-Fin: болды, еді, жатыр, бастады, кетті, емес, келеді, отыр, екен, болады</li>
       <li>PRON: ол, оның, олар, оны, олардың, оған, Аның, одан, оларды, оларға</li>
       <li>VERB-Conv: берсе, жатса, алмаса, ашылса, барса, болса, білсе, жалынса, жыласа, жүрсе</li>
-      <li>VERB-Cov: Тарағысы, айтқысы, оқытса, Қарағысы, қайтқысы, қатысқысы</li>
       <li>VERB-Fin: деді, біледі, болды, келді, өтті, береді, шықты, алды, ашылды, болады</li>
+      <li>VERB-Inf: Тарағысы, айтқысы, оқытса, Қарағысы, қайтқысы, қатысқысы</li>
     </ul>
   </li>
 </ul>
@@ -879,9 +867,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN-Nom (37)</li>
       <li>VERB-Conv--PRON-Dat (1)</li>
       <li>VERB-Conv--PRON-Nom (8)</li>
-      <li>VERB-Cov--NOUN-Nom (72)</li>
-      <li>VERB-Cov--PRON-Gen (1)</li>
-      <li>VERB-Cov--PRON-Nom (37)</li>
       <li>VERB-Fin--NOUN (4)</li>
       <li>VERB-Fin--NOUN-Nom (288)</li>
       <li>VERB-Fin--PRON-Nom (84)</li>
@@ -889,6 +874,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--NOUN-Nom (29)</li>
       <li>VERB-Ger--PRON-Gen (7)</li>
       <li>VERB-Ger--PRON-Nom (10)</li>
+      <li>VERB-Inf--NOUN-Nom (72)</li>
+      <li>VERB-Inf--PRON-Gen (1)</li>
+      <li>VERB-Inf--PRON-Nom (37)</li>
       <li>VERB-Part--NOUN-Gen (2)</li>
       <li>VERB-Part--NOUN-Nom (24)</li>
       <li>VERB-Part--PRON-Nom (3)</li>
@@ -903,11 +891,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN-Nom (25)</li>
       <li>VERB-Conv--PRON-Acc (4)</li>
       <li>VERB-Conv--PRON-Nom (3)</li>
-      <li>VERB-Cov--NOUN-Acc (34)</li>
-      <li>VERB-Cov--NOUN-Dat (2)</li>
-      <li>VERB-Cov--NOUN-Nom (19)</li>
-      <li>VERB-Cov--PRON-Acc (5)</li>
-      <li>VERB-Cov--PRON-Nom (1)</li>
       <li>VERB-Fin--NOUN-Acc (106)</li>
       <li>VERB-Fin--NOUN-Dat (7)</li>
       <li>VERB-Fin--NOUN-Nom (82)</li>
@@ -919,6 +902,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--NOUN-Nom (44)</li>
       <li>VERB-Ger--PRON-Acc (8)</li>
       <li>VERB-Ger--PRON-Dat (1)</li>
+      <li>VERB-Inf--NOUN-Acc (34)</li>
+      <li>VERB-Inf--NOUN-Dat (2)</li>
+      <li>VERB-Inf--NOUN-Nom (19)</li>
+      <li>VERB-Inf--PRON-Acc (5)</li>
+      <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN-Acc (15)</li>
       <li>VERB-Part--NOUN-Dat (1)</li>
       <li>VERB-Part--NOUN-Nom (11)</li>
@@ -931,6 +919,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
+      <li>VERB-Fin--NOUN-Acc (1)</li>
       <li>VERB-Fin--NOUN-Dat (1)</li>
       <li>VERB-Ger--NOUN-Abl (1)</li>
       <li>VERB-Part--NOUN-Dat (1)</li>
@@ -940,11 +929,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 
 
+<h3>Verbs with Reflexive Core Objects</h3>
+
+<ul>
+  <li>This corpus contains 2 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: басқар өзін-өзі, әкел өзін</li>
+</ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 7 relation subtypes: <a>acl:poss</a>, <a>acl:relcl</a>, <a>compound:lvc</a>, <a>flat:name</a>, <a>iobj:caus</a>, <a>nmod:poss</a>, <a>obl:own</a></li>
+<li>This corpus uses 5 relation subtypes: <a>acl:relcl</a>, <a>compound:lvc</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>obl:own</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
 <li>The following 6 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

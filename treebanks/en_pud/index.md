@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Jesse Kirchner, Lorenzo Lambertino, Martin Popel, Daniel Zeman, Christopher Manning, Sebastian Schuster, Siva Reddy.
 
 Repository: [UD_English-PUD](https://github.com/UniversalDependencies/UD_English-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_pud27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_pud28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 3.0
 
@@ -331,8 +331,9 @@ features and lemmata were added by Sebastian Schuster.
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: new, many, other, such, last, great, high, first, own, several</li>
+      <li>ADJ: new, many, other, such, last, high, own, several, first, political</li>
       <li>ADV: well, far, late, soon, close, early, hard, long, Fast</li>
+      <li>PROPN: Great, American, Atlantic, Dark, Middle, National, United</li>
     </ul>
   </li>
 </ul>
@@ -584,7 +585,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (324)</li>
+      <li>VERB-Fin--NOUN (325)</li>
       <li>VERB-Fin--NOUN-ADP(on) (1)</li>
       <li>VERB-Fin--PRON (89)</li>
       <li>VERB-Fin--PRON-Nom (179)</li>
@@ -606,7 +607,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (298)</li>
+      <li>VERB-Fin--NOUN (297)</li>
       <li>VERB-Fin--PRON (3)</li>
       <li>VERB-Fin--PRON-Acc (29)</li>
       <li>VERB-Ger--NOUN (109)</li>

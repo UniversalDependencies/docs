@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  ⲟⲩⲁ (<tt><a href="cop_scriptorium-p
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.111111 (the average of all parts of speech is 1.124670).
+The form / lemma ratio of `NUM` is 1.111111 (the average of all parts of speech is 1.124953).
 
 The 1st highest number of forms (4) was observed with the lemma “ⲟⲩⲁ”: ⲟⲩⲁ, ⲟⲩⲉⲓ, ⲟⲩⲓ, ⲩⲁ.
 
@@ -62,12 +62,12 @@ The 2nd highest number of forms (3) was observed with the lemma “ⲥⲁϣϥ”
 
 The 3rd highest number of forms (2) was observed with the lemma “ϥⲧⲟⲟⲩ”: ϥⲧⲟⲟⲩ, ϥⲧⲟⲩ.
 
-`NUM` occurs with 1 features: <tt><a href="cop_scriptorium-feat-NumType.html">NumType</a></tt> (242; 100% instances)
+`NUM` occurs with 2 features: <tt><a href="cop_scriptorium-feat-NumType.html">NumType</a></tt> (242; 100% instances), <tt><a href="cop_scriptorium-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
 
-`NUM` occurs with 1 feature-value pairs: `NumType=Card`
+`NUM` occurs with 2 feature-value pairs: `Foreign=Yes`, `NumType=Card`
 
-`NUM` occurs with 1 feature combinations.
-The most frequent feature combination is `NumType=Card` (242 tokens).
+`NUM` occurs with 2 feature combinations.
+The most frequent feature combination is `NumType=Card` (241 tokens).
 Examples: ⲟⲩⲁ, ⲥⲛⲁⲩ, ϣⲉ, ⲙⲛⲧⲥⲛⲟⲟⲩⲥ, ⲙⲏⲧ, ϣⲟⲙⲛⲧ, ⲥⲁϣϥ, ⲥⲛⲧⲉ, ⲟⲩⲉⲓ, ⲧⲃⲁ
 
 

@@ -25,7 +25,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Abl` (531; 2% of non-empty `Case`): <em>aurretik, hasieratik, etxetik, urtetik, zalantzarik, arazorik, dudarik, goitik, egunetik, herritik</em>
 * `Abs` (9468; 44% of non-empty `Case`): <em>behar, nahi, uste, ezin, urte, partidua, aukera, taldea, garaipena, lana</em>
 * `All` (447; 2% of non-empty `Case`): <em>behera, segundora, aurrera, etxera, herrira, kalera, urtera, atzera, kanpora, mailara</em>
-* `Ben` (57; 0% of non-empty `Case`): <em>emakumeentzat, ertzainentzat, gorritxoentzat, jokalarientzat, Estatuarentzat, Greziarrentzat, Hegoaldekoentzat, Munduarentzat, T​x​i​r​r​i​n​d​u​l​a​r​i​t​z​a​r​e​n​t​z​a​t, Zuzenbidearentzat</em>
+* `Ben` (57; 0% of non-empty `Case`): <em>emakumeentzat, ertzainentzat, gorritxoentzat, jokalarientzat, Estatuarentzat, Greziarrentzat, Hegoaldekoentzat, Munduarentzat, Txirrindularitzarentzat, Zuzenbidearentzat</em>
 * `Cau` (52; 0% of non-empty `Case`): <em>arazoengatik, delituengatik, finantzaketagatik, gorrotoarengatik, hilketagatik, kasuengatik, Bartzelonakoengatik, Euriagatik, adierazpenengatik, arrazoiengatik</em>
 * `Com` (400; 2% of non-empty `Case`): <em>taldearekin, urterekin, punturekin, taldekideekin, aldearekin, lagunekin, selekzioarekin, erabakiarekin, kideekin, laguntzarekin</em>
 * `Dat` (672; 3% of non-empty `Case`): <em>mahai, gobernuari, zelai, Jaurlaritzari, denboraldiari, buruari, palestinarrei, jokalariei, taldeari, aurrekontuei</em>

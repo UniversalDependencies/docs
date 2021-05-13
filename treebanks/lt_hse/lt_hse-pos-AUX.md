@@ -46,12 +46,12 @@ The form / lemma ratio of `AUX` is 19.000000 (the average of all parts of speech
 
 The 1st highest number of forms (19) was observed with the lemma “būti”: <em>Esama, Esame, bus, buvo, būna, būsime, būti, būtų, esu, esą, esąs, nebus, nebuvo, nebūna, nebūsi, nebūtų, nesame, nėra, yra</em>.
 
-`AUX` occurs with 11 features: <tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt> (112; 100% instances), <tt><a href="lt_hse-feat-Reflex.html">Reflex</a></tt> (112; 100% instances), <tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt> (112; 100% instances), <tt><a href="lt_hse-feat-Voice.html">Voice</a></tt> (112; 100% instances), <tt><a href="lt_hse-feat-Number.html">Number</a></tt> (106; 95% instances), <tt><a href="lt_hse-feat-Mood.html">Mood</a></tt> (105; 94% instances), <tt><a href="lt_hse-feat-Person.html">Person</a></tt> (105; 94% instances), <tt><a href="lt_hse-feat-Tense.html">Tense</a></tt> (95; 85% instances), <tt><a href="lt_hse-feat-Definite.html">Definite</a></tt> (3; 3% instances), <tt><a href="lt_hse-feat-Gender.html">Gender</a></tt> (3; 3% instances), <tt><a href="lt_hse-feat-Case.html">Case</a></tt> (1; 1% instances)
+`AUX` occurs with 11 features: <tt><a href="lt_hse-feat-Polarity.html">Polarity</a></tt> (112; 100% instances), <tt><a href="lt_hse-feat-VerbForm.html">VerbForm</a></tt> (112; 100% instances), <tt><a href="lt_hse-feat-Voice.html">Voice</a></tt> (112; 100% instances), <tt><a href="lt_hse-feat-Number.html">Number</a></tt> (106; 95% instances), <tt><a href="lt_hse-feat-Mood.html">Mood</a></tt> (105; 94% instances), <tt><a href="lt_hse-feat-Person.html">Person</a></tt> (105; 94% instances), <tt><a href="lt_hse-feat-Tense.html">Tense</a></tt> (95; 85% instances), <tt><a href="lt_hse-feat-Definite.html">Definite</a></tt> (3; 3% instances), <tt><a href="lt_hse-feat-Gender.html">Gender</a></tt> (3; 3% instances), <tt><a href="lt_hse-feat-Aspect.html">Aspect</a></tt> (1; 1% instances), <tt><a href="lt_hse-feat-Case.html">Case</a></tt> (1; 1% instances)
 
-`AUX` occurs with 23 feature-value pairs: `Case=Nom`, `Definite=Ind`, `Gender=Masc`, `Gender=Neut`, `Mood=Cnd`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Polarity=Pos`, `Reflex=No`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `Tense=PresHab`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Act`, `Voice=Pass`
+`AUX` occurs with 22 feature-value pairs: `Aspect=Hab`, `Case=Nom`, `Definite=Ind`, `Gender=Masc`, `Gender=Neut`, `Mood=Cnd`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Polarity=Pos`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Act`, `Voice=Pass`
 
 `AUX` occurs with 21 feature combinations.
-The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act` (29 tokens).
+The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act` (29 tokens).
 Examples: <em>yra, būna</em>
 
 

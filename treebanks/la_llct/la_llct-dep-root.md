@@ -89,7 +89,7 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 23	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	22	obl:arg	_	_
 24	omnibus	omnis	DET	a|a|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur|PronType=Tot	25	det	_	_
 25	rebus	res	NOUN	n|n|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	22	obl:arg	_	_
-26	suis	suus	DET	a|a|3|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	25	det	_	SpaceAfter=No
+26	suis	suus	DET	a|a|3|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	25	det	_	SpaceAfter=No
 27	,	,	PUNCT	Punc	_	30	punct	_	_
 28	sicut	sicut	SCONJ	c|c|-|-|-|-|-|-|-|-	_	30	mark	_	_
 29	ibi	ubi	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Rel	30	advmod	_	_

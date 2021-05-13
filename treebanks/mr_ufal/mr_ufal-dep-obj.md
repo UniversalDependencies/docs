@@ -11,9 +11,9 @@ This relation is universal.
 250 nodes (6%) are attached to their parents as `obj`.
 
 243 instances of `obj` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.512.
+Average distance between parent and child is 1.52.
 
-The following 15 pairs of parts of speech are connected with `obj`: <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt> (181; 72% instances), <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="mr_ufal-pos-PRON.html">PRON</a></tt> (46; 18% instances), <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="mr_ufal-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="mr_ufal-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="mr_ufal-pos-AUX.html">AUX</a></tt>-<tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="mr_ufal-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="mr_ufal-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="mr_ufal-pos-ADV.html">ADV</a></tt>-<tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="mr_ufal-pos-ADV.html">ADV</a></tt>-<tt><a href="mr_ufal-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mr_ufal-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mr_ufal-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="mr_ufal-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="mr_ufal-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `obj`: <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt> (181; 72% instances), <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="mr_ufal-pos-PRON.html">PRON</a></tt> (47; 19% instances), <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="mr_ufal-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="mr_ufal-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="mr_ufal-pos-AUX.html">AUX</a></tt>-<tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="mr_ufal-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="mr_ufal-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="mr_ufal-pos-ADV.html">ADV</a></tt>-<tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="mr_ufal-pos-ADV.html">ADV</a></tt>-<tt><a href="mr_ufal-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mr_ufal-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mr_ufal-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="mr_ufal-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,8 +23,8 @@ The following 15 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 9	fgColor:white
 # visual-style 9 8 obj	color:blue
 1	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No
-2	त्या	तो	DET	_	Case=Obl|Distance=Dist|PronType=Dem	3	det	_	_
-3	_	तुकडा	NOUN	_	Case=Obl|Gender=Masc|Number=Sing	9	obl	_	_
+2	त्या	तो	DET	_	Case=Abs|Deixis=Remt|PronType=Dem	3	det	_	_
+3	_	तुकडा	NOUN	_	Case=Abs|Gender=Masc|Number=Sing	9	obl	_	_
 4	_	चा	ADP	_	Gender=Neut|Number=Sing	3	case	_	_
 5	का	का	ADV	_	_	9	advmod	_	_
 6	कोणी	कोण	PRON	_	Case=Erg|PronType=Int	9	nsubj	_	_

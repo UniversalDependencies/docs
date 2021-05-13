@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of PROPN in UD_Old_Russian-TOROT'
+title:  'Statistics of PROPN in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: POS Tags: `PROPN`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: POS Tags: `PROPN`
 
 There are 1452 `PROPN` lemmas (16%), 3467 `PROPN` types (10%) and 9880 `PROPN` tokens (7%).
 Out of 14 observed tags, the rank of `PROPN` is: 3 in number of lemmas, 4 in number of types and 8 in number of tokens.
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>володимеръ</em> (<tt><a hre
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 2.387741 (the average of all parts of speech is 3.571089).
+The form / lemma ratio of `PROPN` is 2.387741 (the average of all parts of speech is 3.571475).
 
 The 1st highest number of forms (33) was observed with the lemma “кыевъ”: <em>Кіевъ, Кіевѣ, киву, киева, киеву, киевъ, киевѣ, киѥву, кыева, кыеву, кыевъ, кыевѣ, кыєву, кыѥва, кыѥвомъ, кыѥву, кыѥву⁘, кыѥвъ, кыѥвѣ, кыѥвѹ, кіева, кіеву, кꙑева, кꙑеве, кꙑевъ, кꙑевѣ, кꙑевѹ, кꙑѥ, кꙑѥва, кꙑѥвъ, кꙑѥвѣ, кꙑѥвѹ, кꙑѥвꙋ</em>.
 
@@ -59,12 +59,12 @@ The 2nd highest number of forms (31) was observed with the lemma “костян
 
 The 3rd highest number of forms (29) was observed with the lemma “святопълкъ”: <em>Свꙗтопълка, Свꙗтопълкъ, Ст҃оплъка, Ст҃опълку, Ст҃опълче, Ст҃плъкъ, сто҃полкъ, стпкъ, ст҃опол--, ст҃ополка, ст҃ополком, ст҃ополкомъ, ст҃ополкомь, ст҃ополку, ст҃ополкъ, ст҃ополцѣ, ст҃ополче, ст҃ополъка, ст҃ополъкъ, ст҃опъ[л]ка, ст҃опълка, ст҃опълкомь, ст҃опълкъ, ст҃плку, с҃тополка, с҃тополком, с҃тополкомь, с҃тополку, с҃тополкъ</em>.
 
-`PROPN` occurs with 5 features: <tt><a href="orv_torot-feat-Case.html">Case</a></tt> (9846; 100% instances), <tt><a href="orv_torot-feat-Number.html">Number</a></tt> (9846; 100% instances), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt> (9845; 100% instances), <tt><a href="orv_torot-feat-Degree.html">Degree</a></tt> (1; 0% instances), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt> (1; 0% instances)
+`PROPN` occurs with 3 features: <tt><a href="orv_torot-feat-Case.html">Case</a></tt> (9846; 100% instances), <tt><a href="orv_torot-feat-Number.html">Number</a></tt> (9846; 100% instances), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt> (9845; 100% instances)
 
-`PROPN` occurs with 16 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Degree=Pos`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Masc`, `Gender=Neut`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Strength=Strong`
+`PROPN` occurs with 14 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Masc`, `Gender=Neut`, `Number=Dual`, `Number=Plur`, `Number=Sing`
 
-`PROPN` occurs with 44 feature combinations.
-The most frequent feature combination is `Case=Nom|Gender=Masc|Number=Sing` (3334 tokens).
+`PROPN` occurs with 43 feature combinations.
+The most frequent feature combination is `Case=Nom|Gender=Masc|Number=Sing` (3335 tokens).
 Examples: <em>володимеръ, изѧславъ, всеволодъ, ст҃ополкъ, гюрги, дв҃дъ, ярославъ, ѡлегъ, мьстиславъ, ст҃ославъ</em>
 
 

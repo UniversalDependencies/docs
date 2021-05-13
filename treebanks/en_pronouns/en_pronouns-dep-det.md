@@ -25,9 +25,9 @@ The following 1 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 2 1 det	color:blue
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	4	nsubj	_	_
-3	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-4	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
-5	.	.	PUNCT	Period	_	4	punct	_	_
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	.	_	4	punct	_	_
 
 ~~~
 

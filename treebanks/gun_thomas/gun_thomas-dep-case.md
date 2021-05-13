@@ -24,7 +24,7 @@ The following 7 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 5 6 case	color:blue
 1	Romoĩ	moĩ	VERB	vt	Clusivity[subj]=Ex|Mood=Ind|Person[subj]=1|Subcat=Tran|VerbForm=Fin	0	root	_	A1.PL.EXCL-CAUS-localized
 2	mitã	mitã	NOUN	n	_	1	obj	_	child
-3	oñembo'e	ñembo'e	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	1	xcomp	_	A3-learn
+3	oñembo'e	ñembo'e	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	1	xcomp	_	A3-learn
 4	aguã	aguã	SCONJ	subordconn	_	3	mark	_	PURP
 5	jurua	jurua	NOUN	n	_	3	obl	_	non.indigenous
 6	rami	rami	ADP	post	_	5	case	_	like
@@ -43,7 +43,7 @@ The following 7 pairs of parts of speech are connected with `case`: <tt><a href=
 2	,	,	PUNCT	punct	_	5	punct	_	_
 3	opa	opa	PRON	quant	PronType=Tot	5	obl	_	everywhere
 4	rupi	upi	ADP	post	_	3	case	_	R-through
-5	ka'aguy	ka'aguy	VERB	n:pred	Mood=Ind|Subcat=Int|VerbForm=Vnoun	0	root	_	forest
+5	ka'aguy	ka'aguy	VERB	n:pred	Mood=Ind|Subcat=Intr|VerbForm=Vnoun	0	root	_	forest
 6	.	.	PUNCT	punct	_	5	punct	_	_
 
 ~~~
@@ -58,7 +58,7 @@ The following 7 pairs of parts of speech are connected with `case`: <tt><a href=
 1	Ha'e	ha'e	PRON	pro	Person=3|PronType=Prs	4	dislocated:cleft	_	3
 2	cheremiarirõ'i	emiarirõ	NOUN	n	Number[psor]=Sing	4	nsubj	_	B1.SG-R-grandchild-=DIM
 3	kuery	kuery	PART	quantprt	_	2	dep:mod	_	COL
-4	oja	ja	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	A3-born
+4	oja	ja	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	0	root	_	A3-born
 5	ramo'i	ramo	PART	temprt	_	4	dep:mod	_	recently-=DIM
 6	va'e	va'e	SCONJ	rel	_	4	mark	_	REL
 7	pe	pe	ADP	post	_	4	case	_	DAT

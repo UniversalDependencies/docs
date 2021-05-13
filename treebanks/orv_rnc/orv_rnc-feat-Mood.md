@@ -1,18 +1,18 @@
 ---
 layout: base
-title:  'Statistics of Mood in UD_Old_Russian-RNC'
+title:  'Statistics of Mood in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Features: `Mood`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Features: `Mood`
 
 This feature is universal.
 It occurs with 3 different values: `Cnd`, `Imp`, `Ind`.
 
-1139 tokens (4%) have a non-empty value of `Mood`.
+1138 tokens (4%) have a non-empty value of `Mood`.
 637 types (8%) occur at least once with a non-empty value of `Mood`.
-384 lemmas (10%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 3 part-of-speech tags: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (930; 3% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (186; 1% instances), <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (23; 0% instances).
+383 lemmas (10%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 3 part-of-speech tags: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (930; 3% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (186; 1% instances), <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (22; 0% instances).
 
 ### `VERB`
 
@@ -92,13 +92,12 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 ### `SCONJ`
 
-23 <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> tokens (9% of all `SCONJ` tokens) have a non-empty value of `Mood`.
+22 <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> tokens (8% of all `SCONJ` tokens) have a non-empty value of `Mood`.
 
 `SCONJ` tokens may have the following values of `Mood`:
 
-* `Cnd` (22; 96% of non-empty `Mood`): <em>чтобъ, чтоб, чтобы, кабы, обыся</em>
-* `Ind` (1; 4% of non-empty `Mood`): <em>будет</em>
-* `EMPTY` (247): <em>что, чтобъ, яко, ино, как, буде, какъ, чтоб, якоже, бꙋдетъ</em>
+* `Cnd` (22; 100% of non-empty `Mood`): <em>чтобъ, чтоб, чтобы, кабы, обыся</em>
+* `EMPTY` (248): <em>что, чтобъ, яко, ино, как, буде, какъ, чтоб, якоже, бꙋдетъ</em>
 
 ## Relations with Agreement in `Mood`
 

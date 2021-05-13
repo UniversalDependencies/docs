@@ -65,7 +65,7 @@ The following 14 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 3	сізге	сіз	PRON	prn	Case=Dat|Number=Sing|Person=2|Polite=Form|PronType=Prs	6	obl	_	_
 4	ерекше	ерекше	ADJ	adj	_	5	amod	_	_
 5	құрметпен	құрмет	NOUN	n	Case=Ins	6	obl	_	_
-6	қарайды	қара	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	қарайды	қара	VERB	v	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	sent	_	6	punct	_	_
 
 ~~~

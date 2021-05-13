@@ -23,8 +23,8 @@ The following 8 pairs of parts of speech are connected with `obl`: <tt><a href="
 # visual-style 9	fgColor:white
 # visual-style 9 3 obl	color:blue
 1	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No
-2	त्या	तो	DET	_	Case=Obl|Distance=Dist|PronType=Dem	3	det	_	_
-3	_	तुकडा	NOUN	_	Case=Obl|Gender=Masc|Number=Sing	9	obl	_	_
+2	त्या	तो	DET	_	Case=Abs|Deixis=Remt|PronType=Dem	3	det	_	_
+3	_	तुकडा	NOUN	_	Case=Abs|Gender=Masc|Number=Sing	9	obl	_	_
 4	_	चा	ADP	_	Gender=Neut|Number=Sing	3	case	_	_
 5	का	का	ADV	_	_	9	advmod	_	_
 6	कोणी	कोण	PRON	_	Case=Erg|PronType=Int	9	nsubj	_	_
@@ -43,10 +43,10 @@ The following 8 pairs of parts of speech are connected with `obl`: <tt><a href="
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 1 obl	color:blue
-1	_	तो	PRON	_	Case=Obl|Distance=Dist|Gender=Fem|Number=Sing|Person=3	7	obl	_	_
+1	_	तो	PRON	_	Case=Abs|Deixis=Remt|Gender=Fem|Number=Sing|Person=3	7	obl	_	_
 2	_	च्या	PART	_	_	1	case	_	_
 3	_	भोवती	ADP	_	_	1	case	_	_
-4	_	तो	PRON	_	Distance=Dist|Gender=Fem|Number=Sing|Person=3	6	nmod:poss	_	_
+4	_	तो	PRON	_	Deixis=Remt|Gender=Fem|Number=Sing|Person=3	6	nmod:poss	_	_
 5	_	चा	ADP	_	Gender=Neut|Number=Plur	4	case	_	_
 6	पाडसे	पाडस	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	7	nsubj	_	_
 7	खेळत	खेळणे	VERB	_	Aspect=Imp|VerbForm=Part	0	root	_	_

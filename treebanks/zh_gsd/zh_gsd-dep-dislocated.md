@@ -51,7 +51,7 @@ The following 15 pairs of parts of speech are connected with `dislocated`: <tt><
 4	比	比	ADP	IN	_	9	case	_	SpaceAfter=No
 5	淺焙	淺焙	NOUN	NN	_	6	nmod	_	SpaceAfter=No
 6	咖啡	咖啡	NOUN	NN	_	9	nmod	_	SpaceAfter=No
-7	的	的	PART	DEC	Case=Gen	6	case:dec	_	SpaceAfter=No
+7	的	的	PART	DEC	Case=Gen	6	case	_	SpaceAfter=No
 8	咖啡	咖啡	NOUN	NN	_	9	compound	_	SpaceAfter=No
 9	因	因	PART	SFN	_	11	nmod	_	SpaceAfter=No
 10	含量	含量	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
@@ -64,7 +64,7 @@ The following 15 pairs of parts of speech are connected with `dislocated`: <tt><
 17	咖啡	咖啡	NOUN	NN	_	18	compound	_	SpaceAfter=No
 18	豆	豆	PART	SFN	_	23	nmod	_	SpaceAfter=No
 19	裡	裡	ADP	IN	_	18	acl	_	SpaceAfter=No
-20	的	的	PART	DEC	Case=Gen	18	case:dec	_	SpaceAfter=No
+20	的	的	PART	DEC	Case=Gen	18	case	_	SpaceAfter=No
 21	咖啡	咖啡	NOUN	NN	_	22	compound	_	SpaceAfter=No
 22	因	因	PART	SFN	_	23	nmod	_	SpaceAfter=No
 23	含量	含量	NOUN	NN	_	16	obj	_	SpaceAfter=No
@@ -95,13 +95,13 @@ The following 15 pairs of parts of speech are connected with `dislocated`: <tt><
 14	筆記	筆記	NOUN	NN	_	13	obj	_	SpaceAfter=No
 15	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No
 16	中國	中國	PROPN	NNP	_	10	ccomp	_	SpaceAfter=No
-17	的	的	PART	DEC	Case=Gen	16	case:dec	_	SpaceAfter=No
+17	的	的	PART	DEC	Case=Gen	16	case	_	SpaceAfter=No
 18	，	，	PUNCT	,	_	16	punct	_	SpaceAfter=No
 19	他	他	PRON	PRP	Person=3	22	nsubj	_	SpaceAfter=No
 20	幾乎	幾乎	ADV	RB	_	22	advmod	_	SpaceAfter=No
 21	都	都	ADV	RB	_	22	mark	_	SpaceAfter=No
 22	看	看	VERB	VV	_	16	dislocated	_	SpaceAfter=No
-23	過	過	PART	AS	Aspect=Perf	22	aux:aspect	_	SpaceAfter=No
+23	過	過	AUX	AS	Aspect=Perf	22	aux	_	SpaceAfter=No
 24	。	。	PUNCT	.	_	3	punct	_	SpaceAfter=No
 
 ~~~

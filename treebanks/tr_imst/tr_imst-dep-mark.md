@@ -13,7 +13,7 @@ This relation is universal.
 73 instances of `mark` (96%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.28947368421053.
 
-The following 7 pairs of parts of speech are connected with `mark`: <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> (35; 46% instances), <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> (16; 21% instances), <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> (11; 14% instances), <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> (6; 8% instances), <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> (6; 8% instances), <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `mark`: <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> (35; 46% instances), <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> (16; 21% instances), <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> (11; 14% instances), <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> (6; 8% instances), <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> (5; 7% instances), <tt><a href="tr_imst-pos-DET.html">DET</a></tt>-<tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -39,7 +39,7 @@ The following 7 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 mark	color:blue
-1	Bir	bir	NUM	ANum	NumType=Card	2	det	_	_
+1	Bir	bir	DET	ANum	Definite=Ind|PronType=Art	2	det	_	_
 2	tane	tane	NOUN	Noun	Case=Nom|Number=Sing|Person=3	5	obj	_	_
 3	de	de	CCONJ	Conj	_	2	mark	_	_
 4	ona	o	PRON	Pers	Case=Dat|Number=Sing|Person=3|PronType=Prs	5	obl	_	_

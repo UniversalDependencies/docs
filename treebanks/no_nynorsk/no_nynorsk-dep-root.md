@@ -11,9 +11,9 @@ This relation is universal.
 17575 nodes (6%) are attached to their parents as `root`.
 
 17575 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.04136557610242.
+Average distance between parent and child is 5.04125177809388.
 
-The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (10837; 62% instances), -<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (3015; 17% instances), -<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (2749; 16% instances), -<tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (267; 2% instances), -<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (189; 1% instances), -<tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (163; 1% instances), -<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (90; 1% instances), -<tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (75; 0% instances), -<tt><a href="no_nynorsk-pos-X.html">X</a></tt> (73; 0% instances), -<tt><a href="no_nynorsk-pos-INTJ.html">INTJ</a></tt> (59; 0% instances), -<tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (50; 0% instances), -<tt><a href="no_nynorsk-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), -<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (3; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (11715; 67% instances), -<tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (3015; 17% instances), -<tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (1871; 11% instances), -<tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (267; 2% instances), -<tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (189; 1% instances), -<tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (163; 1% instances), -<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (90; 1% instances), -<tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (75; 0% instances), -<tt><a href="no_nynorsk-pos-X.html">X</a></tt> (73; 0% instances), -<tt><a href="no_nynorsk-pos-INTJ.html">INTJ</a></tt> (59; 0% instances), -<tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (50; 0% instances), -<tt><a href="no_nynorsk-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), -<tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (3; 0% instances).
 
 
 ~~~ conllu

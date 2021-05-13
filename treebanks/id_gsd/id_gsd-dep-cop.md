@@ -11,7 +11,7 @@ This relation is universal.
 1055 nodes (1%) are attached to their parents as `cop`.
 
 1043 instances of `cop` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.5478672985782.
+Average distance between parent and child is 1.54407582938389.
 
 The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-AUX.html">AUX</a></tt> (831; 79% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-AUX.html">AUX</a></tt> (140; 13% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-AUX.html">AUX</a></tt> (41; 4% instances), <tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_gsd-pos-AUX.html">AUX</a></tt> (20; 2% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="id_gsd-pos-AUX.html">AUX</a></tt> (13; 1% instances), <tt><a href="id_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="id_gsd-pos-AUX.html">AUX</a></tt> (9; 1% instances), <tt><a href="id_gsd-pos-DET.html">DET</a></tt>-<tt><a href="id_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
@@ -46,7 +46,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 4	adalah	adalah	AUX	O--	_	6	cop	_	MorphInd=^adalah<o>_O--$
 5	sebagai	sebagai	ADP	R--	_	6	case	_	MorphInd=^sebagai<r>_R--$
 6	asam	asam	PROPN	ASP	Degree=Pos|Number=Sing	0	root	_	SpaceAfter=No|MorphInd=^asam<a>_ASP$
-7	,	,	PUNCT	Z--	_	6	punct	_	MorphInd=^,<z>_Z--$
+7	,	,	PUNCT	Z--	_	9	punct	_	MorphInd=^,<z>_Z--$
 8	yang	yang	PRON	S--	PronType=Rel	9	nsubj	_	MorphInd=^yang<s>_S--$
 9	membentuk	menbentuk	VERB	VSA	Number=Sing|Voice=Act	6	acl	_	MorphInd=^meN+bentuk<n>_VSA$
 10	silikat	silikat	NOUN	X--	_	9	obj	_	SpaceAfter=No|MorphInd=^silikat<x>_X--$

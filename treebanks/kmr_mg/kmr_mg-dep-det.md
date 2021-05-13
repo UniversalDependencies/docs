@@ -22,8 +22,8 @@ The following 5 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 10 det	color:blue
-1	Min	ez	PRON	prn	Case=Obl|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-2	dil	dil	NOUN	n	Case=Obl|Definite=Def|Gender=Masc|Number=Sing	3	compound	_	_
+1	Min	ez	PRON	prn	Case=Acc|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	dil	dil	NOUN	n	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	3	compound	_	_
 3	kir	kirin	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	ko	ku	SCONJ	cnjsub	_	12	mark	_	_
 5	em	em	PRON	prn	Case=Nom|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	_
@@ -31,8 +31,8 @@ The following 5 pairs of parts of speech are connected with `det`: <tt><a href="
 7	hev	hev	PRON	prn	Gender=Fem,Masc|Number=Plur,Sing|PronType=Prs|Reflex=Yes	12	nmod	_	_
 8	re	re	ADP	post	AdpType=Post	7	case	_	_
 9	guhdariya	guhdarî	NOUN	n	Case=Con|Definite=Def|Gender=Fem|Number=Sing	12	obj	_	_
-10	wê	ew	DET	det	Case=Obl|Gender=Fem|Number=Sing|PronType=Dem	11	det	_	_
-11	xanimê	xanim	NOUN	n	Case=Obl|Gender=Fem|Number=Sing|PronType=Dem	9	nmod:poss	_	_
+10	wê	ew	DET	det	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	11	det	_	_
+11	xanimê	xanim	NOUN	n	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	9	nmod:poss	_	_
 12	bikin	kirin	VERB	vblex	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp	_	SpaceAfter=No
 13	.	.	PUNCT	sent	_	3	punct	_	_
 
@@ -47,9 +47,9 @@ The following 5 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 4 3 det	color:blue
 1	Li	li	ADP	pr	AdpType=Prep	4	case	_	_
 2	gorî	gorî	NOUN	n	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	1	fixed	_	_
-3	vê	ev	DET	det	Case=Obl|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
-4	yekê	yek	NUM	num	Case=Obl|Definite=Def|Number=Sing|NumType=Card	10	nmod	_	SpaceAfter=No
-5	,	,	PUNCT	cm	_	10	punct	_	_
+3	vê	ev	DET	det	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
+4	yekê	yek	NUM	num	Case=Acc|Definite=Def|Number=Sing|NumType=Card	10	nmod	_	SpaceAfter=No
+5	,	,	PUNCT	cm	_	4	punct	_	_
 6	gotinên	gotin	NOUN	n	Case=Con|Definite=Def|Gender=Fem|Number=Plur	10	nsubj	_	_
 7	ne	ne	ADV	adv	Polarity=Neg	8	advmod	_	_
 8	baş	baş	ADJ	adj	Degree=Pos	6	amod	_	_
@@ -68,15 +68,15 @@ The following 5 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 9	fgColor:white
 # visual-style 9 8 det	color:blue
 1	Fêkiya	fêkî	NOUN	n	Case=Con|Definite=Def|Gender=Fem|Number=Sing	4	nsubj	_	_
-2	wê	ew	PRON	prn	Case=Obl|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	nmod:poss	_	_
+2	wê	ew	PRON	prn	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	nmod:poss	_	_
 3	pir	pir	ADV	adv	_	4	advmod	_	_
 4	tirş	tirş	ADJ	adj	Degree=Pos	0	root	_	_
 5	e	bûn	AUX	vbcop	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpaceAfter=No
 6	,	,	PUNCT	cm	_	11	punct	_	_
 7	jê	ji	ADP	pr	AdpType=Prep	9	case	_	_
-8	_	ew	DET	prn	Case=Obl|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
+8	_	ew	DET	prn	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
 9	tirşê	tirş	ADJ	adj	Case=Con|Degree=Pos	11	nmod	_	_
-10	simaqê	simaq	NOUN	n	Case=Obl|Definite=Def|Gender=Fem|Number=Sing	11	nsubj	_	_
+10	simaqê	simaq	NOUN	n	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	11	nsubj	_	_
 11	çêdibe	çêbûn	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	SpaceAfter=No
 12	.	.	PUNCT	sent	_	4	punct	_	_
 

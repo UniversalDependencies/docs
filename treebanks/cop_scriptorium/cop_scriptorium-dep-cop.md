@@ -22,7 +22,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 15 cop	color:blue
-1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	_	3	cc	_	_
+1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	3	cc	_	OrigLang=grc
 2	ⲉϥⲉ	ⲉⲣⲉ_ⲛⲧⲟϥ	PRON	AOPT_PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 3	ϣⲱⲡⲉ	ϣⲱⲡⲉ	VERB	V	VerbForm=Fin	0	root	_	_
 4	ⲛⲁ	ⲛⲁ	ADP	PREP	_	5	case	_	_

@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>вермы</em> (<tt><a href="koi_uh-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 1.888889 (the average of all parts of speech is 1.206633).
+The form / lemma ratio of `AUX` is 1.888889 (the average of all parts of speech is 1.206107).
 
 The 1st highest number of forms (7) was observed with the lemma “оз”: <em>ог, оз, озӧ, эг, эд, эз, эн</em>.
 
@@ -41,11 +41,11 @@ The 2nd highest number of forms (2) was observed with the lemma “вермын�
 
 The 3rd highest number of forms (2) was observed with the lemma “вӧвны”: <em>вӧв, вӧлі</em>.
 
-`AUX` occurs with 9 features: <tt><a href="koi_uh-feat-Person.html">Person</a></tt> (20; 74% instances), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt> (20; 74% instances), <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt> (18; 67% instances), <tt><a href="koi_uh-feat-Number.html">Number</a></tt> (18; 67% instances), <tt><a href="koi_uh-feat-Polarity.html">Polarity</a></tt> (15; 56% instances), <tt><a href="koi_uh-feat-Connegative.html">Connegative</a></tt> (4; 15% instances), <tt><a href="koi_uh-feat-Valency.html">Valency</a></tt> (2; 7% instances), <tt><a href="koi_uh-feat-VerbType.html">VerbType</a></tt> (2; 7% instances), <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt> (1; 4% instances)
+`AUX` occurs with 8 features: <tt><a href="koi_uh-feat-Person.html">Person</a></tt> (20; 74% instances), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt> (20; 74% instances), <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt> (18; 67% instances), <tt><a href="koi_uh-feat-Number.html">Number</a></tt> (18; 67% instances), <tt><a href="koi_uh-feat-Polarity.html">Polarity</a></tt> (15; 56% instances), <tt><a href="koi_uh-feat-Connegative.html">Connegative</a></tt> (4; 15% instances), <tt><a href="koi_uh-feat-VerbType.html">VerbType</a></tt> (2; 7% instances), <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt> (1; 4% instances)
 
-`AUX` occurs with 13 feature-value pairs: `Connegative=Yes`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Tense=Past`, `Tense=Pres`, `Valency=1`, `VerbForm=Inf`, `VerbType=Aux`
+`AUX` occurs with 12 feature-value pairs: `Connegative=Yes`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Tense=Past`, `Tense=Pres`, `VerbForm=Inf`, `VerbType=Aux`
 
-`AUX` occurs with 17 feature combinations.
+`AUX` occurs with 16 feature combinations.
 The most frequent feature combination is `Connegative=Yes` (4 tokens).
 Examples: <em>вермы, вӧв, позь</em>
 

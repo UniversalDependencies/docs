@@ -194,7 +194,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 `SYM` tokens may have the following values of `Gender`:
 
-* `Fem` (36; 30% of non-empty `Gender`): <em>h, $, &, m, €, +, h​t​t​p​:​/​/​r​e​d​s​i​s​m​i​c​a​.​u​p​r​m​.​e​d​u​/​s​p​a​n​i​s​h​/​i​n​f​o​r​m​a​c​i​o​n​/​t​e​r​r​1​9​1​8​.​p​h​p, h​t​t​p​:​/​/​w​w​w​.​r​u​m​b​o​.​e​s​/​d​i​s​n​e​y​/</em>
+* `Fem` (36; 30% of non-empty `Gender`): <em>h, $, &, m, €, +, http://redsismica.uprm.edu/spanish/informacion/terr1918.php, http://www.rumbo.es/disney/</em>
 * `Masc` (86; 70% of non-empty `Gender`): <em>km, cm, $, &, m, #, º, mundo.com, www.delnuevo, www.dgt.es</em>
 * `EMPTY` (1530): <em>%, ², km, º, $, °, a, €, ª, /</em>
 

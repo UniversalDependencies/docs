@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Barbora Hladká, Daniel Zeman.
 
 Repository: [UD_Czech-CAC](https://github.com/UniversalDependencies/UD_Czech-CAC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cac27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cac28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -155,11 +155,10 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
 </ul>
 
 <ul>
-<li>This corpus contains 50 lemmas tagged as determiners (DET): hoc, jaký, jakýkoli, jakýkoliv, jakýpak, jakýsi, jeho, jenž, každý, kdejaký, kdovíkolik, kolik, kolikátý, které, který, kterýkoli, kterýkoliv, kterýžto, leckterý, mnoho, málo, málokterý, můj, nejeden, nemálo, nějaký, několik, některý, něčí, onen, pražádný, quem, sui, svůj, sám, takový, takovýhle, takovýto, ten, tenhle, tenhleten, tento, tentýž, tolik, tvůj, týž, všechen, všelijaký, čí, žádný</li>
+<li>This corpus contains 52 lemmas tagged as determiners (DET): hoc, jaký, jakýkoli, jakýkoliv, jakýpak, jakýsi, jeho, jehož, jejichž, jejíž, každý, kdejaký, kdovíkolik, kolik, kolikátý, které, který, kterýkoli, kterýkoliv, kterýžto, leckterý, mnoho, málo, málokterý, můj, nejeden, nemálo, nějaký, několik, některý, něčí, onen, pražádný, quem, sui, svůj, sám, takový, takovýhle, takovýto, ten, tenhle, tenhleten, tento, tentýž, tolik, tvůj, týž, všechen, všelijaký, čí, žádný</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: jenž</li>
 </ul>
 
 <ul>
@@ -331,7 +330,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       <li>DET: které, tyto, který, tento, svůj, každý, některé, ty, každém, její</li>
       <li>NOUN: roce, roku, úkolů, výsledky, jazyka, procesu, úkoly, podniku, života, základě</li>
       <li>NUM: jeden</li>
-      <li>PRON: co, všechny, čím, čem, čeho, copak, veškeré, čemu, samý, veškerý</li>
+      <li>PRON: co, něco, všechny, čím, čem, čeho, copak, něčeho, něčemu, veškeré</li>
       <li>PROPN: SSSR, ÚJČ, TIBA, OV, USA, VÚM, KNV, Vietnamu, Hradci, Klatovech</li>
       <li>VERB-Part: měly, mohly, byly, staly, vznikly, začaly, vytvořily, vedly, dosáhly, neměly</li>
     </ul>
@@ -516,7 +515,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
 <ul>
   <li>Npr
     <ul>
-      <li>PRON: jež, jimiž, jenž, jehož, jímž, jichž, jíž, jemuž, jimž, již</li>
+      <li>PRON: je, jež, ji, jim, jej, jich, jí, jimiž, jimi, jeho</li>
     </ul>
   </li>
 </ul>
@@ -1373,7 +1372,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Gen (4)</li>
       <li>VERB-Fin--PRON-Nom (7)</li>
       <li>VERB-Inf--NOUN (5)</li>
-      <li>VERB-Inf--NOUN-Acc (3543)</li>
+      <li>VERB-Inf--NOUN-Acc (3542)</li>
       <li>VERB-Inf--NOUN-Gen (34)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(z) (1)</li>
       <li>VERB-Inf--NOUN-Nom (27)</li>
@@ -1403,7 +1402,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Acc (27)</li>
       <li>VERB-Fin--PRON-Nom (2)</li>
       <li>VERB-Inf--NOUN (2)</li>
-      <li>VERB-Inf--NOUN-Acc (19)</li>
+      <li>VERB-Inf--NOUN-Acc (20)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
       <li>VERB-Inf--NOUN-Nom (3)</li>
       <li>VERB-Inf--PRON-Acc (6)</li>

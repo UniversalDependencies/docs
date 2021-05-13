@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-905 nodes (2%) are attached to their parents as `ccomp`.
+908 nodes (2%) are attached to their parents as `ccomp`.
 
 877 instances of `ccomp` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.08397790055249.
+Average distance between parent and child is 7.14537444933921.
 
-The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (629; 70% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (166; 18% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (42; 5% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (32; 4% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (14; 2% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (651; 72% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (180; 20% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (43; 5% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -78,7 +78,7 @@ The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 8	hierdie	hierdie	DET	PA	PronType=Dem	10	det	_	_
 9	soort	soort	NOUN	NSE	Number=Sing	10	nmod	_	_
 10	mishandeling	mishandeling	NOUN	NA	Number=Sing	11	obj	_	_
-11	beleef	beleef	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	1	dep	_	SpaceAfter=No
+11	beleef	beleef	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	19	dep	_	SpaceAfter=No
 12	,	,	PUNCT	ZM	_	11	punct	_	_
 13	kan	kan	AUX	VTUOM	Tense=Pres|VerbForm=Fin,Inf|VerbType=Mod	19	aux	_	_
 14	jy	jy	PRON	PTENP	Case=Nom|Number=Sing|Person=2|PronType=Prs	19	nsubj	_	_

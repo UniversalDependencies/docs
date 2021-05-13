@@ -31,7 +31,7 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 6	тензэ	сон	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs|Variant=Short	8	obl:agent	_	GTtags=Pers,Sg3,Dat,Short
 7	кармась	кармамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
 8	марявомо	марявомс	VERB	V	Case=Loc|Valency=1|VerbForm=Inf	7	xcomp	_	GTtags=IV,Inf,Loc
-9	седе	седе	ADV	Adv	Degree=Cmp	10	advmod:deg	_	GTtags=Comp
+9	седе	седе	ADV	Adv	Degree=Cmp	10	advmod:comp	_	GTtags=Comp
 10	сэтьмекс	сэтьме	ADJ	A	Case=Tra|Definite=Ind|Number=Plur,Sing	8	xcomp	_	GTtags=Der/MWN,N,SP,Tra,Indef|SpaceAfter=No
 11	.	.	PUNCT	CLB	_	7	punct	_	_
 

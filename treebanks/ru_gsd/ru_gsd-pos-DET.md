@@ -66,11 +66,11 @@ The 2nd highest number of forms (13) was observed with the lemma “свой”:
 
 The 3rd highest number of forms (13) was observed with the lemma “тот”: <em>та, те, тем, теми, тех, то, того, тое, той, том, тому, тот, ту</em>.
 
-`DET` occurs with 6 features: <tt><a href="ru_gsd-feat-Case.html">Case</a></tt> (1194; 77% instances), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt> (1194; 77% instances), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt> (824; 53% instances), <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt> (178; 11% instances), <tt><a href="ru_gsd-feat-NumType.html">NumType</a></tt> (7; 0% instances), <tt><a href="ru_gsd-feat-Abbr.html">Abbr</a></tt> (1; 0% instances)
+`DET` occurs with 5 features: <tt><a href="ru_gsd-feat-Case.html">Case</a></tt> (1194; 77% instances), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt> (1194; 77% instances), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt> (824; 53% instances), <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt> (178; 11% instances), <tt><a href="ru_gsd-feat-Abbr.html">Abbr</a></tt> (1; 0% instances)
 
-`DET` occurs with 15 feature-value pairs: `Abbr=Yes`, `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NumType=Card`, `Number=Plur`, `Number=Sing`
+`DET` occurs with 14 feature-value pairs: `Abbr=Yes`, `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
 
-`DET` occurs with 34 feature combinations.
+`DET` occurs with 32 feature combinations.
 The most frequent feature combination is `_` (360 tokens).
 Examples: <em>его, её, их, ее, один</em>
 

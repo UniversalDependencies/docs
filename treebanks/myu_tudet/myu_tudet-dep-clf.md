@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1 nodes (0%) are attached to their parents as `clf`.
+10 nodes (2%) are attached to their parents as `clf`.
 
-1 instances of `clf` (100%) are left-to-right (parent precedes child).
+10 instances of `clf` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `clf`: <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `clf`: <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt> (10; 100% instances).
 
 
 ~~~ conllu

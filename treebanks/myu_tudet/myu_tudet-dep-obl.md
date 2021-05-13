@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-60 nodes (22%) are attached to their parents as `obl`.
+117 nodes (23%) are attached to their parents as `obl`.
 
-45 instances of `obl` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.38333333333333.
+86 instances of `obl` (74%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.54700854700855.
 
-The following 5 pairs of parts of speech are connected with `obl`: <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt> (51; 85% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-PRON.html">PRON</a></tt> (6; 10% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 10 pairs of parts of speech are connected with `obl`: <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt> (93; 79% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-PRON.html">PRON</a></tt> (9; 8% instances), <tt><a href="myu_tudet-pos-AUX.html">AUX</a></tt>-<tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -44,20 +44,16 @@ The following 5 pairs of parts of speech are connected with `obl`: <tt><a href="
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 obl	color:blue
-1	taxit	daxit	NOUN	n	Rel=NCont	0	root	0:root	_
-2	mẽnpit	mẽnpit	CCONJ	cc	_	1	cc	1:cc	_
-3	ikukpin'ũm	kukpin	NOUN	n	Polarity=Neg|Rel=Cont	1	nmod	1:nmod	_
-4	osunuy	osunuy	X	x	_	3	dep	3:dep	_
-5	ag̃okatkat	ag̃okatkat	NOUN	n	_	3	obl	3:obl	_
-6	pe	pe	ADP	pp	_	5	case	5:case	_
-7	,	,	PUNCT	punct	_	1	punct	1:punct	_
-8	i'e'em	'e	VERB	vi	Aspect=Imp	1	dep	1:dep	_
-9	ajojoyũ'ũm'ũm	ajojo	NOUN	n	Aspect=Compl|Number=Plur	8	nsubj	8:nsubj	_
+# visual-style 5 1 obl	color:blue
+1	Kog̃ũnpi	kog̃ũnpi	NOUN	_	_	5	obl	5:obl	_
+2	be	be	ADP	posp	_	1	case	1:case	_
+3	okapap	kap	NOUN	n	Nomzr=Pa|Person=3	4	nmod	4:nmod	_
+4	kabuk	kabuk	NOUN	n	_	5	obl	5:obl	_
+5	opop	pop	AUX	aux	_	0	root	0:root	_
 
 ~~~
 

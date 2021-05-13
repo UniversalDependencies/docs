@@ -8,10 +8,10 @@ udver: '2'
 
 This relation is universal.
 
-2289 nodes (9%) are attached to their parents as `root`.
+2289 nodes (10%) are attached to their parents as `root`.
 
 2289 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.49191786806466.
+Average distance between parent and child is 3.43425076452599.
 
 The following 5 pairs of parts of speech are connected with `root`: -<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (1366; 60% instances), -<tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (538; 24% instances), -<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (187; 8% instances), -<tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (178; 8% instances), -<tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (20; 1% instances).
 

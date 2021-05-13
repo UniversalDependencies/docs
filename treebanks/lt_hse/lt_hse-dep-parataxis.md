@@ -25,14 +25,14 @@ The following 36 pairs of parts of speech are connected with `parataxis`: <tt><a
 1	Kiti	kitas	PRON	DT	Case=Nom|Gender=Masc|Number=Plur	11	nsubj	_	En=other|SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	4	punct	_	En=,
 3	kaip	kaip	SCONJ	UH	_	4	mark	_	En=how
-4	žinoma	žinoti	VERB	VBNH	Definite=Ind|Gender=Neut|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Part|Voice=Pass	11	parataxis	_	En=of_course|SpaceAfter=No
+4	žinoma	žinoti	VERB	VBNH	Definite=Ind|Gender=Neut|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	11	parataxis	_	En=of_course|SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	4	punct	_	En=,
 6	aiškios	aiškus	ADJ	JJL	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	En=obviuos
 7	tautinės	tautinis	ADJ	JJL	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	En=ethnic
 8	sąmonės	sąmonė	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	11	obj	_	En=consciousness
 9	iš	iš	ADP	UH	_	10	case	_	En=from
 10	vis	vis	ADV	RB	Degree=Pos	11	obl	_	En=still
-11	neturėjo	turėti	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Reflex=No|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	En=have|SpaceAfter=No
+11	neturėjo	turėti	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	En=have|SpaceAfter=No
 12	.	.	PUNCT	PUNCT	_	11	punct	_	En=.
 
 ~~~
@@ -46,14 +46,14 @@ The following 36 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 5 10 parataxis	color:blue
 1	Autorius	autorius	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	En=author
 2	aiškiai	aiškiai	ADV	RB	Degree=Pos	5	advmod	_	En=clearly
-3	yra	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	En=be
+3	yra	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	En=be
 4	Strepsiado	Strepsiadas	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	En=Strepsiade
 5	pusėje	pusė	NOUN	NN	Case=Loc|Gender=Fem|Number=Sing	0	root	_	En=half
 6	–	–	PUNCT	PUNCT	_	10	punct	_	En=–
 7	taip	taip	ADV	RB	Degree=Pos	10	advmod	_	En=so
 8	Sokratui	Sokratas	PROPN	NNP	Case=Dat|Gender=Masc|Number=Sing	10	obj	_	En=Socrates
 9	ir	ir	PART	UH	_	10	advmod:emph	_	En=even
-10	reikia	reikėti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	En=deserve|SpaceAfter=No
+10	reikia	reikėti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	En=deserve|SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	5	punct	_	En=.
 
 ~~~
@@ -69,8 +69,8 @@ The following 36 pairs of parts of speech are connected with `parataxis`: <tt><a
 2	,	,	PUNCT	PUNCT	_	3	punct	_	En=,
 3	Strepsiadas	Strepsiadas	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	En=Strepsiade
 4	ir	ir	PART	UH	_	5	advmod:emph	_	En=even
-5	negalėjo	galėti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Reflex=No|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	En=can
-6	laimėti	laimėti	VERB	VB	Polarity=Pos|Reflex=No|VerbForm=Inf|Voice=Act	5	xcomp	_	En=win|SpaceAfter=No
+5	negalėjo	galėti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	En=can
+6	laimėti	laimėti	VERB	VB	Polarity=Pos|VerbForm=Inf|Voice=Act	5	xcomp	_	En=win|SpaceAfter=No
 7	.	.	PUNCT	PUNCT	_	5	punct	_	En=.
 
 ~~~

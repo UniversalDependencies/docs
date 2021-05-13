@@ -64,7 +64,7 @@ The following 15 pairs of parts of speech are connected with `det`: <tt><a href=
 3	avrunt	_	AUX	VERcjg	VerbForm=Fin	6	aux	_	_
 4	li	_	DET	DETdef	Definite=Def|PronType=Art	5	det	_	_
 5	meillor	_	ADJ	ADJqua	_	6	nsubj	_	_
-6	cumperee	_	NOUN	NOMcom	Morph=VPar	0	root	_	_
+6	cumperee	_	NOUN	NOMcom	VerbForm=Part	0	root	_	_
 
 ~~~
 

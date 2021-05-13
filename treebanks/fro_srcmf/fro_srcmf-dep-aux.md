@@ -64,7 +64,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 2	dis	_	NUM	DETcar	NumType=Card	3	nummod	_	_
 3	messages	_	NOUN	NOMcom	_	7	obj	_	_
 4	ad	_	AUX	VERcjg	VerbForm=Fin	5	aux	_	_
-5	fait	_	NOUN	NOMcom	Morph=VPar	0	root	_	_
+5	fait	_	NOUN	NOMcom	VerbForm=Part	0	root	_	_
 6	enz	_	ADV	ADVgen	_	7	advmod	_	_
 7	hosteler	_	VERB	VERinf	VerbForm=Inf	5	xcomp	_	_
 

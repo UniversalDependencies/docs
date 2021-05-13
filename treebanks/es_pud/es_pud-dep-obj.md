@@ -44,7 +44,7 @@ The following 12 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 6	fgColor:white
 # visual-style 6 7 obj	color:blue
 1	No	_	ADV	RB	Polarity=Neg	4	advmod	_	_
-2	todo	_	DET	PDT	Gender=Masc|Number=Sing|PronType=Tot	4	det:predet	_	_
+2	todo	_	DET	PDT	Gender=Masc|Number=Sing|PronType=Tot	4	det	_	_
 3	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	mundo	_	NOUN	NN	Gender=Masc|Number=Sing	6	nsubj	_	_
 5	puede	poder	AUX	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_

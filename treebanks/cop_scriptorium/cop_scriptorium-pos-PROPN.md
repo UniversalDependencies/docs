@@ -48,7 +48,7 @@ The 10 most frequent ambiguous types:  ⲓⲱϩⲁⲛⲛⲏⲥ (<tt><a href="cop
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.006024 (the average of all parts of speech is 1.124670).
+The form / lemma ratio of `PROPN` is 1.006024 (the average of all parts of speech is 1.124953).
 
 The 1st highest number of forms (2) was observed with the lemma “ⲡⲁⲣⲙⲟⲩⲧⲉ”: ⲡⲁⲣⲙⲟⲩⲧⲉ, ⲫⲁⲣⲙⲟⲩⲧⲉ.
 
@@ -56,7 +56,13 @@ The 2nd highest number of forms (1) was observed with the lemma “ϣⲓⲏⲧ�
 
 The 3rd highest number of forms (1) was observed with the lemma “ϣⲙⲟⲩⲛ”: ϣⲙⲟⲩⲛ.
 
-`PROPN` does not occur with any features.
+`PROPN` occurs with 1 features: <tt><a href="cop_scriptorium-feat-Foreign.html">Foreign</a></tt> (562; 88% instances)
+
+`PROPN` occurs with 1 feature-value pairs: `Foreign=Yes`
+
+`PROPN` occurs with 2 feature combinations.
+The most frequent feature combination is `Foreign=Yes` (562 tokens).
+Examples: ⲓⲏⲥⲟⲩⲥ, ⲓⲱϩⲁⲛⲛⲏⲥ, ⲃⲟⲉⲥ, ϩⲣⲟⲩⲑ, ⲛⲟⲉⲙⲓⲛ, ⲓⲁⲕⲱⲃ, ⲥⲁⲧⲁⲛⲁⲥ, ⲇⲓⲁⲃⲟⲗⲟⲥ, ⲡⲁⲩⲗⲟⲥ, ⲅⲁⲗⲓⲗⲁⲓⲁ
 
 
 ## Relations
@@ -77,5 +83,5 @@ The highest child degree of a `PROPN` node is 16.
 
 Children of `PROPN` nodes are attached using 21 different relations: <tt><a href="cop_scriptorium-dep-case.html">case</a></tt> (262; 38% instances), <tt><a href="cop_scriptorium-dep-appos.html">appos</a></tt> (91; 13% instances), <tt><a href="cop_scriptorium-dep-det.html">det</a></tt> (79; 11% instances), <tt><a href="cop_scriptorium-dep-punct.html">punct</a></tt> (69; 10% instances), <tt><a href="cop_scriptorium-dep-conj.html">conj</a></tt> (56; 8% instances), <tt><a href="cop_scriptorium-dep-cc.html">cc</a></tt> (38; 6% instances), <tt><a href="cop_scriptorium-dep-mark.html">mark</a></tt> (24; 3% instances), <tt><a href="cop_scriptorium-dep-cop.html">cop</a></tt> (16; 2% instances), <tt><a href="cop_scriptorium-dep-nsubj.html">nsubj</a></tt> (11; 2% instances), <tt><a href="cop_scriptorium-dep-nmod.html">nmod</a></tt> (9; 1% instances), <tt><a href="cop_scriptorium-dep-acl.html">acl</a></tt> (7; 1% instances), <tt><a href="cop_scriptorium-dep-advmod.html">advmod</a></tt> (6; 1% instances), <tt><a href="cop_scriptorium-dep-parataxis.html">parataxis</a></tt> (6; 1% instances), <tt><a href="cop_scriptorium-dep-csubj.html">csubj</a></tt> (4; 1% instances), <tt><a href="cop_scriptorium-dep-advcl.html">advcl</a></tt> (3; 0% instances), <tt><a href="cop_scriptorium-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-dep-vocative.html">vocative</a></tt> (1; 0% instances)
 
-Children of `PROPN` nodes belong to 14 different parts of speech: <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (253; 37% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (103; 15% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (101; 15% instances), <tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (69; 10% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (41; 6% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (27; 4% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (22; 3% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (22; 3% instances), <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> (22; 3% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (15; 2% instances), <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (9; 1% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Children of `PROPN` nodes belong to 14 different parts of speech: <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (253; 37% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (103; 15% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (101; 15% instances), <tt><a href="cop_scriptorium-pos-PUNCT.html">PUNCT</a></tt> (69; 10% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (41; 6% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (27; 4% instances), <tt><a href="cop_scriptorium-pos-SCONJ.html">SCONJ</a></tt> (23; 3% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (22; 3% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (22; 3% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (15; 2% instances), <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (8; 1% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 

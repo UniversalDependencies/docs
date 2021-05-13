@@ -26,7 +26,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 * `Fem` (1; 0% of non-empty `Gender`): <em>nuptiam</em>
 * `Masc` (1; 0% of non-empty `Gender`): <em>consensus</em>
 * `Neut` (6830; 30% of non-empty `Gender`): <em>år, barn, äktenskapet, barnen, sätt, samhället, arbete, fall, äktenskap, barnet</em>
-* `EMPTY` (436): <em>kr, %, dr, s., kap., proc, KPI, milj, mån, kl</em>
+* `EMPTY` (431): <em>kr, %, dr, s., kap., proc, KPI, milj, mån, kl</em>
 
 <table>
   <tr><th>Paradigm <i>äktenskap</i></th><th><tt>Neut</tt></th><th><tt>Com</tt></th></tr>

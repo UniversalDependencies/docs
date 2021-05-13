@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6874 nodes (2%) are attached to their parents as `det`.
+6873 nodes (2%) are attached to their parents as `det`.
 
 6732 instances of `det` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.37561827174862.
+Average distance between parent and child is 1.37567292303215.
 
-The following 11 pairs of parts of speech are connected with `det`: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-DET.html">DET</a></tt> (6353; 92% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_edt-pos-DET.html">DET</a></tt> (205; 3% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-DET.html">DET</a></tt> (98; 1% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-DET.html">DET</a></tt> (78; 1% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-DET.html">DET</a></tt> (67; 1% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt>-<tt><a href="et_edt-pos-DET.html">DET</a></tt> (36; 1% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_edt-pos-DET.html">DET</a></tt> (25; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="et_edt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_edt-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `det`: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-DET.html">DET</a></tt> (6353; 92% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_edt-pos-DET.html">DET</a></tt> (205; 3% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-DET.html">DET</a></tt> (98; 1% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-DET.html">DET</a></tt> (77; 1% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-DET.html">DET</a></tt> (67; 1% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt>-<tt><a href="et_edt-pos-DET.html">DET</a></tt> (36; 1% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_edt-pos-DET.html">DET</a></tt> (25; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="et_edt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_edt-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -73,7 +73,7 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 8	enne	enne	ADV	D	_	7	advmod	7:advmod	SpaceAfter=No
 9	,	,	PUNCT	Z	_	13	punct	13:punct	_
 10	kui	kui	SCONJ	J	_	13	mark	13:mark	_
-11	ühe	üks	NUM	N	Case=Gen|Number=Sing|NumForm=Letter|NumType=Card	13	obj	13:obj	_
+11	ühe	üks	NUM	N	Case=Gen|Number=Sing|NumForm=Word|NumType=Card	13	obj	13:obj	_
 12	sellise	selline	DET	P	Case=Gen|Number=Sing|PronType=Dem	11	det	11:det	_
 13	sain	saama	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	7:advcl	SpaceAfter=No
 14	.	.	PUNCT	Z	_	2	punct	2:punct	_

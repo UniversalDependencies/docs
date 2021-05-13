@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 2	,	_	PUNCT	_	_	1	punct	_	_
 3	n'	_	SCONJ	_	_	6	mark	_	_
 4	a	_	PRON	_	_	6	nsubj	_	_
-5	bɛ	_	AUX	_	_	6	aux	_	_
+5	bɛ	bɛ	AUX	_	Aspect=Imp|Polarity=Pos	6	aux	_	Gloss=IPFV.AFF
 6	wele	_	VERB	_	_	11	advcl	_	_
 7	ko	_	PART	_	_	8	discourse	_	_
 8	Jaason	_	PROPN	_	_	6	parataxis:obj	_	SpaceAfter=No
@@ -48,12 +48,12 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 1	Sigidankelen	_	PROPN	_	_	5	vocative	_	SpaceAfter=No
 2	,	_	PUNCT	_	_	1	punct	_	_
 3	e	_	PRON	_	_	5	nsubj	_	_
-4	ma	_	AUX	_	_	5	aux	_	_
+4	ma	ma	AUX	_	Aspect=Perf|Polarity=Neg	5	aux	_	Gloss=PFV.NEG
 5	dɔn	_	VERB	_	_	0	root	_	_
 6	ko	_	PART	_	_	10	discourse	_	_
 7	ɲin	_	NOUN	_	_	10	nsubj	_	_
 8	si	_	DET	_	_	7	det	_	_
-9	tɛ	_	AUX	_	_	10	aux	_	_
+9	tɛ	tɛ	AUX	_	Aspect=Imp|Polarity=Neg	10	aux	_	Gloss=IPFV.NEG
 10	kologɛlɛya	_	VERB	_	_	5	parataxis:obj	_	_
 11	mulukuli	_	NOUN	_	_	10	obl	_	_
 12	ma	_	ADP	_	_	11	case	_	_

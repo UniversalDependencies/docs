@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-2779 tokens (11%) have a non-empty value of `Person`.
-619 types (10%) occur at least once with a non-empty value of `Person`.
-345 lemmas (7%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (900; 4% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (875; 4% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (729; 3% instances), <tt><a href="fr_pud-pos-DET.html">DET</a></tt> (275; 1% instances).
+2780 tokens (11%) have a non-empty value of `Person`.
+621 types (10%) occur at least once with a non-empty value of `Person`.
+341 lemmas (7%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (900; 4% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (875; 4% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (730; 3% instances), <tt><a href="fr_pud-pos-DET.html">DET</a></tt> (275; 1% instances).
 
 ### `VERB`
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (49; 5% of non-empty `Person`): <em>devons, Disons, allons, comprends, pense, pensons, pouvons, adorais, ai, amuse</em>
 * `2` (11; 1% of non-empty `Person`): <em>devez, Laisse, Tiens, Voilà, avez, disputez, pouvez, savez, souhaitez, voulez</em>
 * `3` (840; 93% of non-empty `Person`): <em>a, est, peut, avait, pourrait, était, peuvent, sont, ont, pourraient</em>
-* `EMPTY` (1355): <em>eu, déclaré, faire, dit, fait, commencé, indiqué, avoir, voir, devenir</em>
+* `EMPTY` (1356): <em>eu, déclaré, faire, dit, fait, commencé, indiqué, avoir, voir, devenir</em>
 
 <table>
   <tr><th>Paradigm <i>avoir</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -70,20 +70,20 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `PRON`
 
-729 <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> tokens (69% of all `PRON` tokens) have a non-empty value of `Person`.
+730 <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> tokens (68% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (506; 69%), <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (421; 58%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="fr_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (691; 95%), <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (507; 69%), <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (422; 58%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (89; 12% of non-empty `Person`): <em>je, nous, j’, j', me, m’, moi, m'</em>
 * `2` (15; 2% of non-empty `Person`): <em>vous, toi, se</em>
-* `3` (625; 86% of non-empty `Person`): <em>il, y, se, elle, ils, s', on, s’, lui, le</em>
-* `EMPTY` (334): <em>qui, ce, c', cela, c’, que, qu', ça, ceux, ceci</em>
+* `3` (626; 86% of non-empty `Person`): <em>il, se, elle, ils, y, s', on, lui, s’, le</em>
+* `EMPTY` (341): <em>qui, ce, c', cela, c’, que, un, qu', ça, ceux</em>
 
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>je, j'</em></td><td></td><td><em>il, -il</em></td></tr>
+  <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>je, J’, j'</em></td><td></td><td><em>il, -il, -t-il</em></td></tr>
   <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>nous</em></td><td></td><td><em>ils, -ils</em></td></tr>
   <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>elle, -elle</em></td></tr>
   <tr><td><tt><tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>elles</em></td></tr>
@@ -95,14 +95,14 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 275 <tt><a href="fr_pud-pos-DET.html">DET</a></tt> tokens (7% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (200; 73%), <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (146; 53%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (275; 100%), <tt><a href="fr_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (275; 100%), <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (200; 73%), <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (146; 53%).
 
 `DET` tokens may have the following values of `Person`:
 
 * `1` (20; 7% of non-empty `Person`): <em>notre, nos, mon, ma, mes</em>
 * `2` (4; 1% of non-empty `Person`): <em>votre, vos</em>
 * `3` (251; 91% of non-empty `Person`): <em>son, sa, ses, leur, leurs, sar</em>
-* `EMPTY` (3605): <em>le, la, les, l', un, une, des, l’, cette, ce</em>
+* `EMPTY` (3602): <em>le, la, les, l', un, une, des, l’, cette, ce</em>
 
 <table>
   <tr><th>Paradigm <i>son</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -119,7 +119,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="fr_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (214; 51%),
+<tt>VERB --[<tt><a href="fr_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (215; 51%),
 <tt>VERB --[<tt><a href="fr_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (57; 56%),
 <tt>VERB --[<tt><a href="fr_pud-dep-expl-subj.html">expl:subj</a></tt>]--> PRON</tt> (43; 69%),
 <tt>VERB --[<tt><a href="fr_pud-dep-expl-comp.html">expl:comp</a></tt>]--> PRON</tt> (22; 79%),

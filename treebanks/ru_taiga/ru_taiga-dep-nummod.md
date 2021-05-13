@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `nummod`: <tt><a href="ru_taiga-dep-nummod-entity.html">nummod:entity</a></tt>, <tt><a href="ru_taiga-dep-nummod-gov.html">nummod:gov</a></tt>.
 
-211 nodes (0%) are attached to their parents as `nummod`.
+577 nodes (0%) are attached to their parents as `nummod`.
 
-206 instances of `nummod` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.29383886255924.
+551 instances of `nummod` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25823223570191.
 
-The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (192; 91% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (12; 6% instances), <tt><a href="ru_taiga-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (510; 88% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt> (35; 6% instances), <tt><a href="ru_taiga-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="ru_taiga-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="ru_taiga-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -23,13 +23,13 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 nummod	color:blue
-1	Этому	этот	DET	_	Case=Dat|Gender=Masc|Number=Sing	2	det	_	_
-2	моторчику	моторчик	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	5	iobj	_	_
+1	Этому	этот	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	моторчику	моторчик	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	5	iobj	_	_
 3	сегодня	сегодня	ADV	_	Degree=Pos	5	advmod	_	_
-4	1	1	NUM	_	NumForm=Digit	5	nummod	_	_
+4	1	1	NUM	_	NumForm=Digit|NumType=Card	5	nummod	_	_
 5	год	год	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 6	и	и	CCONJ	_	_	8	cc	_	_
-7	6	6	NUM	_	NumForm=Digit	8	nummod:gov	_	_
+7	6	6	NUM	_	NumForm=Digit|NumType=Card	8	nummod:gov	_	_
 8	месяцев	месяц	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	conj	_	SpaceAfter=No
 9	🥰	🥰	SYM	_	_	5	discourse	_	_
 
@@ -37,51 +37,41 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 nummod	color:blue
-1	В	в	ADP	_	_	2	case	_	_
-2	Кизляре	Кизляр	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	obl	_	_
-3	преступники	преступник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
-4	захватили	захватить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-5	в	в	ADP	_	_	6	case	_	_
-6	заложники	заложник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	obl	_	_
-7	более	более	ADV	_	Degree=Cmp	9	advmod	_	_
-8	трех	три	NUM	_	Case=Gen	9	nummod	_	_
-9	тысяч	тысяча	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	10	nummod	_	_
-10	человек	человек	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	obj	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 9 8 nummod	color:blue
+1	Курс	курс	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+2	лечения	лечение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	до	до	ADP	_	_	4	case	_	_
+4	июля	июль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	6	obl	_	_
+5	будет	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	aux	_	_
+6	стоить	стоить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	0	root	_	_
+7	80	80	NUM	_	NumForm=Digit|NumType=Card	8	nummod:gov	_	_
+8	тысяч	тысяча	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	nummod	_	_
+9	рублей	рубль	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	obj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 14 nummod	color:blue
-1	RT	rt	NOUN	_	Foreign=Yes	0	root	_	_
-2	@xxxxxx	@xxxxxx	PROPN	_	_	1	flat:foreign	_	SpaceAfter=No
-3	:	:	PUNCT	_	_	8	punct	_	_
-4	Потому	потому	ADV	_	Degree=Pos	8	mark	_	_
-5	что	что	SCONJ	_	_	4	fixed	_	_
-6	протесты	протест	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	9	obj	_	_
-7	не	не	PART	_	Polarity=Neg	8	advmod	_	_
-8	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
-9	организовать	организовать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	8	xcomp	_	_
-10	в	в	ADP	_	_	11	case	_	_
-11	принципе	принцип	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	8	obl	_	_
-12	-	-	PUNCT	_	_	18	punct	_	_
-13	на	на	ADP	_	_	15	case	_	_
-14	2	2	NUM	_	NumForm=Digit	15	nummod	_	SpaceAfter=No
-15	%	%	SYM	_	_	18	obl	_	_
-16	далеко	далеко	ADV	_	Degree=Pos	18	advmod	_	_
-17	не	не	PART	_	Polarity=Neg	18	advmod	_	_
-18	уедешь	уехать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	8	parataxis	_	SpaceAfter=No
-19	...	...	PUNCT	_	_	1	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 nummod	color:blue
+1	10	10	NUM	_	NumForm=Digit|NumType=Card	2	nummod:gov	_	_
+2	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	3	obl	_	_
+3	проходил	проходить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+4	в	в	ADP	_	_	5	case	_	_
+5	ДСШ	ДСШ	NOUN	_	Abbr=Yes	3	obl	_	_
+6	№	№	SYM	_	_	5	nummod:entity	_	_
+7	1	1	NUM	_	NumForm=Digit|NumType=Card	6	nummod	_	_
+8	в	в	ADP	_	_	9	case	_	_
+9	Дятьково	Дятьково	PROPN	_	Animacy=Inan|Case=Loc|Gender=Neut|NameType=Geo|Number=Sing	5	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

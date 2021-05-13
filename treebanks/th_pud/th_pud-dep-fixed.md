@@ -48,7 +48,7 @@ The following 30 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 12	fgColor:white
 # visual-style 12 13 fixed	color:blue
 1	เห็น	_	VERB	VV	_	0	root	_	SpaceAfter=No
-2	ได้	_	VERB	MD	_	1	aux	_	SpaceAfter=No
+2	ได้	_	AUX	MD	_	1	aux	_	SpaceAfter=No
 3	ชัด	_	ADV	RB	_	1	advmod	_	SpaceAfter=No
 4	ที่สุด	_	ADV	RB	_	3	advmod	_	SpaceAfter=No
 5	เมื่อ	_	ADP	IN	_	10	mark	_	SpaceAfter=No
@@ -77,11 +77,11 @@ The following 30 pairs of parts of speech are connected with `fixed`: <tt><a hre
 4	ตาม	_	ADV	RB	_	1	fixed	_	_
 5	พวก	_	NOUN	NN	_	8	nsubj:pass	_	SpaceAfter=No
 6	เขา	_	PRON	PRP	Person=3	5	compound	_	SpaceAfter=No
-7	ถูก	_	VERB	MD	Voice=Pass	8	aux:pass	_	SpaceAfter=No
+7	ถูก	_	AUX	MD	Voice=Pass	8	aux:pass	_	SpaceAfter=No
 8	สกัด	_	VERB	VV	_	0	root	_	SpaceAfter=No
 9	ไว้	_	ADV	RB	_	8	advmod	_	SpaceAfter=No
 10	และ	_	CCONJ	CC	_	12	cc	_	SpaceAfter=No
-11	ต้อง	_	VERB	MD	_	12	aux	_	SpaceAfter=No
+11	ต้อง	_	AUX	MD	_	12	aux	_	SpaceAfter=No
 12	ทำ	_	VERB	VV	_	8	conj	_	SpaceAfter=No
 13	การสู้รบ	_	VERB	VV	_	12	obj	_	SpaceAfter=No
 14	ที่	_	ADP	IN	_	15	case	_	SpaceAfter=No

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Persian-PerDT: Relations: `compound`
 
 This relation is universal.
-There are 2 language-specific subtypes of `compound`: <tt><a href="fa_perdt-dep-compound-lv.html">compound:lv</a></tt>, <tt><a href="fa_perdt-dep-compound-lvc.html">compound:lvc</a></tt>.
+There are 1 language-specific subtypes of `compound`: <tt><a href="fa_perdt-dep-compound-lvc.html">compound:lvc</a></tt>.
 
 42 nodes (0%) are attached to their parents as `compound`.
 

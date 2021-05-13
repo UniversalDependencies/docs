@@ -1,17 +1,17 @@
 ---
 layout: base
-title:  'Statistics of case in UD_Old_Russian-RNC'
+title:  'Statistics of case in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Relations: `case`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Relations: `case`
 
 This relation is universal.
 
 3486 nodes (11%) are attached to their parents as `case`.
 
 3469 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.58204245553643.
+Average distance between parent and child is 1.58548479632817.
 
 The following 11 pairs of parts of speech are connected with `case`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> (2400; 69% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> (479; 14% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> (453; 13% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> (85; 2% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> (43; 1% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (1; 0% instances).
 

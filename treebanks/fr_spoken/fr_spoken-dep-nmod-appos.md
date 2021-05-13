@@ -59,7 +59,7 @@ The following 7 pairs of parts of speech are connected with `nmod:appos`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 nmod:appos	color:blue
-1	mes	son	DET	_	Number=Plur|Person=3|PossNumber=Sing|PossPerson=1|PronType=Prs	2	det	_	_
+1	mes	son	DET	_	Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=1|PronType=Prs	2	det	_	_
 2	parents	parent	NOUN	_	Gender=Masc|Number=Plur	7	nsubj	_	_
 3	tous	tout	ADJ	_	Gender=Masc|Number=Plur	5	amod	_	_
 4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	_

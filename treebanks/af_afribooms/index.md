@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Peter Dirix, Liesbeth Augustinus, Daniel van Niekerk.
 
 Repository: [UD_Afrikaans-AfriBooms](https://github.com/UniversalDependencies/UD_Afrikaans-AfriBooms)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaf_afribooms27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaf_afribooms28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -70,17 +70,17 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 
 ## Relations
 
-[advmod](af_afribooms-dep-advmod.html) – [amod](af_afribooms-dep-amod.html) – [appos](af_afribooms-dep-appos.html) – [aux](af_afribooms-dep-aux.html) – [aux:pass](af_afribooms-dep-aux-pass.html) – [case](af_afribooms-dep-case.html) – [cc](af_afribooms-dep-cc.html) – [ccomp](af_afribooms-dep-ccomp.html) – [compound:prt](af_afribooms-dep-compound-prt.html) – [conj](af_afribooms-dep-conj.html) – [cop](af_afribooms-dep-cop.html) – [csubj](af_afribooms-dep-csubj.html) – [dep](af_afribooms-dep-dep.html) – [det](af_afribooms-dep-det.html) – [flat](af_afribooms-dep-flat.html) – [iobj](af_afribooms-dep-iobj.html) – [mark](af_afribooms-dep-mark.html) – [nmod](af_afribooms-dep-nmod.html) – [nsubj](af_afribooms-dep-nsubj.html) – [nsubj:pass](af_afribooms-dep-nsubj-pass.html) – [nummod](af_afribooms-dep-nummod.html) – [obj](af_afribooms-dep-obj.html) – [obl](af_afribooms-dep-obl.html) – [punct](af_afribooms-dep-punct.html) – [root](af_afribooms-dep-root.html) – [xcomp](af_afribooms-dep-xcomp.html)
+[advmod](af_afribooms-dep-advmod.html) – [amod](af_afribooms-dep-amod.html) – [appos](af_afribooms-dep-appos.html) – [aux](af_afribooms-dep-aux.html) – [aux:pass](af_afribooms-dep-aux-pass.html) – [case](af_afribooms-dep-case.html) – [cc](af_afribooms-dep-cc.html) – [ccomp](af_afribooms-dep-ccomp.html) – [compound:prt](af_afribooms-dep-compound-prt.html) – [conj](af_afribooms-dep-conj.html) – [cop](af_afribooms-dep-cop.html) – [csubj](af_afribooms-dep-csubj.html) – [dep](af_afribooms-dep-dep.html) – [det](af_afribooms-dep-det.html) – [fixed](af_afribooms-dep-fixed.html) – [flat](af_afribooms-dep-flat.html) – [iobj](af_afribooms-dep-iobj.html) – [mark](af_afribooms-dep-mark.html) – [nmod](af_afribooms-dep-nmod.html) – [nsubj](af_afribooms-dep-nsubj.html) – [nsubj:pass](af_afribooms-dep-nsubj-pass.html) – [nummod](af_afribooms-dep-nummod.html) – [obj](af_afribooms-dep-obj.html) – [obl](af_afribooms-dep-obl.html) – [punct](af_afribooms-dep-punct.html) – [root](af_afribooms-dep-root.html) – [xcomp](af_afribooms-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 1934 sentences and 49276 tokens.</li>
+<li>This corpus contains 1934 sentences and 49260 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 4514 tokens (9%) that are not followed by a space.</li>
+<li>This corpus contains 4498 tokens (9%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -88,7 +88,7 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 </ul>
 
 <ul>
-<li>This corpus contains 407 types of words that contain both letters and punctuation. Examples: 'n, Suid-Afrika, Suid-Afrikaanse, Suid-Afrikaners, Direkteur-generaal, 6-opgawe, top-prioriteite, werke-program, Mariene-, R-9, bv., finansiÃ«le, Afrika-Unie, A​l​g​e​m​e​n​e​-​O​n​d​e​r​w​y​s​-​e​n​-​O​p​l​e​i​d​i​n​g​s​b​a​n​d, OKD-kantoor, Suider-Afrikaanse, T​a​l​e​-​l​e​e​r​a​r​e​a​v​e​r​k​l​a​r​i​n​g, hoÃ«r, maatreÃ«ls, nie-seksistiese, r​e​k​r​e​a​s​i​e​-​i​n​v​o​e​r​p​e​r​m​i​t, v​e​e​a​r​t​s​e​n​y​-​i​n​v​o​e​r​p​e​r​m​i​t, weerspieÃ«l, Midde-Ooste, R​e​g​e​r​i​n​g​s​d​i​e​n​s​t​e​-​w​e​b​t​u​i​s​t​e, SAID-kantoor, W​ê​r​e​l​d​b​e​k​e​r​-​s​o​k​k​e​r​t​o​e​r​n​o​o​i, breÃ«, e-pos, leer-, makro-ekonomiese, metro's, nie-rassige, nÃ¡, onderwys-, -inligtingstelsel, -voorwaardes, 12-riglyne, 2004-verkiesing, 6-opgawes, Anglo-, Comore-eilande, DEA&T, Dienste-inligting, ID-nommer, IRP5-sertifikaat, Inter-Ministeriële, MIV-infeksies, Noord-Amerika, PDF-dokumente</li>
+<li>This corpus contains 407 types of words that contain both letters and punctuation. Examples: 'n, Suid-Afrika, Suid-Afrikaanse, Suid-Afrikaners, Direkteur-generaal, 6-opgawe, top-prioriteite, werke-program, Mariene-, R-9, bv., finansiÃ«le, Afrika-Unie, Algemene-Onderwys-en-Opleidingsband, OKD-kantoor, Suider-Afrikaanse, Tale-leerareaverklaring, hoÃ«r, maatreÃ«ls, nie-seksistiese, rekreasie-invoerpermit, veeartseny-invoerpermit, weerspieÃ«l, Midde-Ooste, Regeringsdienste-webtuiste, SAID-kantoor, Wêreldbeker-sokkertoernooi, breÃ«, e-pos, leer-, makro-ekonomiese, metro's, nie-rassige, nÃ¡, onderwys-, -inligtingstelsel, -voorwaardes, 12-riglyne, 2004-verkiesing, 6-opgawes, Anglo-, Comore-eilande, DEA&T, Dienste-inligting, ID-nommer, IRP5-sertifikaat, Inter-Ministeriële, MIV-infeksies, Noord-Amerika, PDF-dokumente</li>
 </ul>
 
 <ul>
@@ -104,7 +104,7 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 </ul>
 
 <ul>
-<li>This corpus contains 5 word types tagged as particles (PART): Die, nie, s'n, se, te</li>
+<li>This corpus contains 4 word types tagged as particles (PART): nie, s'n, se, te</li>
 </ul>
 
 <ul>
@@ -120,21 +120,22 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 </ul>
 
 <ul>
-<li>This corpus contains 29 lemmas tagged as auxiliaries (AUX): bedra, begin, behoort, beloop, bly, blyk, dan, durf, gaan, help, het, hoef, is, kan, kom, laat, leer, ly, lyk, mag, moenie, moet, probeer, raak, sal, voel, wees, wil, word</li>
+<li>This corpus contains 12 lemmas tagged as auxiliaries (AUX): behoort, durf, het, hoef, kan, mag, moenie, moet, sal, wees, wil, word</li>
 </ul>
 
 <ul>
-<li>Out of the above, 12 lemmas occurred sometimes as AUX and sometimes as VERB: begin, behoort, bly, gaan, help, het, kom, laat, leer, ly, raak, voel</li>
+<li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: behoort, het, word</li>
 </ul>
 
 <ul>
-<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: is, was, moes, sou, kon, geword, geraak, geblyk, gelyk, gewees</li>
+    <li>AUX: is, was, moes, sou, kon, gewees, wees, wou</li>
+    <li>VERB: gelyk</li>
   </ul>
   </li>
 </ul>
@@ -143,7 +144,15 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
   <li>Fin,Inf
   <ul>
     <li>AUX: word, is, sal, het, moet, kan, wees, wil, mag, behoort</li>
-    <li>VERB: doen, maak, gebruik, het, verbeter, verseker, stel, betaal, verskaf, werk</li>
+    <li>VERB: doen, maak, gebruik, verbeter, het, verseker, stel, betaal, verskaf, gaan</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Inf
+  <ul>
+    <li>VERB: geword, geraak</li>
   </ul>
   </li>
 </ul>
@@ -290,7 +299,9 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 <ul>
   <li>Past
     <ul>
-      <li>AUX-Fin: is, was, moes, sou, kon, geword, geraak, geblyk, gelyk, gewees</li>
+      <li>AUX-Fin: is, was, moes, sou, kon, gewees, wees, wou</li>
+      <li>VERB-Fin: gelyk</li>
+      <li>VERB-Inf: geword, geraak</li>
       <li>VERB-Part: gemaak, gedoen, gestel, uitgereik, geneem, geregistreer, ingedien, ingevul, gebaseer, ingevoer</li>
     </ul>
   </li>
@@ -300,7 +311,7 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
   <li>Pres
     <ul>
       <li>AUX-Fin,Inf: word, is, sal, het, moet, kan, wees, wil, mag, behoort</li>
-      <li>VERB-Fin,Inf: doen, maak, gebruik, het, verbeter, verseker, stel, betaal, verskaf, werk</li>
+      <li>VERB-Fin,Inf: doen, maak, gebruik, verbeter, het, verseker, stel, betaal, verskaf, gaan</li>
     </ul>
   </li>
 </ul>
@@ -469,7 +480,7 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
       </li>
       <li>Inf
         <ul>
-          <li>PART: te, Die</li>
+          <li>PART: te</li>
         </ul>
       </li>
       <li>Neg
@@ -486,7 +497,7 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
     <ul>
       <li>Intr
         <ul>
-          <li>VERB-Fin,Inf: werk, voortgaan, gaan, het, maak, tree, verskyn, reageer, staan, val</li>
+          <li>VERB-Fin,Inf: werk, voortgaan, gaan, maak, tree, verskyn, het, reageer, staan, val</li>
           <li>VERB-Part: gelei, toegeneem, afgeneem, gekom, plaasgevind, gehelp, getree, saamgewerk, afgelaai, gebring</li>
         </ul>
       </li>
@@ -497,7 +508,9 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
       </li>
       <li>Tran
         <ul>
+          <li>VERB-Fin: gelyk</li>
           <li>VERB-Fin,Inf: doen, gebruik, maak, verbeter, verseker, stel, het, verskaf, betaal, bereik</li>
+          <li>VERB-Inf: geword, geraak</li>
           <li>VERB-Part: gemaak, gedoen, gestel, uitgereik, geneem, geregistreer, ingedien, ingevul, gebaseer, gegee</li>
         </ul>
       </li>
@@ -510,19 +523,19 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
     <ul>
       <li>Aux
         <ul>
-          <li>AUX-Fin,Inf: het, laat, help, kom, probeer, sal, bly, begin, leer</li>
+          <li>AUX-Fin,Inf: het, sal</li>
         </ul>
       </li>
       <li>Cop
         <ul>
-          <li>AUX-Fin: was, geword, geraak, geblyk, gelyk, gewees</li>
-          <li>AUX-Fin,Inf: is, wees, word, bly, raak, voel, bedra, beloop, blyk, ly</li>
+          <li>AUX-Fin: was, gewees</li>
+          <li>AUX-Fin,Inf: is, wees, word</li>
         </ul>
       </li>
       <li>Mod
         <ul>
           <li>AUX-Fin: moes, sou, kon, wou</li>
-          <li>AUX-Fin,Inf: sal, moet, kan, wil, mag, behoort, gaan, hoef, durf, moenie</li>
+          <li>AUX-Fin,Inf: sal, moet, kan, wil, mag, behoort, hoef, durf, moenie</li>
         </ul>
       </li>
       <li>Pas
@@ -540,12 +553,12 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 34 lemmas as copulas (<a>cop</a>). Examples: is, wees, word, bly, raak, behulpsaam, voel, bewus, blyk, lyk, aanspreeklik, afdwingbaar, bang, beloop, beskik, beskikbaar, betrek, bykomend, byster, duidelik, gelyklopend, gepaardgaan, ly, nodig, onseker, onvas, oorkoepel, oud, pas, teenwoordig, tevrede, trots, verifieerbaar, verskuldig.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: wees.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 43 lemmas as auxiliaries (<a>aux</a>). Examples: sal, het, moet, kan, wil, mag, behoort, laat, gaan, hoef, kom, bly, bystaan, hê, probeer, aanhou, baseer, begin, bereik, besluit, beteken, bewerkstellig, bring, daal, dan, deelneem, doen, gebruik, instel, leer, lei, moenie, neem, registreer, talm, toets, verbeter, verkry, verskaf, verskil, voorkom, voortspruit, werk.</li>
-<li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: word, is, wees.</li>
+<li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: sal, het, moet, kan, wil, mag, behoort, hoef, durf, moenie.</li>
+<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: word, wees.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -554,7 +567,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin,Inf--NOUN (630)</li>
+      <li>VERB-Fin--PRON (1)</li>
+      <li>VERB-Fin,Inf--NOUN (663)</li>
       <li>VERB-Fin,Inf--PRON (538)</li>
       <li>VERB-Fin,Inf--PRON-ADP(aan) (2)</li>
       <li>VERB-Fin,Inf--PRON-ADP(by) (1)</li>
@@ -564,14 +578,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin,Inf--PRON-ADP(oor) (3)</li>
       <li>VERB-Fin,Inf--PRON-ADP(van) (4)</li>
       <li>VERB-Fin,Inf--PRON-Acc (2)</li>
-      <li>VERB-Fin,Inf--PRON-Acc,Nom (437)</li>
-      <li>VERB-Fin,Inf--PRON-Nom (347)</li>
-      <li>VERB-Part--NOUN (134)</li>
-      <li>VERB-Part--PRON (167)</li>
+      <li>VERB-Fin,Inf--PRON-Acc,Nom (448)</li>
+      <li>VERB-Fin,Inf--PRON-Nom (362)</li>
+      <li>VERB-Inf--NOUN (3)</li>
+      <li>VERB-Inf--PRON-Nom (2)</li>
+      <li>VERB-Part--NOUN (140)</li>
+      <li>VERB-Part--PRON (168)</li>
       <li>VERB-Part--PRON-ADP(oor) (1)</li>
       <li>VERB-Part--PRON-ADP(van) (1)</li>
-      <li>VERB-Part--PRON-Acc,Nom (76)</li>
-      <li>VERB-Part--PRON-Nom (42)</li>
+      <li>VERB-Part--PRON-Acc,Nom (75)</li>
+      <li>VERB-Part--PRON-Nom (44)</li>
     </ul>
   </li>
 </ul>
@@ -579,12 +595,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin,Inf--NOUN (1928)</li>
+      <li>VERB-Fin,Inf--NOUN (1945)</li>
+      <li>VERB-Fin,Inf--NOUN-ADP(om) (1)</li>
+      <li>VERB-Fin,Inf--NOUN-ADP(se) (2)</li>
+      <li>VERB-Fin,Inf--NOUN-ADP(voor) (1)</li>
       <li>VERB-Fin,Inf--PRON (37)</li>
-      <li>VERB-Fin,Inf--PRON-Acc (13)</li>
-      <li>VERB-Fin,Inf--PRON-Acc,Nom (51)</li>
-      <li>VERB-Fin,Inf--PRON-Nom (80)</li>
-      <li>VERB-Part--NOUN (258)</li>
+      <li>VERB-Fin,Inf--PRON-Acc (14)</li>
+      <li>VERB-Fin,Inf--PRON-Acc,Nom (52)</li>
+      <li>VERB-Fin,Inf--PRON-Nom (82)</li>
+      <li>VERB-Part--NOUN (259)</li>
+      <li>VERB-Part--NOUN-ADP(se) (1)</li>
       <li>VERB-Part--PRON (6)</li>
       <li>VERB-Part--PRON-Acc,Nom (9)</li>
       <li>VERB-Part--PRON-Nom (4)</li>
@@ -617,5 +637,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
 <li>This corpus uses 3 relation subtypes: <a>aux:pass</a>, <a>compound:prt</a>, <a>nsubj:pass</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>compound</a></li>
-<li>The following 13 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>advcl</a>, <a>discourse</a>, <a>acl</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 12 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>advcl</a>, <a>discourse</a>, <a>acl</a>, <a>clf</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

@@ -11,9 +11,9 @@ This relation is a language-specific subtype of <tt><a href="zh_gsd-dep-obl.html
 196 nodes (0%) are attached to their parents as `obl:patient`.
 
 196 instances of `obl:patient` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.93367346938776.
+Average distance between parent and child is 1.9234693877551.
 
-The following 7 pairs of parts of speech are connected with `obl:patient`: <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (139; 71% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt> (24; 12% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (20; 10% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> (10; 5% instances), <tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `obl:patient`: <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (139; 71% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt> (24; 12% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (21; 11% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> (10; 5% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 7 pairs of parts of speech are connected with `obl:patient`: <tt><
 # visual-style 20 19 obl:patient	color:blue
 1	而	而	ADV	RB	_	20	mark	_	SpaceAfter=No
 2	解藥	解藥	NOUN	NN	_	4	nmod	_	SpaceAfter=No
-3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
 4	出現	出現	NOUN	NN	_	20	nsubj	_	SpaceAfter=No
 5	也	也	ADV	RB	_	6	mark	_	SpaceAfter=No
 6	使得	使得	VERB	VV	Voice=Cau	20	advcl	_	SpaceAfter=No
@@ -33,13 +33,13 @@ The following 7 pairs of parts of speech are connected with `obl:patient`: <tt><
 9	公眾	公眾	NOUN	NN	_	11	obl	_	SpaceAfter=No
 10	中	中	ADP	IN	_	9	acl	_	SpaceAfter=No
 11	得到	得到	VERB	VV	_	6	ccomp	_	SpaceAfter=No
-12	了	了	PART	AS	Aspect=Perf	11	aux:aspect	_	SpaceAfter=No
+12	了	了	AUX	AS	Aspect=Perf	11	aux	_	SpaceAfter=No
 13	威望	威望	NOUN	NN	_	11	obj	_	SpaceAfter=No
 14	，	，	PUNCT	,	_	20	punct	_	SpaceAfter=No
 15	並	並	ADV	RB	_	20	mark	_	SpaceAfter=No
 16	將	將	ADP	BB	_	19	case	_	SpaceAfter=No
 17	北方	北方	NOUN	NN	_	19	nmod	_	SpaceAfter=No
-18	之	之	PART	DEC	Case=Gen	17	case:dec	_	SpaceAfter=No
+18	之	之	PART	DEC	Case=Gen	17	case	_	SpaceAfter=No
 19	火	火	NOUN	NN	_	20	obl:patient	_	SpaceAfter=No
 20	推上	推上	VERB	VV	_	0	root	_	SpaceAfter=No
 21	權力	權力	NOUN	NN	_	22	nmod	_	SpaceAfter=No
@@ -56,7 +56,7 @@ The following 7 pairs of parts of speech are connected with `obl:patient`: <tt><
 # visual-style 6	fgColor:white
 # visual-style 6 5 obl:patient	color:blue
 1	吳	吳	PROPN	NNP	_	3	nmod	_	SpaceAfter=No
-2	之	之	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
+2	之	之	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No
 3	父親	父親	NOUN	NN	_	6	nsubj	_	SpaceAfter=No
 4	將	將	ADP	BB	_	5	case	_	SpaceAfter=No
 5	其	其	PRON	PRP	Person=3	6	obl:patient	_	SpaceAfter=No

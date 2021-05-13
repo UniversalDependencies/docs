@@ -24,5 +24,5 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (237; 53% of non-empty `Definite`): इस, यह, उस, इन, उन, ऐसा, द, उसी, ऐसे, ऐसी
 * `Ind` (208; 47% of non-empty `Definite`): एक, ए, उन, द, दि, वह, वैसा
-* `EMPTY` (432): कई, बहुत, ज्यादा, लगभग, कम, केवल, कुछ, किसी, कोई, और
+* `EMPTY` (431): कई, बहुत, ज्यादा, लगभग, कम, केवल, कुछ, किसी, कोई, हर
 

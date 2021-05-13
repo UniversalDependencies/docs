@@ -22,10 +22,10 @@ The following 16 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 6 appos	color:blue
-1	Әр	әр	DET	det	PronType=Qnt	2	det	_	_
+1	Әр	әр	DET	det	PronType=Tot	2	det	_	_
 2	нысан	нысан	NOUN	n	Case=Nom	7	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	cm	_	6	punct	_	_
-4	әр	әр	DET	det	PronType=Qnt	6	det	_	_
+4	әр	әр	DET	det	PronType=Tot	6	det	_	_
 5	салынған	сал	VERB	v	Tense=Past|VerbForm=Part|Voice=Pass	6	acl:relcl	_	_
 6	ғимарат	ғимарат	NOUN	n	Case=Nom	2	appos	_	_
 7	бірегей	бірегей	ADJ	adj	_	9	csubj	_	_
@@ -48,7 +48,7 @@ The following 16 pairs of parts of speech are connected with `appos`: <tt><a hre
 4	актер	актер	NOUN	n	Case=Nom	8	nmod:poss	_	_
 5	Сейед	Сейед	PROPN	np	Case=Nom|Gender=Masc	4	appos	_	_
 6	Әли	Әли	PROPN	np	Case=Nom|Gender=Masc	5	flat:name	_	_
-7	Нәсірдің	Нәсір	PROPN	np	Case=Gen	6	flat:name	_	_
+7	Нәсірдің	Нәсір	PROPN	np	Case=Gen	5	flat:name	_	_
 8	еңбегі	еңбек	NOUN	n	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	9	nsubj	_	_
 9	зор	зор	ADJ	adj	_	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	sent	_	9	punct	_	_

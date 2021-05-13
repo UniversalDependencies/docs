@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>this</em> (<tt><a href="en_pud-pos-DE
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.047619 (the average of all parts of speech is 1.138338).
+The form / lemma ratio of `DET` is 1.047619 (the average of all parts of speech is 1.138758).
 
 The 1st highest number of forms (2) was observed with the lemma “a”: <em>a, an</em>.
 
@@ -74,7 +74,7 @@ Examples: <em>the</em>
 
 `DET` nodes are attached to their parents using 15 different relations: <tt><a href="en_pud-dep-det.html">det</a></tt> (2047; 98% instances), <tt><a href="en_pud-dep-obj.html">obj</a></tt> (10; 0% instances), <tt><a href="en_pud-dep-det-predet.html">det:predet</a></tt> (9; 0% instances), <tt><a href="en_pud-dep-nsubj.html">nsubj</a></tt> (4; 0% instances), <tt><a href="en_pud-dep-expl.html">expl</a></tt> (3; 0% instances), <tt><a href="en_pud-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="en_pud-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="en_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (2; 0% instances), <tt><a href="en_pud-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-obl-npmod.html">obl:npmod</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 12 different parts of speech: <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1792; 86% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (228; 11% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (25; 1% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (20; 1% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="en_pud-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 12 different parts of speech: <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (1790; 86% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (230; 11% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (25; 1% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (20; 1% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="en_pud-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
 2066 (99%) `DET` nodes are leaves.
 

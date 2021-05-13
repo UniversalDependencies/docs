@@ -9,29 +9,28 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `parataxis`: <tt><a href="fr_spoken-dep-parataxis-insert.html">parataxis:insert</a></tt>, <tt><a href="fr_spoken-dep-parataxis-parenth.html">parataxis:parenth</a></tt>.
 
-48 nodes (0%) are attached to their parents as `parataxis`.
+42 nodes (0%) are attached to their parents as `parataxis`.
 
-47 instances of `parataxis` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.22916666666667.
+42 instances of `parataxis` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.42857142857143.
 
-The following 6 pairs of parts of speech are connected with `parataxis`: <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (35; 73% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (5; 10% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (4; 8% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-INTJ.html">INTJ</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `parataxis`: <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (29; 69% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (5; 12% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (4; 10% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-INTJ.html">INTJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 6 parataxis	color:blue
-1	vraiment	vraiment	ADV	_	_	5	advmod	_	_
-2	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-3	psychiatrie	psychiatrie	NOUN	_	Gender=Fem|Number=Sing	5	dislocated	_	_
-4	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
-5	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	ê~	ê~	VERB	CCOMP	_	5	parataxis	_	_
-7	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
-8	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	reparandum	_	_
-9	être	être	AUX	conj:reform	VerbForm=Inf	8	xcomp:obj	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 parataxis	color:blue
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+2	me	lui	PRON	_	_	3	iobj	_	_
+3	disais	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+4	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+5	irai	aller	VERB	ETRE	Number=Sing|Person=1	3	parataxis	_	_
+6	peut-être	peut-être	ADV	_	_	5	advmod	_	_
+7	à	à	ADP	_	_	8	case	_	_
+8	Vire	Vire	PROPN	_	Gender=Fem|Number=Sing	5	obl:arg	_	_
 
 ~~~
 
@@ -67,7 +66,7 @@ The following 6 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 4	fgColor:white
 # visual-style 4 6 parataxis	color:blue
 1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-2	m'	lui	PRON	_	_	4	obl:arg	_	_
+2	m'	lui	PRON	_	_	4	iobj	_	_
 3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 4	dit	dire	VERB	_	_	0	root	_	_
 5	mais	mais	CCONJ	_	_	6	cc	_	_

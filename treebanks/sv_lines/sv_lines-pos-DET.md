@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>en</em> (<tt><a href="sv_lines-pos-DE
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.809524 (the average of all parts of speech is 1.416999).
+The form / lemma ratio of `DET` is 1.809524 (the average of all parts of speech is 1.416904).
 
 The 1st highest number of forms (5) was observed with the lemma “någon”: <em>någon, något, några, nån, nåt</em>.
 

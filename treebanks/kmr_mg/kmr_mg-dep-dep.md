@@ -22,13 +22,13 @@ The following 10 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 dep	color:blue
-1	Baniwê	banû	NOUN	n	Case=Obl|Definite=Def|Gender=Fem|Number=Sing	2	nsubj	_	_
+1	Baniwê	banû	NOUN	n	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	2	nsubj	_	_
 2	got	gotin	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
-3	:	:	PUNCT	sent	_	2	punct	_	_
+3	:	:	PUNCT	sent	_	9	punct	_	_
 4	Ne	ne	ADV	adv	Polarity=Neg	9	advmod	_	_
 5	ji	ji	X	x	_	6	dep	_	_
 6	ber	ber	ADP	pr	AdpType=Prep	7	case	_	_
-7	sermayê	serma	NOUN	n	Case=Obl|Definite=Def|Gender=Fem|Number=Sing	9	nmod	_	_
+7	sermayê	serma	NOUN	n	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	9	nmod	_	_
 8	ez	ez	PRON	prn	Case=Nom|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
 9	direcifim	reciftin	VERB	vblex	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
 
@@ -65,8 +65,8 @@ The following 10 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 6	fgColor:white
 # visual-style 6 5 dep	color:blue
 1	Bi	bi	ADP	pr	AdpType=Prep	2	case	_	_
-2	spêdê	spêde	NOUN	n	Case=Obl|Gender=Fem|Number=Sing|PronType=Ind	6	nmod	_	_
-3	ve	ve	ADP	post	AdpType=Post	2	case:circ	_	_
+2	spêdê	spêde	NOUN	n	Case=Acc|Gender=Fem|Number=Sing|PronType=Ind	6	nmod	_	_
+3	ve	ve	ADP	post	AdpType=Post	2	case	_	_
 4	ez	ez	PRON	prn	Case=Nom|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 5	hişyar	hişyar	X	x	_	6	dep	_	_
 6	bû	bûn	VERB	vblex	Tense=Past|VerbForm=Part	0	root	_	_

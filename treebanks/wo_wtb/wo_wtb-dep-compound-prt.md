@@ -23,17 +23,17 @@ The following 2 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 compound:prt	color:blue
-1	Nattu	nattu	NOUN	NOUN	Case=Gen|Number=Sing	10	dislocated	10:dislocated	_
-2	kolesterol	kolesterol	NOUN	NOUN	_	1	nmod	1:nmod	_
-3	bu	bu	PRON	PRON	NounClass=Wol5|Number=Sing|Person=3|PronType=Rel	4	nsubj	4:nsubj	_
-4	jéggi	jéggi	VERB	VERB	Mood=Ind|VerbForm=Fin	1	acl:relcl	1:acl:relcl	_
-5	dayo	dayo	PART	PART	_	4	compound:prt	4:compound:prt	_
-6	lan	lan	PRON	PRON	NounClass=Wol7|Number=Sing|PronType=Int	10	obj	10:obj	_
-7	lañu	la	AUX	INFL	FocusType=Compl|Mood=Ind|Number=Plur|Person=3	10	aux	10:aux	_
-8	ci	ci	ADP	PREP	_	10	obl	10:obl	_
-9	di	di	AUX	AUX	Aspect=Imp|Mood=Ind|Tense=Pres	10	aux	10:aux	_
-10	ragal	ragal	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	0:root	SpaceAfter=No
-11	?	?	PUNCT	INT-MARK	_	10	punct	10:punct	_
+1	Nattu	nattu	NOUN	NOUN	Case=Gen|Number=Sing	10	dislocated	_	_
+2	kolesterol	kolesterol	NOUN	NOUN	_	1	nmod	_	_
+3	bu	bu	PRON	PRON	NounClass=Wol5|Number=Sing|Person=3|PronType=Rel	4	nsubj	_	_
+4	jéggi	jéggi	VERB	VERB	Mood=Ind|VerbForm=Fin	1	acl:relcl	_	_
+5	dayo	dayo	PART	PART	_	4	compound:prt	_	_
+6	lan	lan	PRON	PRON	NounClass=Wol7|Number=Sing|PronType=Int	10	obj	_	_
+7	lañu	la	AUX	INFL	FocusType=Compl|Mood=Ind|Number=Plur|Person=3	10	aux	_	_
+8	ci	ci	ADP	PREP	_	10	obl	_	_
+9	di	di	AUX	AUX	Aspect=Imp|Mood=Ind|Tense=Pres	10	aux	_	_
+10	ragal	ragal	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	SpaceAfter=No
+11	?	?	PUNCT	INT-MARK	_	10	punct	_	_
 
 ~~~
 
@@ -44,14 +44,14 @@ The following 2 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 7 compound:prt	color:blue
-1	Dammeel	Dammeel	PROPN	NAME	_	4	dislocated	4:dislocated	_
-2	mu	mu	PRON	PRON	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
-3	a	a	AUX	INFL	FocusType=Subj|Mood=Ind	4	aux	4:aux	_
-4	féete	féete	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	0:root	_
-5	woon	woon	AUX	CL	Tense=Past	4	aux	4:aux	_
-6	ñépp	ñépp	PRON	PRON	NounClass=Wol2|Number=Plur|PronType=Tot	4	obj	4:obj	_
-7	kaw	kaw	NOUN	NOUN	_	4	compound:prt	4:compound:prt	SpaceAfter=No
-8	.	.	PUNCT	PERIOD	_	4	punct	4:punct	_
+1	Dammeel	Dammeel	PROPN	NAME	_	4	dislocated	_	_
+2	mu	mu	PRON	PRON	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+3	a	a	AUX	INFL	FocusType=Subj|Mood=Ind	4	aux	_	_
+4	féete	féete	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	_
+5	woon	woon	AUX	CL	Tense=Past	4	aux	_	_
+6	ñépp	ñépp	PRON	PRON	NounClass=Wol2|Number=Plur|PronType=Tot	4	obj	_	_
+7	kaw	kaw	NOUN	NOUN	_	4	compound:prt	_	SpaceAfter=No
+8	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
 ~~~
 

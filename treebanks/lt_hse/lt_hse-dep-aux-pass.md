@@ -25,8 +25,8 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 1	Į	į	ADP	UH	_	2	case	_	En=to
 2	tai	tai	PRON	DT	_	5	obl	_	En=this
 3	man	aš	PRON	PRP	Case=Dat|Number=Sing|Person=1	5	iobj	_	En=I
-4	bus	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Fut|VerbForm=Fin|Voice=Act	5	aux:pass	_	En=be
-5	atsakyta	atsakyti	VERB	VBNL	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|Polarity=Pos|Reflex=No|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	En=answer|SpaceAfter=No
+4	bus	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	5	aux:pass	_	En=be
+5	atsakyta	atsakyti	VERB	VBNL	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	En=answer|SpaceAfter=No
 6	:	:	PUNCT	PUNCT	_	12	punct	_	En=:
 7	„	„	PUNCT	PUNCT	_	12	punct	_	En=„|SpaceAfter=No
 8	čia	čia	CCONJ	CC	_	12	cc	_	En=there

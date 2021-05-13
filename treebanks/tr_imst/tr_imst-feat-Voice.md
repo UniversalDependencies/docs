@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 * `Cau` (543; 31% of non-empty `Voice`): <em>belirtti, belirten, bildirdi, belirterek, Uzatma, üretici, oluşturan, uzattı, öldürme, ürkütücü</em>
 * `CauPass` (136; 8% of non-empty `Voice`): <em>belirtildi, yerleştirilmiş, gerçekleştirilmesi, kaldırıldı, kaldırılsın, bastırılmış, cezalandırılması, değerlendirildi, geliştirilen, genişletiliyor</em>
 * `Pass` (1061; 61% of non-empty `Voice`): <em>yapılan, yapılacak, edildi, verilen, alınması, ediliyor, edilmiş, hazırlanan, inanılmaz, katıldı</em>
-* `EMPTY` (9317): <em>dedi, olan, dedim, değil, olduğunu, oldu, olduğu, söyledi, olur, etti</em>
+* `EMPTY` (9255): <em>dedi, olan, dedim, olduğunu, oldu, olduğu, söyledi, olur, etti, değil</em>
 
 <table>
   <tr><th>Paradigm <i>et</i></th><th><tt>Pass</tt></th><th><tt>Cau</tt></th><th><tt>CauPass</tt></th></tr>

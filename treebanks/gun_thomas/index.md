@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Guillaume Thomas.
 
 Repository: [UD_Mbya_Guarani-Thomas](https://github.com/UniversalDependencies/UD_Mbya_Guarani-Thomas)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgun_thomas27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgun_thomas28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -496,22 +496,22 @@ Special thanks are due to Paulina Kerechu Núñez Romero for allowing us to use 
 <ul>
   <li><a>Subcat</a>
     <ul>
-      <li>Ditran
+      <li>Ditr
         <ul>
           <li>VERB-Fin: ome'ẽ, tojapouka</li>
         </ul>
       </li>
-      <li>Int
+      <li>Indir
+        <ul>
+          <li>VERB-Fin: roñea'ã, jaje'apa, oña'ã, penderecharãi</li>
+          <li>VERB-Inf: ñeñandu</li>
+        </ul>
+      </li>
+      <li>Intr
         <ul>
           <li>VERB-Fin: oiko, opa, ou, cheayvu, roju, romba'apo, oñevanga, roiko, aiko, oja</li>
           <li>VERB-Inf: ndaipovei, aa, kyri'ĩ, marã, porãina, tuichapa'i</li>
           <li>VERB-Vnoun: ka'aguy</li>
-        </ul>
-      </li>
-      <li>IntInd
-        <ul>
-          <li>VERB-Fin: roñea'ã, jaje'apa, oña'ã, penderecharãi</li>
-          <li>VERB-Inf: ñeñandu</li>
         </ul>
       </li>
       <li>Tran

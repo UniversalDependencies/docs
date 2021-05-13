@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Skolt_Sami-Giellagas: Relations: `advmod`
 
 This relation is universal.
-There are 4 language-specific subtypes of `advmod`: <tt><a href="sms_giellagas-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="sms_giellagas-dep-advmod-mmod.html">advmod:mmod</a></tt>, <tt><a href="sms_giellagas-dep-advmod-neg.html">advmod:neg</a></tt>, <tt><a href="sms_giellagas-dep-advmod-tmod.html">advmod:tmod</a></tt>.
+There are 7 language-specific subtypes of `advmod`: <tt><a href="sms_giellagas-dep-advmod-deg.html">advmod:deg</a></tt>, <tt><a href="sms_giellagas-dep-advmod-eval.html">advmod:eval</a></tt>, <tt><a href="sms_giellagas-dep-advmod-foc.html">advmod:foc</a></tt>, <tt><a href="sms_giellagas-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="sms_giellagas-dep-advmod-mmod.html">advmod:mmod</a></tt>, <tt><a href="sms_giellagas-dep-advmod-neg.html">advmod:neg</a></tt>, <tt><a href="sms_giellagas-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
-63 nodes (5%) are attached to their parents as `advmod`.
+51 nodes (2%) are attached to their parents as `advmod`.
 
-46 instances of `advmod` (73%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.93650793650794.
+36 instances of `advmod` (71%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.90196078431373.
 
-The following 9 pairs of parts of speech are connected with `advmod`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (42; 67% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (6; 10% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (5; 8% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (5; 8% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `advmod`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (37; 73% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (6; 12% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (4; 8% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -24,12 +24,12 @@ The following 9 pairs of parts of speech are connected with `advmod`: <tt><a hre
 # visual-style 2	fgColor:white
 # visual-style 2 1 advmod	color:blue
 1	Nuʹtt	nuʹtt	ADV	Adv	_	2	advmod	_	_
-2	kuâđđje	kuâđđjed	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt,Pl3
+2	kuâđđje	kuâđđjed	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|Valency=1	0	root	_	GTtags=Ind,Prt,Pl3
 3	vaʹlljeeǩâni	vaʹlljeed	VERB	V	Case=Abe|VerbForm=Ger	2	advcl	_	GTtags=VAbess
 4	Peter	Peter	PROPN	N	Animacy=Hum|Case=Nom|NameType=Giv|Number=Sing	2	nsubj	_	GTtags=Prop,Sem/Mal,Attr
 5	Smith	Smith	PROPN	N	Animacy=Hum|Case=Nom|NameType=Sur|Number=Sing	4	flat:name	_	GTtags=Prop,Sem/Sur,Sg,Nom
 6	diǥu	diǥu	SCONJ	CS	_	9	mark	_	_
-7	še	še	ADV	Pcle	_	9	advmod	_	_
+7	še	še	ADV	Pcle	_	9	advmod:eval	_	_
 8	Mary	Mary	PROPN	N	Animacy=Hum|Case=Nom|NameType=Giv|Number=Sing	4	conj	_	GTtags=Prop,Sem/Fem,Attr
 9	Brown	Brown	PROPN	N	Animacy=Hum|Case=Nom|NameType=Sur|Number=Sing	8	flat:name	_	GTtags=Prop,Sem/Sur,Sg,Nom|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	2	punct	_	_
@@ -67,7 +67,7 @@ The following 9 pairs of parts of speech are connected with `advmod`: <tt><a hre
 # visual-style 2	fgColor:white
 # visual-style 2 4 advmod	color:blue
 1	Seeʹst	son	PRON	Pron	Case=Loc|Number=Plur|Person=3|PronType=Prs	2	obl	_	GTtags=Pers,Pl3,Loc
-2	jeäʹla	iʹlla	AUX	V	Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=V
+2	jeäʹla	iʹlla	AUX	V	Number=Plur|Person=3|Tense=Pres|Valency=1	0	root	_	GTtags=V
 3	ǩeeʹrjteeʹjest	ǩeeʹrjteei	NOUN	N	Case=Loc|Number=Sing	2	obl	_	GTtags=Sg,Loc
 4	võl	võl	ADV	Adv	AdvType=Tim	2	advmod	_	GTtags=Sem/Time
 5	ni	ni	PART	Pcle	_	6	advmod:neg	_	_

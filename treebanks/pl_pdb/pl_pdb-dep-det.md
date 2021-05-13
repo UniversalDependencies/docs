@@ -40,7 +40,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 det	color:blue
-1	-	-	PUNCT	interp	PunctType=Hyph	3	punct	3:punct	_
+1	-	-	PUNCT	interp	PunctType=Dash	3	punct	3:punct	_
 2	Nie	nie	PART	part	Polarity=Neg	3	advmod:neg	3:advmod:neg	_
 3	zauważył	zauważyć	VERB	praet:sg:m1:perf	Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 4	em	być	AUX	aglt:sg:pri:imperf:wok	Aspect=Imp|Clitic=Yes|Number=Sing|Person=1|Variant=Long	3	aux:clitic	3:aux:clitic	_

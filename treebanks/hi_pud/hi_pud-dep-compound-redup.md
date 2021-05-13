@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Hindi-PUD: Relations: `compound:redup`
 
 This relation is a language-specific subtype of <tt><a href="hi_pud-dep-compound.html">compound</a></tt>.
-There are also 1 other language-specific subtypes of `compound`: <tt><a href="hi_pud-dep-compound-conjv.html">compound:conjv</a></tt>.
+There are also 1 other language-specific subtypes of `compound`: <tt><a href="hi_pud-dep-compound-lvc.html">compound:lvc</a></tt>.
 
 14 nodes (0%) are attached to their parents as `compound:redup`.
 
@@ -95,7 +95,7 @@ The following 5 pairs of parts of speech are connected with `compound:redup`: <t
 14	मेनहिर	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	18	obj	_	Translit=menahira
 15	और	_	CCONJ	CC	_	16	cc	_	Translit=aura
 16	डॉल्मेन	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	conj	_	Translit=ḍôlmena
-17	शामिल	_	ADJ	JJ	_	18	compound:conjv	_	Translit=śāmila
+17	शामिल	_	ADJ	JJ	_	18	compound:lvc	_	Translit=śāmila
 18	हैं	_	VERB	VBI	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres	4	acl:relcl	_	SpaceAfter=No|Translit=haiṁ
 19	।	_	PUNCT	.	_	5	punct	_	Translit=.
 

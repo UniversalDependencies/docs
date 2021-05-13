@@ -28,7 +28,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>mu</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="wo_wtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="wo_wtb-feat-FocusType.html">FocusType</a></tt><tt>=Compl</tt>|<tt><a href="wo_wtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="wo_wtb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="wo_wtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>nu</em></td></tr>
+  <tr><td><tt><tt><a href="wo_wtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="wo_wtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="wo_wtb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="wo_wtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>nu</em></td></tr>
   <tr><td><tt><tt><a href="wo_wtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="wo_wtb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="wo_wtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ma</em></td><td><em>nu</em></td></tr>
   <tr><td><tt><tt><a href="wo_wtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="wo_wtb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="wo_wtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>nga</em></td><td><em>ngeen, Yeen</em></td></tr>
   <tr><td><tt><tt><a href="wo_wtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="wo_wtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="wo_wtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>mu, ma</em></td><td><em>ñu</em></td></tr>

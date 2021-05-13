@@ -41,7 +41,7 @@ The following 23 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 4 2 compound	color:blue
 1	Вибір	вибір	NOUN	Ncmsnn	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	Id=2li9|LTranslit=vybir|Translit=Vybir
 2	медико	медичний	ADJ	A	Hyph=Yes	4	compound	4:compound	Id=2lia|LTranslit=medyčnyj|SpaceAfter=No|Translit=medyko
-3	-	-	PUNCT	U	PunctType=Hyph	2	punct	2:punct	Id=2lib|LTranslit=-|SpaceAfter=No|Translit=-
+3	-	-	PUNCT	U	PunctType=Dash	2	punct	2:punct	Id=2lib|LTranslit=-|SpaceAfter=No|Translit=-
 4	технологічних	технологічний	ADJ	Afp-pgf	Case=Gen|Degree=Pos|Number=Plur	5	amod	5:amod	Id=2lic|LTranslit=technolohičnyj|Translit=technolohičnych
 5	документів	документ	NOUN	Ncmpgn	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nmod	1:nmod	Id=2lid|LTranslit=dokument|Translit=dokumentiv
 
@@ -56,7 +56,7 @@ The following 23 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 4 2 compound	color:blue
 1	Сучасний	сучасний	ADJ	Afpmsnf	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	4:amod	Id=2nt2|LTranslit=sučasnyj|Translit=Sučasnyj
 2	медіа	медіа	NOUN	Nc-pnn	Animacy=Inan|Case=Nom|Number=Ptan|Uninflect=Yes	4	compound	4:compound	Id=2nt3|LTranslit=media|SpaceAfter=No|Translit=media
-3	-	-	PUNCT	U	PunctType=Hyph	2	punct	2:punct	Id=2nt4|LTranslit=-|SpaceAfter=No|Translit=-
+3	-	-	PUNCT	U	PunctType=Dash	2	punct	2:punct	Id=2nt4|LTranslit=-|SpaceAfter=No|Translit=-
 4	арт	арт	NOUN	Ncmsnn	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj	6:nsubj	Id=2nt5|LTranslit=art|Translit=art
 5	теж	теж	ADV	R	_	6	advmod	6:advmod	Id=2nt6|LTranslit=tež|Translit=tež
 6	має	мати	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Id=2nt7|LTranslit=maty|Translit=maě

@@ -43,7 +43,7 @@ The following 6 pairs of parts of speech are connected with `orphan`: <tt><a hre
 19	him	he	PRON	PERS-P3SG-ACC	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obl	_	SpaceAfter=No
 20	,	,	PUNCT	Comma	_	21	punct	_	_
 21	mmh	mmh	INTJ	_	_	19	discourse	_	SpaceAfter=No
-22	?	?	PUNCT	Questionmark	_	19	punct	_	_
+22	?	?	PUNCT	QuestionMark	_	19	punct	_	_
 23	not	not	PART	NEG	_	26	advmod	_	_
 24	even	even	ADV	_	_	26	advmod	_	_
 25	with	with	ADP	_	_	26	case	_	_

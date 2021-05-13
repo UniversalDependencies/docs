@@ -21,5 +21,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="fr_gsd-pos-ADV.html
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (2967; 100% of non-empty `Polarity`): <em>pas, n', ne, non, jamais, plus, qu', guère, point, nullement</em>
-* `EMPTY` (12002): <em>plus, très, aussi, où, ainsi, alors, bien, également, lors, puis</em>
+* `EMPTY` (11621): <em>plus, très, aussi, où, ainsi, alors, bien, également, lors, même</em>
 

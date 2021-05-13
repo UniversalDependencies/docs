@@ -42,11 +42,11 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 9 5 amod	color:blue
 1	Ордчӧн	ордчӧн	ADV	Adv	_	3	advmod:lmod	_	GTtags=Adv
 2	мекӧт	ме	PRON	Pron	Case=Com|Number=Sing|Person=1|PronType=Prs	1	nmod	_	GTtags=Pron,Pers,Sg1,Com
-3	пукалӧ	пукавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=2	0	root	_	GTtags=V,TV,Ind,Prs,Sg3
+3	пукалӧ	пукавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=V,TV,Ind,Prs,Sg3
 4	сьӧд	сьӧд	ADJ	A	_	5	amod	_	GTtags=A
-5	тошока	тошока	NOUN	N	Derivation=ProprietiveMod|Number=Sing	9	amod	_	GTtags=N,Sg,Der,Der/ProprietiveMod,A
+5	тошока	тошок	NOUN	N	Derivation=ProprietiveMod|Number=Sing	9	amod	_	GTtags=N,Sg,Der,Der/ProprietiveMod,A
 6	и	и	CCONJ	CC	_	8	cc	_	GTtags=CC
-7	гардчӧмкодь	гардчыны	VERB	V	Derivation=CompMod|Mood=Ind|Number=Sing|Person=3|Tense=Prt2|Valency=1	8	advcl	_	GTtags=V,IV,Ind,Prt2,Sg3,Der,Der/CompMod
+7	гардчӧмкодь	гардчыны	VERB	V	Case=Nom|Derivation=CompMod|Number=Sing|Tense=Past|VerbForm=Part	8	advcl	_	GTtags=V,IV,Ind,Prt2,Sg3,Der,Der/CompMod
 8	уссэза	ус	NOUN	N	Derivation=ProprietiveMod|Number=Plur	5	conj	_	GTtags=N,Pl,Der,Der/ProprietiveMod,A
 9	мужик	мужик	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	GTtags=N,Sg,Nom|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	3	punct	_	GTtags=CLB

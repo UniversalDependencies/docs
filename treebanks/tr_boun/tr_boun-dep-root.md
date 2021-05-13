@@ -13,7 +13,7 @@ This relation is universal.
 9761 instances of `root` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 9.14127650855445.
 
-The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="tr_boun-pos-VERB.html">VERB</a></tt> (6111; 63% instances), -<tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> (2234; 23% instances), -<tt><a href="tr_boun-pos-ADJ.html">ADJ</a></tt> (835; 9% instances), -<tt><a href="tr_boun-pos-PROPN.html">PROPN</a></tt> (167; 2% instances), -<tt><a href="tr_boun-pos-ADV.html">ADV</a></tt> (112; 1% instances), -<tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> (91; 1% instances), -<tt><a href="tr_boun-pos-CCONJ.html">CCONJ</a></tt> (72; 1% instances), -<tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (51; 1% instances), -<tt><a href="tr_boun-pos-PUNCT.html">PUNCT</a></tt> (43; 0% instances), -<tt><a href="tr_boun-pos-ADP.html">ADP</a></tt> (32; 0% instances), -<tt><a href="tr_boun-pos-DET.html">DET</a></tt> (4; 0% instances), -<tt><a href="tr_boun-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), -<tt><a href="tr_boun-pos-AUX.html">AUX</a></tt> (3; 0% instances), -<tt><a href="tr_boun-pos-X.html">X</a></tt> (2; 0% instances).
+The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="tr_boun-pos-VERB.html">VERB</a></tt> (6113; 63% instances), -<tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> (2234; 23% instances), -<tt><a href="tr_boun-pos-ADJ.html">ADJ</a></tt> (835; 9% instances), -<tt><a href="tr_boun-pos-PROPN.html">PROPN</a></tt> (167; 2% instances), -<tt><a href="tr_boun-pos-ADV.html">ADV</a></tt> (110; 1% instances), -<tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> (91; 1% instances), -<tt><a href="tr_boun-pos-CCONJ.html">CCONJ</a></tt> (72; 1% instances), -<tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (51; 1% instances), -<tt><a href="tr_boun-pos-PUNCT.html">PUNCT</a></tt> (43; 0% instances), -<tt><a href="tr_boun-pos-ADP.html">ADP</a></tt> (32; 0% instances), -<tt><a href="tr_boun-pos-DET.html">DET</a></tt> (4; 0% instances), -<tt><a href="tr_boun-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), -<tt><a href="tr_boun-pos-AUX.html">AUX</a></tt> (3; 0% instances), -<tt><a href="tr_boun-pos-X.html">X</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -45,7 +45,7 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 4	42	42	NUM	ANum	NumType=Card	5	nummod	_	_
 5	yaşında	yaş	ADJ	NAdj	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	10	advcl	_	_
 6	iken	i	AUX	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part	5	cop	_	_
-7	bir	bir	DET	ANum	NumType=Card	8	det	_	_
+7	bir	bir	DET	ANum	_	8	det	_	_
 8	darbeyle	darbe	NOUN	Noun	Case=Ins|Number=Sing|Person=3	10	obl	_	_
 9	iktidara	iktidar	NOUN	Noun	Case=Dat|Number=Sing|Person=3	10	obj	_	_
 10	el	el	NOUN	Noun	Case=Nom|Number=Sing|Person=3	0	root	_	_

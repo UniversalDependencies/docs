@@ -32,7 +32,7 @@ The following 7 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 8	นี้	_	DET	DT	_	7	det	_	SpaceAfter=No
 9	มี	_	VERB	VV	_	0	root	_	SpaceAfter=No
 10	การถกเถียง	_	VERB	VV	_	9	obj	_	SpaceAfter=No
-11	กัน	_	PRON	PRP	_	10	advmod	_	SpaceAfter=No
+11	กัน	_	PRON	PRP	_	10	obl	_	SpaceAfter=No
 12	อย่างเอาจริงเอาจัง	_	ADJ	JJ	_	10	advmod	_	_
 
 ~~~
@@ -47,7 +47,7 @@ The following 7 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 1	แม้	_	ADP	IN	_	6	cc:preconj	_	SpaceAfter=No
 2	ว่า	_	ADP	IN	_	1	fixed	_	SpaceAfter=No
 3	มัน	_	PRON	PRP	Person=3	6	nsubj	_	SpaceAfter=No
-4	จะ	_	VERB	MD	_	6	aux	_	SpaceAfter=No
+4	จะ	_	AUX	MD	_	6	aux	_	SpaceAfter=No
 5	ดู	_	AUX	VV	_	6	cop	_	SpaceAfter=No
 6	น่าประหลาดใจ	_	VERB	VV	_	0	root	_	_
 7	แต่	_	CCONJ	CC	_	18	cc	_	SpaceAfter=No
@@ -60,13 +60,13 @@ The following 7 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 14	ฝน	_	NOUN	NN	_	13	compound	_	SpaceAfter=No
 15	กรด	_	NOUN	NN	_	13	compound	_	SpaceAfter=No
 16	ก็	_	ADV	RB	_	18	advmod	_	SpaceAfter=No
-17	ยัง	_	PART	AS	Aspect=Prog	18	aux	_	SpaceAfter=No
+17	ยัง	_	AUX	AS	Aspect=Prog	18	aux	_	SpaceAfter=No
 18	มี	_	VERB	VV	_	6	conj	_	SpaceAfter=No
 19	สิ่ง	_	NOUN	NN	_	18	obj	_	SpaceAfter=No
 20	ดี	_	ADJ	JJ	_	19	amod	_	SpaceAfter=No
 21	ๆ	_	SYM	SYM	_	20	dep	_	_
 22	ซ่อน	_	VERB	VV	_	18	xcomp	_	SpaceAfter=No
-23	อยู่	_	PART	AS	Aspect=Prog	22	aux	_	_
+23	อยู่	_	AUX	AS	Aspect=Prog	22	aux	_	_
 
 ~~~
 
@@ -78,7 +78,7 @@ The following 7 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 8	fgColor:white
 # visual-style 8 7 cc:preconj	color:blue
 1	กล่าว	_	VERB	VV	_	0	root	_	SpaceAfter=No
-2	ได้	_	VERB	MD	_	1	aux	_	SpaceAfter=No
+2	ได้	_	AUX	MD	_	1	aux	_	SpaceAfter=No
 3	เลย	_	ADV	RB	_	1	advmod	_	SpaceAfter=No
 4	ว่า	_	ADP	IN	_	8	mark	_	SpaceAfter=No
 5	ร็อคโค่	_	PROPN	NNP	_	8	nsubj	_	_

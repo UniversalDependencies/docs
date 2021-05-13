@@ -23,11 +23,11 @@ The following 20 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 14	fgColor:white
 # visual-style 14 11 cc	color:blue
 1	अर्धा	अर्धा	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	nsubj	_	SpaceAfter=No|Vib=0|Tam=0|ChunkId=NP|ChunkType=head|Translit=ardhā
-2	,	COMMA	PUNCT	SYM	_	1	punct	_	ChunkId=NP|ChunkType=child|Translit=,
+2	,	,	PUNCT	SYM	_	1	punct	_	ChunkId=NP|ChunkType=child|Translit=,
 3	जो	जो	PRON	PRP	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Vib=0|Tam=0|ChunkId=NP2|ChunkType=head|Translit=jo
 4	चौकोर	चौकोर	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	1	acl:relcl	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=caukora
 5	है	है	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	SpaceAfter=No|Vib=है|Tam=hE|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=hai
-6	,	COMMA	PUNCT	SYM	_	1	punct	_	ChunkId=VGF|ChunkType=child|Translit=,
+6	,	,	PUNCT	SYM	_	1	punct	_	ChunkId=VGF|ChunkType=child|Translit=,
 7	अंदर	अंदर	ADV	NST	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing|Person=3	9	advmod	_	AltTag=ADV-NOUN|Vib=0_से|ChunkId=NP4|ChunkType=head|Translit=aṁdara
 8	से	से	ADP	PSP	AdpType=Post	7	case	_	ChunkId=NP4|ChunkType=child|Translit=se
 9	पोली	पोला	ADJ	JJ	Gender=Fem|Number=Sing	0	root	_	ChunkId=JJP|ChunkType=head|Translit=polī
@@ -73,7 +73,7 @@ The following 20 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 8	fgColor:white
 # visual-style 8 7 cc	color:blue
 1	लेकिन	लेकिन	CCONJ	CC	_	11	cc	_	SpaceAfter=No|ChunkId=CCP|ChunkType=head|Translit=lekina
-2	,	COMMA	PUNCT	SYM	_	11	punct	_	ChunkId=CCP|ChunkType=child|Translit=,
+2	,	,	PUNCT	SYM	_	11	punct	_	ChunkId=CCP|ChunkType=child|Translit=,
 3	इस	यह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	4	det	_	ChunkId=NP|ChunkType=child|Translit=isa
 4	समझौते	समझौता	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	obl	_	Vib=0_से|Tam=0|ChunkId=NP|ChunkType=head|Translit=samajhaute
 5	से	से	ADP	PSP	AdpType=Post	4	case	_	ChunkId=NP|ChunkType=child|Translit=se

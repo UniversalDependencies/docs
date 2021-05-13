@@ -49,25 +49,25 @@ The following 11 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 17	bgColor:blue
 # visual-style 17	fgColor:white
 # visual-style 17 16 orphan	color:blue
-1	ⲟⲩⲇⲉ	ⲟⲩⲇⲉ	CCONJ	CONJ	Polarity=Neg	19	cc	_	_
+1	ⲟⲩⲇⲉ	ⲟⲩⲇⲉ	CCONJ	CONJ	Foreign=Yes|Polarity=Neg	19	cc	_	OrigLang=grc
 2	ⲙⲛ	ⲙⲛ	AUX	EXIST	Polarity=Neg	19	aux	_	_
 3	ⲣⲉϥϩⲱϥⲧ	ⲣⲉϥϩⲱϥⲧ	NOUN	N	_	19	nsubj	_	Entity=(person)|Morphs=ⲣⲉϥ-ϩⲱϥⲧ
-4	ⲟⲩⲇⲉ	ⲟⲩⲇⲉ	CCONJ	CONJ	Polarity=Neg	6	cc	_	_
+4	ⲟⲩⲇⲉ	ⲟⲩⲇⲉ	CCONJ	CONJ	Foreign=Yes|Polarity=Neg	6	cc	_	OrigLang=grc
 5	ⲙⲛ	ⲙⲛ	VERB	EXIST	Polarity=Neg	6	orphan	_	_
 6	ⲙⲁⲓⲧⲟⲉ	ⲙⲁⲓⲧⲟⲉ	NOUN	N	_	3	conj	_	Entity=(person|Morphs=ⲙⲁⲓ-ⲧⲟⲉ|Orig=ⲙⲁⲓⲧⲟ
 7	ⲛ	ⲛ	ADP	PREP	_	8	case	_	_
 8	ϩⲟⲩⲟ	ϩⲟⲩⲟ	NOUN	N	_	6	nmod	_	Entity=person)
-9	ⲟⲩⲇⲉ	ⲟⲩⲇⲉ	CCONJ	CONJ	Polarity=Neg	11	cc	_	_
+9	ⲟⲩⲇⲉ	ⲟⲩⲇⲉ	CCONJ	CONJ	Foreign=Yes|Polarity=Neg	11	cc	_	OrigLang=grc
 10	ⲙⲛ	ⲙⲛ	VERB	EXIST	Polarity=Neg	11	orphan	_	_
 11	ⲣⲉϥϯϩⲉ	ⲣⲉϥϯϩⲉ	NOUN	N	_	3	conj	_	Entity=(person)|Morphs=ⲣⲉϥ-ϯϩⲉ
-12	ⲟⲩⲇⲉ	ⲟⲩⲇⲉ	CCONJ	CONJ	Polarity=Neg	14	cc	_	_
+12	ⲟⲩⲇⲉ	ⲟⲩⲇⲉ	CCONJ	CONJ	Foreign=Yes|Polarity=Neg	14	cc	_	OrigLang=grc
 13	ⲙⲛ	ⲙⲛ	VERB	EXIST	Polarity=Neg	14	orphan	_	_
 14	ⲣⲉϥⲥⲁϩⲟⲩ	ⲣⲉϥⲥⲁϩⲟⲩ	NOUN	N	_	3	conj	_	Entity=(person)|Morphs=ⲣⲉϥ-ⲥⲁϩⲟⲩ
-15	ⲟⲩⲇⲉ	ⲟⲩⲇⲉ	CCONJ	CONJ	Polarity=Neg	17	cc	_	_
+15	ⲟⲩⲇⲉ	ⲟⲩⲇⲉ	CCONJ	CONJ	Foreign=Yes|Polarity=Neg	17	cc	_	OrigLang=grc
 16	ⲙⲛ	ⲙⲛ	VERB	EXIST	Polarity=Neg	17	orphan	_	_
 17	ⲣⲉϥⲧⲱⲣⲡ	ⲣⲉϥⲧⲱⲣⲡ	NOUN	N	_	3	conj	_	Entity=(person)|Morphs=ⲣⲉϥ-ⲧⲱⲣⲡ
 18	ⲛⲁ	ⲛⲁ	AUX	FUT	_	19	aux	_	_
-19	ⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ	ⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ	VERB	V	VerbForm=Fin	0	root	_	Orig=ⲕⲗⲏⲣⲟⲛⲟⲙⲓ
+19	ⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ	ⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ	VERB	V	Foreign=Yes|VerbForm=Fin	0	root	_	Orig=ⲕⲗⲏⲣⲟⲛⲟⲙⲓ|OrigLang=grc
 20	ⲛ	ⲛ	ADP	PREP	_	22	case	_	_
 21	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	Entity=(abstract
 22	ⲙⲛⲧⲣⲣⲟ	ⲙⲛⲧⲣⲣⲟ	NOUN	N	_	19	obj	_	Morphs=ⲙⲛⲧ-ⲣⲣⲟ
@@ -85,7 +85,7 @@ The following 11 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 14 orphan	color:blue
-1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	_	5	cc	_	_
+1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	5	cc	_	OrigLang=grc
 2	ⲟⲩⲛ	ⲟⲩⲛ	AUX	EXIST	_	5	aux	_	_
 3	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	4	det	_	Entity=(person
 4	ⲥⲟⲛ	ⲥⲟⲛ	NOUN	N	_	5	nsubj	_	Entity=person)
@@ -98,7 +98,7 @@ The following 11 pairs of parts of speech are connected with `orphan`: <tt><a hr
 11	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	5	conj	_	Entity=(abstract)
 12	ϩⲓ	ϩⲓ	ADP	PREP	_	14	case	_	_
 13	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	14	det	_	Entity=(person
-14	ⲁⲡⲓⲥⲧⲟⲥ	ⲁⲡⲓⲥⲧⲟⲥ	NOUN	N	_	11	orphan	_	Entity=person)
+14	ⲁⲡⲓⲥⲧⲟⲥ	ⲁⲡⲓⲥⲧⲟⲥ	NOUN	N	Foreign=Yes	11	orphan	_	Entity=person)|OrigLang=grc
 15	.	.	PUNCT	PUNCT	_	5	punct	_	_
 
 ~~~

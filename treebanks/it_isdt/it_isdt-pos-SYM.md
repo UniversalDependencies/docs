@@ -9,9 +9,9 @@ udver: '2'
 There are 12 `SYM` lemmas (0%), 12 `SYM` types (0%) and 102 `SYM` tokens (0%).
 Out of 17 observed tags, the rank of `SYM` is: 15 in number of lemmas, 16 in number of types and 15 in number of tokens.
 
-The 10 most frequent `SYM` lemmas: <em>%, &, +, -, 800-196.196, h​t​t​p​:​/​/​e​u​r​o​p​a​.​e​u​.​i​n​t​/​c​o​m​m​/​s​e​c​r​e​t​a​r​i​a​t​@​g​e​n​e​r​a​l​/​s​g​b​/​s​t​a​t​e​@​a​i​d​s, h​t​t​p​:​/​/​w​w​w​.​l​i​n​k​i​e​s​t​a​.​i​t​/​L​o​c​a​t​e​l​l​i​-​l​o​m​b​a​r​d​i​a​-​N​i​c​o​l​i​-​r​e​g​i​o​n​e, www.amnesty.it, w​w​w​.​c​e​n​t​r​o​d​o​n​m​i​l​a​n​i​.​o​r​g, www.dueparole.it</em>
+The 10 most frequent `SYM` lemmas: <em>%, &, +, -, 800-196.196, http://europa.eu.int/comm/secretariat@general/sgb/state@aids, http://www.linkiesta.it/Locatelli-lombardia-Nicoli-regione, www.amnesty.it, www.centrodonmilani.org, www.dueparole.it</em>
 
-The 10 most frequent `SYM` types:  <em>%, &, +, -, 800-196.196, h​t​t​p​:​/​/​e​u​r​o​p​a​.​e​u​.​i​n​t​/​c​o​m​m​/​s​e​c​r​e​t​a​r​i​a​t​@​g​e​n​e​r​a​l​/​s​g​b​/​s​t​a​t​e​@​a​i​d​s, h​t​t​p​:​/​/​w​w​w​.​l​i​n​k​i​e​s​t​a​.​i​t​/​L​o​c​a​t​e​l​l​i​-​l​o​m​b​a​r​d​i​a​-​N​i​c​o​l​i​-​r​e​g​i​o​n​e, www.amnesty.it, w​w​w​.​c​e​n​t​r​o​d​o​n​m​i​l​a​n​i​.​o​r​g, www.dueparole.it</em>
+The 10 most frequent `SYM` types:  <em>%, &, +, -, 800-196.196, http://europa.eu.int/comm/secretariat@general/sgb/state@aids, http://www.linkiesta.it/Locatelli-lombardia-Nicoli-regione, www.amnesty.it, www.centrodonmilani.org, www.dueparole.it</em>
 
 The 10 most frequent ambiguous lemmas: <em>&</em> (<tt><a href="it_isdt-pos-SYM.html">SYM</a></tt> 6, <tt><a href="it_isdt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>-</em> (<tt><a href="it_isdt-pos-PUNCT.html">PUNCT</a></tt> 767, <tt><a href="it_isdt-pos-SYM.html">SYM</a></tt> 2)
 

@@ -8,38 +8,31 @@ udver: '2'
 
 This relation is universal.
 
-1 nodes (0%) are attached to their parents as `dep`.
+2 nodes (0%) are attached to their parents as `dep`.
 
-1 instances of `dep` (100%) are right-to-left (child precedes parent).
+2 instances of `dep` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (2; 100% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 dep	color:blue
-1	Mutta	mutta	CCONJ	CC	_	6	cc	_	GTtags=CC
-2	tõn	tõt	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	3	dep	_	GTtags=Dem,Sg,Gen
-3	suõv	suõvv	NOUN	N	Case=Gen|Number=Sing	6	obl:lmod	_	GTtags=Sg,Gen
-4	luzz	luzz	ADP	Adp	_	3	case	_	_
-5	ko	ko	SCONJ	CS	_	6	mark	_	GTtags=@CVP
-6	väʒʒ	väʹʒʒed	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Sg3,@+FMAINV
-7	de	de	CCONJ	CC	_	9	cc	_	GTtags=@CVP
-8	vuõddjez	vuõdd	NOUN	N	Case=Nom|Derivation=Dimin|Number=Plur|Number[psor]=Plur|Person[psor]=3	9	obj	_	GTtags=Der/Dimin,N,Pl,Nom,PxPl3,@<SUBJ
-9	nuâll	nuõllâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	conj	_	GTtags=Ind,Prs,Sg3,@+FMAINV
-10	de	de	CCONJ	CC	_	11	cc	_	GTtags=@CVP
-11	peejj	piijjâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	conj	_	GTtags=Ind,Prs,Sg3,@+FMAINV|SpaceAfter=No
-12	,	,	PUNCT	CLB	_	16	punct	_	_
-13	tõn	tõt	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	14	det	_	GTtags=Dem,Sg,Gen
-14	suõv	suõvv	NOUN	N	Case=Gen|Number=Sing	16	obl:lmod	_	GTtags=Sg,Gen
-15	ool	ool	ADP	Adp	_	14	case	_	_
-16	peejj	piijjâd	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	appos	_	GTtags=Ind,Prs,Sg3,@+FMAINV
-17	juâlǥašm	juâlǥašm	NOUN	N	Case=Acc|Number=Sing	16	obj	_	GTtags=Sg,Acc,@<OBJ|SpaceAfter=No
-18	.	.	PUNCT	CLB	_	6	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 dep	color:blue
+1	Di	di	CCONJ	CC	_	4	cc	_	_
+2	sij	son	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	GTtags=Pers,Pl3,Nom
+3	koozz	koss	ADV	Adv	Case=Ill	4	advmod:lmod	_	GTtags=N,Pl,Nom
+4	vueʹlǧǧe	vueʹlǧǧed	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Pl3|SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	9	punct	_	_
+6	de	de	CCONJ	CC	_	9	cc	_	GTtags=@ADVL>
+7	puk	puk	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	8	dep	_	GTtags=Pron,Sg,Nom
+8	vuäbbses	vuäʹbb	NOUN	N	Animacy=Hum|Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	nsubj	_	GTtags=Sem/Kin,Sg,Ill,PxSg3
+9	poʹhtte	puʹhtted	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	4	conj	_	GTtags=Ind,Prs,Pl3
+10	põʹrtte	põrtt	NOUN	N	Case=Ill|Number=Sing	9	obl:lmod	_	GTtags=Sg,Ill,@<ADVL|SpaceAfter=No
+11	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 

@@ -11,16 +11,16 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="tr_boun-feat-Number.html">Number</a></tt>, <tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt>.
 
-18724 tokens (15%) have a non-empty value of `Number[psor]`.
-10368 types (29%) occur at least once with a non-empty value of `Number[psor]`.
-3462 lemmas (31%) occur at least once with a non-empty value of `Number[psor]`.
-The feature is used with 14 part-of-speech tags: <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> (12535; 10% instances), <tt><a href="tr_boun-pos-VERB.html">VERB</a></tt> (3278; 3% instances), <tt><a href="tr_boun-pos-ADJ.html">ADJ</a></tt> (1552; 1% instances), <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> (755; 1% instances), <tt><a href="tr_boun-pos-ADV.html">ADV</a></tt> (252; 0% instances), <tt><a href="tr_boun-pos-PROPN.html">PROPN</a></tt> (142; 0% instances), <tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (141; 0% instances), <tt><a href="tr_boun-pos-ADP.html">ADP</a></tt> (30; 0% instances), <tt><a href="tr_boun-pos-AUX.html">AUX</a></tt> (17; 0% instances), <tt><a href="tr_boun-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="tr_boun-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="tr_boun-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="tr_boun-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="tr_boun-pos-X.html">X</a></tt> (1; 0% instances).
+17514 tokens (14%) have a non-empty value of `Number[psor]`.
+9768 types (28%) occur at least once with a non-empty value of `Number[psor]`.
+3404 lemmas (30%) occur at least once with a non-empty value of `Number[psor]`.
+The feature is used with 10 part-of-speech tags: <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> (12043; 10% instances), <tt><a href="tr_boun-pos-VERB.html">VERB</a></tt> (3279; 3% instances), <tt><a href="tr_boun-pos-ADJ.html">ADJ</a></tt> (1477; 1% instances), <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> (410; 0% instances), <tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (133; 0% instances), <tt><a href="tr_boun-pos-PROPN.html">PROPN</a></tt> (126; 0% instances), <tt><a href="tr_boun-pos-ADP.html">ADP</a></tt> (27; 0% instances), <tt><a href="tr_boun-pos-AUX.html">AUX</a></tt> (17; 0% instances), <tt><a href="tr_boun-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="tr_boun-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-12535 <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> tokens (33% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
+12043 <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> tokens (32% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Number[psor]` co-occurred: <tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (12432; 99%), <tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (10926; 87%), <tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9796; 78%).
+The most frequent other feature values with which `NOUN` and `Number[psor]` co-occurred: <tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (12014; 100%), <tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (10581; 88%), <tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9414; 78%).
 
 `NOUN` tokens may have the following values of `Number[psor]`:
 
@@ -44,21 +44,21 @@ The most frequent other feature values with which `NOUN` and `Number[psor]` co-o
 
 ### `VERB`
 
-3278 <tt><a href="tr_boun-pos-VERB.html">VERB</a></tt> tokens (16% of all `VERB` tokens) have a non-empty value of `Number[psor]`.
+3279 <tt><a href="tr_boun-pos-VERB.html">VERB</a></tt> tokens (16% of all `VERB` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `VERB` and `Number[psor]` co-occurred: <tt><a href="tr_boun-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (3251; 99%), <tt><a href="tr_boun-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3184; 97%), <tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2814; 86%), <tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (2705; 83%), <tt><a href="tr_boun-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2676; 82%), <tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (2283; 70%), <tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2210; 67%), <tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2158; 66%), <tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (2032; 62%), <tt><a href="tr_boun-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2025; 62%).
+The most frequent other feature values with which `VERB` and `Number[psor]` co-occurred: <tt><a href="tr_boun-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (3252; 99%), <tt><a href="tr_boun-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3184; 97%), <tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2815; 86%), <tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (2705; 82%), <tt><a href="tr_boun-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2677; 82%), <tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (2283; 70%), <tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2211; 67%), <tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2158; 66%), <tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (2032; 62%), <tt><a href="tr_boun-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2025; 62%).
 
 `VERB` tokens may have the following values of `Number[psor]`:
 
 
 <table>
   <tr><th>Paradigm <i>ol</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_boun-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_boun-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>olPoteceğini</em></td></tr>
+  <tr><td><tt><tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_boun-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_boun-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>olabileceğini</em></td></tr>
   <tr><td><tt><tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_boun-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>olmayacağını</em></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_boun-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_boun-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>olPoteceği</em></td></tr>
+  <tr><td><tt><tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_boun-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_boun-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>olabileceği</em></td></tr>
   <tr><td><tt><tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_boun-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>olamayacağı</em></td></tr>
   <tr><td><tt><tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_boun-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>olacağı</em></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="tr_boun-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_boun-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>olPoteceği</em></td></tr>
+  <tr><td><tt><tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="tr_boun-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_boun-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>olabileceği</em></td></tr>
   <tr><td><tt><tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_boun-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>olmayacağı</em></td></tr>
   <tr><td><tt><tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_boun-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>olmadığından</em></td></tr>
   <tr><td><tt><tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_boun-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>olduğundan</em></td></tr>
@@ -80,8 +80,8 @@ The most frequent other feature values with which `VERB` and `Number[psor]` co-o
   <tr><td><tt><tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_boun-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>olmadığı, olmadığıdır</em></td></tr>
   <tr><td><tt><tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_boun-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>olduğu</em></td></tr>
   <tr><td><tt><tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_boun-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>oldukları</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_boun-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_boun-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>olPotdiğim</em></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_boun-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_boun-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>olPotdiği</em></td></tr>
+  <tr><td><tt><tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_boun-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_boun-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>olabildiğim</em></td></tr>
+  <tr><td><tt><tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_boun-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_boun-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>olabildiği</em></td></tr>
   <tr><td><tt><tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_boun-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>olmadığım</em></td></tr>
   <tr><td><tt><tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_boun-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>olduğum</em></td></tr>
   <tr><td><tt><tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="tr_boun-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>olmadığı</em></td></tr>
@@ -98,7 +98,7 @@ The most frequent other feature values with which `VERB` and `Number[psor]` co-o
   <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td><em>olmasına</em></td></tr>
   <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>olmalarına</em></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td><em>olmasının</em></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_boun-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td><em>olPotmesi</em></td></tr>
+  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_boun-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td><em>olabilmesi</em></td></tr>
   <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td><em>olmam</em></td></tr>
   <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td></td><td><em>olman</em></td></tr>
   <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td><em>olmaması, olmayışı</em></td></tr>
@@ -110,20 +110,17 @@ The most frequent other feature values with which `VERB` and `Number[psor]` co-o
 
 ### `ADJ`
 
-1552 <tt><a href="tr_boun-pos-ADJ.html">ADJ</a></tt> tokens (15% of all `ADJ` tokens) have a non-empty value of `Number[psor]`.
+1477 <tt><a href="tr_boun-pos-ADJ.html">ADJ</a></tt> tokens (14% of all `ADJ` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `ADJ` and `Number[psor]` co-occurred: <tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (1542; 99%), <tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1442; 93%), <tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (1360; 88%).
+The most frequent other feature values with which `ADJ` and `Number[psor]` co-occurred: <tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (1474; 100%), <tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1374; 93%), <tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (1306; 88%).
 
 `ADJ` tokens may have the following values of `Number[psor]`:
 
 
 <table>
   <tr><th>Paradigm <i>ara</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_boun-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>arayacakları</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_boun-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>aradığında</em></td></tr>
   <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>arasından</em></td></tr>
   <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>arasını</em></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_boun-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>aranışını</em></td></tr>
   <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>arasına</em></td></tr>
   <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>aramıza</em></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>arasında, arasındaki</em></td></tr>
@@ -135,85 +132,36 @@ The most frequent other feature values with which `ADJ` and `Number[psor]` co-oc
   <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>arası</em></td></tr>
 </table>
 
-`Number[psor]` seems to be **lexical feature** of `ADJ`. 91% lemmas (250) occur only with one value of `Number[psor]`.
+`Number[psor]` seems to be **lexical feature** of `ADJ`. 91% lemmas (232) occur only with one value of `Number[psor]`.
 
 ### `PRON`
 
-755 <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> tokens (22% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
+410 <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> tokens (12% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (676; 90%), <tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (595; 79%), <tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (582; 77%).
+The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (378; 92%), <tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (307; 75%), <tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (286; 70%), <tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt> (210; 51%).
 
 `PRON` tokens may have the following values of `Number[psor]`:
 
 
 <table>
-  <tr><th>Paradigm <i>kendi</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>kendisinden, Kendinden</em></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td><em>Kendinizden</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td></td><td><em>kendimi</em></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>kendini, kendisini</em></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>kendimizi</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td><em>kendinizi</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>kendilerini</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td></td><td><em>kendime</em></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>kendisine, kendine, KENDİNE</em></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>kendimize</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td><em>kendinize</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>kendilerine, KENDİLERİNE</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>kendisinin, kendinin</em></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td><em>Kendinizin</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>kendilerinin</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td></td><td><em>kendimle</em></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>kendisiyle</em></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td><em>kendinizde</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td></td><td><em>kendim</em></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>kendi, kendisi, KENDİ</em></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>kendileri</em></td><td></td></tr>
+  <tr><th>Paradigm <i>biri</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
+  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>birinden</em></td></tr>
+  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>birisini</em></td></tr>
+  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>birine</em></td></tr>
+  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>birinin</em></td></tr>
+  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>Birimizin</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>birisiyle</em></td></tr>
+  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>biriyim</em></td></tr>
+  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>biri, birisi</em></td></tr>
 </table>
 
-`Number[psor]` seems to be **lexical feature** of `PRON`. 95% lemmas (89) occur only with one value of `Number[psor]`.
-
-### `ADV`
-
-252 <tt><a href="tr_boun-pos-ADV.html">ADV</a></tt> tokens (4% of all `ADV` tokens) have a non-empty value of `Number[psor]`.
-
-The most frequent other feature values with which `ADV` and `Number[psor]` co-occurred: <tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (244; 97%), <tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (207; 82%).
-
-`ADV` tokens may have the following values of `Number[psor]`:
-
-
-<table>
-  <tr><th>Paradigm <i>sonra</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>sonrasında</em></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>sonrası</em></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>sonraları</em></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td><em>sonraları</em></td><td></td></tr>
-</table>
-
-`Number[psor]` seems to be **lexical feature** of `ADV`. 98% lemmas (156) occur only with one value of `Number[psor]`.
-
-### `PROPN`
-
-142 <tt><a href="tr_boun-pos-PROPN.html">PROPN</a></tt> tokens (2% of all `PROPN` tokens) have a non-empty value of `Number[psor]`.
-
-The most frequent other feature values with which `PROPN` and `Number[psor]` co-occurred: <tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (142; 100%), <tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (142; 100%).
-
-`PROPN` tokens may have the following values of `Number[psor]`:
-
-
-<table>
-  <tr><th>Paradigm <i>Dünya</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>Dünya'nın</em></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>DÜNYAMIZ</em></td><td></td></tr>
-</table>
-
-`Number[psor]` seems to be **lexical feature** of `PROPN`. 99% lemmas (114) occur only with one value of `Number[psor]`.
+`Number[psor]` seems to be **lexical feature** of `PRON`. 96% lemmas (86) occur only with one value of `Number[psor]`.
 
 ### `NUM`
 
-141 <tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> tokens (5% of all `NUM` tokens) have a non-empty value of `Number[psor]`.
+133 <tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> tokens (5% of all `NUM` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `NUM` and `Number[psor]` co-occurred: <tt><a href="tr_boun-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (139; 99%), <tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (130; 92%), <tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (127; 90%), <tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt> (76; 54%).
+The most frequent other feature values with which `NUM` and `Number[psor]` co-occurred: <tt><a href="tr_boun-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (131; 98%), <tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (130; 98%), <tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (127; 95%), <tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt> (72; 54%).
 
 `NUM` tokens may have the following values of `Number[psor]`:
 
@@ -226,18 +174,27 @@ The most frequent other feature values with which `NUM` and `Number[psor]` co-oc
   <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>ikimiz, İkimiz</em></td><td></td></tr>
 </table>
 
-`Number[psor]` seems to be **lexical feature** of `NUM`. 97% lemmas (59) occur only with one value of `Number[psor]`.
+`Number[psor]` seems to be **lexical feature** of `NUM`. 96% lemmas (55) occur only with one value of `Number[psor]`.
+
+### `PROPN`
+
+126 <tt><a href="tr_boun-pos-PROPN.html">PROPN</a></tt> tokens (2% of all `PROPN` tokens) have a non-empty value of `Number[psor]`.
+
+The most frequent other feature values with which `PROPN` and `Number[psor]` co-occurred: <tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (126; 100%), <tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (126; 100%).
+
+`PROPN` tokens may have the following values of `Number[psor]`:
+
+
+`Number[psor]` seems to be **lexical feature** of `PROPN`. 100% lemmas (102) occur only with one value of `Number[psor]`.
 
 ### `ADP`
 
-30 <tt><a href="tr_boun-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `Number[psor]`.
-
-The most frequent other feature values with which `ADP` and `Number[psor]` co-occurred: <tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (26; 87%).
+27 <tt><a href="tr_boun-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `Number[psor]`.
 
 `ADP` tokens may have the following values of `Number[psor]`:
 
 
-`Number[psor]` seems to be **lexical feature** of `ADP`. 100% lemmas (25) occur only with one value of `Number[psor]`.
+`Number[psor]` seems to be **lexical feature** of `ADP`. 100% lemmas (23) occur only with one value of `Number[psor]`.
 
 ### `AUX`
 
@@ -254,24 +211,6 @@ The most frequent other feature values with which `AUX` and `Number[psor]` co-oc
   <tr><td><tt><tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td><em>sinizdir</em></td><td></td></tr>
 </table>
 
-### `DET`
-
-17 <tt><a href="tr_boun-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Number[psor]`.
-
-The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="tr_boun-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (17; 100%).
-
-`DET` tokens may have the following values of `Number[psor]`:
-
-
-`Number[psor]` seems to be **lexical feature** of `DET`. 100% lemmas (11) occur only with one value of `Number[psor]`.
-
-### `CCONJ`
-
-2 <tt><a href="tr_boun-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `Number[psor]`.
-
-`CCONJ` tokens may have the following values of `Number[psor]`:
-
-
 ### `PART`
 
 1 <tt><a href="tr_boun-pos-PART.html">PART</a></tt> tokens (100% of all `PART` tokens) have a non-empty value of `Number[psor]`.
@@ -279,15 +218,6 @@ The most frequent other feature values with which `DET` and `Number[psor]` co-oc
 The most frequent other feature values with which `PART` and `Number[psor]` co-occurred: <tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%), <tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (1; 100%).
 
 `PART` tokens may have the following values of `Number[psor]`:
-
-
-### `SCONJ`
-
-1 <tt><a href="tr_boun-pos-SCONJ.html">SCONJ</a></tt> tokens (14% of all `SCONJ` tokens) have a non-empty value of `Number[psor]`.
-
-The most frequent other feature values with which `SCONJ` and `Number[psor]` co-occurred: <tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%), <tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt> (1; 100%).
-
-`SCONJ` tokens may have the following values of `Number[psor]`:
 
 
 ### `X`
@@ -303,13 +233,13 @@ The most frequent other feature values with which `X` and `Number[psor]` co-occu
 
 The 10 most frequent relations where parent and child node agree in `Number[psor]`:
 <tt>VERB --[<tt><a href="tr_boun-dep-conj.html">conj</a></tt>]--> VERB</tt> (116; 62%),
-<tt>PRON --[<tt><a href="tr_boun-dep-compound-redup.html">compound:redup</a></tt>]--> PRON</tt> (6; 100%),
-<tt>ADV --[<tt><a href="tr_boun-dep-compound-redup.html">compound:redup</a></tt>]--> NOUN</tt> (3; 60%),
-<tt>ADV --[<tt><a href="tr_boun-dep-compound-redup.html">compound:redup</a></tt>]--> PRON</tt> (3; 100%),
 <tt>NUM --[<tt><a href="tr_boun-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3; 100%),
-<tt>PRON --[<tt><a href="tr_boun-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (2; 67%),
 <tt>PRON --[<tt><a href="tr_boun-dep-obj.html">obj</a></tt>]--> VERB</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="tr_boun-dep-acl.html">acl</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>ADJ --[<tt><a href="tr_boun-dep-iobj.html">iobj</a></tt>]--> ADJ</tt> (1; 100%),
-<tt>ADV --[<tt><a href="tr_boun-dep-nmod-poss.html">nmod:poss</a></tt>]--> NUM</tt> (1; 100%).
+<tt>NOUN --[<tt><a href="tr_boun-dep-appos.html">appos</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>NUM --[<tt><a href="tr_boun-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>NUM --[<tt><a href="tr_boun-dep-conj.html">conj</a></tt>]--> NUM</tt> (1; 100%),
+<tt>PROPN --[<tt><a href="tr_boun-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (1; 100%),
+<tt>VERB --[<tt><a href="tr_boun-dep-conj.html">conj</a></tt>]--> ADP</tt> (1; 100%).
 

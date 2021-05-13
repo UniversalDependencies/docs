@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of conj in UD_Old_Russian-TOROT'
+title:  'Statistics of conj in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Relations: `conj`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Relations: `conj`
 
 This relation is universal.
 
@@ -23,12 +23,12 @@ The following 68 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 7 conj	color:blue
 1	ѧ	я	PRON	Pp	Case=Nom|Gender=Fem|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	ref=
-2	дала	дати	VERB	V-	Aspect=Res|Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=
+2	дала	дати	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	0	root	_	ref=
 3	тобѣ	ты	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	iobj	_	ref=
 4	а	а	CCONJ	C-	_	2	cc	_	ref=
 5	нѣжѧтѣ	нѣжата	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	7	iobj	_	ref=
 6	не	не	ADV	Df	Polarity=Neg	7	advmod	_	ref=
-7	дала	дати	VERB	V-	Aspect=Res|Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	2	conj	_	ref=
+7	дала	дати	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	2	conj	_	ref=
 
 ~~~
 
@@ -44,7 +44,7 @@ The following 68 pairs of parts of speech are connected with `conj`: <tt><a href
 3	и	и	CCONJ	C-	_	2	cc	_	ref=6
 4	жены	жена	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	2	conj	_	ref=6
 5	всѣ	вьсь	DET	Px	Case=Nom|Gender=Masc|Number=Plur	4	det	_	ref=6
-6	черны	чьрныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	0	root	_	ref=6
+6	черны	чьрныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	0	root	_	ref=6
 
 ~~~
 

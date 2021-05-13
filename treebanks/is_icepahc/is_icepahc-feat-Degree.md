@@ -176,7 +176,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 
 `NOUN` tokens may have the following values of `Degree`:
 
-* `Cmp` (45; 4% of non-empty `Degree`): <em>minni, síður, sakir, forvitri, allstaðar, bráðar, b​y​g​g​i​n​g​a​r​k​ú​n​s​t​a​r​i​n​n​a​r, engi, reiðara, réttara</em>
+* `Cmp` (45; 4% of non-empty `Degree`): <em>minni, síður, sakir, forvitri, allstaðar, bráðar, byggingarkúnstarinnar, engi, reiðara, réttara</em>
 * `Pos` (1081; 94% of non-empty `Degree`): <em>dauða, heit, góða, búið, vísu, skyld, föstum, gott, synda, trúu</em>
 * `Sup` (19; 2% of non-empty `Degree`): <em>tigu, Arkistratus, Mannanna, dýra, fyrstu, föstu, gæfastur, hjartans, háttu, kunnustu</em>
 * `EMPTY` (144806): <em>menn, maður, konungur, manna, biskup, mönnum, móti, orð, dag, tíma</em>

@@ -46,7 +46,7 @@ The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 8	fgColor:white
 # visual-style 8 7 ccomp	color:blue
 1	나는	나	PRON	PRP+CM	Case=Nom|Person=1|Polite=Form	9	nsubj	_	MSeg=나-는|Translit=.na.neun|LTranslit=.na
-2	우즈와	우즈	PROPN	NNP+CM	Case=Advb|Polite=Form	4	advmod	_	MSeg=우즈-와|Translit=.u.jeu.wa|LTranslit=.u.jeu
+2	우즈와	우즈	PROPN	NNP+CM	Polite=Form	4	advmod	_	MSeg=우즈-와|Translit=.u.jeu.wa|LTranslit=.u.jeu
 3	이메일을	이메일	NOUN	NN+CM	Case=Acc|Polite=Form	4	obj	_	MSeg=이메일-을|Translit=.i.me.il.eul|LTranslit=.i.me.il
 4	주고	_	VERB	VV	Form=Compl	9	advcl	_	Translit=.ju.go|LTranslit=_
 5	받으면서	_	VERB	_	_	4	goeswith	_	Translit=.bad.eu.myeon.seo|LTranslit=_
@@ -69,7 +69,7 @@ The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 2	꾸준히	_	ADV	RB	_	3	advmod	_	Translit=.ggu.jun.hi|LTranslit=_
 3	불기	_	VERB	VV	VerbForm=Ger	4	ccomp	_	Translit=.bul.gi|LTranslit=_
 4	시작하면서	_	NOUN	NN	_	10	advcl	_	SpaceAfter=No|Translit=.si.jag.ha.myeon.seo|LTranslit=_
-5	지표에	지표	NOUN	NN+CM	Case=Advb|Polite=Form	6	advmod	_	MSeg=지표-에|Translit=.ji.pyo.e|LTranslit=.ji.pyo
+5	지표에	지표	NOUN	NN+CM	Polite=Form	6	advmod	_	MSeg=지표-에|Translit=.ji.pyo.e|LTranslit=.ji.pyo
 6	노출된	_	NOUN	NN	_	8	acl:relcl	_	SpaceAfter=No|Translit=.no.chul.doen|LTranslit=_
 7	미세	_	NOUN	NN	_	8	compound	_	SpaceAfter=No|Translit=.mi.se|LTranslit=_
 8	입자가	입자	NOUN	NN+CM	Case=Nom|Polite=Form	10	nsubj	_	MSeg=입자-가|Translit=.ib.ja.ga|LTranslit=.ib.ja

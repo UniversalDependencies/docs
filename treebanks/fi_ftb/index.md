@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Jussi Piitulainen, Hanna Nurmi.
 
 Repository: [UD_Finnish-FTB](https://github.com/UniversalDependencies/UD_Finnish-FTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_ftb27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_ftb28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY 4.0
 
@@ -915,7 +915,7 @@ training set, 1 into development set, and 1 into test set.
       </li>
       <li>Ko
         <ul>
-          <li>ADJ: Kuusivuotiaanako, L​u​o​n​n​o​n​s​u​o​j​e​l​u​l​l​i​s​i​s​t​a​k​o, Pitkäkö, Suuriko, Vanhako, metalliseltako, tällaistako</li>
+          <li>ADJ: Kuusivuotiaanako, Luonnonsuojelullisistako, Pitkäkö, Suuriko, Vanhako, metalliseltako, tällaistako</li>
           <li>ADV: paljonko, kauanko, Eilenkö, Taasko, Miksikö, Noinko, Näinkö, paljoko, sielläkö</li>
           <li>AUX-Fin: onko, eikö, oliko, onks, oletko, olisiko, pitäisikö, voiko, olenko, pitääkö</li>
           <li>DET: montako, Tämäkö, kumpaanko, tuonko</li>
@@ -1266,7 +1266,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 103 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: lyödä itsensä, tuntea itseni, ajatella itseäni, ajatella itseään, ampua itsensä, kunnioittaa itseään, piristää itseään, pitää itsensä, saattaa itsensä, tanssia itsensä, toteuttaa itseään, t​o​t​e​u​t​t​a​m​i​n​e​n​ ​i​t​s​e​n​s​ä, ahmia itsensä, ampua itseä, arvostaa itseäsi, asua itsensä, auttaa itseämme, elättää itsensä, e​s​i​i​n​t​u​n​k​e​m​i​n​e​n​ ​i​t​s​e​n​s​ä, esittäminen itsensä, filmata itseään, helliminen itsensä, hemmotella itseään, hillitä itsensä, hillitä itseäni, huvittaa itseä, hyväksyä itsensä, hyväksyä itsesi, häpäistä itseni, häpäistä itsenne, höynäyttää itseään, ilmaista itseään, juoda ihtiisäj, juoda itsensä, kasvattaa itseään, katsoa itseään, kehittäminen itsensä, kehittää itseäni, kehittää itseään, kiinnostaa itseäni, kirjoituttaa itsensä, kiusata itseänne, kokea itsensä, kokea itseään, koota itsensä, kuivatella itsensä, kuivatella itseään, kuvaaminen itsensä, kuvitella itseni, kuvitella itsensä</li>
+  <li>This corpus contains 103 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: lyödä itsensä, tuntea itseni, ajatella itseäni, ajatella itseään, ampua itsensä, kunnioittaa itseään, piristää itseään, pitää itsensä, saattaa itsensä, tanssia itsensä, toteuttaa itseään, toteuttaminen itsensä, ahmia itsensä, ampua itseä, arvostaa itseäsi, asua itsensä, auttaa itseämme, elättää itsensä, esiintunkeminen itsensä, esittäminen itsensä, filmata itseään, helliminen itsensä, hemmotella itseään, hillitä itsensä, hillitä itseäni, huvittaa itseä, hyväksyä itsensä, hyväksyä itsesi, häpäistä itseni, häpäistä itsenne, höynäyttää itseään, ilmaista itseään, juoda ihtiisäj, juoda itsensä, kasvattaa itseään, katsoa itseään, kehittäminen itsensä, kehittää itseäni, kehittää itseään, kiinnostaa itseäni, kirjoituttaa itsensä, kiusata itseänne, kokea itsensä, kokea itseään, koota itsensä, kuivatella itsensä, kuivatella itseään, kuvaaminen itsensä, kuvitella itseni, kuvitella itsensä</li>
     <ul>
       <li>Out of those, 3 lemmas occurred more than once, but never without a reflexive dependent. Examples: hillitä, häpäistä, piristää</li>
     </ul>

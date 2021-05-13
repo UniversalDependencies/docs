@@ -55,7 +55,7 @@ The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href=
 5	nama	nama	NOUN	NSD	Number=Sing	4	obj	_	MorphInd=^nama<n>_NSD$
 6	Venustiano	venustiano	PROPN	X--	_	4	iobj	_	MorphInd=^venustiano<x>_X--$
 7	Carranza	carranza	PROPN	X--	_	6	flat	_	SpaceAfter=No|MorphInd=^carranza<x>_X--$
-8	,	,	PUNCT	Z--	_	6	punct	_	MorphInd=^,<z>_Z--$
+8	,	,	PUNCT	Z--	_	10	punct	_	MorphInd=^,<z>_Z--$
 9	seorang	seorang	DET	B--	PronType=Ind	10	det	_	MorphInd=^seorang<b>_B--$
 10	presiden	presiden	NOUN	NSD	Number=Sing	6	appos	_	MorphInd=^presiden<n>_NSD$
 11	Meksiko	meksiko	PROPN	NSD	Number=Sing	10	flat	_	SpaceAfter=No|MorphInd=^meksiko<n>_NSD$

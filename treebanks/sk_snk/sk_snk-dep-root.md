@@ -11,7 +11,7 @@ This relation is universal.
 10604 nodes (10%) are attached to their parents as `root`.
 
 10604 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.75895888344021.
+Average distance between parent and child is 3.7611278762731.
 
 The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (8201; 77% instances), -<tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (1188; 11% instances), -<tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (597; 6% instances), -<tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (285; 3% instances), -<tt><a href="sk_snk-pos-PART.html">PART</a></tt> (75; 1% instances), -<tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (62; 1% instances), -<tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (58; 1% instances), -<tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (41; 0% instances), -<tt><a href="sk_snk-pos-X.html">X</a></tt> (34; 0% instances), -<tt><a href="sk_snk-pos-INTJ.html">INTJ</a></tt> (33; 0% instances), -<tt><a href="sk_snk-pos-DET.html">DET</a></tt> (24; 0% instances), -<tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), -<tt><a href="sk_snk-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), -<tt><a href="sk_snk-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 

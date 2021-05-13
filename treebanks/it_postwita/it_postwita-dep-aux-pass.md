@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="it_postwita-dep-aux.html">aux</a></tt>.
 
-151 nodes (0%) are attached to their parents as `aux:pass`.
+152 nodes (0%) are attached to their parents as `aux:pass`.
 
-151 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.11920529801324.
+152 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.11842105263158.
 
-The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (148; 98% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (149; 98% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -80,8 +80,8 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 9	fgColor:white
 # visual-style 9 4 aux:pass	color:blue
 1	@user	@user	SYM	SYM	_	9	vocative:mention	_	_
-2	si	sì	INTJ	I	_	9	discourse	_	_
-3	si	sì	INTJ	I	_	9	discourse	_	_
+2	si	sì	INTJ	I	_	9	discourse	_	CorrectForm=sì
+3	si	sì	INTJ	I	_	9	discourse	_	CorrectForm=sì
 4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	_	_
 5	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	cop	_	_
 6	tra	tra	ADP	E	_	9	case	_	_
@@ -99,7 +99,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 18	850	850	NUM	N	NumType=Card	19	nummod	_	_
 19	km	km	NOUN	S	Gender=Masc	17	obj	_	_
 20	e	e	CCONJ	CC	_	23	cc	_	_
-21	lui	egli	PRON	PE	Number=Sing|Person=3|PronType=Prs	23	nsubj	_	_
+21	lui	lui	PRON	PE	Number=Sing|Person=3|PronType=Prs	23	nsubj	_	_
 22	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	_
 23	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	conj	_	_
 24	che	che	SCONJ	CS	_	27	mark	_	_

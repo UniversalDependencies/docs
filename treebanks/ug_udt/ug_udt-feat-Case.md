@@ -9,26 +9,26 @@ udver: '2'
 This feature is universal.
 It occurs with 6 different values: `Abl`, `Acc`, `Dat`, `Gen`, `Loc`, `Nom`.
 
-14496 tokens (36%) have a non-empty value of `Case`.
-4770 types (40%) occur at least once with a non-empty value of `Case`.
-2315 lemmas (80%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (9996; 25% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (2213; 6% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (964; 2% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (922; 2% instances), <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (207; 1% instances), <tt><a href="ug_udt-pos-DET.html">DET</a></tt> (112; 0% instances), <tt><a href="ug_udt-pos-PROPN.html">PROPN</a></tt> (66; 0% instances), <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (16; 0% instances).
+14504 tokens (36%) have a non-empty value of `Case`.
+4778 types (40%) occur at least once with a non-empty value of `Case`.
+2316 lemmas (80%) occur at least once with a non-empty value of `Case`.
+The feature is used with 8 part-of-speech tags: <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (10002; 25% instances), <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (2214; 6% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (964; 2% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (923; 2% instances), <tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (207; 1% instances), <tt><a href="ug_udt-pos-DET.html">DET</a></tt> (112; 0% instances), <tt><a href="ug_udt-pos-PROPN.html">PROPN</a></tt> (66; 0% instances), <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> (16; 0% instances).
 
 ### `NOUN`
 
-9996 <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> tokens (70% of all `NOUN` tokens) have a non-empty value of `Case`.
+10002 <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> tokens (70% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ug_udt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (7686; 77%), <tt><a href="ug_udt-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (7686; 77%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ug_udt-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (7692; 77%), <tt><a href="ug_udt-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (7692; 77%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Abl` (414; 4% of non-empty `Case`): ئاندىن، يەردىن، ئەزەلدىن، بىردەمدىن، مەكتەپتىن، يىلدىن، ئارقىدىن، ئارىدىن، ئىشتىن، تەرەپتىن
+* `Abl` (422; 4% of non-empty `Case`): ئاندىن، يەردىن، ئەزەلدىن، بىردەمدىن، مەكتەپتىن، يىلدىن، ئارقىدىن، ئارىدىن، ئىشتىن، تەرەپتىن
 * `Acc` (918; 9% of non-empty `Case`): ئادەمنى، گەپنى، ئىشنى، پۇلنى، يەرنى، بېشىنى، قولىنى، بالىنى، باھارنى، قىزنى
 * `Dat` (735; 7% of non-empty `Case`): ئۆيگە، يەرگە، مەكتەپكە، سۇغا، ئىشقا، ئالدىغا، بارلىققا، بالىغا، ئارقىغا، ئوقۇشقا
 * `Gen` (633; 6% of non-empty `Case`): ئادەمنىڭ، بالىنىڭ، سۇنىڭ، يولنىڭ، بوۋاينىڭ، قۇياشنىڭ، مەشرەپنىڭ، پادىشاھنىڭ، ئىشنىڭ، قىزنىڭ
 * `Loc` (662; 7% of non-empty `Case`): چاغدا، ھالدا، يەردە، ئىچىدە، ئالدىدا، ئەمەلىيەتتە، ئەتىگەندە، مەكتەپتە، يىلدا، ھالەتتە
-* `Nom` (6634; 66% of non-empty `Case`): بالا، كېيىن، ئادەم، سۇ، نېمە، يەر، ئىش، ئوغۇل، خىل، كېرەك
-* `EMPTY` (4256): كىشىلەر، پاراخوت، ئاۋازى، ئەتىسى، گوركىي، كىشىلەرنىڭ، گالىلېي، ئۆيىگە، ئەلى، كەينىگە
+* `Nom` (6632; 66% of non-empty `Case`): بالا، كېيىن، ئادەم، سۇ، نېمە، يەر، ئىش، ئوغۇل، خىل، كېرەك
+* `EMPTY` (4250): كىشىلەر، پاراخوت، ئاۋازى، ئەتىسى، گوركىي، كىشىلەرنىڭ، گالىلېي، ئۆيىگە، ئەلى، كەينىگە
 
 <table>
   <tr><th>Paradigm <i>يەر</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Abl</tt></th></tr>
@@ -39,30 +39,30 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PRON`
 
-2213 <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> tokens (82% of all `PRON` tokens) have a non-empty value of `Case`.
+2214 <tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> tokens (82% of all `PRON` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ug_udt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1358; 61%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Abl` (21; 1% of non-empty `Case`): ئۇلاردىن، بىزدىن، سەندىن، مەندىن، ئۆزۈمدىن، ئۆزىدىن، سىزدىن، سىلىدىن
+* `Abl` (23; 1% of non-empty `Case`): ئۇلاردىن، بىزدىن، سەندىن، مەندىن، ئۆزۈمدىن، ھېلىقى، ئۆزىدىن، سىزدىن، سىلىدىن، مەن
 * `Acc` (145; 7% of non-empty `Case`): ئۇنى، ئۆزىنى، ئۇلارنى، بىزنى، ئۆزۈمنى، سىزنى، ئۆزۈڭنى، سىلىنى، سىلەرنى، سىنى
 * `Dat` (135; 6% of non-empty `Case`): ئۇنىڭغا، ماڭا، ئۇلارغا، ساڭا، سىلەرگە، ئۆزۈمگە
 * `Gen` (303; 14% of non-empty `Case`): ئۇنىڭ، ئۇلارنىڭ، مېنىڭ، بىزنىڭ، ئۆزىنىڭ، شۇنىڭ، بۇنىڭ، ئۆزۈمنىڭ، سىزنىڭ، بۇلارنىڭ
 * `Loc` (8; 0% of non-empty `Case`): ئۇنىڭدا، سەندە، مەندە، ئۆزىدە، ئۇلاردا
-* `Nom` (1601; 72% of non-empty `Case`): بۇ، ئۇ، مەن، ئەڭ، سەن، ئۇلار، شۇ، بىز، ئۆز، ئاشۇ
-* `EMPTY` (479): سېنىڭ، مېنى، ھېلىقى، بۇنى، بىزگە، ئۇنىڭدىن، مەنمۇ، ئۆزىگە، سىزگە، مۇشۇنداق
+* `Nom` (1600; 72% of non-empty `Case`): بۇ، ئۇ، مەن، ئەڭ، سەن، ئۇلار، شۇ، بىز، ئۆز، ئاشۇ
+* `EMPTY` (478): سېنىڭ، مېنى، ھېلىقى، بۇنى، بىزگە، ئۇنىڭدىن، مەنمۇ، ئۆزىگە، سىزگە، مۇشۇنداق
 
 <table>
   <tr><th>Paradigm <i>مەن</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Abl</tt></th></tr>
-  <tr><td><tt></tt></td><td>مەن</td><td>مىنى</td><td>ماڭا</td><td>مېنىڭ</td><td>مەندە</td><td>مەندىن</td></tr>
+  <tr><td><tt></tt></td><td>مەن</td><td>مىنى</td><td>ماڭا</td><td>مېنىڭ</td><td>مەندە</td><td>مەندىن, مەن</td></tr>
 </table>
 
 ### `VERB`
 
 964 <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> tokens (12% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="ug_udt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (964; 100%), <tt><a href="ug_udt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (964; 100%), <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (964; 100%), <tt><a href="ug_udt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (964; 100%), <tt><a href="ug_udt-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (657; 68%), <tt><a href="ug_udt-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (540; 56%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="ug_udt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (964; 100%), <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (964; 100%), <tt><a href="ug_udt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (964; 100%), <tt><a href="ug_udt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (963; 100%), <tt><a href="ug_udt-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (657; 68%), <tt><a href="ug_udt-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (540; 56%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -86,17 +86,17 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 ### `ADJ`
 
-922 <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> tokens (39% of all `ADJ` tokens) have a non-empty value of `Case`.
+923 <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> tokens (39% of all `ADJ` tokens) have a non-empty value of `Case`.
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Abl` (20; 2% of non-empty `Case`): ئۇزاقتىن، يېڭىدىن، يۇقىرىدىن، ئاكىلىقتىن، ئۇزۇندىن، بارلىقتىن، سوغۇقتىن، كىچىكىدىن، يېقىندىن، ساراڭدىن
+* `Abl` (21; 2% of non-empty `Case`): ئۇزاقتىن، يېڭىدىن، يۇقىرىدىن، ئاكىلىقتىن، ئۇزۇندىن، بارلىقتىن، سوغۇقتىن، سۆزۈمدىن، كىچىكىدىن، يېقىندىن
 * `Acc` (26; 3% of non-empty `Case`): باشقىلارنى، كېرەكلىكىنى، ئىسسىقنى، سادىقنى، قەدىمىمنى، كىيمىنى، كۈندۈزنى، نېگاتىپنى، چوڭىنى، ئالىيلىرىنى
 * `Dat` (29; 3% of non-empty `Case`): ئۇزاققا، باشقىلارغا، توشقانغا، سوغۇققا، ئىسسىققا، ئۇدۇلغا، توكقا، جانانىغا، سادىققا، قىممەتكە
 * `Gen` (27; 3% of non-empty `Case`): سادىقنىڭ، باشقىلارنىڭ، مەكتەپنىڭ، ئەركىننىڭ، بەزىلىرىنىڭ، تۇغقاننىڭ، يۇقىرىنىڭ، پالۋاننىڭ، تەتۈرىنىڭ، مۇزلۇقلارنىڭ
 * `Loc` (23; 2% of non-empty `Case`): بەزىدە، تەستە، ئاساسىدا، ئىسسىقتا، ئۇدۇلدىكى، توشقاندا، سوغۇقتا، قوشماقتا، ياقىسىدا، يۇقىرىدىكى
 * `Nom` (797; 86% of non-empty `Case`): ياخشى، بىللە، ئۇزاق، پەقەت، خۇددى، ئوخشاش، ئەركىن، قاتتىق، كۆپ، چىرايلىق
-* `EMPTY` (1420): يوق، چوڭ، كىچىك، ياخشى، قارا، پۈتۈن، باشقا، خۇش، ئىجادىي، قىزىل
+* `EMPTY` (1419): يوق، چوڭ، كىچىك، ياخشى، قارا، پۈتۈن، باشقا، خۇش، ئىجادىي، قىزىل
 
 <table>
   <tr><th>Paradigm <i>باشقا</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
@@ -160,7 +160,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 16 <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="ug_udt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="ug_udt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="ug_udt-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (11; 69%), <tt><a href="ug_udt-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (9; 56%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="ug_udt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="ug_udt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="ug_udt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="ug_udt-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (11; 69%), <tt><a href="ug_udt-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (9; 56%).
 
 `AUX` tokens may have the following values of `Case`:
 
@@ -180,14 +180,14 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="ug_udt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (207; 52%),
+<tt>NOUN --[<tt><a href="ug_udt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (208; 52%),
 <tt>NOUN --[<tt><a href="ug_udt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (79; 55%),
 <tt>NOUN --[<tt><a href="ug_udt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (22; 76%),
 <tt>NOUN --[<tt><a href="ug_udt-dep-nummod.html">nummod</a></tt>]--> NOUN</tt> (22; 63%),
 <tt>NOUN --[<tt><a href="ug_udt-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (21; 66%),
-<tt>NOUN --[<tt><a href="ug_udt-dep-compound.html">compound</a></tt>]--> NUM</tt> (19; 63%),
+<tt>NOUN --[<tt><a href="ug_udt-dep-compound.html">compound</a></tt>]--> NUM</tt> (19; 61%),
 <tt>ADJ --[<tt><a href="ug_udt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (16; 53%),
-<tt>ADJ --[<tt><a href="ug_udt-dep-advmod.html">advmod</a></tt>]--> NOUN</tt> (11; 58%),
+<tt>ADJ --[<tt><a href="ug_udt-dep-obl.html">obl</a></tt>]--> NOUN</tt> (14; 52%),
 <tt>NOUN --[<tt><a href="ug_udt-dep-advmod.html">advmod</a></tt>]--> PRON</tt> (11; 61%),
 <tt>NOUN --[<tt><a href="ug_udt-dep-det.html">det</a></tt>]--> NOUN</tt> (8; 53%).
 

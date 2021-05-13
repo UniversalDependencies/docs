@@ -1,18 +1,18 @@
 ---
 layout: base
-title:  'Statistics of Voice in UD_Old_Russian-RNC'
+title:  'Statistics of Voice in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Features: `Voice`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Features: `Voice`
 
 This feature is universal but the values `Mid` are language-specific.
 It occurs with 3 different values: `Act`, `Mid`, `Pass`.
 
-2745 tokens (9%) have a non-empty value of `Voice`.
+2744 tokens (9%) have a non-empty value of `Voice`.
 1592 types (21%) occur at least once with a non-empty value of `Voice`.
-792 lemmas (20%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 3 part-of-speech tags: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (2619; 9% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (125; 0% instances), <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+791 lemmas (20%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 2 part-of-speech tags: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (2619; 9% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (125; 0% instances).
 
 ### `VERB`
 
@@ -51,15 +51,6 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 * `Act` (125; 100% of non-empty `Voice`): <em>бы, есте, есть, было, буди, былъ, суть, будет, были, бысть</em>
 * `EMPTY` (128): <em>бы, б, было, есть, будутъ, были, еси, былъ, будет, бъ</em>
-
-### `SCONJ`
-
-1 <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Voice`.
-
-`SCONJ` tokens may have the following values of `Voice`:
-
-* `Act` (1; 100% of non-empty `Voice`): <em>будет</em>
-* `EMPTY` (269): <em>что, чтобъ, яко, ино, как, буде, чтоб, чтобы, какъ, якоже</em>
 
 ## Relations with Agreement in `Voice`
 

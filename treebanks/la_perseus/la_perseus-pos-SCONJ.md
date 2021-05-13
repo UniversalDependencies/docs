@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-Perseus: POS Tags: `SCONJ`
 
 There are 36 `SCONJ` lemmas (1%), 41 `SCONJ` types (0%) and 724 `SCONJ` tokens (2%).
-Out of 12 observed tags, the rank of `SCONJ` is: 7 in number of lemmas, 7 in number of types and 9 in number of tokens.
+Out of 13 observed tags, the rank of `SCONJ` is: 7 in number of lemmas, 7 in number of types and 9 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>ut, si, cum, ne, quod, dum, nisi, enim, ubi, quia</em>
 

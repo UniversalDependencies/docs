@@ -129,7 +129,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 1746 <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> tokens (90% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=EMPTY</tt> (1427; 82%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1340; 77%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1005; 58%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="hy_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (1427; 82%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1340; 77%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1005; 58%).
 
 `PRON` tokens may have the following values of `Number`:
 
@@ -153,7 +153,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 688 <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> tokens (36% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Gen</tt> (683; 99%), <tt><a href="hy_armtdp-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (683; 99%), <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=EMPTY</tt> (658; 96%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (388; 56%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (373; 54%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Gen</tt> (683; 99%), <tt><a href="hy_armtdp-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (683; 99%), <tt><a href="hy_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (658; 96%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (388; 56%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (373; 54%).
 
 `DET` tokens may have the following values of `Number`:
 

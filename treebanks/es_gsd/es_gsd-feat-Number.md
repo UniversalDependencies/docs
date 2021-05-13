@@ -217,7 +217,7 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 
 `SYM` tokens may have the following values of `Number`:
 
-* `Plur` (22; 17% of non-empty `Number`): <em>$, km, m, #, &, h​t​t​p​:​/​/​r​e​d​s​i​s​m​i​c​a​.​u​p​r​m​.​e​d​u​/​s​p​a​n​i​s​h​/​i​n​f​o​r​m​a​c​i​o​n​/​t​e​r​r​1​9​1​8​.​p​h​p, h​t​t​p​:​/​/​w​w​w​.​r​u​m​b​o​.​e​s​/​d​i​s​n​e​y​/, www.dgt.es</em>
+* `Plur` (22; 17% of non-empty `Number`): <em>$, km, m, #, &, http://redsismica.uprm.edu/spanish/informacion/terr1918.php, http://www.rumbo.es/disney/, www.dgt.es</em>
 * `Sing` (107; 83% of non-empty `Number`): <em>², h, $, &, º, #, extremo.com, ª, €, +</em>
 * `EMPTY` (1523): <em>%, ², km, $, º, °, a, €, /, ª</em>
 

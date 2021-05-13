@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Latin-LLCT: Relations: `dislocated:csubj`
 
-This relation is a language-specific subtype of .
-There are also 9 other language-specific subtypes of `dislocated`: <tt><a href="la_llct-dep-dislocated-acl.html">dislocated:acl</a></tt>, <tt><a href="la_llct-dep-dislocated-advcl.html">dislocated:advcl</a></tt>, <tt><a href="la_llct-dep-dislocated-advmod.html">dislocated:advmod</a></tt>, <tt><a href="la_llct-dep-dislocated-ccomp.html">dislocated:ccomp</a></tt>, <tt><a href="la_llct-dep-dislocated-conj.html">dislocated:conj</a></tt>, <tt><a href="la_llct-dep-dislocated-nmod.html">dislocated:nmod</a></tt>, <tt><a href="la_llct-dep-dislocated-nsubj.html">dislocated:nsubj</a></tt>, <tt><a href="la_llct-dep-dislocated-obj.html">dislocated:obj</a></tt>, <tt><a href="la_llct-dep-dislocated-obl.html">dislocated:obl</a></tt>.
+This relation is a language-specific subtype of <tt><a href="la_llct-dep-dislocated.html">dislocated</a></tt>.
+There are also 2 other language-specific subtypes of `dislocated`: <tt><a href="la_llct-dep-dislocated-nsubj.html">dislocated:nsubj</a></tt>, <tt><a href="la_llct-dep-dislocated-obj.html">dislocated:obj</a></tt>.
 
 1 nodes (0%) are attached to their parents as `dislocated:csubj`.
 
@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `dislocated:csubj`: 
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 56 dislocated:csubj	color:blue
-1	contenebatur	contineo	VERB	v|v|3|s|i|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Pass	0	root	_	_
+1	contenebatur	contineo	VERB	v|v|3|s|i|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 2	qualiter	qualiter	SCONJ	d|d|-|-|-|-|-|-|-|-	_	12	mark	_	_
 3	ipse	ipse	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 4	Racchisi	Ratchis	PROPN	Propn|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
@@ -31,7 +31,7 @@ The following 1 pairs of parts of speech are connected with `dislocated:csubj`: 
 6	,	,	PUNCT	Punc	_	4	punct	_	_
 7	pro	pro	ADP	r|r|-|-|-|-|-|-|-|-	_	10	case	_	_
 8	anime	anima	NOUN	n|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
-9	sue	suus	DET	a|a|3|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	8	det	_	_
+9	sue	suus	DET	a|a|3|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	8	det	_	_
 10	remedium	remedium	NOUN	n|n|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	12	obl	_	SpaceAfter=No
 11	,	,	PUNCT	Punc	_	10	punct	_	_
 12	offeruerat	offero	VERB	v|v|3|s|l|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	1	csubj:pass	_	_
@@ -43,7 +43,7 @@ The following 1 pairs of parts of speech are connected with `dislocated:csubj`: 
 18	[--]	missing^token	PUNCT	Punc	_	17	punct	_	_
 19	Marie	Maria	PROPN	Propn|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
 20	portione	portio	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
-21	sua	suus	DET	a|a|3|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	20	det	_	_
+21	sua	suus	DET	a|a|3|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	20	det	_	_
 22	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	23	case	_	_
 23	res	res	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	20	nmod	_	_
 24	illa	ille	DET	p|p|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|PronType=Dem	23	det	_	_
@@ -52,7 +52,7 @@ The following 1 pairs of parts of speech are connected with `dislocated:csubj`: 
 27	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	28	case	_	_
 28	iura	ius	NOUN	n|n|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur	26	obl	_	_
 29	parentorum	parens	NOUN	n|n|-|p|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Plur	28	nmod	_	_
-30	suorum	suus	DET	a|a|3|p|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	29	det	_	SpaceAfter=No
+30	suorum	suus	DET	a|a|3|p|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	29	det	_	SpaceAfter=No
 31	,	,	PUNCT	Punc	_	32	punct	_	_
 32	omnia	omnis	DET	a|a|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	56	obl	_	_
 33	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	36	cc	_	_
@@ -74,7 +74,7 @@ The following 1 pairs of parts of speech are connected with `dislocated:csubj`: 
 49	vel	uel	CCONJ	c|c|-|-|-|-|-|-|-|-	_	50	cc	_	_
 50	incultum	incultus	ADJ	a|a|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	36	conj	_	SpaceAfter=No
 51	,	,	PUNCT	Punc	_	32	punct	_	_
-52	suam	suus	DET	a|a|3|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	53	det	_	_
+52	suam	suus	DET	a|a|3|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	53	det	_	_
 53	portionem	portio	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	56	obj	_	_
 54	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	55	case	_	_
 55	integrum	integer	ADJ	a|a|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	56	obl	_	_

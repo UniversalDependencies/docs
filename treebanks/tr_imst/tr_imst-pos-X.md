@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Turkish-IMST: POS Tags: `X`
 
 There are 13 `X` lemmas (0%), 13 `X` types (0%) and 23 `X` tokens (0%).
-Out of 14 observed tags, the rank of `X` is: 12 in number of lemmas, 14 in number of types and 14 in number of tokens.
+Out of 14 observed tags, the rank of `X` is: 13 in number of lemmas, 14 in number of types and 14 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>pırıl, tıklım, fıkır, gürül, pıtır, takır, abuk, apar, haşır, pörçük</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 2.819906).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 2.821527).
 
 The 1st highest number of forms (1) was observed with the lemma “abuk”: <em>Abuk</em>.
 

@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Hindi-HDTB: POS Tags: `PUNCT`
 
-There are 24 `PUNCT` lemmas (0%), 19 `PUNCT` types (0%) and 23455 `PUNCT` tokens (7%).
-Out of 16 observed tags, the rank of `PUNCT` is: 13 in number of lemmas, 14 in number of types and 6 in number of tokens.
+There are 19 `PUNCT` lemmas (0%), 19 `PUNCT` types (0%) and 23455 `PUNCT` tokens (7%).
+Out of 16 observed tags, the rank of `PUNCT` is: 14 in number of lemmas, 14 in number of types and 6 in number of tokens.
 
-The 10 most frequent `PUNCT` lemmas: ।, COMMA, -, ., SINGLE_QUOTE, (, ), ?, 1, 2
+The 10 most frequent `PUNCT` lemmas: ।, ,, -, ., ', (, ), -JOIN, ?, '1
 
 The 10 most frequent `PUNCT` types:  ।, ,, -, ., ', (, ), -JOIN, ?, '1
 
-The 10 most frequent ambiguous lemmas: 1 (<tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> 30, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> 3), 2 (<tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> 23, <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> 4, <tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 1), तक (<tt><a href="hi_hdtb-pos-ADP.html">ADP</a></tt> 830, <tt><a href="hi_hdtb-pos-PART.html">PART</a></tt> 3, <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> 1), है. (<tt><a href="hi_hdtb-pos-AUX.html">AUX</a></tt> 1, <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> 1), १ (<tt><a href="hi_hdtb-pos-PROPN.html">PROPN</a></tt> 21, <tt><a href="hi_hdtb-pos-NUM.html">NUM</a></tt> 7, <tt><a href="hi_hdtb-pos-PUNCT.html">PUNCT</a></tt> 1)
+The 10 most frequent ambiguous lemmas: 
 
 The 10 most frequent ambiguous types:  
 
@@ -21,13 +21,13 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 0.791667 (the average of all parts of speech is 1.203116).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.203447).
 
-The 1st highest number of forms (4) was observed with the lemma “।”: !, -, ?, ।.
+The 1st highest number of forms (1) was observed with the lemma “!”: !.
 
-The 2nd highest number of forms (3) was observed with the lemma “-”: -, -JOIN, ?.
+The 2nd highest number of forms (1) was observed with the lemma “"”: ".
 
-The 3rd highest number of forms (2) was observed with the lemma “.”: ., ।.
+The 3rd highest number of forms (1) was observed with the lemma “'”: '.
 
 `PUNCT` occurs with 5 features: <tt><a href="hi_hdtb-feat-Case.html">Case</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-feat-Gender.html">Gender</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-feat-Mood.html">Mood</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-feat-Number.html">Number</a></tt> (1; 0% instances), <tt><a href="hi_hdtb-feat-VerbForm.html">VerbForm</a></tt> (1; 0% instances)
 

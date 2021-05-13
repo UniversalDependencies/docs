@@ -24,14 +24,14 @@ The following 2 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0 10 root	color:blue
 1	Ha'e	ha'e	CCONJ	coordconn	_	10	cc	_	and
 2	ore	ore	PRON	pro	Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	1.PL.EXCL
-3	roju	ju	VERB	vi:a	Clusivity[subj]=Ex|Mood=Ind|Person[subj]=1|Subcat=Int|VerbForm=Fin	10	advcl	_	A1.PL.EXCL-come
+3	roju	ju	VERB	vi:a	Clusivity[subj]=Ex|Mood=Ind|Person[subj]=1|Subcat=Intr|VerbForm=Fin	10	advcl	_	A1.PL.EXCL-come
 4	ramo'i	ramo	SCONJ	subordconn	_	3	mark	_	when-=DIM
 5	ronguare	ronguare	SCONJ	nmlzer	_	3	mark	_	NMLZ.PAST
 6	ngo	ngo	PART	illocprt	_	3	dep:mod	_	EPIS
 7	ko'ape	ko'ape	ADV	dem	_	3	advmod	_	here
 8	,	,	PUNCT	punct	_	3	punct	_	_
 9	ka'aguy	ka'aguy	NOUN	n	_	10	nsubj	_	forest
-10	heta	eta	VERB	inact	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	B3-a.lot
+10	heta	eta	VERB	inact	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	0	root	_	B3-a.lot
 11	.	.	PUNCT	punct	_	10	punct	_	_
 
 ~~~

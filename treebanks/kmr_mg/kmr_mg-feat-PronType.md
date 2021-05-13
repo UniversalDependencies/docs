@@ -31,9 +31,9 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 <table>
   <tr><th>Paradigm <i>ev</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th><th><tt>Ind</tt></th></tr>
+  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>vê, ve</em></td><td><em>ve, vê</em></td></tr>
   <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt></tt></td><td></td><td><em>ev</em></td><td></td></tr>
   <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="kmr_mg-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>Ev</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Obl</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>vê, ve</em></td><td><em>ve, vê</em></td></tr>
 </table>
 
 ### `NOUN`
@@ -50,9 +50,9 @@ The most frequent other feature values with which `NOUN` and `PronType` co-occur
 
 <table>
   <tr><th>Paradigm <i>sal</i></th><th><tt>Dem</tt></th><th><tt>Ind</tt></th></tr>
+  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>salekê</em></td></tr>
+  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>salan</em></td><td></td></tr>
   <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Con</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>saline</em></td></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Obl</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>salekê</em></td></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Obl</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>salan</em></td><td></td></tr>
 </table>
 
 ### `DET`
@@ -70,11 +70,11 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 <table>
   <tr><th>Paradigm <i>ew</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>
+  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>wî</em></td></tr>
+  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kmr_mg-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>wî</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>wan</em></td></tr>
+  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>wê, _</em></td></tr>
   <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt></tt></td><td></td><td><em>ew</em></td></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Obl</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>wî</em></td></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Obl</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kmr_mg-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>wî</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Obl</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>wan</em></td></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Obl</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="kmr_mg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>wê, _</em></td></tr>
 </table>
 
 `PronType` seems to be **lexical feature** of `DET`. 95% lemmas (18) occur only with one value of `PronType`.

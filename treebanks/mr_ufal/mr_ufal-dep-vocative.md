@@ -24,14 +24,14 @@ The following 9 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 6 2 vocative	color:blue
 1	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
 2	बाबा	बाबा	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	vocative	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	6	punct	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
 4	आईने	आई	NOUN	_	Case=Erg|Gender=Fem|Number=Sing	6	nsubj	_	_
 5	घरी	घरी	ADV	_	_	6	obl	_	_
 6	बोलावले	बोलावणे	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 7	आहे	असणे	AUX	_	Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
 9	"	"	PUNCT	_	_	6	punct	_	_
-10	ती	तो	PRON	_	Case=Nom|Distance=Dist|Gender=Fem|Number=Sing|Person=3	11	nsubj	_	_
+10	ती	तो	PRON	_	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|Person=3	11	nsubj	_	_
 11	म्हणाली	म्हणणे	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|VerbForm=Fin	6	parataxis	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
 
@@ -45,8 +45,8 @@ The following 9 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 4	fgColor:white
 # visual-style 4 1 vocative	color:blue
 1	हां	हो	INTJ	_	_	4	vocative	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	4	punct	_	_
-3	हे	हा	PRON	_	Distance=Prox|Gender=Neut|Number=Sing|Person=3	4	obj	_	_
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	हे	हा	PRON	_	Deixis=Prox|Gender=Neut|Number=Sing|Person=3	4	obj	_	_
 4	बघा	बघणे	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
 5	घोडेस्वार	घोडेस्वार	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	dislocated	_	SpaceAfter=No
 6	!	!	PUNCT	_	_	4	punct	_	_

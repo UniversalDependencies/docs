@@ -48,7 +48,7 @@ The following 23 pairs of parts of speech are connected with `advmod`: <tt><a hr
 2	ⲇⲉ	ⲇⲉ	PART	PTC	_	5	advmod	_	_
 3	ⲧⲉⲛⲟⲩ	ⲧⲉⲛⲟⲩ	ADV	ADV	_	5	advmod	_	_
 4	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	Orig=ⲧⲉⲧⲛ̇
-5	ⲫⲟⲣⲉⲓ	ⲫⲟⲣⲉⲓ	VERB	V	VerbForm=Fin	0	root	_	_
+5	ⲫⲟⲣⲉⲓ	ⲫⲟⲣⲉⲓ	VERB	V	Foreign=Yes|VerbForm=Fin	0	root	_	OrigLang=grc
 6	ⲛ	ⲛ	ADP	PREP	_	8	case	_	Orig=ⲛ̇
 7	ϩⲉⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	8	det	_	Entity=(object|Orig=ϩⲛ̇
 8	ϣⲧⲏⲛ	ϣⲧⲏⲛ	NOUN	N	_	5	obj	_	Orig=ϣ̇ⲧⲏⲛ
@@ -82,7 +82,7 @@ The following 23 pairs of parts of speech are connected with `advmod`: <tt><a hr
 14	ⲙⲟⲣ	ⲙⲟⲩⲣ	VERB	V	VerbForm=Inf	12	xcomp	_	_
 15	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
 16	ϩⲛ	ϩⲛ	ADP	PREP	_	17	case	_	_
-17	ϩⲁⲗⲩⲥⲓⲥ	ϩⲁⲗⲩⲥⲓⲥ	NOUN	N	_	14	obl	_	Entity=(object)
+17	ϩⲁⲗⲩⲥⲓⲥ	ϩⲁⲗⲩⲥⲓⲥ	NOUN	N	Foreign=Yes	14	obl	_	Entity=(object)|OrigLang=grc
 18	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	_	17	advmod	_	_
 
 ~~~

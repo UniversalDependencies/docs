@@ -30,7 +30,7 @@ The following 55 pairs of parts of speech are connected with `conj`: <tt><a href
 6	dvesto	dvesto	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	Dep=8|Rel=Atr
 7	petdeset	petdeset	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	Dep=8|Rel=Atr
 8	milijonov	milijon	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	3	conj	_	SpaceAfter=No|Dep=3|Rel=Coord
-9	.	.	PUNCT	Z	_	1	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+9	.	.	PUNCT	Z	_	1	punct	_	Dep=0|Rel=Root
 
 ~~~
 
@@ -52,7 +52,7 @@ The following 55 pairs of parts of speech are connected with `conj`: <tt><a href
 9	prižigam	prižigati	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	conj	_	Dep=0|Rel=Root
 10	pipico	pipica	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	Dep=9|Rel=Obj
 11	miru	mir	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No|Dep=10|Rel=Atr
-12	!	!	PUNCT	Z	_	7	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+12	!	!	PUNCT	Z	_	7	punct	_	Dep=0|Rel=Root
 
 ~~~
 

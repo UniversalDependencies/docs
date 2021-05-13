@@ -24,7 +24,7 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 3	fgColor:white
 # visual-style 3 2 det	color:blue
 1	Որ	որ	SCONJ	_	_	7	mark	_	Translit=Or|LTranslit=or
-2	մյուս	մյուս	DET	_	Distance=Dist|PronType=Dem	3	det	_	Translit=myows|LTranslit=myows
+2	մյուս	մյուս	DET	_	Deixis=Remt|PronType=Dem	3	det	_	Translit=myows|LTranslit=myows
 3	ռաունդին	ռաունդ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	7	obl	_	Translit=ṙaowndin|LTranslit=ṙaownd
 4	էլ	էլ	ADV	_	_	3	advmod:emph	_	Translit=ēl|LTranslit=ēl
 5	խաղալու	խաղալ	VERB	_	Case=Dat|Definite=Ind|Number=Coll|Polarity=Pos|Subcat=Intr|VerbForm=Gdv|Voice=Mid	6	nmod:poss	_	Translit=xaġalow|LTranslit=xaġal
@@ -44,7 +44,7 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 1	Ու	ու	CCONJ	_	_	12	cc	_	Translit=OW|LTranslit=ow
 2	բարոյականության	բարոյականություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Coll	12	obl	_	Translit=baroyakanowt’yan|LTranslit=baroyakanowt’yown
 3	հետ	հետ	ADP	_	AdpType=Post	2	case	_	Translit=het|LTranslit=het
-4	էս	այս	DET	_	Distance=Prox|PronType=Dem|Style=Coll	5	det	_	Translit=ēs|LTranslit=ays
+4	էս	այս	DET	_	Deixis=Prox|PronType=Dem|Style=Coll	5	det	_	Translit=ēs|LTranslit=ays
 5	ամենը	ամենը	PRON	_	Case=Nom|PronType=Tot	12	nsubj	_	Translit=amenë|LTranslit=amenë|SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
 7	ոնց	ինչպես	SCONJ	_	Style=Coll	8	mark	_	Translit=onc’|LTranslit=inčpes

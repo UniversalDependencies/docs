@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.6 release.
 The following people have contributed to making this treebank part of UD: Hildur Jónsdóttir.
 
 Repository: [UD_Icelandic-PUD](https://github.com/UniversalDependencies/UD_Icelandic-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udis_pud27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udis_pud28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -86,7 +86,7 @@ The morphological and syntactic annotation were checked and corrected manually b
 </ul>
 
 <ul>
-<li>This corpus contains 147 types of words that contain both letters and punctuation. Examples: Suður-Ameríku, Q​i​n​g​-​k​e​i​s​a​r​a​v​e​l​d​i​s​i​n​s, B.C., Joliot-Curie, Norður-, Norður-Karólína, Nýju-Gíneu, Qing-tímanum, Sahara-eyðimörkinni, Sahel-svæðinu, Suður-Ítalíu, n't, 'Ya, 's, -hálfvita, 200-listanum, Abbotsford-svæðið, A​d​d​e​n​b​r​o​o​k​e​-​s​j​ú​k​r​a​h​ú​s​u​n​u​m, Aires-borg, Amarna-bréfanna, Austur-Afríka, Austur-Afríku, Austur-Melenesíubúar, B-29-véla, Bank-turninn, Bergeron-flokkunin, Bian-skurðinum, Boeing-vél, Buena-garðurinn, Chilia-kvíslarinnar, Curie-stofnunina, Davis-bikarinn, D​i​s​i​b​o​d​e​n​b​e​r​g​-​k​l​a​u​s​t​r​i​ð, Eibingen-klaustrið, E​n​d​u​r​a​n​c​e​-​l​e​i​ð​a​n​g​r​i​n​u​m, F1-miði, Facebook-færslur, Five-Year, Fontvielle-svæðinu, Francisco-búar, Gezira-eyju, Gordon-Levitt, Goryeo-stjórninni, Harley-Davidson, Haute-Garonne, Hudson-fljótinu, Humblebums-lagi, Income-sjóðirnir, KFC-móðurfélaginu, Kelta-</li>
+<li>This corpus contains 147 types of words that contain both letters and punctuation. Examples: Suður-Ameríku, Qing-keisaraveldisins, B.C., Joliot-Curie, Norður-, Norður-Karólína, Nýju-Gíneu, Qing-tímanum, Sahara-eyðimörkinni, Sahel-svæðinu, Suður-Ítalíu, n't, 'Ya, 's, -hálfvita, 200-listanum, Abbotsford-svæðið, Addenbrooke-sjúkrahúsunum, Aires-borg, Amarna-bréfanna, Austur-Afríka, Austur-Afríku, Austur-Melenesíubúar, B-29-véla, Bank-turninn, Bergeron-flokkunin, Bian-skurðinum, Boeing-vél, Buena-garðurinn, Chilia-kvíslarinnar, Curie-stofnunina, Davis-bikarinn, Disibodenberg-klaustrið, Eibingen-klaustrið, Endurance-leiðangrinum, F1-miði, Facebook-færslur, Five-Year, Fontvielle-svæðinu, Francisco-búar, Gezira-eyju, Gordon-Levitt, Goryeo-stjórninni, Harley-Davidson, Haute-Garonne, Hudson-fljótinu, Humblebums-lagi, Income-sjóðirnir, KFC-móðurfélaginu, Kelta-</li>
 </ul>
 
 <ul>
@@ -333,7 +333,7 @@ The morphological and syntactic annotation were checked and corrected manually b
       <li>NOUN: ára, fólks, sögunnar, aldar, fjölda, fyrirtækisins, manns, ríkisins, ríkisstjórnarinnar, borgarinnar</li>
       <li>NUM: tveggja, þriggja, einnar, þrjátíu, fimm, sjö, tuttugu, tíu, átta</li>
       <li>PRON: þess, hans, þeirra, hennar, okkar, þessa, annars, sín, síns, þessara</li>
-      <li>PROPN: Evrópu, Bandaríkjanna, Breta, Akkemenída, Frakka, Kínverja, Q​i​n​g​-​k​e​i​s​a​r​a​v​e​l​d​i​s​i​n​s, Tútmosar, Asíu, Egyptalands</li>
+      <li>PROPN: Evrópu, Bandaríkjanna, Breta, Akkemenída, Frakka, Kínverja, Qing-keisaraveldisins, Tútmosar, Asíu, Egyptalands</li>
       <li>VERB: vara, ákveða</li>
     </ul>
   </li>
@@ -370,7 +370,7 @@ The morphological and syntactic annotation were checked and corrected manually b
       <li>ADV: gríðarlega, meira</li>
       <li>NOUN: árið, áratugnum, svæðið, svæðinu, fyrirtækið, ríkisstjórnin, stríðinu, sögunnar, borginni, fyrirtækisins</li>
       <li>NUM: 9., 10., 19., 21., 28.</li>
-      <li>PROPN: A​d​d​e​n​b​r​o​o​k​e​-​s​j​ú​k​r​a​h​ú​s​u​n​u​m, Bandaríkjanna, Bandaríkjunum, Caplan, Fasteignastofnunin, Snowman, Vetrarháskóleikarnir</li>
+      <li>PROPN: Addenbrooke-sjúkrahúsunum, Bandaríkjanna, Bandaríkjunum, Caplan, Fasteignastofnunin, Snowman, Vetrarháskóleikarnir</li>
       <li>VERB: fullmótað</li>
     </ul>
   </li>

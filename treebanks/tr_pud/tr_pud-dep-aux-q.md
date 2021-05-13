@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `aux:q`: <tt><a href
 1	Dünyanın	dünya	NOUN	NN	Case=Gen|Number=Sing	3	nmod:poss	_	_
 2	en	en	ADV	RB	_	3	advmod	_	_
 3	iyisi	iyi	NOUN	NN	Number=Sing	7	acl	_	_
-4	olmaya	ol	AUX	VN	Aspect=Perf|Case=Dat|Mood=Ind|Tense=Pres|VerbForm=Ger	3	cop	_	_
+4	olmaya	ol	AUX	VN	Aspect=Perf|Case=Dat|Mood=Ind|Tense=Pres|VerbForm=Vnoun	3	cop	_	_
 5	ilişkin	ilişkin	ADP	IN	_	3	case	_	_
 6	kutsal	kutsal	ADJ	JJ	Number=Sing	7	amod	_	_
 7	hakları	hak	NOUN	NN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	9	nsubj	_	_

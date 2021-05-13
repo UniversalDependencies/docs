@@ -41,7 +41,7 @@ The following 8 pairs of parts of speech are connected with `advmod:emph`: <tt><
 # visual-style 8 4 advmod:emph	color:blue
 1	Bet	bet	CCONJ	CC	_	2	cc	_	En=but
 2	šiandien	šiandien	ADV	RB	Degree=Pos	3	advmod	_	En=today
-3	regime	regėti	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	En=see
+3	regime	regėti	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	En=see
 4	ir	ir	PART	UH	_	8	advmod:emph	_	En=even
 5	tautinių	tautinis	ADJ	JJL	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	6	amod	_	En=national
 6	šūkių	šūkis	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	En=slogan
@@ -74,7 +74,7 @@ The following 8 pairs of parts of speech are connected with `advmod:emph`: <tt><
 14	Graikija	Graikija	PROPN	NNP	Case=Nom|Gender=Fem|Number=Sing	12	conj	_	En=Greece
 15	dėl	dėl	ADP	UH	_	17	advmod	_	En=due_to
 16	to	tas	PRON	DT	Case=Gen|Gender=Masc|Number=Sing	15	fixed	_	En=that
-17	nežuvo	žūti	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Reflex=No|Tense=Past|VerbForm=Fin|Voice=Act	9	nmod	_	En=die_out|SpaceAfter=No
+17	nežuvo	žūti	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	9	nmod	_	En=die_out|SpaceAfter=No
 18	.	.	PUNCT	PUNCT	_	9	punct	_	En=.
 
 ~~~

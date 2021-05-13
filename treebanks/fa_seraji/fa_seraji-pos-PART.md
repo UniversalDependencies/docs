@@ -49,7 +49,13 @@ The 2nd highest number of forms (1) was observed with the lemma “رو”: رو
 
 Parents of `PART` nodes belong to 9 different parts of speech: <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (2203; 86% instances), <tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt> (325; 13% instances), <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt> (14; 1% instances), <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="fa_seraji-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="fa_seraji-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="fa_seraji-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fa_seraji-pos-X.html">X</a></tt> (1; 0% instances)
 
-2570 (100%) `PART` nodes are leaves.
+2547 (99%) `PART` nodes are leaves.
 
-The highest child degree of a `PART` node is 0.
+23 (1%) `PART` nodes have one child.
+
+The highest child degree of a `PART` node is 1.
+
+Children of `PART` nodes are attached using 1 different relations: <tt><a href="fa_seraji-dep-punct.html">punct</a></tt> (23; 100% instances)
+
+Children of `PART` nodes belong to 1 different parts of speech: <tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (23; 100% instances)
 

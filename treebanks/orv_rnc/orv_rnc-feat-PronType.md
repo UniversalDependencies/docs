@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of PronType in UD_Old_Russian-RNC'
+title:  'Statistics of PronType in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Features: `PronType`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Features: `PronType`
 
 This feature is universal.
 It occurs with 7 different values: `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
@@ -34,7 +34,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 <table>
   <tr><th>Paradigm <i>что</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Neg</tt></th><th><tt>Ind</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td><em>что</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>что</em></td><td><em>что</em></td><td><em>что, што</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>что</em></td><td><em>что</em></td><td><em>что</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>чему, чому</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>чево</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>чѣмъ</em></td><td></td></tr>
@@ -42,7 +42,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_rnc-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>что, што, чьто</em></td><td><em>что</em></td><td></td><td><em>что</em></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `PRON`. 94% lemmas (47) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 92% lemmas (46) occur only with one value of `PronType`.
 
 ### `DET`
 

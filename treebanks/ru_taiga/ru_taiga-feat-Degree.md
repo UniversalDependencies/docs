@@ -9,77 +9,81 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-7779 tokens (12%) have a non-empty value of `Degree`.
-4275 types (22%) occur at least once with a non-empty value of `Degree`.
-2492 lemmas (21%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (4691; 7% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (3074; 5% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (14; 0% instances).
+27380 tokens (14%) have a non-empty value of `Degree`.
+8795 types (23%) occur at least once with a non-empty value of `Degree`.
+4024 lemmas (20%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (16282; 8% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> (11098; 6% instances).
 
 ### `ADJ`
 
-4691 <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> tokens (96% of all `ADJ` tokens) have a non-empty value of `Degree`.
+16282 <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> tokens (96% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4187; 89%), <tt><a href="ru_taiga-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (4177; 89%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3348; 71%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="ru_taiga-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (13920; 85%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12179; 75%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
-* `Cmp` (92; 2% of non-empty `Degree`): <em>лучше, сильнее, выше, светлее, старше, хуже, бледнее, ближе, больше, дороже</em>
-* `Pos` (4583; 98% of non-empty `Degree`): <em>сам, большой, нужно, другой, других, первый, сама, самый, первые, самое</em>
-* `Sup` (16; 0% of non-empty `Degree`): <em>лучших, Важнейший, Добрейшим, Древнейшие, Древнейший, ближайшее, важнейших, высшей, древнейших, крупнейшего</em>
-* `EMPTY` (199): <em>1, ст., 3, 2, 1926, 20, 2012, 4, 5, англ.</em>
+* `Cmp` (399; 2% of non-empty `Degree`): <em>лучше, хуже, дешевле, выше, ниже, больше, дороже, старше, ближе, вкуснее</em>
+* `Pos` (15624; 96% of non-empty `Degree`): <em>хороший, большой, нужно, отличный, неплохой, хорошая, хорошо, хорошее, вежливый, обычный</em>
+* `Sup` (259; 2% of non-empty `Degree`): <em>лучший, лучших, высшем, лучшая, лучшие, лучшего, лучшее, красивейший, лучшей, лучшем</em>
+* `EMPTY` (595): <em>супер, п., норм, 2, 1, 3, мини, 2020, ст., 12</em>
 
 <table>
-  <tr><th>Paradigm <i>крупный</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
-  <tr><td><tt>_</tt></td><td></td><td><em>крупнее, покрупнее</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>крупные</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>крупнейшего</em></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>крупных</em></td><td></td><td><em>крупнейших</em></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>крупными</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>крупная</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>крупные</em></td><td></td><td></td></tr>
+  <tr><th>Paradigm <i>старый</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
+  <tr><td><tt>_</tt></td><td></td><td><em>старее</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>старый</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>старые</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>старому</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>старой</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>старым</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>старого</em></td><td></td><td><em>старейшего</em></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>старой</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>старого</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>старых</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>старым</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>старой</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>старом</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>старый</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>старая</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ru_taiga-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>стар</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>старое</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>старые</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ru_taiga-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>стары</em></td><td></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 97% lemmas (1799) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 97% lemmas (3019) occur only with one value of `Degree`.
 
 ### `ADV`
 
-3074 <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> tokens (100% of all `ADV` tokens) have a non-empty value of `Degree`.
+11098 <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt> tokens (98% of all `ADV` tokens) have a non-empty value of `Degree`.
+
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="ru_taiga-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (7221; 65%).
 
 `ADV` tokens may have the following values of `Degree`:
 
-* `Cmp` (180; 6% of non-empty `Degree`): <em>больше, более, лучше, менее, дальше, меньше, раньше, быстрее, скорее, ниже</em>
-* `Pos` (2894; 94% of non-empty `Degree`): <em>так, как, уже, где, еще, там, очень, теперь, тут, потом</em>
-* `EMPTY` (11): <em>д., т., т</em>
+* `Cmp` (667; 6% of non-empty `Degree`): <em>больше, более, раньше, скорее, дальше, меньше, лучше, менее, далее, чаще</em>
+* `Pos` (10423; 94% of non-empty `Degree`): <em>очень, уже, так, много, как, еще, там, ещё, где, часто</em>
+* `Sup` (8; 0% of non-empty `Degree`): <em>наиболее, наименее</em>
+* `EMPTY` (173): <em>т., д., к., оч., тд, д, оч, к, Крч, в/м</em>
 
 <table>
-  <tr><th>Paradigm <i>часто</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>часто</em></td><td><em>чаще</em></td></tr>
+  <tr><th>Paradigm <i>много</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th></tr>
+  <tr><td><tt>_</tt></td><td><em>много</em></td><td><em>больше, побольше, поболя</em></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>Меног</em></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADV`. 97% lemmas (638) occur only with one value of `Degree`.
-
-### `NUM`
-
-14 <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> tokens (1% of all `NUM` tokens) have a non-empty value of `Degree`.
-
-The most frequent other feature values with which `NUM` and `Degree` co-occurred: <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="ru_taiga-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (11; 79%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (11; 79%).
-
-`NUM` tokens may have the following values of `Degree`:
-
-* `Cmp` (11; 79% of non-empty `Degree`): <em>больше, меньше</em>
-* `Pos` (3; 21% of non-empty `Degree`): <em>один, одна</em>
-* `EMPTY` (920): <em>2, 1, 3, несколько, 5, два, один, 4, много, 10</em>
+`Degree` seems to be **lexical feature** of `ADV`. 96% lemmas (880) occur only with one value of `Degree`.
 
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="ru_taiga-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (213; 85%),
-<tt>ADJ --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADJ</tt> (182; 99%),
-<tt>ADV --[<tt><a href="ru_taiga-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (113; 88%),
-<tt>ADV --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADV</tt> (55; 100%),
-<tt>ADJ --[<tt><a href="ru_taiga-dep-amod.html">amod</a></tt>]--> ADJ</tt> (54; 98%),
-<tt>ADJ --[<tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt>]--> ADV</tt> (17; 94%),
-<tt>ADV --[<tt><a href="ru_taiga-dep-fixed.html">fixed</a></tt>]--> ADV</tt> (10; 83%),
-<tt>ADJ --[<tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (7; 88%),
-<tt>ADV --[<tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt>]--> ADV</tt> (7; 100%),
-<tt>ADJ --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADV</tt> (5; 71%).
+<tt>ADJ --[<tt><a href="ru_taiga-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (1121; 86%),
+<tt>ADJ --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADJ</tt> (893; 97%),
+<tt>ADV --[<tt><a href="ru_taiga-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (421; 85%),
+<tt>ADV --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADV</tt> (161; 98%),
+<tt>ADJ --[<tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt>]--> ADV</tt> (45; 73%),
+<tt>ADV --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADJ</tt> (35; 88%),
+<tt>ADJ --[<tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (34; 85%),
+<tt>ADJ --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADV</tt> (30; 94%),
+<tt>ADJ --[<tt><a href="ru_taiga-dep-amod.html">amod</a></tt>]--> ADJ</tt> (29; 88%),
+<tt>ADJ --[<tt><a href="ru_taiga-dep-obl.html">obl</a></tt>]--> ADJ</tt> (21; 70%).
 

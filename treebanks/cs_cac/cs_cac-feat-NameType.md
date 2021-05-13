@@ -12,7 +12,7 @@ Some words have combined values of the feature; 12 combinations have been observ
 
 10592 tokens (2%) have a non-empty value of `NameType`.
 4886 types (8%) occur at least once with a non-empty value of `NameType`.
-3817 lemmas (13%) occur at least once with a non-empty value of `NameType`.
+3816 lemmas (13%) occur at least once with a non-empty value of `NameType`.
 The feature is used with 6 part-of-speech tags: <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (9814; 2% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (768; 0% instances), <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="cs_cac-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `PROPN`
@@ -86,7 +86,7 @@ The most frequent other feature values with which `ADJ` and `NameType` co-occurr
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Karlovo</em></td><td></td></tr>
 </table>
 
-`NameType` seems to be **lexical feature** of `ADJ`. 97% lemmas (347) occur only with one value of `NameType`.
+`NameType` seems to be **lexical feature** of `ADJ`. 97% lemmas (346) occur only with one value of `NameType`.
 
 ### `ADP`
 

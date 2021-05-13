@@ -25,11 +25,11 @@ The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href
 1	Би	би	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	тэрээндэ	тэрэ	PRON	_	Case=Dat|PronType=Dem	3	obj	_	_
 3	хэлээб	хэ	VERB	_	Mood=Des|Number=Sing|Person=1|Voice=Rcp	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	3	punct	_	_
+4	,	,	PUNCT	_	_	6	punct	_	_
 5	уһан	уһан	NOUN	_	Case=Nom	6	nsubj	_	_
-6	бусалжа	бусал	VERB	_	VerbForm=Coverb	3	ccomp	_	_
-7	байна	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	6	aux	_	_
-8	гэжэ	гэ	VERB	_	VerbForm=Coverb	6	discourse	_	SpaceAfter=No
+6	бусалжа	бусал	VERB	_	VerbForm=Inf	3	ccomp	_	_
+7	байна	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+8	гэжэ	гэ	VERB	_	VerbForm=Inf	6	discourse	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -45,9 +45,9 @@ The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href
 2	хэлэhэн	_	ADJ	_	_	3	amod	_	Morf=Unknown
 3	үгэнүүд	үгэ	NOUN	_	Case=Nom|Number=Plur	6	nsubj	_	_
 4	домог	_	NOUN	_	_	5	nsubj	_	Morf=Unknown
-5	боложо	боло	VERB	_	VerbForm=Coverb	6	ccomp	_	_
+5	боложо	боло	VERB	_	VerbForm=Inf	6	ccomp	_	_
 6	дэлгэрдэг	_	ADJ	_	_	0	root	_	Morf=Unknown
-7	байгаа	бай	VERB	_	_	6	cop	_	SpaceAfter=No
+7	байгаа	бай	AUX	_	_	6	cop	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~

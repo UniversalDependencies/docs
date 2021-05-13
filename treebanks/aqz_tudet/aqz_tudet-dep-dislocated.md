@@ -8,7 +8,7 @@ udver: '2'
 
 This relation is universal.
 
-1 nodes (1%) are attached to their parents as `dislocated`.
+1 nodes (0%) are attached to their parents as `dislocated`.
 
 1 instances of `dislocated` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
@@ -23,8 +23,8 @@ The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 3	fgColor:white
 # visual-style 3 2 dislocated	color:blue
 1	pero	pero	NOUN	n	_	2	nmod	2:nmod	_
-2	okwaj	okwaj	NOUN	n	Rel=Cont	3	dislocated	3:dislocated	_
-3	tokwaj	okwaj	NOUN	n	_	0	root	0:root	_
+2	okwaj	okwaj	NOUN	n	_	3	dislocated	3:dislocated	_
+3	tokwaj	okwaj	NOUN	n	Rel=Cont	0	root	0:root	_
 4	perek	perek	ADJ	adj	_	3	amod	3:amod	_
 
 ~~~

@@ -12,7 +12,7 @@ There are 2 language-specific subtypes of `aux`: <tt><a href="fr_spoken-dep-aux-
 507 nodes (1%) are attached to their parents as `aux`.
 
 504 instances of `aux` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.42603550295858.
+Average distance between parent and child is 1.42406311637081.
 
 The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (482; 95% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (10; 2% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (9; 2% instances), <tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fr_spoken-pos-X.html">X</a></tt>-<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
@@ -30,7 +30,7 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	fac	fac	NOUN	_	Gender=Fem|Number=Sing	10	dislocated	_	_
 7	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	10	nsubj	_	_
-8	m'	lui	PRON	_	_	10	obl:arg	_	_
+8	m'	lui	PRON	_	_	10	iobj	_	_
 9	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
 10	fait	faire	VERB	_	_	0	root	_	_
 11	beaucoup	beaucoup	ADV	_	_	10	obj	_	_
@@ -78,7 +78,7 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 7	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
 8	été	être	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	cop	_	_
 9	très	très	ADV	_	_	10	advmod	_	_
-10	bénéfique	bénéfique	ADJ	_	Number=Sing	4	ccomp:obj	_	_
+10	bénéfique	bénéfique	ADJ	_	Number=Sing	4	ccomp	_	_
 
 ~~~
 

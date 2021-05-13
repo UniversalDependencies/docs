@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of goeswith in UD_Old_Russian-RNC'
+title:  'Statistics of goeswith in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Relations: `goeswith`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Relations: `goeswith`
 
 This relation is universal.
 
@@ -34,7 +34,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 10	приказу	приказъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	Norm=приказу|SpaceAfter=Yes
 11	денщик	денщикъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Norm=денщик|SpaceAfter=Yes
 12	Купряшка	Купряшка	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	11	appos	_	Norm=Купряшка|SpaceAfter=Yes
-13	Корнеевъ	Корнеевъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	12	flat:name	_	Norm=Корнеевъ|SpaceAfter=No
+13	Корнеевъ	Корнеевъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	12	flat:name	_	Norm=Корнеевъ
 
 ~~~
 
@@ -121,7 +121,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 74	дми	дмити	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	67	conj	_	Norm=дми|_
 75	в	въ	ADP	_	_	76	case	_	Norm=в|_
 76	дуло	дуло	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	74	obl	_	Norm=дуло|SpaceAfter=No
-77	.	.	PUNCT	_	_	2	punct	_	Norm=.|SpaceAfter=No
+77	.	.	PUNCT	_	_	2	punct	_	Norm=.
 
 ~~~
 

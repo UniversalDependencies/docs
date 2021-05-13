@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 3	se	se	PRON	_	Person=3|PronType=Prs	4	expl:pass	_	_
 4	trouve	trouver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	à	à	ADP	_	_	6	case	_	_
-6	environ	environ	ADV	_	_	4	orphan	_	_
+6	environ	environ	ADV	_	_	4	obl:arg	_	_
 7	:	:	PUNCT	_	_	4	punct	_	_
 
 ~~~

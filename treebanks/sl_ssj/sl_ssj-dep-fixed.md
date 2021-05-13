@@ -31,7 +31,7 @@ The following 30 pairs of parts of speech are connected with `fixed`: <tt><a hre
 7	v	v	ADP	Sl	Case=Loc	9	case	_	Dep=9|Rel=Atr
 8	absolutnem	absoluten	ADJ	Agpmsl	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	Dep=9|Rel=Atr
 9	smislu	smisel	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No|Dep=6|Rel=Atr
-10	.	.	PUNCT	Z	_	3	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+10	.	.	PUNCT	Z	_	3	punct	_	Dep=0|Rel=Root
 
 ~~~
 

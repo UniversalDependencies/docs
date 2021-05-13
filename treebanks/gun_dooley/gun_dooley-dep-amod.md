@@ -27,7 +27,7 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 3	_	_	PART	illocprt	_	1	dep:mod	_	_
 4	_	_	NOUN	n	_	6	nsubj	_	_
 5	_	_	ADJ	inact	_	4	amod	_	_
-6	_	_	VERB	inact	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	_
+6	_	_	VERB	inact	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	0	root	_	_
 7	_	_	PRON	pro	Clusivity=In|Number=Plur|Person=1|PronType=Prs	6	obl	_	_
 8	_	_	SCONJ	rel	_	7	mark	_	_
 9	_	_	ADP	post	_	7	case	_	_
@@ -53,7 +53,7 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 9	_	_	VERB	vpos	Polarity=Neg|VerbForm=Post	8	compound:svc	_	_
 10	_	_	PART	illocprt	_	8	dep:mod	_	_
 11	_	_	PUNCT	punct	_	12	punct	_	_
-12	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	8	conj	_	_
+12	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	8	conj	_	_
 13	_	_	PART	focprt	_	12	dep:mod	_	_
 14	_	_	PUNCT	punct	_	8	punct	_	_
 
@@ -71,7 +71,7 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 3	_	_	PART	illocprt	_	1	dep:mod	_	_
 4	_	_	PROPN	nprop	_	6	nsubj	_	_
 5	_	_	ADJ	inact	_	4	amod	_	_
-6	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	_
+6	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	0	root	_	_
 7	_	_	VERB	vs	Mood=Ind|Person=3|VerbForm=Ser	6	compound:svc	_	_
 8	_	_	PUNCT	punct	_	6	punct	_	_
 

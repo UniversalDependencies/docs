@@ -37,16 +37,16 @@ The following 12 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 5 mark	color:blue
-1	Olyan	olyan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	0	root	_	_
+1	Olyan	olyan	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
 2	az	az	DET	_	Definite=Def|PronType=Art	3	det	_	_
-3	emlékezet	emlékezet	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	1	nsubj	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	1	punct	_	_
+3	emlékezet	emlékezet	NOUN	_	Case=Nom|Number=Sing	1	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	10	punct	_	_
 5	mint	mint	SCONJ	_	_	10	mark	_	_
 6	a	a	DET	_	Definite=Def|PronType=Art	8	det	_	_
-7	zsidó	zsidó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	8	amod:att	_	_
-8	sírokon	sír	NOUN	_	Case=Sup|Number=Plur|Number[psed]=None|Number[psor]=None|Person[psor]=None	10	nmod:obl	_	_
+7	zsidó	zsidó	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	8	amod:att	_	_
+8	sírokon	sír	NOUN	_	Case=Sup|Number=Plur	10	nmod:obl	_	_
 9	a	a	DET	_	Definite=Def|PronType=Art	10	det	_	_
-10	kődarab	kődarab	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	1	advcl	_	SpaceAfter=No
+10	kődarab	kődarab	NOUN	_	Case=Nom|Number=Sing	1	advcl	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
@@ -60,15 +60,15 @@ The following 12 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 5 4 mark	color:blue
 1	—	—	PUNCT	_	_	2	punct	_	_
 2	Igen	igen	INTJ	_	_	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	2	punct	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
 4	bár	bár	SCONJ	_	_	5	mark	_	_
-5	nehéz	nehéz	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	2	advcl	_	_
-6	egészséges	egészséges	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	7	amod:att	_	_
-7	arányt	arány	NOUN	_	Case=Acc|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	8	obj	_	_
+5	nehéz	nehéz	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	2	advcl	_	_
+6	egészséges	egészséges	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	7	amod:att	_	_
+7	arányt	arány	NOUN	_	Case=Acc|Number=Sing	8	obj	_	_
 8	találni	talál	VERB	_	VerbForm=Inf|Voice=Act	5	xcomp	_	_
 9	a	a	DET	_	Definite=Def|PronType=Art	11	det	_	_
-10	két	két	NUM	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|NumType=Card|Person[psor]=None	11	nummod	_	_
-11	műfaj	műfaj	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	8	obl	_	_
+10	két	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	11	nummod	_	_
+11	műfaj	műfaj	NOUN	_	Case=Nom|Number=Sing	8	obl	_	_
 12	között	között	ADP	_	_	11	case	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	2	punct	_	_
 

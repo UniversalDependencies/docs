@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 4	_	_	PART	discprt	_	3	dep:mod	_	_
 5	_	_	PART	illocprt	_	1	dep:mod	_	_
 6	_	_	NOUN	n	_	11	nsubj	_	_
-7	_	_	VERB	inact	Mood=Ind|Subcat=Int|VerbForm=Inf	6	acl	_	_
+7	_	_	VERB	inact	Mood=Ind|Subcat=Intr|VerbForm=Inf	6	acl	_	_
 8	_	_	SCONJ	rel	_	7	mark	_	_
 9	_	_	PRON	pro	Person=3|PronType=Prs	11	obl	_	_
 10	_	_	PART	focprt	_	9	dep:mod	_	_
@@ -42,7 +42,7 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 18	_	_	PRON	pro	Number=Sing|Person=1|PronType=Prs	21	nsubj	_	_
 19	_	_	PART	discprt	_	18	dep:mod	_	_
 20	_	_	ADV	dem	_	21	advmod	_	_
-21	_	_	VERB	vi:a	Mood=Ind|Person[subj]=1|Subcat=Int|VerbForm=Fin	11	parataxis:rep	_	_
+21	_	_	VERB	vi:a	Mood=Ind|Person[subj]=1|Subcat=Intr|VerbForm=Fin	11	parataxis:rep	_	_
 22	_	_	PART	aspprt	_	21	dep:mod	_	_
 23	_	_	VERB	vt	Mood=Ind|Person[subj]=1|Subcat=Tran|VerbForm=Fin	21	advcl	_	_
 24	_	_	SCONJ	subordconn	_	23	mark	_	_

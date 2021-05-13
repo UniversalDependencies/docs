@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>og</em> (<tt><a href="no_bokmaal-pos-
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.230769 (the average of all parts of speech is 1.381919).
+The form / lemma ratio of `CCONJ` is 1.230769 (the average of all parts of speech is 1.381903).
 
 The 1st highest number of forms (2) was observed with the lemma “eller”: <em>elle, eller</em>.
 
@@ -78,17 +78,17 @@ The 3rd highest number of forms (2) was observed with the lemma “og”: <em>og
 
 Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (4184; 39% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (3840; 36% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (1383; 13% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (909; 8% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (138; 1% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (95; 1% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (73; 1% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt> (68; 1% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (65; 1% instances), <tt><a href="no_bokmaal-pos-PART.html">PART</a></tt> (12; 0% instances), <tt><a href="no_bokmaal-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances),  (5; 0% instances), <tt><a href="no_bokmaal-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="no_bokmaal-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
-10746 (100%) `CCONJ` nodes are leaves.
+10737 (100%) `CCONJ` nodes are leaves.
 
-30 (0%) `CCONJ` nodes have one child.
+44 (0%) `CCONJ` nodes have one child.
 
-6 (0%) `CCONJ` nodes have two children.
+1 (0%) `CCONJ` nodes have two children.
 
 2 (0%) `CCONJ` nodes have three or more children.
 
 The highest child degree of a `CCONJ` node is 7.
 
-Children of `CCONJ` nodes are attached using 8 different relations: <tt><a href="no_bokmaal-dep-punct.html">punct</a></tt> (34; 65% instances), <tt><a href="no_bokmaal-dep-conj.html">conj</a></tt> (7; 13% instances), <tt><a href="no_bokmaal-dep-compound.html">compound</a></tt> (5; 10% instances), <tt><a href="no_bokmaal-dep-advmod.html">advmod</a></tt> (2; 4% instances), <tt><a href="no_bokmaal-dep-cop.html">cop</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-dep-expl.html">expl</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-dep-obl.html">obl</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-dep-parataxis.html">parataxis</a></tt> (1; 2% instances)
+Children of `CCONJ` nodes are attached using 7 different relations: <tt><a href="no_bokmaal-dep-punct.html">punct</a></tt> (43; 77% instances), <tt><a href="no_bokmaal-dep-conj.html">conj</a></tt> (7; 13% instances), <tt><a href="no_bokmaal-dep-advmod.html">advmod</a></tt> (2; 4% instances), <tt><a href="no_bokmaal-dep-cop.html">cop</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-dep-expl.html">expl</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-dep-obl.html">obl</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-dep-parataxis.html">parataxis</a></tt> (1; 2% instances)
 
-Children of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="no_bokmaal-pos-PUNCT.html">PUNCT</a></tt> (34; 65% instances), <tt><a href="no_bokmaal-pos-CCONJ.html">CCONJ</a></tt> (7; 13% instances), <tt><a href="no_bokmaal-pos-SYM.html">SYM</a></tt> (5; 10% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (1; 2% instances)
+Children of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="no_bokmaal-pos-PUNCT.html">PUNCT</a></tt> (43; 77% instances), <tt><a href="no_bokmaal-pos-CCONJ.html">CCONJ</a></tt> (7; 13% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (1; 2% instances)
 

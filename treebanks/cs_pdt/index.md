@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Daniel Zeman, Jan Hajič.
 
 Repository: [UD_Czech-PDT](https://github.com/UniversalDependencies/UD_Czech-PDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_pdt27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_pdt28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -111,7 +111,7 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
 </ul>
 
 <ul>
-<li>This corpus contains 216384 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 216358 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -260,6 +260,7 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
       <li>NUM: dva, jeden, oba, jednoho</li>
       <li>PRON: kdo, nikdo, někdo, on, jenž, oni, koho, komu, někoho, nikoho</li>
       <li>PROPN: USA, Jiří, J, Jan, Václav, Petr, Pavel, Josef, M, Vladimír</li>
+      <li>SYM: §, §§</li>
       <li>VERB-Conv: počínaje, nemluvě, konče, Mluvě, soudě, maje, nehledě, nepočítaje, nevyjímaje, žena</li>
       <li>VERB-Part: řekl, měl, uvedl, měli, mohl, prohlásil, stal, mohli, byl, dodal</li>
     </ul>
@@ -323,6 +324,7 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
       <li>NUM: jeden</li>
       <li>PRON: co, čím, čem, čeho, jež, čemu, veškeré, veškerý, ony, WAS</li>
       <li>PROPN: USA, York, Zlín, Liberec, FNM, SSSR, Hradec, Izrael, Londýn, Yorku</li>
+      <li>SYM: §, §§</li>
       <li>VERB-Part: měly, mohly, byly, začaly, objevily, dosáhly, získaly, neměly, staly, vedly</li>
     </ul>
   </li>
@@ -357,6 +359,7 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
       <li>NUM: dva, tři, dvě, dvou, čtyři, obou, oba, tří, pěti, obě</li>
       <li>PRON: nás, je, nám, nich, jim, nichž, my, jich, nimi, ně</li>
       <li>PROPN: LN, USA, Čechách, Němci, Čech, Češi, ČEZ, Němců, Vítkovice, Budějovice</li>
+      <li>SYM: §§</li>
       <li>VERB-Conv: chtějíce, dodávajíce, mluvíce, následujíce, poukazujíce, používajíce, poznajíce, provázejíce, přikládajíce, semnuvše</li>
       <li>VERB-Fin: mají, jsou, mohou, máme, můžeme, nemají, chtějí, musíme, musí, patří</li>
       <li>VERB-Part: měli, měly, mohli, mohly, chtěli, začali, museli, dostali, byly, získali</li>
@@ -592,6 +595,7 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
       <li>DET: každý, každé, každého, každém, každá, každou, každému, každým, každých</li>
       <li>NOUN: roku, korun, let, roce, strany, procent, společnosti, době, případě, firmy</li>
       <li>PROPN: Praha, ČR, Praze, LN, ODS, USA, J, Jiří, Jan, OSN</li>
+      <li>SYM: §, §§</li>
       <li>VERB-Conv: počínaje, konče, Mluvě, soudě, říkajíc, maje, Jsouc, žena, PRA, Syče</li>
       <li>VERB-Fin: má, je, může, mají, musí, jde, jsou, lze, mohou, říká</li>
       <li>VERB-Inf: mít, získat, stát, být, hrát, říci, platit, muset, dělat, dostat</li>
@@ -1438,7 +1442,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (129)</li>
+      <li>VERB-Fin--NOUN (123)</li>
       <li>VERB-Fin--NOUN-Acc (10)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(na) (4)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(přes) (1)</li>
@@ -1493,15 +1497,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN (1)</li>
       <li>VERB-Conv--NOUN-Acc (17)</li>
       <li>VERB-Conv--PRON-Acc (2)</li>
-      <li>VERB-Fin--NOUN (89)</li>
-      <li>VERB-Fin--NOUN-Acc (14709)</li>
+      <li>VERB-Fin--NOUN (88)</li>
+      <li>VERB-Fin--NOUN-Acc (14708)</li>
       <li>VERB-Fin--NOUN-Gen (677)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(na) (3)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(o) (6)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(za) (2)</li>
       <li>VERB-Fin--NOUN-Nom (43)</li>
       <li>VERB-Fin--NOUN-Voc (1)</li>
-      <li>VERB-Fin--PRON-Acc (2003)</li>
+      <li>VERB-Fin--PRON-Acc (2002)</li>
       <li>VERB-Fin--PRON-Gen (19)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN (31)</li>
@@ -1511,16 +1515,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Gen-ADP(o) (1)</li>
       <li>VERB-Inf--NOUN-Nom (19)</li>
       <li>VERB-Inf--PRON (1)</li>
-      <li>VERB-Inf--PRON-Acc (1438)</li>
+      <li>VERB-Inf--PRON-Acc (1437)</li>
       <li>VERB-Inf--PRON-Gen (2)</li>
       <li>VERB-Inf--PRON-Nom (6)</li>
       <li>VERB-Part--NOUN (61)</li>
-      <li>VERB-Part--NOUN-Acc (13382)</li>
+      <li>VERB-Part--NOUN-Acc (13381)</li>
       <li>VERB-Part--NOUN-Gen (733)</li>
       <li>VERB-Part--NOUN-Gen-ADP(na) (1)</li>
       <li>VERB-Part--NOUN-Nom (22)</li>
       <li>VERB-Part--PRON (2)</li>
-      <li>VERB-Part--PRON-Acc (1869)</li>
+      <li>VERB-Part--PRON-Acc (1867)</li>
       <li>VERB-Part--PRON-Gen (17)</li>
     </ul>
   </li>
@@ -1530,23 +1534,23 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB-Fin--NOUN (3)</li>
-      <li>VERB-Fin--NOUN-Acc (149)</li>
+      <li>VERB-Fin--NOUN-Acc (150)</li>
       <li>VERB-Fin--NOUN-Gen (12)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(na) (1)</li>
       <li>VERB-Fin--NOUN-Nom (4)</li>
-      <li>VERB-Fin--PRON-Acc (79)</li>
+      <li>VERB-Fin--PRON-Acc (80)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN (2)</li>
       <li>VERB-Inf--NOUN-Acc (61)</li>
       <li>VERB-Inf--NOUN-Gen (3)</li>
       <li>VERB-Inf--NOUN-Nom (2)</li>
-      <li>VERB-Inf--PRON-Acc (28)</li>
+      <li>VERB-Inf--PRON-Acc (29)</li>
       <li>VERB-Part--NOUN (4)</li>
-      <li>VERB-Part--NOUN-Acc (200)</li>
+      <li>VERB-Part--NOUN-Acc (201)</li>
       <li>VERB-Part--NOUN-Gen (9)</li>
       <li>VERB-Part--NOUN-Gen-ADP(za) (1)</li>
       <li>VERB-Part--NOUN-Nom (9)</li>
-      <li>VERB-Part--PRON-Acc (113)</li>
+      <li>VERB-Part--PRON-Acc (115)</li>
       <li>VERB-Part--PRON-Gen (1)</li>
     </ul>
   </li>

@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of mark in UD_Old_Russian-RNC'
+title:  'Statistics of mark in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Relations: `mark`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Relations: `mark`
 
 This relation is universal.
 

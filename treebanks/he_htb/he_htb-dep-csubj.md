@@ -22,7 +22,7 @@ The following 2 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 csubj	color:blue
-1	יש	יש	VERB	VERB	HebExistential=True	0	root	_	_
+1	יש	יש	VERB	VERB	HebExistential=Yes	0	root	_	_
 2	ה	ה	SCONJ	SCONJ	_	3	mark	_	_
 3	מקבלים	קיבל	VERB	VERB	Gender=Masc|HebBinyan=PIEL|Number=Plur|Person=1,2,3|VerbForm=Part|Voice=Act	1	csubj	_	_
 4	תקציב	תקציב	NOUN	NOUN	Gender=Masc|Number=Sing	3	obj	_	_

@@ -69,7 +69,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 6	ἀγαθὸς	ἀγαθός	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
 7	ὁ	ὁ	DET	l-s---mn-	Case=Nom|Gender=Masc|Number=Sing	8	det	_	_
 8	Βρασίδας	Βρασίδας	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	SpaceAfter=No
-9	,	,	PUNCT	u--------	_	1	punct	_	_
+9	,	,	PUNCT	u--------	_	10	punct	_	_
 10	πολλοὺς	πολύς	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	12	nmod	_	_
 11	δὲ	δέ	CCONJ	c--------	_	1	cc	_	_
 12	ἄνδρας	ἀνήρ	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	14	obj	_	_

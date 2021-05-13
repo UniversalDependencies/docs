@@ -7,14 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Breton-KEB: Relations: `advmod`
 
 This relation is universal.
-There are 1 language-specific subtypes of `advmod`: <tt><a href="br_keb-dep-advmod-neg.html">advmod:neg</a></tt>.
 
-534 nodes (5%) are attached to their parents as `advmod`.
+535 nodes (5%) are attached to their parents as `advmod`.
 
-318 instances of `advmod` (60%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.12921348314607.
+318 instances of `advmod` (59%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.12897196261682.
 
-The following 12 pairs of parts of speech are connected with `advmod`: <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (331; 62% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (117; 22% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (46; 9% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (15; 3% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt>-<tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="br_keb-pos-ADV.html">ADV</a></tt>-<tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt>-<tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="br_keb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-ADP.html">ADP</a></tt>-<tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `advmod`: <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (331; 62% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (118; 22% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (46; 9% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (15; 3% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt>-<tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="br_keb-pos-ADV.html">ADV</a></tt>-<tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt>-<tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="br_keb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-ADP.html">ADP</a></tt>-<tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="br_keb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

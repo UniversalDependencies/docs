@@ -27,7 +27,7 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 3	ансяк	ансяк	ADV	Adv	_	1	reparandum	_	GTtags=Exclusive
 4	монень	мон	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Long	5	obl	_	GTtags=Pers,Sg1,Dat,Long
 5	маряви	марявомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	GTtags=IV,Ind,Prs,ScSg3
-6	весемеде	весемеде	ADV	Adv	Degree=Sup	7	advmod:deg	_	GTtags=Superl
+6	весемеде	весемеде	ADV	Adv	Degree=Sup	7	advmod:comp	_	GTtags=Superl
 7	мазыйкс	мазый	ADJ	A	Case=Tra|Definite=Ind|Number=Plur,Sing	5	xcomp	_	GTtags=SP,Tra,Indef
 8	макось	мако	NOUN	N	Case=Nom|Definite=Def|Number=Sing	5	nsubj	_	GTtags=Sg,Nom,Def|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	5	punct	_	_

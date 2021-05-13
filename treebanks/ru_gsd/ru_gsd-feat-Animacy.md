@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Anim`, `Inan`.
 
-38365 tokens (39%) have a non-empty value of `Animacy`.
-19388 types (65%) occur at least once with a non-empty value of `Animacy`.
-12195 lemmas (65%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 10 part-of-speech tags: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (26754; 27% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (6585; 7% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (2040; 2% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (1014; 1% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (939; 1% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (850; 1% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (178; 0% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+38363 tokens (39%) have a non-empty value of `Animacy`.
+19387 types (65%) occur at least once with a non-empty value of `Animacy`.
+12194 lemmas (65%) occur at least once with a non-empty value of `Animacy`.
+The feature is used with 8 part-of-speech tags: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (26754; 27% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (6585; 7% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (2040; 2% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (1014; 1% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (939; 1% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (850; 1% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (178; 0% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
@@ -218,26 +218,6 @@ The most frequent other feature values with which `AUX` and `Animacy` co-occurre
   <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>бывшим</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>бывшие</em></td></tr>
 </table>
-
-### `PART`
-
-1 <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Animacy`.
-
-The most frequent other feature values with which `PART` and `Animacy` co-occurred: <tt><a href="ru_gsd-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`PART` tokens may have the following values of `Animacy`:
-
-* `Inan` (1; 100% of non-empty `Animacy`): <em>Де</em>
-* `EMPTY` (1086): <em>не, же, и, также, только, лишь, даже, де, это, ни</em>
-
-### `PUNCT`
-
-1 <tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> tokens (0% of all `PUNCT` tokens) have a non-empty value of `Animacy`.
-
-`PUNCT` tokens may have the following values of `Animacy`:
-
-* `Anim` (1; 100% of non-empty `Animacy`): <em>-</em>
-* `EMPTY` (18124): <em>,, ., --, ), (, ``, &#39;&#39;, -, :, ;</em>
 
 ## Relations with Agreement in `Animacy`
 

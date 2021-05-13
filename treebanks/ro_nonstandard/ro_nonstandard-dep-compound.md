@@ -27,7 +27,7 @@ The following 30 pairs of parts of speech are connected with `compound`: <tt><a 
 3	mult	mult	ADV	Rg	_	4	advmod	_	ref=MARC3.12
 4	certa	certa	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	ref=MARC3.12
 5	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	ref=MARC3.12
-6	ei	el	PRON	Pp3mpa--------s	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Strong	4	nmod:pmod	_	ref=MARC3.12|SpaceAfter=No
+6	ei	el	PRON	Pp3mpa--------s	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Strong	4	obl:pmod	_	ref=MARC3.12|SpaceAfter=No
 7	,	,	PUNCT	COMMA	_	12	punct	_	ref=MARC3.12
 8	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	12	mark	_	ref=MARC3.12
 9	să	să	PART	Qs	PartType=Sub	8	fixed	_	ref=MARC3.12
@@ -37,7 +37,7 @@ The following 30 pairs of parts of speech are connected with `compound`: <tt><a 
 13	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	ref=MARC3.12
 14	arătare	arătare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	12	compound	_	ref=MARC3.12
 15	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	16	case	_	ref=MARC3.12
-16	El	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	12	nmod:pmod	_	ref=MARC3.12|SpaceAfter=No
+16	El	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	12	obl:pmod	_	ref=MARC3.12|SpaceAfter=No
 17	.	.	PUNCT	PERIOD	_	4	punct	_	ref=MARC3.12
 
 ~~~

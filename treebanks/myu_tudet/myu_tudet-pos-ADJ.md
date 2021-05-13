@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Munduruku-TuDeT: POS Tags: `ADJ`
 
-There are 2 `ADJ` lemmas (2%), 2 `ADJ` types (2%) and 2 `ADJ` tokens (1%).
-Out of 13 observed tags, the rank of `ADJ` is: 8 in number of lemmas, 8 in number of types and 8 in number of tokens.
+There are 2 `ADJ` lemmas (1%), 2 `ADJ` types (1%) and 2 `ADJ` tokens (0%).
+Out of 16 observed tags, the rank of `ADJ` is: 11 in number of lemmas, 11 in number of types and 12 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>ba'orere, beg̃beg̃</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.000000 (the average of all parts of speech is 1.095745).
+The form / lemma ratio of `ADJ` is 1.000000 (the average of all parts of speech is 1.140845).
 
 The 1st highest number of forms (1) was observed with the lemma “ba'orere”: <em>iba'orere</em>.
 

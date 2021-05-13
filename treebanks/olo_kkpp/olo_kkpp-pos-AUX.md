@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Livvi-KKPP: POS Tags: `AUX`
 
 There are 6 `AUX` lemmas (1%), 20 `AUX` types (3%) and 70 `AUX` tokens (4%).
-Out of 14 observed tags, the rank of `AUX` is: 11 in number of lemmas, 7 in number of types and 9 in number of tokens.
+Out of 14 observed tags, the rank of `AUX` is: 10 in number of lemmas, 7 in number of types and 9 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>olla, ei, voija, pidiä, rotie, suaha</em>
 
@@ -55,9 +55,9 @@ Examples: <em>oli</em>
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 5 different relations: <tt><a href="olo_kkpp-dep-aux.html">aux</a></tt> (33; 47% instances), <tt><a href="olo_kkpp-dep-cop.html">cop</a></tt> (31; 44% instances), <tt><a href="olo_kkpp-dep-cop-own.html">cop:own</a></tt> (3; 4% instances), <tt><a href="olo_kkpp-dep-aux-neg.html">aux:neg</a></tt> (2; 3% instances), <tt><a href="olo_kkpp-dep-root.html">root</a></tt> (1; 1% instances)
+`AUX` nodes are attached to their parents using 4 different relations: <tt><a href="olo_kkpp-dep-aux.html">aux</a></tt> (35; 50% instances), <tt><a href="olo_kkpp-dep-cop.html">cop</a></tt> (31; 44% instances), <tt><a href="olo_kkpp-dep-cop-own.html">cop:own</a></tt> (3; 4% instances), <tt><a href="olo_kkpp-dep-root.html">root</a></tt> (1; 1% instances)
 
-Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (32; 46% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (19; 27% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (11; 16% instances), <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (3; 4% instances), <tt><a href="olo_kkpp-pos-X.html">X</a></tt> (2; 3% instances), <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-pos-NUM.html">NUM</a></tt> (1; 1% instances),  (1; 1% instances)
+Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (33; 47% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (19; 27% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (11; 16% instances), <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (3; 4% instances), <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-pos-NUM.html">NUM</a></tt> (1; 1% instances),  (1; 1% instances), <tt><a href="olo_kkpp-pos-X.html">X</a></tt> (1; 1% instances)
 
 67 (96%) `AUX` nodes are leaves.
 

@@ -23,25 +23,25 @@ The 10 most frequent ambiguous types:  <em>sí</em> (<tt><a href="es_ancora-pos-
   * <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> 57: <em>Son moléculas capaces de transferencia electrónica por <b>sí</b> mismas .</em>
   * <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> 9: <em>El Unicaja , eso <b>sí</b> , confirmó en el Palau su enorme potencial .</em>
   * <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> 5: <em>- - Creo que <b>sí</b> .</em>
-  * <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> 2: <em>Tele 5 decidió , al cabo de dos días , cancelar este debate por " criterios de programación " , y cambiar lo por otro enunciado menos comprometido : El sexo con amor , <b>sí</b> o no .</em>
+  * <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> 2: <em>Tele 5 decidió , a el cabo de dos días , cancelar este debate por " criterios de programación " , y cambiar lo por otro enunciado menos comprometido : El sexo con amor , <b>sí</b> o no .</em>
 * <em>Bueno</em>
   * <tt><a href="es_ancora-pos-INTJ.html">INTJ</a></tt> 10: <em>- - <b>Bueno</b> ...</em>
   * <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> 3: <em><b>Bueno</b> está .</em>
   * <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> 1: <em>" <b>Bueno</b> , siguen siendo tan conservadores como siempre , pero esta película les ha entrado bien y se han vuelto locos por ella " .</em>
-  * <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> 1: <em>El portavoz del PSOE , Bernardo <b>Bueno</b> , dijo que " la amenaza ya no es fantasma ni virtual , sino real , el Gobierno del PP ha fijado la libertad de descuentos en la venta de los precios de los libros " , medida que calificó de " error " , tras asegurar que " ha fracasado en otros países " , donde se han visto perjudicadas las pequeñas librerías y los propios consumidores porque , " al final , el precio no ha bajado " .</em>
+  * <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> 1: <em>El portavoz de el PSOE , Bernardo <b>Bueno</b> , dijo que " la amenaza ya no es fantasma ni virtual , sino real , el Gobierno de el PP ha fijado la libertad de descuentos en la venta de los precios de los libros " , medida que calificó de " error " , tras asegurar que " ha fracasado en otros países " , donde se han visto perjudicadas las pequeñas librerías y los propios consumidores porque , " a el final , el precio no ha bajado " .</em>
 * <em>Ja</em>
   * <tt><a href="es_ancora-pos-INTJ.html">INTJ</a></tt> 3: <em>- - <b>Ja</b> , <b>Ja</b> .</em>
-  * <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> 1: <em>La top model argentina Valeria Mazza , que contrajo matrimonio recientemente , es una de las invitadas especiales del programa <b>Ja</b> hi som! ( TV-3 , 17.35 ) , que presenta y dirige Alfons Arús .</em>
+  * <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> 1: <em>La top model argentina Valeria Mazza , que contrajo matrimonio recientemente , es una de las invitadas especiales de el programa <b>Ja</b> hi som! ( TV-3 , 17.35 ) , que presenta y dirige Alfons Arús .</em>
 * <em>ojo</em>
-  * <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> 11: <em>Le guiñó el <b>ojo</b> el hindú después de canturrear le el calypso más famoso de toda la Historia del Calypso .</em>
-  * <tt><a href="es_ancora-pos-INTJ.html">INTJ</a></tt> 1: <em>Yo le diría al empresario que la ha recibido que , ¡ <b>ojo</b> ! , puede que sea ETA y puede que no .</em>
+  * <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> 11: <em>Le guiñó el <b>ojo</b> el hindú después de canturrear le el calypso más famoso de toda la Historia de el Calypso .</em>
+  * <tt><a href="es_ancora-pos-INTJ.html">INTJ</a></tt> 1: <em>Yo le diría a el empresario que la ha recibido que , ¡ <b>ojo</b> ! , puede que sea ETA y puede que no .</em>
 * <em>qué</em>
   * <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> 122: <em>- Ya sé <b>qué</b> ocurre - explicó una de mis hijas - .</em>
   * <tt><a href="es_ancora-pos-DET.html">DET</a></tt> 46: <em>Ay , <b>qué</b> desagradable es todo esto .</em>
   * <tt><a href="es_ancora-pos-INTJ.html">INTJ</a></tt> 3: <em><b>qué</b> coño .</em>
-  * <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> 1: <em>En Baleares , Aznar recurre a una cita del Conde de Romanones - " joder , <b>qué</b> tropa " - para criticar la variedad de proyectos del PSOE .</em>
+  * <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> 1: <em>En Baleares , Aznar recurre a una cita de el Conde de Romanones - " joder , <b>qué</b> tropa " - para criticar la variedad de proyectos de el PSOE .</em>
 * <em>Dios</em>
-  * <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> 38: <em>Me obsesionaba la imagen del pobre Niño <b>Dios</b> rechazado .</em>
+  * <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> 38: <em>Me obsesionaba la imagen de el pobre Niño <b>Dios</b> rechazado .</em>
   * <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> 3: <em>El Ayuntamiento les ha invitado a fumar la pipa de la paz : el terreno de la - casita - , a cambio de otra parcela un poco más allá , para que puedan construir se un centro cultural como <b>Dios</b> manda .</em>
   * <tt><a href="es_ancora-pos-INTJ.html">INTJ</a></tt> 2: <em><b>Dios</b> mío .</em>
   * <tt><a href="es_ancora-pos-DET.html">DET</a></tt> 1: <em>Literatura lustral para las tristezas de todos los Medardos Fraile , conocidos o ignotos , que caminan hacia <b>Dios</b> sabe qué reinos de figurones .</em>
@@ -55,14 +55,14 @@ The 10 most frequent ambiguous types:  <em>sí</em> (<tt><a href="es_ancora-pos-
 * <em>gracias</em>
   * <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> 59: <em>lo poco que se hace es <b>gracias</b> a los francotiradores .</em>
   * <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> 1: <em>El euro ha conseguido , además , recuperar se tímidamente frente a la divisa norteamericana desde el pasado Lunes , <b>gracias</b> sobre todo a la caída de la bolsa estadounidense , y hoy se cotizaba a las 12.20 GMT en el mercado de divisas de Fráncfort a 0,9001 dólares .</em>
-  * <tt><a href="es_ancora-pos-INTJ.html">INTJ</a></tt> 1: <em>Los sensacionalistas fueron aún más categóricos : The Sun tituló su primera portada del 2002 con " El euro ha nacido y , <b>gracias</b> a Dios , el Reino Unido no forma parte de él " .</em>
+  * <tt><a href="es_ancora-pos-INTJ.html">INTJ</a></tt> 1: <em>Los sensacionalistas fueron aún más categóricos : The Sun tituló su primera portada de el 2002 con " El euro ha nacido y , <b>gracias</b> a Dios , el Reino Unido no forma parte de él " .</em>
 * <em>hombre</em>
   * <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> 128: <em>- No , <b>hombre</b> , no .</em>
   * <tt><a href="es_ancora-pos-INTJ.html">INTJ</a></tt> 1: <em>Ya está bien , <b>hombre</b> , coño , joder , cagonlaleche , es que no puede ser .</em>
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.502171).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.502240).
 
 The 1st highest number of forms (2) was observed with the lemma “señor”: <em>Señores, señor</em>.
 

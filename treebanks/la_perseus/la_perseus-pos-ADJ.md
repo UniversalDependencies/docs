@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-Perseus: POS Tags: `ADJ`
 
 There are 833 `ADJ` lemmas (17%), 1660 `ADJ` types (16%) and 2779 `ADJ` tokens (10%).
-Out of 12 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 4 in number of tokens.
+Out of 13 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 4 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>magnus, omnis, suus, meus, multus, publicus, alius, bonus, malus, tantus</em>
 

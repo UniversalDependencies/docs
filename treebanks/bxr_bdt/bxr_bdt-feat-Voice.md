@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 * `Cau` (14; 45% of non-empty `Voice`): <em>нэгэдүүлхэ, хандуулдаг, бадаруулһан, буулгуулдаг, дахуулаад, дурлуулһан, сайлуулжа, сухалдуулаа, татуулаа, ташуурдуулааб</em>
 * `Rcp` (17; 55% of non-empty `Voice`): <em>хэлээ, арсалааб, хэлээб, хэлээгүй, ажаллаа, биил, дүршэл, сошоолгоо, түүлөөбди, шадалаа</em>
-* `EMPTY` (1566): <em>гэжэ, байгаа, болоно, байна, бии, болоо, гээшэ, байһан, ажаһуудаг, болонхой</em>
+* `EMPTY` (1466): <em>гэжэ, бии, байгаа, гээшэ, ажаһуудаг, эхилээ, байна, ерээ, хэжэ, ябаа</em>
 
 `Voice` seems to be **lexical feature** of `VERB`. 100% lemmas (22) occur only with one value of `Voice`.
 

@@ -11,7 +11,7 @@ It occurs with 2 different values: `1`, `2`.
 
 818 tokens (6%) have a non-empty value of `Valency`.
 63 types (6%) occur at least once with a non-empty value of `Valency`.
-62 lemmas (6%) occur at least once with a non-empty value of `Valency`.
+60 lemmas (6%) occur at least once with a non-empty value of `Valency`.
 The feature is used with 2 part-of-speech tags: <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (448; 3% instances), <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> (370; 3% instances).
 
 ### `VERB`
@@ -28,7 +28,7 @@ The most frequent other feature values with which `VERB` and `Valency` co-occurr
 
 ### `AUX`
 
-370 <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> tokens (27% of all `AUX` tokens) have a non-empty value of `Valency`.
+370 <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> tokens (26% of all `AUX` tokens) have a non-empty value of `Valency`.
 
 The most frequent other feature values with which `AUX` and `Valency` co-occurred: <tt><a href="bm_crb-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (370; 100%), <tt><a href="bm_crb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (370; 100%).
 

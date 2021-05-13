@@ -29,10 +29,8 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 1 <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="koi_uh-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (1; 100%).
-
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (1; 100% of non-empty `Degree`): <em>дыржык</em>
-* `EMPTY` (82): <em>кыдз, ни, кӧр, сэсся, сё, талун, чожа, эшӧ, дасöтiсь, кынымкӧ</em>
+* `EMPTY` (81): <em>кыдз, ни, кӧр, сэсся, сё, талун, чожа, эшӧ, дасöтiсь, кынымкӧ</em>
 

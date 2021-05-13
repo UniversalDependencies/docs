@@ -36,7 +36,7 @@ The following 1 pairs of parts of speech are connected with `compound:a`: <tt><a
 12	,	,	PUNCT	_	_	14	punct	_	_
 13	dan	dan	CCONJ	_	_	14	cc	_	_
 14	pemukulan	pukul	NOUN	_	Number=Sing	9	conj	_	_
-15	nya	nya	DET	_	_	9	nmod:poss	_	_
+15	nya	nya	DET	_	PronType=Dem	9	nmod:poss	_	_
 16	luar	luar	NOUN	_	Number=Sing	17	compound:a	_	_
 17	biasa	biasa	ADJ	_	_	0	root	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	17	punct	_	_

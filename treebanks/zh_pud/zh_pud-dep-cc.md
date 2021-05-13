@@ -42,7 +42,7 @@ The following 7 pairs of parts of speech are connected with `cc`: <tt><a href="z
 18	大致	_	NOUN	NN	_	20	advmod	_	SpaceAfter=No|Translit=dàzhì
 19	上	_	ADP	IN	_	18	case:loc	_	SpaceAfter=No|Translit=shàng
 20	可靠	_	ADJ	JJ	_	22	amod	_	SpaceAfter=No|Translit=kěkào
-21	的	_	PART	DEC	_	20	mark:relcl	_	SpaceAfter=No|Translit=de
+21	的	_	PART	DEC	_	20	mark:rel	_	SpaceAfter=No|Translit=de
 22	信息	_	NOUN	NN	_	16	obj	_	SpaceAfter=No|Translit=xìnxi
 23	。	_	PUNCT	.	_	16	punct	_	Translit=。
 
@@ -62,7 +62,7 @@ The following 7 pairs of parts of speech are connected with `cc`: <tt><a href="z
 5	凱爾特海	_	PROPN	NNP	_	3	obj	_	SpaceAfter=No|Translit=凱'ěrtèhǎi
 6	和	_	CCONJ	CC	_	7	cc	_	SpaceAfter=No|Translit=hé
 7	愛爾蘭海	_	PROPN	NNP	_	5	conj	_	SpaceAfter=No|Translit='ài'ěr蘭hǎi
-8	的	_	PART	DEC	_	3	mark:relcl	_	SpaceAfter=No|Translit=de
+8	的	_	PART	DEC	_	3	mark:rel	_	SpaceAfter=No|Translit=de
 9	鱈魚	_	NOUN	NN	_	19	nmod	_	SpaceAfter=No|Translit=鱈yú
 10	、	_	PUNCT	EC	_	11	punct	_	SpaceAfter=No|Translit=、
 11	龍利魚	_	NOUN	NN	_	9	conj	_	SpaceAfter=No|Translit=lónglìyú
@@ -99,7 +99,7 @@ The following 7 pairs of parts of speech are connected with `cc`: <tt><a href="z
 9	身體	_	NOUN	NN	_	10	compound	_	SpaceAfter=No|Translit=shēntǐ
 10	部位	_	NOUN	NN	_	4	obj	_	SpaceAfter=No|Translit=bùwèi
 11	”	_	PUNCT	''	_	10	punct	_	SpaceAfter=No|Translit=”
-12	的	_	PART	DEC	_	4	mark:relcl	_	SpaceAfter=No|Translit=de
+12	的	_	PART	DEC	_	4	mark:rel	_	SpaceAfter=No|Translit=de
 13	想法	_	NOUN	NN	_	15	nsubj	_	SpaceAfter=No|Translit=xiǎngfǎ
 14	仍舊	_	ADV	RB	_	15	advmod	_	SpaceAfter=No|Translit=réngjiù
 15	讓	_	VERB	VV	Voice=Cau	2	ccomp	_	SpaceAfter=No|Translit=ràng

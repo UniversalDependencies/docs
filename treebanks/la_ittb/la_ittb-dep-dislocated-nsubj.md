@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of .
 
-2 nodes (0%) are attached to their parents as `dislocated:nsubj`.
+1 nodes (0%) are attached to their parents as `dislocated:nsubj`.
 
-2 instances of `dislocated:nsubj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 15.
+1 instances of `dislocated:nsubj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 13.
 
-The following 1 pairs of parts of speech are connected with `dislocated:nsubj`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (2; 100% instances).
+The following 1 pairs of parts of speech are connected with `dislocated:nsubj`: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt>-<tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (1; 100% instances).
 
 
 ~~~ conllu
@@ -31,7 +31,7 @@ The following 1 pairs of parts of speech are connected with `dislocated:nsubj`: 
 7	pater	pater	NOUN	C1|grn1|casA|gen1	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
 8	in	in	ADP	S4	AdpType=Prep	9	case	_	_
 9	nomine	nomen	NOUN	C1|grn1|casF|gen3|comH	Case=Abl|Gender=Neut|Number=Sing	6	obl	_	_
-10	meo	meus	DET	F1|grn1|casF|gen3|vgr1	Case=Abl|Degree=Pos|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	SpaceAfter=No
+10	meo	meus	DET	F1|grn1|casF|gen3|vgr1	Case=Abl|Gender=Neut|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	9	det	_	SpaceAfter=No
 11	,	,	PUNCT	Punc	_	1	punct	_	_
 12	ille	ille	PRON	F1|grn1|casA|gen1	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	14	nsubj	_	_
 13	uos	uos	PRON	F1|grn1|casM|gen1|vgr1	Case=Acc|Gender=Masc|Number=Plur|PronType=Prs	14	obj	_	_

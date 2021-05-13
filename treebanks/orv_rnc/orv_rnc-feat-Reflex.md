@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of Reflex in UD_Old_Russian-RNC'
+title:  'Statistics of Reflex in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Features: `Reflex`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Features: `Reflex`
 
 This feature is universal.
 It occurs with 1 different values: `Yes`.

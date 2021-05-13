@@ -11,7 +11,7 @@ This relation is universal.
 2816 nodes (12%) are attached to their parents as `punct`.
 
 2601 instances of `punct` (92%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.08735795454545.
+Average distance between parent and child is 6.05255681818182.
 
 The following 10 pairs of parts of speech are connected with `punct`: <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-PUNCT.html">PUNCT</a></tt> (1411; 50% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-PUNCT.html">PUNCT</a></tt> (552; 20% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-PUNCT.html">PUNCT</a></tt> (360; 13% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_fqb-pos-PUNCT.html">PUNCT</a></tt> (185; 7% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_fqb-pos-PUNCT.html">PUNCT</a></tt> (176; 6% instances), <tt><a href="fr_fqb-pos-X.html">X</a></tt>-<tt><a href="fr_fqb-pos-PUNCT.html">PUNCT</a></tt> (115; 4% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_fqb-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_fqb-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="fr_fqb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_fqb-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_fqb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 

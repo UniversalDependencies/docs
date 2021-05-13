@@ -64,7 +64,7 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 3 4 flat	color:blue
 1	Ынпыначгын	_	NOUN	_	_	2	nsubj	_	Gloss=старик-NOM.SG
 2	иквъи	_	VERB	_	_	0	root	_	Gloss=2/3.S/A-сказать-TH-2/3SG.S
-3	ӈа	_	PART	_	_	2	parataxis:speech	_	Gloss=PTCL
+3	ӈа	_	PART	_	_	2	parataxis:rep	_	Gloss=PTCL
 4	амвынэ	_	PART	_	_	3	flat	_	Gloss=RESTR-ну.ка|SpaceAfter=No
 5	.	_	PUNCT	_	_	2	punct	_	_
 

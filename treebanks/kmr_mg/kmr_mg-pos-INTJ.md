@@ -41,15 +41,15 @@ The 3rd highest number of forms (1) was observed with the lemma “na”: <em>No
 
 Parents of `INTJ` nodes belong to 5 different parts of speech: <tt><a href="kmr_mg-pos-VERB.html">VERB</a></tt> (10; 59% instances), <tt><a href="kmr_mg-pos-NOUN.html">NOUN</a></tt> (4; 24% instances), <tt><a href="kmr_mg-pos-AUX.html">AUX</a></tt> (1; 6% instances), <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> (1; 6% instances),  (1; 6% instances)
 
-16 (94%) `INTJ` nodes are leaves.
+11 (65%) `INTJ` nodes are leaves.
 
-0 (0%) `INTJ` nodes have one child.
+5 (29%) `INTJ` nodes have one child.
 
 1 (6%) `INTJ` nodes have two children.
 
 The highest child degree of a `INTJ` node is 2.
 
-Children of `INTJ` nodes are attached using 2 different relations: <tt><a href="kmr_mg-dep-cc.html">cc</a></tt> (1; 50% instances), <tt><a href="kmr_mg-dep-punct.html">punct</a></tt> (1; 50% instances)
+Children of `INTJ` nodes are attached using 2 different relations: <tt><a href="kmr_mg-dep-punct.html">punct</a></tt> (6; 86% instances), <tt><a href="kmr_mg-dep-cc.html">cc</a></tt> (1; 14% instances)
 
-Children of `INTJ` nodes belong to 2 different parts of speech: <tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt> (1; 50% instances), <tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (1; 50% instances)
+Children of `INTJ` nodes belong to 2 different parts of speech: <tt><a href="kmr_mg-pos-PUNCT.html">PUNCT</a></tt> (6; 86% instances), <tt><a href="kmr_mg-pos-CCONJ.html">CCONJ</a></tt> (1; 14% instances)
 

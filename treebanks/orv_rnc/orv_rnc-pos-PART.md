@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of PART in UD_Old_Russian-RNC'
+title:  'Statistics of PART in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: POS Tags: `PART`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: POS Tags: `PART`
 
 There are 25 `PART` lemmas (1%), 27 `PART` types (0%) and 731 `PART` tokens (2%).
 Out of 17 observed tags, the rank of `PART` is: 11 in number of lemmas, 13 in number of types and 10 in number of tokens.
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>не</em> (<tt><a href="orv_rnc-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.080000 (the average of all parts of speech is 1.947446).
+The form / lemma ratio of `PART` is 1.080000 (the average of all parts of speech is 1.947924).
 
 The 1st highest number of forms (3) was observed with the lemma “жъ”: <em>ж, жъ, ш</em>.
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="zh_gsd-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-1910 nodes (2%) are attached to their parents as `acl`.
+1909 nodes (2%) are attached to their parents as `acl`.
 
 1669 instances of `acl` (87%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.72356020942408.
+Average distance between parent and child is 3.72393923520168.
 
-The following 34 pairs of parts of speech are connected with `acl`: <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (951; 50% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (361; 19% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (123; 6% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (113; 6% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (107; 6% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (95; 5% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (36; 2% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (33; 2% instances), <tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (13; 1% instances), <tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="zh_gsd-pos-X.html">X</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="zh_gsd-pos-X.html">X</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-X.html">X</a></tt>-<tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 34 pairs of parts of speech are connected with `acl`: <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (951; 50% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (361; 19% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (123; 6% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (112; 6% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (107; 6% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (95; 5% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (36; 2% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (33; 2% instances), <tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (13; 1% instances), <tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="zh_gsd-pos-X.html">X</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="zh_gsd-pos-X.html">X</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="zh_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsd-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsd-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="zh_gsd-pos-X.html">X</a></tt>-<tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 34 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 13 14 acl	color:blue
 1	但是	但是	ADV	RB	_	9	mark	_	SpaceAfter=No
 2	迪士尼	迪士尼	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
-3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
 4	公主	公主	NOUN	NN	_	5	compound	_	SpaceAfter=No
 5	們	們	PART	SFN	Number=Plur	9	nsubj	_	SpaceAfter=No
 6	不會	不會	AUX	MD	_	9	aux	_	SpaceAfter=No
@@ -38,7 +38,7 @@ The following 34 pairs of parts of speech are connected with `acl`: <tt><a href=
 13	範圍	範圍	NOUN	NN	_	9	obj	_	SpaceAfter=No
 14	之內	之內	ADP	IN	_	13	acl	_	SpaceAfter=No
 15	了	了	PART	UH	_	9	discourse	_	SpaceAfter=No
-16	嗎	嗎	PART	UH	Mood=Inter	9	discourse	_	SpaceAfter=No
+16	嗎	嗎	PART	UH	PartType=Int	9	discourse:sp	_	SpaceAfter=No
 17	？	？	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 ~~~
@@ -70,7 +70,7 @@ The following 34 pairs of parts of speech are connected with `acl`: <tt><a href=
 18	和	和	ADP	IN	_	22	case	_	SpaceAfter=No
 19	隨機	隨機	ADV	RB	_	20	advmod	_	SpaceAfter=No
 20	遇到	遇到	VERB	VV	_	22	acl:relcl	_	SpaceAfter=No
-21	的	的	PART	DEC	_	20	mark:relcl	_	SpaceAfter=No
+21	的	的	PART	DEC	_	20	mark:rel	_	SpaceAfter=No
 22	敵人	敵人	NOUN	NN	_	23	obl	_	SpaceAfter=No
 23	作戰	作戰	VERB	VV	_	0	root	_	SpaceAfter=No
 24	。	。	PUNCT	.	_	23	punct	_	SpaceAfter=No
@@ -95,7 +95,7 @@ The following 34 pairs of parts of speech are connected with `acl`: <tt><a href=
 9	野牡丹	野牡丹	NOUN	NN	_	10	compound	_	SpaceAfter=No
 10	科	科	PART	SFN	_	15	nmod	_	SpaceAfter=No
 11	下	下	ADP	IN	_	10	acl	_	SpaceAfter=No
-12	的	的	PART	DEC	Case=Gen	10	case:dec	_	SpaceAfter=No
+12	的	的	PART	DEC	Case=Gen	10	case	_	SpaceAfter=No
 13	一	一	NUM	CD	NumType=Card	14	nummod	_	SpaceAfter=No
 14	個	個	NOUN	NNB	_	15	clf	_	SpaceAfter=No
 15	屬	屬	NOUN	NN	_	21	acl	_	SpaceAfter=No

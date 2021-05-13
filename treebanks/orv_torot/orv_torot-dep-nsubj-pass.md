@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of nsubj:pass in UD_Old_Russian-TOROT'
+title:  'Statistics of nsubj:pass in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Relations: `nsubj:pass`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Relations: `nsubj:pass`
 
 This relation is a language-specific subtype of <tt><a href="orv_torot-dep-nsubj.html">nsubj</a></tt>.
 
@@ -25,7 +25,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 1	а	а	CCONJ	C-	_	4	cc	_	ref=6
 2	голова	голова	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj:pass	_	ref=6
 3	не	не	ADV	Df	Polarity=Neg	4	advmod	_	ref=6
-4	покрыта	покрыти	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=6
+4	покрыта	покрыти	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	ref=6
 
 ~~~
 
@@ -40,7 +40,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 2	весь	вьсь	ADJ	Px	Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	_	ref=20
 3	в	въ	ADP	R-	_	4	case	_	ref=20
 4	кам꙽кѣ	камка	NOUN	Nb	Case=Loc|Gender=Fem|Number=Sing	5	obl	_	ref=20
-5	нарѧжанъ	наряжати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=20
+5	нарѧжанъ	наряжати	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	ref=20
 
 ~~~
 
@@ -52,7 +52,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 2	fgColor:white
 # visual-style 2 4 nsubj:pass	color:blue
 1	и	и	CCONJ	C-	_	2	cc	_	ref=55.8
-2	погребенъ	погрети	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=55.8
+2	погребенъ	погрети	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	ref=55.8
 3	быс	быти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	ref=55.8
 4	игорь	игорь	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj:pass	_	ref=55.8
 

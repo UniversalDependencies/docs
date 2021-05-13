@@ -42,7 +42,7 @@ The following 14 pairs of parts of speech are connected with `nummod`: <tt><a hr
 4	42	42	NUM	ANum	NumType=Card	5	nummod	_	_
 5	yaşında	yaş	ADJ	NAdj	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	10	advcl	_	_
 6	iken	i	AUX	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part	5	cop	_	_
-7	bir	bir	DET	ANum	NumType=Card	8	det	_	_
+7	bir	bir	DET	ANum	_	8	det	_	_
 8	darbeyle	darbe	NOUN	Noun	Case=Ins|Number=Sing|Person=3	10	obl	_	_
 9	iktidara	iktidar	NOUN	Noun	Case=Dat|Number=Sing|Person=3	10	obj	_	_
 10	el	el	NOUN	Noun	Case=Nom|Number=Sing|Person=3	0	root	_	_
@@ -64,7 +64,7 @@ The following 14 pairs of parts of speech are connected with `nummod`: <tt><a hr
 4	"L	"l	PROPN	Prop	Case=Nom|Number=Sing|Person=3	6	nsubj	_	SpaceAfter=No
 5	"	"	PUNCT	Punc	_	4	punct	_	_
 6	oldu	ol	VERB	Verb	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
-7	kaşla	kaşla	NOUN	Noun	Mood=Imp|Number=Sing|Person=2|Polarity=Pos	9	nmod:poss	_	_
+7	kaşla	kaşla	NOUN	Noun	_	9	nmod:poss	_	_
 8	göz	göz	NOUN	Noun	Case=Nom|Number=Sing|Person=3	7	conj	_	_
 9	arasında	ara	ADJ	NAdj	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	6	obl	_	SpaceAfter=No
 10	.	.	PUNCT	Punc	_	6	punct	_	SpacesAfter=\n

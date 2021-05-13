@@ -11,7 +11,7 @@ It occurs with 2 different values: `Fin`, `Inf`.
 
 5520 tokens (11%) have a non-empty value of `VerbForm`.
 955 types (36%) occur at least once with a non-empty value of `VerbForm`.
-765 lemmas (32%) occur at least once with a non-empty value of `VerbForm`.
+764 lemmas (32%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 3 part-of-speech tags: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (5466; 11% instances), <tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (52; 0% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 ### `VERB`
@@ -20,9 +20,9 @@ The feature is used with 3 part-of-speech tags: <tt><a href="cop_scriptorium-pos
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (5245; 96% of non-empty `VerbForm`): ⲡⲉϫⲁ, ⲉⲓ, ϫⲱ, ϣⲱⲡⲉ, ⲃⲱⲕ, ϫⲟⲟ, ⲛⲁⲩ, ϯ, ⲣ, ⲥⲱⲧⲙ
-* `Inf` (221; 4% of non-empty `VerbForm`): ϯ, ⲛⲁⲩ, ⲣ, ϫⲓ, ⲁⲁ, ⲃⲱⲕ, ϣⲁϫⲉ, ϣⲁⲁⲧ, ϫⲟⲟ, ⲕⲁ
-* `EMPTY` (321): ⲧⲣⲉ, ⲙⲛ, ⲟⲩⲛ, ⲟⲩⲛⲧⲁ, ⲧⲣ, ⲩⲛ, ⲟⲩⲛⲧⲏ, ⲙⲙⲛ, ⲟⲩⲛⲧ, ⲩⲛⲧⲁ
+* `Fin` (5246; 96% of non-empty `VerbForm`): ⲡⲉϫⲁ, ⲉⲓ, ϫⲱ, ϣⲱⲡⲉ, ⲃⲱⲕ, ϫⲟⲟ, ⲛⲁⲩ, ϯ, ⲣ, ⲥⲱⲧⲙ
+* `Inf` (220; 4% of non-empty `VerbForm`): ϯ, ⲛⲁⲩ, ⲣ, ϫⲓ, ⲁⲁ, ⲃⲱⲕ, ϣⲁϫⲉ, ϣⲁⲁⲧ, ⲕⲁ, ⲥⲱⲧⲙ
+* `EMPTY` (322): ⲧⲣⲉ, ⲙⲛ, ⲟⲩⲛ, ⲟⲩⲛⲧⲁ, ⲧⲣ, ⲩⲛ, ⲟⲩⲛⲧⲏ, ⲙⲙⲛ, ⲟⲩⲛⲧ, ⲩⲛⲧⲁ
 
 <table>
   <tr><th>Paradigm <i>ϫⲱ</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th></tr>
@@ -54,7 +54,7 @@ The most frequent other feature values with which `PRON` and `VerbForm` co-occur
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="cop_scriptorium-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (991; 94%),
 <tt>VERB --[<tt><a href="cop_scriptorium-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (450; 97%),
-<tt>VERB --[<tt><a href="cop_scriptorium-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (437; 94%),
+<tt>VERB --[<tt><a href="cop_scriptorium-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (438; 94%),
 <tt>VERB --[<tt><a href="cop_scriptorium-dep-conj.html">conj</a></tt>]--> VERB</tt> (376; 94%),
 <tt>VERB --[<tt><a href="cop_scriptorium-dep-acl.html">acl</a></tt>]--> VERB</tt> (9; 90%),
 <tt>VERB --[<tt><a href="cop_scriptorium-dep-obj.html">obj</a></tt>]--> VERB</tt> (4; 100%),

@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `csubj`: <tt><a href
 5	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Gloss=3SG
 6	sòròla	sɔrɔla	VERB	v	_	0	root	_	Gloss=obtenir|Morf=obtenir,MNT1
 7	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	Gloss=3SG
-8	ka	ká	AUX	pm	Polarity=Pos	9	aux	_	Gloss=QUAL.Pos
+8	ka	ka	AUX	pm	Polarity=Pos	9	aux	_	Gloss=QUAL.AFF
 9	gèlèn	gɛ̀lɛn	VERB	vq/adj	_	6	csubj	_	Gloss=dur
 10	kosèbè	kó.sɛbɛ	ADV	adv	_	9	obl	_	Gloss=très.bien|Morf=très.bien,Posaire,sérieux|SpaceAfter=No
 11	.	.	PUNCT	_	_	9	punct	_	Gloss=.

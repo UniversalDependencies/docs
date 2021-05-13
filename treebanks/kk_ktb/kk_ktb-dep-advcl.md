@@ -23,12 +23,12 @@ The following 15 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 7	fgColor:white
 # visual-style 7 6 advcl	color:blue
 1	Қой	қой	VERB	v	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	SpaceAfter=No
-2	,	,	PUNCT	cm	_	1	punct	_	_
+2	,	,	PUNCT	cm	_	7	punct	_	_
 3	қазақ	қазақ	NOUN	n	Case=Nom	7	nsubj	_	_
 4	бұлармен	бұл	PRON	prn	Case=Ins|Number=Plur|PronType=Dem	7	obl	_	_
 5	не	не	PRON	prn	Case=Nom|PronType=Int	6	obj	_	_
 6	ғып	қыл	VERB	v	Aspect=Perf|VerbForm=Conv	7	advcl	_	_
-7	соғыса	соқ	VERB	v	Aspect=Imp|VerbForm=Cov|Voice=Coop	1	parataxis	_	_
+7	соғыса	соқ	VERB	v	Aspect=Imp|VerbForm=Inf|Voice=Rcp	1	parataxis	_	_
 8	алсын	ал	AUX	vaux	Mood=Opt|Number=Sing|Person=3|VerbForm=Fin	7	aux	_	SpaceAfter=No
 9	?	?	PUNCT	sent	_	1	punct	_	_
 
@@ -48,7 +48,7 @@ The following 15 pairs of parts of speech are connected with `advcl`: <tt><a hre
 5	қырынан	қыр	NOUN	n	Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3	6	obl	_	_
 6	келуге	кел	VERB	v	Case=Dat|VerbForm=Ger	7	advcl	_	_
 7	тиіс	тиіс	ADJ	adj	_	0	root	_	_
-8	піз	е	AUX	cop	Mood=Ind|Number=Plur|Person=1|Tense=Aor|VerbForm=Fin	7	cop	_	_
+8	піз	е	AUX	cop	Aspect=Hab|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	_
 9	.	.	PUNCT	sent	_	7	punct	_	_
 
 ~~~

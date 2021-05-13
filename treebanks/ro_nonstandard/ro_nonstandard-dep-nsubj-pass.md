@@ -64,7 +64,7 @@ The following 11 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 # visual-style 4	fgColor:white
 # visual-style 4 6 nsubj:pass	color:blue
 1	Despre	despre	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	2	case	_	ref=MATT22.16.content
-2	dajdea	dajdie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	nmod:pmod	_	ref=MATT22.16.content
+2	dajdea	dajdie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	obl:pmod	_	ref=MATT22.16.content
 3	împăratului	împărat	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	2	nmod	_	ref=MATT22.16.content
 4	întrebat	întreba	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	0	root	_	ref=MATT22.16.content
 5	fu	fi	AUX	Vais3s	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	aux:pass	_	ref=MATT22.16.content

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Vinit Ravishankar.
 
 Repository: [UD_Marathi-UFAL](https://github.com/UniversalDependencies/UD_Marathi-UFAL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmr_ufal27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmr_ufal28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -61,11 +61,11 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 
 ## Features
 
-[Aspect](mr_ufal-feat-Aspect.html) – [Case](mr_ufal-feat-Case.html) – [Clusivity](mr_ufal-feat-Clusivity.html) – [Distance](mr_ufal-feat-Distance.html) – [Gender](mr_ufal-feat-Gender.html) – [InfForm](mr_ufal-feat-InfForm.html) – [Mood](mr_ufal-feat-Mood.html) – [Number](mr_ufal-feat-Number.html) – [Person](mr_ufal-feat-Person.html) – [Polarity](mr_ufal-feat-Polarity.html) – [PronType](mr_ufal-feat-PronType.html) – [Tense](mr_ufal-feat-Tense.html) – [VerbForm](mr_ufal-feat-VerbForm.html) – [Voice](mr_ufal-feat-Voice.html)
+[Aspect](mr_ufal-feat-Aspect.html) – [Case](mr_ufal-feat-Case.html) – [Clusivity](mr_ufal-feat-Clusivity.html) – [Deixis](mr_ufal-feat-Deixis.html) – [Gender](mr_ufal-feat-Gender.html) – [InfForm](mr_ufal-feat-InfForm.html) – [Mood](mr_ufal-feat-Mood.html) – [Number](mr_ufal-feat-Number.html) – [Person](mr_ufal-feat-Person.html) – [Polarity](mr_ufal-feat-Polarity.html) – [PronType](mr_ufal-feat-PronType.html) – [Tense](mr_ufal-feat-Tense.html) – [VerbForm](mr_ufal-feat-VerbForm.html) – [Voice](mr_ufal-feat-Voice.html)
 
 ## Relations
 
-[acl](mr_ufal-dep-acl.html) – [acl:relcl](mr_ufal-dep-acl-relcl.html) – [advcl](mr_ufal-dep-advcl.html) – [advmod](mr_ufal-dep-advmod.html) – [amod](mr_ufal-dep-amod.html) – [appos](mr_ufal-dep-appos.html) – [aux](mr_ufal-dep-aux.html) – [aux:pass](mr_ufal-dep-aux-pass.html) – [case](mr_ufal-dep-case.html) – [cc](mr_ufal-dep-cc.html) – [ccomp](mr_ufal-dep-ccomp.html) – [compound](mr_ufal-dep-compound.html) – [compound:lvc](mr_ufal-dep-compound-lvc.html) – [compound:redup](mr_ufal-dep-compound-redup.html) – [compound:svc](mr_ufal-dep-compound-svc.html) – [conj](mr_ufal-dep-conj.html) – [cop](mr_ufal-dep-cop.html) – [csubj](mr_ufal-dep-csubj.html) – [det](mr_ufal-dep-det.html) – [discourse](mr_ufal-dep-discourse.html) – [dislocated](mr_ufal-dep-dislocated.html) – [fixed](mr_ufal-dep-fixed.html) – [flat](mr_ufal-dep-flat.html) – [goeswith](mr_ufal-dep-goeswith.html) – [iobj](mr_ufal-dep-iobj.html) – [mark](mr_ufal-dep-mark.html) – [nmod](mr_ufal-dep-nmod.html) – [nmod:poss](mr_ufal-dep-nmod-poss.html) – [nsubj](mr_ufal-dep-nsubj.html) – [nsubj:own](mr_ufal-dep-nsubj-own.html) – [nsubj:pass](mr_ufal-dep-nsubj-pass.html) – [nummod](mr_ufal-dep-nummod.html) – [obj](mr_ufal-dep-obj.html) – [obl](mr_ufal-dep-obl.html) – [orphan](mr_ufal-dep-orphan.html) – [parataxis](mr_ufal-dep-parataxis.html) – [punct](mr_ufal-dep-punct.html) – [root](mr_ufal-dep-root.html) – [vocative](mr_ufal-dep-vocative.html) – [xcomp](mr_ufal-dep-xcomp.html)
+[acl](mr_ufal-dep-acl.html) – [acl:relcl](mr_ufal-dep-acl-relcl.html) – [advcl](mr_ufal-dep-advcl.html) – [advmod](mr_ufal-dep-advmod.html) – [amod](mr_ufal-dep-amod.html) – [appos](mr_ufal-dep-appos.html) – [aux](mr_ufal-dep-aux.html) – [aux:pass](mr_ufal-dep-aux-pass.html) – [case](mr_ufal-dep-case.html) – [cc](mr_ufal-dep-cc.html) – [ccomp](mr_ufal-dep-ccomp.html) – [compound](mr_ufal-dep-compound.html) – [compound:lvc](mr_ufal-dep-compound-lvc.html) – [compound:redup](mr_ufal-dep-compound-redup.html) – [compound:svc](mr_ufal-dep-compound-svc.html) – [conj](mr_ufal-dep-conj.html) – [cop](mr_ufal-dep-cop.html) – [cop:own](mr_ufal-dep-cop-own.html) – [csubj](mr_ufal-dep-csubj.html) – [det](mr_ufal-dep-det.html) – [discourse](mr_ufal-dep-discourse.html) – [dislocated](mr_ufal-dep-dislocated.html) – [fixed](mr_ufal-dep-fixed.html) – [flat](mr_ufal-dep-flat.html) – [goeswith](mr_ufal-dep-goeswith.html) – [iobj](mr_ufal-dep-iobj.html) – [mark](mr_ufal-dep-mark.html) – [nmod](mr_ufal-dep-nmod.html) – [nmod:poss](mr_ufal-dep-nmod-poss.html) – [nsubj](mr_ufal-dep-nsubj.html) – [nsubj:pass](mr_ufal-dep-nsubj-pass.html) – [nummod](mr_ufal-dep-nummod.html) – [obj](mr_ufal-dep-obj.html) – [obl](mr_ufal-dep-obl.html) – [orphan](mr_ufal-dep-orphan.html) – [parataxis](mr_ufal-dep-parataxis.html) – [punct](mr_ufal-dep-punct.html) – [root](mr_ufal-dep-root.html) – [vocative](mr_ufal-dep-vocative.html) – [xcomp](mr_ufal-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -276,6 +276,23 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 </ul>
 
 <ul>
+  <li>Abs
+    <ul>
+      <li>ADJ: थोड्या, अंधाऱ्या, जुन्या, मोठ्या, साऱ्या, उमद्या, कुठल्या, जवळच्या, मागील, म्हाताऱ्या</li>
+      <li>ADP: _</li>
+      <li>AUX-Fin: _</li>
+      <li>DET: त्या, एका, या, _, तुम्हा, दोघा, ह्या</li>
+      <li>NOUN: _, शेतकरी, भाऊ, पैसे, माणसे, हाका</li>
+      <li>PRON: _, येथल्या</li>
+      <li>PROPN: _</li>
+      <li>VERB-Fin: _</li>
+      <li>VERB-Inf: _</li>
+      <li>VERB-Part: झळाळणाऱ्या, वाहणाऱ्या</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Acc
     <ul>
       <li>NOUN: जमीन, निरोप, बहीण, लाडू, फुले, उपकार, भाऊ, भूक, रुपये, _</li>
@@ -342,23 +359,6 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
       <li>PRON: तो, ती, मी, कोण, तुम्ही, तू, आपण, ते, _, काय</li>
       <li>PROPN: भीमा, जेम्स, मेरी, _, केशवचंद्र, केशवबाबा, भीमी</li>
       <li>VERB-Inf: देणे, बोलावणे, म्हणणे, विकणे</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Obl
-    <ul>
-      <li>ADJ: थोड्या, अंधाऱ्या, जुन्या, मोठ्या, साऱ्या, उमद्या, कुठल्या, जवळच्या, मागील, म्हाताऱ्या</li>
-      <li>ADP: _</li>
-      <li>AUX-Fin: _</li>
-      <li>DET: त्या, एका, या, _, तुम्हा, दोघा, ह्या</li>
-      <li>NOUN: _, शेतकरी, भाऊ, पैसे, माणसे, हाका</li>
-      <li>PRON: _, येथल्या</li>
-      <li>PROPN: _</li>
-      <li>VERB-Fin: _</li>
-      <li>VERB-Inf: _</li>
-      <li>VERB-Part: झळाळणाऱ्या, वाहणाऱ्या</li>
     </ul>
   </li>
 </ul>
@@ -627,7 +627,7 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 <ul>
   <li><a>Clusivity</a>
     <ul>
-      <li>Incl
+      <li>In
         <ul>
           <li>PRON: _, आपण</li>
         </ul>
@@ -637,18 +637,18 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 </ul>
 
 <ul>
-  <li><a>Distance</a>
+  <li><a>Deixis</a>
     <ul>
-      <li>Dist
-        <ul>
-          <li>DET: त्या, तो, ती, _, ते</li>
-          <li>PRON: तो, _, ती, त्याला, त्याने, तिला, ते, त्यांना, त्यांनी, तिने</li>
-        </ul>
-      </li>
       <li>Prox
         <ul>
           <li>DET: या, ही, तो, ती, त्या, हा, हे, आम्ही, ह्या</li>
           <li>PRON: हे, ही, याला</li>
+        </ul>
+      </li>
+      <li>Remt
+        <ul>
+          <li>DET: त्या, तो, ती, _, ते</li>
+          <li>PRON: तो, _, ती, त्याला, त्याने, तिला, ते, त्यांना, त्यांनी, तिने</li>
         </ul>
       </li>
     </ul>
@@ -691,16 +691,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
+      <li>VERB-Conv--NOUN-Abs (1)</li>
       <li>VERB-Conv--NOUN-Erg (3)</li>
       <li>VERB-Conv--NOUN-Nom (20)</li>
-      <li>VERB-Conv--NOUN-Obl (1)</li>
       <li>VERB-Conv--PRON-Erg (1)</li>
       <li>VERB-Conv--PRON-Nom (3)</li>
+      <li>VERB-Fin--NOUN-Abs (3)</li>
       <li>VERB-Fin--NOUN-Dat (5)</li>
       <li>VERB-Fin--NOUN-Erg (31)</li>
       <li>VERB-Fin--NOUN-Ins (1)</li>
       <li>VERB-Fin--NOUN-Nom (107)</li>
-      <li>VERB-Fin--NOUN-Obl (3)</li>
       <li>VERB-Fin--PRON (3)</li>
       <li>VERB-Fin--PRON-ADP(चा) (1)</li>
       <li>VERB-Fin--PRON-Dat (17)</li>
@@ -726,26 +726,26 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
+      <li>VERB-Conv--NOUN-Abs (1)</li>
+      <li>VERB-Conv--NOUN-Abs-ADP(चा) (1)</li>
       <li>VERB-Conv--NOUN-Acc (32)</li>
       <li>VERB-Conv--NOUN-Dat (3)</li>
-      <li>VERB-Conv--NOUN-Obl (1)</li>
-      <li>VERB-Conv--NOUN-Obl-ADP(चा) (1)</li>
       <li>VERB-Conv--PRON-Acc (1)</li>
       <li>VERB-Conv--PRON-Dat (3)</li>
+      <li>VERB-Fin--NOUN-Abs (1)</li>
+      <li>VERB-Fin--NOUN-Abs-ADP(चा) (1)</li>
       <li>VERB-Fin--NOUN-Acc (95)</li>
       <li>VERB-Fin--NOUN-Com (1)</li>
       <li>VERB-Fin--NOUN-Dat (18)</li>
-      <li>VERB-Fin--NOUN-Obl (1)</li>
-      <li>VERB-Fin--NOUN-Obl-ADP(चा) (1)</li>
       <li>VERB-Fin--PRON (4)</li>
       <li>VERB-Fin--PRON-Acc (15)</li>
-      <li>VERB-Fin--PRON-Dat (14)</li>
+      <li>VERB-Fin--PRON-Dat (15)</li>
       <li>VERB-Fin--PRON-Nom (2)</li>
       <li>VERB-Inf--NOUN-Acc (9)</li>
       <li>VERB-Inf--PRON (1)</li>
       <li>VERB-Inf--PRON-Acc (1)</li>
+      <li>VERB-Part--NOUN-Abs-ADP(चा) (1)</li>
       <li>VERB-Part--NOUN-Acc (14)</li>
-      <li>VERB-Part--NOUN-Obl-ADP(चा) (1)</li>
       <li>VERB-Part--PRON (2)</li>
       <li>VERB-Part--PRON-Acc (3)</li>
       <li>VERB-Sup--NOUN-Acc (4)</li>
@@ -773,6 +773,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>compound:svc</a>, <a>nmod:poss</a>, <a>nsubj:own</a>, <a>nsubj:pass</a></li>
+<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>compound:svc</a>, <a>cop:own</a>, <a>nmod:poss</a>, <a>nsubj:pass</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

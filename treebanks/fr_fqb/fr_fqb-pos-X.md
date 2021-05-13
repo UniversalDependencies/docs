@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-FQB: POS Tags: `X`
 
 There are 173 `X` lemmas (5%), 173 `X` types (4%) and 243 `X` tokens (1%).
-Out of 17 observed tags, the rank of `X` is: 5 in number of lemmas, 5 in number of types and 11 in number of tokens.
+Out of 16 observed tags, the rank of `X` is: 5 in number of lemmas, 5 in number of types and 11 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>the, of, 's, and, caliente, is, west, hazmat, in, to</em>
 
@@ -28,12 +28,12 @@ The 10 most frequent ambiguous types:  <em>the</em> (<tt><a href="fr_fqb-pos-X.h
   * <tt><a href="fr_fqb-pos-X.html">X</a></tt> 2: <em>Quelle actrice a joué dans " The <b>Lion</b> in Winter " ?</em>
   * <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> 1: <em>Quel est le nom de le fils de le Roi <b>Lion</b> dans le film " The Lion King " ?</em>
 * <em>a</em>
-  * <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 326: <em>Quel succès d' Elvis Presley Gilmore <b>a</b> -t -il chanté ?</em>
-  * <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 52: <em>Dans combien de pays Greenpeace <b>a</b> -t -elle des agences ?</em>
+  * <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 326: <em>Quel succès d' Elvis Presley Gilmore <b>a</b> -t-il chanté ?</em>
+  * <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 52: <em>Dans combien de pays Greenpeace <b>a</b> -t-elle des agences ?</em>
   * <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1: <em>Qui est l' auteur de le livre sur le piratage informatique qui s' intitule " The Cuckoo 's Egg : Tracking <b>a</b> Spy Through the Maze of Computer Espionage " ?</em>
 * <em>American</em>
   * <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> 1: <em>Quel est le nom de la compagnie qui produit la collection de poupées " <b>American</b> Girl " ?</em>
-  * <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1: <em>Quel personnage Scott Bakula a -t -il joué dans <b>American</b> Beauty ?</em>
+  * <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1: <em>Quel personnage Scott Bakula a -t-il joué dans <b>American</b> Beauty ?</em>
 * <em>Computer</em>
   * <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> 1: <em>Quel est le nom de le directeur générale d' Apricot <b>Computer</b> ?</em>
   * <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1: <em>Qui est l' auteur de le livre sur le piratage informatique qui s' intitule " The Cuckoo 's Egg : Tracking a Spy Through the Maze of <b>Computer</b> Espionage " ?</em>
@@ -45,14 +45,14 @@ The 10 most frequent ambiguous types:  <em>the</em> (<tt><a href="fr_fqb-pos-X.h
   * <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1: <em>Quel est le nom de le fils de le Roi Lion dans le film " The Lion <b>King</b> " ?</em>
 * <em>New</em>
   * <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> 16: <em>Combien coûte un voyage aller-retour <b>New</b> York - Londres sur le Concorde ?</em>
-  * <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1: <em>Quand Aldous Huxley a -t -il écrit " Brave <b>New</b> World " ?</em>
+  * <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1: <em>Quand Aldous Huxley a -t-il écrit " Brave <b>New</b> World " ?</em>
 * <em>Scarlett</em>
   * <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> 1: <em>Quel est le nom de la maison de <b>Scarlett</b> O' Hara ?</em>
   * <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1: <em>Qui a écrit " The <b>Scarlett</b> Letter " ?</em>
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.162933).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.163777).
 
 The 1st highest number of forms (1) was observed with the lemma “'”: <em>'</em>.
 

@@ -29,7 +29,7 @@ The following 22 pairs of parts of speech are connected with `mark`: <tt><a href
 5	nie	nie	PART	part	Polarity=Neg	7	advmod:neg	7:advmod:neg	_
 6	tak	tak	ADV	adv:pos	Degree=Pos|PronType=Dem	7	advmod	7:advmod	_
 7	dużo	dużo	ADV	adv:pos	Degree=Pos	1	conj	0:root|1:conj	_
-8	jak	jak	SCONJ	comp	ConjType=Cmpr	10	mark	10:mark	_
+8	jak	jak	SCONJ	comp	ConjType=Comp	10	mark	10:mark	_
 9	się	się	PRON	part	PronType=Prs|Reflex=Yes	10	expl:pv	10:expl:pv	_
 10	spodziewasz	spodziewać	VERB	fin:sg:sec:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl:cmpr	6:advcl:cmpr	SpaceAfter=No
 11	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	_

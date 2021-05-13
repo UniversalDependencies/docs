@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Jenna Kanerva.
 
 Repository: [UD_Finnish-OOD](https://github.com/UniversalDependencies/UD_Finnish-OOD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_ood27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_ood28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -240,7 +240,7 @@ The poetry section is extracted from the Finnish Corpus of Online Registers (Fin
     <ul>
       <li>ADJ: Kansainväliseltä, alhaiselta, asialliselta, hurjalta, hyvältä, ihanalta, nimiseltä, omalta, orientoituneelta, otolliselta</li>
       <li>ADP: tiimoilta</li>
-      <li>NOUN: hotellilta, potilaalta, y​h​t​e​i​s​t​y​ö​k​u​m​p​p​a​n​e​i​l​t​a, Ensimetreiltä, KANNALTA, MTV-kanavalta, PUOLUEELTA, Pientuottajilta, Puolilta, Reunalta</li>
+      <li>NOUN: hotellilta, potilaalta, yhteistyökumppaneilta, Ensimetreiltä, KANNALTA, MTV-kanavalta, PUOLUEELTA, Pientuottajilta, Puolilta, Reunalta</li>
       <li>NUM: neljältä</li>
       <li>PRON: jokaiselta, Keneltä, Muilta, eräältä, häneltä, joltain, siltä, tältä</li>
       <li>PROPN: Oy:ltä, Katalonialta, Kelalta, Lokomotivilta</li>
@@ -418,7 +418,7 @@ The poetry section is extracted from the Finnish Corpus of Online Registers (Fin
 <ul>
   <li>Tra
     <ul>
-      <li>ADJ: huonoksi, sinisilmäiseksi, työläämmäksi, Suurimmaksi, Toiseksi, ahdistuneemmaksi, a​l​k​o​h​o​l​i​p​o​l​i​i​t​t​i​s​e​k​s​i, ensimmäiseksi, helpommiksi, historialliseksi</li>
+      <li>ADJ: huonoksi, sinisilmäiseksi, työläämmäksi, Suurimmaksi, Toiseksi, ahdistuneemmaksi, alkoholipoliittiseksi, ensimmäiseksi, helpommiksi, historialliseksi</li>
       <li>NOUN: ajaksi, hetkeksi, ohjelmointikieleksi, Eturuoaksi, Sääliksi, Yöksi, alkoholiksi, asemasodaksi, hoitajaksi, huvikseni</li>
       <li>VERB-Inf: muistaakseni, auttaakseen, herättääkseeni, hämätäkseen, käsittääkseni, pitääkseen, suorittamastanne, säilyäkseen, tietääkseni, ymmärtääkseni</li>
       <li>VERB-Part: esitettäväksi, jaettavaksi, puretuksi, testattavaks</li>
@@ -896,7 +896,7 @@ The poetry section is extracted from the Finnish Corpus of Online Registers (Fin
       </li>
       <li>Ja
         <ul>
-          <li>NOUN: Vierailija, valvojan, jakajan, käyttäjä, unennäkijä, Kuntatyöntekijä, Liikkujan, N​A​I​S​K​A​M​P​A​A​M​O​T​Y​Ö​N​T​E​K​I​J​Ä​I​N, NBA-pelaajien, Osallistujat</li>
+          <li>NOUN: Vierailija, valvojan, jakajan, käyttäjä, unennäkijä, Kuntatyöntekijä, Liikkujan, NAISKAMPAAMOTYÖNTEKIJÄIN, NBA-pelaajien, Osallistujat</li>
         </ul>
       </li>
       <li>Lainen
@@ -913,12 +913,12 @@ The poetry section is extracted from the Finnish Corpus of Online Registers (Fin
       </li>
       <li>Llinen,Vs
         <ul>
-          <li>NOUN: l​i​i​k​e​n​n​e​t​u​r​v​a​l​l​i​s​u​u​t​t​a, mahdollisuus, v​o​i​t​t​o​m​a​h​d​o​l​l​i​s​u​u​k​s​i​s​t​a, Kirjallisuus, laadullisuus, l​i​i​k​e​n​n​e​t​u​r​v​a​l​l​i​s​u​u​t​e​e​n, mahdollisuuksia, merkkiuskollisuutta, toiminnallisuuden, turvallisuuden</li>
+          <li>NOUN: liikenneturvallisuutta, mahdollisuus, voittomahdollisuuksista, Kirjallisuus, laadullisuus, liikenneturvallisuuteen, mahdollisuuksia, merkkiuskollisuutta, toiminnallisuuden, turvallisuuden</li>
         </ul>
       </li>
       <li>Minen
         <ul>
-          <li>NOUN: #johtaminen, hapettuminen, osaaminen, tanssimista, tekemistä, #kuluttaminen, Haukkumista, Kirjoitaminen, Korvaaminen, K​u​s​t​a​n​n​u​s​t​o​i​m​i​t​t​a​m​i​n​e​n</li>
+          <li>NOUN: #johtaminen, hapettuminen, osaaminen, tanssimista, tekemistä, #kuluttaminen, Haukkumista, Kirjoitaminen, Korvaaminen, Kustannustoimittaminen</li>
         </ul>
       </li>
       <li>Sti
@@ -1049,7 +1049,7 @@ The poetry section is extracted from the Finnish Corpus of Online Registers (Fin
           <li>ADV: alleen, lävitseen, mukanaan, sisällään, muuassaan</li>
           <li>AUX-Inf: ollessaan</li>
           <li>AUX-Part: olevansa</li>
-          <li>NOUN: silmiään, aikansa, hetkensä, isällään, kantensa, silmänsä, @​Y​o​u​T​u​b​e​-​s​o​i​t​t​o​l​i​s​t​a​a​n, Pohjistaan, alansa, albuminsa</li>
+          <li>NOUN: silmiään, aikansa, hetkensä, isällään, kantensa, silmänsä, @YouTube-soittolistaan, Pohjistaan, alansa, albuminsa</li>
           <li>PRON: itsensä, itselleen, itsestään, toisensa, itseensä, itseään, toisiinsa</li>
           <li>VERB-Inf: nähdessään, Huomatessaan, Nukkuessaan, auttaakseen, hämätäkseen, koittaessaan, lukiessaan, lähtiessään, pitääkseen, säilyäkseen</li>
           <li>VERB-Part: saatuaan, avattuaan, herättyään, kuolevansa, löytävänsä, oltuaan, rukoiltuaan</li>
@@ -1064,7 +1064,7 @@ The poetry section is extracted from the Finnish Corpus of Online Registers (Fin
     <ul>
       <li>Arch
         <ul>
-          <li>NOUN: N​A​I​S​K​A​M​P​A​A​M​O​T​Y​Ö​N​T​E​K​I​J​Ä​I​N</li>
+          <li>NOUN: NAISKAMPAAMOTYÖNTEKIJÄIN</li>
         </ul>
       </li>
       <li>Coll

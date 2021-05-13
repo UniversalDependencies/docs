@@ -13,25 +13,21 @@ This relation is universal.
 65 instances of `cc` (98%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.63636363636364.
 
-The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-CCONJ.html">CCONJ</a></tt> (51; 77% instances), <tt><a href="bm_crb-pos-PRON.html">PRON</a></tt>-<tt><a href="bm_crb-pos-CCONJ.html">CCONJ</a></tt> (6; 9% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-CCONJ.html">CCONJ</a></tt> (5; 8% instances), <tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bm_crb-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-X.html">X</a></tt> (1; 2% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `cc`: <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bm_crb-pos-CCONJ.html">CCONJ</a></tt> (52; 79% instances), <tt><a href="bm_crb-pos-PRON.html">PRON</a></tt>-<tt><a href="bm_crb-pos-CCONJ.html">CCONJ</a></tt> (6; 9% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-CCONJ.html">CCONJ</a></tt> (5; 8% instances), <tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bm_crb-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt>-<tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 2 cc	color:blue
-1	u	_	PRON	_	_	6	nsubj	_	_
-2	ni	_	CCONJ	_	_	4	cc	_	_
-3	dugu	_	NOUN	_	_	4	nmod:poss	_	_
-4	kolakalilaba	_	NOUN	_	_	1	conj	_	_
-5	dɔ	_	DET	_	_	4	det	_	_
-6	don	_	VERB	_	_	0	root	_	SpaceAfter=No
-7	,	_	PUNCT	_	_	6	punct	_	_
-8	ko	_	PART	_	_	9	discourse	_	_
-9	Mɛnkɔrɔ	_	PROPN	_	_	6	obl	_	SpaceAfter=No
-10	.	_	PUNCT	_	_	6	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 cc	color:blue
+1	<>	_	PUNCT	_	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	Den	dén	NOUN	n	_	0	root	_	Gloss=enfant
+3	ɲuman	ɲùman	ADJ	adj	_	2	amod	_	Gloss=bon
+4	ni	ni	CCONJ	conj	_	5	cc	_	Gloss=et
+5	Kɔnɔnin	kɔnɔnin	NOUN	n	_	2	conj	_	Gloss=oiseau|Morf=oiseau,DIM|SpaceAfter=No
+6	</>	_	PUNCT	_	_	2	punct	_	Gloss=_
 
 ~~~
 
@@ -61,7 +57,7 @@ The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="b
 # visual-style 16	fgColor:white
 # visual-style 16 12 cc	color:blue
 1	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Gloss=3PL
-2	ye	yé	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
+2	ye	ye	AUX	pm	Aspect=Perf|Polarity=Pos|Valency=2	4	aux	_	Gloss=PFV.TR
 3	a	à	PRON	pers	Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=3SG
 4	fò	fɔ́	VERB	v	_	0	root	_	Gloss=dire
 5	ko	kó	PART	cop	_	8	discourse	_	Gloss=
@@ -69,7 +65,7 @@ The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="b
 7	u	ù	PRON	pers	Number=Plur|Person=3|PronType=Prs	8	nsubj	_	Gloss=3PL
 8	bè	bɛ́	VERB	cop	Polarity=Pos	4	ccomp	_	Gloss=BE
 9	yen	yèn	ADV	adv/n	_	8	obl	_	Gloss=là-bas|SpaceAfter=No
-10	,	,	PUNCT	_	_	8	punct	_	Gloss=,
+10	,	,	PUNCT	_	_	16	punct	_	Gloss=,
 11	ko	kó	PART	cop	_	16	discourse	_	Gloss=
 12	mè	mè	CCONJ	_	_	16	cc	_	Gloss=EMPR
 13	ko	kó	PART	cop	_	16	discourse	_	Gloss=

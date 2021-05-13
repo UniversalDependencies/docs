@@ -22,7 +22,7 @@ The following 4 pairs of parts of speech are connected with `cc`: <tt><a href="g
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 cc	color:blue
-1	_	_	VERB	vi:d	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	4	advcl	_	_
+1	_	_	VERB	vi:d	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	4	advcl	_	_
 2	_	_	SCONJ	subordconn	_	1	mark	_	_
 3	_	_	PART	illocprt	_	1	dep:mod	_	_
 4	_	_	VERB	vt	Mood=Ind|Person[subj]=3|Subcat=Tran|VerbForm=Fin	0	root	_	_
@@ -30,7 +30,7 @@ The following 4 pairs of parts of speech are connected with `cc`: <tt><a href="g
 6	_	_	NOUN	n	_	4	obj	_	_
 7	_	_	PUNCT	punct	_	9	punct	_	_
 8	_	_	CCONJ	coordconn	_	9	cc	_	_
-9	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	4	conj	_	_
+9	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	4	conj	_	_
 10	_	_	PUNCT	punct	_	4	punct	_	_
 
 ~~~
@@ -69,7 +69,7 @@ The following 4 pairs of parts of speech are connected with `cc`: <tt><a href="g
 6	_	_	PRON	pro	Person=3|PronType=Prs	4	appos	_	_
 7	_	_	CCONJ	coordconn	_	6	cc	_	_
 8	_	_	PART	illocprt	_	6	dep:mod	_	_
-9	_	_	VERB	vd:a	Mood=Ind|Person[subj]=3|Subcat=IntInd|VerbForm=Fin	0	root	_	_
+9	_	_	VERB	vd:a	Mood=Ind|Person[subj]=3|Subcat=Indir|VerbForm=Fin	0	root	_	_
 10	_	_	VERB	vs	Mood=Ind|Person=3|VerbForm=Ser	9	compound:svc	_	_
 11	_	_	NOUN	n	_	9	obl	_	_
 12	_	_	ADP	post	_	11	case	_	_

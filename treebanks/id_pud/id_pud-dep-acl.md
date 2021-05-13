@@ -26,7 +26,7 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 1	Mungkin	mungkin	ADV	_	_	6	advmod	_	_
 2	kode	kode	NOUN	_	Number=Sing	6	nsubj	_	_
 3	berpakaian	pakai	VERB	_	Mood=Ind|Voice=Act	2	acl	_	_
-4	nya	nya	DET	_	_	2	det	_	_
+4	nya	nya	DET	_	PronType=Dem	2	det	_	_
 5	terlalu	lalu	ADV	_	_	6	advmod	_	_
 6	sesak	sesak	ADJ	_	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_

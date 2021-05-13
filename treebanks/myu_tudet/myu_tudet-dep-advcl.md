@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4 nodes (1%) are attached to their parents as `advcl`.
+17 nodes (3%) are attached to their parents as `advcl`.
 
-2 instances of `advcl` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.25.
+9 instances of `advcl` (53%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.88235294117647.
 
-The following 3 pairs of parts of speech are connected with `advcl`: <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt> (2; 50% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt> (1; 25% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt> (1; 25% instances).
+The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt> (7; 41% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt> (3; 18% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt> (2; 12% instances), <tt><a href="myu_tudet-pos-AUX.html">AUX</a></tt>-<tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-SCONJ.html">SCONJ</a></tt> (1; 6% instances), <tt><a href="myu_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt> (1; 6% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-ADP.html">ADP</a></tt> (1; 6% instances), <tt><a href="myu_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="myu_tudet-pos-ADV.html">ADV</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -35,6 +35,25 @@ The following 3 pairs of parts of speech are connected with `advcl`: <tt><a href
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 advcl	color:blue
+1	ejot	jot	VERB	vi	Aspect=Imp|Person=2	0	root	0:root	_
+2	cuy	cuy	PART	imppart	_	1	discourse	1:discourse	_
+3	,	,	PUNCT	punct	_	4	punct	4:punct	_
+4	muto'o	muto'o	NOUN	n	_	1	advcl	1:advcl	_
+5	bima	bima	ADP	pp	_	4	case	4:case	_
+6	,	,	PUNCT	punct	_	7	punct	7:punct	_
+7	kaxi	kaxi	NOUN	n	_	4	nmod	4:nmod	_
+8	wuyase	ase	ADP	pp	_	7	case	7:case	_
+9	bima	bima	ADP	pp	_	7	case	7:case	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 2	bgColor:blue
@@ -47,26 +66,6 @@ The following 3 pairs of parts of speech are connected with `advcl`: <tt><a href
 5	ade	ade	PRON	pro	_	6	nmod	_	_
 6	puybit	puybit	NOUN	n	_	2	advcl	_	_
 7	puye	puye	ADP	_	_	6	case	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 3 advcl	color:blue
-1	Daje	daje	NOUN	n	_	3	obl	3:obl	_
-2	ade	ade	PRON	pro	_	1	nmod	1:nmod	_
-3	o'yaoka	aoka	VERB	vt	_	7	advcl	7:advcl	_
-4	ip	ip	PART	pcl	_	3	obl	3:obl	_
-5	pima	pima	ADP	pp	_	3	case	3:case	_
-6	,	,	PUNCT	punct	_	3	punct	3:punct	_
-7	puybit	puybit	NOUN	n	_	0	root	0:root	_
-8	kuka	kuka	X	x	_	7	dep	7:dep	_
-9	o'e	'e	VERB	v	Evident=Nfh	7	dep	7:dep	_
-10	ade	ade	PRON	pro	_	7	nmod	7:nmod	_
 
 ~~~
 

@@ -11,11 +11,11 @@ Out of 16 observed tags, the rank of `SYM` is: 10 in number of lemmas, 12 in num
 
 The 10 most frequent `SYM` lemmas: <em>%, &, =, *, -, ?, A, i, §, +</em>
 
-The 10 most frequent `SYM` types:  <em>%, %-l, =, %-ni, &amp;, *, -, %-lt, &, ?</em>
+The 10 most frequent `SYM` types:  <em>%, %-l, =, %-ni, &amp;, *, -, &, %-lt, ?</em>
 
-The 10 most frequent ambiguous lemmas: <em>%</em> (<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 511, <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> 2), <em>&</em> (<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 22, <tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> 8), <em>=</em> (<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 17, <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1), <em>*</em> (<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 12, <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1), <em>-</em> (<tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1464, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 9), <em>?</em> (<tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1299, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 6, <tt><a href="et_edt-pos-X.html">X</a></tt> 1), <em>A</em> (<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 5, <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="et_edt-pos-X.html">X</a></tt> 1), <em>i</em> (<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 5, <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="et_edt-pos-X.html">X</a></tt> 1), <em>s</em> (<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 3, <tt><a href="et_edt-pos-X.html">X</a></tt> 1), <em>B</em> (<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 2, <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="et_edt-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>%</em> (<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 511, <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> 2), <em>&</em> (<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 22, <tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> 8), <em>=</em> (<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 17, <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1), <em>*</em> (<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 12, <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1), <em>-</em> (<tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1465, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 9), <em>?</em> (<tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1299, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 6, <tt><a href="et_edt-pos-X.html">X</a></tt> 1), <em>A</em> (<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 5, <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="et_edt-pos-X.html">X</a></tt> 1), <em>i</em> (<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 5, <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="et_edt-pos-X.html">X</a></tt> 1), <em>s</em> (<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 3, <tt><a href="et_edt-pos-X.html">X</a></tt> 1), <em>B</em> (<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 2, <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="et_edt-pos-X.html">X</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>=</em> (<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 17, <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1), <em>*</em> (<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 12, <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1), <em>-</em> (<tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1428, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 9), <em>&</em> (<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 6), <em>?</em> (<tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1299, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 6, <tt><a href="et_edt-pos-X.html">X</a></tt> 1), <em>'i</em> (<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 3, <tt><a href="et_edt-pos-X.html">X</a></tt> 1), <em>!</em> (<tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 960, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 1), <em>1/2</em> (<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> 5, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 1), <em>></em> (<tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 22, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>=</em> (<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 17, <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1), <em>*</em> (<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 12, <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1), <em>-</em> (<tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1429, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 9), <em>&</em> (<tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 7), <em>?</em> (<tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1299, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 6, <tt><a href="et_edt-pos-X.html">X</a></tt> 1), <em>'i</em> (<tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 3, <tt><a href="et_edt-pos-X.html">X</a></tt> 1), <em>!</em> (<tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 960, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 1), <em>1/2</em> (<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> 5, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 1), <em>></em> (<tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 22, <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 1)
 
 
 * <em>=</em>
@@ -25,11 +25,11 @@ The 10 most frequent ambiguous types:  <em>=</em> (<tt><a href="et_edt-pos-SYM.h
   * <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 12: <em><b>*</b> Eesti ainus kõrge väärtusega taastuv ressurss on inimesed .</em>
   * <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1: <em>Ivo <b>*</b> on laskunud mööda köit pea ees Viru hotelli katuselt alla .</em>
 * <em>-</em>
-  * <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1428: <em>“ Ma olen optimist <b>-</b> oleme majanduskasvu esimeses faasis . ”</em>
+  * <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1429: <em>“ Ma olen optimist <b>-</b> oleme majanduskasvu esimeses faasis . ”</em>
   * <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 9: <em>Keskmine vanus 6 p rühmas oli 64,3 <b>-</b> 7,4 ja 10-12 p rühmas 67,3 <b>-</b> 9,2 aastat , see erinevus oli tõepärane .</em>
 * <em>&</em>
   * <tt><a href="et_edt-pos-CCONJ.html">CCONJ</a></tt> 8: <em>Keni <b>&</b> Tolgiga saab alati kõvasti pulli .</em>
-  * <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 6: <em>Hingamiselundite amüloidoosi sündroomid ( Gillmore <b>&</b> Hawkins , 1999 )</em>
+  * <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 7: <em>Üks Heckler <b>&</b> Koch püstol maksab ligi kümme tuhat krooni .</em>
 * <em>?</em>
   * <tt><a href="et_edt-pos-PUNCT.html">PUNCT</a></tt> 1299: <em>Kust tuli mõte kirjutada ooper " Writing to Vermeer " <b>?</b></em>
   * <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> 6: <em>Tabeli väljadel toodud märgid " <b>?</b> " ja " <b>?</b> " kujutavad endast vastavalt sünteetilist positiivset või negatiivset mõju peegeldavat indikaatorit , mis on saadud mitme allindikaatori koondamise teel .</em>
@@ -49,7 +49,7 @@ The 10 most frequent ambiguous types:  <em>=</em> (<tt><a href="et_edt-pos-SYM.h
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.179775 (the average of all parts of speech is 1.914080).
+The form / lemma ratio of `SYM` is 1.179775 (the average of all parts of speech is 1.914124).
 
 The 1st highest number of forms (9) was observed with the lemma “%”: <em>%, %-ga, %-l, %-le, %-lise, %-lt, %-ni, %l, %ni</em>.
 
@@ -63,7 +63,7 @@ The 3rd highest number of forms (3) was observed with the lemma “i”: <em>'i,
 
 `SYM` occurs with 14 feature combinations.
 The most frequent feature combination is `_` (468 tokens).
-Examples: <em>%, %-l, &amp;, %-ni, -, &, ?, *, %-lise, %-lt</em>
+Examples: <em>%, %-l, %-ni, &amp;, -, &, ?, *, %-lise, %-lt</em>
 
 
 ## Relations

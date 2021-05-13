@@ -28,11 +28,11 @@ The following 10 pairs of parts of speech are connected with `orphan`: <tt><a hr
 4	aconteceu	acontecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	em	em	ADP	_	_	6	case	_	_
 6	direito	direito	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
-7	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
-8	mais	mais	ADP	_	_	9	case	_	_
-9	366	366	NUM	_	NumType=Card	3	nmod	_	_
+7	(	(	PUNCT	_	_	10	punct	_	SpaceAfter=No
+8	mais	mais	ADV	_	_	9	advmod	_	_
+9	366	366	NUM	_	NumType=Card	10	nummod	_	_
 10	candidatos	candidato	NOUN	_	Gender=Masc|Number=Plur	6	appos	_	SpaceAfter=No
-11	)	)	PUNCT	_	_	9	punct	_	_
+11	)	)	PUNCT	_	_	10	punct	_	_
 12	e	e	CCONJ	_	_	15	cc	_	_
 13	a	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 14	maior	grande	ADJ	_	Gender=Fem|Number=Sing	15	amod	_	_
@@ -41,7 +41,7 @@ The following 10 pairs of parts of speech are connected with `orphan`: <tt><a hr
 17	em	em	ADP	_	_	18	case	_	_
 18	engenharia	engenharia	NOUN	_	Gender=Fem|Number=Sing	15	orphan	_	_
 19	(	(	PUNCT	_	_	21	punct	_	SpaceAfter=No
-20	menos	menos	ADP	_	_	21	case	_	_
+20	menos	menos	ADV	_	_	21	advmod	_	_
 21	980	980	NUM	_	NumType=Card	18	appos	_	SpaceAfter=No
 22	)	)	PUNCT	_	_	21	punct	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	4	punct	_	_
@@ -102,8 +102,8 @@ The following 10 pairs of parts of speech are connected with `orphan`: <tt><a hr
 14	toda	todo	DET	_	Gender=Fem|Number=Sing|PronType=Tot	15	det	_	_
 15	parceria	parceria	NOUN	_	Gender=Fem|Number=Sing	19	obl	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	15	punct	_	_
-17	cada	cada	PRON	_	Gender=Unsp|Number=Sing|PronType=Tot	19	nsubj	_	_
-18	qual	qual	DET	_	Gender=Unsp|Number=Sing|PronType=Rel	17	fixed	_	_
+17	cada	cada	PRON	_	Number=Sing|PronType=Tot	19	nsubj	_	_
+18	qual	qual	DET	_	Number=Sing|PronType=Rel	17	fixed	_	_
 19	desse	dar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
 20	palpites	palpite	NOUN	_	Gender=Masc|Number=Plur	19	obj	_	_
 21	em	em	ADP	_	_	23	case	_	_

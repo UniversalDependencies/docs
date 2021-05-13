@@ -30,7 +30,7 @@ The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="
 5	2004	_	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=2004
 6	年	_	NOUN	NNB	_	7	obl	_	SpaceAfter=No|Translit=nián
 7	開業	_	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No|Translit=kāiyè
-8	的	_	PART	DEC	_	7	mark:relcl	_	SpaceAfter=No|Translit=de
+8	的	_	PART	DEC	_	7	mark:rel	_	SpaceAfter=No|Translit=de
 9	諾瑪	_	PROPN	NNP	_	11	compound	_	SpaceAfter=No|Translit=諾瑪
 10	城際	_	NOUN	NN	_	11	compound	_	Proper=True|SpaceAfter=No|Translit=chéngjì
 11	地鐵站	_	NOUN	NN	_	15	compound	_	Proper=True|SpaceAfter=No|Translit=detiězhàn

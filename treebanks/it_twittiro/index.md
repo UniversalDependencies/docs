@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Alessandra T. Cignarella, Cristina Bosco, Manuela Sanguinetti.
 
 Repository: [UD_Italian-TWITTIRO](https://github.com/UniversalDependencies/UD_Italian-TWITTIRO)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_twittiro27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_twittiro28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -85,7 +85,7 @@ The overlapping content however has been distributed such that it ends up in the
 </ul>
 
 <ul>
-<li>This corpus contains 4475 tokens (16%) that are not followed by a space.</li>
+<li>This corpus contains 4474 tokens (16%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -93,7 +93,7 @@ The overlapping content however has been distributed such that it ends up in the
 </ul>
 
 <ul>
-<li>This corpus contains 675 types of words that contain both letters and punctuation. Examples: @user, #labuonascuola, l', #monti, @user1, @user2, c', #renzi, e', #scuola, @user3, h​t​t​p​:​/​/​t​.​c​o​/​o​D​P​U​t​x​2​D​v​V, #Grillo, #governo, h​t​t​p​:​/​/​t​.​c​o​/​o​D​P​U​t​x​k​M​K​3, l’, un', #midaperruolo, d', po', #tfaordinario, h​t​t​p​s​:​/​/​t​.​c​o​/​o​D​P​U​t​x​2​D​v​V, #manovra, @user4, cit., h​t​t​p​:​/​/​t​.​c​o​/​o​D​P​U​t​x​T​q​U​7, #​l​a​b​u​o​n​a​s​c​u​o​l​a​u​n​c​a​z​z​o, #m5s, #mario, #passodopopasso, #Quota96Scuola, #giannini, #jobsact, #rimontiamo, #berlusconi, #fullmonti, #ministri, #sapevatelo, #riformascuola, @user5, cos', h​t​t​p​:​/​/​t​.​c​o​/​8​R​E​e​G​q​I​h​C​K, quest', #elezioni, #fatepresto, #lascuolaingiusta, #liberalizzazioni, #oramonti, #pd, #postofisso</li>
+<li>This corpus contains 675 types of words that contain both letters and punctuation. Examples: @user, #labuonascuola, l', #monti, @user1, @user2, c', #renzi, e', #scuola, @user3, http://t.co/oDPUtx2DvV, #Grillo, #governo, http://t.co/oDPUtxkMK3, l’, un', #midaperruolo, d', po', #tfaordinario, https://t.co/oDPUtx2DvV, #manovra, @user4, cit., http://t.co/oDPUtxTqU7, #labuonascuolauncazzo, #m5s, #mario, #passodopopasso, #Quota96Scuola, #giannini, #jobsact, #rimontiamo, #berlusconi, #fullmonti, #ministri, #sapevatelo, #riformascuola, @user5, cos', http://t.co/8REeGqIhCK, quest', #elezioni, #fatepresto, #lascuolaingiusta, #liberalizzazioni, #oramonti, #pd, #postofisso</li>
 </ul>
 
 <ul>

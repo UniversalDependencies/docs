@@ -22,7 +22,7 @@ The following 16 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 det	color:blue
-1	ئەمەلىيەتتە	ئەمەلىيەت	NOUN	N	Case=Loc	7	advmod	_	Translit=emeliyette
+1	ئەمەلىيەتتە	ئەمەلىيەت	NOUN	N	Case=Loc	7	obl	_	Translit=emeliyette
 2	مېنىڭ	مەن	PRON	P	Case=Gen|Number=Sing|Person=1|PronType=Prs	6	nmod:poss	_	Translit=mëning
 3	بۇ	بۇ	PRON	P	Case=Nom|PronType=Dem	5	det	_	Translit=bu
 4	قاباھەتلىك	قاباھەتلىك	NOUN	N	Case=Nom	5	amod	_	Translit=qabahetlik
@@ -65,7 +65,7 @@ The following 16 pairs of parts of speech are connected with `det`: <tt><a href=
 3	نەچچە	نەچچە	DET	P	_	4	det	_	Translit=nechche
 4	ياشقا	يا	VERB	N	Case=Dat|VerbForm=Ger	5	obl	_	Translit=yashqa
 5	كىردىڭىز	كىر	VERB	V	Mood=Ind|Number=Sing|Person=2|Polite=Form|Tense=Past|VerbForm=Fin	6	ccomp	_	Translit=kirdingiz
-6	دەمسىز	دە	VERB	T	Mood=Ind|Number=Sing|Person=2|Polite=Form|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=demsiz
+6	دەمسىز	دە	VERB	T	Aspect=Hab|Mood=Ind|Number=Sing|Person=2|Polite=Form|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=demsiz
 7	؟	؟	PUNCT	Y	_	6	punct	_	Translit=?
 
 ~~~

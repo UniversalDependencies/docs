@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of orphan in UD_Old_Russian-RNC'
+title:  'Statistics of orphan in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Relations: `orphan`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Relations: `orphan`
 
 This relation is universal.
 

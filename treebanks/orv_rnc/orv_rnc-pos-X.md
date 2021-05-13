@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of X in UD_Old_Russian-RNC'
+title:  'Statistics of X in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: POS Tags: `X`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: POS Tags: `X`
 
 There are 8 `X` lemmas (0%), 43 `X` types (1%) and 56 `X` tokens (0%).
 Out of 17 observed tags, the rank of `X` is: 14 in number of lemmas, 11 in number of types and 15 in number of tokens.
@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>л.</em> (<tt><a href="orv_rnc-pos-X.
 
 ## Morphology
 
-The form / lemma ratio of `X` is 5.375000 (the average of all parts of speech is 1.947446).
+The form / lemma ratio of `X` is 5.375000 (the average of all parts of speech is 1.947924).
 
 The 1st highest number of forms (36) was observed with the lemma “_”: <em>1, 10, 11, 12, 13, 14, 15, 3, 6, 7, 8, 9, {л._1_об.}, {л._254_об.}, {л._255_об.}, {л._255}, {л._256}, {л._300_об.}, {л._300}, {л._301_об.}, {л._302_об.}, {л._302}, {л._303}, {л._304_об.}, {л._304}, {л._305}, {л._306_об.}, {л._3}, {л._41}, {л._4}, {л._5}, {л._602_об.}, {л._602}, Помета, л., об.</em>.
 

@@ -59,7 +59,7 @@ The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 1	fgColor:white
 # visual-style 1 3 iobj	color:blue
 1	Kazał	kazać	VERB	praet:sg:m1:imperf	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|SubGender=Masc1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
-2	em	być	AUX	aglt:sg:pri:imperf:wok	Aspect=Imp|Number=Sing|Person=1|Variant=Long	1	aux:aglt	1:aux:aglt	_
+2	em	być	AUX	aglt:sg:pri:imperf:wok	Aspect=Imp|Number=Sing|Person=1|Variant=Long	1	aux:clitic	1:aux:clitic	_
 3	Mroczkowi	Mroczek	PROPN	subst:sg:dat:m1	Case=Dat|Gender=Masc|Number=Sing|SubGender=Masc1	1	iobj	1:iobj|4:nsubj	_
 4	zawiesić	zawiesić	VERB	inf:perf	Aspect=Perf|VerbForm=Inf|Voice=Act	1	xcomp	1:xcomp	_
 5	na	na	ADP	prep:loc	AdpType=Prep	6	case	6:case	Case=Loc

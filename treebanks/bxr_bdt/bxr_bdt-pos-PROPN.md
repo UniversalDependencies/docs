@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Buryat-BDT: POS Tags: `PROPN`
 
-There are 371 `PROPN` lemmas (14%), 441 `PROPN` types (10%) and 710 `PROPN` tokens (7%).
+There are 370 `PROPN` lemmas (14%), 440 `PROPN` types (10%) and 709 `PROPN` tokens (7%).
 Out of 16 observed tags, the rank of `PROPN` is: 3 in number of lemmas, 3 in number of types and 6 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>Байгал, Булад, Улаан-Үдэ, Цыпелма, Энэдхэг, Баяр, Матти, Дандар, Хойто, Баянгаза</em>
@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>Баянгаза</em> (<tt><a href="b
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.188679 (the average of all parts of speech is 1.635385).
+The form / lemma ratio of `PROPN` is 1.189189 (the average of all parts of speech is 1.633129).
 
 The 1st highest number of forms (5) was observed with the lemma “Цыпелма”: <em>Цыпелма, Цыпелмаае, Цыпелмагай, Цыпелмада, Цыпелмае</em>.
 
@@ -41,32 +41,32 @@ The 2nd highest number of forms (4) was observed with the lemma “_”: <em>А�
 
 The 3rd highest number of forms (4) was observed with the lemma “Лыгденов”: <em>Лыгденов, Лыгденовтэ, Лыгденовтэнэй, Лыгденовэй</em>.
 
-`PROPN` occurs with 6 features: <tt><a href="bxr_bdt-feat-Case.html">Case</a></tt> (701; 99% instances), <tt><a href="bxr_bdt-feat-Gender.html">Gender</a></tt> (380; 54% instances), <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt> (10; 1% instances), <tt><a href="bxr_bdt-feat-Reflex.html">Reflex</a></tt> (8; 1% instances), <tt><a href="bxr_bdt-feat-Number-psor.html">Number[psor]</a></tt> (2; 0% instances), <tt><a href="bxr_bdt-feat-Person-psor.html">Person[psor]</a></tt> (2; 0% instances)
+`PROPN` occurs with 6 features: <tt><a href="bxr_bdt-feat-Case.html">Case</a></tt> (700; 99% instances), <tt><a href="bxr_bdt-feat-Gender.html">Gender</a></tt> (380; 54% instances), <tt><a href="bxr_bdt-feat-Number.html">Number</a></tt> (10; 1% instances), <tt><a href="bxr_bdt-feat-Reflex.html">Reflex</a></tt> (8; 1% instances), <tt><a href="bxr_bdt-feat-Number-psor.html">Number[psor]</a></tt> (2; 0% instances), <tt><a href="bxr_bdt-feat-Person-psor.html">Person[psor]</a></tt> (2; 0% instances)
 
 `PROPN` occurs with 12 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Com`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number[psor]=Sing`, `Person[psor]=3`, `Reflex=Yes`
 
 `PROPN` occurs with 26 feature combinations.
-The most frequent feature combination is `Case=Nom` (194 tokens).
+The most frequent feature combination is `Case=Nom` (193 tokens).
 Examples: <em>Байгал, Энэдхэг, Хойто, Булад, Улаан-Үдэ, Баянгаза, Цыпелма, Баяр, Зүдхэлиин, Зүүн</em>
 
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 13 different relations: <tt><a href="bxr_bdt-dep-flat.html">flat</a></tt> (201; 28% instances), <tt><a href="bxr_bdt-dep-nmod.html">nmod</a></tt> (177; 25% instances), <tt><a href="bxr_bdt-dep-nsubj.html">nsubj</a></tt> (91; 13% instances), <tt><a href="bxr_bdt-dep-compound.html">compound</a></tt> (89; 13% instances), <tt><a href="bxr_bdt-dep-conj.html">conj</a></tt> (50; 7% instances), <tt><a href="bxr_bdt-dep-appos.html">appos</a></tt> (38; 5% instances), <tt><a href="bxr_bdt-dep-nmod-own.html">nmod:own</a></tt> (20; 3% instances), <tt><a href="bxr_bdt-dep-list.html">list</a></tt> (12; 2% instances), <tt><a href="bxr_bdt-dep-root.html">root</a></tt> (11; 2% instances), <tt><a href="bxr_bdt-dep-obj.html">obj</a></tt> (10; 1% instances), <tt><a href="bxr_bdt-dep-vocative.html">vocative</a></tt> (6; 1% instances), <tt><a href="bxr_bdt-dep-orphan.html">orphan</a></tt> (3; 0% instances), <tt><a href="bxr_bdt-dep-iobj.html">iobj</a></tt> (2; 0% instances)
+`PROPN` nodes are attached to their parents using 13 different relations: <tt><a href="bxr_bdt-dep-flat.html">flat</a></tt> (201; 28% instances), <tt><a href="bxr_bdt-dep-nmod.html">nmod</a></tt> (193; 27% instances), <tt><a href="bxr_bdt-dep-nsubj.html">nsubj</a></tt> (91; 13% instances), <tt><a href="bxr_bdt-dep-compound.html">compound</a></tt> (89; 13% instances), <tt><a href="bxr_bdt-dep-conj.html">conj</a></tt> (50; 7% instances), <tt><a href="bxr_bdt-dep-appos.html">appos</a></tt> (38; 5% instances), <tt><a href="bxr_bdt-dep-list.html">list</a></tt> (12; 2% instances), <tt><a href="bxr_bdt-dep-root.html">root</a></tt> (12; 2% instances), <tt><a href="bxr_bdt-dep-obj.html">obj</a></tt> (10; 1% instances), <tt><a href="bxr_bdt-dep-vocative.html">vocative</a></tt> (6; 1% instances), <tt><a href="bxr_bdt-dep-orphan.html">orphan</a></tt> (3; 0% instances), <tt><a href="bxr_bdt-dep-iobj.html">iobj</a></tt> (2; 0% instances), <tt><a href="bxr_bdt-dep-obl.html">obl</a></tt> (2; 0% instances)
 
-Parents of `PROPN` nodes belong to 7 different parts of speech: <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (286; 40% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (257; 36% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (132; 19% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (20; 3% instances),  (11; 2% instances), <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="bxr_bdt-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances)
+Parents of `PROPN` nodes belong to 6 different parts of speech: <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (284; 40% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (258; 36% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (132; 19% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (20; 3% instances),  (12; 2% instances), <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> (3; 0% instances)
 
-332 (47%) `PROPN` nodes are leaves.
+322 (45%) `PROPN` nodes are leaves.
 
-299 (42%) `PROPN` nodes have one child.
+271 (38%) `PROPN` nodes have one child.
 
-60 (8%) `PROPN` nodes have two children.
+88 (12%) `PROPN` nodes have two children.
 
-19 (3%) `PROPN` nodes have three or more children.
+28 (4%) `PROPN` nodes have three or more children.
 
-The highest child degree of a `PROPN` node is 10.
+The highest child degree of a `PROPN` node is 9.
 
-Children of `PROPN` nodes are attached using 19 different relations: <tt><a href="bxr_bdt-dep-flat.html">flat</a></tt> (219; 44% instances), <tt><a href="bxr_bdt-dep-punct.html">punct</a></tt> (101; 20% instances), <tt><a href="bxr_bdt-dep-conj.html">conj</a></tt> (50; 10% instances), <tt><a href="bxr_bdt-dep-compound.html">compound</a></tt> (22; 4% instances), <tt><a href="bxr_bdt-dep-nmod.html">nmod</a></tt> (21; 4% instances), <tt><a href="bxr_bdt-dep-cc.html">cc</a></tt> (19; 4% instances), <tt><a href="bxr_bdt-dep-appos.html">appos</a></tt> (14; 3% instances), <tt><a href="bxr_bdt-dep-list.html">list</a></tt> (12; 2% instances), <tt><a href="bxr_bdt-dep-acl.html">acl</a></tt> (10; 2% instances), <tt><a href="bxr_bdt-dep-amod.html">amod</a></tt> (6; 1% instances), <tt><a href="bxr_bdt-dep-discourse.html">discourse</a></tt> (5; 1% instances), <tt><a href="bxr_bdt-dep-orphan.html">orphan</a></tt> (3; 1% instances), <tt><a href="bxr_bdt-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="bxr_bdt-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="bxr_bdt-dep-det.html">det</a></tt> (2; 0% instances), <tt><a href="bxr_bdt-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="bxr_bdt-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-dep-nummod.html">nummod</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+Children of `PROPN` nodes are attached using 19 different relations: <tt><a href="bxr_bdt-dep-flat.html">flat</a></tt> (219; 40% instances), <tt><a href="bxr_bdt-dep-punct.html">punct</a></tt> (155; 28% instances), <tt><a href="bxr_bdt-dep-conj.html">conj</a></tt> (50; 9% instances), <tt><a href="bxr_bdt-dep-compound.html">compound</a></tt> (22; 4% instances), <tt><a href="bxr_bdt-dep-nmod.html">nmod</a></tt> (21; 4% instances), <tt><a href="bxr_bdt-dep-cc.html">cc</a></tt> (19; 3% instances), <tt><a href="bxr_bdt-dep-appos.html">appos</a></tt> (14; 3% instances), <tt><a href="bxr_bdt-dep-list.html">list</a></tt> (12; 2% instances), <tt><a href="bxr_bdt-dep-acl.html">acl</a></tt> (10; 2% instances), <tt><a href="bxr_bdt-dep-amod.html">amod</a></tt> (6; 1% instances), <tt><a href="bxr_bdt-dep-discourse.html">discourse</a></tt> (5; 1% instances), <tt><a href="bxr_bdt-dep-nsubj.html">nsubj</a></tt> (3; 1% instances), <tt><a href="bxr_bdt-dep-orphan.html">orphan</a></tt> (3; 1% instances), <tt><a href="bxr_bdt-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="bxr_bdt-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="bxr_bdt-dep-det.html">det</a></tt> (2; 0% instances), <tt><a href="bxr_bdt-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-dep-nummod.html">nummod</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Children of `PROPN` nodes belong to 10 different parts of speech: <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (257; 52% instances), <tt><a href="bxr_bdt-pos-PUNCT.html">PUNCT</a></tt> (102; 21% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (77; 16% instances), <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> (19; 4% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (14; 3% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (10; 2% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Children of `PROPN` nodes belong to 11 different parts of speech: <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (258; 47% instances), <tt><a href="bxr_bdt-pos-PUNCT.html">PUNCT</a></tt> (155; 28% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (78; 14% instances), <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> (19; 3% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (13; 2% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (10; 2% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="bxr_bdt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 

@@ -48,7 +48,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 4058 <tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> tokens (82% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=3</tt> (3021; 74%), <tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2402; 59%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=3</tt> (3020; 74%), <tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2402; 59%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
@@ -63,6 +63,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt>_</tt></td><td></td><td></td><td></td><td><em>fiind, nefiind</em></td></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>fost</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sunt</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_simonero-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>esti</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>era</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>este, e</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ro_simonero-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>i</em></td><td></td><td></td><td></td></tr>
@@ -70,7 +71,6 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><tt><a href="ro_simonero-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sunteți</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>erau</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sunt</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ro_simonero-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>esti</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>fii</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>fim</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_simonero-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>fie, ﬁe</em></td><td></td><td></td><td></td></tr>
@@ -81,8 +81,8 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> VERB</tt> (587; 75%),
-<tt>AUX --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> VERB</tt> (4; 67%),
+<tt>VERB --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> VERB</tt> (586; 75%),
+<tt>AUX --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> VERB</tt> (5; 71%),
 <tt>VERB --[<tt><a href="ro_simonero-dep-appos.html">appos</a></tt>]--> VERB</tt> (4; 67%),
 <tt>VERB --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> AUX</tt> (3; 100%),
 <tt>VERB --[<tt><a href="ro_simonero-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (2; 67%),

@@ -25,10 +25,10 @@ The following 10 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 7 6 acl	color:blue
 1	Du	du	NUM	CD	Case=Nom|Gender=Masc	2	nummod	_	En=two
 2	sodiečiai	sodietis	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	En=farmer
-3	sėdi	sėdėti	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	En=sit
+3	sėdi	sėdėti	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	En=sit
 4	ant	ant	ADP	UH	_	8	case	_	En=on
 5	potvynio	potvynis	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	En=flood
-6	apsemtų	apsemti	VERB	VBNL	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|Polarity=Pos|Reflex=No|Tense=Past|VerbForm=Part|Voice=Pass	7	acl	_	En=submerged
+6	apsemtų	apsemti	VERB	VBNL	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	7	acl	_	En=submerged
 7	namų	namai	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	8	nmod	_	En=house
 8	stogo	stogas	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	3	obl	_	En=roof|SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	3	punct	_	En=.
@@ -43,7 +43,7 @@ The following 10 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 7	fgColor:white
 # visual-style 7 9 acl	color:blue
 1	Tai	tai	PRON	DT	_	7	nsubj	_	En=this
-2	buvo	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	En=be
+2	buvo	būti	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	En=be
 3	tiesiog	tiesiog	ADV	RB	Degree=Pos	4	advmod	_	En=just
 4	sudėtingesnė	sudėtingas	ADJ	JJR	Case=Nom|Definite=Ind|Degree=Cmp|Gender=Fem|Number=Sing	7	amod	_	En=complex
 5	tautinės	tautinis	ADJ	JJL	Case=Gen|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	En=ethnic
@@ -67,7 +67,7 @@ The following 10 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 18	bgColor:blue
 # visual-style 18	fgColor:white
 # visual-style 18 17 acl	color:blue
-1	Žinoma	žinoti	VERB	VBNH	Definite=Ind|Gender=Neut|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Part|Voice=Pass	5	parataxis	_	En=of_course|SpaceAfter=No
+1	Žinoma	žinoti	VERB	VBNH	Definite=Ind|Gender=Neut|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	5	parataxis	_	En=of_course|SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	1	punct	_	En=,
 3	tai	tai	PRON	DT	_	5	nsubj	_	En=this
 4	tinkamiausias	tinkamas	ADJ	JJS	Case=Nom|Definite=Ind|Degree=Sup|Gender=Masc|Number=Sing	5	amod	_	En=suitable
@@ -78,12 +78,12 @@ The following 10 pairs of parts of speech are connected with `acl`: <tt><a href=
 9	savo	savo	DET	PRP$	_	11	det	_	En=one's
 10	sąmoningą	sąmoningas	ADJ	JJL	Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	En=sharp,smart
 11	gyvenimą	gyvenimas	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	12	obl	_	En=life
-12	pasisakydavau	pasisakyti	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Reflex=Yes|Tense=PastIter|VerbForm=Fin|Voice=Act	5	parataxis	_	En=speak
+12	pasisakydavau	pasisakyti	VERB	VBC	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Reflex=Yes|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	En=speak
 13	ir	ir	CCONJ	CC	_	15	cc	_	En=and
 14	dabar	dabar	ADV	RB	Degree=Pos	15	advmod	_	En=now
-15	pasisakau	pasisakyti	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	En=say
+15	pasisakau	pasisakyti	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	En=say
 16	už	už	ADP	UH	_	18	case	_	En=for
-17	nepriklausomą	nepriklausyti	VERB	VBNL	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|Polarity=Neg|Reflex=No|Tense=Pres|VerbForm=Part|Voice=Pass	18	acl	_	En=substantive
+17	nepriklausomą	nepriklausyti	VERB	VBNL	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Pres|VerbForm=Part|Voice=Pass	18	acl	_	En=substantive
 18	Lietuvą	Lietuva	PROPN	NNP	Case=Acc|Gender=Fem|Number=Sing	12	obl	_	En=Lithuania|SpaceAfter=No
 19	.	.	PUNCT	PUNCT	_	5	punct	_	En=.
 

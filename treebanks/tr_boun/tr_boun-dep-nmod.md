@@ -45,7 +45,7 @@ The following 52 pairs of parts of speech are connected with `nmod`: <tt><a href
 3	etsek	et	VERB	Verb	Mood=Des|Number=Plur|Person=1|Polarity=Pos	6	nmod	_	_
 4	bizi	biz	PRON	Pers	Case=Acc|Number=Plur|Person=1	6	obj	_	_
 5	tımarhaneye	tımarhane	NOUN	Noun	Case=Dat|Number=Sing|Person=3	6	obl	_	_
-6	atarlar	at	VERB	Verb	Aspect=Hab|Number=Plur|Person=3|Polarity=Pos|Tense=Aor	0	root	_	SpaceAfter=No
+6	atarlar	at	VERB	Verb	Aspect=Hab|Number=Plur|Person=3|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	Punc	_	6	punct	_	SpacesAfter=\n
 
 ~~~

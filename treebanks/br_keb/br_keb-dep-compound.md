@@ -41,7 +41,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 14 compound	color:blue
-1	Ezel	ezel	NOUN	n	Gender=Masc|Number=Sing	11	nsubj:appos	_	_
+1	Ezel	ezel	NOUN	n	Gender=Masc|Number=Sing	11	nsubj	_	_
 2	eus	eus	ADP	pr	_	3	case	_	_
 3	Kevredigezh	kevredigezh	NOUN	n	Gender=Fem|Number=Sing	1	nmod	_	_
 4	al	an	DET	det	_	5	det	_	_
@@ -67,7 +67,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 19	fgColor:white
 # visual-style 19 18 compound	color:blue
 1	Ma'z	ma	SCONJ	cnjsub	_	2	mark	_	_
-2	ouzhpenner	ouzhpennañ	VERB	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	16	advcl	_	_
+2	ouzhpenner	ouzhpennañ	VERB	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	16	advcl	_	_
 3	ar	an	DET	det	_	4	det	_	_
 4	familh	familh	NOUN	n	Gender=Fem|Number=Sing	2	obj	_	_
 5	hag	ha	CCONJ	cnjcoo	_	7	cc	_	_
@@ -81,7 +81,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 13	amzer	amzer	NOUN	n	Gender=Fem|Number=Sing	11	nmod:gen	_	SpaceAfter=No
 14	,	,	PUNCT	cm	_	9	punct	_	_
 15	e	e	AUX	vpart	_	16	aux	_	_
-16	tizher	tizhout	VERB	vblex	Mood=Ind|Person=Auto|Tense=Pres|VerbForm=Fin	0	root	_	_
+16	tizher	tizhout	VERB	vblex	Mood=Ind|Person=0|Tense=Pres|VerbForm=Fin	0	root	_	_
 17	e-tro	e-tro	ADP	pr	_	20	case	_	_
 18	3	3	NUM	num	Number=Plur	19	compound	_	_
 19	milion	milion	NOUN	n	Gender=Masc|Number=Sing	20	nummod	_	_

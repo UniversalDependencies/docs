@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of NumForm in UD_Old_Russian-RNC'
+title:  'Statistics of NumForm in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Features: `NumForm`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Features: `NumForm`
 
 This feature is language-specific.
 It occurs with 3 different values: `Cyril`, `Digit`, `Roman`.

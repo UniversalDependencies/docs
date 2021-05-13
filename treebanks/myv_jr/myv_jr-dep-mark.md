@@ -38,7 +38,7 @@ The following 16 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 9 8 mark	color:blue
 1	Зярдо	зярдо	ADV	Adv	AdvType=Tim|PronType=Int	4	advmod:tmod	_	GTtags=Interr,Sem/Time
 2	уш	уш	ADV	Adv	AdvType=Tim	1	advmod:tmod	_	GTtags=Sem/Time
-3	ансяк	ансяк	ADV	Adv	_	4	advmod	_	_
+3	ансяк	ансяк	ADV	Adv	_	4	advmod:foc	_	_
 4	сы	самс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,ScSg3
 5	те	те	DET	Det	Case=Nom|Definite=Ind|Number=Sing	6	det	_	GTtags=Sg,Nom,Indef
 6	шкась	шка	NOUN	N	Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	GTtags=Sg,Nom,Def|SpaceAfter=No
@@ -66,7 +66,7 @@ The following 16 pairs of parts of speech are connected with `mark`: <tt><a href
 6	весе	весе	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Tot	7	nsubj:cop	_	GTtags=Tot,Sg,Nom,Indef
 7	каразь	карамс	VERB	V	Derivation=Ozj|VerbForm=Conv	4	parataxis	_	GTtags=Der/Озь,Ger|SpaceAfter=No
 8	,	,	PUNCT	CLB	_	10	punct	_	_
-9	каштом-латко	каштом-латко	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	10	nmod:part	_	GTtags=Sem/Inanim_Cnt,Sg,Nom,Indef
+9	каштом-латко	каштом-латко	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	10	nmod	_	GTtags=Sem/Inanim_Cnt,Sg,Nom,Indef
 10	потсо	потмо	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	7	appos	_	GTtags=Sem/Inanim_Cnt,SP,Ine,Indef|SpaceAfter=No
 11	.	.	PUNCT	CLB	_	4	punct	_	_
 

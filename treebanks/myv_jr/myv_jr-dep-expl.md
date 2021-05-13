@@ -54,7 +54,7 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 4 1 expl	color:blue
 1	Те	те	DET	Det	Number=Sing|PronType=Dem	4	expl	_	GTtags=Dem,Sg
 2	таго	таго	ADV	Adv	AdvType=Tim	1	advmod:tmod	_	GTtags=Temp
-3	нать	нать	ADV	Adv	_	1	advmod	_	GTtags=Parenthetic
+3	нать	нать	ADV	Adv	_	1	advmod:eval	_	GTtags=Parenthetic
 4	ускить	ускомс	VERB	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|Valency=2	0	root	_	GTtags=TV,Ind,Prs,ScPl3
 5	Колчакнэнь	Колчак	PROPN	N	Case=Dat|Definite=Ind|NameType=Sur|Number=Plur,Sing	4	obl	_	GTtags=Prop,SP,Dat,Indef
 6	оружия	оружия	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	4	obj	_	GTtags=Sg,Nom,Indef
@@ -62,7 +62,7 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 8	снарежения	снарежения	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	4	obj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	13	punct	_	_
 10	а	а	CCONJ	CC	_	13	cc	_	_
-11	можот	можот	ADV	Adv	_	13	advmod:mmod	_	_
+11	можот	можот	ADV	Adv	_	13	advmod:eval	_	_
 12	розорязь	розорямс	VERB	V	Derivation=Ozj|Valency=1|VerbForm=Conv	13	advcl	_	GTtags=IV,Der/Озь,Ger
 13	велестэ	веле	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	1	conj	_	GTtags=Sem/Plc,SP,Ela,Indef
 14	атят	атя	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	13	nsubj	_	GTtags=Pl,Nom,Indef

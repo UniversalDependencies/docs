@@ -65,7 +65,7 @@ The following 20 pairs of parts of speech are connected with `advmod`: <tt><a hr
 7	дастъ	дати	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.31
 8	еи	и	PRON	Pp	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	iobj	_	ref=MATT_5.31
 9	кънигꙑ	кънигꙑ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	7	obj	_	ref=MATT_5.31
-10	распоустънꙑѩ	распоустьнъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem,Masc|Number=Plur|Strength=Weak	9	amod	_	ref=MATT_5.31
+10	распоустънꙑѩ	распоустьнъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem,Masc|Number=Plur	9	amod	_	ref=MATT_5.31
 
 ~~~
 

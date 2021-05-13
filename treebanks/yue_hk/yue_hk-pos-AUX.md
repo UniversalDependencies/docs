@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Cantonese-HK: POS Tags: `AUX`
 
-There are 29 `AUX` lemmas (3%), 33 `AUX` types (2%) and 563 `AUX` tokens (4%).
-Out of 15 observed tags, the rank of `AUX` is: 8 in number of lemmas, 11 in number of types and 7 in number of tokens.
+There are 28 `AUX` lemmas (3%), 33 `AUX` types (2%) and 563 `AUX` tokens (4%).
+Out of 15 observed tags, the rank of `AUX` is: 9 in number of lemmas, 11 in number of types and 7 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: _、 咗、 係、 要、 唔好、 過、 冇、 可以、 會、 中意
 
 The 10 most frequent `AUX` types:  係、 咗、 可以、 要、 能夠、 會、 想、 應該、 冇、 過
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> 1377, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 1352, <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> 1283, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 853, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 764, <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 662, <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 335, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 217, <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> 209, <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> 140, <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> 124, <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 101, <tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 93, <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 92, <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 52), 係 (<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 65, <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 43, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 1), 要 (<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 25, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 4), 過 (<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 12, <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> 2, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 1), 冇 (<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 37, <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 11), 中意 (<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 8, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 5), 想 (<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 6, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 1), 唔使 (<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 5, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 2), 得 (<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 16, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 4, <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 4, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 2), 有 (<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 65, <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 4)
+The 10 most frequent ambiguous lemmas: _ (<tt><a href="yue_hk-pos-PUNCT.html">PUNCT</a></tt> 1377, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 1352, <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> 1283, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 853, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 764, <tt><a href="yue_hk-pos-PRON.html">PRON</a></tt> 662, <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 335, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 217, <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> 209, <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> 140, <tt><a href="yue_hk-pos-NUM.html">NUM</a></tt> 124, <tt><a href="yue_hk-pos-SCONJ.html">SCONJ</a></tt> 101, <tt><a href="yue_hk-pos-CCONJ.html">CCONJ</a></tt> 93, <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 92, <tt><a href="yue_hk-pos-PROPN.html">PROPN</a></tt> 52), 係 (<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 65, <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 44, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 1), 要 (<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 25, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 4), 過 (<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 12, <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> 2, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 1), 冇 (<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 37, <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 11), 中意 (<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 8, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 5), 想 (<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 6, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 1), 唔使 (<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 5, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 2), 得 (<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 16, <tt><a href="yue_hk-pos-ADV.html">ADV</a></tt> 4, <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 4, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 2), 有 (<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 65, <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 4)
 
 The 10 most frequent ambiguous types:  係 (<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 312, <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 99, <tt><a href="yue_hk-pos-DET.html">DET</a></tt> 1), 要 (<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 55, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 6), 會 (<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 29, <tt><a href="yue_hk-pos-NOUN.html">NOUN</a></tt> 2), 想 (<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 28, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 2), 冇 (<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 72, <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 18), 過 (<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 17, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 4, <tt><a href="yue_hk-pos-ADP.html">ADP</a></tt> 2), 有 (<tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 124, <tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 10), 緊 (<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 9, <tt><a href="yue_hk-pos-ADJ.html">ADJ</a></tt> 1), 中意 (<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 8, <tt><a href="yue_hk-pos-VERB.html">VERB</a></tt> 5), 可 (<tt><a href="yue_hk-pos-AUX.html">AUX</a></tt> 8, <tt><a href="yue_hk-pos-INTJ.html">INTJ</a></tt> 4, <tt><a href="yue_hk-pos-PART.html">PART</a></tt> 1)
 
@@ -54,13 +54,13 @@ The 10 most frequent ambiguous types:  係 (<tt><a href="yue_hk-pos-VERB.html">V
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 1.137931 (the average of all parts of speech is 1.622766).
+The form / lemma ratio of `AUX` is 1.178571 (the average of all parts of speech is 1.624294).
 
 The 1st highest number of forms (25) was observed with the lemma “_”: 住, 係, 倒, 冇, 可, 可以, 可能, 咗, 唔使, 唔好, 好, 希望, 得, 必須, 想, 應該, 是, 會, 有, 緊, 能, 能夠, 要, 過, 需要.
 
-The 2nd highest number of forms (1) was observed with the lemma “中意”: 中意.
+The 2nd highest number of forms (2) was observed with the lemma “係”: 係, 係咪.
 
-The 3rd highest number of forms (1) was observed with the lemma “住”: 住.
+The 3rd highest number of forms (1) was observed with the lemma “中意”: 中意.
 
 `AUX` does not occur with any features.
 

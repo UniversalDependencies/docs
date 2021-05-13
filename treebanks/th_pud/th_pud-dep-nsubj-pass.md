@@ -31,8 +31,8 @@ The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 7	ระบบ	_	NOUN	NN	_	12	nsubj:pass	_	SpaceAfter=No
 8	ที่	_	NOUN	NN	_	7	compound	_	SpaceAfter=No
 9	สาม	_	NUM	CD	_	8	nummod	_	SpaceAfter=No
-10	ได้	_	PART	AS	Aspect=Perf	12	aux	_	SpaceAfter=No
-11	ถูก	_	VERB	MD	Voice=Pass	12	aux:pass	_	SpaceAfter=No
+10	ได้	_	AUX	AS	Aspect=Perf	12	aux	_	SpaceAfter=No
+11	ถูก	_	AUX	MD	Voice=Pass	12	aux:pass	_	SpaceAfter=No
 12	นำ	_	VERB	VV	_	0	root	_	SpaceAfter=No
 13	มา	_	PART	RP	_	12	compound:prt	_	SpaceAfter=No
 14	ใช้	_	VERB	VV	_	12	xcomp	_	SpaceAfter=No
@@ -48,7 +48,7 @@ The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 3	fgColor:white
 # visual-style 3 1 nsubj:pass	color:blue
 1	ซีซาร์	_	PROPN	NNP	_	3	nsubj:pass	_	SpaceAfter=No
-2	ได้รับ	_	VERB	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No
+2	ได้รับ	_	AUX	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No
 3	แจ้ง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 4	ถึง	_	ADP	IN	_	5	case	_	SpaceAfter=No
 5	การกระทำ	_	VERB	VV	_	3	obl	_	SpaceAfter=No
@@ -74,7 +74,7 @@ The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 3	fgColor:white
 # visual-style 3 1 nsubj:pass	color:blue
 1	เธอ	_	PRON	PRP	Person=3	3	nsubj:pass	_	SpaceAfter=No
-2	ถูก	_	VERB	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No
+2	ถูก	_	AUX	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No
 3	ตั้ง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 4	ข้อหา	_	NOUN	NN	_	3	obj	_	SpaceAfter=No
 5	ฐาน	_	ADP	IN	_	6	mark	_	SpaceAfter=No

@@ -29,12 +29,12 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>sal</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td><em>salê</em></td><td><em>salan</em></td></tr>
+  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td><em>salan</em></td></tr>
+  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Ind</tt></tt></td><td><em>salekê</em></td><td></td></tr>
   <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Con</tt>|<tt><a href="kmr_mg-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td><em>sala</em></td><td><em>salên</em></td></tr>
   <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Con</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Ind</tt></tt></td><td></td><td><em>saline</em></td></tr>
   <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kmr_mg-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td><em>sal</em></td><td><em>sal</em></td></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Obl</tt>|<tt><a href="kmr_mg-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td><em>salê</em></td><td><em>salan</em></td></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Obl</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td><em>salan</em></td></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Obl</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Ind</tt></tt></td><td><em>salekê</em></td><td></td></tr>
 </table>
 
 ### `VERB`
@@ -74,7 +74,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 866 <tt><a href="kmr_mg-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (759; 88%), <tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt> (718; 83%), <tt><a href="kmr_mg-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (647; 75%), <tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Obl</tt> (437; 50%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (759; 88%), <tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt> (718; 83%), <tt><a href="kmr_mg-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (647; 75%), <tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt> (437; 50%).
 
 `PRON` tokens may have the following values of `Number`:
 
@@ -85,20 +85,20 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>ew</i></th><th><tt>Plur,Sing</tt></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="kmr_mg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>wî, ewî, wi</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td><em>_</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="kmr_mg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>_</em></td><td><em>wan</em></td></tr>
+  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td><em>_</em></td><td><em>wan</em></td></tr>
+  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="kmr_mg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>wê, we, _</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td><em>_</em></td><td></td></tr>
   <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="kmr_mg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ew</em></td><td><em>ew, Eve</em></td><td><em>ew</em></td></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Obl</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="kmr_mg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>wî, ewî, wi</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Obl</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td><em>_</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Obl</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="kmr_mg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>_</em></td><td><em>wan</em></td></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Obl</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td><em>_</em></td><td><em>wan</em></td></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Obl</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="kmr_mg-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>wê, we, _</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Obl</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="kmr_mg-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td><em>_</em></td><td></td></tr>
 </table>
 
 ### `PROPN`
 
 440 <tt><a href="kmr_mg-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="kmr_mg-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (265; 60%), <tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Obl</tt> (255; 58%), <tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (237; 54%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="kmr_mg-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (265; 60%), <tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt> (255; 58%), <tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (237; 54%).
 
 `PROPN` tokens may have the following values of `Number`:
 
@@ -157,10 +157,10 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 <table>
   <tr><th>Paradigm <i>ev</i></th><th><tt>Plur,Sing</tt></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>vî</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt></tt></td><td></td><td></td><td><em>van</em></td></tr>
+  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td><em>vê</em></td><td></td></tr>
   <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt></tt></td><td><em>ev</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Obl</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>vî</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Obl</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt></tt></td><td></td><td></td><td><em>van</em></td></tr>
-  <tr><td><tt><tt><a href="kmr_mg-feat-Case.html">Case</a></tt><tt>=Obl</tt>|<tt><a href="kmr_mg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td><em>vê</em></td><td></td></tr>
 </table>
 
 ### `NUM`
@@ -199,7 +199,7 @@ The most frequent other feature values with which `ADP` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>VERB --[<tt><a href="kmr_mg-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (357; 58%),
+<tt>VERB --[<tt><a href="kmr_mg-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (359; 58%),
 <tt>NOUN --[<tt><a href="kmr_mg-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (318; 70%),
 <tt>VERB --[<tt><a href="kmr_mg-dep-obj.html">obj</a></tt>]--> NOUN</tt> (203; 77%),
 <tt>VERB --[<tt><a href="kmr_mg-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (170; 63%),

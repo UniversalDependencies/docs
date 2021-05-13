@@ -27,7 +27,7 @@ The following 7 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 3	클린턴의	클린턴	PROPN	NNP+CM	Case=Gen|Polite=Form	6	nmod:poss	_	MSeg=클린턴-의|Translit=.keul.rin.teon.yi|LTranslit=.keul.rin.teon
 4	거액의	거액	NOUN	NN+CM	Case=Gen|Polite=Form	6	nmod:poss	_	MSeg=거액-의|Translit=.geo.aeg.yi|LTranslit=.geo.aeg
 5	은행	_	NOUN	NN	_	6	compound	_	Translit=.eun.haeng|LTranslit=_
-6	계좌에서	계좌	NOUN	NN+CM	Case=Advb|Polite=Form	7	advmod	_	MSeg=계좌-에서|Translit=.gye.jwa.e.seo|LTranslit=.gye.jwa
+6	계좌에서	계좌	NOUN	NN+CM	Polite=Form	7	advmod	_	MSeg=계좌-에서|Translit=.gye.jwa.e.seo|LTranslit=.gye.jwa
 7	충당되었다	_	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=.chung.dang.doe.eoss.da|LTranslit=_
 8	.	.	PUNCT	.	_	7	punct	_	Translit=.|LTranslit=_
 
@@ -45,7 +45,7 @@ The following 7 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 3	클린턴의	클린턴	PROPN	NNP+CM	Case=Gen|Polite=Form	6	nmod:poss	_	MSeg=클린턴-의|Translit=.keul.rin.teon.yi|LTranslit=.keul.rin.teon
 4	거액의	거액	NOUN	NN+CM	Case=Gen|Polite=Form	6	nmod:poss	_	MSeg=거액-의|Translit=.geo.aeg.yi|LTranslit=.geo.aeg
 5	은행	_	NOUN	NN	_	6	compound	_	Translit=.eun.haeng|LTranslit=_
-6	계좌에서	계좌	NOUN	NN+CM	Case=Advb|Polite=Form	7	advmod	_	MSeg=계좌-에서|Translit=.gye.jwa.e.seo|LTranslit=.gye.jwa
+6	계좌에서	계좌	NOUN	NN+CM	Polite=Form	7	advmod	_	MSeg=계좌-에서|Translit=.gye.jwa.e.seo|LTranslit=.gye.jwa
 7	충당되었다	_	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=.chung.dang.doe.eoss.da|LTranslit=_
 8	.	.	PUNCT	.	_	7	punct	_	Translit=.|LTranslit=_
 
@@ -63,7 +63,7 @@ The following 7 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 3	중	_	NOUN	NNB	_	5	compound	_	Translit=.jung|LTranslit=_
 4	한	_	DET	DT	_	5	nummod	_	Translit=.han|LTranslit=_
 5	명이	명	NOUN	NNB+CM	Case=Nom|Polite=Form	8	nsubj	_	MSeg=명-이|Translit=.myeong.i|LTranslit=.myeong
-6	처음으로	처음	NOUN	NN+CM	Case=Advb|Polite=Form	8	advmod	_	MSeg=처음-으로|Translit=.cheo.eum.eu.ro|LTranslit=.cheo.eum
+6	처음으로	처음	NOUN	NN+CM	Polite=Form	8	advmod	_	MSeg=처음-으로|Translit=.cheo.eum.eu.ro|LTranslit=.cheo.eum
 7	울기	_	VERB	VV	VerbForm=Ger	8	ccomp	_	Translit=.ul.gi|LTranslit=_
 8	시작했고	_	NOUN	NN	_	15	advcl	_	SpaceAfter=No|Translit=.si.jag.haess.go|LTranslit=_
 9	그	_	DET	DT	_	10	det	_	Translit=.geu|LTranslit=_

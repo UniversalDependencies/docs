@@ -51,5 +51,5 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> VERB</tt> (1523; 66%).
+<tt>VERB --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> VERB</tt> (1524; 66%).
 

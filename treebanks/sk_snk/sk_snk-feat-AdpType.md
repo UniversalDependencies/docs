@@ -7,20 +7,20 @@ udver: '2'
 ## Treebank Statistics: UD_Slovak-SNK: Features: `AdpType`
 
 This feature is language-specific.
-It occurs with 3 different values: `Prep`, `Preppron`, `Voc`.
+It occurs with 2 different values: `Prep`, `Voc`.
 
 8612 tokens (8%) have a non-empty value of `AdpType`.
-135 types (1%) occur at least once with a non-empty value of `AdpType`.
-70 lemmas (0%) occur at least once with a non-empty value of `AdpType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> (8558; 8% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (54; 0% instances).
+126 types (0%) occur at least once with a non-empty value of `AdpType`.
+60 lemmas (0%) occur at least once with a non-empty value of `AdpType`.
+The feature is used with 1 part-of-speech tags: <tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> (8612; 8% instances).
 
 ### `ADP`
 
-8558 <tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `AdpType`.
+8612 <tt><a href="sk_snk-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `AdpType`.
 
 `ADP` tokens may have the following values of `AdpType`:
 
-* `Prep` (8102; 95% of non-empty `AdpType`): <em>na, v, do, s, z, o, po, za, k, od</em>
+* `Prep` (8156; 95% of non-empty `AdpType`): <em>na, v, do, s, z, o, po, za, k, od</em>
 * `Voc` (456; 5% of non-empty `AdpType`): <em>vo, so, zo, ku, nado, odo, predo, bezo, podo</em>
 
 <table>
@@ -28,18 +28,6 @@ The feature is used with 2 part-of-speech tags: <tt><a href="sk_snk-pos-ADP.html
   <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>v</em></td><td><em>vo</em></td></tr>
   <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>v</em></td><td><em>vo</em></td></tr>
 </table>
-
-### `PRON`
-
-54 <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `AdpType`.
-
-The most frequent other feature values with which `PRON` and `AdpType` co-occurred: <tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (54; 100%), <tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (54; 100%), <tt><a href="sk_snk-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (54; 100%), <tt><a href="sk_snk-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (54; 100%), <tt><a href="sk_snk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (52; 96%), <tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Acc</tt> (45; 83%), <tt><a href="sk_snk-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (39; 72%).
-
-`PRON` tokens may have the following values of `AdpType`:
-
-* `Preppron` (54; 100% of non-empty `AdpType`): <em>naňho, naň, doň, preňho, doňho, uňho, oňho, poňho, zaňho</em>
-
-`AdpType` seems to be **lexical feature** of `PRON`. 100% lemmas (10) occur only with one value of `AdpType`.
 
 ## Relations with Agreement in `AdpType`
 

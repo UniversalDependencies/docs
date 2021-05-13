@@ -20,7 +20,7 @@ The feature is used with 7 part-of-speech tags: <tt><a href="ug_udt-pos-NOUN.htm
 
 2311 <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> tokens (16% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="ug_udt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt> (2064; 89%), <tt><a href="ug_udt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1190; 51%).
+The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="ug_udt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt> (2064; 89%), <tt><a href="ug_udt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1189; 51%).
 
 `NOUN` tokens may have the following values of `Person[psor]`:
 
@@ -125,7 +125,7 @@ The most frequent other feature values with which `NUM` and `Person[psor]` co-oc
 
 4 <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `AUX` and `Person[psor]` co-occurred: <tt><a href="ug_udt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ug_udt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ug_udt-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (4; 100%).
+The most frequent other feature values with which `AUX` and `Person[psor]` co-occurred: <tt><a href="ug_udt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ug_udt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ug_udt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ug_udt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ug_udt-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (4; 100%).
 
 `AUX` tokens may have the following values of `Person[psor]`:
 

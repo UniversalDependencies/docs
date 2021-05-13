@@ -23,15 +23,15 @@ The following 1 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 6 list	color:blue
 1	Ni	ni	PART	focprt	_	2	dep:mod	_	not.even
-2	ndaipovei	ipo	VERB	inact	Mood=Ind|Polarity=Neg|Subcat=Int|VerbForm=Inf	0	root	_	NEG-be-more-NEG
+2	ndaipovei	ipo	VERB	inact	Mood=Ind|Polarity=Neg|Subcat=Intr|VerbForm=Inf	0	root	_	NEG-be-more-NEG
 3	ma	ma	PART	aspprt	_	2	dep:mod	_	ASP
 4	tatu	tatu	NOUN	n	_	2	nsubj	_	armadillo
 5	,	,	PUNCT	punct	_	6	punct	_	_
-6	ndaipovei	ipo	VERB	inact	Mood=Ind|Polarity=Neg|Subcat=Int|VerbForm=Inf	2	list	_	NEG-be-more-NEG
+6	ndaipovei	ipo	VERB	inact	Mood=Ind|Polarity=Neg|Subcat=Intr|VerbForm=Inf	2	list	_	NEG-be-more-NEG
 7	ma	ma	PART	aspprt	_	6	dep:mod	_	ASP
 8	kochi	kochi	NOUN	n	_	6	nsubj	_	boar
 9	,	,	PUNCT	punct	_	10	punct	_	_
-10	ndaipovei	ipo	VERB	inact	Mood=Ind|Polarity=Neg|Subcat=Int|VerbForm=Inf	2	list	_	NEG-be-more-NEG
+10	ndaipovei	ipo	VERB	inact	Mood=Ind|Polarity=Neg|Subcat=Intr|VerbForm=Inf	2	list	_	NEG-be-more-NEG
 11	ma	ma	PART	aspprt	_	10	dep:mod	_	ASP
 12	guachu	guachu	NOUN	n	_	10	nsubj	_	deer
 13	.	.	PUNCT	punct	_	10	punct	_	_

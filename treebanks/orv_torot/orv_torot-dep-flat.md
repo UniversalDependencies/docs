@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of flat in UD_Old_Russian-TOROT'
+title:  'Statistics of flat in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Relations: `flat`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Relations: `flat`
 
 This relation is universal.
 There are 1 language-specific subtypes of `flat`: <tt><a href="orv_torot-dep-flat-name.html">flat:name</a></tt>.
@@ -31,7 +31,7 @@ The following 10 pairs of parts of speech are connected with `flat`: <tt><a href
 6	ѡнъ	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	ref=
 7	самъ	самъ	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	6	det	_	ref=
 8	себе	себе	PRON	Pk	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	9	obj	_	ref=
-9	ѹбил	убити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	4	conj	_	ref=
+9	ѹбил	убити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	4	conj	_	ref=
 
 ~~~
 

@@ -35,19 +35,18 @@ The following 11 pairs of parts of speech are connected with `amod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 amod	color:blue
-1	Medzitým	medzitým	ADV	Dx	Degree=Pos	5	advmod	5:advmod	_
-2	v	v	ADP	Eu6	AdpType=Prep|Case=Loc	3	case	3:case	_
-3	máji	máj	NOUN	SSis6	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	5:obl:v:loc	_
-4	1832	1832	NUM	0	NumForm=Digit	3	nummod	3:nummod	_
-5	padla	padnúť	VERB	VLdscf+	Aspect=Perf|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	0:root	_
-6	obliehaná	obliehaný	ADJ	Gtfs1x	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	7	amod	7:amod	_
-7	Akka	akka	PROPN	SSfs1:r	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	5:nsubj	SpaceAfter=No
-8	.	.	PUNCT	Z	_	5	punct	5:punct	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 amod	color:blue
+1	Mladý	mladý	ADJ	AAms1x	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	2:amod	_
+2	Matej	matej	PROPN	SSms1:r	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj	_
+3	pobudol	pobudnúť	VERB	VLdscm+	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	0:root	_
+4	doma	doma	ADV	Dx	Degree=Pos	3	advmod	3:advmod	_
+5	iba	iba	PART	T	_	6	advmod:emph	6:advmod:emph	_
+6	krátko	krátko	ADV	Dx	Degree=Pos	3	advmod	3:advmod	SpaceAfter=No
+7	.	.	PUNCT	ZIP	_	3	punct	3:punct	_
 
 ~~~
 

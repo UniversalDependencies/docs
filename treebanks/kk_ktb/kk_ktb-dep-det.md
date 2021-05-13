@@ -26,7 +26,7 @@ The following 5 pairs of parts of speech are connected with `det`: <tt><a href="
 2	осы	осы	DET	det	PronType=Dem	3	det	_	_
 3	өңірдегі	өңір	NOUN	n	Case=Loc	4	amod	_	_
 4	бейбітшілікті	бейбітшілік	NOUN	n	Case=Acc	5	obj	_	_
-5	қолдайды	қолда	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	қолдайды	қолда	VERB	v	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	sent	_	5	punct	_	_
 
 ~~~
@@ -42,7 +42,7 @@ The following 5 pairs of parts of speech are connected with `det`: <tt><a href="
 2	1918	1918	NUM	num	NumType=Ord	3	amod	_	_
 3	ж.	ж.	NOUN	abbr	_	6	obl	_	_
 4	ағылшындар	ағылшын	NOUN	n	Case=Nom|Number=Plur	6	nsubj	_	_
-5	бүкіл	бүкіл	DET	det	PronType=Qnt	6	det	_	_
+5	бүкіл	бүкіл	DET	det	PronType=Tot	6	det	_	_
 6	Иранды	Иран	PROPN	np	Case=Acc	8	obj	_	_
 7	басып	басып	X	x	_	8	dep	_	_
 8	алып	ал	VERB	v	Aspect=Perf|VerbForm=Conv	18	advcl	_	SpaceAfter=No
@@ -70,10 +70,10 @@ The following 5 pairs of parts of speech are connected with `det`: <tt><a href="
 1	Сұрақтарыңызды	сұрақ	NOUN	n	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=2|Polite=Form	6	obj	_	_
 2	мына	мына	DET	det	PronType=Dem	5	det	_	_
 3	мекен	мекен	NOUN	n	Case=Nom	5	compound	_	SpaceAfter=No
-4	-	-	PUNCT	guio	_	5	punct	_	SpaceAfter=No
+4	-	-	PUNCT	guio	_	3	punct	_	SpaceAfter=No
 5	жайға	жай	ADJ	adj	Case=Dat	6	obl	_	_
 6	жолдауыңызды	жолда	VERB	v	Case=Acc|Number[psor]=Sing|Person[psor]=2|Polite=Form|VerbForm=Ger	7	ccomp	_	_
-7	сұраймыз	сұра	VERB	v	Mood=Ind|Number=Plur|Person=1|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No
+7	сұраймыз	сұра	VERB	v	Aspect=Hab|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	sent	_	7	punct	_	_
 
 ~~~

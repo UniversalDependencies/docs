@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of SCONJ in UD_Old_Russian-TOROT'
+title:  'Statistics of SCONJ in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: POS Tags: `SCONJ`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: POS Tags: `SCONJ`
 
 There are 43 `SCONJ` lemmas (0%), 81 `SCONJ` types (0%) and 1643 `SCONJ` tokens (1%).
 Out of 14 observed tags, the rank of `SCONJ` is: 9 in number of lemmas, 12 in number of types and 12 in number of tokens.
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>аще</em> (<tt><a href="orv_torot-p
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.883721 (the average of all parts of speech is 3.571089).
+The form / lemma ratio of `SCONJ` is 1.883721 (the average of all parts of speech is 3.571475).
 
 The 1st highest number of forms (6) was observed with the lemma “якоже”: <em>акоже, якоже, ѧкоже, ꙗко, ꙗкож, ꙗкоже</em>.
 

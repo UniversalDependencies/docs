@@ -31,7 +31,7 @@ The following 2 pairs of parts of speech are connected with `fixed`: <tt><a href
 7	мес	мес	ADV	_	_	6	fixed	_	_
 8	ласьксь	ласькомс	VERB	_	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	4	advcl	_	GTtags=Ind,Prt1,ScSg3
 9	пяк	пяк	ADV	_	AdvType=Deg	10	advmod:deg	_	GTtags=AdA
-10	вишкста	вишкста	ADV	_	_	8	advmod	_	SpaceAfter=No
+10	вишкста	вишкста	ADV	_	_	8	advmod:mmod	_	SpaceAfter=No
 11	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
@@ -47,9 +47,9 @@ The following 2 pairs of parts of speech are connected with `fixed`: <tt><a href
 2	Михайлович	Михайлович	PROPN	N	Case=Nom|Definite=Ind|NameType=Pat|Number=Sing	1	flat:name	_	GTtags=Prop,Sem/Patr-Mal,Sg,Nom,Indef
 3	туркс	туркс	ADV	Adv	_	5	advmod	_	_
 4	сельмот	сельме	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	3	fixed	_	GTtags=Pl,Nom,Indef
-5	варжакстсь	варжакстомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Prt1|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScSg3
-6	цёранц	цёра	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	obl	_	GTtags=Sg,Gen,PxSg3
-7	лангс	ланга	ADP	Adp	Case=Ill	6	case	_	GTtags=Relator,SP,Ill,Indef|SpaceAfter=No
+5	варжакстсь	варжакстомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScSg3
+6	цёранц	цёра	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	obl:lto	_	GTtags=Sg,Gen,PxSg3
+7	лангс	ланга	ADP	Adp	Case=Ill|NounType=Relat	6	case	_	GTtags=Relator,SP,Ill,Indef|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	5	punct	_	_
 
 ~~~

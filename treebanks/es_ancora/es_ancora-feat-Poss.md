@@ -16,14 +16,14 @@ The feature is used with 2 part-of-speech tags: <tt><a href="es_ancora-pos-DET.h
 
 ### `DET`
 
-5406 <tt><a href="es_ancora-pos-DET.html">DET</a></tt> tokens (7% of all `DET` tokens) have a non-empty value of `Poss`.
+5406 <tt><a href="es_ancora-pos-DET.html">DET</a></tt> tokens (6% of all `DET` tokens) have a non-empty value of `Poss`.
 
 The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="es_ancora-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (5406; 100%), <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5398; 100%), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5111; 95%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3998; 74%).
 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (5406; 100% of non-empty `Poss`): <em>su, sus, mi, nuestra, nuestro, nuestros, mis, nuestras, tu, suyo</em>
-* `EMPTY` (68232): <em>la, el, los, un, las, una, este, esta, todo, esa</em>
+* `EMPTY` (78913): <em>el, la, los, un, las, una, este, esta, todo, esa</em>
 
 `Poss` seems to be **lexical feature** of `DET`. 100% lemmas (13) occur only with one value of `Poss`.
 
@@ -36,5 +36,5 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (228; 100% of non-empty `Poss`): <em>cuyo, cuya, sus, su, cuyos, cuyas, nuestra, suyo, mío, nuestro</em>
-* `EMPTY` (25694): <em>que, se, lo, le, me, donde, nos, uno, quien, la</em>
+* `EMPTY` (25696): <em>que, se, lo, le, me, donde, nos, uno, quien, la</em>
 

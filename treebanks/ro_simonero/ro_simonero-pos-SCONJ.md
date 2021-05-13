@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>până</em> (<tt><a href="ro_simonero
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.090909 (the average of all parts of speech is 1.666491).
+The form / lemma ratio of `SCONJ` is 1.090909 (the average of all parts of speech is 1.666462).
 
 The 1st highest number of forms (2) was observed with the lemma “dacă”: <em>daca, dacă</em>.
 

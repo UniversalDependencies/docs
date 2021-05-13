@@ -24,13 +24,13 @@ The following 8 pairs of parts of speech are connected with `conj`: <tt><a href=
 # visual-style 3 9 conj	color:blue
 1	Ha'e'i	ha'e	CCONJ	coordconn	_	3	cc	_	and-=DIM
 2	ichyrã	chy	NOUN	n	_	3	nsubj	_	B3-mother-FUT
-3	ou	u	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	A3-come
+3	ou	u	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	0	root	_	A3-come
 4	,	,	PUNCT	punct	_	9	punct	_	_
 5	ha'e	ha'e	PRON	pro	Person=3|PronType=Prs	9	nsubj	_	3
 6	neĩ	neĩ	PART	focprt	_	9	dep:mod	_	not.even
 7	rã	rã	PART	quantprt	_	6	dep:mod	_	FC
 8	teri	teri	PART	focprt	_	9	dep:mod	_	still
-9	oiko	iko	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	3	conj	_	A3-live
+9	oiko	iko	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	3	conj	_	A3-live
 10	.	.	PUNCT	punct	_	9	punct	_	_
 
 ~~~

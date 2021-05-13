@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
-1096 tokens (1%) have a non-empty value of `NumType`.
-173 types (1%) occur at least once with a non-empty value of `NumType`.
+1125 tokens (1%) have a non-empty value of `NumType`.
+181 types (1%) occur at least once with a non-empty value of `NumType`.
 1 lemmas (0) occur at least once with a non-empty value of `NumType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="fro_srcmf-pos-NUM.html">NUM</a></tt> (728; 0% instances), <tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (340; 0% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> (14; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="fro_srcmf-pos-NUM.html">NUM</a></tt> (728; 0% instances), <tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (340; 0% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt> (43; 0% instances), <tt><a href="fro_srcmf-pos-DET.html">DET</a></tt> (14; 0% instances).
 
 ### `NUM`
 
@@ -36,12 +36,13 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 
 ### `ADJ`
 
-14 <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `NumType`.
+43 <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
 `ADJ` tokens may have the following values of `NumType`:
 
-* `Card` (14; 100% of non-empty `NumType`): <em>premereins, dui, .iii., .vii., ambesdous, anbedui, premer, premerein, troi</em>
-* `EMPTY` (6441): <em>grant, granz, bele, saint, bel, biax, bone, haut, bon, autre</em>
+* `Card` (14; 33% of non-empty `NumType`): <em>premereins, dui, .iii., .vii., ambesdous, anbedui, premer, premerein, troi</em>
+* `Ord` (29; 67% of non-empty `NumType`): <em>premier, tierce, cinquieme, premiere, premiers, tierz, disme, premeraine, premierz, prime</em>
+* `EMPTY` (6412): <em>grant, granz, bele, saint, bel, biax, bone, haut, bon, autre</em>
 
 ### `DET`
 
@@ -62,5 +63,6 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>PRON --[<tt><a href="fro_srcmf-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (39; 91%),
 <tt>PRON --[<tt><a href="fro_srcmf-dep-conj.html">conj</a></tt>]--> PRON</tt> (18; 53%),
 <tt>NUM --[<tt><a href="fro_srcmf-dep-conj.html">conj</a></tt>]--> PRON</tt> (9; 100%),
-<tt>NUM --[<tt><a href="fro_srcmf-dep-conj.html">conj</a></tt>]--> DET</tt> (2; 100%).
+<tt>NUM --[<tt><a href="fro_srcmf-dep-conj.html">conj</a></tt>]--> DET</tt> (2; 100%),
+<tt>ADJ --[<tt><a href="fro_srcmf-dep-conj.html">conj</a></tt>]--> PRON</tt> (1; 100%).
 

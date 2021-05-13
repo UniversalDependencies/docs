@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="it_postwita-dep-aux-pass.html">aux:pass</a></tt>.
 
-2083 nodes (2%) are attached to their parents as `aux`.
+2087 nodes (2%) are attached to their parents as `aux`.
 
-2078 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.21555448871819.
+2082 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.21562050790609.
 
-The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (1981; 95% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (40; 2% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (29; 1% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (13; 1% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="it_postwita-pos-SYM.html">SYM</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="it_postwita-pos-DET.html">DET</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (1986; 95% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (40; 2% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (29; 1% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (12; 1% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="it_postwita-pos-SYM.html">SYM</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="it_postwita-pos-DET.html">DET</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 8	fgColor:white
 # visual-style 8 7 aux	color:blue
 1	@user	@user	SYM	SYM	_	8	vocative:mention	_	_
-2	si	sì	INTJ	I	_	8	discourse	_	_
+2	si	sì	INTJ	I	_	8	discourse	_	CorrectForm=sì
 3	cazzo	cazzo	INTJ	I	_	8	discourse	_	_
 4	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	expl	_	SpaceAfter=No
 5	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	dep	_	_

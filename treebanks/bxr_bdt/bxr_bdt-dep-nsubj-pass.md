@@ -25,8 +25,8 @@ The following 2 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 1	Тогтоол	тогтоол	NOUN	_	Case=Nom	4	nsubj:pass	_	_
 2	ноябрь	ноябрь	NOUN	_	Case=Nom	3	nmod	_	_
 3	һарада	һара	NOUN	_	Case=Dat	4	nmod	_	_
-4	табигдаһаан	табигда	VERB	_	VerbForm=Coverb	0	root	_	_
-5	байна	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	4	aux	_	SpaceAfter=No
+4	табигдаһаан	табигда	VERB	_	VerbForm=Inf	0	root	_	_
+5	байна	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -48,7 +48,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 8	асуудалнууд	асуудал	NOUN	_	Case=Nom|Number=Plur	10	nsubj:pass	_	_
 9	нэгэшье	нэгэшье	ADV	_	_	10	advmod	_	_
 10	шиидхэгдээгүй	шиидхэхы	ADJ	_	_	0	root	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	10	punct	_	_
+11	,	,	PUNCT	_	_	15	punct	_	_
 12	улам	улам	ADV	_	_	13	advmod	_	_
 13	хэсүү	хэсүү	ADV	_	_	14	amod	_	_
 14	боложол	боложол	NOUN	_	Case=Nom	15	nsubj	_	_

@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of cop in UD_Old_Russian-TOROT'
+title:  'Statistics of cop in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Relations: `cop`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Relations: `cop`
 
 This relation is universal.
 
@@ -25,7 +25,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 1	то	тыи	ADJ	Pd	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	ref=6
 2	есть	быти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=6
 3	городъ	городъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=6
-4	индѣискыи	индѣискыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Weak	3	advmod	_	ref=6
+4	индѣискыи	индѣискыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	advmod	_	ref=6
 
 ~~~
 
@@ -39,7 +39,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 1	али	али	SCONJ	G-	_	4	mark	_	ref=
 2	чимо	чьто	ADJ	Px	Case=Ins|Gender=Neut|Number=Sing	4	iobj	_	ref=
 3	есемо	быти	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ref=
-4	виновата	виноватыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	0	root	_	ref=
+4	виновата	виноватыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	ref=
 5	а	а	CCONJ	C-	_	4	cc	_	ref=
 6	восоли	въсълати	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	ref=
 7	отроко	отрокъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	ref=
@@ -58,7 +58,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 3	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nmod	_	ref=47.27
 4	есть	быти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	ref=47.27
 5	не	не	ADV	Df	Polarity=Neg	6	advmod	_	ref=47.28
-6	хрщ҃но	хрьщати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	9	nsubj	_	ref=47.28
+6	хрщ҃но	хрьщати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	9	nsubj	_	ref=47.28
 7	да	да	ADV	Df	_	9	advmod	_	ref=47.28|LId=1
 8	не	не	ADV	Df	Polarity=Neg	9	advmod	_	ref=47.28
 9	имуть	яти	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=47.28

@@ -7,7 +7,6 @@ udver: '2'
 ## Treebank Statistics: UD_Breton-KEB: Relations: `obl:agent`
 
 This relation is a language-specific subtype of <tt><a href="br_keb-dep-obl.html">obl</a></tt>.
-There are also 1 other language-specific subtypes of `obl`: <tt><a href="br_keb-dep-obl-x.html">obl:x</a></tt>.
 
 66 nodes (1%) are attached to their parents as `obl:agent`.
 

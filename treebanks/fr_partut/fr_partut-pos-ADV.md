@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-ParTUT: POS Tags: `ADV`
 
 There are 183 `ADV` lemmas (6%), 184 `ADV` types (4%) and 1000 `ADV` tokens (3%).
-Out of 17 observed tags, the rank of `ADV` is: 4 in number of lemmas, 4 in number of types and 9 in number of tokens.
+Out of 17 observed tags, the rank of `ADV` is: 4 in number of lemmas, 4 in number of types and 8 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>pas, plus, également, tout, ainsi, très, donc, lors, moins, bien</em>
 
@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>pas</em> (<tt><a href="fr_partut-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.005464 (the average of all parts of speech is 1.366035).
+The form / lemma ratio of `ADV` is 1.005464 (the average of all parts of speech is 1.409310).
 
 The 1st highest number of forms (2) was observed with the lemma “là”: <em>-là, là</em>.
 
@@ -79,7 +79,7 @@ Examples: <em>plus, également, tout, ainsi, très, donc, lors, moins, bien, aus
 
 `ADV` nodes are attached to their parents using 14 different relations: <tt><a href="fr_partut-dep-advmod.html">advmod</a></tt> (864; 86% instances), <tt><a href="fr_partut-dep-fixed.html">fixed</a></tt> (36; 4% instances), <tt><a href="fr_partut-dep-mark.html">mark</a></tt> (29; 3% instances), <tt><a href="fr_partut-dep-case.html">case</a></tt> (26; 3% instances), <tt><a href="fr_partut-dep-cc.html">cc</a></tt> (22; 2% instances), <tt><a href="fr_partut-dep-discourse.html">discourse</a></tt> (6; 1% instances), <tt><a href="fr_partut-dep-conj.html">conj</a></tt> (5; 1% instances), <tt><a href="fr_partut-dep-ccomp.html">ccomp</a></tt> (3; 0% instances), <tt><a href="fr_partut-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="fr_partut-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="fr_partut-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-orphan.html">orphan</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 12 different parts of speech: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (521; 52% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (200; 20% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (163; 16% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (58; 6% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (32; 3% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (13; 1% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="fr_partut-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 12 different parts of speech: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (523; 52% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (199; 20% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (162; 16% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (58; 6% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (32; 3% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (13; 1% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="fr_partut-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
 733 (73%) `ADV` nodes are leaves.
 

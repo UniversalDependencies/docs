@@ -157,12 +157,12 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="de_pud-dep-det.html">det</a></tt>]--> DET</tt> (2584; 100%),
+<tt>NOUN --[<tt><a href="de_pud-dep-det.html">det</a></tt>]--> DET</tt> (2615; 100%),
 <tt>NOUN --[<tt><a href="de_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1042; 99%),
 <tt>NOUN --[<tt><a href="de_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (263; 95%),
 <tt>NOUN --[<tt><a href="de_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (221; 98%),
 <tt>PROPN --[<tt><a href="de_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (164; 100%),
-<tt>PROPN --[<tt><a href="de_pud-dep-det.html">det</a></tt>]--> DET</tt> (122; 100%),
+<tt>PROPN --[<tt><a href="de_pud-dep-det.html">det</a></tt>]--> DET</tt> (123; 100%),
 <tt>NOUN --[<tt><a href="de_pud-dep-compound.html">compound</a></tt>]--> NOUN</tt> (95; 93%),
 <tt>ADJ --[<tt><a href="de_pud-dep-conj.html">conj</a></tt>]--> ADJ</tt> (94; 100%),
 <tt>NOUN --[<tt><a href="de_pud-dep-compound.html">compound</a></tt>]--> PROPN</tt> (77; 100%),

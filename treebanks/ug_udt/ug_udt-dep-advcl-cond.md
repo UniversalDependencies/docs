@@ -27,7 +27,7 @@ The following 3 pairs of parts of speech are connected with `advcl:cond`: <tt><a
 3	،	،	PUNCT	Y	_	2	punct	_	Translit=,
 4	چوقۇم	چوقۇم	ADV	D	_	6	advmod	_	Translit=choqum
 5	بىلىمىم	_	NOUN	N	_	6	nsubj	_	Translit=bilimim|Morf=Unknown
-6	مۇكەممەللىشىدۇ	مۇكەممەللەش	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=mukemmellishidu
+6	مۇكەممەللىشىدۇ	مۇكەممەللەش	VERB	V	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=mukemmellishidu
 7	.	.	PUNCT	Y	_	6	punct	_	Translit=.
 
 ~~~

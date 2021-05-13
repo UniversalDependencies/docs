@@ -23,5 +23,5 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 `VERB` tokens may have the following values of `Voice`:
 
 * `Cau` (15; 100% of non-empty `Voice`): <em>labò, lajigin, lajè, dalajè, laminè, latila</em>
-* `EMPTY` (2496): <em>ko, tagara, taga, kè, bè, na, ye, fò, di, nana</em>
+* `EMPTY` (2483): <em>ko, tagara, taga, kè, bè, na, ye, fò, di, nana</em>
 

@@ -32,7 +32,7 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 8	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	cop	_	Dep=0|Rel=Root
 9	pritrjen	pritrjen	ADJ	Appmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	Dep=8|Rel=Atr
 10	magnet	magnet	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	SpaceAfter=No|Dep=8|Rel=Sb
-11	.	.	PUNCT	Z	_	9	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+11	.	.	PUNCT	Z	_	9	punct	_	Dep=0|Rel=Root
 
 ~~~
 
@@ -58,7 +58,7 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 13	z	z	ADP	Si	Case=Ins	15	case	_	Dep=15|Rel=Atr
 14	njenim	njen	DET	Ps3msisf	Case=Ins|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	Dep=15|Rel=Atr
 15	možem	mož	NOUN	Ncmsi	Case=Ins|Gender=Masc|Number=Sing	11	appos	_	SpaceAfter=No|Dep=0|Rel=Root
-16	.	.	PUNCT	Z	_	2	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+16	.	.	PUNCT	Z	_	2	punct	_	Dep=0|Rel=Root
 
 ~~~
 
@@ -75,7 +75,7 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 4	(	(	PUNCT	Z	_	5	punct	_	SpaceAfter=No|Dep=0|Rel=Root
 5	Poljane	Poljane	PROPN	Npfpn	Case=Nom|Gender=Fem|Number=Plur	3	appos	_	SpaceAfter=No|Dep=0|Rel=Root
 6	)	)	PUNCT	Z	_	5	punct	_	SpaceAfter=No|Dep=0|Rel=Root
-7	.	.	PUNCT	Z	_	2	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+7	.	.	PUNCT	Z	_	2	punct	_	Dep=0|Rel=Root
 
 ~~~
 

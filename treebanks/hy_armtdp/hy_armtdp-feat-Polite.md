@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="hy_armtdp-pos-PRON.
 
 86 <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> tokens (4% of all `PRON` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `PRON` and `Polite` co-occurred: <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=EMPTY</tt> (86; 100%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=2</tt> (86; 100%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (86; 100%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (85; 99%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (74; 86%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt> (45; 52%).
+The most frequent other feature values with which `PRON` and `Polite` co-occurred: <tt><a href="hy_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (86; 100%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=2</tt> (86; 100%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (86; 100%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (85; 99%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (74; 86%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Dat</tt> (45; 52%).
 
 `PRON` tokens may have the following values of `Polite`:
 
@@ -30,7 +30,7 @@ The most frequent other feature values with which `PRON` and `Polite` co-occurre
 
 47 <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `DET` and `Polite` co-occurred: <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=EMPTY</tt> (47; 100%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=2</tt> (47; 100%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (47; 100%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Gen</tt> (46; 98%), <tt><a href="hy_armtdp-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (46; 98%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (40; 85%).
+The most frequent other feature values with which `DET` and `Polite` co-occurred: <tt><a href="hy_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (47; 100%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=2</tt> (47; 100%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (47; 100%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Gen</tt> (46; 98%), <tt><a href="hy_armtdp-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (46; 98%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (40; 85%).
 
 `DET` tokens may have the following values of `Polite`:
 

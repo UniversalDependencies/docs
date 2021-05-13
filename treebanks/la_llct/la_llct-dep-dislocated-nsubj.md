@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Latin-LLCT: Relations: `dislocated:nsubj`
 
-This relation is a language-specific subtype of .
-There are also 9 other language-specific subtypes of `dislocated`: <tt><a href="la_llct-dep-dislocated-acl.html">dislocated:acl</a></tt>, <tt><a href="la_llct-dep-dislocated-advcl.html">dislocated:advcl</a></tt>, <tt><a href="la_llct-dep-dislocated-advmod.html">dislocated:advmod</a></tt>, <tt><a href="la_llct-dep-dislocated-ccomp.html">dislocated:ccomp</a></tt>, <tt><a href="la_llct-dep-dislocated-conj.html">dislocated:conj</a></tt>, <tt><a href="la_llct-dep-dislocated-csubj.html">dislocated:csubj</a></tt>, <tt><a href="la_llct-dep-dislocated-nmod.html">dislocated:nmod</a></tt>, <tt><a href="la_llct-dep-dislocated-obj.html">dislocated:obj</a></tt>, <tt><a href="la_llct-dep-dislocated-obl.html">dislocated:obl</a></tt>.
+This relation is a language-specific subtype of <tt><a href="la_llct-dep-dislocated.html">dislocated</a></tt>.
+There are also 2 other language-specific subtypes of `dislocated`: <tt><a href="la_llct-dep-dislocated-csubj.html">dislocated:csubj</a></tt>, <tt><a href="la_llct-dep-dislocated-obj.html">dislocated:obj</a></tt>.
 
 82 nodes (0%) are attached to their parents as `dislocated:nsubj`.
 
@@ -68,7 +68,7 @@ The following 6 pairs of parts of speech are connected with `dislocated:nsubj`: 
 13	,	,	PUNCT	Punc	_	8	punct	_	_
 14	direxit	dirigo	VERB	v|v|3|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 15	missos	missus	NOUN	n|n|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur	14	obj	_	_
-16	suos	suus	DET	a|a|3|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	15	det	_	SpaceAfter=No
+16	suos	suus	DET	a|a|3|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs|Reflex=Yes	15	det	_	SpaceAfter=No
 17	,	,	PUNCT	Punc	_	20	punct	_	_
 18	id	is	PRON	p|p|-|s|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem,Prs	20	cc	_	_
 19	est	sum	VERB	v|v|3|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	fixed	_	_
@@ -154,7 +154,7 @@ The following 6 pairs of parts of speech are connected with `dislocated:nsubj`: 
 25	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	27	cc	_	_
 26	a	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	27	case	_	_
 27	germani	germanus	NOUN	n|n|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	24	conj	_	_
-28	mei	meus	DET	a|a|1|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	27	det	_	_
+28	mei	meus	DET	a|a|1|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	27	det	_	_
 29	pro	pro	ADP	r|r|-|-|-|-|-|-|-|-	_	31	case	_	_
 30	futura	sum	VERB	t|t|-|s|f|p|a|f|b|-	Aspect=Imp|Case=Abl|Gender=Fem|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Act	31	acl	_	_
 31	commemoratione	commemoratio	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	32	obl	_	_

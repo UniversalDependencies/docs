@@ -63,7 +63,7 @@ The following 2 pairs of parts of speech are connected with `det:numgov`: <tt><a
 17	popularnych	popularny	ADJ	adj:pl:gen:f:pos	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	18	amod	18:amod	_
 18	stron	strona	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	16	obj	16:obj	_
 19	takich	taki	DET	adj:pl:gen:f:pos	Case=Gen|Gender=Fem|Number=Plur|PronType=Dem	18	det	18:det	_
-20	jak	jak	SCONJ	comp	ConjType=Cmpr	21	mark	21:mark|23:mark|25:mark|28:mark	_
+20	jak	jak	SCONJ	comp	ConjType=Comp	21	mark	21:mark|23:mark|25:mark|28:mark	_
 21	Reddit	Reddit	PROPN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	obl:cmpr	19:obl:cmpr	SpaceAfter=No
 22	,	,	PUNCT	interp	PunctType=Comm	23	punct	23:punct	_
 23	Twitter	twitter	NOUN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	21	conj	19:obl:cmpr|21:conj	SpaceAfter=No

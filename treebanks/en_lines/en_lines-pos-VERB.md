@@ -59,12 +59,12 @@ The 2nd highest number of forms (5) was observed with the lemma “begin”: <em
 
 The 3rd highest number of forms (5) was observed with the lemma “contain”: <em>contain, contained, containing, contains, self-contained</em>.
 
-`VERB` occurs with 8 features: <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt> (10791; 97% instances), <tt><a href="en_lines-feat-Tense.html">Tense</a></tt> (8147; 73% instances), <tt><a href="en_lines-feat-Mood.html">Mood</a></tt> (5083; 46% instances), <tt><a href="en_lines-feat-Voice.html">Voice</a></tt> (1200; 11% instances), <tt><a href="en_lines-feat-Number.html">Number</a></tt> (909; 8% instances), <tt><a href="en_lines-feat-Person.html">Person</a></tt> (907; 8% instances), <tt><a href="en_lines-feat-Case.html">Case</a></tt> (312; 3% instances), <tt><a href="en_lines-feat-Degree.html">Degree</a></tt> (2; 0% instances)
+`VERB` occurs with 8 features: <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt> (10791; 97% instances), <tt><a href="en_lines-feat-Tense.html">Tense</a></tt> (8147; 73% instances), <tt><a href="en_lines-feat-Mood.html">Mood</a></tt> (5083; 46% instances), <tt><a href="en_lines-feat-Voice.html">Voice</a></tt> (1196; 11% instances), <tt><a href="en_lines-feat-Number.html">Number</a></tt> (909; 8% instances), <tt><a href="en_lines-feat-Person.html">Person</a></tt> (907; 8% instances), <tt><a href="en_lines-feat-Case.html">Case</a></tt> (312; 3% instances), <tt><a href="en_lines-feat-Degree.html">Degree</a></tt> (2; 0% instances)
 
-`VERB` occurs with 16 feature-value pairs: `Case=Nom`, `Degree=Pos`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=3`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Act`, `Voice=Pass`
+`VERB` occurs with 15 feature-value pairs: `Case=Nom`, `Degree=Pos`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=3`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Pass`
 
-`VERB` occurs with 30 feature combinations.
-The most frequent feature combination is `Mood=Ind|Tense=Past|VerbForm=Fin` (3225 tokens).
+`VERB` occurs with 28 feature combinations.
+The most frequent feature combination is `Mood=Ind|Tense=Past|VerbForm=Fin` (3228 tokens).
 Examples: <em>said, had, came, seemed, looked, went, made, felt, got, saw</em>
 
 

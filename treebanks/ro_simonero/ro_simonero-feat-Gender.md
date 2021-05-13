@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-69215 tokens (47%) have a non-empty value of `Gender`.
-14772 types (82%) occur at least once with a non-empty value of `Gender`.
-7663 lemmas (72%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (39837; 27% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (16686; 11% instances), <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> (6907; 5% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (3888; 3% instances), <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (1065; 1% instances), <tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (416; 0% instances), <tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (403; 0% instances), <tt><a href="ro_simonero-pos-PROPN.html">PROPN</a></tt> (13; 0% instances).
+69360 tokens (48%) have a non-empty value of `Gender`.
+14779 types (82%) occur at least once with a non-empty value of `Gender`.
+7671 lemmas (72%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> (39982; 27% instances), <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> (16686; 11% instances), <tt><a href="ro_simonero-pos-DET.html">DET</a></tt> (6907; 5% instances), <tt><a href="ro_simonero-pos-VERB.html">VERB</a></tt> (3888; 3% instances), <tt><a href="ro_simonero-pos-PRON.html">PRON</a></tt> (1065; 1% instances), <tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> (416; 0% instances), <tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> (403; 0% instances), <tt><a href="ro_simonero-pos-PROPN.html">PROPN</a></tt> (13; 0% instances).
 
 ### `NOUN`
 
-39837 <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> tokens (93% of all `NOUN` tokens) have a non-empty value of `Gender`.
+39982 <tt><a href="ro_simonero-pos-NOUN.html">NOUN</a></tt> tokens (94% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt> (28941; 73%), <tt><a href="ro_simonero-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (21801; 55%), <tt><a href="ro_simonero-feat-Case.html">Case</a></tt><tt>=Nom</tt> (20678; 52%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt> (29256; 73%), <tt><a href="ro_simonero-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (21801; 55%), <tt><a href="ro_simonero-feat-Case.html">Case</a></tt><tt>=Nom</tt> (20629; 52%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (24936; 63% of non-empty `Gender`): <em>insulină, creșterea, vârsta, cazuri, scăderea, creștere, insulinei, prezența, vârstă, glucoză</em>
-* `Masc` (14901; 37% of non-empty `Gender`): <em>pacienții, pacienți, ani, nivelul, diabet, risc, cazul, tip, tratamentul, tratament</em>
-* `EMPTY` (2861): <em>mg, IC, vs, HTA, TA, DZ, FA, p, AVC, dl</em>
+* `Fem` (24935; 62% of non-empty `Gender`): <em>insulină, creșterea, vârsta, cazuri, scăderea, creștere, insulinei, prezența, vârstă, glucoză</em>
+* `Masc` (15047; 38% of non-empty `Gender`): <em>pacienții, pacienți, ani, nivelul, diabet, risc, cazul, tip, tratamentul, tratament</em>
+* `EMPTY` (2716): <em>mg, IC, vs, HTA, TA, DZ, FA, AVC, dl, EI</em>
 
 <table>
   <tr><th>Paradigm <i>caz</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -36,19 +36,19 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="ro_simonero-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>cazuri</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 94% lemmas (4047) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 94% lemmas (4054) occur only with one value of `Gender`.
 
 ### `ADJ`
 
 16686 <tt><a href="ro_simonero-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="ro_simonero-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (16647; 100%), <tt><a href="ro_simonero-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (16460; 99%), <tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11570; 69%), <tt><a href="ro_simonero-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9734; 58%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="ro_simonero-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (16647; 100%), <tt><a href="ro_simonero-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (16460; 99%), <tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11573; 69%), <tt><a href="ro_simonero-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9861; 59%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (10848; 65% of non-empty `Gender`): <em>mare, clinice, cardiacă, cardiace, renală, crescute, cronică, cardiovasculare, renale, crescută</em>
-* `Masc` (5838; 35% of non-empty `Gender`): <em>vârstnici, crescut, zaharat, mare, important, clinic, vascular, cardiac, lung, normal</em>
-* `EMPTY` (367): <em>mici, mari, precoce, noi, standard, postoperatorii, medii, operatorii, lungi, online</em>
+* `Fem` (10849; 65% of non-empty `Gender`): <em>mare, clinice, cardiacă, cardiace, renală, crescute, cronică, cardiovasculare, renale, crescută</em>
+* `Masc` (5837; 35% of non-empty `Gender`): <em>vârstnici, crescut, zaharat, mare, important, clinic, vascular, cardiac, lung, normal</em>
+* `EMPTY` (366): <em>mici, mari, precoce, noi, standard, postoperatorii, medii, operatorii, lungi, online</em>
 
 <table>
   <tr><th>Paradigm <i>mare</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -56,7 +56,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
   <tr><td><tt><tt><a href="ro_simonero-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ro_simonero-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>mari</em></td></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ro_simonero-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Marele</em></td><td><em>marea</em></td></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ro_simonero-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>marile</em></td></tr>
-  <tr><td><tt><tt><a href="ro_simonero-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ro_simonero-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mare</em></td><td><em>mare</em></td></tr>
+  <tr><td><tt><tt><a href="ro_simonero-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ro_simonero-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>mare</em></td></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mare</em></td><td></td></tr>
 </table>
 
@@ -117,7 +117,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 416 <tt><a href="ro_simonero-pos-NUM.html">NUM</a></tt> tokens (9% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="ro_simonero-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (380; 91%), <tt><a href="ro_simonero-feat-NumType.html">NumType</a></tt><tt>=Ord</tt> (257; 62%), <tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Plur</tt> (210; 50%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="ro_simonero-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (381; 92%), <tt><a href="ro_simonero-feat-NumType.html">NumType</a></tt><tt>=Ord</tt> (257; 62%), <tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Plur</tt> (210; 50%).
 
 `NUM` tokens may have the following values of `Gender`:
 
@@ -127,8 +127,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 <table>
   <tr><th>Paradigm <i>doi</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="ro_simonero-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt></tt></td><td><em>doi</em></td><td><em>două</em></td></tr>
-  <tr><td><tt></tt></td><td></td><td><em>două</em></td></tr>
+  <tr><td><tt></tt></td><td><em>doi</em></td><td><em>două</em></td></tr>
 </table>
 
 `Gender` seems to be **lexical feature** of `NUM`. 92% lemmas (36) occur only with one value of `Gender`.
@@ -156,14 +155,14 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="ro_simonero-dep-amod.html">amod</a></tt>]--> ADJ</tt> (13562; 95%),
-<tt>NOUN --[<tt><a href="ro_simonero-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (8497; 50%),
+<tt>NOUN --[<tt><a href="ro_simonero-dep-amod.html">amod</a></tt>]--> ADJ</tt> (13570; 95%),
+<tt>NOUN --[<tt><a href="ro_simonero-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (8526; 50%),
 <tt>NOUN --[<tt><a href="ro_simonero-dep-det.html">det</a></tt>]--> DET</tt> (5034; 74%),
-<tt>NOUN --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2734; 64%),
-<tt>VERB --[<tt><a href="ro_simonero-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (700; 60%),
-<tt>ADJ --[<tt><a href="ro_simonero-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (646; 91%),
+<tt>NOUN --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2736; 64%),
+<tt>VERB --[<tt><a href="ro_simonero-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (760; 61%),
+<tt>ADJ --[<tt><a href="ro_simonero-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (639; 91%),
 <tt>ADJ --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> ADJ</tt> (628; 93%),
 <tt>NOUN --[<tt><a href="ro_simonero-dep-acl.html">acl</a></tt>]--> ADJ</tt> (380; 89%),
-<tt>VERB --[<tt><a href="ro_simonero-dep-nmod-agent.html">nmod:agent</a></tt>]--> NOUN</tt> (239; 54%),
+<tt>VERB --[<tt><a href="ro_simonero-dep-obl-agent.html">obl:agent</a></tt>]--> NOUN</tt> (239; 54%),
 <tt>ADJ --[<tt><a href="ro_simonero-dep-det.html">det</a></tt>]--> DET</tt> (169; 93%).
 

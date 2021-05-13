@@ -50,7 +50,7 @@ The following 56 pairs of parts of speech are connected with `advcl`: <tt><a hre
 3	chiamă	chema	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	ref=MATT22.45
 4	David	David	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	ref=MATT22.45
 5	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	ref=MATT22.45
-6	el	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	3	nmod:pmod	_	ref=MATT22.45
+6	el	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	3	obl:pmod	_	ref=MATT22.45
 7	Domnu	domn	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	xcomp	_	ref=MATT22.45|SpaceAfter=No
 8	,	,	PUNCT	COMMA	_	3	punct	_	ref=MATT22.45
 9	cum	cum	ADV	Rw	PronType=Int,Rel	13	advmod	_	ref=MATT22.45

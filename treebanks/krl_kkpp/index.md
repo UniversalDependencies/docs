@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Tommi A Pirinen.
 
 Repository: [UD_Karelian-KKPP](https://github.com/UniversalDependencies/UD_Karelian-KKPP)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkrl_kkpp27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkrl_kkpp28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -106,7 +106,7 @@ verkkosanakirja](http://kaino.kotus.fi/cgi-bin/kks/kks_etusivu.cgi)
 </ul>
 
 <ul>
-<li>This corpus contains 54 types of words that contain both letters and punctuation. Examples: -projektin, -aktijo, -aktijoh, -aktijon, -lapšienpruasiekkua, Art-teltan, Art-teltta, L’udmila, WWF:n, -aktijolla, -eepossašta, -hiälaulun, -kanšalaisjärještön, -kaupunkin, -leheššä, -luomiskilpailun, -merkillä, -pelin, -saitilla, -teatterissa, -teemalla, -tehnikašša, -šuaren, 190-vuotispäivällä, 215-vuotispäivällä, 60.wwf.ru/, Art-šat’or, Bol’šoi, Iro-muamo, KT:n, Kalevala-, Kalevala-eepossah, Kalevala-eepossan, K​a​l​e​v​a​l​a​-​š​e​i​k​k​a​i​l​u​p​e​l​i​e, Koval’ovan, Ledn’ova, M​o​s​k​o​v​a​-​S​i​t​i​k​e​š​k​u​k​š​e​š​š​a, Sem’onovan, TV-tornilla, kilpailu-festivali, kippuran’okkaset, kirjallisuš-, kulttuuri-, laulu-, miehol’ah, olka-päitä, partn’orit, rahvahan-, tanšši-, vaihtuas’s’a</li>
+<li>This corpus contains 54 types of words that contain both letters and punctuation. Examples: -projektin, -aktijo, -aktijoh, -aktijon, -lapšienpruasiekkua, Art-teltan, Art-teltta, L’udmila, WWF:n, -aktijolla, -eepossašta, -hiälaulun, -kanšalaisjärještön, -kaupunkin, -leheššä, -luomiskilpailun, -merkillä, -pelin, -saitilla, -teatterissa, -teemalla, -tehnikašša, -šuaren, 190-vuotispäivällä, 215-vuotispäivällä, 60.wwf.ru/, Art-šat’or, Bol’šoi, Iro-muamo, KT:n, Kalevala-, Kalevala-eepossah, Kalevala-eepossan, Kalevala-šeikkailupelie, Koval’ovan, Ledn’ova, Moskova-Sitikeškukšešša, Sem’onovan, TV-tornilla, kilpailu-festivali, kippuran’okkaset, kirjallisuš-, kulttuuri-, laulu-, miehol’ah, olka-päitä, partn’orit, rahvahan-, tanšši-, vaihtuas’s’a</li>
 </ul>
 
 <ul>

@@ -61,13 +61,13 @@ The 3rd highest number of forms (1) was observed with the lemma “कि”: <e
 
 Parents of `SCONJ` nodes belong to 5 different parts of speech: <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt> (19; 73% instances), <tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt> (4; 15% instances), <tt><a href="mr_ufal-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="mr_ufal-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="mr_ufal-pos-PRON.html">PRON</a></tt> (1; 4% instances)
 
-23 (88%) `SCONJ` nodes are leaves.
+20 (77%) `SCONJ` nodes are leaves.
 
-3 (12%) `SCONJ` nodes have one child.
+6 (23%) `SCONJ` nodes have one child.
 
 The highest child degree of a `SCONJ` node is 1.
 
-Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="mr_ufal-dep-obj.html">obj</a></tt> (2; 67% instances), <tt><a href="mr_ufal-dep-punct.html">punct</a></tt> (1; 33% instances)
+Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="mr_ufal-dep-punct.html">punct</a></tt> (4; 67% instances), <tt><a href="mr_ufal-dep-obj.html">obj</a></tt> (2; 33% instances)
 
-Children of `SCONJ` nodes belong to 2 different parts of speech: <tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt> (2; 67% instances), <tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (1; 33% instances)
+Children of `SCONJ` nodes belong to 2 different parts of speech: <tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (4; 67% instances), <tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt> (2; 33% instances)
 

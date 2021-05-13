@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-164251 tokens (15%) have a non-empty value of `Degree`.
-32490 types (28%) occur at least once with a non-empty value of `Degree`.
-10628 lemmas (24%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 5 part-of-speech tags: <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (107675; 10% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (55927; 5% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (642; 0% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+163602 tokens (15%) have a non-empty value of `Degree`.
+32461 types (28%) occur at least once with a non-empty value of `Degree`.
+10621 lemmas (24%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (107675; 10% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (55927; 5% instances).
 
 ### `ADJ`
 
@@ -79,39 +79,6 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 </table>
 
 `Degree` seems to be **lexical feature** of `ADV`. 94% lemmas (1854) occur only with one value of `Degree`.
-
-### `DET`
-
-642 <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Degree`.
-
-The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (496; 77%).
-
-`DET` tokens may have the following values of `Degree`:
-
-* `Pos` (642; 100% of non-empty `Degree`): <em>один, одни, одной, одна, одного, одно, одних, одним, одном, одну</em>
-* `EMPTY` (27166): <em>его, все, их, эти, этот, этой, ее, всех, такой, этом</em>
-
-### `PROPN`
-
-6 <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Degree`.
-
-The most frequent other feature values with which `PROPN` and `Degree` co-occurred: <tt><a href="ru_syntagrus-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5; 83%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 67%).
-
-`PROPN` tokens may have the following values of `Degree`:
-
-* `Pos` (6; 100% of non-empty `Degree`): <em>Жуковские, Жуковская, Смольном, Стрийковский, Юрьев</em>
-* `EMPTY` (41587): <em>России, США, СССР, Россия, В., Путин, А., Москве, Владимир, Сергей</em>
-
-### `NOUN`
-
-1 <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Degree`.
-
-The most frequent other feature values with which `NOUN` and `Degree` co-occurred: <tt><a href="ru_syntagrus-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Gen</tt> (1; 100%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1; 100%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
-
-`NOUN` tokens may have the following values of `Degree`:
-
-* `Pos` (1; 100% of non-empty `Degree`): <em>э</em>
-* `EMPTY` (271121): <em>время, года, лет, году, раз, человек, жизни, люди, людей, власти</em>
 
 ## Relations with Agreement in `Degree`
 

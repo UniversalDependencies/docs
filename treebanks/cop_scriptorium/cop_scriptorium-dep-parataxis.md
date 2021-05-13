@@ -64,7 +64,7 @@ The following 24 pairs of parts of speech are connected with `parataxis`: <tt><a
 12	ϭⲛ	ϭⲓⲛⲉ	VERB	V	VerbForm=Fin	9	parataxis	_	Orig=ϭ︤ⲛ︥
 13	ⲗⲁⲁⲩ	ⲗⲁⲁⲩ	NOUN	N	_	12	obj	_	Entity=(object
 14	ⲛ	ⲛ	ADP	PREP	_	15	case	_	Orig=ⲛ̄
-15	ⲉⲓⲇⲱⲗⲟⲛ	ⲉⲓⲇⲱⲗⲟⲛ	NOUN	N	_	13	nmod	_	Entity=object)
+15	ⲉⲓⲇⲱⲗⲟⲛ	ⲉⲓⲇⲱⲗⲟⲛ	NOUN	N	Foreign=Yes	13	nmod	_	Entity=object)|OrigLang=grc
 16	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	17	case	_	Orig=ⲛ̄ϩⲏⲧ︤
 17	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obl	_	Orig=ϥ︥
 18	.	.	PUNCT	PUNCT	_	3	punct	_	_
@@ -88,7 +88,7 @@ The following 24 pairs of parts of speech are connected with `parataxis`: <tt><a
 8	ⲛ	ⲛ	ADP	PREP	_	9	case	_	Orig=ⲛ̅
 9	ⲉⲓⲱⲧ	ⲉⲓⲱⲧ	NOUN	N	_	7	nmod	_	Entity=person)
 10	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	12	mark	_	_
-11	ⲁⲣⲁ	ⲁⲣⲁ	PART	PTC	_	12	advmod	_	_
+11	ⲁⲣⲁ	ⲁⲣⲁ	PART	PTC	Foreign=Yes	12	advmod	_	OrigLang=grc
 12	ⲟⲩⲛ	ⲟⲩⲛ	VERB	EXIST	_	7	parataxis	_	Orig=ⲟⲩⲛ̅
 13	ⲥⲟⲛ	ⲥⲟⲛ	NOUN	N	_	12	nsubj	_	Entity=(person)
 14	ⲙ	ⲛ	ADP	PREP	_	16	case	_	Orig=ⲙ̅

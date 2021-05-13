@@ -32,7 +32,7 @@ The following 11 pairs of parts of speech are connected with `flat:range`: <tt><
 7	зйомки	зйомка	NOUN	Ncfsgn	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	5:nmod	Id=1tz1|LTranslit=zjomka|Translit=zjomky
 8	до	до	ADP	Spsg	Case=Gen	12	case	12:case	Id=1tz2|LTranslit=do|Translit=do
 9	12	12	NUM	Mlc-g	Case=Gen|NumType=Card|Uninflect=Yes	12	nummod	12:nummod	Id=1tz3|LTranslit=12|SpaceAfter=No|Translit=12
-10	-	-	PUNCT	U	PunctType=Ndash	11	punct	11:punct	Id=1tz4|LTranslit=-|SpaceAfter=No|Translit=-
+10	-	-	PUNCT	U	PunctType=Dash	11	punct	11:punct	Id=1tz4|LTranslit=-|SpaceAfter=No|Translit=-
 11	14	14	NUM	Mlc-g	Case=Gen|NumType=Card|Uninflect=Yes	9	flat:range	9:flat:range	Id=1tz5|LTranslit=14|Translit=14
 12	днів	день	NOUN	Ncmpgn	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	ccomp	1:ccomp	Id=1tz6|LTranslit=deń|SpaceAfter=No|Translit=dniv
 13	.	.	PUNCT	U	_	1	punct	1:punct	Id=1tz7|LTranslit=.|Translit=.
@@ -48,7 +48,7 @@ The following 11 pairs of parts of speech are connected with `flat:range`: <tt><
 # visual-style 2 4 flat:range	color:blue
 1	Датується	датуватися	VERB	Vmpip3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Id=1rax|LTranslit=datuvatyśа|Translit=Datuěťśа
 2	1200	1200	ADJ	Mlomsi	Case=Ins|Gender=Masc|Number=Sing|NumType=Ord|Uninflect=Yes	5	amod	5:amod	Id=1ray|LTranslit=1200|SpaceAfter=No|Translit=1200
-3	—	—	PUNCT	U	PunctType=Ndash	4	punct	4:punct	Id=1raz|LTranslit=—|SpaceAfter=No|Translit=—
+3	—	—	PUNCT	U	PunctType=Dash	4	punct	4:punct	Id=1raz|LTranslit=—|SpaceAfter=No|Translit=—
 4	1210	1210	ADJ	Mlomsi	Case=Ins|Gender=Masc|Number=Sing|NumType=Ord|Uninflect=Yes	2	flat:range	2:flat:range	Id=1rb0|LTranslit=1210|Translit=1210
 5	роками	рік	NOUN	Ncmpin	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	1	obl	1:obl	Id=1rb1|LTranslit=rik|Translit=rokamy
 6	та	та	CCONJ	Ccs	_	7	cc	7:cc	Id=1rb2|LTranslit=ta|Translit=ta

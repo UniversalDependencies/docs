@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2806 nodes (8%) are attached to their parents as `root`.
+2837 nodes (8%) are attached to their parents as `root`.
 
-2806 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.98538845331433.
+2837 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.90306661966866.
 
-The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1841; 66% instances), -<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (351; 13% instances), -<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (195; 7% instances), -<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (97; 3% instances), -<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (88; 3% instances), -<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (79; 3% instances), -<tt><a href="fr_spoken-pos-INTJ.html">INTJ</a></tt> (64; 2% instances), -<tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt> (50; 2% instances), -<tt><a href="fr_spoken-pos-DET.html">DET</a></tt> (11; 0% instances), -<tt><a href="fr_spoken-pos-X.html">X</a></tt> (11; 0% instances), -<tt><a href="fr_spoken-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances), -<tt><a href="fr_spoken-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), -<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (4; 0% instances), -<tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt> (2; 0% instances).
+The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1849; 65% instances), -<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (362; 13% instances), -<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (199; 7% instances), -<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (98; 3% instances), -<tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (87; 3% instances), -<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (83; 3% instances), -<tt><a href="fr_spoken-pos-INTJ.html">INTJ</a></tt> (67; 2% instances), -<tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt> (51; 2% instances), -<tt><a href="fr_spoken-pos-DET.html">DET</a></tt> (11; 0% instances), -<tt><a href="fr_spoken-pos-X.html">X</a></tt> (11; 0% instances), -<tt><a href="fr_spoken-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances), -<tt><a href="fr_spoken-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), -<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (4; 0% instances), -<tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

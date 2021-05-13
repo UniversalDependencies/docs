@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="la_ittb-pos-NUM.htm
 
 1965 <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> tokens (55% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="la_ittb-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (1965; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1523; 78%), <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1442; 73%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="la_ittb-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (1965; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1523; 78%).
 
 `NUM` tokens may have the following values of `NumType`:
 
@@ -37,7 +37,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Dist` (80; 4% of non-empty `NumType`): <em>singulis, singula, singulae, singulas, singulorum, singulos, singularum, singuli, singulum</em>
 * `Ord` (1725; 96% of non-empty `NumType`): <em>prima, primum, primo, prius, primi, primam, secundo, secunda, primae, tertio</em>
-* `EMPTY` (27237): <em>diuina, impossibile, diuinae, diuinam, christi, humana, manifestum, necesse, possibilis, naturalis</em>
+* `EMPTY` (27235): <em>diuina, impossibile, diuinae, diuinam, christi, humana, manifestum, necesse, possibilis, naturalis</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (13) occur only with one value of `NumType`.
 

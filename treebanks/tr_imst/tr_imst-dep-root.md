@@ -11,9 +11,9 @@ This relation is universal.
 5635 nodes (10%) are attached to their parents as `root`.
 
 5635 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.66282165039929.
+Average distance between parent and child is 6.77320319432121.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (3541; 63% instances), -<tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> (938; 17% instances), -<tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> (485; 9% instances), -<tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> (180; 3% instances), -<tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> (147; 3% instances), -<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (125; 2% instances), -<tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> (85; 2% instances), -<tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> (74; 1% instances), -<tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (30; 1% instances), -<tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> (18; 0% instances), -<tt><a href="tr_imst-pos-DET.html">DET</a></tt> (10; 0% instances), -<tt><a href="tr_imst-pos-X.html">X</a></tt> (2; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (3604; 64% instances), -<tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> (960; 17% instances), -<tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> (492; 9% instances), -<tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> (182; 3% instances), -<tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> (147; 3% instances), -<tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> (86; 2% instances), -<tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> (77; 1% instances), -<tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (32; 1% instances), -<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (23; 0% instances), -<tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> (18; 0% instances), -<tt><a href="tr_imst-pos-DET.html">DET</a></tt> (11; 0% instances), -<tt><a href="tr_imst-pos-X.html">X</a></tt> (2; 0% instances), -<tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -42,7 +42,7 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 1	(	(	PUNCT	Punc	_	2	punct	_	SpaceAfter=No
 2	İzninizle	izin	NOUN	Noun	Case=Ins|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=2	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	Punc	_	5	punct	_	_
-4	neden	neden	ADV	Ques	Case=Abl|Number=Sing|Person=3	5	advmod	_	_
+4	neden	neden	ADV	Ques	_	5	advmod	_	_
 5	olmasın	ol	VERB	Verb	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	2	conj	_	SpaceAfter=No
 6	...	...	PUNCT	Punc	_	5	punct	_	_
 

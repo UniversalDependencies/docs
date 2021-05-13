@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-782 nodes (3%) are attached to their parents as `fixed`.
+783 nodes (3%) are attached to their parents as `fixed`.
 
-782 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.19437340153453.
+783 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.1941251596424.
 
-The following 21 pairs of parts of speech are connected with `fixed`: <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (724; 93% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (8; 1% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="hi_pud-pos-PART.html">PART</a></tt>-<tt><a href="hi_pud-pos-PART.html">PART</a></tt> (7; 1% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_pud-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="hi_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-X.html">X</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 22 pairs of parts of speech are connected with `fixed`: <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (724; 92% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (8; 1% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="hi_pud-pos-PART.html">PART</a></tt>-<tt><a href="hi_pud-pos-PART.html">PART</a></tt> (7; 1% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_pud-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="hi_pud-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="hi_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-X.html">X</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -56,7 +56,7 @@ The following 21 pairs of parts of speech are connected with `fixed`: <tt><a hre
 7	कम	_	DET	QF	_	5	fixed	_	Translit=kama
 8	330,000	_	NUM	CD	NumType=Card	9	nummod	_	OrigForm=330000|Translit=330,000
 9	लोग	_	NOUN	NN	Animacy=Anim|Case=Nom|Number=Plur	11	nsubj	_	Translit=loga
-10	शामिल	_	ADJ	JJ	_	11	compound:conjv	_	Translit=śāmila
+10	शामिल	_	ADJ	JJ	_	11	compound:lvc	_	Translit=śāmila
 11	थे	_	VERB	VBI	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	SpaceAfter=No|Translit=the
 12	।	_	PUNCT	.	_	11	punct	_	Translit=.
 
@@ -83,7 +83,7 @@ The following 21 pairs of parts of speech are connected with `fixed`: <tt><a hre
 12	.	_	PUNCT	NFP	_	9	punct	_	Translit=.
 13	की	_	ADP	IN	Case=Gen|Gender=Fem	9	case	_	Translit=kī
 14	डिग्री	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	16	obj	_	Translit=ḍigrī
-15	हासिल	_	ADJ	JJ	_	16	compound:conjv	_	Translit=hāsila
+15	हासिल	_	ADJ	JJ	_	16	compound:lvc	_	Translit=hāsila
 16	की	_	VERB	VBI	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past	3	conj	_	SpaceAfter=No|Translit=kī
 17	।	_	PUNCT	.	_	3	punct	_	Translit=.
 

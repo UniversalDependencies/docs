@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ta_mwtt-dep-acl.html">acl</a></tt>.
 
-2 nodes (0%) are attached to their parents as `acl:relcl`.
+4 nodes (0%) are attached to their parents as `acl:relcl`.
 
-2 instances of `acl:relcl` (100%) are right-to-left (child precedes parent).
+4 instances of `acl:relcl` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt> (2; 100% instances).
+The following 1 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt> (4; 100% instances).
 
 
 ~~~ conllu

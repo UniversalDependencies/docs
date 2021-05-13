@@ -8,31 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-313 nodes (1%) are attached to their parents as `dep`.
+79 nodes (0%) are attached to their parents as `dep`.
 
-256 instances of `dep` (82%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.29073482428115.
+57 instances of `dep` (72%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.15189873417722.
 
-The following 9 pairs of parts of speech are connected with `dep`: <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_fqb-pos-PART.html">PART</a></tt> (234; 75% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-X.html">X</a></tt> (36; 12% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_fqb-pos-X.html">X</a></tt> (34; 11% instances), <tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_fqb-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="fr_fqb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_fqb-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="fr_fqb-pos-X.html">X</a></tt>-<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 dep	color:blue
-1	Pour	pour	ADP	_	_	3	case	_	_
-2	quelle	quel	DET	_	Gender=Fem|Number=Sing|PronType=Int	3	det	_	_
-3	compagnie	compagnie	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	_
-4	Marty	Marty	PROPN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
-5	McKewon	McKewon	PROPN	_	_	4	flat:name	_	_
-6	travaille	travailler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-7	-t	t	PART	_	_	8	dep	_	SpaceAfter=No|wordform=t
-8	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3	6	expl:subj	_	wordform=il
-9	?	?	PUNCT	_	_	6	punct	_	_
-
-~~~
+The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-X.html">X</a></tt> (36; 46% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_fqb-pos-X.html">X</a></tt> (34; 43% instances), <tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_fqb-pos-X.html">X</a></tt> (3; 4% instances), <tt><a href="fr_fqb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_fqb-pos-INTJ.html">INTJ</a></tt> (2; 3% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-X.html">X</a></tt>-<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -74,6 +55,28 @@ The following 9 pairs of parts of speech are connected with `dep`: <tt><a href="
 8	Rome	Rome	PROPN	_	Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
 9	"	"	PUNCT	_	_	8	punct	_	_
 10	?	?	PUNCT	_	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 7 dep	color:blue
+1	Quelle	quel	DET	_	Gender=Fem|Number=Sing|PronType=Int	2	det	_	_
+2	compagnie	compagnie	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
+3	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	pour	pour	ADP	_	_	5	case	_	_
+5	slogan	slogan	NOUN	_	Gender=Masc|Number=Sing	3	xcomp	_	_
+6	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
+7	Quality	Quality	X	_	_	10	dep	_	_
+8	is	is	X	_	_	10	dep	_	_
+9	job	job	X	_	_	10	dep	_	_
+10	1	1	NUM	_	NumType=Card	3	obj	_	SpaceAfter=No
+11	"	"	PUNCT	_	_	10	punct	_	_
+12	?	?	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

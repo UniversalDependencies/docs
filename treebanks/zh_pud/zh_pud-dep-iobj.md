@@ -97,12 +97,12 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 21	優先	_	VERB	VV	_	22	advcl	_	SpaceAfter=No|Translit=yōuxiān
 22	進入	_	VERB	VV	_	25	acl:relcl	_	SpaceAfter=No|Translit=jìnrù
 23	政府	_	NOUN	NN	_	22	obj	_	SpaceAfter=No|Translit=zhèngfǔ
-24	的	_	PART	DEC	_	22	mark:relcl	_	SpaceAfter=No|Translit=de
+24	的	_	PART	DEC	_	22	mark:rel	_	SpaceAfter=No|Translit=de
 25	權利	_	NOUN	NN	_	16	obj	_	SpaceAfter=No|Translit=quánlì
 26	，	_	PUNCT	,	_	31	punct	_	SpaceAfter=No|Translit=，
 27	或是	_	CCONJ	CC	_	31	cc	_	SpaceAfter=No|Translit=huòshì
 28	明顯	_	ADJ	JJ	_	31	amod	_	SpaceAfter=No|Translit=míngxiǎn
-29	的	_	PART	DEC	_	28	mark:relcl	_	SpaceAfter=No|Translit=de
+29	的	_	PART	DEC	_	28	mark:rel	_	SpaceAfter=No|Translit=de
 30	進入	_	NOUN	NN	_	31	compound	_	SpaceAfter=No|Translit=jìnrù
 31	優先權	_	VERB	VV	_	25	conj	_	SpaceAfter=No|Translit=yōuxiānquán
 32	，	_	PUNCT	,	_	15	punct	_	SpaceAfter=No|Translit=，

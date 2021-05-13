@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal but the values `Dim` are language-specific.
 It occurs with 4 different values: `Cmp`, `Dim`, `Pos`, `Sup`.
 
-5221 tokens (11%) have a non-empty value of `Degree`.
-1325 types (21%) occur at least once with a non-empty value of `Degree`.
+5222 tokens (11%) have a non-empty value of `Degree`.
+1326 types (21%) occur at least once with a non-empty value of `Degree`.
 996 lemmas (19%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (3172; 6% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (2034; 4% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (15; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (3173; 6% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt> (2034; 4% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (15; 0% instances).
 
 ### `ADJ`
 
-3172 <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Degree`.
+3173 <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="af_afribooms-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3172; 100%), <tt><a href="af_afribooms-feat-AdjType.html">AdjType</a></tt><tt>=Attr</tt> (2683; 85%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="af_afribooms-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3173; 100%), <tt><a href="af_afribooms-feat-AdjType.html">AdjType</a></tt><tt>=Attr</tt> (2683; 85%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (63; 2% of non-empty `Degree`): <em>beter, hoër, groter, ouer, sterker, hoÃ«r, laer, minder, jonger, langer</em>
-* `Pos` (3058; 96% of non-empty `Degree`): <em>ander, nasionale, Suid-Afrikaanse, openbare, maatskaplike, voorlopige, nuwe, plaaslike, ekonomiese, groot</em>
+* `Pos` (3059; 96% of non-empty `Degree`): <em>ander, nasionale, Suid-Afrikaanse, openbare, maatskaplike, voorlopige, nuwe, plaaslike, ekonomiese, groot</em>
 * `Sup` (51; 2% of non-empty `Degree`): <em>naaste, beste, grootste, belangrikste, hoogste, enigste, ergste, meeste, doeltreffendste, jongste</em>
 
 <table>
@@ -65,14 +65,14 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="af_afribooms-dep-conj.html">conj</a></tt>]--> ADJ</tt> (166; 100%),
+<tt>ADJ --[<tt><a href="af_afribooms-dep-conj.html">conj</a></tt>]--> ADJ</tt> (172; 99%),
+<tt>ADJ --[<tt><a href="af_afribooms-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (143; 89%),
 <tt>ADV --[<tt><a href="af_afribooms-dep-conj.html">conj</a></tt>]--> ADV</tt> (27; 100%),
-<tt>ADJ --[<tt><a href="af_afribooms-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (24; 73%),
-<tt>ADV --[<tt><a href="af_afribooms-dep-dep.html">dep</a></tt>]--> ADV</tt> (12; 86%),
-<tt>ADV --[<tt><a href="af_afribooms-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (11; 69%),
-<tt>ADV --[<tt><a href="af_afribooms-dep-dep.html">dep</a></tt>]--> ADJ</tt> (8; 100%),
-<tt>ADJ --[<tt><a href="af_afribooms-dep-cop.html">cop</a></tt>]--> ADJ</tt> (5; 100%),
-<tt>ADJ --[<tt><a href="af_afribooms-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3; 100%),
-<tt>ADJ --[<tt><a href="af_afribooms-dep-dep.html">dep</a></tt>]--> ADV</tt> (3; 75%),
-<tt>ADV --[<tt><a href="af_afribooms-dep-obl.html">obl</a></tt>]--> ADV</tt> (2; 100%).
+<tt>ADV --[<tt><a href="af_afribooms-dep-dep.html">dep</a></tt>]--> ADV</tt> (16; 89%),
+<tt>ADV --[<tt><a href="af_afribooms-dep-dep.html">dep</a></tt>]--> ADJ</tt> (11; 100%),
+<tt>ADJ --[<tt><a href="af_afribooms-dep-dep.html">dep</a></tt>]--> ADJ</tt> (10; 83%),
+<tt>ADV --[<tt><a href="af_afribooms-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (10; 67%),
+<tt>ADJ --[<tt><a href="af_afribooms-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6; 100%),
+<tt>ADJ --[<tt><a href="af_afribooms-dep-dep.html">dep</a></tt>]--> ADV</tt> (4; 57%),
+<tt>ADJ --[<tt><a href="af_afribooms-dep-mark.html">mark</a></tt>]--> ADV</tt> (2; 100%).
 

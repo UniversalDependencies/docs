@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `csubj`: <tt><a href="fr_partut-dep-csubj-pass.html">csubj:pass</a></tt>.
 
-64 nodes (0%) are attached to their parents as `csubj`.
+63 nodes (0%) are attached to their parents as `csubj`.
 
-62 instances of `csubj` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.09375.
+61 instances of `csubj` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.88888888888889.
 
-The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (35; 55% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (17; 27% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (7; 11% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (35; 56% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (17; 27% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (7; 11% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -48,7 +48,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 csubj	color:blue
-1	Considérant	considérer	VERB	V	VerbForm=Ger	0	root	_	_
+1	Considérant	considérer	VERB	V	Tense=Pres|VerbForm=Part	0	root	_	_
 2	qu'	que	SCONJ	CS	_	5	mark	_	SpaceAfter=No
 3	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
 4	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
@@ -68,18 +68,18 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 7 csubj	color:blue
+# visual-style 3 6 csubj	color:blue
 1	Est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	SpaceAfter=No
 2	-il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 3	vrai	vrai	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
-4	que	que	SCONJ	CS	_	7	mark	_	_
-5	Facebook	Facebook	PROPN	SP	_	7	nsubj	_	_
-6	va	aller	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
-7	facturer	facturer	VERB	V	VerbForm=Inf	3	csubj	_	_
+4	que	que	SCONJ	CS	_	6	mark	_	_
+5	Facebook	Facebook	PROPN	SP	_	6	nsubj	_	_
+6	va	aller	VERB	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	csubj	_	_
+7	facturer	facturer	VERB	V	VerbForm=Inf	6	xcomp	_	_
 8	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
 9	utilisation	utilisation	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
 10	de	de	ADP	E	_	12	case	_	_

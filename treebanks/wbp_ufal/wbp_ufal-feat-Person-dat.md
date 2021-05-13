@@ -9,7 +9,7 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `3`.
 
-This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="wbp_ufal-feat-Person.html">Person</a></tt>, <tt><a href="wbp_ufal-feat-Person-dat.html">Person[dat]</a></tt>, <tt><a href="wbp_ufal-feat-Person-obj.html">Person[obj]</a></tt>, <tt><a href="wbp_ufal-feat-Person-sdat.html">Person[sdat]</a></tt>.
+This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="wbp_ufal-feat-Person.html">Person</a></tt>, <tt><a href="wbp_ufal-feat-Person-dat.html">Person[dat]</a></tt>, <tt><a href="wbp_ufal-feat-Person-obj.html">Person[obj]</a></tt>.
 
 6 tokens (2%) have a non-empty value of `Person[dat]`.
 4 types (4%) occur at least once with a non-empty value of `Person[dat]`.
@@ -18,9 +18,9 @@ The feature is used with 2 part-of-speech tags: <tt><a href="wbp_ufal-pos-AUX.ht
 
 ### `AUX`
 
-5 <tt><a href="wbp_ufal-pos-AUX.html">AUX</a></tt> tokens (11% of all `AUX` tokens) have a non-empty value of `Person[dat]`.
+5 <tt><a href="wbp_ufal-pos-AUX.html">AUX</a></tt> tokens (10% of all `AUX` tokens) have a non-empty value of `Person[dat]`.
 
-The most frequent other feature values with which `AUX` and `Person[dat]` co-occurred: <tt><a href="wbp_ufal-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="wbp_ufal-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="wbp_ufal-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="wbp_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="wbp_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4; 80%).
+The most frequent other feature values with which `AUX` and `Person[dat]` co-occurred: <tt><a href="wbp_ufal-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="wbp_ufal-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="wbp_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4; 80%), <tt><a href="wbp_ufal-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 60%), <tt><a href="wbp_ufal-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 60%).
 
 `AUX` tokens may have the following values of `Person[dat]`:
 

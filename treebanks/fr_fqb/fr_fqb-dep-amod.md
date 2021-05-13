@@ -41,20 +41,19 @@ The following 3 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 amod	color:blue
-1	Combien	combien	ADV	_	PronType=Int	13	obj	_	_
+1	Combien	combien	ADV	_	PronType=Int	12	obj	_	_
 2	de	de	ADP	_	_	3	case	_	_
 3	titres	titre	NOUN	_	Gender=Masc|Number=Plur	1	obl:arg	_	_
 4	de	de	ADP	_	_	7	case	_	_
 5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 6	Grand	grand	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
 7	Slam	Slam	PROPN	_	_	3	nmod	_	_
-8	Bjorn	Bjorn	PROPN	_	_	13	nsubj	_	_
+8	Bjorn	Bjorn	PROPN	_	_	12	nsubj	_	_
 9	Borg	Borg	PROPN	_	_	8	flat:name	_	_
-10	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux:tense	_	SpaceAfter=No
-11	-t	t	PART	_	_	12	dep	_	SpaceAfter=No|wordform=t
-12	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3	13	expl:subj	_	wordform=il
-13	remportés	remporter	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
-14	?	?	PUNCT	_	_	13	punct	_	_
+10	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux:tense	_	SpaceAfter=No
+11	-t-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3	12	expl:subj	_	_
+12	remportés	remporter	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+13	?	?	PUNCT	_	_	12	punct	_	_
 
 ~~~
 

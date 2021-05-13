@@ -88,7 +88,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 
 2 <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `DET` and `Abbr` co-occurred: <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=Dist</tt> (2; 100%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hy_armtdp-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (2; 100%).
+The most frequent other feature values with which `DET` and `Abbr` co-occurred: <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hy_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=Remt</tt> (2; 100%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hy_armtdp-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (2; 100%).
 
 `DET` tokens may have the following values of `Abbr`:
 

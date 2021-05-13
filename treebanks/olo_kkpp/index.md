@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Tommi A Pirinen.
 
 Repository: [UD_Livvi-KKPP](https://github.com/UniversalDependencies/UD_Livvi-KKPP)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udolo_kkpp27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udolo_kkpp28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -88,7 +88,7 @@ these can be found in the training set.
 
 ## Relations
 
-[acl](olo_kkpp-dep-acl.html) – [acl:relcl](olo_kkpp-dep-acl-relcl.html) – [advcl](olo_kkpp-dep-advcl.html) – [advmod](olo_kkpp-dep-advmod.html) – [amod](olo_kkpp-dep-amod.html) – [appos](olo_kkpp-dep-appos.html) – [aux](olo_kkpp-dep-aux.html) – [aux:neg](olo_kkpp-dep-aux-neg.html) – [case](olo_kkpp-dep-case.html) – [cc](olo_kkpp-dep-cc.html) – [ccomp](olo_kkpp-dep-ccomp.html) – [compound](olo_kkpp-dep-compound.html) – [compound:nn](olo_kkpp-dep-compound-nn.html) – [conj](olo_kkpp-dep-conj.html) – [cop](olo_kkpp-dep-cop.html) – [cop:own](olo_kkpp-dep-cop-own.html) – [csubj:cop](olo_kkpp-dep-csubj-cop.html) – [det](olo_kkpp-dep-det.html) – [discourse](olo_kkpp-dep-discourse.html) – [fixed](olo_kkpp-dep-fixed.html) – [flat:name](olo_kkpp-dep-flat-name.html) – [goeswith](olo_kkpp-dep-goeswith.html) – [mark](olo_kkpp-dep-mark.html) – [nmod](olo_kkpp-dep-nmod.html) – [nmod:poss](olo_kkpp-dep-nmod-poss.html) – [nsubj](olo_kkpp-dep-nsubj.html) – [nsubj:cop](olo_kkpp-dep-nsubj-cop.html) – [nummod](olo_kkpp-dep-nummod.html) – [obj](olo_kkpp-dep-obj.html) – [obl](olo_kkpp-dep-obl.html) – [orphan](olo_kkpp-dep-orphan.html) – [parataxis](olo_kkpp-dep-parataxis.html) – [punct](olo_kkpp-dep-punct.html) – [root](olo_kkpp-dep-root.html) – [vocative](olo_kkpp-dep-vocative.html) – [xcomp](olo_kkpp-dep-xcomp.html) – [xcomp:ds](olo_kkpp-dep-xcomp-ds.html)
+[acl](olo_kkpp-dep-acl.html) – [acl:relcl](olo_kkpp-dep-acl-relcl.html) – [advcl](olo_kkpp-dep-advcl.html) – [advmod](olo_kkpp-dep-advmod.html) – [amod](olo_kkpp-dep-amod.html) – [appos](olo_kkpp-dep-appos.html) – [aux](olo_kkpp-dep-aux.html) – [case](olo_kkpp-dep-case.html) – [cc](olo_kkpp-dep-cc.html) – [ccomp](olo_kkpp-dep-ccomp.html) – [compound](olo_kkpp-dep-compound.html) – [compound:nn](olo_kkpp-dep-compound-nn.html) – [conj](olo_kkpp-dep-conj.html) – [cop](olo_kkpp-dep-cop.html) – [cop:own](olo_kkpp-dep-cop-own.html) – [csubj:cop](olo_kkpp-dep-csubj-cop.html) – [det](olo_kkpp-dep-det.html) – [discourse](olo_kkpp-dep-discourse.html) – [fixed](olo_kkpp-dep-fixed.html) – [flat:name](olo_kkpp-dep-flat-name.html) – [goeswith](olo_kkpp-dep-goeswith.html) – [mark](olo_kkpp-dep-mark.html) – [nmod](olo_kkpp-dep-nmod.html) – [nmod:poss](olo_kkpp-dep-nmod-poss.html) – [nsubj](olo_kkpp-dep-nsubj.html) – [nsubj:cop](olo_kkpp-dep-nsubj-cop.html) – [nummod](olo_kkpp-dep-nummod.html) – [obj](olo_kkpp-dep-obj.html) – [obl](olo_kkpp-dep-obl.html) – [orphan](olo_kkpp-dep-orphan.html) – [parataxis](olo_kkpp-dep-parataxis.html) – [punct](olo_kkpp-dep-punct.html) – [root](olo_kkpp-dep-root.html) – [vocative](olo_kkpp-dep-vocative.html) – [xcomp](olo_kkpp-dep-xcomp.html) – [xcomp:ds](olo_kkpp-dep-xcomp-ds.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -153,7 +153,6 @@ these can be found in the training set.
     <li>AUX: oli, on, ollah, voibi, ole, olen, Ongo, olis, pidänyh, voidas</li>
     <li>NOUN: sualis</li>
     <li>VERB: sanoi, rodieu, sanoo, kuulimo, kuulittogo, pietäh, sanottih, tiezimö, tiezittö, istui</li>
-    <li>X: teidänyh</li>
   </ul>
   </li>
 </ul>
@@ -483,7 +482,6 @@ these can be found in the training set.
       <li>VERB: sanoi, pietäh, rodieu, sanoo, kuulimo, kuulittogo, sanottih, tiezimö, tiezittö, istui</li>
       <li>VERB-Fin: sanoi, rodieu, sanoo, kuulimo, kuulittogo, pietäh, sanottih, tiezimö, tiezittö, istui</li>
       <li>VERB-Part: käynnyh</li>
-      <li>X-Fin: teidänyh</li>
     </ul>
   </li>
 </ul>
@@ -509,7 +507,6 @@ these can be found in the training set.
       <li>AUX-Part: suannuh</li>
       <li>VERB-Fin: sanoi, sanottih, istui, kraassi, kuulittogo, kuulluh, lähtiettih, oli, saneltih, tiezittö</li>
       <li>VERB-Part: käynnyh, tundiettu, kehitynnyh, mainittuloin, sanottuu, tulluot</li>
-      <li>X-Fin: teidänyh</li>
     </ul>
   </li>
 </ul>
@@ -538,7 +535,6 @@ these can be found in the training set.
       <li>NOUN-Fin: sualis</li>
       <li>VERB-Fin: sanoi, rodieu, kuulimo, kuulittogo, sanoo, sanottih, tiezimö, tiezittö, istui, kraassi</li>
       <li>VERB-Part: käynnyh, järjestäjänny, koskijoi, tulluot</li>
-      <li>X-Fin: teidänyh</li>
     </ul>
   </li>
 </ul>
@@ -547,8 +543,8 @@ these can be found in the training set.
   <li>Pass
     <ul>
       <li>AUX: voidu</li>
-      <li>VERB: pietäh, tundiettu, ečitäh, järjestetäh, kannatetah, kuunneltes, mainittuloin, saneltah, sanottuu</li>
-      <li>VERB-Fin: pietäh, ečitäh, kannatetah, saneltah</li>
+      <li>VERB: pietäh, tundiettu, ečitäh, järjestetäh, kannatetah, kuunneltes, mainittuloin, sanottuu</li>
+      <li>VERB-Fin: pietäh, ečitäh, kannatetah</li>
       <li>VERB-Ger: kuunneltes</li>
       <li>VERB-Part: tundiettu, mainittuloin, sanottuu</li>
     </ul>
@@ -738,8 +734,7 @@ these can be found in the training set.
           <li>AUX: ole, olis, pidänyh, voidu</li>
           <li>AUX-Fin: ole, olis, pidänyh</li>
           <li>VERB: kuulluh, arbailla, ehtinyh, kylmetty, löytä, musta, nähty, ole, olla, sanottu</li>
-          <li>VERB-Fin: kuulluh, arbailla, ehtinyh, kylmetty, musta, nähty, ole, olla, sanottu, tilata</li>
-          <li>X-Fin: teidänyh</li>
+          <li>VERB-Fin: kuulluh, arbailla, ehtinyh, kylmetty, musta, nähty, ole, olla, sanottu, teidänyh</li>
         </ul>
       </li>
     </ul>
@@ -827,7 +822,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>aux:neg</a>, <a>compound:nn</a>, <a>cop:own</a>, <a>csubj:cop</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>xcomp:ds</a></li>
+<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>compound:nn</a>, <a>cop:own</a>, <a>csubj:cop</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>xcomp:ds</a></li>
 <li>The following 2 main types are not used alone, they are always subtyped: <a>csubj</a>, <a>flat</a></li>
 <li>The following 7 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

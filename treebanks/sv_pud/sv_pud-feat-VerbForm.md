@@ -39,7 +39,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 732 <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="sv_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (732; 100%), <tt><a href="sv_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (646; 88%), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (411; 56%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="sv_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (730; 100%), <tt><a href="sv_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (646; 88%), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (411; 56%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 

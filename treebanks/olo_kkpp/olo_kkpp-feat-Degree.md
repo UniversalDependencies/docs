@@ -34,5 +34,5 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 `VERB` tokens may have the following values of `Degree`:
 
 * `Pos` (1; 100% of non-empty `Degree`): <em>sanottuu</em>
-* `EMPTY` (255): <em>sanoi, pietäh, rodieu, sanoo, kuulimo, kuulittogo, kuulluh, sanottih, tiezimö, tiezittö</em>
+* `EMPTY` (256): <em>sanoi, pietäh, rodieu, sanoo, kuulimo, kuulittogo, kuulluh, sanottih, tiezimö, tiezittö</em>
 

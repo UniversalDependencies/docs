@@ -13,18 +13,19 @@ The 10 most frequent `SYM` lemmas: <em>a, b, c</em>
 
 The 10 most frequent `SYM` types:  <em>a, b, c</em>
 
-The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> 1, <tt><a href="qtd_sagt-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> 2, <tt><a href="qtd_sagt-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="qtd_sagt-pos-SYM.html">SYM</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> 1, <tt><a href="qtd_sagt-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> 2, <tt><a href="qtd_sagt-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="qtd_sagt-pos-SYM.html">SYM</a></tt> 1)
 
 
 * <em>a</em>
-  * <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> 1: <em>Ya em mesela es gibt zu dem Beispiel in dem Deutschen ähm Two and <b>a</b> Half Man</em>
+  * <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> 2: <em>Ya em mesela es gibt zu dem Beispiel in dem Deutschen ähm Two and <b>a</b> Half Man</em>
+  * <tt><a href="qtd_sagt-pos-INTJ.html">INTJ</a></tt> 1: <em>Çarşamba diyen yerde Kurtahmetli Köyde anneannem oturuyordu <b>a</b> dayım teyzem kuzenlerim orada oturuyor äh her gitmeye tabii onlara da besuchen etmeye gidiyorum .</em>
   * <tt><a href="qtd_sagt-pos-SYM.html">SYM</a></tt> 1: <em>Und ich mache dann halt die 3 onun çünkü <b>a</b> , b , c şeyleri var o e Teilları var .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.656209).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.681057).
 
 The 1st highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 

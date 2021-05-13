@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>jednotky</em> (<tt><a href="cs_cltt-p
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.940559 (the average of all parts of speech is 1.726345).
+The form / lemma ratio of `NOUN` is 1.940559 (the average of all parts of speech is 1.725132).
 
 The 1st highest number of forms (9) was observed with the lemma “jednotka”: <em>jednotce, jednotek, jednotka, jednotkami, jednotkou, jednotku, jednotky, jednotkách, jednotkám</em>.
 

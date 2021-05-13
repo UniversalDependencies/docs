@@ -66,7 +66,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 4	мыңнан	мың	NUM	num	Case=Abl|NumType=Card,Ord	6	nmod	_	_
 5	астам	астам	ADJ	adj	_	6	amod	_	_
 6	шақырымды	шақырым	NOUN	n	Case=Acc	7	obj	_	_
-7	құрайды	құра	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No
+7	құрайды	құра	VERB	v	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	sent	_	7	punct	_	_
 
 ~~~

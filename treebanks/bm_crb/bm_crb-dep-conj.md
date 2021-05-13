@@ -22,12 +22,12 @@ The following 9 pairs of parts of speech are connected with `conj`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 conj	color:blue
-1	<>	_	X	_	_	2	discourse	_	Gloss=_|SpaceAfter=No
+1	<>	_	PUNCT	_	_	2	punct	_	Gloss=_|SpaceAfter=No
 2	Den	dén	NOUN	n	_	0	root	_	Gloss=enfant
 3	ɲuman	ɲùman	ADJ	adj	_	2	amod	_	Gloss=bon
-4	ni	ni	X	conj	_	5	cc	_	Gloss=et
+4	ni	ni	CCONJ	conj	_	5	cc	_	Gloss=et
 5	Kɔnɔnin	kɔnɔnin	NOUN	n	_	2	conj	_	Gloss=oiseau|Morf=oiseau,DIM|SpaceAfter=No
-6	</>	_	X	_	_	2	punct	_	Gloss=_
+6	</>	_	PUNCT	_	_	2	punct	_	Gloss=_
 
 ~~~
 
@@ -44,7 +44,7 @@ The following 9 pairs of parts of speech are connected with `conj`: <tt><a href=
 4	kolakalilaba	_	NOUN	_	_	1	conj	_	_
 5	dɔ	_	DET	_	_	4	det	_	_
 6	don	_	VERB	_	_	0	root	_	SpaceAfter=No
-7	,	_	PUNCT	_	_	6	punct	_	_
+7	,	_	PUNCT	_	_	9	punct	_	_
 8	ko	_	PART	_	_	9	discourse	_	_
 9	Mɛnkɔrɔ	_	PROPN	_	_	6	obl	_	SpaceAfter=No
 10	.	_	PUNCT	_	_	6	punct	_	_

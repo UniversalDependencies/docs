@@ -14,16 +14,16 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 150914 tokens (62%) have a non-empty value of `Number`.
 8767 types (94%) occur at least once with a non-empty value of `Number`.
 3246 lemmas (93%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (51209; 21% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (25493; 11% instances), <tt><a href="la_llct-pos-DET.html">DET</a></tt> (20197; 8% instances), <tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> (20153; 8% instances), <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> (17204; 7% instances), <tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> (12368; 5% instances), <tt><a href="la_llct-pos-AUX.html">AUX</a></tt> (2745; 1% instances), <tt><a href="la_llct-pos-NUM.html">NUM</a></tt> (1545; 1% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (51206; 21% instances), <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (25494; 11% instances), <tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> (20149; 8% instances), <tt><a href="la_llct-pos-DET.html">DET</a></tt> (19077; 8% instances), <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> (18327; 8% instances), <tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> (12372; 5% instances), <tt><a href="la_llct-pos-AUX.html">AUX</a></tt> (2744; 1% instances), <tt><a href="la_llct-pos-NUM.html">NUM</a></tt> (1545; 1% instances).
 
 ### `NOUN`
 
-51209 <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+51206 <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (10214; 20% of non-empty `Number`): <em>rebus, annos, heredes, casis, soledos, res, cartulas, subcessoribus, successoribus, kalendas</em>
-* `Sing` (40995; 80% of non-empty `Number`): <em>teste, ecclesie, filio, manus, casa, loco, terra, signum, notarius, nomine</em>
+* `Plur` (10212; 20% of non-empty `Number`): <em>rebus, annos, heredes, casis, soledos, res, cartulas, subcessoribus, successoribus, kalendas</em>
+* `Sing` (40994; 80% of non-empty `Number`): <em>teste, ecclesie, filio, manus, casa, loco, terra, signum, notarius, nomine</em>
 * `EMPTY` (7): <em>[noun], [pronoun], [--]</em>
 
 <table>
@@ -37,13 +37,13 @@ The feature is used with 8 part-of-speech tags: <tt><a href="la_llct-pos-NOUN.ht
 
 ### `VERB`
 
-25493 <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> tokens (85% of all `VERB` tokens) have a non-empty value of `Number`.
+25494 <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> tokens (85% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="la_llct-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (15912; 62%), <tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (15737; 62%), <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (15737; 62%), <tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15737; 62%), <tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (15500; 61%), <tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (13584; 53%), <tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (13572; 53%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="la_llct-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (15913; 62%), <tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (15738; 62%), <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (15738; 62%), <tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15738; 62%), <tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (15500; 61%), <tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (13849; 54%), <tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (13572; 53%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (4819; 19% of non-empty `Number`): <em>debeamus, rogavimus, pertenentes, conservata, quesierimus, designatas, relaxaverimus, intentionaverimus, spondimus, potuerimus</em>
+* `Plur` (4820; 19% of non-empty `Number`): <em>debeamus, rogavimus, pertenentes, conservata, quesierimus, designatas, relaxaverimus, intentionaverimus, spondimus, potuerimus</em>
 * `Sing` (20674; 81% of non-empty `Number`): <em>subscripsi, rogatus, dedi, est, dedisti, legitur, actum, tenet, conplevi, regnante</em>
 * `EMPTY` (4494): <em>scribere, conponere, fieri, reddere, dare, abere, venire, gubernare, facere, meliorare</em>
 
@@ -56,16 +56,40 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="la_llct-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>rogavit, rogavet, rogavi, rogave, rogabi</em></td><td><em>rogaverunt</em></td></tr>
 </table>
 
+### `PROPN`
+
+20149 <tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (17382; 86%).
+
+`PROPN` tokens may have the following values of `Number`:
+
+* `Plur` (119; 1% of non-empty `Number`): <em>Capannule, Vaccule, domini, Interacchule, Capelle, Casule, Saxi, Subsilvule, Vallibus, Viniole</em>
+* `Sing` (20030; 99% of non-empty `Number`): <em>Dei, Luca, Martini, Deo, Petri, Gherardus, Petrus, Marie, domini, Italia</em>
+* `EMPTY` (2): <em>[Propn]</em>
+
+<table>
+  <tr><th>Paradigm <i>Dominus</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Abl</tt></tt></td><td><em>Domino</em></td><td><em>domini</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>dominum</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>domino</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>domini</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>dominus</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Voc</tt></tt></td><td><em>domine</em></td><td></td></tr>
+</table>
+
+`Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (1833) occur only with one value of `Number`.
+
 ### `DET`
 
-20197 <tt><a href="la_llct-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+19077 <tt><a href="la_llct-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="la_llct-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (14970; 74%), <tt><a href="la_llct-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (14268; 71%), <tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (13148; 65%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="la_llct-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (13850; 73%), <tt><a href="la_llct-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (13148; 69%), <tt><a href="la_llct-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (13148; 69%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (5414; 27% of non-empty `Number`): <em>tuis, omnia, meis, omnibus, hec, suis, suas, suprascripti, ipsis, ipse</em>
-* `Sing` (14783; 73% of non-empty `Number`): <em>ipsa, eius, qui, mea, nostro, ipsius, suprascripta, hanc, vestro, alio</em>
+* `Plur` (5343; 28% of non-empty `Number`): <em>tuis, omnia, meis, omnibus, hec, suis, suas, suprascripti, ipsis, ipse</em>
+* `Sing` (13734; 72% of non-empty `Number`): <em>ipsa, qui, mea, nostro, ipsius, suprascripta, hanc, vestro, alio, illa</em>
 
 <table>
   <tr><th>Paradigm <i>ipse</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -85,40 +109,16 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>ipsum, ipso</em></td><td><em>ipsa</em></td></tr>
 </table>
 
-### `PROPN`
-
-20153 <tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (17383; 86%).
-
-`PROPN` tokens may have the following values of `Number`:
-
-* `Plur` (119; 1% of non-empty `Number`): <em>Capannule, Vaccule, domini, Interacchule, Capelle, Casule, Saxi, Subsilvule, Vallibus, Viniole</em>
-* `Sing` (20034; 99% of non-empty `Number`): <em>Dei, Luca, Martini, Deo, Petri, Gherardus, Petrus, Marie, domini, Italia</em>
-* `EMPTY` (2): <em>[Propn]</em>
-
-<table>
-  <tr><th>Paradigm <i>Dominus</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Abl</tt></tt></td><td><em>Domino</em></td><td><em>domini</em></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>dominum</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>domino</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>domini</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>dominus</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=Voc</tt></tt></td><td><em>domine</em></td><td></td></tr>
-</table>
-
-`Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (1833) occur only with one value of `Number`.
-
 ### `PRON`
 
-17204 <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
+18327 <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (14298; 83%), <tt><a href="la_llct-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (12640; 73%), <tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt> (9730; 57%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (15329; 84%), <tt><a href="la_llct-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (12640; 69%), <tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt> (9732; 53%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (4423; 26% of non-empty `Number`): <em>nos, vobis, quas, nobis, eas, qui, vos, que, eos, quibus</em>
-* `Sing` (12781; 74% of non-empty `Number`): <em>ego, me, tibi, qui, mihi, id, tu, quod, que, te</em>
+* `Plur` (4496; 25% of non-empty `Number`): <em>nos, vobis, quas, nobis, eas, qui, vos, eorum, que, eos</em>
+* `Sing` (13831; 75% of non-empty `Number`): <em>ego, me, tibi, qui, eius, mihi, id, tu, quod, que</em>
 
 <table>
   <tr><th>Paradigm <i>qui</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -139,14 +139,14 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `ADJ`
 
-12368 <tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> tokens (93% of all `ADJ` tokens) have a non-empty value of `Number`.
+12372 <tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> tokens (93% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="la_llct-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (9218; 75%), <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6622; 54%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="la_llct-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (9222; 75%), <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6623; 54%).
 
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (2123; 17% of non-empty `Number`): <em>singulos, bonos, expendiviles, cultis, incultis, incultas, septembris, massariciis, manifesti, novembris</em>
-* `Sing` (10245; 83% of non-empty `Number`): <em>sancti, integrum, sancte, bone, manifestu, livellario, decimo, Lucane, vigisimo, humilis</em>
+* `Sing` (10249; 83% of non-empty `Number`): <em>sancti, integrum, sancte, bone, manifestu, livellario, decimo, Lucane, vigisimo, humilis</em>
 * `EMPTY` (963): <em>quondam</em>
 
 <table>
@@ -166,22 +166,22 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `AUX`
 
-2745 <tt><a href="la_llct-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Number`.
+2744 <tt><a href="la_llct-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2745; 100%), <tt><a href="la_llct-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2745; 100%), <tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2649; 97%), <tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt> (2179; 79%), <tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1616; 59%), <tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1615; 59%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2744; 100%), <tt><a href="la_llct-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2744; 100%), <tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2649; 97%), <tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt> (2178; 79%), <tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1615; 59%), <tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1614; 59%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (570; 21% of non-empty `Number`): <em>fuerint, sunt, fuerit, sumus, fuerunt, essent, fuissent, sint, fueritis, fuisserunt</em>
+* `Plur` (569; 21% of non-empty `Number`): <em>fuerint, sunt, fuerit, sumus, fuerunt, essent, fuissent, sint, fueritis, fuisserunt</em>
 * `Sing` (2175; 79% of non-empty `Number`): <em>est, sum, fuerit, fuit, fui, es, fuisset, sit, erat, fuere</em>
 * `EMPTY` (118): <em>esse, esset, essed, fuisset, essem, essere, fuissent, phore</em>
 
 <table>
   <tr><th>Paradigm <i>sum</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>erat</em></td><td><em>erat, erant</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>erat</em></td><td><em>erat, erant</em></td></tr>
   <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>sunt</em></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td></td><td><em>essemus</em></td></tr>
-  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>esse, esset</em></td><td><em>essent, esse</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>essemus</em></td></tr>
+  <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>esse, esset</em></td><td><em>essent, esse</em></td></tr>
   <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>fuero</em></td><td><em>fuerimus</em></td></tr>
   <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>fui, fuit</em></td><td><em>fuemus, fuimus</em></td></tr>
   <tr><td><tt><tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td><em>fueritis</em></td></tr>
@@ -211,7 +211,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="la_llct-dep-det.html">det</a></tt>]--> DET</tt> (15333; 100%),
+<tt>NOUN --[<tt><a href="la_llct-dep-det.html">det</a></tt>]--> DET</tt> (15030; 100%),
 <tt>VERB --[<tt><a href="la_llct-dep-obl.html">obl</a></tt>]--> NOUN</tt> (7429; 58%),
 <tt>PROPN --[<tt><a href="la_llct-dep-appos.html">appos</a></tt>]--> NOUN</tt> (6798; 96%),
 <tt>NOUN --[<tt><a href="la_llct-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6332; 99%),

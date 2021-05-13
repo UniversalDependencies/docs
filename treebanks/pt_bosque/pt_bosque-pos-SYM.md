@@ -13,18 +13,18 @@ The 10 most frequent `SYM` lemmas: <em>%, US$, R$, CR$, -</em>
 
 The 10 most frequent `SYM` types:  <em>%, US$, R$, CR$, -</em>
 
-The 10 most frequent ambiguous lemmas: <em>-</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 60, <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>-</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 61, <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 60, <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 61, <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> 2)
 
 
 * <em>-</em>
-  * <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 60: <em>Sporting <b>-</b> Vitória de Setúbal e Marítimo ou Ovarense <b>-</b> FC Porto .</em>
+  * <tt><a href="pt_bosque-pos-PUNCT.html">PUNCT</a></tt> 61: <em>Sporting <b>-</b> Vitória de Setúbal e Marítimo ou Ovarense <b>-</b> FC Porto .</em>
   * <tt><a href="pt_bosque-pos-SYM.html">SYM</a></tt> 2: <em>Já as maiores quedas , de os preços médios , ficaram com a cenoura ( <b>-</b> 13,82 ) , batata comum ( 5,14 % ) e pão francês ( <b>-</b> 1,25 % ) .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.414631).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.414899).
 
 The 1st highest number of forms (1) was observed with the lemma “%”: <em>%</em>.
 

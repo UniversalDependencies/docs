@@ -24,14 +24,14 @@ The following 27 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 6 2 amod	color:blue
 1	大	大	ADV	RB	_	2	advmod	_	SpaceAfter=No
 2	多數	多數	ADJ	JJ	_	6	amod	_	SpaceAfter=No
-3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
 4	加長	加長	VERB	VV	_	5	compound	_	SpaceAfter=No
 5	型	型	PART	SFN	_	6	nmod	_	SpaceAfter=No
 6	禮車	禮車	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 7	則是	則是	AUX	VC	_	11	cop	_	SpaceAfter=No
 8	租車	租車	NOUN	NN	_	9	nmod	_	SpaceAfter=No
 9	公司	公司	NOUN	NN	_	11	nmod	_	SpaceAfter=No
-10	的	的	PART	DEC	Case=Gen	9	case:dec	_	SpaceAfter=No
+10	的	的	PART	DEC	Case=Gen	9	case	_	SpaceAfter=No
 11	財產	財產	NOUN	NN	_	0	root	_	SpaceAfter=No
 12	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 
@@ -83,7 +83,7 @@ The following 27 pairs of parts of speech are connected with `amod`: <tt><a href
 3	後	後	ADP	IN	_	2	acl	_	SpaceAfter=No
 4	，	，	PUNCT	,	_	24	punct	_	SpaceAfter=No
 5	隨	隨	VERB	VV	_	24	advcl	_	SpaceAfter=No
-6	著	著	PART	AS	Aspect=Prog	5	aux:aspect	_	SpaceAfter=No
+6	著	著	AUX	AS	Aspect=Prog	5	aux	_	SpaceAfter=No
 7	殖民	殖民	VERB	VV	_	8	compound	_	SpaceAfter=No
 8	地	地	PART	SFN	_	9	nsubj	_	SpaceAfter=No
 9	獨立	獨立	ADJ	JJ	_	5	ccomp	_	SpaceAfter=No
@@ -95,7 +95,7 @@ The following 27 pairs of parts of speech are connected with `amod`: <tt><a href
 15	關稅	關稅	NOUN	NN	_	16	compound	_	SpaceAfter=No
 16	區	區	PART	SFN	_	11	obj	_	SpaceAfter=No
 17	」	」	PUNCT	''	_	16	punct	_	SpaceAfter=No
-18	的	的	PART	DEC	_	11	mark:relcl	_	SpaceAfter=No
+18	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No
 19	非	非	AUX	VC	_	20	cop	_	SpaceAfter=No
 20	主權	主權	NOUN	NN	_	22	amod	_	SpaceAfter=No
 21	政治	政治	NOUN	NN	_	22	nmod	_	SpaceAfter=No

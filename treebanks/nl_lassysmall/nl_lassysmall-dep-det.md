@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-10049 nodes (10%) are attached to their parents as `det`.
+10062 nodes (10%) are attached to their parents as `det`.
 
-10048 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.42063886953926.
+10061 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.41890280262373.
 
-The following 12 pairs of parts of speech are connected with `det`: <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (8214; 82% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (1327; 13% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (307; 3% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (114; 1% instances), <tt><a href="nl_lassysmall-pos-X.html">X</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (38; 0% instances), <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (15; 0% instances), <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `det`: <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (8217; 82% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (1347; 13% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (303; 3% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (109; 1% instances), <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (53; 1% instances), <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="nl_lassysmall-pos-X.html">X</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -57,7 +57,7 @@ The following 12 pairs of parts of speech are connected with `det`: <tt><a href=
 2	Schelde	Schelde	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	1	flat	1:flat	_
 3	werd	worden	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	4	aux:pass	4:aux:pass	_
 4	beschouwd	beschouwen	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	_
-5	als	als	ADP	VZ|init	_	6	mark	6:mark	_
+5	als	als	SCONJ	VG|onder	_	6	mark	6:mark	_
 6	grens	grens	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	xcomp	4:xcomp	_
 7	tussen	tussen	ADP	VZ|init	_	10	case	10:case	_
 8	de	de	DET	LID|bep|stan|rest	Definite=Def	10	det	10:det	_

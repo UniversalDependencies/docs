@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Francis Tyers.
 
 Repository: [UD_Breton-KEB](https://github.com/UniversalDependencies/UD_Breton-KEB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbr_keb27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbr_keb28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -29,7 +29,7 @@ Genre: grammar-examples, wiki, nonfiction, fiction, news, poetry
 Questions, comments?
 General annotation questions (either Breton-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Breton-KEB/issues).
-If you want to collaborate, please contact [ftyers&nbsp;(æt)&nbsp;hse&nbsp;•&nbsp;ru].
+If you want to collaborate, please contact [ftyers&nbsp;(æt)&nbsp;iu&nbsp;•&nbsp;edu].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
 Do not submit pull requests against the UD repository.
@@ -86,7 +86,7 @@ year = 2018
 
 ## Relations
 
-[acl](br_keb-dep-acl.html) – [acl:focus](br_keb-dep-acl-focus.html) – [acl:relcl](br_keb-dep-acl-relcl.html) – [advcl](br_keb-dep-advcl.html) – [advmod](br_keb-dep-advmod.html) – [advmod:neg](br_keb-dep-advmod-neg.html) – [amod](br_keb-dep-amod.html) – [appos](br_keb-dep-appos.html) – [aux](br_keb-dep-aux.html) – [aux:pass](br_keb-dep-aux-pass.html) – [case](br_keb-dep-case.html) – [cc](br_keb-dep-cc.html) – [ccomp](br_keb-dep-ccomp.html) – [compound](br_keb-dep-compound.html) – [conj](br_keb-dep-conj.html) – [cop](br_keb-dep-cop.html) – [csubj](br_keb-dep-csubj.html) – [dep](br_keb-dep-dep.html) – [det](br_keb-dep-det.html) – [discourse](br_keb-dep-discourse.html) – [dislocated](br_keb-dep-dislocated.html) – [expl](br_keb-dep-expl.html) – [fixed](br_keb-dep-fixed.html) – [flat:name](br_keb-dep-flat-name.html) – [list](br_keb-dep-list.html) – [mark](br_keb-dep-mark.html) – [nmod](br_keb-dep-nmod.html) – [nmod:gen](br_keb-dep-nmod-gen.html) – [nmod:poss](br_keb-dep-nmod-poss.html) – [nsubj](br_keb-dep-nsubj.html) – [nsubj:appos](br_keb-dep-nsubj-appos.html) – [nsubj:cop](br_keb-dep-nsubj-cop.html) – [nummod](br_keb-dep-nummod.html) – [obj](br_keb-dep-obj.html) – [obl](br_keb-dep-obl.html) – [obl:agent](br_keb-dep-obl-agent.html) – [obl:x](br_keb-dep-obl-x.html) – [orphan](br_keb-dep-orphan.html) – [parataxis](br_keb-dep-parataxis.html) – [punct](br_keb-dep-punct.html) – [root](br_keb-dep-root.html) – [vocative](br_keb-dep-vocative.html) – [xcomp](br_keb-dep-xcomp.html)
+[acl](br_keb-dep-acl.html) – [acl:relcl](br_keb-dep-acl-relcl.html) – [advcl](br_keb-dep-advcl.html) – [advmod](br_keb-dep-advmod.html) – [amod](br_keb-dep-amod.html) – [appos](br_keb-dep-appos.html) – [aux](br_keb-dep-aux.html) – [aux:pass](br_keb-dep-aux-pass.html) – [case](br_keb-dep-case.html) – [cc](br_keb-dep-cc.html) – [ccomp](br_keb-dep-ccomp.html) – [compound](br_keb-dep-compound.html) – [conj](br_keb-dep-conj.html) – [cop](br_keb-dep-cop.html) – [csubj](br_keb-dep-csubj.html) – [dep](br_keb-dep-dep.html) – [det](br_keb-dep-det.html) – [discourse](br_keb-dep-discourse.html) – [dislocated](br_keb-dep-dislocated.html) – [expl](br_keb-dep-expl.html) – [fixed](br_keb-dep-fixed.html) – [flat:name](br_keb-dep-flat-name.html) – [list](br_keb-dep-list.html) – [mark](br_keb-dep-mark.html) – [nmod](br_keb-dep-nmod.html) – [nmod:gen](br_keb-dep-nmod-gen.html) – [nmod:poss](br_keb-dep-nmod-poss.html) – [nsubj](br_keb-dep-nsubj.html) – [nsubj:cop](br_keb-dep-nsubj-cop.html) – [nummod](br_keb-dep-nummod.html) – [obj](br_keb-dep-obj.html) – [obl](br_keb-dep-obl.html) – [obl:agent](br_keb-dep-obl-agent.html) – [orphan](br_keb-dep-orphan.html) – [parataxis](br_keb-dep-parataxis.html) – [punct](br_keb-dep-punct.html) – [root](br_keb-dep-root.html) – [vocative](br_keb-dep-vocative.html) – [xcomp](br_keb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -469,6 +469,15 @@ year = 2018
 </ul>
 
 <ul>
+  <li>0
+    <ul>
+      <li>AUX-Fin: reer, c'heller, eus, eur, ranker, tleer</li>
+      <li>VERB-Fin: c'haller, adkaver, c'haver, c'houlenner, c’haller, gaver, gomzer, lenner, ouzer, ouzhpenner</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>1
     <ul>
       <li>AUX: ran, am eus, em eus, on, rin, hon eus, emaon, raen, c'hellan, c'hellin</li>
@@ -499,15 +508,6 @@ year = 2018
       <li>PRON: o, i, añ, hi, int, anezhi, e, -hi, anezhañ, anezho</li>
       <li>VERB: ra, welas, zeuy, gavo, lennont, wel, ya, yelo, eo, fell</li>
       <li>VERB-Fin: ra, welas, zeuy, gavo, lennont, wel, ya, yelo, eo, fell</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Auto
-    <ul>
-      <li>AUX-Fin: reer, c'heller, eus, eur, ranker, tleer</li>
-      <li>VERB-Fin: c'haller, adkaver, c'haver, c'houlenner, c’haller, gaver, gomzer, lenner, ouzer, ouzhpenner</li>
     </ul>
   </li>
 </ul>
@@ -559,7 +559,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN (3)</li>
       <li>VERB--NOUN-ADP(nemet) (1)</li>
       <li>VERB--PRON-Nom (4)</li>
-      <li>VERB-Fin--NOUN (80)</li>
+      <li>VERB-Fin--NOUN (82)</li>
       <li>VERB-Fin--NOUN-ADP(a) (1)</li>
       <li>VERB-Fin--PRON (11)</li>
       <li>VERB-Fin--PRON-Nom (28)</li>
@@ -608,7 +608,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 11 relation subtypes: <a>acl:focus</a>, <a>acl:relcl</a>, <a>advmod:neg</a>, <a>aux:pass</a>, <a>flat:name</a>, <a>nmod:gen</a>, <a>nmod:poss</a>, <a>nsubj:appos</a>, <a>nsubj:cop</a>, <a>obl:agent</a>, <a>obl:x</a></li>
+<li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>flat:name</a>, <a>nmod:gen</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>obl:agent</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
 <li>The following 4 relation types are not used in this corpus at all: <a>iobj</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

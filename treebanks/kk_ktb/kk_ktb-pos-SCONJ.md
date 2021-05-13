@@ -54,13 +54,13 @@ The 3rd highest number of forms (1) was observed with the lemma “де”: <em>
 
 Parents of `SCONJ` nodes belong to 5 different parts of speech: <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (15; 63% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> (4; 17% instances), <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> (3; 13% instances), <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (1; 4% instances), <tt><a href="kk_ktb-pos-NUM.html">NUM</a></tt> (1; 4% instances)
 
-14 (58%) `SCONJ` nodes are leaves.
+13 (54%) `SCONJ` nodes are leaves.
 
-10 (42%) `SCONJ` nodes have one child.
+11 (46%) `SCONJ` nodes have one child.
 
 The highest child degree of a `SCONJ` node is 1.
 
-Children of `SCONJ` nodes are attached using 3 different relations: <tt><a href="kk_ktb-dep-dep.html">dep</a></tt> (5; 50% instances), <tt><a href="kk_ktb-dep-punct.html">punct</a></tt> (3; 30% instances), <tt><a href="kk_ktb-dep-advmod.html">advmod</a></tt> (2; 20% instances)
+Children of `SCONJ` nodes are attached using 3 different relations: <tt><a href="kk_ktb-dep-dep.html">dep</a></tt> (5; 45% instances), <tt><a href="kk_ktb-dep-punct.html">punct</a></tt> (4; 36% instances), <tt><a href="kk_ktb-dep-advmod.html">advmod</a></tt> (2; 18% instances)
 
-Children of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="kk_ktb-pos-X.html">X</a></tt> (5; 50% instances), <tt><a href="kk_ktb-pos-PUNCT.html">PUNCT</a></tt> (3; 30% instances), <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> (2; 20% instances)
+Children of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="kk_ktb-pos-X.html">X</a></tt> (5; 45% instances), <tt><a href="kk_ktb-pos-PUNCT.html">PUNCT</a></tt> (4; 36% instances), <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> (2; 18% instances)
 

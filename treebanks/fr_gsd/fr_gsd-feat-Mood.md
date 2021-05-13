@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 * `Imp` (134; 1% of non-empty `Mood`): <em>allez, hésitez, Rappelons, Notons, arrêtez, pensez, Cliquez, Demandez, attendez, citons</em>
 * `Ind` (13139; 96% of non-empty `Mood`): <em>a, peut, fait, est, trouve, devient, doit, ont, permet, agit</em>
 * `Sub` (205; 1% of non-empty `Mood`): <em>puisse, puissent, agisse, fasse, aient, ait, arrive, prenne, soit, change</em>
-* `EMPTY` (18277): <em>né, située, faire, situé, partir, eu, fait, voir, mort, connu</em>
+* `EMPTY` (18246): <em>né, située, faire, situé, partir, eu, fait, voir, mort, connu</em>
 
 <table>
   <tr><th>Paradigm <i>faire</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
@@ -89,12 +89,12 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="fr_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (1230; 67%),
+<tt>VERB --[<tt><a href="fr_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (1231; 67%),
+<tt>AUX --[<tt><a href="fr_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (5; 63%),
 <tt>VERB --[<tt><a href="fr_gsd-dep-advcl-cleft.html">advcl:cleft</a></tt>]--> VERB</tt> (4; 80%),
-<tt>AUX --[<tt><a href="fr_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 67%),
-<tt>VERB --[<tt><a href="fr_gsd-dep-ccomp-obj.html">ccomp:obj</a></tt>]--> AUX</tt> (2; 67%),
+<tt>AUX --[<tt><a href="fr_gsd-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (2; 100%),
+<tt>VERB --[<tt><a href="fr_gsd-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (2; 67%),
 <tt>AUX --[<tt><a href="fr_gsd-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>AUX --[<tt><a href="fr_gsd-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
-<tt>AUX --[<tt><a href="fr_gsd-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="fr_gsd-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (1; 100%).
 

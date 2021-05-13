@@ -10,10 +10,10 @@ This relation is universal.
 
 747 nodes (19%) are attached to their parents as `punct`.
 
-625 instances of `punct` (84%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.91432396251673.
+581 instances of `punct` (78%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.08567603748327.
 
-The following 10 pairs of parts of speech are connected with `punct`: <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (555; 74% instances), <tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (103; 14% instances), <tt><a href="mr_ufal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (26; 3% instances), <tt><a href="mr_ufal-pos-AUX.html">AUX</a></tt>-<tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (23; 3% instances), <tt><a href="mr_ufal-pos-ADV.html">ADV</a></tt>-<tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (22; 3% instances), <tt><a href="mr_ufal-pos-PRON.html">PRON</a></tt>-<tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (9; 1% instances), <tt><a href="mr_ufal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (4; 1% instances), <tt><a href="mr_ufal-pos-INTJ.html">INTJ</a></tt>-<tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="mr_ufal-pos-ADP.html">ADP</a></tt>-<tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="mr_ufal-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt>-<tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (539; 72% instances), <tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (105; 14% instances), <tt><a href="mr_ufal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (29; 4% instances), <tt><a href="mr_ufal-pos-ADV.html">ADV</a></tt>-<tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (21; 3% instances), <tt><a href="mr_ufal-pos-AUX.html">AUX</a></tt>-<tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (21; 3% instances), <tt><a href="mr_ufal-pos-INTJ.html">INTJ</a></tt>-<tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (9; 1% instances), <tt><a href="mr_ufal-pos-PRON.html">PRON</a></tt>-<tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (8; 1% instances), <tt><a href="mr_ufal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (8; 1% instances), <tt><a href="mr_ufal-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (4; 1% instances), <tt><a href="mr_ufal-pos-ADP.html">ADP</a></tt>-<tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="mr_ufal-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="mr_ufal-pos-NUM.html">NUM</a></tt>-<tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -36,7 +36,7 @@ The following 10 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 5	fgColor:white
 # visual-style 5 1 punct	color:blue
 1	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
-2	हे	हा	DET	_	Distance=Prox|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	_
+2	हे	हा	DET	_	Deixis=Prox|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	_
 3	म्हातारे	म्हातारा	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	4	amod	_	_
 4	शेतकरी	शेतकरी	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
 5	साक्षीदार	साक्षीदार	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_

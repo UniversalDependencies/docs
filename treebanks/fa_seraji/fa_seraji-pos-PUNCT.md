@@ -34,19 +34,11 @@ The 3rd highest number of forms (1) was observed with the lemma “"”: ".
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="fa_seraji-dep-punct.html">punct</a></tt> (13435; 100% instances), <tt><a href="fa_seraji-dep-conj.html">conj</a></tt> (7; 0% instances)
+`PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="fa_seraji-dep-punct.html">punct</a></tt> (13440; 100% instances), <tt><a href="fa_seraji-dep-conj.html">conj</a></tt> (2; 0% instances)
 
-Parents of `PUNCT` nodes belong to 11 different parts of speech: <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> (7725; 57% instances), <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (3720; 28% instances), <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt> (1593; 12% instances), <tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt> (139; 1% instances), <tt><a href="fa_seraji-pos-NUM.html">NUM</a></tt> (124; 1% instances), <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> (77; 1% instances), <tt><a href="fa_seraji-pos-ADP.html">ADP</a></tt> (38; 0% instances), <tt><a href="fa_seraji-pos-X.html">X</a></tt> (10; 0% instances), <tt><a href="fa_seraji-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), <tt><a href="fa_seraji-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances)
+Parents of `PUNCT` nodes belong to 14 different parts of speech: <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> (5681; 42% instances), <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (5438; 40% instances), <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt> (1446; 11% instances), <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> (250; 2% instances), <tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt> (221; 2% instances), <tt><a href="fa_seraji-pos-NUM.html">NUM</a></tt> (206; 2% instances), <tt><a href="fa_seraji-pos-SCONJ.html">SCONJ</a></tt> (55; 0% instances), <tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt> (30; 0% instances), <tt><a href="fa_seraji-pos-CCONJ.html">CCONJ</a></tt> (29; 0% instances), <tt><a href="fa_seraji-pos-X.html">X</a></tt> (29; 0% instances), <tt><a href="fa_seraji-pos-AUX.html">AUX</a></tt> (23; 0% instances), <tt><a href="fa_seraji-pos-PART.html">PART</a></tt> (23; 0% instances), <tt><a href="fa_seraji-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="fa_seraji-pos-DET.html">DET</a></tt> (1; 0% instances)
 
-13432 (100%) `PUNCT` nodes are leaves.
+13442 (100%) `PUNCT` nodes are leaves.
 
-9 (0%) `PUNCT` nodes have one child.
-
-1 (0%) `PUNCT` nodes have two children.
-
-The highest child degree of a `PUNCT` node is 2.
-
-Children of `PUNCT` nodes are attached using 5 different relations: <tt><a href="fa_seraji-dep-cc.html">cc</a></tt> (7; 64% instances), <tt><a href="fa_seraji-dep-mark.html">mark</a></tt> (1; 9% instances), <tt><a href="fa_seraji-dep-nmod.html">nmod</a></tt> (1; 9% instances), <tt><a href="fa_seraji-dep-nsubj.html">nsubj</a></tt> (1; 9% instances), <tt><a href="fa_seraji-dep-obj.html">obj</a></tt> (1; 9% instances)
-
-Children of `PUNCT` nodes belong to 3 different parts of speech: <tt><a href="fa_seraji-pos-CCONJ.html">CCONJ</a></tt> (7; 64% instances), <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (3; 27% instances), <tt><a href="fa_seraji-pos-SCONJ.html">SCONJ</a></tt> (1; 9% instances)
+The highest child degree of a `PUNCT` node is 0.
 

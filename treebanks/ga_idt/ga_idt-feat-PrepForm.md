@@ -9,25 +9,37 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Cmpd`.
 
-1297 tokens (1%) have a non-empty value of `PrepForm`.
-50 types (0%) occur at least once with a non-empty value of `PrepForm`.
+1959 tokens (2%) have a non-empty value of `PrepForm`.
+78 types (1%) occur at least once with a non-empty value of `PrepForm`.
 53 lemmas (1%) occur at least once with a non-empty value of `PrepForm`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (1297; 1% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> (981; 1% instances), <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (978; 1% instances).
 
 ### `ADP`
 
-1297 <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> tokens (7% of all `ADP` tokens) have a non-empty value of `PrepForm`.
+981 <tt><a href="ga_idt-pos-ADP.html">ADP</a></tt> tokens (5% of all `ADP` tokens) have a non-empty value of `PrepForm`.
 
-The most frequent other feature values with which `ADP` and `PrepForm` co-occurred: <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1297; 100%), <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1297; 100%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1297; 100%).
+The most frequent other feature values with which `ADP` and `PrepForm` co-occurred: <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (981; 100%), <tt><a href="ga_idt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (981; 100%), <tt><a href="ga_idt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (981; 100%).
 
 `ADP` tokens may have the following values of `PrepForm`:
 
-* `Cmpd` (1297; 100% of non-empty `PrepForm`): <em>ar, i, de, go, tar, le, in, éis, dtí, fud</em>
+* `Cmpd` (981; 100% of non-empty `PrepForm`): <em>i, ar, de, le, go, tar, in, os, faoi, thar</em>
 
-`PrepForm` seems to be **lexical feature** of `ADP`. 100% lemmas (53) occur only with one value of `PrepForm`.
+`PrepForm` seems to be **lexical feature** of `ADP`. 100% lemmas (14) occur only with one value of `PrepForm`.
+
+### `NOUN`
+
+978 <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> tokens (3% of all `NOUN` tokens) have a non-empty value of `PrepForm`.
+
+The most frequent other feature values with which `NOUN` and `PrepForm` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (978; 100%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (901; 92%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (886; 91%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt> (827; 85%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (671; 69%).
+
+`NOUN` tokens may have the following values of `PrepForm`:
+
+* `Cmpd` (978; 100% of non-empty `PrepForm`): <em>réir, éis, dtí, fud, linn, haghaidh, feadh, rith, nós, measc</em>
+
+`PrepForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (39) occur only with one value of `PrepForm`.
 
 ## Relations with Agreement in `PrepForm`
 
 The 10 most frequent relations where parent and child node agree in `PrepForm`:
-<tt>ADP --[<tt><a href="ga_idt-dep-fixed.html">fixed</a></tt>]--> ADP</tt> (476; 61%).
+<tt>ADP --[<tt><a href="ga_idt-dep-fixed.html">fixed</a></tt>]--> NOUN</tt> (978; 100%).
 

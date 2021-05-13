@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Lars Ahrenberg.
 
 Repository: [UD_English-LinES](https://github.com/UniversalDependencies/UD_English-LinES)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_lines27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_lines28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -176,15 +176,6 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 </ul>
 
 <ul>
-  <li>Com
-    <ul>
-      <li>NOUN: question</li>
-      <li>PRON: her</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li>Fem
     <ul>
       <li>PRON: her, she, herself, hers, itself</li>
@@ -251,14 +242,6 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
   <li>Acc
     <ul>
       <li>PRON: him, her, me, them, himself, us, myself, themselves, itself, herself</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Gen
-    <ul>
-      <li>PRON: her</li>
     </ul>
   </li>
 </ul>
@@ -416,14 +399,6 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 
 <ul>
   <li><a>Voice</a></li>
-</ul>
-
-<ul>
-  <li>Act
-    <ul>
-      <li>VERB-Fin: Asked, changes, did, increased</li>
-    </ul>
-  </li>
 </ul>
 
 <ul>
@@ -714,7 +689,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 72 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: find himself, feel himself, ask myself, find myself, put himself, remind himself, tell himself, enjoy himself, excuse himself, give himself, hang himself, imagine himself, lose myself, post himself, prove himself, punish himself, recover himself, wedge himself, advise myself, allow himself, avoid himself, beat himself, brace himself, break yourself, busy himself, buy yourself, buzz themselves, carry myself, clean itself, collect themselves, control himself, convince myself, cover myself, cut yourself, drink himself, drown himself, efface himself, enjoy themselves, find ourselves, fix herself, fling herself, flood himself, give themselves, help himself, hold himself, impose itself, i​n​g​r​a​t​i​a​t​e​ ​t​h​e​m​s​e​l​v​e​s, interpret itself, interrupt himself, keep himself</li>
+  <li>This corpus contains 72 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: find himself, feel himself, ask myself, find myself, put himself, remind himself, tell himself, enjoy himself, excuse himself, give himself, hang himself, imagine himself, lose myself, post himself, prove himself, punish himself, recover himself, wedge himself, advise myself, allow himself, avoid himself, beat himself, brace himself, break yourself, busy himself, buy yourself, buzz themselves, carry myself, clean itself, collect themselves, control himself, convince myself, cover myself, cut yourself, drink himself, drown himself, efface himself, enjoy themselves, find ourselves, fix herself, fling herself, flood himself, give themselves, help himself, hold himself, impose itself, ingratiate themselves, interpret itself, interrupt himself, keep himself</li>
     <ul>
       <li>Out of those, 1 lemmas occurred more than once, but never without a reflexive dependent. Examples: punish</li>
     </ul>

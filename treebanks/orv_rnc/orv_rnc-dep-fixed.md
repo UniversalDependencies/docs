@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of fixed in UD_Old_Russian-RNC'
+title:  'Statistics of fixed in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Relations: `fixed`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Relations: `fixed`
 
 This relation is universal.
 
@@ -34,7 +34,7 @@ The following 13 pairs of parts of speech are connected with `fixed`: <tt><a hre
 10	людцких	людской	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Plur	11	amod	_	_
 11	колымагах	колымага	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	12	obl	_	_
 12	ходят	ходити	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	6	punct	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

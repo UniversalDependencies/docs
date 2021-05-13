@@ -28,7 +28,7 @@ The following 19 pairs of parts of speech are connected with `dep`: <tt><a href=
 4	،	،	PUNCT	Y	_	3	punct	_	Translit=,
 5	سەن	سەن	PRON	P	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	Translit=sen
 6	تاياق	تاياق	NOUN	N	Case=Nom	7	obj	_	Translit=tayaq
-7	يەپ	يە	VERB	V	Aspect=Perf|VerbForm=Cov	0	root	_	Translit=yep
+7	يەپ	يە	VERB	V	Aspect=Perf|VerbForm=Inf	0	root	_	Translit=yep
 8	باققانمۇ	باق	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	SpaceAfter=No|Translit=baqqanmu
 9	؟	؟	PUNCT	Y	_	8	punct	_	Translit=?
 

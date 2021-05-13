@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="kk_ktb-pos-VERB.htm
 
 20 <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Evident`.
 
-The most frequent other feature values with which `VERB` and `Evident` co-occurred: <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (20; 100%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (20; 100%), <tt><a href="kk_ktb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (19; 95%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18; 90%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=3</tt> (18; 90%), <tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (18; 90%).
+The most frequent other feature values with which `VERB` and `Evident` co-occurred: <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (20; 100%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (20; 100%), <tt><a href="kk_ktb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (19; 95%), <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (18; 90%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18; 90%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=3</tt> (18; 90%), <tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (18; 90%).
 
 `VERB` tokens may have the following values of `Evident`:
 
@@ -31,7 +31,7 @@ The most frequent other feature values with which `VERB` and `Evident` co-occurr
 
 15 <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> tokens (4% of all `AUX` tokens) have a non-empty value of `Evident`.
 
-The most frequent other feature values with which `AUX` and `Evident` co-occurred: <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (15; 100%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15; 100%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=3</tt> (15; 100%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15; 100%), <tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Aor</tt> (10; 67%).
+The most frequent other feature values with which `AUX` and `Evident` co-occurred: <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (15; 100%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15; 100%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=3</tt> (15; 100%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15; 100%), <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt> (10; 67%), <tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (10; 67%).
 
 `AUX` tokens may have the following values of `Evident`:
 

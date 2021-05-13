@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-21 nodes (0%) are attached to their parents as `reparandum`.
+23 nodes (0%) are attached to their parents as `reparandum`.
 
-20 instances of `reparandum` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.85714285714286.
+20 instances of `reparandum` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.17391304347826.
 
-The following 13 pairs of parts of speech are connected with `reparandum`: <tt><a href="fr_gsd-pos-DET.html">DET</a></tt>-<tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (3; 14% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (3; 14% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (2; 10% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (2; 10% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (2; 10% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (2; 10% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 5% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (1; 5% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (1; 5% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 5% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (1; 5% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (1; 5% instances).
+The following 14 pairs of parts of speech are connected with `reparandum`: <tt><a href="fr_gsd-pos-DET.html">DET</a></tt>-<tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (3; 13% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (3; 13% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (2; 9% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (2; 9% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (2; 9% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (2; 9% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (2; 9% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 4% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (1; 4% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 13 pairs of parts of speech are connected with `reparandum`: <tt><
 5	confirme	confirmer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
 6	que	que	SCONJ	_	_	8	mark	_	_
 7	SG-1	SG-1	PROPN	_	_	8	nsubj	_	_
-8	était	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	ccomp:obj	_	_
+8	était	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	ccomp	_	_
 9	dans	dans	ADP	_	_	12	case	_	_
 10	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	11	reparandum	_	_
 11	ces	ce	DET	_	Number=Plur|PronType=Dem	12	det	_	_
@@ -61,7 +61,7 @@ The following 13 pairs of parts of speech are connected with `reparandum`: <tt><
 8	à	à	ADP	_	_	13	reparandum	_	_
 9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	reparandum	_	_
 10	suite	suite	NOUN	_	_	13	case	_	ExtPos=ADP|PhraseType=Idiom
-11	à	à	ADP	_	_	10	fixed	_	_
+11	à	à	ADP	_	_	10	fixed	_	InIdiom=Yes
 12	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	perte	perte	NOUN	_	Gender=Fem|Number=Sing	5	obl:mod	_	_
 14	de	de	ADP	_	_	15	case	_	_
@@ -78,44 +78,28 @@ The following 13 pairs of parts of speech are connected with `reparandum`: <tt><
 
 
 ~~~ conllu
-# visual-style 27	bgColor:blue
-# visual-style 27	fgColor:white
-# visual-style 28	bgColor:blue
-# visual-style 28	fgColor:white
-# visual-style 28 27 reparandum	color:blue
-1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	wordform=le
-2	moteur	moteur	NOUN	_	Gender=Masc|Number=Sing	7	nsubj:pass	_	_
-3	à	à	ADP	_	_	4	case	_	_
-4	pistons	piston	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
-5	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:tense	_	_
-6	été	être	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	aux:pass	_	_
-7	retiré	retirer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-8	et	et	CCONJ	_	_	12	cc	_	_
-9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-10	réacteur	réacteur	NOUN	_	Gender=Masc|Number=Sing	12	nsubj:pass	_	_
-11	été	être	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	aux:pass	_	_
-12	monté	monter	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	conj	_	_
-13	sous	sous	ADP	_	_	15	case	_	_
-14	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	15	det	_	SpaceAfter=No
-15	avant	avant	NOUN	_	Gender=Masc|Number=Sing	12	obl:mod	_	_
-16	de	de	ADP	_	_	18	case	_	_
-17	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
-18	fuselage	fuselage	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	_
-19	de	de	ADP	_	_	25	mark	_	ExtPos=SCONJ|PhraseType=Idiom
-20	telle	tel	DET	_	Gender=Fem|Number=Sing|PronType=Ind	19	fixed	_	_
-21	sorte	sorte	NOUN	_	Gender=Fem|Number=Sing	19	fixed	_	_
-22	que	que	SCONJ	_	_	19	fixed	_	_
-23	son	son	DET	_	Number=Sing|PossNumber=Sing|PossPerson=3|PronType=Prs	24	det	_	_
-24	échappement	échappement	NOUN	_	Gender=Masc|Number=Sing	25	nsubj	_	_
-25	sortait	sortir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	advcl	_	_
-26	sous	sous	ADP	_	_	29	case	_	_
-27	de	de	ADP	_	_	28	reparandum	_	_
-28	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
-29	milieu	milieu	NOUN	_	Gender=Masc|Number=Sing	25	obl:mod	_	_
-30	de	de	ADP	_	_	32	case	_	_
-31	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
-32	fuselage	fuselage	NOUN	_	Gender=Masc|Number=Sing	29	nmod	_	SpaceAfter=No
-33	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 reparandum	color:blue
+1	Créé	créer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	advcl	_	wordform=créé
+2	en	en	ADP	_	_	3	case	_	_
+3	1964	1964	NUM	_	Number=Plur	1	obl:mod	_	_
+4	par	par	ADP	_	_	5	case	_	_
+5	Pierre	Pierre	PROPN	_	_	1	obl:agent	_	_
+6	Billon	Billon	PROPN	_	_	5	flat:name	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	1	punct	_	_
+8	Sifca	Sifca	PROPN	_	_	14	nsubj	_	_
+9	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	reparandum	_	_
+10	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
+11	alors	alors	ADV	_	_	14	advmod	_	_
+12	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+13	premier	premier	ADJ	_	Gender=Masc|Number=Sing	14	amod	_	_
+14	groupe	groupe	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+15	privé	privé	ADJ	_	Gender=Masc|Number=Sing	14	amod	_	_
+16	Ivoirien	ivoirien	ADJ	_	Gender=Masc|Number=Sing	14	amod	_	SpaceAfter=No|wordform=ivoirien
+17	.	.	PUNCT	_	_	14	punct	_	_
 
 ~~~
 

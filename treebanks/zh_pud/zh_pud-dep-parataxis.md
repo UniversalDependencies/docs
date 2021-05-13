@@ -39,7 +39,7 @@ The following 1 pairs of parts of speech are connected with `parataxis`: <tt><a 
 15	能	_	AUX	MD	_	16	aux	_	SpaceAfter=No|Translit=néng
 16	引發	_	VERB	VV	_	19	acl:relcl	_	SpaceAfter=No|Translit=yǐnfā
 17	衝擊波	_	VERB	VV	_	16	obj	_	SpaceAfter=No|Translit=衝jībō
-18	的	_	PART	DEC	_	16	mark:relcl	_	SpaceAfter=No|Translit=de
+18	的	_	PART	DEC	_	16	mark:rel	_	SpaceAfter=No|Translit=de
 19	吼聲	_	NOUN	NN	_	20	nsubj	_	SpaceAfter=No|Translit=hǒushēng
 20	是	_	VERB	VC	_	5	parataxis	_	SpaceAfter=No|Translit=shì
 21	從	_	ADP	IN	_	22	case	_	SpaceAfter=No|Translit=cóng

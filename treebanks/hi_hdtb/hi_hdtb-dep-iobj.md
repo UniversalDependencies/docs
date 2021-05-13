@@ -34,7 +34,7 @@ The following 13 pairs of parts of speech are connected with `iobj`: <tt><a href
 10	मिल	मिल	VERB	VM	Gender=Fem|Number=Sing|Person=3|Voice=Act	0	root	_	Vib=0_सक+ता_है|Tam=0|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=mila
 11	सकती	सक	AUX	VAUX	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	10	aux	_	Vib=ता|Tam=wA|ChunkId=VGF|ChunkType=child|Translit=sakatī
 12	है	है	AUX	VAUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	Vib=है|Tam=hE|ChunkId=VGF|ChunkType=child|Translit=hai
-13	।	.	PUNCT	SYM	_	10	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
+13	।	।	PUNCT	SYM	_	10	punct	_	ChunkId=BLK|ChunkType=head|Translit=.
 
 ~~~
 
@@ -75,9 +75,9 @@ The following 13 pairs of parts of speech are connected with `iobj`: <tt><a href
 6	तो	तो	PART	RP	_	5	dep	_	ChunkId=NP2|ChunkType=child|Translit=to
 7	दूर	दूर	ADV	NST	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	12	advmod	_	AltTag=ADV-NOUN|ChunkId=NP3|ChunkType=head|Translit=dūra
 8	उसे	वह	PRON	PRP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	12	iobj	_	Vib=को|Tam=ko|ChunkId=NP4|ChunkType=head|Translit=use
-9	'	SINGLE_QUOTE	PUNCT	SYM	_	10	punct	_	SpaceAfter=No|ChunkId=NP5|ChunkType=child|Translit='
+9	'	'	PUNCT	SYM	_	10	punct	_	SpaceAfter=No|ChunkId=NP5|ChunkType=child|Translit='
 10	आजादी	आजादी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	acl	_	SpaceAfter=No|Vib=0|Tam=0|ChunkId=NP5|ChunkType=head|Translit=ājādī
-11	'	SINGLE_QUOTE	PUNCT	SYM	_	10	punct	_	ChunkId=NP5|ChunkType=child|Translit='
+11	'	'	PUNCT	SYM	_	10	punct	_	ChunkId=NP5|ChunkType=child|Translit='
 12	बख्श	बख्श	VERB	VM	Number=Sing|Voice=Act	0	root	_	Vib=0_दे+या|Tam=0|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=bakhśa
 13	दी	दे	AUX	VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	12	aux	_	Vib=या|Tam=yA|ChunkId=VGF|ChunkType=child|Translit=dī
 14	।	।	PUNCT	SYM	_	12	punct	_	ChunkId=BLK|ChunkType=head|Translit=.

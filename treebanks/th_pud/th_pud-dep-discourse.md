@@ -70,11 +70,11 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 5	บน	_	ADP	IN	_	6	case	_	SpaceAfter=No
 6	เฟซบุ๊ก	_	PROPN	NNP	_	2	nmod	_	_
 7	มี	_	VERB	VV	_	0	root	_	SpaceAfter=No
-8	อยู่	_	PART	AS	Aspect=Perf	7	aux	_	SpaceAfter=No
+8	อยู่	_	AUX	AS	Aspect=Perf	7	aux	_	SpaceAfter=No
 9	บรรทัด	_	NOUN	NN	_	7	obj	_	SpaceAfter=No
 10	หนึ่ง	_	NUM	CD	_	9	nummod	_	SpaceAfter=No
 11	ที่	_	DET	WDT	_	13	nsubj	_	SpaceAfter=No
-12	ต้อง	_	VERB	MD	_	13	aux	_	SpaceAfter=No
+12	ต้อง	_	AUX	MD	_	13	aux	_	SpaceAfter=No
 13	ทำให้	_	VERB	VV	_	9	acl:relcl	_	SpaceAfter=No
 14	คริส	_	PROPN	NNP	_	13	obj	_	SpaceAfter=No
 15	ดีใจ	_	VERB	VV	_	13	xcomp	_	SpaceAfter=No
@@ -90,7 +90,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 25	ฉัน	_	PRON	PRP	Person=1	27	nsubj	_	SpaceAfter=No
 26	ไม่	_	PART	NEG	Polarity=Neg	27	advmod	_	SpaceAfter=No
 27	รู้	_	VERB	VV	_	20	acl	_	SpaceAfter=No
-28	มา	_	PART	AS	Aspect=Perf	27	aux	_	SpaceAfter=No
+28	มา	_	AUX	AS	Aspect=Perf	27	aux	_	SpaceAfter=No
 29	ก่อน	_	ADV	RB	_	27	advmod	_	SpaceAfter=No
 30	เลย	_	ADV	RB	_	27	advmod	_	SpaceAfter=No
 31	”	_	PUNCT	''	_	20	punct	_	_

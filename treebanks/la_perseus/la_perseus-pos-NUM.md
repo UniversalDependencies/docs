@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-Perseus: POS Tags: `NUM`
 
 There are 43 `NUM` lemmas (1%), 75 `NUM` types (1%) and 186 `NUM` tokens (1%).
-Out of 12 observed tags, the rank of `NUM` is: 5 in number of lemmas, 6 in number of types and 10 in number of tokens.
+Out of 13 observed tags, the rank of `NUM` is: 5 in number of lemmas, 6 in number of types and 10 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>unus, mille, septem, quattuor, primus, tres, singuli, viginti, centum, decem</em>
 

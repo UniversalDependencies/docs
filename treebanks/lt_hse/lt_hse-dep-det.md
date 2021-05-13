@@ -26,9 +26,9 @@ The following 5 pairs of parts of speech are connected with `det`: <tt><a href="
 2	gero	geras	ADJ	JJL	Case=Gen|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	1	fixed	_	En=good|SpaceAfter=No
 3	,	,	PUNCT	PUNCT	_	1	punct	_	En=,
 4	tas	tas	DET	DT	Case=Nom|Gender=Masc|Number=Sing	6	det	_	En=those
-5	grįžtamasis	grįžti	VERB	VBNL	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Part|Voice=Pass	6	amod	_	En=return
+5	grįžtamasis	grįžti	VERB	VBNL	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	6	amod	_	En=return
 6	ryšys	ryšys	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	En=connection
-7	veikia	veikti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	En=operate
+7	veikia	veikti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	En=operate
 8	nuo	nuo	ADP	UH	_	10	case	_	En=since
 9	1939	1939	ADJ	ORD	_	10	amod	_	En=1939
 10	metų	metai	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	7	obl	_	En=years|SpaceAfter=No
@@ -44,13 +44,13 @@ The following 5 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 12	fgColor:white
 # visual-style 12 10 det	color:blue
 1	Mums	mes	PRON	PRP	Case=Dat|Number=Plur|Person=1	2	iobj	_	En=we
-2	netelpa	tilpti	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	En=fit
+2	netelpa	tilpti	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	En=fit
 3	galvoje	galva	NOUN	NN	Case=Loc|Gender=Fem|Number=Sing	2	obl	_	En=head|SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	7	punct	_	En=,
 5	kad	kad	SCONJ	UH	_	7	mark	_	En=that
 6	pasaulis	pasaulis	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	En=world
-7	gali	galėti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	En=may
-8	būti	būti	VERB	VB	Polarity=Pos|Reflex=No|VerbForm=Inf|Voice=Act	7	xcomp	_	En=be
+7	gali	galėti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	En=may
+8	būti	būti	VERB	VB	Polarity=Pos|VerbForm=Inf|Voice=Act	7	xcomp	_	En=be
 9	ne	ne	PART	UH	Polarity=Neg	10	advmod	_	En=not
 10	toks	toks	DET	DT	Case=Nom|Gender=Masc|Number=Sing	12	det	_	En=such
 11	jau	jau	PART	UH	_	12	advmod:emph	_	En=already

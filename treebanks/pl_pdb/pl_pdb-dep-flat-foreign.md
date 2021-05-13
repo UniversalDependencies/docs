@@ -52,7 +52,7 @@ The following 3 pairs of parts of speech are connected with `flat:foreign`: <tt>
 10	tych	ten	DET	adj:pl:gen:f:pos	Case=Gen|Gender=Fem|Number=Plur|PronType=Dem	11	det	11:det	_
 11	piosenek	piosenka	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	9	obj	9:obj	SpaceAfter=No
 12	,	,	PUNCT	interp	PunctType=Comm	16	punct	16:punct	_
-13	jak	jak	SCONJ	comp	ConjType=Cmpr	16	mark	16:mark|20:mark|26:mark|33:mark|38:mark|43:mark|47:mark|54:mark|61:mark|68:mark|85:mark	SpaceAfter=No
+13	jak	jak	SCONJ	comp	ConjType=Comp	16	mark	16:mark|20:mark|26:mark|33:mark|38:mark|43:mark|47:mark|54:mark|61:mark|68:mark|85:mark	SpaceAfter=No
 14	:	:	PUNCT	interp	PunctType=Colo	16	punct	16:punct	_
 15	„	„	PUNCT	interp	PunctSide=Ini|PunctType=Quot	16	punct	16:punct	SpaceAfter=No
 16	Everlasting	Everlasting	X	ign	Foreign=Yes	11	obl:cmpr	11:obl:cmpr	SpaceAfter=No
@@ -149,7 +149,7 @@ The following 3 pairs of parts of speech are connected with `flat:foreign`: <tt>
 10	tych	ten	DET	adj:pl:gen:f:pos	Case=Gen|Gender=Fem|Number=Plur|PronType=Dem	11	det	11:det	_
 11	piosenek	piosenka	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	9	obj	9:obj	SpaceAfter=No
 12	,	,	PUNCT	interp	PunctType=Comm	16	punct	16:punct	_
-13	jak	jak	SCONJ	comp	ConjType=Cmpr	16	mark	16:mark|20:mark|26:mark|33:mark|38:mark|43:mark|47:mark|54:mark|61:mark|68:mark|85:mark	SpaceAfter=No
+13	jak	jak	SCONJ	comp	ConjType=Comp	16	mark	16:mark|20:mark|26:mark|33:mark|38:mark|43:mark|47:mark|54:mark|61:mark|68:mark|85:mark	SpaceAfter=No
 14	:	:	PUNCT	interp	PunctType=Colo	16	punct	16:punct	_
 15	„	„	PUNCT	interp	PunctSide=Ini|PunctType=Quot	16	punct	16:punct	SpaceAfter=No
 16	Everlasting	Everlasting	X	ign	Foreign=Yes	11	obl:cmpr	11:obl:cmpr	SpaceAfter=No

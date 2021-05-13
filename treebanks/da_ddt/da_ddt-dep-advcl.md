@@ -70,7 +70,7 @@ The following 7 pairs of parts of speech are connected with `advcl`: <tt><a href
 2	nu	nu	ADV	_	_	3	advmod	_	_
 3	sidder	sidde	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	_
 4	jeg	jeg	PRON	_	Case=Nom|Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-5	dèr	der	ADV	_	_	3	obl:loc	_	_
+5	dèr	der	ADV	_	_	3	advmod:lmod	_	_
 6	og	og	CCONJ	_	_	7	cc	_	_
 7	føler	føle	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
 8	mig	jeg	PRON	_	Case=Acc|Gender=Com|Number=Sing|Person=1|PronType=Prs	7	obj	_	_

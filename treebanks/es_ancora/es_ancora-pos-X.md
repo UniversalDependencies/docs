@@ -22,12 +22,12 @@ The 10 most frequent ambiguous types:  <em>tanto</em> (<tt><a href="es_ancora-po
   * <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> 128: <em>Las cosas no han cambiado <b>tanto</b> , brodel ( hermano ) .</em>
   * <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> 110: <em>Por <b>tanto</b> , difícilmente pudieron existir antes que éstas .</em>
   * <tt><a href="es_ancora-pos-DET.html">DET</a></tt> 17: <em>¿ Por qué <b>tanto</b> tiempo ? - - .</em>
-  * <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> 1: <em>Al mismo tiempo , se dan cita miles de especialistas en distintas materias : los abogados alemanes celebran su encuentro anual , otro <b>tanto</b> sucede con los médicos , y expertos internacionales preparan a partir del viernes la cumbre de líderes reformistas .</em>
-  * <tt><a href="es_ancora-pos-X.html">X</a></tt> 1: <em>" Tengo que sentir me al cien por cien , porque si estoy a un <b>tanto</b> por ciento inferior será perjudicial para mí y para el equipo " , explicó el central , que pasará una prueba física .</em>
+  * <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> 1: <em>A el mismo tiempo , se dan cita miles de especialistas en distintas materias : los abogados alemanes celebran su encuentro anual , otro <b>tanto</b> sucede con los médicos , y expertos internacionales preparan a partir de el viernes la cumbre de líderes reformistas .</em>
+  * <tt><a href="es_ancora-pos-X.html">X</a></tt> 1: <em>" Tengo que sentir me a el cien por cien , porque si estoy a un <b>tanto</b> por ciento inferior será perjudicial para mí y para el equipo " , explicó el central , que pasará una prueba física .</em>
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.502171).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.502240).
 
 The 1st highest number of forms (1) was observed with the lemma “tanto”: <em>tanto</em>.
 

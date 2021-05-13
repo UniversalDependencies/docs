@@ -45,7 +45,7 @@ The 10 most frequent ambiguous types:  <em>et</em> (<tt><a href="la_proiel-pos-C
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.545455 (the average of all parts of speech is 3.418147).
+The form / lemma ratio of `CCONJ` is 1.545455 (the average of all parts of speech is 3.418760).
 
 The 1st highest number of forms (3) was observed with the lemma “sive”: <em>seu, siue, sive</em>.
 
@@ -60,7 +60,7 @@ The 3rd highest number of forms (2) was observed with the lemma “que”: <em>c
 
 `CCONJ` nodes are attached to their parents using 8 different relations: <tt><a href="la_proiel-dep-cc.html">cc</a></tt> (14575; 99% instances), <tt><a href="la_proiel-dep-root.html">root</a></tt> (98; 1% instances), <tt><a href="la_proiel-dep-orphan.html">orphan</a></tt> (44; 0% instances), <tt><a href="la_proiel-dep-ccomp.html">ccomp</a></tt> (7; 0% instances), <tt><a href="la_proiel-dep-advmod.html">advmod</a></tt> (3; 0% instances), <tt><a href="la_proiel-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="la_proiel-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="la_proiel-dep-amod.html">amod</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (8603; 58% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (3497; 24% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (1206; 8% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (517; 4% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (301; 2% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (239; 2% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (146; 1% instances),  (98; 1% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (69; 0% instances), <tt><a href="la_proiel-pos-X.html">X</a></tt> (20; 0% instances), <tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (11; 0% instances), <tt><a href="la_proiel-pos-INTJ.html">INTJ</a></tt> (10; 0% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (8603; 58% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (3497; 24% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (1150; 8% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (517; 4% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (301; 2% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (239; 2% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (146; 1% instances),  (98; 1% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (69; 0% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt> (64; 0% instances), <tt><a href="la_proiel-pos-X.html">X</a></tt> (20; 0% instances), <tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (11; 0% instances), <tt><a href="la_proiel-pos-INTJ.html">INTJ</a></tt> (10; 0% instances), <tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
 14634 (99%) `CCONJ` nodes are leaves.
 

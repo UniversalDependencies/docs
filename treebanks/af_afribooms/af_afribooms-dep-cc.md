@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1887 nodes (4%) are attached to their parents as `cc`.
+1889 nodes (4%) are attached to their parents as `cc`.
 
-1866 instances of `cc` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.56756756756757.
+1763 instances of `cc` (93%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.35044997353097.
 
-The following 22 pairs of parts of speech are connected with `cc`: <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (903; 48% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (370; 20% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt>-<tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (148; 8% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt>-<tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (110; 6% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt>-<tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (108; 6% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (51; 3% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt>-<tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (44; 2% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt>-<tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (35; 2% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt>-<tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (30; 2% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (26; 1% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt>-<tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (17; 1% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt>-<tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (14; 1% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt>-<tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (10; 1% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt>-<tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt>-<tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt>-<tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt>-<tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt>-<tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt>-<tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt>-<tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `cc`: <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (974; 52% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (418; 22% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt>-<tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (168; 9% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt>-<tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (110; 6% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (54; 3% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt>-<tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (35; 2% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt>-<tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (32; 2% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (29; 2% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt>-<tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (17; 1% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt>-<tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (14; 1% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt>-<tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (10; 1% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt>-<tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt>-<tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt>-<tt><a href="af_afribooms-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt>-<tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt>-<tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt>-<tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt>-<tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-X.html">X</a></tt>-<tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -40,7 +40,7 @@ The following 22 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 10	fgColor:white
 # visual-style 10 11 cc	color:blue
 1	Dit	dit	PRON	PDOENP	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-2	is	is	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	4	cop	_	_
+2	is	wees	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	4	cop	_	_
 3	'n	'n	DET	LO	Definite=Ind|PronType=Art	4	det	_	_
 4	ideaal	ideaal	NOUN	NSE	Number=Sing	0	root	_	_
 5	waarvoor	waarvoor	PRON	PB	PronType=Rel	7	nsubj	_	_
@@ -58,15 +58,21 @@ The following 22 pairs of parts of speech are connected with `cc`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 cc	color:blue
-1	Ekonomiese	ekonomies	ADJ	ASA	AdjType=Attr|Case=Nom|Degree=Pos	3	amod	_	_
-2	en	en	CCONJ	KN	_	1	cc	_	_
-3	Bestuurswetenskappe	bestuurswetenskap	NOUN	NSM	Number=Plur	0	root	_	SpaceAfter=No
-4	.	.	PUNCT	ZE	_	3	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 cc	color:blue
+1	Ons	ons	PRON	PEMB	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	onderwysteikens	onderwysteiken	NOUN	NSM	Number=Plur	4	nsubj	_	_
+3	is	wees	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	4	cop	_	_
+4	eenvoudig	eenvoudig	ADJ	ASP	AdjType=Pred|Case=Nom|Degree=Pos	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	ZM	_	4	punct	_	_
+6	maar	maar	CCONJ	KN	_	4	cc	_	_
+7	van	van	ADP	SVS	AdpType=Prep	9	case	_	_
+8	kritiese	krities	ADJ	ASA	AdjType=Attr|Case=Nom|Degree=Pos	9	amod	_	_
+9	belang	belang	NOUN	NSE	Number=Sing	4	obl	_	SpaceAfter=No
+10	.	.	PUNCT	ZE	_	4	punct	_	_
 
 ~~~
 

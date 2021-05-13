@@ -16,16 +16,16 @@ The feature is used with 2 part-of-speech tags: <tt><a href="la_proiel-pos-ADJ.h
 
 ### `ADJ`
 
-10572 <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> tokens (52% of all `ADJ` tokens) have a non-empty value of `Degree`.
+10572 <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> tokens (63% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="la_proiel-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10572; 100%), <tt><a href="la_proiel-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (10572; 100%), <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6453; 61%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="la_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6453; 61%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (886; 8% of non-empty `Degree`): <em>maior, plus, seniores, plures, senioribus, maiores, plura, pluribus, certiorem, maius</em>
 * `Pos` (9234; 87% of non-empty `Degree`): <em>multa, magna, multi, multis, magno, publica, bonum, magnum, romani, publicae</em>
 * `Sup` (452; 4% of non-empty `Degree`): <em>maximum, maxima, plurimum, maximo, carissimi, optimo, optimum, maximam, maximas, maximis</em>
-* `EMPTY` (9800): <em>haec, illi, hoc, illis, nihil, illum, omnia, his, omnes, ille</em>
+* `EMPTY` (6257): <em>haec, illi, hoc, illis, nihil, illum, omnia, his, omnes, ille</em>
 
 <table>
   <tr><th>Paradigm <i>magnus</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -91,12 +91,12 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> ADJ</tt> (600; 90%),
+<tt>ADJ --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> ADJ</tt> (600; 91%),
 <tt>ADV --[<tt><a href="la_proiel-dep-conj.html">conj</a></tt>]--> ADV</tt> (44; 64%),
 <tt>ADJ --[<tt><a href="la_proiel-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (28; 58%),
 <tt>ADJ --[<tt><a href="la_proiel-dep-fixed.html">fixed</a></tt>]--> ADJ</tt> (19; 100%),
-<tt>ADJ --[<tt><a href="la_proiel-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (13; 57%),
-<tt>ADJ --[<tt><a href="la_proiel-dep-orphan.html">orphan</a></tt>]--> ADJ</tt> (7; 54%),
+<tt>ADJ --[<tt><a href="la_proiel-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (13; 59%),
+<tt>ADJ --[<tt><a href="la_proiel-dep-orphan.html">orphan</a></tt>]--> ADJ</tt> (7; 58%),
 <tt>ADJ --[<tt><a href="la_proiel-dep-obj.html">obj</a></tt>]--> ADJ</tt> (5; 71%),
 <tt>ADJ --[<tt><a href="la_proiel-dep-dislocated.html">dislocated</a></tt>]--> ADJ</tt> (3; 60%).
 

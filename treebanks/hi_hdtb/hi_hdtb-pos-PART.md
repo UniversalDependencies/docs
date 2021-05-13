@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  नहीं (<tt><a href="hi_hdtb-pos-PA
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.016393 (the average of all parts of speech is 1.203116).
+The form / lemma ratio of `PART` is 1.016393 (the average of all parts of speech is 1.203447).
 
 The 1st highest number of forms (3) was observed with the lemma “सा”: सा, सी, से.
 

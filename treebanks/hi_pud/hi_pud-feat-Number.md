@@ -11,57 +11,57 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="hi_pud-feat-Number.html">Number</a></tt>, <tt><a href="hi_pud-feat-Number-psor.html">Number[psor]</a></tt>.
 
-12213 tokens (51%) have a non-empty value of `Number`.
-3747 types (73%) occur at least once with a non-empty value of `Number`.
+12212 tokens (51%) have a non-empty value of `Number`.
+3746 types (73%) occur at least once with a non-empty value of `Number`.
 1 lemmas (0) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (5441; 23% instances), <tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (1641; 7% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (1344; 6% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (1336; 6% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (931; 4% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (867; 4% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt> (470; 2% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (183; 1% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (5440; 23% instances), <tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (1646; 7% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (1343; 6% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (1332; 6% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (931; 4% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (867; 4% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt> (470; 2% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (183; 1% instances).
 
 ### `NOUN`
 
-5441 <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Number`.
+5440 <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="hi_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (4565; 84%), <tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3343; 61%), <tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt> (2757; 51%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="hi_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (4565; 84%), <tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3343; 61%), <tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt> (2756; 51%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (790; 15% of non-empty `Number`): लोगों, लोग, वर्षों, दिनों, देशों, दोनों, अधिकारियों, बच्चों, कंपनियों, निवेशकों
+* `Plur` (789; 15% of non-empty `Number`): लोगों, लोग, वर्षों, दिनों, देशों, दोनों, अधिकारियों, बच्चों, कंपनियों, निवेशकों
 * `Sing` (4651; 85% of non-empty `Number`): रूप, वर्ष, समय, क्षेत्र, शुरू, काम, साल, तरह, बार, युद्ध
 * `EMPTY` (157): वहां, अभी, पहले, बाद, अब, आगे, आज, यहां, दूर, पीछे
 
 ### `AUX`
 
-1641 <tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Number`.
+1646 <tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1598; 97%), <tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1189; 72%), <tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (824; 50%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1603; 97%), <tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1192; 72%), <tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (829; 50%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (340; 21% of non-empty `Number`): हैं, थे, गए, रहे, सकते, थीं, जाते, होते, हुए, दिए
-* `Sing` (1301; 79% of non-empty `Number`): है, था, गया, गयी, दिया, हुए, जाता, थी, सकता, रहा
+* `Plur` (341; 21% of non-empty `Number`): हैं, थे, गए, रहे, सकते, थीं, जाते, होते, हुए, दिए
+* `Sing` (1305; 79% of non-empty `Number`): है, था, गया, गयी, दिया, थी, हुए, जाता, सकता, रहा
 * `EMPTY` (130): हो, जा, कर, जाने, होने, करने, देने, पड़, हैं, अपुलियाई
 
 ### `PROPN`
 
-1344 <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Number`.
+1343 <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1150; 86%), <tt><a href="hi_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (747; 56%), <tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt> (715; 53%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1149; 86%), <tt><a href="hi_pud-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (746; 56%), <tt><a href="hi_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt> (714; 53%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (4; 0% of non-empty `Number`): कॉमन्स, पालों, बांतु, मपेट्स
-* `Sing` (1340; 100% of non-empty `Number`): अमेरिका, चीन, ब्रिटेन, ट्रम्प, फ्रांस, यूरोप, इटली, मिस्र, रूस, हांगकांग
+* `Sing` (1339; 100% of non-empty `Number`): अमेरिका, चीन, ब्रिटेन, ट्रम्प, फ्रांस, यूरोप, इटली, मिस्र, रूस, हांगकांग
 * `EMPTY` (15): VW, 2C, Aoun, Emicro, ExxonMobil, GEMA, GOP, Hariri, Huawei, IRENA
 
 ### `VERB`
 
-1336 <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> tokens (65% of all `VERB` tokens) have a non-empty value of `Number`.
+1332 <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> tokens (65% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="hi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1319; 99%), <tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1268; 95%), <tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (944; 71%), <tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (937; 70%), <tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (674; 50%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="hi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1315; 99%), <tt><a href="hi_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1264; 95%), <tt><a href="hi_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (941; 71%), <tt><a href="hi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (933; 70%), <tt><a href="hi_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (674; 51%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Plur` (205; 15% of non-empty `Number`): हैं, करते, थे, किए, होते, करें, करेंगे, हुए, कहते, दिए
-* `Sing` (1131; 85% of non-empty `Number`): किया, है, कहा, की, था, थी, हुआ, हुई, करता, दिया
+* `Sing` (1127; 85% of non-empty `Number`): किया, है, कहा, की, था, थी, हुआ, हुई, करता, दिया
 * `EMPTY` (726): करने, कर, हो, होने, करना, रहने, बन, बनाने, रखने, देने
 
 ### `PRON`
@@ -74,7 +74,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (143; 15% of non-empty `Number`): वे, उनमें, हम, उनके, ये, जिनमें, हमारे, उनकी, हमें, उन्हें
 * `Sing` (788; 85% of non-empty `Number`): यह, अपने, वह, इसके, उसके, उसने, अपनी, उसे, इसे, इसका
-* `EMPTY` (196): जो, उन्होंने, क्या, जहां, उनके, खुद, क्यों, वे, उन्हें, कहां
+* `EMPTY` (197): जो, उन्होंने, क्या, जहां, उनके, खुद, क्यों, वे, उन्हें, कहां
 
 ### `ADP`
 
@@ -86,7 +86,7 @@ The most frequent other feature values with which `ADP` and `Number` co-occurred
 
 * `Plur` (108; 12% of non-empty `Number`): के, वाले, वालों
 * `Sing` (759; 88% of non-empty `Number`): के, का, वाले, वाली, वाला, संबंधी, योग्य, स्थित, आधारित, केन्द्रित
-* `EMPTY` (3985): में, के, की, से, को, ने, पर, लिए, तक, साथ
+* `EMPTY` (3982): में, के, की, से, को, ने, पर, लिए, तक, साथ
 
 ### `DET`
 
@@ -98,7 +98,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 * `Plur` (36; 8% of non-empty `Number`): उन, इन, दोनों, ये, वे, वो, सैकड़ों
 * `Sing` (434; 92% of non-empty `Number`): एक, इस, यह, उस, ऐसा, द, उसी, ऐसे, ऐसी, थोड़ा
-* `EMPTY` (407): कई, बहुत, ज्यादा, लगभग, कम, केवल, कुछ, किसी, कोई, और
+* `EMPTY` (406): कई, बहुत, ज्यादा, लगभग, कम, केवल, कुछ, किसी, कोई, हर
 
 ### `ADJ`
 
@@ -110,18 +110,18 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 * `Plur` (14; 8% of non-empty `Number`): नये, अच्छे, ऊंचे, दूसरे, पुराने
 * `Sing` (169; 92% of non-empty `Number`): नये, पहले, पिछले, नया, पूरा, बड़ा, छोटे, तीसरे, दूसरे, पुराने
-* `EMPTY` (1813): सबसे, शामिल, प्राप्त, स्थापित, अन्य, अमेरिकी, अलग, महत्वपूर्ण, विशेष, कम
+* `EMPTY` (1812): सबसे, शामिल, प्राप्त, स्थापित, अन्य, अमेरिकी, अलग, महत्वपूर्ण, विशेष, कम
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>VERB --[<tt><a href="hi_pud-dep-obj.html">obj</a></tt>]--> NOUN</tt> (616; 53%),
-<tt>VERB --[<tt><a href="hi_pud-dep-aux.html">aux</a></tt>]--> AUX</tt> (590; 57%),
+<tt>VERB --[<tt><a href="hi_pud-dep-obj.html">obj</a></tt>]--> NOUN</tt> (614; 53%),
+<tt>VERB --[<tt><a href="hi_pud-dep-aux.html">aux</a></tt>]--> AUX</tt> (591; 57%),
 <tt>VERB --[<tt><a href="hi_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (569; 52%),
 <tt>NOUN --[<tt><a href="hi_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (540; 70%),
-<tt>NOUN --[<tt><a href="hi_pud-dep-det.html">det</a></tt>]--> DET</tt> (413; 59%),
+<tt>NOUN --[<tt><a href="hi_pud-dep-det.html">det</a></tt>]--> DET</tt> (415; 59%),
 <tt>NOUN --[<tt><a href="hi_pud-dep-compound.html">compound</a></tt>]--> NOUN</tt> (335; 85%),
-<tt>NOUN --[<tt><a href="hi_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (244; 77%),
+<tt>NOUN --[<tt><a href="hi_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (243; 77%),
 <tt>PROPN --[<tt><a href="hi_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (205; 100%),
 <tt>VERB --[<tt><a href="hi_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (190; 56%),
 <tt>NOUN --[<tt><a href="hi_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (177; 79%).

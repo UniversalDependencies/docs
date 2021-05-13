@@ -12,7 +12,7 @@ There are 1 language-specific subtypes of `aux`: <tt><a href="sk_snk-dep-aux-pas
 2037 nodes (2%) are attached to their parents as `aux`.
 
 1165 instances of `aux` (57%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.49533627884143.
+Average distance between parent and child is 1.4972999509082.
 
 The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> (1985; 97% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> (35; 2% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> (15; 1% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt>-<tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt>-<tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 

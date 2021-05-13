@@ -70,7 +70,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> VERB</tt> (2561; 76%),
+<tt>VERB --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> VERB</tt> (2562; 76%),
 <tt>VERB --[<tt><a href="no_bokmaal-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (526; 61%),
 <tt>AUX --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> VERB</tt> (11; 100%),
 <tt>VERB --[<tt><a href="no_bokmaal-dep-acl.html">acl</a></tt>]--> VERB</tt> (8; 89%),

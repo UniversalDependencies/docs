@@ -77,7 +77,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (1044; 39% of non-empty `Person`): <em>mi, ma, ja, mňa, nás, mne, mnou, nám, my, nami</em>
 * `2` (244; 9% of non-empty `Person`): <em>ťa, ty, ti, vás, vám, teba, vy, tebou, tebe, vami</em>
 * `3` (1410; 52% of non-empty `Person`): <em>ho, mu, ju, jej, ich, nich, im, nej, ním, ona</em>
-* `EMPTY` (3737): <em>sa, si, čo, niečo, nič, seba, kto, sebe, nikto, naňho</em>
+* `EMPTY` (3737): <em>sa, si, čo, niečo, nič, neho, seba, kto, sebe, nikto</em>
 
 ### `DET`
 

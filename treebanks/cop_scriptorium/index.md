@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 The following people have contributed to making this treebank part of UD: Mitchell Abrams, Elizabeth Davidson, Amir Zeldes.
 
 Repository: [UD_Coptic-Scriptorium](https://github.com/UniversalDependencies/UD_Coptic-Scriptorium)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcop_scriptorium27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcop_scriptorium28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY 4.0
 
@@ -71,7 +71,7 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 
 ## Features
 
-[Definite](cop_scriptorium-feat-Definite.html) – [Gender](cop_scriptorium-feat-Gender.html) – [Gender[psor]](cop_scriptorium-feat-Gender-psor.html) – [Number](cop_scriptorium-feat-Number.html) – [Number[psor]](cop_scriptorium-feat-Number-psor.html) – [NumType](cop_scriptorium-feat-NumType.html) – [Person](cop_scriptorium-feat-Person.html) – [Polarity](cop_scriptorium-feat-Polarity.html) – [Poss](cop_scriptorium-feat-Poss.html) – [PronType](cop_scriptorium-feat-PronType.html) – [Reflex](cop_scriptorium-feat-Reflex.html) – [VerbForm](cop_scriptorium-feat-VerbForm.html)
+[Definite](cop_scriptorium-feat-Definite.html) – [Foreign](cop_scriptorium-feat-Foreign.html) – [Gender](cop_scriptorium-feat-Gender.html) – [Gender[psor]](cop_scriptorium-feat-Gender-psor.html) – [Number](cop_scriptorium-feat-Number.html) – [Number[psor]](cop_scriptorium-feat-Number-psor.html) – [NumType](cop_scriptorium-feat-NumType.html) – [Person](cop_scriptorium-feat-Person.html) – [Polarity](cop_scriptorium-feat-Polarity.html) – [Poss](cop_scriptorium-feat-Poss.html) – [PronType](cop_scriptorium-feat-PronType.html) – [Reflex](cop_scriptorium-feat-Reflex.html) – [VerbForm](cop_scriptorium-feat-VerbForm.html)
 
 ## Relations
 
@@ -81,7 +81,7 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 
 
 <ul>
-<li>This corpus contains 1873 sentences, 22992 tokens and 48631 syntactic words.</li>
+<li>This corpus contains 1873 sentences, 22992 tokens and 48632 syntactic words.</li>
 </ul>
 
 <ul>
@@ -98,7 +98,7 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 
 <ul>
 <li>This corpus contains 14302 multi-word tokens. On average, one multi-word token consists of 2.79 syntactic words.</li>
-<li>There are 7918 types of multi-word tokens. Examples: ⲙⲙⲟⲥ, ⲛⲁϥ, ⲙⲙⲟϥ, ⲉⲣⲟϥ, ⲡⲉϫⲁϥ, ⲙⲡⲛⲟⲩⲧⲉ, ⲛⲁⲩ, ⲛⲧϩⲉ, ⲙⲙⲟⲟⲩ, ⲧⲏⲣⲟⲩ, ⲛⲁⲓ, ⲉϥϫⲱ, ⲛϩⲏⲧϥ, ⲛⲁⲕ, ⲉⲣⲟⲓ, ⲉⲣⲟⲟⲩ, ⲛⲏⲧⲛ, ⲉⲧⲙⲙⲁⲩ, ⲛⲁⲥ, ⲉⲣⲟⲕ, ⲛⲧⲉⲩⲛⲟⲩ, ⲙⲙⲟⲕ, ⲛϩⲏⲧ, ⲛⲣⲱⲙⲉ, ⲉⲧⲟⲩⲁⲁⲃ, ⲙⲡϫⲟⲉⲓⲥ, ⲛⲧⲉⲓϩⲉ, ⲁϥⲃⲱⲕ, ⲁϥⲉⲓ, ⲡⲛⲟⲩⲧⲉ, ⲛⲁⲛ, ⲛⲙⲙⲁϥ, ⲡⲉⲭⲣⲓⲥⲧⲟⲥ, ⲉⲣⲟⲛ, ⲙⲡⲣⲱⲙⲉ, ⲛϩⲏⲧⲟⲩ, ⲁϥϫⲟⲟⲥ, ⲉⲧⲃⲉⲡⲁⲓ, ⲙⲙⲟⲓ, ⲛⲟⲩⲱⲧ, ⲛⲥⲱϥ, ⲛϩⲟⲩⲟ, ⲉⲡⲉⲥⲏⲧ, ⲉⲣⲱⲧⲛ, ⲧⲏⲣϥ, ⲁⲩⲉⲓ, ⲛϩⲟⲟⲩ, ⲡⲉϫⲁⲥ, ⲙⲡⲉⲭⲣⲓⲥⲧⲟⲥ, ⲛⲧⲉⲡⲛⲟⲩⲧⲉ.</li>
+<li>There are 7917 types of multi-word tokens. Examples: ⲙⲙⲟⲥ, ⲛⲁϥ, ⲙⲙⲟϥ, ⲉⲣⲟϥ, ⲡⲉϫⲁϥ, ⲙⲡⲛⲟⲩⲧⲉ, ⲛⲁⲩ, ⲛⲧϩⲉ, ⲙⲙⲟⲟⲩ, ⲧⲏⲣⲟⲩ, ⲛⲁⲓ, ⲉϥϫⲱ, ⲛϩⲏⲧϥ, ⲛⲁⲕ, ⲉⲣⲟⲓ, ⲉⲣⲟⲟⲩ, ⲛⲏⲧⲛ, ⲉⲧⲙⲙⲁⲩ, ⲛⲁⲥ, ⲉⲣⲟⲕ, ⲛⲧⲉⲩⲛⲟⲩ, ⲙⲙⲟⲕ, ⲛϩⲏⲧ, ⲛⲣⲱⲙⲉ, ⲉⲧⲟⲩⲁⲁⲃ, ⲙⲡϫⲟⲉⲓⲥ, ⲛⲧⲉⲓϩⲉ, ⲁϥⲃⲱⲕ, ⲁϥⲉⲓ, ⲡⲛⲟⲩⲧⲉ, ⲛⲁⲛ, ⲛⲙⲙⲁϥ, ⲡⲉⲭⲣⲓⲥⲧⲟⲥ, ⲉⲣⲟⲛ, ⲙⲡⲣⲱⲙⲉ, ⲛϩⲏⲧⲟⲩ, ⲁϥϫⲟⲟⲥ, ⲉⲧⲃⲉⲡⲁⲓ, ⲙⲙⲟⲓ, ⲛⲟⲩⲱⲧ, ⲛⲥⲱϥ, ⲛϩⲟⲩⲟ, ⲉⲡⲉⲥⲏⲧ, ⲉⲣⲱⲧⲛ, ⲧⲏⲣϥ, ⲁⲩⲉⲓ, ⲛϩⲟⲟⲩ, ⲡⲉϫⲁⲥ, ⲙⲡⲉⲭⲣⲓⲥⲧⲟⲥ, ⲛⲧⲉⲡⲛⲟⲩⲧⲉ.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -115,7 +115,7 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 </ul>
 
 <ul>
-<li>This corpus contains 73 lemmas tagged as pronouns (PRON): ϩⲁ_ⲛⲧⲟ, ϩⲁϩⲧⲛ, ϩⲓϫⲛ_ⲛⲧⲟ, ϩⲛ_ⲁⲛⲟⲕ, ϩⲱ_ⲁⲛⲟⲕ, ϩⲱⲱ_ⲁⲛⲟⲕ, ϫⲓ_ⲁⲛⲟⲕ, ϫⲡⲟ_ⲛⲧⲟ, ϯ, ⲁ, ⲁ_ⲛⲧⲟ, ⲁϣ, ⲁⲛⲟⲕ, ⲁⲛⲟⲕ_ⲛⲧⲉ, ⲁⲛⲟⲛ, ⲁⲟⲩⲏⲣ, ⲅ, ⲉ_ⲛⲧⲟ, ⲉϥ, ⲉϫⲛ_ⲛⲧⲟ, ⲉⲓ, ⲉⲕⲉ, ⲉⲛⲉ, ⲉⲣϣⲁⲛ_ⲁⲛⲟⲕ, ⲉⲣϣⲁⲛ_ⲁⲛⲟⲛ, ⲉⲣϣⲁⲛ_ⲛⲧⲟ, ⲉⲣϣⲁⲛ_ⲛⲧⲟϥ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲟⲩ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲥ, ⲉⲣϣⲁⲛ_ⲛⲧⲱⲧⲛ, ⲉⲣⲉ, ⲉⲣⲉ_ⲁⲛⲟⲕ, ⲉⲣⲉ_ⲁⲛⲟⲛ, ⲉⲣⲉ_ⲛⲧⲟ, ⲉⲣⲉ_ⲛⲧⲟϥ, ⲉⲣⲉ_ⲛⲧⲟⲕ, ⲉⲣⲉ_ⲛⲧⲟⲟⲩ, ⲉⲣⲉ_ⲛⲧⲟⲥ, ⲉⲣⲉ_ⲛⲧⲱⲧⲛ, ⲉⲥ, ⲉⲧⲃⲉ_ⲁⲛⲟⲕ, ⲉⲧⲉⲣⲉ_ⲛⲧⲟ, ⲉⲧⲉⲧⲛϣⲁⲛ, ⲉⲧⲉⲧⲛⲉ, ⲕ, ⲙⲙⲓⲛⲙⲙⲟ_ⲛⲧⲟ, ⲙⲡⲉ_ⲛⲧⲟ, ⲛ, ⲛ_ⲛⲧⲟ, ⲛⲉⲣⲉ_ⲛⲧⲟ, ⲛⲓⲙ, ⲛⲥⲁ_ⲛⲧⲟ, ⲛⲧⲉ_ⲁⲛⲟⲕ, ⲛⲧⲉⲧⲛ, ⲛⲧⲟ, ⲛⲧⲟϥ, ⲛⲧⲟⲕ, ⲛⲧⲟⲟⲩ, ⲛⲧⲟⲥ, ⲛⲧⲱⲧⲛ, ⲟⲩ, ⲟⲩⲏⲣ, ⲡ, ⲡⲉ, ⲡⲱⲥ, ⲣⲁⲧ_ⲁⲛⲟⲕ, ⲣⲟ_ⲛⲧⲟ, ⲥϥ, ⲧⲉⲧ, ⲧⲉⲧⲛ, ⲧⲣⲉ_ⲁⲛⲟⲕ, ⲧⲣⲉϥ</li>
+<li>This corpus contains 72 lemmas tagged as pronouns (PRON): ϩⲁ_ⲛⲧⲟ, ϩⲁϩⲧⲛ, ϩⲓϫⲛ_ⲛⲧⲟ, ϩⲛ_ⲁⲛⲟⲕ, ϩⲱ_ⲁⲛⲟⲕ, ϩⲱⲱ_ⲁⲛⲟⲕ, ϫⲓ_ⲁⲛⲟⲕ, ϫⲡⲟ_ⲛⲧⲟ, ϯ, ⲁ, ⲁ_ⲛⲧⲟ, ⲁϣ, ⲁⲛⲟⲕ, ⲁⲛⲟⲕ_ⲛⲧⲉ, ⲁⲛⲟⲛ, ⲁⲟⲩⲏⲣ, ⲅ, ⲉ_ⲛⲧⲟ, ⲉϥ, ⲉϫⲛ_ⲛⲧⲟ, ⲉⲓ, ⲉⲕⲉ, ⲉⲛⲉ, ⲉⲣϣⲁⲛ_ⲁⲛⲟⲕ, ⲉⲣϣⲁⲛ_ⲁⲛⲟⲛ, ⲉⲣϣⲁⲛ_ⲛⲧⲟ, ⲉⲣϣⲁⲛ_ⲛⲧⲟϥ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲕ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲟⲩ, ⲉⲣϣⲁⲛ_ⲛⲧⲟⲥ, ⲉⲣϣⲁⲛ_ⲛⲧⲱⲧⲛ, ⲉⲣⲉ, ⲉⲣⲉ_ⲁⲛⲟⲕ, ⲉⲣⲉ_ⲁⲛⲟⲛ, ⲉⲣⲉ_ⲛⲧⲟ, ⲉⲣⲉ_ⲛⲧⲟϥ, ⲉⲣⲉ_ⲛⲧⲟⲕ, ⲉⲣⲉ_ⲛⲧⲟⲟⲩ, ⲉⲣⲉ_ⲛⲧⲟⲥ, ⲉⲣⲉ_ⲛⲧⲱⲧⲛ, ⲉⲥ, ⲉⲧⲃⲉ_ⲁⲛⲟⲕ, ⲉⲧⲉⲣⲉ_ⲛⲧⲟ, ⲉⲧⲉⲧⲛϣⲁⲛ, ⲉⲧⲉⲧⲛⲉ, ⲕ, ⲙⲙⲓⲛⲙⲙⲟ_ⲛⲧⲟ, ⲙⲡⲉ_ⲛⲧⲟ, ⲛ, ⲛ_ⲛⲧⲟ, ⲛⲉⲣⲉ_ⲛⲧⲟ, ⲛⲓⲙ, ⲛⲥⲁ_ⲛⲧⲟ, ⲛⲧⲉ_ⲁⲛⲟⲕ, ⲛⲧⲉⲧⲛ, ⲛⲧⲟ, ⲛⲧⲟϥ, ⲛⲧⲟⲕ, ⲛⲧⲟⲟⲩ, ⲛⲧⲟⲥ, ⲛⲧⲱⲧⲛ, ⲟⲩ, ⲟⲩⲏⲣ, ⲡ, ⲡⲉ, ⲡⲱⲥ, ⲣⲁⲧ_ⲁⲛⲟⲕ, ⲣⲟ_ⲛⲧⲟ, ⲥϥ, ⲧⲉⲧ, ⲧⲉⲧⲛ, ⲧⲣⲉϥ</li>
 </ul>
 
 <ul>
@@ -151,7 +151,7 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 <ul>
   <li>Inf
   <ul>
-    <li>VERB: ϯ, ⲛⲁⲩ, ⲣ, ϫⲓ, ⲁⲁ, ⲃⲱⲕ, ϣⲁϫⲉ, ϣⲁⲁⲧ, ϫⲟⲟ, ⲕⲁ</li>
+    <li>VERB: ϯ, ⲛⲁⲩ, ⲣ, ϫⲓ, ⲁⲁ, ⲃⲱⲕ, ϣⲁϫⲉ, ϣⲁⲁⲧ, ⲕⲁ, ⲥⲱⲧⲙ</li>
   </ul>
   </li>
 </ul>
@@ -439,12 +439,39 @@ The underlying POS tagged material was produced as part of the projects Coptic S
 <h3>Other Features</h3>
 
 
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADJ: ⲕⲁⲑⲟⲗⲓⲕⲏ</li>
+          <li>ADP: ⲕⲁⲧⲁ, ⲭⲱⲣⲓⲥ, ⲡⲁⲣⲁ, ⲙ, ⲡⲁⲣⲁⲣⲟ</li>
+          <li>ADV: ⲕⲁⲗⲱⲥ, ⲧⲟⲧⲉ, ⲙⲁⲗⲓⲥⲧⲁ, ⲏⲇⲏ, ϩⲟⲗⲱⲥ, ⲉⲧⲓ, ⲗⲟⲓⲡⲟⲛ, ⲟⲩⲕ, ⲡⲁⲗⲓⲛ, ⲕⲁⲕⲱⲥ</li>
+          <li>AUX: ⲟⲩⲛ</li>
+          <li>CCONJ: ⲁⲗⲗⲁ, ⲏ, ⲟⲩⲇⲉ, ⲉⲓⲧⲉ, ⲙⲏ, ⲟⲩⲧⲉ, ⲡⲗⲏⲛ, ⲕⲁⲓ, ⲕⲁⲛ, ⲙⲉⲛ</li>
+          <li>DET: ⲛⲁⲓ</li>
+          <li>NOUN: ⲭⲣⲓⲥⲧⲟⲥ, ⲡⲛⲉⲩⲙⲁ, ⲁⲡⲁ, ⲕⲟⲥⲙⲟⲥ, ⲙⲁⲑⲏⲧⲏⲥ, ⲥⲱⲙⲁ, ⲥⲁⲣⲝ, ⲡⲣⲟⲫⲏⲧⲏⲥ, ⲉⲛⲧⲟⲗⲏ, ⲗⲁⲟⲥ</li>
+          <li>NUM: ⲟⲩⲁ</li>
+          <li>PART: ⲇⲉ, ⲅⲁⲣ, ⲱ, ⲙⲉⲛ, ϩⲁⲙⲏⲛ, ⲁⲣⲁ, ⲟⲩⲛ, ⲭⲁⲓⲣⲉ, ⲭⲱⲣⲓⲥ, ⲁⲛⲧⲓ</li>
+          <li>PRON: ⲟⲩ</li>
+          <li>PROPN: ⲓⲏⲥⲟⲩⲥ, ⲓⲱϩⲁⲛⲛⲏⲥ, ⲃⲟⲉⲥ, ϩⲣⲟⲩⲑ, ⲛⲟⲉⲙⲓⲛ, ⲓⲁⲕⲱⲃ, ⲥⲁⲧⲁⲛⲁⲥ, ⲇⲓⲁⲃⲟⲗⲟⲥ, ⲡⲁⲩⲗⲟⲥ, ⲅⲁⲗⲓⲗⲁⲓⲁ</li>
+          <li>SCONJ: ϩⲱⲥⲧⲉ, ϩⲱⲥ, ⲉⲓⲙⲏⲧⲓ, ϩⲟⲧⲁⲛ, ⲉⲡⲉⲓⲇⲏ, ⲙⲏⲡⲟⲧⲉ, ⲙⲏⲧⲓ, ⲕⲁⲛ, ⲅⲁⲣ, ⲉⲡⲉⲓ</li>
+          <li>VERB: ⲥⲧⲁⲩⲣⲟⲩ, ⲡⲓⲥⲧⲉⲩⲉ, ⲕⲣⲓⲛⲉ, ⲑⲩⲥⲓⲁⲍⲉ, ⲡⲁⲣⲁⲕⲁⲗⲉⲓ, ⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ, ⲛⲏⲥⲧⲉⲩⲉ, ⲥⲕⲁⲛⲇⲁⲗⲓⲍⲉ, ⲁⲛⲁⲭⲱⲣⲉⲓ, ⲁⲣⲭⲉⲓ</li>
+          <li>VERB-Fin: ⲥⲧⲁⲩⲣⲟⲩ, ⲡⲓⲥⲧⲉⲩⲉ, ⲑⲩⲥⲓⲁⲍⲉ, ⲕⲣⲓⲛⲉ, ⲡⲁⲣⲁⲕⲁⲗⲉⲓ, ⲕⲗⲏⲣⲟⲛⲟⲙⲉⲓ, ⲛⲏⲥⲧⲉⲩⲉ, ⲥⲕⲁⲛⲇⲁⲗⲓⲍⲉ, ⲁⲛⲁⲭⲱⲣⲉⲓ, ⲁⲣⲭⲉⲓ</li>
+          <li>VERB-Inf: ⲧⲁⲗⲉⲇⲱⲣⲟⲛ, ⲡⲁⲣⲁⲅⲉ, ϯⲛⲧⲟⲗⲏ, ⲁⲛⲉⲭⲉ, ⲁⲥⲡⲁⲍⲉ, ⲃⲁⲡⲧⲓⲍⲉ, ⲇⲓⲁⲕⲣⲓⲛⲉ, ⲉⲡⲓⲃⲟⲩⲗⲉⲩⲉ, ⲉⲩⲁⲅⲅⲉⲗⲓⲍⲉ, ⲕⲣⲓⲛⲉ</li>
+          <li>X: ⲙⲟⲛⲟⲛ, ⲁⲣⲭⲏⲉⲡⲓⲥⲕⲟⲡⲟⲩ, ⲁⲩⲧⲟⲩ, ⲉⲡⲓⲥⲧⲟⲗⲏ, ⲉⲡⲫⲁⲑⲁ, ⲕⲟⲩⲙ, ⲟⲩⲇ[.......], ⲧⲟⲩ, ⲭⲉⲓⲙⲏⲧⲓ, ⲟⲩ</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: ⲡⲉ, ⲡ.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: ⲡⲉ.</li>
 </ul>
 
 <ul>
@@ -464,7 +491,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (504)</li>
       <li>VERB-Fin--NOUN-ADP(ϩⲓⲣⲛ) (1)</li>
       <li>VERB-Fin--NOUN-ADP(ⲛ) (5)</li>
-      <li>VERB-Fin--PRON (3830)</li>
+      <li>VERB-Fin--PRON (3831)</li>
     </ul>
   </li>
 </ul>
@@ -479,14 +506,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(ⲙ) (3)</li>
       <li>VERB-Fin--NOUN-ADP(ⲛ) (408)</li>
       <li>VERB-Fin--NOUN-ADP(ⲛ)-ADP(ⲛ) (8)</li>
-      <li>VERB-Fin--PRON (739)</li>
+      <li>VERB-Fin--PRON (740)</li>
       <li>VERB-Fin--PRON-ADP(ⲉ) (1)</li>
       <li>VERB-Fin--PRON-ADP(ⲙⲙⲟ) (5)</li>
       <li>VERB-Fin--PRON-ADP(ⲛ) (320)</li>
       <li>VERB-Fin--PRON-ADP(ⲧⲟⲟⲧ) (1)</li>
       <li>VERB-Inf--NOUN (24)</li>
       <li>VERB-Inf--NOUN-ADP(ⲛ) (18)</li>
-      <li>VERB-Inf--PRON (50)</li>
+      <li>VERB-Inf--PRON (49)</li>
       <li>VERB-Inf--PRON-ADP(ⲛ) (4)</li>
     </ul>
   </li>

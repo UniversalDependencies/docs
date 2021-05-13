@@ -48,14 +48,14 @@ The following 10 pairs of parts of speech are connected with `case:gen`: <tt><a 
 3	אוהבים	אהב	VERB	VERB	Gender=Masc|HebBinyan=PAAL|Number=Plur|Person=1,2,3|VerbForm=Part|Voice=Act	0	root	_	_
 4	ביותר	ביותר	ADV	ADV	_	3	advmod	_	_
 5	את	את	ADP	ADP	Case=Acc	7	case:acc	_	_
-6	ה	ה	DET	DET	PronType=Art	7	det:def	_	_
+6	ה	ה	DET	DET	Definite=Def|PronType=Art	7	det	_	_
 7	רעיון	רעיון	NOUN	NOUN	Gender=Masc|Number=Sing	3	obj	_	_
 8	של	של	ADP	ADP	Case=Gen	9	case:gen	_	_
 9	מלחמה	מלחמה	NOUN	NOUN	Gender=Fem|Number=Sing	7	nmod:poss	_	_
 10	ב	ב	ADP	ADP	_	12	case	_	_
-11	ה_	ה	DET	DET	PronType=Art	12	det:def	_	_
+11	ה_	ה	DET	DET	Definite=Def|PronType=Art	12	det	_	_
 12	מפרץ	מפרץ	NOUN	NOUN	Gender=Masc|Number=Sing	9	nmod	_	_
-13	ה	ה	DET	DET	PronType=Art	14	det:def	_	_
+13	ה	ה	DET	DET	Definite=Def|PronType=Art	14	det	_	_
 14	פרסי	פרסי	ADJ	ADJ	Gender=Masc|Number=Sing	12	amod	_	_
 15	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
@@ -69,18 +69,18 @@ The following 10 pairs of parts of speech are connected with `case:gen`: <tt><a 
 # visual-style 14	fgColor:white
 # visual-style 14 11 case:gen	color:blue
 1	זוהי	זהו	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
-2	ה	ה	DET	DET	PronType=Art	3	det:def	_	_
+2	ה	ה	DET	DET	Definite=Def|PronType=Art	3	det	_	_
 3	מחצית	מחצית	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
-4	ה	ה	DET	DET	PronType=Art	5	det:def	_	_
+4	ה	ה	DET	DET	Definite=Def|PronType=Art	5	det	_	_
 5	צפונית	צפוני	ADJ	ADJ	Gender=Fem|Number=Sing	3	amod	_	_
 6	של	של	ADP	ADP	Case=Gen	8	case:gen	_	_
-7	ה	ה	DET	DET	PronType=Art	8	det:def	_	_
+7	ה	ה	DET	DET	Definite=Def|PronType=Art	8	det	_	_
 8	מחוז	מחוז	NOUN	NOUN	Gender=Masc|Number=Sing	3	nmod	_	_
-9	ה	ה	DET	DET	PronType=Art	10	det:def	_	_
+9	ה	ה	DET	DET	Definite=Def|PronType=Art	10	det	_	_
 10	גרמני	גרמני	ADJ	ADJ	Gender=Masc|Number=Sing	8	amod	_	_
 11	של	של	ADP	ADP	Case=Gen	14	case:gen	_	_
 12	מזרח	מזרח	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
-13	-	-	PUNCT	PUNCT	_	14	punct	_	SpaceAfter=No
+13	-	-	PUNCT	PUNCT	_	12	punct	_	SpaceAfter=No
 14	רוסיה	רוסיה	PROPN	PROPN	_	8	nmod	_	SpaceAfter=No
 15	.	.	PUNCT	PUNCT	_	3	punct	_	_
 

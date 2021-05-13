@@ -79,7 +79,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 4	değişik	değişik	ADJ	Adj	_	5	amod	_	_
 5	şeyler	şey	NOUN	Noun	Case=Nom|Number=Plur|Person=3	6	obj	_	_
 6	fark	fark	NOUN	Noun	Case=Nom|Number=Sing|Person=3	0	root	_	_
-7	ederiz	et	VERB	Verb	Aspect=Hab|Number=Plur|Person=1|Polarity=Pos|Tense=Aor	6	compound:lvc	_	SpaceAfter=No
+7	ederiz	et	VERB	Verb	Aspect=Hab|Number=Plur|Person=1|Polarity=Pos|Tense=Pres	6	compound:lvc	_	SpaceAfter=No
 8	;	;	PUNCT	Punc	_	6	punct	_	_
 9	mesela	mesela	ADV	Adverb	_	12	advmod	_	_
 10	işyerinde	işyer	NOUN	Noun	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	12	obl	_	_
@@ -89,16 +89,16 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 14	bir	bir	NUM	ANum	NumType=Card	13	goeswith	_	_
 15	göz	göz	NOUN	Noun	Case=Nom|Number=Sing|Person=3	17	advcl	_	_
 16	atıp	at	VERB	Verb	Polarity=Pos	15	compound	_	_
-17	kapatacağımız	kapa	NOUN	Noun	Aspect=Imp|Number[psor]=Plur|Person[psor]=1|Polarity=Pos|Tense=Fut|VerbForm=Part|Voice=Cau	19	acl	_	_
+17	kapatacağımız	kapa	NOUN	Noun	_	19	acl	_	_
 18	uyduruk	uyduruk	NOUN	Noun	Case=Nom|Number=Sing|Person=3	19	amod	_	_
 19	gazetelerden	gazete	NOUN	Noun	Case=Abl|Number=Plur|Person=3	20	nmod:poss	_	_
 20	teki	tek	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	24	nsubj	_	_
 21	yolculardan	yolcu	NOUN	Noun	Case=Abl|Number=Plur|Person=3	20	nmod:poss	_	_
 22	biri	biri	PRON	Quant	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	23	obl	_	_
 23	tarafından	taraf	NOUN	Noun	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	24	obl	_	_
-24	açıldığında	aç	NOUN	Noun	Aspect=Perf|Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	40	advcl	_	SpaceAfter=No
+24	açıldığında	aç	NOUN	Noun	_	40	advcl	_	SpaceAfter=No
 25	,	,	PUNCT	Punc	_	40	punct	_	_
-26	iki	iki	ADV	ANum	NumType=Card	33	advmod	_	_
+26	iki	iki	ADV	ANum	_	33	advmod	_	_
 27	de	de	CCONJ	Conj	_	26	advmod:emph	_	_
 28	bir	bir	ADV	Adverb	_	26	compound:redup	_	_
 29	de	de	CCONJ	Conj	_	28	advmod:emph	_	_
@@ -110,7 +110,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 35	önemli	önem	NOUN	Noun	Case=Nom|Number=Sing|Person=3	37	amod	_	_
 36	önemsiz	önem	NUM	ANum	Case=Nom|Number=Sing|Person=3	35	compound:redup	_	_
 37	haberleri	haber	NOUN	Noun	Case=Acc|Number=Plur|Person=3	39	obj	_	_
-38	ısrarla	ısrar	ADV	Noun	Case=Ins|Number=Sing|Person=3	39	advmod	_	_
+38	ısrarla	ısrar	ADV	Noun	_	39	advmod	_	_
 39	okumaya	oku	VERB	Verb	Case=Dat|Number=Sing|Person=3|Polarity=Pos	40	ccomp	_	_
 40	çalıştığımızı	çalış	VERB	Verb	Aspect=Perf|Case=Acc|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=1|Polarity=Pos|Tense=Past|VerbForm=Part	6	ccomp	_	SpaceAfter=No
 41	.	.	PUNCT	Punc	_	40	punct	_	SpacesAfter=\n

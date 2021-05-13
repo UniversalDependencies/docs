@@ -8,40 +8,27 @@ udver: '2'
 
 This relation is universal.
 
-1804 nodes (8%) are attached to their parents as `root`.
+1907 nodes (8%) are attached to their parents as `root`.
 
-1804 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.96175166297118.
+1907 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.06921866806502.
 
-The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (1524; 84% instances), -<tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (188; 10% instances), -<tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt> (82; 5% instances), -<tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> (4; 0% instances), -<tt><a href="akk_riao-pos-PRON.html">PRON</a></tt> (4; 0% instances), -<tt><a href="akk_riao-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), -<tt><a href="akk_riao-pos-NUM.html">NUM</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 0	bgColor:blue
-# visual-style 0	fgColor:white
-# visual-style 0 6 root	color:blue
-1	ša	ša	PRON	DET	_	6	nsubj	6:nsubj	ša₂
-2	bīt	bītu	NOUN	N	Gender=Masc|Nounbase=Bound|Number=Sing	6	obj	6:obj	E₂
-3	Ištar	Ištar	PROPN	DN	Gender=Fem	2	nmod:poss	2:nmod:poss	{d}INANNA
-4	ša	ša	ADP	DET	_	5	case	5:case	ša₂
-5	Ninua	Ninua	PROPN	SN	_	3	nmod	3:nmod	{URU}NINA
-6	ēpuš	epēšu	VERB	V	Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Finite|Verbstem=G	0	root	0:root	DU₃-uš-ma
-7	ma	_	CCONJ	_	_	8	cc	8:cc	_
-8	arṣip	raṣāpu	VERB	V	Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Finite|Verbstem=G	6	conj	6:conj	ar-ṣip
-
-~~~
+The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (1616; 85% instances), -<tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (191; 10% instances), -<tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt> (90; 5% instances), -<tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> (4; 0% instances), -<tt><a href="akk_riao-pos-PRON.html">PRON</a></tt> (4; 0% instances), -<tt><a href="akk_riao-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), -<tt><a href="akk_riao-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 2 root	color:blue
-1	ana	ana	ADP	PRP	_	2	case	2:case	a-na
-2	mātāt	mātu	NOUN	N	Gender=Fem|Nounbase=Bound|Number=Plur	0	root	0:root	KUR.KUR
+# visual-style 0 7 root	color:blue
+1	Hatte	Hatti	PROPN	GN	Case=Gen	7	obj	7:obj	{KUR}hat-te
+2	ana	ana	ADP	PRP	_	3	case	3:case	a-na
+3	sihirte	sihirtu	NOUN	N	Case=Gen|Gender=Fem|NounBase=Suffixal|Number=Sing	7	obl	7:obl	si-hir₂-te-šu₂
+4	šu	_	PRON	_	Gender=Masc|Number=Sing|Person=3	3	det:poss	3:det:poss	_
+5	qāt	qātu	NOUN	N	Gender=Fem|NounBase=Suffixal|Number=Sing	7	nsubj	7:nsubj	qa-at-su
+6	su	_	PRON	_	Gender=Masc|Number=Sing|Person=3	5	det:poss	5:det:poss	_
+7	ikšudu	kašādu	VERB	V	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Subordinative=Yes|Tense=Past|VerbForm=Fin|VerbStem=G	0	root	0:root	ik-šu-du
 
 ~~~
 
@@ -52,11 +39,32 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	Bi-x	_	PROPN	_	Gender=Masc	0	root	0:root	_
-2	x	_	NOUN	_	_	1	appos	1:appos	_
-3	šu	_	PRON	_	Gender=Masc|Number=Sing|Person=3	2	det:poss	2:det:poss	_
-4	ša	ša	ADP	DET	_	5	case	5:case	ša₂
-5	Amme-baʾli	Ammi-baʾal	PROPN	PN	Gender=Masc	2	nmod	2:nmod	{m}am-me-ba-aʾ-li
+1	ēkal	ēkallu	NOUN	N	Gender=Fem|NounBase=Bound|Number=Sing	0	root	0:root	E₂.GAL
+2	x	_	PROPN	u	Gender=Masc	1	nmod:poss	1:nmod:poss	x
+3	mār	māru	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	2	appos	2:appos	A
+4	Aššur-dan	Aššur-dan_II	PROPN	RN	Gender=Masc	3	nmod:poss	3:nmod:poss	aš-šur-KAL-an
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 1 root	color:blue
+1	Aššur	Aššur	PROPN	DN	Gender=Masc	0	root	0:root	_
+2	Adad	Adad	PROPN	DN	Gender=Masc	1	conj	1:conj	_
+3	Sin	Sin	PROPN	DN	Gender=Masc	1	conj	1:conj	_
+4	u	u	CCONJ	CNJ	_	5	cc	5:cc	_
+5	Šamaš	Šamaš	PROPN	DN	Gender=Masc	1	conj	1:conj	_
+6	Ištar	Ištar	PROPN	DN	Gender=Fem	1	conj	1:conj	_
+7	ilāni	ilu	NOUN	N	Gender=Masc|Number=Plur	1	appos	1:appos	_
+8	rabûti	rabû	ADJ	AJ	Gender=Masc|Number=Plur	7	amod	7:amod	_
+9	ālikūt	āliku	NOUN	N	Gender=Masc|NounBase=Bound|Number=Plur	1	appos	1:appos	_
+10	pān	pānu	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	9	nmod:poss	9:nmod:poss	_
+11	ummānāti	ummānu	NOUN	N	Gender=Fem|NounBase=Suffixal|Number=Plur	10	nmod:poss	10:nmod:poss	_
+12	ya	_	PRON	_	Number=Sing|Person=1	11	det:poss	11:det:poss	_
 
 ~~~
 

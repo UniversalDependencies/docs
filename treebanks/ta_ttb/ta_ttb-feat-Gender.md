@@ -127,7 +127,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 16 <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> tokens (6% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="ta_ttb-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (9; 56%), <tt><a href="ta_ttb-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (9; 56%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="ta_ttb-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (16; 100%), <tt><a href="ta_ttb-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (9; 56%).
 
 `NUM` tokens may have the following values of `Gender`:
 

@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of dislocated in UD_Old_Russian-TOROT'
+title:  'Statistics of dislocated in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Relations: `dislocated`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Relations: `dislocated`
 
 This relation is universal.
 
@@ -44,12 +44,12 @@ The following 38 pairs of parts of speech are connected with `dislocated`: <tt><
 2	ꙗко	яко	SCONJ	G-	_	6	mark	_	ref=27
 3	въ	въ	ADP	R-	_	4	case	_	ref=27
 4	полатахъ	полата	NOUN	Nb	Case=Loc|Gender=Fem|Number=Plur	1	dislocated	_	ref=27
-5	цр҃квьныихъ	цьркъвьныи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur|Strength=Weak	4	amod	_	ref=27
+5	цр҃квьныихъ	цьркъвьныи	ADJ	A-	Case=Loc|Degree=Pos|Gender=Fem|Number=Plur	4	amod	_	ref=27
 6	тѹ	ту	ADV	Df	_	1	ccomp	_	ref=27
 7	ѥсть	быти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	ref=27
 8	имѣниѥ	имѣние	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	ref=27
 9	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	det	_	ref=27
-10	съкръвено	съкръвеныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	8	amod	_	ref=27
+10	съкръвено	съкръвеныи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	8	amod	_	ref=27
 
 ~~~
 

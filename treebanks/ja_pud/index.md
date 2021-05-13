@@ -16,11 +16,11 @@ Family: Japanese
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
-The following people have contributed to making this treebank part of UD: Mai Omura, Yusuke Miyao, Hiroshi Kanayama, Hiroshi Matsuda, Aya Wakasa, Kayo Yamashita, Masayuki Asahara, Takaaki Tanaka, Yugo Murawaki, Yuji Matsumoto, Shinsuke Mori, Sumire Uematsu, Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Atsuko Shimada, Anna Trukhina, Martin Popel, Daniel Zeman.
+The following people have contributed to making this treebank part of UD: Mai Omura, Yusuke Miyao, Hiroshi Kanayama, Hiroshi Matsuda, Aya Wakasa, Kayo Yamashita, Masayuki Asahara, Takaaki Tanaka, Yugo Murawaki, Yuji Matsumoto, Kaoru Ito, Taishi Chika, Shinsuke Mori, Sumire Uematsu, Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Atsuko Shimada, Anna Trukhina, Martin Popel, Daniel Zeman.
 
 Repository: [UD_Japanese-PUD](https://github.com/UniversalDependencies/UD_Japanese-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_pud27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_pud28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 3.0
 
@@ -29,7 +29,7 @@ Genre: news, wiki
 Questions, comments?
 General annotation questions (either Japanese-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Japanese-PUD/issues).
-If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz].
+If you want to collaborate, please contact [masayu-a&nbsp;(æt)&nbsp;ninjal&nbsp;•&nbsp;ac&nbsp;•&nbsp;jp].
 Development of the treebank happens directly in the UD repository, so you may submit bug fixes as pull requests against the dev branch.
 
 | Annotation | Source |
@@ -98,11 +98,11 @@ In May 2020, we introduced the same coversion method used in UD_Japanese GSD v2.
 
 
 <ul>
-<li>This corpus contains 1000 sentences and 28784 tokens.</li>
+<li>This corpus contains 1000 sentences and 28788 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 28746 tokens (100%) that are not followed by a space.</li>
+<li>This corpus contains 28354 tokens (98%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -110,7 +110,7 @@ In May 2020, we introduced the same coversion method used in UD_Japanese GSD v2.
 </ul>
 
 <ul>
-<li>This corpus contains 10 types of words that contain both letters and punctuation. Examples: B.C., G.D.P., H​e​r​F​a​t​h​e​r​D​i​d​n​’​t​L​i​k​e​M​e​A​n​y​w​a​y, Thought’YaKnew, Wi-Fi, Zettel’s, イェルバ・ブエナ, セスト・サン・ジョヴァンニ, プンタ・デル・エステ, プンタ・ラサ</li>
+<li>This corpus contains 10 types of words that contain both letters and punctuation. Examples: B.C., G.D.P., HerFatherDidn’tLikeMeAnyway, Thought’YaKnew, Wi-Fi, Zettel’s, イェルバ・ブエナ, セスト・サン・ジョヴァンニ, プンタ・デル・エステ, プンタ・ラサ</li>
 </ul>
 
 <ul>
@@ -130,22 +130,22 @@ In May 2020, we introduced the same coversion method used in UD_Japanese GSD v2.
 </ul>
 
 <ul>
-<li>This corpus contains 22 lemmas tagged as pronouns (PRON): You, あなた, あらゆる, ある, いずれ, いつ, かれ, ここ, これ, そこ, それ, どこ, どちら, どれ, なん, 何, 君, 彼, 彼女, 我々, 私, 誰</li>
+<li>This corpus contains 21 lemmas tagged as pronouns (PRON): You, あなた, ある, いずれ, いつ, かれ, ここ, これ, そこ, それ, どこ, どちら, どれ, なん, 何, 君, 彼, 彼女, 我々, 私, 誰</li>
 </ul>
 
 <ul>
-<li>This corpus contains 4 lemmas tagged as determiners (DET): あの, この, その, どの</li>
+<li>This corpus contains 5 lemmas tagged as determiners (DET): あの, あらゆる, この, その, どの</li>
 </ul>
 
 <ul>
 </ul>
 
 <ul>
-<li>This corpus contains 46 lemmas tagged as auxiliaries (AUX): ある, いい, いく, いる, える, おる, がましい, くる, くれる, させる, しまう, しめる, しれる, す, すぎる, する, せる, そう, た, たい, たり, だ, づける, てる, できる, ない, なり, なる, ぬ, はじめる, べし, ます, やすい, よい, よう, らしい, られる, り, れる, わたる, 付ける, 出す, 始める, 渡る, 終える, 続ける</li>
+<li>This corpus contains 25 lemmas tagged as auxiliaries (AUX): いい, がましい, させる, しめる, する, せる, そう, た, たい, たり, だ, てる, できる, ない, なり, ぬ, べし, ます, やすい, よい, よう, らしい, られる, り, れる</li>
 </ul>
 
 <ul>
-<li>Out of the above, 16 lemmas occurred sometimes as AUX and sometimes as VERB: ある, いく, いる, える, くる, しれる, すぎる, する, できる, なる, 付ける, 出す, 始める, 渡る, 終える, 続ける</li>
+<li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: する, できる</li>
 </ul>
 
 <ul>
@@ -172,8 +172,9 @@ In May 2020, we introduced the same coversion method used in UD_Japanese GSD v2.
 <ul>
   <li>Neg
     <ul>
-      <li>AUX: ない, なかっ, なけれ, なく</li>
+      <li>AUX: ない, なかっ, ず, ん, なけれ, なく</li>
       <li>NOUN: 不, 未, 非, 反, 無</li>
+      <li>SCONJ: ず</li>
     </ul>
   </li>
 </ul>
@@ -210,7 +211,7 @@ In May 2020, we introduced the same coversion method used in UD_Japanese GSD v2.
 </ul>
 
 <ul>
-<li>This corpus uses 43 lemmas as auxiliaries (<a>aux</a>). Examples: た, する, だ, いる, れる, ある, ない, ます, られる, できる, よう, なる, せる, ぬ, おる, たい, べし, くる, 始める, しれる, しまう, すぎる, 続ける, す, なり, いく, くれる, させる, そう, たり, 付ける, 出す, 渡る, いい, える, がましい, しめる, づける, てる, やすい, よい, らしい, 終える.</li>
+<li>This corpus uses 22 lemmas as auxiliaries (<a>aux</a>). Examples: た, する, だ, れる, ます, ない, られる, よう, せる, ぬ, できる, たい, べし, させる, そう, たり, がましい, しめる, てる, なり, やすい, らしい.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -219,20 +220,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-ADP(か)-ADP(が) (1)</li>
-      <li>VERB--NOUN-ADP(が) (390)</li>
-      <li>VERB--NOUN-ADP(しか) (1)</li>
-      <li>VERB--NOUN-ADP(だけ)-ADP(が) (1)</li>
-      <li>VERB--NOUN-ADP(だけ)-ADP(は) (1)</li>
-      <li>VERB--NOUN-ADP(と) (1)</li>
-      <li>VERB--NOUN-ADP(など)-ADP(が) (3)</li>
-      <li>VERB--NOUN-ADP(の) (18)</li>
-      <li>VERB--NOUN-ADP(は) (400)</li>
-      <li>VERB--NOUN-ADP(まで)-ADP(も)-ADP(が) (1)</li>
-      <li>VERB--PRON-ADP(か)-ADP(が) (1)</li>
-      <li>VERB--PRON-ADP(が) (24)</li>
-      <li>VERB--PRON-ADP(の) (1)</li>
-      <li>VERB--PRON-ADP(は) (124)</li>
+      <li>VERB--NOUN-ADP(が) (389)</li>
+      <li>VERB--NOUN-ADP(は) (403)</li>
+      <li>VERB--NOUN-ADP(も) (40)</li>
+      <li>VERB--PRON-ADP(が) (27)</li>
+      <li>VERB--PRON-ADP(は) (127)</li>
+      <li>VERB--PRON-ADP(も) (5)</li>
     </ul>
   </li>
 </ul>
@@ -242,9 +235,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN-ADP(だけ)-ADP(を) (1)</li>
       <li>VERB--NOUN-ADP(など)-ADP(を) (2)</li>
-      <li>VERB--NOUN-ADP(を) (718)</li>
+      <li>VERB--NOUN-ADP(を) (740)</li>
       <li>VERB--NOUN-ADP(を)-ADP(も) (1)</li>
-      <li>VERB--PRON-ADP(を) (20)</li>
+      <li>VERB--PRON-ADP(を) (23)</li>
     </ul>
   </li>
 </ul>

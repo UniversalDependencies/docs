@@ -6,20 +6,20 @@ udver: '2'
 
 ## Treebank Statistics: UD_Japanese-PUD: POS Tags: `NUM`
 
-There are 208 `NUM` lemmas (4%), 208 `NUM` types (4%) and 651 `NUM` tokens (2%).
+There are 205 `NUM` lemmas (4%), 208 `NUM` types (4%) and 655 `NUM` tokens (2%).
 Out of 16 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 8 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: 1, 2, 3, 10, 一, 4, 万, 6, 5, 何
 
 The 10 most frequent `NUM` types:  1, 2, 3, 10, 一, 4, 万, 6, 5, 何
 
-The 10 most frequent ambiguous lemmas: 1 (<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 46, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), 何 (<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 12, <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> 8), 9 (<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 8, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), 数 (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 7), いく (<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 6, <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> 2, <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> 2)
+The 10 most frequent ambiguous lemmas: 1 (<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 50, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), 何 (<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 12, <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> 8), 9 (<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 8, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), 数 (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 7)
 
-The 10 most frequent ambiguous types:  1 (<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 46, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), 何 (<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 12, <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> 8), 9 (<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 8, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), 数 (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 7), いく (<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 6, <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> 1)
+The 10 most frequent ambiguous types:  1 (<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 50, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), 何 (<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 12, <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> 8), 9 (<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 8, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), 数 (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 7), いく (<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 6, <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> 1)
 
 
 * 1
-  * <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 46: パリ 協定 を 締結 し た こと は 素晴らしい が 、 現 時点 で の 貢献 で は <b>1</b> . 5 ℃ の 目標 に は ほど遠い 。
+  * <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 50: パリ 協定 を 締結 し た こと は 素晴らしい が 、 現 時点 で の 貢献 で は <b>1</b> . 5 ℃ の 目標 に は ほど遠い 。
   * <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1: F <b>1</b> チケット を 持っ て いれ ば 、 同じ 日 の コンサート へ 入れる 。
 * 何
   * <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> 12: <b>何</b> 人 か の アナリスト が 、 ファーウェイ が サムスン の 挫折 から 最も 享受 する 位置 に いる と 予測 し た 。
@@ -36,24 +36,24 @@ The 10 most frequent ambiguous types:  1 (<tt><a href="ja_pud-pos-NUM.html">NUM<
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.049698).
+The form / lemma ratio of `NUM` is 1.014634 (the average of all parts of speech is 1.049631).
 
-The 1st highest number of forms (1) was observed with the lemma “000”: 000.
+The 1st highest number of forms (2) was observed with the lemma “一”: 一, １.
 
-The 2nd highest number of forms (1) was observed with the lemma “001”: 001.
+The 2nd highest number of forms (2) was observed with the lemma “三”: Ⅲ, 三.
 
-The 3rd highest number of forms (1) was observed with the lemma “1”: 1.
+The 3rd highest number of forms (2) was observed with the lemma “二”: 二, ２.
 
 `NUM` does not occur with any features.
 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 7 different relations: <tt><a href="ja_pud-dep-nummod.html">nummod</a></tt> (627; 96% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (12; 2% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (4; 1% instances), <tt><a href="ja_pud-dep-appos.html">appos</a></tt> (3; 0% instances), <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="ja_pud-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="ja_pud-dep-root.html">root</a></tt> (1; 0% instances)
+`NUM` nodes are attached to their parents using 8 different relations: <tt><a href="ja_pud-dep-nummod.html">nummod</a></tt> (432; 66% instances), <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (199; 30% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (10; 2% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (6; 1% instances), <tt><a href="ja_pud-dep-appos.html">appos</a></tt> (3; 0% instances), <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="ja_pud-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="ja_pud-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 7 different parts of speech: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (618; 95% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (11; 2% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `NUM` nodes belong to 7 different parts of speech: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (622; 95% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (11; 2% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances),  (1; 0% instances)
 
-625 (96%) `NUM` nodes are leaves.
+629 (96%) `NUM` nodes are leaves.
 
 3 (0%) `NUM` nodes have one child.
 
@@ -63,7 +63,7 @@ Parents of `NUM` nodes belong to 7 different parts of speech: <tt><a href="ja_pu
 
 The highest child degree of a `NUM` node is 9.
 
-Children of `NUM` nodes are attached using 7 different relations: <tt><a href="ja_pud-dep-case.html">case</a></tt> (27; 39% instances), <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (23; 33% instances), <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (10; 14% instances), <tt><a href="ja_pud-dep-nummod.html">nummod</a></tt> (7; 10% instances), <tt><a href="ja_pud-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="ja_pud-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (1; 1% instances)
+Children of `NUM` nodes are attached using 7 different relations: <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (28; 40% instances), <tt><a href="ja_pud-dep-case.html">case</a></tt> (27; 39% instances), <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (10; 14% instances), <tt><a href="ja_pud-dep-nummod.html">nummod</a></tt> (2; 3% instances), <tt><a href="ja_pud-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="ja_pud-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (1; 1% instances)
 
 Children of `NUM` nodes belong to 8 different parts of speech: <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (27; 39% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (20; 29% instances), <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (10; 14% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (7; 10% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="ja_pud-pos-SYM.html">SYM</a></tt> (2; 3% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances)
 

@@ -27,7 +27,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="af_afribooms-pos-AD
 ## Relations with Agreement in `AdpType`
 
 The 10 most frequent relations where parent and child node agree in `AdpType`:
-<tt>ADP --[<tt><a href="af_afribooms-dep-case.html">case</a></tt>]--> ADP</tt> (4; 100%),
-<tt>ADP --[<tt><a href="af_afribooms-dep-conj.html">conj</a></tt>]--> ADP</tt> (3; 100%),
-<tt>ADP --[<tt><a href="af_afribooms-dep-dep.html">dep</a></tt>]--> ADP</tt> (2; 100%).
+<tt>ADP --[<tt><a href="af_afribooms-dep-conj.html">conj</a></tt>]--> ADP</tt> (3; 100%).
 

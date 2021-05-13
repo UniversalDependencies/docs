@@ -8,32 +8,28 @@ udver: '2'
 
 This relation is universal.
 
-199 nodes (1%) are attached to their parents as `xcomp`.
+461 nodes (2%) are attached to their parents as `xcomp`.
 
-198 instances of `xcomp` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.57286432160804.
+460 instances of `xcomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.18438177874187.
 
-The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (115; 58% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (60; 30% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (15; 8% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (2; 1% instances).
+The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (361; 78% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (72; 16% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (17; 4% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 6 xcomp	color:blue
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-2	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	3	obj	_	_
-3	invite	inviter	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	à	à	ADP	E	_	6	mark	_	_
-5	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	6	obj	_	_
-6	lever	lever	VERB	V	VerbForm=Inf	3	xcomp	_	_
-7	pour	pour	ADP	E	_	9	case	_	_
-8	cette	ce	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
-9	minute	minute	NOUN	S	Gender=Fem|Number=Sing	6	obl	_	_
-10	de	de	ADP	E	_	11	case	_	_
-11	silence	silence	NOUN	S	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	FS	_	3	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 xcomp	color:blue
+1	Cher	cher	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
+2	collègue	collègue	NOUN	S	Gender=Masc|Number=Sing	4	vocative	_	_
+3	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
+4	allons	aller	VERB	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	vérifier	vérifier	VERB	V	VerbForm=Inf	4	xcomp	_	_
+6	tout	tout	DET	T	Gender=Masc|Number=Sing|PronType=Ind	7	det	_	_
+7	cela	cela	PRON	PD	Number=Sing|Person=3|PronType=Dem	5	obj	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	4	punct	_	_
 
 ~~~
 

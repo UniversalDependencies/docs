@@ -43,7 +43,7 @@ The most frequent other feature values with which `NOUN` and `Number[psor]` co-o
 
 14 <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (13; 93%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (13; 93%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13; 93%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (10; 71%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Emp</tt> (9; 64%).
+The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="hy_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="hy_armtdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (13; 93%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (13; 93%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13; 93%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (10; 71%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Emp</tt> (9; 64%).
 
 `PRON` tokens may have the following values of `Number[psor]`:
 

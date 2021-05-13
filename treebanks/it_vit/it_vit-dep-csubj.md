@@ -28,7 +28,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 4	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	parlare	parlare	VERB	V	VerbForm=Inf	4	csubj	_	_
 6	di	di	ADP	E	_	7	case	_	_
-7	media	media	NOUN	S	Gender=Masc	5	obl	_	_
+7	media	media	NOUN	S	Gender=Fem|Number=Sing	5	obl	_	_
 8	di	di	ADP	E	_	9	case	_	_
 9	radioattività	radioattività	NOUN	S	Gender=Fem	5	obl	_	_
 10	su	su	ADP	E	_	12	case	_	_

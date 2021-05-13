@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of SCONJ in UD_Old_Russian-RNC'
+title:  'Statistics of SCONJ in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: POS Tags: `SCONJ`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: POS Tags: `SCONJ`
 
 There are 38 `SCONJ` lemmas (1%), 45 `SCONJ` types (1%) and 270 `SCONJ` tokens (1%).
 Out of 17 observed tags, the rank of `SCONJ` is: 9 in number of lemmas, 10 in number of types and 13 in number of tokens.
@@ -13,7 +13,7 @@ The 10 most frequent `SCONJ` lemmas: <em>что, чтобъ, какъ, яко, �
 
 The 10 most frequent `SCONJ` types:  <em>что, чтобъ, яко, ино, как, буде, чтоб, чтобы, какъ, якоже</em>
 
-The 10 most frequent ambiguous lemmas: <em>что</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 95, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 59, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1), <em>какъ</em> (<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 30, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 26), <em>ино</em> (<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 19, <tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> 7), <em>быти</em> (<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> 193, <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> 67, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 3), <em>якоже</em> (<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1), <em>иже</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 16, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 2), <em>бо</em> (<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 8, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 2), <em>егда</em> (<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1), <em>тако</em> (<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 21, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 2), <em>убо</em> (<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 2, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>что</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 94, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 59, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1), <em>какъ</em> (<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 30, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 26), <em>ино</em> (<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 19, <tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> 7), <em>быти</em> (<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> 193, <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> 67, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 3), <em>якоже</em> (<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1), <em>иже</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 16, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 2), <em>бо</em> (<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 8, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 2), <em>егда</em> (<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1), <em>тако</em> (<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 21, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 2), <em>убо</em> (<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 2, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 2)
 
 The 10 most frequent ambiguous types:  <em>что</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 68, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 59, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1), <em>ино</em> (<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 19, <tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 1), <em>как</em> (<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 16, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 15), <em>какъ</em> (<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 13, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 8), <em>бꙋдетъ</em> (<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> 2), <em>будет</em> (<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> 10, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> 2), <em>иже</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 8, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 2), <em>бо</em> (<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 8, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 2), <em>егда</em> (<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1), <em>убо</em> (<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 2, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 2)
 
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>что</em> (<tt><a href="orv_rnc-pos
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.184211 (the average of all parts of speech is 1.947446).
+The form / lemma ratio of `SCONJ` is 1.184211 (the average of all parts of speech is 1.947924).
 
 The 1st highest number of forms (4) was observed with the lemma “какъ”: <em>к[ак], как, какъ, какь</em>.
 
@@ -62,12 +62,12 @@ The 2nd highest number of forms (3) was observed with the lemma “быти”: 
 
 The 3rd highest number of forms (3) was observed with the lemma “чтобы”: <em>чтоб, чтобъ, чтобы</em>.
 
-`SCONJ` occurs with 11 features: <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt> (23; 9% instances), <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt> (20; 7% instances), <tt><a href="orv_rnc-feat-Degree.html">Degree</a></tt> (14; 5% instances), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt> (2; 1% instances), <tt><a href="orv_rnc-feat-Case.html">Case</a></tt> (1; 0% instances), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt> (1; 0% instances), <tt><a href="orv_rnc-feat-Person.html">Person</a></tt> (1; 0% instances), <tt><a href="orv_rnc-feat-PronType.html">PronType</a></tt> (1; 0% instances), <tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt> (1; 0% instances), <tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt> (1; 0% instances), <tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt> (1; 0% instances)
+`SCONJ` occurs with 7 features: <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt> (22; 8% instances), <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt> (20; 7% instances), <tt><a href="orv_rnc-feat-Degree.html">Degree</a></tt> (14; 5% instances), <tt><a href="orv_rnc-feat-Case.html">Case</a></tt> (1; 0% instances), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt> (1; 0% instances), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt> (1; 0% instances), <tt><a href="orv_rnc-feat-PronType.html">PronType</a></tt> (1; 0% instances)
 
-`SCONJ` occurs with 12 feature-value pairs: `Analyt=Yes`, `Case=Nom`, `Degree=Pos`, `Gender=Masc`, `Mood=Cnd`, `Mood=Ind`, `Number=Sing`, `Person=3`, `PronType=Rel`, `Tense=Fut`, `VerbForm=Fin`, `Voice=Act`
+`SCONJ` occurs with 7 feature-value pairs: `Analyt=Yes`, `Case=Nom`, `Degree=Pos`, `Gender=Masc`, `Mood=Cnd`, `Number=Sing`, `PronType=Rel`
 
-`SCONJ` occurs with 7 feature combinations.
-The most frequent feature combination is `_` (215 tokens).
+`SCONJ` occurs with 6 feature combinations.
+The most frequent feature combination is `_` (216 tokens).
 Examples: <em>что, яко, буде, как, ино, чтобъ, чтоб, якоже, бꙋдетъ, аще</em>
 
 

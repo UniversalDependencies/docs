@@ -14,7 +14,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 21299 tokens (58%) have a non-empty value of `Number`.
 3983 types (85%) occur at least once with a non-empty value of `Number`.
-1780 lemmas (65%) occur at least once with a non-empty value of `Number`.
+1781 lemmas (65%) occur at least once with a non-empty value of `Number`.
 The feature is used with 7 part-of-speech tags: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (11245; 31% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (6766; 18% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (1542; 4% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (978; 3% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (543; 1% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (156; 0% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (69; 0% instances).
 
 ### `NOUN`

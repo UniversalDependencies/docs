@@ -7,7 +7,6 @@ udver: '2'
 ## Treebank Statistics: UD_Kurmanji-MG: Relations: `nmod:poss`
 
 This relation is a language-specific subtype of <tt><a href="kmr_mg-dep-nmod.html">nmod</a></tt>.
-There are also 1 other language-specific subtypes of `nmod`: <tt><a href="kmr_mg-dep-nmod-dat.html">nmod:dat</a></tt>.
 
 945 nodes (9%) are attached to their parents as `nmod:poss`.
 
@@ -24,7 +23,7 @@ The following 21 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 # visual-style 1	fgColor:white
 # visual-style 1 2 nmod:poss	color:blue
 1	Meheke	meh	NOUN	n	Case=Con|Gender=Fem|Number=Sing|PronType=Ind	0	root	_	_
-2	Nîsanê	nîsan	NOUN	n	Case=Obl|Definite=Def|Gender=Fem|Number=Sing	1	nmod:poss	_	_
+2	Nîsanê	nîsan	NOUN	n	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	1	nmod:poss	_	_
 3	bû	bûn	AUX	vbcop	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	cop	_	SpaceAfter=No
 4	.	.	PUNCT	sent	_	1	punct	_	_
 
@@ -43,12 +42,12 @@ The following 21 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 4	hêla	hêl	NOUN	n	Case=Con|Definite=Def|Gender=Fem|Number=Sing	9	nmod	_	_
 5	serê	ser	NOUN	n	Case=Con|Definite=Def|Gender=Masc|Number=Sing	4	nmod:poss	_	_
 6	texte	text	NOUN	n	Case=Con|Definite=Def|Gender=Masc|Number=Sing	5	nmod:poss	_	_
-7	min	ez	PRON	prn	Case=Obl|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	6	nmod:poss	_	_
+7	min	ez	PRON	prn	Case=Acc|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	6	nmod:poss	_	_
 8	sekinî	sekinî	X	x	_	9	dep	_	_
 9	bû	bûn	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	û	û	CCONJ	cnjcoo	_	13	cc	_	_
 11	li	li	ADP	pr	AdpType=Prep	12	case	_	_
-12	min	ez	PRON	prn	Case=Obl|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	13	nmod	_	_
+12	min	ez	PRON	prn	Case=Acc|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	13	nmod	_	_
 13	dinihêrt	nihêrtin	VERB	vblex	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	conj	_	SpaceAfter=No
 14	.	.	PUNCT	sent	_	13	punct	_	_
 
@@ -65,13 +64,13 @@ The following 21 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 2	Şerlok	Şerlok	PROPN	np	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 3	Holmes	Holmes	PROPN	np	Case=Nom|Gender=Masc|Number=Sing	2	flat	_	_
 4	im	bûn	AUX	vbcop	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	cop	_	SpaceAfter=No
-5	;	;	PUNCT	sent	_	2	punct	_	_
+5	;	;	PUNCT	sent	_	8	punct	_	_
 6	ev	ev	PRON	prn	Case=Nom|Gender=Fem,Masc|Number=Plur,Sing|PronType=Dem	8	nsubj	_	_
 7	jî	jî	PART	emph	_	8	discourse	_	_
 8	hevalê	heval	NOUN	n	Case=Con|Definite=Def|Gender=Masc|Number=Sing	2	parataxis	_	_
-9	min	ez	PRON	prn	Case=Obl|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	8	nmod:poss	_	_
+9	min	ez	PRON	prn	Case=Acc|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	8	nmod:poss	_	_
 10	ê	yê	ADP	con	AdpType=Post|Gender=Masc|Number=Sing	8	dep	_	_
-11	ezîz	ezîz	PROPN	np	Case=Obl|Gender=Masc|Number=Sing	8	nmod:poss	_	_
+11	ezîz	ezîz	PROPN	np	Case=Acc|Gender=Masc|Number=Sing	8	nmod:poss	_	_
 12	Wetsin	Wetsin	PROPN	np	Case=Nom|Gender=Masc|Number=Sing	8	appos	_	_
 13	e	bûn	AUX	vbcop	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	SpaceAfter=No
 14	.	.	PUNCT	sent	_	2	punct	_	_

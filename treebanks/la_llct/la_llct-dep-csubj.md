@@ -55,7 +55,7 @@ The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href
 12	illa	ille	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	8	obj	_	_
 13	ut	ut	SCONJ	c|c|-|-|-|-|-|-|-|-	_	17	mark	_	_
 14	anime	anima	NOUN	n|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
-15	me	meus	DET	a|a|1|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	det	_	_
+15	me	meus	DET	a|a|1|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	14	det	_	_
 16	medillam	medela	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	17	obj	_	_
 17	adquirenda	acquiro	VERB	t|t|-|s|p|g|p|f|a|-	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Gdv|Voice=Pass	8	advcl	_	SpaceAfter=No
 18	.	.	PUNCT	Punc	_	5	punct	_	_
@@ -85,7 +85,7 @@ The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href
 14	ipsius	ipse	DET	p|p|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	15	det	_	_
 15	Vitali	Vitalis	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	13	nmod	_	_
 16	genitori	genitor	NOUN	n|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	_
-17	meo	meus	DET	a|a|1|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	16	det	_	_
+17	meo	meus	DET	a|a|1|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	16	det	_	_
 18	non	non	PART	d|d|-|-|-|-|-|-|-|-	Polarity=Neg	19	advmod	_	_
 19	abeo	habeo	VERB	v|v|1|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	46	advcl	_	SpaceAfter=No
 20	,	,	PUNCT	Punc	_	19	punct	_	_
@@ -129,7 +129,7 @@ The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href
 58	,	,	PUNCT	Punc	_	59	punct	_	_
 59	pertinens	pertineo	VERB	t|t|-|s|p|p|a|f|n|-	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	51	acl	_	_
 60	ecclesie	ecclesia	NOUN	n|n|-|s|-|-|-|f|d|-	Case=Dat|Gender=Fem|Number=Sing	59	obl:arg	_	_
-61	vestre	uester	DET	a|a|2|s|-|-|-|f|d|-	Case=Dat|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	60	det	_	_
+61	vestre	uester	DET	a|a|2|s|-|-|-|f|d|-	Case=Dat|Gender=Fem|Number=Sing|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs	60	det	_	_
 62	sancti	sanctus	ADJ	a|a|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	63	amod	_	_
 63	Petri	Petrus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	60	nmod	_	SpaceAfter=No
 64	,	,	PUNCT	Punc	_	66	punct	_	_

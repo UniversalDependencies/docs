@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-Sequoia: POS Tags: `ADJ`
 
 There are 1039 `ADJ` lemmas (15%), 1550 `ADJ` types (16%) and 4406 `ADJ` tokens (6%).
-Out of 17 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 6 in number of tokens.
+Out of 16 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 6 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>autre, tout, premier, européen, français, ancien, nouveau, indésirable, politique, clinique</em>
 
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>autres</em> (<tt><a href="fr_sequoia-
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.491819 (the average of all parts of speech is 1.405182).
+The form / lemma ratio of `ADJ` is 1.491819 (the average of all parts of speech is 1.405809).
 
 The 1st highest number of forms (5) was observed with the lemma “européen”: <em>EUROPEEN, européen, européenne, européennes, européens</em>.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-csubj.html">csubj</a></tt>.
 
-3 nodes (0%) are attached to their parents as `csubj:cop`.
+2 nodes (0%) are attached to their parents as `csubj:cop`.
 
-2 instances of `csubj:cop` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.33333333333333.
+2 instances of `csubj:cop` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.
 
-The following 3 pairs of parts of speech are connected with `csubj:cop`: <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 33% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 33% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 33% instances).
+The following 2 pairs of parts of speech are connected with `csubj:cop`: <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 50% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1; 50% instances).
 
 
 ~~~ conllu
@@ -47,20 +47,6 @@ The following 3 pairs of parts of speech are connected with `csubj:cop`: <tt><a 
 6	киян	кие	PRON	Pron	Animacy=Hum|Number[subj]=Sing|Person[subj]=1|PronType=Int|Tense=Pres	5	csubj:cop	_	GTtags=Interr,Hum,Prs,ScSg1
 7	мон	мон	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj:cop	_	GTtags=Pers,Sg1,Nom|SpaceAfter=No
 8	?..	?..	PUNCT	CLB	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 csubj:cop	color:blue
-1	Варясь	варя	NOUN	N	Case=Nom|Definite=Def|Number=Sing	3	csubj:cop	_	GTtags=Sg,Nom,Def
-2	нула-валасо	нула-валасо	NOUN	N	Case=Ine|Definite=Def|Number=Plur,Sing	3	obl	_	GTtags=SP,Ine,Def
-3	потомдазель	потомдамс	VERB	V	Derivation=Ozj|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=2|VerbForm=Conv	0	root	_	GTtags=TV,Der/Озь,Ger,Aux,Prt2,ScSg3|SpaceAfter=No
-4	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

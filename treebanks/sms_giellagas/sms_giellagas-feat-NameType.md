@@ -10,7 +10,7 @@ This feature is language-specific.
 It occurs with 4 different values: `Geo`, `Giv`, `Prs`, `Sur`.
 
 13 tokens (1%) have a non-empty value of `NameType`.
-8 types (2%) occur at least once with a non-empty value of `NameType`.
+8 types (1%) occur at least once with a non-empty value of `NameType`.
 8 lemmas (2%) occur at least once with a non-empty value of `NameType`.
 The feature is used with 1 part-of-speech tags: <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (13; 1% instances).
 

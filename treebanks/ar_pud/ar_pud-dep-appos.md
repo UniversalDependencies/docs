@@ -68,7 +68,7 @@ The following 13 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 8	fgColor:white
 # visual-style 8 11 appos	color:blue
 1	كان	kAn-u_1	VERB	VBC	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
-2	آخر	|xar_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	3	det:predet	_	_
+2	آخر	|xar_1	PRON	PDEM	Case=Nom|Gender=Masc|Number=Sing	3	det	_	_
 3	كتب	katab-u_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	1	nsubj	_	SpaceAfter=No
 4	ها	hA	PRON	PRP	Case=Gen|Gender=Fem|Number=Sing|Person=3	3	nmod	_	_
 5	غير	gayor_1	PART	RP	Polarity=Neg	6	advmod	_	_
@@ -78,7 +78,7 @@ The following 13 pairs of parts of speech are connected with `appos`: <tt><a hre
 9	دوغلاس	duwgolAs_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	8	flat	_	SpaceAfter=No
 10	,	,_0	PUNCT	,	_	11	punct	_	_
 11	كونتيسة	kwntysh_0	NOUN	NN	Animacy=Hum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	appos	_	_
-12	لينوكس	lynwks_0	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	11	nmod:gmod	_	SpaceAfter=No
+12	لينوكس	lynwks_0	PROPN	NNP	Animacy=Nhum|Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
 13	.	._0	PUNCT	.	_	1	punct	_	_
 
 ~~~

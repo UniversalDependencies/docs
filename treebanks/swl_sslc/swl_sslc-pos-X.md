@@ -11,7 +11,7 @@ Out of 11 observed tags, the rank of `X` is: 11 in number of lemmas, 5 in number
 
 The 10 most frequent `X` lemmas: <em>_</em>
 
-The 10 most frequent `X` types:  <em>GLOSA:(?)@z, LÅTA-VARA, AVGRÄNS, P​Å​K​A​L​L​A​-​U​P​P​M​Ä​R​K​S​A​M​H​E​T​@​g, tp@&, glosa@&, GLOSA:(PD)@z, LISTBOJ.TVÅ, GLOSA:(PU)@z, HEJ-DÅ@g@z</em>
+The 10 most frequent `X` types:  <em>GLOSA:(?)@z, LÅTA-VARA, AVGRÄNS, PÅKALLA-UPPMÄRKSAMHET@g, tp@&, glosa@&, GLOSA:(PD)@z, LISTBOJ.TVÅ, GLOSA:(PU)@z, HEJ-DÅ@g@z</em>
 
 The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="swl_sslc-pos-VERB.html">VERB</a></tt> 648, <tt><a href="swl_sslc-pos-NOUN.html">NOUN</a></tt> 362, <tt><a href="swl_sslc-pos-PRON.html">PRON</a></tt> 177, <tt><a href="swl_sslc-pos-ADV.html">ADV</a></tt> 115, <tt><a href="swl_sslc-pos-X.html">X</a></tt> 98, <tt><a href="swl_sslc-pos-ADJ.html">ADJ</a></tt> 55, <tt><a href="swl_sslc-pos-INTJ.html">INTJ</a></tt> 47, <tt><a href="swl_sslc-pos-DET.html">DET</a></tt> 39, <tt><a href="swl_sslc-pos-NUM.html">NUM</a></tt> 31, <tt><a href="swl_sslc-pos-ADP.html">ADP</a></tt> 25, <tt><a href="swl_sslc-pos-CCONJ.html">CCONJ</a></tt> 13)
 

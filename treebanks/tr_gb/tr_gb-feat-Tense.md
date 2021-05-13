@@ -10,16 +10,16 @@ This feature is universal.
 It occurs with 4 different values: `Fut`, `Past`, `Pqp`, `Pres`.
 Some words have combined values of the feature; 1 combinations have been observed: `Fut|Past`.
 
-3189 tokens (19%) have a non-empty value of `Tense`.
-1834 types (36%) occur at least once with a non-empty value of `Tense`.
-394 lemmas (19%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (2642; 15% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (535; 3% instances), <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> (12; 0% instances).
+3177 tokens (18%) have a non-empty value of `Tense`.
+1832 types (36%) occur at least once with a non-empty value of `Tense`.
+391 lemmas (19%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (2642; 15% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (535; 3% instances).
 
 ### `VERB`
 
 2642 <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> tokens (86% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2476; 94%), <tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2407; 91%), <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2407; 91%), <tt><a href="tr_gb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2363; 89%), <tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2263; 86%), <tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (2240; 85%), <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2183; 83%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1778; 67%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1745; 66%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2475; 94%), <tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2406; 91%), <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2406; 91%), <tt><a href="tr_gb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2363; 89%), <tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2288; 87%), <tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (2240; 85%), <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2183; 83%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1777; 67%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1745; 66%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -28,7 +28,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 * `Past` (1150; 44% of non-empty `Tense`): <em>geldi, görmüş, söyledi, gitti, gitmiş, gördüm, etti, görmedim, verdi, aldık</em>
 * `Pqp` (72; 3% of non-empty `Tense`): <em>gelmişti, getirmişti, göstermiştim, söylemişti, yağmıştı, almıştım, bulanmıştı, demişti, gitmemiştim, koymuştu</em>
 * `Pres` (1179; 45% of non-empty `Tense`): <em>gerekiyor, istiyor, geçen, çalışıyor, ediyorum, gidiyor, istemiyor, olsa, sanıyorum, seviyor</em>
-* `EMPTY` (444): <em>gitmek, almak, gitmeniz, görmek, almamız, gelince, vermek, yapmamız, çıkmak, gelmek</em>
+* `EMPTY` (443): <em>gitmek, almak, gitmeniz, görmek, almamız, gelince, vermek, yapmamız, çıkmak, gelmek</em>
 
 <table>
   <tr><th>Paradigm <i>git</i></th><th><tt>Fut,Past</tt></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Pqp</tt></th></tr>
@@ -183,17 +183,6 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Opt</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>olsun</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Opt</tt>|<tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>olalım</em></td><td></td><td></td></tr>
 </table>
-
-### `ADJ`
-
-12 <tt><a href="tr_gb-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Tense`.
-
-The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (12; 100%).
-
-`ADJ` tokens may have the following values of `Tense`:
-
-* `Pres` (12; 100% of non-empty `Tense`): <em>var, belli</em>
-* `EMPTY` (794): <em>var, yok, yeni, büyük, güzel, iyi, küçük, lazım, zor, önemli</em>
 
 ## Relations with Agreement in `Tense`
 

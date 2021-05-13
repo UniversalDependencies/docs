@@ -12,7 +12,7 @@ There are 1 language-specific subtypes of `csubj`: <tt><a href="id_gsd-dep-csubj
 26 nodes (0%) are attached to their parents as `csubj`.
 
 26 instances of `csubj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.61538461538461.
+Average distance between parent and child is 7.53846153846154.
 
 The following 8 pairs of parts of speech are connected with `csubj`: <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (14; 54% instances), <tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (5; 19% instances), <tt><a href="id_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (2; 8% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="id_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (1; 4% instances).
 
@@ -67,7 +67,7 @@ The following 8 pairs of parts of speech are connected with `csubj`: <tt><a href
 2	mengetik	menketik	VERB	VSA	Number=Sing|Voice=Act	14	xcomp	_	MorphInd=^meN+ketik<v>_VSA$
 3	secara	secara	ADP	R--	_	4	case	_	MorphInd=^secara<r>_R--$
 4	acak	acak	NOUN	ASP	Degree=Pos|Number=Sing	2	obl	_	SpaceAfter=No|MorphInd=^acak<a>_ASP$
-5	,	,	PUNCT	Z--	_	14	punct	_	MorphInd=^,<z>_Z--$
+5	,	,	PUNCT	Z--	_	2	punct	_	MorphInd=^,<z>_Z--$
 6	peluang	peluang	NOUN	NSD	Number=Sing	11	nsubj	_	MorphInd=^peluang<n>_NSD$
 7	huruf	huruf	NOUN	NSD	Number=Sing	6	compound	_	MorphInd=^huruf<n>_NSD$
 8	pertama	pertama	ADJ	CO-	_	7	nummod	_	MorphInd=^pertama<c>_CO-$

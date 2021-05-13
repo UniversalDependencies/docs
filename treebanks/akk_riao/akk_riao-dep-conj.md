@@ -8,67 +8,70 @@ udver: '2'
 
 This relation is universal.
 
-2575 nodes (12%) are attached to their parents as `conj`.
+2773 nodes (12%) are attached to their parents as `conj`.
 
-2575 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.53514563106796.
+2773 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.45402091597548.
 
-The following 16 pairs of parts of speech are connected with `conj`: <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (1089; 42% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (1026; 40% instances), <tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt>-<tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt> (356; 14% instances), <tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt>-<tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (41; 2% instances), <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_riao-pos-ADJ.html">ADJ</a></tt> (30; 1% instances), <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (16; 1% instances), <tt><a href="akk_riao-pos-ADV.html">ADV</a></tt>-<tt><a href="akk_riao-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="akk_riao-pos-ADJ.html">ADJ</a></tt>-<tt><a href="akk_riao-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="akk_riao-pos-ADP.html">ADP</a></tt>-<tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_riao-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_riao-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="akk_riao-pos-NUM.html">NUM</a></tt>-<tt><a href="akk_riao-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="akk_riao-pos-PART.html">PART</a></tt>-<tt><a href="akk_riao-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="akk_riao-pos-PRON.html">PRON</a></tt>-<tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `conj`: <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (1175; 42% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (1084; 39% instances), <tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt>-<tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt> (400; 14% instances), <tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt>-<tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (45; 2% instances), <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_riao-pos-ADJ.html">ADJ</a></tt> (30; 1% instances), <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (16; 1% instances), <tt><a href="akk_riao-pos-ADV.html">ADV</a></tt>-<tt><a href="akk_riao-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="akk_riao-pos-ADJ.html">ADJ</a></tt>-<tt><a href="akk_riao-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="akk_riao-pos-ADP.html">ADP</a></tt>-<tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_riao-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_riao-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_riao-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="akk_riao-pos-NUM.html">NUM</a></tt>-<tt><a href="akk_riao-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="akk_riao-pos-PART.html">PART</a></tt>-<tt><a href="akk_riao-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="akk_riao-pos-PRON.html">PRON</a></tt>-<tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 conj	color:blue
-1	šumma	šumma	SCONJ	CNJ	_	9	mark	9:mark	šum₂-ma
-2	attunu	attunu	PRON	IP	Gender=Masc|Number=Plur|Person=2	9	nsubj	9:nsubj	at-tu-nu
-3	sisê	sisû	NOUN	N	Gender=Masc|Number=Plur	9	obj	9:obj	ANŠE.KUR.RA.MEŠ
-4	ana	ana	ADP	PRP	_	5	case	5:case	a-na
-5	nakrī	nakru	NOUN	N	Gender=Masc|Nounbase=Suffixal|Number=Plur	9	obl	9:obl	KUR₂.MEŠ-ia
-6	ya	_	PRON	_	Number=Sing|Person=1	5	det:poss	5:det:poss	_
-7	salmē	_	NOUN	_	Gender=Masc|Nounbase=Suffixal|Number=Plur	5	conj	5:conj	_
-8	ya	_	PRON	_	Number=Sing|Person=1	7	det:poss	7:det:poss	_
-9	tadnūni	nadānu	VERB	V	Gender=Masc|Number=Plur|Person=3|Subordinative=Yes|VerbForm=Stative|Verbstem=G	0	root	0:root	ta-ad-nu-ni
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 11 conj	color:blue
+1	ina	ina	ADP	PRP	_	2	case	2:case	ina
+2	ūme	ūmu	NOUN	N	Case=Gen|Gender=Masc|NounBase=Suffixal|Number=Sing	13	obl	13:obl	UD.MEŠ-šu-ma
+3	šu	_	PRON	_	Gender=Masc|Number=Sing|Person=3	2	det	2:det	_
+4	ma	_	PART	_	_	2	dep	2:dep	_
+5	ina	ina	ADP	PRP	_	6	case	6:case	ina
+6	pî	pû	NOUN	N	Case=Gen|Gender=Masc|NounBase=Free|Number=Sing	13	obl	13:obl	pi-i
+7	ilāni	ilu	NOUN	N	Gender=Masc|Number=Plur	6	nmod:poss	6:nmod:poss	DINGIR.MEŠ
+8	rabûti	rabû	ADJ	AJ	Gender=Masc|Number=Plur	7	amod	7:amod	GAL.MEŠ
+9	šarrūt	_	NOUN	_	Gender=Fem|NounBase=Suffixal|Number=Sing	13	nsubj	13:nsubj	_
+10	ī	_	PRON	_	Number=Sing|Person=1	9	det:poss	9:det:poss	_
+11	bēlūt	_	NOUN	_	Gender=Fem|NounBase=Suffixal|Number=Sing	9	conj	9:conj	_
+12	ī	_	PRON	_	Number=Sing|Person=1	11	det:poss	11:det:poss	_
+13	ūṣâ	waṣû	VERB	V	Gender=Fem|Mood=Ind|Number=Plur|Person=3|Tense=Past|Ventive=Yes|VerbForm=Fin|VerbStem=G	0	root	0:root	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 8 conj	color:blue
-1	ša	ša	PRON	DET	_	6	nsubj	6:nsubj	ša₂
-2	bīt	bītu	NOUN	N	Gender=Masc|Nounbase=Bound|Number=Sing	6	obj	6:obj	E₂
-3	Ištar	Ištar	PROPN	DN	Gender=Fem	2	nmod:poss	2:nmod:poss	{d}INANNA
-4	ša	ša	ADP	DET	_	5	case	5:case	ša₂
-5	Ninua	Ninua	PROPN	SN	_	3	nmod	3:nmod	{URU}NINA
-6	ēpuš	epēšu	VERB	V	Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Finite|Verbstem=G	0	root	0:root	DU₃-uš-ma
-7	ma	_	CCONJ	_	_	8	cc	8:cc	_
-8	arṣip	raṣāpu	VERB	V	Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Finite|Verbstem=G	6	conj	6:conj	ar-ṣip
+# visual-style 6 12 conj	color:blue
+1	ēkallāti	ēkallu	NOUN	N	Gender=Fem|NounBase=Free|Number=Plur	6	obj	6:obj	E₂.GAL.MEŠ
+2	ina	ina	ADP	PRP	_	3	case	3:case	ina
+3	šiddi	šiddu	NOUN	N	Case=Gen|Gender=Masc|NounBase=Bound|Number=Sing	6	obl	6:obl	ši-di
+4	māti	mātu	NOUN	N	Case=Gen|Gender=Fem|NounBase=Suffixal|Number=Sing	3	nmod:poss	3:nmod:poss	KUR-ia
+5	ya	_	PRON	_	Number=Sing|Person=1	4	det:poss	4:det:poss	_
+6	arṣip	raṣāpu	VERB	V	Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|VerbStem=G	0	root	0:root	ar-ṣip
+7	epinnāti	epinnu	NOUN	N	Gender=Fem|NounBase=Free|Number=Plur	12	obj	12:obj	_
+8	ina	ina	ADP	PRP	_	9	case	9:case	ina
+9	šiddi	šiddu	NOUN	N	Case=Gen|Gender=Masc|NounBase=Bound|Number=Sing	12	obl	12:obl	ši-di
+10	māti	mātu	NOUN	N	Case=Gen|Gender=Fem|NounBase=Suffixal|Number=Sing	9	nmod:poss	9:nmod:poss	KUR-a
+11	ya	_	PRON	_	Number=Sing|Person=1	10	det:poss	10:det:poss	_
+12	arkus	rakāsu	VERB	V	Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|VerbStem=G	6	conj	6:conj	ar-ku-us₂
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 8 conj	color:blue
-1	ana	ana	ADP	PRP	_	2	case	2:case	a-na
-2	ālāni	ālu	NOUN	N	Gender=Masc|Number=Plur	10	obl	10:obl	URU.MEŠ-ni
-3	ša	ša	ADP	DET	_	4	case	4:case	ša
-4	Ladani	Ladanu	PROPN	GN	Case=Gen	2	nmod	2:nmod	{KUR}la-da-a-ni
-5	ša	ša	PRON	DET	_	9	obj	9:obj	ša₂
-6	Arumu	Aramu	PROPN	EN	Case=Nom|Gender=Masc	9	nsubj	9:nsubj	{KUR}a-ru-mu
-7	u	u	CCONJ	CNJ	_	8	cc	8:cc	u
-8	Lullu	Lullu	PROPN	EN	Case=Nom|Gender=Masc	6	conj	6:conj	{KUR}lu-ul-lu
-9	ukallūni	kullu	VERB	V	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Subordinative=Yes|Tense=Pres|VerbForm=Finite|Verbstem=D	2	acl:relcl	2:acl:relcl	u₂-kal-lu-ni
-10	aqṭirib	qerēbu	VERB	V	Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Finite|Verbstem=G	0	root	0:root	aq-ṭi₂-rib
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 conj	color:blue
+1	Aššur	Aššur	PROPN	DN	Gender=Masc	5	nsubj	5:nsubj	aš-šur
+2	Adad	Adad	PROPN	DN	Gender=Masc	1	conj	1:conj	{d}IŠKUR
+3	ikribē	ikribu	NOUN	N	Gender=Masc|NounBase=Suffixal|Number=Plur	5	obj	5:obj	ik-ri-be-šu₂
+4	šu	_	PRON	_	Gender=Masc|Number=Sing|Person=3	3	det:poss	3:det:poss	_
+5	išemmû	šemû	VERB	V	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|VerbStem=G	0	root	0:root	_
 
 ~~~
 

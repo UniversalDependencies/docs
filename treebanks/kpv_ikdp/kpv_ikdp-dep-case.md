@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-52 nodes (4%) are attached to their parents as `case`.
+62 nodes (3%) are attached to their parents as `case`.
 
-33 instances of `case` (63%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.05769230769231.
+43 instances of `case` (69%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.04838709677419.
 
-The following 5 pairs of parts of speech are connected with `case`: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> (37; 71% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> (7; 13% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> (5; 10% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> (2; 4% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt>-<tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `case`: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> (42; 68% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> (11; 18% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> (5; 8% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> (3; 5% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt>-<tt><a href="kpv_ikdp-pos-ADP.html">ADP</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 5 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 case	color:blue
-1	Педучилище	педучилище	NOUN	N	Case=Nom|Number=Sing	6	obl	_	Lang=Mixed
+1	Педучилище	педучилище	NOUN	N	Case=Nom|Number=Sing	6	obl	_	OrigLang=ru
 2	бӧрын	бӧрын	ADP	Po	Case=Ine|Number=Sing	1	case	_	_
 3	ме	ме	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 4	куим	куим	NUM	Num	NumType=Card	5	nummod	_	_
@@ -42,13 +42,13 @@ The following 5 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 1 2 case	color:blue
 1	Сы	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
 2	бӧрын	бӧр	ADP	Po	Case=Ine|Number=Sing	1	case	_	_
-3	устроитчи	устроитчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	Lang=Mixed
-4	рӧбитны	рӧбитны	VERB	V	VerbForm=Inf	3	xcomp	_	Lang=Mixed|SpaceAfter=No
+3	устроитчи	устроитчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	OrigLang=ru
+4	рӧбитны	рӧбитны	VERB	V	VerbForm=Inf	3	xcomp	_	OrigLang=ru|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
 6	локті	локны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	3	parataxis	_	_
 7	ас	ас	ADJ	A	Case=Nom|Number=Sing|PronType=Prs	8	nmod	_	_
 8	сиктэ	сикт	NOUN	N	Case=Ill|Number=Sing	6	obl	_	_
-9	да	да	PART	Pcle	_	8	advmod	_	Lang=Mixed|SpaceAfter=No
+9	да	да	PART	Pcle	_	8	advmod	_	OrigLang=ru|SpaceAfter=No
 10	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
@@ -60,7 +60,7 @@ The following 5 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 case	color:blue
-1	И	и	CCONJ	CC	_	2	cc	_	Lang=Mixed
+1	И	и	CCONJ	CC	_	2	cc	_	OrigLang=ru
 2	этія	этія	PRON	Pron	_	6	discourse	_	SpaceAfter=No
 3	,	,	PUNCT	CLB	_	4	punct	_	_
 4	миян	ми	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_

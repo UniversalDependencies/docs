@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Livvi-KKPP: POS Tags: `CCONJ`
 
 There are 6 `CCONJ` lemmas (1%), 6 `CCONJ` types (1%) and 71 `CCONJ` tokens (4%).
-Out of 14 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 12 in number of types and 8 in number of tokens.
+Out of 14 observed tags, the rank of `CCONJ` is: 11 in number of lemmas, 11 in number of types and 8 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>da, dai, a, ga, vai, ja#ei</em>
 

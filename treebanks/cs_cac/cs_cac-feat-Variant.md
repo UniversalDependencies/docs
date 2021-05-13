@@ -42,5 +42,5 @@ The 10 most frequent relations where parent and child node agree in `Variant`:
 <tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (328; 79%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-orphan.html">orphan</a></tt>]--> ADJ</tt> (5; 71%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> ADJ</tt> (4; 80%),
-<tt>ADJ --[<tt><a href="cs_cac-dep-ccomp.html">ccomp</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="cs_cac-dep-ccomp.html">ccomp</a></tt>]--> ADJ</tt> (2; 100%).
 

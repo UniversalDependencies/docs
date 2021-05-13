@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-212 nodes (1%) are attached to their parents as `expl`.
+203 nodes (1%) are attached to their parents as `expl`.
 
-204 instances of `expl` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.60377358490566.
+195 instances of `expl` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.50738916256158.
 
-The following 4 pairs of parts of speech are connected with `expl`: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (186; 88% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (20; 9% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `expl`: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (180; 89% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (17; 8% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,7 +41,7 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 expl	color:blue
-1	Considérant	considérer	VERB	V	VerbForm=Ger	0	root	_	_
+1	Considérant	considérer	VERB	V	Tense=Pres|VerbForm=Part	0	root	_	_
 2	qu'	que	SCONJ	CS	_	5	mark	_	SpaceAfter=No
 3	il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
 4	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
@@ -69,10 +69,10 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 1	Est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	SpaceAfter=No
 2	-il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 3	vrai	vrai	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
-4	que	que	SCONJ	CS	_	7	mark	_	_
-5	Facebook	Facebook	PROPN	SP	_	7	nsubj	_	_
-6	va	aller	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
-7	facturer	facturer	VERB	V	VerbForm=Inf	3	csubj	_	_
+4	que	que	SCONJ	CS	_	6	mark	_	_
+5	Facebook	Facebook	PROPN	SP	_	6	nsubj	_	_
+6	va	aller	VERB	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	csubj	_	_
+7	facturer	facturer	VERB	V	VerbForm=Inf	6	xcomp	_	_
 8	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
 9	utilisation	utilisation	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	_
 10	de	de	ADP	E	_	12	case	_	_

@@ -70,9 +70,9 @@ The 3rd highest number of forms (2) was observed with the lemma “εἰ”: <em
 
 Parents of `INTJ` nodes belong to 7 different parts of speech: <tt><a href="grc_perseus-pos-NOUN.html">NOUN</a></tt> (209; 49% instances), <tt><a href="grc_perseus-pos-VERB.html">VERB</a></tt> (117; 28% instances), <tt><a href="grc_perseus-pos-ADJ.html">ADJ</a></tt> (59; 14% instances), <tt><a href="grc_perseus-pos-INTJ.html">INTJ</a></tt> (29; 7% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt> (8; 2% instances), <tt><a href="grc_perseus-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="grc_perseus-pos-X.html">X</a></tt> (1; 0% instances)
 
-354 (83%) `INTJ` nodes are leaves.
+353 (83%) `INTJ` nodes are leaves.
 
-54 (13%) `INTJ` nodes have one child.
+55 (13%) `INTJ` nodes have one child.
 
 9 (2%) `INTJ` nodes have two children.
 
@@ -80,7 +80,7 @@ Parents of `INTJ` nodes belong to 7 different parts of speech: <tt><a href="grc_
 
 The highest child degree of a `INTJ` node is 3.
 
-Children of `INTJ` nodes are attached using 2 different relations: <tt><a href="grc_perseus-dep-punct.html">punct</a></tt> (48; 52% instances), <tt><a href="grc_perseus-dep-advmod.html">advmod</a></tt> (45; 48% instances)
+Children of `INTJ` nodes are attached using 2 different relations: <tt><a href="grc_perseus-dep-punct.html">punct</a></tt> (49; 52% instances), <tt><a href="grc_perseus-dep-advmod.html">advmod</a></tt> (45; 48% instances)
 
-Children of `INTJ` nodes belong to 5 different parts of speech: <tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (48; 52% instances), <tt><a href="grc_perseus-pos-INTJ.html">INTJ</a></tt> (29; 31% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt> (9; 10% instances), <tt><a href="grc_perseus-pos-PART.html">PART</a></tt> (6; 6% instances), <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> (1; 1% instances)
+Children of `INTJ` nodes belong to 5 different parts of speech: <tt><a href="grc_perseus-pos-PUNCT.html">PUNCT</a></tt> (49; 52% instances), <tt><a href="grc_perseus-pos-INTJ.html">INTJ</a></tt> (29; 31% instances), <tt><a href="grc_perseus-pos-PRON.html">PRON</a></tt> (9; 10% instances), <tt><a href="grc_perseus-pos-PART.html">PART</a></tt> (6; 6% instances), <tt><a href="grc_perseus-pos-ADV.html">ADV</a></tt> (1; 1% instances)
 

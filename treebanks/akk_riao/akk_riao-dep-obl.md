@@ -8,41 +8,27 @@ udver: '2'
 
 This relation is universal.
 
-2419 nodes (11%) are attached to their parents as `obl`.
+2586 nodes (11%) are attached to their parents as `obl`.
 
-2328 instances of `obl` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.77594047126912.
+2489 instances of `obl` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.77803557617943.
 
-The following 14 pairs of parts of speech are connected with `obl`: <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (1592; 66% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt> (572; 24% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_riao-pos-PRON.html">PRON</a></tt> (152; 6% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (36; 1% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_riao-pos-ADV.html">ADV</a></tt> (25; 1% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_riao-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (11; 0% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_riao-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt>-<tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_riao-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="akk_riao-pos-PART.html">PART</a></tt>-<tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_riao-pos-PART.html">PART</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 2 obl	color:blue
-1	ina	ina	ADP	PRP	_	2	case	2:case	ina
-2	šadê	šadû	NOUN	N	Gender=Masc|Number=Plur	6	obl	6:obl	KUR-e
-3	ša	ša	ADP	DET	_	4	case	4:case	ša₂
-4	mātāt	mātu	NOUN	N	Gender=Fem|Nounbase=Bound|Number=Plur	2	nmod	2:nmod	KUR.KUR
-5	Nairi	Nairi	PROPN	GN	Case=Gen	4	nmod:poss	4:nmod:poss	na-i-ri
-6	ērub	erēbu	VERB	V	Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Finite|Verbstem=G	0	root	0:root	e-ru-ub
-
-~~~
+The following 14 pairs of parts of speech are connected with `obl`: <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (1720; 67% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt> (593; 23% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_riao-pos-PRON.html">PRON</a></tt> (162; 6% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (36; 1% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_riao-pos-ADV.html">ADV</a></tt> (30; 1% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_riao-pos-ADJ.html">ADJ</a></tt> (13; 1% instances), <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (12; 0% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_riao-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_riao-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="akk_riao-pos-PROPN.html">PROPN</a></tt>-<tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_riao-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="akk_riao-pos-PART.html">PART</a></tt>-<tt><a href="akk_riao-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_riao-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 obl	color:blue
-1	ana	ana	ADP	PRP	_	2	case	2:case	a-na
-2	Patiškun	Patiškun	PROPN	SN	_	5	obl	5:obl	{URU}pa-ti-iš-kun
-3	x	_	PROPN	u	_	2	nmod:poss	2:nmod:poss	x
-4	mar-Zamani	Bit-Zamani	PROPN	EN	Gender=Masc	3	appos	3:appos	DUMU-za-ma-a-ni
-5	aqṭirib	qerēbu	VERB	V	Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Finite|Verbstem=G	0	root	0:root	aq-ṭi₂-rib
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 3 obl	color:blue
+1	Hatte	Hatti	PROPN	GN	Case=Gen	7	obj	7:obj	{KUR}hat-te
+2	ana	ana	ADP	PRP	_	3	case	3:case	a-na
+3	sihirte	sihirtu	NOUN	N	Case=Gen|Gender=Fem|NounBase=Suffixal|Number=Sing	7	obl	7:obl	si-hir₂-te-šu₂
+4	šu	_	PRON	_	Gender=Masc|Number=Sing|Person=3	3	det:poss	3:det:poss	_
+5	qāt	qātu	NOUN	N	Gender=Fem|NounBase=Suffixal|Number=Sing	7	nsubj	7:nsubj	qa-at-su
+6	su	_	PRON	_	Gender=Masc|Number=Sing|Person=3	5	det:poss	5:det:poss	_
+7	ikšudu	kašādu	VERB	V	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Subordinative=Yes|Tense=Past|VerbForm=Fin|VerbStem=G	0	root	0:root	ik-šu-du
 
 ~~~
 
@@ -53,9 +39,26 @@ The following 14 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 obl	color:blue
-1	arki	warki	ADP	PRP	_	2	dep	2:dep	EGIR-šu₂
-2	šu	_	PRON	_	Gender=Masc|Number=Sing|Person=3	3	obl	3:obl	_
-3	x	_	VERB	u	_	0	root	0:root	x
+1	ultu	ištu	ADP	PRP	_	2	case	2:case	_
+2	Apqi	Apqu	PROPN	SN	Case=Gen	3	obl	3:obl	_
+3	attumuš	namāšu	VERB	V	Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|VerbStem=G	0	root	0:root	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 obl	color:blue
+1	biltu	biltu	NOUN	N	Case=Nom|Gender=Fem|NounBase=Free|Number=Sing	4	obj	4:obj	_
+2	maddattu	maddattu	NOUN	N	Case=Nom|Gender=Fem|NounBase=Free|Number=Sing	1	conj	1:conj	_
+3	urāsī	urāsu	NOUN	N	Gender=Masc|Number=Plur	1	conj	1:conj	_
+4	udannini	danānu	VERB	V	Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|VerbStem=D	0	root	0:root	_
+5	eli	eli	ADP	PRP	_	6	dep	6:dep	_
+6	šunu	_	PRON	_	Gender=Masc|Number=Plur|Person=3	7	obl	7:obl	_
+7	aškun	šakānu	VERB	V	Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|VerbStem=G	4	conj	4:conj	_
 
 ~~~
 

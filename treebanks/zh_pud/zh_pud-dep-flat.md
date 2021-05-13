@@ -27,12 +27,12 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 2	Miami	_	X	FW	_	4	compound	_	Proper=True|Translit=Miami
 3	Bass	_	X	FW	Foreign=Yes	2	flat	_	SpaceAfter=No|Translit=Bass
 4	音樂	_	NOUN	NN	_	1	obj	_	SpaceAfter=No|Translit=yīnlè
-5	的	_	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No|Translit=de
+5	的	_	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|Translit=de
 6	人	_	NOUN	NN	_	13	nsubj	_	SpaceAfter=No|Translit=rén
 7	對	_	ADP	IN	_	11	case	_	SpaceAfter=No|Translit=duì
 8	扭	_	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No|Translit=niǔ
 9	屁股	_	NOUN	NN	_	8	obj	_	SpaceAfter=No|Translit=pìgǔ
-10	的	_	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No|Translit=de
+10	的	_	PART	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de
 11	藝術	_	NOUN	NN	_	13	obl	_	SpaceAfter=No|Translit=yì術
 12	並	_	ADV	RB	_	13	advmod	_	SpaceAfter=No|Translit=並
 13	無	_	VERB	VV	_	0	root	_	SpaceAfter=No|Translit=wú
@@ -41,7 +41,7 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 16	他們	_	PRON	PRP	Number=Plur|Person=3	18	nsubj	_	SpaceAfter=No|Translit=tāmen
 17	最	_	ADV	RB	_	18	advmod	_	SpaceAfter=No|Translit=zuì
 18	關心	_	VERB	VV	_	13	acl:relcl	_	SpaceAfter=No|Translit=guānxīn
-19	的	_	PART	DEC	_	18	mark:relcl	_	SpaceAfter=No|Translit=de
+19	的	_	PART	DEC	_	18	mark:rel	_	SpaceAfter=No|Translit=de
 20	事	_	NOUN	NN	_	13	appos	_	SpaceAfter=No|Translit=shì
 21	。	_	PUNCT	.	_	13	punct	_	Translit=。
 

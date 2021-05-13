@@ -62,7 +62,7 @@ The following 9 pairs of parts of speech are connected with `advmod:emph`: <tt><
 16	pertenens	pertineo	VERB	t|t|-|s|p|p|a|f|n|-	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	acl	_	_
 17	ipsius	ipse	DET	p|p|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	18	det	_	_
 18	episcopatui	episcopatus	NOUN	n|n|-|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing	16	obl:arg	_	_
-19	vestro	uester	DET	a|a|2|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	18	det	_	SpaceAfter=No
+19	vestro	uester	DET	a|a|2|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs	18	det	_	SpaceAfter=No
 20	;	;	PUNCT	Punc	_	4	punct	_	_
 
 ~~~
@@ -76,7 +76,7 @@ The following 9 pairs of parts of speech are connected with `advmod:emph`: <tt><
 # visual-style 2 1 advmod:emph	color:blue
 1	ecce	ecce	ADV	e|e|-|-|-|-|-|-|-|-	PronType=Dem	2	advmod:emph	_	_
 2	autorem	auctor	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	5	parataxis	_	_
-3	nostrum	noster	DET	a|a|1|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	_	SpaceAfter=No
+3	nostrum	noster	DET	a|a|1|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	2	det	_	SpaceAfter=No
 4	,	,	PUNCT	Punc	_	2	punct	_	_
 5	age	ago	VERB	v|v|2|s|p|m|a|-|-|-	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 6	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	7	case	_	_

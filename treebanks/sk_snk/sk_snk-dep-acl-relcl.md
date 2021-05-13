@@ -17,22 +17,21 @@ The following 18 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 8 acl:relcl	color:blue
-1	Pokúšal	pokúšať	VERB	VLescm+	Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	0:root	_
-2	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	1	expl:pv	1:expl:pv	_
-3	vytvoriť	vytvoriť	VERB	VId+	Aspect=Perf|Polarity=Pos|VerbForm=Inf	1	xcomp	1:xcomp	_
-4	zbierky	zbierka	NOUN	SSfp4	Case=Acc|Gender=Fem|Number=Plur	3	obj	3:obj|8:nsubj	SpaceAfter=No
-5	,	,	PUNCT	Z	_	8	punct	8:punct	_
-6	ktoré	ktorý	DET	PAfp1	Case=Nom|Gender=Fem|Number=Plur|PronType=Int,Rel	8	nsubj	4:ref	_
-7	by	by	AUX	Y	Mood=Cnd	8	aux	8:aux	_
-8	zachytávali	zachytávať	VERB	VLepcf+	Aspect=Imp|Gender=Fem|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part	4	acl:relcl	4:acl:relcl	_
-9	vývoj	vývoj	NOUN	SSis4	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obj	8:obj	_
-10	ľudstva	ľudstvo	NOUN	SSns2	Case=Gen|Gender=Neut|Number=Sing	9	nmod	9:nmod:gen	SpaceAfter=No
-11	.	.	PUNCT	Z	_	1	punct	1:punct	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 6 acl:relcl	color:blue
+1	Pozorovania	pozorovanie	NOUN	SSnp1	Case=Nom|Gender=Neut|Number=Plur	9	nsubj	6:nsubj|9:nsubj	SpaceAfter=No
+2	,	,	PUNCT	Z	_	6	punct	6:punct	_
+3	ktoré	ktorý	DET	PAnp1	Case=Nom|Gender=Neut|Number=Plur|PronType=Int,Rel	6	nsubj	1:ref	_
+4	by	by	AUX	Y	Mood=Cnd	6	aux	6:aux	_
+5	to	to	DET	PFns4	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	6	obj	6:obj	_
+6	objasnili	objasniť	VERB	VLdpcn+	Aspect=Perf|Gender=Neut|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part	1	acl:relcl	1:acl:relcl	SpaceAfter=No
+7	,	,	PUNCT	Z	_	6	punct	6:punct	_
+8	stále	stále	ADV	Dx	Degree=Pos	9	advmod	9:advmod	_
+9	prebiehajú	prebiehať	VERB	VKepc+	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
+10	.	.	PUNCT	Z	_	9	punct	9:punct	_
 
 ~~~
 

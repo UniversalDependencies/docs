@@ -50,7 +50,7 @@ The following 3 pairs of parts of speech are connected with `discourse:sp`: <tt>
 # visual-style 11	fgColor:white
 # visual-style 11 12 discourse:sp	color:blue
 1	顯而易見	_	VERB	VV	_	3	csubj	_	SpaceAfter=No|Translit=xiǎn'éryìjiàn
-2	的	_	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No|Translit=de
+2	的	_	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|Translit=de
 3	是	_	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=shì
 4	，	_	PUNCT	,	_	11	punct	_	SpaceAfter=No|Translit=，
 5	名人	_	NOUN	NN	_	7	nmod	_	SpaceAfter=No|Translit=míngrén

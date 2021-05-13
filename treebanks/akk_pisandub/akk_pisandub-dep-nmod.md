@@ -27,7 +27,7 @@ The following 11 pairs of parts of speech are connected with `nmod`: <tt><a href
 3	6	6	NUM	_	_	5	nummod	_	_
 4	1/2	1/2	NUM	_	_	3	flat	_	_
 5	NINDA	akalu	NOUN	_	_	2	conj	_	_
-6	ša	ša	DET	_	_	7	case	_	_
+6	ša	ša	ADP	_	_	7	case	_	_
 7	É-GAL	ēkallu	NOUN	_	_	2	nmod	_	_
 8	LÚ-dAMAR-UTU	Amel-Marduk	PROPN	_	_	7	nmod	_	_
 9	LUGAL	šarru	NOUN	_	_	8	appos	_	_

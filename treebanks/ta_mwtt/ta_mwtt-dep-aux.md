@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `aux`: <tt><a href="ta_mwtt-dep-aux-neg.html">aux:neg</a></tt>, <tt><a href="ta_mwtt-dep-aux-pass.html">aux:pass</a></tt>.
 
-80 nodes (3%) are attached to their parents as `aux`.
+79 nodes (3%) are attached to their parents as `aux`.
 
-80 instances of `aux` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.1.
+79 instances of `aux` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.10126582278481.
 
-The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-AUX.html">AUX</a></tt> (76; 95% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-AUX.html">AUX</a></tt> (4; 5% instances).
+The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-AUX.html">AUX</a></tt> (74; 94% instances), <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-AUX.html">AUX</a></tt> (5; 6% instances).
 
 
 ~~~ conllu
@@ -23,10 +23,10 @@ The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 aux	color:blue
-1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3	6	nsubj	6:nsubj	Translit=kumār|LTranslit=kumār
+1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3|Polite=Form	6	nsubj	6:nsubj	Translit=kumār|LTranslit=kumār
 2	தன்	தான்	PRON	_	Case=Gen|Gender=Com|Number=Sing	3	nmod:poss	3:nmod:poss	Translit=taṉ|LTranslit=tāṉ
 3	சொந்த	சொந்தம்	NOUN	_	Number=Sing|Person=3	4	amod	4:amod	Translit=conta|LTranslit=contam
-4	அனுபவத்தால்	அனுபவம்	NOUN	_	Case=Ins|Number=Sing|Person=3	6	obl:inst	6:obl:inst	Translit=aṉupavattāl|LTranslit=aṉupavam
+4	அனுபவத்தால்	அனுபவம்	NOUN	_	Case=Ins|Number=Sing|Person=3	6	obl	6:obl	Translit=aṉupavattāl|LTranslit=aṉupavam
 5	தொழிலைக்	தொழில்	NOUN	_	Case=Acc|Number=Sing|Person=3	6	obj	6:obj	Translit=toḻilaik|LTranslit=toḻil
 6	கற்றுக்	கல்	VERB	_	VerbForm=Conv	0	root	0:root	Translit=kaṟṟuk|LTranslit=kal
 7	கொண்டான்	கொள்	AUX	_	Gender=Masc|Number=Sing|Person=3|Tense=Past	6	aux	6:aux	Translit=koṇṭāṉ|LTranslit=koḷ

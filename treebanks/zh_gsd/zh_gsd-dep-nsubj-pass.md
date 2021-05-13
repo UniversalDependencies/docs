@@ -26,7 +26,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 2	後來	後來	NOUN	NN	_	4	nmod:tmod	_	SpaceAfter=No
 3	也	也	ADV	RB	_	4	mark	_	SpaceAfter=No
 4	鋪設	鋪設	VERB	VV	_	0	root	_	SpaceAfter=No
-5	了	了	PART	AS	Aspect=Perf	4	aux:aspect	_	SpaceAfter=No
+5	了	了	AUX	AS	Aspect=Perf	4	aux	_	SpaceAfter=No
 6	有軌	有軌	NOUN	NN	_	8	nmod	_	SpaceAfter=No
 7	電車	電車	NOUN	NN	_	8	nmod	_	SpaceAfter=No
 8	系統	系統	NOUN	NN	_	4	obj	_	SpaceAfter=No
@@ -76,7 +76,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 6	fgColor:white
 # visual-style 6 4 nsubj:pass	color:blue
 1	數百萬	數百萬	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
+2	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No
 3	巧克力	巧克力	NOUN	NN	_	4	compound	_	SpaceAfter=No
 4	棒	棒	PART	SFN	_	6	nsubj:pass	_	SpaceAfter=No
 5	被	被	VERB	BB	Voice=Pass	6	aux:pass	_	SpaceAfter=No
@@ -87,7 +87,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 10	瑪氏	瑪氏	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No
 11	則	則	ADV	RB	_	12	mark	_	SpaceAfter=No
 12	中斷	中斷	VERB	VV	_	6	parataxis	_	SpaceAfter=No
-13	了	了	PART	AS	Aspect=Perf	12	aux:aspect	_	SpaceAfter=No
+13	了	了	AUX	AS	Aspect=Perf	12	aux	_	SpaceAfter=No
 14	生產	生產	NOUN	NN	_	12	obj	_	SpaceAfter=No
 15	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
 16	公司	公司	NOUN	NN	_	17	nmod	_	SpaceAfter=No

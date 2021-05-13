@@ -13,7 +13,7 @@ This relation is universal.
 143 instances of `punct` (53%) are right-to-left (child precedes parent).
 Average distance between parent and child is 3.73161764705882.
 
-The following 10 pairs of parts of speech are connected with `punct`: <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> (96; 35% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> (94; 35% instances), <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> (48; 18% instances), <tt><a href="th_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> (19; 7% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> (6; 2% instances), <tt><a href="th_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> (3; 1% instances), <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="th_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="th_pud-pos-PART.html">PART</a></tt>-<tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `punct`: <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> (95; 35% instances), <tt><a href="th_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> (94; 35% instances), <tt><a href="th_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> (48; 18% instances), <tt><a href="th_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> (19; 7% instances), <tt><a href="th_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> (6; 2% instances), <tt><a href="th_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> (3; 1% instances), <tt><a href="th_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> (3; 1% instances), <tt><a href="th_pud-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="th_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="th_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances).
 
 
 ~~~ conllu
@@ -23,12 +23,12 @@ The following 10 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 3	fgColor:white
 # visual-style 3 8 punct	color:blue
 1	ใคร	_	PRON	WP	PronType=Int	3	nsubj	_	SpaceAfter=No
-2	จะ	_	VERB	MD	_	3	aux	_	SpaceAfter=No
+2	จะ	_	AUX	MD	_	3	aux	_	SpaceAfter=No
 3	หยุด	_	VERB	VV	_	0	root	_	SpaceAfter=No
 4	ฝั่ง	_	NOUN	NN	_	3	obj	_	SpaceAfter=No
 5	ออสเตรเลีย	_	PROPN	NNP	_	4	compound	_	SpaceAfter=No
 6	นี้	_	DET	DT	_	4	det	_	SpaceAfter=No
-7	ได้	_	VERB	MD	_	3	aux	_	SpaceAfter=No
+7	ได้	_	AUX	MD	_	3	aux	_	SpaceAfter=No
 8	?	_	PUNCT	.	_	3	punct	_	_
 
 ~~~

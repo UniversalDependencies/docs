@@ -57,13 +57,7 @@ The form / lemma ratio of `ADV` is 214.000000 (the average of all parts of speec
 
 The 1st highest number of forms (214) was observed with the lemma “_”: 一, 一下, 一些, 一向, 一定, 一直, 一而再、再而三, 一起, 一點, 上, 下, 不, 不如, 不然, 不要, 不論, 不過, 並, 並不, 並且, 主要, 乖乖, 也, 事實上, 些, 亦, 仍, 仍未, 仍然, 以便, 似乎, 但, 但是, 例如, 依法, 便, 便會, 偏偏, 偷偷, 像, 先, 先行, 免得, 全, 全部, 其實, 再, 分別, 初, 初初, 到此, 則, 剛, 剛剛, 剛好, 剛才, 十分, 千萬, 即, 卻, 原來, 原先, 又, 及後, 反而, 口頭, 只, 只是, 只有, 可否, 否, 否則, 哪, 唯有, 嚴重, 四處, 因, 因此, 因為, 在, 多, 多數, 多次, 大聲, 天天, 太, 好, 好像, 如何, 如此, 完全, 實, 將, 尚, 尚未, 就, 左右, 差不多, 已, 已經, 常, 常常, 幾, 幾乎, 待會兒, 很, 後來, 從小, 從沒, 快, 怎, 怎樣, 怎麼, 慢慢, 成功, 所以, 才, 接下來, 接着, 接著, 故意, 既, 日後, 早, 是否, 暫時, 更, 曾, 曾經, 最, 最低限度, 最後, 有, 有時候, 有點, 未, 未必, 未曾, 本, 本來, 本應, 根本, 正, 正在, 正式, 此外, 比較, 沒, 沒有, 清楚, 漸漸, 為什麼, 為何, 無法, 然之後, 然後, 特別, 特意, 現, 現時, 甚至, 由於, 當然, 皆, 直接, 相當, 真, 真的, 祇, 祇是, 祇有, 稍後, 究竟, 突然, 竟然, 第二, 終於, 絕對, 總, 總之, 總是, 而, 耐心, 自己, 自然, 自行, 至今, 蠻, 要不, 試問, 超, 趕快, 較為, 這樣, 這麼, 連, 進一步, 還, 還是, 那, 那時, 那麼, 都, 重新, 難以, 難度, 難怪, 非, 非常, 順便, 順利, 首先, 點, Ｄ.
 
-`ADV` occurs with 1 features: <tt><a href="zh_hk-feat-NounType.html">NounType</a></tt> (1; 0% instances)
-
-`ADV` occurs with 1 feature-value pairs: `NounType=Clf`
-
-`ADV` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (1157 tokens).
-Examples: 不、 就、 都、 也、 很、 已、 便、 未、 剛才、 但
+`ADV` does not occur with any features.
 
 
 ## Relations

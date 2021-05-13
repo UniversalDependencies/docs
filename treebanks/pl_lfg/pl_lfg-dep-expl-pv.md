@@ -42,7 +42,7 @@ The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 # visual-style 8	fgColor:white
 # visual-style 8 9 expl:pv	color:blue
 1	Widział	widzieć	VERB	praet:sg:m1:imperf	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|SubGender=Masc1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
-2	em	być	AUX	aglt:sg:pri:imperf:wok	Aspect=Imp|Number=Sing|Person=1|Variant=Long	1	aux:aglt	1:aux:aglt	_
+2	em	być	AUX	aglt:sg:pri:imperf:wok	Aspect=Imp|Number=Sing|Person=1|Variant=Long	1	aux:clitic	1:aux:clitic	_
 3	wyraźnie	wyraźnie	ADV	adv:pos	Degree=Pos	1	advmod	1:advmod	_
 4	drobne	drobny	ADJ	adj:pl:acc:f:pos	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	5	amod	5:amod	_
 5	krople	kropla	NOUN	subst:pl:acc:f	Case=Acc|Gender=Fem|Number=Plur	1	obj	1:obj	SpaceAfter=No

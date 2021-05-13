@@ -90,5 +90,5 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>AUX --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
 <tt>AUX --[<tt><a href="ro_nonstandard-dep-cop.html">cop</a></tt>]--> AUX</tt> (1; 100%),
 <tt>AUX --[<tt><a href="ro_nonstandard-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="ro_nonstandard-dep-nmod-pmod.html">nmod:pmod</a></tt>]--> AUX</tt> (1; 100%).
+<tt>VERB --[<tt><a href="ro_nonstandard-dep-obl-pmod.html">obl:pmod</a></tt>]--> AUX</tt> (1; 100%).
 

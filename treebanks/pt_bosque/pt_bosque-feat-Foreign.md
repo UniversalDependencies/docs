@@ -23,5 +23,5 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>bodyboard</em>
-* `EMPTY` (41309): <em>anos, presidente, ano, dia, país, pessoas, estado, parte, tempo, contos</em>
+* `EMPTY` (41320): <em>anos, presidente, ano, dia, país, pessoas, estado, parte, tempo, contos</em>
 

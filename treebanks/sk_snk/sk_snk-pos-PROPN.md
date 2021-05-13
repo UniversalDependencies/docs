@@ -20,7 +20,7 @@ The 10 most frequent ambiguous types:  <em>Maja</em> (<tt><a href="sk_snk-pos-PR
 
 * <em>Maja</em>
   * <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> 140: <em>Uprostred tej tlačenice sa ocitla i včielka <b>Maja</b> .</em>
-  * <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> 1: <em><b>Maja</b> sa naň lačno vrhla .</em>
+  * <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> 1: <em><b>Maja</b> sa na neho lačno vrhla .</em>
 * <em>Abu</em>
   * <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> 28: <em>Toto je môj malý opičiak <b>Abu</b> . “</em>
   * <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> 1: <em><b>Abu</b> preglgol .</em>
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>Maja</em> (<tt><a href="sk_snk-pos-PR
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.292421 (the average of all parts of speech is 1.801856).
+The form / lemma ratio of `PROPN` is 1.292421 (the average of all parts of speech is 1.802472).
 
 The 1st highest number of forms (6) was observed with the lemma “konštantínopol”: <em>Konštantínopol, Konštantínopola, Konštantínopole, Konštantínopoli, Konštantínopolom, Konštantínopolu</em>.
 

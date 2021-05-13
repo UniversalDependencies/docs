@@ -44,10 +44,10 @@ The following 4 pairs of parts of speech are connected with `nmod`: <tt><a href=
 1	Oreayvu	ayvu	NOUN	n	Clusivity[psor]=Ex|Number[psor]=Plur	4	obj	_	B1.PL.EXCL-speech
 2	ete'i	ete	PART	intprt	_	1	dep:mod	_	really-=DIM
 3	ore	ore	PRON	pro	Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	1.PL.EXCL
-4	roñembo'e	ñembo'e	VERB	vi:a	Clusivity[subj]=Ex|Mood=Ind|Person[subj]=1|Subcat=Int|VerbForm=Fin	0	root	_	A1.PL.EXCL-learn
+4	roñembo'e	ñembo'e	VERB	vi:a	Clusivity[subj]=Ex|Mood=Ind|Person[subj]=1|Subcat=Intr|VerbForm=Fin	0	root	_	A1.PL.EXCL-learn
 5	mi	mi	PART	intprt	_	4	dep:mod	_	DIM
 6	,	,	PUNCT	punct	_	7	punct	_	_
-7	roporaei	poraei	VERB	vi:a	Clusivity[subj]=Ex|Mood=Ind|Person[subj]=1|Subcat=Int|VerbForm=Fin	4	conj	_	A1.PL.EXCL-sing
+7	roporaei	poraei	VERB	vi:a	Clusivity[subj]=Ex|Mood=Ind|Person[subj]=1|Subcat=Intr|VerbForm=Fin	4	conj	_	A1.PL.EXCL-sing
 8	,	,	PUNCT	punct	_	10	punct	_	_
 9	ore	ore	PRON	pro	Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	10	nmod	_	1.PL.EXCL
 10	ñembo'ete'i	ñembo'ete	NOUN	n	_	11	obj	_	teaching-really-=DIM

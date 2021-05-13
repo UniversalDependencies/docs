@@ -62,14 +62,14 @@ The following 2 pairs of parts of speech are connected with `parataxis`: <tt><a 
 5	มา	_	VERB	VV	_	0	root	_	SpaceAfter=No
 6	จาก	_	ADP	IN	_	7	case	_	SpaceAfter=No
 7	ไหน	_	PRON	WP	PronType=Int	5	obl	_	SpaceAfter=No
-8	กัน	_	PRON	PRP	_	5	advmod	_	_
+8	กัน	_	PRON	PRP	_	5	obl	_	_
 9	หรือ	_	CCONJ	CC	_	12	cc	_	SpaceAfter=No
-10	จะ	_	VERB	MD	_	12	aux	_	SpaceAfter=No
+10	จะ	_	AUX	MD	_	12	aux	_	SpaceAfter=No
 11	เป็น	_	AUX	VC	_	12	cop	_	SpaceAfter=No
 12	เสียง	_	NOUN	NN	_	5	parataxis	_	SpaceAfter=No
 13	นั่น	_	DET	DT	_	12	det	_	SpaceAfter=No
 14	ที่	_	DET	WDT	_	16	nsubj	_	SpaceAfter=No
-15	สามารถ	_	VERB	MD	_	16	aux	_	SpaceAfter=No
+15	สามารถ	_	AUX	MD	_	16	aux	_	SpaceAfter=No
 16	ระเบิด	_	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No
 17	มา	_	PART	RP	_	16	compound:prt	_	SpaceAfter=No
 18	พร้อม	_	VERB	VV	_	16	acl	_	SpaceAfter=No
@@ -79,7 +79,7 @@ The following 2 pairs of parts of speech are connected with `parataxis`: <tt><a 
 22	เกิด	_	VERB	VV	_	21	xcomp	_	SpaceAfter=No
 23	คลื่น	_	NOUN	NN	_	22	obj	_	SpaceAfter=No
 24	กระแทก	_	VERB	VV	_	23	acl	_	SpaceAfter=No
-25	ได้	_	VERB	MD	_	22	aux	_	_
+25	ได้	_	AUX	MD	_	22	aux	_	_
 
 ~~~
 

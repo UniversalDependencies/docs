@@ -26,7 +26,7 @@ The following 10 pairs of parts of speech are connected with `appos`: <tt><a hre
 2	kişi	kişi	NOUN	Noun	Case=Nom|Number=Sing|Person=3	0	root	_	_
 3	ydi	i	AUX	Zero	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	2	cop	_	_
 4	bunlar	bu	PRON	Demons	Case=Nom|Number=Plur|Person=3|PronType=Dem	2	nsubj	_	SpaceAfter=No
-5	:	:	PUNCT	Punc	_	2	punct	_	_
+5	:	:	PUNCT	Punc	_	6	punct	_	_
 6	Sav	sav	NOUN	Noun	Case=Nom|Number=Sing|Person=3	2	appos	_	_
 7	ve	ve	CCONJ	Conj	_	8	cc	_	_
 8	Karaosmanoğlu	Karaosmanoğlu	PROPN	Prop	Case=Nom|Number=Sing|Person=3	6	conj	_	_
@@ -44,7 +44,7 @@ The following 10 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 1 2 appos	color:blue
 1	Ağbisi	ağbi	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	nsubj	_	_
 2	Firuz	Firuz	PROPN	Prop	Case=Nom|Number=Sing|Person=3	1	appos	_	SpaceAfter=No
-3	,	,	PUNCT	Punc	_	5	punct	_	_
+3	,	,	PUNCT	Punc	_	1	punct	_	_
 4	savcı	savcı	NOUN	Noun	Case=Nom|Number=Sing|Person=3	5	obj	_	_
 5	olmuş	ol	VERB	Verb	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	Punc	_	5	punct	_	_

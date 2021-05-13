@@ -61,11 +61,11 @@ The following 20 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 1 2 fixed	color:blue
 1	Piştî	piştî	ADP	pr	AdpType=Prep	6	mark	_	_
 2	ko	ku	SCONJ	cnjsub	_	1	fixed	_	_
-3	me	em	PRON	prn	Case=Obl|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
+3	me	em	PRON	prn	Case=Acc|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
 4	cihên	cih	NOUN	n	Case=Con|Definite=Def|Gender=Masc|Number=Plur	6	obj	_	_
 5	xwe	xwe	PRON	prn	Gender=Fem,Masc|Number=Plur,Sing|PronType=Prs|Reflex=Yes	4	nmod:poss	_	_
 6	girtin	girtin	VERB	vblex	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	advcl	_	_
-7	Holmes	Holmes	PROPN	np	Case=Obl|Gender=Masc|Number=Sing	9	nsubj	_	_
+7	Holmes	Holmes	PROPN	np	Case=Acc|Gender=Masc|Number=Sing	9	nsubj	_	_
 8	çira	çira	NOUN	n	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	9	obj	_	_
 9	vemirand	vemirandin	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	sent	_	9	punct	_	_

@@ -34,10 +34,10 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 10	batas	batas	NOUN	_	Number=Sing	5	nmod	_	_
 11	luar	luar	NOUN	_	Number=Sing	10	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	_
-13	garis	garis	NOUN	_	Number=Sing	16	nsubj	_	_
+13	garis	garis	NOUN	_	Number=Sing	3	nmod	_	_
 14	imajiner	imajiner	NOUN	_	Number=Sing	13	nmod	_	_
 15	yang	yang	PRON	_	PronType=Rel	16	nsubj	_	_
-16	menghubungkan	hubung	VERB	_	Mood=Ind|Voice=Act	5	acl:relcl	_	_
+16	menghubungkan	hubung	VERB	_	Mood=Ind|Voice=Act	13	acl:relcl	_	_
 17	landmark	landmark	X	_	Foreign=Yes	16	obj	_	_
 18	mercu	mercu	NOUN	_	Typo=Yes	17	nmod	_	_
 19	suar	suar	NOUN	_	Typo=Yes	18	goeswith	_	_

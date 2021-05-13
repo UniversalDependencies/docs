@@ -11,10 +11,10 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="tr_imst-feat-Person.html">Person</a></tt>, <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt>.
 
-30331 tokens (52%) have a non-empty value of `Person`.
-14573 types (85%) occur at least once with a non-empty value of `Person`.
-4876 lemmas (83%) occur at least once with a non-empty value of `Person`.
-The feature is used with 10 part-of-speech tags: <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> (15558; 27% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (6454; 11% instances), <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> (2417; 4% instances), <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> (2273; 4% instances), <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> (2210; 4% instances), <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> (962; 2% instances), <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (352; 1% instances), <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> (96; 0% instances), <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="tr_imst-pos-DET.html">DET</a></tt> (3; 0% instances).
+30323 tokens (52%) have a non-empty value of `Person`.
+14574 types (85%) occur at least once with a non-empty value of `Person`.
+4874 lemmas (83%) occur at least once with a non-empty value of `Person`.
+The feature is used with 8 part-of-speech tags: <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> (15558; 27% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (6392; 11% instances), <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt> (2417; 4% instances), <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> (2276; 4% instances), <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> (2211; 4% instances), <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> (1024; 2% instances), <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (349; 1% instances), <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt> (96; 0% instances).
 
 ### `NOUN`
 
@@ -51,15 +51,15 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 
 ### `VERB`
 
-6454 <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> tokens (58% of all `VERB` tokens) have a non-empty value of `Person`.
+6392 <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> tokens (58% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6449; 100%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (6449; 100%), <tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6370; 99%), <tt><a href="tr_imst-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6278; 97%), <tt><a href="tr_imst-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5659; 88%), <tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (5563; 86%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5407; 84%), <tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5144; 80%), <tt><a href="tr_imst-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (5093; 79%), <tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (3939; 61%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6387; 100%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (6387; 100%), <tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6308; 99%), <tt><a href="tr_imst-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6216; 97%), <tt><a href="tr_imst-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5597; 88%), <tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (5563; 87%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5346; 84%), <tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5092; 80%), <tt><a href="tr_imst-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (5031; 79%), <tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (3877; 61%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (1468; 23% of non-empty `Person`): <em>dedim, bilmiyorum, biliyorum, ettim, değilim, sordum, gördüm, bakalım, istiyorum, gidiyoruz</em>
-* `2` (660; 10% of non-empty `Person`): <em>var, bakın, bak, anlattın, biliyorsunuz, gerek, gel, geldiniz, al, at</em>
-* `3` (4326; 67% of non-empty `Person`): <em>dedi, değil, oldu, söyledi, olur, etti, geldi, verdi, diyor, baktı</em>
+* `1` (1463; 23% of non-empty `Person`): <em>dedim, bilmiyorum, biliyorum, ettim, sordum, gördüm, bakalım, istiyorum, değilim, gidiyoruz</em>
+* `2` (659; 10% of non-empty `Person`): <em>var, bakın, bak, anlattın, biliyorsunuz, gerek, gel, geldiniz, al, at</em>
+* `3` (4270; 67% of non-empty `Person`): <em>dedi, oldu, söyledi, olur, etti, değil, geldi, verdi, diyor, baktı</em>
 * `EMPTY` (4603): <em>olan, olduğunu, olduğu, gelen, demek, yapılan, eden, olması, olmadığını, olmak</em>
 
 <table>
@@ -143,7 +143,7 @@ The most frequent other feature values with which `ADJ` and `Person` co-occurred
 
 * `2` (2; 0% of non-empty `Person`): <em>Kadınlar, erkeği</em>
 * `3` (2415; 100% of non-empty `Person`): <em>içinde, kadın, var, arasında, kız, yok, ortaya, arada, içine, yanında</em>
-* `EMPTY` (3186): <em>var, yeni, büyük, iyi, aynı, son, başka, bütün, çok, yok</em>
+* `EMPTY` (3185): <em>var, yeni, büyük, iyi, aynı, son, başka, bütün, çok, yok</em>
 
 <table>
   <tr><th>Paradigm <i>kadın</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -165,15 +165,15 @@ The most frequent other feature values with which `ADJ` and `Person` co-occurred
 
 ### `PRON`
 
-2273 <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Person`.
+2276 <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1919; 84%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1919; 84%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1815; 80%), <tt><a href="tr_imst-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1189; 52%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1919; 84%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1919; 84%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1818; 80%), <tt><a href="tr_imst-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1189; 52%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (643; 28% of non-empty `Person`): <em>ben, bana, beni, benim, biz, bize, bizim, bence, bizi, kendimi</em>
 * `2` (257; 11% of non-empty `Person`): <em>sen, sana, senin, siz, seni, size, sizi, seninle, sizin, kendini</em>
-* `3` (1373; 60% of non-empty `Person`): <em>ne, o, bu, onu, onun, ona, kendi, bunu, burada, bunlar</em>
+* `3` (1376; 60% of non-empty `Person`): <em>ne, o, bu, onu, onun, ona, kendi, bunu, burada, bunlar</em>
 
 <table>
   <tr><th>Paradigm <i>kendi</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -194,27 +194,27 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `PROPN`
 
-2210 <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Person`.
+2211 <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PROPN` and `Person` co-occurred: <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2201; 100%), <tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1541; 70%).
+The most frequent other feature values with which `PROPN` and `Person` co-occurred: <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2202; 100%), <tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1542; 70%).
 
 `PROPN` tokens may have the following values of `Person`:
 
-* `3` (2210; 100% of non-empty `Person`): <em>Kerem, Türkiye, Ayhan, Kemal, Ramiz, Recep, Türkiye'nin, Mebrure, Gül, Naci</em>
+* `3` (2211; 100% of non-empty `Person`): <em>Kerem, Türkiye, Ayhan, Kemal, Ramiz, Recep, Türkiye'nin, Mebrure, Gül, Naci</em>
 
-`Person` seems to be **lexical feature** of `PROPN`. 100% lemmas (816) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `PROPN`. 100% lemmas (817) occur only with one value of `Person`.
 
 ### `AUX`
 
-962 <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Person`.
+1024 <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (956; 99%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (871; 91%), <tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (678; 70%), <tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (613; 64%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1018; 99%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (932; 91%), <tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (730; 71%), <tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (663; 65%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (134; 14% of non-empty `Person`): <em>im, yim, yım, ydim, ım, mıyım, ız, yız, iz, ydik</em>
-* `2` (68; 7% of non-empty `Person`): <em>musun, musunuz, sınız, misin, ydin, sin, siniz, sın, mısın, misiniz</em>
-* `3` (760; 79% of non-empty `Person`): <em>dir, mi, mı, dır, ydi, dı, ydı, tu, mu, dur</em>
+* `1` (139; 14% of non-empty `Person`): <em>im, yim, yım, ydim, ım, mıyım, ız, yız, değilim, iz</em>
+* `2` (69; 7% of non-empty `Person`): <em>musun, musunuz, sınız, misin, ydin, sin, siniz, sın, mısın, misiniz</em>
+* `3` (816; 80% of non-empty `Person`): <em>dir, mi, mı, dır, ydi, dı, ydı, değil, tu, mu</em>
 * `EMPTY` (82): <em>ise, ken, yken</em>
 
 <table>
@@ -236,14 +236,14 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `NUM`
 
-352 <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> tokens (17% of all `NUM` tokens) have a non-empty value of `Person`.
+349 <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> tokens (31% of all `NUM` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `NUM` and `Person` co-occurred: <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (340; 97%), <tt><a href="tr_imst-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (302; 86%), <tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Nom</tt> (212; 60%).
+The most frequent other feature values with which `NUM` and `Person` co-occurred: <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (337; 97%), <tt><a href="tr_imst-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (299; 86%), <tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=Nom</tt> (210; 60%).
 
 `NUM` tokens may have the following values of `Person`:
 
-* `3` (352; 100% of non-empty `Person`): <em>yüzde, bir, biri, ikinci, birinci, iki, ikibiniki, onlarla, otuz, bin</em>
-* `EMPTY` (1744): <em>bir, iki, üç, bin, dört, on, beş, altı, kaç, milyon</em>
+* `3` (349; 100% of non-empty `Person`): <em>yüzde, bir, ikinci, biri, birinci, iki, ikibiniki, onlarla, otuz, bin</em>
+* `EMPTY` (766): <em>bir, iki, üç, bin, dört, on, beş, altı, kaç, milyon</em>
 
 `Person` seems to be **lexical feature** of `NUM`. 100% lemmas (99) occur only with one value of `Person`.
 
@@ -256,35 +256,17 @@ The most frequent other feature values with which `NUM` and `Person` co-occurred
 * `3` (96; 100% of non-empty `Person`): <em>lık, lik, ki, kiler, 'lik, kilerin, kadarını, kileri, kinden, 'lilerin</em>
 * `EMPTY` (1945): <em>ki, için, gibi, diye, kadar, li, lı, olarak, sonra, önce</em>
 
-### `ADV`
-
-6 <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Person`.
-
-`ADV` tokens may have the following values of `Person`:
-
-* `3` (6; 100% of non-empty `Person`): <em>neden</em>
-* `EMPTY` (2246): <em>daha, çok, en, hiç, şimdi, nasıl, sonra, artık, bile, böyle</em>
-
-### `DET`
-
-3 <tt><a href="tr_imst-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Person`.
-
-`DET` tokens may have the following values of `Person`:
-
-* `3` (3; 100% of non-empty `Person`): <em>hangisini, Hangisinin</em>
-* `EMPTY` (1012): <em>bu, o, her, hiçbir, tüm, birkaç, şu, bazı, birçok, kimi</em>
-
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>NOUN --[<tt><a href="tr_imst-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (1700; 100%),
-<tt>NOUN --[<tt><a href="tr_imst-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1383; 100%),
-<tt>VERB --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1007; 76%),
+<tt>NOUN --[<tt><a href="tr_imst-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1388; 100%),
+<tt>VERB --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1010; 76%),
 <tt>NOUN --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> NOUN</tt> (719; 100%),
 <tt>VERB --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> VERB</tt> (451; 61%),
-<tt>VERB --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (374; 87%),
+<tt>VERB --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (375; 87%),
 <tt>NOUN --[<tt><a href="tr_imst-dep-compound.html">compound</a></tt>]--> NOUN</tt> (352; 100%),
 <tt>ADJ --[<tt><a href="tr_imst-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (345; 100%),
 <tt>NOUN --[<tt><a href="tr_imst-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (312; 100%),
-<tt>NOUN --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (290; 100%).
+<tt>NOUN --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (293; 100%).
 

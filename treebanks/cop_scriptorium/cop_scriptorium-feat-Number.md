@@ -12,8 +12,8 @@ It occurs with 2 different values: `Plur`, `Sing`.
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="cop_scriptorium-feat-Number.html">Number</a></tt>, <tt><a href="cop_scriptorium-feat-Number-psor.html">Number[psor]</a></tt>.
 
 13391 tokens (28%) have a non-empty value of `Number`.
-117 types (4%) occur at least once with a non-empty value of `Number`.
-66 lemmas (3%) occur at least once with a non-empty value of `Number`.
+116 types (4%) occur at least once with a non-empty value of `Number`.
+65 lemmas (3%) occur at least once with a non-empty value of `Number`.
 The feature is used with 2 part-of-speech tags: <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (7292; 15% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (6099; 13% instances).
 
 ### `PRON`
@@ -35,7 +35,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="cop_scriptorium-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td>ⲧⲉ, ⲧ</td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PRON`. 98% lemmas (44) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PRON`. 98% lemmas (42) occur only with one value of `Number`.
 
 ### `DET`
 

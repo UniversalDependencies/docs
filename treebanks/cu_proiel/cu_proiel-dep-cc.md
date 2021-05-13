@@ -26,7 +26,7 @@ The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="
 2	же	же	ADV	Df	_	8	discourse	_	ref=MATT_5.29
 3	око	око	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	ref=MATT_5.29
 4	твое	твои	ADJ	Ps	Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes	3	nmod	_	ref=MATT_5.29
-5	десное	деснъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Weak	3	amod	_	ref=MATT_5.29
+5	десное	деснъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	ref=MATT_5.29
 6	съблажнаатъ	съблажнꙗти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	ref=MATT_5.29
 7	тѧ	тꙑ	PRON	Pp	Case=Acc|Number=Sing|Person=2|PronType=Prs	6	obj	_	ref=MATT_5.29
 8	ꙇзьми	изѧти	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.29
@@ -65,7 +65,7 @@ The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="
 1	не	не	ADV	Df	Polarity=Neg	4	advmod	_	ref=MATT_6.25
 2	ⷣ҇ша	доуша	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	ref=MATT_6.25
 3	ли	ли	ADV	Du	PronType=Int	4	advmod	_	ref=MATT_6.25
-4	больши	болии	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing|Strength=Strong	0	root	_	ref=MATT_6.25
+4	больши	болии	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing|Variant=Short	0	root	_	ref=MATT_6.25
 5	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ref=MATT_6.25
 6	пиштѧ	пища	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	iobj	_	ref=MATT_6.25
 7	и	и	CCONJ	C-	_	4	cc	_	ref=MATT_6.25

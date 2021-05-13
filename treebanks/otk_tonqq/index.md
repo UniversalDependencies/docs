@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Mehmet Oguz Derin.
 
 Repository: [UD_Old_Turkish-Tonqq](https://github.com/UniversalDependencies/UD_Old_Turkish-Tonqq)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udotk_tonqq27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udotk_tonqq28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC0 1.0
 
@@ -52,10 +52,12 @@ This treebank's corpus consists of texts of Turkic script or sentences that are 
 convertible is defined as follows: the transliterated sentence is from a collection written before the
 19th century, or closely matches Turkic-script sentences' structure and semantics. For Turkic
 script texts, the letter variate choice must match the original.
-"Ahmet Bican Ercilasun, Türk Kağanlığı ve Türk Bengü Taşları, Dergâh Yayınları."
-is the basis of word segmentation and understanding
-for Old Turkish texts in this work.
 
+TODO: Add interpretation references
+
+TODO: Add grammar references
+
+TODO: Add dictionary references
 
 ## Acknowledgments
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Þórunn Arnardóttir, Hinrik Hafsteinsson, Einar Freyr Sigurðsson, Hildur Jónsdóttir, Kristín Bjarnadóttir, Anton Karl Ingason, Kristján Rúnarsson, Steinþór Steingrímsson, Joel C. Wallenberg, Eiríkur Rögnvaldsson.
 
 Repository: [UD_Icelandic-IcePaHC](https://github.com/UniversalDependencies/UD_Icelandic-IcePaHC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udis_icepahc27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udis_icepahc28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -154,12 +154,30 @@ This project is funded by The Strategic Research and Development Programme for L
 
 The Icelandic Parsed Historical Corpus (IcePaHC) is available at https://linguist.is/icelandic_treebank/Download.
 
-Morphological features where generated using ABLTagger, a state-of-the-art PoS tagger for Icelandic. It is developed by Steinþór Steingrímsson, Örvar Kárason and Hrafn Loftsson and available from https://github.com/steinst/ABLTagger.
+Morphological features were generated using ABLTagger, a PoS tagger for Icelandic, developed by Steinþór Steingrímsson, Örvar Kárason and Hrafn Loftsson and available [here](https://github.com/steinst/ABLTagger).
 
 ## References
 
-* (citation)
-
+```
+@inproceedings{arnardottir-etal-2020-universal,
+title = "A {U}niversal {D}ependencies Conversion Pipeline for a {P}enn-format Constituency Treebank",
+author = "Arnard{\'o}ttir, {\TH}{\'o}runn and
+Hafsteinsson, Hinrik and
+Sigur{\dh}sson, Einar Freyr and
+Bjarnad{\'o}ttir, Krist{\'\i}n and
+Ingason, Anton Karl and
+J{\'o}nsd{\'o}ttir, Hildur and
+Steingr{\'\i}msson, Stein{\th}{\'o}r",
+booktitle = "Proceedings of the Fourth Workshop on Universal Dependencies (UDW 2020)",
+month = dec,
+year = "2020",
+address = "Barcelona, Spain (Online)",
+publisher = "Association for Computational Linguistics",
+url = "https://www.aclweb.org/anthology/2020.udw-1.3",
+pages = "16--25",
+abstract = "The topic of this paper is a rule-based pipeline for converting constituency treebanks based on the Penn Treebank format to Universal Dependencies (UD). We describe an Icelandic constituency treebank, its annotation scheme and the UD scheme. The conversion is discussed, the methods used to deliver a fully automated UD corpus and complications involved. To show its applicability to corpora in different languages, we extend the pipeline and convert a Faroese constituency treebank to a UD corpus. The result is an open-source conversion tool, published under an Apache 2.0 license, applicable to a Penn-style treebank for conversion to a UD corpus, along with the two new UD corpora.",
+}
+```
 
 
 # Statistics of UD Icelandic IcePaHC
@@ -696,7 +714,7 @@ Morphological features where generated using ABLTagger, a state-of-the-art PoS t
       <li>AUX: myni</li>
       <li>CCONJ: hvortki, hvörki</li>
       <li>DET: meir, meira, meiri, fleiri, fleira, minna, síður, minni, fleirum, innar</li>
-      <li>NOUN: minni, síður, sakir, forvitri, allstaðar, bráðar, b​y​g​g​i​n​g​a​r​k​ú​n​s​t​a​r​i​n​n​a​r, engi, reiðara, réttara</li>
+      <li>NOUN: minni, síður, sakir, forvitri, allstaðar, bráðar, byggingarkúnstarinnar, engi, reiðara, réttara</li>
       <li>NUM: vi, xii, átján</li>
       <li>PRON: minni, minna, soddan, hvörra, sinna, yðvarra, þínni</li>
       <li>PROPN: saltara, GANGI, Hlymreksfari, Jaíri, Konáli, Mörukári, Teófíli, farisearanna, himnna, kristi</li>

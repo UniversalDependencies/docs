@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Polish-PDB: Features: `ConjType`
 
 This feature is language-specific.
-It occurs with 3 different values: `Cmpr`, `Oper`, `Pred`.
+It occurs with 3 different values: `Comp`, `Oper`, `Pred`.
 
 1559 tokens (0%) have a non-empty value of `ConjType`.
 13 types (0%) occur at least once with a non-empty value of `ConjType`.
@@ -20,7 +20,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="pl_pdb-pos-SCONJ.ht
 
 `SCONJ` tokens may have the following values of `ConjType`:
 
-* `Cmpr` (1002; 64% of non-empty `ConjType`): <em>jak, niż, jakby, niczym, aniżeli, niby</em>
+* `Comp` (1002; 64% of non-empty `ConjType`): <em>jak, niż, jakby, niczym, aniżeli, niby</em>
 * `Pred` (553; 36% of non-empty `ConjType`): <em>jako</em>
 
 ### `CCONJ`

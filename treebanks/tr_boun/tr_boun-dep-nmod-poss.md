@@ -26,7 +26,7 @@ The following 61 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 2	sırtlarına	sırt	NOUN	Noun	Case=Dat|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	3	obl	_	_
 3	yüklenmiş	yükle	VERB	Verb	Evident=Nfh|Number=Sing|Person=3|Polarity=Pos|Tense=Past|Voice=Pass	4	acl	_	_
 4	sepetlerle	sepet	NOUN	Noun	Case=Ins|Number=Plur|Person=3	5	obl	_	_
-5	taşınırdı	taşın	VERB	Verb	Aspect=Hab|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Aor	0	root	_	_
+5	taşınırdı	taşın	VERB	Verb	Aspect=Hab|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	_
 6	üzümler	üzüm	NOUN	Noun	Case=Nom|Number=Plur|Person=3	5	nsubj	_	SpaceAfter=No
 7	.	.	PUNCT	Punc	_	5	punct	_	SpacesAfter=\n
 

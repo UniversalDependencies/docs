@@ -22,16 +22,15 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 aux:pass	color:blue
-1	Bola	byť	AUX	VLescf+	Aspect=Imp|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	2	aux:pass	2:aux:pass	_
-2	riadená	riadený	ADJ	Gtfs1x	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	0	root	0:root	_
-3	klerikálne	klerikálne	ADV	Dx	Degree=Pos	2	advmod	2:advmod	SpaceAfter=No
-4	,	,	PUNCT	Z	_	6	punct	6:punct	_
-5	ale	ale	CCONJ	O	_	6	cc	6:cc	_
-6	žilo	žiť	VERB	VLescn+	Aspect=Imp|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	2	conj	0:root|2:conj	_
-7	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	6	expl:pass	6:expl:pass	_
-8	tu	tu	ADV	PD	PronType=Dem	6	advmod	6:advmod	_
-9	slobodomyseľne	slobodomyseľne	ADV	Dx	Degree=Pos	6	advmod	6:advmod	SpaceAfter=No
-10	.	.	PUNCT	Z	_	2	punct	2:punct	_
+1	Bol	byť	AUX	VLescm+	Animacy=Anim|Aspect=Imp|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	2	aux:pass	2:aux:pass	_
+2	zatknutý	zatknutý	ADJ	Gtms1x	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	0	root	0:root	_
+3	za	za	ADP	Eu4	AdpType=Prep|Case=Acc	4	case	4:case	_
+4	riadenie	riadenie	NOUN	SSns4	Case=Acc|Gender=Neut|Number=Sing	2	obl	2:obl:za:acc	_
+5	auta	auto	NOUN	SSns2	Case=Gen|Gender=Neut|Number=Sing	4	nmod	4:nmod:gen	_
+6	pod	pod	ADP	Eu7	AdpType=Prep|Case=Ins	7	case	7:case	_
+7	vplyvom	vplyv	NOUN	SSis7	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	nmod	4:nmod:pod:ins	_
+8	alkoholu	alkohol	NOUN	SSis2	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	nmod	7:nmod:gen	SpaceAfter=No
+9	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 ~~~
 

@@ -30,7 +30,7 @@ The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="
 6	mam	meti	VERB	Vmpr1s-n	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	advcl	_	Dep=2|Rel=AdvO
 7	pred	pred	ADP	Si	Case=Ins	8	case	_	Dep=8|Rel=Atr
 8	očmi	oči	NOUN	Ncfpi	Case=Ins|Gender=Fem|Number=Plur	6	obl	_	SpaceAfter=No|Dep=6|Rel=AdvO
-9	.	.	PUNCT	Z	_	2	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+9	.	.	PUNCT	Z	_	2	punct	_	Dep=0|Rel=Root
 
 ~~~
 
@@ -53,7 +53,7 @@ The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="
 10	zavezništvo	zavezništvo	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	Dep=9|Rel=Obj
 11	proti	proti	ADP	Sd	Case=Dat	12	case	_	Dep=12|Rel=Atr
 12	Burgundcem	Burgundec	PROPN	Npmpd	Case=Dat|Gender=Masc|Number=Plur	10	nmod	_	SpaceAfter=No|Dep=10|Rel=Atr
-13	.	.	PUNCT	Z	_	9	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+13	.	.	PUNCT	Z	_	9	punct	_	Dep=0|Rel=Root
 
 ~~~
 
@@ -88,7 +88,7 @@ The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="
 22	spominjanje	spominjanje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	19	conj	_	Dep=19|Rel=Coord
 23	in	in	CCONJ	Cc	_	24	cc	_	Dep=24|Rel=Conj
 24	pozabljanje	pozabljanje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	19	conj	_	SpaceAfter=No|Dep=19|Rel=Coord
-25	.	.	PUNCT	Z	_	17	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+25	.	.	PUNCT	Z	_	17	punct	_	Dep=0|Rel=Root
 
 ~~~
 

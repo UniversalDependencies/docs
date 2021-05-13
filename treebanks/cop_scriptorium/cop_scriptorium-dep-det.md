@@ -54,7 +54,7 @@ The following 14 pairs of parts of speech are connected with `det`: <tt><a href=
 3	ⲕⲧⲉ	ⲕⲧⲟ	VERB	V	VerbForm=Fin	0	root	_	_
 4	ⲓⲁⲧ	ⲉⲓⲁ	NOUN	N	_	3	obj	_	_
 5	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	4	det	_	_
-6	ⲇⲉ	ⲇⲉ	PART	PTC	_	3	advmod	_	_
+6	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	3	advmod	_	OrigLang=grc
 7	ⲉ	ⲉ	PART	PREP	_	8	mark	_	_
 8	ⲛⲁⲩ	ⲛⲁⲩ	VERB	V	VerbForm=Inf	3	xcomp	_	_
 9	ⲉ	ⲉ	ADP	PREP	_	10	case	_	_
@@ -83,7 +83,7 @@ The following 14 pairs of parts of speech are connected with `det`: <tt><a href=
 7	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
 8	ⲉⲧⲃⲉ	ⲉⲧⲃⲉ	ADP	PREP	_	10	case	_	Orig=ⲉ̇ⲧⲃⲉ
 9	ⲧⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Fem|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	Entity=(abstract
-10	ⲭⲣⲉⲓⲁ	ⲭⲣⲉⲓⲁ	NOUN	N	_	3	obl	_	Orig=ⲭⲣⲓ̇ⲁ̇
+10	ⲭⲣⲉⲓⲁ	ⲭⲣⲉⲓⲁ	NOUN	N	Foreign=Yes	3	obl	_	Orig=ⲭⲣⲓ̇ⲁ̇|OrigLang=grc
 11	ⲙⲁⲩⲁⲁ	ⲙⲁⲩⲁⲁ	ADV	IMOD	_	3	advmod	_	Orig=ⲙⲁⲩⲁ̇ⲁ
 12	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	11	det	_	Entity=abstract)
 13	·	·	PUNCT	PUNCT	_	3	punct	_	_

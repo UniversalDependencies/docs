@@ -19,12 +19,12 @@ The 10 most frequent ambiguous types:  <em>–</em> (<tt><a href="sk_snk-pos-PUN
 
 
 * <em>–</em>
-  * <tt><a href="sk_snk-pos-PUNCT.html">PUNCT</a></tt> 48: <em>Likvidácia balkánskych miestodržiteľov prebehla v rokoch 1814 <b>–</b> 1820 .</em>
+  * <tt><a href="sk_snk-pos-PUNCT.html">PUNCT</a></tt> 48: <em>Testy preukázali zmiešané výsledky <b>–</b> úspechy striedali zlyhania .</em>
   * <tt><a href="sk_snk-pos-SYM.html">SYM</a></tt> 1: <em>Označenie " + " ( plus ) a " <b>–</b> " ( pomlčka ) predstavuje dva rozličné technické štandardy , ktoré sú do určitej miery kompatibilné .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.801856).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.802472).
 
 The 1st highest number of forms (3) was observed with the lemma “"”: <em>", “, „</em>.
 

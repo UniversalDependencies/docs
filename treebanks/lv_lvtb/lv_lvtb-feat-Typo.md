@@ -9,46 +9,46 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-290 tokens (0%) have a non-empty value of `Typo`.
-274 types (1%) occur at least once with a non-empty value of `Typo`.
-257 lemmas (1%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 16 part-of-speech tags: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (101; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (76; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (18; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (17; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (15; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (12; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+318 tokens (0%) have a non-empty value of `Typo`.
+299 types (1%) occur at least once with a non-empty value of `Typo`.
+276 lemmas (1%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 16 part-of-speech tags: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (116; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (82; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (19; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (17; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (16; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (12; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt> (9; 0% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-101 <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
+116 <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (70; 69%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (62; 61%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (80; 69%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (70; 60%).
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (101; 100% of non-empty `Typo`): <em>biblīotēkā, bībliotēka, lidosta, ministrija, projektu, Asinis, Institūtā, Izstāde, Nagus, Plastmasa</em>
+* `Yes` (116; 100% of non-empty `Typo`): <em>biblīotēkā, bībliotēka, lidosta, ministrija, projektu, Asinis, Institūtā, Izstāde, Komunikācija, Nagus</em>
 
-`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (95) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (107) occur only with one value of `Typo`.
 
 ### `VERB`
 
-76 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Typo`.
+82 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (72; 95%), <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (60; 79%), <tt><a href="lv_lvtb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (58; 76%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (58; 76%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (57; 75%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (57; 75%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (56; 74%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (56; 74%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (49; 64%), <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt> (41; 54%).
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (78; 95%), <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (65; 79%), <tt><a href="lv_lvtb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (62; 76%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (60; 73%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (60; 73%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (60; 73%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (59; 72%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (59; 72%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (51; 62%), <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=Fh</tt> (42; 51%).
 
 `VERB` tokens may have the following values of `Typo`:
 
-* `Yes` (76; 100% of non-empty `Typo`): <em>Tr, aizbīdijos, aizdod, aizņemas, apsēžās, apvienot, apzīmēta, atcerieties, atgriezos, atnest</em>
+* `Yes` (82; 100% of non-empty `Typo`): <em>Tr, aizbīdijos, aizdod, aizņemas, apsēžās, apvienot, apzīmēta, atcerieties, atgriezos, atnest</em>
 
-`Typo` seems to be **lexical feature** of `VERB`. 100% lemmas (75) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `VERB`. 100% lemmas (81) occur only with one value of `Typo`.
 
 ### `ADV`
 
-18 <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Typo`.
+19 <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADV` and `Typo` co-occurred: <tt><a href="lv_lvtb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (16; 89%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (13; 72%).
+The most frequent other feature values with which `ADV` and `Typo` co-occurred: <tt><a href="lv_lvtb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (17; 89%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (14; 74%).
 
 `ADV` tokens may have the following values of `Typo`:
 
-* `Yes` (18; 100% of non-empty `Typo`): <em>vel, Tā, arā, kāmēr, publisko, pēķšņi, tiešam, tādejādi, vērtā, Augsi</em>
+* `Yes` (19; 100% of non-empty `Typo`): <em>vel, Tā, arā, kāmēr, publisko, pēķšņi, tiešam, tik, tādejādi, vērtā</em>
 
-`Typo` seems to be **lexical feature** of `ADV`. 100% lemmas (17) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `ADV`. 100% lemmas (18) occur only with one value of `Typo`.
 
 ### `ADJ`
 
@@ -58,19 +58,19 @@ The most frequent other feature values with which `ADJ` and `Typo` co-occurred: 
 
 `ADJ` tokens may have the following values of `Typo`:
 
-* `Yes` (17; 100% of non-empty `Typo`): <em>1707, Karaliskā, Pēdējas, Viennozīmīgas, aukstās, baitu, dažādas, liekas, lielākajā, pagaida</em>
+* `Yes` (17; 100% of non-empty `Typo`): <em>1707, Karaliskā, Mākamajā, Pēdējas, Viennozīmīgas, aukstās, baitu, dažādas, liekas, lielākajā</em>
 
 `Typo` seems to be **lexical feature** of `ADJ`. 100% lemmas (17) occur only with one value of `Typo`.
 
 ### `PRON`
 
-15 <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Typo`.
+16 <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 67%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (9; 60%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (8; 53%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt> (8; 53%), <tt><a href="lv_lvtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (8; 53%).
+The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (10; 63%), <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 63%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (9; 56%).
 
 `PRON` tokens may have the following values of `Typo`:
 
-* `Yes` (15; 100% of non-empty `Typo`): <em>viņu, Man, Viņš, VĪNI, esmu, iā, kura, kuram, kuru, mes</em>
+* `Yes` (16; 100% of non-empty `Typo`): <em>viņu, Man, Viņš, VĪNI, esmu, iā, kura, kuram, kuru, kurā</em>
 
 ### `PROPN`
 
@@ -96,13 +96,21 @@ The most frequent other feature values with which `DET` and `Typo` co-occurred: 
 
 ### `X`
 
-8 <tt><a href="lv_lvtb-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Typo`.
+9 <tt><a href="lv_lvtb-pos-X.html">X</a></tt> tokens (1% of all `X` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `X` and `Typo` co-occurred: <tt><a href="lv_lvtb-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (5; 63%).
+The most frequent other feature values with which `X` and `Typo` co-occurred: <tt><a href="lv_lvtb-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (6; 67%).
 
 `X` tokens may have the following values of `Typo`:
 
-* `Yes` (8; 100% of non-empty `Typo`): <em>būt, ko, pat, traumatiskas, vienu, FRENC, fasf, hyhrid</em>
+* `Yes` (9; 100% of non-empty `Typo`): <em>pat, būt, ko, traumatiskas, vienu, FRENC, fasf, hyhrid</em>
+
+### `SCONJ`
+
+7 <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Typo`.
+
+`SCONJ` tokens may have the following values of `Typo`:
+
+* `Yes` (7; 100% of non-empty `Typo`): <em>ka, Līdz, kad, kā, la</em>
 
 ### `ADP`
 
@@ -136,33 +144,25 @@ The most frequent other feature values with which `X` and `Typo` co-occurred: <t
 
 * `Yes` (5; 100% of non-empty `Typo`): <em>ka, Tačuu, ari, nevīs</em>
 
-### `SCONJ`
-
-5 <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Typo`.
-
-`SCONJ` tokens may have the following values of `Typo`:
-
-* `Yes` (5; 100% of non-empty `Typo`): <em>ka, Līdz, kā, la</em>
-
 ### `AUX`
 
-2 <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Typo`.
+3 <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (2; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2; 100%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2; 100%).
+The most frequent other feature values with which `AUX` and `Typo` co-occurred: <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (3; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3; 100%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3; 100%), <tt><a href="lv_lvtb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt> (2; 67%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2; 67%).
 
 `AUX` tokens may have the following values of `Typo`:
 
-* `Yes` (2; 100% of non-empty `Typo`): <em>jābūtot, tik</em>
+* `Yes` (3; 100% of non-empty `Typo`): <em>jābūtot, tik, tiku</em>
 
 ### `NUM`
 
-2 <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Typo`.
+3 <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NUM` and `Typo` co-occurred: <tt><a href="lv_lvtb-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2; 100%).
+The most frequent other feature values with which `NUM` and `Typo` co-occurred: <tt><a href="lv_lvtb-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (3; 100%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Plur</tt> (2; 67%).
 
 `NUM` tokens may have the following values of `Typo`:
 
-* `Yes` (2; 100% of non-empty `Typo`): <em>1 00, divu</em>
+* `Yes` (3; 100% of non-empty `Typo`): <em>1 00, divu, četrsimts</em>
 
 ### `SYM`
 
@@ -175,8 +175,8 @@ The most frequent other feature values with which `NUM` and `Typo` co-occurred: 
 ## Relations with Agreement in `Typo`
 
 The 10 most frequent relations where parent and child node agree in `Typo`:
+<tt>ADV --[<tt><a href="lv_lvtb-dep-goeswith.html">goeswith</a></tt>]--> X</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="lv_lvtb-dep-goeswith.html">goeswith</a></tt>]--> X</tt> (1; 100%),
-<tt>ADV --[<tt><a href="lv_lvtb-dep-goeswith.html">goeswith</a></tt>]--> X</tt> (1; 100%),
 <tt>DET --[<tt><a href="lv_lvtb-dep-goeswith.html">goeswith</a></tt>]--> X</tt> (1; 100%),
 <tt>PART --[<tt><a href="lv_lvtb-dep-goeswith.html">goeswith</a></tt>]--> X</tt> (1; 100%),
 <tt>SCONJ --[<tt><a href="lv_lvtb-dep-goeswith.html">goeswith</a></tt>]--> X</tt> (1; 100%).

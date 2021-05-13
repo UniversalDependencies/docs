@@ -18,13 +18,13 @@ The feature is used with 1 part-of-speech tags: <tt><a href="tr_imst-pos-VERB.ht
 
 1361 <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> tokens (12% of all `VERB` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `VERB` and `Polite` co-occurred: <tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1361; 100%), <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1361; 100%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1361; 100%), <tt><a href="tr_imst-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1361; 100%), <tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt> (1360; 100%), <tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1250; 92%), <tt><a href="tr_imst-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1194; 88%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1159; 85%), <tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1142; 84%), <tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (985; 72%).
+The most frequent other feature values with which `VERB` and `Polite` co-occurred: <tt><a href="tr_imst-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt> (1361; 100%), <tt><a href="tr_imst-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1361; 100%), <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1361; 100%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1361; 100%), <tt><a href="tr_imst-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1361; 100%), <tt><a href="tr_imst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1250; 92%), <tt><a href="tr_imst-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1194; 88%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1159; 85%), <tt><a href="tr_imst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1142; 84%), <tt><a href="tr_imst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (985; 72%).
 
 `VERB` tokens may have the following values of `Polite`:
 
 * `Form` (35; 3% of non-empty `Polite`): <em>kapsamaktadır, andırmaktadır, anlatmakta, atmakta, barışmakta, canlanmakta, dayanmaktadır, desteklemektedir, edinmekte, etmekte</em>
 * `Infm` (1326; 97% of non-empty `Polite`): <em>diyor, oluyor, bilmiyorum, geliyor, biliyorum, biliyor, istiyorum, gidiyoruz, yapıyor, ediyor</em>
-* `EMPTY` (9696): <em>dedi, olan, dedim, değil, olduğunu, oldu, olduğu, söyledi, olur, etti</em>
+* `EMPTY` (9634): <em>dedi, olan, dedim, olduğunu, oldu, olduğu, söyledi, olur, etti, değil</em>
 
 <table>
   <tr><th>Paradigm <i>et</i></th><th><tt>Infm</tt></th><th><tt>Form</tt></th></tr>
@@ -51,9 +51,4 @@ The most frequent other feature values with which `VERB` and `Polite` co-occurre
 </table>
 
 `Polite` seems to be **lexical feature** of `VERB`. 93% lemmas (302) occur only with one value of `Polite`.
-
-## Relations with Agreement in `Polite`
-
-The 10 most frequent relations where parent and child node agree in `Polite`:
-<tt>VERB --[<tt><a href="tr_imst-dep-cc.html">cc</a></tt>]--> VERB</tt> (1; 100%).
 

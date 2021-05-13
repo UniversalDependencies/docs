@@ -24,18 +24,18 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 14	fgColor:white
 # visual-style 14 15 flat	color:blue
 1	“	“	PUNCT	_	_	6	punct	_	SpaceAfter=No
-2	Dy	dy	PART	_	_	3	mark	_	_
+2	Dy	dy	PART	_	PartType=Ad	3	mark	_	_
 3	jarroo	jarroo	ADJ	_	_	6	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	s'	she	AUX	_	_	6	cop	_	_
 6	yindyssagh	yindyssagh	ADJ	_	_	0	root	_	_
 7	er	er	ADP	_	_	8	case	_	_
 8	fud	fud	NOUN	_	_	6	obl	_	_
-9	yn	yn	DET	_	_	10	det	_	_
+9	yn	yn	DET	_	Definite=Def|Number=Sing|PronType=Art	10	det	_	_
 10	ennym	ennym	NOUN	_	_	6	nsubj	_	_
 11	shen	shen	DET	_	_	10	det	_	SpaceAfter=No
 12	”	”	PUNCT	_	_	6	punct	_	_
-13	as	as	VERB	_	_	6	parataxis	_	_
+13	as	as	VERB	_	Mood=Ind|Tense=Past	6	parataxis	_	_
 14	Cú	Cú	PROPN	_	_	13	nsubj	_	_
 15	Chulainn	Chulainn	PROPN	_	_	14	flat	_	_
 
@@ -48,15 +48,15 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 flat	color:blue
-1	Yeeagh	jeeagh	VERB	_	_	0	root	_	_
+1	Yeeagh	jeeagh	VERB	_	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 2	Mnr	Mnr	NOUN	_	_	1	nsubj	_	_
 3	Shynnagh	Shynnagh	PROPN	_	_	2	flat	_	_
 4	er	er	ADP	_	_	6	case	_	_
-5	e	e	DET	_	_	6	det	_	_
-6	ven	ben	NOUN	_	_	1	obl	_	_
+5	e	e	DET	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes	6	nmod:poss	_	_
+6	ven	ben	NOUN	_	Form=Len	1	obl	_	_
 7	as	as	CCONJ	_	_	8	cc	_	_
-8	ren	jean	VERB	_	_	1	conj	_	_
-9	ee	ee	PRON	_	_	8	nsubj	_	_
+8	ren	jean	VERB	_	Mood=Ind|Tense=Past	1	conj	_	_
+9	ee	ee	PRON	_	Gender=Fem|Number=Sing|Person=3	8	nsubj	_	_
 10	mongey	mongey	NOUN	_	_	8	obj	_	SpaceAfter=No
 11	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -69,10 +69,10 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 8 flat	color:blue
-1	T'	bee	VERB	_	_	0	root	_	_
-2	ad	ad	PRON	_	_	1	nsubj	_	_
+1	T'	bee	VERB	_	Mood=Ind|Tense=Pres	0	root	_	_
+2	ad	ad	PRON	_	Number=Plur|Person=3	1	nsubj	_	_
 3	ayns	ayns	ADP	_	_	4	case	_	_
-4	eh	eh	PRON	_	_	1	xcomp:pred	_	_
+4	eh	eh	PRON	_	Gender=Masc|Number=Sing|Person=3	1	xcomp:pred	_	_
 5	neayr's	neayr's	ADP	_	_	6	case	_	_
 6	1	1	NUM	_	_	1	obl	_	_
 7	Averil	Averil	PROPN	_	_	6	flat	_	_

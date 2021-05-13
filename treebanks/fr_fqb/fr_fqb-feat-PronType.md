@@ -9,7 +9,7 @@ udver: '2'
 This feature is universal.
 It occurs with 5 different values: `Art`, `Dem`, `Int`, `Prs`, `Rel`.
 
-4925 tokens (20%) have a non-empty value of `PronType`.
+4925 tokens (21%) have a non-empty value of `PronType`.
 58 types (1%) occur at least once with a non-empty value of `PronType`.
 21 lemmas (1%) occur at least once with a non-empty value of `PronType`.
 The feature is used with 3 part-of-speech tags: <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (3665; 15% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (676; 3% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (584; 2% instances).
@@ -39,7 +39,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Int` (570; 84% of non-empty `PronType`): <em>qui, Qu', que, quoi, Quels</em>
 * `Prs` (2; 0% of non-empty `PronType`): <em>eux, moi</em>
 * `Rel` (95; 14% of non-empty `PronType`): <em>qui, que, dont, laquelle, lequel, qu', où, lesquelles</em>
-* `EMPTY` (982): <em>-il, -ce, se, -elle, -on, -je, je, s', -ils, y</em>
+* `EMPTY` (982): <em>-ce, -t-il, se, -il, -je, -t-elle, je, -t-on, -elle, s'</em>
 
 <table>
   <tr><th>Paradigm <i>qui</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>

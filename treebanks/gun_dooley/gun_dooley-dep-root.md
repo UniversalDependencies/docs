@@ -24,7 +24,7 @@ The following 2 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0 3 root	color:blue
 1	_	_	ADV	inact	_	3	advmod	_	_
 2	_	_	PART	illocprt	_	1	dep:mod	_	_
-3	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	_
+3	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	0	root	_	_
 4	_	_	NUM	num	NumType=Card	5	nummod	_	_
 5	_	_	NOUN	n	Number=Plur	3	nsubj	_	_
 6	_	_	PUNCT	punct	_	3	punct	_	_

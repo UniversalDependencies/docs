@@ -29,7 +29,7 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 5	nihil	nihil	PRON	p|p|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind,Neg	6	obj	_	_
 6	abeo	habeo	VERB	v|v|1|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 7	quod	qui	PRON	p|p|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	8	obj	_	_
-8	contradiceret	contradico	VERB	v|v|1|s|i|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act	5	acl:relcl	_	SpaceAfter=No
+8	contradiceret	contradico	VERB	v|v|1|s|i|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	SpaceAfter=No
 9	,	,	PUNCT	Punc	_	11	punct	_	_
 10	ut	ut	SCONJ	c|c|-|-|-|-|-|-|-|-	_	11	mark	_	_
 11	receptibilis	receptibilis	ADJ	a|a|-|p|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Plur	6	advcl	_	_

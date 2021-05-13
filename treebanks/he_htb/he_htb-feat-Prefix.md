@@ -22,7 +22,7 @@ The most frequent other feature values with which `ADV` and `Prefix` co-occurred
 
 `ADV` tokens may have the following values of `Prefix`:
 
-* `Yes` (235; 100% of non-empty `Prefix`): אי, בלתי, בין, אנטי, דו, קדם, תת, חד, פרו, אין
+* `Yes` (235; 100% of non-empty `Prefix`): אי, בלתי, בין, אנטי, תת, דו, קדם, חד, פרו, נאו
 
 `Prefix` seems to be **lexical feature** of `ADV`. 100% lemmas (25) occur only with one value of `Prefix`.
 

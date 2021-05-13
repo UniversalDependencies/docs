@@ -12,7 +12,7 @@ There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="fr_se
 595 nodes (1%) are attached to their parents as `nsubj:pass`.
 
 585 instances of `nsubj:pass` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.09915966386555.
+Average distance between parent and child is 6.09579831932773.
 
 The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (374; 63% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (138; 23% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (81; 14% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
 

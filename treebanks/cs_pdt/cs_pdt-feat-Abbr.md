@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (5768; 100% of non-empty `Abbr`): <em>r, s, tel, m, č, km, MS, mil, Kčs, cm</em>
-* `EMPTY` (366591): <em>roku, korun, let, roce, strany, procent, společnosti, době, případě, firmy</em>
+* `EMPTY` (366533): <em>roku, korun, let, roce, strany, procent, společnosti, době, případě, firmy</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (480) occur only with one value of `Abbr`.
 

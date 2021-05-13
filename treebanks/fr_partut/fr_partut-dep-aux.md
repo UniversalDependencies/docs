@@ -9,47 +9,54 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `aux`: <tt><a href="fr_partut-dep-aux-caus.html">aux:caus</a></tt>, <tt><a href="fr_partut-dep-aux-pass.html">aux:pass</a></tt>.
 
-546 nodes (2%) are attached to their parents as `aux`.
+285 nodes (1%) are attached to their parents as `aux`.
 
-545 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.78205128205128.
+285 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.61754385964912.
 
-The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (519; 95% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (19; 3% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (3; 1% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 aux	color:blue
-1	Cher	cher	ADJ	A	Gender=Masc|Number=Sing	2	amod	_	_
-2	collègue	collègue	NOUN	S	Gender=Masc|Number=Sing	5	vocative	_	_
-3	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
-4	allons	aller	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
-5	vérifier	vérifier	VERB	V	VerbForm=Inf	0	root	_	_
-6	tout	tout	DET	T	Gender=Masc|Number=Sing|PronType=Tot	7	det	_	_
-7	cela	cela	PRON	PD	Number=Sing|Person=3|PronType=Dem	5	obj	_	SpaceAfter=No
-8	.	.	PUNCT	FS	_	5	punct	_	_
-
-~~~
+The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (274; 96% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (7; 2% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 aux	color:blue
-1	Ça	ce	PRON	PD	PronType=Dem	5	nsubj	_	_
-2	peut	pouvoir	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
-3	être	être	AUX	V	VerbForm=Inf	5	cop	_	_
-4	très	très	ADV	B	_	5	advmod	_	_
-5	compliqué	compliqué	ADJ	A	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-6	,	,	PUNCT	FF	_	5	punct	_	_
-7	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	SpaceAfter=No
-8	océan	océan	NOUN	S	Gender=Masc|Number=Sing	5	dislocated	_	SpaceAfter=No
-9	.	.	PUNCT	FS	_	5	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 aux	color:blue
+1	Nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+2	sommes	être	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	entrés	entrer	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+4	dans	dans	ADP	E	_	7	case	_	_
+5	le	le	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	sixième	sixième	ADJ	NO	Number=Sing|NumType=Ord	7	amod	_	_
+7	X	X	X	X	_	3	obl	_	SpaceAfter=No
+8	:	:	PUNCT	FC	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 13 aux	color:blue
+1	D'	de	ADP	E	_	4	case	_	SpaceAfter=No
+2	après	après	ADP	E	_	1	fixed	_	_
+3	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	proposition	proposition	NOUN	S	Gender=Fem|Number=Sing	15	obl	_	_
+5	de	de	ADP	E	_	7	case	_	_
+6	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	commission	commission	NOUN	S	Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	FF	_	4	punct	_	_
+9	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	limite	limite	NOUN	S	Gender=Fem|Number=Sing	15	nsubj	_	_
+11	de	de	ADP	E	_	12	case	_	_
+12	­20º	-20º	NUM	N	NumType=Card	10	nummod	_	_
+13	aurait	avoir	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
+14	été	être	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	cop	_	_
+15	suffisante	suffisant	ADJ	A	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+16	;	;	PUNCT	FC	_	15	punct	_	_
 
 ~~~
 

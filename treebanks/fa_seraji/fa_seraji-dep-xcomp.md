@@ -43,7 +43,7 @@ The following 14 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 8	fgColor:white
 # visual-style 8 6 xcomp	color:blue
 1	مادر	مادر	NOUN	N_SING	Number=Sing	0	root	_	SpaceAfter=No
-2	:	:	PUNCT	DELM	_	1	punct	_	_
+2	:	:	PUNCT	DELM	_	5	punct	_	_
 3	تو	تو	ADP	P	_	4	case	_	_
 4	سایه	سایه	NOUN	N_SING	Number=Sing	5	obl	_	_
 5	برو	رفت#رو	VERB	V_IMP	Mood=Imp|Number=Sing|Person=2	1	parataxis	_	_

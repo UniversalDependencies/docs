@@ -24,7 +24,7 @@ The following 12 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 19	fgColor:white
 # visual-style 19 17 csubj	color:blue
 1	어떤	_	DET	DT	_	2	det	_	Translit=.eo.ddeon|LTranslit=_
-2	면에서	면	NOUN	NN+CM	Case=Advb|Polite=Form	12	advmod	_	MSeg=면-에서|Translit=.myeon.e.seo|LTranslit=.myeon
+2	면에서	면	NOUN	NN+CM	Polite=Form	12	advmod	_	MSeg=면-에서|Translit=.myeon.e.seo|LTranslit=.myeon
 3	그	_	DET	DT	_	4	det	_	Translit=.geu|LTranslit=_
 4	영화는	영화	NOUN	NN+CM	Case=Nom|Polite=Form	12	nsubj	_	MSeg=영화-는|Translit=.yeong.hwa.neun|LTranslit=.yeong.hwa
 5	사랑스럽고	_	NOUN	NN	_	11	advcl	_	SpaceAfter=No|Translit=.sa.rang.seu.reob.go|LTranslit=_
@@ -37,7 +37,7 @@ The following 12 pairs of parts of speech are connected with `csubj`: <tt><a hre
 12	영화	_	NOUN	NN	_	19	advcl	_	SpaceAfter=No|Translit=.yeong.hwa|LTranslit=_
 13	여서	_	AUX	VC	Form=Compl	12	cop	_	Translit=.yeo.seo|LTranslit=_
 14	일요일	_	NOUN	NN	_	15	compound	_	Translit=.il.yo.il|LTranslit=_
-15	오후에	오후	NOUN	NN+CM	Case=Advb|Polite=Form	17	advmod	_	MSeg=오후-에|Translit=.o.hu.e|LTranslit=.o.hu
+15	오후에	오후	NOUN	NN+CM	Polite=Form	17	advmod	_	MSeg=오후-에|Translit=.o.hu.e|LTranslit=.o.hu
 16	보러	_	VERB	VV	Form=Compl	17	advcl	_	Translit=.bo.reo|LTranslit=_
 17	가기	_	VERB	VV	VerbForm=Ger	19	csubj	_	Translit=.ga.gi|LTranslit=_
 18	딱	_	ADV	RB	_	19	advmod	_	Translit=.ddag|LTranslit=_
@@ -56,17 +56,17 @@ The following 12 pairs of parts of speech are connected with `csubj`: <tt><a hre
 1	초기	_	NOUN	NN	_	2	compound	_	Translit=.cho.gi|LTranslit=_
 2	표결	_	NOUN	NN	_	3	compound	_	Translit=.pyo.gyeol|LTranslit=_
 3	결과	_	NOUN	NN	_	15	nsubj	_	Translit=.gyeol.gwa|LTranslit=_
-4	이번에	이번	NOUN	NN+CM	Case=Advb|Polite=Form	11	advmod	_	MSeg=이번-에|Translit=.i.beon.e|LTranslit=.i.beon
+4	이번에	이번	NOUN	NN+CM	Polite=Form	11	advmod	_	MSeg=이번-에|Translit=.i.beon.e|LTranslit=.i.beon
 5	더	_	ADV	RB	_	6	advmod	_	Translit=.deo|LTranslit=_
 6	많은	_	ADJ	JJ	Form=Adn	7	acl:relcl	_	Translit=.manh.eun|LTranslit=_
 7	라틴	_	PROPN	NNP	_	11	nsubj	_	SpaceAfter=No|Translit=.ra.tin|LTranslit=_
 8	아메리카인들	_	PROPN	NNP	Number=Plur	7	flat:name	_	SpaceAfter=No|Translit=.a.me.ri.ka.in.deul|LTranslit=_
-9	이	이	PART	CM	Case=Nom|Polite=Form	7	dep:prt	_	Translit=.i|LTranslit=_
-10	표결에	표결	NOUN	NN+CM	Case=Advb|Polite=Form	11	advmod	_	MSeg=표결-에|Translit=.pyo.gyeol.e|LTranslit=.pyo.gyeol
+9	이	이	PART	CM	Case=Nom|Polite=Form	7	case	_	Translit=.i|LTranslit=_
+10	표결에	표결	NOUN	NN+CM	Polite=Form	11	advmod	_	MSeg=표결-에|Translit=.pyo.gyeol.e|LTranslit=.pyo.gyeol
 11	참여할	_	NOUN	NN	_	12	dep	_	SpaceAfter=No|Translit=.cham.yeo.hal|LTranslit=_
 12	것	_	NOUN	NNB	_	15	advcl	_	SpaceAfter=No|Translit=.geos|LTranslit=_
 13	이라	_	AUX	VC	Mood=Ind|VerbForm=Fin	12	cop	_	SpaceAfter=No|Translit=.i.ra|LTranslit=_
-14	고	고	PART	QP	_	12	dep:prt	_	Translit=.go|LTranslit=_
+14	고	고	PART	QP	_	12	case	_	Translit=.go|LTranslit=_
 15	시사했지만	_	NOUN	NN	_	23	advcl	_	SpaceAfter=No|Translit=.si.sa.haess.ji.man|LTranslit=_
 16	그	_	DET	DT	_	17	det	_	Translit=.geu|LTranslit=_
 17	수의	수	NOUN	NN+CM	Case=Gen|Polite=Form	18	nmod:poss	_	MSeg=수-의|Translit=.su.yi|LTranslit=.su
@@ -87,8 +87,8 @@ The following 12 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 csubj	color:blue
-1	지금으로서	지금	NOUN	NN+CM	Case=Advb|Polite=Form	6	advmod	_	SpaceAfter=No|MSeg=지금-으로서|Translit=.ji.geum.eu.ro.seo|LTranslit=.ji.geum
-2	는	는	PART	AP	_	1	dep:prt	_	Translit=.neun|LTranslit=_
+1	지금으로서	지금	NOUN	NN+CM	Polite=Form	6	advmod	_	SpaceAfter=No|MSeg=지금-으로서|Translit=.ji.geum.eu.ro.seo|LTranslit=.ji.geum
+2	는	는	PART	AP	_	1	case	_	Translit=.neun|LTranslit=_
 3	어느	_	DET	DT	_	4	det	_	Translit=.eo.neu|LTranslit=_
 4	쪽	_	NOUN	NNB	_	6	csubj	_	SpaceAfter=No|Translit=.jjog|LTranslit=_
 5	인지	_	AUX	VC	VerbForm=Fin	4	cop	_	Translit=.in.ji|LTranslit=_

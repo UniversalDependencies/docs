@@ -49,8 +49,8 @@ The following 2 pairs of parts of speech are connected with `parataxis`: <tt><a 
 4	луныс	лун	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	nsubj:cop	_	SpaceAfter=No
 5	?	?	PUNCT	_	_	2	punct	_	_
 6	—	—	PUNCT	_	_	8	punct	_	_
-7	ылӧстӧма	ылӧстны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Prt2|Valency=1	8	advcl	_	_
-8	юаліс	юавны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	2	parataxis	_	_
+7	ылӧстӧма	ылӧстны	VERB	_	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	8	advcl	_	_
+8	юаліс	юавны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	parataxis	_	_
 9	сія	сія	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	_
 

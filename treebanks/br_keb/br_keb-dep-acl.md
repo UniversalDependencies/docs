@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Breton-KEB: Relations: `acl`
 
 This relation is universal.
-There are 2 language-specific subtypes of `acl`: <tt><a href="br_keb-dep-acl-focus.html">acl:focus</a></tt>, <tt><a href="br_keb-dep-acl-relcl.html">acl:relcl</a></tt>.
+There are 1 language-specific subtypes of `acl`: <tt><a href="br_keb-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-125 nodes (1%) are attached to their parents as `acl`.
+127 nodes (1%) are attached to their parents as `acl`.
 
-123 instances of `acl` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.52.
+125 instances of `acl` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.51181102362205.
 
-The following 10 pairs of parts of speech are connected with `acl`: <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (98; 78% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt>-<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (10; 8% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt>-<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="br_keb-pos-ADV.html">ADV</a></tt>-<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `acl`: <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (98; 77% instances), <tt><a href="br_keb-pos-PRON.html">PRON</a></tt>-<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (12; 9% instances), <tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="br_keb-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="br_keb-pos-NUM.html">NUM</a></tt>-<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="br_keb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="br_keb-pos-ADV.html">ADV</a></tt>-<tt><a href="br_keb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="br_keb-pos-VERB.html">VERB</a></tt>-<tt><a href="br_keb-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

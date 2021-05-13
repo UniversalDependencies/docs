@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="fr_gsd-dep-obj.html">obj</a></tt>.
 There are also 1 other language-specific subtypes of `obj`: <tt><a href="fr_gsd-dep-obj-agent.html">obj:agent</a></tt>.
 
-562 nodes (0%) are attached to their parents as `obj:lvc`.
+566 nodes (0%) are attached to their parents as `obj:lvc`.
 
-561 instances of `obj:lvc` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.22953736654804.
+565 instances of `obj:lvc` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.23674911660777.
 
-The following 3 pairs of parts of speech are connected with `obj:lvc`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (559; 99% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `obj:lvc`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (563; 99% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -49,7 +49,7 @@ The following 3 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 5	,	,	PUNCT	_	_	6	punct	_	_
 6	faisant	faire	VERB	_	Tense=Pres|VerbForm=Part	2	acl	_	_
 7	suite	suite	NOUN	_	Gender=Fem|Number=Sing	10	case	_	ExtPos=ADP|PhraseType=Idiom
-8	à	à	ADP	_	_	7	fixed	_	_
+8	à	à	ADP	_	_	7	fixed	_	InIdiom=Yes
 9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	Chanson	Chanson	PROPN	_	Gender=Fem|Number=Sing	6	obj:lvc	_	_
 11	d'	de	ADP	_	_	12	case	_	SpaceAfter=No
@@ -117,17 +117,17 @@ The following 3 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 42	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 43	«	«	PUNCT	_	_	44	punct	_	_
 44	contre	contre	ADP	_	_	42	obj:lvc	_	ExtPos=NOUN|PhraseType=Idiom
-45	mauvaise	mauvais	ADJ	_	Gender=Fem|Number=Sing	44	fixed	_	_
-46	fortune	fortune	NOUN	_	Gender=Fem|Number=Sing	44	fixed	_	_
-47	bon	bon	ADJ	_	Gender=Masc|Number=Sing	44	fixed	_	_
-48	coeur	cœur	NOUN	_	Gender=Masc|Number=Sing	44	fixed	_	wordform=cœur
+45	mauvaise	mauvais	ADJ	_	Gender=Fem|Number=Sing	44	fixed	_	InIdiom=Yes
+46	fortune	fortune	NOUN	_	Gender=Fem|Number=Sing	44	fixed	_	InIdiom=Yes
+47	bon	bon	ADJ	_	Gender=Masc|Number=Sing	44	fixed	_	InIdiom=Yes
+48	coeur	cœur	NOUN	_	Gender=Masc|Number=Sing	44	fixed	_	InIdiom=Yes|wordform=cœur
 49	»	»	PUNCT	_	_	44	punct	_	_
 50	et	et	CCONJ	_	_	51	cc	_	_
 51	change	changer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	conj	_	ExtPos=VERB|PhraseType=Idiom
-52	son	son	DET	_	Number=Sing|PossNumber=Sing|PossPerson=3|PronType=Prs	51	fixed	_	_
-53	fusil	fusil	NOUN	_	Gender=Masc|Number=Sing	51	fixed	_	_
-54	d'	de	ADP	_	_	51	fixed	_	SpaceAfter=No
-55	épaule	épaule	NOUN	_	Gender=Fem|Number=Sing	51	fixed	_	SpaceAfter=No
+52	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	51	fixed	_	InIdiom=Yes
+53	fusil	fusil	NOUN	_	Gender=Masc|Number=Sing	51	fixed	_	InIdiom=Yes
+54	d'	de	ADP	_	_	51	fixed	_	InIdiom=Yes|SpaceAfter=No
+55	épaule	épaule	NOUN	_	Gender=Fem|Number=Sing	51	fixed	_	InIdiom=Yes|SpaceAfter=No
 56	.	.	PUNCT	_	_	42	punct	_	_
 
 ~~~

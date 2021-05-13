@@ -57,7 +57,7 @@ The following 5 pairs of parts of speech are connected with `cop:locat`: <tt><a 
 # visual-style 5 2 cop:locat	color:blue
 1	–	–	PUNCT	interp	PunctType=Dash	5	punct	5:punct	_
 2	byli	być	AUX	praet:pl:m1:imperf	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|SubGender=Masc1|Tense=Past|VerbForm=Fin|Voice=Act	5	cop:locat	5:cop:locat	SpaceAfter=No
-3	ście	być	AUX	aglt:pl:sec:imperf:nwok	Aspect=Imp|Number=Plur|Person=2|Variant=Short	5	aux:aglt	5:aux:aglt	_
+3	ście	być	AUX	aglt:pl:sec:imperf:nwok	Aspect=Imp|Number=Plur|Person=2|Variant=Short	5	aux:clitic	5:aux:clitic	_
 4	u	u	ADP	prep:gen	AdpType=Prep	5	case	5:case	Case=Gen
 5	Azy	Aza	PROPN	subst:sg:gen:m1	Case=Gen|Gender=Masc|Number=Sing|SubGender=Masc1	0	root	0:root	SpaceAfter=No
 6	?	?	PUNCT	interp	PunctType=Qest	5	punct	5:punct	_

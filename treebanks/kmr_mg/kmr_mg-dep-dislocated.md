@@ -45,13 +45,13 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 21	xwe	xwe	PRON	prn	Gender=Fem,Masc|Number=Plur,Sing|PronType=Prs|Reflex=Yes	20	nmod:poss	_	_
 22	di	di	ADP	pr	AdpType=Prep	23	case	_	_
 23	riya	rê	NOUN	n	Case=Con|Definite=Def|Gender=Fem|Number=Sing	28	nmod	_	_
-24	xerabiyê	<xerabî>	NOUN	n	Case=Obl|Definite=Def|Gender=Fem|Number=Sing	23	nmod:poss	_	xerabî|<xerabî>|n|f|sg|obl|def
+24	xerabiyê	<xerabî>	NOUN	n	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	23	nmod:poss	_	xerabî|<xerabî>|n|f|sg|obl|def
 25	de	de	ADP	post	AdpType=Post	23	case	_	_
 26	bi	bi	ADP	pr	AdpType=Prep	27	case	_	_
-27	kar	kar	NOUN	n	Case=Obl|Definite=Def|Gender=Masc|Number=Sing	28	nmod	_	_
+27	kar	kar	NOUN	n	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	28	nmod	_	_
 28	têxe	têxistin	VERB	vblex	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	acl	_	_
 29	jê	ji	ADP	pr	AdpType=Prep	30	case	_	_
-30	_	ew	PRON	prn	Case=Obl|Gender=Fem,Masc|Number=Sing|Person=3|PronType=Prs	31	nmod	_	_
+30	_	ew	PRON	prn	Case=Acc|Gender=Fem,Masc|Number=Sing|Person=3|PronType=Prs	31	nmod	_	_
 31	xeternaktir	xeternak	ADJ	adj	Degree=Cmp	32	amod	_	_
 32	kes	kes	NOUN	n	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	33	nsubj	_	_
 33	nîne	hebûn	AUX	vbhaver	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	14	ccomp	_	SpaceAfter=No
@@ -68,10 +68,10 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 10 2 dislocated	color:blue
 1	Heçî	herçî	PRON	prn	Gender=Fem,Masc|Number=Sing|PronType=Ind	10	advmod	_	_
 2	Hêlên	Hêlên	PROPN	np	Case=Nom|Gender=Fem|Number=Sing	10	dislocated	_	SpaceAfter=No
-3	;	;	PUNCT	sent	_	10	punct	_	_
+3	;	;	PUNCT	sent	_	2	punct	_	_
 4	piştî	piştî	ADP	pr	AdpType=Prep	10	mark	_	_
 5	ko	ku	SCONJ	cnjsub	_	4	fixed	_	_
-6	wê	ew	PRON	prn	Case=Obl|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+6	wê	ew	PRON	prn	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
 7	jî	jî	PART	emph	_	10	advmod	_	_
 8	qerara	qerar	NOUN	n	Case=Con|Definite=Def|Gender=Fem|Number=Sing	10	compound:lvc	_	_
 9	xwe	xwe	PRON	prn	Gender=Fem,Masc|Number=Plur,Sing|PronType=Prs|Reflex=Yes	8	nmod:poss	_	_
@@ -79,10 +79,10 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 11	ko	ku	SCONJ	cnjsub	_	12	mark	_	_
 12	bizewice	zewicîn	VERB	vblex	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	_
 13	zirbavê	zirbav	NOUN	n	Case=Con|Definite=Def|Gender=Masc|Number=Sing	22	nsubj	_	_
-14	wê	ew	PRON	prn	Case=Obl|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nmod:poss	_	_
+14	wê	ew	PRON	prn	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	nmod:poss	_	_
 15	di	di	ADP	pr	AdpType=Prep	16	case	_	_
 16	oda	ode	NOUN	n	Case=Con|Definite=Def|Gender=Fem|Number=Sing	20	nmod	_	_
-17	wê	ew	PRON	prn	Case=Obl|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nmod:poss	_	_
+17	wê	ew	PRON	prn	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	nmod:poss	_	_
 18	de	de	ADP	post	AdpType=Post	16	case	_	_
 19	hin	hin	DET	det	Gender=Fem,Masc|Number=Plur,Sing|PronType=Ind	20	det	_	_
 20	tamîrat	tamîrat	NOUN	n	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	22	obj	_	_
@@ -91,19 +91,19 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 23	û	û	CCONJ	cnjcoo	_	25	cc	_	_
 24	ew	ew	PRON	prn	Case=Nom|Gender=Fem,Masc|Number=Sing|Person=3|PronType=Prs	25	obj	_	_
 25	anî	anîn	VERB	vblex	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	conj	_	_
-26	oda	ode	NOUN	n	Case=Con|Definite=Def|Gender=Fem|Number=Sing	25	nmod:dat	_	_
+26	oda	ode	NOUN	n	Case=Con|Definite=Def|Gender=Fem|Number=Sing	25	obl:dat	_	_
 27	xweha	xweh	NOUN	n	Case=Con|Definite=Def|Gender=Fem|Number=Sing	26	nmod:poss	_	_
-28	wê	ew	PRON	prn	Case=Obl|Gender=Fem|Number=Sing|Person=3|PronType=Prs	27	nmod:poss	_	_
+28	wê	ew	PRON	prn	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	27	nmod:poss	_	_
 29	da	da	SCONJ	cnjsub	_	31	mark	_	_
 30	ko	ku	SCONJ	cnjsub	_	29	fixed	_	_
 31	bikare	karîn	VERB	vblex	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	advcl	_	_
 32	di	di	ADP	pr	AdpType=Prep	33	case	_	_
-33	qulê	qûle	NOUN	n	Case=Obl|Definite=Def|Gender=Fem|Number=Sing	36	nmod	_	_
+33	qulê	qûle	NOUN	n	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	36	nmod	_	_
 34	re	re	ADP	post	AdpType=Post	33	case	_	_
-35	mar	mar	NOUN	n	Case=Obl|Definite=Def|Gender=Masc|Number=Sing	36	obj	_	_
+35	mar	mar	NOUN	n	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	36	obj	_	_
 36	berde	berdan	VERB	vblex	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	ccomp	_	_
 37	ser	ser	ADP	pr	AdpType=Prep	38	case	_	_
-38	wê	ew	PRON	prn	Case=Obl|Gender=Fem|Number=Sing|Person=3|PronType=Prs	36	nmod	_	SpaceAfter=No
+38	wê	ew	PRON	prn	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	36	nmod	_	SpaceAfter=No
 39	.	.	PUNCT	sent	_	22	punct	_	_
 
 ~~~

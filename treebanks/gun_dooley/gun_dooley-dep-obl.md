@@ -27,7 +27,7 @@ The following 10 pairs of parts of speech are connected with `obl`: <tt><a href=
 2	_	_	PART	quantprt	_	1	dep:mod	_	_
 3	_	_	PART	discprt	_	1	dep:mod	_	_
 4	_	_	PART	illocprt	_	1	dep:mod	_	_
-5	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	_
+5	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	0	root	_	_
 6	_	_	VERB	vs	Mood=Ind|Person=3|VerbForm=Ser	5	compound:svc	_	_
 7	_	_	NUM	num	NumType=Card	8	nummod	_	_
 8	_	_	NOUN	n	_	5	obl	_	_
@@ -47,15 +47,15 @@ The following 10 pairs of parts of speech are connected with `obl`: <tt><a href=
 2	_	_	SCONJ	subordconn	_	1	mark	_	_
 3	_	_	PART	illocprt	_	1	dep:mod	_	_
 4	_	_	PART	illocprt	_	1	dep:mod	_	_
-5	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	_
+5	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	0	root	_	_
 6	_	_	PRON	pro	Person=3|PronType=Prs	5	obl	_	_
 7	_	_	SCONJ	rel	_	6	mark	_	_
 8	_	_	ADP	post	_	6	case	_	_
-9	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	5	advcl	_	_
+9	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	5	advcl	_	_
 10	rã	rã	SCONJ	subordconn	_	9	mark	_	DS
 11	_	_	PART	illocprt	_	9	dep:mod	_	_
 12	_	_	NOUN	n	_	13	nsubj	_	_
-13	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	5	parataxis	_	_
+13	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	5	parataxis	_	_
 14	_	_	PUNCT	punct	_	5	punct	_	_
 
 ~~~
@@ -80,7 +80,7 @@ The following 10 pairs of parts of speech are connected with `obl`: <tt><a href=
 11	_	_	NOUN	n	Number[psor]=Sing	12	nmod	_	_
 12	rogue'i	ogue	NOUN	n	_	14	obl	_	R-leaf-=DIM
 13	_	_	ADP	post	_	12	case	_	_
-14	_	_	VERB	vi:a	Mood=Ind|Person[subj]=1|Subcat=Int|VerbForm=Fin	6	parataxis:rep	_	_
+14	_	_	VERB	vi:a	Mood=Ind|Person[subj]=1|Subcat=Intr|VerbForm=Fin	6	parataxis:rep	_	_
 15	_	_	PUNCT	punct	_	14	punct	_	_
 16	_	_	VERB	vt	Mood=Ind|Subcat=Tran|VerbForm=Inf	14	parataxis	_	_
 17	_	_	PUNCT	punct	_	6	punct	_	_

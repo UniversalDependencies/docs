@@ -78,17 +78,17 @@ Examples: <em>да, де, бүгін, енді, тағы, ғана, қазір, 
 
 Parents of `ADV` nodes belong to 11 different parts of speech: <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (154; 51% instances), <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> (61; 20% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> (43; 14% instances), <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> (14; 5% instances),  (9; 3% instances), <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> (7; 2% instances), <tt><a href="kk_ktb-pos-NUM.html">NUM</a></tt> (5; 2% instances), <tt><a href="kk_ktb-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="kk_ktb-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances)
 
-265 (87%) `ADV` nodes are leaves.
+260 (86%) `ADV` nodes are leaves.
 
-19 (6%) `ADV` nodes have one child.
+23 (8%) `ADV` nodes have one child.
 
-14 (5%) `ADV` nodes have two children.
+16 (5%) `ADV` nodes have two children.
 
-5 (2%) `ADV` nodes have three or more children.
+4 (1%) `ADV` nodes have three or more children.
 
-The highest child degree of a `ADV` node is 4.
+The highest child degree of a `ADV` node is 3.
 
-Children of `ADV` nodes are attached using 10 different relations: <tt><a href="kk_ktb-dep-punct.html">punct</a></tt> (26; 41% instances), <tt><a href="kk_ktb-dep-nsubj.html">nsubj</a></tt> (13; 21% instances), <tt><a href="kk_ktb-dep-dep.html">dep</a></tt> (10; 16% instances), <tt><a href="kk_ktb-dep-advmod.html">advmod</a></tt> (4; 6% instances), <tt><a href="kk_ktb-dep-cop.html">cop</a></tt> (4; 6% instances), <tt><a href="kk_ktb-dep-compound.html">compound</a></tt> (2; 3% instances), <tt><a href="kk_ktb-dep-aux.html">aux</a></tt> (1; 2% instances), <tt><a href="kk_ktb-dep-conj.html">conj</a></tt> (1; 2% instances), <tt><a href="kk_ktb-dep-nmod.html">nmod</a></tt> (1; 2% instances), <tt><a href="kk_ktb-dep-vocative.html">vocative</a></tt> (1; 2% instances)
+Children of `ADV` nodes are attached using 10 different relations: <tt><a href="kk_ktb-dep-punct.html">punct</a></tt> (30; 45% instances), <tt><a href="kk_ktb-dep-nsubj.html">nsubj</a></tt> (13; 19% instances), <tt><a href="kk_ktb-dep-dep.html">dep</a></tt> (10; 15% instances), <tt><a href="kk_ktb-dep-advmod.html">advmod</a></tt> (4; 6% instances), <tt><a href="kk_ktb-dep-cop.html">cop</a></tt> (4; 6% instances), <tt><a href="kk_ktb-dep-compound.html">compound</a></tt> (2; 3% instances), <tt><a href="kk_ktb-dep-aux.html">aux</a></tt> (1; 1% instances), <tt><a href="kk_ktb-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="kk_ktb-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="kk_ktb-dep-vocative.html">vocative</a></tt> (1; 1% instances)
 
-Children of `ADV` nodes belong to 7 different parts of speech: <tt><a href="kk_ktb-pos-PUNCT.html">PUNCT</a></tt> (26; 41% instances), <tt><a href="kk_ktb-pos-X.html">X</a></tt> (10; 16% instances), <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> (7; 11% instances), <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> (7; 11% instances), <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (5; 8% instances), <tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt> (5; 8% instances), <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> (3; 5% instances)
+Children of `ADV` nodes belong to 7 different parts of speech: <tt><a href="kk_ktb-pos-PUNCT.html">PUNCT</a></tt> (30; 45% instances), <tt><a href="kk_ktb-pos-X.html">X</a></tt> (10; 15% instances), <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> (7; 10% instances), <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> (7; 10% instances), <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> (5; 7% instances), <tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt> (5; 7% instances), <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> (3; 4% instances)
 

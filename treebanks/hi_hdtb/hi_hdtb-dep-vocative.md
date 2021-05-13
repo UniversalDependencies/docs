@@ -31,10 +31,10 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 7	-	-	PUNCT	SYM	_	4	punct	_	ChunkId=VGF|ChunkType=child|Translit=-
 8	चारा	चारा	NOUN	NNC	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	compound	_	Vib=0|Tam=0|ChunkId=NP3|ChunkType=child|Translit=cārā
 9	चोर	चोर	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	15	vocative	_	SpaceAfter=No|Vib=0|Tam=0|ChunkId=NP3|ChunkType=head|Translit=cora
-10	,	COMMA	PUNCT	SYM	_	9	punct	_	ChunkId=NP3|ChunkType=child|Translit=,
+10	,	,	PUNCT	SYM	_	9	punct	_	ChunkId=NP3|ChunkType=child|Translit=,
 11	खजाना	खजाना	NOUN	NNC	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	compound	_	Vib=0|Tam=0|ChunkId=NP4|ChunkType=child|Translit=khajānā
 12	चोर	चोर	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	15	vocative	_	SpaceAfter=No|Vib=0|Tam=0|ChunkId=NP4|ChunkType=head|Translit=cora
-13	,	COMMA	PUNCT	SYM	_	12	punct	_	ChunkId=NP4|ChunkType=child|Translit=,
+13	,	,	PUNCT	SYM	_	12	punct	_	ChunkId=NP4|ChunkType=child|Translit=,
 14	गद्दी	गद्दी	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	15	obj	_	Vib=0|Tam=0|ChunkId=NP5|ChunkType=head|Translit=gaddī
 15	छोड़	छोड़	VERB	VM	Voice=Act	4	obj	_	Vib=0|Tam=0|ChunkId=VGF2|ChunkType=head|Stype=declarative|Translit=choṛa
 16	।	।	PUNCT	SYM	_	4	punct	_	ChunkId=BLK|ChunkType=head|Translit=.

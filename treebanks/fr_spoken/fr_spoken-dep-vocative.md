@@ -29,7 +29,7 @@ The following 9 pairs of parts of speech are connected with `vocative`: <tt><a h
 5	ne	ne	ADV	_	Polarity=Neg	6	advmod	_	_
 6	pourra	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 7	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	_
-8	contenter	contenter	VERB	_	VerbForm=Inf	6	xcomp:obj	_	_
+8	contenter	contenter	VERB	_	VerbForm=Inf	6	xcomp	_	_
 9	tout	tout	ADV	_	_	11	advmod	_	_
 10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	monde	monde	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_

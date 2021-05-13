@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>июдеи</em> (<tt><a href="cu_proi
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 2.720040 (the average of all parts of speech is 3.275325).
+The form / lemma ratio of `NOUN` is 2.720040 (the average of all parts of speech is 3.276388).
 
 The 1st highest number of forms (38) was observed with the lemma “чловѣкъ”: <em>члвкъ, члвѣкови, чловкꙑ, чловѣкомъ, чловѣкъ, чловѣкъи, члⷦ҇а, члⷦ҇ва, ч҃вкоу, ч҃ка, ч҃комъ, ч҃коу, ч҃къ, ч҃кꙑ, ч҃лва, ч҃лвк, ч҃лвка, ч҃лвкмъ, ч҃лвкомъ, ч҃лвкоу, ч҃лвкъ, ч҃лвкꙑ, ч҃лвци, ч҃лвцхъ, ч҃лвцѣ, ч҃лвцѣхъ, ч҃лвче, ч҃лвѣко, ч҃лвѣкъ, ч҃лка, ч҃лкмъ, ч҃лкомь, ч҃лкоу, ч҃лкъ, ч҃лкꙑ, ч҃лци, ч҃лче, ч҃лⷦ҇а</em>.
 

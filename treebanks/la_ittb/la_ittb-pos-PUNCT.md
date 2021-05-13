@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 3.432157).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 3.291705).
 
 The 1st highest number of forms (1) was observed with the lemma “(”: <em>(</em>.
 
@@ -36,7 +36,7 @@ The 3rd highest number of forms (1) was observed with the lemma “,”: <em>,</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="la_ittb-dep-punct.html">punct</a></tt> (62409; 100% instances)
 
-Parents of `PUNCT` nodes belong to 14 different parts of speech: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (36772; 59% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (12583; 20% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (4488; 7% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (2805; 4% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (2447; 4% instances), <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> (1218; 2% instances), <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> (744; 1% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (472; 1% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (420; 1% instances), <tt><a href="la_ittb-pos-PART.html">PART</a></tt> (188; 0% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (96; 0% instances), <tt><a href="la_ittb-pos-X.html">X</a></tt> (88; 0% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (49; 0% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (39; 0% instances)
+Parents of `PUNCT` nodes belong to 14 different parts of speech: <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (36771; 59% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (12586; 20% instances), <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (4491; 7% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (2790; 4% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (2447; 4% instances), <tt><a href="la_ittb-pos-SCONJ.html">SCONJ</a></tt> (1218; 2% instances), <tt><a href="la_ittb-pos-CCONJ.html">CCONJ</a></tt> (758; 1% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (472; 1% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (420; 1% instances), <tt><a href="la_ittb-pos-PART.html">PART</a></tt> (188; 0% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (96; 0% instances), <tt><a href="la_ittb-pos-X.html">X</a></tt> (84; 0% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (49; 0% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (39; 0% instances)
 
 62409 (100%) `PUNCT` nodes are leaves.
 

@@ -6,13 +6,13 @@ udver: '2'
 
 ## Treebank Statistics: UD_North_Sami-Giella: Features: `NumType`
 
-This feature is universal.
-It occurs with 1 different values: `Card`.
+This feature is universal but the values `Coll` are language-specific.
+It occurs with 2 different values: `Card`, `Coll`.
 
-348 tokens (1%) have a non-empty value of `NumType`.
-152 types (2%) occur at least once with a non-empty value of `NumType`.
-111 lemmas (3%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt> (348; 1% instances).
+388 tokens (1%) have a non-empty value of `NumType`.
+180 types (2%) occur at least once with a non-empty value of `NumType`.
+128 lemmas (3%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt> (348; 1% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (40; 0% instances).
 
 ### `NUM`
 
@@ -25,6 +25,19 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 * `Card` (348; 100% of non-empty `NumType`): <em>guokte, golbma, ovtta, okta, moadde, máŋga, golmma, vihtta, guovtti, máŋgga</em>
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (111) occur only with one value of `NumType`.
+
+### `NOUN`
+
+40 <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `NumType`.
+
+The most frequent other feature values with which `NOUN` and `NumType` co-occurred: <tt><a href="sme_giella-feat-Number.html">Number</a></tt><tt>=Sing</tt> (38; 95%), <tt><a href="sme_giella-feat-Case.html">Case</a></tt><tt>=Nom</tt> (29; 73%).
+
+`NOUN` tokens may have the following values of `NumType`:
+
+* `Coll` (40; 100% of non-empty `NumType`): <em>máŋggas, guovttis, Máŋgasat, golbmasa, golbmasis, golmmas, guovttos, máná-guovttos, viđas, Biera-guovttos</em>
+* `EMPTY` (6379): <em>sámi, jagi, olbmot, mánát, sámegiela, eadni, beaivvi, gánda, oahpaheaddji, olmmoš</em>
+
+`NumType` seems to be **lexical feature** of `NOUN`. 100% lemmas (17) occur only with one value of `NumType`.
 
 ## Relations with Agreement in `NumType`
 

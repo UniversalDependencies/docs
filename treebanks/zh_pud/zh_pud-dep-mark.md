@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Chinese-PUD: Relations: `mark`
 
 This relation is universal.
-There are 3 language-specific subtypes of `mark`: <tt><a href="zh_pud-dep-mark-adv.html">mark:adv</a></tt>, <tt><a href="zh_pud-dep-mark-prt.html">mark:prt</a></tt>, <tt><a href="zh_pud-dep-mark-relcl.html">mark:relcl</a></tt>.
+There are 3 language-specific subtypes of `mark`: <tt><a href="zh_pud-dep-mark-adv.html">mark:adv</a></tt>, <tt><a href="zh_pud-dep-mark-prt.html">mark:prt</a></tt>, <tt><a href="zh_pud-dep-mark-rel.html">mark:rel</a></tt>.
 
 291 nodes (1%) are attached to their parents as `mark`.
 
@@ -30,7 +30,7 @@ The following 9 pairs of parts of speech are connected with `mark`: <tt><a href=
 5	2004	_	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=2004
 6	年	_	NOUN	NNB	_	7	obl	_	SpaceAfter=No|Translit=nián
 7	開業	_	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No|Translit=kāiyè
-8	的	_	PART	DEC	_	7	mark:relcl	_	SpaceAfter=No|Translit=de
+8	的	_	PART	DEC	_	7	mark:rel	_	SpaceAfter=No|Translit=de
 9	諾瑪	_	PROPN	NNP	_	11	compound	_	SpaceAfter=No|Translit=諾瑪
 10	城際	_	NOUN	NN	_	11	compound	_	Proper=True|SpaceAfter=No|Translit=chéngjì
 11	地鐵站	_	NOUN	NN	_	15	compound	_	Proper=True|SpaceAfter=No|Translit=detiězhàn
@@ -106,7 +106,7 @@ The following 9 pairs of parts of speech are connected with `mark`: <tt><a href=
 17	也許	_	ADV	RB	_	24	advmod	_	SpaceAfter=No|Translit=yěxǔ
 18	最	_	ADV	RB	_	19	advmod	_	SpaceAfter=No|Translit=zuì
 19	重要	_	ADJ	JJ	_	24	csubj	_	SpaceAfter=No|Translit=zhòngyào
-20	的	_	PART	DEC	_	19	mark:relcl	_	SpaceAfter=No|Translit=de
+20	的	_	PART	DEC	_	19	mark:rel	_	SpaceAfter=No|Translit=de
 21	是	_	AUX	VC	_	24	cop	_	SpaceAfter=No|Translit=shì
 22	，	_	PUNCT	,	_	21	punct	_	SpaceAfter=No|Translit=，
 23	政治	_	NOUN	NN	_	24	compound	_	SpaceAfter=No|Translit=zhèngzhì

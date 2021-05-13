@@ -59,13 +59,13 @@ The 2nd highest number of forms (5) was observed with the lemma “два”: <e
 
 The 3rd highest number of forms (4) was observed with the lemma “несколько”: <em>нескольким, несколькими, нескольких, несколько</em>.
 
-`NUM` occurs with 5 features: <tt><a href="ru_pud-feat-Case.html">Case</a></tt> (173; 60% instances), <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt> (65; 22% instances), <tt><a href="ru_pud-feat-Number.html">Number</a></tt> (40; 14% instances), <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt> (38; 13% instances), <tt><a href="ru_pud-feat-Degree.html">Degree</a></tt> (13; 4% instances)
+`NUM` occurs with 4 features: <tt><a href="ru_pud-feat-Case.html">Case</a></tt> (173; 60% instances), <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt> (65; 22% instances), <tt><a href="ru_pud-feat-Number.html">Number</a></tt> (40; 14% instances), <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt> (38; 13% instances)
 
-`NUM` occurs with 13 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Degree=Cmp`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Sing`
+`NUM` occurs with 12 feature-value pairs: `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Sing`
 
-`NUM` occurs with 33 feature combinations.
-The most frequent feature combination is `_` (104 tokens).
-Examples: <em>3, 1, 1,5, 10, 100, 20, 50, 1,4, 10000, 11</em>
+`NUM` occurs with 32 feature combinations.
+The most frequent feature combination is `_` (117 tokens).
+Examples: <em>больше, 3, 1, 1,5, 10, 100, 20, 50, 1,4, 10000</em>
 
 
 ## Relations

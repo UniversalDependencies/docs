@@ -26,7 +26,7 @@ The 10 most frequent ambiguous types:  <em>iki</em> (<tt><a href="tr_boun-pos-NU
   * <tt><a href="tr_boun-pos-DET.html">DET</a></tt> 2323: <em>Saddam Hüseyin , 42 yaşında iken <b>bir</b> darbeyle iktidara el koydu .</em>
   * <tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> 117: <em>Romantikte de böyle <b>bir</b> yan var .</em>
   * <tt><a href="tr_boun-pos-ADV.html">ADV</a></tt> 49: <em>"Müsait yerde"nin bu ilk haliydi , bunun <b>bir</b> de ikinci hali var dır .</em>
-  * <tt><a href="tr_boun-pos-CCONJ.html">CCONJ</a></tt> 2: <em>Babam da annem de 'deli oğlan'larının bu işi yapPoteceğine <b>bir</b> inandılar <b>bir</b> inanamadılar ama hep yanımda oldular .</em>
+  * <tt><a href="tr_boun-pos-CCONJ.html">CCONJ</a></tt> 2: <em>Babam da annem de 'deli oğlan'larının bu işi yapabileceğine <b>bir</b> inandılar <b>bir</b> inanamadılar ama hep yanımda oldular .</em>
 * <em>2</em>
   * <tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> 114: <em><b>2</b> bardak taze pırasa ,</em>
   * <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> 1: <em>Kitabım hiç tutmayacak , satış rakamı bine ulaşmayacak , kitap fuarlarında kendi kitabını satmak için " <b>2</b> lira 2 lira " diye çığıran yazarlardan biri olacağım .</em>
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>iki</em> (<tt><a href="tr_boun-pos-NU
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.165370 (the average of all parts of speech is 2.389211).
+The form / lemma ratio of `NUM` is 1.165370 (the average of all parts of speech is 2.389386).
 
 The 1st highest number of forms (12) was observed with the lemma “iki”: <em>iki, ikimiz, ikinci, ikisi, ikisini, ikisinin, ikiye, ikişer, İki, İkimiz, İkinci, İkisi</em>.
 
@@ -62,11 +62,11 @@ The 2nd highest number of forms (6) was observed with the lemma “biri”: <em>
 
 The 3rd highest number of forms (5) was observed with the lemma “bir”: <em>Birden, bi, bir, birer, birinci</em>.
 
-`NUM` occurs with 14 features: <tt><a href="tr_boun-feat-NumType.html">NumType</a></tt> (2280; 85% instances), <tt><a href="tr_boun-feat-Number.html">Number</a></tt> (696; 26% instances), <tt><a href="tr_boun-feat-Person.html">Person</a></tt> (696; 26% instances), <tt><a href="tr_boun-feat-Case.html">Case</a></tt> (686; 26% instances), <tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt> (141; 5% instances), <tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt> (141; 5% instances), <tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt> (18; 1% instances), <tt><a href="tr_boun-feat-Tense.html">Tense</a></tt> (14; 1% instances), <tt><a href="tr_boun-feat-Aspect.html">Aspect</a></tt> (12; 0% instances), <tt><a href="tr_boun-feat-Mood.html">Mood</a></tt> (7; 0% instances), <tt><a href="tr_boun-feat-Voice.html">Voice</a></tt> (7; 0% instances), <tt><a href="tr_boun-feat-Evident.html">Evident</a></tt> (6; 0% instances), <tt><a href="tr_boun-feat-VerbForm.html">VerbForm</a></tt> (5; 0% instances), <tt><a href="tr_boun-feat-PronType.html">PronType</a></tt> (2; 0% instances)
+`NUM` occurs with 8 features: <tt><a href="tr_boun-feat-NumType.html">NumType</a></tt> (2280; 85% instances), <tt><a href="tr_boun-feat-Case.html">Case</a></tt> (682; 25% instances), <tt><a href="tr_boun-feat-Number.html">Number</a></tt> (682; 25% instances), <tt><a href="tr_boun-feat-Person.html">Person</a></tt> (682; 25% instances), <tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt> (133; 5% instances), <tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt> (133; 5% instances), <tt><a href="tr_boun-feat-Polarity.html">Polarity</a></tt> (3; 0% instances), <tt><a href="tr_boun-feat-PronType.html">PronType</a></tt> (2; 0% instances)
 
-`NUM` occurs with 37 feature-value pairs: `Aspect=Hab`, `Aspect=Imp`, `Aspect=Perf`, `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Equ`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Evident=Fh`, `Evident=Nfh`, `Mood=Ind`, `Mood=Opt`, `Mood=Pot`, `NumType=Card`, `NumType=Dist`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=3`, `Person[psor]=1`, `Person[psor]=3`, `Polarity=Neg`, `Polarity=Pos`, `PronType=Dem`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbForm=Part`, `Voice=Cau`, `Voice=Pass`, `Voice=Rfl`
+`NUM` occurs with 22 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Equ`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `NumType=Card`, `NumType=Dist`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=3`, `Person[psor]=1`, `Person[psor]=3`, `Polarity=Neg`, `Polarity=Pos`, `PronType=Dem`
 
-`NUM` occurs with 48 feature combinations.
+`NUM` occurs with 36 feature combinations.
 The most frequent feature combination is `NumType=Card` (1931 tokens).
 Examples: <em>1, iki, bir, 2, üç, 4, bin, milyon, 3, 5</em>
 

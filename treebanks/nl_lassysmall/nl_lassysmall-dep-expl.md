@@ -23,7 +23,7 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 4 expl	color:blue
-1	Gravelspecialiste	gravelspecialiste	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	7	nsubj	7:nsubj	_
+1	Gravelspecialiste	gravel_specialiste	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	7	nsubj	7:nsubj	_
 2	Clijsters	Clijsters	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	1	appos	1:appos	_
 3	is	zijn	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	7	aux	7:aux	_
 4	er	er	PRON	VNW|aanw|adv-pron|stan|red|3|getal	Person=3|PronType=Dem	11	expl	11:expl	_
@@ -31,7 +31,7 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 6	in	in	ADP	VZ|fin	_	11	case	11:case	_
 7	geslaagd	slagen	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	_
 8	de	de	DET	LID|bep|stan|rest	Definite=Def	9	det	9:det	_
-9	kwartfinale	kwartfinale	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	11	obj	11:obj	_
+9	kwartfinale	kwart_finale	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	11	obj	11:obj	_
 10	te	te	ADP	VZ|init	_	11	mark	11:mark	_
 11	halen	halen	VERB	WW|inf|vrij|zonder	VerbForm=Inf	7	advcl	7:advcl:in	SpaceAfter=No
 12	.	.	PUNCT	LET	_	7	punct	7:punct	_
@@ -55,7 +55,7 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 8	groten	groot	ADJ	ADJ|nom|basis|met-e|mv-n	Degree=Pos	18	nsubj	18:nsubj	_
 9	uit	uit	ADP	VZ|init	_	11	case	11:case	_
 10	de	de	DET	LID|bep|stan|rest	Definite=Def	11	det	11:det	_
-11	filmwereld	filmwereld	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	8	nmod	8:nmod:uit	SpaceAfter=No
+11	filmwereld	film_wereld	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	8	nmod	8:nmod:uit	SpaceAfter=No
 12	,	,	PUNCT	LET	_	14	punct	14:punct	_
 13	zoals	zoals	SCONJ	VG|onder	_	14	mark	14:mark	_
 14	Steven	Steven	PROPN	SPEC|deeleigen	_	8	acl	8:acl:zoals	_
@@ -88,7 +88,7 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 10	een	een	DET	LID|onbep|stan|agr	Definite=Ind	11	det	11:det	_
 11	schilder	schilder	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	13	obl	13:obl:aan	_
 12	werd	worden	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	13	aux:pass	13:aux:pass	_
-13	toegekend	toekennen	VERB	WW|vd|vrij|zonder	VerbForm=Part	5	csubj	5:csubj	SpaceAfter=No
+13	toegekend	toe_kennen	VERB	WW|vd|vrij|zonder	VerbForm=Part	5	csubj	5:csubj	SpaceAfter=No
 14	.	.	PUNCT	LET	_	5	punct	5:punct	_
 
 ~~~

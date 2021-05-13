@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Barbora Hladká, Daniel Zeman, Martin Popel.
 
 Repository: [UD_Czech-CLTT](https://github.com/UniversalDependencies/UD_Czech-CLTT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cltt27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cltt28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -105,7 +105,7 @@ http://hdl.handle.net/11234/1-1516.
 </ul>
 
 <ul>
-<li>This corpus contains 366 types of words that contain both letters and punctuation. Examples: a), b), c), d), e), f), h), g), i), j), B.II.3., jde-li, B.II.9., nestanoví-li, společníky,, t​e​c​h​n​i​c​k​o​-​e​k​o​n​o​m​i​c​k​ý​m, §_25_odst._3, A., B.II.5., M., X., XIII., nevznikla-li, §_1_odst._2_písm._b), §​_​1​_​o​d​s​t​.​_​2​_​p​í​s​m​.​_​d​)​_​a​ž​_​h​), §_4_odst._10, A.II.6., B.I., B.II.2., B.II.4., B.II.6., B.II.8., I., O., R., a)_a_b), k), písm._a), společníkům,, z​á​k​o​n​a​_​č​.​_​5​6​3​/​1​9​9​1​_​S​b​., §_18_odst._1, §_1_odst._2_písm._a), §​_​2​0​_​o​d​s​t​.​_​1​_​p​í​s​m​.​_​a​)​_​b​o​d​u​_​1, §_26_odst._3, §_31_odst._2, §_4_odst._8, B., B.II., B.II.1., B.III.4.</li>
+<li>This corpus contains 366 types of words that contain both letters and punctuation. Examples: a), b), c), d), e), f), h), g), i), j), B.II.3., jde-li, B.II.9., nestanoví-li, společníky,, technicko-ekonomickým, §_25_odst._3, A., B.II.5., M., X., XIII., nevznikla-li, §_1_odst._2_písm._b), §_1_odst._2_písm._d)_až_h), §_4_odst._10, A.II.6., B.I., B.II.2., B.II.4., B.II.6., B.II.8., I., O., R., a)_a_b), k), písm._a), společníkům,, zákona_č._563/1991_Sb., §_18_odst._1, §_1_odst._2_písm._a), §_20_odst._1_písm._a)_bodu_1, §_26_odst._3, §_31_odst._2, §_4_odst._8, B., B.II., B.II.1., B.III.4.</li>
 </ul>
 
 <ul>
@@ -131,11 +131,10 @@ http://hdl.handle.net/11234/1-1516.
 </ul>
 
 <ul>
-<li>This corpus contains 18 lemmas tagged as determiners (DET): jaký, jakýkoliv, jeho, jenž, každý, který, kterýkoliv, několik, některý, svůj, sám, takový, takovýto, ten, tento, týž, všechen, žádný</li>
+<li>This corpus contains 20 lemmas tagged as determiners (DET): jaký, jakýkoliv, jeho, jehož, jejichž, jejíž, každý, který, kterýkoliv, několik, některý, svůj, sám, takový, takovýto, ten, tento, týž, všechen, žádný</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: jenž</li>
 </ul>
 
 <ul>
@@ -445,7 +444,7 @@ http://hdl.handle.net/11234/1-1516.
 <ul>
   <li>Npr
     <ul>
-      <li>PRON: jimiž, jehož, jenž, jež, jímž</li>
+      <li>PRON: jej, je, jim, jí, jimiž, jehož, ji, jenž, jimi, jež</li>
     </ul>
   </li>
 </ul>

@@ -23,7 +23,7 @@ The following 15 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 21	fgColor:white
 # visual-style 21 19 nummod	color:blue
 1	数百万	数百万	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
+2	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No
 3	巧克力	巧克力	NOUN	NN	_	4	compound	_	SpaceAfter=No
 4	棒	棒	PART	SFN	_	6	nsubj:pass	_	SpaceAfter=No
 5	被	被	VERB	BB	Voice=Pass	6	aux:pass	_	SpaceAfter=No
@@ -34,7 +34,7 @@ The following 15 pairs of parts of speech are connected with `nummod`: <tt><a hr
 10	玛氏	玛氏	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No
 11	则	则	ADV	RB	_	12	mark	_	SpaceAfter=No
 12	中断	中断	VERB	VV	_	6	parataxis	_	SpaceAfter=No
-13	了	了	PART	AS	Aspect=Perf	12	aux:aspect	_	SpaceAfter=No
+13	了	了	AUX	AS	Aspect=Perf	12	aux	_	SpaceAfter=No
 14	生产	生产	NOUN	NN	_	12	obj	_	SpaceAfter=No
 15	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
 16	公司	公司	NOUN	NN	_	17	nmod	_	SpaceAfter=No
@@ -55,7 +55,7 @@ The following 15 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 4	fgColor:white
 # visual-style 4 1 nummod	color:blue
 1	数百万	数百万	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No
-2	的	的	PART	DEC	Case=Gen	1	case:dec	_	SpaceAfter=No
+2	的	的	PART	DEC	Case=Gen	1	case	_	SpaceAfter=No
 3	巧克力	巧克力	NOUN	NN	_	4	compound	_	SpaceAfter=No
 4	棒	棒	PART	SFN	_	6	nsubj:pass	_	SpaceAfter=No
 5	被	被	VERB	BB	Voice=Pass	6	aux:pass	_	SpaceAfter=No
@@ -66,7 +66,7 @@ The following 15 pairs of parts of speech are connected with `nummod`: <tt><a hr
 10	玛氏	玛氏	PROPN	NNP	_	12	nsubj	_	SpaceAfter=No
 11	则	则	ADV	RB	_	12	mark	_	SpaceAfter=No
 12	中断	中断	VERB	VV	_	6	parataxis	_	SpaceAfter=No
-13	了	了	PART	AS	Aspect=Perf	12	aux:aspect	_	SpaceAfter=No
+13	了	了	AUX	AS	Aspect=Perf	12	aux	_	SpaceAfter=No
 14	生产	生产	NOUN	NN	_	12	obj	_	SpaceAfter=No
 15	，	，	PUNCT	,	_	6	punct	_	SpaceAfter=No
 16	公司	公司	NOUN	NN	_	17	nmod	_	SpaceAfter=No
@@ -102,7 +102,7 @@ The following 15 pairs of parts of speech are connected with `nummod`: <tt><a hr
 14	以	以	ADP	IN	_	18	case	_	SpaceAfter=No
 15	5	5	NUM	CD	NumType=Card	16	nummod	_	_
 16	km/h	km/h	X	FW	_	18	det	_	SpaceAfter=No
-17	的	的	PART	DEC	Case=Gen	16	case:dec	_	SpaceAfter=No
+17	的	的	PART	DEC	Case=Gen	16	case	_	SpaceAfter=No
 18	速度	速度	NOUN	NN	_	20	obl	_	SpaceAfter=No
 19	逐渐	逐渐	ADV	RB	_	20	advmod	_	SpaceAfter=No
 20	提高	提高	VERB	VV	_	13	xcomp	_	SpaceAfter=No

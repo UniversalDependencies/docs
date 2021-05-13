@@ -75,7 +75,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (3277; 36% of non-empty `Person`): <em>ma, meie, me, minu, mul, meil, mind, mina, mulle, mu</em>
 * `2` (826; 9% of non-empty `Person`): <em>sa, te, teie, sinu, sul, sulle, sind, sina, su, teid</em>
 * `3` (4923; 55% of non-empty `Person`): <em>ta, tema, nad, nende, talle, tal, teda, neid, neil, neile</em>
-* `EMPTY` (13992): <em>see, oma, mis, kes, seda, mida, selle, midagi, mille, nende</em>
+* `EMPTY` (13991): <em>see, oma, mis, kes, seda, mida, selle, midagi, mille, nende</em>
 
 ### `DET`
 
@@ -86,7 +86,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 `DET` tokens may have the following values of `Person`:
 
 * `3` (1; 100% of non-empty `Person`): <em>nende</em>
-* `EMPTY` (6888): <em>see, kõik, kogu, selle, üks, iga, need, seda, sel, ühe</em>
+* `EMPTY` (6887): <em>see, kõik, kogu, selle, üks, iga, need, seda, sel, ühe</em>
 
 ### `NOUN`
 

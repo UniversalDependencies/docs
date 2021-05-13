@@ -161,7 +161,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="de_pud-dep-det.html">det</a></tt>]--> DET</tt> (2551; 100%),
+<tt>NOUN --[<tt><a href="de_pud-dep-det.html">det</a></tt>]--> DET</tt> (2581; 100%),
 <tt>NOUN --[<tt><a href="de_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1040; 100%),
 <tt>NOUN --[<tt><a href="de_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (222; 99%),
 <tt>PROPN --[<tt><a href="de_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (158; 100%),

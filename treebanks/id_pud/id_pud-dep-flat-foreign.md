@@ -63,7 +63,7 @@ The following 2 pairs of parts of speech are connected with `flat:foreign`: <tt>
 11	yang	yang	SCONJ	_	_	16	mark	_	_
 12	ke	ke	ADP	_	_	14	case	_	_
 13	dalam	dalam	NOUN	_	Number=Sing	14	nmod:lmod	_	_
-14	nya	nya	PRON	_	Number=Sing	16	obl	_	_
+14	nya	nya	PRON	_	Number=Sing|Person=3|PronType=Prs	16	obl	_	_
 15	investor	investor	NOUN	_	Number=Sing	16	nsubj	_	_
 16	memasukkan	masuk	VERB	_	Mood=Ind|Voice=Act	3	acl:relcl	_	_
 17	masing-masing	masing-masing	NOUN	_	Number=Sing	18	nmod	_	_

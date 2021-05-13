@@ -7,12 +7,12 @@ udver: '2'
 ## Treebank Statistics: UD_Turkish-IMST: Features: `PronType`
 
 This feature is universal.
-It occurs with 3 different values: `Dem`, `Ind`, `Prs`.
+It occurs with 4 different values: `Art`, `Dem`, `Ind`, `Prs`.
 
-1706 tokens (3%) have a non-empty value of `PronType`.
-178 types (1%) occur at least once with a non-empty value of `PronType`.
-21 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> (1706; 3% instances).
+2737 tokens (5%) have a non-empty value of `PronType`.
+183 types (1%) occur at least once with a non-empty value of `PronType`.
+22 lemmas (0%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> (1706; 3% instances), <tt><a href="tr_imst-pos-DET.html">DET</a></tt> (1031; 2% instances).
 
 ### `PRON`
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Dem` (359; 21% of non-empty `PronType`): <em>bu, o, bunu, bunlar, buna, bunun, bunları, onu, onun, şunları</em>
 * `Ind` (158; 9% of non-empty `PronType`): <em>biri, hepsi, birbirimize, birbirlerine, kimi, hiçbiri, birbirine, birisi, hepimiz, hepsinin</em>
 * `Prs` (1189; 70% of non-empty `PronType`): <em>ben, bana, o, beni, benim, onu, onun, ona, sen, sana</em>
-* `EMPTY` (567): <em>ne, kendi, burada, orada, kim, kendini, oraya, buraya, kendisine, kendimi</em>
+* `EMPTY` (570): <em>ne, kendi, burada, orada, kim, kendini, oraya, buraya, kendisine, kendimi</em>
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>
@@ -47,8 +47,20 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 `PronType` seems to be **lexical feature** of `PRON`. 95% lemmas (20) occur only with one value of `PronType`.
 
+### `DET`
+
+1031 <tt><a href="tr_imst-pos-DET.html">DET</a></tt> tokens (50% of all `DET` tokens) have a non-empty value of `PronType`.
+
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="tr_imst-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1031; 100%).
+
+`DET` tokens may have the following values of `PronType`:
+
+* `Art` (1031; 100% of non-empty `PronType`): <em>bir, birer, ,bir, bi, biri</em>
+* `EMPTY` (1012): <em>bu, o, her, hiçbir, tüm, birkaç, şu, bazı, birçok, kimi</em>
+
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>PRON --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> PRON</tt> (10; 77%).
+<tt>PRON --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> PRON</tt> (10; 77%),
+<tt>DET --[<tt><a href="tr_imst-dep-det.html">det</a></tt>]--> DET</tt> (2; 67%).
 

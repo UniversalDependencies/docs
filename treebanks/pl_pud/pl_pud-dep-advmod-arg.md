@@ -39,7 +39,7 @@ The following 1 pairs of parts of speech are connected with `advmod:arg`: <tt><a
 14	mną	ja	PRON	ppron12:sg:inst:m1:pri	Animacy=Hum|Case=Ins|Gender=Masc|Number=Sing|Person=1|PronType=Prs	15	obl:arg	15:obl:arg	_
 15	konfrontuje	konfrontować	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	ccomp	10:ccomp	SpaceAfter=No
 16	,	,	PUNCT	interp	PunctType=Comm	18	punct	18:punct	_
-17	niż	niż	SCONJ	comp	ConjType=Cmpr	18	mark	18:mark	_
+17	niż	niż	SCONJ	comp	ConjType=Comp	18	mark	18:mark	_
 18	kiedy	kiedy	ADV	adv	PronType=Int	15	obl:cmpr	15:obl:cmpr	_
 19	mnie	ja	PRON	ppron12:sg:gen:m1:pri:akc	Animacy=Hum|Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs|Variant=Long	20	obj	20:obj	_
 20	unika	unikać	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	ccomp	18:ccomp	SpaceAfter=No

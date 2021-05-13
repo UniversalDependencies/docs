@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Erzya-JR: Relations: `compound:redup`
 
 This relation is a language-specific subtype of <tt><a href="myv_jr-dep-compound.html">compound</a></tt>.
-There are also 3 other language-specific subtypes of `compound`: <tt><a href="myv_jr-dep-compound-coll.html">compound:coll</a></tt>, <tt><a href="myv_jr-dep-compound-prt.html">compound:prt</a></tt>, <tt><a href="myv_jr-dep-compound-svc.html">compound:svc</a></tt>.
+There are also 1 other language-specific subtypes of `compound`: <tt><a href="myv_jr-dep-compound-prt.html">compound:prt</a></tt>.
 
 2 nodes (0%) are attached to their parents as `compound:redup`.
 
@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `compound:redup`: <t
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 compound:redup	color:blue
-1	Сэтьместэ	сэтьместэ	ADV	Adv	Case=Ela	6	advmod	_	GTtags=Ela
+1	Сэтьместэ	сэтьместэ	ADV	Adv	Case=Ela	6	advmod:mmod	_	GTtags=Ela
 2	сэтьместэ	сэтьместэ	ADV	Adv	_	1	compound:redup	_	_
 3	чи	чи	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	5	compound	_	GTtags=Sg,Nom,Indef
 4	лисема	лисема	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	5	compound	_	GTtags=Sg,Nom,Indef
@@ -33,8 +33,8 @@ The following 2 pairs of parts of speech are connected with `compound:redup`: <t
 8	ды	ды	CCONJ	CC	_	9	cc	_	_
 9	тулкадизе	тулкадемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past|Valency=2	6	conj	_	GTtags=TV,Ind,Prt1,ScSg3,OcSg3
 10	чопуданть	чопуда	NOUN	N	Case=Gen|Definite=Def|Number=Sing	9	obj	_	GTtags=Sg,Gen,Def
-11	тайганть	тайга	NOUN	N	Case=Gen|Definite=Def|Number=Sing	12	nmod:part	_	GTtags=Sg,Gen,Def
-12	вельксстэ	велькс	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	9	obl:lmod	_	GTtags=SP,Ela,Indef|SpaceAfter=No
+11	тайганть	тайга	NOUN	N	Case=Gen|Definite=Def|Number=Sing	12	nmod	_	GTtags=Sg,Gen,Def
+12	вельксстэ	велькс	NOUN	N	Case=Ela|Definite=Ind|Number=Plur,Sing	9	obl:lfrom	_	GTtags=SP,Ela,Indef|SpaceAfter=No
 13	.	.	PUNCT	CLB	_	6	punct	_	_
 
 ~~~

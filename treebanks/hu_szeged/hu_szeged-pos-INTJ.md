@@ -44,17 +44,17 @@ The 3rd highest number of forms (1) was observed with the lemma “na”: <em>na
 
 Parents of `INTJ` nodes belong to 5 different parts of speech: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (6; 46% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (3; 23% instances),  (2; 15% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (1; 8% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (1; 8% instances)
 
-11 (85%) `INTJ` nodes are leaves.
+8 (62%) `INTJ` nodes are leaves.
 
-0 (0%) `INTJ` nodes have one child.
+3 (23%) `INTJ` nodes have one child.
 
 0 (0%) `INTJ` nodes have two children.
 
 2 (15%) `INTJ` nodes have three or more children.
 
-The highest child degree of a `INTJ` node is 4.
+The highest child degree of a `INTJ` node is 3.
 
-Children of `INTJ` nodes are attached using 3 different relations: <tt><a href="hu_szeged-dep-punct.html">punct</a></tt> (5; 71% instances), <tt><a href="hu_szeged-dep-advcl.html">advcl</a></tt> (1; 14% instances), <tt><a href="hu_szeged-dep-conj.html">conj</a></tt> (1; 14% instances)
+Children of `INTJ` nodes are attached using 3 different relations: <tt><a href="hu_szeged-dep-punct.html">punct</a></tt> (7; 78% instances), <tt><a href="hu_szeged-dep-advcl.html">advcl</a></tt> (1; 11% instances), <tt><a href="hu_szeged-dep-conj.html">conj</a></tt> (1; 11% instances)
 
-Children of `INTJ` nodes belong to 3 different parts of speech: <tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (5; 71% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (1; 14% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (1; 14% instances)
+Children of `INTJ` nodes belong to 3 different parts of speech: <tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (7; 78% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (1; 11% instances), <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (1; 11% instances)
 

@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Kazakh-KTB: Features: `PronType`
 
-This feature is universal but the values `Qnt`, `Ref` are language-specific.
-It occurs with 9 different values: `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Qnt`, `Rcp`, `Ref`, `Tot`.
+This feature is universal.
+It occurs with 7 different values: `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rcp`, `Tot`.
 
 744 tokens (7%) have a non-empty value of `PronType`.
 213 types (5%) occur at least once with a non-empty value of `PronType`.
@@ -26,11 +26,9 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Ind` (9; 2% of non-empty `PronType`): <em>біреу, Бірінен, бірдеме, біреуге, біреудің, нәрсе, Әрбіреудің</em>
 * `Int` (60; 12% of non-empty `PronType`): <em>не, кім, қандай, қанша, немене, кімге, Кімді, Неліктен, Неміз, кіммен</em>
 * `Neg` (15; 3% of non-empty `PronType`): <em>ешкім, Ешкімді, ешкімге, ешқандай, Ештеңе, еш нәрсені</em>
-* `Prs` (240; 49% of non-empty `PronType`): <em>біз, мен, ол, біздің, оның, олар, сіздің, оны, сені, Сіз</em>
-* `Qnt` (13; 3% of non-empty `PronType`): <em>бәрі, барлығы, бәрін, бірқатары, күллі</em>
+* `Prs` (271; 55% of non-empty `PronType`): <em>біз, мен, ол, біздің, оның, олар, өзі, сіздің, оны, сені</em>
 * `Rcp` (1; 0% of non-empty `PronType`): <em>бір-бірімен</em>
-* `Ref` (31; 6% of non-empty `PronType`): <em>өзі, өзінің, өзіміздің, өзінде, өзінше, өздері, өздерінің, өздерің, өзін, өзін-өзі</em>
-* `Tot` (1; 0% of non-empty `PronType`): <em>баршаға</em>
+* `Tot` (14; 3% of non-empty `PronType`): <em>бәрі, барлығы, бәрін, баршаға, бірқатары, күллі</em>
 
 <table>
   <tr><th>Paradigm <i>ол</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>
@@ -62,8 +60,8 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Ind` (31; 14% of non-empty `PronType`): <em>бір, кейбір, сондай, Кей, Осындай, басқа, түрлі, Әлдебір</em>
 * `Int` (15; 7% of non-empty `PronType`): <em>қай, не, қандай</em>
 * `Neg` (5; 2% of non-empty `PronType`): <em>ешқандай, ешбір</em>
-* `Qnt` (44; 20% of non-empty `PronType`): <em>барлық, әр, бүкіл, бірқатар, көп, көптеген, қанша, бірнеше, Бірталай, бірсыпыра</em>
-* `Ref` (13; 6% of non-empty `PronType`): <em>өз</em>
+* `Prs` (13; 6% of non-empty `PronType`): <em>өз</em>
+* `Tot` (44; 20% of non-empty `PronType`): <em>барлық, әр, бүкіл, бірқатар, көп, көптеген, қанша, бірнеше, Бірталай, бірсыпыра</em>
 
 <table>
   <tr><th>Paradigm <i>осындай</i></th><th><tt>Dem</tt></th><th><tt>Ind</tt></th></tr>

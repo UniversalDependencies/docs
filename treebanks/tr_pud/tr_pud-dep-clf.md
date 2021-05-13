@@ -27,7 +27,7 @@ The following 1 pairs of parts of speech are connected with `clf`: <tt><a href="
 3	maçta	maç	NOUN	NN	Case=Loc|Number=Sing	6	obl	_	_
 4	71	71	NUM	CD	Number=Sing	5	nummod	_	_
 5	gol	gol	NOUN	NN	Number=Sing	6	obj	_	_
-6	kaydederek	kaydet	ADV	CRB	Polarity=Pos	12	advcl	_	_
+6	kaydederek	kaydet	ADV	CRB	_	12	advcl	_	_
 7	DFB	Dfb	PROPN	PROPN	Number=Sing	12	obl	_	Proper=True
 8	için	için	ADP	IN	_	7	case	_	_
 9	rekor	rekor	NOUN	NN	Number=Sing	10	nmod:poss	_	_

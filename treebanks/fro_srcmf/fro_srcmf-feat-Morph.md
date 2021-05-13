@@ -9,30 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `VFin`, `VInf`, `VPar`.
 
-237 tokens (0%) have a non-empty value of `Morph`.
-141 types (1%) occur at least once with a non-empty value of `Morph`.
+51 tokens (0%) have a non-empty value of `Morph`.
+36 types (0%) occur at least once with a non-empty value of `Morph`.
 1 lemmas (0) occur at least once with a non-empty value of `Morph`.
-The feature is used with 9 part-of-speech tags: <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt> (124; 0% instances), <tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt> (70; 0% instances), <tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> (20; 0% instances), <tt><a href="fro_srcmf-pos-AUX.html">AUX</a></tt> (7; 0% instances), <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="fro_srcmf-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="fro_srcmf-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
-
-### `ADJ`
-
-124 <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `Morph`.
-
-`ADJ` tokens may have the following values of `Morph`:
-
-* `VFin` (1; 1% of non-empty `Morph`): <em>asuage</em>
-* `VInf` (2; 2% of non-empty `Morph`): <em>droiturier, ácustumiers</em>
-* `VPar` (121; 98% of non-empty `Morph`): <em>dolenz, dolent, avenanz, vaillant, vaillanz, confés, dolanz, flurie, joiant, avenant</em>
-
-### `NOUN`
-
-70 <tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Morph`.
-
-`NOUN` tokens may have the following values of `Morph`:
-
-* `VFin` (17; 24% of non-empty `Morph`): <em>acorde, aiüe, alge, chastie, curt, dreit, duinst, esrages, estencele, façon</em>
-* `VInf` (9; 13% of non-empty `Morph`): <em>deçoivre, Fuïr, clergier, curre, enconbrier, espleiter, parler, pleisir</em>
-* `VPar` (44; 63% of non-empty `Morph`): <em>semblant, senblant, mort, sanblant, descovert, dit, fait, remanant, ajustee, anchanté</em>
+The feature is used with 7 part-of-speech tags: <tt><a href="fro_srcmf-pos-ADP.html">ADP</a></tt> (20; 0% instances), <tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt> (17; 0% instances), <tt><a href="fro_srcmf-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="fro_srcmf-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="fro_srcmf-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="fro_srcmf-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `ADP`
 
@@ -45,26 +25,13 @@ The most frequent other feature values with which `ADP` and `Morph` co-occurred:
 * `VFin` (11; 55% of non-empty `Morph`): <em>a, ad</em>
 * `VPar` (9; 45% of non-empty `Morph`): <em>voiant, oiant</em>
 
-### `AUX`
+### `NOUN`
 
-7 <tt><a href="fro_srcmf-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Morph`.
+17 <tt><a href="fro_srcmf-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Morph`.
 
-The most frequent other feature values with which `AUX` and `Morph` co-occurred: <tt><a href="fro_srcmf-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (7; 100%).
+`NOUN` tokens may have the following values of `Morph`:
 
-`AUX` tokens may have the following values of `Morph`:
-
-* `VFin` (6; 86% of non-empty `Morph`): <em>a</em>
-* `VPar` (1; 14% of non-empty `Morph`): <em>avenanz</em>
-
-### `VERB`
-
-5 <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Morph`.
-
-The most frequent other feature values with which `VERB` and `Morph` co-occurred: <tt><a href="fro_srcmf-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="fro_srcmf-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (5; 100%).
-
-`VERB` tokens may have the following values of `Morph`:
-
-* `VFin` (5; 100% of non-empty `Morph`): <em>a</em>
+* `VFin` (17; 100% of non-empty `Morph`): <em>acorde, aiüe, alge, chastie, curt, dreit, duinst, esrages, estencele, façon</em>
 
 ### `ADV`
 
@@ -86,6 +53,15 @@ The most frequent other feature values with which `ADV` and `Morph` co-occurred:
 * `VFin` (1; 25% of non-empty `Morph`): <em>cuntredie</em>
 * `VPar` (3; 75% of non-empty `Morph`): <em>Flurit, Perdut, Sevree</em>
 
+### `ADJ`
+
+3 <tt><a href="fro_srcmf-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Morph`.
+
+`ADJ` tokens may have the following values of `Morph`:
+
+* `VFin` (1; 33% of non-empty `Morph`): <em>asuage</em>
+* `VInf` (2; 67% of non-empty `Morph`): <em>droiturier, ácustumiers</em>
+
 ### `INTJ`
 
 2 <tt><a href="fro_srcmf-pos-INTJ.html">INTJ</a></tt> tokens (2% of all `INTJ` tokens) have a non-empty value of `Morph`.
@@ -101,9 +77,4 @@ The most frequent other feature values with which `ADV` and `Morph` co-occurred:
 `CCONJ` tokens may have the following values of `Morph`:
 
 * `VFin` (1; 100% of non-empty `Morph`): <em>Et</em>
-
-## Relations with Agreement in `Morph`
-
-The 10 most frequent relations where parent and child node agree in `Morph`:
-<tt>VERB --[<tt><a href="fro_srcmf-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%).
 

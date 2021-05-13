@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-PUD: POS Tags: `CCONJ`
 
 There are 6 `CCONJ` lemmas (0%), 6 `CCONJ` types (0%) and 561 `CCONJ` tokens (2%).
-Out of 16 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 14 in number of types and 11 in number of tokens.
+Out of 15 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 14 in number of types and 11 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>et, mais, ou, car, and, où</em>
 
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>and</em> (<tt><a href="fr_pud-pos-CCO
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.295763).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.297529).
 
 The 1st highest number of forms (1) was observed with the lemma “and”: <em>and</em>.
 
@@ -42,7 +42,7 @@ The 3rd highest number of forms (1) was observed with the lemma “et”: <em>et
 
 `CCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="fr_pud-dep-cc.html">cc</a></tt> (536; 96% instances), <tt><a href="fr_pud-dep-discourse.html">discourse</a></tt> (24; 4% instances), <tt><a href="fr_pud-dep-fixed.html">fixed</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (224; 40% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (218; 39% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (51; 9% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (47; 8% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (9; 2% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (224; 40% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (215; 38% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (51; 9% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (47; 8% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (9; 2% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
 555 (99%) `CCONJ` nodes are leaves.
 

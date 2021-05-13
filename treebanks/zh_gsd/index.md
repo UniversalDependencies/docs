@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Mo Shen, Ryan McDonald, Daniel Zeman, Peng Qi.
 
 Repository: [UD_Chinese-GSD](https://github.com/UniversalDependencies/UD_Chinese-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_gsd27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_gsd28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -57,11 +57,11 @@ Google.
 
 ## Features
 
-[Aspect](zh_gsd-feat-Aspect.html) – [Case](zh_gsd-feat-Case.html) – [Mood](zh_gsd-feat-Mood.html) – [Number](zh_gsd-feat-Number.html) – [NumType](zh_gsd-feat-NumType.html) – [Person](zh_gsd-feat-Person.html) – [Polarity](zh_gsd-feat-Polarity.html) – [Voice](zh_gsd-feat-Voice.html)
+[Aspect](zh_gsd-feat-Aspect.html) – [Case](zh_gsd-feat-Case.html) – [Number](zh_gsd-feat-Number.html) – [NumType](zh_gsd-feat-NumType.html) – [PartType](zh_gsd-feat-PartType.html) – [Person](zh_gsd-feat-Person.html) – [Polarity](zh_gsd-feat-Polarity.html) – [Voice](zh_gsd-feat-Voice.html)
 
 ## Relations
 
-[acl](zh_gsd-dep-acl.html) – [acl:relcl](zh_gsd-dep-acl-relcl.html) – [advcl](zh_gsd-dep-advcl.html) – [advmod](zh_gsd-dep-advmod.html) – [amod](zh_gsd-dep-amod.html) – [appos](zh_gsd-dep-appos.html) – [aux](zh_gsd-dep-aux.html) – [aux:aspect](zh_gsd-dep-aux-aspect.html) – [aux:pass](zh_gsd-dep-aux-pass.html) – [case](zh_gsd-dep-case.html) – [case:dec](zh_gsd-dep-case-dec.html) – [case:pref](zh_gsd-dep-case-pref.html) – [case:suff](zh_gsd-dep-case-suff.html) – [cc](zh_gsd-dep-cc.html) – [ccomp](zh_gsd-dep-ccomp.html) – [clf](zh_gsd-dep-clf.html) – [compound](zh_gsd-dep-compound.html) – [conj](zh_gsd-dep-conj.html) – [cop](zh_gsd-dep-cop.html) – [csubj](zh_gsd-dep-csubj.html) – [csubj:pass](zh_gsd-dep-csubj-pass.html) – [det](zh_gsd-dep-det.html) – [discourse](zh_gsd-dep-discourse.html) – [dislocated](zh_gsd-dep-dislocated.html) – [flat:foreign](zh_gsd-dep-flat-foreign.html) – [flat:name](zh_gsd-dep-flat-name.html) – [iobj](zh_gsd-dep-iobj.html) – [mark](zh_gsd-dep-mark.html) – [mark:advb](zh_gsd-dep-mark-advb.html) – [mark:comp](zh_gsd-dep-mark-comp.html) – [mark:relcl](zh_gsd-dep-mark-relcl.html) – [nmod](zh_gsd-dep-nmod.html) – [nmod:tmod](zh_gsd-dep-nmod-tmod.html) – [nsubj](zh_gsd-dep-nsubj.html) – [nsubj:pass](zh_gsd-dep-nsubj-pass.html) – [nummod](zh_gsd-dep-nummod.html) – [obj](zh_gsd-dep-obj.html) – [obl](zh_gsd-dep-obl.html) – [obl:patient](zh_gsd-dep-obl-patient.html) – [orphan](zh_gsd-dep-orphan.html) – [parataxis](zh_gsd-dep-parataxis.html) – [punct](zh_gsd-dep-punct.html) – [reparandum](zh_gsd-dep-reparandum.html) – [root](zh_gsd-dep-root.html) – [vocative](zh_gsd-dep-vocative.html) – [xcomp](zh_gsd-dep-xcomp.html)
+[acl](zh_gsd-dep-acl.html) – [acl:relcl](zh_gsd-dep-acl-relcl.html) – [advcl](zh_gsd-dep-advcl.html) – [advmod](zh_gsd-dep-advmod.html) – [amod](zh_gsd-dep-amod.html) – [appos](zh_gsd-dep-appos.html) – [aux](zh_gsd-dep-aux.html) – [aux:pass](zh_gsd-dep-aux-pass.html) – [case](zh_gsd-dep-case.html) – [cc](zh_gsd-dep-cc.html) – [ccomp](zh_gsd-dep-ccomp.html) – [clf](zh_gsd-dep-clf.html) – [compound](zh_gsd-dep-compound.html) – [compound:ext](zh_gsd-dep-compound-ext.html) – [conj](zh_gsd-dep-conj.html) – [cop](zh_gsd-dep-cop.html) – [csubj](zh_gsd-dep-csubj.html) – [csubj:pass](zh_gsd-dep-csubj-pass.html) – [det](zh_gsd-dep-det.html) – [discourse](zh_gsd-dep-discourse.html) – [discourse:sp](zh_gsd-dep-discourse-sp.html) – [dislocated](zh_gsd-dep-dislocated.html) – [flat:foreign](zh_gsd-dep-flat-foreign.html) – [flat:name](zh_gsd-dep-flat-name.html) – [iobj](zh_gsd-dep-iobj.html) – [mark](zh_gsd-dep-mark.html) – [mark:adv](zh_gsd-dep-mark-adv.html) – [mark:rel](zh_gsd-dep-mark-rel.html) – [nmod](zh_gsd-dep-nmod.html) – [nmod:tmod](zh_gsd-dep-nmod-tmod.html) – [nsubj](zh_gsd-dep-nsubj.html) – [nsubj:pass](zh_gsd-dep-nsubj-pass.html) – [nummod](zh_gsd-dep-nummod.html) – [obj](zh_gsd-dep-obj.html) – [obl](zh_gsd-dep-obl.html) – [obl:patient](zh_gsd-dep-obl-patient.html) – [orphan](zh_gsd-dep-orphan.html) – [parataxis](zh_gsd-dep-parataxis.html) – [punct](zh_gsd-dep-punct.html) – [reparandum](zh_gsd-dep-reparandum.html) – [root](zh_gsd-dep-root.html) – [vocative](zh_gsd-dep-vocative.html) – [xcomp](zh_gsd-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -95,7 +95,7 @@ Google.
 </ul>
 
 <ul>
-<li>This corpus contains 585 word types tagged as particles (PART): 不, 中, 主, 之, 了, 事, 井, 亞, 亭, 人, 今, 代, 令, 位, 低, 佛, 作, 佬, 使, 侯, 俠, 信, 們, 值, 側, 偽, 傳, 僑, 價, 元, 先, 光, 光棍, 內, 公, 兵, 典, 冠, 冢, 冷, 准, 刀, 分, 列, 制, 券, 前, 副, 劇, 劍, 劑, 力, 功, 劣, 包, 化, 區, 半, 卡, 卿, 原, 友, 口, 古, 台, 史, 司, 同, 名, 君, 否, 吧, 呀, 呢, 周, 味, 和美, 品, 哈爾濱, 員, 商, 啊, 單, 嗎, 嘴, 器, 因, 圈, 國, 圍, 園, 圓, 圖, 團, 土, 地, 坊, 坡, 型, 城, 埤, 基, 堂, 堡, 堤, 報, 場, 塔, 塘, 墓, 墟, 墳, 壓, 士, 外, 多, 夜, 夢, 大, 天, 夾, 奏, 套, 女, 奸, 好, 妃, 妹, 始, 娘, 婆, 婦, 子, 孔, 字, 季, 學, 宏, 宗, 官, 客, 室, 宮, 家, 富, 審, 寬, 寺, 將, 對, 小, 尖, 局, 屋, 屍, 展, 層, 屬, 屯, 山, 岩, 岸, 峰, 島, 峽, 崖, 崗, 嶺, 嶼, 川, 州, 工, 巷, 市, 布, 帝, 師, 席, 帶, 帽, 幣, 幫, 年, 床, 底, 店, 府, 度, 座, 庫, 庭, 廟, 廠, 廬, 廳, 廷, 式, 強, 彈, 彎, 形, 後, 徑, 徒, 得, 御, 微, 徽, 心, 志, 快, 性, 怪, 恆, 感, 態, 戀, 戰, 戲, 戶, 房, 所, 手, 打, 拖, 擋, 支, 教, 數, 文, 新, 方, 族, 旗, 日, 星, 晚, 暖, 暗, 曲, 書, 會, 月, 服, 朝, 期, 本, 材, 村, 束, 杯, 板, 林, 架, 校, 株, 核, 格, 案, 桿, 梁, 棍, 棒, 棚, 業, 榜, 槍, 槳, 樂, 樓, 樹, 橋, 橙, 機, 橢, 檔, 櫃, 權, 次, 款, 歌, 正, 死, 段, 殿, 母, 毒, 氏, 氣, 水, 江, 池, 河, 沼, 泉, 法, 波, 洋, 洞, 洲, 派, 浦, 海, 涌, 液, 淡, 深, 混, 淺, 清, 渡, 港, 湖, 準, 溝, 溥儀, 溪, 滿, 滿洲, 潮, 澡, 澳, 濁, 濃, 灘, 灣, 火, 炎, 炮, 烴, 煙, 熱, 營, 爐, 父, 爺, 牆, 片, 版, 牌, 物, 犯, 狀, 狂, 狗, 獅, 獎, 率, 王, 班, 球, 琴, 生, 男, 町, 界, 畔, 畫, 病, 症, 癌, 癖, 的, 的話, 皮, 盃, 目, 省, 眼, 眾, 督, 短, 石, 砲, 硅, 碑, 碼, 礁, 礦, 社, 神, 祠, 禮, 秀, 秋, 科, 秤, 稅, 種, 窟, 窯, 站, 端, 符, 笨, 等, 管, 箱, 節, 篇, 籍, 米, 粉, 精, 系, 紀, 紅, 紋, 純, 紙, 級, 素, 組, 結, 綉, 綜, 綫, 綱, 網, 線, 縣, 總, 罩, 罪, 署, 羊, 美, 群, 翁, 老, 者, 而已, 聖, 肉, 胎, 胚, 能, 腔, 腳, 腿, 膜, 膠, 臉, 臨, 臺, 舊, 舞, 船, 艇, 艙, 艦, 色, 花, 茶, 莊, 菌, 菜, 葉, 著, 藍, 藤, 藥, 藩, 處, 號, 蛙, 行, 術, 街, 衛, 衣, 表, 裔, 裙, 製, 褲, 親, 觀, 角, 記, 詞, 詩, 話, 誌, 語, 說, 課, 論, 證, 譜, 變, 谷, 豆, 象, 貓, 費, 資, 質, 賽, 超, 路, 躁, 身, 車, 軍, 軒, 軟, 軸, 輕, 近, 迷, 通, 週, 過, 道, 遠, 邊, 邦, 邨, 郎, 郡, 部, 都, 鄉, 配, 酒, 酸, 醣, 醫, 里, 重, 量, 金, 針, 銘, 鋼, 錄, 錦, 鍋, 鍵, 鎮, 鏈, 鏡, 鐵, 長, 門, 間, 閣, 關, 院, 陵, 陸, 隊, 階, 際, 集, 電, 非, 面, 音, 頂, 頭, 題, 額, 類, 風, 飯, 餅, 餐, 館, 饃, 馬, 駅, 骨, 體, 高, 鬥, 鬼, 魚, 鮮, 鳥, 鹼, 點, 黨, 齋</li>
+<li>This corpus contains 583 word types tagged as particles (PART): 不, 中, 主, 之, 了, 事, 井, 亞, 亭, 人, 今, 代, 令, 位, 低, 佛, 作, 佬, 使, 侯, 俠, 信, 們, 值, 側, 偽, 傳, 僑, 價, 元, 先, 光, 光棍, 內, 公, 兵, 典, 冠, 冢, 冷, 准, 刀, 分, 列, 制, 券, 前, 副, 劇, 劍, 劑, 力, 功, 劣, 包, 化, 區, 半, 卡, 卿, 原, 友, 口, 古, 台, 史, 司, 同, 名, 君, 否, 吧, 呀, 呢, 周, 味, 和美, 品, 哈爾濱, 員, 商, 啊, 單, 嗎, 嘴, 器, 因, 圈, 國, 圍, 園, 圓, 圖, 團, 土, 地, 坊, 坡, 型, 城, 埤, 基, 堂, 堡, 堤, 報, 場, 塔, 塘, 墓, 墟, 墳, 壓, 士, 外, 多, 夜, 夢, 大, 天, 夾, 奏, 套, 女, 奸, 好, 妃, 妹, 始, 娘, 婆, 婦, 子, 孔, 字, 季, 學, 宏, 宗, 官, 客, 室, 宮, 家, 富, 審, 寬, 寺, 將, 對, 小, 尖, 局, 屋, 屍, 展, 層, 屬, 屯, 山, 岩, 岸, 峰, 島, 峽, 崖, 崗, 嶺, 嶼, 川, 州, 工, 巷, 市, 布, 帝, 師, 席, 帶, 帽, 幣, 幫, 年, 床, 底, 店, 府, 度, 座, 庫, 庭, 廟, 廠, 廬, 廳, 廷, 式, 強, 彈, 彎, 形, 後, 徑, 徒, 得, 御, 微, 徽, 心, 志, 快, 性, 怪, 恆, 感, 態, 戀, 戰, 戲, 戶, 房, 所, 手, 打, 拖, 擋, 支, 教, 數, 文, 新, 方, 族, 旗, 日, 星, 晚, 暖, 暗, 曲, 書, 會, 月, 服, 朝, 期, 本, 材, 村, 束, 杯, 板, 林, 架, 校, 株, 核, 格, 案, 桿, 梁, 棍, 棒, 棚, 業, 榜, 槍, 槳, 樂, 樓, 樹, 橋, 橙, 機, 橢, 檔, 櫃, 權, 次, 款, 歌, 正, 死, 段, 殿, 母, 毒, 氏, 氣, 水, 江, 池, 河, 沼, 泉, 法, 波, 洋, 洞, 洲, 派, 浦, 海, 涌, 液, 淡, 深, 混, 淺, 清, 渡, 港, 湖, 準, 溝, 溥儀, 溪, 滿, 滿洲, 潮, 澡, 澳, 濁, 濃, 灘, 灣, 火, 炎, 炮, 烴, 煙, 熱, 營, 爐, 父, 爺, 牆, 片, 版, 牌, 物, 犯, 狀, 狂, 狗, 獅, 獎, 率, 王, 班, 球, 琴, 生, 男, 町, 界, 畔, 畫, 病, 症, 癌, 癖, 的, 的話, 皮, 盃, 目, 省, 眼, 眾, 督, 短, 石, 砲, 硅, 碑, 碼, 礁, 礦, 社, 神, 祠, 禮, 秀, 秋, 科, 秤, 稅, 種, 窟, 窯, 站, 端, 符, 笨, 等, 管, 箱, 節, 篇, 籍, 米, 粉, 精, 系, 紀, 紅, 紋, 純, 紙, 級, 素, 組, 結, 綉, 綜, 綫, 綱, 網, 線, 縣, 總, 罩, 罪, 署, 羊, 美, 群, 翁, 老, 者, 而已, 聖, 肉, 胎, 胚, 能, 腔, 腳, 腿, 膜, 膠, 臉, 臨, 臺, 舊, 舞, 船, 艇, 艙, 艦, 色, 花, 茶, 莊, 菌, 菜, 葉, 藍, 藤, 藥, 藩, 處, 號, 蛙, 行, 術, 街, 衛, 衣, 表, 裔, 裙, 製, 褲, 親, 觀, 角, 記, 詞, 詩, 話, 誌, 語, 說, 課, 論, 證, 譜, 變, 谷, 豆, 象, 貓, 費, 資, 質, 賽, 超, 路, 躁, 身, 車, 軍, 軒, 軟, 軸, 輕, 近, 迷, 通, 週, 道, 遠, 邊, 邦, 邨, 郎, 郡, 部, 都, 鄉, 配, 酒, 酸, 醣, 醫, 里, 重, 量, 金, 針, 銘, 鋼, 錄, 錦, 鍋, 鍵, 鎮, 鏈, 鏡, 鐵, 長, 門, 間, 閣, 關, 院, 陵, 陸, 隊, 階, 際, 集, 電, 非, 面, 音, 頂, 頭, 題, 額, 類, 風, 飯, 餅, 餐, 館, 饃, 馬, 駅, 骨, 體, 高, 鬥, 鬼, 魚, 鮮, 鳥, 鹼, 點, 黨, 齋</li>
 </ul>
 
 <ul>
@@ -111,11 +111,11 @@ Google.
 </ul>
 
 <ul>
-<li>This corpus contains 165 lemmas tagged as auxiliaries (AUX): 一爭, 上表, 不可, 不夠, 不得, 不想, 不應, 不是, 不會, 不準, 不肯, 不能, 不要, 不該, 不需, 不願, 且是, 並非, 也是, 亦是, 亦為, 仍是, 仍算, 令, 以為, 以爲, 來, 便是, 保存, 保級, 修復, 做, 傳, 像, 出手, 分布, 則是, 則為, 努力, 包裹, 即, 卻是, 又是, 只是, 只能, 可, 可以, 可能, 吃, 喜, 執政, 增長, 夠, 如, 如同, 實屬, 對此, 就是, 差, 形容, 形成, 影響, 待, 得, 得寵, 必, 必須, 想, 愛, 感到, 感覺, 應, 應當, 應該, 或是, 才是, 打, 排行, 接唱, 接觸, 控制, 推進, 損失, 敢, 日趨, 是, 是否, 是否是, 更是, 更為, 更趨, 會, 有, 有些, 未能, 染色, 欲, 正是, 沒有, 沒能, 治軍, 流沙, 涉世, 深感, 減慢, 準備, 為, 為人, 爭辯, 爲, 獲利, 畫, 當, 發展, 發育, 監管, 看, 看似, 看得, 私交, 突感, 管理, 而是, 而非, 肯, 能, 能否, 能夠, 表現, 表示, 裝, 要, 要求, 覺得, 認為, 認識, 誤信, 請, 謂, 變, 變得, 負債, 趨, 趨於, 辦, 辦學, 連任, 運作, 達到, 還是, 都是, 開口, 開始, 關心, 降解, 離開, 難過, 需, 需要, 非, 靠, 須, 願意, 顯, 顯得</li>
+<li>This corpus contains 156 lemmas tagged as auxiliaries (AUX): 一爭, 上表, 不可, 不夠, 不得, 不想, 不應, 不是, 不會, 不準, 不肯, 不能, 不要, 不該, 不需, 不願, 且是, 並非, 也是, 了, 亦是, 亦為, 仍是, 仍算, 令, 以為, 以爲, 便是, 保存, 保級, 修復, 像, 出手, 分布, 則是, 則為, 努力, 包裹, 即, 卻是, 又是, 只是, 只能, 可, 可以, 可能, 喜, 執政, 增長, 夠, 如, 如同, 實屬, 對此, 就是, 差, 形容, 形成, 影響, 待, 得, 得寵, 必, 必須, 想, 愛, 感到, 感覺, 應, 應當, 應該, 或是, 才是, 排行, 接唱, 接觸, 控制, 推進, 損失, 敢, 日趨, 是, 是否, 是否是, 更是, 更為, 更趨, 會, 有, 有些, 未能, 染色, 欲, 正是, 沒有, 沒能, 治軍, 流沙, 涉世, 深感, 減慢, 準備, 為, 為人, 爲, 獲利, 當, 發展, 發育, 監管, 看, 看似, 看得, 私交, 突感, 而是, 而非, 肯, 能, 能否, 能夠, 著, 表現, 表示, 裝, 要, 要求, 覺得, 認為, 認識, 誤信, 請, 謂, 變, 變得, 負債, 趨, 趨於, 辦學, 連任, 過, 達到, 還是, 都是, 開口, 開始, 關心, 降解, 離開, 難過, 需, 需要, 非, 須, 願意, 顯得</li>
 </ul>
 
 <ul>
-<li>Out of the above, 96 lemmas occurred sometimes as AUX and sometimes as VERB: 上表, 不夠, 不得, 不是, 並非, 也是, 亦為, 令, 以為, 來, 保存, 保級, 修復, 做, 傳, 像, 出手, 分布, 則是, 努力, 即, 卻是, 又是, 吃, 執政, 增長, 夠, 如, 如同, 對此, 就是, 形容, 形成, 影響, 待, 得, 得寵, 必須, 想, 愛, 感到, 打, 排行, 接唱, 接觸, 控制, 推進, 損失, 是, 是否, 有, 有些, 染色, 正是, 沒有, 準備, 為, 爲, 獲利, 畫, 當, 發展, 發育, 監管, 看, 管理, 而是, 而非, 表現, 表示, 裝, 要, 要求, 覺得, 認為, 認識, 誤信, 請, 謂, 變, 趨, 辦, 連任, 運作, 達到, 都是, 開口, 開始, 關心, 降解, 離開, 需, 需要, 非, 靠, 顯得</li>
+<li>Out of the above, 89 lemmas occurred sometimes as AUX and sometimes as VERB: 上表, 不夠, 不得, 不是, 並非, 也是, 了, 亦為, 令, 以為, 保存, 保級, 修復, 像, 出手, 分布, 則是, 努力, 即, 卻是, 又是, 執政, 增長, 夠, 如, 如同, 對此, 就是, 形容, 形成, 影響, 待, 得, 得寵, 必須, 想, 愛, 感到, 排行, 接唱, 接觸, 控制, 推進, 損失, 是, 是否, 有, 有些, 染色, 正是, 沒有, 準備, 為, 爲, 獲利, 當, 發展, 發育, 監管, 看, 而是, 而非, 著, 表現, 表示, 裝, 要, 要求, 覺得, 認為, 認識, 誤信, 請, 謂, 變, 趨, 連任, 過, 達到, 都是, 開口, 開始, 關心, 降解, 離開, 需, 需要, 非, 顯得</li>
 </ul>
 
 <ul>
@@ -183,7 +183,8 @@ Google.
 <ul>
   <li>Perf
     <ul>
-      <li>PART: 了, 過</li>
+      <li>AUX: 了, 過</li>
+      <li>PART: 了</li>
     </ul>
   </li>
 </ul>
@@ -191,22 +192,11 @@ Google.
 <ul>
   <li>Prog
     <ul>
-      <li>PART: 著</li>
+      <li>AUX: 著</li>
     </ul>
   </li>
 </ul>
 
-<ul>
-  <li><a>Mood</a></li>
-</ul>
-
-<ul>
-  <li>Inter
-    <ul>
-      <li>PART: 呢, 嗎, 啊</li>
-    </ul>
-  </li>
-</ul>
 
 
 <ul>
@@ -292,16 +282,28 @@ Google.
 <h3>Other Features</h3>
 
 
+<ul>
+  <li><a>PartType</a>
+    <ul>
+      <li>Int
+        <ul>
+          <li>PART: 呢, 嗎, 啊</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 135 lemmas as copulas (<a>cop</a>). Examples: 是、 為、 也是、 就是、 不是、 即、 都是、 感到、 非、 則是、 變、 亦是、 亦為、 而是、 並非、 則為、 發展、 而非、 表現、 影響、 還是、 顯得、 做、 卻是、 夠、 如、 控制、 是否是、 為人、 爲、 獲利、 看似、 裝、 謂、 變得、 連任、 一爭、 上表、 不夠、 且是、 仍是、 仍算、 令、 以為、 以爲、 低、 來、 便宜、 便是、 保存.</li>
+<li>This corpus uses 122 lemmas as copulas (<a>cop</a>). Examples: 是、 為、 也是、 就是、 不是、 即、 都是、 感到、 非、 則是、 亦是、 亦為、 而是、 並非、 則為、 發展、 而非、 影響、 表現、 還是、 顯得、 卻是、 夠、 如、 控制、 是否是、 為人、 爲、 獲利、 看似、 裝、 謂、 變得、 連任、 一爭、 上表、 不夠、 且是、 仍是、 仍算、 令、 以為、 以爲、 低、 便宜、 便是、 保存、 保級、 修復、 像.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 40 lemmas as auxiliaries (<a>aux</a>). Examples: 會、 可以、 可、 能、 要、 可能、 必須、 能夠、 不會、 不能、 想、 需要、 需、 應、 未能、 不可、 不得、 須、 不應、 不願、 應該、 欲、 願意、 不想、 必、 不需、 請、 不準、 不肯、 不要、 不該、 只能、 得、 愛、 應當、 敢、 沒能、 當、 肯、 能否.</li>
+<li>This corpus uses 43 lemmas as auxiliaries (<a>aux</a>). Examples: 了、 會、 可以、 著、 可、 能、 要、 過、 可能、 必須、 能夠、 不會、 不能、 想、 需要、 需、 應、 未能、 不可、 不得、 須、 不應、 不願、 應該、 欲、 願意、 不想、 必、 不需、 請、 不準、 不肯、 不要、 不該、 只能、 得、 愛、 應當、 敢、 沒能、 當、 肯、 能否.</li>
 <li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: 被、 為、 把.</li>
 </ul>
 
@@ -311,10 +313,28 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (4130)</li>
+      <li>VERB--NOUN (4063)</li>
+      <li>VERB--NOUN-ADP(主) (4)</li>
       <li>VERB--NOUN-ADP(以) (1)</li>
+      <li>VERB--NOUN-ADP(前) (3)</li>
+      <li>VERB--NOUN-ADP(前)-ADP(副)-ADP(總) (1)</li>
+      <li>VERB--NOUN-ADP(副) (2)</li>
+      <li>VERB--NOUN-ADP(原) (5)</li>
+      <li>VERB--NOUN-ADP(大) (18)</li>
+      <li>VERB--NOUN-ADP(寬) (1)</li>
+      <li>VERB--NOUN-ADP(小) (8)</li>
+      <li>VERB--NOUN-ADP(強) (1)</li>
+      <li>VERB--NOUN-ADP(彎) (1)</li>
+      <li>VERB--NOUN-ADP(微) (1)</li>
+      <li>VERB--NOUN-ADP(新) (14)</li>
+      <li>VERB--NOUN-ADP(暗) (1)</li>
+      <li>VERB--NOUN-ADP(清) (1)</li>
       <li>VERB--NOUN-ADP(為) (1)</li>
-      <li>VERB--PRON (727)</li>
+      <li>VERB--NOUN-ADP(的) (1)</li>
+      <li>VERB--NOUN-ADP(總) (5)</li>
+      <li>VERB--NOUN-ADP(老) (5)</li>
+      <li>VERB--NOUN-ADP(舊) (2)</li>
+      <li>VERB--PRON (731)</li>
     </ul>
   </li>
 </ul>
@@ -322,7 +342,41 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (5642)</li>
+      <li>VERB--NOUN (5518)</li>
+      <li>VERB--NOUN-ADP(不) (2)</li>
+      <li>VERB--NOUN-ADP(中) (1)</li>
+      <li>VERB--NOUN-ADP(主) (1)</li>
+      <li>VERB--NOUN-ADP(亞) (1)</li>
+      <li>VERB--NOUN-ADP(今) (1)</li>
+      <li>VERB--NOUN-ADP(代) (1)</li>
+      <li>VERB--NOUN-ADP(低) (1)</li>
+      <li>VERB--NOUN-ADP(偽) (1)</li>
+      <li>VERB--NOUN-ADP(分) (1)</li>
+      <li>VERB--NOUN-ADP(副) (8)</li>
+      <li>VERB--NOUN-ADP(原) (4)</li>
+      <li>VERB--NOUN-ADP(古) (1)</li>
+      <li>VERB--NOUN-ADP(堂) (1)</li>
+      <li>VERB--NOUN-ADP(大) (34)</li>
+      <li>VERB--NOUN-ADP(好) (1)</li>
+      <li>VERB--NOUN-ADP(始) (1)</li>
+      <li>VERB--NOUN-ADP(子) (2)</li>
+      <li>VERB--NOUN-ADP(寬) (1)</li>
+      <li>VERB--NOUN-ADP(小) (14)</li>
+      <li>VERB--NOUN-ADP(彎) (1)</li>
+      <li>VERB--NOUN-ADP(快) (1)</li>
+      <li>VERB--NOUN-ADP(新) (21)</li>
+      <li>VERB--NOUN-ADP(毒) (1)</li>
+      <li>VERB--NOUN-ADP(濃) (1)</li>
+      <li>VERB--NOUN-ADP(熱) (3)</li>
+      <li>VERB--NOUN-ADP(總) (8)</li>
+      <li>VERB--NOUN-ADP(老) (1)</li>
+      <li>VERB--NOUN-ADP(舊) (4)</li>
+      <li>VERB--NOUN-ADP(親) (1)</li>
+      <li>VERB--NOUN-ADP(超) (2)</li>
+      <li>VERB--NOUN-ADP(躁) (1)</li>
+      <li>VERB--NOUN-ADP(輕)-ADP(重) (1)</li>
+      <li>VERB--NOUN-ADP(重) (1)</li>
+      <li>VERB--NOUN-ADP(鮮) (1)</li>
       <li>VERB--PRON (97)</li>
     </ul>
   </li>
@@ -331,7 +385,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN (49)</li>
+      <li>VERB--NOUN (48)</li>
+      <li>VERB--NOUN-ADP(主) (1)</li>
       <li>VERB--PRON (8)</li>
     </ul>
   </li>
@@ -343,7 +398,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 15 relation subtypes: <a>acl:relcl</a>, <a>aux:aspect</a>, <a>aux:pass</a>, <a>case:dec</a>, <a>case:pref</a>, <a>case:suff</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>mark:advb</a>, <a>mark:comp</a>, <a>mark:relcl</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:patient</a></li>
+<li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:ext</a>, <a>csubj:pass</a>, <a>discourse:sp</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>mark:adv</a>, <a>mark:rel</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:patient</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
 </ul>

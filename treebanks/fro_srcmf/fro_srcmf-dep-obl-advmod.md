@@ -7,7 +7,6 @@ udver: '2'
 ## Treebank Statistics: UD_Old_French-SRCMF: Relations: `obl:advmod`
 
 This relation is a language-specific subtype of <tt><a href="fro_srcmf-dep-obl.html">obl</a></tt>.
-There are also 1 other language-specific subtypes of `obl`: <tt><a href="fro_srcmf-dep-obl-mod.html">obl:mod</a></tt>.
 
 1235 nodes (1%) are attached to their parents as `obl:advmod`.
 

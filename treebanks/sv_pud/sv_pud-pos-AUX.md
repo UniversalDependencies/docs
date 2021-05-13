@@ -59,11 +59,11 @@ The 2nd highest number of forms (4) was observed with the lemma “kunna”: <em
 
 The 3rd highest number of forms (4) was observed with the lemma “vara”: <em>var, vara, varit, är</em>.
 
-`AUX` occurs with 4 features: <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt> (732; 100% instances), <tt><a href="sv_pud-feat-Voice.html">Voice</a></tt> (732; 100% instances), <tt><a href="sv_pud-feat-Mood.html">Mood</a></tt> (647; 88% instances), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt> (646; 88% instances)
+`AUX` occurs with 4 features: <tt><a href="sv_pud-feat-VerbForm.html">VerbForm</a></tt> (732; 100% instances), <tt><a href="sv_pud-feat-Voice.html">Voice</a></tt> (730; 100% instances), <tt><a href="sv_pud-feat-Mood.html">Mood</a></tt> (647; 88% instances), <tt><a href="sv_pud-feat-Tense.html">Tense</a></tt> (646; 88% instances)
 
 `AUX` occurs with 8 feature-value pairs: `Mood=Imp`, `Mood=Ind`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Sup`, `Voice=Act`
 
-`AUX` occurs with 5 feature combinations.
+`AUX` occurs with 6 feature combinations.
 The most frequent feature combination is `Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act` (411 tokens).
 Examples: <em>är, har, kan, kommer, måste, ska, vill, bör, blir, får</em>
 

@@ -30,7 +30,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 6	аймағы	аймақ	NOUN	n	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	8	obl	_	_
 7	үшін	үшін	ADP	post	_	6	case	_	_
 8	қауіп	қауіп	NOUN	n	Case=Nom	0	root	_	_
-9	болып	бол	AUX	v	Aspect=Perf|VerbForm=Cov	8	cop	_	_
+9	болып	бол	AUX	v	Aspect=Perf|VerbForm=Inf	8	cop	_	_
 10	отыр	отыр	AUX	vaux	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	SpaceAfter=No
 11	.	.	PUNCT	sent	_	8	punct	_	_
 
@@ -50,7 +50,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 5	қырынан	қыр	NOUN	n	Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3	6	obl	_	_
 6	келуге	кел	VERB	v	Case=Dat|VerbForm=Ger	7	advcl	_	_
 7	тиіс	тиіс	ADJ	adj	_	0	root	_	_
-8	піз	е	AUX	cop	Mood=Ind|Number=Plur|Person=1|Tense=Aor|VerbForm=Fin	7	cop	_	_
+8	піз	е	AUX	cop	Aspect=Hab|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	_
 9	.	.	PUNCT	sent	_	7	punct	_	_
 
 ~~~
@@ -70,7 +70,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 6	,	,	PUNCT	cm	_	5	punct	_	_
 7	атыңды	ат	NOUN	n	Case=Acc|Number[psor]=Sing|Person[psor]=2	8	obj	_	_
 8	танытуға	таныт	VERB	v	Case=Dat|VerbForm=Ger	0	root	_	_
-9	болады	бол	AUX	v	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	8	cop	_	SpaceAfter=No
+9	болады	бол	AUX	v	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	SpaceAfter=No
 10	”	”	PUNCT	rquot	_	8	punct	_	SpaceAfter=No
 11	.	.	PUNCT	sent	_	8	punct	_	_
 

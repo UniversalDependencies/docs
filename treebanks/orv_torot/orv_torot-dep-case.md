@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of case in UD_Old_Russian-TOROT'
+title:  'Statistics of case in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Relations: `case`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Relations: `case`
 
 This relation is universal.
 
@@ -55,7 +55,7 @@ The following 11 pairs of parts of speech are connected with `case`: <tt><a href
 2	детеи	дѣтя	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	5	nmod	_	ref=6
 3	ѹ	у	ADP	R-	_	4	case	_	ref=6
 4	них	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	obl	_	ref=6
-5	много	мъногыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	1	nsubj	_	ref=6
+5	много	мъногыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	1	nsubj	_	ref=6
 
 ~~~
 

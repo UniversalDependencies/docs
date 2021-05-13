@@ -47,14 +47,14 @@ The following 28 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 3	אוהבים	אהב	VERB	VERB	Gender=Masc|HebBinyan=PAAL|Number=Plur|Person=1,2,3|VerbForm=Part|Voice=Act	0	root	_	_
 4	ביותר	ביותר	ADV	ADV	_	3	advmod	_	_
 5	את	את	ADP	ADP	Case=Acc	7	case:acc	_	_
-6	ה	ה	DET	DET	PronType=Art	7	det:def	_	_
+6	ה	ה	DET	DET	Definite=Def|PronType=Art	7	det	_	_
 7	רעיון	רעיון	NOUN	NOUN	Gender=Masc|Number=Sing	3	obj	_	_
 8	של	של	ADP	ADP	Case=Gen	9	case:gen	_	_
 9	מלחמה	מלחמה	NOUN	NOUN	Gender=Fem|Number=Sing	7	nmod:poss	_	_
 10	ב	ב	ADP	ADP	_	12	case	_	_
-11	ה_	ה	DET	DET	PronType=Art	12	det:def	_	_
+11	ה_	ה	DET	DET	Definite=Def|PronType=Art	12	det	_	_
 12	מפרץ	מפרץ	NOUN	NOUN	Gender=Masc|Number=Sing	9	nmod	_	_
-13	ה	ה	DET	DET	PronType=Art	14	det:def	_	_
+13	ה	ה	DET	DET	Definite=Def|PronType=Art	14	det	_	_
 14	פרסי	פרסי	ADJ	ADJ	Gender=Masc|Number=Sing	12	amod	_	_
 15	.	.	PUNCT	PUNCT	_	3	punct	_	_
 

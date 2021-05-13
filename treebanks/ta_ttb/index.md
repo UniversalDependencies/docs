@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Loganathan Ramasamy, Daniel Zeman.
 
 Repository: [UD_Tamil-TTB](https://github.com/UniversalDependencies/UD_Tamil-TTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udta_ttb27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udta_ttb28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -99,7 +99,7 @@ url = {http://www.lrec-conf.org/proceedings/lrec2012/summaries/456.html}
 
 ## Relations
 
-[acl](ta_ttb-dep-acl.html) – [advcl](ta_ttb-dep-advcl.html) – [advmod](ta_ttb-dep-advmod.html) – [advmod:emph](ta_ttb-dep-advmod-emph.html) – [amod](ta_ttb-dep-amod.html) – [aux](ta_ttb-dep-aux.html) – [case](ta_ttb-dep-case.html) – [cc](ta_ttb-dep-cc.html) – [ccomp](ta_ttb-dep-ccomp.html) – [compound](ta_ttb-dep-compound.html) – [compound:prt](ta_ttb-dep-compound-prt.html) – [conj](ta_ttb-dep-conj.html) – [cop](ta_ttb-dep-cop.html) – [csubj](ta_ttb-dep-csubj.html) – [dep](ta_ttb-dep-dep.html) – [det](ta_ttb-dep-det.html) – [iobj](ta_ttb-dep-iobj.html) – [mark](ta_ttb-dep-mark.html) – [nmod](ta_ttb-dep-nmod.html) – [nsubj](ta_ttb-dep-nsubj.html) – [nsubj:pass](ta_ttb-dep-nsubj-pass.html) – [nummod](ta_ttb-dep-nummod.html) – [obj](ta_ttb-dep-obj.html) – [obl](ta_ttb-dep-obl.html) – [obl:arg](ta_ttb-dep-obl-arg.html) – [parataxis](ta_ttb-dep-parataxis.html) – [punct](ta_ttb-dep-punct.html) – [root](ta_ttb-dep-root.html) – [xcomp](ta_ttb-dep-xcomp.html)
+[acl](ta_ttb-dep-acl.html) – [acl:relcl](ta_ttb-dep-acl-relcl.html) – [advcl](ta_ttb-dep-advcl.html) – [advmod](ta_ttb-dep-advmod.html) – [advmod:emph](ta_ttb-dep-advmod-emph.html) – [amod](ta_ttb-dep-amod.html) – [aux](ta_ttb-dep-aux.html) – [case](ta_ttb-dep-case.html) – [cc](ta_ttb-dep-cc.html) – [ccomp](ta_ttb-dep-ccomp.html) – [compound](ta_ttb-dep-compound.html) – [compound:prt](ta_ttb-dep-compound-prt.html) – [conj](ta_ttb-dep-conj.html) – [cop](ta_ttb-dep-cop.html) – [csubj](ta_ttb-dep-csubj.html) – [dep](ta_ttb-dep-dep.html) – [det](ta_ttb-dep-det.html) – [iobj](ta_ttb-dep-iobj.html) – [mark](ta_ttb-dep-mark.html) – [nmod](ta_ttb-dep-nmod.html) – [nsubj](ta_ttb-dep-nsubj.html) – [nsubj:pass](ta_ttb-dep-nsubj-pass.html) – [nummod](ta_ttb-dep-nummod.html) – [obj](ta_ttb-dep-obj.html) – [obl](ta_ttb-dep-obl.html) – [obl:arg](ta_ttb-dep-obl-arg.html) – [parataxis](ta_ttb-dep-parataxis.html) – [punct](ta_ttb-dep-punct.html) – [root](ta_ttb-dep-root.html) – [xcomp](ta_ttb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -122,7 +122,7 @@ url = {http://www.lrec-conf.org/proceedings/lrec2012/summaries/456.html}
 
 <ul>
 <li>This corpus contains 835 multi-word tokens. On average, one multi-word token consists of 2.13 syntactic words.</li>
-<li>There are 620 types of multi-word tokens. Examples: என்றும், இடையிலான, செயலாளராக, த​ெ​ர​ி​வ​ி​க​்​க​ப​்​ப​ட​்​ட​ு​ள​்​ள​த​ு, தெரிவித்துள்ளது, தெரிவித்துள்ளார், இடத்தையும், குறிப்பிடத்தக்கது, வெளியிட்டுள்ள, Kஉறித்தும், பேருக்கும், ஆதரவாக, காரணமாக, க​ு​ற​ி​ப​்​ப​ி​ட​ப​்​ப​ட​்​ட​ு​ள​்​ள​த​ு, கூறியுள்ளார், பாதிக்கப்படும், அதிகாரிகளும், ஆணையராக, இடத்திலேயே, உத்தரவிட்டுள்ளார், உயிரிழந்ததாக, ஏற்படுத்தியுள்ளது, ஏற்பட்டுள்ளது, குறித்தும், குறிப்பிட்டுள்ளார், செய்துள்ளது, செய்துள்ளனர், தலைவருமான, தலைவரும், நம்புவதாக, நாடுகளும், நிதியிலிருந்து, படவில்லை, பேசியதாவது, விட்டதாகவும், வெளியாகியுள்ளது, அடைக்கப்பட்டிருந்த, அதற்கான, அந்நாட்டின், அனுமதித்திருக்கும், அமெரிக்காவும், அமைந்துள்ளது, அரசும், அறிவித்துள்ளது, அறிவித்துள்ளார், அறையோ, ஆட்சியராக, ஆணையராகப், ஆண்டுகளாக, ஆயிரமாக.</li>
+<li>There are 620 types of multi-word tokens. Examples: என்றும், இடையிலான, செயலாளராக, தெரிவிக்கப்பட்டுள்ளது, தெரிவித்துள்ளது, தெரிவித்துள்ளார், இடத்தையும், குறிப்பிடத்தக்கது, வெளியிட்டுள்ள, Kஉறித்தும், பேருக்கும், ஆதரவாக, காரணமாக, குறிப்பிடப்பட்டுள்ளது, கூறியுள்ளார், பாதிக்கப்படும், அதிகாரிகளும், ஆணையராக, இடத்திலேயே, உத்தரவிட்டுள்ளார், உயிரிழந்ததாக, ஏற்படுத்தியுள்ளது, ஏற்பட்டுள்ளது, குறித்தும், குறிப்பிட்டுள்ளார், செய்துள்ளது, செய்துள்ளனர், தலைவருமான, தலைவரும், நம்புவதாக, நாடுகளும், நிதியிலிருந்து, படவில்லை, பேசியதாவது, விட்டதாகவும், வெளியாகியுள்ளது, அடைக்கப்பட்டிருந்த, அதற்கான, அந்நாட்டின், அனுமதித்திருக்கும், அமெரிக்காவும், அமைந்துள்ளது, அரசும், அறிவித்துள்ளது, அறிவித்துள்ளார், அறையோ, ஆட்சியராக, ஆணையராகப், ஆண்டுகளாக, ஆயிரமாக.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -598,7 +598,7 @@ url = {http://www.lrec-conf.org/proceedings/lrec2012/summaries/456.html}
   <li>Card
     <ul>
       <li>DET: மிக, மிகப், அதிக, அதிகம், மிகச், மிகவும், முழுவதும், குறைவாகவே, கொஞ்சம், முழுக்</li>
-      <li>NUM: இரு, ஆயிரம், மூன்று, லட்சம், இரண்டு, ஆயிரத்து, கோடி, மீட்டர், 1.30, ஒன்பது</li>
+      <li>NUM: இரு, ஆயிரம், மூன்று, லட்சம், 2, இரண்டு, ஒரு, ஆயிரத்து, கோடி, 10</li>
     </ul>
   </li>
 </ul>
@@ -812,6 +812,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 4 relation subtypes: <a>advmod:emph</a>, <a>compound:prt</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
+<li>This corpus uses 5 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>compound:prt</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
 <li>The following 12 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>appos</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

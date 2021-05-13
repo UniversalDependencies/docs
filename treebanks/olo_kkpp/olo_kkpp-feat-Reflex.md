@@ -34,5 +34,5 @@ The most frequent other feature values with which `VERB` and `Reflex` co-occurre
 `VERB` tokens may have the following values of `Reflex`:
 
 * `Yes` (1; 100% of non-empty `Reflex`): <em>sevättihes</em>
-* `EMPTY` (255): <em>sanoi, pietäh, rodieu, sanoo, kuulimo, kuulittogo, kuulluh, sanottih, tiezimö, tiezittö</em>
+* `EMPTY` (256): <em>sanoi, pietäh, rodieu, sanoo, kuulimo, kuulittogo, kuulluh, sanottih, tiezimö, tiezittö</em>
 

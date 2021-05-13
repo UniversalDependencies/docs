@@ -43,7 +43,7 @@ The following 2 pairs of parts of speech are connected with `amod`: <tt><a href=
 2	doa	_	NOUN	n	_	5	nsubj	5:nsubj	_
 3	iba'orere	ba'orere	ADJ	adj	_	2	amod	2:amod	_
 4	jedoti	_	NOUN	n	_	5	obl	5:obl	_
-5	mug̃ẽg̃ẽm	_	VERB	v	Aspect=DurImp	0	root	0:root	_
+5	mug̃ẽg̃ẽm	_	VERB	v	Aspect=DurIprf	0	root	0:root	_
 6	daxa	daxa	NOUN	n	_	5	obj	5:obj	_
 7	xe	xe	ADP	pp	_	6	case	6:case	_
 

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Telugu-MTG: Relations: `obl:tmod`
 
 This relation is a language-specific subtype of <tt><a href="te_mtg-dep-obl.html">obl</a></tt>.
-There are also 1 other language-specific subtypes of `obl`: <tt><a href="te_mtg-dep-obl-cau.html">obl:cau</a></tt>.
+There are also 2 other language-specific subtypes of `obl`: <tt><a href="te_mtg-dep-obl-cau.html">obl:cau</a></tt>, <tt><a href="te_mtg-dep-obl-cmp.html">obl:cmp</a></tt>.
 
 109 nodes (2%) are attached to their parents as `obl:tmod`.
 

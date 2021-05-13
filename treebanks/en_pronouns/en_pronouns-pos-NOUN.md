@@ -7,13 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_English-Pronouns: POS Tags: `NOUN`
 
 There are 4 `NOUN` lemmas (6%), 6 `NOUN` types (8%) and 240 `NOUN` tokens (14%).
-Out of 13 observed tags, the rank of `NOUN` is: 6 in number of lemmas, 5 in number of types and 4 in number of tokens.
+Out of 13 observed tags, the rank of `NOUN` is: 5 in number of lemmas, 4 in number of types and 4 in number of tokens.
 
 The 10 most frequent `NOUN` lemmas: <em>dealer, car, paint, bump</em>
 
 The 10 most frequent `NOUN` types:  <em>dealer, car, dealers, cars, paint, bumps</em>
 
-The 10 most frequent ambiguous lemmas: <em>paint</em> (<tt><a href="en_pronouns-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="en_pronouns-pos-ADJ.html">ADJ</a></tt> 5)
+The 10 most frequent ambiguous lemmas: <em>paint</em> (<tt><a href="en_pronouns-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt> 5)
 
 The 10 most frequent ambiguous types:  
 
@@ -42,7 +42,7 @@ Examples: <em>dealer, car, paint</em>
 
 `NOUN` nodes are attached to their parents using 3 different relations: <tt><a href="en_pronouns-dep-nsubj.html">nsubj</a></tt> (190; 79% instances), <tt><a href="en_pronouns-dep-obj.html">obj</a></tt> (45; 19% instances), <tt><a href="en_pronouns-dep-conj.html">conj</a></tt> (5; 2% instances)
 
-Parents of `NOUN` nodes belong to 4 different parts of speech: <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt> (190; 79% instances), <tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt> (40; 17% instances), <tt><a href="en_pronouns-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="en_pronouns-pos-NOUN.html">NOUN</a></tt> (5; 2% instances)
+Parents of `NOUN` nodes belong to 3 different parts of speech: <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt> (195; 81% instances), <tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt> (40; 17% instances), <tt><a href="en_pronouns-pos-NOUN.html">NOUN</a></tt> (5; 2% instances)
 
 40 (17%) `NOUN` nodes are leaves.
 

@@ -42,7 +42,7 @@ The following 8 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 7 obl:agent	color:blue
-1	Menores	menor	NOUN	_	Gender=Unsp|Number=Plur	0	root	_	_
+1	Menores	menor	NOUN	_	Number=Plur	0	root	_	_
 2	em	em	ADP	_	_	3	case	_	_
 3	bordel	bordel	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
 4	encerrado	encerrar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	3	acl	_	_

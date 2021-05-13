@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3581 nodes (6%) are attached to their parents as `det`.
+4416 nodes (6%) are attached to their parents as `det`.
 
-3359 instances of `det` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.08209997207484.
+4126 instances of `det` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.08242753623188.
 
-The following 12 pairs of parts of speech are connected with `det`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (3338; 93% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (150; 4% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (41; 1% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (26; 1% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `det`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (4121; 93% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (192; 4% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (45; 1% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (32; 1% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -60,22 +60,17 @@ The following 12 pairs of parts of speech are connected with `det`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 det	color:blue
-1	an	an	PART	Qq	Mood=Int|PartType=Vb|PronType=Int	3	mark:prt	_	_
-2	do	do	PART	Q--s	Tense=Past	3	mark:prt	_	_
-3	dh’ith	ith	VERB	V-s	Tense=Past	0	root	_	_
-4	thusa	thu	PRON	Pp2s--e	Form=Emp|Number=Sing|Person=2	3	nsubj	_	_
-5	na	an	DET	Tdp	Number=Plur	6	det	_	_
-6	sandwiches	sandwiches	X	Xfe	Foreign=Yes	3	obj	_	_
-7	aig	aig	ADP	Sp	_	8	case	_	_
-8	thu	thu	PRON	Pp2s	Number=Sing|Person=2	6	obl	_	_
-9	an-diugh	an-diugh	ADV	Rt	_	6	advmod	_	_
-10	[Name]	[Name]	PROPN	Nn-mv	Case=Voc|Gender=Masc	3	vocative	_	SpaceAfter=No
-11	?	?	PUNCT	Fg	_	3	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 det	color:blue
+1	tha	bi	VERB	V-p	Tense=Pres	0	root	_	_
+2	iad	iad	PRON	Pp3p	Number=Plur|Person=3	1	nsubj	_	_
+3	sin	sin	DET	Dd	_	2	det	_	_
+4	math	math	ADJ	Ap	_	1	xcomp:pred	_	_
+5	nach	nach	PART	Qn	PartType=Cmpl|Polarity=Neg	6	mark:prt	_	_
+6	eil	bi	VERB	V-p--d	Tense=Pres	1	parataxis	_	_
 
 ~~~
 

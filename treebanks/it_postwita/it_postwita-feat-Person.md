@@ -11,7 +11,7 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 15002 tokens (12%) have a non-empty value of `Person`.
 2827 types (16%) occur at least once with a non-empty value of `Person`.
-1007 lemmas (7%) occur at least once with a non-empty value of `Person`.
+1009 lemmas (7%) occur at least once with a non-empty value of `Person`.
 The feature is used with 4 part-of-speech tags: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (6962; 6% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (4160; 3% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (3879; 3% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `VERB`
@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (1702; 24% of non-empty `Person`): <em>ho, amo, so, visto, speriamo, credo, spero, faccio, capito, vedo</em>
 * `2` (962; 14% of non-empty `Person`): <em>fai, fate, hai, segui, pensi, sai, Controlla, vai, dite, scusa</em>
 * `3` (4298; 62% of non-empty `Person`): <em>fa, è, ha, dice, piace, va, parla, fanno, sembra, sa</em>
-* `EMPTY` (4286): <em>fare, fatto, far, dire, detto, vedere, andare, avere, parlare, pagare</em>
+* `EMPTY` (4298): <em>fare, fatto, far, dire, detto, vedere, andare, avere, pagare, parlare</em>
 
 <table>
   <tr><th>Paradigm <i>fare</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -56,7 +56,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 * `1` (863; 21% of non-empty `Person`): <em>sono, ho, siamo, devo, posso, abbiamo, sto, vorrei, voglio, dobbiamo</em>
 * `2` (285; 7% of non-empty `Person`): <em>sei, hai, siete, avete, puoi, devi, dovete, siate, vuoi, potresti</em>
 * `3` (3012; 72% of non-empty `Person`): <em>è, ha, sono, e', può, hanno, sarà, sta, era, sia</em>
-* `EMPTY` (268): <em>essere, stato, aver, stata, voler, stati, esser, poter, state, essendo</em>
+* `EMPTY` (276): <em>essere, stato, aver, stata, voler, stati, esser, è, poter, state</em>
 
 <table>
   <tr><th>Paradigm <i>essere</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -88,7 +88,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (1705; 44% of non-empty `Person`): <em>mi, ci, io, c', me, noi, ce, m', ioooooo, c</em>
 * `2` (628; 16% of non-empty `Person`): <em>ti, te, tu, vi, voi, ve, v', TU', de, foi</em>
 * `3` (1546; 40% of non-empty `Person`): <em>si, lo, la, l', lui, li, gli, le, se, loro</em>
-* `EMPTY` (2591): <em>che, tutti, chi, tutto, ne, quello, cosa, questo, uno, nessuno</em>
+* `EMPTY` (2604): <em>che, tutti, chi, tutto, ne, quello, cosa, questo, uno, nessuno</em>
 
 <table>
   <tr><th>Paradigm <i>ci</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -96,7 +96,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
   <tr><td><tt></tt></td><td></td><td><em>c</em></td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `PRON`. 96% lemmas (23) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `PRON`. 96% lemmas (25) occur only with one value of `Person`.
 
 ### `X`
 
@@ -105,7 +105,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 `X` tokens may have the following values of `Person`:
 
 * `2` (1; 100% of non-empty `Person`): <em>te</em>
-* `EMPTY` (1063): <em>of, Prince, i, live, and, a, on, in, the, my</em>
+* `EMPTY` (991): <em>of, Prince, i, live, and, a, on, the, in, my</em>
 
 ## Relations with Agreement in `Person`
 

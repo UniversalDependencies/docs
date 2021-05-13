@@ -31,7 +31,7 @@ The 10 most frequent ambiguous types:  一 (<tt><a href="yue_hk-pos-NUM.html">NU
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.031250 (the average of all parts of speech is 1.622766).
+The form / lemma ratio of `NUM` is 1.031250 (the average of all parts of speech is 1.624294).
 
 The 1st highest number of forms (11) was observed with the lemma “_”: 一, 七十一, 三, 三十, 三十五, 五, 兩, 六, 十, 半, 幾.
 

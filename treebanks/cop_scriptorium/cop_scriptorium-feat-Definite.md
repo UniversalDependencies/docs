@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
 13332 tokens (27%) have a non-empty value of `Definite`.
-119 types (5%) occur at least once with a non-empty value of `Definite`.
-67 lemmas (3%) occur at least once with a non-empty value of `Definite`.
+118 types (4%) occur at least once with a non-empty value of `Definite`.
+66 lemmas (3%) occur at least once with a non-empty value of `Definite`.
 The feature is used with 3 part-of-speech tags: <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (7224; 15% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (6099; 13% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (9; 0% instances).
 
 ### `PRON`
@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 * `Def` (7224; 100% of non-empty `Definite`): ϥ, ⲩ, ⲥ, ⲟⲩ, ⲓ, ⲕ, ⲛ, ⲧⲛ, ⲧⲉⲧⲛ, ⲥⲉ
 * `EMPTY` (746): ⲡⲉ, ⲛⲓⲙ, ⲟⲩ, ⲧⲉ, ⲛⲉ, ⲡ, ⲁϣ, ⲛ, ⲟⲩⲏⲣ, ⲁ
 
-`Definite` seems to be **lexical feature** of `PRON`. 100% lemmas (44) occur only with one value of `Definite`.
+`Definite` seems to be **lexical feature** of `PRON`. 100% lemmas (43) occur only with one value of `Definite`.
 
 ### `DET`
 

@@ -11,7 +11,7 @@ This relation is universal.
 985 nodes (3%) are attached to their parents as `amod`.
 
 511 instances of `amod` (52%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.25380710659898.
+Average distance between parent and child is 1.2497461928934.
 
 The following 5 pairs of parts of speech are connected with `amod`: <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (912; 93% instances), <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (37; 4% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (17; 2% instances), <tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (12; 1% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (7; 1% instances).
 
@@ -23,14 +23,14 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 11	fgColor:white
 # visual-style 11 10 amod	color:blue
 1	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
-2	m'	lui	PRON	_	_	4	obl:arg	_	_
+2	m'	lui	PRON	_	_	4	iobj	_	_
 3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 4	sorti	sortir	VERB	ETRE	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	advmod	_	ExtPos=ADV|PhraseType=Idiom
-6	petit	petit	ADJ	_	Gender=Masc|Number=Sing	5	fixed	_	_
-7	peu	peu	NOUN	_	_	5	fixed	_	_
+6	petit	petit	ADJ	_	Gender=Masc|Number=Sing	5	fixed	_	InIdiom=Yes
+7	peu	peu	NOUN	_	_	5	fixed	_	InIdiom=Yes
 8	de	de	ADP	_	_	11	case	_	_
-9	mon	son	DET	_	Number=Sing|Person=3|PossNumber=Sing|PossPerson=1|PronType=Prs	11	det	_	_
+9	mon	son	DET	_	Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1|PronType=Prs	11	det	_	_
 10	petit	petit	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	_
 11	cocon	cocon	NOUN	_	Gender=Masc|Number=Sing	4	obl:arg	_	_
 12	de	de	ADP	_	_	14	case	_	_

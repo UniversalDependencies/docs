@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-57004 tokens (58%) have a non-empty value of `Number`.
-28199 types (94%) occur at least once with a non-empty value of `Number`.
-16273 lemmas (87%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (26755; 27% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (12231; 12% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (7320; 7% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (6584; 7% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (1834; 2% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (1194; 1% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> (756; 1% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (328; 0% instances), <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+57002 tokens (58%) have a non-empty value of `Number`.
+28198 types (94%) occur at least once with a non-empty value of `Number`.
+16272 lemmas (87%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (26755; 27% instances), <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (12231; 12% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (7320; 7% instances), <tt><a href="ru_gsd-pos-PROPN.html">PROPN</a></tt> (6584; 7% instances), <tt><a href="ru_gsd-pos-PRON.html">PRON</a></tt> (1834; 2% instances), <tt><a href="ru_gsd-pos-DET.html">DET</a></tt> (1194; 1% instances), <tt><a href="ru_gsd-pos-AUX.html">AUX</a></tt> (756; 1% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (328; 0% instances).
 
 ### `NOUN`
 
@@ -292,26 +292,6 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 </table>
 
 `Number` seems to be **lexical feature** of `NUM`. 97% lemmas (76) occur only with one value of `Number`.
-
-### `PART`
-
-1 <tt><a href="ru_gsd-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `PART` and `Number` co-occurred: <tt><a href="ru_gsd-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`PART` tokens may have the following values of `Number`:
-
-* `Sing` (1; 100% of non-empty `Number`): <em>Де</em>
-* `EMPTY` (1086): <em>не, же, и, также, только, лишь, даже, де, это, ни</em>
-
-### `PUNCT`
-
-1 <tt><a href="ru_gsd-pos-PUNCT.html">PUNCT</a></tt> tokens (0% of all `PUNCT` tokens) have a non-empty value of `Number`.
-
-`PUNCT` tokens may have the following values of `Number`:
-
-* `Sing` (1; 100% of non-empty `Number`): <em>-</em>
-* `EMPTY` (18124): <em>,, ., --, ), (, ``, &#39;&#39;, -, :, ;</em>
 
 ## Relations with Agreement in `Number`
 

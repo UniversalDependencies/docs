@@ -41,7 +41,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nsubj:pass	color:blue
-1	Դա	դա	PRON	_	Case=Nom|Distance=Med|Number=Sing|PronType=Dem	2	nsubj:pass	_	Translit=Da|LTranslit=da
+1	Դա	դա	PRON	_	Case=Nom|Deixis=Med|Number=Sing|PronType=Dem	2	nsubj:pass	_	Translit=Da|LTranslit=da
 2	արտահայտվեց	արտահայտել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Translit=artahaytvec’|LTranslit=artahaytel
 3	հիմնականում	հիմնականում	ADV	_	_	4	advmod:emph	_	Translit=himnakanowm|LTranslit=himnakanowm
 4	ներմուծման	ներմուծում	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	6	nmod:poss	_	Translit=nermowçman|LTranslit=nermowçowm

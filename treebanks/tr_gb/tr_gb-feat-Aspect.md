@@ -6,32 +6,30 @@ udver: '2'
 
 ## Treebank Statistics: UD_Turkish-GB: Features: `Aspect`
 
-This feature is universal but the values `Dur`, `DurPerf`, `Hab`, `PerfRapid`, `Prosp`, `Rapid` are language-specific.
-It occurs with 9 different values: `Dur`, `DurPerf`, `Hab`, `Imp`, `Perf`, `PerfRapid`, `Prog`, `Prosp`, `Rapid`.
+This feature is universal but the values `Dur`, `Hab`, `Prosp`, `Rapid` are language-specific.
+It occurs with 7 different values: `Dur`, `Hab`, `Imp`, `Perf`, `Prog`, `Prosp`, `Rapid`.
 
 2197 tokens (13%) have a non-empty value of `Aspect`.
 1309 types (26%) occur at least once with a non-empty value of `Aspect`.
-272 lemmas (13%) occur at least once with a non-empty value of `Aspect`.
+271 lemmas (13%) occur at least once with a non-empty value of `Aspect`.
 The feature is used with 2 part-of-speech tags: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (2061; 12% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (136; 1% instances).
 
 ### `VERB`
 
 2061 <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> tokens (67% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2053; 100%), <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2053; 100%), <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2051; 100%), <tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2026; 98%), <tt><a href="tr_gb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1815; 88%), <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1666; 81%), <tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (1660; 81%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1549; 75%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1495; 73%), <tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt> (1116; 54%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2053; 100%), <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2053; 100%), <tt><a href="tr_gb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2052; 100%), <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2051; 100%), <tt><a href="tr_gb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1815; 88%), <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1666; 81%), <tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (1660; 81%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1549; 75%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1495; 73%), <tt><a href="tr_gb-feat-Person.html">Person</a></tt><tt>=3</tt> (1116; 54%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Dur` (1; 0% of non-empty `Aspect`): <em>yürüyedur</em>
-* `DurPerf` (2; 0% of non-empty `Aspect`): <em>donakaldık, kutlayagelmişlerdir</em>
+* `Dur` (3; 0% of non-empty `Aspect`): <em>donakaldık, kutlayagelmişlerdir, yürüyedur</em>
 * `Hab` (369; 18% of non-empty `Aspect`): <em>içer, gerekebilir, yayardık, bilir, bulabilirsin, gelir, gelirim, giderse, konuşabilirsin, sayılır</em>
 * `Imp` (1; 0% of non-empty `Aspect`): <em>vereyim</em>
 * `Perf` (1008; 49% of non-empty `Aspect`): <em>geldi, görmüş, söyledi, gitti, gitmiş, gördüm, etti, görmedim, verdi, aldık</em>
-* `PerfRapid` (1; 0% of non-empty `Aspect`): <em>giriverdi</em>
 * `Prog` (660; 32% of non-empty `Aspect`): <em>gerekiyor, istiyor, çalışıyor, ediyorum, gidiyor, istemiyor, sanıyorum, seviyor, yapıyor, duruyor</em>
 * `Prosp` (18; 1% of non-empty `Aspect`): <em>olacaktı, alacaktım, anlamayacaktım, tutacaktı, atılacaktı, gerekecekti, gezdirecektik, gidecekti, gidecektim, gidecektin</em>
-* `Rapid` (1; 0% of non-empty `Aspect`): <em>kapayıversene</em>
-* `EMPTY` (1025): <em>gitmek, geçen, olsa, ver, yaptığı, almak, gitmeniz, görmek, almamız, geldiği</em>
+* `Rapid` (2; 0% of non-empty `Aspect`): <em>giriverdi, kapayıversene</em>
+* `EMPTY` (1024): <em>gitmek, geçen, olsa, ver, yaptığı, almak, gitmeniz, görmek, almamız, geldiği</em>
 
 <table>
   <tr><th>Paradigm <i>git</i></th><th><tt>Perf</tt></th><th><tt>Prog</tt></th><th><tt>Hab</tt></th><th><tt>Prosp</tt></th></tr>

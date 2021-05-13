@@ -30,7 +30,7 @@ The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href
 6	使	_	VERB	VV	Voice=Cau	0	root	_	SpaceAfter=No|Translit=shǐ
 7	政府	_	NOUN	NN	_	8	nsubj	_	SpaceAfter=No|Translit=zhèngfǔ
 8	支出	_	VERB	VV	_	10	csubj	_	SpaceAfter=No|Translit=zhīchū
-9	的	_	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No|Translit=de
+9	的	_	PART	DEC	_	8	mark:rel	_	SpaceAfter=No|Translit=de
 10	突破	_	VERB	VV	_	6	ccomp	_	SpaceAfter=No|Translit=tūpò
 11	了	_	PART	AS	Aspect=Perf	10	aux	_	SpaceAfter=No|Translit=le
 12	新上限	_	NOUN	NN	_	10	obj	_	SpaceAfter=No|Translit=xīnshàngxiàn
@@ -46,7 +46,7 @@ The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 3	fgColor:white
 # visual-style 3 11 ccomp	color:blue
 1	顯而易見	_	VERB	VV	_	3	csubj	_	SpaceAfter=No|Translit=xiǎn'éryìjiàn
-2	的	_	PART	DEC	_	1	mark:relcl	_	SpaceAfter=No|Translit=de
+2	的	_	PART	DEC	_	1	mark:rel	_	SpaceAfter=No|Translit=de
 3	是	_	VERB	VC	_	0	root	_	SpaceAfter=No|Translit=shì
 4	，	_	PUNCT	,	_	11	punct	_	SpaceAfter=No|Translit=，
 5	名人	_	NOUN	NN	_	7	nmod	_	SpaceAfter=No|Translit=míngrén

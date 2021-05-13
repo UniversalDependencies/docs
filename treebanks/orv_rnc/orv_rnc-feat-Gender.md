@@ -1,17 +1,17 @@
 ---
 layout: base
-title:  'Statistics of Gender in UD_Old_Russian-RNC'
+title:  'Statistics of Gender in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Features: `Gender`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Features: `Gender`
 
 This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
 14701 tokens (48%) have a non-empty value of `Gender`.
 6139 types (79%) occur at least once with a non-empty value of `Gender`.
-3035 lemmas (77%) occur at least once with a non-empty value of `Gender`.
+3034 lemmas (77%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 9 part-of-speech tags: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (6430; 21% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (2703; 9% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (2221; 7% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1405; 5% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (974; 3% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (769; 3% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (155; 1% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (43; 0% instances), <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -31,7 +31,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><th>Paradigm <i>дѣти</i></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td></td><td><em>дѣтей, детей</em></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td></td><td><em>дѣти</em></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>дѣтемъ</em></td><td><em>дѣтямъ</em></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>дѣтемъ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td><em>дѣтей, дѣтии</em></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td></td><td><em>дѣтми, детьми</em></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td><em>дети</em></td></tr>
@@ -214,7 +214,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
   <tr><th>Paradigm <i>быти</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt><tt>=Yes</tt>|<tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=PartRes</tt></tt></td><td><em>былъ</em></td><td></td><td><em>было</em></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt><tt>=Yes</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=PartRes</tt></tt></td><td></td><td></td><td><em>было</em></td></tr>
-  <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="orv_rnc-feat-Variant.html">Variant</a></tt><tt>=Short</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>сущу</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_rnc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>сущу</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=PartRes</tt></tt></td><td></td><td></td><td><em>было</em></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=PartRes</tt></tt></td><td><em>был, былъ</em></td><td><em>была</em></td><td><em>было</em></td></tr>
   <tr><td><tt><tt><a href="orv_rnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="orv_rnc-feat-VerbForm.html">VerbForm</a></tt><tt>=PartRes</tt>|<tt><a href="orv_rnc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>былъ, был</em></td><td><em>была</em></td><td><em>было</em></td></tr>
@@ -239,7 +239,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> PROPN</tt> (474; 93%),
 <tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (229; 85%),
 <tt>PROPN --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> PROPN</tt> (161; 83%),
-<tt>ADJ --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (146; 95%),
+<tt>ADJ --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (147; 95%),
 <tt>PRON --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> PROPN</tt> (87; 90%),
 <tt>PROPN --[<tt><a href="orv_rnc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (72; 92%).
 

@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  एक (<tt><a href="hi_hdtb-pos-NUM.html
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.043224 (the average of all parts of speech is 1.203116).
+The form / lemma ratio of `NUM` is 1.043224 (the average of all parts of speech is 1.203447).
 
 The 1st highest number of forms (4) was observed with the lemma “हजार”: हज़ार, हज़ारों, हजार, हजारों.
 

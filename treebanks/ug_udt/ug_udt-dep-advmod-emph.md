@@ -7,7 +7,6 @@ udver: '2'
 ## Treebank Statistics: UD_Uyghur-UDT: Relations: `advmod:emph`
 
 This relation is a language-specific subtype of <tt><a href="ug_udt-dep-advmod.html">advmod</a></tt>.
-There are also 1 other language-specific subtypes of `advmod`: <tt><a href="ug_udt-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
 30 nodes (0%) are attached to their parents as `advmod:emph`.
 

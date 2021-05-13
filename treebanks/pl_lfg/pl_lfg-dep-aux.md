@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Polish-LFG: Relations: `aux`
 
 This relation is universal.
-There are 3 language-specific subtypes of `aux`: <tt><a href="pl_lfg-dep-aux-aglt.html">aux:aglt</a></tt>, <tt><a href="pl_lfg-dep-aux-mood.html">aux:mood</a></tt>, <tt><a href="pl_lfg-dep-aux-pass.html">aux:pass</a></tt>.
+There are 4 language-specific subtypes of `aux`: <tt><a href="pl_lfg-dep-aux-clitic.html">aux:clitic</a></tt>, <tt><a href="pl_lfg-dep-aux-cnd.html">aux:cnd</a></tt>, <tt><a href="pl_lfg-dep-aux-imp.html">aux:imp</a></tt>, <tt><a href="pl_lfg-dep-aux-pass.html">aux:pass</a></tt>.
 
 547 nodes (0%) are attached to their parents as `aux`.
 

@@ -22,7 +22,7 @@ The following 22 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 9 acl	color:blue
-1	ϩⲟⲧⲁⲛ	ϩⲟⲧⲁⲛ	CCONJ	CONJ	_	3	advmod	_	_
+1	ϩⲟⲧⲁⲛ	ϩⲟⲧⲁⲛ	CCONJ	CONJ	Foreign=Yes	3	advmod	_	OrigLang=grc
 2	ⲉⲩϣⲁⲛ	ⲉⲣϣⲁⲛ_ⲛⲧⲟⲟⲩ	PRON	ACOND_PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
 3	ⲣⲛⲟⲃⲉ	ⲣⲛⲟⲃⲉ	VERB	V	VerbForm=Fin	0	root	_	Morphs=ⲣ-ⲛⲟⲃⲉ|Orig=ⲣ̄ⲛⲟⲃⲉ`
 4	ⲉ	ⲉ	ADP	PREP	_	5	case	_	_
@@ -84,7 +84,7 @@ The following 22 pairs of parts of speech are connected with `acl`: <tt><a href=
 8	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	11	mark	_	_
 9	ϩⲙ	ϩⲛ	ADP	PREP	_	11	case	_	Orig=ϩⲙ̄
 10	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Entity=(place
-11	ⲡⲁⲗⲗⲁϯⲟⲛ	ⲡⲁⲗⲗⲁϯⲟⲛ	NOUN	N	_	4	acl	_	Entity=place)person)
+11	ⲡⲁⲗⲗⲁϯⲟⲛ	ⲡⲁⲗⲗⲁϯⲟⲛ	NOUN	N	Foreign=Yes	4	acl	_	Entity=place)person)|OrigLang=la
 12	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~

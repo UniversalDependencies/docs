@@ -11,7 +11,7 @@ It occurs with 6 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`.
 
 23269 tokens (63%) have a non-empty value of `Case`.
 3471 types (74%) occur at least once with a non-empty value of `Case`.
-1533 lemmas (56%) occur at least once with a non-empty value of `Case`.
+1534 lemmas (56%) occur at least once with a non-empty value of `Case`.
 The feature is used with 6 part-of-speech tags: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (11245; 31% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (6406; 17% instances), <tt><a href="cs_cltt-pos-ADP.html">ADP</a></tt> (3942; 11% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (971; 3% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (636; 2% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (69; 0% instances).
 
 ### `NOUN`
@@ -116,7 +116,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 636 <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (565; 89%), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (551; 87%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (546; 86%), <tt><a href="cs_cltt-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (543; 85%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (480; 75%), <tt><a href="cs_cltt-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (480; 75%), <tt><a href="cs_cltt-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (474; 75%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="cs_cltt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (565; 89%), <tt><a href="cs_cltt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (551; 87%), <tt><a href="cs_cltt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (546; 86%), <tt><a href="cs_cltt-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (493; 78%), <tt><a href="cs_cltt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (480; 75%), <tt><a href="cs_cltt-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (480; 75%), <tt><a href="cs_cltt-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (474; 75%).
 
 `PRON` tokens may have the following values of `Case`:
 

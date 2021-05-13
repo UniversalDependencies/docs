@@ -41,13 +41,7 @@ The 2nd highest number of forms (1) was observed with the lemma “&#39;&#39;”
 
 The 3rd highest number of forms (1) was observed with the lemma “'”: <em>'</em>.
 
-`PUNCT` occurs with 4 features: <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt> (1; 0% instances), <tt><a href="ru_gsd-feat-Case.html">Case</a></tt> (1; 0% instances), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt> (1; 0% instances), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt> (1; 0% instances)
-
-`PUNCT` occurs with 4 feature-value pairs: `Animacy=Anim`, `Case=Nom`, `Gender=Masc`, `Number=Sing`
-
-`PUNCT` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (18124 tokens).
-Examples: <em>,, ., --, ), (, ``, &#39;&#39;, -, :, ;</em>
+`PUNCT` does not occur with any features.
 
 
 ## Relations

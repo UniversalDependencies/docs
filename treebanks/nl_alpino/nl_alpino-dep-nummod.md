@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1899 nodes (1%) are attached to their parents as `nummod`.
+1594 nodes (1%) are attached to their parents as `nummod`.
 
-1743 instances of `nummod` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.3522906793049.
+1452 instances of `nummod` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.37515683814304.
 
-The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (1706; 90% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (84; 4% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (39; 2% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (21; 1% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (21; 1% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (11; 1% instances), <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (1371; 86% instances), <tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (84; 5% instances), <tt><a href="nl_alpino-pos-X.html">X</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (43; 3% instances), <tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (30; 2% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (29; 2% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (16; 1% instances), <tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (14; 1% instances), <tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt>-<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 2	meer	veel	PRON	VNW|onbep|grad|stan|vrij|zonder|comp	PronType=Ind	4	amod	4:amod	_
 3	dan	dan	SCONJ	VG|onder	_	2	fixed	2:fixed	_
 4	twee	twee	NUM	TW|hoofd|prenom|stan	_	5	nummod	5:nummod	_
-5	grastoernooien	grastoernooi	NOUN	N|soort|mv|basis	Number=Plur	8	obl	8:obl:van	_
+5	grastoernooien	gras_toernooi	NOUN	N|soort|mv|basis	Number=Plur	8	obl	8:obl:van	_
 6	op	op	ADP	VZ|init	_	7	case	7:case	_
 7	rij	rij	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	nmod	5:nmod:op	_
 8	wordt	worden	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
@@ -60,19 +60,17 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 nummod	color:blue
-1	De	de	DET	LID|bep|stan|rest	Definite=Def	3	det	3:det	_
-2	twee	twee	NUM	TW|hoofd|prenom|stan	_	3	nummod	3:nummod	_
-3	anderen	ander	ADJ	ADJ|nom|basis|met-e|mv-n	Degree=Pos	4	nsubj	4:nsubj	_
-4	stegen	stijgen	VERB	WW|pv|verl|mv	Number=Plur|Tense=Past|VerbForm=Fin	0	root	0:root	_
-5	boven	boven	ADP	VZ|init	_	6	case	6:case	_
-6	zichzelf	zichzelf	PRON	VNW|refl|pron|obl|nadr|3|getal	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	4	obl	4:obl:boven	_
-7	uit	uit	ADP	VZ|fin	_	4	compound:prt	4:compound:prt	SpaceAfter=No
-8	.	.	PUNCT	LET	_	4	punct	4:punct	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 nummod	color:blue
+1	van	van	ADP	VZ|init	_	2	case	2:case	_
+2	50,2	50,2	SYM	SPEC|symb	_	0	root	0:root	_
+3	tot	tot	ADP	VZ|init	_	5	case	5:case	_
+4	47,5	47,5	NUM	TW|hoofd|prenom|stan	_	5	nummod	5:nummod	_
+5	pct.	procent	X	SPEC|afk	Abbr=Yes	2	parataxis	2:parataxis	SpaceAfter=No
+6	.	.	PUNCT	LET	_	2	punct	2:punct	_
 
 ~~~
 

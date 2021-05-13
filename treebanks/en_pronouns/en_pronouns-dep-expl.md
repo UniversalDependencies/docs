@@ -23,9 +23,9 @@ The following 1 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 1 expl	color:blue
 1	There	there	PRON	EX	_	2	expl	_	_
-2	is	be	VERB	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	SpaceAfter=No
-4	.	.	PUNCT	Period	_	2	punct	_	_
+2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	SpaceAfter=No
+4	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 

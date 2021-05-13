@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `det:nummod`: <tt><a
 4	záznam	záznam	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	5	nsubj	_	_
 5	může	moci	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 6	být	být	AUX	Vf--------A----	Polarity=Pos|VerbForm=Inf	7	aux:pass	_	_
-7	tvořen	tvořený	ADJ	VsYS---XX-AP---	Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	5	obj	_	LDeriv=tvořit
+7	tvořen	tvořený	ADJ	VsYS---XX-AP---	Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	5	ccomp	_	LDeriv=tvořit
 8	několika	několik	DET	Ca--7----------	Case=Ins|NumType=Card|PronType=Ind	11	det:nummod	_	_
 9	dílčími	dílčí	ADJ	AAIP7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	11	amod	_	_
 10	účetními	účetní	ADJ	AAIP7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	11	amod	_	LId=účetní-1

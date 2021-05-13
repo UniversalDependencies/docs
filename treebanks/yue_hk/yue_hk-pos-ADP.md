@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  喺 (<tt><a href="yue_hk-pos-ADP.html">AD
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 2.450000 (the average of all parts of speech is 1.622766).
+The form / lemma ratio of `ADP` is 2.450000 (the average of all parts of speech is 1.624294).
 
 The 1st highest number of forms (38) was observed with the lemma “_”: 上, 上高, 之內, 之前, 之後, 以至, 作為, 依照, 到, 到到, 去, 去到, 同埋, 向, 喺, 因為, 將, 對, 對於, 就, 就住, 底下, 度, 建基於, 後, 按照, 時候, 有關, 根據, 比, 為咗, 由, 由於, 畀, 至於, 透過, 關於, 除咗.
 

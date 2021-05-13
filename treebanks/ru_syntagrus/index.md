@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Kira Droganova, Olga Lyashevskaya, Daniel Zeman.
 
 Repository: [UD_Russian-SynTagRus](https://github.com/UniversalDependencies/UD_Russian-SynTagRus)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_syntagrus27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_syntagrus28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -447,9 +447,6 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
     <ul>
       <li>ADJ: других, нужно, другой, другие, должны, сам, должен, первый, самом, новые</li>
       <li>ADV: так, уже, еще, можно, как, очень, однако, где, сейчас, например</li>
-      <li>DET: один, одни, одной, одна, одного, одно, одних, одним, одном, одну</li>
-      <li>NOUN: э</li>
-      <li>PROPN: Жуковские, Жуковская, Смольном, Стрийковский, Юрьев</li>
     </ul>
   </li>
 </ul>
@@ -528,7 +525,7 @@ December 13–14, 2018, Oslo University, Norway (No. 155, pp. 52-65). Linköping
 <ul>
   <li>Cnd
     <ul>
-      <li>PART: бы</li>
+      <li>AUX: бы</li>
       <li>SCONJ: чтобы, чтоб</li>
     </ul>
   </li>

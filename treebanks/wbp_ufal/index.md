@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Daniel Zeman.
 
 Repository: [UD_Warlpiri-UFAL](https://github.com/UniversalDependencies/UD_Warlpiri-UFAL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udwbp_ufal27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udwbp_ufal28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -62,7 +62,7 @@ ISBN 978-0-521-58156-1
 
 ## Features
 
-[Case](wbp_ufal-feat-Case.html) – [Clitic](wbp_ufal-feat-Clitic.html) – [Mood](wbp_ufal-feat-Mood.html) – [Number](wbp_ufal-feat-Number.html) – [Number[obj]](wbp_ufal-feat-Number-obj.html) – [Person](wbp_ufal-feat-Person.html) – [Person[dat]](wbp_ufal-feat-Person-dat.html) – [Person[obj]](wbp_ufal-feat-Person-obj.html) – [Person[sdat]](wbp_ufal-feat-Person-sdat.html) – [PronType](wbp_ufal-feat-PronType.html) – [Tense](wbp_ufal-feat-Tense.html) – [VerbForm](wbp_ufal-feat-VerbForm.html)
+[Case](wbp_ufal-feat-Case.html) – [Clitic](wbp_ufal-feat-Clitic.html) – [Mood](wbp_ufal-feat-Mood.html) – [Number](wbp_ufal-feat-Number.html) – [Number[dat]](wbp_ufal-feat-Number-dat.html) – [Number[obj]](wbp_ufal-feat-Number-obj.html) – [Person](wbp_ufal-feat-Person.html) – [Person[dat]](wbp_ufal-feat-Person-dat.html) – [Person[obj]](wbp_ufal-feat-Person-obj.html) – [PronType](wbp_ufal-feat-PronType.html) – [Tense](wbp_ufal-feat-Tense.html) – [VerbForm](wbp_ufal-feat-VerbForm.html)
 
 ## Relations
 
@@ -72,7 +72,7 @@ ISBN 978-0-521-58156-1
 
 
 <ul>
-<li>This corpus contains 55 sentences, 306 tokens and 314 syntactic words.</li>
+<li>This corpus contains 55 sentences, 306 tokens and 315 syntactic words.</li>
 </ul>
 
 <ul>
@@ -88,8 +88,8 @@ ISBN 978-0-521-58156-1
 </ul>
 
 <ul>
-<li>This corpus contains 8 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 3 types of multi-word tokens. Examples: Ngarrkangkuka, Karlirna, Ngarrkarna.</li>
+<li>This corpus contains 9 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 4 types of multi-word tokens. Examples: Ngarrkangkuka, Karlirna, Ngajulurlurna, Ngarrkarna.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -105,7 +105,7 @@ ISBN 978-0-521-58156-1
 </ul>
 
 <ul>
-<li>This corpus contains 5 lemmas tagged as pronouns (PRON): ngaju, ngajulu, nyuntu, rna, yali</li>
+<li>This corpus contains 4 lemmas tagged as pronouns (PRON): ngaju, ngajulu, nyuntu, yali</li>
 </ul>
 
 <ul>
@@ -180,9 +180,9 @@ ISBN 978-0-521-58156-1
 <ul>
   <li>Sing
     <ul>
-      <li>AUX: karnangku, karna, kanpaju, karnapalangu, kanpa, kapirna, kapirnarla</li>
+      <li>AUX: karnangku, karna, rna, kanpaju, karnapalangu, kanpa, kapirna, kapirnarla, karlajinta</li>
       <li>NOUN: kurdungku, maliki, Ngarrkangku, kurdu, kurduku, miyi, Karntagku, karntaku, yujuku, Ngarrka</li>
-      <li>PRON: ngaju, ngajulurlu, nyuntuku, nyuntu, nyuntulurlu, rna, Ngajulurlurna, ngajuku, nyuntukurra</li>
+      <li>PRON: ngaju, ngajulurlu, nyuntuku, nyuntu, nyuntulurlu, Ngajulurlurna, ngajuku, nyuntukurra</li>
       <li>VERB: Yungurnarla</li>
     </ul>
   </li>
@@ -394,8 +394,8 @@ ISBN 978-0-521-58156-1
 <ul>
   <li>1
     <ul>
-      <li>AUX: karnangku, karna, karnapalangu, kapirna, kapirnarla</li>
-      <li>PRON: ngaju, ngajulurlu, rna, Ngajulurlurna, ngajuku</li>
+      <li>AUX: karnangku, karna, rna, karnapalangu, kapirna, kapirnarla</li>
+      <li>PRON: ngaju, ngajulurlu, Ngajulurlurna, ngajuku</li>
       <li>VERB: Yungurnarla</li>
     </ul>
   </li>
@@ -413,7 +413,7 @@ ISBN 978-0-521-58156-1
 <ul>
   <li>3
     <ul>
-      <li>AUX: kalu, kalujana</li>
+      <li>AUX: kalu, kalujana, karlajinta</li>
     </ul>
   </li>
 </ul>
@@ -429,7 +429,19 @@ ISBN 978-0-521-58156-1
     <ul>
       <li>Yes
         <ul>
-          <li>PRON: rna</li>
+          <li>AUX: rna</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Number[dat]</a>
+    <ul>
+      <li>Sing
+        <ul>
+          <li>AUX: karlajinta</li>
         </ul>
       </li>
     </ul>
@@ -451,7 +463,7 @@ ISBN 978-0-521-58156-1
       </li>
       <li>Sing
         <ul>
-          <li>AUX: kaju, karnangku, kanpaju</li>
+          <li>AUX: kaju, karnangku, kanpaju, karlajinta</li>
         </ul>
       </li>
     </ul>
@@ -486,19 +498,7 @@ ISBN 978-0-521-58156-1
       </li>
       <li>3
         <ul>
-          <li>AUX: karnapalangu, kalujana</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li><a>Person[sdat]</a>
-    <ul>
-      <li>3
-        <ul>
-          <li>AUX: karlajinta</li>
+          <li>AUX: karnapalangu, kalujana, karlajinta</li>
         </ul>
       </li>
     </ul>
@@ -525,7 +525,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN-Abs (10)</li>
       <li>VERB--NOUN-Erg (15)</li>
-      <li>VERB--PRON (2)</li>
       <li>VERB--PRON-Abs (6)</li>
       <li>VERB--PRON-Erg (8)</li>
       <li>VERB-Fin--NOUN-Erg (10)</li>

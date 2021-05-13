@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of obl:agent in UD_Old_Russian-TOROT'
+title:  'Statistics of obl:agent in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Relations: `obl:agent`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Relations: `obl:agent`
 
 This relation is a language-specific subtype of <tt><a href="orv_torot-dep-obl.html">obl</a></tt>.
 
@@ -63,7 +63,7 @@ The following 15 pairs of parts of speech are connected with `obl:agent`: <tt><a
 3	начаша	начати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=98.3
 4	пр҃рки	пророкъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	5	obj	_	ref=98.3
 5	избивати	избивати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=98.3
-6	ѡбличаеми	обличати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Pass	3	advcl	_	ref=98.3
+6	ѡбличаеми	обличати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Pass	3	advcl	_	ref=98.3
 7	ѿ	отъ	ADP	R-	_	8	case	_	ref=98.3
 8	них	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	obl:agent	_	ref=98.3
 

@@ -60,9 +60,9 @@ The 2nd highest number of forms (11) was observed with the lemma “челове
 
 The 3rd highest number of forms (10) was observed with the lemma “актер”: <em>актер, актера, актеров, актеры, актёр, актёра, актёрами, актёров, актёром, актёры</em>.
 
-`NOUN` occurs with 7 features: <tt><a href="ru_gsd-feat-Case.html">Case</a></tt> (26755; 100% instances), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt> (26755; 100% instances), <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt> (26754; 100% instances), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt> (26754; 100% instances), <tt><a href="ru_gsd-feat-Abbr.html">Abbr</a></tt> (6; 0% instances), <tt><a href="ru_gsd-feat-Foreign.html">Foreign</a></tt> (3; 0% instances), <tt><a href="ru_gsd-feat-Degree.html">Degree</a></tt> (1; 0% instances)
+`NOUN` occurs with 6 features: <tt><a href="ru_gsd-feat-Case.html">Case</a></tt> (26755; 100% instances), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt> (26755; 100% instances), <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt> (26754; 100% instances), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt> (26754; 100% instances), <tt><a href="ru_gsd-feat-Abbr.html">Abbr</a></tt> (6; 0% instances), <tt><a href="ru_gsd-feat-Foreign.html">Foreign</a></tt> (3; 0% instances)
 
-`NOUN` occurs with 18 feature-value pairs: `Abbr=Yes`, `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Par`, `Case=Voc`, `Degree=Pos`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
+`NOUN` occurs with 17 feature-value pairs: `Abbr=Yes`, `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Par`, `Case=Voc`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
 
 `NOUN` occurs with 76 feature combinations.
 The most frequent feature combination is `Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing` (2968 tokens).

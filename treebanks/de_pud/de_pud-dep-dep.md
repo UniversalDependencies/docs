@@ -44,7 +44,7 @@ The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="
 20	finden	finden	VERB	VB	_	5	conj	_	SpaceAfter=No
 21	,	,	PUNCT	,	_	26	punct	_	_
 22	die	der	PRON	REL	Case=Nom|Gender=Fem|Number=Sing|Person=3	26	nsubj	_	_
-23	eine	ein	DET	PDT	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|Person=3	25	det:predet	_	_
+23	eine	ein	DET	PDT	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|Person=3	25	det	_	_
 24	andere	ander	DET	DT	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|Person=3	25	det	_	_
 25	Sprachgeschichte	Sprachgeschichte	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	26	obj	_	_
 26	aufweist	aufweisen	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	18	acl:relcl	_	SpaceAfter=No

@@ -29,7 +29,7 @@ The following 4 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 5	kejadian	jadi	NOUN	_	Number=Sing	4	nmod	_	_
 6	dibahas	bahas	VERB	_	Mood=Ind|Voice=Pass	0	root	_	_
 7	dengan	dengan	ADP	_	_	8	case:adv	_	_
-8	mendalam	dalam	ADV	_	_	6	advmod	_	SpaceAfter=No
+8	mendalam	dalam	VERB	_	Mood=Ind|Voice=Act	6	advcl	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~

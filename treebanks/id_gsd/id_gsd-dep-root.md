@@ -11,7 +11,7 @@ This relation is universal.
 5593 nodes (5%) are attached to their parents as `root`.
 
 5593 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.94957983193277.
+Average distance between parent and child is 5.89057750759878.
 
 The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (4202; 75% instances), -<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (944; 17% instances), -<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (199; 4% instances), -<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (144; 3% instances), -<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (59; 1% instances), -<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (16; 0% instances), -<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (13; 0% instances), -<tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (10; 0% instances), -<tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), -<tt><a href="id_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), -<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), -<tt><a href="id_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
@@ -59,7 +59,7 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 1	SURO	suro	PROPN	X--	_	0	root	_	MorphInd=^suro<x>_X--$
 2	SEDONO	sedono	PROPN	X--	_	1	flat	_	MorphInd=^sedono<x>_X--$
 3	1887	1887	NUM	CC-	NumType=Card	1	nummod	_	MorphInd=^1887<c>_CC-$
-4	-	-	PUNCT	Z--	_	1	punct	_	MorphInd=^-<z>_Z--$
+4	-	-	PUNCT	Z--	_	5	punct	_	MorphInd=^-<z>_Z--$
 5	1899	1899	NUM	CC-	NumType=Card	1	nummod	_	MorphInd=^1899<c>_CC-$
 6	3	3	NUM	CC-	NumType=Card	1	nummod	_	SpaceAfter=No|MorphInd=^3<c>_CC-$
 7	.	.	PUNCT	Z--	_	1	punct	_	MorphInd=^.<z>_Z--$

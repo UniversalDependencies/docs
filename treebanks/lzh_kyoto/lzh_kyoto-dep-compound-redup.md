@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="lzh_kyoto-dep-compound.html">compound</a></tt>.
 
-283 nodes (0%) are attached to their parents as `compound:redup`.
+298 nodes (0%) are attached to their parents as `compound:redup`.
 
-283 instances of `compound:redup` (100%) are left-to-right (parent precedes child).
+298 instances of `compound:redup` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 5 pairs of parts of speech are connected with `compound:redup`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (210; 74% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (47; 17% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (23; 8% instances), <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `compound:redup`: <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (219; 73% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt> (53; 18% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (23; 8% instances), <tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lzh_kyoto-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt>-<tt><a href="lzh_kyoto-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -43,7 +43,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 3	ของ	_	ADP	IN	_	4	case	_	SpaceAfter=No
 4	เขา	_	PRON	PRP	Person=3	2	obl:poss	_	SpaceAfter=No
 5	ที่	_	ADP	IN	_	7	mark	_	SpaceAfter=No
-6	จะ	_	VERB	MD	_	7	aux	_	SpaceAfter=No
+6	จะ	_	AUX	MD	_	7	aux	_	SpaceAfter=No
 7	หยุด	_	VERB	VV	_	2	advcl	_	SpaceAfter=No
 8	หน้าที่	_	NOUN	NN	_	7	obj	_	SpaceAfter=No
 9	การงาน	_	NOUN	NN	_	8	compound	_	SpaceAfter=No

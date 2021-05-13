@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Assyrian-AS: Relations: `aux`
 
 This relation is universal.
-There are 1 language-specific subtypes of `aux`: <tt><a href="aii_as-dep-aux-poss.html">aux:poss</a></tt>.
+There are 1 language-specific subtypes of `aux`: <tt><a href="aii_as-dep-aux-pass.html">aux:pass</a></tt>.
 
 18 nodes (4%) are attached to their parents as `aux`.
 

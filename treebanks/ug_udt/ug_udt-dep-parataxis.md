@@ -45,8 +45,8 @@ The following 24 pairs of parts of speech are connected with `parataxis`: <tt><a
 1	كىلە	_	NOUN	N	_	9	parataxis	_	Translit=kile|Morf=Unknown
 2	قوزام	قوزا	NOUN	N	Case=Nom|Number[psor]=Sing|Person[psor]=1	1	nsubj	_	SpaceAfter=No|Translit=qozam
 3	،	،	PUNCT	Y	_	1	punct	_	Translit=,
-4	بەكلە	_	NOUN	N	_	5	advmod	_	Translit=bekle|Morf=Unknown
-5	قورقۇپ	قورق	VERB	V	Aspect=Perf|VerbForm=Cov	9	parataxis	_	Translit=qorqup
+4	بەكلە	_	NOUN	N	_	5	obl	_	Translit=bekle|Morf=Unknown
+5	قورقۇپ	قورق	VERB	V	Aspect=Perf|VerbForm=Inf	9	parataxis	_	Translit=qorqup
 6	كىتىپسەن	_	AUX	V	_	5	aux	_	SpaceAfter=No|Translit=kitipsen|Morf=Unknown
 7	،	،	PUNCT	Y	_	6	punct	_	Translit=,
 8	سىنى	سەن	PRON	N	Case=Acc|Number=Sing|Person=2|PronType=Prs	9	obj	_	Translit=sini

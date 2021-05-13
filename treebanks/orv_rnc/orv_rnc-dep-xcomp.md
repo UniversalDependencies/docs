@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of xcomp in UD_Old_Russian-RNC'
+title:  'Statistics of xcomp in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Relations: `xcomp`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Relations: `xcomp`
 
 This relation is universal.
 

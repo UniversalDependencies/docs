@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
-15672 tokens (13%) have a non-empty value of `VerbForm`.
-4387 types (25%) occur at least once with a non-empty value of `VerbForm`.
-1329 lemmas (10%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (11246; 9% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (4426; 4% instances).
+15692 tokens (13%) have a non-empty value of `VerbForm`.
+4391 types (25%) occur at least once with a non-empty value of `VerbForm`.
+1330 lemmas (10%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (11258; 9% instances), <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (4434; 4% instances).
 
 ### `VERB`
 
-11246 <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+11258 <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9650; 86%), <tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7011; 62%), <tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6181; 55%), <tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5755; 51%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9662; 86%), <tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7011; 62%), <tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (6181; 55%), <tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5761; 51%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (6959; 62% of non-empty `VerbForm`): <em>fa, è, ha, dice, piace, va, ho, parla, amo, fanno</em>
+* `Fin` (6966; 62% of non-empty `VerbForm`): <em>fa, è, ha, dice, piace, va, ho, parla, amo, fanno</em>
 * `Ger` (239; 2% of non-empty `VerbForm`): <em>facendo, aspettando, andando, dando, dicendo, dimostrando, guardando, cercando, diventando, parlando</em>
-* `Inf` (2444; 22% of non-empty `VerbForm`): <em>fare, far, dire, vedere, andare, avere, parlare, pagare, ridere, uscire</em>
-* `Part` (1604; 14% of non-empty `VerbForm`): <em>fatto, detto, dato, nominato, fatta, messo, trovato, letto, perso, iniziato</em>
+* `Inf` (2446; 22% of non-empty `VerbForm`): <em>fare, far, dire, vedere, andare, avere, pagare, parlare, ridere, uscire</em>
+* `Part` (1607; 14% of non-empty `VerbForm`): <em>fatto, detto, dato, nominato, fatta, messo, trovato, letto, perso, iniziato</em>
 * `EMPTY` (2): <em>Clicca</em>
 
 <table>
@@ -39,10 +39,12 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>farebbe</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>fareste</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>farebbero</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Imp</tt></tt></td><td><em>fate</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>fai, fatti, fà, fam, fal, Fammi</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>fa, faccia, fal</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>facciamo</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>fate</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Ind</tt></tt></td><td><em>faccio</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>farò</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>facevo</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>faccio, Fal</em></td><td></td><td></td><td></td></tr>
@@ -69,16 +71,16 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-4426 <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+4434 <tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3751; 85%), <tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3724; 84%), <tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3508; 79%), <tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=3</tt> (3012; 68%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3751; 85%), <tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3731; 84%), <tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3508; 79%), <tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=3</tt> (3012; 68%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (4160; 94% of non-empty `VerbForm`): <em>è, sono, ha, ho, e', siamo, sei, può, hanno, sarà</em>
+* `Fin` (4167; 94% of non-empty `VerbForm`): <em>è, sono, ha, e', ho, siamo, sei, può, hanno, sarà</em>
 * `Ger` (5; 0% of non-empty `VerbForm`): <em>essendo, avendo, dovendo</em>
 * `Inf` (169; 4% of non-empty `VerbForm`): <em>essere, aver, voler, esser, poter, avere, dover, potere, volere</em>
-* `Part` (92; 2% of non-empty `VerbForm`): <em>stato, stata, stati, state, potuto, dovuto, dovuta, ststa</em>
+* `Part` (93; 2% of non-empty `VerbForm`): <em>stato, stata, stati, state, potuto, dovuto, dovuta, ststa</em>
 * `EMPTY` (2): <em>sara', é</em>
 
 <table>
@@ -95,6 +97,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>Sii, stai</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>Siamo, stiamo</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>siate, state</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Ind</tt></tt></td><td><em>è, e'</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>sarò</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>ero, stavo</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sono, sto, son, sn, so</em></td><td></td><td></td><td></td></tr>
@@ -121,12 +124,13 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>siate</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>fossero</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_postwita-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>siano</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_postwita-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>Stata</em></td><td></td></tr>
 </table>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="it_postwita-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (792; 61%),
+<tt>VERB --[<tt><a href="it_postwita-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (796; 61%),
 <tt>VERB --[<tt><a href="it_postwita-dep-conj.html">conj</a></tt>]--> VERB</tt> (716; 74%),
 <tt>VERB --[<tt><a href="it_postwita-dep-parataxis-obj.html">parataxis:obj</a></tt>]--> VERB</tt> (15; 60%),
 <tt>VERB --[<tt><a href="it_postwita-dep-parataxis-discourse.html">parataxis:discourse</a></tt>]--> VERB</tt> (12; 67%),

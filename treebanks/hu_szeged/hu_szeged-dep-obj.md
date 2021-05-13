@@ -24,13 +24,13 @@ The following 18 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 6	fgColor:white
 # visual-style 6 5 obj	color:blue
 1	Az	az	DET	_	Definite=Def|PronType=Art	2	det	_	_
-2	LRI	LRI	PROPN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	6	nsubj	_	_
-3	szerdán	szerda	NOUN	_	Case=Sup|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	6	nmod:obl	_	_
-4	két	két	NUM	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|NumType=Card|Person[psor]=None	5	nummod	_	_
-5	közleményt	közlemény	NOUN	_	Case=Acc|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	6	obj	_	_
+2	LRI	LRI	PROPN	_	Case=Nom|Number=Sing	6	nsubj	_	_
+3	szerdán	szerda	NOUN	_	Case=Sup|Number=Sing	6	obl	_	_
+4	két	két	NUM	_	Case=Nom|Number=Sing|NumType=Card	5	nummod	_	_
+5	közleményt	közlemény	NOUN	_	Case=Acc|Number=Sing	6	obj	_	_
 6	juttatott	jut	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	_
 7	el	el	ADV	_	_	6	compound:preverb	_	_
-8	szerkesztőségünkhöz	szerkesztőség	NOUN	_	Case=All|Number=Sing|Number[psed]=None|Number[psor]=Plur|Person[psor]=1	6	nmod:obl	_	SpaceAfter=No
+8	szerkesztőségünkhöz	szerkesztőség	NOUN	_	Case=All|Number=Sing|Number[psor]=Plur|Person[psor]=1	6	obl	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
@@ -42,11 +42,11 @@ The following 18 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 obj	color:blue
-1	Ezt	ez	PRON	_	Case=Acc|Number=Sing|Number[psed]=None|Number[psor]=None|Person=3|Person[psor]=None|PronType=Dem	3	obj	_	_
+1	Ezt	ez	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	obj	_	_
 2	este	este	ADV	_	_	3	advmod:tlocy	_	_
 3	visszavonta	vissza+von	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	a	a	DET	_	Definite=Def|PronType=Art	5	det	_	_
-5	cég	cég	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	3	nsubj	_	SpaceAfter=No
+5	cég	cég	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -59,16 +59,16 @@ The following 18 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 8	fgColor:white
 # visual-style 8 6 obj	color:blue
 1	A	a	DET	_	Definite=Def|PronType=Art	2	det	_	_
-2	kiadvány	kiadvány	NOUN	_	Case=Nom|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	6	nmod:att	_	_
-3	keddi	keddi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	6	amod:att	_	_
-4	bécsi	bécsi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	6	amod:att	_	_
+2	kiadvány	kiadvány	NOUN	_	Case=Nom|Number=Sing	6	nmod:att	_	_
+3	keddi	keddi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	amod:att	_	_
+4	bécsi	bécsi	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	6	amod:att	_	_
 5	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
-6	premierjét	premier	NOUN	_	Case=Acc|Number=Sing|Number[psed]=None|Number[psor]=Sing|Person[psor]=3	8	obj	_	SpaceAfter=No
+6	premierjét	premier	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obj	_	SpaceAfter=No
 7	"	"	PUNCT	_	_	6	punct	_	_
-8	követően	követő	ADJ	_	Case=Ess|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None|VerbForm=PartPres	13	amod:mode	_	_
+8	követően	követő	ADJ	_	Case=Ess|Number=Sing|VerbForm=PartPres	13	advmod:mode	_	_
 9	a	a	DET	_	Definite=Def|PronType=Art	11	det	_	_
-10	budapesti	budapesti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	11	amod:att	_	_
-11	sajtóbemutatót	sajtóbemutató	NOUN	_	Case=Acc|Number=Sing|Number[psed]=None|Number[psor]=None|Person[psor]=None	13	obj:lvc	_	_
+10	budapesti	budapesti	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	11	amod:att	_	_
+11	sajtóbemutatót	sajtóbemutató	NOUN	_	Case=Acc|Number=Sing	13	obj:lvc	_	_
 12	ma	ma	ADV	_	_	13	advmod:tlocy	_	_
 13	tartják	tart	VERB	_	Definite=Def|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	13	punct	_	_

@@ -7,7 +7,6 @@ udver: '2'
 ## Treebank Statistics: UD_Uyghur-UDT: Relations: `aux`
 
 This relation is universal.
-There are 1 language-specific subtypes of `aux`: <tt><a href="ug_udt-dep-aux-q.html">aux:q</a></tt>.
 
 815 nodes (2%) are attached to their parents as `aux`.
 
@@ -29,7 +28,7 @@ The following 20 pairs of parts of speech are connected with `aux`: <tt><a href=
 4	تېخىچە	تېخىچە	ADJ	D	Case=Nom	7	advmod	_	Translit=tëxiche
 5	سالتاڭ	سالتاڭ	NOUN	N	Case=Nom	7	obl	_	Translit=saltang
 6	پېتى	پات	ADJ	D	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	5	case	_	Translit=pëti
-7	ئۆتۈپ	ئۆت	VERB	V	Aspect=Perf|VerbForm=Cov	0	root	_	Translit=ötüp
+7	ئۆتۈپ	ئۆت	VERB	V	Aspect=Perf|VerbForm=Inf	0	root	_	Translit=ötüp
 8	كېتىۋاتىدۇ	_	AUX	V	_	7	aux	_	SpaceAfter=No|Translit=këtiwatidu|Morf=Unknown
 9	.	.	PUNCT	Y	_	8	punct	_	Translit=.
 
@@ -48,7 +47,7 @@ The following 20 pairs of parts of speech are connected with `aux`: <tt><a href=
 4	،	،	PUNCT	Y	_	3	punct	_	Translit=,
 5	سەن	سەن	PRON	P	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	Translit=sen
 6	تاياق	تاياق	NOUN	N	Case=Nom	7	obj	_	Translit=tayaq
-7	يەپ	يە	VERB	V	Aspect=Perf|VerbForm=Cov	0	root	_	Translit=yep
+7	يەپ	يە	VERB	V	Aspect=Perf|VerbForm=Inf	0	root	_	Translit=yep
 8	باققانمۇ	باق	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	SpaceAfter=No|Translit=baqqanmu
 9	؟	؟	PUNCT	Y	_	8	punct	_	Translit=?
 
@@ -64,7 +63,7 @@ The following 20 pairs of parts of speech are connected with `aux`: <tt><a href=
 1	بەلكى	بەلكى	CCONJ	C	_	3	cc	_	Translit=belki
 2	كۆپ	كۆپ	ADJ	A	_	3	amod	_	Translit=köp
 3	خىل	خىل	NOUN	N	Case=Nom	0	root	_	Translit=xil
-4	بولىدۇ	بول	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	3	aux	_	SpaceAfter=No|Translit=bolidu
+4	بولىدۇ	بول	AUX	V	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	SpaceAfter=No|Translit=bolidu
 5	.	.	PUNCT	Y	_	4	punct	_	Translit=.
 
 ~~~

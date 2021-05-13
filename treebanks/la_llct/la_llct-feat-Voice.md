@@ -12,17 +12,17 @@ It occurs with 2 different values: `Act`, `Pass`.
 32705 tokens (13%) have a non-empty value of `Voice`.
 2348 types (25%) occur at least once with a non-empty value of `Voice`.
 469 lemmas (13%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 2 part-of-speech tags: <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (29842; 12% instances), <tt><a href="la_llct-pos-AUX.html">AUX</a></tt> (2863; 1% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (29843; 12% instances), <tt><a href="la_llct-pos-AUX.html">AUX</a></tt> (2862; 1% instances).
 
 ### `VERB`
 
-29842 <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Voice`.
+29843 <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt> (20674; 69%), <tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (20086; 67%), <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20086; 67%), <tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15737; 53%), <tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (15507; 52%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt> (20674; 69%), <tt><a href="la_llct-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (20087; 67%), <tt><a href="la_llct-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20087; 67%), <tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15738; 53%), <tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (15507; 52%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (19773; 66% of non-empty `Voice`): <em>subscripsi, debeamus, dedi, est, dedisti, tenet, conplevi, regnante, scribere, conponere</em>
+* `Act` (19774; 66% of non-empty `Voice`): <em>subscripsi, debeamus, dedi, est, dedisti, tenet, conplevi, regnante, scribere, conponere</em>
 * `Pass` (10069; 34% of non-empty `Voice`): <em>rogatus, legitur, actum, traditam, dicitur, fieri, videtur, facta, faciendum, videor</em>
 * `EMPTY` (145): <em>[verb], [participle], [--]</em>
 
@@ -39,13 +39,13 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 ### `AUX`
 
-2863 <tt><a href="la_llct-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Voice`.
+2862 <tt><a href="la_llct-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2745; 96%), <tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2649; 93%), <tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt> (2179; 76%), <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2175; 76%), <tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1730; 60%), <tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1729; 60%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="la_llct-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2744; 96%), <tt><a href="la_llct-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2649; 93%), <tt><a href="la_llct-feat-Person.html">Person</a></tt><tt>=3</tt> (2178; 76%), <tt><a href="la_llct-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2175; 76%), <tt><a href="la_llct-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1729; 60%), <tt><a href="la_llct-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1728; 60%).
 
 `AUX` tokens may have the following values of `Voice`:
 
-* `Act` (2863; 100% of non-empty `Voice`): <em>est, fuerit, sum, fuit, fuerint, sunt, esse, fui, sumus, es</em>
+* `Act` (2862; 100% of non-empty `Voice`): <em>est, fuerit, sum, fuit, fuerint, sunt, esse, fui, sumus, es</em>
 
 ## Relations with Agreement in `Voice`
 

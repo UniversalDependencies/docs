@@ -49,7 +49,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 6	na	na	ADP	prep:loc	AdpType=Prep	8	case	8:case|11:case	Case=Loc
 7	poziomie	poziom	NOUN	subst:sg:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	fixed	6:fixed	_
 8	20000	20000	NUM	num:pl:gen:m2:congr	Animacy=Nhum|Case=Gen|Gender=Masc|Number=Plur|NumForm=Digit|NumType=Card	5	obl:arg	5:obl:arg	SpaceAfter=No
-9	-	-	PUNCT	interp	PunctType=Hyph	11	punct	11:punct	SpaceAfter=No
+9	-	-	PUNCT	interp	PunctType=Dash	11	punct	11:punct	SpaceAfter=No
 10	30000	30000	NUM	num:pl:gen:m2:congr	Animacy=Nhum|Case=Gen|Gender=Masc|Number=Plur|NumForm=Digit|NumType=Card	11	nummod	11:nummod	_
 11	zł	złoty	X	brev:npun	Abbr=Yes|Pun=No	8	conj	5:obl:arg|8:conj	SpaceAfter=No
 12	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	_

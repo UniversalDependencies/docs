@@ -78,7 +78,7 @@ The following 6 pairs of parts of speech are connected with `orphan`: <tt><a hre
 30	taş	taş	NOUN	NN	Number=Sing	31	compound	_	_
 31	şeklinde	şekil	NOUN	NN	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	32	obl	_	_
 32	olan	ol	ADJ	VJ	Number=Sing|Polarity=Pos	22	conj	_	_
-33	bir	bir	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	34	det	_	_
+33	bir	bir	DET	DT	Definite=Ind|Polarity=Pos	34	det	_	_
 34	dizi	dizi	NOUN	NN	Number=Sing	38	compound	_	_
 35	on	on	NUM	CD	Number=Sing|NumType=Ord	37	nummod	_	_
 36	büyük	büyük	ADJ	JJ	Number=Sing	37	amod	_	_
@@ -99,7 +99,7 @@ The following 6 pairs of parts of speech are connected with `orphan`: <tt><a hre
 1	Tuna	T	PROPN	PROPN	Number=Sing	2	nmod:poss	_	Proper=True
 2	Deltası'nın	Deltası	NOUN	NN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	nmod:poss	_	Proper=True
 3	büyük	büyük	ADJ	JJ	Number=Sing	5	amod	_	_
-4	bir	bir	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	5	det	_	_
+4	bir	bir	DET	DT	Definite=Ind|Polarity=Pos	5	det	_	_
 5	kısmı	kısım	NOUN	NN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	0	root	_	orig_deprel=nsubj
 6	Romanya'da	Romanya	PROPN	PROPN	Case=Loc|Number=Sing	5	orphan	_	orig_deprel=advmod|Proper=True
 7	(	(	PUNCT	(	_	9	punct	_	SpaceAfter=No

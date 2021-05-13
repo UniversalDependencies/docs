@@ -28,11 +28,11 @@ The following 6 pairs of parts of speech are connected with `det`: <tt><a href="
 3	ko	_	PART	_	_	5	discourse	_	_
 4	u	_	PRON	_	_	5	nsubj	_	_
 5	delila	_	VERB	_	_	2	parataxis:obj	_	SpaceAfter=No
-6	,	_	PUNCT	_	_	2	punct	_	_
+6	,	_	PUNCT	_	_	11	punct	_	_
 7	ko	_	PART	_	_	11	discourse	_	_
 8	maa	_	NOUN	_	_	11	nsubj	_	_
 9	caman	_	ADJ	_	_	8	amod	_	_
-10	bɛ	_	AUX	_	_	11	aux	_	_
+10	bɛ	bɛ	AUX	_	Aspect=Imp|Polarity=Pos	11	aux	_	Gloss=IPFV.AFF
 11	tɛmɛ	_	VERB	_	_	2	parataxis	_	_
 12	sira	_	NOUN	_	_	11	obl	_	_
 13	in	_	DET	_	_	12	det	_	_
@@ -76,7 +76,7 @@ The following 6 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 4 5 det	color:blue
 1	dugu	dùgu	NOUN	n	_	2	nsubj	_	Gloss=terre
 2	jèra	jɛra	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	0	root	_	Gloss=blanchir|Morf=blanchir,PFV.INTR|SpaceAfter=No
-3	,	,	PUNCT	_	_	2	punct	_	Gloss=,
+3	,	,	PUNCT	_	_	6	punct	_	Gloss=,
 4	Dawuda	Dáwuda	PROPN	n.prop	_	6	nsubj	_	Gloss=NOM.M
 5	yèrè	yɛ̀rɛ	DET	dtm	_	4	det	_	Gloss=même
 6	wulila	wulila	VERB	v	Aspect=Perf|Polarity=Pos|Valency=1	2	parataxis	_	Gloss=se.lever|Morf=se.lever,PFV.INTR

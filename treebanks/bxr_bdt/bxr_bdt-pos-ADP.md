@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Buryat-BDT: POS Tags: `ADP`
 
-There are 52 `ADP` lemmas (2%), 52 `ADP` types (1%) and 181 `ADP` tokens (2%).
-Out of 16 observed tags, the rank of `ADP` is: 7 in number of lemmas, 8 in number of types and 10 in number of tokens.
+There are 53 `ADP` lemmas (2%), 53 `ADP` types (1%) and 181 `ADP` tokens (2%).
+Out of 16 observed tags, the rank of `ADP` is: 7 in number of lemmas, 9 in number of types and 10 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>соо, дээрэ, тухай, дээрээ, харин, соогоо, руу, тула, хүрэтэр, түлөө</em>
 
 The 10 most frequent `ADP` types:  <em>соо, дээрэ, тухай, дээрээ, харин, соогоо, руу, тула, хүрэтэр, түлөө</em>
 
-The 10 most frequent ambiguous lemmas: <em>харин</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 10, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 6), <em>тула</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 6, <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 1), <em>хүрэтэр</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 6, <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 1), <em>урда</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 5, <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 2), <em>болон</em> (<tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 24, <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 4, <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> 1), <em>доро</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 3, <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 1), <em>тиигээд</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 3, <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 2, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 1), <em>дотор</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 2, <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 1, <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> 1), <em>дунда</em> (<tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 2), <em>саана</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 2, <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>харин</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 10, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 6), <em>тула</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 6, <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 1), <em>хүрэтэр</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 6, <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 1), <em>урда</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 5, <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 2), <em>болон</em> (<tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 24, <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 4, <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> 1), <em>доро</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 3, <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 1), <em>дотор</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 2, <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 1, <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> 1), <em>дунда</em> (<tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 2), <em>саана</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 2, <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 1), <em>тиигээд</em> (<tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 3, <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 2, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>харин</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 5, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 5), <em>хүрэтэр</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 6, <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 1), <em>болон</em> (<tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 24, <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 4, <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 1), <em>доро</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 3, <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 1), <em>дотор</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 2, <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 1), <em>дунда</em> (<tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 2), <em>саана</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 2, <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 1), <em>урдаа</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 2, <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 1), <em>хажууда</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 2, <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 1), <em>хойно</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 2, <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>харин</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 5, <tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 5), <em>хүрэтэр</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 6, <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 1), <em>болон</em> (<tt><a href="bxr_bdt-pos-CCONJ.html">CCONJ</a></tt> 24, <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 4, <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 1), <em>доро</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 3, <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 1), <em>дотор</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 2, <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 1), <em>дунда</em> (<tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 2), <em>саана</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 2, <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 1), <em>тиигээд</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 1, <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 1), <em>урдаа</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 2, <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 1), <em>хажууда</em> (<tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 2, <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 1)
 
 
 * <em>харин</em>
@@ -41,19 +41,19 @@ The 10 most frequent ambiguous types:  <em>харин</em> (<tt><a href="bxr_bdt
 * <em>саана</em>
   * <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 2: <em>Гэр хадын <b>саана</b> байна .</em>
   * <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 1: <em>- Манай Монголой агууехэ тала дайдаар хэдэн мянгаад жэлэй <b>саана</b> элдэб һонин үйлэ хэрэгүүд тохёолдожо , бүхы арадуудай ажаһуудалда мүр сараа үлөөһэн байна .</em>
+* <em>тиигээд</em>
+  * <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 1: <em>Үүдэн нээгдээ , тэрьедээд , <b>тиигээд</b> хүүгэдые сошоолгоо .</em>
+  * <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 1: <em>Тооһоноо аршажа дууһаад , <b>тиигээд</b> тооһо хородог машинаар сэбэрлэлгэ хэбэ .</em>
 * <em>урдаа</em>
   * <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 2: <em>Эдэ үдэрнүүдтэ Буряадаймнай <b>урдаа</b> хараха дуу , хатарай « Байгал » театр ялас гэмэ концерт наадаар харагшадаа үшөө дахин бая-суулба .</em>
   * <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> 1: <em>Зүрхэнэйм дуунууд үерлэн <b>урдаа</b> .</em>
 * <em>хажууда</em>
   * <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 2: <em>Гэрэй <b>хажууда</b> байһан харгы .</em>
   * <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 1: <em>Мэргэдэй хэрэм гэжэ байна , Табан хурган , Балтын <b>хажууда</b> сонгоол болон хори буряадуудай түрүүшынхиеэ уулзаһан газар бии .</em>
-* <em>хойно</em>
-  * <tt><a href="bxr_bdt-pos-ADP.html">ADP</a></tt> 2: <em>Сонхоной <b>хойно</b> хүхэ юумэн харагдажа байгаа .</em>
-  * <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> 1: <em>Хоер үхибүүд <b>хойно</b> хойноһоонь түрөө .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.635385).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.633129).
 
 The 1st highest number of forms (1) was observed with the lemma “_”: <em>соонь</em>.
 
@@ -66,17 +66,19 @@ The 3rd highest number of forms (1) was observed with the lemma “болото�
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 13 different relations: <tt><a href="bxr_bdt-dep-case.html">case</a></tt> (145; 80% instances), <tt><a href="bxr_bdt-dep-advmod.html">advmod</a></tt> (13; 7% instances), <tt><a href="bxr_bdt-dep-mark.html">mark</a></tt> (7; 4% instances), <tt><a href="bxr_bdt-dep-advcl.html">advcl</a></tt> (3; 2% instances), <tt><a href="bxr_bdt-dep-nmod.html">nmod</a></tt> (3; 2% instances), <tt><a href="bxr_bdt-dep-compound.html">compound</a></tt> (2; 1% instances), <tt><a href="bxr_bdt-dep-flat.html">flat</a></tt> (2; 1% instances), <tt><a href="bxr_bdt-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="bxr_bdt-dep-nmod-own.html">nmod:own</a></tt> (1; 1% instances), <tt><a href="bxr_bdt-dep-nsubj.html">nsubj</a></tt> (1; 1% instances), <tt><a href="bxr_bdt-dep-parataxis.html">parataxis</a></tt> (1; 1% instances), <tt><a href="bxr_bdt-dep-root.html">root</a></tt> (1; 1% instances), <tt><a href="bxr_bdt-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
+`ADP` nodes are attached to their parents using 10 different relations: <tt><a href="bxr_bdt-dep-case.html">case</a></tt> (147; 81% instances), <tt><a href="bxr_bdt-dep-advmod.html">advmod</a></tt> (12; 7% instances), <tt><a href="bxr_bdt-dep-mark.html">mark</a></tt> (9; 5% instances), <tt><a href="bxr_bdt-dep-advcl.html">advcl</a></tt> (3; 2% instances), <tt><a href="bxr_bdt-dep-nmod.html">nmod</a></tt> (3; 2% instances), <tt><a href="bxr_bdt-dep-compound.html">compound</a></tt> (2; 1% instances), <tt><a href="bxr_bdt-dep-flat.html">flat</a></tt> (2; 1% instances), <tt><a href="bxr_bdt-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="bxr_bdt-dep-nsubj.html">nsubj</a></tt> (1; 1% instances), <tt><a href="bxr_bdt-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
 
-Parents of `ADP` nodes belong to 8 different parts of speech: <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (114; 63% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (34; 19% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (11; 6% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (8; 4% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> (7; 4% instances), <tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (3; 2% instances),  (1; 1% instances)
+Parents of `ADP` nodes belong to 7 different parts of speech: <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (115; 64% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (33; 18% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (11; 6% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (8; 4% instances), <tt><a href="bxr_bdt-pos-PRON.html">PRON</a></tt> (7; 4% instances), <tt><a href="bxr_bdt-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (3; 2% instances)
 
-164 (91%) `ADP` nodes are leaves.
+168 (93%) `ADP` nodes are leaves.
 
-17 (9%) `ADP` nodes have one child.
+12 (7%) `ADP` nodes have one child.
 
-The highest child degree of a `ADP` node is 1.
+1 (1%) `ADP` nodes have two children.
 
-Children of `ADP` nodes are attached using 6 different relations: <tt><a href="bxr_bdt-dep-fixed.html">fixed</a></tt> (7; 41% instances), <tt><a href="bxr_bdt-dep-flat.html">flat</a></tt> (3; 18% instances), <tt><a href="bxr_bdt-dep-punct.html">punct</a></tt> (3; 18% instances), <tt><a href="bxr_bdt-dep-nmod.html">nmod</a></tt> (2; 12% instances), <tt><a href="bxr_bdt-dep-amod.html">amod</a></tt> (1; 6% instances), <tt><a href="bxr_bdt-dep-compound.html">compound</a></tt> (1; 6% instances)
+The highest child degree of a `ADP` node is 2.
 
-Children of `ADP` nodes belong to 6 different parts of speech: <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (5; 29% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (3; 18% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (3; 18% instances), <tt><a href="bxr_bdt-pos-PUNCT.html">PUNCT</a></tt> (3; 18% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (2; 12% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (1; 6% instances)
+Children of `ADP` nodes are attached using 6 different relations: <tt><a href="bxr_bdt-dep-punct.html">punct</a></tt> (4; 29% instances), <tt><a href="bxr_bdt-dep-fixed.html">fixed</a></tt> (3; 21% instances), <tt><a href="bxr_bdt-dep-compound.html">compound</a></tt> (2; 14% instances), <tt><a href="bxr_bdt-dep-flat.html">flat</a></tt> (2; 14% instances), <tt><a href="bxr_bdt-dep-nmod.html">nmod</a></tt> (2; 14% instances), <tt><a href="bxr_bdt-dep-amod.html">amod</a></tt> (1; 7% instances)
+
+Children of `ADP` nodes belong to 6 different parts of speech: <tt><a href="bxr_bdt-pos-PUNCT.html">PUNCT</a></tt> (4; 29% instances), <tt><a href="bxr_bdt-pos-VERB.html">VERB</a></tt> (4; 29% instances), <tt><a href="bxr_bdt-pos-PROPN.html">PROPN</a></tt> (3; 21% instances), <tt><a href="bxr_bdt-pos-ADJ.html">ADJ</a></tt> (1; 7% instances), <tt><a href="bxr_bdt-pos-ADV.html">ADV</a></tt> (1; 7% instances), <tt><a href="bxr_bdt-pos-NOUN.html">NOUN</a></tt> (1; 7% instances)
 

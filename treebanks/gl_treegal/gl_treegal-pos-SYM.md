@@ -9,9 +9,9 @@ udver: '2'
 There are 6 `SYM` lemmas (0%), 6 `SYM` types (0%) and 6 `SYM` tokens (0%).
 Out of 16 observed tags, the rank of `SYM` is: 13 in number of lemmas, 13 in number of types and 16 in number of tokens.
 
-The 10 most frequent `SYM` lemmas: <em>%, /, m​a​n​u​e​l​m​a​r​i​a​@​a​s​-​p​g​.​c​o​m, podo, www.bng-galiza.org, www.novoestatuto.com</em>
+The 10 most frequent `SYM` lemmas: <em>%, /, manuelmaria@as-pg.com, podo, www.bng-galiza.org, www.novoestatuto.com</em>
 
-The 10 most frequent `SYM` types:  <em>%, /, m​a​n​u​e​l​m​a​r​i​a​@​a​s​-​p​g​.​c​o​m, podo, www.bng-galiza.org, www.novoestatuto.com</em>
+The 10 most frequent `SYM` types:  <em>%, /, manuelmaria@as-pg.com, podo, www.bng-galiza.org, www.novoestatuto.com</em>
 
 The 10 most frequent ambiguous lemmas: <em>/</em> (<tt><a href="gl_treegal-pos-PUNCT.html">PUNCT</a></tt> 3, <tt><a href="gl_treegal-pos-SYM.html">SYM</a></tt> 1)
 

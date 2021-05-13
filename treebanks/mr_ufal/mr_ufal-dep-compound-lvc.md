@@ -37,7 +37,7 @@ The following 5 pairs of parts of speech are connected with `compound:lvc`: <tt>
 # visual-style 6	fgColor:white
 # visual-style 6 5 compound:lvc	color:blue
 1	तेथे	तेथे	ADV	_	_	6	advmod	_	_
-2	_	राजा	NOUN	_	Case=Obl|Gender=Masc|Number=Sing	6	obl	_	_
+2	_	राजा	NOUN	_	Case=Abs|Gender=Masc|Number=Sing	6	obl	_	_
 3	_	साठी	ADP	_	_	2	case	_	_
 4	सिंहासन	सिंहासन	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj:pass	_	_
 5	तयार	तयार	ADV	_	_	6	compound:lvc	_	_
@@ -56,7 +56,7 @@ The following 5 pairs of parts of speech are connected with `compound:lvc`: <tt>
 # visual-style 8	fgColor:white
 # visual-style 8 7 compound:lvc	color:blue
 1	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
-2	हे	हा	DET	_	Distance=Prox|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	_
+2	हे	हा	DET	_	Deixis=Prox|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	_
 3	म्हातारे	म्हातारा	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	4	amod	_	_
 4	शेतकरी	शेतकरी	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
 5	साक्षीदार	साक्षीदार	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_

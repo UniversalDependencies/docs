@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Slovak-SNK: POS Tags: `CCONJ`
 
 There are 30 `CCONJ` lemmas (0%), 31 `CCONJ` types (0%) and 3376 `CCONJ` tokens (3%).
-Out of 17 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 14 in number of types and 11 in number of tokens.
+Out of 17 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 14 in number of types and 11 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>a, ale, aj, alebo, i, ani, či, však, lebo, no</em>
 
@@ -24,10 +24,10 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="sk_snk-pos-CCONJ
   * <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 1: <em>“ No <b>a</b> ?</em>
   * <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> 1: <em>Táto práca <b>a</b> vyznačuje chaotickosťou usporiadania materiálu .</em>
 * <em>ale</em>
-  * <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 161: <em>Táto historka sa medzi ľuďmi udomácnila , <b>ale</b> nie je pravdivá .</em>
+  * <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 161: <em>Súčasne znovu ponúkol mierové rokovania Perzii , <b>ale</b> zbytočne .</em>
   * <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 6: <em>Ja sa <b>ale</b> na nikoho nehnevám .</em>
 * <em>aj</em>
-  * <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 200: <em>Okrem tuberkulózy ho sužovala <b>aj</b> cirhóza pečene .</em>
+  * <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 200: <em>V tomto ohľade už predčil <b>aj</b> osvietencov .</em>
   * <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 87: <em>A tentoraz vraj povezie <b>aj</b> zatykače .</em>
 * <em>i</em>
   * <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 68: <em>Tá zapôsobila na americkú verejnosť <b>i</b> na prezidenta Wilsona .</em>
@@ -42,20 +42,20 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="sk_snk-pos-CCONJ
   * <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 36: <em>Bol milý , vtipný , <b>no</b> to bolo všetko .</em>
   * <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 3: <em>Zbombardovali ju -- <b>no</b> , pred mnohými a mnohými rokmi .</em>
 * <em>tak</em>
-  * <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> 68: <em>Bellerofontov koniec už nebol <b>tak</b> šťastný .</em>
+  * <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> 68: <em>Zenón zomrel 9 . apríla 491 a prežil <b>tak</b> obidvoch svojich synov .</em>
   * <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 23: <em>Sily sú vyrovnané — a <b>tak</b> sa začína „ mýtická súťaž “ .</em>
   * <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 19: <em>Každý jeden šedý Reebok vás presvedčí , že <b>tak</b> skoro sa nič nezmení .</em>
   * <tt><a href="sk_snk-pos-X.html">X</a></tt> 1: <em>Emanuel s Makulienkou <b>tak</b> ‐ tak stačili preskočiť na najbližšie lekno .</em>
 * <em>teda</em>
-  * <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 30: <em>V čom je <b>teda</b> užitočnosť manévru ?</em>
+  * <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 30: <em>Spomínaný dialóg medzi nimi je <b>teda</b> pravdepodobne len vymyslený .</em>
   * <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 13: <em>V marci Nemci rozhodli začať operáciu Wesserübung , <b>teda</b> prepad Nórska .</em>
 * <em>len</em>
-  * <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 90: <em>V čase Vladislavovej smrti mal Ľudovít <b>len</b> desať rokov .</em>
+  * <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 90: <em>Spomínaný dialóg medzi nimi je teda pravdepodobne <b>len</b> vymyslený .</em>
   * <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 6: <em>Srdce mi bilo ako zvon , no odľahlo mi , <b>len</b> čo za sebou zavrela .</em>
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.033333 (the average of all parts of speech is 1.801856).
+The form / lemma ratio of `CCONJ` is 1.033333 (the average of all parts of speech is 1.802472).
 
 The 1st highest number of forms (2) was observed with the lemma “síce”: <em>sice, síce</em>.
 

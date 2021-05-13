@@ -22,12 +22,12 @@ The following 1 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 csubj	color:blue
-1	Hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
-2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Inf	3	cop	_	_
+1	Hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nsubj	_	_
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	easy	easy	ADJ	JJ	Degree=Pos	0	root	_	_
 4	to	to	PART	TO	_	5	mark	_	_
-5	clean	clean	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	csubj	_	SpaceAfter=No
-6	.	.	PUNCT	Period	_	5	punct	_	_
+5	clean	clean	VERB	VB	VerbForm=Inf	3	csubj	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	5	punct	_	_
 
 ~~~
 

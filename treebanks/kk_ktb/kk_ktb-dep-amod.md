@@ -27,7 +27,7 @@ The following 17 pairs of parts of speech are connected with `amod`: <tt><a href
 3	сізге	сіз	PRON	prn	Case=Dat|Number=Sing|Person=2|Polite=Form|PronType=Prs	6	obl	_	_
 4	ерекше	ерекше	ADJ	adj	_	5	amod	_	_
 5	құрметпен	құрмет	NOUN	n	Case=Ins	6	obl	_	_
-6	қарайды	қара	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	қарайды	қара	VERB	v	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	sent	_	6	punct	_	_
 
 ~~~
@@ -45,7 +45,7 @@ The following 17 pairs of parts of speech are connected with `amod`: <tt><a href
 4	сапары	сапар	NOUN	n	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	7	obl	_	_
 5	22	22	NUM	num	NumType=Ord	6	amod	_	_
 6	мамырға	мамыр	NOUN	n	Case=Dat	7	obl	_	_
-7	жоспарланып	жоспарла	VERB	v	Aspect=Perf|VerbForm=Cov|Voice=Pass	0	root	_	_
+7	жоспарланып	жоспарла	VERB	v	Aspect=Perf|VerbForm=Inf|Voice=Pass	0	root	_	_
 8	отыр	отыр	AUX	vaux	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	SpaceAfter=No
 9	.	.	PUNCT	sent	_	7	punct	_	_
 
@@ -62,7 +62,7 @@ The following 17 pairs of parts of speech are connected with `amod`: <tt><a href
 2	осы	осы	DET	det	PronType=Dem	3	det	_	_
 3	өңірдегі	өңір	NOUN	n	Case=Loc	4	amod	_	_
 4	бейбітшілікті	бейбітшілік	NOUN	n	Case=Acc	5	obj	_	_
-5	қолдайды	қолда	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	қолдайды	қолда	VERB	v	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	sent	_	5	punct	_	_
 
 ~~~

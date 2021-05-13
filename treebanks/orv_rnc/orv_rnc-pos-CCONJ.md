@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of CCONJ in UD_Old_Russian-RNC'
+title:  'Statistics of CCONJ in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: POS Tags: `CCONJ`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: POS Tags: `CCONJ`
 
 There are 14 `CCONJ` lemmas (0%), 18 `CCONJ` types (0%) and 2847 `CCONJ` tokens (9%).
 Out of 17 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 15 in number of types and 4 in number of tokens.
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="orv_rnc-pos-CCO
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.285714 (the average of all parts of speech is 1.947446).
+The form / lemma ratio of `CCONJ` is 1.285714 (the average of all parts of speech is 1.947924).
 
 The 1st highest number of forms (3) was observed with the lemma “также”: <em>Такъже, Такъжо, также</em>.
 
@@ -74,7 +74,7 @@ Examples: <em>и, а, да, или, ни, і, но, ино, али, ли</em>
 
 `CCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="orv_rnc-dep-cc.html">cc</a></tt> (2824; 99% instances), <tt><a href="orv_rnc-dep-orphan.html">orphan</a></tt> (9; 0% instances), <tt><a href="orv_rnc-dep-fixed.html">fixed</a></tt> (8; 0% instances), <tt><a href="orv_rnc-dep-mark.html">mark</a></tt> (5; 0% instances), <tt><a href="orv_rnc-dep-advmod.html">advmod</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1404; 49% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (979; 34% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (233; 8% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (145; 5% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (40; 1% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (29; 1% instances), <tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (1404; 49% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (979; 34% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (234; 8% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (144; 5% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (40; 1% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (29; 1% instances), <tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
 2839 (100%) `CCONJ` nodes are leaves.
 

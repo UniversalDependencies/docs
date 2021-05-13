@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="sk_snk-pos-DET.
   * <tt><a href="sk_snk-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Zúfalo po tebe túžim , slečna , a <b>to</b> je jedno z mojich bláznovstiev .</em>
 * <em>jej</em>
   * <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> 136: <em>Hoyle túto teóriu nepodporoval a plánoval sa <b>jej</b> vysmiať .</em>
-  * <tt><a href="sk_snk-pos-DET.html">DET</a></tt> 134: <em>Bellerofontes <b>jej</b> lásku neopätoval .</em>
+  * <tt><a href="sk_snk-pos-DET.html">DET</a></tt> 134: <em>Po útokoch z 11 . septembra 2001 nastúpil <b>jej</b> ďalší prudký rast .</em>
 * <em>ich</em>
   * <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> 119: <em>V prípade , že nebudú ani dedičia , nahradia <b>ich</b> univerzity .</em>
   * <tt><a href="sk_snk-pos-DET.html">DET</a></tt> 85: <em>Na cestách spoznával ľudí , <b>ich</b> zvyky a obyčaje .</em>
@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="sk_snk-pos-DET.
   * <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> 2: <em>Ťava sa potkla o voz a <b>všetky</b> granátové jabĺčka popadali na zem .</em>
 * <em>toto</em>
   * <tt><a href="sk_snk-pos-DET.html">DET</a></tt> 23: <em>Vlani získal <b>toto</b> ocenenie režisér Stanley Donen .</em>
-  * <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 2: <em>No <b>toto</b> ! “ zvolala Cruella .</em>
+  * <tt><a href="sk_snk-pos-PART.html">PART</a></tt> 2: <em>No <b>toto</b> !</em>
 * <em>všetci</em>
   * <tt><a href="sk_snk-pos-DET.html">DET</a></tt> 24: <em>Teraz mohli <b>všetci</b> pokračovať v spoločnom programe .</em>
   * <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> 2: <em>“ Zdá sa , že Mauglí ako <b>všetci</b> ľudia má schopnosť priťahovať nebezpečenstvo , “ povedal .</em>
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="sk_snk-pos-DET.
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 5.058824 (the average of all parts of speech is 1.801856).
+The form / lemma ratio of `DET` is 5.058824 (the average of all parts of speech is 1.802472).
 
 The 1st highest number of forms (14) was observed with the lemma “môj”: <em>moja, moje, mojej, moji, mojich, mojimi, mojom, mojou, moju, mojím, môj, môjho, môjmu, náš</em>.
 

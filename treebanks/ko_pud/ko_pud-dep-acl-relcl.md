@@ -28,7 +28,7 @@ The following 12 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 4	따르는	_	VERB	VV	Form=Adn	7	acl:relcl	_	Translit=.dda.reu.neun|LTranslit=_
 5	미국	_	PROPN	NNP	_	6	compound	_	Translit=.mi.gug|LTranslit=_
 6	의회	_	NOUN	NN	_	7	compound	_	Translit=.yi.hoe|LTranslit=_
-7	의원들에게	의원들	NOUN	NN+CM	Case=Advb|Number=Plur|Polite=Form	10	advmod	_	MSeg=의원들-에게|Translit=.yi.weon.deul.e.ge|LTranslit=.yi.weon.deul
+7	의원들에게	의원들	NOUN	NN+CM	Number=Plur|Polite=Form	10	advmod	_	MSeg=의원들-에게|Translit=.yi.weon.deul.e.ge|LTranslit=.yi.weon.deul
 8	이것은	이것	PRON	PRD+CM	Case=Nom|Polite=Form	10	nsubj	_	MSeg=이것-은|Translit=.i.geos.eun|LTranslit=.i.geos
 9	조금	_	ADV	RB	_	10	advmod	_	Translit=.jo.geum|LTranslit=_
 10	다를	_	ADJ	JJ	Form=Adn	11	dep	_	Translit=.da.reul|LTranslit=_
@@ -47,7 +47,7 @@ The following 12 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 5 4 acl:relcl	color:blue
 1	오즈본은	오즈본	PROPN	NNP+CM	Case=Nom|Polite=Form	15	nsubj	_	MSeg=오즈본-은|Translit=.o.jeu.bon.eun|LTranslit=.o.jeu.bon
 2	7	7	NUM	CD	NumType=Card	3	nummod	_	SpaceAfter=No|Translit=7|LTranslit=_
-3	월에	월	NOUN	NNB+CM	Case=Advb|Polite=Form	4	advmod	_	MSeg=월-에|Translit=.weol.e|LTranslit=.weol
+3	월에	월	NOUN	NNB+CM	Polite=Form	4	advmod	_	MSeg=월-에|Translit=.weol.e|LTranslit=.weol
 4	해고된	_	NOUN	NN	_	5	acl:relcl	_	SpaceAfter=No|Translit=.hae.go.doen|LTranslit=_
 5	후	_	NOUN	NN	_	15	advmod	_	Translit=.hu|LTranslit=_
 6	한	_	DET	DT	_	9	det	_	Translit=.han|LTranslit=_
@@ -58,7 +58,7 @@ The following 12 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 11	speakers	_	NOUN	NN	_	12	compound	_	Translit=speakers|LTranslit=_
 12	agency	_	NOUN	NN	_	9	appos	_	SpaceAfter=No|Translit=agency|LTranslit=_
 13	)	)	PUNCT	)	_	12	punct	_	SpaceAfter=No|Translit=)|LTranslit=_
-14	에	에	PART	CM	Case=Advb|Polite=Form	9	dep:prt	_	Translit=.e|LTranslit=_
+14	에	에	PART	CM	Polite=Form	9	case	_	Translit=.e|LTranslit=_
 15	재취업했다	_	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=.jae.chwi.eob.haess.da|LTranslit=_
 16	.	.	PUNCT	.	_	15	punct	_	Translit=.|LTranslit=_
 

@@ -14,7 +14,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 19228 tokens (52%) have a non-empty value of `Gender`.
 3625 types (78%) occur at least once with a non-empty value of `Gender`.
-1606 lemmas (59%) occur at least once with a non-empty value of `Gender`.
+1607 lemmas (59%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 7 part-of-speech tags: <tt><a href="cs_cltt-pos-NOUN.html">NOUN</a></tt> (11292; 31% instances), <tt><a href="cs_cltt-pos-ADJ.html">ADJ</a></tt> (6766; 18% instances), <tt><a href="cs_cltt-pos-DET.html">DET</a></tt> (859; 2% instances), <tt><a href="cs_cltt-pos-VERB.html">VERB</a></tt> (116; 0% instances), <tt><a href="cs_cltt-pos-PRON.html">PRON</a></tt> (90; 0% instances), <tt><a href="cs_cltt-pos-AUX.html">AUX</a></tt> (59; 0% instances), <tt><a href="cs_cltt-pos-NUM.html">NUM</a></tt> (46; 0% instances).
 
 ### `NOUN`

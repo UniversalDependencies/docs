@@ -11,7 +11,7 @@ This relation is a language-specific subtype of <tt><a href="pt_bosque-dep-aux.h
 1195 nodes (1%) are attached to their parents as `aux:pass`.
 
 1193 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.13138075313808.
+Average distance between parent and child is 1.12970711297071.
 
 The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (1178; 99% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (16; 1% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 

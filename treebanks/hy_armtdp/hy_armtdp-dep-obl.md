@@ -42,7 +42,7 @@ The following 38 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 7	fgColor:white
 # visual-style 7 2 obl	color:blue
 1	Հիմա	հիմա	ADV	_	_	7	advmod	_	Translit=Hima|LTranslit=hima
-2	էդտեղից	այդտեղ	PRON	_	Case=Abl|Distance=Med|Number=Sing|PronType=Dem|Style=Coll	7	obl	_	Translit=ēdteġic’|LTranslit=aydteġ
+2	էդտեղից	այդտեղ	PRON	_	Case=Abl|Deixis=Med|Number=Sing|PronType=Dem|Style=Coll	7	obl	_	Translit=ēdteġic’|LTranslit=aydteġ
 3	ոնց	ինչպես	ADV	_	PronType=Int|Style=Coll	7	advmod	_	Translit=onc’|LTranslit=inčpes
 4	՞	՞	PUNCT	_	_	3	punct	_	Translit=?|LTranslit=?
 5	ես	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	Translit=es|LTranslit=em

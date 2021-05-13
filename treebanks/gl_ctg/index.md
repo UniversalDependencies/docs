@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Xavier Gómez Guinovart.
 
 Repository: [UD_Galician-CTG](https://github.com/UniversalDependencies/UD_Galician-CTG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgl_ctg27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgl_ctg28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -89,7 +89,7 @@ The Galician UD treebank covers mainly technical texts of the fields of medicine
 </ul>
 
 <ul>
-<li>This corpus contains 242 types of words that contain both letters and punctuation. Examples: etc., AA., CC., C., S.A., a., art., pp., d/105, L., 1.ª, 2.a, 2.º, 5.º, 80/68/CEE, 92/43/CEE, B., C.H., Castela-A, E., EE.UU., I., J., Timbre-Real, c​o​n​t​e​n​c​i​o​s​o​-​a​d​m​i​n​i​s​t​r​a​t​i​v​o, gr., m/105h, marítimo-terrestre, ptas., v​a​r​i​a​n​z​a​s​-​c​o​v​a​r​i​a​n​z​a​s, -n/2, 08.05.432A.740.0, 1%dos, 1.1.-España, 1.Programa, 1.a, 101/97/CE, 12.1.e, 123.A, 149.1.21.ª, 1999/519/EC, 2.o, 2000/76/CE, 2005,mais, 21.Un, 3.º, 35.3.n, 4.º, 620.1.º, 76/464/CEE</li>
+<li>This corpus contains 242 types of words that contain both letters and punctuation. Examples: etc., AA., CC., C., S.A., a., art., pp., d/105, L., 1.ª, 2.a, 2.º, 5.º, 80/68/CEE, 92/43/CEE, B., C.H., Castela-A, E., EE.UU., I., J., Timbre-Real, contencioso-administrativo, gr., m/105h, marítimo-terrestre, ptas., varianzas-covarianzas, -n/2, 08.05.432A.740.0, 1%dos, 1.1.-España, 1.Programa, 1.a, 101/97/CE, 12.1.e, 123.A, 149.1.21.ª, 1999/519/EC, 2.o, 2000/76/CE, 2005,mais, 21.Un, 3.º, 35.3.n, 4.º, 620.1.º, 76/464/CEE</li>
 </ul>
 
 <ul>

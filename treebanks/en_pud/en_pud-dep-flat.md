@@ -73,12 +73,12 @@ The following 10 pairs of parts of speech are connected with `flat`: <tt><a href
 4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
 5	Mojmír	Mojmír	PROPN	NNP	Number=Sing	0	root	0:root	_
 6	I	i	NUM	CD	NumType=Card	5	flat	5:flat	_
-7	(	(	PUNCT	(	_	8	punct	8:punct	SpaceAfter=No
+7	(	(	PUNCT	-LRB-	_	8	punct	8:punct	SpaceAfter=No
 8	ruled	rule	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	5	parataxis	5:parataxis	_
 9	830	830	NUM	CD	NumType=Card	8	obj	8:obj	SpaceAfter=No
 10	–	–	ADP	IN	_	11	case	11:case	SpaceAfter=No
 11	846	846	NUM	CD	NumType=Card	9	nmod	9:nmod	SpaceAfter=No
-12	)	)	PUNCT	)	_	8	punct	8:punct	SpaceAfter=No
+12	)	)	PUNCT	-RRB-	_	8	punct	8:punct	SpaceAfter=No
 13	.	.	PUNCT	.	_	5	punct	5:punct	_
 
 ~~~

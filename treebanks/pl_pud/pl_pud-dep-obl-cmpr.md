@@ -27,7 +27,7 @@ The following 17 pairs of parts of speech are connected with `obl:cmpr`: <tt><a 
 2	to	to	AUX	pred	Mood=Ind|Tense=Pres|VerbForm=Fin|VerbType=Quasi	4	cop	4:cop	_
 3	jest	być	AUX	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	4:aux	_
 4	takie	taki	DET	adj:sg:nom:n:pos	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	0	root	0:root	_
-5	jak	jak	SCONJ	comp	ConjType=Cmpr	6	mark	6:mark	_
+5	jak	jak	SCONJ	comp	ConjType=Comp	6	mark	6:mark	_
 6	supermoc	supermoc	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	4	obl:cmpr	4:obl:cmpr	SpaceAfter=No
 7	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	_
 
@@ -50,7 +50,7 @@ The following 17 pairs of parts of speech are connected with `obl:cmpr`: <tt><a 
 8	kilometrów	kilometr	NOUN	subst:pl:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	iobj	6:iobj	_
 9	metra	metr	NOUN	subst:sg:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod:arg	8:nmod:arg	SpaceAfter=No
 10	,	,	PUNCT	interp	PunctType=Comm	12	punct	12:punct	_
-11	niż	niż	SCONJ	comp	ConjType=Cmpr	12	mark	12:mark	_
+11	niż	niż	SCONJ	comp	ConjType=Comp	12	mark	12:mark	_
 12	Madryt	Madryt	PROPN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	obl:cmpr	7:obl:cmpr	SpaceAfter=No
 13	.	.	PUNCT	interp	PunctType=Peri	1	punct	1:punct	_
 
@@ -64,7 +64,7 @@ The following 17 pairs of parts of speech are connected with `obl:cmpr`: <tt><a 
 # visual-style 1	fgColor:white
 # visual-style 1 3 obl:cmpr	color:blue
 1	Podobnie	podobnie	ADV	adv:pos	Degree=Pos	9	advmod	9:advmod	_
-2	jak	jak	SCONJ	comp	ConjType=Cmpr	3	mark	3:mark	_
+2	jak	jak	SCONJ	comp	ConjType=Comp	3	mark	3:mark	_
 3	fiordy	fiord	NOUN	subst:pl:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1	obl:cmpr	1:obl:cmpr	SpaceAfter=No
 4	,	,	PUNCT	interp	PunctType=Comm	1	punct	1:punct	_
 5	jeziora	jezioro	NOUN	subst:pl:nom:n:ncol	Case=Nom|Gender=Neut|Number=Plur	9	nsubj	9:nsubj	_

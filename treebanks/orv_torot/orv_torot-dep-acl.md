@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of acl in UD_Old_Russian-TOROT'
+title:  'Statistics of acl in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Relations: `acl`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Relations: `acl`
 
 This relation is universal.
 
@@ -27,7 +27,7 @@ The following 20 pairs of parts of speech are connected with `acl`: <tt><a href=
 3	сѹлтанѣ	султанъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	1	obl	_	ref=20
 4	ковтанъ	кафтанъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=20
 5	всь	вьсь	DET	Px	Case=Nom|Gender=Masc|Number=Sing	4	det	_	ref=20
-6	саженъ	садити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	ref=20
+6	саженъ	садити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	4	acl	_	ref=20
 7	ꙗхонты	яхонтъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Plur	6	iobj	_	ref=20
 
 ~~~
@@ -72,7 +72,7 @@ The following 20 pairs of parts of speech are connected with `acl`: <tt><a href=
 8	пусти	пустити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	acl	_	ref=86.13
 9	гсь	господь	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	ref=86.13
 10	каменье	камение	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	ref=86.13
-11	горюще	горѣти	VERB	V-	Case=Acc|Gender=Neut|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	10	acl	_	ref=86.14
+11	горюще	горѣти	VERB	V-	Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	10	acl	_	ref=86.14
 
 ~~~
 

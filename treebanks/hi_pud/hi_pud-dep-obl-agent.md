@@ -43,7 +43,7 @@ The following 5 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 9 obl:agent	color:blue
-1	काम	_	NOUN	NN	Gender=Masc|Number=Sing	2	compound:conjv	_	Translit=kāma
+1	काम	_	NOUN	NN	Gender=Masc|Number=Sing	2	compound:lvc	_	Translit=kāma
 2	करने	_	VERB	VINF	VerbForm=Inf	4	xcomp	_	Translit=karane
 3	के	_	ADP	IN	Case=Gen|Gender=Masc|Number=Plur	2	case	_	Translit=ke
 4	सिद्धान्तों	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	12	obl	_	Translit=siddhāntoṁ

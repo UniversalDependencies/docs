@@ -8,33 +8,32 @@ udver: '2'
 
 This relation is universal.
 
-170 nodes (1%) are attached to their parents as `appos`.
+183 nodes (0%) are attached to their parents as `appos`.
 
-170 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.3.
+183 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.3879781420765.
 
-The following 19 pairs of parts of speech are connected with `appos`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (77; 45% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (34; 20% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (15; 9% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (8; 5% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (7; 4% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (6; 4% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 18 pairs of parts of speech are connected with `appos`: <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (73; 40% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (45; 25% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (18; 10% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (8; 4% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (7; 4% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (7; 4% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (6; 3% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="cy_ccg-pos-ADV.html">ADV</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cy_ccg-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="cy_ccg-pos-PRON.html">PRON</a></tt>-<tt><a href="cy_ccg-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="cy_ccg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cy_ccg-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 11 appos	color:blue
-1	Mae	bod	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	cop	_	_
-2	Plaid	plaid	NOUN	noun	Gender=Fem|Number=Sing	5	nsubj	_	_
-3	Cymru	Cymru	PROPN	place	Gender=Fem|Number=Sing	2	flat	_	_
-4	yn	yn	PART	pred	_	5	case:pred	_	_
-5	aelod	aelod	NOUN	noun	Gender=Masc|Number=Sing	0	root	_	_
-6	o	o	ADP	prep	_	7	case	_	_
-7	Gynghrair	cynghrair	NOUN	noun	Gender=Masc|Mutation=SM|Number=Sing	5	nmod	_	_
-8	Rhydd	rhydd	ADJ	pos	Degree=Pos	7	amod	_	_
-9	Ewrop	Ewrop	PROPN	place	_	7	flat	_	_
-10	(	(	PUNCT	punct	_	11	punct	_	SpaceAfter=No
-11	EFA	Efa	NOUN	noun	Gender=Fem|Number=Sing	7	appos	_	SpaceAfter=No
-12	)	)	PUNCT	punct	_	11	punct	_	SpaceAfter=No
-13	.	.	PUNCT	punct	_	5	punct	_	SpacesAfter=\n
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 8 appos	color:blue
+1	Dyma	dyma	ADV	adv	_	2	advmod	_	_
+2	fersiwn	fersiwn	NOUN	noun	Gender=Masc|Number=Sing	0	root	_	_
+3	Elise	Elise	PROPN	person	Gender=Masc|Number=Sing	2	nmod	_	_
+4	o	o	ADP	prep	_	6	case	_	SpaceAfter=No
+5	'r	y	DET	art	_	6	det	_	_
+6	gân	cân	NOUN	noun	Gender=Fem|Mutation=SM|Number=Sing	2	nmod	_	_
+7	Un	un	NUM	num	_	8	nummod	_	_
+8	Seren	Seren	NOUN	noun	Gender=Masc|Number=Sing	6	appos	_	_
+9	gan	gan	ADP	prep	_	10	case	_	_
+10	Delwyn	Delwyn	PROPN	person	Gender=Masc|Number=Sing	2	nmod	_	_
+11	Siôn	Siôn	PROPN	person	Gender=Masc|Number=Sing	10	flat:name	_	SpaceAfter=No
+12	.	.	PUNCT	punct	_	2	punct	_	SpacesAfter=\n
 
 ~~~
 
@@ -45,7 +44,7 @@ The following 19 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 9 appos	color:blue
-1	Cafodd	cael	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
+1	Cafodd	cael	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	Owain	Owain	PROPN	person	_	1	nsubj	_	_
 3	Gwynedd	Gwynedd	PROPN	place	Gender=Masc|Number=Sing	2	flat:name	_	_
 4	ddau	dau	NUM	num	Gender=Masc|Mutation=SM	5	nummod	_	_
@@ -67,19 +66,19 @@ The following 19 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 16 appos	color:blue
-1	Mae	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+1	Mae	bod	VERB	verb	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 2	'r	y	DET	art	_	3	det	_	_
 3	geiriau	gair	NOUN	noun	Gender=Masc|Number=Plur	1	nsubj	_	_
 4	wedi	wedi	AUX	ante	_	6	aux	_	_
-5	eu	eu	PRON	dep	Number=Plur|Person=3|PronType=Prs	6	obj	_	_
+5	eu	hwy	PRON	dep	Number=Plur|Person=3|PronType=Prs	6	obj	_	_
 6	ysgrifennu	ysgrifennu	NOUN	verbnoun	Number=Sing|VerbForm=Vnoun	1	xcomp	_	_
 7	gan	gan	ADP	prep	_	8	case	_	_
-8	John	John	PROPN	person	_	6	obl:agent	_	_
+8	John	John	PROPN	person	_	6	nmod:agent	_	_
 9	Howel	Howel	PROPN	person	Gender=Masc|Number=Sing	8	flat:name	_	_
 10	(	(	PUNCT	punct	_	11	punct	_	SpaceAfter=No
-11	1774	1774	NUM	num	Number=Sing	9	nmod	_	SpaceAfter=No
+11	1774	1774	NUM	num	_	9	nmod	_	SpaceAfter=No
 12	-	-	PUNCT	punct	_	13	punct	_	SpaceAfter=No
-13	1830	1830	NUM	num	Number=Sing	11	nmod	_	SpaceAfter=No
+13	1830	1830	NUM	num	_	11	nmod	_	SpaceAfter=No
 14	)	)	PUNCT	punct	_	11	punct	_	_
 15	sef	sef	CCONJ	cconj	_	16	cc	_	_
 16	bardd	bardd	NOUN	noun	Gender=Masc|Number=Sing	8	appos	_	_

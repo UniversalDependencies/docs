@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  就 (<tt><a href="yue_hk-pos-ADV.html">AD
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.621622 (the average of all parts of speech is 1.622766).
+The form / lemma ratio of `ADV` is 1.621622 (the average of all parts of speech is 1.624294).
 
 The 1st highest number of forms (111) was observed with the lemma “_”: 一下, 一來, 一定, 一早, 一而再，再而三, 一路, 一陣, 下, 不, 不論, 不過, 並且, 事實上, 亦, 亦都, 仍然, 以, 仲, 似乎, 但, 但係, 依樣, 依法, 係咪, 先, 先至, 其中, 其實, 再, 剛才, 即, 即係, 即係話, 即刻, 原來, 原先, 去到, 又, 及後, 只, 同時, 咁, 咪, 唔, 唔該, 啲, 喺度, 噉, 噉樣, 噉解, 嚴重, 因此, 因為, 埋, 好, 如此, 完全, 將, 尚未, 就, 就係, 已經, 急速, 我怕, 所以, 打直, 故意, 是否, 暫時, 更加, 最, 最好, 最後, 未, 未必, 未曾, 本身, 根本, 正式, 正正, 比較, 然後, 特別, 由於, 當然, 直接, 真, 確實, 祇, 祇不過, 祇有, 究竟, 絕對, 總之, 而, 自行, 落去, 起碼, 跟住, 返, 連, 進一步, 都, 重新, 鑒於, 非常, 順利, 首先, 點, 點樣, 點解.
 

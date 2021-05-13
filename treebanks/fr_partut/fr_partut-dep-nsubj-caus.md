@@ -46,7 +46,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 3	s'	se	PRON	P	PronType=Prs	4	expl	_	SpaceAfter=No
 4	effriter	effriter	VERB	V	VerbForm=Inf	0	root	_	_
 5	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
-6	rochers	rochers	NOUN	S	Gender=Fem|Number=Plur	4	obj:agent	_	SpaceAfter=No
+6	rochers	rocher	NOUN	S	Gender=Fem|Number=Plur	4	obj:agent	_	SpaceAfter=No
 7	,	,	PUNCT	FF	_	13	punct	_	_
 8	et	et	CCONJ	CC	_	13	cc	_	_
 9	c'	ce	PRON	PD	PronType=Dem	13	nsubj	_	SpaceAfter=No

@@ -33,7 +33,7 @@ The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="
 9	resim	resim	NOUN	Noun	Case=Nom|Number=Sing|Person=3	10	obj	_	_
 10	asmak	as	VERB	Verb	Case=Nom|Polarity=Pos	12	advcl	_	_
 11	için	için	ADP	PCNom	_	10	case	_	_
-12	kullanPotirsin	kullan	VERB	Verb	Aspect=Hab|Mood=Pot|Number=Sing|Person=2|Polarity=Pos|Tense=Aor	0	root	_	SpaceAfter=No
+12	kullanabilirsin	kullan	VERB	Verb	Aspect=Hab|Mood=Pot|Number=Sing|Person=2|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	Punc	_	12	punct	_	SpacesAfter=\n
 
 ~~~
@@ -47,10 +47,10 @@ The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 10 4 dep	color:blue
 1	(	(	PUNCT	Punc	_	4	punct	_	SpaceAfter=No
 2	beyin	beyin	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	nsubj	_	_
-3	şimdilik	şimdilik	ADV	Noun	Case=Nom|Number=Sing|Person=3	4	advmod	_	_
+3	şimdilik	şimdilik	ADV	Noun	_	4	advmod	_	_
 4	dursun	Dursun	NOUN	Noun	Case=Nom|Number=Sing|Person=3	10	dep	_	SpaceAfter=No
 5	)	)	PUNCT	Punc	_	4	punct	_	_
-6	"bir	"bir	DET	ANum	NumType=Card	7	det	_	_
+6	"bir	"bir	DET	ANum	_	7	det	_	_
 7	tek	tek	ADJ	Adj	_	8	amod	_	_
 8	insana	insan	NOUN	Noun	Case=Dat|Number=Sing|Person=3	10	obl	_	SpaceAfter=No
 9	"	"	PUNCT	Punc	_	8	punct	_	_

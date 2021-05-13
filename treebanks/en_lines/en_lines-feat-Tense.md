@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="en_lines-pos-VERB.h
 
 8147 <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> tokens (73% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="en_lines-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (6950; 85%), <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4961; 61%), <tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4956; 61%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="en_lines-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (6954; 85%), <tt><a href="en_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4961; 61%), <tt><a href="en_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4956; 61%).
 
 `VERB` tokens may have the following values of `Tense`:
 

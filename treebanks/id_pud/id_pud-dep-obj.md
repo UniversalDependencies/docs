@@ -11,7 +11,7 @@ This relation is universal.
 849 nodes (4%) are attached to their parents as `obj`.
 
 849 instances of `obj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.17432273262662.
+Average distance between parent and child is 1.17314487632509.
 
 The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (688; 81% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (77; 9% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (70; 8% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-SYM.html">SYM</a></tt> (6; 1% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-X.html">X</a></tt> (6; 1% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 

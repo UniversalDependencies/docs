@@ -36,14 +36,12 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 5 <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> tokens (6% of all `ADV` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="koi_uh-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (5; 100%).
-
 `ADV` tokens may have the following values of `NumType`:
 
 * `Card` (1; 20% of non-empty `NumType`): <em>ӧтикӧ</em>
 * `MultDist` (2; 40% of non-empty `NumType`): <em>кыкисьӧн, кыкисьӧн-куимисьӧн</em>
 * `OrdMult` (2; 40% of non-empty `NumType`): <em>дасöтiсь</em>
-* `EMPTY` (78): <em>кыдз, ни, кӧр, сэсся, сё, талун, чожа, эшӧ, кынымкӧ, кытӧн</em>
+* `EMPTY` (77): <em>кыдз, ни, кӧр, сэсся, сё, талун, чожа, эшӧ, кынымкӧ, кытӧн</em>
 
 ### `ADJ`
 

@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>зярдо</em> (<tt><a href="myv_jr-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 2.038924).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 2.044097).
 
 The 1st highest number of forms (1) was observed with the lemma “Коть”: <em>Коть</em>.
 
@@ -59,11 +59,11 @@ The 2nd highest number of forms (1) was observed with the lemma “бути”: 
 
 The 3rd highest number of forms (1) was observed with the lemma “буто”: <em>буто</em>.
 
-`SCONJ` occurs with 6 features: <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt> (17; 28% instances), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt> (8; 13% instances), <tt><a href="myv_jr-feat-Case.html">Case</a></tt> (4; 7% instances), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt> (2; 3% instances), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt> (1; 2% instances), <tt><a href="myv_jr-feat-Number.html">Number</a></tt> (1; 2% instances)
+`SCONJ` occurs with 6 features: <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt> (20; 33% instances), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt> (8; 13% instances), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt> (2; 3% instances), <tt><a href="myv_jr-feat-Case.html">Case</a></tt> (1; 2% instances), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt> (1; 2% instances), <tt><a href="myv_jr-feat-Number.html">Number</a></tt> (1; 2% instances)
 
-`SCONJ` occurs with 9 feature-value pairs: `AdvType=Man`, `AdvType=Tim`, `Case=Nom`, `Case=Temp`, `Definite=Ind`, `Mood=Cnd`, `Number=Sing`, `PronType=Dem`, `PronType=Int`
+`SCONJ` occurs with 8 feature-value pairs: `AdvType=Man`, `AdvType=Tim`, `Case=Nom`, `Definite=Ind`, `Mood=Cnd`, `Number=Sing`, `PronType=Dem`, `PronType=Int`
 
-`SCONJ` occurs with 7 feature combinations.
+`SCONJ` occurs with 6 feature combinations.
 The most frequent feature combination is `_` (32 tokens).
 Examples: <em>теке, што, бути, штобу, куш, прок, хоть, Коли, Коть, буто</em>
 
@@ -84,7 +84,7 @@ Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="myv
 
 The highest child degree of a `SCONJ` node is 3.
 
-Children of `SCONJ` nodes are attached using 3 different relations: <tt><a href="myv_jr-dep-punct.html">punct</a></tt> (3; 50% instances), <tt><a href="myv_jr-dep-fixed.html">fixed</a></tt> (2; 33% instances), <tt><a href="myv_jr-dep-advmod.html">advmod</a></tt> (1; 17% instances)
+Children of `SCONJ` nodes are attached using 3 different relations: <tt><a href="myv_jr-dep-punct.html">punct</a></tt> (3; 50% instances), <tt><a href="myv_jr-dep-fixed.html">fixed</a></tt> (2; 33% instances), <tt><a href="myv_jr-dep-advmod-foc.html">advmod:foc</a></tt> (1; 17% instances)
 
 Children of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="myv_jr-pos-PUNCT.html">PUNCT</a></tt> (3; 50% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (2; 33% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (1; 17% instances)
 

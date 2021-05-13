@@ -6,32 +6,32 @@ udver: '2'
 
 ## Treebank Statistics: UD_Akkadian-RIAO: Features: `Mood`
 
-This feature is universal but the values `Precative`, `Prohibitive` are language-specific.
-It occurs with 4 different values: `Imp`, `Ind`, `Precative`, `Prohibitive`.
+This feature is universal but the values `Prec`, `Proh` are language-specific.
+It occurs with 4 different values: `Imp`, `Ind`, `Prec`, `Proh`.
 
-2647 tokens (12%) have a non-empty value of `Mood`.
-550 types (20%) occur at least once with a non-empty value of `Mood`.
-179 lemmas (12%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 1 part-of-speech tags: <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (2647; 12% instances).
+2823 tokens (12%) have a non-empty value of `Mood`.
+584 types (20%) occur at least once with a non-empty value of `Mood`.
+190 lemmas (12%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 1 part-of-speech tags: <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (2823; 12% instances).
 
 ### `VERB`
 
-2647 <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> tokens (90% of all `VERB` tokens) have a non-empty value of `Mood`.
+2823 <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> tokens (90% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="akk_riao-feat-VerbForm.html">VerbForm</a></tt><tt>=Finite</tt> (2645; 100%), <tt><a href="akk_riao-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2423; 92%), <tt><a href="akk_riao-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2382; 90%), <tt><a href="akk_riao-feat-Subordinative.html">Subordinative</a></tt><tt>=EMPTY</tt> (2364; 89%), <tt><a href="akk_riao-feat-Verbstem.html">Verbstem</a></tt><tt>=G</tt> (1924; 73%), <tt><a href="akk_riao-feat-Person.html">Person</a></tt><tt>=1</tt> (1848; 70%), <tt><a href="akk_riao-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (1847; 70%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="akk_riao-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2821; 100%), <tt><a href="akk_riao-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2560; 91%), <tt><a href="akk_riao-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2540; 90%), <tt><a href="akk_riao-feat-Subordinative.html">Subordinative</a></tt><tt>=EMPTY</tt> (2515; 89%), <tt><a href="akk_riao-feat-VerbStem.html">VerbStem</a></tt><tt>=G</tt> (2018; 71%), <tt><a href="akk_riao-feat-Person.html">Person</a></tt><tt>=1</tt> (1958; 69%), <tt><a href="akk_riao-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (1957; 69%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (12; 0% of non-empty `Mood`): <em>uddiš, tēr, balliṭ, dūku, epuš, hulliq, taʾer, uddiši, šutur</em>
-* `Ind` (2526; 95% of non-empty `Mood`): <em>attumuš, akšud, adūk, assakan, aqqur, appul, amhur, aqṭirib, aṣbat, aškun</em>
-* `Precative` (82; 3% of non-empty `Mood`): <em>luddiš, lutēr, lukinnū, liskipū, luhalliqū, lušēšibū, līkimū, libriq, likkalmū, littasqar</em>
-* `Prohibitive` (27; 1% of non-empty `Mood`): <em>ušabbā, tapaššiṭ, ekkim, essir, eṣṣidi, ihassasa, ikassir, imahhar, inaddi, inašši</em>
-* `EMPTY` (305): <em>bēde, bēdāk, šūzub, šaknū, ṣali, usbakūni, epēš, šaknu, x, arāk</em>
+* `Ind` (2684; 95% of non-empty `Mood`): <em>attumuš, akšud, adūk, assakan, aqqur, amhur, appul, aqṭirib, aṣbat, arṣip</em>
+* `Prec` (96; 3% of non-empty `Mood`): <em>luddiš, lutēr, lukinnū, luhalliqū, liskipū, lipšuš, liqqi, lušēšibū, līkimū, libriq</em>
+* `Proh` (31; 1% of non-empty `Mood`): <em>ušabbā, tapaššiṭ, ušamsak, ekkim, erraba, essir, eṣṣidi, ihassasa, ikassir, imahhar</em>
+* `EMPTY` (318): <em>bēde, bēdāk, šūzub, šaknū, ṣali, epēš, usbakūni, šaknu, x, arāk</em>
 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> VERB</tt> (904; 90%),
-<tt>VERB --[<tt><a href="akk_riao-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (41; 100%),
+<tt>VERB --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> VERB</tt> (954; 90%),
+<tt>VERB --[<tt><a href="akk_riao-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (47; 100%),
 <tt>VERB --[<tt><a href="akk_riao-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (14; 74%).
 

@@ -13,7 +13,7 @@ This relation is universal.
 125 instances of `nummod` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.168.
 
-The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (121; 97% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (120; 96% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -68,13 +68,13 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 6	пельде	пельде	ADV	Adv	AdvType=Loc	9	obl	_	GTtags=Spat
 7	велесь	веле	NOUN	N	Case=Nom|Definite=Def|Number=Sing	9	nsubj	_	GTtags=Sg,Nom,Def
 8	а	а	AUX	Pcle	Polarity=Neg	9	aux:neg	_	GTtags=Neg
-9	неяви	неявомс	VERB	V	Derivation=OvtOms|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	2	conj	_	GTtags=Der/ОвОмс,IV,Ind,Prs,ScSg3
+9	неяви	неявомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	2	conj	_	GTtags=Der/ОвОмс,IV,Ind,Prs,ScSg3
 10	киненьгак	кияк	PRON	Pron	Case=Dat|Number=Plur,Sing|PronType=Ind	9	obl:agent	_	GTtags=Indef,SP,Dat
 11	семс	семс	ADV	Adv	AdvType=Tim	9	advmod:tmod	_	GTtags=Sem/Time|SpaceAfter=No
 12	,	,	PUNCT	CLB	_	15	punct	_	_
-13	зярс	зярс	ADV	Adv	AdvType=Tim|Derivation=Ill	15	mark	_	GTtags=Der/Ill,Adv,Sem/Time
+13	зярс	зярс	ADV	Adv	AdvType=Tim|Case=Ill	15	mark	_	GTtags=Der/Ill,Adv,Sem/Time
 14	а	а	AUX	Pcle	Polarity=Neg	15	aux:neg	_	GTtags=Neg
-15	эртеват	эртевемс	VERB	V	Derivation=OvtOms|Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|Valency=1	11	advcl	_	GTtags=Der/ОвОмс,IV,Ind,Prs,ScSg2
+15	эртеват	эртевемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Pres|Valency=1	11	advcl	_	GTtags=Der/ОвОмс,IV,Ind,Prs,ScSg2
 16	эйзэнзэ	эйс	ADP	Adp	Case=Ill|Number[psor]=Sing|Person[psor]=3	15	obl	_	GTtags=Ill,PxSg3|SpaceAfter=No
 17	.	.	PUNCT	CLB	_	2	punct	_	_
 

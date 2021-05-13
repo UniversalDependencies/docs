@@ -23,5 +23,5 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (268; 100% of non-empty `Poss`): <em>nya, mereka, kita, Anda, saya, kami, ku</em>
-* `EMPTY` (1063): <em>yang, ia, nya, mereka, saya, itu, ini, apa, kami, dia</em>
+* `EMPTY` (1055): <em>yang, ia, nya, mereka, saya, itu, ini, apa, kami, dia</em>
 

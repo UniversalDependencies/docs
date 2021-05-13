@@ -26,7 +26,7 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 2	grupės	grupė	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	En=group
 3	ne	ne	CCONJ	CC	Polarity=Neg	5	cc	_	En=not
 4	tik	tik	ADV	RB	Degree=Pos	3	fixed	_	En=only
-5	dalija	dalyti	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	En=divide
+5	dalija	dalyti	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	En=divide
 6	šalies	šalis	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	En=country
 7	gyventojus	gyventojas	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	5	obj	_	En=inhabitant
 8	į	į	ADP	UH	_	9	case	_	En=to
@@ -73,7 +73,7 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 2	vienas	vienas	ADJ	JJL	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	En=one
 3	mūsų	mūsų	DET	PRP$	_	4	det	_	En=our
 4	politikas	politikas	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	En=politician
-5	laiko	laikyti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	En=regard
+5	laiko	laikyti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	En=regard
 6	lenkus	lenkas	NOUN	NN	Case=Acc|Gender=Masc|Number=Plur	5	obj	_	En=Polish
 7	ir	ir	CCONJ	CC	_	10	cc	_	En=and
 8	kitas	kitas	ADJ	JJL	Case=Acc|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	10	amod	_	En=other
@@ -103,8 +103,8 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 27	bgColor:blue
 # visual-style 27	fgColor:white
 # visual-style 27 30 orphan	color:blue
-1	Turi	turėti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Reflex=No|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	En=have
-2	atsirasti	atsirasti	VERB	VB	Polarity=Pos|Reflex=No|VerbForm=Inf|Voice=Act	3	xcomp	_	En=arise
+1	Turi	turėti	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	En=have
+2	atsirasti	atsirasti	VERB	VB	Polarity=Pos|VerbForm=Inf|Voice=Act	3	xcomp	_	En=arise
 3	nauja	naujas	ADJ	JJL	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	En=new
 4	valstybinė	valstybinis	ADJ	JJL	Case=Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	En=state
 5	ir	ir	CCONJ	CC	_	6	cc	_	En=and

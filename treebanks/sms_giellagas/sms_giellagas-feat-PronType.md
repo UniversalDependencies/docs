@@ -6,45 +6,53 @@ udver: '2'
 
 ## Treebank Statistics: UD_Skolt_Sami-Giellagas: Features: `PronType`
 
-This feature is universal but the values `Refl` are language-specific.
-It occurs with 5 different values: `Dem`, `Int`, `Prs`, `Refl`, `Rel`.
+This feature is universal.
+It occurs with 5 different values: `Dem`, `Int`, `Prs`, `Rel`, `Tot`.
 
-125 tokens (9%) have a non-empty value of `PronType`.
-39 types (8%) occur at least once with a non-empty value of `PronType`.
-13 lemmas (4%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (117; 9% instances), <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+199 tokens (9%) have a non-empty value of `PronType`.
+54 types (9%) occur at least once with a non-empty value of `PronType`.
+15 lemmas (3%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (191; 9% instances), <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (3; 0% instances).
 
 ### `PRON`
 
-117 <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> tokens (91% of all `PRON` tokens) have a non-empty value of `PronType`.
+191 <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> tokens (91% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (106; 91%), <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt> (79; 68%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (173; 91%), <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt> (126; 66%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (29; 25% of non-empty `PronType`): <em>tõt, tõn, tuk, tut, tän, tät, tõid, tõt-i, tõʹst</em>
-* `Int` (3; 3% of non-empty `PronType`): <em>mâiʹd</em>
-* `Prs` (79; 68% of non-empty `PronType`): <em>son, ton, muu, mon, suu, seeʹst, suʹst, tuu, mij, muännaid</em>
-* `Refl` (1; 1% of non-empty `PronType`): <em>jiõčč</em>
-* `Rel` (5; 4% of non-empty `PronType`): <em>kååʹtt, mii, ǩeäzz</em>
-* `EMPTY` (11): <em>puk, nåkkam, dââʹst, jeeʹres, jiânnai-a, puk-i</em>
+* `Dem` (59; 31% of non-empty `PronType`): <em>tõt, tõn, tut, tän, tõid, Täk, dõõk, dõõn, dõõt, tuk</em>
+* `Int` (9; 5% of non-empty `PronType`): <em>mâiʹd, Mii</em>
+* `Prs` (111; 58% of non-empty `PronType`): <em>son, ton, mon, muu, suu, seeʹst, suʹst, tuu, jiõčč, Jiijj</em>
+* `Rel` (9; 5% of non-empty `PronType`): <em>mii, kååʹtt, mõin, ǩeäzz</em>
+* `Tot` (3; 2% of non-empty `PronType`): <em>puk</em>
+* `EMPTY` (19): <em>puk, mâiʹd, måttam, nåkkam, dââʹst, jeeʹres, jiânnai-a, nuuʹbb, nuʹbb, puk-i</em>
 
-`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (11) occur only with one value of `PronType`.
+<table>
+  <tr><th>Paradigm <i>mii</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
+  <tr><td><tt><tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>mâiʹd</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Com</tt></tt></td><td></td><td><em>mõin</em></td></tr>
+  <tr><td><tt><tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Mii</em></td><td><em>mii</em></td></tr>
+</table>
+
+`PronType` seems to be **lexical feature** of `PRON`. 92% lemmas (12) occur only with one value of `PronType`.
 
 ### `DET`
 
-4 <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> tokens (50% of all `DET` tokens) have a non-empty value of `PronType`.
+5 <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> tokens (56% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 100%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="sms_giellagas-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (4; 80%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Dem` (4; 100% of non-empty `PronType`): <em>tõn, Tät, Tõt</em>
+* `Dem` (4; 80% of non-empty `PronType`): <em>tõn, Tät, Tõt</em>
+* `Prs` (1; 20% of non-empty `PronType`): <em>jiijjâs</em>
 * `EMPTY` (4): <em>jeeʹres, jäänab, måkam, tok</em>
 
 ### `ADV`
 
-3 <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `PronType`.
+3 <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `PronType`.
 
 The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="sms_giellagas-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (3; 100%).
 
@@ -52,16 +60,10 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 * `Int` (1; 33% of non-empty `PronType`): <em>Koozz</em>
 * `Rel` (2; 67% of non-empty `PronType`): <em>mâʹst, mõõzz</em>
-* `EMPTY` (126): <em>âʹtte, še, mäʹhtt, måttmešt, tok, mieʹldd, nuʹt, teâđast, teʹl, tõzz</em>
+* `EMPTY` (216): <em>âʹtte, tok, še, de, kâʹl, mäʹhtt, âʹpet, mâŋŋa, måttmešt, mååusat</em>
 
-### `ADJ`
+## Relations with Agreement in `PronType`
 
-1 <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt> tokens (7% of all `ADJ` tokens) have a non-empty value of `PronType`.
-
-The most frequent other feature values with which `ADJ` and `PronType` co-occurred: <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
-
-`ADJ` tokens may have the following values of `PronType`:
-
-* `Refl` (1; 100% of non-empty `PronType`): <em>jiijjâs</em>
-* `EMPTY` (13): <em>šiõǥǥ, tiõrvâs, ekksaž, jåʹttel, jõnn, kaađâš, kuuʹǩǩ, lääʹđesmiõllsab, nuʹbb, uʹcc</em>
+The 10 most frequent relations where parent and child node agree in `PronType`:
+<tt>PRON --[<tt><a href="sms_giellagas-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> PRON</tt> (1; 100%).
 

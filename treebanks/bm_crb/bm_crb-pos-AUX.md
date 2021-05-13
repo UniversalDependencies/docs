@@ -6,36 +6,36 @@ udver: '2'
 
 ## Treebank Statistics: UD_Bambara-CRB: POS Tags: `AUX`
 
-There are 31 `AUX` lemmas (3%), 22 `AUX` types (2%) and 1363 `AUX` tokens (10%).
-Out of 16 observed tags, the rank of `AUX` is: 6 in number of lemmas, 9 in number of types and 5 in number of tokens.
+There are 17 `AUX` lemmas (2%), 26 `AUX` types (2%) and 1421 `AUX` tokens (10%).
+Out of 16 observed tags, the rank of `AUX` is: 11 in number of lemmas, 9 in number of types and 5 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: <em>kà, yé, ye, bɛ́, bɛ, tɛ́, ka, _, ká, má</em>
+The 10 most frequent `AUX` lemmas: <em>ka, ye, bɛ, tɛ, ma, tùn, dìyé, kàna, mána, bɛ́na</em>
 
-The 10 most frequent `AUX` types:  <em>ka, ye, bè, tè, ma, be, bɛ, diye, kana, mana</em>
+The 10 most frequent `AUX` types:  <em>ka, ye, bè, tè, ma, tun, be, bɛ, diye, kana</em>
 
-The 10 most frequent ambiguous lemmas: <em>kà</em> (<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 406, <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 1), <em>yé</em> (<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 229, <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 173, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 68), <em>bɛ́</em> (<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 114, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 95, <tt><a href="bm_crb-pos-DET.html">DET</a></tt> 1), <em>tɛ́</em> (<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 53, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 35), <em>ka</em> (<tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 57, <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 52), <em>_</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 94, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 71, <tt><a href="bm_crb-pos-PRON.html">PRON</a></tt> 60, <tt><a href="bm_crb-pos-PUNCT.html">PUNCT</a></tt> 59, <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 50, <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 44, <tt><a href="bm_crb-pos-PART.html">PART</a></tt> 37, <tt><a href="bm_crb-pos-DET.html">DET</a></tt> 12, <tt><a href="bm_crb-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="bm_crb-pos-PROPN.html">PROPN</a></tt> 9, <tt><a href="bm_crb-pos-ADV.html">ADV</a></tt> 8, <tt><a href="bm_crb-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="bm_crb-pos-X.html">X</a></tt> 4, <tt><a href="bm_crb-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="bm_crb-pos-NUM.html">NUM</a></tt> 2), <em>ká</em> (<tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 60, <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 40), <em>má</em> (<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 33, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 21), <em>tɛ</em> (<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 30, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 1), <em>bé</em> (<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 18, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ka</em> (<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 518, <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 57), <em>tɛ</em> (<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 90, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 1), <em>bá</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 70, <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 1), <em>dòn</em> (<tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 28, <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 1, <tt><a href="bm_crb-pos-DET.html">DET</a></tt> 1), <em>fulakɛ</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 12, <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 1), <em>kɔ́</em> (<tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 15, <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 7, <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 1, <tt><a href="bm_crb-pos-SCONJ.html">SCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>ka</em> (<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 510, <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 127), <em>ye</em> (<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 370, <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 183, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 71), <em>bè</em> (<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 221, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 84, <tt><a href="bm_crb-pos-DET.html">DET</a></tt> 2), <em>tè</em> (<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 82, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 34), <em>ma</em> (<tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 101, <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 71, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 21), <em>be</em> (<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 19, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 6), <em>bɛ</em> (<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 15, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 8), <em>k'</em> (<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 7, <tt><a href="bm_crb-pos-PART.html">PART</a></tt> 2), <em>na</em> (<tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 131, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 71, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 15, <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 4), <em>tɛ</em> (<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 4, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>ka</em> (<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 510, <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 127), <em>ye</em> (<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 372, <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 181, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 71), <em>bè</em> (<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 234, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 71, <tt><a href="bm_crb-pos-DET.html">DET</a></tt> 2), <em>tè</em> (<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 82, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 34), <em>ma</em> (<tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 101, <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 72, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 20), <em>be</em> (<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 19, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 6), <em>bɛ</em> (<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 15, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 8), <em>k'</em> (<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 7, <tt><a href="bm_crb-pos-PART.html">PART</a></tt> 2), <em>na</em> (<tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 131, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 71, <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 15, <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 4), <em>tɛ</em> (<tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 4, <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 2)
 
 
 * <em>ka</em>
   * <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 510: <em>ko ne wulila don dɔ sɔgɔma <b>ka</b> taa se kɔrɔnna morilu ma .</em>
   * <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 127: <em>An b' a dɔn ko ko jamanamara ka kan ka tali kɛ kɔrɔnfɛmaraw <b>ka</b> tarikuw .</em>
 * <em>ye</em>
-  * <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 370: <em>U <b>ye</b> yamariya di surukuba ma , ko a k' o laada latilen .</em>
-  * <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 183: <em>Maa be kolokuru jalan ta k' o di maa ma , ko k' o kɛ na <b>ye</b> !</em>
+  * <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 372: <em>U <b>ye</b> yamariya di surukuba ma , ko a k' o laada latilen .</em>
+  * <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 181: <em>Maa be kolokuru jalan ta k' o di maa ma , ko k' o kɛ na <b>ye</b> !</em>
   * <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 71: <em>a bɛ fɔ ko kɔrɔtɔ <b>ye</b> sogosan ye .</em>
 * <em>bè</em>
-  * <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 221: <em>ayiwa , a nana o ta , mògò min mana na , o <b>bè</b> a fò ko den nin tògò ?</em>
-  * <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 84: <em>kabini o bòra a la , a <b>bè</b> o nò na .</em>
+  * <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 234: <em>ayiwa , a nana o ta , mògò min mana na , o <b>bè</b> a fò ko den nin tògò ?</em>
+  * <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 71: <em>kabini o bòra a la , a <b>bè</b> o nò na .</em>
   * <tt><a href="bm_crb-pos-DET.html">DET</a></tt> 2: <em>a ko i bè fèn <b>bè</b> latila fo unhun kènè dò !</em>
 * <em>tè</em>
   * <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 82: <em>syèfan ko ko ale <b>tè</b> yèlèn .</em>
   * <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 34: <em>O tuma dennin kasira ko a <b>tè</b> a fè , fa ko ee ko i bè a fè dè .</em>
 * <em>ma</em>
   * <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> 101: <em>Maa be kolokuru jalan ta k' o di maa <b>ma</b> , ko k' o kɛ na ye !</em>
-  * <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 71: <em>Sigidankelen , e <b>ma</b> dɔn ko ɲin si tɛ kologɛlɛya mulukuli ma wa ?</em>
-  * <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 21: <em>a ko : n <b>ma</b> ; ni i ye sin di yan , n bè sunògò .</em>
+  * <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 72: <em>Sigidankelen , e <b>ma</b> dɔn ko ɲin si tɛ kologɛlɛya mulukuli ma wa ?</em>
+  * <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> 20: <em>a ko : n <b>ma</b> ; ni i ye sin di yan , n bè sunògò .</em>
 * <em>be</em>
   * <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> 19: <em>Maa <b>be</b> kolokuru jalan ta k' o di maa ma , ko k' o kɛ na ye !</em>
   * <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> 6: <em>Jasun <b>be</b> dòlòmin na , cèkòròbaw caman sigilen bè .</em>
@@ -56,36 +56,38 @@ The 10 most frequent ambiguous types:  <em>ka</em> (<tt><a href="bm_crb-pos-AUX.
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 0.709677 (the average of all parts of speech is 1.040590).
+The form / lemma ratio of `AUX` is 1.529412 (the average of all parts of speech is 1.060038).
 
-The 1st highest number of forms (12) was observed with the lemma “_”: <em>b', be, bɛ, k', ka, kana, ma, mana, na, tɛ, y', ye</em>.
+The 1st highest number of forms (4) was observed with the lemma “bɛ”: <em>b', be, bè, bɛ</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “bé”: <em>be, bè</em>.
+The 2nd highest number of forms (3) was observed with the lemma “ka”: <em>k, k', ka</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “bɛ”: <em>bè, bɛ</em>.
+The 3rd highest number of forms (3) was observed with the lemma “tɛ”: <em>te, tè, tɛ</em>.
 
-`AUX` occurs with 5 features: <tt><a href="bm_crb-feat-Polarity.html">Polarity</a></tt> (815; 60% instances), <tt><a href="bm_crb-feat-Aspect.html">Aspect</a></tt> (719; 53% instances), <tt><a href="bm_crb-feat-Valency.html">Valency</a></tt> (370; 27% instances), <tt><a href="bm_crb-feat-Mood.html">Mood</a></tt> (70; 5% instances), <tt><a href="bm_crb-feat-Tense.html">Tense</a></tt> (10; 1% instances)
+`AUX` occurs with 5 features: <tt><a href="bm_crb-feat-Polarity.html">Polarity</a></tt> (893; 63% instances), <tt><a href="bm_crb-feat-Aspect.html">Aspect</a></tt> (811; 57% instances), <tt><a href="bm_crb-feat-Valency.html">Valency</a></tt> (370; 26% instances), <tt><a href="bm_crb-feat-Mood.html">Mood</a></tt> (72; 5% instances), <tt><a href="bm_crb-feat-Tense.html">Tense</a></tt> (49; 3% instances)
 
-`AUX` occurs with 9 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Mood=Cnd`, `Mood=Imp`, `Mood=Sub`, `Polarity=Neg`, `Polarity=Pos`, `Tense=Fut`, `Valency=2`
+`AUX` occurs with 10 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Mood=Cnd`, `Mood=Imp`, `Mood=Sub`, `Polarity=Neg`, `Polarity=Pos`, `Tense=Fut`, `Tense=Past`, `Valency=2`
 
-`AUX` occurs with 13 feature combinations.
-The most frequent feature combination is `_` (548 tokens).
-Examples: <em>ka, ma, diye, bɛ, k', tɛ, bè, y', ye, na</em>
+`AUX` occurs with 15 feature combinations.
+The most frequent feature combination is `_` (481 tokens).
+Examples: <em>ka, diye, k', na, ba, dòn, fulakè, k, kò</em>
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 6 different relations: <tt><a href="bm_crb-dep-aux.html">aux</a></tt> (1338; 98% instances), <tt><a href="bm_crb-dep-fixed.html">fixed</a></tt> (15; 1% instances), <tt><a href="bm_crb-dep-case.html">case</a></tt> (5; 0% instances), <tt><a href="bm_crb-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="bm_crb-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="bm_crb-dep-dislocated.html">dislocated</a></tt> (1; 0% instances)
+`AUX` nodes are attached to their parents using 6 different relations: <tt><a href="bm_crb-dep-aux.html">aux</a></tt> (1396; 98% instances), <tt><a href="bm_crb-dep-fixed.html">fixed</a></tt> (15; 1% instances), <tt><a href="bm_crb-dep-case.html">case</a></tt> (5; 0% instances), <tt><a href="bm_crb-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="bm_crb-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="bm_crb-dep-dislocated.html">dislocated</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 5 different parts of speech: <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (1340; 98% instances), <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> (10; 1% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="bm_crb-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> (3; 0% instances)
+Parents of `AUX` nodes belong to 4 different parts of speech: <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (1396; 98% instances), <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> (15; 1% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="bm_crb-pos-PRON.html">PRON</a></tt> (4; 0% instances)
 
-1346 (99%) `AUX` nodes are leaves.
+1404 (99%) `AUX` nodes are leaves.
 
-17 (1%) `AUX` nodes have one child.
+6 (0%) `AUX` nodes have one child.
 
-The highest child degree of a `AUX` node is 1.
+11 (1%) `AUX` nodes have two children.
 
-Children of `AUX` nodes are attached using 3 different relations: <tt><a href="bm_crb-dep-aux.html">aux</a></tt> (11; 65% instances), <tt><a href="bm_crb-dep-fixed.html">fixed</a></tt> (5; 29% instances), <tt><a href="bm_crb-dep-dep.html">dep</a></tt> (1; 6% instances)
+The highest child degree of a `AUX` node is 2.
 
-Children of `AUX` nodes belong to 4 different parts of speech: <tt><a href="bm_crb-pos-PART.html">PART</a></tt> (11; 65% instances), <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> (3; 18% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (2; 12% instances), <tt><a href="bm_crb-pos-DET.html">DET</a></tt> (1; 6% instances)
+Children of `AUX` nodes are attached using 1 different relations: <tt><a href="bm_crb-dep-fixed.html">fixed</a></tt> (28; 100% instances)
+
+Children of `AUX` nodes belong to 4 different parts of speech: <tt><a href="bm_crb-pos-AUX.html">AUX</a></tt> (15; 54% instances), <tt><a href="bm_crb-pos-ADP.html">ADP</a></tt> (10; 36% instances), <tt><a href="bm_crb-pos-VERB.html">VERB</a></tt> (2; 7% instances), <tt><a href="bm_crb-pos-NOUN.html">NOUN</a></tt> (1; 4% instances)
 

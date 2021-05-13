@@ -39,7 +39,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 15	a	a	CCONJ	conj	_	17	cc	17:cc	_
 16	nie	nie	PART	part	Polarity=Neg	17	advmod:neg	17:advmod:neg	_
 17	cudzej	cudzy	ADJ	adj:sg:gen:f:pos	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	conj	12:conj|13:det:poss	_
-18	-	-	PUNCT	interp	PunctType=Hyph	19	punct	19:punct	_
+18	-	-	PUNCT	interp	PunctType=Dash	19	punct	19:punct	_
 19	argumentuje	argumentować	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 20	mój	mój	DET	adj:sg:nom:m1:pos	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	21	det:poss	21:det:poss	_
 21	rozmówca	rozmówca	NOUN	subst:sg:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	19	nsubj	19:nsubj	SpaceAfter=No
@@ -116,7 +116,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 28	dzień	dzień	NOUN	subst:sg:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	26	nmod	26:nmod	SpaceAfter=No
 29	,	,	PUNCT	interp	PunctType=Comm	35	punct	35:punct	_
 30	bardziej	bardzo	ADV	adv:com	Degree=Cmp	35	advmod	35:advmod	_
-31	niż	niż	SCONJ	comp	ConjType=Cmpr	32	mark	32:mark	_
+31	niż	niż	SCONJ	comp	ConjType=Comp	32	mark	32:mark	_
 32	gdzie	gdzie	ADV	adv	_	30	obl:cmpr	30:obl:cmpr	_
 33	indziej	indziej	ADV	adv	_	32	fixed	32:fixed	_
 34	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	35	case	35:case	Case=Loc

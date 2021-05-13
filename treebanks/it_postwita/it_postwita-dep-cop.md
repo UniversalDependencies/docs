@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2165 nodes (2%) are attached to their parents as `cop`.
+2168 nodes (2%) are attached to their parents as `cop`.
 
-2049 instances of `cop` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.8337182448037.
+2050 instances of `cop` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.83394833948339.
 
-The following 11 pairs of parts of speech are connected with `cop`: <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (969; 45% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (747; 35% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (163; 8% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (92; 4% instances), <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (70; 3% instances), <tt><a href="it_postwita-pos-SYM.html">SYM</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (51; 2% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (37; 2% instances), <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (17; 1% instances), <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="it_postwita-pos-DET.html">DET</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (5; 0% instances).
+The following 11 pairs of parts of speech are connected with `cop`: <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (972; 45% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (746; 34% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (166; 8% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (92; 4% instances), <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (70; 3% instances), <tt><a href="it_postwita-pos-SYM.html">SYM</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (51; 2% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (35; 2% instances), <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (17; 1% instances), <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="it_postwita-pos-DET.html">DET</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (5; 0% instances).
 
 
 ~~~ conllu

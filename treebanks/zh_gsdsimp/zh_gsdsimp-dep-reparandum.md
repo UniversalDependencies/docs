@@ -122,7 +122,7 @@ The following 3 pairs of parts of speech are connected with `reparandum`: <tt><a
 10	英国	英国	PROPN	NNP	_	11	nsubj	_	SpaceAfter=No
 11	派驻	派驻	VERB	VV	_	17	acl:relcl	_	SpaceAfter=No
 12	香港	香港	PROPN	NNP	_	11	obj	_	SpaceAfter=No
-13	的	的	PART	DEC	_	11	mark:relcl	_	SpaceAfter=No
+13	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No
 14	第10	第10	NUM	CD	NumType=Ord	15	nummod	_	SpaceAfter=No
 15	任	任	NOUN	NNB	_	17	nmod	_	SpaceAfter=No
 16	港	港	PROPN	NNP	_	17	compound	_	SpaceAfter=No

@@ -7,14 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Uyghur-UDT: Relations: `obj`
 
 This relation is universal.
-There are 1 language-specific subtypes of `obj`: <tt><a href="ug_udt-dep-obj-cau.html">obj:cau</a></tt>.
 
-2301 nodes (6%) are attached to their parents as `obj`.
+2305 nodes (6%) are attached to their parents as `obj`.
 
-2298 instances of `obj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.98913515862668.
+2302 instances of `obj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.98958785249458.
 
-The following 23 pairs of parts of speech are connected with `obj`: <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1664; 72% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (233; 10% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (184; 8% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (120; 5% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (40; 2% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (16; 1% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (13; 1% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ug_udt-pos-ADP.html">ADP</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ug_udt-pos-X.html">X</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The following 23 pairs of parts of speech are connected with `obj`: <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1666; 72% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (233; 10% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (184; 8% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (122; 5% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (40; 2% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (16; 1% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (13; 1% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ug_udt-pos-ADP.html">ADP</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ug_udt-pos-X.html">X</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-ADV.html">ADV</a></tt>-<tt><a href="ug_udt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-AUX.html">AUX</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ug_udt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ug_udt-pos-VERB.html">VERB</a></tt>-<tt><a href="ug_udt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +22,7 @@ The following 23 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 obj	color:blue
-1	ئەمەلىيەتتە	ئەمەلىيەت	NOUN	N	Case=Loc	7	advmod	_	Translit=emeliyette
+1	ئەمەلىيەتتە	ئەمەلىيەت	NOUN	N	Case=Loc	7	obl	_	Translit=emeliyette
 2	مېنىڭ	مەن	PRON	P	Case=Gen|Number=Sing|Person=1|PronType=Prs	6	nmod:poss	_	Translit=mëning
 3	بۇ	بۇ	PRON	P	Case=Nom|PronType=Dem	5	det	_	Translit=bu
 4	قاباھەتلىك	قاباھەتلىك	NOUN	N	Case=Nom	5	amod	_	Translit=qabahetlik
@@ -56,7 +55,7 @@ The following 23 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 7 obj	color:blue
-1	كېيىن	كېيىن	NOUN	D	Case=Nom	9	advmod	_	Translit=këyin
+1	كېيىن	كېيىن	NOUN	D	Case=Nom	9	obl	_	Translit=këyin
 2	بىر	بىر	DET	M	Case=Nom|NumType=Ord	3	det	_	Translit=bir
 3	يەرنى	يەر	NOUN	N	Case=Acc	4	obj	_	Translit=yerni
 4	تېپىپ	تاپ	VERB	V	Aspect=Perf|VerbForm=Conv	5	advcl	_	Translit=tëpip

@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: Relations: `obl:tmod`
 
 This relation is a language-specific subtype of <tt><a href="kpv_lattice-dep-obl.html">obl</a></tt>.
-There are also 1 other language-specific subtypes of `obl`: <tt><a href="kpv_lattice-dep-obl-lmod.html">obl:lmod</a></tt>.
+There are also 7 other language-specific subtypes of `obl`: <tt><a href="kpv_lattice-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="kpv_lattice-dep-obl-cau.html">obl:cau</a></tt>, <tt><a href="kpv_lattice-dep-obl-lfrom.html">obl:lfrom</a></tt>, <tt><a href="kpv_lattice-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="kpv_lattice-dep-obl-lmp.html">obl:lmp</a></tt>, <tt><a href="kpv_lattice-dep-obl-lto.html">obl:lto</a></tt>, <tt><a href="kpv_lattice-dep-obl-mcl.html">obl:mcl</a></tt>.
 
-25 nodes (0%) are attached to their parents as `obl:tmod`.
+54 nodes (1%) are attached to their parents as `obl:tmod`.
 
-21 instances of `obl:tmod` (84%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.8.
+40 instances of `obl:tmod` (74%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.51851851851852.
 
-The following 4 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (21; 84% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (2; 8% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (1; 4% instances).
+The following 6 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (46; 85% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -26,11 +26,11 @@ The following 4 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 1	Идралін	идравны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	4	advcl	_	_
 2	аскадӧ	аскадӧ	NOUN	N	Case=Ill|Number=Sing	1	obl:tmod	_	_
 3	–	–	PUNCT	PUNCT	_	4	punct	_	_
-4	выиграйтін	выиграйтны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	Lang=Mixed|SpaceAfter=No
+4	выиграйтін	выиграйтны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	OrigLang=ru|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	8	punct	_	_
 6	сёрмӧдчин	сёрмӧдчыны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	8	advcl	_	_
 7	–	–	PUNCT	PUNCT	_	8	punct	_	_
-8	проиграйтін	проиграйтны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	4	conj	_	Lang=Mixed|SpaceAfter=No
+8	проиграйтін	проиграйтны	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past	4	conj	_	OrigLang=ru|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
@@ -39,43 +39,35 @@ The following 4 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 1 obl:tmod	color:blue
-1	Мудзӧм	мудзӧм	VERB	V	Case=Nom|Derivation=Vnoun|Number=Sing	7	obl:tmod	_	GTtags=NomAct,Sg,Nom
-2	бӧрад	бӧрын	ADP	Adp	AdpType=Post|Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=2	1	case	_	GTtags=Po,Sg,Ine,PxSg2
-3	и	и	CCONJ	CC	_	5	advmod	_	_
-4	пиня	пиня	NOUN	N	Case=Nom|Number=Sing	5	nmod	_	GTtags=Sg,Nom
-5	тув	тув	NOUN	N	Case=Nom|Number=Sing	7	obl	_	GTtags=Sg,Nom
-6	вылын	вылын	ADP	Adp	AdpType=Post|Case=Ine|Number=Sing	5	case	_	GTtags=Po,Sg,Ine
-7	узьсяс	узьсьыны	VERB	V	Mood=Ind|Number=Sing|Person=3|PronType=Ref|Tense=Fut	0	root	_	GTtags=Refl,Ind,Fut,Sg3|SpaceAfter=No
-8	.	.	PUNCT	CLB	_	7	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 obl:tmod	color:blue
+1	Пӧрысьлань	пӧрысь	ADJ	A	Case=Apr|Number=Sing	4	obl:tmod	_	GTtags=Sg,Apr
+2	кӧть	кӧть	ADV	Adv	_	4	advmod	_	_
+3	котравнытӧ	котравны	VERB	V	Clitic=To|Valency=1|VerbForm=Inf	4	xcomp	_	GTtags=IV,Inf,Clt/тӧ
+4	ланьт	ланьтны	VERB	V	Mood=Imp|Number=Sing|Person=2|Valency=1	0	root	_	GTtags=IV,Imprt,Sg2|SpaceAfter=No
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 9 5 obl:tmod	color:blue
-1	Тыдалӧ	тыдавны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	discourse	_	SpaceAfter=No
-2	,	,	PUNCT	CLB	_	9	punct	_	_
-3	разведкаыс	разведка	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	nsubj	_	_
-4	сійӧ	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	det	_	_
-5	луннас	лун	NOUN	N	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	9	obl:tmod	_	_
-6	вӧлі	вӧвны	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	9	cop	_	_
-7	сэтшӧм	сэтшӧм	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	8	det	_	_
-8	важнӧй	важнӧй	ADJ	A	Case=Nom|Number=Sing	9	amod	_	_
-9	делӧӧн	делӧ	NOUN	N	Case=Ins|Number=Sing	0	root	_	SpaceAfter=No
-10	,	,	PUNCT	CLB	_	13	punct	_	_
-11	мый	мый	SCONJ	CS	_	13	cc	_	_
-12	Ворошилов	Ворошилов	PROPN	N	Case=Nom|Number=Sing	13	nsubj	_	_
-13	решитчис	решитчыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	9	acl	_	_
-14	мунны	мунны	VERB	V	VerbForm=Inf	13	xcomp	_	_
-15	ачыс	ас	PRON	Pron	Case=Nom|Person=3|Reflex=Yes	14	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	CLB	_	9	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 9 obl:tmod	color:blue
+1	Пӧлатяс	пӧлать	NOUN	N	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	obl:lmod	_	GTtags=Sg,Ine,PxSg3,So/CP|SpaceAfter=No
+2	,	,	PUNCT	PUNCT	_	3	punct	_	_
+3	пияныс	пи	NOUN	N	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	1	appos	_	GTtags=Pl,Nom,PxSg3
+4	дорын	дорын	ADP	Adp	AdpType=Post|Case=Ine	3	case	_	GTtags=Po,Ine|SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	3	punct	_	_
+6	узьліс	узьлыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,Sg3
+7	сэсся	сэсся	ADV	Adv	_	6	advmod:tmod	_	_
+8	Васька	Васька	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	6	nsubj	_	GTtags=Prop,Sem/Mal,Sg,Nom
+9	мыйкӧ	мыйкӧ	PRON	Pron	Case=Nom|Definite=Ind|Derivation=Ko|Number=Sing|PronType=Ind	6	obl:tmod	_	GTtags=Indef,Indef,Sg,Nom,Der/кӧ
+10	дыра	дыра	ADP	Adp	AdpType=Post	9	case	_	GTtags=Po|SpaceAfter=No
+11	;	;	PUNCT	PUNCT	_	6	punct	_	_
 
 ~~~
 

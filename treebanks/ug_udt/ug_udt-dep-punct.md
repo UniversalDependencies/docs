@@ -31,7 +31,7 @@ The following 23 pairs of parts of speech are connected with `punct`: <tt><a hre
 7	بىر	بىر	NUM	M	_	8	nummod	_	Translit=bir
 8	سىقىم	سىقىم	NOUN	Q	Case=Nom	9	amod	_	Translit=siqim
 9	لايدەك	_	NOUN	N	_	10	obl	_	Translit=laydek|Morf=Unknown
-10	چاپلىشىمەن	چاپلاش	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=chaplishimen
+10	چاپلىشىمەن	چاپلاش	VERB	V	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=chaplishimen
 11	.	.	PUNCT	Y	_	10	punct	_	Translit=.
 
 ~~~
@@ -49,7 +49,7 @@ The following 23 pairs of parts of speech are connected with `punct`: <tt><a hre
 4	،	،	PUNCT	Y	_	3	punct	_	Translit=,
 5	ئەمما	ئەمما	CCONJ	C	_	6	cc	_	Translit=emma
 6	سەمىمىي	سەمىمىي	ADJ	A	Case=Nom	3	conj	_	Translit=semimiy
-7	ئاۋازدا	ئاۋاز	NOUN	N	Case=Loc	9	advmod	_	Translit=awazda
+7	ئاۋازدا	ئاۋاز	NOUN	N	Case=Loc	9	obl	_	Translit=awazda
 8	سەندىن	سەن	PRON	P	Case=Abl|Number=Sing|Person=2|PronType=Prs	9	obl	_	Translit=sendin
 9	سورايتتىم	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=sorayttim|Morf=Unknown
 10	.	.	PUNCT	Y	_	9	punct	_	Translit=.
@@ -63,7 +63,7 @@ The following 23 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 punct	color:blue
-1	ئەمەلىيەتتە	ئەمەلىيەت	NOUN	N	Case=Loc	7	advmod	_	Translit=emeliyette
+1	ئەمەلىيەتتە	ئەمەلىيەت	NOUN	N	Case=Loc	7	obl	_	Translit=emeliyette
 2	مېنىڭ	مەن	PRON	P	Case=Gen|Number=Sing|Person=1|PronType=Prs	6	nmod:poss	_	Translit=mëning
 3	بۇ	بۇ	PRON	P	Case=Nom|PronType=Dem	5	det	_	Translit=bu
 4	قاباھەتلىك	قاباھەتلىك	NOUN	N	Case=Nom	5	amod	_	Translit=qabahetlik

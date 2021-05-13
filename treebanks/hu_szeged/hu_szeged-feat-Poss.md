@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="hu_szeged-pos-PRON.
 
 11 <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Nom</tt> (11; 100%), <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11; 100%), <tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="hu_szeged-feat-Person.html">Person</a></tt><tt>=3</tt> (11; 100%), <tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (11; 100%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Nom</tt> (11; 100%), <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11; 100%), <tt><a href="hu_szeged-feat-Person.html">Person</a></tt><tt>=3</tt> (11; 100%), <tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (11; 100%).
 
 `PRON` tokens may have the following values of `Poss`:
 

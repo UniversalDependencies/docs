@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-Perseus: POS Tags: `PRON`
 
 There are 39 `PRON` lemmas (1%), 218 `PRON` types (2%) and 2459 `PRON` tokens (8%).
-Out of 12 observed tags, the rank of `PRON` is: 6 in number of lemmas, 5 in number of types and 5 in number of tokens.
+Out of 13 observed tags, the rank of `PRON` is: 6 in number of lemmas, 5 in number of types and 5 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: <em>qui, ego, hic, ille, is, tu, quis, sui, ipse, nos</em>
 
@@ -78,7 +78,7 @@ Examples: <em>qui, ego, ille, quis, ipse, tu, hic, is, quisque, quidam</em>
 
 `PRON` nodes are attached to their parents using 13 different relations: <tt><a href="la_perseus-dep-nsubj.html">nsubj</a></tt> (752; 31% instances), <tt><a href="la_perseus-dep-nmod.html">nmod</a></tt> (668; 27% instances), <tt><a href="la_perseus-dep-obj.html">obj</a></tt> (656; 27% instances), <tt><a href="la_perseus-dep-obl.html">obl</a></tt> (139; 6% instances), <tt><a href="la_perseus-dep-iobj.html">iobj</a></tt> (108; 4% instances), <tt><a href="la_perseus-dep-advmod.html">advmod</a></tt> (97; 4% instances), <tt><a href="la_perseus-dep-conj.html">conj</a></tt> (18; 1% instances), <tt><a href="la_perseus-dep-root.html">root</a></tt> (10; 0% instances), <tt><a href="la_perseus-dep-appos.html">appos</a></tt> (5; 0% instances), <tt><a href="la_perseus-dep-mark.html">mark</a></tt> (3; 0% instances), <tt><a href="la_perseus-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-vocative.html">vocative</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `PRON` nodes belong to 9 different parts of speech: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1642; 67% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (673; 27% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (90; 4% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (32; 1% instances),  (10; 0% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="la_perseus-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `PRON` nodes belong to 9 different parts of speech: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1645; 67% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (673; 27% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (90; 4% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (32; 1% instances),  (10; 0% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="la_perseus-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="la_perseus-pos-X.html">X</a></tt> (1; 0% instances)
 
 2018 (82%) `PRON` nodes are leaves.
 

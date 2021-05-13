@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2696 nodes (5%) are attached to their parents as `obj`.
+2704 nodes (5%) are attached to their parents as `obj`.
 
-2073 instances of `obj` (77%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.99888724035608.
+2076 instances of `obj` (77%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.02958579881657.
 
-The following 31 pairs of parts of speech are connected with `obj`: <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (2186; 81% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (200; 7% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (92; 3% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (50; 2% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (39; 1% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (24; 1% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-X.html">X</a></tt> (23; 1% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (20; 1% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (10; 0% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt>-<tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt>-<tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt>-<tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt>-<tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-ADP.html">ADP</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="af_afribooms-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 31 pairs of parts of speech are connected with `obj`: <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (2209; 82% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (204; 8% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (86; 3% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (39; 1% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (23; 1% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-X.html">X</a></tt> (23; 1% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (22; 1% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (20; 1% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (11; 0% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (11; 0% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt> (10; 0% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="af_afribooms-pos-SYM.html">SYM</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="af_afribooms-pos-ADV.html">ADV</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt>-<tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="af_afribooms-pos-ADJ.html">ADJ</a></tt>-<tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-AUX.html">AUX</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-DET.html">DET</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-NOUN.html">NOUN</a></tt>-<tt><a href="af_afribooms-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt>-<tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-NUM.html">NUM</a></tt>-<tt><a href="af_afribooms-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="af_afribooms-pos-VERB.html">VERB</a></tt>-<tt><a href="af_afribooms-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -63,23 +63,23 @@ The following 31 pairs of parts of speech are connected with `obj`: <tt><a href=
 ~~~ conllu
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 12 obj	color:blue
-1	Ons	ons	PRON	PEMB	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
-2	beleid	beleid	NOUN	NSE	Number=Sing	7	nsubj	_	_
-3	is	is	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	7	cop	_	_
-4	om	om	ADP	SVS	AdpType=Prep	7	case	_	_
-5	inligting	inligting	NOUN	NM	Number=Sing	7	obj	_	_
-6	te	te	PART	UPI	PartType=Inf	7	mark	_	_
-7	verskaf	verskaf	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	0	root	_	_
-8	soos	soos	SCONJ	UPV	_	7	amod	_	_
-9	en	en	CCONJ	KN	_	8	cc	_	_
-10	wanneer	wanneer	PRON	PB	PronType=Rel	8	conj	_	_
-11	dit	dit	PRON	PDOENP	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
-12	beskikbaar	beskikbaar	ADJ	ASP	AdjType=Pred|Case=Nom|Degree=Pos	10	obj	_	_
-13	word	word	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	12	cop	_	SpaceAfter=No
-14	.	.	PUNCT	ZE	_	13	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 12 obj	color:blue
+1	Elke	elk	PRON	PO	PronType=Ind	3	det	_	_
+2	voorlopige	voorlopig	ADJ	ASA	AdjType=Attr|Case=Nom|Degree=Pos	3	amod	_	_
+3	belastingbetaler	belastingbetaler	NOUN	NSE	Number=Sing	6	nsubj	_	_
+4	moet	moet	AUX	VTUOM	Tense=Pres|VerbForm=Fin,Inf|VerbType=Mod	6	aux	_	_
+5	self	self	PRON	PDOEW	Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	amod	_	_
+6	bepaal	bepaal	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	0	root	_	_
+7	wanneer	wanneer	PRON	PB	PronType=Rel	6	amod	_	_
+8	'n	'n	DET	LO	Definite=Ind|PronType=Art	11	det	_	_
+9	aanvullende	aanvul	ADJ	ASA	AdjType=Attr|Case=Nom|Degree=Pos	11	amod	_	_
+10	derde	derde	ADJ	TRAB	AdjType=Attr|Case=Nom|Degree=Pos	11	amod	_	_
+11	betaling	betaling	NOUN	NSE	Number=Sing	12	nsubj	_	_
+12	nodig	nodig	ADJ	ASP	AdjType=Pred|Case=Nom|Degree=Pos	7	obj	_	_
+13	is	wees	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	12	cop	_	SpaceAfter=No
+14	.	.	PUNCT	ZE	_	12	punct	_	_
 
 ~~~
 

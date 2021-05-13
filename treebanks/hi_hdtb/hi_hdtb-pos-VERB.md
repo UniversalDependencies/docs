@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  कर (<tt><a href="hi_hdtb-pos-VERB.htm
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 3.656514 (the average of all parts of speech is 1.203116).
+The form / lemma ratio of `VERB` is 3.656514 (the average of all parts of speech is 1.203447).
 
 The 1st highest number of forms (40) was observed with the lemma “कर”: कर, करके, करता, करती, करतीं, करते, करना, करनी, करने, करवा, करवाएंगे, करवाकर, करवाता, करवाना, करवाने, करवाया, करा, कराके, कराना, कराने, कराया, करुंगी, करूँगा, करूँगी, करूंगा, करूंगी, करे, करें, करेंगी, करेंगे, करेगा, करेगी, करेगें, करो, किए, किया, किये, की, कीं, कीजिए.
 

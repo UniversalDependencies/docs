@@ -64,7 +64,7 @@ The following 26 pairs of parts of speech are connected with `fixed`: <tt><a hre
 2	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	3	case	3:case	LId=na-1
 3	přeřazení	přeřazení	NOUN	NNNS4-----A----	Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos	1	nmod	1:nmod:na:acc	LDeriv=přeřadit
 4	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	5	expl:pass	5:expl:pass	LGloss=(zvr._zájmeno/částice)
-5	podávají	podávat	VERB	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LDeriv=podat|LGloss=(něco_[někomu]_[někam])
+5	podávají	podávat	VERB	VB-P---3P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LGloss=(něco_[někomu]_[někam])|LDeriv=podat
 6	#	&camount;	NUM	C=-------------	NumForm=Digit|NumType=Card	7	obl	7:obl	_
 7	ročně	ročně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	5	advmod	5:advmod	SpaceAfter=No|LDeriv=roční
 8	,	,	PUNCT	Z:-------------	_	12	punct	12:punct	_

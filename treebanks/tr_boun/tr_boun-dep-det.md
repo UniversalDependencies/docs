@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4944 nodes (4%) are attached to their parents as `det`.
+4943 nodes (4%) are attached to their parents as `det`.
 
-4942 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.17819579288026.
+4941 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.17802953671859.
 
-The following 13 pairs of parts of speech are connected with `det`: <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_boun-pos-DET.html">DET</a></tt> (4215; 85% instances), <tt><a href="tr_boun-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_boun-pos-DET.html">DET</a></tt> (309; 6% instances), <tt><a href="tr_boun-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_boun-pos-DET.html">DET</a></tt> (178; 4% instances), <tt><a href="tr_boun-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_boun-pos-DET.html">DET</a></tt> (162; 3% instances), <tt><a href="tr_boun-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_boun-pos-DET.html">DET</a></tt> (25; 1% instances), <tt><a href="tr_boun-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_boun-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_boun-pos-DET.html">DET</a></tt> (18; 0% instances), <tt><a href="tr_boun-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_boun-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="tr_boun-pos-AUX.html">AUX</a></tt>-<tt><a href="tr_boun-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="tr_boun-pos-DET.html">DET</a></tt>-<tt><a href="tr_boun-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="tr_boun-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="tr_boun-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="tr_boun-pos-X.html">X</a></tt>-<tt><a href="tr_boun-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `det`: <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_boun-pos-DET.html">DET</a></tt> (4214; 85% instances), <tt><a href="tr_boun-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_boun-pos-DET.html">DET</a></tt> (309; 6% instances), <tt><a href="tr_boun-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_boun-pos-DET.html">DET</a></tt> (178; 4% instances), <tt><a href="tr_boun-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_boun-pos-DET.html">DET</a></tt> (162; 3% instances), <tt><a href="tr_boun-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_boun-pos-DET.html">DET</a></tt> (25; 1% instances), <tt><a href="tr_boun-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_boun-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_boun-pos-DET.html">DET</a></tt> (18; 0% instances), <tt><a href="tr_boun-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_boun-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="tr_boun-pos-AUX.html">AUX</a></tt>-<tt><a href="tr_boun-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="tr_boun-pos-DET.html">DET</a></tt>-<tt><a href="tr_boun-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="tr_boun-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="tr_boun-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="tr_boun-pos-X.html">X</a></tt>-<tt><a href="tr_boun-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 13 pairs of parts of speech are connected with `det`: <tt><a href=
 4	42	42	NUM	ANum	NumType=Card	5	nummod	_	_
 5	yaşında	yaş	ADJ	NAdj	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	10	advcl	_	_
 6	iken	i	AUX	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part	5	cop	_	_
-7	bir	bir	DET	ANum	NumType=Card	8	det	_	_
+7	bir	bir	DET	ANum	_	8	det	_	_
 8	darbeyle	darbe	NOUN	Noun	Case=Ins|Number=Sing|Person=3	10	obl	_	_
 9	iktidara	iktidar	NOUN	Noun	Case=Dat|Number=Sing|Person=3	10	obj	_	_
 10	el	el	NOUN	Noun	Case=Nom|Number=Sing|Person=3	0	root	_	_
@@ -71,7 +71,7 @@ The following 13 pairs of parts of speech are connected with `det`: <tt><a href=
 6	yerinde	yer	NOUN	Noun	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	8	obl	_	_
 7	kolay	kolay	ADJ	Adj	_	8	amod	_	_
 8	takdir	takdir	NOUN	Noun	Case=Nom|Number=Sing|Person=3	0	root	_	_
-9	görebilir	gör	VERB	Verb	Aspect=Hab|Mood=Pot|Number=Sing|Person=3|Polarity=Pos|Tense=Aor	8	compound	_	SpaceAfter=No
+9	görebilir	gör	VERB	Verb	Aspect=Hab|Mood=Pot|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	8	compound	_	SpaceAfter=No
 10	.	.	PUNCT	Punc	_	8	punct	_	SpacesAfter=\n
 
 ~~~

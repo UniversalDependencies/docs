@@ -33,7 +33,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (243; 100% of non-empty `NumType`): <em>beberapa, banyak, sejumlah, berapa, sepasang, Banyaknya</em>
-* `EMPTY` (3769): <em>ini, itu, sebuah, tersebut, satu, seorang, salah, para, berbagai, suatu</em>
+* `EMPTY` (3743): <em>ini, itu, sebuah, tersebut, satu, seorang, salah, para, berbagai, suatu</em>
 
 ### `ADV`
 
@@ -44,7 +44,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 `ADV` tokens may have the following values of `NumType`:
 
 * `Card` (82; 100% of non-empty `NumType`): <em>banyak</em>
-* `EMPTY` (4678): <em>juga, akan, dapat, telah, lebih, kemudian, hanya, bisa, masih, sangat</em>
+* `EMPTY` (4642): <em>juga, akan, dapat, telah, lebih, kemudian, hanya, bisa, masih, sangat</em>
 
 ### `PRON`
 
@@ -55,12 +55,12 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 `PRON` tokens may have the following values of `NumType`:
 
 * `Card` (6; 100% of non-empty `NumType`): <em>sejumlah, banyak, beberapa</em>
-* `EMPTY` (4758): <em>yang, ia, mereka, dia, apa, kita, kamu, siapa, aku, engkau</em>
+* `EMPTY` (4755): <em>yang, ia, mereka, dia, apa, kita, kamu, siapa, aku, engkau</em>
 
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="id_gsd-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (357; 100%),
+<tt>NUM --[<tt><a href="id_gsd-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (358; 100%),
 <tt>NUM --[<tt><a href="id_gsd-dep-det.html">det</a></tt>]--> NUM</tt> (41; 100%),
 <tt>NUM --[<tt><a href="id_gsd-dep-conj.html">conj</a></tt>]--> NUM</tt> (40; 100%),
 <tt>NUM --[<tt><a href="id_gsd-dep-amod.html">amod</a></tt>]--> NUM</tt> (23; 100%),

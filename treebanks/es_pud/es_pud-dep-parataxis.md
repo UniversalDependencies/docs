@@ -28,7 +28,7 @@ The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a 
 4	escuchó	_	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 5	literalmente	_	ADV	RB	_	4	advmod	_	_
 6	por	_	ADP	IN	_	9	case	_	_
-7	todo	_	DET	PDT	Gender=Masc|Number=Sing|PronType=Tot	9	det:predet	_	_
+7	todo	_	DET	PDT	Gender=Masc|Number=Sing|PronType=Tot	9	det	_	_
 8	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	mundo	_	NOUN	NN	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 10	,	_	PUNCT	,	_	11	punct	_	_

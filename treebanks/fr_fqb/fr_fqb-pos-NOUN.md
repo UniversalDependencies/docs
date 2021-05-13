@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-FQB: POS Tags: `NOUN`
 
 There are 1404 `NOUN` lemmas (37%), 1578 `NOUN` types (36%) and 4052 `NOUN` tokens (17%).
-Out of 17 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 1 in number of tokens.
+Out of 16 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 1 in number of tokens.
 
 The 10 most frequent `NOUN` lemmas: <em>nom, année, ville, président, état, lieu, logement, film, _, pays</em>
 
@@ -23,7 +23,7 @@ The 10 most frequent ambiguous types:  <em>aide</em> (<tt><a href="fr_fqb-pos-NO
   * <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 1: <em>Quel minéral <b>aide</b> à prévenir l' ostéoporose ?</em>
 * <em>mort</em>
   * <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 20: <em>Quand le cardinal Juan Jesus Posadas Ocampo est -il <b>mort</b> ?</em>
-  * <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 9: <em>Où Ayrton Senna a -t -il eu l' accident qui a entraîné sa <b>mort</b> ?</em>
+  * <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 9: <em>Où Ayrton Senna a -t-il eu l' accident qui a entraîné sa <b>mort</b> ?</em>
 * <em>général</em>
   * <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 2: <em>Dans quelle ville est situé l' hôpital <b>général</b> de le Massachusetts ?</em>
   * <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 2: <em>Qui était le <b>général</b> nordiste dans la bataille de Winchester ?</em>
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>aide</em> (<tt><a href="fr_fqb-pos-NO
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.123932 (the average of all parts of speech is 1.162933).
+The form / lemma ratio of `NOUN` is 1.123932 (the average of all parts of speech is 1.163777).
 
 The 1st highest number of forms (19) was observed with the lemma “_”: <em>bord, cas, cause, chose, compte, cours, fin, fois, milieu, moment, moyenne, occasion, rapport, sujet, titres, travers, tête, vigueur, étranger</em>.
 

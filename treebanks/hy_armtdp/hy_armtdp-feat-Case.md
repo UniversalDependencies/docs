@@ -62,7 +62,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 1791 <tt><a href="hy_armtdp-pos-PRON.html">PRON</a></tt> tokens (92% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=EMPTY</tt> (1576; 88%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1382; 77%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1165; 65%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="hy_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (1576; 88%), <tt><a href="hy_armtdp-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1382; 77%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1165; 65%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -76,16 +76,16 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 <table>
   <tr><th>Paradigm <i>դա</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Abl</tt></th></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=Dist</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>դրան</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=Med</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>դա</em></td><td></td><td><em>դրա</em></td><td><em>դրանում</em></td><td><em>դրանով</em></td><td><em>դրանից</em></td></tr>
-  <tr><td><tt><tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=Med</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>դրանք</em></td><td><em>դրանց</em></td><td></td><td></td><td><em>դրանցով</em></td><td><em>դրանցից</em></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=Med</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>դա</em></td><td></td><td><em>դրա</em></td><td><em>դրանում</em></td><td><em>դրանով</em></td><td><em>դրանից</em></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=Med</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>դրանք</em></td><td><em>դրանց</em></td><td></td><td></td><td><em>դրանցով</em></td><td><em>դրանցից</em></td></tr>
+  <tr><td><tt><tt><a href="hy_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=Remt</tt>|<tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>դրան</em></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `DET`
 
 690 <tt><a href="hy_armtdp-pos-DET.html">DET</a></tt> tokens (36% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="hy_armtdp-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (684; 99%), <tt><a href="hy_armtdp-feat-Distance.html">Distance</a></tt><tt>=EMPTY</tt> (660; 96%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (397; 58%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (388; 56%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (373; 54%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="hy_armtdp-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (684; 99%), <tt><a href="hy_armtdp-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (660; 96%), <tt><a href="hy_armtdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (397; 58%), <tt><a href="hy_armtdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (388; 56%), <tt><a href="hy_armtdp-feat-Person.html">Person</a></tt><tt>=3</tt> (373; 54%).
 
 `DET` tokens may have the following values of `Case`:
 

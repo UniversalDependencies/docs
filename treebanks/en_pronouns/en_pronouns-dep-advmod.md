@@ -24,11 +24,11 @@ The following 3 pairs of parts of speech are connected with `advmod`: <tt><a hre
 # visual-style 5 6 advmod	color:blue
 1	Any	any	DET	DT	PronType=Ind	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	5	nsubj	_	_
-3	of	of	ADP	E	_	4	case	_	_
-4	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
-5	sells	sell	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	of	of	ADP	IN	_	4	case	_	_
+4	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod	_	_
+5	sells	sell	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	quickly	quickly	ADV	RB	_	5	advmod	_	SpaceAfter=No
-7	.	.	PUNCT	Period	_	5	punct	_	_
+7	.	.	PUNCT	.	_	5	punct	_	_
 
 ~~~
 
@@ -39,11 +39,11 @@ The following 3 pairs of parts of speech are connected with `advmod`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 advmod	color:blue
-1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	not	not	PART	PART	Polarity=Neg	4	advmod	_	_
-4	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
-5	!	!	PUNCT	ExclMark	_	4	punct	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	not	not	PART	RB	Polarity=Neg	4	advmod	_	_
+4	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
+5	!	!	PUNCT	.	_	4	punct	_	_
 
 ~~~
 
@@ -54,11 +54,11 @@ The following 3 pairs of parts of speech are connected with `advmod`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 advmod	color:blue
-1	It	it	PRON	PERS-SG	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
-2	's	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	mostly	most	ADV	RB	_	4	advmod	_	_
-4	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
-5	.	.	PUNCT	Period	_	4	punct	_	_
+1	It	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	mostly	mostly	ADV	RB	_	4	advmod	_	_
+4	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	.	_	4	punct	_	_
 
 ~~~
 

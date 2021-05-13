@@ -31,9 +31,9 @@ The 3rd highest number of forms (1) was observed with the lemma “)”: <em>)</
 
 `PUNCT` occurs with 2 features: <tt><a href="pl_pud-feat-PunctType.html">PunctType</a></tt> (2657; 100% instances), <tt><a href="pl_pud-feat-PunctSide.html">PunctSide</a></tt> (290; 11% instances)
 
-`PUNCT` occurs with 13 feature-value pairs: `PunctSide=Fin`, `PunctSide=Ini`, `PunctType=Brck`, `PunctType=Colo`, `PunctType=Comm`, `PunctType=Dash`, `PunctType=Elip`, `PunctType=Hyph`, `PunctType=Peri`, `PunctType=Qest`, `PunctType=Quot`, `PunctType=Semi`, `PunctType=Slsh`
+`PUNCT` occurs with 12 feature-value pairs: `PunctSide=Fin`, `PunctSide=Ini`, `PunctType=Brck`, `PunctType=Colo`, `PunctType=Comm`, `PunctType=Dash`, `PunctType=Elip`, `PunctType=Peri`, `PunctType=Qest`, `PunctType=Quot`, `PunctType=Semi`, `PunctType=Slsh`
 
-`PUNCT` occurs with 14 feature combinations.
+`PUNCT` occurs with 13 feature combinations.
 The most frequent feature combination is `PunctType=Peri` (1119 tokens).
 Examples: <em>.</em>
 

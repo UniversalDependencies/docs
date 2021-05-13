@@ -46,7 +46,7 @@ The following 53 pairs of parts of speech are connected with `parataxis`: <tt><a
 1	Ու	ու	CCONJ	_	_	12	cc	_	Translit=OW|LTranslit=ow
 2	բարոյականության	բարոյականություն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Coll	12	obl	_	Translit=baroyakanowt’yan|LTranslit=baroyakanowt’yown
 3	հետ	հետ	ADP	_	AdpType=Post	2	case	_	Translit=het|LTranslit=het
-4	էս	այս	DET	_	Distance=Prox|PronType=Dem|Style=Coll	5	det	_	Translit=ēs|LTranslit=ays
+4	էս	այս	DET	_	Deixis=Prox|PronType=Dem|Style=Coll	5	det	_	Translit=ēs|LTranslit=ays
 5	ամենը	ամենը	PRON	_	Case=Nom|PronType=Tot	12	nsubj	_	Translit=amenë|LTranslit=amenë|SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
 7	ոնց	ինչպես	SCONJ	_	Style=Coll	8	mark	_	Translit=onc’|LTranslit=inčpes
@@ -69,7 +69,7 @@ The following 53 pairs of parts of speech are connected with `parataxis`: <tt><a
 1	Ու	ու	CCONJ	_	_	5	cc	_	Translit=OW|LTranslit=ow
 2	թարսի	թարս	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Coll|Style=Vrnc	5	parataxis	_	Translit=t’arsi|LTranslit=t’ars
 3	պես	պես	ADP	_	AdpType=Post	2	case	_	Translit=pes|LTranslit=pes
-4	էդ	այդ	DET	_	Distance=Med|PronType=Dem|Style=Coll	5	det	_	Translit=ēd|LTranslit=ayd
+4	էդ	այդ	DET	_	Deixis=Med|PronType=Dem|Style=Coll	5	det	_	Translit=ēd|LTranslit=ayd
 5	ոստը	ոստ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	0	root	_	Translit=ostë|LTranslit=ost|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,
 7	փաստորեն	փաստորեն	ADV	_	_	5	advmod	_	Translit=p’astoren|LTranslit=p’astoren|SpaceAfter=No

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-FQB: POS Tags: `AUX`
 
 There are 3 `AUX` lemmas (0%), 24 `AUX` types (1%) and 1700 `AUX` tokens (7%).
-Out of 17 observed tags, the rank of `AUX` is: 14 in number of lemmas, 10 in number of types and 7 in number of tokens.
+Out of 16 observed tags, the rank of `AUX` is: 14 in number of lemmas, 10 in number of types and 7 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>être, avoir, faire</em>
 
@@ -23,8 +23,8 @@ The 10 most frequent ambiguous types:  <em>est</em> (<tt><a href="fr_fqb-pos-AUX
   * <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 60: <em>Où <b>est</b> le Taj Mahal ?</em>
   * <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 1: <em>Quand la première voie ferrée reliant la côte <b>est</b> à la côte ouest fut -elle complétée ?</em>
 * <em>a</em>
-  * <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 326: <em>Quel succès d' Elvis Presley Gilmore <b>a</b> -t -il chanté ?</em>
-  * <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 52: <em>Dans combien de pays Greenpeace <b>a</b> -t -elle des agences ?</em>
+  * <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 326: <em>Quel succès d' Elvis Presley Gilmore <b>a</b> -t-il chanté ?</em>
+  * <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 52: <em>Dans combien de pays Greenpeace <b>a</b> -t-elle des agences ?</em>
   * <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1: <em>Qui est l' auteur de le livre sur le piratage informatique qui s' intitule " The Cuckoo 's Egg : Tracking <b>a</b> Spy Through the Maze of Computer Espionage " ?</em>
 * <em>était</em>
   * <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 100: <em>Quel <b>était</b> le taux de croissance de l' économie américaine en 1993 ?</em>
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>est</em> (<tt><a href="fr_fqb-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 8.000000 (the average of all parts of speech is 1.162933).
+The form / lemma ratio of `AUX` is 8.000000 (the average of all parts of speech is 1.163777).
 
 The 1st highest number of forms (14) was observed with the lemma “être”: <em>est, furent, fut, sera, soient, soit, sont, suis, étaient, était, étant, été, êtes, être</em>.
 

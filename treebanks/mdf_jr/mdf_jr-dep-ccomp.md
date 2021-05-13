@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5 nodes (0%) are attached to their parents as `ccomp`.
+9 nodes (0%) are attached to their parents as `ccomp`.
 
-5 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.4.
+9 instances of `ccomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.66666666666667.
 
-The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (4; 80% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 20% instances).
+The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (6; 67% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 11% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 11% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (1; 11% instances).
 
 
 ~~~ conllu
@@ -46,6 +46,28 @@ The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href
 5	конашкава	конашкава	ADV	Adv	AdvType=Deg	6	advmod:deg	_	GTtags=Deg
 6	ляпоня	ляпоня	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	3	ccomp	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 7	!	!	PUNCT	CLB	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 11 ccomp	color:blue
+1	Илять	илять	ADV	Adv	AdvType=Tim	7	advmod:tmod	_	GTtags=Sem/Time
+2	ужнамда	ужнамс	VERB	V	Case=Abl|Definite=Ind|Number=Plur,Sing|VerbForm=Vnoun	3	nmod	_	GTtags=NomAct,Err/Orth,SP,Abl,Indef
+3	меле	меле	ADV	Adv	_	1	appos	_	_
+4	Порватов	Порватов	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	7	nsubj	_	GTtags=Prop,Sg,Nom,Indef
+5	тага	тага	ADV	Adv	AdvType=Tim	7	advmod:tmod	_	GTtags=Sem/Time
+6	весть	весть	ADV	Adv	NumType=Mult	7	advmod:freq	_	GTtags=Der/Iter,Adv,Iter
+7	няфтезе	няфтемс	VERB	V	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,ScSg3,OcSg3
+8	-	-	PUNCT	PUNCT	_	11	punct	_	_
+9	сон	сон	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	11	nsubj:cop	_	GTtags=Pers,Sg3,Nom
+10	тяса	тяса	ADV	Adv	Case=Ine	11	advmod:lmod	_	GTtags=Ine
+11	азор	азор	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	7	ccomp	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
+12	.	.	PUNCT	PUNCT	_	7	punct	_	_
 
 ~~~
 

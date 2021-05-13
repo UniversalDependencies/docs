@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1140 nodes (0%) are attached to their parents as `clf`.
+1471 nodes (1%) are attached to their parents as `clf`.
 
-1092 instances of `clf` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.07982456140351.
+1423 instances of `clf` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.0700203942896.
 
-The following 4 pairs of parts of speech are connected with `clf`: <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1116; 98% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (19; 2% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `clf`: <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (1437; 98% instances), <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (28; 2% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -37,12 +37,12 @@ The following 4 pairs of parts of speech are connected with `clf`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 clf	color:blue
-1	斗	斗	NOUN	n,名詞,度量衡,*	NounType=Class	2	clf	_	Gloss=[capacity-unit]|SpaceAfter=No
+1	斗	斗	NOUN	n,名詞,度量衡,*	NounType=Clf	2	clf	_	Gloss=[capacity-unit]|SpaceAfter=No
 2	米	米	NOUN	n,名詞,可搬,糧食	_	3	nsubj	_	Gloss=rice|SpaceAfter=No
 3	直	直	VERB	v,動詞,描写,形質	Degree=Pos	0	root	_	Gloss=straight|SpaceAfter=No
-4	絹	絹	NOUN	n,名詞,可搬,道具	_	3	obj	_	SpaceAfter=No
+4	絹	絹	NOUN	n,名詞,可搬,道具	_	3	obj	_	Gloss=silk-fabric|SpaceAfter=No
 5	一	一	NUM	n,数詞,数字,*	_	4	nummod	_	Gloss=one|SpaceAfter=No
-6	匹	匹	NOUN	n,名詞,度量衡,*	NounType=Class	5	clf	_	Gloss=[animal-classifier]|SpaceAfter=No
+6	匹	匹	NOUN	n,名詞,度量衡,*	NounType=Clf	5	clf	_	Gloss=[animal-classifier]|SpaceAfter=No
 
 ~~~
 
@@ -55,10 +55,10 @@ The following 4 pairs of parts of speech are connected with `clf`: <tt><a href="
 # visual-style 4 3 clf	color:blue
 1	築	築	VERB	v,動詞,行為,設置	_	4	csubj	_	Gloss=build|SpaceAfter=No
 2	宮	宮	NOUN	n,名詞,固定物,建造物	Case=Loc	1	obj	_	Gloss=palace|SpaceAfter=No
-3	仞	仞	NOUN	n,名詞,度量衡,*	NounType=Class	4	clf	_	Gloss=[length-unit]|SpaceAfter=No
+3	仞	仞	NOUN	n,名詞,度量衡,*	NounType=Clf	4	clf	_	Gloss=[length-unit]|SpaceAfter=No
 4	有	有	VERB	v,動詞,存在,存在	_	0	root	_	Gloss=have|SpaceAfter=No
 5	三	三	NUM	n,数詞,数字,*	_	4	obj	_	Gloss=three|SpaceAfter=No
-6	尺	尺	NOUN	n,名詞,度量衡,*	NounType=Class	5	clf	_	Gloss=[foot-measure]|SpaceAfter=No
+6	尺	尺	NOUN	n,名詞,度量衡,*	NounType=Clf	5	clf	_	Gloss=[foot-measure]|SpaceAfter=No
 
 ~~~
 

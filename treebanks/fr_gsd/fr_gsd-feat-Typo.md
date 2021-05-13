@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-618 tokens (0%) have a non-empty value of `Typo`.
-496 types (1%) occur at least once with a non-empty value of `Typo`.
-416 lemmas (1%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 14 part-of-speech tags: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (209; 0% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (158; 0% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (112; 0% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (68; 0% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (18; 0% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (14; 0% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (11; 0% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="fr_gsd-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt> (1; 0% instances).
+619 tokens (0%) have a non-empty value of `Typo`.
+495 types (1%) occur at least once with a non-empty value of `Typo`.
+415 lemmas (1%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 12 part-of-speech tags: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (209; 0% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (158; 0% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (112; 0% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (68; 0% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (21; 0% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (14; 0% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (11; 0% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `VERB`
 
@@ -62,13 +62,13 @@ The most frequent other feature values with which `DET` and `Typo` co-occurred: 
 
 ### `ADV`
 
-18 <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Typo`.
+21 <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADV` and `Typo` co-occurred: <tt><a href="fr_gsd-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (18; 100%).
+The most frequent other feature values with which `ADV` and `Typo` co-occurred: <tt><a href="fr_gsd-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (21; 100%).
 
 `ADV` tokens may have the following values of `Typo`:
 
-* `Yes` (18; 100% of non-empty `Typo`): <em>trés, ou, voir, gentillement, la, prés, quelques, oà</em>
+* `Yes` (21; 100% of non-empty `Typo`): <em>trés, ou, voir, gentillement, la, là, prés, quand, quelques, oà</em>
 
 ### `PRON`
 
@@ -110,21 +110,13 @@ The most frequent other feature values with which `PROPN` and `Typo` co-occurred
 
 * `Yes` (8; 100% of non-empty `Typo`): <em>des, entres, a, apres, en, pour</em>
 
-### `PART`
+### `CCONJ`
 
-2 <tt><a href="fr_gsd-pos-PART.html">PART</a></tt> tokens (2% of all `PART` tokens) have a non-empty value of `Typo`.
+3 <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `Typo`.
 
-`PART` tokens may have the following values of `Typo`:
+`CCONJ` tokens may have the following values of `Typo`:
 
-* `Yes` (2; 100% of non-empty `Typo`): <em>ci, là</em>
-
-### `SCONJ`
-
-2 <tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Typo`.
-
-`SCONJ` tokens may have the following values of `Typo`:
-
-* `Yes` (2; 100% of non-empty `Typo`): <em>quand, voir</em>
+* `Yes` (3; 100% of non-empty `Typo`): <em>and</em>
 
 ### `INTJ`
 
@@ -143,14 +135,4 @@ The most frequent other feature values with which `NUM` and `Typo` co-occurred: 
 `NUM` tokens may have the following values of `Typo`:
 
 * `Yes` (1; 100% of non-empty `Typo`): <em>cent-dix-sept-</em>
-
-### `X`
-
-1 <tt><a href="fr_gsd-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Typo`.
-
-The most frequent other feature values with which `X` and `Typo` co-occurred: <tt><a href="fr_gsd-feat-Foreign.html">Foreign</a></tt><tt>=Yes</tt> (1; 100%), <tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`X` tokens may have the following values of `Typo`:
-
-* `Yes` (1; 100% of non-empty `Typo`): <em>durint</em>
 

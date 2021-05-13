@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Ika Alfina, Jessica Naraiswari Arwidarasti, Muhammad Yudistira Hanifmuti, Arawinda Dinakaramani, Ruli Manurung, Fam Rashel, Andry Luthfi.
 
 Repository: [UD_Indonesian-CSUI](https://github.com/UniversalDependencies/UD_Indonesian-CSUI)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udid_csui27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udid_csui28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -67,8 +67,8 @@ Other characteristics of the treebank:
 * The lemma (LEMMA) and morphological features (FEATS) were generated using [Aksara](https://github.com/bahasa-csui/aksara).
 
 ## References
-* Ika Alfina, Indra Budi, and Heru Suhartanto. "**Tree Rotations for Dependency Trees: Converting the Head-Directionality of Noun Phrases**". In Journal of Computer Science, 2020. (_accepted_)
-* M. Yudistira Hanifmuti and Ika Alfina. **"Aksara: An Indonesian Morphological Analyzer that Conforms to the UD v2 Annotation Guidelines"**. In Proceeding of the 2020 International Conference of Asian Language Processing (IALP) in Kuala Lumpur, Malaysia, 4-6 Desember 2020. (_accepted_)
+* Ika Alfina, Indra Budi, and Heru Suhartanto. ["**Tree Rotations for Dependency Trees: Converting the Head-Directionality of Noun Phrases**"](http://www.thescipub.com/abstract/jcssp.2020.1585.1597). In Journal of Computer Science, 2020, Vol 16 No 11.
+* M. Yudistira Hanifmuti and Ika Alfina. [**"Aksara: An Indonesian Morphological Analyzer that Conforms to the UD v2 Annotation Guidelines"**](https://ieeexplore.ieee.org/document/9310490). In Proceeding of the 2020 International Conference of Asian Language Processing (IALP) in Kuala Lumpur, Malaysia, 4-6 Desember 2020.
 
 
 # Statistics of UD Indonesian CSUI
@@ -101,7 +101,7 @@ Other characteristics of the treebank:
 </ul>
 
 <ul>
-<li>This corpus contains 148 types of words that contain both letters and punctuation. Examples: rata-rata, APBN-P, masing-masing, Ltd., non-migas, 's, non-keuangan, AA-idn, II/2007, Ka'ban, Pte., langkah-langkah, negara-negara, No., RAPBN-P, bank-bank, baru-baru, idA-, syarat-syarat, C/D, Co., I/2007, II/2003, LLC., S., S/A, Tbk., anak-anak, benar-benar, berbeda-beda, berturut-turut, minus/idn, monyet-monyet, nama-nama, non-residence, obligasi-obligasi, peringkat-peringkat, p​e​r​u​s​a​h​a​a​n​-​p​e​r​u​s​a​h​a​a​n, prinsip-prinsip, rasio-rasio, semata-mata, sumber-sumber, terus-menerus, 03-Oct, 05-May, 10-Jan, 17-Mar, 23-Aug, 26-Sep, 34/PMK.011/2007</li>
+<li>This corpus contains 148 types of words that contain both letters and punctuation. Examples: rata-rata, APBN-P, masing-masing, Ltd., non-migas, 's, non-keuangan, AA-idn, II/2007, Ka'ban, Pte., langkah-langkah, negara-negara, No., RAPBN-P, bank-bank, baru-baru, idA-, syarat-syarat, C/D, Co., I/2007, II/2003, LLC., S., S/A, Tbk., anak-anak, benar-benar, berbeda-beda, berturut-turut, minus/idn, monyet-monyet, nama-nama, non-residence, obligasi-obligasi, peringkat-peringkat, perusahaan-perusahaan, prinsip-prinsip, rasio-rasio, semata-mata, sumber-sumber, terus-menerus, 03-Oct, 05-May, 10-Jan, 17-Mar, 23-Aug, 26-Sep, 34/PMK.011/2007</li>
 </ul>
 
 <ul>
@@ -157,7 +157,7 @@ Other characteristics of the treebank:
 <ul>
   <li>Plur
     <ul>
-      <li>NOUN: langkah-langkah, negara-negara, bank-bank, syarat-syarat, anak-anak, monyet-monyet, nama-nama, obligasi-obligasi, peringkat-peringkat, p​e​r​u​s​a​h​a​a​n​-​p​e​r​u​s​a​h​a​a​n</li>
+      <li>NOUN: langkah-langkah, negara-negara, bank-bank, syarat-syarat, anak-anak, monyet-monyet, nama-nama, obligasi-obligasi, peringkat-peringkat, perusahaan-perusahaan</li>
       <li>PRON: kita, mereka, kami</li>
     </ul>
   </li>

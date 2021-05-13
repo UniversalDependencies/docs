@@ -65,7 +65,7 @@ The 10 most frequent ambiguous types:  <em>at</em> (<tt><a href="no_bokmaal-pos-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.038961 (the average of all parts of speech is 1.381919).
+The form / lemma ratio of `SCONJ` is 1.038961 (the average of all parts of speech is 1.381903).
 
 The 1st highest number of forms (2) was observed with the lemma “at”: <em>at, av</em>.
 
@@ -82,15 +82,15 @@ The 3rd highest number of forms (2) was observed with the lemma “når”: <em>
 
 Parents of `SCONJ` nodes belong to 10 different parts of speech: <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (8639; 77% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (1547; 14% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (785; 7% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (76; 1% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (52; 0% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (48; 0% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (25; 0% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt> (24; 0% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (18; 0% instances), <tt><a href="no_bokmaal-pos-X.html">X</a></tt> (2; 0% instances)
 
-10900 (97%) `SCONJ` nodes are leaves.
+10898 (97%) `SCONJ` nodes are leaves.
 
-313 (3%) `SCONJ` nodes have one child.
+315 (3%) `SCONJ` nodes have one child.
 
 3 (0%) `SCONJ` nodes have two children.
 
 The highest child degree of a `SCONJ` node is 2.
 
-Children of `SCONJ` nodes are attached using 4 different relations: <tt><a href="no_bokmaal-dep-advmod.html">advmod</a></tt> (297; 93% instances), <tt><a href="no_bokmaal-dep-obl.html">obl</a></tt> (11; 3% instances), <tt><a href="no_bokmaal-dep-punct.html">punct</a></tt> (10; 3% instances), <tt><a href="no_bokmaal-dep-conj.html">conj</a></tt> (1; 0% instances)
+Children of `SCONJ` nodes are attached using 4 different relations: <tt><a href="no_bokmaal-dep-advmod.html">advmod</a></tt> (297; 93% instances), <tt><a href="no_bokmaal-dep-punct.html">punct</a></tt> (12; 4% instances), <tt><a href="no_bokmaal-dep-obl.html">obl</a></tt> (11; 3% instances), <tt><a href="no_bokmaal-dep-conj.html">conj</a></tt> (1; 0% instances)
 
-Children of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (254; 80% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (34; 11% instances), <tt><a href="no_bokmaal-pos-PUNCT.html">PUNCT</a></tt> (10; 3% instances), <tt><a href="no_bokmaal-pos-PART.html">PART</a></tt> (9; 3% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (3; 1% instances)
+Children of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (254; 79% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (34; 11% instances), <tt><a href="no_bokmaal-pos-PUNCT.html">PUNCT</a></tt> (12; 4% instances), <tt><a href="no_bokmaal-pos-PART.html">PART</a></tt> (9; 3% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (3; 1% instances)
 

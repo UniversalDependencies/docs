@@ -12,8 +12,8 @@ It occurs with 2 different values: `Plur`, `Sing`.
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="sk_snk-feat-Number.html">Number</a></tt>, <tt><a href="sk_snk-feat-Number-psor.html">Number[psor]</a></tt>.
 
 60503 tokens (57%) have a non-empty value of `Number`.
-25478 types (98%) occur at least once with a non-empty value of `Number`.
-12336 lemmas (87%) occur at least once with a non-empty value of `Number`.
+25469 types (98%) occur at least once with a non-empty value of `Number`.
+12326 lemmas (87%) occur at least once with a non-empty value of `Number`.
 The feature is used with 9 part-of-speech tags: <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (21661; 20% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (12781; 12% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (9474; 9% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (4569; 4% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (4401; 4% instances), <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> (3485; 3% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (3477; 3% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (621; 1% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (34; 0% instances).
 
 ### `NOUN`

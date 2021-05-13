@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-632 nodes (1%) are attached to their parents as `nummod`.
+633 nodes (1%) are attached to their parents as `nummod`.
 
-626 instances of `nummod` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.11867088607595.
+627 instances of `nummod` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.13428120063191.
 
-The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (419; 66% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (110; 17% instances), <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (69; 11% instances), <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (11; 2% instances), <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (419; 66% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (111; 18% instances), <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (69; 11% instances), <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (11; 2% instances), <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

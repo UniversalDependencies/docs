@@ -32,7 +32,7 @@ The following 39 pairs of parts of speech are connected with `appos`: <tt><a hre
 8	for	for	ADP	_	_	10	case	_	_
 9	ten	ten	NUM	CARD-PL	NumType=Card	10	nummod	_	_
 10	days	day	NOUN	PL-NOM	Number=Plur	4	obl	_	_
-11	–	–	PUNCT	_	_	13	punct	_	_
+11	–	–	PUNCT	Dash	_	13	punct	_	_
 12	an	an	DET	IND-SG	Definite=Ind|PronType=Art	13	det	_	_
 13	eternity	eternity	NOUN	SG-NOM	Number=Sing	10	appos	_	SpaceAfter=No
 14	.	.	PUNCT	Period	_	4	punct	_	_

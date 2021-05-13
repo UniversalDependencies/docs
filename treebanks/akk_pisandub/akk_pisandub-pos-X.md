@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Akkadian-PISANDUB: POS Tags: `X`
 
 There are 1 `X` lemmas (0%), 12 `X` types (1%) and 30 `X` tokens (2%).
-Out of 13 observed tags, the rank of `X` is: 13 in number of lemmas, 8 in number of types and 12 in number of tokens.
+Out of 13 observed tags, the rank of `X` is: 13 in number of lemmas, 8 in number of types and 11 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>_</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `X` is 12.000000 (the average of all parts of speech is 1.687616).
+The form / lemma ratio of `X` is 12.000000 (the average of all parts of speech is 1.690167).
 
 The 1st highest number of forms (12) was observed with the lemma “_”: <em>[xx, [xx], [xxx], kux[xxx]⸢ib⸣, x, x-ni-šú, x-si-šú, x[xx], xx, xx], xx]-⸢tim⸣, xxx[xx</em>.
 
@@ -32,7 +32,7 @@ The 1st highest number of forms (12) was observed with the lemma “_”: <em>[x
 
 `X` nodes are attached to their parents using 3 different relations: <tt><a href="akk_pisandub-dep-dep.html">dep</a></tt> (28; 93% instances), <tt><a href="akk_pisandub-dep-conj.html">conj</a></tt> (1; 3% instances), <tt><a href="akk_pisandub-dep-root.html">root</a></tt> (1; 3% instances)
 
-Parents of `X` nodes belong to 7 different parts of speech: <tt><a href="akk_pisandub-pos-NOUN.html">NOUN</a></tt> (12; 40% instances), <tt><a href="akk_pisandub-pos-VERB.html">VERB</a></tt> (11; 37% instances), <tt><a href="akk_pisandub-pos-X.html">X</a></tt> (3; 10% instances), <tt><a href="akk_pisandub-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="akk_pisandub-pos-PROPN.html">PROPN</a></tt> (1; 3% instances),  (1; 3% instances), <tt><a href="akk_pisandub-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances)
+Parents of `X` nodes belong to 6 different parts of speech: <tt><a href="akk_pisandub-pos-NOUN.html">NOUN</a></tt> (12; 40% instances), <tt><a href="akk_pisandub-pos-VERB.html">VERB</a></tt> (12; 40% instances), <tt><a href="akk_pisandub-pos-X.html">X</a></tt> (3; 10% instances), <tt><a href="akk_pisandub-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="akk_pisandub-pos-PROPN.html">PROPN</a></tt> (1; 3% instances),  (1; 3% instances)
 
 15 (50%) `X` nodes are leaves.
 

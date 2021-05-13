@@ -30,7 +30,7 @@ The following 18 pairs of parts of speech are connected with `fixed`: <tt><a hre
 6	quod	quod	SCONJ	O4	_	5	fixed	_	_
 7	est	sum	VERB	N3|modA|tem1|gen6	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
 8	in	in	ADP	S4	AdpType=Prep	9	case	_	_
-9	actu	actus	NOUN	D1|grn1|casF|gen1	Case=Abl|Degree=Pos|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+9	actu	actus	NOUN	D1|grn1|casF|gen1	Case=Abl|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
 10	.	.	PUNCT	Punc	_	3	punct	_	_
 
 ~~~
@@ -42,7 +42,7 @@ The following 18 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 fixed	color:blue
-1	quae	qui	PRON	F1|grn1|casA|gen2|vgr1	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|PronType=Rel	3	nsubj	_	_
+1	quae	qui	PRON	F1|grn1|casA|gen2|vgr1	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	3	nsubj	_	_
 2	quidem	quidem	ADV	O4	_	3	advmod	_	_
 3	potest	possum	VERB	N3|modA|tem1|gen6	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act	0	root	_	_
 4	esse	sum	AUX	N3|modH|tem1	Tense=Pres|VerbForm=Inf|Voice=Act	5	cop	_	_
@@ -67,7 +67,7 @@ The following 18 pairs of parts of speech are connected with `fixed`: <tt><a hre
 2	enim	enim	ADV	O4	_	8	advmod	_	_
 3	et	et	ADV	O4	_	4	advmod:emph	_	_
 4	oppositae	oppono	VERB	L2|modM|tem4|grp1|casJ|gen2	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	_	_
-5	differentiae	differentia	NOUN	A1|grn1|casJ|gen2|vgr1	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	8	nsubj:pass	_	_
+5	differentiae	differentia	NOUN	A1|grn1|casJ|gen2|vgr1	Case=Nom|Gender=Fem|Number=Plur	8	nsubj:pass	_	_
 6	ab	ab	ADV	S4|vgr2	_	8	advmod	_	_
 7	inuicem	inuicem	ADV	O4|vgr1	_	6	fixed	_	_
 8	distinguuntur	distinguo	VERB	L3|modJ|tem1|gen9|vgr1	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No

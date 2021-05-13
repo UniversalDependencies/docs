@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 1	Пеккэ	Пекка	PROPN	_	Case=Nom|Gender=Masc	4	vocative	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	наашаа	наашаа	ADV	_	_	4	advmod	_	_
-4	дүтэлжэ	дүтэл	VERB	_	VerbForm=Coverb	0	root	_	_
+4	дүтэлжэ	дүтэл	VERB	_	VerbForm=Inf	0	root	_	_
 5	шадаха	шада	AUX	_	_	4	aux	_	_
 6	байгаа	бай	AUX	_	_	4	aux	_	_
 7	гү	гү	PART	_	Number=Sing|Person=3	4	discourse	_	SpaceAfter=No

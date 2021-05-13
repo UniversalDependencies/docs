@@ -24,12 +24,12 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 3 5 csubj:pass	color:blue
 1	ѣко	ꙗко	ADV	Df	_	3	discourse	_	ref=MATT_13.11|LId=2
 2	вамъ	вꙑ	PRON	Pp	Case=Dat|Number=Plur|Person=2|PronType=Prs	3	iobj	_	ref=MATT_13.11
-3	дано	дати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=MATT_13.11
+3	дано	дати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	ref=MATT_13.11
 4	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=MATT_13.11
 5	разоумѣти	разоумѣти	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	csubj:pass	_	ref=MATT_13.11
-6	таинаа	таинъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Strength=Weak	5	obj	_	ref=MATT_13.11
+6	таинаа	таинъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	5	obj	_	ref=MATT_13.11
 7	ц҃срствиѣ	цѣсарьствиѥ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	ref=MATT_13.11
-8	н҃бскааго	небесьскъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc,Neut|Number=Sing|Strength=Weak	7	amod	_	ref=MATT_13.11
+8	н҃бскааго	небесьскъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc,Neut|Number=Sing	7	amod	_	ref=MATT_13.11
 
 ~~~
 
@@ -45,13 +45,13 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 3	законѣ	законъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	6	obl	_	ref=JOHN_8.17
 4	же	же	ADV	Df	_	6	discourse	_	ref=JOHN_8.17
 5	вашемь	вашь	ADJ	Ps	Case=Loc|Gender=Masc,Neut|Number=Sing|Person=2|Poss=Yes	3	nmod	_	ref=JOHN_8.17
-6	писано	пьсати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=JOHN_8.17
+6	писано	пьсати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	ref=JOHN_8.17
 7	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	ref=JOHN_8.17
 8	ѣко	ꙗко	SCONJ	G-	_	12	mark	_	ref=JOHN_8.17
 9	дъвою	дъва	NUM	Ma	Case=Gen|Number=Dual	10	nummod	_	ref=JOHN_8.17
 10	ч҃лвкоу	чловѣкъ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Dual	11	nmod	_	ref=JOHN_8.17
 11	съвѣдѣтельство	съвѣдѣтельство	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	ref=JOHN_8.17
-12	истинъно	истиньнъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Strength=Strong	6	csubj:pass	_	ref=JOHN_8.17
+12	истинъно	истиньнъ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	6	csubj:pass	_	ref=JOHN_8.17
 13	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	ref=JOHN_8.17
 
 ~~~
@@ -63,9 +63,9 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 7 csubj:pass	color:blue
-1	нѣстъ	не.бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=JOHN_10.34
+1	нѣстъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=JOHN_10.34
 2	ли	ли	ADV	Du	PronType=Int	3	advmod	_	ref=JOHN_10.34
-3	написано	напьсати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=JOHN_10.34
+3	написано	напьсати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	ref=JOHN_10.34
 4	въ	въ	ADP	R-	_	5	case	_	ref=JOHN_10.34
 5	законѣ	законъ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	3	obl	_	ref=JOHN_10.34
 6	вашемъ	вашь	ADJ	Ps	Case=Loc|Gender=Masc,Neut|Number=Sing|Person=2|Poss=Yes	5	nmod	_	ref=JOHN_10.34

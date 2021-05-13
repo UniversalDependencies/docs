@@ -50,13 +50,13 @@ The 3rd highest number of forms (1) was observed with the lemma “ठीक”:
 
 Parents of `INTJ` nodes belong to 5 different parts of speech: <tt><a href="mr_ufal-pos-VERB.html">VERB</a></tt> (13; 59% instances), <tt><a href="mr_ufal-pos-NOUN.html">NOUN</a></tt> (4; 18% instances), <tt><a href="mr_ufal-pos-ADV.html">ADV</a></tt> (2; 9% instances), <tt><a href="mr_ufal-pos-PRON.html">PRON</a></tt> (2; 9% instances), <tt><a href="mr_ufal-pos-INTJ.html">INTJ</a></tt> (1; 5% instances)
 
-18 (82%) `INTJ` nodes are leaves.
+12 (55%) `INTJ` nodes are leaves.
 
-4 (18%) `INTJ` nodes have one child.
+10 (45%) `INTJ` nodes have one child.
 
 The highest child degree of a `INTJ` node is 1.
 
-Children of `INTJ` nodes are attached using 2 different relations: <tt><a href="mr_ufal-dep-punct.html">punct</a></tt> (3; 75% instances), <tt><a href="mr_ufal-dep-goeswith.html">goeswith</a></tt> (1; 25% instances)
+Children of `INTJ` nodes are attached using 2 different relations: <tt><a href="mr_ufal-dep-punct.html">punct</a></tt> (9; 90% instances), <tt><a href="mr_ufal-dep-goeswith.html">goeswith</a></tt> (1; 10% instances)
 
-Children of `INTJ` nodes belong to 2 different parts of speech: <tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (3; 75% instances), <tt><a href="mr_ufal-pos-INTJ.html">INTJ</a></tt> (1; 25% instances)
+Children of `INTJ` nodes belong to 2 different parts of speech: <tt><a href="mr_ufal-pos-PUNCT.html">PUNCT</a></tt> (9; 90% instances), <tt><a href="mr_ufal-pos-INTJ.html">INTJ</a></tt> (1; 10% instances)
 

@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Def`.
 
-21346 tokens (7%) have a non-empty value of `Definite`.
-4 types (0%) occur at least once with a non-empty value of `Definite`.
+21347 tokens (7%) have a non-empty value of `Definite`.
+5 types (0%) occur at least once with a non-empty value of `Definite`.
 1 lemmas (0%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 1 part-of-speech tags: <tt><a href="pt_gsd-pos-DET.html">DET</a></tt> (21346; 7% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="pt_gsd-pos-DET.html">DET</a></tt> (21347; 7% instances).
 
 ### `DET`
 
-21346 <tt><a href="pt_gsd-pos-DET.html">DET</a></tt> tokens (45% of all `DET` tokens) have a non-empty value of `Definite`.
+21347 <tt><a href="pt_gsd-pos-DET.html">DET</a></tt> tokens (45% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="pt_gsd-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (21346; 100%), <tt><a href="pt_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17872; 84%), <tt><a href="pt_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (12204; 57%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="pt_gsd-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (21347; 100%), <tt><a href="pt_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17873; 84%), <tt><a href="pt_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (12204; 57%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (21346; 100% of non-empty `Definite`): <em>o, a, os, as</em>
-* `EMPTY` (26307): <em>o, a, os, um, uma, as, sua, seu, seus, cada</em>
+* `Def` (21347; 100% of non-empty `Definite`): <em>o, a, os, as</em>
+* `EMPTY` (26309): <em>o, a, os, um, uma, as, sua, seu, seus, cada</em>
 

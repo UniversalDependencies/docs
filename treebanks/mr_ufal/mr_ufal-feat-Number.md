@@ -27,11 +27,11 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>भाऊ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Abs</tt></tt></td><td></td><td><em>भाऊ</em></td></tr>
   <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>भाऊ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>भावाला</em></td><td><em>भावांना</em></td></tr>
   <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Erg</tt></tt></td><td></td><td><em>भावांनी</em></td></tr>
   <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>भाऊ, _</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Obl</tt></tt></td><td></td><td><em>भाऊ</em></td></tr>
 </table>
 
 `Number` seems to be **lexical feature** of `NOUN`. 92% lemmas (298) occur only with one value of `Number`.
@@ -71,7 +71,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 335 <tt><a href="mr_ufal-pos-PRON.html">PRON</a></tt> tokens (88% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="mr_ufal-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (328; 98%), <tt><a href="mr_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (203; 61%), <tt><a href="mr_ufal-feat-Distance.html">Distance</a></tt><tt>=Dist</tt> (183; 55%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="mr_ufal-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (328; 98%), <tt><a href="mr_ufal-feat-Person.html">Person</a></tt><tt>=3</tt> (203; 61%), <tt><a href="mr_ufal-feat-Deixis.html">Deixis</a></tt><tt>=Remt</tt> (183; 55%).
 
 `PRON` tokens may have the following values of `Number`:
 
@@ -81,6 +81,10 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>तो</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Abs</tt>|<tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>_</em></td><td><em>_</em></td></tr>
+  <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Abs</tt>|<tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>_</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Abs</tt>|<tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>_</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Abs</tt></tt></td><td></td><td><em>_</em></td></tr>
   <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>_, तो, त्याला</em></td><td></td></tr>
   <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>ती</em></td><td></td></tr>
   <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>ते, त्याला</em></td><td></td></tr>
@@ -96,10 +100,6 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="mr_ufal-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>ते</em></td></tr>
   <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>ती</em></td><td></td></tr>
   <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>ते, _</em></td><td><em>ती</em></td></tr>
-  <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Obl</tt>|<tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>_</em></td><td><em>_</em></td></tr>
-  <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Obl</tt>|<tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>_</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Obl</tt>|<tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>_</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Obl</tt></tt></td><td></td><td><em>_</em></td></tr>
   <tr><td><tt><tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>_, तो</em></td><td><em>_</em></td></tr>
   <tr><td><tt><tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>_</em></td><td></td></tr>
   <tr><td><tt><tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>_, ते</em></td><td><em>_</em></td></tr>
@@ -167,13 +167,13 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 <table>
   <tr><th>Paradigm <i>तो</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="mr_ufal-feat-Distance.html">Distance</a></tt><tt>=Dist</tt>|<tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>ती</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="mr_ufal-feat-Distance.html">Distance</a></tt><tt>=Prox</tt>|<tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>तो</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="mr_ufal-feat-Distance.html">Distance</a></tt><tt>=Prox</tt>|<tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>ती</em></td><td><em>त्या</em></td></tr>
-  <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="mr_ufal-feat-Distance.html">Distance</a></tt><tt>=Prox</tt>|<tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>ती</em></td></tr>
-  <tr><td><tt><tt><a href="mr_ufal-feat-Distance.html">Distance</a></tt><tt>=Dist</tt>|<tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>तो, _</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="mr_ufal-feat-Distance.html">Distance</a></tt><tt>=Dist</tt>|<tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>ती</em></td><td><em>त्या, _</em></td></tr>
-  <tr><td><tt><tt><a href="mr_ufal-feat-Distance.html">Distance</a></tt><tt>=Dist</tt>|<tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>ते</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="mr_ufal-feat-Deixis.html">Deixis</a></tt><tt>=Prox</tt>|<tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>तो</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="mr_ufal-feat-Deixis.html">Deixis</a></tt><tt>=Prox</tt>|<tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>ती</em></td><td><em>त्या</em></td></tr>
+  <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="mr_ufal-feat-Deixis.html">Deixis</a></tt><tt>=Prox</tt>|<tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>ती</em></td></tr>
+  <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="mr_ufal-feat-Deixis.html">Deixis</a></tt><tt>=Remt</tt>|<tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>ती</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="mr_ufal-feat-Deixis.html">Deixis</a></tt><tt>=Remt</tt>|<tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>तो, _</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="mr_ufal-feat-Deixis.html">Deixis</a></tt><tt>=Remt</tt>|<tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>ती</em></td><td><em>त्या, _</em></td></tr>
+  <tr><td><tt><tt><a href="mr_ufal-feat-Deixis.html">Deixis</a></tt><tt>=Remt</tt>|<tt><a href="mr_ufal-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>ते</em></td><td></td></tr>
 </table>
 
 ### `ADJ`
@@ -207,10 +207,10 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 <table>
   <tr><th>Paradigm <i>केशवचंद्र</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Abs</tt></tt></td><td><em>_</em></td><td><em>_</em></td></tr>
   <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>केशवचंद्राला</em></td><td><em>केशवचंद्रांना</em></td></tr>
   <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Erg</tt></tt></td><td><em>केशवचंद्राने</em></td><td></td></tr>
   <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>केशवचंद्र</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Obl</tt></tt></td><td><em>_</em></td><td><em>_</em></td></tr>
 </table>
 
 ## Relations with Agreement in `Number`
@@ -222,8 +222,8 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="mr_ufal-dep-det.html">det</a></tt>]--> DET</tt> (77; 73%),
 <tt>NOUN --[<tt><a href="mr_ufal-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (48; 61%),
 <tt>NOUN --[<tt><a href="mr_ufal-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (42; 75%),
-<tt>NOUN --[<tt><a href="mr_ufal-dep-cop.html">cop</a></tt>]--> AUX</tt> (35; 100%),
+<tt>NOUN --[<tt><a href="mr_ufal-dep-cop.html">cop</a></tt>]--> AUX</tt> (31; 100%),
 <tt>VERB --[<tt><a href="mr_ufal-dep-conj.html">conj</a></tt>]--> VERB</tt> (28; 61%),
 <tt>VERB --[<tt><a href="mr_ufal-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (28; 54%),
-<tt>NOUN --[<tt><a href="mr_ufal-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (18; 95%).
+<tt>NOUN --[<tt><a href="mr_ufal-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (19; 95%).
 

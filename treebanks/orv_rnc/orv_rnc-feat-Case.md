@@ -1,17 +1,17 @@
 ---
 layout: base
-title:  'Statistics of Case in UD_Old_Russian-RNC'
+title:  'Statistics of Case in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Features: `Case`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Features: `Case`
 
 This feature is universal.
 It occurs with 7 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Voc`.
 
 15085 tokens (50%) have a non-empty value of `Case`.
 6076 types (78%) occur at least once with a non-empty value of `Case`.
-3003 lemmas (76%) occur at least once with a non-empty value of `Case`.
+3002 lemmas (76%) occur at least once with a non-empty value of `Case`.
 The feature is used with 9 part-of-speech tags: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (6431; 21% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (2700; 9% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (2221; 7% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (1639; 5% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (1407; 5% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt> (367; 1% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (318; 1% instances), <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -226,7 +226,7 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> PROPN</tt> (488; 96%),
 <tt>NOUN --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (245; 91%),
 <tt>PRON --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (187; 83%),
-<tt>ADJ --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (146; 95%),
+<tt>ADJ --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (147; 95%),
 <tt>PROPN --[<tt><a href="orv_rnc-dep-conj.html">conj</a></tt>]--> PROPN</tt> (135; 70%),
 <tt>PRON --[<tt><a href="orv_rnc-dep-appos.html">appos</a></tt>]--> PROPN</tt> (92; 95%).
 

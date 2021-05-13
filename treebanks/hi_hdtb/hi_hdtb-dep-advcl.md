@@ -69,7 +69,7 @@ The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 12	fgColor:white
 # visual-style 12 10 advcl	color:blue
 1	लेकिन	लेकिन	CCONJ	CC	_	12	cc	_	SpaceAfter=No|ChunkId=CCP|ChunkType=head|Translit=lekina
-2	,	COMMA	PUNCT	SYM	_	12	punct	_	ChunkId=CCP|ChunkType=child|Translit=,
+2	,	,	PUNCT	SYM	_	12	punct	_	ChunkId=CCP|ChunkType=child|Translit=,
 3	इस	यह	DET	DEM	Case=Acc|Number=Sing|Person=3|PronType=Dem	4	det	_	ChunkId=NP|ChunkType=child|Translit=isa
 4	कहर	कहर	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	nmod	_	Vib=0_के_बाद_से|Tam=0|ChunkId=NP|ChunkType=head|Translit=kahara
 5	के	के	ADP	PSP	AdpType=Post	4	case	_	ChunkId=NP|ChunkType=child|Translit=ke

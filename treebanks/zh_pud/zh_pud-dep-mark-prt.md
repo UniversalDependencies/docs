@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Chinese-PUD: Relations: `mark:prt`
 
 This relation is a language-specific subtype of <tt><a href="zh_pud-dep-mark.html">mark</a></tt>.
-There are also 2 other language-specific subtypes of `mark`: <tt><a href="zh_pud-dep-mark-adv.html">mark:adv</a></tt>, <tt><a href="zh_pud-dep-mark-relcl.html">mark:relcl</a></tt>.
+There are also 2 other language-specific subtypes of `mark`: <tt><a href="zh_pud-dep-mark-adv.html">mark:adv</a></tt>, <tt><a href="zh_pud-dep-mark-rel.html">mark:rel</a></tt>.
 
 338 nodes (2%) are attached to their parents as `mark:prt`.
 
@@ -64,7 +64,7 @@ The following 7 pairs of parts of speech are connected with `mark:prt`: <tt><a h
 7	國會山	_	PROPN	NNP	_	9	compound	_	SpaceAfter=No|Translit=guóhuìshān
 8	任職	_	NOUN	NN	_	9	compound	_	SpaceAfter=No|Translit=rènzhí
 9	變遷	_	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=biànqiān
-10	的	_	PART	DEC	_	6	mark:relcl	_	SpaceAfter=No|Translit=de
+10	的	_	PART	DEC	_	6	mark:rel	_	SpaceAfter=No|Translit=de
 11	人	_	NOUN	NN	_	13	obl	_	SpaceAfter=No|Translit=rén
 12	而	_	ADV	RB	_	13	advmod	_	SpaceAfter=No|Translit='ér
 13	言	_	VERB	VV	_	21	advcl	_	SpaceAfter=No|Translit=yán

@@ -6,28 +6,28 @@ udver: '2'
 
 ## Treebank Statistics: UD_Latin-ITTB: POS Tags: `AUX`
 
-There are 1 `AUX` lemmas (0%), 41 `AUX` types (0%) and 16444 `AUX` tokens (4%).
+There are 1 `AUX` lemmas (0%), 41 `AUX` types (0%) and 16447 `AUX` tokens (4%).
 Out of 15 observed tags, the rank of `AUX` is: 15 in number of lemmas, 12 in number of types and 10 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>sum</em>
 
 The 10 most frequent `AUX` types:  <em>est, sit, esse, sunt, esset, sint, erit, fuit, fuerit, erat</em>
 
-The 10 most frequent ambiguous lemmas: <em>sum</em> (<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> 16444, <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 7180, <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>sum</em> (<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> 16447, <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 7177, <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>est</em> (<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> 9781, <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 3284), <em>sit</em> (<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> 1825, <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 631), <em>esse</em> (<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> 1707, <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> 1418, <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 1325), <em>sunt</em> (<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> 1567, <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 801, <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 1), <em>esset</em> (<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> 304, <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 187), <em>sint</em> (<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> 277, <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 129), <em>erit</em> (<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> 227, <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 149), <em>fuit</em> (<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> 215, <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 108), <em>fuerit</em> (<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> 80, <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 45), <em>erat</em> (<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> 78, <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 53)
+The 10 most frequent ambiguous types:  <em>est</em> (<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> 9783, <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 3282), <em>sit</em> (<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> 1825, <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 631), <em>esse</em> (<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> 1708, <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> 1418, <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 1324), <em>sunt</em> (<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> 1567, <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 801, <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> 1), <em>esset</em> (<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> 304, <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 187), <em>sint</em> (<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> 277, <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 129), <em>erit</em> (<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> 227, <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 149), <em>fuit</em> (<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> 215, <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 108), <em>fuerit</em> (<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> 80, <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 45), <em>erat</em> (<tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> 78, <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 53)
 
 
 * <em>est</em>
-  * <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> 9781: <em>finis enim <b>est</b> bonum uniuscuiusque .</em>
-  * <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 3284: <em>sic enim <b>est</b> dispositio rerum in ueritate sicut in esse .</em>
+  * <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> 9783: <em>finis enim <b>est</b> bonum uniuscuiusque .</em>
+  * <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 3282: <em>sic enim <b>est</b> dispositio rerum in ueritate sicut in esse .</em>
 * <em>sit</em>
   * <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> 1825: <em>quod <b>sit</b> officium sapientis .</em>
   * <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 631: <em>cum <b>sit</b> in quo primum maxime lumen intelligibile inuenitur .</em>
 * <em>esse</em>
-  * <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> 1707: <em>oportet igitur ultimum finem uniuersi <b>esse</b> bonum intellectus .</em>
+  * <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> 1708: <em>oportet igitur ultimum finem uniuersi <b>esse</b> bonum intellectus .</em>
   * <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> 1418: <em>sic enim est dispositio rerum in ueritate sicut in <b>esse</b> .</em>
-  * <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 1325: <em>non igitur a deo <b>esse</b> potest .</em>
+  * <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 1324: <em>non igitur a deo <b>esse</b> potest .</em>
 * <em>sunt</em>
   * <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> 1567: <em>plurima supra sensum hominis ostensa <b>sunt</b> tibi .</em>
   * <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> 801: <em>quae enim supra rationem humanam <b>sunt</b> , non credimus nisi deo reuelante .</em>
@@ -53,26 +53,26 @@ The 10 most frequent ambiguous types:  <em>est</em> (<tt><a href="la_ittb-pos-AU
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 41.000000 (the average of all parts of speech is 3.432157).
+The form / lemma ratio of `AUX` is 41.000000 (the average of all parts of speech is 3.291705).
 
 The 1st highest number of forms (41) was observed with the lemma “sum”: <em>eram, erant, erat, eratis, erimus, eris, erit, eritis, ero, erunt, es, esse, essemus, essendi, essent, esset, est, estis, esto, estote, fore, foret, fuerant, fuerat, fuerimus, fuerint, fuerit, fuerunt, fuisse, fuissent, fuisset, fuistis, fuit, futura, sim, simus, sint, sit, sum, sumus, sunt</em>.
 
-`AUX` occurs with 11 features: <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt> (16444; 100% instances), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt> (16444; 100% instances), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt> (16443; 100% instances), <tt><a href="la_ittb-feat-Number.html">Number</a></tt> (14685; 89% instances), <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt> (14682; 89% instances), <tt><a href="la_ittb-feat-Person.html">Person</a></tt> (14682; 89% instances), <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt> (915; 6% instances), <tt><a href="la_ittb-feat-Case.html">Case</a></tt> (3; 0% instances), <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt> (3; 0% instances), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt> (2; 0% instances), <tt><a href="la_ittb-feat-VerbType.html">VerbType</a></tt> (1; 0% instances)
+`AUX` occurs with 10 features: <tt><a href="la_ittb-feat-VerbForm.html">VerbForm</a></tt> (16447; 100% instances), <tt><a href="la_ittb-feat-Voice.html">Voice</a></tt> (16447; 100% instances), <tt><a href="la_ittb-feat-Tense.html">Tense</a></tt> (16446; 100% instances), <tt><a href="la_ittb-feat-Number.html">Number</a></tt> (14687; 89% instances), <tt><a href="la_ittb-feat-Mood.html">Mood</a></tt> (14684; 89% instances), <tt><a href="la_ittb-feat-Person.html">Person</a></tt> (14684; 89% instances), <tt><a href="la_ittb-feat-Aspect.html">Aspect</a></tt> (918; 6% instances), <tt><a href="la_ittb-feat-Case.html">Case</a></tt> (3; 0% instances), <tt><a href="la_ittb-feat-Degree.html">Degree</a></tt> (3; 0% instances), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt> (2; 0% instances)
 
-`AUX` occurs with 25 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Case=Gen`, `Case=Nom`, `Degree=Pos`, `Gender=Neut`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Imp`, `Tense=Past`, `Tense=Pqp`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`, `VerbType=Mod`, `Voice=Act`
+`AUX` occurs with 23 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Case=Gen`, `Case=Nom`, `Degree=Pos`, `Gender=Neut`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Fut`, `Tense=Past`, `Tense=Pqp`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Ger`, `VerbForm=Inf`, `VerbForm=Part`, `Voice=Act`
 
-`AUX` occurs with 48 feature combinations.
+`AUX` occurs with 47 feature combinations.
 The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act` (9780 tokens).
 Examples: <em>est</em>
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 5 different relations: <tt><a href="la_ittb-dep-cop.html">cop</a></tt> (13487; 82% instances), <tt><a href="la_ittb-dep-aux-pass.html">aux:pass</a></tt> (2928; 18% instances), <tt><a href="la_ittb-dep-aux.html">aux</a></tt> (26; 0% instances), <tt><a href="la_ittb-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="la_ittb-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+`AUX` nodes are attached to their parents using 5 different relations: <tt><a href="la_ittb-dep-cop.html">cop</a></tt> (13489; 82% instances), <tt><a href="la_ittb-dep-aux-pass.html">aux:pass</a></tt> (2929; 18% instances), <tt><a href="la_ittb-dep-aux.html">aux</a></tt> (26; 0% instances), <tt><a href="la_ittb-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="la_ittb-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (5322; 32% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (5234; 32% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (4284; 26% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (950; 6% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (269; 2% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (232; 1% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (110; 1% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (38; 0% instances), <tt><a href="la_ittb-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (2; 0% instances)
+Parents of `AUX` nodes belong to 11 different parts of speech: <tt><a href="la_ittb-pos-ADJ.html">ADJ</a></tt> (5323; 32% instances), <tt><a href="la_ittb-pos-NOUN.html">NOUN</a></tt> (5235; 32% instances), <tt><a href="la_ittb-pos-VERB.html">VERB</a></tt> (4285; 26% instances), <tt><a href="la_ittb-pos-PRON.html">PRON</a></tt> (950; 6% instances), <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> (269; 2% instances), <tt><a href="la_ittb-pos-PROPN.html">PROPN</a></tt> (232; 1% instances), <tt><a href="la_ittb-pos-DET.html">DET</a></tt> (111; 1% instances), <tt><a href="la_ittb-pos-ADV.html">ADV</a></tt> (38; 0% instances), <tt><a href="la_ittb-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="la_ittb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="la_ittb-pos-X.html">X</a></tt> (1; 0% instances)
 
-16397 (100%) `AUX` nodes are leaves.
+16400 (100%) `AUX` nodes are leaves.
 
 46 (0%) `AUX` nodes have one child.
 

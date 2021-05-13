@@ -64,7 +64,7 @@ The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 xcomp	color:blue
-1	Biret-guovttos	Biret-guovttos	NOUN	N	Case=Nom|Number=Sing|PronType=Coll	4	nsubj	_	_
+1	Biret-guovttos	Biret-guovttos	NOUN	N	Case=Nom|Number=Sing|NumType=Coll	4	nsubj	_	_
 2	Juffáin	Juffá	PROPN	N	Case=Com|Number=Sing	1	nmod	_	_
 3	leaba	leat	AUX	V	Mood=Ind|Number=Dual|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	čeahpit	čeahppi	ADJ	A	Case=Nom|Number=Plur	0	root	_	_

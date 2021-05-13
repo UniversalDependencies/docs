@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Maria Jesus Aranzabe, Aitziber Atutxa, Kepa Bengoetxea, Arantza Diaz de Ilarraza, Iakes Goenaga, Koldo Gojenola, Larraitz Uria.
 
 Repository: [UD_Basque-BDT](https://github.com/UniversalDependencies/UD_Basque-BDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udeu_bdt27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udeu_bdt28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -88,7 +88,7 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
 </ul>
 
 <ul>
-<li>This corpus contains 693 types of words that contain both letters and punctuation. Examples: PSE-EEk, II.a, PSE-EEko, bat-batean, II., Euskaltel-Euskadi, I.a, II.ak, PSE-EE, bete-betean, denboraldi-aurrea, denboraldi-aurreko, parte-hartzea, behin-behineko, denboraldi-aurrean, e​l​e​k​t​r​i​z​i​t​a​t​e​-​l​i​n​e​a​r​i, poliki-poliki, PSE-EEren, Yong-Kooren, buru-belarri, cm-ko, Calcio-n, Donibane-Lohizuneko, Francine-k, Jazztel-Costa, Lutxana-Deustu, PSE-EEri, Uda-udazken, Yong-Koo, aitzin-multzoan, bizi-bizi, gorri-berdeak, kili-kolo, lur-nahaste, p​e​r​t​s​o​n​a​-​k​o​m​u​n​z​t​a​d​u​r​a​-​m​a​r​k​e​k, pixkanaka-pixkanaka, p​o​t​e​n​t​z​i​a​l​-​d​i​f​e​r​e​n​t​z​i​a, soil-soilik, t​r​a​n​s​f​o​r​m​a​z​i​o​-​z​e​n​t​r​o​a​r​i, zehatz-mehatz, zelai-erdian, zer-nolako, 30.eko, A., AEK-ko, Asegarce-Altiren, Biztanle-kopuruak, CD-ROMetan, Dae-jung, Dole-k</li>
+<li>This corpus contains 693 types of words that contain both letters and punctuation. Examples: PSE-EEk, II.a, PSE-EEko, bat-batean, II., Euskaltel-Euskadi, I.a, II.ak, PSE-EE, bete-betean, denboraldi-aurrea, denboraldi-aurreko, parte-hartzea, behin-behineko, denboraldi-aurrean, elektrizitate-lineari, poliki-poliki, PSE-EEren, Yong-Kooren, buru-belarri, cm-ko, Calcio-n, Donibane-Lohizuneko, Francine-k, Jazztel-Costa, Lutxana-Deustu, PSE-EEri, Uda-udazken, Yong-Koo, aitzin-multzoan, bizi-bizi, gorri-berdeak, kili-kolo, lur-nahaste, pertsona-komunztadura-markek, pixkanaka-pixkanaka, potentzial-diferentzia, soil-soilik, transformazio-zentroari, zehatz-mehatz, zelai-erdian, zer-nolako, 30.eko, A., AEK-ko, Asegarce-Altiren, Biztanle-kopuruak, CD-ROMetan, Dae-jung, Dole-k</li>
 </ul>
 
 <ul>
@@ -305,7 +305,7 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
       <li>ADJ: Akziodunentzat, bahamatarrentzat, baionesentzat, bakarrarentzat, berriarentzat, berrientzat, britainiarrentzat, frantziarrarentzat, handirentzat, hungariarrarentzat</li>
       <li>AUX: denarentzat, duenarentzat, nauenarentzat, zuenarentzat</li>
       <li>DET: gehienentzat, guztientzat, harentzat, guztiontzat, horientzat, Zerendako, askorentzat, batzuentzat, berarentzat, beretzat</li>
-      <li>NOUN: emakumeentzat, ertzainentzat, gorritxoentzat, jokalarientzat, Estatuarentzat, Greziarrentzat, Hegoaldekoentzat, Munduarentzat, T​x​i​r​r​i​n​d​u​l​a​r​i​t​z​a​r​e​n​t​z​a​t, Zuzenbidearentzat</li>
+      <li>NOUN: emakumeentzat, ertzainentzat, gorritxoentzat, jokalarientzat, Estatuarentzat, Greziarrentzat, Hegoaldekoentzat, Munduarentzat, Txirrindularitzarentzat, Zuzenbidearentzat</li>
       <li>PRON: norbaitentzat</li>
       <li>PROPN: Alavesentzat, Eibarrentzat, Udalbiltzarentzat, Andreasentzat, Astillerorentzat, Athleticentzat, Barakentzat, Batistutarentzat, Bretainiarentzat, Echevarrieta-rentzat</li>
     </ul>

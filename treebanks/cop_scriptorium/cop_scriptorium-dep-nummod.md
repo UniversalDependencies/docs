@@ -51,7 +51,7 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 3	ⲛⲁ	ⲛⲁ	AUX	FUT	_	4	aux	_	_
 4	ⲣ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	0	root	_	_
 5	ϩⲙⲉ	ϩⲙⲉ	NUM	NUM	NumType=Card	8	nummod	_	Entity=(person
-6	ⲇⲉ	ⲇⲉ	PART	PTC	_	4	advmod	_	_
+6	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	4	advmod	_	OrigLang=grc
 7	ⲛ	ⲛ	ADP	PREP	_	8	case	_	_
 8	ϣⲉ	ϣⲉ	NUM	NUM	NumType=Card	4	obj	_	Entity=person)
 9	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	12	cc	_	_

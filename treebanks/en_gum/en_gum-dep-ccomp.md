@@ -8,70 +8,68 @@ udver: '2'
 
 This relation is universal.
 
-927 nodes (1%) are attached to their parents as `ccomp`.
+987 nodes (1%) are attached to their parents as `ccomp`.
 
-798 instances of `ccomp` (86%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.08414239482201.
+863 instances of `ccomp` (87%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.16109422492401.
 
-The following 20 pairs of parts of speech are connected with `ccomp`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (614; 66% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (100; 11% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (91; 10% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (39; 4% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (18; 2% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (13; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (7; 1% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `ccomp`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (615; 62% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (124; 13% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (108; 11% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (54; 5% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (18; 2% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (18; 2% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (12; 1% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 6 ccomp	color:blue
-1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Discourse=sequence:97->24|Entity=(person-2)
-2	wished	wish	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	Entity=(event-71
-4	rain	rain	NOUN	NN	Number=Sing	6	nsubj	_	Entity=event-71)
-5	would	would	AUX	MD	VerbForm=Fin	6	aux	_	_
-6	stop	stop	VERB	VB	VerbForm=Inf	2	ccomp	_	SpaceAfter=No
-7	.	.	PUNCT	.	_	2	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 ccomp	color:blue
+1	You	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	4:nsubj	Discourse=evaluation:11->13|Entity=(person-12)|SpaceAfter=No
+2	're	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
+3	so	so	ADV	RB	_	4	advmod	4:advmod	_
+4	stupid	stupid	ADJ	JJ	Degree=Pos	0	root	0:root	_
+5	thinking	think	VERB	VBG	VerbForm=Ger	4	advcl	4:advcl	Discourse=attribution:12->13
+6	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj	Discourse=antithesis:13->14|Entity=(person-4)
+7	spent	spend	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	5	ccomp	5:ccomp	_
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	Entity=(time-7
+9	night	night	NOUN	NN	Number=Sing	7	obj	7:obj	Entity=time-7)|SpaceAfter=No
+10	.	.	PUNCT	.	_	4	punct	4:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 6 ccomp	color:blue
-1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	Discourse=attribution:137->138|Entity=(person-144)
-2	say	say	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	Discourse=joint:138->136|Entity=(person-145)
-4	can	can	AUX	MD	VerbForm=Fin	6	aux	_	_
-5	be	be	AUX	VB	VerbForm=Inf	6	cop	_	_
-6	Muslim	Muslim	ADJ	JJ	Degree=Pos	2	ccomp	_	_
-7	and	and	CCONJ	CC	_	8	cc	_	_
-8	modern	modern	ADJ	JJ	Degree=Pos	6	conj	_	SpaceAfter=No
-9	.	.	PUNCT	.	_	2	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 5 ccomp	color:blue
+1	“	''	PUNCT	``	_	5	punct	5:punct	Discourse=evaluation:85->74|SpaceAfter=No
+2	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	Entity=(event-87)
+3	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
+4	not	not	PART	RB	Polarity=Neg	5	advmod	5:advmod	_
+5	funny	funny	ADJ	JJ	Degree=Pos	9	ccomp	9:ccomp	SpaceAfter=No
+6	,	,	PUNCT	,	_	5	punct	5:punct	SpaceAfter=No
+7	”	''	PUNCT	''	_	5	punct	5:punct	_
+8	Derya	Derya	PROPN	NNP	Number=Sing	9	nsubj	9:nsubj	Discourse=attribution:86->85|Entity=(person-8)
+9	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
+10	.	.	PUNCT	.	_	9	punct	9:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 8 ccomp	color:blue
-1	``	''	PUNCT	``	_	3	punct	_	Discourse=attribution:92->93
-2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Entity=(person-9)
-3	say	say	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	brains	brain	NOUN	NNS	Number=Plur	8	nsubj	_	Discourse=joint:93->77|Entity=(object-99)
-5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
-6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	Entity=(object-99
-7	greater	great	ADJ	JJR	Degree=Cmp	8	amod	_	_
-8	producer	producer	NOUN	NN	Number=Sing	3	ccomp	_	_
-9	of	of	ADP	IN	_	10	case	_	_
-10	wealth	wealth	NOUN	NN	Number=Sing	8	nmod	_	Entity=(substance-100)object-99)|SpaceAfter=No
-11	,	,	PUNCT	,	_	13	punct	_	_
-12	not	not	PART	RB	Polarity=Neg	13	advmod	_	_
-13	oil	oil	NOUN	NN	Number=Sing	8	parataxis	_	Entity=(substance-101)|SpaceAfter=No
-14	.	.	PUNCT	.	_	3	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 3 ccomp	color:blue
+1	“	''	PUNCT	``	_	3	punct	3:punct	Discourse=evaluation:61->59|SpaceAfter=No
+2	Fucking	fucking	INTJ	UH	_	3	discourse	3:discourse	Entity=(person-88
+3	airsurfers	airsurfer	NOUN	NNS	Number=Plur	6	ccomp	6:ccomp	Entity=person-88)|SpaceAfter=No
+4	,	,	PUNCT	,	_	3	punct	3:punct	SpaceAfter=No
+5	”	''	PUNCT	''	_	3	punct	3:punct	_
+6	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Discourse=attribution:62->61
+7	Derya	Derya	PROPN	NNP	Number=Sing	6	nsubj	6:nsubj	Entity=(person-8)|SpaceAfter=No
+8	.	.	PUNCT	.	_	6	punct	6:punct	_
 
 ~~~
 

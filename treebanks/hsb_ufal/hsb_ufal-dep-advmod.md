@@ -26,7 +26,7 @@ The following 16 pairs of parts of speech are connected with `advmod`: <tt><a hr
 1	Pyrenoidy	pyrenoid	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
 2	zwjetša	zwjetša	ADV	_	_	3	advmod	_	_
 3	faluja	falować	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

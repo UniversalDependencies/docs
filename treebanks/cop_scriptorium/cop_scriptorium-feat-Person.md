@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
 7979 tokens (16%) have a non-empty value of `Person`.
-102 types (4%) occur at least once with a non-empty value of `Person`.
-57 lemmas (2%) occur at least once with a non-empty value of `Person`.
+101 types (4%) occur at least once with a non-empty value of `Person`.
+56 lemmas (2%) occur at least once with a non-empty value of `Person`.
 The feature is used with 2 part-of-speech tags: <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (6877; 14% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1102; 2% instances).
 
 ### `PRON`
@@ -27,7 +27,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `3` (4569; 66% of non-empty `Person`): ϥ, ⲩ, ⲥ, ⲟⲩ, ⲥⲉ, ⲛⲧⲟϥ, ⲉⲩⲉ, ⲛⲧⲟⲟⲩ, ⲉϥϣⲁⲛ, ⲉϥⲉ
 * `EMPTY` (1093): ⲡⲉ, ⲟⲩ, ⲛⲓⲙ, ϥ, ⲧⲉ, ⲛⲉ, ⲡ, ⲕ, ⲛ, ⲁϣ
 
-`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (43) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (42) occur only with one value of `Person`.
 
 ### `DET`
 

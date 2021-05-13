@@ -13,21 +13,20 @@ The 10 most frequent `INTJ` lemmas: _, あっ, OH, ありがとう, いえ, い�
 
 The 10 most frequent `INTJ` types:  あっ, OH, ありがとう, いえ, いや, いやいや, アラ, イエィ, チョーサンヤ, ヤッター
 
-The 10 most frequent ambiguous lemmas: _ (<tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> 7, <tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> 7, <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> 2), いや (<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: _ (<tt><a href="ja_gsd-pos-SYM.html">SYM</a></tt> 3, <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="ja_gsd-pos-PROPN.html">PROPN</a></tt> 1), いや (<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  あっ (<tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 144, <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 106, <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> 2), ありがとう (<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> 1), いえ (<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 10, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> 1), いや (<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  あっ (<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 251, <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> 2), ありがとう (<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> 1), いえ (<tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 9, <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> 1), いや (<tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> 1)
 
 
 * あっ
-  * <tt><a href="ja_gsd-pos-AUX.html">AUX</a></tt> 144: また 髪型 も 京風 の 引き 鬢 で は なく 、 江戸 風 の 出し 鬢 で <b>あっ</b> た 。
-  * <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 106: カラフル で 色合い が いい デザイン が <b>あっ</b> た の で 気 に 入り まし た 。
+  * <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 251: カラフル で 色合い が いい デザイン が <b>あっ</b> た の で 気 に 入り まし た 。
   * <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> 2: <b>あっ</b> と いう 間 に 起き た 突発 事態 でし た 。
 * ありがとう
   * <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> 6: 先日 は <b>ありがとう</b> ござい まし た 。 部下 は ヘビー ナイト と バッティ 、 ブルーム ハッター 、 トライデント ナイト 。
   * <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> 1: * 5 月 9 日 いきもの がかり が 松下 と 対談 、 主題 歌 「 <b>ありがとう</b> 」 を 歌唱 。
 * いえ
-  * <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 10: 大人 と 子供 で は 体質 が 違う の で , “ 大人 に 良い もの が 子供 に も いい ” と は 必ず しも <b>いえ</b> ませ ん 。
-  * <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 2: 秋山 が 騎乗 し て い た と は <b>いえ</b> 、 圧倒 的 な 速 さ を 見せ た 。
+  * <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt> 9: 大人 と 子供 で は 体質 が 違う の で , “ 大人 に 良い もの が 子供 に も いい ” と は 必ず しも <b>いえ</b> ませ ん 。
+  * <tt><a href="ja_gsd-pos-SCONJ.html">SCONJ</a></tt> 3: 秋山 が 騎乗 し て い た と は <b>いえ</b> 、 圧倒 的 な 速 さ を 見せ た 。
   * <tt><a href="ja_gsd-pos-INTJ.html">INTJ</a></tt> 1: 海老澤 代表 が 統一 教会 の 関係 の 人 か 訊く と “ <b>いえ</b> , どなた か から 聞い た の です か ? ”
 * いや
   * <tt><a href="ja_gsd-pos-ADJ.html">ADJ</a></tt> 3: クール な 性格 で 、 自ら を 「 <b>いや</b> な 子 」 と 称する 。
@@ -35,7 +34,7 @@ The 10 most frequent ambiguous types:  あっ (<tt><a href="ja_gsd-pos-AUX.html"
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.090909 (the average of all parts of speech is 1.060594).
+The form / lemma ratio of `INTJ` is 1.090909 (the average of all parts of speech is 1.059467).
 
 The 1st highest number of forms (2) was observed with the lemma “_”: チョーサンヤ, ヨーイトナ.
 

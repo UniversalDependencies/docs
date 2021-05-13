@@ -42,8 +42,3 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 
 `Voice` seems to be **lexical feature** of `ADJ`. 99% lemmas (715) occur only with one value of `Voice`.
 
-## Relations with Agreement in `Voice`
-
-The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>ADJ --[<tt><a href="sk_snk-dep-obl.html">obl</a></tt>]--> ADJ</tt> (1; 100%).
-

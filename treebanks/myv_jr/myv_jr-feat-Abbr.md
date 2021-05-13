@@ -23,5 +23,10 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (6; 100% of non-empty `Abbr`): <em>А., Д., И., П., Я.</em>
-* `EMPTY` (4254): <em>лангс, ёнов, бандитэсь, лангсо, партизантнэ, ялгат, кедензэ, ланга, ёндо, прянзо</em>
+* `EMPTY` (4245): <em>лангс, ёнов, бандитэсь, лангсо, партизантнэ, ялгат, кедензэ, ланга, ёндо, прянзо</em>
+
+## Relations with Agreement in `Abbr`
+
+The 10 most frequent relations where parent and child node agree in `Abbr`:
+<tt>NOUN --[<tt><a href="myv_jr-dep-flat-name.html">flat:name</a></tt>]--> NOUN</tt> (2; 100%).
 

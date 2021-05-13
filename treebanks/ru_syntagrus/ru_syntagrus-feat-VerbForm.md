@@ -55,7 +55,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 * `Fin` (7373; 91% of non-empty `VerbForm`): <em>было, был, были, будет, была, будут, есть, будем, буду, будь</em>
 * `Inf` (721; 9% of non-empty `VerbForm`): <em>быть</em>
 * `Part` (5; 0% of non-empty `VerbForm`): <em>бывшие, бывший, бывшем</em>
-* `EMPTY` (1524): <em>бы, б</em>
+* `EMPTY` (1540): <em>бы, б</em>
 
 <table>
   <tr><th>Paradigm <i>быть</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th></tr>

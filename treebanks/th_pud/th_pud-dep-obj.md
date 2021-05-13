@@ -27,9 +27,9 @@ The following 12 pairs of parts of speech are connected with `obj`: <tt><a href=
 3	เรื่อง	_	NOUN	NN	_	1	compound	_	SpaceAfter=No
 4	การแต่ง	_	VERB	VV	_	3	compound	_	SpaceAfter=No
 5	กาย	_	NOUN	NN	_	4	obj	_	SpaceAfter=No
-6	อาจ	_	VERB	MD	_	7	aux	_	SpaceAfter=No
+6	อาจ	_	AUX	MD	_	7	aux	_	SpaceAfter=No
 7	ล้า	_	VERB	VV	_	0	root	_	SpaceAfter=No
-8	สมัย	_	NOUN	NN	_	7	advmod	_	SpaceAfter=No
+8	สมัย	_	NOUN	NN	_	7	obl	_	SpaceAfter=No
 9	ไป	_	PART	RP	_	7	compound:prt	_	SpaceAfter=No
 10	หน่อย	_	ADV	RB	_	7	advmod	_	_
 
@@ -43,7 +43,7 @@ The following 12 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 5 obj	color:blue
 1	เขา	_	PRON	PRP	Person=3	3	nsubj	_	SpaceAfter=No
-2	ได้	_	PART	AS	Aspect=Perf	3	aux	_	SpaceAfter=No
+2	ได้	_	AUX	AS	Aspect=Perf	3	aux	_	SpaceAfter=No
 3	พูด	_	VERB	VV	_	0	root	_	SpaceAfter=No
 4	สนับสนุน	_	VERB	VV	_	3	xcomp	_	SpaceAfter=No
 5	การทรมาน	_	VERB	VV	_	4	obj	_	_

@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>kit-ti</em> (<tt><a href="akk_pisandu
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.777778 (the average of all parts of speech is 1.687616).
+The form / lemma ratio of `ADJ` is 1.777778 (the average of all parts of speech is 1.690167).
 
 The 1st highest number of forms (12) was observed with the lemma “rabû”: <em>GAL, GAL-GAL, GAL-MEŠ, GAL-a, GAL-i, GAL-ú, ra-ba-a, ra-bi-i, ra-bi-tim, ra-bu-tú, ra-bí-a-am, ⸢GAL⸣-ú</em>.
 

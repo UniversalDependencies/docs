@@ -71,7 +71,7 @@ The 3rd highest number of forms (2) was observed with the lemma “że”: <em>z
 
 `SCONJ` occurs with 1 features: <tt><a href="pl_pdb-feat-ConjType.html">ConjType</a></tt> (1555; 21% instances)
 
-`SCONJ` occurs with 2 feature-value pairs: `ConjType=Cmpr`, `ConjType=Pred`
+`SCONJ` occurs with 2 feature-value pairs: `ConjType=Comp`, `ConjType=Pred`
 
 `SCONJ` occurs with 3 feature combinations.
 The most frequent feature combination is `_` (5940 tokens).

@@ -24,7 +24,7 @@ The following 8 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 6 9 appos	color:blue
 1	พวก	_	NOUN	NN	_	4	nsubj	_	SpaceAfter=No
 2	เขา	_	PRON	PRP	Person=3	1	compound	_	SpaceAfter=No
-3	จะ	_	VERB	MD	_	4	aux	_	SpaceAfter=No
+3	จะ	_	AUX	MD	_	4	aux	_	SpaceAfter=No
 4	เล่น	_	VERB	VV	_	0	root	_	SpaceAfter=No
 5	ใน	_	ADP	IN	_	6	case	_	SpaceAfter=No
 6	วัน	_	NOUN	NN	_	4	obl	_	SpaceAfter=No
@@ -44,7 +44,7 @@ The following 8 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 1 2 appos	color:blue
 1	พระเจ้า	_	NOUN	NN	_	4	nsubj	_	SpaceAfter=No
 2	ฟิลิป	_	PROPN	NNP	_	1	appos	_	SpaceAfter=No
-3	ทรง	_	VERB	MD	_	4	aux	_	SpaceAfter=No
+3	ทรง	_	AUX	MD	_	4	aux	_	SpaceAfter=No
 4	ยก	_	VERB	VV	_	0	root	_	SpaceAfter=No
 5	ทัพ	_	NOUN	NN	_	4	obj	_	SpaceAfter=No
 6	ไป	_	PART	RP	_	4	compound:prt	_	SpaceAfter=No
@@ -66,7 +66,7 @@ The following 8 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 6 7 appos	color:blue
 1	พวก	_	NOUN	NN	_	4	nsubj	_	SpaceAfter=No
 2	เขา	_	PRON	PRP	Person=3	1	compound	_	SpaceAfter=No
-3	จะ	_	VERB	MD	_	4	aux	_	SpaceAfter=No
+3	จะ	_	AUX	MD	_	4	aux	_	SpaceAfter=No
 4	เล่น	_	VERB	VV	_	0	root	_	SpaceAfter=No
 5	ใน	_	ADP	IN	_	6	case	_	SpaceAfter=No
 6	วัน	_	NOUN	NN	_	4	obl	_	SpaceAfter=No

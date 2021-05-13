@@ -7,32 +7,33 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: Relations: `aux:neg`
 
 This relation is a language-specific subtype of <tt><a href="kpv_lattice-dep-aux.html">aux</a></tt>.
+There are also 4 other language-specific subtypes of `aux`: <tt><a href="kpv_lattice-dep-aux-aspect.html">aux:aspect</a></tt>, <tt><a href="kpv_lattice-dep-aux-nec.html">aux:nec</a></tt>, <tt><a href="kpv_lattice-dep-aux-pot.html">aux:pot</a></tt>, <tt><a href="kpv_lattice-dep-aux-tense.html">aux:tense</a></tt>.
 
-85 nodes (2%) are attached to their parents as `aux:neg`.
+150 nodes (2%) are attached to their parents as `aux:neg`.
 
-81 instances of `aux:neg` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.41176470588235.
+136 instances of `aux:neg` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.52666666666667.
 
-The following 5 pairs of parts of speech are connected with `aux:neg`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (73; 86% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (6; 7% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (3; 4% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `aux:neg`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (124; 83% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (9; 6% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (6; 4% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (6; 4% instances), <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 aux:neg	color:blue
-1	Эз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	2	aux:neg	_	_
-2	позь	позьны	VERB	V	Connegative=Yes	0	root	_	_
-3	бӧрйыны	бӧрйыны	VERB	V	VerbForm=Inf	2	xcomp	_	_
-4	ни	ни	PART	Pcle	Polarity=Neg	5	advmod:neg	_	_
-5	Питер	Питер	NOUN	N	Case=Nom|Number=Sing	3	obj	_	Lang=Mixed
-6	Смитӧс	Смит	NOUN	N	Case=Acc|Number=Sing	5	flat:name	_	Lang=Mixed|SpaceAfter=No
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 aux:neg	color:blue
+1	Эз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	3	aux:neg	_	_
+2	позь	позьны	AUX	V	Connegative=Yes	3	aux:pot	_	_
+3	бӧрйыны	бӧрйыны	VERB	V	VerbForm=Inf	0	root	_	_
+4	ни	ни	CCONJ	CC	Polarity=Neg	5	cc:preconj	_	_
+5	Питер	Питер	NOUN	N	Case=Nom|Number=Sing	3	obj	_	OrigLang=ru
+6	Смитӧс	Смит	NOUN	N	Case=Acc|Number=Sing	5	flat:name	_	OrigLang=ru|SpaceAfter=No
 7	,	,	PUNCT	CLB	_	9	punct	_	_
-8	ни	ни	PART	Pcle	Polarity=Neg	9	advmod:neg	_	_
-9	Мери	Мери	NOUN	N	Case=Nom|Number=Sing	5	conj	_	Lang=Mixed
-10	Браунӧс	Браун	NOUN	N	Case=Acc|Number=Sing	9	flat:name	_	Lang=Mixed|SpaceAfter=No
-11	.	.	PUNCT	CLB	_	2	punct	_	_
+8	ни	ни	CCONJ	CC	Polarity=Neg	9	cc:preconj	_	_
+9	Мери	Мери	NOUN	N	Case=Nom|Number=Sing	5	conj	_	OrigLang=ru
+10	Браунӧс	Браун	NOUN	N	Case=Acc|Number=Sing	9	flat:name	_	OrigLang=ru|SpaceAfter=No
+11	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 
@@ -54,26 +55,22 @@ The following 5 pairs of parts of speech are connected with `aux:neg`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 14 aux:neg	color:blue
-1	И	и	CCONJ	CC	_	2	cc	_	_
-2	шензи	шензьыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	_
-3	нӧшта	нӧшта	ADV	Adv	_	2	advmod:tmod	_	SpaceAfter=No
-4	,	,	PUNCT	CLB	_	6	punct	_	_
-5	кор	кор	SCONJ	CS	_	6	mark	_	_
-6	тӧдмалі	тӧдмавны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	2	advcl	_	SpaceAfter=No
-7	,	,	PUNCT	CLB	_	12	punct	_	_
-8	мый	мый	SCONJ	CS	_	12	mark	_	_
-9	шерыслӧн	шер	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	10	nmod	_	_
-10	туйыс	туй	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	nsubj	_	_
-11	зэв	зэв	ADV	Adv	_	12	advmod:deg	_	_
-12	векньыдик	векньыдик	ADJ	A	Case=Nom|Derivation=Ik|Number=Sing	6	ccomp	_	_
-13	и	и	PART	Pcle	_	12	advmod	_	_
-14	вӧлӧма	вӧвны	AUX	V	Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	12	aux:neg	_	SpaceAfter=No
-15	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 aux:neg	color:blue
+1	—	—	PUNCT	PUNCT	_	4	punct	_	_
+2	Сійӧ	сійӧ	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj:cop	_	GTtags=Pers,Sg3,Nom
+3	ӧд	ӧд	ADV	Adv	Case=Nom|Number=Sing	4	advmod:eval	_	GTtags=Sg,Nom
+4	ныв	ныв	NOUN	N	Case=Nom|Number=Sing	0	root	_	GTtags=Sg,Nom|SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	8	punct	_	_
+6	абу	абу	AUX	_	Mood=Ind|Number=Sing|Polarity=Neg	8	aux:neg	_	GTtags=Neg,Cop,Ind,Sg
+7	и	и	ADV	Adv	_	8	advmod:foc	_	_
+8	мича	мича	ADJ	A	Case=Nom|Number=Sing	4	conj	_	GTtags=Sg,Nom
+9	сылы	сійӧ	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs	8	obl	_	GTtags=Pers,Sg3,Dat
+10	вӧзйысьнысӧ	вӧзйысьны	VERB	V	Clitic=So|VerbForm=Inf	8	csubj	_	GTtags=Refl,Inf,Clt/сӧ|SpaceAfter=No
+11	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 

@@ -60,9 +60,9 @@ The 2nd highest number of forms (3) was observed with the lemma “fly”: <em>f
 
 The 3rd highest number of forms (3) was observed with the lemma “ground”: <em>ground, grounder, grounds</em>.
 
-`NOUN` occurs with 4 features: <tt><a href="en_lines-feat-Number.html">Number</a></tt> (16509; 97% instances), <tt><a href="en_lines-feat-Case.html">Case</a></tt> (458; 3% instances), <tt><a href="en_lines-feat-Definite.html">Definite</a></tt> (1; 0% instances), <tt><a href="en_lines-feat-Gender.html">Gender</a></tt> (1; 0% instances)
+`NOUN` occurs with 3 features: <tt><a href="en_lines-feat-Number.html">Number</a></tt> (16509; 97% instances), <tt><a href="en_lines-feat-Case.html">Case</a></tt> (458; 3% instances), <tt><a href="en_lines-feat-Definite.html">Definite</a></tt> (1; 0% instances)
 
-`NOUN` occurs with 5 feature-value pairs: `Case=Nom`, `Definite=Ind`, `Gender=Com`, `Number=Plur`, `Number=Sing`
+`NOUN` occurs with 4 feature-value pairs: `Case=Nom`, `Definite=Ind`, `Number=Plur`, `Number=Sing`
 
 `NOUN` occurs with 6 feature combinations.
 The most frequent feature combination is `Number=Sing` (12500 tokens).

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ro_rrt-dep-expl.html">expl</a></tt>.
 There are also 3 other language-specific subtypes of `expl`: <tt><a href="ro_rrt-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="ro_rrt-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="ro_rrt-dep-expl-pv.html">expl:pv</a></tt>.
 
-599 nodes (0%) are attached to their parents as `expl:poss`.
+603 nodes (0%) are attached to their parents as `expl:poss`.
 
-559 instances of `expl:poss` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.46410684474124.
+563 instances of `expl:poss` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.46102819237148.
 
-The following 4 pairs of parts of speech are connected with `expl:poss`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (588; 98% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `expl:poss`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (592; 98% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -47,7 +47,7 @@ The following 4 pairs of parts of speech are connected with `expl:poss`: <tt><a 
 # visual-style 8	fgColor:white
 # visual-style 8 9 expl:poss	color:blue
 1	După	după	ADP	Spsa	AdpType=Prep|Case=Acc	2	case	_	_
-2	ani	an	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	8	nmod	_	ToDo=nmod
+2	ani	an	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	8	nmod	_	_
 3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	_
 4	străduință	străduință	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	COMMA	_	2	punct	_	_
@@ -55,7 +55,7 @@ The following 4 pairs of parts of speech are connected with `expl:poss`: <tt><a 
 7	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	8	det	_	_
 8	vacă	vacă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
 9	mi-	eu	PRON	Pp1-sd--y-----w	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak|Variant=Short	8	expl:poss	_	SpaceAfter=No
-10	e	fi	AUX	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+10	e	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 11	averea	avere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	8	nsubj	_	SpaceAfter=No
 12	.	.	PUNCT	PERIOD	_	8	punct	_	_
 
@@ -86,7 +86,7 @@ The following 4 pairs of parts of speech are connected with `expl:poss`: <tt><a 
 16	,	,	PUNCT	COMMA	_	15	punct	_	_
 17	gesturile	gest	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	21	nsubj	_	_
 18	îi	el	PRON	Pp3-sd--------w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak	21	expl:poss	_	_
-19	sunt	fi	AUX	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
+19	sunt	fi	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
 20	mai	mai	ADV	Rp	_	21	advmod	_	_
 21	cumpănite	cumpănit	ADJ	Afpfp-n	Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	0	root	_	_
 22	și	și	CCONJ	Crssp	Polarity=Pos	25	cc	_	_

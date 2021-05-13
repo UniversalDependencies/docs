@@ -20,19 +20,18 @@ The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 expl:pass	color:blue
-1	Bola	byť	AUX	VLescf+	Aspect=Imp|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	2	aux:pass	2:aux:pass	_
-2	riadená	riadený	ADJ	Gtfs1x	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	0	root	0:root	_
-3	klerikálne	klerikálne	ADV	Dx	Degree=Pos	2	advmod	2:advmod	SpaceAfter=No
-4	,	,	PUNCT	Z	_	6	punct	6:punct	_
-5	ale	ale	CCONJ	O	_	6	cc	6:cc	_
-6	žilo	žiť	VERB	VLescn+	Aspect=Imp|Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	2	conj	0:root|2:conj	_
-7	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	6	expl:pass	6:expl:pass	_
-8	tu	tu	ADV	PD	PronType=Dem	6	advmod	6:advmod	_
-9	slobodomyseľne	slobodomyseľne	ADV	Dx	Degree=Pos	6	advmod	6:advmod	SpaceAfter=No
-10	.	.	PUNCT	Z	_	2	punct	2:punct	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 expl:pass	color:blue
+1	Má	mať	VERB	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	mäkké	mäkký	ADJ	AAns4x	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	amod	4:amod	_
+3	škrobové	škrobový	ADJ	AAns4x	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	amod	4:amod	_
+4	jadro	jadro	NOUN	SSns4	Case=Acc|Gender=Neut|Number=Sing	1	obj	1:obj	_
+5	a	a	CCONJ	O	_	8	cc	8:cc	_
+6	ľahko	ľahko	ADV	Dx	Degree=Pos	8	advmod	8:advmod	_
+7	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	8	expl:pass	8:expl:pass	_
+8	melie	mlieť	VERB	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	conj	0:root|1:conj	SpaceAfter=No
+9	.	.	PUNCT	Z	_	1	punct	1:punct	_
 
 ~~~
 

@@ -13,7 +13,7 @@ The 10 most frequent `NUM` lemmas: <em>1, 2, deux, 3, 6, 2000, 2002, 1999, 2001,
 
 The 10 most frequent `NUM` types:  <em>1, 2, deux, 3, 6, 2000, 2002, 1999, 2001, 2005</em>
 
-The 10 most frequent ambiguous lemmas: <em>neuf</em> (<tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> 1), <em>un</em> (<tt><a href="fr_partut-pos-DET.html">DET</a></tt> 620, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 11, <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>neuf</em> (<tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> 1), <em>un</em> (<tt><a href="fr_partut-pos-DET.html">DET</a></tt> 620, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 11, <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>un</em> (<tt><a href="fr_partut-pos-DET.html">DET</a></tt> 209, <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> 5, <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> 1)
 
@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>un</em> (<tt><a href="fr_partut-pos-D
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.366035).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.409310).
 
 The 1st highest number of forms (1) was observed with the lemma “-20”: <em>-20</em>.
 
@@ -46,7 +46,7 @@ Examples: <em>1, 2, deux, 3, 6, 2000, 2002, 1999, 2001, 2005</em>
 
 `NUM` nodes are attached to their parents using 10 different relations: <tt><a href="fr_partut-dep-nummod.html">nummod</a></tt> (312; 73% instances), <tt><a href="fr_partut-dep-flat.html">flat</a></tt> (44; 10% instances), <tt><a href="fr_partut-dep-nmod.html">nmod</a></tt> (28; 7% instances), <tt><a href="fr_partut-dep-obl.html">obl</a></tt> (19; 4% instances), <tt><a href="fr_partut-dep-conj.html">conj</a></tt> (14; 3% instances), <tt><a href="fr_partut-dep-appos.html">appos</a></tt> (3; 1% instances), <tt><a href="fr_partut-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="fr_partut-dep-goeswith.html">goeswith</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 8 different parts of speech: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (221; 52% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (85; 20% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (81; 19% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (14; 3% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (12; 3% instances), <tt><a href="fr_partut-pos-SYM.html">SYM</a></tt> (10; 2% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `NUM` nodes belong to 7 different parts of speech: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (221; 52% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (88; 21% instances), <tt><a href="fr_partut-pos-NUM.html">NUM</a></tt> (81; 19% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (14; 3% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (10; 2% instances), <tt><a href="fr_partut-pos-SYM.html">SYM</a></tt> (10; 2% instances),  (1; 0% instances)
 
 216 (51%) `NUM` nodes are leaves.
 

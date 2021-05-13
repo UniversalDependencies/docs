@@ -23,9 +23,9 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 13	fgColor:white
 # visual-style 13 11 det	color:blue
 1	타당성	_	NOUN	NN	_	2	compound	_	Translit=.ta.dang.seong|LTranslit=_
-2	조사에	조사	NOUN	NN+CM	Case=Advb|Polite=Form	3	advmod	_	MSeg=조사-에|Translit=.jo.sa.e|LTranslit=.jo.sa
+2	조사에	조사	NOUN	NN+CM	Polite=Form	3	advmod	_	MSeg=조사-에|Translit=.jo.sa.e|LTranslit=.jo.sa
 3	따르면	_	VERB	VV	Form=Compl	16	advcl	_	Translit=.dda.reu.myeon|LTranslit=_
-4	곤돌라에	곤돌라	NOUN	NN+CM	Case=Advb|Polite=Form	6	advmod	_	MSeg=곤돌라-에|Translit=.gon.dol.ra.e|LTranslit=.gon.dol.ra
+4	곤돌라에	곤돌라	NOUN	NN+CM	Polite=Form	6	advmod	_	MSeg=곤돌라-에|Translit=.gon.dol.ra.e|LTranslit=.gon.dol.ra
 5	승객을	승객	NOUN	NN+CM	Case=Acc|Polite=Form	6	obj	_	MSeg=승객-을|Translit=.seung.gaeg.eul|LTranslit=.seung.gaeg
 6	태우고	_	VERB	VV	Form=Compl|Voice=Cau	9	advcl	_	Translit=.tae.u.go|LTranslit=_
 7	포토맥	_	PROPN	NNP	_	8	compound	_	Translit=.po.to.maeg|LTranslit=_
@@ -36,7 +36,7 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 12	4	4	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|Translit=4|LTranslit=_
 13	분이	분	NOUN	NNB+CM	Case=Nom|Polite=Form	14	nsubj:pass	_	MSeg=분-이|Translit=.bun.i|LTranslit=.bun
 14	소요될	_	NOUN	NN	_	15	dep	_	SpaceAfter=No|Translit=.so.yo.doel|LTranslit=_
-15	것으로	것	NOUN	NNB+CM	Case=Advb|Polite=Form	16	advmod	_	MSeg=것-으로|Translit=.geos.eu.ro|LTranslit=.geos
+15	것으로	것	NOUN	NNB+CM	Polite=Form	16	advmod	_	MSeg=것-으로|Translit=.geos.eu.ro|LTranslit=.geos
 16	추정된다	_	NOUN	NN	_	0	root	_	SpaceAfter=No|Translit=.chu.jeong.doen.da|LTranslit=_
 17	.	.	PUNCT	.	_	16	punct	_	Translit=.|LTranslit=_
 
@@ -53,13 +53,13 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 2	원내	_	NOUN	NN	_	3	compound	_	Translit=.weon.nae|LTranslit=_
 3	총무의	총무	PROPN	NNP+CM	Case=Gen|Polite=Form	4	nmod:poss	_	MSeg=총무-의|Translit=.chong.mu.yi|LTranslit=.chong.mu
 4	아내는	아내	NOUN	NN+CM	Case=Nom|Polite=Form	16	nsubj	_	MSeg=아내-는|Translit=.a.nae.neun|LTranslit=.a.nae
-5	남편과	남편	NOUN	NN+CM	Case=Advb|Polite=Form	6	advmod	_	MSeg=남편-과|Translit=.nam.pyeon.gwa|LTranslit=.nam.pyeon
+5	남편과	남편	NOUN	NN+CM	Polite=Form	6	advmod	_	MSeg=남편-과|Translit=.nam.pyeon.gwa|LTranslit=.nam.pyeon
 6	별거	_	NOUN	NN	_	7	compound	_	Translit=.byeol.geo|LTranslit=_
 7	후	_	NOUN	NN	_	16	advmod	_	Translit=.hu|LTranslit=_
 8	바로	_	ADV	RB	_	16	advmod	_	Translit=.ba.ro|LTranslit=_
 9	그	_	DET	DT	_	11	det	_	Translit=.geu|LTranslit=_
 10	원내	_	NOUN	NN	_	11	compound	_	Translit=.weon.nae|LTranslit=_
-11	총무가	총무	PROPN	NNP+CM	Case=Comp|Polite=Form	12	compound:lvc	_	MSeg=총무-가|Translit=.chong.mu.ga|LTranslit=.chong.mu
+11	총무가	총무	PROPN	NNP+CM	Polite=Form	12	compound:lvc	_	MSeg=총무-가|Translit=.chong.mu.ga|LTranslit=.chong.mu
 12	되기	_	VERB	VV	VerbForm=Ger|Voice=Pass	13	ccomp	_	Translit=.doe.gi|LTranslit=_
 13	위한	_	VERB	VV	Form=Adn	15	acl:relcl	_	Translit=.wi.han|LTranslit=_
 14	선거	_	NOUN	NN	_	15	compound	_	Translit=.seon.geo|LTranslit=_

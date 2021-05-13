@@ -42,7 +42,7 @@ The 10 most frequent ambiguous types:  <em>июдеѩ</em> (<tt><a href="cu_proi
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 3.156522 (the average of all parts of speech is 3.275325).
+The form / lemma ratio of `PROPN` is 3.156522 (the average of all parts of speech is 3.276388).
 
 The 1st highest number of forms (33) was observed with the lemma “исоусъ”: <em>исс҃а, исусомъ, исъ, и҃с, и҃са, и҃сви, и҃се, и҃смъ, и҃смь, и҃соу, и҃сса, и҃ссе, и҃ссъ, и҃съ, и҃сь, и҃сѣ, и҃сѵ, и҃҅смь, и҃҅съ, і҃са, і҃сви, Ꙇс, Ꙇс҃ѵ, Ꙇ҃с҃ъ, ꙇсоусъ, ꙇ҃с, ꙇ҃са, ꙇ҃се, ꙇ҃соу, ꙇ҃съ, ꙇ҃сь, ꙇ҃҅с, ꙇ҃҅съ</em>.
 

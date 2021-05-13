@@ -30,9 +30,9 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 5	да	да	SCONJ	G-	_	8	mark	_	ref=MATT_6.16
 6	бѫ	бꙑти	AUX	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	ref=MATT_6.16
 7	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	expl	_	ref=MATT_6.16
-8	авили	авити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	1	advcl	_	ref=MATT_6.16
+8	авили	авити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	1	advcl	_	ref=MATT_6.16
 9	ч҃лвкомъ	чловѣкъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	8	iobj	_	ref=MATT_6.16
-10	постѧще	постити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	8	xcomp	_	ref=MATT_6.16
+10	постѧще	постити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	8	xcomp	_	ref=MATT_6.16
 
 ~~~
 
@@ -46,12 +46,12 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 1	аште	аще	SCONJ	G-	_	6	mark	_	ref=JOHN_18.30
 2	не	не	ADV	Df	Polarity=Neg	6	advmod	_	ref=JOHN_18.30
 3	би	бꙑти	AUX	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	ref=JOHN_18.30
-4	бꙑлъ	бꙑти	AUX	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	6	cop	_	ref=JOHN_18.30
+4	бꙑлъ	бꙑти	AUX	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	6	cop	_	ref=JOHN_18.30
 5	сь	сь	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=JOHN_18.30
 6	зълодѣи	зълодѣи	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	advcl	_	ref=JOHN_18.30
 7	не	не	ADV	Df	Polarity=Neg	9	advmod	_	ref=JOHN_18.30
 8	бимь	бꙑти	AUX	V-	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	ref=JOHN_18.30
-9	прѣдали	прѣдати	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=JOHN_18.30
+9	прѣдали	прѣдати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	0	root	_	ref=JOHN_18.30
 10	его	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	ref=JOHN_18.30
 11	тебѣ	тꙑ	PRON	Pp	Case=Dat|Number=Sing|Person=2|PronType=Prs	9	iobj	_	ref=JOHN_18.30
 
@@ -73,7 +73,7 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 7	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	nmod	_	ref=LUKE_9.46
 8	вѧштеи	вѧщии	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	3	ccomp	_	ref=LUKE_9.46
 9	би	бꙑти	AUX	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	ref=LUKE_9.46
-10	бꙑлъ	бꙑти	AUX	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	8	cop	_	ref=LUKE_9.46
+10	бꙑлъ	бꙑти	AUX	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	8	cop	_	ref=LUKE_9.46
 
 ~~~
 

@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 2 different values: `Anim`, `Inan`.
 
 24414 tokens (23%) have a non-empty value of `Animacy`.
-11197 types (43%) occur at least once with a non-empty value of `Animacy`.
-6503 lemmas (46%) occur at least once with a non-empty value of `Animacy`.
+11188 types (43%) occur at least once with a non-empty value of `Animacy`.
+6494 lemmas (46%) occur at least once with a non-empty value of `Animacy`.
 The feature is used with 9 part-of-speech tags: <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt> (9162; 9% instances), <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt> (5112; 5% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt> (3966; 4% instances), <tt><a href="sk_snk-pos-PROPN.html">PROPN</a></tt> (2995; 3% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (1521; 1% instances), <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (1025; 1% instances), <tt><a href="sk_snk-pos-AUX.html">AUX</a></tt> (341; 0% instances), <tt><a href="sk_snk-pos-NUM.html">NUM</a></tt> (258; 0% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (34; 0% instances).
 
 ### `NOUN`
@@ -150,24 +150,26 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 
 `PRON` tokens may have the following values of `Animacy`:
 
-* `Anim` (865; 84% of non-empty `Animacy`): <em>ho, mu, ich, im, kto, nikto, on, ním, naňho, nich</em>
-* `Inan` (160; 16% of non-empty `Animacy`): <em>ho, ich, nich, naň, ňom, neho, ním, doň, nemu, nimi</em>
+* `Anim` (865; 84% of non-empty `Animacy`): <em>ho, mu, neho, ich, im, kto, nikto, on, ním, nich</em>
+* `Inan` (160; 16% of non-empty `Animacy`): <em>ho, ich, neho, nich, ňom, ním, nemu, nimi, im, ne</em>
 * `EMPTY` (5410): <em>sa, si, mi, ma, čo, ju, ja, jej, niečo, nič</em>
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ho, Jeho, neho</em></td><td><em>ho, neho</em></td></tr>
-  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ich, nich</em></td><td><em>ich, ne</em></td></tr>
-  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mu, nemu, jemu</em></td><td><em>nemu, mu</em></td></tr>
-  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>im, nim</em></td><td><em>im, nim</em></td></tr>
-  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>neho, ho</em></td><td><em>neho, ho</em></td></tr>
-  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>nich</em></td><td><em>nich, ich</em></td></tr>
-  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ním</em></td><td><em>ním</em></td></tr>
-  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>nimi</em></td><td><em>nimi</em></td></tr>
-  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ňom</em></td><td><em>ňom</em></td></tr>
-  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>nich</em></td><td><em>nich</em></td></tr>
-  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>on</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>oni</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>ho, Jeho, neho</em></td><td><em>ho, neho</em></td></tr>
+  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>neho</em></td><td><em>neho</em></td></tr>
+  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>ich, nich</em></td><td><em>ich, ne</em></td></tr>
+  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>mu, nemu, jemu</em></td><td><em>nemu, mu</em></td></tr>
+  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>im, nim</em></td><td><em>im, nim</em></td></tr>
+  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>neho, ho</em></td><td><em>neho, ho</em></td></tr>
+  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>neho</em></td><td><em>neho</em></td></tr>
+  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>nich</em></td><td><em>nich, ich</em></td></tr>
+  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>ním</em></td><td><em>ním</em></td></tr>
+  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>nimi</em></td><td><em>nimi</em></td></tr>
+  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>ňom</em></td><td><em>ňom</em></td></tr>
+  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>nich</em></td><td><em>nich</em></td></tr>
+  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>on</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sk_snk-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sk_snk-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sk_snk-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>oni</em></td><td></td></tr>
 </table>
 
 ### `AUX`

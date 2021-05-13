@@ -7,7 +7,6 @@ udver: '2'
 ## Treebank Statistics: UD_Breton-KEB: Relations: `acl:relcl`
 
 This relation is a language-specific subtype of <tt><a href="br_keb-dep-acl.html">acl</a></tt>.
-There are also 1 other language-specific subtypes of `acl`: <tt><a href="br_keb-dep-acl-focus.html">acl:focus</a></tt>.
 
 1 nodes (0%) are attached to their parents as `acl:relcl`.
 

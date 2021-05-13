@@ -31,7 +31,7 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 7	بىر	بىر	NUM	M	_	8	nummod	_	Translit=bir
 8	سىقىم	سىقىم	NOUN	Q	Case=Nom	9	amod	_	Translit=siqim
 9	لايدەك	_	NOUN	N	_	10	obl	_	Translit=laydek|Morf=Unknown
-10	چاپلىشىمەن	چاپلاش	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=chaplishimen
+10	چاپلىشىمەن	چاپلاش	VERB	V	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=chaplishimen
 11	.	.	PUNCT	Y	_	10	punct	_	Translit=.
 
 ~~~
@@ -43,7 +43,7 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 5 root	color:blue
-1	ئۆيىمىز	ئۆي	VERB	N	Mood=Ind|Number=Plur|Person=1|Tense=Aor|VerbForm=Fin	5	nsubj	_	Translit=öyimiz
+1	ئۆيىمىز	ئۆي	VERB	N	Aspect=Hab|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	nsubj	_	Translit=öyimiz
 2	بولسا	بول	AUX	V	Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv	1	cop	_	Translit=bolsa
 3	ئارا	ئارا	NOUN	N	Case=Nom	4	amod	_	Translit=ara
 4	تام	تام	NOUN	N	Case=Nom	5	nmod	_	Translit=tam
@@ -60,7 +60,7 @@ The following 14 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 7 root	color:blue
-1	ئەمەلىيەتتە	ئەمەلىيەت	NOUN	N	Case=Loc	7	advmod	_	Translit=emeliyette
+1	ئەمەلىيەتتە	ئەمەلىيەت	NOUN	N	Case=Loc	7	obl	_	Translit=emeliyette
 2	مېنىڭ	مەن	PRON	P	Case=Gen|Number=Sing|Person=1|PronType=Prs	6	nmod:poss	_	Translit=mëning
 3	بۇ	بۇ	PRON	P	Case=Nom|PronType=Dem	5	det	_	Translit=bu
 4	قاباھەتلىك	قاباھەتلىك	NOUN	N	Case=Nom	5	amod	_	Translit=qabahetlik

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-14284 tokens (15%) have a non-empty value of `Degree`.
-7640 types (25%) occur at least once with a non-empty value of `Degree`.
-4276 lemmas (23%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 5 part-of-speech tags: <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (12211; 12% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (2013; 2% instances), <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> (51; 0% instances), <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+14224 tokens (15%) have a non-empty value of `Degree`.
+7632 types (25%) occur at least once with a non-empty value of `Degree`.
+4271 lemmas (23%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ru_gsd-pos-ADJ.html">ADJ</a></tt> (12211; 12% instances), <tt><a href="ru_gsd-pos-ADV.html">ADV</a></tt> (2013; 2% instances).
 
 ### `ADJ`
 
@@ -65,40 +65,6 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 </table>
 
 `Degree` seems to be **lexical feature** of `ADV`. 96% lemmas (413) occur only with one value of `Degree`.
-
-### `VERB`
-
-51 <tt><a href="ru_gsd-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Degree`.
-
-The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (51; 100%), <tt><a href="ru_gsd-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (51; 100%), <tt><a href="ru_gsd-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (51; 100%), <tt><a href="ru_gsd-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (51; 100%), <tt><a href="ru_gsd-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (50; 98%), <tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (50; 98%), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (50; 98%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (50; 98%), <tt><a href="ru_gsd-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (50; 98%), <tt><a href="ru_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (50; 98%).
-
-`VERB` tokens may have the following values of `Degree`:
-
-* `Pos` (51; 100% of non-empty `Degree`): <em>можно, надо, Преобладающая</em>
-* `EMPTY` (8443): <em>является, стал, составляет, может, находится, входит, получил, родился, имеет, начал</em>
-
-### `NUM`
-
-8 <tt><a href="ru_gsd-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Degree`.
-
-The most frequent other feature values with which `NUM` and `Degree` co-occurred: <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Gen</tt> (6; 75%), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6; 75%), <tt><a href="ru_gsd-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (6; 75%).
-
-`NUM` tokens may have the following values of `Degree`:
-
-* `Cmp` (2; 25% of non-empty `Degree`): <em>более, больше</em>
-* `Pos` (6; 75% of non-empty `Degree`): <em>немногих, 26, 46</em>
-* `EMPTY` (2097): <em>2, два, 1, один, несколько, 10, двух, 4, три, 3</em>
-
-### `NOUN`
-
-1 <tt><a href="ru_gsd-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Degree`.
-
-The most frequent other feature values with which `NOUN` and `Degree` co-occurred: <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ru_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%).
-
-`NOUN` tokens may have the following values of `Degree`:
-
-* `Pos` (1; 100% of non-empty `Degree`): <em>экспедиции</em>
-* `EMPTY` (26813): <em>года, году, время, области, лет, человек, войны, реки, год, км</em>
 
 ## Relations with Agreement in `Degree`
 

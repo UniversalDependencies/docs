@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-3248 tokens (3%) have a non-empty value of `Clitic`.
-69 types (0%) occur at least once with a non-empty value of `Clitic`.
+3255 tokens (3%) have a non-empty value of `Clitic`.
+71 types (0%) occur at least once with a non-empty value of `Clitic`.
 19 lemmas (0%) occur at least once with a non-empty value of `Clitic`.
-The feature is used with 2 part-of-speech tags: <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (3247; 3% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt> (1; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (3254; 3% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-3247 <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> tokens (50% of all `PRON` tokens) have a non-empty value of `Clitic`.
+3254 <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> tokens (50% of all `PRON` tokens) have a non-empty value of `Clitic`.
 
-The most frequent other feature values with which `PRON` and `Clitic` co-occurred: <tt><a href="it_postwita-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3247; 100%), <tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2496; 77%).
+The most frequent other feature values with which `PRON` and `Clitic` co-occurred: <tt><a href="it_postwita-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3254; 100%), <tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2503; 77%).
 
 `PRON` tokens may have the following values of `Clitic`:
 
-* `Yes` (3247; 100% of non-empty `Clitic`): <em>si, mi, ci, lo, ti, c', la, ne, vi, l'</em>
+* `Yes` (3254; 100% of non-empty `Clitic`): <em>si, mi, ci, lo, ti, c', la, ne, vi, l'</em>
 
 `Clitic` seems to be **lexical feature** of `PRON`. 100% lemmas (19) occur only with one value of `Clitic`.
 

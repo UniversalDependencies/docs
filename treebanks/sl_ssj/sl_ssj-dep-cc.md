@@ -32,7 +32,7 @@ The following 21 pairs of parts of speech are connected with `cc`: <tt><a href="
 7	in	in	CCONJ	Cc	_	9	cc	_	Dep=9|Rel=Conj
 8	navadne	navaden	ADJ	Agpmpa	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	9	amod	_	Dep=9|Rel=Atr
 9	državljane	državljan	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	6	conj	_	SpaceAfter=No|Dep=6|Rel=Coord
-10	.	.	PUNCT	Z	_	3	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+10	.	.	PUNCT	Z	_	3	punct	_	Dep=0|Rel=Root
 
 ~~~
 
@@ -51,7 +51,7 @@ The following 21 pairs of parts of speech are connected with `cc`: <tt><a href="
 6	dvesto	dvesto	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	Dep=8|Rel=Atr
 7	petdeset	petdeset	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	Dep=8|Rel=Atr
 8	milijonov	milijon	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	3	conj	_	SpaceAfter=No|Dep=3|Rel=Coord
-9	.	.	PUNCT	Z	_	1	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+9	.	.	PUNCT	Z	_	1	punct	_	Dep=0|Rel=Root
 
 ~~~
 
@@ -70,7 +70,7 @@ The following 21 pairs of parts of speech are connected with `cc`: <tt><a href="
 6	pisanja	pisanje	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	Dep=5|Rel=Atr
 7	poročila	poročilo	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	Dep=6|Rel=Atr
 8	drugačna	drugačen	ADJ	Agpmdn	Case=Nom|Degree=Pos|Gender=Masc|Number=Dual	0	root	_	SpaceAfter=No|Dep=2|Rel=Atr
-9	.	.	PUNCT	Z	_	8	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+9	.	.	PUNCT	Z	_	8	punct	_	Dep=0|Rel=Root
 
 ~~~
 

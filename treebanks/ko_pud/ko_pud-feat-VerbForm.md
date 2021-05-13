@@ -56,7 +56,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 
 72 <tt><a href="ko_pud-pos-PART.html">PART</a></tt> tokens (15% of all `PART` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `PART` and `VerbForm` co-occurred: <tt><a href="ko_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (50; 69%), <tt><a href="ko_pud-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (41; 57%).
+The most frequent other feature values with which `PART` and `VerbForm` co-occurred: <tt><a href="ko_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (63; 88%), <tt><a href="ko_pud-feat-Polite.html">Polite</a></tt><tt>=EMPTY</tt> (41; 57%).
 
 `PART` tokens may have the following values of `VerbForm`:
 

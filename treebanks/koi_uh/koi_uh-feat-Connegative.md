@@ -18,11 +18,11 @@ The feature is used with 2 part-of-speech tags: <tt><a href="koi_uh-pos-VERB.htm
 
 10 <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> tokens (7% of all `VERB` tokens) have a non-empty value of `Connegative`.
 
-The most frequent other feature values with which `VERB` and `Connegative` co-occurred: <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (9; 90%), <tt><a href="koi_uh-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (6; 60%).
+The most frequent other feature values with which `VERB` and `Connegative` co-occurred: <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (9; 90%).
 
 `VERB` tokens may have the following values of `Connegative`:
 
-* `Yes` (10; 100% of non-empty `Connegative`): <em>адззыв, лок, понды, содты, тӧд, вежӧртӧ, вермы, гленитчы, ков, тӧдӧ</em>
+* `Yes` (10; 100% of non-empty `Connegative`): <em>адззыв, вежӧртӧ, вермы, гленитчы, ков, лок, понды, содты, тӧд, тӧдӧ</em>
 
 ### `AUX`
 

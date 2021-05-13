@@ -17,35 +17,39 @@ The following 37 pairs of parts of speech are connected with `appos`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 appos	color:blue
-1	Sultán	sultán	NOUN	SSms1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	2:nsubj	_
-2	vyhlásil	vyhlásiť	VERB	VLdscm+	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	0:root	_
-3	povstalcom	povstalec	NOUN	SSmp3	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	2	obl:arg	2:obl:arg:dat	_
-4	svätú	svätý	ADJ	AAfs4x	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	5:amod	_
-5	vojnu	vojna	NOUN	SSfs4	Case=Acc|Gender=Fem|Number=Sing	2	obj	2:obj	SpaceAfter=No
-6	,	,	PUNCT	Z	_	7	punct	7:punct	_
-7	džihád	džihád	NOUN	SSis4	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	appos	5:appos	SpaceAfter=No
-8	.	.	PUNCT	Z	_	2	punct	2:punct	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 appos	color:blue
-1	Lev	lev	PROPN	SSms1:r	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
-2	II	ii	NUM	0	NumForm=Digit	1	nummod	1:nummod	SpaceAfter=No
-3	.	.	PUNCT	Z	_	2	punct	2:punct	_
-4	(	(	PUNCT	Z	_	5	punct	5:punct	SpaceAfter=No
-5	cisár	cisár	NOUN	SSms1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	1:appos	SpaceAfter=No
-6	)	)	PUNCT	Z	_	5	punct	5:punct	_
+1	Súše	súš	NOUN	SSfp1	Case=Nom|Gender=Fem|Number=Plur	7	nsubj	7:nsubj	SpaceAfter=No
+2	,	,	PUNCT	Z	_	5	punct	5:punct	_
+3	resp	resp	ADV	W	Abbr=Yes	5	cc	5:cc	SpaceAfter=No
+4	.	.	PUNCT	Z	_	5	punct	5:punct	_
+5	kontinenty	kontinent	NOUN	SSip1	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1	appos	1:appos	_
+6	dnes	dnes	ADV	Dx	Degree=Pos	7	advmod	7:advmod	_
+7	zaberajú	zaberať	VERB	VKepc+	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+8	skoro	skoro	PART	T	_	11	advmod:emph	11:advmod:emph	_
+9	1	1	NUM	0	NumForm=Digit	11	nummod	11:nummod	_
+10	/	/	PUNCT	Z	_	9	punct	9:punct	_
+11	3	3	NUM	0	NumForm=Digit	7	obj	7:obj	_
+12	povrchu	povrch	NOUN	SSis2	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	11:nmod:gen	_
+13	Zeme	zem	PROPN	SSfs2:r	Case=Gen|Gender=Fem|Number=Sing	12	nmod	12:nmod:gen	SpaceAfter=No
+14	.	.	PUNCT	Z	_	7	punct	7:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 appos	color:blue
+1	Zenón	zenón	PROPN	SSms1:r	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	0	root	0:root	_
+2	(	(	PUNCT	Z	_	3	punct	3:punct	SpaceAfter=No
+3	cisár	cisár	NOUN	SSms1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	appos	1:appos	SpaceAfter=No
+4	)	)	PUNCT	Z	_	3	punct	3:punct	_
 
 ~~~
 

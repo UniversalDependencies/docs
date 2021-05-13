@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-43 nodes (0%) are attached to their parents as `flat`.
+57 nodes (0%) are attached to their parents as `flat`.
 
-43 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.02325581395349.
+57 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.07017543859649.
 
-The following 5 pairs of parts of speech are connected with `flat`: <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (31; 72% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (3; 7% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (3; 7% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (3; 7% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (3; 7% instances).
+The following 5 pairs of parts of speech are connected with `flat`: <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (40; 70% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (6; 11% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (5; 9% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (3; 5% instances).
 
 
 ~~~ conllu
@@ -36,24 +36,24 @@ The following 5 pairs of parts of speech are connected with `flat`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 flat	color:blue
-1	Ben	ben	PRON	_	Case=Nom|Number=Sing	7	nsubj	_	LangID=TR
-2	äh	äh	INTJ	_	_	7	discourse	_	LangID=DE
-3	Wirtschaftsingenieurwesen	Wirtschaftsingenieurwesen	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	obj	_	LangID=DE
-4	Elektro-	Elektrotechnik	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	flat	_	LangID=DE
-5	Informationstechnik	Informationstechnik	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	flat	_	LangID=DE
-6	studieren	studieren	VERB	_	VerbForm=Inf	7	compound:lvc	_	LangID=DE
-7	ediyorum	et	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	LangID=TR
-8	in	in	ADP	_	_	9	case	_	LangID=DE
-9	Konstanz	Konstanz	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	LangID=DE
-10	studiere	studieren	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	7	parataxis	_	LangID=DE
-11	ich	ich	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	LangID=DE
-12	das	der	PRON	_	Case=Acc|Number=Sing|PronType=Dem	10	obj	_	LangID=DE|SpaceAfter=No
-13	.	.	PUNCT	_	_	7	punct	_	LangID=OTHER
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 flat	color:blue
+1	Şöyle	şöyle	ADV	_	_	8	advmod	_	LangID=TR
+2	şimdi	şimdi	NOUN	_	Case=Nom|Number=Sing	8	obl	_	LangID=TR|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	LangID=OTHER
+4	bir	bir	DET	_	Definite=Ind	5	det	_	LangID=TR
+5	gün	gün	NOUN	_	Case=Nom|Number=Sing	8	obl	_	LangID=TR
+6	Nasrettin	Nasrettin	PROPN	_	Case=Nom|Number=Sing	8	nsubj	_	LangID=TR
+7	Hoca	hoca	NOUN	_	Case=Nom|Number=Sing	6	flat	_	LangID=TR
+8	liegt	liegen	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	LangID=DE
+9	so	so	ADV	_	_	8	advmod	_	LangID=DE
+10	unter	unter	ADP	_	_	12	case	_	LangID=DE
+11	einem	ein	DET	_	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	LangID=DE
+12	Baum	Baum	NOUN	_	_	8	obl	_	LangID=DE|SpaceAfter=No
+13	.	.	PUNCT	_	_	8	punct	_	LangID=OTHER
 
 ~~~
 

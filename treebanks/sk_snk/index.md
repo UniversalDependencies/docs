@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 The following people have contributed to making this treebank part of UD: Katarína Gajdošová, Mária Šimková, Daniel Zeman.
 
 Repository: [UD_Slovak-SNK](https://github.com/UniversalDependencies/UD_Slovak-SNK)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsk_snk27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsk_snk28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -108,7 +108,7 @@ vol. 68, no. 2, pp. 385-395
 
 
 <ul>
-<li>This corpus contains 10604 sentences and 106043 tokens.</li>
+<li>This corpus contains 10604 sentences, 106043 tokens and 106097 syntactic words.</li>
 </ul>
 
 <ul>
@@ -124,6 +124,8 @@ vol. 68, no. 2, pp. 385-395
 </ul>
 
 <ul>
+<li>This corpus contains 54 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 9 types of multi-word tokens. Examples: naňho, naň, doň, preňho, doňho, uňho, oňho, poňho, zaňho.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -139,7 +141,7 @@ vol. 68, no. 2, pp. 385-395
 </ul>
 
 <ul>
-<li>This corpus contains 39 lemmas tagged as pronouns (PRON): do_on, ja, kto, ktokoľvek, ktosi, ktože, mama, my, málokto, na_on, na_ono, naň, niekto, niečo, nik, nikto, nič, on, ona, ono, oň, po_on, pre_on, preň, sa, seba, si, ty, u_on, veselý, vy, všeličo, všetko, za, za_on, čo, čokoľvek, čosi, čože</li>
+<li>This corpus contains 29 lemmas tagged as pronouns (PRON): ja, kto, ktokoľvek, ktosi, ktože, mama, my, málokto, niekto, niečo, nik, nikto, nič, on, ona, ono, sa, seba, si, ty, veselý, vy, všeličo, všetko, za, čo, čokoľvek, čosi, čože</li>
 </ul>
 
 <ul>
@@ -231,7 +233,7 @@ vol. 68, no. 2, pp. 385-395
       <li>DET: ktorý, jeho, ten, jej, môj, tento, každý, ktoré, všetci, ktorí</li>
       <li>NOUN: roku, deň, rokov, ľudí, život, života, rokoch, čas, človek, pocit</li>
       <li>NUM: jeden, dva, jedného, obaja, tri, dvoch, jedným, štyri, dvaja, jednom</li>
-      <li>PRON: ho, mu, ich, im, kto, nich, ním, nikto, on, naňho</li>
+      <li>PRON: ho, mu, ich, neho, im, kto, nich, ním, nikto, on</li>
       <li>PROPN: Chris, Winston, Aladin, Mauglí, Vilko, Herkules, Abu, Bush, Baghíra, Ferdo</li>
       <li>VERB: mal, povedal, bol, odvetil, spýtal, začal, stal, chcel, prišiel, vedel</li>
       <li>VERB-Part: mal, povedal, bol, odvetil, spýtal, začal, stal, chcel, prišiel, vedel</li>
@@ -268,7 +270,7 @@ vol. 68, no. 2, pp. 385-395
       <li>DET: ktorý, jeho, všetci, ktorí, ten, sám, každý, všetkých, jej, ktorého</li>
       <li>NOUN: ľudí, človek, otec, ľudia, muž, kráľ, sultán, otca, človeka, cisár</li>
       <li>NUM: obaja, jeden, dvaja, dvoch, mnohí, obidvoch, jedným, troch, jedného, jednému</li>
-      <li>PRON: ho, mu, ich, im, kto, nikto, on, ním, naňho, nich</li>
+      <li>PRON: ho, mu, neho, ich, im, kto, nikto, on, ním, nich</li>
       <li>PROPN: Chris, Winston, Aladin, Mauglí, Vilko, Herkules, Abu, Bush, Baghíra, Ferdo</li>
       <li>VERB-Part: mal, povedal, odvetil, bol, spýtal, chcel, vedel, začal, dal, zvolal</li>
     </ul>
@@ -285,7 +287,7 @@ vol. 68, no. 2, pp. 385-395
       <li>DET: ktorý, jeho, ten, jej, ktoré, tento, môj, tohto, tom, ich</li>
       <li>NOUN: roku, deň, rokov, život, života, rokoch, čas, pocit, pohľad, sveta</li>
       <li>NUM: dva, jeden, tri, jedného, štyri, jednom, jedným, miliónov, dvoch, oboch</li>
-      <li>PRON: ho, ich, nich, naň, ňom, neho, ním, doň, nemu, nimi</li>
+      <li>PRON: ho, ich, neho, nich, ňom, ním, nemu, nimi, im, ne</li>
       <li>PROPN: Iraku, Mesiac, Novgorode, Ríma, Egypt, Mesiaca, Mesiaci, Paríža, Python, Sírius</li>
       <li>VERB: bol, mal, vznikol, zaznel, boli, nastal, prišiel, zmocnil, stal, začal</li>
       <li>VERB-Part: bol, mal, vznikol, zaznel, boli, nastal, prišiel, zmocnil, stal, začal</li>
@@ -349,7 +351,7 @@ vol. 68, no. 2, pp. 385-395
       <li>DET: to, svoje, jeho, ten, jej, ktoré, ktorú, svoju, tú, všetky</li>
       <li>NOUN: chvíľu, deň, oči, ruku, hlavu, tvár, život, pohľad, zem, čas</li>
       <li>NUM: dva, tri, dve, jeden, jednu, veľa, jedno, štyri, mnoho, zopár</li>
-      <li>PRON: ho, ma, ju, ich, čo, niečo, nič, mňa, ťa, nás</li>
+      <li>PRON: ho, ma, ju, ich, čo, niečo, nič, mňa, ťa, neho</li>
       <li>PROPN: Chrisa, Maju, Winstona, Aladina, Mauglího, Vilka, Briena, Lori, Margu, Jazmínu</li>
     </ul>
   </li>
@@ -380,7 +382,7 @@ vol. 68, no. 2, pp. 385-395
       <li>DET: jeho, toho, tohto, ich, svojho, jej, ktorého, svojej, svojich, všetkých</li>
       <li>NOUN: roku, rokov, života, storočia, vlády, izby, sveta, dňa, mesta, politiky</li>
       <li>NUM: jedného, dvoch, jednej, miliónov, troch, obidvoch, oboch, viacerých, štyroch, desať</li>
-      <li>PRON: nich, seba, nej, neho, mňa, nás, ma, jej, doň, ich</li>
+      <li>PRON: nich, neho, seba, nej, mňa, nás, ma, jej, ich, teba</li>
       <li>PROPN: Uhorska, Ríma, Jána, Pavla, Zeme, Nemecka, Mesiaca, Paríža, Slovenska, Busha</li>
     </ul>
   </li>
@@ -872,11 +874,6 @@ vol. 68, no. 2, pp. 385-395
           <li>ADP: na, v, do, s, z, o, po, za, k, od</li>
         </ul>
       </li>
-      <li>Preppron
-        <ul>
-          <li>PRON: naňho, naň, doň, preňho, doňho, uňho, oňho, poňho, zaňho</li>
-        </ul>
-      </li>
       <li>Voc
         <ul>
           <li>ADP: vo, so, zo, ku, nado, odo, predo, bezo, podo</li>
@@ -1006,18 +1003,24 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen (4)</li>
       <li>VERB-Fin--NOUN-Nom (11)</li>
       <li>VERB-Fin--PRON (5)</li>
-      <li>VERB-Fin--PRON-Acc (303)</li>
+      <li>VERB-Fin--PRON-Acc (294)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(na) (8)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(o) (1)</li>
       <li>VERB-Fin--PRON-Nom (3)</li>
       <li>VERB-Inf--NOUN-Acc (424)</li>
       <li>VERB-Inf--NOUN-Gen (2)</li>
       <li>VERB-Inf--NOUN-Nom (2)</li>
       <li>VERB-Inf--PRON (7)</li>
-      <li>VERB-Inf--PRON-Acc (118)</li>
+      <li>VERB-Inf--PRON-Acc (115)</li>
+      <li>VERB-Inf--PRON-Acc-ADP(na) (2)</li>
+      <li>VERB-Inf--PRON-Acc-ADP(za) (1)</li>
       <li>VERB-Part--NOUN-Acc (2032)</li>
       <li>VERB-Part--NOUN-Gen (10)</li>
       <li>VERB-Part--NOUN-Nom (18)</li>
       <li>VERB-Part--PRON (13)</li>
-      <li>VERB-Part--PRON-Acc (739)</li>
+      <li>VERB-Part--PRON-Acc (716)</li>
+      <li>VERB-Part--PRON-Acc-ADP(na) (22)</li>
+      <li>VERB-Part--PRON-Acc-ADP(pre) (1)</li>
       <li>VERB-Part--PRON-Nom (2)</li>
     </ul>
   </li>
@@ -1036,7 +1039,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Gen (1)</li>
       <li>VERB-Part--NOUN-Nom (1)</li>
       <li>VERB-Part--PRON (33)</li>
-      <li>VERB-Part--PRON-Acc (34)</li>
+      <li>VERB-Part--PRON-Acc (33)</li>
+      <li>VERB-Part--PRON-Acc-ADP(na) (1)</li>
     </ul>
   </li>
 </ul>

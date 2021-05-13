@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2 nodes (3%) are attached to their parents as `nummod`.
+5 nodes (1%) are attached to their parents as `nummod`.
 
-2 instances of `nummod` (100%) are right-to-left (child precedes parent).
+4 instances of `nummod` (80%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `nummod`: <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-NUM.html">NUM</a></tt> (2; 100% instances).
+The following 2 pairs of parts of speech are connected with `nummod`: <tt><a href="aqz_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="aqz_tudet-pos-NUM.html">NUM</a></tt> (4; 80% instances), <tt><a href="aqz_tudet-pos-DET.html">DET</a></tt>-<tt><a href="aqz_tudet-pos-NUM.html">NUM</a></tt> (1; 20% instances).
 
 
 ~~~ conllu
@@ -25,6 +25,21 @@ The following 1 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	Kɨte	kɨte	NUM	num	_	2	nummod	2:nummod	_
 2	babape	babape	NOUN	n	_	3	obj	3:obj	_
 3	at	at	VERB	vt	_	0	root	0:root	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 nummod	color:blue
+1	mepitet	mepit	NOUN	n	_	0	root	0:root	_
+2	jẽ	jẽ	DET	dem	Deixis=Prox	1	nmod	1:nmod	_
+3	,	,	PUNCT	punct	_	2	punct	2:punct	_
+4	jẽrom	jẽrom	DET	dem	Deixis=Dist	1	parataxis	1:parataxis	_
+5	tɨrɨ	tɨrɨ	NUM	num	NumType=Card	4	nummod	4:nummod	_
 
 ~~~
 

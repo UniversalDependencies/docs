@@ -31,7 +31,7 @@ The following 21 pairs of parts of speech are connected with `nmod`: <tt><a href
 6	สุด	_	ADV	RB	_	5	advmod	_	SpaceAfter=No
 7	ตาม	_	ADP	IN	_	10	case	_	SpaceAfter=No
 8	ที่	_	DET	WDT	_	10	nsubj	_	SpaceAfter=No
-9	ได้รับ	_	VERB	MD	Voice=Pass	10	aux	_	SpaceAfter=No
+9	ได้รับ	_	AUX	MD	Voice=Pass	10	aux	_	SpaceAfter=No
 10	อนุญาต	_	VERB	VV	_	5	xcomp	_	_
 
 ~~~
@@ -43,7 +43,7 @@ The following 21 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 nmod	color:blue
-1	เช่น	_	NOUN	NN	_	10	advmod	_	SpaceAfter=No
+1	เช่น	_	NOUN	NN	_	10	obl	_	SpaceAfter=No
 2	เดียว	_	ADJ	JJ	_	1	amod	_	SpaceAfter=No
 3	กับ	_	ADP	IN	_	4	case	_	SpaceAfter=No
 4	ฟยอร์ด	_	PROPN	NNP	_	1	nmod	_	_
@@ -51,7 +51,7 @@ The following 21 pairs of parts of speech are connected with `nmod`: <tt><a href
 6	น้ำ	_	NOUN	NN	_	5	compound	_	SpaceAfter=No
 7	จืด	_	ADJ	JJ	_	6	amod	_	SpaceAfter=No
 8	มัก	_	ADV	RB	_	10	advmod	_	SpaceAfter=No
-9	จะ	_	VERB	MD	_	10	aux	_	SpaceAfter=No
+9	จะ	_	AUX	MD	_	10	aux	_	SpaceAfter=No
 10	ลึก	_	ADJ	JJ	_	0	root	_	_
 
 ~~~

@@ -8,67 +8,66 @@ udver: '2'
 
 This relation is universal.
 
-115 nodes (0%) are attached to their parents as `discourse`.
+382 nodes (0%) are attached to their parents as `discourse`.
 
-91 instances of `discourse` (79%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.34782608695652.
+329 instances of `discourse` (86%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.17277486910995.
 
-The following 19 pairs of parts of speech are connected with `discourse`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (44; 38% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (12; 10% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (9; 8% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (8; 7% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (7; 6% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (5; 4% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (5; 4% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (4; 3% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (3; 3% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (1; 1% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 4 discourse	color:blue
-1	Right	right	ADV	RB	_	2	advmod	_	Discourse=elaboration:41->39
-2	now	now	ADV	RB	_	8	advmod	_	SpaceAfter=No
-3	,	,	PUNCT	,	_	2	punct	_	_
-4	yeah	yeah	INTJ	UH	_	8	discourse	_	SpaceAfter=No
-5	,	,	PUNCT	,	_	4	punct	_	_
-6	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Entity=(person-31)|SpaceAfter=No
-7	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
-8	helping	help	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	_
-9	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	8	obj	_	Entity=(person-2)
-10	right	right	ADV	RB	_	11	advmod	_	_
-11	now	now	ADV	RB	_	8	advmod	_	SpaceAfter=No
-12	.	.	PUNCT	.	_	8	punct	_	_
-
-~~~
+The following 24 pairs of parts of speech are connected with `discourse`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (188; 49% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (55; 14% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (34; 9% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (30; 8% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (10; 3% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (10; 3% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (9; 2% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (8; 2% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (7; 2% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (3; 1% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt>-<tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 3 discourse	color:blue
-1	No	no	INTJ	UH	Polarity=Neg	0	root	_	Discourse=joint:77->8|SpaceAfter=No
-2	,	,	PUNCT	,	_	3	punct	_	_
-3	no	no	INTJ	UH	Polarity=Neg	1	discourse	_	SpaceAfter=No
-4	.	.	PUNCT	.	_	1	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 discourse	color:blue
+1	No	no	INTJ	UH	Polarity=Neg	5	discourse	5:discourse	Discourse=contrast:18->16|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	punct	1:punct	_
+3	because	because	SCONJ	IN	_	5	mark	5:mark	Discourse=justify:19->18
+4	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	Entity=(person-10)
+5	does	do	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+6	n't	not	PART	RB	Polarity=Neg	5	advmod	5:advmod	_
+7	—	—	PUNCT	:	_	5	punct	5:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 discourse	color:blue
+1	No	no	INTJ	UH	Polarity=Neg	5	discourse	5:discourse	Discourse=restatement:67->53|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	punct	1:punct	_
+3	Melanie	Melanie	PROPN	NNP	Number=Sing	5	nmod:poss	5:nmod:poss	Entity=(person-25(person-26
+4	's	's	PART	POS	_	3	case	3:case	Entity=person-26)
+5	mom	mom	NOUN	NN	Number=Sing	0	root	0:root	Entity=person-25)|SpaceAfter=No
+6	.	.	PUNCT	.	_	5	punct	5:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 8 discourse	color:blue
-1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	Discourse=attribution:63->64|Entity=(person-3)
-2	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	about	about	SCONJ	IN	_	4	mark	_	Discourse=restatement:64->62
-4	rotating	rotate	VERB	VBG	VerbForm=Ger	2	advcl	_	_
-5	your	your	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	Entity=(object-73(person-3)
-6	tires	tire	NOUN	NNS	Number=Plur	4	obj	_	Entity=object-73)|SpaceAfter=No
-7	,	,	PUNCT	,	_	8	punct	_	_
-8	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	discourse	_	Discourse=restatement:65->64|SpaceAfter=No
-9	n't	not	PART	RB	Polarity=Neg	8	advmod	_	_
-10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	Entity=(person-3)|SpaceAfter=No
-11	?	?	PUNCT	.	_	2	punct	_	_
+# visual-style 2 1 discourse	color:blue
+1	Okay	okay	INTJ	UH	_	2	discourse	2:discourse	Discourse=evaluation:51->49
+2	cool	cool	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
+3	,	,	PUNCT	,	_	6	punct	6:punct	_
+4	cause	cause	SCONJ	IN	_	6	mark	6:mark	Discourse=justify:52->51
+5	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj|8:nsubj:xsubj|9:nsubj:xsubj	Entity=(person-16)
+6	had	have	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	advcl	2:advcl:cause	_
+7	to	to	PART	TO	_	8	mark	8:mark	_
+8	go	go	VERB	VB	VerbForm=Inf	6	xcomp	6:xcomp	_
+9	bowling	bowl	VERB	VBG	VerbForm=Ger	8	xcomp	8:xcomp	_
+10	in	in	ADP	IN	_	12	case	12:case	_
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	Entity=(time-24
+12	morning	morning	NOUN	NN	Number=Sing	8	obl	8:obl:in	Entity=time-24)|SpaceAfter=No
+13	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 ~~~
 

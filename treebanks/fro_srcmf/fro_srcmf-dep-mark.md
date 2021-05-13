@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Old_French-SRCMF: Relations: `mark`
 
 This relation is universal.
-There are 2 language-specific subtypes of `mark`: <tt><a href="fro_srcmf-dep-mark-advmod.html">mark:advmod</a></tt>, <tt><a href="fro_srcmf-dep-mark-obl.html">mark:obl</a></tt>.
+There are 1 language-specific subtypes of `mark`: <tt><a href="fro_srcmf-dep-mark-advmod.html">mark:advmod</a></tt>.
 
 6925 nodes (4%) are attached to their parents as `mark`.
 

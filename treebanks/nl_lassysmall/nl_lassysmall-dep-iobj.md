@@ -40,7 +40,7 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 iobj	color:blue
-1	Damned	Damned	X	SPEC|vreemd	Foreign=Yes	3	parataxis	3:parataxis	SpaceAfter=No
+1	Damned	Damned	SYM	SPEC|vreemd	_	3	parataxis	3:parataxis	SpaceAfter=No
 2	,	,	PUNCT	LET	_	1	punct	1:punct	_
 3	doe	doen	VERB	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 4	me	me	PRON	VNW|pr|pron|obl|red|1|ev	Case=Acc|Person=1|PronType=Prs	3	iobj	3:iobj	_
@@ -63,7 +63,7 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 4 6 iobj	color:blue
 1	Ook	ook	ADV	BW	_	3	amod	3:amod	_
 2	op	op	ADP	VZ|init	_	3	case	3:case	_
-3	privévlak	privévlak	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	4	obl	4:obl:op	_
+3	privévlak	privé_vlak	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	4	obl	4:obl:op	_
 4	gaat	gaan	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	het	het	PRON	VNW|pers|pron|stan|red|3|ev|onz	Person=3|PronType=Prs	4	nsubj	4:nsubj	_
 6	Kim	Kim	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	iobj	4:iobj	_

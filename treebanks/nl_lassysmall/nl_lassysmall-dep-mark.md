@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1635 nodes (2%) are attached to their parents as `mark`.
+1639 nodes (2%) are attached to their parents as `mark`.
 
-1624 instances of `mark` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.85932721712538.
+1628 instances of `mark` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.85784014643075.
 
-The following 30 pairs of parts of speech are connected with `mark`: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt> (616; 38% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> (398; 24% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt> (263; 16% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> (99; 6% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt> (43; 3% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> (43; 3% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> (39; 2% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> (31; 2% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt> (28; 2% instances), <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> (9; 1% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt>-<tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="nl_lassysmall-pos-X.html">X</a></tt>-<tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="nl_lassysmall-pos-X.html">X</a></tt>-<tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt>-<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 26 pairs of parts of speech are connected with `mark`: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt> (613; 37% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> (409; 25% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> (340; 21% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> (85; 5% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> (61; 4% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> (31; 2% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt> (24; 1% instances), <tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> (11; 1% instances), <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> (10; 1% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt>-<tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt>-<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 30 pairs of parts of speech are connected with `mark`: <tt><a href
 1	Ze	ze	PRON	VNW|pers|pron|stan|red|3|mv	Person=3|PronType=Prs	2	nsubj	2:nsubj	_
 2	creëren	creëren	VERB	WW|pv|tgw|mv	Number=Plur|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	een	een	DET	LID|onbep|stan|agr	Definite=Ind	4	det	4:det	_
-4	rookgordijn	rookgordijn	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	2	obj	2:obj	_
+4	rookgordijn	rook_gordijn	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	2	obj	2:obj	_
 5	om	om	ADP	VZ|init	_	8	mark	8:mark	_
 6	ons	ons	PRON	VNW|pr|pron|obl|vol|1|mv	Case=Acc|Person=1|PronType=Prs	8	obj	8:obj	_
 7	te	te	ADP	VZ|init	_	8	mark	8:mark	_
@@ -37,23 +37,17 @@ The following 30 pairs of parts of speech are connected with `mark`: <tt><a href
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 5 mark	color:blue
+# visual-style 5 4 mark	color:blue
 1	De	de	DET	LID|bep|stan|rest	Definite=Def	2	det	2:det	_
-2	motie	motie	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	nsubj:pass	4:nsubj:pass	_
-3	wordt	worden	AUX	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	4	aux:pass	4:aux:pass	_
-4	verworpen	verwerpen	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	_
-5	doordat	doordat	SCONJ	VG|onder	_	11	mark	11:mark	_
-6	de	de	DET	LID|bep|stan|rest	Definite=Def	7	det	7:det	_
-7	LPF	LPF	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	11	nsubj	11:nsubj	_
-8	de	de	DET	LID|bep|stan|rest	Definite=Def	9	det	9:det	_
-9	coalitie	coalitie	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	11	obj	11:obj	_
-10	wel	wel	ADV	BW	_	11	advmod	11:advmod	_
-11	steunt	steunen	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	4	advcl	4:advcl:doordat	SpaceAfter=No
-12	.	.	PUNCT	LET	_	4	punct	4:punct	_
+2	zetelverdeling	zetel_verdeling	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	nsubj	5:nsubj	_
+3	is	zijn	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
+4	als	als	SCONJ	VG|onder	_	5	mark	5:mark	_
+5	volgt	volgen	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
+6	:	:	PUNCT	LET	_	5	punct	5:punct	_
 
 ~~~
 
@@ -70,10 +64,10 @@ The following 30 pairs of parts of speech are connected with `mark`: <tt><a href
 4	Ensor	Ensor	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	nsubj	5:nsubj	_
 5	groter	groot	ADJ	ADJ|vrij|comp|zonder	Degree=Cmp	2	ccomp	2:ccomp	_
 6	was	zijn	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
-7	als	als	ADP	VZ|init	_	8	mark	8:mark	_
+7	als	als	SCONJ	VG|onder	_	8	mark	8:mark	_
 8	etser	etser	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	advcl	5:advcl:als	_
 9	dan	dan	SCONJ	VG|onder	_	11	mark	11:mark	_
-10	als	als	ADP	VZ|init	_	11	mark	11:mark	_
+10	als	als	SCONJ	VG|onder	_	11	mark	11:mark	_
 11	schilder	schilder	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	advcl	5:advcl:dan	SpaceAfter=No
 12	.	.	PUNCT	LET	_	2	punct	2:punct	_
 

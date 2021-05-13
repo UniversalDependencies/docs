@@ -30,7 +30,7 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 6	ve	ve	CCONJ	Conj	_	7	cc	_	_
 7	tansiyonu	tansiyon	NOUN	Noun	Case=Acc|Number=Sing|Person=3	3	conj	_	_
 8	olanlar	ol	VERB	Verb	Case=Nom|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Part	9	nsubj	_	_
-9	yememeli	ye	NOUN	Noun	Mood=Nec|Number=Sing|Person=3|Polarity=Neg	0	root	_	_
+9	yememeli	ye	NOUN	Noun	_	0	root	_	_
 10	dir	i	AUX	Zero	Aspect=Perf|Mood=Gen|Number=Sing|Person=3|Tense=Pres	9	cop	_	_
 11	.	.	PUNCT	Punc	_	9	punct	_	SpacesAfter=\n
 
@@ -49,7 +49,7 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 4	42	42	NUM	ANum	NumType=Card	5	nummod	_	_
 5	yaşında	yaş	ADJ	NAdj	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	10	advcl	_	_
 6	iken	i	AUX	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part	5	cop	_	_
-7	bir	bir	DET	ANum	NumType=Card	8	det	_	_
+7	bir	bir	DET	ANum	_	8	det	_	_
 8	darbeyle	darbe	NOUN	Noun	Case=Ins|Number=Sing|Person=3	10	obl	_	_
 9	iktidara	iktidar	NOUN	Noun	Case=Dat|Number=Sing|Person=3	10	obj	_	_
 10	el	el	NOUN	Noun	Case=Nom|Number=Sing|Person=3	0	root	_	_

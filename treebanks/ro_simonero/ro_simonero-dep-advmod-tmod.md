@@ -22,16 +22,16 @@ The following 1 pairs of parts of speech are connected with `advmod:tmod`: <tt><
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 4 advmod:tmod	color:blue
-1	Ce	ce	PRON	Pw3--r	Case=Nom|Person=3|PronType=Int,Rel	3	nsubj	_	O
-2	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	3	expl:pv	_	O
-3	întâmplă	întâmpla	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	O
-4	când	când	ADV	Rw	PronType=Int,Rel	8	advmod:tmod	_	O
-5	SVs	SVs	NOUN	Yn	Abbr=Yes	8	nsubj	_	B-CHEM
-6	nu	nu	PART	Qz	Polarity=Neg	8	advmod	_	O
-7	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	8	expl:pv	_	O
-8	maturează	matura	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	O
-9	complet	complet	ADV	Rgp	Degree=Pos	8	advmod	_	O
-10	?	?	PUNCT	QUEST	_	3	punct	_	O
+1	Ce	ce	PRON	Pw3--r	Case=Nom|Person=3|PronType=Int,Rel	3	nsubj	_	_
+2	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	3	expl:pv	_	_
+3	întâmplă	întâmpla	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	când	când	ADV	Rw	PronType=Int,Rel	8	advmod:tmod	_	_
+5	SVs	SVs	NOUN	Yn	Abbr=Yes	8	nsubj	_	BioNERLabel=B-CHEM
+6	nu	nu	PART	Qz	Polarity=Neg	8	advmod	_	_
+7	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	8	expl:pv	_	_
+8	maturează	matura	VERB	Vmip3	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
+9	complet	complet	ADV	Rgp	Degree=Pos	8	advmod	_	_
+10	?	?	PUNCT	QUEST	_	3	punct	_	_
 
 ~~~
 

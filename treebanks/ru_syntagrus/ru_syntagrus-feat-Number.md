@@ -219,7 +219,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 * `Plur` (1887; 26% of non-empty `Number`): <em>были, будут, будем, есть, будете, будьте, бывшие, суть</em>
 * `Sing` (5491; 74% of non-empty `Number`): <em>было, был, будет, была, есть, буду, будь, будешь, бывший, бывшем</em>
-* `EMPTY` (2291): <em>бы, быть, будучи, б</em>
+* `EMPTY` (2307): <em>бы, быть, будучи, б</em>
 
 <table>
   <tr><th>Paradigm <i>быть</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

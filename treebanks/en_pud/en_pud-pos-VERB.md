@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-PUD: POS Tags: `VERB`
 
-There are 740 `VERB` lemmas (15%), 1111 `VERB` types (19%) and 2150 `VERB` tokens (10%).
+There are 736 `VERB` lemmas (14%), 1111 `VERB` types (19%) and 2150 `VERB` tokens (10%).
 Out of 17 observed tags, the rank of `VERB` is: 3 in number of lemmas, 3 in number of types and 4 in number of tokens.
 
 The 10 most frequent `VERB` lemmas: <em>have, say, be, take, make, use, become, work, begin, include</em>
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>have</em> (<tt><a href="en_pud-pos-AU
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 1.501351 (the average of all parts of speech is 1.138338).
+The form / lemma ratio of `VERB` is 1.509511 (the average of all parts of speech is 1.138758).
 
 The 1st highest number of forms (8) was observed with the lemma “be”: <em>'s, are, be, been, being, is, was, were</em>.
 
@@ -73,7 +73,7 @@ Examples: <em>said, took, began, became, had, told, worked, were, allowed, decid
 
 `VERB` nodes are attached to their parents using 22 different relations: <tt><a href="en_pud-dep-root.html">root</a></tt> (797; 37% instances), <tt><a href="en_pud-dep-advcl.html">advcl</a></tt> (262; 12% instances), <tt><a href="en_pud-dep-conj.html">conj</a></tt> (199; 9% instances), <tt><a href="en_pud-dep-acl-relcl.html">acl:relcl</a></tt> (187; 9% instances), <tt><a href="en_pud-dep-xcomp.html">xcomp</a></tt> (186; 9% instances), <tt><a href="en_pud-dep-acl.html">acl</a></tt> (184; 9% instances), <tt><a href="en_pud-dep-ccomp.html">ccomp</a></tt> (103; 5% instances), <tt><a href="en_pud-dep-amod.html">amod</a></tt> (88; 4% instances), <tt><a href="en_pud-dep-parataxis.html">parataxis</a></tt> (80; 4% instances), <tt><a href="en_pud-dep-csubj.html">csubj</a></tt> (27; 1% instances), <tt><a href="en_pud-dep-case.html">case</a></tt> (22; 1% instances), <tt><a href="en_pud-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="en_pud-dep-compound.html">compound</a></tt> (2; 0% instances), <tt><a href="en_pud-dep-csubj-pass.html">csubj:pass</a></tt> (2; 0% instances), <tt><a href="en_pud-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="en_pud-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="en_pud-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Parents of `VERB` nodes belong to 13 different parts of speech:  (797; 37% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (736; 34% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (461; 21% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (80; 4% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (46; 2% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `VERB` nodes belong to 13 different parts of speech:  (797; 37% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (736; 34% instances), <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (460; 21% instances), <tt><a href="en_pud-pos-ADJ.html">ADJ</a></tt> (80; 4% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (47; 2% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="en_pud-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="en_pud-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="en_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="en_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="en_pud-pos-X.html">X</a></tt> (1; 0% instances)
 
 88 (4%) `VERB` nodes are leaves.
 

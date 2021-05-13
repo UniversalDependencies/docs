@@ -25,7 +25,7 @@ The following 37 pairs of parts of speech are connected with `iobj`: <tt><a href
 1	Aduceți	aduce	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	ref=MATT17.17|SpaceAfter=No
 2	-mi	eu	PRON	Pp1-sd--------w	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak	1	iobj	_	ref=MATT17.17
 3	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MATT17.17
-4	el	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	1	nmod:pmod	_	ref=MATT17.17
+4	el	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	1	obl:pmod	_	ref=MATT17.17
 5	încoace	încoace	ADV	Rg	_	1	advmod	_	ref=MATT17.17|SpaceAfter=No
 6	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT17.17
 
@@ -45,7 +45,7 @@ The following 37 pairs of parts of speech are connected with `iobj`: <tt><a href
 5	asculta	asculta	VERB	Vmn	VerbForm=Inf	10	advcl	_	ref=MATT18.17
 6	și	și	CCONJ	Ccssp	Polarity=Pos	8	advmod	_	ref=MATT18.17
 7	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	ref=MATT18.17
-8	ei	el	PRON	Pp3mpa--------s	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Strong	5	nmod:pmod	_	ref=MATT18.17|SpaceAfter=No
+8	ei	el	PRON	Pp3mpa--------s	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Strong	5	obl:pmod	_	ref=MATT18.17|SpaceAfter=No
 9	,	,	PUNCT	COMMA	_	5	punct	_	ref=MATT18.17
 10	spune	spune	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	ref=MATT18.17
 11	săborului	sobor	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	10	iobj	_	ref=MATT18.17|SpaceAfter=No

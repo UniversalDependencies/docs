@@ -30,7 +30,7 @@ The following 40 pairs of parts of speech are connected with `obl`: <tt><a href=
 6	dvesto	dvesto	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	Dep=8|Rel=Atr
 7	petdeset	petdeset	NUM	Mlc-pa	Case=Acc|Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	Dep=8|Rel=Atr
 8	milijonov	milijon	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	3	conj	_	SpaceAfter=No|Dep=3|Rel=Coord
-9	.	.	PUNCT	Z	_	1	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+9	.	.	PUNCT	Z	_	1	punct	_	Dep=0|Rel=Root
 
 ~~~
 
@@ -48,7 +48,7 @@ The following 40 pairs of parts of speech are connected with `obl`: <tt><a href=
 5	žalost	žalost	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	Dep=6|Rel=Sb
 6	ni	biti	AUX	Va-r3s-y	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	7	cop	_	Dep=0|Rel=Root
 7	pogosta	pogost	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No|Dep=6|Rel=Atr
-8	.	.	PUNCT	Z	_	7	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+8	.	.	PUNCT	Z	_	7	punct	_	Dep=0|Rel=Root
 
 ~~~
 
@@ -68,7 +68,7 @@ The following 40 pairs of parts of speech are connected with `obl`: <tt><a href=
 7	kresal	kresati	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	Dep=0|Rel=Root
 8	z	z	ADP	Si	Case=Ins	9	case	_	Dep=9|Rel=Atr
 9	našim	naš	DET	Ps1msip	Case=Ins|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	7	obl	_	SpaceAfter=No|Dep=7|Rel=Obj
-10	.	.	PUNCT	Z	_	7	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+10	.	.	PUNCT	Z	_	7	punct	_	Dep=0|Rel=Root
 
 ~~~
 

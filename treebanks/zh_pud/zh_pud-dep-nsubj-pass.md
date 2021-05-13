@@ -27,7 +27,7 @@ The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 3	為期	_	VERB	VV	_	7	acl:relcl	_	SpaceAfter=No|Translit=wèiqī
 4	10	_	NUM	CD	NumType=Card	5	nummod	_	SpaceAfter=No|Translit=10
 5	週	_	NOUN	NNB	_	3	obj	_	SpaceAfter=No|Translit=週
-6	的	_	PART	DEC	_	3	mark:relcl	_	SpaceAfter=No|Translit=de
+6	的	_	PART	DEC	_	3	mark:rel	_	SpaceAfter=No|Translit=de
 7	課程	_	NOUN	NN	_	15	nsubj:pass	_	SpaceAfter=No|Translit=kèchéng
 8	已經	_	ADV	RB	_	15	advmod	_	SpaceAfter=No|Translit=yǐjīng
 9	被	_	ADP	BB	Voice=Pass	12	case	_	SpaceAfter=No|Translit=bèi
@@ -88,7 +88,7 @@ The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 8	兩	_	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No|Translit=liǎng
 9	歲	_	NOUN	NNB	_	10	obl:tmod	_	SpaceAfter=No|Translit=suì
 10	大	_	ADJ	JJ	_	12	acl:relcl	_	SpaceAfter=No|Translit=dà
-11	的	_	PART	DEC	_	10	mark:relcl	_	SpaceAfter=No|Translit=de
+11	的	_	PART	DEC	_	10	mark:rel	_	SpaceAfter=No|Translit=de
 12	女兒	_	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=nǚr
 13	。	_	PUNCT	.	_	4	punct	_	Translit=。
 

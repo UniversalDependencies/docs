@@ -40,16 +40,16 @@ The following 38 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 10	fgColor:white
 # visual-style 10 11 orphan	color:blue
 1	ꙇ	и	CCONJ	C-	_	4	cc	_	ref=MARK_7.30
-2	шедъши	ити	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	4	advcl	_	ref=MARK_7.30
+2	шедъши	ити	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	4	advcl	_	ref=MARK_7.30
 3	домови	домови	ADV	Df	_	2	advmod	_	ref=MARK_7.30
 4	обрѣте	обрѣсти	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_7.30
 5	отроковицѫ	отроковица	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	ref=MARK_7.30
-6	лежѧщѫ	лежати	VERB	V-	Case=Acc|Gender=Fem|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	4	xcomp	_	ref=MARK_7.30
+6	лежѧщѫ	лежати	VERB	V-	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	4	xcomp	_	ref=MARK_7.30
 7	на	на	ADP	R-	_	8	case	_	ref=MARK_7.30
 8	одрѣ	одръ	NOUN	Nb	Case=Loc|Gender=Masc|Number=Sing	6	obl	_	ref=MARK_7.30
 9	и	и	CCONJ	C-	_	4	cc	_	ref=MARK_7.30
 10	бѣсъ	бѣсъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	conj	_	ref=MARK_7.30
-11	ишедъшъ	изити	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	10	orphan	_	ref=MARK_7.30
+11	ишедъшъ	изити	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	10	orphan	_	ref=MARK_7.30
 
 ~~~
 
@@ -63,7 +63,7 @@ The following 38 pairs of parts of speech are connected with `orphan`: <tt><a hr
 1	они	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	ref=MATT_22.5
 2	же	же	ADV	Df	_	5	discourse	_	ref=MATT_22.5
 3	не	не	ADV	Df	Polarity=Neg	4	advmod	_	ref=MATT_22.5
-4	рождъше	родити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	5	advcl	_	ref=MATT_22.5|LId=2
+4	рождъше	родити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	5	advcl	_	ref=MATT_22.5|LId=2
 5	отидѫ	отити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_22.5
 6	овъ	овъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	5	appos	_	ref=MATT_22.5
 7	на	на	ADP	R-	_	8	case	_	ref=MATT_22.5

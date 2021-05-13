@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="hu_szeged-pos-PRON.
 
 42 <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> tokens (3% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="hu_szeged-feat-Person.html">Person</a></tt><tt>=3</tt> (40; 95%), <tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (40; 95%), <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (32; 76%), <tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt><tt>=None</tt> (28; 67%), <tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt><tt>=None</tt> (28; 67%), <tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=None</tt> (26; 62%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="hu_szeged-feat-Person.html">Person</a></tt><tt>=3</tt> (40; 95%), <tt><a href="hu_szeged-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (40; 95%), <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (32; 76%).
 
 `PRON` tokens may have the following values of `Reflex`:
 

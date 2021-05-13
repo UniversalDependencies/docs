@@ -98,6 +98,6 @@ The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="sk_snk-dep-advmod-emph.html">advmod:emph</a></tt>]--> ADV</tt> (8; 89%),
 <tt>ADV --[<tt><a href="sk_snk-dep-orphan.html">orphan</a></tt>]--> ADV</tt> (5; 83%),
 <tt>ADJ --[<tt><a href="sk_snk-dep-appos.html">appos</a></tt>]--> ADJ</tt> (4; 100%),
-<tt>ADJ --[<tt><a href="sk_snk-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (3; 75%),
-<tt>ADJ --[<tt><a href="sk_snk-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (2; 67%).
+<tt>ADJ --[<tt><a href="sk_snk-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (4; 100%),
+<tt>ADJ --[<tt><a href="sk_snk-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (3; 75%).
 

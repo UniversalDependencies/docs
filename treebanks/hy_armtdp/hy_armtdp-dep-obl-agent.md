@@ -57,7 +57,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 6	,	,	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,
 7	ուղղված	ուղղել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Pass	1	conj	_	Translit=owġġvaç|LTranslit=owġġel
 8	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	Translit=ē|LTranslit=em
-9	այնպիսի	այնպիսի	DET	_	Distance=Dist|PronType=Dem	10	det	_	Translit=aynpisi|LTranslit=aynpisi
+9	այնպիսի	այնպիսի	DET	_	Deixis=Remt|PronType=Dem	10	det	_	Translit=aynpisi|LTranslit=aynpisi
 10	զգացմունքներ	զգացմունք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Plur	11	obj	_	Translit=zgac’mownk’ner|LTranslit=zgac’mownk’
 11	հարուցելուն	հարուցել	VERB	_	Case=Dat|Definite=Def|Number=Coll|Polarity=Pos|Subcat=Tran|VerbForm=Gdv|Voice=Act	7	obl	_	Translit=harowc’elown|LTranslit=harowc’el|SpaceAfter=No
 12	,	,	PUNCT	_	_	22	punct	_	Translit=,|LTranslit=,
@@ -65,7 +65,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 14	բազմիցս	բազմիցս	ADV	_	_	22	advmod	_	Translit=bazmic’s|LTranslit=bazmic’s
 15	ու	ու	CCONJ	_	_	16	cc	_	Translit=ow|LTranslit=ow
 16	զանգվածաբար	զանգվածաբար	ADV	_	_	14	conj	_	Translit=zangvaçabar|LTranslit=zangvaçabar
-17	նույն	նույն	DET	_	Distance=Dist|PronType=Dem	18	det	_	Translit=nowyn|LTranslit=nowyn
+17	նույն	նույն	DET	_	Deixis=Remt|PronType=Dem	18	det	_	Translit=nowyn|LTranslit=nowyn
 18	եղանակներով	եղանակ	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Plur	22	obl	_	Translit=eġanaknerov|LTranslit=eġanak
 19	ի	ի	ADP	_	AdpType=Prep	20	case	_	Translit=i|LTranslit=i
 20	հայտ	հայտ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	22	compound:lvc	_	Translit=hayt|LTranslit=hayt

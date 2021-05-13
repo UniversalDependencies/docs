@@ -16,12 +16,10 @@ The feature is used with 1 part-of-speech tags: <tt><a href="th_pud-pos-PART.htm
 
 ### `PART`
 
-205 <tt><a href="th_pud-pos-PART.html">PART</a></tt> tokens (20% of all `PART` tokens) have a non-empty value of `Polarity`.
-
-The most frequent other feature values with which `PART` and `Polarity` co-occurred: <tt><a href="th_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (205; 100%).
+205 <tt><a href="th_pud-pos-PART.html">PART</a></tt> tokens (34% of all `PART` tokens) have a non-empty value of `Polarity`.
 
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (205; 100% of non-empty `Polarity`): ไม่, ความไม่, มิ, อย่างไม่, การไม่
-* `EMPTY` (804): ได้, ไป, มา, ขึ้น, อยู่, แล้ว, ออก, ยัง, ลง, กำลัง
+* `EMPTY` (403): ไป, มา, ขึ้น, ออก, ลง, เข้า, หรือไม่, ไม่, หรอก, หรือเปล่า
 

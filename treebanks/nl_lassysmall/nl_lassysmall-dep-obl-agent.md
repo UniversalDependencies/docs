@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="nl_lassysmall-dep-obl.html">obl</a></tt>.
 
-185 nodes (0%) are attached to their parents as `obl:agent`.
+186 nodes (0%) are attached to their parents as `obl:agent`.
 
-119 instances of `obl:agent` (64%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.61621621621622.
+120 instances of `obl:agent` (65%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.61290322580645.
 
-The following 7 pairs of parts of speech are connected with `obl:agent`: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (104; 56% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (66; 36% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (5; 3% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `obl:agent`: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (104; 56% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (68; 37% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (5; 3% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -82,7 +82,7 @@ The following 7 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 17	het	het	DET	LID|bep|stan|evon	Definite=Def	19	det	19:det	_
 18	Pruisische	Pruisisch	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	19	amod	19:amod	_
 19	leger	leger	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	7	conj	7:conj:en|20:obl:agent	_
-20	verslagen	verslag	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	SpaceAfter=No
+20	verslagen	verslaan	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	SpaceAfter=No
 21	.	.	PUNCT	LET	_	20	punct	20:punct	_
 
 ~~~

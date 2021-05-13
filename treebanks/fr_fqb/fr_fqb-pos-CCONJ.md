@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-FQB: POS Tags: `CCONJ`
 
 There are 6 `CCONJ` lemmas (0%), 6 `CCONJ` types (0%) and 98 `CCONJ` tokens (0%).
-Out of 17 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 13 in number of types and 15 in number of tokens.
+Out of 16 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 13 in number of types and 14 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>et, ou, _, et_/_ou, mais, puis</em>
 
@@ -23,11 +23,11 @@ The 10 most frequent ambiguous types:  <em>/</em> (<tt><a href="fr_fqb-pos-CCONJ
   * <tt><a href="fr_fqb-pos-SYM.html">SYM</a></tt> 1: <em>Vous avez oublié votre mot de passe et <b>/</b> ou votre identifiant : comment les récupérer ?</em>
 * <em>puis</em>
   * <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 24: <em>à partir de quand <b>puis</b> -je bénéficier d' une aide à le logement ?</em>
-  * <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Comment nomme -t -on la technique par laquelle l' on sème certaines plantes dans un sol contaminé à les métaux toxiques afin que ces plantes ingèrent ces métaux , qu' elles soient récoltées , <b>puis</b> que les métaux soient recouvrés à fins de recyclage ?</em>
+  * <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Comment nomme -t-on la technique par laquelle l' on sème certaines plantes dans un sol contaminé à les métaux toxiques afin que ces plantes ingèrent ces métaux , qu' elles soient récoltées , <b>puis</b> que les métaux soient recouvrés à fins de recyclage ?</em>
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.162933).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.163777).
 
 The 1st highest number of forms (2) was observed with the lemma “et”: <em>&, et</em>.
 

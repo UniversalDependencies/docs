@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of obl:agent in UD_Old_Russian-RNC'
+title:  'Statistics of obl:agent in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Relations: `obl:agent`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Relations: `obl:agent`
 
 This relation is a language-specific subtype of <tt><a href="orv_rnc-dep-obl.html">obl</a></tt>.
 
@@ -29,7 +29,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 5	чюдотворцу	чудотворецъ	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	_
 6	[с]старцом	старецъ	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	1	obl:agent	_	_
 7	Тимофеем	Тимофѣй	PROPN	_	Case=Ins|Gender=Masc|Number=Sing	6	appos	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
@@ -50,7 +50,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 8	лицамъ	лицо	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	5	iobj	_	Norm=лицамъ|_
 9	притѣсненія	притѣснение	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	1	nmod	_	Norm=притѣсненія|SpaceAfter=No
 10	]	]	PUNCT	_	_	1	punct	_	Norm=]|SpaceAfter=No
-11	.	.	PUNCT	_	_	1	punct	_	Norm=.|SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	Norm=.
 
 ~~~
 

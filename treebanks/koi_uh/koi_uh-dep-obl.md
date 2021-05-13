@@ -14,7 +14,7 @@ There are 2 language-specific subtypes of `obl`: <tt><a href="koi_uh-dep-obl-lmo
 15 instances of `obl` (54%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.25.
 
-The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (15; 54% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (7; 25% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (3; 11% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-DET.html">DET</a></tt> (1; 4% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (1; 4% instances).
+The following 5 pairs of parts of speech are connected with `obl`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (15; 54% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (8; 29% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (3; 11% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -65,10 +65,10 @@ The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="
 9	син	син	NOUN	N	Animacy=Inan|Case=Nom|Number=Sing	12	obl	_	GTtags=N,Sem/Inanim,Sg,Nom
 10	одзӧ	одзӧ	ADP	Adp	AdpType=Post|AdvType=Loc|Case=Ill|Number=Sing	9	case	_	GTtags=Adp,Po,Spat,Sg,Ill
 11	оз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	12	aux:neg	_	GTtags=V,Neg,Ind,Prs,Sg3
-12	ков	ковны	VERB	V	Connegative=Yes|Valency=1	3	advcl	_	GTtags=V,IV,ConNeg|SpaceAfter=No
+12	ков	ковны	VERB	V	Connegative=Yes	3	advcl	_	GTtags=V,IV,ConNeg|SpaceAfter=No
 13	,	,	PUNCT	CLB	_	15	punct	_	GTtags=CLB
 14	и	и	CCONJ	CC	_	15	cc	_	GTtags=CC
-15	юася	юасьны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Valency=1	2	conj	_	GTtags=V,IV,Ind,Prs,Sg1
+15	юася	юасьны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres	2	conj	_	GTtags=V,IV,Ind,Prs,Sg1
 
 ~~~
 

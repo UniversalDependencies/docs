@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-2633 tokens (14%) have a non-empty value of `Degree`.
-1733 types (23%) occur at least once with a non-empty value of `Degree`.
-1108 lemmas (22%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 4 part-of-speech tags: <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (1878; 10% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (726; 4% instances), <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> (16; 0% instances), <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> (13; 0% instances).
+2604 tokens (13%) have a non-empty value of `Degree`.
+1730 types (23%) occur at least once with a non-empty value of `Degree`.
+1106 lemmas (22%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ru_pud-pos-ADJ.html">ADJ</a></tt> (1878; 10% instances), <tt><a href="ru_pud-pos-ADV.html">ADV</a></tt> (726; 4% instances).
 
 ### `ADJ`
 
@@ -60,28 +60,6 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 `Degree` seems to be **lexical feature** of `ADV`. 97% lemmas (207) occur only with one value of `Degree`.
 
-### `VERB`
-
-16 <tt><a href="ru_pud-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Degree`.
-
-The most frequent other feature values with which `VERB` and `Degree` co-occurred: <tt><a href="ru_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="ru_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="ru_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="ru_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="ru_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="ru_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (16; 100%).
-
-`VERB` tokens may have the following values of `Degree`:
-
-* `Pos` (16; 100% of non-empty `Degree`): <em>можно, надо</em>
-* `EMPTY` (2099): <em>является, может, сказал, говорит, стало, могут, заявил, находится, стал, имеет</em>
-
-### `NUM`
-
-13 <tt><a href="ru_pud-pos-NUM.html">NUM</a></tt> tokens (4% of all `NUM` tokens) have a non-empty value of `Degree`.
-
-The most frequent other feature values with which `NUM` and `Degree` co-occurred: <tt><a href="ru_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="ru_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="ru_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="ru_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (13; 100%).
-
-`NUM` tokens may have the following values of `Degree`:
-
-* `Cmp` (13; 100% of non-empty `Degree`): <em>больше</em>
-* `EMPTY` (277): <em>несколько, много, один, две, двух, три, одного, одной, 3, два</em>
-
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
@@ -93,6 +71,6 @@ The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADV --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> ADV</tt> (3; 100%),
 <tt>ADJ --[<tt><a href="ru_pud-dep-mark.html">mark</a></tt>]--> ADV</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="ru_pud-dep-obl.html">obl</a></tt>]--> ADV</tt> (2; 100%),
-<tt>NUM --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> NUM</tt> (2; 100%),
-<tt>ADJ --[<tt><a href="ru_pud-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="ru_pud-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>ADJ --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> ADV</tt> (1; 100%).
 

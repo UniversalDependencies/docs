@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of xcomp in UD_Old_Russian-TOROT'
+title:  'Statistics of xcomp in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Relations: `xcomp`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Relations: `xcomp`
 
 This relation is universal.
 
@@ -57,7 +57,7 @@ The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 1	всю	вьсь	DET	Px	Case=Acc|Gender=Fem|Number=Sing	2	det	_	ref=
 2	ȥемлю	земля	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	ref=
 3	тѹ	тыи	DET	Pd	Case=Acc|Gender=Fem|Number=Sing	2	det	_	ref=
-4	пѹстѹ	пустыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	5	xcomp	_	ref=
+4	пѹстѹ	пустыи	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	5	xcomp	_	ref=
 5	ѹчини	учинити	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=
 
 ~~~

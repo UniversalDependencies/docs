@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Telugu-MTG: Relations: `obl:cau`
 
 This relation is a language-specific subtype of <tt><a href="te_mtg-dep-obl.html">obl</a></tt>.
-There are also 1 other language-specific subtypes of `obl`: <tt><a href="te_mtg-dep-obl-tmod.html">obl:tmod</a></tt>.
+There are also 2 other language-specific subtypes of `obl`: <tt><a href="te_mtg-dep-obl-cmp.html">obl:cmp</a></tt>, <tt><a href="te_mtg-dep-obl-tmod.html">obl:tmod</a></tt>.
 
 3 nodes (0%) are attached to their parents as `obl:cau`.
 

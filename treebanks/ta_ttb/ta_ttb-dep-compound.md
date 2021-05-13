@@ -48,7 +48,7 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 2	மத்திய	மத்திய	ADJ	JJ-------	_	3	amod	3:amod	Translit=mattiya|LTranslit=mattiya
 3	திட்டங்களுக்க்	திட்டம்	NOUN	NND-3PN--	Case=Dat|Gender=Neut|Number=Plur|Person=3	9	obl	9:obl:ஆகு:dat	Translit=tiṭṭaṅkaḷukk|LTranslit=tiṭṭam
 4	ஆக	ஆகு	ADP	PP-------	AdpType=Post	3	case	3:case	Translit=āka|LTranslit=āku
-5	1	1	NUM	U=-------	NumForm=Digit	7	nummod	7:nummod	Translit=1|LTranslit=1
+5	1	1	NUM	U=-------	NumForm=Digit|NumType=Card	7	nummod	7:nummod	Translit=1|LTranslit=1
 6	லட்சம்	லட்சம்	NUM	Ux-------	NumType=Card	7	compound	7:compound	Translit=laṭcam|LTranslit=laṭcam
 7	கோடி	கோடி	NUM	Ux-------	NumType=Card	9	nsubj	9:nsubj	Translit=kōṭi|LTranslit=kōṭi
 8	பிகாருக்கு	பிகார்	PROPN	NED-3PN--	Case=Dat|Gender=Neut|Number=Plur|Person=3	9	obl	9:obl:dat	Translit=pikārukku|LTranslit=pikār

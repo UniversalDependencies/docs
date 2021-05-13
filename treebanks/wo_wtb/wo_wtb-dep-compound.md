@@ -23,17 +23,17 @@ The following 6 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 10 compound	color:blue
-1	Soxna	Soxna	PROPN	NAME	_	4	nsubj	4:nsubj	_
-2	Jaara	Jaara	PROPN	NAME	_	1	flat	1:flat	_
-3	nag	nag	ADV	ADV	_	1	advmod	1:advmod	_
-4	bokkoon	bokk	VERB	VERB	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
-5	ci	ci	ADP	PREP	_	6	case	6:case	_
-6	askan	askan	NOUN	NOUN	_	4	obl	4:obl	_
-7	wu	bu	PRON	PRON	NounClass=Wol10|Number=Sing|Person=3|PronType=Rel	9	nsubj	9:nsubj	_
-8	di	di	AUX	COP	Aspect=Imp|Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	9:cop	_
-9	boroom	boroom	NOUN	NOUN	_	6	acl:relcl	6:acl:relcl	_
-10	barke	barke	NOUN	NOUN	_	9	compound	9:compound	SpaceAfter=No
-11	.	.	PUNCT	PERIOD	_	4	punct	4:punct	_
+1	Soxna	Soxna	PROPN	NAME	_	4	nsubj	_	_
+2	Jaara	Jaara	PROPN	NAME	_	1	flat	_	_
+3	nag	nag	ADV	ADV	_	1	advmod	_	_
+4	bokkoon	bokk	VERB	VERB	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+5	ci	ci	ADP	PREP	_	6	case	_	_
+6	askan	askan	NOUN	NOUN	_	4	obl	_	_
+7	wu	bu	PRON	PRON	NounClass=Wol10|Number=Sing|Person=3|PronType=Rel	9	nsubj	_	_
+8	di	di	AUX	COP	Aspect=Imp|Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	_
+9	boroom	boroom	NOUN	NOUN	_	6	acl:relcl	_	_
+10	barke	barke	NOUN	NOUN	_	9	compound	_	SpaceAfter=No
+11	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
 ~~~
 
@@ -44,19 +44,19 @@ The following 6 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 12 compound	color:blue
-1	Am	am	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	0:root	_
-2	na	na	AUX	INFL	Aspect=Perf|Mood=Ind|Number=Sing|Person=3	1	aux	1:aux	_
-3	ñu	mu	PRON	PRON	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
-4	ne	ne	VERB	VERB	Mood=Ind|VerbForm=Fin	1	ccomp	1:ccomp	SpaceAfter=No
-5	,	,	PUNCT	COMMA	_	10	punct	10:punct	_
-6	lebu	lebu	PROPN	NAME	_	10	dislocated	10:dislocated	_
-7	yi	bi	DET	DET	Definite=Def|Deixis=Prox|NounClass=Wol8|Number=Plur|PronType=Art	6	det	6:det	_
-8	ñu	mu	PRON	PRON	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	10:nsubj	_
-9	a	a	AUX	INFL	FocusType=Subj|Mood=Ind	10	aux	10:aux	_
-10	sos	sos	VERB	VERB	Mood=Ind|VerbForm=Fin	4	ccomp	4:ccomp	_
-11	làkk	làkk	NOUN	NOUN	_	10	obj	10:obj	_
-12	wolof	wolof	PROPN	NAME	_	11	compound	11:compound	SpaceAfter=No
-13	.	.	PUNCT	PERIOD	_	1	punct	1:punct	_
+1	Am	am	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	_
+2	na	na	AUX	INFL	Aspect=Perf|Mood=Ind|Number=Sing|Person=3	1	aux	_	_
+3	ñu	mu	PRON	PRON	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+4	ne	ne	VERB	VERB	Mood=Ind|VerbForm=Fin	1	ccomp	_	SpaceAfter=No
+5	,	,	PUNCT	COMMA	_	10	punct	_	_
+6	lebu	lebu	PROPN	NAME	_	10	dislocated	_	_
+7	yi	bi	DET	DET	Definite=Def|Deixis=Prox|NounClass=Wol8|Number=Plur|PronType=Art	6	det	_	_
+8	ñu	mu	PRON	PRON	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
+9	a	a	AUX	INFL	FocusType=Subj|Mood=Ind	10	aux	_	_
+10	sos	sos	VERB	VERB	Mood=Ind|VerbForm=Fin	4	ccomp	_	_
+11	làkk	làkk	NOUN	NOUN	_	10	obj	_	_
+12	wolof	wolof	PROPN	NAME	_	11	compound	_	SpaceAfter=No
+13	.	.	PUNCT	PERIOD	_	1	punct	_	_
 
 ~~~
 
@@ -67,20 +67,20 @@ The following 6 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 compound	color:blue
-1	Ci	ci	ADP	PREP	_	2	case	2:case	_
-2	xarnub	xarnu	NOUN	NOUN	Case=Gen|Number=Sing	11	obl	11:obl	_
-3	fukk	fukk	NUM	NUMBER	NumType=Card	2	nummod	2:nummod	_
-4	ak	ak	CCONJ	CONJ	_	6	cc	6:cc	_
-5	juróom	juróom	NUM	NUMBER	NumType=Card	6	compound	6:compound	_
-6	ñeent	ñeent	NUM	NUMBER	NumType=Card	3	conj	3:conj	_
-7	g.j	g.j	NOUN	NOUN	_	2	nmod	2:nmod	SpaceAfter=No
-8	,	,	PUNCT	COMMA	_	11	punct	11:punct	_
-9	la	la	AUX	INFL	FocusType=Compl|Mood=Ind|Number=Sing|Person=3	11	aux	11:aux	_
-10	Fuuta	Fuuta	PROPN	NAME	_	11	nsubj	11:nsubj	_
-11	tàmbali	tàmbali	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	0:root	_
-12	a	a	PART	PART	_	13	mark	13:mark	_
-13	naaxsaay	naaxsaay	VERB	VERB	VerbForm=Inf	11	xcomp	11:xcomp	SpaceAfter=No
-14	.	.	PUNCT	PERIOD	_	11	punct	11:punct	_
+1	Ci	ci	ADP	PREP	_	2	case	_	_
+2	xarnub	xarnu	NOUN	NOUN	Case=Gen|Number=Sing	11	obl	_	_
+3	fukk	fukk	NUM	NUMBER	NumType=Card	2	nummod	_	_
+4	ak	ak	CCONJ	CONJ	_	6	cc	_	_
+5	juróom	juróom	NUM	NUMBER	NumType=Card	6	compound	_	_
+6	ñeent	ñeent	NUM	NUMBER	NumType=Card	3	conj	_	_
+7	g.j	g.j	NOUN	NOUN	_	2	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	COMMA	_	11	punct	_	_
+9	la	la	AUX	INFL	FocusType=Compl|Mood=Ind|Number=Sing|Person=3	11	aux	_	_
+10	Fuuta	Fuuta	PROPN	NAME	_	11	nsubj	_	_
+11	tàmbali	tàmbali	VERB	VERB	Mood=Ind|VerbForm=Fin	0	root	_	_
+12	a	a	PART	PART	_	13	mark	_	_
+13	naaxsaay	naaxsaay	VERB	VERB	VerbForm=Inf	11	xcomp	_	SpaceAfter=No
+14	.	.	PUNCT	PERIOD	_	11	punct	_	_
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1119 nodes (4%) are attached to their parents as `case`.
+1326 nodes (4%) are attached to their parents as `case`.
 
-763 instances of `case` (68%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.48436103663986.
+917 instances of `case` (69%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.50678733031674.
 
-The following 10 pairs of parts of speech are connected with `case`: <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (721; 64% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt>-<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (227; 20% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (145; 13% instances), <tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt>-<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (8; 1% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (6; 1% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `case`: <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (847; 64% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt>-<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (262; 20% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (181; 14% instances), <tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt>-<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (9; 1% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-X.html">X</a></tt>-<tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -46,9 +46,9 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 2	hab	haben	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	reparandum	_	LangID=DE
 3	Dings	Ding	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	LangID=DE
 4	ähm	ähm	INTJ	_	_	2	discourse	_	LangID=DE
-5	o	o	PRON	_	Case=Nom|Number=Sing|Person=3	7	nmod	_	LangID=TR
+5	o	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	7	nmod	_	LangID=TR
 6	kadar	kadar	ADP	_	_	5	case	_	LangID=TR
-7	Prüfunglarım	Prüfung	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=1	8	obj	_	CSPoint=Prüfung§larım|LangID=MIXED
+7	Prüfunglarım	Prüfung	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=1	8	obj	_	CSPoint=Prüfung§larım|DeCase=Acc|DeGender=Fem|LangID=MIXED
 8	var	var	ADJ	_	_	0	root	_	LangID=TR
 9	ki	ki	ADV	_	_	8	mark	_	LangID=TR|SpaceAfter=No
 10	.	.	PUNCT	_	_	8	punct	_	LangID=OTHER

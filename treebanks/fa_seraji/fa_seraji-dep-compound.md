@@ -51,7 +51,7 @@ The following 10 pairs of parts of speech are connected with `compound`: <tt><a 
 2	که	که	CCONJ	CON	_	1	fixed	_	_
 3	امام	امام	NOUN	N_SING	Number=Sing	13	nsubj	_	_
 4	حسین	حسین	NOUN	N_SING	Number=Sing	3	flat	_	SpaceAfter=No
-5	)	)	PUNCT	DELM	_	4	punct	_	_
+5	)	)	PUNCT	DELM	_	6	punct	_	_
 6	ع	ع	NOUN	N_SING	Number=Sing	4	dep	_	_
 7	(	(	PUNCT	DELM	_	4	punct	_	SpaceAfter=No
 8	به	به	ADP	P	_	9	case	_	_

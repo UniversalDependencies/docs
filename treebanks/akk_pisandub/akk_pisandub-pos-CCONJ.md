@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>-ma</em> (<tt><a href="akk_pisandub-p
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 2.000000 (the average of all parts of speech is 1.687616).
+The form / lemma ratio of `CCONJ` is 2.000000 (the average of all parts of speech is 1.690167).
 
 The 1st highest number of forms (3) was observed with the lemma “u”: <em>u, ù, ⸢ù⸣</em>.
 

@@ -64,7 +64,7 @@ The 2nd highest number of forms (1) was observed with the lemma “ሁል”: �
 
 The 3rd highest number of forms (1) was observed with the lemma “ህ”: ህ.
 
-`PRON` occurs with 4 features: <tt><a href="am_att-feat-Number.html">Number</a></tt> (2377; 93% instances), <tt><a href="am_att-feat-Person.html">Person</a></tt> (2375; 93% instances), <tt><a href="am_att-feat-Gender.html">Gender</a></tt> (1724; 68% instances), <tt><a href="am_att-feat-Poss.html">Poss</a></tt> (205; 8% instances)
+`PRON` occurs with 4 features: <tt><a href="am_att-feat-Number.html">Number</a></tt> (2377; 93% instances), <tt><a href="am_att-feat-Person.html">Person</a></tt> (2375; 93% instances), <tt><a href="am_att-feat-Gender.html">Gender</a></tt> (1725; 68% instances), <tt><a href="am_att-feat-Poss.html">Poss</a></tt> (205; 8% instances)
 
 `PRON` occurs with 11 feature-value pairs: `Gender=Com`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`
 

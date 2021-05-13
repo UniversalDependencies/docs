@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of PronType in UD_Old_Russian-TOROT'
+title:  'Statistics of PronType in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Features: `PronType`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Features: `PronType`
 
 This feature is universal.
 It occurs with 4 different values: `Int`, `Prs`, `Rcp`, `Rel`.

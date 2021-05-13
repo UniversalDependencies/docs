@@ -62,9 +62,9 @@ The 2nd highest number of forms (5) was observed with the lemma “Вильге�
 
 The 3rd highest number of forms (5) was observed with the lemma “Владимир”: <em>Влади́мир, Владимир, Владимира, Владимиром, Владимиру</em>.
 
-`PROPN` occurs with 7 features: <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt> (6585; 100% instances), <tt><a href="ru_gsd-feat-Case.html">Case</a></tt> (6585; 100% instances), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt> (6584; 100% instances), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt> (6584; 100% instances), <tt><a href="ru_gsd-feat-Abbr.html">Abbr</a></tt> (13; 0% instances), <tt><a href="ru_gsd-feat-Foreign.html">Foreign</a></tt> (2; 0% instances), <tt><a href="ru_gsd-feat-NumType.html">NumType</a></tt> (1; 0% instances)
+`PROPN` occurs with 6 features: <tt><a href="ru_gsd-feat-Animacy.html">Animacy</a></tt> (6585; 100% instances), <tt><a href="ru_gsd-feat-Case.html">Case</a></tt> (6585; 100% instances), <tt><a href="ru_gsd-feat-Gender.html">Gender</a></tt> (6584; 100% instances), <tt><a href="ru_gsd-feat-Number.html">Number</a></tt> (6584; 100% instances), <tt><a href="ru_gsd-feat-Abbr.html">Abbr</a></tt> (13; 0% instances), <tt><a href="ru_gsd-feat-Foreign.html">Foreign</a></tt> (2; 0% instances)
 
-`PROPN` occurs with 16 feature-value pairs: `Abbr=Yes`, `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NumType=Card`, `Number=Plur`, `Number=Sing`
+`PROPN` occurs with 15 feature-value pairs: `Abbr=Yes`, `Animacy=Anim`, `Animacy=Inan`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Foreign=Yes`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
 
 `PROPN` occurs with 54 feature combinations.
 The most frequent feature combination is `Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing` (1563 tokens).

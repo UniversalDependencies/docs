@@ -26,7 +26,7 @@ The following 7 pairs of parts of speech are connected with `det:predet`: <tt><a
 1	@user	@user	SYM	SYM	_	6	vocative:mention	_	_
 2	ma	ma	CCONJ	CC	_	6	cc	_	_
 3	per	per	ADP	E	_	4	case	_	_
-4	lui	egli	PRON	PE	Number=Sing|Person=3|PronType=Prs	6	obl	_	_
+4	lui	lui	PRON	PE	Number=Sing|Person=3|PronType=Prs	6	obl	_	_
 5	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 6	Pasqua	Pasqua	PROPN	SP	_	0	root	_	_
 7	tutto	tutto	DET	DI	PronType=Ind	9	det:predet	_	_

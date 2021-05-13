@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Portuguese-GSD: Relations: `acl:inf`
 
 This relation is a language-specific subtype of <tt><a href="pt_gsd-dep-acl.html">acl</a></tt>.
-There are also 2 other language-specific subtypes of `acl`: <tt><a href="pt_gsd-dep-acl-part.html">acl:part</a></tt>, <tt><a href="pt_gsd-dep-acl-relcl.html">acl:relcl</a></tt>.
+There are also 1 other language-specific subtypes of `acl`: <tt><a href="pt_gsd-dep-acl-relcl.html">acl:relcl</a></tt>.
 
 61 nodes (0%) are attached to their parents as `acl:inf`.
 
@@ -25,14 +25,14 @@ The following 4 pairs of parts of speech are connected with `acl:inf`: <tt><a hr
 # visual-style 6 9 acl:inf	color:blue
 1	Há	haver	VERB	VERB	_	0	root	_	_
 2	bilhões	_	NUM	NUM	NumType=Card	4	nummod	_	_
-3	de	_	ADP	ADP	_	4	case	_	_
+3	de	de	ADP	ADP	_	4	case	_	_
 4	reais	real	NOUN	NOUN	_	1	obj	_	_
-5	em	_	ADP	ADP	_	6	case	_	_
+5	em	em	ADP	ADP	_	6	case	_	_
 6	indenizações	indenização	NOUN	NOUN	_	1	nmod	_	_
 7	a	_	ADP	ADP	_	9	mark	_	_
 8	serem	ser	AUX	AUX	_	9	aux:pass	_	_
 9	pagas	pagar	VERB	VERB	_	6	acl:inf	_	SpaceAfter=No
-10	.	_	PUNCT	.	_	1	punct	_	_
+10	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
 
@@ -48,7 +48,7 @@ The following 4 pairs of parts of speech are connected with `acl:inf`: <tt><a hr
 3	nada	_	PRON	PRON	_	2	obj	_	_
 4	a	_	ADP	ADP	_	5	mark	_	_
 5	perder	perder	VERB	VERB	_	3	acl:inf	_	SpaceAfter=No
-6	!	_	PUNCT	.	_	2	punct	_	_
+6	!	!	PUNCT	.	_	2	punct	_	_
 
 ~~~
 
@@ -67,7 +67,7 @@ The following 4 pairs of parts of speech are connected with `acl:inf`: <tt><a hr
 6	por	por	ADP	ADP	_	8	case	_	_
 7	os	o	DET	DET	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	policiais	policial	NOUN	NOUN	_	5	nmod	_	SpaceAfter=No
-9	.	_	PUNCT	.	_	2	punct	_	_
+9	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 

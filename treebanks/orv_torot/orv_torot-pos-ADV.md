@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of ADV in UD_Old_Russian-TOROT'
+title:  'Statistics of ADV in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: POS Tags: `ADV`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: POS Tags: `ADV`
 
 There are 460 `ADV` lemmas (5%), 808 `ADV` types (2%) and 13387 `ADV` tokens (9%).
 Out of 14 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 6 in number of tokens.
@@ -70,7 +70,7 @@ The 10 most frequent ambiguous types:  <em>же</em> (<tt><a href="orv_torot-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.756522 (the average of all parts of speech is 3.571089).
+The form / lemma ratio of `ADV` is 1.756522 (the average of all parts of speech is 3.571475).
 
 The 1st highest number of forms (11) was observed with the lemma “же”: <em>ж, жа, же, жи, жо, жъ, жь, ж҃, иже, ше, єже</em>.
 

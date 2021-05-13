@@ -23,12 +23,12 @@ The following 16 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 1	fgColor:white
 # visual-style 1 7 parataxis	color:blue
 1	Қой	қой	VERB	v	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	SpaceAfter=No
-2	,	,	PUNCT	cm	_	1	punct	_	_
+2	,	,	PUNCT	cm	_	7	punct	_	_
 3	қазақ	қазақ	NOUN	n	Case=Nom	7	nsubj	_	_
 4	бұлармен	бұл	PRON	prn	Case=Ins|Number=Plur|PronType=Dem	7	obl	_	_
 5	не	не	PRON	prn	Case=Nom|PronType=Int	6	obj	_	_
 6	ғып	қыл	VERB	v	Aspect=Perf|VerbForm=Conv	7	advcl	_	_
-7	соғыса	соқ	VERB	v	Aspect=Imp|VerbForm=Cov|Voice=Coop	1	parataxis	_	_
+7	соғыса	соқ	VERB	v	Aspect=Imp|VerbForm=Inf|Voice=Rcp	1	parataxis	_	_
 8	алсын	ал	AUX	vaux	Mood=Opt|Number=Sing|Person=3|VerbForm=Fin	7	aux	_	SpaceAfter=No
 9	?	?	PUNCT	sent	_	1	punct	_	_
 
@@ -42,7 +42,7 @@ The following 16 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 4	fgColor:white
 # visual-style 4 1 parataxis	color:blue
 1	Мерекелеріңізбен	мереке	NOUN	n	Case=Ins|Number=Plur|Number[psor]=Sing|Person[psor]=2|Polite=Form	4	parataxis	_	SpaceAfter=No
-2	,	,	PUNCT	cm	_	4	punct	_	_
+2	,	,	PUNCT	cm	_	1	punct	_	_
 3	қымбатты	қымбатты	ADJ	adj	_	4	amod	_	_
 4	отандастар	отандас	NOUN	n	Case=Nom|Number=Plur	0	root	_	SpaceAfter=No
 5	!	!	PUNCT	sent	_	4	punct	_	_

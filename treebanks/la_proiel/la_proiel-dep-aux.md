@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="la_proiel-dep-aux-pass.html">aux:pass</a></tt>.
 
-757 nodes (0%) are attached to their parents as `aux`.
+755 nodes (0%) are attached to their parents as `aux`.
 
-624 instances of `aux` (82%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.13077939233818.
+622 instances of `aux` (82%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.12185430463576.
 
-The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (714; 94% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (19; 3% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (10; 1% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (713; 94% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (19; 3% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (10; 1% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

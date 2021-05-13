@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  多多 (<tt><a href="yue_hk-pos-PROPN.htm
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.242424 (the average of all parts of speech is 1.622766).
+The form / lemma ratio of `PROPN` is 1.242424 (the average of all parts of speech is 1.624294).
 
 The 1st highest number of forms (19) was observed with the lemma “_”: 塗謹申, 姚松炎, 明, 李慧瓊, 梁, 梁君彥, 梁天琦, 梁美芬, 梁耀忠, 梁頌恆, 梁頌恒, 毛孟靜, 英國, 許智峰, 謝偉俊, 陳志全, 陳直, 陳維安, 香港.
 

@@ -11,7 +11,7 @@ It occurs with 2 different values: `Neg`, `Pos`.
 
 282700 tokens (57%) have a non-empty value of `Polarity`.
 66283 types (106%) occur at least once with a non-empty value of `Polarity`.
-27615 lemmas (97%) occur at least once with a non-empty value of `Polarity`.
+27610 lemmas (97%) occur at least once with a non-empty value of `Polarity`.
 The feature is used with 7 part-of-speech tags: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (136183; 28% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (72710; 15% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (40597; 8% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (12200; 2% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (10619; 2% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (9819; 2% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (572; 0% instances).
 
 ### `NOUN`
@@ -39,7 +39,7 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>činnosti</em></td><td></td></tr>
 </table>
 
-`Polarity` seems to be **lexical feature** of `NOUN`. 99% lemmas (11063) occur only with one value of `Polarity`.
+`Polarity` seems to be **lexical feature** of `NOUN`. 99% lemmas (11058) occur only with one value of `Polarity`.
 
 ### `ADJ`
 
@@ -299,7 +299,7 @@ The 10 most frequent relations where parent and child node agree in `Polarity`:
 <tt>VERB --[<tt><a href="cs_cac-dep-obl.html">obl</a></tt>]--> NOUN</tt> (15695; 95%),
 <tt>NOUN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> NOUN</tt> (14040; 99%),
 <tt>VERB --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (12009; 92%),
-<tt>VERB --[<tt><a href="cs_cac-dep-obj.html">obj</a></tt>]--> NOUN</tt> (11836; 95%),
+<tt>VERB --[<tt><a href="cs_cac-dep-obj.html">obj</a></tt>]--> NOUN</tt> (11835; 95%),
 <tt>VERB --[<tt><a href="cs_cac-dep-obl-arg.html">obl:arg</a></tt>]--> NOUN</tt> (6086; 94%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-obl.html">obl</a></tt>]--> NOUN</tt> (5354; 98%),
 <tt>VERB --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (5036; 88%),

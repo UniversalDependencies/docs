@@ -14,7 +14,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 252252 tokens (51%) have a non-empty value of `Gender`.
 58315 types (93%) occur at least once with a non-empty value of `Gender`.
-25144 lemmas (88%) occur at least once with a non-empty value of `Gender`.
+25139 lemmas (88%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 8 part-of-speech tags: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (136144; 28% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (73917; 15% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (15317; 3% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (10568; 2% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (9808; 2% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (2847; 1% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (2452; 0% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (1199; 0% instances).
 
 ### `NOUN`
@@ -47,7 +47,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>letech</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (11076) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (11071) occur only with one value of `Gender`.
 
 ### `ADJ`
 
@@ -192,7 +192,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 2847 <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> tokens (18% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2847; 100%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (2535; 89%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2102; 74%), <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (1913; 67%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1575; 55%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2847; 100%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (2535; 89%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2102; 74%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1575; 55%), <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (1454; 51%).
 
 `PRON` tokens may have the following values of `Gender`:
 
@@ -205,17 +205,17 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>oni</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>jeho</em></td><td></td><td><em>ji</em></td><td><em>je</em></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt>|<tt><a href="cs_cac-feat-Style.html">Style</a></tt><tt>=Arch</tt></tt></td><td></td><td><em>jej</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td></td><td><em>něj, něho</em></td><td><em>ni</em></td><td><em>ně</em></td></tr>
-  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jeho</em></td><td></td><td><em>ji</em></td><td><em>je</em></td></tr>
-  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Style.html">Style</a></tt><tt>=Arch</tt></tt></td><td></td><td><em>jej</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td><em>ho</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td></td><td><em>jemu</em></td><td><em>jí</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td></td><td><em>němu</em></td><td><em>ní</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>jemu</em></td><td><em>jí</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td><em>mu</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td><em>jeho</em></td><td><em>jej</em></td><td><em>jí</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td></td><td><em>něho, něj</em></td><td><em>ní</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jeho</em></td><td><em>jej</em></td><td><em>jí</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt></tt></td><td></td><td><em>jím</em></td><td><em>jí</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td></td><td><em>ním</em></td><td><em>ní</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>jím</em></td><td><em>jí</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td></td><td><em>něm</em></td><td><em>ní</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>on</em></td><td></td><td><em>ona</em></td><td><em>ono</em></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>ony</em></td><td></td></tr>

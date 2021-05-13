@@ -70,7 +70,7 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 3	jeg	jeg	PRON	_	Case=Nom|Gender=Com|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 4	at	at	PART	_	PartType=Inf	5	mark	_	_
 5	arbejde	arbejde	VERB	_	VerbForm=Inf|Voice=Act	2	obj	_	_
-6	her	her	ADV	_	_	5	obl:loc	_	_
+6	her	her	ADV	_	_	5	advmod:lmod	_	_
 7	-	-	PUNCT	_	_	4	punct	_	_
 8	at	at	PART	_	PartType=Inf	9	mark	_	_
 9	gøre	gøre	VERB	_	VerbForm=Inf|Voice=Act	4	xcomp	_	_

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Tatiana Lando, Olga Loginova, Martin Popel, Daniel Zeman, Kira Droganova.
 
 Repository: [UD_Russian-PUD](https://github.com/UniversalDependencies/UD_Russian-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_pud27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_pud28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 3.0
 
@@ -108,7 +108,7 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 121 types of words that contain both letters and punctuation. Examples: н., э., из-за, г., гг., что-то, 1960-х, 1970-х, е., по-другому, т., 1980-х, 1990-х, Wi-Fi, Жолио-Кюри, Юго-Восточной, г-жа, г-жи, какое-либо, кто-то, премьер-министр, сколько-нибудь, 10-недельный, 1350-е, 16-го, 1950-е, 1960-е, 2000-х, 28-летняя, 3-го, 31-го, 4-м, 45-го, 53-летнюю, 66-процентное, 8-м, 96-м, B-29, Didn't, E., Zettel’s, А​з​и​а​т​с​к​о​-​Т​и​х​о​о​к​е​а​н​с​к​о​м, Беверли-Хиллз, Богдо-гэгэн, Богдо-гэгэна, Богдо-гэгэне, Буэнос-Айреса, Вест-Индию, Во-первых, Восточно-Африканский</li>
+<li>This corpus contains 121 types of words that contain both letters and punctuation. Examples: н., э., из-за, г., гг., что-то, 1960-х, 1970-х, е., по-другому, т., 1980-х, 1990-х, Wi-Fi, Жолио-Кюри, Юго-Восточной, г-жа, г-жи, какое-либо, кто-то, премьер-министр, сколько-нибудь, 10-недельный, 1350-е, 16-го, 1950-е, 1960-е, 2000-х, 28-летняя, 3-го, 31-го, 4-м, 45-го, 53-летнюю, 66-процентное, 8-м, 96-м, B-29, Didn't, E., Zettel’s, Азиатско-Тихоокеанском, Беверли-Хиллз, Богдо-гэгэн, Богдо-гэгэна, Богдо-гэгэне, Буэнос-Айреса, Вест-Индию, Во-первых, Восточно-Африканский</li>
 </ul>
 
 <ul>
@@ -408,7 +408,6 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: лучше, выше, меньше, поответственней</li>
       <li>ADV: более, больше, менее, ранее, лучше, позже, раньше, чаще, Позднее, безопаснее</li>
-      <li>NUM: больше</li>
     </ul>
   </li>
 </ul>
@@ -418,7 +417,6 @@ employ ten-fold cross-validation.
     <ul>
       <li>ADJ: другие, первой, других, многие, новые, самым, новых, последние, Северной, большой</li>
       <li>ADV: также, еще, где, так, там, очень, уже, все, примерно, часто</li>
-      <li>VERB: можно, надо</li>
     </ul>
   </li>
 </ul>

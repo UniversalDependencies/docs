@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="et_ewt-dep-acl.html">acl</a></tt>.
 
-567 nodes (1%) are attached to their parents as `acl:relcl`.
+496 nodes (1%) are attached to their parents as `acl:relcl`.
 
-565 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.1957671957672.
+495 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.85685483870968.
 
-The following 23 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (334; 59% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (111; 20% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (24; 4% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (18; 3% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (14; 2% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (13; 2% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (10; 2% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (317; 64% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (95; 19% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (22; 4% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (14; 3% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (10; 2% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (10; 2% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,9 +23,9 @@ The following 23 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 2	fgColor:white
 # visual-style 2 8 acl:relcl	color:blue
 1	Füüsilist	füüsiline	ADJ	A	Case=Par|Degree=Pos|Number=Sing	2	amod	2:amod	_
-2	keha	keha	NOUN	S	Case=Par|Number=Sing	12	obj	12:obj	SpaceAfter=No
+2	keha	keha	NOUN	S	Case=Par|Number=Sing	12	obj	8:obj|12:obj	SpaceAfter=No
 3	,	,	PUNCT	Z	_	8	punct	8:punct	_
-4	mis	mis	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	8	obj	8:obj	_
+4	mis	mis	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	8	obj	2:ref	_
 5	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	8:aux	_
 6	sulle	sina	PRON	P	Case=All|Number=Sing|Person=2|PronType=Prs	8	obl	8:obl	_
 7	eluks	elu	NOUN	S	Case=Tra|Number=Sing	8	obl	8:obl	_
@@ -49,9 +49,9 @@ The following 23 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 2	peaks	pidama	AUX	V	Mood=Cnd|Number=Sing|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	4:aux	_
 3	arve	arve	NOUN	S	Case=Gen|Number=Sing	4	obj	4:obj	_
 4	tasuma	tasuma	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	0	root	0:root	_
-5	see	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	4	nsubj	4:nsubj	SpaceAfter=No
+5	see	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	4	nsubj	4:nsubj|9:nsubj	SpaceAfter=No
 6	,	,	PUNCT	Z	_	9	punct	9:punct	_
-7	kes	kes	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	9	nsubj	9:nsubj	_
+7	kes	kes	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	9	nsubj	5:ref	_
 8	välja	välja	ADV	D	_	9	compound:prt	9:compound	_
 9	kutsub	kutsuma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	5:acl	SpaceAfter=No
 10	.	.	PUNCT	Z	_	4	punct	4:punct	_
@@ -66,9 +66,9 @@ The following 23 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 2	fgColor:white
 # visual-style 2 7 acl:relcl	color:blue
 1	Või	või	CCONJ	J	_	2	cc	2:cc	_
-2	poisile	poiss	NOUN	S	Case=All|Number=Sing	0	root	0:root	SpaceAfter=No
+2	poisile	poiss	NOUN	S	Case=All|Number=Sing	0	root	0:root|7:nsubj:cop	SpaceAfter=No
 3	,	,	PUNCT	Z	_	7	punct	7:punct	_
-4	kes	kes	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	7	nsubj:cop	7:nsubj	_
+4	kes	kes	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	7	nsubj:cop	2:ref	_
 5	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	7:cop	_
 6	nii	nii	ADV	D	_	7	advmod	7:advmod	_
 7	andekas	andekas	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	2	acl:relcl	2:acl	SpaceAfter=No

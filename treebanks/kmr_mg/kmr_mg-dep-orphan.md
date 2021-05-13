@@ -22,7 +22,7 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 13 orphan	color:blue
-1	Holmes	Holmes	PROPN	np	Case=Obl|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+1	Holmes	Holmes	PROPN	np	Case=Acc|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 2	:	:	PUNCT	sent	_	7	punct	_	_
 3	Belê	belê	INTJ	ij	_	7	discourse	_	_
 4	ev	ev	DET	det	Case=Nom|Gender=Fem,Masc|Number=Plur,Sing|PronType=Dem	5	det	_	_
@@ -32,7 +32,7 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 8	xwe	xwe	PRON	prn	Gender=Fem,Masc|Number=Plur,Sing|PronType=Prs|Reflex=Yes	7	nmod:poss	_	_
 9	de	de	ADP	post	AdpType=Post	7	case	_	_
 10	ye	bûn	AUX	vbcop	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	SpaceAfter=No
-11	;	;	PUNCT	sent	_	1	punct	_	_
+11	;	;	PUNCT	sent	_	12	punct	_	_
 12	heye	hebûn	AUX	vbhaver	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
 13	ko	ku	SCONJ	cnjsub	_	12	orphan	_	SpaceAfter=No
 14	...	...	PUNCT	sent	_	1	punct	_	_
@@ -47,7 +47,7 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 9	fgColor:white
 # visual-style 9 2 orphan	color:blue
 1	Di	di	ADP	pr	AdpType=Prep	2	case	_	_
-2	yekê	yek	NUM	num	Case=Obl|Definite=Def|Number=Sing|NumType=Card	9	orphan	_	_
+2	yekê	yek	NUM	num	Case=Acc|Definite=Def|Number=Sing|NumType=Card	9	orphan	_	_
 3	de	de	ADP	post	AdpType=Post	2	case	_	_
 4	Dr.	Dr.	NOUN	abbr	_	0	root	_	_
 5	di	di	ADP	pr	AdpType=Prep	6	case	_	_

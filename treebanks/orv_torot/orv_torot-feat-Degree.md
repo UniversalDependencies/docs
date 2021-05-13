@@ -1,24 +1,24 @@
 ---
 layout: base
-title:  'Statistics of Degree in UD_Old_Russian-TOROT'
+title:  'Statistics of Degree in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Features: `Degree`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Features: `Degree`
 
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-9694 tokens (6%) have a non-empty value of `Degree`.
-5051 types (16%) occur at least once with a non-empty value of `Degree`.
-1381 lemmas (15%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 3 part-of-speech tags: <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (9488; 6% instances), <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (205; 0% instances), <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+9693 tokens (6%) have a non-empty value of `Degree`.
+5050 types (16%) occur at least once with a non-empty value of `Degree`.
+1380 lemmas (15%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 2 part-of-speech tags: <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> (9488; 6% instances), <tt><a href="orv_torot-pos-ADV.html">ADV</a></tt> (205; 0% instances).
 
 ### `ADJ`
 
 9488 <tt><a href="orv_torot-pos-ADJ.html">ADJ</a></tt> tokens (61% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9488; 100%), <tt><a href="orv_torot-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (9488; 100%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6871; 72%), <tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=Weak</tt> (5682; 60%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5266; 56%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="orv_torot-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9488; 100%), <tt><a href="orv_torot-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (9488; 100%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6871; 72%), <tt><a href="orv_torot-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (5882; 62%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5266; 56%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
@@ -29,27 +29,26 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 <table>
   <tr><th>Paradigm <i>старыи</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
-  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td></td><td><em>стареишии</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td><em>старыя</em></td><td><em>стареишии, стареишиѥ, старѣишии</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td><em>старую</em></td><td><em>старѣишюю, старѣшюю</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=Strong</tt></tt></td><td><em>стару</em></td><td><em>старѣишю</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td><em>старому</em></td><td><em>старѣишему</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=Strong</tt></tt></td><td></td><td><em>старѣишим, старѣишимъ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td><em>старымъ, старꙑмъ</em></td><td><em>старѣишимъ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=Strong</tt></tt></td><td></td><td><em>старѣиша</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td><em>стараго</em></td><td><em>старѣишаго, стареишаго, старѣишааго, старѣишаг</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td><em>старꙑхъ</em></td><td><em>старѣиших, старѣишихъ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=Strong</tt></tt></td><td><em>стары</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td><em>стараго</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td><em>старыми</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td><em>старых</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>старѣи</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=Strong</tt></tt></td><td><em>старъ</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td><em>старыи</em></td><td><em>старѣишии, старѣе, старѣи, старѣишеи</em></td><td><em>старѣишеи</em></td></tr>
-  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td></td><td><em>старѣишии</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td></td><td><em>старѣишаꙗ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td><em>старыѧ</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_torot-feat-Strength.html">Strength</a></tt><tt>=Weak</tt></tt></td><td></td><td><em>старѣе, старѣишее</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>стареишии</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>старыя</em></td><td><em>стареишии, стареишиѥ, старѣишии</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>старую</em></td><td><em>старѣишюю, старѣшюю</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>старому</em></td><td><em>старѣишему</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_torot-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>стару</em></td><td><em>старѣишю</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>старымъ, старꙑмъ</em></td><td><em>старѣишимъ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="orv_torot-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td><em>старѣишим, старѣишимъ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>стараго</em></td><td><em>старѣишаго, стареишаго, старѣишааго, старѣишаг</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_torot-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td><em>старѣиша</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>старꙑхъ</em></td><td><em>старѣиших, старѣишихъ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_torot-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>стары</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>стараго</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>старыми</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>старых</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>старыи</em></td><td><em>старѣи, старѣишии, старѣе, старѣишеи</em></td><td><em>старѣишеи</em></td></tr>
+  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="orv_torot-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>старъ</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>старѣишии</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>старѣишаꙗ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>старыѧ</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>старѣе, старѣишее</em></td><td></td></tr>
 </table>
 
 `Degree` seems to be **lexical feature** of `ADJ`. 98% lemmas (1292) occur only with one value of `Degree`.
@@ -67,17 +66,6 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `EMPTY` (13182): <em>же, не, бо, и, тако, то, да, ли, пакы, ꙗко</em>
 
 `Degree` seems to be **lexical feature** of `ADV`. 100% lemmas (58) occur only with one value of `Degree`.
-
-### `PROPN`
-
-1 <tt><a href="orv_torot-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Degree`.
-
-The most frequent other feature values with which `PROPN` and `Degree` co-occurred: <tt><a href="orv_torot-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="orv_torot-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="orv_torot-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
-
-`PROPN` tokens may have the following values of `Degree`:
-
-* `Pos` (1; 100% of non-empty `Degree`): <em>гюргевичь</em>
-* `EMPTY` (9879): <em>володимеръ, изѧславъ, всеволодъ, ст҃ополкъ, гюрги, дв҃дъ, ярославъ, ѡлегъ, русь, мьстиславъ</em>
 
 ## Relations with Agreement in `Degree`
 

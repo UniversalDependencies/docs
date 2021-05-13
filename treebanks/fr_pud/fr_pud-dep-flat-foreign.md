@@ -24,9 +24,9 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 # visual-style 9	fgColor:white
 # visual-style 9 10 flat:foreign	color:blue
 1	Mais	mais	CCONJ	CC	_	5	discourse	_	wordform=mais
-2	c’	ce	PRON	PDEM	_	5	nsubj	_	SpaceAfter=No|wordform=c'
+2	c’	ce	PRON	PDEM	PronType=Dem	5	nsubj	_	SpaceAfter=No|wordform=c'
 3	est	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	l’	le	DET	DT	Gender=Fem|Number=Sing	5	det	_	SpaceAfter=No|wordform=l'
+4	l’	le	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No|wordform=l'
 5	élection	élection	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	9	punct	_	_
 7	pas	pas	ADV	RB	Polarity=Neg	9	advmod	_	_

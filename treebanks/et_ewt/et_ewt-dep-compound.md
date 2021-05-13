@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `compound`: <tt><a href="et_ewt-dep-compound-prt.html">compound:prt</a></tt>.
 
-18 nodes (0%) are attached to their parents as `compound`.
+38 nodes (0%) are attached to their parents as `compound`.
 
-11 instances of `compound` (61%) are right-to-left (child precedes parent).
+31 instances of `compound` (82%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 5 pairs of parts of speech are connected with `compound`: <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (12; 67% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (2; 11% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (2; 11% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (1; 6% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 6% instances).
+The following 5 pairs of parts of speech are connected with `compound`: <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (32; 84% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 5 pairs of parts of speech are connected with `compound`: <tt><a h
 4	võis	võima	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	aux	5:aux	_
 5	rääkida	rääkima	VERB	V	VerbForm=Inf	0	root	0:root	_
 6	12	12	NUM	N	NumForm=Digit|NumType=Card	8	nummod	8:nummod	_
-7	miljonist	miljon	NUM	N	Case=Ela|Number=Sing|NumType=Card	6	compound	6:compound	_
+7	miljonist	miljon	NUM	N	Case=Ela|Number=Sing|NumForm=Word|NumType=Card	6	compound	6:compound	_
 8	kilovatt-tunnist	kilo_vatt-tund	NOUN	S	Case=Ela|Number=Sing	5	obl	5:obl	SpaceAfter=No
 9	.	.	PUNCT	Z	_	5	punct	5:punct	_
 
@@ -54,9 +54,9 @@ The following 5 pairs of parts of speech are connected with `compound`: <tt><a h
 10	midagi	miski	PRON	P	Case=Par|Number=Sing|PronType=Ind	1	conj	1:conj	_
 11	suur	suur	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	12	amod	12:amod	_
 12	tänu	tänu	NOUN	S	Case=Nom|Number=Sing	1	conj	1:conj	_
-13	kõigile	kõik	PRON	P	Case=All|Number=Plur|PronType=Tot	12	nmod	12:nmod	SpaceAfter=No
+13	kõigile	kõik	PRON	P	Case=All|Number=Plur|PronType=Tot	12	nmod	12:nmod|16:nsubj	SpaceAfter=No
 14	,	,	PUNCT	Z	_	16	punct	16:punct	_
-15	kes	kes	PRON	P	Case=Nom|Number=Plur|PronType=Int,Rel	16	nsubj	16:nsubj	_
+15	kes	kes	PRON	P	Case=Nom|Number=Plur|PronType=Int,Rel	16	nsubj	13:ref	_
 16	võtavad	võtma	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl:relcl	13:acl	_
 17	vaevaks	vaev	NOUN	S	Case=Tra|Number=Sing	16	xcomp	16:xcomp	_
 18	tööde	töö	NOUN	S	Case=Gen|Number=Plur	20	nmod	20:nmod	_

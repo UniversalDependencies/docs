@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Ind`.
 
-126 tokens (15%) have a non-empty value of `Mood`.
-106 types (23%) occur at least once with a non-empty value of `Mood`.
-82 lemmas (22%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (108; 13% instances), <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (18; 2% instances).
+125 tokens (15%) have a non-empty value of `Mood`.
+105 types (23%) occur at least once with a non-empty value of `Mood`.
+81 lemmas (22%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (107; 13% instances), <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (18; 2% instances).
 
 ### `VERB`
 
-108 <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> tokens (73% of all `VERB` tokens) have a non-empty value of `Mood`.
+107 <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> tokens (73% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (108; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (87; 81%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt> (84; 78%), <tt><a href="koi_uh-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (79; 73%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (71; 66%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (107; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (86; 80%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt> (83; 78%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (73; 68%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (2; 2% of non-empty `Mood`): <em>осьт</em>
-* `Ind` (106; 98% of non-empty `Mood`): <em>зэрӧ, босьтіс, быдмис, гижис, котӧртіс, краситӧм, краситӧма, петас, пондыліс, тшӧктіс</em>
-* `EMPTY` (39): <em>вӧтны, адззыв, боньгыныт, бырӧм, бӧрйыны, вежӧртӧ, вермы, видзчисьны, воштісьны, гленитчы</em>
+* `Ind` (105; 98% of non-empty `Mood`): <em>зэрӧ, босьтіс, быдмис, гижис, котӧртіс, краситӧм, краситӧма, петас, пондыліс, тшӧктіс</em>
+* `EMPTY` (40): <em>вӧтны, адззыв, боньгыныт, бырӧм, бӧрйыны, вежӧртӧ, вермы, видзчисьны, воштісьны, гардчӧмкодь</em>
 
-`Mood` seems to be **lexical feature** of `VERB`. 100% lemmas (78) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 100% lemmas (77) occur only with one value of `Mood`.
 
 ### `AUX`
 

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-PUD: POS Tags: `X`
 
 There are 152 `X` lemmas (3%), 152 `X` types (2%) and 180 `X` tokens (1%).
-Out of 16 observed tags, the rank of `X` is: 7 in number of lemmas, 7 in number of types and 14 in number of tokens.
+Out of 15 observed tags, the rank of `X` is: 7 in number of lemmas, 7 in number of types and 14 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>of, the, a, City, El, Ground, My, Punta, Really, You</em>
 
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="fr_pud-pos-AUX.h
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.295763).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.297529).
 
 The 1st highest number of forms (1) was observed with the lemma “'Ya”: <em>'Ya</em>.
 
@@ -75,7 +75,7 @@ Examples: <em>of, the, a, Association, City, El, Ground, My, Punta, Really</em>
 
 `X` nodes are attached to their parents using 12 different relations: <tt><a href="fr_pud-dep-flat-foreign.html">flat:foreign</a></tt> (113; 63% instances), <tt><a href="fr_pud-dep-appos.html">appos</a></tt> (23; 13% instances), <tt><a href="fr_pud-dep-nmod.html">nmod</a></tt> (15; 8% instances), <tt><a href="fr_pud-dep-obl.html">obl</a></tt> (8; 4% instances), <tt><a href="fr_pud-dep-conj.html">conj</a></tt> (6; 3% instances), <tt><a href="fr_pud-dep-fixed.html">fixed</a></tt> (3; 2% instances), <tt><a href="fr_pud-dep-goeswith.html">goeswith</a></tt> (3; 2% instances), <tt><a href="fr_pud-dep-nsubj.html">nsubj</a></tt> (3; 2% instances), <tt><a href="fr_pud-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="fr_pud-dep-root.html">root</a></tt> (2; 1% instances), <tt><a href="fr_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 1% instances), <tt><a href="fr_pud-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
 
-Parents of `X` nodes belong to 8 different parts of speech: <tt><a href="fr_pud-pos-X.html">X</a></tt> (118; 66% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (40; 22% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (13; 7% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (4; 2% instances),  (2; 1% instances), <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances)
+Parents of `X` nodes belong to 9 different parts of speech: <tt><a href="fr_pud-pos-X.html">X</a></tt> (118; 66% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (39; 22% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (13; 7% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (4; 2% instances),  (2; 1% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances)
 
 119 (66%) `X` nodes are leaves.
 

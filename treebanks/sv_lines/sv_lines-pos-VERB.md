@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>var</em> (<tt><a href="sv_lines-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 1.971779 (the average of all parts of speech is 1.416999).
+The form / lemma ratio of `VERB` is 1.971779 (the average of all parts of speech is 1.416904).
 
 The 1st highest number of forms (11) was observed with the lemma “fylla”: <em>fylla, fyllande, fyllas, fylld, fyllda, fyllde, fylldes, fyller, fylls, fyllt, fyllts</em>.
 
@@ -65,9 +65,9 @@ The 3rd highest number of forms (10) was observed with the lemma “skriva”: <
 
 `VERB` occurs with 11 features: <tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt> (11357; 100% instances), <tt><a href="sv_lines-feat-Voice.html">Voice</a></tt> (11196; 98% instances), <tt><a href="sv_lines-feat-Mood.html">Mood</a></tt> (7443; 65% instances), <tt><a href="sv_lines-feat-Tense.html">Tense</a></tt> (6735; 59% instances), <tt><a href="sv_lines-feat-Case.html">Case</a></tt> (34; 0% instances), <tt><a href="sv_lines-feat-Number.html">Number</a></tt> (18; 0% instances), <tt><a href="sv_lines-feat-Definite.html">Definite</a></tt> (3; 0% instances), <tt><a href="sv_lines-feat-Gender.html">Gender</a></tt> (2; 0% instances), <tt><a href="sv_lines-feat-Degree.html">Degree</a></tt> (1; 0% instances), <tt><a href="sv_lines-feat-Poss.html">Poss</a></tt> (1; 0% instances), <tt><a href="sv_lines-feat-PronType.html">PronType</a></tt> (1; 0% instances)
 
-`VERB` occurs with 24 feature-value pairs: `Case=Gen`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Degree=Pos`, `Gender=Com`, `Gender=Neut`, `Mood=Imp`, `Mood=Ind`, `Mood=Opt`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Poss=Yes`, `PronType=Prs`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `VerbForm=Sup`, `Voice=Act`, `Voice=Mid`, `Voice=Pass`
+`VERB` occurs with 22 feature-value pairs: `Case=Gen`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Degree=Pos`, `Gender=Com`, `Gender=Neut`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Poss=Yes`, `PronType=Prs`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`, `VerbForm=Sup`, `Voice=Act`, `Voice=Pass`
 
-`VERB` occurs with 36 feature combinations.
+`VERB` occurs with 34 feature combinations.
 The most frequent feature combination is `Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act` (4173 tokens).
 Examples: <em>sa, var, hade, gick, kom, såg, sade, tog, fick, stod</em>
 

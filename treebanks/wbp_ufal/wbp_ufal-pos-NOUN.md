@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Warlpiri-UFAL: POS Tags: `NOUN`
 
-There are 26 `NOUN` lemmas (42%), 40 `NOUN` types (38%) and 107 `NOUN` tokens (34%).
+There are 26 `NOUN` lemmas (43%), 40 `NOUN` types (38%) and 107 `NOUN` tokens (34%).
 Out of 8 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 1 in number of tokens.
 
 The 10 most frequent `NOUN` lemmas: <em>ngarrka, kurdu, karli, karnta, maliki, miyi, wawirri, pirli, karru, nantuwu</em>
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.538462 (the average of all parts of speech is 1.693548).
+The form / lemma ratio of `NOUN` is 1.538462 (the average of all parts of speech is 1.721311).
 
 The 1st highest number of forms (4) was observed with the lemma “karnta”: <em>Karntagku, karnta, karntaku, karntangku</em>.
 

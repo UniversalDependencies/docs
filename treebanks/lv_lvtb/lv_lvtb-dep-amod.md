@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-11390 nodes (5%) are attached to their parents as `amod`.
+13164 nodes (5%) are attached to their parents as `amod`.
 
-11344 instances of `amod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.3945566286216.
+13113 instances of `amod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.39076268611364.
 
-The following 26 pairs of parts of speech are connected with `amod`: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (8959; 79% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (2201; 19% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (79; 1% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (36; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (25; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 28 pairs of parts of speech are connected with `amod`: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (9868; 75% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (3031; 23% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (88; 1% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (38; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (31; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (18; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (15; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -36,18 +36,16 @@ The following 26 pairs of parts of speech are connected with `amod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 amod	color:blue
-1	Viens	viens	NUM	mcsmsn	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	2	nsubj	2:nsubj	LvtbNodeId=a-d197-p110s2w1
-2	atgādināja	atgādināt	VERB	vmnist330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d197-p110s2w2
-3	kādu	kāds	DET	pi0msan	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	6	det	6:det	LvtbNodeId=a-d197-p110s2w3
-4	televīzijā	televīzija	NOUN	ncfsl4	Case=Loc|Gender=Fem|Number=Sing	5	obl	5:obl:loc	LvtbNodeId=a-d197-p110s2w4
-5	redzētu	redzēt	VERB	vmnpdmsapsnpn	Aspect=Perf|Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	6	amod	6:amod	LvtbNodeId=a-d197-p110s2w5
-6	žurnālistu	žurnālists	NOUN	ncmsa1	Case=Acc|Gender=Masc|Number=Sing	2	obj	2:obj	LvtbNodeId=a-d197-p110s2w6|SpaceAfter=No
-7	.	.	PUNCT	zs	_	2	punct	2:punct	LvtbNodeId=a-d197-p110s2w7
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 amod	color:blue
+1	Pēdējā	pēdējā	ADJ	affsnyp	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	4	amod	4:amod	LvtbNodeId=a-d178-p1240s1w1
+2	sniegotā	sniegot	VERB	vmnpdfsnppypn	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Pass	4	amod	4:amod	LvtbNodeId=a-d178-p1240s1w2
+3	svētdienas	svētdiena	NOUN	ncfsg4	Case=Gen|Gender=Fem|Number=Sing	4	nmod	4:nmod:gen	LvtbNodeId=a-d178-p1240s1w3
+4	novakare	novakare	NOUN	ncfsn5	Case=Nom|Gender=Fem|Number=Sing	0	root	0:root	LvtbNodeId=a-d178-p1240s1w4|SpaceAfter=No
+5	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-d178-p1240s1w5
 
 ~~~
 

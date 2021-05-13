@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 The following people have contributed to making this treebank part of UD: Marcos Garcia.
 
 Repository: [UD_Galician-TreeGal](https://github.com/UniversalDependencies/UD_Galician-TreeGal)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgl_treegal27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgl_treegal28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: LGPL-LR
 
@@ -93,7 +93,7 @@ Galician-TreeGal v0.42 contains 1000 sentences of the xeral corpus (~25k tokens)
 </ul>
 
 <ul>
-<li>This corpus contains 32 types of words that contain both letters and punctuation. Examples: PSdeG-PSOE, etc., Costa-Gavras, (in)cultura, BNG-PSOE, Barros', CIG-ensino, Campos', Cunqueiro:, D., Dulcinea,, F., Galego-portuguesa, Oops..., P., PSOE-BNG, Qué!, R., S., Silencio,, again!, best-sellers, centro-esquerda, cow-boy, d'Estudis, económico-financeira, g​a​l​e​g​o​-​p​o​r​t​u​g​u​é​s​-​b​r​a​s​i​l​e​i​r​o, m​a​n​u​e​l​m​a​r​i​a​@​a​s​-​p​g​.​c​o​m, sex-shop, www.bng-galiza.org, www.novoestatuto.com, xurídico-público</li>
+<li>This corpus contains 32 types of words that contain both letters and punctuation. Examples: PSdeG-PSOE, etc., Costa-Gavras, (in)cultura, BNG-PSOE, Barros', CIG-ensino, Campos', Cunqueiro:, D., Dulcinea,, F., Galego-portuguesa, Oops..., P., PSOE-BNG, Qué!, R., S., Silencio,, again!, best-sellers, centro-esquerda, cow-boy, d'Estudis, económico-financeira, galego-portugués-brasileiro, manuelmaria@as-pg.com, sex-shop, www.bng-galiza.org, www.novoestatuto.com, xurídico-público</li>
 </ul>
 
 <ul>

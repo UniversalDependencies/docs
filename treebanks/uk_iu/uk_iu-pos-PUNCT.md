@@ -44,9 +44,9 @@ The 3rd highest number of forms (1) was observed with the lemma “!!!”: <em>!
 
 `PUNCT` occurs with 1 features: <tt><a href="uk_iu-feat-PunctType.html">PunctType</a></tt> (4179; 18% instances)
 
-`PUNCT` occurs with 5 feature-value pairs: `PunctType=Bull`, `PunctType=Dash`, `PunctType=Hyph`, `PunctType=Ndash`, `PunctType=Quot`
+`PUNCT` occurs with 2 feature-value pairs: `PunctType=Dash`, `PunctType=Quot`
 
-`PUNCT` occurs with 6 feature combinations.
+`PUNCT` occurs with 3 feature combinations.
 The most frequent feature combination is `_` (18938 tokens).
 Examples: <em>,, ., ), (, :, !, ?, ..., ;, …</em>
 
@@ -55,7 +55,7 @@ Examples: <em>,, ., ), (, :, !, ?, ..., ;, …</em>
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="uk_iu-dep-punct.html">punct</a></tt> (23117; 100% instances)
 
-Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (11494; 50% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (5930; 26% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (2068; 9% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (1293; 6% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (941; 4% instances), <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (481; 2% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt> (246; 1% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (208; 1% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt> (177; 1% instances), <tt><a href="uk_iu-pos-INTJ.html">INTJ</a></tt> (131; 1% instances), <tt><a href="uk_iu-pos-PART.html">PART</a></tt> (100; 0% instances), <tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (16; 0% instances), <tt><a href="uk_iu-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> (10; 0% instances), <tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="uk_iu-pos-AUX.html">AUX</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="uk_iu-pos-VERB.html">VERB</a></tt> (11492; 50% instances), <tt><a href="uk_iu-pos-NOUN.html">NOUN</a></tt> (5933; 26% instances), <tt><a href="uk_iu-pos-ADJ.html">ADJ</a></tt> (2067; 9% instances), <tt><a href="uk_iu-pos-ADV.html">ADV</a></tt> (1293; 6% instances), <tt><a href="uk_iu-pos-PROPN.html">PROPN</a></tt> (941; 4% instances), <tt><a href="uk_iu-pos-NUM.html">NUM</a></tt> (481; 2% instances), <tt><a href="uk_iu-pos-X.html">X</a></tt> (246; 1% instances), <tt><a href="uk_iu-pos-PRON.html">PRON</a></tt> (208; 1% instances), <tt><a href="uk_iu-pos-DET.html">DET</a></tt> (177; 1% instances), <tt><a href="uk_iu-pos-INTJ.html">INTJ</a></tt> (131; 1% instances), <tt><a href="uk_iu-pos-PART.html">PART</a></tt> (100; 0% instances), <tt><a href="uk_iu-pos-CCONJ.html">CCONJ</a></tt> (16; 0% instances), <tt><a href="uk_iu-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="uk_iu-pos-SYM.html">SYM</a></tt> (10; 0% instances), <tt><a href="uk_iu-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances), <tt><a href="uk_iu-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="uk_iu-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
 23112 (100%) `PUNCT` nodes are leaves.
 

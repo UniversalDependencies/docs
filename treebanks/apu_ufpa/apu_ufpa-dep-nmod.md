@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: <tt><a href="apu_ufpa-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-18 nodes (3%) are attached to their parents as `nmod`.
+19 nodes (3%) are attached to their parents as `nmod`.
 
-15 instances of `nmod` (83%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.16666666666667.
+16 instances of `nmod` (84%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.15789473684211.
 
-The following 4 pairs of parts of speech are connected with `nmod`: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (10; 56% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (6; 33% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (1; 6% instances).
+The following 4 pairs of parts of speech are connected with `nmod`: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (11; 58% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (6; 32% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (1; 5% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 4 pairs of parts of speech are connected with `nmod`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 nmod	color:blue
-1	Awa	Awa	VERB	XPOS=existir	_	0	root	_	gloss[pt]=existir
+1	Awa	awa	VERB	XPOS=existir	_	0	root	_	gloss[pt]=existir
 2	sytu	sytu	NOUN	XPOS=mulher	_	1	nsubj	_	gloss[pt]=mulher
 3	awa	awa	VERB	XPOS=existir	_	1	conj	_	gloss[pt]=existir
 4	kãkiti	kãkiti	NOUN	N	Gender=Masc	6	nmod:poss	_	gloss[pt]=gente

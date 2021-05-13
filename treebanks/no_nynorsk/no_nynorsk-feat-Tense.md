@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Past`, `Pres`.
 
-32357 tokens (11%) have a non-empty value of `Tense`.
-2072 types (7%) occur at least once with a non-empty value of `Tense`.
-1204 lemmas (5%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (17317; 6% instances), <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (15040; 5% instances).
+32398 tokens (11%) have a non-empty value of `Tense`.
+2100 types (7%) occur at least once with a non-empty value of `Tense`.
+1230 lemmas (5%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (17358; 6% instances), <tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (15040; 5% instances).
 
 ### `VERB`
 
-17317 <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Tense`.
+17358 <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> tokens (56% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="no_nynorsk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (17317; 100%), <tt><a href="no_nynorsk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (17317; 100%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="no_nynorsk-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (17358; 100%), <tt><a href="no_nynorsk-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (17358; 100%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (5056; 29% of non-empty `Tense`): <em>fekk, kom, hadde, gjekk, sa, vart, var, tok, gjorde, såg</em>
-* `Pres` (12261; 71% of non-empty `Tense`): <em>har, seier, er, kjem, får, meiner, går, blir, ser, gjer</em>
-* `EMPTY` (11463): <em>få, ha, ta, gå, sjå, bli, fått, gjere, hatt, gje</em>
+* `Past` (5058; 29% of non-empty `Tense`): <em>fekk, kom, hadde, gjekk, sa, vart, var, tok, gjorde, såg</em>
+* `Pres` (12300; 71% of non-empty `Tense`): <em>har, seier, er, kjem, får, meiner, går, blir, ser, gjer</em>
+* `EMPTY` (13365): <em>få, ha, ta, gå, sjå, bli, fått, sett, gjort, hatt</em>
 
 <table>
   <tr><th>Paradigm <i>ha</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -41,7 +41,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 * `Past` (3185; 21% of non-empty `Tense`): <em>var, vart, hadde, kunne, skulle, ville, måtte, blei, burde, fekk</em>
 * `Pres` (11855; 79% of non-empty `Tense`): <em>er, har, kan, skal, vil, må, blir, vert, bør, får</em>
-* `EMPTY` (1675): <em>vore, vere, vera, ha, bli, få, kunna, kunne, blitt, vorte</em>
+* `EMPTY` (1684): <em>vore, vere, vera, ha, bli, få, kunna, kunne, blitt, vorte</em>
 
 <table>
   <tr><th>Paradigm <i>vere</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -51,6 +51,6 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> VERB</tt> (1331; 68%),
+<tt>VERB --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> VERB</tt> (1333; 62%),
 <tt>VERB --[<tt><a href="no_nynorsk-dep-flat-name.html">flat:name</a></tt>]--> VERB</tt> (1; 100%).
 

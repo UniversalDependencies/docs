@@ -75,7 +75,7 @@ Examples: كل، أحد، أي، إحدى، عدة، بعض، آخر، جميع�
 
 ## Relations
 
-`DET` nodes are attached to their parents using 2 different relations: <tt><a href="ar_pud-dep-det-predet.html">det:predet</a></tt> (162; 98% instances), <tt><a href="ar_pud-dep-det.html">det</a></tt> (4; 2% instances)
+`DET` nodes are attached to their parents using 1 different relations: <tt><a href="ar_pud-dep-det.html">det</a></tt> (166; 100% instances)
 
 Parents of `DET` nodes belong to 6 different parts of speech: <tt><a href="ar_pud-pos-NOUN.html">NOUN</a></tt> (131; 79% instances), <tt><a href="ar_pud-pos-PRON.html">PRON</a></tt> (18; 11% instances), <tt><a href="ar_pud-pos-ADJ.html">ADJ</a></tt> (6; 4% instances), <tt><a href="ar_pud-pos-PROPN.html">PROPN</a></tt> (6; 4% instances), <tt><a href="ar_pud-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="ar_pud-pos-NUM.html">NUM</a></tt> (2; 1% instances)
 

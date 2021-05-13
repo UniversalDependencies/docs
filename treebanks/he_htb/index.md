@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Yoav Goldberg, Reut Tsarfaty, Amir More, Shoval Sadde, Victoria Basmov.
 
 Repository: [UD_Hebrew-HTB](https://github.com/UniversalDependencies/UD_Hebrew-HTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhe_htb27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhe_htb28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -110,21 +110,21 @@ is forthcoming.
 
 ## Features
 
-[Abbr](he_htb-feat-Abbr.html) – [Case](he_htb-feat-Case.html) – [Definite](he_htb-feat-Definite.html) – [Gender](he_htb-feat-Gender.html) – [HebBinyan](he_htb-feat-HebBinyan.html) – [HebExistential](he_htb-feat-HebExistential.html) – [HebSource](he_htb-feat-HebSource.html) – [Mood](he_htb-feat-Mood.html) – [Number](he_htb-feat-Number.html) – [Person](he_htb-feat-Person.html) – [Polarity](he_htb-feat-Polarity.html) – [Prefix](he_htb-feat-Prefix.html) – [PronType](he_htb-feat-PronType.html) – [Reflex](he_htb-feat-Reflex.html) – [Tense](he_htb-feat-Tense.html) – [VerbForm](he_htb-feat-VerbForm.html) – [VerbType](he_htb-feat-VerbType.html) – [Voice](he_htb-feat-Voice.html) – [Xtra](he_htb-feat-Xtra.html)
+[Abbr](he_htb-feat-Abbr.html) – [Case](he_htb-feat-Case.html) – [Definite](he_htb-feat-Definite.html) – [Gender](he_htb-feat-Gender.html) – [HebBinyan](he_htb-feat-HebBinyan.html) – [HebExistential](he_htb-feat-HebExistential.html) – [Mood](he_htb-feat-Mood.html) – [Number](he_htb-feat-Number.html) – [Person](he_htb-feat-Person.html) – [Polarity](he_htb-feat-Polarity.html) – [Prefix](he_htb-feat-Prefix.html) – [PronType](he_htb-feat-PronType.html) – [Reflex](he_htb-feat-Reflex.html) – [Tense](he_htb-feat-Tense.html) – [VerbForm](he_htb-feat-VerbForm.html) – [VerbType](he_htb-feat-VerbType.html) – [Voice](he_htb-feat-Voice.html)
 
 ## Relations
 
-[acl](he_htb-dep-acl.html) – [acl:relcl](he_htb-dep-acl-relcl.html) – [advcl](he_htb-dep-advcl.html) – [advmod](he_htb-dep-advmod.html) – [amod](he_htb-dep-amod.html) – [appos](he_htb-dep-appos.html) – [aux](he_htb-dep-aux.html) – [case](he_htb-dep-case.html) – [case:acc](he_htb-dep-case-acc.html) – [case:gen](he_htb-dep-case-gen.html) – [cc](he_htb-dep-cc.html) – [ccomp](he_htb-dep-ccomp.html) – [compound:affix](he_htb-dep-compound-affix.html) – [compound:smixut](he_htb-dep-compound-smixut.html) – [conj](he_htb-dep-conj.html) – [cop](he_htb-dep-cop.html) – [csubj](he_htb-dep-csubj.html) – [dep](he_htb-dep-dep.html) – [det](he_htb-dep-det.html) – [det:def](he_htb-dep-det-def.html) – [discourse](he_htb-dep-discourse.html) – [dislocated](he_htb-dep-dislocated.html) – [fixed](he_htb-dep-fixed.html) – [flat:name](he_htb-dep-flat-name.html) – [goeswith](he_htb-dep-goeswith.html) – [mark](he_htb-dep-mark.html) – [mark:q](he_htb-dep-mark-q.html) – [nmod](he_htb-dep-nmod.html) – [nmod:poss](he_htb-dep-nmod-poss.html) – [nsubj](he_htb-dep-nsubj.html) – [nsubj:cop](he_htb-dep-nsubj-cop.html) – [nummod](he_htb-dep-nummod.html) – [obj](he_htb-dep-obj.html) – [obl](he_htb-dep-obl.html) – [parataxis](he_htb-dep-parataxis.html) – [punct](he_htb-dep-punct.html) – [root](he_htb-dep-root.html) – [xcomp](he_htb-dep-xcomp.html)
+[acl](he_htb-dep-acl.html) – [acl:relcl](he_htb-dep-acl-relcl.html) – [advcl](he_htb-dep-advcl.html) – [advmod](he_htb-dep-advmod.html) – [amod](he_htb-dep-amod.html) – [appos](he_htb-dep-appos.html) – [aux](he_htb-dep-aux.html) – [case](he_htb-dep-case.html) – [case:acc](he_htb-dep-case-acc.html) – [case:gen](he_htb-dep-case-gen.html) – [cc](he_htb-dep-cc.html) – [ccomp](he_htb-dep-ccomp.html) – [compound:affix](he_htb-dep-compound-affix.html) – [compound:smixut](he_htb-dep-compound-smixut.html) – [conj](he_htb-dep-conj.html) – [cop](he_htb-dep-cop.html) – [csubj](he_htb-dep-csubj.html) – [dep](he_htb-dep-dep.html) – [det](he_htb-dep-det.html) – [discourse](he_htb-dep-discourse.html) – [dislocated](he_htb-dep-dislocated.html) – [fixed](he_htb-dep-fixed.html) – [flat:name](he_htb-dep-flat-name.html) – [mark](he_htb-dep-mark.html) – [mark:q](he_htb-dep-mark-q.html) – [nmod](he_htb-dep-nmod.html) – [nmod:poss](he_htb-dep-nmod-poss.html) – [nsubj](he_htb-dep-nsubj.html) – [nsubj:cop](he_htb-dep-nsubj-cop.html) – [nummod](he_htb-dep-nummod.html) – [obj](he_htb-dep-obj.html) – [obl](he_htb-dep-obl.html) – [parataxis](he_htb-dep-parataxis.html) – [punct](he_htb-dep-punct.html) – [root](he_htb-dep-root.html) – [xcomp](he_htb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 6216 sentences, 115535 tokens and 161417 syntactic words.</li>
+<li>This corpus contains 6216 sentences, 115529 tokens and 161411 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 19497 tokens (17%) that are not followed by a space.</li>
+<li>This corpus contains 19491 tokens (17%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -132,7 +132,7 @@ is forthcoming.
 </ul>
 
 <ul>
-<li>This corpus contains 1013 types of words that contain both letters and punctuation. Examples: ה_, _של_, _הוא, _הם, _היא, ל_, ב_, את_, של_, _הן, _אני, _אנחנו, ש"ח, על_, מן_, ארה"ב, אל_, יו"ר, צה"ל, _אתה, מנכ"ל, ח"כ, עם_, יד_, דבר_, שם_, בין_, בית_, בריה"ם, חבר_, בית"ר, תפקיד_, ד"ר, פנים_, דרך_, חיים_, חלק_, חו"ל, מוות_, ראש_, _אתם, בן_, לפי_, עו"ד, פה_, מ"ר, מד"א, סוף_, עין_, איש_</li>
+<li>This corpus contains 1014 types of words that contain both letters and punctuation. Examples: ה_, _של_, _הוא, _הם, _היא, ל_, ב_, את_, של_, _הן, _אני, _אנחנו, ש"ח, על_, מן_, ארה"ב, אל_, יו"ר, צה"ל, _אתה, מנכ"ל, ח"כ, עם_, יד_, דבר_, שם_, בין_, בית_, בריה"ם, חבר_, בית"ר, תפקיד_, ד"ר, פנים_, דרך_, חיים_, חלק_, חו"ל, מוות_, עו"ד, ראש_, _אתם, בן_, לפי_, פה_, מ"ר, מד"א, סוף_, עין_, איש_</li>
 </ul>
 
 <ul>
@@ -180,7 +180,7 @@ is forthcoming.
   <li>Inf
   <ul>
     <li>AUX: להיות</li>
-    <li>VERB: לעשות, לתת, לשלם, לפנות, למנוע, לבצע, לחיות, לקבל, למצוא, לצפות</li>
+    <li>VERB: לעשות, לתת, לשלם, לחיות, לפנות, למנוע, לבצע, לקבל, למצוא, לצפות</li>
   </ul>
   </li>
 </ul>
@@ -332,7 +332,7 @@ is forthcoming.
   <li>Tem
     <ul>
       <li>ADP: כש, מ, מש</li>
-      <li>NUM: 20.30, 20.00, 01.00, 1.2.19, 1.6.90, 13.11, 14.3.89, 15.459.00, 16.11, 2.3.3</li>
+      <li>NUM: 20.30, 20.00, 01.00, 1.2.19, 1.6.90, 13.00, 13.11, 14.3.89, 15.459.00, 16.11</li>
       <li>SCONJ: כש, מש</li>
     </ul>
   </li>
@@ -359,6 +359,7 @@ is forthcoming.
   <li>Def
     <ul>
       <li>ADP: אותו_, אותו</li>
+      <li>DET: ה, ה_</li>
       <li>NOUN: יד_, דבר_, שם_, בית_, חבר_, תפקיד_, פנים_, דרך_, חיים_, חלק_</li>
       <li>PRON: אותו, אותה, אותם, אותן</li>
     </ul>
@@ -509,7 +510,7 @@ is forthcoming.
 <ul>
   <li>Int
     <ul>
-      <li>ADV: מה, מי, האם, מדוע, כיצד, איך, למה, היכן, איזו, איפה</li>
+      <li>ADV: מה, מי, האם, כיצד, מדוע, איך, למה, היכן, איזו, איפה</li>
       <li>PRON: איזו, מהו, מיהו, אילו, מהם, מהן, מיהם</li>
     </ul>
   </li>
@@ -668,53 +669,9 @@ is forthcoming.
 <ul>
   <li><a>HebExistential</a>
     <ul>
-      <li>True
+      <li>Yes
         <ul>
           <li>VERB: יש, אין, היו, היה, יהיה, יהיו, היתה, תהיה, ישנם, הייה</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li><a>HebSource</a>
-    <ul>
-      <li>ConvUncertainHead
-        <ul>
-          <li>ADJ: יתר, אובססיווית, בריטית, גבוהה, חסרת, יתרה, מוריצית, פוליטי, רחוק, אבוד</li>
-          <li>ADP: ל, מ, אימת, ב, עוד, את, עד</li>
-          <li>ADV: יותר, לא, גם, למעלה, אי, עוד, פחות, בלבד, כן, מדי</li>
-          <li>AUX: אפשר, היו, יכול, להיות, נוכל, אין, אינם, אסור, היא, הן</li>
-          <li>AUX-Inf: להיות</li>
-          <li>AUX-Part: אינם, היא, הן, יכול, מאפשרים</li>
-          <li>CCONJ: ו, אלא, או, אך, למשל, כלומר, אבל, אף</li>
-          <li>DET: כל, כמה</li>
-          <li>INTJ: חלילה</li>
-          <li>NOUN: בן, הכל, %, איש, אונו, פאפא, רב, תל, אביב, בד</li>
-          <li>NUM: 0, 1, 2, 3, 4, 9, 11, 6, 04, 411</li>
-          <li>PRON: _הם, _הוא, כן, כך, _אנחנו, _הן, אלה, זאת, _היא, הוא</li>
-          <li>PROPN: ירושלים, אוקטובר, אאק, אולימפיאקוס, אורלאנדו, אלי, בן, ברקוביץ, גאד, וושינגטון</li>
-          <li>PUNCT: ,, ., -, :, ;, ?, ", ), !, (</li>
-          <li>SCONJ: ש, כי, אם, ה, כאשר</li>
-          <li>VERB: אין, יכלו, יש, תוכיח, יודע, לבצע, לחיות, לנהל, לקבל, אוכלים</li>
-          <li>VERB-Inf: לבצע, לחיות, לנהל, לקבל, להגיע, להחליף, להילחם, לזרוע, לכהן, למלא</li>
-          <li>VERB-Part: יודע, אוכלים, מדובר, מנהלים, משתמשים, עולה, עולות, קולטים, רוצים, אומרת</li>
-          <li>X: ביילין, ה, הרים, ו, י"ש, מילואה, צעדים</li>
-        </ul>
-      </li>
-      <li>ConvUncertainLabel
-        <ul>
-          <li>ADJ: ראשון, ארצית, ישראלי, אזורי, ארצי, ז"ל, משמעתי, אדומים, אוטונומיים, אחרונה</li>
-          <li>ADP: מ, מן</li>
-          <li>ADV: עכשיו, מה</li>
-          <li>CCONJ: ו</li>
-          <li>DET: ה_</li>
-          <li>NOUN: מועצות, מספר, ש"ח, מולדת, ברית, נאורלוג, עבודה, פיתוח, בע"ם, דרכים</li>
-          <li>NUM: 14, 1991, 4, 74, 75, 87591, 4.00, שתיים, תשע</li>
-          <li>PRON: אלה, זאת</li>
-          <li>PROPN: יריחו, שרון, אברהם, אוגוסט, אפי, אפריקה, בוכום, גיימס, גנואה, האמבורג</li>
-          <li>VERB-Part: חולים, כועס, נראה, רכוב</li>
         </ul>
       </li>
     </ul>
@@ -726,7 +683,7 @@ is forthcoming.
     <ul>
       <li>Yes
         <ul>
-          <li>ADV: אי, בלתי, בין, אנטי, דו, קדם, תת, חד, פרו, אין</li>
+          <li>ADV: אי, בלתי, בין, אנטי, תת, דו, קדם, חד, פרו, נאו</li>
         </ul>
       </li>
     </ul>
@@ -747,18 +704,6 @@ is forthcoming.
         <ul>
           <li>AUX: אפשר, יש, יכול, ייתכן, צריך, אין, קשה, יכולה, ניתן, אמור</li>
           <li>AUX-Part: יכול, יכולה, יכולים, מאפשרת, מאפשר, יכולות, מאפשרים, מאפשרות, מתאפשרת</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li><a>Xtra</a>
-    <ul>
-      <li>Junk
-        <ul>
-          <li>X: ה, קפידבין, ב, קפספבין, ה_, קפכות, קפספקו, ו, בנקים, יחסים</li>
         </ul>
       </li>
     </ul>
@@ -840,7 +785,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>case:acc</a>, <a>case:gen</a>, <a>compound:affix</a>, <a>compound:smixut</a>, <a>det:def</a>, <a>flat:name</a>, <a>mark:q</a>, <a>nmod:poss</a>, <a>nsubj:cop</a></li>
+<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>case:acc</a>, <a>case:gen</a>, <a>compound:affix</a>, <a>compound:smixut</a>, <a>flat:name</a>, <a>mark:q</a>, <a>nmod:poss</a>, <a>nsubj:cop</a></li>
 <li>The following 2 main types are not used alone, they are always subtyped: <a>compound</a>, <a>flat</a></li>
-<li>The following 7 relation types are not used in this corpus at all: <a>iobj</a>, <a>vocative</a>, <a>expl</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>reparandum</a></li>
+<li>The following 8 relation types are not used in this corpus at all: <a>iobj</a>, <a>vocative</a>, <a>expl</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

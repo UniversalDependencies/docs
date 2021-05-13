@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of vocative in UD_Old_Russian-RNC'
+title:  'Statistics of vocative in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Relations: `vocative`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Relations: `vocative`
 
 This relation is universal.
 
@@ -69,7 +69,7 @@ The following 7 pairs of parts of speech are connected with `vocative`: <tt><a h
 12	отннѣ	отнынѣ	ADV	_	Abbr=Yes|Degree=Pos	3	advmod	_	Norm=отннѣ|SpaceAfter=Yes
 13	и	и	CCONJ	_	_	15	cc	_	Norm=и|SpaceAfter=Yes
 14	до	до	ADP	_	_	15	case	_	Norm=до|SpaceAfter=Yes
-15	века	векъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	12	conj	_	Norm=века|SpaceAfter=No
+15	века	векъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	12	conj	_	Norm=века
 
 ~~~
 

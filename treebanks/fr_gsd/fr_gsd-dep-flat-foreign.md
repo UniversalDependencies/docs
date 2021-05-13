@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="fr_gsd-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="fr_gsd-dep-flat-name.html">flat:name</a></tt>.
 
-943 nodes (0%) are attached to their parents as `flat:foreign`.
+962 nodes (0%) are attached to their parents as `flat:foreign`.
 
-943 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.03817603393425.
+962 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.03742203742204.
 
-The following 9 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (921; 98% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (6; 1% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (6; 1% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (950; 99% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (6; 1% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (6; 1% instances).
 
 
 ~~~ conllu
@@ -47,7 +47,7 @@ The following 9 pairs of parts of speech are connected with `flat:foreign`: <tt>
 # visual-style 3 4 flat:foreign	color:blue
 1	Lilly	Lilly	X	_	Foreign=Yes	8	nsubj	_	Lang=en
 2	Wood	Wood	X	_	Foreign=Yes	1	flat:foreign	_	Lang=en
-3	&	&	SYM	_	Foreign=Yes	2	flat:foreign	_	Lang=en
+3	&	&	SYM	_	_	2	flat:foreign	_	_
 4	The	The	X	_	Foreign=Yes	3	flat:foreign	_	Lang=en
 5	Prick	Prick	X	_	Foreign=Yes	4	flat:foreign	_	Lang=en
 6	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:tense	_	_
@@ -81,7 +81,7 @@ The following 9 pairs of parts of speech are connected with `flat:foreign`: <tt>
 # visual-style 2 3 flat:foreign	color:blue
 1	Lilly	Lilly	X	_	Foreign=Yes	8	nsubj	_	Lang=en
 2	Wood	Wood	X	_	Foreign=Yes	1	flat:foreign	_	Lang=en
-3	&	&	SYM	_	Foreign=Yes	2	flat:foreign	_	Lang=en
+3	&	&	SYM	_	_	2	flat:foreign	_	_
 4	The	The	X	_	Foreign=Yes	3	flat:foreign	_	Lang=en
 5	Prick	Prick	X	_	Foreign=Yes	4	flat:foreign	_	Lang=en
 6	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:tense	_	_

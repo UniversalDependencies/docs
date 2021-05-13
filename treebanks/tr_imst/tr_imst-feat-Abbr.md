@@ -36,7 +36,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (25; 100% of non-empty `Abbr`): <em>CHP, DYP, AKP, İMKB'nin, AKP'nin, CHP'den, DYP'de, DYP'ye</em>
-* `EMPTY` (2185): <em>Kerem, Türkiye, Ayhan, Kemal, Ramiz, Recep, Türkiye'nin, Mebrure, Gül, Naci</em>
+* `EMPTY` (2186): <em>Kerem, Türkiye, Ayhan, Kemal, Ramiz, Recep, Türkiye'nin, Mebrure, Gül, Naci</em>
 
 ## Relations with Agreement in `Abbr`
 

@@ -27,7 +27,7 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 3	Тамминэн	Тамминэн	PROPN	_	Case=Nom	2	flat	_	_
 4	мүнөөдэр	мүнөөдэр	ADV	_	_	6	advmod	_	_
 5	лекци	лекци	NOUN	_	Case=Nom	6	obj	_	_
-6	уншана	унша	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No
+6	уншана	унша	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
@@ -57,15 +57,15 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 2	-	-	PUNCT	_	_	1	punct	_	SpaceAfter=No
 3	баян	баян	NOUN	_	Case=Nom	4	amod	_	_
 4	дайда	дайда	NOUN	_	Case=Nom	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	4	punct	_	_
-6	һүүлдэ	һүүлдэ	NOUN	_	Case=Nom	15	advmod	_	_
+5	,	,	PUNCT	_	_	15	punct	_	_
+6	һүүлдэ	һүүлдэ	NOUN	_	Case=Nom	15	obl	_	_
 7	бөө	бөө	NOUN	_	Case=Nom	15	nsubj	_	_
 8	Михуулай	Михуулай	PROPN	_	Case=Nom	9	compound	_	_
 9	баабай	баабай	NOUN	_	Case=Nom	7	appos	_	SpaceAfter=No
-10	-	-	PUNCT	_	_	15	punct	_	SpaceAfter=No
+10	-	-	PUNCT	_	_	7	punct	_	SpaceAfter=No
 11	Магдан	Магдан	PROPN	_	Case=Nom|Gender=Masc	14	compound	_	_
 12	Магна	Магна	PROPN	_	Case=Nom|Gender=Masc	11	flat	_	_
-13	гэжэ	гэ	VERB	_	VerbForm=Coverb	14	discourse	_	_
+13	гэжэ	гэ	VERB	_	VerbForm=Inf	14	discourse	_	_
 14	нэрэ	нэрэ	NOUN	_	Case=Nom	15	obj	_	_
 15	үгэһэн	үгэ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
 16	юм	юм	AUX	_	Evident=Fh	15	discourse	_	SpaceAfter=No

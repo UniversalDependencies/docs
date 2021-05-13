@@ -24,7 +24,7 @@ The following 8 pairs of parts of speech are connected with `nsubj`: <tt><a href
 # visual-style 3 5 nsubj	color:blue
 1	_	_	ADV	inact	_	3	advmod	_	_
 2	_	_	PART	illocprt	_	1	dep:mod	_	_
-3	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	_
+3	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	0	root	_	_
 4	_	_	NUM	num	NumType=Card	5	nummod	_	_
 5	_	_	NOUN	n	Number=Plur	3	nsubj	_	_
 6	_	_	PUNCT	punct	_	3	punct	_	_
@@ -42,7 +42,7 @@ The following 8 pairs of parts of speech are connected with `nsubj`: <tt><a href
 2	_	_	PART	quantprt	_	1	dep:mod	_	_
 3	_	_	PART	discprt	_	1	dep:mod	_	_
 4	_	_	PART	illocprt	_	1	dep:mod	_	_
-5	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	0	root	_	_
+5	_	_	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	0	root	_	_
 6	_	_	VERB	vs	Mood=Ind|Person=3|VerbForm=Ser	5	compound:svc	_	_
 7	_	_	NUM	num	NumType=Card	8	nummod	_	_
 8	_	_	NOUN	n	_	5	obl	_	_
@@ -59,11 +59,11 @@ The following 8 pairs of parts of speech are connected with `nsubj`: <tt><a href
 # visual-style 6	fgColor:white
 # visual-style 6 7 nsubj	color:blue
 1	_	_	NUM	num	NumType=Card	2	nummod	_	_
-2	_	_	VERB	inact	Mood=Ind|Subcat=Int|VerbForm=Inf	6	dislocated	_	_
+2	_	_	VERB	inact	Mood=Ind|Subcat=Intr|VerbForm=Inf	6	dislocated	_	_
 3	_	_	SCONJ	rel	_	2	mark	_	_
 4	_	_	PART	discprt	_	2	dep:mod	_	_
 5	_	_	PART	illocprt	_	2	dep:mod	_	_
-6	_	_	VERB	n:pred	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Vnoun	0	root	_	_
+6	_	_	VERB	n:pred	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Vnoun	0	root	_	_
 7	_	_	PROPN	nprop	_	6	nsubj	_	_
 8	_	_	PUNCT	punct	_	6	punct	_	_
 

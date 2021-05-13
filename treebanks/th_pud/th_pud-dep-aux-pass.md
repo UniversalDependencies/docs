@@ -13,7 +13,7 @@ This relation is a language-specific subtype of <tt><a href="th_pud-dep-aux.html
 87 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.01149425287356.
 
-The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-VERB.html">VERB</a></tt> (87; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="th_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="th_pud-pos-AUX.html">AUX</a></tt> (87; 100% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 3	fgColor:white
 # visual-style 3 2 aux:pass	color:blue
 1	เธอ	_	PRON	PRP	Person=3	3	nsubj:pass	_	SpaceAfter=No
-2	ถูก	_	VERB	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No
+2	ถูก	_	AUX	MD	Voice=Pass	3	aux:pass	_	SpaceAfter=No
 3	ตั้ง	_	VERB	VV	_	0	root	_	SpaceAfter=No
 4	ข้อหา	_	NOUN	NN	_	3	obj	_	SpaceAfter=No
 5	ฐาน	_	ADP	IN	_	6	mark	_	SpaceAfter=No

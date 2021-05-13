@@ -51,7 +51,7 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 4	,	,	PUNCT	CLB	_	6	punct	_	_
 5	а	а	CCONJ	CC	_	6	cc	_	_
 6	брадоц	брад	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	conj	_	GTtags=Sg,Nom,PxSg3
-7	аньцек	аньцек	ADV	_	_	8	advmod	_	_
+7	аньцек	аньцек	ADV	_	_	8	advmod:foc	_	_
 8	велосипед	велосипед	NOUN	_	Case=Nom|Definite=Ind|Number=Sing	6	orphan	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	2	punct	_	_
 

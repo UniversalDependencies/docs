@@ -59,7 +59,7 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 9	,	,	PUNCT	CLB	_	13	punct	_	_
 10	leša	leša	CCONJ	CC	_	13	mark	_	_
 11	mii	mii	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	13	nsubj	_	GTtags=Rel,Sg,Nom
-12	leežž	leeʹd	AUX	Aux	Mood=Pot|Number=Sing|Person=3|Valency=1	13	aux	_	GTtags=IV,Pot,Sg3
+12	leežž	leeʹd	AUX	Aux	Mood=Pot|Number=Sing|Person=3	13	aux	_	GTtags=IV,Pot,Sg3
 13	šõddâm	šõddâd	VERB	V	Aspect=Perf|VerbForm=Part	4	advcl	_	GTtags=Act,PrfPrc
 14	ǥu	ǥu	SCONJ	CS	_	18	mark	_	_
 15	ij	ij	AUX	Aux	Mood=Ind|Number=Sing|Person=3|Polarity=Neg	18	aux:neg	_	GTtags=Neg,Ind,Sg3

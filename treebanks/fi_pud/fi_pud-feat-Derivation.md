@@ -40,18 +40,18 @@ The most frequent other feature values with which `NOUN` and `Derivation` co-occ
 `NOUN` tokens may have the following values of `Derivation`:
 
 * `Inen` (1; 0% of non-empty `Derivation`): <em>aatelisen</em>
-* `Inen,Vs` (14; 3% of non-empty `Derivation`): <em>kokonaisuutena, avarakatseisuutta, h​e​r​o​i​i​n​i​r​i​i​p​p​u​v​u​u​t​e​n​s​a, julkisuudessa, l​ö​y​h​ä​m​o​r​a​a​l​i​s​u​u​t​e​n​a​a​n, ominaisuus, piioksidipitoisuuden, salaisuutensa, samankaltaisuuksia, suolapitoisuuden</em>
+* `Inen,Vs` (14; 3% of non-empty `Derivation`): <em>kokonaisuutena, avarakatseisuutta, heroiiniriippuvuutensa, julkisuudessa, löyhämoraalisuutenaan, ominaisuus, piioksidipitoisuuden, salaisuutensa, samankaltaisuuksia, suolapitoisuuden</em>
 * `Ja` (156; 30% of non-empty `Derivation`): <em>sijoittajat, Tutkijat, opiskelijat, pääjohtaja, Ohjaajan, hallitsija, historioitsijat, johtaja, johtajat, kansanedustajille</em>
 * `Ja,Tar` (1; 0% of non-empty `Derivation`): <em>näyttelijätär</em>
 * `Lainen` (36; 7% of non-empty `Derivation`): <em>kanaanilaisten, kansalaiset, roomalaiset, Hollantilaiset, Kiinalainen, Thaimaalaiset, ammattilaisten, apulainen, apulaisista, eläkeläinen</em>
 * `Lainen,Vs` (3; 1% of non-empty `Derivation`): <em>juutalaisuuteen, kansalaisuus</em>
 * `Llinen` (6; 1% of non-empty `Derivation`): <em>kapinallisia, kourallinen, viholliseksi, vihollisensa, vihollisiaan, vihollistensa</em>
-* `Llinen,Vs` (26; 5% of non-empty `Derivation`): <em>mahdollisuutta, mahdollisuus, teollisuuden, Elokuvateollisuus, j​u​l​k​a​i​s​u​t​e​o​l​l​i​s​u​u​d​e​s​t​a, kaivosteollisuudesta, kansallisuuksia, kaunokirjallisuuden, k​e​m​i​k​a​a​l​i​t​e​o​l​l​i​s​u​u​d​e​n, kirjallisuudesta</em>
+* `Llinen,Vs` (26; 5% of non-empty `Derivation`): <em>mahdollisuutta, mahdollisuus, teollisuuden, Elokuvateollisuus, julkaisuteollisuudesta, kaivosteollisuudesta, kansallisuuksia, kaunokirjallisuuden, kemikaaliteollisuuden, kirjallisuudesta</em>
 * `Minen` (130; 25% of non-empty `Derivation`): <em>löytämistä, saavuttamiseen, tapaamisesta, tuhoutuminen, vainoaminen, Irtisanomisensa, Kokoontumista, aiheuttamiseen, aloittamisesta, antaminen</em>
 * `Tar` (1; 0% of non-empty `Derivation`): <em>herttuattaresta</em>
 * `Ton,Vs` (3; 1% of non-empty `Derivation`): <em>kuolemattomuuden, piittaamattomuus, yhteensopimattomuus</em>
-* `U` (116; 22% of non-empty `Derivation`): <em>avulla, haastattelussa, taistelussa, kasvua, laulun, loppujen, tappelut, -laulustaan, -tuoksu, F​a​c​e​b​o​o​k​-​j​u​l​k​a​i​s​u​i​s​t​a​a​n</em>
-* `Vs` (27; 5% of non-empty `Derivation`): <em>vanhuuteen, -​p​a​l​k​i​n​t​o​t​i​l​a​i​s​u​u​d​e​s​s​a, Kuuluisuudet, Laajuudeltaan, Osuus, avaruuteen, ehdokkuutensa, ehdokkuutta, epämukavuutta, eroavaisuuksia</em>
+* `U` (116; 22% of non-empty `Derivation`): <em>avulla, haastattelussa, taistelussa, kasvua, laulun, loppujen, tappelut, -laulustaan, -tuoksu, Facebook-julkaisuistaan</em>
+* `Vs` (27; 5% of non-empty `Derivation`): <em>vanhuuteen, -palkintotilaisuudessa, Kuuluisuudet, Laajuudeltaan, Osuus, avaruuteen, ehdokkuutensa, ehdokkuutta, epämukavuutta, eroavaisuuksia</em>
 
 <table>
   <tr><th>Paradigm <i>uskollisuus</i></th><th><tt>Inen,Vs</tt></th><th><tt>Llinen,Vs</tt></th></tr>

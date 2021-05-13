@@ -59,12 +59,12 @@ The 2nd highest number of forms (3) was observed with the lemma “ஆயிர�
 
 The 3rd highest number of forms (2) was observed with the lemma “2008”: 2008, 2008-ம்.
 
-`NUM` occurs with 8 features: <tt><a href="ta_ttb-feat-NumForm.html">NumForm</a></tt> (149; 54% instances), <tt><a href="ta_ttb-feat-NumType.html">NumType</a></tt> (114; 42% instances), <tt><a href="ta_ttb-feat-Case.html">Case</a></tt> (16; 6% instances), <tt><a href="ta_ttb-feat-Gender.html">Gender</a></tt> (16; 6% instances), <tt><a href="ta_ttb-feat-Number.html">Number</a></tt> (16; 6% instances), <tt><a href="ta_ttb-feat-Person.html">Person</a></tt> (16; 6% instances), <tt><a href="ta_ttb-feat-Polarity.html">Polarity</a></tt> (14; 5% instances), <tt><a href="ta_ttb-feat-Polite.html">Polite</a></tt> (1; 0% instances)
+`NUM` occurs with 8 features: <tt><a href="ta_ttb-feat-NumType.html">NumType</a></tt> (274; 100% instances), <tt><a href="ta_ttb-feat-NumForm.html">NumForm</a></tt> (149; 54% instances), <tt><a href="ta_ttb-feat-Case.html">Case</a></tt> (16; 6% instances), <tt><a href="ta_ttb-feat-Gender.html">Gender</a></tt> (16; 6% instances), <tt><a href="ta_ttb-feat-Number.html">Number</a></tt> (16; 6% instances), <tt><a href="ta_ttb-feat-Person.html">Person</a></tt> (16; 6% instances), <tt><a href="ta_ttb-feat-Polarity.html">Polarity</a></tt> (14; 5% instances), <tt><a href="ta_ttb-feat-Polite.html">Polite</a></tt> (1; 0% instances)
 
 `NUM` occurs with 13 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Loc`, `Case=Nom`, `Gender=Com`, `Gender=Neut`, `NumForm=Digit`, `NumType=Card`, `NumType=Ord`, `Number=Sing`, `Person=3`, `Polarity=Pos`, `Polite=Form`
 
-`NUM` occurs with 11 feature combinations.
-The most frequent feature combination is `NumForm=Digit` (140 tokens).
+`NUM` occurs with 10 feature combinations.
+The most frequent feature combination is `NumForm=Digit|NumType=Card` (140 tokens).
 Examples: 2, 10, 20, 3, 80, 16, 4, 5, 50, 6
 
 

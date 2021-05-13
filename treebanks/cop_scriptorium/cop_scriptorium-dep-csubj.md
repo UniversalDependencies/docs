@@ -55,7 +55,7 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 2	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	4	mark	_	_
 3	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
 4	ⲉⲓⲣⲉ	ⲉⲓⲣⲉ	VERB	V	VerbForm=Fin	1	acl	_	_
-5	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	_	12	advmod	_	_
+5	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	Foreign=Yes	12	advmod	_	OrigLang=grc
 6	ⲙⲙⲟ	ⲙⲙⲟ	ADP	PREP	_	7	case	_	Orig=ⲙ̄ⲙⲟ
 7	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	4	obj	_	_
 8	ⲛ	ⲛ	ADP	PREP	_	9	case	_	Orig=ⲛ̄
@@ -85,7 +85,7 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 1	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	3	aux	_	_
 2	ⲓ	ⲁⲛⲟⲕ	PRON	PPERS	Definite=Def|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Orig=ⲓ̈
 3	ⲙⲉⲉⲩⲉ	ⲙⲉⲉⲩⲉ	VERB	V	VerbForm=Fin	0	root	_	_
-4	ⲙⲉⲛ	ⲙⲉⲛ	PART	PTC	_	3	advmod	_	Orig=ⲙⲉ⳯
+4	ⲙⲉⲛ	ⲙⲉⲛ	PART	PTC	Foreign=Yes	3	advmod	_	Orig=ⲙⲉ⳯|OrigLang=grc
 5	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing	3	cop	_	_
 6	ⲉ	ⲉ	PART	PREP	_	7	mark	_	_
 7	ⲉⲓ	ⲉⲓ	VERB	V	VerbForm=Inf	3	csubj	_	Orig=ⲉⲓ̂

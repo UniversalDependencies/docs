@@ -23,7 +23,7 @@ The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="m
 # visual-style 8	fgColor:white
 # visual-style 8 6 cc	color:blue
 1	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
-2	हे	हा	DET	_	Distance=Prox|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	_
+2	हे	हा	DET	_	Deixis=Prox|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	_
 3	म्हातारे	म्हातारा	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	4	amod	_	_
 4	शेतकरी	शेतकरी	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
 5	साक्षीदार	साक्षीदार	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
@@ -50,9 +50,9 @@ The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="m
 3	मुलगा	मुलगा	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 4	म्हणून	म्हणून	CCONJ	_	_	3	cc	_	_
 5	राजा	राजा	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	SpaceAfter=No
-6	-	-	PUNCT	_	_	5	punct	_	SpaceAfter=No
+6	-	-	PUNCT	_	_	7	punct	_	SpaceAfter=No
 7	राणी	राणी	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	conj	_	_
-8	त्याला	तो	PRON	_	Case=Dat|Distance=Dist|Gender=Masc|Number=Sing|Person=3	12	obj	_	_
+8	त्याला	तो	PRON	_	Case=Dat|Deixis=Remt|Gender=Masc|Number=Sing|Person=3	12	obj	_	_
 9	जीव	जीव	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	compound:lvc	_	_
 10	की	की	ADV	_	_	9	fixed	_	_
 11	प्राण	प्राण	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	fixed	_	_

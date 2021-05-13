@@ -28,10 +28,10 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 4	übernatürlich	übernatürlich	ADJ	_	_	6	advmod	_	LangID=DE
 5	Milch	Milch	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj:pass	_	LangID=DE
 6	hergestellt	herstellen	VERB	_	VerbForm=Part	0	root	_	LangID=DE
-7	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	LangID=DE|SpaceAfter=No
+7	wird	werden	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	aux:pass	_	LangID=DE|SpaceAfter=No
 8	,	,	PUNCT	_	_	12	punct	_	LangID=OTHER
 9	yani	yani	ADV	_	_	12	advmod	_	LangID=TR
-10	o	o	PRON	_	Case=Nom|Number=Sing|Person=3	12	obl	_	LangID=TR
+10	o	o	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	obl	_	LangID=TR
 11	kadar	kadar	ADP	_	_	10	case	_	LangID=TR
 12	acıdım	acı	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=1|Tense=Past	6	parataxis	_	LangID=TR
 13	ki	ki	SCONJ	_	_	12	mark	_	LangID=TR
@@ -89,7 +89,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 20	wurden	werden	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	19	aux:pass	_	LangID=DE
 21	öldürmek	öl	VERB	_	Case=Nom|Number=Sing|VerbForm=Vnoun|Voice=Cau	19	advcl	_	LangID=TR
 22	için	için	ADP	_	_	21	mark	_	LangID=TR
-23	onları	o	PRON	_	Case=Acc|Number=Plur|Person=3	21	obj	_	LangID=TR|SpaceAfter=No
+23	onları	o	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	21	obj	_	LangID=TR|SpaceAfter=No
 24	.	.	PUNCT	_	_	3	punct	_	LangID=OTHER
 
 ~~~

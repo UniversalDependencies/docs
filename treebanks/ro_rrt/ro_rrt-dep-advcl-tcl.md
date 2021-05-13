@@ -11,9 +11,9 @@ This relation is a language-specific subtype of <tt><a href="ro_rrt-dep-advcl.ht
 100 nodes (0%) are attached to their parents as `advcl:tcl`.
 
 63 instances of `advcl:tcl` (63%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.2.
+Average distance between parent and child is 8.21.
 
-The following 8 pairs of parts of speech are connected with `advcl:tcl`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (87; 87% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (4; 4% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `advcl:tcl`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (88; 88% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (4; 4% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -50,7 +50,7 @@ The following 8 pairs of parts of speech are connected with `advcl:tcl`: <tt><a 
 3	de-a	de-a	ADP	Spsa	AdpType=Prep|Case=Acc	2	fixed	_	_
 4	face	face	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	fixed	_	_
 5	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	_
-6	cazuri	caz	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	2	nmod:pmod	_	_
+6	cazuri	caz	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	2	obl:pmod	_	_
 7	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
 8	abuz	abuz	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	6	nmod	_	_
 9	sexual	sexual	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
@@ -65,7 +65,7 @@ The following 8 pairs of parts of speech are connected with `advcl:tcl`: <tt><a 
 18	mai	mai	ADV	Rp	_	19	advmod	_	_
 19	mari	mare	ADJ	Afp-p-n	Definite=Ind|Degree=Pos|Number=Plur	20	amod	_	_
 20	probleme	problemă	NOUN	Ncfp-n	Definite=Ind|Gender=Fem|Number=Plur	15	nmod	_	_
-21	este	fi	AUX	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	_
+21	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	_
 22	vina	vină	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	0	root	_	_
 23	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	24	case	_	_
 24	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	27	obl	_	_
@@ -89,7 +89,7 @@ The following 8 pairs of parts of speech are connected with `advcl:tcl`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 11 advcl:tcl	color:blue
-1	Poți	putea	VERB	Vmm-2s	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+1	Poți	putea	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	observa	observa	VERB	Vmnp	Tense=Pres|VerbForm=Inf	1	ccomp	_	_
 3	că	că	SCONJ	Csssp	Polarity=Pos	5	mark	_	_
 4	mâncarea	mâncare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	nsubj	_	_

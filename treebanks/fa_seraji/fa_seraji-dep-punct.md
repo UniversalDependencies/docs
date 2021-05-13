@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-13438 nodes (9%) are attached to their parents as `punct`.
+13443 nodes (9%) are attached to their parents as `punct`.
 
-8670 instances of `punct` (65%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.36039589224587.
+9284 instances of `punct` (69%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.7646358699695.
 
-The following 13 pairs of parts of speech are connected with `punct`: <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (7725; 57% instances), <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (3714; 28% instances), <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (1592; 12% instances), <tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt>-<tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (139; 1% instances), <tt><a href="fa_seraji-pos-NUM.html">NUM</a></tt>-<tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (124; 1% instances), <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt>-<tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (77; 1% instances), <tt><a href="fa_seraji-pos-ADP.html">ADP</a></tt>-<tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (38; 0% instances), <tt><a href="fa_seraji-pos-X.html">X</a></tt>-<tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="fa_seraji-pos-AUX.html">AUX</a></tt>-<tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (9; 0% instances), <tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="fa_seraji-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fa_seraji-pos-NUM.html">NUM</a></tt>-<tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `punct`: <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (5681; 42% instances), <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (5436; 40% instances), <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (1446; 11% instances), <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt>-<tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (250; 2% instances), <tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt>-<tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (221; 2% instances), <tt><a href="fa_seraji-pos-NUM.html">NUM</a></tt>-<tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (206; 2% instances), <tt><a href="fa_seraji-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (55; 0% instances), <tt><a href="fa_seraji-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (30; 0% instances), <tt><a href="fa_seraji-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (29; 0% instances), <tt><a href="fa_seraji-pos-X.html">X</a></tt>-<tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (29; 0% instances), <tt><a href="fa_seraji-pos-AUX.html">AUX</a></tt>-<tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (23; 0% instances), <tt><a href="fa_seraji-pos-PART.html">PART</a></tt>-<tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (23; 0% instances), <tt><a href="fa_seraji-pos-ADP.html">ADP</a></tt>-<tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt>-<tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fa_seraji-pos-DET.html">DET</a></tt>-<tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="fa_seraji-pos-NUM.html">NUM</a></tt>-<tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -40,11 +40,11 @@ The following 13 pairs of parts of speech are connected with `punct`: <tt><a hre
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 punct	color:blue
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 punct	color:blue
 1	لندن	لندن	NOUN	N_SING	Number=Sing	0	root	_	_
-2	-	-	PUNCT	DELM	_	1	punct	_	_
+2	-	-	PUNCT	DELM	_	3	punct	_	_
 3	ایرنا	ایرنا	NOUN	N_SING	Number=Sing	1	parataxis	_	SpaceAfter=No
 4	:	:	PUNCT	DELM	_	1	punct	_	_
 

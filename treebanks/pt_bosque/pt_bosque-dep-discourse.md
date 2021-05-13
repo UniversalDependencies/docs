@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-62 nodes (0%) are attached to their parents as `discourse`.
+63 nodes (0%) are attached to their parents as `discourse`.
 
-55 instances of `discourse` (89%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.41935483870968.
+56 instances of `discourse` (89%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.36507936507936.
 
-The following 16 pairs of parts of speech are connected with `discourse`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (28; 45% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (10; 16% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (6; 10% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (5; 8% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (2; 3% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (1; 2% instances).
+The following 16 pairs of parts of speech are connected with `discourse`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (28; 44% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (10; 16% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (6; 10% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (5; 8% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (2; 3% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pt_bosque-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-ADP.html">ADP</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 16 pairs of parts of speech are connected with `discourse`: <tt><a
 3	que	que	PRON	_	Gender=Masc|Number=Sing|PronType=Int	7	obj	_	_
 4	é	ser	AUX	_	_	7	discourse	_	MWE=é_que|MWEPOS=INTJ
 5	que	que	SCONJ	_	_	4	fixed	_	_
-6	vocês	você	PRON	_	Case=Nom|Gender=Unsp|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
+6	vocês	você	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	_
 7	queriam	querer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	1	ccomp	_	SpaceAfter=No
 8	?	?	PUNCT	_	_	1	punct	_	_
 

@@ -29,7 +29,7 @@ The following 33 pairs of parts of speech are connected with `appos`: <tt><a hre
 5	ꙇже	иже	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	ref=MATT_21.11
 6	отъ	отъ	ADP	R-	_	7	case	_	ref=MATT_21.11
 7	назарета	назаретъ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	flat:name	_	ref=MATT_21.11
-8	галилеискааго	галилеискъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc,Neut|Number=Sing|Strength=Weak	7	advmod	_	ref=MATT_21.11
+8	галилеискааго	галилеискъ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc,Neut|Number=Sing	7	advmod	_	ref=MATT_21.11
 
 ~~~
 
@@ -48,7 +48,7 @@ The following 33 pairs of parts of speech are connected with `appos`: <tt><a hre
 6	морѣ	морѥ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	ref=MARK_5.1
 7	въ	въ	ADP	R-	_	8	case	_	ref=MARK_5.1
 8	странѫ	страна	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	appos	_	ref=MARK_5.1
-9	гадаринскѫ	гадариньскъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Strength=Strong	8	amod	_	ref=MARK_5.1
+9	гадаринскѫ	гадариньскъ	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	8	amod	_	ref=MARK_5.1
 
 ~~~
 
@@ -62,7 +62,7 @@ The following 33 pairs of parts of speech are connected with `appos`: <tt><a hre
 1	Г҃ла	глаголати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_11.39
 2	емоу	и	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	iobj	_	ref=JOHN_11.39
 3	сестра	сестра	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	ref=JOHN_11.39
-4	оумеръшааго	оумрѣти	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	3	acl	_	ref=JOHN_11.39
+4	оумеръшааго	оумрѣти	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	3	acl	_	ref=JOHN_11.39
 5	марта	маръта	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	3	appos	_	ref=JOHN_11.39
 
 ~~~

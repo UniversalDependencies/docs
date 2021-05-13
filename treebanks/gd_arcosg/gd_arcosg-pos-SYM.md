@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.253617).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.267179).
 
 The 1st highest number of forms (1) was observed with the lemma “£”: <em>£</em>.
 
@@ -36,11 +36,13 @@ Parents of `SYM` nodes belong to 1 different parts of speech: <tt><a href="gd_ar
 
 0 (0%) `SYM` nodes are leaves.
 
-3 (100%) `SYM` nodes have one child.
+2 (67%) `SYM` nodes have one child.
 
-The highest child degree of a `SYM` node is 1.
+1 (33%) `SYM` nodes have two children.
 
-Children of `SYM` nodes are attached using 1 different relations: <tt><a href="gd_arcosg-dep-nmod.html">nmod</a></tt> (3; 100% instances)
+The highest child degree of a `SYM` node is 2.
 
-Children of `SYM` nodes belong to 1 different parts of speech: <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (3; 100% instances)
+Children of `SYM` nodes are attached using 2 different relations: <tt><a href="gd_arcosg-dep-nummod.html">nummod</a></tt> (3; 75% instances), <tt><a href="gd_arcosg-dep-nmod.html">nmod</a></tt> (1; 25% instances)
+
+Children of `SYM` nodes belong to 2 different parts of speech: <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (3; 75% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 25% instances)
 

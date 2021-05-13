@@ -30,7 +30,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="la_ittb-pos-PART.ht
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (507; 100% of non-empty `Polarity`): <em>neque, nec</em>
-* `EMPTY` (22841): <em>et, autem, sed, uel, scilicet, aut, nec, siue, neque, quam</em>
+* `EMPTY` (22884): <em>et, autem, sed, uel, scilicet, aut, nec, siue, neque, idest</em>
 
 ### `SCONJ`
 
@@ -39,5 +39,5 @@ The feature is used with 3 part-of-speech tags: <tt><a href="la_ittb-pos-PART.ht
 `SCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (207; 100% of non-empty `Polarity`): <em>nisi</em>
-* `EMPTY` (23151): <em>quod, ut, sicut, quia, si, cum, nisi, quam, inquantum, licet</em>
+* `EMPTY` (23155): <em>quod, ut, sicut, quia, si, cum, nisi, quam, inquantum, licet</em>
 

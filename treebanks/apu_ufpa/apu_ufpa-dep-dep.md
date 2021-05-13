@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 5	mãkatxi	mãka	NOUN	XPOS=roupa.de	Possessed=No	4	obj	_	gloss[pt]=roupa.de-N.POSSD|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	ykitimata	kitimata	NOUN	XPOS=3SG.M-pé.de-NC.casca,pele.de	_	5	conj	_	gloss[pt]=3SG.M-pé.de-NC.casca,pele.de
-8	ytanurumunhi	tanuru	NOUN	XPOS=3SG.M-esposa-DAT	_	4	obl	_	gloss[pt]=3SG.M-esposa-DAT|SpaceAfter=No
+8	ytanurumunhi	tanuru	NOUN	XPOS=3SG.M-esposa	Case=Dat	4	obl	_	gloss[pt]=3SG.M-esposa-DAT|SpaceAfter=No
 9	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~

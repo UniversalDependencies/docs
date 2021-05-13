@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-10204 nodes (18%) are attached to their parents as `punct`.
+10375 nodes (18%) are attached to their parents as `punct`.
 
-6815 instances of `punct` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.84731477851823.
+7874 instances of `punct` (76%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.02930120481928.
 
-The following 24 pairs of parts of speech are connected with `punct`: <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (6517; 64% instances), <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (2120; 21% instances), <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (870; 9% instances), <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (201; 2% instances), <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (161; 2% instances), <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (133; 1% instances), <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (66; 1% instances), <tt><a href="tr_imst-pos-INTJ.html">INTJ</a></tt>-<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (27; 0% instances), <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (26; 0% instances), <tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (26; 0% instances), <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (17; 0% instances), <tt><a href="tr_imst-pos-DET.html">DET</a></tt>-<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (11; 0% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (11; 0% instances), <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt>-<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_imst-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="tr_imst-pos-X.html">X</a></tt>-<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_imst-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="tr_imst-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (5519; 53% instances), <tt><a href="tr_imst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (2654; 26% instances), <tt><a href="tr_imst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (980; 9% instances), <tt><a href="tr_imst-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (437; 4% instances), <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (234; 2% instances), <tt><a href="tr_imst-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (224; 2% instances), <tt><a href="tr_imst-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (101; 1% instances), <tt><a href="tr_imst-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (92; 1% instances), <tt><a href="tr_imst-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (46; 0% instances), <tt><a href="tr_imst-pos-INTJ.html">INTJ</a></tt>-<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (45; 0% instances), <tt><a href="tr_imst-pos-DET.html">DET</a></tt>-<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (25; 0% instances), <tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (13; 0% instances), <tt><a href="tr_imst-pos-AUX.html">AUX</a></tt>-<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="tr_imst-pos-X.html">X</a></tt>-<tt><a href="tr_imst-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -40,7 +40,7 @@ The following 24 pairs of parts of speech are connected with `punct`: <tt><a hre
 1	(	(	PUNCT	Punc	_	2	punct	_	SpaceAfter=No
 2	İzninizle	izin	NOUN	Noun	Case=Ins|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=2	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	Punc	_	5	punct	_	_
-4	neden	neden	ADV	Ques	Case=Abl|Number=Sing|Person=3	5	advmod	_	_
+4	neden	neden	ADV	Ques	_	5	advmod	_	_
 5	olmasın	ol	VERB	Verb	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	2	conj	_	SpaceAfter=No
 6	...	...	PUNCT	Punc	_	5	punct	_	_
 
@@ -54,7 +54,7 @@ The following 24 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 8	fgColor:white
 # visual-style 8 5 punct	color:blue
 1	Herkes	herkes	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	nsubj	_	_
-2	istediği	iste	VERB	Verb	Aspect=Perf|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	4	advmod:emph	_	_
+2	istediği	iste	VERB	Verb	Aspect=Perf|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	4	advcl	_	_
 3	gibi	gibi	ADP	PCNom	_	2	case	_	_
 4	sevişiyor	seviş	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	Punc	_	8	punct	_	_

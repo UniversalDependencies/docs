@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Djamé Seddah, Marie Candito, Bruno Guillaume.
 
 Repository: [UD_French-FQB](https://github.com/UniversalDependencies/UD_French-FQB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_fqb27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_fqb28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: LGPL-LR
 
@@ -72,7 +72,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 
 ## POS Tags
 
-[ADJ](fr_fqb-pos-ADJ.html) – [ADP](fr_fqb-pos-ADP.html) – [ADV](fr_fqb-pos-ADV.html) – [AUX](fr_fqb-pos-AUX.html) – [CCONJ](fr_fqb-pos-CCONJ.html) – [DET](fr_fqb-pos-DET.html) – [INTJ](fr_fqb-pos-INTJ.html) – [NOUN](fr_fqb-pos-NOUN.html) – [NUM](fr_fqb-pos-NUM.html) – [PART](fr_fqb-pos-PART.html) – [PRON](fr_fqb-pos-PRON.html) – [PROPN](fr_fqb-pos-PROPN.html) – [PUNCT](fr_fqb-pos-PUNCT.html) – [SCONJ](fr_fqb-pos-SCONJ.html) – [SYM](fr_fqb-pos-SYM.html) – [VERB](fr_fqb-pos-VERB.html) – [X](fr_fqb-pos-X.html)
+[ADJ](fr_fqb-pos-ADJ.html) – [ADP](fr_fqb-pos-ADP.html) – [ADV](fr_fqb-pos-ADV.html) – [AUX](fr_fqb-pos-AUX.html) – [CCONJ](fr_fqb-pos-CCONJ.html) – [DET](fr_fqb-pos-DET.html) – [INTJ](fr_fqb-pos-INTJ.html) – [NOUN](fr_fqb-pos-NOUN.html) – [NUM](fr_fqb-pos-NUM.html) – [PRON](fr_fqb-pos-PRON.html) – [PROPN](fr_fqb-pos-PROPN.html) – [PUNCT](fr_fqb-pos-PUNCT.html) – [SCONJ](fr_fqb-pos-SCONJ.html) – [SYM](fr_fqb-pos-SYM.html) – [VERB](fr_fqb-pos-VERB.html) – [X](fr_fqb-pos-X.html)
 
 ## Features
 
@@ -86,11 +86,11 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 
 
 <ul>
-<li>This corpus contains 2289 sentences, 23583 tokens and 24135 syntactic words.</li>
+<li>This corpus contains 2289 sentences, 23349 tokens and 23901 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2521 tokens (11%) that are not followed by a space.</li>
+<li>This corpus contains 2287 tokens (10%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -98,7 +98,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 </ul>
 
 <ul>
-<li>This corpus contains 118 types of words that contain both letters and punctuation. Examples: l', d', -il, -t, qu', -ce, -elle, -on, -je, États-Unis, s', -ils, j', n', 's, -elles, -vous, Croix-Rouge, C., lorsqu', D., B., J., Sainte-Hélène, afro-américain, m', S., quelqu', vice-président, 'n, -moi, Dr., E., F., Grande-Bretagne, Nouvelle-Zélande, O', Viêt-nam, W., Wal-Mart, nouveau-né, outre-mer, plus-value, t-il, A., Ben-Hur, Blanche-Neige, E.coli, Forty-Niners, H.</li>
+<li>This corpus contains 120 types of words that contain both letters and punctuation. Examples: l', d', qu', -ce, -t-il, -il, -je, -t-elle, États-Unis, -t-on, -elle, s', -ils, -on, j', n', 's, -elles, -vous, Croix-Rouge, C., lorsqu', D., B., J., Sainte-Hélène, afro-américain, m', S., quelqu', vice-président, 'n, -moi, Dr., E., F., Grande-Bretagne, Nouvelle-Zélande, O', Viêt-nam, W., Wal-Mart, nouveau-né, outre-mer, plus-value, t-il, A., Ben-Hur, Blanche-Neige, E.coli</li>
 </ul>
 
 <ul>
@@ -111,11 +111,11 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus does not use the following tags: PART</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 word types tagged as particles (PART): -t</li>
 </ul>
 
 <ul>
@@ -183,7 +183,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
       <li>ADP: de</li>
       <li>DET: la, quelle, une, sa, ma, quelles, certaines, cette</li>
       <li>NOUN: année, ville, compagnie, population, capitale, guerre, date, taxe, université, équipe</li>
-      <li>PRON: -elle, laquelle, -elles, une, celle, celle-ci, elle, elles, lesquelles</li>
+      <li>PRON: -t-elle, -elle, laquelle, -elles, une, celle, celle-ci, elle, elles, lesquelles</li>
       <li>PROPN: Californie, Australie, Angleterre, Italie, Afrique, Amérique, Corée, Philippines, Berlin, Chine</li>
       <li>VERB-Part: connue, située, devenue, construite, déroulée, intitulée, morte, fabriquée, faite, fondée</li>
     </ul>
@@ -197,7 +197,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
       <li>AUX-Part: fait</li>
       <li>DET: le, quel, un, les, quels, ce, cet, du, tout</li>
       <li>NOUN: nom, pays, président, état, lieu, logement, film, prix, corps, temps</li>
-      <li>PRON: -il, -ils, il, lequel, le, un, celui, celui-ci, ceux, eux</li>
+      <li>PRON: -t-il, -il, -ils, il, lequel, le, un, celui, celui-ci, ceux</li>
       <li>PROPN: Alaska, John, York, Charles, Kentucky, Jackson, Japon, Mississippi, Londres, Reims</li>
       <li>VERB-Part: inventé, né, situé, écrit, mort, connu, joué, eu, fait, remporté</li>
     </ul>
@@ -233,7 +233,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
       <li>AUX-Part: fait</li>
       <li>DET: le, la, l', quelle, quel, un, une, mon, sa, ma</li>
       <li>NOUN: nom, année, ville, aide, président, état, lieu, espace, logement, film</li>
-      <li>PRON: -il, -elle, -on, -je, je, j', il, laquelle, lequel, me</li>
+      <li>PRON: -t-il, -il, -je, -t-elle, je, -t-on, -elle, -on, j', il</li>
       <li>PROPN: Californie, Logan, Alaska, John, San, York, Charles, Kentucky, Marley, Australie</li>
       <li>VERB-Fin: trouve, est, a, signifie, puis, eut, fait, dois, ai, nomme</li>
       <li>VERB-Part: inventé, né, situé, écrit, mort, connu, joué, eu, fait, remporté</li>
@@ -505,7 +505,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
     <ul>
       <li>AUX-Fin: est, a, était, fut, sont, ont, étaient, furent, soit, ait</li>
       <li>DET: l'</li>
-      <li>PRON: -il, se, -elle, -on, y, s', -ils, il, -elles, le</li>
+      <li>PRON: -t-il, se, -il, -t-elle, y, -t-on, -elle, s', -ils, -on</li>
       <li>VERB-Fin: trouve, est, a, signifie, eut, fait, nomme, appelle, peut, avait</li>
     </ul>
   </li>

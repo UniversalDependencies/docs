@@ -87,7 +87,7 @@ The following 4 pairs of parts of speech are connected with `clf`: <tt><a href="
 6	打	_	AUX	VV	_	8	cop	_	SpaceAfter=No|Translit=dǎ
 7	得	_	PART	DEV	_	8	mark:prt	_	SpaceAfter=No|Translit=de
 8	很爛	_	ADJ	JJ	_	3	ccomp	_	SpaceAfter=No|Translit=hěnlàn
-9	的	_	PART	DEC	_	3	mark:relcl	_	SpaceAfter=No|Translit=de
+9	的	_	PART	DEC	_	3	mark:rel	_	SpaceAfter=No|Translit=de
 10	澳大利亞人	_	PROPN	NNP	_	13	nsubj	_	SpaceAfter=No|Translit=澳dàlìyàrén
 11	蒙混	_	VERB	VV	_	13	advcl	_	SpaceAfter=No|Translit=ménghùn
 12	過關	_	VERB	VV	_	13	advcl	_	SpaceAfter=No|Translit=guòguān

@@ -25,7 +25,7 @@ The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 4 6 acl	color:blue
 1	استبعدت	{isotaboEad_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Act	0	root	_	_
 2	الرقابة	raqAbap_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	_
-3	كل	kul~_1	DET	PDT	Case=Acc	4	det:predet	_	_
+3	كل	kul~_1	DET	PDT	Case=Acc	4	det	_	_
 4	الآراء	ra>oy_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	1	obj	_	_
 5	غير	gayor_1	PART	RP	Polarity=Neg	6	advmod	_	_
 6	المرغوب	maroguwb_1	NOUN	VBN	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	4	acl	_	_
@@ -38,7 +38,7 @@ The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="
 13	في	fiy_1	ADP	IN	_	14	case	_	_
 14	الحياة	HayAp_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Fem|Number=Sing	12	nmod	_	_
 15	العامة	EAm~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	14	amod	_	_
-16	شبه	$iboh_1	DET	PDT	Case=Acc	17	det:predet	_	_
+16	شبه	$iboh_1	DET	PDT	Case=Acc	17	det	_	_
 17	مستحيلة	musotaHiyl_1	ADJ	JJ	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	1	conj	_	SpaceAfter=No
 18	.	._0	PUNCT	.	_	1	punct	_	_
 
@@ -80,12 +80,12 @@ The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="
 5	كلياً	kul~iy~_1	ADV	RB	_	4	advmod	_	_
 6	ب	b	ADP	IN	_	7	case	_	SpaceAfter=No
 7	أموال	mAl_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	4	obl	_	_
-8	برنار	bironAr_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	7	nmod:gmod	_	_
+8	برنار	bironAr_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	7	nmod	_	_
 9	تابي	>abaY-a_1	PROPN	NNP	Animacy=Hum|Gender=Masc|Number=Sing	8	flat	_	_
 10	الخاصة	xAS~_1	ADJ	JJ	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No
 11	,	,_0	PUNCT	,	_	4	punct	_	_
 12	أغلقت	>agolaq_1	VERB	VBC	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	_
-13	هذه	h`*A_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	14	det:predet	_	_
+13	هذه	h`*A_1	PRON	PDEM	Case=Nom|Gender=Fem|Number=Sing	14	det	_	_
 14	المدارس	madorasap_1	NOUN	NN	Animacy=Nhum|Case=Nom|Definite=Def|Gender=Fem|Number=Plur	12	nsubj:pass	_	_
 15	عام	EAm_1	ADV	RB	_	12	obl:tmod	_	_
 16	1994	1994_0	NUM	CD	Case=Gen	15	obl	_	_

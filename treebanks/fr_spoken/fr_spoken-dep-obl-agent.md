@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-Spoken: Relations: `obl:agent`
 
-This relation is a language-specific subtype of .
+This relation is a language-specific subtype of <tt><a href="fr_spoken-dep-obl.html">obl</a></tt>.
 There are also 2 other language-specific subtypes of `obl`: <tt><a href="fr_spoken-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="fr_spoken-dep-obl-mod.html">obl:mod</a></tt>.
 
 3 nodes (0%) are attached to their parents as `obl:agent`.
@@ -71,7 +71,7 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 16	par	par	ADP	_	_	17	case	_	_
 17	quelqu'un	quelqu'un	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	obl:agent	_	_
 18	à	à	ADP	_	_	19	case	_	_
-19	mi-temps	mi-temps	NOUN	_	_	17	dep:comp	_	_
+19	mi-temps	mi-temps	NOUN	_	_	17	obl:arg	_	_
 20	heureusement	heureusement	ADV	_	_	14	advmod	_	_
 
 ~~~

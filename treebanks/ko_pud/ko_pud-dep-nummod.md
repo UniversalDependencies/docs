@@ -42,11 +42,11 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	한	_	DET	DT	_	2	nummod	_	Translit=.han|LTranslit=_
 2	목격자의	목격자	NOUN	NN+CM	Case=Gen|Polite=Form	4	nmod:poss	_	MSeg=목격자-의|Translit=.mog.gyeog.ja.yi|LTranslit=.mog.gyeog.ja
 3	경찰	_	NOUN	NN	_	4	compound	_	Translit=.gyeong.chal|LTranslit=_
-4	진술에	진술	NOUN	NN+CM	Case=Advb|Polite=Form	5	advmod	_	MSeg=진술-에|Translit=.jin.sul.e|LTranslit=.jin.sul
+4	진술에	진술	NOUN	NN+CM	Polite=Form	5	advmod	_	MSeg=진술-에|Translit=.jin.sul.e|LTranslit=.jin.sul
 5	따르면	_	VERB	VV	Form=Compl	11	advcl	_	Translit=.dda.reu.myeon|LTranslit=_
 6	피해자가	피해자	NOUN	NN+CM	Case=Nom|Polite=Form	10	nsubj	_	MSeg=피해자-가|Translit=.pi.hae.ja.ga|LTranslit=.pi.hae.ja
 7	4	4	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No|Translit=4|LTranslit=_
-8	월에	월	NOUN	NNB+CM	Case=Advb|Polite=Form	10	advmod	_	MSeg=월-에|Translit=.weol.e|LTranslit=.weol
+8	월에	월	NOUN	NNB+CM	Polite=Form	10	advmod	_	MSeg=월-에|Translit=.weol.e|LTranslit=.weol
 9	용의자를	용의자	NOUN	NN+CM	Case=Acc|Polite=Form	10	obj	_	MSeg=용의자-를|Translit=.yong.yi.ja.reul|LTranslit=.yong.yi.ja
 10	공격했었다고	공격했었다	NOUN	NN+QP	_	11	advcl	_	MSeg=공격했었다-고|Translit=.gong.gyeog.haess.eoss.da.go|LTranslit=.gong.gyeog.haess.eoss.da
 11	한다	_	VERB	VV	Mood=Ind|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=.han.da|LTranslit=_

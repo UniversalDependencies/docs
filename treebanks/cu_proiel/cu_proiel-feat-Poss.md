@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="cu_proiel-pos-ADJ.h
 
 1167 <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> tokens (22% of all `ADJ` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="cu_proiel-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1167; 100%), <tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (1167; 100%), <tt><a href="cu_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (827; 71%).
+The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="cu_proiel-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1167; 100%), <tt><a href="cu_proiel-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1167; 100%), <tt><a href="cu_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (827; 71%).
 
 `ADJ` tokens may have the following values of `Poss`:
 

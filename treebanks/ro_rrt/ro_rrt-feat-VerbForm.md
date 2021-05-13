@@ -9,31 +9,30 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
-27212 tokens (12%) have a non-empty value of `VerbForm`.
-7203 types (23%) occur at least once with a non-empty value of `VerbForm`.
-1892 lemmas (11%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (23004; 11% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (4208; 2% instances).
+27260 tokens (12%) have a non-empty value of `VerbForm`.
+7191 types (23%) occur at least once with a non-empty value of `VerbForm`.
+1898 lemmas (11%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (23051; 11% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (4209; 2% instances).
 
 ### `VERB`
 
-23004 <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+23051 <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (15440; 67%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11801; 51%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (15410; 67%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11820; 51%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (12345; 54% of non-empty `VerbForm`): <em>poate, trebuie, pot, are, avea, era, există, putea, au, face</em>
-* `Ger` (992; 4% of non-empty `VerbForm`): <em>având, începând, ținând, făcând, lăsând, urmând, înregistrând, putând, reprezentând, aparținând</em>
-* `Inf` (2103; 9% of non-empty `VerbForm`): <em>putea, trebui, avea, face, aduce, lua, asigura, fi, permite, vedea</em>
-* `Part` (7564; 33% of non-empty `VerbForm`): <em>avut, prevăzute, făcut, spus, putut, rupt, murit, dat, devenit, luat</em>
+* `Fin` (12327; 53% of non-empty `VerbForm`): <em>poate, trebuie, pot, are, avea, era, putea, există, face, au</em>
+* `Ger` (991; 4% of non-empty `VerbForm`): <em>având, începând, ținând, făcând, lăsând, urmând, înregistrând, putând, reprezentând, aparținând</em>
+* `Inf` (2092; 9% of non-empty `VerbForm`): <em>putea, trebui, avea, face, aduce, lua, asigura, fi, permite, vedea</em>
+* `Part` (7641; 33% of non-empty `VerbForm`): <em>avut, prevăzute, făcut, spus, putut, rupt, dat, murit, devenit, luat</em>
 
 <table>
   <tr><th>Paradigm <i>putea</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Ger</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td></td><td></td><td><em>putând, neputând</em></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>putut</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>poți</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>puteți</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>pot</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>Poți</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>puteai</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>poți</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>putea</em></td><td></td><td></td><td></td></tr>
@@ -54,17 +53,17 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-4208 <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> tokens (49% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+4209 <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> tokens (49% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2908; 69%), <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt> (2686; 64%), <tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2557; 61%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2456; 58%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2907; 69%), <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt> (2688; 64%), <tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2555; 61%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2456; 58%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (2773; 66% of non-empty `VerbForm`): <em>este, sunt, era, fie, e, erau, fusese, -i, avea, sunteți</em>
+* `Fin` (2772; 66% of non-empty `VerbForm`): <em>este, sunt, era, fie, e, erau, fusese, -i, avea, sunteți</em>
 * `Ger` (170; 4% of non-empty `VerbForm`): <em>fiind, nefiind, fiindu</em>
 * `Inf` (635; 15% of non-empty `VerbForm`): <em>fi</em>
-* `Part` (630; 15% of non-empty `VerbForm`): <em>fost</em>
-* `EMPTY` (4356): <em>a, au, va, ar, am, vor, ai, ați, -a, aș</em>
+* `Part` (632; 15% of non-empty `VerbForm`): <em>fost, este</em>
+* `EMPTY` (4348): <em>a, au, va, ar, am, vor, ai, ați, -a, aș</em>
 
 <table>
   <tr><th>Paradigm <i>fi</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Ger</tt></th></tr>
@@ -77,7 +76,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>era</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>fu</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Pqp</tt></tt></td><td><em>fusese</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>este, e, îi</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>este, e, Sunt, îi</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ro_rrt-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>-i, E-</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>suntem</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sunteți</em></td><td></td><td></td><td></td></tr>
@@ -92,6 +91,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>fim</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>fiți</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>fie</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>este</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>fi</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td></td><td></td><td><em>fiindu</em></td></tr>
 </table>
@@ -99,10 +99,9 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2088; 85%),
-<tt>VERB --[<tt><a href="ro_rrt-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (246; 51%),
-<tt>VERB --[<tt><a href="ro_rrt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (163; 56%),
-<tt>VERB --[<tt><a href="ro_rrt-dep-ccomp-pmod.html">ccomp:pmod</a></tt>]--> VERB</tt> (86; 52%),
-<tt>VERB --[<tt><a href="ro_rrt-dep-advcl-tcl.html">advcl:tcl</a></tt>]--> VERB</tt> (57; 66%),
+<tt>VERB --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2114; 86%),
+<tt>VERB --[<tt><a href="ro_rrt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (162; 55%),
+<tt>VERB --[<tt><a href="ro_rrt-dep-ccomp-pmod.html">ccomp:pmod</a></tt>]--> VERB</tt> (87; 51%),
+<tt>VERB --[<tt><a href="ro_rrt-dep-advcl-tcl.html">advcl:tcl</a></tt>]--> VERB</tt> (58; 66%),
 <tt>VERB --[<tt><a href="ro_rrt-dep-appos.html">appos</a></tt>]--> VERB</tt> (14; 88%).
 

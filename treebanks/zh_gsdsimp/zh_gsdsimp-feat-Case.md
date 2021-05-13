@@ -16,12 +16,12 @@ The feature is used with 2 part-of-speech tags: <tt><a href="zh_gsdsimp-pos-PART
 
 ### `PART`
 
-3285 <tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt> tokens (25% of all `PART` tokens) have a non-empty value of `Case`.
+3285 <tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt> tokens (26% of all `PART` tokens) have a non-empty value of `Case`.
 
 `PART` tokens may have the following values of `Case`:
 
 * `Gen` (3285; 100% of non-empty `Case`): 的、 之、 地
-* `EMPTY` (10083): 的、 了、 人、 大、 者、 市、 区、 会、 军、 省
+* `EMPTY` (9128): 的、 人、 大、 者、 市、 区、 会、 军、 省、 家
 
 ### `ADP`
 

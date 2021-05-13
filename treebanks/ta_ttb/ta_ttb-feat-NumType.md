@@ -9,29 +9,29 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
-174 tokens (2%) have a non-empty value of `NumType`.
-83 types (2%) occur at least once with a non-empty value of `NumType`.
-66 lemmas (3%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (114; 1% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (41; 0% instances), <tt><a href="ta_ttb-pos-DET.html">DET</a></tt> (19; 0% instances).
+334 tokens (3%) have a non-empty value of `NumType`.
+171 types (5%) occur at least once with a non-empty value of `NumType`.
+145 lemmas (7%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> (274; 3% instances), <tt><a href="ta_ttb-pos-ADJ.html">ADJ</a></tt> (41; 0% instances), <tt><a href="ta_ttb-pos-DET.html">DET</a></tt> (19; 0% instances).
 
 ### `NUM`
 
-114 <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> tokens (42% of all `NUM` tokens) have a non-empty value of `NumType`.
+274 <tt><a href="ta_ttb-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="ta_ttb-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (114; 100%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="ta_ttb-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (149; 54%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (103; 90% of non-empty `NumType`): இரு, ஆயிரம், மூன்று, லட்சம், இரண்டு, ஆயிரத்து, கோடி, மீட்டர், 1.30, ஒன்பது
-* `Ord` (11; 10% of non-empty `NumType`): முதல், 21-ம், 2005-வது, 2008-ம், 2009-2010ஆம், 2022-ம், 50வது, 6-ம்
-* `EMPTY` (160): 2, 10, 20, 3, 80, ஒரு, 16, 4, 5, 50
+* `Card` (263; 96% of non-empty `NumType`): இரு, ஆயிரம், மூன்று, லட்சம், 2, இரண்டு, ஒரு, ஆயிரத்து, கோடி, 10
+* `Ord` (11; 4% of non-empty `NumType`): முதல், 21-ம், 2005-வது, 2008-ம், 2009-2010ஆம், 2022-ம், 50வது, 6-ம்
 
 <table>
-  <tr><th>Paradigm <i>2009-2010</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th></tr>
-  <tr><td><tt></tt></td><td>2009-2010</td><td>2009-2010ஆம்</td></tr>
+  <tr><th>Paradigm <i>50</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th></tr>
+  <tr><td><tt>_</tt></td><td></td><td>50வது</td></tr>
+  <tr><td><tt><tt><a href="ta_ttb-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt></tt></td><td>50</td><td></td></tr>
 </table>
 
-`NumType` seems to be **lexical feature** of `NUM`. 97% lemmas (36) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 97% lemmas (118) occur only with one value of `NumType`.
 
 ### `ADJ`
 
@@ -58,6 +58,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 ## Relations with Agreement in `NumType`
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
-<tt>NUM --[<tt><a href="ta_ttb-dep-compound.html">compound</a></tt>]--> NUM</tt> (2; 100%),
-<tt>NUM --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> NUM</tt> (1; 100%).
+<tt>NUM --[<tt><a href="ta_ttb-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (30; 100%),
+<tt>NUM --[<tt><a href="ta_ttb-dep-conj.html">conj</a></tt>]--> NUM</tt> (5; 100%),
+<tt>NUM --[<tt><a href="ta_ttb-dep-compound.html">compound</a></tt>]--> NUM</tt> (2; 100%).
 

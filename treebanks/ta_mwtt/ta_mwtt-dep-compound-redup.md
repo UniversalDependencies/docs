@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Tamil-MWTT: Relations: `compound:redup`
 
 This relation is a language-specific subtype of <tt><a href="ta_mwtt-dep-compound.html">compound</a></tt>.
-There are also 1 other language-specific subtypes of `compound`: <tt><a href="ta_mwtt-dep-compound-nv.html">compound:nv</a></tt>.
+There are also 1 other language-specific subtypes of `compound`: <tt><a href="ta_mwtt-dep-compound-lvc.html">compound:lvc</a></tt>.
 
 1 nodes (0%) are attached to their parents as `compound:redup`.
 
@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `compound:redup`: <t
 # visual-style 5	fgColor:white
 # visual-style 5 4 compound:redup	color:blue
 1	இவ்வளவு	இவ்வளவு	ADV	_	_	3	advmod	3:advmod	Translit=ivvaḷavu|LTranslit=ivvaḷavu
-2	நான்	நான்	PRON	_	Number=Sing|Person=1	3	nsubj	3:nsubj	Translit=nāṉ|LTranslit=nāṉ
+2	நான்	நான்	PRON	_	Animacy=Anim|Case=Nom|Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	Translit=nāṉ|LTranslit=nāṉ
 3	சாப்பிட	சாப்பிடு	VERB	_	VerbForm=Inf	5	xcomp	5:xcomp	Translit=cāppiṭa|LTranslit=cāppiṭu
 4	முடியவே	முடி	VERB	_	VerbForm=Inf	5	compound:redup	5:compound:redup	Translit=muṭiyavē|LTranslit=muṭi
 5	முடியாது	முடி	VERB	_	Polarity=Neg	0	root	0:root	Translit=muṭiyātu|LTranslit=muṭi

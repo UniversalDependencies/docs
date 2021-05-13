@@ -107,5 +107,5 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>NOUN --[<tt><a href="aii_as-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="aii_as-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>PRON --[<tt><a href="aii_as-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="aii_as-dep-aux-poss.html">aux:poss</a></tt>]--> AUX</tt> (1; 100%).
+<tt>VERB --[<tt><a href="aii_as-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (1; 100%).
 

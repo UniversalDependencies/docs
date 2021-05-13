@@ -34,7 +34,7 @@ The following 2 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 10	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 11	très	très	ADV	_	_	12	advmod	_	_
 12	bon	bon	ADJ	_	Gender=Masc|Number=Sing	13	amod	_	_
-13	élève	élève	NOUN	_	Gender=Masc|Number=Sing	7	xcomp:obl	_	_
+13	élève	élève	NOUN	_	Gender=Masc|Number=Sing	7	xcomp	_	_
 
 ~~~
 
@@ -46,7 +46,7 @@ The following 2 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 # visual-style 7	fgColor:white
 # visual-style 7 8 obj:lvc	color:blue
 1	parce	parce	SCONJ	_	_	7	mark	_	ExtPos=SCONJ|PhraseType=Idiom
-2	que	que	SCONJ	_	_	1	fixed	_	_
+2	que	que	SCONJ	_	_	1	fixed	_	InIdiom=Yes
 3	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 4	mamans	maman	NOUN	_	_	7	dislocated	_	_
 5	africaines	africain	ADJ	_	Gender=Fem|Number=Plur	4	amod	_	_
@@ -54,12 +54,12 @@ The following 2 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 7	ont	avoir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	beaucoup	beaucoup	PRON	_	_	7	obj:lvc	_	_
 9	de	de	ADP	_	_	10	case	_	_
-10	mal	mal	NOUN	_	Gender=Masc|Number=Sing	8	dep:comp	_	_
+10	mal	mal	NOUN	_	Gender=Masc|Number=Sing	8	obl:arg	_	_
 11	à	à	ADP	_	_	13	mark	_	_
 12	se	se	PRON	_	Person=3|PronType=Prs	13	dep:comp	_	_
-13	séparer	séparer	VERB	_	VerbForm=Inf	10	ccomp:obl	_	_
+13	séparer	séparer	VERB	_	VerbForm=Inf	10	ccomp	_	_
 14	de	de	ADP	_	_	16	case	_	_
-15	leurs	son	DET	_	Number=Plur|PossNumber=Plur|PossPerson=3|PronType=Prs	16	det	_	_
+15	leurs	son	DET	_	Number=Plur|Number[psor]=Plur|Person[psor]=3|PronType=Prs	16	det	_	_
 16	petits	petit	NOUN	_	Gender=Masc|Number=Plur	13	obl:arg	_	_
 
 ~~~

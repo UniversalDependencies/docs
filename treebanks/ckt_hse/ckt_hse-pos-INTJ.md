@@ -34,7 +34,7 @@ The 1st highest number of forms (15) was observed with the lemma “_”: <em>А
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 4 different relations: <tt><a href="ckt_hse-dep-discourse.html">discourse</a></tt> (21; 60% instances), <tt><a href="ckt_hse-dep-root.html">root</a></tt> (9; 26% instances), <tt><a href="ckt_hse-dep-parataxis.html">parataxis</a></tt> (4; 11% instances), <tt><a href="ckt_hse-dep-parataxis-speech.html">parataxis:speech</a></tt> (1; 3% instances)
+`INTJ` nodes are attached to their parents using 4 different relations: <tt><a href="ckt_hse-dep-discourse.html">discourse</a></tt> (21; 60% instances), <tt><a href="ckt_hse-dep-root.html">root</a></tt> (9; 26% instances), <tt><a href="ckt_hse-dep-parataxis.html">parataxis</a></tt> (4; 11% instances), <tt><a href="ckt_hse-dep-parataxis-rep.html">parataxis:rep</a></tt> (1; 3% instances)
 
 Parents of `INTJ` nodes belong to 7 different parts of speech: <tt><a href="ckt_hse-pos-VERB.html">VERB</a></tt> (13; 37% instances),  (9; 26% instances), <tt><a href="ckt_hse-pos-NOUN.html">NOUN</a></tt> (5; 14% instances), <tt><a href="ckt_hse-pos-ADV.html">ADV</a></tt> (3; 9% instances), <tt><a href="ckt_hse-pos-INTJ.html">INTJ</a></tt> (2; 6% instances), <tt><a href="ckt_hse-pos-PROPN.html">PROPN</a></tt> (2; 6% instances), <tt><a href="ckt_hse-pos-PRON.html">PRON</a></tt> (1; 3% instances)
 

@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of nummod:gov in UD_Old_Russian-RNC'
+title:  'Statistics of nummod:gov in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Relations: `nummod:gov`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Relations: `nummod:gov`
 
 This relation is a language-specific subtype of <tt><a href="orv_rnc-dep-nummod.html">nummod</a></tt>.
 
@@ -29,7 +29,7 @@ The following 6 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 5	было	быти	AUX	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=PartRes	6	aux	_	_
 6	послано	послати	VERB	_	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
 7	два	два	NUM	_	Case=Nom|Gender=Masc	8	nummod:gov	_	_
-8	списка	списокъ	NOUN	_	Case=Nom|Gender=Masc|Number=Adnum	6	nsubj:pass	_	_
+8	списка	списокъ	NOUN	_	Case=Nom|Gender=Masc|Number=Count	6	nsubj:pass	_	_
 9	с	съ	ADP	_	_	10	case	_	_
 10	челобитнои	челобитная	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
 11	и	и	CCONJ	_	_	13	cc	_	_

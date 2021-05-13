@@ -30,7 +30,7 @@ The following 8 pairs of parts of speech are connected with `case`: <tt><a href=
 6	аймағы	аймақ	NOUN	n	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	8	obl	_	_
 7	үшін	үшін	ADP	post	_	6	case	_	_
 8	қауіп	қауіп	NOUN	n	Case=Nom	0	root	_	_
-9	болып	бол	AUX	v	Aspect=Perf|VerbForm=Cov	8	cop	_	_
+9	болып	бол	AUX	v	Aspect=Perf|VerbForm=Inf	8	cop	_	_
 10	отыр	отыр	AUX	vaux	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	SpaceAfter=No
 11	.	.	PUNCT	sent	_	8	punct	_	_
 

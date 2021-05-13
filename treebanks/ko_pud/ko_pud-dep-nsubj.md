@@ -50,7 +50,7 @@ The following 26 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 1	판발카르는	판발카르	PROPN	NNP+CM	Case=Nom|Polite=Form	13	nsubj	_	MSeg=판발카르-는|Translit=.pan.bal.ka.reu.neun|LTranslit=.pan.bal.ka.reu
 2	그들이	그들	PRON	PRP+CM	Case=Nom|Number=Plur|Person=3|Polite=Form	6	nsubj	_	MSeg=그들-이|Translit=.geu.deul.i|LTranslit=.geu.deul
 3	그	_	DET	DT	_	4	det	_	Translit=.geu|LTranslit=_
-4	건물에서	건물	NOUN	NN+CM	Case=Advb|Polite=Form	6	advmod	_	MSeg=건물-에서|Translit=.geon.mul.e.seo|LTranslit=.geon.mul
+4	건물에서	건물	NOUN	NN+CM	Polite=Form	6	advmod	_	MSeg=건물-에서|Translit=.geon.mul.e.seo|LTranslit=.geon.mul
 5	나와야	_	VERB	VV	Form=Aux	6	aux	_	Translit=.na.wa.ya|LTranslit=_
 6	할	_	VERB	VX	Form=Adn	7	dep	_	Translit=.hal|LTranslit=_
 7	것	_	NOUN	NNB	_	8	advmod	_	Translit=.geos|LTranslit=_

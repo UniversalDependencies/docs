@@ -6,37 +6,57 @@ udver: '2'
 
 ## Treebank Statistics: UD_Moksha-JR: POS Tags: `INTJ`
 
-There are 2 `INTJ` lemmas (0%), 2 `INTJ` types (0%) and 3 `INTJ` tokens (0%).
-Out of 15 observed tags, the rank of `INTJ` is: 15 in number of lemmas, 15 in number of types and 15 in number of tokens.
+There are 5 `INTJ` lemmas (0%), 5 `INTJ` types (0%) and 8 `INTJ` tokens (0%).
+Out of 15 observed tags, the rank of `INTJ` is: 14 in number of lemmas, 15 in number of types and 15 in number of tokens.
 
-The 10 most frequent `INTJ` lemmas: <em>вай, ну</em>
+The 10 most frequent `INTJ` lemmas: <em>вай, вов, ну, аф, и</em>
 
-The 10 most frequent `INTJ` types:  <em>Вай, Ну</em>
+The 10 most frequent `INTJ` types:  <em>Вай, Вов, Ну, Аф, И</em>
 
-The 10 most frequent ambiguous lemmas: 
+The 10 most frequent ambiguous lemmas: <em>аф</em> (<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> 47, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1), <em>и</em> (<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> 59, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  
+The 10 most frequent ambiguous types:  <em>Аф</em> (<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> 6, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1), <em>И</em> (<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1)
 
 
+* <em>Аф</em>
+  * <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> 6: <em><b>Аф</b> Петя Смит , аф Марья Браун ашесть кочкав .</em>
+  * <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1: <em><b>Аф</b> , аф эрявихть Луканди войнаса сяськоманкса шнакшнематне .</em>
+* <em>И</em>
+  * <tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> 6: <em><b>И</b> уендихть сенем менельть потмоса , кода оцю морява .</em>
+  * <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1: <em><b>И</b> , пади , няевонь кеветиешка кизоса цёранякс .</em>
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.341353).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.421788).
 
-The 1st highest number of forms (1) was observed with the lemma “вай”: <em>Вай</em>.
+The 1st highest number of forms (1) was observed with the lemma “аф”: <em>Аф</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “ну”: <em>Ну</em>.
+The 2nd highest number of forms (1) was observed with the lemma “вай”: <em>Вай</em>.
 
-`INTJ` does not occur with any features.
+The 3rd highest number of forms (1) was observed with the lemma “вов”: <em>Вов</em>.
+
+`INTJ` occurs with 1 features: <tt><a href="mdf_jr-feat-Polarity.html">Polarity</a></tt> (1; 13% instances)
+
+`INTJ` occurs with 1 feature-value pairs: `Polarity=Neg`
+
+`INTJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (7 tokens).
+Examples: <em>Вай, Вов, Ну, И</em>
 
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 1 different relations: <tt><a href="mdf_jr-dep-discourse.html">discourse</a></tt> (3; 100% instances)
+`INTJ` nodes are attached to their parents using 1 different relations: <tt><a href="mdf_jr-dep-discourse.html">discourse</a></tt> (8; 100% instances)
 
-Parents of `INTJ` nodes belong to 2 different parts of speech: <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (2; 67% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 33% instances)
+Parents of `INTJ` nodes belong to 4 different parts of speech: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (4; 50% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (2; 25% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 13% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (1; 13% instances)
 
-3 (100%) `INTJ` nodes are leaves.
+7 (88%) `INTJ` nodes are leaves.
 
-The highest child degree of a `INTJ` node is 0.
+1 (13%) `INTJ` nodes have one child.
+
+The highest child degree of a `INTJ` node is 1.
+
+Children of `INTJ` nodes are attached using 1 different relations: <tt><a href="mdf_jr-dep-punct.html">punct</a></tt> (1; 100% instances)
+
+Children of `INTJ` nodes belong to 1 different parts of speech: <tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> (1; 100% instances)
 

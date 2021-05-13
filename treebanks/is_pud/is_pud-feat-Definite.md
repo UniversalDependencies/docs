@@ -99,7 +99,7 @@ The most frequent other feature values with which `PROPN` and `Definite` co-occu
 
 `PROPN` tokens may have the following values of `Definite`:
 
-* `Def` (7; 33% of non-empty `Definite`): <em>A​d​d​e​n​b​r​o​o​k​e​-​s​j​ú​k​r​a​h​ú​s​u​n​u​m, Bandaríkjanna, Bandaríkjunum, Caplan, Fasteignastofnunin, Snowman, Vetrarháskóleikarnir</em>
+* `Def` (7; 33% of non-empty `Definite`): <em>Addenbrooke-sjúkrahúsunum, Bandaríkjanna, Bandaríkjunum, Caplan, Fasteignastofnunin, Snowman, Vetrarháskóleikarnir</em>
 * `Ind` (14; 67% of non-empty `Definite`): <em>Akkemenída, Alejandra, Ameríkubúar, Blindleia, Durán, Herzl, Isner, Lamarr, Norður-Alsír, Papúa</em>
 * `EMPTY` (1443): <em>Krist, the, Trump, of, Evrópu, Hong, Kong, de, Breta, Bretlandi</em>
 

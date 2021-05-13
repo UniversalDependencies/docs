@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Chinese-GSDSimp: Relations: `discourse`
 
 This relation is universal.
+There are 1 language-specific subtypes of `discourse`: <tt><a href="zh_gsdsimp-dep-discourse-sp.html">discourse:sp</a></tt>.
 
-196 nodes (0%) are attached to their parents as `discourse`.
+188 nodes (0%) are attached to their parents as `discourse`.
 
-195 instances of `discourse` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.99489795918367.
+187 instances of `discourse` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.
 
-The following 6 pairs of parts of speech are connected with `discourse`: <tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt> (148; 76% instances), <tt><a href="zh_gsdsimp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt> (36; 18% instances), <tt><a href="zh_gsdsimp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt> (8; 4% instances), <tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="zh_gsdsimp-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `discourse`: <tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt> (141; 75% instances), <tt><a href="zh_gsdsimp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt> (35; 19% instances), <tt><a href="zh_gsdsimp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt> (8; 4% instances), <tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt>-<tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="zh_gsdsimp-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_gsdsimp-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_gsdsimp-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -24,7 +25,7 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 9 15 discourse	color:blue
 1	但是	但是	ADV	RB	_	9	mark	_	SpaceAfter=No
 2	迪士尼	迪士尼	PROPN	NNP	_	5	nmod	_	SpaceAfter=No
-3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
 4	公主	公主	NOUN	NN	_	5	compound	_	SpaceAfter=No
 5	们	们	PART	SFN	Number=Plur	9	nsubj	_	SpaceAfter=No
 6	不会	不会	AUX	MD	_	9	aux	_	SpaceAfter=No
@@ -37,7 +38,7 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 13	范围	范围	NOUN	NN	_	9	obj	_	SpaceAfter=No
 14	之内	之内	ADP	IN	_	13	acl	_	SpaceAfter=No
 15	了	了	PART	UH	_	9	discourse	_	SpaceAfter=No
-16	吗	吗	PART	UH	Mood=Inter	9	discourse	_	SpaceAfter=No
+16	吗	吗	PART	UH	PartType=Int	9	discourse:sp	_	SpaceAfter=No
 17	？	？	PUNCT	.	_	9	punct	_	SpaceAfter=No
 
 ~~~
@@ -58,7 +59,7 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 7	游戏	游戏	NOUN	NN	_	8	nsubj	_	SpaceAfter=No
 8	在	在	VERB	VV	_	12	acl:relcl	_	SpaceAfter=No
 9	日本	日本	PROPN	NNP	_	8	obj	_	SpaceAfter=No
-10	的	的	PART	DEC	_	8	mark:relcl	_	SpaceAfter=No
+10	的	的	PART	DEC	_	8	mark:rel	_	SpaceAfter=No
 11	知名	知名	ADJ	JJ	_	12	compound	_	SpaceAfter=No
 12	度	度	PART	SFN	_	6	obj	_	SpaceAfter=No
 13	时	时	ADP	IN	_	6	mark	_	SpaceAfter=No
@@ -85,10 +86,10 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 18 19 discourse	color:blue
 1	小风	小风	PROPN	NNP	_	2	nsubj	_	SpaceAfter=No
 2	陷入	陷入	VERB	VV	_	0	root	_	SpaceAfter=No
-3	了	了	PART	AS	Aspect=Perf	2	aux:aspect	_	SpaceAfter=No
+3	了	了	AUX	AS	Aspect=Perf	2	aux	_	SpaceAfter=No
 4	没有	没有	VERB	VV	_	7	acl:relcl	_	SpaceAfter=No
 5	信心	信心	NOUN	NN	_	4	obj	_	SpaceAfter=No
-6	的	的	PART	DEC	_	4	mark:relcl	_	SpaceAfter=No
+6	的	的	PART	DEC	_	4	mark:rel	_	SpaceAfter=No
 7	窘境	窘境	NOUN	NN	_	2	obj	_	SpaceAfter=No
 8	，	，	PUNCT	,	_	2	punct	_	SpaceAfter=No
 9	阿一	阿一	PROPN	NNP	_	10	nsubj	_	SpaceAfter=No
@@ -98,7 +99,7 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 13	那	那	PRON	PRD	_	18	nsubj	_	SpaceAfter=No
 14	也是	也是	AUX	VC	_	18	cop	_	SpaceAfter=No
 15	你	你	PRON	PRP	Person=2	18	det	_	SpaceAfter=No
-16	的	的	PART	DEC	Case=Gen	15	case:dec	_	SpaceAfter=No
+16	的	的	PART	DEC	Case=Gen	15	case	_	SpaceAfter=No
 17	一	一	NUM	CD	NumType=Card	18	nummod	_	SpaceAfter=No
 18	部份	部份	NOUN	NN	_	25	advcl	_	SpaceAfter=No
 19	呀	呀	PART	UH	_	18	discourse	_	SpaceAfter=No

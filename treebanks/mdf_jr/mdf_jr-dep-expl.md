@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 5 1 expl	color:blue
 1	Тя	тя	DET	Det	Case=Nom|Number=Sing|PronType=Dem	5	expl	_	GTtags=Dem,Sg,Nom
 2	Млай	Млай	PROPN	N	Case=Nom|Definite=Def|NameType=Giv|Number=Sing	5	nsubj:cop	_	GTtags=Prop,Sg,Nom,Def
-3	въдь	вдь	PART	Pcle	Style=Ped	5	advmod:mmod	_	ModernForm=вдь
+3	въдь	вдь	PART	Pcle	Style=Ped	5	advmod:eval	_	ModernForm=вдь
 4	пинекс	пине	NOUN	N	Case=Tra|Definite=Ind|Number=Plur,Sing	5	nmod	_	GTtags=SP,Tra,Indef
 5	кяжи	кяжи	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	0	root	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_

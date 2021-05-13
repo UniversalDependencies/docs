@@ -22,10 +22,10 @@ The following 1 pairs of parts of speech are connected with `iobj:agent`: <tt><a
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 7 iobj:agent	color:blue
-1	Son	son	DET	_	Number=Sing|PossNumber=Sing|PossPerson=3|PronType=Prs	2	det	_	wordform=son
+1	Son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	2	det	_	wordform=son
 2	entourage	entourage	NOUN	_	Gender=Masc|Number=Sing	9	nsubj:caus	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	_
-4	ses	son	DET	_	Number=Plur|PossNumber=Sing|PossPerson=3|PronType=Prs	5	det	_	_
+4	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|PronType=Prs	5	det	_	_
 5	enfants	enfant	NOUN	_	Number=Plur	2	conj	_	_
 6	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
 7	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj:agent	_	_

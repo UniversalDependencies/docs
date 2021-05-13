@@ -29,7 +29,7 @@ The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href
 5	2004	_	NUM	CD	NumType=Card	6	nummod	_	SpaceAfter=No|Translit=2004
 6	年	_	NOUN	NNB	_	7	obl	_	SpaceAfter=No|Translit=nián
 7	開業	_	VERB	VV	_	11	acl:relcl	_	SpaceAfter=No|Translit=kāiyè
-8	的	_	PART	DEC	_	7	mark:relcl	_	SpaceAfter=No|Translit=de
+8	的	_	PART	DEC	_	7	mark:rel	_	SpaceAfter=No|Translit=de
 9	諾瑪	_	PROPN	NNP	_	11	compound	_	SpaceAfter=No|Translit=諾瑪
 10	城際	_	NOUN	NN	_	11	compound	_	Proper=True|SpaceAfter=No|Translit=chéngjì
 11	地鐵站	_	NOUN	NN	_	15	compound	_	Proper=True|SpaceAfter=No|Translit=detiězhàn
@@ -87,7 +87,7 @@ The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href
 7	國會山	_	PROPN	NNP	_	9	compound	_	SpaceAfter=No|Translit=guóhuìshān
 8	任職	_	NOUN	NN	_	9	compound	_	SpaceAfter=No|Translit=rènzhí
 9	變遷	_	NOUN	NN	_	6	obj	_	SpaceAfter=No|Translit=biànqiān
-10	的	_	PART	DEC	_	6	mark:relcl	_	SpaceAfter=No|Translit=de
+10	的	_	PART	DEC	_	6	mark:rel	_	SpaceAfter=No|Translit=de
 11	人	_	NOUN	NN	_	13	obl	_	SpaceAfter=No|Translit=rén
 12	而	_	ADV	RB	_	13	advmod	_	SpaceAfter=No|Translit='ér
 13	言	_	VERB	VV	_	21	advcl	_	SpaceAfter=No|Translit=yán

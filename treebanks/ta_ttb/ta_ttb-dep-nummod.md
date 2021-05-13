@@ -22,7 +22,7 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nummod	color:blue
-1	93	93	NUM	U=-------	NumForm=Digit	2	nummod	2:nummod	Translit=93|LTranslit=93
+1	93	93	NUM	U=-------	NumForm=Digit|NumType=Card	2	nummod	2:nummod	Translit=93|LTranslit=93
 2	வயத்	வயது	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	3	nmod	3:nmod:nom	Translit=vayat|LTranslit=vayatu
 3	ஆன	ஆன	PART	Tg-------	_	4	nmod	4:nmod	Translit=āna|LTranslit=āna
 4	கருணாகரனின்	கருணாகரன்	PROPN	NEN-3PA--	Animacy=Anim|Case=Nom|Gender=Com|Number=Plur|Person=3	5	nmod	5:nmod:nom	Translit=karuṇākaranin|LTranslit=karuṇākaran
@@ -40,7 +40,7 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nummod	color:blue
-1	2	2	NUM	U=-------	NumForm=Digit	2	nummod	2:nummod	Translit=2|LTranslit=2
+1	2	2	NUM	U=-------	NumForm=Digit|NumType=Card	2	nummod	2:nummod	Translit=2|LTranslit=2
 2	கோடி	கோடி	NUM	Ux-------	NumType=Card	3	nummod	3:nummod	Translit=kōṭi|LTranslit=kōṭi
 3	மக்களுக்கு	மக்கள்	NOUN	NND-3PA--	Animacy=Anim|Case=Dat|Gender=Com|Number=Plur|Person=3	5	obl:arg	5:obl:arg:dat	Translit=makkaḷukku|LTranslit=makkaḷ
 4	குடிநீர்	குடிநீர்	NOUN	NNN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	5	obj	5:obj	Translit=kuṭinīr|LTranslit=kuṭinīr
@@ -65,7 +65,7 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 7	,	,	PUNCT	Z:-------	PunctType=Comm	8	punct	8:punct	Translit=,|LTranslit=,
 8	போர்ச்சுக்கல்	போர்ச்சுக்கல்	PROPN	NEN-3SN--	Case=Nom|Gender=Neut|Number=Sing|Person=3	4	conj	4:conj|9:nmod:nom	Translit=pōrccukkal|LTranslit=pōrccukkal
 9	ஆகிய	ஆகு	ADJ	Jd-D----A	Polarity=Pos|Tense=Past|VerbForm=Part	11	amod	11:amod	Translit=ākiya|LTranslit=āku
-10	3	3	NUM	U=-------	NumForm=Digit	11	nummod	11:nummod	Translit=3|LTranslit=3
+10	3	3	NUM	U=-------	NumForm=Digit|NumType=Card	11	nummod	11:nummod	Translit=3|LTranslit=3
 11	நாடுகள்	நாடு	NOUN	NNN-3PN--	Case=Nom|Gender=Neut|Number=Plur|Person=3	12	nsubj	12:nsubj	Translit=nāṭukaḷ|LTranslit=nāṭu
 12	போட்டியிடுகின்றன	போட்டியிடு	VERB	Vr-P3PNAA	Gender=Neut|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=pōṭṭiyiṭukinrana|LTranslit=pōṭṭiyiṭu
 13	.	.	PUNCT	Z#-------	PunctType=Peri	12	punct	12:punct	Translit=.|LTranslit=.

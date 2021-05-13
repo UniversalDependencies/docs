@@ -34,7 +34,7 @@ The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href
 10	kakšni	kakšen	DET	Pq-mpn	Case=Nom|Gender=Masc|Number=Plur|PronType=Int	12	det	_	Dep=12|Rel=Atr
 11	takšni	takšen	DET	Pd-mpn	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	12	det	_	Dep=12|Rel=Atr
 12	nameni	namen	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	SpaceAfter=No|Dep=9|Rel=Sb
-13	.	.	PUNCT	Z	_	3	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+13	.	.	PUNCT	Z	_	3	punct	_	Dep=0|Rel=Root
 
 ~~~
 
@@ -54,7 +54,7 @@ The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href
 7	bodo	biti	AUX	Va-f3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	9	cop	_	Dep=1|Rel=Obj
 8	ravno	ravno	PART	Q	_	9	advmod	_	Dep=9|Rel=Atr
 9	realni	realen	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	ccomp	_	SpaceAfter=No|Dep=7|Rel=Atr
-10	.	.	PUNCT	Z	_	1	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+10	.	.	PUNCT	Z	_	1	punct	_	Dep=0|Rel=Root
 
 ~~~
 
@@ -74,7 +74,7 @@ The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href
 7	vložiti	vložiti	VERB	Vmen	Aspect=Perf|VerbForm=Inf	6	ccomp	_	Dep=6|Rel=Obj
 8	več	več	DET	Rgc	PronType=Ind	9	det	_	Dep=9|Rel=Atr
 9	truda	trud	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	7	obj	_	SpaceAfter=No|Dep=7|Rel=Obj
-10	.	.	PUNCT	Z	_	6	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+10	.	.	PUNCT	Z	_	6	punct	_	Dep=0|Rel=Root
 
 ~~~
 

@@ -46,7 +46,7 @@ The 10 most frequent ambiguous types:  呀 (<tt><a href="yue_hk-pos-PART.html">P
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.285714 (the average of all parts of speech is 1.622766).
+The form / lemma ratio of `INTJ` is 1.285714 (the average of all parts of speech is 1.624294).
 
 The 1st highest number of forms (16) was observed with the lemma “_”: aam6, em6, 下, 下馬, 吓, 呀, 呀m, 唔好意思, 喂, 喔, 嗱, 對唔住, 欸, 殊, 誒, 誒m.
 

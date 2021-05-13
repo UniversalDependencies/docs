@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="kk_ktb-pos-VERB.htm
 
 91 <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (81; 89%), <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (73; 80%), <tt><a href="kk_ktb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (71; 78%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (58; 64%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (56; 62%), <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (53; 58%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (81; 89%), <tt><a href="kk_ktb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (71; 78%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (58; 64%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (56; 62%), <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (53; 58%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
@@ -31,7 +31,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 
 40 <tt><a href="kk_ktb-pos-AUX.html">AUX</a></tt> tokens (10% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (37; 93%), <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (37; 93%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (32; 80%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=3</tt> (29; 73%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (29; 73%), <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (28; 70%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="kk_ktb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (37; 93%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (32; 80%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=3</tt> (29; 73%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (29; 73%), <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (28; 70%).
 
 `AUX` tokens may have the following values of `Polarity`:
 

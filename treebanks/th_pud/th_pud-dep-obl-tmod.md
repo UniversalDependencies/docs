@@ -29,7 +29,7 @@ The following 13 pairs of parts of speech are connected with `obl:tmod`: <tt><a 
 4	คืน	_	NOUN	NN	_	8	obl:tmod	_	SpaceAfter=No
 5	นี้	_	DET	DT	_	4	det	_	SpaceAfter=No
 6	เรา	_	PRON	PRP	Person=1	8	nsubj	_	SpaceAfter=No
-7	จะ	_	VERB	MD	_	8	aux	_	SpaceAfter=No
+7	จะ	_	AUX	MD	_	8	aux	_	SpaceAfter=No
 8	ทำ	_	VERB	VV	_	2	ccomp	_	SpaceAfter=No
 9	โทษ	_	NOUN	NN	_	8	obj	_	SpaceAfter=No
 10	ด้วย	_	ADP	IN	_	11	case	_	SpaceAfter=No
@@ -67,7 +67,7 @@ The following 13 pairs of parts of speech are connected with `obl:tmod`: <tt><a 
 4	โอกาส	_	NOUN	NN	_	3	obj	_	SpaceAfter=No
 5	เดียว	_	ADJ	JJ	_	4	amod	_	SpaceAfter=No
 6	ที่	_	DET	WDT	_	8	obl:tmod	_	SpaceAfter=No
-7	จะ	_	VERB	MD	_	8	aux	_	SpaceAfter=No
+7	จะ	_	AUX	MD	_	8	aux	_	SpaceAfter=No
 8	ไถ่	_	VERB	VV	_	4	acl:relcl	_	SpaceAfter=No
 9	ตัว	_	NOUN	NN	_	8	obj	_	SpaceAfter=No
 10	คืน	_	VERB	VV	_	8	acl	_	SpaceAfter=No

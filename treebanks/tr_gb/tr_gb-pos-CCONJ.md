@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  <em>ne</em> (<tt><a href="tr_gb-pos-PRON.
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.100000 (the average of all parts of speech is 2.328930).
+The form / lemma ratio of `CCONJ` is 1.100000 (the average of all parts of speech is 2.331716).
 
 The 1st highest number of forms (2) was observed with the lemma “de”: <em>da, de</em>.
 
@@ -67,9 +67,9 @@ The 2nd highest number of forms (2) was observed with the lemma “ister”: <em
 
 The 3rd highest number of forms (1) was observed with the lemma “ama”: <em>ama</em>.
 
-`CCONJ` occurs with 1 features: <tt><a href="tr_gb-feat-PronType.html">PronType</a></tt> (2; 1% instances)
+`CCONJ` occurs with 1 features: <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt> (2; 1% instances)
 
-`CCONJ` occurs with 1 feature-value pairs: `PronType=Neg`
+`CCONJ` occurs with 1 feature-value pairs: `Polarity=Neg`
 
 `CCONJ` occurs with 2 feature combinations.
 The most frequent feature combination is `_` (194 tokens).

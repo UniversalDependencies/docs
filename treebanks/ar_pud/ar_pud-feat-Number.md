@@ -189,14 +189,14 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="ar_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1158; 62%),
+<tt>NOUN --[<tt><a href="ar_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1178; 62%),
 <tt>NOUN --[<tt><a href="ar_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (914; 67%),
 <tt>VERB --[<tt><a href="ar_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (789; 74%),
 <tt>VERB --[<tt><a href="ar_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (431; 70%),
-<tt>NOUN --[<tt><a href="ar_pud-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (275; 66%),
+<tt>NOUN --[<tt><a href="ar_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (368; 70%),
+<tt>NOUN --[<tt><a href="ar_pud-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (276; 66%),
 <tt>VERB --[<tt><a href="ar_pud-dep-obj.html">obj</a></tt>]--> NOUN</tt> (275; 65%),
 <tt>PROPN --[<tt><a href="ar_pud-dep-flat.html">flat</a></tt>]--> PROPN</tt> (230; 96%),
 <tt>PROPN --[<tt><a href="ar_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (206; 85%),
-<tt>NOUN --[<tt><a href="ar_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (201; 76%),
-<tt>NOUN --[<tt><a href="ar_pud-dep-nmod-gmod.html">nmod:gmod</a></tt>]--> PROPN</tt> (191; 75%).
+<tt>NOUN --[<tt><a href="ar_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (201; 76%).
 

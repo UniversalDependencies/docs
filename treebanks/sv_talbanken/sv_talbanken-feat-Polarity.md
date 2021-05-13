@@ -32,7 +32,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (60; 100% of non-empty `Polarity`): <em>aldrig, knappast, ingalunda, föga, nu, näppeligen, så, knappt, långt, minst</em>
-* `EMPTY` (6971): <em>så, också, hur, där, här, bara, nu, ut, mycket, mer</em>
+* `EMPTY` (6976): <em>så, också, hur, där, här, bara, nu, ut, mycket, mer</em>
 
 `Polarity` seems to be **lexical feature** of `ADV`. 100% lemmas (10) occur only with one value of `Polarity`.
 

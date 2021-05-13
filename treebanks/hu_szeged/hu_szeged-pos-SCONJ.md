@@ -60,13 +60,13 @@ The 3rd highest number of forms (1) was observed with the lemma “ha”: <em>ha
 
 Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="hu_szeged-pos-VERB.html">VERB</a></tt> (587; 78% instances), <tt><a href="hu_szeged-pos-NOUN.html">NOUN</a></tt> (62; 8% instances), <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> (51; 7% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (20; 3% instances), <tt><a href="hu_szeged-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (9; 1% instances), <tt><a href="hu_szeged-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="hu_szeged-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="hu_szeged-pos-DET.html">DET</a></tt> (1; 0% instances)
 
-749 (100%) `SCONJ` nodes are leaves.
+743 (99%) `SCONJ` nodes are leaves.
 
-2 (0%) `SCONJ` nodes have one child.
+8 (1%) `SCONJ` nodes have one child.
 
 The highest child degree of a `SCONJ` node is 1.
 
-Children of `SCONJ` nodes are attached using 2 different relations: <tt><a href="hu_szeged-dep-advmod-mode.html">advmod:mode</a></tt> (1; 50% instances), <tt><a href="hu_szeged-dep-amod-att.html">amod:att</a></tt> (1; 50% instances)
+Children of `SCONJ` nodes are attached using 3 different relations: <tt><a href="hu_szeged-dep-punct.html">punct</a></tt> (6; 75% instances), <tt><a href="hu_szeged-dep-advmod-mode.html">advmod:mode</a></tt> (1; 13% instances), <tt><a href="hu_szeged-dep-amod-att.html">amod:att</a></tt> (1; 13% instances)
 
-Children of `SCONJ` nodes belong to 2 different parts of speech: <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (1; 50% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (1; 50% instances)
+Children of `SCONJ` nodes belong to 3 different parts of speech: <tt><a href="hu_szeged-pos-PUNCT.html">PUNCT</a></tt> (6; 75% instances), <tt><a href="hu_szeged-pos-ADV.html">ADV</a></tt> (1; 13% instances), <tt><a href="hu_szeged-pos-NUM.html">NUM</a></tt> (1; 13% instances)
 

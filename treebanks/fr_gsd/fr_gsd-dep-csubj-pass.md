@@ -8,38 +8,33 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="fr_gsd-dep-csubj.html">csubj</a></tt>.
 
-24 nodes (0%) are attached to their parents as `csubj:pass`.
+26 nodes (0%) are attached to their parents as `csubj:pass`.
 
-24 instances of `csubj:pass` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.25.
+26 instances of `csubj:pass` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.84615384615385.
 
-The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (20; 83% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (3; 13% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (1; 4% instances).
+The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (22; 85% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (3; 12% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 11 csubj:pass	color:blue
+# visual-style 3 5 csubj:pass	color:blue
 1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	wordform=il
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
-3	décidé	décider	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-4	que	que	SCONJ	_	_	11	mark	_	_
-5	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
-6	exécution	exécution	NOUN	_	Gender=Fem|Number=Sing	11	nsubj:pass	_	_
-7	de	de	ADP	_	_	9	case	_	_
-8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	sentence	sentence	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
-10	soit	être	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
-11	différé	différer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|Typo=Yes|VerbForm=Part	3	csubj:pass	_	CorrectGender=Fem|wordform=différée
-12	après	après	ADP	_	_	14	case	_	_
-13	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	14	det	_	SpaceAfter=No
-14	ouverture	ouverture	NOUN	_	Gender=Fem|Number=Sing	11	obl:mod	_	_
-15	de	de	ADP	_	_	17	case	_	_
-16	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	17	det	_	_
-17	États	état	NOUN	_	Gender=Masc|Number=Plur	14	nmod	_	SpaceAfter=No|wordform=états
-18	.	.	PUNCT	_	_	3	punct	_	_
+3	interdit	interdire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	d'	de	ADP	_	_	5	mark	_	SpaceAfter=No
+5	écrire	écrire	VERB	_	VerbForm=Inf	3	csubj:pass	_	_
+6	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	7	det	_	_
+7	commentaires	commentaire	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
+8	contraires	contraire	ADJ	_	Gender=Masc|Number=Plur	7	amod	_	_
+9	à	à	ADP	_	_	11	case	_	_
+10	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
+11	lois	loi	NOUN	_	Gender=Fem|Number=Plur	8	obl:arg	_	_
+12	françaises	français	ADJ	_	Gender=Fem|Number=Plur	11	amod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
@@ -89,7 +84,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 9	capable	capable	ADJ	_	Gender=Masc|Number=Sing	4	csubj:pass	_	_
 10	de	de	ADP	_	_	12	mark	_	_
 11	se	se	PRON	_	Person=3|PronType=Prs	12	dep:comp	_	_
-12	tenir	tenir	VERB	_	VerbForm=Inf	9	xcomp:obl	_	_
+12	tenir	tenir	VERB	_	VerbForm=Inf	9	xcomp	_	_
 13	debout	debout	ADV	_	_	12	advmod	_	_
 14	sur	sur	ADP	_	_	16	case	_	_
 15	deux	deux	NUM	_	Number=Plur	16	nummod	_	_

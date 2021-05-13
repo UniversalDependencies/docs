@@ -38,7 +38,7 @@ The following 26 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 appos	color:blue
-1	-	-	PUNCT	interp	PunctType=Hyph	8	punct	8:punct	_
+1	-	-	PUNCT	interp	PunctType=Dash	8	punct	8:punct	_
 2	Panie	pan	NOUN	subst:sg:voc:m1	Animacy=Hum|Case=Voc|Gender=Masc|Number=Sing	8	vocative	8:vocative	_
 3	podchorąży	podchorąży	NOUN	subst:sg:voc:m1	Animacy=Hum|Case=Voc|Gender=Masc|Number=Sing	2	appos	2:appos	SpaceAfter=No
 4	,	,	PUNCT	interp	PunctType=Comm	2	punct	2:punct	_

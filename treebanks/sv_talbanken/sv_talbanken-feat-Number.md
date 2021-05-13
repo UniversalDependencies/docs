@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 * `Plur` (7072; 32% of non-empty `Number`): <em>barn, år, barnen, procent, människor, kvinnor, miljoner, kronor, fall, länder</em>
 * `Sing` (15358; 68% of non-empty `Number`): <em>del, äktenskapet, år, tid, samhället, familjen, arbete, barn, sätt, äktenskap</em>
-* `EMPTY` (572): <em>kr, %, dr, s., kap., proc, KPI, milj, mån, kl</em>
+* `EMPTY` (567): <em>kr, %, dr, s., kap., proc, KPI, milj, mån, kl</em>
 
 <table>
   <tr><th>Paradigm <i>barn</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

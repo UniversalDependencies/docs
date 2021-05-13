@@ -27,8 +27,8 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 3	хүн	хүн	NOUN	_	Case=Nom	4	nmod	_	_
 4	зондо	зон	NOUN	_	Case=Dat	6	iobj	_	_
 5	терапи	терапи	NOUN	_	Case=Nom	6	nsubj:pass	_	_
-6	зууршалагдаһан	зууршал	VERB	_	VerbForm=Coverb	0	root	_	_
-7	байна	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	6	aux:pass	_	SpaceAfter=No
+6	зууршалагдаһан	зууршал	VERB	_	VerbForm=Inf	0	root	_	_
+7	байна	бай	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~

@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of Analyt in UD_Old_Russian-RNC'
+title:  'Statistics of Analyt in UD_Old_East_Slavic-RNC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-RNC: Features: `Analyt`
+## Treebank Statistics: UD_Old_East_Slavic-RNC: Features: `Analyt`
 
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.

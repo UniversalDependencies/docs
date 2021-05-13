@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>bir</em> (<tt><a href="tr_gb-pos-DET.
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.037037 (the average of all parts of speech is 2.328930).
+The form / lemma ratio of `DET` is 1.037037 (the average of all parts of speech is 2.331716).
 
 The 1st highest number of forms (2) was observed with the lemma “iki”: <em>iki, İki</em>.
 
@@ -61,11 +61,11 @@ The 2nd highest number of forms (1) was observed with the lemma “aynı”: <em
 
 The 3rd highest number of forms (1) was observed with the lemma “bazı”: <em>bazı</em>.
 
-`DET` occurs with 4 features: <tt><a href="tr_gb-feat-PronType.html">PronType</a></tt> (983; 100% instances), <tt><a href="tr_gb-feat-Definite.html">Definite</a></tt> (980; 100% instances), <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt> (29; 3% instances), <tt><a href="tr_gb-feat-Case.html">Case</a></tt> (2; 0% instances)
+`DET` occurs with 3 features: <tt><a href="tr_gb-feat-PronType.html">PronType</a></tt> (983; 100% instances), <tt><a href="tr_gb-feat-Definite.html">Definite</a></tt> (980; 100% instances), <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt> (29; 3% instances)
 
-`DET` occurs with 8 feature-value pairs: `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Polarity=Neg`, `Polarity=Pos`, `PronType=Art`, `PronType=Dem`, `PronType=Int`
+`DET` occurs with 7 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Polarity=Neg`, `Polarity=Pos`, `PronType=Art`, `PronType=Dem`, `PronType=Int`
 
-`DET` occurs with 9 feature combinations.
+`DET` occurs with 8 feature combinations.
 The most frequent feature combination is `Definite=Def|PronType=Art` (488 tokens).
 Examples: <em>bu, o, her, bütün, şu, aynı, öbür, diğer, iki, tek</em>
 

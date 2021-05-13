@@ -136,7 +136,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>ADJ --[<tt><a href="aii_as-dep-cop.html">cop</a></tt>]--> AUX</tt> (19; 100%),
 <tt>NOUN --[<tt><a href="aii_as-dep-det.html">det</a></tt>]--> DET</tt> (12; 92%),
-<tt>VERB --[<tt><a href="aii_as-dep-obj.html">obj</a></tt>]--> NOUN</tt> (10; 71%),
+<tt>VERB --[<tt><a href="aii_as-dep-obj.html">obj</a></tt>]--> NOUN</tt> (9; 69%),
 <tt>ADJ --[<tt><a href="aii_as-dep-conj.html">conj</a></tt>]--> ADJ</tt> (8; 100%),
 <tt>ADJ --[<tt><a href="aii_as-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (8; 89%),
 <tt>VERB --[<tt><a href="aii_as-dep-obl.html">obl</a></tt>]--> NOUN</tt> (8; 89%),

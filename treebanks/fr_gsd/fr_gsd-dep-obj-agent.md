@@ -12,7 +12,7 @@ There are also 1 other language-specific subtypes of `obj`: <tt><a href="fr_gsd-
 113 nodes (0%) are attached to their parents as `obj:agent`.
 
 82 instances of `obj:agent` (73%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.39823008849558.
+Average distance between parent and child is 2.38938053097345.
 
 The following 4 pairs of parts of speech are connected with `obj:agent`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (74; 65% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (33; 29% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (5; 4% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-X.html">X</a></tt> (1; 1% instances).
 
@@ -29,7 +29,7 @@ The following 4 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 4	contribué	contribuer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	à	à	ADP	_	_	7	mark	_	_
 6	faire	faire	AUX	_	VerbForm=Inf	7	aux:caus	_	_
-7	reculer	reculer	VERB	_	VerbForm=Inf	4	xcomp:obl	_	_
+7	reculer	reculer	VERB	_	VerbForm=Inf	4	xcomp	_	_
 8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	pauvreté	pauvreté	NOUN	_	Gender=Fem|Number=Sing	7	obj:agent	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	4	punct	_	_
@@ -49,7 +49,7 @@ The following 4 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 4	à	à	ADP	_	_	7	mark	_	_
 5	la	le	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj:agent	_	_
 6	faire	faire	AUX	_	VerbForm=Inf	7	aux:caus	_	_
-7	circuler	circuler	VERB	_	VerbForm=Inf	2	xcomp:obl	_	_
+7	circuler	circuler	VERB	_	VerbForm=Inf	2	xcomp	_	_
 8	largement	largement	ADV	_	_	7	advmod	_	_
 9	autour	autour	ADV	_	_	7	advmod	_	_
 10	de	de	ADP	_	_	11	case	_	_
@@ -71,7 +71,7 @@ The following 4 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 4	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	5	det	_	_
 5	supporters	supporter	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	_
 6	veulent	vouloir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	advcl	_	_
-7	aider	aider	VERB	_	VerbForm=Inf	6	xcomp:obj	_	_
+7	aider	aider	VERB	_	VerbForm=Inf	6	xcomp	_	_
 8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	club	club	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
 10	à	à	ADP	_	_	12	case	_	_

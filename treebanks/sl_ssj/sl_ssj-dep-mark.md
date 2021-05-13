@@ -25,7 +25,7 @@ The following 16 pairs of parts of speech are connected with `mark`: <tt><a href
 1	Če	če	SCONJ	Cs	_	2	mark	_	Dep=2|Rel=Conj
 2	uporabim	uporabiti	VERB	Vmer1s	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Dep=0|Rel=Root
 3	prispodobo	prispodoba	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No|Dep=2|Rel=Obj
-4	.	.	PUNCT	Z	_	2	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+4	.	.	PUNCT	Z	_	2	punct	_	Dep=0|Rel=Root
 
 ~~~
 
@@ -45,7 +45,7 @@ The following 16 pairs of parts of speech are connected with `mark`: <tt><a href
 7	bodo	biti	AUX	Va-f3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	9	cop	_	Dep=1|Rel=Obj
 8	ravno	ravno	PART	Q	_	9	advmod	_	Dep=9|Rel=Atr
 9	realni	realen	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	ccomp	_	SpaceAfter=No|Dep=7|Rel=Atr
-10	.	.	PUNCT	Z	_	1	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+10	.	.	PUNCT	Z	_	1	punct	_	Dep=0|Rel=Root
 
 ~~~
 

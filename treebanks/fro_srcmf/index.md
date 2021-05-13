@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Sophie Prévost, Aurélie Collomb, Kim Gerdes, Isabelle Tellier, Marine Courtin, Alexei Lavrentiev, Céline Guillot-Barbance, Loïc Grobol.
 
 Repository: [UD_Old_French-SRCMF](https://github.com/UniversalDependencies/UD_Old_French-SRCMF)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfro_srcmf27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfro_srcmf28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -135,7 +135,7 @@ the graph rewriting system [GREW](http://grew.fr) (Bonfante et al., 2018) and ex
 
 ## Relations
 
-[acl](fro_srcmf-dep-acl.html) – [acl:relcl](fro_srcmf-dep-acl-relcl.html) – [advcl](fro_srcmf-dep-advcl.html) – [advmod](fro_srcmf-dep-advmod.html) – [advmod:obl](fro_srcmf-dep-advmod-obl.html) – [amod](fro_srcmf-dep-amod.html) – [appos](fro_srcmf-dep-appos.html) – [aux](fro_srcmf-dep-aux.html) – [aux:pass](fro_srcmf-dep-aux-pass.html) – [case](fro_srcmf-dep-case.html) – [case:det](fro_srcmf-dep-case-det.html) – [cc](fro_srcmf-dep-cc.html) – [cc:nc](fro_srcmf-dep-cc-nc.html) – [ccomp](fro_srcmf-dep-ccomp.html) – [compound](fro_srcmf-dep-compound.html) – [conj](fro_srcmf-dep-conj.html) – [cop](fro_srcmf-dep-cop.html) – [csubj](fro_srcmf-dep-csubj.html) – [det](fro_srcmf-dep-det.html) – [discourse](fro_srcmf-dep-discourse.html) – [dislocated](fro_srcmf-dep-dislocated.html) – [expl](fro_srcmf-dep-expl.html) – [fixed](fro_srcmf-dep-fixed.html) – [flat](fro_srcmf-dep-flat.html) – [iobj](fro_srcmf-dep-iobj.html) – [mark](fro_srcmf-dep-mark.html) – [mark:advmod](fro_srcmf-dep-mark-advmod.html) – [mark:obl](fro_srcmf-dep-mark-obl.html) – [nmod](fro_srcmf-dep-nmod.html) – [nmod:appos](fro_srcmf-dep-nmod-appos.html) – [nsubj](fro_srcmf-dep-nsubj.html) – [nsubj:advmod](fro_srcmf-dep-nsubj-advmod.html) – [nsubj:obj](fro_srcmf-dep-nsubj-obj.html) – [nummod](fro_srcmf-dep-nummod.html) – [obj](fro_srcmf-dep-obj.html) – [obj:advmod](fro_srcmf-dep-obj-advmod.html) – [obj:advneg](fro_srcmf-dep-obj-advneg.html) – [obj:obl](fro_srcmf-dep-obj-obl.html) – [obl](fro_srcmf-dep-obl.html) – [obl:advmod](fro_srcmf-dep-obl-advmod.html) – [obl:mod](fro_srcmf-dep-obl-mod.html) – [parataxis](fro_srcmf-dep-parataxis.html) – [root](fro_srcmf-dep-root.html) – [vocative](fro_srcmf-dep-vocative.html) – [xcomp](fro_srcmf-dep-xcomp.html)
+[acl](fro_srcmf-dep-acl.html) – [acl:relcl](fro_srcmf-dep-acl-relcl.html) – [advcl](fro_srcmf-dep-advcl.html) – [advmod](fro_srcmf-dep-advmod.html) – [advmod:obl](fro_srcmf-dep-advmod-obl.html) – [amod](fro_srcmf-dep-amod.html) – [appos](fro_srcmf-dep-appos.html) – [aux](fro_srcmf-dep-aux.html) – [aux:pass](fro_srcmf-dep-aux-pass.html) – [case](fro_srcmf-dep-case.html) – [case:det](fro_srcmf-dep-case-det.html) – [cc](fro_srcmf-dep-cc.html) – [cc:nc](fro_srcmf-dep-cc-nc.html) – [ccomp](fro_srcmf-dep-ccomp.html) – [compound](fro_srcmf-dep-compound.html) – [conj](fro_srcmf-dep-conj.html) – [cop](fro_srcmf-dep-cop.html) – [csubj](fro_srcmf-dep-csubj.html) – [det](fro_srcmf-dep-det.html) – [discourse](fro_srcmf-dep-discourse.html) – [dislocated](fro_srcmf-dep-dislocated.html) – [expl](fro_srcmf-dep-expl.html) – [fixed](fro_srcmf-dep-fixed.html) – [flat](fro_srcmf-dep-flat.html) – [iobj](fro_srcmf-dep-iobj.html) – [mark](fro_srcmf-dep-mark.html) – [mark:advmod](fro_srcmf-dep-mark-advmod.html) – [nmod](fro_srcmf-dep-nmod.html) – [nsubj](fro_srcmf-dep-nsubj.html) – [nsubj:advmod](fro_srcmf-dep-nsubj-advmod.html) – [nsubj:obj](fro_srcmf-dep-nsubj-obj.html) – [nummod](fro_srcmf-dep-nummod.html) – [obj](fro_srcmf-dep-obj.html) – [obj:advmod](fro_srcmf-dep-obj-advmod.html) – [obj:advneg](fro_srcmf-dep-obj-advneg.html) – [obj:obl](fro_srcmf-dep-obj-obl.html) – [obl](fro_srcmf-dep-obl.html) – [obl:advmod](fro_srcmf-dep-obl-advmod.html) – [parataxis](fro_srcmf-dep-parataxis.html) – [root](fro_srcmf-dep-root.html) – [vocative](fro_srcmf-dep-vocative.html) – [xcomp](fro_srcmf-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -199,7 +199,7 @@ the graph rewriting system [GREW](http://grew.fr) (Bonfante et al., 2018) and ex
   <li>Fin
   <ul>
     <li>AUX: est, a, fu, ad, estoit, avoit, ai, sont, ert, ot</li>
-    <li>VERB: dist, fet, est, fait, a, ad, fist, vint, ot, dit</li>
+    <li>VERB: dist, fet, est, a, fait, ad, fist, vint, ot, dit</li>
   </ul>
   </li>
 </ul>
@@ -208,7 +208,7 @@ the graph rewriting system [GREW](http://grew.fr) (Bonfante et al., 2018) and ex
   <li>Inf
   <ul>
     <li>AUX: estre, avoir, estra, devenir, aveir, estr', iestre, sanbler, turner</li>
-    <li>NOUN: delaier</li>
+    <li>NOUN: deçoivre, Fuïr, clergier, curre, delaier, enconbrier, espleiter, parler, pleisir</li>
     <li>VERB: dire, venir, aler, parler, faire, veoir, avoir, estre, fere, feire</li>
   </ul>
   </li>
@@ -217,9 +217,9 @@ the graph rewriting system [GREW](http://grew.fr) (Bonfante et al., 2018) and ex
 <ul>
   <li>Part
   <ul>
-    <li>ADJ: dolanz, dolantes, hardiz</li>
-    <li>AUX: esté, devenuz, devenu, remés, este, anpiriez, devengunz, devenut, estet, remese</li>
-    <li>NOUN: comandet, morz</li>
+    <li>ADJ: dolenz, dolent, dolanz, avenanz, vaillant, vaillanz, confés, flurie, joiant, avenant</li>
+    <li>AUX: esté, devenuz, devenu, remés, avenanz, este, anpiriez, devengunz, devenut, estet</li>
+    <li>NOUN: semblant, senblant, mort, sanblant, descovert, dit, fait, remanant, ajustee, anchanté</li>
     <li>VERB: fait, dit, mort, mis, fet, venuz, pris, morz, ocis, esté</li>
   </ul>
   </li>
@@ -261,14 +261,6 @@ the graph rewriting system [GREW](http://grew.fr) (Bonfante et al., 2018) and ex
 
 <ul>
   <li><a>Polarity</a></li>
-</ul>
-
-<ul>
-  <li>Int
-    <ul>
-      <li>ADV: enne, en, ene</li>
-    </ul>
-  </li>
 </ul>
 
 <ul>
@@ -356,16 +348,9 @@ the graph rewriting system [GREW](http://grew.fr) (Bonfante et al., 2018) and ex
 <ul>
   <li>Int
     <ul>
+      <li>ADV: enne, en, ene</li>
       <li>DET: quel, qel, quele, quels, Qanz, itels</li>
       <li>PRON: que, qui, coi, ou, qu', quoi, quei, ki, liquels, q'</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Ord
-    <ul>
-      <li>ADJ: premier, tierce, cinquieme, premiere, premiers, tierz, disme, premeraine, premierz, prime</li>
     </ul>
   </li>
 </ul>
@@ -419,6 +404,7 @@ the graph rewriting system [GREW](http://grew.fr) (Bonfante et al., 2018) and ex
 <ul>
   <li>Ord
     <ul>
+      <li>ADJ: premier, tierce, cinquieme, premiere, premiers, tierz, disme, premeraine, premierz, prime</li>
       <li>DET: tierz, premiere, tierce</li>
       <li>PRON: tierz, quarte, terce, disme, quarz, sedme, noefme, premere, quinte, siste</li>
     </ul>
@@ -456,27 +442,21 @@ the graph rewriting system [GREW](http://grew.fr) (Bonfante et al., 2018) and ex
           <li>ADJ: asuage</li>
           <li>ADP: a, ad</li>
           <li>ADV: oi</li>
-          <li>AUX: a</li>
           <li>CCONJ: Et</li>
           <li>INTJ: Os</li>
           <li>NOUN: acorde, aiüe, alge, chastie, curt, dreit, duinst, esrages, estencele, façon</li>
           <li>PROPN: cuntredie</li>
-          <li>VERB: a</li>
         </ul>
       </li>
       <li>VInf
         <ul>
           <li>ADJ: droiturier, ácustumiers</li>
-          <li>NOUN: deçoivre, Fuïr, clergier, curre, enconbrier, espleiter, parler, pleisir</li>
         </ul>
       </li>
       <li>VPar
         <ul>
-          <li>ADJ: dolenz, dolent, avenanz, vaillant, vaillanz, confés, dolanz, flurie, joiant, avenant</li>
           <li>ADP: voiant, oiant</li>
           <li>ADV: errant</li>
-          <li>AUX: avenanz</li>
-          <li>NOUN: semblant, senblant, mort, sanblant, descovert, dit, fait, remanant, ajustee, anchanté</li>
           <li>PROPN: Flurit, Perdut, Sevree</li>
         </ul>
       </li>
@@ -503,10 +483,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--PRON (4)</li>
+      <li>VERB--PRON (3)</li>
       <li>VERB-Fin--NOUN (2763)</li>
       <li>VERB-Fin--NOUN-ADP(_) (2)</li>
-      <li>VERB-Fin--PRON (6942)</li>
+      <li>VERB-Fin--PRON (6943)</li>
       <li>VERB-Fin--PRON-ADP(_) (3)</li>
       <li>VERB-Inf--NOUN (146)</li>
       <li>VERB-Inf--PRON (766)</li>
@@ -519,8 +499,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (2)</li>
-      <li>VERB-Fin--NOUN (4701)</li>
+      <li>VERB-Fin--NOUN (4703)</li>
       <li>VERB-Fin--NOUN-ADP(_) (69)</li>
       <li>VERB-Fin--PRON (4584)</li>
       <li>VERB-Fin--PRON-ADP(_) (8)</li>
@@ -556,6 +535,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 15 relation subtypes: <a>acl:relcl</a>, <a>advmod:obl</a>, <a>aux:pass</a>, <a>case:det</a>, <a>cc:nc</a>, <a>mark:advmod</a>, <a>mark:obl</a>, <a>nmod:appos</a>, <a>nsubj:advmod</a>, <a>nsubj:obj</a>, <a>obj:advmod</a>, <a>obj:advneg</a>, <a>obj:obl</a>, <a>obl:advmod</a>, <a>obl:mod</a></li>
+<li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>advmod:obl</a>, <a>aux:pass</a>, <a>case:det</a>, <a>cc:nc</a>, <a>mark:advmod</a>, <a>nsubj:advmod</a>, <a>nsubj:obj</a>, <a>obj:advmod</a>, <a>obj:advneg</a>, <a>obj:obl</a>, <a>obl:advmod</a></li>
 <li>The following 7 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>punct</a>, <a>dep</a></li>
 </ul>

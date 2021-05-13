@@ -11,9 +11,9 @@ This relation is universal.
 9524 nodes (4%) are attached to their parents as `root`.
 
 9524 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.0977530449391.
+Average distance between parent and child is 7.09796304073919.
 
-The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (8118; 85% instances), -<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (712; 7% instances), -<tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (320; 3% instances), -<tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (175; 2% instances), -<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (56; 1% instances), -<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (39; 0% instances), -<tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (30; 0% instances), -<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (22; 0% instances), -<tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> (19; 0% instances), -<tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (15; 0% instances), -<tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (7; 0% instances), -<tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), -<tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (4; 0% instances), -<tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), -<tt><a href="ro_rrt-pos-X.html">X</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (8137; 85% instances), -<tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (711; 7% instances), -<tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (306; 3% instances), -<tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (171; 2% instances), -<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (58; 1% instances), -<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (39; 0% instances), -<tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (30; 0% instances), -<tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (22; 0% instances), -<tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> (19; 0% instances), -<tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (15; 0% instances), -<tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (7; 0% instances), -<tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), -<tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (3; 0% instances), -<tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), -<tt><a href="ro_rrt-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -34,7 +34,7 @@ The following 15 pairs of parts of speech are connected with `root`: -<tt><a hre
 10	CU	cu	ADP	Spsa	AdpType=Prep|Case=Acc	9	fixed	_	_
 11	OCHII	ochi	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	9	fixed	_	_
 12	PE	pe	ADP	Spsa	AdpType=Prep|Case=Acc	13	case	_	_
-13	TINE	tu	PRON	Pp2-sa--------s	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Strong	9	nmod:pmod	_	SpaceAfter=No
+13	TINE	tu	PRON	Pp2-sa--------s	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Strong	9	obl:pmod	_	SpaceAfter=No
 14	.	.	PUNCT	PERIOD	_	4	punct	_	_
 
 ~~~
@@ -49,7 +49,7 @@ The following 15 pairs of parts of speech are connected with `root`: -<tt><a hre
 1	Scrisul	scris	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	6	nsubj	_	_
 2	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
 3	sine	sine	PRON	Px3--a--------s	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Strong	1	amod	_	_
-4	era	fi	AUX	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
+4	era	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	_
 5	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	6	det	_	_
 6	treabă	treabă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
 7	ușoară	ușor	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
@@ -71,7 +71,7 @@ The following 15 pairs of parts of speech are connected with `root`: -<tt><a hre
 5	ziua	zi	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	3	nmod	_	_
 6	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
 7	azi	azi	ADV	Rgp	Degree=Pos	5	advmod	_	_
-8	erau	fi	AUX	Vmii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
+8	erau	fi	AUX	Vaii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
 9	îngrozitori	îngrozitor	ADJ	Afpmp-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	PERIOD	_	9	punct	_	_
 

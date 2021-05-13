@@ -32,7 +32,7 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 8	seboj	se	PRON	Px---i	Case=Ins|PronType=Prs|Reflex=Yes	10	nmod	_	Dep=10|Rel=Atr
 9	tesno	tesno	ADV	Rgp	Degree=Pos	10	advmod	_	Dep=10|Rel=Atr
 10	povezana	povezan	ADJ	Appmdn	Case=Nom|Degree=Pos|Gender=Masc|Number=Dual|VerbForm=Part	0	root	_	SpaceAfter=No|Dep=6|Rel=Atr
-11	.	.	PUNCT	Z	_	10	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+11	.	.	PUNCT	Z	_	10	punct	_	Dep=0|Rel=Root
 
 ~~~
 
@@ -50,7 +50,7 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 5	"	"	PUNCT	Z	_	6	punct	_	SpaceAfter=No|Dep=0|Rel=Root
 6	nacionalizma	nacionalizem	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No|Dep=4|Rel=Atr
 7	"	"	PUNCT	Z	_	6	punct	_	SpaceAfter=No|Dep=0|Rel=Root
-8	?	?	PUNCT	Z	_	4	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+8	?	?	PUNCT	Z	_	4	punct	_	Dep=0|Rel=Root
 
 ~~~
 
@@ -72,7 +72,7 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 9	ga	on	PRON	Pp3msa--y	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	11	obj	_	Dep=11|Rel=Obj
 10	sploh	sploh	PART	Q	_	11	advmod	_	Dep=0|Rel=Root
 11	imamo	imeti	VERB	Vmpr1p-n	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	parataxis	_	SpaceAfter=No|Dep=0|Rel=Root
-12	!	!	PUNCT	Z	_	1	punct	_	SpaceAfter=No|Dep=0|Rel=Root
+12	!	!	PUNCT	Z	_	1	punct	_	Dep=0|Rel=Root
 
 ~~~
 

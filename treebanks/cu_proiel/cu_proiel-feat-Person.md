@@ -11,14 +11,14 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 18082 tokens (31%) have a non-empty value of `Person`.
 2970 types (30%) occur at least once with a non-empty value of `Person`.
-913 lemmas (30%) occur at least once with a non-empty value of `Person`.
+912 lemmas (30%) occur at least once with a non-empty value of `Person`.
 The feature is used with 4 part-of-speech tags: <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> (8704; 15% instances), <tt><a href="cu_proiel-pos-PRON.html">PRON</a></tt> (6348; 11% instances), <tt><a href="cu_proiel-pos-AUX.html">AUX</a></tt> (1863; 3% instances), <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> (1167; 2% instances).
 
 ### `VERB`
 
 8704 <tt><a href="cu_proiel-pos-VERB.html">VERB</a></tt> tokens (69% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8704; 100%), <tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8704; 100%), <tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (8704; 100%), <tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8704; 100%), <tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8703; 100%), <tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7859; 90%), <tt><a href="cu_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5662; 65%), <tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (4373; 50%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="cu_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8704; 100%), <tt><a href="cu_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8704; 100%), <tt><a href="cu_proiel-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (8704; 100%), <tt><a href="cu_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8704; 100%), <tt><a href="cu_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8703; 100%), <tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7859; 90%), <tt><a href="cu_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5662; 65%), <tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (4373; 50%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -118,10 +118,13 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><tt><a href="cu_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cu_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>бꙑсте</em></td><td><em>бꙑшѧ</em></td></tr>
   <tr><td><tt><tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="cu_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>бѫди</em></td><td><em>бѫди</em></td></tr>
   <tr><td><tt><tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="cu_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>бѫдѣте</em></td><td><em>Бѫдѫ</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cu_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cu_proiel-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>нѣсмъ, нѣсмь</em></td><td><em>нѣси</em></td><td><em>нѣстъ, нѣ, нѣсть</em></td></tr>
   <tr><td><tt><tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cu_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>бѫдѫ</em></td><td><em>бѫдеши</em></td><td><em>бѫдетъ, бодетъ, бѫде</em></td></tr>
   <tr><td><tt><tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cu_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>есмъ, есмь, е҅смъ</em></td><td><em>еси, е҅си, си</em></td><td><em>естъ, есть, е҅стъ, е</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cu_proiel-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="cu_proiel-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>нѣсте</em></td></tr>
   <tr><td><tt><tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cu_proiel-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td></td><td><em>бѫдете</em></td></tr>
   <tr><td><tt><tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cu_proiel-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>есвѣ</em></td><td><em>еста</em></td><td><em>есте</em></td></tr>
+  <tr><td><tt><tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cu_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cu_proiel-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>нѣсмъ</em></td><td><em>нѣсте</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cu_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td><em>бѫдете, бѫдѣте</em></td><td><em>бѫдѫтъ, бодѫтъ, бѫтъ</em></td></tr>
   <tr><td><tt><tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="cu_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>есмъ</em></td><td><em>есте</em></td><td><em>сѫтъ, сѫть</em></td></tr>
   <tr><td><tt><tt><a href="cu_proiel-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="cu_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cu_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>бимь, бимъ</em></td><td><em>би</em></td><td><em>би</em></td></tr>
@@ -132,7 +135,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 1167 <tt><a href="cu_proiel-pos-ADJ.html">ADJ</a></tt> tokens (22% of all `ADJ` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `ADJ` and `Person` co-occurred: <tt><a href="cu_proiel-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1167; 100%), <tt><a href="cu_proiel-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (1167; 100%), <tt><a href="cu_proiel-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (1167; 100%), <tt><a href="cu_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (827; 71%).
+The most frequent other feature values with which `ADJ` and `Person` co-occurred: <tt><a href="cu_proiel-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1167; 100%), <tt><a href="cu_proiel-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (1167; 100%), <tt><a href="cu_proiel-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1167; 100%), <tt><a href="cu_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt> (827; 71%).
 
 `ADJ` tokens may have the following values of `Person`:
 

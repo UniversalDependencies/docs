@@ -39,20 +39,18 @@ The following 23 pairs of parts of speech are connected with `advmod:emph`: <tt>
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 6 advmod:emph	color:blue
-1	Hélium	hélium	NOUN	SSns1	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	5:nsubj	_
-2	sa	sa	PRON	R	PronType=Prs|Reflex=Yes	5	expl:pv	5:expl:pv	_
-3	na	na	ADP	Eu6	AdpType=Prep|Case=Loc	4	case	4:case	_
-4	Zemi	zem	PROPN	SSfs6:r	Case=Loc|Gender=Fem|Number=Sing	5	obl	5:obl:na:loc	_
-5	vyskytuje	vyskytovať	VERB	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-6	iba	iba	PART	T	_	8	advmod:emph	8:advmod:emph	_
-7	veľmi	veľmi	ADV	Dx	Degree=Pos	8	advmod	8:advmod	_
-8	vzácne	vzácne	ADV	Dx	Degree=Pos	5	advmod	5:advmod	SpaceAfter=No
-9	.	.	PUNCT	Z	_	5	punct	5:punct	_
+# visual-style 6 5 advmod:emph	color:blue
+1	Mladý	mladý	ADJ	AAms1x	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	2:amod	_
+2	Matej	matej	PROPN	SSms1:r	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj	_
+3	pobudol	pobudnúť	VERB	VLdscm+	Animacy=Anim|Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	0:root	_
+4	doma	doma	ADV	Dx	Degree=Pos	3	advmod	3:advmod	_
+5	iba	iba	PART	T	_	6	advmod:emph	6:advmod:emph	_
+6	krátko	krátko	ADV	Dx	Degree=Pos	3	advmod	3:advmod	SpaceAfter=No
+7	.	.	PUNCT	ZIP	_	3	punct	3:punct	_
 
 ~~~
 

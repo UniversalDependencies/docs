@@ -132,10 +132,10 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 30	,	,	PUNCT	Z:-------------	_	34	punct	_	_
 31	která	který	DET	P4FS1----------	Case=Nom|Gender=Fem|Number=Sing|PronType=Int,Rel	34	nsubj	_	_
 32	by	být	AUX	Vc-------------	Mood=Cnd|VerbForm=Fin	34	aux	_	_
-33	ji	on	PRON	PPFS4--3-------	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	34	obj	_	LId=on-1
+33	ji	on	PRON	PPFS4--3-------	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	34	obj	_	LId=on-1
 34	omezovala	omezovat	VERB	VpQW---XR-AA---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	29	acl:relcl	_	_
 35	nebo	nebo	CCONJ	J^-------------	_	37	cc	_	_
-36	ji	on	PRON	PPFS4--3-------	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	37	iobj	_	LId=on-1
+36	ji	on	PRON	PPFS4--3-------	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	37	iobj	_	LId=on-1
 37	zabraňovala	zabraňovat	VERB	VpQW---XR-AA---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	34	conj	_	_
 38	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	40	case	_	LId=v-1
 39	této	tento	DET	PDFS6----------	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	40	det	_	_

@@ -12,7 +12,7 @@ Some words have combined values of the feature; 1 combinations have been observe
 
 138 tokens (44%) have a non-empty value of `Case`.
 63 types (60%) occur at least once with a non-empty value of `Case`.
-33 lemmas (53%) occur at least once with a non-empty value of `Case`.
+33 lemmas (54%) occur at least once with a non-empty value of `Case`.
 The feature is used with 5 part-of-speech tags: <tt><a href="wbp_ufal-pos-NOUN.html">NOUN</a></tt> (107; 34% instances), <tt><a href="wbp_ufal-pos-PRON.html">PRON</a></tt> (23; 7% instances), <tt><a href="wbp_ufal-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="wbp_ufal-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="wbp_ufal-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -45,7 +45,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PRON`
 
-23 <tt><a href="wbp_ufal-pos-PRON.html">PRON</a></tt> tokens (92% of all `PRON` tokens) have a non-empty value of `Case`.
+23 <tt><a href="wbp_ufal-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="wbp_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (22; 96%), <tt><a href="wbp_ufal-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (22; 96%), <tt><a href="wbp_ufal-feat-Person.html">Person</a></tt><tt>=1</tt> (12; 52%).
 
@@ -55,7 +55,6 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `All` (1; 4% of non-empty `Case`): <em>nyuntukurra</em>
 * `Dat` (5; 22% of non-empty `Case`): <em>nyuntuku, ngajuku, yaliki</em>
 * `Erg` (8; 35% of non-empty `Case`): <em>ngajulurlu, nyuntulurlu, Ngajulurlurna</em>
-* `EMPTY` (2): <em>rna</em>
 
 <table>
   <tr><th>Paradigm <i>nyuntu</i></th><th><tt>Abs</tt></th><th><tt>Erg</tt></th><th><tt>Dat</tt></th><th><tt>All</tt></th></tr>

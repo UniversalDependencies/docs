@@ -24,9 +24,9 @@ The following 25 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 1 3 ccomp	color:blue
 1	Слꙑшасте	слꙑшати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_5.27
 2	ѣко	ꙗко	SCONJ	G-	_	3	mark	_	ref=MATT_5.27
-3	речено	рещи	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	1	ccomp	_	ref=MATT_5.27
+3	речено	рещи	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	1	ccomp	_	ref=MATT_5.27
 4	бꙑⷭ҇	бꙑти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	ref=MATT_5.27
-5	древънимъ	древльнь	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur|Strength=Weak	3	iobj	_	ref=MATT_5.27
+5	древънимъ	древльнь	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	3	iobj	_	ref=MATT_5.27
 
 ~~~
 
@@ -53,11 +53,11 @@ The following 25 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 8 9 ccomp	color:blue
 1	они	онъ	ADJ	Pd	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	ref=MARK_6.49
 2	же	же	ADV	Df	_	8	discourse	_	ref=MARK_6.49
-3	видѣвъше	видѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	8	advcl	_	ref=MARK_6.49
+3	видѣвъше	видѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	8	advcl	_	ref=MARK_6.49
 4	и	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	ref=MARK_6.49
 5	по	по	ADP	R-	_	6	case	_	ref=MARK_6.49
 6	морю	морѥ	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	7	obl	_	ref=MARK_6.49
-7	ходѧштъ	ходити	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	3	xcomp	_	ref=MARK_6.49
+7	ходѧштъ	ходити	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	3	xcomp	_	ref=MARK_6.49
 8	непьштевашѧ	непьщевати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MARK_6.49
 9	призракъ	призракъ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	ccomp	_	ref=MARK_6.49
 10	бꙑти	бꙑти	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	9	cop	_	ref=MARK_6.49

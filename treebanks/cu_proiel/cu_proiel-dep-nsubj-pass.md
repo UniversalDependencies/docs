@@ -31,7 +31,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 7	бѣ	бꙑти	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	ref=MARK_6.52
 8	сръдъце	срьдьце	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	10	nsubj:pass	_	ref=MARK_6.52
 9	ихъ	и	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	8	det	_	ref=MARK_6.52
-10	окаменено	окаменити	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	2	conj	_	ref=MARK_6.52
+10	окаменено	окаменити	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	conj	_	ref=MARK_6.52
 
 ~~~
 
@@ -46,7 +46,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 2	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=LUKE_7.27
 3	о	о	ADP	R-	_	4	case	_	ref=LUKE_7.27
 4	немьже	иже	PRON	Pr	Case=Loc|Gender=Masc|Number=Sing|PronType=Rel	5	obl	_	ref=LUKE_7.27
-5	писано	пьсати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=LUKE_7.27
+5	писано	пьсати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	ref=LUKE_7.27
 6	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=LUKE_7.27
 
 ~~~
@@ -61,7 +61,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 1	талитакоумъ	талиѳакоумъ	X	F-	_	0	root	_	ref=MARK_5.41
 2	еже	иже	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	4	nsubj:pass	_	ref=MARK_5.41
 3	естъ	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ref=MARK_5.41
-4	съказаемое	съказати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Weak|Tense=Pres|VerbForm=Part|Voice=Pass	1	advcl	_	ref=MARK_5.41
+4	съказаемое	съказати	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	1	advcl	_	ref=MARK_5.41
 
 ~~~
 

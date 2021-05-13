@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Fabio Tamburini, Maria Simi, Cristina Bosco.
 
 Repository: [UD_Italian-VIT](https://github.com/UniversalDependencies/UD_Italian-VIT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_vit27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_vit28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -96,13 +96,13 @@ September 2017, 248-254.
 
 ## Relations
 
-[acl](it_vit-dep-acl.html) – [acl:relcl](it_vit-dep-acl-relcl.html) – [advcl](it_vit-dep-advcl.html) – [advmod](it_vit-dep-advmod.html) – [amod](it_vit-dep-amod.html) – [appos](it_vit-dep-appos.html) – [aux](it_vit-dep-aux.html) – [aux:pass](it_vit-dep-aux-pass.html) – [case](it_vit-dep-case.html) – [cc](it_vit-dep-cc.html) – [ccomp](it_vit-dep-ccomp.html) – [compound](it_vit-dep-compound.html) – [conj](it_vit-dep-conj.html) – [cop](it_vit-dep-cop.html) – [csubj](it_vit-dep-csubj.html) – [dep](it_vit-dep-dep.html) – [det](it_vit-dep-det.html) – [det:poss](it_vit-dep-det-poss.html) – [det:predet](it_vit-dep-det-predet.html) – [discourse](it_vit-dep-discourse.html) – [dislocated](it_vit-dep-dislocated.html) – [expl](it_vit-dep-expl.html) – [expl:impers](it_vit-dep-expl-impers.html) – [expl:pass](it_vit-dep-expl-pass.html) – [fixed](it_vit-dep-fixed.html) – [flat](it_vit-dep-flat.html) – [flat:foreign](it_vit-dep-flat-foreign.html) – [flat:name](it_vit-dep-flat-name.html) – [iobj](it_vit-dep-iobj.html) – [mark](it_vit-dep-mark.html) – [nmod](it_vit-dep-nmod.html) – [nsubj](it_vit-dep-nsubj.html) – [nsubj:pass](it_vit-dep-nsubj-pass.html) – [nummod](it_vit-dep-nummod.html) – [obj](it_vit-dep-obj.html) – [obl](it_vit-dep-obl.html) – [obl:agent](it_vit-dep-obl-agent.html) – [orphan](it_vit-dep-orphan.html) – [parataxis](it_vit-dep-parataxis.html) – [punct](it_vit-dep-punct.html) – [root](it_vit-dep-root.html) – [vocative](it_vit-dep-vocative.html) – [xcomp](it_vit-dep-xcomp.html)
+[acl](it_vit-dep-acl.html) – [acl:relcl](it_vit-dep-acl-relcl.html) – [advcl](it_vit-dep-advcl.html) – [advmod](it_vit-dep-advmod.html) – [amod](it_vit-dep-amod.html) – [appos](it_vit-dep-appos.html) – [aux](it_vit-dep-aux.html) – [aux:pass](it_vit-dep-aux-pass.html) – [case](it_vit-dep-case.html) – [cc](it_vit-dep-cc.html) – [ccomp](it_vit-dep-ccomp.html) – [compound](it_vit-dep-compound.html) – [conj](it_vit-dep-conj.html) – [cop](it_vit-dep-cop.html) – [csubj](it_vit-dep-csubj.html) – [dep](it_vit-dep-dep.html) – [det](it_vit-dep-det.html) – [det:poss](it_vit-dep-det-poss.html) – [det:predet](it_vit-dep-det-predet.html) – [discourse](it_vit-dep-discourse.html) – [dislocated](it_vit-dep-dislocated.html) – [expl](it_vit-dep-expl.html) – [expl:impers](it_vit-dep-expl-impers.html) – [expl:pass](it_vit-dep-expl-pass.html) – [fixed](it_vit-dep-fixed.html) – [flat](it_vit-dep-flat.html) – [flat:foreign](it_vit-dep-flat-foreign.html) – [flat:name](it_vit-dep-flat-name.html) – [iobj](it_vit-dep-iobj.html) – [list](it_vit-dep-list.html) – [mark](it_vit-dep-mark.html) – [nmod](it_vit-dep-nmod.html) – [nsubj](it_vit-dep-nsubj.html) – [nsubj:pass](it_vit-dep-nsubj-pass.html) – [nummod](it_vit-dep-nummod.html) – [obj](it_vit-dep-obj.html) – [obl](it_vit-dep-obl.html) – [obl:agent](it_vit-dep-obl-agent.html) – [orphan](it_vit-dep-orphan.html) – [parataxis](it_vit-dep-parataxis.html) – [punct](it_vit-dep-punct.html) – [root](it_vit-dep-root.html) – [vocative](it_vit-dep-vocative.html) – [xcomp](it_vit-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 10087 sentences, 259567 tokens and 280013 syntactic words.</li>
+<li>This corpus contains 10087 sentences, 259479 tokens and 279984 syntactic words.</li>
 </ul>
 
 <ul>
@@ -114,12 +114,12 @@ September 2017, 248-254.
 </ul>
 
 <ul>
-<li>This corpus contains 85 types of words that contain both letters and punctuation. Examples: l', d', un', c', quest', s', all', vent', anch', quell', trent', dell', tutt', com', /ter, c-c, cos', g-1, quarant', 14/a, baby-sitter, centro-sinistra, dev', g/1, joint-venture, n', po', senz', 1990-equ-100, Banfield-tripcovich, Bèghin-say, Lehnigk-emden, Sant', bloc-notes, h-1, mezz', nient', null', qual', sessant', 's, /bis, 0,03%minus, 108/a, 12-mo, 38-ma, 5/h9/051, 500-equ-250, Alain-gauze, Avanti_!</li>
+<li>This corpus contains 85 types of words that contain both letters and punctuation. Examples: l', d', un', c', quest', s', all', vent', anch', quell', trent', tutt', com', /ter, c-c, cos', dell', g-1, quarant', 14/a, baby-sitter, centro-sinistra, dev', g/1, joint-venture, n', po', senz', 1990-equ-100, Banfield-tripcovich, Bèghin-say, Lehnigk-emden, Sant', bloc-notes, h-1, mezz', nient', null', qual', sessant', 's, /bis, 0,03%minus, 108/a, 12-mo, 38-ma, 5/h9/051, 500-equ-250, Alain-gauze, Avanti_!</li>
 </ul>
 
 <ul>
-<li>This corpus contains 20438 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 559 types of multi-word tokens. Examples: del, della, al, dei, dell', delle, nel, alla, all', nella, ai, dal, degli, dalla, alle, sul, dall', nell', sulla, nei, nelle, agli, dello, sui, dalle, dai, negli, sulle, sull', dagli, allo, nello, sugli, dallo, col, sullo, farsi, essersi, farlo, misurarsi, coi, darsi, trovarsi, disporsi, impegnarsi, porsi, averla, battersi, confrontarsi, diffondersi.</li>
+<li>This corpus contains 20496 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 560 types of multi-word tokens. Examples: del, della, al, dei, dell', delle, nel, alla, all', nella, ai, dal, degli, dalla, alle, sul, dall', nell', sulla, nei, nelle, agli, dello, sui, dalle, dai, negli, sulle, sull', dagli, allo, nello, sugli, dallo, col, sullo, farsi, essersi, farlo, misurarsi, coi, darsi, trovarsi, disporsi, impegnarsi, porsi, averla, battersi, confrontarsi, diffondersi.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -139,11 +139,11 @@ September 2017, 248-254.
 </ul>
 
 <ul>
-<li>This corpus contains 50 lemmas tagged as determiners (DET): alcuno, altrettanto, altro, ambedue, certo, che, ciascuno, codesto, cui, del, delle, determinato, diverso, entrambi, il, l, loro, mio, molto, nessuna, nessuno, niente, nostro, nulla, ogni, parecchio, più, poco, proprio, qualche, quale, qualsiasi, qualunque, quanta, quanto, quello, questo, sua, suo, tale, taluno, tanto, the, troppo, tuo, tutta, tutto, un, uno, vostro</li>
+<li>This corpus contains 51 lemmas tagged as determiners (DET): alcuno, altrettanto, altro, ambedue, certo, che, ciascuno, codesto, cui, del, delle, determinato, diverso, entrambi, il, l, la, loro, mio, molto, nessuna, nessuno, niente, nostro, nulla, ogni, parecchio, più, poco, proprio, qualche, quale, qualsiasi, qualunque, quanta, quanto, quello, questo, sua, suo, tale, taluno, tanto, the, troppo, tuo, tutta, tutto, un, uno, vostro</li>
 </ul>
 
 <ul>
-<li>Out of the above, 36 lemmas occurred sometimes as PRON and sometimes as DET: alcuno, altro, ambedue, certo, che, ciascuno, cui, entrambi, il, loro, mio, molto, nessuno, niente, nostro, nulla, ogni, parecchio, più, poco, proprio, qualche, quale, qualunque, quanto, quello, questo, suo, tale, tanto, troppo, tuo, tutta, tutto, un, uno</li>
+<li>Out of the above, 37 lemmas occurred sometimes as PRON and sometimes as DET: alcuno, altro, ambedue, certo, che, ciascuno, cui, entrambi, il, la, loro, mio, molto, nessuno, niente, nostro, nulla, ogni, parecchio, più, poco, proprio, qualche, quale, qualunque, quanto, quello, questo, suo, tale, tanto, troppo, tuo, tutta, tutto, un, uno</li>
 </ul>
 
 <ul>
@@ -192,7 +192,7 @@ September 2017, 248-254.
 <ul>
   <li>Part
   <ul>
-    <li>ADJ: abilitati, crescenti, illegittima, morta, sommato</li>
+    <li>ADJ: abilitati, illegittima, morta, sommato</li>
     <li>AUX: stato, stata, stati, state, potuto, dovuto, voluto, fatto, dovuta, fatta</li>
     <li>NOUN: redigente, controllanti, cauzionante</li>
     <li>PRON: adattate</li>
@@ -216,12 +216,11 @@ September 2017, 248-254.
       <li>ADV: estremamente, inizialmente, costantemente, normalmente, celermente, contrariamente, lungamente, solamente, una, Molte</li>
       <li>AUX-Part: stata, state, dovuta, fatta, voluta</li>
       <li>CCONJ: essa</li>
-      <li>DET: la, le, una, l', un', sua, questa, tutte, queste, sue</li>
-      <li>NOUN: società, attività, parte, legge, titolarità, provincia, città, domanda, sede, gestione</li>
+      <li>DET: la, le, una, un', sua, questa, tutte, queste, sue, quella</li>
+      <li>NOUN: società, attività, parte, legge, titolarità, provincia, città, sede, domanda, gestione</li>
       <li>NUM: un', terza, una, mezza</li>
       <li>PRON: quella, la, quelle, le, una, essa, questa, queste, altra, esse</li>
       <li>PRON-Part: adattate</li>
-      <li>PROPN: PACA</li>
       <li>PUNCT: le</li>
       <li>VERB: prevista, indicate, presentata, comprese, effettuata, fatta, richiesta, data, previste, richieste</li>
       <li>VERB-Part: prevista, indicate, presentata, comprese, effettuata, fatta, richiesta, data, previste, richieste</li>
@@ -233,14 +232,14 @@ September 2017, 248-254.
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: precedente, altri, nuovo, economico, stesso, nuovi, scorso, altro, finanziario, ultimo</li>
+      <li>ADJ: altri, nuovo, economico, stesso, nuovi, scorso, altro, finanziario, ultimo, italiano</li>
       <li>ADJ-Part: abilitati, sommato</li>
       <li>ADP: dietro, mezzo, per, ne, niente, rispetto, vicini</li>
       <li>ADV: volta, molto, poco, fa, lungo, troppo, no, seguito, casual, dietro</li>
       <li>AUX: stato, stati, potuto, dovuto, voluto, fatto, dovuti, essere, voluti</li>
       <li>AUX-Part: stato, stati, potuto, dovuto, voluto, fatto, dovuti, voluti</li>
       <li>CCONJ: quanti, altro, caso, quanto</li>
-      <li>DET: il, i, un, gli, lo, questo, suo, tutti, l', questi</li>
+      <li>DET: il, i, un, gli, lo, questo, suo, tutti, questi, uno</li>
       <li>INTJ: ok</li>
       <li>NOUN: anni, miliardi, anno, posti, presidente, punto, governo, stato, gruppo, lavoro</li>
       <li>NUM: miliardi, milioni, un, primi, terzi, bis, rientro, uno</li>
@@ -248,7 +247,7 @@ September 2017, 248-254.
       <li>SCONJ: quanto, addebitati, caso, nel</li>
       <li>VERB: fatto, detto, approvato, previsto, avuto, previsti, deciso, ottenuto, visto, dato</li>
       <li>VERB-Part: fatto, detto, approvato, previsto, avuto, previsti, deciso, ottenuto, visto, chiesto</li>
-      <li>X: personal, station, work, computer, bond, open, space, bar, business, condicio</li>
+      <li>X: personal, station, work, computer, bond, open, space, business, condicio, dragon</li>
     </ul>
   </li>
 </ul>
@@ -262,7 +261,7 @@ September 2017, 248-254.
   <li>Plur
     <ul>
       <li>ADJ: grandi, altri, sociali, altre, disponibili, nuovi, seguenti, titolari, nuove, internazionali</li>
-      <li>ADJ-Part: abilitati, crescenti</li>
+      <li>ADJ-Part: abilitati</li>
       <li>ADP: quali, ne, per, vicini</li>
       <li>ADV: Molte, inesigibili, infine, soli, altri, prese, prossimi, semi, volte</li>
       <li>AUX: hanno, sono, stati, possono, devono, saranno, erano, siano, abbiamo, siamo</li>
@@ -289,9 +288,9 @@ September 2017, 248-254.
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: grande, presente, netto, generale, nazionale, sociale, precedente, possibile, finanziaria, civile</li>
+      <li>ADJ: precedente, grande, presente, netto, generale, nazionale, sociale, possibile, finanziaria, civile</li>
       <li>ADJ-Part: illegittima, morta, sommato</li>
-      <li>ADP: coll, stante, Per, niente, rispetto</li>
+      <li>ADP: stante, Per, niente, rispetto</li>
       <li>ADV: pò, molto, poco, troppo, generale, ogni, nulla, seguito, una, orizzontale</li>
       <li>ADV-Fin: pare</li>
       <li>AUX-Fin: è, ha, sono, era, sarà, deve, può, sia, aveva, ho</li>
@@ -356,7 +355,7 @@ September 2017, 248-254.
 <ul>
   <li>Cmp
     <ul>
-      <li>ADJ: maggiore, superiore, maggior, maggiori, inferiore, minori, superiori, migliore, minore, miglior</li>
+      <li>ADJ: maggiore, superiore, maggior, maggiori, inferiore, minori, superiori, migliore, minore, migliori</li>
     </ul>
   </li>
 </ul>
@@ -469,7 +468,6 @@ September 2017, 248-254.
 <ul>
   <li>Pres
     <ul>
-      <li>ADJ-Part: crescenti</li>
       <li>ADV-Fin: pare</li>
       <li>AUX-Fin: è, ha, sono, hanno, deve, può, sia, possono, devono, ho</li>
       <li>CCONJ-Fin: pesino</li>
@@ -493,7 +491,7 @@ September 2017, 248-254.
 <ul>
   <li>Art
     <ul>
-      <li>DET: il, la, l', i, le, un, una, gli, lo, un'</li>
+      <li>DET: il, la, l', i, le, un, gli, una, lo, un'</li>
       <li>NUM: uno</li>
       <li>PRON: altro, Tutti, altri, ognuna, qualcosa, una</li>
     </ul>
@@ -504,7 +502,7 @@ September 2017, 248-254.
   <li>Dem
     <ul>
       <li>ADJ: altro, dato, tali</li>
-      <li>DET: questo, questa, questi, tale, tali, queste, quella, quest', quel, quei</li>
+      <li>DET: questo, questa, questi, tale, tali, queste, quest', quella, quel, quei</li>
       <li>PRON: quello, ciò, quella, quelli, questo, quelle, questi, questa, queste, coloro</li>
     </ul>
   </li>
@@ -552,7 +550,7 @@ September 2017, 248-254.
   <li>Prs
     <ul>
       <li>DET: sua, suo, loro, nostro, suoi, sue, nostra, mia, mio, propria</li>
-      <li>PRON: si, ci, lo, c', ne, mi, la, l', vi, gli</li>
+      <li>PRON: si, ci, lo, c', ne, mi, la, l', vi, io</li>
       <li>PRON-Part: adattate</li>
       <li>PUNCT: :</li>
     </ul>
@@ -706,7 +704,7 @@ September 2017, 248-254.
 </ul>
 
 <ul>
-<li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: avere, essere, potere, dovere, volere, stare, fare, venire, andare, sapere.</li>
+<li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: avere, essere, potere, dovere, volere, stare, fare, andare, venire, sapere.</li>
 <li>This corpus uses 9 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: essere, venire, andare, avere, dovere, potere, stare, fare, volere.</li>
 </ul>
 
@@ -717,14 +715,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (4)</li>
-      <li>VERB--PRON (4)</li>
-      <li>VERB-Fin--NOUN (2817)</li>
+      <li>VERB--PRON (5)</li>
+      <li>VERB-Fin--NOUN (2821)</li>
       <li>VERB-Fin--PRON (1683)</li>
-      <li>VERB-Ger--NOUN (40)</li>
+      <li>VERB-Ger--NOUN (42)</li>
       <li>VERB-Ger--PRON (31)</li>
-      <li>VERB-Inf--NOUN (409)</li>
-      <li>VERB-Inf--PRON (180)</li>
-      <li>VERB-Part--NOUN (1236)</li>
+      <li>VERB-Inf--NOUN (407)</li>
+      <li>VERB-Inf--PRON (179)</li>
+      <li>VERB-Part--NOUN (1241)</li>
       <li>VERB-Part--PRON (546)</li>
     </ul>
   </li>
@@ -733,15 +731,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (92)</li>
-      <li>VERB--PRON (4)</li>
-      <li>VERB-Fin--NOUN (2220)</li>
+      <li>VERB--NOUN (90)</li>
+      <li>VERB--PRON (5)</li>
+      <li>VERB-Fin--NOUN (2221)</li>
       <li>VERB-Fin--PRON (546)</li>
-      <li>VERB-Ger--NOUN (370)</li>
+      <li>VERB-Ger--NOUN (369)</li>
       <li>VERB-Ger--PRON (44)</li>
-      <li>VERB-Inf--NOUN (2206)</li>
-      <li>VERB-Inf--PRON (263)</li>
-      <li>VERB-Part--NOUN (1252)</li>
+      <li>VERB-Inf--NOUN (2209)</li>
+      <li>VERB-Inf--PRON (262)</li>
+      <li>VERB-Part--NOUN (1253)</li>
       <li>VERB-Part--PRON (341)</li>
     </ul>
   </li>
@@ -772,5 +770,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>det:poss</a>, <a>det:predet</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
-<li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

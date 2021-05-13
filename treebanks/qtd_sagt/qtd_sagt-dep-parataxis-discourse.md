@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="qtd_sagt-dep-parataxis.html">parataxis</a></tt>.
 There are also 1 other language-specific subtypes of `parataxis`: <tt><a href="qtd_sagt-dep-parataxis-trans.html">parataxis:trans</a></tt>.
 
-190 nodes (1%) are attached to their parents as `parataxis:discourse`.
+224 nodes (1%) are attached to their parents as `parataxis:discourse`.
 
-101 instances of `parataxis:discourse` (53%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.41052631578947.
+120 instances of `parataxis:discourse` (54%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.30803571428571.
 
-The following 27 pairs of parts of speech are connected with `parataxis:discourse`: <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (96; 51% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (18; 9% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (11; 6% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (11; 6% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-PART.html">PART</a></tt> (11; 6% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-PART.html">PART</a></tt> (6; 3% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (5; 3% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-INTJ.html">INTJ</a></tt> (3; 2% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 29 pairs of parts of speech are connected with `parataxis:discourse`: <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (112; 50% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (23; 10% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (13; 6% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-PART.html">PART</a></tt> (12; 5% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (10; 4% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (7; 3% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-PART.html">PART</a></tt> (6; 3% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-INTJ.html">INTJ</a></tt> (3; 1% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt>-<tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt>-<tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt>-<tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt>-<tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -50,7 +50,7 @@ The following 27 pairs of parts of speech are connected with `parataxis:discours
 4	şey	şey	NOUN	_	Case=Nom|Number=Sing	5	xcomp	_	LangID=TR
 5	olmak	ol	VERB	_	Number=Sing|VerbForm=Vnoun	6	csubj	_	LangID=TR
 6	lazım	lazım	ADJ	_	_	0	root	_	LangID=TR
-7	sprachenbegabt	Sprachebegabt	ADJ	_	_	6	dislocated	_	LangID=DE
+7	sprachenbegabt	Sprachebegabt	ADJ	_	_	6	dislocated	_	LangID=DE|DislocateHead=4
 8	meinst	meinen	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	6	parataxis:discourse	_	LangID=DE
 9	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	LangID=DE|SpaceAfter=No
 10	?	?	PUNCT	_	_	6	punct	_	LangID=OTHER
@@ -59,21 +59,21 @@ The following 27 pairs of parts of speech are connected with `parataxis:discours
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 1 parataxis:discourse	color:blue
-1	Guck	gucken	VERB	_	Mood=Imp|Number=Sing	9	parataxis:discourse	_	LangID=DE
-2	mal	mal	ADV	_	_	1	advmod	_	LangID=DE
-3	ramazanda	ramazan	NOUN	_	Case=Loc|Number=Sing	9	obl	_	LangID=TR
-4	waren	sein	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	9	cop	_	LangID=DE
-5	wir	wir	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	LangID=DE
-6	doch	doch	ADV	_	_	9	advmod	_	LangID=DE
-7	in	in	ADP	_	_	9	case	_	LangID=DE
-8	einer	ein	DET	_	Case=Dat|Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	LangID=DE
-9	Moschee	Moschee	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	9	punct	_	LangID=OTHER
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 parataxis:discourse	color:blue
+1	Hani	hani	ADV	_	_	2	discourse	_	LangID=TR
+2	yemek	yemek	NOUN	_	Case=Nom|Number=Sing	0	root	_	LangID=TR
+3	de	de	ADV	_	_	2	advmod:emph	_	LangID=TR
+4	değil	değil	PART	_	_	9	cc	_	LangID=TR
+5	weißt	wissen	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	parataxis:discourse	_	LangID=DE
+6	du	du	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	LangID=DE
+7	einfach	einfach	ADJ	_	_	9	advmod	_	LangID=DE
+8	nur	nur	ADV	_	_	9	advmod	_	LangID=DE
+9	Wasser	Wasser	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	xcomp	_	LangID=DE|SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	LangID=OTHER
 
 ~~~
 

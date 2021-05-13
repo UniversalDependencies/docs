@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="hi_pud-dep-aux-pass.html">aux:pass</a></tt>.
 
-1205 nodes (5%) are attached to their parents as `aux`.
+1203 nodes (5%) are attached to their parents as `aux`.
 
-1205 instances of `aux` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.57095435684647.
+1203 instances of `aux` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.5378221113882.
 
-The following 11 pairs of parts of speech are connected with `aux`: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (1049; 87% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (136; 11% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (10; 1% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-X.html">X</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (1051; 87% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (136; 11% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-X.html">X</a></tt>-<tt><a href="hi_pud-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -66,26 +66,27 @@ The following 11 pairs of parts of speech are connected with `aux`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 aux	color:blue
-1	मैं	_	PRON	PRP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=1	5	nsubj	_	Translit=maiṁ
-2	किसी	_	DET	DTI	_	4	det	_	Translit=kisī
-3	भी	_	PART	EMPH	_	2	discourse	_	Translit=bhī
-4	तरह	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	obl	_	Translit=taraha
-5	जेल	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=jela
-6	जा	_	AUX	VB	_	5	aux	_	Translit=jā
-7	रहा	_	AUX	VXH	Aspect=Prog|Gender=Masc|Mood=Ind|Number=Sing|Person=3	5	aux	_	Translit=rahā
-8	हूं	_	AUX	VXH	Gender=Masc|Number=Sing|Person=1|Tense=Pres	5	aux	_	SpaceAfter=No|Translit=hūṁ
-9	,	_	PUNCT	,	_	10	punct	_	Translit=,
-10	शायद	_	ADV	RB	_	5	advmod	_	Translit=śāyada
-11	यह	_	PRON	PRP	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	_	Bug=aux-child|Translit=yaha
-12	इसी	_	DET	DT	Definite=Def|Number=Sing	5	det	_	Bug=aux-child|Translit=isī
-13	लायक	_	ADJ	JJ	_	5	aux	_	Translit=lāyaka
-14	था	_	AUX	VBI	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	5	cop	_	SpaceAfter=No|Bug=aux-child|Translit=thā
-15	।	_	PUNCT	.	_	5	punct	_	Translit=.
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 15 aux	color:blue
+1	डेन्यूब	_	PROPN	NNP	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	nmod	_	ToDo=nmod|Translit=ḍenyūba
+2	से	_	ADP	IN	Case=Acc	1	case	_	Translit=se
+3	माल	_	NOUN	NN	Animacy=Inan|Gender=Masc|Number=Sing	4	compound	_	Translit=māla
+4	परिवहन	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	nmod:poss	_	Translit=parivahana
+5	की	_	ADP	IN	Case=Gen|Gender=Fem	4	case	_	Translit=kī
+6	मात्रा	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	obj	_	Translit=mātrā
+7	1987	_	NUM	CD	NumType=Card	9	obl:tmod	_	Translit=1987
+8	में	_	ADP	IN	Case=Loc	7	case	_	Translit=meṁ
+9	बढ़कर	_	VERB	VB	_	13	acl	_	Translit=baṛhakara
+10	लगभग	_	DET	QF	_	11	det	_	Translit=lagabhaga
+11	100	_	NUM	CD	NumType=Card	12	nummod	_	Translit=100
+12	मिलियन	_	NUM	CD	NumType=Card	13	nummod	_	Translit=miliyana
+13	टन	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	Translit=ṭana
+14	हो	_	AUX	VB	_	13	cop	_	Translit=ho
+15	गयी	_	AUX	VXH	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past	13	aux	_	SpaceAfter=No|Translit=gayī
+16	।	_	PUNCT	.	_	13	punct	_	Translit=.
 
 ~~~
 

@@ -65,19 +65,18 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 1 case	color:blue
 1	À	à	ADP	_	_	2	case	_	_
-2	qui	qui	PRON	_	PronType=Int	7	obl:arg	_	_
-3	Shostakovitch	Shostakovitch	PROPN	_	_	7	nsubj	_	_
-4	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:tense	_	SpaceAfter=No
-5	-t	t	PART	_	_	6	dep	_	SpaceAfter=No|wordform=t
-6	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3	7	expl:subj	_	wordform=il
-7	dédié	dédier	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-8	son	son	DET	_	Number=Sing|Poss=Yes	9	det	_	_
-9	quatuor	quatuor	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
-10	à	à	ADP	_	_	11	case	_	_
-11	cordes	corde	NOUN	_	Gender=Fem|Number=Plur	9	nmod	_	_
-12	no	no	NOUN	_	_	9	nmod	_	_
-13	8	8	NUM	_	NumType=Card	12	nummod	_	_
-14	?	?	PUNCT	_	_	7	punct	_	_
+2	qui	qui	PRON	_	PronType=Int	6	obl:arg	_	_
+3	Shostakovitch	Shostakovitch	PROPN	_	_	6	nsubj	_	_
+4	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:tense	_	SpaceAfter=No
+5	-t-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3	6	expl:subj	_	_
+6	dédié	dédier	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+7	son	son	DET	_	Number=Sing|Poss=Yes	8	det	_	_
+8	quatuor	quatuor	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
+9	à	à	ADP	_	_	10	case	_	_
+10	cordes	corde	NOUN	_	Gender=Fem|Number=Plur	8	nmod	_	_
+11	no	no	NOUN	_	_	8	nmod	_	_
+12	8	8	NUM	_	NumType=Card	11	nummod	_	_
+13	?	?	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

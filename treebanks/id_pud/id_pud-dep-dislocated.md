@@ -39,11 +39,11 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 15	menjadi	jadi	VERB	_	Mood=Ind|Voice=Act	14	xcomp	_	_
 16	besar	besar	ADJ	_	_	15	xcomp	_	_
 17	efek	efek	NOUN	_	Number=Sing	14	dislocated	_	_
-18	nya	nya	DET	_	_	17	det	_	_
+18	nya	nya	DET	_	PronType=Dem	17	det	_	_
 19	pada	pada	ADP	_	_	20	case	_	_
 20	sistem	sistem	NOUN	_	Number=Sing	14	nmod	_	_
 21	itu	itu	DET	_	PronType=Dem	20	det	_	_
-22	secara	cara	ADP	_	_	23	case:adv	_	_
+22	secara	cara	ADP	_	_	23	case	_	_
 23	keseluruhan	seluruh	NOUN	_	Number=Sing	14	obl	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -67,10 +67,10 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 9	ini	ini	DET	_	PronType=Dem	4	det	_	_
 10	erat	erat	ADJ	_	_	0	root	_	_
 11	kaitan	kait	NOUN	_	Number=Sing	10	dislocated	_	_
-12	nya	nya	DET	_	_	11	det	_	_
+12	nya	nya	DET	_	PronType=Dem	11	det	_	_
 13	dengan	dengan	SCONJ	_	_	14	mark	_	_
 14	berkembang	kembang	VERB	_	Mood=Ind|Voice=Act	10	advcl	_	_
-15	nya	nya	DET	_	_	14	det	_	_
+15	nya	nya	DET	_	PronType=Dem	14	det	_	_
 16	obsesi	obsesi	NOUN	_	Number=Sing	14	nsubj	_	_
 17	kita	kita	PRON	_	Clusivity=In|Number=Plur|Person=1|Poss=Yes|PronType=Prs	16	nmod:poss	_	_
 18	untuk	untuk	SCONJ	_	_	19	mark	_	_

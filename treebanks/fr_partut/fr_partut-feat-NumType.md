@@ -46,7 +46,7 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 `PRON` tokens may have the following values of `NumType`:
 
 * `Ord` (3; 100% of non-empty `NumType`): <em>derniers, premier, premiers</em>
-* `EMPTY` (1617): <em>qui, nous, il, je, vous, ce, s', se, c', on</em>
+* `EMPTY` (1608): <em>qui, nous, il, je, vous, ce, s', se, c', on</em>
 
 ## Relations with Agreement in `NumType`
 

@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Danish-DDT: Relations: `obl`
 
 This relation is universal.
-There are 2 language-specific subtypes of `obl`: <tt><a href="da_ddt-dep-obl-loc.html">obl:loc</a></tt>, <tt><a href="da_ddt-dep-obl-tmod.html">obl:tmod</a></tt>.
+There are 2 language-specific subtypes of `obl`: <tt><a href="da_ddt-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="da_ddt-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-6158 nodes (6%) are attached to their parents as `obl`.
+6159 nodes (6%) are attached to their parents as `obl`.
 
-5033 instances of `obl` (82%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.89753166612537.
+5034 instances of `obl` (82%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.89754830329599.
 
-The following 16 pairs of parts of speech are connected with `obl`: <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (3966; 64% instances), <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (650; 11% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (469; 8% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (386; 6% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> (310; 5% instances), <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt>-<tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (86; 1% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (80; 1% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> (67; 1% instances), <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt>-<tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> (64; 1% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (36; 1% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="da_ddt-pos-X.html">X</a></tt> (16; 0% instances), <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt>-<tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (15; 0% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt>-<tt><a href="da_ddt-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `obl`: <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (3967; 64% instances), <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (650; 11% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="da_ddt-pos-NOUN.html">NOUN</a></tt> (469; 8% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (386; 6% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> (310; 5% instances), <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt>-<tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (86; 1% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (80; 1% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> (67; 1% instances), <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt>-<tt><a href="da_ddt-pos-PRON.html">PRON</a></tt> (64; 1% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="da_ddt-pos-PROPN.html">PROPN</a></tt> (36; 1% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="da_ddt-pos-X.html">X</a></tt> (16; 0% instances), <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt>-<tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (15; 0% instances), <tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="da_ddt-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="da_ddt-pos-ADV.html">ADV</a></tt>-<tt><a href="da_ddt-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="da_ddt-pos-VERB.html">VERB</a></tt>-<tt><a href="da_ddt-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -47,7 +47,7 @@ The following 16 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 3 5 obl	color:blue
 1	Skrab	skrabe	VERB	_	Mood=Imp	0	root	_	_
 2	kernerne	kerne	NOUN	_	Definite=Def|Gender=Com|Number=Plur	1	obj	_	_
-3	ud	ud	ADV	_	_	1	obl:loc	_	_
+3	ud	ud	ADV	_	_	1	advmod:lmod	_	_
 4	af	af	ADP	_	AdpType=Prep	5	case	_	_
 5	agurk	agurk	NOUN	_	Definite=Ind|Gender=Com|Number=Sing	3	obl	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	1	punct	_	_

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Héctor Martínez Alonso, Daniel Zeman.
 
 Repository: [UD_Spanish-AnCora](https://github.com/UniversalDependencies/UD_Spanish-AnCora)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_ancora27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_ancora28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: GNU GPL 3.0
 
@@ -62,6 +62,25 @@ to the UD contact address listed at the end of this README file).
 
 ## Acknowledgments
 
+The following paper must be cited when using this corpus:
+
+* Taulé, M., M.A. Martí, M. Recasens (2008) 'Ancora: Multilevel Annotated Corpora for Catalan and Spanish',
+Proceedings of 6th International Conference on Language Resources and Evaluation. Marrakesh (Morocco).
+
+In addition, the following paper must be cited if coreference information (attributes entity, coreftype,
+corefsubtype, homophoricDD or entityref) is used:
+
+* Recasens, Marta, M. Antònia Martí (2010) ‘AnCora-CO: Coreferentially annotated corpora for Spanish and
+Catalan’. Language Resources and Evaluation, Springer Science.
+
+Additionally, the following paper must be cited when argumental attributes in "sn" or "grup.nom"
+(attributes func, arg, tem or lexicalid) are used:
+
+* Peris, Aina, Mariona Taulé, Horacio Rodríguez (2010) ‘Semantic Annotation of Deverbal Nominalizations in the
+Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
+
+
+
 # Statistics of UD Spanish AnCora
 
 ## POS Tags
@@ -70,21 +89,21 @@ to the UD contact address listed at the end of this README file).
 
 ## Features
 
-[AdpType](es_ancora-feat-AdpType.html) – [AdvType](es_ancora-feat-AdvType.html) – [Case](es_ancora-feat-Case.html) – [Definite](es_ancora-feat-Definite.html) – [Degree](es_ancora-feat-Degree.html) – [Foreign](es_ancora-feat-Foreign.html) – [Gender](es_ancora-feat-Gender.html) – [Mood](es_ancora-feat-Mood.html) – [Number](es_ancora-feat-Number.html) – [Number[psor]](es_ancora-feat-Number-psor.html) – [NumForm](es_ancora-feat-NumForm.html) – [NumType](es_ancora-feat-NumType.html) – [Person](es_ancora-feat-Person.html) – [Polarity](es_ancora-feat-Polarity.html) – [Polite](es_ancora-feat-Polite.html) – [Poss](es_ancora-feat-Poss.html) – [PrepCase](es_ancora-feat-PrepCase.html) – [PronType](es_ancora-feat-PronType.html) – [PunctSide](es_ancora-feat-PunctSide.html) – [PunctType](es_ancora-feat-PunctType.html) – [Reflex](es_ancora-feat-Reflex.html) – [Tense](es_ancora-feat-Tense.html) – [VerbForm](es_ancora-feat-VerbForm.html)
+[AdvType](es_ancora-feat-AdvType.html) – [Case](es_ancora-feat-Case.html) – [Definite](es_ancora-feat-Definite.html) – [Degree](es_ancora-feat-Degree.html) – [Foreign](es_ancora-feat-Foreign.html) – [Gender](es_ancora-feat-Gender.html) – [Mood](es_ancora-feat-Mood.html) – [Number](es_ancora-feat-Number.html) – [Number[psor]](es_ancora-feat-Number-psor.html) – [NumForm](es_ancora-feat-NumForm.html) – [NumType](es_ancora-feat-NumType.html) – [Person](es_ancora-feat-Person.html) – [Polarity](es_ancora-feat-Polarity.html) – [Polite](es_ancora-feat-Polite.html) – [Poss](es_ancora-feat-Poss.html) – [PrepCase](es_ancora-feat-PrepCase.html) – [PronType](es_ancora-feat-PronType.html) – [PunctSide](es_ancora-feat-PunctSide.html) – [PunctType](es_ancora-feat-PunctType.html) – [Reflex](es_ancora-feat-Reflex.html) – [Tense](es_ancora-feat-Tense.html) – [Typo](es_ancora-feat-Typo.html) – [VerbForm](es_ancora-feat-VerbForm.html)
 
 ## Relations
 
-[acl](es_ancora-dep-acl.html) – [advcl](es_ancora-dep-advcl.html) – [advmod](es_ancora-dep-advmod.html) – [amod](es_ancora-dep-amod.html) – [appos](es_ancora-dep-appos.html) – [aux](es_ancora-dep-aux.html) – [aux:pass](es_ancora-dep-aux-pass.html) – [case](es_ancora-dep-case.html) – [cc](es_ancora-dep-cc.html) – [ccomp](es_ancora-dep-ccomp.html) – [compound](es_ancora-dep-compound.html) – [conj](es_ancora-dep-conj.html) – [cop](es_ancora-dep-cop.html) – [csubj](es_ancora-dep-csubj.html) – [csubj:pass](es_ancora-dep-csubj-pass.html) – [dep](es_ancora-dep-dep.html) – [det](es_ancora-dep-det.html) – [discourse](es_ancora-dep-discourse.html) – [expl](es_ancora-dep-expl.html) – [expl:impers](es_ancora-dep-expl-impers.html) – [expl:pass](es_ancora-dep-expl-pass.html) – [expl:pv](es_ancora-dep-expl-pv.html) – [fixed](es_ancora-dep-fixed.html) – [flat](es_ancora-dep-flat.html) – [iobj](es_ancora-dep-iobj.html) – [list](es_ancora-dep-list.html) – [mark](es_ancora-dep-mark.html) – [nmod](es_ancora-dep-nmod.html) – [nsubj](es_ancora-dep-nsubj.html) – [nsubj:pass](es_ancora-dep-nsubj-pass.html) – [nummod](es_ancora-dep-nummod.html) – [obj](es_ancora-dep-obj.html) – [obl](es_ancora-dep-obl.html) – [orphan](es_ancora-dep-orphan.html) – [parataxis](es_ancora-dep-parataxis.html) – [punct](es_ancora-dep-punct.html) – [root](es_ancora-dep-root.html) – [xcomp](es_ancora-dep-xcomp.html)
+[acl](es_ancora-dep-acl.html) – [acl:relcl](es_ancora-dep-acl-relcl.html) – [advcl](es_ancora-dep-advcl.html) – [advmod](es_ancora-dep-advmod.html) – [amod](es_ancora-dep-amod.html) – [appos](es_ancora-dep-appos.html) – [aux](es_ancora-dep-aux.html) – [aux:pass](es_ancora-dep-aux-pass.html) – [case](es_ancora-dep-case.html) – [cc](es_ancora-dep-cc.html) – [ccomp](es_ancora-dep-ccomp.html) – [compound](es_ancora-dep-compound.html) – [conj](es_ancora-dep-conj.html) – [cop](es_ancora-dep-cop.html) – [csubj](es_ancora-dep-csubj.html) – [csubj:pass](es_ancora-dep-csubj-pass.html) – [dep](es_ancora-dep-dep.html) – [det](es_ancora-dep-det.html) – [discourse](es_ancora-dep-discourse.html) – [expl](es_ancora-dep-expl.html) – [expl:impers](es_ancora-dep-expl-impers.html) – [expl:pass](es_ancora-dep-expl-pass.html) – [expl:pv](es_ancora-dep-expl-pv.html) – [fixed](es_ancora-dep-fixed.html) – [flat](es_ancora-dep-flat.html) – [iobj](es_ancora-dep-iobj.html) – [list](es_ancora-dep-list.html) – [mark](es_ancora-dep-mark.html) – [nmod](es_ancora-dep-nmod.html) – [nsubj](es_ancora-dep-nsubj.html) – [nsubj:pass](es_ancora-dep-nsubj-pass.html) – [nummod](es_ancora-dep-nummod.html) – [obj](es_ancora-dep-obj.html) – [obl](es_ancora-dep-obl.html) – [orphan](es_ancora-dep-orphan.html) – [parataxis](es_ancora-dep-parataxis.html) – [punct](es_ancora-dep-punct.html) – [root](es_ancora-dep-root.html) – [xcomp](es_ancora-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 17680 sentences, 547680 tokens and 549569 syntactic words.</li>
+<li>This corpus contains 17680 sentences, 547655 tokens and 560245 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 62439 tokens (11%) that are not followed by a space.</li>
+<li>This corpus contains 62438 tokens (11%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -92,12 +111,12 @@ to the UD contact address listed at the end of this README file).
 </ul>
 
 <ul>
-<li>This corpus contains 617 types of words that contain both letters and punctuation. Examples: TV-3, W., d'Esquadra, A., fig., G., S., coca-cola, d'Hebron, E., Iber-X, M., C., Alvarez-Cascos, B., Castilla-La, L., P., TVE-1, A-7, L'Hospitalet, Macapagal-Arroyo, Reynard/Honda, Ruiz-Mateos, Sotheby's, TCNQ-TTF, A-2, Alonso-Cuevillas, Carod-Rovira, D'Alema, IC-V, Ibex-35, Ivesur-PTV, J., PSC-PSOE, PSE-EE, PSE-PSOE, Paral.lel, T., d'Ebre, 12-M, CATAC-Presons, Deportivo-Juventus, F., Heinz-Harald, Horta-Guinardó, Jean-Pierre, Madrid-Barça, Miami-Dade, O'Neal</li>
+<li>This corpus contains 616 types of words that contain both letters and punctuation. Examples: TV-3, W., d'Esquadra, A., fig., G., S., coca-cola, d'Hebron, E., Iber-X, M., C., Alvarez-Cascos, B., Castilla-La, L., P., TVE-1, A-7, L'Hospitalet, Macapagal-Arroyo, Reynard/Honda, Ruiz-Mateos, Sotheby's, TCNQ-TTF, A-2, Alonso-Cuevillas, Carod-Rovira, D'Alema, IC-V, Ibex-35, Ivesur-PTV, J., PSC-PSOE, PSE-EE, PSE-PSOE, Paral.lel, T., d'Ebre, 12-M, CATAC-Presons, Deportivo-Juventus, F., Heinz-Harald, Horta-Guinardó, Jean-Pierre, Madrid-Barça, Miami-Dade, O'Neal</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1887 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 1083 types of multi-word tokens. Examples: hacerlo, hacerse, haberse, convertirse, darle, enfrentarse, encontrarse, darse, presentarse, reunirse, situarse, ponerse, producirse, dedicarse, mantenerse, quedarse, conseguirlo, imponerse, sentirse, someterse, acercarse, asegurarse, considerarse, incorporarse, iniciarse, pedirle, referirse, irse, llevarse, pronunciarse, sentarse, verse, conocerse, darles, desprenderse, hacerle, situándose, tratarse, alejarse, casarse, clasificarse, concentrarse, distanciarse, fijarse, manifestarse, retirarse, alzarse, aplicarse, celebrarse, deberse.</li>
+<li>This corpus contains 12568 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 1094 types of multi-word tokens. Examples: del, al, hacerlo, hacerse, haberse, convertirse, darle, enfrentarse, encontrarse, darse, presentarse, reunirse, situarse, ponerse, producirse, dedicarse, mantenerse, quedarse, conseguirlo, imponerse, sentirse, someterse, acercarse, asegurarse, considerarse, incorporarse, iniciarse, pedirle, referirse, do, irse, llevarse, pronunciarse, sentarse, verse, conocerse, da, darles, desprenderse, hacerle, situándose, tratarse, alejarse, casarse, clasificarse, concentrarse, distanciarse, fijarse, manifestarse, retirarse.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -117,7 +136,7 @@ to the UD contact address listed at the end of this README file).
 </ul>
 
 <ul>
-<li>This corpus contains 53 lemmas tagged as determiners (DET): A, Al, Seu, Seva, alguno, aquel, bastante, cada, cierto, cual, cualquiera, cuanto, cuánto, demasiado, demás, diferente, dios, distinto, diverso, dos, el, els, escaso, ese, este, mi, mismo, mismísimo, mucho, muchísimo, musha, mía, mío, ninguno, nuestro, otra, otro, poco, propio, qué, sabe, semejante, sendos, su, suyas, suyo, tal, tanto, todo, tu, uno, varios, vuestro</li>
+<li>This corpus contains 54 lemmas tagged as determiners (DET): A, Al, Seu, Seva, alguno, aquel, bastante, cada, cierto, cual, cualquiera, cuanto, cuánto, demasiado, demás, diferente, dios, distinto, diverso, dos, el, els, escaso, ese, este, mi, mismo, mismísimo, mucho, muchísimo, musha, mía, mío, ninguno, nuestro, o, otra, otro, poco, propio, qué, sabe, semejante, sendos, su, suyas, suyo, tal, tanto, todo, tu, uno, varios, vuestro</li>
 </ul>
 
 <ul>
@@ -244,7 +263,7 @@ to the UD contact address listed at the end of this README file).
       <li>ADJ-Part: pasado, pasada, previsto, abierta, abierto, dispuesto, hecho, privado, fallecido, llamado</li>
       <li>AUX-Fin: es, ha, fue, está, había, hay, puede, era, será, debe</li>
       <li>AUX-Part: sido, podido, estado, habido, ido, debido</li>
-      <li>DET: la, el, un, una, su, este, esta, todo, esa, ese</li>
+      <li>DET: el, la, un, una, su, este, esta, todo, esa, ese</li>
       <li>NOUN: presidente, equipo, partido, país, año, parte, ministro, mundo, grupo, portavoz</li>
       <li>NOUN-Fin: parte, alusión, banda, capitulo, cara, hincapié, punto, vergüenza</li>
       <li>NOUN-Part: heredado</li>
@@ -336,7 +355,7 @@ to the UD contact address listed at the end of this README file).
 <ul>
   <li>Def
     <ul>
-      <li>DET: la, el, los, las, Al, A</li>
+      <li>DET: el, la, los, las, a, o, Al, els</li>
       <li>PRON: lo</li>
     </ul>
   </li>
@@ -479,7 +498,7 @@ to the UD contact address listed at the end of this README file).
   <li>Pres
     <ul>
       <li>AUX-Fin: es, ha, han, son, está, hay, puede, están, debe, sea</li>
-      <li>VERB-Fin: tiene, hace, tienen, quiere, parece, dice, sigue, está, trata, creo</li>
+      <li>VERB-Fin: tiene, hace, tienen, quiere, parece, dice, sigue, está, trata, da</li>
     </ul>
   </li>
 </ul>
@@ -496,7 +515,7 @@ to the UD contact address listed at the end of this README file).
 <ul>
   <li>Art
     <ul>
-      <li>DET: la, el, los, un, las, una, unos, unas, els, Al</li>
+      <li>DET: el, la, los, un, las, una, unos, unas, els, a</li>
     </ul>
   </li>
 </ul>
@@ -688,27 +707,6 @@ to the UD contact address listed at the end of this README file).
 
 
 <ul>
-  <li><a>AdpType</a>
-    <ul>
-      <li>Prep
-        <ul>
-          <li>ADJ: junto, debido, gran, nuevo</li>
-          <li>ADP: de, en, a, por, con, para, entre, sobre, sin, desde</li>
-          <li>ADV: además, encima, debajo, acerca, después, dentro, detrás, aparte, delante, lejos</li>
-        </ul>
-      </li>
-      <li>Preppron
-        <ul>
-          <li>ADJ: junto, debido, mismo</li>
-          <li>ADP: del, al, da, do, dels, als, de, pelo</li>
-          <li>ADV: además, debajo, acerca, detrás, encima, después, dentro, lejos, alrededor, delante</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li><a>AdvType</a>
     <ul>
       <li>Tim
@@ -727,7 +725,11 @@ to the UD contact address listed at the end of this README file).
     <ul>
       <li>Yes
         <ul>
-          <li>DET: Al, A</li>
+          <li>ADP: de</li>
+          <li>CCONJ: i</li>
+          <li>DET: Al, A, la</li>
+          <li>NOUN: Comerç, Conselleria, Indústria, Turisme</li>
+          <li>PROPN: Generalitat</li>
         </ul>
       </li>
     </ul>
@@ -819,6 +821,18 @@ to the UD contact address listed at the end of this README file).
   </li>
 </ul>
 
+<ul>
+  <li><a>Typo</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>AUX-Fin: esté</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -838,26 +852,28 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (10189)</li>
+      <li>VERB-Fin--NOUN (10187)</li>
+      <li>VERB-Fin--NOUN-ADP(a) (5)</li>
       <li>VERB-Fin--NOUN-ADP(alrededor) (1)</li>
       <li>VERB-Fin--NOUN-ADP(alrededor)-ADP(de) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(del) (1)</li>
+      <li>VERB-Fin--NOUN-ADP(de) (1)</li>
       <li>VERB-Fin--NOUN-ADP(sobre) (1)</li>
-      <li>VERB-Fin--PRON (5004)</li>
+      <li>VERB-Fin--PRON (5007)</li>
       <li>VERB-Fin--PRON-Acc (6)</li>
-      <li>VERB-Fin--PRON-Acc,Nom (214)</li>
+      <li>VERB-Fin--PRON-Acc,Nom (215)</li>
       <li>VERB-Fin--PRON-Dat (1)</li>
       <li>VERB-Fin--PRON-Nom (94)</li>
       <li>VERB-Ger--NOUN (130)</li>
       <li>VERB-Ger--PRON (65)</li>
       <li>VERB-Ger--PRON-Acc,Nom (7)</li>
       <li>VERB-Ger--PRON-Nom (2)</li>
-      <li>VERB-Inf--NOUN (827)</li>
-      <li>VERB-Inf--NOUN-ADP(a) (1)</li>
+      <li>VERB-Inf--NOUN (826)</li>
+      <li>VERB-Inf--NOUN-ADP(a) (2)</li>
       <li>VERB-Inf--PRON (309)</li>
       <li>VERB-Inf--PRON-Acc,Nom (24)</li>
       <li>VERB-Inf--PRON-Nom (8)</li>
-      <li>VERB-Part--NOUN (1787)</li>
+      <li>VERB-Part--NOUN (1784)</li>
+      <li>VERB-Part--NOUN-ADP(a) (4)</li>
       <li>VERB-Part--NOUN-ADP(en) (1)</li>
       <li>VERB-Part--PRON (710)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
@@ -870,18 +886,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (8448)</li>
-      <li>VERB-Fin--NOUN-ADP(a) (1175)</li>
+      <li>VERB-Fin--NOUN (8443)</li>
+      <li>VERB-Fin--NOUN-ADP(a) (1582)</li>
+      <li>VERB-Fin--NOUN-ADP(a)-ADP(de) (1)</li>
       <li>VERB-Fin--NOUN-ADP(acerca) (3)</li>
-      <li>VERB-Fin--NOUN-ADP(al) (399)</li>
-      <li>VERB-Fin--NOUN-ADP(al)-ADP(de) (1)</li>
       <li>VERB-Fin--NOUN-ADP(ante) (3)</li>
       <li>VERB-Fin--NOUN-ADP(bajo) (2)</li>
       <li>VERB-Fin--NOUN-ADP(con) (274)</li>
       <li>VERB-Fin--NOUN-ADP(contra) (11)</li>
-      <li>VERB-Fin--NOUN-ADP(de) (480)</li>
-      <li>VERB-Fin--NOUN-ADP(del) (97)</li>
-      <li>VERB-Fin--NOUN-ADP(en) (334)</li>
+      <li>VERB-Fin--NOUN-ADP(de) (577)</li>
+      <li>VERB-Fin--NOUN-ADP(en) (335)</li>
       <li>VERB-Fin--NOUN-ADP(entre) (2)</li>
       <li>VERB-Fin--NOUN-ADP(frente) (1)</li>
       <li>VERB-Fin--NOUN-ADP(hacia) (2)</li>
@@ -891,19 +905,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(sin) (9)</li>
       <li>VERB-Fin--NOUN-ADP(sobre) (20)</li>
       <li>VERB-Fin--NOUN-ADP(tras) (1)</li>
-      <li>VERB-Fin--PRON (1412)</li>
-      <li>VERB-Fin--PRON-ADP(a) (161)</li>
-      <li>VERB-Fin--PRON-ADP(al) (55)</li>
+      <li>VERB-Fin--PRON (1413)</li>
+      <li>VERB-Fin--PRON-ADP(a) (216)</li>
       <li>VERB-Fin--PRON-ADP(con) (19)</li>
       <li>VERB-Fin--PRON-ADP(contra) (1)</li>
-      <li>VERB-Fin--PRON-ADP(de) (59)</li>
-      <li>VERB-Fin--PRON-ADP(del) (13)</li>
+      <li>VERB-Fin--PRON-ADP(de) (72)</li>
       <li>VERB-Fin--PRON-ADP(en) (37)</li>
       <li>VERB-Fin--PRON-ADP(entre) (2)</li>
       <li>VERB-Fin--PRON-ADP(hacia) (1)</li>
       <li>VERB-Fin--PRON-ADP(para) (4)</li>
       <li>VERB-Fin--PRON-ADP(por) (8)</li>
-      <li>VERB-Fin--PRON-Acc (1141)</li>
+      <li>VERB-Fin--PRON-Acc (1142)</li>
       <li>VERB-Fin--PRON-Acc,Nom (5)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(a) (18)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(con) (8)</li>
@@ -912,8 +924,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Acc,Nom-ADP(entre) (1)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(para) (3)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(por) (1)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(a) (19)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(al) (1)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(a) (20)</li>
       <li>VERB-Fin--PRON-Acc-ADP(bajo) (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(contra) (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(de) (2)</li>
@@ -921,12 +932,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Com (1)</li>
       <li>VERB-Fin--PRON-Dat (726)</li>
       <li>VERB-Ger--NOUN (522)</li>
-      <li>VERB-Ger--NOUN-ADP(a) (68)</li>
-      <li>VERB-Ger--NOUN-ADP(al) (23)</li>
+      <li>VERB-Ger--NOUN-ADP(a) (91)</li>
       <li>VERB-Ger--NOUN-ADP(con) (17)</li>
       <li>VERB-Ger--NOUN-ADP(contra) (2)</li>
-      <li>VERB-Ger--NOUN-ADP(de) (29)</li>
-      <li>VERB-Ger--NOUN-ADP(del) (4)</li>
+      <li>VERB-Ger--NOUN-ADP(de) (33)</li>
       <li>VERB-Ger--NOUN-ADP(en) (17)</li>
       <li>VERB-Ger--NOUN-ADP(por) (14)</li>
       <li>VERB-Ger--NOUN-ADP(sobre) (5)</li>
@@ -942,16 +951,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--PRON-Acc,Nom-ADP(en) (3)</li>
       <li>VERB-Ger--PRON-Acc-ADP(por) (1)</li>
       <li>VERB-Ger--PRON-Dat (39)</li>
-      <li>VERB-Inf--NOUN (4825)</li>
-      <li>VERB-Inf--NOUN-ADP(a) (634)</li>
+      <li>VERB-Inf--NOUN (4823)</li>
+      <li>VERB-Inf--NOUN-ADP(a) (832)</li>
       <li>VERB-Inf--NOUN-ADP(acerca) (1)</li>
-      <li>VERB-Inf--NOUN-ADP(al) (195)</li>
       <li>VERB-Inf--NOUN-ADP(ante) (1)</li>
       <li>VERB-Inf--NOUN-ADP(como) (1)</li>
       <li>VERB-Inf--NOUN-ADP(con) (137)</li>
       <li>VERB-Inf--NOUN-ADP(contra) (18)</li>
-      <li>VERB-Inf--NOUN-ADP(de) (145)</li>
-      <li>VERB-Inf--NOUN-ADP(del) (30)</li>
+      <li>VERB-Inf--NOUN-ADP(de) (174)</li>
       <li>VERB-Inf--NOUN-ADP(desde) (1)</li>
       <li>VERB-Inf--NOUN-ADP(en) (143)</li>
       <li>VERB-Inf--NOUN-ADP(hasta) (1)</li>
@@ -959,12 +966,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-ADP(para) (6)</li>
       <li>VERB-Inf--NOUN-ADP(por) (27)</li>
       <li>VERB-Inf--NOUN-ADP(sobre) (11)</li>
-      <li>VERB-Inf--PRON (262)</li>
-      <li>VERB-Inf--PRON-ADP(a) (48)</li>
-      <li>VERB-Inf--PRON-ADP(al) (8)</li>
+      <li>VERB-Inf--PRON (263)</li>
+      <li>VERB-Inf--PRON-ADP(a) (56)</li>
       <li>VERB-Inf--PRON-ADP(con) (6)</li>
-      <li>VERB-Inf--PRON-ADP(de) (10)</li>
-      <li>VERB-Inf--PRON-ADP(del) (3)</li>
+      <li>VERB-Inf--PRON-ADP(de) (13)</li>
       <li>VERB-Inf--PRON-ADP(en) (4)</li>
       <li>VERB-Inf--PRON-ADP(para) (1)</li>
       <li>VERB-Inf--PRON-ADP(por) (1)</li>
@@ -983,27 +988,24 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Com (1)</li>
       <li>VERB-Inf--PRON-Dat (228)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
-      <li>VERB-Part--NOUN (1297)</li>
-      <li>VERB-Part--NOUN-ADP(a) (194)</li>
+      <li>VERB-Part--NOUN (1296)</li>
+      <li>VERB-Part--NOUN-ADP(a) (259)</li>
+      <li>VERB-Part--NOUN-ADP(a)-ADP(de) (1)</li>
       <li>VERB-Part--NOUN-ADP(acerca) (1)</li>
-      <li>VERB-Part--NOUN-ADP(al) (64)</li>
-      <li>VERB-Part--NOUN-ADP(al)-ADP(de) (1)</li>
       <li>VERB-Part--NOUN-ADP(con) (29)</li>
       <li>VERB-Part--NOUN-ADP(contra) (2)</li>
-      <li>VERB-Part--NOUN-ADP(de) (51)</li>
-      <li>VERB-Part--NOUN-ADP(del) (12)</li>
+      <li>VERB-Part--NOUN-ADP(de) (63)</li>
       <li>VERB-Part--NOUN-ADP(desde) (1)</li>
       <li>VERB-Part--NOUN-ADP(en) (67)</li>
       <li>VERB-Part--NOUN-ADP(hasta) (1)</li>
       <li>VERB-Part--NOUN-ADP(para) (1)</li>
-      <li>VERB-Part--NOUN-ADP(por) (228)</li>
+      <li>VERB-Part--NOUN-ADP(por) (227)</li>
+      <li>VERB-Part--NOUN-ADP(por)-ADP(a) (1)</li>
       <li>VERB-Part--NOUN-ADP(sobre) (5)</li>
       <li>VERB-Part--PRON (233)</li>
-      <li>VERB-Part--PRON-ADP(a) (17)</li>
-      <li>VERB-Part--PRON-ADP(al) (8)</li>
+      <li>VERB-Part--PRON-ADP(a) (25)</li>
       <li>VERB-Part--PRON-ADP(con) (1)</li>
-      <li>VERB-Part--PRON-ADP(de) (7)</li>
-      <li>VERB-Part--PRON-ADP(del) (1)</li>
+      <li>VERB-Part--PRON-ADP(de) (8)</li>
       <li>VERB-Part--PRON-ADP(en) (9)</li>
       <li>VERB-Part--PRON-ADP(entre) (1)</li>
       <li>VERB-Part--PRON-ADP(hacia) (1)</li>
@@ -1025,25 +1027,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN (149)</li>
-      <li>VERB-Fin--NOUN-ADP(a) (156)</li>
-      <li>VERB-Fin--NOUN-ADP(al) (81)</li>
+      <li>VERB-Fin--NOUN (148)</li>
+      <li>VERB-Fin--NOUN-ADP(a) (238)</li>
       <li>VERB-Fin--NOUN-ADP(como) (1)</li>
       <li>VERB-Fin--NOUN-ADP(con) (2)</li>
       <li>VERB-Fin--NOUN-ADP(contra) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(de) (10)</li>
-      <li>VERB-Fin--NOUN-ADP(del) (2)</li>
+      <li>VERB-Fin--NOUN-ADP(de) (12)</li>
       <li>VERB-Fin--NOUN-ADP(desde) (1)</li>
       <li>VERB-Fin--NOUN-ADP(en) (12)</li>
       <li>VERB-Fin--NOUN-ADP(hasta) (1)</li>
       <li>VERB-Fin--NOUN-ADP(junto) (1)</li>
       <li>VERB-Fin--NOUN-ADP(por) (2)</li>
-      <li>VERB-Fin--PRON (90)</li>
-      <li>VERB-Fin--PRON-ADP(a) (22)</li>
-      <li>VERB-Fin--PRON-ADP(al) (5)</li>
+      <li>VERB-Fin--PRON (89)</li>
+      <li>VERB-Fin--PRON-ADP(a) (27)</li>
       <li>VERB-Fin--PRON-ADP(con) (3)</li>
-      <li>VERB-Fin--PRON-ADP(de) (6)</li>
-      <li>VERB-Fin--PRON-ADP(del) (1)</li>
+      <li>VERB-Fin--PRON-ADP(de) (7)</li>
       <li>VERB-Fin--PRON-ADP(en) (2)</li>
       <li>VERB-Fin--PRON-Acc (14)</li>
       <li>VERB-Fin--PRON-Acc,Dat (1)</li>
@@ -1056,8 +1054,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--PRON-Acc (1)</li>
       <li>VERB-Ger--PRON-Dat (20)</li>
       <li>VERB-Inf--NOUN (22)</li>
-      <li>VERB-Inf--NOUN-ADP(a) (19)</li>
-      <li>VERB-Inf--NOUN-ADP(al) (4)</li>
+      <li>VERB-Inf--NOUN-ADP(a) (23)</li>
       <li>VERB-Inf--NOUN-ADP(de) (1)</li>
       <li>VERB-Inf--NOUN-ADP(en) (2)</li>
       <li>VERB-Inf--PRON (2)</li>
@@ -1066,13 +1063,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Acc,Nom-ADP(de) (1)</li>
       <li>VERB-Inf--PRON-Dat (140)</li>
       <li>VERB-Part--NOUN (9)</li>
-      <li>VERB-Part--NOUN-ADP(a) (23)</li>
-      <li>VERB-Part--NOUN-ADP(al) (9)</li>
+      <li>VERB-Part--NOUN-ADP(a) (32)</li>
       <li>VERB-Part--NOUN-ADP(por) (3)</li>
       <li>VERB-Part--PRON (12)</li>
       <li>VERB-Part--PRON-ADP(a) (2)</li>
       <li>VERB-Part--PRON-ADP(con) (1)</li>
-      <li>VERB-Part--PRON-ADP(del) (1)</li>
+      <li>VERB-Part--PRON-ADP(de) (1)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
       <li>VERB-Part--PRON-Dat (92)</li>
     </ul>
@@ -1094,7 +1090,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 303 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: presentar se, comprometer se, mantener se, llevar se, poner se, reunir se, preparar se, preguntar se, someter se, hacer se, hacerse se, declarar se, dejar se, ganar se, plantear se, alejar se, dar se, inscribir se, ver se, enfrentar se, distanciar se, jugar se, tomar se, deshacer se, encontrar se, preguntar me, reproducir se, conocer se, considerar se, permitir se, precipitar se, rendir se, unir se, arrojar se, asociar se, creer se, decir se, defender se, disputar se, lanzar se, librar se, meter se, ofrecer se, pasar se, quitar se, reservar se, solidarizar se, afianzar se, alistar se, batir se</li>
+  <li>This corpus contains 303 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: presentar se, comprometer se, mantener se, llevar se, poner se, reunir se, preparar se, hacer se, preguntar se, someter se, declarar se, dejar se, ganar se, hacerse se, plantear se, alejar se, dar se, inscribir se, ver se, enfrentar se, distanciar se, jugar se, tomar se, deshacer se, encontrar se, preguntar me, reproducir se, conocer se, considerar se, permitir se, precipitar se, rendir se, unir se, arrojar se, asociar se, creer se, decir se, defender se, disputar se, lanzar se, librar se, meter se, ofrecer se, pasar se, quitar se, reservar se, solidarizar se, afianzar se, alistar se, batir se</li>
     <ul>
       <li>Out of those, 9 lemmas occurred more than once, but never without a reflexive dependent. Examples: hacerse, solidarizar, desanimar, embolsar, encaramar, familiarizar, matricular, prostituir, rehacer</li>
     </ul>
@@ -1103,6 +1099,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 6 relation subtypes: <a>aux:pass</a>, <a>csubj:pass</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a></li>
+<li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

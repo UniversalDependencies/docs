@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Jenna Kanerva, Filip Ginter, Stina Ojala, Anna Missilä.
 
 Repository: [UD_Finnish-PUD](https://github.com/UniversalDependencies/UD_Finnish-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_pud27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_pud28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -107,7 +107,7 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 291 types of words that contain both letters and punctuation. Examples: eKr., %:lla, -dynastia, -dynastian, III:n, -järjestöstä, -liittouman, -puisto, -vuotiaista, -yliopiston, 1960-luvulta, 1990-luvulla, 60-luvun, BBC:lle, DNA:n, Etelä-Afrikka, Ison-Britannian, Isossa-Britanniassa, Itä-Afrikan, P​a​p​u​a​-​U​u​d​e​s​s​a​-​G​u​i​n​e​a​s​s​a, Pohjois-Carolina, St., USA:n, YK:n, golf-turnaukseen, jKr., %:n, -akatemiaan, -albumin, -alueen, -alueet, -antologia, -dynastiaan, -elokuvaa, -elokuvassa, -hahmoiksi, -hinnalla, -imitaattori, -instituuttiin, -joella, -joen, -järjestön, -järven, -kadulla, -kanavalla, -keskuksen, -keskustelupalstan, -kirjasta, -kirjeet, -kirjoja</li>
+<li>This corpus contains 291 types of words that contain both letters and punctuation. Examples: eKr., %:lla, -dynastia, -dynastian, III:n, -järjestöstä, -liittouman, -puisto, -vuotiaista, -yliopiston, 1960-luvulta, 1990-luvulla, 60-luvun, BBC:lle, DNA:n, Etelä-Afrikka, Ison-Britannian, Isossa-Britanniassa, Itä-Afrikan, Papua-Uudessa-Guineassa, Pohjois-Carolina, St., USA:n, YK:n, golf-turnaukseen, jKr., %:n, -akatemiaan, -albumin, -alueen, -alueet, -antologia, -dynastiaan, -elokuvaa, -elokuvassa, -hahmoiksi, -hinnalla, -imitaattori, -instituuttiin, -joella, -joen, -järjestön, -järven, -kadulla, -kanavalla, -keskuksen, -keskustelupalstan, -kirjasta, -kirjeet, -kirjoja</li>
 </ul>
 
 <ul>
@@ -817,7 +817,7 @@ employ ten-fold cross-validation.
       </li>
       <li>Inen,Vs
         <ul>
-          <li>NOUN: kokonaisuutena, avarakatseisuutta, h​e​r​o​i​i​n​i​r​i​i​p​p​u​v​u​u​t​e​n​s​a, julkisuudessa, l​ö​y​h​ä​m​o​r​a​a​l​i​s​u​u​t​e​n​a​a​n, ominaisuus, piioksidipitoisuuden, salaisuutensa, samankaltaisuuksia, suolapitoisuuden</li>
+          <li>NOUN: kokonaisuutena, avarakatseisuutta, heroiiniriippuvuutensa, julkisuudessa, löyhämoraalisuutenaan, ominaisuus, piioksidipitoisuuden, salaisuutensa, samankaltaisuuksia, suolapitoisuuden</li>
         </ul>
       </li>
       <li>Ja
@@ -855,7 +855,7 @@ employ ten-fold cross-validation.
       </li>
       <li>Llinen,Vs
         <ul>
-          <li>NOUN: mahdollisuutta, mahdollisuus, teollisuuden, Elokuvateollisuus, j​u​l​k​a​i​s​u​t​e​o​l​l​i​s​u​u​d​e​s​t​a, kaivosteollisuudesta, kansallisuuksia, kaunokirjallisuuden, k​e​m​i​k​a​a​l​i​t​e​o​l​l​i​s​u​u​d​e​n, kirjallisuudesta</li>
+          <li>NOUN: mahdollisuutta, mahdollisuus, teollisuuden, Elokuvateollisuus, julkaisuteollisuudesta, kaivosteollisuudesta, kansallisuuksia, kaunokirjallisuuden, kemikaaliteollisuuden, kirjallisuudesta</li>
         </ul>
       </li>
       <li>Minen
@@ -895,12 +895,12 @@ employ ten-fold cross-validation.
       </li>
       <li>U
         <ul>
-          <li>NOUN: avulla, haastattelussa, taistelussa, kasvua, laulun, loppujen, tappelut, -laulustaan, -tuoksu, F​a​c​e​b​o​o​k​-​j​u​l​k​a​i​s​u​i​s​t​a​a​n</li>
+          <li>NOUN: avulla, haastattelussa, taistelussa, kasvua, laulun, loppujen, tappelut, -laulustaan, -tuoksu, Facebook-julkaisuistaan</li>
         </ul>
       </li>
       <li>Vs
         <ul>
-          <li>NOUN: vanhuuteen, -​p​a​l​k​i​n​t​o​t​i​l​a​i​s​u​u​d​e​s​s​a, Kuuluisuudet, Laajuudeltaan, Osuus, avaruuteen, ehdokkuutensa, ehdokkuutta, epämukavuutta, eroavaisuuksia</li>
+          <li>NOUN: vanhuuteen, -palkintotilaisuudessa, Kuuluisuudet, Laajuudeltaan, Osuus, avaruuteen, ehdokkuutensa, ehdokkuutta, epämukavuutta, eroavaisuuksia</li>
         </ul>
       </li>
     </ul>

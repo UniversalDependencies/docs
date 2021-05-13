@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  好 (<tt><a href="yue_hk-pos-ADV.html">AD
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 2.014085 (the average of all parts of speech is 1.622766).
+The form / lemma ratio of `ADJ` is 2.014085 (the average of all parts of speech is 1.624294).
 
 The 1st highest number of forms (86) was observed with the lemma “_”: 一樣, 不如, 中立, 代理, 低, 個人, 充足, 先後, 公平, 公正, 公眾, 公道, 公開, 具體, 原來, 原裝, 口頭上面, 合法, 合理, 啱, 嚴謹, 嚴重, 困難, 在坐, 多, 夠, 大, 好, 完整, 完絕, 容易, 對, 成功, 新, 既定, 明, 書面, 最後, 有效, 有關, 正式, 正正式式, 正確, 正規, 歷屆, 混亂, 清, 清晰, 清楚, 清醒, 滿意, 特別, 直選, 相關, 真, 真真正正, 稍後, 第一, 第七, 第三, 第二, 第六, 第十二, 第四, 第四十二, 簡單, 粗疏, 糟糕, 緊, 緊要, 英籍, 草率, 莊嚴, 謹慎, 足夠, 適宜, 重大, 重要, 錯, 難, 非宗教, 非建制派, 類似, 騷擾, 高, 點樣.
 

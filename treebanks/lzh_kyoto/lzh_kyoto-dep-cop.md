@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1621 nodes (1%) are attached to their parents as `cop`.
+1984 nodes (1%) are attached to their parents as `cop`.
 
-1621 instances of `cop` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.98766193707588.
+1984 instances of `cop` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.04385080645161.
 
-The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (1364; 84% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (172; 11% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (48; 3% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (23; 1% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (9; 1% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (5; 0% instances).
+The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="lzh_kyoto-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (1670; 84% instances), <tt><a href="lzh_kyoto-pos-VERB.html">VERB</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (206; 10% instances), <tt><a href="lzh_kyoto-pos-PROPN.html">PROPN</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (64; 3% instances), <tt><a href="lzh_kyoto-pos-NUM.html">NUM</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (23; 1% instances), <tt><a href="lzh_kyoto-pos-PRON.html">PRON</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (16; 1% instances), <tt><a href="lzh_kyoto-pos-PART.html">PART</a></tt>-<tt><a href="lzh_kyoto-pos-AUX.html">AUX</a></tt> (5; 0% instances).
 
 
 ~~~ conllu

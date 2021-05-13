@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-24536 tokens (8%) have a non-empty value of `Degree`.
-4133 types (13%) occur at least once with a non-empty value of `Degree`.
-2585 lemmas (11%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 1 part-of-speech tags: <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (24536; 8% instances).
+24498 tokens (8%) have a non-empty value of `Degree`.
+4116 types (13%) occur at least once with a non-empty value of `Degree`.
+2571 lemmas (11%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 1 part-of-speech tags: <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (24498; 8% instances).
 
 ### `ADJ`
 
-24536 <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> tokens (84% of all `ADJ` tokens) have a non-empty value of `Degree`.
+24498 <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> tokens (90% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="no_nynorsk-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (24534; 100%), <tt><a href="no_nynorsk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (17130; 70%), <tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15675; 64%), <tt><a href="no_nynorsk-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (12995; 53%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="no_nynorsk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (17102; 70%), <tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15645; 64%), <tt><a href="no_nynorsk-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (12965; 53%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
-* `Cmp` (2568; 10% of non-empty `Degree`): <em>meir, fleire, tidlegare, større, vidare, betre, mindre, lenger, nærare, seinare</em>
-* `Pos` (20956; 85% of non-empty `Degree`): <em>mange, mykje, nye, store, heile, godt, heilt, norske, norsk, siste</em>
+* `Cmp` (2567; 10% of non-empty `Degree`): <em>meir, fleire, tidlegare, større, vidare, betre, mindre, lenger, nærare, seinare</em>
+* `Pos` (20919; 85% of non-empty `Degree`): <em>mange, mykje, nye, store, heile, godt, heilt, norske, norsk, siste</em>
 * `Sup` (1012; 4% of non-empty `Degree`): <em>mest, minst, fleste, beste, største, viktigaste, fremst, best, flest, meste</em>
-* `EMPTY` (4565): <em>sett, lagt, auka, gjort, samla, 1., knytt, utvida, manglande, kalla</em>
+* `EMPTY` (2651): <em>auka, 1., sett, samla, manglande, utvida, avgjerande, følgjande, knytt, overraska</em>
 
 <table>
   <tr><th>Paradigm <i>mykje</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -37,14 +37,15 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>mykje</em></td><td></td><td></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 96% lemmas (2474) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 96% lemmas (2460) occur only with one value of `Degree`.
 
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> ADJ</tt> (742; 76%),
-<tt>ADJ --[<tt><a href="no_nynorsk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (71; 65%),
-<tt>ADJ --[<tt><a href="no_nynorsk-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (36; 59%),
+<tt>ADJ --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> ADJ</tt> (742; 78%),
+<tt>ADJ --[<tt><a href="no_nynorsk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (71; 69%),
+<tt>ADJ --[<tt><a href="no_nynorsk-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (36; 62%),
+<tt>ADJ --[<tt><a href="no_nynorsk-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (25; 54%),
 <tt>ADJ --[<tt><a href="no_nynorsk-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (19; 76%),
 <tt>ADJ --[<tt><a href="no_nynorsk-dep-appos.html">appos</a></tt>]--> ADJ</tt> (6; 86%).
 

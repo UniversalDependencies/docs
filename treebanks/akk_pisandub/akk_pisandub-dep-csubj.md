@@ -95,7 +95,7 @@ The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href
 16	i-nam-bu-ú	nabû	VERB	_	_	8	ccomp	_	_
 17	zi-kir	zikru	NOUN	_	_	16	obj	_	_
 18	-šú	-šu	PRON	_	_	17	det	_	_
-19	šá	ša	DET	_	_	20	case	_	_
+19	šá	ša	ADP	_	_	20	case	_	_
 20	e-mu-qí	emūqu	NOUN	_	_	24	obl	_	_
 21	ù	u	CCONJ	_	_	22	cc	_	_
 22	da-na-nu	danānu	NOUN	_	_	20	conj	_	_

@@ -59,9 +59,9 @@ The 2nd highest number of forms (7) was observed with the lemma “Polak”: <em
 
 The 3rd highest number of forms (6) was observed with the lemma “Agnieszka”: <em>AGNIESZKA, Agnieszce, Agnieszka, Agnieszki, Agnieszką, Agnieszkę</em>.
 
-`PROPN` occurs with 6 features: <tt><a href="pl_pdb-feat-Case.html">Case</a></tt> (11627; 100% instances), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt> (11627; 100% instances), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt> (11627; 100% instances), <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt> (7287; 63% instances), <tt><a href="pl_pdb-feat-NumType.html">NumType</a></tt> (6; 0% instances), <tt><a href="pl_pdb-feat-NounForm.html">NounForm</a></tt> (2; 0% instances)
+`PROPN` occurs with 6 features: <tt><a href="pl_pdb-feat-Case.html">Case</a></tt> (11627; 100% instances), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt> (11627; 100% instances), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt> (11627; 100% instances), <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt> (7287; 63% instances), <tt><a href="pl_pdb-feat-NumType.html">NumType</a></tt> (6; 0% instances), <tt><a href="pl_pdb-feat-Polite.html">Polite</a></tt> (2; 0% instances)
 
-`PROPN` occurs with 18 feature-value pairs: `Animacy=Hum`, `Animacy=Inan`, `Animacy=Nhum`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NounForm=Depr`, `NumType=Sets`, `Number=Plur`, `Number=Ptan`, `Number=Sing`
+`PROPN` occurs with 18 feature-value pairs: `Animacy=Hum`, `Animacy=Inan`, `Animacy=Nhum`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Ins`, `Case=Loc`, `Case=Nom`, `Case=Voc`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `NumType=Sets`, `Number=Plur`, `Number=Ptan`, `Number=Sing`, `Polite=Depr`
 
 `PROPN` occurs with 69 feature combinations.
 The most frequent feature combination is `Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing` (3222 tokens).

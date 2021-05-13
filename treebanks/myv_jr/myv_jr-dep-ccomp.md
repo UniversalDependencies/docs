@@ -63,7 +63,7 @@ The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 6 ccomp	color:blue
 1	—	—	PUNCT	PUNCT	_	2	punct	_	_
-2	Невтика	невтемс	VERB	V	Clitic=Ga|Mood=Prec|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Valency=2	0	root	_	GTtags=TV,Imprt,ScSg2,OcSg3,Clt/Га|SpaceAfter=No
+2	Невтика	невтемс	VERB	V	Mood=Prec|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Valency=2	0	root	_	GTtags=TV,Imprt,ScSg2,OcSg3,Clt/Га|SpaceAfter=No
 3	,	,	PUNCT	CLB	_	6	punct	_	_
 4	мезеть	мезе	PRON	Pron	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2|PronType=Int	6	nsubj	_	GTtags=Interr,Sem/Obj,Sg,Nom,PxSg2
 5	истя	истя	ADV	Adv	AdvType=Man	6	advmod	_	GTtags=Manner

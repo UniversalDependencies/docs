@@ -26,11 +26,11 @@ The following 1 pairs of parts of speech are connected with `advmod:tmod`: <tt><
 1	Inhinhiã	inhinhiã	ADV	Adv	_	5	advmod:tmod	_	gloss[pt]=então
 2	ĩkana	ĩkana	ADV	Adv	_	5	advmod:tmod	_	gloss[pt]=?novamente
 3	iie	ie	DET	Det	Gender=Masc	4	det	_	gloss[pt]=esse-M
-4	iãkynytikinhi	iãkyny	NOUN	XPOS=3SG.M-rastro.de-atrás	Gender=Masc|Gender[psor]=Masc	5	obl	_	gloss[pt]=3SG.M-rastro.de-atrás
+4	iãkynytikinhi	iãkynytikinhi	NOUN	XPOS=3SG.M-rastro.de-atrás	Gender=Masc|Gender[psor]=Masc	5	obl	_	gloss[pt]=3SG.M-rastro.de-atrás
 5	sããputa	sa	VERB	XPOS=ir-ALEAT-VBLZ	_	0	root	_	gloss[pt]=ir-ALEAT-VBLZ
 6	era	era	ADV	XPOS=lá	_	7	advmod:lmod	_	gloss[pt]=lá
-7	apukary	apuka	VERB	XPOS=achar-3SG.M.O	_	5	conj	_	gloss[pt]=achar-3SG.M.O
-8	ymata	mata	NOUN	XPOS=3SG.M-pele,	_	7	obj	_	gloss[pt]=3SG.M-pele,couro,casca.de|SpaceAfter=No
+7	apukary	apuka	VERB	XPOS=achar	Number[obj]=Sing|Person[obj]=3	5	conj	_	gloss[pt]=achar-3SG.M.O
+8	ymata	mata	NOUN	XPOS=3SG.M-pele,	Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Possessed=Yes	7	obj	_	gloss[pt]=3SG.M-pele,couro,casca.de|SpaceAfter=No
 9	.	.	PUNCT	CLB	_	5	punct	_	_
 
 ~~~

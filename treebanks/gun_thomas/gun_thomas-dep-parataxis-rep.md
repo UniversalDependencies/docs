@@ -26,7 +26,7 @@ The following 1 pairs of parts of speech are connected with `parataxis:rep`: <tt
 2	Aromeno	aromeno	PART	discprt	_	5	dep:mod	_	alas
 3	ko'agã	ko'agã	ADV	dem	_	5	advmod	_	now
 4	ka'aguy	ka'aguy	NOUN	n	_	5	nsubj	_	forest
-5	opa	pa	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Int|VerbForm=Fin	8	parataxis:rep	_	A3-finish
+5	opa	pa	VERB	vi:a	Mood=Ind|Person[subj]=3|Subcat=Intr|VerbForm=Fin	8	parataxis:rep	_	A3-finish
 6	ma	ma	PART	aspprt	_	5	dep:mod	_	ASP
 7	",	",	PUNCT	punct	_	5	punct	_	_
 8	ha'e'i	ha'e	VERB	vt	Mood=Ind|Subcat=Tran|VerbForm=Inf	0	root	_	say-=DIM

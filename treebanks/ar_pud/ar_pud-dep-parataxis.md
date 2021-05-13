@@ -26,7 +26,7 @@ The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a 
 2	أدخل	daxal-u_1	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|Voice=Act	0	root	_	_
 3	السجن	sijon_1	NOUN	NN	Animacy=Nhum|Case=Acc|Definite=Def|Gender=Masc|Number=Sing	2	obj	_	_
 4	في	fiy_1	ADP	IN	_	6	case	_	_
-5	كل	kul~_1	DET	PDT	Case=Gen	6	det:predet	_	_
+5	كل	kul~_1	DET	PDT	Case=Gen	6	det	_	_
 6	الأحوال	HAl_1	NOUN	NN	Animacy=Nhum|Case=Gen|Definite=Def|Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
 7	,	,_0	PUNCT	,	_	8	punct	_	_
 8	آمل	>amal-a_1	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	2	parataxis	_	_

@@ -56,7 +56,7 @@ The most frequent other feature values with which `NOUN` and `Style` co-occurred
 
 `NOUN` tokens may have the following values of `Style`:
 
-* `Arch` (1; 6% of non-empty `Style`): <em>N​A​I​S​K​A​M​P​A​A​M​O​T​Y​Ö​N​T​E​K​I​J​Ä​I​N</em>
+* `Arch` (1; 6% of non-empty `Style`): <em>NAISKAMPAAMOTYÖNTEKIJÄIN</em>
 * `Coll` (15; 94% of non-empty `Style`): <em>#pesis, Eksä, Vierotusta, isällää, kattominen, kropassa, nauhotusta, parikertaa, peeärrää, puheenaihett</em>
 
 `Style` seems to be **lexical feature** of `NOUN`. 100% lemmas (15) occur only with one value of `Style`.

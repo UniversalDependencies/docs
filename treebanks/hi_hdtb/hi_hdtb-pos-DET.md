@@ -59,7 +59,7 @@ The 10 most frequent ambiguous types:  इस (<tt><a href="hi_hdtb-pos-DET.html
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.492754 (the average of all parts of speech is 1.203116).
+The form / lemma ratio of `DET` is 1.492754 (the average of all parts of speech is 1.203447).
 
 The 1st highest number of forms (8) was observed with the lemma “यह”: इन, इन्हीं, इस, इसी, ऐसी, यह, यही, ये.
 

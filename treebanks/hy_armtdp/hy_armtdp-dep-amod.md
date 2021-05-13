@@ -68,7 +68,7 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 5	խաչը	խաչ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	13	obj	_	Translit=xačë|LTranslit=xač
 6	ոնց	ինչպես	ADV	_	PronType=Int|Style=Coll	13	discourse	_	Translit=onc’|LTranslit=inčpes
 7	որ	որ	PART	_	_	6	fixed	_	Translit=or|LTranslit=or
-8	այդ	այդ	DET	_	Distance=Med|PronType=Dem	10	det	_	Translit=ayd|LTranslit=ayd
+8	այդ	այդ	DET	_	Deixis=Med|PronType=Dem	10	det	_	Translit=ayd|LTranslit=ayd
 9	նոր	նոր	ADJ	_	Degree=Pos	10	amod	_	Translit=nor|LTranslit=nor
 10	պատշգամբներից	պատշգամբ	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Plur	12	nmod:npmod	_	Translit=patšgambneric’|LTranslit=patšgamb
 11	մի	մի	DET	_	PronType=Art	12	amod	_	Translit=mi|LTranslit=mi

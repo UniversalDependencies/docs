@@ -71,7 +71,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 25	Մարտինին	Մարտին	PROPN	_	Animacy=Hum|Case=Dat|Definite=Def|NameType=Giv|Number=Sing	21	appos	_	Translit=Martinin|LTranslit=Martin|SpaceAfter=No
 26	,	,	PUNCT	_	_	32	punct	_	Translit=,|LTranslit=,
 27	իսկ	իսկ	CCONJ	_	_	32	cc	_	Translit=isk|LTranslit=isk
-28	մյուսին	մյուս	PRON	_	Case=Dat|Definite=Def|Distance=Dist|Number=Sing|PronType=Dem	32	obj	_	Translit=myowsin|LTranslit=myows|SpaceAfter=No
+28	մյուսին	մյուս	PRON	_	Case=Dat|Definite=Def|Deixis=Remt|Number=Sing|PronType=Dem	32	obj	_	Translit=myowsin|LTranslit=myows|SpaceAfter=No
 29	՝	՝	PUNCT	_	_	30	punct	_	Translit=,|LTranslit=,
 30	կնոջը	կին	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing	28	appos	_	Translit=knoǰë|LTranslit=kin|SpaceAfter=No
 31	,	,	PUNCT	_	_	32	punct	_	Translit=,|LTranslit=,
@@ -87,7 +87,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 41	գրված	գրել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Pass	32	conj	_	Translit=grvaç|LTranslit=grel
 42	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	41	aux	_	Translit=ēr|LTranslit=em|SpaceAfter=No
 43	՝	՝	PUNCT	_	_	45	punct	_	Translit=,|LTranslit=,
-44	այն	այն	DET	_	Distance=Dist|PronType=Dem	45	det	_	Translit=ayn|LTranslit=ayn
+44	այն	այն	DET	_	Deixis=Remt|PronType=Dem	45	det	_	Translit=ayn|LTranslit=ayn
 45	տեղերից	տեղ	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Plur	41	csubj:pass	_	Translit=teġeric’|LTranslit=teġ
 46	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	45	cop	_	Translit=ē|LTranslit=em|SpaceAfter=No
 47	,	,	PUNCT	_	_	54	punct	_	Translit=,|LTranslit=,
@@ -120,7 +120,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 74	,	,	PUNCT	_	_	75	punct	_	Translit=,|LTranslit=,
 75	նայում	նայել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	13	conj	_	Translit=nayowm|LTranslit=nayel
 76	էինք	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Imp|VerbForm=Fin	75	aux	_	Translit=ēink’|LTranslit=em
-77	այդ	այդ	DET	_	Distance=Med|PronType=Dem	79	det	_	Translit=ayd|LTranslit=ayd
+77	այդ	այդ	DET	_	Deixis=Med|PronType=Dem	79	det	_	Translit=ayd|LTranslit=ayd
 78	անծանոթ	անծանոթ	ADJ	_	Degree=Pos	79	amod	_	Translit=ançanot’|LTranslit=ançanot’
 79	կնոջը	կին	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing	75	obj	_	Translit=knoǰë|LTranslit=kin
 80	ու	ու	CCONJ	_	_	81	cc	_	Translit=ow|LTranslit=ow

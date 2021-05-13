@@ -12,7 +12,7 @@ There are 1 language-specific subtypes of `aux`: <tt><a href="no_bokmaal-dep-aux
 8858 nodes (3%) are attached to their parents as `aux`.
 
 8835 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.804696319711.
+Average distance between parent and child is 1.80435764280876.
 
 The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt>-<tt><a href="no_bokmaal-pos-AUX.html">AUX</a></tt> (8143; 92% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_bokmaal-pos-AUX.html">AUX</a></tt> (361; 4% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_bokmaal-pos-AUX.html">AUX</a></tt> (252; 3% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt>-<tt><a href="no_bokmaal-pos-AUX.html">AUX</a></tt> (32; 0% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt>-<tt><a href="no_bokmaal-pos-AUX.html">AUX</a></tt> (29; 0% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt>-<tt><a href="no_bokmaal-pos-AUX.html">AUX</a></tt> (21; 0% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_bokmaal-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt>-<tt><a href="no_bokmaal-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt>-<tt><a href="no_bokmaal-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 

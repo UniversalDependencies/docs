@@ -41,7 +41,7 @@ The following 24 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 5 7 acl:relcl	color:blue
 1	فکرشو	_	NOUN	N_SING	Number=Sing	2	obj	_	_
 2	نکن	کرد#کن	VERB	V_SUB	Mood=Sub	0	root	_	SpaceAfter=No
-3	،	،	PUNCT	DELM	_	2	punct	_	_
+3	،	،	PUNCT	DELM	_	5	punct	_	_
 4	هفت	هفت	NOUN	N_SING	Number=Sing	5	nummod	_	_
 5	ساعت	ساعت	NOUN	N_SING	Number=Sing	2	nsubj	_	_
 6	که	که	SCONJ	CON	_	7	mark	_	_

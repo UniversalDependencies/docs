@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="nl_lassysmall-dep-nmod.html">nmod</a></tt>.
 
-761 nodes (1%) are attached to their parents as `nmod:poss`.
+760 nodes (1%) are attached to their parents as `nmod:poss`.
 
-761 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.34822601839685.
+760 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.34868421052632.
 
-The following 10 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (676; 89% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (49; 6% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (12; 2% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-X.html">X</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (679; 89% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (50; 7% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -49,27 +49,28 @@ The following 10 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 # visual-style 3 1 nmod:poss	color:blue
 1	Ensors	Ensor	PROPN	N|eigen|ev|basis|gen	Number=Sing	3	nmod:poss	3:nmod:poss	_
 2	spectaculaire	spectaculair	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	3	amod	3:amod	_
-3	meesterstuk	meesterstuk	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	0	root	0:root	_
+3	meesterstuk	meester_stuk	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	0	root	0:root	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 9 7 nmod:poss	color:blue
-1	De	de	DET	LID|bep|stan|rest	Definite=Def	3	det	3:det	_
-2	Belgische	Belgisch	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	3	amod	3:amod	_
-3	keuken	keuken	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	nsubj	4:nsubj	_
-4	staat	staan	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-5	bekend	bekend	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	4	compound:prt	4:compound:prt	_
-6	om	om	ADP	VZ|init	_	9	case	9:case	_
-7	zijn	zijn	PRON	VNW|bez|det|stan|vol|3|ev|prenom|zonder|agr	Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
-8	lekkere	lekker	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	9	amod	9:amod	_
-9	eten	eten	VERB	WW|inf|nom|zonder|zonder-n	VerbForm=Inf	4	obl	4:obl:om	SpaceAfter=No
-10	.	.	PUNCT	LET	_	4	punct	4:punct	_
+# visual-style 9 8 nmod:poss	color:blue
+1	Toch	toch	ADV	BW	_	10	advmod	10:advmod	_
+2	wordt	worden	AUX	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	10	aux:pass	10:aux:pass	_
+3	de	de	DET	LID|bep|stan|rest	Definite=Def	4	det	4:det	_
+4	naam	naam	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	10	nsubj:pass	10:nsubj:pass	_
+5	van	van	ADP	VZ|init	_	6	case	6:case	_
+6	Ensor	Ensor	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	nmod	4:nmod:van	_
+7	op	op	ADP	VZ|init	_	9	case	9:case	_
+8	zijn	zijn	PRON	VNW|bez|det|stan|vol|3|ev|prenom|zonder|agr	Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
+9	Frans	Frans	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	10	xcomp	10:xcomp	_
+10	uitsproken	uit_spreken	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	SpaceAfter=No
+11	.	.	PUNCT	LET	_	10	punct	10:punct	_
 
 ~~~
 

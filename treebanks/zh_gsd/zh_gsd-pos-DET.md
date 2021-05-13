@@ -70,7 +70,7 @@ The 3rd highest number of forms (1) was observed with the lemma “下”: 下.
 
 ## Relations
 
-`DET` nodes are attached to their parents using 10 different relations: <tt><a href="zh_gsd-dep-det.html">det</a></tt> (1206; 93% instances), <tt><a href="zh_gsd-dep-advmod.html">advmod</a></tt> (31; 2% instances), <tt><a href="zh_gsd-dep-nsubj.html">nsubj</a></tt> (27; 2% instances), <tt><a href="zh_gsd-dep-nmod-tmod.html">nmod:tmod</a></tt> (20; 2% instances), <tt><a href="zh_gsd-dep-amod.html">amod</a></tt> (3; 0% instances), <tt><a href="zh_gsd-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="zh_gsd-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="zh_gsd-dep-case-pref.html">case:pref</a></tt> (2; 0% instances), <tt><a href="zh_gsd-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="zh_gsd-dep-obl.html">obl</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 10 different relations: <tt><a href="zh_gsd-dep-det.html">det</a></tt> (1206; 93% instances), <tt><a href="zh_gsd-dep-advmod.html">advmod</a></tt> (31; 2% instances), <tt><a href="zh_gsd-dep-nsubj.html">nsubj</a></tt> (27; 2% instances), <tt><a href="zh_gsd-dep-nmod-tmod.html">nmod:tmod</a></tt> (20; 2% instances), <tt><a href="zh_gsd-dep-amod.html">amod</a></tt> (3; 0% instances), <tt><a href="zh_gsd-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="zh_gsd-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="zh_gsd-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="zh_gsd-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="zh_gsd-dep-obl.html">obl</a></tt> (1; 0% instances)
 
 Parents of `DET` nodes belong to 6 different parts of speech: <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (1117; 86% instances), <tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (79; 6% instances), <tt><a href="zh_gsd-pos-VERB.html">VERB</a></tt> (67; 5% instances), <tt><a href="zh_gsd-pos-PROPN.html">PROPN</a></tt> (18; 1% instances), <tt><a href="zh_gsd-pos-NUM.html">NUM</a></tt> (15; 1% instances), <tt><a href="zh_gsd-pos-X.html">X</a></tt> (1; 0% instances)
 
@@ -82,7 +82,7 @@ Parents of `DET` nodes belong to 6 different parts of speech: <tt><a href="zh_gs
 
 The highest child degree of a `DET` node is 2.
 
-Children of `DET` nodes are attached using 5 different relations: <tt><a href="zh_gsd-dep-case-dec.html">case:dec</a></tt> (27; 75% instances), <tt><a href="zh_gsd-dep-advmod.html">advmod</a></tt> (3; 8% instances), <tt><a href="zh_gsd-dep-cc.html">cc</a></tt> (3; 8% instances), <tt><a href="zh_gsd-dep-nmod.html">nmod</a></tt> (2; 6% instances), <tt><a href="zh_gsd-dep-case.html">case</a></tt> (1; 3% instances)
+Children of `DET` nodes are attached using 4 different relations: <tt><a href="zh_gsd-dep-case.html">case</a></tt> (28; 78% instances), <tt><a href="zh_gsd-dep-advmod.html">advmod</a></tt> (3; 8% instances), <tt><a href="zh_gsd-dep-cc.html">cc</a></tt> (3; 8% instances), <tt><a href="zh_gsd-dep-nmod.html">nmod</a></tt> (2; 6% instances)
 
 Children of `DET` nodes belong to 5 different parts of speech: <tt><a href="zh_gsd-pos-PART.html">PART</a></tt> (27; 75% instances), <tt><a href="zh_gsd-pos-ADV.html">ADV</a></tt> (3; 8% instances), <tt><a href="zh_gsd-pos-CCONJ.html">CCONJ</a></tt> (3; 8% instances), <tt><a href="zh_gsd-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="zh_gsd-pos-ADP.html">ADP</a></tt> (1; 3% instances)
 

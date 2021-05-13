@@ -29,7 +29,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 4	pas	pas	ADV	_	Polarity=Neg	5	advmod	_	_
 5	payé	payer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6	en	en	ADP	_	_	7	case	_	_
-7	plus	plus	ADV	_	_	5	obl:mod	_	_
+7	plus	plus	ADV	_	_	5	advmod	_	_
 
 ~~~
 

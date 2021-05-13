@@ -23,13 +23,13 @@ The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 11 aux	color:blue
-1	त्या	तो	DET	_	Case=Obl|Distance=Dist|PronType=Dem	2	det	_	_
-2	_	गाव	NOUN	_	Case=Obl|Gender=Masc|Number=Sing	5	amod	_	_
+1	त्या	तो	DET	_	Case=Abs|Deixis=Remt|PronType=Dem	2	det	_	_
+2	_	गाव	NOUN	_	Case=Abs|Gender=Masc|Number=Sing	5	amod	_	_
 3	_	तील	ADP	_	_	2	case	_	_
 4	सारे	सारा	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	5	amod	_	_
 5	गोरगरीब	गोरगरीब	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	_
-6	_	केशवचंद्र	PROPN	_	Case=Obl|Gender=Masc|Number=Plur	8	nmod:poss	_	_
-7	_	चा	ADP	_	Case=Obl	6	case	_	_
+6	_	केशवचंद्र	PROPN	_	Case=Abs|Gender=Masc|Number=Plur	8	nmod:poss	_	_
+7	_	चा	ADP	_	Case=Abs	6	case	_	_
 8	नावे	नाव	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	10	obl	_	_
 9	खडे	खडा	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	10	obj	_	_
 10	फोडीत	फोडणे	VERB	_	Aspect=Imp|VerbForm=Part	0	root	_	_
@@ -45,14 +45,14 @@ The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 13 aux	color:blue
-1	_	आजूबाजू	NOUN	_	Case=Obl|Gender=Masc|Number=Sing	5	nmod:poss	_	_
-2	_	चा	ADP	_	Case=Obl	1	case	_	_
+1	_	आजूबाजू	NOUN	_	Case=Abs|Gender=Masc|Number=Sing	5	nmod:poss	_	_
+2	_	चा	ADP	_	Case=Abs	1	case	_	_
 3	_	पाच	NUM	_	_	5	nummod	_	_
 4	_	पन्नास	NUM	_	_	3	flat	_	_
-5	_	कोस	NOUN	_	Case=Obl|Gender=Masc|Number=Plur	8	amod	_	_
+5	_	कोस	NOUN	_	Case=Abs|Gender=Masc|Number=Plur	8	amod	_	_
 6	_	तील	ADP	_	_	5	case	_	_
-7	साऱ्या	सारा	ADJ	_	Case=Obl	8	amod	_	_
-8	_	संपत्ती	NOUN	_	Case=Obl|Gender=Fem|Number=Sing	12	nmod:poss	_	_
+7	साऱ्या	सारा	ADJ	_	Case=Abs	8	amod	_	_
+8	_	संपत्ती	NOUN	_	Case=Abs|Gender=Fem|Number=Sing	12	nmod:poss	_	_
 9	_	चा	ADP	_	Gender=Neut|Number=Sing	8	case	_	_
 10	तेथे	तेथे	ADV	_	_	12	advmod	_	_
 11	जणू	जणू	ADV	_	_	12	discourse	_	_

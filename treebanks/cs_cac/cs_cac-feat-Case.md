@@ -11,7 +11,7 @@ It occurs with 7 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Vo
 
 295929 tokens (60%) have a non-empty value of `Case`.
 51533 types (83%) occur at least once with a non-empty value of `Case`.
-22134 lemmas (78%) occur at least once with a non-empty value of `Case`.
+22129 lemmas (78%) occur at least once with a non-empty value of `Case`.
 The feature is used with 7 part-of-speech tags: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (135027; 27% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (68871; 14% instances), <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (48326; 10% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (17507; 4% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (15912; 3% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (7815; 2% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (2471; 0% instances).
 
 ### `NOUN`
@@ -136,7 +136,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 15912 <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (14104; 89%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13065; 82%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (12495; 79%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12459; 78%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10157; 64%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (9196; 58%), <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (9042; 57%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13065; 82%), <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (13055; 82%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (12495; 79%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12459; 78%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (10157; 64%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (9196; 58%), <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (9042; 57%).
 
 `PRON` tokens may have the following values of `Case`:
 

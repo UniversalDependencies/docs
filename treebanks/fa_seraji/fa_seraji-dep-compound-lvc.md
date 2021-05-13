@@ -65,7 +65,7 @@ The following 18 pairs of parts of speech are connected with `compound:lvc`: <tt
 2	دست	دست	NOUN	N_SING	Number=Sing	3	compound:lvc	_	_
 3	زدن	زدن	NOUN	N_SING	Number=Sing	1	nmod:poss	_	_
 4	بچه‌ها	بچه	NOUN	N_PL	Number=Plur	3	nmod:poss	_	SpaceAfter=No
-5	،	،	PUNCT	DELM	_	10	punct	_	_
+5	،	،	PUNCT	DELM	_	1	punct	_	_
 6	احمد	احمد	NOUN	N_SING	Number=Sing	10	obj	_	_
 7	را	را	PART	CLITIC	_	6	case	_	_
 8	به	به	ADP	P	_	9	case	_	_

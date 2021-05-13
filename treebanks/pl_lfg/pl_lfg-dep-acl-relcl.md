@@ -24,13 +24,13 @@ The following 8 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 4 8 acl:relcl	color:blue
 1	Dawno	dawno	ADV	adv:pos	Degree=Pos	2	advmod	2:advmod	_
 2	minęli	minąć	VERB	praet:pl:m1:perf	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|SubGender=Masc1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
-3	śmy	być	AUX	aglt:pl:pri:imperf:nwok	Aspect=Imp|Number=Plur|Person=1|Variant=Short	2	aux:aglt	2:aux:aglt	_
+3	śmy	być	AUX	aglt:pl:pri:imperf:nwok	Aspect=Imp|Number=Plur|Person=1|Variant=Short	2	aux:clitic	2:aux:clitic	_
 4	wzgórze	wzgórze	NOUN	subst:sg:acc:n	Case=Acc|Gender=Neut|Number=Sing	2	obj	2:obj	SpaceAfter=No
 5	,	,	PUNCT	interp	PunctType=Comm	8	punct	8:punct	_
 6	na	na	ADP	prep:loc	AdpType=Prep	7	case	7:case	Case=Loc
 7	którym	który	DET	adj:sg:loc:n:pos	Case=Loc|Gender=Neut|Number=Sing|PronType=Rel	8	obl	8:obl:na	_
 8	pożegnał	pożegnać	VERB	praet:sg:m1:perf	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|SubGender=Masc1|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	4:acl:relcl	SpaceAfter=No
-9	em	być	AUX	aglt:sg:pri:imperf:wok	Aspect=Imp|Number=Sing|Person=1|Variant=Long	8	aux:aglt	8:aux:aglt	_
+9	em	być	AUX	aglt:sg:pri:imperf:wok	Aspect=Imp|Number=Sing|Person=1|Variant=Long	8	aux:clitic	8:aux:clitic	_
 10	Cavalerra	Cavalerr	PROPN	subst:sg:acc:m1	Case=Acc|Gender=Masc|Number=Sing|SubGender=Masc1	8	obj	8:obj	SpaceAfter=No
 11	.	.	PUNCT	interp	PunctType=Peri	2	punct	2:punct	_
 
@@ -64,7 +64,7 @@ The following 8 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 3	fgColor:white
 # visual-style 3 6 acl:relcl	color:blue
 1	Przywołał	przywołać	VERB	praet:sg:m1:perf	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|SubGender=Masc1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
-2	eś	być	AUX	aglt:sg:sec:imperf:wok	Aspect=Imp|Number=Sing|Person=2|Variant=Long	1	aux:aglt	1:aux:aglt	_
+2	eś	być	AUX	aglt:sg:sec:imperf:wok	Aspect=Imp|Number=Sing|Person=2|Variant=Long	1	aux:clitic	1:aux:clitic	_
 3	Michała	Michał	PROPN	subst:sg:acc:m1	Case=Acc|Gender=Masc|Number=Sing|SubGender=Masc1	1	obj	1:obj	SpaceAfter=No
 4	,	,	PUNCT	interp	PunctType=Comm	6	punct	6:punct	_
 5	który	który	DET	adj:sg:nom:m1:pos	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel|SubGender=Masc1	6	nsubj	6:nsubj	_

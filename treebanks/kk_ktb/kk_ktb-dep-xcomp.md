@@ -25,7 +25,7 @@ The following 4 pairs of parts of speech are connected with `xcomp`: <tt><a href
 1	Бұл	бұл	PRON	prn	Case=Nom|PronType=Dem	4	nsubj	_	_
 2	сені	сен	PRON	prn	Case=Acc|Number=Sing|Person=2|PronType=Prs	4	obj	_	_
 3	қатын	қатын	NOUN	n	Case=Nom	4	xcomp	_	_
-4	қылады	қыл	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	қылады	қыл	VERB	v	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	sent	_	4	punct	_	_
 
 ~~~
@@ -41,8 +41,8 @@ The following 4 pairs of parts of speech are connected with `xcomp`: <tt><a href
 2	сенуге	сен	VERB	v	Case=Dat|VerbForm=Ger	6	xcomp	_	SpaceAfter=No
 3	,	,	PUNCT	cm	_	5	punct	_	_
 4	кіммен	кім	PRON	prn	Case=Ins|PronType=Int	5	nmod	_	_
-5	істесуге	істе	VERB	v	Case=Dat|VerbForm=Ger|Voice=Coop	2	conj	_	_
-6	болады	бол	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	істесуге	істе	VERB	v	Case=Dat|VerbForm=Ger|Voice=Rcp	2	conj	_	_
+6	болады	бол	VERB	v	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 7	?	?	PUNCT	sent	_	6	punct	_	_
 
 ~~~

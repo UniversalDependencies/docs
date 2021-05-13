@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 
-3256 tokens (9%) have a non-empty value of `Mood`.
+3250 tokens (9%) have a non-empty value of `Mood`.
 408 types (9%) occur at least once with a non-empty value of `Mood`.
 233 lemmas (7%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1732; 5% instances), <tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (1524; 4% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1728; 5% instances), <tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> (1522; 4% instances).
 
 ### `VERB`
 
-1732 <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> tokens (42% of all `VERB` tokens) have a non-empty value of `Mood`.
+1728 <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> tokens (42% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fr_spoken-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1732; 100%), <tt><a href="fr_spoken-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1732; 100%), <tt><a href="fr_spoken-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1483; 86%), <tt><a href="fr_spoken-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1374; 79%), <tt><a href="fr_spoken-feat-Person.html">Person</a></tt><tt>=3</tt> (1204; 70%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fr_spoken-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1728; 100%), <tt><a href="fr_spoken-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1728; 100%), <tt><a href="fr_spoken-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1479; 86%), <tt><a href="fr_spoken-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1370; 79%), <tt><a href="fr_spoken-feat-Person.html">Person</a></tt><tt>=3</tt> (1204; 70%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (49; 3% of non-empty `Mood`): <em>pourrait, faudrait, dirais, voudrais, devrait, pourrais, serait, devraient, rendrait, voudrait</em>
 * `Imp` (56; 3% of non-empty `Mood`): <em>continuez, disons, suivez, attendez, mettez, traversez, donnez, essayons, lisez, pratiquez</em>
-* `Ind` (1607; 93% of non-empty `Mood`): <em>a, est, va, faut, ai, peut, avait, sais, vois, vais</em>
+* `Ind` (1603; 93% of non-empty `Mood`): <em>a, est, va, faut, ai, peut, avait, sais, vais, vois</em>
 * `Sub` (20; 1% of non-empty `Mood`): <em>ait, soit, dise, puisse, puissent, sache, achètent, tienne, transmettent</em>
-* `EMPTY` (2435): <em>dire, dit, fait, faire, allez, voilà, crois, pense, avoir, aller</em>
+* `EMPTY` (2432): <em>dire, dit, fait, faire, allez, voilà, crois, pense, avoir, aller</em>
 
 <table>
   <tr><th>Paradigm <i>dire</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
@@ -43,15 +43,15 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-1524 <tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Mood`.
+1522 <tt><a href="fr_spoken-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="fr_spoken-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1524; 100%), <tt><a href="fr_spoken-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1350; 89%), <tt><a href="fr_spoken-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1296; 85%), <tt><a href="fr_spoken-feat-Person.html">Person</a></tt><tt>=3</tt> (1231; 81%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="fr_spoken-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1522; 100%), <tt><a href="fr_spoken-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1349; 89%), <tt><a href="fr_spoken-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1294; 85%), <tt><a href="fr_spoken-feat-Person.html">Person</a></tt><tt>=3</tt> (1229; 81%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnd` (18; 1% of non-empty `Mood`): <em>aurais, aurait, serais, serait, auraient</em>
 * `Imp` (2; 0% of non-empty `Mood`): <em>sois</em>
-* `Ind` (1485; 97% of non-empty `Mood`): <em>est, a, ai, était, sont, suis, ont, avez, êtes, avait</em>
+* `Ind` (1483; 97% of non-empty `Mood`): <em>est, a, ai, était, sont, suis, ont, avez, êtes, avait</em>
 * `Sub` (19; 1% of non-empty `Mood`): <em>soit, soient, ait, ayez</em>
 * `EMPTY` (140): <em>être, été, faire, fait, avoir, étiez, ayant, aviez, serons, aurai</em>
 
@@ -74,9 +74,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="fr_spoken-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (62; 60%),
+<tt>VERB --[<tt><a href="fr_spoken-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (61; 60%),
 <tt>AUX --[<tt><a href="fr_spoken-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (13; 93%),
-<tt>VERB --[<tt><a href="fr_spoken-dep-ccomp-pred.html">ccomp:pred</a></tt>]--> VERB</tt> (2; 67%),
-<tt>VERB --[<tt><a href="fr_spoken-dep-parataxis-insert.html">parataxis:insert</a></tt>]--> VERB</tt> (2; 67%),
 <tt>AUX --[<tt><a href="fr_spoken-dep-cop.html">cop</a></tt>]--> AUX</tt> (1; 100%).
 

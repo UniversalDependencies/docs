@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Swedish-LinES: Features: `Voice`
 
-This feature is universal but the values `Mid` are language-specific.
-It occurs with 3 different values: `Act`, `Mid`, `Pass`.
+This feature is universal.
+It occurs with 2 different values: `Act`, `Pass`.
 
 15177 tokens (17%) have a non-empty value of `Voice`.
 3314 types (23%) occur at least once with a non-empty value of `Voice`.
@@ -23,16 +23,18 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 `VERB` tokens may have the following values of `Voice`:
 
 * `Act` (10045; 90% of non-empty `Voice`): <em>sa, var, hade, gick, kom, har, såg, ta, göra, sade</em>
-* `Mid` (1; 0% of non-empty `Voice`): <em>trängdes</em>
-* `Pass` (1150; 10% of non-empty `Voice`): <em>visas, kändes, används, tvungen, hördes, tycktes, flyttas, talas, taget, skapats</em>
+* `Pass` (1151; 10% of non-empty `Voice`): <em>visas, kändes, används, tvungen, hördes, tycktes, flyttas, talas, taget, skapats</em>
 * `EMPTY` (200): <em>fanns, finns, finnas, höll, närvarande, taget, förfogande, följande, gillande, gående</em>
 
 <table>
-  <tr><th>Paradigm <i>tränga</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th><th><tt>Mid</tt></th></tr>
-  <tr><td><tt><tt><a href="sv_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sv_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>trängde</em></td><td><em>trängdes</em></td><td><em>trängdes</em></td></tr>
-  <tr><td><tt><tt><a href="sv_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sv_lines-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tränger</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td><em>tränga</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Sup</tt></tt></td><td><em>trängt</em></td><td></td><td></td></tr>
+  <tr><th>Paradigm <i>säga</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
+  <tr><td><tt><tt><a href="sv_lines-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>säg</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sv_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sv_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sa, sade</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sv_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sv_lines-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>säger</em></td><td><em>sägs</em></td></tr>
+  <tr><td><tt><tt><a href="sv_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td></td><td><em>sagt</em></td></tr>
+  <tr><td><tt><tt><a href="sv_lines-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>sagt</em></td></tr>
+  <tr><td><tt><tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td><em>säga</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Sup</tt></tt></td><td><em>sagt</em></td><td><em>sagts</em></td></tr>
 </table>
 
 ### `AUX`

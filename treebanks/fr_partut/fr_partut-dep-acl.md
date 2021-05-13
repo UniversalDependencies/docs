@@ -12,7 +12,7 @@ There are 1 language-specific subtypes of `acl`: <tt><a href="fr_partut-dep-acl-
 487 nodes (2%) are attached to their parents as `acl`.
 
 467 instances of `acl` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.41273100616016.
+Average distance between parent and child is 3.37987679671458.
 
 The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (454; 93% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (16; 3% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (8; 2% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
@@ -61,7 +61,7 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 7	fgColor:white
 # visual-style 7 8 acl	color:blue
 1	Les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
-2	crédits	crédits	NOUN	S	Gender=Fem|Number=Plur	4	nsubj:pass	_	_
+2	crédits	crédit	NOUN	S	Gender=Fem|Number=Plur	4	nsubj:pass	_	_
 3	sont	être	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
 4	autorisés	autoriser	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 5	par	par	ADP	E	_	7	case	_	_
@@ -73,7 +73,7 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 11	limite	limite	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	_
 12	de	de	ADP	E	_	14	case	_	_
 13	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	14	det	_	_
-14	perspectives	perspectives	NOUN	S	Gender=Fem|Number=Plur	11	nmod	_	_
+14	perspectives	perspective	NOUN	S	Gender=Fem|Number=Plur	11	nmod	_	_
 15	financières	financier	ADJ	A	Gender=Fem|Number=Plur	14	amod	_	SpaceAfter=No
 16	.	.	PUNCT	FS	_	4	punct	_	_
 

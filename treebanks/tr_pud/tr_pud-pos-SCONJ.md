@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>ki</em> (<tt><a href="tr_pud-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.503294).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.517067).
 
 The 1st highest number of forms (1) was observed with the lemma “eğer”: <em>eğer</em>.
 

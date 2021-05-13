@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of obl in UD_Old_Russian-TOROT'
+title:  'Statistics of obl in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Relations: `obl`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Relations: `obl`
 
 This relation is universal.
 There are 1 language-specific subtypes of `obl`: <tt><a href="orv_torot-dep-obl-agent.html">obl:agent</a></tt>.
@@ -41,7 +41,7 @@ The following 48 pairs of parts of speech are connected with `obl`: <tt><a href=
 1	а	а	CCONJ	C-	_	4	cc	_	ref=6
 2	изъ	из	ADP	R-	_	3	case	_	ref=6
 3	чювилѧ	чивиль	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	obl	_	ref=6
-4	пошли	поити	VERB	V-	Aspect=Res|Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|VerbForm=Part|Voice=Act	0	root	_	ref=6|LId=1
+4	пошли	поити	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	0	root	_	ref=6|LId=1
 5	есмѧ	быти	AUX	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	ref=6
 6	сѹхѡм	сухо	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	4	obl	_	ref=6
 7	до	до	ADP	R-	_	8	case	_	ref=6
@@ -49,7 +49,7 @@ The following 48 pairs of parts of speech are connected with `obl`: <tt><a href=
 9	и҃	осмь	NUM	Ma	_	4	obl	_	ref=6
 10	дн҃и	дьнь	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	ref=6
 11	до	до	ADP	R-	_	13	case	_	ref=6
-12	индѣискыѧ	индѣискыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	13	amod	_	ref=6
+12	индѣискыѧ	индѣискыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	ref=6
 13	горы	гора	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	conj	_	ref=6
 
 ~~~
@@ -67,7 +67,7 @@ The following 48 pairs of parts of speech are connected with `obl`: <tt><a href=
 4	чето	чьто	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	7	obj	_	ref=
 5	ти	ты	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	iobj	_	ref=
 6	есемо	быти	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	ref=
-7	водала	въдати	VERB	V-	Aspect=Res|Case=Nom|Gender=Fem|Number=Sing|Strength=Strong|VerbForm=Part|Voice=Act	3	obj	_	ref=
+7	водала	въдати	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=PartRes|Voice=Act	3	obj	_	ref=
 8	ковати	ковати	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	advcl	_	ref=
 
 ~~~

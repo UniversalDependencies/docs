@@ -26,7 +26,7 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 1	Yazık	yazık	NOUN	Noun	Case=Nom|Number=Sing|Person=3	6	advcl	_	_
 2	ki	ki	ADP	Rel	_	1	mark	_	_
 3	toplum	toplum	NOUN	Noun	Case=Nom|Number=Sing|Person=3	6	advcl	_	_
-4	olarak	ol	ADP	PCNom	Mood=Imp|Polarity=Pos|VerbForm=Conv	3	case	_	_
+4	olarak	ol	ADP	PCNom	_	3	case	_	_
 5	bunun	bu	PRON	Demons	Case=Gen|Number=Sing|Person=3	6	nmod:poss	_	_
 6	farkında	fark	NOUN	Noun	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	0	root	_	_
 7	değiliz	değil	AUX	Neg	Case=Nom|Number=Plur|Person=1	6	aux	_	SpaceAfter=No
@@ -50,7 +50,7 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 7	-	-	PUNCT	Punc	_	8	punct	_	SpaceAfter=No
 8	90	90	NUM	ANum	NumType=Card	6	flat	_	_
 9	santimetre	santimetre	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	conj	_	_
-10	kadardı	kadar	ADV	Verb	Aspect=Perf|Case=Nom|Evident=Fh|Number=Sing|Person=3|Tense=Past	9	advmod	_	SpaceAfter=No
+10	kadardı	kadar	ADV	Verb	_	9	advmod	_	SpaceAfter=No
 11	.	.	PUNCT	Punc	_	9	punct	_	SpacesAfter=\n
 
 ~~~

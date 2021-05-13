@@ -13,7 +13,7 @@ This relation is universal.
 1690 instances of `root` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.52603550295858.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1335; 79% instances), -<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (148; 9% instances), -<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (68; 4% instances), -<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (42; 2% instances), -<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (38; 2% instances), -<tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (23; 1% instances), -<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (21; 1% instances), -<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), -<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (4; 0% instances), -<tt><a href="myv_jr-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="myv_jr-pos-PART.html">PART</a></tt> (2; 0% instances), -<tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1335; 79% instances), -<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (148; 9% instances), -<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (68; 4% instances), -<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (41; 2% instances), -<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (38; 2% instances), -<tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (23; 1% instances), -<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (21; 1% instances), -<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (7; 0% instances), -<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (4; 0% instances), -<tt><a href="myv_jr-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="myv_jr-pos-PART.html">PART</a></tt> (2; 0% instances), -<tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,9 +26,9 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 2	росась	роса	NOUN	N	Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	GTtags=Sg,Nom,Def
 3	эзь	эзь	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	4	aux:neg	_	_
 4	костявт	костявомс	VERB	V	Connegative=Yes|Mood=Ind|Valency=1	0	root	_	GTtags=IV,Ind,ConNeg
-5	валске	валске	NOUN	N	AdvType=Tim|Case=Nom|Definite=Ind|Number=Sing	7	amod	_	GTtags=Temp,Sg,Nom,Indef
-6	мартонь	марто	ADP	Adp	Case=Gen|Definite=Ind|Number=Plur,Sing	5	fixed	_	GTtags=Der/MWN,N,SP,Gen,Indef
-7	чипайсэнть	чипай	NOUN	N	Case=Ine|Definite=Def|Number=Sing	4	obl	_	GTtags=Sg,Ine,Def|SpaceAfter=No
+5	валске	валске	NOUN	N	AdvType=Tim|Case=Nom|Definite=Ind|Number=Sing	6	compound	_	GTtags=Temp,Sg,Nom,Indef
+6	мартонь	марто	NOUN	N	Case=Gen|Definite=Ind|NounType=Relat|Number=Plur,Sing	7	nmod	_	GTtags=Der/MWN,N,SP,Gen,Indef
+7	чипайсэнть	чипай	NOUN	N	Case=Ine|Definite=Def|Number=Sing	4	obl:lmod	_	GTtags=Sg,Ine,Def|SpaceAfter=No
 8	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~

@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>si</em> (<tt><a href="la_llct-pos-SCO
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.727273 (the average of all parts of speech is 2.628626).
+The form / lemma ratio of `SCONJ` is 1.727273 (the average of all parts of speech is 2.628423).
 
 The 1st highest number of forms (5) was observed with the lemma “ut”: <em>aut, u, ud, ut, uti</em>.
 
@@ -74,9 +74,9 @@ Examples: <em>si, ut, quia, sicut, qualiter, dum, postquam, quod, quam, quando</
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="la_llct-dep-mark.html">mark</a></tt> (4071; 98% instances), <tt><a href="la_llct-dep-fixed.html">fixed</a></tt> (40; 1% instances), <tt><a href="la_llct-dep-reparandum.html">reparandum</a></tt> (10; 0% instances), <tt><a href="la_llct-dep-conj.html">conj</a></tt> (9; 0% instances), <tt><a href="la_llct-dep-cc.html">cc</a></tt> (5; 0% instances), <tt><a href="la_llct-dep-dislocated-conj.html">dislocated:conj</a></tt> (1; 0% instances), <tt><a href="la_llct-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="la_llct-dep-mark.html">mark</a></tt> (4072; 98% instances), <tt><a href="la_llct-dep-fixed.html">fixed</a></tt> (39; 1% instances), <tt><a href="la_llct-dep-reparandum.html">reparandum</a></tt> (10; 0% instances), <tt><a href="la_llct-dep-conj.html">conj</a></tt> (9; 0% instances), <tt><a href="la_llct-dep-cc.html">cc</a></tt> (5; 0% instances), <tt><a href="la_llct-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="la_llct-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 10 different parts of speech: <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (4039; 98% instances), <tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> (21; 1% instances), <tt><a href="la_llct-pos-ADV.html">ADV</a></tt> (19; 0% instances), <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (14; 0% instances), <tt><a href="la_llct-pos-CCONJ.html">CCONJ</a></tt> (11; 0% instances), <tt><a href="la_llct-pos-SCONJ.html">SCONJ</a></tt> (11; 0% instances), <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="la_llct-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="la_llct-pos-DET.html">DET</a></tt> (3; 0% instances)
+Parents of `SCONJ` nodes belong to 10 different parts of speech: <tt><a href="la_llct-pos-VERB.html">VERB</a></tt> (4040; 98% instances), <tt><a href="la_llct-pos-ADJ.html">ADJ</a></tt> (21; 1% instances), <tt><a href="la_llct-pos-ADV.html">ADV</a></tt> (18; 0% instances), <tt><a href="la_llct-pos-NOUN.html">NOUN</a></tt> (14; 0% instances), <tt><a href="la_llct-pos-CCONJ.html">CCONJ</a></tt> (11; 0% instances), <tt><a href="la_llct-pos-SCONJ.html">SCONJ</a></tt> (11; 0% instances), <tt><a href="la_llct-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="la_llct-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="la_llct-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="la_llct-pos-DET.html">DET</a></tt> (3; 0% instances)
 
 3606 (87%) `SCONJ` nodes are leaves.
 

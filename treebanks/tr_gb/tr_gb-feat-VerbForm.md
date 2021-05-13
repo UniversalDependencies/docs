@@ -9,24 +9,23 @@ udver: '2'
 This feature is universal but the values `Conv`, `Vnoun` are language-specific.
 It occurs with 4 different values: `Conv`, `Fin`, `Part`, `Vnoun`.
 
-3611 tokens (21%) have a non-empty value of `VerbForm`.
-2123 types (42%) occur at least once with a non-empty value of `VerbForm`.
-477 lemmas (23%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (3058; 18% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (553; 3% instances).
+3638 tokens (21%) have a non-empty value of `VerbForm`.
+2138 types (42%) occur at least once with a non-empty value of `VerbForm`.
+476 lemmas (23%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> (3085; 18% instances), <tt><a href="tr_gb-pos-AUX.html">AUX</a></tt> (553; 3% instances).
 
 ### `VERB`
 
-3058 <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+3085 <tt><a href="tr_gb-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="tr_gb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2741; 90%), <tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2697; 88%), <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2697; 88%), <tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (2682; 88%), <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2581; 84%), <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2560; 84%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2097; 69%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1821; 60%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="tr_gb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2766; 90%), <tt><a href="tr_gb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2723; 88%), <tt><a href="tr_gb-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2723; 88%), <tt><a href="tr_gb-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (2683; 87%), <tt><a href="tr_gb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2606; 84%), <tt><a href="tr_gb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2586; 84%), <tt><a href="tr_gb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2112; 68%), <tt><a href="tr_gb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1844; 60%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (96; 3% of non-empty `VerbForm`): <em>gelince, gidip, öleli, oturup, alalı, alıp, ağlaya, başlayınca, bilip, bulup</em>
-* `Fin` (2283; 75% of non-empty `VerbForm`): <em>geldi, gerekiyor, görmüş, istiyor, söyledi, çalışıyor, ediyorum, gidiyor, gitti, gitmiş</em>
-* `Part` (350; 11% of non-empty `VerbForm`): <em>geçen, yaptığı, geldiği, çaldığını, ettiğimiz, oynayan, sevdiği, bildiğim, ettiğin, gördüğünüz</em>
+* `Fin` (2309; 75% of non-empty `VerbForm`): <em>geldi, gerekiyor, görmüş, istiyor, söyledi, çalışıyor, ediyorum, gidiyor, gitti, gitmiş</em>
+* `Part` (351; 11% of non-empty `VerbForm`): <em>geçen, yaptığı, geldiği, çaldığını, ettiğimiz, oynayan, sevdiği, bildiğim, ettiğin, gördüğünüz</em>
 * `Vnoun` (329; 11% of non-empty `VerbForm`): <em>gitmek, gitmeniz, görmek, almak, yapmamız, çıkmak, almamız, gelmek, gelmesi, girmeyi</em>
-* `EMPTY` (28): <em>aldı, bayılıyor, getirdiler, pişiriyoruz, sanıyor, Yaparım, aradı, dolaşıyor, duruyor, duruyordu</em>
 
 <table>
   <tr><th>Paradigm <i>git</i></th><th><tt>Fin</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th><th><tt>Vnoun</tt></th></tr>

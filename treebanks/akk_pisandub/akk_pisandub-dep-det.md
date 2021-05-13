@@ -13,7 +13,7 @@ This relation is universal.
 172 instances of `det` (95%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.26923076923077.
 
-The following 9 pairs of parts of speech are connected with `det`: <tt><a href="akk_pisandub-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_pisandub-pos-PRON.html">PRON</a></tt> (157; 86% instances), <tt><a href="akk_pisandub-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_pisandub-pos-PRON.html">PRON</a></tt> (7; 4% instances), <tt><a href="akk_pisandub-pos-PROPN.html">PROPN</a></tt>-<tt><a href="akk_pisandub-pos-DET.html">DET</a></tt> (6; 3% instances), <tt><a href="akk_pisandub-pos-PROPN.html">PROPN</a></tt>-<tt><a href="akk_pisandub-pos-PRON.html">PRON</a></tt> (5; 3% instances), <tt><a href="akk_pisandub-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_pisandub-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="akk_pisandub-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_pisandub-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="akk_pisandub-pos-ADP.html">ADP</a></tt>-<tt><a href="akk_pisandub-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="akk_pisandub-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_pisandub-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="akk_pisandub-pos-X.html">X</a></tt>-<tt><a href="akk_pisandub-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `det`: <tt><a href="akk_pisandub-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_pisandub-pos-PRON.html">PRON</a></tt> (160; 88% instances), <tt><a href="akk_pisandub-pos-VERB.html">VERB</a></tt>-<tt><a href="akk_pisandub-pos-PRON.html">PRON</a></tt> (7; 4% instances), <tt><a href="akk_pisandub-pos-PROPN.html">PROPN</a></tt>-<tt><a href="akk_pisandub-pos-DET.html">DET</a></tt> (6; 3% instances), <tt><a href="akk_pisandub-pos-PROPN.html">PROPN</a></tt>-<tt><a href="akk_pisandub-pos-PRON.html">PRON</a></tt> (5; 3% instances), <tt><a href="akk_pisandub-pos-NOUN.html">NOUN</a></tt>-<tt><a href="akk_pisandub-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="akk_pisandub-pos-ADP.html">ADP</a></tt>-<tt><a href="akk_pisandub-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="akk_pisandub-pos-X.html">X</a></tt>-<tt><a href="akk_pisandub-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 5	fgColor:white
 # visual-style 5 6 det	color:blue
 1	ki-ma	kīma	ADP	_	_	3	case	_	_
-2	ša	ša	DET	_	_	3	case	_	_
+2	ša	ša	ADP	_	_	3	case	_	_
 3	u₄-um	ūmu	NOUN	_	_	8	obl	_	_
 4	ul-lu-tim	ullû	ADJ	_	_	3	amod	_	_
 5	re-ši	rēšu	NOUN	_	_	8	obj	_	_

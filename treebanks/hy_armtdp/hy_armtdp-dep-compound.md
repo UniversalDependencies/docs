@@ -97,7 +97,7 @@ The following 16 pairs of parts of speech are connected with `compound`: <tt><a 
 17	,	,	PUNCT	_	_	18	punct	_	Translit=,|LTranslit=,
 18	մինն	մին	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing|NumForm=Word|Style=Vrnc	1	conj	_	Translit=minn|LTranslit=min
 19	էլ	էլ	ADV	_	_	18	advmod:emph	_	Translit=ēl|LTranslit=ēl
-20	էս	այս	DET	_	Distance=Prox|PronType=Dem|Style=Coll	21	det	_	Translit=ēs|LTranslit=ays
+20	էս	այս	DET	_	Deixis=Prox|PronType=Dem|Style=Coll	21	det	_	Translit=ēs|LTranslit=ays
 21	բլոգի	բլոգ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	22	nmod:poss	_	Translit=blogi|LTranslit=blog
 22	հեղինակին	հեղինակ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing	18	obj	_	Translit=heġinakin|LTranslit=heġinak|SpaceAfter=No
 23	,	,	PUNCT	_	_	28	punct	_	Translit=,|LTranslit=,

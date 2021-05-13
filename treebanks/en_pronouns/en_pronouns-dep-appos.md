@@ -25,11 +25,11 @@ The following 1 pairs of parts of speech are connected with `appos`: <tt><a href
 1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	_
 2	car	car	NOUN	NN	Number=Sing	7	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	_
-4	hers	she	PRON	SG-GEN-INDEP	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	appos	_	SpaceAfter=No
+4	hers	hers	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	appos	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	_	_
-6	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
-7	cleaned	clean	VERB	V	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
-8	.	.	PUNCT	Period	_	7	punct	_	_
+6	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
+7	cleaned	clean	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	7	punct	_	_
 
 ~~~
 

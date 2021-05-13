@@ -24,7 +24,7 @@ The following 18 pairs of parts of speech are connected with `goeswith`: <tt><a 
 # visual-style 11 12 goeswith	color:blue
 1	Cumpăr	cumpăra	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	Dacia	Dacia	PROPN	Np	_	1	obj	_	_
-3	1310	1310	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	2	nummod	_	SpaceAfter=No
+3	1310	1310	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	2	nummod	_	SpaceAfter=No
 4	,	,	PUNCT	COMMA	_	6	punct	_	_
 5	orice	orice	DET	Di3--r---e	Case=Acc,Nom|Person=3|Position=Prenom|PronType=Ind	6	det	_	_
 6	stare	stare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
@@ -32,9 +32,9 @@ The following 18 pairs of parts of speech are connected with `goeswith`: <tt><a 
 8	ofer	oferi	VERB	Vmm-2s----y	Mood=Imp|Number=Sing|Person=2|Variant=Short|VerbForm=Fin	1	conj	_	_
 9	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	8	advmod	_	_
 10	loc	loc	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	9	fixed	_	_
-11	12	12	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	15	nummod	_	_
-12	000	000	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	11	goeswith	_	_
-13	000	000	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	11	goeswith	_	_
+11	12	12	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	15	nummod	_	_
+12	000	000	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	11	goeswith	_	_
+13	000	000	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	11	goeswith	_	_
 14	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	_
 15	lei	leu	NOUN	Ncmp-n	Definite=Ind|Gender=Masc|Number=Plur	8	obj	_	SpaceAfter=No
 16	.	.	PUNCT	PERIOD	_	1	punct	_	_
@@ -91,7 +91,7 @@ The following 18 pairs of parts of speech are connected with `goeswith`: <tt><a 
 12	duce	duce	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	_
 13	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	15	case	_	_
 14	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	15	det	_	_
-15	prelungire	prelungire	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	12	nmod:pmod	_	_
+15	prelungire	prelungire	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	12	obl:pmod	_	_
 16	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	17	det	_	_
 17	timpului	timp	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	15	nmod	_	_
 18	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	_
@@ -100,9 +100,9 @@ The following 18 pairs of parts of speech are connected with `goeswith`: <tt><a 
 21	eliminare	eliminare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	19	nmod	_	_
 22	terminal	terminal	ADJ	Afpms-n	Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
 23	(	(	PUNCT	LPAR	_	24	punct	_	SpaceAfter=No
-24	t	t	NOUN	Ncm--n	Definite=Ind|Gender=Masc	17	appos	_	_
+24	t	t	NOUN	Ncms-n	Definite=Ind|Gender=Masc|Number=Sing	17	appos	_	_
 25	/	/	PUNCT	SLASH	AdpType=Prep	24	punct	_	_
-26	2	2	NUM	Mc-p-d	Number=Plur|NumForm=Digit|NumType=Card	24	nummod	_	SpaceAfter=No
+26	2	2	NUM	Mc-s-d	Number=Sing|NumForm=Digit|NumType=Card	24	nummod	_	SpaceAfter=No
 27	)	)	PUNCT	RPAR	_	24	punct	_	_
 28	a	al	DET	Tsfs	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	29	det	_	_
 29	levodopei	levodopă	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No

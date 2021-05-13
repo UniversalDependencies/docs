@@ -9,24 +9,25 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="wbp_ufal-feat-Person.html">Person</a></tt>, <tt><a href="wbp_ufal-feat-Person-dat.html">Person[dat]</a></tt>, <tt><a href="wbp_ufal-feat-Person-obj.html">Person[obj]</a></tt>, <tt><a href="wbp_ufal-feat-Person-sdat.html">Person[sdat]</a></tt>.
+This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="wbp_ufal-feat-Person.html">Person</a></tt>, <tt><a href="wbp_ufal-feat-Person-dat.html">Person[dat]</a></tt>, <tt><a href="wbp_ufal-feat-Person-obj.html">Person[obj]</a></tt>.
 
-13 tokens (4%) have a non-empty value of `Person[obj]`.
-5 types (5%) occur at least once with a non-empty value of `Person[obj]`.
+14 tokens (4%) have a non-empty value of `Person[obj]`.
+6 types (6%) occur at least once with a non-empty value of `Person[obj]`.
 1 lemmas (2%) occur at least once with a non-empty value of `Person[obj]`.
-The feature is used with 1 part-of-speech tags: <tt><a href="wbp_ufal-pos-AUX.html">AUX</a></tt> (13; 4% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="wbp_ufal-pos-AUX.html">AUX</a></tt> (14; 4% instances).
 
 ### `AUX`
 
-13 <tt><a href="wbp_ufal-pos-AUX.html">AUX</a></tt> tokens (28% of all `AUX` tokens) have a non-empty value of `Person[obj]`.
+14 <tt><a href="wbp_ufal-pos-AUX.html">AUX</a></tt> tokens (28% of all `AUX` tokens) have a non-empty value of `Person[obj]`.
 
-The most frequent other feature values with which `AUX` and `Person[obj]` co-occurred: <tt><a href="wbp_ufal-feat-Person-dat.html">Person[dat]</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="wbp_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (13; 100%), <tt><a href="wbp_ufal-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt> (10; 77%), <tt><a href="wbp_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 62%).
+The most frequent other feature values with which `AUX` and `Person[obj]` co-occurred: <tt><a href="wbp_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (14; 100%), <tt><a href="wbp_ufal-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt> (11; 79%), <tt><a href="wbp_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 64%).
 
 `AUX` tokens may have the following values of `Person[obj]`:
 
 
 <table>
   <tr><th>Paradigm <i>ka</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><tt><a href="wbp_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="wbp_ufal-feat-Number-dat.html">Number[dat]</a></tt><tt>=Sing</tt>|<tt><a href="wbp_ufal-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="wbp_ufal-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="wbp_ufal-feat-Person-dat.html">Person[dat]</a></tt><tt>=3</tt>|<tt><a href="wbp_ufal-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>karlajinta</em></td></tr>
   <tr><td><tt><tt><a href="wbp_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="wbp_ufal-feat-Number-obj.html">Number[obj]</a></tt><tt>=Dual</tt>|<tt><a href="wbp_ufal-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="wbp_ufal-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>karnapalangu</em></td></tr>
   <tr><td><tt><tt><a href="wbp_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="wbp_ufal-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="wbp_ufal-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="wbp_ufal-feat-Person-obj.html">Person[obj]</a></tt><tt>=2</tt></tt></td><td></td><td><em>karnangku</em></td><td></td></tr>
   <tr><td><tt><tt><a href="wbp_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="wbp_ufal-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="wbp_ufal-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="wbp_ufal-feat-Person-obj.html">Person[obj]</a></tt><tt>=1</tt></tt></td><td><em>kanpaju</em></td><td></td><td></td></tr>

@@ -25,7 +25,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Acc` (1; 0% of non-empty `Case`): <em>nuptiam</em>
 * `Gen` (984; 4% of non-empty `Case`): <em>äktenskapets, kvinnans, världens, barnens, familjens, års, dagens, samhällets, jordens, slags</em>
 * `Nom` (21444; 96% of non-empty `Case`): <em>år, barn, del, äktenskapet, procent, barnen, människor, tid, sätt, samhället</em>
-* `EMPTY` (573): <em>kr, %, dr, s., kap., proc, KPI, milj, mån, kl</em>
+* `EMPTY` (568): <em>kr, %, dr, s., kap., proc, KPI, milj, mån, kl</em>
 
 <table>
   <tr><th>Paradigm <i>barn</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th></tr>

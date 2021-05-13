@@ -92,7 +92,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Acc` (7013; 9% of non-empty `Case`): <em>Internet, Mark, Server, Ende, US-Dollar, Markt, Kunden, Version, Zugang, Anfang</em>
 * `Dat` (36082; 47% of non-empty `Case`): <em>Jahren, Monaten, Tagen, Ländern, Mitarbeitern, Geräten, Computern, Bereichen, Worten, Zuge</em>
 * `Gen` (24378; 32% of non-empty `Case`): <em>Jahres, Unternehmens, Konzerns, Geschäftsjahres, Systems, Herstellers, Vorjahres, Marktes, Netzes, Quartals</em>
-* `Nom` (8759; 11% of non-empty `Case`): <em>Internet, Name, Vorsitzende, Vorsitzender, Riese, V​o​r​s​t​a​n​d​s​v​o​r​s​i​t​z​e​n​d​e​r, Unternehmen, Vorstandsvorsitzende, Server, E-Mail</em>
+* `Nom` (8759; 11% of non-empty `Case`): <em>Internet, Name, Vorsitzende, Vorsitzender, Riese, Vorstandsvorsitzender, Unternehmen, Vorstandsvorsitzende, Server, E-Mail</em>
 * `EMPTY` (652872): <em>Prozent, Millionen, Internet, Unternehmen, Mark, US-Dollar, Milliarden, Jahr, Firma, Kunden</em>
 
 <table>

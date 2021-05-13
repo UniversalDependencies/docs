@@ -25,9 +25,9 @@ The following 5 pairs of parts of speech are connected with `compound:redup`: <t
 # visual-style 13 14 compound:redup	color:blue
 1	Hakim	hak	ADJ	JJ	Number=Sing	4	acl	_	_
 2	olduğunuz	ol	AUX	VJ	Number=Sing|Number[psor]=Plur|Person[psor]=2|Polarity=Pos	1	cop	_	_
-3	bir	bir	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	4	det	_	_
+3	bir	bir	DET	DT	Definite=Ind|Polarity=Pos	4	det	_	_
 4	oyunda	oyun	NOUN	NN	Case=Loc|Number=Sing	7	obl	_	_
-5	bir	bir	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	6	det	_	_
+5	bir	bir	DET	DT	Definite=Ind|Polarity=Pos	6	det	_	_
 6	kez	kez	NOUN	NN	Number=Sing	7	obl	_	_
 7	berabere	beraber	NOUN	NN	Case=Dat|Number=Sing	9	csubj	_	_
 8	kalmak	kal	VERB	VN	Aspect=Perf|Case=Nom|Mood=Ind|Number=Sing|Person=3|Tense=Fut	7	compound:lvc	_	_
@@ -60,11 +60,11 @@ The following 5 pairs of parts of speech are connected with `compound:redup`: <t
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	İmparatorlar	İmparator	NOUN	NN	Number=Plur	19	nsubj	_	_
 5	Shōwa'dan	Shōwa	PROPN	PROPN	Case=Abl|Number=Sing	6	obl	_	Proper=True
-6	başlayarak	başla	ADV	CRB	Polarity=Pos	19	advcl	_	_
+6	başlayarak	başla	ADV	CRB	_	19	advcl	_	_
 7	imparatorlara	imparator	NOUN	NN	Case=Dat|Number=Plur	15	obj	_	SpaceAfter=No
 8	,	,	PUNCT	,	_	7	punct	_	_
 9	hem	hem	CCONJ	CCONJ	_	10	cc:preconj	_	ToDo=ex-adp-child
-10	yaşarken	yaşa	ADV	CRB	Polarity=Pos	15	advcl	_	_
+10	yaşarken	yaşa	ADV	CRB	_	15	advcl	_	_
 11	hem	hem	CCONJ	CCONJ	_	13	cc	_	ToDo=ex-adp-child
 12	de	de	ADV	RB	_	11	fixed	_	_
 13	ölümlerinden	ölüm	NOUN	NN	Case=Abl|Number=Plur|Number[psor]=Sing|Person[psor]=3	10	conj	_	_
@@ -93,7 +93,7 @@ The following 5 pairs of parts of speech are connected with `compound:redup`: <t
 5	şehir	şehir	NOUN	NN	Number=Sing	6	nmod:poss	_	_
 6	devletleri	devlet	NOUN	NN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	9	nsubj	_	_
 7	ortaya	orta	NOUN	NN	Case=Dat|Number=Sing	8	obl	_	_
-8	çıkmaya	çık	NOUN	VN	Aspect=Perf|Case=Dat|Mood=Ind|Tense=Pres|VerbForm=Ger	9	ccomp	_	_
+8	çıkmaya	çık	VERB	VN	Aspect=Perf|Case=Dat|Mood=Ind|Tense=Pres|VerbForm=Vnoun	9	ccomp	_	_
 9	başlamıştır	başla	VERB	VB	Aspect=Perf|Evident=Nfh|Mood=Gen|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
 10	:	:	PUNCT	:	_	19	punct	_	_
 11	siyasi	siyasi	ADJ	JJ	Number=Sing	12	amod	_	_

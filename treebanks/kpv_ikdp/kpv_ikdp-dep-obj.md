@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-42 nodes (3%) are attached to their parents as `obj`.
+94 nodes (4%) are attached to their parents as `obj`.
 
-26 instances of `obj` (62%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.69047619047619.
+62 instances of `obj` (66%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.73404255319149.
 
-The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (33; 79% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (8; 19% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (66; 70% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (21; 22% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 2 3 obj	color:blue
 1	Ми	ми	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	вӧдитам	вӧдитны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	_
-3	картапель	картапель	NOUN	N	Case=Nom|Number=Sing	2	obj	_	Lang=Mixed|SpaceAfter=No
+3	картапель	картапель	NOUN	N	Case=Nom|Number=Sing	2	obj	_	OrigLang=ru|SpaceAfter=No
 4	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
@@ -40,7 +40,7 @@ The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="
 2	велэдчи	велӧдчыны	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	CLB	_	4	punct	_	_
 4	быдтіс	быдтыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	_
-5	баб	баб	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	Lang=Mixed
+5	баб	баб	NOUN	N	Case=Nom|Number=Sing	4	nsubj	_	OrigLang=ru
 6	миянумес	ми	PRON	Pron	Case=Acc|Number=Plur|Person=1|PronType=Prs	4	obj	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	2	punct	_	_
 
@@ -48,27 +48,18 @@ The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 12 obj	color:blue
-1	А	а	CCONJ	CC	_	4	cc	_	_
-2	ае	ай	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	4	nsubj	_	_
-3	тоже	тожӧ	PART	Pcle	_	4	advmod	_	_
-4	рӧбитіс	рӧбитны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
-5	столярын	столяр	NOUN	N	Case=Ine|Number=Sing	4	obl	_	Lang=Rus
-6	ли	ли	PART	Pcle	_	5	advmod	_	Lang=Mixed
-7	слесарьын	слесарь	NOUN	N	Case=Ine|Number=Sing	5	appos	_	Lang=Rus
-8	ли	ли	PART	Pcle	_	7	advmod	_	Lang=Mixed|SpaceAfter=No
-9	,	,	PUNCT	CLB	_	8	punct	_	_
-10	но	но	CCONJ	CC	_	15	cc	_	Lang=Mixed|SpaceAfter=No
-11	,	,	PUNCT	CLB	_	10	punct	_	_
-12	чё	чё	PART	Pcle	_	15	obj	_	Lang=Rus|SpaceAfter=No|Note=Check
-13	-	-	PUNCT	PUNCT	_	12	punct	_	SpaceAfter=No
-14	то	то	PART	Pcle	_	12	discourse	_	Lang=Rus
-15	делал	делать	VERB	V	Mood=Ind|Number=Sing|Tense=Past	4	conj	_	Lang=Rus|SpaceAfter=No
-16	.	.	PUNCT	CLB	_	4	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 obj	color:blue
+1	Коймедсэ	коймӧд	ADJ	A	Case=Acc|Number=Sing|Number[psor]=Sing|NumType=Ord|Person[psor]=3	2	obj	_	GTtags=Err/Dial,Ord,Sg,Acc,PxSg3
+2	сетіс	сетны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=Ind,Prt1,Sg3
+3	да	да	CCONJ	CC	_	6	cc	_	_
+4	бара	бара	ADV	Adv	_	6	advmod:eval	_	GTtags=Parenthetic
+5	же	жӧ	PART	Pcle	_	6	advmod:eval	_	GTtags=Err/Dial
+6	сідз	сідзи	ADV	Adv	AdvType=Man	2	conj	_	GTtags=Manner|SpaceAfter=No
+7	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
 ~~~
 

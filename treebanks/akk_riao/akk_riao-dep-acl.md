@@ -24,31 +24,31 @@ The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 11	fgColor:white
 # visual-style 11 10 acl	color:blue
 1	enūma	inūma	ADV	SBJ	_	26	advmod	26:advmod	e-nu-ma
-2	ṣalam	ṣalmu	NOUN	N	Gender=Masc|Nounbase=Bound|Number=Sing	26	obj	26:obj	ALAM
+2	ṣalam	ṣalmu	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	26	obj	26:obj	ALAM
 3	Ninurta	Ninurta	PROPN	DN	Gender=Masc	2	nmod:poss	2:nmod:poss	{d}MAŠ
 4	šuātu	šuāti	DET	IP	Gender=Masc|Number=Sing|Person=3	2	amod	2:amod	šu-a-tu₂
 5	ša	ša	PRON	REL	_	9	nsubj	9:nsubj	ša₂
 6	ina	ina	ADP	PRP	_	7	case	7:case	ina
 7	pān	pānu	ADV	N	_	9	obl	9:obl	pa-an
 8	lā	lā	PART	MOD	_	9	advmod	9:advmod	la-a
-9	bašû	bašû	VERB	V	Gender=Masc|Number=Sing|Person=3|Subordinative=Yes|VerbForm=Stative|Verbstem=G	2	acl:relcl	2:acl:relcl	GAL₂-u₂
+9	bašû	bašû	VERB	V	Gender=Masc|Number=Sing|Person=3|Subordinative=Yes|VerbForm=Stat|VerbStem=G	2	acl:relcl	2:acl:relcl	GAL₂-u₂
 10	ina	ina	ADP	PRP	_	11	acl	11:acl	ina
-11	hissat	hissatu	NOUN	N	Gender=Fem|Nounbase=Bound|Number=Sing	26	obl	26:obl	hi-sa-at
-12	libbi	libbu	NOUN	N	Case=Gen|Gender=Masc|Nounbase=Suffixal|Number=Sing	11	nmod:poss	11:nmod:poss	lib₃-bi-ia
+11	hissat	hissatu	NOUN	N	Gender=Fem|NounBase=Bound|Number=Sing	26	obl	26:obl	hi-sa-at
+12	libbi	libbu	NOUN	N	Case=Gen|Gender=Masc|NounBase=Suffixal|Number=Sing	11	nmod:poss	11:nmod:poss	lib₃-bi-ia
 13	ya	_	PRON	_	Number=Sing|Person=1	12	det:poss	12:det:poss	_
-14	lamassi	lamassu	NOUN	N	Gender=Fem|Nounbase=Bound|Number=Sing	2	appos	2:appos	{d}LAMMA
-15	ilūti	ilūtu	NOUN	N	Case=Gen|Gender=Fem|Nounbase=Suffixal|Number=Sing	14	nmod:poss	14:nmod:poss	DINGIR-ti-šu₂
+14	lamassi	lamassu	NOUN	N	Gender=Fem|NounBase=Bound|Number=Sing	2	appos	2:appos	{d}LAMMA
+15	ilūti	ilūtu	NOUN	N	Case=Gen|Gender=Fem|NounBase=Suffixal|Number=Sing	14	nmod:poss	14:nmod:poss	DINGIR-ti-šu₂
 16	šu	_	PRON	_	Gender=Masc|Number=Sing|Person=3	15	det:poss	15:det:poss	_
 17	rabīte	rabû	ADJ	AJ	Case=Gen|Gender=Fem|Number=Sing	15	amod	15:amod	GAL-te
 18	ina	ina	ADP	PRP	_	19	case	19:case	ina
-19	dumuq	dumqu	NOUN	N	Gender=Masc|Nounbase=Bound|Number=Sing	26	obl	26:obl	du-muq
-20	aban	abnu	NOUN	N	Gender=Masc|Nounbase=Bound|Number=Sing	19	nmod:poss	19:nmod:poss	NA₄
-21	šadê	šadû	NOUN	N	Case=Gen|Gender=Masc|Nounbase=Free|Number=Sing	20	nmod:poss	20:nmod:poss	KUR-e
+19	dumuq	dumqu	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	26	obl	26:obl	du-muq
+20	aban	abnu	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	19	nmod:poss	19:nmod:poss	NA₄
+21	šadê	šadû	NOUN	N	Case=Gen|Gender=Masc|NounBase=Free|Number=Sing	20	nmod:poss	20:nmod:poss	KUR-e
 22	u	u	CCONJ	CNJ	_	23	cc	23:cc	u₃
-23	hurāṣi	hurāṣu	NOUN	N	Case=Gen|Gender=Masc|Nounbase=Free|Number=Sing	20	conj	20:conj	KU₃.GI
+23	hurāṣi	hurāṣu	NOUN	N	Case=Gen|Gender=Masc|NounBase=Free|Number=Sing	20	conj	20:conj	KU₃.GI
 24	huššê	huššû	ADJ	AJ	Case=Gen|Gender=Masc|Number=Sing	23	amod	23:amod	_
 25	lū	lū	PART	MOD	_	26	advmod:emph	26:advmod:emph	lu-u₂
-26	ēpušūni	epēšu	VERB	V	Gender=Com|Mood=Ind|Number=Sing|Person=1|Subordinative=Yes|Tense=Past|VerbForm=Finite|Verbstem=G	0	root	0:root	_
+26	ēpušūni	epēšu	VERB	V	Gender=Com|Mood=Ind|Number=Sing|Person=1|Subordinative=Yes|Tense=Past|VerbForm=Fin|VerbStem=G	0	root	0:root	_
 
 ~~~
 
@@ -60,40 +60,40 @@ The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 1	fgColor:white
 # visual-style 1 12 acl	color:blue
 1	Aššur-naṣir-apli	Aššur-naṣir-apli_II	PROPN	RN	Gender=Masc	0	root	0:root	{m}aš-šur-PAP-A
-2	šakin	šaknu	NOUN	N	Gender=Masc|Nounbase=Bound|Number=Sing	1	appos	1:appos	GAR
+2	šakin	šaknu	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	1	appos	1:appos	GAR
 3	Enlil	Enlil	PROPN	DN	Gender=Masc	2	nmod:poss	2:nmod:poss	{d}BAD
-4	iššak	iššiakku	NOUN	N	Gender=Masc|Nounbase=Bound|Number=Sing	1	appos	1:appos	ŠID
+4	iššak	iššiakku	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	1	appos	1:appos	ŠID
 5	Aššur	Aššur	PROPN	DN	Gender=Masc	4	nmod:poss	4:nmod:poss	aš-šur
-6	šarru	šarru	NOUN	N	Case=Nom|Gender=Masc|Nounbase=Free|Number=Sing	1	appos	1:appos	MAN
+6	šarru	šarru	NOUN	N	Case=Nom|Gender=Masc|NounBase=Free|Number=Sing	1	appos	1:appos	MAN
 7	rabû	rabû	ADJ	AJ	Case=Nom|Gender=Masc|Number=Sing	6	amod	6:amod	GAL
-8	šarru	šarru	NOUN	N	Case=Nom|Gender=Masc|Nounbase=Free|Number=Sing	1	appos	1:appos	MAN
+8	šarru	šarru	NOUN	N	Case=Nom|Gender=Masc|NounBase=Free|Number=Sing	1	appos	1:appos	MAN
 9	dannu	dannu	ADJ	AJ	Case=Nom|Gender=Masc|Number=Sing	8	amod	8:amod	dan-nu
-10	šar	šarru	NOUN	N	Gender=Masc|Nounbase=Bound|Number=Sing	1	appos	1:appos	MAN
-11	kiššati	kiššatu	NOUN	N	Case=Gen|Gender=Fem|Nounbase=Free|Number=Sing	10	nmod:poss	10:nmod:poss	ŠU₂
-12	šar	šarru	NOUN	N	Gender=Masc|Nounbase=Bound|Number=Sing	1	acl	1:acl	MAN
-13	māt	mātu	NOUN	N	Gender=Fem|Nounbase=Bound|Number=Sing	12	nmod:poss	12:nmod:poss	KUR
+10	šar	šarru	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	1	appos	1:appos	MAN
+11	kiššati	kiššatu	NOUN	N	Case=Gen|Gender=Fem|NounBase=Free|Number=Sing	10	nmod:poss	10:nmod:poss	ŠU₂
+12	šar	šarru	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	1	acl	1:acl	MAN
+13	māt	mātu	NOUN	N	Gender=Fem|NounBase=Bound|Number=Sing	12	nmod:poss	12:nmod:poss	KUR
 14	Aššur	Aššur	PROPN	GN	Gender=Masc	13	nmod:poss	13:nmod:poss	aš-šur
-15	mār	māru	NOUN	N	Gender=Masc|Nounbase=Bound|Number=Sing	1	appos	1:appos	A
+15	mār	māru	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	1	appos	1:appos	A
 16	Tukulti-Ninurta	Tukulti-Ninurta_II	PROPN	RN	Gender=Masc	15	nmod:poss	15:nmod:poss	TUKUL-MAŠ
-17	šarru	šarru	NOUN	N	Case=Nom|Gender=Masc|Nounbase=Free|Number=Sing	16	appos	16:appos	MAN
+17	šarru	šarru	NOUN	N	Case=Nom|Gender=Masc|NounBase=Free|Number=Sing	16	appos	16:appos	MAN
 18	rabû	rabû	ADJ	AJ	Case=Nom|Gender=Masc|Number=Sing	17	amod	17:amod	GAL
-19	šarru	šarru	NOUN	N	Case=Nom|Gender=Masc|Nounbase=Free|Number=Sing	16	appos	16:appos	MAN
+19	šarru	šarru	NOUN	N	Case=Nom|Gender=Masc|NounBase=Free|Number=Sing	16	appos	16:appos	MAN
 20	dannu	dannu	ADJ	AJ	Case=Nom|Gender=Masc|Number=Sing	19	amod	19:amod	dan-nu
-21	šar	šarru	NOUN	N	Gender=Masc|Nounbase=Bound|Number=Sing	16	appos	16:appos	MAN
-22	kiššati	kiššatu	NOUN	N	Case=Gen|Gender=Fem|Nounbase=Free|Number=Sing	21	nmod:poss	21:nmod:poss	ŠU₂
-23	šar	šarru	NOUN	N	Gender=Masc|Nounbase=Bound|Number=Sing	16	appos	16:appos	MAN
-24	māt	mātu	NOUN	N	Gender=Fem|Nounbase=Bound|Number=Sing	23	nmod:poss	23:nmod:poss	KUR
+21	šar	šarru	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	16	appos	16:appos	MAN
+22	kiššati	kiššatu	NOUN	N	Case=Gen|Gender=Fem|NounBase=Free|Number=Sing	21	nmod:poss	21:nmod:poss	ŠU₂
+23	šar	šarru	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	16	appos	16:appos	MAN
+24	māt	mātu	NOUN	N	Gender=Fem|NounBase=Bound|Number=Sing	23	nmod:poss	23:nmod:poss	KUR
 25	Aššur	Aššur	PROPN	GN	Gender=Masc	24	nmod:poss	24:nmod:poss	aš-šur
-26	mār	māru	NOUN	N	Gender=Masc|Nounbase=Bound|Number=Sing	16	appos	16:appos	A
+26	mār	māru	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	16	appos	16:appos	A
 27	Adad-nerari	Adad-narari_II	PROPN	RN	Gender=Masc	26	nmod:poss	26:nmod:poss	10-ERIM.TAH₂
-28	šarru	šarru	NOUN	N	Case=Nom|Gender=Masc|Nounbase=Free|Number=Sing	27	appos	27:appos	MAN
+28	šarru	šarru	NOUN	N	Case=Nom|Gender=Masc|NounBase=Free|Number=Sing	27	appos	27:appos	MAN
 29	rabû	rabû	ADJ	AJ	Case=Nom|Gender=Masc|Number=Sing	28	amod	28:amod	GAL
-30	šarru	šarru	NOUN	N	Case=Nom|Gender=Masc|Nounbase=Free|Number=Sing	27	appos	27:appos	MAN
+30	šarru	šarru	NOUN	N	Case=Nom|Gender=Masc|NounBase=Free|Number=Sing	27	appos	27:appos	MAN
 31	dannu	dannu	ADJ	AJ	Case=Nom|Gender=Masc|Number=Sing	30	amod	30:amod	dan-nu
-32	šar	šarru	NOUN	N	Gender=Masc|Nounbase=Bound|Number=Sing	27	appos	27:appos	MAN
-33	kiššati	kiššatu	NOUN	N	Case=Gen|Gender=Fem|Nounbase=Free|Number=Sing	32	nmod:poss	32:nmod:poss	ŠU₂
-34	šar	šarru	NOUN	N	Gender=Masc|Nounbase=Bound|Number=Sing	27	appos	27:appos	MAN
-35	māt	mātu	NOUN	N	Gender=Fem|Nounbase=Bound|Number=Sing	34	nmod:poss	34:nmod:poss	KUR
+32	šar	šarru	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	27	appos	27:appos	MAN
+33	kiššati	kiššatu	NOUN	N	Case=Gen|Gender=Fem|NounBase=Free|Number=Sing	32	nmod:poss	32:nmod:poss	ŠU₂
+34	šar	šarru	NOUN	N	Gender=Masc|NounBase=Bound|Number=Sing	27	appos	27:appos	MAN
+35	māt	mātu	NOUN	N	Gender=Fem|NounBase=Bound|Number=Sing	34	nmod:poss	34:nmod:poss	KUR
 36	Aššur	Aššur	PROPN	GN	Gender=Masc	35	nmod:poss	35:nmod:poss	aš-šur-ma
 37	ma	_	PART	_	_	36	dep	36:dep	_
 

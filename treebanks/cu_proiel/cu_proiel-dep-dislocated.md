@@ -22,7 +22,7 @@ The following 18 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 1 dislocated	color:blue
-1	прѣтръпѣвꙑ	прѣтрьпѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Act	6	dislocated	_	ref=MATT_24.13
+1	прѣтръпѣвꙑ	прѣтрьпѣти	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	6	dislocated	_	ref=MATT_24.13
 2	же	же	ADV	Df	_	6	discourse	_	ref=MATT_24.13
 3	до	до	ADP	R-	_	4	case	_	ref=MATT_24.13
 4	коньца	коньць	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	ref=MATT_24.13
@@ -59,13 +59,13 @@ The following 18 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 6	fgColor:white
 # visual-style 6 8 dislocated	color:blue
 1	ꙇ	и	CCONJ	C-	_	4	cc	_	ref=MATT_27.2
-2	съвѣзавъше	съвѧзати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Strength=Strong|Tense=Past|VerbForm=Part|Voice=Act	4	advcl	_	ref=MATT_27.2
+2	съвѣзавъше	съвѧзати	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	4	advcl	_	ref=MATT_27.2
 3	и	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	ref=MATT_27.2
 4	вѣсѧ	вести	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=MATT_27.2|LId=1
 5	ꙇ	и	CCONJ	C-	_	4	cc	_	ref=MATT_27.2
 6	прѣдашѧ	прѣдати	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	ref=MATT_27.2
 7	и	и	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	ref=MATT_27.2
-8	понтьскоумоу	понтьскъ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc,Neut|Number=Sing|Strength=Weak	6	dislocated	_	ref=MATT_27.2
+8	понтьскоумоу	понтьскъ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc,Neut|Number=Sing	6	dislocated	_	ref=MATT_27.2
 9	пилатоу	пилатъ	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	6	iobj	_	ref=MATT_27.2
 10	ꙇꙉемоноу	игемонъ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	9	appos	_	ref=MATT_27.2
 

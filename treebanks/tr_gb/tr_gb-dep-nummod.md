@@ -54,7 +54,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 3 2 nummod	color:blue
 1	Birer	birer	NUM	_	NumType=Dist	2	compound:redup	_	_
 2	birer	birer	NUM	_	NumType=Dist	3	nummod	_	_
-3	gelin	gel	VERB	_	Mood=Imp|Number=Plur|Person=2	0	root	_	SpaceAfter=No
+3	gelin	gel	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	!	!	PUNCT	_	_	3	punct	_	_
 
 ~~~

@@ -44,11 +44,11 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 4 2 csubj	color:blue
 1	n'	ne	ADV	_	Polarity=Neg	2	advmod	_	_
 2	importe	importe	VERB	_	_	4	csubj	_	ExtPos=VERB|PhraseType=Idiom
-3	qui	qui	PRON	_	_	2	fixed	_	_
+3	qui	qui	PRON	_	_	2	fixed	_	InIdiom=Yes
 4	pourrait	pouvoir	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	pas	pas	ADV	_	Polarity=Neg	4	advmod	_	_
 6	être	être	AUX	_	VerbForm=Inf	7	cop	_	_
-7	chirurgien	chirurgien	NOUN	_	Gender=Masc|Number=Sing	4	xcomp:obj	_	_
+7	chirurgien	chirurgien	NOUN	_	Gender=Masc|Number=Sing	4	xcomp	_	_
 
 ~~~
 

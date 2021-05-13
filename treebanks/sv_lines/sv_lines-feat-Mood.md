@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Swedish-LinES: Features: `Mood`
 
 This feature is universal.
-It occurs with 4 different values: `Imp`, `Ind`, `Opt`, `Sub`.
+It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 
 10996 tokens (12%) have a non-empty value of `Mood`.
 2077 types (15%) occur at least once with a non-empty value of `Mood`.
@@ -24,8 +24,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 * `Imp` (150; 2% of non-empty `Mood`): <em>låt, se, tänk, lägg, Exportera, klicka, kom, Ändra, Filtrera, Flytta</em>
 * `Ind` (7284; 98% of non-empty `Mood`): <em>sa, var, hade, gick, har, kom, såg, sade, är, tog</em>
-* `Opt` (1; 0% of non-empty `Mood`): <em>LEVE</em>
-* `Sub` (8; 0% of non-empty `Mood`): <em>vore, förbanne, ginge, vare, vete</em>
+* `Sub` (9; 0% of non-empty `Mood`): <em>vore, LEVE, förbanne, ginge, vare, vete</em>
 * `EMPTY` (3953): <em>göra, ta, se, gå, komma, använda, få, bli, ha, säga</em>
 
 <table>

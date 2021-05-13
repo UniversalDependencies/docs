@@ -22,9 +22,9 @@ The following 1 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 16	bgColor:blue
 # visual-style 16	fgColor:white
 # visual-style 16 14 mark	color:blue
-1	Бірқатар	бірқатар	DET	det	PronType=Qnt	5	det	_	_
+1	Бірқатар	бірқатар	DET	det	PronType=Tot	5	det	_	_
 2	археолог	археолог	NOUN	n	Case=Nom	4	compound	_	SpaceAfter=No
-3	-	-	PUNCT	guio	_	4	punct	_	SpaceAfter=No
+3	-	-	PUNCT	guio	_	2	punct	_	SpaceAfter=No
 4	ғалымдардың	ғалым	NOUN	n	Case=Gen|Number=Plur	5	nmod:poss	_	_
 5	пікірлері	пікір	NOUN	n	Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3	11	obl	_	_
 6	бойынша	бойынша	ADP	post	_	5	case	_	SpaceAfter=No
@@ -34,11 +34,11 @@ The following 1 pairs of parts of speech are connected with `mark`: <tt><a href=
 10	үлкен	үлкен	ADJ	adj	_	11	amod	_	_
 11	қорым	қор	NOUN	n	Case=Nom|Number[psor]=Sing|Person[psor]=1	0	root	_	_
 12	болған	бол	AUX	v	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	cop	_	SpaceAfter=No
-13	,	,	PUNCT	cm	_	11	punct	_	_
+13	,	,	PUNCT	cm	_	25	punct	_	_
 14	егер	егер	SCONJ	cnjsub	_	16	mark	_	_
 15	бұл	бұл	PRON	prn	Case=Nom|PronType=Dem	16	nsubj	_	_
 16	расталса	раста	VERB	v	Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv|Voice=Pass	25	advcl	_	SpaceAfter=No
-17	,	,	PUNCT	cm	_	24	punct	_	_
+17	,	,	PUNCT	cm	_	16	punct	_	_
 18	онда	ол	PRON	prn	Case=Loc|PronType=Dem	24	obl	_	_
 19	қаланың	қала	NOUN	n	Case=Gen	22	nmod:poss	_	_
 20	пайда	пайда	X	x	_	21	dep	_	_

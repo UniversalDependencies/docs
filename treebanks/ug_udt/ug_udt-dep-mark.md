@@ -22,7 +22,7 @@ The following 38 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 mark	color:blue
-1	ئاندىن	ئان	NOUN	C	Case=Abl	6	advmod	_	SpaceAfter=No|Translit=andin
+1	ئاندىن	ئان	NOUN	C	Case=Abl	6	obl	_	SpaceAfter=No|Translit=andin
 2	:	:	PUNCT	Y	_	1	punct	_	Translit=:
 3	چۈشۈمكەن	_	VERB	V	_	6	ccomp	_	Translit=chüshümken|Morf=Unknown
 4	-	-	PUNCT	Y	_	3	punct	_	Translit=-
@@ -42,7 +42,7 @@ The following 38 pairs of parts of speech are connected with `mark`: <tt><a href
 1	شۇنداقلا	شۇنداقلا	ADV	C	_	5	mark	_	SpaceAfter=No|Translit=shundaqla
 2	،	،	PUNCT	Y	_	1	punct	_	Translit=,
 3	چەكسىىز	_	NOUN	N	_	4	nmod	_	Translit=cheksiiz|Morf=Unknown
-4	شادلىققا	شادلىق	NOUN	N	Case=Dat	5	advmod	_	Translit=shadliqqa
+4	شادلىققا	شادلىق	NOUN	N	Case=Dat	5	obl	_	Translit=shadliqqa
 5	تولدۇردۇ	_	VERB	V	_	0	root	_	SpaceAfter=No|Translit=toldurdu|Morf=Unknown
 6	.	.	PUNCT	Y	_	5	punct	_	Translit=.
 
@@ -61,7 +61,7 @@ The following 38 pairs of parts of speech are connected with `mark`: <tt><a href
 4	قانداق	قانداق	ADV	P	PronType=Int	6	amod	_	Translit=qandaq
 5	زۆرۈر	_	ADJ	A	_	6	amod	_	Translit=zörür|Morf=Unknown
 6	ئامىللار	ئامىل	NOUN	N	Case=Nom|Number=Plur	7	nsubj	_	Translit=amillar
-7	بولىدۇ	بول	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=bolidu
+7	بولىدۇ	بول	VERB	V	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Translit=bolidu
 8	؟	؟	PUNCT	Y	_	7	punct	_	Translit=?
 
 ~~~

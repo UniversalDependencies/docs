@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of nsubj in UD_Old_Russian-TOROT'
+title:  'Statistics of nsubj in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Relations: `nsubj`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Relations: `nsubj`
 
 This relation is universal.
 There are 1 language-specific subtypes of `nsubj`: <tt><a href="orv_torot-dep-nsubj-pass.html">nsubj:pass</a></tt>.
@@ -26,7 +26,7 @@ The following 59 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 1	и	и	CCONJ	C-	_	3	cc	_	ref=6
 2	люди	людие	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	ref=6
 3	ходѧть	ходити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=6
-4	нагы	нагыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	3	advmod	_	ref=6
+4	нагы	нагыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	3	advmod	_	ref=6
 5	всѣ	вьсь	DET	Px	Case=Nom|Gender=Masc|Number=Plur	2	det	_	ref=6
 
 ~~~
@@ -62,7 +62,7 @@ The following 59 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 1	а	а	CCONJ	C-	_	3	cc	_	ref=6
 2	всѣ	вьсь	ADJ	Px	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	ref=6
 3	ходѧт	ходити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=6
-4	брюхаты	брюхатыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Strength=Strong	3	advmod	_	ref=6
+4	брюхаты	брюхатыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Variant=Short	3	advmod	_	ref=6
 
 ~~~
 

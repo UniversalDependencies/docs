@@ -22,7 +22,7 @@ The following 25 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 cop	color:blue
-1	ئۆيىمىز	ئۆي	VERB	N	Mood=Ind|Number=Plur|Person=1|Tense=Aor|VerbForm=Fin	5	nsubj	_	Translit=öyimiz
+1	ئۆيىمىز	ئۆي	VERB	N	Aspect=Hab|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	nsubj	_	Translit=öyimiz
 2	بولسا	بول	AUX	V	Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv	1	cop	_	Translit=bolsa
 3	ئارا	ئارا	NOUN	N	Case=Nom	4	amod	_	Translit=ara
 4	تام	تام	NOUN	N	Case=Nom	5	nmod	_	Translit=tam
@@ -39,7 +39,7 @@ The following 25 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 cop	color:blue
-1	ئۆيىمىز	ئۆي	VERB	N	Mood=Ind|Number=Plur|Person=1|Tense=Aor|VerbForm=Fin	5	nsubj	_	Translit=öyimiz
+1	ئۆيىمىز	ئۆي	VERB	N	Aspect=Hab|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	nsubj	_	Translit=öyimiz
 2	بولسا	بول	AUX	V	Mood=Cnd|Number=Sing|Person=3|VerbForm=Conv	1	cop	_	Translit=bolsa
 3	ئارا	ئارا	NOUN	N	Case=Nom	4	amod	_	Translit=ara
 4	تام	تام	NOUN	N	Case=Nom	5	nmod	_	Translit=tam
@@ -56,7 +56,7 @@ The following 25 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 cop	color:blue
-1	ئەمەلىيەتتە	ئەمەلىيەت	NOUN	N	Case=Loc	7	advmod	_	Translit=emeliyette
+1	ئەمەلىيەتتە	ئەمەلىيەت	NOUN	N	Case=Loc	7	obl	_	Translit=emeliyette
 2	مېنىڭ	مەن	PRON	P	Case=Gen|Number=Sing|Person=1|PronType=Prs	6	nmod:poss	_	Translit=mëning
 3	بۇ	بۇ	PRON	P	Case=Nom|PronType=Dem	5	det	_	Translit=bu
 4	قاباھەتلىك	قاباھەتلىك	NOUN	N	Case=Nom	5	amod	_	Translit=qabahetlik

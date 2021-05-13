@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Giuseppe G. A. Celano, Daniel Zeman.
 
 Repository: [UD_Ancient_Greek-Perseus](https://github.com/UniversalDependencies/UD_Ancient_Greek-Perseus)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgrc_perseus27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgrc_perseus28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-NC-SA 2.5
 
@@ -656,7 +656,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc-ADP(μετά) (1)</li>
       <li>VERB-Fin--NOUN-Dat (3)</li>
       <li>VERB-Fin--NOUN-Gen (5)</li>
-      <li>VERB-Fin--NOUN-Nom (6795)</li>
+      <li>VERB-Fin--NOUN-Nom (6796)</li>
       <li>VERB-Fin--PRON-Acc (15)</li>
       <li>VERB-Fin--PRON-Dat (3)</li>
       <li>VERB-Fin--PRON-Nom (2861)</li>
@@ -683,7 +683,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN-Acc (2)</li>
-      <li>VERB-Fin--NOUN-Acc (5467)</li>
+      <li>VERB-Fin--NOUN-Acc (5475)</li>
       <li>VERB-Fin--NOUN-Dat (612)</li>
       <li>VERB-Fin--NOUN-Gen (730)</li>
       <li>VERB-Fin--NOUN-Nom (51)</li>
@@ -693,7 +693,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Dat (516)</li>
       <li>VERB-Fin--PRON-Gen (226)</li>
       <li>VERB-Fin--PRON-Nom (13)</li>
-      <li>VERB-Inf--NOUN-Acc (1047)</li>
+      <li>VERB-Inf--NOUN-Acc (1048)</li>
       <li>VERB-Inf--NOUN-Dat (168)</li>
       <li>VERB-Inf--NOUN-Gen (137)</li>
       <li>VERB-Inf--NOUN-Nom (9)</li>

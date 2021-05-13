@@ -54,7 +54,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 8	great	great	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
 9	shock	shock	NOUN	NN	Number=Sing	5	obl	5:obl:as	_
 10	to	to	ADP	IN	_	13	case	13:case	_
-11	Danish	danish	ADJ	JJ	Degree=Pos	13	amod	13:amod	Proper=True
+11	Danish	Danish	ADJ	JJ	Degree=Pos	13	amod	13:amod	Proper=True
 12	public	public	ADJ	JJ	Degree=Pos	13	amod	13:amod	_
 13	opinion	opinion	NOUN	NN	Number=Sing	5	obl	5:obl:to|16:nsubj	_
 14	which	which	PRON	WDT	PronType=Rel	16	nsubj	13:ref	_

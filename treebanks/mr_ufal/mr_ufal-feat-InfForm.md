@@ -27,7 +27,7 @@ The most frequent other feature values with which `VERB` and `InfForm` co-occurr
 
 <table>
   <tr><th>Paradigm <i>येणे</i></th><th><tt>Dict</tt></th><th><tt>Incp</tt></th></tr>
-  <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Obl</tt></tt></td><td><em>_</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="mr_ufal-feat-Case.html">Case</a></tt><tt>=Abs</tt></tt></td><td><em>_</em></td><td></td></tr>
   <tr><td><tt></tt></td><td></td><td><em>येऊ</em></td></tr>
 </table>
 

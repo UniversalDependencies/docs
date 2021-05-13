@@ -47,20 +47,20 @@ The following 9 pairs of parts of speech are connected with `dislocated`: <tt><a
 3	hastalarına	hasta	NOUN	Noun	Case=Dat|Number=Plur|Number[psor]=Plur|Person=3|Person[psor]=3	4	obl	_	_
 4	söyledikleri	söyle	VERB	Verb	Aspect=Perf|Number[psor]=Plur|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	7	acl	_	_
 5	ünlü	ünlü	ADJ	Adj	Case=Nom|Number=Sing|Person=3	7	amod	_	_
-6	bir	bir	DET	ANum	NumType=Card	7	det	_	_
+6	bir	bir	DET	ANum	_	7	det	_	_
 7	söz	söz	NOUN	Noun	Case=Nom|Number=Sing|Person=3	8	nsubj	_	_
 8	var	var	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	0	root	_	_
 9	dır	i	AUX	Zero	Aspect=Perf|Mood=Gen|Number=Sing|Person=3|Tense=Pres	8	cop	_	_
 10	:	:	PUNCT	Punc	_	8	punct	_	_
 11	"	"	PUNCT	Punc	_	19	punct	_	SpaceAfter=No
 12	Kulağınıza	kulak	NOUN	Noun	Case=Dat|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=2	19	obl	_	_
-13	dirseğinizden	dirsek	ADV	Noun	Case=Abl|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=2	15	advmod	_	_
+13	dirseğinizden	dirsek	ADV	Noun	_	15	advmod	_	_
 14	daha	daha	ADV	Adverb	_	15	advmod	_	_
 15	küçük	küçük	ADJ	Adj	_	17	amod	_	_
-16	bir	bir	DET	ANum	NumType=Card	17	det	_	_
+16	bir	bir	DET	ANum	_	17	det	_	_
 17	şeyi	şey	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	19	obj	_	_
 18	asla	asla	ADV	Adverb	_	19	advmod	_	_
-19	sokmayınız	sok	NOUN	Noun	Mood=Imp|Number=Plur|Person=2|Polarity=Neg	7	dislocated	_	SpaceAfter=No
+19	sokmayınız	sok	NOUN	Noun	_	7	dislocated	_	SpaceAfter=No
 20	!	!	PUNCT	Punc	_	19	punct	_	SpaceAfter=No
 21	"	"	PUNCT	Punc	_	19	punct	_	SpacesAfter=\n
 
@@ -78,12 +78,12 @@ The following 9 pairs of parts of speech are connected with `dislocated`: <tt><a
 3	önce	önce	ADP	PCAbl	_	2	case	_	_
 4	oyuncularıma	oyun	NOUN	Noun	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	6	obl	_	_
 5	şunu	şu	PRON	Demons	Case=Acc|Number=Sing|Person=3	6	obj	_	_
-6	söylerdim	söyle	VERB	Verb	Aspect=Hab|Evident=Fh|Number=Sing|Person=1|Polarity=Pos|Tense=Aor	0	root	_	SpaceAfter=No
+6	söylerdim	söyle	VERB	Verb	Aspect=Hab|Evident=Fh|Number=Sing|Person=1|Polarity=Pos|Tense=Pres	0	root	_	SpaceAfter=No
 7	:	:	PUNCT	Punc	_	6	punct	_	_
 8	"	"	PUNCT	Punc	_	12	punct	_	SpaceAfter=No
-9	Günden	gün	ADV	Noun	Case=Abl|Number=Sing|Person=3	11	advmod	_	_
+9	Günden	gün	ADV	Noun	_	11	advmod	_	_
 10	güne	gün	NOUN	Noun	Case=Dat|Number=Sing|Person=3	9	compound:redup	_	_
-11	uydurduklarımız	uy	NOUN	Noun	Aspect=Perf|Case=Nom|Number=Plur|Number[psor]=Plur|Person=3|Person[psor]=1|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Cau	12	obl	_	_
+11	uydurduklarımız	uy	NOUN	Noun	_	12	obl	_	_
 12	tükendi	tüken	VERB	Verb	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	5	dislocated	_	SpaceAfter=No
 13	.	.	PUNCT	Punc	_	12	punct	_	SpacesAfter=\n
 

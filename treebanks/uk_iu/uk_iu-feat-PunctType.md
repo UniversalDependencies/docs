@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Ukrainian-IU: Features: `PunctType`
 
 This feature is language-specific.
-It occurs with 5 different values: `Bull`, `Dash`, `Hyph`, `Ndash`, `Quot`.
+It occurs with 2 different values: `Dash`, `Quot`.
 
 4179 tokens (3%) have a non-empty value of `PunctType`.
 13 types (0%) occur at least once with a non-empty value of `PunctType`.
@@ -20,14 +20,8 @@ The feature is used with 1 part-of-speech tags: <tt><a href="uk_iu-pos-PUNCT.htm
 
 `PUNCT` tokens may have the following values of `PunctType`:
 
-* `Bull` (8; 0% of non-empty `PunctType`): <em>—, ✓, -</em>
-* `Dash` (1437; 34% of non-empty `PunctType`): <em>—, -, –, --</em>
-* `Hyph` (522; 12% of non-empty `PunctType`): <em>-, –, −</em>
-* `Ndash` (76; 2% of non-empty `PunctType`): <em>-, –, —</em>
+* `Dash` (2043; 49% of non-empty `PunctType`): <em>—, -, –, --, −, ✓</em>
 * `Quot` (2136; 51% of non-empty `PunctType`): <em>«, », ", ”, “, „, '</em>
 
-<table>
-  <tr><th>Paradigm <i>-</i></th><th><tt>Bull</tt></th><th><tt>Dash</tt></th><th><tt>Hyph</tt></th><th><tt>Ndash</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>-</em></td><td><em>-</em></td><td><em>-</em></td><td><em>-</em></td></tr>
-</table>
+`PunctType` seems to be **lexical feature** of `PUNCT`. 100% lemmas (13) occur only with one value of `PunctType`.
 

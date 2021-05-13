@@ -69,7 +69,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 476 <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> tokens (97% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="kk_ktb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (239; 50%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="kk_ktb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (267; 56%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -93,7 +93,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 270 <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> tokens (17% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (270; 100%), <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (270; 100%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (266; 99%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (266; 99%), <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (265; 98%), <tt><a href="kk_ktb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (225; 83%), <tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (195; 72%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="kk_ktb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (270; 100%), <tt><a href="kk_ktb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (269; 100%), <tt><a href="kk_ktb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (266; 99%), <tt><a href="kk_ktb-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt> (266; 99%), <tt><a href="kk_ktb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (265; 98%), <tt><a href="kk_ktb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (225; 83%), <tt><a href="kk_ktb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (195; 72%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -226,7 +226,7 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="kk_ktb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (53; 69%),
 <tt>NOUN --[<tt><a href="kk_ktb-dep-compound.html">compound</a></tt>]--> NOUN</tt> (40; 61%),
 <tt>PROPN --[<tt><a href="kk_ktb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (39; 89%),
-<tt>PROPN --[<tt><a href="kk_ktb-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (33; 77%),
+<tt>PROPN --[<tt><a href="kk_ktb-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (32; 76%),
 <tt>NOUN --[<tt><a href="kk_ktb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (25; 89%),
 <tt>NOUN --[<tt><a href="kk_ktb-dep-appos.html">appos</a></tt>]--> NOUN</tt> (20; 69%),
 <tt>NOUN --[<tt><a href="kk_ktb-dep-appos.html">appos</a></tt>]--> PROPN</tt> (17; 71%),

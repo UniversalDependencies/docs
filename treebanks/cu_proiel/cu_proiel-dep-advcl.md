@@ -47,9 +47,9 @@ The following 37 pairs of parts of speech are connected with `advcl`: <tt><a hre
 5	да	да	SCONJ	G-	_	6	mark	_	ref=MATT_21.4
 6	събѫдетъ	събꙑти	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	ref=MATT_21.4
 7	сѧ	себе	PRON	Pk	Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	6	expl	_	ref=MATT_21.4
-8	реченое	рещи	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Strength=Weak|Tense=Past|VerbForm=Part|Voice=Pass	6	nsubj	_	ref=MATT_21.4
+8	реченое	рещи	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	nsubj	_	ref=MATT_21.4
 9	п҃ркмъ	пророкъ	NOUN	Nb	Case=Ins|Gender=Masc|Number=Sing	8	obl:agent	_	ref=MATT_21.4
-10	г҃лѭщемъ	глаголати	VERB	V-	Case=Ins|Gender=Masc,Neut|Number=Sing|Strength=Strong|Tense=Pres|VerbForm=Part|Voice=Act	9	acl	_	ref=MATT_21.4
+10	г҃лѭщемъ	глаголати	VERB	V-	Case=Ins|Gender=Masc,Neut|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	9	acl	_	ref=MATT_21.4
 
 ~~~
 
@@ -63,7 +63,7 @@ The following 37 pairs of parts of speech are connected with `advcl`: <tt><a hre
 1	аще	аще	SCONJ	G-	_	2	mark	_	ref=LUKE_4.3
 2	с҃нъ	сꙑнъ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	advcl	_	ref=LUKE_4.3|LId=1
 3	еси	бꙑти	AUX	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	ref=LUKE_4.3
-4	б҃жии	божии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Strength=Strong	2	advmod	_	ref=LUKE_4.3
+4	б҃жии	божии	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	2	advmod	_	ref=LUKE_4.3
 5	рьци	рещи	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_4.3
 6	камению	камениѥ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	5	iobj	_	ref=LUKE_4.3
 7	семоу	сь	DET	Pd	Case=Dat|Gender=Masc,Neut|Number=Sing	6	det	_	ref=LUKE_4.3

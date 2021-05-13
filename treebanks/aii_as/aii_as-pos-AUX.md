@@ -43,7 +43,7 @@ Examples: <em>ܒܸܕ, ܒܸܬ, ܟܹܐ, ܒ, ܒܹܬ, ܟܲܕ, ܩܲܡ</em>
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 3 different relations: <tt><a href="aii_as-dep-cop.html">cop</a></tt> (32; 63% instances), <tt><a href="aii_as-dep-aux.html">aux</a></tt> (18; 35% instances), <tt><a href="aii_as-dep-aux-poss.html">aux:poss</a></tt> (1; 2% instances)
+`AUX` nodes are attached to their parents using 3 different relations: <tt><a href="aii_as-dep-cop.html">cop</a></tt> (32; 63% instances), <tt><a href="aii_as-dep-aux.html">aux</a></tt> (18; 35% instances), <tt><a href="aii_as-dep-aux-pass.html">aux:pass</a></tt> (1; 2% instances)
 
 Parents of `AUX` nodes belong to 5 different parts of speech: <tt><a href="aii_as-pos-ADJ.html">ADJ</a></tt> (19; 37% instances), <tt><a href="aii_as-pos-VERB.html">VERB</a></tt> (18; 35% instances), <tt><a href="aii_as-pos-NOUN.html">NOUN</a></tt> (12; 24% instances), <tt><a href="aii_as-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="aii_as-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
 

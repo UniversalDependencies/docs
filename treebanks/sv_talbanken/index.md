@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Joakim Nivre, Aaron Smith.
 
 Repository: [UD_Swedish-Talbanken](https://github.com/UniversalDependencies/UD_Swedish-Talbanken)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_talbanken27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_talbanken28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -108,7 +108,7 @@ Department of Linguistics.
 
 
 <ul>
-<li>This corpus contains 6026 sentences and 96819 tokens.</li>
+<li>This corpus contains 6026 sentences and 96820 tokens.</li>
 </ul>
 
 <ul>

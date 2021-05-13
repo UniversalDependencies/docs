@@ -56,18 +56,21 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 3 cop	color:blue
-1	Jeho	jeho	DET	PUip1	Animacy=Inan|Case=Nom|Gender=Masc|Gender[psor]=Masc,Neut|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	2:det	_
-2	preklady	preklad	NOUN	SSip1	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	4:nsubj	_
-3	sú	byť	AUX	VKepc+	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
-4	jedny	jeden	NUM	NFip1	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	0	root	0:root	_
-5	z	z	ADP	Eu2	AdpType=Prep|Case=Gen	6	case	6:case	_
-6	najlepších	dobrý	ADJ	AAip2z	Animacy=Inan|Case=Gen|Degree=Sup|Gender=Masc|Number=Plur	4	amod	4:amod	SpaceAfter=No
-7	.	.	PUNCT	Z	_	4	punct	4:punct	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 cop	color:blue
+1	Spôsob	spôsob	NOUN	SSis1	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	5:nsubj	_
+2	jej	jej	DET	PUfs2	Case=Gen|Gender=Fem|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	3:det	_
+3	domestikácie	domestikácia	NOUN	SSfs2	Case=Gen|Gender=Fem|Number=Sing	1	nmod	1:nmod:gen	_
+4	je	byť	AUX	VKesc+	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
+5	jednou	jeden	NUM	NFfs7	Case=Ins|Gender=Fem|Number=Sing	0	root	0:root	_
+6	z	z	ADP	Eu2	AdpType=Prep|Case=Gen	8	case	8:case	_
+7	najväčších	veľký	ADJ	AAfp2z	Case=Gen|Degree=Sup|Gender=Fem|Number=Plur	8	amod	8:amod	_
+8	záhad	záhada	NOUN	SSfp2	Case=Gen|Gender=Fem|Number=Plur	5	nmod	5:nmod:z:gen	_
+9	genetiky	genetika	NOUN	SSfs2	Case=Gen|Gender=Fem|Number=Sing	8	nmod	8:nmod:gen	SpaceAfter=No
+10	.	.	PUNCT	Z	_	5	punct	5:punct	_
 
 ~~~
 

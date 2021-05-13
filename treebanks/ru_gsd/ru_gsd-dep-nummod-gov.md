@@ -39,7 +39,7 @@ The following 9 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 nummod:gov	color:blue
-1	Преобладающая	преобладать	VERB	VBNL	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	acl	_	_
+1	Преобладающая	преобладать	VERB	VBNL	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	acl	_	_
 2	национальность	национальность	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
 3	--	--	PUNCT	--	_	4	punct	_	_
 4	русские	русский	NOUN	NN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	0	root	_	_

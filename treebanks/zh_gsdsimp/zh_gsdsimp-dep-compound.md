@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Chinese-GSDSimp: Relations: `compound`
 
 This relation is universal.
+There are 1 language-specific subtypes of `compound`: <tt><a href="zh_gsdsimp-dep-compound-ext.html">compound:ext</a></tt>.
 
 5563 nodes (5%) are attached to their parents as `compound`.
 
@@ -54,7 +55,7 @@ The following 18 pairs of parts of speech are connected with `compound`: <tt><a 
 9	会	会	AUX	MD	_	10	aux	_	SpaceAfter=No
 10	设置	设置	VERB	VV	_	0	root	_	SpaceAfter=No
 11	昂贵	昂贵	ADJ	JJ	_	14	amod	_	SpaceAfter=No
-12	的	的	PART	DEC	_	11	mark:relcl	_	SpaceAfter=No
+12	的	的	PART	DEC	_	11	mark:rel	_	SpaceAfter=No
 13	音频	音频	NOUN	NN	_	14	nmod	_	SpaceAfter=No
 14	设备	设备	NOUN	NN	_	10	obj	_	SpaceAfter=No
 15	、	、	PUNCT	EC	_	17	punct	_	SpaceAfter=No
@@ -81,14 +82,14 @@ The following 18 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 5 4 compound	color:blue
 1	大	大	ADV	RB	_	2	advmod	_	SpaceAfter=No
 2	多数	多数	ADJ	JJ	_	6	amod	_	SpaceAfter=No
-3	的	的	PART	DEC	Case=Gen	2	case:dec	_	SpaceAfter=No
+3	的	的	PART	DEC	Case=Gen	2	case	_	SpaceAfter=No
 4	加长	加长	VERB	VV	_	5	compound	_	SpaceAfter=No
 5	型	型	PART	SFN	_	6	nmod	_	SpaceAfter=No
 6	礼车	礼车	NOUN	NN	_	11	nsubj	_	SpaceAfter=No
 7	则是	则是	AUX	VC	_	11	cop	_	SpaceAfter=No
 8	租车	租车	NOUN	NN	_	9	nmod	_	SpaceAfter=No
 9	公司	公司	NOUN	NN	_	11	nmod	_	SpaceAfter=No
-10	的	的	PART	DEC	Case=Gen	9	case:dec	_	SpaceAfter=No
+10	的	的	PART	DEC	Case=Gen	9	case	_	SpaceAfter=No
 11	财产	财产	NOUN	NN	_	0	root	_	SpaceAfter=No
 12	。	。	PUNCT	.	_	11	punct	_	SpaceAfter=No
 

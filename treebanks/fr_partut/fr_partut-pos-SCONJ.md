@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="fr_partut-pos-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.555556 (the average of all parts of speech is 1.366035).
+The form / lemma ratio of `SCONJ` is 1.555556 (the average of all parts of speech is 1.409310).
 
 The 1st highest number of forms (2) was observed with the lemma “comme”: <em>comme, comment</em>.
 
@@ -68,7 +68,7 @@ The 3rd highest number of forms (2) was observed with the lemma “puisque”: <
 
 `SCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="fr_partut-dep-mark.html">mark</a></tt> (369; 83% instances), <tt><a href="fr_partut-dep-fixed.html">fixed</a></tt> (68; 15% instances), <tt><a href="fr_partut-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="fr_partut-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="fr_partut-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="fr_partut-dep-cc.html">cc</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (299; 67% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (44; 10% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (43; 10% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (33; 7% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (17; 4% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (303; 68% instances), <tt><a href="fr_partut-pos-ADV.html">ADV</a></tt> (44; 10% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (41; 9% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (33; 7% instances), <tt><a href="fr_partut-pos-ADP.html">ADP</a></tt> (17; 4% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
 440 (99%) `SCONJ` nodes are leaves.
 

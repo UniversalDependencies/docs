@@ -23,15 +23,15 @@ The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 5	fgColor:white
 # visual-style 5 6 xcomp	color:blue
 1	בני	בן	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	5	nsubj	_	_
-2	ה	ה	DET	DET	PronType=Art	3	det:def	_	_
+2	ה	ה	DET	DET	Definite=Def|PronType=Art	3	det	_	_
 3	זוג	זוג	NOUN	NOUN	Gender=Masc|Number=Sing	1	compound:smixut	_	_
 4	גרוסבורד	גרוסבורד	PROPN	PROPN	_	1	flat:name	_	_
 5	תוכננו	תוכנן	VERB	VERB	Gender=Fem,Masc|HebBinyan=PUAL|Number=Plur|Person=3|Tense=Past|Voice=Pass	0	root	_	_
 6	לשוב	שב	VERB	VERB	HebBinyan=PAAL|VerbForm=Inf|Voice=Act	5	xcomp	_	_
 7	היום	היום	ADV	ADV	_	6	advmod	_	_
 8	אחרי	אחרי	ADP	ADP	_	11	case	_	SpaceAfter=No
-9	-	-	PUNCT	PUNCT	_	11	punct	_	SpaceAfter=No
-10	ה	ה	DET	DET	PronType=Art	11	det:def	_	_
+9	-	-	PUNCT	PUNCT	_	8	punct	_	SpaceAfter=No
+10	ה	ה	DET	DET	Definite=Def|PronType=Art	11	det	_	_
 11	צהריים	צהריים	NOUN	NOUN	Gender=Masc|Number=Plur	7	fixed	_	_
 12	ל	ל	ADP	ADP	_	13	case	_	_
 13	ישראל	ישראל	PROPN	PROPN	_	6	obl	_	_
@@ -62,12 +62,12 @@ The following 12 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 8	fgColor:white
 # visual-style 8 9 xcomp	color:blue
 1	זוהי	זהו	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	_
-2	ה	ה	DET	DET	PronType=Art	3	det:def	_	_
+2	ה	ה	DET	DET	Definite=Def|PronType=Art	3	det	_	_
 3	סכנה	סכנה	NOUN	NOUN	Gender=Fem|Number=Sing	0	root	_	_
-4	,	,	PUNCT	PUNCT	_	3	punct	_	_
+4	,	,	PUNCT	PUNCT	_	8	punct	_	_
 5	ו	ו	CCONJ	CCONJ	_	8	cc	_	_
 6	על	על	ADP	ADP	_	8	case	_	_
-7	ה	ה	DET	DET	PronType=Art	8	det:def	_	_
+7	ה	ה	DET	DET	Definite=Def|PronType=Art	8	det	_	_
 8	ממשלה	ממשלה	NOUN	NOUN	Gender=Fem|Number=Sing	3	conj	_	_
 9	לעשות	עשה	VERB	VERB	HebBinyan=PAAL|VerbForm=Inf|Voice=Act	8	xcomp	_	_
 10	מאמץ	מאמץ	NOUN	NOUN	Gender=Masc|Number=Sing	9	obj	_	_

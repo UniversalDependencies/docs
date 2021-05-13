@@ -66,9 +66,9 @@ The 2nd highest number of forms (1) was observed with the lemma “있는가”:
 
 The 3rd highest number of forms (1) was observed with the lemma “총”: 총으로.
 
-`DET` occurs with 4 features: <tt><a href="ko_pud-feat-PronType.html">PronType</a></tt> (7; 2% instances), <tt><a href="ko_pud-feat-VerbForm.html">VerbForm</a></tt> (7; 2% instances), <tt><a href="ko_pud-feat-Case.html">Case</a></tt> (2; 0% instances), <tt><a href="ko_pud-feat-Polite.html">Polite</a></tt> (2; 0% instances)
+`DET` occurs with 4 features: <tt><a href="ko_pud-feat-PronType.html">PronType</a></tt> (7; 2% instances), <tt><a href="ko_pud-feat-VerbForm.html">VerbForm</a></tt> (7; 2% instances), <tt><a href="ko_pud-feat-Polite.html">Polite</a></tt> (2; 0% instances), <tt><a href="ko_pud-feat-Case.html">Case</a></tt> (1; 0% instances)
 
-`DET` occurs with 5 feature-value pairs: `Case=Acc`, `Case=Advb`, `Polite=Form`, `PronType=Int`, `VerbForm=Fin`
+`DET` occurs with 4 feature-value pairs: `Case=Acc`, `Polite=Form`, `PronType=Int`, `VerbForm=Fin`
 
 `DET` occurs with 4 feature combinations.
 The most frequent feature combination is `_` (457 tokens).

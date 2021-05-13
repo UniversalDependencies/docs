@@ -9,10 +9,23 @@ udver: '2'
 This feature is universal but the values `Cons` are language-specific.
 It occurs with 2 different values: `Cons`, `Def`.
 
-13463 tokens (8%) have a non-empty value of `Definite`.
-3051 types (17%) occur at least once with a non-empty value of `Definite`.
-2067 lemmas (20%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 7 part-of-speech tags: <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (11857; 7% instances), <tt><a href="he_htb-pos-DET.html">DET</a></tt> (893; 1% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt> (429; 0% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (106; 0% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (84; 0% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (83; 0% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (11; 0% instances).
+29994 tokens (19%) have a non-empty value of `Definite`.
+3053 types (17%) occur at least once with a non-empty value of `Definite`.
+2068 lemmas (20%) occur at least once with a non-empty value of `Definite`.
+The feature is used with 7 part-of-speech tags: <tt><a href="he_htb-pos-DET.html">DET</a></tt> (17424; 11% instances), <tt><a href="he_htb-pos-NOUN.html">NOUN</a></tt> (11857; 7% instances), <tt><a href="he_htb-pos-NUM.html">NUM</a></tt> (429; 0% instances), <tt><a href="he_htb-pos-ADJ.html">ADJ</a></tt> (106; 0% instances), <tt><a href="he_htb-pos-VERB.html">VERB</a></tt> (84; 0% instances), <tt><a href="he_htb-pos-PRON.html">PRON</a></tt> (83; 0% instances), <tt><a href="he_htb-pos-ADP.html">ADP</a></tt> (11; 0% instances).
+
+### `DET`
+
+17424 <tt><a href="he_htb-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Definite`.
+
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="he_htb-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (16531; 95%).
+
+`DET` tokens may have the following values of `Definite`:
+
+* `Cons` (893; 5% of non-empty `Definite`): כל, כמה, הרבה, רוב, שום, מספר, אף, מרבית, מחצית, מעט
+* `Def` (16531; 95% of non-empty `Definite`): ה, ה_
+
+`Definite` seems to be **lexical feature** of `DET`. 95% lemmas (19) occur only with one value of `Definite`.
 
 ### `NOUN`
 
@@ -24,27 +37,13 @@ The most frequent other feature values with which `NOUN` and `Definite` co-occur
 
 * `Cons` (9343; 79% of non-empty `Definite`): בית, משרד, יום, תל, שר, פי, ידי, ראש, חברת, בתי
 * `Def` (2514; 21% of non-empty `Definite`): יד_, דבר_, שם_, בית_, חבר_, תפקיד_, פנים_, דרך_, חיים_, חלק_
-* `EMPTY` (26392): משטרה, %, משפט, ממשלה, ארץ, חברה, שנים, פועל, שנה, ש"ח
+* `EMPTY` (26389): משטרה, %, משפט, ממשלה, ארץ, חברה, שנים, פועל, שנה, ש"ח
 
 <table>
   <tr><th>Paradigm <i>בית</i></th><th><tt>Def</tt></th><th><tt>Cons</tt></th></tr>
-  <tr><td><tt><tt><a href="he_htb-feat-HebSource.html">HebSource</a></tt><tt>=ConvUncertainHead</tt>|<tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>בית</td></tr>
   <tr><td><tt><tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>בית_</td><td>בית</td></tr>
   <tr><td><tt><tt><a href="he_htb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>בית_</td><td>בתי</td></tr>
 </table>
-
-### `DET`
-
-893 <tt><a href="he_htb-pos-DET.html">DET</a></tt> tokens (5% of all `DET` tokens) have a non-empty value of `Definite`.
-
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="he_htb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (893; 100%).
-
-`DET` tokens may have the following values of `Definite`:
-
-* `Cons` (893; 100% of non-empty `Definite`): כל, כמה, הרבה, רוב, שום, מספר, אף, מרבית, מחצית, מעט
-* `EMPTY` (16531): ה, ה_
-
-`Definite` seems to be **lexical feature** of `DET`. 100% lemmas (19) occur only with one value of `Definite`.
 
 ### `NUM`
 
@@ -106,4 +105,11 @@ The most frequent other feature values with which `ADP` and `Definite` co-occurr
 
 * `Def` (11; 100% of non-empty `Definite`): אותו_, אותו
 * `EMPTY` (26762): ב, ל, _של_, של, את, מ, על, כ, עם, ל_
+
+## Relations with Agreement in `Definite`
+
+The 10 most frequent relations where parent and child node agree in `Definite`:
+<tt>NOUN --[<tt><a href="he_htb-dep-nmod-poss.html">nmod:poss</a></tt>]--> DET</tt> (2; 67%),
+<tt>DET --[<tt><a href="he_htb-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%),
+<tt>NOUN --[<tt><a href="he_htb-dep-obj.html">obj</a></tt>]--> DET</tt> (1; 100%).
 

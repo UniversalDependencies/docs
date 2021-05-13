@@ -55,7 +55,7 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 2	pea	upea	PRON	dem	PronType=Dem	5	obl	_	DEM
 3	peve	peve	ADP	post	_	2	case	_	until
 4	rãe'i	rãe	ADV	mod	_	2	advmod	_	first-=DIM
-5	cheayvu	ayvu	VERB	inact	Mood=Ind|Person[subj]=1|Subcat=Int|VerbForm=Fin	0	root	_	B1.SG-speak
+5	cheayvu	ayvu	VERB	inact	Mood=Ind|Person[subj]=1|Subcat=Intr|VerbForm=Fin	0	root	_	B1.SG-speak
 6	.	.	PUNCT	punct	_	5	punct	_	_
 
 ~~~
@@ -80,7 +80,7 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 11	,	,	PUNCT	punct	_	12	punct	_	_
 12	ñandevy	ñandevy	PRON	pro	Clusivity=In|Number=Plur|Person=1|PronType=Prs	14	obl	_	1.PL.INCL-DAT
 13	pe	pe	ADP	post	_	12	case	_	DAT
-14	oña'ã	ña'ã	VERB	vd:a	Mood=Ind|Person[subj]=3|Subcat=IntInd|VerbForm=Fin	4	parataxis	_	A3-make.efforts
+14	oña'ã	ña'ã	VERB	vd:a	Mood=Ind|Person[subj]=3|Subcat=Indir|VerbForm=Fin	4	parataxis	_	A3-make.efforts
 15	oikovy	iko	VERB	vs	Mood=Ind|Person=3|VerbForm=Ser	14	compound:svc	_	A3-be-V2
 16	,	,	PUNCT	punct	_	17	punct	_	_
 17	chejaryi	jaryi	NOUN	n	Number[psor]=Sing	14	nsubj	_	B1.SG-grandmother

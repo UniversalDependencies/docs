@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-13840 tokens (57%) have a non-empty value of `Number`.
-2979 types (71%) occur at least once with a non-empty value of `Number`.
+13840 tokens (58%) have a non-empty value of `Number`.
+2982 types (71%) occur at least once with a non-empty value of `Number`.
 2418 lemmas (66%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (3815; 16% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (3735; 15% instances), <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1603; 7% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (1584; 7% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (1444; 6% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (986; 4% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (670; 3% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (3; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (3815; 16% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (3735; 16% instances), <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1603; 7% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (1584; 7% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (1444; 6% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (986; 4% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (670; 3% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (3; 0% instances).
 
 ### `DET`
 
@@ -133,16 +133,16 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (65; 10% of non-empty `Number`): <em>-ils, vous, -elles, -vous, les, ceux, elles, eux, lesquelles, nous</em>
-* `Sing` (605; 90% of non-empty `Number`): <em>-il, -elle, -on, -je, je, j', il, laquelle, lequel, me</em>
+* `Sing` (605; 90% of non-empty `Number`): <em>-t-il, -il, -je, -t-elle, je, -t-on, -elle, -on, j', il</em>
 * `EMPTY` (988): <em>qui, qu', -ce, se, que, s', y, quoi, dont, Quels</em>
 
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>-il, il</em></td><td><em>-ils</em></td></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>-elle, elle</em></td><td><em>-elles, elles</em></td></tr>
+  <tr><td><tt><tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>-t-il, -il, il</em></td><td><em>-ils</em></td></tr>
+  <tr><td><tt><tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>-t-elle, -elle, elle</em></td><td><em>-elles, elles</em></td></tr>
   <tr><td><tt><tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>-je, je, j'</em></td><td><em>nous</em></td></tr>
   <tr><td><tt><tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td></td><td><em>vous, -vous</em></td></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>-on, on</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>-t-on, -on, on</em></td><td></td></tr>
 </table>
 
 ### `ADP`

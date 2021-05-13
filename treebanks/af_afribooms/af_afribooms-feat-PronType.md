@@ -25,6 +25,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 * `Art` (4541; 85% of non-empty `PronType`): <em>die, 'n, de, dien</em>
 * `Dem` (451; 8% of non-empty `PronType`): <em>hierdie, daardie, dié, sodanige, sulke, daar, diÃ©, sodanig</em>
 * `Ind` (349; 7% of non-empty `PronType`): <em>alle, meer, al, baie, paar, sommige, laaste, soveel, talle, min</em>
+* `EMPTY` (1): <em>Die</em>
 
 `PronType` seems to be **lexical feature** of `DET`. 100% lemmas (31) occur only with one value of `PronType`.
 
@@ -54,6 +55,5 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<tt><a href="af_afribooms-dep-conj.html">conj</a></tt>]--> PRON</tt> (20; 87%),
 <tt>DET --[<tt><a href="af_afribooms-dep-amod.html">amod</a></tt>]--> DET</tt> (3; 100%),
-<tt>DET --[<tt><a href="af_afribooms-dep-nummod.html">nummod</a></tt>]--> DET</tt> (3; 100%),
-<tt>DET --[<tt><a href="af_afribooms-dep-amod.html">amod</a></tt>]--> PRON</tt> (2; 100%).
+<tt>DET --[<tt><a href="af_afribooms-dep-amod.html">amod</a></tt>]--> PRON</tt> (2; 67%).
 

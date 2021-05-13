@@ -11,8 +11,8 @@ It occurs with 8 different values: `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Re
 Some words have combined values of the feature; 1 combinations have been observed: `Int|Rel`.
 
 11814 tokens (11%) have a non-empty value of `PronType`.
-577 types (2%) occur at least once with a non-empty value of `PronType`.
-154 lemmas (1%) occur at least once with a non-empty value of `PronType`.
+568 types (2%) occur at least once with a non-empty value of `PronType`.
+144 lemmas (1%) occur at least once with a non-empty value of `PronType`.
 The feature is used with 3 part-of-speech tags: <tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (6435; 6% instances), <tt><a href="sk_snk-pos-DET.html">DET</a></tt> (4404; 4% instances), <tt><a href="sk_snk-pos-ADV.html">ADV</a></tt> (975; 1% instances).
 
 ### `PRON`
@@ -29,7 +29,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Prs` (5820; 90% of non-empty `PronType`): <em>sa, si, mi, ho, ma, mu, ju, ja, jej, ich</em>
 * `Tot` (18; 0% of non-empty `PronType`): <em>všetko, všetci, všetky, všetkých, všetku, všetkému</em>
 
-`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (39) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (29) occur only with one value of `PronType`.
 
 ### `DET`
 

@@ -29,7 +29,7 @@ The following 13 pairs of parts of speech are connected with `cc`: <tt><a href="
 5	Бас	бас	NOUN	n	Case=Nom	6	compound	_	_
 6	прокурордың	прокурор	NOUN	n	Case=Gen	3	conj	_	_
 7	жұмысын	жұмыс	NOUN	n	Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3	8	obj	_	_
-8	қолдаймын	қолда	VERB	v	Mood=Ind|Number=Sing|Person=1|Tense=Aor|VerbForm=Fin	0	root	_	SpaceAfter=No
+8	қолдаймын	қолда	VERB	v	Aspect=Hab|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	sent	_	8	punct	_	_
 
 ~~~
@@ -45,9 +45,9 @@ The following 13 pairs of parts of speech are connected with `cc`: <tt><a href="
 2	осы	осы	DET	det	PronType=Dem	3	det	_	_
 3	дәстүрді	дәстүр	NOUN	n	Case=Acc	4	obj	_	_
 4	қастерлеп	қастерле	VERB	v	Aspect=Perf|VerbForm=Conv	7	advcl	_	_
-5	сақтаймыз	сақта	VERB	v	Mood=Ind|Number=Plur|Person=1|Tense=Aor|VerbForm=Fin	0	root	_	_
+5	сақтаймыз	сақта	VERB	v	Aspect=Hab|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	және	және	CCONJ	cnjcoo	_	7	cc	_	_
-7	нығайтамыз	нығайт	VERB	v	Mood=Ind|Number=Plur|Person=1|Tense=Aor|VerbForm=Fin	5	conj	_	SpaceAfter=No
+7	нығайтамыз	нығайт	VERB	v	Aspect=Hab|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	conj	_	SpaceAfter=No
 8	.	.	PUNCT	sent	_	7	punct	_	_
 
 ~~~
@@ -67,7 +67,7 @@ The following 13 pairs of parts of speech are connected with `cc`: <tt><a href="
 6	мәнді	мәнді	ADJ	adj	_	0	root	_	_
 7	әрі	әрі	CCONJ	cnjcoo	_	8	cc	_	_
 8	маңызды	маңызды	ADJ	adj	_	6	conj	_	_
-9	болып	бол	AUX	v	Aspect=Perf|VerbForm=Cov	8	cop	_	_
+9	болып	бол	AUX	v	Aspect=Perf|VerbForm=Inf	8	cop	_	_
 10	отыр	отыр	AUX	vaux	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	SpaceAfter=No
 11	.	.	PUNCT	sent	_	8	punct	_	_
 

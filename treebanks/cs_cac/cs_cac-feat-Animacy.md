@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Anim`, `Inan`.
 
-97991 tokens (20%) have a non-empty value of `Animacy`.
-26832 types (43%) occur at least once with a non-empty value of `Animacy`.
+98255 tokens (20%) have a non-empty value of `Animacy`.
+26841 types (43%) occur at least once with a non-empty value of `Animacy`.
 12618 lemmas (44%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 8 part-of-speech tags: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (56384; 11% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (28965; 6% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (5431; 1% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (3260; 1% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (2425; 0% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (866; 0% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (560; 0% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (100; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (56384; 11% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (28965; 6% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (5431; 1% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (3260; 1% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (2425; 0% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (1130; 0% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (560; 0% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (100; 0% instances).
 
 ### `NOUN`
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>druzi</em></td><td><em>druhy</em></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `NOUN`. 99% lemmas (3981) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `NOUN`. 99% lemmas (3976) occur only with one value of `Animacy`.
 
 ### `ADJ`
 
@@ -162,22 +162,22 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 
 ### `PRON`
 
-866 <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> tokens (5% of all `PRON` tokens) have a non-empty value of `Animacy`.
+1130 <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> tokens (7% of all `PRON` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (866; 100%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (866; 100%), <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (859; 99%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (848; 98%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (649; 75%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt> (537; 62%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Int,Rel</tt> (511; 59%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (464; 54%).
+The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1130; 100%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1130; 100%), <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (1123; 99%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1112; 98%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (913; 81%), <tt><a href="cs_cac-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (666; 59%), <tt><a href="cs_cac-feat-PronType.html">PronType</a></tt><tt>=Int,Rel</tt> (633; 56%), <tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Nom</tt> (581; 51%).
 
 `PRON` tokens may have the following values of `Animacy`:
 
-* `Anim` (371; 43% of non-empty `Animacy`): <em>všichni, kdo, někdo, nikdo, oni, někomu, nikoho, jehož, kdož, koho</em>
-* `Inan` (495; 57% of non-empty `Animacy`): <em>co, všechny, čím, čem, čeho, copak, veškeré, čemu, samý, veškerý</em>
-* `EMPTY` (15169): <em>se, si, všech, je, nás, nám, všechny, jež, nich, nichž</em>
+* `Anim` (372; 33% of non-empty `Animacy`): <em>všichni, kdo, někdo, nikdo, oni, někomu, nikoho, jehož, kdož, koho</em>
+* `Inan` (758; 67% of non-empty `Animacy`): <em>co, něco, všechny, čím, čem, čeho, copak, něčeho, něčemu, veškeré</em>
+* `EMPTY` (14905): <em>se, si, všech, je, nás, nám, všechny, jež, nich, nichž</em>
 
 <table>
   <tr><th>Paradigm <i>všechno</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
   <tr><td><tt></tt></td><td><em>všichni</em></td><td><em>všechny</em></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `PRON`. 94% lemmas (17) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `PRON`. 95% lemmas (21) occur only with one value of `Animacy`.
 
 ### `AUX`
 

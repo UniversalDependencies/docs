@@ -45,7 +45,7 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 8 9 xcomp	color:blue
 1	Dan	dan	CCONJ	_	_	8	cc	_	_
 2	hasil	hasil	NOUN	_	Number=Sing	8	nsubj:pass	_	_
-3	nya	nya	DET	_	_	2	det	_	_
+3	nya	nya	DET	_	PronType=Dem	2	det	_	_
 4	sama	sama	ADJ	_	_	8	advmod	_	_
 5	sekali	kali	ADV	_	_	4	fixed	_	_
 6	tidak	tidak	PART	_	Polarity=Neg	8	advmod	_	_

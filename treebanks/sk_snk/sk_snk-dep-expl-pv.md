@@ -12,7 +12,7 @@ There are also 1 other language-specific subtypes of `expl`: <tt><a href="sk_snk
 2623 nodes (2%) are attached to their parents as `expl:pv`.
 
 1842 instances of `expl:pv` (70%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.69805566145635.
+Average distance between parent and child is 1.70186808997331.
 
 The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a href="sk_snk-pos-VERB.html">VERB</a></tt>-<tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (2592; 99% instances), <tt><a href="sk_snk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (27; 1% instances), <tt><a href="sk_snk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sk_snk-pos-PRON.html">PRON</a></tt> (4; 0% instances).
 

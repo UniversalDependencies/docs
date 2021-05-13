@@ -42,7 +42,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 2464 <tt><a href="ro_simonero-pos-AUX.html">AUX</a></tt> tokens (50% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="ro_simonero-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2096; 85%), <tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=3</tt> (2089; 85%), <tt><a href="ro_simonero-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2023; 82%), <tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1397; 57%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="ro_simonero-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2096; 85%), <tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=3</tt> (2088; 85%), <tt><a href="ro_simonero-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2023; 82%), <tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1398; 57%).
 
 `AUX` tokens may have the following values of `Tense`:
 
@@ -53,12 +53,12 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 <table>
   <tr><th>Paradigm <i>fi</i></th><th><tt>Pres</tt></th><th><tt>Imp</tt></th></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_simonero-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sunt</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_simonero-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_simonero-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>esti</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_simonero-feat-Variant.html">Variant</a></tt><tt>=Short</tt>|<tt><a href="ro_simonero-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>i</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_simonero-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>este, e</em></td><td><em>era</em></td></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_simonero-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>suntem</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_simonero-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sunteți</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_simonero-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sunt</em></td><td><em>erau</em></td></tr>
-  <tr><td><tt><tt><a href="ro_simonero-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_simonero-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>esti</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_simonero-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fii</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="ro_simonero-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_simonero-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fim</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_simonero-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="ro_simonero-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_simonero-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fie, ﬁe</em></td><td></td></tr>
@@ -69,7 +69,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="ro_simonero-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (596; 66%),
-<tt>VERB --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> VERB</tt> (412; 71%),
+<tt>VERB --[<tt><a href="ro_simonero-dep-conj.html">conj</a></tt>]--> VERB</tt> (411; 70%),
 <tt>VERB --[<tt><a href="ro_simonero-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (25; 52%),
 <tt>VERB --[<tt><a href="ro_simonero-dep-appos.html">appos</a></tt>]--> VERB</tt> (3; 60%),
 <tt>AUX --[<tt><a href="ro_simonero-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (1; 100%),

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-143 nodes (0%) are attached to their parents as `appos`.
+142 nodes (0%) are attached to their parents as `appos`.
 
-143 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.95804195804196.
+142 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.87323943661972.
 
-The following 22 pairs of parts of speech are connected with `appos`: <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (80; 56% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt> (11; 8% instances), <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (9; 6% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (5; 3% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt> (4; 3% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 21 pairs of parts of speech are connected with `appos`: <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (80; 56% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt> (11; 8% instances), <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (9; 6% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt> (5; 4% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt> (5; 4% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt> (4; 3% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="fr_spoken-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fr_spoken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_spoken-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="fr_spoken-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fr_spoken-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fr_spoken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_spoken-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_spoken-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -35,27 +35,25 @@ The following 22 pairs of parts of speech are connected with `appos`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
-# visual-style 13 15 appos	color:blue
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 13 appos	color:blue
 1	soit	soit	CCONJ	_	_	4	cc	_	_
 2	alors	alors	ADV	_	_	4	discourse	_	_
 3	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	4	nsubj	_	_
 4	tournez	tourner	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	à	à	ADP	_	_	4	dep	_	_
-6	d'	d'	ADP	_	_	7	case	_	_
-7	accord	accord	NOUN	_	Gender=Masc|Number=Sing	9	discourse	_	_
-8	à	à	ADP	_	_	9	case	_	_
-9	droite	droite	NOUN	_	Gender=Fem|Number=Sing	5	reparandum	_	_
-10	juste	juste	ADV	_	_	13	advmod	_	_
-11	après	après	ADP	_	_	13	case	_	_
-12	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	13	det	_	_
-13	arrêt	arrêt	NOUN	_	Gender=Masc|Number=Sing	4	obl:mod	_	_
-14	euh	euh	INTJ	_	_	13	discourse	_	_
-15	Hubert	Hubert	PROPN	_	_	13	appos	_	_
-16	Dubedout	Dubedout	PROPN	_	_	15	flat	_	_
+6	à	à	ADP	_	_	7	case	_	_
+7	droite	droite	NOUN	_	Gender=Fem|Number=Sing	5	reparandum	_	_
+8	juste	juste	ADV	_	_	11	advmod	_	_
+9	après	après	ADP	_	_	11	case	_	_
+10	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	11	det	_	_
+11	arrêt	arrêt	NOUN	_	Gender=Masc|Number=Sing	4	obl:mod	_	_
+12	euh	euh	INTJ	_	_	11	discourse	_	_
+13	Hubert	Hubert	PROPN	_	_	11	appos	_	_
+14	Dubedout	Dubedout	PROPN	_	_	13	flat	_	_
 
 ~~~
 
@@ -74,7 +72,7 @@ The following 22 pairs of parts of speech are connected with `appos`: <tt><a hre
 6	euh	euh	INTJ	_	_	9	discourse	_	_
 7	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	expl:subj	_	_
 8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
-9	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	ccomp:obj	_	_
+9	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	ccomp	_	_
 10	qui	qui	PRON	_	_	11	nsubj	_	_
 11	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl:cleft	_	_
 12	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
@@ -83,7 +81,7 @@ The following 22 pairs of parts of speech are connected with `appos`: <tt><a hre
 15	que	que	SCONJ	_	_	19	mark	_	_
 16	donc	donc	ADV	_	_	19	advmod	_	_
 17	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	expl:subj	_	_
-18	y	y	PRON	_	Person=3|PronType=Prs	19	obl:arg	_	_
+18	y	y	PRON	_	Person=3|PronType=Prs	19	iobj	_	_
 19	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
 20	pas	pas	ADV	_	Polarity=Neg	19	advmod	_	_
 21	de	de	ADP	_	_	22	case	_	_

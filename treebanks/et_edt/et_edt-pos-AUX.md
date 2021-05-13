@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>on</em> (<tt><a href="et_edt-pos-AUX.
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 16.000000 (the average of all parts of speech is 1.914080).
+The form / lemma ratio of `AUX` is 16.000000 (the average of all parts of speech is 1.914124).
 
 The 1st highest number of forms (54) was observed with the lemma “olema”: <em>Olemata, Olge, olda, oldi, oldud, ole, oled, oledki, olegi, oleks, oleksid, oleksidki, oleksime, oleksin, olekski, olema, olemas, olemast, oleme, olemegi, olen, olengi, oless, olete, oletegi, olevat, olevatki, olgem, olgu, oli, olid, olidki, oligi, olime, olimegi, olin, olite, olla, ollakse, ollaksegi, olles, olnud, olnudki, olnuks, on, ongi, ons, pole, polegi, poleks, polekski, polevat, polnud, polnudki</em>.
 

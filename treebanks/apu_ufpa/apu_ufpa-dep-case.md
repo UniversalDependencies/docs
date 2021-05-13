@@ -8,7 +8,7 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (1%) are attached to their parents as `case`.
+3 nodes (0%) are attached to their parents as `case`.
 
 2 instances of `case` (67%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.33333333333333.

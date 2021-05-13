@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Daniel Zeman, Bjartur Mortensen, Francis Tyers.
 
 Repository: [UD_Faroese-OFT](https://github.com/UniversalDependencies/UD_Faroese-OFT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfo_oft27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfo_oft28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -91,7 +91,7 @@ year = 2018
 
 ## Relations
 
-[acl](fo_oft-dep-acl.html) – [acl:cleft](fo_oft-dep-acl-cleft.html) – [acl:relcl](fo_oft-dep-acl-relcl.html) – [advcl](fo_oft-dep-advcl.html) – [advmod](fo_oft-dep-advmod.html) – [amod](fo_oft-dep-amod.html) – [appos](fo_oft-dep-appos.html) – [aux](fo_oft-dep-aux.html) – [aux:pass](fo_oft-dep-aux-pass.html) – [case](fo_oft-dep-case.html) – [cc](fo_oft-dep-cc.html) – [cc:preconj](fo_oft-dep-cc-preconj.html) – [ccomp](fo_oft-dep-ccomp.html) – [compound](fo_oft-dep-compound.html) – [conj](fo_oft-dep-conj.html) – [cop](fo_oft-dep-cop.html) – [csubj](fo_oft-dep-csubj.html) – [dep](fo_oft-dep-dep.html) – [det](fo_oft-dep-det.html) – [discourse](fo_oft-dep-discourse.html) – [expl](fo_oft-dep-expl.html) – [flat](fo_oft-dep-flat.html) – [iobj](fo_oft-dep-iobj.html) – [mark](fo_oft-dep-mark.html) – [nmod](fo_oft-dep-nmod.html) – [nmod:poss](fo_oft-dep-nmod-poss.html) – [nsubj](fo_oft-dep-nsubj.html) – [nsubj:pass](fo_oft-dep-nsubj-pass.html) – [nummod](fo_oft-dep-nummod.html) – [obj](fo_oft-dep-obj.html) – [obl](fo_oft-dep-obl.html) – [orphan](fo_oft-dep-orphan.html) – [parataxis](fo_oft-dep-parataxis.html) – [punct](fo_oft-dep-punct.html) – [root](fo_oft-dep-root.html) – [xcomp](fo_oft-dep-xcomp.html)
+[acl](fo_oft-dep-acl.html) – [acl:relcl](fo_oft-dep-acl-relcl.html) – [advcl](fo_oft-dep-advcl.html) – [advmod](fo_oft-dep-advmod.html) – [amod](fo_oft-dep-amod.html) – [appos](fo_oft-dep-appos.html) – [aux](fo_oft-dep-aux.html) – [aux:pass](fo_oft-dep-aux-pass.html) – [case](fo_oft-dep-case.html) – [cc](fo_oft-dep-cc.html) – [cc:preconj](fo_oft-dep-cc-preconj.html) – [ccomp](fo_oft-dep-ccomp.html) – [compound](fo_oft-dep-compound.html) – [conj](fo_oft-dep-conj.html) – [cop](fo_oft-dep-cop.html) – [csubj](fo_oft-dep-csubj.html) – [dep](fo_oft-dep-dep.html) – [det](fo_oft-dep-det.html) – [discourse](fo_oft-dep-discourse.html) – [expl](fo_oft-dep-expl.html) – [flat](fo_oft-dep-flat.html) – [iobj](fo_oft-dep-iobj.html) – [mark](fo_oft-dep-mark.html) – [nmod](fo_oft-dep-nmod.html) – [nmod:poss](fo_oft-dep-nmod-poss.html) – [nsubj](fo_oft-dep-nsubj.html) – [nsubj:pass](fo_oft-dep-nsubj-pass.html) – [nummod](fo_oft-dep-nummod.html) – [obj](fo_oft-dep-obj.html) – [obl](fo_oft-dep-obl.html) – [orphan](fo_oft-dep-orphan.html) – [parataxis](fo_oft-dep-parataxis.html) – [punct](fo_oft-dep-punct.html) – [root](fo_oft-dep-root.html) – [xcomp](fo_oft-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -561,12 +561,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN (1)</li>
       <li>VERB--NOUN-Acc (4)</li>
       <li>VERB--NOUN-Dat (1)</li>
-      <li>VERB--NOUN-Nom (202)</li>
+      <li>VERB--NOUN-Nom (201)</li>
       <li>VERB--NOUN-Nom-ADP(um) (1)</li>
       <li>VERB--PRON (19)</li>
       <li>VERB--PRON-Nom (47)</li>
       <li>VERB-Inf--NOUN-Dat (1)</li>
-      <li>VERB-Inf--NOUN-Nom (14)</li>
+      <li>VERB-Inf--NOUN-Nom (15)</li>
       <li>VERB-Inf--PRON (2)</li>
       <li>VERB-Inf--PRON-Nom (3)</li>
       <li>VERB-Part--NOUN-Nom (9)</li>
@@ -622,6 +622,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 6 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>nmod:poss</a>, <a>nsubj:pass</a></li>
+<li>This corpus uses 5 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>nmod:poss</a>, <a>nsubj:pass</a></li>
 <li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

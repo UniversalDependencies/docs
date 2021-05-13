@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal but the values `Conv` are language-specific.
 It occurs with 3 different values: `Conv`, `Inf`, `Part`.
 
-30 tokens (4%) have a non-empty value of `VerbForm`.
-28 types (6%) occur at least once with a non-empty value of `VerbForm`.
-25 lemmas (7%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (29; 3% instances), <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+31 tokens (4%) have a non-empty value of `VerbForm`.
+29 types (6%) occur at least once with a non-empty value of `VerbForm`.
+26 lemmas (7%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (30; 4% instances), <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-29 <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> tokens (20% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+30 <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> tokens (20% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (24; 83%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (24; 83%), <tt><a href="koi_uh-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (24; 83%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (30; 100%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (30; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (24; 80%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (24; 80%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Conv` (6; 21% of non-empty `VerbForm`): <em>жалейттӧг, жмитікӧ, куриттӧг, лӧсьӧтікӧ, сайӧвтӧмӧн, ютӧг</em>
-* `Inf` (17; 59% of non-empty `VerbForm`): <em>вӧтны, бӧрйыны, видзчисьны, воштісьны, керны, куритны, кутчыны, локны, лӧсьӧтны, миссьӧтны</em>
-* `Part` (6; 21% of non-empty `VerbForm`): <em>бырӧм, дорӧм, дрӧжитана, киссьӧм, пырӧм, пӧліньтчӧм</em>
-* `EMPTY` (118): <em>зэрӧ, босьтіс, быдмис, гижис, котӧртіс, краситӧм, краситӧма, осьт, петас, пондыліс</em>
+* `Conv` (6; 20% of non-empty `VerbForm`): <em>жалейттӧг, жмитікӧ, куриттӧг, лӧсьӧтікӧ, сайӧвтӧмӧн, ютӧг</em>
+* `Inf` (17; 57% of non-empty `VerbForm`): <em>вӧтны, бӧрйыны, видзчисьны, воштісьны, керны, куритны, кутчыны, локны, лӧсьӧтны, миссьӧтны</em>
+* `Part` (7; 23% of non-empty `VerbForm`): <em>бырӧм, гардчӧмкодь, дорӧм, дрӧжитана, киссьӧм, пырӧм, пӧліньтчӧм</em>
+* `EMPTY` (117): <em>зэрӧ, босьтіс, быдмис, гижис, котӧртіс, краситӧм, краситӧма, осьт, петас, пондыліс</em>
 
 <table>
   <tr><th>Paradigm <i>куритны</i></th><th><tt>Inf</tt></th><th><tt>Conv</tt></th></tr>

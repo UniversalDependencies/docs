@@ -22,15 +22,15 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 iobj	color:blue
-1	อย่าง	_	NOUN	NN	_	5	advmod	_	SpaceAfter=No
+1	อย่าง	_	NOUN	NN	_	5	obl	_	SpaceAfter=No
 2	แรก	_	ADJ	JJ	_	1	amod	_	_
 3	เรา	_	PRON	PRP	Person=1	5	nsubj	_	SpaceAfter=No
-4	ต้อง	_	VERB	MD	_	5	aux	_	SpaceAfter=No
+4	ต้อง	_	AUX	MD	_	5	aux	_	SpaceAfter=No
 5	ให้	_	VERB	VV	_	0	root	_	SpaceAfter=No
 6	ความรู้	_	VERB	VV	_	5	obj	_	SpaceAfter=No
 7	คน	_	NOUN	NN	_	5	iobj	_	SpaceAfter=No
 8	ว่า	_	ADP	IN	_	10	mark	_	SpaceAfter=No
-9	จะ	_	VERB	MD	_	10	aux	_	SpaceAfter=No
+9	จะ	_	AUX	MD	_	10	aux	_	SpaceAfter=No
 10	ให้	_	VERB	VV	_	5	ccomp	_	SpaceAfter=No
 11	ป้องกัน	_	VERB	VV	_	10	xcomp	_	SpaceAfter=No
 12	ตัวเอง	_	PRON	PRP	Person=3	11	obj	_	SpaceAfter=No

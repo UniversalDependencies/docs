@@ -51,7 +51,7 @@ The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="
 26	jich	jich	DET	_	Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	28	det	_	_
 27	detailowych	detailowy	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Plur	28	amod	_	_
 28	krokach	krok	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	16	nmod	_	SpaceAfter=No
-29	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+29	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

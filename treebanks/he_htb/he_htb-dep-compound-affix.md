@@ -45,11 +45,11 @@ The following 5 pairs of parts of speech are connected with `compound:affix`: <t
 2	היה	היה	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	3	cop	_	_
 3	קורבן	קורבן	NOUN	NOUN	Gender=Masc|Number=Sing	0	root	_	_
 4	של	של	ADP	ADP	Case=Gen	7	case:gen	_	_
-5	אי	אי	ADV	ADV	HebSource=ConvUncertainHead|Prefix=Yes	7	compound:affix	_	SpaceAfter=No
-6	-	-	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No
+5	אי	אי	ADV	ADV	Prefix=Yes	7	compound:affix	_	HebSource=ConvUncertainHead|SpaceAfter=No
+6	-	-	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
 7	התאמה	התאמה	NOUN	NOUN	Gender=Fem|Number=Sing	3	nmod:poss	_	_
 8	כ	כ	ADP	ADP	_	10	case	_	_
-9	ה_	ה	DET	DET	PronType=Art	10	det:def	_	_
+9	ה_	ה	DET	DET	Definite=Def|PronType=Art	10	det	_	_
 10	זאת	זאת	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Dem	7	nmod	_	_
 11	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
@@ -70,7 +70,7 @@ The following 5 pairs of parts of speech are connected with `compound:affix`: <t
 6	ענפים	ענף	NOUN	NOUN	Gender=Masc|Number=Plur	4	conj	_	_
 7	בלי	בלי	ADP	ADP	_	8	case	_	_
 8	כסף	כסף	NOUN	NOUN	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
-9	.	.	PUNCT	PUNCT	_	2	punct	_	_
+9	.	.	PUNCT	PUNCT	_	3	punct	_	_
 
 ~~~
 

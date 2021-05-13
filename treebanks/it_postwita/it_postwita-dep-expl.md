@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `expl`: <tt><a href="it_postwita-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="it_postwita-dep-expl-pass.html">expl:pass</a></tt>.
 
-1056 nodes (1%) are attached to their parents as `expl`.
+1058 nodes (1%) are attached to their parents as `expl`.
 
-889 instances of `expl` (84%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.25378787878788.
+893 instances of `expl` (84%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25425330812854.
 
-The following 3 pairs of parts of speech are connected with `expl`: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (1049; 99% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt>-<tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `expl`: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (1051; 99% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt>-<tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 8	fgColor:white
 # visual-style 8 4 expl	color:blue
 1	@user	@user	SYM	SYM	_	8	vocative:mention	_	_
-2	si	sì	INTJ	I	_	8	discourse	_	_
+2	si	sì	INTJ	I	_	8	discourse	_	CorrectForm=sì
 3	cazzo	cazzo	INTJ	I	_	8	discourse	_	_
 4	c'	ci	PRON	PC	Clitic=Yes|Number=Plur|Person=1|PronType=Prs	8	expl	_	SpaceAfter=No
 5	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	dep	_	_
@@ -87,7 +87,7 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 13	»	»	PUNCT	FB	_	10	punct	_	_
 14	http://t.co/ch6X2WcD	http://t.co/ch6X2WcD	SYM	X	_	5	dep	_	_
 15	Intanto	intanto	ADV	B	_	20	advmod	_	_
-16	lui	egli	PRON	PE	Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_
+16	lui	lui	PRON	PE	Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_
 17	l'	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	expl	_	SpaceAfter=No
 18	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
 19	"	"	PUNCT	FB	_	20	punct	_	_

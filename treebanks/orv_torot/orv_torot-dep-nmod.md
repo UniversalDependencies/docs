@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of nmod in UD_Old_Russian-TOROT'
+title:  'Statistics of nmod in UD_Old_East_Slavic-TOROT'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Old_Russian-TOROT: Relations: `nmod`
+## Treebank Statistics: UD_Old_East_Slavic-TOROT: Relations: `nmod`
 
 This relation is universal.
 
@@ -23,7 +23,7 @@ The following 40 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 6	fgColor:white
 # visual-style 6 5 nmod	color:blue
 1	и	и	CCONJ	C-	_	2	cc	_	ref=
-2	ради	радыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	0	root	_	ref=
+2	ради	радыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	0	root	_	ref=
 3	бꙑша	быти	AUX	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	ref=
 4	новгородьци	новъгородьць	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	ref=
 5	своемѹ	свои	ADJ	Pt	Case=Dat|Gender=Neut|Number=Sing|Person=3|Poss=Yes|Reflex=Yes	6	nmod	_	ref=
@@ -44,7 +44,7 @@ The following 40 pairs of parts of speech are connected with `nmod`: <tt><a href
 4	моремъ	море	NOUN	Nb	Case=Ins|Gender=Neut|Number=Sing	2	obl	_	ref=6
 5	в	въ	ADP	R-	_	6	case	_	ref=6
 6	тавах	тава	NOUN	Nb	Case=Loc|Gender=Fem|Number=Plur	2	obl	_	ref=6
-7	индѣискыѧ	индѣискыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Strength=Weak	8	amod	_	ref=6
+7	индѣискыѧ	индѣискыи	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	ref=6
 8	земли	земля	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	ref=6
 9	корабли	корабль	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	appos	_	ref=6
 
@@ -62,7 +62,7 @@ The following 40 pairs of parts of speech are connected with `nmod`: <tt><a href
 3	да	да	CCONJ	C-	_	2	cc	_	ref=6
 4	девочкы	дѣвочька	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	2	conj	_	ref=6
 5	ходѧт	ходити	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=6
-6	нагы	нагыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Strength=Strong	5	advmod	_	ref=6
+6	нагы	нагыи	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	5	advmod	_	ref=6
 7	до	до	ADP	R-	_	8	case	_	ref=6
 8	з҃	седмь	NUM	Ma	_	5	obl	_	ref=6
 9	лѣт	лѣто	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	ref=6

@@ -48,7 +48,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 1149 <tt><a href="hu_szeged-pos-ADJ.html">ADJ</a></tt> tokens (21% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1121; 98%), <tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1044; 91%), <tt><a href="hu_szeged-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (651; 57%), <tt><a href="hu_szeged-feat-Number-psed.html">Number[psed]</a></tt><tt>=None</tt> (651; 57%), <tt><a href="hu_szeged-feat-Number-psor.html">Number[psor]</a></tt><tt>=None</tt> (649; 56%), <tt><a href="hu_szeged-feat-Person-psor.html">Person[psor]</a></tt><tt>=None</tt> (649; 56%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="hu_szeged-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1121; 98%), <tt><a href="hu_szeged-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1044; 91%), <tt><a href="hu_szeged-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (651; 57%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 

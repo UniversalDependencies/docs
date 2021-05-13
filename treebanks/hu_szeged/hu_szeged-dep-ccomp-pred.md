@@ -27,7 +27,7 @@ The following 5 pairs of parts of speech are connected with `ccomp:pred`: <tt><a
 2	kérdés	kérdés	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 3	csak	csak	ADV	_	_	4	advmod:mode	_	_
 4	az	az	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	0	root	_	SpaceAfter=No
-5	:	:	PUNCT	_	_	4	punct	_	_
+5	:	:	PUNCT	_	_	8	punct	_	_
 6	meg	meg	PART	_	_	11	compound:preverb	_	_
 7	is	is	ADV	_	_	8	advmod:mode	_	_
 8	tudja	tud	VERB	_	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp:pred	_	_
@@ -48,7 +48,7 @@ The following 5 pairs of parts of speech are connected with `ccomp:pred`: <tt><a
 1	A	a	DET	_	Definite=Def|PronType=Art	3	det	_	_
 2	legáltalánosabb	általános	ADJ	_	Case=Nom|Degree=Sup|Number=Sing	3	amod:att	_	_
 3	kritika	kritika	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	3	punct	_	_
+4	,	,	PUNCT	_	_	12	punct	_	_
 5	hogy	hogy	SCONJ	_	_	12	mark	_	_
 6	a	a	DET	_	Definite=Def|PronType=Art	7	det	_	_
 7	kormánynak	kormány	NOUN	_	Case=Gen|Number=Sing	12	nmod:att	_	_
@@ -67,7 +67,7 @@ The following 5 pairs of parts of speech are connected with `ccomp:pred`: <tt><a
 20	állt	áll	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	_
 21	a	a	DET	_	Definite=Def|PronType=Art	22	det	_	_
 22	helyzet	helyzet	NOUN	_	Case=Nom|Number=Sing	23	nmod:att	_	_
-23	magaslatán	magaslat	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	20	nmod:obl	_	SpaceAfter=No
+23	magaslatán	magaslat	NOUN	_	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	20	obl	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -87,26 +87,26 @@ The following 5 pairs of parts of speech are connected with `ccomp:pred`: <tt><a
 6	is	is	CCONJ	_	_	5	cc	_	ToDo=cc-without-conj
 7	nagy	nagy	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	8	amod:att	_	_
 8	előnye	előny	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	nsubj	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	5	punct	_	_
+9	,	,	PUNCT	_	_	14	punct	_	_
 10	hogy	hogy	SCONJ	_	_	14	mark	_	_
 11	ily	ily	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Dem	12	nmod:att	_	_
-12	módon	mód	NOUN	_	Case=Sup|Number=Sing	14	nmod:obl	_	_
-13	papíron	papír	NOUN	_	Case=Sup|Number=Sing	14	nmod:obl	_	_
+12	módon	mód	NOUN	_	Case=Sup|Number=Sing	14	obl	_	_
+13	papíron	papír	NOUN	_	Case=Sup|Number=Sing	14	obl	_	_
 14	kimutatható	kimutatható	ADJ	_	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	5	ccomp:pred	_	SpaceAfter=No
-15	:	:	PUNCT	_	_	14	punct	_	_
+15	:	:	PUNCT	_	_	29	punct	_	_
 16	jövőre	jövőre	ADV	_	_	29	advmod:tlocy	_	_
 17	"	"	PUNCT	_	_	29	punct	_	SpaceAfter=No
 18	a	a	DET	_	Definite=Def|PronType=Art	19	det	_	_
 19	jövedelemcentralizáció	jövedelemcentralizáció	NOUN	_	Case=Nom|Number=Sing	29	nsubj	_	orig_deprel=nsubj
 20	1,2	1,2	NUM	_	Case=Nom|Number=Sing|NumType=Frac	21	amod:att	_	_
 21	százalékkal	százalék	NOUN	_	Case=Ins|Number=Sing	19	orphan	_	orig_deprel=nmod:obl|SpaceAfter=No
-22	,	,	PUNCT	_	_	21	punct	_	_
+22	,	,	PUNCT	_	_	25	punct	_	_
 23	az	az	DET	_	Definite=Def|PronType=Art	24	det	_	_
 24	újraelosztás	újraelosztás	NOUN	_	Case=Nom|Number=Sing	25	nmod:att	_	_
 25	mértéke	mérték	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	19	conj	_	_
 26	pedig	pedig	CCONJ	_	_	29	cc	_	ToDo=cc-after-conj
 27	1,9	1,9	NUM	_	Case=Nom|Number=Sing|NumType=Frac	28	amod:att	_	_
-28	százalékkal	százalék	NOUN	_	Case=Ins|Number=Sing	29	nmod:obl	_	_
+28	százalékkal	százalék	NOUN	_	Case=Ins|Number=Sing	29	obl	_	_
 29	csökken	csökken	VERB	_	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	csubj	_	SpaceAfter=No
 30	"	"	PUNCT	_	_	29	punct	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	5	punct	_	_

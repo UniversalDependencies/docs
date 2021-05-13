@@ -12,33 +12,20 @@ It occurs with 1 different values: `Nfh`.
 219 tokens (1%) have a non-empty value of `Evident`.
 156 types (2%) occur at least once with a non-empty value of `Evident`.
 118 lemmas (3%) occur at least once with a non-empty value of `Evident`.
-The feature is used with 3 part-of-speech tags: <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (180; 1% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (26; 0% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (13; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (206; 1% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (13; 0% instances).
 
 ### `VERB`
 
-180 <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> tokens (17% of all `VERB` tokens) have a non-empty value of `Evident`.
+206 <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> tokens (12% of all `VERB` tokens) have a non-empty value of `Evident`.
 
-The most frequent other feature values with which `VERB` and `Evident` co-occurred: <tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (178; 99%), <tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (178; 99%), <tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (167; 93%), <tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (146; 81%), <tt><a href="tr_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (121; 67%), <tt><a href="tr_pud-feat-Mood.html">Mood</a></tt><tt>=Gen</tt> (107; 59%).
+The most frequent other feature values with which `VERB` and `Evident` co-occurred: <tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (206; 100%), <tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (206; 100%), <tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (206; 100%), <tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (204; 99%), <tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (204; 99%), <tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (193; 94%), <tt><a href="tr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (180; 87%), <tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (172; 83%), <tt><a href="tr_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (130; 63%), <tt><a href="tr_pud-feat-Mood.html">Mood</a></tt><tt>=Gen</tt> (107; 52%).
 
 `VERB` tokens may have the following values of `Evident`:
 
-* `Nfh` (180; 100% of non-empty `Evident`): <em>edilmiştir, etmiştir, başlamıştır, almıştır, edilmiş, gelmiştir, etmiş, kalmıştır, vermiştir, yapmıştır</em>
-* `EMPTY` (884): <em>dedi, etti, başladı, söyledi, çıktı, edildi, verdi, ediyor, geldi, aldı</em>
+* `Nfh` (206; 100% of non-empty `Evident`): <em>edilmiştir, etmiştir, başlamıştır, edilmiş, almıştır, etmiş, gelmiştir, kalmıştır, vermiştir, yapmıştır</em>
+* `EMPTY` (1487): <em>dedi, etti, başladı, söyledi, çıktı, edildi, verdi, ediyor, etmek, geldi</em>
 
-`Evident` seems to be **lexical feature** of `VERB`. 100% lemmas (101) occur only with one value of `Evident`.
-
-### `ADJ`
-
-26 <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `Evident`.
-
-The most frequent other feature values with which `ADJ` and `Evident` co-occurred: <tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26; 100%), <tt><a href="tr_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (21; 81%).
-
-`ADJ` tokens may have the following values of `Evident`:
-
-* `Nfh` (26; 100% of non-empty `Evident`): <em>Birleşmiş, adanmış, alışılmamış, biçilmiş, cevaplanamamış, donatılmış, donmuş, doğmamış, edilmiş, esnemiş</em>
-* `EMPTY` (1707): <em>büyük, yeni, son, sahip, fazla, ilk, aynı, eden, iyi, var</em>
-
-`Evident` seems to be **lexical feature** of `ADJ`. 100% lemmas (23) occur only with one value of `Evident`.
+`Evident` seems to be **lexical feature** of `VERB`. 100% lemmas (117) occur only with one value of `Evident`.
 
 ### `AUX`
 
@@ -54,5 +41,5 @@ The most frequent other feature values with which `AUX` and `Evident` co-occurre
 ## Relations with Agreement in `Evident`
 
 The 10 most frequent relations where parent and child node agree in `Evident`:
-<tt>VERB --[<tt><a href="tr_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (12; 57%).
+<tt>VERB --[<tt><a href="tr_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (12; 55%).
 

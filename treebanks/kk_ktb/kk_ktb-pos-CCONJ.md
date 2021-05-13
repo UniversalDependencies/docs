@@ -64,13 +64,13 @@ The 3rd highest number of forms (1) was observed with the lemma “ал”: <em>
 
 Parents of `CCONJ` nodes belong to 6 different parts of speech: <tt><a href="kk_ktb-pos-NOUN.html">NOUN</a></tt> (83; 46% instances), <tt><a href="kk_ktb-pos-VERB.html">VERB</a></tt> (50; 28% instances), <tt><a href="kk_ktb-pos-ADJ.html">ADJ</a></tt> (31; 17% instances), <tt><a href="kk_ktb-pos-PROPN.html">PROPN</a></tt> (15; 8% instances), <tt><a href="kk_ktb-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="kk_ktb-pos-PRON.html">PRON</a></tt> (1; 1% instances)
 
-177 (98%) `CCONJ` nodes are leaves.
+169 (93%) `CCONJ` nodes are leaves.
 
-4 (2%) `CCONJ` nodes have one child.
+12 (7%) `CCONJ` nodes have one child.
 
 The highest child degree of a `CCONJ` node is 1.
 
-Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="kk_ktb-dep-advmod.html">advmod</a></tt> (3; 75% instances), <tt><a href="kk_ktb-dep-dep.html">dep</a></tt> (1; 25% instances)
+Children of `CCONJ` nodes are attached using 3 different relations: <tt><a href="kk_ktb-dep-punct.html">punct</a></tt> (8; 67% instances), <tt><a href="kk_ktb-dep-advmod.html">advmod</a></tt> (3; 25% instances), <tt><a href="kk_ktb-dep-dep.html">dep</a></tt> (1; 8% instances)
 
-Children of `CCONJ` nodes belong to 2 different parts of speech: <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> (3; 75% instances), <tt><a href="kk_ktb-pos-X.html">X</a></tt> (1; 25% instances)
+Children of `CCONJ` nodes belong to 3 different parts of speech: <tt><a href="kk_ktb-pos-PUNCT.html">PUNCT</a></tt> (8; 67% instances), <tt><a href="kk_ktb-pos-ADV.html">ADV</a></tt> (3; 25% instances), <tt><a href="kk_ktb-pos-X.html">X</a></tt> (1; 8% instances)
 

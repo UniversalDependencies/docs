@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-66 nodes (3%) are attached to their parents as `case`.
+67 nodes (3%) are attached to their parents as `case`.
 
-65 instances of `case` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.01515151515152.
+66 instances of `case` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.01492537313433.
 
-The following 7 pairs of parts of speech are connected with `case`: <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-ADP.html">ADP</a></tt> (55; 83% instances), <tt><a href="ta_mwtt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ta_mwtt-pos-ADP.html">ADP</a></tt> (4; 6% instances), <tt><a href="ta_mwtt-pos-NUM.html">NUM</a></tt>-<tt><a href="ta_mwtt-pos-ADP.html">ADP</a></tt> (2; 3% instances), <tt><a href="ta_mwtt-pos-PRON.html">PRON</a></tt>-<tt><a href="ta_mwtt-pos-ADP.html">ADP</a></tt> (2; 3% instances), <tt><a href="ta_mwtt-pos-DET.html">DET</a></tt>-<tt><a href="ta_mwtt-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="ta_mwtt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ta_mwtt-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-ADP.html">ADP</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `case`: <tt><a href="ta_mwtt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ta_mwtt-pos-ADP.html">ADP</a></tt> (53; 79% instances), <tt><a href="ta_mwtt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ta_mwtt-pos-ADP.html">ADP</a></tt> (6; 9% instances), <tt><a href="ta_mwtt-pos-NUM.html">NUM</a></tt>-<tt><a href="ta_mwtt-pos-ADP.html">ADP</a></tt> (4; 6% instances), <tt><a href="ta_mwtt-pos-PRON.html">PRON</a></tt>-<tt><a href="ta_mwtt-pos-ADP.html">ADP</a></tt> (2; 3% instances), <tt><a href="ta_mwtt-pos-DET.html">DET</a></tt>-<tt><a href="ta_mwtt-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="ta_mwtt-pos-VERB.html">VERB</a></tt>-<tt><a href="ta_mwtt-pos-ADP.html">ADP</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 7 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 case	color:blue
-1	வீட்டில்	வீடு	NOUN	_	Case=Loc|Number=Sing|Person=3	3	obl:loc	3:obl:loc	Translit=vīṭṭil|LTranslit=vīṭu
+1	வீட்டில்	வீடு	NOUN	_	Case=Loc|Number=Sing|Person=3	3	obl:lmod	3:obl:lmod	Translit=vīṭṭil|LTranslit=vīṭu
 2	உள்ள	உள்ள	ADP	_	AdpType=Post	1	case	1:case	Translit=uḷḷa|LTranslit=uḷḷa
 3	நாய்	நாய்	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	0:root	Translit=nāy|LTranslit=nāy
 4	.	.	PUNCT	_	PunctType=Peri	3	punct	3:punct	Translit=.|LTranslit=.
@@ -46,17 +46,16 @@ The following 7 pairs of parts of speech are connected with `case`: <tt><a href=
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 case	color:blue
-1	ஒன்று	ஒன்று	NUM	_	Case=Nom	5	obl	5:obl	Translit=oṉṟu|LTranslit=oṉṟu
-2	முதல்	ஒன்று	ADP	_	AdpType=Post	1	case	1:case	Translit=mutal|LTranslit=oṉṟu
-3	பத்து	பத்து	NUM	_	Case=Nom	5	obl	5:obl	Translit=pattu|LTranslit=pattu
-4	வரை	வரை	ADP	_	AdpType=Post	3	case	3:case	Translit=varai|LTranslit=varai
-5	எண்ணு	எண்ணு	VERB	_	Mood=Imp|Number=Sing|Person=2|Polarity=Neg	0	root	0:root	Translit=eṇṇu|LTranslit=eṇṇu
-6	.	.	PUNCT	_	PunctType=Peri	5	punct	5:punct	Translit=.|LTranslit=.
+# visual-style 2 3 case	color:blue
+1	அவன்	அவன்	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nsubj	4:nsubj	Translit=avaṉ|LTranslit=avaṉ
+2	ஒன்றை	ஒன்று	NUM	_	_	4	obj	4:obj	Translit=oṉṟai|LTranslit=oṉṟu
+3	மட்டும்	மட்டும்	ADP	_	_	2	case	2:case	Translit=maṭṭum|LTranslit=maṭṭum*check lehmann
+4	சாப்பிட்டான்	சாப்பிடு	VERB	_	Gender=Masc|Number=Sing|Person=3|Tense=Past	0	root	0:root	Translit=cāppiṭṭāṉ|LTranslit=cāppiṭu
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	4:punct	Translit=.|LTranslit=.
 
 ~~~
 

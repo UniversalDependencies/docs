@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Fabrício Ferraz Gerardi.
 
 Repository: [UD_Tupinamba-TuDeT](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtpn_tudet27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtpn_tudet28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -44,19 +44,23 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). Together with [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT) and UD_Munduruku-TuDeT, UD_Tupinamba-TuDeT is part of the [TuLaR](https://tular.org). The treebank is ongoing work and is constantly being updated.
+UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). The project is a work in progress and the treebank is being updated on a regular basis.
 
 
 
 
 
 
-UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). Together with [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT) and [UD_Munduruku-TuDeT](https://github.com/UniversalDependencies/UD_Munduruku-TuDeT), UD_Tupinamba-TuDeT is part of Tupían Language Resources [TuLaR](https://tular.org). The sentences are being annotated and glossed by Fabrício Ferraz Gerardi.
+UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources, which contains other languages -- see [TuDeT](https://tular.clld.org/contributions/tudet).
+
+
 
 ## Text sources
 
 **Tupinambá sentences**:<br/>
 * Araújo, A. 1952, *Catecismo na Língua Brasílica* Reprodução fac-similar da 1.<sup>a</sup> edição (1618). PUC-RJ.
+* Navarro, E. D. A. (2006). Teatro/José de Anchieta; seleção, introdução, notas e tradução do tupi. Martins Fontes.
+* de Anchieta, J., (1997). Poemas: lírica portuguesa e tupi. Ed. Eduardo de A. Navarro. Martins Fontes.
 
 
 ## Acknowledgments
@@ -73,21 +77,21 @@ The development of the treebank is supported by the by European Research Council
 
 ## POS Tags
 
-[ADP](tpn_tudet-pos-ADP.html) – [ADV](tpn_tudet-pos-ADV.html) – [DET](tpn_tudet-pos-DET.html) – [NOUN](tpn_tudet-pos-NOUN.html) – [NUM](tpn_tudet-pos-NUM.html) – [PART](tpn_tudet-pos-PART.html) – [PRON](tpn_tudet-pos-PRON.html) – [PROPN](tpn_tudet-pos-PROPN.html) – [PUNCT](tpn_tudet-pos-PUNCT.html) – [VERB](tpn_tudet-pos-VERB.html)
+[ADP](tpn_tudet-pos-ADP.html) – [ADV](tpn_tudet-pos-ADV.html) – [AUX](tpn_tudet-pos-AUX.html) – [CCONJ](tpn_tudet-pos-CCONJ.html) – [DET](tpn_tudet-pos-DET.html) – [INTJ](tpn_tudet-pos-INTJ.html) – [NOUN](tpn_tudet-pos-NOUN.html) – [NUM](tpn_tudet-pos-NUM.html) – [PART](tpn_tudet-pos-PART.html) – [PRON](tpn_tudet-pos-PRON.html) – [PROPN](tpn_tudet-pos-PROPN.html) – [PUNCT](tpn_tudet-pos-PUNCT.html) – [SCONJ](tpn_tudet-pos-SCONJ.html) – [VERB](tpn_tudet-pos-VERB.html)
 
 ## Features
 
-[Animacy](tpn_tudet-feat-Animacy.html) – [Case](tpn_tudet-feat-Case.html) – [Clusivity](tpn_tudet-feat-Clusivity.html) – [Mood](tpn_tudet-feat-Mood.html) – [Nomz](tpn_tudet-feat-Nomz.html) – [Nomzr](tpn_tudet-feat-Nomzr.html) – [Number](tpn_tudet-feat-Number.html) – [NumType](tpn_tudet-feat-NumType.html) – [Person](tpn_tudet-feat-Person.html) – [Polarity](tpn_tudet-feat-Polarity.html) – [Poss](tpn_tudet-feat-Poss.html) – [PronType](tpn_tudet-feat-PronType.html) – [Reflex](tpn_tudet-feat-Reflex.html) – [Rel](tpn_tudet-feat-Rel.html) – [Tense](tpn_tudet-feat-Tense.html) – [VerbForm](tpn_tudet-feat-VerbForm.html)
+[Animacy](tpn_tudet-feat-Animacy.html) – [Aspect](tpn_tudet-feat-Aspect.html) – [Case](tpn_tudet-feat-Case.html) – [Clusivity](tpn_tudet-feat-Clusivity.html) – [ConjType](tpn_tudet-feat-ConjType.html) – [Dev](tpn_tudet-feat-Dev.html) – [Emph](tpn_tudet-feat-Emph.html) – [Incorp](tpn_tudet-feat-Incorp.html) – [Int](tpn_tudet-feat-Int.html) – [Intens](tpn_tudet-feat-Intens.html) – [Mood](tpn_tudet-feat-Mood.html) – [Nomzr](tpn_tudet-feat-Nomzr.html) – [Number](tpn_tudet-feat-Number.html) – [NumType](tpn_tudet-feat-NumType.html) – [OblTop](tpn_tudet-feat-OblTop.html) – [Person](tpn_tudet-feat-Person.html) – [Polarity](tpn_tudet-feat-Polarity.html) – [Poss](tpn_tudet-feat-Poss.html) – [PronType](tpn_tudet-feat-PronType.html) – [Red](tpn_tudet-feat-Red.html) – [Reflex](tpn_tudet-feat-Reflex.html) – [Rel](tpn_tudet-feat-Rel.html) – [Tense](tpn_tudet-feat-Tense.html) – [VerbForm](tpn_tudet-feat-VerbForm.html) – [Voice](tpn_tudet-feat-Voice.html)
 
 ## Relations
 
-[acl](tpn_tudet-dep-acl.html) – [advcl](tpn_tudet-dep-advcl.html) – [advmod](tpn_tudet-dep-advmod.html) – [appos](tpn_tudet-dep-appos.html) – [case](tpn_tudet-dep-case.html) – [dep](tpn_tudet-dep-dep.html) – [discourse](tpn_tudet-dep-discourse.html) – [mark](tpn_tudet-dep-mark.html) – [nmod](tpn_tudet-dep-nmod.html) – [nsubj](tpn_tudet-dep-nsubj.html) – [nummod](tpn_tudet-dep-nummod.html) – [obj](tpn_tudet-dep-obj.html) – [obl](tpn_tudet-dep-obl.html) – [parataxis](tpn_tudet-dep-parataxis.html) – [punct](tpn_tudet-dep-punct.html) – [root](tpn_tudet-dep-root.html)
+[acl](tpn_tudet-dep-acl.html) – [advcl](tpn_tudet-dep-advcl.html) – [advmod](tpn_tudet-dep-advmod.html) – [amod](tpn_tudet-dep-amod.html) – [appos](tpn_tudet-dep-appos.html) – [aux](tpn_tudet-dep-aux.html) – [case](tpn_tudet-dep-case.html) – [cc](tpn_tudet-dep-cc.html) – [ccomp](tpn_tudet-dep-ccomp.html) – [compound](tpn_tudet-dep-compound.html) – [conj](tpn_tudet-dep-conj.html) – [dep](tpn_tudet-dep-dep.html) – [det](tpn_tudet-dep-det.html) – [discourse](tpn_tudet-dep-discourse.html) – [mark](tpn_tudet-dep-mark.html) – [nmod](tpn_tudet-dep-nmod.html) – [nsubj](tpn_tudet-dep-nsubj.html) – [nummod](tpn_tudet-dep-nummod.html) – [obj](tpn_tudet-dep-obj.html) – [obl](tpn_tudet-dep-obl.html) – [parataxis](tpn_tudet-dep-parataxis.html) – [punct](tpn_tudet-dep-punct.html) – [root](tpn_tudet-dep-root.html) – [xcomp](tpn_tudet-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 8 sentences, 68 tokens and 76 syntactic words.</li>
+<li>This corpus contains 210 sentences, 1497 tokens and 1515 syntactic words.</li>
 </ul>
 
 <ul>
@@ -99,12 +103,12 @@ The development of the treebank is supported by the by European Research Council
 </ul>
 
 <ul>
-<li>This corpus contains 1 types of words that contain both letters and punctuation. Examples: 'iré</li>
+<li>This corpus contains 10 types of words that contain both letters and punctuation. Examples: S.João, N'owarukáripe, Nd'ojkójpe, Nd'ojmoasɨipe, Santo-Sacramento, nd'erejkój, nd'eʔi, sɨk'eme, t'ojpeʔa, t'oβasem</li>
 </ul>
 
 <ul>
-<li>This corpus contains 7 multi-word tokens. On average, one multi-word token consists of 2.14 syntactic words.</li>
-<li>There are 6 types of multi-word tokens. Examples: jandéjara, Mbaʔepe, Tekoangaipaβokáramo, ojkóβope, rekóreme, tekoangaipaβa.</li>
+<li>This corpus contains 16 multi-word tokens. On average, one multi-word token consists of 2.12 syntactic words.</li>
+<li>There are 15 types of multi-word tokens. Examples: jandéjara, Mbaʔepe, Tekoangaipaβokáramo, aʔeriré, aβɨpotareʔɨma, iʔariré, kwaβiré, marãnamopjã, meʔengiré, ojekɨjjanondé, ojkóβope, ombaʔeʔupaβiré, rekóreme, saʔangiré, tekoangaipaβa.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -112,27 +116,28 @@ The development of the treebank is supported by the by European Research Council
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 10 UPOS tags out of 17 possible: <a>ADP</a>, <a>ADV</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>VERB</a></li>
-<li>This corpus does not use the following tags: ADJ, AUX, SCONJ, CCONJ, INTJ, SYM, X</li>
+<li>This corpus uses 14 UPOS tags out of 17 possible: <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a></li>
+<li>This corpus does not use the following tags: ADJ, SYM, X</li>
 </ul>
 
 <ul>
-<li>This corpus contains 4 word types tagged as particles (PART): pe, Ã, épe, βɨá</li>
+<li>This corpus contains 29 word types tagged as particles (PART): Opa, Petéumẽ, aé, aéte, aʔe, aʔepe, e, jepé, jápe, pe, pjã, rakó, reá, ruã, ré, serã, umẽ, we, ã, é, épe, ɨβɨa, ɨβɨá, ɨβɨɨá, ɲẽ, ɲẽpe, ʃwémo, ʃwépemo, βɨá</li>
 </ul>
 
 <ul>
-<li>This corpus contains 4 lemmas tagged as pronouns (PRON): asé, i, jandé, o</li>
+<li>This corpus contains 16 lemmas tagged as pronouns (PRON): Cirineu, _, amõ, asé, aβá, iʃé, jandé, jepé, marã, mbaʔe, mbaʔepe, o, opa, paβẽ, peẽ, ʃe</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as determiners (DET): kwe</li>
+<li>This corpus contains 11 lemmas tagged as determiners (DET): Eβokwé, _, ajpó, akwé(j), aʔe, ikó, ipó, jaβiʔõ, ko, kwe, kó</li>
 </ul>
 
 <ul>
+<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: _</li>
 </ul>
 
 <ul>
-<li>This corpus contains 0 lemmas tagged as auxiliaries (AUX): </li>
+<li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): in</li>
 </ul>
 
 <ul>
@@ -145,8 +150,9 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Ger
   <ul>
-    <li>NOUN: potasáβamo</li>
-    <li>VERB: ojkóβo, oɲeraneʔɨma</li>
+    <li>AUX: oina</li>
+    <li>NOUN: ipetépeteka, potareʔɨma, potasáβamo, rerojɨpa</li>
+    <li>VERB: ojaβo, meʔenga, motá, ojkóβo, omanõmo, Ojerokɨ, akakapa, aʔupa, ijukáβo, imojá</li>
   </ul>
   </li>
 </ul>
@@ -162,7 +168,8 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Hum
     <ul>
-      <li>NOUN: moreroka</li>
+      <li>NOUN: moroepjakápe</li>
+      <li>VERB-Ger: oporomboʔeβo</li>
     </ul>
   </li>
 </ul>
@@ -174,7 +181,10 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Plur
     <ul>
-      <li>PRON: Jandé</li>
+      <li>ADP: ʃepɨ́rine</li>
+      <li>NOUN: jandéjara, cristãos, kuɲãangaturametá, semimboʔeetá, iirũetá, jandépɨsɨrõ, oréamotareʔɨmbara, oréjar, orépɨsɨrõ, pemembɨrate</li>
+      <li>PRON: Jandé, amõamõ, peẽ</li>
+      <li>VERB: erejkó, pejeapirõ, pesapirõ, tapejkwaβ</li>
     </ul>
   </li>
 </ul>
@@ -182,7 +192,12 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Sing
     <ul>
-      <li>VERB-Ger: ojkóβo</li>
+      <li>ADP: ʃeresé, ʃeswi</li>
+      <li>NOUN: Taʃepɨsɨrõ, ndesɨ, ʃerekó, ʃeruβɨwé, Naʃeremimotara, Ndepópekatu, Taʃemaran, Taʃepeʔa, iʃɨ, jandérepɨmeʔengawera</li>
+      <li>PART: Petéumẽ</li>
+      <li>PRON: Iʃé, jandé, ʃe</li>
+      <li>VERB: Eresawsupe, ajkó, ajukaukáne, arur, asó, naipotari, nd'erejkój, ojkóβo, witekóβo, ʃemoɨrõetékatuaβo</li>
+      <li>VERB-Ger: ojkóβo, witekóβo, ʃemoɨrõetékatuaβo, ʃerapirõmo</li>
     </ul>
   </li>
 </ul>
@@ -192,9 +207,36 @@ The development of the treebank is supported by the by European Research Council
 </ul>
 
 <ul>
+  <li>All
+    <ul>
+      <li>ADV: aʔepe</li>
+      <li>NOUN: okárɨpe, okusupe, ɨβɨtɨrɨpe, moroepjakápe</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Dat
+    <ul>
+      <li>NOUN: tuβape</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Loc
     <ul>
-      <li>NOUN: ekomoɲangáβo, emimotárɨβo</li>
+      <li>DET: aʔepe, aʔepeno</li>
+      <li>NOUN: emimotárɨβo, opɨʔape, pɨʔape, rɨgepe, Ndepópekatu, Oemimotárɨβo, ipópekatu, ipɨ́ri, nderorɨpápe, oenoseme</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Per
+    <ul>
+      <li>ADP: ʔárɨβo</li>
+      <li>NOUN: ʔárɨβo, iporeawsuβerekóβope, ojopɨtérɨβo</li>
     </ul>
   </li>
 </ul>
@@ -202,7 +244,9 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Ref
     <ul>
-      <li>NOUN: jara, angaipaβa, taʔɨra, ʔapira, ʔara, Tuβa, mongaraiβɨpɨra, moreroka, reʔõawera</li>
+      <li>NOUN: jandéjara, ʔara, takwara, raʔangaβa, aotinga, itajuβa, jara, mondá, mombewaβa, oguβa</li>
+      <li>NOUN-Ger: potareʔɨma</li>
+      <li>PRON: asé</li>
     </ul>
   </li>
 </ul>
@@ -210,8 +254,17 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Tra
     <ul>
-      <li>NOUN: okáramo, potasáβamo, seramo</li>
+      <li>NOUN: Rejamo, Tupanamo, Tupãetéramo, apɨaβamo, jaramo, jetanongaβamo, membɨ́ramo, mombewáramo, ojepéβaʔeramo, okáramo</li>
       <li>NOUN-Ger: potasáβamo</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Voc
+    <ul>
+      <li>NOUN: ʃeruβɨwé</li>
+      <li>PART: we</li>
     </ul>
   </li>
 </ul>
@@ -229,7 +282,13 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Neg
     <ul>
-      <li>VERB-Ger: oɲeraneʔɨma</li>
+      <li>ADV: nd'eʔi</li>
+      <li>INTJ: Aʔãni</li>
+      <li>NOUN: Niapɨsɨki, Niʃɨj, nasetéj, nijɨpɨj, Natuβi, Natuβitepe, Naʃeremimotara, Niʃɨjtepe, iatõjmbɨreʔɨma, oréamotareʔɨmbara</li>
+      <li>NOUN-Ger: potareʔɨma</li>
+      <li>PART: umẽ, Petéumẽ, ʃwémo, ʃwépemo</li>
+      <li>VERB: Nd'ojmoasɨipe, aβɨpotareʔɨma, naipotari, nd'erejkój, oɲeraneʔɨma, potareʔɨma</li>
+      <li>VERB-Ger: aβɨpotareʔɨma, oɲeraneʔɨma, potareʔɨma</li>
     </ul>
   </li>
 </ul>
@@ -238,15 +297,56 @@ The development of the treebank is supported by the by European Research Council
 <h3>Verbal Features</h3>
 
 
+<ul>
+  <li><a>Aspect</a></li>
+</ul>
+
+<ul>
+  <li>Compl
+    <ul>
+      <li>VERB: ʔupaβ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Iter
+    <ul>
+      <li>NOUN: inupãnupã, ipetépeteka, seroʔaroʔa</li>
+      <li>NOUN-Ger: ipetépeteka</li>
+      <li>VERB: Oposẽposem, kutukutuka, ojekájeká, opwáopwá, otumũtumunga, oβuoβur, sasapa, sekɨjsekɨjetéβo</li>
+      <li>VERB-Ger: kutukutuka, otumũtumunga, sasapa, sekɨjsekɨjetéβo</li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Mood</a></li>
 </ul>
 
 <ul>
+  <li>Cnd
+    <ul>
+      <li>ADP: supémo</li>
+      <li>NOUN: ʃekwaukámo</li>
+      <li>PART: ʃwémo, ʃwépemo</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Perm
+    <ul>
+      <li>NOUN: Taʃepɨsɨrõ, Taʃemaran, Taʃepeʔa</li>
+      <li>VERB: t'ojpeʔa, t'oβasem, tapejkwaβ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Sub
     <ul>
-      <li>VERB: sɨkeme</li>
+      <li>NOUN: sekóreme, mombeʔureme, sɨkeme, omoʔangekoaíme</li>
     </ul>
   </li>
 </ul>
@@ -256,13 +356,58 @@ The development of the treebank is supported by the by European Research Council
 </ul>
 
 <ul>
-  <li>Past
+  <li>Fut
     <ul>
-      <li>NOUN: Seʔõawera, reʔõawera</li>
+      <li>ADP: ʃepɨ́rine</li>
+      <li>NOUN: ijukasarama, iẽawama, joβasaβetáetáwne, kuɲãangaturama, mombeβawama, oemiʔurama, ojukawame, owerama, serekoarama, soarama</li>
+      <li>VERB: ʔárine, ajukaukáne</li>
     </ul>
   </li>
 </ul>
 
+<ul>
+  <li>Past
+    <ul>
+      <li>NOUN: seʔõawera, seʔõmbwera, Ojukaawera, imojarɨpɨrwera, imoperépereβawera, inupãsawera, iɲuβãni, jandérepɨmeʔengawera, jemobokaβawera, oangajpawera</li>
+      <li>VERB-Ger: oɲemosakojaβo</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Voice</a></li>
+</ul>
+
+<ul>
+  <li>Cau
+    <ul>
+      <li>NOUN: ijukaukar, imoerapwanɨmbɨra, imojarɨpɨrwera, moetéw, moini, moreroka, moʔãmi, omoʔangekoaíme, rerojɨpa, ʃekwaukámo</li>
+      <li>NOUN-Ger: rerojɨpa</li>
+      <li>VERB: moeté, ojmoeté, Nd'ojmoasɨipe, Ojmoasɨ, Ojmoʔɨʔu, Ojmoʔɨʔupe, ajukaukáne, moasɨ́aβo, momoʃɨaβo, mopena</li>
+      <li>VERB-Ger: moasɨ́aβo, momoʃɨaβo, mopena, mosɨrɨka, sepjakuká</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Com
+    <ul>
+      <li>NOUN: oenoseme, rerasow, senosemi</li>
+      <li>VERB: owerasó, arur, ogueru, oweru, owerur, senosema, serojɨpa</li>
+      <li>VERB-Ger: senosema, serojɨpa</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Mid
+    <ul>
+      <li>NOUN: ojekɨj</li>
+      <li>VERB: Ojeaɨβɨk, Ojerokɨpe</li>
+      <li>VERB-Ger: Ojeaɨβɨk</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
@@ -273,9 +418,25 @@ The development of the treebank is supported by the by European Research Council
 </ul>
 
 <ul>
+  <li>Ind
+    <ul>
+      <li>PRON: amõ, paβẽ, amõamõ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Int
+    <ul>
+      <li>PRON: marã, aβá, Aβápe, Mbaʔepe, sumarã, ʃesumarã</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Prs
     <ul>
-      <li>PRON: aséβe, jandé</li>
+      <li>PRON: asé, iʃé, aséβe, jandé, peẽ, ʃe</li>
     </ul>
   </li>
 </ul>
@@ -287,7 +448,7 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Card
     <ul>
-      <li>NUM: Mokõj, ojoirundɨk</li>
+      <li>NUM: mokõj, mosapɨr, ojepé</li>
     </ul>
   </li>
 </ul>
@@ -297,10 +458,9 @@ The development of the treebank is supported by the by European Research Council
 </ul>
 
 <ul>
-  <li>Yes
+  <li>Hum
     <ul>
-      <li>NOUN: tekó, seramo</li>
-      <li>PRON: i</li>
+      <li>NOUN: moroposanongara, mosanga</li>
     </ul>
   </li>
 </ul>
@@ -312,8 +472,11 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Yes
     <ul>
-      <li>NOUN: ogupjarama, ɲemeʔẽngi</li>
+      <li>ADP: ojoupé, ojoesé, ojoswi</li>
+      <li>NOUN: osɨ, oguβa, Oguwɨ, Oker, oakangaoβĩ, oeʔõ, ogupjarama, omaʔendwáramo, ombaʔe, opɨʔape</li>
       <li>PRON: o</li>
+      <li>VERB: Ojeaɨβɨk, Ojepoej, Ojerokɨ, Ojerokɨpe, Oɲenomũnomũ, ojekájeká, ojemotupana, ojoβasapa, oɲemopɨtun, oɲemosakojaβo</li>
+      <li>VERB-Ger: Ojeaɨβɨk, Ojerokɨ, Ojerokɨpe, ojoβasapa, oɲemosakojaβo</li>
     </ul>
   </li>
 </ul>
@@ -325,7 +488,39 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>1
     <ul>
-      <li>PRON: Jandé</li>
+      <li>ADP: ʃepɨ́rine, ʃeresé, ʃeswi</li>
+      <li>NOUN: jandéjara, Taʃepɨsɨrõ, ʃerekó, ʃeruβɨwé, Naʃeremimotara, Taʃemaran, Taʃepeʔa, iʃɨ, jandépɨsɨrõ, jandérepɨmeʔengawera</li>
+      <li>PRON: jandé, Iʃé, ʃe</li>
+      <li>VERB: ajkó, ajukaukáne, arur, asó, witekóβo, ʃemoɨrõetékatuaβo, ʃerapirõmo</li>
+      <li>VERB-Ger: witekóβo, ʃemoɨrõetékatuaβo, ʃerapirõmo</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>13
+    <ul>
+      <li>VERB: naipotari</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>2
+    <ul>
+      <li>NOUN: ndesɨ, Ndepópekatu, ndejoawsuβa, ndemaʔendwar, ndembaʔe, ndemembɨra, ndemena, nderapiʃara, nderaʔɨra, nderekó</li>
+      <li>PART: Petéumẽ</li>
+      <li>PRON: peẽ</li>
+      <li>VERB: erejkó, nd'erejkój, pejeapirõ, pesapirõ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>23
+    <ul>
+      <li>NOUN: pemembɨrate</li>
+      <li>VERB: Eresawsupe, tapejkwaβ</li>
     </ul>
   </li>
 </ul>
@@ -333,7 +528,19 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>3
     <ul>
-      <li>VERB-Ger: ojkóβo</li>
+      <li>AUX-Ger: oina</li>
+      <li>NOUN: Ojaseʔõerekó, ojkóβaʔe, oasẽngatúramo, ogókɨpe, ojopɨtérɨβo, osembaʔe, owatáβaʔe</li>
+      <li>VERB: eʔi, eʔipe, ojaβo, Osó, Owatá, ojkóβo, omanõmo, owerasó, Nd'ojkójpe, opjá</li>
+      <li>VERB-Ger: ojaβo, ojkóβo, omanõmo, osóβo, Ojeaɨβɨk, ojaseʔõerekóβo, ojaβope, ojoβasapa, ojáβope, omemwãnamo</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>33
+    <ul>
+      <li>VERB: Ojaratã, ojmeʔeŋ, Ojaoβok, Ojerokɨ, Ojerokɨpe, Ojmongetá, Ojpɨsó, Osapjar, Osapjápe, Osokendaβ</li>
+      <li>VERB-Ger: Ojerokɨ, Ojerokɨpe</li>
     </ul>
   </li>
 </ul>
@@ -347,8 +554,14 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li><a>Clusivity</a>
     <ul>
+      <li>Ex
+        <ul>
+          <li>NOUN: oréamotareʔɨmbara, oréjar, orépɨsɨrõ</li>
+        </ul>
+      </li>
       <li>In
         <ul>
+          <li>NOUN: jandéjara, jandépɨsɨrõ, jandérepɨmeʔengawera</li>
           <li>PRON: jandé</li>
         </ul>
       </li>
@@ -357,11 +570,81 @@ The development of the treebank is supported by the by European Research Council
 </ul>
 
 <ul>
-  <li><a>Nomz</a>
+  <li><a>ConjType</a>
     <ul>
-      <li>Circ
+      <li>Disj
         <ul>
-          <li>NOUN: ɲɨrõkatúramo, ɲemeʔẽngi</li>
+          <li>CCONJ: kojpó</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Dev</a>
+    <ul>
+      <li>Pass
+        <ul>
+          <li>NOUN: Naʃeremimotara, iatõjmbɨreʔɨma, imojarɨpɨ́ramo, nderemirekó, oemiʔurama</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Emph</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>NOUN: joβasaβetáetáwne, joβasáβine</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Incorp</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>VERB: Ojaoβok, Ijaoβoka, Ojepoej, Ojmoʔɨʔu, Ojmoʔɨʔupe, oporomboʔeβo</li>
+          <li>VERB-Ger: Ijaoβoka, oporomboʔeβo</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Int</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADP: pupépe, swipe, resépe</li>
+          <li>ADV: marã, Marãnamope, Marãpe, βépe, aβépe, Mamõpe, Marãnemetepe, aβépeno, marãnamo</li>
+          <li>DET: aʔepe</li>
+          <li>NOUN: Aβápe, Natuβitepe, Niʃɨjtepe, osɨβápe, ɨβákɨpe</li>
+          <li>PART: ɲẽpe, aʔepe, ʃwémo, ʃwépemo</li>
+          <li>SCONJ: jaβépe</li>
+          <li>VERB: eʔipe, Eresawsupe, Nd'ojmoasɨipe, Ojerokɨpe, Ojmoʔɨʔupe, Ojpotakatupe, Ojtɨ́kɨpe, Osoβasápe, ojáβope</li>
+          <li>VERB-Ger: ojáβope</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Intens</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>NOUN: Tupãetéramo, Ndepópekatu, Turusukatu, apɨaβetéramo, apɨ́aβetéramo, iporangete, ipópekatu, oasẽngatúramo, oporeawsuβetekatúramo, renõjndaβeté</li>
+          <li>VERB: Ojeaɨβɨk, Ojpotakatu, Ojpotakatupe, ʃemoɨrõetékatuaβo</li>
+          <li>VERB-Ger: Ojeaɨβɨk, ʃemoɨrõetékatuaβo</li>
         </ul>
       </li>
     </ul>
@@ -371,15 +654,62 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li><a>Nomzr</a>
     <ul>
-      <li>Circ
+      <li>Ag
         <ul>
-          <li>NOUN: potasáβamo, reʔõawera</li>
-          <li>NOUN-Ger: potasáβamo</li>
+          <li>NOUN: iporeawsuβerekosáramo, itɨmbáramo, ojukasara, oréamotareʔɨmbara, reroβjasáramo, serobβjasareʔɨma, seroβjasara, soarama, tekoara</li>
         </ul>
       </li>
-      <li>DevPass
+      <li>CCirc
         <ul>
-          <li>NOUN: mongaraiβɨpɨra</li>
+          <li>NOUN: ɨβakɨpendwara</li>
+        </ul>
+      </li>
+      <li>Circ
+        <ul>
+          <li>NOUN: raʔangaβa, jetanongaβamo, maʔendwasaβaiβa, sembaβa, ɨβɨrajoasaβa, ɲɨrõkatúramo, Saʔangáβamo, ijukasaβa, imoperépereβawera, inupãsawera</li>
+          <li>NOUN-Ger: potasáβamo</li>
+          <li>VERB-Ger: oɲemosakojaβo</li>
+        </ul>
+      </li>
+      <li>Pas
+        <ul>
+          <li>NOUN: imongaraiβɨpɨra, imoerapwanɨmbɨra, imojarɨpɨrwera, remimoɲanga, seroβiarɨpɨra, ʃeaɲangusumiʃɨra</li>
+        </ul>
+      </li>
+      <li>Rel
+        <ul>
+          <li>NOUN: ojkóβaʔe, serɨβaʔe, osembaʔe, owatáβaʔe, sérɨβaʔe, sɨapwanɨβaʔe</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>OblTop</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>NOUN: sereków, iʔew, rereków, seków, joβasáβi, kutúki, mondoki, nongi, potɨrõw, reków</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Red</a>
+    <ul>
+      <li>Di
+        <ul>
+          <li>NOUN: imoperépereβawera, joβasaβetáetáwne</li>
+          <li>VERB: ojekájeká, opwáopwá, otumũtumunga, owasẽasẽmamo</li>
+          <li>VERB-Ger: otumũtumunga, owasẽasẽmamo</li>
+        </ul>
+      </li>
+      <li>Mo
+        <ul>
+          <li>VERB: oβuoβur</li>
         </ul>
       </li>
     </ul>
@@ -391,17 +721,29 @@ The development of the treebank is supported by the by European Research Council
     <ul>
       <li>Abs
         <ul>
-          <li>NOUN: teko, Tuβa</li>
+          <li>NOUN: Tuβa, taʔɨra, teko, toʔo, tekoara, taβusu, tekó, tekópɨsasu, Natuβi, Natuβitepe</li>
         </ul>
       </li>
       <li>Cont
         <ul>
-          <li>NOUN: rekó</li>
+          <li>ADP: resé, supé, swi, pupé, rupi, ipupé, iré, naʃeresé, ʔári, ojoupé</li>
+          <li>NOUN: jandéjara, rawsúβi, ʃeruβɨwé, jári, ratá, raʔɨreté, rekó, reków, rera, rerekoara</li>
+          <li>NOUN-Ger: ipetépeteka, rerojɨpa</li>
+          <li>VERB-Ger: mondepa, rapekóβo, rejá, reropwá, reʔɨɲanga, ʃerapirõmo</li>
+        </ul>
+      </li>
+      <li>Hum
+        <ul>
+          <li>NOUN: moroesé, mosanga</li>
         </ul>
       </li>
       <li>NCont
         <ul>
-          <li>NOUN: Seʔõawera</li>
+          <li>ADP: sesé, iʃupé, ipupé, ipɨ́ri, iʃuí, iʃwi, iʃwí, iʔárɨβo, soβaké, supé</li>
+          <li>NOUN: iʃɨ, sekó, seków, sekóreme, sereków, soβá, Ikatupe, Suwɨsɨrɨk, ipɨ, seroβjámo</li>
+          <li>SCONJ: ijaβé</li>
+          <li>VERB: Ojmongetá, iatɨkáβo, ijukáβo, Ijaoβoka, Nd'ojmoasɨipe, Ojmoasɨ, Ojtɨk, Ojtɨ́kɨpe, ikwaβeʔenga, imoingóβo</li>
+          <li>VERB-Ger: ijukáβo, Ijaoβoka, ikwaβeʔenga, imoingóβo, imojáno, imondepa, imondóβo, ipɨtɨβõmo, iʔwaβo, ojaβo</li>
         </ul>
       </li>
     </ul>
@@ -417,7 +759,7 @@ The development of the treebank is supported by the by European Research Council
 </ul>
 
 <ul>
-<li>This corpus does not contain auxiliaries.</li>
+<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: in.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -426,7 +768,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Ref (1)</li>
+      <li>VERB--NOUN (1)</li>
+      <li>VERB--NOUN-Ref (5)</li>
+      <li>VERB--PRON (4)</li>
+      <li>VERB-Ger--NOUN (2)</li>
+      <li>VERB-Ger--NOUN-Ref (1)</li>
+      <li>VERB-Ger--PRON (1)</li>
     </ul>
   </li>
 </ul>
@@ -434,6 +781,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
+      <li>VERB--NOUN (4)</li>
+      <li>VERB--NOUN-ADP(janondé) (1)</li>
+      <li>VERB--NOUN-Ref (5)</li>
+      <li>VERB--NOUN-Ref-ADP(esé) (1)</li>
+      <li>VERB--PRON (3)</li>
+      <li>VERB-Ger--NOUN (16)</li>
+      <li>VERB-Ger--NOUN-ADP(esé) (1)</li>
+      <li>VERB-Ger--NOUN-ADP(supé) (1)</li>
+      <li>VERB-Ger--NOUN-ADP(swi) (1)</li>
+      <li>VERB-Ger--NOUN-Ref (8)</li>
     </ul>
   </li>
 </ul>
@@ -447,10 +804,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 
 
+<h3>Verbs with Reflexive Core Objects</h3>
+
+<ul>
+  <li>This corpus contains 7 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: mongetá oguβa, _ oangajpawera, akakaβ oapiʃara, ar owerama, meʔeng osɨ, so omembɨra, ʔi oeʔõ</li>
+</ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
 <li>This corpus does not use relation subtypes.</li>
-<li>The following 21 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>ccomp</a>, <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>aux</a>, <a>cop</a>, <a>amod</a>, <a>det</a>, <a>clf</a>, <a>conj</a>, <a>cc</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 13 relation types are not used in this corpus at all: <a>iobj</a>, <a>csubj</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>cop</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

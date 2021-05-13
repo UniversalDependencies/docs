@@ -73,17 +73,17 @@ The 3rd highest number of forms (1) was observed with the lemma “ای”: ای
 
 Parents of `INTJ` nodes belong to 6 different parts of speech: <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (38; 55% instances), <tt><a href="fa_seraji-pos-VERB.html">VERB</a></tt> (18; 26% instances), <tt><a href="fa_seraji-pos-ADJ.html">ADJ</a></tt> (6; 9% instances),  (4; 6% instances), <tt><a href="fa_seraji-pos-X.html">X</a></tt> (2; 3% instances), <tt><a href="fa_seraji-pos-ADV.html">ADV</a></tt> (1; 1% instances)
 
-60 (87%) `INTJ` nodes are leaves.
+37 (54%) `INTJ` nodes are leaves.
 
-8 (12%) `INTJ` nodes have one child.
+29 (42%) `INTJ` nodes have one child.
 
-0 (0%) `INTJ` nodes have two children.
+2 (3%) `INTJ` nodes have two children.
 
 1 (1%) `INTJ` nodes have three or more children.
 
 The highest child degree of a `INTJ` node is 3.
 
-Children of `INTJ` nodes are attached using 5 different relations: <tt><a href="fa_seraji-dep-punct.html">punct</a></tt> (5; 45% instances), <tt><a href="fa_seraji-dep-cc.html">cc</a></tt> (3; 27% instances), <tt><a href="fa_seraji-dep-case.html">case</a></tt> (1; 9% instances), <tt><a href="fa_seraji-dep-nmod.html">nmod</a></tt> (1; 9% instances), <tt><a href="fa_seraji-dep-parataxis.html">parataxis</a></tt> (1; 9% instances)
+Children of `INTJ` nodes are attached using 5 different relations: <tt><a href="fa_seraji-dep-punct.html">punct</a></tt> (30; 83% instances), <tt><a href="fa_seraji-dep-cc.html">cc</a></tt> (3; 8% instances), <tt><a href="fa_seraji-dep-case.html">case</a></tt> (1; 3% instances), <tt><a href="fa_seraji-dep-nmod.html">nmod</a></tt> (1; 3% instances), <tt><a href="fa_seraji-dep-parataxis.html">parataxis</a></tt> (1; 3% instances)
 
-Children of `INTJ` nodes belong to 5 different parts of speech: <tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (5; 45% instances), <tt><a href="fa_seraji-pos-CCONJ.html">CCONJ</a></tt> (3; 27% instances), <tt><a href="fa_seraji-pos-ADP.html">ADP</a></tt> (1; 9% instances), <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt> (1; 9% instances)
+Children of `INTJ` nodes belong to 5 different parts of speech: <tt><a href="fa_seraji-pos-PUNCT.html">PUNCT</a></tt> (30; 83% instances), <tt><a href="fa_seraji-pos-CCONJ.html">CCONJ</a></tt> (3; 8% instances), <tt><a href="fa_seraji-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="fa_seraji-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="fa_seraji-pos-PRON.html">PRON</a></tt> (1; 3% instances)
 

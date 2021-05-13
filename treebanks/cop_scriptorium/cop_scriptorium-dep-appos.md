@@ -22,7 +22,7 @@ The following 16 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 10 appos	color:blue
-1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	_	5	cc	_	_
+1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	5	cc	_	OrigLang=grc
 2	ⲉ	ⲉⲣⲉ	PART	CFOC	_	5	mark	_	_
 3	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
 4	ⲛⲁ	ⲛⲁ	AUX	FUT	_	5	aux	_	_
@@ -45,13 +45,13 @@ The following 16 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 7 9 appos	color:blue
 1	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Entity=(person
 2	ⲣⲣⲟ	ⲣⲣⲟ	NOUN	N	_	4	dislocated	_	Entity=person)|Orig=ⲣ̄ⲣⲟ
-3	ⲇⲉ	ⲇⲉ	PART	PTC	_	4	advmod	_	_
+3	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	4	advmod	_	OrigLang=grc
 4	ⲡⲉϫⲁ	ⲡⲉϫⲉ	VERB	VBD	VerbForm=Fin	0	root	_	_
 5	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 6	ⲛ	ⲛ	ADP	PREP	_	7	case	_	Orig=ⲛ̄
-7	ϩⲣⲱⲙⲁⲛⲟⲥ	ϩⲣⲱⲙⲁⲛⲟⲥ	PROPN	NPROP	_	4	obl	_	Entity=(person
+7	ϩⲣⲱⲙⲁⲛⲟⲥ	ϩⲣⲱⲙⲁⲛⲟⲥ	PROPN	NPROP	Foreign=Yes	4	obl	_	Entity=(person|OrigLang=grc
 8	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	ⲥⲧⲣⲁⲧⲏⲗⲁⲧⲏⲥ	ⲥⲧⲣⲁⲧⲏⲗⲁⲧⲏⲥ	NOUN	N	_	7	appos	_	Entity=person)
+9	ⲥⲧⲣⲁⲧⲏⲗⲁⲧⲏⲥ	ⲥⲧⲣⲁⲧⲏⲗⲁⲧⲏⲥ	NOUN	N	Foreign=Yes	7	appos	_	Entity=person)|OrigLang=grc
 10	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
@@ -65,14 +65,14 @@ The following 16 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 2 4 appos	color:blue
 1	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Entity=(person-Diocletian
 2	ⲣⲣⲟ	ⲣⲣⲟ	NOUN	N	_	7	dislocated	_	Orig=ⲣ̄ⲣⲟ
-3	ⲇⲉ	ⲇⲉ	PART	PTC	_	7	advmod	_	_
-4	ⲇⲓⲟⲕⲗⲏϯⲁⲛⲟⲥ	ⲇⲓⲟⲕⲗⲏϯⲁⲛⲟⲥ	PROPN	NPROP	_	2	appos	_	Entity=person-Diocletian)|Orig=ⲇⲓⲟ̄ⲕⲗⲏϯⲁⲛⲟⲥ
+3	ⲇⲉ	ⲇⲉ	PART	PTC	Foreign=Yes	7	advmod	_	OrigLang=grc
+4	ⲇⲓⲟⲕⲗⲏϯⲁⲛⲟⲥ	ⲇⲓⲟⲕⲗⲏϯⲁⲛⲟⲥ	PROPN	NPROP	Foreign=Yes	2	appos	_	Entity=person-Diocletian)|Orig=ⲇⲓⲟ̄ⲕⲗⲏϯⲁⲛⲟⲥ|OrigLang=la
 5	ⲁ	ⲁ	AUX	APST	_	7	aux	_	_
 6	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
-7	ϩⲣⲟⲕⲉⲩⲉ	ϩⲣⲟⲕⲉⲩⲉ	VERB	V	VerbForm=Fin	0	root	_	_
+7	ϩⲣⲟⲕⲉⲩⲉ	ϩⲣⲟⲕⲉⲩⲉ	VERB	V	Foreign=Yes|VerbForm=Fin	0	root	_	OrigLang=grc
 8	ⲛ	ⲛ	ADP	PREP	_	10	case	_	Orig=ⲛ̄
 9	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	Entity=(place
-10	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	_	7	obl	_	_
+10	ⲡⲟⲗⲓⲥ	ⲡⲟⲗⲓⲥ	NOUN	N	Foreign=Yes	7	obl	_	OrigLang=grc
 11	ⲧⲏⲣ	ⲧⲏⲣ	ADV	IMOD	PronType=Tot	10	advmod	_	_
 12	ⲥ	ⲛⲧⲟⲥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	11	det	_	Entity=place)|Orig=ⲥ̄
 13	·	·	PUNCT	PUNCT	_	16	punct	_	_

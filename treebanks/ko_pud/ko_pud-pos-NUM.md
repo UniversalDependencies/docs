@@ -42,11 +42,11 @@ The 2nd highest number of forms (4) was observed with the lemma “하나”: �
 
 The 3rd highest number of forms (2) was observed with the lemma “1”: 1, 1은.
 
-`NUM` occurs with 3 features: <tt><a href="ko_pud-feat-NumType.html">NumType</a></tt> (513; 100% instances), <tt><a href="ko_pud-feat-Polite.html">Polite</a></tt> (11; 2% instances), <tt><a href="ko_pud-feat-Case.html">Case</a></tt> (10; 2% instances)
+`NUM` occurs with 3 features: <tt><a href="ko_pud-feat-NumType.html">NumType</a></tt> (513; 100% instances), <tt><a href="ko_pud-feat-Polite.html">Polite</a></tt> (11; 2% instances), <tt><a href="ko_pud-feat-Case.html">Case</a></tt> (5; 1% instances)
 
-`NUM` occurs with 5 feature-value pairs: `Case=Acc`, `Case=Advb`, `Case=Nom`, `NumType=Card`, `Polite=Form`
+`NUM` occurs with 4 feature-value pairs: `Case=Acc`, `Case=Nom`, `NumType=Card`, `Polite=Form`
 
-`NUM` occurs with 5 feature combinations.
+`NUM` occurs with 4 feature combinations.
 The most frequent feature combination is `NumType=Card` (502 tokens).
 Examples: 1, 10, 3, 2, 4, 6, 20, 8, 5, 9
 

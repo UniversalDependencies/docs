@@ -22,7 +22,7 @@ The following 2 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 10 obj:agent	color:blue
-1	Les	le	DET	DT	Gender=Masc|Number=Plur	3	det	_	wordform=les
+1	Les	le	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	wordform=les
 2	bons	bon	ADJ	JJ	Gender=Masc|Number=Plur	3	amod	_	_
 3	résultats	résultat	NOUN	NN	Gender=Masc|Number=Plur	7	nsubj:caus	_	_
 4	en	en	ADP	IN	_	5	case	_	_
@@ -30,7 +30,7 @@ The following 2 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 6	faisaient	faire	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	aux:caus	_	_
 7	monter	monter	VERB	VB	VerbForm=Inf	0	root	_	_
 8	immédiatement	immédiatement	ADV	RB	_	7	advmod	_	_
-9	les	le	DET	DT	Gender=Masc|Number=Plur	10	det	_	_
+9	les	le	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
 10	marchés	marché	NOUN	NN	Gender=Masc|Number=Plur	7	obj:agent	_	_
 11	boursiers	boursier	ADJ	JJ	Gender=Masc|Number=Plur	10	amod	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	7	punct	_	_
@@ -44,11 +44,11 @@ The following 2 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 5 obj:agent	color:blue
-1	C'	ce	PRON	PDEM	_	3	nsubj	_	SpaceAfter=No|wordform=c'
+1	C'	ce	PRON	PDEM	PronType=Dem	3	nsubj	_	SpaceAfter=No|wordform=c'
 2	est	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
-3	ce	ce	PRON	PDEM	_	0	root	_	_
-4	qui	qui	PRON	WP	_	7	nsubj:caus	_	_
-5	nous	le	PRON	PRP	Number=Plur|Person=1	7	obj:agent	_	_
+3	ce	ce	PRON	PDEM	PronType=Dem	0	root	_	_
+4	qui	qui	PRON	WP	PronType=Rel	7	nsubj:caus	_	_
+5	nous	le	PRON	PRP	Number=Plur|Person=1|PronType=Prs	7	obj:agent	_	_
 6	fait	faire	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:caus	_	_
 7	revenir	revenir	VERB	VB	VerbForm=Inf	3	acl:relcl	_	_
 8	encore	encore	ADV	RB	_	7	advmod	_	_

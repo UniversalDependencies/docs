@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-281 nodes (1%) are attached to their parents as `nummod`.
+279 nodes (1%) are attached to their parents as `nummod`.
 
-238 instances of `nummod` (85%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.65480427046263.
+236 instances of `nummod` (85%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.6594982078853.
 
-The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (230; 82% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (23; 8% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (11; 4% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (6; 2% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="hi_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt>-<tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (230; 82% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (23; 8% instances), <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (11; 4% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (6; 2% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="hi_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt>-<tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -71,7 +71,7 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 3	तीन	_	NUM	CD	NumType=Card	7	nummod	_	Bug=case-child|Translit=tīna
 4	सेट	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	case	_	Bug=case-child|Translit=seṭa
 5	का	_	ADP	IN	Case=Gen|Gender=Masc|Number=Sing	7	case	_	Translit=kā
-6	चकित	_	ADJ	JJ	_	7	compound:conjv	_	Translit=cakita
+6	चकित	_	ADJ	JJ	_	7	compound:lvc	_	Translit=cakita
 7	कर	_	VERB	VB	_	10	acl	_	Translit=kara
 8	देने	_	AUX	VXH	Gender=Masc|Number=Sing|Person=3	7	aux	_	Translit=dene
 9	वाला	_	ADP	SFV	Gender=Masc|Number=Sing	7	case	_	Translit=vālā

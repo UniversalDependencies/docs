@@ -24,7 +24,7 @@ The following 14 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 12 16 orphan	color:blue
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj|10.1:nsubj|12:nsubj	_
 2	actually	actually	ADV	RB	_	3	advmod	3:advmod	_
-3	loss	lose	VERB	VBD	Mood=Ind|Tense=Past|Typo=Yes|VerbForm=Fin	0	root	0:root	_
+3	loss	lose	VERB	VBD	Mood=Ind|Tense=Past|Typo=Yes|VerbForm=Fin	0	root	0:root	CorrectForm=lose
 4	4	4	NUM	CD	NumType=Card	5	nummod	5:nummod	_
 5	pounds	pound	NOUN	NNS	Number=Plur	3	obj	3:obj	_
 6	after	after	ADP	IN	_	9	case	9:case	_

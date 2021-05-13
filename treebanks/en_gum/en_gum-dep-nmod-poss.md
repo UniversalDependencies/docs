@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="en_gum-dep-nmod.html">nmod</a></tt>.
 There are also 2 other language-specific subtypes of `nmod`: <tt><a href="en_gum-dep-nmod-npmod.html">nmod:npmod</a></tt>, <tt><a href="en_gum-dep-nmod-tmod.html">nmod:tmod</a></tt>.
 
-2096 nodes (2%) are attached to their parents as `nmod:poss`.
+2437 nodes (2%) are attached to their parents as `nmod:poss`.
 
-2094 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.69751908396947.
+2436 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.67131719327041.
 
-The following 14 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1606; 77% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (192; 9% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (169; 8% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (76; 4% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (24; 1% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (13; 1% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1882; 77% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (216; 9% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (188; 8% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (76; 3% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (37; 2% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (15; 1% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt>-<tt><a href="en_gum-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,17 +23,17 @@ The following 14 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nmod:poss	color:blue
-1	His	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	Discourse=preparation:20->21|Entity=(abstract-34(person-3)
-2	lack	lack	NOUN	NN	Number=Sing	7	nsubj:pass	_	_
-3	of	of	ADP	IN	_	4	case	_	_
-4	moderation	moderation	NOUN	NN	Number=Sing	2	nmod	_	Entity=(abstract-35)abstract-34)
-5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
-6	not	not	PART	RB	Polarity=Neg	7	advmod	_	_
-7	restricted	restrict	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-8	to	to	ADP	IN	_	10	case	_	_
-9	physical	physical	ADJ	JJ	Degree=Pos	10	amod	_	Entity=(event-36
-10	exercise	exercise	NOUN	NN	Number=Sing	7	obl	_	Entity=event-36)|SpaceAfter=No
-11	.	.	PUNCT	.	_	7	punct	_	_
+1	His	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	Discourse=preparation:20->21|Entity=(abstract-34(person-3-Lord_Byron)
+2	lack	lack	NOUN	NN	Number=Sing	7	nsubj:pass	7:nsubj:pass	_
+3	of	of	ADP	IN	_	4	case	4:case	_
+4	moderation	moderation	NOUN	NN	Number=Sing	2	nmod	2:nmod:of	Entity=(abstract-35)abstract-34)
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	7:aux:pass	_
+6	not	not	PART	RB	Polarity=Neg	7	advmod	7:advmod	_
+7	restricted	restrict	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
+8	to	to	ADP	IN	_	10	case	10:case	_
+9	physical	physical	ADJ	JJ	Degree=Pos	10	amod	10:amod	Entity=(event-36
+10	exercise	exercise	NOUN	NN	Number=Sing	7	obl	7:obl:to	Entity=event-36)|SpaceAfter=No
+11	.	.	PUNCT	.	_	7	punct	7:punct	_
 
 ~~~
 
@@ -44,12 +44,12 @@ The following 14 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 3 nmod:poss	color:blue
-1	One	One	NUM	CD	NumType=Card	0	root	_	Discourse=evidence:64->65|Entity=(object-108
-2	of	of	ADP	IN	_	6	case	_	_
-3	Norton	Norton	PROPN	NNP	Number=Sing	6	nmod:poss	_	Entity=(person-1|SpaceAfter=No
-4	's	's	PART	POS	_	3	case	_	Entity=person-1)
-5	undated	undated	ADJ	JJ	Degree=Pos|Polarity=Neg	6	amod	_	_
-6	proclamations	proclamation	NOUN	NNS	Number=Plur	1	nmod	_	Entity=object-108)
+1	One	one	NUM	CD	NumForm=Word|NumType=Card	0	root	0:root	Bridge=abstract-41<object-108|Discourse=evidence:64->65|Entity=(object-108
+2	of	of	ADP	IN	_	6	case	6:case	_
+3	Norton	Norton	PROPN	NNP	Number=Sing	6	nmod:poss	6:nmod:poss	Entity=(person-1-Emperor_Norton
+4	's	's	PART	POS	_	3	case	3:case	Entity=person-1-Emperor_Norton)
+5	undated	undated	ADJ	JJ	Degree=Pos|Polarity=Neg	6	amod	6:amod	_
+6	proclamations	proclamation	NOUN	NNS	Number=Plur	1	nmod	1:nmod:of	Entity=object-108)
 
 ~~~
 
@@ -60,20 +60,20 @@ The following 14 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 6 nmod:poss	color:blue
-1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	Discourse=elaboration:18->17|Entity=(abstract-21)|SpaceAfter=No
-2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
-3	best	good	ADJ	JJS	Degree=Sup	0	root	_	_
-4	to	to	PART	TO	_	5	mark	_	Entity=(abstract-21
-5	wash	wash	VERB	VB	VerbForm=Inf	3	csubj	_	_
-6	adults	adult	NOUN	NNS	Number=Plur	8	nmod:poss	_	Entity=(object-8(person-9|SpaceAfter=No
-7	’	's	PART	POS	_	6	case	_	Entity=person-9)
-8	overalls	overall	NOUN	NNS	Number=Plur	5	obj	_	Entity=object-8)
-9	alone	alone	ADV	RB	_	5	advmod	_	Entity=abstract-21)|SpaceAfter=No
-10	,	,	PUNCT	,	_	12	punct	_	_
-11	especially	especially	ADV	RB	_	12	advmod	_	_
-12	men	man	NOUN	NNS	Number=Plur	8	appos	_	Entity=(person-22|SpaceAfter=No
-13	’s	's	PART	POS	_	12	case	_	Entity=person-22)|SpaceAfter=No
-14	.	.	PUNCT	.	_	3	punct	_	_
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	3:expl	Discourse=elaboration:18->17|Entity=(abstract-21)
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	3:cop	_
+3	best	good	ADJ	JJS	Degree=Sup	0	root	0:root	_
+4	to	to	PART	TO	_	5	mark	5:mark	Entity=(abstract-21
+5	wash	wash	VERB	VB	VerbForm=Inf	3	csubj	3:csubj	_
+6	adults	adult	NOUN	NNS	Number=Plur	8	nmod:poss	8:nmod:poss	Entity=(object-8(person-9
+7	’	's	PART	POS	_	6	case	6:case	Entity=person-9)
+8	overalls	overall	NOUN	NNS	Number=Plur	5	obj	5:obj	Entity=object-8)
+9	alone	alone	ADV	RB	Degree=Pos	5	advmod	5:advmod	Entity=abstract-21)|SpaceAfter=No
+10	,	,	PUNCT	,	_	12	punct	12:punct	_
+11	especially	especially	ADV	RB	Degree=Pos	12	advmod	12:advmod	_
+12	men	man	NOUN	NNS	Number=Plur	8	appos	8:appos	Entity=(person-22
+13	’s	's	PART	POS	_	12	case	12:case	Entity=person-22)
+14	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 ~~~
 

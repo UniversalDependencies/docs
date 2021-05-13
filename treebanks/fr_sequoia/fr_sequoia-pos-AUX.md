@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-Sequoia: POS Tags: `AUX`
 
 There are 3 `AUX` lemmas (0%), 49 `AUX` types (0%) and 2301 `AUX` tokens (3%).
-Out of 17 observed tags, the rank of `AUX` is: 14 in number of lemmas, 11 in number of types and 10 in number of tokens.
+Out of 16 observed tags, the rank of `AUX` is: 14 in number of lemmas, 11 in number of types and 10 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>être, avoir, faire</em>
 
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>est</em> (<tt><a href="fr_sequoia-pos
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 16.333333 (the average of all parts of speech is 1.405182).
+The form / lemma ratio of `AUX` is 16.333333 (the average of all parts of speech is 1.405809).
 
 The 1st highest number of forms (24) was observed with the lemma “être”: <em>ETRE, Etaient, est, furent, fut, sera, seraient, serais, serait, seront, soient, sois, soit, sommes, sont, soyons, suis, étaient, étais, était, étant, été, êtes, être</em>.
 

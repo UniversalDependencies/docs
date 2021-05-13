@@ -23,12 +23,12 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 5	fgColor:white
 # visual-style 5 7 compound	color:blue
 1	quod	quod	SCONJ	O4	_	3	mark	_	_
-2	matrimonium	matrimonium	NOUN	B1|grn1|casA|gen3	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	nsubj	_	_
+2	matrimonium	matrimonium	NOUN	B1|grn1|casA|gen3	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
 3	debeat	debeo	VERB	K3|modB|tem1|gen6	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|VerbType=Mod|Voice=Act	0	root	_	_
 4	esse	sum	AUX	N3|modH|tem1	Tense=Pres|VerbForm=Inf|Voice=Act	5	cop	_	_
-5	unius	unus	NUM	F1|grn1|casB|gen1|vgr2	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|NumType=Card	3	xcomp	_	_
+5	unius	unus	NUM	F1|grn1|casB|gen1|vgr2	Case=Gen|Gender=Masc|Number=Sing|NumType=Card	3	xcomp	_	_
 6	ad	ad	ADP	S4	AdpType=Prep	7	case	_	_
-7	unam	unus	NUM	F1|grn1|casD|gen2	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|NumType=Card	5	compound	_	SpaceAfter=No
+7	unam	unus	NUM	F1|grn1|casD|gen2	Case=Acc|Gender=Fem|Number=Sing|NumType=Card	5	compound	_	SpaceAfter=No
 8	.	.	PUNCT	Punc	_	3	punct	_	_
 
 ~~~

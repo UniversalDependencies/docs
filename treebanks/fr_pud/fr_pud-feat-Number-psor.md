@@ -20,7 +20,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="fr_pud-pos-DET.html
 
 275 <tt><a href="fr_pud-pos-DET.html">DET</a></tt> tokens (7% of all `DET` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (200; 73%), <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (146; 53%).
+The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="fr_pud-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (275; 100%), <tt><a href="fr_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (275; 100%), <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (200; 73%), <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (146; 53%).
 
 `DET` tokens may have the following values of `Number[psor]`:
 
@@ -50,7 +50,7 @@ The most frequent other feature values with which `DET` and `Number[psor]` co-oc
 
 1 <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1; 100%), <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="fr_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%).
+The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1; 100%), <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="fr_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%), <tt><a href="fr_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1; 100%).
 
 `PRON` tokens may have the following values of `Number[psor]`:
 

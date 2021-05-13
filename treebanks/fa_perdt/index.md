@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Mohammad Sadegh Rasooli, Pegah Safari, Amirsaeid Moloodi, Alireza Nourian.
 
 Repository: [UD_Persian-PerDT](https://github.com/UniversalDependencies/UD_Persian-PerDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfa_perdt27)<br />
-Download all treebanks: [UD 2.7](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfa_perdt28)<br />
+Download all treebanks: [UD 2.8](/#download)
 
 License: CC BY-SA 4.0
 
@@ -76,7 +76,7 @@ Thanks to Morteza Rezaei-Sharifabadi for helping with the copyright of this data
 
 ## Relations
 
-[acl](fa_perdt-dep-acl.html) – [advcl](fa_perdt-dep-advcl.html) – [advmod](fa_perdt-dep-advmod.html) – [amod](fa_perdt-dep-amod.html) – [appos](fa_perdt-dep-appos.html) – [aux](fa_perdt-dep-aux.html) – [aux:pass](fa_perdt-dep-aux-pass.html) – [case](fa_perdt-dep-case.html) – [cc](fa_perdt-dep-cc.html) – [ccomp](fa_perdt-dep-ccomp.html) – [compound](fa_perdt-dep-compound.html) – [compound:lv](fa_perdt-dep-compound-lv.html) – [compound:lvc](fa_perdt-dep-compound-lvc.html) – [conj](fa_perdt-dep-conj.html) – [cop](fa_perdt-dep-cop.html) – [csubj](fa_perdt-dep-csubj.html) – [dep](fa_perdt-dep-dep.html) – [det](fa_perdt-dep-det.html) – [fixed](fa_perdt-dep-fixed.html) – [flat:name](fa_perdt-dep-flat-name.html) – [flat:num](fa_perdt-dep-flat-num.html) – [goeswith](fa_perdt-dep-goeswith.html) – [iobj](fa_perdt-dep-iobj.html) – [mark](fa_perdt-dep-mark.html) – [nmod](fa_perdt-dep-nmod.html) – [nsubj](fa_perdt-dep-nsubj.html) – [nsubj:pass](fa_perdt-dep-nsubj-pass.html) – [nummod](fa_perdt-dep-nummod.html) – [obj](fa_perdt-dep-obj.html) – [obl](fa_perdt-dep-obl.html) – [obl:arg](fa_perdt-dep-obl-arg.html) – [parataxis](fa_perdt-dep-parataxis.html) – [punct](fa_perdt-dep-punct.html) – [root](fa_perdt-dep-root.html) – [vocative](fa_perdt-dep-vocative.html) – [xcomp](fa_perdt-dep-xcomp.html)
+[acl](fa_perdt-dep-acl.html) – [advcl](fa_perdt-dep-advcl.html) – [advmod](fa_perdt-dep-advmod.html) – [amod](fa_perdt-dep-amod.html) – [appos](fa_perdt-dep-appos.html) – [aux](fa_perdt-dep-aux.html) – [aux:pass](fa_perdt-dep-aux-pass.html) – [case](fa_perdt-dep-case.html) – [cc](fa_perdt-dep-cc.html) – [ccomp](fa_perdt-dep-ccomp.html) – [compound](fa_perdt-dep-compound.html) – [compound:lvc](fa_perdt-dep-compound-lvc.html) – [conj](fa_perdt-dep-conj.html) – [cop](fa_perdt-dep-cop.html) – [csubj](fa_perdt-dep-csubj.html) – [dep](fa_perdt-dep-dep.html) – [det](fa_perdt-dep-det.html) – [fixed](fa_perdt-dep-fixed.html) – [flat:name](fa_perdt-dep-flat-name.html) – [flat:num](fa_perdt-dep-flat-num.html) – [goeswith](fa_perdt-dep-goeswith.html) – [iobj](fa_perdt-dep-iobj.html) – [mark](fa_perdt-dep-mark.html) – [nmod](fa_perdt-dep-nmod.html) – [nsubj](fa_perdt-dep-nsubj.html) – [nsubj:pass](fa_perdt-dep-nsubj-pass.html) – [nummod](fa_perdt-dep-nummod.html) – [obj](fa_perdt-dep-obj.html) – [obl](fa_perdt-dep-obl.html) – [obl:arg](fa_perdt-dep-obl-arg.html) – [parataxis](fa_perdt-dep-parataxis.html) – [punct](fa_perdt-dep-punct.html) – [root](fa_perdt-dep-root.html) – [vocative](fa_perdt-dep-vocative.html) – [xcomp](fa_perdt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -453,7 +453,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 7 relation subtypes: <a>aux:pass</a>, <a>compound:lv</a>, <a>compound:lvc</a>, <a>flat:name</a>, <a>flat:num</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
+<li>This corpus uses 6 relation subtypes: <a>aux:pass</a>, <a>compound:lvc</a>, <a>flat:name</a>, <a>flat:num</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
 <li>The following 7 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>reparandum</a></li>
 </ul>
