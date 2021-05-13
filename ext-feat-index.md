@@ -4,6 +4,14 @@ title:  'Features and Values'
 udver: '2'
 ---
 
+<style>
+  ul {
+    list-style-position: inside;
+    text-indent: -3em;
+    margin-left: 3em;
+  }
+</style>
+
 This is an automatically generated list of features and values (both universal and language-specific) that occur in the UD data.
 ## Abbr
 
