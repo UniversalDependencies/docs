@@ -9,8667 +9,1272 @@ This is an automatically generated list of features and values (both universal a
 
 [Abbr]()
 
-* Abbr=Yes	ar_padt	504
-* Abbr=Yes	be_hse	2661
-* Abbr=Yes	cs_cac	6528
-* Abbr=Yes	cs_cltt	35
-* Abbr=Yes	cs_fictree	116
-* Abbr=Yes	cs_pdt	21743
-* Abbr=Yes	cs_pud	111
-* Abbr=Yes	cy_ccg	47
-* Abbr=Yes	da_ddt	32
-* Abbr=Yes	de_gsd	12
-* Abbr=Yes	el_gdt	360
-* Abbr=Yes	en_ewt	180
-* Abbr=Yes	en_gum	496
-* Abbr=Yes	en_gumreddit	40
-* Abbr=Yes	et_edt	4172
-* Abbr=Yes	et_ewt	717
-* Abbr=Yes	fi_ftb	484
-* Abbr=Yes	fi_ood	383
-* Abbr=Yes	fi_pud	42
-* Abbr=Yes	fi_tdt	1135
-* Abbr=Yes	ga_idt	449
-* Abbr=Yes	he_htb	998
-* Abbr=Yes	hsb_ufal	192
-* Abbr=Yes	hy_armtdp	340
-* Abbr=Yes	hyw_armtdp	49
-* Abbr=Yes	id_pud	104
-* Abbr=Yes	kpv_lattice	1
-* Abbr=Yes	krl_kkpp	8
-* Abbr=Yes	la_ittb	1312
-* Abbr=Yes	la_udante	18
-* Abbr=Yes	lt_alksnis	1012
-* Abbr=Yes	lv_lvtb	1551
-* Abbr=Yes	mdf_jr	2
-* Abbr=Yes	myv_jr	6
-* Abbr=Yes	nl_alpino	205
-* Abbr=Yes	nl_lassysmall	109
-* Abbr=Yes	no_bokmaal	1001
-* Abbr=Yes	no_nynorsk	1206
-* Abbr=Yes	orv_rnc	328
-* Abbr=Yes	pl_pdb	2124
-* Abbr=Yes	pl_pud	154
-* Abbr=Yes	quc_iu	5
-* Abbr=Yes	ro_rrt	1345
-* Abbr=Yes	ro_simonero	2789
-* Abbr=Yes	ru_gsd	27
-* Abbr=Yes	ru_pud	123
-* Abbr=Yes	ru_taiga	1523
-* Abbr=Yes	sk_snk	404
-* Abbr=Yes	sl_ssj	164
-* Abbr=Yes	sv_lines	17
-* Abbr=Yes	sv_pud	54
-* Abbr=Yes	sv_talbanken	789
-* Abbr=Yes	tr_boun	24
-* Abbr=Yes	tr_imst	133
-* Abbr=Yes	uk_iu	838
+* `Yes` (ar_padt&nbsp;(504), be_hse&nbsp;(2661), cs_cac&nbsp;(6528), cs_cltt&nbsp;(35), cs_fictree&nbsp;(116), cs_pdt&nbsp;(21743), cs_pud&nbsp;(111), cy_ccg&nbsp;(47), da_ddt&nbsp;(32), de_gsd&nbsp;(12), el_gdt&nbsp;(360), en_ewt&nbsp;(180), en_gum&nbsp;(496), en_gumreddit&nbsp;(40), et_edt&nbsp;(4172), et_ewt&nbsp;(717), fi_ftb&nbsp;(484), fi_ood&nbsp;(383), fi_pud&nbsp;(42), fi_tdt&nbsp;(1135), ga_idt&nbsp;(449), he_htb&nbsp;(998), hsb_ufal&nbsp;(192), hy_armtdp&nbsp;(340), hyw_armtdp&nbsp;(49), id_pud&nbsp;(104), kpv_lattice&nbsp;(1), krl_kkpp&nbsp;(8), la_ittb&nbsp;(1312), la_udante&nbsp;(18), lt_alksnis&nbsp;(1012), lv_lvtb&nbsp;(1551), mdf_jr&nbsp;(2), myv_jr&nbsp;(6), nl_alpino&nbsp;(205), nl_lassysmall&nbsp;(109), no_bokmaal&nbsp;(1001), no_nynorsk&nbsp;(1206), orv_rnc&nbsp;(328), pl_pdb&nbsp;(2124), pl_pud&nbsp;(154), quc_iu&nbsp;(5), ro_rrt&nbsp;(1345), ro_simonero&nbsp;(2789), ru_gsd&nbsp;(27), ru_pud&nbsp;(123), ru_taiga&nbsp;(1523), sk_snk&nbsp;(404), sl_ssj&nbsp;(164), sv_lines&nbsp;(17), sv_pud&nbsp;(54), sv_talbanken&nbsp;(789), tr_boun&nbsp;(24), tr_imst&nbsp;(133), uk_iu&nbsp;(838))
 
 ## AdjType
 
 [AdjType]()
 
-* AdjType=Attr	af_afribooms	2683
-* AdjType=Pred	af_afribooms	490
+* `Attr` (af_afribooms&nbsp;(2683))
+* `Pred` (af_afribooms&nbsp;(490))
 
 ## AdpType
 
 [AdpType]()
 
-* AdpType=Ambi	hyw_armtdp	41
-* AdpType=Circ	de_hdt	1243
-* AdpType=Comadp	hy_armtdp	4
-* AdpType=Comprep	cs_cac	111
-* AdpType=Comprep	cs_cltt	4
-* AdpType=Comprep	cs_fictree	4
-* AdpType=Comprep	cs_pdt	286
-* AdpType=Comprep	cs_pud	3
-* AdpType=Post	bho_bhtb	991
-* AdpType=Post	de_hdt	1190
-* AdpType=Post	et_edt	7243
-* AdpType=Post	et_ewt	865
-* AdpType=Post	fi_ood	219
-* AdpType=Post	fi_pud	286
-* AdpType=Post	fi_tdt	2624
-* AdpType=Post	hi_hdtb	74379
-* AdpType=Post	hy_armtdp	1359
-* AdpType=Post	hyw_armtdp	1197
-* AdpType=Post	kmr_mg	469
-* AdpType=Post	koi_uh	11
-* AdpType=Post	kpv_ikdp	7
-* AdpType=Post	kpv_lattice	159
-* AdpType=Post	la_udante	21
-* AdpType=Post	mdf_jr	4
-* AdpType=Post	myv_jr	78
-* AdpType=Post	olo_kkpp	3
-* AdpType=Post	pl_lfg	29
-* AdpType=Post	pl_pdb	69
-* AdpType=Post	pl_pud	3
-* AdpType=Post	sms_giellagas	15
-* AdpType=Post	ta_mwtt	64
-* AdpType=Post	ta_ttb	288
-* AdpType=Post	ur_udtb	27467
-* AdpType=Prep	af_afribooms	6286
-* AdpType=Prep	ar_nyuad	91694
-* AdpType=Prep	ar_padt	42555
-* AdpType=Prep	cs_cac	44528
-* AdpType=Prep	cs_cltt	3602
-* AdpType=Prep	cs_fictree	11312
-* AdpType=Prep	cs_pdt	134515
-* AdpType=Prep	cs_pud	1688
-* AdpType=Prep	da_ddt	11095
-* AdpType=Prep	de_hdt	362794
-* AdpType=Prep	et_edt	1960
-* AdpType=Prep	et_ewt	212
-* AdpType=Prep	fi_ood	64
-* AdpType=Prep	fi_pud	33
-* AdpType=Prep	fi_tdt	350
-* AdpType=Prep	gl_treegal	3810
-* AdpType=Prep	hy_armtdp	272
-* AdpType=Prep	hyw_armtdp	247
-* AdpType=Prep	kmr_mg	1123
-* AdpType=Prep	la_ittb	39702
-* AdpType=Prep	la_udante	4110
-* AdpType=Prep	lt_alksnis	2331
-* AdpType=Prep	pl_lfg	11126
-* AdpType=Prep	pl_pdb	37108
-* AdpType=Prep	pl_pud	2047
-* AdpType=Prep	ro_art	41
-* AdpType=Prep	ro_nonstandard	66981
-* AdpType=Prep	ro_rrt	31173
-* AdpType=Prep	ro_simonero	20673
-* AdpType=Prep	sk_snk	8156
-* AdpType=Prep	sms_giellagas	6
-* AdpType=Voc	cs_cac	3832
-* AdpType=Voc	cs_cltt	340
-* AdpType=Voc	cs_fictree	1001
-* AdpType=Voc	cs_pdt	11142
-* AdpType=Voc	cs_pud	149
-* AdpType=Voc	sk_snk	456
+* `Ambi` (hyw_armtdp&nbsp;(41))
+* `Circ` (de_hdt&nbsp;(1243))
+* `Comadp` (hy_armtdp&nbsp;(4))
+* `Comprep` (cs_cac&nbsp;(111), cs_cltt&nbsp;(4), cs_fictree&nbsp;(4), cs_pdt&nbsp;(286), cs_pud&nbsp;(3))
+* `Post` (bho_bhtb&nbsp;(991), de_hdt&nbsp;(1190), et_edt&nbsp;(7243), et_ewt&nbsp;(865), fi_ood&nbsp;(219), fi_pud&nbsp;(286), fi_tdt&nbsp;(2624), hi_hdtb&nbsp;(74379), hy_armtdp&nbsp;(1359), hyw_armtdp&nbsp;(1197), kmr_mg&nbsp;(469), koi_uh&nbsp;(11), kpv_ikdp&nbsp;(7), kpv_lattice&nbsp;(159), la_udante&nbsp;(21), mdf_jr&nbsp;(4), myv_jr&nbsp;(78), olo_kkpp&nbsp;(3), pl_lfg&nbsp;(29), pl_pdb&nbsp;(69), pl_pud&nbsp;(3), sms_giellagas&nbsp;(15), ta_mwtt&nbsp;(64), ta_ttb&nbsp;(288), ur_udtb&nbsp;(27467))
+* `Prep` (af_afribooms&nbsp;(6286), ar_nyuad&nbsp;(91694), ar_padt&nbsp;(42555), cs_cac&nbsp;(44528), cs_cltt&nbsp;(3602), cs_fictree&nbsp;(11312), cs_pdt&nbsp;(134515), cs_pud&nbsp;(1688), da_ddt&nbsp;(11095), de_hdt&nbsp;(362794), et_edt&nbsp;(1960), et_ewt&nbsp;(212), fi_ood&nbsp;(64), fi_pud&nbsp;(33), fi_tdt&nbsp;(350), gl_treegal&nbsp;(3810), hy_armtdp&nbsp;(272), hyw_armtdp&nbsp;(247), kmr_mg&nbsp;(1123), la_ittb&nbsp;(39702), la_udante&nbsp;(4110), lt_alksnis&nbsp;(2331), pl_lfg&nbsp;(11126), pl_pdb&nbsp;(37108), pl_pud&nbsp;(2047), ro_art&nbsp;(41), ro_nonstandard&nbsp;(66981), ro_rrt&nbsp;(31173), ro_simonero&nbsp;(20673), sk_snk&nbsp;(8156), sms_giellagas&nbsp;(6))
+* `Voc` (cs_cac&nbsp;(3832), cs_cltt&nbsp;(340), cs_fictree&nbsp;(1001), cs_pdt&nbsp;(11142), cs_pud&nbsp;(149), sk_snk&nbsp;(456))
 
 ## AdvType
 
 [AdvType]()
 
-* AdvType=Cau	lzh_kyoto	248
-* AdvType=Deg	bho_bhtb	2
-* AdvType=Deg	hi_hdtb	372
-* AdvType=Deg	koi_uh	4
-* AdvType=Deg	kpv_lattice	6
-* AdvType=Deg	lzh_kyoto	111
-* AdvType=Deg	mdf_jr	29
-* AdvType=Deg	myv_jr	67
-* AdvType=Deg	ur_udtb	145
-* AdvType=Dir	quc_iu	107
-* AdvType=Ideoph	myv_jr	6
-* AdvType=Loc	koi_uh	12
-* AdvType=Loc	kpv_lattice	2
-* AdvType=Loc	mdf_jr	2
-* AdvType=Loc	myv_jr	243
-* AdvType=Man	koi_uh	2
-* AdvType=Man	kpv_ikdp	10
-* AdvType=Man	kpv_lattice	22
-* AdvType=Man	mdf_jr	9
-* AdvType=Man	myv_jr	147
-* AdvType=Mod	hsb_ufal	4
-* AdvType=Mod	myv_jr	17
-* AdvType=Sta	myv_jr	17
-* AdvType=Tim	apu_ufpa	1
-* AdvType=Tim	ca_ancora	1693
-* AdvType=Tim	es_ancora	1902
-* AdvType=Tim	kpv_ikdp	9
-* AdvType=Tim	kpv_lattice	64
-* AdvType=Tim	lzh_kyoto	4205
-* AdvType=Tim	mdf_jr	66
-* AdvType=Tim	myv_jr	452
-* AdvType=Tim	sms_giellagas	54
+* `Cau` (lzh_kyoto&nbsp;(248))
+* `Deg` (bho_bhtb&nbsp;(2), hi_hdtb&nbsp;(372), koi_uh&nbsp;(4), kpv_lattice&nbsp;(6), lzh_kyoto&nbsp;(111), mdf_jr&nbsp;(29), myv_jr&nbsp;(67), ur_udtb&nbsp;(145))
+* `Dir` (quc_iu&nbsp;(107))
+* `Ideoph` (myv_jr&nbsp;(6))
+* `Loc` (koi_uh&nbsp;(12), kpv_lattice&nbsp;(2), mdf_jr&nbsp;(2), myv_jr&nbsp;(243))
+* `Man` (koi_uh&nbsp;(2), kpv_ikdp&nbsp;(10), kpv_lattice&nbsp;(22), mdf_jr&nbsp;(9), myv_jr&nbsp;(147))
+* `Mod` (hsb_ufal&nbsp;(4), myv_jr&nbsp;(17))
+* `Sta` (myv_jr&nbsp;(17))
+* `Tim` (apu_ufpa&nbsp;(1), ca_ancora&nbsp;(1693), es_ancora&nbsp;(1902), kpv_ikdp&nbsp;(9), kpv_lattice&nbsp;(64), lzh_kyoto&nbsp;(4205), mdf_jr&nbsp;(66), myv_jr&nbsp;(452), sms_giellagas&nbsp;(54))
 
 ## Agglutination
 
 [Agglutination]()
 
-* Agglutination=Agl	pl_lfg	31
-* Agglutination=Nagl	pl_lfg	132
+* `Agl` (pl_lfg&nbsp;(31))
+* `Nagl` (pl_lfg&nbsp;(132))
 
 ## Analyt
 
 [Analyt]()
 
-* Analyt=Yes	orv_rnc	120
+* `Yes` (orv_rnc&nbsp;(120))
 
 ## Animacy
 
 [Animacy]()
 
-* Animacy=Anim	be_hse	24021
-* Animacy=Anim	bg_btb	56
-* Animacy=Anim	cs_cac	19843
-* Animacy=Anim	cs_cltt	306
-* Animacy=Anim	cs_fictree	18289
-* Animacy=Anim	cs_pdt	112134
-* Animacy=Anim	cs_pud	1292
-* Animacy=Anim	eu_bdt	1288
-* Animacy=Anim	hi_pud	1693
-* Animacy=Anim	hr_set	631
-* Animacy=Anim	hsb_ufal	350
-* Animacy=Anim	koi_uh	2
-* Animacy=Anim	myv_jr	9
-* Animacy=Anim	orv_rnc	564
-* Animacy=Anim	quc_iu	29
-* Animacy=Anim	ru_gsd	7819
-* Animacy=Anim	ru_pud	1234
-* Animacy=Anim	ru_syntagrus	56311
-* Animacy=Anim	ru_taiga	9330
-* Animacy=Anim	sk_snk	12238
-* Animacy=Anim	sl_ssj	381
-* Animacy=Anim	sl_sst	45
-* Animacy=Anim	sr_set	277
-* Animacy=Anim	ta_mwtt	41
-* Animacy=Anim	ta_ttb	420
-* Animacy=Anim	uk_iu	8188
-* Animacy=Anim	urb_tudet	2
-* Animacy=Hum	ar_pud	1226
-* Animacy=Hum	hy_armtdp	3032
-* Animacy=Hum	hyw_armtdp	2473
-* Animacy=Hum	koi_uh	20
-* Animacy=Hum	kpv_lattice	142
-* Animacy=Hum	mdf_jr	18
-* Animacy=Hum	myv_jr	551
-* Animacy=Hum	no_bokmaal	9745
-* Animacy=Hum	no_nynorsk	6774
-* Animacy=Hum	no_nynorsklia	3127
-* Animacy=Hum	pl_pdb	33493
-* Animacy=Hum	pl_pud	1758
-* Animacy=Hum	sms_giellagas	101
-* Animacy=Hum	tpn_tudet	2
-* Animacy=Hum	urb_tudet	5
-* Animacy=Inan	be_hse	74468
-* Animacy=Inan	cs_cac	78412
-* Animacy=Inan	cs_cltt	7133
-* Animacy=Inan	cs_fictree	14955
-* Animacy=Inan	cs_pdt	200793
-* Animacy=Inan	cs_pud	2471
-* Animacy=Inan	eu_bdt	12165
-* Animacy=Inan	hi_pud	5392
-* Animacy=Inan	hr_set	4765
-* Animacy=Inan	hsb_ufal	1350
-* Animacy=Inan	koi_uh	10
-* Animacy=Inan	pl_pdb	47435
-* Animacy=Inan	pl_pud	3183
-* Animacy=Inan	ru_gsd	30544
-* Animacy=Inan	ru_pud	5041
-* Animacy=Inan	ru_syntagrus	276666
-* Animacy=Inan	ru_taiga	45052
-* Animacy=Inan	sk_snk	12176
-* Animacy=Inan	sl_ssj	1834
-* Animacy=Inan	sl_sst	360
-* Animacy=Inan	sr_set	2122
-* Animacy=Inan	uk_iu	29551
-* Animacy=Nhum	ar_pud	5799
-* Animacy=Nhum	hsb_ufal	18
-* Animacy=Nhum	hy_armtdp	12098
-* Animacy=Nhum	hyw_armtdp	6740
-* Animacy=Nhum	koi_uh	3
-* Animacy=Nhum	pl_pdb	2583
-* Animacy=Nhum	pl_pud	81
+* `Anim` (be_hse&nbsp;(24021), bg_btb&nbsp;(56), cs_cac&nbsp;(19843), cs_cltt&nbsp;(306), cs_fictree&nbsp;(18289), cs_pdt&nbsp;(112134), cs_pud&nbsp;(1292), eu_bdt&nbsp;(1288), hi_pud&nbsp;(1693), hr_set&nbsp;(631), hsb_ufal&nbsp;(350), koi_uh&nbsp;(2), myv_jr&nbsp;(9), orv_rnc&nbsp;(564), quc_iu&nbsp;(29), ru_gsd&nbsp;(7819), ru_pud&nbsp;(1234), ru_syntagrus&nbsp;(56311), ru_taiga&nbsp;(9330), sk_snk&nbsp;(12238), sl_ssj&nbsp;(381), sl_sst&nbsp;(45), sr_set&nbsp;(277), ta_mwtt&nbsp;(41), ta_ttb&nbsp;(420), uk_iu&nbsp;(8188), urb_tudet&nbsp;(2))
+* `Hum` (ar_pud&nbsp;(1226), hy_armtdp&nbsp;(3032), hyw_armtdp&nbsp;(2473), koi_uh&nbsp;(20), kpv_lattice&nbsp;(142), mdf_jr&nbsp;(18), myv_jr&nbsp;(551), no_bokmaal&nbsp;(9745), no_nynorsk&nbsp;(6774), no_nynorsklia&nbsp;(3127), pl_pdb&nbsp;(33493), pl_pud&nbsp;(1758), sms_giellagas&nbsp;(101), tpn_tudet&nbsp;(2), urb_tudet&nbsp;(5))
+* `Inan` (be_hse&nbsp;(74468), cs_cac&nbsp;(78412), cs_cltt&nbsp;(7133), cs_fictree&nbsp;(14955), cs_pdt&nbsp;(200793), cs_pud&nbsp;(2471), eu_bdt&nbsp;(12165), hi_pud&nbsp;(5392), hr_set&nbsp;(4765), hsb_ufal&nbsp;(1350), koi_uh&nbsp;(10), pl_pdb&nbsp;(47435), pl_pud&nbsp;(3183), ru_gsd&nbsp;(30544), ru_pud&nbsp;(5041), ru_syntagrus&nbsp;(276666), ru_taiga&nbsp;(45052), sk_snk&nbsp;(12176), sl_ssj&nbsp;(1834), sl_sst&nbsp;(360), sr_set&nbsp;(2122), uk_iu&nbsp;(29551))
+* `Nhum` (ar_pud&nbsp;(5799), hsb_ufal&nbsp;(18), hy_armtdp&nbsp;(12098), hyw_armtdp&nbsp;(6740), koi_uh&nbsp;(3), pl_pdb&nbsp;(2583), pl_pud&nbsp;(81))
 
 ## Animacy[gram]
 
 [Animacy[gram]]()
 
-* Animacy[gram]=Anim	uk_iu	35
-* Animacy[gram]=Inan	uk_iu	12
+* `Anim` (uk_iu&nbsp;(35))
+* `Inan` (uk_iu&nbsp;(12))
 
 ## Aspect
 
 [Aspect]()
 
-* Aspect=Aor	bej_nsc	16
-* Aspect=Compl	myu_tudet	1
-* Aspect=Compl	tpn_tudet	1
-* Aspect=Cons	pcm_nsc	1351
-* Aspect=Dec	myu_tudet	1
-* Aspect=Dur	hy_armtdp	268
-* Aspect=Dur	hyw_armtdp	112
-* Aspect=Dur	tr_gb	3
-* Aspect=Dur	tr_imst	3
-* Aspect=DurIprf	myu_tudet	1
-* Aspect=Frus	urb_tudet	1
-* Aspect=Hab	aqz_tudet	2
-* Aspect=Hab	br_keb	38
-* Aspect=Hab	bxr_bdt	21
-* Aspect=Hab	ess_sli	2
-* Aspect=Hab	ga_idt	173
-* Aspect=Hab	kk_ktb	354
-* Aspect=Hab	lt_alksnis	75
-* Aspect=Hab	lt_hse	8
-* Aspect=Hab	mdf_jr	2
-* Aspect=Hab	mpu_tudet	1
-* Aspect=Hab	mr_ufal	10
-* Aspect=Hab	myv_jr	29
-* Aspect=Hab	qtd_sagt	252
-* Aspect=Hab	tl_trg	6
-* Aspect=Hab	tr_boun	2158
-* Aspect=Hab	tr_framenet	225
-* Aspect=Hab	tr_gb	406
-* Aspect=Hab	tr_imst	1178
-* Aspect=Hab	tr_kenet	3074
-* Aspect=Hab	tr_penn	591
-* Aspect=Hab	tr_pud	176
-* Aspect=Hab	tr_tourism	1225
-* Aspect=Hab	ug_udt	334
-* Aspect=Hab	wo_wtb	95
-* Aspect=Imp	ar_nyuad	25627
-* Aspect=Imp	ar_padt	10224
-* Aspect=Imp	ar_pud	940
-* Aspect=Imp	be_hse	14662
-* Aspect=Imp	bej_nsc	9
-* Aspect=Imp	bg_btb	13461
-* Aspect=Imp	bho_bhtb	15
-* Aspect=Imp	bm_crb	365
-* Aspect=Imp	bxr_bdt	49
-* Aspect=Imp	cs_cac	20263
-* Aspect=Imp	cs_cltt	289
-* Aspect=Imp	cs_fictree	313
-* Aspect=Imp	cs_pdt	53405
-* Aspect=Imp	cs_pud	753
-* Aspect=Imp	cu_proiel	1120
-* Aspect=Imp	el_gdt	3948
-* Aspect=Imp	es_pud	1707
-* Aspect=Imp	eu_bdt	1820
-* Aspect=Imp	ga_idt	125
-* Aspect=Imp	grc_perseus	5309
-* Aspect=Imp	grc_proiel	4143
-* Aspect=Imp	hi_hdtb	3552
-* Aspect=Imp	hi_pud	801
-* Aspect=Imp	hy_armtdp	5637
-* Aspect=Imp	hyw_armtdp	2896
-* Aspect=Imp	it_pud	224
-* Aspect=Imp	kk_ktb	123
-* Aspect=Imp	la_ittb	53271
-* Aspect=Imp	la_llct	14373
-* Aspect=Imp	la_perseus	593
-* Aspect=Imp	la_proiel	4904
-* Aspect=Imp	la_udante	8327
-* Aspect=Imp	lv_lvtb	549
-* Aspect=Imp	mpu_tudet	29
-* Aspect=Imp	mr_ufal	124
-* Aspect=Imp	myu_tudet	13
-* Aspect=Imp	orv_rnc	1049
-* Aspect=Imp	orv_torot	2107
-* Aspect=Imp	pcm_nsc	3158
-* Aspect=Imp	pl_lfg	16337
-* Aspect=Imp	pl_pdb	36672
-* Aspect=Imp	pl_pud	1449
-* Aspect=Imp	qtd_sagt	173
-* Aspect=Imp	quc_iu	715
-* Aspect=Imp	ru_gsd	5159
-* Aspect=Imp	ru_pud	1272
-* Aspect=Imp	ru_syntagrus	78410
-* Aspect=Imp	ru_taiga	14708
-* Aspect=Imp	sk_snk	10471
-* Aspect=Imp	sl_ssj	6003
-* Aspect=Imp	sl_sst	1641
-* Aspect=Imp	sq_tsa	92
-* Aspect=Imp	tl_trg	25
-* Aspect=Imp	tr_boun	1229
-* Aspect=Imp	tr_gb	6
-* Aspect=Imp	uk_iu	9053
-* Aspect=Imp	ur_udtb	1629
-* Aspect=Imp	wo_wtb	1536
-* Aspect=Inch	la_udante	61
-* Aspect=Inch	myv_jr	12
-* Aspect=Iter	hu_szeged	12
-* Aspect=Iter	hy_armtdp	25
-* Aspect=Iter	hyw_armtdp	2
-* Aspect=Iter	tpn_tudet	11
-* Aspect=Perf	ar_nyuad	28918
-* Aspect=Perf	ar_padt	11523
-* Aspect=Perf	ar_pud	1041
-* Aspect=Perf	be_hse	15558
-* Aspect=Perf	bej_nsc	80
-* Aspect=Perf	bg_btb	9592
-* Aspect=Perf	bho_bhtb	341
-* Aspect=Perf	bm_crb	934
-* Aspect=Perf	bxr_bdt	38
-* Aspect=Perf	cs_cac	9398
-* Aspect=Perf	cs_fictree	3
-* Aspect=Perf	cs_pdt	38503
-* Aspect=Perf	cs_pud	493
-* Aspect=Perf	cu_proiel	3771
-* Aspect=Perf	de_hdt	62615
-* Aspect=Perf	el_gdt	2984
-* Aspect=Perf	es_pud	780
-* Aspect=Perf	eu_bdt	5765
-* Aspect=Perf	got_proiel	722
-* Aspect=Perf	grc_perseus	2164
-* Aspect=Perf	grc_proiel	19059
-* Aspect=Perf	hi_hdtb	22694
-* Aspect=Perf	hi_pud	944
-* Aspect=Perf	hy_armtdp	2300
-* Aspect=Perf	hyw_armtdp	1782
-* Aspect=Perf	it_pud	405
-* Aspect=Perf	kk_ktb	363
-* Aspect=Perf	kmr_mg	37
-* Aspect=Perf	la_ittb	14666
-* Aspect=Perf	la_llct	16603
-* Aspect=Perf	la_perseus	2069
-* Aspect=Perf	la_proiel	13237
-* Aspect=Perf	la_udante	1829
-* Aspect=Perf	lt_alksnis	1860
-* Aspect=Perf	lt_hse	31
-* Aspect=Perf	lv_lvtb	7977
-* Aspect=Perf	lzh_kyoto	566
-* Aspect=Perf	mdf_jr	4
-* Aspect=Perf	mpu_tudet	13
-* Aspect=Perf	mr_ufal	424
-* Aspect=Perf	myu_tudet	55
-* Aspect=Perf	orv_rnc	1496
-* Aspect=Perf	orv_torot	9982
-* Aspect=Perf	pcm_nsc	886
-* Aspect=Perf	pl_lfg	9928
-* Aspect=Perf	pl_pdb	20186
-* Aspect=Perf	pl_pud	1179
-* Aspect=Perf	qtd_sagt	984
-* Aspect=Perf	quc_iu	720
-* Aspect=Perf	ru_gsd	4087
-* Aspect=Perf	ru_pud	1064
-* Aspect=Perf	ru_syntagrus	53435
-* Aspect=Perf	ru_taiga	9918
-* Aspect=Perf	sa_ufal	26
-* Aspect=Perf	sk_snk	7427
-* Aspect=Perf	sl_ssj	6458
-* Aspect=Perf	sl_sst	1231
-* Aspect=Perf	sme_giella	508
-* Aspect=Perf	sms_giellagas	27
-* Aspect=Perf	sq_tsa	3
-* Aspect=Perf	th_pud	289
-* Aspect=Perf	tl_trg	55
-* Aspect=Perf	tr_boun	6622
-* Aspect=Perf	tr_framenet	2487
-* Aspect=Perf	tr_gb	1076
-* Aspect=Perf	tr_imst	9446
-* Aspect=Perf	tr_kenet	12448
-* Aspect=Perf	tr_penn	4629
-* Aspect=Perf	tr_pud	1472
-* Aspect=Perf	tr_tourism	15149
-* Aspect=Perf	ug_udt	1540
-* Aspect=Perf	uk_iu	6048
-* Aspect=Perf	ur_udtb	8522
-* Aspect=Perf	urb_tudet	3
-* Aspect=Perf	wo_wtb	1053
-* Aspect=Perf	zh_gsd	826
-* Aspect=Perf	zh_gsdsimp	826
-* Aspect=Perf	zh_pud	358
-* Aspect=Pfv	bej_nsc	58
-* Aspect=Prog	apu_ufpa	1
-* Aspect=Prog	bm_crb	5
-* Aspect=Prog	bxr_bdt	12
-* Aspect=Prog	ess_sli	25
-* Aspect=Prog	eu_bdt	4818
-* Aspect=Prog	gub_tudet	7
-* Aspect=Prog	hi_pud	71
-* Aspect=Prog	hy_armtdp	9
-* Aspect=Prog	hyw_armtdp	9
-* Aspect=Prog	kmr_mg	86
-* Aspect=Prog	qtd_sagt	731
-* Aspect=Prog	quc_iu	61
-* Aspect=Prog	sq_tsa	1
-* Aspect=Prog	th_pud	112
-* Aspect=Prog	tl_trg	9
-* Aspect=Prog	tr_boun	2116
-* Aspect=Prog	tr_framenet	311
-* Aspect=Prog	tr_gb	681
-* Aspect=Prog	tr_imst	1361
-* Aspect=Prog	tr_kenet	2471
-* Aspect=Prog	tr_penn	2203
-* Aspect=Prog	tr_pud	197
-* Aspect=Prog	tr_tourism	1183
-* Aspect=Prog	wo_wtb	135
-* Aspect=Prog	zh_gsd	131
-* Aspect=Prog	zh_gsdsimp	131
-* Aspect=Prog	zh_pud	40
-* Aspect=Prosp	eu_bdt	1529
-* Aspect=Prosp	hy_armtdp	912
-* Aspect=Prosp	hyw_armtdp	1789
-* Aspect=Prosp	mr_ufal	16
-* Aspect=Prosp	pcm_nsc	2213
-* Aspect=Prosp	qtd_sagt	3
-* Aspect=Prosp	tl_trg	1
-* Aspect=Prosp	tr_gb	23
-* Aspect=Prosp	tr_imst	37
-* Aspect=Prosp	tr_pud	4
-* Aspect=Rapid	tr_gb	2
-* Aspect=Rapid	tr_imst	8
-* Aspect=Rapid	tr_kenet	9
+* `Aor` (bej_nsc&nbsp;(16))
+* `Compl` (myu_tudet&nbsp;(1), tpn_tudet&nbsp;(1))
+* `Cons` (pcm_nsc&nbsp;(1351))
+* `Dec` (myu_tudet&nbsp;(1))
+* `Dur` (hy_armtdp&nbsp;(268), hyw_armtdp&nbsp;(112), tr_gb&nbsp;(3), tr_imst&nbsp;(3))
+* `DurIprf` (myu_tudet&nbsp;(1))
+* `Frus` (urb_tudet&nbsp;(1))
+* `Hab` (aqz_tudet&nbsp;(2), br_keb&nbsp;(38), bxr_bdt&nbsp;(21), ess_sli&nbsp;(2), ga_idt&nbsp;(173), kk_ktb&nbsp;(354), lt_alksnis&nbsp;(75), lt_hse&nbsp;(8), mdf_jr&nbsp;(2), mpu_tudet&nbsp;(1), mr_ufal&nbsp;(10), myv_jr&nbsp;(29), qtd_sagt&nbsp;(252), tl_trg&nbsp;(6), tr_boun&nbsp;(2158), tr_framenet&nbsp;(225), tr_gb&nbsp;(406), tr_imst&nbsp;(1178), tr_kenet&nbsp;(3074), tr_penn&nbsp;(591), tr_pud&nbsp;(176), tr_tourism&nbsp;(1225), ug_udt&nbsp;(334), wo_wtb&nbsp;(95))
+* `Imp` (ar_nyuad&nbsp;(25627), ar_padt&nbsp;(10224), ar_pud&nbsp;(940), be_hse&nbsp;(14662), bej_nsc&nbsp;(9), bg_btb&nbsp;(13461), bho_bhtb&nbsp;(15), bm_crb&nbsp;(365), bxr_bdt&nbsp;(49), cs_cac&nbsp;(20263), cs_cltt&nbsp;(289), cs_fictree&nbsp;(313), cs_pdt&nbsp;(53405), cs_pud&nbsp;(753), cu_proiel&nbsp;(1120), el_gdt&nbsp;(3948), es_pud&nbsp;(1707), eu_bdt&nbsp;(1820), ga_idt&nbsp;(125), grc_perseus&nbsp;(5309), grc_proiel&nbsp;(4143), hi_hdtb&nbsp;(3552), hi_pud&nbsp;(801), hy_armtdp&nbsp;(5637), hyw_armtdp&nbsp;(2896), it_pud&nbsp;(224), kk_ktb&nbsp;(123), la_ittb&nbsp;(53271), la_llct&nbsp;(14373), la_perseus&nbsp;(593), la_proiel&nbsp;(4904), la_udante&nbsp;(8327), lv_lvtb&nbsp;(549), mpu_tudet&nbsp;(29), mr_ufal&nbsp;(124), myu_tudet&nbsp;(13), orv_rnc&nbsp;(1049), orv_torot&nbsp;(2107), pcm_nsc&nbsp;(3158), pl_lfg&nbsp;(16337), pl_pdb&nbsp;(36672), pl_pud&nbsp;(1449), qtd_sagt&nbsp;(173), quc_iu&nbsp;(715), ru_gsd&nbsp;(5159), ru_pud&nbsp;(1272), ru_syntagrus&nbsp;(78410), ru_taiga&nbsp;(14708), sk_snk&nbsp;(10471), sl_ssj&nbsp;(6003), sl_sst&nbsp;(1641), sq_tsa&nbsp;(92), tl_trg&nbsp;(25), tr_boun&nbsp;(1229), tr_gb&nbsp;(6), uk_iu&nbsp;(9053), ur_udtb&nbsp;(1629), wo_wtb&nbsp;(1536))
+* `Inch` (la_udante&nbsp;(61), myv_jr&nbsp;(12))
+* `Iter` (hu_szeged&nbsp;(12), hy_armtdp&nbsp;(25), hyw_armtdp&nbsp;(2), tpn_tudet&nbsp;(11))
+* `Perf` (ar_nyuad&nbsp;(28918), ar_padt&nbsp;(11523), ar_pud&nbsp;(1041), be_hse&nbsp;(15558), bej_nsc&nbsp;(80), bg_btb&nbsp;(9592), bho_bhtb&nbsp;(341), bm_crb&nbsp;(934), bxr_bdt&nbsp;(38), cs_cac&nbsp;(9398), cs_fictree&nbsp;(3), cs_pdt&nbsp;(38503), cs_pud&nbsp;(493), cu_proiel&nbsp;(3771), de_hdt&nbsp;(62615), el_gdt&nbsp;(2984), es_pud&nbsp;(780), eu_bdt&nbsp;(5765), got_proiel&nbsp;(722), grc_perseus&nbsp;(2164), grc_proiel&nbsp;(19059), hi_hdtb&nbsp;(22694), hi_pud&nbsp;(944), hy_armtdp&nbsp;(2300), hyw_armtdp&nbsp;(1782), it_pud&nbsp;(405), kk_ktb&nbsp;(363), kmr_mg&nbsp;(37), la_ittb&nbsp;(14666), la_llct&nbsp;(16603), la_perseus&nbsp;(2069), la_proiel&nbsp;(13237), la_udante&nbsp;(1829), lt_alksnis&nbsp;(1860), lt_hse&nbsp;(31), lv_lvtb&nbsp;(7977), lzh_kyoto&nbsp;(566), mdf_jr&nbsp;(4), mpu_tudet&nbsp;(13), mr_ufal&nbsp;(424), myu_tudet&nbsp;(55), orv_rnc&nbsp;(1496), orv_torot&nbsp;(9982), pcm_nsc&nbsp;(886), pl_lfg&nbsp;(9928), pl_pdb&nbsp;(20186), pl_pud&nbsp;(1179), qtd_sagt&nbsp;(984), quc_iu&nbsp;(720), ru_gsd&nbsp;(4087), ru_pud&nbsp;(1064), ru_syntagrus&nbsp;(53435), ru_taiga&nbsp;(9918), sa_ufal&nbsp;(26), sk_snk&nbsp;(7427), sl_ssj&nbsp;(6458), sl_sst&nbsp;(1231), sme_giella&nbsp;(508), sms_giellagas&nbsp;(27), sq_tsa&nbsp;(3), th_pud&nbsp;(289), tl_trg&nbsp;(55), tr_boun&nbsp;(6622), tr_framenet&nbsp;(2487), tr_gb&nbsp;(1076), tr_imst&nbsp;(9446), tr_kenet&nbsp;(12448), tr_penn&nbsp;(4629), tr_pud&nbsp;(1472), tr_tourism&nbsp;(15149), ug_udt&nbsp;(1540), uk_iu&nbsp;(6048), ur_udtb&nbsp;(8522), urb_tudet&nbsp;(3), wo_wtb&nbsp;(1053), zh_gsd&nbsp;(826), zh_gsdsimp&nbsp;(826), zh_pud&nbsp;(358))
+* `Pfv` (bej_nsc&nbsp;(58))
+* `Prog` (apu_ufpa&nbsp;(1), bm_crb&nbsp;(5), bxr_bdt&nbsp;(12), ess_sli&nbsp;(25), eu_bdt&nbsp;(4818), gub_tudet&nbsp;(7), hi_pud&nbsp;(71), hy_armtdp&nbsp;(9), hyw_armtdp&nbsp;(9), kmr_mg&nbsp;(86), qtd_sagt&nbsp;(731), quc_iu&nbsp;(61), sq_tsa&nbsp;(1), th_pud&nbsp;(112), tl_trg&nbsp;(9), tr_boun&nbsp;(2116), tr_framenet&nbsp;(311), tr_gb&nbsp;(681), tr_imst&nbsp;(1361), tr_kenet&nbsp;(2471), tr_penn&nbsp;(2203), tr_pud&nbsp;(197), tr_tourism&nbsp;(1183), wo_wtb&nbsp;(135), zh_gsd&nbsp;(131), zh_gsdsimp&nbsp;(131), zh_pud&nbsp;(40))
+* `Prosp` (eu_bdt&nbsp;(1529), hy_armtdp&nbsp;(912), hyw_armtdp&nbsp;(1789), mr_ufal&nbsp;(16), pcm_nsc&nbsp;(2213), qtd_sagt&nbsp;(3), tl_trg&nbsp;(1), tr_gb&nbsp;(23), tr_imst&nbsp;(37), tr_pud&nbsp;(4))
+* `Rapid` (tr_gb&nbsp;(2), tr_imst&nbsp;(8), tr_kenet&nbsp;(9))
 
 ## Case
 
 [Case]()
 
-* Case=Abe	et_edt	612
-* Case=Abe	et_ewt	95
-* Case=Abe	fi_ftb	225
-* Case=Abe	fi_ood	18
-* Case=Abe	fi_pud	4
-* Case=Abe	fi_tdt	154
-* Case=Abe	kpv_lattice	9
-* Case=Abe	krl_kkpp	2
-* Case=Abe	mdf_jr	2
-* Case=Abe	myv_jr	16
-* Case=Abe	olo_kkpp	3
-* Case=Abe	sme_giella	11
-* Case=Abe	sms_giellagas	2
-* Case=Abl	am_att	2
-* Case=Abl	aqz_tudet	3
-* Case=Abl	bej_nsc	18
-* Case=Abl	bxr_bdt	83
-* Case=Abl	ess_sli	85
-* Case=Abl	et_edt	966
-* Case=Abl	et_ewt	99
-* Case=Abl	eu_bdt	882
-* Case=Abl	fi_ftb	835
-* Case=Abl	fi_ood	65
-* Case=Abl	fi_pud	55
-* Case=Abl	fi_tdt	998
-* Case=Abl	hi_pud	1
-* Case=Abl	hu_szeged	110
-* Case=Abl	hy_armtdp	776
-* Case=Abl	hyw_armtdp	625
-* Case=Abl	kk_ktb	184
-* Case=Abl	kpv_ikdp	5
-* Case=Abl	kpv_lattice	24
-* Case=Abl	krl_kkpp	6
-* Case=Abl	la_ittb	34875
-* Case=Abl	la_llct	37334
-* Case=Abl	la_perseus	3093
-* Case=Abl	la_proiel	21296
-* Case=Abl	la_udante	4747
-* Case=Abl	mdf_jr	46
-* Case=Abl	mr_ufal	1
-* Case=Abl	myv_jr	255
-* Case=Abl	olo_kkpp	3
-* Case=Abl	qtd_sagt	298
-* Case=Abl	sa_ufal	19
-* Case=Abl	sa_vedic	327
-* Case=Abl	sq_tsa	7
-* Case=Abl	ta_mwtt	7
-* Case=Abl	tr_boun	2160
-* Case=Abl	tr_framenet	394
-* Case=Abl	tr_gb	316
-* Case=Abl	tr_imst	1060
-* Case=Abl	tr_kenet	3668
-* Case=Abl	tr_penn	1239
-* Case=Abl	tr_pud	339
-* Case=Abl	tr_tourism	1440
-* Case=Abl	ug_udt	535
-* Case=Abs	ess_sli	239
-* Case=Abs	eu_bdt	17381
-* Case=Abs	hu_szeged	57
-* Case=Abs	mr_ufal	320
-* Case=Abs	wbp_ufal	64
-* Case=Acc	af_afribooms	784
-* Case=Acc	aii_as	5
-* Case=Acc	akk_riao	268
-* Case=Acc	ar_nyuad	76333
-* Case=Acc	ar_padt	29086
-* Case=Acc	ar_pud	1415
-* Case=Acc	be_hse	25376
-* Case=Acc	bej_nsc	66
-* Case=Acc	bg_btb	4414
-* Case=Acc	bho_bhtb	1391
-* Case=Acc	br_keb	132
-* Case=Acc	bxr_bdt	179
-* Case=Acc	ca_ancora	8689
-* Case=Acc	cs_cac	60370
-* Case=Acc	cs_cltt	4071
-* Case=Acc	cs_fictree	23656
-* Case=Acc	cs_pdt	180442
-* Case=Acc	cs_pud	2258
-* Case=Acc	cu_proiel	7638
-* Case=Acc	da_ddt	2301
-* Case=Acc	de_gsd	31014
-* Case=Acc	de_hdt	262114
-* Case=Acc	de_pud	2653
-* Case=Acc	el_gdt	16223
-* Case=Acc	en_ewt	3204
-* Case=Acc	en_gum	1274
-* Case=Acc	en_gumreddit	290
-* Case=Acc	en_lines	1244
-* Case=Acc	en_pud	96
-* Case=Acc	es_ancora	9658
-* Case=Acc	es_gsd	8988
-* Case=Acc	es_pud	470
-* Case=Acc	fi_ftb	149
-* Case=Acc	fi_ood	8
-* Case=Acc	fi_pud	16
-* Case=Acc	fi_tdt	154
-* Case=Acc	fo_farpahc	4261
-* Case=Acc	fo_oft	577
-* Case=Acc	gl_treegal	107
-* Case=Acc	got_proiel	7057
-* Case=Acc	grc_perseus	34666
-* Case=Acc	grc_proiel	39513
-* Case=Acc	he_htb	2058
-* Case=Acc	hi_hdtb	105947
-* Case=Acc	hi_pud	5065
-* Case=Acc	hr_set	26525
-* Case=Acc	hsb_ufal	1050
-* Case=Acc	hu_szeged	1960
-* Case=Acc	hyw_armtdp	179
-* Case=Acc	is_icepahc	94020
-* Case=Acc	is_modern	15900
-* Case=Acc	is_pud	1914
-* Case=Acc	it_pud	106
-* Case=Acc	kk_ktb	368
-* Case=Acc	kmr_mg	1636
-* Case=Acc	ko_pud	1006
-* Case=Acc	koi_uh	24
-* Case=Acc	kpv_ikdp	55
-* Case=Acc	kpv_lattice	218
-* Case=Acc	krl_kkpp	2
-* Case=Acc	la_ittb	46334
-* Case=Acc	la_llct	39651
-* Case=Acc	la_perseus	4726
-* Case=Acc	la_proiel	30542
-* Case=Acc	la_udante	6218
-* Case=Acc	lt_alksnis	6589
-* Case=Acc	lt_hse	382
-* Case=Acc	lv_lvtb	23622
-* Case=Acc	mr_ufal	187
-* Case=Acc	nl_alpino	1113
-* Case=Acc	nl_lassysmall	330
-* Case=Acc	no_bokmaal	2852
-* Case=Acc	no_nynorsk	2252
-* Case=Acc	no_nynorsklia	693
-* Case=Acc	olo_kkpp	43
-* Case=Acc	orv_rnc	3060
-* Case=Acc	orv_torot	20307
-* Case=Acc	pcm_nsc	2819
-* Case=Acc	pl_lfg	12198
-* Case=Acc	pl_pdb	29675
-* Case=Acc	pl_pud	1622
-* Case=Acc	pt_bosque	1780
-* Case=Acc	pt_pud	43
-* Case=Acc	qtd_sagt	2436
-* Case=Acc	ro_art	178
-* Case=Acc	ro_nonstandard	248100
-* Case=Acc	ro_rrt	80373
-* Case=Acc	ro_simonero	21176
-* Case=Acc	ru_gsd	6845
-* Case=Acc	ru_pud	1521
-* Case=Acc	ru_syntagrus	85922
-* Case=Acc	ru_taiga	14634
-* Case=Acc	sa_ufal	183
-* Case=Acc	sa_vedic	4391
-* Case=Acc	sk_snk	12554
-* Case=Acc	sl_ssj	17265
-* Case=Acc	sl_sst	3151
-* Case=Acc	sme_giella	1782
-* Case=Acc	sms_giellagas	123
-* Case=Acc	sq_tsa	116
-* Case=Acc	sr_set	12353
-* Case=Acc	sv_lines	1657
-* Case=Acc	sv_pud	125
-* Case=Acc	sv_talbanken	727
-* Case=Acc	ta_mwtt	104
-* Case=Acc	ta_ttb	340
-* Case=Acc	tr_boun	4723
-* Case=Acc	tr_framenet	1080
-* Case=Acc	tr_gb	861
-* Case=Acc	tr_imst	2572
-* Case=Acc	tr_kenet	6377
-* Case=Acc	tr_penn	3178
-* Case=Acc	tr_pud	628
-* Case=Acc	tr_tourism	1914
-* Case=Acc	ug_udt	1171
-* Case=Acc	uk_iu	14143
-* Case=Acc	ur_udtb	38434
-* Case=Acc	wo_wtb	1065
-* Case=Acc	yo_ytb	219
-* Case=Add	et_edt	2176
-* Case=Add	et_ewt	339
-* Case=Ade	et_edt	10808
-* Case=Ade	et_ewt	1253
-* Case=Ade	fi_ftb	3193
-* Case=Ade	fi_ood	448
-* Case=Ade	fi_pud	315
-* Case=Ade	fi_tdt	4074
-* Case=Ade	hu_szeged	80
-* Case=Ade	krl_kkpp	102
-* Case=Ade	olo_kkpp	37
-* Case=Adp	kpv_ikdp	4
-* Case=Adp	kpv_lattice	15
-* Case=Aff	urb_tudet	25
-* Case=All	aqz_tudet	13
-* Case=All	ess_sli	32
-* Case=All	et_edt	6729
-* Case=All	et_ewt	803
-* Case=All	eu_bdt	864
-* Case=All	fi_ftb	1847
-* Case=All	fi_ood	193
-* Case=All	fi_pud	179
-* Case=All	fi_tdt	2399
-* Case=All	gub_tudet	10
-* Case=All	hu_szeged	172
-* Case=All	olo_kkpp	17
-* Case=All	tpn_tudet	6
-* Case=All	wbp_ufal	2
-* Case=Apr	koi_uh	2
-* Case=Apr	kpv_lattice	20
-* Case=AprIll	kpv_lattice	1
-* Case=Ben	am_att	37
-* Case=Ben	eu_bdt	131
-* Case=Ben	ta_mwtt	4
-* Case=Car	koi_uh	1
-* Case=Car	kpv_ikdp	1
-* Case=Car	kpv_lattice	7
-* Case=Cau	eu_bdt	123
-* Case=Cau	hu_szeged	62
-* Case=Cau	mdf_jr	7
-* Case=Cau	wbp_ufal	1
-* Case=Cmp	koi_uh	3
-* Case=Cmp	kpv_lattice	2
-* Case=Cmp	mdf_jr	7
-* Case=Cmp	myv_jr	13
-* Case=Cns	kpv_lattice	3
-* Case=Cns	wbp_ufal	1
-* Case=Com	apu_ufpa	4
-* Case=Com	bej_nsc	1
-* Case=Com	bxr_bdt	106
-* Case=Com	es_ancora	15
-* Case=Com	es_gsd	8
-* Case=Com	es_pud	1
-* Case=Com	et_edt	5284
-* Case=Com	et_ewt	669
-* Case=Com	eu_bdt	659
-* Case=Com	fi_ftb	95
-* Case=Com	fi_ood	5
-* Case=Com	fi_pud	4
-* Case=Com	fi_tdt	47
-* Case=Com	koi_uh	1
-* Case=Com	kpv_ikdp	7
-* Case=Com	kpv_lattice	29
-* Case=Com	krl_kkpp	2
-* Case=Com	mdf_jr	3
-* Case=Com	mr_ufal	4
-* Case=Com	myv_jr	4
-* Case=Com	olo_kkpp	1
-* Case=Com	sme_giella	332
-* Case=Com	sms_giellagas	10
-* Case=Com	ta_mwtt	11
-* Case=Com	ta_ttb	13
-* Case=Com	wbp_ufal	1
-* Case=Con	kmr_mg	1288
-* Case=Dat	apu_ufpa	9
-* Case=Dat	aqz_tudet	1
-* Case=Dat	be_hse	3250
-* Case=Dat	bej_nsc	2
-* Case=Dat	bg_btb	837
-* Case=Dat	bho_bhtb	29
-* Case=Dat	bxr_bdt	508
-* Case=Dat	ca_ancora	7993
-* Case=Dat	cs_cac	14071
-* Case=Dat	cs_cltt	1144
-* Case=Dat	cs_fictree	6120
-* Case=Dat	cs_pdt	40856
-* Case=Dat	cs_pud	502
-* Case=Dat	cu_proiel	3696
-* Case=Dat	de_gsd	46630
-* Case=Dat	de_hdt	431059
-* Case=Dat	de_pud	3087
-* Case=Dat	el_gdt	43
-* Case=Dat	es_ancora	2256
-* Case=Dat	es_gsd	6939
-* Case=Dat	es_pud	380
-* Case=Dat	eu_bdt	1216
-* Case=Dat	fo_farpahc	3207
-* Case=Dat	fo_oft	1055
-* Case=Dat	ga_idt	285
-* Case=Dat	gd_arcosg	4379
-* Case=Dat	gl_treegal	121
-* Case=Dat	got_proiel	7682
-* Case=Dat	grc_perseus	14381
-* Case=Dat	grc_proiel	17743
-* Case=Dat	gub_tudet	8
-* Case=Dat	hi_hdtb	1165
-* Case=Dat	hi_pud	2
-* Case=Dat	hr_set	2716
-* Case=Dat	hsb_ufal	128
-* Case=Dat	hu_szeged	322
-* Case=Dat	hy_armtdp	6431
-* Case=Dat	hyw_armtdp	3375
-* Case=Dat	is_icepahc	94074
-* Case=Dat	is_modern	14734
-* Case=Dat	is_pud	1941
-* Case=Dat	kk_ktb	466
-* Case=Dat	koi_uh	11
-* Case=Dat	kpv_ikdp	12
-* Case=Dat	kpv_lattice	61
-* Case=Dat	la_ittb	7032
-* Case=Dat	la_llct	5781
-* Case=Dat	la_perseus	807
-* Case=Dat	la_proiel	6504
-* Case=Dat	la_udante	918
-* Case=Dat	lt_alksnis	1598
-* Case=Dat	lt_hse	137
-* Case=Dat	lv_lvtb	11853
-* Case=Dat	mdf_jr	48
-* Case=Dat	mr_ufal	134
-* Case=Dat	myv_jr	246
-* Case=Dat	nl_alpino	4
-* Case=Dat	orv_rnc	2430
-* Case=Dat	orv_torot	9650
-* Case=Dat	pl_lfg	1654
-* Case=Dat	pl_pdb	3669
-* Case=Dat	pl_pud	190
-* Case=Dat	pt_bosque	228
-* Case=Dat	pt_pud	9
-* Case=Dat	qtd_sagt	1751
-* Case=Dat	ro_art	13
-* Case=Dat	ro_nonstandard	26677
-* Case=Dat	ro_rrt	12835
-* Case=Dat	ro_simonero	229
-* Case=Dat	ru_gsd	2165
-* Case=Dat	ru_pud	452
-* Case=Dat	ru_syntagrus	27147
-* Case=Dat	ru_taiga	4257
-* Case=Dat	sa_ufal	20
-* Case=Dat	sa_vedic	760
-* Case=Dat	sk_snk	2630
-* Case=Dat	sl_ssj	2712
-* Case=Dat	sl_sst	382
-* Case=Dat	sq_tsa	10
-* Case=Dat	sr_set	1296
-* Case=Dat	ta_mwtt	148
-* Case=Dat	ta_ttb	262
-* Case=Dat	tl_trg	34
-* Case=Dat	tpn_tudet	1
-* Case=Dat	tr_boun	5285
-* Case=Dat	tr_framenet	924
-* Case=Dat	tr_gb	784
-* Case=Dat	tr_imst	2762
-* Case=Dat	tr_kenet	8164
-* Case=Dat	tr_penn	2764
-* Case=Dat	tr_pud	727
-* Case=Dat	tr_tourism	1718
-* Case=Dat	ug_udt	993
-* Case=Dat	uk_iu	1388
-* Case=Dat	ur_udtb	366
-* Case=Dat	wbp_ufal	18
-* Case=Del	hu_szeged	159
-* Case=Dis	bej_nsc	3
-* Case=Dis	hu_szeged	8
-* Case=Egr	koi_uh	4
-* Case=Egr	kpv_ikdp	4
-* Case=Egr	kpv_lattice	20
-* Case=Ela	et_edt	7522
-* Case=Ela	et_ewt	1096
-* Case=Ela	fi_ftb	3459
-* Case=Ela	fi_ood	336
-* Case=Ela	fi_pud	410
-* Case=Ela	fi_tdt	5239
-* Case=Ela	hu_szeged	158
-* Case=Ela	koi_uh	7
-* Case=Ela	kpv_ikdp	24
-* Case=Ela	kpv_lattice	119
-* Case=Ela	krl_kkpp	38
-* Case=Ela	mdf_jr	38
-* Case=Ela	myv_jr	295
-* Case=Ela	olo_kkpp	31
-* Case=Ela	wbp_ufal	2
-* Case=Equ	ess_sli	3
-* Case=Equ	qtd_sagt	18
-* Case=Equ	tr_boun	50
-* Case=Equ	tr_gb	5
-* Case=Equ	tr_imst	38
-* Case=Erg	bho_bhtb	6
-* Case=Erg	ess_sli	42
-* Case=Erg	eu_bdt	4402
-* Case=Erg	hi_hdtb	1768
-* Case=Erg	hi_pud	256
-* Case=Erg	mr_ufal	68
-* Case=Erg	ur_udtb	1
-* Case=Erg	wbp_ufal	40
-* Case=Ess	et_edt	859
-* Case=Ess	et_ewt	88
-* Case=Ess	eu_bdt	76
-* Case=Ess	fi_ftb	1474
-* Case=Ess	fi_ood	133
-* Case=Ess	fi_pud	281
-* Case=Ess	fi_tdt	2458
-* Case=Ess	hu_szeged	365
-* Case=Ess	krl_kkpp	38
-* Case=Ess	olo_kkpp	18
-* Case=Ess	sme_giella	304
-* Case=Ess	sms_giellagas	20
-* Case=Gen	akk_riao	3227
-* Case=Gen	ar_nyuad	211657
-* Case=Gen	ar_padt	98249
-* Case=Gen	ar_pud	6551
-* Case=Gen	be_hse	38090
-* Case=Gen	bej_nsc	12
-* Case=Gen	bho_bhtb	8
-* Case=Gen	bxr_bdt	752
-* Case=Gen	ca_ancora	354
-* Case=Gen	cs_cac	87603
-* Case=Gen	cs_cltt	8014
-* Case=Gen	cs_fictree	11896
-* Case=Gen	cs_pdt	225849
-* Case=Gen	cs_pud	2512
-* Case=Gen	cu_proiel	4452
-* Case=Gen	da_ddt	1137
-* Case=Gen	de_gsd	18108
-* Case=Gen	de_hdt	112049
-* Case=Gen	de_pud	1175
-* Case=Gen	el_gdt	9025
-* Case=Gen	ess_sli	37
-* Case=Gen	et_edt	54353
-* Case=Gen	et_ewt	4814
-* Case=Gen	eu_bdt	3903
-* Case=Gen	fi_ftb	13778
-* Case=Gen	fi_ood	1469
-* Case=Gen	fi_pud	2133
-* Case=Gen	fi_tdt	24853
-* Case=Gen	fo_farpahc	1090
-* Case=Gen	fo_oft	103
-* Case=Gen	ga_idt	10780
-* Case=Gen	gd_arcosg	3388
-* Case=Gen	got_proiel	3559
-* Case=Gen	grc_perseus	18809
-* Case=Gen	grc_proiel	28544
-* Case=Gen	gv_cadhan	25
-* Case=Gen	he_htb	4905
-* Case=Gen	hi_hdtb	2848
-* Case=Gen	hi_pud	1215
-* Case=Gen	hr_set	32300
-* Case=Gen	hsb_ufal	1083
-* Case=Gen	hu_szeged	362
-* Case=Gen	hy_armtdp	874
-* Case=Gen	hyw_armtdp	705
-* Case=Gen	is_icepahc	41999
-* Case=Gen	is_modern	5840
-* Case=Gen	is_pud	1042
-* Case=Gen	kk_ktb	465
-* Case=Gen	ko_pud	656
-* Case=Gen	koi_uh	17
-* Case=Gen	kpv_ikdp	58
-* Case=Gen	kpv_lattice	96
-* Case=Gen	krl_kkpp	360
-* Case=Gen	la_ittb	28627
-* Case=Gen	la_llct	21011
-* Case=Gen	la_perseus	1267
-* Case=Gen	la_proiel	10891
-* Case=Gen	la_udante	3450
-* Case=Gen	lt_alksnis	14889
-* Case=Gen	lt_hse	659
-* Case=Gen	lv_lvtb	29646
-* Case=Gen	mdf_jr	264
-* Case=Gen	mpu_tudet	7
-* Case=Gen	myv_jr	1508
-* Case=Gen	nl_alpino	2
-* Case=Gen	no_bokmaal	2702
-* Case=Gen	no_nynorsk	958
-* Case=Gen	no_nynorsklia	1
-* Case=Gen	olo_kkpp	125
-* Case=Gen	orv_rnc	3543
-* Case=Gen	orv_torot	15819
-* Case=Gen	pcm_nsc	10
-* Case=Gen	pl_lfg	10508
-* Case=Gen	pl_pdb	49010
-* Case=Gen	pl_pud	3006
-* Case=Gen	qtd_sagt	320
-* Case=Gen	ro_art	4
-* Case=Gen	ro_nonstandard	18642
-* Case=Gen	ro_rrt	11658
-* Case=Gen	ro_simonero	10449
-* Case=Gen	ru_gsd	17756
-* Case=Gen	ru_pud	2832
-* Case=Gen	ru_syntagrus	152749
-* Case=Gen	ru_taiga	15864
-* Case=Gen	sa_ufal	73
-* Case=Gen	sa_vedic	1494
-* Case=Gen	sk_snk	11102
-* Case=Gen	sl_ssj	15636
-* Case=Gen	sl_sst	1443
-* Case=Gen	sme_giella	2039
-* Case=Gen	sms_giellagas	55
-* Case=Gen	sq_tsa	66
-* Case=Gen	sr_set	15887
-* Case=Gen	sv_lines	2003
-* Case=Gen	sv_pud	226
-* Case=Gen	sv_talbanken	1157
-* Case=Gen	ta_mwtt	31
-* Case=Gen	ta_ttb	177
-* Case=Gen	tl_trg	65
-* Case=Gen	tr_boun	4970
-* Case=Gen	tr_framenet	441
-* Case=Gen	tr_gb	507
-* Case=Gen	tr_imst	2334
-* Case=Gen	tr_kenet	5457
-* Case=Gen	tr_penn	2329
-* Case=Gen	tr_pud	769
-* Case=Gen	tr_tourism	960
-* Case=Gen	ug_udt	995
-* Case=Gen	uk_iu	21422
-* Case=Gen	ur_udtb	35
-* Case=Gen	wbp_ufal	2
-* Case=Gen	wo_wtb	1317
-* Case=Gen	yo_ytb	233
-* Case=Gen	zh_gsd	3286
-* Case=Gen	zh_gsdsimp	3286
-* Case=Gen	zh_pud	709
-* Case=Ill	et_edt	3972
-* Case=Ill	et_ewt	669
-* Case=Ill	fi_ftb	4169
-* Case=Ill	fi_ood	460
-* Case=Ill	fi_pud	497
-* Case=Ill	fi_tdt	6176
-* Case=Ill	hu_szeged	168
-* Case=Ill	koi_uh	24
-* Case=Ill	kpv_ikdp	67
-* Case=Ill	kpv_lattice	242
-* Case=Ill	krl_kkpp	97
-* Case=Ill	lt_alksnis	9
-* Case=Ill	mdf_jr	50
-* Case=Ill	myv_jr	379
-* Case=Ill	olo_kkpp	48
-* Case=Ill	sme_giella	770
-* Case=Ill	sms_giellagas	35
-* Case=Ine	et_edt	10938
-* Case=Ine	et_ewt	1308
-* Case=Ine	eu_bdt	5755
-* Case=Ine	fi_ftb	4072
-* Case=Ine	fi_ood	458
-* Case=Ine	fi_pud	497
-* Case=Ine	fi_tdt	6771
-* Case=Ine	hi_hdtb	482
-* Case=Ine	hu_szeged	968
-* Case=Ine	koi_uh	21
-* Case=Ine	kpv_ikdp	64
-* Case=Ine	kpv_lattice	242
-* Case=Ine	krl_kkpp	109
-* Case=Ine	mdf_jr	92
-* Case=Ine	myv_jr	429
-* Case=Ine	olo_kkpp	41
-* Case=Ins	am_att	8
-* Case=Ins	be_hse	8544
-* Case=Ins	cs_cac	26604
-* Case=Ins	cs_cltt	2123
-* Case=Ins	cs_fictree	6541
-* Case=Ins	cs_pdt	69473
-* Case=Ins	cs_pud	910
-* Case=Ins	cu_proiel	1045
-* Case=Ins	eu_bdt	1071
-* Case=Ins	fi_ftb	404
-* Case=Ins	fi_ood	47
-* Case=Ins	fi_pud	52
-* Case=Ins	fi_tdt	493
-* Case=Ins	hi_hdtb	511
-* Case=Ins	hi_pud	42
-* Case=Ins	hr_set	6184
-* Case=Ins	hsb_ufal	309
-* Case=Ins	hu_szeged	571
-* Case=Ins	hy_armtdp	1002
-* Case=Ins	hyw_armtdp	722
-* Case=Ins	kk_ktb	105
-* Case=Ins	koi_uh	5
-* Case=Ins	kpv_ikdp	32
-* Case=Ins	kpv_lattice	182
-* Case=Ins	krl_kkpp	6
-* Case=Ins	lt_alksnis	2489
-* Case=Ins	lt_hse	169
-* Case=Ins	mr_ufal	16
-* Case=Ins	olo_kkpp	6
-* Case=Ins	orv_rnc	1063
-* Case=Ins	orv_torot	5173
-* Case=Ins	pl_lfg	3424
-* Case=Ins	pl_pdb	11914
-* Case=Ins	pl_pud	690
-* Case=Ins	qtd_sagt	107
-* Case=Ins	ru_gsd	3865
-* Case=Ins	ru_pud	884
-* Case=Ins	ru_syntagrus	40011
-* Case=Ins	ru_taiga	5306
-* Case=Ins	sa_ufal	88
-* Case=Ins	sa_vedic	1073
-* Case=Ins	sk_snk	4505
-* Case=Ins	sl_ssj	6016
-* Case=Ins	sl_sst	591
-* Case=Ins	sr_set	2890
-* Case=Ins	ta_mwtt	10
-* Case=Ins	ta_ttb	24
-* Case=Ins	tr_boun	1413
-* Case=Ins	tr_framenet	150
-* Case=Ins	tr_gb	166
-* Case=Ins	tr_imst	777
-* Case=Ins	tr_kenet	1929
-* Case=Ins	tr_penn	352
-* Case=Ins	tr_pud	187
-* Case=Ins	tr_tourism	395
-* Case=Ins	uk_iu	6269
-* Case=Ins	ur_udtb	3
-* Case=Ins	wbp_ufal	1
-* Case=Lat	eu_bdt	19
-* Case=Lat	fi_ftb	3395
-* Case=Lat	mdf_jr	44
-* Case=Lat	myv_jr	173
-* Case=Loc	akk_riao	29
-* Case=Loc	am_att	27
-* Case=Loc	apu_ufpa	14
-* Case=Loc	aqz_tudet	2
-* Case=Loc	be_hse	13609
-* Case=Loc	bej_nsc	7
-* Case=Loc	ca_ancora	1317
-* Case=Loc	cs_cac	48780
-* Case=Loc	cs_cltt	3576
-* Case=Loc	cs_fictree	9145
-* Case=Loc	cs_pdt	134749
-* Case=Loc	cs_pud	1798
-* Case=Loc	cu_proiel	1664
-* Case=Loc	ess_sli	27
-* Case=Loc	eu_bdt	5149
-* Case=Loc	fa_seraji	167
-* Case=Loc	grc_perseus	1
-* Case=Loc	gub_tudet	22
-* Case=Loc	hi_pud	593
-* Case=Loc	hr_set	17662
-* Case=Loc	hsb_ufal	606
-* Case=Loc	hu_szeged	1
-* Case=Loc	hy_armtdp	760
-* Case=Loc	hyw_armtdp	2
-* Case=Loc	kfm_aha	1
-* Case=Loc	kk_ktb	388
-* Case=Loc	kpv_ikdp	1
-* Case=Loc	kpv_lattice	33
-* Case=Loc	la_ittb	1004
-* Case=Loc	la_llct	25
-* Case=Loc	la_perseus	18
-* Case=Loc	la_udante	3
-* Case=Loc	lt_alksnis	1725
-* Case=Loc	lt_hse	115
-* Case=Loc	lv_lvtb	13568
-* Case=Loc	lzh_kyoto	22498
-* Case=Loc	mdf_jr	43
-* Case=Loc	mr_ufal	71
-* Case=Loc	myv_jr	241
-* Case=Loc	nyq_aha	1
-* Case=Loc	orv_rnc	1345
-* Case=Loc	orv_torot	5075
-* Case=Loc	pl_lfg	5503
-* Case=Loc	pl_pdb	20598
-* Case=Loc	pl_pud	1213
-* Case=Loc	qtd_sagt	587
-* Case=Loc	ru_gsd	6542
-* Case=Loc	ru_pud	1057
-* Case=Loc	ru_syntagrus	50659
-* Case=Loc	ru_taiga	6426
-* Case=Loc	sa_ufal	63
-* Case=Loc	sa_vedic	719
-* Case=Loc	sk_snk	7416
-* Case=Loc	sl_ssj	13267
-* Case=Loc	sl_sst	1537
-* Case=Loc	sme_giella	1267
-* Case=Loc	sms_giellagas	30
-* Case=Loc	sr_set	8677
-* Case=Loc	ta_mwtt	45
-* Case=Loc	ta_ttb	487
-* Case=Loc	tpn_tudet	23
-* Case=Loc	tr_boun	5339
-* Case=Loc	tr_framenet	499
-* Case=Loc	tr_gb	743
-* Case=Loc	tr_imst	2149
-* Case=Loc	tr_kenet	4994
-* Case=Loc	tr_penn	2529
-* Case=Loc	tr_pud	987
-* Case=Loc	tr_tourism	848
-* Case=Loc	ug_udt	792
-* Case=Loc	uk_iu	7720
-* Case=Loc	wbp_ufal	6
-* Case=Mal	am_att	40
-* Case=Nom	af_afribooms	4591
-* Case=Nom	aii_as	7
-* Case=Nom	akk_riao	1169
-* Case=Nom	apu_ufpa	89
-* Case=Nom	ar_nyuad	46424
-* Case=Nom	ar_padt	19465
-* Case=Nom	ar_pud	1568
-* Case=Nom	be_hse	43065
-* Case=Nom	bej_nsc	33
-* Case=Nom	bg_btb	4831
-* Case=Nom	bho_bhtb	2650
-* Case=Nom	br_keb	43
-* Case=Nom	bxr_bdt	2430
-* Case=Nom	ca_ancora	86
-* Case=Nom	cs_cac	58394
-* Case=Nom	cs_cltt	4341
-* Case=Nom	cs_fictree	18443
-* Case=Nom	cs_pdt	203304
-* Case=Nom	cs_pud	2507
-* Case=Nom	cu_proiel	9819
-* Case=Nom	da_ddt	2836
-* Case=Nom	de_gsd	48999
-* Case=Nom	de_hdt	249763
-* Case=Nom	de_pud	3731
-* Case=Nom	el_gdt	9253
-* Case=Nom	en_ewt	11785
-* Case=Nom	en_gum	4683
-* Case=Nom	en_gumreddit	933
-* Case=Nom	en_lines	4980
-* Case=Nom	en_pronouns	10
-* Case=Nom	en_pud	388
-* Case=Nom	es_ancora	1114
-* Case=Nom	es_gsd	790
-* Case=Nom	es_pud	46
-* Case=Nom	et_edt	73205
-* Case=Nom	et_ewt	12014
-* Case=Nom	fi_ftb	29633
-* Case=Nom	fi_ood	4130
-* Case=Nom	fi_pud	3059
-* Case=Nom	fi_tdt	35590
-* Case=Nom	fo_farpahc	5935
-* Case=Nom	fo_oft	2933
-* Case=Nom	gd_arcosg	6086
-* Case=Nom	gl_treegal	27
-* Case=Nom	got_proiel	9445
-* Case=Nom	grc_perseus	28554
-* Case=Nom	grc_proiel	36776
-* Case=Nom	hi_hdtb	83564
-* Case=Nom	hi_pud	2880
-* Case=Nom	hr_set	31064
-* Case=Nom	hsb_ufal	1927
-* Case=Nom	hu_szeged	13754
-* Case=Nom	hy_armtdp	8879
-* Case=Nom	hyw_armtdp	5860
-* Case=Nom	is_icepahc	169489
-* Case=Nom	is_modern	23492
-* Case=Nom	is_pud	2741
-* Case=Nom	it_pud	6
-* Case=Nom	kk_ktb	2491
-* Case=Nom	kmr_mg	985
-* Case=Nom	ko_pud	1525
-* Case=Nom	koi_uh	181
-* Case=Nom	kpv_ikdp	543
-* Case=Nom	kpv_lattice	2165
-* Case=Nom	krl_kkpp	533
-* Case=Nom	la_ittb	72853
-* Case=Nom	la_llct	28579
-* Case=Nom	la_perseus	3597
-* Case=Nom	la_proiel	30510
-* Case=Nom	la_udante	7943
-* Case=Nom	lt_alksnis	9298
-* Case=Nom	lt_hse	820
-* Case=Nom	lv_lvtb	40805
-* Case=Nom	mdf_jr	613
-* Case=Nom	mr_ufal	623
-* Case=Nom	myv_jr	3311
-* Case=Nom	nl_alpino	2633
-* Case=Nom	nl_lassysmall	618
-* Case=Nom	no_bokmaal	9531
-* Case=Nom	no_nynorsk	7049
-* Case=Nom	no_nynorsklia	3830
-* Case=Nom	olo_kkpp	228
-* Case=Nom	orv_rnc	3608
-* Case=Nom	orv_torot	22921
-* Case=Nom	pcm_nsc	11902
-* Case=Nom	pl_lfg	15008
-* Case=Nom	pl_pdb	41883
-* Case=Nom	pl_pud	2523
-* Case=Nom	pt_bosque	534
-* Case=Nom	pt_pud	204
-* Case=Nom	qtd_sagt	6701
-* Case=Nom	ro_art	103
-* Case=Nom	ro_nonstandard	158924
-* Case=Nom	ro_rrt	45330
-* Case=Nom	ro_simonero	32080
-* Case=Nom	ru_gsd	15373
-* Case=Nom	ru_pud	2562
-* Case=Nom	ru_syntagrus	140974
-* Case=Nom	ru_taiga	32672
-* Case=Nom	sa_ufal	475
-* Case=Nom	sa_vedic	7186
-* Case=Nom	sk_snk	14600
-* Case=Nom	sl_ssj	16750
-* Case=Nom	sl_sst	3786
-* Case=Nom	sme_giella	4327
-* Case=Nom	sms_giellagas	309
-* Case=Nom	sq_tsa	105
-* Case=Nom	sr_set	16670
-* Case=Nom	sv_lines	28476
-* Case=Nom	sv_pud	7134
-* Case=Nom	sv_talbanken	34742
-* Case=Nom	ta_mwtt	690
-* Case=Nom	ta_ttb	2929
-* Case=Nom	tl_trg	121
-* Case=Nom	tr_boun	34130
-* Case=Nom	tr_framenet	3706
-* Case=Nom	tr_gb	3401
-* Case=Nom	tr_imst	13476
-* Case=Nom	tr_kenet	38738
-* Case=Nom	tr_penn	25117
-* Case=Nom	tr_pud	1224
-* Case=Nom	tr_tourism	20702
-* Case=Nom	ug_udt	10018
-* Case=Nom	uk_iu	15911
-* Case=Nom	ur_udtb	37334
-* Case=Nom	wo_wtb	1986
-* Case=Nom	yo_ytb	556
-* Case=NomAcc	ga_idt	27068
-* Case=Par	et_edt	27868
-* Case=Par	et_ewt	4067
-* Case=Par	eu_bdt	717
-* Case=Par	fi_ftb	12499
-* Case=Par	fi_ood	1584
-* Case=Par	fi_pud	1167
-* Case=Par	fi_tdt	15747
-* Case=Par	krl_kkpp	280
-* Case=Par	olo_kkpp	132
-* Case=Par	ru_gsd	2
-* Case=Par	ru_syntagrus	104
-* Case=Par	ru_taiga	47
-* Case=Par	sms_giellagas	1
-* Case=Per	ess_sli	4
-* Case=Per	tpn_tudet	4
-* Case=Per	wbp_ufal	1
-* Case=Prl	koi_uh	1
-* Case=Prl	kpv_ikdp	1
-* Case=Prl	kpv_lattice	9
-* Case=Prl	mdf_jr	29
-* Case=Prl	myv_jr	151
-* Case=Prp	kpv_ikdp	3
-* Case=Prp	kpv_lattice	18
-* Case=Ref	tpn_tudet	136
-* Case=Sub	hu_szeged	567
-* Case=Sup	hu_szeged	609
-* Case=Tem	apu_ufpa	3
-* Case=Tem	fa_seraji	941
-* Case=Tem	he_htb	145
-* Case=Tem	hu_szeged	14
-* Case=Tem	kfm_aha	3
-* Case=Tem	lzh_kyoto	5818
-* Case=Tem	mdf_jr	5
-* Case=Tem	myv_jr	12
-* Case=Tem	nyq_aha	3
-* Case=Tem	soj_aha	3
-* Case=Ter	et_edt	471
-* Case=Ter	et_ewt	31
-* Case=Ter	hu_szeged	52
-* Case=Ter	kpv_ikdp	2
-* Case=Ter	kpv_lattice	23
-* Case=Ter	olo_kkpp	2
-* Case=Tra	aqz_tudet	11
-* Case=Tra	et_edt	5041
-* Case=Tra	et_ewt	553
-* Case=Tra	fi_ftb	1156
-* Case=Tra	fi_ood	96
-* Case=Tra	fi_pud	96
-* Case=Tra	fi_tdt	1458
-* Case=Tra	hu_szeged	54
-* Case=Tra	kpv_ikdp	5
-* Case=Tra	kpv_lattice	9
-* Case=Tra	krl_kkpp	12
-* Case=Tra	mdf_jr	18
-* Case=Tra	myv_jr	88
-* Case=Tra	olo_kkpp	13
-* Case=Tra	tpn_tudet	35
-* Case=Voc	be_hse	14
-* Case=Voc	bej_nsc	2
-* Case=Voc	bg_btb	29
-* Case=Voc	cs_cac	107
-* Case=Voc	cs_fictree	429
-* Case=Voc	cs_pdt	193
-* Case=Voc	cs_pud	1
-* Case=Voc	cu_proiel	400
-* Case=Voc	el_gdt	186
-* Case=Voc	ess_sli	1
-* Case=Voc	fa_seraji	4
-* Case=Voc	ga_idt	58
-* Case=Voc	gd_arcosg	96
-* Case=Voc	got_proiel	251
-* Case=Voc	grc_perseus	1238
-* Case=Voc	grc_proiel	830
-* Case=Voc	hr_set	34
-* Case=Voc	kmr_mg	1
-* Case=Voc	la_ittb	49
-* Case=Voc	la_llct	51
-* Case=Voc	la_perseus	110
-* Case=Voc	la_proiel	685
-* Case=Voc	la_udante	120
-* Case=Voc	lt_alksnis	19
-* Case=Voc	lt_hse	1
-* Case=Voc	lv_lvtb	95
-* Case=Voc	mr_ufal	2
-* Case=Voc	orv_rnc	36
-* Case=Voc	orv_torot	599
-* Case=Voc	pl_lfg	216
-* Case=Voc	pl_pdb	302
-* Case=Voc	pl_pud	1
-* Case=Voc	ro_art	2
-* Case=Voc	ro_nonstandard	1793
-* Case=Voc	ro_rrt	48
-* Case=Voc	ro_simonero	4
-* Case=Voc	ru_gsd	1
-* Case=Voc	ru_syntagrus	16
-* Case=Voc	ru_taiga	16
-* Case=Voc	sa_ufal	14
-* Case=Voc	sa_vedic	454
-* Case=Voc	sk_snk	42
-* Case=Voc	sr_set	2
-* Case=Voc	tpn_tudet	3
-* Case=Voc	uk_iu	158
+* `Abe` (et_edt&nbsp;(612), et_ewt&nbsp;(95), fi_ftb&nbsp;(225), fi_ood&nbsp;(18), fi_pud&nbsp;(4), fi_tdt&nbsp;(154), kpv_lattice&nbsp;(9), krl_kkpp&nbsp;(2), mdf_jr&nbsp;(2), myv_jr&nbsp;(16), olo_kkpp&nbsp;(3), sme_giella&nbsp;(11), sms_giellagas&nbsp;(2))
+* `Abl` (am_att&nbsp;(2), aqz_tudet&nbsp;(3), bej_nsc&nbsp;(18), bxr_bdt&nbsp;(83), ess_sli&nbsp;(85), et_edt&nbsp;(966), et_ewt&nbsp;(99), eu_bdt&nbsp;(882), fi_ftb&nbsp;(835), fi_ood&nbsp;(65), fi_pud&nbsp;(55), fi_tdt&nbsp;(998), hi_pud&nbsp;(1), hu_szeged&nbsp;(110), hy_armtdp&nbsp;(776), hyw_armtdp&nbsp;(625), kk_ktb&nbsp;(184), kpv_ikdp&nbsp;(5), kpv_lattice&nbsp;(24), krl_kkpp&nbsp;(6), la_ittb&nbsp;(34875), la_llct&nbsp;(37334), la_perseus&nbsp;(3093), la_proiel&nbsp;(21296), la_udante&nbsp;(4747), mdf_jr&nbsp;(46), mr_ufal&nbsp;(1), myv_jr&nbsp;(255), olo_kkpp&nbsp;(3), qtd_sagt&nbsp;(298), sa_ufal&nbsp;(19), sa_vedic&nbsp;(327), sq_tsa&nbsp;(7), ta_mwtt&nbsp;(7), tr_boun&nbsp;(2160), tr_framenet&nbsp;(394), tr_gb&nbsp;(316), tr_imst&nbsp;(1060), tr_kenet&nbsp;(3668), tr_penn&nbsp;(1239), tr_pud&nbsp;(339), tr_tourism&nbsp;(1440), ug_udt&nbsp;(535))
+* `Abs` (ess_sli&nbsp;(239), eu_bdt&nbsp;(17381), hu_szeged&nbsp;(57), mr_ufal&nbsp;(320), wbp_ufal&nbsp;(64))
+* `Acc` (af_afribooms&nbsp;(784), aii_as&nbsp;(5), akk_riao&nbsp;(268), ar_nyuad&nbsp;(76333), ar_padt&nbsp;(29086), ar_pud&nbsp;(1415), be_hse&nbsp;(25376), bej_nsc&nbsp;(66), bg_btb&nbsp;(4414), bho_bhtb&nbsp;(1391), br_keb&nbsp;(132), bxr_bdt&nbsp;(179), ca_ancora&nbsp;(8689), cs_cac&nbsp;(60370), cs_cltt&nbsp;(4071), cs_fictree&nbsp;(23656), cs_pdt&nbsp;(180442), cs_pud&nbsp;(2258), cu_proiel&nbsp;(7638), da_ddt&nbsp;(2301), de_gsd&nbsp;(31014), de_hdt&nbsp;(262114), de_pud&nbsp;(2653), el_gdt&nbsp;(16223), en_ewt&nbsp;(3204), en_gum&nbsp;(1274), en_gumreddit&nbsp;(290), en_lines&nbsp;(1244), en_pud&nbsp;(96), es_ancora&nbsp;(9658), es_gsd&nbsp;(8988), es_pud&nbsp;(470), fi_ftb&nbsp;(149), fi_ood&nbsp;(8), fi_pud&nbsp;(16), fi_tdt&nbsp;(154), fo_farpahc&nbsp;(4261), fo_oft&nbsp;(577), gl_treegal&nbsp;(107), got_proiel&nbsp;(7057), grc_perseus&nbsp;(34666), grc_proiel&nbsp;(39513), he_htb&nbsp;(2058), hi_hdtb&nbsp;(105947), hi_pud&nbsp;(5065), hr_set&nbsp;(26525), hsb_ufal&nbsp;(1050), hu_szeged&nbsp;(1960), hyw_armtdp&nbsp;(179), is_icepahc&nbsp;(94020), is_modern&nbsp;(15900), is_pud&nbsp;(1914), it_pud&nbsp;(106), kk_ktb&nbsp;(368), kmr_mg&nbsp;(1636), ko_pud&nbsp;(1006), koi_uh&nbsp;(24), kpv_ikdp&nbsp;(55), kpv_lattice&nbsp;(218), krl_kkpp&nbsp;(2), la_ittb&nbsp;(46334), la_llct&nbsp;(39651), la_perseus&nbsp;(4726), la_proiel&nbsp;(30542), la_udante&nbsp;(6218), lt_alksnis&nbsp;(6589), lt_hse&nbsp;(382), lv_lvtb&nbsp;(23622), mr_ufal&nbsp;(187), nl_alpino&nbsp;(1113), nl_lassysmall&nbsp;(330), no_bokmaal&nbsp;(2852), no_nynorsk&nbsp;(2252), no_nynorsklia&nbsp;(693), olo_kkpp&nbsp;(43), orv_rnc&nbsp;(3060), orv_torot&nbsp;(20307), pcm_nsc&nbsp;(2819), pl_lfg&nbsp;(12198), pl_pdb&nbsp;(29675), pl_pud&nbsp;(1622), pt_bosque&nbsp;(1780), pt_pud&nbsp;(43), qtd_sagt&nbsp;(2436), ro_art&nbsp;(178), ro_nonstandard&nbsp;(248100), ro_rrt&nbsp;(80373), ro_simonero&nbsp;(21176), ru_gsd&nbsp;(6845), ru_pud&nbsp;(1521), ru_syntagrus&nbsp;(85922), ru_taiga&nbsp;(14634), sa_ufal&nbsp;(183), sa_vedic&nbsp;(4391), sk_snk&nbsp;(12554), sl_ssj&nbsp;(17265), sl_sst&nbsp;(3151), sme_giella&nbsp;(1782), sms_giellagas&nbsp;(123), sq_tsa&nbsp;(116), sr_set&nbsp;(12353), sv_lines&nbsp;(1657), sv_pud&nbsp;(125), sv_talbanken&nbsp;(727), ta_mwtt&nbsp;(104), ta_ttb&nbsp;(340), tr_boun&nbsp;(4723), tr_framenet&nbsp;(1080), tr_gb&nbsp;(861), tr_imst&nbsp;(2572), tr_kenet&nbsp;(6377), tr_penn&nbsp;(3178), tr_pud&nbsp;(628), tr_tourism&nbsp;(1914), ug_udt&nbsp;(1171), uk_iu&nbsp;(14143), ur_udtb&nbsp;(38434), wo_wtb&nbsp;(1065), yo_ytb&nbsp;(219))
+* `Add` (et_edt&nbsp;(2176), et_ewt&nbsp;(339))
+* `Ade` (et_edt&nbsp;(10808), et_ewt&nbsp;(1253), fi_ftb&nbsp;(3193), fi_ood&nbsp;(448), fi_pud&nbsp;(315), fi_tdt&nbsp;(4074), hu_szeged&nbsp;(80), krl_kkpp&nbsp;(102), olo_kkpp&nbsp;(37))
+* `Adp` (kpv_ikdp&nbsp;(4), kpv_lattice&nbsp;(15))
+* `Aff` (urb_tudet&nbsp;(25))
+* `All` (aqz_tudet&nbsp;(13), ess_sli&nbsp;(32), et_edt&nbsp;(6729), et_ewt&nbsp;(803), eu_bdt&nbsp;(864), fi_ftb&nbsp;(1847), fi_ood&nbsp;(193), fi_pud&nbsp;(179), fi_tdt&nbsp;(2399), gub_tudet&nbsp;(10), hu_szeged&nbsp;(172), olo_kkpp&nbsp;(17), tpn_tudet&nbsp;(6), wbp_ufal&nbsp;(2))
+* `Apr` (koi_uh&nbsp;(2), kpv_lattice&nbsp;(20))
+* `AprIll` (kpv_lattice&nbsp;(1))
+* `Ben` (am_att&nbsp;(37), eu_bdt&nbsp;(131), ta_mwtt&nbsp;(4))
+* `Car` (koi_uh&nbsp;(1), kpv_ikdp&nbsp;(1), kpv_lattice&nbsp;(7))
+* `Cau` (eu_bdt&nbsp;(123), hu_szeged&nbsp;(62), mdf_jr&nbsp;(7), wbp_ufal&nbsp;(1))
+* `Cmp` (koi_uh&nbsp;(3), kpv_lattice&nbsp;(2), mdf_jr&nbsp;(7), myv_jr&nbsp;(13))
+* `Cns` (kpv_lattice&nbsp;(3), wbp_ufal&nbsp;(1))
+* `Com` (apu_ufpa&nbsp;(4), bej_nsc&nbsp;(1), bxr_bdt&nbsp;(106), es_ancora&nbsp;(15), es_gsd&nbsp;(8), es_pud&nbsp;(1), et_edt&nbsp;(5284), et_ewt&nbsp;(669), eu_bdt&nbsp;(659), fi_ftb&nbsp;(95), fi_ood&nbsp;(5), fi_pud&nbsp;(4), fi_tdt&nbsp;(47), koi_uh&nbsp;(1), kpv_ikdp&nbsp;(7), kpv_lattice&nbsp;(29), krl_kkpp&nbsp;(2), mdf_jr&nbsp;(3), mr_ufal&nbsp;(4), myv_jr&nbsp;(4), olo_kkpp&nbsp;(1), sme_giella&nbsp;(332), sms_giellagas&nbsp;(10), ta_mwtt&nbsp;(11), ta_ttb&nbsp;(13), wbp_ufal&nbsp;(1))
+* `Con` (kmr_mg&nbsp;(1288))
+* `Dat` (apu_ufpa&nbsp;(9), aqz_tudet&nbsp;(1), be_hse&nbsp;(3250), bej_nsc&nbsp;(2), bg_btb&nbsp;(837), bho_bhtb&nbsp;(29), bxr_bdt&nbsp;(508), ca_ancora&nbsp;(7993), cs_cac&nbsp;(14071), cs_cltt&nbsp;(1144), cs_fictree&nbsp;(6120), cs_pdt&nbsp;(40856), cs_pud&nbsp;(502), cu_proiel&nbsp;(3696), de_gsd&nbsp;(46630), de_hdt&nbsp;(431059), de_pud&nbsp;(3087), el_gdt&nbsp;(43), es_ancora&nbsp;(2256), es_gsd&nbsp;(6939), es_pud&nbsp;(380), eu_bdt&nbsp;(1216), fo_farpahc&nbsp;(3207), fo_oft&nbsp;(1055), ga_idt&nbsp;(285), gd_arcosg&nbsp;(4379), gl_treegal&nbsp;(121), got_proiel&nbsp;(7682), grc_perseus&nbsp;(14381), grc_proiel&nbsp;(17743), gub_tudet&nbsp;(8), hi_hdtb&nbsp;(1165), hi_pud&nbsp;(2), hr_set&nbsp;(2716), hsb_ufal&nbsp;(128), hu_szeged&nbsp;(322), hy_armtdp&nbsp;(6431), hyw_armtdp&nbsp;(3375), is_icepahc&nbsp;(94074), is_modern&nbsp;(14734), is_pud&nbsp;(1941), kk_ktb&nbsp;(466), koi_uh&nbsp;(11), kpv_ikdp&nbsp;(12), kpv_lattice&nbsp;(61), la_ittb&nbsp;(7032), la_llct&nbsp;(5781), la_perseus&nbsp;(807), la_proiel&nbsp;(6504), la_udante&nbsp;(918), lt_alksnis&nbsp;(1598), lt_hse&nbsp;(137), lv_lvtb&nbsp;(11853), mdf_jr&nbsp;(48), mr_ufal&nbsp;(134), myv_jr&nbsp;(246), nl_alpino&nbsp;(4), orv_rnc&nbsp;(2430), orv_torot&nbsp;(9650), pl_lfg&nbsp;(1654), pl_pdb&nbsp;(3669), pl_pud&nbsp;(190), pt_bosque&nbsp;(228), pt_pud&nbsp;(9), qtd_sagt&nbsp;(1751), ro_art&nbsp;(13), ro_nonstandard&nbsp;(26677), ro_rrt&nbsp;(12835), ro_simonero&nbsp;(229), ru_gsd&nbsp;(2165), ru_pud&nbsp;(452), ru_syntagrus&nbsp;(27147), ru_taiga&nbsp;(4257), sa_ufal&nbsp;(20), sa_vedic&nbsp;(760), sk_snk&nbsp;(2630), sl_ssj&nbsp;(2712), sl_sst&nbsp;(382), sq_tsa&nbsp;(10), sr_set&nbsp;(1296), ta_mwtt&nbsp;(148), ta_ttb&nbsp;(262), tl_trg&nbsp;(34), tpn_tudet&nbsp;(1), tr_boun&nbsp;(5285), tr_framenet&nbsp;(924), tr_gb&nbsp;(784), tr_imst&nbsp;(2762), tr_kenet&nbsp;(8164), tr_penn&nbsp;(2764), tr_pud&nbsp;(727), tr_tourism&nbsp;(1718), ug_udt&nbsp;(993), uk_iu&nbsp;(1388), ur_udtb&nbsp;(366), wbp_ufal&nbsp;(18))
+* `Del` (hu_szeged&nbsp;(159))
+* `Dis` (bej_nsc&nbsp;(3), hu_szeged&nbsp;(8))
+* `Egr` (koi_uh&nbsp;(4), kpv_ikdp&nbsp;(4), kpv_lattice&nbsp;(20))
+* `Ela` (et_edt&nbsp;(7522), et_ewt&nbsp;(1096), fi_ftb&nbsp;(3459), fi_ood&nbsp;(336), fi_pud&nbsp;(410), fi_tdt&nbsp;(5239), hu_szeged&nbsp;(158), koi_uh&nbsp;(7), kpv_ikdp&nbsp;(24), kpv_lattice&nbsp;(119), krl_kkpp&nbsp;(38), mdf_jr&nbsp;(38), myv_jr&nbsp;(295), olo_kkpp&nbsp;(31), wbp_ufal&nbsp;(2))
+* `Equ` (ess_sli&nbsp;(3), qtd_sagt&nbsp;(18), tr_boun&nbsp;(50), tr_gb&nbsp;(5), tr_imst&nbsp;(38))
+* `Erg` (bho_bhtb&nbsp;(6), ess_sli&nbsp;(42), eu_bdt&nbsp;(4402), hi_hdtb&nbsp;(1768), hi_pud&nbsp;(256), mr_ufal&nbsp;(68), ur_udtb&nbsp;(1), wbp_ufal&nbsp;(40))
+* `Ess` (et_edt&nbsp;(859), et_ewt&nbsp;(88), eu_bdt&nbsp;(76), fi_ftb&nbsp;(1474), fi_ood&nbsp;(133), fi_pud&nbsp;(281), fi_tdt&nbsp;(2458), hu_szeged&nbsp;(365), krl_kkpp&nbsp;(38), olo_kkpp&nbsp;(18), sme_giella&nbsp;(304), sms_giellagas&nbsp;(20))
+* `Gen` (akk_riao&nbsp;(3227), ar_nyuad&nbsp;(211657), ar_padt&nbsp;(98249), ar_pud&nbsp;(6551), be_hse&nbsp;(38090), bej_nsc&nbsp;(12), bho_bhtb&nbsp;(8), bxr_bdt&nbsp;(752), ca_ancora&nbsp;(354), cs_cac&nbsp;(87603), cs_cltt&nbsp;(8014), cs_fictree&nbsp;(11896), cs_pdt&nbsp;(225849), cs_pud&nbsp;(2512), cu_proiel&nbsp;(4452), da_ddt&nbsp;(1137), de_gsd&nbsp;(18108), de_hdt&nbsp;(112049), de_pud&nbsp;(1175), el_gdt&nbsp;(9025), ess_sli&nbsp;(37), et_edt&nbsp;(54353), et_ewt&nbsp;(4814), eu_bdt&nbsp;(3903), fi_ftb&nbsp;(13778), fi_ood&nbsp;(1469), fi_pud&nbsp;(2133), fi_tdt&nbsp;(24853), fo_farpahc&nbsp;(1090), fo_oft&nbsp;(103), ga_idt&nbsp;(10780), gd_arcosg&nbsp;(3388), got_proiel&nbsp;(3559), grc_perseus&nbsp;(18809), grc_proiel&nbsp;(28544), gv_cadhan&nbsp;(25), he_htb&nbsp;(4905), hi_hdtb&nbsp;(2848), hi_pud&nbsp;(1215), hr_set&nbsp;(32300), hsb_ufal&nbsp;(1083), hu_szeged&nbsp;(362), hy_armtdp&nbsp;(874), hyw_armtdp&nbsp;(705), is_icepahc&nbsp;(41999), is_modern&nbsp;(5840), is_pud&nbsp;(1042), kk_ktb&nbsp;(465), ko_pud&nbsp;(656), koi_uh&nbsp;(17), kpv_ikdp&nbsp;(58), kpv_lattice&nbsp;(96), krl_kkpp&nbsp;(360), la_ittb&nbsp;(28627), la_llct&nbsp;(21011), la_perseus&nbsp;(1267), la_proiel&nbsp;(10891), la_udante&nbsp;(3450), lt_alksnis&nbsp;(14889), lt_hse&nbsp;(659), lv_lvtb&nbsp;(29646), mdf_jr&nbsp;(264), mpu_tudet&nbsp;(7), myv_jr&nbsp;(1508), nl_alpino&nbsp;(2), no_bokmaal&nbsp;(2702), no_nynorsk&nbsp;(958), no_nynorsklia&nbsp;(1), olo_kkpp&nbsp;(125), orv_rnc&nbsp;(3543), orv_torot&nbsp;(15819), pcm_nsc&nbsp;(10), pl_lfg&nbsp;(10508), pl_pdb&nbsp;(49010), pl_pud&nbsp;(3006), qtd_sagt&nbsp;(320), ro_art&nbsp;(4), ro_nonstandard&nbsp;(18642), ro_rrt&nbsp;(11658), ro_simonero&nbsp;(10449), ru_gsd&nbsp;(17756), ru_pud&nbsp;(2832), ru_syntagrus&nbsp;(152749), ru_taiga&nbsp;(15864), sa_ufal&nbsp;(73), sa_vedic&nbsp;(1494), sk_snk&nbsp;(11102), sl_ssj&nbsp;(15636), sl_sst&nbsp;(1443), sme_giella&nbsp;(2039), sms_giellagas&nbsp;(55), sq_tsa&nbsp;(66), sr_set&nbsp;(15887), sv_lines&nbsp;(2003), sv_pud&nbsp;(226), sv_talbanken&nbsp;(1157), ta_mwtt&nbsp;(31), ta_ttb&nbsp;(177), tl_trg&nbsp;(65), tr_boun&nbsp;(4970), tr_framenet&nbsp;(441), tr_gb&nbsp;(507), tr_imst&nbsp;(2334), tr_kenet&nbsp;(5457), tr_penn&nbsp;(2329), tr_pud&nbsp;(769), tr_tourism&nbsp;(960), ug_udt&nbsp;(995), uk_iu&nbsp;(21422), ur_udtb&nbsp;(35), wbp_ufal&nbsp;(2), wo_wtb&nbsp;(1317), yo_ytb&nbsp;(233), zh_gsd&nbsp;(3286), zh_gsdsimp&nbsp;(3286), zh_pud&nbsp;(709))
+* `Ill` (et_edt&nbsp;(3972), et_ewt&nbsp;(669), fi_ftb&nbsp;(4169), fi_ood&nbsp;(460), fi_pud&nbsp;(497), fi_tdt&nbsp;(6176), hu_szeged&nbsp;(168), koi_uh&nbsp;(24), kpv_ikdp&nbsp;(67), kpv_lattice&nbsp;(242), krl_kkpp&nbsp;(97), lt_alksnis&nbsp;(9), mdf_jr&nbsp;(50), myv_jr&nbsp;(379), olo_kkpp&nbsp;(48), sme_giella&nbsp;(770), sms_giellagas&nbsp;(35))
+* `Ine` (et_edt&nbsp;(10938), et_ewt&nbsp;(1308), eu_bdt&nbsp;(5755), fi_ftb&nbsp;(4072), fi_ood&nbsp;(458), fi_pud&nbsp;(497), fi_tdt&nbsp;(6771), hi_hdtb&nbsp;(482), hu_szeged&nbsp;(968), koi_uh&nbsp;(21), kpv_ikdp&nbsp;(64), kpv_lattice&nbsp;(242), krl_kkpp&nbsp;(109), mdf_jr&nbsp;(92), myv_jr&nbsp;(429), olo_kkpp&nbsp;(41))
+* `Ins` (am_att&nbsp;(8), be_hse&nbsp;(8544), cs_cac&nbsp;(26604), cs_cltt&nbsp;(2123), cs_fictree&nbsp;(6541), cs_pdt&nbsp;(69473), cs_pud&nbsp;(910), cu_proiel&nbsp;(1045), eu_bdt&nbsp;(1071), fi_ftb&nbsp;(404), fi_ood&nbsp;(47), fi_pud&nbsp;(52), fi_tdt&nbsp;(493), hi_hdtb&nbsp;(511), hi_pud&nbsp;(42), hr_set&nbsp;(6184), hsb_ufal&nbsp;(309), hu_szeged&nbsp;(571), hy_armtdp&nbsp;(1002), hyw_armtdp&nbsp;(722), kk_ktb&nbsp;(105), koi_uh&nbsp;(5), kpv_ikdp&nbsp;(32), kpv_lattice&nbsp;(182), krl_kkpp&nbsp;(6), lt_alksnis&nbsp;(2489), lt_hse&nbsp;(169), mr_ufal&nbsp;(16), olo_kkpp&nbsp;(6), orv_rnc&nbsp;(1063), orv_torot&nbsp;(5173), pl_lfg&nbsp;(3424), pl_pdb&nbsp;(11914), pl_pud&nbsp;(690), qtd_sagt&nbsp;(107), ru_gsd&nbsp;(3865), ru_pud&nbsp;(884), ru_syntagrus&nbsp;(40011), ru_taiga&nbsp;(5306), sa_ufal&nbsp;(88), sa_vedic&nbsp;(1073), sk_snk&nbsp;(4505), sl_ssj&nbsp;(6016), sl_sst&nbsp;(591), sr_set&nbsp;(2890), ta_mwtt&nbsp;(10), ta_ttb&nbsp;(24), tr_boun&nbsp;(1413), tr_framenet&nbsp;(150), tr_gb&nbsp;(166), tr_imst&nbsp;(777), tr_kenet&nbsp;(1929), tr_penn&nbsp;(352), tr_pud&nbsp;(187), tr_tourism&nbsp;(395), uk_iu&nbsp;(6269), ur_udtb&nbsp;(3), wbp_ufal&nbsp;(1))
+* `Lat` (eu_bdt&nbsp;(19), fi_ftb&nbsp;(3395), mdf_jr&nbsp;(44), myv_jr&nbsp;(173))
+* `Loc` (akk_riao&nbsp;(29), am_att&nbsp;(27), apu_ufpa&nbsp;(14), aqz_tudet&nbsp;(2), be_hse&nbsp;(13609), bej_nsc&nbsp;(7), ca_ancora&nbsp;(1317), cs_cac&nbsp;(48780), cs_cltt&nbsp;(3576), cs_fictree&nbsp;(9145), cs_pdt&nbsp;(134749), cs_pud&nbsp;(1798), cu_proiel&nbsp;(1664), ess_sli&nbsp;(27), eu_bdt&nbsp;(5149), fa_seraji&nbsp;(167), grc_perseus&nbsp;(1), gub_tudet&nbsp;(22), hi_pud&nbsp;(593), hr_set&nbsp;(17662), hsb_ufal&nbsp;(606), hu_szeged&nbsp;(1), hy_armtdp&nbsp;(760), hyw_armtdp&nbsp;(2), kfm_aha&nbsp;(1), kk_ktb&nbsp;(388), kpv_ikdp&nbsp;(1), kpv_lattice&nbsp;(33), la_ittb&nbsp;(1004), la_llct&nbsp;(25), la_perseus&nbsp;(18), la_udante&nbsp;(3), lt_alksnis&nbsp;(1725), lt_hse&nbsp;(115), lv_lvtb&nbsp;(13568), lzh_kyoto&nbsp;(22498), mdf_jr&nbsp;(43), mr_ufal&nbsp;(71), myv_jr&nbsp;(241), nyq_aha&nbsp;(1), orv_rnc&nbsp;(1345), orv_torot&nbsp;(5075), pl_lfg&nbsp;(5503), pl_pdb&nbsp;(20598), pl_pud&nbsp;(1213), qtd_sagt&nbsp;(587), ru_gsd&nbsp;(6542), ru_pud&nbsp;(1057), ru_syntagrus&nbsp;(50659), ru_taiga&nbsp;(6426), sa_ufal&nbsp;(63), sa_vedic&nbsp;(719), sk_snk&nbsp;(7416), sl_ssj&nbsp;(13267), sl_sst&nbsp;(1537), sme_giella&nbsp;(1267), sms_giellagas&nbsp;(30), sr_set&nbsp;(8677), ta_mwtt&nbsp;(45), ta_ttb&nbsp;(487), tpn_tudet&nbsp;(23), tr_boun&nbsp;(5339), tr_framenet&nbsp;(499), tr_gb&nbsp;(743), tr_imst&nbsp;(2149), tr_kenet&nbsp;(4994), tr_penn&nbsp;(2529), tr_pud&nbsp;(987), tr_tourism&nbsp;(848), ug_udt&nbsp;(792), uk_iu&nbsp;(7720), wbp_ufal&nbsp;(6))
+* `Mal` (am_att&nbsp;(40))
+* `Nom` (af_afribooms&nbsp;(4591), aii_as&nbsp;(7), akk_riao&nbsp;(1169), apu_ufpa&nbsp;(89), ar_nyuad&nbsp;(46424), ar_padt&nbsp;(19465), ar_pud&nbsp;(1568), be_hse&nbsp;(43065), bej_nsc&nbsp;(33), bg_btb&nbsp;(4831), bho_bhtb&nbsp;(2650), br_keb&nbsp;(43), bxr_bdt&nbsp;(2430), ca_ancora&nbsp;(86), cs_cac&nbsp;(58394), cs_cltt&nbsp;(4341), cs_fictree&nbsp;(18443), cs_pdt&nbsp;(203304), cs_pud&nbsp;(2507), cu_proiel&nbsp;(9819), da_ddt&nbsp;(2836), de_gsd&nbsp;(48999), de_hdt&nbsp;(249763), de_pud&nbsp;(3731), el_gdt&nbsp;(9253), en_ewt&nbsp;(11785), en_gum&nbsp;(4683), en_gumreddit&nbsp;(933), en_lines&nbsp;(4980), en_pronouns&nbsp;(10), en_pud&nbsp;(388), es_ancora&nbsp;(1114), es_gsd&nbsp;(790), es_pud&nbsp;(46), et_edt&nbsp;(73205), et_ewt&nbsp;(12014), fi_ftb&nbsp;(29633), fi_ood&nbsp;(4130), fi_pud&nbsp;(3059), fi_tdt&nbsp;(35590), fo_farpahc&nbsp;(5935), fo_oft&nbsp;(2933), gd_arcosg&nbsp;(6086), gl_treegal&nbsp;(27), got_proiel&nbsp;(9445), grc_perseus&nbsp;(28554), grc_proiel&nbsp;(36776), hi_hdtb&nbsp;(83564), hi_pud&nbsp;(2880), hr_set&nbsp;(31064), hsb_ufal&nbsp;(1927), hu_szeged&nbsp;(13754), hy_armtdp&nbsp;(8879), hyw_armtdp&nbsp;(5860), is_icepahc&nbsp;(169489), is_modern&nbsp;(23492), is_pud&nbsp;(2741), it_pud&nbsp;(6), kk_ktb&nbsp;(2491), kmr_mg&nbsp;(985), ko_pud&nbsp;(1525), koi_uh&nbsp;(181), kpv_ikdp&nbsp;(543), kpv_lattice&nbsp;(2165), krl_kkpp&nbsp;(533), la_ittb&nbsp;(72853), la_llct&nbsp;(28579), la_perseus&nbsp;(3597), la_proiel&nbsp;(30510), la_udante&nbsp;(7943), lt_alksnis&nbsp;(9298), lt_hse&nbsp;(820), lv_lvtb&nbsp;(40805), mdf_jr&nbsp;(613), mr_ufal&nbsp;(623), myv_jr&nbsp;(3311), nl_alpino&nbsp;(2633), nl_lassysmall&nbsp;(618), no_bokmaal&nbsp;(9531), no_nynorsk&nbsp;(7049), no_nynorsklia&nbsp;(3830), olo_kkpp&nbsp;(228), orv_rnc&nbsp;(3608), orv_torot&nbsp;(22921), pcm_nsc&nbsp;(11902), pl_lfg&nbsp;(15008), pl_pdb&nbsp;(41883), pl_pud&nbsp;(2523), pt_bosque&nbsp;(534), pt_pud&nbsp;(204), qtd_sagt&nbsp;(6701), ro_art&nbsp;(103), ro_nonstandard&nbsp;(158924), ro_rrt&nbsp;(45330), ro_simonero&nbsp;(32080), ru_gsd&nbsp;(15373), ru_pud&nbsp;(2562), ru_syntagrus&nbsp;(140974), ru_taiga&nbsp;(32672), sa_ufal&nbsp;(475), sa_vedic&nbsp;(7186), sk_snk&nbsp;(14600), sl_ssj&nbsp;(16750), sl_sst&nbsp;(3786), sme_giella&nbsp;(4327), sms_giellagas&nbsp;(309), sq_tsa&nbsp;(105), sr_set&nbsp;(16670), sv_lines&nbsp;(28476), sv_pud&nbsp;(7134), sv_talbanken&nbsp;(34742), ta_mwtt&nbsp;(690), ta_ttb&nbsp;(2929), tl_trg&nbsp;(121), tr_boun&nbsp;(34130), tr_framenet&nbsp;(3706), tr_gb&nbsp;(3401), tr_imst&nbsp;(13476), tr_kenet&nbsp;(38738), tr_penn&nbsp;(25117), tr_pud&nbsp;(1224), tr_tourism&nbsp;(20702), ug_udt&nbsp;(10018), uk_iu&nbsp;(15911), ur_udtb&nbsp;(37334), wo_wtb&nbsp;(1986), yo_ytb&nbsp;(556))
+* `NomAcc` (ga_idt&nbsp;(27068))
+* `Par` (et_edt&nbsp;(27868), et_ewt&nbsp;(4067), eu_bdt&nbsp;(717), fi_ftb&nbsp;(12499), fi_ood&nbsp;(1584), fi_pud&nbsp;(1167), fi_tdt&nbsp;(15747), krl_kkpp&nbsp;(280), olo_kkpp&nbsp;(132), ru_gsd&nbsp;(2), ru_syntagrus&nbsp;(104), ru_taiga&nbsp;(47), sms_giellagas&nbsp;(1))
+* `Per` (ess_sli&nbsp;(4), tpn_tudet&nbsp;(4), wbp_ufal&nbsp;(1))
+* `Prl` (koi_uh&nbsp;(1), kpv_ikdp&nbsp;(1), kpv_lattice&nbsp;(9), mdf_jr&nbsp;(29), myv_jr&nbsp;(151))
+* `Prp` (kpv_ikdp&nbsp;(3), kpv_lattice&nbsp;(18))
+* `Ref` (tpn_tudet&nbsp;(136))
+* `Sub` (hu_szeged&nbsp;(567))
+* `Sup` (hu_szeged&nbsp;(609))
+* `Tem` (apu_ufpa&nbsp;(3), fa_seraji&nbsp;(941), he_htb&nbsp;(145), hu_szeged&nbsp;(14), kfm_aha&nbsp;(3), lzh_kyoto&nbsp;(5818), mdf_jr&nbsp;(5), myv_jr&nbsp;(12), nyq_aha&nbsp;(3), soj_aha&nbsp;(3))
+* `Ter` (et_edt&nbsp;(471), et_ewt&nbsp;(31), hu_szeged&nbsp;(52), kpv_ikdp&nbsp;(2), kpv_lattice&nbsp;(23), olo_kkpp&nbsp;(2))
+* `Tra` (aqz_tudet&nbsp;(11), et_edt&nbsp;(5041), et_ewt&nbsp;(553), fi_ftb&nbsp;(1156), fi_ood&nbsp;(96), fi_pud&nbsp;(96), fi_tdt&nbsp;(1458), hu_szeged&nbsp;(54), kpv_ikdp&nbsp;(5), kpv_lattice&nbsp;(9), krl_kkpp&nbsp;(12), mdf_jr&nbsp;(18), myv_jr&nbsp;(88), olo_kkpp&nbsp;(13), tpn_tudet&nbsp;(35))
+* `Voc` (be_hse&nbsp;(14), bej_nsc&nbsp;(2), bg_btb&nbsp;(29), cs_cac&nbsp;(107), cs_fictree&nbsp;(429), cs_pdt&nbsp;(193), cs_pud&nbsp;(1), cu_proiel&nbsp;(400), el_gdt&nbsp;(186), ess_sli&nbsp;(1), fa_seraji&nbsp;(4), ga_idt&nbsp;(58), gd_arcosg&nbsp;(96), got_proiel&nbsp;(251), grc_perseus&nbsp;(1238), grc_proiel&nbsp;(830), hr_set&nbsp;(34), kmr_mg&nbsp;(1), la_ittb&nbsp;(49), la_llct&nbsp;(51), la_perseus&nbsp;(110), la_proiel&nbsp;(685), la_udante&nbsp;(120), lt_alksnis&nbsp;(19), lt_hse&nbsp;(1), lv_lvtb&nbsp;(95), mr_ufal&nbsp;(2), orv_rnc&nbsp;(36), orv_torot&nbsp;(599), pl_lfg&nbsp;(216), pl_pdb&nbsp;(302), pl_pud&nbsp;(1), ro_art&nbsp;(2), ro_nonstandard&nbsp;(1793), ro_rrt&nbsp;(48), ro_simonero&nbsp;(4), ru_gsd&nbsp;(1), ru_syntagrus&nbsp;(16), ru_taiga&nbsp;(16), sa_ufal&nbsp;(14), sa_vedic&nbsp;(454), sk_snk&nbsp;(42), sr_set&nbsp;(2), tpn_tudet&nbsp;(3), uk_iu&nbsp;(158))
 
 ## Class
 
 [Class]()
 
-* Class=CilFlx	myu_tudet	3
-* Class=CilRig	myu_tudet	3
-* Class=Liquid	myu_tudet	4
-* Class=Round	myu_tudet	5
-* Class=Seed	myu_tudet	1
+* `CilFlx` (myu_tudet&nbsp;(3))
+* `CilRig` (myu_tudet&nbsp;(3))
+* `Liquid` (myu_tudet&nbsp;(4))
+* `Round` (myu_tudet&nbsp;(5))
+* `Seed` (myu_tudet&nbsp;(1))
 
 ## Clitic
 
 [Clitic]()
 
-* Clitic=A	kpv_lattice	1
-* Clitic=Add	kpv_lattice	1
-* Clitic=Add	myv_jr	231
-* Clitic=AddGA	mdf_jr	10
-* Clitic=AddI	sms_giellagas	7
-* Clitic=AddKige	mdf_jr	2
-* Clitic=AddNgA	mdf_jr	2
-* Clitic=AddVok	mdf_jr	2
-* Clitic=Gi	olo_kkpp	1
-* Clitic=Go	olo_kkpp	7
-* Clitic=Han	fi_ftb	335
-* Clitic=Han	fi_ood	23
-* Clitic=Han	fi_tdt	141
-* Clitic=Han	sms_giellagas	1
-* Clitic=Ka	fi_ftb	194
-* Clitic=Ka	fi_ood	30
-* Clitic=Ka	fi_pud	9
-* Clitic=Ka	fi_tdt	232
-* Clitic=Kaan	fi_ftb	324
-* Clitic=Kaan	fi_ood	31
-* Clitic=Kaan	fi_pud	8
-* Clitic=Kaan	fi_tdt	250
-* Clitic=Ki	krl_kkpp	3
-* Clitic=Kin	fi_ftb	894
-* Clitic=Kin	fi_ood	102
-* Clitic=Kin	fi_pud	14
-* Clitic=Kin	fi_tdt	797
-* Clitic=Ko	fi_ftb	984
-* Clitic=Ko	fi_ood	47
-* Clitic=Ko	fi_pud	17
-* Clitic=Ko	fi_tdt	363
-* Clitic=Ko	krl_kkpp	4
-* Clitic=Ko	olo_kkpp	2
-* Clitic=O	kpv_lattice	5
-* Clitic=Pa	fi_ftb	192
-* Clitic=Pa	fi_ood	12
-* Clitic=Pa	fi_pud	1
-* Clitic=Pa	fi_tdt	76
-* Clitic=QstA	sms_giellagas	9
-* Clitic=S	fi_ftb	184
-* Clitic=S	fi_ood	2
-* Clitic=S	fi_tdt	33
-* Clitic=So	kpv_ikdp	8
-* Clitic=So	kpv_lattice	17
-* Clitic=To	kpv_lattice	13
-* Clitic=Yes	gl_treegal	471
-* Clitic=Yes	it_isdt	4685
-* Clitic=Yes	it_partut	641
-* Clitic=Yes	it_postwita	3255
-* Clitic=Yes	it_twittiro	774
-* Clitic=Yes	it_valico	265
-* Clitic=Yes	it_vit	3660
-* Clitic=Yes	la_ittb	4
-* Clitic=Yes	la_udante	202
-* Clitic=Yes	pl_pdb	2139
-* Clitic=Yes	pl_pud	26
-* Clitic=Yes	quc_iu	57
-* Clitic=Yes	wbp_ufal	3
+* `A` (kpv_lattice&nbsp;(1))
+* `Add` (kpv_lattice&nbsp;(1), myv_jr&nbsp;(231))
+* `AddGA` (mdf_jr&nbsp;(10))
+* `AddI` (sms_giellagas&nbsp;(7))
+* `AddKige` (mdf_jr&nbsp;(2))
+* `AddNgA` (mdf_jr&nbsp;(2))
+* `AddVok` (mdf_jr&nbsp;(2))
+* `Gi` (olo_kkpp&nbsp;(1))
+* `Go` (olo_kkpp&nbsp;(7))
+* `Han` (fi_ftb&nbsp;(335), fi_ood&nbsp;(23), fi_tdt&nbsp;(141), sms_giellagas&nbsp;(1))
+* `Ka` (fi_ftb&nbsp;(194), fi_ood&nbsp;(30), fi_pud&nbsp;(9), fi_tdt&nbsp;(232))
+* `Kaan` (fi_ftb&nbsp;(324), fi_ood&nbsp;(31), fi_pud&nbsp;(8), fi_tdt&nbsp;(250))
+* `Ki` (krl_kkpp&nbsp;(3))
+* `Kin` (fi_ftb&nbsp;(894), fi_ood&nbsp;(102), fi_pud&nbsp;(14), fi_tdt&nbsp;(797))
+* `Ko` (fi_ftb&nbsp;(984), fi_ood&nbsp;(47), fi_pud&nbsp;(17), fi_tdt&nbsp;(363), krl_kkpp&nbsp;(4), olo_kkpp&nbsp;(2))
+* `O` (kpv_lattice&nbsp;(5))
+* `Pa` (fi_ftb&nbsp;(192), fi_ood&nbsp;(12), fi_pud&nbsp;(1), fi_tdt&nbsp;(76))
+* `QstA` (sms_giellagas&nbsp;(9))
+* `S` (fi_ftb&nbsp;(184), fi_ood&nbsp;(2), fi_tdt&nbsp;(33))
+* `So` (kpv_ikdp&nbsp;(8), kpv_lattice&nbsp;(17))
+* `To` (kpv_lattice&nbsp;(13))
+* `Yes` (gl_treegal&nbsp;(471), it_isdt&nbsp;(4685), it_partut&nbsp;(641), it_postwita&nbsp;(3255), it_twittiro&nbsp;(774), it_valico&nbsp;(265), it_vit&nbsp;(3660), la_ittb&nbsp;(4), la_udante&nbsp;(202), pl_pdb&nbsp;(2139), pl_pud&nbsp;(26), quc_iu&nbsp;(57), wbp_ufal&nbsp;(3))
 
 ## Clusivity
 
 [Clusivity]()
 
-* Clusivity=Ex	gun_dooley	9
-* Clusivity=Ex	gun_thomas	20
-* Clusivity=Ex	id_csui	14
-* Clusivity=Ex	id_gsd	28
-* Clusivity=Ex	id_pud	26
-* Clusivity=Ex	myu_tudet	1
-* Clusivity=Ex	tpn_tudet	3
-* Clusivity=In	aqz_tudet	5
-* Clusivity=In	gub_tudet	1
-* Clusivity=In	gun_dooley	19
-* Clusivity=In	gun_thomas	10
-* Clusivity=In	id_csui	36
-* Clusivity=In	id_gsd	65
-* Clusivity=In	id_pud	19
-* Clusivity=In	mr_ufal	5
-* Clusivity=In	tl_trg	2
-* Clusivity=In	tpn_tudet	21
+* `Ex` (gun_dooley&nbsp;(9), gun_thomas&nbsp;(20), id_csui&nbsp;(14), id_gsd&nbsp;(28), id_pud&nbsp;(26), myu_tudet&nbsp;(1), tpn_tudet&nbsp;(3))
+* `In` (aqz_tudet&nbsp;(5), gub_tudet&nbsp;(1), gun_dooley&nbsp;(19), gun_thomas&nbsp;(10), id_csui&nbsp;(36), id_gsd&nbsp;(65), id_pud&nbsp;(19), mr_ufal&nbsp;(5), tl_trg&nbsp;(2), tpn_tudet&nbsp;(21))
 
 ## Clusivity[obj]
 
 [Clusivity[obj]]()
 
-* Clusivity[obj]=Ex	gun_dooley	4
-* Clusivity[obj]=Ex	gun_thomas	3
-* Clusivity[obj]=In	gun_dooley	1
-* Clusivity[obj]=In	gun_thomas	1
+* `Ex` (gun_dooley&nbsp;(4), gun_thomas&nbsp;(3))
+* `In` (gun_dooley&nbsp;(1), gun_thomas&nbsp;(1))
 
 ## Clusivity[psor]
 
 [Clusivity[psor]]()
 
-* Clusivity[psor]=Ex	gun_dooley	4
-* Clusivity[psor]=Ex	gun_thomas	10
-* Clusivity[psor]=In	gun_dooley	8
-* Clusivity[psor]=In	gun_thomas	12
+* `Ex` (gun_dooley&nbsp;(4), gun_thomas&nbsp;(10))
+* `In` (gun_dooley&nbsp;(8), gun_thomas&nbsp;(12))
 
 ## Clusivity[subj]
 
 [Clusivity[subj]]()
 
-* Clusivity[subj]=Ex	gun_dooley	21
-* Clusivity[subj]=Ex	gun_thomas	48
-* Clusivity[subj]=In	gun_dooley	19
-* Clusivity[subj]=In	gun_thomas	21
+* `Ex` (gun_dooley&nbsp;(21), gun_thomas&nbsp;(48))
+* `In` (gun_dooley&nbsp;(19), gun_thomas&nbsp;(21))
 
 ## Compound
 
 [Compound]()
 
-* Compound=Yes	la_ittb	48
-* Compound=Yes	la_udante	1487
-* Compound=Yes	ro_nonstandard	11794
-* Compound=Yes	sa_ufal	214
+* `Yes` (la_ittb&nbsp;(48), la_udante&nbsp;(1487), ro_nonstandard&nbsp;(11794), sa_ufal&nbsp;(214))
 
 ## ConjType
 
 [ConjType]()
 
-* ConjType=Cmpr	la_ittb	2
-* ConjType=Cmpr	la_udante	731
-* ConjType=Comp	de_hdt	20093
-* ConjType=Comp	hy_armtdp	323
-* ConjType=Comp	hyw_armtdp	25
-* ConjType=Comp	pl_pdb	1002
-* ConjType=Comp	pl_pud	55
-* ConjType=Disj	tpn_tudet	1
-* ConjType=Expl	la_ittb	42
-* ConjType=Expl	la_udante	100
-* ConjType=Oper	ar_padt	5
-* ConjType=Oper	cs_cac	2
-* ConjType=Oper	cs_fictree	1
-* ConjType=Oper	cs_pdt	207
-* ConjType=Oper	pl_pdb	4
-* ConjType=Oper	sk_snk	2
-* ConjType=Pred	pl_pdb	553
-* ConjType=Pred	pl_pud	56
+* `Cmpr` (la_ittb&nbsp;(2), la_udante&nbsp;(731))
+* `Comp` (de_hdt&nbsp;(20093), hy_armtdp&nbsp;(323), hyw_armtdp&nbsp;(25), pl_pdb&nbsp;(1002), pl_pud&nbsp;(55))
+* `Disj` (tpn_tudet&nbsp;(1))
+* `Expl` (la_ittb&nbsp;(42), la_udante&nbsp;(100))
+* `Oper` (ar_padt&nbsp;(5), cs_cac&nbsp;(2), cs_fictree&nbsp;(1), cs_pdt&nbsp;(207), pl_pdb&nbsp;(4), sk_snk&nbsp;(2))
+* `Pred` (pl_pdb&nbsp;(553), pl_pud&nbsp;(56))
 
 ## Connegative
 
 [Connegative]()
 
-* Connegative=Yes	et_edt	4064
-* Connegative=Yes	et_ewt	1133
-* Connegative=Yes	fi_ftb	2738
-* Connegative=Yes	fi_ood	207
-* Connegative=Yes	fi_pud	74
-* Connegative=Yes	fi_tdt	1730
-* Connegative=Yes	hy_armtdp	38
-* Connegative=Yes	hyw_armtdp	139
-* Connegative=Yes	koi_uh	14
-* Connegative=Yes	kpv_ikdp	18
-* Connegative=Yes	kpv_lattice	115
-* Connegative=Yes	krl_kkpp	12
-* Connegative=Yes	mdf_jr	15
-* Connegative=Yes	myv_jr	158
-* Connegative=Yes	olo_kkpp	23
-* Connegative=Yes	sme_giella	402
-* Connegative=Yes	sms_giellagas	27
+* `Yes` (et_edt&nbsp;(4064), et_ewt&nbsp;(1133), fi_ftb&nbsp;(2738), fi_ood&nbsp;(207), fi_pud&nbsp;(74), fi_tdt&nbsp;(1730), hy_armtdp&nbsp;(38), hyw_armtdp&nbsp;(139), koi_uh&nbsp;(14), kpv_ikdp&nbsp;(18), kpv_lattice&nbsp;(115), krl_kkpp&nbsp;(12), mdf_jr&nbsp;(15), myv_jr&nbsp;(158), olo_kkpp&nbsp;(23), sme_giella&nbsp;(402), sms_giellagas&nbsp;(27))
 
 ## Definite
 
 [Definite]()
 
-* Definite=2	hu_szeged	1
-* Definite=Com	ar_nyuad	107427
-* Definite=Com	ar_padt	45
-* Definite=Cons	ar_padt	38093
-* Definite=Cons	he_htb	10855
-* Definite=Def	af_afribooms	3570
-* Definite=Def	aii_as	2
-* Definite=Def	ar_nyuad	182827
-* Definite=Def	ar_padt	59523
-* Definite=Def	ar_pud	5863
-* Definite=Def	bej_nsc	67
-* Definite=Def	bg_btb	19191
-* Definite=Def	bm_crb	200
-* Definite=Def	ca_ancora	63638
-* Definite=Def	cop_scriptorium	12519
-* Definite=Def	da_ddt	6537
-* Definite=Def	de_gsd	29028
-* Definite=Def	de_pud	2246
-* Definite=Def	el_gdt	9378
-* Definite=Def	en_ewt	11018
-* Definite=Def	en_gum	6729
-* Definite=Def	en_gumreddit	557
-* Definite=Def	en_lines	5263
-* Definite=Def	en_partut	2963
-* Definite=Def	en_pronouns	180
-* Definite=Def	en_pud	1441
-* Definite=Def	es_ancora	63704
-* Definite=Def	es_gsd	43522
-* Definite=Def	es_pud	2530
-* Definite=Def	eu_bdt	31785
-* Definite=Def	fo_oft	1165
-* Definite=Def	fr_fqb	2759
-* Definite=Def	fr_ftb	62616
-* Definite=Def	fr_gsd	43343
-* Definite=Def	fr_partut	3351
-* Definite=Def	fr_pud	2785
-* Definite=Def	fr_sequoia	7439
-* Definite=Def	fr_spoken	2755
-* Definite=Def	fro_srcmf	10890
-* Definite=Def	ga_idt	25534
-* Definite=Def	gl_treegal	2989
-* Definite=Def	grc_proiel	28454
-* Definite=Def	gv_cadhan	1151
-* Definite=Def	he_htb	19139
-* Definite=Def	hi_pud	237
-* Definite=Def	hr_set	20766
-* Definite=Def	hu_szeged	6179
-* Definite=Def	hy_armtdp	4755
-* Definite=Def	hyw_armtdp	4274
-* Definite=Def	is_icepahc	40728
-* Definite=Def	is_pud	1465
-* Definite=Def	it_isdt	38094
-* Definite=Def	it_partut	7206
-* Definite=Def	it_postwita	11003
-* Definite=Def	it_pud	1476
-* Definite=Def	it_twittiro	2670
-* Definite=Def	it_valico	605
-* Definite=Def	it_vit	36128
-* Definite=Def	kmr_mg	2550
-* Definite=Def	lt_alksnis	564
-* Definite=Def	lt_hse	38
-* Definite=Def	lv_lvtb	7893
-* Definite=Def	mdf_jr	234
-* Definite=Def	myv_jr	1444
-* Definite=Def	nl_alpino	14401
-* Definite=Def	nl_lassysmall	8066
-* Definite=Def	no_bokmaal	23823
-* Definite=Def	no_nynorsk	26480
-* Definite=Def	no_nynorsklia	2299
-* Definite=Def	pcm_nsc	2812
-* Definite=Def	pt_bosque	27755
-* Definite=Def	pt_gsd	21347
-* Definite=Def	pt_pud	3
-* Definite=Def	qtd_sagt	951
-* Definite=Def	quc_iu	1246
-* Definite=Def	ro_art	45
-* Definite=Def	ro_nonstandard	56031
-* Definite=Def	ro_rrt	29112
-* Definite=Def	ro_simonero	22257
-* Definite=Def	sl_ssj	1130
-* Definite=Def	sl_sst	148
-* Definite=Def	sq_tsa	174
-* Definite=Def	sr_set	9933
-* Definite=Def	sv_lines	16773
-* Definite=Def	sv_pud	3160
-* Definite=Def	sv_talbanken	15414
-* Definite=Def	tr_framenet	378
-* Definite=Def	tr_gb	495
-* Definite=Def	tr_kenet	2977
-* Definite=Def	tr_penn	1200
-* Definite=Def	tr_pud	251
-* Definite=Def	tr_tourism	905
-* Definite=Def	wo_wtb	2280
-* Definite=Ind	af_afribooms	971
-* Definite=Ind	aii_as	7
-* Definite=Ind	ar_nyuad	127032
-* Definite=Ind	ar_padt	27596
-* Definite=Ind	ar_pud	2018
-* Definite=Ind	bej_nsc	43
-* Definite=Ind	bg_btb	42088
-* Definite=Ind	ca_ancora	16
-* Definite=Ind	cop_scriptorium	813
-* Definite=Ind	da_ddt	17698
-* Definite=Ind	de_gsd	8193
-* Definite=Ind	de_pud	594
-* Definite=Ind	el_gdt	467
-* Definite=Ind	en_ewt	5348
-* Definite=Ind	en_gum	2881
-* Definite=Ind	en_gumreddit	406
-* Definite=Ind	en_lines	2589
-* Definite=Ind	en_partut	974
-* Definite=Ind	en_pud	444
-* Definite=Ind	es_ancora	9583
-* Definite=Ind	es_gsd	7651
-* Definite=Ind	es_pud	455
-* Definite=Ind	eu_bdt	6156
-* Definite=Ind	fo_farpahc	5963
-* Definite=Ind	fo_oft	2248
-* Definite=Ind	fr_fqb	375
-* Definite=Ind	fr_ftb	13593
-* Definite=Ind	fr_gsd	10154
-* Definite=Ind	fr_partut	634
-* Definite=Ind	fr_pud	666
-* Definite=Ind	fr_sequoia	1826
-* Definite=Ind	fr_spoken	946
-* Definite=Ind	fro_srcmf	1238
-* Definite=Ind	ga_idt	29
-* Definite=Ind	gl_treegal	460
-* Definite=Ind	hi_pud	208
-* Definite=Ind	hr_set	1445
-* Definite=Ind	hu_szeged	2503
-* Definite=Ind	hy_armtdp	11219
-* Definite=Ind	hyw_armtdp	5386
-* Definite=Ind	is_icepahc	193912
-* Definite=Ind	is_modern	26830
-* Definite=Ind	is_pud	3704
-* Definite=Ind	it_isdt	4621
-* Definite=Ind	it_partut	947
-* Definite=Ind	it_postwita	1577
-* Definite=Ind	it_twittiro	419
-* Definite=Ind	it_valico	225
-* Definite=Ind	it_vit	4121
-* Definite=Ind	koi_uh	1
-* Definite=Ind	kpv_ikdp	11
-* Definite=Ind	kpv_lattice	24
-* Definite=Ind	lt_alksnis	13056
-* Definite=Ind	lt_hse	538
-* Definite=Ind	lv_lvtb	13953
-* Definite=Ind	mdf_jr	691
-* Definite=Ind	myv_jr	3742
-* Definite=Ind	nl_alpino	3701
-* Definite=Ind	nl_lassysmall	1666
-* Definite=Ind	no_bokmaal	51070
-* Definite=Ind	no_nynorsk	49597
-* Definite=Ind	no_nynorsklia	4408
-* Definite=Ind	pcm_nsc	134
-* Definite=Ind	pt_bosque	3153
-* Definite=Ind	pt_pud	1
-* Definite=Ind	qtd_sagt	946
-* Definite=Ind	quc_iu	86
-* Definite=Ind	ro_art	45
-* Definite=Ind	ro_nonstandard	78856
-* Definite=Ind	ro_rrt	39910
-* Definite=Ind	ro_simonero	34934
-* Definite=Ind	sl_ssj	944
-* Definite=Ind	sl_sst	166
-* Definite=Ind	sq_tsa	76
-* Definite=Ind	sr_set	678
-* Definite=Ind	sv_lines	18058
-* Definite=Ind	sv_pud	3695
-* Definite=Ind	sv_talbanken	22031
-* Definite=Ind	tr_framenet	309
-* Definite=Ind	tr_gb	487
-* Definite=Ind	tr_imst	1031
-* Definite=Ind	tr_kenet	4679
-* Definite=Ind	tr_penn	1905
-* Definite=Ind	tr_pud	481
-* Definite=Ind	tr_tourism	1953
-* Definite=Ind	wo_wtb	856
-* Definite=Spec	pcm_nsc	227
+* `2` (hu_szeged&nbsp;(1))
+* `Com` (ar_nyuad&nbsp;(107427), ar_padt&nbsp;(45))
+* `Cons` (ar_padt&nbsp;(38093), he_htb&nbsp;(10855))
+* `Def` (af_afribooms&nbsp;(3570), aii_as&nbsp;(2), ar_nyuad&nbsp;(182827), ar_padt&nbsp;(59523), ar_pud&nbsp;(5863), bej_nsc&nbsp;(67), bg_btb&nbsp;(19191), bm_crb&nbsp;(200), ca_ancora&nbsp;(63638), cop_scriptorium&nbsp;(12519), da_ddt&nbsp;(6537), de_gsd&nbsp;(29028), de_pud&nbsp;(2246), el_gdt&nbsp;(9378), en_ewt&nbsp;(11018), en_gum&nbsp;(6729), en_gumreddit&nbsp;(557), en_lines&nbsp;(5263), en_partut&nbsp;(2963), en_pronouns&nbsp;(180), en_pud&nbsp;(1441), es_ancora&nbsp;(63704), es_gsd&nbsp;(43522), es_pud&nbsp;(2530), eu_bdt&nbsp;(31785), fo_oft&nbsp;(1165), fr_fqb&nbsp;(2759), fr_ftb&nbsp;(62616), fr_gsd&nbsp;(43343), fr_partut&nbsp;(3351), fr_pud&nbsp;(2785), fr_sequoia&nbsp;(7439), fr_spoken&nbsp;(2755), fro_srcmf&nbsp;(10890), ga_idt&nbsp;(25534), gl_treegal&nbsp;(2989), grc_proiel&nbsp;(28454), gv_cadhan&nbsp;(1151), he_htb&nbsp;(19139), hi_pud&nbsp;(237), hr_set&nbsp;(20766), hu_szeged&nbsp;(6179), hy_armtdp&nbsp;(4755), hyw_armtdp&nbsp;(4274), is_icepahc&nbsp;(40728), is_pud&nbsp;(1465), it_isdt&nbsp;(38094), it_partut&nbsp;(7206), it_postwita&nbsp;(11003), it_pud&nbsp;(1476), it_twittiro&nbsp;(2670), it_valico&nbsp;(605), it_vit&nbsp;(36128), kmr_mg&nbsp;(2550), lt_alksnis&nbsp;(564), lt_hse&nbsp;(38), lv_lvtb&nbsp;(7893), mdf_jr&nbsp;(234), myv_jr&nbsp;(1444), nl_alpino&nbsp;(14401), nl_lassysmall&nbsp;(8066), no_bokmaal&nbsp;(23823), no_nynorsk&nbsp;(26480), no_nynorsklia&nbsp;(2299), pcm_nsc&nbsp;(2812), pt_bosque&nbsp;(27755), pt_gsd&nbsp;(21347), pt_pud&nbsp;(3), qtd_sagt&nbsp;(951), quc_iu&nbsp;(1246), ro_art&nbsp;(45), ro_nonstandard&nbsp;(56031), ro_rrt&nbsp;(29112), ro_simonero&nbsp;(22257), sl_ssj&nbsp;(1130), sl_sst&nbsp;(148), sq_tsa&nbsp;(174), sr_set&nbsp;(9933), sv_lines&nbsp;(16773), sv_pud&nbsp;(3160), sv_talbanken&nbsp;(15414), tr_framenet&nbsp;(378), tr_gb&nbsp;(495), tr_kenet&nbsp;(2977), tr_penn&nbsp;(1200), tr_pud&nbsp;(251), tr_tourism&nbsp;(905), wo_wtb&nbsp;(2280))
+* `Ind` (af_afribooms&nbsp;(971), aii_as&nbsp;(7), ar_nyuad&nbsp;(127032), ar_padt&nbsp;(27596), ar_pud&nbsp;(2018), bej_nsc&nbsp;(43), bg_btb&nbsp;(42088), ca_ancora&nbsp;(16), cop_scriptorium&nbsp;(813), da_ddt&nbsp;(17698), de_gsd&nbsp;(8193), de_pud&nbsp;(594), el_gdt&nbsp;(467), en_ewt&nbsp;(5348), en_gum&nbsp;(2881), en_gumreddit&nbsp;(406), en_lines&nbsp;(2589), en_partut&nbsp;(974), en_pud&nbsp;(444), es_ancora&nbsp;(9583), es_gsd&nbsp;(7651), es_pud&nbsp;(455), eu_bdt&nbsp;(6156), fo_farpahc&nbsp;(5963), fo_oft&nbsp;(2248), fr_fqb&nbsp;(375), fr_ftb&nbsp;(13593), fr_gsd&nbsp;(10154), fr_partut&nbsp;(634), fr_pud&nbsp;(666), fr_sequoia&nbsp;(1826), fr_spoken&nbsp;(946), fro_srcmf&nbsp;(1238), ga_idt&nbsp;(29), gl_treegal&nbsp;(460), hi_pud&nbsp;(208), hr_set&nbsp;(1445), hu_szeged&nbsp;(2503), hy_armtdp&nbsp;(11219), hyw_armtdp&nbsp;(5386), is_icepahc&nbsp;(193912), is_modern&nbsp;(26830), is_pud&nbsp;(3704), it_isdt&nbsp;(4621), it_partut&nbsp;(947), it_postwita&nbsp;(1577), it_twittiro&nbsp;(419), it_valico&nbsp;(225), it_vit&nbsp;(4121), koi_uh&nbsp;(1), kpv_ikdp&nbsp;(11), kpv_lattice&nbsp;(24), lt_alksnis&nbsp;(13056), lt_hse&nbsp;(538), lv_lvtb&nbsp;(13953), mdf_jr&nbsp;(691), myv_jr&nbsp;(3742), nl_alpino&nbsp;(3701), nl_lassysmall&nbsp;(1666), no_bokmaal&nbsp;(51070), no_nynorsk&nbsp;(49597), no_nynorsklia&nbsp;(4408), pcm_nsc&nbsp;(134), pt_bosque&nbsp;(3153), pt_pud&nbsp;(1), qtd_sagt&nbsp;(946), quc_iu&nbsp;(86), ro_art&nbsp;(45), ro_nonstandard&nbsp;(78856), ro_rrt&nbsp;(39910), ro_simonero&nbsp;(34934), sl_ssj&nbsp;(944), sl_sst&nbsp;(166), sq_tsa&nbsp;(76), sr_set&nbsp;(678), sv_lines&nbsp;(18058), sv_pud&nbsp;(3695), sv_talbanken&nbsp;(22031), tr_framenet&nbsp;(309), tr_gb&nbsp;(487), tr_imst&nbsp;(1031), tr_kenet&nbsp;(4679), tr_penn&nbsp;(1905), tr_pud&nbsp;(481), tr_tourism&nbsp;(1953), wo_wtb&nbsp;(856))
+* `Spec` (pcm_nsc&nbsp;(227))
 
 ## Degree
 
 [Degree]()
 
-* Degree=Abs	da_ddt	5
-* Degree=Abs	es_ancora	52
-* Degree=Abs	es_gsd	42
-* Degree=Abs	es_pud	1
-* Degree=Abs	eu_bdt	30
-* Degree=Abs	it_isdt	106
-* Degree=Abs	it_partut	5
-* Degree=Abs	it_postwita	84
-* Degree=Abs	it_pud	14
-* Degree=Abs	it_twittiro	6
-* Degree=Abs	it_valico	11
-* Degree=Abs	it_vit	101
-* Degree=Abs	la_ittb	1227
-* Degree=Abs	la_llct	273
-* Degree=Abs	la_udante	473
-* Degree=Abs	uk_iu	20
-* Degree=Cmp	af_afribooms	135
-* Degree=Cmp	be_hse	907
-* Degree=Cmp	bg_btb	343
-* Degree=Cmp	br_keb	14
-* Degree=Cmp	ca_ancora	2556
-* Degree=Cmp	cs_cac	3146
-* Degree=Cmp	cs_cltt	128
-* Degree=Cmp	cs_fictree	554
-* Degree=Cmp	cs_pdt	7868
-* Degree=Cmp	cs_pud	99
-* Degree=Cmp	cu_proiel	196
-* Degree=Cmp	cy_ccg	123
-* Degree=Cmp	da_ddt	585
-* Degree=Cmp	de_hdt	20706
-* Degree=Cmp	de_pud	58
-* Degree=Cmp	el_gdt	258
-* Degree=Cmp	en_ewt	763
-* Degree=Cmp	en_gum	584
-* Degree=Cmp	en_gumreddit	84
-* Degree=Cmp	en_lines	195
-* Degree=Cmp	en_partut	242
-* Degree=Cmp	en_pud	68
-* Degree=Cmp	es_ancora	2784
-* Degree=Cmp	es_gsd	2052
-* Degree=Cmp	es_pud	144
-* Degree=Cmp	et_edt	2612
-* Degree=Cmp	et_ewt	303
-* Degree=Cmp	eu_bdt	176
-* Degree=Cmp	fa_seraji	452
-* Degree=Cmp	fi_ftb	839
-* Degree=Cmp	fi_ood	79
-* Degree=Cmp	fi_pud	35
-* Degree=Cmp	fi_tdt	601
-* Degree=Cmp	fo_farpahc	171
-* Degree=Cmp	ga_idt	351
-* Degree=Cmp	gd_arcosg	174
-* Degree=Cmp	gl_treegal	35
-* Degree=Cmp	got_proiel	171
-* Degree=Cmp	grc_perseus	449
-* Degree=Cmp	grc_proiel	713
-* Degree=Cmp	gv_cadhan	69
-* Degree=Cmp	hr_set	1282
-* Degree=Cmp	hsb_ufal	50
-* Degree=Cmp	hu_szeged	191
-* Degree=Cmp	hy_armtdp	85
-* Degree=Cmp	hyw_armtdp	80
-* Degree=Cmp	is_icepahc	6236
-* Degree=Cmp	is_modern	1720
-* Degree=Cmp	is_pud	71
-* Degree=Cmp	it_isdt	356
-* Degree=Cmp	it_partut	96
-* Degree=Cmp	it_postwita	1
-* Degree=Cmp	it_twittiro	4
-* Degree=Cmp	it_valico	1
-* Degree=Cmp	it_vit	269
-* Degree=Cmp	kk_ktb	6
-* Degree=Cmp	kmr_mg	14
-* Degree=Cmp	koi_uh	6
-* Degree=Cmp	kpv_ikdp	5
-* Degree=Cmp	kpv_lattice	32
-* Degree=Cmp	krl_kkpp	4
-* Degree=Cmp	la_ittb	3023
-* Degree=Cmp	la_llct	336
-* Degree=Cmp	la_perseus	162
-* Degree=Cmp	la_proiel	1500
-* Degree=Cmp	la_udante	558
-* Degree=Cmp	lt_alksnis	530
-* Degree=Cmp	lt_hse	44
-* Degree=Cmp	lv_lvtb	1594
-* Degree=Cmp	lzh_kyoto	20
-* Degree=Cmp	mdf_jr	3
-* Degree=Cmp	myv_jr	59
-* Degree=Cmp	nl_alpino	682
-* Degree=Cmp	nl_lassysmall	303
-* Degree=Cmp	no_bokmaal	2238
-* Degree=Cmp	no_nynorsk	2567
-* Degree=Cmp	olo_kkpp	1
-* Degree=Cmp	orv_rnc	50
-* Degree=Cmp	orv_torot	273
-* Degree=Cmp	pcm_nsc	169
-* Degree=Cmp	pl_lfg	526
-* Degree=Cmp	pl_pdb	1482
-* Degree=Cmp	pl_pud	85
-* Degree=Cmp	pt_bosque	1
-* Degree=Cmp	ro_rrt	30
-* Degree=Cmp	ro_simonero	37
-* Degree=Cmp	ru_gsd	290
-* Degree=Cmp	ru_pud	82
-* Degree=Cmp	ru_syntagrus	4682
-* Degree=Cmp	ru_taiga	1066
-* Degree=Cmp	sa_ufal	6
-* Degree=Cmp	sk_snk	240
-* Degree=Cmp	sl_ssj	691
-* Degree=Cmp	sl_sst	151
-* Degree=Cmp	sme_giella	125
-* Degree=Cmp	sms_giellagas	2
-* Degree=Cmp	sr_set	504
-* Degree=Cmp	sv_lines	375
-* Degree=Cmp	sv_pud	117
-* Degree=Cmp	sv_talbanken	934
-* Degree=Cmp	tr_framenet	52
-* Degree=Cmp	tr_kenet	446
-* Degree=Cmp	tr_penn	504
-* Degree=Cmp	tr_tourism	435
-* Degree=Cmp	uk_iu	497
-* Degree=Dim	af_afribooms	15
-* Degree=Equ	cy_ccg	26
-* Degree=Equ	lzh_kyoto	1066
-* Degree=Equ	sa_ufal	1
-* Degree=Ints	quc_iu	23
-* Degree=Pos	af_afribooms	5009
-* Degree=Pos	be_hse	33450
-* Degree=Pos	bg_btb	17713
-* Degree=Pos	cs_cac	71917
-* Degree=Pos	cs_cltt	6236
-* Degree=Pos	cs_fictree	11892
-* Degree=Pos	cs_pdt	179341
-* Degree=Pos	cs_pud	2022
-* Degree=Pos	cu_proiel	2559
-* Degree=Pos	cy_ccg	2234
-* Degree=Pos	da_ddt	7131
-* Degree=Pos	de_hdt	238995
-* Degree=Pos	de_pud	2387
-* Degree=Pos	en_ewt	16007
-* Degree=Pos	en_gum	11461
-* Degree=Pos	en_gumreddit	1441
-* Degree=Pos	en_lines	5511
-* Degree=Pos	en_partut	3636
-* Degree=Pos	en_pronouns	5
-* Degree=Pos	en_pud	1481
-* Degree=Pos	et_edt	30018
-* Degree=Pos	et_ewt	3213
-* Degree=Pos	fa_seraji	12602
-* Degree=Pos	fi_ood	1958
-* Degree=Pos	fi_pud	1426
-* Degree=Pos	fi_tdt	19341
-* Degree=Pos	fo_farpahc	2161
-* Degree=Pos	ga_idt	1759
-* Degree=Pos	got_proiel	2158
-* Degree=Pos	grc_proiel	10792
-* Degree=Pos	hr_set	29426
-* Degree=Pos	hsb_ufal	647
-* Degree=Pos	hu_szeged	4722
-* Degree=Pos	hy_armtdp	2589
-* Degree=Pos	hyw_armtdp	1791
-* Degree=Pos	id_gsd	5967
-* Degree=Pos	is_icepahc	40619
-* Degree=Pos	is_modern	19942
-* Degree=Pos	is_pud	940
-* Degree=Pos	kfm_aha	1
-* Degree=Pos	kmr_mg	343
-* Degree=Pos	la_ittb	46932
-* Degree=Pos	la_perseus	16
-* Degree=Pos	la_proiel	10504
-* Degree=Pos	la_udante	5815
-* Degree=Pos	lt_alksnis	6741
-* Degree=Pos	lt_hse	657
-* Degree=Pos	lv_lvtb	23112
-* Degree=Pos	lzh_kyoto	15838
-* Degree=Pos	nl_alpino	10313
-* Degree=Pos	nl_lassysmall	6040
-* Degree=Pos	no_bokmaal	21364
-* Degree=Pos	no_nynorsk	20919
-* Degree=Pos	no_nynorsklia	2001
-* Degree=Pos	nyq_aha	1
-* Degree=Pos	olo_kkpp	1
-* Degree=Pos	orv_rnc	3162
-* Degree=Pos	orv_torot	9419
-* Degree=Pos	pl_lfg	9630
-* Degree=Pos	pl_pdb	33007
-* Degree=Pos	pl_pud	2148
-* Degree=Pos	ro_art	40
-* Degree=Pos	ro_nonstandard	11667
-* Degree=Pos	ro_rrt	20793
-* Degree=Pos	ro_simonero	20368
-* Degree=Pos	ru_gsd	13889
-* Degree=Pos	ru_pud	2506
-* Degree=Pos	ru_syntagrus	158415
-* Degree=Pos	ru_taiga	26047
-* Degree=Pos	sk_snk	12017
-* Degree=Pos	sl_ssj	19885
-* Degree=Pos	sl_sst	4178
-* Degree=Pos	sr_set	13451
-* Degree=Pos	sv_lines	6084
-* Degree=Pos	sv_pud	1300
-* Degree=Pos	sv_talbanken	7022
-* Degree=Pos	tl_trg	19
-* Degree=Pos	uk_iu	4151
-* Degree=Sup	af_afribooms	63
-* Degree=Sup	be_hse	239
-* Degree=Sup	bg_btb	340
-* Degree=Sup	br_keb	9
-* Degree=Sup	cs_cac	1482
-* Degree=Sup	cs_cltt	14
-* Degree=Sup	cs_fictree	272
-* Degree=Sup	cs_pdt	4135
-* Degree=Sup	cs_pud	51
-* Degree=Sup	cy_ccg	170
-* Degree=Sup	da_ddt	311
-* Degree=Sup	de_hdt	12090
-* Degree=Sup	de_pud	32
-* Degree=Sup	el_gdt	40
-* Degree=Sup	en_ewt	654
-* Degree=Sup	en_gum	353
-* Degree=Sup	en_gumreddit	53
-* Degree=Sup	en_lines	86
-* Degree=Sup	en_partut	90
-* Degree=Sup	en_pud	46
-* Degree=Sup	es_ancora	174
-* Degree=Sup	es_gsd	79
-* Degree=Sup	es_pud	5
-* Degree=Sup	et_edt	404
-* Degree=Sup	et_ewt	34
-* Degree=Sup	eu_bdt	328
-* Degree=Sup	fa_seraji	379
-* Degree=Sup	fi_ftb	544
-* Degree=Sup	fi_ood	45
-* Degree=Sup	fi_pud	64
-* Degree=Sup	fi_tdt	536
-* Degree=Sup	fo_farpahc	42
-* Degree=Sup	fo_oft	109
-* Degree=Sup	ga_idt	351
-* Degree=Sup	gd_arcosg	174
-* Degree=Sup	gl_treegal	5
-* Degree=Sup	got_proiel	129
-* Degree=Sup	grc_perseus	390
-* Degree=Sup	grc_proiel	514
-* Degree=Sup	gv_cadhan	69
-* Degree=Sup	hr_set	642
-* Degree=Sup	hsb_ufal	42
-* Degree=Sup	hu_szeged	97
-* Degree=Sup	hy_armtdp	43
-* Degree=Sup	hyw_armtdp	15
-* Degree=Sup	id_csui	49
-* Degree=Sup	id_gsd	279
-* Degree=Sup	id_pud	58
-* Degree=Sup	is_icepahc	4951
-* Degree=Sup	is_modern	1086
-* Degree=Sup	is_pud	117
-* Degree=Sup	it_pud	22
-* Degree=Sup	kmr_mg	3
-* Degree=Sup	kpv_ikdp	3
-* Degree=Sup	kpv_lattice	8
-* Degree=Sup	krl_kkpp	8
-* Degree=Sup	la_perseus	89
-* Degree=Sup	la_proiel	711
-* Degree=Sup	lt_alksnis	204
-* Degree=Sup	lt_hse	20
-* Degree=Sup	lv_lvtb	195
-* Degree=Sup	lzh_kyoto	83
-* Degree=Sup	myv_jr	14
-* Degree=Sup	nl_alpino	331
-* Degree=Sup	nl_lassysmall	243
-* Degree=Sup	no_bokmaal	1142
-* Degree=Sup	no_nynorsk	1012
-* Degree=Sup	no_nynorsklia	138
-* Degree=Sup	orv_rnc	3
-* Degree=Sup	orv_torot	1
-* Degree=Sup	pcm_nsc	42
-* Degree=Sup	pl_lfg	217
-* Degree=Sup	pl_pdb	691
-* Degree=Sup	pl_pud	56
-* Degree=Sup	ro_rrt	28
-* Degree=Sup	ro_simonero	15
-* Degree=Sup	ru_gsd	45
-* Degree=Sup	ru_pud	16
-* Degree=Sup	ru_syntagrus	505
-* Degree=Sup	ru_taiga	267
-* Degree=Sup	sa_ufal	2
-* Degree=Sup	sk_snk	189
-* Degree=Sup	sl_ssj	416
-* Degree=Sup	sl_sst	48
-* Degree=Sup	sme_giella	85
-* Degree=Sup	sr_set	229
-* Degree=Sup	sv_lines	242
-* Degree=Sup	sv_pud	103
-* Degree=Sup	sv_talbanken	542
-* Degree=Sup	tr_framenet	26
-* Degree=Sup	tr_kenet	328
-* Degree=Sup	tr_penn	222
-* Degree=Sup	tr_tourism	79
-* Degree=Sup	uk_iu	232
+* `Abs` (da_ddt&nbsp;(5), es_ancora&nbsp;(52), es_gsd&nbsp;(42), es_pud&nbsp;(1), eu_bdt&nbsp;(30), it_isdt&nbsp;(106), it_partut&nbsp;(5), it_postwita&nbsp;(84), it_pud&nbsp;(14), it_twittiro&nbsp;(6), it_valico&nbsp;(11), it_vit&nbsp;(101), la_ittb&nbsp;(1227), la_llct&nbsp;(273), la_udante&nbsp;(473), uk_iu&nbsp;(20))
+* `Cmp` (af_afribooms&nbsp;(135), be_hse&nbsp;(907), bg_btb&nbsp;(343), br_keb&nbsp;(14), ca_ancora&nbsp;(2556), cs_cac&nbsp;(3146), cs_cltt&nbsp;(128), cs_fictree&nbsp;(554), cs_pdt&nbsp;(7868), cs_pud&nbsp;(99), cu_proiel&nbsp;(196), cy_ccg&nbsp;(123), da_ddt&nbsp;(585), de_hdt&nbsp;(20706), de_pud&nbsp;(58), el_gdt&nbsp;(258), en_ewt&nbsp;(763), en_gum&nbsp;(584), en_gumreddit&nbsp;(84), en_lines&nbsp;(195), en_partut&nbsp;(242), en_pud&nbsp;(68), es_ancora&nbsp;(2784), es_gsd&nbsp;(2052), es_pud&nbsp;(144), et_edt&nbsp;(2612), et_ewt&nbsp;(303), eu_bdt&nbsp;(176), fa_seraji&nbsp;(452), fi_ftb&nbsp;(839), fi_ood&nbsp;(79), fi_pud&nbsp;(35), fi_tdt&nbsp;(601), fo_farpahc&nbsp;(171), ga_idt&nbsp;(351), gd_arcosg&nbsp;(174), gl_treegal&nbsp;(35), got_proiel&nbsp;(171), grc_perseus&nbsp;(449), grc_proiel&nbsp;(713), gv_cadhan&nbsp;(69), hr_set&nbsp;(1282), hsb_ufal&nbsp;(50), hu_szeged&nbsp;(191), hy_armtdp&nbsp;(85), hyw_armtdp&nbsp;(80), is_icepahc&nbsp;(6236), is_modern&nbsp;(1720), is_pud&nbsp;(71), it_isdt&nbsp;(356), it_partut&nbsp;(96), it_postwita&nbsp;(1), it_twittiro&nbsp;(4), it_valico&nbsp;(1), it_vit&nbsp;(269), kk_ktb&nbsp;(6), kmr_mg&nbsp;(14), koi_uh&nbsp;(6), kpv_ikdp&nbsp;(5), kpv_lattice&nbsp;(32), krl_kkpp&nbsp;(4), la_ittb&nbsp;(3023), la_llct&nbsp;(336), la_perseus&nbsp;(162), la_proiel&nbsp;(1500), la_udante&nbsp;(558), lt_alksnis&nbsp;(530), lt_hse&nbsp;(44), lv_lvtb&nbsp;(1594), lzh_kyoto&nbsp;(20), mdf_jr&nbsp;(3), myv_jr&nbsp;(59), nl_alpino&nbsp;(682), nl_lassysmall&nbsp;(303), no_bokmaal&nbsp;(2238), no_nynorsk&nbsp;(2567), olo_kkpp&nbsp;(1), orv_rnc&nbsp;(50), orv_torot&nbsp;(273), pcm_nsc&nbsp;(169), pl_lfg&nbsp;(526), pl_pdb&nbsp;(1482), pl_pud&nbsp;(85), pt_bosque&nbsp;(1), ro_rrt&nbsp;(30), ro_simonero&nbsp;(37), ru_gsd&nbsp;(290), ru_pud&nbsp;(82), ru_syntagrus&nbsp;(4682), ru_taiga&nbsp;(1066), sa_ufal&nbsp;(6), sk_snk&nbsp;(240), sl_ssj&nbsp;(691), sl_sst&nbsp;(151), sme_giella&nbsp;(125), sms_giellagas&nbsp;(2), sr_set&nbsp;(504), sv_lines&nbsp;(375), sv_pud&nbsp;(117), sv_talbanken&nbsp;(934), tr_framenet&nbsp;(52), tr_kenet&nbsp;(446), tr_penn&nbsp;(504), tr_tourism&nbsp;(435), uk_iu&nbsp;(497))
+* `Dim` (af_afribooms&nbsp;(15))
+* `Equ` (cy_ccg&nbsp;(26), lzh_kyoto&nbsp;(1066), sa_ufal&nbsp;(1))
+* `Ints` (quc_iu&nbsp;(23))
+* `Pos` (af_afribooms&nbsp;(5009), be_hse&nbsp;(33450), bg_btb&nbsp;(17713), cs_cac&nbsp;(71917), cs_cltt&nbsp;(6236), cs_fictree&nbsp;(11892), cs_pdt&nbsp;(179341), cs_pud&nbsp;(2022), cu_proiel&nbsp;(2559), cy_ccg&nbsp;(2234), da_ddt&nbsp;(7131), de_hdt&nbsp;(238995), de_pud&nbsp;(2387), en_ewt&nbsp;(16007), en_gum&nbsp;(11461), en_gumreddit&nbsp;(1441), en_lines&nbsp;(5511), en_partut&nbsp;(3636), en_pronouns&nbsp;(5), en_pud&nbsp;(1481), et_edt&nbsp;(30018), et_ewt&nbsp;(3213), fa_seraji&nbsp;(12602), fi_ood&nbsp;(1958), fi_pud&nbsp;(1426), fi_tdt&nbsp;(19341), fo_farpahc&nbsp;(2161), ga_idt&nbsp;(1759), got_proiel&nbsp;(2158), grc_proiel&nbsp;(10792), hr_set&nbsp;(29426), hsb_ufal&nbsp;(647), hu_szeged&nbsp;(4722), hy_armtdp&nbsp;(2589), hyw_armtdp&nbsp;(1791), id_gsd&nbsp;(5967), is_icepahc&nbsp;(40619), is_modern&nbsp;(19942), is_pud&nbsp;(940), kfm_aha&nbsp;(1), kmr_mg&nbsp;(343), la_ittb&nbsp;(46932), la_perseus&nbsp;(16), la_proiel&nbsp;(10504), la_udante&nbsp;(5815), lt_alksnis&nbsp;(6741), lt_hse&nbsp;(657), lv_lvtb&nbsp;(23112), lzh_kyoto&nbsp;(15838), nl_alpino&nbsp;(10313), nl_lassysmall&nbsp;(6040), no_bokmaal&nbsp;(21364), no_nynorsk&nbsp;(20919), no_nynorsklia&nbsp;(2001), nyq_aha&nbsp;(1), olo_kkpp&nbsp;(1), orv_rnc&nbsp;(3162), orv_torot&nbsp;(9419), pl_lfg&nbsp;(9630), pl_pdb&nbsp;(33007), pl_pud&nbsp;(2148), ro_art&nbsp;(40), ro_nonstandard&nbsp;(11667), ro_rrt&nbsp;(20793), ro_simonero&nbsp;(20368), ru_gsd&nbsp;(13889), ru_pud&nbsp;(2506), ru_syntagrus&nbsp;(158415), ru_taiga&nbsp;(26047), sk_snk&nbsp;(12017), sl_ssj&nbsp;(19885), sl_sst&nbsp;(4178), sr_set&nbsp;(13451), sv_lines&nbsp;(6084), sv_pud&nbsp;(1300), sv_talbanken&nbsp;(7022), tl_trg&nbsp;(19), uk_iu&nbsp;(4151))
+* `Sup` (af_afribooms&nbsp;(63), be_hse&nbsp;(239), bg_btb&nbsp;(340), br_keb&nbsp;(9), cs_cac&nbsp;(1482), cs_cltt&nbsp;(14), cs_fictree&nbsp;(272), cs_pdt&nbsp;(4135), cs_pud&nbsp;(51), cy_ccg&nbsp;(170), da_ddt&nbsp;(311), de_hdt&nbsp;(12090), de_pud&nbsp;(32), el_gdt&nbsp;(40), en_ewt&nbsp;(654), en_gum&nbsp;(353), en_gumreddit&nbsp;(53), en_lines&nbsp;(86), en_partut&nbsp;(90), en_pud&nbsp;(46), es_ancora&nbsp;(174), es_gsd&nbsp;(79), es_pud&nbsp;(5), et_edt&nbsp;(404), et_ewt&nbsp;(34), eu_bdt&nbsp;(328), fa_seraji&nbsp;(379), fi_ftb&nbsp;(544), fi_ood&nbsp;(45), fi_pud&nbsp;(64), fi_tdt&nbsp;(536), fo_farpahc&nbsp;(42), fo_oft&nbsp;(109), ga_idt&nbsp;(351), gd_arcosg&nbsp;(174), gl_treegal&nbsp;(5), got_proiel&nbsp;(129), grc_perseus&nbsp;(390), grc_proiel&nbsp;(514), gv_cadhan&nbsp;(69), hr_set&nbsp;(642), hsb_ufal&nbsp;(42), hu_szeged&nbsp;(97), hy_armtdp&nbsp;(43), hyw_armtdp&nbsp;(15), id_csui&nbsp;(49), id_gsd&nbsp;(279), id_pud&nbsp;(58), is_icepahc&nbsp;(4951), is_modern&nbsp;(1086), is_pud&nbsp;(117), it_pud&nbsp;(22), kmr_mg&nbsp;(3), kpv_ikdp&nbsp;(3), kpv_lattice&nbsp;(8), krl_kkpp&nbsp;(8), la_perseus&nbsp;(89), la_proiel&nbsp;(711), lt_alksnis&nbsp;(204), lt_hse&nbsp;(20), lv_lvtb&nbsp;(195), lzh_kyoto&nbsp;(83), myv_jr&nbsp;(14), nl_alpino&nbsp;(331), nl_lassysmall&nbsp;(243), no_bokmaal&nbsp;(1142), no_nynorsk&nbsp;(1012), no_nynorsklia&nbsp;(138), orv_rnc&nbsp;(3), orv_torot&nbsp;(1), pcm_nsc&nbsp;(42), pl_lfg&nbsp;(217), pl_pdb&nbsp;(691), pl_pud&nbsp;(56), ro_rrt&nbsp;(28), ro_simonero&nbsp;(15), ru_gsd&nbsp;(45), ru_pud&nbsp;(16), ru_syntagrus&nbsp;(505), ru_taiga&nbsp;(267), sa_ufal&nbsp;(2), sk_snk&nbsp;(189), sl_ssj&nbsp;(416), sl_sst&nbsp;(48), sme_giella&nbsp;(85), sr_set&nbsp;(229), sv_lines&nbsp;(242), sv_pud&nbsp;(103), sv_talbanken&nbsp;(542), tr_framenet&nbsp;(26), tr_kenet&nbsp;(328), tr_penn&nbsp;(222), tr_tourism&nbsp;(79), uk_iu&nbsp;(232))
 
 ## Deixis
 
 [Deixis]()
 
-* Deixis=Dist	aqz_tudet	8
-* Deixis=Med	hy_armtdp	516
-* Deixis=Med	hyw_armtdp	231
-* Deixis=Med	tl_trg	1
-* Deixis=Med	wo_wtb	37
-* Deixis=Prox	aqz_tudet	12
-* Deixis=Prox	bej_nsc	14
-* Deixis=Prox	hy_armtdp	288
-* Deixis=Prox	hyw_armtdp	337
-* Deixis=Prox	mpu_tudet	1
-* Deixis=Prox	mr_ufal	47
-* Deixis=Prox	tl_trg	1
-* Deixis=Prox	wo_wtb	2727
-* Deixis=Remt	bej_nsc	2
-* Deixis=Remt	hy_armtdp	332
-* Deixis=Remt	hyw_armtdp	342
-* Deixis=Remt	mr_ufal	226
-* Deixis=Remt	tl_trg	2
-* Deixis=Remt	wo_wtb	396
+* `Dist` (aqz_tudet&nbsp;(8))
+* `Med` (hy_armtdp&nbsp;(516), hyw_armtdp&nbsp;(231), tl_trg&nbsp;(1), wo_wtb&nbsp;(37))
+* `Prox` (aqz_tudet&nbsp;(12), bej_nsc&nbsp;(14), hy_armtdp&nbsp;(288), hyw_armtdp&nbsp;(337), mpu_tudet&nbsp;(1), mr_ufal&nbsp;(47), tl_trg&nbsp;(1), wo_wtb&nbsp;(2727))
+* `Remt` (bej_nsc&nbsp;(2), hy_armtdp&nbsp;(332), hyw_armtdp&nbsp;(342), mr_ufal&nbsp;(226), tl_trg&nbsp;(2), wo_wtb&nbsp;(396))
 
 ## DeixisRef
 
 [DeixisRef]()
 
-* DeixisRef=1	wo_wtb	256
-* DeixisRef=2	wo_wtb	428
+* `1` (wo_wtb&nbsp;(256))
+* `2` (wo_wtb&nbsp;(428))
 
 ## Deixis[psor]
 
 [Deixis[psor]]()
 
-* Deixis[psor]=Prox	hyw_armtdp	7
+* `Prox` (hyw_armtdp&nbsp;(7))
 
 ## Derivation
 
 [Derivation]()
 
-* Derivation=AdvstO	myv_jr	14
-* Derivation=Al	kpv_ikdp	1
-* Derivation=An	kpv_lattice	24
-* Derivation=Ana	koi_uh	1
-* Derivation=Ana	kpv_lattice	11
-* Derivation=Anin	kpv_lattice	1
-* Derivation=CompMod	koi_uh	1
-* Derivation=CompMod	kpv_lattice	5
-* Derivation=Dimin	koi_uh	3
-* Derivation=Dimin	mdf_jr	41
-* Derivation=Dimin	myv_jr	21
-* Derivation=Dimin	sms_giellagas	1
-* Derivation=F	mdf_jr	9
-* Derivation=GenAttr	myv_jr	24
-* Derivation=Ig	kpv_ikdp	3
-* Derivation=Ig	kpv_lattice	24
-* Derivation=Igdyrji	kpv_ikdp	1
-* Derivation=Igkost	kpv_lattice	1
-* Derivation=Igkosta	kpv_lattice	1
-* Derivation=Igkosti	kpv_lattice	2
-* Derivation=Igmoz	kpv_ikdp	1
-* Derivation=Igmoz	kpv_lattice	6
-* Derivation=Igtyr	kpv_lattice	1
-* Derivation=Igtyrji	kpv_lattice	1
-* Derivation=Ik	koi_uh	2
-* Derivation=Ik	kpv_lattice	9
-* Derivation=InchL	sms_giellagas	6
-* Derivation=Inen	fi_ood	281
-* Derivation=Inen	fi_pud	344
-* Derivation=Inen	fi_tdt	4305
-* Derivation=Ja	fi_ood	109
-* Derivation=Ja	fi_pud	157
-* Derivation=Ja	fi_tdt	1842
-* Derivation=Ko	kpv_ikdp	11
-* Derivation=Ko	kpv_lattice	27
-* Derivation=La	kpv_ikdp	1
-* Derivation=Lainen	fi_ood	73
-* Derivation=Lainen	fi_pud	123
-* Derivation=Lainen	fi_tdt	1387
-* Derivation=Llinen	fi_ood	105
-* Derivation=Llinen	fi_pud	156
-* Derivation=Llinen	fi_tdt	1460
-* Derivation=Men	sms_giellagas	5
-* Derivation=Minen	fi_ood	88
-* Derivation=Minen	fi_pud	130
-* Derivation=Minen	fi_tdt	1758
-* Derivation=NomAg	kpv_ikdp	2
-* Derivation=NomAg	kpv_lattice	38
-* Derivation=NomAg	mdf_jr	3
-* Derivation=NomAg	myv_jr	1
-* Derivation=OkshnOms	myv_jr	15
-* Derivation=Oma	kpv_lattice	2
-* Derivation=Omka	myv_jr	3
-* Derivation=Omon	koi_uh	1
-* Derivation=Omon	kpv_lattice	9
-* Derivation=OvOms	myv_jr	4
-* Derivation=Ovt	myv_jr	9
-* Derivation=Ozj	mdf_jr	8
-* Derivation=Ozj	myv_jr	231
-* Derivation=Poss	mdf_jr	4
-* Derivation=PrivMod	kpv_lattice	1
-* Derivation=PronGak	myv_jr	2
-* Derivation=Proprietive	apu_ufpa	2
-* Derivation=ProprietiveMod	koi_uh	4
-* Derivation=ProprietiveMod	kpv_ikdp	2
-* Derivation=ProprietiveMod	kpv_lattice	27
-* Derivation=Shka	myv_jr	4
-* Derivation=Sjuro	kpv_lattice	4
-* Derivation=Sti	fi_ood	181
-* Derivation=Sti	fi_pud	113
-* Derivation=Sti	fi_tdt	1720
-* Derivation=Tar	fi_pud	2
-* Derivation=Tar	fi_tdt	22
-* Derivation=TempMod	kpv_lattice	2
-* Derivation=Ton	fi_ood	31
-* Derivation=Ton	fi_pud	49
-* Derivation=Ton	fi_tdt	422
-* Derivation=Ttain	fi_ood	11
-* Derivation=Ttain	fi_pud	16
-* Derivation=Ttain	fi_tdt	202
-* Derivation=U	fi_ood	157
-* Derivation=U	fi_pud	116
-* Derivation=U	fi_tdt	1965
-* Derivation=VCar	koi_uh	3
-* Derivation=VCar	kpv_ikdp	1
-* Derivation=VCar	kpv_lattice	13
-* Derivation=VGen	myv_jr	1
-* Derivation=VSj	myv_jr	1
-* Derivation=VTer	kpv_lattice	4
-* Derivation=VerbYcja	myv_jr	67
-* Derivation=VerbYks	myv_jr	3
-* Derivation=Voc	kpv_lattice	2
-* Derivation=Voc	myv_jr	11
-* Derivation=VocKaj	myv_jr	1
-* Derivation=Vs	fi_ood	101
-* Derivation=Vs	fi_pud	73
-* Derivation=Vs	fi_tdt	1538
-* Derivation=Wife	mdf_jr	1
+* `AdvstO` (myv_jr&nbsp;(14))
+* `Al` (kpv_ikdp&nbsp;(1))
+* `An` (kpv_lattice&nbsp;(24))
+* `Ana` (koi_uh&nbsp;(1), kpv_lattice&nbsp;(11))
+* `Anin` (kpv_lattice&nbsp;(1))
+* `CompMod` (koi_uh&nbsp;(1), kpv_lattice&nbsp;(5))
+* `Dimin` (koi_uh&nbsp;(3), mdf_jr&nbsp;(41), myv_jr&nbsp;(21), sms_giellagas&nbsp;(1))
+* `F` (mdf_jr&nbsp;(9))
+* `GenAttr` (myv_jr&nbsp;(24))
+* `Ig` (kpv_ikdp&nbsp;(3), kpv_lattice&nbsp;(24))
+* `Igdyrji` (kpv_ikdp&nbsp;(1))
+* `Igkost` (kpv_lattice&nbsp;(1))
+* `Igkosta` (kpv_lattice&nbsp;(1))
+* `Igkosti` (kpv_lattice&nbsp;(2))
+* `Igmoz` (kpv_ikdp&nbsp;(1), kpv_lattice&nbsp;(6))
+* `Igtyr` (kpv_lattice&nbsp;(1))
+* `Igtyrji` (kpv_lattice&nbsp;(1))
+* `Ik` (koi_uh&nbsp;(2), kpv_lattice&nbsp;(9))
+* `InchL` (sms_giellagas&nbsp;(6))
+* `Inen` (fi_ood&nbsp;(281), fi_pud&nbsp;(344), fi_tdt&nbsp;(4305))
+* `Ja` (fi_ood&nbsp;(109), fi_pud&nbsp;(157), fi_tdt&nbsp;(1842))
+* `Ko` (kpv_ikdp&nbsp;(11), kpv_lattice&nbsp;(27))
+* `La` (kpv_ikdp&nbsp;(1))
+* `Lainen` (fi_ood&nbsp;(73), fi_pud&nbsp;(123), fi_tdt&nbsp;(1387))
+* `Llinen` (fi_ood&nbsp;(105), fi_pud&nbsp;(156), fi_tdt&nbsp;(1460))
+* `Men` (sms_giellagas&nbsp;(5))
+* `Minen` (fi_ood&nbsp;(88), fi_pud&nbsp;(130), fi_tdt&nbsp;(1758))
+* `NomAg` (kpv_ikdp&nbsp;(2), kpv_lattice&nbsp;(38), mdf_jr&nbsp;(3), myv_jr&nbsp;(1))
+* `OkshnOms` (myv_jr&nbsp;(15))
+* `Oma` (kpv_lattice&nbsp;(2))
+* `Omka` (myv_jr&nbsp;(3))
+* `Omon` (koi_uh&nbsp;(1), kpv_lattice&nbsp;(9))
+* `OvOms` (myv_jr&nbsp;(4))
+* `Ovt` (myv_jr&nbsp;(9))
+* `Ozj` (mdf_jr&nbsp;(8), myv_jr&nbsp;(231))
+* `Poss` (mdf_jr&nbsp;(4))
+* `PrivMod` (kpv_lattice&nbsp;(1))
+* `PronGak` (myv_jr&nbsp;(2))
+* `Proprietive` (apu_ufpa&nbsp;(2))
+* `ProprietiveMod` (koi_uh&nbsp;(4), kpv_ikdp&nbsp;(2), kpv_lattice&nbsp;(27))
+* `Shka` (myv_jr&nbsp;(4))
+* `Sjuro` (kpv_lattice&nbsp;(4))
+* `Sti` (fi_ood&nbsp;(181), fi_pud&nbsp;(113), fi_tdt&nbsp;(1720))
+* `Tar` (fi_pud&nbsp;(2), fi_tdt&nbsp;(22))
+* `TempMod` (kpv_lattice&nbsp;(2))
+* `Ton` (fi_ood&nbsp;(31), fi_pud&nbsp;(49), fi_tdt&nbsp;(422))
+* `Ttain` (fi_ood&nbsp;(11), fi_pud&nbsp;(16), fi_tdt&nbsp;(202))
+* `U` (fi_ood&nbsp;(157), fi_pud&nbsp;(116), fi_tdt&nbsp;(1965))
+* `VCar` (koi_uh&nbsp;(3), kpv_ikdp&nbsp;(1), kpv_lattice&nbsp;(13))
+* `VGen` (myv_jr&nbsp;(1))
+* `VSj` (myv_jr&nbsp;(1))
+* `VTer` (kpv_lattice&nbsp;(4))
+* `VerbYcja` (myv_jr&nbsp;(67))
+* `VerbYks` (myv_jr&nbsp;(3))
+* `Voc` (kpv_lattice&nbsp;(2), myv_jr&nbsp;(11))
+* `VocKaj` (myv_jr&nbsp;(1))
+* `Vs` (fi_ood&nbsp;(101), fi_pud&nbsp;(73), fi_tdt&nbsp;(1538))
+* `Wife` (mdf_jr&nbsp;(1))
 
 ## Dev
 
 [Dev]()
 
-* Dev=Pass	tpn_tudet	5
+* `Pass` (tpn_tudet&nbsp;(5))
 
 ## Dialect
 
 [Dialect]()
 
-* Dialect=Connaught	ga_idt	6
-* Dialect=Munster	ga_idt	83
-* Dialect=Ulster	ga_idt	31
+* `Connaught` (ga_idt&nbsp;(6))
+* `Munster` (ga_idt&nbsp;(83))
+* `Ulster` (ga_idt&nbsp;(31))
 
 ## Dimin
 
 [Dimin]()
 
-* Dimin=Yes	gub_tudet	10
+* `Yes` (gub_tudet&nbsp;(10))
 
 ## Echo
 
 [Echo]()
 
-* Echo=Ech	hy_armtdp	9
-* Echo=Ech	hyw_armtdp	13
-* Echo=Rdp	bho_bhtb	15
-* Echo=Rdp	hi_hdtb	208
-* Echo=Rdp	tr_boun	10
-* Echo=Rdp	tr_imst	23
-* Echo=Rdp	ur_udtb	66
+* `Ech` (hy_armtdp&nbsp;(9), hyw_armtdp&nbsp;(13))
+* `Rdp` (bho_bhtb&nbsp;(15), hi_hdtb&nbsp;(208), tr_boun&nbsp;(10), tr_imst&nbsp;(23), ur_udtb&nbsp;(66))
 
 ## Emph
 
 [Emph]()
 
-* Emph=Yes	tpn_tudet	2
+* `Yes` (tpn_tudet&nbsp;(2))
 
 ## Emphatic
 
 [Emphatic]()
 
-* Emphatic=Yes	la_udante	669
-* Emphatic=Yes	pl_lfg	33
-* Emphatic=Yes	pl_pdb	36
+* `Yes` (la_udante&nbsp;(669), pl_lfg&nbsp;(33), pl_pdb&nbsp;(36))
 
 ## Evident
 
 [Evident]()
 
-* Evident=Fh	bxr_bdt	65
-* Evident=Fh	gub_tudet	1
-* Evident=Fh	kk_ktb	35
-* Evident=Fh	lv_lvtb	24811
-* Evident=Fh	mpu_tudet	2
-* Evident=Fh	qtd_sagt	1930
-* Evident=Fh	tr_boun	4224
-* Evident=Fh	tr_gb	54
-* Evident=Nfh	kmr_mg	172
-* Evident=Nfh	koi_uh	7
-* Evident=Nfh	kpv_ikdp	25
-* Evident=Nfh	kpv_lattice	69
-* Evident=Nfh	lv_lvtb	322
-* Evident=Nfh	mpu_tudet	3
-* Evident=Nfh	myu_tudet	4
-* Evident=Nfh	myv_jr	7
-* Evident=Nfh	qtd_sagt	199
-* Evident=Nfh	tr_boun	1137
-* Evident=Nfh	tr_gb	418
-* Evident=Nfh	tr_imst	637
-* Evident=Nfh	tr_pud	219
+* `Fh` (bxr_bdt&nbsp;(65), gub_tudet&nbsp;(1), kk_ktb&nbsp;(35), lv_lvtb&nbsp;(24811), mpu_tudet&nbsp;(2), qtd_sagt&nbsp;(1930), tr_boun&nbsp;(4224), tr_gb&nbsp;(54))
+* `Nfh` (kmr_mg&nbsp;(172), koi_uh&nbsp;(7), kpv_ikdp&nbsp;(25), kpv_lattice&nbsp;(69), lv_lvtb&nbsp;(322), mpu_tudet&nbsp;(3), myu_tudet&nbsp;(4), myv_jr&nbsp;(7), qtd_sagt&nbsp;(199), tr_boun&nbsp;(1137), tr_gb&nbsp;(418), tr_imst&nbsp;(637), tr_pud&nbsp;(219))
 
 ## Focus
 
 [Focus]()
 
-* Focus=Yes	quc_iu	103
+* `Yes` (quc_iu&nbsp;(103))
 
 ## FocusType
 
 [FocusType]()
 
-* FocusType=Compl	wo_wtb	264
-* FocusType=Subj	wo_wtb	467
-* FocusType=Verb	wo_wtb	307
+* `Compl` (wo_wtb&nbsp;(264))
+* `Subj` (wo_wtb&nbsp;(467))
+* `Verb` (wo_wtb&nbsp;(307))
 
 ## Foreign
 
 [Foreign]()
 
-* Foreign=Yes	ar_padt	5097
-* Foreign=Yes	be_hse	3680
-* Foreign=Yes	bej_nsc	2
-* Foreign=Yes	bg_btb	1
-* Foreign=Yes	bho_bhtb	7
-* Foreign=Yes	ca_ancora	26
-* Foreign=Yes	cop_scriptorium	3933
-* Foreign=Yes	cs_cac	525
-* Foreign=Yes	cs_pdt	9318
-* Foreign=Yes	cs_pud	196
-* Foreign=Yes	cy_ccg	17
-* Foreign=Yes	da_ddt	111
-* Foreign=Yes	de_gsd	2436
-* Foreign=Yes	de_hdt	53406
-* Foreign=Yes	de_pud	3
-* Foreign=Yes	el_gdt	974
-* Foreign=Yes	en_esl	4
-* Foreign=Yes	en_ewt	42
-* Foreign=Yes	en_partut	113
-* Foreign=Yes	en_pud	6
-* Foreign=Yes	es_ancora	16
-* Foreign=Yes	es_gsd	69
-* Foreign=Yes	es_pud	1
-* Foreign=Yes	et_edt	105
-* Foreign=Yes	et_ewt	191
-* Foreign=Yes	fi_ftb	129
-* Foreign=Yes	fi_ood	68
-* Foreign=Yes	fi_pud	13
-* Foreign=Yes	fi_tdt	262
-* Foreign=Yes	fo_farpahc	3
-* Foreign=Yes	fr_gsd	1611
-* Foreign=Yes	fr_pud	19
-* Foreign=Yes	ga_idt	748
-* Foreign=Yes	gd_arcosg	647
-* Foreign=Yes	gl_ctg	171
-* Foreign=Yes	hi_hdtb	121
-* Foreign=Yes	hi_pud	3
-* Foreign=Yes	hy_armtdp	89
-* Foreign=Yes	hyw_armtdp	441
-* Foreign=Yes	id_csui	376
-* Foreign=Yes	id_pud	32
-* Foreign=Yes	is_icepahc	4765
-* Foreign=Yes	is_modern	118
-* Foreign=Yes	is_pud	4
-* Foreign=Yes	it_isdt	234
-* Foreign=Yes	it_partut	122
-* Foreign=Yes	it_pud	1
-* Foreign=Yes	it_twittiro	1
-* Foreign=Yes	it_vit	403
-* Foreign=Yes	ja_bccwj	218
-* Foreign=Yes	la_udante	564
-* Foreign=Yes	lt_alksnis	130
-* Foreign=Yes	lv_lvtb	958
-* Foreign=Yes	pl_pdb	152
-* Foreign=Yes	pl_pud	54
-* Foreign=Yes	pt_bosque	1
-* Foreign=Yes	pt_pud	170
-* Foreign=Yes	qtd_sagt	157
-* Foreign=Yes	quc_iu	4
-* Foreign=Yes	ro_rrt	119
-* Foreign=Yes	ru_gsd	1493
-* Foreign=Yes	ru_pud	208
-* Foreign=Yes	ru_syntagrus	2806
-* Foreign=Yes	ru_taiga	632
-* Foreign=Yes	sk_snk	241
-* Foreign=Yes	sl_ssj	121
-* Foreign=Yes	sl_sst	96
-* Foreign=Yes	sv_pud	23
-* Foreign=Yes	sv_talbanken	39
-* Foreign=Yes	tl_trg	1
-* Foreign=Yes	tr_pud	4
-* Foreign=Yes	uk_iu	593
-* Foreign=Yes	ur_udtb	8
-* Foreign=Yes	zh_pud	91
+* `Yes` (ar_padt&nbsp;(5097), be_hse&nbsp;(3680), bej_nsc&nbsp;(2), bg_btb&nbsp;(1), bho_bhtb&nbsp;(7), ca_ancora&nbsp;(26), cop_scriptorium&nbsp;(3933), cs_cac&nbsp;(525), cs_pdt&nbsp;(9318), cs_pud&nbsp;(196), cy_ccg&nbsp;(17), da_ddt&nbsp;(111), de_gsd&nbsp;(2436), de_hdt&nbsp;(53406), de_pud&nbsp;(3), el_gdt&nbsp;(974), en_esl&nbsp;(4), en_ewt&nbsp;(42), en_partut&nbsp;(113), en_pud&nbsp;(6), es_ancora&nbsp;(16), es_gsd&nbsp;(69), es_pud&nbsp;(1), et_edt&nbsp;(105), et_ewt&nbsp;(191), fi_ftb&nbsp;(129), fi_ood&nbsp;(68), fi_pud&nbsp;(13), fi_tdt&nbsp;(262), fo_farpahc&nbsp;(3), fr_gsd&nbsp;(1611), fr_pud&nbsp;(19), ga_idt&nbsp;(748), gd_arcosg&nbsp;(647), gl_ctg&nbsp;(171), hi_hdtb&nbsp;(121), hi_pud&nbsp;(3), hy_armtdp&nbsp;(89), hyw_armtdp&nbsp;(441), id_csui&nbsp;(376), id_pud&nbsp;(32), is_icepahc&nbsp;(4765), is_modern&nbsp;(118), is_pud&nbsp;(4), it_isdt&nbsp;(234), it_partut&nbsp;(122), it_pud&nbsp;(1), it_twittiro&nbsp;(1), it_vit&nbsp;(403), ja_bccwj&nbsp;(218), la_udante&nbsp;(564), lt_alksnis&nbsp;(130), lv_lvtb&nbsp;(958), pl_pdb&nbsp;(152), pl_pud&nbsp;(54), pt_bosque&nbsp;(1), pt_pud&nbsp;(170), qtd_sagt&nbsp;(157), quc_iu&nbsp;(4), ro_rrt&nbsp;(119), ru_gsd&nbsp;(1493), ru_pud&nbsp;(208), ru_syntagrus&nbsp;(2806), ru_taiga&nbsp;(632), sk_snk&nbsp;(241), sl_ssj&nbsp;(121), sl_sst&nbsp;(96), sv_pud&nbsp;(23), sv_talbanken&nbsp;(39), tl_trg&nbsp;(1), tr_pud&nbsp;(4), uk_iu&nbsp;(593), ur_udtb&nbsp;(8), zh_pud&nbsp;(91))
 
 ## Form
 
 [Form]()
 
-* Form=Adn	ko_pud	1118
-* Form=Aux	ko_pud	210
-* Form=Compl	ko_pud	642
-* Form=Direct	ga_idt	2354
-* Form=Ecl	ga_idt	4095
-* Form=Ecl	gv_cadhan	202
-* Form=Emp	ga_idt	29
-* Form=Emp	gd_arcosg	534
-* Form=Emp	gv_cadhan	13
-* Form=HPref	ga_idt	860
-* Form=HPref	gv_cadhan	17
-* Form=Indirect	ga_idt	471
-* Form=Len	ga_idt	11787
-* Form=Len	gv_cadhan	1846
-* Form=VF	ga_idt	181
+* `Adn` (ko_pud&nbsp;(1118))
+* `Aux` (ko_pud&nbsp;(210))
+* `Compl` (ko_pud&nbsp;(642))
+* `Direct` (ga_idt&nbsp;(2354))
+* `Ecl` (ga_idt&nbsp;(4095), gv_cadhan&nbsp;(202))
+* `Emp` (ga_idt&nbsp;(29), gd_arcosg&nbsp;(534), gv_cadhan&nbsp;(13))
+* `HPref` (ga_idt&nbsp;(860), gv_cadhan&nbsp;(17))
+* `Indirect` (ga_idt&nbsp;(471))
+* `Len` (ga_idt&nbsp;(11787), gv_cadhan&nbsp;(1846))
+* `VF` (ga_idt&nbsp;(181))
 
 ## Gender
 
 [Gender]()
 
-* Gender=Com	akk_riao	2072
-* Gender=Com	am_att	15
-* Gender=Com	da_ddt	20101
-* Gender=Com	gl_treegal	444
-* Gender=Com	lt_alksnis	8
-* Gender=Com	nl_alpino	17890
-* Gender=Com	nl_lassysmall	11017
-* Gender=Com	sv_lines	20578
-* Gender=Com	sv_pud	4128
-* Gender=Com	sv_talbanken	22707
-* Gender=Com	ta_mwtt	210
-* Gender=Com	ta_ttb	1218
-* Gender=Fem	aii_as	40
-* Gender=Fem	akk_riao	3896
-* Gender=Fem	am_att	419
-* Gender=Fem	apu_ufpa	16
-* Gender=Fem	ar_nyuad	141672
-* Gender=Fem	ar_padt	29136
-* Gender=Fem	ar_pud	4667
-* Gender=Fem	be_hse	44806
-* Gender=Fem	bej_nsc	87
-* Gender=Fem	bg_btb	20703
-* Gender=Fem	bho_bhtb	882
-* Gender=Fem	br_keb	701
-* Gender=Fem	bxr_bdt	147
-* Gender=Fem	ca_ancora	85913
-* Gender=Fem	cop_scriptorium	2000
-* Gender=Fem	cs_cac	100767
-* Gender=Fem	cs_cltt	8446
-* Gender=Fem	cs_fictree	25410
-* Gender=Fem	cs_pdt	280197
-* Gender=Fem	cs_pud	3465
-* Gender=Fem	cu_proiel	4647
-* Gender=Fem	cy_ccg	3003
-* Gender=Fem	de_gsd	51527
-* Gender=Fem	de_hdt	490573
-* Gender=Fem	de_pud	3914
-* Gender=Fem	el_gdt	18160
-* Gender=Fem	en_ewt	578
-* Gender=Fem	en_gum	570
-* Gender=Fem	en_gumreddit	75
-* Gender=Fem	en_lines	566
-* Gender=Fem	en_partut	174
-* Gender=Fem	en_pronouns	57
-* Gender=Fem	en_pud	79
-* Gender=Fem	es_ancora	85163
-* Gender=Fem	es_gsd	68249
-* Gender=Fem	es_pud	4520
-* Gender=Fem	eu_bdt	44
-* Gender=Fem	fo_oft	1095
-* Gender=Fem	fr_fqb	3795
-* Gender=Fem	fr_ftb	118196
-* Gender=Fem	fr_gsd	66982
-* Gender=Fem	fr_partut	5619
-* Gender=Fem	fr_pud	5511
-* Gender=Fem	fr_sequoia	12118
-* Gender=Fem	fr_spoken	3867
-* Gender=Fem	ga_idt	15782
-* Gender=Fem	gd_arcosg	6741
-* Gender=Fem	gl_treegal	5581
-* Gender=Fem	got_proiel	5784
-* Gender=Fem	grc_perseus	25557
-* Gender=Fem	grc_proiel	31278
-* Gender=Fem	gv_cadhan	164
-* Gender=Fem	he_htb	25793
-* Gender=Fem	hi_hdtb	55133
-* Gender=Fem	hi_pud	3174
-* Gender=Fem	hr_set	36735
-* Gender=Fem	hsb_ufal	1870
-* Gender=Fem	id_gsd	3
-* Gender=Fem	is_icepahc	79099
-* Gender=Fem	is_pud	2182
-* Gender=Fem	it_isdt	51989
-* Gender=Fem	it_partut	10782
-* Gender=Fem	it_postwita	13442
-* Gender=Fem	it_pud	5429
-* Gender=Fem	it_twittiro	3723
-* Gender=Fem	it_valico	988
-* Gender=Fem	it_vit	48875
-* Gender=Fem	kk_ktb	48
-* Gender=Fem	kmr_mg	2878
-* Gender=Fem	la_ittb	79636
-* Gender=Fem	la_llct	40729
-* Gender=Fem	la_perseus	4627
-* Gender=Fem	la_proiel	27428
-* Gender=Fem	la_udante	8045
-* Gender=Fem	lt_alksnis	14393
-* Gender=Fem	lt_hse	817
-* Gender=Fem	lv_lvtb	55152
-* Gender=Fem	mdf_jr	2
-* Gender=Fem	mr_ufal	480
-* Gender=Fem	myv_jr	115
-* Gender=Fem	no_bokmaal	10198
-* Gender=Fem	no_nynorsk	17334
-* Gender=Fem	no_nynorsklia	1495
-* Gender=Fem	orv_rnc	3671
-* Gender=Fem	orv_torot	15027
-* Gender=Fem	pcm_nsc	365
-* Gender=Fem	pl_lfg	18412
-* Gender=Fem	pl_pdb	56864
-* Gender=Fem	pl_pud	3204
-* Gender=Fem	pt_bosque	45848
-* Gender=Fem	pt_gsd	9148
-* Gender=Fem	pt_pud	5353
-* Gender=Fem	qtd_sagt	1662
-* Gender=Fem	quc_iu	63
-* Gender=Fem	ro_art	66
-* Gender=Fem	ro_nonstandard	79144
-* Gender=Fem	ro_rrt	53303
-* Gender=Fem	ro_simonero	42831
-* Gender=Fem	ru_gsd	14555
-* Gender=Fem	ru_pud	2860
-* Gender=Fem	ru_syntagrus	149665
-* Gender=Fem	ru_taiga	24075
-* Gender=Fem	sa_ufal	90
-* Gender=Fem	sa_vedic	3298
-* Gender=Fem	sk_snk	19029
-* Gender=Fem	sl_ssj	24129
-* Gender=Fem	sl_sst	3297
-* Gender=Fem	sq_tsa	295
-* Gender=Fem	sr_set	18886
-* Gender=Fem	sv_talbanken	1
-* Gender=Fem	ta_mwtt	6
-* Gender=Fem	tl_trg	7
-* Gender=Fem	ug_udt	1
-* Gender=Fem	uk_iu	18756
-* Gender=Fem	ur_udtb	14086
-* Gender=Fem	wo_wtb	37
-* Gender=Masc	aii_as	114
-* Gender=Masc	akk_riao	10254
-* Gender=Masc	am_att	1234
-* Gender=Masc	apu_ufpa	97
-* Gender=Masc	ar_nyuad	336029
-* Gender=Masc	ar_padt	38293
-* Gender=Masc	ar_pud	7340
-* Gender=Masc	be_hse	65849
-* Gender=Masc	bej_nsc	229
-* Gender=Masc	bg_btb	26500
-* Gender=Masc	bho_bhtb	3073
-* Gender=Masc	br_keb	1541
-* Gender=Masc	bxr_bdt	233
-* Gender=Masc	ca_ancora	107866
-* Gender=Masc	cop_scriptorium	6238
-* Gender=Masc	cs_cac	109865
-* Gender=Masc	cs_cltt	7890
-* Gender=Masc	cs_fictree	32500
-* Gender=Masc	cs_pdt	359328
-* Gender=Masc	cs_pud	4606
-* Gender=Masc	cu_proiel	16520
-* Gender=Masc	cy_ccg	7003
-* Gender=Masc	de_gsd	53368
-* Gender=Masc	de_hdt	408665
-* Gender=Masc	de_pud	3700
-* Gender=Masc	el_gdt	7438
-* Gender=Masc	en_ewt	1741
-* Gender=Masc	en_gum	1147
-* Gender=Masc	en_gumreddit	96
-* Gender=Masc	en_lines	2313
-* Gender=Masc	en_partut	461
-* Gender=Masc	en_pronouns	57
-* Gender=Masc	en_pud	212
-* Gender=Masc	es_ancora	117140
-* Gender=Masc	es_gsd	90193
-* Gender=Masc	es_pud	6971
-* Gender=Masc	eu_bdt	27
-* Gender=Masc	fo_oft	1861
-* Gender=Masc	fr_fqb	6034
-* Gender=Masc	fr_ftb	175771
-* Gender=Masc	fr_gsd	93693
-* Gender=Masc	fr_partut	5712
-* Gender=Masc	fr_pud	7178
-* Gender=Masc	fr_sequoia	15543
-* Gender=Masc	fr_spoken	7024
-* Gender=Masc	ga_idt	26854
-* Gender=Masc	gd_arcosg	14002
-* Gender=Masc	gl_treegal	7020
-* Gender=Masc	got_proiel	17625
-* Gender=Masc	grc_perseus	53183
-* Gender=Masc	grc_proiel	71918
-* Gender=Masc	gv_cadhan	2659
-* Gender=Masc	he_htb	44936
-* Gender=Masc	hi_hdtb	130758
-* Gender=Masc	hi_pud	7942
-* Gender=Masc	hr_set	49101
-* Gender=Masc	hsb_ufal	2180
-* Gender=Masc	id_gsd	39
-* Gender=Masc	is_icepahc	184230
-* Gender=Masc	is_pud	2449
-* Gender=Masc	it_isdt	71842
-* Gender=Masc	it_partut	13359
-* Gender=Masc	it_postwita	22959
-* Gender=Masc	it_pud	7272
-* Gender=Masc	it_twittiro	5431
-* Gender=Masc	it_valico	1870
-* Gender=Masc	it_vit	67584
-* Gender=Masc	kk_ktb	145
-* Gender=Masc	kmr_mg	2189
-* Gender=Masc	la_ittb	50405
-* Gender=Masc	la_llct	73885
-* Gender=Masc	la_perseus	5925
-* Gender=Masc	la_proiel	53010
-* Gender=Masc	la_udante	7808
-* Gender=Masc	lt_alksnis	19168
-* Gender=Masc	lt_hse	1383
-* Gender=Masc	lv_lvtb	59192
-* Gender=Masc	mdf_jr	13
-* Gender=Masc	mr_ufal	938
-* Gender=Masc	myv_jr	334
-* Gender=Masc	no_bokmaal	43982
-* Gender=Masc	no_nynorsk	34524
-* Gender=Masc	no_nynorsklia	3909
-* Gender=Masc	orv_rnc	9088
-* Gender=Masc	orv_torot	49847
-* Gender=Masc	pcm_nsc	37
-* Gender=Masc	pl_lfg	30073
-* Gender=Masc	pl_pdb	83511
-* Gender=Masc	pl_pud	5022
-* Gender=Masc	pt_bosque	62228
-* Gender=Masc	pt_gsd	12211
-* Gender=Masc	pt_pud	6928
-* Gender=Masc	qtd_sagt	1248
-* Gender=Masc	quc_iu	106
-* Gender=Masc	ro_art	66
-* Gender=Masc	ro_nonstandard	101482
-* Gender=Masc	ro_rrt	37225
-* Gender=Masc	ro_simonero	26529
-* Gender=Masc	ru_gsd	26967
-* Gender=Masc	ru_pud	4180
-* Gender=Masc	ru_syntagrus	208592
-* Gender=Masc	ru_taiga	35696
-* Gender=Masc	sa_ufal	536
-* Gender=Masc	sa_vedic	9031
-* Gender=Masc	sk_snk	24414
-* Gender=Masc	sl_ssj	29301
-* Gender=Masc	sl_sst	4183
-* Gender=Masc	sq_tsa	205
-* Gender=Masc	sr_set	25231
-* Gender=Masc	sv_lines	6
-* Gender=Masc	sv_pud	22
-* Gender=Masc	sv_talbanken	49
-* Gender=Masc	ta_mwtt	267
-* Gender=Masc	ta_ttb	2
-* Gender=Masc	tl_trg	17
-* Gender=Masc	ug_udt	18
-* Gender=Masc	uk_iu	23028
-* Gender=Masc	ur_udtb	59991
-* Gender=Masc	wo_wtb	33
-* Gender=Neut	am_att	62
-* Gender=Neut	be_hse	16027
-* Gender=Neut	bg_btb	11777
-* Gender=Neut	ca_ancora	333
-* Gender=Neut	cs_cac	53371
-* Gender=Neut	cs_cltt	3525
-* Gender=Neut	cs_fictree	10898
-* Gender=Neut	cs_pdt	148597
-* Gender=Neut	cs_pud	2080
-* Gender=Neut	cu_proiel	4837
-* Gender=Neut	da_ddt	9130
-* Gender=Neut	de_gsd	32985
-* Gender=Neut	de_hdt	289065
-* Gender=Neut	de_pud	2581
-* Gender=Neut	el_gdt	9132
-* Gender=Neut	en_ewt	2501
-* Gender=Neut	en_gum	1318
-* Gender=Neut	en_gumreddit	249
-* Gender=Neut	en_lines	105
-* Gender=Neut	en_pronouns	171
-* Gender=Neut	en_pud	191
-* Gender=Neut	fo_farpahc	19
-* Gender=Neut	fo_oft	942
-* Gender=Neut	gl_treegal	33
-* Gender=Neut	got_proiel	5184
-* Gender=Neut	grc_perseus	18340
-* Gender=Neut	grc_proiel	24501
-* Gender=Neut	hr_set	14470
-* Gender=Neut	hsb_ufal	880
-* Gender=Neut	is_icepahc	108169
-* Gender=Neut	is_modern	952
-* Gender=Neut	is_pud	2853
-* Gender=Neut	la_ittb	58253
-* Gender=Neut	la_llct	17818
-* Gender=Neut	la_perseus	3061
-* Gender=Neut	la_proiel	21016
-* Gender=Neut	la_udante	7211
-* Gender=Neut	lt_alksnis	857
-* Gender=Neut	lt_hse	32
-* Gender=Neut	mr_ufal	329
-* Gender=Neut	nl_alpino	10221
-* Gender=Neut	nl_lassysmall	6946
-* Gender=Neut	no_bokmaal	35824
-* Gender=Neut	no_nynorsk	37054
-* Gender=Neut	no_nynorsklia	6160
-* Gender=Neut	orv_rnc	1942
-* Gender=Neut	orv_torot	11439
-* Gender=Neut	pcm_nsc	88
-* Gender=Neut	pl_lfg	9828
-* Gender=Neut	pl_pdb	31426
-* Gender=Neut	pl_pud	1922
-* Gender=Neut	qtd_sagt	2299
-* Gender=Neut	ru_gsd	8654
-* Gender=Neut	ru_pud	1966
-* Gender=Neut	ru_syntagrus	103515
-* Gender=Neut	ru_taiga	16445
-* Gender=Neut	sa_ufal	255
-* Gender=Neut	sa_vedic	3763
-* Gender=Neut	sk_snk	9111
-* Gender=Neut	sl_ssj	11412
-* Gender=Neut	sl_sst	2110
-* Gender=Neut	sr_set	6283
-* Gender=Neut	sv_lines	8723
-* Gender=Neut	sv_pud	1779
-* Gender=Neut	sv_talbanken	10857
-* Gender=Neut	ta_mwtt	136
-* Gender=Neut	ta_ttb	4072
-* Gender=Neut	uk_iu	8833
+* `Com` (akk_riao&nbsp;(2072), am_att&nbsp;(15), da_ddt&nbsp;(20101), gl_treegal&nbsp;(444), lt_alksnis&nbsp;(8), nl_alpino&nbsp;(17890), nl_lassysmall&nbsp;(11017), sv_lines&nbsp;(20578), sv_pud&nbsp;(4128), sv_talbanken&nbsp;(22707), ta_mwtt&nbsp;(210), ta_ttb&nbsp;(1218))
+* `Fem` (aii_as&nbsp;(40), akk_riao&nbsp;(3896), am_att&nbsp;(419), apu_ufpa&nbsp;(16), ar_nyuad&nbsp;(141672), ar_padt&nbsp;(29136), ar_pud&nbsp;(4667), be_hse&nbsp;(44806), bej_nsc&nbsp;(87), bg_btb&nbsp;(20703), bho_bhtb&nbsp;(882), br_keb&nbsp;(701), bxr_bdt&nbsp;(147), ca_ancora&nbsp;(85913), cop_scriptorium&nbsp;(2000), cs_cac&nbsp;(100767), cs_cltt&nbsp;(8446), cs_fictree&nbsp;(25410), cs_pdt&nbsp;(280197), cs_pud&nbsp;(3465), cu_proiel&nbsp;(4647), cy_ccg&nbsp;(3003), de_gsd&nbsp;(51527), de_hdt&nbsp;(490573), de_pud&nbsp;(3914), el_gdt&nbsp;(18160), en_ewt&nbsp;(578), en_gum&nbsp;(570), en_gumreddit&nbsp;(75), en_lines&nbsp;(566), en_partut&nbsp;(174), en_pronouns&nbsp;(57), en_pud&nbsp;(79), es_ancora&nbsp;(85163), es_gsd&nbsp;(68249), es_pud&nbsp;(4520), eu_bdt&nbsp;(44), fo_oft&nbsp;(1095), fr_fqb&nbsp;(3795), fr_ftb&nbsp;(118196), fr_gsd&nbsp;(66982), fr_partut&nbsp;(5619), fr_pud&nbsp;(5511), fr_sequoia&nbsp;(12118), fr_spoken&nbsp;(3867), ga_idt&nbsp;(15782), gd_arcosg&nbsp;(6741), gl_treegal&nbsp;(5581), got_proiel&nbsp;(5784), grc_perseus&nbsp;(25557), grc_proiel&nbsp;(31278), gv_cadhan&nbsp;(164), he_htb&nbsp;(25793), hi_hdtb&nbsp;(55133), hi_pud&nbsp;(3174), hr_set&nbsp;(36735), hsb_ufal&nbsp;(1870), id_gsd&nbsp;(3), is_icepahc&nbsp;(79099), is_pud&nbsp;(2182), it_isdt&nbsp;(51989), it_partut&nbsp;(10782), it_postwita&nbsp;(13442), it_pud&nbsp;(5429), it_twittiro&nbsp;(3723), it_valico&nbsp;(988), it_vit&nbsp;(48875), kk_ktb&nbsp;(48), kmr_mg&nbsp;(2878), la_ittb&nbsp;(79636), la_llct&nbsp;(40729), la_perseus&nbsp;(4627), la_proiel&nbsp;(27428), la_udante&nbsp;(8045), lt_alksnis&nbsp;(14393), lt_hse&nbsp;(817), lv_lvtb&nbsp;(55152), mdf_jr&nbsp;(2), mr_ufal&nbsp;(480), myv_jr&nbsp;(115), no_bokmaal&nbsp;(10198), no_nynorsk&nbsp;(17334), no_nynorsklia&nbsp;(1495), orv_rnc&nbsp;(3671), orv_torot&nbsp;(15027), pcm_nsc&nbsp;(365), pl_lfg&nbsp;(18412), pl_pdb&nbsp;(56864), pl_pud&nbsp;(3204), pt_bosque&nbsp;(45848), pt_gsd&nbsp;(9148), pt_pud&nbsp;(5353), qtd_sagt&nbsp;(1662), quc_iu&nbsp;(63), ro_art&nbsp;(66), ro_nonstandard&nbsp;(79144), ro_rrt&nbsp;(53303), ro_simonero&nbsp;(42831), ru_gsd&nbsp;(14555), ru_pud&nbsp;(2860), ru_syntagrus&nbsp;(149665), ru_taiga&nbsp;(24075), sa_ufal&nbsp;(90), sa_vedic&nbsp;(3298), sk_snk&nbsp;(19029), sl_ssj&nbsp;(24129), sl_sst&nbsp;(3297), sq_tsa&nbsp;(295), sr_set&nbsp;(18886), sv_talbanken&nbsp;(1), ta_mwtt&nbsp;(6), tl_trg&nbsp;(7), ug_udt&nbsp;(1), uk_iu&nbsp;(18756), ur_udtb&nbsp;(14086), wo_wtb&nbsp;(37))
+* `Masc` (aii_as&nbsp;(114), akk_riao&nbsp;(10254), am_att&nbsp;(1234), apu_ufpa&nbsp;(97), ar_nyuad&nbsp;(336029), ar_padt&nbsp;(38293), ar_pud&nbsp;(7340), be_hse&nbsp;(65849), bej_nsc&nbsp;(229), bg_btb&nbsp;(26500), bho_bhtb&nbsp;(3073), br_keb&nbsp;(1541), bxr_bdt&nbsp;(233), ca_ancora&nbsp;(107866), cop_scriptorium&nbsp;(6238), cs_cac&nbsp;(109865), cs_cltt&nbsp;(7890), cs_fictree&nbsp;(32500), cs_pdt&nbsp;(359328), cs_pud&nbsp;(4606), cu_proiel&nbsp;(16520), cy_ccg&nbsp;(7003), de_gsd&nbsp;(53368), de_hdt&nbsp;(408665), de_pud&nbsp;(3700), el_gdt&nbsp;(7438), en_ewt&nbsp;(1741), en_gum&nbsp;(1147), en_gumreddit&nbsp;(96), en_lines&nbsp;(2313), en_partut&nbsp;(461), en_pronouns&nbsp;(57), en_pud&nbsp;(212), es_ancora&nbsp;(117140), es_gsd&nbsp;(90193), es_pud&nbsp;(6971), eu_bdt&nbsp;(27), fo_oft&nbsp;(1861), fr_fqb&nbsp;(6034), fr_ftb&nbsp;(175771), fr_gsd&nbsp;(93693), fr_partut&nbsp;(5712), fr_pud&nbsp;(7178), fr_sequoia&nbsp;(15543), fr_spoken&nbsp;(7024), ga_idt&nbsp;(26854), gd_arcosg&nbsp;(14002), gl_treegal&nbsp;(7020), got_proiel&nbsp;(17625), grc_perseus&nbsp;(53183), grc_proiel&nbsp;(71918), gv_cadhan&nbsp;(2659), he_htb&nbsp;(44936), hi_hdtb&nbsp;(130758), hi_pud&nbsp;(7942), hr_set&nbsp;(49101), hsb_ufal&nbsp;(2180), id_gsd&nbsp;(39), is_icepahc&nbsp;(184230), is_pud&nbsp;(2449), it_isdt&nbsp;(71842), it_partut&nbsp;(13359), it_postwita&nbsp;(22959), it_pud&nbsp;(7272), it_twittiro&nbsp;(5431), it_valico&nbsp;(1870), it_vit&nbsp;(67584), kk_ktb&nbsp;(145), kmr_mg&nbsp;(2189), la_ittb&nbsp;(50405), la_llct&nbsp;(73885), la_perseus&nbsp;(5925), la_proiel&nbsp;(53010), la_udante&nbsp;(7808), lt_alksnis&nbsp;(19168), lt_hse&nbsp;(1383), lv_lvtb&nbsp;(59192), mdf_jr&nbsp;(13), mr_ufal&nbsp;(938), myv_jr&nbsp;(334), no_bokmaal&nbsp;(43982), no_nynorsk&nbsp;(34524), no_nynorsklia&nbsp;(3909), orv_rnc&nbsp;(9088), orv_torot&nbsp;(49847), pcm_nsc&nbsp;(37), pl_lfg&nbsp;(30073), pl_pdb&nbsp;(83511), pl_pud&nbsp;(5022), pt_bosque&nbsp;(62228), pt_gsd&nbsp;(12211), pt_pud&nbsp;(6928), qtd_sagt&nbsp;(1248), quc_iu&nbsp;(106), ro_art&nbsp;(66), ro_nonstandard&nbsp;(101482), ro_rrt&nbsp;(37225), ro_simonero&nbsp;(26529), ru_gsd&nbsp;(26967), ru_pud&nbsp;(4180), ru_syntagrus&nbsp;(208592), ru_taiga&nbsp;(35696), sa_ufal&nbsp;(536), sa_vedic&nbsp;(9031), sk_snk&nbsp;(24414), sl_ssj&nbsp;(29301), sl_sst&nbsp;(4183), sq_tsa&nbsp;(205), sr_set&nbsp;(25231), sv_lines&nbsp;(6), sv_pud&nbsp;(22), sv_talbanken&nbsp;(49), ta_mwtt&nbsp;(267), ta_ttb&nbsp;(2), tl_trg&nbsp;(17), ug_udt&nbsp;(18), uk_iu&nbsp;(23028), ur_udtb&nbsp;(59991), wo_wtb&nbsp;(33))
+* `Neut` (am_att&nbsp;(62), be_hse&nbsp;(16027), bg_btb&nbsp;(11777), ca_ancora&nbsp;(333), cs_cac&nbsp;(53371), cs_cltt&nbsp;(3525), cs_fictree&nbsp;(10898), cs_pdt&nbsp;(148597), cs_pud&nbsp;(2080), cu_proiel&nbsp;(4837), da_ddt&nbsp;(9130), de_gsd&nbsp;(32985), de_hdt&nbsp;(289065), de_pud&nbsp;(2581), el_gdt&nbsp;(9132), en_ewt&nbsp;(2501), en_gum&nbsp;(1318), en_gumreddit&nbsp;(249), en_lines&nbsp;(105), en_pronouns&nbsp;(171), en_pud&nbsp;(191), fo_farpahc&nbsp;(19), fo_oft&nbsp;(942), gl_treegal&nbsp;(33), got_proiel&nbsp;(5184), grc_perseus&nbsp;(18340), grc_proiel&nbsp;(24501), hr_set&nbsp;(14470), hsb_ufal&nbsp;(880), is_icepahc&nbsp;(108169), is_modern&nbsp;(952), is_pud&nbsp;(2853), la_ittb&nbsp;(58253), la_llct&nbsp;(17818), la_perseus&nbsp;(3061), la_proiel&nbsp;(21016), la_udante&nbsp;(7211), lt_alksnis&nbsp;(857), lt_hse&nbsp;(32), mr_ufal&nbsp;(329), nl_alpino&nbsp;(10221), nl_lassysmall&nbsp;(6946), no_bokmaal&nbsp;(35824), no_nynorsk&nbsp;(37054), no_nynorsklia&nbsp;(6160), orv_rnc&nbsp;(1942), orv_torot&nbsp;(11439), pcm_nsc&nbsp;(88), pl_lfg&nbsp;(9828), pl_pdb&nbsp;(31426), pl_pud&nbsp;(1922), qtd_sagt&nbsp;(2299), ru_gsd&nbsp;(8654), ru_pud&nbsp;(1966), ru_syntagrus&nbsp;(103515), ru_taiga&nbsp;(16445), sa_ufal&nbsp;(255), sa_vedic&nbsp;(3763), sk_snk&nbsp;(9111), sl_ssj&nbsp;(11412), sl_sst&nbsp;(2110), sr_set&nbsp;(6283), sv_lines&nbsp;(8723), sv_pud&nbsp;(1779), sv_talbanken&nbsp;(10857), ta_mwtt&nbsp;(136), ta_ttb&nbsp;(4072), uk_iu&nbsp;(8833))
 
 ## Gender[dat]
 
 [Gender[dat]]()
 
-* Gender[dat]=Masc	eu_bdt	5
+* `Masc` (eu_bdt&nbsp;(5))
 
 ## Gender[erg]
 
 [Gender[erg]]()
 
-* Gender[erg]=Fem	eu_bdt	8
-* Gender[erg]=Masc	eu_bdt	5
+* `Fem` (eu_bdt&nbsp;(8))
+* `Masc` (eu_bdt&nbsp;(5))
 
 ## Gender[obj]
 
 [Gender[obj]]()
 
-* Gender[obj]=Masc	apu_ufpa	49
+* `Masc` (apu_ufpa&nbsp;(49))
 
 ## Gender[psor]
 
 [Gender[psor]]()
 
-* Gender[psor]=Fem	apu_ufpa	5
-* Gender[psor]=Fem	br_keb	17
-* Gender[psor]=Fem	cop_scriptorium	100
-* Gender[psor]=Fem	cs_cac	587
-* Gender[psor]=Fem	cs_cltt	36
-* Gender[psor]=Fem	cs_fictree	309
-* Gender[psor]=Fem	cs_pdt	1506
-* Gender[psor]=Fem	cs_pud	29
-* Gender[psor]=Fem	de_pud	45
-* Gender[psor]=Fem	hi_pud	75
-* Gender[psor]=Fem	hr_set	127
-* Gender[psor]=Fem	hsb_ufal	4
-* Gender[psor]=Fem	sk_snk	155
-* Gender[psor]=Fem	sl_ssj	138
-* Gender[psor]=Fem	sl_sst	5
-* Gender[psor]=Fem	sr_set	61
-* Gender[psor]=Masc	apu_ufpa	14
-* Gender[psor]=Masc	br_keb	37
-* Gender[psor]=Masc	cop_scriptorium	491
-* Gender[psor]=Masc	cs_cac	1636
-* Gender[psor]=Masc	cs_cltt	76
-* Gender[psor]=Masc	cs_fictree	551
-* Gender[psor]=Masc	cs_pdt	5573
-* Gender[psor]=Masc	cs_pud	92
-* Gender[psor]=Masc	de_gsd	1387
-* Gender[psor]=Masc	de_pud	115
-* Gender[psor]=Masc	hi_pud	189
-* Gender[psor]=Masc	hr_set	230
-* Gender[psor]=Masc	hsb_ufal	14
-* Gender[psor]=Masc	sk_snk	325
-* Gender[psor]=Masc	sl_ssj	248
-* Gender[psor]=Masc	sl_sst	4
-* Gender[psor]=Masc	sr_set	133
-* Gender[psor]=Neut	cs_cac	1001
-* Gender[psor]=Neut	cs_cltt	75
-* Gender[psor]=Neut	cs_fictree	12
-* Gender[psor]=Neut	cs_pdt	2909
-* Gender[psor]=Neut	cs_pud	55
-* Gender[psor]=Neut	de_gsd	1387
-* Gender[psor]=Neut	de_pud	16
-* Gender[psor]=Neut	hr_set	230
-* Gender[psor]=Neut	hsb_ufal	14
-* Gender[psor]=Neut	sk_snk	325
-* Gender[psor]=Neut	sl_ssj	1
-* Gender[psor]=Neut	sr_set	133
+* `Fem` (apu_ufpa&nbsp;(5), br_keb&nbsp;(17), cop_scriptorium&nbsp;(100), cs_cac&nbsp;(587), cs_cltt&nbsp;(36), cs_fictree&nbsp;(309), cs_pdt&nbsp;(1506), cs_pud&nbsp;(29), de_pud&nbsp;(45), hi_pud&nbsp;(75), hr_set&nbsp;(127), hsb_ufal&nbsp;(4), sk_snk&nbsp;(155), sl_ssj&nbsp;(138), sl_sst&nbsp;(5), sr_set&nbsp;(61))
+* `Masc` (apu_ufpa&nbsp;(14), br_keb&nbsp;(37), cop_scriptorium&nbsp;(491), cs_cac&nbsp;(1636), cs_cltt&nbsp;(76), cs_fictree&nbsp;(551), cs_pdt&nbsp;(5573), cs_pud&nbsp;(92), de_gsd&nbsp;(1387), de_pud&nbsp;(115), hi_pud&nbsp;(189), hr_set&nbsp;(230), hsb_ufal&nbsp;(14), sk_snk&nbsp;(325), sl_ssj&nbsp;(248), sl_sst&nbsp;(4), sr_set&nbsp;(133))
+* `Neut` (cs_cac&nbsp;(1001), cs_cltt&nbsp;(75), cs_fictree&nbsp;(12), cs_pdt&nbsp;(2909), cs_pud&nbsp;(55), de_gsd&nbsp;(1387), de_pud&nbsp;(16), hr_set&nbsp;(230), hsb_ufal&nbsp;(14), sk_snk&nbsp;(325), sl_ssj&nbsp;(1), sr_set&nbsp;(133))
 
 ## Gender[subj]
 
 [Gender[subj]]()
 
-* Gender[subj]=Masc	apu_ufpa	11
+* `Masc` (apu_ufpa&nbsp;(11))
 
 ## HebBinyan
 
 [HebBinyan]()
 
-* HebBinyan=HIFIL	he_htb	2560
-* HebBinyan=HITPAEL	he_htb	1095
-* HebBinyan=HUFAL	he_htb	560
-* HebBinyan=NIFAL	he_htb	1480
-* HebBinyan=PAAL	he_htb	4232
-* HebBinyan=PIEL	he_htb	2075
-* HebBinyan=PUAL	he_htb	508
+* `HIFIL` (he_htb&nbsp;(2560))
+* `HITPAEL` (he_htb&nbsp;(1095))
+* `HUFAL` (he_htb&nbsp;(560))
+* `NIFAL` (he_htb&nbsp;(1480))
+* `PAAL` (he_htb&nbsp;(4232))
+* `PIEL` (he_htb&nbsp;(2075))
+* `PUAL` (he_htb&nbsp;(508))
 
 ## HebExistential
 
 [HebExistential]()
 
-* HebExistential=Yes	he_htb	539
+* `Yes` (he_htb&nbsp;(539))
 
 ## Hyph
 
 [Hyph]()
 
-* Hyph=Yes	cs_cac	132
-* Hyph=Yes	cs_cltt	2
-* Hyph=Yes	cs_fictree	6
-* Hyph=Yes	cs_pdt	398
-* Hyph=Yes	cs_pud	2
-* Hyph=Yes	de_hdt	6087
-* Hyph=Yes	et_edt	773
-* Hyph=Yes	et_ewt	18
-* Hyph=Yes	hsb_ufal	11
-* Hyph=Yes	hy_armtdp	15
-* Hyph=Yes	hyw_armtdp	20
-* Hyph=Yes	lt_alksnis	1160
-* Hyph=Yes	pl_lfg	18
-* Hyph=Yes	pl_pdb	259
-* Hyph=Yes	pl_pud	7
-* Hyph=Yes	sk_snk	123
-* Hyph=Yes	uk_iu	141
+* `Yes` (cs_cac&nbsp;(132), cs_cltt&nbsp;(2), cs_fictree&nbsp;(6), cs_pdt&nbsp;(398), cs_pud&nbsp;(2), de_hdt&nbsp;(6087), et_edt&nbsp;(773), et_ewt&nbsp;(18), hsb_ufal&nbsp;(11), hy_armtdp&nbsp;(15), hyw_armtdp&nbsp;(20), lt_alksnis&nbsp;(1160), pl_lfg&nbsp;(18), pl_pdb&nbsp;(259), pl_pud&nbsp;(7), sk_snk&nbsp;(123), uk_iu&nbsp;(141))
 
 ## Incorp
 
 [Incorp]()
 
-* Incorp=Yes	myu_tudet	1
-* Incorp=Yes	tpn_tudet	7
+* `Yes` (myu_tudet&nbsp;(1), tpn_tudet&nbsp;(7))
 
 ## InfForm
 
 [InfForm]()
 
-* InfForm=1	fi_ftb	3523
-* InfForm=1	fi_ood	319
-* InfForm=1	fi_pud	218
-* InfForm=1	fi_tdt	3567
-* InfForm=2	fi_ftb	422
-* InfForm=2	fi_ood	59
-* InfForm=2	fi_pud	62
-* InfForm=2	fi_tdt	626
-* InfForm=3	fi_ftb	1380
-* InfForm=3	fi_ood	150
-* InfForm=3	fi_pud	104
-* InfForm=3	fi_tdt	1505
-* InfForm=Dict	mr_ufal	22
-* InfForm=Incp	mr_ufal	22
+* `1` (fi_ftb&nbsp;(3523), fi_ood&nbsp;(319), fi_pud&nbsp;(218), fi_tdt&nbsp;(3567))
+* `2` (fi_ftb&nbsp;(422), fi_ood&nbsp;(59), fi_pud&nbsp;(62), fi_tdt&nbsp;(626))
+* `3` (fi_ftb&nbsp;(1380), fi_ood&nbsp;(150), fi_pud&nbsp;(104), fi_tdt&nbsp;(1505))
+* `Dict` (mr_ufal&nbsp;(22))
+* `Incp` (mr_ufal&nbsp;(22))
 
 ## InflClass
 
 [InflClass]()
 
-* InflClass=Ind	la_udante	289
-* InflClass=IndEurA	la_udante	3480
-* InflClass=IndEurE	la_udante	197
-* InflClass=IndEurI	la_udante	2157
-* InflClass=IndEurO	la_udante	5782
-* InflClass=IndEurU	la_udante	522
-* InflClass=IndEurX	la_udante	4371
-* InflClass=LatA	la_udante	2084
-* InflClass=LatAnom	la_udante	3378
-* InflClass=LatE	la_udante	1384
-* InflClass=LatI	la_udante	378
-* InflClass=LatI2	la_udante	708
-* InflClass=LatPron	la_udante	4300
-* InflClass=LatX	la_udante	2887
+* `Ind` (la_udante&nbsp;(289))
+* `IndEurA` (la_udante&nbsp;(3480))
+* `IndEurE` (la_udante&nbsp;(197))
+* `IndEurI` (la_udante&nbsp;(2157))
+* `IndEurO` (la_udante&nbsp;(5782))
+* `IndEurU` (la_udante&nbsp;(522))
+* `IndEurX` (la_udante&nbsp;(4371))
+* `LatA` (la_udante&nbsp;(2084))
+* `LatAnom` (la_udante&nbsp;(3378))
+* `LatE` (la_udante&nbsp;(1384))
+* `LatI` (la_udante&nbsp;(378))
+* `LatI2` (la_udante&nbsp;(708))
+* `LatPron` (la_udante&nbsp;(4300))
+* `LatX` (la_udante&nbsp;(2887))
 
 ## InflClass[noun]
 
 [InflClass[noun]]()
 
-* InflClass[noun]=Ind	la_udante	1475
-* InflClass[noun]=IndEurA	la_udante	310
-* InflClass[noun]=IndEurI	la_udante	735
-* InflClass[noun]=IndEurO	la_udante	1047
-* InflClass[noun]=IndEurU	la_udante	1
-* InflClass[noun]=IndEurX	la_udante	1
+* `Ind` (la_udante&nbsp;(1475))
+* `IndEurA` (la_udante&nbsp;(310))
+* `IndEurI` (la_udante&nbsp;(735))
+* `IndEurO` (la_udante&nbsp;(1047))
+* `IndEurU` (la_udante&nbsp;(1))
+* `IndEurX` (la_udante&nbsp;(1))
 
 ## Int
 
 [Int]()
 
-* Int=Yes	tpn_tudet	65
+* `Yes` (tpn_tudet&nbsp;(65))
 
 ## Intens
 
 [Intens]()
 
-* Intens=Yes	tpn_tudet	15
+* `Yes` (tpn_tudet&nbsp;(15))
 
 ## Intense
 
 [Intense]()
 
-* Intense=Yes	urb_tudet	3
+* `Yes` (urb_tudet&nbsp;(3))
 
 ## LangId
 
 [LangId]()
 
-* LangId=Hy	hyw_armtdp	86
+* `Hy` (hyw_armtdp&nbsp;(86))
 
 ## Link
 
 [Link]()
 
-* Link=Yes	tl_trg	23
+* `Yes` (tl_trg&nbsp;(23))
 
 ## Mood
 
 [Mood]()
 
-* Mood=Cn1	ess_sli	15
-* Mood=Cn2	ess_sli	6
-* Mood=Cnc	ess_sli	8
-* Mood=Cnd	be_hse	547
-* Mood=Cnd	bg_btb	138
-* Mood=Cnd	bm_crb	9
-* Mood=Cnd	br_keb	30
-* Mood=Cnd	bxr_bdt	9
-* Mood=Cnd	ca_ancora	690
-* Mood=Cnd	cs_cac	2066
-* Mood=Cnd	cs_cltt	26
-* Mood=Cnd	cs_fictree	1276
-* Mood=Cnd	cs_pdt	8908
-* Mood=Cnd	cs_pud	103
-* Mood=Cnd	cy_ccg	101
-* Mood=Cnd	es_ancora	843
-* Mood=Cnd	es_gsd	592
-* Mood=Cnd	es_pud	54
-* Mood=Cnd	ess_sli	13
-* Mood=Cnd	et_edt	2206
-* Mood=Cnd	et_ewt	724
-* Mood=Cnd	eu_bdt	200
-* Mood=Cnd	fi_ftb	1570
-* Mood=Cnd	fi_ood	106
-* Mood=Cnd	fi_pud	66
-* Mood=Cnd	fi_tdt	1432
-* Mood=Cnd	fr_fqb	18
-* Mood=Cnd	fr_ftb	1507
-* Mood=Cnd	fr_gsd	431
-* Mood=Cnd	fr_partut	118
-* Mood=Cnd	fr_pud	75
-* Mood=Cnd	fr_sequoia	146
-* Mood=Cnd	fr_spoken	67
-* Mood=Cnd	ga_idt	533
-* Mood=Cnd	gd_arcosg	630
-* Mood=Cnd	gl_treegal	45
-* Mood=Cnd	gv_cadhan	38
-* Mood=Cnd	hr_set	773
-* Mood=Cnd	hsb_ufal	10
-* Mood=Cnd	hu_szeged	159
-* Mood=Cnd	hy_armtdp	260
-* Mood=Cnd	hyw_armtdp	2
-* Mood=Cnd	it_isdt	496
-* Mood=Cnd	it_partut	190
-* Mood=Cnd	it_postwita	336
-* Mood=Cnd	it_pud	54
-* Mood=Cnd	it_twittiro	85
-* Mood=Cnd	it_valico	11
-* Mood=Cnd	it_vit	520
-* Mood=Cnd	kk_ktb	41
-* Mood=Cnd	krl_kkpp	20
-* Mood=Cnd	lt_alksnis	376
-* Mood=Cnd	lt_hse	39
-* Mood=Cnd	lv_lvtb	1404
-* Mood=Cnd	mdf_jr	2
-* Mood=Cnd	myv_jr	18
-* Mood=Cnd	olo_kkpp	2
-* Mood=Cnd	orv_rnc	89
-* Mood=Cnd	pcm_nsc	40
-* Mood=Cnd	pl_lfg	346
-* Mood=Cnd	pt_bosque	342
-* Mood=Cnd	pt_pud	59
-* Mood=Cnd	qtd_sagt	69
-* Mood=Cnd	ro_art	6
-* Mood=Cnd	ru_pud	21
-* Mood=Cnd	ru_syntagrus	1427
-* Mood=Cnd	ru_taiga	541
-* Mood=Cnd	sk_snk	460
-* Mood=Cnd	sl_ssj	888
-* Mood=Cnd	sl_sst	149
-* Mood=Cnd	sme_giella	74
-* Mood=Cnd	sms_giellagas	4
-* Mood=Cnd	sr_set	407
-* Mood=Cnd	ta_mwtt	1
-* Mood=Cnd	ta_ttb	28
-* Mood=Cnd	tpn_tudet	4
-* Mood=Cnd	tr_boun	476
-* Mood=Cnd	tr_framenet	39
-* Mood=Cnd	tr_gb	144
-* Mood=Cnd	tr_imst	253
-* Mood=Cnd	tr_kenet	481
-* Mood=Cnd	tr_penn	83
-* Mood=Cnd	tr_pud	39
-* Mood=Cnd	tr_tourism	93
-* Mood=Cnd	ug_udt	259
-* Mood=Cnd	uk_iu	108
-* Mood=Cnd	wo_wtb	8
-* Mood=CndGen	tr_gb	47
-* Mood=CndGen	tr_pud	14
-* Mood=CndGenPot	tr_gb	1
-* Mood=CndPot	tr_gb	5
-* Mood=CndPot	tr_imst	6
-* Mood=CndPot	tr_pud	1
-* Mood=CndSub	myv_jr	1
-* Mood=Ctm	ess_sli	2
-* Mood=Des	bxr_bdt	186
-* Mood=Des	gun_dooley	25
-* Mood=Des	gun_thomas	3
-* Mood=Des	kk_ktb	16
-* Mood=Des	lzh_kyoto	756
-* Mood=Des	mdf_jr	1
-* Mood=Des	mr_ufal	6
-* Mood=Des	myv_jr	9
-* Mood=Des	qtd_sagt	10
-* Mood=Des	tr_boun	184
-* Mood=Des	tr_framenet	24
-* Mood=Des	tr_imst	17
-* Mood=Des	tr_kenet	350
-* Mood=Des	tr_penn	62
-* Mood=Des	tr_tourism	34
-* Mood=DesPot	tr_imst	3
-* Mood=Gen	qtd_sagt	198
-* Mood=Gen	tr_boun	356
-* Mood=Gen	tr_gb	304
-* Mood=Gen	tr_imst	359
-* Mood=Gen	tr_pud	349
-* Mood=GenNec	tr_gb	1
-* Mood=GenNec	tr_imst	4
-* Mood=GenNec	tr_pud	2
-* Mood=GenNecPot	tr_imst	1
-* Mood=GenPot	qtd_sagt	53
-* Mood=GenPot	tr_gb	109
-* Mood=GenPot	tr_imst	1
-* Mood=GenPot	tr_pud	51
-* Mood=GenPotPot	tr_gb	2
-* Mood=Imp	aii_as	3
-* Mood=Imp	akk_riao	12
-* Mood=Imp	ar_padt	54
-* Mood=Imp	ar_pud	1
-* Mood=Imp	be_hse	1567
-* Mood=Imp	bej_nsc	10
-* Mood=Imp	bg_btb	249
-* Mood=Imp	bm_crb	13
-* Mood=Imp	bxr_bdt	74
-* Mood=Imp	ca_ancora	75
-* Mood=Imp	cs_cac	470
-* Mood=Imp	cs_fictree	483
-* Mood=Imp	cs_pdt	961
-* Mood=Imp	cs_pud	2
-* Mood=Imp	cu_proiel	867
-* Mood=Imp	cy_ccg	64
-* Mood=Imp	da_ddt	168
-* Mood=Imp	de_gsd	45
-* Mood=Imp	de_hdt	747
-* Mood=Imp	de_pud	5
-* Mood=Imp	el_gdt	20
-* Mood=Imp	en_ewt	1574
-* Mood=Imp	en_gum	810
-* Mood=Imp	en_gumreddit	86
-* Mood=Imp	en_lines	133
-* Mood=Imp	en_partut	53
-* Mood=Imp	en_pronouns	5
-* Mood=Imp	es_ancora	311
-* Mood=Imp	es_gsd	68
-* Mood=Imp	es_pud	2
-* Mood=Imp	et_edt	775
-* Mood=Imp	et_ewt	301
-* Mood=Imp	eu_bdt	47
-* Mood=Imp	fa_perdt	2549
-* Mood=Imp	fa_seraji	163
-* Mood=Imp	fi_ftb	819
-* Mood=Imp	fi_ood	54
-* Mood=Imp	fi_pud	4
-* Mood=Imp	fi_tdt	417
-* Mood=Imp	fo_farpahc	261
-* Mood=Imp	fr_fqb	37
-* Mood=Imp	fr_ftb	114
-* Mood=Imp	fr_gsd	137
-* Mood=Imp	fr_partut	37
-* Mood=Imp	fr_pud	5
-* Mood=Imp	fr_sequoia	31
-* Mood=Imp	fr_spoken	58
-* Mood=Imp	ga_idt	162
-* Mood=Imp	gd_arcosg	115
-* Mood=Imp	gl_treegal	2
-* Mood=Imp	got_proiel	471
-* Mood=Imp	grc_perseus	1219
-* Mood=Imp	grc_proiel	1758
-* Mood=Imp	gub_tudet	1
-* Mood=Imp	gun_dooley	68
-* Mood=Imp	gun_thomas	1
-* Mood=Imp	gv_cadhan	181
-* Mood=Imp	he_htb	52
-* Mood=Imp	hi_hdtb	13
-* Mood=Imp	hi_pud	10
-* Mood=Imp	hr_set	221
-* Mood=Imp	hsb_ufal	13
-* Mood=Imp	hu_szeged	160
-* Mood=Imp	hy_armtdp	136
-* Mood=Imp	hyw_armtdp	51
-* Mood=Imp	is_icepahc	1164
-* Mood=Imp	is_modern	22
-* Mood=Imp	is_pud	2
-* Mood=Imp	it_isdt	248
-* Mood=Imp	it_partut	23
-* Mood=Imp	it_postwita	864
-* Mood=Imp	it_pud	3
-* Mood=Imp	it_twittiro	175
-* Mood=Imp	it_valico	14
-* Mood=Imp	it_vit	30
-* Mood=Imp	kfm_aha	1
-* Mood=Imp	kk_ktb	32
-* Mood=Imp	kmr_mg	15
-* Mood=Imp	ko_pud	8
-* Mood=Imp	koi_uh	2
-* Mood=Imp	kpv_ikdp	7
-* Mood=Imp	kpv_lattice	23
-* Mood=Imp	krl_kkpp	9
-* Mood=Imp	la_ittb	169
-* Mood=Imp	la_llct	1
-* Mood=Imp	la_perseus	120
-* Mood=Imp	la_proiel	1515
-* Mood=Imp	la_udante	66
-* Mood=Imp	lt_alksnis	179
-* Mood=Imp	lt_hse	8
-* Mood=Imp	lv_lvtb	505
-* Mood=Imp	mdf_jr	3
-* Mood=Imp	mr_ufal	80
-* Mood=Imp	myu_tudet	2
-* Mood=Imp	myv_jr	101
-* Mood=Imp	no_bokmaal	234
-* Mood=Imp	no_nynorsk	342
-* Mood=Imp	no_nynorsklia	10
-* Mood=Imp	nyq_aha	1
-* Mood=Imp	olo_kkpp	3
-* Mood=Imp	orv_rnc	190
-* Mood=Imp	orv_torot	1113
-* Mood=Imp	pl_lfg	622
-* Mood=Imp	pl_pdb	595
-* Mood=Imp	pl_pud	2
-* Mood=Imp	pt_bosque	8
-* Mood=Imp	pt_pud	2
-* Mood=Imp	qtd_sagt	136
-* Mood=Imp	quc_iu	38
-* Mood=Imp	ro_art	3
-* Mood=Imp	ro_nonstandard	3176
-* Mood=Imp	ro_rrt	110
-* Mood=Imp	ro_simonero	11
-* Mood=Imp	ru_gsd	21
-* Mood=Imp	ru_pud	4
-* Mood=Imp	ru_syntagrus	1037
-* Mood=Imp	ru_taiga	988
-* Mood=Imp	sa_ufal	23
-* Mood=Imp	sa_vedic	776
-* Mood=Imp	sk_snk	277
-* Mood=Imp	sl_ssj	275
-* Mood=Imp	sl_sst	212
-* Mood=Imp	sme_giella	163
-* Mood=Imp	sms_giellagas	16
-* Mood=Imp	soj_aha	1
-* Mood=Imp	sr_set	10
-* Mood=Imp	sv_lines	157
-* Mood=Imp	sv_pud	4
-* Mood=Imp	sv_talbanken	199
-* Mood=Imp	ta_mwtt	20
-* Mood=Imp	ta_ttb	1
-* Mood=Imp	th_pud	1
-* Mood=Imp	tl_trg	6
-* Mood=Imp	tr_boun	1205
-* Mood=Imp	tr_framenet	168
-* Mood=Imp	tr_gb	73
-* Mood=Imp	tr_imst	408
-* Mood=Imp	tr_kenet	1017
-* Mood=Imp	tr_penn	209
-* Mood=Imp	tr_pud	10
-* Mood=Imp	tr_tourism	170
-* Mood=Imp	ug_udt	134
-* Mood=Imp	uk_iu	295
-* Mood=Imp	ur_udtb	20
-* Mood=Imp	wo_wtb	86
-* Mood=Ind	aii_as	23
-* Mood=Ind	akk_riao	2684
-* Mood=Ind	aqz_tudet	1
-* Mood=Ind	ar_nyuad	54271
-* Mood=Ind	ar_padt	8185
-* Mood=Ind	ar_pud	752
-* Mood=Ind	be_hse	23119
-* Mood=Ind	bg_btb	18516
-* Mood=Ind	bho_bhtb	24
-* Mood=Ind	br_keb	819
-* Mood=Ind	bxr_bdt	435
-* Mood=Ind	ca_ancora	34891
-* Mood=Ind	cs_cac	31056
-* Mood=Ind	cs_cltt	1910
-* Mood=Ind	cs_fictree	10998
-* Mood=Ind	cs_pdt	83612
-* Mood=Ind	cs_pud	848
-* Mood=Ind	cu_proiel	9604
-* Mood=Ind	cy_ccg	2581
-* Mood=Ind	da_ddt	10010
-* Mood=Ind	de_gsd	21574
-* Mood=Ind	de_hdt	267739
-* Mood=Ind	de_pud	1786
-* Mood=Ind	el_gdt	6444
-* Mood=Ind	en_ewt	19100
-* Mood=Ind	en_gum	9494
-* Mood=Ind	en_gumreddit	1540
-* Mood=Ind	en_lines	8314
-* Mood=Ind	en_partut	3623
-* Mood=Ind	en_pronouns	305
-* Mood=Ind	en_pud	1570
-* Mood=Ind	es_ancora	39129
-* Mood=Ind	es_gsd	28060
-* Mood=Ind	es_pud	1744
-* Mood=Ind	ess_sli	196
-* Mood=Ind	et_edt	46054
-* Mood=Ind	et_ewt	7726
-* Mood=Ind	eu_bdt	14030
-* Mood=Ind	fi_ftb	21587
-* Mood=Ind	fi_ood	1879
-* Mood=Ind	fi_pud	1766
-* Mood=Ind	fi_tdt	21614
-* Mood=Ind	fo_farpahc	5188
-* Mood=Ind	fo_oft	1332
-* Mood=Ind	fr_fqb	2378
-* Mood=Ind	fr_ftb	28646
-* Mood=Ind	fr_gsd	23931
-* Mood=Ind	fr_partut	1583
-* Mood=Ind	fr_pud	1665
-* Mood=Ind	fr_sequoia	3611
-* Mood=Ind	fr_spoken	3086
-* Mood=Ind	ga_idt	7980
-* Mood=Ind	gl_treegal	1832
-* Mood=Ind	got_proiel	7429
-* Mood=Ind	grc_perseus	19427
-* Mood=Ind	grc_proiel	22629
-* Mood=Ind	gun_dooley	2258
-* Mood=Ind	gun_thomas	252
-* Mood=Ind	gv_cadhan	2497
-* Mood=Ind	hi_hdtb	16582
-* Mood=Ind	hi_pud	1779
-* Mood=Ind	hr_set	18329
-* Mood=Ind	hsb_ufal	905
-* Mood=Ind	hu_szeged	2989
-* Mood=Ind	hy_armtdp	4742
-* Mood=Ind	hyw_armtdp	3709
-* Mood=Ind	id_pud	2395
-* Mood=Ind	is_icepahc	110365
-* Mood=Ind	is_modern	15386
-* Mood=Ind	is_pud	1834
-* Mood=Ind	it_isdt	18949
-* Mood=Ind	it_partut	3036
-* Mood=Ind	it_postwita	9492
-* Mood=Ind	it_pud	1601
-* Mood=Ind	it_twittiro	2354
-* Mood=Ind	it_valico	874
-* Mood=Ind	it_vit	15127
-* Mood=Ind	kk_ktb	937
-* Mood=Ind	kmr_mg	1166
-* Mood=Ind	ko_pud	703
-* Mood=Ind	koi_uh	123
-* Mood=Ind	kpv_ikdp	293
-* Mood=Ind	kpv_lattice	1011
-* Mood=Ind	krl_kkpp	382
-* Mood=Ind	la_ittb	46828
-* Mood=Ind	la_llct	16221
-* Mood=Ind	la_perseus	3238
-* Mood=Ind	la_proiel	25672
-* Mood=Ind	la_udante	5138
-* Mood=Ind	lt_alksnis	4275
-* Mood=Ind	lt_hse	443
-* Mood=Ind	lv_lvtb	24811
-* Mood=Ind	mdf_jr	403
-* Mood=Ind	mr_ufal	2
-* Mood=Ind	myv_jr	2296
-* Mood=Ind	no_bokmaal	34594
-* Mood=Ind	no_nynorsk	32398
-* Mood=Ind	no_nynorsklia	6770
-* Mood=Ind	olo_kkpp	246
-* Mood=Ind	orv_rnc	859
-* Mood=Ind	orv_torot	17046
-* Mood=Ind	pcm_nsc	388
-* Mood=Ind	pl_lfg	20332
-* Mood=Ind	pl_pdb	37739
-* Mood=Ind	pl_pud	1717
-* Mood=Ind	pt_bosque	14487
-* Mood=Ind	pt_gsd	1
-* Mood=Ind	pt_pud	1644
-* Mood=Ind	qtd_sagt	3934
-* Mood=Ind	ro_art	83
-* Mood=Ind	ro_nonstandard	59969
-* Mood=Ind	ro_rrt	13068
-* Mood=Ind	ro_simonero	6641
-* Mood=Ind	ru_gsd	6010
-* Mood=Ind	ru_pud	1602
-* Mood=Ind	ru_syntagrus	84629
-* Mood=Ind	ru_taiga	16972
-* Mood=Ind	sa_ufal	148
-* Mood=Ind	sa_vedic	2943
-* Mood=Ind	sk_snk	5950
-* Mood=Ind	sl_ssj	14240
-* Mood=Ind	sl_sst	3948
-* Mood=Ind	sme_giella	4501
-* Mood=Ind	sms_giellagas	497
-* Mood=Ind	sq_tsa	85
-* Mood=Ind	sr_set	9752
-* Mood=Ind	sv_lines	10808
-* Mood=Ind	sv_pud	1978
-* Mood=Ind	sv_talbanken	9494
-* Mood=Ind	ta_mwtt	43
-* Mood=Ind	ta_ttb	718
-* Mood=Ind	tl_trg	89
-* Mood=Ind	tr_boun	503
-* Mood=Ind	tr_framenet	2582
-* Mood=Ind	tr_gb	2211
-* Mood=Ind	tr_imst	10291
-* Mood=Ind	tr_kenet	12847
-* Mood=Ind	tr_penn	6488
-* Mood=Ind	tr_pud	1444
-* Mood=Ind	tr_tourism	16210
-* Mood=Ind	ug_udt	1521
-* Mood=Ind	uk_iu	10695
-* Mood=Ind	ur_udtb	5695
-* Mood=Ind	wbp_ufal	10
-* Mood=Ind	wo_wtb	10046
-* Mood=Int	ess_sli	54
-* Mood=Int	ga_idt	53
-* Mood=Int	gd_arcosg	48
-* Mood=Int	ug_udt	2
-* Mood=Irr	quc_iu	10
-* Mood=Jus	am_att	17
-* Mood=Jus	ar_nyuad	1566
-* Mood=Jus	ar_padt	691
-* Mood=Jus	ar_pud	57
-* Mood=Jus	sa_ufal	1
-* Mood=Jus	sa_vedic	59
-* Mood=Nec	hyw_armtdp	1
-* Mood=Nec	lt_alksnis	26
-* Mood=Nec	lt_hse	8
-* Mood=Nec	lv_lvtb	832
-* Mood=Nec	lzh_kyoto	97
-* Mood=Nec	myv_jr	8
-* Mood=Nec	pcm_nsc	19
-* Mood=Nec	qtd_sagt	2
-* Mood=Nec	tr_boun	139
-* Mood=Nec	tr_framenet	20
-* Mood=Nec	tr_gb	30
-* Mood=Nec	tr_imst	51
-* Mood=Nec	tr_kenet	118
-* Mood=Nec	tr_penn	60
-* Mood=Nec	tr_pud	7
-* Mood=Nec	tr_tourism	49
-* Mood=NecPot	tr_imst	1
-* Mood=Opt	bej_nsc	6
-* Mood=Opt	br_keb	1
-* Mood=Opt	ess_sli	32
-* Mood=Opt	fi_ftb	4
-* Mood=Opt	got_proiel	1369
-* Mood=Opt	grc_perseus	1046
-* Mood=Opt	grc_proiel	380
-* Mood=Opt	hi_pud	16
-* Mood=Opt	kk_ktb	30
-* Mood=Opt	kmr_mg	6
-* Mood=Opt	mdf_jr	4
-* Mood=Opt	myv_jr	25
-* Mood=Opt	pcm_nsc	845
-* Mood=Opt	qtd_sagt	105
-* Mood=Opt	sa_ufal	7
-* Mood=Opt	sa_vedic	328
-* Mood=Opt	ta_mwtt	1
-* Mood=Opt	tr_boun	143
-* Mood=Opt	tr_framenet	76
-* Mood=Opt	tr_gb	78
-* Mood=Opt	tr_imst	147
-* Mood=Opt	tr_kenet	513
-* Mood=Opt	tr_penn	21
-* Mood=Opt	tr_pud	7
-* Mood=Opt	tr_tourism	13
-* Mood=Opt	wo_wtb	73
-* Mood=Perm	tpn_tudet	7
-* Mood=Pot	eu_bdt	302
-* Mood=Pot	fi_ftb	124
-* Mood=Pot	fi_ood	5
-* Mood=Pot	fi_tdt	50
-* Mood=Pot	hu_szeged	236
-* Mood=Pot	kk_ktb	13
-* Mood=Pot	lzh_kyoto	1826
-* Mood=Pot	olo_kkpp	2
-* Mood=Pot	pcm_nsc	388
-* Mood=Pot	qtd_sagt	77
-* Mood=Pot	sme_giella	74
-* Mood=Pot	sms_giellagas	20
-* Mood=Pot	tl_trg	1
-* Mood=Pot	tr_boun	515
-* Mood=Pot	tr_gb	105
-* Mood=Pot	tr_imst	492
-* Mood=Pot	tr_pud	19
-* Mood=PotPot	tr_gb	1
-* Mood=Prc	ess_sli	2
-* Mood=Prec	akk_riao	96
-* Mood=Prec	mdf_jr	3
-* Mood=Prec	myv_jr	10
-* Mood=Proh	akk_riao	31
-* Mood=Proh	myv_jr	16
-* Mood=Prs	qtd_sagt	5
-* Mood=Prs	tr_imst	2
-* Mood=Ptc	ess_sli	6
-* Mood=Qot	et_edt	172
-* Mood=Qot	et_ewt	26
-* Mood=Qot	lv_lvtb	322
-* Mood=Sbr	ess_sli	23
-* Mood=Sub	ar_nyuad	4079
-* Mood=Sub	ar_padt	1348
-* Mood=Sub	ar_pud	127
-* Mood=Sub	bho_bhtb	45
-* Mood=Sub	bm_crb	50
-* Mood=Sub	ca_ancora	2625
-* Mood=Sub	cu_proiel	96
-* Mood=Sub	cy_ccg	10
-* Mood=Sub	de_gsd	775
-* Mood=Sub	de_pud	100
-* Mood=Sub	en_lines	16
-* Mood=Sub	en_partut	18
-* Mood=Sub	en_pronouns	5
-* Mood=Sub	es_ancora	2869
-* Mood=Sub	es_gsd	1220
-* Mood=Sub	es_pud	110
-* Mood=Sub	eu_bdt	96
-* Mood=Sub	fa_perdt	1412
-* Mood=Sub	fa_seraji	2408
-* Mood=Sub	fo_farpahc	96
-* Mood=Sub	fr_fqb	8
-* Mood=Sub	fr_ftb	617
-* Mood=Sub	fr_gsd	380
-* Mood=Sub	fr_partut	80
-* Mood=Sub	fr_pud	30
-* Mood=Sub	fr_sequoia	111
-* Mood=Sub	fr_spoken	39
-* Mood=Sub	ga_idt	16
-* Mood=Sub	gl_treegal	175
-* Mood=Sub	grc_perseus	1336
-* Mood=Sub	grc_proiel	2101
-* Mood=Sub	hi_hdtb	664
-* Mood=Sub	hy_armtdp	432
-* Mood=Sub	hyw_armtdp	1580
-* Mood=Sub	is_icepahc	15202
-* Mood=Sub	is_modern	3272
-* Mood=Sub	is_pud	186
-* Mood=Sub	it_isdt	1093
-* Mood=Sub	it_partut	274
-* Mood=Sub	it_postwita	443
-* Mood=Sub	it_pud	103
-* Mood=Sub	it_twittiro	122
-* Mood=Sub	it_valico	20
-* Mood=Sub	it_vit	281
-* Mood=Sub	kfm_aha	1
-* Mood=Sub	kmr_mg	127
-* Mood=Sub	la_ittb	10393
-* Mood=Sub	la_llct	2260
-* Mood=Sub	la_perseus	737
-* Mood=Sub	la_proiel	6988
-* Mood=Sub	la_udante	1441
-* Mood=Sub	mdf_jr	11
-* Mood=Sub	mr_ufal	9
-* Mood=Sub	myv_jr	36
-* Mood=Sub	nyq_aha	1
-* Mood=Sub	pt_bosque	1005
-* Mood=Sub	pt_pud	60
-* Mood=Sub	qtd_sagt	103
-* Mood=Sub	ro_art	54
-* Mood=Sub	ro_nonstandard	11093
-* Mood=Sub	ro_rrt	4330
-* Mood=Sub	ro_simonero	612
-* Mood=Sub	sa_vedic	166
-* Mood=Sub	sq_tsa	5
-* Mood=Sub	sv_lines	31
-* Mood=Sub	sv_talbanken	16
-* Mood=Sub	tpn_tudet	8
-* Mood=Sub	ur_udtb	451
+* `Cn1` (ess_sli&nbsp;(15))
+* `Cn2` (ess_sli&nbsp;(6))
+* `Cnc` (ess_sli&nbsp;(8))
+* `Cnd` (be_hse&nbsp;(547), bg_btb&nbsp;(138), bm_crb&nbsp;(9), br_keb&nbsp;(30), bxr_bdt&nbsp;(9), ca_ancora&nbsp;(690), cs_cac&nbsp;(2066), cs_cltt&nbsp;(26), cs_fictree&nbsp;(1276), cs_pdt&nbsp;(8908), cs_pud&nbsp;(103), cy_ccg&nbsp;(101), es_ancora&nbsp;(843), es_gsd&nbsp;(592), es_pud&nbsp;(54), ess_sli&nbsp;(13), et_edt&nbsp;(2206), et_ewt&nbsp;(724), eu_bdt&nbsp;(200), fi_ftb&nbsp;(1570), fi_ood&nbsp;(106), fi_pud&nbsp;(66), fi_tdt&nbsp;(1432), fr_fqb&nbsp;(18), fr_ftb&nbsp;(1507), fr_gsd&nbsp;(431), fr_partut&nbsp;(118), fr_pud&nbsp;(75), fr_sequoia&nbsp;(146), fr_spoken&nbsp;(67), ga_idt&nbsp;(533), gd_arcosg&nbsp;(630), gl_treegal&nbsp;(45), gv_cadhan&nbsp;(38), hr_set&nbsp;(773), hsb_ufal&nbsp;(10), hu_szeged&nbsp;(159), hy_armtdp&nbsp;(260), hyw_armtdp&nbsp;(2), it_isdt&nbsp;(496), it_partut&nbsp;(190), it_postwita&nbsp;(336), it_pud&nbsp;(54), it_twittiro&nbsp;(85), it_valico&nbsp;(11), it_vit&nbsp;(520), kk_ktb&nbsp;(41), krl_kkpp&nbsp;(20), lt_alksnis&nbsp;(376), lt_hse&nbsp;(39), lv_lvtb&nbsp;(1404), mdf_jr&nbsp;(2), myv_jr&nbsp;(18), olo_kkpp&nbsp;(2), orv_rnc&nbsp;(89), pcm_nsc&nbsp;(40), pl_lfg&nbsp;(346), pt_bosque&nbsp;(342), pt_pud&nbsp;(59), qtd_sagt&nbsp;(69), ro_art&nbsp;(6), ru_pud&nbsp;(21), ru_syntagrus&nbsp;(1427), ru_taiga&nbsp;(541), sk_snk&nbsp;(460), sl_ssj&nbsp;(888), sl_sst&nbsp;(149), sme_giella&nbsp;(74), sms_giellagas&nbsp;(4), sr_set&nbsp;(407), ta_mwtt&nbsp;(1), ta_ttb&nbsp;(28), tpn_tudet&nbsp;(4), tr_boun&nbsp;(476), tr_framenet&nbsp;(39), tr_gb&nbsp;(144), tr_imst&nbsp;(253), tr_kenet&nbsp;(481), tr_penn&nbsp;(83), tr_pud&nbsp;(39), tr_tourism&nbsp;(93), ug_udt&nbsp;(259), uk_iu&nbsp;(108), wo_wtb&nbsp;(8))
+* `CndGen` (tr_gb&nbsp;(47), tr_pud&nbsp;(14))
+* `CndGenPot` (tr_gb&nbsp;(1))
+* `CndPot` (tr_gb&nbsp;(5), tr_imst&nbsp;(6), tr_pud&nbsp;(1))
+* `CndSub` (myv_jr&nbsp;(1))
+* `Ctm` (ess_sli&nbsp;(2))
+* `Des` (bxr_bdt&nbsp;(186), gun_dooley&nbsp;(25), gun_thomas&nbsp;(3), kk_ktb&nbsp;(16), lzh_kyoto&nbsp;(756), mdf_jr&nbsp;(1), mr_ufal&nbsp;(6), myv_jr&nbsp;(9), qtd_sagt&nbsp;(10), tr_boun&nbsp;(184), tr_framenet&nbsp;(24), tr_imst&nbsp;(17), tr_kenet&nbsp;(350), tr_penn&nbsp;(62), tr_tourism&nbsp;(34))
+* `DesPot` (tr_imst&nbsp;(3))
+* `Gen` (qtd_sagt&nbsp;(198), tr_boun&nbsp;(356), tr_gb&nbsp;(304), tr_imst&nbsp;(359), tr_pud&nbsp;(349))
+* `GenNec` (tr_gb&nbsp;(1), tr_imst&nbsp;(4), tr_pud&nbsp;(2))
+* `GenNecPot` (tr_imst&nbsp;(1))
+* `GenPot` (qtd_sagt&nbsp;(53), tr_gb&nbsp;(109), tr_imst&nbsp;(1), tr_pud&nbsp;(51))
+* `GenPotPot` (tr_gb&nbsp;(2))
+* `Imp` (aii_as&nbsp;(3), akk_riao&nbsp;(12), ar_padt&nbsp;(54), ar_pud&nbsp;(1), be_hse&nbsp;(1567), bej_nsc&nbsp;(10), bg_btb&nbsp;(249), bm_crb&nbsp;(13), bxr_bdt&nbsp;(74), ca_ancora&nbsp;(75), cs_cac&nbsp;(470), cs_fictree&nbsp;(483), cs_pdt&nbsp;(961), cs_pud&nbsp;(2), cu_proiel&nbsp;(867), cy_ccg&nbsp;(64), da_ddt&nbsp;(168), de_gsd&nbsp;(45), de_hdt&nbsp;(747), de_pud&nbsp;(5), el_gdt&nbsp;(20), en_ewt&nbsp;(1574), en_gum&nbsp;(810), en_gumreddit&nbsp;(86), en_lines&nbsp;(133), en_partut&nbsp;(53), en_pronouns&nbsp;(5), es_ancora&nbsp;(311), es_gsd&nbsp;(68), es_pud&nbsp;(2), et_edt&nbsp;(775), et_ewt&nbsp;(301), eu_bdt&nbsp;(47), fa_perdt&nbsp;(2549), fa_seraji&nbsp;(163), fi_ftb&nbsp;(819), fi_ood&nbsp;(54), fi_pud&nbsp;(4), fi_tdt&nbsp;(417), fo_farpahc&nbsp;(261), fr_fqb&nbsp;(37), fr_ftb&nbsp;(114), fr_gsd&nbsp;(137), fr_partut&nbsp;(37), fr_pud&nbsp;(5), fr_sequoia&nbsp;(31), fr_spoken&nbsp;(58), ga_idt&nbsp;(162), gd_arcosg&nbsp;(115), gl_treegal&nbsp;(2), got_proiel&nbsp;(471), grc_perseus&nbsp;(1219), grc_proiel&nbsp;(1758), gub_tudet&nbsp;(1), gun_dooley&nbsp;(68), gun_thomas&nbsp;(1), gv_cadhan&nbsp;(181), he_htb&nbsp;(52), hi_hdtb&nbsp;(13), hi_pud&nbsp;(10), hr_set&nbsp;(221), hsb_ufal&nbsp;(13), hu_szeged&nbsp;(160), hy_armtdp&nbsp;(136), hyw_armtdp&nbsp;(51), is_icepahc&nbsp;(1164), is_modern&nbsp;(22), is_pud&nbsp;(2), it_isdt&nbsp;(248), it_partut&nbsp;(23), it_postwita&nbsp;(864), it_pud&nbsp;(3), it_twittiro&nbsp;(175), it_valico&nbsp;(14), it_vit&nbsp;(30), kfm_aha&nbsp;(1), kk_ktb&nbsp;(32), kmr_mg&nbsp;(15), ko_pud&nbsp;(8), koi_uh&nbsp;(2), kpv_ikdp&nbsp;(7), kpv_lattice&nbsp;(23), krl_kkpp&nbsp;(9), la_ittb&nbsp;(169), la_llct&nbsp;(1), la_perseus&nbsp;(120), la_proiel&nbsp;(1515), la_udante&nbsp;(66), lt_alksnis&nbsp;(179), lt_hse&nbsp;(8), lv_lvtb&nbsp;(505), mdf_jr&nbsp;(3), mr_ufal&nbsp;(80), myu_tudet&nbsp;(2), myv_jr&nbsp;(101), no_bokmaal&nbsp;(234), no_nynorsk&nbsp;(342), no_nynorsklia&nbsp;(10), nyq_aha&nbsp;(1), olo_kkpp&nbsp;(3), orv_rnc&nbsp;(190), orv_torot&nbsp;(1113), pl_lfg&nbsp;(622), pl_pdb&nbsp;(595), pl_pud&nbsp;(2), pt_bosque&nbsp;(8), pt_pud&nbsp;(2), qtd_sagt&nbsp;(136), quc_iu&nbsp;(38), ro_art&nbsp;(3), ro_nonstandard&nbsp;(3176), ro_rrt&nbsp;(110), ro_simonero&nbsp;(11), ru_gsd&nbsp;(21), ru_pud&nbsp;(4), ru_syntagrus&nbsp;(1037), ru_taiga&nbsp;(988), sa_ufal&nbsp;(23), sa_vedic&nbsp;(776), sk_snk&nbsp;(277), sl_ssj&nbsp;(275), sl_sst&nbsp;(212), sme_giella&nbsp;(163), sms_giellagas&nbsp;(16), soj_aha&nbsp;(1), sr_set&nbsp;(10), sv_lines&nbsp;(157), sv_pud&nbsp;(4), sv_talbanken&nbsp;(199), ta_mwtt&nbsp;(20), ta_ttb&nbsp;(1), th_pud&nbsp;(1), tl_trg&nbsp;(6), tr_boun&nbsp;(1205), tr_framenet&nbsp;(168), tr_gb&nbsp;(73), tr_imst&nbsp;(408), tr_kenet&nbsp;(1017), tr_penn&nbsp;(209), tr_pud&nbsp;(10), tr_tourism&nbsp;(170), ug_udt&nbsp;(134), uk_iu&nbsp;(295), ur_udtb&nbsp;(20), wo_wtb&nbsp;(86))
+* `Ind` (aii_as&nbsp;(23), akk_riao&nbsp;(2684), aqz_tudet&nbsp;(1), ar_nyuad&nbsp;(54271), ar_padt&nbsp;(8185), ar_pud&nbsp;(752), be_hse&nbsp;(23119), bg_btb&nbsp;(18516), bho_bhtb&nbsp;(24), br_keb&nbsp;(819), bxr_bdt&nbsp;(435), ca_ancora&nbsp;(34891), cs_cac&nbsp;(31056), cs_cltt&nbsp;(1910), cs_fictree&nbsp;(10998), cs_pdt&nbsp;(83612), cs_pud&nbsp;(848), cu_proiel&nbsp;(9604), cy_ccg&nbsp;(2581), da_ddt&nbsp;(10010), de_gsd&nbsp;(21574), de_hdt&nbsp;(267739), de_pud&nbsp;(1786), el_gdt&nbsp;(6444), en_ewt&nbsp;(19100), en_gum&nbsp;(9494), en_gumreddit&nbsp;(1540), en_lines&nbsp;(8314), en_partut&nbsp;(3623), en_pronouns&nbsp;(305), en_pud&nbsp;(1570), es_ancora&nbsp;(39129), es_gsd&nbsp;(28060), es_pud&nbsp;(1744), ess_sli&nbsp;(196), et_edt&nbsp;(46054), et_ewt&nbsp;(7726), eu_bdt&nbsp;(14030), fi_ftb&nbsp;(21587), fi_ood&nbsp;(1879), fi_pud&nbsp;(1766), fi_tdt&nbsp;(21614), fo_farpahc&nbsp;(5188), fo_oft&nbsp;(1332), fr_fqb&nbsp;(2378), fr_ftb&nbsp;(28646), fr_gsd&nbsp;(23931), fr_partut&nbsp;(1583), fr_pud&nbsp;(1665), fr_sequoia&nbsp;(3611), fr_spoken&nbsp;(3086), ga_idt&nbsp;(7980), gl_treegal&nbsp;(1832), got_proiel&nbsp;(7429), grc_perseus&nbsp;(19427), grc_proiel&nbsp;(22629), gun_dooley&nbsp;(2258), gun_thomas&nbsp;(252), gv_cadhan&nbsp;(2497), hi_hdtb&nbsp;(16582), hi_pud&nbsp;(1779), hr_set&nbsp;(18329), hsb_ufal&nbsp;(905), hu_szeged&nbsp;(2989), hy_armtdp&nbsp;(4742), hyw_armtdp&nbsp;(3709), id_pud&nbsp;(2395), is_icepahc&nbsp;(110365), is_modern&nbsp;(15386), is_pud&nbsp;(1834), it_isdt&nbsp;(18949), it_partut&nbsp;(3036), it_postwita&nbsp;(9492), it_pud&nbsp;(1601), it_twittiro&nbsp;(2354), it_valico&nbsp;(874), it_vit&nbsp;(15127), kk_ktb&nbsp;(937), kmr_mg&nbsp;(1166), ko_pud&nbsp;(703), koi_uh&nbsp;(123), kpv_ikdp&nbsp;(293), kpv_lattice&nbsp;(1011), krl_kkpp&nbsp;(382), la_ittb&nbsp;(46828), la_llct&nbsp;(16221), la_perseus&nbsp;(3238), la_proiel&nbsp;(25672), la_udante&nbsp;(5138), lt_alksnis&nbsp;(4275), lt_hse&nbsp;(443), lv_lvtb&nbsp;(24811), mdf_jr&nbsp;(403), mr_ufal&nbsp;(2), myv_jr&nbsp;(2296), no_bokmaal&nbsp;(34594), no_nynorsk&nbsp;(32398), no_nynorsklia&nbsp;(6770), olo_kkpp&nbsp;(246), orv_rnc&nbsp;(859), orv_torot&nbsp;(17046), pcm_nsc&nbsp;(388), pl_lfg&nbsp;(20332), pl_pdb&nbsp;(37739), pl_pud&nbsp;(1717), pt_bosque&nbsp;(14487), pt_gsd&nbsp;(1), pt_pud&nbsp;(1644), qtd_sagt&nbsp;(3934), ro_art&nbsp;(83), ro_nonstandard&nbsp;(59969), ro_rrt&nbsp;(13068), ro_simonero&nbsp;(6641), ru_gsd&nbsp;(6010), ru_pud&nbsp;(1602), ru_syntagrus&nbsp;(84629), ru_taiga&nbsp;(16972), sa_ufal&nbsp;(148), sa_vedic&nbsp;(2943), sk_snk&nbsp;(5950), sl_ssj&nbsp;(14240), sl_sst&nbsp;(3948), sme_giella&nbsp;(4501), sms_giellagas&nbsp;(497), sq_tsa&nbsp;(85), sr_set&nbsp;(9752), sv_lines&nbsp;(10808), sv_pud&nbsp;(1978), sv_talbanken&nbsp;(9494), ta_mwtt&nbsp;(43), ta_ttb&nbsp;(718), tl_trg&nbsp;(89), tr_boun&nbsp;(503), tr_framenet&nbsp;(2582), tr_gb&nbsp;(2211), tr_imst&nbsp;(10291), tr_kenet&nbsp;(12847), tr_penn&nbsp;(6488), tr_pud&nbsp;(1444), tr_tourism&nbsp;(16210), ug_udt&nbsp;(1521), uk_iu&nbsp;(10695), ur_udtb&nbsp;(5695), wbp_ufal&nbsp;(10), wo_wtb&nbsp;(10046))
+* `Int` (ess_sli&nbsp;(54), ga_idt&nbsp;(53), gd_arcosg&nbsp;(48), ug_udt&nbsp;(2))
+* `Irr` (quc_iu&nbsp;(10))
+* `Jus` (am_att&nbsp;(17), ar_nyuad&nbsp;(1566), ar_padt&nbsp;(691), ar_pud&nbsp;(57), sa_ufal&nbsp;(1), sa_vedic&nbsp;(59))
+* `Nec` (hyw_armtdp&nbsp;(1), lt_alksnis&nbsp;(26), lt_hse&nbsp;(8), lv_lvtb&nbsp;(832), lzh_kyoto&nbsp;(97), myv_jr&nbsp;(8), pcm_nsc&nbsp;(19), qtd_sagt&nbsp;(2), tr_boun&nbsp;(139), tr_framenet&nbsp;(20), tr_gb&nbsp;(30), tr_imst&nbsp;(51), tr_kenet&nbsp;(118), tr_penn&nbsp;(60), tr_pud&nbsp;(7), tr_tourism&nbsp;(49))
+* `NecPot` (tr_imst&nbsp;(1))
+* `Opt` (bej_nsc&nbsp;(6), br_keb&nbsp;(1), ess_sli&nbsp;(32), fi_ftb&nbsp;(4), got_proiel&nbsp;(1369), grc_perseus&nbsp;(1046), grc_proiel&nbsp;(380), hi_pud&nbsp;(16), kk_ktb&nbsp;(30), kmr_mg&nbsp;(6), mdf_jr&nbsp;(4), myv_jr&nbsp;(25), pcm_nsc&nbsp;(845), qtd_sagt&nbsp;(105), sa_ufal&nbsp;(7), sa_vedic&nbsp;(328), ta_mwtt&nbsp;(1), tr_boun&nbsp;(143), tr_framenet&nbsp;(76), tr_gb&nbsp;(78), tr_imst&nbsp;(147), tr_kenet&nbsp;(513), tr_penn&nbsp;(21), tr_pud&nbsp;(7), tr_tourism&nbsp;(13), wo_wtb&nbsp;(73))
+* `Perm` (tpn_tudet&nbsp;(7))
+* `Pot` (eu_bdt&nbsp;(302), fi_ftb&nbsp;(124), fi_ood&nbsp;(5), fi_tdt&nbsp;(50), hu_szeged&nbsp;(236), kk_ktb&nbsp;(13), lzh_kyoto&nbsp;(1826), olo_kkpp&nbsp;(2), pcm_nsc&nbsp;(388), qtd_sagt&nbsp;(77), sme_giella&nbsp;(74), sms_giellagas&nbsp;(20), tl_trg&nbsp;(1), tr_boun&nbsp;(515), tr_gb&nbsp;(105), tr_imst&nbsp;(492), tr_pud&nbsp;(19))
+* `PotPot` (tr_gb&nbsp;(1))
+* `Prc` (ess_sli&nbsp;(2))
+* `Prec` (akk_riao&nbsp;(96), mdf_jr&nbsp;(3), myv_jr&nbsp;(10))
+* `Proh` (akk_riao&nbsp;(31), myv_jr&nbsp;(16))
+* `Prs` (qtd_sagt&nbsp;(5), tr_imst&nbsp;(2))
+* `Ptc` (ess_sli&nbsp;(6))
+* `Qot` (et_edt&nbsp;(172), et_ewt&nbsp;(26), lv_lvtb&nbsp;(322))
+* `Sbr` (ess_sli&nbsp;(23))
+* `Sub` (ar_nyuad&nbsp;(4079), ar_padt&nbsp;(1348), ar_pud&nbsp;(127), bho_bhtb&nbsp;(45), bm_crb&nbsp;(50), ca_ancora&nbsp;(2625), cu_proiel&nbsp;(96), cy_ccg&nbsp;(10), de_gsd&nbsp;(775), de_pud&nbsp;(100), en_lines&nbsp;(16), en_partut&nbsp;(18), en_pronouns&nbsp;(5), es_ancora&nbsp;(2869), es_gsd&nbsp;(1220), es_pud&nbsp;(110), eu_bdt&nbsp;(96), fa_perdt&nbsp;(1412), fa_seraji&nbsp;(2408), fo_farpahc&nbsp;(96), fr_fqb&nbsp;(8), fr_ftb&nbsp;(617), fr_gsd&nbsp;(380), fr_partut&nbsp;(80), fr_pud&nbsp;(30), fr_sequoia&nbsp;(111), fr_spoken&nbsp;(39), ga_idt&nbsp;(16), gl_treegal&nbsp;(175), grc_perseus&nbsp;(1336), grc_proiel&nbsp;(2101), hi_hdtb&nbsp;(664), hy_armtdp&nbsp;(432), hyw_armtdp&nbsp;(1580), is_icepahc&nbsp;(15202), is_modern&nbsp;(3272), is_pud&nbsp;(186), it_isdt&nbsp;(1093), it_partut&nbsp;(274), it_postwita&nbsp;(443), it_pud&nbsp;(103), it_twittiro&nbsp;(122), it_valico&nbsp;(20), it_vit&nbsp;(281), kfm_aha&nbsp;(1), kmr_mg&nbsp;(127), la_ittb&nbsp;(10393), la_llct&nbsp;(2260), la_perseus&nbsp;(737), la_proiel&nbsp;(6988), la_udante&nbsp;(1441), mdf_jr&nbsp;(11), mr_ufal&nbsp;(9), myv_jr&nbsp;(36), nyq_aha&nbsp;(1), pt_bosque&nbsp;(1005), pt_pud&nbsp;(60), qtd_sagt&nbsp;(103), ro_art&nbsp;(54), ro_nonstandard&nbsp;(11093), ro_rrt&nbsp;(4330), ro_simonero&nbsp;(612), sa_vedic&nbsp;(166), sq_tsa&nbsp;(5), sv_lines&nbsp;(31), sv_talbanken&nbsp;(16), tpn_tudet&nbsp;(8), ur_udtb&nbsp;(451))
 
 ## Morph
 
 [Morph]()
 
-* Morph=VFin	fro_srcmf	34
-* Morph=VInf	fro_srcmf	2
-* Morph=VPar	fro_srcmf	15
+* `VFin` (fro_srcmf&nbsp;(34))
+* `VInf` (fro_srcmf&nbsp;(2))
+* `VPar` (fro_srcmf&nbsp;(15))
 
 ## Movement
 
 [Movement]()
 
-* Movement=Abl	quc_iu	24
-* Movement=Lat	quc_iu	14
+* `Abl` (quc_iu&nbsp;(24))
+* `Lat` (quc_iu&nbsp;(14))
 
 ## Mutation
 
 [Mutation]()
 
-* Mutation=AM	cy_ccg	358
-* Mutation=NM	cy_ccg	254
-* Mutation=SM	cy_ccg	4077
+* `AM` (cy_ccg&nbsp;(358))
+* `NM` (cy_ccg&nbsp;(254))
+* `SM` (cy_ccg&nbsp;(4077))
 
 ## NameType
 
 [NameType]()
 
-* NameType=Ast	la_udante	12
-* NameType=Cal	la_udante	9
-* NameType=Com	cs_cac	1784
-* NameType=Com	cs_fictree	20
-* NameType=Com	cs_pdt	13846
-* NameType=Com	cs_pud	120
-* NameType=Com	hy_armtdp	55
-* NameType=Com	hyw_armtdp	7
-* NameType=Com	la_udante	148
-* NameType=Com	ru_taiga	609
-* NameType=Geo	cs_cac	3675
-* NameType=Geo	cs_fictree	168
-* NameType=Geo	cs_pdt	27665
-* NameType=Geo	cs_pud	403
-* NameType=Geo	hy_armtdp	717
-* NameType=Geo	hyw_armtdp	261
-* NameType=Geo	koi_uh	5
-* NameType=Geo	la_udante	304
-* NameType=Geo	lzh_kyoto	3584
-* NameType=Geo	mdf_jr	4
-* NameType=Geo	myv_jr	24
-* NameType=Geo	ru_taiga	1386
-* NameType=Geo	sms_giellagas	2
-* NameType=Giv	cs_cac	1339
-* NameType=Giv	cs_fictree	1248
-* NameType=Giv	cs_pdt	15689
-* NameType=Giv	cs_pud	214
-* NameType=Giv	hy_armtdp	572
-* NameType=Giv	hyw_armtdp	270
-* NameType=Giv	koi_uh	21
-* NameType=Giv	la_udante	490
-* NameType=Giv	lzh_kyoto	10990
-* NameType=Giv	mdf_jr	22
-* NameType=Giv	myv_jr	362
-* NameType=Giv	ru_taiga	849
-* NameType=Giv	sms_giellagas	8
-* NameType=Giv	uk_iu	1012
-* NameType=Hom	myv_jr	16
-* NameType=Let	la_udante	90
-* NameType=Lit	la_udante	18
-* NameType=Nat	cs_cac	130
-* NameType=Nat	cs_fictree	53
-* NameType=Nat	cs_pdt	2311
-* NameType=Nat	cs_pud	41
-* NameType=Nat	la_ittb	1
-* NameType=Nat	la_udante	306
-* NameType=Nat	lzh_kyoto	3612
-* NameType=Oth	cs_cac	26
-* NameType=Oth	cs_pdt	829
-* NameType=Oth	cs_pud	2
-* NameType=Oth	hy_armtdp	23
-* NameType=Oth	hyw_armtdp	3
-* NameType=Oth	la_udante	3
-* NameType=Oth	myv_jr	16
-* NameType=Oth	ru_taiga	60
-* NameType=Pat	mdf_jr	3
-* NameType=Pat	myv_jr	1
-* NameType=Pat	uk_iu	60
-* NameType=Patrn	ru_taiga	141
-* NameType=Pro	cs_cac	321
-* NameType=Pro	cs_pdt	2314
-* NameType=Pro	cs_pud	24
-* NameType=Pro	hy_armtdp	14
-* NameType=Pro	hyw_armtdp	8
-* NameType=Pro	ru_taiga	100
-* NameType=Prs	hy_armtdp	57
-* NameType=Prs	hyw_armtdp	50
-* NameType=Prs	lzh_kyoto	2371
-* NameType=Prs	ru_taiga	451
-* NameType=Prs	sms_giellagas	1
-* NameType=Rel	la_udante	245
-* NameType=Sur	cs_cac	3453
-* NameType=Sur	cs_fictree	505
-* NameType=Sur	cs_pdt	27098
-* NameType=Sur	cs_pud	345
-* NameType=Sur	hy_armtdp	377
-* NameType=Sur	hyw_armtdp	107
-* NameType=Sur	koi_uh	3
-* NameType=Sur	la_udante	196
-* NameType=Sur	lzh_kyoto	4594
-* NameType=Sur	mdf_jr	26
-* NameType=Sur	myv_jr	156
-* NameType=Sur	ru_taiga	831
-* NameType=Sur	sms_giellagas	2
-* NameType=Sur	uk_iu	921
-* NameType=Zoo	ru_taiga	7
+* `Ast` (la_udante&nbsp;(12))
+* `Cal` (la_udante&nbsp;(9))
+* `Com` (cs_cac&nbsp;(1784), cs_fictree&nbsp;(20), cs_pdt&nbsp;(13846), cs_pud&nbsp;(120), hy_armtdp&nbsp;(55), hyw_armtdp&nbsp;(7), la_udante&nbsp;(148), ru_taiga&nbsp;(609))
+* `Geo` (cs_cac&nbsp;(3675), cs_fictree&nbsp;(168), cs_pdt&nbsp;(27665), cs_pud&nbsp;(403), hy_armtdp&nbsp;(717), hyw_armtdp&nbsp;(261), koi_uh&nbsp;(5), la_udante&nbsp;(304), lzh_kyoto&nbsp;(3584), mdf_jr&nbsp;(4), myv_jr&nbsp;(24), ru_taiga&nbsp;(1386), sms_giellagas&nbsp;(2))
+* `Giv` (cs_cac&nbsp;(1339), cs_fictree&nbsp;(1248), cs_pdt&nbsp;(15689), cs_pud&nbsp;(214), hy_armtdp&nbsp;(572), hyw_armtdp&nbsp;(270), koi_uh&nbsp;(21), la_udante&nbsp;(490), lzh_kyoto&nbsp;(10990), mdf_jr&nbsp;(22), myv_jr&nbsp;(362), ru_taiga&nbsp;(849), sms_giellagas&nbsp;(8), uk_iu&nbsp;(1012))
+* `Hom` (myv_jr&nbsp;(16))
+* `Let` (la_udante&nbsp;(90))
+* `Lit` (la_udante&nbsp;(18))
+* `Nat` (cs_cac&nbsp;(130), cs_fictree&nbsp;(53), cs_pdt&nbsp;(2311), cs_pud&nbsp;(41), la_ittb&nbsp;(1), la_udante&nbsp;(306), lzh_kyoto&nbsp;(3612))
+* `Oth` (cs_cac&nbsp;(26), cs_pdt&nbsp;(829), cs_pud&nbsp;(2), hy_armtdp&nbsp;(23), hyw_armtdp&nbsp;(3), la_udante&nbsp;(3), myv_jr&nbsp;(16), ru_taiga&nbsp;(60))
+* `Pat` (mdf_jr&nbsp;(3), myv_jr&nbsp;(1), uk_iu&nbsp;(60))
+* `Patrn` (ru_taiga&nbsp;(141))
+* `Pro` (cs_cac&nbsp;(321), cs_pdt&nbsp;(2314), cs_pud&nbsp;(24), hy_armtdp&nbsp;(14), hyw_armtdp&nbsp;(8), ru_taiga&nbsp;(100))
+* `Prs` (hy_armtdp&nbsp;(57), hyw_armtdp&nbsp;(50), lzh_kyoto&nbsp;(2371), ru_taiga&nbsp;(451), sms_giellagas&nbsp;(1))
+* `Rel` (la_udante&nbsp;(245))
+* `Sur` (cs_cac&nbsp;(3453), cs_fictree&nbsp;(505), cs_pdt&nbsp;(27098), cs_pud&nbsp;(345), hy_armtdp&nbsp;(377), hyw_armtdp&nbsp;(107), koi_uh&nbsp;(3), la_udante&nbsp;(196), lzh_kyoto&nbsp;(4594), mdf_jr&nbsp;(26), myv_jr&nbsp;(156), ru_taiga&nbsp;(831), sms_giellagas&nbsp;(2), uk_iu&nbsp;(921))
+* `Zoo` (ru_taiga&nbsp;(7))
 
 ## NegationType
 
 [NegationType]()
 
-* NegationType=Contrastive	myv_jr	51
+* `Contrastive` (myv_jr&nbsp;(51))
 
 ## Nomzr
 
 [Nomzr]()
 
-* Nomzr=Ag	mpu_tudet	1
-* Nomzr=Ag	myu_tudet	4
-* Nomzr=Ag	tpn_tudet	9
-* Nomzr=CCirc	tpn_tudet	1
-* Nomzr=Circ	aqz_tudet	5
-* Nomzr=Circ	gub_tudet	10
-* Nomzr=Circ	tpn_tudet	34
-* Nomzr=Circ	urb_tudet	1
-* Nomzr=DevPass	gub_tudet	7
-* Nomzr=Obj	aqz_tudet	3
-* Nomzr=Pa	myu_tudet	3
-* Nomzr=Pas	tpn_tudet	7
-* Nomzr=Rel	tpn_tudet	8
+* `Ag` (mpu_tudet&nbsp;(1), myu_tudet&nbsp;(4), tpn_tudet&nbsp;(9))
+* `CCirc` (tpn_tudet&nbsp;(1))
+* `Circ` (aqz_tudet&nbsp;(5), gub_tudet&nbsp;(10), tpn_tudet&nbsp;(34), urb_tudet&nbsp;(1))
+* `DevPass` (gub_tudet&nbsp;(7))
+* `Obj` (aqz_tudet&nbsp;(3))
+* `Pa` (myu_tudet&nbsp;(3))
+* `Pas` (tpn_tudet&nbsp;(7))
+* `Rel` (tpn_tudet&nbsp;(8))
 
 ## Noun
 
 [Noun]()
 
-* Noun=Clf	myu_tudet	2
+* `Clf` (myu_tudet&nbsp;(2))
 
 ## NounBase
 
 [NounBase]()
 
-* NounBase=Bound	akk_riao	2707
-* NounBase=Free	akk_riao	2653
-* NounBase=Suffixal	akk_riao	2035
-* NounBase=Terminal	akk_riao	40
+* `Bound` (akk_riao&nbsp;(2707))
+* `Free` (akk_riao&nbsp;(2653))
+* `Suffixal` (akk_riao&nbsp;(2035))
+* `Terminal` (akk_riao&nbsp;(40))
 
 ## NounClass
 
 [NounClass]()
 
-* NounClass=Wol1	wo_wtb	299
-* NounClass=Wol10	wo_wtb	259
-* NounClass=Wol11	wo_wtb	255
-* NounClass=Wol12	wo_wtb	123
-* NounClass=Wol2	wo_wtb	249
-* NounClass=Wol3	wo_wtb	719
-* NounClass=Wol4	wo_wtb	212
-* NounClass=Wol5	wo_wtb	1082
-* NounClass=Wol6	wo_wtb	358
-* NounClass=Wol7	wo_wtb	813
-* NounClass=Wol8	wo_wtb	1489
-* NounClass=Wol9	wo_wtb	153
+* `Wol1` (wo_wtb&nbsp;(299))
+* `Wol10` (wo_wtb&nbsp;(259))
+* `Wol11` (wo_wtb&nbsp;(255))
+* `Wol12` (wo_wtb&nbsp;(123))
+* `Wol2` (wo_wtb&nbsp;(249))
+* `Wol3` (wo_wtb&nbsp;(719))
+* `Wol4` (wo_wtb&nbsp;(212))
+* `Wol5` (wo_wtb&nbsp;(1082))
+* `Wol6` (wo_wtb&nbsp;(358))
+* `Wol7` (wo_wtb&nbsp;(813))
+* `Wol8` (wo_wtb&nbsp;(1489))
+* `Wol9` (wo_wtb&nbsp;(153))
 
 ## NounType
 
 [NounType]()
 
-* NounType=Clf	lzh_kyoto	579
-* NounType=Clf	quc_iu	49
-* NounType=Clf	yue_hk	473
-* NounType=Clf	zh_hk	270
-* NounType=Het	sq_tsa	30
-* NounType=NotSlender	ga_idt	660
-* NounType=Relat	koi_uh	4
-* NounType=Relat	kpv_ikdp	14
-* NounType=Relat	kpv_lattice	19
-* NounType=Relat	mdf_jr	31
-* NounType=Relat	myv_jr	24
-* NounType=Relat	quc_iu	496
-* NounType=Slender	ga_idt	223
-* NounType=Strong	ga_idt	900
-* NounType=Weak	ga_idt	754
+* `Clf` (lzh_kyoto&nbsp;(579), quc_iu&nbsp;(49), yue_hk&nbsp;(473), zh_hk&nbsp;(270))
+* `Het` (sq_tsa&nbsp;(30))
+* `NotSlender` (ga_idt&nbsp;(660))
+* `Relat` (koi_uh&nbsp;(4), kpv_ikdp&nbsp;(14), kpv_lattice&nbsp;(19), mdf_jr&nbsp;(31), myv_jr&nbsp;(24), quc_iu&nbsp;(496))
+* `Slender` (ga_idt&nbsp;(223))
+* `Strong` (ga_idt&nbsp;(900))
+* `Weak` (ga_idt&nbsp;(754))
 
 ## NumForm
 
 [NumForm]()
 
-* NumForm=Armenian	hy_armtdp	5
-* NumForm=Armenian	hyw_armtdp	16
-* NumForm=Combi	hyw_armtdp	1
-* NumForm=Combi	lt_alksnis	26
-* NumForm=Combi	ro_rrt	139
-* NumForm=Combi	ro_simonero	2
-* NumForm=Combi	ru_taiga	91
-* NumForm=Cyril	orv_rnc	3
-* NumForm=Digit	ar_nyuad	11538
-* NumForm=Digit	ar_padt	5521
-* NumForm=Digit	ca_ancora	7720
-* NumForm=Digit	cs_cac	4836
-* NumForm=Digit	cs_fictree	71
-* NumForm=Digit	cs_pdt	29482
-* NumForm=Digit	cs_pud	303
-* NumForm=Digit	en_gum	1916
-* NumForm=Digit	en_gumreddit	51
-* NumForm=Digit	es_ancora	6287
-* NumForm=Digit	et_edt	7313
-* NumForm=Digit	et_ewt	990
-* NumForm=Digit	hy_armtdp	664
-* NumForm=Digit	hyw_armtdp	45
-* NumForm=Digit	la_ittb	1009
-* NumForm=Digit	lt_alksnis	1283
-* NumForm=Digit	orv_rnc	285
-* NumForm=Digit	pl_pdb	3174
-* NumForm=Digit	pl_pud	311
-* NumForm=Digit	ro_nonstandard	1770
-* NumForm=Digit	ro_rrt	3851
-* NumForm=Digit	ro_simonero	3890
-* NumForm=Digit	ru_taiga	2219
-* NumForm=Digit	sk_snk	945
-* NumForm=Digit	sl_ssj	1163
-* NumForm=Digit	ta_ttb	149
-* NumForm=Reference	la_ittb	526
-* NumForm=Roman	cs_cltt	371
-* NumForm=Roman	cs_pdt	376
-* NumForm=Roman	cs_pud	16
-* NumForm=Roman	en_gum	15
-* NumForm=Roman	et_edt	109
-* NumForm=Roman	et_ewt	6
-* NumForm=Roman	hy_armtdp	1
-* NumForm=Roman	la_ittb	100
-* NumForm=Roman	la_udante	4
-* NumForm=Roman	lt_alksnis	42
-* NumForm=Roman	orv_rnc	10
-* NumForm=Roman	pl_pdb	154
-* NumForm=Roman	pl_pud	45
-* NumForm=Roman	ro_nonstandard	31
-* NumForm=Roman	ro_rrt	245
-* NumForm=Roman	ro_simonero	182
-* NumForm=Roman	ru_taiga	9
-* NumForm=Roman	sl_ssj	21
-* NumForm=Word	ar_nyuad	3330
-* NumForm=Word	ar_padt	2237
-* NumForm=Word	cs_cac	2411
-* NumForm=Word	cs_cltt	69
-* NumForm=Word	cs_fictree	1237
-* NumForm=Word	cs_pdt	11308
-* NumForm=Word	cs_pud	140
-* NumForm=Word	en_gum	764
-* NumForm=Word	en_gumreddit	63
-* NumForm=Word	et_edt	4207
-* NumForm=Word	et_ewt	359
-* NumForm=Word	hy_armtdp	444
-* NumForm=Word	hyw_armtdp	181
-* NumForm=Word	la_udante	252
-* NumForm=Word	lt_alksnis	337
-* NumForm=Word	pl_pdb	1434
-* NumForm=Word	pl_pud	93
-* NumForm=Word	ro_art	6
-* NumForm=Word	ro_nonstandard	3235
-* NumForm=Word	ro_rrt	1319
-* NumForm=Word	ro_simonero	498
-* NumForm=Word	ru_taiga	1122
-* NumForm=Word	sl_ssj	737
-* NumForm=Word	sl_sst	499
+* `Armenian` (hy_armtdp&nbsp;(5), hyw_armtdp&nbsp;(16))
+* `Combi` (hyw_armtdp&nbsp;(1), lt_alksnis&nbsp;(26), ro_rrt&nbsp;(139), ro_simonero&nbsp;(2), ru_taiga&nbsp;(91))
+* `Cyril` (orv_rnc&nbsp;(3))
+* `Digit` (ar_nyuad&nbsp;(11538), ar_padt&nbsp;(5521), ca_ancora&nbsp;(7720), cs_cac&nbsp;(4836), cs_fictree&nbsp;(71), cs_pdt&nbsp;(29482), cs_pud&nbsp;(303), en_gum&nbsp;(1916), en_gumreddit&nbsp;(51), es_ancora&nbsp;(6287), et_edt&nbsp;(7313), et_ewt&nbsp;(990), hy_armtdp&nbsp;(664), hyw_armtdp&nbsp;(45), la_ittb&nbsp;(1009), lt_alksnis&nbsp;(1283), orv_rnc&nbsp;(285), pl_pdb&nbsp;(3174), pl_pud&nbsp;(311), ro_nonstandard&nbsp;(1770), ro_rrt&nbsp;(3851), ro_simonero&nbsp;(3890), ru_taiga&nbsp;(2219), sk_snk&nbsp;(945), sl_ssj&nbsp;(1163), ta_ttb&nbsp;(149))
+* `Reference` (la_ittb&nbsp;(526))
+* `Roman` (cs_cltt&nbsp;(371), cs_pdt&nbsp;(376), cs_pud&nbsp;(16), en_gum&nbsp;(15), et_edt&nbsp;(109), et_ewt&nbsp;(6), hy_armtdp&nbsp;(1), la_ittb&nbsp;(100), la_udante&nbsp;(4), lt_alksnis&nbsp;(42), orv_rnc&nbsp;(10), pl_pdb&nbsp;(154), pl_pud&nbsp;(45), ro_nonstandard&nbsp;(31), ro_rrt&nbsp;(245), ro_simonero&nbsp;(182), ru_taiga&nbsp;(9), sl_ssj&nbsp;(21))
+* `Word` (ar_nyuad&nbsp;(3330), ar_padt&nbsp;(2237), cs_cac&nbsp;(2411), cs_cltt&nbsp;(69), cs_fictree&nbsp;(1237), cs_pdt&nbsp;(11308), cs_pud&nbsp;(140), en_gum&nbsp;(764), en_gumreddit&nbsp;(63), et_edt&nbsp;(4207), et_ewt&nbsp;(359), hy_armtdp&nbsp;(444), hyw_armtdp&nbsp;(181), la_udante&nbsp;(252), lt_alksnis&nbsp;(337), pl_pdb&nbsp;(1434), pl_pud&nbsp;(93), ro_art&nbsp;(6), ro_nonstandard&nbsp;(3235), ro_rrt&nbsp;(1319), ro_simonero&nbsp;(498), ru_taiga&nbsp;(1122), sl_ssj&nbsp;(737), sl_sst&nbsp;(499))
 
 ## NumType
 
 [NumType]()
 
-* NumType=Appr	kpv_lattice	1
-* NumType=Appr	myv_jr	4
-* NumType=Card	am_att	42
-* NumType=Card	aqz_tudet	3
-* NumType=Card	be_hse	4716
-* NumType=Card	bg_btb	2720
-* NumType=Card	bho_bhtb	113
-* NumType=Card	bm_crb	1
-* NumType=Card	bxr_bdt	221
-* NumType=Card	ca_ancora	9214
-* NumType=Card	cop_scriptorium	242
-* NumType=Card	cs_cac	7898
-* NumType=Card	cs_cltt	442
-* NumType=Card	cs_fictree	1631
-* NumType=Card	cs_pdt	43012
-* NumType=Card	cs_pud	505
-* NumType=Card	da_ddt	1491
-* NumType=Card	de_gsd	7913
-* NumType=Card	de_hdt	71302
-* NumType=Card	de_pud	352
-* NumType=Card	el_gdt	774
-* NumType=Card	en_ewt	4914
-* NumType=Card	en_gum	2695
-* NumType=Card	en_gumreddit	114
-* NumType=Card	en_lines	525
-* NumType=Card	en_partut	908
-* NumType=Card	en_pronouns	5
-* NumType=Card	en_pud	460
-* NumType=Card	es_ancora	9428
-* NumType=Card	es_gsd	11964
-* NumType=Card	es_pud	477
-* NumType=Card	et_edt	9368
-* NumType=Card	et_ewt	1106
-* NumType=Card	eu_bdt	3565
-* NumType=Card	fa_seraji	3409
-* NumType=Card	fi_ftb	2222
-* NumType=Card	fi_ood	339
-* NumType=Card	fi_pud	386
-* NumType=Card	fi_tdt	4685
-* NumType=Card	fr_fqb	128
-* NumType=Card	fr_ftb	20126
-* NumType=Card	fr_partut	425
-* NumType=Card	fr_sequoia	1829
-* NumType=Card	fro_srcmf	1032
-* NumType=Card	ga_idt	467
-* NumType=Card	gl_treegal	221
-* NumType=Card	gun_dooley	107
-* NumType=Card	gun_thomas	6
-* NumType=Card	hi_hdtb	6740
-* NumType=Card	hi_pud	452
-* NumType=Card	hr_set	2981
-* NumType=Card	hsb_ufal	424
-* NumType=Card	hu_szeged	1003
-* NumType=Card	hy_armtdp	669
-* NumType=Card	hyw_armtdp	179
-* NumType=Card	id_gsd	4714
-* NumType=Card	id_pud	515
-* NumType=Card	is_icepahc	5617
-* NumType=Card	it_isdt	5185
-* NumType=Card	it_partut	810
-* NumType=Card	it_postwita	1420
-* NumType=Card	it_twittiro	299
-* NumType=Card	it_valico	17
-* NumType=Card	it_vit	5482
-* NumType=Card	kfm_aha	5
-* NumType=Card	kk_ktb	217
-* NumType=Card	kmr_mg	218
-* NumType=Card	ko_gsd	549
-* NumType=Card	ko_pud	513
-* NumType=Card	koi_uh	6
-* NumType=Card	kpv_ikdp	60
-* NumType=Card	kpv_lattice	62
-* NumType=Card	krl_kkpp	13
-* NumType=Card	la_ittb	1965
-* NumType=Card	la_llct	2417
-* NumType=Card	la_udante	490
-* NumType=Card	lt_alksnis	205
-* NumType=Card	lv_lvtb	3109
-* NumType=Card	mdf_jr	18
-* NumType=Card	myu_tudet	1
-* NumType=Card	myv_jr	123
-* NumType=Card	no_bokmaal	3962
-* NumType=Card	no_nynorsk	4032
-* NumType=Card	no_nynorsklia	406
-* NumType=Card	nyq_aha	5
-* NumType=Card	olo_kkpp	13
-* NumType=Card	pcm_nsc	1319
-* NumType=Card	pl_lfg	1223
-* NumType=Card	pl_pdb	2299
-* NumType=Card	pl_pud	175
-* NumType=Card	pt_bosque	4473
-* NumType=Card	pt_gsd	8491
-* NumType=Card	qtd_sagt	249
-* NumType=Card	ro_art	6
-* NumType=Card	ro_nonstandard	2318
-* NumType=Card	ro_rrt	4875
-* NumType=Card	ro_simonero	4161
-* NumType=Card	ru_gsd	2006
-* NumType=Card	ru_taiga	2210
-* NumType=Card	sa_ufal	18
-* NumType=Card	sk_snk	68
-* NumType=Card	sl_ssj	1662
-* NumType=Card	sl_sst	498
-* NumType=Card	sme_giella	348
-* NumType=Card	soj_aha	5
-* NumType=Card	sr_set	1193
-* NumType=Card	sv_lines	2
-* NumType=Card	sv_pud	6
-* NumType=Card	sv_talbanken	1740
-* NumType=Card	ta_mwtt	7
-* NumType=Card	ta_ttb	282
-* NumType=Card	te_mtg	92
-* NumType=Card	tpn_tudet	6
-* NumType=Card	tr_boun	2126
-* NumType=Card	tr_framenet	146
-* NumType=Card	tr_gb	353
-* NumType=Card	tr_imst	1044
-* NumType=Card	tr_kenet	2069
-* NumType=Card	tr_penn	3856
-* NumType=Card	tr_tourism	745
-* NumType=Card	uk_iu	1936
-* NumType=Card	ur_udtb	2461
-* NumType=Card	vi_vtb	1300
-* NumType=Card	wo_wtb	513
-* NumType=Card	yo_ytb	75
-* NumType=Card	zh_gsd	6258
-* NumType=Card	zh_gsdsimp	6258
-* NumType=Card	zh_pud	873
-* NumType=Coll	kk_ktb	10
-* NumType=Coll	mdf_jr	4
-* NumType=Coll	sme_giella	40
-* NumType=Dist	hu_szeged	5
-* NumType=Dist	hy_armtdp	2
-* NumType=Dist	hyw_armtdp	1
-* NumType=Dist	koi_uh	2
-* NumType=Dist	kpv_ikdp	1
-* NumType=Dist	kpv_lattice	5
-* NumType=Dist	la_ittb	80
-* NumType=Dist	la_llct	550
-* NumType=Dist	la_udante	3
-* NumType=Dist	mdf_jr	2
-* NumType=Dist	myv_jr	10
-* NumType=Dist	qtd_sagt	2
-* NumType=Dist	tr_boun	12
-* NumType=Dist	tr_framenet	5
-* NumType=Dist	tr_gb	19
-* NumType=Dist	tr_imst	8
-* NumType=Dist	tr_kenet	100
-* NumType=Dist	tr_penn	2
-* NumType=Frac	ca_ancora	594
-* NumType=Frac	cs_cac	60
-* NumType=Frac	cs_fictree	5
-* NumType=Frac	cs_pdt	342
-* NumType=Frac	es_ancora	279
-* NumType=Frac	hu_szeged	107
-* NumType=Frac	hy_armtdp	64
-* NumType=Frac	hyw_armtdp	5
-* NumType=Frac	is_icepahc	6
-* NumType=Frac	lv_lvtb	5
-* NumType=Frac	myv_jr	1
-* NumType=Frac	pl_lfg	5
-* NumType=Frac	pt_bosque	6
-* NumType=Frac	ro_nonstandard	58
-* NumType=Frac	ro_simonero	3
-* NumType=Frac	ru_taiga	124
-* NumType=Mult	cs_cac	153
-* NumType=Mult	cs_cltt	3
-* NumType=Mult	cs_fictree	121
-* NumType=Mult	cs_pdt	607
-* NumType=Mult	cs_pud	8
-* NumType=Mult	el_gdt	4
-* NumType=Mult	en_ewt	77
-* NumType=Mult	en_gum	32
-* NumType=Mult	en_gumreddit	4
-* NumType=Mult	en_lines	62
-* NumType=Mult	en_pud	4
-* NumType=Mult	hr_set	186
-* NumType=Mult	hsb_ufal	2
-* NumType=Mult	kpv_lattice	8
-* NumType=Mult	la_llct	162
-* NumType=Mult	la_udante	5
-* NumType=Mult	lt_alksnis	13
-* NumType=Mult	lv_lvtb	14
-* NumType=Mult	mdf_jr	2
-* NumType=Mult	myv_jr	23
-* NumType=Mult	pt_bosque	132
-* NumType=Mult	ro_nonstandard	14
-* NumType=Mult	sk_snk	151
-* NumType=Mult	sl_ssj	4
-* NumType=Mult	sl_sst	3
-* NumType=Mult	sr_set	76
-* NumType=MultDist	koi_uh	2
-* NumType=Ord	bg_btb	909
-* NumType=Ord	bho_bhtb	1
-* NumType=Ord	bm_crb	4
-* NumType=Ord	br_keb	17
-* NumType=Ord	bxr_bdt	3
-* NumType=Ord	ca_ancora	1615
-* NumType=Ord	cs_cac	871
-* NumType=Ord	cs_cltt	54
-* NumType=Ord	cs_fictree	377
-* NumType=Ord	cs_pdt	5219
-* NumType=Ord	cs_pud	83
-* NumType=Ord	cy_ccg	78
-* NumType=Ord	da_ddt	149
-* NumType=Ord	de_gsd	6
-* NumType=Ord	de_pud	15
-* NumType=Ord	el_gdt	184
-* NumType=Ord	en_ewt	238
-* NumType=Ord	en_gum	341
-* NumType=Ord	en_gumreddit	21
-* NumType=Ord	en_lines	87
-* NumType=Ord	en_partut	144
-* NumType=Ord	en_pud	55
-* NumType=Ord	es_ancora	1961
-* NumType=Ord	es_gsd	941
-* NumType=Ord	et_edt	2664
-* NumType=Ord	et_ewt	260
-* NumType=Ord	eu_bdt	1048
-* NumType=Ord	fi_ftb	300
-* NumType=Ord	fi_ood	63
-* NumType=Ord	fi_pud	86
-* NumType=Ord	fi_tdt	1153
-* NumType=Ord	fo_oft	39
-* NumType=Ord	fr_fqb	132
-* NumType=Ord	fr_ftb	1440
-* NumType=Ord	fr_gsd	215
-* NumType=Ord	fr_partut	69
-* NumType=Ord	fr_sequoia	212
-* NumType=Ord	fro_srcmf	93
-* NumType=Ord	ga_idt	202
-* NumType=Ord	gl_treegal	38
-* NumType=Ord	hi_hdtb	556
-* NumType=Ord	hr_set	1162
-* NumType=Ord	hsb_ufal	50
-* NumType=Ord	hu_szeged	184
-* NumType=Ord	hy_armtdp	203
-* NumType=Ord	hyw_armtdp	57
-* NumType=Ord	id_pud	76
-* NumType=Ord	is_icepahc	77
-* NumType=Ord	it_isdt	1056
-* NumType=Ord	it_partut	217
-* NumType=Ord	it_postwita	206
-* NumType=Ord	it_twittiro	52
-* NumType=Ord	it_valico	2
-* NumType=Ord	it_vit	560
-* NumType=Ord	kk_ktb	207
-* NumType=Ord	koi_uh	2
-* NumType=Ord	kpv_ikdp	8
-* NumType=Ord	kpv_lattice	11
-* NumType=Ord	krl_kkpp	13
-* NumType=Ord	la_ittb	1725
-* NumType=Ord	la_llct	2458
-* NumType=Ord	la_udante	338
-* NumType=Ord	lt_alksnis	129
-* NumType=Ord	lv_lvtb	1965
-* NumType=Ord	lzh_kyoto	137
-* NumType=Ord	mdf_jr	12
-* NumType=Ord	myv_jr	30
-* NumType=Ord	olo_kkpp	6
-* NumType=Ord	pcm_nsc	108
-* NumType=Ord	pl_pdb	1162
-* NumType=Ord	pl_pud	235
-* NumType=Ord	pt_bosque	802
-* NumType=Ord	qtd_sagt	5
-* NumType=Ord	quc_iu	11
-* NumType=Ord	ro_nonstandard	1011
-* NumType=Ord	ro_rrt	730
-* NumType=Ord	ro_simonero	443
-* NumType=Ord	ru_taiga	716
-* NumType=Ord	sa_ufal	3
-* NumType=Ord	sk_snk	323
-* NumType=Ord	sl_ssj	565
-* NumType=Ord	sl_sst	84
-* NumType=Ord	sms_giellagas	2
-* NumType=Ord	sr_set	684
-* NumType=Ord	sv_pud	1
-* NumType=Ord	ta_mwtt	3
-* NumType=Ord	ta_ttb	52
-* NumType=Ord	tr_boun	143
-* NumType=Ord	tr_gb	11
-* NumType=Ord	tr_imst	63
-* NumType=Ord	tr_kenet	43
-* NumType=Ord	tr_penn	84
-* NumType=Ord	tr_pud	120
-* NumType=Ord	tr_tourism	56
-* NumType=Ord	ug_udt	385
-* NumType=Ord	uk_iu	845
-* NumType=Ord	ur_udtb	248
-* NumType=Ord	wo_wtb	26
-* NumType=Ord	yo_ytb	8
-* NumType=Ord	zh_gsd	401
-* NumType=Ord	zh_gsdsimp	401
-* NumType=Ord	zh_pud	46
-* NumType=OrdMult	koi_uh	2
-* NumType=OrdMult	kpv_lattice	2
-* NumType=OrdMult	myv_jr	7
-* NumType=OrdSets	myv_jr	2
-* NumType=Range	hy_armtdp	12
-* NumType=Range	it_isdt	4
-* NumType=Range	it_vit	958
-* NumType=Range	pt_bosque	2
-* NumType=Sets	be_hse	80
-* NumType=Sets	cs_cac	44
-* NumType=Sets	cs_fictree	11
-* NumType=Sets	cs_pdt	101
-* NumType=Sets	cs_pud	1
-* NumType=Sets	el_gdt	18
-* NumType=Sets	lt_alksnis	3
-* NumType=Sets	mdf_jr	1
-* NumType=Sets	myv_jr	21
-* NumType=Sets	pl_pdb	789
-* NumType=Sets	pl_pud	21
-* NumType=Sets	pt_bosque	1
-* NumType=Sets	ru_taiga	65
-* NumType=Sets	sl_ssj	5
-* NumType=Sets	sl_sst	1
+* `Appr` (kpv_lattice&nbsp;(1), myv_jr&nbsp;(4))
+* `Card` (am_att&nbsp;(42), aqz_tudet&nbsp;(3), be_hse&nbsp;(4716), bg_btb&nbsp;(2720), bho_bhtb&nbsp;(113), bm_crb&nbsp;(1), bxr_bdt&nbsp;(221), ca_ancora&nbsp;(9214), cop_scriptorium&nbsp;(242), cs_cac&nbsp;(7898), cs_cltt&nbsp;(442), cs_fictree&nbsp;(1631), cs_pdt&nbsp;(43012), cs_pud&nbsp;(505), da_ddt&nbsp;(1491), de_gsd&nbsp;(7913), de_hdt&nbsp;(71302), de_pud&nbsp;(352), el_gdt&nbsp;(774), en_ewt&nbsp;(4914), en_gum&nbsp;(2695), en_gumreddit&nbsp;(114), en_lines&nbsp;(525), en_partut&nbsp;(908), en_pronouns&nbsp;(5), en_pud&nbsp;(460), es_ancora&nbsp;(9428), es_gsd&nbsp;(11964), es_pud&nbsp;(477), et_edt&nbsp;(9368), et_ewt&nbsp;(1106), eu_bdt&nbsp;(3565), fa_seraji&nbsp;(3409), fi_ftb&nbsp;(2222), fi_ood&nbsp;(339), fi_pud&nbsp;(386), fi_tdt&nbsp;(4685), fr_fqb&nbsp;(128), fr_ftb&nbsp;(20126), fr_partut&nbsp;(425), fr_sequoia&nbsp;(1829), fro_srcmf&nbsp;(1032), ga_idt&nbsp;(467), gl_treegal&nbsp;(221), gun_dooley&nbsp;(107), gun_thomas&nbsp;(6), hi_hdtb&nbsp;(6740), hi_pud&nbsp;(452), hr_set&nbsp;(2981), hsb_ufal&nbsp;(424), hu_szeged&nbsp;(1003), hy_armtdp&nbsp;(669), hyw_armtdp&nbsp;(179), id_gsd&nbsp;(4714), id_pud&nbsp;(515), is_icepahc&nbsp;(5617), it_isdt&nbsp;(5185), it_partut&nbsp;(810), it_postwita&nbsp;(1420), it_twittiro&nbsp;(299), it_valico&nbsp;(17), it_vit&nbsp;(5482), kfm_aha&nbsp;(5), kk_ktb&nbsp;(217), kmr_mg&nbsp;(218), ko_gsd&nbsp;(549), ko_pud&nbsp;(513), koi_uh&nbsp;(6), kpv_ikdp&nbsp;(60), kpv_lattice&nbsp;(62), krl_kkpp&nbsp;(13), la_ittb&nbsp;(1965), la_llct&nbsp;(2417), la_udante&nbsp;(490), lt_alksnis&nbsp;(205), lv_lvtb&nbsp;(3109), mdf_jr&nbsp;(18), myu_tudet&nbsp;(1), myv_jr&nbsp;(123), no_bokmaal&nbsp;(3962), no_nynorsk&nbsp;(4032), no_nynorsklia&nbsp;(406), nyq_aha&nbsp;(5), olo_kkpp&nbsp;(13), pcm_nsc&nbsp;(1319), pl_lfg&nbsp;(1223), pl_pdb&nbsp;(2299), pl_pud&nbsp;(175), pt_bosque&nbsp;(4473), pt_gsd&nbsp;(8491), qtd_sagt&nbsp;(249), ro_art&nbsp;(6), ro_nonstandard&nbsp;(2318), ro_rrt&nbsp;(4875), ro_simonero&nbsp;(4161), ru_gsd&nbsp;(2006), ru_taiga&nbsp;(2210), sa_ufal&nbsp;(18), sk_snk&nbsp;(68), sl_ssj&nbsp;(1662), sl_sst&nbsp;(498), sme_giella&nbsp;(348), soj_aha&nbsp;(5), sr_set&nbsp;(1193), sv_lines&nbsp;(2), sv_pud&nbsp;(6), sv_talbanken&nbsp;(1740), ta_mwtt&nbsp;(7), ta_ttb&nbsp;(282), te_mtg&nbsp;(92), tpn_tudet&nbsp;(6), tr_boun&nbsp;(2126), tr_framenet&nbsp;(146), tr_gb&nbsp;(353), tr_imst&nbsp;(1044), tr_kenet&nbsp;(2069), tr_penn&nbsp;(3856), tr_tourism&nbsp;(745), uk_iu&nbsp;(1936), ur_udtb&nbsp;(2461), vi_vtb&nbsp;(1300), wo_wtb&nbsp;(513), yo_ytb&nbsp;(75), zh_gsd&nbsp;(6258), zh_gsdsimp&nbsp;(6258), zh_pud&nbsp;(873))
+* `Coll` (kk_ktb&nbsp;(10), mdf_jr&nbsp;(4), sme_giella&nbsp;(40))
+* `Dist` (hu_szeged&nbsp;(5), hy_armtdp&nbsp;(2), hyw_armtdp&nbsp;(1), koi_uh&nbsp;(2), kpv_ikdp&nbsp;(1), kpv_lattice&nbsp;(5), la_ittb&nbsp;(80), la_llct&nbsp;(550), la_udante&nbsp;(3), mdf_jr&nbsp;(2), myv_jr&nbsp;(10), qtd_sagt&nbsp;(2), tr_boun&nbsp;(12), tr_framenet&nbsp;(5), tr_gb&nbsp;(19), tr_imst&nbsp;(8), tr_kenet&nbsp;(100), tr_penn&nbsp;(2))
+* `Frac` (ca_ancora&nbsp;(594), cs_cac&nbsp;(60), cs_fictree&nbsp;(5), cs_pdt&nbsp;(342), es_ancora&nbsp;(279), hu_szeged&nbsp;(107), hy_armtdp&nbsp;(64), hyw_armtdp&nbsp;(5), is_icepahc&nbsp;(6), lv_lvtb&nbsp;(5), myv_jr&nbsp;(1), pl_lfg&nbsp;(5), pt_bosque&nbsp;(6), ro_nonstandard&nbsp;(58), ro_simonero&nbsp;(3), ru_taiga&nbsp;(124))
+* `Mult` (cs_cac&nbsp;(153), cs_cltt&nbsp;(3), cs_fictree&nbsp;(121), cs_pdt&nbsp;(607), cs_pud&nbsp;(8), el_gdt&nbsp;(4), en_ewt&nbsp;(77), en_gum&nbsp;(32), en_gumreddit&nbsp;(4), en_lines&nbsp;(62), en_pud&nbsp;(4), hr_set&nbsp;(186), hsb_ufal&nbsp;(2), kpv_lattice&nbsp;(8), la_llct&nbsp;(162), la_udante&nbsp;(5), lt_alksnis&nbsp;(13), lv_lvtb&nbsp;(14), mdf_jr&nbsp;(2), myv_jr&nbsp;(23), pt_bosque&nbsp;(132), ro_nonstandard&nbsp;(14), sk_snk&nbsp;(151), sl_ssj&nbsp;(4), sl_sst&nbsp;(3), sr_set&nbsp;(76))
+* `MultDist` (koi_uh&nbsp;(2))
+* `Ord` (bg_btb&nbsp;(909), bho_bhtb&nbsp;(1), bm_crb&nbsp;(4), br_keb&nbsp;(17), bxr_bdt&nbsp;(3), ca_ancora&nbsp;(1615), cs_cac&nbsp;(871), cs_cltt&nbsp;(54), cs_fictree&nbsp;(377), cs_pdt&nbsp;(5219), cs_pud&nbsp;(83), cy_ccg&nbsp;(78), da_ddt&nbsp;(149), de_gsd&nbsp;(6), de_pud&nbsp;(15), el_gdt&nbsp;(184), en_ewt&nbsp;(238), en_gum&nbsp;(341), en_gumreddit&nbsp;(21), en_lines&nbsp;(87), en_partut&nbsp;(144), en_pud&nbsp;(55), es_ancora&nbsp;(1961), es_gsd&nbsp;(941), et_edt&nbsp;(2664), et_ewt&nbsp;(260), eu_bdt&nbsp;(1048), fi_ftb&nbsp;(300), fi_ood&nbsp;(63), fi_pud&nbsp;(86), fi_tdt&nbsp;(1153), fo_oft&nbsp;(39), fr_fqb&nbsp;(132), fr_ftb&nbsp;(1440), fr_gsd&nbsp;(215), fr_partut&nbsp;(69), fr_sequoia&nbsp;(212), fro_srcmf&nbsp;(93), ga_idt&nbsp;(202), gl_treegal&nbsp;(38), hi_hdtb&nbsp;(556), hr_set&nbsp;(1162), hsb_ufal&nbsp;(50), hu_szeged&nbsp;(184), hy_armtdp&nbsp;(203), hyw_armtdp&nbsp;(57), id_pud&nbsp;(76), is_icepahc&nbsp;(77), it_isdt&nbsp;(1056), it_partut&nbsp;(217), it_postwita&nbsp;(206), it_twittiro&nbsp;(52), it_valico&nbsp;(2), it_vit&nbsp;(560), kk_ktb&nbsp;(207), koi_uh&nbsp;(2), kpv_ikdp&nbsp;(8), kpv_lattice&nbsp;(11), krl_kkpp&nbsp;(13), la_ittb&nbsp;(1725), la_llct&nbsp;(2458), la_udante&nbsp;(338), lt_alksnis&nbsp;(129), lv_lvtb&nbsp;(1965), lzh_kyoto&nbsp;(137), mdf_jr&nbsp;(12), myv_jr&nbsp;(30), olo_kkpp&nbsp;(6), pcm_nsc&nbsp;(108), pl_pdb&nbsp;(1162), pl_pud&nbsp;(235), pt_bosque&nbsp;(802), qtd_sagt&nbsp;(5), quc_iu&nbsp;(11), ro_nonstandard&nbsp;(1011), ro_rrt&nbsp;(730), ro_simonero&nbsp;(443), ru_taiga&nbsp;(716), sa_ufal&nbsp;(3), sk_snk&nbsp;(323), sl_ssj&nbsp;(565), sl_sst&nbsp;(84), sms_giellagas&nbsp;(2), sr_set&nbsp;(684), sv_pud&nbsp;(1), ta_mwtt&nbsp;(3), ta_ttb&nbsp;(52), tr_boun&nbsp;(143), tr_gb&nbsp;(11), tr_imst&nbsp;(63), tr_kenet&nbsp;(43), tr_penn&nbsp;(84), tr_pud&nbsp;(120), tr_tourism&nbsp;(56), ug_udt&nbsp;(385), uk_iu&nbsp;(845), ur_udtb&nbsp;(248), wo_wtb&nbsp;(26), yo_ytb&nbsp;(8), zh_gsd&nbsp;(401), zh_gsdsimp&nbsp;(401), zh_pud&nbsp;(46))
+* `OrdMult` (koi_uh&nbsp;(2), kpv_lattice&nbsp;(2), myv_jr&nbsp;(7))
+* `OrdSets` (myv_jr&nbsp;(2))
+* `Range` (hy_armtdp&nbsp;(12), it_isdt&nbsp;(4), it_vit&nbsp;(958), pt_bosque&nbsp;(2))
+* `Sets` (be_hse&nbsp;(80), cs_cac&nbsp;(44), cs_fictree&nbsp;(11), cs_pdt&nbsp;(101), cs_pud&nbsp;(1), el_gdt&nbsp;(18), lt_alksnis&nbsp;(3), mdf_jr&nbsp;(1), myv_jr&nbsp;(21), pl_pdb&nbsp;(789), pl_pud&nbsp;(21), pt_bosque&nbsp;(1), ru_taiga&nbsp;(65), sl_ssj&nbsp;(5), sl_sst&nbsp;(1))
 
 ## NumValue
 
 [NumValue]()
 
-* NumValue=1	ar_padt	32
-* NumValue=1	cs_cac	1972
-* NumValue=1	cs_cltt	58
-* NumValue=1	cs_fictree	847
-* NumValue=1	cs_pdt	8080
-* NumValue=1	cs_pud	103
-* NumValue=2	ar_padt	29
-* NumValue=2	cs_cac	1962
-* NumValue=2	cs_cltt	58
-* NumValue=2	cs_fictree	844
-* NumValue=2	cs_pdt	8050
-* NumValue=2	cs_pud	102
-* NumValue=3	ar_padt	521
-* NumValue=3	cs_cac	1962
-* NumValue=3	cs_cltt	58
-* NumValue=3	cs_fictree	844
-* NumValue=3	cs_pdt	8050
-* NumValue=3	cs_pud	102
+* `1` (ar_padt&nbsp;(32), cs_cac&nbsp;(1972), cs_cltt&nbsp;(58), cs_fictree&nbsp;(847), cs_pdt&nbsp;(8080), cs_pud&nbsp;(103))
+* `2` (ar_padt&nbsp;(29), cs_cac&nbsp;(1962), cs_cltt&nbsp;(58), cs_fictree&nbsp;(844), cs_pdt&nbsp;(8050), cs_pud&nbsp;(102))
+* `3` (ar_padt&nbsp;(521), cs_cac&nbsp;(1962), cs_cltt&nbsp;(58), cs_fictree&nbsp;(844), cs_pdt&nbsp;(8050), cs_pud&nbsp;(102))
 
 ## Number
 
 [Number]()
 
-* Number=Assoc	hy_armtdp	23
-* Number=Coll	gub_tudet	3
-* Number=Coll	hy_armtdp	1272
-* Number=Coll	hyw_armtdp	425
-* Number=Coll	lv_lvtb	200
-* Number=Count	bg_btb	888
-* Number=Count	orv_rnc	77
-* Number=Dual	am_att	1
-* Number=Dual	ar_nyuad	5238
-* Number=Dual	ar_padt	1645
-* Number=Dual	ar_pud	137
-* Number=Dual	cs_cac	39
-* Number=Dual	cs_fictree	148
-* Number=Dual	cs_pdt	136
-* Number=Dual	cs_pud	2
-* Number=Dual	cu_proiel	937
-* Number=Dual	ess_sli	30
-* Number=Dual	gd_arcosg	7
-* Number=Dual	got_proiel	45
-* Number=Dual	grc_perseus	759
-* Number=Dual	he_htb	92
-* Number=Dual	hsb_ufal	78
-* Number=Dual	lt_alksnis	11
-* Number=Dual	orv_rnc	11
-* Number=Dual	orv_torot	1597
-* Number=Dual	sa_ufal	16
-* Number=Dual	sa_vedic	634
-* Number=Dual	sl_ssj	1428
-* Number=Dual	sl_sst	276
-* Number=Dual	sme_giella	384
-* Number=Dual	sms_giellagas	3
-* Number=Dual	tl_trg	1
-* Number=Dual	wbp_ufal	4
-* Number=Pauc	wbp_ufal	2
-* Number=Plur	af_afribooms	4148
-* Number=Plur	aii_as	43
-* Number=Plur	akk_riao	4110
-* Number=Plur	am_att	287
-* Number=Plur	apu_ufpa	18
-* Number=Plur	ar_nyuad	36157
-* Number=Plur	ar_padt	25574
-* Number=Plur	ar_pud	1888
-* Number=Plur	be_hse	44307
-* Number=Plur	bej_nsc	57
-* Number=Plur	bg_btb	23787
-* Number=Plur	bho_bhtb	481
-* Number=Plur	bm_crb	375
-* Number=Plur	br_keb	924
-* Number=Plur	bxr_bdt	540
-* Number=Plur	ca_ancora	69070
-* Number=Plur	cop_scriptorium	3557
-* Number=Plur	cs_cac	94794
-* Number=Plur	cs_cltt	7085
-* Number=Plur	cs_fictree	16339
-* Number=Plur	cs_pdt	244823
-* Number=Plur	cs_pud	3122
-* Number=Plur	cu_proiel	10291
-* Number=Plur	cy_ccg	3043
-* Number=Plur	da_ddt	9291
-* Number=Plur	de_gsd	34302
-* Number=Plur	de_hdt	568506
-* Number=Plur	de_pud	3068
-* Number=Plur	el_gdt	12820
-* Number=Plur	en_ewt	15456
-* Number=Plur	en_gum	11518
-* Number=Plur	en_gumreddit	1310
-* Number=Plur	en_lines	5168
-* Number=Plur	en_partut	4337
-* Number=Plur	en_pronouns	95
-* Number=Plur	en_pud	1389
-* Number=Plur	es_ancora	71955
-* Number=Plur	es_gsd	53210
-* Number=Plur	es_pud	3429
-* Number=Plur	ess_sli	101
-* Number=Plur	et_edt	52444
-* Number=Plur	et_ewt	6050
-* Number=Plur	eu_bdt	6931
-* Number=Plur	fa_perdt	57805
-* Number=Plur	fa_seraji	14117
-* Number=Plur	fi_ftb	18174
-* Number=Plur	fi_ood	1937
-* Number=Plur	fi_pud	2248
-* Number=Plur	fi_tdt	26562
-* Number=Plur	fo_farpahc	1212
-* Number=Plur	fo_oft	1243
-* Number=Plur	fr_fqb	1544
-* Number=Plur	fr_ftb	97406
-* Number=Plur	fr_gsd	58954
-* Number=Plur	fr_partut	5042
-* Number=Plur	fr_pud	3713
-* Number=Plur	fr_sequoia	10564
-* Number=Plur	fr_spoken	3813
-* Number=Plur	ga_idt	10325
-* Number=Plur	gd_arcosg	4402
-* Number=Plur	gl_treegal	3731
-* Number=Plur	got_proiel	11030
-* Number=Plur	grc_perseus	37504
-* Number=Plur	grc_proiel	49935
-* Number=Plur	gub_tudet	11
-* Number=Plur	gun_dooley	45
-* Number=Plur	gun_thomas	36
-* Number=Plur	gv_cadhan	448
-* Number=Plur	he_htb	18466
-* Number=Plur	hi_hdtb	30534
-* Number=Plur	hi_pud	1640
-* Number=Plur	hr_set	33113
-* Number=Plur	hsb_ufal	1833
-* Number=Plur	hu_szeged	3110
-* Number=Plur	hy_armtdp	4710
-* Number=Plur	hyw_armtdp	3423
-* Number=Plur	id_csui	144
-* Number=Plur	id_gsd	1203
-* Number=Plur	id_pud	375
-* Number=Plur	is_icepahc	119087
-* Number=Plur	is_modern	7776
-* Number=Plur	is_pud	2819
-* Number=Plur	it_isdt	45540
-* Number=Plur	it_partut	9428
-* Number=Plur	it_postwita	11671
-* Number=Plur	it_pud	3760
-* Number=Plur	it_twittiro	3218
-* Number=Plur	it_valico	318
-* Number=Plur	it_vit	43974
-* Number=Plur	kfm_aha	2
-* Number=Plur	kk_ktb	646
-* Number=Plur	kmr_mg	1378
-* Number=Plur	ko_pud	238
-* Number=Plur	koi_uh	55
-* Number=Plur	kpv_ikdp	152
-* Number=Plur	kpv_lattice	775
-* Number=Plur	krl_kkpp	537
-* Number=Plur	la_ittb	49434
-* Number=Plur	la_llct	28311
-* Number=Plur	la_perseus	5080
-* Number=Plur	la_proiel	42771
-* Number=Plur	la_udante	7740
-* Number=Plur	lt_alksnis	14078
-* Number=Plur	lt_hse	854
-* Number=Plur	lv_lvtb	34006
-* Number=Plur	mdf_jr	494
-* Number=Plur	mr_ufal	375
-* Number=Plur	myu_tudet	11
-* Number=Plur	myv_jr	2816
-* Number=Plur	nl_alpino	10480
-* Number=Plur	nl_lassysmall	5712
-* Number=Plur	no_bokmaal	32690
-* Number=Plur	no_nynorsk	31997
-* Number=Plur	no_nynorsklia	4020
-* Number=Plur	nyq_aha	2
-* Number=Plur	olo_kkpp	278
-* Number=Plur	orv_rnc	4406
-* Number=Plur	orv_torot	24330
-* Number=Plur	pcm_nsc	7068
-* Number=Plur	pl_lfg	17727
-* Number=Plur	pl_pdb	51881
-* Number=Plur	pl_pud	2852
-* Number=Plur	pt_bosque	29465
-* Number=Plur	pt_gsd	3477
-* Number=Plur	pt_pud	3436
-* Number=Plur	qtd_sagt	2377
-* Number=Plur	quc_iu	164
-* Number=Plur	ro_art	34
-* Number=Plur	ro_nonstandard	77087
-* Number=Plur	ro_rrt	29753
-* Number=Plur	ro_simonero	22190
-* Number=Plur	ru_gsd	12340
-* Number=Plur	ru_pud	2912
-* Number=Plur	ru_syntagrus	170688
-* Number=Plur	ru_taiga	25000
-* Number=Plur	sa_ufal	143
-* Number=Plur	sa_vedic	4407
-* Number=Plur	sk_snk	12637
-* Number=Plur	sl_ssj	23020
-* Number=Plur	sl_sst	3577
-* Number=Plur	sme_giella	3998
-* Number=Plur	sms_giellagas	135
-* Number=Plur	soj_aha	1
-* Number=Plur	sq_tsa	179
-* Number=Plur	sr_set	15400
-* Number=Plur	sv_lines	7949
-* Number=Plur	sv_pud	1936
-* Number=Plur	sv_talbanken	12085
-* Number=Plur	ta_mwtt	116
-* Number=Plur	ta_ttb	909
-* Number=Plur	tl_trg	15
-* Number=Plur	tpn_tudet	35
-* Number=Plur	tr_boun	10000
-* Number=Plur	tr_framenet	1339
-* Number=Plur	tr_gb	1340
-* Number=Plur	tr_imst	4274
-* Number=Plur	tr_kenet	12604
-* Number=Plur	tr_penn	6041
-* Number=Plur	tr_pud	1159
-* Number=Plur	tr_tourism	6175
-* Number=Plur	ug_udt	1662
-* Number=Plur	uk_iu	17888
-* Number=Plur	ur_udtb	9957
-* Number=Plur	urb_tudet	5
-* Number=Plur	wbp_ufal	5
-* Number=Plur	wo_wtb	3484
-* Number=Plur	yo_ytb	453
-* Number=Plur	zh_gsd	267
-* Number=Plur	zh_gsdsimp	267
-* Number=Plur	zh_pud	158
-* Number=Ptan	bg_btb	333
-* Number=Ptan	hsb_ufal	8
-* Number=Ptan	hyw_armtdp	20
-* Number=Ptan	lv_lvtb	2349
-* Number=Ptan	pl_pdb	1886
-* Number=Ptan	pl_pud	114
-* Number=Ptan	uk_iu	548
-* Number=Sing	af_afribooms	9045
-* Number=Sing	aii_as	174
-* Number=Sing	akk_riao	11358
-* Number=Sing	am_att	2151
-* Number=Sing	apu_ufpa	70
-* Number=Sing	aqz_tudet	28
-* Number=Sing	ar_nyuad	436306
-* Number=Sing	ar_padt	134589
-* Number=Sing	ar_pud	10269
-* Number=Sing	be_hse	112895
-* Number=Sing	bej_nsc	261
-* Number=Sing	bg_btb	62755
-* Number=Sing	bho_bhtb	3793
-* Number=Sing	bm_crb	1519
-* Number=Sing	br_keb	2763
-* Number=Sing	bxr_bdt	629
-* Number=Sing	ca_ancora	191900
-* Number=Sing	cop_scriptorium	9834
-* Number=Sing	cs_cac	195982
-* Number=Sing	cs_cltt	14352
-* Number=Sing	cs_fictree	67257
-* Number=Sing	cs_pdt	602581
-* Number=Sing	cs_pud	7623
-* Number=Sing	cu_proiel	27983
-* Number=Sing	cy_ccg	14298
-* Number=Sing	da_ddt	27205
-* Number=Sing	de_gsd	132861
-* Number=Sing	de_hdt	1278463
-* Number=Sing	de_pud	9477
-* Number=Sing	el_gdt	28374
-* Number=Sing	en_ewt	69604
-* Number=Sing	en_gum	39551
-* Number=Sing	en_gumreddit	4837
-* Number=Sing	en_lines	23377
-* Number=Sing	en_partut	11525
-* Number=Sing	en_pronouns	700
-* Number=Sing	en_pud	5894
-* Number=Sing	es_ancora	201343
-* Number=Sing	es_gsd	157321
-* Number=Sing	es_pud	10287
-* Number=Sing	ess_sli	323
-* Number=Sing	et_edt	194773
-* Number=Sing	et_ewt	27805
-* Number=Sing	eu_bdt	25331
-* Number=Sing	fa_perdt	223966
-* Number=Sing	fa_seraji	66165
-* Number=Sing	fi_ftb	78971
-* Number=Sing	fi_ood	9857
-* Number=Sing	fi_pud	8401
-* Number=Sing	fi_tdt	105361
-* Number=Sing	fo_farpahc	4770
-* Number=Sing	fo_oft	4511
-* Number=Sing	fr_fqb	12296
-* Number=Sing	fr_ftb	237957
-* Number=Sing	fr_gsd	162669
-* Number=Sing	fr_partut	11165
-* Number=Sing	fr_pud	11156
-* Number=Sing	fr_sequoia	27797
-* Number=Sing	fr_spoken	14347
-* Number=Sing	ga_idt	43697
-* Number=Sing	gd_arcosg	18873
-* Number=Sing	gl_treegal	10654
-* Number=Sing	got_proiel	26188
-* Number=Sing	grc_perseus	82406
-* Number=Sing	grc_proiel	100339
-* Number=Sing	gub_tudet	1
-* Number=Sing	gun_dooley	126
-* Number=Sing	gun_thomas	22
-* Number=Sing	gv_cadhan	4541
-* Number=Sing	he_htb	49139
-* Number=Sing	hi_hdtb	187205
-* Number=Sing	hi_pud	10572
-* Number=Sing	hr_set	86538
-* Number=Sing	hsb_ufal	3984
-* Number=Sing	hu_szeged	21024
-* Number=Sing	hy_armtdp	17759
-* Number=Sing	hyw_armtdp	10862
-* Number=Sing	id_csui	7926
-* Number=Sing	id_gsd	48639
-* Number=Sing	id_pud	5090
-* Number=Sing	is_icepahc	407226
-* Number=Sing	is_modern	20472
-* Number=Sing	is_pud	6839
-* Number=Sing	it_isdt	111554
-* Number=Sing	it_partut	20987
-* Number=Sing	it_postwita	39567
-* Number=Sing	it_pud	10925
-* Number=Sing	it_twittiro	9487
-* Number=Sing	it_valico	3637
-* Number=Sing	it_vit	100135
-* Number=Sing	kfm_aha	43
-* Number=Sing	kk_ktb	1073
-* Number=Sing	kmr_mg	4592
-* Number=Sing	koi_uh	369
-* Number=Sing	kpv_ikdp	999
-* Number=Sing	kpv_lattice	3655
-* Number=Sing	krl_kkpp	1416
-* Number=Sing	la_ittb	198729
-* Number=Sing	la_llct	122603
-* Number=Sing	la_perseus	12636
-* Number=Sing	la_proiel	91510
-* Number=Sing	la_udante	22360
-* Number=Sing	lt_alksnis	24046
-* Number=Sing	lt_hse	1891
-* Number=Sing	lv_lvtb	84700
-* Number=Sing	mdf_jr	1027
-* Number=Sing	mpu_tudet	7
-* Number=Sing	mr_ufal	1764
-* Number=Sing	myu_tudet	19
-* Number=Sing	myv_jr	5261
-* Number=Sing	nl_alpino	38507
-* Number=Sing	nl_lassysmall	22757
-* Number=Sing	no_bokmaal	84160
-* Number=Sing	no_nynorsk	85185
-* Number=Sing	no_nynorsklia	12461
-* Number=Sing	nyq_aha	45
-* Number=Sing	olo_kkpp	700
-* Number=Sing	orv_rnc	11969
-* Number=Sing	orv_torot	71705
-* Number=Sing	pcm_nsc	11236
-* Number=Sing	pl_lfg	51775
-* Number=Sing	pl_pdb	140854
-* Number=Sing	pl_pud	7883
-* Number=Sing	pt_bosque	102768
-* Number=Sing	pt_gsd	17884
-* Number=Sing	pt_pud	10476
-* Number=Sing	qtd_sagt	14656
-* Number=Sing	quc_iu	55
-* Number=Sing	ro_art	230
-* Number=Sing	ro_nonstandard	195560
-* Number=Sing	ro_rrt	82623
-* Number=Sing	ro_simonero	58350
-* Number=Sing	ru_gsd	44662
-* Number=Sing	ru_pud	8046
-* Number=Sing	ru_syntagrus	408676
-* Number=Sing	ru_taiga	74193
-* Number=Sing	sa_ufal	953
-* Number=Sing	sa_vedic	15635
-* Number=Sing	sk_snk	47866
-* Number=Sing	sl_ssj	55815
-* Number=Sing	sl_sst	10623
-* Number=Sing	sme_giella	10349
-* Number=Sing	sms_giellagas	923
-* Number=Sing	soj_aha	32
-* Number=Sing	sq_tsa	297
-* Number=Sing	sr_set	45054
-* Number=Sing	sv_lines	26598
-* Number=Sing	sv_pud	5143
-* Number=Sing	sv_talbanken	27169
-* Number=Sing	ta_mwtt	1392
-* Number=Sing	ta_ttb	4395
-* Number=Sing	tl_trg	41
-* Number=Sing	tpn_tudet	59
-* Number=Sing	tr_boun	58527
-* Number=Sing	tr_framenet	9205
-* Number=Sing	tr_gb	8426
-* Number=Sing	tr_imst	26049
-* Number=Sing	tr_kenet	78609
-* Number=Sing	tr_penn	39999
-* Number=Sing	tr_pud	10073
-* Number=Sing	tr_tourism	39915
-* Number=Sing	ug_udt	2673
-* Number=Sing	uk_iu	46217
-* Number=Sing	ur_udtb	74162
-* Number=Sing	urb_tudet	21
-* Number=Sing	wbp_ufal	76
-* Number=Sing	wo_wtb	9463
-* Number=Sing	yo_ytb	675
+* `Assoc` (hy_armtdp&nbsp;(23))
+* `Coll` (gub_tudet&nbsp;(3), hy_armtdp&nbsp;(1272), hyw_armtdp&nbsp;(425), lv_lvtb&nbsp;(200))
+* `Count` (bg_btb&nbsp;(888), orv_rnc&nbsp;(77))
+* `Dual` (am_att&nbsp;(1), ar_nyuad&nbsp;(5238), ar_padt&nbsp;(1645), ar_pud&nbsp;(137), cs_cac&nbsp;(39), cs_fictree&nbsp;(148), cs_pdt&nbsp;(136), cs_pud&nbsp;(2), cu_proiel&nbsp;(937), ess_sli&nbsp;(30), gd_arcosg&nbsp;(7), got_proiel&nbsp;(45), grc_perseus&nbsp;(759), he_htb&nbsp;(92), hsb_ufal&nbsp;(78), lt_alksnis&nbsp;(11), orv_rnc&nbsp;(11), orv_torot&nbsp;(1597), sa_ufal&nbsp;(16), sa_vedic&nbsp;(634), sl_ssj&nbsp;(1428), sl_sst&nbsp;(276), sme_giella&nbsp;(384), sms_giellagas&nbsp;(3), tl_trg&nbsp;(1), wbp_ufal&nbsp;(4))
+* `Pauc` (wbp_ufal&nbsp;(2))
+* `Plur` (af_afribooms&nbsp;(4148), aii_as&nbsp;(43), akk_riao&nbsp;(4110), am_att&nbsp;(287), apu_ufpa&nbsp;(18), ar_nyuad&nbsp;(36157), ar_padt&nbsp;(25574), ar_pud&nbsp;(1888), be_hse&nbsp;(44307), bej_nsc&nbsp;(57), bg_btb&nbsp;(23787), bho_bhtb&nbsp;(481), bm_crb&nbsp;(375), br_keb&nbsp;(924), bxr_bdt&nbsp;(540), ca_ancora&nbsp;(69070), cop_scriptorium&nbsp;(3557), cs_cac&nbsp;(94794), cs_cltt&nbsp;(7085), cs_fictree&nbsp;(16339), cs_pdt&nbsp;(244823), cs_pud&nbsp;(3122), cu_proiel&nbsp;(10291), cy_ccg&nbsp;(3043), da_ddt&nbsp;(9291), de_gsd&nbsp;(34302), de_hdt&nbsp;(568506), de_pud&nbsp;(3068), el_gdt&nbsp;(12820), en_ewt&nbsp;(15456), en_gum&nbsp;(11518), en_gumreddit&nbsp;(1310), en_lines&nbsp;(5168), en_partut&nbsp;(4337), en_pronouns&nbsp;(95), en_pud&nbsp;(1389), es_ancora&nbsp;(71955), es_gsd&nbsp;(53210), es_pud&nbsp;(3429), ess_sli&nbsp;(101), et_edt&nbsp;(52444), et_ewt&nbsp;(6050), eu_bdt&nbsp;(6931), fa_perdt&nbsp;(57805), fa_seraji&nbsp;(14117), fi_ftb&nbsp;(18174), fi_ood&nbsp;(1937), fi_pud&nbsp;(2248), fi_tdt&nbsp;(26562), fo_farpahc&nbsp;(1212), fo_oft&nbsp;(1243), fr_fqb&nbsp;(1544), fr_ftb&nbsp;(97406), fr_gsd&nbsp;(58954), fr_partut&nbsp;(5042), fr_pud&nbsp;(3713), fr_sequoia&nbsp;(10564), fr_spoken&nbsp;(3813), ga_idt&nbsp;(10325), gd_arcosg&nbsp;(4402), gl_treegal&nbsp;(3731), got_proiel&nbsp;(11030), grc_perseus&nbsp;(37504), grc_proiel&nbsp;(49935), gub_tudet&nbsp;(11), gun_dooley&nbsp;(45), gun_thomas&nbsp;(36), gv_cadhan&nbsp;(448), he_htb&nbsp;(18466), hi_hdtb&nbsp;(30534), hi_pud&nbsp;(1640), hr_set&nbsp;(33113), hsb_ufal&nbsp;(1833), hu_szeged&nbsp;(3110), hy_armtdp&nbsp;(4710), hyw_armtdp&nbsp;(3423), id_csui&nbsp;(144), id_gsd&nbsp;(1203), id_pud&nbsp;(375), is_icepahc&nbsp;(119087), is_modern&nbsp;(7776), is_pud&nbsp;(2819), it_isdt&nbsp;(45540), it_partut&nbsp;(9428), it_postwita&nbsp;(11671), it_pud&nbsp;(3760), it_twittiro&nbsp;(3218), it_valico&nbsp;(318), it_vit&nbsp;(43974), kfm_aha&nbsp;(2), kk_ktb&nbsp;(646), kmr_mg&nbsp;(1378), ko_pud&nbsp;(238), koi_uh&nbsp;(55), kpv_ikdp&nbsp;(152), kpv_lattice&nbsp;(775), krl_kkpp&nbsp;(537), la_ittb&nbsp;(49434), la_llct&nbsp;(28311), la_perseus&nbsp;(5080), la_proiel&nbsp;(42771), la_udante&nbsp;(7740), lt_alksnis&nbsp;(14078), lt_hse&nbsp;(854), lv_lvtb&nbsp;(34006), mdf_jr&nbsp;(494), mr_ufal&nbsp;(375), myu_tudet&nbsp;(11), myv_jr&nbsp;(2816), nl_alpino&nbsp;(10480), nl_lassysmall&nbsp;(5712), no_bokmaal&nbsp;(32690), no_nynorsk&nbsp;(31997), no_nynorsklia&nbsp;(4020), nyq_aha&nbsp;(2), olo_kkpp&nbsp;(278), orv_rnc&nbsp;(4406), orv_torot&nbsp;(24330), pcm_nsc&nbsp;(7068), pl_lfg&nbsp;(17727), pl_pdb&nbsp;(51881), pl_pud&nbsp;(2852), pt_bosque&nbsp;(29465), pt_gsd&nbsp;(3477), pt_pud&nbsp;(3436), qtd_sagt&nbsp;(2377), quc_iu&nbsp;(164), ro_art&nbsp;(34), ro_nonstandard&nbsp;(77087), ro_rrt&nbsp;(29753), ro_simonero&nbsp;(22190), ru_gsd&nbsp;(12340), ru_pud&nbsp;(2912), ru_syntagrus&nbsp;(170688), ru_taiga&nbsp;(25000), sa_ufal&nbsp;(143), sa_vedic&nbsp;(4407), sk_snk&nbsp;(12637), sl_ssj&nbsp;(23020), sl_sst&nbsp;(3577), sme_giella&nbsp;(3998), sms_giellagas&nbsp;(135), soj_aha&nbsp;(1), sq_tsa&nbsp;(179), sr_set&nbsp;(15400), sv_lines&nbsp;(7949), sv_pud&nbsp;(1936), sv_talbanken&nbsp;(12085), ta_mwtt&nbsp;(116), ta_ttb&nbsp;(909), tl_trg&nbsp;(15), tpn_tudet&nbsp;(35), tr_boun&nbsp;(10000), tr_framenet&nbsp;(1339), tr_gb&nbsp;(1340), tr_imst&nbsp;(4274), tr_kenet&nbsp;(12604), tr_penn&nbsp;(6041), tr_pud&nbsp;(1159), tr_tourism&nbsp;(6175), ug_udt&nbsp;(1662), uk_iu&nbsp;(17888), ur_udtb&nbsp;(9957), urb_tudet&nbsp;(5), wbp_ufal&nbsp;(5), wo_wtb&nbsp;(3484), yo_ytb&nbsp;(453), zh_gsd&nbsp;(267), zh_gsdsimp&nbsp;(267), zh_pud&nbsp;(158))
+* `Ptan` (bg_btb&nbsp;(333), hsb_ufal&nbsp;(8), hyw_armtdp&nbsp;(20), lv_lvtb&nbsp;(2349), pl_pdb&nbsp;(1886), pl_pud&nbsp;(114), uk_iu&nbsp;(548))
+* `Sing` (af_afribooms&nbsp;(9045), aii_as&nbsp;(174), akk_riao&nbsp;(11358), am_att&nbsp;(2151), apu_ufpa&nbsp;(70), aqz_tudet&nbsp;(28), ar_nyuad&nbsp;(436306), ar_padt&nbsp;(134589), ar_pud&nbsp;(10269), be_hse&nbsp;(112895), bej_nsc&nbsp;(261), bg_btb&nbsp;(62755), bho_bhtb&nbsp;(3793), bm_crb&nbsp;(1519), br_keb&nbsp;(2763), bxr_bdt&nbsp;(629), ca_ancora&nbsp;(191900), cop_scriptorium&nbsp;(9834), cs_cac&nbsp;(195982), cs_cltt&nbsp;(14352), cs_fictree&nbsp;(67257), cs_pdt&nbsp;(602581), cs_pud&nbsp;(7623), cu_proiel&nbsp;(27983), cy_ccg&nbsp;(14298), da_ddt&nbsp;(27205), de_gsd&nbsp;(132861), de_hdt&nbsp;(1278463), de_pud&nbsp;(9477), el_gdt&nbsp;(28374), en_ewt&nbsp;(69604), en_gum&nbsp;(39551), en_gumreddit&nbsp;(4837), en_lines&nbsp;(23377), en_partut&nbsp;(11525), en_pronouns&nbsp;(700), en_pud&nbsp;(5894), es_ancora&nbsp;(201343), es_gsd&nbsp;(157321), es_pud&nbsp;(10287), ess_sli&nbsp;(323), et_edt&nbsp;(194773), et_ewt&nbsp;(27805), eu_bdt&nbsp;(25331), fa_perdt&nbsp;(223966), fa_seraji&nbsp;(66165), fi_ftb&nbsp;(78971), fi_ood&nbsp;(9857), fi_pud&nbsp;(8401), fi_tdt&nbsp;(105361), fo_farpahc&nbsp;(4770), fo_oft&nbsp;(4511), fr_fqb&nbsp;(12296), fr_ftb&nbsp;(237957), fr_gsd&nbsp;(162669), fr_partut&nbsp;(11165), fr_pud&nbsp;(11156), fr_sequoia&nbsp;(27797), fr_spoken&nbsp;(14347), ga_idt&nbsp;(43697), gd_arcosg&nbsp;(18873), gl_treegal&nbsp;(10654), got_proiel&nbsp;(26188), grc_perseus&nbsp;(82406), grc_proiel&nbsp;(100339), gub_tudet&nbsp;(1), gun_dooley&nbsp;(126), gun_thomas&nbsp;(22), gv_cadhan&nbsp;(4541), he_htb&nbsp;(49139), hi_hdtb&nbsp;(187205), hi_pud&nbsp;(10572), hr_set&nbsp;(86538), hsb_ufal&nbsp;(3984), hu_szeged&nbsp;(21024), hy_armtdp&nbsp;(17759), hyw_armtdp&nbsp;(10862), id_csui&nbsp;(7926), id_gsd&nbsp;(48639), id_pud&nbsp;(5090), is_icepahc&nbsp;(407226), is_modern&nbsp;(20472), is_pud&nbsp;(6839), it_isdt&nbsp;(111554), it_partut&nbsp;(20987), it_postwita&nbsp;(39567), it_pud&nbsp;(10925), it_twittiro&nbsp;(9487), it_valico&nbsp;(3637), it_vit&nbsp;(100135), kfm_aha&nbsp;(43), kk_ktb&nbsp;(1073), kmr_mg&nbsp;(4592), koi_uh&nbsp;(369), kpv_ikdp&nbsp;(999), kpv_lattice&nbsp;(3655), krl_kkpp&nbsp;(1416), la_ittb&nbsp;(198729), la_llct&nbsp;(122603), la_perseus&nbsp;(12636), la_proiel&nbsp;(91510), la_udante&nbsp;(22360), lt_alksnis&nbsp;(24046), lt_hse&nbsp;(1891), lv_lvtb&nbsp;(84700), mdf_jr&nbsp;(1027), mpu_tudet&nbsp;(7), mr_ufal&nbsp;(1764), myu_tudet&nbsp;(19), myv_jr&nbsp;(5261), nl_alpino&nbsp;(38507), nl_lassysmall&nbsp;(22757), no_bokmaal&nbsp;(84160), no_nynorsk&nbsp;(85185), no_nynorsklia&nbsp;(12461), nyq_aha&nbsp;(45), olo_kkpp&nbsp;(700), orv_rnc&nbsp;(11969), orv_torot&nbsp;(71705), pcm_nsc&nbsp;(11236), pl_lfg&nbsp;(51775), pl_pdb&nbsp;(140854), pl_pud&nbsp;(7883), pt_bosque&nbsp;(102768), pt_gsd&nbsp;(17884), pt_pud&nbsp;(10476), qtd_sagt&nbsp;(14656), quc_iu&nbsp;(55), ro_art&nbsp;(230), ro_nonstandard&nbsp;(195560), ro_rrt&nbsp;(82623), ro_simonero&nbsp;(58350), ru_gsd&nbsp;(44662), ru_pud&nbsp;(8046), ru_syntagrus&nbsp;(408676), ru_taiga&nbsp;(74193), sa_ufal&nbsp;(953), sa_vedic&nbsp;(15635), sk_snk&nbsp;(47866), sl_ssj&nbsp;(55815), sl_sst&nbsp;(10623), sme_giella&nbsp;(10349), sms_giellagas&nbsp;(923), soj_aha&nbsp;(32), sq_tsa&nbsp;(297), sr_set&nbsp;(45054), sv_lines&nbsp;(26598), sv_pud&nbsp;(5143), sv_talbanken&nbsp;(27169), ta_mwtt&nbsp;(1392), ta_ttb&nbsp;(4395), tl_trg&nbsp;(41), tpn_tudet&nbsp;(59), tr_boun&nbsp;(58527), tr_framenet&nbsp;(9205), tr_gb&nbsp;(8426), tr_imst&nbsp;(26049), tr_kenet&nbsp;(78609), tr_penn&nbsp;(39999), tr_pud&nbsp;(10073), tr_tourism&nbsp;(39915), ug_udt&nbsp;(2673), uk_iu&nbsp;(46217), ur_udtb&nbsp;(74162), urb_tudet&nbsp;(21), wbp_ufal&nbsp;(76), wo_wtb&nbsp;(9463), yo_ytb&nbsp;(675))
 
 ## Number[abs]
 
 [Number[abs]]()
 
-* Number[abs]=Plur	eu_bdt	3421
-* Number[abs]=Sing	eu_bdt	11254
+* `Plur` (eu_bdt&nbsp;(3421))
+* `Sing` (eu_bdt&nbsp;(11254))
 
 ## Number[dat]
 
 [Number[dat]]()
 
-* Number[dat]=Plur	eu_bdt	329
-* Number[dat]=Sing	eu_bdt	968
-* Number[dat]=Sing	wbp_ufal	1
+* `Plur` (eu_bdt&nbsp;(329))
+* `Sing` (eu_bdt&nbsp;(968), wbp_ufal&nbsp;(1))
 
 ## Number[erg]
 
 [Number[erg]]()
 
-* Number[erg]=Plur	eu_bdt	2592
-* Number[erg]=Sing	eu_bdt	5235
+* `Plur` (eu_bdt&nbsp;(2592))
+* `Sing` (eu_bdt&nbsp;(5235))
 
 ## Number[obj]
 
 [Number[obj]]()
 
-* Number[obj]=Dual	ess_sli	13
-* Number[obj]=Dual	wbp_ufal	2
-* Number[obj]=Plur	apu_ufpa	1
-* Number[obj]=Plur	ess_sli	29
-* Number[obj]=Plur	mdf_jr	19
-* Number[obj]=Plur	myv_jr	97
-* Number[obj]=Plur	quc_iu	43
-* Number[obj]=Plur	wbp_ufal	1
-* Number[obj]=Sing	apu_ufpa	54
-* Number[obj]=Sing	ess_sli	85
-* Number[obj]=Sing	mdf_jr	60
-* Number[obj]=Sing	myv_jr	359
-* Number[obj]=Sing	quc_iu	716
-* Number[obj]=Sing	wbp_ufal	11
+* `Dual` (ess_sli&nbsp;(13), wbp_ufal&nbsp;(2))
+* `Plur` (apu_ufpa&nbsp;(1), ess_sli&nbsp;(29), mdf_jr&nbsp;(19), myv_jr&nbsp;(97), quc_iu&nbsp;(43), wbp_ufal&nbsp;(1))
+* `Sing` (apu_ufpa&nbsp;(54), ess_sli&nbsp;(85), mdf_jr&nbsp;(60), myv_jr&nbsp;(359), quc_iu&nbsp;(716), wbp_ufal&nbsp;(11))
 
 ## Number[psed]
 
 [Number[psed]]()
 
-* Number[psed]=Sing	hu_szeged	24
+* `Sing` (hu_szeged&nbsp;(24))
 
 ## Number[psor]
 
 [Number[psor]]()
 
-* Number[psor]=Dual	ess_sli	2
-* Number[psor]=Dual	hsb_ufal	1
-* Number[psor]=Dual	sl_ssj	32
-* Number[psor]=Dual	sl_sst	1
-* Number[psor]=Dual	sme_giella	46
-* Number[psor]=Plur	apu_ufpa	3
-* Number[psor]=Plur	ca_ancora	183
-* Number[psor]=Plur	cop_scriptorium	282
-* Number[psor]=Plur	cs_cac	2262
-* Number[psor]=Plur	cs_cltt	105
-* Number[psor]=Plur	cs_fictree	327
-* Number[psor]=Plur	cs_pdt	4582
-* Number[psor]=Plur	cs_pud	52
-* Number[psor]=Plur	da_ddt	194
-* Number[psor]=Plur	de_gsd	123
-* Number[psor]=Plur	de_pud	59
-* Number[psor]=Plur	es_ancora	263
-* Number[psor]=Plur	ess_sli	10
-* Number[psor]=Plur	fi_ftb	256
-* Number[psor]=Plur	fi_ood	27
-* Number[psor]=Plur	fi_pud	9
-* Number[psor]=Plur	fi_tdt	332
-* Number[psor]=Plur	fr_gsd	910
-* Number[psor]=Plur	fr_pud	76
-* Number[psor]=Plur	fr_spoken	152
-* Number[psor]=Plur	gl_treegal	88
-* Number[psor]=Plur	gun_dooley	15
-* Number[psor]=Plur	gun_thomas	23
-* Number[psor]=Plur	hi_pud	68
-* Number[psor]=Plur	hr_set	415
-* Number[psor]=Plur	hsb_ufal	56
-* Number[psor]=Plur	hu_szeged	176
-* Number[psor]=Plur	hy_armtdp	25
-* Number[psor]=Plur	hyw_armtdp	40
-* Number[psor]=Plur	it_pud	64
-* Number[psor]=Plur	kk_ktb	1259
-* Number[psor]=Plur	koi_uh	1
-* Number[psor]=Plur	kpv_ikdp	8
-* Number[psor]=Plur	kpv_lattice	62
-* Number[psor]=Plur	la_ittb	517
-* Number[psor]=Plur	la_llct	2107
-* Number[psor]=Plur	la_udante	162
-* Number[psor]=Plur	mdf_jr	33
-* Number[psor]=Plur	myv_jr	185
-* Number[psor]=Plur	pl_lfg	161
-* Number[psor]=Plur	pl_pdb	449
-* Number[psor]=Plur	pl_pud	10
-* Number[psor]=Plur	pt_pud	50
-* Number[psor]=Plur	qtd_sagt	119
-* Number[psor]=Plur	quc_iu	166
-* Number[psor]=Plur	ro_nonstandard	999
-* Number[psor]=Plur	ro_rrt	277
-* Number[psor]=Plur	ro_simonero	122
-* Number[psor]=Plur	sk_snk	204
-* Number[psor]=Plur	sl_ssj	323
-* Number[psor]=Plur	sl_sst	77
-* Number[psor]=Plur	sme_giella	101
-* Number[psor]=Plur	sms_giellagas	3
-* Number[psor]=Plur	sr_set	155
-* Number[psor]=Plur	tr_boun	1727
-* Number[psor]=Plur	tr_framenet	96
-* Number[psor]=Plur	tr_gb	245
-* Number[psor]=Plur	tr_imst	986
-* Number[psor]=Plur	tr_kenet	2265
-* Number[psor]=Plur	tr_penn	812
-* Number[psor]=Plur	tr_pud	125
-* Number[psor]=Plur	tr_tourism	822
-* Number[psor]=Plur	ug_udt	2423
-* Number[psor]=Sing	apu_ufpa	14
-* Number[psor]=Sing	bxr_bdt	108
-* Number[psor]=Sing	ca_ancora	43
-* Number[psor]=Sing	cop_scriptorium	820
-* Number[psor]=Sing	cs_cac	1669
-* Number[psor]=Sing	cs_cltt	111
-* Number[psor]=Sing	cs_fictree	1069
-* Number[psor]=Sing	cs_pdt	4833
-* Number[psor]=Sing	cs_pud	87
-* Number[psor]=Sing	da_ddt	614
-* Number[psor]=Sing	de_gsd	1587
-* Number[psor]=Sing	de_pud	155
-* Number[psor]=Sing	es_ancora	249
-* Number[psor]=Sing	ess_sli	127
-* Number[psor]=Sing	fi_ftb	791
-* Number[psor]=Sing	fi_ood	127
-* Number[psor]=Sing	fi_pud	13
-* Number[psor]=Sing	fi_tdt	959
-* Number[psor]=Sing	fr_gsd	3449
-* Number[psor]=Sing	fr_pud	200
-* Number[psor]=Sing	fr_spoken	212
-* Number[psor]=Sing	gl_treegal	145
-* Number[psor]=Sing	gun_dooley	56
-* Number[psor]=Sing	gun_thomas	31
-* Number[psor]=Sing	hi_pud	219
-* Number[psor]=Sing	hr_set	414
-* Number[psor]=Sing	hsb_ufal	20
-* Number[psor]=Sing	hu_szeged	2614
-* Number[psor]=Sing	hy_armtdp	220
-* Number[psor]=Sing	hyw_armtdp	210
-* Number[psor]=Sing	id_gsd	1876
-* Number[psor]=Sing	it_pud	163
-* Number[psor]=Sing	kk_ktb	1277
-* Number[psor]=Sing	koi_uh	59
-* Number[psor]=Sing	kpv_ikdp	138
-* Number[psor]=Sing	kpv_lattice	540
-* Number[psor]=Sing	krl_kkpp	2
-* Number[psor]=Sing	la_ittb	252
-* Number[psor]=Sing	la_llct	3120
-* Number[psor]=Sing	la_udante	79
-* Number[psor]=Sing	mdf_jr	116
-* Number[psor]=Sing	myv_jr	642
-* Number[psor]=Sing	olo_kkpp	2
-* Number[psor]=Sing	pl_lfg	268
-* Number[psor]=Sing	pl_pdb	493
-* Number[psor]=Sing	pl_pud	5
-* Number[psor]=Sing	pt_pud	185
-* Number[psor]=Sing	qtd_sagt	982
-* Number[psor]=Sing	quc_iu	830
-* Number[psor]=Sing	ro_art	1
-* Number[psor]=Sing	ro_nonstandard	3931
-* Number[psor]=Sing	ro_rrt	778
-* Number[psor]=Sing	ro_simonero	141
-* Number[psor]=Sing	sk_snk	727
-* Number[psor]=Sing	sl_ssj	472
-* Number[psor]=Sing	sl_sst	55
-* Number[psor]=Sing	sme_giella	269
-* Number[psor]=Sing	sms_giellagas	32
-* Number[psor]=Sing	sr_set	209
-* Number[psor]=Sing	tr_boun	15787
-* Number[psor]=Sing	tr_framenet	2122
-* Number[psor]=Sing	tr_gb	1313
-* Number[psor]=Sing	tr_imst	7096
-* Number[psor]=Sing	tr_kenet	21531
-* Number[psor]=Sing	tr_penn	8537
-* Number[psor]=Sing	tr_pud	2411
-* Number[psor]=Sing	tr_tourism	6179
-* Number[psor]=Sing	ug_udt	2671
+* `Dual` (ess_sli&nbsp;(2), hsb_ufal&nbsp;(1), sl_ssj&nbsp;(32), sl_sst&nbsp;(1), sme_giella&nbsp;(46))
+* `Plur` (apu_ufpa&nbsp;(3), ca_ancora&nbsp;(183), cop_scriptorium&nbsp;(282), cs_cac&nbsp;(2262), cs_cltt&nbsp;(105), cs_fictree&nbsp;(327), cs_pdt&nbsp;(4582), cs_pud&nbsp;(52), da_ddt&nbsp;(194), de_gsd&nbsp;(123), de_pud&nbsp;(59), es_ancora&nbsp;(263), ess_sli&nbsp;(10), fi_ftb&nbsp;(256), fi_ood&nbsp;(27), fi_pud&nbsp;(9), fi_tdt&nbsp;(332), fr_gsd&nbsp;(910), fr_pud&nbsp;(76), fr_spoken&nbsp;(152), gl_treegal&nbsp;(88), gun_dooley&nbsp;(15), gun_thomas&nbsp;(23), hi_pud&nbsp;(68), hr_set&nbsp;(415), hsb_ufal&nbsp;(56), hu_szeged&nbsp;(176), hy_armtdp&nbsp;(25), hyw_armtdp&nbsp;(40), it_pud&nbsp;(64), kk_ktb&nbsp;(1259), koi_uh&nbsp;(1), kpv_ikdp&nbsp;(8), kpv_lattice&nbsp;(62), la_ittb&nbsp;(517), la_llct&nbsp;(2107), la_udante&nbsp;(162), mdf_jr&nbsp;(33), myv_jr&nbsp;(185), pl_lfg&nbsp;(161), pl_pdb&nbsp;(449), pl_pud&nbsp;(10), pt_pud&nbsp;(50), qtd_sagt&nbsp;(119), quc_iu&nbsp;(166), ro_nonstandard&nbsp;(999), ro_rrt&nbsp;(277), ro_simonero&nbsp;(122), sk_snk&nbsp;(204), sl_ssj&nbsp;(323), sl_sst&nbsp;(77), sme_giella&nbsp;(101), sms_giellagas&nbsp;(3), sr_set&nbsp;(155), tr_boun&nbsp;(1727), tr_framenet&nbsp;(96), tr_gb&nbsp;(245), tr_imst&nbsp;(986), tr_kenet&nbsp;(2265), tr_penn&nbsp;(812), tr_pud&nbsp;(125), tr_tourism&nbsp;(822), ug_udt&nbsp;(2423))
+* `Sing` (apu_ufpa&nbsp;(14), bxr_bdt&nbsp;(108), ca_ancora&nbsp;(43), cop_scriptorium&nbsp;(820), cs_cac&nbsp;(1669), cs_cltt&nbsp;(111), cs_fictree&nbsp;(1069), cs_pdt&nbsp;(4833), cs_pud&nbsp;(87), da_ddt&nbsp;(614), de_gsd&nbsp;(1587), de_pud&nbsp;(155), es_ancora&nbsp;(249), ess_sli&nbsp;(127), fi_ftb&nbsp;(791), fi_ood&nbsp;(127), fi_pud&nbsp;(13), fi_tdt&nbsp;(959), fr_gsd&nbsp;(3449), fr_pud&nbsp;(200), fr_spoken&nbsp;(212), gl_treegal&nbsp;(145), gun_dooley&nbsp;(56), gun_thomas&nbsp;(31), hi_pud&nbsp;(219), hr_set&nbsp;(414), hsb_ufal&nbsp;(20), hu_szeged&nbsp;(2614), hy_armtdp&nbsp;(220), hyw_armtdp&nbsp;(210), id_gsd&nbsp;(1876), it_pud&nbsp;(163), kk_ktb&nbsp;(1277), koi_uh&nbsp;(59), kpv_ikdp&nbsp;(138), kpv_lattice&nbsp;(540), krl_kkpp&nbsp;(2), la_ittb&nbsp;(252), la_llct&nbsp;(3120), la_udante&nbsp;(79), mdf_jr&nbsp;(116), myv_jr&nbsp;(642), olo_kkpp&nbsp;(2), pl_lfg&nbsp;(268), pl_pdb&nbsp;(493), pl_pud&nbsp;(5), pt_pud&nbsp;(185), qtd_sagt&nbsp;(982), quc_iu&nbsp;(830), ro_art&nbsp;(1), ro_nonstandard&nbsp;(3931), ro_rrt&nbsp;(778), ro_simonero&nbsp;(141), sk_snk&nbsp;(727), sl_ssj&nbsp;(472), sl_sst&nbsp;(55), sme_giella&nbsp;(269), sms_giellagas&nbsp;(32), sr_set&nbsp;(209), tr_boun&nbsp;(15787), tr_framenet&nbsp;(2122), tr_gb&nbsp;(1313), tr_imst&nbsp;(7096), tr_kenet&nbsp;(21531), tr_penn&nbsp;(8537), tr_pud&nbsp;(2411), tr_tourism&nbsp;(6179), ug_udt&nbsp;(2671))
 
 ## Number[subj]
 
 [Number[subj]]()
 
-* Number[subj]=Dual	ess_sli	35
-* Number[subj]=Plur	apu_ufpa	1
-* Number[subj]=Plur	ess_sli	86
-* Number[subj]=Plur	kpv_ikdp	3
-* Number[subj]=Plur	kpv_lattice	88
-* Number[subj]=Plur	mdf_jr	85
-* Number[subj]=Plur	myv_jr	722
-* Number[subj]=Plur	quc_iu	331
-* Number[subj]=Sing	apu_ufpa	10
-* Number[subj]=Sing	ess_sli	263
-* Number[subj]=Sing	mdf_jr	356
-* Number[subj]=Sing	myv_jr	1910
-* Number[subj]=Sing	quc_iu	1212
+* `Dual` (ess_sli&nbsp;(35))
+* `Plur` (apu_ufpa&nbsp;(1), ess_sli&nbsp;(86), kpv_ikdp&nbsp;(3), kpv_lattice&nbsp;(88), mdf_jr&nbsp;(85), myv_jr&nbsp;(722), quc_iu&nbsp;(331))
+* `Sing` (apu_ufpa&nbsp;(10), ess_sli&nbsp;(263), mdf_jr&nbsp;(356), myv_jr&nbsp;(1910), quc_iu&nbsp;(1212))
 
 ## OblTop
 
 [OblTop]()
 
-* OblTop=Yes	gub_tudet	1
-* OblTop=Yes	tpn_tudet	40
+* `Yes` (gub_tudet&nbsp;(1), tpn_tudet&nbsp;(40))
 
 ## Orth
 
 [Orth]()
 
-* Orth=Alt	uk_iu	129
+* `Alt` (uk_iu&nbsp;(129))
 
 ## PartForm
 
 [PartForm]()
 
-* PartForm=Agt	fi_ftb	213
-* PartForm=Agt	fi_ood	28
-* PartForm=Agt	fi_pud	30
-* PartForm=Agt	fi_tdt	508
-* PartForm=Neg	fi_ftb	90
-* PartForm=Neg	fi_tdt	9
-* PartForm=Neg	kpv_lattice	8
-* PartForm=Past	fi_ftb	3520
-* PartForm=Past	fi_ood	661
-* PartForm=Past	fi_pud	362
-* PartForm=Past	fi_tdt	4820
-* PartForm=Past	krl_kkpp	2
-* PartForm=Pres	fi_ftb	1305
-* PartForm=Pres	fi_ood	112
-* PartForm=Pres	fi_pud	106
-* PartForm=Pres	fi_tdt	2488
-* PartForm=Pres	kpv_lattice	2
+* `Agt` (fi_ftb&nbsp;(213), fi_ood&nbsp;(28), fi_pud&nbsp;(30), fi_tdt&nbsp;(508))
+* `Neg` (fi_ftb&nbsp;(90), fi_tdt&nbsp;(9), kpv_lattice&nbsp;(8))
+* `Past` (fi_ftb&nbsp;(3520), fi_ood&nbsp;(661), fi_pud&nbsp;(362), fi_tdt&nbsp;(4820), krl_kkpp&nbsp;(2))
+* `Pres` (fi_ftb&nbsp;(1305), fi_ood&nbsp;(112), fi_pud&nbsp;(106), fi_tdt&nbsp;(2488), kpv_lattice&nbsp;(2))
 
 ## PartType
 
 [PartType]()
 
-* PartType=Ad	ga_idt	432
-* PartType=Ad	gd_arcosg	277
-* PartType=Ad	gv_cadhan	104
-* PartType=Cmpl	ga_idt	874
-* PartType=Cmpl	gd_arcosg	1438
-* PartType=Cmpl	gv_cadhan	99
-* PartType=Comp	ga_idt	175
-* PartType=Comp	gd_arcosg	135
-* PartType=Comp	gv_cadhan	41
-* PartType=Conseq	uk_iu	122
-* PartType=Cop	ga_idt	3
-* PartType=Cop	pcm_nsc	3074
-* PartType=Deg	ga_idt	10
-* PartType=Des	tl_trg	1
-* PartType=Disc	pcm_nsc	993
-* PartType=Emp	la_udante	36
-* PartType=Emp	myv_jr	18
-* PartType=Gen	af_afribooms	178
-* PartType=Inf	af_afribooms	986
-* PartType=Inf	da_ddt	3038
-* PartType=Inf	de_hdt	16679
-* PartType=Inf	ga_idt	1954
-* PartType=Inf	gd_arcosg	775
-* PartType=Inf	gv_cadhan	33
-* PartType=Inf	ro_nonstandard	1568
-* PartType=Inf	ro_rrt	838
-* PartType=Inf	ro_simonero	302
-* PartType=Int	la_udante	40
-* PartType=Int	pl_lfg	348
-* PartType=Int	pl_pdb	431
-* PartType=Int	pl_pud	14
-* PartType=Int	tl_trg	7
-* PartType=Int	zh_gsd	8
-* PartType=Int	zh_gsdsimp	8
-* PartType=Mod	pl_pdb	190
-* PartType=Mod	pl_pud	9
-* PartType=Neg	af_afribooms	267
-* PartType=Nfh	tl_trg	5
-* PartType=Num	ga_idt	24
-* PartType=Num	gd_arcosg	21
-* PartType=Pat	ga_idt	239
-* PartType=Pat	gd_arcosg	65
-* PartType=Res	de_hdt	37
-* PartType=Sub	ro_nonstandard	10886
-* PartType=Sup	ga_idt	133
-* PartType=Vb	ga_idt	2918
-* PartType=Vb	gd_arcosg	2097
-* PartType=Vb	gv_cadhan	184
-* PartType=Vbp	de_hdt	20484
-* PartType=Voc	ga_idt	56
-* PartType=Voc	gd_arcosg	59
+* `Ad` (ga_idt&nbsp;(432), gd_arcosg&nbsp;(277), gv_cadhan&nbsp;(104))
+* `Cmpl` (ga_idt&nbsp;(874), gd_arcosg&nbsp;(1438), gv_cadhan&nbsp;(99))
+* `Comp` (ga_idt&nbsp;(175), gd_arcosg&nbsp;(135), gv_cadhan&nbsp;(41))
+* `Conseq` (uk_iu&nbsp;(122))
+* `Cop` (ga_idt&nbsp;(3), pcm_nsc&nbsp;(3074))
+* `Deg` (ga_idt&nbsp;(10))
+* `Des` (tl_trg&nbsp;(1))
+* `Disc` (pcm_nsc&nbsp;(993))
+* `Emp` (la_udante&nbsp;(36), myv_jr&nbsp;(18))
+* `Gen` (af_afribooms&nbsp;(178))
+* `Inf` (af_afribooms&nbsp;(986), da_ddt&nbsp;(3038), de_hdt&nbsp;(16679), ga_idt&nbsp;(1954), gd_arcosg&nbsp;(775), gv_cadhan&nbsp;(33), ro_nonstandard&nbsp;(1568), ro_rrt&nbsp;(838), ro_simonero&nbsp;(302))
+* `Int` (la_udante&nbsp;(40), pl_lfg&nbsp;(348), pl_pdb&nbsp;(431), pl_pud&nbsp;(14), tl_trg&nbsp;(7), zh_gsd&nbsp;(8), zh_gsdsimp&nbsp;(8))
+* `Mod` (pl_pdb&nbsp;(190), pl_pud&nbsp;(9))
+* `Neg` (af_afribooms&nbsp;(267))
+* `Nfh` (tl_trg&nbsp;(5))
+* `Num` (ga_idt&nbsp;(24), gd_arcosg&nbsp;(21))
+* `Pat` (ga_idt&nbsp;(239), gd_arcosg&nbsp;(65))
+* `Res` (de_hdt&nbsp;(37))
+* `Sub` (ro_nonstandard&nbsp;(10886))
+* `Sup` (ga_idt&nbsp;(133))
+* `Vb` (ga_idt&nbsp;(2918), gd_arcosg&nbsp;(2097), gv_cadhan&nbsp;(184))
+* `Vbp` (de_hdt&nbsp;(20484))
+* `Voc` (ga_idt&nbsp;(56), gd_arcosg&nbsp;(59))
 
 ## Pcl
 
 [Pcl]()
 
-* Pcl=Dub	mpu_tudet	1
+* `Dub` (mpu_tudet&nbsp;(1))
 
 ## Person
 
 [Person]()
 
-* Person=0	br_keb	31
-* Person=0	cy_ccg	226
-* Person=0	fi_ood	72
-* Person=0	fi_pud	9
-* Person=0	fi_tdt	901
-* Person=0	ga_idt	1397
-* Person=0	gd_arcosg	136
-* Person=0	olo_kkpp	1
-* Person=0	pl_lfg	365
-* Person=0	pl_pdb	622
-* Person=0	pl_pud	50
-* Person=0	uk_iu	195
-* Person=0	wo_wtb	124
-* Person=1	af_afribooms	1108
-* Person=1	aii_as	30
-* Person=1	akk_riao	2828
-* Person=1	am_att	401
-* Person=1	aqz_tudet	40
-* Person=1	ar_nyuad	6172
-* Person=1	ar_padt	804
-* Person=1	ar_pud	134
-* Person=1	be_hse	4069
-* Person=1	bej_nsc	104
-* Person=1	bg_btb	3246
-* Person=1	bho_bhtb	50
-* Person=1	bm_crb	236
-* Person=1	br_keb	145
-* Person=1	bxr_bdt	218
-* Person=1	ca_ancora	2160
-* Person=1	cop_scriptorium	1506
-* Person=1	cs_cac	6788
-* Person=1	cs_fictree	7838
-* Person=1	cs_pdt	16977
-* Person=1	cs_pud	129
-* Person=1	cu_proiel	2389
-* Person=1	cy_ccg	957
-* Person=1	da_ddt	1442
-* Person=1	de_gsd	2455
-* Person=1	de_hdt	11167
-* Person=1	de_pud	179
-* Person=1	el_gdt	1342
-* Person=1	en_ewt	8338
-* Person=1	en_gum	3995
-* Person=1	en_gumreddit	980
-* Person=1	en_lines	3155
-* Person=1	en_partut	534
-* Person=1	en_pronouns	92
-* Person=1	en_pud	111
-* Person=1	es_ancora	3880
-* Person=1	es_gsd	2001
-* Person=1	es_pud	129
-* Person=1	ess_sli	1
-* Person=1	et_edt	6811
-* Person=1	et_ewt	2369
-* Person=1	eu_bdt	33
-* Person=1	fa_perdt	15506
-* Person=1	fa_seraji	2389
-* Person=1	fi_ftb	5036
-* Person=1	fi_ood	361
-* Person=1	fi_pud	86
-* Person=1	fi_tdt	3885
-* Person=1	fo_oft	11
-* Person=1	fr_fqb	235
-* Person=1	fr_ftb	1934
-* Person=1	fr_gsd	2011
-* Person=1	fr_partut	672
-* Person=1	fr_pud	182
-* Person=1	fr_sequoia	840
-* Person=1	fr_spoken	1709
-* Person=1	ga_idt	1203
-* Person=1	gd_arcosg	1044
-* Person=1	gl_treegal	300
-* Person=1	got_proiel	3023
-* Person=1	grc_perseus	2843
-* Person=1	grc_proiel	6551
-* Person=1	gub_tudet	5
-* Person=1	gun_dooley	153
-* Person=1	gun_thomas	50
-* Person=1	gv_cadhan	396
-* Person=1	he_htb	5594
-* Person=1	hi_hdtb	909
-* Person=1	hi_pud	152
-* Person=1	hr_set	1902
-* Person=1	hsb_ufal	53
-* Person=1	hu_szeged	255
-* Person=1	hy_armtdp	1293
-* Person=1	hyw_armtdp	693
-* Person=1	id_csui	67
-* Person=1	id_gsd	156
-* Person=1	id_pud	103
-* Person=1	is_icepahc	31593
-* Person=1	is_pud	190
-* Person=1	it_isdt	1891
-* Person=1	it_partut	435
-* Person=1	it_postwita	4270
-* Person=1	it_pud	112
-* Person=1	it_twittiro	729
-* Person=1	it_valico	299
-* Person=1	it_vit	2778
-* Person=1	kfm_aha	13
-* Person=1	kk_ktb	235
-* Person=1	kmr_mg	421
-* Person=1	ko_pud	55
-* Person=1	koi_uh	41
-* Person=1	kpv_ikdp	138
-* Person=1	kpv_lattice	212
-* Person=1	krl_kkpp	121
-* Person=1	la_ittb	1625
-* Person=1	la_llct	18786
-* Person=1	la_perseus	669
-* Person=1	la_proiel	10229
-* Person=1	la_udante	1004
-* Person=1	lt_alksnis	858
-* Person=1	lt_hse	92
-* Person=1	lv_lvtb	5311
-* Person=1	lzh_kyoto	1117
-* Person=1	mdf_jr	26
-* Person=1	mpu_tudet	9
-* Person=1	mr_ufal	106
-* Person=1	myu_tudet	10
-* Person=1	myv_jr	139
-* Person=1	nl_alpino	1464
-* Person=1	nl_lassysmall	75
-* Person=1	no_bokmaal	5011
-* Person=1	no_nynorsk	3748
-* Person=1	no_nynorsklia	1361
-* Person=1	nyq_aha	14
-* Person=1	olo_kkpp	36
-* Person=1	orv_rnc	435
-* Person=1	orv_torot	4007
-* Person=1	pcm_nsc	6958
-* Person=1	pl_lfg	5146
-* Person=1	pl_pdb	7436
-* Person=1	pl_pud	104
-* Person=1	pt_bosque	1215
-* Person=1	pt_gsd	1
-* Person=1	pt_pud	148
-* Person=1	qtd_sagt	3289
-* Person=1	quc_iu	41
-* Person=1	ro_art	14
-* Person=1	ro_nonstandard	17991
-* Person=1	ro_rrt	1833
-* Person=1	ro_simonero	239
-* Person=1	ru_gsd	92
-* Person=1	ru_pud	134
-* Person=1	ru_syntagrus	10925
-* Person=1	ru_taiga	5201
-* Person=1	sa_ufal	60
-* Person=1	sa_vedic	320
-* Person=1	sk_snk	3887
-* Person=1	sl_ssj	2648
-* Person=1	sl_sst	1608
-* Person=1	sme_giella	1189
-* Person=1	sms_giellagas	61
-* Person=1	soj_aha	9
-* Person=1	sq_tsa	3
-* Person=1	sr_set	717
-* Person=1	ta_mwtt	79
-* Person=1	ta_ttb	68
-* Person=1	th_pud	103
-* Person=1	tl_trg	13
-* Person=1	tpn_tudet	60
-* Person=1	tr_boun	2930
-* Person=1	tr_framenet	683
-* Person=1	tr_gb	966
-* Person=1	tr_imst	2245
-* Person=1	tr_kenet	3523
-* Person=1	tr_penn	436
-* Person=1	tr_pud	78
-* Person=1	tr_tourism	5100
-* Person=1	ug_udt	720
-* Person=1	uk_iu	2088
-* Person=1	ur_udtb	301
-* Person=1	urb_tudet	17
-* Person=1	wbp_ufal	27
-* Person=1	wo_wtb	559
-* Person=1	yo_ytb	192
-* Person=1	zh_gsd	69
-* Person=1	zh_gsdsimp	69
-* Person=1	zh_pud	101
-* Person=13	myu_tudet	2
-* Person=13	tpn_tudet	1
-* Person=2	af_afribooms	336
-* Person=2	aii_as	18
-* Person=2	akk_riao	37
-* Person=2	am_att	133
-* Person=2	aqz_tudet	20
-* Person=2	ar_nyuad	906
-* Person=2	ar_padt	299
-* Person=2	ar_pud	32
-* Person=2	be_hse	2900
-* Person=2	bej_nsc	9
-* Person=2	bg_btb	1435
-* Person=2	bho_bhtb	10
-* Person=2	bm_crb	145
-* Person=2	br_keb	106
-* Person=2	bxr_bdt	33
-* Person=2	ca_ancora	148
-* Person=2	cop_scriptorium	1418
-* Person=2	cs_cac	1068
-* Person=2	cs_fictree	2502
-* Person=2	cs_pdt	2786
-* Person=2	cs_pud	17
-* Person=2	cu_proiel	3370
-* Person=2	cy_ccg	573
-* Person=2	da_ddt	267
-* Person=2	de_gsd	88
-* Person=2	de_hdt	1044
-* Person=2	de_pud	14
-* Person=2	el_gdt	213
-* Person=2	en_ewt	3621
-* Person=2	en_gum	3313
-* Person=2	en_gumreddit	550
-* Person=2	en_lines	103
-* Person=2	en_partut	171
-* Person=2	en_pronouns	87
-* Person=2	en_pud	20
-* Person=2	es_ancora	490
-* Person=2	es_gsd	466
-* Person=2	es_pud	21
-* Person=2	ess_sli	1
-* Person=2	et_edt	2212
-* Person=2	et_ewt	1131
-* Person=2	eu_bdt	9
-* Person=2	fa_perdt	10128
-* Person=2	fa_seraji	1031
-* Person=2	fi_ftb	2522
-* Person=2	fi_ood	138
-* Person=2	fi_pud	12
-* Person=2	fi_tdt	1006
-* Person=2	fo_oft	2
-* Person=2	fr_fqb	106
-* Person=2	fr_ftb	271
-* Person=2	fr_gsd	623
-* Person=2	fr_partut	198
-* Person=2	fr_pud	31
-* Person=2	fr_sequoia	267
-* Person=2	fr_spoken	982
-* Person=2	ga_idt	713
-* Person=2	gd_arcosg	734
-* Person=2	gl_treegal	25
-* Person=2	got_proiel	3277
-* Person=2	grc_perseus	2931
-* Person=2	grc_proiel	7209
-* Person=2	gub_tudet	1
-* Person=2	gun_dooley	28
-* Person=2	gun_thomas	7
-* Person=2	gv_cadhan	434
-* Person=2	he_htb	4950
-* Person=2	hi_hdtb	359
-* Person=2	hi_pud	29
-* Person=2	hr_set	884
-* Person=2	hsb_ufal	43
-* Person=2	hu_szeged	10
-* Person=2	hy_armtdp	500
-* Person=2	hyw_armtdp	283
-* Person=2	id_csui	2
-* Person=2	id_gsd	109
-* Person=2	id_pud	16
-* Person=2	is_icepahc	14223
-* Person=2	is_pud	15
-* Person=2	it_isdt	697
-* Person=2	it_partut	202
-* Person=2	it_postwita	1876
-* Person=2	it_pud	9
-* Person=2	it_twittiro	361
-* Person=2	it_valico	28
-* Person=2	it_vit	449
-* Person=2	kfm_aha	1
-* Person=2	kk_ktb	108
-* Person=2	kmr_mg	137
-* Person=2	ko_pud	4
-* Person=2	koi_uh	21
-* Person=2	kpv_ikdp	33
-* Person=2	kpv_lattice	110
-* Person=2	krl_kkpp	46
-* Person=2	la_ittb	450
-* Person=2	la_llct	4070
-* Person=2	la_perseus	466
-* Person=2	la_proiel	8693
-* Person=2	la_udante	427
-* Person=2	lt_alksnis	626
-* Person=2	lt_hse	23
-* Person=2	lv_lvtb	1599
-* Person=2	lzh_kyoto	395
-* Person=2	mdf_jr	8
-* Person=2	mpu_tudet	1
-* Person=2	mr_ufal	145
-* Person=2	myu_tudet	8
-* Person=2	myv_jr	64
-* Person=2	nl_alpino	410
-* Person=2	nl_lassysmall	32
-* Person=2	no_bokmaal	880
-* Person=2	no_nynorsk	429
-* Person=2	no_nynorsklia	743
-* Person=2	nyq_aha	1
-* Person=2	olo_kkpp	20
-* Person=2	orv_rnc	554
-* Person=2	orv_torot	2916
-* Person=2	pcm_nsc	3443
-* Person=2	pl_lfg	1860
-* Person=2	pl_pdb	2084
-* Person=2	pl_pud	10
-* Person=2	pt_bosque	29
-* Person=2	pt_pud	2
-* Person=2	qtd_sagt	1079
-* Person=2	quc_iu	15
-* Person=2	ro_art	23
-* Person=2	ro_nonstandard	15306
-* Person=2	ro_rrt	1586
-* Person=2	ro_simonero	75
-* Person=2	ru_gsd	40
-* Person=2	ru_pud	28
-* Person=2	ru_syntagrus	3738
-* Person=2	ru_taiga	2310
-* Person=2	sa_ufal	30
-* Person=2	sa_vedic	733
-* Person=2	sk_snk	970
-* Person=2	sl_ssj	960
-* Person=2	sl_sst	894
-* Person=2	sme_giella	554
-* Person=2	sms_giellagas	73
-* Person=2	soj_aha	1
-* Person=2	sr_set	72
-* Person=2	ta_mwtt	44
-* Person=2	ta_ttb	12
-* Person=2	th_pud	19
-* Person=2	tl_trg	9
-* Person=2	tpn_tudet	23
-* Person=2	tr_boun	1176
-* Person=2	tr_framenet	243
-* Person=2	tr_gb	504
-* Person=2	tr_imst	988
-* Person=2	tr_kenet	1501
-* Person=2	tr_penn	277
-* Person=2	tr_pud	19
-* Person=2	tr_tourism	165
-* Person=2	ug_udt	293
-* Person=2	uk_iu	978
-* Person=2	ur_udtb	73
-* Person=2	urb_tudet	8
-* Person=2	wbp_ufal	13
-* Person=2	wo_wtb	808
-* Person=2	yo_ytb	213
-* Person=2	zh_gsd	21
-* Person=2	zh_gsdsimp	21
-* Person=2	zh_pud	20
-* Person=23	tpn_tudet	4
-* Person=3	af_afribooms	700
-* Person=3	aii_as	64
-* Person=3	akk_riao	2679
-* Person=3	am_att	1844
-* Person=3	apu_ufpa	57
-* Person=3	aqz_tudet	29
-* Person=3	ar_nyuad	86521
-* Person=3	ar_padt	31534
-* Person=3	ar_pud	2643
-* Person=3	be_hse	10762
-* Person=3	bej_nsc	98
-* Person=3	bg_btb	18591
-* Person=3	bho_bhtb	3305
-* Person=3	bm_crb	1372
-* Person=3	br_keb	874
-* Person=3	bxr_bdt	502
-* Person=3	ca_ancora	50567
-* Person=3	cop_scriptorium	5055
-* Person=3	cs_cac	33121
-* Person=3	cs_cltt	2213
-* Person=3	cs_fictree	9329
-* Person=3	cs_pdt	88813
-* Person=3	cs_pud	1017
-* Person=3	cu_proiel	12323
-* Person=3	cy_ccg	3007
-* Person=3	da_ddt	3889
-* Person=3	de_gsd	29724
-* Person=3	de_hdt	1451300
-* Person=3	de_pud	12358
-* Person=3	el_gdt	7808
-* Person=3	en_ewt	14277
-* Person=3	en_gum	11204
-* Person=3	en_gumreddit	1640
-* Person=3	en_lines	4973
-* Person=3	en_partut	3381
-* Person=3	en_pronouns	366
-* Person=3	en_pud	1240
-* Person=3	es_ancora	56808
-* Person=3	es_gsd	41980
-* Person=3	es_pud	2541
-* Person=3	ess_sli	5
-* Person=3	et_edt	39625
-* Person=3	et_ewt	5120
-* Person=3	eu_bdt	8
-* Person=3	fa_perdt	62223
-* Person=3	fa_seraji	17659
-* Person=3	fi_ftb	20032
-* Person=3	fi_ood	1648
-* Person=3	fi_pud	1912
-* Person=3	fi_tdt	18988
-* Person=3	fo_oft	1130
-* Person=3	fr_fqb	2905
-* Person=3	fr_ftb	55667
-* Person=3	fr_gsd	36811
-* Person=3	fr_partut	2031
-* Person=3	fr_pud	2567
-* Person=3	fr_sequoia	4672
-* Person=3	fr_spoken	5681
-* Person=3	ga_idt	5509
-* Person=3	gd_arcosg	5478
-* Person=3	gl_treegal	2568
-* Person=3	got_proiel	8787
-* Person=3	grc_perseus	17655
-* Person=3	grc_proiel	27740
-* Person=3	gub_tudet	99
-* Person=3	gun_dooley	1024
-* Person=3	gun_thomas	27
-* Person=3	gv_cadhan	2992
-* Person=3	he_htb	19557
-* Person=3	hi_hdtb	165146
-* Person=3	hi_pud	3303
-* Person=3	hr_set	18955
-* Person=3	hsb_ufal	965
-* Person=3	hu_szeged	4803
-* Person=3	hy_armtdp	5303
-* Person=3	hyw_armtdp	4230
-* Person=3	id_csui	311
-* Person=3	id_gsd	885
-* Person=3	id_pud	501
-* Person=3	is_icepahc	108305
-* Person=3	is_pud	1931
-* Person=3	it_isdt	22849
-* Person=3	it_partut	3600
-* Person=3	it_postwita	8856
-* Person=3	it_pud	2167
-* Person=3	it_twittiro	2457
-* Person=3	it_valico	907
-* Person=3	it_vit	16939
-* Person=3	kfm_aha	8
-* Person=3	kk_ktb	952
-* Person=3	kmr_mg	1298
-* Person=3	ko_pud	174
-* Person=3	koi_uh	127
-* Person=3	kpv_ikdp	249
-* Person=3	kpv_lattice	1024
-* Person=3	krl_kkpp	330
-* Person=3	la_ittb	55315
-* Person=3	la_llct	10638
-* Person=3	la_perseus	2961
-* Person=3	la_proiel	30514
-* Person=3	la_udante	6142
-* Person=3	lt_alksnis	4712
-* Person=3	lt_hse	506
-* Person=3	lv_lvtb	29002
-* Person=3	lzh_kyoto	7625
-* Person=3	mdf_jr	55
-* Person=3	mpu_tudet	17
-* Person=3	mr_ufal	736
-* Person=3	myu_tudet	47
-* Person=3	myv_jr	264
-* Person=3	nl_alpino	6132
-* Person=3	nl_lassysmall	2401
-* Person=3	no_bokmaal	12257
-* Person=3	no_nynorsk	11205
-* Person=3	no_nynorsklia	5147
-* Person=3	nyq_aha	8
-* Person=3	olo_kkpp	229
-* Person=3	orv_rnc	1291
-* Person=3	orv_torot	24043
-* Person=3	pcm_nsc	6555
-* Person=3	pl_lfg	8179
-* Person=3	pl_pdb	20284
-* Person=3	pl_pud	828
-* Person=3	pt_bosque	17378
-* Person=3	pt_gsd	1
-* Person=3	pt_pud	2266
-* Person=3	qtd_sagt	3089
-* Person=3	quc_iu	27
-* Person=3	ro_art	159
-* Person=3	ro_nonstandard	118620
-* Person=3	ro_rrt	31687
-* Person=3	ro_simonero	14516
-* Person=3	ru_gsd	2923
-* Person=3	ru_pud	848
-* Person=3	ru_syntagrus	52236
-* Person=3	ru_taiga	9567
-* Person=3	sa_ufal	168
-* Person=3	sa_vedic	3219
-* Person=3	sk_snk	4999
-* Person=3	sl_ssj	14054
-* Person=3	sl_sst	2685
-* Person=3	sme_giella	4027
-* Person=3	sms_giellagas	486
-* Person=3	soj_aha	5
-* Person=3	sq_tsa	90
-* Person=3	sr_set	10430
-* Person=3	sv_lines	3
-* Person=3	ta_mwtt	1321
-* Person=3	ta_ttb	5224
-* Person=3	th_pud	324
-* Person=3	tl_trg	25
-* Person=3	tpn_tudet	93
-* Person=3	tr_boun	64422
-* Person=3	tr_framenet	9384
-* Person=3	tr_gb	1700
-* Person=3	tr_imst	27090
-* Person=3	tr_kenet	83660
-* Person=3	tr_penn	38185
-* Person=3	tr_pud	1412
-* Person=3	tr_tourism	38900
-* Person=3	ug_udt	2162
-* Person=3	uk_iu	6058
-* Person=3	ur_udtb	63522
-* Person=3	urb_tudet	38
-* Person=3	wbp_ufal	4
-* Person=3	wo_wtb	6888
-* Person=3	yo_ytb	603
-* Person=3	zh_gsd	1240
-* Person=3	zh_gsdsimp	1240
-* Person=3	zh_pud	422
-* Person=33	myu_tudet	13
-* Person=33	tpn_tudet	30
+* `0` (br_keb&nbsp;(31), cy_ccg&nbsp;(226), fi_ood&nbsp;(72), fi_pud&nbsp;(9), fi_tdt&nbsp;(901), ga_idt&nbsp;(1397), gd_arcosg&nbsp;(136), olo_kkpp&nbsp;(1), pl_lfg&nbsp;(365), pl_pdb&nbsp;(622), pl_pud&nbsp;(50), uk_iu&nbsp;(195), wo_wtb&nbsp;(124))
+* `1` (af_afribooms&nbsp;(1108), aii_as&nbsp;(30), akk_riao&nbsp;(2828), am_att&nbsp;(401), aqz_tudet&nbsp;(40), ar_nyuad&nbsp;(6172), ar_padt&nbsp;(804), ar_pud&nbsp;(134), be_hse&nbsp;(4069), bej_nsc&nbsp;(104), bg_btb&nbsp;(3246), bho_bhtb&nbsp;(50), bm_crb&nbsp;(236), br_keb&nbsp;(145), bxr_bdt&nbsp;(218), ca_ancora&nbsp;(2160), cop_scriptorium&nbsp;(1506), cs_cac&nbsp;(6788), cs_fictree&nbsp;(7838), cs_pdt&nbsp;(16977), cs_pud&nbsp;(129), cu_proiel&nbsp;(2389), cy_ccg&nbsp;(957), da_ddt&nbsp;(1442), de_gsd&nbsp;(2455), de_hdt&nbsp;(11167), de_pud&nbsp;(179), el_gdt&nbsp;(1342), en_ewt&nbsp;(8338), en_gum&nbsp;(3995), en_gumreddit&nbsp;(980), en_lines&nbsp;(3155), en_partut&nbsp;(534), en_pronouns&nbsp;(92), en_pud&nbsp;(111), es_ancora&nbsp;(3880), es_gsd&nbsp;(2001), es_pud&nbsp;(129), ess_sli&nbsp;(1), et_edt&nbsp;(6811), et_ewt&nbsp;(2369), eu_bdt&nbsp;(33), fa_perdt&nbsp;(15506), fa_seraji&nbsp;(2389), fi_ftb&nbsp;(5036), fi_ood&nbsp;(361), fi_pud&nbsp;(86), fi_tdt&nbsp;(3885), fo_oft&nbsp;(11), fr_fqb&nbsp;(235), fr_ftb&nbsp;(1934), fr_gsd&nbsp;(2011), fr_partut&nbsp;(672), fr_pud&nbsp;(182), fr_sequoia&nbsp;(840), fr_spoken&nbsp;(1709), ga_idt&nbsp;(1203), gd_arcosg&nbsp;(1044), gl_treegal&nbsp;(300), got_proiel&nbsp;(3023), grc_perseus&nbsp;(2843), grc_proiel&nbsp;(6551), gub_tudet&nbsp;(5), gun_dooley&nbsp;(153), gun_thomas&nbsp;(50), gv_cadhan&nbsp;(396), he_htb&nbsp;(5594), hi_hdtb&nbsp;(909), hi_pud&nbsp;(152), hr_set&nbsp;(1902), hsb_ufal&nbsp;(53), hu_szeged&nbsp;(255), hy_armtdp&nbsp;(1293), hyw_armtdp&nbsp;(693), id_csui&nbsp;(67), id_gsd&nbsp;(156), id_pud&nbsp;(103), is_icepahc&nbsp;(31593), is_pud&nbsp;(190), it_isdt&nbsp;(1891), it_partut&nbsp;(435), it_postwita&nbsp;(4270), it_pud&nbsp;(112), it_twittiro&nbsp;(729), it_valico&nbsp;(299), it_vit&nbsp;(2778), kfm_aha&nbsp;(13), kk_ktb&nbsp;(235), kmr_mg&nbsp;(421), ko_pud&nbsp;(55), koi_uh&nbsp;(41), kpv_ikdp&nbsp;(138), kpv_lattice&nbsp;(212), krl_kkpp&nbsp;(121), la_ittb&nbsp;(1625), la_llct&nbsp;(18786), la_perseus&nbsp;(669), la_proiel&nbsp;(10229), la_udante&nbsp;(1004), lt_alksnis&nbsp;(858), lt_hse&nbsp;(92), lv_lvtb&nbsp;(5311), lzh_kyoto&nbsp;(1117), mdf_jr&nbsp;(26), mpu_tudet&nbsp;(9), mr_ufal&nbsp;(106), myu_tudet&nbsp;(10), myv_jr&nbsp;(139), nl_alpino&nbsp;(1464), nl_lassysmall&nbsp;(75), no_bokmaal&nbsp;(5011), no_nynorsk&nbsp;(3748), no_nynorsklia&nbsp;(1361), nyq_aha&nbsp;(14), olo_kkpp&nbsp;(36), orv_rnc&nbsp;(435), orv_torot&nbsp;(4007), pcm_nsc&nbsp;(6958), pl_lfg&nbsp;(5146), pl_pdb&nbsp;(7436), pl_pud&nbsp;(104), pt_bosque&nbsp;(1215), pt_gsd&nbsp;(1), pt_pud&nbsp;(148), qtd_sagt&nbsp;(3289), quc_iu&nbsp;(41), ro_art&nbsp;(14), ro_nonstandard&nbsp;(17991), ro_rrt&nbsp;(1833), ro_simonero&nbsp;(239), ru_gsd&nbsp;(92), ru_pud&nbsp;(134), ru_syntagrus&nbsp;(10925), ru_taiga&nbsp;(5201), sa_ufal&nbsp;(60), sa_vedic&nbsp;(320), sk_snk&nbsp;(3887), sl_ssj&nbsp;(2648), sl_sst&nbsp;(1608), sme_giella&nbsp;(1189), sms_giellagas&nbsp;(61), soj_aha&nbsp;(9), sq_tsa&nbsp;(3), sr_set&nbsp;(717), ta_mwtt&nbsp;(79), ta_ttb&nbsp;(68), th_pud&nbsp;(103), tl_trg&nbsp;(13), tpn_tudet&nbsp;(60), tr_boun&nbsp;(2930), tr_framenet&nbsp;(683), tr_gb&nbsp;(966), tr_imst&nbsp;(2245), tr_kenet&nbsp;(3523), tr_penn&nbsp;(436), tr_pud&nbsp;(78), tr_tourism&nbsp;(5100), ug_udt&nbsp;(720), uk_iu&nbsp;(2088), ur_udtb&nbsp;(301), urb_tudet&nbsp;(17), wbp_ufal&nbsp;(27), wo_wtb&nbsp;(559), yo_ytb&nbsp;(192), zh_gsd&nbsp;(69), zh_gsdsimp&nbsp;(69), zh_pud&nbsp;(101))
+* `13` (myu_tudet&nbsp;(2), tpn_tudet&nbsp;(1))
+* `2` (af_afribooms&nbsp;(336), aii_as&nbsp;(18), akk_riao&nbsp;(37), am_att&nbsp;(133), aqz_tudet&nbsp;(20), ar_nyuad&nbsp;(906), ar_padt&nbsp;(299), ar_pud&nbsp;(32), be_hse&nbsp;(2900), bej_nsc&nbsp;(9), bg_btb&nbsp;(1435), bho_bhtb&nbsp;(10), bm_crb&nbsp;(145), br_keb&nbsp;(106), bxr_bdt&nbsp;(33), ca_ancora&nbsp;(148), cop_scriptorium&nbsp;(1418), cs_cac&nbsp;(1068), cs_fictree&nbsp;(2502), cs_pdt&nbsp;(2786), cs_pud&nbsp;(17), cu_proiel&nbsp;(3370), cy_ccg&nbsp;(573), da_ddt&nbsp;(267), de_gsd&nbsp;(88), de_hdt&nbsp;(1044), de_pud&nbsp;(14), el_gdt&nbsp;(213), en_ewt&nbsp;(3621), en_gum&nbsp;(3313), en_gumreddit&nbsp;(550), en_lines&nbsp;(103), en_partut&nbsp;(171), en_pronouns&nbsp;(87), en_pud&nbsp;(20), es_ancora&nbsp;(490), es_gsd&nbsp;(466), es_pud&nbsp;(21), ess_sli&nbsp;(1), et_edt&nbsp;(2212), et_ewt&nbsp;(1131), eu_bdt&nbsp;(9), fa_perdt&nbsp;(10128), fa_seraji&nbsp;(1031), fi_ftb&nbsp;(2522), fi_ood&nbsp;(138), fi_pud&nbsp;(12), fi_tdt&nbsp;(1006), fo_oft&nbsp;(2), fr_fqb&nbsp;(106), fr_ftb&nbsp;(271), fr_gsd&nbsp;(623), fr_partut&nbsp;(198), fr_pud&nbsp;(31), fr_sequoia&nbsp;(267), fr_spoken&nbsp;(982), ga_idt&nbsp;(713), gd_arcosg&nbsp;(734), gl_treegal&nbsp;(25), got_proiel&nbsp;(3277), grc_perseus&nbsp;(2931), grc_proiel&nbsp;(7209), gub_tudet&nbsp;(1), gun_dooley&nbsp;(28), gun_thomas&nbsp;(7), gv_cadhan&nbsp;(434), he_htb&nbsp;(4950), hi_hdtb&nbsp;(359), hi_pud&nbsp;(29), hr_set&nbsp;(884), hsb_ufal&nbsp;(43), hu_szeged&nbsp;(10), hy_armtdp&nbsp;(500), hyw_armtdp&nbsp;(283), id_csui&nbsp;(2), id_gsd&nbsp;(109), id_pud&nbsp;(16), is_icepahc&nbsp;(14223), is_pud&nbsp;(15), it_isdt&nbsp;(697), it_partut&nbsp;(202), it_postwita&nbsp;(1876), it_pud&nbsp;(9), it_twittiro&nbsp;(361), it_valico&nbsp;(28), it_vit&nbsp;(449), kfm_aha&nbsp;(1), kk_ktb&nbsp;(108), kmr_mg&nbsp;(137), ko_pud&nbsp;(4), koi_uh&nbsp;(21), kpv_ikdp&nbsp;(33), kpv_lattice&nbsp;(110), krl_kkpp&nbsp;(46), la_ittb&nbsp;(450), la_llct&nbsp;(4070), la_perseus&nbsp;(466), la_proiel&nbsp;(8693), la_udante&nbsp;(427), lt_alksnis&nbsp;(626), lt_hse&nbsp;(23), lv_lvtb&nbsp;(1599), lzh_kyoto&nbsp;(395), mdf_jr&nbsp;(8), mpu_tudet&nbsp;(1), mr_ufal&nbsp;(145), myu_tudet&nbsp;(8), myv_jr&nbsp;(64), nl_alpino&nbsp;(410), nl_lassysmall&nbsp;(32), no_bokmaal&nbsp;(880), no_nynorsk&nbsp;(429), no_nynorsklia&nbsp;(743), nyq_aha&nbsp;(1), olo_kkpp&nbsp;(20), orv_rnc&nbsp;(554), orv_torot&nbsp;(2916), pcm_nsc&nbsp;(3443), pl_lfg&nbsp;(1860), pl_pdb&nbsp;(2084), pl_pud&nbsp;(10), pt_bosque&nbsp;(29), pt_pud&nbsp;(2), qtd_sagt&nbsp;(1079), quc_iu&nbsp;(15), ro_art&nbsp;(23), ro_nonstandard&nbsp;(15306), ro_rrt&nbsp;(1586), ro_simonero&nbsp;(75), ru_gsd&nbsp;(40), ru_pud&nbsp;(28), ru_syntagrus&nbsp;(3738), ru_taiga&nbsp;(2310), sa_ufal&nbsp;(30), sa_vedic&nbsp;(733), sk_snk&nbsp;(970), sl_ssj&nbsp;(960), sl_sst&nbsp;(894), sme_giella&nbsp;(554), sms_giellagas&nbsp;(73), soj_aha&nbsp;(1), sr_set&nbsp;(72), ta_mwtt&nbsp;(44), ta_ttb&nbsp;(12), th_pud&nbsp;(19), tl_trg&nbsp;(9), tpn_tudet&nbsp;(23), tr_boun&nbsp;(1176), tr_framenet&nbsp;(243), tr_gb&nbsp;(504), tr_imst&nbsp;(988), tr_kenet&nbsp;(1501), tr_penn&nbsp;(277), tr_pud&nbsp;(19), tr_tourism&nbsp;(165), ug_udt&nbsp;(293), uk_iu&nbsp;(978), ur_udtb&nbsp;(73), urb_tudet&nbsp;(8), wbp_ufal&nbsp;(13), wo_wtb&nbsp;(808), yo_ytb&nbsp;(213), zh_gsd&nbsp;(21), zh_gsdsimp&nbsp;(21), zh_pud&nbsp;(20))
+* `23` (tpn_tudet&nbsp;(4))
+* `3` (af_afribooms&nbsp;(700), aii_as&nbsp;(64), akk_riao&nbsp;(2679), am_att&nbsp;(1844), apu_ufpa&nbsp;(57), aqz_tudet&nbsp;(29), ar_nyuad&nbsp;(86521), ar_padt&nbsp;(31534), ar_pud&nbsp;(2643), be_hse&nbsp;(10762), bej_nsc&nbsp;(98), bg_btb&nbsp;(18591), bho_bhtb&nbsp;(3305), bm_crb&nbsp;(1372), br_keb&nbsp;(874), bxr_bdt&nbsp;(502), ca_ancora&nbsp;(50567), cop_scriptorium&nbsp;(5055), cs_cac&nbsp;(33121), cs_cltt&nbsp;(2213), cs_fictree&nbsp;(9329), cs_pdt&nbsp;(88813), cs_pud&nbsp;(1017), cu_proiel&nbsp;(12323), cy_ccg&nbsp;(3007), da_ddt&nbsp;(3889), de_gsd&nbsp;(29724), de_hdt&nbsp;(1451300), de_pud&nbsp;(12358), el_gdt&nbsp;(7808), en_ewt&nbsp;(14277), en_gum&nbsp;(11204), en_gumreddit&nbsp;(1640), en_lines&nbsp;(4973), en_partut&nbsp;(3381), en_pronouns&nbsp;(366), en_pud&nbsp;(1240), es_ancora&nbsp;(56808), es_gsd&nbsp;(41980), es_pud&nbsp;(2541), ess_sli&nbsp;(5), et_edt&nbsp;(39625), et_ewt&nbsp;(5120), eu_bdt&nbsp;(8), fa_perdt&nbsp;(62223), fa_seraji&nbsp;(17659), fi_ftb&nbsp;(20032), fi_ood&nbsp;(1648), fi_pud&nbsp;(1912), fi_tdt&nbsp;(18988), fo_oft&nbsp;(1130), fr_fqb&nbsp;(2905), fr_ftb&nbsp;(55667), fr_gsd&nbsp;(36811), fr_partut&nbsp;(2031), fr_pud&nbsp;(2567), fr_sequoia&nbsp;(4672), fr_spoken&nbsp;(5681), ga_idt&nbsp;(5509), gd_arcosg&nbsp;(5478), gl_treegal&nbsp;(2568), got_proiel&nbsp;(8787), grc_perseus&nbsp;(17655), grc_proiel&nbsp;(27740), gub_tudet&nbsp;(99), gun_dooley&nbsp;(1024), gun_thomas&nbsp;(27), gv_cadhan&nbsp;(2992), he_htb&nbsp;(19557), hi_hdtb&nbsp;(165146), hi_pud&nbsp;(3303), hr_set&nbsp;(18955), hsb_ufal&nbsp;(965), hu_szeged&nbsp;(4803), hy_armtdp&nbsp;(5303), hyw_armtdp&nbsp;(4230), id_csui&nbsp;(311), id_gsd&nbsp;(885), id_pud&nbsp;(501), is_icepahc&nbsp;(108305), is_pud&nbsp;(1931), it_isdt&nbsp;(22849), it_partut&nbsp;(3600), it_postwita&nbsp;(8856), it_pud&nbsp;(2167), it_twittiro&nbsp;(2457), it_valico&nbsp;(907), it_vit&nbsp;(16939), kfm_aha&nbsp;(8), kk_ktb&nbsp;(952), kmr_mg&nbsp;(1298), ko_pud&nbsp;(174), koi_uh&nbsp;(127), kpv_ikdp&nbsp;(249), kpv_lattice&nbsp;(1024), krl_kkpp&nbsp;(330), la_ittb&nbsp;(55315), la_llct&nbsp;(10638), la_perseus&nbsp;(2961), la_proiel&nbsp;(30514), la_udante&nbsp;(6142), lt_alksnis&nbsp;(4712), lt_hse&nbsp;(506), lv_lvtb&nbsp;(29002), lzh_kyoto&nbsp;(7625), mdf_jr&nbsp;(55), mpu_tudet&nbsp;(17), mr_ufal&nbsp;(736), myu_tudet&nbsp;(47), myv_jr&nbsp;(264), nl_alpino&nbsp;(6132), nl_lassysmall&nbsp;(2401), no_bokmaal&nbsp;(12257), no_nynorsk&nbsp;(11205), no_nynorsklia&nbsp;(5147), nyq_aha&nbsp;(8), olo_kkpp&nbsp;(229), orv_rnc&nbsp;(1291), orv_torot&nbsp;(24043), pcm_nsc&nbsp;(6555), pl_lfg&nbsp;(8179), pl_pdb&nbsp;(20284), pl_pud&nbsp;(828), pt_bosque&nbsp;(17378), pt_gsd&nbsp;(1), pt_pud&nbsp;(2266), qtd_sagt&nbsp;(3089), quc_iu&nbsp;(27), ro_art&nbsp;(159), ro_nonstandard&nbsp;(118620), ro_rrt&nbsp;(31687), ro_simonero&nbsp;(14516), ru_gsd&nbsp;(2923), ru_pud&nbsp;(848), ru_syntagrus&nbsp;(52236), ru_taiga&nbsp;(9567), sa_ufal&nbsp;(168), sa_vedic&nbsp;(3219), sk_snk&nbsp;(4999), sl_ssj&nbsp;(14054), sl_sst&nbsp;(2685), sme_giella&nbsp;(4027), sms_giellagas&nbsp;(486), soj_aha&nbsp;(5), sq_tsa&nbsp;(90), sr_set&nbsp;(10430), sv_lines&nbsp;(3), ta_mwtt&nbsp;(1321), ta_ttb&nbsp;(5224), th_pud&nbsp;(324), tl_trg&nbsp;(25), tpn_tudet&nbsp;(93), tr_boun&nbsp;(64422), tr_framenet&nbsp;(9384), tr_gb&nbsp;(1700), tr_imst&nbsp;(27090), tr_kenet&nbsp;(83660), tr_penn&nbsp;(38185), tr_pud&nbsp;(1412), tr_tourism&nbsp;(38900), ug_udt&nbsp;(2162), uk_iu&nbsp;(6058), ur_udtb&nbsp;(63522), urb_tudet&nbsp;(38), wbp_ufal&nbsp;(4), wo_wtb&nbsp;(6888), yo_ytb&nbsp;(603), zh_gsd&nbsp;(1240), zh_gsdsimp&nbsp;(1240), zh_pud&nbsp;(422))
+* `33` (myu_tudet&nbsp;(13), tpn_tudet&nbsp;(30))
 
 ## Person[abs]
 
 [Person[abs]]()
 
-* Person[abs]=1	eu_bdt	417
-* Person[abs]=2	eu_bdt	96
-* Person[abs]=3	eu_bdt	14162
+* `1` (eu_bdt&nbsp;(417))
+* `2` (eu_bdt&nbsp;(96))
+* `3` (eu_bdt&nbsp;(14162))
 
 ## Person[dat]
 
 [Person[dat]]()
 
-* Person[dat]=1	eu_bdt	203
-* Person[dat]=2	eu_bdt	51
-* Person[dat]=3	eu_bdt	1043
-* Person[dat]=3	wbp_ufal	6
+* `1` (eu_bdt&nbsp;(203))
+* `2` (eu_bdt&nbsp;(51))
+* `3` (eu_bdt&nbsp;(1043), wbp_ufal&nbsp;(6))
 
 ## Person[erg]
 
 [Person[erg]]()
 
-* Person[erg]=1	eu_bdt	1036
-* Person[erg]=2	eu_bdt	212
-* Person[erg]=3	eu_bdt	6579
+* `1` (eu_bdt&nbsp;(1036))
+* `2` (eu_bdt&nbsp;(212))
+* `3` (eu_bdt&nbsp;(6579))
 
 ## Person[obj]
 
 [Person[obj]]()
 
-* Person[obj]=1	ess_sli	19
-* Person[obj]=1	gun_dooley	21
-* Person[obj]=1	gun_thomas	7
-* Person[obj]=1	mdf_jr	7
-* Person[obj]=1	myv_jr	18
-* Person[obj]=1	quc_iu	28
-* Person[obj]=1	wbp_ufal	6
-* Person[obj]=2	ess_sli	6
-* Person[obj]=2	gun_dooley	5
-* Person[obj]=2	myv_jr	15
-* Person[obj]=2	quc_iu	26
-* Person[obj]=2	wbp_ufal	4
-* Person[obj]=3	apu_ufpa	54
-* Person[obj]=3	ess_sli	102
-* Person[obj]=3	gun_dooley	2
-* Person[obj]=3	gun_thomas	1
-* Person[obj]=3	mdf_jr	71
-* Person[obj]=3	myv_jr	427
-* Person[obj]=3	quc_iu	705
-* Person[obj]=3	wbp_ufal	4
+* `1` (ess_sli&nbsp;(19), gun_dooley&nbsp;(21), gun_thomas&nbsp;(7), mdf_jr&nbsp;(7), myv_jr&nbsp;(18), quc_iu&nbsp;(28), wbp_ufal&nbsp;(6))
+* `2` (ess_sli&nbsp;(6), gun_dooley&nbsp;(5), myv_jr&nbsp;(15), quc_iu&nbsp;(26), wbp_ufal&nbsp;(4))
+* `3` (apu_ufpa&nbsp;(54), ess_sli&nbsp;(102), gun_dooley&nbsp;(2), gun_thomas&nbsp;(1), mdf_jr&nbsp;(71), myv_jr&nbsp;(427), quc_iu&nbsp;(705), wbp_ufal&nbsp;(4))
 
 ## Person[psor]
 
 [Person[psor]]()
 
-* Person[psor]=1	apu_ufpa	1
-* Person[psor]=1	de_pud	20
-* Person[psor]=1	ess_sli	48
-* Person[psor]=1	fi_ftb	796
-* Person[psor]=1	fi_ood	125
-* Person[psor]=1	fi_pud	20
-* Person[psor]=1	fi_tdt	1124
-* Person[psor]=1	fr_gsd	326
-* Person[psor]=1	fr_spoken	156
-* Person[psor]=1	hu_szeged	107
-* Person[psor]=1	hy_armtdp	199
-* Person[psor]=1	hyw_armtdp	189
-* Person[psor]=1	id_gsd	41
-* Person[psor]=1	kk_ktb	89
-* Person[psor]=1	koi_uh	10
-* Person[psor]=1	kpv_ikdp	20
-* Person[psor]=1	kpv_lattice	46
-* Person[psor]=1	la_ittb	626
-* Person[psor]=1	la_llct	3430
-* Person[psor]=1	la_udante	150
-* Person[psor]=1	mdf_jr	33
-* Person[psor]=1	myv_jr	105
-* Person[psor]=1	qtd_sagt	408
-* Person[psor]=1	quc_iu	256
-* Person[psor]=1	sme_giella	92
-* Person[psor]=1	sms_giellagas	4
-* Person[psor]=1	tr_boun	1897
-* Person[psor]=1	tr_framenet	241
-* Person[psor]=1	tr_gb	318
-* Person[psor]=1	tr_imst	1052
-* Person[psor]=1	tr_kenet	2850
-* Person[psor]=1	tr_penn	243
-* Person[psor]=1	tr_pud	44
-* Person[psor]=1	tr_tourism	1202
-* Person[psor]=1	ug_udt	213
-* Person[psor]=2	de_pud	1
-* Person[psor]=2	ess_sli	35
-* Person[psor]=2	fi_ftb	251
-* Person[psor]=2	fi_ood	30
-* Person[psor]=2	fi_pud	2
-* Person[psor]=2	fi_tdt	167
-* Person[psor]=2	fr_gsd	97
-* Person[psor]=2	fr_spoken	72
-* Person[psor]=2	hy_armtdp	51
-* Person[psor]=2	hyw_armtdp	35
-* Person[psor]=2	id_gsd	50
-* Person[psor]=2	kk_ktb	29
-* Person[psor]=2	koi_uh	3
-* Person[psor]=2	kpv_ikdp	3
-* Person[psor]=2	kpv_lattice	92
-* Person[psor]=2	krl_kkpp	1
-* Person[psor]=2	la_ittb	143
-* Person[psor]=2	la_llct	1797
-* Person[psor]=2	la_udante	91
-* Person[psor]=2	mdf_jr	5
-* Person[psor]=2	myv_jr	54
-* Person[psor]=2	qtd_sagt	183
-* Person[psor]=2	quc_iu	96
-* Person[psor]=2	sme_giella	69
-* Person[psor]=2	sms_giellagas	9
-* Person[psor]=2	tr_boun	499
-* Person[psor]=2	tr_framenet	106
-* Person[psor]=2	tr_gb	156
-* Person[psor]=2	tr_imst	341
-* Person[psor]=2	tr_kenet	1652
-* Person[psor]=2	tr_penn	657
-* Person[psor]=2	tr_pud	27
-* Person[psor]=2	tr_tourism	177
-* Person[psor]=2	ug_udt	87
-* Person[psor]=3	apu_ufpa	13
-* Person[psor]=3	bxr_bdt	108
-* Person[psor]=3	de_pud	205
-* Person[psor]=3	ess_sli	56
-* Person[psor]=3	fi_ftb	2430
-* Person[psor]=3	fi_ood	162
-* Person[psor]=3	fi_pud	275
-* Person[psor]=3	fi_tdt	2378
-* Person[psor]=3	fr_gsd	3936
-* Person[psor]=3	fr_spoken	136
-* Person[psor]=3	hu_szeged	2682
-* Person[psor]=3	hy_armtdp	20
-* Person[psor]=3	hyw_armtdp	34
-* Person[psor]=3	id_gsd	1785
-* Person[psor]=3	kk_ktb	1211
-* Person[psor]=3	koi_uh	48
-* Person[psor]=3	kpv_ikdp	123
-* Person[psor]=3	kpv_lattice	464
-* Person[psor]=3	krl_kkpp	7
-* Person[psor]=3	la_ittb	2140
-* Person[psor]=3	la_llct	702
-* Person[psor]=3	la_udante	255
-* Person[psor]=3	mdf_jr	111
-* Person[psor]=3	myv_jr	668
-* Person[psor]=3	olo_kkpp	2
-* Person[psor]=3	qtd_sagt	509
-* Person[psor]=3	quc_iu	644
-* Person[psor]=3	sme_giella	255
-* Person[psor]=3	sms_giellagas	22
-* Person[psor]=3	tr_boun	15118
-* Person[psor]=3	tr_framenet	1871
-* Person[psor]=3	tr_gb	1084
-* Person[psor]=3	tr_imst	6689
-* Person[psor]=3	tr_kenet	19257
-* Person[psor]=3	tr_penn	8401
-* Person[psor]=3	tr_pud	2473
-* Person[psor]=3	tr_tourism	5622
-* Person[psor]=3	ug_udt	2397
+* `1` (apu_ufpa&nbsp;(1), de_pud&nbsp;(20), ess_sli&nbsp;(48), fi_ftb&nbsp;(796), fi_ood&nbsp;(125), fi_pud&nbsp;(20), fi_tdt&nbsp;(1124), fr_gsd&nbsp;(326), fr_spoken&nbsp;(156), hu_szeged&nbsp;(107), hy_armtdp&nbsp;(199), hyw_armtdp&nbsp;(189), id_gsd&nbsp;(41), kk_ktb&nbsp;(89), koi_uh&nbsp;(10), kpv_ikdp&nbsp;(20), kpv_lattice&nbsp;(46), la_ittb&nbsp;(626), la_llct&nbsp;(3430), la_udante&nbsp;(150), mdf_jr&nbsp;(33), myv_jr&nbsp;(105), qtd_sagt&nbsp;(408), quc_iu&nbsp;(256), sme_giella&nbsp;(92), sms_giellagas&nbsp;(4), tr_boun&nbsp;(1897), tr_framenet&nbsp;(241), tr_gb&nbsp;(318), tr_imst&nbsp;(1052), tr_kenet&nbsp;(2850), tr_penn&nbsp;(243), tr_pud&nbsp;(44), tr_tourism&nbsp;(1202), ug_udt&nbsp;(213))
+* `2` (de_pud&nbsp;(1), ess_sli&nbsp;(35), fi_ftb&nbsp;(251), fi_ood&nbsp;(30), fi_pud&nbsp;(2), fi_tdt&nbsp;(167), fr_gsd&nbsp;(97), fr_spoken&nbsp;(72), hy_armtdp&nbsp;(51), hyw_armtdp&nbsp;(35), id_gsd&nbsp;(50), kk_ktb&nbsp;(29), koi_uh&nbsp;(3), kpv_ikdp&nbsp;(3), kpv_lattice&nbsp;(92), krl_kkpp&nbsp;(1), la_ittb&nbsp;(143), la_llct&nbsp;(1797), la_udante&nbsp;(91), mdf_jr&nbsp;(5), myv_jr&nbsp;(54), qtd_sagt&nbsp;(183), quc_iu&nbsp;(96), sme_giella&nbsp;(69), sms_giellagas&nbsp;(9), tr_boun&nbsp;(499), tr_framenet&nbsp;(106), tr_gb&nbsp;(156), tr_imst&nbsp;(341), tr_kenet&nbsp;(1652), tr_penn&nbsp;(657), tr_pud&nbsp;(27), tr_tourism&nbsp;(177), ug_udt&nbsp;(87))
+* `3` (apu_ufpa&nbsp;(13), bxr_bdt&nbsp;(108), de_pud&nbsp;(205), ess_sli&nbsp;(56), fi_ftb&nbsp;(2430), fi_ood&nbsp;(162), fi_pud&nbsp;(275), fi_tdt&nbsp;(2378), fr_gsd&nbsp;(3936), fr_spoken&nbsp;(136), hu_szeged&nbsp;(2682), hy_armtdp&nbsp;(20), hyw_armtdp&nbsp;(34), id_gsd&nbsp;(1785), kk_ktb&nbsp;(1211), koi_uh&nbsp;(48), kpv_ikdp&nbsp;(123), kpv_lattice&nbsp;(464), krl_kkpp&nbsp;(7), la_ittb&nbsp;(2140), la_llct&nbsp;(702), la_udante&nbsp;(255), mdf_jr&nbsp;(111), myv_jr&nbsp;(668), olo_kkpp&nbsp;(2), qtd_sagt&nbsp;(509), quc_iu&nbsp;(644), sme_giella&nbsp;(255), sms_giellagas&nbsp;(22), tr_boun&nbsp;(15118), tr_framenet&nbsp;(1871), tr_gb&nbsp;(1084), tr_imst&nbsp;(6689), tr_kenet&nbsp;(19257), tr_penn&nbsp;(8401), tr_pud&nbsp;(2473), tr_tourism&nbsp;(5622), ug_udt&nbsp;(2397))
 
 ## Person[subj]
 
 [Person[subj]]()
 
-* Person[subj]=1	ess_sli	68
-* Person[subj]=1	gun_dooley	330
-* Person[subj]=1	gun_thomas	107
-* Person[subj]=1	mdf_jr	75
-* Person[subj]=1	myv_jr	182
-* Person[subj]=1	quc_iu	434
-* Person[subj]=2	ess_sli	86
-* Person[subj]=2	gun_dooley	170
-* Person[subj]=2	gun_thomas	11
-* Person[subj]=2	mdf_jr	28
-* Person[subj]=2	myv_jr	245
-* Person[subj]=2	quc_iu	192
-* Person[subj]=3	apu_ufpa	11
-* Person[subj]=3	ess_sli	214
-* Person[subj]=3	gun_dooley	1138
-* Person[subj]=3	gun_thomas	85
-* Person[subj]=3	mdf_jr	338
-* Person[subj]=3	myv_jr	2204
-* Person[subj]=3	quc_iu	917
+* `1` (ess_sli&nbsp;(68), gun_dooley&nbsp;(330), gun_thomas&nbsp;(107), mdf_jr&nbsp;(75), myv_jr&nbsp;(182), quc_iu&nbsp;(434))
+* `2` (ess_sli&nbsp;(86), gun_dooley&nbsp;(170), gun_thomas&nbsp;(11), mdf_jr&nbsp;(28), myv_jr&nbsp;(245), quc_iu&nbsp;(192))
+* `3` (apu_ufpa&nbsp;(11), ess_sli&nbsp;(214), gun_dooley&nbsp;(1138), gun_thomas&nbsp;(85), mdf_jr&nbsp;(338), myv_jr&nbsp;(2204), quc_iu&nbsp;(917))
 
 ## Polarity
 
 [Polarity]()
 
-* Polarity=Aff	gd_arcosg	152
-* Polarity=Neg	am_att	197
-* Polarity=Neg	aqz_tudet	9
-* Polarity=Neg	ar_nyuad	4578
-* Polarity=Neg	ar_padt	25
-* Polarity=Neg	ar_pud	162
-* Polarity=Neg	be_hse	2748
-* Polarity=Neg	bej_nsc	4
-* Polarity=Neg	bg_btb	1452
-* Polarity=Neg	bho_bhtb	8
-* Polarity=Neg	bm_crb	212
-* Polarity=Neg	br_keb	98
-* Polarity=Neg	ca_ancora	2838
-* Polarity=Neg	cop_scriptorium	843
-* Polarity=Neg	cs_cac	5799
-* Polarity=Neg	cs_cltt	463
-* Polarity=Neg	cs_fictree	3379
-* Polarity=Neg	cs_pdt	20659
-* Polarity=Neg	cs_pud	205
-* Polarity=Neg	cu_proiel	1329
-* Polarity=Neg	de_gsd	1402
-* Polarity=Neg	de_hdt	18723
-* Polarity=Neg	de_pud	87
-* Polarity=Neg	en_esl	1173
-* Polarity=Neg	en_gum	1230
-* Polarity=Neg	en_gumreddit	325
-* Polarity=Neg	en_partut	236
-* Polarity=Neg	en_pronouns	30
-* Polarity=Neg	en_pud	100
-* Polarity=Neg	es_ancora	3612
-* Polarity=Neg	es_gsd	1764
-* Polarity=Neg	es_pud	128
-* Polarity=Neg	ess_sli	24
-* Polarity=Neg	et_edt	5965
-* Polarity=Neg	et_ewt	1672
-* Polarity=Neg	eu_bdt	1398
-* Polarity=Neg	fa_perdt	4461
-* Polarity=Neg	fa_seraji	1372
-* Polarity=Neg	fi_ftb	3138
-* Polarity=Neg	fi_ood	334
-* Polarity=Neg	fi_pud	124
-* Polarity=Neg	fi_tdt	2474
-* Polarity=Neg	fr_fqb	51
-* Polarity=Neg	fr_ftb	4896
-* Polarity=Neg	fr_gsd	2967
-* Polarity=Neg	fr_partut	315
-* Polarity=Neg	fr_pud	231
-* Polarity=Neg	fr_sequoia	688
-* Polarity=Neg	fr_spoken	689
-* Polarity=Neg	fro_srcmf	4162
-* Polarity=Neg	ga_idt	1503
-* Polarity=Neg	gd_arcosg	953
-* Polarity=Neg	gl_ctg	120
-* Polarity=Neg	gl_treegal	277
-* Polarity=Neg	got_proiel	1272
-* Polarity=Neg	grc_proiel	3641
-* Polarity=Neg	gub_tudet	2
-* Polarity=Neg	gun_dooley	109
-* Polarity=Neg	gun_thomas	14
-* Polarity=Neg	gv_cadhan	176
-* Polarity=Neg	he_htb	1371
-* Polarity=Neg	hi_hdtb	2198
-* Polarity=Neg	hi_pud	136
-* Polarity=Neg	hr_set	1521
-* Polarity=Neg	hsb_ufal	71
-* Polarity=Neg	hy_armtdp	890
-* Polarity=Neg	hyw_armtdp	550
-* Polarity=Neg	id_csui	124
-* Polarity=Neg	id_gsd	543
-* Polarity=Neg	id_pud	177
-* Polarity=Neg	it_isdt	15
-* Polarity=Neg	it_pud	117
-* Polarity=Neg	it_twittiro	1
-* Polarity=Neg	it_valico	3
-* Polarity=Neg	it_vit	40
-* Polarity=Neg	ja_bccwj	8854
-* Polarity=Neg	ja_gsd	1077
-* Polarity=Neg	ja_modern	337
-* Polarity=Neg	ja_pud	177
-* Polarity=Neg	kfm_aha	2
-* Polarity=Neg	kk_ktb	131
-* Polarity=Neg	kmr_mg	100
-* Polarity=Neg	ko_pud	7
-* Polarity=Neg	koi_uh	16
-* Polarity=Neg	kpv_ikdp	37
-* Polarity=Neg	kpv_lattice	192
-* Polarity=Neg	krl_kkpp	5
-* Polarity=Neg	la_ittb	9864
-* Polarity=Neg	la_llct	660
-* Polarity=Neg	la_proiel	3536
-* Polarity=Neg	la_udante	1283
-* Polarity=Neg	lt_alksnis	849
-* Polarity=Neg	lt_hse	211
-* Polarity=Neg	lv_lvtb	3775
-* Polarity=Neg	lzh_kyoto	8617
-* Polarity=Neg	mdf_jr	61
-* Polarity=Neg	mpu_tudet	3
-* Polarity=Neg	mr_ufal	58
-* Polarity=Neg	myu_tudet	4
-* Polarity=Neg	myv_jr	434
-* Polarity=Neg	no_bokmaal	3035
-* Polarity=Neg	no_nynorsk	2755
-* Polarity=Neg	no_nynorsklia	699
-* Polarity=Neg	nyq_aha	2
-* Polarity=Neg	olo_kkpp	18
-* Polarity=Neg	orv_rnc	345
-* Polarity=Neg	orv_torot	2089
-* Polarity=Neg	pcm_nsc	1994
-* Polarity=Neg	pl_lfg	2659
-* Polarity=Neg	pl_pdb	4078
-* Polarity=Neg	pl_pud	127
-* Polarity=Neg	pt_bosque	1367
-* Polarity=Neg	pt_gsd	1495
-* Polarity=Neg	pt_pud	106
-* Polarity=Neg	qtd_sagt	562
-* Polarity=Neg	quc_iu	312
-* Polarity=Neg	ro_art	20
-* Polarity=Neg	ro_nonstandard	9863
-* Polarity=Neg	ro_rrt	1630
-* Polarity=Neg	ro_simonero	1535
-* Polarity=Neg	ru_gsd	432
-* Polarity=Neg	ru_pud	134
-* Polarity=Neg	ru_syntagrus	452
-* Polarity=Neg	ru_taiga	3948
-* Polarity=Neg	sa_ufal	43
-* Polarity=Neg	sk_snk	1345
-* Polarity=Neg	sl_ssj	1564
-* Polarity=Neg	sl_sst	505
-* Polarity=Neg	sme_giella	430
-* Polarity=Neg	sms_giellagas	41
-* Polarity=Neg	soj_aha	2
-* Polarity=Neg	sq_tsa	3
-* Polarity=Neg	sr_set	633
-* Polarity=Neg	sv_lines	115
-* Polarity=Neg	sv_pud	104
-* Polarity=Neg	sv_talbanken	791
-* Polarity=Neg	ta_mwtt	38
-* Polarity=Neg	ta_ttb	35
-* Polarity=Neg	th_pud	205
-* Polarity=Neg	tl_trg	11
-* Polarity=Neg	tpn_tudet	29
-* Polarity=Neg	tr_boun	1775
-* Polarity=Neg	tr_framenet	234
-* Polarity=Neg	tr_gb	640
-* Polarity=Neg	tr_imst	1245
-* Polarity=Neg	tr_kenet	1942
-* Polarity=Neg	tr_penn	814
-* Polarity=Neg	tr_pud	194
-* Polarity=Neg	tr_tourism	2205
-* Polarity=Neg	ug_udt	193
-* Polarity=Neg	uk_iu	1580
-* Polarity=Neg	ur_udtb	819
-* Polarity=Neg	vi_vtb	544
-* Polarity=Neg	wo_wtb	591
-* Polarity=Neg	zh_gsd	244
-* Polarity=Neg	zh_gsdsimp	244
-* Polarity=Neg	zh_pud	65
-* Polarity=Pos	bm_crb	1251
-* Polarity=Pos	cs_cac	276901
-* Polarity=Pos	cs_cltt	20307
-* Polarity=Pos	cs_fictree	70333
-* Polarity=Pos	cs_pdt	811399
-* Polarity=Pos	cs_pud	10133
-* Polarity=Pos	eu_bdt	246
-* Polarity=Pos	he_htb	1495
-* Polarity=Pos	hr_set	9
-* Polarity=Pos	hy_armtdp	6953
-* Polarity=Pos	hyw_armtdp	5482
-* Polarity=Pos	it_isdt	18
-* Polarity=Pos	it_vit	20
-* Polarity=Pos	lt_alksnis	10016
-* Polarity=Pos	lt_hse	701
-* Polarity=Pos	lv_lvtb	42427
-* Polarity=Pos	pl_lfg	1738
-* Polarity=Pos	pl_pdb	10553
-* Polarity=Pos	pl_pud	626
-* Polarity=Pos	qtd_sagt	1
-* Polarity=Pos	ro_art	32
-* Polarity=Pos	ro_nonstandard	54994
-* Polarity=Pos	ro_rrt	8915
-* Polarity=Pos	ro_simonero	5116
-* Polarity=Pos	sk_snk	17457
-* Polarity=Pos	sl_ssj	8547
-* Polarity=Pos	sl_sst	2189
-* Polarity=Pos	ta_mwtt	112
-* Polarity=Pos	ta_ttb	2294
-* Polarity=Pos	tl_trg	7
-* Polarity=Pos	tr_boun	18643
-* Polarity=Pos	tr_framenet	3005
-* Polarity=Pos	tr_gb	12
-* Polarity=Pos	tr_imst	9812
-* Polarity=Pos	tr_kenet	16773
-* Polarity=Pos	tr_penn	6592
-* Polarity=Pos	tr_pud	1808
-* Polarity=Pos	tr_tourism	6221
+* `Aff` (gd_arcosg&nbsp;(152))
+* `Neg` (am_att&nbsp;(197), aqz_tudet&nbsp;(9), ar_nyuad&nbsp;(4578), ar_padt&nbsp;(25), ar_pud&nbsp;(162), be_hse&nbsp;(2748), bej_nsc&nbsp;(4), bg_btb&nbsp;(1452), bho_bhtb&nbsp;(8), bm_crb&nbsp;(212), br_keb&nbsp;(98), ca_ancora&nbsp;(2838), cop_scriptorium&nbsp;(843), cs_cac&nbsp;(5799), cs_cltt&nbsp;(463), cs_fictree&nbsp;(3379), cs_pdt&nbsp;(20659), cs_pud&nbsp;(205), cu_proiel&nbsp;(1329), de_gsd&nbsp;(1402), de_hdt&nbsp;(18723), de_pud&nbsp;(87), en_esl&nbsp;(1173), en_gum&nbsp;(1230), en_gumreddit&nbsp;(325), en_partut&nbsp;(236), en_pronouns&nbsp;(30), en_pud&nbsp;(100), es_ancora&nbsp;(3612), es_gsd&nbsp;(1764), es_pud&nbsp;(128), ess_sli&nbsp;(24), et_edt&nbsp;(5965), et_ewt&nbsp;(1672), eu_bdt&nbsp;(1398), fa_perdt&nbsp;(4461), fa_seraji&nbsp;(1372), fi_ftb&nbsp;(3138), fi_ood&nbsp;(334), fi_pud&nbsp;(124), fi_tdt&nbsp;(2474), fr_fqb&nbsp;(51), fr_ftb&nbsp;(4896), fr_gsd&nbsp;(2967), fr_partut&nbsp;(315), fr_pud&nbsp;(231), fr_sequoia&nbsp;(688), fr_spoken&nbsp;(689), fro_srcmf&nbsp;(4162), ga_idt&nbsp;(1503), gd_arcosg&nbsp;(953), gl_ctg&nbsp;(120), gl_treegal&nbsp;(277), got_proiel&nbsp;(1272), grc_proiel&nbsp;(3641), gub_tudet&nbsp;(2), gun_dooley&nbsp;(109), gun_thomas&nbsp;(14), gv_cadhan&nbsp;(176), he_htb&nbsp;(1371), hi_hdtb&nbsp;(2198), hi_pud&nbsp;(136), hr_set&nbsp;(1521), hsb_ufal&nbsp;(71), hy_armtdp&nbsp;(890), hyw_armtdp&nbsp;(550), id_csui&nbsp;(124), id_gsd&nbsp;(543), id_pud&nbsp;(177), it_isdt&nbsp;(15), it_pud&nbsp;(117), it_twittiro&nbsp;(1), it_valico&nbsp;(3), it_vit&nbsp;(40), ja_bccwj&nbsp;(8854), ja_gsd&nbsp;(1077), ja_modern&nbsp;(337), ja_pud&nbsp;(177), kfm_aha&nbsp;(2), kk_ktb&nbsp;(131), kmr_mg&nbsp;(100), ko_pud&nbsp;(7), koi_uh&nbsp;(16), kpv_ikdp&nbsp;(37), kpv_lattice&nbsp;(192), krl_kkpp&nbsp;(5), la_ittb&nbsp;(9864), la_llct&nbsp;(660), la_proiel&nbsp;(3536), la_udante&nbsp;(1283), lt_alksnis&nbsp;(849), lt_hse&nbsp;(211), lv_lvtb&nbsp;(3775), lzh_kyoto&nbsp;(8617), mdf_jr&nbsp;(61), mpu_tudet&nbsp;(3), mr_ufal&nbsp;(58), myu_tudet&nbsp;(4), myv_jr&nbsp;(434), no_bokmaal&nbsp;(3035), no_nynorsk&nbsp;(2755), no_nynorsklia&nbsp;(699), nyq_aha&nbsp;(2), olo_kkpp&nbsp;(18), orv_rnc&nbsp;(345), orv_torot&nbsp;(2089), pcm_nsc&nbsp;(1994), pl_lfg&nbsp;(2659), pl_pdb&nbsp;(4078), pl_pud&nbsp;(127), pt_bosque&nbsp;(1367), pt_gsd&nbsp;(1495), pt_pud&nbsp;(106), qtd_sagt&nbsp;(562), quc_iu&nbsp;(312), ro_art&nbsp;(20), ro_nonstandard&nbsp;(9863), ro_rrt&nbsp;(1630), ro_simonero&nbsp;(1535), ru_gsd&nbsp;(432), ru_pud&nbsp;(134), ru_syntagrus&nbsp;(452), ru_taiga&nbsp;(3948), sa_ufal&nbsp;(43), sk_snk&nbsp;(1345), sl_ssj&nbsp;(1564), sl_sst&nbsp;(505), sme_giella&nbsp;(430), sms_giellagas&nbsp;(41), soj_aha&nbsp;(2), sq_tsa&nbsp;(3), sr_set&nbsp;(633), sv_lines&nbsp;(115), sv_pud&nbsp;(104), sv_talbanken&nbsp;(791), ta_mwtt&nbsp;(38), ta_ttb&nbsp;(35), th_pud&nbsp;(205), tl_trg&nbsp;(11), tpn_tudet&nbsp;(29), tr_boun&nbsp;(1775), tr_framenet&nbsp;(234), tr_gb&nbsp;(640), tr_imst&nbsp;(1245), tr_kenet&nbsp;(1942), tr_penn&nbsp;(814), tr_pud&nbsp;(194), tr_tourism&nbsp;(2205), ug_udt&nbsp;(193), uk_iu&nbsp;(1580), ur_udtb&nbsp;(819), vi_vtb&nbsp;(544), wo_wtb&nbsp;(591), zh_gsd&nbsp;(244), zh_gsdsimp&nbsp;(244), zh_pud&nbsp;(65))
+* `Pos` (bm_crb&nbsp;(1251), cs_cac&nbsp;(276901), cs_cltt&nbsp;(20307), cs_fictree&nbsp;(70333), cs_pdt&nbsp;(811399), cs_pud&nbsp;(10133), eu_bdt&nbsp;(246), he_htb&nbsp;(1495), hr_set&nbsp;(9), hy_armtdp&nbsp;(6953), hyw_armtdp&nbsp;(5482), it_isdt&nbsp;(18), it_vit&nbsp;(20), lt_alksnis&nbsp;(10016), lt_hse&nbsp;(701), lv_lvtb&nbsp;(42427), pl_lfg&nbsp;(1738), pl_pdb&nbsp;(10553), pl_pud&nbsp;(626), qtd_sagt&nbsp;(1), ro_art&nbsp;(32), ro_nonstandard&nbsp;(54994), ro_rrt&nbsp;(8915), ro_simonero&nbsp;(5116), sk_snk&nbsp;(17457), sl_ssj&nbsp;(8547), sl_sst&nbsp;(2189), ta_mwtt&nbsp;(112), ta_ttb&nbsp;(2294), tl_trg&nbsp;(7), tr_boun&nbsp;(18643), tr_framenet&nbsp;(3005), tr_gb&nbsp;(12), tr_imst&nbsp;(9812), tr_kenet&nbsp;(16773), tr_penn&nbsp;(6592), tr_pud&nbsp;(1808), tr_tourism&nbsp;(6221))
 
 ## Polite
 
 [Polite]()
 
-* Polite=Depr	pl_lfg	17
-* Polite=Depr	pl_pdb	14
-* Polite=Form	bej_nsc	1
-* Polite=Form	bho_bhtb	144
-* Polite=Form	ca_ancora	29
-* Polite=Form	da_ddt	31
-* Polite=Form	es_ancora	56
-* Polite=Form	es_gsd	13
-* Polite=Form	es_pud	2
-* Polite=Form	hi_hdtb	6188
-* Polite=Form	hi_pud	54
-* Polite=Form	hy_armtdp	11
-* Polite=Form	hyw_armtdp	73
-* Polite=Form	id_gsd	53
-* Polite=Form	kk_ktb	67
-* Polite=Form	ko_pud	4884
-* Polite=Form	quc_iu	31
-* Polite=Form	ro_nonstandard	143
-* Polite=Form	sa_ufal	10
-* Polite=Form	ta_mwtt	94
-* Polite=Form	ta_ttb	798
-* Polite=Form	tr_imst	35
-* Polite=Form	tr_pud	11
-* Polite=Form	ug_udt	86
-* Polite=Form	ur_udtb	1092
-* Polite=Infm	ca_ancora	46
-* Polite=Infm	eu_bdt	72
-* Polite=Infm	hi_hdtb	13
-* Polite=Infm	hy_armtdp	122
-* Polite=Infm	id_gsd	109
-* Polite=Infm	tr_boun	3
-* Polite=Infm	tr_imst	1326
-* Polite=Infm	ur_udtb	20
+* `Depr` (pl_lfg&nbsp;(17), pl_pdb&nbsp;(14))
+* `Form` (bej_nsc&nbsp;(1), bho_bhtb&nbsp;(144), ca_ancora&nbsp;(29), da_ddt&nbsp;(31), es_ancora&nbsp;(56), es_gsd&nbsp;(13), es_pud&nbsp;(2), hi_hdtb&nbsp;(6188), hi_pud&nbsp;(54), hy_armtdp&nbsp;(11), hyw_armtdp&nbsp;(73), id_gsd&nbsp;(53), kk_ktb&nbsp;(67), ko_pud&nbsp;(4884), quc_iu&nbsp;(31), ro_nonstandard&nbsp;(143), sa_ufal&nbsp;(10), ta_mwtt&nbsp;(94), ta_ttb&nbsp;(798), tr_imst&nbsp;(35), tr_pud&nbsp;(11), ug_udt&nbsp;(86), ur_udtb&nbsp;(1092))
+* `Infm` (ca_ancora&nbsp;(46), eu_bdt&nbsp;(72), hi_hdtb&nbsp;(13), hy_armtdp&nbsp;(122), id_gsd&nbsp;(109), tr_boun&nbsp;(3), tr_imst&nbsp;(1326), ur_udtb&nbsp;(20))
 
 ## Polite[abs]
 
 [Polite[abs]]()
 
-* Polite[abs]=Infm	eu_bdt	17
+* `Infm` (eu_bdt&nbsp;(17))
 
 ## Polite[dat]
 
 [Polite[dat]]()
 
-* Polite[dat]=Infm	eu_bdt	5
+* `Infm` (eu_bdt&nbsp;(5))
 
 ## Polite[erg]
 
 [Polite[erg]]()
 
-* Polite[erg]=Infm	eu_bdt	16
+* `Infm` (eu_bdt&nbsp;(16))
 
 ## Position
 
 [Position]()
 
-* Position=Postnom	ro_nonstandard	442
-* Position=Postnom	ro_rrt	120
-* Position=Postnom	ro_simonero	2
-* Position=Prenom	ro_art	2
-* Position=Prenom	ro_nonstandard	1613
-* Position=Prenom	ro_rrt	1796
-* Position=Prenom	ro_simonero	1211
+* `Postnom` (ro_nonstandard&nbsp;(442), ro_rrt&nbsp;(120), ro_simonero&nbsp;(2))
+* `Prenom` (ro_art&nbsp;(2), ro_nonstandard&nbsp;(1613), ro_rrt&nbsp;(1796), ro_simonero&nbsp;(1211))
 
 ## Poss
 
 [Poss]()
 
-* Poss=Ali	myu_tudet	4
-* Poss=Hum	tpn_tudet	2
-* Poss=Ina	myu_tudet	4
-* Poss=Yes	af_afribooms	637
-* Poss=Yes	aii_as	21
-* Poss=Yes	am_att	205
-* Poss=Yes	be_hse	2539
-* Poss=Yes	bej_nsc	23
-* Poss=Yes	bg_btb	2017
-* Poss=Yes	bho_bhtb	8
-* Poss=Yes	br_keb	153
-* Poss=Yes	ca_ancora	3177
-* Poss=Yes	cop_scriptorium	1492
-* Poss=Yes	cs_cac	6020
-* Poss=Yes	cs_cltt	241
-* Poss=Yes	cs_fictree	2365
-* Poss=Yes	cs_pdt	17024
-* Poss=Yes	cs_pud	265
-* Poss=Yes	cu_proiel	1167
-* Poss=Yes	cy_ccg	629
-* Poss=Yes	da_ddt	813
-* Poss=Yes	de_gsd	2405
-* Poss=Yes	de_hdt	18370
-* Poss=Yes	el_gdt	636
-* Poss=Yes	en_ewt	3675
-* Poss=Yes	en_gum	1960
-* Poss=Yes	en_gumreddit	278
-* Poss=Yes	en_lines	1292
-* Poss=Yes	en_partut	649
-* Poss=Yes	en_pronouns	285
-* Poss=Yes	en_pud	260
-* Poss=Yes	es_ancora	5634
-* Poss=Yes	es_gsd	4482
-* Poss=Yes	es_pud	249
-* Poss=Yes	et_edt	1599
-* Poss=Yes	et_ewt	258
-* Poss=Yes	fr_fqb	144
-* Poss=Yes	fr_ftb	4926
-* Poss=Yes	fr_partut	1
-* Poss=Yes	fr_pud	275
-* Poss=Yes	fr_sequoia	531
-* Poss=Yes	fro_srcmf	4240
-* Poss=Yes	ga_idt	1977
-* Poss=Yes	gd_arcosg	1133
-* Poss=Yes	gl_treegal	233
-* Poss=Yes	got_proiel	1134
-* Poss=Yes	grc_proiel	268
-* Poss=Yes	gv_cadhan	572
-* Poss=Yes	hi_hdtb	2848
-* Poss=Yes	hr_set	1956
-* Poss=Yes	hsb_ufal	106
-* Poss=Yes	hu_szeged	11
-* Poss=Yes	hy_armtdp	722
-* Poss=Yes	hyw_armtdp	658
-* Poss=Yes	id_csui	17
-* Poss=Yes	id_pud	268
-* Poss=Yes	is_pud	96
-* Poss=Yes	it_isdt	1862
-* Poss=Yes	it_partut	558
-* Poss=Yes	it_postwita	639
-* Poss=Yes	it_twittiro	110
-* Poss=Yes	it_valico	104
-* Poss=Yes	it_vit	1282
-* Poss=Yes	la_ittb	2909
-* Poss=Yes	la_llct	5929
-* Poss=Yes	la_proiel	3543
-* Poss=Yes	la_udante	496
-* Poss=Yes	lv_lvtb	1103
-* Poss=Yes	nl_alpino	1352
-* Poss=Yes	nl_lassysmall	742
-* Poss=Yes	no_bokmaal	2099
-* Poss=Yes	no_nynorsk	1550
-* Poss=Yes	no_nynorsklia	107
-* Poss=Yes	orv_rnc	705
-* Poss=Yes	orv_torot	2700
-* Poss=Yes	pcm_nsc	1988
-* Poss=Yes	pl_lfg	746
-* Poss=Yes	pl_pdb	1712
-* Poss=Yes	pl_pud	80
-* Poss=Yes	pt_gsd	1
-* Poss=Yes	pt_pud	4
-* Poss=Yes	qtd_sagt	91
-* Poss=Yes	ro_art	2
-* Poss=Yes	ro_nonstandard	3162
-* Poss=Yes	ro_rrt	3903
-* Poss=Yes	ro_simonero	3142
-* Poss=Yes	ru_taiga	1606
-* Poss=Yes	sa_ufal	8
-* Poss=Yes	sk_snk	1257
-* Poss=Yes	sl_ssj	1692
-* Poss=Yes	sl_sst	161
-* Poss=Yes	sq_tsa	6
-* Poss=Yes	sr_set	895
-* Poss=Yes	sv_lines	1284
-* Poss=Yes	sv_pud	254
-* Poss=Yes	sv_talbanken	703
-* Poss=Yes	uk_iu	1150
-* Poss=Yes	ur_udtb	35
-* Poss=Yes	wo_wtb	652
+* `Ali` (myu_tudet&nbsp;(4))
+* `Hum` (tpn_tudet&nbsp;(2))
+* `Ina` (myu_tudet&nbsp;(4))
+* `Yes` (af_afribooms&nbsp;(637), aii_as&nbsp;(21), am_att&nbsp;(205), be_hse&nbsp;(2539), bej_nsc&nbsp;(23), bg_btb&nbsp;(2017), bho_bhtb&nbsp;(8), br_keb&nbsp;(153), ca_ancora&nbsp;(3177), cop_scriptorium&nbsp;(1492), cs_cac&nbsp;(6020), cs_cltt&nbsp;(241), cs_fictree&nbsp;(2365), cs_pdt&nbsp;(17024), cs_pud&nbsp;(265), cu_proiel&nbsp;(1167), cy_ccg&nbsp;(629), da_ddt&nbsp;(813), de_gsd&nbsp;(2405), de_hdt&nbsp;(18370), el_gdt&nbsp;(636), en_ewt&nbsp;(3675), en_gum&nbsp;(1960), en_gumreddit&nbsp;(278), en_lines&nbsp;(1292), en_partut&nbsp;(649), en_pronouns&nbsp;(285), en_pud&nbsp;(260), es_ancora&nbsp;(5634), es_gsd&nbsp;(4482), es_pud&nbsp;(249), et_edt&nbsp;(1599), et_ewt&nbsp;(258), fr_fqb&nbsp;(144), fr_ftb&nbsp;(4926), fr_partut&nbsp;(1), fr_pud&nbsp;(275), fr_sequoia&nbsp;(531), fro_srcmf&nbsp;(4240), ga_idt&nbsp;(1977), gd_arcosg&nbsp;(1133), gl_treegal&nbsp;(233), got_proiel&nbsp;(1134), grc_proiel&nbsp;(268), gv_cadhan&nbsp;(572), hi_hdtb&nbsp;(2848), hr_set&nbsp;(1956), hsb_ufal&nbsp;(106), hu_szeged&nbsp;(11), hy_armtdp&nbsp;(722), hyw_armtdp&nbsp;(658), id_csui&nbsp;(17), id_pud&nbsp;(268), is_pud&nbsp;(96), it_isdt&nbsp;(1862), it_partut&nbsp;(558), it_postwita&nbsp;(639), it_twittiro&nbsp;(110), it_valico&nbsp;(104), it_vit&nbsp;(1282), la_ittb&nbsp;(2909), la_llct&nbsp;(5929), la_proiel&nbsp;(3543), la_udante&nbsp;(496), lv_lvtb&nbsp;(1103), nl_alpino&nbsp;(1352), nl_lassysmall&nbsp;(742), no_bokmaal&nbsp;(2099), no_nynorsk&nbsp;(1550), no_nynorsklia&nbsp;(107), orv_rnc&nbsp;(705), orv_torot&nbsp;(2700), pcm_nsc&nbsp;(1988), pl_lfg&nbsp;(746), pl_pdb&nbsp;(1712), pl_pud&nbsp;(80), pt_gsd&nbsp;(1), pt_pud&nbsp;(4), qtd_sagt&nbsp;(91), ro_art&nbsp;(2), ro_nonstandard&nbsp;(3162), ro_rrt&nbsp;(3903), ro_simonero&nbsp;(3142), ru_taiga&nbsp;(1606), sa_ufal&nbsp;(8), sk_snk&nbsp;(1257), sl_ssj&nbsp;(1692), sl_sst&nbsp;(161), sq_tsa&nbsp;(6), sr_set&nbsp;(895), sv_lines&nbsp;(1284), sv_pud&nbsp;(254), sv_talbanken&nbsp;(703), uk_iu&nbsp;(1150), ur_udtb&nbsp;(35), wo_wtb&nbsp;(652))
 
 ## Possessed
 
 [Possessed]()
 
-* Possessed=No	apu_ufpa	30
-* Possessed=Yes	apu_ufpa	17
+* `No` (apu_ufpa&nbsp;(30))
+* `Yes` (apu_ufpa&nbsp;(17))
 
 ## Prefix
 
 [Prefix]()
 
-* Prefix=Yes	he_htb	235
+* `Yes` (he_htb&nbsp;(235))
 
 ## PrepCase
 
 [PrepCase]()
 
-* PrepCase=Npr	ca_ancora	6791
-* PrepCase=Npr	cs_cac	1424
-* PrepCase=Npr	cs_cltt	67
-* PrepCase=Npr	cs_fictree	45
-* PrepCase=Npr	cs_pdt	948
-* PrepCase=Npr	cs_pud	7
-* PrepCase=Npr	es_ancora	9943
-* PrepCase=Npr	es_gsd	8235
-* PrepCase=Npr	es_pud	429
-* PrepCase=Npr	pl_lfg	1717
-* PrepCase=Npr	pl_pdb	3303
-* PrepCase=Npr	pl_pud	184
-* PrepCase=Pre	ca_ancora	51
-* PrepCase=Pre	cs_cac	1433
-* PrepCase=Pre	cs_cltt	76
-* PrepCase=Pre	cs_fictree	871
-* PrepCase=Pre	cs_pdt	3977
-* PrepCase=Pre	cs_pud	57
-* PrepCase=Pre	es_ancora	139
-* PrepCase=Pre	es_gsd	55
-* PrepCase=Pre	es_pud	3
-* PrepCase=Pre	pl_lfg	466
-* PrepCase=Pre	pl_pdb	985
-* PrepCase=Pre	pl_pud	30
+* `Npr` (ca_ancora&nbsp;(6791), cs_cac&nbsp;(1424), cs_cltt&nbsp;(67), cs_fictree&nbsp;(45), cs_pdt&nbsp;(948), cs_pud&nbsp;(7), es_ancora&nbsp;(9943), es_gsd&nbsp;(8235), es_pud&nbsp;(429), pl_lfg&nbsp;(1717), pl_pdb&nbsp;(3303), pl_pud&nbsp;(184))
+* `Pre` (ca_ancora&nbsp;(51), cs_cac&nbsp;(1433), cs_cltt&nbsp;(76), cs_fictree&nbsp;(871), cs_pdt&nbsp;(3977), cs_pud&nbsp;(57), es_ancora&nbsp;(139), es_gsd&nbsp;(55), es_pud&nbsp;(3), pl_lfg&nbsp;(466), pl_pdb&nbsp;(985), pl_pud&nbsp;(30))
 
 ## PrepForm
 
 [PrepForm]()
 
-* PrepForm=Cmpd	ga_idt	1959
+* `Cmpd` (ga_idt&nbsp;(1959))
 
 ## PronType
 
 [PronType]()
 
-* PronType=Add	gun_dooley	5
-* PronType=Art	af_afribooms	4541
-* PronType=Art	aii_as	7
-* PronType=Art	ca_ancora	68466
-* PronType=Art	cop_scriptorium	4582
-* PronType=Art	de_gsd	34635
-* PronType=Art	de_hdt	427232
-* PronType=Art	el_gdt	9845
-* PronType=Art	en_ewt	16366
-* PronType=Art	en_gum	9610
-* PronType=Art	en_gumreddit	963
-* PronType=Art	en_lines	7850
-* PronType=Art	en_partut	3939
-* PronType=Art	en_pronouns	180
-* PronType=Art	en_pud	1885
-* PronType=Art	es_ancora	72142
-* PronType=Art	es_gsd	51173
-* PronType=Art	es_pud	2985
-* PronType=Art	fr_fqb	3134
-* PronType=Art	fr_ftb	76209
-* PronType=Art	fr_gsd	53497
-* PronType=Art	fr_partut	3974
-* PronType=Art	fr_pud	3451
-* PronType=Art	fr_sequoia	9265
-* PronType=Art	fr_spoken	3701
-* PronType=Art	fro_srcmf	12128
-* PronType=Art	ga_idt	9134
-* PronType=Art	gl_treegal	3562
-* PronType=Art	gv_cadhan	1151
-* PronType=Art	he_htb	16531
-* PronType=Art	hu_szeged	4936
-* PronType=Art	hy_armtdp	260
-* PronType=Art	hyw_armtdp	783
-* PronType=Art	it_isdt	42714
-* PronType=Art	it_partut	8153
-* PronType=Art	it_postwita	12609
-* PronType=Art	it_pud	1476
-* PronType=Art	it_twittiro	3090
-* PronType=Art	it_valico	830
-* PronType=Art	it_vit	40249
-* PronType=Art	la_ittb	8
-* PronType=Art	no_bokmaal	6262
-* PronType=Art	no_nynorsk	6750
-* PronType=Art	no_nynorsklia	796
-* PronType=Art	pcm_nsc	3173
-* PronType=Art	pt_bosque	31093
-* PronType=Art	pt_gsd	21347
-* PronType=Art	pt_pud	4
-* PronType=Art	qtd_sagt	969
-* PronType=Art	quc_iu	1335
-* PronType=Art	ro_nonstandard	6112
-* PronType=Art	ro_rrt	406
-* PronType=Art	ro_simonero	41
-* PronType=Art	sv_lines	3826
-* PronType=Art	sv_pud	6
-* PronType=Art	sv_talbanken	3847
-* PronType=Art	tr_gb	975
-* PronType=Art	tr_imst	1031
-* PronType=Art	wo_wtb	2300
-* PronType=Dem	af_afribooms	451
-* PronType=Dem	aii_as	3
-* PronType=Dem	ar_nyuad	1
-* PronType=Dem	ar_padt	2125
-* PronType=Dem	be_hse	3026
-* PronType=Dem	bej_nsc	16
-* PronType=Dem	bg_btb	1927
-* PronType=Dem	bho_bhtb	9
-* PronType=Dem	bm_crb	198
-* PronType=Dem	br_keb	12
-* PronType=Dem	bxr_bdt	177
-* PronType=Dem	ca_ancora	3995
-* PronType=Dem	cop_scriptorium	463
-* PronType=Dem	cs_cac	10536
-* PronType=Dem	cs_cltt	425
-* PronType=Dem	cs_fictree	5010
-* PronType=Dem	cs_pdt	27233
-* PronType=Dem	cs_pud	373
-* PronType=Dem	cy_ccg	217
-* PronType=Dem	da_ddt	2328
-* PronType=Dem	de_gsd	1785
-* PronType=Dem	de_hdt	20602
-* PronType=Dem	el_gdt	620
-* PronType=Dem	en_ewt	3184
-* PronType=Dem	en_gum	1633
-* PronType=Dem	en_gumreddit	294
-* PronType=Dem	en_lines	1069
-* PronType=Dem	en_partut	603
-* PronType=Dem	en_pud	177
-* PronType=Dem	es_ancora	4036
-* PronType=Dem	es_gsd	2912
-* PronType=Dem	es_pud	150
-* PronType=Dem	ess_sli	9
-* PronType=Dem	et_edt	8713
-* PronType=Dem	et_ewt	2197
-* PronType=Dem	fa_seraji	1624
-* PronType=Dem	fi_ftb	6438
-* PronType=Dem	fi_ood	375
-* PronType=Dem	fi_pud	389
-* PronType=Dem	fi_tdt	5156
-* PronType=Dem	fo_oft	31
-* PronType=Dem	fr_fqb	16
-* PronType=Dem	fr_ftb	4687
-* PronType=Dem	fr_gsd	3846
-* PronType=Dem	fr_partut	513
-* PronType=Dem	fr_pud	118
-* PronType=Dem	fr_sequoia	554
-* PronType=Dem	fr_spoken	1093
-* PronType=Dem	fro_srcmf	6189
-* PronType=Dem	ga_idt	1934
-* PronType=Dem	gl_treegal	214
-* PronType=Dem	grc_proiel	28454
-* PronType=Dem	gub_tudet	45
-* PronType=Dem	gun_dooley	38
-* PronType=Dem	gun_thomas	25
-* PronType=Dem	gv_cadhan	112
-* PronType=Dem	he_htb	1198
-* PronType=Dem	hi_hdtb	4730
-* PronType=Dem	hr_set	3082
-* PronType=Dem	hsb_ufal	205
-* PronType=Dem	hu_szeged	1007
-* PronType=Dem	hy_armtdp	1136
-* PronType=Dem	hyw_armtdp	943
-* PronType=Dem	id_csui	383
-* PronType=Dem	id_gsd	2048
-* PronType=Dem	id_pud	559
-* PronType=Dem	is_icepahc	19509
-* PronType=Dem	is_pud	205
-* PronType=Dem	it_isdt	1912
-* PronType=Dem	it_partut	529
-* PronType=Dem	it_postwita	740
-* PronType=Dem	it_pud	16
-* PronType=Dem	it_twittiro	155
-* PronType=Dem	it_valico	64
-* PronType=Dem	it_vit	2094
-* PronType=Dem	kfm_aha	1
-* PronType=Dem	kk_ktb	233
-* PronType=Dem	kmr_mg	294
-* PronType=Dem	koi_uh	6
-* PronType=Dem	kpv_ikdp	27
-* PronType=Dem	kpv_lattice	68
-* PronType=Dem	krl_kkpp	73
-* PronType=Dem	la_ittb	14489
-* PronType=Dem	la_llct	12320
-* PronType=Dem	la_udante	1666
-* PronType=Dem	lt_alksnis	973
-* PronType=Dem	lv_lvtb	7097
-* PronType=Dem	lzh_kyoto	2457
-* PronType=Dem	mdf_jr	26
-* PronType=Dem	mr_ufal	82
-* PronType=Dem	myu_tudet	1
-* PronType=Dem	myv_jr	191
-* PronType=Dem	nl_alpino	794
-* PronType=Dem	nl_lassysmall	208
-* PronType=Dem	no_bokmaal	6054
-* PronType=Dem	no_nynorsk	7037
-* PronType=Dem	no_nynorsklia	813
-* PronType=Dem	nyq_aha	1
-* PronType=Dem	olo_kkpp	25
-* PronType=Dem	orv_rnc	604
-* PronType=Dem	pcm_nsc	2030
-* PronType=Dem	pl_lfg	3094
-* PronType=Dem	pl_pdb	6278
-* PronType=Dem	pl_pud	284
-* PronType=Dem	pt_bosque	2018
-* PronType=Dem	qtd_sagt	535
-* PronType=Dem	quc_iu	40
-* PronType=Dem	ro_art	3
-* PronType=Dem	ro_nonstandard	8975
-* PronType=Dem	ro_rrt	2519
-* PronType=Dem	ro_simonero	1942
-* PronType=Dem	ru_taiga	5369
-* PronType=Dem	sa_ufal	160
-* PronType=Dem	sk_snk	2260
-* PronType=Dem	sl_ssj	1694
-* PronType=Dem	sl_sst	1059
-* PronType=Dem	sme_giella	645
-* PronType=Dem	sms_giellagas	63
-* PronType=Dem	soj_aha	1
-* PronType=Dem	sq_tsa	14
-* PronType=Dem	sr_set	1352
-* PronType=Dem	sv_lines	407
-* PronType=Dem	sv_talbanken	504
-* PronType=Dem	tl_trg	10
-* PronType=Dem	tr_boun	81
-* PronType=Dem	tr_framenet	79
-* PronType=Dem	tr_gb	193
-* PronType=Dem	tr_imst	359
-* PronType=Dem	tr_kenet	1089
-* PronType=Dem	tr_penn	489
-* PronType=Dem	tr_tourism	54
-* PronType=Dem	ug_udt	588
-* PronType=Dem	uk_iu	2909
-* PronType=Dem	ur_udtb	1903
-* PronType=Dem	wbp_ufal	1
-* PronType=Dem	wo_wtb	860
-* PronType=Dem	yo_ytb	135
-* PronType=Emp	aqz_tudet	5
-* PronType=Emp	be_hse	450
-* PronType=Emp	bm_crb	218
-* PronType=Emp	cs_cac	283
-* PronType=Emp	cs_cltt	4
-* PronType=Emp	cs_fictree	217
-* PronType=Emp	cs_pdt	700
-* PronType=Emp	cs_pud	7
-* PronType=Emp	cy_ccg	4
-* PronType=Emp	ga_idt	128
-* PronType=Emp	gv_cadhan	103
-* PronType=Emp	he_htb	42
-* PronType=Emp	hy_armtdp	395
-* PronType=Emp	hyw_armtdp	689
-* PronType=Emp	id_pud	17
-* PronType=Emp	la_ittb	773
-* PronType=Emp	la_udante	417
-* PronType=Emp	lt_alksnis	84
-* PronType=Emp	pt_bosque	54
-* PronType=Emp	ro_nonstandard	190
-* PronType=Emp	ro_rrt	53
-* PronType=Emp	ro_simonero	6
-* PronType=Emp	ru_taiga	449
-* PronType=Emp	sk_snk	60
-* PronType=Emp	sq_tsa	4
-* PronType=Emp	tl_trg	1
-* PronType=Emp	yo_ytb	15
-* PronType=Exc	be_hse	2
-* PronType=Exc	fr_gsd	6
-* PronType=Exc	fr_partut	1
-* PronType=Exc	hy_armtdp	27
-* PronType=Exc	hyw_armtdp	35
-* PronType=Exc	it_isdt	5
-* PronType=Exc	it_postwita	125
-* PronType=Exc	it_twittiro	22
-* PronType=Exc	it_valico	1
-* PronType=Exc	it_vit	13
-* PronType=Exc	ru_taiga	47
-* PronType=Ind	af_afribooms	672
-* PronType=Ind	be_hse	621
-* PronType=Ind	bg_btb	542
-* PronType=Ind	bho_bhtb	35
-* PronType=Ind	bxr_bdt	38
-* PronType=Ind	ca_ancora	14074
-* PronType=Ind	cop_scriptorium	130
-* PronType=Ind	cs_cac	2001
-* PronType=Ind	cs_cltt	13
-* PronType=Ind	cs_fictree	1127
-* PronType=Ind	cs_pdt	5761
-* PronType=Ind	cs_pud	90
-* PronType=Ind	cy_ccg	65
-* PronType=Ind	da_ddt	3394
-* PronType=Ind	de_gsd	2687
-* PronType=Ind	de_hdt	29409
-* PronType=Ind	el_gdt	353
-* PronType=Ind	en_lines	3
-* PronType=Ind	en_partut	357
-* PronType=Ind	en_pronouns	5
-* PronType=Ind	es_ancora	4471
-* PronType=Ind	es_gsd	3321
-* PronType=Ind	es_pud	124
-* PronType=Ind	et_edt	3405
-* PronType=Ind	et_ewt	954
-* PronType=Ind	fa_seraji	169
-* PronType=Ind	fi_ftb	3408
-* PronType=Ind	fi_ood	259
-* PronType=Ind	fi_pud	175
-* PronType=Ind	fi_tdt	2534
-* PronType=Ind	fr_gsd	2357
-* PronType=Ind	fr_partut	303
-* PronType=Ind	fr_pud	54
-* PronType=Ind	fr_spoken	442
-* PronType=Ind	fro_srcmf	3523
-* PronType=Ind	ga_idt	382
-* PronType=Ind	gl_treegal	417
-* PronType=Ind	gub_tudet	8
-* PronType=Ind	gun_dooley	10
-* PronType=Ind	gun_thomas	3
-* PronType=Ind	he_htb	30
-* PronType=Ind	hi_hdtb	2561
-* PronType=Ind	hr_set	575
-* PronType=Ind	hsb_ufal	82
-* PronType=Ind	hu_szeged	274
-* PronType=Ind	hy_armtdp	242
-* PronType=Ind	hyw_armtdp	248
-* PronType=Ind	id_csui	31
-* PronType=Ind	id_gsd	1138
-* PronType=Ind	id_pud	219
-* PronType=Ind	is_icepahc	19244
-* PronType=Ind	is_pud	241
-* PronType=Ind	it_isdt	2606
-* PronType=Ind	it_partut	592
-* PronType=Ind	it_postwita	1503
-* PronType=Ind	it_pud	2
-* PronType=Ind	it_twittiro	279
-* PronType=Ind	it_valico	78
-* PronType=Ind	it_vit	2022
-* PronType=Ind	kk_ktb	40
-* PronType=Ind	kmr_mg	331
-* PronType=Ind	koi_uh	3
-* PronType=Ind	kpv_ikdp	9
-* PronType=Ind	kpv_lattice	27
-* PronType=Ind	krl_kkpp	43
-* PronType=Ind	la_ittb	13858
-* PronType=Ind	la_llct	2624
-* PronType=Ind	la_udante	921
-* PronType=Ind	lt_alksnis	650
-* PronType=Ind	lv_lvtb	1814
-* PronType=Ind	mdf_jr	13
-* PronType=Ind	mr_ufal	31
-* PronType=Ind	myu_tudet	1
-* PronType=Ind	myv_jr	63
-* PronType=Ind	nl_alpino	783
-* PronType=Ind	nl_lassysmall	243
-* PronType=Ind	no_bokmaal	985
-* PronType=Ind	no_nynorsk	811
-* PronType=Ind	no_nynorsklia	338
-* PronType=Ind	olo_kkpp	2
-* PronType=Ind	orv_rnc	12
-* PronType=Ind	pl_lfg	959
-* PronType=Ind	pl_pdb	1954
-* PronType=Ind	pl_pud	110
-* PronType=Ind	pt_bosque	1488
-* PronType=Ind	qtd_sagt	385
-* PronType=Ind	ro_art	13
-* PronType=Ind	ro_nonstandard	12512
-* PronType=Ind	ro_rrt	6737
-* PronType=Ind	ro_simonero	3184
-* PronType=Ind	ru_taiga	944
-* PronType=Ind	sa_ufal	11
-* PronType=Ind	sk_snk	585
-* PronType=Ind	sl_ssj	1124
-* PronType=Ind	sl_sst	314
-* PronType=Ind	sme_giella	342
-* PronType=Ind	sq_tsa	6
-* PronType=Ind	sr_set	262
-* PronType=Ind	sv_lines	685
-* PronType=Ind	sv_pud	2
-* PronType=Ind	sv_talbanken	1207
-* PronType=Ind	ta_mwtt	3
-* PronType=Ind	ta_ttb	8
-* PronType=Ind	tl_trg	8
-* PronType=Ind	tpn_tudet	16
-* PronType=Ind	tr_boun	9
-* PronType=Ind	tr_gb	76
-* PronType=Ind	tr_imst	158
-* PronType=Ind	tr_pud	1
-* PronType=Ind	uk_iu	1122
-* PronType=Ind	ur_udtb	479
-* PronType=Ind	wo_wtb	214
-* PronType=Ind	yo_ytb	55
-* PronType=Int	af_afribooms	20
-* PronType=Int	aii_as	1
-* PronType=Int	be_hse	893
-* PronType=Int	bg_btb	567
-* PronType=Int	bho_bhtb	5
-* PronType=Int	br_keb	35
-* PronType=Int	bxr_bdt	40
-* PronType=Int	ca_ancora	348
-* PronType=Int	cop_scriptorium	165
-* PronType=Int	cs_cac	6235
-* PronType=Int	cs_cltt	489
-* PronType=Int	cs_fictree	2933
-* PronType=Int	cs_pdt	18858
-* PronType=Int	cs_pud	275
-* PronType=Int	cu_proiel	765
-* PronType=Int	cy_ccg	34
-* PronType=Int	da_ddt	186
-* PronType=Int	de_gsd	508
-* PronType=Int	de_hdt	8120
-* PronType=Int	el_gdt	21
-* PronType=Int	en_ewt	1790
-* PronType=Int	en_gum	700
-* PronType=Int	en_gumreddit	145
-* PronType=Int	en_lines	487
-* PronType=Int	en_partut	24
-* PronType=Int	en_pud	89
-* PronType=Int	es_ancora	9505
-* PronType=Int	es_gsd	1701
-* PronType=Int	es_pud	283
-* PronType=Int	ess_sli	53
-* PronType=Int	et_edt	4243
-* PronType=Int	et_ewt	873
-* PronType=Int	eu_bdt	168
-* PronType=Int	fa_seraji	348
-* PronType=Int	fi_ftb	1109
-* PronType=Int	fi_ood	44
-* PronType=Int	fi_pud	25
-* PronType=Int	fi_tdt	377
-* PronType=Int	fo_oft	1
-* PronType=Int	fr_fqb	1678
-* PronType=Int	fr_ftb	349
-* PronType=Int	fr_gsd	98
-* PronType=Int	fr_partut	8
-* PronType=Int	fr_pud	10
-* PronType=Int	fr_sequoia	72
-* PronType=Int	fr_spoken	11
-* PronType=Int	fro_srcmf	194
-* PronType=Int	ga_idt	169
-* PronType=Int	gd_arcosg	621
-* PronType=Int	gl_treegal	42
-* PronType=Int	got_proiel	589
-* PronType=Int	grc_proiel	1005
-* PronType=Int	gub_tudet	2
-* PronType=Int	gun_dooley	25
-* PronType=Int	gun_thomas	12
-* PronType=Int	he_htb	407
-* PronType=Int	hi_hdtb	326
-* PronType=Int	hr_set	3848
-* PronType=Int	hsb_ufal	5
-* PronType=Int	hu_szeged	87
-* PronType=Int	hy_armtdp	382
-* PronType=Int	hyw_armtdp	163
-* PronType=Int	id_gsd	572
-* PronType=Int	id_pud	12
-* PronType=Int	is_icepahc	2567
-* PronType=Int	is_pud	24
-* PronType=Int	it_isdt	1844
-* PronType=Int	it_partut	27
-* PronType=Int	it_postwita	291
-* PronType=Int	it_twittiro	65
-* PronType=Int	it_valico	14
-* PronType=Int	it_vit	433
-* PronType=Int	kk_ktb	108
-* PronType=Int	kmr_mg	19
-* PronType=Int	ko_pud	22
-* PronType=Int	koi_uh	9
-* PronType=Int	kpv_ikdp	12
-* PronType=Int	kpv_lattice	64
-* PronType=Int	la_ittb	421
-* PronType=Int	la_llct	2
-* PronType=Int	la_proiel	1744
-* PronType=Int	la_udante	88
-* PronType=Int	lt_alksnis	719
-* PronType=Int	lv_lvtb	1896
-* PronType=Int	lzh_kyoto	658
-* PronType=Int	mdf_jr	10
-* PronType=Int	mr_ufal	29
-* PronType=Int	myv_jr	226
-* PronType=Int	nl_alpino	280
-* PronType=Int	nl_lassysmall	51
-* PronType=Int	no_bokmaal	591
-* PronType=Int	no_nynorsk	462
-* PronType=Int	no_nynorsklia	180
-* PronType=Int	orv_rnc	71
-* PronType=Int	orv_torot	490
-* PronType=Int	pcm_nsc	1382
-* PronType=Int	pl_lfg	1159
-* PronType=Int	pl_pdb	2037
-* PronType=Int	pl_pud	57
-* PronType=Int	pt_bosque	130
-* PronType=Int	pt_pud	1
-* PronType=Int	qtd_sagt	51
-* PronType=Int	quc_iu	98
-* PronType=Int	ro_art	26
-* PronType=Int	ro_nonstandard	14568
-* PronType=Int	ro_rrt	3969
-* PronType=Int	ro_simonero	2174
-* PronType=Int	ru_taiga	846
-* PronType=Int	sa_ufal	30
-* PronType=Int	sk_snk	1162
-* PronType=Int	sl_ssj	677
-* PronType=Int	sl_sst	349
-* PronType=Int	sme_giella	50
-* PronType=Int	sms_giellagas	10
-* PronType=Int	sq_tsa	3
-* PronType=Int	sr_set	1747
-* PronType=Int	sv_lines	464
-* PronType=Int	sv_pud	394
-* PronType=Int	sv_talbanken	192
-* PronType=Int	ta_ttb	6
-* PronType=Int	th_pud	15
-* PronType=Int	tl_trg	7
-* PronType=Int	tpn_tudet	14
-* PronType=Int	tr_framenet	59
-* PronType=Int	tr_gb	381
-* PronType=Int	tr_kenet	1100
-* PronType=Int	tr_penn	221
-* PronType=Int	tr_pud	24
-* PronType=Int	tr_tourism	46
-* PronType=Int	ug_udt	82
-* PronType=Int	uk_iu	183
-* PronType=Int	ur_udtb	91
-* PronType=Int	wo_wtb	112
-* PronType=Int	yo_ytb	9
-* PronType=Neg	be_hse	220
-* PronType=Neg	bg_btb	192
-* PronType=Neg	bho_bhtb	8
-* PronType=Neg	cs_cac	417
-* PronType=Neg	cs_cltt	6
-* PronType=Neg	cs_fictree	717
-* PronType=Neg	cs_pdt	2291
-* PronType=Neg	cs_pud	26
-* PronType=Neg	de_gsd	298
-* PronType=Neg	de_hdt	29409
-* PronType=Neg	en_lines	2
-* PronType=Neg	en_partut	18
-* PronType=Neg	es_ancora	539
-* PronType=Neg	es_gsd	246
-* PronType=Neg	es_pud	2
-* PronType=Neg	fa_seraji	9
-* PronType=Neg	fr_gsd	212
-* PronType=Neg	fr_partut	17
-* PronType=Neg	fr_pud	16
-* PronType=Neg	fr_spoken	14
-* PronType=Neg	gun_dooley	1
-* PronType=Neg	hi_hdtb	2198
-* PronType=Neg	hr_set	192
-* PronType=Neg	hsb_ufal	10
-* PronType=Neg	hu_szeged	459
-* PronType=Neg	hy_armtdp	25
-* PronType=Neg	hyw_armtdp	2
-* PronType=Neg	it_isdt	1971
-* PronType=Neg	it_partut	328
-* PronType=Neg	it_postwita	1453
-* PronType=Neg	it_twittiro	299
-* PronType=Neg	it_valico	92
-* PronType=Neg	it_vit	1948
-* PronType=Neg	kk_ktb	20
-* PronType=Neg	la_ittb	569
-* PronType=Neg	la_llct	67
-* PronType=Neg	la_udante	149
-* PronType=Neg	lt_alksnis	72
-* PronType=Neg	lv_lvtb	697
-* PronType=Neg	no_bokmaal	348
-* PronType=Neg	no_nynorsk	228
-* PronType=Neg	no_nynorsklia	21
-* PronType=Neg	orv_rnc	37
-* PronType=Neg	pl_lfg	419
-* PronType=Neg	pl_pdb	635
-* PronType=Neg	pl_pud	11
-* PronType=Neg	pt_bosque	45
-* PronType=Neg	qtd_sagt	53
-* PronType=Neg	ro_art	3
-* PronType=Neg	ro_nonstandard	787
-* PronType=Neg	ro_rrt	338
-* PronType=Neg	ro_simonero	49
-* PronType=Neg	ru_taiga	497
-* PronType=Neg	sk_snk	303
-* PronType=Neg	sl_ssj	146
-* PronType=Neg	sl_sst	70
-* PronType=Neg	sr_set	66
-* PronType=Neg	sv_lines	176
-* PronType=Neg	sv_talbanken	94
-* PronType=Neg	tr_gb	6
-* PronType=Neg	uk_iu	238
-* PronType=Neg	ur_udtb	805
-* PronType=Neg	wo_wtb	95
-* PronType=Prs	af_afribooms	2144
-* PronType=Prs	aii_as	26
-* PronType=Prs	apu_ufpa	57
-* PronType=Prs	aqz_tudet	25
-* PronType=Prs	ar_nyuad	30458
-* PronType=Prs	ar_padt	10877
-* PronType=Prs	be_hse	7961
-* PronType=Prs	bg_btb	8614
-* PronType=Prs	bho_bhtb	221
-* PronType=Prs	bm_crb	1864
-* PronType=Prs	br_keb	175
-* PronType=Prs	bxr_bdt	132
-* PronType=Prs	ca_ancora	14595
-* PronType=Prs	cop_scriptorium	8377
-* PronType=Prs	cs_cac	17499
-* PronType=Prs	cs_cltt	770
-* PronType=Prs	cs_fictree	14184
-* PronType=Prs	cs_pdt	50557
-* PronType=Prs	cs_pud	700
-* PronType=Prs	cu_proiel	6348
-* PronType=Prs	cy_ccg	1999
-* PronType=Prs	da_ddt	5598
-* PronType=Prs	de_gsd	9990
-* PronType=Prs	de_hdt	72578
-* PronType=Prs	de_pud	226
-* PronType=Prs	el_gdt	939
-* PronType=Prs	en_ewt	18686
-* PronType=Prs	en_gum	7897
-* PronType=Prs	en_gumreddit	1484
-* PronType=Prs	en_lines	5599
-* PronType=Prs	en_partut	1906
-* PronType=Prs	en_pronouns	320
-* PronType=Prs	en_pud	742
-* PronType=Prs	es_ancora	18009
-* PronType=Prs	es_gsd	14346
-* PronType=Prs	es_pud	771
-* PronType=Prs	et_edt	11719
-* PronType=Prs	et_ewt	2621
-* PronType=Prs	eu_bdt	525
-* PronType=Prs	fa_perdt	5697
-* PronType=Prs	fa_seraji	3615
-* PronType=Prs	fi_ftb	4839
-* PronType=Prs	fi_ood	182
-* PronType=Prs	fi_pud	325
-* PronType=Prs	fi_tdt	2873
-* PronType=Prs	fo_oft	201
-* PronType=Prs	fr_fqb	2
-* PronType=Prs	fr_ftb	517
-* PronType=Prs	fr_gsd	15717
-* PronType=Prs	fr_partut	1282
-* PronType=Prs	fr_pud	966
-* PronType=Prs	fr_sequoia	56
-* PronType=Prs	fr_spoken	3161
-* PronType=Prs	fro_srcmf	20547
-* PronType=Prs	ga_idt	207
-* PronType=Prs	gl_treegal	766
-* PronType=Prs	got_proiel	4684
-* PronType=Prs	grc_proiel	14364
-* PronType=Prs	gub_tudet	2
-* PronType=Prs	gun_dooley	1040
-* PronType=Prs	gun_thomas	78
-* PronType=Prs	he_htb	5848
-* PronType=Prs	hi_hdtb	14436
-* PronType=Prs	hi_pud	289
-* PronType=Prs	hr_set	5987
-* PronType=Prs	hsb_ufal	362
-* PronType=Prs	hu_szeged	308
-* PronType=Prs	hy_armtdp	1168
-* PronType=Prs	hyw_armtdp	507
-* PronType=Prs	id_csui	385
-* PronType=Prs	id_gsd	1136
-* PronType=Prs	id_pud	635
-* PronType=Prs	is_icepahc	106810
-* PronType=Prs	is_pud	806
-* PronType=Prs	it_isdt	7260
-* PronType=Prs	it_partut	1355
-* PronType=Prs	it_postwita	4721
-* PronType=Prs	it_pud	227
-* PronType=Prs	it_twittiro	1009
-* PronType=Prs	it_valico	452
-* PronType=Prs	it_vit	5492
-* PronType=Prs	kfm_aha	7
-* PronType=Prs	kk_ktb	284
-* PronType=Prs	kmr_mg	760
-* PronType=Prs	koi_uh	63
-* PronType=Prs	kpv_ikdp	125
-* PronType=Prs	kpv_lattice	316
-* PronType=Prs	krl_kkpp	127
-* PronType=Prs	la_ittb	13064
-* PronType=Prs	la_llct	20938
-* PronType=Prs	la_proiel	11718
-* PronType=Prs	la_udante	1417
-* PronType=Prs	lt_alksnis	1567
-* PronType=Prs	lv_lvtb	6988
-* PronType=Prs	lzh_kyoto	10197
-* PronType=Prs	mdf_jr	89
-* PronType=Prs	mpu_tudet	8
-* PronType=Prs	mr_ufal	13
-* PronType=Prs	myu_tudet	1
-* PronType=Prs	myv_jr	456
-* PronType=Prs	nl_alpino	6338
-* PronType=Prs	nl_lassysmall	2161
-* PronType=Prs	no_bokmaal	22526
-* PronType=Prs	no_nynorsk	19454
-* PronType=Prs	no_nynorsklia	7717
-* PronType=Prs	nyq_aha	8
-* PronType=Prs	olo_kkpp	40
-* PronType=Prs	orv_rnc	1890
-* PronType=Prs	orv_torot	10107
-* PronType=Prs	pcm_nsc	14751
-* PronType=Prs	pl_lfg	7874
-* PronType=Prs	pl_pdb	14357
-* PronType=Prs	pl_pud	588
-* PronType=Prs	pt_bosque	4057
-* PronType=Prs	pt_gsd	2
-* PronType=Prs	pt_pud	240
-* PronType=Prs	qtd_sagt	2705
-* PronType=Prs	quc_iu	112
-* PronType=Prs	ro_art	61
-* PronType=Prs	ro_nonstandard	50752
-* PronType=Prs	ro_rrt	11104
-* PronType=Prs	ro_simonero	4761
-* PronType=Prs	ru_taiga	8171
-* PronType=Prs	sa_ufal	69
-* PronType=Prs	sk_snk	7075
-* PronType=Prs	sl_ssj	6049
-* PronType=Prs	sl_sst	1542
-* PronType=Prs	sme_giella	1537
-* PronType=Prs	sms_giellagas	112
-* PronType=Prs	soj_aha	5
-* PronType=Prs	sq_tsa	15
-* PronType=Prs	sr_set	2848
-* PronType=Prs	sv_lines	8424
-* PronType=Prs	sv_pud	3
-* PronType=Prs	sv_talbanken	4131
-* PronType=Prs	ta_mwtt	45
-* PronType=Prs	ta_ttb	222
-* PronType=Prs	tl_trg	52
-* PronType=Prs	tpn_tudet	23
-* PronType=Prs	tr_boun	96
-* PronType=Prs	tr_framenet	358
-* PronType=Prs	tr_gb	656
-* PronType=Prs	tr_imst	1189
-* PronType=Prs	tr_kenet	2304
-* PronType=Prs	tr_penn	315
-* PronType=Prs	tr_tourism	599
-* PronType=Prs	ug_udt	1358
-* PronType=Prs	uk_iu	4850
-* PronType=Prs	ur_udtb	5293
-* PronType=Prs	wbp_ufal	22
-* PronType=Prs	wo_wtb	3782
-* PronType=Prs	yo_ytb	1008
-* PronType=Rcp	af_afribooms	6
-* PronType=Rcp	bm_crb	17
-* PronType=Rcp	cop_scriptorium	40
-* PronType=Rcp	cu_proiel	39
-* PronType=Rcp	cy_ccg	30
-* PronType=Rcp	da_ddt	38
-* PronType=Rcp	de_pud	144
-* PronType=Rcp	et_edt	55
-* PronType=Rcp	et_ewt	16
-* PronType=Rcp	fa_seraji	102
-* PronType=Rcp	fi_ftb	82
-* PronType=Rcp	fi_ood	10
-* PronType=Rcp	fi_pud	11
-* PronType=Rcp	fi_tdt	185
-* PronType=Rcp	got_proiel	10
-* PronType=Rcp	grc_proiel	124
-* PronType=Rcp	hu_szeged	15
-* PronType=Rcp	hy_armtdp	27
-* PronType=Rcp	hyw_armtdp	31
-* PronType=Rcp	kk_ktb	1
-* PronType=Rcp	kmr_mg	1
-* PronType=Rcp	kpv_lattice	2
-* PronType=Rcp	la_proiel	6
-* PronType=Rcp	la_udante	9
-* PronType=Rcp	mdf_jr	1
-* PronType=Rcp	myv_jr	6
-* PronType=Rcp	nl_alpino	62
-* PronType=Rcp	nl_lassysmall	22
-* PronType=Rcp	no_bokmaal	73
-* PronType=Rcp	no_nynorsk	46
-* PronType=Rcp	no_nynorsklia	5
-* PronType=Rcp	orv_torot	36
-* PronType=Rcp	ru_taiga	40
-* PronType=Rcp	sme_giella	8
-* PronType=Rcp	sv_lines	36
-* PronType=Rcp	sv_talbanken	43
-* PronType=Rcp	tr_framenet	15
-* PronType=Rcp	tr_gb	18
-* PronType=Rcp	tr_kenet	150
-* PronType=Rcp	tr_penn	14
-* PronType=Rcp	tr_pud	5
-* PronType=Rcp	tr_tourism	1
-* PronType=Rel	af_afribooms	1225
-* PronType=Rel	ar_nyuad	294
-* PronType=Rel	ar_padt	2537
-* PronType=Rel	be_hse	2255
-* PronType=Rel	bg_btb	1485
-* PronType=Rel	bm_crb	80
-* PronType=Rel	br_keb	12
-* PronType=Rel	ca_ancora	8816
-* PronType=Rel	cs_cac	7831
-* PronType=Rel	cs_cltt	586
-* PronType=Rel	cs_fictree	3131
-* PronType=Rel	cs_pdt	22690
-* PronType=Rel	cs_pud	326
-* PronType=Rel	cu_proiel	1091
-* PronType=Rel	cy_ccg	112
-* PronType=Rel	da_ddt	186
-* PronType=Rel	de_gsd	2024
-* PronType=Rel	de_hdt	24541
-* PronType=Rel	el_gdt	1015
-* PronType=Rel	en_ewt	1399
-* PronType=Rel	en_gum	1027
-* PronType=Rel	en_gumreddit	169
-* PronType=Rel	en_lines	577
-* PronType=Rel	en_partut	427
-* PronType=Rel	en_pud	173
-* PronType=Rel	es_ancora	9505
-* PronType=Rel	es_gsd	1701
-* PronType=Rel	es_pud	283
-* PronType=Rel	et_edt	4444
-* PronType=Rel	et_ewt	897
-* PronType=Rel	fa_seraji	47
-* PronType=Rel	fi_ftb	1092
-* PronType=Rel	fi_ood	143
-* PronType=Rel	fi_pud	231
-* PronType=Rel	fi_tdt	2093
-* PronType=Rel	fo_oft	31
-* PronType=Rel	fr_fqb	95
-* PronType=Rel	fr_ftb	7216
-* PronType=Rel	fr_gsd	3585
-* PronType=Rel	fr_partut	321
-* PronType=Rel	fr_pud	192
-* PronType=Rel	fr_sequoia	590
-* PronType=Rel	fr_spoken	37
-* PronType=Rel	fro_srcmf	3777
-* PronType=Rel	ga_idt	3066
-* PronType=Rel	gd_arcosg	1792
-* PronType=Rel	gl_treegal	626
-* PronType=Rel	got_proiel	1126
-* PronType=Rel	grc_proiel	3445
-* PronType=Rel	hi_pud	4
-* PronType=Rel	hr_set	3848
-* PronType=Rel	hsb_ufal	92
-* PronType=Rel	hu_szeged	454
-* PronType=Rel	hy_armtdp	366
-* PronType=Rel	hyw_armtdp	427
-* PronType=Rel	id_csui	9
-* PronType=Rel	id_gsd	3109
-* PronType=Rel	id_pud	606
-* PronType=Rel	it_isdt	3175
-* PronType=Rel	it_partut	574
-* PronType=Rel	it_postwita	948
-* PronType=Rel	it_twittiro	220
-* PronType=Rel	it_valico	83
-* PronType=Rel	it_vit	3400
-* PronType=Rel	kmr_mg	4
-* PronType=Rel	koi_uh	5
-* PronType=Rel	kpv_ikdp	3
-* PronType=Rel	kpv_lattice	40
-* PronType=Rel	la_ittb	11841
-* PronType=Rel	la_llct	4600
-* PronType=Rel	la_proiel	6722
-* PronType=Rel	la_udante	3251
-* PronType=Rel	lt_alksnis	719
-* PronType=Rel	lv_lvtb	2999
-* PronType=Rel	mdf_jr	6
-* PronType=Rel	mr_ufal	3
-* PronType=Rel	myv_jr	79
-* PronType=Rel	nl_alpino	1250
-* PronType=Rel	nl_lassysmall	467
-* PronType=Rel	no_bokmaal	3317
-* PronType=Rel	no_nynorsk	3434
-* PronType=Rel	no_nynorsklia	569
-* PronType=Rel	olo_kkpp	4
-* PronType=Rel	orv_rnc	200
-* PronType=Rel	orv_torot	1466
-* PronType=Rel	pcm_nsc	14
-* PronType=Rel	pl_lfg	182
-* PronType=Rel	pl_pdb	2516
-* PronType=Rel	pl_pud	172
-* PronType=Rel	pt_bosque	2980
-* PronType=Rel	pt_pud	5
-* PronType=Rel	qtd_sagt	154
-* PronType=Rel	quc_iu	17
-* PronType=Rel	ro_art	26
-* PronType=Rel	ro_nonstandard	14568
-* PronType=Rel	ro_rrt	3969
-* PronType=Rel	ro_simonero	2174
-* PronType=Rel	ru_taiga	1799
-* PronType=Rel	sa_ufal	40
-* PronType=Rel	sk_snk	1162
-* PronType=Rel	sl_ssj	196
-* PronType=Rel	sl_sst	44
-* PronType=Rel	sme_giella	265
-* PronType=Rel	sms_giellagas	11
-* PronType=Rel	sq_tsa	1
-* PronType=Rel	sr_set	1747
-* PronType=Rel	sv_lines	1253
-* PronType=Rel	sv_pud	394
-* PronType=Rel	sv_talbanken	1179
-* PronType=Rel	uk_iu	1340
-* PronType=Rel	wo_wtb	2307
-* PronType=Rel	yo_ytb	237
-* PronType=Tot	be_hse	1555
-* PronType=Tot	bg_btb	423
-* PronType=Tot	ca_ancora	430
-* PronType=Tot	cop_scriptorium	127
-* PronType=Tot	cs_cac	2254
-* PronType=Tot	cs_cltt	69
-* PronType=Tot	cs_fictree	806
-* PronType=Tot	cs_pdt	4464
-* PronType=Tot	cs_pud	29
-* PronType=Tot	de_hdt	29409
-* PronType=Tot	en_lines	2
-* PronType=Tot	en_partut	56
-* PronType=Tot	es_ancora	1551
-* PronType=Tot	es_gsd	1200
-* PronType=Tot	es_pud	60
-* PronType=Tot	et_edt	1905
-* PronType=Tot	et_ewt	412
-* PronType=Tot	fa_seraji	230
-* PronType=Tot	gun_dooley	11
-* PronType=Tot	gun_thomas	4
-* PronType=Tot	hr_set	462
-* PronType=Tot	hsb_ufal	29
-* PronType=Tot	hu_szeged	118
-* PronType=Tot	hy_armtdp	256
-* PronType=Tot	hyw_armtdp	261
-* PronType=Tot	id_csui	1
-* PronType=Tot	id_gsd	258
-* PronType=Tot	id_pud	58
-* PronType=Tot	it_isdt	411
-* PronType=Tot	it_partut	90
-* PronType=Tot	it_postwita	16
-* PronType=Tot	it_twittiro	23
-* PronType=Tot	it_valico	7
-* PronType=Tot	it_vit	10
-* PronType=Tot	kk_ktb	58
-* PronType=Tot	koi_uh	4
-* PronType=Tot	kpv_ikdp	4
-* PronType=Tot	kpv_lattice	9
-* PronType=Tot	la_llct	1890
-* PronType=Tot	la_udante	471
-* PronType=Tot	lt_alksnis	235
-* PronType=Tot	lv_lvtb	1951
-* PronType=Tot	mr_ufal	3
-* PronType=Tot	myv_jr	96
-* PronType=Tot	no_bokmaal	1000
-* PronType=Tot	no_nynorsk	975
-* PronType=Tot	no_nynorsklia	134
-* PronType=Tot	orv_rnc	264
-* PronType=Tot	pl_lfg	546
-* PronType=Tot	pl_pdb	1243
-* PronType=Tot	pl_pud	44
-* PronType=Tot	pt_bosque	459
-* PronType=Tot	pt_pud	8
-* PronType=Tot	ro_nonstandard	121
-* PronType=Tot	ro_rrt	48
-* PronType=Tot	ro_simonero	35
-* PronType=Tot	ru_taiga	2716
-* PronType=Tot	sa_ufal	5
-* PronType=Tot	sk_snk	369
-* PronType=Tot	sl_ssj	713
-* PronType=Tot	sl_sst	134
-* PronType=Tot	sms_giellagas	3
-* PronType=Tot	sq_tsa	5
-* PronType=Tot	sr_set	261
-* PronType=Tot	sv_lines	328
-* PronType=Tot	sv_talbanken	427
-* PronType=Tot	tl_trg	2
-* PronType=Tot	uk_iu	726
-* PronType=Tot	wo_wtb	202
+* `Add` (gun_dooley&nbsp;(5))
+* `Art` (af_afribooms&nbsp;(4541), aii_as&nbsp;(7), ca_ancora&nbsp;(68466), cop_scriptorium&nbsp;(4582), de_gsd&nbsp;(34635), de_hdt&nbsp;(427232), el_gdt&nbsp;(9845), en_ewt&nbsp;(16366), en_gum&nbsp;(9610), en_gumreddit&nbsp;(963), en_lines&nbsp;(7850), en_partut&nbsp;(3939), en_pronouns&nbsp;(180), en_pud&nbsp;(1885), es_ancora&nbsp;(72142), es_gsd&nbsp;(51173), es_pud&nbsp;(2985), fr_fqb&nbsp;(3134), fr_ftb&nbsp;(76209), fr_gsd&nbsp;(53497), fr_partut&nbsp;(3974), fr_pud&nbsp;(3451), fr_sequoia&nbsp;(9265), fr_spoken&nbsp;(3701), fro_srcmf&nbsp;(12128), ga_idt&nbsp;(9134), gl_treegal&nbsp;(3562), gv_cadhan&nbsp;(1151), he_htb&nbsp;(16531), hu_szeged&nbsp;(4936), hy_armtdp&nbsp;(260), hyw_armtdp&nbsp;(783), it_isdt&nbsp;(42714), it_partut&nbsp;(8153), it_postwita&nbsp;(12609), it_pud&nbsp;(1476), it_twittiro&nbsp;(3090), it_valico&nbsp;(830), it_vit&nbsp;(40249), la_ittb&nbsp;(8), no_bokmaal&nbsp;(6262), no_nynorsk&nbsp;(6750), no_nynorsklia&nbsp;(796), pcm_nsc&nbsp;(3173), pt_bosque&nbsp;(31093), pt_gsd&nbsp;(21347), pt_pud&nbsp;(4), qtd_sagt&nbsp;(969), quc_iu&nbsp;(1335), ro_nonstandard&nbsp;(6112), ro_rrt&nbsp;(406), ro_simonero&nbsp;(41), sv_lines&nbsp;(3826), sv_pud&nbsp;(6), sv_talbanken&nbsp;(3847), tr_gb&nbsp;(975), tr_imst&nbsp;(1031), wo_wtb&nbsp;(2300))
+* `Dem` (af_afribooms&nbsp;(451), aii_as&nbsp;(3), ar_nyuad&nbsp;(1), ar_padt&nbsp;(2125), be_hse&nbsp;(3026), bej_nsc&nbsp;(16), bg_btb&nbsp;(1927), bho_bhtb&nbsp;(9), bm_crb&nbsp;(198), br_keb&nbsp;(12), bxr_bdt&nbsp;(177), ca_ancora&nbsp;(3995), cop_scriptorium&nbsp;(463), cs_cac&nbsp;(10536), cs_cltt&nbsp;(425), cs_fictree&nbsp;(5010), cs_pdt&nbsp;(27233), cs_pud&nbsp;(373), cy_ccg&nbsp;(217), da_ddt&nbsp;(2328), de_gsd&nbsp;(1785), de_hdt&nbsp;(20602), el_gdt&nbsp;(620), en_ewt&nbsp;(3184), en_gum&nbsp;(1633), en_gumreddit&nbsp;(294), en_lines&nbsp;(1069), en_partut&nbsp;(603), en_pud&nbsp;(177), es_ancora&nbsp;(4036), es_gsd&nbsp;(2912), es_pud&nbsp;(150), ess_sli&nbsp;(9), et_edt&nbsp;(8713), et_ewt&nbsp;(2197), fa_seraji&nbsp;(1624), fi_ftb&nbsp;(6438), fi_ood&nbsp;(375), fi_pud&nbsp;(389), fi_tdt&nbsp;(5156), fo_oft&nbsp;(31), fr_fqb&nbsp;(16), fr_ftb&nbsp;(4687), fr_gsd&nbsp;(3846), fr_partut&nbsp;(513), fr_pud&nbsp;(118), fr_sequoia&nbsp;(554), fr_spoken&nbsp;(1093), fro_srcmf&nbsp;(6189), ga_idt&nbsp;(1934), gl_treegal&nbsp;(214), grc_proiel&nbsp;(28454), gub_tudet&nbsp;(45), gun_dooley&nbsp;(38), gun_thomas&nbsp;(25), gv_cadhan&nbsp;(112), he_htb&nbsp;(1198), hi_hdtb&nbsp;(4730), hr_set&nbsp;(3082), hsb_ufal&nbsp;(205), hu_szeged&nbsp;(1007), hy_armtdp&nbsp;(1136), hyw_armtdp&nbsp;(943), id_csui&nbsp;(383), id_gsd&nbsp;(2048), id_pud&nbsp;(559), is_icepahc&nbsp;(19509), is_pud&nbsp;(205), it_isdt&nbsp;(1912), it_partut&nbsp;(529), it_postwita&nbsp;(740), it_pud&nbsp;(16), it_twittiro&nbsp;(155), it_valico&nbsp;(64), it_vit&nbsp;(2094), kfm_aha&nbsp;(1), kk_ktb&nbsp;(233), kmr_mg&nbsp;(294), koi_uh&nbsp;(6), kpv_ikdp&nbsp;(27), kpv_lattice&nbsp;(68), krl_kkpp&nbsp;(73), la_ittb&nbsp;(14489), la_llct&nbsp;(12320), la_udante&nbsp;(1666), lt_alksnis&nbsp;(973), lv_lvtb&nbsp;(7097), lzh_kyoto&nbsp;(2457), mdf_jr&nbsp;(26), mr_ufal&nbsp;(82), myu_tudet&nbsp;(1), myv_jr&nbsp;(191), nl_alpino&nbsp;(794), nl_lassysmall&nbsp;(208), no_bokmaal&nbsp;(6054), no_nynorsk&nbsp;(7037), no_nynorsklia&nbsp;(813), nyq_aha&nbsp;(1), olo_kkpp&nbsp;(25), orv_rnc&nbsp;(604), pcm_nsc&nbsp;(2030), pl_lfg&nbsp;(3094), pl_pdb&nbsp;(6278), pl_pud&nbsp;(284), pt_bosque&nbsp;(2018), qtd_sagt&nbsp;(535), quc_iu&nbsp;(40), ro_art&nbsp;(3), ro_nonstandard&nbsp;(8975), ro_rrt&nbsp;(2519), ro_simonero&nbsp;(1942), ru_taiga&nbsp;(5369), sa_ufal&nbsp;(160), sk_snk&nbsp;(2260), sl_ssj&nbsp;(1694), sl_sst&nbsp;(1059), sme_giella&nbsp;(645), sms_giellagas&nbsp;(63), soj_aha&nbsp;(1), sq_tsa&nbsp;(14), sr_set&nbsp;(1352), sv_lines&nbsp;(407), sv_talbanken&nbsp;(504), tl_trg&nbsp;(10), tr_boun&nbsp;(81), tr_framenet&nbsp;(79), tr_gb&nbsp;(193), tr_imst&nbsp;(359), tr_kenet&nbsp;(1089), tr_penn&nbsp;(489), tr_tourism&nbsp;(54), ug_udt&nbsp;(588), uk_iu&nbsp;(2909), ur_udtb&nbsp;(1903), wbp_ufal&nbsp;(1), wo_wtb&nbsp;(860), yo_ytb&nbsp;(135))
+* `Emp` (aqz_tudet&nbsp;(5), be_hse&nbsp;(450), bm_crb&nbsp;(218), cs_cac&nbsp;(283), cs_cltt&nbsp;(4), cs_fictree&nbsp;(217), cs_pdt&nbsp;(700), cs_pud&nbsp;(7), cy_ccg&nbsp;(4), ga_idt&nbsp;(128), gv_cadhan&nbsp;(103), he_htb&nbsp;(42), hy_armtdp&nbsp;(395), hyw_armtdp&nbsp;(689), id_pud&nbsp;(17), la_ittb&nbsp;(773), la_udante&nbsp;(417), lt_alksnis&nbsp;(84), pt_bosque&nbsp;(54), ro_nonstandard&nbsp;(190), ro_rrt&nbsp;(53), ro_simonero&nbsp;(6), ru_taiga&nbsp;(449), sk_snk&nbsp;(60), sq_tsa&nbsp;(4), tl_trg&nbsp;(1), yo_ytb&nbsp;(15))
+* `Exc` (be_hse&nbsp;(2), fr_gsd&nbsp;(6), fr_partut&nbsp;(1), hy_armtdp&nbsp;(27), hyw_armtdp&nbsp;(35), it_isdt&nbsp;(5), it_postwita&nbsp;(125), it_twittiro&nbsp;(22), it_valico&nbsp;(1), it_vit&nbsp;(13), ru_taiga&nbsp;(47))
+* `Ind` (af_afribooms&nbsp;(672), be_hse&nbsp;(621), bg_btb&nbsp;(542), bho_bhtb&nbsp;(35), bxr_bdt&nbsp;(38), ca_ancora&nbsp;(14074), cop_scriptorium&nbsp;(130), cs_cac&nbsp;(2001), cs_cltt&nbsp;(13), cs_fictree&nbsp;(1127), cs_pdt&nbsp;(5761), cs_pud&nbsp;(90), cy_ccg&nbsp;(65), da_ddt&nbsp;(3394), de_gsd&nbsp;(2687), de_hdt&nbsp;(29409), el_gdt&nbsp;(353), en_lines&nbsp;(3), en_partut&nbsp;(357), en_pronouns&nbsp;(5), es_ancora&nbsp;(4471), es_gsd&nbsp;(3321), es_pud&nbsp;(124), et_edt&nbsp;(3405), et_ewt&nbsp;(954), fa_seraji&nbsp;(169), fi_ftb&nbsp;(3408), fi_ood&nbsp;(259), fi_pud&nbsp;(175), fi_tdt&nbsp;(2534), fr_gsd&nbsp;(2357), fr_partut&nbsp;(303), fr_pud&nbsp;(54), fr_spoken&nbsp;(442), fro_srcmf&nbsp;(3523), ga_idt&nbsp;(382), gl_treegal&nbsp;(417), gub_tudet&nbsp;(8), gun_dooley&nbsp;(10), gun_thomas&nbsp;(3), he_htb&nbsp;(30), hi_hdtb&nbsp;(2561), hr_set&nbsp;(575), hsb_ufal&nbsp;(82), hu_szeged&nbsp;(274), hy_armtdp&nbsp;(242), hyw_armtdp&nbsp;(248), id_csui&nbsp;(31), id_gsd&nbsp;(1138), id_pud&nbsp;(219), is_icepahc&nbsp;(19244), is_pud&nbsp;(241), it_isdt&nbsp;(2606), it_partut&nbsp;(592), it_postwita&nbsp;(1503), it_pud&nbsp;(2), it_twittiro&nbsp;(279), it_valico&nbsp;(78), it_vit&nbsp;(2022), kk_ktb&nbsp;(40), kmr_mg&nbsp;(331), koi_uh&nbsp;(3), kpv_ikdp&nbsp;(9), kpv_lattice&nbsp;(27), krl_kkpp&nbsp;(43), la_ittb&nbsp;(13858), la_llct&nbsp;(2624), la_udante&nbsp;(921), lt_alksnis&nbsp;(650), lv_lvtb&nbsp;(1814), mdf_jr&nbsp;(13), mr_ufal&nbsp;(31), myu_tudet&nbsp;(1), myv_jr&nbsp;(63), nl_alpino&nbsp;(783), nl_lassysmall&nbsp;(243), no_bokmaal&nbsp;(985), no_nynorsk&nbsp;(811), no_nynorsklia&nbsp;(338), olo_kkpp&nbsp;(2), orv_rnc&nbsp;(12), pl_lfg&nbsp;(959), pl_pdb&nbsp;(1954), pl_pud&nbsp;(110), pt_bosque&nbsp;(1488), qtd_sagt&nbsp;(385), ro_art&nbsp;(13), ro_nonstandard&nbsp;(12512), ro_rrt&nbsp;(6737), ro_simonero&nbsp;(3184), ru_taiga&nbsp;(944), sa_ufal&nbsp;(11), sk_snk&nbsp;(585), sl_ssj&nbsp;(1124), sl_sst&nbsp;(314), sme_giella&nbsp;(342), sq_tsa&nbsp;(6), sr_set&nbsp;(262), sv_lines&nbsp;(685), sv_pud&nbsp;(2), sv_talbanken&nbsp;(1207), ta_mwtt&nbsp;(3), ta_ttb&nbsp;(8), tl_trg&nbsp;(8), tpn_tudet&nbsp;(16), tr_boun&nbsp;(9), tr_gb&nbsp;(76), tr_imst&nbsp;(158), tr_pud&nbsp;(1), uk_iu&nbsp;(1122), ur_udtb&nbsp;(479), wo_wtb&nbsp;(214), yo_ytb&nbsp;(55))
+* `Int` (af_afribooms&nbsp;(20), aii_as&nbsp;(1), be_hse&nbsp;(893), bg_btb&nbsp;(567), bho_bhtb&nbsp;(5), br_keb&nbsp;(35), bxr_bdt&nbsp;(40), ca_ancora&nbsp;(348), cop_scriptorium&nbsp;(165), cs_cac&nbsp;(6235), cs_cltt&nbsp;(489), cs_fictree&nbsp;(2933), cs_pdt&nbsp;(18858), cs_pud&nbsp;(275), cu_proiel&nbsp;(765), cy_ccg&nbsp;(34), da_ddt&nbsp;(186), de_gsd&nbsp;(508), de_hdt&nbsp;(8120), el_gdt&nbsp;(21), en_ewt&nbsp;(1790), en_gum&nbsp;(700), en_gumreddit&nbsp;(145), en_lines&nbsp;(487), en_partut&nbsp;(24), en_pud&nbsp;(89), es_ancora&nbsp;(9505), es_gsd&nbsp;(1701), es_pud&nbsp;(283), ess_sli&nbsp;(53), et_edt&nbsp;(4243), et_ewt&nbsp;(873), eu_bdt&nbsp;(168), fa_seraji&nbsp;(348), fi_ftb&nbsp;(1109), fi_ood&nbsp;(44), fi_pud&nbsp;(25), fi_tdt&nbsp;(377), fo_oft&nbsp;(1), fr_fqb&nbsp;(1678), fr_ftb&nbsp;(349), fr_gsd&nbsp;(98), fr_partut&nbsp;(8), fr_pud&nbsp;(10), fr_sequoia&nbsp;(72), fr_spoken&nbsp;(11), fro_srcmf&nbsp;(194), ga_idt&nbsp;(169), gd_arcosg&nbsp;(621), gl_treegal&nbsp;(42), got_proiel&nbsp;(589), grc_proiel&nbsp;(1005), gub_tudet&nbsp;(2), gun_dooley&nbsp;(25), gun_thomas&nbsp;(12), he_htb&nbsp;(407), hi_hdtb&nbsp;(326), hr_set&nbsp;(3848), hsb_ufal&nbsp;(5), hu_szeged&nbsp;(87), hy_armtdp&nbsp;(382), hyw_armtdp&nbsp;(163), id_gsd&nbsp;(572), id_pud&nbsp;(12), is_icepahc&nbsp;(2567), is_pud&nbsp;(24), it_isdt&nbsp;(1844), it_partut&nbsp;(27), it_postwita&nbsp;(291), it_twittiro&nbsp;(65), it_valico&nbsp;(14), it_vit&nbsp;(433), kk_ktb&nbsp;(108), kmr_mg&nbsp;(19), ko_pud&nbsp;(22), koi_uh&nbsp;(9), kpv_ikdp&nbsp;(12), kpv_lattice&nbsp;(64), la_ittb&nbsp;(421), la_llct&nbsp;(2), la_proiel&nbsp;(1744), la_udante&nbsp;(88), lt_alksnis&nbsp;(719), lv_lvtb&nbsp;(1896), lzh_kyoto&nbsp;(658), mdf_jr&nbsp;(10), mr_ufal&nbsp;(29), myv_jr&nbsp;(226), nl_alpino&nbsp;(280), nl_lassysmall&nbsp;(51), no_bokmaal&nbsp;(591), no_nynorsk&nbsp;(462), no_nynorsklia&nbsp;(180), orv_rnc&nbsp;(71), orv_torot&nbsp;(490), pcm_nsc&nbsp;(1382), pl_lfg&nbsp;(1159), pl_pdb&nbsp;(2037), pl_pud&nbsp;(57), pt_bosque&nbsp;(130), pt_pud&nbsp;(1), qtd_sagt&nbsp;(51), quc_iu&nbsp;(98), ro_art&nbsp;(26), ro_nonstandard&nbsp;(14568), ro_rrt&nbsp;(3969), ro_simonero&nbsp;(2174), ru_taiga&nbsp;(846), sa_ufal&nbsp;(30), sk_snk&nbsp;(1162), sl_ssj&nbsp;(677), sl_sst&nbsp;(349), sme_giella&nbsp;(50), sms_giellagas&nbsp;(10), sq_tsa&nbsp;(3), sr_set&nbsp;(1747), sv_lines&nbsp;(464), sv_pud&nbsp;(394), sv_talbanken&nbsp;(192), ta_ttb&nbsp;(6), th_pud&nbsp;(15), tl_trg&nbsp;(7), tpn_tudet&nbsp;(14), tr_framenet&nbsp;(59), tr_gb&nbsp;(381), tr_kenet&nbsp;(1100), tr_penn&nbsp;(221), tr_pud&nbsp;(24), tr_tourism&nbsp;(46), ug_udt&nbsp;(82), uk_iu&nbsp;(183), ur_udtb&nbsp;(91), wo_wtb&nbsp;(112), yo_ytb&nbsp;(9))
+* `Neg` (be_hse&nbsp;(220), bg_btb&nbsp;(192), bho_bhtb&nbsp;(8), cs_cac&nbsp;(417), cs_cltt&nbsp;(6), cs_fictree&nbsp;(717), cs_pdt&nbsp;(2291), cs_pud&nbsp;(26), de_gsd&nbsp;(298), de_hdt&nbsp;(29409), en_lines&nbsp;(2), en_partut&nbsp;(18), es_ancora&nbsp;(539), es_gsd&nbsp;(246), es_pud&nbsp;(2), fa_seraji&nbsp;(9), fr_gsd&nbsp;(212), fr_partut&nbsp;(17), fr_pud&nbsp;(16), fr_spoken&nbsp;(14), gun_dooley&nbsp;(1), hi_hdtb&nbsp;(2198), hr_set&nbsp;(192), hsb_ufal&nbsp;(10), hu_szeged&nbsp;(459), hy_armtdp&nbsp;(25), hyw_armtdp&nbsp;(2), it_isdt&nbsp;(1971), it_partut&nbsp;(328), it_postwita&nbsp;(1453), it_twittiro&nbsp;(299), it_valico&nbsp;(92), it_vit&nbsp;(1948), kk_ktb&nbsp;(20), la_ittb&nbsp;(569), la_llct&nbsp;(67), la_udante&nbsp;(149), lt_alksnis&nbsp;(72), lv_lvtb&nbsp;(697), no_bokmaal&nbsp;(348), no_nynorsk&nbsp;(228), no_nynorsklia&nbsp;(21), orv_rnc&nbsp;(37), pl_lfg&nbsp;(419), pl_pdb&nbsp;(635), pl_pud&nbsp;(11), pt_bosque&nbsp;(45), qtd_sagt&nbsp;(53), ro_art&nbsp;(3), ro_nonstandard&nbsp;(787), ro_rrt&nbsp;(338), ro_simonero&nbsp;(49), ru_taiga&nbsp;(497), sk_snk&nbsp;(303), sl_ssj&nbsp;(146), sl_sst&nbsp;(70), sr_set&nbsp;(66), sv_lines&nbsp;(176), sv_talbanken&nbsp;(94), tr_gb&nbsp;(6), uk_iu&nbsp;(238), ur_udtb&nbsp;(805), wo_wtb&nbsp;(95))
+* `Prs` (af_afribooms&nbsp;(2144), aii_as&nbsp;(26), apu_ufpa&nbsp;(57), aqz_tudet&nbsp;(25), ar_nyuad&nbsp;(30458), ar_padt&nbsp;(10877), be_hse&nbsp;(7961), bg_btb&nbsp;(8614), bho_bhtb&nbsp;(221), bm_crb&nbsp;(1864), br_keb&nbsp;(175), bxr_bdt&nbsp;(132), ca_ancora&nbsp;(14595), cop_scriptorium&nbsp;(8377), cs_cac&nbsp;(17499), cs_cltt&nbsp;(770), cs_fictree&nbsp;(14184), cs_pdt&nbsp;(50557), cs_pud&nbsp;(700), cu_proiel&nbsp;(6348), cy_ccg&nbsp;(1999), da_ddt&nbsp;(5598), de_gsd&nbsp;(9990), de_hdt&nbsp;(72578), de_pud&nbsp;(226), el_gdt&nbsp;(939), en_ewt&nbsp;(18686), en_gum&nbsp;(7897), en_gumreddit&nbsp;(1484), en_lines&nbsp;(5599), en_partut&nbsp;(1906), en_pronouns&nbsp;(320), en_pud&nbsp;(742), es_ancora&nbsp;(18009), es_gsd&nbsp;(14346), es_pud&nbsp;(771), et_edt&nbsp;(11719), et_ewt&nbsp;(2621), eu_bdt&nbsp;(525), fa_perdt&nbsp;(5697), fa_seraji&nbsp;(3615), fi_ftb&nbsp;(4839), fi_ood&nbsp;(182), fi_pud&nbsp;(325), fi_tdt&nbsp;(2873), fo_oft&nbsp;(201), fr_fqb&nbsp;(2), fr_ftb&nbsp;(517), fr_gsd&nbsp;(15717), fr_partut&nbsp;(1282), fr_pud&nbsp;(966), fr_sequoia&nbsp;(56), fr_spoken&nbsp;(3161), fro_srcmf&nbsp;(20547), ga_idt&nbsp;(207), gl_treegal&nbsp;(766), got_proiel&nbsp;(4684), grc_proiel&nbsp;(14364), gub_tudet&nbsp;(2), gun_dooley&nbsp;(1040), gun_thomas&nbsp;(78), he_htb&nbsp;(5848), hi_hdtb&nbsp;(14436), hi_pud&nbsp;(289), hr_set&nbsp;(5987), hsb_ufal&nbsp;(362), hu_szeged&nbsp;(308), hy_armtdp&nbsp;(1168), hyw_armtdp&nbsp;(507), id_csui&nbsp;(385), id_gsd&nbsp;(1136), id_pud&nbsp;(635), is_icepahc&nbsp;(106810), is_pud&nbsp;(806), it_isdt&nbsp;(7260), it_partut&nbsp;(1355), it_postwita&nbsp;(4721), it_pud&nbsp;(227), it_twittiro&nbsp;(1009), it_valico&nbsp;(452), it_vit&nbsp;(5492), kfm_aha&nbsp;(7), kk_ktb&nbsp;(284), kmr_mg&nbsp;(760), koi_uh&nbsp;(63), kpv_ikdp&nbsp;(125), kpv_lattice&nbsp;(316), krl_kkpp&nbsp;(127), la_ittb&nbsp;(13064), la_llct&nbsp;(20938), la_proiel&nbsp;(11718), la_udante&nbsp;(1417), lt_alksnis&nbsp;(1567), lv_lvtb&nbsp;(6988), lzh_kyoto&nbsp;(10197), mdf_jr&nbsp;(89), mpu_tudet&nbsp;(8), mr_ufal&nbsp;(13), myu_tudet&nbsp;(1), myv_jr&nbsp;(456), nl_alpino&nbsp;(6338), nl_lassysmall&nbsp;(2161), no_bokmaal&nbsp;(22526), no_nynorsk&nbsp;(19454), no_nynorsklia&nbsp;(7717), nyq_aha&nbsp;(8), olo_kkpp&nbsp;(40), orv_rnc&nbsp;(1890), orv_torot&nbsp;(10107), pcm_nsc&nbsp;(14751), pl_lfg&nbsp;(7874), pl_pdb&nbsp;(14357), pl_pud&nbsp;(588), pt_bosque&nbsp;(4057), pt_gsd&nbsp;(2), pt_pud&nbsp;(240), qtd_sagt&nbsp;(2705), quc_iu&nbsp;(112), ro_art&nbsp;(61), ro_nonstandard&nbsp;(50752), ro_rrt&nbsp;(11104), ro_simonero&nbsp;(4761), ru_taiga&nbsp;(8171), sa_ufal&nbsp;(69), sk_snk&nbsp;(7075), sl_ssj&nbsp;(6049), sl_sst&nbsp;(1542), sme_giella&nbsp;(1537), sms_giellagas&nbsp;(112), soj_aha&nbsp;(5), sq_tsa&nbsp;(15), sr_set&nbsp;(2848), sv_lines&nbsp;(8424), sv_pud&nbsp;(3), sv_talbanken&nbsp;(4131), ta_mwtt&nbsp;(45), ta_ttb&nbsp;(222), tl_trg&nbsp;(52), tpn_tudet&nbsp;(23), tr_boun&nbsp;(96), tr_framenet&nbsp;(358), tr_gb&nbsp;(656), tr_imst&nbsp;(1189), tr_kenet&nbsp;(2304), tr_penn&nbsp;(315), tr_tourism&nbsp;(599), ug_udt&nbsp;(1358), uk_iu&nbsp;(4850), ur_udtb&nbsp;(5293), wbp_ufal&nbsp;(22), wo_wtb&nbsp;(3782), yo_ytb&nbsp;(1008))
+* `Rcp` (af_afribooms&nbsp;(6), bm_crb&nbsp;(17), cop_scriptorium&nbsp;(40), cu_proiel&nbsp;(39), cy_ccg&nbsp;(30), da_ddt&nbsp;(38), de_pud&nbsp;(144), et_edt&nbsp;(55), et_ewt&nbsp;(16), fa_seraji&nbsp;(102), fi_ftb&nbsp;(82), fi_ood&nbsp;(10), fi_pud&nbsp;(11), fi_tdt&nbsp;(185), got_proiel&nbsp;(10), grc_proiel&nbsp;(124), hu_szeged&nbsp;(15), hy_armtdp&nbsp;(27), hyw_armtdp&nbsp;(31), kk_ktb&nbsp;(1), kmr_mg&nbsp;(1), kpv_lattice&nbsp;(2), la_proiel&nbsp;(6), la_udante&nbsp;(9), mdf_jr&nbsp;(1), myv_jr&nbsp;(6), nl_alpino&nbsp;(62), nl_lassysmall&nbsp;(22), no_bokmaal&nbsp;(73), no_nynorsk&nbsp;(46), no_nynorsklia&nbsp;(5), orv_torot&nbsp;(36), ru_taiga&nbsp;(40), sme_giella&nbsp;(8), sv_lines&nbsp;(36), sv_talbanken&nbsp;(43), tr_framenet&nbsp;(15), tr_gb&nbsp;(18), tr_kenet&nbsp;(150), tr_penn&nbsp;(14), tr_pud&nbsp;(5), tr_tourism&nbsp;(1))
+* `Rel` (af_afribooms&nbsp;(1225), ar_nyuad&nbsp;(294), ar_padt&nbsp;(2537), be_hse&nbsp;(2255), bg_btb&nbsp;(1485), bm_crb&nbsp;(80), br_keb&nbsp;(12), ca_ancora&nbsp;(8816), cs_cac&nbsp;(7831), cs_cltt&nbsp;(586), cs_fictree&nbsp;(3131), cs_pdt&nbsp;(22690), cs_pud&nbsp;(326), cu_proiel&nbsp;(1091), cy_ccg&nbsp;(112), da_ddt&nbsp;(186), de_gsd&nbsp;(2024), de_hdt&nbsp;(24541), el_gdt&nbsp;(1015), en_ewt&nbsp;(1399), en_gum&nbsp;(1027), en_gumreddit&nbsp;(169), en_lines&nbsp;(577), en_partut&nbsp;(427), en_pud&nbsp;(173), es_ancora&nbsp;(9505), es_gsd&nbsp;(1701), es_pud&nbsp;(283), et_edt&nbsp;(4444), et_ewt&nbsp;(897), fa_seraji&nbsp;(47), fi_ftb&nbsp;(1092), fi_ood&nbsp;(143), fi_pud&nbsp;(231), fi_tdt&nbsp;(2093), fo_oft&nbsp;(31), fr_fqb&nbsp;(95), fr_ftb&nbsp;(7216), fr_gsd&nbsp;(3585), fr_partut&nbsp;(321), fr_pud&nbsp;(192), fr_sequoia&nbsp;(590), fr_spoken&nbsp;(37), fro_srcmf&nbsp;(3777), ga_idt&nbsp;(3066), gd_arcosg&nbsp;(1792), gl_treegal&nbsp;(626), got_proiel&nbsp;(1126), grc_proiel&nbsp;(3445), hi_pud&nbsp;(4), hr_set&nbsp;(3848), hsb_ufal&nbsp;(92), hu_szeged&nbsp;(454), hy_armtdp&nbsp;(366), hyw_armtdp&nbsp;(427), id_csui&nbsp;(9), id_gsd&nbsp;(3109), id_pud&nbsp;(606), it_isdt&nbsp;(3175), it_partut&nbsp;(574), it_postwita&nbsp;(948), it_twittiro&nbsp;(220), it_valico&nbsp;(83), it_vit&nbsp;(3400), kmr_mg&nbsp;(4), koi_uh&nbsp;(5), kpv_ikdp&nbsp;(3), kpv_lattice&nbsp;(40), la_ittb&nbsp;(11841), la_llct&nbsp;(4600), la_proiel&nbsp;(6722), la_udante&nbsp;(3251), lt_alksnis&nbsp;(719), lv_lvtb&nbsp;(2999), mdf_jr&nbsp;(6), mr_ufal&nbsp;(3), myv_jr&nbsp;(79), nl_alpino&nbsp;(1250), nl_lassysmall&nbsp;(467), no_bokmaal&nbsp;(3317), no_nynorsk&nbsp;(3434), no_nynorsklia&nbsp;(569), olo_kkpp&nbsp;(4), orv_rnc&nbsp;(200), orv_torot&nbsp;(1466), pcm_nsc&nbsp;(14), pl_lfg&nbsp;(182), pl_pdb&nbsp;(2516), pl_pud&nbsp;(172), pt_bosque&nbsp;(2980), pt_pud&nbsp;(5), qtd_sagt&nbsp;(154), quc_iu&nbsp;(17), ro_art&nbsp;(26), ro_nonstandard&nbsp;(14568), ro_rrt&nbsp;(3969), ro_simonero&nbsp;(2174), ru_taiga&nbsp;(1799), sa_ufal&nbsp;(40), sk_snk&nbsp;(1162), sl_ssj&nbsp;(196), sl_sst&nbsp;(44), sme_giella&nbsp;(265), sms_giellagas&nbsp;(11), sq_tsa&nbsp;(1), sr_set&nbsp;(1747), sv_lines&nbsp;(1253), sv_pud&nbsp;(394), sv_talbanken&nbsp;(1179), uk_iu&nbsp;(1340), wo_wtb&nbsp;(2307), yo_ytb&nbsp;(237))
+* `Tot` (be_hse&nbsp;(1555), bg_btb&nbsp;(423), ca_ancora&nbsp;(430), cop_scriptorium&nbsp;(127), cs_cac&nbsp;(2254), cs_cltt&nbsp;(69), cs_fictree&nbsp;(806), cs_pdt&nbsp;(4464), cs_pud&nbsp;(29), de_hdt&nbsp;(29409), en_lines&nbsp;(2), en_partut&nbsp;(56), es_ancora&nbsp;(1551), es_gsd&nbsp;(1200), es_pud&nbsp;(60), et_edt&nbsp;(1905), et_ewt&nbsp;(412), fa_seraji&nbsp;(230), gun_dooley&nbsp;(11), gun_thomas&nbsp;(4), hr_set&nbsp;(462), hsb_ufal&nbsp;(29), hu_szeged&nbsp;(118), hy_armtdp&nbsp;(256), hyw_armtdp&nbsp;(261), id_csui&nbsp;(1), id_gsd&nbsp;(258), id_pud&nbsp;(58), it_isdt&nbsp;(411), it_partut&nbsp;(90), it_postwita&nbsp;(16), it_twittiro&nbsp;(23), it_valico&nbsp;(7), it_vit&nbsp;(10), kk_ktb&nbsp;(58), koi_uh&nbsp;(4), kpv_ikdp&nbsp;(4), kpv_lattice&nbsp;(9), la_llct&nbsp;(1890), la_udante&nbsp;(471), lt_alksnis&nbsp;(235), lv_lvtb&nbsp;(1951), mr_ufal&nbsp;(3), myv_jr&nbsp;(96), no_bokmaal&nbsp;(1000), no_nynorsk&nbsp;(975), no_nynorsklia&nbsp;(134), orv_rnc&nbsp;(264), pl_lfg&nbsp;(546), pl_pdb&nbsp;(1243), pl_pud&nbsp;(44), pt_bosque&nbsp;(459), pt_pud&nbsp;(8), ro_nonstandard&nbsp;(121), ro_rrt&nbsp;(48), ro_simonero&nbsp;(35), ru_taiga&nbsp;(2716), sa_ufal&nbsp;(5), sk_snk&nbsp;(369), sl_ssj&nbsp;(713), sl_sst&nbsp;(134), sms_giellagas&nbsp;(3), sq_tsa&nbsp;(5), sr_set&nbsp;(261), sv_lines&nbsp;(328), sv_talbanken&nbsp;(427), tl_trg&nbsp;(2), uk_iu&nbsp;(726), wo_wtb&nbsp;(202))
 
 ## Proper
 
 [Proper]()
 
-* Proper=Yes	la_ittb	2
-* Proper=Yes	la_llct	4
-* Proper=Yes	la_udante	791
+* `Yes` (la_ittb&nbsp;(2), la_llct&nbsp;(4), la_udante&nbsp;(791))
 
 ## Pun
 
 [Pun]()
 
-* Pun=No	pl_pdb	510
-* Pun=No	pl_pud	5
-* Pun=Yes	pl_pdb	1278
-* Pun=Yes	pl_pud	146
+* `No` (pl_pdb&nbsp;(510), pl_pud&nbsp;(5))
+* `Yes` (pl_pdb&nbsp;(1278), pl_pud&nbsp;(146))
 
 ## PunctSide
 
 [PunctSide]()
 
-* PunctSide=Fin	ca_ancora	1936
-* PunctSide=Fin	es_ancora	2272
-* PunctSide=Fin	fi_ftb	228
-* PunctSide=Fin	is_pud	119
-* PunctSide=Fin	pl_lfg	82
-* PunctSide=Fin	pl_pdb	984
-* PunctSide=Fin	pl_pud	145
-* PunctSide=Ini	ca_ancora	1850
-* PunctSide=Ini	es_ancora	2145
-* PunctSide=Ini	fi_ftb	228
-* PunctSide=Ini	is_pud	117
-* PunctSide=Ini	pl_lfg	61
-* PunctSide=Ini	pl_pdb	943
-* PunctSide=Ini	pl_pud	145
+* `Fin` (ca_ancora&nbsp;(1936), es_ancora&nbsp;(2272), fi_ftb&nbsp;(228), is_pud&nbsp;(119), pl_lfg&nbsp;(82), pl_pdb&nbsp;(984), pl_pud&nbsp;(145))
+* `Ini` (ca_ancora&nbsp;(1850), es_ancora&nbsp;(2145), fi_ftb&nbsp;(228), is_pud&nbsp;(117), pl_lfg&nbsp;(61), pl_pdb&nbsp;(943), pl_pud&nbsp;(145))
 
 ## PunctType
 
 [PunctType]()
 
-* PunctType=Brck	ca_ancora	3399
-* PunctType=Brck	de_hdt	78773
-* PunctType=Brck	es_ancora	3651
-* PunctType=Brck	pl_lfg	20
-* PunctType=Brck	pl_pdb	1630
-* PunctType=Brck	pl_pud	68
-* PunctType=Colo	ca_ancora	547
-* PunctType=Colo	es_ancora	770
-* PunctType=Colo	pl_pdb	1174
-* PunctType=Colo	pl_pud	22
-* PunctType=Comm	ca_ancora	26630
-* PunctType=Comm	de_hdt	140408
-* PunctType=Comm	es_ancora	30306
-* PunctType=Comm	pl_lfg	4518
-* PunctType=Comm	pl_pdb	21532
-* PunctType=Comm	pl_pud	1073
-* PunctType=Comm	ta_ttb	400
-* PunctType=Dash	ca_ancora	938
-* PunctType=Dash	es_ancora	2910
-* PunctType=Dash	pl_lfg	2793
-* PunctType=Dash	pl_pdb	5972
-* PunctType=Dash	pl_pud	118
-* PunctType=Dash	uk_iu	2043
-* PunctType=Elip	pl_pdb	19
-* PunctType=Elip	pl_pud	3
-* PunctType=Excl	ca_ancora	30
-* PunctType=Excl	es_ancora	126
-* PunctType=Excl	pl_lfg	582
-* PunctType=Excl	pl_pdb	430
-* PunctType=Peri	ca_ancora	16453
-* PunctType=Peri	de_hdt	177075
-* PunctType=Peri	es_ancora	17531
-* PunctType=Peri	lt_alksnis	5
-* PunctType=Peri	pl_lfg	15898
-* PunctType=Peri	pl_pdb	22887
-* PunctType=Peri	pl_pud	1119
-* PunctType=Peri	ta_mwtt	515
-* PunctType=Peri	ta_ttb	600
-* PunctType=Qest	ca_ancora	337
-* PunctType=Qest	es_ancora	640
-* PunctType=Qest	pl_lfg	1851
-* PunctType=Qest	pl_pdb	1205
-* PunctType=Qest	pl_pud	14
-* PunctType=Quot	ca_ancora	4305
-* PunctType=Quot	es_ancora	9182
-* PunctType=Quot	pl_lfg	123
-* PunctType=Quot	pl_pdb	2832
-* PunctType=Quot	pl_pud	222
-* PunctType=Quot	uk_iu	2136
-* PunctType=Semi	ca_ancora	424
-* PunctType=Semi	es_ancora	305
-* PunctType=Semi	pl_lfg	12
-* PunctType=Semi	pl_pdb	183
-* PunctType=Semi	pl_pud	17
-* PunctType=Slsh	pl_pdb	27
-* PunctType=Slsh	pl_pud	1
+* `Brck` (ca_ancora&nbsp;(3399), de_hdt&nbsp;(78773), es_ancora&nbsp;(3651), pl_lfg&nbsp;(20), pl_pdb&nbsp;(1630), pl_pud&nbsp;(68))
+* `Colo` (ca_ancora&nbsp;(547), es_ancora&nbsp;(770), pl_pdb&nbsp;(1174), pl_pud&nbsp;(22))
+* `Comm` (ca_ancora&nbsp;(26630), de_hdt&nbsp;(140408), es_ancora&nbsp;(30306), pl_lfg&nbsp;(4518), pl_pdb&nbsp;(21532), pl_pud&nbsp;(1073), ta_ttb&nbsp;(400))
+* `Dash` (ca_ancora&nbsp;(938), es_ancora&nbsp;(2910), pl_lfg&nbsp;(2793), pl_pdb&nbsp;(5972), pl_pud&nbsp;(118), uk_iu&nbsp;(2043))
+* `Elip` (pl_pdb&nbsp;(19), pl_pud&nbsp;(3))
+* `Excl` (ca_ancora&nbsp;(30), es_ancora&nbsp;(126), pl_lfg&nbsp;(582), pl_pdb&nbsp;(430))
+* `Peri` (ca_ancora&nbsp;(16453), de_hdt&nbsp;(177075), es_ancora&nbsp;(17531), lt_alksnis&nbsp;(5), pl_lfg&nbsp;(15898), pl_pdb&nbsp;(22887), pl_pud&nbsp;(1119), ta_mwtt&nbsp;(515), ta_ttb&nbsp;(600))
+* `Qest` (ca_ancora&nbsp;(337), es_ancora&nbsp;(640), pl_lfg&nbsp;(1851), pl_pdb&nbsp;(1205), pl_pud&nbsp;(14))
+* `Quot` (ca_ancora&nbsp;(4305), es_ancora&nbsp;(9182), pl_lfg&nbsp;(123), pl_pdb&nbsp;(2832), pl_pud&nbsp;(222), uk_iu&nbsp;(2136))
+* `Semi` (ca_ancora&nbsp;(424), es_ancora&nbsp;(305), pl_lfg&nbsp;(12), pl_pdb&nbsp;(183), pl_pud&nbsp;(17))
+* `Slsh` (pl_pdb&nbsp;(27), pl_pud&nbsp;(1))
 
 ## Red
 
 [Red]()
 
-* Red=Di	tpn_tudet	6
-* Red=Ex	myu_tudet	1
-* Red=Mo	gub_tudet	4
-* Red=Mo	tpn_tudet	1
+* `Di` (tpn_tudet&nbsp;(6))
+* `Ex` (myu_tudet&nbsp;(1))
+* `Mo` (gub_tudet&nbsp;(4), tpn_tudet&nbsp;(1))
 
 ## Reflex
 
 [Reflex]()
 
-* Reflex=Yes	af_afribooms	37
-* Reflex=Yes	aqz_tudet	9
-* Reflex=Yes	be_hse	982
-* Reflex=Yes	bej_nsc	3
-* Reflex=Yes	bg_btb	3999
-* Reflex=Yes	br_keb	25
-* Reflex=Yes	bxr_bdt	291
-* Reflex=Yes	ca_ancora	6616
-* Reflex=Yes	cop_scriptorium	10
-* Reflex=Yes	cs_cac	10462
-* Reflex=Yes	cs_cltt	504
-* Reflex=Yes	cs_fictree	6854
-* Reflex=Yes	cs_pdt	30669
-* Reflex=Yes	cs_pud	441
-* Reflex=Yes	cu_proiel	1787
-* Reflex=Yes	da_ddt	633
-* Reflex=Yes	de_gsd	1698
-* Reflex=Yes	de_hdt	21151
-* Reflex=Yes	en_ewt	121
-* Reflex=Yes	en_gum	81
-* Reflex=Yes	en_gumreddit	24
-* Reflex=Yes	en_lines	200
-* Reflex=Yes	en_pud	10
-* Reflex=Yes	es_ancora	6690
-* Reflex=Yes	es_gsd	5395
-* Reflex=Yes	es_pud	314
-* Reflex=Yes	ess_sli	12
-* Reflex=Yes	et_edt	1164
-* Reflex=Yes	et_ewt	258
-* Reflex=Yes	fa_seraji	796
-* Reflex=Yes	fi_ftb	324
-* Reflex=Yes	fi_ood	22
-* Reflex=Yes	fi_pud	4
-* Reflex=Yes	fi_tdt	186
-* Reflex=Yes	fo_oft	18
-* Reflex=Yes	fr_fqb	151
-* Reflex=Yes	fr_ftb	3682
-* Reflex=Yes	fr_gsd	103
-* Reflex=Yes	fr_sequoia	341
-* Reflex=Yes	ga_idt	261
-* Reflex=Yes	gd_arcosg	351
-* Reflex=Yes	got_proiel	589
-* Reflex=Yes	grc_proiel	653
-* Reflex=Yes	gub_tudet	6
-* Reflex=Yes	gv_cadhan	106
-* Reflex=Yes	he_htb	163
-* Reflex=Yes	hr_set	3569
-* Reflex=Yes	hsb_ufal	228
-* Reflex=Yes	hu_szeged	42
-* Reflex=Yes	hy_armtdp	226
-* Reflex=Yes	hyw_armtdp	326
-* Reflex=Yes	id_csui	5
-* Reflex=Yes	id_pud	15
-* Reflex=Yes	it_partut	14
-* Reflex=Yes	it_pud	3
-* Reflex=Yes	kk_ktb	44
-* Reflex=Yes	kmr_mg	219
-* Reflex=Yes	koi_uh	2
-* Reflex=Yes	kpv_ikdp	11
-* Reflex=Yes	kpv_lattice	47
-* Reflex=Yes	krl_kkpp	9
-* Reflex=Yes	la_ittb	4665
-* Reflex=Yes	la_llct	769
-* Reflex=Yes	la_proiel	2031
-* Reflex=Yes	la_udante	503
-* Reflex=Yes	lt_alksnis	1533
-* Reflex=Yes	lt_hse	60
-* Reflex=Yes	lv_lvtb	6366
-* Reflex=Yes	lzh_kyoto	687
-* Reflex=Yes	mdf_jr	8
-* Reflex=Yes	mpu_tudet	2
-* Reflex=Yes	myu_tudet	1
-* Reflex=Yes	myv_jr	87
-* Reflex=Yes	nl_alpino	479
-* Reflex=Yes	nl_lassysmall	213
-* Reflex=Yes	no_bokmaal	1231
-* Reflex=Yes	no_nynorsklia	86
-* Reflex=Yes	olo_kkpp	3
-* Reflex=Yes	orv_rnc	352
-* Reflex=Yes	orv_torot	4885
-* Reflex=Yes	pcm_nsc	149
-* Reflex=Yes	pl_lfg	3878
-* Reflex=Yes	pl_pdb	7373
-* Reflex=Yes	pl_pud	347
-* Reflex=Yes	pt_bosque	1
-* Reflex=Yes	pt_pud	1
-* Reflex=Yes	qtd_sagt	90
-* Reflex=Yes	quc_iu	29
-* Reflex=Yes	ro_art	19
-* Reflex=Yes	ro_nonstandard	406
-* Reflex=Yes	ro_rrt	3936
-* Reflex=Yes	ro_simonero	1315
-* Reflex=Yes	ru_gsd	84
-* Reflex=Yes	ru_taiga	685
-* Reflex=Yes	sa_ufal	3
-* Reflex=Yes	sk_snk	3390
-* Reflex=Yes	sl_ssj	2902
-* Reflex=Yes	sme_giella	183
-* Reflex=Yes	sms_giellagas	4
-* Reflex=Yes	sr_set	1798
-* Reflex=Yes	ta_ttb	16
-* Reflex=Yes	tl_trg	5
-* Reflex=Yes	tpn_tudet	67
-* Reflex=Yes	tr_boun	7
-* Reflex=Yes	tr_framenet	34
-* Reflex=Yes	tr_gb	86
-* Reflex=Yes	tr_imst	178
-* Reflex=Yes	tr_kenet	558
-* Reflex=Yes	tr_penn	160
-* Reflex=Yes	tr_pud	38
-* Reflex=Yes	tr_tourism	99
-* Reflex=Yes	ug_udt	147
-* Reflex=Yes	uk_iu	706
-* Reflex=Yes	wo_wtb	38
+* `Yes` (af_afribooms&nbsp;(37), aqz_tudet&nbsp;(9), be_hse&nbsp;(982), bej_nsc&nbsp;(3), bg_btb&nbsp;(3999), br_keb&nbsp;(25), bxr_bdt&nbsp;(291), ca_ancora&nbsp;(6616), cop_scriptorium&nbsp;(10), cs_cac&nbsp;(10462), cs_cltt&nbsp;(504), cs_fictree&nbsp;(6854), cs_pdt&nbsp;(30669), cs_pud&nbsp;(441), cu_proiel&nbsp;(1787), da_ddt&nbsp;(633), de_gsd&nbsp;(1698), de_hdt&nbsp;(21151), en_ewt&nbsp;(121), en_gum&nbsp;(81), en_gumreddit&nbsp;(24), en_lines&nbsp;(200), en_pud&nbsp;(10), es_ancora&nbsp;(6690), es_gsd&nbsp;(5395), es_pud&nbsp;(314), ess_sli&nbsp;(12), et_edt&nbsp;(1164), et_ewt&nbsp;(258), fa_seraji&nbsp;(796), fi_ftb&nbsp;(324), fi_ood&nbsp;(22), fi_pud&nbsp;(4), fi_tdt&nbsp;(186), fo_oft&nbsp;(18), fr_fqb&nbsp;(151), fr_ftb&nbsp;(3682), fr_gsd&nbsp;(103), fr_sequoia&nbsp;(341), ga_idt&nbsp;(261), gd_arcosg&nbsp;(351), got_proiel&nbsp;(589), grc_proiel&nbsp;(653), gub_tudet&nbsp;(6), gv_cadhan&nbsp;(106), he_htb&nbsp;(163), hr_set&nbsp;(3569), hsb_ufal&nbsp;(228), hu_szeged&nbsp;(42), hy_armtdp&nbsp;(226), hyw_armtdp&nbsp;(326), id_csui&nbsp;(5), id_pud&nbsp;(15), it_partut&nbsp;(14), it_pud&nbsp;(3), kk_ktb&nbsp;(44), kmr_mg&nbsp;(219), koi_uh&nbsp;(2), kpv_ikdp&nbsp;(11), kpv_lattice&nbsp;(47), krl_kkpp&nbsp;(9), la_ittb&nbsp;(4665), la_llct&nbsp;(769), la_proiel&nbsp;(2031), la_udante&nbsp;(503), lt_alksnis&nbsp;(1533), lt_hse&nbsp;(60), lv_lvtb&nbsp;(6366), lzh_kyoto&nbsp;(687), mdf_jr&nbsp;(8), mpu_tudet&nbsp;(2), myu_tudet&nbsp;(1), myv_jr&nbsp;(87), nl_alpino&nbsp;(479), nl_lassysmall&nbsp;(213), no_bokmaal&nbsp;(1231), no_nynorsklia&nbsp;(86), olo_kkpp&nbsp;(3), orv_rnc&nbsp;(352), orv_torot&nbsp;(4885), pcm_nsc&nbsp;(149), pl_lfg&nbsp;(3878), pl_pdb&nbsp;(7373), pl_pud&nbsp;(347), pt_bosque&nbsp;(1), pt_pud&nbsp;(1), qtd_sagt&nbsp;(90), quc_iu&nbsp;(29), ro_art&nbsp;(19), ro_nonstandard&nbsp;(406), ro_rrt&nbsp;(3936), ro_simonero&nbsp;(1315), ru_gsd&nbsp;(84), ru_taiga&nbsp;(685), sa_ufal&nbsp;(3), sk_snk&nbsp;(3390), sl_ssj&nbsp;(2902), sme_giella&nbsp;(183), sms_giellagas&nbsp;(4), sr_set&nbsp;(1798), ta_ttb&nbsp;(16), tl_trg&nbsp;(5), tpn_tudet&nbsp;(67), tr_boun&nbsp;(7), tr_framenet&nbsp;(34), tr_gb&nbsp;(86), tr_imst&nbsp;(178), tr_kenet&nbsp;(558), tr_penn&nbsp;(160), tr_pud&nbsp;(38), tr_tourism&nbsp;(99), ug_udt&nbsp;(147), uk_iu&nbsp;(706), wo_wtb&nbsp;(38))
 
 ## Reflex[obj]
 
 [Reflex[obj]]()
 
-* Reflex[obj]=Yes	ess_sli	2
+* `Yes` (ess_sli&nbsp;(2))
 
 ## Reflex[subj]
 
 [Reflex[subj]]()
 
-* Reflex[subj]=Yes	ess_sli	17
+* `Yes` (ess_sli&nbsp;(17))
 
 ## Rel
 
 [Rel]()
 
-* Rel=Abs	gub_tudet	17
-* Rel=Abs	tpn_tudet	26
-* Rel=Cont	aqz_tudet	10
-* Rel=Cont	gub_tudet	30
-* Rel=Cont	mpu_tudet	8
-* Rel=Cont	myu_tudet	16
-* Rel=Cont	tpn_tudet	134
-* Rel=Cont	urb_tudet	5
-* Rel=Hum	tpn_tudet	2
-* Rel=NCont	gub_tudet	42
-* Rel=NCont	myu_tudet	17
-* Rel=NCont	tpn_tudet	173
-* Rel=NCont	urb_tudet	7
+* `Abs` (gub_tudet&nbsp;(17), tpn_tudet&nbsp;(26))
+* `Cont` (aqz_tudet&nbsp;(10), gub_tudet&nbsp;(30), mpu_tudet&nbsp;(8), myu_tudet&nbsp;(16), tpn_tudet&nbsp;(134), urb_tudet&nbsp;(5))
+* `Hum` (tpn_tudet&nbsp;(2))
+* `NCont` (gub_tudet&nbsp;(42), myu_tudet&nbsp;(17), tpn_tudet&nbsp;(173), urb_tudet&nbsp;(7))
 
 ## Strength
 
 [Strength]()
 
-* Strength=Strong	got_proiel	2956
-* Strength=Strong	ro_art	14
-* Strength=Strong	ro_nonstandard	6784
-* Strength=Strong	ro_rrt	999
-* Strength=Strong	ro_simonero	129
-* Strength=Weak	got_proiel	1986
-* Strength=Weak	ro_art	45
-* Strength=Weak	ro_nonstandard	30081
-* Strength=Weak	ro_rrt	6201
-* Strength=Weak	ro_simonero	1490
+* `Strong` (got_proiel&nbsp;(2956), ro_art&nbsp;(14), ro_nonstandard&nbsp;(6784), ro_rrt&nbsp;(999), ro_simonero&nbsp;(129))
+* `Weak` (got_proiel&nbsp;(1986), ro_art&nbsp;(45), ro_nonstandard&nbsp;(30081), ro_rrt&nbsp;(6201), ro_simonero&nbsp;(1490))
 
 ## Style
 
 [Style]()
 
-* Style=Arch	cs_cac	252
-* Style=Arch	cs_cltt	13
-* Style=Arch	cs_fictree	51
-* Style=Arch	cs_pdt	696
-* Style=Arch	cs_pud	7
-* Style=Arch	da_ddt	1
-* Style=Arch	fi_ftb	7
-* Style=Arch	fi_ood	1
-* Style=Arch	fi_tdt	3
-* Style=Arch	hy_armtdp	143
-* Style=Arch	hyw_armtdp	88
-* Style=Arch	myv_jr	29
-* Style=Coll	cs_cac	100
-* Style=Coll	cs_cltt	4
-* Style=Coll	cs_fictree	134
-* Style=Coll	cs_pdt	818
-* Style=Coll	cs_pud	4
-* Style=Coll	fi_ftb	4444
-* Style=Coll	fi_ood	221
-* Style=Coll	fi_pud	1
-* Style=Coll	fi_tdt	1590
-* Style=Coll	hy_armtdp	339
-* Style=Coll	hyw_armtdp	186
-* Style=Expr	cs_cac	35
-* Style=Expr	cs_pdt	78
-* Style=Expr	cs_pud	1
-* Style=Expr	en_ewt	46
-* Style=Expr	hy_armtdp	49
-* Style=Expr	hyw_armtdp	28
-* Style=Form	da_ddt	35
-* Style=Ped	mdf_jr	8
-* Style=Rare	cs_cac	43
-* Style=Rare	cs_pdt	518
-* Style=Rare	cs_pud	13
-* Style=Rare	hy_armtdp	25
-* Style=Rare	hyw_armtdp	28
-* Style=Slng	cs_cac	21
-* Style=Slng	cs_pdt	71
-* Style=Slng	et_ewt	36
-* Style=Slng	hy_armtdp	14
-* Style=Vrnc	cs_cac	2
-* Style=Vrnc	cs_pdt	24
-* Style=Vrnc	hy_armtdp	127
-* Style=Vrnc	hyw_armtdp	56
-* Style=Vulg	cs_pdt	4
-* Style=Vulg	hy_armtdp	2
+* `Arch` (cs_cac&nbsp;(252), cs_cltt&nbsp;(13), cs_fictree&nbsp;(51), cs_pdt&nbsp;(696), cs_pud&nbsp;(7), da_ddt&nbsp;(1), fi_ftb&nbsp;(7), fi_ood&nbsp;(1), fi_tdt&nbsp;(3), hy_armtdp&nbsp;(143), hyw_armtdp&nbsp;(88), myv_jr&nbsp;(29))
+* `Coll` (cs_cac&nbsp;(100), cs_cltt&nbsp;(4), cs_fictree&nbsp;(134), cs_pdt&nbsp;(818), cs_pud&nbsp;(4), fi_ftb&nbsp;(4444), fi_ood&nbsp;(221), fi_pud&nbsp;(1), fi_tdt&nbsp;(1590), hy_armtdp&nbsp;(339), hyw_armtdp&nbsp;(186))
+* `Expr` (cs_cac&nbsp;(35), cs_pdt&nbsp;(78), cs_pud&nbsp;(1), en_ewt&nbsp;(46), hy_armtdp&nbsp;(49), hyw_armtdp&nbsp;(28))
+* `Form` (da_ddt&nbsp;(35))
+* `Ped` (mdf_jr&nbsp;(8))
+* `Rare` (cs_cac&nbsp;(43), cs_pdt&nbsp;(518), cs_pud&nbsp;(13), hy_armtdp&nbsp;(25), hyw_armtdp&nbsp;(28))
+* `Slng` (cs_cac&nbsp;(21), cs_pdt&nbsp;(71), et_ewt&nbsp;(36), hy_armtdp&nbsp;(14))
+* `Vrnc` (cs_cac&nbsp;(2), cs_pdt&nbsp;(24), hy_armtdp&nbsp;(127), hyw_armtdp&nbsp;(56))
+* `Vulg` (cs_pdt&nbsp;(4), hy_armtdp&nbsp;(2))
 
 ## SubGender
 
 [SubGender]()
 
-* SubGender=Masc1	pl_lfg	16096
-* SubGender=Masc2	pl_lfg	977
-* SubGender=Masc3	pl_lfg	13000
+* `Masc1` (pl_lfg&nbsp;(16096))
+* `Masc2` (pl_lfg&nbsp;(977))
+* `Masc3` (pl_lfg&nbsp;(13000))
 
 ## Subcat
 
 [Subcat]()
 
-* Subcat=Ditr	gun_dooley	57
-* Subcat=Ditr	gun_thomas	4
-* Subcat=Indir	gun_dooley	70
-* Subcat=Indir	gun_thomas	7
-* Subcat=Intr	af_afribooms	717
-* Subcat=Intr	ess_sli	235
-* Subcat=Intr	gun_dooley	1084
-* Subcat=Intr	gun_thomas	110
-* Subcat=Intr	hy_armtdp	3226
-* Subcat=Intr	hyw_armtdp	2406
-* Subcat=Intr	quc_iu	555
-* Subcat=Prep	af_afribooms	28
-* Subcat=Tran	af_afribooms	3696
-* Subcat=Tran	ess_sli	122
-* Subcat=Tran	gun_dooley	952
-* Subcat=Tran	gun_thomas	125
-* Subcat=Tran	hy_armtdp	3498
-* Subcat=Tran	hyw_armtdp	2379
-* Subcat=Tran	quc_iu	1010
+* `Ditr` (gun_dooley&nbsp;(57), gun_thomas&nbsp;(4))
+* `Indir` (gun_dooley&nbsp;(70), gun_thomas&nbsp;(7))
+* `Intr` (af_afribooms&nbsp;(717), ess_sli&nbsp;(235), gun_dooley&nbsp;(1084), gun_thomas&nbsp;(110), hy_armtdp&nbsp;(3226), hyw_armtdp&nbsp;(2406), quc_iu&nbsp;(555))
+* `Prep` (af_afribooms&nbsp;(28))
+* `Tran` (af_afribooms&nbsp;(3696), ess_sli&nbsp;(122), gun_dooley&nbsp;(952), gun_thomas&nbsp;(125), hy_armtdp&nbsp;(3498), hyw_armtdp&nbsp;(2379), quc_iu&nbsp;(1010))
 
 ## Subordinative
 
 [Subordinative]()
 
-* Subordinative=Yes	akk_riao	391
+* `Yes` (akk_riao&nbsp;(391))
 
 ## Tense
 
 [Tense]()
 
-* Tense=Fut	aqz_tudet	4
-* Tense=Fut	ar_pud	71
-* Tense=Fut	be_hse	2375
-* Tense=Fut	bho_bhtb	7
-* Tense=Fut	bm_crb	10
-* Tense=Fut	br_keb	163
-* Tense=Fut	ca_ancora	3725
-* Tense=Fut	cs_cac	1217
-* Tense=Fut	cs_cltt	22
-* Tense=Fut	cs_fictree	407
-* Tense=Fut	cs_pdt	5108
-* Tense=Fut	cs_pud	49
-* Tense=Fut	cu_proiel	269
-* Tense=Fut	cy_ccg	454
-* Tense=Fut	es_ancora	2779
-* Tense=Fut	es_gsd	812
-* Tense=Fut	es_pud	43
-* Tense=Fut	ess_sli	46
-* Tense=Fut	fa_perdt	4613
-* Tense=Fut	fa_seraji	272
-* Tense=Fut	fr_fqb	5
-* Tense=Fut	fr_ftb	2062
-* Tense=Fut	fr_gsd	855
-* Tense=Fut	fr_partut	96
-* Tense=Fut	fr_pud	33
-* Tense=Fut	fr_sequoia	202
-* Tense=Fut	fr_spoken	39
-* Tense=Fut	ga_idt	1182
-* Tense=Fut	gd_arcosg	842
-* Tense=Fut	gl_treegal	86
-* Tense=Fut	grc_perseus	1566
-* Tense=Fut	grc_proiel	2165
-* Tense=Fut	gub_tudet	5
-* Tense=Fut	gv_cadhan	155
-* Tense=Fut	he_htb	1460
-* Tense=Fut	hi_hdtb	2404
-* Tense=Fut	hi_pud	92
-* Tense=Fut	hsb_ufal	6
-* Tense=Fut	it_isdt	642
-* Tense=Fut	it_partut	138
-* Tense=Fut	it_postwita	666
-* Tense=Fut	it_pud	48
-* Tense=Fut	it_twittiro	202
-* Tense=Fut	it_valico	4
-* Tense=Fut	it_vit	1218
-* Tense=Fut	kfm_aha	1
-* Tense=Fut	kk_ktb	28
-* Tense=Fut	kmr_mg	33
-* Tense=Fut	ko_pud	32
-* Tense=Fut	koi_uh	6
-* Tense=Fut	kpv_ikdp	5
-* Tense=Fut	kpv_lattice	55
-* Tense=Fut	la_ittb	1808
-* Tense=Fut	la_llct	2348
-* Tense=Fut	la_perseus	322
-* Tense=Fut	la_proiel	3477
-* Tense=Fut	la_udante	795
-* Tense=Fut	lt_alksnis	407
-* Tense=Fut	lt_hse	34
-* Tense=Fut	lv_lvtb	1976
-* Tense=Fut	lzh_kyoto	295
-* Tense=Fut	mpu_tudet	4
-* Tense=Fut	mr_ufal	22
-* Tense=Fut	myu_tudet	1
-* Tense=Fut	nyq_aha	1
-* Tense=Fut	orv_rnc	246
-* Tense=Fut	orv_torot	296
-* Tense=Fut	pl_lfg	1492
-* Tense=Fut	pl_pdb	3087
-* Tense=Fut	pl_pud	79
-* Tense=Fut	pt_bosque	974
-* Tense=Fut	pt_pud	49
-* Tense=Fut	qtd_sagt	151
-* Tense=Fut	quc_iu	11
-* Tense=Fut	ro_rrt	10
-* Tense=Fut	ru_gsd	126
-* Tense=Fut	ru_pud	83
-* Tense=Fut	ru_syntagrus	5698
-* Tense=Fut	ru_taiga	1508
-* Tense=Fut	sa_ufal	36
-* Tense=Fut	sa_vedic	63
-* Tense=Fut	sk_snk	231
-* Tense=Fut	sl_ssj	1051
-* Tense=Fut	sl_sst	299
-* Tense=Fut	soj_aha	1
-* Tense=Fut	sr_set	144
-* Tense=Fut	ta_mwtt	61
-* Tense=Fut	ta_ttb	356
-* Tense=Fut	tpn_tudet	13
-* Tense=Fut	tr_boun	969
-* Tense=Fut	tr_framenet	109
-* Tense=Fut	tr_gb	291
-* Tense=Fut	tr_imst	629
-* Tense=Fut	tr_kenet	589
-* Tense=Fut	tr_penn	380
-* Tense=Fut	tr_pud	160
-* Tense=Fut	tr_tourism	177
-* Tense=Fut	uk_iu	832
-* Tense=Fut	ur_udtb	688
-* Tense=Fut	urb_tudet	10
-* Tense=Fut	wbp_ufal	2
-* Tense=Fut	wo_wtb	77
-* Tense=Imp	bg_btb	1021
-* Tense=Imp	ca_ancora	3138
-* Tense=Imp	cy_ccg	377
-* Tense=Imp	es_ancora	4165
-* Tense=Imp	es_gsd	3911
-* Tense=Imp	fo_oft	16
-* Tense=Imp	fr_fqb	161
-* Tense=Imp	fr_ftb	3200
-* Tense=Imp	fr_gsd	2036
-* Tense=Imp	fr_partut	63
-* Tense=Imp	fr_pud	294
-* Tense=Imp	fr_sequoia	418
-* Tense=Imp	fr_spoken	380
-* Tense=Imp	gl_treegal	148
-* Tense=Imp	hr_set	2
-* Tense=Imp	hy_armtdp	1185
-* Tense=Imp	hyw_armtdp	1479
-* Tense=Imp	it_isdt	1805
-* Tense=Imp	it_partut	313
-* Tense=Imp	it_postwita	458
-* Tense=Imp	it_twittiro	177
-* Tense=Imp	it_valico	390
-* Tense=Imp	it_vit	1398
-* Tense=Imp	orv_rnc	2
-* Tense=Imp	pt_bosque	1336
-* Tense=Imp	ro_art	31
-* Tense=Imp	ro_nonstandard	9685
-* Tense=Imp	ro_rrt	2521
-* Tense=Imp	ro_simonero	163
-* Tense=Imp	sa_ufal	19
-* Tense=Imp	wo_wtb	1
-* Tense=Past	af_afribooms	1266
-* Tense=Past	aii_as	3
-* Tense=Past	akk_riao	2560
-* Tense=Past	am_att	1
-* Tense=Past	ar_pud	1096
-* Tense=Past	be_hse	14554
-* Tense=Past	bg_btb	5913
-* Tense=Past	bho_bhtb	6
-* Tense=Past	bm_crb	39
-* Tense=Past	br_keb	611
-* Tense=Past	bxr_bdt	238
-* Tense=Past	ca_ancora	7536
-* Tense=Past	cs_cac	12989
-* Tense=Past	cs_cltt	174
-* Tense=Past	cs_fictree	15476
-* Tense=Past	cs_pdt	57002
-* Tense=Past	cs_pud	1138
-* Tense=Past	cu_proiel	6721
-* Tense=Past	cy_ccg	530
-* Tense=Past	da_ddt	5196
-* Tense=Past	de_gsd	10759
-* Tense=Past	de_hdt	49922
-* Tense=Past	de_pud	1449
-* Tense=Past	el_gdt	1873
-* Tense=Past	en_ewt	11339
-* Tense=Past	en_gum	6608
-* Tense=Past	en_gumreddit	700
-* Tense=Past	en_lines	7111
-* Tense=Past	en_partut	2526
-* Tense=Past	en_pronouns	200
-* Tense=Past	en_pud	1461
-* Tense=Past	es_ancora	17555
-* Tense=Past	es_gsd	11620
-* Tense=Past	es_pud	1049
-* Tense=Past	ess_sli	12
-* Tense=Past	et_edt	25781
-* Tense=Past	et_ewt	2764
-* Tense=Past	fa_perdt	25007
-* Tense=Past	fa_seraji	5275
-* Tense=Past	fi_ftb	7545
-* Tense=Past	fi_ood	520
-* Tense=Past	fi_pud	892
-* Tense=Past	fi_tdt	7405
-* Tense=Past	fo_farpahc	3712
-* Tense=Past	fo_oft	324
-* Tense=Past	fr_fqb	978
-* Tense=Past	fr_ftb	16332
-* Tense=Past	fr_gsd	13657
-* Tense=Past	fr_partut	840
-* Tense=Past	fr_pud	1072
-* Tense=Past	fr_sequoia	2636
-* Tense=Past	fr_spoken	562
-* Tense=Past	fro_srcmf	5007
-* Tense=Past	ga_idt	3803
-* Tense=Past	gd_arcosg	3912
-* Tense=Past	gl_treegal	371
-* Tense=Past	got_proiel	4754
-* Tense=Past	grc_perseus	22014
-* Tense=Past	grc_proiel	23201
-* Tense=Past	gub_tudet	1
-* Tense=Past	gv_cadhan	1277
-* Tense=Past	he_htb	6450
-* Tense=Past	hi_hdtb	2694
-* Tense=Past	hi_pud	872
-* Tense=Past	hr_set	7571
-* Tense=Past	hsb_ufal	333
-* Tense=Past	hu_szeged	1685
-* Tense=Past	hy_armtdp	849
-* Tense=Past	hyw_armtdp	825
-* Tense=Past	is_icepahc	71906
-* Tense=Past	is_modern	8188
-* Tense=Past	is_pud	1311
-* Tense=Past	it_isdt	10258
-* Tense=Past	it_partut	1970
-* Tense=Past	it_postwita	1763
-* Tense=Past	it_pud	1396
-* Tense=Past	it_twittiro	535
-* Tense=Past	it_valico	416
-* Tense=Past	it_vit	8875
-* Tense=Past	kfm_aha	3
-* Tense=Past	kk_ktb	751
-* Tense=Past	kmr_mg	662
-* Tense=Past	ko_pud	641
-* Tense=Past	koi_uh	91
-* Tense=Past	kpv_ikdp	198
-* Tense=Past	kpv_lattice	707
-* Tense=Past	krl_kkpp	196
-* Tense=Past	la_ittb	14318
-* Tense=Past	la_llct	14258
-* Tense=Past	la_perseus	2625
-* Tense=Past	la_proiel	17572
-* Tense=Past	la_udante	2222
-* Tense=Past	lt_alksnis	3063
-* Tense=Past	lt_hse	239
-* Tense=Past	lv_lvtb	15863
-* Tense=Past	lzh_kyoto	302
-* Tense=Past	mdf_jr	315
-* Tense=Past	mpu_tudet	1
-* Tense=Past	mr_ufal	64
-* Tense=Past	myv_jr	1517
-* Tense=Past	nl_alpino	4949
-* Tense=Past	nl_lassysmall	2868
-* Tense=Past	no_bokmaal	8905
-* Tense=Past	no_nynorsk	8243
-* Tense=Past	no_nynorsklia	3551
-* Tense=Past	nyq_aha	3
-* Tense=Past	olo_kkpp	127
-* Tense=Past	orv_rnc	1249
-* Tense=Past	orv_torot	16883
-* Tense=Past	pcm_nsc	283
-* Tense=Past	pl_lfg	10440
-* Tense=Past	pl_pdb	15912
-* Tense=Past	pl_pud	980
-* Tense=Past	pt_bosque	4181
-* Tense=Past	pt_gsd	1
-* Tense=Past	pt_pud	935
-* Tense=Past	qtd_sagt	1453
-* Tense=Past	quc_iu	13
-* Tense=Past	ro_art	29
-* Tense=Past	ro_nonstandard	8186
-* Tense=Past	ro_rrt	1707
-* Tense=Past	ro_simonero	1
-* Tense=Past	ru_gsd	5635
-* Tense=Past	ru_pud	1282
-* Tense=Past	ru_syntagrus	57596
-* Tense=Past	ru_taiga	8753
-* Tense=Past	sa_ufal	92
-* Tense=Past	sa_vedic	2048
-* Tense=Past	sk_snk	10039
-* Tense=Past	sme_giella	1473
-* Tense=Past	sms_giellagas	224
-* Tense=Past	soj_aha	1
-* Tense=Past	sq_tsa	20
-* Tense=Past	sr_set	4095
-* Tense=Past	sv_lines	6321
-* Tense=Past	sv_pud	1143
-* Tense=Past	sv_talbanken	2146
-* Tense=Past	ta_mwtt	240
-* Tense=Past	ta_ttb	518
-* Tense=Past	tpn_tudet	23
-* Tense=Past	tr_boun	7334
-* Tense=Past	tr_framenet	2169
-* Tense=Past	tr_gb	1421
-* Tense=Past	tr_imst	4646
-* Tense=Past	tr_kenet	9956
-* Tense=Past	tr_penn	4098
-* Tense=Past	tr_pud	753
-* Tense=Past	tr_tourism	14882
-* Tense=Past	ug_udt	1737
-* Tense=Past	uk_iu	5932
-* Tense=Past	ur_udtb	1045
-* Tense=Past	wbp_ufal	8
-* Tense=Past	wo_wtb	785
-* Tense=Pqp	cy_ccg	7
-* Tense=Pqp	gl_treegal	16
-* Tense=Pqp	grc_perseus	400
-* Tense=Pqp	grc_proiel	281
-* Tense=Pqp	kmr_mg	73
-* Tense=Pqp	la_ittb	220
-* Tense=Pqp	la_llct	338
-* Tense=Pqp	la_perseus	217
-* Tense=Pqp	la_proiel	1368
-* Tense=Pqp	la_udante	110
-* Tense=Pqp	pt_bosque	67
-* Tense=Pqp	qtd_sagt	57
-* Tense=Pqp	ro_nonstandard	908
-* Tense=Pqp	ro_rrt	589
-* Tense=Pqp	ro_simonero	4
-* Tense=Pqp	sa_vedic	2
-* Tense=Pqp	tr_boun	2
-* Tense=Pqp	tr_gb	72
-* Tense=Pqp	tr_imst	267
-* Tense=Pqp	tr_pud	36
-* Tense=Pres	af_afribooms	6324
-* Tense=Pres	aii_as	46
-* Tense=Pres	akk_riao	155
-* Tense=Pres	ar_pud	814
-* Tense=Pres	be_hse	8797
-* Tense=Pres	bg_btb	13516
-* Tense=Pres	bho_bhtb	11
-* Tense=Pres	br_keb	568
-* Tense=Pres	bxr_bdt	181
-* Tense=Pres	ca_ancora	30605
-* Tense=Pres	cs_cac	32023
-* Tense=Pres	cs_cltt	2177
-* Tense=Pres	cs_fictree	10904
-* Tense=Pres	cs_pdt	83125
-* Tense=Pres	cs_pud	864
-* Tense=Pres	cu_proiel	7723
-* Tense=Pres	cy_ccg	1331
-* Tense=Pres	da_ddt	7238
-* Tense=Pres	de_gsd	11590
-* Tense=Pres	de_hdt	216600
-* Tense=Pres	de_pud	879
-* Tense=Pres	el_gdt	3294
-* Tense=Pres	en_ewt	13751
-* Tense=Pres	en_gum	6160
-* Tense=Pres	en_gumreddit	1199
-* Tense=Pres	en_lines	4691
-* Tense=Pres	en_partut	2710
-* Tense=Pres	en_pronouns	160
-* Tense=Pres	en_pud	738
-* Tense=Pres	es_ancora	22740
-* Tense=Pres	es_gsd	16284
-* Tense=Pres	es_pud	762
-* Tense=Pres	ess_sli	59
-* Tense=Pres	et_edt	36506
-* Tense=Pres	et_ewt	7446
-* Tense=Pres	fa_perdt	17879
-* Tense=Pres	fa_seraji	9152
-* Tense=Pres	fi_ftb	14042
-* Tense=Pres	fi_ood	1356
-* Tense=Pres	fi_pud	874
-* Tense=Pres	fi_tdt	14209
-* Tense=Pres	fo_farpahc	2550
-* Tense=Pres	fo_oft	1008
-* Tense=Pres	fr_fqb	2159
-* Tense=Pres	fr_ftb	27406
-* Tense=Pres	fr_gsd	22109
-* Tense=Pres	fr_partut	1809
-* Tense=Pres	fr_pud	1420
-* Tense=Pres	fr_sequoia	3515
-* Tense=Pres	fr_spoken	2884
-* Tense=Pres	fro_srcmf	438
-* Tense=Pres	ga_idt	4975
-* Tense=Pres	gd_arcosg	2941
-* Tense=Pres	gl_treegal	1340
-* Tense=Pres	got_proiel	7995
-* Tense=Pres	grc_perseus	13731
-* Tense=Pres	grc_proiel	17949
-* Tense=Pres	gv_cadhan	1065
-* Tense=Pres	hi_hdtb	11484
-* Tense=Pres	hi_pud	776
-* Tense=Pres	hr_set	18714
-* Tense=Pres	hsb_ufal	656
-* Tense=Pres	hu_szeged	1855
-* Tense=Pres	hy_armtdp	3355
-* Tense=Pres	hyw_armtdp	1653
-* Tense=Pres	is_icepahc	54825
-* Tense=Pres	is_modern	14574
-* Tense=Pres	is_pud	938
-* Tense=Pres	it_isdt	17199
-* Tense=Pres	it_partut	2797
-* Tense=Pres	it_postwita	9934
-* Tense=Pres	it_pud	1048
-* Tense=Pres	it_twittiro	2339
-* Tense=Pres	it_valico	513
-* Tense=Pres	it_vit	12942
-* Tense=Pres	kfm_aha	8
-* Tense=Pres	kk_ktb	405
-* Tense=Pres	kmr_mg	557
-* Tense=Pres	koi_uh	35
-* Tense=Pres	kpv_ikdp	90
-* Tense=Pres	kpv_lattice	318
-* Tense=Pres	krl_kkpp	195
-* Tense=Pres	la_ittb	64358
-* Tense=Pres	la_llct	15761
-* Tense=Pres	la_perseus	2938
-* Tense=Pres	la_proiel	25057
-* Tense=Pres	la_udante	7089
-* Tense=Pres	lt_alksnis	4550
-* Tense=Pres	lt_hse	345
-* Tense=Pres	lv_lvtb	17404
-* Tense=Pres	lzh_kyoto	63
-* Tense=Pres	mdf_jr	108
-* Tense=Pres	mr_ufal	121
-* Tense=Pres	myv_jr	972
-* Tense=Pres	nl_alpino	9296
-* Tense=Pres	nl_lassysmall	3264
-* Tense=Pres	no_bokmaal	25689
-* Tense=Pres	no_nynorsk	24155
-* Tense=Pres	no_nynorsklia	3219
-* Tense=Pres	nyq_aha	8
-* Tense=Pres	olo_kkpp	123
-* Tense=Pres	orv_rnc	503
-* Tense=Pres	orv_torot	11127
-* Tense=Pres	pcm_nsc	509
-* Tense=Pres	pl_lfg	8673
-* Tense=Pres	pl_pdb	20011
-* Tense=Pres	pl_pud	727
-* Tense=Pres	pt_bosque	8575
-* Tense=Pres	pt_pud	720
-* Tense=Pres	qtd_sagt	3225
-* Tense=Pres	ro_art	53
-* Tense=Pres	ro_nonstandard	52283
-* Tense=Pres	ro_rrt	12896
-* Tense=Pres	ro_simonero	8094
-* Tense=Pres	ru_gsd	2587
-* Tense=Pres	ru_pud	669
-* Tense=Pres	ru_syntagrus	43717
-* Tense=Pres	ru_taiga	8866
-* Tense=Pres	sa_ufal	105
-* Tense=Pres	sa_vedic	3206
-* Tense=Pres	sk_snk	5719
-* Tense=Pres	sl_ssj	13189
-* Tense=Pres	sl_sst	3649
-* Tense=Pres	sme_giella	2785
-* Tense=Pres	sms_giellagas	244
-* Tense=Pres	soj_aha	5
-* Tense=Pres	sq_tsa	76
-* Tense=Pres	sr_set	9856
-* Tense=Pres	sv_lines	4068
-* Tense=Pres	sv_pud	1006
-* Tense=Pres	sv_talbanken	8977
-* Tense=Pres	ta_mwtt	107
-* Tense=Pres	ta_ttb	123
-* Tense=Pres	tr_boun	7008
-* Tense=Pres	tr_framenet	1062
-* Tense=Pres	tr_gb	1416
-* Tense=Pres	tr_imst	6530
-* Tense=Pres	tr_kenet	11210
-* Tense=Pres	tr_penn	4009
-* Tense=Pres	tr_pud	979
-* Tense=Pres	tr_tourism	3048
-* Tense=Pres	ug_udt	334
-* Tense=Pres	uk_iu	4200
-* Tense=Pres	ur_udtb	3962
-* Tense=Pres	wbp_ufal	92
-* Tense=Pres	wo_wtb	1342
+* `Fut` (aqz_tudet&nbsp;(4), ar_pud&nbsp;(71), be_hse&nbsp;(2375), bho_bhtb&nbsp;(7), bm_crb&nbsp;(10), br_keb&nbsp;(163), ca_ancora&nbsp;(3725), cs_cac&nbsp;(1217), cs_cltt&nbsp;(22), cs_fictree&nbsp;(407), cs_pdt&nbsp;(5108), cs_pud&nbsp;(49), cu_proiel&nbsp;(269), cy_ccg&nbsp;(454), es_ancora&nbsp;(2779), es_gsd&nbsp;(812), es_pud&nbsp;(43), ess_sli&nbsp;(46), fa_perdt&nbsp;(4613), fa_seraji&nbsp;(272), fr_fqb&nbsp;(5), fr_ftb&nbsp;(2062), fr_gsd&nbsp;(855), fr_partut&nbsp;(96), fr_pud&nbsp;(33), fr_sequoia&nbsp;(202), fr_spoken&nbsp;(39), ga_idt&nbsp;(1182), gd_arcosg&nbsp;(842), gl_treegal&nbsp;(86), grc_perseus&nbsp;(1566), grc_proiel&nbsp;(2165), gub_tudet&nbsp;(5), gv_cadhan&nbsp;(155), he_htb&nbsp;(1460), hi_hdtb&nbsp;(2404), hi_pud&nbsp;(92), hsb_ufal&nbsp;(6), it_isdt&nbsp;(642), it_partut&nbsp;(138), it_postwita&nbsp;(666), it_pud&nbsp;(48), it_twittiro&nbsp;(202), it_valico&nbsp;(4), it_vit&nbsp;(1218), kfm_aha&nbsp;(1), kk_ktb&nbsp;(28), kmr_mg&nbsp;(33), ko_pud&nbsp;(32), koi_uh&nbsp;(6), kpv_ikdp&nbsp;(5), kpv_lattice&nbsp;(55), la_ittb&nbsp;(1808), la_llct&nbsp;(2348), la_perseus&nbsp;(322), la_proiel&nbsp;(3477), la_udante&nbsp;(795), lt_alksnis&nbsp;(407), lt_hse&nbsp;(34), lv_lvtb&nbsp;(1976), lzh_kyoto&nbsp;(295), mpu_tudet&nbsp;(4), mr_ufal&nbsp;(22), myu_tudet&nbsp;(1), nyq_aha&nbsp;(1), orv_rnc&nbsp;(246), orv_torot&nbsp;(296), pl_lfg&nbsp;(1492), pl_pdb&nbsp;(3087), pl_pud&nbsp;(79), pt_bosque&nbsp;(974), pt_pud&nbsp;(49), qtd_sagt&nbsp;(151), quc_iu&nbsp;(11), ro_rrt&nbsp;(10), ru_gsd&nbsp;(126), ru_pud&nbsp;(83), ru_syntagrus&nbsp;(5698), ru_taiga&nbsp;(1508), sa_ufal&nbsp;(36), sa_vedic&nbsp;(63), sk_snk&nbsp;(231), sl_ssj&nbsp;(1051), sl_sst&nbsp;(299), soj_aha&nbsp;(1), sr_set&nbsp;(144), ta_mwtt&nbsp;(61), ta_ttb&nbsp;(356), tpn_tudet&nbsp;(13), tr_boun&nbsp;(969), tr_framenet&nbsp;(109), tr_gb&nbsp;(291), tr_imst&nbsp;(629), tr_kenet&nbsp;(589), tr_penn&nbsp;(380), tr_pud&nbsp;(160), tr_tourism&nbsp;(177), uk_iu&nbsp;(832), ur_udtb&nbsp;(688), urb_tudet&nbsp;(10), wbp_ufal&nbsp;(2), wo_wtb&nbsp;(77))
+* `Imp` (bg_btb&nbsp;(1021), ca_ancora&nbsp;(3138), cy_ccg&nbsp;(377), es_ancora&nbsp;(4165), es_gsd&nbsp;(3911), fo_oft&nbsp;(16), fr_fqb&nbsp;(161), fr_ftb&nbsp;(3200), fr_gsd&nbsp;(2036), fr_partut&nbsp;(63), fr_pud&nbsp;(294), fr_sequoia&nbsp;(418), fr_spoken&nbsp;(380), gl_treegal&nbsp;(148), hr_set&nbsp;(2), hy_armtdp&nbsp;(1185), hyw_armtdp&nbsp;(1479), it_isdt&nbsp;(1805), it_partut&nbsp;(313), it_postwita&nbsp;(458), it_twittiro&nbsp;(177), it_valico&nbsp;(390), it_vit&nbsp;(1398), orv_rnc&nbsp;(2), pt_bosque&nbsp;(1336), ro_art&nbsp;(31), ro_nonstandard&nbsp;(9685), ro_rrt&nbsp;(2521), ro_simonero&nbsp;(163), sa_ufal&nbsp;(19), wo_wtb&nbsp;(1))
+* `Past` (af_afribooms&nbsp;(1266), aii_as&nbsp;(3), akk_riao&nbsp;(2560), am_att&nbsp;(1), ar_pud&nbsp;(1096), be_hse&nbsp;(14554), bg_btb&nbsp;(5913), bho_bhtb&nbsp;(6), bm_crb&nbsp;(39), br_keb&nbsp;(611), bxr_bdt&nbsp;(238), ca_ancora&nbsp;(7536), cs_cac&nbsp;(12989), cs_cltt&nbsp;(174), cs_fictree&nbsp;(15476), cs_pdt&nbsp;(57002), cs_pud&nbsp;(1138), cu_proiel&nbsp;(6721), cy_ccg&nbsp;(530), da_ddt&nbsp;(5196), de_gsd&nbsp;(10759), de_hdt&nbsp;(49922), de_pud&nbsp;(1449), el_gdt&nbsp;(1873), en_ewt&nbsp;(11339), en_gum&nbsp;(6608), en_gumreddit&nbsp;(700), en_lines&nbsp;(7111), en_partut&nbsp;(2526), en_pronouns&nbsp;(200), en_pud&nbsp;(1461), es_ancora&nbsp;(17555), es_gsd&nbsp;(11620), es_pud&nbsp;(1049), ess_sli&nbsp;(12), et_edt&nbsp;(25781), et_ewt&nbsp;(2764), fa_perdt&nbsp;(25007), fa_seraji&nbsp;(5275), fi_ftb&nbsp;(7545), fi_ood&nbsp;(520), fi_pud&nbsp;(892), fi_tdt&nbsp;(7405), fo_farpahc&nbsp;(3712), fo_oft&nbsp;(324), fr_fqb&nbsp;(978), fr_ftb&nbsp;(16332), fr_gsd&nbsp;(13657), fr_partut&nbsp;(840), fr_pud&nbsp;(1072), fr_sequoia&nbsp;(2636), fr_spoken&nbsp;(562), fro_srcmf&nbsp;(5007), ga_idt&nbsp;(3803), gd_arcosg&nbsp;(3912), gl_treegal&nbsp;(371), got_proiel&nbsp;(4754), grc_perseus&nbsp;(22014), grc_proiel&nbsp;(23201), gub_tudet&nbsp;(1), gv_cadhan&nbsp;(1277), he_htb&nbsp;(6450), hi_hdtb&nbsp;(2694), hi_pud&nbsp;(872), hr_set&nbsp;(7571), hsb_ufal&nbsp;(333), hu_szeged&nbsp;(1685), hy_armtdp&nbsp;(849), hyw_armtdp&nbsp;(825), is_icepahc&nbsp;(71906), is_modern&nbsp;(8188), is_pud&nbsp;(1311), it_isdt&nbsp;(10258), it_partut&nbsp;(1970), it_postwita&nbsp;(1763), it_pud&nbsp;(1396), it_twittiro&nbsp;(535), it_valico&nbsp;(416), it_vit&nbsp;(8875), kfm_aha&nbsp;(3), kk_ktb&nbsp;(751), kmr_mg&nbsp;(662), ko_pud&nbsp;(641), koi_uh&nbsp;(91), kpv_ikdp&nbsp;(198), kpv_lattice&nbsp;(707), krl_kkpp&nbsp;(196), la_ittb&nbsp;(14318), la_llct&nbsp;(14258), la_perseus&nbsp;(2625), la_proiel&nbsp;(17572), la_udante&nbsp;(2222), lt_alksnis&nbsp;(3063), lt_hse&nbsp;(239), lv_lvtb&nbsp;(15863), lzh_kyoto&nbsp;(302), mdf_jr&nbsp;(315), mpu_tudet&nbsp;(1), mr_ufal&nbsp;(64), myv_jr&nbsp;(1517), nl_alpino&nbsp;(4949), nl_lassysmall&nbsp;(2868), no_bokmaal&nbsp;(8905), no_nynorsk&nbsp;(8243), no_nynorsklia&nbsp;(3551), nyq_aha&nbsp;(3), olo_kkpp&nbsp;(127), orv_rnc&nbsp;(1249), orv_torot&nbsp;(16883), pcm_nsc&nbsp;(283), pl_lfg&nbsp;(10440), pl_pdb&nbsp;(15912), pl_pud&nbsp;(980), pt_bosque&nbsp;(4181), pt_gsd&nbsp;(1), pt_pud&nbsp;(935), qtd_sagt&nbsp;(1453), quc_iu&nbsp;(13), ro_art&nbsp;(29), ro_nonstandard&nbsp;(8186), ro_rrt&nbsp;(1707), ro_simonero&nbsp;(1), ru_gsd&nbsp;(5635), ru_pud&nbsp;(1282), ru_syntagrus&nbsp;(57596), ru_taiga&nbsp;(8753), sa_ufal&nbsp;(92), sa_vedic&nbsp;(2048), sk_snk&nbsp;(10039), sme_giella&nbsp;(1473), sms_giellagas&nbsp;(224), soj_aha&nbsp;(1), sq_tsa&nbsp;(20), sr_set&nbsp;(4095), sv_lines&nbsp;(6321), sv_pud&nbsp;(1143), sv_talbanken&nbsp;(2146), ta_mwtt&nbsp;(240), ta_ttb&nbsp;(518), tpn_tudet&nbsp;(23), tr_boun&nbsp;(7334), tr_framenet&nbsp;(2169), tr_gb&nbsp;(1421), tr_imst&nbsp;(4646), tr_kenet&nbsp;(9956), tr_penn&nbsp;(4098), tr_pud&nbsp;(753), tr_tourism&nbsp;(14882), ug_udt&nbsp;(1737), uk_iu&nbsp;(5932), ur_udtb&nbsp;(1045), wbp_ufal&nbsp;(8), wo_wtb&nbsp;(785))
+* `Pqp` (cy_ccg&nbsp;(7), gl_treegal&nbsp;(16), grc_perseus&nbsp;(400), grc_proiel&nbsp;(281), kmr_mg&nbsp;(73), la_ittb&nbsp;(220), la_llct&nbsp;(338), la_perseus&nbsp;(217), la_proiel&nbsp;(1368), la_udante&nbsp;(110), pt_bosque&nbsp;(67), qtd_sagt&nbsp;(57), ro_nonstandard&nbsp;(908), ro_rrt&nbsp;(589), ro_simonero&nbsp;(4), sa_vedic&nbsp;(2), tr_boun&nbsp;(2), tr_gb&nbsp;(72), tr_imst&nbsp;(267), tr_pud&nbsp;(36))
+* `Pres` (af_afribooms&nbsp;(6324), aii_as&nbsp;(46), akk_riao&nbsp;(155), ar_pud&nbsp;(814), be_hse&nbsp;(8797), bg_btb&nbsp;(13516), bho_bhtb&nbsp;(11), br_keb&nbsp;(568), bxr_bdt&nbsp;(181), ca_ancora&nbsp;(30605), cs_cac&nbsp;(32023), cs_cltt&nbsp;(2177), cs_fictree&nbsp;(10904), cs_pdt&nbsp;(83125), cs_pud&nbsp;(864), cu_proiel&nbsp;(7723), cy_ccg&nbsp;(1331), da_ddt&nbsp;(7238), de_gsd&nbsp;(11590), de_hdt&nbsp;(216600), de_pud&nbsp;(879), el_gdt&nbsp;(3294), en_ewt&nbsp;(13751), en_gum&nbsp;(6160), en_gumreddit&nbsp;(1199), en_lines&nbsp;(4691), en_partut&nbsp;(2710), en_pronouns&nbsp;(160), en_pud&nbsp;(738), es_ancora&nbsp;(22740), es_gsd&nbsp;(16284), es_pud&nbsp;(762), ess_sli&nbsp;(59), et_edt&nbsp;(36506), et_ewt&nbsp;(7446), fa_perdt&nbsp;(17879), fa_seraji&nbsp;(9152), fi_ftb&nbsp;(14042), fi_ood&nbsp;(1356), fi_pud&nbsp;(874), fi_tdt&nbsp;(14209), fo_farpahc&nbsp;(2550), fo_oft&nbsp;(1008), fr_fqb&nbsp;(2159), fr_ftb&nbsp;(27406), fr_gsd&nbsp;(22109), fr_partut&nbsp;(1809), fr_pud&nbsp;(1420), fr_sequoia&nbsp;(3515), fr_spoken&nbsp;(2884), fro_srcmf&nbsp;(438), ga_idt&nbsp;(4975), gd_arcosg&nbsp;(2941), gl_treegal&nbsp;(1340), got_proiel&nbsp;(7995), grc_perseus&nbsp;(13731), grc_proiel&nbsp;(17949), gv_cadhan&nbsp;(1065), hi_hdtb&nbsp;(11484), hi_pud&nbsp;(776), hr_set&nbsp;(18714), hsb_ufal&nbsp;(656), hu_szeged&nbsp;(1855), hy_armtdp&nbsp;(3355), hyw_armtdp&nbsp;(1653), is_icepahc&nbsp;(54825), is_modern&nbsp;(14574), is_pud&nbsp;(938), it_isdt&nbsp;(17199), it_partut&nbsp;(2797), it_postwita&nbsp;(9934), it_pud&nbsp;(1048), it_twittiro&nbsp;(2339), it_valico&nbsp;(513), it_vit&nbsp;(12942), kfm_aha&nbsp;(8), kk_ktb&nbsp;(405), kmr_mg&nbsp;(557), koi_uh&nbsp;(35), kpv_ikdp&nbsp;(90), kpv_lattice&nbsp;(318), krl_kkpp&nbsp;(195), la_ittb&nbsp;(64358), la_llct&nbsp;(15761), la_perseus&nbsp;(2938), la_proiel&nbsp;(25057), la_udante&nbsp;(7089), lt_alksnis&nbsp;(4550), lt_hse&nbsp;(345), lv_lvtb&nbsp;(17404), lzh_kyoto&nbsp;(63), mdf_jr&nbsp;(108), mr_ufal&nbsp;(121), myv_jr&nbsp;(972), nl_alpino&nbsp;(9296), nl_lassysmall&nbsp;(3264), no_bokmaal&nbsp;(25689), no_nynorsk&nbsp;(24155), no_nynorsklia&nbsp;(3219), nyq_aha&nbsp;(8), olo_kkpp&nbsp;(123), orv_rnc&nbsp;(503), orv_torot&nbsp;(11127), pcm_nsc&nbsp;(509), pl_lfg&nbsp;(8673), pl_pdb&nbsp;(20011), pl_pud&nbsp;(727), pt_bosque&nbsp;(8575), pt_pud&nbsp;(720), qtd_sagt&nbsp;(3225), ro_art&nbsp;(53), ro_nonstandard&nbsp;(52283), ro_rrt&nbsp;(12896), ro_simonero&nbsp;(8094), ru_gsd&nbsp;(2587), ru_pud&nbsp;(669), ru_syntagrus&nbsp;(43717), ru_taiga&nbsp;(8866), sa_ufal&nbsp;(105), sa_vedic&nbsp;(3206), sk_snk&nbsp;(5719), sl_ssj&nbsp;(13189), sl_sst&nbsp;(3649), sme_giella&nbsp;(2785), sms_giellagas&nbsp;(244), soj_aha&nbsp;(5), sq_tsa&nbsp;(76), sr_set&nbsp;(9856), sv_lines&nbsp;(4068), sv_pud&nbsp;(1006), sv_talbanken&nbsp;(8977), ta_mwtt&nbsp;(107), ta_ttb&nbsp;(123), tr_boun&nbsp;(7008), tr_framenet&nbsp;(1062), tr_gb&nbsp;(1416), tr_imst&nbsp;(6530), tr_kenet&nbsp;(11210), tr_penn&nbsp;(4009), tr_pud&nbsp;(979), tr_tourism&nbsp;(3048), ug_udt&nbsp;(334), uk_iu&nbsp;(4200), ur_udtb&nbsp;(3962), wbp_ufal&nbsp;(92), wo_wtb&nbsp;(1342))
 
 ## Trans
 
 [Trans]()
 
-* Trans=Yes	aqz_tudet	9
-* Trans=Yes	myu_tudet	3
+* `Yes` (aqz_tudet&nbsp;(9), myu_tudet&nbsp;(3))
 
 ## Tv
 
 [Tv]()
 
-* Tv=Yes	aqz_tudet	27
+* `Yes` (aqz_tudet&nbsp;(27))
 
 ## Typo
 
 [Typo]()
 
-* Typo=Yes	be_hse	69
-* Typo=Yes	cs_pdt	1
-* Typo=Yes	de_gsd	26
-* Typo=Yes	en_ewt	439
-* Typo=Yes	en_gum	334
-* Typo=Yes	en_gumreddit	110
-* Typo=Yes	es_ancora	1
-* Typo=Yes	et_edt	1
-* Typo=Yes	et_ewt	827
-* Typo=Yes	fi_ood	79
-* Typo=Yes	fi_tdt	400
-* Typo=Yes	fr_gsd	619
-* Typo=Yes	ga_idt	262
-* Typo=Yes	gv_cadhan	2
-* Typo=Yes	hy_armtdp	50
-* Typo=Yes	hyw_armtdp	94
-* Typo=Yes	id_pud	6
-* Typo=Yes	krl_kkpp	1
-* Typo=Yes	lv_lvtb	318
-* Typo=Yes	mdf_jr	4
-* Typo=Yes	myv_jr	5
-* Typo=Yes	qtd_sagt	21
-* Typo=Yes	ru_taiga	843
-* Typo=Yes	sk_snk	133
-* Typo=Yes	sms_giellagas	5
-* Typo=Yes	yo_ytb	32
+* `Yes` (be_hse&nbsp;(69), cs_pdt&nbsp;(1), de_gsd&nbsp;(26), en_ewt&nbsp;(439), en_gum&nbsp;(334), en_gumreddit&nbsp;(110), es_ancora&nbsp;(1), et_edt&nbsp;(1), et_ewt&nbsp;(827), fi_ood&nbsp;(79), fi_tdt&nbsp;(400), fr_gsd&nbsp;(619), ga_idt&nbsp;(262), gv_cadhan&nbsp;(2), hy_armtdp&nbsp;(50), hyw_armtdp&nbsp;(94), id_pud&nbsp;(6), krl_kkpp&nbsp;(1), lv_lvtb&nbsp;(318), mdf_jr&nbsp;(4), myv_jr&nbsp;(5), qtd_sagt&nbsp;(21), ru_taiga&nbsp;(843), sk_snk&nbsp;(133), sms_giellagas&nbsp;(5), yo_ytb&nbsp;(32))
 
 ## Uninflect
 
 [Uninflect]()
 
-* Uninflect=Yes	uk_iu	3494
+* `Yes` (uk_iu&nbsp;(3494))
 
 ## Valency
 
 [Valency]()
 
-* Valency=1	bm_crb	448
-* Valency=1	koi_uh	2
-* Valency=1	kpv_lattice	210
-* Valency=1	mdf_jr	146
-* Valency=1	myv_jr	1347
-* Valency=1	sms_giellagas	47
-* Valency=2	bm_crb	370
-* Valency=2	kpv_ikdp	1
-* Valency=2	kpv_lattice	146
-* Valency=2	mdf_jr	99
-* Valency=2	myv_jr	1289
-* Valency=2	sms_giellagas	13
+* `1` (bm_crb&nbsp;(448), koi_uh&nbsp;(2), kpv_lattice&nbsp;(210), mdf_jr&nbsp;(146), myv_jr&nbsp;(1347), sms_giellagas&nbsp;(47))
+* `2` (bm_crb&nbsp;(370), kpv_ikdp&nbsp;(1), kpv_lattice&nbsp;(146), mdf_jr&nbsp;(99), myv_jr&nbsp;(1289), sms_giellagas&nbsp;(13))
 
 ## Variant
 
 [Variant]()
 
-* Variant=Bound	sl_ssj	121
-* Variant=Bound	sl_sst	7
-* Variant=Greek	la_udante	17
-* Variant=Long	mdf_jr	3
-* Variant=Long	myv_jr	20
-* Variant=Long	pl_lfg	3105
-* Variant=Long	pl_pdb	5687
-* Variant=Long	pl_pud	246
-* Variant=Long	ro_nonstandard	189
-* Variant=Short	be_hse	1073
-* Variant=Short	cs_cac	14260
-* Variant=Short	cs_cltt	837
-* Variant=Short	cs_fictree	8918
-* Variant=Short	cs_pdt	38595
-* Variant=Short	cs_pud	599
-* Variant=Short	cu_proiel	4305
-* Variant=Short	de_hdt	74402
-* Variant=Short	lt_hse	12
-* Variant=Short	mdf_jr	13
-* Variant=Short	myv_jr	81
-* Variant=Short	orv_rnc	564
-* Variant=Short	orv_torot	10547
-* Variant=Short	pl_lfg	7064
-* Variant=Short	pl_pdb	21226
-* Variant=Short	pl_pud	1183
-* Variant=Short	ro_art	41
-* Variant=Short	ro_rrt	3278
-* Variant=Short	ro_simonero	642
-* Variant=Short	ru_gsd	1223
-* Variant=Short	ru_pud	260
-* Variant=Short	ru_syntagrus	14611
-* Variant=Short	ru_taiga	3012
-* Variant=Short	sl_ssj	3798
-* Variant=Short	sl_sst	797
-* Variant=Short	uk_iu	50
-* Variant=Uncontr	uk_iu	5
+* `Bound` (sl_ssj&nbsp;(121), sl_sst&nbsp;(7))
+* `Greek` (la_udante&nbsp;(17))
+* `Long` (mdf_jr&nbsp;(3), myv_jr&nbsp;(20), pl_lfg&nbsp;(3105), pl_pdb&nbsp;(5687), pl_pud&nbsp;(246), ro_nonstandard&nbsp;(189))
+* `Short` (be_hse&nbsp;(1073), cs_cac&nbsp;(14260), cs_cltt&nbsp;(837), cs_fictree&nbsp;(8918), cs_pdt&nbsp;(38595), cs_pud&nbsp;(599), cu_proiel&nbsp;(4305), de_hdt&nbsp;(74402), lt_hse&nbsp;(12), mdf_jr&nbsp;(13), myv_jr&nbsp;(81), orv_rnc&nbsp;(564), orv_torot&nbsp;(10547), pl_lfg&nbsp;(7064), pl_pdb&nbsp;(21226), pl_pud&nbsp;(1183), ro_art&nbsp;(41), ro_rrt&nbsp;(3278), ro_simonero&nbsp;(642), ru_gsd&nbsp;(1223), ru_pud&nbsp;(260), ru_syntagrus&nbsp;(14611), ru_taiga&nbsp;(3012), sl_ssj&nbsp;(3798), sl_sst&nbsp;(797), uk_iu&nbsp;(50))
+* `Uncontr` (uk_iu&nbsp;(5))
 
 ## Ventive
 
 [Ventive]()
 
-* Ventive=Yes	akk_riao	292
+* `Yes` (akk_riao&nbsp;(292))
 
 ## VerbClass
 
 [VerbClass]()
 
-* VerbClass=1	bej_nsc	130
-* VerbClass=2	bej_nsc	72
+* `1` (bej_nsc&nbsp;(130))
+* `2` (bej_nsc&nbsp;(72))
 
 ## VerbForm
 
 [VerbForm]()
 
-* VerbForm=Conv	am_att	51
-* VerbForm=Conv	apu_ufpa	2
-* VerbForm=Conv	be_hse	357
-* VerbForm=Conv	bej_nsc	36
-* VerbForm=Conv	bho_bhtb	4
-* VerbForm=Conv	bxr_bdt	9
-* VerbForm=Conv	cs_cac	45
-* VerbForm=Conv	cs_cltt	1
-* VerbForm=Conv	cs_fictree	53
-* VerbForm=Conv	cs_pdt	144
-* VerbForm=Conv	cs_pud	3
-* VerbForm=Conv	el_gdt	103
-* VerbForm=Conv	et_edt	1349
-* VerbForm=Conv	et_ewt	158
-* VerbForm=Conv	hi_hdtb	1130
-* VerbForm=Conv	hr_set	472
-* VerbForm=Conv	hsb_ufal	6
-* VerbForm=Conv	hu_szeged	81
-* VerbForm=Conv	hy_armtdp	9
-* VerbForm=Conv	kk_ktb	272
-* VerbForm=Conv	koi_uh	6
-* VerbForm=Conv	kpv_ikdp	4
-* VerbForm=Conv	kpv_lattice	49
-* VerbForm=Conv	lt_alksnis	207
-* VerbForm=Conv	lt_hse	9
-* VerbForm=Conv	lv_lvtb	1875
-* VerbForm=Conv	lzh_kyoto	7758
-* VerbForm=Conv	mdf_jr	10
-* VerbForm=Conv	mr_ufal	97
-* VerbForm=Conv	myv_jr	269
-* VerbForm=Conv	orv_rnc	113
-* VerbForm=Conv	pl_lfg	273
-* VerbForm=Conv	pl_pdb	1271
-* VerbForm=Conv	pl_pud	69
-* VerbForm=Conv	qtd_sagt	121
-* VerbForm=Conv	ru_gsd	306
-* VerbForm=Conv	ru_pud	71
-* VerbForm=Conv	ru_syntagrus	4056
-* VerbForm=Conv	ru_taiga	513
-* VerbForm=Conv	sa_ufal	36
-* VerbForm=Conv	sa_vedic	165
-* VerbForm=Conv	sk_snk	21
-* VerbForm=Conv	sl_ssj	18
-* VerbForm=Conv	sl_sst	1
-* VerbForm=Conv	sr_set	280
-* VerbForm=Conv	ta_mwtt	65
-* VerbForm=Conv	tr_boun	691
-* VerbForm=Conv	tr_gb	116
-* VerbForm=Conv	tr_imst	794
-* VerbForm=Conv	tr_kenet	29
-* VerbForm=Conv	tr_penn	8
-* VerbForm=Conv	tr_pud	20
-* VerbForm=Conv	tr_tourism	1
-* VerbForm=Conv	ug_udt	1456
-* VerbForm=Conv	uk_iu	425
-* VerbForm=Conv	ur_udtb	26
-* VerbForm=Cop	ga_idt	1658
-* VerbForm=Fin	af_afribooms	6689
-* VerbForm=Fin	aii_as	22
-* VerbForm=Fin	akk_riao	2823
-* VerbForm=Fin	ar_padt	10278
-* VerbForm=Fin	be_hse	24686
-* VerbForm=Fin	bg_btb	18657
-* VerbForm=Fin	bho_bhtb	69
-* VerbForm=Fin	br_keb	908
-* VerbForm=Fin	bxr_bdt	507
-* VerbForm=Fin	ca_ancora	38282
-* VerbForm=Fin	cop_scriptorium	5300
-* VerbForm=Fin	cs_cac	33592
-* VerbForm=Fin	cs_cltt	1936
-* VerbForm=Fin	cs_fictree	12757
-* VerbForm=Fin	cs_pdt	93481
-* VerbForm=Fin	cs_pud	953
-* VerbForm=Fin	cu_proiel	10567
-* VerbForm=Fin	cy_ccg	2554
-* VerbForm=Fin	da_ddt	10010
-* VerbForm=Fin	de_gsd	22394
-* VerbForm=Fin	de_hdt	268480
-* VerbForm=Fin	de_pud	1
-* VerbForm=Fin	el_gdt	6464
-* VerbForm=Fin	en_ewt	24724
-* VerbForm=Fin	en_gum	11654
-* VerbForm=Fin	en_gumreddit	1879
-* VerbForm=Fin	en_lines	9595
-* VerbForm=Fin	en_partut	3693
-* VerbForm=Fin	en_pronouns	320
-* VerbForm=Fin	en_pud	1735
-* VerbForm=Fin	es_ancora	43175
-* VerbForm=Fin	es_gsd	31019
-* VerbForm=Fin	es_pud	2899
-* VerbForm=Fin	et_edt	49207
-* VerbForm=Fin	et_ewt	8776
-* VerbForm=Fin	fa_perdt	4613
-* VerbForm=Fin	fa_seraji	346
-* VerbForm=Fin	fi_ftb	27122
-* VerbForm=Fin	fi_ood	2374
-* VerbForm=Fin	fi_pud	1960
-* VerbForm=Fin	fi_tdt	25951
-* VerbForm=Fin	fr_fqb	2440
-* VerbForm=Fin	fr_ftb	30885
-* VerbForm=Fin	fr_gsd	24885
-* VerbForm=Fin	fr_partut	1818
-* VerbForm=Fin	fr_pud	1775
-* VerbForm=Fin	fr_sequoia	3899
-* VerbForm=Fin	fr_spoken	3250
-* VerbForm=Fin	fro_srcmf	28007
-* VerbForm=Fin	gl_treegal	2008
-* VerbForm=Fin	got_proiel	9269
-* VerbForm=Fin	grc_perseus	23028
-* VerbForm=Fin	grc_proiel	26868
-* VerbForm=Fin	gun_dooley	1637
-* VerbForm=Fin	gun_thomas	211
-* VerbForm=Fin	hi_hdtb	17259
-* VerbForm=Fin	hr_set	19323
-* VerbForm=Fin	hsb_ufal	927
-* VerbForm=Fin	hu_szeged	3494
-* VerbForm=Fin	hy_armtdp	5569
-* VerbForm=Fin	hyw_armtdp	4011
-* VerbForm=Fin	is_icepahc	126731
-* VerbForm=Fin	is_pud	2022
-* VerbForm=Fin	it_isdt	20788
-* VerbForm=Fin	it_partut	3523
-* VerbForm=Fin	it_postwita	11133
-* VerbForm=Fin	it_twittiro	2735
-* VerbForm=Fin	it_valico	918
-* VerbForm=Fin	it_vit	15958
-* VerbForm=Fin	kk_ktb	1006
-* VerbForm=Fin	kmr_mg	1314
-* VerbForm=Fin	ko_pud	762
-* VerbForm=Fin	kpv_lattice	1
-* VerbForm=Fin	krl_kkpp	409
-* VerbForm=Fin	la_ittb	57611
-* VerbForm=Fin	la_llct	18482
-* VerbForm=Fin	la_perseus	4095
-* VerbForm=Fin	la_proiel	34175
-* VerbForm=Fin	la_udante	6767
-* VerbForm=Fin	lt_alksnis	4832
-* VerbForm=Fin	lt_hse	488
-* VerbForm=Fin	lv_lvtb	27874
-* VerbForm=Fin	mr_ufal	680
-* VerbForm=Fin	nl_alpino	14245
-* VerbForm=Fin	nl_lassysmall	6132
-* VerbForm=Fin	no_bokmaal	34828
-* VerbForm=Fin	no_nynorsk	32740
-* VerbForm=Fin	no_nynorsklia	6780
-* VerbForm=Fin	olo_kkpp	248
-* VerbForm=Fin	orv_rnc	1047
-* VerbForm=Fin	orv_torot	18159
-* VerbForm=Fin	pcm_nsc	530
-* VerbForm=Fin	pl_lfg	20876
-* VerbForm=Fin	pl_pdb	38334
-* VerbForm=Fin	pl_pud	1719
-* VerbForm=Fin	pt_bosque	15845
-* VerbForm=Fin	pt_gsd	1
-* VerbForm=Fin	pt_pud	5
-* VerbForm=Fin	qtd_sagt	2162
-* VerbForm=Fin	quc_iu	1435
-* VerbForm=Fin	ro_art	116
-* VerbForm=Fin	ro_nonstandard	44475
-* VerbForm=Fin	ro_rrt	15099
-* VerbForm=Fin	ro_simonero	7950
-* VerbForm=Fin	ru_gsd	6031
-* VerbForm=Fin	ru_pud	1606
-* VerbForm=Fin	ru_syntagrus	85666
-* VerbForm=Fin	ru_taiga	17959
-* VerbForm=Fin	sa_ufal	178
-* VerbForm=Fin	sk_snk	6227
-* VerbForm=Fin	sl_ssj	15403
-* VerbForm=Fin	sl_sst	4309
-* VerbForm=Fin	sme_giella	4812
-* VerbForm=Fin	sr_set	10169
-* VerbForm=Fin	sv_lines	10426
-* VerbForm=Fin	sv_pud	1892
-* VerbForm=Fin	sv_talbanken	9709
-* VerbForm=Fin	ta_mwtt	66
-* VerbForm=Fin	ta_ttb	747
-* VerbForm=Fin	tr_framenet	2818
-* VerbForm=Fin	tr_gb	2744
-* VerbForm=Fin	tr_kenet	16071
-* VerbForm=Fin	tr_penn	7081
-* VerbForm=Fin	tr_tourism	17444
-* VerbForm=Fin	ug_udt	1656
-* VerbForm=Fin	uk_iu	10990
-* VerbForm=Fin	ur_udtb	6166
-* VerbForm=Fin	wbp_ufal	10
-* VerbForm=Fin	wo_wtb	7227
-* VerbForm=FinRel	cy_ccg	210
-* VerbForm=Gdv	grc_proiel	10
-* VerbForm=Gdv	hy_armtdp	671
-* VerbForm=Gdv	la_ittb	1226
-* VerbForm=Gdv	la_llct	21
-* VerbForm=Gdv	la_perseus	63
-* VerbForm=Gdv	la_proiel	740
-* VerbForm=Gdv	la_udante	449
-* VerbForm=Gdv	sa_vedic	64
-* VerbForm=Ger	bxr_bdt	202
-* VerbForm=Ger	ca_ancora	1198
-* VerbForm=Ger	da_ddt	18
-* VerbForm=Ger	en_ewt	2969
-* VerbForm=Ger	en_gum	1818
-* VerbForm=Ger	en_gumreddit	195
-* VerbForm=Ger	en_partut	469
-* VerbForm=Ger	en_pronouns	5
-* VerbForm=Ger	en_pud	291
-* VerbForm=Ger	es_ancora	1406
-* VerbForm=Ger	es_gsd	2042
-* VerbForm=Ger	gl_treegal	112
-* VerbForm=Ger	it_isdt	721
-* VerbForm=Ger	it_partut	173
-* VerbForm=Ger	it_postwita	244
-* VerbForm=Ger	it_twittiro	51
-* VerbForm=Ger	it_valico	54
-* VerbForm=Ger	it_vit	730
-* VerbForm=Ger	kk_ktb	317
-* VerbForm=Ger	ko_pud	79
-* VerbForm=Ger	krl_kkpp	1
-* VerbForm=Ger	la_ittb	1514
-* VerbForm=Ger	la_llct	1834
-* VerbForm=Ger	la_perseus	24
-* VerbForm=Ger	la_proiel	306
-* VerbForm=Ger	la_udante	177
-* VerbForm=Ger	lt_alksnis	496
-* VerbForm=Ger	lt_hse	11
-* VerbForm=Ger	olo_kkpp	6
-* VerbForm=Ger	pt_bosque	856
-* VerbForm=Ger	pt_gsd	1
-* VerbForm=Ger	ro_nonstandard	5602
-* VerbForm=Ger	ro_rrt	1161
-* VerbForm=Ger	ro_simonero	693
-* VerbForm=Ger	sme_giella	131
-* VerbForm=Ger	sms_giellagas	1
-* VerbForm=Ger	sq_tsa	2
-* VerbForm=Ger	ta_ttb	210
-* VerbForm=Ger	tpn_tudet	100
-* VerbForm=Ger	ug_udt	668
-* VerbForm=Inf	af_afribooms	6329
-* VerbForm=Inf	akk_riao	105
-* VerbForm=Inf	be_hse	4935
-* VerbForm=Inf	bho_bhtb	18
-* VerbForm=Inf	br_keb	413
-* VerbForm=Inf	bxr_bdt	316
-* VerbForm=Inf	ca_ancora	16967
-* VerbForm=Inf	cop_scriptorium	220
-* VerbForm=Inf	cs_cac	8246
-* VerbForm=Inf	cs_cltt	362
-* VerbForm=Inf	cs_fictree	3231
-* VerbForm=Inf	cs_pdt	26268
-* VerbForm=Inf	cs_pud	309
-* VerbForm=Inf	cu_proiel	832
-* VerbForm=Inf	da_ddt	3008
-* VerbForm=Inf	de_gsd	3656
-* VerbForm=Inf	de_hdt	85619
-* VerbForm=Inf	de_pud	47
-* VerbForm=Inf	el_gdt	242
-* VerbForm=Inf	en_ewt	10150
-* VerbForm=Inf	en_gum	3992
-* VerbForm=Inf	en_gumreddit	780
-* VerbForm=Inf	en_lines	2868
-* VerbForm=Inf	en_partut	1453
-* VerbForm=Inf	en_pronouns	5
-* VerbForm=Inf	en_pud	507
-* VerbForm=Inf	es_ancora	11979
-* VerbForm=Inf	es_gsd	7190
-* VerbForm=Inf	et_edt	7705
-* VerbForm=Inf	et_ewt	1489
-* VerbForm=Inf	eu_bdt	2212
-* VerbForm=Inf	fa_seraji	335
-* VerbForm=Inf	fi_ftb	5350
-* VerbForm=Inf	fi_ood	528
-* VerbForm=Inf	fi_pud	384
-* VerbForm=Inf	fi_tdt	5702
-* VerbForm=Inf	fo_farpahc	914
-* VerbForm=Inf	fo_oft	114
-* VerbForm=Inf	fr_fqb	282
-* VerbForm=Inf	fr_ftb	11363
-* VerbForm=Inf	fr_gsd	6176
-* VerbForm=Inf	fr_partut	775
-* VerbForm=Inf	fr_pud	469
-* VerbForm=Inf	fr_sequoia	1423
-* VerbForm=Inf	fr_spoken	816
-* VerbForm=Inf	fro_srcmf	4030
-* VerbForm=Inf	ga_idt	3341
-* VerbForm=Inf	gd_arcosg	1204
-* VerbForm=Inf	gl_treegal	626
-* VerbForm=Inf	got_proiel	841
-* VerbForm=Inf	grc_perseus	4157
-* VerbForm=Inf	grc_proiel	4614
-* VerbForm=Inf	gub_tudet	2
-* VerbForm=Inf	gun_dooley	462
-* VerbForm=Inf	gun_thomas	34
-* VerbForm=Inf	he_htb	2599
-* VerbForm=Inf	hi_hdtb	7999
-* VerbForm=Inf	hi_pud	437
-* VerbForm=Inf	hr_set	3923
-* VerbForm=Inf	hsb_ufal	125
-* VerbForm=Inf	hu_szeged	342
-* VerbForm=Inf	hy_armtdp	594
-* VerbForm=Inf	hyw_armtdp	934
-* VerbForm=Inf	is_icepahc	28239
-* VerbForm=Inf	is_modern	6088
-* VerbForm=Inf	is_pud	467
-* VerbForm=Inf	it_isdt	6328
-* VerbForm=Inf	it_partut	1376
-* VerbForm=Inf	it_postwita	2615
-* VerbForm=Inf	it_twittiro	623
-* VerbForm=Inf	it_valico	179
-* VerbForm=Inf	it_vit	5210
-* VerbForm=Inf	kk_ktb	226
-* VerbForm=Inf	kmr_mg	123
-* VerbForm=Inf	koi_uh	18
-* VerbForm=Inf	kpv_ikdp	59
-* VerbForm=Inf	kpv_lattice	188
-* VerbForm=Inf	krl_kkpp	85
-* VerbForm=Inf	la_ittb	9488
-* VerbForm=Inf	la_llct	4467
-* VerbForm=Inf	la_perseus	778
-* VerbForm=Inf	la_proiel	4931
-* VerbForm=Inf	la_udante	1475
-* VerbForm=Inf	lt_alksnis	2053
-* VerbForm=Inf	lt_hse	139
-* VerbForm=Inf	lv_lvtb	5867
-* VerbForm=Inf	mdf_jr	54
-* VerbForm=Inf	mr_ufal	44
-* VerbForm=Inf	myv_jr	354
-* VerbForm=Inf	nl_alpino	4911
-* VerbForm=Inf	nl_lassysmall	1115
-* VerbForm=Inf	no_bokmaal	9986
-* VerbForm=Inf	no_nynorsk	9687
-* VerbForm=Inf	no_nynorsklia	1164
-* VerbForm=Inf	olo_kkpp	35
-* VerbForm=Inf	orv_rnc	632
-* VerbForm=Inf	orv_torot	2424
-* VerbForm=Inf	pcm_nsc	3
-* VerbForm=Inf	pl_lfg	2569
-* VerbForm=Inf	pl_pdb	5913
-* VerbForm=Inf	pl_pud	250
-* VerbForm=Inf	pt_bosque	5054
-* VerbForm=Inf	pt_pud	2
-* VerbForm=Inf	qtd_sagt	531
-* VerbForm=Inf	quc_iu	79
-* VerbForm=Inf	ro_nonstandard	9191
-* VerbForm=Inf	ro_rrt	2727
-* VerbForm=Inf	ro_simonero	1333
-* VerbForm=Inf	ru_gsd	863
-* VerbForm=Inf	ru_pud	336
-* VerbForm=Inf	ru_syntagrus	23797
-* VerbForm=Inf	ru_taiga	4847
-* VerbForm=Inf	sa_ufal	6
-* VerbForm=Inf	sa_vedic	36
-* VerbForm=Inf	sk_snk	1317
-* VerbForm=Inf	sl_ssj	1392
-* VerbForm=Inf	sl_sst	250
-* VerbForm=Inf	sme_giella	831
-* VerbForm=Inf	sms_giellagas	31
-* VerbForm=Inf	sq_tsa	4
-* VerbForm=Inf	sr_set	791
-* VerbForm=Inf	sv_lines	3542
-* VerbForm=Inf	sv_pud	580
-* VerbForm=Inf	sv_talbanken	3492
-* VerbForm=Inf	ta_mwtt	48
-* VerbForm=Inf	ta_ttb	476
-* VerbForm=Inf	ug_udt	343
-* VerbForm=Inf	uk_iu	2374
-* VerbForm=Inf	ur_udtb	2183
-* VerbForm=Inf	wbp_ufal	14
-* VerbForm=Inf	wo_wtb	1281
-* VerbForm=Part	af_afribooms	896
-* VerbForm=Part	aii_as	6
-* VerbForm=Part	ar_pud	141
-* VerbForm=Part	be_hse	2250
-* VerbForm=Part	bg_btb	4396
-* VerbForm=Part	bho_bhtb	357
-* VerbForm=Part	bm_crb	40
-* VerbForm=Part	br_keb	434
-* VerbForm=Part	ca_ancora	13078
-* VerbForm=Part	cs_cac	19394
-* VerbForm=Part	cs_cltt	722
-* VerbForm=Part	cs_fictree	16055
-* VerbForm=Part	cs_pdt	71005
-* VerbForm=Part	cs_pud	1405
-* VerbForm=Part	cu_proiel	3114
-* VerbForm=Part	da_ddt	2422
-* VerbForm=Part	de_gsd	5802
-* VerbForm=Part	de_hdt	62615
-* VerbForm=Part	de_pud	21
-* VerbForm=Part	el_gdt	123
-* VerbForm=Part	en_ewt	5991
-* VerbForm=Part	en_gum	3274
-* VerbForm=Part	en_gumreddit	359
-* VerbForm=Part	en_lines	3493
-* VerbForm=Part	en_partut	1544
-* VerbForm=Part	en_pronouns	45
-* VerbForm=Part	en_pud	629
-* VerbForm=Part	es_ancora	11752
-* VerbForm=Part	es_gsd	9496
-* VerbForm=Part	et_edt	13235
-* VerbForm=Part	et_ewt	1437
-* VerbForm=Part	eu_bdt	11217
-* VerbForm=Part	fa_perdt	5642
-* VerbForm=Part	fa_seraji	2595
-* VerbForm=Part	fi_ftb	5128
-* VerbForm=Part	fi_ood	801
-* VerbForm=Part	fi_pud	498
-* VerbForm=Part	fi_tdt	7825
-* VerbForm=Part	fo_farpahc	978
-* VerbForm=Part	fo_oft	16
-* VerbForm=Part	fr_fqb	868
-* VerbForm=Part	fr_ftb	18335
-* VerbForm=Part	fr_gsd	13771
-* VerbForm=Part	fr_partut	989
-* VerbForm=Part	fr_pud	1044
-* VerbForm=Part	fr_sequoia	2883
-* VerbForm=Part	fr_spoken	615
-* VerbForm=Part	fro_srcmf	5611
-* VerbForm=Part	ga_idt	915
-* VerbForm=Part	gl_treegal	237
-* VerbForm=Part	got_proiel	2639
-* VerbForm=Part	grc_perseus	10523
-* VerbForm=Part	grc_proiel	12114
-* VerbForm=Part	gun_dooley	1
-* VerbForm=Part	he_htb	5149
-* VerbForm=Part	hi_hdtb	26246
-* VerbForm=Part	hr_set	8767
-* VerbForm=Part	hsb_ufal	243
-* VerbForm=Part	hy_armtdp	3554
-* VerbForm=Part	hyw_armtdp	1254
-* VerbForm=Part	is_icepahc	9300
-* VerbForm=Part	is_modern	4104
-* VerbForm=Part	is_pud	229
-* VerbForm=Part	it_isdt	9117
-* VerbForm=Part	it_partut	1696
-* VerbForm=Part	it_postwita	1700
-* VerbForm=Part	it_twittiro	524
-* VerbForm=Part	it_valico	405
-* VerbForm=Part	it_vit	8475
-* VerbForm=Part	kfm_aha	2
-* VerbForm=Part	kk_ktb	182
-* VerbForm=Part	kmr_mg	13
-* VerbForm=Part	koi_uh	7
-* VerbForm=Part	kpv_ikdp	1
-* VerbForm=Part	kpv_lattice	83
-* VerbForm=Part	krl_kkpp	10
-* VerbForm=Part	la_ittb	13827
-* VerbForm=Part	la_llct	7901
-* VerbForm=Part	la_perseus	1199
-* VerbForm=Part	la_proiel	8368
-* VerbForm=Part	la_udante	2682
-* VerbForm=Part	lt_alksnis	3275
-* VerbForm=Part	lt_hse	172
-* VerbForm=Part	lv_lvtb	10113
-* VerbForm=Part	lzh_kyoto	8307
-* VerbForm=Part	mdf_jr	15
-* VerbForm=Part	mr_ufal	90
-* VerbForm=Part	myv_jr	42
-* VerbForm=Part	nl_alpino	5340
-* VerbForm=Part	nl_lassysmall	2044
-* VerbForm=Part	no_bokmaal	7550
-* VerbForm=Part	no_nynorsk	7388
-* VerbForm=Part	no_nynorsklia	467
-* VerbForm=Part	nyq_aha	2
-* VerbForm=Part	olo_kkpp	12
-* VerbForm=Part	orv_rnc	332
-* VerbForm=Part	orv_torot	6437
-* VerbForm=Part	pcm_nsc	290
-* VerbForm=Part	pl_lfg	1193
-* VerbForm=Part	pl_pdb	6770
-* VerbForm=Part	pl_pud	412
-* VerbForm=Part	pt_bosque	3991
-* VerbForm=Part	pt_gsd	1
-* VerbForm=Part	qtd_sagt	667
-* VerbForm=Part	quc_iu	13
-* VerbForm=Part	ro_art	5
-* VerbForm=Part	ro_nonstandard	18017
-* VerbForm=Part	ro_rrt	8273
-* VerbForm=Part	ro_simonero	4291
-* VerbForm=Part	ru_gsd	2046
-* VerbForm=Part	ru_pud	361
-* VerbForm=Part	ru_syntagrus	18326
-* VerbForm=Part	ru_taiga	1642
-* VerbForm=Part	sa_ufal	122
-* VerbForm=Part	sa_vedic	1047
-* VerbForm=Part	sk_snk	11235
-* VerbForm=Part	sl_ssj	9601
-* VerbForm=Part	sl_sst	1478
-* VerbForm=Part	sme_giella	523
-* VerbForm=Part	sms_giellagas	27
-* VerbForm=Part	soj_aha	2
-* VerbForm=Part	sq_tsa	23
-* VerbForm=Part	sr_set	4752
-* VerbForm=Part	sv_lines	380
-* VerbForm=Part	sv_pud	262
-* VerbForm=Part	sv_talbanken	1613
-* VerbForm=Part	ta_mwtt	6
-* VerbForm=Part	ta_ttb	882
-* VerbForm=Part	tr_boun	4646
-* VerbForm=Part	tr_gb	437
-* VerbForm=Part	tr_imst	2589
-* VerbForm=Part	tr_kenet	28
-* VerbForm=Part	tr_penn	8
-* VerbForm=Part	tr_pud	66
-* VerbForm=Part	tr_tourism	1
-* VerbForm=Part	ug_udt	309
-* VerbForm=Part	uk_iu	1311
-* VerbForm=Part	ur_udtb	10151
-* VerbForm=PartFut	hu_szeged	12
-* VerbForm=PartPast	hu_szeged	509
-* VerbForm=PartPres	hu_szeged	628
-* VerbForm=PartRes	cu_proiel	200
-* VerbForm=PartRes	orv_rnc	699
-* VerbForm=PartRes	orv_torot	1286
-* VerbForm=Post	gun_dooley	51
-* VerbForm=Post	gun_thomas	2
-* VerbForm=Prov	gun_dooley	6
-* VerbForm=Ser	gun_dooley	187
-* VerbForm=Ser	gun_thomas	10
-* VerbForm=Stat	akk_riao	256
-* VerbForm=Stem	sv_talbanken	1
-* VerbForm=Sup	cu_proiel	65
-* VerbForm=Sup	et_edt	3258
-* VerbForm=Sup	et_ewt	633
-* VerbForm=Sup	fo_oft	77
-* VerbForm=Sup	is_icepahc	9456
-* VerbForm=Sup	is_pud	234
-* VerbForm=Sup	la_proiel	16
-* VerbForm=Sup	la_udante	1
-* VerbForm=Sup	mr_ufal	9
-* VerbForm=Sup	orv_torot	69
-* VerbForm=Sup	sl_ssj	18
-* VerbForm=Sup	sl_sst	18
-* VerbForm=Sup	sme_giella	7
-* VerbForm=Sup	sv_lines	1109
-* VerbForm=Sup	sv_pud	221
-* VerbForm=Sup	sv_talbanken	901
-* VerbForm=Vnoun	am_att	166
-* VerbForm=Vnoun	apu_ufpa	9
-* VerbForm=Vnoun	bm_crb	20
-* VerbForm=Vnoun	cy_ccg	3432
-* VerbForm=Vnoun	ga_idt	759
-* VerbForm=Vnoun	gd_arcosg	2104
-* VerbForm=Vnoun	gun_dooley	65
-* VerbForm=Vnoun	gun_thomas	1
-* VerbForm=Vnoun	kpv_ikdp	6
-* VerbForm=Vnoun	kpv_lattice	52
-* VerbForm=Vnoun	mdf_jr	22
-* VerbForm=Vnoun	myv_jr	72
-* VerbForm=Vnoun	pl_lfg	562
-* VerbForm=Vnoun	pl_pdb	3904
-* VerbForm=Vnoun	pl_pud	220
-* VerbForm=Vnoun	qtd_sagt	241
-* VerbForm=Vnoun	sms_giellagas	1
-* VerbForm=Vnoun	tr_boun	30
-* VerbForm=Vnoun	tr_framenet	4
-* VerbForm=Vnoun	tr_gb	341
-* VerbForm=Vnoun	tr_imst	1417
-* VerbForm=Vnoun	tr_kenet	123
-* VerbForm=Vnoun	tr_penn	67
-* VerbForm=Vnoun	tr_pud	577
-* VerbForm=Vnoun	tr_tourism	10
+* `Conv` (am_att&nbsp;(51), apu_ufpa&nbsp;(2), be_hse&nbsp;(357), bej_nsc&nbsp;(36), bho_bhtb&nbsp;(4), bxr_bdt&nbsp;(9), cs_cac&nbsp;(45), cs_cltt&nbsp;(1), cs_fictree&nbsp;(53), cs_pdt&nbsp;(144), cs_pud&nbsp;(3), el_gdt&nbsp;(103), et_edt&nbsp;(1349), et_ewt&nbsp;(158), hi_hdtb&nbsp;(1130), hr_set&nbsp;(472), hsb_ufal&nbsp;(6), hu_szeged&nbsp;(81), hy_armtdp&nbsp;(9), kk_ktb&nbsp;(272), koi_uh&nbsp;(6), kpv_ikdp&nbsp;(4), kpv_lattice&nbsp;(49), lt_alksnis&nbsp;(207), lt_hse&nbsp;(9), lv_lvtb&nbsp;(1875), lzh_kyoto&nbsp;(7758), mdf_jr&nbsp;(10), mr_ufal&nbsp;(97), myv_jr&nbsp;(269), orv_rnc&nbsp;(113), pl_lfg&nbsp;(273), pl_pdb&nbsp;(1271), pl_pud&nbsp;(69), qtd_sagt&nbsp;(121), ru_gsd&nbsp;(306), ru_pud&nbsp;(71), ru_syntagrus&nbsp;(4056), ru_taiga&nbsp;(513), sa_ufal&nbsp;(36), sa_vedic&nbsp;(165), sk_snk&nbsp;(21), sl_ssj&nbsp;(18), sl_sst&nbsp;(1), sr_set&nbsp;(280), ta_mwtt&nbsp;(65), tr_boun&nbsp;(691), tr_gb&nbsp;(116), tr_imst&nbsp;(794), tr_kenet&nbsp;(29), tr_penn&nbsp;(8), tr_pud&nbsp;(20), tr_tourism&nbsp;(1), ug_udt&nbsp;(1456), uk_iu&nbsp;(425), ur_udtb&nbsp;(26))
+* `Cop` (ga_idt&nbsp;(1658))
+* `Fin` (af_afribooms&nbsp;(6689), aii_as&nbsp;(22), akk_riao&nbsp;(2823), ar_padt&nbsp;(10278), be_hse&nbsp;(24686), bg_btb&nbsp;(18657), bho_bhtb&nbsp;(69), br_keb&nbsp;(908), bxr_bdt&nbsp;(507), ca_ancora&nbsp;(38282), cop_scriptorium&nbsp;(5300), cs_cac&nbsp;(33592), cs_cltt&nbsp;(1936), cs_fictree&nbsp;(12757), cs_pdt&nbsp;(93481), cs_pud&nbsp;(953), cu_proiel&nbsp;(10567), cy_ccg&nbsp;(2554), da_ddt&nbsp;(10010), de_gsd&nbsp;(22394), de_hdt&nbsp;(268480), de_pud&nbsp;(1), el_gdt&nbsp;(6464), en_ewt&nbsp;(24724), en_gum&nbsp;(11654), en_gumreddit&nbsp;(1879), en_lines&nbsp;(9595), en_partut&nbsp;(3693), en_pronouns&nbsp;(320), en_pud&nbsp;(1735), es_ancora&nbsp;(43175), es_gsd&nbsp;(31019), es_pud&nbsp;(2899), et_edt&nbsp;(49207), et_ewt&nbsp;(8776), fa_perdt&nbsp;(4613), fa_seraji&nbsp;(346), fi_ftb&nbsp;(27122), fi_ood&nbsp;(2374), fi_pud&nbsp;(1960), fi_tdt&nbsp;(25951), fr_fqb&nbsp;(2440), fr_ftb&nbsp;(30885), fr_gsd&nbsp;(24885), fr_partut&nbsp;(1818), fr_pud&nbsp;(1775), fr_sequoia&nbsp;(3899), fr_spoken&nbsp;(3250), fro_srcmf&nbsp;(28007), gl_treegal&nbsp;(2008), got_proiel&nbsp;(9269), grc_perseus&nbsp;(23028), grc_proiel&nbsp;(26868), gun_dooley&nbsp;(1637), gun_thomas&nbsp;(211), hi_hdtb&nbsp;(17259), hr_set&nbsp;(19323), hsb_ufal&nbsp;(927), hu_szeged&nbsp;(3494), hy_armtdp&nbsp;(5569), hyw_armtdp&nbsp;(4011), is_icepahc&nbsp;(126731), is_pud&nbsp;(2022), it_isdt&nbsp;(20788), it_partut&nbsp;(3523), it_postwita&nbsp;(11133), it_twittiro&nbsp;(2735), it_valico&nbsp;(918), it_vit&nbsp;(15958), kk_ktb&nbsp;(1006), kmr_mg&nbsp;(1314), ko_pud&nbsp;(762), kpv_lattice&nbsp;(1), krl_kkpp&nbsp;(409), la_ittb&nbsp;(57611), la_llct&nbsp;(18482), la_perseus&nbsp;(4095), la_proiel&nbsp;(34175), la_udante&nbsp;(6767), lt_alksnis&nbsp;(4832), lt_hse&nbsp;(488), lv_lvtb&nbsp;(27874), mr_ufal&nbsp;(680), nl_alpino&nbsp;(14245), nl_lassysmall&nbsp;(6132), no_bokmaal&nbsp;(34828), no_nynorsk&nbsp;(32740), no_nynorsklia&nbsp;(6780), olo_kkpp&nbsp;(248), orv_rnc&nbsp;(1047), orv_torot&nbsp;(18159), pcm_nsc&nbsp;(530), pl_lfg&nbsp;(20876), pl_pdb&nbsp;(38334), pl_pud&nbsp;(1719), pt_bosque&nbsp;(15845), pt_gsd&nbsp;(1), pt_pud&nbsp;(5), qtd_sagt&nbsp;(2162), quc_iu&nbsp;(1435), ro_art&nbsp;(116), ro_nonstandard&nbsp;(44475), ro_rrt&nbsp;(15099), ro_simonero&nbsp;(7950), ru_gsd&nbsp;(6031), ru_pud&nbsp;(1606), ru_syntagrus&nbsp;(85666), ru_taiga&nbsp;(17959), sa_ufal&nbsp;(178), sk_snk&nbsp;(6227), sl_ssj&nbsp;(15403), sl_sst&nbsp;(4309), sme_giella&nbsp;(4812), sr_set&nbsp;(10169), sv_lines&nbsp;(10426), sv_pud&nbsp;(1892), sv_talbanken&nbsp;(9709), ta_mwtt&nbsp;(66), ta_ttb&nbsp;(747), tr_framenet&nbsp;(2818), tr_gb&nbsp;(2744), tr_kenet&nbsp;(16071), tr_penn&nbsp;(7081), tr_tourism&nbsp;(17444), ug_udt&nbsp;(1656), uk_iu&nbsp;(10990), ur_udtb&nbsp;(6166), wbp_ufal&nbsp;(10), wo_wtb&nbsp;(7227))
+* `FinRel` (cy_ccg&nbsp;(210))
+* `Gdv` (grc_proiel&nbsp;(10), hy_armtdp&nbsp;(671), la_ittb&nbsp;(1226), la_llct&nbsp;(21), la_perseus&nbsp;(63), la_proiel&nbsp;(740), la_udante&nbsp;(449), sa_vedic&nbsp;(64))
+* `Ger` (bxr_bdt&nbsp;(202), ca_ancora&nbsp;(1198), da_ddt&nbsp;(18), en_ewt&nbsp;(2969), en_gum&nbsp;(1818), en_gumreddit&nbsp;(195), en_partut&nbsp;(469), en_pronouns&nbsp;(5), en_pud&nbsp;(291), es_ancora&nbsp;(1406), es_gsd&nbsp;(2042), gl_treegal&nbsp;(112), it_isdt&nbsp;(721), it_partut&nbsp;(173), it_postwita&nbsp;(244), it_twittiro&nbsp;(51), it_valico&nbsp;(54), it_vit&nbsp;(730), kk_ktb&nbsp;(317), ko_pud&nbsp;(79), krl_kkpp&nbsp;(1), la_ittb&nbsp;(1514), la_llct&nbsp;(1834), la_perseus&nbsp;(24), la_proiel&nbsp;(306), la_udante&nbsp;(177), lt_alksnis&nbsp;(496), lt_hse&nbsp;(11), olo_kkpp&nbsp;(6), pt_bosque&nbsp;(856), pt_gsd&nbsp;(1), ro_nonstandard&nbsp;(5602), ro_rrt&nbsp;(1161), ro_simonero&nbsp;(693), sme_giella&nbsp;(131), sms_giellagas&nbsp;(1), sq_tsa&nbsp;(2), ta_ttb&nbsp;(210), tpn_tudet&nbsp;(100), ug_udt&nbsp;(668))
+* `Inf` (af_afribooms&nbsp;(6329), akk_riao&nbsp;(105), be_hse&nbsp;(4935), bho_bhtb&nbsp;(18), br_keb&nbsp;(413), bxr_bdt&nbsp;(316), ca_ancora&nbsp;(16967), cop_scriptorium&nbsp;(220), cs_cac&nbsp;(8246), cs_cltt&nbsp;(362), cs_fictree&nbsp;(3231), cs_pdt&nbsp;(26268), cs_pud&nbsp;(309), cu_proiel&nbsp;(832), da_ddt&nbsp;(3008), de_gsd&nbsp;(3656), de_hdt&nbsp;(85619), de_pud&nbsp;(47), el_gdt&nbsp;(242), en_ewt&nbsp;(10150), en_gum&nbsp;(3992), en_gumreddit&nbsp;(780), en_lines&nbsp;(2868), en_partut&nbsp;(1453), en_pronouns&nbsp;(5), en_pud&nbsp;(507), es_ancora&nbsp;(11979), es_gsd&nbsp;(7190), et_edt&nbsp;(7705), et_ewt&nbsp;(1489), eu_bdt&nbsp;(2212), fa_seraji&nbsp;(335), fi_ftb&nbsp;(5350), fi_ood&nbsp;(528), fi_pud&nbsp;(384), fi_tdt&nbsp;(5702), fo_farpahc&nbsp;(914), fo_oft&nbsp;(114), fr_fqb&nbsp;(282), fr_ftb&nbsp;(11363), fr_gsd&nbsp;(6176), fr_partut&nbsp;(775), fr_pud&nbsp;(469), fr_sequoia&nbsp;(1423), fr_spoken&nbsp;(816), fro_srcmf&nbsp;(4030), ga_idt&nbsp;(3341), gd_arcosg&nbsp;(1204), gl_treegal&nbsp;(626), got_proiel&nbsp;(841), grc_perseus&nbsp;(4157), grc_proiel&nbsp;(4614), gub_tudet&nbsp;(2), gun_dooley&nbsp;(462), gun_thomas&nbsp;(34), he_htb&nbsp;(2599), hi_hdtb&nbsp;(7999), hi_pud&nbsp;(437), hr_set&nbsp;(3923), hsb_ufal&nbsp;(125), hu_szeged&nbsp;(342), hy_armtdp&nbsp;(594), hyw_armtdp&nbsp;(934), is_icepahc&nbsp;(28239), is_modern&nbsp;(6088), is_pud&nbsp;(467), it_isdt&nbsp;(6328), it_partut&nbsp;(1376), it_postwita&nbsp;(2615), it_twittiro&nbsp;(623), it_valico&nbsp;(179), it_vit&nbsp;(5210), kk_ktb&nbsp;(226), kmr_mg&nbsp;(123), koi_uh&nbsp;(18), kpv_ikdp&nbsp;(59), kpv_lattice&nbsp;(188), krl_kkpp&nbsp;(85), la_ittb&nbsp;(9488), la_llct&nbsp;(4467), la_perseus&nbsp;(778), la_proiel&nbsp;(4931), la_udante&nbsp;(1475), lt_alksnis&nbsp;(2053), lt_hse&nbsp;(139), lv_lvtb&nbsp;(5867), mdf_jr&nbsp;(54), mr_ufal&nbsp;(44), myv_jr&nbsp;(354), nl_alpino&nbsp;(4911), nl_lassysmall&nbsp;(1115), no_bokmaal&nbsp;(9986), no_nynorsk&nbsp;(9687), no_nynorsklia&nbsp;(1164), olo_kkpp&nbsp;(35), orv_rnc&nbsp;(632), orv_torot&nbsp;(2424), pcm_nsc&nbsp;(3), pl_lfg&nbsp;(2569), pl_pdb&nbsp;(5913), pl_pud&nbsp;(250), pt_bosque&nbsp;(5054), pt_pud&nbsp;(2), qtd_sagt&nbsp;(531), quc_iu&nbsp;(79), ro_nonstandard&nbsp;(9191), ro_rrt&nbsp;(2727), ro_simonero&nbsp;(1333), ru_gsd&nbsp;(863), ru_pud&nbsp;(336), ru_syntagrus&nbsp;(23797), ru_taiga&nbsp;(4847), sa_ufal&nbsp;(6), sa_vedic&nbsp;(36), sk_snk&nbsp;(1317), sl_ssj&nbsp;(1392), sl_sst&nbsp;(250), sme_giella&nbsp;(831), sms_giellagas&nbsp;(31), sq_tsa&nbsp;(4), sr_set&nbsp;(791), sv_lines&nbsp;(3542), sv_pud&nbsp;(580), sv_talbanken&nbsp;(3492), ta_mwtt&nbsp;(48), ta_ttb&nbsp;(476), ug_udt&nbsp;(343), uk_iu&nbsp;(2374), ur_udtb&nbsp;(2183), wbp_ufal&nbsp;(14), wo_wtb&nbsp;(1281))
+* `Part` (af_afribooms&nbsp;(896), aii_as&nbsp;(6), ar_pud&nbsp;(141), be_hse&nbsp;(2250), bg_btb&nbsp;(4396), bho_bhtb&nbsp;(357), bm_crb&nbsp;(40), br_keb&nbsp;(434), ca_ancora&nbsp;(13078), cs_cac&nbsp;(19394), cs_cltt&nbsp;(722), cs_fictree&nbsp;(16055), cs_pdt&nbsp;(71005), cs_pud&nbsp;(1405), cu_proiel&nbsp;(3114), da_ddt&nbsp;(2422), de_gsd&nbsp;(5802), de_hdt&nbsp;(62615), de_pud&nbsp;(21), el_gdt&nbsp;(123), en_ewt&nbsp;(5991), en_gum&nbsp;(3274), en_gumreddit&nbsp;(359), en_lines&nbsp;(3493), en_partut&nbsp;(1544), en_pronouns&nbsp;(45), en_pud&nbsp;(629), es_ancora&nbsp;(11752), es_gsd&nbsp;(9496), et_edt&nbsp;(13235), et_ewt&nbsp;(1437), eu_bdt&nbsp;(11217), fa_perdt&nbsp;(5642), fa_seraji&nbsp;(2595), fi_ftb&nbsp;(5128), fi_ood&nbsp;(801), fi_pud&nbsp;(498), fi_tdt&nbsp;(7825), fo_farpahc&nbsp;(978), fo_oft&nbsp;(16), fr_fqb&nbsp;(868), fr_ftb&nbsp;(18335), fr_gsd&nbsp;(13771), fr_partut&nbsp;(989), fr_pud&nbsp;(1044), fr_sequoia&nbsp;(2883), fr_spoken&nbsp;(615), fro_srcmf&nbsp;(5611), ga_idt&nbsp;(915), gl_treegal&nbsp;(237), got_proiel&nbsp;(2639), grc_perseus&nbsp;(10523), grc_proiel&nbsp;(12114), gun_dooley&nbsp;(1), he_htb&nbsp;(5149), hi_hdtb&nbsp;(26246), hr_set&nbsp;(8767), hsb_ufal&nbsp;(243), hy_armtdp&nbsp;(3554), hyw_armtdp&nbsp;(1254), is_icepahc&nbsp;(9300), is_modern&nbsp;(4104), is_pud&nbsp;(229), it_isdt&nbsp;(9117), it_partut&nbsp;(1696), it_postwita&nbsp;(1700), it_twittiro&nbsp;(524), it_valico&nbsp;(405), it_vit&nbsp;(8475), kfm_aha&nbsp;(2), kk_ktb&nbsp;(182), kmr_mg&nbsp;(13), koi_uh&nbsp;(7), kpv_ikdp&nbsp;(1), kpv_lattice&nbsp;(83), krl_kkpp&nbsp;(10), la_ittb&nbsp;(13827), la_llct&nbsp;(7901), la_perseus&nbsp;(1199), la_proiel&nbsp;(8368), la_udante&nbsp;(2682), lt_alksnis&nbsp;(3275), lt_hse&nbsp;(172), lv_lvtb&nbsp;(10113), lzh_kyoto&nbsp;(8307), mdf_jr&nbsp;(15), mr_ufal&nbsp;(90), myv_jr&nbsp;(42), nl_alpino&nbsp;(5340), nl_lassysmall&nbsp;(2044), no_bokmaal&nbsp;(7550), no_nynorsk&nbsp;(7388), no_nynorsklia&nbsp;(467), nyq_aha&nbsp;(2), olo_kkpp&nbsp;(12), orv_rnc&nbsp;(332), orv_torot&nbsp;(6437), pcm_nsc&nbsp;(290), pl_lfg&nbsp;(1193), pl_pdb&nbsp;(6770), pl_pud&nbsp;(412), pt_bosque&nbsp;(3991), pt_gsd&nbsp;(1), qtd_sagt&nbsp;(667), quc_iu&nbsp;(13), ro_art&nbsp;(5), ro_nonstandard&nbsp;(18017), ro_rrt&nbsp;(8273), ro_simonero&nbsp;(4291), ru_gsd&nbsp;(2046), ru_pud&nbsp;(361), ru_syntagrus&nbsp;(18326), ru_taiga&nbsp;(1642), sa_ufal&nbsp;(122), sa_vedic&nbsp;(1047), sk_snk&nbsp;(11235), sl_ssj&nbsp;(9601), sl_sst&nbsp;(1478), sme_giella&nbsp;(523), sms_giellagas&nbsp;(27), soj_aha&nbsp;(2), sq_tsa&nbsp;(23), sr_set&nbsp;(4752), sv_lines&nbsp;(380), sv_pud&nbsp;(262), sv_talbanken&nbsp;(1613), ta_mwtt&nbsp;(6), ta_ttb&nbsp;(882), tr_boun&nbsp;(4646), tr_gb&nbsp;(437), tr_imst&nbsp;(2589), tr_kenet&nbsp;(28), tr_penn&nbsp;(8), tr_pud&nbsp;(66), tr_tourism&nbsp;(1), ug_udt&nbsp;(309), uk_iu&nbsp;(1311), ur_udtb&nbsp;(10151))
+* `PartFut` (hu_szeged&nbsp;(12))
+* `PartPast` (hu_szeged&nbsp;(509))
+* `PartPres` (hu_szeged&nbsp;(628))
+* `PartRes` (cu_proiel&nbsp;(200), orv_rnc&nbsp;(699), orv_torot&nbsp;(1286))
+* `Post` (gun_dooley&nbsp;(51), gun_thomas&nbsp;(2))
+* `Prov` (gun_dooley&nbsp;(6))
+* `Ser` (gun_dooley&nbsp;(187), gun_thomas&nbsp;(10))
+* `Stat` (akk_riao&nbsp;(256))
+* `Stem` (sv_talbanken&nbsp;(1))
+* `Sup` (cu_proiel&nbsp;(65), et_edt&nbsp;(3258), et_ewt&nbsp;(633), fo_oft&nbsp;(77), is_icepahc&nbsp;(9456), is_pud&nbsp;(234), la_proiel&nbsp;(16), la_udante&nbsp;(1), mr_ufal&nbsp;(9), orv_torot&nbsp;(69), sl_ssj&nbsp;(18), sl_sst&nbsp;(18), sme_giella&nbsp;(7), sv_lines&nbsp;(1109), sv_pud&nbsp;(221), sv_talbanken&nbsp;(901))
+* `Vnoun` (am_att&nbsp;(166), apu_ufpa&nbsp;(9), bm_crb&nbsp;(20), cy_ccg&nbsp;(3432), ga_idt&nbsp;(759), gd_arcosg&nbsp;(2104), gun_dooley&nbsp;(65), gun_thomas&nbsp;(1), kpv_ikdp&nbsp;(6), kpv_lattice&nbsp;(52), mdf_jr&nbsp;(22), myv_jr&nbsp;(72), pl_lfg&nbsp;(562), pl_pdb&nbsp;(3904), pl_pud&nbsp;(220), qtd_sagt&nbsp;(241), sms_giellagas&nbsp;(1), tr_boun&nbsp;(30), tr_framenet&nbsp;(4), tr_gb&nbsp;(341), tr_imst&nbsp;(1417), tr_kenet&nbsp;(123), tr_penn&nbsp;(67), tr_pud&nbsp;(577), tr_tourism&nbsp;(10))
 
 ## VerbStem
 
 [VerbStem]()
 
-* VerbStem=D	akk_riao	441
-* VerbStem=Dt	akk_riao	4
-* VerbStem=G	akk_riao	2262
-* VerbStem=Gt	akk_riao	14
-* VerbStem=Gtn	akk_riao	57
-* VerbStem=N	akk_riao	57
-* VerbStem=Ntn	akk_riao	1
-* VerbStem=S	akk_riao	285
-* VerbStem=St	akk_riao	4
-* VerbStem=Stn	akk_riao	3
+* `D` (akk_riao&nbsp;(441))
+* `Dt` (akk_riao&nbsp;(4))
+* `G` (akk_riao&nbsp;(2262))
+* `Gt` (akk_riao&nbsp;(14))
+* `Gtn` (akk_riao&nbsp;(57))
+* `N` (akk_riao&nbsp;(57))
+* `Ntn` (akk_riao&nbsp;(1))
+* `S` (akk_riao&nbsp;(285))
+* `St` (akk_riao&nbsp;(4))
+* `Stn` (akk_riao&nbsp;(3))
 
 ## VerbType
 
 [VerbType]()
 
-* VerbType=Aux	af_afribooms	423
-* VerbType=Aux	koi_uh	2
-* VerbType=Aux	mdf_jr	38
-* VerbType=Aux	myv_jr	77
-* VerbType=Cop	af_afribooms	688
-* VerbType=Cop	bej_nsc	15
-* VerbType=Cop	he_htb	1644
-* VerbType=Cop	lzh_kyoto	1984
-* VerbType=Cop	pcm_nsc	969
-* VerbType=Mod	af_afribooms	1173
-* VerbType=Mod	de_hdt	48361
-* VerbType=Mod	he_htb	843
-* VerbType=Mod	hsb_ufal	48
-* VerbType=Mod	la_ittb	4413
-* VerbType=Mod	la_llct	1486
-* VerbType=Mod	pl_pdb	332
-* VerbType=Mod	pl_pud	4
-* VerbType=Pas	af_afribooms	855
-* VerbType=Quasi	pl_lfg	905
-* VerbType=Quasi	pl_pdb	1473
-* VerbType=Quasi	pl_pud	68
-* VerbType=Vido	apu_ufpa	4
+* `Aux` (af_afribooms&nbsp;(423), koi_uh&nbsp;(2), mdf_jr&nbsp;(38), myv_jr&nbsp;(77))
+* `Cop` (af_afribooms&nbsp;(688), bej_nsc&nbsp;(15), he_htb&nbsp;(1644), lzh_kyoto&nbsp;(1984), pcm_nsc&nbsp;(969))
+* `Mod` (af_afribooms&nbsp;(1173), de_hdt&nbsp;(48361), he_htb&nbsp;(843), hsb_ufal&nbsp;(48), la_ittb&nbsp;(4413), la_llct&nbsp;(1486), pl_pdb&nbsp;(332), pl_pud&nbsp;(4))
+* `Pas` (af_afribooms&nbsp;(855))
+* `Quasi` (pl_lfg&nbsp;(905), pl_pdb&nbsp;(1473), pl_pud&nbsp;(68))
+* `Vido` (apu_ufpa&nbsp;(4))
 
 ## Voice
 
 [Voice]()
 
-* Voice=Act	ar_nyuad	56597
-* Voice=Act	ar_padt	20523
-* Voice=Act	ar_pud	1920
-* Voice=Act	be_hse	24801
-* Voice=Act	bg_btb	20616
-* Voice=Act	bho_bhtb	333
-* Voice=Act	cs_cac	46229
-* Voice=Act	cs_cltt	2373
-* Voice=Act	cs_fictree	26787
-* Voice=Act	cs_pdt	145235
-* Voice=Act	cs_pud	2052
-* Voice=Act	cu_proiel	14245
-* Voice=Act	da_ddt	12534
-* Voice=Act	el_gdt	4539
-* Voice=Act	es_pud	2078
-* Voice=Act	et_edt	58599
-* Voice=Act	et_ewt	10036
-* Voice=Act	fa_perdt	51138
-* Voice=Act	fi_ftb	33899
-* Voice=Act	fi_ood	3055
-* Voice=Act	fi_pud	2432
-* Voice=Act	fi_tdt	32669
-* Voice=Act	got_proiel	11757
-* Voice=Act	grc_perseus	26287
-* Voice=Act	grc_proiel	30471
-* Voice=Act	he_htb	8867
-* Voice=Act	hi_hdtb	23655
-* Voice=Act	hr_set	6713
-* Voice=Act	hsb_ufal	77
-* Voice=Act	hu_szeged	3802
-* Voice=Act	hy_armtdp	3492
-* Voice=Act	hyw_armtdp	2373
-* Voice=Act	id_csui	2300
-* Voice=Act	id_gsd	9339
-* Voice=Act	id_pud	1892
-* Voice=Act	is_icepahc	163142
-* Voice=Act	is_pud	2739
-* Voice=Act	it_pud	2129
-* Voice=Act	kpv_ikdp	3
-* Voice=Act	kpv_lattice	3
-* Voice=Act	krl_kkpp	363
-* Voice=Act	la_ittb	57456
-* Voice=Act	la_llct	22636
-* Voice=Act	la_perseus	4705
-* Voice=Act	la_proiel	37945
-* Voice=Act	la_udante	5060
-* Voice=Act	lt_alksnis	1013
-* Voice=Act	lt_hse	734
-* Voice=Act	lv_lvtb	31954
-* Voice=Act	olo_kkpp	237
-* Voice=Act	orv_rnc	2263
-* Voice=Act	orv_torot	27328
-* Voice=Act	pl_lfg	22422
-* Voice=Act	pl_pdb	44899
-* Voice=Act	pl_pud	2049
-* Voice=Act	ru_gsd	5228
-* Voice=Act	ru_pud	1688
-* Voice=Act	ru_syntagrus	93132
-* Voice=Act	ru_taiga	19586
-* Voice=Act	sa_ufal	140
-* Voice=Act	sk_snk	220
-* Voice=Act	sq_tsa	78
-* Voice=Act	sr_set	3656
-* Voice=Act	sv_lines	14023
-* Voice=Act	sv_pud	2351
-* Voice=Act	sv_talbanken	12323
-* Voice=Act	ta_mwtt	28
-* Voice=Act	ta_ttb	1616
-* Voice=Act	tl_trg	59
-* Voice=Act	uk_iu	78
-* Voice=Act	ur_udtb	8656
-* Voice=AgFoc	quc_iu	22
-* Voice=Antip	quc_iu	33
-* Voice=Bfoc	tl_trg	1
-* Voice=Cau	am_att	92
-* Voice=Cau	aqz_tudet	1
-* Voice=Cau	bej_nsc	4
-* Voice=Cau	bm_crb	15
-* Voice=Cau	bxr_bdt	14
-* Voice=Cau	eu_bdt	234
-* Voice=Cau	gub_tudet	4
-* Voice=Cau	hu_szeged	63
-* Voice=Cau	hy_armtdp	24
-* Voice=Cau	hyw_armtdp	20
-* Voice=Cau	ko_pud	44
-* Voice=Cau	mr_ufal	2
-* Voice=Cau	myu_tudet	6
-* Voice=Cau	qtd_sagt	69
-* Voice=Cau	sa_ufal	15
-* Voice=Cau	tpn_tudet	27
-* Voice=Cau	tr_boun	1039
-* Voice=Cau	tr_framenet	48
-* Voice=Cau	tr_gb	100
-* Voice=Cau	tr_imst	543
-* Voice=Cau	tr_kenet	724
-* Voice=Cau	tr_penn	381
-* Voice=Cau	tr_pud	86
-* Voice=Cau	tr_tourism	239
-* Voice=Cau	urb_tudet	7
-* Voice=Cau	zh_gsd	493
-* Voice=Cau	zh_gsdsimp	493
-* Voice=Cau	zh_pud	129
-* Voice=CauCau	qtd_sagt	1
-* Voice=CauCau	tr_gb	5
-* Voice=CauCauPass	tr_gb	1
-* Voice=CauPass	qtd_sagt	2
-* Voice=CauPass	tr_gb	12
-* Voice=CauPass	tr_imst	136
-* Voice=CauPass	tr_kenet	40
-* Voice=CauPass	tr_penn	89
-* Voice=CauPass	tr_pud	29
-* Voice=CauPass	tr_tourism	10
-* Voice=CauPassRcp	tr_gb	3
-* Voice=CauRcp	qtd_sagt	1
-* Voice=CauRcp	tr_gb	2
-* Voice=Com	tpn_tudet	12
-* Voice=Ifoc	tl_trg	1
-* Voice=Lfoc	tl_trg	6
-* Voice=Mid	be_hse	5199
-* Voice=Mid	bej_nsc	26
-* Voice=Mid	grc_perseus	9908
-* Voice=Mid	grc_proiel	7987
-* Voice=Mid	he_htb	1480
-* Voice=Mid	hy_armtdp	2717
-* Voice=Mid	hyw_armtdp	2244
-* Voice=Mid	is_icepahc	10584
-* Voice=Mid	myu_tudet	4
-* Voice=Mid	orv_rnc	208
-* Voice=Mid	ru_gsd	1730
-* Voice=Mid	ru_pud	391
-* Voice=Mid	ru_syntagrus	23520
-* Voice=Mid	ru_taiga	4191
-* Voice=Mid	sa_ufal	15
-* Voice=Mid	tpn_tudet	3
-* Voice=MidCau	myu_tudet	2
-* Voice=Pass	aii_as	1
-* Voice=Pass	am_att	137
-* Voice=Pass	ar_nyuad	3736
-* Voice=Pass	ar_padt	1224
-* Voice=Pass	ar_pud	242
-* Voice=Pass	be_hse	2219
-* Voice=Pass	bej_nsc	3
-* Voice=Pass	bg_btb	2050
-* Voice=Pass	bho_bhtb	4
-* Voice=Pass	cs_cac	4266
-* Voice=Pass	cs_cltt	260
-* Voice=Pass	cs_fictree	319
-* Voice=Pass	cs_pdt	9526
-* Voice=Pass	cs_pud	205
-* Voice=Pass	cu_proiel	468
-* Voice=Pass	da_ddt	484
-* Voice=Pass	de_gsd	3147
-* Voice=Pass	el_gdt	2393
-* Voice=Pass	en_ewt	1394
-* Voice=Pass	en_gum	1083
-* Voice=Pass	en_gumreddit	97
-* Voice=Pass	en_lines	1196
-* Voice=Pass	es_pud	218
-* Voice=Pass	et_edt	7004
-* Voice=Pass	et_ewt	810
-* Voice=Pass	fa_perdt	1081
-* Voice=Pass	fi_ftb	3398
-* Voice=Pass	fi_ood	452
-* Voice=Pass	fi_pud	340
-* Voice=Pass	fi_tdt	5240
-* Voice=Pass	fo_oft	48
-* Voice=Pass	fr_fqb	247
-* Voice=Pass	fr_ftb	3336
-* Voice=Pass	fr_sequoia	756
-* Voice=Pass	got_proiel	992
-* Voice=Pass	grc_perseus	1425
-* Voice=Pass	grc_proiel	5169
-* Voice=Pass	he_htb	1068
-* Voice=Pass	hi_hdtb	2448
-* Voice=Pass	hr_set	2054
-* Voice=Pass	hsb_ufal	208
-* Voice=Pass	hy_armtdp	510
-* Voice=Pass	hyw_armtdp	166
-* Voice=Pass	id_csui	671
-* Voice=Pass	id_gsd	3527
-* Voice=Pass	id_pud	503
-* Voice=Pass	is_pud	211
-* Voice=Pass	it_pud	337
-* Voice=Pass	kk_ktb	235
-* Voice=Pass	ko_pud	64
-* Voice=Pass	krl_kkpp	55
-* Voice=Pass	la_ittb	25989
-* Voice=Pass	la_llct	10069
-* Voice=Pass	la_perseus	1279
-* Voice=Pass	la_proiel	9529
-* Voice=Pass	la_udante	2914
-* Voice=Pass	lt_alksnis	2237
-* Voice=Pass	lt_hse	76
-* Voice=Pass	lv_lvtb	6085
-* Voice=Pass	lzh_kyoto	66
-* Voice=Pass	no_bokmaal	1147
-* Voice=Pass	no_nynorsklia	43
-* Voice=Pass	olo_kkpp	13
-* Voice=Pass	orv_rnc	273
-* Voice=Pass	orv_torot	978
-* Voice=Pass	pcm_nsc	8
-* Voice=Pass	pl_lfg	929
-* Voice=Pass	pl_pdb	4812
-* Voice=Pass	pl_pud	298
-* Voice=Pass	pt_bosque	1653
-* Voice=Pass	pt_gsd	1
-* Voice=Pass	qtd_sagt	69
-* Voice=Pass	quc_iu	187
-* Voice=Pass	ru_gsd	1464
-* Voice=Pass	ru_pud	295
-* Voice=Pass	ru_syntagrus	15204
-* Voice=Pass	ru_taiga	1184
-* Voice=Pass	sa_ufal	141
-* Voice=Pass	sa_vedic	125
-* Voice=Pass	sk_snk	976
-* Voice=Pass	sme_giella	240
-* Voice=Pass	sms_giellagas	1
-* Voice=Pass	sq_tsa	17
-* Voice=Pass	sr_set	1094
-* Voice=Pass	sv_lines	1154
-* Voice=Pass	sv_pud	341
-* Voice=Pass	sv_talbanken	1469
-* Voice=Pass	ta_mwtt	2
-* Voice=Pass	ta_ttb	155
-* Voice=Pass	th_pud	90
-* Voice=Pass	tl_trg	32
-* Voice=Pass	tr_boun	2593
-* Voice=Pass	tr_framenet	81
-* Voice=Pass	tr_gb	165
-* Voice=Pass	tr_imst	1061
-* Voice=Pass	tr_kenet	1077
-* Voice=Pass	tr_penn	776
-* Voice=Pass	tr_pud	247
-* Voice=Pass	tr_tourism	762
-* Voice=Pass	ug_udt	60
-* Voice=Pass	uk_iu	1233
-* Voice=Pass	ur_udtb	1234
-* Voice=Pass	zh_gsd	425
-* Voice=Pass	zh_gsdsimp	425
-* Voice=Pass	zh_pud	101
-* Voice=PassPass	qtd_sagt	4
-* Voice=PassPass	tr_gb	2
-* Voice=PassRcp	tr_gb	1
-* Voice=PassRfl	tr_gb	1
-* Voice=Rcp	am_att	11
-* Voice=Rcp	bej_nsc	1
-* Voice=Rcp	bxr_bdt	17
-* Voice=Rcp	hy_armtdp	4
-* Voice=Rcp	hyw_armtdp	2
-* Voice=Rcp	kk_ktb	31
-* Voice=Rcp	qtd_sagt	4
-* Voice=Rcp	tr_boun	3
-* Voice=Rcp	tr_framenet	4
-* Voice=Rcp	tr_gb	18
-* Voice=Rcp	tr_kenet	83
-* Voice=Rcp	tr_penn	51
-* Voice=Rcp	tr_tourism	12
-* Voice=Rfl	qtd_sagt	7
-* Voice=Rfl	tr_boun	20
-* Voice=Rfl	tr_framenet	1
-* Voice=Rfl	tr_gb	10
-* Voice=Rfl	tr_kenet	40
-* Voice=Rfl	tr_penn	13
-* Voice=Rfl	tr_tourism	18
-* Voice=Trans	am_att	12
+* `Act` (ar_nyuad&nbsp;(56597), ar_padt&nbsp;(20523), ar_pud&nbsp;(1920), be_hse&nbsp;(24801), bg_btb&nbsp;(20616), bho_bhtb&nbsp;(333), cs_cac&nbsp;(46229), cs_cltt&nbsp;(2373), cs_fictree&nbsp;(26787), cs_pdt&nbsp;(145235), cs_pud&nbsp;(2052), cu_proiel&nbsp;(14245), da_ddt&nbsp;(12534), el_gdt&nbsp;(4539), es_pud&nbsp;(2078), et_edt&nbsp;(58599), et_ewt&nbsp;(10036), fa_perdt&nbsp;(51138), fi_ftb&nbsp;(33899), fi_ood&nbsp;(3055), fi_pud&nbsp;(2432), fi_tdt&nbsp;(32669), got_proiel&nbsp;(11757), grc_perseus&nbsp;(26287), grc_proiel&nbsp;(30471), he_htb&nbsp;(8867), hi_hdtb&nbsp;(23655), hr_set&nbsp;(6713), hsb_ufal&nbsp;(77), hu_szeged&nbsp;(3802), hy_armtdp&nbsp;(3492), hyw_armtdp&nbsp;(2373), id_csui&nbsp;(2300), id_gsd&nbsp;(9339), id_pud&nbsp;(1892), is_icepahc&nbsp;(163142), is_pud&nbsp;(2739), it_pud&nbsp;(2129), kpv_ikdp&nbsp;(3), kpv_lattice&nbsp;(3), krl_kkpp&nbsp;(363), la_ittb&nbsp;(57456), la_llct&nbsp;(22636), la_perseus&nbsp;(4705), la_proiel&nbsp;(37945), la_udante&nbsp;(5060), lt_alksnis&nbsp;(1013), lt_hse&nbsp;(734), lv_lvtb&nbsp;(31954), olo_kkpp&nbsp;(237), orv_rnc&nbsp;(2263), orv_torot&nbsp;(27328), pl_lfg&nbsp;(22422), pl_pdb&nbsp;(44899), pl_pud&nbsp;(2049), ru_gsd&nbsp;(5228), ru_pud&nbsp;(1688), ru_syntagrus&nbsp;(93132), ru_taiga&nbsp;(19586), sa_ufal&nbsp;(140), sk_snk&nbsp;(220), sq_tsa&nbsp;(78), sr_set&nbsp;(3656), sv_lines&nbsp;(14023), sv_pud&nbsp;(2351), sv_talbanken&nbsp;(12323), ta_mwtt&nbsp;(28), ta_ttb&nbsp;(1616), tl_trg&nbsp;(59), uk_iu&nbsp;(78), ur_udtb&nbsp;(8656))
+* `AgFoc` (quc_iu&nbsp;(22))
+* `Antip` (quc_iu&nbsp;(33))
+* `Bfoc` (tl_trg&nbsp;(1))
+* `Cau` (am_att&nbsp;(92), aqz_tudet&nbsp;(1), bej_nsc&nbsp;(4), bm_crb&nbsp;(15), bxr_bdt&nbsp;(14), eu_bdt&nbsp;(234), gub_tudet&nbsp;(4), hu_szeged&nbsp;(63), hy_armtdp&nbsp;(24), hyw_armtdp&nbsp;(20), ko_pud&nbsp;(44), mr_ufal&nbsp;(2), myu_tudet&nbsp;(6), qtd_sagt&nbsp;(69), sa_ufal&nbsp;(15), tpn_tudet&nbsp;(27), tr_boun&nbsp;(1039), tr_framenet&nbsp;(48), tr_gb&nbsp;(100), tr_imst&nbsp;(543), tr_kenet&nbsp;(724), tr_penn&nbsp;(381), tr_pud&nbsp;(86), tr_tourism&nbsp;(239), urb_tudet&nbsp;(7), zh_gsd&nbsp;(493), zh_gsdsimp&nbsp;(493), zh_pud&nbsp;(129))
+* `CauCau` (qtd_sagt&nbsp;(1), tr_gb&nbsp;(5))
+* `CauCauPass` (tr_gb&nbsp;(1))
+* `CauPass` (qtd_sagt&nbsp;(2), tr_gb&nbsp;(12), tr_imst&nbsp;(136), tr_kenet&nbsp;(40), tr_penn&nbsp;(89), tr_pud&nbsp;(29), tr_tourism&nbsp;(10))
+* `CauPassRcp` (tr_gb&nbsp;(3))
+* `CauRcp` (qtd_sagt&nbsp;(1), tr_gb&nbsp;(2))
+* `Com` (tpn_tudet&nbsp;(12))
+* `Ifoc` (tl_trg&nbsp;(1))
+* `Lfoc` (tl_trg&nbsp;(6))
+* `Mid` (be_hse&nbsp;(5199), bej_nsc&nbsp;(26), grc_perseus&nbsp;(9908), grc_proiel&nbsp;(7987), he_htb&nbsp;(1480), hy_armtdp&nbsp;(2717), hyw_armtdp&nbsp;(2244), is_icepahc&nbsp;(10584), myu_tudet&nbsp;(4), orv_rnc&nbsp;(208), ru_gsd&nbsp;(1730), ru_pud&nbsp;(391), ru_syntagrus&nbsp;(23520), ru_taiga&nbsp;(4191), sa_ufal&nbsp;(15), tpn_tudet&nbsp;(3))
+* `MidCau` (myu_tudet&nbsp;(2))
+* `Pass` (aii_as&nbsp;(1), am_att&nbsp;(137), ar_nyuad&nbsp;(3736), ar_padt&nbsp;(1224), ar_pud&nbsp;(242), be_hse&nbsp;(2219), bej_nsc&nbsp;(3), bg_btb&nbsp;(2050), bho_bhtb&nbsp;(4), cs_cac&nbsp;(4266), cs_cltt&nbsp;(260), cs_fictree&nbsp;(319), cs_pdt&nbsp;(9526), cs_pud&nbsp;(205), cu_proiel&nbsp;(468), da_ddt&nbsp;(484), de_gsd&nbsp;(3147), el_gdt&nbsp;(2393), en_ewt&nbsp;(1394), en_gum&nbsp;(1083), en_gumreddit&nbsp;(97), en_lines&nbsp;(1196), es_pud&nbsp;(218), et_edt&nbsp;(7004), et_ewt&nbsp;(810), fa_perdt&nbsp;(1081), fi_ftb&nbsp;(3398), fi_ood&nbsp;(452), fi_pud&nbsp;(340), fi_tdt&nbsp;(5240), fo_oft&nbsp;(48), fr_fqb&nbsp;(247), fr_ftb&nbsp;(3336), fr_sequoia&nbsp;(756), got_proiel&nbsp;(992), grc_perseus&nbsp;(1425), grc_proiel&nbsp;(5169), he_htb&nbsp;(1068), hi_hdtb&nbsp;(2448), hr_set&nbsp;(2054), hsb_ufal&nbsp;(208), hy_armtdp&nbsp;(510), hyw_armtdp&nbsp;(166), id_csui&nbsp;(671), id_gsd&nbsp;(3527), id_pud&nbsp;(503), is_pud&nbsp;(211), it_pud&nbsp;(337), kk_ktb&nbsp;(235), ko_pud&nbsp;(64), krl_kkpp&nbsp;(55), la_ittb&nbsp;(25989), la_llct&nbsp;(10069), la_perseus&nbsp;(1279), la_proiel&nbsp;(9529), la_udante&nbsp;(2914), lt_alksnis&nbsp;(2237), lt_hse&nbsp;(76), lv_lvtb&nbsp;(6085), lzh_kyoto&nbsp;(66), no_bokmaal&nbsp;(1147), no_nynorsklia&nbsp;(43), olo_kkpp&nbsp;(13), orv_rnc&nbsp;(273), orv_torot&nbsp;(978), pcm_nsc&nbsp;(8), pl_lfg&nbsp;(929), pl_pdb&nbsp;(4812), pl_pud&nbsp;(298), pt_bosque&nbsp;(1653), pt_gsd&nbsp;(1), qtd_sagt&nbsp;(69), quc_iu&nbsp;(187), ru_gsd&nbsp;(1464), ru_pud&nbsp;(295), ru_syntagrus&nbsp;(15204), ru_taiga&nbsp;(1184), sa_ufal&nbsp;(141), sa_vedic&nbsp;(125), sk_snk&nbsp;(976), sme_giella&nbsp;(240), sms_giellagas&nbsp;(1), sq_tsa&nbsp;(17), sr_set&nbsp;(1094), sv_lines&nbsp;(1154), sv_pud&nbsp;(341), sv_talbanken&nbsp;(1469), ta_mwtt&nbsp;(2), ta_ttb&nbsp;(155), th_pud&nbsp;(90), tl_trg&nbsp;(32), tr_boun&nbsp;(2593), tr_framenet&nbsp;(81), tr_gb&nbsp;(165), tr_imst&nbsp;(1061), tr_kenet&nbsp;(1077), tr_penn&nbsp;(776), tr_pud&nbsp;(247), tr_tourism&nbsp;(762), ug_udt&nbsp;(60), uk_iu&nbsp;(1233), ur_udtb&nbsp;(1234), zh_gsd&nbsp;(425), zh_gsdsimp&nbsp;(425), zh_pud&nbsp;(101))
+* `PassPass` (qtd_sagt&nbsp;(4), tr_gb&nbsp;(2))
+* `PassRcp` (tr_gb&nbsp;(1))
+* `PassRfl` (tr_gb&nbsp;(1))
+* `Rcp` (am_att&nbsp;(11), bej_nsc&nbsp;(1), bxr_bdt&nbsp;(17), hy_armtdp&nbsp;(4), hyw_armtdp&nbsp;(2), kk_ktb&nbsp;(31), qtd_sagt&nbsp;(4), tr_boun&nbsp;(3), tr_framenet&nbsp;(4), tr_gb&nbsp;(18), tr_kenet&nbsp;(83), tr_penn&nbsp;(51), tr_tourism&nbsp;(12))
+* `Rfl` (qtd_sagt&nbsp;(7), tr_boun&nbsp;(20), tr_framenet&nbsp;(1), tr_gb&nbsp;(10), tr_kenet&nbsp;(40), tr_penn&nbsp;(13), tr_tourism&nbsp;(18))
+* `Trans` (am_att&nbsp;(12))
 
