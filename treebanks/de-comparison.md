@@ -1075,7 +1075,7 @@ udver: '2'
             <li>ADJ: viele, beiden, neue, neuer, deutsche, größte, erste, erster, amerikanische, japanische</li>
             <li>ADP: namens, voller</li>
             <li>DET: die, der, das, ein, eine, diese, alle, keine, kein, einige</li>
-            <li>NOUN: Internet, Name, Vorsitzende, Vorsitzender, Riese, V​o​r​s​t​a​n​d​s​v​o​r​s​i​t​z​e​n​d​e​r, Unternehmen, Vorstandsvorsitzende, Server, E-Mail</li>
+            <li>NOUN: Internet, Name, Vorsitzende, Vorsitzender, Riese, Vorstandsvorsitzender, Unternehmen, Vorstandsvorsitzende, Server, E-Mail</li>
             <li>NUM: eins</li>
             <li>PRON: es, die, man, sie, er, das, der, wir, was, dies</li>
             <li>PROPN: Microsoft, Intel, AOL, IBM, Apple, Napster, Compaq, Siemens, Sony, Gates</li>
@@ -3641,7 +3641,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>expl:pv</a>, <a>flat:name</a>, <a>nmod:gmod</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:tmod</a></li>
+      <li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>expl:pv</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:tmod</a></li>
       <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>

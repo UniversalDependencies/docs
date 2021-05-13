@@ -40,7 +40,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 6026 sentences and 96819 tokens.</li>
+      <li>This corpus contains 6026 sentences and 96820 tokens.</li>
       </ul>
     </td>
   </tr>
@@ -86,7 +86,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 147 types of words that contain both letters and punctuation. Examples: f.Kr., USA:s, 1960-talet, 1970-talet, 700-talet, St., 1500-talet, 1900-talet, 1980-talet, 1990-talet, B.C., Joliot-Curie, Qing-dynastins, e-post, e-postmeddelanden, e.Kr., n't, 'Ya, 10-veckorskursen, 1200-talet, 1300-talet, 1350-talet, 1400-talet, 18-åring, 1950-talet, 200-talet, 2000-talet, 28-åringen, 3%-räntan, 400-tal, 400-talet, 45:e, 500-talet, 53-åringen, 60-talshiten, 800-talet, AKP:s, Amarna-breven, Australien-laget, B-29:or, BBC:s, BNP-tillväxten, Beijing-vänliga, Bian-kanalen, Buena-trädgården, CNN-reportrar, CRTC-utfrågningar, C​e​c​e​l​i​a​-​k​o​n​s​e​r​v​a​t​o​r​i​e​t, C​e​n​t​u​r​y​-​u​t​m​ä​r​k​e​l​s​e​r​n​a, Chilia-armen</li>
+      <li>This corpus contains 147 types of words that contain both letters and punctuation. Examples: f.Kr., USA:s, 1960-talet, 1970-talet, 700-talet, St., 1500-talet, 1900-talet, 1980-talet, 1990-talet, B.C., Joliot-Curie, Qing-dynastins, e-post, e-postmeddelanden, e.Kr., n't, 'Ya, 10-veckorskursen, 1200-talet, 1300-talet, 1350-talet, 1400-talet, 18-åring, 1950-talet, 200-talet, 2000-talet, 28-åringen, 3%-räntan, 400-tal, 400-talet, 45:e, 500-talet, 53-åringen, 60-talshiten, 800-talet, AKP:s, Amarna-breven, Australien-laget, B-29:or, BBC:s, BNP-tillväxten, Beijing-vänliga, Bian-kanalen, Buena-trädgården, CNN-reportrar, CRTC-utfrågningar, Cecelia-konservatoriet, Century-utmärkelserna, Chilia-armen</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -1269,27 +1269,10 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-        <li>Opt
-          <ul>
-            <li>VERB-Fin: LEVE</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <ul>
         <li>Sub
           <ul>
             <li>AUX-Fin: vore, måtte, finge</li>
-            <li>VERB-Fin: vore, förbanne, ginge, vare, vete</li>
+            <li>VERB-Fin: vore, LEVE, förbanne, ginge, vare, vete</li>
           </ul>
         </li>
       </ul>
@@ -1463,23 +1446,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <ul>
-        <li>Mid
-          <ul>
-            <li>VERB-Fin: trängdes</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
     </td>
   </tr>
   <tr>

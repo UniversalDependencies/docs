@@ -1212,12 +1212,12 @@ udver: '2'
             <li>VERB--NOUN (1)</li>
             <li>VERB--NOUN-Acc (4)</li>
             <li>VERB--NOUN-Dat (1)</li>
-            <li>VERB--NOUN-Nom (202)</li>
+            <li>VERB--NOUN-Nom (201)</li>
             <li>VERB--NOUN-Nom-ADP(um) (1)</li>
             <li>VERB--PRON (19)</li>
             <li>VERB--PRON-Nom (47)</li>
             <li>VERB-Inf--NOUN-Dat (1)</li>
-            <li>VERB-Inf--NOUN-Nom (14)</li>
+            <li>VERB-Inf--NOUN-Nom (15)</li>
             <li>VERB-Inf--PRON (2)</li>
             <li>VERB-Inf--PRON-Nom (3)</li>
             <li>VERB-Part--NOUN-Nom (9)</li>
@@ -1356,7 +1356,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 6 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>nmod:poss</a>, <a>nsubj:pass</a></li>
+      <li>This corpus uses 5 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>nmod:poss</a>, <a>nsubj:pass</a></li>
       <li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>

@@ -6,77 +6,109 @@ udver: '2'
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h1>UD_Icelandic-IcePaHC</h1>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h1>UD_Icelandic-Modern</h1>
+    </td>
+    <td width="33%" valign="top">
       <h1>UD_Icelandic-PUD</h1>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+    <td width="33%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 44029 sentences, 983678 tokens and 985057 syntactic words.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 6928 sentences, 158134 tokens and 158150 syntactic words.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 1000 sentences, 18831 tokens and 18833 syntactic words.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 109935 tokens (11%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 12812 tokens (8%) that are not followed by a space.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 1962 tokens (10%) that are not followed by a space.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 592 types of words that contain both letters and punctuation. Examples: kap., kongl., W., Jóh., Mag., Matth., Efra-Fossi, Kór., Gull-Haraldur, N., Neðra-Fossi, hndr., mr., Skegg-Broddi, etc., Lúk., rd., Prov., Dr., Jer., m., st., Gen., Gull-Harald, Tím., Devt., Dönsku-húsum, Efes., Heb., III., Matt., Músa-Bölverkur, Pét., Tít., b., c., ix., rdr., Akt., D., Fiðlu-Hansa, Hörða-Knúts, II., Jesaj., Job., Kor., O-já, Róm., S., Sálm.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 147 types of words that contain both letters and punctuation. Examples: Suður-Ameríku, Q​i​n​g​-​k​e​i​s​a​r​a​v​e​l​d​i​s​i​n​s, B.C., Joliot-Curie, Norður-, Norður-Karólína, Nýju-Gíneu, Qing-tímanum, Sahara-eyðimörkinni, Sahel-svæðinu, Suður-Ítalíu, n't, 'Ya, 's, -hálfvita, 200-listanum, Abbotsford-svæðið, A​d​d​e​n​b​r​o​o​k​e​-​s​j​ú​k​r​a​h​ú​s​u​n​u​m, Aires-borg, Amarna-bréfanna, Austur-Afríka, Austur-Afríku, Austur-Melenesíubúar, B-29-véla, Bank-turninn, Bergeron-flokkunin, Bian-skurðinum, Boeing-vél, Buena-garðurinn, Chilia-kvíslarinnar, Curie-stofnunina, Davis-bikarinn, D​i​s​i​b​o​d​e​n​b​e​r​g​-​k​l​a​u​s​t​r​i​ð, Eibingen-klaustrið, E​n​d​u​r​a​n​c​e​-​l​e​i​ð​a​n​g​r​i​n​u​m, F1-miði, Facebook-færslur, Five-Year, Fontvielle-svæðinu, Francisco-búar, Gezira-eyju, Gordon-Levitt, Goryeo-stjórninni, Harley-Davidson, Haute-Garonne, Hudson-fljótinu, Humblebums-lagi, Income-sjóðirnir, KFC-móðurfélaginu, Kelta-</li>
+      <li>This corpus contains 122 types of words that contain both letters and punctuation. Examples: hv., hæstv., þm., <percent/>, gr., H., kr., o., þús., frv., s., a., k., m., allsherjar-, kl., umr., efnahags-, umhverfis-, EES-samningnum, St., mín., nr., J., KR-ingar, R., sek., EES-samninginn, KR-inga, Pepsi-deildinni, fl., áfengis-, Inkasso-deildarinnar, Saint-Germain, Twitter-síðu, b., bls., gogn.island.is, míní-samningaleið, sjávarútvegs-, skulda-, u., þ., 110<percent/>-leiðina, 110<percent/>leiðina, 1<closeparen/>, 2<closeparen/>, 3<closeparen/>, 99xCOM_dashx66, A-landsliðs</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 147 types of words that contain both letters and punctuation. Examples: Suður-Ameríku, Qing-keisaraveldisins, B.C., Joliot-Curie, Norður-, Norður-Karólína, Nýju-Gíneu, Qing-tímanum, Sahara-eyðimörkinni, Sahel-svæðinu, Suður-Ítalíu, n't, 'Ya, 's, -hálfvita, 200-listanum, Abbotsford-svæðið, Addenbrooke-sjúkrahúsunum, Aires-borg, Amarna-bréfanna, Austur-Afríka, Austur-Afríku, Austur-Melenesíubúar, B-29-véla, Bank-turninn, Bergeron-flokkunin, Bian-skurðinum, Boeing-vél, Buena-garðurinn, Chilia-kvíslarinnar, Curie-stofnunina, Davis-bikarinn, Disibodenberg-klaustrið, Eibingen-klaustrið, Endurance-leiðangrinum, F1-miði, Facebook-færslur, Five-Year, Fontvielle-svæðinu, Francisco-búar, Gezira-eyju, Gordon-Levitt, Goryeo-stjórninni, Harley-Davidson, Haute-Garonne, Hudson-fljótinu, Humblebums-lagi, Income-sjóðirnir, KFC-móðurfélaginu, Kelta-</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 1378 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 243 types of multi-word tokens. Examples: skaltu, ertu, muntu, viltu, láttu, máttu, vertu, attú, veistu, áttu, sjáðu, heyrðu, farðu, þarftu, heldurðu, komdu, varstu, líttu, stattu, segðu, þeygi, gerðu, kanntu, geturðu, fórstu, hefurðu, gefðu, gættu, hafðu, manstu, sértu, sérðu, þars, þóttú, færðu, taktu, varastu, sendu, varaðu, Gakktu, Gjörðu, ferðu, fáðu, haltu, hugsaðu, hættu, koddu, minnstu, mundu, settu.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 16 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>There are 7 types of multi-word tokens. Examples: eignaupplýsingar, -útisigur, /s, Afsakaðu, fyrirgefðu, háttaði, nefndum.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 2 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 2 types of multi-word tokens. Examples: Látið, heyrið.</li>
@@ -84,7 +116,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -94,7 +126,17 @@ udver: '2'
       <li>This corpus does not use the following tags: SYM</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h2>Morphology</h2>
+      
+      <h3>Tags</h3>
+      
+      <ul>
+      <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
+      <li>This corpus does not use the following tags: SYM</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -105,91 +147,126 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 18 word types tagged as particles (PART): Einninn, Einungis, alleinasta, at, atð, að, aðeins, bara, ein, eina, einasta, einir, einkum, einmitt, einu, eitt, jafnvel, nema</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 3 word types tagged as particles (PART): að, aðeins, bara</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 1 word types tagged as particles (PART): að</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 147 lemmas tagged as pronouns (PRON): _, allur, annar, annarr, annars, annarstaðar, annaðhvor, annaðhvort, annur, arkimagus, austfjörður, aðrur, báðir, eg, einar, einn, einnhver, eitthvað, ekkert, enginn, finnbogi, flestallur, grikki, hann, hans, henni, hinn, honum, hva-að, hvat, hvatki, hvað, hvaða, hver, hver-hver, hvergi, hverigu, hvern, hvert, hverur, hveða, hvor, hvorja, hvort, hvorttveggja, hvorugur, hví, hvílíkur, hvívetna, hvörri, hún, leyfi, lítill, maður, mer, mig, minn, minna, mit, miður, mér, món, neinn, nokkur, okkar, okkur, samur, sek, sig, sinn, sjá, sjálfaur, sjálfur, slíkur, sodan, sodda, soddan, soddann, soddur, sumur, svoddan, svoddann, sá, sér, sérhver, söðull, sýn, vera, vettugi, við, viðlíka, viðlíkur, vor, vora, vorra, vorrar, vorrur, vorur, vv, vá, vær, vér, ykkar, ykkra, ykkri, ykkrur, yðar, yðarri, yður, yðvar, yðvarn, álíka, ég, ér, ófeigur, öll, öllir, öðrumegin, ýmis, ýmiss, þ, þ., þann, þar, þat, þau, þaug, það, þeim, þeir, þeirra, þes, þess, þessi, þetta, þig, þinn, því, þvílíka, þvílíkur, þá, þær, þér, þín, þínn, þórólfur, þú</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 28 lemmas tagged as pronouns (PRON): annar, annars, annaðhvort, eina, ekki, fotbolti.net, hann, hvaða, hvaðeina, hver, hvor, hvort, hún, maður, minn, sami, sig, sinn, sjálfur, slíkur, sá, við, ég, það, þinn, því, þvílíkur, þú</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 32 lemmas tagged as pronouns (PRON): allur, annar, báðir, einhver, einn, enginn, hann, hinn, hver, hvor, hvort, hún, minn, neinn, nokkur, sami, samur, sig, sinn, sjálfur, slíkur, sumur, sá, ég, ýmis, ýmissi, það, þessi, þig, þinn, þá, þú</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 245 lemmas tagged as determiners (DET): afarmikill, all, allfár, allir, alllítill, allmargur, allmikill, allnokkur, allralítill, allskonar, allskyns, allur, allur-allur, annarhvor, annaðhvor, annaðhvort, að, báðir, báðumegin, bæði, dráp, dálitill, dálítill, dálítið, ei, einar, einhver, einhverja, einhvernveginn, einhverskonar, einhversstaðar, einhvor, einhvörn, einhvörstaðar, einn, einn-einn, einnhver, einnhvern, einnri, eins, eirnri, eitt, eitthvað, eitthver, eitthverur, ekkert, ekki, en, engi, enginn, engur, enn, enni, fjölmargur, fleir, flestallur, flestir, flestur, fregn, fáeinir, fáeinn, fáir, fár, gera, gervallur, geysimikill, gjörvallur, hann, heldri, helgur, hin, hini, hinn, hinumeginn, hitt, hlutur, hotvetna, hvar, hvað, hvaða, hvaðvetna, hver, hveregur, hvergi, hverigra, hverigur, hverjur, hvernig, hverski, hverskonar, hverskyns, hversvetna, hvert, hveruga, hverur, hvetvetna, hvevetna, hvor, hvorgi, hvorigur, hvorki, hvorn, hvorngi, hvort, hvortki, hvorttveggi, hvorugur, hvorumeginn, hvurja, hvurur, hvílíkur, hvívetna, hvörja, hálf, hálfur, hár, hún, illur, ina, inn, inni, ins, inur, inventarium, jafnlítill, jafnmargur, jafnmikill, jafnmikið, jafnmikla, kvöld, langur, litlur, lítill, lítill-lítill, lítið, lítt, m, manngi, mannmarur, mara, marga, margt, margur, megn, meira, meiri, mestallur, mestur, mestöllur, meur, mikill, mikill-mikill, mikillur, mikinn, mikið, mikla, miklu, miklur, minna, minni, minnsti, mörgur, neinn, nekkver, nokkrur, nokkur, nokkura, nokkurntíma, nokkursstaðar, nokkurur, nokkuð, nátt, né, oflítill, ofmargur, ofmikill, ofurlitla, ofurlítill, sa, samlíkur, sanna, sinn, sitthver, sjá, skilmáli, slitinn, smár, snjámikill, stórmikill, suman, sumar, sumlegur, sumpart, sumur, svolítill, svolítið, sá, sér, sérhvað, sérhver, sérhvort, síst, síðri, síður, tal, um, varla, velflestur, velmargur, vettergi, vettugi, ást, ófár, ógnarmargur, óspart, ótalmargur, öllir, öllumegin, öngur, öngva, önnur, örfár, örlítill, örlítið, ýmis, ýmislegur, ýmiss, ýmsra, þann, þau, það, þeir, þenna, þennur, þerflegur, þess, þessa, þessháttar, þessi, þessi-þessi, þetta, því, þvílíkur, þá, þær</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 39 lemmas tagged as determiners (DET): allmikill, alls, allur, annaðhvort, báðir, bæði, dálítill, einhver, einn, enginn, fullmikill, fáeinir, fár, hinn, hvaða, hver, hvor, hvort, hún, lítill, margur, mikill, mikið, mismikill, mjög, neinn, nokkur, nógur, sumur, svolítill, svolítið, sá, talsverður, umtalsverður, öllsamall, örlítill, ýmis, það, þessi</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 3 lemmas tagged as determiners (DET): annar, hinn, þessi</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>Out of the above, 50 lemmas occurred sometimes as PRON and sometimes as DET: allur, annaðhvor, annaðhvort, báðir, einar, einn, einnhver, eitthvað, ekkert, enginn, flestallur, hann, hinn, hvað, hvaða, hver, hvergi, hvert, hverur, hvor, hvort, hvorugur, hvílíkur, hvívetna, hún, lítill, minna, neinn, nokkur, sinn, sjá, sumur, sá, sér, sérhver, vettugi, öllir, ýmis, ýmiss, þann, þau, það, þeir, þess, þessi, þetta, því, þvílíkur, þá, þær</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>Out of the above, 8 lemmas occurred sometimes as PRON and sometimes as DET: annaðhvort, hvaða, hver, hvor, hvort, hún, sá, það</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: annar, hinn, þessi</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 11 lemmas tagged as auxiliaries (AUX): blífa, fá, geta, hafa, kunna, mega, munu, skulu, vera, verða, vilja</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus contains 9 lemmas tagged as auxiliaries (AUX): fá, geta, hafa, mega, munu, skulu, vera, verða, vilja</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 7 lemmas tagged as auxiliaries (AUX): geta, hafa, mega, munu, skulu, vera, verða</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>Out of the above, 11 lemmas occurred sometimes as AUX and sometimes as VERB: blífa, fá, geta, hafa, kunna, mega, munu, skulu, vera, verða, vilja</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>Out of the above, 9 lemmas occurred sometimes as AUX and sometimes as VERB: fá, geta, hafa, mega, munu, skulu, vera, verða, vilja</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>Out of the above, 4 lemmas occurred sometimes as AUX and sometimes as VERB: geta, hafa, vera, verða</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -212,7 +289,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -228,7 +308,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -247,7 +327,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Inf
+        <ul>
+          <li>ADV: segja</li>
+          <li>AUX: vera, hafa, geta, verða, vilja</li>
+          <li>VERB: gera, fara, taka, koma, segja, vinna, sjá, fá, ræða, spyrja</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Inf
         <ul>
@@ -260,7 +351,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -281,7 +372,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Part
+        <ul>
+          <li>ADV: útfært</li>
+          <li>AUX: verið, haft, viljað, getað, mátt</li>
+          <li>VERB: varðandi, gert, sagt, farið, tekið, komið, gripið, orðið, séð, keppt</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -294,7 +396,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Sup
         <ul>
@@ -313,7 +415,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Sup
         <ul>
@@ -325,27 +430,35 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="33%" valign="top">
       <h3>Nominal Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Gender</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -376,7 +489,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Fem
           <ul>
@@ -395,7 +511,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -428,7 +544,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Masc
           <ul>
@@ -449,7 +568,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -485,7 +604,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Neut
+          <ul>
+            <li>PRON: það</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Neut
           <ul>
@@ -508,27 +636,35 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -574,7 +710,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Plur
+          <ul>
+            <li>ADV: heiða, mín., sjónarmiðum, árum, þingmenn</li>
+            <li>NOUN: menn, m, ára, leikunum, mál, ár, upplýsingar, efnum, þingmenn, málum</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -599,7 +745,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -650,7 +796,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Sing
+          <ul>
+            <li>ADV: veginn, dæmis, vegar, frumvarp, leið, sinni, tímann, tíð</li>
+            <li>DET: hvaða, eitt, einu, einn, 1, eina, ein, eini, einni, eins</li>
+            <li>NOUN: forseti, þingmaður, fólk, ráðherra, máli, tíma, mál, frú, málið, herra</li>
+            <li>NUM: einn, eitt, 1, einu</li>
+            <li>PRON: það</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -680,19 +839,24 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Case</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -724,7 +888,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Acc
+          <ul>
+            <li>ADJ: hv., fyrsta, mikla, besta, hæstv., fyrra, góða, næstu, ákveðna, gott</li>
+            <li>ADV: allt, veginn, fleiri, meiri, mikil, mikinn, mikla, allan, allar, gríðarlega</li>
+            <li>DET: þetta, það, þá, þessa, þann, allt, þessar, þær, þessi, eitthvað</li>
+            <li>NOUN: mál, ár, dag, málið, árið, leið, tíma, morgun, kvöld, ráð</li>
+            <li>NUM: 2012, 2010, tvö, 2008, 2009, 2011, fjögur, 100, 2014, þrjú</li>
+            <li>PRON: það, mig, sig, hvað, hana, okkur, annað, þau, þær, hann</li>
+            <li>VERB-Part: upplýst, afgreidda, kallaða, lánað, lánaða, sameinað, sett, viðurkennt</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -743,7 +922,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -765,7 +944,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Dat
+          <ul>
+            <li>ADJ: hv., miklu, sjálfsögðu, síðasta, síðustu, næsta, nógu, sama, hæstv., minnsta</li>
+            <li>ADV: mörgum, öllum, því, einum, miklu, mín., sinni, sjónarmiðum, tíð, árum</li>
+            <li>DET: þessu, þeim, þessum, því, þessari, þeirri, öllum, einu, hinu, einhverju</li>
+            <li>NOUN: máli, móti, raun, þingmanni, ári, tíma, stað, lagi, leikunum, leyti</li>
+            <li>NUM: tveimur, fjórum, þremur, 4, sjö, 100, 2004, 2009, 28, fimm</li>
+            <li>PRON: því, mér, sér, okkur, þeim, sínum, hverju, sinni, öðrum, honum</li>
+            <li>VERB-Part: sögðu, komandi, kveðnu, liðnum, loknu, loknum, skoruðum, tilskildu, vaxandi</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -785,7 +979,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -807,7 +1001,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Gen
+          <ul>
+            <li>ADJ: hv., hæstv., íslenskra, fyrri, eigin, heils, lengri, vinstri, góðs, gömlu</li>
+            <li>ADV: annars, dæmis, vegar, þess, heiða</li>
+            <li>DET: hins, þeirra, þess, þessa, alls, allra, einhvers, þessara, meiri, þeirrar</li>
+            <li>NOUN: m, ára, dæmis, vegar, staðar, þingmanns, ráðherra, karla, konar, manna</li>
+            <li>NUM: 100, 200, 50, tveggja, 16, þriggja, 8, 18, fjögurra, 19</li>
+            <li>PRON: þess, annars, okkar, hans, hvers, þeirra, hennar, annarra, sinna, síns</li>
+            <li>VERB-Part: skapaðar</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -817,7 +1026,7 @@ udver: '2'
             <li>NOUN: ára, fólks, sögunnar, aldar, fjölda, fyrirtækisins, manns, ríkisins, ríkisstjórnarinnar, borgarinnar</li>
             <li>NUM: tveggja, þriggja, einnar, þrjátíu, fimm, sjö, tuttugu, tíu, átta</li>
             <li>PRON: þess, hans, þeirra, hennar, okkar, þessa, annars, sín, síns, þessara</li>
-            <li>PROPN: Evrópu, Bandaríkjanna, Breta, Akkemenída, Frakka, Kínverja, Q​i​n​g​-​k​e​i​s​a​r​a​v​e​l​d​i​s​i​n​s, Tútmosar, Asíu, Egyptalands</li>
+            <li>PROPN: Evrópu, Bandaríkjanna, Breta, Akkemenída, Frakka, Kínverja, Qing-keisaraveldisins, Tútmosar, Asíu, Egyptalands</li>
             <li>VERB: vara, ákveða</li>
           </ul>
         </li>
@@ -825,7 +1034,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -862,7 +1071,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Nom
+          <ul>
+            <li>ADJ: hv., virðulegi, hægt, sammála, hæstv., rétt, gott, mikilvægt, ljóst, erfitt</li>
+            <li>ADV: allt, hvað, allir, margir, mikið, það, ekkert, fleiri, frumvarp, hv.</li>
+            <li>DET: þetta, það, þessi, sú, sá, þeir, allir, allt, eitthvað, ekkert</li>
+            <li>NOUN: forseti, menn, þingmaður, frú, fólk, herra, mál, ráðherra, málið, klukkan</li>
+            <li>NUM: 2, 0, 17, 3, 18, 16, 50, tvö, þrír, 15</li>
+            <li>PRON: ég, það, við, hann, hún, þeir, hvað, þau, þær, annað</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -884,27 +1107,35 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Definite</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -926,7 +1157,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -934,7 +1168,7 @@ udver: '2'
             <li>ADV: gríðarlega, meira</li>
             <li>NOUN: árið, áratugnum, svæðið, svæðinu, fyrirtækið, ríkisstjórnin, stríðinu, sögunnar, borginni, fyrirtækisins</li>
             <li>NUM: 9., 10., 19., 21., 28.</li>
-            <li>PROPN: A​d​d​e​n​b​r​o​o​k​e​-​s​j​ú​k​r​a​h​ú​s​u​n​u​m, Bandaríkjanna, Bandaríkjunum, Caplan, Fasteignastofnunin, Snowman, Vetrarháskóleikarnir</li>
+            <li>PROPN: Addenbrooke-sjúkrahúsunum, Bandaríkjanna, Bandaríkjunum, Caplan, Fasteignastofnunin, Snowman, Vetrarháskóleikarnir</li>
             <li>VERB: fullmótað</li>
           </ul>
         </li>
@@ -942,7 +1176,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -965,7 +1199,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>ADV: veginn, dæmis, vegar, frumvarp, heiða, leið, mín., sinni, sjónarmiðum, tímann</li>
+            <li>NOUN: forseti, menn, þingmaður, mál, ráðherra, fólk, tíma, máli, m, frú</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -983,27 +1227,35 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+    <td width="33%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Degree</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -1013,7 +1265,7 @@ udver: '2'
             <li>AUX: myni</li>
             <li>CCONJ: hvortki, hvörki</li>
             <li>DET: meir, meira, meiri, fleiri, fleira, minna, síður, minni, fleirum, innar</li>
-            <li>NOUN: minni, síður, sakir, forvitri, allstaðar, bráðar, b​y​g​g​i​n​g​a​r​k​ú​n​s​t​a​r​i​n​n​a​r, engi, reiðara, réttara</li>
+            <li>NOUN: minni, síður, sakir, forvitri, allstaðar, bráðar, byggingarkúnstarinnar, engi, reiðara, réttara</li>
             <li>NUM: vi, xii, átján</li>
             <li>PRON: minni, minna, soddan, hvörra, sinna, yðvarra, þínni</li>
             <li>PROPN: saltara, GANGI, Hlymreksfari, Jaíri, Konáli, Mörukári, Teófíli, farisearanna, himnna, kristi</li>
@@ -1023,7 +1275,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Cmp
+          <ul>
+            <li>ADJ: fyrri, betri, betra, minni, fyrra, hærra, lengri, nánari, síðari, vægari</li>
+            <li>ADV: eins, heldur, betur, frekar, áður, fyrr, miður, síður, lengur, síðar</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -1035,7 +1297,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -1059,7 +1321,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Pos
+          <ul>
+            <li>ADJ: hv., virðulegi, hæstv., hægt, sammála, gott, rétt, miklu, sama, mikilvægt</li>
+            <li>ADV: þá, hér, bara, svo, þar, nú, þannig, mjög, alveg, hvernig</li>
+            <li>DET: allt, eitthvað, ekkert, meiri, meira, mikið, allir, alla, öllum, alls</li>
+            <li>PART: bara, aðeins</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -1074,7 +1348,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -1093,7 +1367,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Sup
+          <ul>
+            <li>ADJ: fyrsta, síðasta, síðustu, næsta, besta, næstu, bestu, fyrstu, minnsta, helstu</li>
+            <li>ADV: fyrst, helst, síst, best, síðast, fremst, næst, lengst, mest, minnst</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -1105,51 +1389,68 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-    </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <h3>Verbal Features</h3>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="33%" valign="top">
       <h3>Verbal Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Mood</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -1169,7 +1470,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Imp
+          <ul>
+            <li>VERB-Inf: samanber, fyrirgefið, Afsaka, fyrirgef, komið</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -1180,7 +1490,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1202,7 +1512,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>ADV: varðar, kunna, líkar, lýtur, tekur, verður, viðkemur</li>
+            <li>AUX: er, var, eru, hefur, hafa, erum, vil, voru, hef, má</li>
+            <li>VERB: hringir, held, kemur, á, þakka, finnst, þarf, verður, sagði, fer</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1217,7 +1538,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Sub
           <ul>
@@ -1237,7 +1558,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Sub
+          <ul>
+            <li>ADV: telji</li>
+            <li>AUX: sé, væri, hafi, hefði, séu, geti, verði, mundi, gæti, séum</li>
+            <li>VERB: verði, eigi, ætti, fari, þurfi, ættum, komi, komist, yrði, hefði</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Sub
           <ul>
@@ -1250,19 +1582,24 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Tense</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -1281,7 +1618,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Past
+          <ul>
+            <li>ADV-Part: útfært</li>
+            <li>AUX: var, verið, væri, hefði, voru, mundi, gæti, hafði, haft, væru</li>
+            <li>AUX-Part: verið, haft, viljað, getað, mátt</li>
+            <li>VERB: gert, sagði, sagt, farið, tekið, kom, komið, ætti, gripið, orðið</li>
+            <li>VERB-Part: gert, sagt, farið, tekið, komið, gripið, orðið, séð, keppt, sett</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -1299,7 +1649,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -1322,7 +1672,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li>Pres
+          <ul>
+            <li>ADV: varðar, kunna, líkar, lýtur, tekur, telji, verður, viðkemur</li>
+            <li>AUX: er, eru, sé, hefur, hafa, hafi, erum, vil, hef, höfum</li>
+            <li>VERB: hringir, held, kemur, á, varðandi, þakka, finnst, þarf, verður, eigum</li>
+            <li>VERB-Part: varðandi, Talandi, fljótandi, komandi, bindandi, farandi, fræðandi, fækkandi, færandi, gangandi</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -1338,19 +1700,22 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -1407,7 +1772,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Act
           <ul>
@@ -1430,7 +1798,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Mid
           <ul>
@@ -1464,15 +1832,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -1488,35 +1862,44 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="33%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -1535,7 +1918,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -1548,7 +1934,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1570,7 +1956,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -1584,7 +1973,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -1601,7 +1990,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -1612,7 +2004,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -1634,7 +2026,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -1647,17 +2042,20 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -1677,12 +2075,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Frac
           <ul>
@@ -1694,12 +2095,15 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -1711,25 +2115,34 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -1740,27 +2153,33 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -1789,7 +2208,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -1805,7 +2227,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -1833,7 +2255,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -1846,7 +2271,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -1868,7 +2293,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -1884,39 +2312,51 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-    </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+    <td width="33%" valign="top">
       <h3>Other Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -1942,7 +2382,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Foreign</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>X: Molde, 2016, Eidur, FK, i, se, your, 22, 3, 8</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -1957,10 +2410,13 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>PunctSide</a>
           <ul>
@@ -1980,7 +2436,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -1989,7 +2445,16 @@ udver: '2'
       <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: vera, blífa.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h2>Syntax</h2>
+      
+      <h3>Auxiliary Verbs and Copula</h3>
+      
+      <ul>
+      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: vera.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -2000,19 +2465,24 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus uses 9 lemmas as auxiliaries (<a>aux</a>). Examples: hafa, munu, skulu, vilja, mega, geta, verða, fá, kunna.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+      <li>This corpus uses 9 lemmas as auxiliaries (<a>aux</a>). Examples: hafa, geta, vilja, munu, verða, mega, skulu, vera, fá.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
       <li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: vera, hafa, geta, munu, mega, verða, skulu.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -2075,7 +2545,42 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+      
+      Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+      <ul>
+        <li><a>nsubj</a>
+          <ul>
+            <li>VERB--NOUN-Acc (26)</li>
+            <li>VERB--NOUN-Dat (46)</li>
+            <li>VERB--NOUN-Nom (2020)</li>
+            <li>VERB--PRON (94)</li>
+            <li>VERB--PRON-Acc (108)</li>
+            <li>VERB--PRON-Dat (308)</li>
+            <li>VERB--PRON-Gen (8)</li>
+            <li>VERB--PRON-Nom (3730)</li>
+            <li>VERB-Inf--NOUN-Acc (42)</li>
+            <li>VERB-Inf--NOUN-Dat (4)</li>
+            <li>VERB-Inf--NOUN-Gen (2)</li>
+            <li>VERB-Inf--NOUN-Nom (224)</li>
+            <li>VERB-Inf--PRON (8)</li>
+            <li>VERB-Inf--PRON-Acc (18)</li>
+            <li>VERB-Inf--PRON-Dat (6)</li>
+            <li>VERB-Inf--PRON-Nom (560)</li>
+            <li>VERB-Part--NOUN-Acc (22)</li>
+            <li>VERB-Part--NOUN-Dat (72)</li>
+            <li>VERB-Part--NOUN-Nom (680)</li>
+            <li>VERB-Part--PRON (22)</li>
+            <li>VERB-Part--PRON-Acc (8)</li>
+            <li>VERB-Part--PRON-Dat (52)</li>
+            <li>VERB-Part--PRON-Gen (2)</li>
+            <li>VERB-Part--PRON-Nom (818)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -2119,7 +2624,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -2185,7 +2690,44 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>obj</a>
+          <ul>
+            <li>VERB--NOUN-Acc (1318)</li>
+            <li>VERB--NOUN-Dat (254)</li>
+            <li>VERB--NOUN-Dat-ADP(á) (2)</li>
+            <li>VERB--NOUN-Dat-ADP(í) (2)</li>
+            <li>VERB--NOUN-Gen (32)</li>
+            <li>VERB--NOUN-Nom (48)</li>
+            <li>VERB--PRON (4)</li>
+            <li>VERB--PRON-Acc (402)</li>
+            <li>VERB--PRON-Dat (154)</li>
+            <li>VERB--PRON-Gen (14)</li>
+            <li>VERB--PRON-Nom (116)</li>
+            <li>VERB-Inf--NOUN-Acc (1338)</li>
+            <li>VERB-Inf--NOUN-Dat (322)</li>
+            <li>VERB-Inf--NOUN-Gen (50)</li>
+            <li>VERB-Inf--NOUN-Nom (10)</li>
+            <li>VERB-Inf--PRON-Acc (362)</li>
+            <li>VERB-Inf--PRON-Dat (126)</li>
+            <li>VERB-Inf--PRON-Gen (10)</li>
+            <li>VERB-Inf--PRON-Nom (28)</li>
+            <li>VERB-Part--NOUN-Acc (366)</li>
+            <li>VERB-Part--NOUN-Dat (64)</li>
+            <li>VERB-Part--NOUN-Dat-ADP(með) (2)</li>
+            <li>VERB-Part--NOUN-Gen (14)</li>
+            <li>VERB-Part--NOUN-Nom (16)</li>
+            <li>VERB-Part--PRON (2)</li>
+            <li>VERB-Part--PRON-Acc (148)</li>
+            <li>VERB-Part--PRON-Dat (42)</li>
+            <li>VERB-Part--PRON-Gen (6)</li>
+            <li>VERB-Part--PRON-Nom (22)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -2230,7 +2772,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -2283,7 +2825,26 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>iobj</a>
+          <ul>
+            <li>VERB--NOUN-Acc (14)</li>
+            <li>VERB--NOUN-Dat (70)</li>
+            <li>VERB--PRON-Acc (16)</li>
+            <li>VERB--PRON-Dat (80)</li>
+            <li>VERB-Inf--NOUN-Acc (40)</li>
+            <li>VERB-Inf--NOUN-Dat (58)</li>
+            <li>VERB-Inf--PRON-Acc (12)</li>
+            <li>VERB-Inf--PRON-Dat (66)</li>
+            <li>VERB-Part--NOUN-Acc (2)</li>
+            <li>VERB-Part--NOUN-Dat (14)</li>
+            <li>VERB-Part--PRON-Dat (50)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -2298,31 +2859,40 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-    </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -2331,7 +2901,16 @@ udver: '2'
       <li>The following 5 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>Relations Overview</h3>
+      
+      <ul>
+      <li>This corpus uses 5 relation subtypes: <a>acl:relcl</a>, <a>compound:prt</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:poss</a></li>
+      <li>The following 2 main types are not used alone, they are always subtyped: <a>compound</a>, <a>flat</a></li>
+      <li>The following 6 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>

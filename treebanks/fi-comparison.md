@@ -112,7 +112,7 @@ udver: '2'
     </td>
     <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 291 types of words that contain both letters and punctuation. Examples: eKr., %:lla, -dynastia, -dynastian, III:n, -järjestöstä, -liittouman, -puisto, -vuotiaista, -yliopiston, 1960-luvulta, 1990-luvulla, 60-luvun, BBC:lle, DNA:n, Etelä-Afrikka, Ison-Britannian, Isossa-Britanniassa, Itä-Afrikan, P​a​p​u​a​-​U​u​d​e​s​s​a​-​G​u​i​n​e​a​s​s​a, Pohjois-Carolina, St., USA:n, YK:n, golf-turnaukseen, jKr., %:n, -akatemiaan, -albumin, -alueen, -alueet, -antologia, -dynastiaan, -elokuvaa, -elokuvassa, -hahmoiksi, -hinnalla, -imitaattori, -instituuttiin, -joella, -joen, -järjestön, -järven, -kadulla, -kanavalla, -keskuksen, -keskustelupalstan, -kirjasta, -kirjeet, -kirjoja</li>
+      <li>This corpus contains 291 types of words that contain both letters and punctuation. Examples: eKr., %:lla, -dynastia, -dynastian, III:n, -järjestöstä, -liittouman, -puisto, -vuotiaista, -yliopiston, 1960-luvulta, 1990-luvulla, 60-luvun, BBC:lle, DNA:n, Etelä-Afrikka, Ison-Britannian, Isossa-Britanniassa, Itä-Afrikan, Papua-Uudessa-Guineassa, Pohjois-Carolina, St., USA:n, YK:n, golf-turnaukseen, jKr., %:n, -akatemiaan, -albumin, -alueen, -alueet, -antologia, -dynastiaan, -elokuvaa, -elokuvassa, -hahmoiksi, -hinnalla, -imitaattori, -instituuttiin, -joella, -joen, -järjestön, -järven, -kadulla, -kanavalla, -keskuksen, -keskustelupalstan, -kirjasta, -kirjeet, -kirjoja</li>
       </ul>
     </td>
     <td width="25%" valign="top">
@@ -780,7 +780,7 @@ udver: '2'
           <ul>
             <li>ADJ: Kansainväliseltä, alhaiselta, asialliselta, hurjalta, hyvältä, ihanalta, nimiseltä, omalta, orientoituneelta, otolliselta</li>
             <li>ADP: tiimoilta</li>
-            <li>NOUN: hotellilta, potilaalta, y​h​t​e​i​s​t​y​ö​k​u​m​p​p​a​n​e​i​l​t​a, Ensimetreiltä, KANNALTA, MTV-kanavalta, PUOLUEELTA, Pientuottajilta, Puolilta, Reunalta</li>
+            <li>NOUN: hotellilta, potilaalta, yhteistyökumppaneilta, Ensimetreiltä, KANNALTA, MTV-kanavalta, PUOLUEELTA, Pientuottajilta, Puolilta, Reunalta</li>
             <li>NUM: neljältä</li>
             <li>PRON: jokaiselta, Keneltä, Muilta, eräältä, häneltä, joltain, siltä, tältä</li>
             <li>PROPN: Oy:ltä, Katalonialta, Kelalta, Lokomotivilta</li>
@@ -1019,7 +1019,7 @@ udver: '2'
         <li>Com
           <ul>
             <li>ADJ: kansanomaisine, liehuvine, ruumiillisine, tuttuine, uusine</li>
-            <li>NOUN: poikineen, postikuluineen, ajatuksineni, allekirjoittajineen, asenteineen, e​d​u​s​k​u​n​t​a​k​ä​s​i​t​t​e​l​y​i​n​e​e​n​k​i​n, herkkuineen, hihoineen, iloineen, jalanjälkineen</li>
+            <li>NOUN: poikineen, postikuluineen, ajatuksineni, allekirjoittajineen, asenteineen, eduskuntakäsittelyineenkin, herkkuineen, hihoineen, iloineen, jalanjälkineen</li>
             <li>PRON: kaikkine, Näine, muineen</li>
             <li>PROPN: bajamajoineen</li>
           </ul>
@@ -1590,7 +1590,7 @@ udver: '2'
       <ul>
         <li>Tra
           <ul>
-            <li>ADJ: huonoksi, sinisilmäiseksi, työläämmäksi, Suurimmaksi, Toiseksi, ahdistuneemmaksi, a​l​k​o​h​o​l​i​p​o​l​i​i​t​t​i​s​e​k​s​i, ensimmäiseksi, helpommiksi, historialliseksi</li>
+            <li>ADJ: huonoksi, sinisilmäiseksi, työläämmäksi, Suurimmaksi, Toiseksi, ahdistuneemmaksi, alkoholipoliittiseksi, ensimmäiseksi, helpommiksi, historialliseksi</li>
             <li>NOUN: ajaksi, hetkeksi, ohjelmointikieleksi, Eturuoaksi, Sääliksi, Yöksi, alkoholiksi, asemasodaksi, hoitajaksi, huvikseni</li>
             <li>VERB-Inf: muistaakseni, auttaakseen, herättääkseeni, hämätäkseen, käsittääkseni, pitääkseen, suorittamastanne, säilyäkseen, tietääkseni, ymmärtääkseni</li>
             <li>VERB-Part: esitettäväksi, jaettavaksi, puretuksi, testattavaks</li>
@@ -3490,7 +3490,7 @@ udver: '2'
             </li>
             <li>Ko
               <ul>
-                <li>ADJ: Kuusivuotiaanako, L​u​o​n​n​o​n​s​u​o​j​e​l​u​l​l​i​s​i​s​t​a​k​o, Pitkäkö, Suuriko, Vanhako, metalliseltako, tällaistako</li>
+                <li>ADJ: Kuusivuotiaanako, Luonnonsuojelullisistako, Pitkäkö, Suuriko, Vanhako, metalliseltako, tällaistako</li>
                 <li>ADV: paljonko, kauanko, Eilenkö, Taasko, Miksikö, Noinko, Näinkö, paljoko, sielläkö</li>
                 <li>AUX-Fin: onko, eikö, oliko, onks, oletko, olisiko, pitäisikö, voiko, olenko, pitääkö</li>
                 <li>DET: montako, Tämäkö, kumpaanko, tuonko</li>
@@ -3873,7 +3873,7 @@ udver: '2'
             </li>
             <li>Ja
               <ul>
-                <li>NOUN: Vierailija, valvojan, jakajan, käyttäjä, unennäkijä, Kuntatyöntekijä, Liikkujan, N​A​I​S​K​A​M​P​A​A​M​O​T​Y​Ö​N​T​E​K​I​J​Ä​I​N, NBA-pelaajien, Osallistujat</li>
+                <li>NOUN: Vierailija, valvojan, jakajan, käyttäjä, unennäkijä, Kuntatyöntekijä, Liikkujan, NAISKAMPAAMOTYÖNTEKIJÄIN, NBA-pelaajien, Osallistujat</li>
               </ul>
             </li>
             <li>Lainen
@@ -3890,12 +3890,12 @@ udver: '2'
             </li>
             <li>Llinen,Vs
               <ul>
-                <li>NOUN: l​i​i​k​e​n​n​e​t​u​r​v​a​l​l​i​s​u​u​t​t​a, mahdollisuus, v​o​i​t​t​o​m​a​h​d​o​l​l​i​s​u​u​k​s​i​s​t​a, Kirjallisuus, laadullisuus, l​i​i​k​e​n​n​e​t​u​r​v​a​l​l​i​s​u​u​t​e​e​n, mahdollisuuksia, merkkiuskollisuutta, toiminnallisuuden, turvallisuuden</li>
+                <li>NOUN: liikenneturvallisuutta, mahdollisuus, voittomahdollisuuksista, Kirjallisuus, laadullisuus, liikenneturvallisuuteen, mahdollisuuksia, merkkiuskollisuutta, toiminnallisuuden, turvallisuuden</li>
               </ul>
             </li>
             <li>Minen
               <ul>
-                <li>NOUN: #johtaminen, hapettuminen, osaaminen, tanssimista, tekemistä, #kuluttaminen, Haukkumista, Kirjoitaminen, Korvaaminen, K​u​s​t​a​n​n​u​s​t​o​i​m​i​t​t​a​m​i​n​e​n</li>
+                <li>NOUN: #johtaminen, hapettuminen, osaaminen, tanssimista, tekemistä, #kuluttaminen, Haukkumista, Kirjoitaminen, Korvaaminen, Kustannustoimittaminen</li>
               </ul>
             </li>
             <li>Sti
@@ -3949,7 +3949,7 @@ udver: '2'
             </li>
             <li>Inen,Vs
               <ul>
-                <li>NOUN: kokonaisuutena, avarakatseisuutta, h​e​r​o​i​i​n​i​r​i​i​p​p​u​v​u​u​t​e​n​s​a, julkisuudessa, l​ö​y​h​ä​m​o​r​a​a​l​i​s​u​u​t​e​n​a​a​n, ominaisuus, piioksidipitoisuuden, salaisuutensa, samankaltaisuuksia, suolapitoisuuden</li>
+                <li>NOUN: kokonaisuutena, avarakatseisuutta, heroiiniriippuvuutensa, julkisuudessa, löyhämoraalisuutenaan, ominaisuus, piioksidipitoisuuden, salaisuutensa, samankaltaisuuksia, suolapitoisuuden</li>
               </ul>
             </li>
             <li>Ja
@@ -3987,7 +3987,7 @@ udver: '2'
             </li>
             <li>Llinen,Vs
               <ul>
-                <li>NOUN: mahdollisuutta, mahdollisuus, teollisuuden, Elokuvateollisuus, j​u​l​k​a​i​s​u​t​e​o​l​l​i​s​u​u​d​e​s​t​a, kaivosteollisuudesta, kansallisuuksia, kaunokirjallisuuden, k​e​m​i​k​a​a​l​i​t​e​o​l​l​i​s​u​u​d​e​n, kirjallisuudesta</li>
+                <li>NOUN: mahdollisuutta, mahdollisuus, teollisuuden, Elokuvateollisuus, julkaisuteollisuudesta, kaivosteollisuudesta, kansallisuuksia, kaunokirjallisuuden, kemikaaliteollisuuden, kirjallisuudesta</li>
               </ul>
             </li>
             <li>Minen
@@ -4027,12 +4027,12 @@ udver: '2'
             </li>
             <li>U
               <ul>
-                <li>NOUN: avulla, haastattelussa, taistelussa, kasvua, laulun, loppujen, tappelut, -laulustaan, -tuoksu, F​a​c​e​b​o​o​k​-​j​u​l​k​a​i​s​u​i​s​t​a​a​n</li>
+                <li>NOUN: avulla, haastattelussa, taistelussa, kasvua, laulun, loppujen, tappelut, -laulustaan, -tuoksu, Facebook-julkaisuistaan</li>
               </ul>
             </li>
             <li>Vs
               <ul>
-                <li>NOUN: vanhuuteen, -​p​a​l​k​i​n​t​o​t​i​l​a​i​s​u​u​d​e​s​s​a, Kuuluisuudet, Laajuudeltaan, Osuus, avaruuteen, ehdokkuutensa, ehdokkuutta, epämukavuutta, eroavaisuuksia</li>
+                <li>NOUN: vanhuuteen, -palkintotilaisuudessa, Kuuluisuudet, Laajuudeltaan, Osuus, avaruuteen, ehdokkuutensa, ehdokkuutta, epämukavuutta, eroavaisuuksia</li>
               </ul>
             </li>
           </ul>
@@ -4107,7 +4107,7 @@ udver: '2'
             <li>Ton
               <ul>
                 <li>ADJ: välttämätöntä, mahdotonta, tavattoman, uskomatonta, vaivatonta, ehdottomaan, erottamaton, laittoman, maksuton, riippumaton</li>
-                <li>NOUN: p​i​t​k​ä​a​i​k​a​i​s​t​y​ö​t​t​ö​m​i​e​n, syyttömiä, tuntemattomille, työttömien, työttömät</li>
+                <li>NOUN: pitkäaikaistyöttömien, syyttömiä, tuntemattomille, työttömien, työttömät</li>
                 <li>VERB-Part: asettelematonta, palamaton</li>
               </ul>
             </li>
@@ -4497,7 +4497,7 @@ udver: '2'
                 <li>ADV: alleen, lävitseen, mukanaan, sisällään, muuassaan</li>
                 <li>AUX-Inf: ollessaan</li>
                 <li>AUX-Part: olevansa</li>
-                <li>NOUN: silmiään, aikansa, hetkensä, isällään, kantensa, silmänsä, @​Y​o​u​T​u​b​e​-​s​o​i​t​t​o​l​i​s​t​a​a​n, Pohjistaan, alansa, albuminsa</li>
+                <li>NOUN: silmiään, aikansa, hetkensä, isällään, kantensa, silmänsä, @YouTube-soittolistaan, Pohjistaan, alansa, albuminsa</li>
                 <li>PRON: itsensä, itselleen, itsestään, toisensa, itseensä, itseään, toisiinsa</li>
                 <li>VERB-Inf: nähdessään, Huomatessaan, Nukkuessaan, auttaakseen, hämätäkseen, koittaessaan, lukiessaan, lähtiessään, pitääkseen, säilyäkseen</li>
                 <li>VERB-Part: saatuaan, avattuaan, herättyään, kuolevansa, löytävänsä, oltuaan, rukoiltuaan</li>
@@ -4665,7 +4665,7 @@ udver: '2'
           <ul>
             <li>Arch
               <ul>
-                <li>NOUN: N​A​I​S​K​A​M​P​A​A​M​O​T​Y​Ö​N​T​E​K​I​J​Ä​I​N</li>
+                <li>NOUN: NAISKAMPAAMOTYÖNTEKIJÄIN</li>
               </ul>
             </li>
             <li>Coll
@@ -4785,7 +4785,7 @@ udver: '2'
                 <li>AUX-Part: olevaan, olut</li>
                 <li>CCONJ: jokö, van</li>
                 <li>INTJ: joo.</li>
-                <li>NOUN: n, version, 1dl, MUUTTOLIIKEIDEN, lypsy-ja, -näppäimesta, -sossupummit, 1​1​.​k​r​e​n​a​t​ö​ö​r​i​r​y​k​m​e​n​t​i​n, 1kpl, 2.5mm</li>
+                <li>NOUN: n, version, 1dl, MUUTTOLIIKEIDEN, lypsy-ja, -näppäimesta, -sossupummit, 11.krenatöörirykmentin, 1kpl, 2.5mm</li>
                 <li>NUM: kahden, miljoona</li>
                 <li>PRON: minun, sen, Hedän, Kumpikin, Saman, Tosilla, Tämä, erääseen, johon, jonka</li>
                 <li>PROPN: Pekkka, Begia, Carnegiein, EMN, Guinnesiin, Guinnesin, Hohenstaufen, Isoa-Britanniaan, Japani, Jonna</li>
@@ -5217,7 +5217,7 @@ udver: '2'
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 103 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: lyödä itsensä, tuntea itseni, ajatella itseäni, ajatella itseään, ampua itsensä, kunnioittaa itseään, piristää itseään, pitää itsensä, saattaa itsensä, tanssia itsensä, toteuttaa itseään, t​o​t​e​u​t​t​a​m​i​n​e​n​ ​i​t​s​e​n​s​ä, ahmia itsensä, ampua itseä, arvostaa itseäsi, asua itsensä, auttaa itseämme, elättää itsensä, e​s​i​i​n​t​u​n​k​e​m​i​n​e​n​ ​i​t​s​e​n​s​ä, esittäminen itsensä, filmata itseään, helliminen itsensä, hemmotella itseään, hillitä itsensä, hillitä itseäni, huvittaa itseä, hyväksyä itsensä, hyväksyä itsesi, häpäistä itseni, häpäistä itsenne, höynäyttää itseään, ilmaista itseään, juoda ihtiisäj, juoda itsensä, kasvattaa itseään, katsoa itseään, kehittäminen itsensä, kehittää itseäni, kehittää itseään, kiinnostaa itseäni, kirjoituttaa itsensä, kiusata itseänne, kokea itsensä, kokea itseään, koota itsensä, kuivatella itsensä, kuivatella itseään, kuvaaminen itsensä, kuvitella itseni, kuvitella itsensä</li>
+        <li>This corpus contains 103 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: lyödä itsensä, tuntea itseni, ajatella itseäni, ajatella itseään, ampua itsensä, kunnioittaa itseään, piristää itseään, pitää itsensä, saattaa itsensä, tanssia itsensä, toteuttaa itseään, toteuttaminen itsensä, ahmia itsensä, ampua itseä, arvostaa itseäsi, asua itsensä, auttaa itseämme, elättää itsensä, esiintunkeminen itsensä, esittäminen itsensä, filmata itseään, helliminen itsensä, hemmotella itseään, hillitä itsensä, hillitä itseäni, huvittaa itseä, hyväksyä itsensä, hyväksyä itsesi, häpäistä itseni, häpäistä itsenne, höynäyttää itseään, ilmaista itseään, juoda ihtiisäj, juoda itsensä, kasvattaa itseään, katsoa itseään, kehittäminen itsensä, kehittää itseäni, kehittää itseään, kiinnostaa itseäni, kirjoituttaa itsensä, kiusata itseänne, kokea itsensä, kokea itseään, koota itsensä, kuivatella itsensä, kuivatella itseään, kuvaaminen itsensä, kuvitella itseni, kuvitella itsensä</li>
           <ul>
             <li>Out of those, 3 lemmas occurred more than once, but never without a reflexive dependent. Examples: hillitä, häpäistä, piristää</li>
           </ul>

@@ -35,12 +35,12 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 5593 sentences and 121923 tokens.</li>
+      <li>This corpus contains 5593 sentences and 120581 tokens.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 1000 sentences, 19030 tokens and 19440 syntactic words.</li>
+      <li>This corpus contains 1000 sentences, 19032 tokens and 19442 syntactic words.</li>
       </ul>
     </td>
   </tr>
@@ -52,7 +52,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 16358 tokens (13%) that are not followed by a space.</li>
+      <li>This corpus contains 16360 tokens (14%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -81,17 +81,17 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 148 types of words that contain both letters and punctuation. Examples: rata-rata, APBN-P, masing-masing, Ltd., non-migas, 's, non-keuangan, AA-idn, II/2007, Ka'ban, Pte., langkah-langkah, negara-negara, No., RAPBN-P, bank-bank, baru-baru, idA-, syarat-syarat, C/D, Co., I/2007, II/2003, LLC., S., S/A, Tbk., anak-anak, benar-benar, berbeda-beda, berturut-turut, minus/idn, monyet-monyet, nama-nama, non-residence, obligasi-obligasi, peringkat-peringkat, p​e​r​u​s​a​h​a​a​n​-​p​e​r​u​s​a​h​a​a​n, prinsip-prinsip, rasio-rasio, semata-mata, sumber-sumber, terus-menerus, 03-Oct, 05-May, 10-Jan, 17-Mar, 23-Aug, 26-Sep, 34/PMK.011/2007</li>
+      <li>This corpus contains 148 types of words that contain both letters and punctuation. Examples: rata-rata, APBN-P, masing-masing, Ltd., non-migas, 's, non-keuangan, AA-idn, II/2007, Ka'ban, Pte., langkah-langkah, negara-negara, No., RAPBN-P, bank-bank, baru-baru, idA-, syarat-syarat, C/D, Co., I/2007, II/2003, LLC., S., S/A, Tbk., anak-anak, benar-benar, berbeda-beda, berturut-turut, minus/idn, monyet-monyet, nama-nama, non-residence, obligasi-obligasi, peringkat-peringkat, perusahaan-perusahaan, prinsip-prinsip, rasio-rasio, semata-mata, sumber-sumber, terus-menerus, 03-Oct, 05-May, 10-Jan, 17-Mar, 23-Aug, 26-Sep, 34/PMK.011/2007</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 124 types of words that contain both letters and punctuation. Examples: &amp;, km&amp;sup2, orang-orang, benar-benar, &amp;nbsp, laki-laki, p​e​r​t​a​n​y​a​a​n​-​p​e​r​t​a​n​y​a​a​n, Moody's, Rubik's, berlaksa-laksa, diam-diam, hal-hal, hamba-Ku, kata-kata, tanda-tanda, 14&amp;nbsp, 22&amp;nbsp, 36&amp;nbsp, 40&amp;nbsp, 764&amp;nbsp, Anggota-anggota, Aphrodite's, Assisted_GPS, Bird's, Cinta-Dante-Cahaya, Dosen-dosen, GL_ARB_robustness, GL_EXT_robustness, He's, Heaven's, ID&amp;T, It's, Ja's, Jane's, Levy's, Lloyd's, M&amp;D, Nama-Nya, Negara-negara, P&amp;G, PEI-AISAH, Pepper's, Punk's, Rasul-Nya, Robert's, She's, TV's, Tiba-tiba, Valve's, Vol.</li>
+      <li>This corpus contains 421 types of words that contain both letters and punctuation. Examples: orang-orang, masing-masing, &amp;, km&amp;sup2, anak-anak, laki-laki, negara-negara, lagu-lagu, lain-lain, undang-undang, kadang-kadang, tiba-tiba, benar-benar, kata-kata, kitab-kitab, kota-kota, raja-raja, rata-rata, kapal-kapal, kira-kira, sisa-sisa, tempat-tempat, daerah-daerah, hal-hal, karya-karya, kawan-kawan, nama-nama, produk-produk, sekolah-sekolah, tanda-tanda, Jenis-jenis, abu-abu, album-album, bahasa-bahasa, barang-barang, batu-batu, cerita-cerita, gedung-gedung, ilmu-ilmu, isu-isu, kelompok-kelompok, pertanyaan-pertanyaan, tahun-tahun, teks-teks, ucapan-ucapan, unsur-unsur, &amp;nbsp, akhir-akhir, aturan-aturan, ayat-ayat</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 176 types of words that contain both letters and punctuation. Examples: rata-rata, laki-laki, orang-orang, baru-baru, negara-negara, undang-undang, anak-anak, bertahun-tahun, masing-masing, A.S., batas-batas, 1970-an, Nn., No., St., Tn., bagian-bagian, batu-batu, benar-benar, bersama-sama, bulan-bulan, kira-kira, kota-kota, paru-paru, puing-puing, pulau-pulau, satu-satu, 1960-an, 1980-an, 1990-an, 60-an, B.C., Joliot-Curie, Ms., asal-muasal, bangsa-bangsa, benda-benda, berhati-hati, besar-besaran, gereja-gereja, hal-hal, hati-hati, ide-ide, jelas-jelas, ke-16, ke-3, ke-5, lagi-lagi, n't, partikel-partikel</li>
+      <li>This corpus contains 175 types of words that contain both letters and punctuation. Examples: rata-rata, laki-laki, orang-orang, baru-baru, negara-negara, undang-undang, anak-anak, bertahun-tahun, masing-masing, A.S., batas-batas, 1970-an, Nn., No., St., Tn., bagian-bagian, batu-batu, benar-benar, bersama-sama, bulan-bulan, kira-kira, kota-kota, paru-paru, puing-puing, pulau-pulau, satu-satu, 1960-an, 1980-an, 1990-an, 60-an, B.C., Joliot-Curie, Ms., asal-muasal, bangsa-bangsa, benda-benda, berhati-hati, besar-besaran, gereja-gereja, hal-hal, hati-hati, ide-ide, jelas-jelas, ke-16, ke-3, ke-5, lagi-lagi, n't, partikel-partikel</li>
       </ul>
     </td>
   </tr>
@@ -173,7 +173,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 27 lemmas tagged as pronouns (PRON): _, aku, anda, apa, begitu, demikian, dia, diri, ia, ini, itu, kalian, kami, kamu, kita, ku, mana, mereka, nya, orang, sana, saya, semua, siapa, sini, suatu, yang</li>
+      <li>This corpus contains 26 lemmas tagged as pronouns (PRON): aku, anda, apa, begitu, demikian, dia, diri, ia, ini, itu, kalian, kami, kamu, kita, ku, mana, mereka, nya, orang, sana, saya, semua, siapa, sini, suatu, yang</li>
       </ul>
     </td>
   </tr>
@@ -219,7 +219,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): adalah, ialah, rata</li>
+      <li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): adalah, dapat, harus, ialah</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -236,7 +236,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: adalah</li>
+      <li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: adalah, dapat, harus</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -356,7 +356,7 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>NOUN: langkah-langkah, negara-negara, bank-bank, syarat-syarat, anak-anak, monyet-monyet, nama-nama, obligasi-obligasi, peringkat-peringkat, p​e​r​u​s​a​h​a​a​n​-​p​e​r​u​s​a​h​a​a​n</li>
+            <li>NOUN: langkah-langkah, negara-negara, bank-bank, syarat-syarat, anak-anak, monyet-monyet, nama-nama, obligasi-obligasi, peringkat-peringkat, perusahaan-perusahaan</li>
             <li>PRON: kita, mereka, kami</li>
           </ul>
         </li>
@@ -366,11 +366,12 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>ADJ: laki-laki, cuma-cuma, diam-diam</li>
-            <li>ADV: mati-matian, bersama-sama, betul-betul, diam-diam</li>
-            <li>NOUN: orang-orang, p​e​r​t​a​n​y​a​a​n​-​p​e​r​t​a​n​y​a​a​n, hal-hal, kata-kata, tanda-tanda, Anggota-anggota, Dosen-dosen, anjing-anjing, badan-badan, batu-batu</li>
-            <li>PRON: mereka, kita, kami, kalian, anak-anakmu, kamilah, merekapun</li>
-            <li>PROPN: Negara-negara</li>
+            <li>ADJ: abu-abu, lain-lain, laki-laki, rata-rata, betul-betul, cuma-cuma, hidup-hidup, luka-luka, samar-samar, tengah-tengah</li>
+            <li>ADV: kadang-kadang, tiba-tiba, masing-masing, kira-kira, mula-mula, rata-rata, benar-benar, jarang-jarang, mati-matian, sering-sering</li>
+            <li>DET: masing-masing</li>
+            <li>NOUN: orang-orang, anak-anak, laki-laki, negara-negara, kata-kata, kitab-kitab, kota-kota, lagu-lagu, raja-raja, tempat-tempat</li>
+            <li>PRON: mereka, kita, kami, kalian, agar-agar, anak-anakmu, apa-apa, kamilah, merekapun, sendiri-sendiri</li>
+            <li>PROPN: Lagu-lagu, Negara-negara, Nabi-nabi, Raja-Raja, Akhir-akhir, Alat-alat, Alun-Alun, Anak-anak, Argumen-argumen, Ayat-Ayat</li>
             <li>VERB: berlaksa-laksa, orang-orang, berdua-duaan</li>
           </ul>
         </li>
@@ -406,11 +407,11 @@ udver: '2'
           <ul>
             <li>ADJ: lain, besar, awal, baru, sama, kecil, utama, tinggi, baik, sendiri</li>
             <li>ADP: dalam, tentang, atas, selain, asal, saat, bersama, bagi, mana, melawan</li>
-            <li>ADV: dapat, harus, sudah, kembali, terutama, tetap, mulai, kali, tiba, kurang</li>
-            <li>AUX: rata</li>
+            <li>ADV: dapat, harus, sudah, kembali, terutama, tetap, mulai, kali, kurang, biasa</li>
+            <li>AUX: dapat, harus</li>
             <li>CCONJ: lalu, akibat, mana, baik, melainkan, Stasiun, alias, bersama, saat, sebab</li>
             <li>DET: salah, sebagian, kebanyakan, mayoritas, orang, seekor, sekelompok, banyak, berikut, buah</li>
-            <li>NOUN: tahun, orang, desa, kota, nama, bagian, bahasa, wilayah, negara, daerah</li>
+            <li>NOUN: tahun, orang, desa, kota, nama, bagian, bahasa, wilayah, film, daerah</li>
             <li>NUM: meter, XII, mm, persen, setengah, 1880an, 1980an, 1990an, REVOLUSI, buta</li>
             <li>PART: tiada, Berdasar, bersorak, keluar, membelinya, silakan, tercetusnya, terkejutnya</li>
             <li>PRON: ia, dia, kamu, aku, engkau, dirinya, Perang, beliau, saya, anda</li>
@@ -430,8 +431,7 @@ udver: '2'
           <ul>
             <li>DET: sebuah, seorang, suatu</li>
             <li>NOUN: tahun, orang, bulan, bagian, hari, negara, kota, laut, perang, hal</li>
-            <li>PRON: nya, ia, saya, dia, Anda, Aku, ku, diri, kamu</li>
-            <li>PROPN: Marxisme</li>
+            <li>PRON: nya, ia, saya, dia, Anda, Aku, ku, kamu</li>
           </ul>
         </li>
       </ul>
@@ -508,14 +508,13 @@ udver: '2'
           <ul>
             <li>ADJ: lain, besar, baru, sama, kecil, utama, tinggi, baik, sendiri, dekat</li>
             <li>ADP: dalam, atas, selain, sampai, luar, baik, sesuai, seluas, sejauh, pasca</li>
-            <li>ADV: tetap, kurang, biasa, baru, sedikit, sama, lalu, rata, relatif, sendiri</li>
-            <li>AUX: rata</li>
+            <li>ADV: tetap, kurang, biasa, baru, sedikit, sama, lalu, relatif, banyak, sendiri</li>
             <li>CCONJ: lalu, baik, Adapun, Layaknya, lain, sama, selain, sewaktu</li>
             <li>DET: salah, sebagian, seekor, sekelompok, banyak, semacam, sendiri, aneka, baik, sama</li>
             <li>NOUN: luas, pusat, salah, atas, panjang, luar, sebagian, jarak, seri, bekas</li>
             <li>NUM: 1880an, 1980an, 1990an, buta, muda</li>
             <li>PART: tiada</li>
-            <li>PRON: sendiri, adakah, dekat</li>
+            <li>PRON: sendiri, adakah, dekat, sendiri-sendiri</li>
             <li>PROPN: Nasional, Raya, baru, Agung, Pusat, Besar, Internasional, Suci, Perdana, United</li>
             <li>PUNCT: banyak, habis</li>
             <li>SCONJ: lalu, sewaktu, Adapun, selain, usai, Baru, jadi</li>
@@ -721,14 +720,14 @@ udver: '2'
           <ul>
             <li>ADJ: berbeda, keluar, bersama, lanjut, beragam, bersamaan, pecah, cetak, erat, hias</li>
             <li>ADP: tentang, bersama, bagi, melawan, berdasarkan, lewat, antar, menuju, mulai, menjadi</li>
-            <li>ADV: dapat, harus, sudah, kembali, mulai, turut, kira, ingin, bersama, perlu</li>
+            <li>ADV: dapat, harus, sudah, kembali, mulai, turut, ingin, bersama, perlu, berturut</li>
             <li>CCONJ: melainkan, bersama</li>
             <li>DET: berikut, beragam, Bagi</li>
             <li>NOUN: tanggal, sepak, gelar, hukum, jalan, pukul, milik, jawab, kali, pos</li>
             <li>NUM: XII, inchi</li>
             <li>PART: Berdasar, bersorak, keluar, membelinya, silakan</li>
             <li>PRON: Aku, berdirinya</li>
-            <li>PROPN: Hukum, Tata, Kerja, Undang, Kali, Balai, Kutai, Sepak, Aku, Fei</li>
+            <li>PROPN: Hukum, Tata, Kerja, Kali, Balai, Kutai, Sepak, Aku, Fei, Ji</li>
             <li>SCONJ: melainkan, berikut</li>
             <li>VERB: menjadi, memiliki, berada, menggunakan, membuat, bermain, mulai, kembali, berasal, mempunyai</li>
           </ul>
@@ -850,7 +849,7 @@ udver: '2'
       <ul>
         <li>Dem
           <ul>
-            <li>DET: ini, itu, tersebut, sang, si</li>
+            <li>DET: ini, itu, nya, tersebut, sang, si</li>
             <li>PRON: itu, ini, sana, begitu, demikian, sini</li>
           </ul>
         </li>
@@ -902,7 +901,7 @@ udver: '2'
         <li>Ind
           <ul>
             <li>ADV: kadang, kadang-kadang</li>
-            <li>DET: sebuah, para, banyak, beberapa, seorang, berbagai, sebagian, suatu, kebanyakan, sejenis</li>
+            <li>DET: sebuah, para, banyak, beberapa, seorang, berbagai, suatu, sebagian, kebanyakan, sejenis</li>
             <li>PRON: seseorang, sesuatu</li>
           </ul>
         </li>
@@ -962,7 +961,7 @@ udver: '2'
       <ul>
         <li>Prs
           <ul>
-            <li>PRON: nya, ia, mereka, saya, kami, dia, kita, Anda, diri, Aku</li>
+            <li>PRON: nya, ia, mereka, saya, kami, dia, kita, diri, Anda, Aku</li>
           </ul>
         </li>
       </ul>
@@ -983,7 +982,7 @@ udver: '2'
         <li>Rel
           <ul>
             <li>DET: kemudian, sementara, demikian, jadi, maka, sehubungan</li>
-            <li>PRON: yang, saat, bahwa, jadi, berkat, ketika, yg, agar, Bila, Demikian</li>
+            <li>PRON: yang, saat, bahwa, jadi, berkat, ketika, yg, Bila, Demikian, Manakala</li>
           </ul>
         </li>
       </ul>
@@ -1396,7 +1395,7 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
-                <li>NOUN: SM, AIDS, ATM, BC, C, DFB, GIF, HFC, M, MLA</li>
+                <li>NOUN: SM, AIDS, ATM, BC, DFB, GIF, HFC, MLA, MP, No.</li>
                 <li>PROPN: AS, A.S., BBC, CNN, Nn., Tn., B.C., DNA, GCA, GOP</li>
               </ul>
             </li>
@@ -1513,7 +1512,7 @@ udver: '2'
                 <li>ADJ: barumu</li>
                 <li>ADP: menurutmu, untukmu, kepadamu</li>
                 <li>ADV: Amu, mendorongmu</li>
-                <li>NOUN: bakau, bagimu, istrimu, kepadamu, matamu, namu, Maumu, dirimu, dosamu, hari-harimu</li>
+                <li>NOUN: bakau, bagimu, istrimu, kepadamu, matamu, Maumu, dirimu, dosamu, hari-harimu, hatimu</li>
                 <li>PRON: akau, anak-anakmu</li>
                 <li>PROPN: Allahmu, Bintangmu, Kepadamu</li>
                 <li>VERB: Menyayangimu, melayanimu, membuatmu, menikahimu</li>
@@ -1601,7 +1600,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: dapat, harus, terpaksa.</li>
+      <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: dapat, harus.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -1631,13 +1630,13 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (1594)</li>
+            <li>VERB--NOUN (1592)</li>
             <li>VERB--NOUN-ADP(dalam) (2)</li>
             <li>VERB--NOUN-ADP(di)-ADP(antara) (1)</li>
             <li>VERB--NOUN-ADP(saat) (1)</li>
             <li>VERB--NOUN-ADP(seperti) (1)</li>
             <li>VERB--NOUN-ADP(untuk) (1)</li>
-            <li>VERB--PRON (2067)</li>
+            <li>VERB--PRON (2065)</li>
           </ul>
         </li>
       </ul>
@@ -1649,9 +1648,8 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (478)</li>
-            <li>VERB--PRON (460)</li>
-            <li>VERB--PRON-ADP(dari) (1)</li>
+            <li>VERB--NOUN (477)</li>
+            <li>VERB--PRON (457)</li>
           </ul>
         </li>
       </ul>
@@ -1794,7 +1792,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 3 relation subtypes: <a>compound:plur</a>, <a>csubj:pass</a>, <a>nsubj:pass</a></li>
+      <li>This corpus uses 2 relation subtypes: <a>csubj:pass</a>, <a>nsubj:pass</a></li>
       <li>The following 9 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>

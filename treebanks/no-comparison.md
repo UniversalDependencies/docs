@@ -47,12 +47,12 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 34524 tokens (11%) that are not followed by a space.</li>
+      <li>This corpus contains 34509 tokens (11%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 30772 tokens (10%) that are not followed by a space.</li>
+      <li>This corpus contains 30735 tokens (10%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -164,7 +164,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 45 lemmas tagged as pronouns (PRON): alle, alt, begge, båe, d., de, dei, deira, den, denne, der, desse, det, dette, din, du, dykkar, eg, ein, han, hans, hennar, ho, ingen, ingenting, kva, kvarandre, kven, kån, kåns, man, me, min, mine, noko, nokon, nokre, seg, sin, slikt, som, somme, sånt, vi, vår</li>
+      <li>This corpus contains 46 lemmas tagged as pronouns (PRON): alle, alt, begge, båe, d., de, dei, deira, den, denne, der, desse, det, dette, din, du, dykkar, eg, ein, han, hans, hennar, her, ho, ingen, ingenting, kva, kvarandre, kven, kån, kåns, man, me, min, mine, noko, nokon, nokre, seg, sin, slikt, som, somme, sånt, vi, vår</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -345,9 +345,9 @@ udver: '2'
       <ul>
         <li>Part
         <ul>
-          <li>ADJ: sett, lagt, auka, gjort, manglande, samla, avgjerande, følgjande, aukande, komande</li>
-          <li>AUX: vore, blitt, vorte, fått, kunna, måtta, måtte, fengje, vilja</li>
-          <li>VERB: fått, hatt, gjort, sett, gått, vore, teke, kome, sagt, blitt</li>
+          <li>ADJ: manglande, auka, sett, avgjerande, samla, følgjande, aukande, komande, samfunnsberande, overraskande</li>
+          <li>AUX: vore, blitt, vorte, fått, kunna, måtta, måtte, vorten, fengje, vilja</li>
+          <li>VERB: fått, hatt, sett, gjort, gått, lagt, vore, teke, sagt, kome</li>
         </ul>
         </li>
       </ul>
@@ -411,12 +411,12 @@ udver: '2'
       <ul>
         <li>Fem
           <ul>
-            <li>ADJ: lita, bundi, opa, teki, vedteki</li>
-            <li>ADJ-Part: teki, vedteki</li>
+            <li>ADJ: lita, bundi, opa</li>
             <li>DET: ei, den, denne, anna, slik, eiga, all, inga, kvar, noko</li>
             <li>NOUN: tid, kroner, regjeringa, saka, verda, boka, tida, meldinga, lov, grad</li>
             <li>NUM: éi, annakvar, ei</li>
             <li>PRON: ho, si, henne, vår, hans, mi, hennar, di, deira, ei</li>
+            <li>VERB-Part: teki, vedteki</li>
           </ul>
         </li>
       </ul>
@@ -525,12 +525,13 @@ udver: '2'
         <li>Neut
           <ul>
             <li>ADJ: mykje, godt, heilt, langt, svært, litt, rett, veldig, viktig, norsk</li>
-            <li>ADJ-Part: sett, lagt, gjort, sagt, utvida, knytt, teke, vedteke, gjeve, samla</li>
+            <li>ADJ-Part: sett, utvida, knytt, avgrensa, samla, inkludert, samanlikna, sagt, tapt, venta</li>
+            <li>AUX-Part: blitt</li>
             <li>DET: eit, det, anna, noko, dette, kvart, eitt, eige, alt, slikt</li>
             <li>NOUN: år, folk, språk, stortinget, landet, land, Framstegspartiet, tillegg, departementet, arbeidet</li>
             <li>NUM: annakvart, halvanna, halvtanna, noe</li>
             <li>PRON: det, dette, noko, sitt, alt, vårt, mitt, hans, slikt, hennar</li>
-            <li>VERB-Part: blir, innført, lagt</li>
+            <li>VERB-Part: lagt, gjort, sett, sagt, vedteke, gjeve, teke, vist, halde, sendt</li>
           </ul>
         </li>
       </ul>
@@ -635,11 +636,13 @@ udver: '2'
         <li>Plur
           <ul>
             <li>ADJ: mange, store, nye, ulike, norske, gode, 1., siste, tilsette, få</li>
-            <li>ADJ-Part: samla, tekne, auka, brukte, frammøtte, komne, reduserte, interesserte, knytte, nemnde</li>
+            <li>ADJ-Part: auka, frammøtte, interesserte, okkuperte, reduserte, skadde, innsette, knytte, prioriterte, samla</li>
+            <li>AUX-Part: blitt, vortne</li>
             <li>DET: dei, andre, alle, desse, nokre, slike, ingen, eigne, begge, nokon</li>
             <li>NOUN: år, folk, prosent, kroner, millionar, åra, pengar, land, menneske, tiltak</li>
             <li>NUM: to, tre, fire, ti, fem, 20, seks, 2005, 2006, 2</li>
             <li>PRON: dei, vi, me, oss, sine, alle, våre, de, ingen, kvarandre</li>
+            <li>VERB-Part: tekne, komne, bruka, brukte, lagde, nytta, samla, drepne, sende, fjerna</li>
           </ul>
         </li>
       </ul>
@@ -702,12 +705,13 @@ udver: '2'
         <li>Sing
           <ul>
             <li>ADJ: mykje, heile, godt, heilt, norsk, viktig, langt, svært, litt, rett</li>
-            <li>ADJ-Part: sett, lagt, gjort, auka, samla, knytt, utvida, sagt, kalla, brukt</li>
+            <li>ADJ-Part: sett, auka, samla, utvida, knytt, overraska, avgrensa, inkludert, samanlikna, gradert</li>
+            <li>AUX-Part: blitt, vorten</li>
             <li>DET: ein, den, eit, ei, det, denne, anna, noko, dette, kvar</li>
             <li>NOUN: dag, tid, år, del, språk, landet, regjeringa, saka, verda, gong</li>
             <li>NUM: eine, éin, éi, en, annankvar, annakvar, annakvart, ei, halvanna, halvtanna</li>
             <li>PRON: det, han, eg, seg, ein, dette, ho, du, noko, sin</li>
-            <li>VERB-Part: blir, innført, lagt, stoppa</li>
+            <li>VERB-Part: sett, lagt, gjort, fødd, sendt, brukt, sagt, gjennomført, vist, kalla</li>
           </ul>
         </li>
       </ul>
@@ -973,10 +977,11 @@ udver: '2'
         <li>Ind
           <ul>
             <li>ADJ: mykje, godt, heilt, norsk, viktig, langt, mest, svært, litt, rett</li>
-            <li>ADJ-Part: sett, lagt, gjort, auka, knytt, samla, utvida, sagt, kalla, brukt</li>
+            <li>ADJ-Part: sett, auka, samla, knytt, utvida, overraska, avgrensa, inkludert, samanlikna, gradert</li>
+            <li>AUX-Part: blitt, vorten</li>
             <li>DET: anna, eigen, annan, eige, eiga, annen, egen</li>
             <li>NOUN: år, dag, folk, tid, prosent, språk, kroner, del, millionar, land</li>
-            <li>VERB-Part: blir, innført, lagt, stoppa</li>
+            <li>VERB-Part: sett, lagt, gjort, fødd, sendt, brukt, sagt, gjennomført, vist, kalla</li>
           </ul>
         </li>
       </ul>
@@ -1062,7 +1067,7 @@ udver: '2'
         <li>Pos
           <ul>
             <li>ADJ: mange, mykje, nye, store, heile, godt, heilt, norske, norsk, siste</li>
-            <li>ADJ-Part: Samla, utpeikt</li>
+            <li>ADJ-Part: Samla</li>
           </ul>
         </li>
       </ul>
@@ -2240,16 +2245,16 @@ udver: '2'
             <li>VERB-Fin--NOUN-ADP(over) (2)</li>
             <li>VERB-Fin--PRON (2629)</li>
             <li>VERB-Fin--PRON-Acc (6)</li>
-            <li>VERB-Fin--PRON-Nom (5621)</li>
-            <li>VERB-Inf--NOUN (1058)</li>
+            <li>VERB-Fin--PRON-Nom (5622)</li>
+            <li>VERB-Inf--NOUN (1057)</li>
             <li>VERB-Inf--NOUN-Gen (1)</li>
             <li>VERB-Inf--PRON (534)</li>
             <li>VERB-Inf--PRON-Acc (7)</li>
-            <li>VERB-Inf--PRON-Nom (1463)</li>
+            <li>VERB-Inf--PRON-Nom (1462)</li>
             <li>VERB-Part--NOUN (1045)</li>
             <li>VERB-Part--NOUN-ADP(med) (1)</li>
             <li>VERB-Part--PRON (511)</li>
-            <li>VERB-Part--PRON-Nom (1015)</li>
+            <li>VERB-Part--PRON-Nom (1016)</li>
           </ul>
         </li>
       </ul>
@@ -2261,23 +2266,23 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB-Fin--NOUN (5915)</li>
+            <li>VERB-Fin--NOUN (5930)</li>
             <li>VERB-Fin--NOUN-ADP(blant) (1)</li>
             <li>VERB-Fin--NOUN-ADP(med) (6)</li>
             <li>VERB-Fin--NOUN-Gen (1)</li>
-            <li>VERB-Fin--PRON (2761)</li>
+            <li>VERB-Fin--PRON (2769)</li>
             <li>VERB-Fin--PRON-Acc (11)</li>
-            <li>VERB-Fin--PRON-Nom (4186)</li>
-            <li>VERB-Inf--NOUN (1574)</li>
+            <li>VERB-Fin--PRON-Nom (4195)</li>
+            <li>VERB-Inf--NOUN (1571)</li>
             <li>VERB-Inf--NOUN-ADP(med) (4)</li>
             <li>VERB-Inf--PRON (891)</li>
             <li>VERB-Inf--PRON-Acc (3)</li>
-            <li>VERB-Inf--PRON-Nom (1079)</li>
-            <li>VERB-Part--NOUN (845)</li>
+            <li>VERB-Inf--PRON-Nom (1076)</li>
+            <li>VERB-Part--NOUN (1149)</li>
             <li>VERB-Part--NOUN-ADP(med) (1)</li>
-            <li>VERB-Part--PRON (373)</li>
+            <li>VERB-Part--PRON (535)</li>
             <li>VERB-Part--PRON-Acc (1)</li>
-            <li>VERB-Part--PRON-Nom (679)</li>
+            <li>VERB-Part--PRON-Nom (732)</li>
           </ul>
         </li>
       </ul>
@@ -2319,7 +2324,7 @@ udver: '2'
             <li>VERB-Fin--PRON (784)</li>
             <li>VERB-Fin--PRON-Acc (819)</li>
             <li>VERB-Fin--PRON-Nom (11)</li>
-            <li>VERB-Inf--NOUN (3500)</li>
+            <li>VERB-Inf--NOUN (3501)</li>
             <li>VERB-Inf--PRON (400)</li>
             <li>VERB-Inf--PRON-ADP(med) (1)</li>
             <li>VERB-Inf--PRON-Acc (499)</li>
@@ -2335,17 +2340,17 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Fin--NOUN (4854)</li>
+            <li>VERB-Fin--NOUN (4855)</li>
             <li>VERB-Fin--NOUN-ADP(med) (1)</li>
             <li>VERB-Fin--PRON (723)</li>
-            <li>VERB-Fin--PRON-Acc (652)</li>
+            <li>VERB-Fin--PRON-Acc (653)</li>
             <li>VERB-Fin--PRON-Nom (12)</li>
-            <li>VERB-Inf--NOUN (3570)</li>
+            <li>VERB-Inf--NOUN (3572)</li>
             <li>VERB-Inf--PRON (360)</li>
-            <li>VERB-Inf--PRON-Acc (390)</li>
+            <li>VERB-Inf--PRON-Acc (389)</li>
             <li>VERB-Inf--PRON-Nom (1)</li>
-            <li>VERB-Part--NOUN (973)</li>
-            <li>VERB-Part--PRON (117)</li>
+            <li>VERB-Part--NOUN (1142)</li>
+            <li>VERB-Part--PRON (138)</li>
             <li>VERB-Part--PRON-Acc (153)</li>
             <li>VERB-Part--PRON-Nom (1)</li>
           </ul>

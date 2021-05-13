@@ -1646,7 +1646,7 @@ udver: '2'
             <li>VERB-Fin--NOUN-Acc-ADP(μετά) (1)</li>
             <li>VERB-Fin--NOUN-Dat (3)</li>
             <li>VERB-Fin--NOUN-Gen (5)</li>
-            <li>VERB-Fin--NOUN-Nom (6795)</li>
+            <li>VERB-Fin--NOUN-Nom (6796)</li>
             <li>VERB-Fin--PRON-Acc (15)</li>
             <li>VERB-Fin--PRON-Dat (3)</li>
             <li>VERB-Fin--PRON-Nom (2861)</li>
@@ -1737,7 +1737,7 @@ udver: '2'
         <li><a>obj</a>
           <ul>
             <li>VERB--NOUN-Acc (2)</li>
-            <li>VERB-Fin--NOUN-Acc (5467)</li>
+            <li>VERB-Fin--NOUN-Acc (5475)</li>
             <li>VERB-Fin--NOUN-Dat (612)</li>
             <li>VERB-Fin--NOUN-Gen (730)</li>
             <li>VERB-Fin--NOUN-Nom (51)</li>
@@ -1747,7 +1747,7 @@ udver: '2'
             <li>VERB-Fin--PRON-Dat (516)</li>
             <li>VERB-Fin--PRON-Gen (226)</li>
             <li>VERB-Fin--PRON-Nom (13)</li>
-            <li>VERB-Inf--NOUN-Acc (1047)</li>
+            <li>VERB-Inf--NOUN-Acc (1048)</li>
             <li>VERB-Inf--NOUN-Dat (168)</li>
             <li>VERB-Inf--NOUN-Gen (137)</li>
             <li>VERB-Inf--NOUN-Nom (9)</li>

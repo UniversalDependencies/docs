@@ -529,7 +529,7 @@ udver: '2'
           <ul>
             <li>ADJ: नये, पहले, पिछले, नया, पूरा, बड़ा, छोटे, तीसरे, दूसरे, पुराने</li>
             <li>ADP: के, का, वाले, वाली, वाला, संबंधी, योग्य, स्थित, आधारित, केन्द्रित</li>
-            <li>AUX: है, था, गया, गयी, दिया, हुए, जाता, थी, सकता, रहा</li>
+            <li>AUX: है, था, गया, गयी, दिया, थी, हुए, जाता, सकता, रहा</li>
             <li>AUX-Inf: पाना</li>
             <li>DET: एक, इस, यह, उस, ऐसा, द, उसी, ऐसे, ऐसी, थोड़ा</li>
             <li>NOUN: रूप, वर्ष, समय, क्षेत्र, शुरू, काम, साल, तरह, बार, युद्ध</li>
@@ -1153,7 +1153,7 @@ udver: '2'
         <li>Pres
           <ul>
             <li>AUX: है, हैं, हूं, चाहिए, जाए, थे, सकते, हो, चाहेंगे, दें</li>
-            <li>VERB: है, हैं, करें, करता, करते, चाहिए, निपटें, फटते, फिशिंग, मांगा</li>
+            <li>VERB: है, हैं, करें, करता, करते, निपटें, फटते, फिशिंग, मांगा, लव</li>
           </ul>
         </li>
       </ul>
@@ -1312,7 +1312,7 @@ udver: '2'
       <ul>
         <li>Prs
           <ul>
-            <li>PRON: जो, उसके, जिसमें, उसकी, उनकी, उसका, जिसे, जिसका, जिनमें, जहां</li>
+            <li>PRON: जो, उसके, जिसमें, उसकी, उनकी, उसका, जिसे, जिनमें, जिसका, जहां</li>
           </ul>
         </li>
       </ul>
@@ -1326,7 +1326,7 @@ udver: '2'
       <ul>
         <li>Rel
           <ul>
-            <li>PRON: जो</li>
+            <li>PRON: जो, जिन्हें, जिसका</li>
           </ul>
         </li>
       </ul>
@@ -1528,7 +1528,7 @@ udver: '2'
       <ul>
         <li>3
           <ul>
-            <li>AUX: है, हैं, था, गया, गयी, हुए, दिया, थे, गए, जाता</li>
+            <li>AUX: है, हैं, था, गया, गयी, हुए, दिया, थे, गए, थी</li>
             <li>AUX-Inf: पाना</li>
             <li>PRON: वह, उसने, उसके, उसे, उसकी, उसका, वे, उन्हें, उन्होंने, उनकी</li>
             <li>VERB: किया, है, कहा, की, था, करते, थी, हैं, हुआ, हुई</li>
@@ -1765,7 +1765,17 @@ udver: '2'
       </ul>
     </td>
     <td width="50%" valign="top">
-
+      <ul>
+        <li><a>Foreign</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>X: थ़ॉट, न्यू, या</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -1929,13 +1939,13 @@ udver: '2'
             <li>VERB--NOUN-ADP(_) (1)</li>
             <li>VERB--NOUN-Acc (7)</li>
             <li>VERB--NOUN-Acc-ADP(_) (106)</li>
-            <li>VERB--NOUN-Nom (183)</li>
+            <li>VERB--NOUN-Nom (184)</li>
             <li>VERB--NOUN-Nom-ADP(_) (11)</li>
             <li>VERB--PRON (50)</li>
             <li>VERB--PRON-ADP(_) (1)</li>
             <li>VERB--PRON-Acc (138)</li>
             <li>VERB--PRON-Acc-ADP(_) (4)</li>
-            <li>VERB--PRON-Nom (159)</li>
+            <li>VERB--PRON-Nom (160)</li>
             <li>VERB--PRON-Nom-ADP(_) (1)</li>
             <li>VERB-Inf--NOUN-Acc-ADP(_) (7)</li>
             <li>VERB-Inf--NOUN-Nom (7)</li>
@@ -2092,7 +2102,7 @@ udver: '2'
             <li>VERB--NOUN (20)</li>
             <li>VERB--NOUN-Acc (32)</li>
             <li>VERB--NOUN-Acc-ADP(_) (86)</li>
-            <li>VERB--NOUN-Nom (757)</li>
+            <li>VERB--NOUN-Nom (756)</li>
             <li>VERB--NOUN-Nom-ADP(_) (4)</li>
             <li>VERB--PRON (27)</li>
             <li>VERB--PRON-Acc (29)</li>
@@ -2236,8 +2246,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 10 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:conjv</a>, <a>compound:redup</a>, <a>det:predet</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
-      <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
+      <li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
       <li>The following 8 relation types are not used in this corpus at all: <a>csubj</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>

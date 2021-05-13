@@ -29,7 +29,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 1804 sentences, 19465 tokens and 21962 syntactic words.</li>
+      <li>This corpus contains 1907 sentences, 20878 tokens and 23582 syntactic words.</li>
       </ul>
     </td>
   </tr>
@@ -53,7 +53,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 70 types of words with spaces. Examples: 1 mē, 2 mē, 1 līm, lā pādâ, 1 mē 20, lā kanšūte, 2 līm, 8 mē, 3 līm, 3 mē, lā pādû, lā ādiru, 1 mē 50, 7 mē, 1 šūši, 2 mē 50, 5 mē, lā māgirī, lā mēni, 2 līm 8 mē, lā pādûte, 1 līm 2 mē, 1​ ​l​ī​m​ ​a​r​b​a​ʾ​u​ ​m​ē​ ​1​ ​š​ū​š​i, 1 mē 72, 10 līm, 2 mē 1 šūši, 3 mē 20, 5 līm, Zaba šapliti, arbaʾu mē, arbaʾu mē 1 šūši, arbaʾu mē 70, lā māgirūt, lā šanān, mār māri, ša rēši, šakin māt, 1 līm 5 mē, 1 līm šeš mē, 1 mē 74, 1 mē x, 2 līm 5 mē, 2 līm 7 mē 2, 2 mē 57, 3 mē 26, 3 mē 32, 3 mē 70, 50 līm, 7 mē 80, 9 mē</li>
+      <li>This corpus contains 76 types of words with spaces. Examples: 1 mē, 2 mē, 1 līm, 1 mē 20, lā kanšūte, lā pādâ, lā pādû, 2 līm, 3 mē, 8 mē, lā ādiru, 3 līm, 1 mē 50, 7 mē, 1 šūši, 2 mē 50, 5 mē, lā māgirī, lā mēni, lā pādûte, 2 līm 8 mē, 5 līm, lā šanān, šakin māt, 1 līm 2 mē, 1 līm 5 mē, 1 līm arbaʾu mē 1 šūši, 1 mē 72, 10 līm, 2 mē 1 šūši, 3 mē 20, Zaba šapliti, arbaʾu mē, arbaʾu mē 1 šūši, arbaʾu mē 70, lā māgirūt, ša rēši, 1 līm šeš mē, 1 mē 40, 1 mē 74, 1 mē x, 1 šūši 9 līm 5 mē 74, 16 līm, 2 līm 5 mē, 2 līm 7 mē 2, 2 mē 57, 3 mē 26, 3 mē 32, 3 mē 70, 3 mē 90</li>
       </ul>
     </td>
   </tr>
@@ -65,7 +65,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 189 types of words that contain both letters and punctuation. Examples: Aššur-naṣir-apli, Tukulti-Ninurta, Adad-nerari, Aššur-dan, Til-ša-Zabdani, Til-Bari, Zaba-šapliti, ma’atta, Bit-Adini, Tamti-rabite, Tukulti-apil-Ešarra, Til-ša-Abtani, mar-Zamani, Nur-Adad, Til-ša-Abatani, arba’i, Amme-baʾli, Araš-tua, Aššur-reša-iši, Bit-Halupe, Libbi-ali, Tamti-rabiti, UD.1.KAM₂, mar-Bahiani, Šalmanu-ašared, Azi-ili, Til-uli, Tukulti-Aššur-aṣbat, mar-Adini, Šarrat-niphi, Ahi-iababa, Aššur-rabi, Dur-Balaṭi, Dur-aduklimmu, Mušezib-Ninurta, Salmanu-ašared, Zaba-eliti, mar-Halupe, rā’im, {URU}x, še’ī, 5-te-šu₂, Adad-aha-iddina, Adad-itʾi, Ahi-ramu, Ahlame-Armaya, Amil-Adad, Amme-baʾla, Ammi-paʾli, Aššur-bel-kala</li>
+      <li>This corpus contains 201 types of words that contain both letters and punctuation. Examples: Aššur-naṣir-apli, Adad-nerari, Tukulti-Ninurta, Til-ša-Zabdani, Aššur-dan, Til-Bari, Zaba-šapliti, Bit-Adini, ma’atta, Tamti-rabite, Tukulti-apil-Ešarra, Til-ša-Abtani, mar-Zamani, Til-ša-Abatani, Nur-Adad, arba’i, Amme-baʾli, Aššur-reša-iši, Araš-tua, Bit-Halupe, Libbi-ali, Tamti-rabiti, UD.1.KAM₂, Zaba-eliti, mar-Bahiani, Šalmanu-ašared, Šarrat-niphi, Azi-ili, Salmanu-ašared, Til-uli, Tukulti-Aššur-aṣbat, mar-Adini, Ahi-iababa, Aššur-rabi, Dur-Balaṭi, Dur-aduklimmu, Imgur-Enlil, Mušezib-Ninurta, Patti-hegalli, mar-Halupe, ma’dūte, rā’im, {URU}x, še’ī, 5-te-šu₂, Abul-tabira, Adad-aha-iddina, Adad-itʾi, Ahi-ramu, Ahlame-Armaya</li>
       </ul>
     </td>
   </tr>
@@ -76,8 +76,8 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 2417 multi-word tokens. On average, one multi-word token consists of 2.03 syntactic words.</li>
-      <li>There are 565 types of multi-word tokens. Examples: Aššurma, šallassunu, mātiya, bēliya, elišunu, kakkīya, šarrūtiya, šēpīya, dēktašunu, sihirtiša, ūmešuma, bēlūtiya, qāssu, gimriša, pāniya, ālānišunu, ēkallišu, kalîšina, šumī, ittallakuma, alpīšunu, šēpīšu, ṣēnīšunu, gabadibbīšu, tidūkišunu, ēnahma, šumiya, dannūtišu, limētuššu, mātišu, bēlišu, šumšu, abbīya, anhūssu, uššēšu, āliya, šāninšu, ayyābīšu, būšašunu, būšīšunu, dannūtišunu, libbiya, lā, qātiya, apēlušinani, bēltiya, issiya, nakrīšu, ummānātišunu, arkišunu.</li>
+      <li>This corpus contains 2619 multi-word tokens. On average, one multi-word token consists of 2.03 syntactic words.</li>
+      <li>There are 618 types of multi-word tokens. Examples: Aššurma, šallassunu, mātiya, bēliya, elišunu, šarrūtiya, kakkīya, šēpīya, bēlūtiya, sihirtiša, dēktašunu, ūmešuma, gimriša, kalîšina, pāniya, qāssu, ittallakuma, ālānišunu, ēkallišu, šumī, alpīšunu, šēpīšu, ṣēnīšunu, gabadibbīšu, ēnahma, dannūtišu, tidūkišunu, šumiya, šumšu, bēlišu, limētuššu, qātiya, abbīya, mātišu, anhūssu, apēlušinani, ayyābīšu, libbiya, uššēšu, āliya, šāninšu, dannūtišunu, nakrīšu, būšašunu, būšīšunu, lā, ummānātišunu, bēltiya, issiya, kalîšunu.</li>
       </ul>
     </td>
   </tr>
@@ -191,9 +191,9 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-        <li>Finite
+        <li>Fin
         <ul>
-          <li>VERB: attumuš, akšud, adūk, assakan, aqqur, appul, amhur, aqṭirib, aṣbat, aškun</li>
+          <li>VERB: attumuš, akšud, adūk, assakan, aqqur, amhur, appul, aqṭirib, aṣbat, arṣip</li>
         </ul>
         </li>
       </ul>
@@ -219,11 +219,11 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-        <li>Stative
+        <li>Stat
         <ul>
           <li>ADJ: ašarēdāku, kabtāku, šurruhāku, ṣīrāku, nâdāku, gešrāku, šitmurāku, ašṭāku, dandannāku, dannāku</li>
           <li>NOUN: labbāku, qarrādāku, zikarāku, bēlāku, uršānāku, šarrāku</li>
-          <li>VERB: bēde, bēdāk, šaknū, ṣali, usbakūni, šaknu, labi, dān, bašû, ṣabtat</li>
+          <li>VERB: bēde, bēdāk, šaknū, ṣali, usbakūni, šaknu, bašû, labi, dān, ṣabtat</li>
         </ul>
         </li>
       </ul>
@@ -255,10 +255,10 @@ udver: '2'
       <ul>
         <li>Com
           <ul>
-            <li>ADJ-Stative: ašarēdāku, kabtāku, šurruhāku, ṣīrāku, nâdāku, gešrāku, šitmurāku, ašṭāku, dandannāku, dannāku</li>
-            <li>NOUN-Stative: labbāku, qarrādāku, zikarāku, bēlāku, uršānāku, šarrāku</li>
-            <li>VERB-Finite: attumuš, akšud, adūk, assakan, aqqur, appul, amhur, aqṭirib, aṣbat, aškun</li>
-            <li>VERB-Stative: bēdāk, usbakūni, usbāku, našâku, tarruṣū</li>
+            <li>ADJ-Stat: ašarēdāku, kabtāku, šurruhāku, ṣīrāku, nâdāku, gešrāku, šitmurāku, ašṭāku, dandannāku, dannāku</li>
+            <li>NOUN-Stat: labbāku, qarrādāku, zikarāku, bēlāku, uršānāku, šarrāku</li>
+            <li>VERB-Fin: attumuš, akšud, adūk, assakan, aqqur, amhur, appul, aqṭirib, aṣbat, arṣip</li>
+            <li>VERB-Stat: bēdāk, usbakūni, usbāku, našâku, tarruṣū</li>
           </ul>
         </li>
       </ul>
@@ -272,14 +272,14 @@ udver: '2'
       <ul>
         <li>Fem
           <ul>
-            <li>ADJ: rapšāte, balṭāti, kabitta, ma’atta, maʾatta, maʾattu, mādāte, rabītu, uhhuzāte, rakissu</li>
+            <li>ADJ: rapšāte, balṭāti, kabitta, ma’atta, maʾatta, maʾattu, mādāte, rabītu, uhhuzāte, ṣīrāti</li>
             <li>DET: ammâte, šī, annâte, annīte, šuātu, šuāti, šuʾātu</li>
-            <li>NOUN: māt, kiššati, maddattu, ummānāti, šallas, māti, ēkal, išātāti, šēpī, mātāti</li>
+            <li>NOUN: māt, kiššati, maddattu, ummānāti, māti, šallas, ēkal, mātāti, išātāti, nišī</li>
             <li>NUM: erbetta, erbetti</li>
-            <li>PRON: ša, šina, ši, sa, ki, si, sina, š</li>
-            <li>PROPN: Idiqlat, Ištar, Subnat, Puratte, Zaban, Zaba-šapliti, Tamti-rabite, Gula, Tamti-rabiti, Šarrat-niphi</li>
-            <li>VERB-Finite: ūṣâ, ušabbā, tamgur, idūlāni, ihillā, iṣuddā, luṣṣī, tahdu, tamahhar, tappardâ</li>
-            <li>VERB-Stative: ṣabtat, šuklulat, šuqallulat</li>
+            <li>PRON: ša, šina, ši, sa, ki, sina, si, š</li>
+            <li>PROPN: Idiqlat, Ištar, Subnat, Zaban, Puratte, Zaba-šapliti, Tamti-rabite, Gula, Tamti-rabiti, Zaba-eliti</li>
+            <li>VERB-Fin: ūṣâ, ušabbā, tamgur, idūlāni, ihillā, iṣuddā, luṣṣī, tahdu, tamahhar, tappardâ</li>
+            <li>VERB-Stat: ṣabtat, šuklulat, šuqallulat</li>
           </ul>
         </li>
       </ul>
@@ -293,16 +293,16 @@ udver: '2'
       <ul>
         <li>Masc
           <ul>
-            <li>ADJ: dannu, rabû, rabûti, danni, rabê, dannūte, dannūti, qardu, arkû, šaṭra</li>
+            <li>ADJ: dannu, rabû, rabûti, rabê, danni, dannūte, dannūti, qardu, arkû, šaṭra</li>
             <li>DET: šū, šuātu, annî, annê, šuātunu, annâ, šuāte, šuʾātu, šâtu, šâtunu</li>
-            <li>NOUN: šar, mār, šarru, ālāni, libbi, šadê, ilāni, alpī, bēli, kakkī</li>
+            <li>NOUN: šar, mār, šarru, ālāni, libbi, ilāni, šadê, bēli, alpī, kakkī</li>
             <li>NUM: ištēn, arba’i, šinip</li>
-            <li>PRON: šu, šunu, sunu, su, ka, sunūti, šunūti, attunu, šunū, šuāšu</li>
-            <li>PROPN: Aššur, Aššur-naṣir-apli, Tukulti-Ninurta, Adad-nerari, Enlil, Adad, Ninurta, Šamaš, Aššur-dan, Sin</li>
-            <li>VERB: īšû, ittallaku, ikšud, iṣbutū, ēnah, ipēlu, šūzub, šaknū, ṣali, ikšudu</li>
-            <li>VERB-Finite: īšû, ittallaku, ikšud, iṣbutū, ēnah, ipēlu, ikšudu, ipparšidūni, luddiš, ušekniša</li>
+            <li>PRON: šu, šunu, sunu, su, ka, sunūti, šunūti, šuāšu, attunu, šunū</li>
+            <li>PROPN: Aššur, Aššur-naṣir-apli, Adad-nerari, Tukulti-Ninurta, Enlil, Adad, Ninurta, Šamaš, Aššur-dan, Sin</li>
+            <li>VERB: ittallaku, īšû, ikšud, iṣbutū, ēnah, ipēlu, šūzub, šaknū, luddiš, ṣali</li>
+            <li>VERB-Fin: ittallaku, īšû, ikšud, iṣbutū, ēnah, ipēlu, luddiš, ikšudu, ipparšidūni, lutēr</li>
             <li>VERB-Inf: šūzub, epēš, arāk, šumʾud, uppušu, pêli, šuknuše, hulluq, napāhi, šapāri</li>
-            <li>VERB-Stative: šaknū, ṣali, šaknu, labi, dān, bašû, hadāt, marṣi, nādi, šaknūni</li>
+            <li>VERB-Stat: šaknū, ṣali, šaknu, bašû, labi, dān, hadāt, marṣi, nādi, šaknūni</li>
           </ul>
         </li>
       </ul>
@@ -334,13 +334,13 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>ADJ: rabûti, dannūte, rapšāte, dannūti, balṭāti, balṭūti, mādāte, uhhuzāte, ṣīrāti, naṭûte</li>
+            <li>ADJ: rabûti, dannūte, dannūti, rapšāte, balṭāti, balṭūti, mādāte, uhhuzāte, ṣīrāti, naṭûte</li>
             <li>DET: ammâte, annâte, šuātunu, šuātu, šâtunu</li>
-            <li>NOUN: ālāni, ummānāti, ilāni, alpī, kakkī, išātāti, immerī, šēpī, mātāti, narkabāti</li>
-            <li>PRON: šunu, sunu, šina, sunūti, sina, šunūti, attunu, šunū</li>
-            <li>PROPN: Anunnaki, Igigi</li>
-            <li>VERB-Finite: iṣbutū, ipparšidūni, iṣṣabtū, ūrdūni, igdurrū, uttērū, iplahū, irammū, lukinnū, idūkū</li>
-            <li>VERB-Stative: šaknū, ṣaprūni, tadnūni, šaknūni, šitkunū, ṭubbī</li>
+            <li>NOUN: ālāni, ilāni, ummānāti, alpī, kakkī, mātāti, išātāti, nišī, šēpī, immerī</li>
+            <li>PRON: šunu, sunu, šina, sunūti, šunūti, sina, attunu, šunū</li>
+            <li>PROPN: Anunnaki, Igigi, Igigu</li>
+            <li>VERB-Fin: iṣbutū, ipparšidūni, iṣṣabtū, ūrdūni, igdurrū, iplahū, irammū, lukinnū, uttērū, iqbû</li>
+            <li>VERB-Stat: šaknū, ṣaprūni, bašû, labšū, tadnūni, šaknūni, šitkunū, ṭubbī</li>
           </ul>
         </li>
       </ul>
@@ -354,18 +354,18 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
-            <li>ADJ: dannu, rabû, danni, rabê, qardu, arkû, šaṭra, kabitta, ma’atta, marṣu</li>
-            <li>ADJ-Stative: ašarēdāku, kabtāku, šurruhāku, ṣīrāku, nâdāku, gešrāku, šitmurāku, ašṭāku, dandannāku, dannāku</li>
+            <li>ADJ: dannu, rabû, rabê, danni, qardu, arkû, šaṭra, kabitta, ma’atta, labēru</li>
+            <li>ADJ-Stat: ašarēdāku, kabtāku, šurruhāku, ṣīrāku, nâdāku, gešrāku, šitmurāku, ašṭāku, dandannāku, dannāku</li>
             <li>DET: šū, šuātu, šī, annīte, annî, annê, šuʾātu, annâ, šuāte, šuāti</li>
-            <li>NOUN: šar, māt, mār, kiššati, šarru, libbi, maddattu, šallas, māti, bēli</li>
-            <li>NOUN-Stative: labbāku, qarrādāku, zikarāku, bēlāku, uršānāku, šarrāku</li>
+            <li>NOUN: šar, māt, mār, kiššati, šarru, libbi, maddattu, māti, bēli, šallas</li>
+            <li>NOUN-Stat: labbāku, qarrādāku, zikarāku, bēlāku, uršānāku, šarrāku</li>
             <li>NUM: arba’i, erbetti, šinip</li>
-            <li>PRON: šu, ya, ša, su, ī, ni, ši, anāku, sa, anni</li>
+            <li>PRON: šu, ya, ša, su, ī, ni, ši, anāku, anni, sa</li>
             <li>PROPN: zumri</li>
-            <li>VERB: attumuš, akšud, adūk, assakan, aqqur, appul, amhur, aqṭirib, aṣbat, aškun</li>
-            <li>VERB-Finite: attumuš, akšud, adūk, assakan, aqqur, appul, amhur, aqṭirib, aṣbat, aškun</li>
+            <li>VERB: attumuš, akšud, adūk, assakan, aqqur, amhur, appul, aqṭirib, aṣbat, arṣip</li>
+            <li>VERB-Fin: attumuš, akšud, adūk, assakan, aqqur, amhur, appul, aqṭirib, aṣbat, arṣip</li>
             <li>VERB-Inf: šūzub, epēš, arāk, šumʾud, uppušu, pêli, šuknuše, hulluq, napāhi, šapāri</li>
-            <li>VERB-Stative: bēde, bēdāk, ṣali, usbakūni, šaknu, labi, dān, bašû, ṣabtat, hadāt</li>
+            <li>VERB-Stat: bēde, bēdāk, ṣali, usbakūni, šaknu, labi, bašû, dān, ṣabtat, hadāt</li>
           </ul>
         </li>
       </ul>
@@ -391,7 +391,7 @@ udver: '2'
           <ul>
             <li>ADJ: šaṭra, kabitta, lā pādâ, maʾatta, mahrâ, kabta, šurbâ, arattâ, duššupa, marulta</li>
             <li>DET: annâ</li>
-            <li>NOUN: āla, būša, dīkta, maddatta, dūra, māhira, ēkalla, pâ, dabdâ, kussâ</li>
+            <li>NOUN: āla, būša, dīkta, maddatta, māhira, dūra, pâ, ēkalla, dabdâ, kussâ</li>
             <li>PRON: mīna, šunū</li>
             <li>PROPN: Azira, Baza, Diduala, Ialligu, Matiate, Mehri, Sarbalia, Suru, Arantu</li>
           </ul>
@@ -407,11 +407,11 @@ udver: '2'
       <ul>
         <li>Gen
           <ul>
-            <li>ADJ: danni, rabê, šitmuri, mahrê, peṣê, marṣi, maʾdi, elli, rabīte, rabīti</li>
+            <li>ADJ: rabê, danni, šitmuri, mahrê, peṣê, marṣi, elli, maʾdi, rabīti, huššê</li>
             <li>DET: annīte, annî, annê, šâtunu</li>
             <li>NOUN: kiššati, libbi, māti, bēli, siparri, šarrūti, muhhi, qereb, sihirti, ūme</li>
             <li>NUM: arba’i, erbetti</li>
-            <li>PROPN: Nairi, Suhi, Habhi, Laqe, Habruri, Gilzani, Babite, Hatte, Kašiyari, Puratte</li>
+            <li>PROPN: Nairi, Suhi, Laqe, Habhi, Habruri, Gilzani, Kalhi, Babite, Hatte, Puratte</li>
             <li>VERB-Inf: pêli, šuknuše, napāhi, šapāri, namāri, ba’āri, du’āki, epāše, esīr, lāmāri</li>
           </ul>
         </li>
@@ -426,7 +426,8 @@ udver: '2'
       <ul>
         <li>Loc
           <ul>
-            <li>NOUN: limētuš, biriquš</li>
+            <li>ADP: baluš</li>
+            <li>NOUN: limētuš, biriquš, qātuš</li>
           </ul>
         </li>
       </ul>
@@ -440,10 +441,10 @@ udver: '2'
       <ul>
         <li>Nom
           <ul>
-            <li>ADJ: dannu, rabû, qardu, arkû, marṣu, labēru, maʾattu, gapšu, rabītu, naʾdu</li>
+            <li>ADJ: dannu, rabû, qardu, arkû, labēru, marṣu, naʾdu, gapšu, maʾattu, rabītu</li>
             <li>DET: šuātu, šâtu</li>
             <li>NOUN: šarru, maddattu, rubû, šadû, biltu, bēlu, ālu, eṭlu, kaspu, pīthallu</li>
-            <li>PROPN: Kalhu, Nirbu, Šamšu, Purattu, Hindanu, Lullu, Arumu, Abu, Habhu, Harudu</li>
+            <li>PROPN: Kalhu, Šamšu, Nirbu, Purattu, Hindanu, Lullu, Arumu, Abu, Arahsamnu, Habhu</li>
             <li>VERB-Inf: rapāš</li>
           </ul>
         </li>
@@ -532,7 +533,7 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>VERB-Finite: uddiš, tēr, balliṭ, dūku, epuš, hulliq, taʾer, uddiši, šutur</li>
+            <li>VERB-Fin: uddiš, tēr, balliṭ, dūku, epuš, hulliq, taʾer, uddiši, šutur</li>
           </ul>
         </li>
       </ul>
@@ -546,8 +547,8 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>VERB: attumuš, akšud, adūk, assakan, aqqur, appul, amhur, aqṭirib, aṣbat, aškun</li>
-            <li>VERB-Finite: attumuš, akšud, adūk, assakan, aqqur, appul, amhur, aqṭirib, aṣbat, aškun</li>
+            <li>VERB: attumuš, akšud, adūk, assakan, aqqur, amhur, appul, aqṭirib, aṣbat, arṣip</li>
+            <li>VERB-Fin: attumuš, akšud, adūk, assakan, aqqur, amhur, appul, aqṭirib, aṣbat, arṣip</li>
           </ul>
         </li>
       </ul>
@@ -559,9 +560,9 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-        <li>Precative
+        <li>Prec
           <ul>
-            <li>VERB-Finite: luddiš, lutēr, lukinnū, liskipū, luhalliqū, lušēšibū, līkimū, libriq, likkalmū, littasqar</li>
+            <li>VERB-Fin: luddiš, lutēr, lukinnū, luhalliqū, liskipū, lipšuš, liqqi, lušēšibū, līkimū, libriq</li>
           </ul>
         </li>
       </ul>
@@ -573,9 +574,9 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-        <li>Prohibitive
+        <li>Proh
           <ul>
-            <li>VERB-Finite: ušabbā, tapaššiṭ, ekkim, essir, eṣṣidi, ihassasa, ikassir, imahhar, inaddi, inašši</li>
+            <li>VERB-Fin: ušabbā, tapaššiṭ, ušamsak, ekkim, erraba, essir, eṣṣidi, ihassasa, ikassir, imahhar</li>
           </ul>
         </li>
       </ul>
@@ -599,8 +600,8 @@ udver: '2'
       <ul>
         <li>Past
           <ul>
-            <li>VERB: attumuš, akšud, adūk, assakan, aqqur, appul, amhur, aqṭirib, aṣbat, aškun</li>
-            <li>VERB-Finite: attumuš, akšud, adūk, assakan, aqqur, appul, amhur, aqṭirib, aṣbat, aškun</li>
+            <li>VERB: attumuš, akšud, adūk, assakan, aqqur, amhur, appul, aqṭirib, aṣbat, arṣip</li>
+            <li>VERB-Fin: attumuš, akšud, adūk, assakan, aqqur, amhur, appul, aqṭirib, aṣbat, arṣip</li>
           </ul>
         </li>
       </ul>
@@ -614,7 +615,7 @@ udver: '2'
       <ul>
         <li>Pres
           <ul>
-            <li>VERB-Finite: išemme, inabbû, ipaššiṭu, irammū, iqabbû, išakkanu, ukallūni, eppašu, išubbū, ušabbā</li>
+            <li>VERB-Fin: ipaššiṭu, irammū, išemme, inabbû, iqabbû, išakkanu, išemmû, ukallūni, eppašu, išubbū</li>
           </ul>
         </li>
       </ul>
@@ -694,12 +695,12 @@ udver: '2'
       <ul>
         <li>1
           <ul>
-            <li>ADJ-Stative: ašarēdāku, kabtāku, šurruhāku, ṣīrāku, nâdāku, gešrāku, šitmurāku, ašṭāku, dandannāku, dannāku</li>
-            <li>NOUN-Stative: labbāku, qarrādāku, zikarāku, bēlāku, uršānāku, šarrāku</li>
+            <li>ADJ-Stat: ašarēdāku, kabtāku, šurruhāku, ṣīrāku, nâdāku, gešrāku, šitmurāku, ašṭāku, dandannāku, dannāku</li>
+            <li>NOUN-Stat: labbāku, qarrādāku, zikarāku, bēlāku, uršānāku, šarrāku</li>
             <li>PRON: ya, ī, ni, anāku, anni, wa, a, nim, ā, ayyâši</li>
-            <li>VERB: attumuš, akšud, adūk, assakan, aqqur, appul, amhur, aqṭirib, aṣbat, aškun</li>
-            <li>VERB-Finite: attumuš, akšud, adūk, assakan, aqqur, appul, amhur, aqṭirib, aṣbat, aškun</li>
-            <li>VERB-Stative: bēdāk, usbakūni, usbāku, našâku, tarruṣū</li>
+            <li>VERB: attumuš, akšud, adūk, assakan, aqqur, amhur, appul, aqṭirib, aṣbat, arṣip</li>
+            <li>VERB-Fin: attumuš, akšud, adūk, assakan, aqqur, amhur, appul, aqṭirib, aṣbat, arṣip</li>
+            <li>VERB-Stat: bēdāk, usbakūni, usbāku, našâku, tarruṣū</li>
           </ul>
         </li>
       </ul>
@@ -714,8 +715,8 @@ udver: '2'
         <li>2
           <ul>
             <li>PRON: ka, ki, attunu</li>
-            <li>VERB-Finite: uddiš, tapaššiṭ, tušaršidu, tēr, balliṭ, dūku, epuš, hulliq, tabarri, tapaššiṭi</li>
-            <li>VERB-Stative: hadāt</li>
+            <li>VERB-Fin: tušaršidu, uddiš, tapaššiṭ, tēr, balliṭ, dūku, epuš, hulliq, tabarri, tapaššiṭi</li>
+            <li>VERB-Stat: hadāt</li>
           </ul>
         </li>
       </ul>
@@ -731,10 +732,10 @@ udver: '2'
           <ul>
             <li>DET: šū, šuātu, šī, šuʾātu, šuāte, šuāti</li>
             <li>NOUN: abullu, liātu, mušerbû</li>
-            <li>PRON: šu, šunu, ša, sunu, su, šina, ši, sa, sunūti, si</li>
-            <li>VERB: bēde, īšû, ittallaku, ikšud, ittumuš, iṣbutū, ēnah, ipēlu, ittumša, šaknū</li>
-            <li>VERB-Finite: īšû, ittallaku, ikšud, ittumuš, iṣbutū, ēnah, ipēlu, ittumša, ikšudu, ipparšidūni</li>
-            <li>VERB-Stative: bēde, šaknū, ṣali, šaknu, labi, dān, bašû, ṣabtat, marṣi, nādi</li>
+            <li>PRON: šu, šunu, ša, sunu, su, šina, ši, sa, sunūti, šunūti</li>
+            <li>VERB: bēde, ittallaku, īšû, ikšud, ittumuš, iṣbutū, ēnah, ipēlu, šaknū, ittumša</li>
+            <li>VERB-Fin: ittallaku, īšû, ikšud, ittumuš, iṣbutū, ēnah, ipēlu, ittumša, luddiš, ikšudu</li>
+            <li>VERB-Stat: bēde, šaknū, ṣali, šaknu, bašû, labi, dān, ṣabtat, marṣi, nādi</li>
           </ul>
         </li>
       </ul>
@@ -778,12 +779,12 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-        <li><a>Nounbase</a>
+        <li><a>NounBase</a>
           <ul>
             <li>Bound
               <ul>
                 <li>ADJ: mithar</li>
-                <li>NOUN: šar, māt, mār, ēkal, iššak, pān, bīt, āl, šakin, ebertān</li>
+                <li>NOUN: šar, māt, mār, ēkal, bīt, iššak, pān, āl, šakin, ebertān</li>
                 <li>NUM: šinip</li>
                 <li>VERB-Inf: šūzub, epēš, arāk, šumʾud, hulluq, nanmar, nasāh, zakār, šušmur, ṣabāt</li>
               </ul>
@@ -792,14 +793,14 @@ udver: '2'
               <ul>
                 <li>ADJ: Aššuru, ella</li>
                 <li>DET: annê, šuātunu, annâ, šuātu, šâtu</li>
-                <li>NOUN: kiššati, šarru, maddattu, libbi, siparri, išātāti, ummānāti, mātāti, rubû, narkabāti</li>
+                <li>NOUN: kiššati, šarru, maddattu, libbi, siparri, išātāti, mātāti, ummānāti, rubû, narkabāti</li>
                 <li>NUM: arba’i</li>
                 <li>VERB-Inf: pêli, šuknuše, napāhi, šapāri, namāri, aṣbate, ba’āri, du’āki, epāše, lāmāri</li>
               </ul>
             </li>
             <li>Suffixal
               <ul>
-                <li>NOUN: šallas, māti, bēli, šēpī, šum, šarrūti, sihirti, kakkī, ummānāti, ūme</li>
+                <li>NOUN: šallas, māti, bēli, šēpī, šum, šarrūti, sihirti, ummānāti, kakkī, bēlūti</li>
                 <li>PROPN: zumri</li>
                 <li>VERB-Inf: šitapru</li>
               </ul>
@@ -825,8 +826,8 @@ udver: '2'
             <li>Yes
               <ul>
                 <li>PART: ni</li>
-                <li>VERB-Finite: īšû, ittallaku, ipēlu, apēlu, ipparšidūni, ikšudu, imhuru, inabbû, ipaššiṭu, irammū</li>
-                <li>VERB-Stative: šaknū, usbakūni, šaknu, bašû, šaknūni, ṣaprūni, rūqu, tadnūni, šazzūni, šitkunū</li>
+                <li>VERB-Fin: ittallaku, īšû, ipēlu, apēlu, ipparšidūni, ikšudu, imhuru, ipaššiṭu, irammū, inabbû</li>
+                <li>VERB-Stat: šaknū, usbakūni, šaknu, bašû, šaknūni, ṣaprūni, labšū, paqdu, rūqu, tadnūni</li>
               </ul>
             </li>
           </ul>
@@ -844,8 +845,8 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
-                <li>VERB-Finite: ašlula, uṣabbita, ubla, ušekniša, ittumša, utēra, ētarba, alqâ, attumša, ūrdūni</li>
-                <li>VERB-Stative: šuqallula</li>
+                <li>VERB-Fin: ašlula, uṣabbita, ubla, ušekniša, utēra, ittumša, ētarba, alqâ, attumša, ūrdūni</li>
+                <li>VERB-Stat: šuqallula</li>
               </ul>
             </li>
           </ul>
@@ -859,68 +860,68 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-        <li><a>Verbstem</a>
+        <li><a>VerbStem</a>
           <ul>
             <li>D
               <ul>
-                <li>VERB: utēr, uṣabbita, ušarrih, ussim, ukīn, utēra, luddiš, umessi, unakkir, lutēr</li>
-                <li>VERB-Finite: utēr, uṣabbita, ušarrih, ussim, ukīn, utēra, luddiš, umessi, unakkir, lutēr</li>
-                <li>VERB-Inf: uppušu, hulluq, turru, bulluṭ, turri, šunnê</li>
-                <li>VERB-Stative: tarruṣū, ṭubbī</li>
+                <li>VERB: utēr, uṣabbita, ušarrih, ukīn, ussim, utēra, luddiš, unakkir, lutēr, umessi</li>
+                <li>VERB-Fin: utēr, uṣabbita, ušarrih, ukīn, ussim, utēra, luddiš, unakkir, lutēr, umessi</li>
+                <li>VERB-Inf: uppušu, hulluq, turru, bulluṭ, turri, uppuš, šunnê</li>
+                <li>VERB-Stat: tarruṣū, ṭubbī</li>
               </ul>
             </li>
             <li>Dt
               <ul>
-                <li>VERB-Finite: uštarrih</li>
-                <li>VERB-Stative: šutarruhu</li>
+                <li>VERB-Fin: tugdaššara, uttakkaru, uštarrih</li>
+                <li>VERB-Stat: šutarruhu</li>
               </ul>
             </li>
             <li>G
               <ul>
-                <li>VERB-Finite: attumuš, akšud, adūk, assakan, aqqur, appul, amhur, aqṭirib, aṣbat, aškun</li>
-                <li>VERB-Inf: epēš, arāk, pêli, napāhi, šapāri, namāri, nasāh, zakār, ṣabāt, alāku</li>
-                <li>VERB-Stative: bēde, bēdāk, šaknū, ṣali, usbakūni, šaknu, labi, dān, bašû, ṣabtat</li>
+                <li>VERB-Fin: attumuš, akšud, adūk, assakan, aqqur, amhur, appul, aqṭirib, aṣbat, arṣip</li>
+                <li>VERB-Inf: epēš, arāk, pêli, napāhi, šapāri, enû, namāri, nasāh, zakār, ṣabāt</li>
+                <li>VERB-Stat: bēde, bēdāk, šaknū, ṣali, usbakūni, šaknu, bašû, labi, dān, ṣabtat</li>
               </ul>
             </li>
             <li>Gt
               <ul>
-                <li>VERB-Finite: amdahhiṣ, amdahhiṣi, itabbalu, nimdahhiṣi</li>
+                <li>VERB-Fin: amdahhiṣ, amdahhiṣi, itabbalu, nimdahhiṣi, ītallu</li>
                 <li>VERB-Inf: šitapru</li>
-                <li>VERB-Stative: šitkunū</li>
+                <li>VERB-Stat: šitkunū</li>
               </ul>
             </li>
             <li>Gtn
               <ul>
-                <li>VERB-Finite: ittallaku, altakkan, attallak, iltakkanu, littasqar, ētappašu, aštamdih, ilteʾʾû, ittanaqqi, ištamdahu</li>
+                <li>VERB-Fin: ittallaku, altakkan, attallak, littasqar, ētappašu, attallaku, aštamdih, aštaqqi, iltakkanu, ilteʾʾû</li>
               </ul>
             </li>
             <li>N
               <ul>
-                <li>VERB-Finite: ipparšidūni, attabalkat, ittaklū, ittabalkat, ibbalkitū, ipparšidū, ittabalkutū, ittikil, i’’abit, likkalmū</li>
+                <li>VERB-Fin: ipparšidūni, attabalkat, ittaklū, ittabalkat, ibbalkitū, ittikil, ipparšidū, ittabalkutū, i’’abit, likkalmū</li>
                 <li>VERB-Inf: nanmar</li>
               </ul>
             </li>
             <li>Ntn
               <ul>
-                <li>VERB-Finite: ittatabalkitu</li>
+                <li>VERB-Fin: ittatabalkitu</li>
               </ul>
             </li>
             <li>S
               <ul>
-                <li>VERB: ušamqit, ušeklil, šūzub, ušekniša, ušēšib, ušezziz, ušātir, ušaṣbit, ušaṣbis, ušēṣâ</li>
-                <li>VERB-Finite: ušamqit, ušeklil, ušekniša, ušēšib, ušezziz, ušātir, ušaṣbit, ušaṣbis, ušēṣâ, ušatlimū</li>
+                <li>VERB: ušamqit, ušeklil, ušekniša, šūzub, ušezziz, ušēšib, ušaṣbit, ušātir, ušaṣbis, ušatlimū</li>
+                <li>VERB-Fin: ušamqit, ušeklil, ušekniša, ušezziz, ušēšib, ušaṣbit, ušātir, ušaṣbis, ušatlimū, ušaškin</li>
                 <li>VERB-Inf: šūzub, šumʾud, šuknuše, šušmur, šuknuši, šūzubu</li>
-                <li>VERB-Stative: šuklulat, šuqallulat, šazzūni, šuparruru, šuqallula</li>
+                <li>VERB-Stat: šuklulat, šuqallulat, šazzūni, šuparruru, šuqallula</li>
               </ul>
             </li>
             <li>St
               <ul>
-                <li>VERB-Finite: uštennû, uštennâ</li>
+                <li>VERB-Fin: uštennû, uštennâ</li>
               </ul>
             </li>
             <li>Stn
               <ul>
-                <li>VERB-Finite: ultanapšaqā, uštanapšaqū</li>
+                <li>VERB-Fin: ultanapšaqā, ussakkil, uštanapšaqū</li>
               </ul>
             </li>
           </ul>
@@ -982,15 +983,17 @@ udver: '2'
         <li><a>nsubj</a>
           <ul>
             <li>VERB--NOUN (2)</li>
+            <li>VERB--NOUN-Nom (1)</li>
             <li>VERB--PRON (1)</li>
-            <li>VERB-Finite--NOUN (115)</li>
-            <li>VERB-Finite--NOUN-Acc (3)</li>
-            <li>VERB-Finite--NOUN-Nom (35)</li>
-            <li>VERB-Finite--PRON (122)</li>
-            <li>VERB-Stative--NOUN (3)</li>
-            <li>VERB-Stative--NOUN-Acc (1)</li>
-            <li>VERB-Stative--NOUN-Nom (16)</li>
-            <li>VERB-Stative--PRON (40)</li>
+            <li>VERB-Fin--NOUN (121)</li>
+            <li>VERB-Fin--NOUN-Acc (3)</li>
+            <li>VERB-Fin--NOUN-Nom (41)</li>
+            <li>VERB-Fin--PRON (128)</li>
+            <li>VERB-Inf--PRON (2)</li>
+            <li>VERB-Stat--NOUN (3)</li>
+            <li>VERB-Stat--NOUN-Acc (1)</li>
+            <li>VERB-Stat--NOUN-Nom (17)</li>
+            <li>VERB-Stat--PRON (45)</li>
           </ul>
         </li>
       </ul>
@@ -1011,24 +1014,25 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (4)</li>
-            <li>VERB--NOUN-Acc (1)</li>
-            <li>VERB-Finite--NOUN (992)</li>
-            <li>VERB-Finite--NOUN-ADP(ana) (1)</li>
-            <li>VERB-Finite--NOUN-ADP(ina) (2)</li>
-            <li>VERB-Finite--NOUN-ADP(ištu) (1)</li>
-            <li>VERB-Finite--NOUN-Acc (114)</li>
-            <li>VERB-Finite--NOUN-Gen (8)</li>
-            <li>VERB-Finite--NOUN-Gen-ADP(ammar) (2)</li>
-            <li>VERB-Finite--NOUN-Nom (167)</li>
-            <li>VERB-Finite--PRON (190)</li>
-            <li>VERB-Finite--PRON-Acc (2)</li>
-            <li>VERB-Inf--NOUN (14)</li>
+            <li>VERB--NOUN (5)</li>
+            <li>VERB-Fin--NOUN (1068)</li>
+            <li>VERB-Fin--NOUN-ADP(ana) (1)</li>
+            <li>VERB-Fin--NOUN-ADP(ina) (2)</li>
+            <li>VERB-Fin--NOUN-ADP(ištu) (1)</li>
+            <li>VERB-Fin--NOUN-ADP(ša) (1)</li>
+            <li>VERB-Fin--NOUN-Acc (126)</li>
+            <li>VERB-Fin--NOUN-Gen (7)</li>
+            <li>VERB-Fin--NOUN-Gen-ADP(ammar) (2)</li>
+            <li>VERB-Fin--NOUN-Nom (180)</li>
+            <li>VERB-Fin--PRON (223)</li>
+            <li>VERB-Fin--PRON-ADP(ana) (2)</li>
+            <li>VERB-Fin--PRON-Acc (2)</li>
+            <li>VERB-Inf--NOUN (16)</li>
             <li>VERB-Inf--NOUN-Gen (1)</li>
             <li>VERB-Inf--NOUN-Nom (1)</li>
             <li>VERB-Inf--PRON (2)</li>
-            <li>VERB-Stative--NOUN (4)</li>
-            <li>VERB-Stative--PRON (5)</li>
+            <li>VERB-Stat--NOUN (5)</li>
+            <li>VERB-Stat--PRON (6)</li>
           </ul>
         </li>
       </ul>
@@ -1049,7 +1053,7 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB-Finite--PRON (1)</li>
+            <li>VERB-Fin--PRON (3)</li>
           </ul>
         </li>
       </ul>

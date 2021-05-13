@@ -1204,21 +1204,21 @@ udver: '2'
       <ul>
         <li><a>Subcat</a>
           <ul>
-            <li>Ditran
+            <li>Ditr
               <ul>
                 <li>VERB-Fin: _</li>
               </ul>
             </li>
-            <li>Int
+            <li>Indir
+              <ul>
+                <li>VERB-Fin: _, oma'ẽ, ema'ẽ, oma'ẽmba</li>
+              </ul>
+            </li>
+            <li>Intr
               <ul>
                 <li>VERB-Fin: _, tereo, aa, ereo, huũ, ikuai, oi, ojae'o, ojapyxaka, onhemondyi</li>
                 <li>VERB-Inf: _, nda'eveive, porayvu, porã-porãve</li>
                 <li>VERB-Vnoun: _, xera'y</li>
-              </ul>
-            </li>
-            <li>IntInd
-              <ul>
-                <li>VERB-Fin: _, oma'ẽ, ema'ẽ, oma'ẽmba</li>
               </ul>
             </li>
             <li>Tran
@@ -1235,22 +1235,22 @@ udver: '2'
       <ul>
         <li><a>Subcat</a>
           <ul>
-            <li>Ditran
+            <li>Ditr
               <ul>
                 <li>VERB-Fin: ome'ẽ, tojapouka</li>
               </ul>
             </li>
-            <li>Int
+            <li>Indir
+              <ul>
+                <li>VERB-Fin: roñea'ã, jaje'apa, oña'ã, penderecharãi</li>
+                <li>VERB-Inf: ñeñandu</li>
+              </ul>
+            </li>
+            <li>Intr
               <ul>
                 <li>VERB-Fin: oiko, opa, ou, cheayvu, roju, romba'apo, oñevanga, roiko, aiko, oja</li>
                 <li>VERB-Inf: ndaipovei, aa, kyri'ĩ, marã, porãina, tuichapa'i</li>
                 <li>VERB-Vnoun: ka'aguy</li>
-              </ul>
-            </li>
-            <li>IntInd
-              <ul>
-                <li>VERB-Fin: roñea'ã, jaje'apa, oña'ã, penderecharãi</li>
-                <li>VERB-Inf: ñeñandu</li>
               </ul>
             </li>
             <li>Tran

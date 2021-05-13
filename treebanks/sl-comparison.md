@@ -36,7 +36,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 25466 tokens (18%) that are not followed by a space.</li>
+      <li>This corpus contains 18462 tokens (13%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="50%" valign="top">

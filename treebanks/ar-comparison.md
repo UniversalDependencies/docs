@@ -2144,7 +2144,7 @@ udver: '2'
       <h3>Auxiliary Verbs and Copula</h3>
       
       <ul>
-      <li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: كَان، لَيس، هُوَ.</li>
+      <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: كَان، لَيس.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -2540,7 +2540,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>nmod:gmod</a>, <a>nsubj:pass</a>, <a>obl:tmod</a></li>
+      <li>This corpus uses 6 relation subtypes: <a>acl:relcl</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>nsubj:pass</a>, <a>obl:tmod</a></li>
       <li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
       </ul>
     </td>

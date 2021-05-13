@@ -60,12 +60,12 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 242 types of words that contain both letters and punctuation. Examples: etc., AA., CC., C., S.A., a., art., pp., d/105, L., 1.ª, 2.a, 2.º, 5.º, 80/68/CEE, 92/43/CEE, B., C.H., Castela-A, E., EE.UU., I., J., Timbre-Real, c​o​n​t​e​n​c​i​o​s​o​-​a​d​m​i​n​i​s​t​r​a​t​i​v​o, gr., m/105h, marítimo-terrestre, ptas., v​a​r​i​a​n​z​a​s​-​c​o​v​a​r​i​a​n​z​a​s, -n/2, 08.05.432A.740.0, 1%dos, 1.1.-España, 1.Programa, 1.a, 101/97/CE, 12.1.e, 123.A, 149.1.21.ª, 1999/519/EC, 2.o, 2000/76/CE, 2005,mais, 21.Un, 3.º, 35.3.n, 4.º, 620.1.º, 76/464/CEE</li>
+      <li>This corpus contains 242 types of words that contain both letters and punctuation. Examples: etc., AA., CC., C., S.A., a., art., pp., d/105, L., 1.ª, 2.a, 2.º, 5.º, 80/68/CEE, 92/43/CEE, B., C.H., Castela-A, E., EE.UU., I., J., Timbre-Real, contencioso-administrativo, gr., m/105h, marítimo-terrestre, ptas., varianzas-covarianzas, -n/2, 08.05.432A.740.0, 1%dos, 1.1.-España, 1.Programa, 1.a, 101/97/CE, 12.1.e, 123.A, 149.1.21.ª, 1999/519/EC, 2.o, 2000/76/CE, 2005,mais, 21.Un, 3.º, 35.3.n, 4.º, 620.1.º, 76/464/CEE</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 32 types of words that contain both letters and punctuation. Examples: PSdeG-PSOE, etc., Costa-Gavras, (in)cultura, BNG-PSOE, Barros', CIG-ensino, Campos', Cunqueiro:, D., Dulcinea,, F., Galego-portuguesa, Oops..., P., PSOE-BNG, Qué!, R., S., Silencio,, again!, best-sellers, centro-esquerda, cow-boy, d'Estudis, económico-financeira, g​a​l​e​g​o​-​p​o​r​t​u​g​u​é​s​-​b​r​a​s​i​l​e​i​r​o, m​a​n​u​e​l​m​a​r​i​a​@​a​s​-​p​g​.​c​o​m, sex-shop, www.bng-galiza.org, www.novoestatuto.com, xurídico-público</li>
+      <li>This corpus contains 32 types of words that contain both letters and punctuation. Examples: PSdeG-PSOE, etc., Costa-Gavras, (in)cultura, BNG-PSOE, Barros', CIG-ensino, Campos', Cunqueiro:, D., Dulcinea,, F., Galego-portuguesa, Oops..., P., PSOE-BNG, Qué!, R., S., Silencio,, again!, best-sellers, centro-esquerda, cow-boy, d'Estudis, económico-financeira, galego-portugués-brasileiro, manuelmaria@as-pg.com, sex-shop, www.bng-galiza.org, www.novoestatuto.com, xurídico-público</li>
       </ul>
     </td>
   </tr>

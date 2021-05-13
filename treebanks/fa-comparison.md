@@ -1253,7 +1253,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 7 relation subtypes: <a>aux:pass</a>, <a>compound:lv</a>, <a>compound:lvc</a>, <a>flat:name</a>, <a>flat:num</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
+      <li>This corpus uses 6 relation subtypes: <a>aux:pass</a>, <a>compound:lvc</a>, <a>flat:name</a>, <a>flat:num</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
       <li>The following 7 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>reparandum</a></li>
       </ul>

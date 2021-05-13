@@ -2733,7 +2733,9 @@ udver: '2'
       </ul>
     </td>
     <td width="33%" valign="top">
-
+      <ul>
+        <li><a>Polite</a></li>
+      </ul>
     </td>
     <td width="33%" valign="top">
 
@@ -2750,7 +2752,14 @@ udver: '2'
       </ul>
     </td>
     <td width="33%" valign="top">
-
+      <ul>
+        <li>Depr
+          <ul>
+            <li>NOUN: chłopaki, nastolatki, Chłopy, Kamraty, Wykształciuchy, niedobitki, ułomka, zombie, łajzy</li>
+            <li>PROPN: Jerze, VIP-y</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="33%" valign="top">
 
@@ -3006,7 +3015,7 @@ udver: '2'
       <ul>
         <li><a>ConjType</a>
           <ul>
-            <li>Cmpr
+            <li>Comp
               <ul>
                 <li>SCONJ: jak, niż, jakby, niczym, aniżeli, niby</li>
               </ul>
@@ -3029,7 +3038,7 @@ udver: '2'
       <ul>
         <li><a>ConjType</a>
           <ul>
-            <li>Cmpr
+            <li>Comp
               <ul>
                 <li>SCONJ: jak, niż</li>
               </ul>
@@ -3089,11 +3098,6 @@ udver: '2'
       <ul>
         <li><a>Foreign</a>
           <ul>
-            <li>No
-              <ul>
-                <li>X: dala, ciemku, cna, dna, dwójnasób, młodu, naprzeciwka, niemiara, oścież, oślep</li>
-              </ul>
-            </li>
             <li>Yes
               <ul>
                 <li>X: de, San, a, of, von, New, Don, bin, di, Le</li>
@@ -3107,11 +3111,6 @@ udver: '2'
       <ul>
         <li><a>Foreign</a>
           <ul>
-            <li>No
-              <ul>
-                <li>X: dala</li>
-              </ul>
-            </li>
             <li>Yes
               <ul>
                 <li>X: of, the, de, El, Von, 'Ya, A, Breaking, Buck, Century</li>
@@ -3161,28 +3160,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-        <li><a>NounForm</a>
-          <ul>
-            <li>Depr
-              <ul>
-                <li>NOUN: chłopaki, nastolatki, Chłopy, Kamraty, Wykształciuchy, niedobitki, ułomka, zombie, łajzy</li>
-                <li>PROPN: Jerze, VIP-y</li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-
     </td>
   </tr>
   <tr>
@@ -3461,7 +3438,7 @@ udver: '2'
             </li>
             <li>Dash
               <ul>
-                <li>PUNCT: –, —, --</li>
+                <li>PUNCT: -, –, —, --</li>
               </ul>
             </li>
             <li>Elip
@@ -3472,11 +3449,6 @@ udver: '2'
             <li>Excl
               <ul>
                 <li>PUNCT: !</li>
-              </ul>
-            </li>
-            <li>Hyph
-              <ul>
-                <li>PUNCT: -</li>
               </ul>
             </li>
             <li>Peri
@@ -3529,17 +3501,12 @@ udver: '2'
             </li>
             <li>Dash
               <ul>
-                <li>PUNCT: —, –</li>
+                <li>PUNCT: —, –, -</li>
               </ul>
             </li>
             <li>Elip
               <ul>
                 <li>PUNCT: …</li>
-              </ul>
-            </li>
-            <li>Hyph
-              <ul>
-                <li>PUNCT: -</li>
               </ul>
             </li>
             <li>Peri
@@ -4019,7 +3986,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 13 relation subtypes: <a>acl:relcl</a>, <a>aux:aglt</a>, <a>aux:mood</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:obj</a>, <a>cop:locat</a>, <a>expl:impers</a>, <a>expl:pv</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>xcomp:obj</a></li>
+      <li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>aux:clitic</a>, <a>aux:cnd</a>, <a>aux:imp</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:obj</a>, <a>cop:locat</a>, <a>expl:impers</a>, <a>expl:pv</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>xcomp:obj</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
       <li>The following 9 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
