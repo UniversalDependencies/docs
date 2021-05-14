@@ -1,4 +1,4 @@
-﻿---
+---
 layout: feature
 title: 'Subordinative'
 shortdef: 'subordinative'
