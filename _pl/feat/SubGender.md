@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'Animacy'
-shortdef: 'animacy'
+title: 'SubGender'
+shortdef: 'sub-gender or animacy of masculine referents'
 udver: '2'
 ---
 
