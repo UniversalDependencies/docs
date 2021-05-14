@@ -1,4 +1,3 @@
-
 ---
 layout: feature
 title: 'PronType'
@@ -13,13 +12,10 @@ udver: '2'
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Int">Int</a></td>
   <td><a href="#Dem">Dem</a></td>
-  
-  
-
 </tr>
 </table>
 
-`Poss`  
+`Poss`
 
 ### <a name="Prs">`Prs`</a>: Personal
 
@@ -28,9 +24,7 @@ udver: '2'
 
 * _<b></b>&nbsp;_ “”
 
-  
-</tr>
-</table>
+
 
 ### <a name="Ind">`Ind`</a>: Indefinite
 
@@ -40,8 +34,6 @@ udver: '2'
 * _<b></b>&nbsp;_ “”
 
 
-</tr>
-</table>
 
 ### <a name="Int">`Int`</a>: Interrogative
 
@@ -51,8 +43,6 @@ udver: '2'
 * _<b></b>&nbsp;_ “”
 
 
-</tr>
-</table>
 
 ### <a name="Dem">`Dem`</a>: Demonstrative
 
@@ -61,16 +51,4 @@ udver: '2'
 
 * _<b></b>&nbsp;_ “”
 
-
-</tr>
-</table>
-
-
-
-## Diffs
-
-### Prague Dependency Treebank
-
-The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
-therefore this distinction is not being made in the converted data.
 <!-- Interlanguage links updated Pá kvě 14 11:08:40 CEST 2021 -->

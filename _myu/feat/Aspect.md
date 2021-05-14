@@ -1,4 +1,3 @@
-
 ---
 layout: feature
 title: 'Aspect'
@@ -17,12 +16,12 @@ udver: '2'
   <td><a href="">Iter</a></td>
   <td><a href="">Prog</a></td>
   <td><a href="">Dec</a></td>
-  
-  
+
+
 </tr>
 </table>
 
-`Aspect` in Mundurukú is threefold. The default from of the verb is perfective. Reduplication indicates imperfective aspect. The addition 
+`Aspect` in Mundurukú is threefold. The default from of the verb is perfective. Reduplication indicates imperfective aspect. The addition
 of an *m* or nasalisation of the last vowel/syllable signalizes duration.
 
 ### <a name="DurIprf">`DurIprf`</a>: Durative-Imperfective
@@ -100,12 +99,4 @@ The progressive aspect
 
 * _<b>jokjog̃ tu ẽn?</b>&nbsp;_ “Are you bathing?”
 
-
-
-## Diffs
-
-### Prague Dependency Treebank
-
-The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
-therefore this distinction is not being made in the converted data.
 <!-- Interlanguage links updated Pá kvě 14 11:08:28 CEST 2021 -->

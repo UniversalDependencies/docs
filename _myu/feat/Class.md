@@ -1,4 +1,3 @@
-
 ---
 layout: feature
 title: 'Class'
@@ -14,8 +13,8 @@ udver: '2'
   <td><a href="">Liquid</a></td>
   <td><a href="">CilRig</a></td>
   <td><a href="">CilFlx</a></td>
-  
-  
+
+
 </tr>
 </table>
 
@@ -54,15 +53,4 @@ udver: '2'
 
 * _<b>xek pu</b>&nbsp;_ “grub, caterpillar”
 
-
-
-
-
-
-## Diffs
-
-### Prague Dependency Treebank
-
-The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
-therefore this distinction is not being made in the converted data.
 <!-- Interlanguage links updated Pá kvě 14 11:08:29 CEST 2021 -->

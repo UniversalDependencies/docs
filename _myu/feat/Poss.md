@@ -1,4 +1,3 @@
-
 ---
 layout: feature
 title: 'Poss'
@@ -11,13 +10,10 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Ina">Ina</a></td>
   <td><a href="#Ali">Ali</a></td>
-  
-  
-
 </tr>
 </table>
 
-`Poss`  
+`Poss`
 
 ### <a name="Ina">`Ina`</a>: Inalienable
 
@@ -31,9 +27,6 @@ The feature `Poss` is similar to the feature [`Rel`](https://github.com/Universa
 * _<b>m(b)o</b>&nbsp;_ “Hand of a person” (HUM.hand)
 
 
-  
-</tr>
-</table>
 
 ### <a name="Ali">`Ali`</a>: Alienable
 
@@ -46,19 +39,4 @@ The feature `Poss` is similar to the feature [`Rel`](https://github.com/Universa
 * _<b>po</b>&nbsp;_ “hand”
 * _<b>m(b)o</b>&nbsp;_ “Hand of a person” (HUM.hand)
 
-
-  
-</tr>
-</table>
-
-
-
-
-
-## Diffs
-
-### Prague Dependency Treebank
-
-The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
-therefore this distinction is not being made in the converted data.
 <!-- Interlanguage links updated Pá kvě 14 11:08:39 CEST 2021 -->

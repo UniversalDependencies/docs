@@ -1,4 +1,3 @@
-
 ---
 layout: feature
 title: 'Reduplicatoin'
@@ -10,8 +9,6 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="">Ex</a></td>
-  
-  
 </tr>
 </table>
 
@@ -25,17 +22,4 @@ The exmaple below has the root *xat* 'food' reduplicated.
 
 * _<b>Awawa i-xa-xet</b>&nbsp;_ “Grandma has fod”
 
-
-
-
-
-
-
-
-## Diffs
-
-### Prague Dependency Treebank
-
-The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
-therefore this distinction is not being made in the converted data.
 <!-- Interlanguage links updated Pá kvě 14 11:08:40 CEST 2021 -->
