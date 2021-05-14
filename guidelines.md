@@ -24,9 +24,9 @@ udver: '2'
   * [POS tags](u/pos/index.html) ([single document](u/pos/all.html))
   * [Features](u/feat/index.html) ([single document](u/feat/all.html))
     * [Layered features](u/overview/feat-layers.html)
-    * [Language-specific features](ext-feat-index.html) (list of **all** features and values used in a treebank, including those that are **not defined** by the universal guidelines)
+    * [Features in data](ext-feat-index.html) (list of **all** features and values used in treebanks, including those that are **not defined** by the universal guidelines)
   * [Syntactic relations](u/dep/index.html) ([single document](u/dep/all.html))
-    * [Relation subtypes](ext-dep-index.html) (list of **all** subtypes that are used in at least one treebank)
+    * [Relations in data](ext-dep-index.html) (list of **all** relation subtypes that are used in treebanks)
   * [Conversion from other tagsets to UD tags and features](tagset-conversion/index.html)
 * Incubator for [Construction-Oriented Documentation](/workgroups/newdoc/index.html) (it will be moved here when it is mature enough)
 
