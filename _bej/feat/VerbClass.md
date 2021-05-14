@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'VerbType'
-shortdef: 'verb type'
+title: 'VerbClass'
+shortdef: 'verb class'
 udver: '2'
 ---
 
@@ -24,7 +24,7 @@ the verb stem vary with TAM. Beja is the Cushitic language where this verb type 
 most frequent. It contains the majority of the verbs (56%, cf. Cohen 1984). The stem,
 which forms the basis of the conjugation is, by convention, the bare form found in the
 construction with the light verb auxiliary _di_ ‘say’, which is also that
-of the Imperative without the inflectional morphemes. 
+of the Imperative without the inflectional morphemes.
 
 #### Examples
 - _tak / kaːm =i / hoː kʷiɖ -ja <b>i- ni</b> //_ "A man <b>said</b>: "My camel disappeared." "
@@ -34,8 +34,9 @@ of the Imperative without the inflectional morphemes.
 Verb class 2, the innovative paradigm, is conjugated with suffixes and the stem is
 invariable for all TAM and corresponds to the root without the inflectional morphemes.
 Verb class assignment is synchronically arbitrary, but most borrowings from Arabic are
-conjugated following the V2 pattern. 
+conjugated following the V2 pattern.
 
 #### Examples
 - _tak / kaːm =i / hoː <b>kʷiɖ</b> -ja i- ni //_ "A man said: "My camel <b>disappeared</b>." "
+
 <!-- Interlanguage links updated Pá kvě 14 11:08:42 CEST 2021 -->
