@@ -1,6 +1,6 @@
 ---
 layout: feature
-title: 'Reduplicatoin'
+title: 'Red'
 shortdef: 'reduplication'
 udver: '2'
 ---
@@ -12,7 +12,7 @@ udver: '2'
 </tr>
 </table>
 
-`Red` Reduplication is a very productive process in Mundurukú. One of is many functions is to signalize, by reduplicating
+`Red` Reduplication is a very productive process in Mundurukú. One of its many functions is to signalize, by reduplicating
 the syllable with the vowel *e* and loss of the final consonant.
 
 ### <a name="Ex">`Ex`</a>: contiguous
