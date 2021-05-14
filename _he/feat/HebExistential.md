@@ -15,7 +15,7 @@ udver: '2'
 Boolean feature. Yes is given to existential verbs ([VERB]()) יש ‘there is’ or אין ‘there is no’
 or past/future inflections such as היה ‘there was’ תהיה ‘there will be’.
 
-### <a name="Yes">`Yes`</a>: it is a non-standalone adverbial/prefix
+### <a name="Yes">`Yes`</a>: it is a Hebrew existential verb
 
 #### Examples
 
