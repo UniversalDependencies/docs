@@ -1,4 +1,3 @@
-
 ---
 layout: feature
 title: 'Emph'
@@ -10,30 +9,18 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Yes">Yes</a></td>
-  
-  
 </tr>
 </table>
 
-`Dev` is a 
+`Dev` is a
 
 ### <a name="Yes">`Yes`</a>: Pass
 
 
-Afirmative emphatic _ne_
+Affirmative emphatic _ne_
 
 #### Examples
 
 * _<b></b>&nbsp;_ “”
 
- 
-
-
-
-## Diffs
-
-### Prague Dependency Treebank
-
-The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
-therefore this distinction is not being made in the converted data.
 <!-- Interlanguage links updated Pá kvě 14 11:08:31 CEST 2021 -->

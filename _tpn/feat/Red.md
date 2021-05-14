@@ -1,4 +1,3 @@
-
 ---
 layout: feature
 title: 'Red'
@@ -11,16 +10,13 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Mo">Mo</a></td>
   <td><a href="#Di">Di</a></td>
- 
-  
-
 </tr>
 </table>
 
-`Case`  
+`Case`
 
 
-### <a name="Mo">`Mo`</a>: Monosylabic 
+### <a name="Mo">`Mo`</a>: Monosylabic
 
 Monosylabic reduplication
 
@@ -39,15 +35,5 @@ Disylabic reduplication
 
 * _<b>t-uβ</b>&nbsp;_ “father (existential predicate)”
 * _<b>t-uβ-a</b>&nbsp;_ “A/the father”
-  
 
-
-
-
-## Diffs
-
-### Prague Dependency Treebank
-
-The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
-therefore this distinction is not being made in the converted data.
 <!-- Interlanguage links updated Pá kvě 14 11:08:40 CEST 2021 -->

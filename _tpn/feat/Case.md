@@ -1,4 +1,3 @@
-
 ---
 layout: feature
 title: 'Case'
@@ -16,15 +15,13 @@ udver: '2'
   <td><a href="#All">All</a></td>
   <td><a href="#Voc">Voc</a></td>
   <td><a href="#Dat">Dat</a></td>
-  
-
 </tr>
 </table>
 
-`Case`  
+`Case`
 
 
-### <a name="All">`All`</a>: Allative 
+### <a name="All">`All`</a>: Allative
 
 
 #### Examples
@@ -36,14 +33,14 @@ udver: '2'
 
 ### <a name="Ref">`Ref`</a>: Referential (Argumentative)
 
-is used for the referential marker (also called argumentative, nominal). All lexical roots in Tupinambá are predicates. In order for these to function as arguments of predicates the Ref marker is used. Its function is nothing like that of nominal cases. 
+is used for the referential marker (also called argumentative, nominal). All lexical roots in Tupinambá are predicates. In order for these to function as arguments of predicates the Ref marker is used. Its function is nothing like that of nominal cases.
 
 
 #### Examples
 
 * _<b>t-uβ</b>&nbsp;_ “father (existential predicate) / there is a father / be a father / have a father”
 * _<b>t-uβ-a</b>&nbsp;_ “A/the father(s)”
-  
+
 
 
 ### <a name="Loc">`Loc`</a>: Locative
@@ -86,13 +83,4 @@ The vocative can be expressed, among others, by the sufix _we_ attached to the l
 
 * _<b>t-uβ-we</b>&nbsp;_ “To the father”
 
-
-
-
-## Diffs
-
-### Prague Dependency Treebank
-
-The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
-therefore this distinction is not being made in the converted data.
 <!-- Interlanguage links updated Pá kvě 14 11:08:29 CEST 2021 -->
