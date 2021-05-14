@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'Clussivity'
-shortdef: 'clussivity'
+title: 'Clusivity'
+shortdef: 'clusivity'
 udver: '2'
 ---
 
@@ -10,8 +10,6 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#In">In</a></td>
   <td><a href="#Ex">Ex</a></td>
-  
-  
 </tr>
 </table>
 
@@ -27,7 +25,6 @@ The inclusive feature is expressed with the pronoun and first person morpheme "z
 
 
 
-
 ### <a name="Ex">`Ex`</a>: Exclusive
 
 The exclusive feature is expressed with the pronoun and first person morpheme "ure"
@@ -36,13 +33,4 @@ The exclusive feature is expressed with the pronoun and first person morpheme "u
 
 * _<b>ure</b>&nbsp;_ “We (I + they)”
 
-
-
-
-## Diffs
-
-### Prague Dependency Treebank
-
-The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
-therefore this distinction is not being made in the converted data.
 <!-- Interlanguage links updated Pá kvě 14 11:08:29 CEST 2021 -->
