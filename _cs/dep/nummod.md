@@ -371,4 +371,4 @@ nmod(the-building, poříčí-10)
 case(poříčí-10, Na-9)
 nummod(poříčí-10, 12-11)
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:33 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:14 CEST 2021 -->

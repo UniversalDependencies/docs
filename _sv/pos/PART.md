@@ -11,4 +11,4 @@ In Swedish `PART` is currently only used for the infinitive marker _att_. Note t
 ### Example
 
 - _det är möjligt <b>att</b> förändra den_ "it is possible <b>to</b> change it"
-<!-- Interlanguage links updated Čt lis 12 09:42:55 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:22 CEST 2021 -->

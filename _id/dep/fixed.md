@@ -72,3 +72,4 @@ fixed(Oleh, karena)
 obl(berobat, itu)
 advmod(seek, Therefore)
 ~~~
+<!-- Interlanguage links updated Pá kvě 14 11:09:05 CEST 2021 -->

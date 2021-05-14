@@ -17,4 +17,4 @@ compound(解析, 構文)
 compound(着く, 泳ぎ)
 ~~~
 
-<!-- Interlanguage links updated Čt lis 12 09:43:18 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:56 CEST 2021 -->

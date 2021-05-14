@@ -34,4 +34,4 @@ _<b>Ó</b> glacaim pardún agat_ '<b>Oh</b>, I beg your pardon!'
 Ó , glacaim pardún agat \n Oh , I_take pardon at_you!
 discourse(glacaim, Ó)
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:24 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:03 CEST 2021 -->

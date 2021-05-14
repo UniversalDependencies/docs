@@ -32,4 +32,4 @@ The PartType feature takes this value for discourse particles elements such as _
 #### Example
 
 * _Adam, ehen where your babe <b>o</b>_ "Adam, ehen where is your babe ?"
-<!-- Interlanguage links updated Čt lis 12 09:43:04 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:37 CEST 2021 -->

@@ -36,3 +36,4 @@ NPs used to indicate manner, means, extent etc.:
 obl:npmod(ⲙⲧⲟⲛ,ⲗⲁⲁⲩ)
 ~~~
 
+<!-- Interlanguage links updated Pá kvě 14 11:09:18 CEST 2021 -->

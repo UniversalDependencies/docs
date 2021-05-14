@@ -17,4 +17,4 @@ parataxis:parenth(ont, voir)
 alors que heinze c'est quand même assez extraordinaire hein c'est le patron de la défense \n wheras Heinze it's quite extraordinary he's the boss of defense
 parataxis:parenth(patron, extraordinaire)
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:38 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:20 CEST 2021 -->

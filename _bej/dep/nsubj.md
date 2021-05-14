@@ -20,3 +20,4 @@ text_en: What has brought you there?"
 nsubj(jʔ, naːn) ("come", `PRON`)
 ~~~
 
+<!-- Interlanguage links updated Pá kvě 14 11:09:12 CEST 2021 -->

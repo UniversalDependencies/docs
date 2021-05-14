@@ -20,4 +20,4 @@ For demonstratives such as _ce ...-là, ce ...-ci_ (as in _cet homme-ci, cette f
 - interrogative determiners: _quel, quelle_ as in _"<b>Quelle</b> couleur aimez-vous?"_
 - relative determiners: _quel, quelle_ as in _"Je me demande <b>quelle</b> couleur vous aimez."_
 - quantity/quantifier determiners: _aucun_, _tous_ (as in "tous les").
-<!-- Interlanguage links updated Čt lis 12 09:42:52 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:20 CEST 2021 -->

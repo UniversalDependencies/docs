@@ -33,4 +33,4 @@ even [Definite]()ness.
 
 * 𐌼𐌰𐌽𐌰𐌲𐌰𐌽𐍃 _<b>managans</b>_ “many” (weak masculine plural nominative)
 
-<!-- Interlanguage links updated Čt lis 12 09:43:07 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:41 CEST 2021 -->

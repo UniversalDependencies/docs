@@ -16,4 +16,4 @@ to the first, but this should not be interpreted as an indication of headedness.
 TID-FRAMÅT FÄRDIG PRO1 PEK RIK^GYMNASIUM ÖREBRO@en \n Later on, I finished the National Highschool of Örebro
 flat(RIK^GYMNASIUM, ÖREBRO@en)
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:27 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:06 CEST 2021 -->

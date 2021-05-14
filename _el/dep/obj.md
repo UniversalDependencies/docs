@@ -32,4 +32,4 @@ When two objects are present, one of them is labeled as `obj` and the other as [
 See the [expl]()  relation for cases of clitic doubling.
 
 
-<!-- Interlanguage links updated Čt lis 12 09:43:34 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:15 CEST 2021 -->

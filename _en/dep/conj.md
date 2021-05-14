@@ -16,4 +16,4 @@ conj(big, honest)
 ~~~
 
 See also: [`cc`](cc.html)
-<!-- Interlanguage links updated Čt lis 12 09:43:19 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:57 CEST 2021 -->

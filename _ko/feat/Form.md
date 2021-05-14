@@ -44,4 +44,4 @@ A verb with complement ending such as _-hae_ or _-seo_ is usually attached to a 
 
 * 제대로 <b>하면</b> 이론적으로는 감지할수 없다. / _jedaero <b>hamyeon</b> ironyeogeuro neun gamjihal su eobsda._ “In theory, if done right, it’s un-detectable.”
 
-<!-- Interlanguage links updated Čt lis 12 09:43:02 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:32 CEST 2021 -->

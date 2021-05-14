@@ -34,4 +34,4 @@ are still tagged `ADP` and not [PART]().
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an adposition?](https://glossary.sil.org/term/adposition)
 - [Wikipedia](http://en.wikipedia.org/wiki/Preposition_and_postposition)
-<!-- Interlanguage links updated Čt lis 12 09:42:50 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:18 CEST 2021 -->

@@ -52,4 +52,4 @@ Demonstrative determiners of plural nouns and demonstrative pronouns that refer 
 
 
 We currently don't mark plurale tantum or collective/mass nouns.
-<!-- Interlanguage links updated Čt lis 12 09:43:03 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:35 CEST 2021 -->

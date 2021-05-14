@@ -41,4 +41,4 @@ Only the passive participle is tagged `Voice=Pass`.
 * _Jsme <b>napadeni</b> nepřítelem.&nbsp;_ “We are <b>attacked</b> by
   the enemy” (the passive participle _napadeni&nbsp;_ is used to form
   passive in all tenses; here it forms the present passive.)
-<!-- Interlanguage links updated Čt lis 12 09:43:08 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:43 CEST 2021 -->

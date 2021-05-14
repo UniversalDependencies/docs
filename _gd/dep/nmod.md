@@ -30,3 +30,4 @@ Bett fhèin a' ruith suas \n Bett himself at running up
 nmod(Bett, fhèin)
 ~~~
 
+<!-- Interlanguage links updated Pá kvě 14 11:09:09 CEST 2021 -->

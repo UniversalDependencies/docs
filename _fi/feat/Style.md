@@ -25,4 +25,4 @@ udver: '2'
 The value `Arch` is not annotated systematically in TDT
 and only very few instances of this value appear in the
 UD Finnish corpus.
-<!-- Interlanguage links updated Čt lis 12 09:43:06 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:41 CEST 2021 -->

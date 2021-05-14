@@ -29,4 +29,4 @@ Nouns that are not animate are inanimate.
 Adjectives and determiners in the accusative case have different fors depending on animacy of the nouns they modify.
 
 For certain Ukrainian word groups it is also possible to use alternative animate flections for inanimate nouns and inanimate flections for animate nouns. This phenomenon is only possible for the accusative case. Sometimes, although not in all situations, this switch (inanimisation or animisation) has a colloquial stylistic effect. Adjectives and determiners agree with such forms. A special layered feature Animacy[gram] is used to record such uses. See ref. for examples.
-<!-- Interlanguage links updated Čt lis 12 09:42:59 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:27 CEST 2021 -->

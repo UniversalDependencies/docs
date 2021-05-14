@@ -21,4 +21,4 @@ det(ⲏⲓ, ⲡⲉⲕ)
 ~~~
 
 While an interpretation connecting ⲉⲃⲟⲗ to the verb to mean ‘take out’ is possible, that would leave the sense of ‘in’ to mean ‘of’ unexplained. Rather, the combination ⲉⲃⲟⲗ ϩⲛ ‘out of’ is lexicalized as a multiword expression, or `fixed`. By convention, `fixed` points from left to right, all other tokens attached to its first token, where the first token carries the external function of the expression – in this case a preposition (the label `case`).
-<!-- Interlanguage links updated Čt lis 12 09:43:26 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:05 CEST 2021 -->

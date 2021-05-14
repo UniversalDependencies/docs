@@ -33,4 +33,4 @@ The words are considered special kind of coordinating conjunctions and they are 
 #### Examples
 
 * _<b>x</b>_ “×”, _<b>անգամ</b>_ “times”
-<!-- Interlanguage links updated Čt lis 12 09:43:00 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:30 CEST 2021 -->

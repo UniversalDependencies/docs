@@ -13,4 +13,4 @@ Polarity in Swedish is a feature of adverbs and fixed multiword expressions used
 
 * [sv] _<b>inte</b>_ "not"
 * [sv] _<b>aldrig</b>_ "never"
-<!-- Interlanguage links updated Čt lis 12 09:43:05 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:38 CEST 2021 -->

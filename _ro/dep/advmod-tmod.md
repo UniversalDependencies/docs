@@ -16,4 +16,4 @@ advmod:tmod(poimâine, dimineață)
 
 “You can then sleep until the next morning.”
 
-<!-- Interlanguage links updated Čt lis 12 09:43:36 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:49 CEST 2021 -->

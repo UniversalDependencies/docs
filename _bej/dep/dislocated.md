@@ -13,3 +13,4 @@ a- gar jʔ -an =t i= gaw =i /
 text_en: I went back, in my house.
 dislocated(jʔ, gaw) ("come", "house")
 ~~~
+<!-- Interlanguage links updated Pá kvě 14 11:09:03 CEST 2021 -->

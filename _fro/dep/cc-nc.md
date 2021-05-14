@@ -24,4 +24,4 @@ It is often the case at the beginning of the sentence, and for the first element
 7	nuit	_	NOUN	NOMcom	_	4	obl	_	_
 
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:16 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:54 CEST 2021 -->

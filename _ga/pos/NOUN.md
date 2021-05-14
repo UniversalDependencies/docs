@@ -47,4 +47,4 @@ Verbal noun forms are used widely in Irish for the infinitive form, using the in
 
 
 
-<!-- Interlanguage links updated Čt lis 12 09:42:53 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:21 CEST 2021 -->

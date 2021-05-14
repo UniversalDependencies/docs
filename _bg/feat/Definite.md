@@ -30,4 +30,4 @@ However, when added to a nominal phrase, the articles become phrasal affixes, i.
 
 - Видях <b>жената</b> да минава по улицата / _Vidyah <b>zhenata</b> da minava po ulitsata_ "I saw the woman walking on the street"
 
-<!-- Interlanguage links updated Čt lis 12 09:43:00 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:30 CEST 2021 -->

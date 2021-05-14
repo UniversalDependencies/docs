@@ -57,4 +57,4 @@ The `nsubj:pass` relation is used for the subject of a passive sentence. In Cant
 ### References
 
 - Matthews, Stephen and Virginia Yip. 2011. Cantonese: A Comprehensive Grammar, 2nd ed. Routledge.
-<!-- Interlanguage links updated Čt lis 12 09:43:33 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:13 CEST 2021 -->

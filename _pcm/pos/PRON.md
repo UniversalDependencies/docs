@@ -45,4 +45,4 @@ See [PROPN]() for proper nouns and [NOUN]() for nouns.
 - una (generic pronoun)
   - Make <b>una</b> try.
   
-<!-- Interlanguage links updated Čt lis 12 09:42:55 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:23 CEST 2021 -->

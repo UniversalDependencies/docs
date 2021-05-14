@@ -11,4 +11,4 @@ A coordinating conjunction is a word that links words or larger constituents wit
 * *og* "and"
 * *eller* "or"
 * *men* "but"
-<!-- Interlanguage links updated Čt lis 12 09:42:51 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:19 CEST 2021 -->

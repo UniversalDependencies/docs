@@ -37,4 +37,4 @@ in Tupinambá, to funcion as arguments of predicates or allow them to be referen
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Čt lis 12 09:43:03 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:33 CEST 2021 -->

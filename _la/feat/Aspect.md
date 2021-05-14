@@ -141,3 +141,4 @@ Some verbal stems only appear in their perfective forms:  *memini* 'to remember'
 ##### Other possible aspects in Latin
 
 It might be argued that the nominal forms of gerundive/gerund and future participle do not actually express the imperfective and perfective aspect respectively, but are instead instances of some other aspects tied to the notion of relative, immediate future and/or necessity, like e.g. the prospective aspect. For the moment, however, they keep the imperfective/perfective labels in the annotation.
+<!-- Interlanguage links updated Pá kvě 14 11:08:28 CEST 2021 -->

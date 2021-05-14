@@ -85,4 +85,4 @@ feature of [Animacy]()). Nevertheless this is not a grammatical restriction and 
 
 * _Що думаєш, <b>Олю</b>?&nbsp;_ “What do you think, <b>Olya</b>?”
 * _<b>Зоре моя вечірняя</b>, зійди над горою [...]&nbsp;_ “<b>My evening star</b>, rise over the mountain [...]” (poetic language). Technically only the noun _Зоре_ “star” has a different, vocative form, but the possessive pronoun _моя_ “my” and the adjective _вечірняя_ “evening”, which agree with the noun in gender and number, are treated as vocatives as well.
-<!-- Interlanguage links updated Čt lis 12 09:43:00 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:29 CEST 2021 -->

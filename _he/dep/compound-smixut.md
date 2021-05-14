@@ -20,3 +20,4 @@ punct(נבעתו, .)
 יושבי בתי ה קפה נבעתו.
 
 “The residents of the cafes were shocked.”
+<!-- Interlanguage links updated Pá kvě 14 11:08:57 CEST 2021 -->

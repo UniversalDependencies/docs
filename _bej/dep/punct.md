@@ -15,3 +15,4 @@ punct(geːb, /) ("beside", `PUNCT`)
 punct(fi, //) ("be_there", `PUNCT`)
 ~~~
 
+<!-- Interlanguage links updated Pá kvě 14 11:09:20 CEST 2021 -->

@@ -24,4 +24,4 @@ The head of the relation is the first conjunct and all the other conjuncts depen
 
 ~~~
 
-<!-- Interlanguage links updated Čt lis 12 09:43:19 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:57 CEST 2021 -->

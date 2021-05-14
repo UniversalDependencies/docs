@@ -58,3 +58,4 @@ obj(calls,whom)
 
 'And those who succeed are those whom the author of the Aeneid, in the sixth book, <u>calls</u> **God's beloved, raised to the heavens by their ardent virtue and made the children of God** - ­though he is speaking figuratively.' (*De Vulgari Eloquentia*, UDante)
 
+<!-- Interlanguage links updated Pá kvě 14 11:09:23 CEST 2021 -->

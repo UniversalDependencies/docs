@@ -9,4 +9,4 @@ A subordinating conjunction is a conjunction that links constructions by making 
 
 For _coordinating conjunctions,_ see [CCONJ]().
 
-<!-- Interlanguage links updated Čt lis 12 09:42:56 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:24 CEST 2021 -->

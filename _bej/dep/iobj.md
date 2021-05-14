@@ -21,3 +21,4 @@ text_en: "When I went to visit him, a man, a donkey, hum, came and ate his tent,
 iobj(jʔ, dhaːj) ("see", `ADP`)
 ~~~
 
+<!-- Interlanguage links updated Pá kvě 14 11:09:07 CEST 2021 -->

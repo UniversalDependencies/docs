@@ -29,4 +29,4 @@ advcl(вернулся, прихрамывая)
 advcl(came-in, limping)
 ~~~
 
-<!-- Interlanguage links updated Čt lis 12 09:43:10 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:46 CEST 2021 -->

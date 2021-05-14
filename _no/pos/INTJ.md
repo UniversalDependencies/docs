@@ -13,4 +13,4 @@ An interjection is a word that is used most often as an exclamation or part of a
 * *ok* "okay"
 * *piip* "peep"
 
-<!-- Interlanguage links updated Čt lis 12 09:42:53 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:21 CEST 2021 -->

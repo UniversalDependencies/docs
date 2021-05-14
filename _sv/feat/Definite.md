@@ -20,4 +20,4 @@ Definiteness in Swedish is an inflectional feature of [nouns](sv-pos/NOUN), as w
 
 * [sv] _vinsterna_ "<b>the profits</b>"
 * [sv] _<b>de särskilda förmånerna</b>_ "the special benefits"
-<!-- Interlanguage links updated Čt lis 12 09:43:01 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:30 CEST 2021 -->

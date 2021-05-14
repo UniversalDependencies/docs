@@ -26,4 +26,4 @@ Characters used as bullets in itemized lists _(•, ‣)_ are not symbols, they 
 - _+, −, ×, ÷, =, <, >_
 - :), ♥‿♥, 😝
 - _john.doe@universal.org, http://universaldependencies.org/, 1-800-COMPANY_
-<!-- Interlanguage links updated Čt lis 12 09:42:57 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:25 CEST 2021 -->

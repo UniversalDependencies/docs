@@ -30,4 +30,4 @@ Examples:
 
 All verbs with VForm=present are converted to UD `Tense=Pres` and all verbs with VForm=future are converted to UD `Ťense=Fut`. We do not assign tense to other verb forms, such as participle, infinitive, supine, conditional and imperative.
 
-<!-- Interlanguage links updated Čt lis 12 09:43:07 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:41 CEST 2021 -->

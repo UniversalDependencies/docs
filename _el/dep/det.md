@@ -51,4 +51,4 @@ det(πουκάμισο, το-3)
 amod(πουκάμισο, θαλασσί)
 ~~~
 
-<!-- Interlanguage links updated Čt lis 12 09:43:23 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:01 CEST 2021 -->

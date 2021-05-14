@@ -43,4 +43,4 @@ On peut nager dans le lac \n One can swim in the lake
 aux(nager, peut)
 ~~~
 
-<!-- Interlanguage links updated Čt lis 12 09:43:14 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:51 CEST 2021 -->

@@ -30,4 +30,4 @@ The `aux:clitic` relation is used in the Polish [PDB-UD](http://universaldepende
 6	back	_	_	_	_	_	_	_	_
 7	.	_	_	_	_	_	_	_	_
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:14 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:52 CEST 2021 -->

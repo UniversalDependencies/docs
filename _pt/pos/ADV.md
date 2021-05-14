@@ -25,4 +25,4 @@ _<b>apenas</b> você_ "only you").
 - demonstrative adverbs: _aqui, ali, agora, depois_ "here, there, now, after"
 - totality adverbs: _sempre_ "always"
 - negative adverbs: _nunca, sem_ "never, without"
-<!-- Interlanguage links updated Čt lis 12 09:42:50 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:18 CEST 2021 -->

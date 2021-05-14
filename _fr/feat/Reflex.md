@@ -17,4 +17,4 @@ column. (Which means that empty value has the `No` meaning.)
 
 * _lui-même, elle-même, eux-mêmes, elles-mêmes, moi-même, nous-mêmes, soi-même_
 
-<!-- Interlanguage links updated Čt lis 12 09:43:06 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:40 CEST 2021 -->

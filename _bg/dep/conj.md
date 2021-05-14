@@ -19,4 +19,4 @@ conj(stories-4, drammas-6)
 ~~~
 
 
-<!-- Interlanguage links updated Čt lis 12 09:43:19 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:57 CEST 2021 -->

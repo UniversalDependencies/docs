@@ -20,4 +20,4 @@ Martin se bojí zvířat . \n Martin REFLEX fears animals .
 expl:pv(bojí, se)
 expl:pv(fears, REFLEX)
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:26 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:04 CEST 2021 -->

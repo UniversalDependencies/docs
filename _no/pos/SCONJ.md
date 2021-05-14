@@ -9,4 +9,4 @@ A subordinating conjunction is a conjunction that links constructions by making 
 #####Examples
 * Complementizers: *at* "that", *om* "if/whether"
 * Adverbial clause introducers: *når* "when", *siden* "since", *fordi* "because"
-<!-- Interlanguage links updated Čt lis 12 09:42:57 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:24 CEST 2021 -->

@@ -38,3 +38,4 @@ conjugated following the V2 pattern.
 
 #### Examples
 - _tak / kaːm =i / hoː <b>kʷiɖ</b> -ja i- ni //_ "A man said: "My camel <b>disappeared</b>." "
+<!-- Interlanguage links updated Pá kvě 14 11:08:42 CEST 2021 -->

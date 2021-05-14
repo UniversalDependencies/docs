@@ -54,4 +54,4 @@ Typically a noun ending in the clitic 's.
 * _Zimbabwe<b>'s</b> neighbour, di Botswana_ "Zimbabwe's neighbor, Botswana"
  
 
-<!-- Interlanguage links updated Čt lis 12 09:43:00 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:28 CEST 2021 -->

@@ -39,4 +39,4 @@ This is a subtype of adjective or adverb.
 
 * _<b>бірінші</b>_ “first”, _<b>екінші</b>_ “second”, _<b>үшінші</b>_ “third”
 
-<!-- Interlanguage links updated Čt lis 12 09:43:04 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:36 CEST 2021 -->

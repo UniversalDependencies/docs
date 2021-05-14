@@ -40,4 +40,4 @@ The `nmod` relation is used for nominal dependants of another noun or noun phras
 8	building	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:31 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:09 CEST 2021 -->

@@ -41,3 +41,4 @@ Used to show the thing or person being referred to.
 - _<b>uːn<b> uː= tak_ "this man"
 
 
+<!-- Interlanguage links updated Pá kvě 14 11:08:39 CEST 2021 -->

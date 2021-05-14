@@ -15,3 +15,4 @@ vocative(fidin, ʔoːr) ("move_away", "child")
 ~~~
 
 
+<!-- Interlanguage links updated Pá kvě 14 11:09:22 CEST 2021 -->

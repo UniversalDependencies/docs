@@ -15,4 +15,4 @@ flat:num(381-1, هزار)
 flat:num(381-1, thousand)
 ~~~
 
-<!-- Interlanguage links updated Čt lis 12 09:43:23 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:06 CEST 2021 -->

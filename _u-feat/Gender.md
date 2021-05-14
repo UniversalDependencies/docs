@@ -91,4 +91,4 @@ or tag individual instances of _grande_ as either masculine or feminine, dependi
 
 * [sv] _<b>väg</b>_ "way"
 
-<!-- Interlanguage links updated Čt lis 12 09:43:02 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:32 CEST 2021 -->

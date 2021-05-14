@@ -122,4 +122,4 @@ nmod('s, field)
 det(field, the)
 case(field, in)
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:20 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:58 CEST 2021 -->

@@ -61,4 +61,4 @@ long form is tagged `ADJA`.
 * Attributive (long): _Für den Streaming-Bereich wurde ein kostenpflichtiges Premium-Angebot des Spinner-Services als mögliche Variante erwähnt._
   “A fee-based premium offer of the Spinner service was mentioned as a possible variant for the streaming area.”
 
-<!-- Interlanguage links updated Čt lis 12 09:43:07 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:42 CEST 2021 -->

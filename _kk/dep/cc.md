@@ -23,4 +23,4 @@ punct(барды-9, .-10)
 
 Note: Coordination directionality is under discussion.
 
-<!-- Interlanguage links updated Čt lis 12 09:43:16 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:54 CEST 2021 -->

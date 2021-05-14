@@ -41,4 +41,4 @@ although [gender](u-feat/Gender) is otherwise not distinguished in Basque.
 
 * [eu] _ukan <b>ezan</b>_ “have it” `Gender[erg]=Fem|Number[erg]=Sing|Person[erg]=2|Polite[erg]=Inf` `|` `Number[abs]=Sing|Person[abs]=3` (imperative addressing a woman)
 
-<!-- Interlanguage links updated Čt lis 12 09:43:01 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:32 CEST 2021 -->

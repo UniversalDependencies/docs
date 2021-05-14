@@ -19,4 +19,4 @@ The relativizer *som* "that" is counted as a relative pronoun even though there 
 * totality: *alle* "all"
 * indefinite: *noen* "some"
 * relative: *som* "that"
-<!-- Interlanguage links updated Čt lis 12 09:42:55 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:23 CEST 2021 -->

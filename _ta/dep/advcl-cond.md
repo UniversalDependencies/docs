@@ -30,4 +30,4 @@ manaṁ parigètta baṭṭi vānalo taḍava ledu. \n we ran as in-the-rain lat
 
 “It was not too late in the rain as we ran.”
 
-<!-- Interlanguage links updated Čt lis 12 09:43:09 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:46 CEST 2021 -->

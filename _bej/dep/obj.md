@@ -13,3 +13,4 @@ uː= tak ɖaːb -iːni kaːm i- bari /
 text_en: "The man has a race camel,
 obj(bari, kaːm) ("have", "camel")
 ~~~
+<!-- Interlanguage links updated Pá kvě 14 11:09:15 CEST 2021 -->

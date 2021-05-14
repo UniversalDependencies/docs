@@ -89,4 +89,4 @@ distinguished from another third person argument, e.g. in Navajo.
 ### References
 
 * Davis, Irvine. 1964. The language of Santa Ana Pueblo (anthropological papers, no. 69). _Smithsonian Institution Bureau of American Ethnology, Bulletin 191: Anthropological Papers,_ Numbers 68-74, Washington, DC: United States Government Printing Office, 53–190.
-<!-- Interlanguage links updated Čt lis 12 09:43:05 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:38 CEST 2021 -->

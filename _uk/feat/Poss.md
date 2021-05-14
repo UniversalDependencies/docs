@@ -23,4 +23,4 @@ Note that there is no `No` value. If the word is not possessive, the `Poss` feat
 
 <!--possessive adjectives: _Петрів&nbsp;_ “Peter's”, _материн&nbsp;_ “mother's”-->
 
-<!-- Interlanguage links updated Čt lis 12 09:43:05 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:39 CEST 2021 -->

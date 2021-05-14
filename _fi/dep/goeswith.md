@@ -21,4 +21,4 @@ punct(notkui-3, .-5)
 Note that the original [TDT
 corpus](http://bionlp.utu.fi/fintreebank.html) used the `nn` relation
 ([compound:nn]() in UD Finnish) to annotate these relations.
-<!-- Interlanguage links updated Čt lis 12 09:43:28 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:07 CEST 2021 -->

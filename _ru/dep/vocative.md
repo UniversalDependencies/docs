@@ -21,4 +21,4 @@ vocative(Замолчи, Дунь)
 vocative(Shut-up, Dunya)
 ~~~
 
-<!-- Interlanguage links updated Čt lis 12 09:43:40 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:22 CEST 2021 -->

@@ -11,4 +11,4 @@ udver: '2'
 
 * [mdf] _вельхкс, ётка, иноль, карша, ланга_ "_upper surface, what is below, what is next to_"
 
-<!-- Interlanguage links updated Čt lis 12 09:43:04 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:35 CEST 2021 -->

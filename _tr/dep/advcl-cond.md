@@ -18,4 +18,4 @@ In Turkish conditional clauses are formed by a verbal inflection on the head of 
 There are also two redundant words, _eğer_ and _şayet_ that may be included at the beginning or end of the phrase.
 Use of these words are only for emphasis or an early signal that a conditional clause follows.
 We use [discourse]() (not [mark]()) for marking the relation between these words and head of the conditional clause.
-<!-- Interlanguage links updated Čt lis 12 09:43:10 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:46 CEST 2021 -->

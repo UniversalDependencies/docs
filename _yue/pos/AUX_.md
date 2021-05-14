@@ -20,4 +20,4 @@ In Cantonese, auxiliaries can be divided into modal and modal-like auxiliaries w
   - 能夠 / _nang4gau3_ "be able to", 會 / _wui5_ "will", 可以 / _ho5ji3_ "can", 應該 / _jing1goi1_ "should", 肯 / _hang2_ "be willing to", 敢 / _gam2_ "dare", 有 / _jau5_ (perfective), 冇 / _mou5_ (negative perfective), 得 / _dak1_ "can"
 - Aspect markers
   - 咗 / _zo2_ (perfective), 住 / _zyu6_ (durative), 過 / _guo3_ (experiential), 緊 _gan2_ (progressive), 吓 _ha2_ (delimitative), 開 / _hoi1_ (habitual)
-<!-- Interlanguage links updated Čt lis 12 09:42:51 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:19 CEST 2021 -->

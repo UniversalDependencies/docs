@@ -30,3 +30,4 @@ nummod(mobil, dua)
 clf(dua, buah)
 ~~~
 
+<!-- Interlanguage links updated Pá kvě 14 11:08:56 CEST 2021 -->

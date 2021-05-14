@@ -13,4 +13,4 @@ In the four corpora **UD_French-ParTUT**, **UD_French-Sequoia**, **UD_French-PUD
 
 * _<b>ne</b>, <b>pas</b>_
 
-<!-- Interlanguage links updated Čt lis 12 09:43:05 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:38 CEST 2021 -->

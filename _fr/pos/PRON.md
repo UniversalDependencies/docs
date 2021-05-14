@@ -15,4 +15,4 @@ Their meaning is recoverable from the linguistic or extralinguistic context.
 - demonstrative pronouns: _ceux_
 - reflexive pronouns: _me_, _se_
 - interrogative/relative pronouns: _qui_, _que_
-<!-- Interlanguage links updated Čt lis 12 09:42:55 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:23 CEST 2021 -->

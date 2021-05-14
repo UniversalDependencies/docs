@@ -41,3 +41,4 @@ case(negeri, ke)
 nmod:lmod(negeri, luar)
 ~~~
 
+<!-- Interlanguage links updated Pá kvě 14 11:09:11 CEST 2021 -->

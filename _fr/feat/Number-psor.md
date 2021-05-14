@@ -21,3 +21,4 @@ Possessive [determiners](DET) may have two different numbers: that of the posses
 
 * [fr] _<b>notre</b> ballons_ “our balloon” `Number[psor]=Plur|Number=Sing`
 * [fr] _<b>nos</b> ballons_ “our balloons” `Number[psor]=Plur|Number=Plur`
+<!-- Interlanguage links updated Pá kvě 14 11:08:36 CEST 2021 -->

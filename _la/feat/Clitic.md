@@ -35,3 +35,4 @@ Derivational morphemes or other elements which are not syntactically independent
 * *populus**que*** 'and the people', split as *populus*-*que*: *que* is a clitic [co-ordinating conjunction](la-pos/CCONJ) (`CCONJ`) and depends on the given phrase/clause head as `cc`
     * *que* appears only as a bound element; it has become grammaticalised in some words
 
+<!-- Interlanguage links updated Pá kvě 14 11:08:29 CEST 2021 -->

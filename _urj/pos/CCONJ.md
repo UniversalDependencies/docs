@@ -26,4 +26,4 @@ to encode such enclitics as multiword tokens with a CCONJ part.
 * [fi] _ja_ "and", _tai_ "or", _vai_ "or", _sekä_ "and", _mutta_ "but"
 * [fi] _eikä_ "and not", _enkä_ "and I do not"
 
-<!-- Interlanguage links updated Čt lis 12 09:42:52 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:20 CEST 2021 -->

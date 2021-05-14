@@ -13,3 +13,4 @@ ontʔa / daːjeːb // j= halak -a / i- naːʃʔa bʔi -ja -n =hoːb // tak iː- 
 text_en: "So, when he had finished undressing properly, he realized I was a man!"
 dep:aff(naːʃʔa, -n) ("take_off", linker)
 ~~~
+<!-- Interlanguage links updated Pá kvě 14 11:09:01 CEST 2021 -->

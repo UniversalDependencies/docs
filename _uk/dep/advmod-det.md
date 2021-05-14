@@ -32,4 +32,4 @@ Ukrainian determiners (pronominal adjectives) _такий&nbsp;_ ‘such’ and 
 5	!	_	_	_	_	0	root	_	_
 
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:11 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:48 CEST 2021 -->

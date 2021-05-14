@@ -584,4 +584,4 @@ marks the property being compared. It occurs in Turkish.
 # References
 
 * Avery D. Andrews: The major functions of the noun phrase. In: Timothy Shopen (ed.) (2007): Language Typology and Syntactic Description, Volume I: Clause Structure. Second Edition. Cambridge University Press. ISBN 978-0-521-58156-1.
-<!-- Interlanguage links updated Čt lis 12 09:43:00 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:29 CEST 2021 -->

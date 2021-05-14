@@ -13,4 +13,4 @@ Denotes repeated action.
 
 * [hu] _üt_ “hit”, _<b>ütöget</b>_ “hit several times”
 
-<!-- Interlanguage links updated Čt lis 12 09:43:00 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:28 CEST 2021 -->

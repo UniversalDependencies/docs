@@ -31,4 +31,4 @@ The latter include feedback particles, such as _ja_ "yes" and _ne_ "no", which a
 #### Conversion from JOS
 
 All particles are converted to `PART`.
-<!-- Interlanguage links updated Čt lis 12 09:42:55 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:22 CEST 2021 -->

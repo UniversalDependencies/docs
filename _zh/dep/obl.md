@@ -114,4 +114,4 @@ The relation can also be used for nominals that don’t include a nominal marker
 
 ~~~
 
-<!-- Interlanguage links updated Čt lis 12 09:43:35 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:16 CEST 2021 -->

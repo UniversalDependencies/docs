@@ -15,4 +15,4 @@ number, such as quantity, sequence, frequency or fraction.
 * [kk] _I, II, III, IV, V, MMXIV_
 * [kk] _бірінші, екінші, үшінші_ "first, second, third"
 
-<!-- Interlanguage links updated Čt lis 12 09:42:54 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:22 CEST 2021 -->

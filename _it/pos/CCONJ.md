@@ -20,4 +20,4 @@ For _subordinating conjunctions_ see [SCONJ]().
 - _ma_ "but"
 - _sia_ ... _sia_ "both ... and"
 - _né_ ... _né_  "neither ... nor"
-<!-- Interlanguage links updated Čt lis 12 09:42:51 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:19 CEST 2021 -->

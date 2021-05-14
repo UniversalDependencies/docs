@@ -27,4 +27,4 @@ obj:agent(venir,la)
 The infinitive verb governs the syntactical subject of the sentence (i.e. the causer) with a [nsubj:caus]() relation and the causative verb with an [aux:caus]() relation.
 
 N.B.: For more details about the analysis of causatives see [this page](http://universaldependencies.org/fr/specific-syntax.html#causative).
-<!-- Interlanguage links updated Čt lis 12 09:43:35 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:15 CEST 2021 -->

@@ -34,4 +34,4 @@ Note that grammatical animatness can also apply to semantically inanimate nouns,
 ### Conversion from JOS
 
 All nouns with Animate=yes are converted to `Animacy=Anim` and all nouns with Animate=no are converted to `Animacy=Inan`.
-<!-- Interlanguage links updated Čt lis 12 09:42:59 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:27 CEST 2021 -->

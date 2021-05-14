@@ -71,4 +71,4 @@ The various forms of the copula, which occurs in the both present and past tense
 | 	*Negative Dependent* | nach |nár / nárbh
 
 NOTE: Other forms of the copula such as the copula in the form of a relative pronoun in the past tense or in the superlative ('ab') and contracted copula forms ('Sé/'Sí/Seo/Sin) also bear the label 'cop'. The copular conjunction 'ná' is currently treated as either 'mark' or 'cc'.
-<!-- Interlanguage links updated Čt lis 12 09:43:20 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:58 CEST 2021 -->

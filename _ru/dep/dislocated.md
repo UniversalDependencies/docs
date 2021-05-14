@@ -34,4 +34,4 @@ Other examples:
 * день, когда ты родился, он и есть твой день рождения “the day you were born, it is your birthday“
 * сторож с сонным фонарем, шапка ветхая на нем “a watchman with a sleepy lantern, there is a shabby hat is on him“ 
 
-<!-- Interlanguage links updated Čt lis 12 09:43:25 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:03 CEST 2021 -->

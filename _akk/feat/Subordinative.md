@@ -13,3 +13,4 @@ The subordinative suffix -_u_, in Neo-Assyrian mainly separable -(_ū_…)_ni_, 
 * _<b>ipparšidūni</b>_ “(as many as/which/who) had fled”
 * _<b>usbakūni</b>_ “(While) I was (in …)”
 * _<b>ša šumī šaṭra ipaššiṭu-ma šumšu išaṭṭaru</b>_ “Who erases my inscribed name and writes his (own) name”
+<!-- Interlanguage links updated Pá kvě 14 11:08:41 CEST 2021 -->

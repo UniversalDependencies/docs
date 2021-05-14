@@ -20,4 +20,4 @@ The antecedent of the pronoun is the entire superordinate clause.
 8	:	:	PUNCT	_	Foreign=Yes	1	punct	_	Translit=.|LTranslit=.
 
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:11 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:46 CEST 2021 -->

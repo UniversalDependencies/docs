@@ -12,4 +12,4 @@ Adverbs are words that typically modify [adjectives](ADJ), [verbs](VERB) or othe
 ### Examples
 - _<b>très</b> joli_ "<b>very</b> nice"
 - _fondues <b>ensemble</b>_ "melted <b>together</b>"
-<!-- Interlanguage links updated Čt lis 12 09:42:50 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:18 CEST 2021 -->

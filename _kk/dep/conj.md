@@ -29,4 +29,4 @@ Warning: If two sentences are joined with a comma and there is no relation betwe
 
 Note: Coordination directionality is under discussion.
 
-<!-- Interlanguage links updated Čt lis 12 09:43:20 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:57 CEST 2021 -->

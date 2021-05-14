@@ -20,4 +20,4 @@ _kuin_ are tagged `SCONJ`.
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=816> (in Finnish)
 * <http://scripta.kotus.fi/visk/sisallys.php?p=818> (in Finnish)
-<!-- Interlanguage links updated Čt lis 12 09:42:57 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:24 CEST 2021 -->

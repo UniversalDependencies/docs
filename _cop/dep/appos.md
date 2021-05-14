@@ -28,4 +28,4 @@ nmod(ϩⲟⲟⲩ, ϫⲟⲉⲓⲥ)
 ~~~
 
 In this example, *Lord*, *Jesus*, and *Christ* all refer to the same thing. 
-<!-- Interlanguage links updated Čt lis 12 09:43:13 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:50 CEST 2021 -->

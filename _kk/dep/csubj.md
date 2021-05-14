@@ -14,4 +14,4 @@ csubj(алды-9, қашау-6)
 obj(алды-9, орын-8)
 ~~~
 
-<!-- Interlanguage links updated Čt lis 12 09:43:21 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:59 CEST 2021 -->

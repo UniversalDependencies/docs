@@ -15,4 +15,4 @@ recommended to use the noun lexeme as the lemma form.
 
 * [fi] _talo_ "house", _tyttö_ "girl"
 
-<!-- Interlanguage links updated Čt lis 12 09:42:54 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:21 CEST 2021 -->

@@ -21,4 +21,4 @@ negative form of a verb; it is also used with negative conjunctions.
 * _<b>ära</b>_ “don't”
 * _<b>ega, mitte</b>_ (negative conjunctions)
 
-<!-- Interlanguage links updated Čt lis 12 09:43:05 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:38 CEST 2021 -->

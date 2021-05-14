@@ -135,4 +135,4 @@ appos(Friday, 18-11)
 flat(18-11, December)
 flat(18-11, 2015-13)
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:26 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:05 CEST 2021 -->

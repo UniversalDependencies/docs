@@ -87,4 +87,4 @@ Some other arguments, such as the subject in (2), may also be elided along with 
 ### References
 
 - Tang, Sze-Wing. 2001. 'The (Non-)Existence of Gapping in Chinese and Its Implications for the Theory of Gapping.' Journal of East Asian Linguistics 10: 201. doi:10.1023/A:1011250802691
-<!-- Interlanguage links updated Čt lis 12 09:43:37 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:19 CEST 2021 -->

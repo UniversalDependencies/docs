@@ -4,4 +4,4 @@ title: 'ADJ'
 shortdef: 'adjective'
 udver: '2'
 ---
-<!-- Interlanguage links updated Čt lis 12 09:42:49 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:17 CEST 2021 -->

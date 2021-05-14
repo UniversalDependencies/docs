@@ -10,4 +10,4 @@ Adjectives are words that typically modify nouns and specify their properties or
 * *stor* "big"
 * *gammel* "old"
 * *grønn* "green"
-<!-- Interlanguage links updated Čt lis 12 09:42:49 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:17 CEST 2021 -->

@@ -21,4 +21,4 @@ We use this relation to label the manner adverbializer 地 _de_ when it follows 
 2	use"	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:30 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:09 CEST 2021 -->

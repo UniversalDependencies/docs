@@ -11,4 +11,4 @@ The `clf` relation is used for descriptive classifiers forming a unit with its h
 GÅ-IN(L) TILL SKOG RÖST-ANVÄNDA VAR GLOSA:(PF)@z SÅG HÅL@b RUND@kl \n [He] entered the forest and called out "Where are you?" and then saw a hole.
 ccomp(HÅL@b, RUND@kl)
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:18 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:56 CEST 2021 -->

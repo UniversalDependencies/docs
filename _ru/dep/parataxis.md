@@ -65,4 +65,4 @@ The `parataxis` relation is used to connect parts of the sentence written as exp
 Вашингтон ( CNN ) :
 parataxis(Вашингтон, CNN)
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:37 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:19 CEST 2021 -->

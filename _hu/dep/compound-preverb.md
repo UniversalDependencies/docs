@@ -14,4 +14,4 @@ advmod(jött, nem)
 compound:preverb(jött, el)
 ~~~
 
-<!-- Interlanguage links updated Čt lis 12 09:43:18 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:57 CEST 2021 -->

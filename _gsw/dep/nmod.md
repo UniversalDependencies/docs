@@ -30,4 +30,4 @@ Finally, `nmod` can also be used when a noun directly modifies an adverb.
 drei Monate später \n three months later
 nmod(später, Monate)
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:30 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:09 CEST 2021 -->

@@ -16,4 +16,4 @@ Some adverbs may be used attributively in the manner of [adjectives](ADJ).
 * [kk] _<b>әдетте</b>_ "usually"
 * [kk] _<b>өте</b> суық_ "<b>very</b> cold"
 
-<!-- Interlanguage links updated Čt lis 12 09:42:50 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:18 CEST 2021 -->

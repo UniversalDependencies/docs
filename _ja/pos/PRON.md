@@ -21,4 +21,4 @@ instead of labeling [DET]() or [PRON]().
 - personal pronouns (3rd person): _<b>彼</b>_ “he”, _<b>彼女</b>_  “she” (`pronoun` / 代名詞)
 - interrogative pronouns:_<b>何</b>_ “what”, _<b>誰</b>_ “who”, _<b>いつ</b>_ “when”, _<b>どこ</b>_ “where” (`pronoun` / 代名詞)
 - _<b>ここ</b>_ “here”, _<b>そこ</b>&nbsp;_ “there” (`pronoun` / 代名詞)
-<!-- Interlanguage links updated Čt lis 12 09:42:55 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:23 CEST 2021 -->

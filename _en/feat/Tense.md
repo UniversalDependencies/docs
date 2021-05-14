@@ -28,4 +28,4 @@ The past tense denotes actions that happened before the current moment. All verb
 * _She <b>went</b> home._
 
 Note that the pluperfect and future tenses in English are constructed periphrastically. For example, _I <b>had been</b> there_ is past perfect (pluperfect) tense, formed periphrastically by the simple past tense of the auxiliary _to have_ and the past participle of the main verb _to be_. The auxiliary will be tagged `VerbForm=Fin|Mood=Ind|Tense=Past` and the participle will have `VerbForm=Part|Tense=Past`; none of the two will have `Tense=Pqp`.
-<!-- Interlanguage links updated Čt lis 12 09:43:07 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:41 CEST 2021 -->

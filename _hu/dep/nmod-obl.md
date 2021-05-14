@@ -19,4 +19,4 @@ punct(élelmiszert, "-5)
 nmod:att(programot, élelmiszert)
 ~~~
 
-<!-- Interlanguage links updated Čt lis 12 09:43:30 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:11 CEST 2021 -->

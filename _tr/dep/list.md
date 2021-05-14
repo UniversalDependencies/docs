@@ -16,4 +16,4 @@ list(Ali, email)
 appos(tel, 555-55-55)
 appos(email, ali@example.com)
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:29 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:08 CEST 2021 -->

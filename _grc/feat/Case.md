@@ -50,4 +50,4 @@ it could be tagged as [ADV]()):
 
 * _Ἀθήνησιν_ / _Athḗnēsin_ “in Athens”
 
-<!-- Interlanguage links updated Čt lis 12 09:43:00 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:28 CEST 2021 -->

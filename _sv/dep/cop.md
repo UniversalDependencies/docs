@@ -58,4 +58,4 @@ Vad är det ? \n What is that ?
 cop(Vad, är)
 nsubj(Vad, det)
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:21 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:58 CEST 2021 -->

@@ -5,4 +5,4 @@ shortdef: 'interjection'
 ---
 
 The English `INTJ` corresponds to the PTB UH.
-<!-- Interlanguage links updated Čt lis 12 09:42:53 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:20 CEST 2021 -->

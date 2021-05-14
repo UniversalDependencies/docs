@@ -44,4 +44,4 @@ The `nmod:poss` relation is used between a nominal clause and its possessive det
 8	Headquarters	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:32 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:11 CEST 2021 -->

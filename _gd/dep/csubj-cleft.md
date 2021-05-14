@@ -33,3 +33,4 @@ Sann á bàrdachd a bha iad a' faighinn am beò-shlàint. \n COP EXPL from poetr
 csubj:cleft(bàrdachd, bha)
 cop(bàrdachd, Sann)
 ~~~
+<!-- Interlanguage links updated Pá kvě 14 11:09:00 CEST 2021 -->

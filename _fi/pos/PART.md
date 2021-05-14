@@ -21,4 +21,4 @@ The FI_FTB-corpus follows the general UD documentation in recognizing
 the particle as a part-of-speech category. The specification between PART,
 ADV and ADP has been carried out as in
 [ISK § 792](http://scripta.kotus.fi/visk/sisallys.php?p=792) (in Finnish).
-<!-- Interlanguage links updated Čt lis 12 09:42:54 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:22 CEST 2021 -->

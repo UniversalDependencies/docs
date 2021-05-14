@@ -24,4 +24,4 @@ Note that particles like _այո_ “yes”, _ոչ, չէ_ “no”, _անշու�
 - Wish particle: _երանի, երնեկ_
 - Volition particle: _ապա, դե, թող_
 - Mood particle: _(չ)պիտի, (չ)պետք է_
-<!-- Interlanguage links updated Čt lis 12 09:42:54 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:22 CEST 2021 -->

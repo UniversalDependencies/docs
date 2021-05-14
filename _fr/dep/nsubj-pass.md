@@ -11,4 +11,4 @@ A passive nominal subject is a noun phrase which is the syntactic subject of a p
 La course a été gagnée par le plus jeune participant . \n The race got won by the youngest participant .
 nsubj:pass(gagnée, course)
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:33 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:13 CEST 2021 -->

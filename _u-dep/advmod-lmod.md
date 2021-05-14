@@ -14,4 +14,4 @@ Han bøjer sig ned . \n He bends himself down .
 advmod:lmod(bøjer, ned)
 ~~~
 
-<!-- Interlanguage links updated Čt lis 12 09:43:36 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:48 CEST 2021 -->

@@ -37,4 +37,4 @@ We introduce this relation to distinguish these elements, which are subcategoriz
 4	to	_	_	_	_	0	_	_	_
 5	accidents	_	_	_	_	0	_	_	_
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:36 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:17 CEST 2021 -->

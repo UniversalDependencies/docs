@@ -86,4 +86,4 @@ The conjunctive is also used to express volition in both proclamations and quest
 
 * [mdf] _Цёранянди <b>шачелеть</b>, сяда кице удалаль,..._ "<b>Had you been born</b> a man, your road would have succeeded better,..."
 
-<!-- Interlanguage links updated Čt lis 12 09:43:03 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:34 CEST 2021 -->

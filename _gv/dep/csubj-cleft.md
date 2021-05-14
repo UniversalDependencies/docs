@@ -41,3 +41,4 @@ nsubj(ta, smooinaghtyn)
 nmod(smooinaghtyn, deiney)
 amod(deiney, marvaanagh)
 ~~~
+<!-- Interlanguage links updated Pá kvě 14 11:09:00 CEST 2021 -->

@@ -12,4 +12,4 @@ A numeral is word functioning as a determiner, if it is a [cardinal number](bm-f
 See [DET]() for determiners.
 
 
-<!-- Interlanguage links updated Čt lis 12 09:42:54 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:21 CEST 2021 -->

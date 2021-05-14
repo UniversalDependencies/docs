@@ -26,4 +26,4 @@ In the same way, all adjectival participles are classified as adjectives, regard
 All adjectives are converted to `ADJ`. In addition to that, some numerals also become `ADJ`, namely: numerals with Form=letter and Type=ordinal; numeral with Form=letter, Type=pronominal and lemma _drug_; numerals with Form=letter, Type=special and lemma ending in _-en_.
 
 
-<!-- Interlanguage links updated Čt lis 12 09:42:49 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:17 CEST 2021 -->

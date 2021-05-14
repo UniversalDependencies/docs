@@ -17,4 +17,4 @@ punct(жүгірді-5, .-6)
 obl(жүгірді-5, ағашқа-3)
 ~~~
 
-<!-- Interlanguage links updated Čt lis 12 09:43:39 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:21 CEST 2021 -->

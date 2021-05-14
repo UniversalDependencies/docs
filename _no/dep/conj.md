@@ -19,4 +19,4 @@ punct(piggvar-3,,-2)
 conj(Kamskjell-1,lammefilet-5)
 cc(lammefilet-5,og-4)
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:20 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:57 CEST 2021 -->

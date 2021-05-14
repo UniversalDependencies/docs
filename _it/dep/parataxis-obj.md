@@ -17,4 +17,4 @@ parataxis:obj(Leggete, innesca)
 Grillo avverte : " Dopo la Lega colpiranno anche noi "
 parataxis:obj(avverte, colpiranno) 
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:37 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:20 CEST 2021 -->

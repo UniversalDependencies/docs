@@ -24,3 +24,4 @@ xcomp(ketahuan, buta)
 compound:a(buta, aksara)
 xcomp(caught, illiterate)
 ~~~
+<!-- Interlanguage links updated Pá kvě 14 11:08:56 CEST 2021 -->

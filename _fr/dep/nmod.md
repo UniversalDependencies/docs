@@ -34,4 +34,4 @@ case(monde,du)
 ~~~
 
 N.B.: Apart from the usual `nmod` relation, **UD_French-Spoken** also uses the [nmod:appos]() relation for nominal modifiers which are not introduced by a preposition.
-<!-- Interlanguage links updated Čt lis 12 09:43:30 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:09 CEST 2021 -->

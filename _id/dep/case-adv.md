@@ -32,3 +32,4 @@ obl(menguntungkan, keseluruhan)
 case(keseluruhan, secara)
 ~~~
 
+<!-- Interlanguage links updated Pá kvě 14 11:08:53 CEST 2021 -->

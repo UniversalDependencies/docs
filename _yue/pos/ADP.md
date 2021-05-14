@@ -33,4 +33,4 @@ Localizers (also known as 方位詞 / _fong1wai2ci4_), typically indicate spatia
   - 度 / _dou6_ "\~place", 之後 / _zi1hau6_ "after", 之前 / _zi1cin4_ "before", 時 / _si4_ "during"
 
 
-<!-- Interlanguage links updated Čt lis 12 09:42:50 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:18 CEST 2021 -->

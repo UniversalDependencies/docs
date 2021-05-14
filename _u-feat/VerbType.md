@@ -91,4 +91,4 @@ yet their morphology is not verbal: they are more like frozen forms of adjective
 
 * [pl] _<b>można</b>_ “possible”, _<b>trzeba</b>_ “necessary”, _<b>warto</b>_ “worth”
 
-<!-- Interlanguage links updated Čt lis 12 09:43:08 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:43 CEST 2021 -->

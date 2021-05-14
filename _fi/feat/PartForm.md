@@ -65,4 +65,4 @@ participle forms.
 #### References
 
 * <http://kaino.kotus.fi/visk/sisallys.php?p=526> (in Finnish)
-<!-- Interlanguage links updated Čt lis 12 09:43:04 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:37 CEST 2021 -->

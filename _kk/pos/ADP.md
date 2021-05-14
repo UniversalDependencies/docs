@@ -13,4 +13,4 @@ izafet construction with their complement.
 * [kk] _дейін_ "until, up to", _кейін_ "after"
 * [kk] _ретінде_ "as", _бойынша_ "by"
 
-<!-- Interlanguage links updated Čt lis 12 09:42:49 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:17 CEST 2021 -->

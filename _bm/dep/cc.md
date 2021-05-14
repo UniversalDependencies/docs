@@ -24,4 +24,4 @@ The `cc` relation is used for coordinating conjunctions. The governor of the con
 
 'An egg and a chicken, they went to the place where lemons fell'.
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:16 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:54 CEST 2021 -->

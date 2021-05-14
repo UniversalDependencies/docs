@@ -34,4 +34,4 @@ advmod(ⲥⲟⲟⲩⲛ, ⲁⲛ)
 ~~~
 
 In this case, the word ⲏ ‘or’ is pointed to from the following conjunct ‘know’ with the usual function, `cc`, even though there is no `conj`.
-<!-- Interlanguage links updated Čt lis 12 09:43:16 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:54 CEST 2021 -->

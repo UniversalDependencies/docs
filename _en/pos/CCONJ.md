@@ -6,4 +6,4 @@ shortdef: 'coordinating conjunction'
 ---
 
 The English `CCONJ` corresponds to PTB CC.
-<!-- Interlanguage links updated Čt lis 12 09:42:51 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:19 CEST 2021 -->

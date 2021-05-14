@@ -11,3 +11,4 @@ tak / ʔeːgirim // ʔajaːj tak -i iː- fi =t amsi iraːnaj rh -i / oː= kina /
 text_en: "There was an old man of my family and, gosh! I even saw him today.
 discourse(rh, iraːnaj) ("see", "gosh")
 ~~~
+<!-- Interlanguage links updated Pá kvě 14 11:09:02 CEST 2021 -->

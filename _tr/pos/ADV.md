@@ -15,4 +15,4 @@ They may also modify other adverbs and nouns (see examples below).
 - _<b>çok</b> güzel okudu_ "he/she has read <b>very</b> well"
 - _<b>çok</b> güzel bir kız_ "a <b>very</b> pretty girl"
 - _evi <b>de</b> satmış_ "he/she sold the house <b>too</b>"
-<!-- Interlanguage links updated Čt lis 12 09:42:50 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:18 CEST 2021 -->

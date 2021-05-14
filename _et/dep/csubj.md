@@ -21,4 +21,4 @@ punct(meeldib-2, .-4)
 csubj(like,think)
 ~~~
 
-<!-- Interlanguage links updated Čt lis 12 09:43:21 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:59 CEST 2021 -->

@@ -12,3 +12,4 @@ Se nkun nista' noħroġ ? \n Will I be able to get out ?
 aux:part(nista', Se)
 aux(nista', nkun)
 ~~~
+<!-- Interlanguage links updated Pá kvě 14 11:08:52 CEST 2021 -->

@@ -23,4 +23,4 @@ Its value distinguishes whether we are talking about something known and concret
 * _bu_ "this"
 * _bütün_ "all"
 * _her_ "all/each"
-<!-- Interlanguage links updated Čt lis 12 09:43:01 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:30 CEST 2021 -->

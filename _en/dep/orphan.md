@@ -53,4 +53,4 @@ cc(will-7, and-5)
 nsubj(will-7, Mary-6)
 advmod(will-7, too-8)
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:36 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:18 CEST 2021 -->

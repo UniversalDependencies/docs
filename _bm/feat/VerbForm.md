@@ -31,4 +31,4 @@ Verbal nouns are derived from verbs by using a suffix -li.
 #### Example
 
 * _Fàntá ká dɔ́kili <b>dáli</b> ká dí né mà._ "The way Fanta sings appeals to me".
-<!-- Interlanguage links updated Čt lis 12 09:43:07 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:42 CEST 2021 -->

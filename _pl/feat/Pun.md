@@ -30,4 +30,4 @@ token).
 
 * _5 <b>tys</b>. dolarów_ “5 thousand dollars”
 
-<!-- Interlanguage links updated Čt lis 12 09:43:07 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:40 CEST 2021 -->

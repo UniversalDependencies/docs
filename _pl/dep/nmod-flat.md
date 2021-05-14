@@ -34,4 +34,4 @@ The `nmod:flat` relation is used in the Polish [PDB-UD](http://universaldependen
 10	place	_	_	_	_	_	_	_	_
 11	.	_	_	_	_	_	_	_	_
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:31 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:10 CEST 2021 -->

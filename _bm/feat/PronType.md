@@ -56,4 +56,4 @@ Personal pronouns in Bamana have two series: basic one and emphatic one. The use
 
 * _né, é, àlé, ánw, áw, òlu_
 
-<!-- Interlanguage links updated Čt lis 12 09:43:06 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:39 CEST 2021 -->

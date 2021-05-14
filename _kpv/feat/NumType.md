@@ -48,4 +48,4 @@ This is subtype of adverb.
 * [fi] _медводзаысь, мӧдысь, коймӧдысь_ "_for the first time, for the second time, for the third time_"
 
 (TODO: others from <http://universaldependencies.org/u/feat/NumType.html>?)
-<!-- Interlanguage links updated Čt lis 12 09:43:04 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:36 CEST 2021 -->

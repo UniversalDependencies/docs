@@ -44,4 +44,4 @@ Some personal pronouns have double forms.
 
 * _<b>mi</b> “me”
 
-<!-- Interlanguage links updated Čt lis 12 09:43:07 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:42 CEST 2021 -->

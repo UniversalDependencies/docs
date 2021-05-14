@@ -35,4 +35,4 @@ All pronouns with feature Owner_gender=masculine are converted to `Gender[psor]=
 Note that JOS annotation scheme does not assign possessor's gender to possessive adjectives. For example, the possessive adjectival word form _sinova_ (son's) in _sinova mama_ "son's mother" is currently annotated with `Gender=Fem`, whereas it should be annotated with `Gender[psor]=Masc|Gender=Fem` in the future.
 
 
-<!-- Interlanguage links updated Čt lis 12 09:43:02 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:33 CEST 2021 -->

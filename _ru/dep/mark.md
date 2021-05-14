@@ -31,4 +31,4 @@ and are labeled according to their role in the frame, they are not `mark`:
 advmod(поступят, когда)
 advmod(arrive, when)
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:29 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:08 CEST 2021 -->

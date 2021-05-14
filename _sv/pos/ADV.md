@@ -19,4 +19,4 @@ are still tagged `ADV` and not [PART]().
 - _<b>mycket</b> brådskande_ "<b>very</b> urgent"
 - _samtidigt_ "simultaneously"
 - _det är <b>bara</b>_ "it is <b>only</b>"
-<!-- Interlanguage links updated Čt lis 12 09:42:50 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:18 CEST 2021 -->

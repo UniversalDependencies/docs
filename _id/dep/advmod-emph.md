@@ -39,3 +39,4 @@ nsubj(peduli, seorang)
 punct(peduli, .)
 ~~~
 
+<!-- Interlanguage links updated Pá kvě 14 11:08:48 CEST 2021 -->

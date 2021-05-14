@@ -19,4 +19,4 @@ A coordinating conjunction is a word that links words or larger constituents wit
 - "but"
   - 但 / _dàn_, 但是 / _dànshì_
   
-<!-- Interlanguage links updated Čt lis 12 09:42:52 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:20 CEST 2021 -->

@@ -39,4 +39,4 @@ In addition, several types of (non-pronominal) numerals, such as ordinal numeral
   If they inflect as nouns, they are tagged [NOUN](); but the borderline is fuzzy.
   For instance, in phrases like _<b>тисячі</b> людей взяли участь в демонстації&nbsp;_ (“<b>thousands</b> of people demonstrated in the streets”),   _тисячі&nbsp;_ is a noun.
   In numeric expressions, e.g. _132 <b>тисячі</b> доларів&nbsp;_ (“132 <b>thousand</b> dollars”), it is a cardinal numeral.
-<!-- Interlanguage links updated Čt lis 12 09:42:54 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:22 CEST 2021 -->

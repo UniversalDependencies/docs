@@ -81,4 +81,4 @@ also as a conjunction.
 * <http://cowgill.ling.yale.edu/sra/clitics_iel.htm>
 * <http://scripta.kotus.fi/visk/sisallys.php?p=126> (in Finnish)
 * <http://scripta.kotus.fi/visk/sisallys.php?p=1635> (in Finnish)
-<!-- Interlanguage links updated Čt lis 12 09:43:00 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:29 CEST 2021 -->

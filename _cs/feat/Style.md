@@ -76,4 +76,4 @@ Typical examples of expressive words in the Czech data are diminutives:
 #### Examples
 
 * _<b>parchant, suchoprd, bordel, nablito</b>_ “bastard, weed, mess, barfed”
-<!-- Interlanguage links updated Čt lis 12 09:43:06 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:41 CEST 2021 -->

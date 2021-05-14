@@ -25,4 +25,4 @@ The `advcl` relation is used between an adverbial clause and the verb or other p
 ~~~
 
 'If he comes, I will cry'.
-<!-- Interlanguage links updated Čt lis 12 09:43:10 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:45 CEST 2021 -->

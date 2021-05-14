@@ -29,4 +29,4 @@ compounds (the independent form would be _անգլիական_). The form _գնա
 * _<b>հեռուստա</b>- և ռադիոհեռարձակում&nbsp;_ “TV and radio broadcasting”
 * _<b>ֆրանս</b>-գերմանական&nbsp;_ “french-german”
 * _<b>գնալ</b>-գալու&nbsp;_ “going-coming”
-<!-- Interlanguage links updated Čt lis 12 09:43:02 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:33 CEST 2021 -->

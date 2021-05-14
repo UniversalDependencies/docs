@@ -23,4 +23,4 @@ The subject-object conjugation generally indicates the presence of a definite ob
 
 * _Шабась <b>сивсь</b> марь._ “The child ate an apple.”
 
-<!-- Interlanguage links updated Čt lis 12 09:43:07 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:42 CEST 2021 -->

@@ -21,4 +21,4 @@ list(TT, Prince)
 list(TT, Lega)
 ~~~
 
-<!-- Interlanguage links updated Čt lis 12 09:43:29 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:08 CEST 2021 -->

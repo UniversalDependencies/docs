@@ -15,4 +15,4 @@ Swedish has prepositions but not postpositions (except in a few fixed archaic ph
 - _i_ "in/on"
 - _på_ "of/at"
 - _genom_ "through/via"
-<!-- Interlanguage links updated Čt lis 12 09:42:50 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:18 CEST 2021 -->

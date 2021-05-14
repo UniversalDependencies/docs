@@ -46,4 +46,4 @@ advmod(τρία, Περίπου)
 Τα τρία περίπου χρόνια που έλειπε
 advmod(τρία, περίπου)
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:11 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:47 CEST 2021 -->

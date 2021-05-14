@@ -19,3 +19,4 @@ They can be treated as case markers.
 - _haːj_ (comitative)
 - _=ka_ (distributive)
 - _suːr_ "before"
+<!-- Interlanguage links updated Pá kvě 14 11:08:17 CEST 2021 -->

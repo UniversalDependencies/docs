@@ -35,4 +35,4 @@ so e.g. the English personal name _George&nbsp;_ is marked as foreign even thoug
 would not normally be translated (except for names of rulers and saints, which would become _Jiří_).
 
 Articles in foreign names _(the, die, le)&nbsp;_ are tagged [cs-pos/ADJ](), not [cs-pos/DET]().
-<!-- Interlanguage links updated Čt lis 12 09:43:02 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:32 CEST 2021 -->

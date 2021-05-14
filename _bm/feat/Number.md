@@ -33,4 +33,4 @@ In the treebank, `Number=Sing` is not used with nouns but it occurs with pronoun
 * _Cɛkɔrɔba n'a <b>denw</b>_ “old.man and his <b>children</b>”
 
 
-<!-- Interlanguage links updated Čt lis 12 09:43:03 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:35 CEST 2021 -->

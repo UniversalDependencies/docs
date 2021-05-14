@@ -46,4 +46,4 @@ Expresses additive adverbal _too, even_.
 * [mdf] _Эста самолёт<b>овок</b> теень афоль эряв,..._ "Then I wouldn't <b>even</b> have needed an airplane,..."
 
 
-<!-- Interlanguage links updated Čt lis 12 09:43:00 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:29 CEST 2021 -->

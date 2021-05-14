@@ -28,4 +28,4 @@ In accordance with the universal recommendations on delimiting [determiners](htt
 #### Conversion from JOS
 
 The `DET` category has been assigned to JOS adverbs and pronouns occurring on a pre-defined list of lemmas. This list includes pronouns and adverbs occurring in the ssj500k corpus and/or the Sloleks morphological lexicon with a manually confirmed predominant attributive usage.  
-<!-- Interlanguage links updated Čt lis 12 09:42:52 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:20 CEST 2021 -->

@@ -50,4 +50,4 @@ and (v) certain other absolutive nominal constructions.
 
 A temporal modifier [nmod:tmod]() is a subclass of npmod which is
 distinguished as a separate relation.
-<!-- Interlanguage links updated Čt lis 12 09:43:31 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:11 CEST 2021 -->

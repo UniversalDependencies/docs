@@ -13,4 +13,4 @@ Particles are function words that must be associated with another word or phrase
 ### Examples
 - _ci,là_ in demonstrative determiners such as _ce gars-<b>ci</b>_ "this guy"
 - euphonic _t_ in "a-<b>t</b>-il" for example
-<!-- Interlanguage links updated Čt lis 12 09:42:54 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:22 CEST 2021 -->

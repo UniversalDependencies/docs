@@ -18,4 +18,4 @@ discourse(айта-5, Жоқ-1)
 aux(айта-5, алмаймын-6)
 ~~~
 
-<!-- Interlanguage links updated Čt lis 12 09:43:39 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:22 CEST 2021 -->

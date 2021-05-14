@@ -38,4 +38,4 @@ Excludes the listener, i.e. _we_ = _I + they._
 
 * [gun] _Ore upecha orejaryi <b>orereroayvu</b>._ “Our grandmothers advised us (me+them) like this.” (lit. 1.PL.EXCL like.this B1.PL.EXCL-grandmother B1.PL.EXCL-R-COM-speak)
 
-<!-- Interlanguage links updated Čt lis 12 09:42:59 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:29 CEST 2021 -->

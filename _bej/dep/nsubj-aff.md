@@ -16,3 +16,4 @@ nsubj:aff(tam, -ja) ("eat", Person Number Gender)
 ~~~
 
 
+<!-- Interlanguage links updated Pá kvě 14 11:09:12 CEST 2021 -->

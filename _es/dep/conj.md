@@ -11,4 +11,4 @@ A conjunct is the relation between two elements connected by a coordinating conj
 María es guapa y simpática . \n Maria is pretty and friendly .
 conj(guapa, simpática)
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:19 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:57 CEST 2021 -->

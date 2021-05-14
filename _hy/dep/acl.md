@@ -45,4 +45,4 @@ These are also analyzed as `acl`.
 acl(այն, գալու)
 acl(it, came)
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:09 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:44 CEST 2021 -->

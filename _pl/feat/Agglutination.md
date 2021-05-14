@@ -43,4 +43,4 @@ This feature is currently used in the LFG treebank but not in PDB and PUD.
 * _Fortecki <b>mógł</b>by udźwignąć każdy ciężar._ “Fortecki could bear any weight.”
 * _Któż z marynarzy w dawnych czasach <b>mógł</b> sobie na to pozwolić._ “Which seaman could afford it in the old days?”
 
-<!-- Interlanguage links updated Čt lis 12 09:43:00 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:27 CEST 2021 -->

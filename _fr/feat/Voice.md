@@ -17,4 +17,4 @@ or an object of the verb.
 
 * _Dans quel cas Angiox est-il <b>utilisé</b> ?_ “What is Angiox <b>used</b> for?”
 
-<!-- Interlanguage links updated Čt lis 12 09:43:08 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:43 CEST 2021 -->

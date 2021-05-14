@@ -16,4 +16,4 @@ nmod:poss(тев-4, мень-3)
 csubj:cop(тев-4, киян-5)
 nsubj(киян-5, мон-6)
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:22 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:00 CEST 2021 -->

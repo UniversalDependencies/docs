@@ -28,4 +28,4 @@ We also mark these expressions as `ADP` when they are used as postpositions
 Aslı Göksel and Celia Kerslake. _Turkish: A Comprehensive Grammar_.
 London: Routledge, 2005.
 
-<!-- Interlanguage links updated Čt lis 12 09:42:50 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:18 CEST 2021 -->

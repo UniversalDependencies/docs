@@ -24,3 +24,4 @@ column. (Which means that empty value has the `No` meaning.)
 
 #### Examples
 - _kina_ (pronoun which can be translated by "owner")
+<!-- Interlanguage links updated Pá kvě 14 11:08:40 CEST 2021 -->

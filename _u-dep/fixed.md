@@ -43,4 +43,4 @@ Je préfère prendre un dessert plutôt qu' une entrée \n I prefer getting a de
 fixed(plutôt, qu')
 ~~~
 
-<!-- Interlanguage links updated Čt lis 12 09:43:26 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:05 CEST 2021 -->

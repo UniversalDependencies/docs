@@ -20,4 +20,4 @@ In accordance with the UD guidelines, only cardinal numbers are tagged as NUM, w
 
 Smyth, Herbert Weir. 1920. _A Greek Grammar for Colleges_. New York: American Book Company (<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">Perseus Digital Library</a>; 
 <a href="https://archive.org/details/agreekgrammarfo02smytgoog" target="_blank">Internet Archive</a>).
-<!-- Interlanguage links updated Čt lis 12 09:42:54 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:22 CEST 2021 -->

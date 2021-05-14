@@ -67,4 +67,4 @@ Typical examples of expressive words in the Armenian data are diminutives:
 #### Examples
 
 * _էծ, ուլ, պոռնիկ, ռեխ, զխտվել, շնթռել, լակել, սիկտիր, տուտուց_
-<!-- Interlanguage links updated Čt lis 12 09:43:07 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:41 CEST 2021 -->

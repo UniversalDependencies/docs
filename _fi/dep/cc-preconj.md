@@ -34,4 +34,4 @@ Such two-part coordinating conjunctions are:
 * _toisaalta ... toisaalta_ "on the one hand ... on the other hand"
 * _vuoroin ... vuoroin_ "in turn ... in turn"
 * _yhtä lailla ... kuin_ (+kin) "as much ... as also"
-<!-- Interlanguage links updated Čt lis 12 09:43:17 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:55 CEST 2021 -->

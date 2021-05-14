@@ -61,4 +61,4 @@ nummod(hours, from-ten)
 ~~~
 
 `compound` in Armenian is used also for serial verbs (with the subtype [compound:svc]()), for light verbs (with the subtype [compound:lvc]()) and for a range of reduplicated forms (with the subtype [compound:redup]()).
-<!-- Interlanguage links updated Čt lis 12 09:43:18 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:56 CEST 2021 -->

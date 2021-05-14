@@ -20,4 +20,4 @@ As a special case of interjections, the universal tagging scheme also recognizes
 #### Conversion from JOS.
 
 All JOS interjections become `INTJ`.
-<!-- Interlanguage links updated Čt lis 12 09:42:53 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:21 CEST 2021 -->

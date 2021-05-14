@@ -40,4 +40,4 @@ instead of modifying them.)
 
 * [cs] _<b>tři</b>_ "three"
 * [cs] _<b>čtyři</b>_ "four"
-<!-- Interlanguage links updated Čt lis 12 09:43:04 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:37 CEST 2021 -->

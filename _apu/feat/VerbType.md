@@ -14,4 +14,4 @@ This is a subtype of intransitive verbs. The `Vids` value for intranstive descri
 * [apu] _Kutxi aiku kasunakyry._ "_Thus the house was leaky_"
 
 
-<!-- Interlanguage links updated Čt lis 12 09:43:04 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:43 CEST 2021 -->

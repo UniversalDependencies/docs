@@ -13,4 +13,4 @@ as subjects in a passive clause.
 Pedro ha sido invitado por Juan . \n Pedro has been invited by Juan .
 nsubj:pass(invitado, Pedro)
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:33 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:09:13 CEST 2021 -->

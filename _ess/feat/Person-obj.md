@@ -23,3 +23,4 @@ The Yupik transitive verb inflects for the person (and number) of object. If obj
 #### Examples
 
 * [ess] _<b>Neghaqa</b> perara ellnginaan._ "<b>I ate</b> the meat aspic only." The verb ending _qa_ `Person[obj]=3` in _neghaqa_ agrees with the object _perara_ "meat aspic" in person.
+<!-- Interlanguage links updated Pá kvě 14 11:08:38 CEST 2021 -->

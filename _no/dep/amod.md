@@ -16,4 +16,4 @@ amod(domstolen,internasjonale)
 Samtidig finnes det en åpenbar likhet \n At the same time there is an obvious similarity
 amod(likhet,åpenbar)
 ~~~
-<!-- Interlanguage links updated Čt lis 12 09:43:12 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:50 CEST 2021 -->

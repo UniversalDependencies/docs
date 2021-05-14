@@ -52,4 +52,4 @@ Draws attention to mutual knowledge.
 
 * [kpv] _Ме ог зэв вӧлі пукси шойтчыныяс<b>тӧ</b>_ "I was not the kind who would sit down and rest <b>you see</b>"
 
-<!-- Interlanguage links updated Čt lis 12 09:43:00 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:29 CEST 2021 -->

@@ -14,4 +14,4 @@ non-past and `Past` for common past, unless language has more complex tense
 system. Many grammars give descriptions of e.g. perfect and pluperfect tenses,
 but if it's based on auxiliary verb constructions, this is not marked on UD
 level.
-<!-- Interlanguage links updated Čt lis 12 09:43:07 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:41 CEST 2021 -->

@@ -30,4 +30,4 @@ position, they are marked as `Nom`, while if they appear in object position or i
 
 Reflexive pronouns only have this feature if they are used in object position and not if they are used as intensive pronouns.
 
-<!-- Interlanguage links updated Čt lis 12 09:43:00 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:28 CEST 2021 -->

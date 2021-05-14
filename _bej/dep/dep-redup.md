@@ -13,3 +13,4 @@ moːk -eː moːk -eː moːk -eː uːn uː= biri / diːseːt ʔit -ja -n =hoːb /
 text_en: "I sheltered for a long time and when thist rain decreased slowly, a man came towards me", he said.
 dep:redup(mok, mok) ("take_shelter", "take_shelter")
 ~~~
+<!-- Interlanguage links updated Pá kvě 14 11:09:01 CEST 2021 -->

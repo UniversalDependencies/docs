@@ -50,4 +50,4 @@ obj(despite, obligations)
 ~~~
 
 Some inflected postpositions / localizers (traditionally known as “improper adpositions”), are labeled with [case:loc]() instead.
-<!-- Interlanguage links updated Čt lis 12 09:43:15 CET 2020 -->
+<!-- Interlanguage links updated Pá kvě 14 11:08:53 CEST 2021 -->

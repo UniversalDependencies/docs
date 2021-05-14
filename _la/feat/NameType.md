@@ -150,3 +150,4 @@ Names of other entities not covered by the existing features, such as buildings,
 #### Examples
 
 * ***Colosseum***, originally named *Amphitheatrum Flavium*
+<!-- Interlanguage links updated Pá kvě 14 11:08:34 CEST 2021 -->
