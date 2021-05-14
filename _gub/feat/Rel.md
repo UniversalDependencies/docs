@@ -1,4 +1,3 @@
-
 ---
 layout: feature
 title: 'Rel'
@@ -12,13 +11,13 @@ udver: '2'
   <td><a href="#Cont">Cont</a></td>
   <td><a href="#NCont">NCont</a></td>
   <td><a href="#Abs">Abs</a></td>
-  
-  
+
+
 </tr>
 </table>
 
-`Rel` is a morpheme that combines with lexical roots and postpositions. They signalize the 
-adjacency or contiguity (Rel=Cont) and non-adjacency or non-contiguity of head and depenent, 
+`Rel` is a morpheme that combines with lexical roots and postpositions. They signalize the
+adjacency or contiguity (Rel=Cont) and non-adjacency or non-contiguity of head and depenent,
 e.g., possessor-noun, object-postposition.
 
 ### <a name="Cont">`Cont`</a>: contiguous

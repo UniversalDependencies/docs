@@ -1,4 +1,3 @@
-
 ---
 layout: feature
 title: 'Red'
@@ -11,16 +10,16 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Mo">Mo</a></td>
   <td><a href="#Di">Di</a></td>
- 
-  
+
+
 
 </tr>
 </table>
 
-`Red`  
+`Red`
 
 
-### <a name="Mo">`Mo`</a>: Monosylabic 
+### <a name="Mo">`Mo`</a>: Monosylabic
 
 Monosylabic reduplication
 
@@ -38,7 +37,7 @@ Disylabic reduplication
 #### Examples
 
 * _<b>uxi'uxi'u</b>&nbsp;_ “To chew”
-  
+
 
 
 
