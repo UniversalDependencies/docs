@@ -1,1425 +1,405 @@
 ---
 layout: base
-title:  'Language-Specific Relations'
-udver:  '2'
+title:  'Relation Subtypes'
+udver: '2'
 ---
 
-# Language-Specific Relations
+# Relation Subtypes in the Data
 
-In addition to the universal dependency taxonomy, it is desirable to recognize grammatical relations that are particular to one language or a small group of related languages. Such language-specific relations are necessary to accurately capture the genius of a particular language but will not involve concepts that generalize broadly. These language-specific relations should always be regarded as a subtype of an existing UD relation.
+In addition to the universal dependency taxonomy, it is desirable to recognize grammatical relations that are particular to one language or a small group of related languages.
+Such language-specific relations are necessary to accurately capture the genius of a particular language but will not involve concepts that generalize broadly.
+These language-specific relations should always be regarded as a subtype of an existing UD relation.
 
 Labels of language-specific relations explictly encode the core UD relation that the language-specific relation is a subtype of, following the format *universal:extension*.
+
+This is an automatically generated list of relation subtypes that occur in the UD data.
 
 
 
 ## acl
-- [acl:adv]():
-Ukrainian
-- [acl:appos]():
-Latin
-- [acl:attr]():
-Chukchi
-- [acl:cleft]():
-Faroese,
-Norwegian,
-Swedish
-- [acl:focus]():
-Breton
-- [acl:inf]():
-Portuguese
-- [acl:part]():
-Portuguese
-- [acl:periph]():
-Naija
-- [acl:poss]():
-Kazakh
-- [acl:relat]():
-Chukchi
-- [acl:relcl]():
-Akkadian,
-Albanian,
-Apurina,
-Arabic,
-Armenian,
-Assyrian,
-Belarusian,
-Breton,
-Bulgarian,
-Chinese,
-Czech,
-Danish,
-Dutch,
-English,
-Erzya,
-Estonian,
-Faroese,
-Finnish,
-French,
-German,
-Greek,
-Hebrew,
-Hindi,
-Hindi English,
-Icelandic,
-Indonesian,
-Irish,
-Italian,
-Karelian,
-Kazakh,
-Komi Permyak,
-Komi Zyrian,
-Korean,
-Latin,
-Lithuanian,
-Livvi,
-Manx,
-Marathi,
-Moksha,
-Naija,
-North Sami,
-Norwegian,
-Old French,
-Old Russian,
-Persian,
-Polish,
-Portuguese,
-Russian,
-Sanskrit,
-Scottish Gaelic,
-Slovak,
-Spanish,
-Swedish,
-Swedish Sign Language,
-Swiss German,
-Tagalog,
-Tamil,
-Telugu,
-Thai,
-Ukrainian,
-Urdu,
-Welsh,
-Wolof
+* [acl:adv](): Ukrainian
+* [acl:attr](): Chukchi
+* [acl:cleft](): Norwegian, Swedish
+* [acl:fixed](): Beja
+* [acl:inf](): Portuguese
+* [acl:relat](): Chukchi
+* [acl:relcl](): Akkadian, Albanian, Apurina, Arabic, Armenian, Assyrian, Beja, Belarusian, Breton, Bulgarian, Chinese, Czech, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, French, German, Greek, Hebrew, Hindi, Hindi English, Icelandic, Indonesian, Irish, Italian, Karelian, Kazakh, Komi Permyak, Komi Zyrian, Korean, Latin, Lithuanian, Livvi, Manx, Marathi, Moksha, Naija, North Sami, Norwegian, Old East Slavic, Old French, Persian, Polish, Portuguese, Russian, Sanskrit, Scottish Gaelic, Slovak, Spanish, Swedish, Swedish Sign Language, Swiss German, Tagalog, Tamil, Telugu, Thai, Ukrainian, Urdu, Welsh, Western Armenian, Wolof
 
 
 
 ## advcl
-- [advcl:appos]():
-Latin
-- [advcl:arg]():
-Latin
-- [advcl:cleft]():
-French,
-Naija
-- [advcl:cmpr]():
-Latin,
-Polish
-- [advcl:cond]():
-Tamil,
-Telugu,
-Uyghur
-- [advcl:coverb]():
-Cantonese
-- [advcl:emph]():
-Naija
-- [advcl:lmod]():
-Komi Permyak
-- [advcl:mmod]():
-Komi Permyak
-- [advcl:periph]():
-Naija
-- [advcl:pred]():
-Latin
-- [advcl:relcl]():
-Polish
-- [advcl:sp]():
-Ukrainian
-- [advcl:svc]():
-Ukrainian
-- [advcl:tcl]():
-Romanian
-- [advcl:tmod]():
-Apurina,
-Erzya,
-Komi Permyak,
-Komi Zyrian,
-Moksha,
-Skolt Sami
+* [advcl:abs](): Latin
+* [advcl:cau](): Moksha
+* [advcl:cleft](): French, Naija
+* [advcl:cmpr](): Latin, Polish
+* [advcl:cond](): Tamil, Telugu, Uyghur
+* [advcl:coverb](): Cantonese
+* [advcl:eval](): Komi Zyrian
+* [advcl:lcl](): Komi Permyak
+* [advcl:lto](): Komi Zyrian
+* [advcl:mcl](): Komi Permyak
+* [advcl:pred](): Latin
+* [advcl:relcl](): Polish, Western Armenian
+* [advcl:sp](): Ukrainian
+* [advcl:svc](): Ukrainian
+* [advcl:tcl](): Apurina, Erzya, Komi Permyak, Komi Zyrian, Moksha, Romanian, Skolt Sami
 
 
 
 ## advmod
-- [advmod:appos]():
-Latin
-- [advmod:arg]():
-Polish
-- [advmod:cc]():
-Latin
-- [advmod:deg]():
-Erzya,
-Komi Permyak,
-Komi Zyrian,
-Moksha
-- [advmod:det]():
-Ukrainian
-- [advmod:df]():
-Cantonese,
-Chinese
-- [advmod:emph]():
-Akkadian,
-Arabic,
-Armenian,
-Catalan,
-Chukchi,
-Croatian,
-Czech,
-Indonesian,
-Latin,
-Lithuanian,
-Naija,
-Polish,
-Sanskrit,
-Slovak,
-South Levantine Arabic,
-Tamil,
-Turkish,
-Turkish German,
-Upper Sorbian,
-Uyghur
-- [advmod:lmod]():
-Apurina,
-Erzya,
-Komi Permyak,
-Komi Zyrian,
-Moksha,
-Skolt Sami
-- [advmod:locy]():
-Hungarian
-- [advmod:mmod]():
-Erzya,
-Komi Permyak,
-Komi Zyrian,
-Moksha,
-Skolt Sami
-- [advmod:mode]():
-Hungarian
-- [advmod:neg]():
-Apurina,
-Breton,
-Buryat,
-Komi Zyrian,
-Kurmanji,
-Latin,
-Maltese,
-Polish,
-Skolt Sami
-- [advmod:obl]():
-Hungarian,
-Old French
-- [advmod:periph]():
-Naija
-- [advmod:que]():
-Hungarian
-- [advmod:tfrom]():
-Hungarian
-- [advmod:tlocy]():
-Hungarian
-- [advmod:tmod]():
-Apurina,
-Erzya,
-Komi Permyak,
-Komi Zyrian,
-Moksha,
-Romanian,
-Skolt Sami,
-Uyghur
-- [advmod:to]():
-Hungarian
-- [advmod:tto]():
-Hungarian
+* [advmod:arg](): Polish
+* [advmod:cau](): Erzya, Komi Zyrian, Moksha
+* [advmod:comp](): Erzya
+* [advmod:deg](): Erzya, Komi Permyak, Komi Zyrian, Moksha, Skolt Sami
+* [advmod:det](): Ukrainian
+* [advmod:df](): Cantonese, Chinese
+* [advmod:emph](): Akkadian, Arabic, Armenian, Catalan, Chukchi, Croatian, Czech, Indonesian, Komi Zyrian, Latin, Lithuanian, Polish, Sanskrit, Slovak, South Levantine Arabic, Tamil, Turkish, Turkish German, Upper Sorbian, Uyghur, Western Armenian
+* [advmod:eval](): Erzya, Komi Zyrian, Moksha, Skolt Sami
+* [advmod:fixed](): Beja
+* [advmod:foc](): Erzya, Komi Zyrian, Moksha, Skolt Sami
+* [advmod:freq](): Komi Zyrian, Moksha
+* [advmod:lfrom](): Erzya, Komi Zyrian, Moksha
+* [advmod:lmod](): Apurina, Danish, Erzya, Komi Permyak, Komi Zyrian, Moksha, Skolt Sami
+* [advmod:lmp](): Erzya, Komi Zyrian
+* [advmod:locy](): Hungarian
+* [advmod:lto](): Erzya, Komi Zyrian, Moksha
+* [advmod:mmod](): Erzya, Komi Permyak, Komi Zyrian, Moksha, Skolt Sami
+* [advmod:mode](): Hungarian
+* [advmod:neg](): Apurina, Buryat, Kiche, Kurmanji, Latin, Maltese, Polish, Skolt Sami
+* [advmod:obl](): Old French
+* [advmod:que](): Hungarian
+* [advmod:tfrom](): Hungarian
+* [advmod:tlocy](): Hungarian
+* [advmod:tmod](): Apurina, Erzya, Komi Permyak, Komi Zyrian, Moksha, Romanian, Skolt Sami
+* [advmod:to](): Hungarian
+* [advmod:tto](): Hungarian
 
 
 
 ## amod
-- [amod:advmod]():
-Latin
-- [amod:att]():
-Hungarian
-- [amod:attlvc]():
-Hungarian
-- [amod:emph]():
-Naija
-- [amod:flat]():
-Polish
-- [amod:mode]():
-Hungarian
-- [amod:obl]():
-Hungarian
+* [amod:att](): Hungarian
+* [amod:attlvc](): Hungarian
+* [amod:flat](): Polish
 
 
 
 ## appos
-- [appos:trans]():
-Turkish German
+* [appos:trans](): Turkish German
 
 
 
 ## aux
-- [aux:aglt]():
-Polish
-- [aux:aspect]():
-Chinese
-- [aux:caus]():
-Armenian,
-French
-- [aux:clitic]():
-Polish
-- [aux:cnd]():
-Erzya,
-Komi Permyak,
-Polish
-- [aux:ex]():
-Armenian
-- [aux:imp]():
-Erzya,
-Polish
-- [aux:mood]():
-Polish
-- [aux:neg]():
-Chukchi,
-Erzya,
-Komi Permyak,
-Komi Zyrian,
-Livvi,
-Maltese,
-Moksha,
-North Sami,
-Skolt Sami,
-Tamil
-- [aux:opt]():
-Erzya,
-Moksha
-- [aux:part]():
-Maltese
-- [aux:pass]():
-Afrikaans,
-Ancient Greek,
-Arabic,
-Belarusian,
-Bhojpuri,
-Breton,
-Bulgarian,
-Buryat,
-Chinese,
-Czech,
-Dutch,
-English,
-Faroese,
-Finnish,
-French,
-Galician,
-German,
-Hindi,
-Italian,
-Karelian,
-Latin,
-Latvian,
-Lithuanian,
-Maltese,
-Marathi,
-Norwegian,
-Old Church Slavonic,
-Old French,
-Old Russian,
-Persian,
-Polish,
-Portuguese,
-Romanian,
-Russian,
-Slovak,
-Spanish,
-Swedish,
-Swiss German,
-Tamil,
-Thai,
-Turkish German,
-Upper Sorbian,
-Vietnamese
-- [aux:poss]():
-Assyrian
-- [aux:q]():
-Erzya,
-Turkish,
-Turkish German,
-Uyghur
-- [aux:tense]():
-French
+* [aux:aff](): Beja
+* [aux:aspect](): Komi Zyrian
+* [aux:caus](): Armenian, French, Western Armenian
+* [aux:clitic](): Polish
+* [aux:cnd](): Erzya, Komi Permyak, Komi Zyrian, Polish
+* [aux:ex](): Armenian, Western Armenian
+* [aux:imp](): Erzya, Polish
+* [aux:nec](): Komi Zyrian, Moksha, Skolt Sami
+* [aux:neg](): Chukchi, Erzya, Komi Permyak, Komi Zyrian, Maltese, Moksha, North Sami, Skolt Sami, Tamil
+* [aux:opt](): Erzya, Moksha
+* [aux:part](): Maltese
+* [aux:pass](): Afrikaans, Ancient Greek, Arabic, Assyrian, Belarusian, Bhojpuri, Breton, Bulgarian, Buryat, Chinese, Czech, Dutch, English, Faroese, Finnish, French, Frisian Dutch, Galician, German, Hindi, Italian, Kangri, Karelian, Latin, Latvian, Lithuanian, Maltese, Marathi, Norwegian, Old Church Slavonic, Old East Slavic, Old French, Persian, Polish, Portuguese, Romanian, Russian, Slovak, Spanish, Swedish, Swiss German, Tamil, Thai, Turkish German, Upper Sorbian, Vietnamese
+* [aux:pot](): Komi Zyrian
+* [aux:q](): Erzya, Turkish, Turkish German
+* [aux:tense](): French, Komi Zyrian, Skolt Sami
 
 
 
 ## case
-- [case:acc]():
-Hebrew
-- [case:adv]():
-Indonesian
-- [case:circ]():
-Kurmanji
-- [case:dec]():
-Chinese
-- [case:det]():
-Maltese,
-Old French
-- [case:gen]():
-Hebrew
-- [case:loc]():
-Armenian,
-Cantonese,
-Chinese
-- [case:pred]():
-Welsh
-- [case:pref]():
-Chinese
-- [case:suff]():
-Chinese
-- [case:voc]():
-Irish,
-Scottish Gaelic
+* [case:acc](): Hebrew
+* [case:adv](): Indonesian
+* [case:aff](): Beja
+* [case:det](): Maltese, Old French
+* [case:gen](): Hebrew
+* [case:loc](): Armenian, Cantonese, Chinese, Western Armenian
+* [case:pred](): Welsh
+* [case:voc](): Irish, Scottish Gaelic
 
 
 
 ## cc
-- [cc:nc]():
-Old French
-- [cc:preconj]():
-Arabic,
-English,
-Erzya,
-Estonian,
-Faroese,
-Finnish,
-German,
-Indonesian,
-Komi Permyak,
-Moksha,
-North Sami,
-Persian,
-Polish,
-Portuguese,
-Romanian,
-Slovenian,
-Spanish,
-Thai,
-Turkish
+* [cc:nc](): Old French
+* [cc:preconj](): Arabic, English, Erzya, Estonian, Faroese, Finnish, German, Indonesian, Komi Permyak, Komi Zyrian, Moksha, North Sami, Persian, Polish, Portuguese, Romanian, Slovenian, Spanish, Thai, Turkish
 
 
 
 ## ccomp
-- [ccomp:agent]():
-French,
-Naija
-- [ccomp:cleft]():
-Polish
-- [ccomp:obj]():
-French,
-Hungarian,
-Naija,
-Polish
-- [ccomp:obl]():
-French,
-Hungarian,
-Naija
-- [ccomp:pmod]():
-Romanian
-- [ccomp:pred]():
-French,
-Hungarian,
-Naija
+* [ccomp:cleft](): Polish
+* [ccomp:obj](): Hungarian, Polish
+* [ccomp:obl](): Hungarian
+* [ccomp:pmod](): Romanian
+* [ccomp:pred](): Hungarian
 
 
 
 ## compound
-- [compound:a]():
-Indonesian
-- [compound:affix]():
-Hebrew
-- [compound:coll]():
-Erzya
-- [compound:conjv]():
-Hindi
-- [compound:dir]():
-Cantonese,
-Chinese
-- [compound:ext]():
-Cantonese,
-Chinese
-- [compound:lv]():
-Persian
-- [compound:lvc]():
-Armenian,
-Kazakh,
-Khunsari,
-Korean,
-Kurmanji,
-Marathi,
-Nayini,
-Persian,
-Soi,
-Telugu,
-Turkish,
-Turkish German,
-Uyghur
-- [compound:nn]():
-Finnish,
-Kurmanji,
-Livvi,
-North Sami
-- [compound:nv]():
-Tamil
-- [compound:plur]():
-Indonesian
-- [compound:preverb]():
-Hungarian
-- [compound:prt]():
-Afrikaans,
-Arabic,
-Danish,
-Dutch,
-English,
-Erzya,
-Estonian,
-Faroese,
-Finnish,
-German,
-Icelandic,
-Irish,
-Karelian,
-Komi Permyak,
-Naija,
-Norwegian,
-Persian,
-Spanish,
-Swedish,
-Swedish Sign Language,
-Swiss German,
-Tamil,
-Thai,
-Turkish German,
-Wolof,
-Yoruba
-- [compound:quant]():
-Cantonese
-- [compound:redup]():
-Armenian,
-Bambara,
-Classical Chinese,
-Erzya,
-Hindi,
-Kurmanji,
-Marathi,
-Naija,
-Tagalog,
-Tamil,
-Telugu,
-Turkish,
-Turkish German,
-Uyghur,
-Welsh
-- [compound:smixut]():
-Hebrew
-- [compound:svc]():
-Amharic,
-Armenian,
-Erzya,
-Marathi,
-Mbya Guarani,
-Naija,
-Swedish Sign Language,
-Telugu,
-Ukrainian,
-Wolof,
-Yoruba
-- [compound:vo]():
-Cantonese,
-Chinese
-- [compound:vv]():
-Cantonese,
-Chinese
+* [compound:a](): Indonesian
+* [compound:affix](): Hebrew
+* [compound:dir](): Cantonese, Chinese
+* [compound:ext](): Cantonese, Chinese
+* [compound:lvc](): Armenian, Hindi, Kazakh, Khunsari, Korean, Kurmanji, Marathi, Nayini, Persian, Soi, Tamil, Telugu, Turkish, Turkish German, Uyghur, Western Armenian
+* [compound:nn](): Finnish, Livvi, North Sami
+* [compound:preverb](): Hungarian
+* [compound:prt](): Afrikaans, Arabic, Danish, Dutch, English, Erzya, Estonian, Faroese, Finnish, Frisian Dutch, German, Icelandic, Irish, Karelian, Komi Permyak, Naija, Norwegian, Persian, Spanish, Swedish, Swedish Sign Language, Swiss German, Tamil, Thai, Turkish German, Wolof, Yoruba
+* [compound:quant](): Cantonese
+* [compound:redup](): Armenian, Bambara, Classical Chinese, Erzya, Hindi, Kurmanji, Marathi, Naija, Tagalog, Tamil, Telugu, Turkish, Turkish German, Uyghur, Welsh, Western Armenian
+* [compound:smixut](): Hebrew
+* [compound:svc](): Amharic, Armenian, Marathi, Mbya Guarani, Naija, Swedish Sign Language, Telugu, Ukrainian, Western Armenian, Wolof, Yoruba
+* [compound:vo](): Cantonese, Chinese
+* [compound:vv](): Cantonese, Chinese
 
 
 
 ## conj
-- [conj:expl]():
-Latin
-- [conj:extend]():
-Slovenian
-- [conj:svc]():
-Ukrainian
+* [conj:expl](): Latin
+* [conj:extend](): Slovenian
+* [conj:svc](): Ukrainian
 
 
 
 ## cop
-- [cop:expl]():
-Maltese
-- [cop:locat]():
-Polish
-- [cop:own]():
-Finnish,
-Karelian,
-Livvi,
-Moksha
+* [cop:expl](): Maltese
+* [cop:locat](): Polish
+* [cop:own](): Finnish, Karelian, Livvi, Marathi
 
 
 
 ## csubj
-- [csubj:cleft]():
-Irish,
-Manx,
-Scottish Gaelic
-- [csubj:cop]():
-Erzya,
-Estonian,
-Finnish,
-Irish,
-Livvi,
-Manx,
-Moksha,
-Scottish Gaelic,
-Turkish
-- [csubj:pass]():
-Albanian,
-Amharic,
-Ancient Greek,
-Arabic,
-Armenian,
-Belarusian,
-Bulgarian,
-Catalan,
-Chinese,
-Classical Chinese,
-Czech,
-English,
-French,
-German,
-Gothic,
-Greek,
-Indonesian,
-Italian,
-Korean,
-Latin,
-Latvian,
-Lithuanian,
-Norwegian,
-Old Church Slavonic,
-Old Russian,
-Polish,
-Portuguese,
-Romanian,
-Russian,
-Sanskrit,
-Slovak,
-Spanish,
-Swedish
+* [csubj:cleft](): Irish, Latin, Manx, Scottish Gaelic
+* [csubj:cop](): Erzya, Estonian, Finnish, Irish, Komi Zyrian, Livvi, Manx, Moksha, Scottish Gaelic, Turkish
+* [csubj:pass](): Albanian, Amharic, Ancient Greek, Arabic, Armenian, Belarusian, Bulgarian, Catalan, Chinese, Classical Chinese, Czech, English, French, German, Gothic, Greek, Indonesian, Italian, Korean, Latin, Latvian, Lithuanian, Norwegian, Old Church Slavonic, Old East Slavic, Polish, Portuguese, Romanian, Russian, Sanskrit, Slovak, Spanish, Swedish, Western Armenian
 
 
 
 ## dep
-- [dep:alt]():
-Upper Sorbian
-- [dep:comp]():
-French,
-Naija
-- [dep:fixed]():
-Naija
-- [dep:mod]():
-Mbya Guarani
-- [dep:prt]():
-Korean
+* [dep:aff](): Beja
+* [dep:agr](): Kiche
+* [dep:alt](): Upper Sorbian
+* [dep:ana](): Yupik
+* [dep:aux](): Yupik
+* [dep:comp](): Beja, French
+* [dep:conj](): Beja
+* [dep:cop](): Yupik
+* [dep:emo](): Yupik
+* [dep:infl](): Yupik
+* [dep:mark](): Yupik
+* [dep:mod](): Mbya Guarani
+* [dep:pos](): Yupik
+* [dep:redup](): Beja
+* [dep:ss](): Kiche
 
 
 
 ## det
-- [det:adj]():
-Albanian
-- [det:def]():
-Hebrew
-- [det:noun]():
-Albanian
-- [det:numgov]():
-Czech,
-Polish,
-Serbian,
-Slovak,
-Ukrainian,
-Upper Sorbian
-- [det:nummod]():
-Czech,
-Polish,
-Ukrainian
-- [det:poss]():
-Akkadian,
-Armenian,
-German,
-Italian,
-Korean,
-Polish,
-Portuguese
-- [det:predet]():
-Arabic,
-English,
-German,
-Hindi,
-Italian,
-Persian,
-Portuguese,
-Spanish,
-Thai,
-Turkish
-- [det:pron]():
-Albanian
-- [det:rel]():
-Bambara
+* [det:adj](): Albanian
+* [det:noun](): Albanian
+* [det:numgov](): Czech, Polish, Serbian, Slovak, Ukrainian, Upper Sorbian
+* [det:nummod](): Czech, Polish, Ukrainian
+* [det:poss](): Akkadian, Armenian, German, Italian, Korean, Polish, Portuguese, Western Armenian
+* [det:predet](): English, Italian, Persian
+* [det:pron](): Albanian
+* [det:rel](): Bambara
 
 
 
 ## discourse
-- [discourse:emo]():
-Italian,
-Polish
-- [discourse:filler]():
-Norwegian,
-Slovenian
-- [discourse:intj]():
-Polish
-- [discourse:sp]():
-Cantonese,
-Chinese,
-Classical Chinese
+* [discourse:emo](): Irish, Italian, Polish
+* [discourse:filler](): Norwegian, Slovenian
+* [discourse:intj](): Polish
+* [discourse:sp](): Cantonese, Chinese, Classical Chinese
 
 
 
 ## dislocated
-- [dislocated:acl]():
-Latin
-- [dislocated:advcl]():
-Latin
-- [dislocated:advmod]():
-Latin
-- [dislocated:ccomp]():
-Latin
-- [dislocated:cleft]():
-Mbya Guarani
-- [dislocated:conj]():
-Latin
-- [dislocated:csubj]():
-Latin
-- [dislocated:nmod]():
-Latin
-- [dislocated:nsubj]():
-Latin
-- [dislocated:obj]():
-Latin
-- [dislocated:obl]():
-Latin
+* [dislocated:cleft](): Mbya Guarani
+* [dislocated:csubj](): Latin
+* [dislocated:nsubj](): Latin
+* [dislocated:obj](): Latin
+* [dislocated:subj](): Beja
 
 
 
 ## expl
-- [expl:comp]():
-French
-- [expl:impers]():
-Italian,
-Polish,
-Romanian,
-Spanish
-- [expl:pass]():
-Catalan,
-Czech,
-French,
-Italian,
-Latin,
-Romanian,
-Slovak,
-Spanish,
-Upper Sorbian
-- [expl:poss]():
-Romanian
-- [expl:pv]():
-Czech,
-Dutch,
-German,
-Old Russian,
-Polish,
-Portuguese,
-Romanian,
-Slovak,
-Spanish,
-Turkish German,
-Upper Sorbian
-- [expl:subj]():
-French,
-Naija
+* [expl:comp](): French
+* [expl:impers](): Italian, Polish, Romanian, Spanish
+* [expl:pass](): Catalan, Czech, French, Italian, Latin, Portuguese, Romanian, Slovak, Spanish, Upper Sorbian
+* [expl:poss](): Romanian
+* [expl:pv](): Czech, Dutch, German, Old East Slavic, Polish, Portuguese, Romanian, Slovak, Spanish, Turkish German, Upper Sorbian
+* [expl:subj](): French, Naija
 
 
 
 ## flat
-- [flat:abs]():
-Ukrainian
-- [flat:foreign]():
-Arabic,
-Belarusian,
-Buryat,
-Chinese,
-Chukchi,
-Croatian,
-Czech,
-English,
-Estonian,
-Faroese,
-Finnish,
-French,
-Galician,
-Icelandic,
-Indonesian,
-Irish,
-Italian,
-Latin,
-Latvian,
-Lithuanian,
-Manx,
-Naija,
-Norwegian,
-Persian,
-Polish,
-Portuguese,
-Russian,
-Slovak,
-Slovenian,
-South Levantine Arabic,
-Ukrainian,
-Upper Sorbian
-- [flat:name]():
-Ancient Greek,
-Belarusian,
-Breton,
-Chinese,
-Chukchi,
-Erzya,
-Faroese,
-Finnish,
-French,
-Galician,
-German,
-Gothic,
-Hebrew,
-Hindi,
-Hungarian,
-Icelandic,
-Indonesian,
-Irish,
-Italian,
-Karelian,
-Kazakh,
-Komi Permyak,
-Komi Zyrian,
-Korean,
-Latin,
-Latvian,
-Livvi,
-Maltese,
-Moksha,
-Norwegian,
-Old Church Slavonic,
-Old Russian,
-Persian,
-Portuguese,
-Russian,
-Skolt Sami,
-Slovenian,
-Spanish,
-Swedish,
-Thai,
-Ukrainian,
-Welsh
-- [flat:num]():
-Persian
-- [flat:range]():
-Ukrainian
-- [flat:repeat]():
-Ukrainian
-- [flat:sibl]():
-Ukrainian
-- [flat:title]():
-Ukrainian
-- [flat:vv]():
-Classical Chinese
+* [flat:abs](): Ukrainian
+* [flat:dist](): Western Armenian
+* [flat:foreign](): Arabic, Belarusian, Buryat, Chinese, Chukchi, Croatian, Czech, English, Estonian, Faroese, Finnish, French, Galician, Icelandic, Indonesian, Irish, Italian, Komi Zyrian, Latin, Latvian, Lithuanian, Manx, Naija, Norwegian, Persian, Polish, Portuguese, Russian, Scottish Gaelic, Slovak, Slovenian, South Levantine Arabic, Ukrainian, Upper Sorbian
+* [flat:name](): Ancient Greek, Belarusian, Breton, Chinese, Chukchi, Erzya, Faroese, Finnish, French, Frisian Dutch, Galician, German, Gothic, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Karelian, Kazakh, Komi Permyak, Komi Zyrian, Korean, Latin, Latvian, Livvi, Maltese, Moksha, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Portuguese, Russian, Scottish Gaelic, Skolt Sami, Slovenian, Spanish, Swedish, Thai, Ukrainian, Welsh, Western Armenian
+* [flat:num](): Komi Zyrian, Persian
+* [flat:range](): Ukrainian, Western Armenian
+* [flat:repeat](): Ukrainian
+* [flat:sibl](): Ukrainian
+* [flat:title](): Ukrainian
+* [flat:vv](): Classical Chinese
 
 
 
 ## iobj
-- [iobj:agent]():
-Armenian,
-French
-- [iobj:appl]():
-Wolof
-- [iobj:caus]():
-Kazakh
-- [iobj:loc]():
-Tamil
-- [iobj:patient]():
-Tagalog
+* [iobj:agent](): Armenian, French, Western Armenian
+* [iobj:appl](): Wolof
+* [iobj:patient](): Tagalog
 
 
 
 ## mark
-- [mark:adv]():
-Cantonese,
-Chinese
-- [mark:advb]():
-Chinese
-- [mark:advmod]():
-Old French
-- [mark:comp]():
-Chinese
-- [mark:obl]():
-Old French
-- [mark:prt]():
-Chinese,
-Irish,
-Scottish Gaelic
-- [mark:q]():
-Hebrew
-- [mark:rel]():
-Cantonese,
-Chinese
-- [mark:relcl]():
-Chinese
+* [mark:adv](): Cantonese, Chinese
+* [mark:advmod](): Old French
+* [mark:aff](): Beja
+* [mark:prt](): Chinese, Irish, Scottish Gaelic
+* [mark:q](): Hebrew
+* [mark:rel](): Cantonese, Chinese
 
 
 
 ## nmod
-- [nmod:abl]():
-Uyghur
-- [nmod:advmod]():
-Latin
-- [nmod:agent]():
-Romanian,
-Welsh
-- [nmod:appos]():
-French,
-Latin,
-Naija,
-Old French
-- [nmod:arg]():
-Polish
-- [nmod:att]():
-Hungarian
-- [nmod:attlvc]():
-Hungarian
-- [nmod:attr]():
-Chukchi
-- [nmod:bahuv]():
-Moksha
-- [nmod:cau]():
-Uyghur
-- [nmod:clas]():
-Uyghur
-- [nmod:cmp]():
-Telugu
-- [nmod:comp]():
-Erzya,
-Komi Zyrian,
-Moksha,
-Turkish,
-Uyghur
-- [nmod:dat]():
-Kurmanji
-- [nmod:emph]():
-Naija
-- [nmod:flat]():
-Polish
-- [nmod:gen]():
-Breton
-- [nmod:gmod]():
-Arabic,
-German
-- [nmod:gobj]():
-Erzya,
-Finnish
-- [nmod:gsubj]():
-Erzya,
-Finnish,
-Karelian
-- [nmod:ins]():
-Uyghur
-- [nmod:lmod]():
-Erzya,
-Indonesian,
-Komi Permyak
-- [nmod:npmod]():
-Armenian,
-English
-- [nmod:obl]():
-Hungarian
-- [nmod:obllvc]():
-Hungarian
-- [nmod:own]():
-Buryat
-- [nmod:part]():
-Erzya,
-Moksha,
-Skolt Sami,
-Turkish,
-Uyghur
-- [nmod:periph]():
-Naija
-- [nmod:pmod]():
-Romanian
-- [nmod:poss]():
-Akkadian,
-Albanian,
-Apurina,
-Arabic,
-Armenian,
-Assyrian,
-Bambara,
-Breton,
-Chukchi,
-Danish,
-Dutch,
-English,
-Erzya,
-Faroese,
-Finnish,
-German,
-Hebrew,
-Hindi,
-Icelandic,
-Indonesian,
-Irish,
-Karelian,
-Kazakh,
-Khunsari,
-Komi Permyak,
-Komi Zyrian,
-Korean,
-Kurmanji,
-Livvi,
-Maltese,
-Marathi,
-Moksha,
-Naija,
-Nayini,
-North Sami,
-Persian,
-Polish,
-Sanskrit,
-Scottish Gaelic,
-Skolt Sami,
-Soi,
-South Levantine Arabic,
-Swedish,
-Swedish Sign Language,
-Swiss German,
-Tagalog,
-Tamil,
-Telugu,
-Thai,
-Turkish,
-Uyghur,
-Warlpiri,
-Welsh,
-Wolof
-- [nmod:pred]():
-Polish
-- [nmod:ref]():
-Uyghur
-- [nmod:relat]():
-Chukchi
-- [nmod:tmod]():
-Chinese,
-English,
-Indonesian,
-Romanian,
-Telugu,
-Turkish,
-Uyghur
+* [nmod:agent](): Welsh
+* [nmod:appos](): French, Komi Zyrian, Moksha
+* [nmod:arg](): Polish, Yupik
+* [nmod:att](): Hungarian
+* [nmod:attlvc](): Hungarian
+* [nmod:attr](): Chukchi
+* [nmod:bahuv](): Moksha
+* [nmod:cau](): Uyghur
+* [nmod:comp](): Erzya, Komi Zyrian, Moksha, Turkish, Uyghur
+* [nmod:flat](): Polish
+* [nmod:gen](): Breton
+* [nmod:gobj](): Erzya, Finnish
+* [nmod:gsubj](): Erzya, Finnish, Karelian
+* [nmod:lfrom](): Komi Zyrian
+* [nmod:lmod](): Erzya, Indonesian, Komi Permyak, Komi Zyrian, Moksha
+* [nmod:npmod](): Armenian, English, Western Armenian
+* [nmod:obj](): Komi Zyrian
+* [nmod:obl](): Hungarian
+* [nmod:part](): Turkish, Uyghur
+* [nmod:poss](): Akkadian, Albanian, Apurina, Arabic, Armenian, Assyrian, Bambara, Beja, Breton, Chukchi, Danish, Dutch, English, Erzya, Faroese, Finnish, Frisian Dutch, German, Hebrew, Hindi, Icelandic, Indonesian, Irish, Karelian, Kazakh, Khunsari, Komi Permyak, Komi Zyrian, Korean, Kurmanji, Latin, Livvi, Maltese, Manx, Marathi, Moksha, Naija, Nayini, North Sami, Persian, Polish, Sanskrit, Scottish Gaelic, Skolt Sami, Soi, South Levantine Arabic, Swedish, Swedish Sign Language, Swiss German, Tagalog, Tamil, Telugu, Thai, Turkish, Uyghur, Warlpiri, Welsh, Western Armenian, Wolof
+* [nmod:pred](): Polish
+* [nmod:prp](): Komi Zyrian
+* [nmod:redup](): Welsh
+* [nmod:relat](): Chukchi
+* [nmod:subj](): Komi Zyrian
+* [nmod:tmod](): Chinese, English, Indonesian, Moksha, Romanian, Telugu, Uyghur
 
 
 
 ## nsubj
-- [nsubj:advmod]():
-Old French
-- [nsubj:appos]():
-Breton
-- [nsubj:bfoc]():
-Tagalog
-- [nsubj:caus]():
-Armenian,
-French
-- [nsubj:cop]():
-Apurina,
-Breton,
-Erzya,
-Estonian,
-Finnish,
-Hebrew,
-Karelian,
-Komi Permyak,
-Komi Zyrian,
-Livvi,
-Moksha,
-Sanskrit,
-Skolt Sami,
-Turkish
-- [nsubj:ifoc]():
-Tagalog
-- [nsubj:lfoc]():
-Tagalog
-- [nsubj:lvc]():
-Hungarian
-- [nsubj:nc]():
-Persian,
-Tamil,
-Telugu
-- [nsubj:obj]():
-Old French
-- [nsubj:own]():
-Marathi
-- [nsubj:pass]():
-Afrikaans,
-Amharic,
-Ancient Greek,
-Arabic,
-Armenian,
-Belarusian,
-Bulgarian,
-Buryat,
-Cantonese,
-Catalan,
-Chinese,
-Classical Chinese,
-Czech,
-Dutch,
-English,
-Faroese,
-French,
-Galician,
-German,
-Gothic,
-Greek,
-Hindi,
-Indonesian,
-Italian,
-Korean,
-Latin,
-Latvian,
-Lithuanian,
-Maltese,
-Marathi,
-Moksha,
-Norwegian,
-Old Church Slavonic,
-Old Russian,
-Persian,
-Polish,
-Portuguese,
-Romanian,
-Russian,
-Sanskrit,
-Skolt Sami,
-Slovak,
-Spanish,
-Swedish,
-Swiss German,
-Tagalog,
-Tamil,
-Thai,
-Turkish German,
-Upper Sorbian
-- [nsubj:periph]():
-Cantonese
+* [nsubj:advmod](): Old French
+* [nsubj:aff](): Beja
+* [nsubj:bfoc](): Tagalog
+* [nsubj:caus](): Armenian, French, Western Armenian
+* [nsubj:cleft](): Latin
+* [nsubj:cop](): Apurina, Breton, Erzya, Estonian, Finnish, Hebrew, Karelian, Komi Permyak, Komi Zyrian, Livvi, Moksha, Sanskrit, Skolt Sami, Turkish
+* [nsubj:ifoc](): Tagalog
+* [nsubj:lfoc](): Tagalog
+* [nsubj:lvc](): Hungarian
+* [nsubj:nc](): Persian, Tamil, Telugu
+* [nsubj:obj](): Old French
+* [nsubj:pass](): Afrikaans, Amharic, Ancient Greek, Arabic, Armenian, Assyrian, Belarusian, Bulgarian, Buryat, Cantonese, Catalan, Chinese, Classical Chinese, Czech, Dutch, English, Faroese, French, Frisian Dutch, Galician, German, Gothic, Greek, Hindi, Indonesian, Italian, Korean, Latin, Latvian, Lithuanian, Maltese, Marathi, Moksha, Norwegian, Old Church Slavonic, Old East Slavic, Persian, Polish, Portuguese, Romanian, Russian, Sanskrit, Skolt Sami, Slovak, Spanish, Swedish, Swiss German, Tagalog, Tamil, Thai, Turkish German, Upper Sorbian, Western Armenian
+* [nsubj:periph](): Cantonese
 
 
 
 ## nummod
-- [nummod:det]():
-Naija
-- [nummod:entity]():
-Russian
-- [nummod:flat]():
-Polish
-- [nummod:gov]():
-Belarusian,
-Czech,
-Lithuanian,
-Old Russian,
-Polish,
-Russian,
-Sanskrit,
-Serbian,
-Ukrainian,
-Upper Sorbian
-- [nummod:mod]():
-Naija
-- [nummod:periph]():
-Naija
+* [nummod:det](): Beja
+* [nummod:entity](): Russian
+* [nummod:flat](): Polish
+* [nummod:gov](): Belarusian, Czech, Lithuanian, Old East Slavic, Polish, Russian, Sanskrit, Serbian, Ukrainian, Upper Sorbian
 
 
 
 ## obj
-- [obj:advmod]():
-Old French
-- [obj:advneg]():
-Old French
-- [obj:agent]():
-Apurina,
-French,
-Tagalog
-- [obj:appl]():
-Wolof
-- [obj:cau]():
-Uyghur
-- [obj:caus]():
-Wolof
-- [obj:lvc]():
-French,
-Hungarian,
-Naija
-- [obj:obl]():
-Old French
-- [obj:periph]():
-Cantonese,
-Chinese
+* [obj:advmod](): Old French
+* [obj:advneg](): Old French
+* [obj:agent](): Apurina, French, Tagalog
+* [obj:appl](): Wolof
+* [obj:caus](): Wolof
+* [obj:lvc](): French, Hungarian, Naija
+* [obj:obl](): Old French
+* [obj:periph](): Cantonese, Chinese
 
 
 
 ## obl
-- [obl:abl]():
-Tamil
-- [obl:advmod]():
-Old French
-- [obl:agent]():
-Ancient Greek,
-Armenian,
-Belarusian,
-Breton,
-Cantonese,
-Chinese,
-Czech,
-Dutch,
-Erzya,
-French,
-German,
-Gothic,
-Greek,
-Hindi,
-Indonesian,
-Italian,
-Latin,
-Lithuanian,
-Maltese,
-Moksha,
-Naija,
-Old Church Slavonic,
-Old Russian,
-Polish,
-Portuguese,
-Russian,
-Sanskrit,
-Skolt Sami,
-Swedish,
-Tamil,
-Turkish,
-Welsh
-- [obl:appl]():
-Wolof
-- [obl:arg]():
-Arabic,
-Czech,
-French,
-German,
-Greek,
-Icelandic,
-Latin,
-Lithuanian,
-Maltese,
-Naija,
-Persian,
-Polish,
-Sanskrit,
-Slovak,
-South Levantine Arabic,
-Tamil
-- [obl:ben]():
-Tamil
-- [obl:cau]():
-Telugu
-- [obl:cmpr]():
-Polish,
-Tamil
-- [obl:inst]():
-Tamil
-- [obl:lmod]():
-Apurina,
-Classical Chinese,
-Erzya,
-Komi Permyak,
-Komi Zyrian,
-Moksha,
-Skolt Sami
-- [obl:loc]():
-Danish,
-Tamil
-- [obl:lvc]():
-Naija
-- [obl:mod]():
-French,
-Naija,
-Old French
-- [obl:npmod]():
-Coptic,
-English
-- [obl:orphan]():
-Polish
-- [obl:own]():
-Kazakh
-- [obl:patient]():
-Cantonese,
-Chinese
-- [obl:pmod]():
-Tamil
-- [obl:poss]():
-Thai
-- [obl:prep]():
-Irish
-- [obl:sentcon]():
-Mbya Guarani
-- [obl:smod]():
-Scottish Gaelic
-- [obl:soc]():
-Tamil
-- [obl:tmod]():
-Apurina,
-Arabic,
-Cantonese,
-Chinese,
-Classical Chinese,
-Danish,
-English,
-Erzya,
-German,
-Hindi,
-Indonesian,
-Irish,
-Italian,
-Komi Permyak,
-Komi Zyrian,
-Korean,
-Manx,
-Moksha,
-Portuguese,
-Scottish Gaelic,
-Skolt Sami,
-Spanish,
-Tamil,
-Telugu,
-Thai,
-Turkish,
-Warlpiri
-- [obl:x]():
-Breton
+* [obl:advmod](): Old French
+* [obl:agent](): Ancient Greek, Armenian, Belarusian, Breton, Cantonese, Chinese, Czech, Dutch, Erzya, French, German, Gothic, Greek, Hindi, Indonesian, Italian, Komi Zyrian, Latin, Lithuanian, Maltese, Moksha, Naija, Old Church Slavonic, Old East Slavic, Polish, Portuguese, Romanian, Russian, Sanskrit, Skolt Sami, Swedish, Tamil, Turkish, Welsh, Western Armenian
+* [obl:appl](): Wolof
+* [obl:arg](): Arabic, Beja, Czech, French, German, Greek, Icelandic, Latin, Lithuanian, Maltese, Naija, Persian, Polish, Sanskrit, Slovak, South Levantine Arabic, Tamil
+* [obl:cau](): Erzya, Komi Zyrian, Moksha, Telugu
+* [obl:cmp](): Telugu
+* [obl:cmpr](): Latin, Polish, Tamil
+* [obl:comp](): Moksha
+* [obl:dat](): Kurmanji
+* [obl:freq](): Moksha
+* [obl:inst](): Erzya, Moksha, Tamil
+* [obl:lfrom](): Erzya, Komi Zyrian, Moksha
+* [obl:lmod](): Apurina, Classical Chinese, Danish, Erzya, Komi Permyak, Komi Zyrian, Moksha, Skolt Sami, Tamil
+* [obl:lmp](): Erzya, Komi Zyrian, Moksha
+* [obl:lto](): Erzya, Komi Zyrian, Moksha
+* [obl:lvc](): Hungarian
+* [obl:mcl](): Komi Zyrian
+* [obl:mod](): Beja, French, Naija, Yupik
+* [obl:npmod](): Coptic, English
+* [obl:orphan](): Polish
+* [obl:own](): Kazakh
+* [obl:patient](): Cantonese, Chinese
+* [obl:pmod](): Romanian, Tamil
+* [obl:poss](): Thai
+* [obl:prep](): Irish
+* [obl:sentcon](): Mbya Guarani
+* [obl:smod](): Scottish Gaelic
+* [obl:tmod](): Apurina, Arabic, Cantonese, Chinese, Classical Chinese, Danish, English, Erzya, Frisian Dutch, German, Hindi, Indonesian, Irish, Italian, Komi Permyak, Komi Zyrian, Korean, Manx, Moksha, Portuguese, Scottish Gaelic, Skolt Sami, Spanish, Tamil, Telugu, Thai, Turkish, Uyghur, Warlpiri
 
 
 
 ## orphan
-- [orphan:missing]():
-Latin
+* [orphan:missing](): Latin
 
 
 
 ## parataxis
-- [parataxis:appos]():
-Italian
-- [parataxis:conj]():
-Naija
-- [parataxis:deletion]():
-Norwegian
-- [parataxis:discourse]():
-Italian,
-Naija,
-Slovenian,
-Turkish German,
-Ukrainian
-- [parataxis:dislocated]():
-Naija
-- [parataxis:hashtag]():
-Italian
-- [parataxis:insert]():
-French,
-Italian,
-Naija,
-Polish
-- [parataxis:newsent]():
-Ukrainian
-- [parataxis:nsubj]():
-Italian
-- [parataxis:obj]():
-Bambara,
-Italian,
-Polish
-- [parataxis:parenth]():
-French,
-Naija
-- [parataxis:rel]():
-Ukrainian
-- [parataxis:rep]():
-Latin,
-Mbya Guarani
-- [parataxis:restart]():
-Slovenian
-- [parataxis:speech]():
-Chukchi
-- [parataxis:trans]():
-Turkish German
+* [parataxis:appos](): Italian
+* [parataxis:conj](): Naija
+* [parataxis:coord](): Beja
+* [parataxis:deletion](): Norwegian
+* [parataxis:discourse](): Italian, Naija, Slovenian, Turkish German, Ukrainian
+* [parataxis:dislocated](): Naija
+* [parataxis:hashtag](): Irish, Italian
+* [parataxis:insert](): French, Italian, Polish
+* [parataxis:mod](): Beja
+* [parataxis:newsent](): Ukrainian
+* [parataxis:nsubj](): Italian
+* [parataxis:obj](): Bambara, Italian, Polish
+* [parataxis:parenth](): French, Naija
+* [parataxis:rel](): Ukrainian
+* [parataxis:rep](): Chukchi, Latin, Mbya Guarani
+* [parataxis:restart](): Slovenian
+* [parataxis:rt](): Irish
+* [parataxis:sentence](): Irish
+* [parataxis:trans](): Turkish German
+* [parataxis:url](): Irish
 
 
 
 ## vocative
-- [vocative:cl]():
-Ukrainian
-- [vocative:mention]():
-Italian
+* [vocative:cl](): Ukrainian
+* [vocative:mention](): Irish, Italian
 
 
 
 ## xcomp
-- [xcomp:adj]():
-Portuguese
-- [xcomp:cleft]():
-Polish
-- [xcomp:ds]():
-Erzya,
-Finnish,
-Karelian,
-Komi Permyak,
-Livvi
-- [xcomp:obj]():
-French,
-Naija,
-North Sami,
-Polish
-- [xcomp:obl]():
-French,
-Naija
-- [xcomp:pred]():
-French,
-Irish,
-Latin,
-Manx,
-Naija,
-North Sami,
-Polish,
-Scottish Gaelic
-- [xcomp:sp]():
-Ukrainian
-- [xcomp:subj]():
-Polish
+* [xcomp:cleft](): Polish
+* [xcomp:ds](): Erzya, Finnish, Karelian, Komi Permyak, Livvi
+* [xcomp:obj](): North Sami, Polish
+* [xcomp:pred](): Irish, Latin, Manx, North Sami, Polish, Scottish Gaelic
+* [xcomp:sp](): Ukrainian
+* [xcomp:subj](): Polish
