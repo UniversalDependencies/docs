@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-9204 nodes (5%) are attached to their parents as `root`.
+13603 nodes (7%) are attached to their parents as `root`.
 
-9204 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.20654063450674.
+13603 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.07887965889877.
 
-The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (7342; 80% instances), -<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (902; 10% instances), -<tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (554; 6% instances), -<tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (126; 1% instances), -<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (98; 1% instances), -<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (75; 1% instances), -<tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> (36; 0% instances), -<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (29; 0% instances), -<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (25; 0% instances), -<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (9; 0% instances), -<tt><a href="nl_alpino-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), -<tt><a href="nl_alpino-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), -<tt><a href="nl_alpino-pos-X.html">X</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (10622; 78% instances), -<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (1369; 10% instances), -<tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (764; 6% instances), -<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (416; 3% instances), -<tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (144; 1% instances), -<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (143; 1% instances), -<tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> (46; 0% instances), -<tt><a href="nl_alpino-pos-NUM.html">NUM</a></tt> (38; 0% instances), -<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (37; 0% instances), -<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (16; 0% instances), -<tt><a href="nl_alpino-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), -<tt><a href="nl_alpino-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), -<tt><a href="nl_alpino-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

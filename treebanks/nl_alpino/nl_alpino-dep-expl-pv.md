@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="nl_alpino-dep-expl.html">expl</a></tt>.
 
-354 nodes (0%) are attached to their parents as `expl:pv`.
+426 nodes (0%) are attached to their parents as `expl:pv`.
 
-222 instances of `expl:pv` (63%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.58757062146893.
+253 instances of `expl:pv` (59%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.35680751173709.
 
-The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (349; 99% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (5; 1% instances).
+The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (411; 96% instances), <tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (15; 4% instances).
 
 
 ~~~ conllu

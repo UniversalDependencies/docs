@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of .
 
-1559 nodes (1%) are attached to their parents as `compound:prt`.
+1974 nodes (1%) are attached to their parents as `compound:prt`.
 
-862 instances of `compound:prt` (55%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.61321359846055.
+1161 instances of `compound:prt` (59%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.54103343465046.
 
-The following 10 pairs of parts of speech are connected with `compound:prt`: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (1037; 67% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (160; 10% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (137; 9% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (121; 8% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (76; 5% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (20; 1% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `compound:prt`: <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADP.html">ADP</a></tt> (1304; 66% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADV.html">ADV</a></tt> (194; 10% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-NOUN.html">NOUN</a></tt> (184; 9% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-ADJ.html">ADJ</a></tt> (171; 9% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt> (86; 4% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-DET.html">DET</a></tt> (26; 1% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="nl_alpino-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_alpino-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -56,19 +56,22 @@ The following 10 pairs of parts of speech are connected with `compound:prt`: <tt
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 7 compound:prt	color:blue
-1	De	de	DET	LID|bep|stan|rest	Definite=Def	2	det	2:det	_
-2	deuren	deur	NOUN	N|soort|mv|basis	Number=Plur	3	nsubj	3:nsubj	_
-3	gingen	dicht_gaan	VERB	WW|pv|verl|mv	Number=Plur|Tense=Past|VerbForm=Fin	0	root	0:root	_
-4	net	net	ADV	BW	_	6	amod	6:amod	_
-5	op	op	ADP	VZ|init	_	6	case	6:case	_
-6	tijd	tijd	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	3	obl	3:obl:op	_
-7	dicht	dicht	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	3	compound:prt	3:compound:prt	SpaceAfter=No
-8	.	.	PUNCT	LET	_	3	punct	3:punct	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 compound:prt	color:blue
+1	Rotterdam	Rotterdam	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	6	nsubj	6:nsubj	_
+2	kan	kunnen	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	6	aux	6:aux	_
+3	dus	dus	ADV	BW	_	6	advmod	6:advmod	_
+4	nader	nader	ADJ	ADJ|vrij|comp|zonder	Degree=Cmp	6	advmod	6:advmod	_
+5	kennis	kennis	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	6	compound:prt	6:compound:prt	_
+6	maken	kennis_maken	VERB	WW|inf|vrij|zonder	VerbForm=Inf	0	root	0:root	_
+7	met	met	ADP	VZ|init	_	9	case	9:case	_
+8	de	de	DET	LID|bep|stan|rest	Definite=Def	9	det	9:det	_
+9	liefhebbers	liefhebber	NOUN	N|soort|mv|basis	Number=Plur	6	obl	6:obl:met	SpaceAfter=No
+10	.	.	PUNCT	LET	_	6	punct	6:punct	_
+11	"	"	PUNCT	LET	_	6	punct	6:punct	_
 
 ~~~
 
