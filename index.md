@@ -71,4 +71,3 @@ The data is released through LINDAT/CLARIN.
 * Version 1.1 treebanks are archived at http://hdl.handle.net/11234/LRT-1478. 19 treebanks, 18 languages, released May 15, 2015.
 * Version 1.0 treebanks are archived at http://hdl.handle.net/11234/1-1464. 10 treebanks, 10 languages, released January 15, 2015.
 * In general, we intend to have regular treebank releases every six months. The v2.0 and v2.2 releases were brought forward because of their usage in the [CoNLL 2017 and 2018 Multilingual Parsing Shared Tasks](http://universaldependencies.org/conll17/).
-
