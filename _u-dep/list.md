@@ -5,7 +5,25 @@ shortdef: 'list'
 udver: '2'
 ---
 
-The `list` relation is used for chains of comparable items. In lists with more than two items, all items of the list should modify the first one. If a list is something like a list of paragraphs (for example, describing items in a catalogue), then each item will be one or more sentences and no list relations appear, as we do not have relations between sentences. However, informal and web text often contains passages which are meant to be interpreted as lists but are parsed as single sentences. For example, email signatures often contain these structures, in the form of contact information: the different contact information items are labeled as `list`; the key-value pair relations are labeled as [appos]().
+The `list` relation is used for chains of comparable items. In lists with more than two items, all
+items of the list should modify the first one. If a list is something like a list of paragraphs
+(for example, describing items in a catalogue), then each item will be one or more sentences and
+no list relations appear, as we do not have relations between sentences.
+However, informal and web text often contains passages which are meant to be interpreted as lists
+but are parsed as single sentences. For example, email signatures often contain these structures,
+in the form of contact information: the different contact information items are labeled as `list`.
+
+~~~ sdparse
+Steve Jones sj@abc.xyz University of Arizona
+flat:name(Steve, Jones)
+list(Steve, sj@abc.xyz)
+list(Steve, University)
+nmod(University, Arizona)
+case(Arizona, of)
+~~~
+
+If the fields in the list are explicit and have a key-value structure,
+the key-value pair relations are labeled as [appos]().
 
 ~~~ sdparse
 Steve Jones Phone: 555-9814 Email: jones@abc.edf
