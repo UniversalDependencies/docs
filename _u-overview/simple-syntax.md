@@ -24,6 +24,7 @@ In most clauses, the predicate takes the form of a verb, which may be intransiti
 she left
 nsubj(left, she)
 ~~~
+
 ~~~ sdparse
 she left a note
 nsubj(left, she)
@@ -32,7 +33,7 @@ obj(left, note)
 
 An intransitive verb takes a single argument (usually referred to as S in the literature on linguistic typology) with the [u-dep/nsubj]() relation. A transitive verb in addition takes an argument with the [u-dep/obj]() relation. When deciding which relation to use with which argument in a transitive clause, the [u-dep/nsubj]() relation should be used with the argument that most resembles the proto-agent (often called A in linguistic typology) and that satisfies additional language-internal criteria for subjecthood based on case-marking, agreement and/or linear position with respect to the predicate. The [u-dep/obj]() relation should be used for the argument that most resembles the proto-patient (often called O or P in linguistic typology) and that satisfies relevant language-internal criteria. Note that, while case-marking (whether morphological or analytic) can provide important evidence in specific languages, case alignment should not be used to decide the assignment of core argument roles. Thus, in ergative languages, the patient-like argument of a transitive verb (O/P) will take the the [u-dep/obj]() relation despite the fact that it carries the same case marking as the [u-dep/nsubj]() argument (S) of an intranstive verb.
 
-Some languages allow extended transitive clauses, where more than two dependents are realized as core arguments. The additional core arguments then receive the [u-dep/iobj]() relation (for "indirect object"), while the [u-dep/obj]() relation 
+Some languages allow extended transitive clauses, where more than two dependents are realized as core arguments. The additional core arguments then receive the [u-dep/iobj]() relation (for "indirect object"), while the [u-dep/obj]() relation
 is reserved for the most patient-like non-subject argument. The criterion for deciding whether an additional dependent is a core argument is whether it has the typical encoding of a core argument with respect to case-marking, agreement and word order. For example, the English double object construction qualifies as an extended transitive clause because all three nominals appear without prepositions:
 
 ~~~ sdparse
@@ -51,15 +52,15 @@ obj(left, note)
 obl(left, him)
 ~~~
 
-It follows that the semantic role cannot (by itself) be used to determine whether a dependent is core or not, nor can its status as an obligatory dependent. UD does not make a distinction between (obligatory) arguments and (optional) adjuncts, and oblique dependents can be either arguments or adjuncts. 
+It follows that the semantic role cannot (by itself) be used to determine whether a dependent is core or not, nor can its status as an obligatory dependent. UD does not make a distinction between (obligatory) arguments and (optional) adjuncts, and oblique dependents can be either arguments or adjuncts.
 
 Note, finally, that not all languages allow extended transitives (and some do only in connection with special valency-changing operationssuch as applicatives). Hence, the [u-dep/iobj]() relation will not be used in all languages.
 
 ### Valency-Changing Operations
 
-If passivization involves the promotion of an argument to subject position, then this argument can be 
+If passivization involves the promotion of an argument to subject position, then this argument can be
 annotated with a special subtype `nsubj:pass` to indicate that promotion has taken place. The subtype
-`obl:agent` can be used to annotate the demoted subject (if present). 
+`obl:agent` can be used to annotate the demoted subject (if present).
 
 ~~~ sdparse
 she left a note on the table
@@ -141,10 +142,10 @@ We then give the following guidelines for the analysis of these constructions:
 * If there is no overt linking word (or if such a word can be omitted at least in some persons or tenses), then the predicative nominal is treated as the head of the clause regardless of which of the six categories it falls in. In languages with fixed SVO order (like English), the final nominal is the predicate and the first nominal is the subject. In free-word-order languages it is possible that the first nominal is the predicate, and distinguishing the subject from the predicate is based on language-specific criteria.
 * If there is an overt linking word used in equational constructions (category 1), then that word is treated as a copula and marked with the [u-dep/cop]() dependency, and is not the head of the clause. **Exception:** If the predicative element in the equation is a clause, then the copula verb is treated as the head of the clause, with the following clause as a [u-dep/ccomp]() (to prevent that the head of the smaller clause gets two subjects). Note that in some languages it may be instead possible to analyze the clause as the subject ([u-dep/csubj]()), retaining the [u-dep/cop]() relation for the copula verb.
 * If there is an overt word used in existential constructions (category 6), which is different from the copula in equational constructions (either a different lemma or with different syntax), then it should be regarded as the head of existential clauses, taking a subject (and often a locative [u-dep/obl]()).
-* All other cases of putative copula constructions (categories 2-5) should be assimilated to the equational and existential cases as seems to make most sense according to the inherent logic of the language concerned. 
+* All other cases of putative copula constructions (categories 2-5) should be assimilated to the equational and existential cases as seems to make most sense according to the inherent logic of the language concerned.
 * A language should normally have at most one copula, but exceptions can be made in case of defective paradigms or if there are two verbs alternating in categories 1-5 (but not in 6) and where any meaning difference reflect at most TAME categories.
 
-To illustrate how these guidelines apply to different languages, we now given parallel examples from English, Irish, Swedish, Czech, Russian and Turkish. 
+To illustrate how these guidelines apply to different languages, we now given parallel examples from English, Irish, Swedish, Czech, Russian and Turkish.
 
 ### English
 
@@ -202,7 +203,7 @@ cop(her, is)
 case(her, for)
 ~~~
 
-(6a) 
+(6a)
 
 ~~~ sdparse
 there is food
@@ -210,7 +211,7 @@ expl(is, there)
 nsubj(is, food)
 ~~~
 
-(6b) 
+(6b)
 
 ~~~ sdparse
 there is food in the kitchen
@@ -224,7 +225,7 @@ case(kitchen, in)
 
 Irish uses a copula verb in categories 1, 4 and 5, and a different verb in categories 2, 3 and 6. Not only the verb but also the word order is different.
 
-(1) 
+(1)
 
 ~~~sdparse
 is ise mo mháthair \n COP her my mother
@@ -232,7 +233,7 @@ nsubj(mháthair, ise)
 cop(mháthair, is)
 ~~~
 
-(2) 
+(2)
 
 ~~~sdparse
 tá sí deas \n is she nice
@@ -254,7 +255,7 @@ xcomp(tá, seomra)
 is lei an leabhar \n COP with her the book
 nsubj(leabhar, lei)
 cop(leabhar, is)
-~~~ 
+~~~
 
 (5)
 
@@ -262,7 +263,7 @@ cop(leabhar, is)
 is di an leabhar \n COP with her the book
 nsubj(leabhar, di)
 cop(leabhar, is)
-~~~ 
+~~~
 
 (6)
 
@@ -344,7 +345,7 @@ case(ni, pro)
 case(her, for)
 ~~~
 
-(6a) 
+(6a)
 
 ~~~ sdparse
 jídlo je \n food is
@@ -352,7 +353,7 @@ nsubj(je, jídlo)
 nsubj(is, food)
 ~~~
 
-(6b) 
+(6b)
 
 ~~~ sdparse
 v kuchyni je jídlo \n in kitchen is food
@@ -428,7 +429,7 @@ case(нее, для)
 case(her, for)
 ~~~
 
-(6a) 
+(6a)
 
 The form _есть_ is originally the 3rd person singular present indicative of the verb _быть_ (which also functions as copula). However, in Modern Russian this form is used only in existential statements, in both numbers and all persons. Past and future existential statements still use normal forms of _быть._
 
@@ -438,7 +439,7 @@ nsubj(есть, еда)
 nsubj(is, food)
 ~~~
 
-(6b) 
+(6b)
 
 ~~~ sdparse
 есть еда на кухне \n is food in kitchen
@@ -540,9 +541,9 @@ obl(existing, Kitchen-in)
 
 ## Non-Core Dependents
 
-In addition to the core arguments, a predicate may have additional dependents whose grammatical encoding differs 
+In addition to the core arguments, a predicate may have additional dependents whose grammatical encoding differs
 from that of core arguments with respect to case marking, agreement and/or linear position in the clause. All such
-dependents are said to be oblique, regardless of whether they can be considered as arguments in the semantic sense. 
+dependents are said to be oblique, regardless of whether they can be considered as arguments in the semantic sense.
 The [obl]() relation is used for oblique nominals, and the [advmod]() relation is used for adverbial modifiers.
 
 ~~~ sdparse
@@ -568,11 +569,11 @@ nsubj(left, she)
 advmod(left, suddenly)
 ~~~
 
-In addition to the general [u-dep/obl]() relation, there are three special relations that are used for non-core dependents of a predicate: [u-dep/expl](), [u-dep/dislocated](), and [u-dep/vocative](). 
+In addition to the general [u-dep/obl]() relation, there are three special relations that are used for non-core dependents of a predicate: [u-dep/expl](), [u-dep/dislocated](), and [u-dep/vocative]().
 
 ### Expletives
 
-The [u-dep/expl]() relation captures expletive or pleonastic nominals. These are nominals that appear in an argument position of a predicate but which do not themselves satisfy any of the semantic roles of the predicate. The main predicate of the clause (the verb or predicate adjective or noun) is the governor. In English, this is the case for some uses of *it* and *there*: the existential *there*, and *it* when used in extraposition constructions.  (Note that both *it* and *there* also have non-expletive uses.) 
+The [u-dep/expl]() relation captures expletive or pleonastic nominals. These are nominals that appear in an argument position of a predicate but which do not themselves satisfy any of the semantic roles of the predicate. The main predicate of the clause (the verb or predicate adjective or noun) is the governor. In English, this is the case for some uses of *it* and *there*: the existential *there*, and *it* when used in extraposition constructions.  (Note that both *it* and *there* also have non-expletive uses.)
 
 ~~~ sdparse
 There is a ghost in the room
@@ -669,7 +670,7 @@ dislocated(長い-5, 象-1)
 ~~~
 
 ~~~ sdparse
-to jani ton kserume poli kala \n the John-Acc him know-1pl very well 
+to jani ton kserume poli kala \n the John-Acc him know-1pl very well
 dislocated(kserume, jani)
 ~~~
 
@@ -686,7 +687,7 @@ dislocated(eat, playdough)
 ~~~
 
 ~~~ sdparse
-ton kserume oli mas edho poli kala, to jani 
+ton kserume oli mas edho poli kala, to jani
 dislocated(kserume, jani)
 ~~~
 
