@@ -39,11 +39,11 @@
     ];
 
     var setupAccordions = function() {
-	// preserve state in URL hash, following in part
+	// Preserve state in URL hash, following in part
 	// http://www.boduch.ca/2011/05/remembering-jquery-ui-accordion.html
 
-        // Make subaccordions first, make them active to get height, and then close later
-        $(".jquery-ui-subaccordion-closed").accordion({collapsible: true, disabled:false, active:0});
+        // Make subaccordions first, make them active to get height, and then close later.
+        $(".jquery-ui-subaccordion-closed").accordion({collapsible: true, disabled: false, active: 0, heightStyle: "content"});
 
         // If the user clicks on an accordion line, get its language code
         // and save it as the hash #lcode in the current window's URL.
@@ -60,7 +60,7 @@
 	$(".jquery-ui-accordion").accordion({
 	    collapsible: true,
 	    active: false,
-	    heightStyle: content, // each panel will be only as tall as its content
+	    heightStyle: "content", // each panel will be only as tall as its content
 	    change: accordionChange
 	});
 	if ($(".jquery-ui-accordion").length) {
@@ -76,8 +76,8 @@
 		}
 	    }
 	}
-        //now reclose these accordions
-        $(".jquery-ui-subaccordion-closed").accordion("option","active",false);
+        // now reclose these accordions
+        $(".jquery-ui-subaccordion-closed").accordion("option", "active", false);
     };
 
     var setupTimeago = function() {
