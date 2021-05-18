@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: base
 title:  'Universal Dependencies'
 udver: '2'
 ---
