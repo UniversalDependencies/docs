@@ -6,7 +6,6 @@
         root + 'lib/ext/jquery.min.js',
         root + 'lib/ext/jquery.svg.min.js',
         root + 'lib/ext/jquery.svgdom.min.js',
-        root + 'lib/ext/jquery.timeago.js',
         root + 'lib/ext/jquery-ui.min.js',
         root + 'lib/ext/waypoints.min.js',
         root + 'lib/ext/jquery.address.min.js'
@@ -54,10 +53,6 @@
         $(".jquery-ui-subaccordion-closed").accordion("option", "active", false);
     };
 
-    var setupTimeago = function() {
-        jQuery("time.timeago").timeago();
-    };
-
     var setupTabs = function() {
         // standard jQuery UI "tabs" element initialization
         $(".jquery-ui-tabs").tabs({ heightStyle: "content" });
@@ -79,6 +74,5 @@
         // set up UI tabs on page
         setupTabs();
         setupAccordions();
-        setupTimeago();
     });
 </script>
