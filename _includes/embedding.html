@@ -38,78 +38,9 @@
         root + 'static/fonts/Liberation_Sans-Regular.ttf'
     ];
 
-    var setupAccordions = function() {
-	// Preserve state in URL hash, following in part
-	// http://www.boduch.ca/2011/05/remembering-jquery-ui-accordion.html
-
-        // Make subaccordions first, make them active to get height, and then close later.
-        $(".jquery-ui-subaccordion-closed").accordion({collapsible: true, disabled: false, active: 0, heightStyle: "content"});
-
-        // If the user clicks on an accordion line, get its language code
-        // and save it as the hash #lcode in the current window's URL.
-	var accordionChange = function(event, ui) {
-	    var context = ui.newHeader ? ui.newHeader.context : null;
-	    if (context) {
-		var languageCode = context.getAttribute('data-lc');
-		if (languageCode !== null) {
-		    window.location.hash = languageCode;
-		}
-	    }
-	}
-        // jQuery UI "accordion" element initialization
-	$(".jquery-ui-accordion").accordion({
-	    collapsible: true,
-	    active: false,
-	    heightStyle: "content", // each panel will be only as tall as its content
-	    change: accordionChange
-	});
-	if ($(".jquery-ui-accordion").length) {
-	    var matches = window.location.hash.match(/^\#(.*)$/);
-	    console.log(matches);
-	    if (matches !== null) {
-		var languageCode = matches[1];
-		var tab = $('[data-lc="'+languageCode+'"]');
-		// the following will only work after accordion is initialized
-		var index = $('.jquery-ui-accordion div.ui-accordion-header').index(tab);
-		if (index !== -1) {
-		    $(".jquery-ui-accordion").accordion({ active: index });
-		}
-	    }
-	}
-        // now reclose these accordions
-        $(".jquery-ui-subaccordion-closed").accordion("option", "active", false);
-    };
-
-    var setupTimeago = function() {
-        jQuery("time.timeago").timeago();
-    };
-
-    var setupTabs = function() {
-        // standard jQuery UI "tabs" element initialization
-        $(".jquery-ui-tabs").tabs({ heightStyle: "content" });
-
-        // use jQuery address to preserve tab state
-        // (see https://github.com/UniversalDependencies/docs/issues/65,
-        // http://stackoverflow.com/a/3330919)
-        if ($(".jquery-ui-tabs").length > 0) {
-            $.address.change(function(event){
-	        $(".jquery-ui-tabs").tabs("select", window.location.hash)
-	    });
-	    $(".jquery-ui-tabs").bind("tabsselect", function(event, ui) {
-	        window.location.hash = ui.tab.hash;
-	    });
-        }
-    };
-
     head.ready(function() {
-        // set up UI tabs on page
-        setupTabs();
-        setupAccordions();
-        setupTimeago();
-
         // mark current collection (filled in by Jekyll)
         Collections.listing['_current'] = '{{ page.collection }}';
-
 	// perform all embedding and support functions
 	Annodoc.activate(Config.bratCollData, Collections.listing);
     });
