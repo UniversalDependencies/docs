@@ -48,24 +48,38 @@
 
       {% if page.udver == "2" %}
       <div class="v2complete">
-	This page pertains to UD version 2.
+        This page pertains to UD version 2.
       </div>
       {% else %}
       <div class="v1warning">
-	This page still pertains to UD version 1.
+        This page still pertains to UD version 1.
       </div>
       {% endif %}
 
       <div id="content">
-	<noscript>
-	  <div id="noscript">
-	    It appears that you have Javascript disabled.
-	    Please consider enabling Javascript for this page to see the visualizations.
-	  </div>
-	</noscript>
+        <noscript>
+          <div id="noscript">
+            It appears that you have Javascript disabled.
+            Please consider enabling Javascript for this page to see the visualizations.
+          </div>
+        </noscript>
 
-          {{ content }}
-
+        <!-- The content may include scripts and styles, hence we must load the shared libraries before the content. -->
+        <script type="text/javascript">
+            var root = '{{ relative }}'; // filled in by jekyll
+            head.js(
+                // External libraries
+                // DZ: Copied from embedding.html. I don't know which one is needed for what, so I'm currently keeping them all.
+                root + 'lib/ext/jquery.min.js',
+                root + 'lib/ext/jquery.svg.min.js',
+                root + 'lib/ext/jquery.svgdom.min.js',
+                root + 'lib/ext/jquery.timeago.js',
+                root + 'lib/ext/jquery-ui.min.js',
+                root + 'lib/ext/waypoints.min.js',
+                root + 'lib/ext/jquery.address.min.js'
+            );
+        </script>
+        {{ content }}
       </div>
 
 <!-- support for embedded visualizations -->
@@ -75,9 +89,9 @@
 {% include analytics.html %}
 
       <div id="footer">
-	  <p class="footer-text">&copy; 2014–2021
-	    <a href="http://universaldependencies.org/introduction.html#contributors" style="color:gray">Universal Dependencies contributors</a>.
-	    Site powered by <a href="http://spyysalo.github.io/annodoc" style="color:gray">Annodoc</a> and <a href="http://brat.nlplab.org/" style="color:gray">brat</a></p>.
+          <p class="footer-text">&copy; 2014–2021
+            <a href="http://universaldependencies.org/introduction.html#contributors" style="color:gray">Universal Dependencies contributors</a>.
+            Site powered by <a href="http://spyysalo.github.io/annodoc" style="color:gray">Annodoc</a> and <a href="http://brat.nlplab.org/" style="color:gray">brat</a></p>.
       </div>
     </div>
   </body>

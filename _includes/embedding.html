@@ -1,14 +1,8 @@
 <script type="text/javascript">
     var root = '{{ relative }}'; // filled in by jekyll
     head.js(
-        // External libraries
-        root + 'lib/ext/jquery.min.js',
-        root + 'lib/ext/jquery.svg.min.js',
-        root + 'lib/ext/jquery.svgdom.min.js',
-        root + 'lib/ext/jquery.timeago.js',
-        root + 'lib/ext/jquery-ui.min.js',
-        root + 'lib/ext/waypoints.min.js',
-        root + 'lib/ext/jquery.address.min.js',
+        // We assume that external libraries such as jquery.min.js have already been loaded outside!
+        // (See _layouts/base.html.)
 
         // brat helper modules
         root + 'lib/brat/configuration.js',
