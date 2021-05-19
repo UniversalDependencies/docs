@@ -1,14 +1,13 @@
 ---
 layout: postag
 title: 'CCONJ'
-redirect_from: "ja/pos/CONJ.html"
 shortdef: 'coordinating conjunction'
-udver '2'
+udver: '2'
 ---
 
 ### Definition
 
-`CCONJ` in Japanese is tagged for `conjunction` / 接続詞 in UniDic to represent coordination.  
+`CCONJ` in Japanese is tagged for `conjunction` / 接続詞 in UniDic to represent coordination.
 
 ### Examples
 
@@ -22,4 +21,5 @@ The following instances are conjunctions for nominal coordination:
 - _<b>しかし</b>&nbsp;_ “but” (`conjunction` / 接続詞)
 - _<b>もしくは</b>&nbsp;_ “or” (`conjunction` / 接続詞)
 - _<b>一方</b>&nbsp;_ “on the other hand” (`conjunction` / 接続詞)
+
 <!-- Interlanguage links updated Pá kvě 14 11:08:19 CEST 2021 -->

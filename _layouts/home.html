@@ -32,7 +32,6 @@
   </head>
   <body>
     <div id="main" class="center">
-
       <div id="hp-header">
         <table width="100%"><tr><td width="50%">
           <span class="header-text"><a href="{{ site.home }}{% if language %}#language-{{ language }}{% endif %}">home</a></span>
@@ -63,24 +62,23 @@
             Please consider enabling Javascript for this page to see the visualizations.
           </div>
         </noscript>
-
-        <!-- The content may include scripts and styles, hence we must load the shared libraries before the content. -->
-        <script type="text/javascript">
-            console.time('loading libraries');
-            var root = '{{ relative }}'; // filled in by jekyll
-            head.js(
-                // External libraries
-                // DZ: Copied from embedding.html. I don't know which one is needed for what, so I'm currently keeping them all.
-                root + 'lib/ext/jquery.min.js',
-                root + 'lib/ext/jquery.svg.min.js',
-                root + 'lib/ext/jquery.svgdom.min.js',
-                root + 'lib/ext/jquery-ui.min.js',
-                root + 'lib/ext/waypoints.min.js',
-                root + 'lib/ext/jquery.address.min.js'
-            );
-        </script>
         {{ content }}
       </div>
+
+      <script type="text/javascript">
+          console.time('loading libraries');
+          var root = '{{ relative }}'; // filled in by jekyll
+          head.js(
+              // External libraries
+              // DZ: Copied from embedding.html. I don't know which one is needed for what, so I'm currently keeping them all.
+              root + 'lib/ext/jquery.min.js',
+              root + 'lib/ext/jquery.svg.min.js',
+              root + 'lib/ext/jquery.svgdom.min.js',
+              root + 'lib/ext/jquery-ui.min.js',
+              root + 'lib/ext/waypoints.min.js',
+              root + 'lib/ext/jquery.address.min.js'
+          );
+      </script>
 
 <!-- support for accordions -->
 {% include accordion.html %}
@@ -89,9 +87,9 @@
 {% include analytics.html %}
 
       <div id="footer">
-          <p class="footer-text">&copy; 2014–2021
-            <a href="http://universaldependencies.org/introduction.html#contributors" style="color:gray">Universal Dependencies contributors</a>.
-            Site powered by <a href="http://spyysalo.github.io/annodoc" style="color:gray">Annodoc</a> and <a href="http://brat.nlplab.org/" style="color:gray">brat</a></p>.
+        <p class="footer-text">&copy; 2014–2021
+          <a href="http://universaldependencies.org/introduction.html#contributors" style="color:gray">Universal Dependencies contributors</a>.
+          Site powered by <a href="http://spyysalo.github.io/annodoc" style="color:gray">Annodoc</a> and <a href="http://brat.nlplab.org/" style="color:gray">brat</a>.</p>
       </div>
     </div>
   </body>

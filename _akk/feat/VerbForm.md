@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'VerbForm'
-shortdef: 'form of verb
+shortdef: 'form of verb'
 udver: '2'
 ---
 

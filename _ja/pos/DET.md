@@ -2,7 +2,7 @@
 layout: postag
 title: 'DET'
 shortdef: 'determiner'
-udver '2'
+udver: '2'
 ---
 
 ### Definition
@@ -18,7 +18,5 @@ while others are tagged [ADJ]() (e.g. _同じ&nbsp;_ “same”, _大きな&nbsp
 ### Examples
 
 - demonstrative determiners: _<b>この</b>_ “this”, _<b>その</b>_ “that”, _<b>あの</b>_ “that”, _<b>どの</b>&nbsp;_ “which” (`adnominal` / 連体詞)
-
-
 
 <!-- Interlanguage links updated Pá kvě 14 11:08:20 CEST 2021 -->
