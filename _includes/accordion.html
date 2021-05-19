@@ -45,29 +45,7 @@
         $(".jquery-ui-subaccordion-closed").accordion("option", "active", false);
     };
 
-    var setupTabs = function() {
-        // standard jQuery UI "tabs" element initialization
-        $(".jquery-ui-tabs").tabs({ heightStyle: "content" });
-
-        // use jQuery address to preserve tab state
-        // (see https://github.com/UniversalDependencies/docs/issues/65,
-        // http://stackoverflow.com/a/3330919)
-        if ($(".jquery-ui-tabs").length > 0) {
-            $.address.change(function(event){
-	        $(".jquery-ui-tabs").tabs("select", window.location.hash)
-	    });
-	    $(".jquery-ui-tabs").bind("tabsselect", function(event, ui) {
-	        window.location.hash = ui.tab.hash;
-	    });
-        }
-    };
-
     head.ready(function() {
-        // set up UI tabs on page
-        // Use console.time() and console.timeEnd() to find out how long the execution takes.
-        console.time('setupTabs');
-        setupTabs();
-        console.timeEnd('setupTabs');
         console.time('setupAccordions');
         setupAccordions();
         console.timeEnd('setupAccordions');
