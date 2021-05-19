@@ -45,10 +45,6 @@
         $(".jquery-ui-subaccordion-closed").accordion("option", "active", false);
     };
 
-    var setupTimeago = function() {
-        jQuery("time.timeago").timeago();
-    };
-
     var setupTabs = function() {
         // standard jQuery UI "tabs" element initialization
         $(".jquery-ui-tabs").tabs({ heightStyle: "content" });
@@ -70,6 +66,5 @@
         // set up UI tabs on page
         setupTabs();
         setupAccordions();
-        setupTimeago();
     });
 </script>
