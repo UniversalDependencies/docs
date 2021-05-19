@@ -49,7 +49,7 @@ Some verbal stems show irregular variations in their imperfective forms for hist
 * ind. pres., 1st pers. sing. *uolo* 'I want', 2nd pers. sing. *uis*, 3rd pers. sing. *uult*; pres. inf. *uelle*, ...
 * ind. pres., 1st pers. sing. *eo* 'I go', 2nd pers. sing. *is*, ...
 
-All Latin verbal stems inflect for imperfective in the active or passive [voice](la-feat/Voice) (and possibly both), with the only notable exceptions of *memini* 'to remember' and *odi* 'to hate' ("perfective" verbs), and *coepi* 'to begin'. Some verbal stems appear only in an imperfective form: *uolo* 'to want', *nolo* 'to not want', *malo* 'to prefer'.
+All Latin verbal stems inflect for imperfective in the active or passive [voice](la-feat/Voice) (and possibly both), with the only notable exceptions of *memini* 'to remember' and *odi* 'to hate' ("perfective" verbs), and *coepi* 'to begin'.
 
 #### Examples
 
@@ -130,7 +130,7 @@ Some verbs express the perfective aspect by means of suppletive forms:
 * imp. *fero* 'I bring', perf. *tuli* 'I have brought', perf. part. *latus* 'brought'
 * imp. *fio* 'I become', perf. *factus sum* 'I have become'
 
-Some verbal stems only appear in their perfective forms:  *memini* 'to remember' and *odi* 'to hate' ("perfective" verbs), and *coepi* 'to begin'. Some verbal stems do not have a perfective form: *uolo* 'to want', *nolo* 'to not want', *malo* 'to prefer'.
+Some verbal stems only appear in their perfective forms:  *memini* 'to remember' and *odi* 'to hate' ("perfective" verbs), and *coepi* 'to begin'.
 
 #### Examples
 
