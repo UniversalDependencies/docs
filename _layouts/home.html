@@ -1,8 +1,102 @@
----
-layout: base
----
+{% capture lvl %}{{ page.url | append:'index.html' | split:'/' | size }}{% endcapture %}{% capture relative %}{% for i in (3..lvl) %}../{% endfor %}{% endcapture %}{% capture language %}{% if page.collection %}{{ page.collection | split:'-' | first }}{% endif %}{% endcapture %}{% capture category %}{% if page.collection %}{{ page.collection | split:'-' | last }}{% endif %}{% endcapture %}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-GB" xml:lang="en-GB" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>{{ page.title }}</title>
+    <link rel="root" href=""/> <!-- for JS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="{{ relative }}css/jquery-ui-redmond.css"/>
+    <link rel="stylesheet" type="text/css" href="{{ relative }}css/style.css"/>
+    <link rel="stylesheet" type="text/css" href="{{ relative }}css/style-vis.css"/>
+    <link rel="stylesheet" type="text/css" href="{{ relative }}css/hint.css"/>
+    <script type="text/javascript" src="{{ relative }}lib/ext/head.load.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.2.2/anchor.min.js"></script>
+    <script>document.addEventListener("DOMContentLoaded", function(event) {anchors.add();});</script>
+    <!-- Set up this custom Google search at https://cse.google.com/cse/business/settings?cx=001145188882102106025:dl1mehhcgbo -->
+    <!-- DZ 2021-01-22: I am temporarily hiding the search field to find out whether it slows down loading of the title page.
+    <script>
+      (function() {
+        var cx = '001145188882102106025:dl1mehhcgbo';
+        var gcse = document.createElement('script');
+        gcse.type = 'text/javascript';
+        gcse.async = true;
+        gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(gcse, s);
+      })();
+    </script> -->
+<!--     <link rel="shortcut icon" href="favicon.ico"/> -->
 
-{{ content }}
+
+  </head>
+  <body>
+    <div id="main" class="center">
+
+      <div id="hp-header">
+        <table width="100%"><tr><td width="50%">
+          <span class="header-text"><a href="{{ site.home }}{% if language %}#language-{{ language }}{% endif %}">home</a></span>
+
+{% if page.generated != 'true' %}          <span class="header-text"><a href="{{ site.git_edit }}/{% if page.collection %}{{ page.relative_path }}{% else %}{{ page.path }}{% endif %}" target="#">edit page</a></span>{% endif %}
+          <span class="header-text"><a href="{{ site.tracker }}">issue tracker</a></span>
+        </td><td>
+          <gcse:search></gcse:search>
+        </td></tr></table>
+      </div>
+
+      <hr/>
+
+      {% if page.udver == "2" %}
+      <div class="v2complete">
+        This page pertains to UD version 2.
+      </div>
+      {% else %}
+      <div class="v1warning">
+        This page still pertains to UD version 1.
+      </div>
+      {% endif %}
+
+      <div id="content">
+        <noscript>
+          <div id="noscript">
+            It appears that you have Javascript disabled.
+            Please consider enabling Javascript for this page to see the visualizations.
+          </div>
+        </noscript>
+
+        <!-- The content may include scripts and styles, hence we must load the shared libraries before the content. -->
+        <script type="text/javascript">
+            console.time('loading libraries');
+            var root = '{{ relative }}'; // filled in by jekyll
+            head.js(
+                // External libraries
+                // DZ: Copied from embedding.html. I don't know which one is needed for what, so I'm currently keeping them all.
+                root + 'lib/ext/jquery.min.js',
+                root + 'lib/ext/jquery.svg.min.js',
+                root + 'lib/ext/jquery.svgdom.min.js',
+                root + 'lib/ext/jquery.timeago.js',
+                root + 'lib/ext/jquery-ui.min.js',
+                root + 'lib/ext/waypoints.min.js',
+                root + 'lib/ext/jquery.address.min.js'
+            );
+        </script>
+        {{ content }}
+      </div>
 
 <!-- support for accordions -->
 {% include accordion.html %}
+
+<!-- support for embedded visualizations -->
+{% include embedding.html %}
+
+<!-- google analytics -->
+{% include analytics.html %}
+
+      <div id="footer">
+          <p class="footer-text">&copy; 2014–2021
+            <a href="http://universaldependencies.org/introduction.html#contributors" style="color:gray">Universal Dependencies contributors</a>.
+            Site powered by <a href="http://spyysalo.github.io/annodoc" style="color:gray">Annodoc</a> and <a href="http://brat.nlplab.org/" style="color:gray">brat</a></p>.
+      </div>
+    </div>
+  </body>
+</html>
