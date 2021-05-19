@@ -77,9 +77,9 @@
                 root + 'lib/ext/jquery.timeago.js',
                 root + 'lib/ext/jquery-ui.min.js',
                 root + 'lib/ext/waypoints.min.js',
-                root + 'lib/ext/jquery.address.min.js',
+                root + 'lib/ext/jquery.address.min.js'
                 // embedding configuration
-                root + 'lib/local/collections.js'
+                //root + 'lib/local/collections.js'
             );
         </script>
         {{ content }}
@@ -98,7 +98,7 @@
         setupTimeago();
 
         // mark current collection (filled in by Jekyll)
-        Collections.listing['_current'] = '{{ page.collection }}';
+        //Collections.listing['_current'] = '{{ page.collection }}';
     });
 </script>
 
