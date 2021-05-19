@@ -1,6 +1,6 @@
 ---
-layout: base
-title:  'Universal Dependencies'
+layout: home
+title: 'Universal Dependencies'
 udver: '2'
 ---
 
