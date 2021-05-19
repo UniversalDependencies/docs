@@ -6,7 +6,7 @@ udver: '2'
 
 # Obsolete Introductions
 
-This site currently contains 34 language-specific introduction pages. They are
+This site currently contains 34 language-specific introduction pages. These are
 probably obsolete and will be removed because they probably contain descriptions
 of individual treebanks (rather than languages). In the future, such information
 will be copied automatically from the README files in the treebank repositories,
