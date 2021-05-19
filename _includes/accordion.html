@@ -46,6 +46,7 @@
     };
 
     head.ready(function() {
+        console.timeEnd('loading libraries');
         console.time('setupAccordions');
         setupAccordions();
         console.timeEnd('setupAccordions');

@@ -66,6 +66,7 @@
 
         <!-- The content may include scripts and styles, hence we must load the shared libraries before the content. -->
         <script type="text/javascript">
+            console.time('loading libraries');
             var root = '{{ relative }}'; // filled in by jekyll
             head.js(
                 // External libraries
