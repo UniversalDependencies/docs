@@ -78,27 +78,10 @@
                 root + 'lib/ext/jquery-ui.min.js',
                 root + 'lib/ext/waypoints.min.js',
                 root + 'lib/ext/jquery.address.min.js',
-
-        // brat helper modules
-        //root + 'lib/brat/configuration.js',
-        //root + 'lib/brat/util.js',
-        //root + 'lib/brat/annotation_log.js',
-        root + 'lib/ext/webfont.js',
-        // brat modules
-        //root + 'lib/brat/dispatcher.js',
-        //root + 'lib/brat/url_monitor.js',
-        //root + 'lib/brat/visualizer.js',
-
-        // embedding configuration
-        //root + 'lib/local/config.js',
-        // project-specific collection data
-        root + 'lib/local/collections.js'
-
-        // Annodoc
-        //root + 'lib/annodoc/annodoc.js',
-
-        // NOTE: non-local libraries
-        //'https://spyysalo.github.io/conllu.js/conllu.js'
+                // brat helper modules
+                //root + 'lib/ext/webfont.js',
+                // embedding configuration
+                root + 'lib/local/collections.js'
             );
         </script>
         {{ content }}
@@ -107,13 +90,13 @@
 <!-- support for accordions -->
 {% include accordion.html %}
 
-<!-- support for embedded visualizations -->
+<!-- remnants from embedding.html; I am not sure they are needed on the home page -->
 <script type="text/javascript">
-    var webFontURLs = [
+//    var webFontURLs = [
 //        root + 'static/fonts/Astloch-Bold.ttf',
-        root + 'static/fonts/PT_Sans-Caption-Web-Regular.ttf',
-        root + 'static/fonts/Liberation_Sans-Regular.ttf'
-    ];
+//        root + 'static/fonts/PT_Sans-Caption-Web-Regular.ttf',
+//        root + 'static/fonts/Liberation_Sans-Regular.ttf'
+//    ];
 
     var setupTimeago = function() {
         jQuery("time.timeago").timeago();
@@ -124,9 +107,6 @@
 
         // mark current collection (filled in by Jekyll)
         Collections.listing['_current'] = '{{ page.collection }}';
-
-	// perform all embedding and support functions
-	//Annodoc.activate(Config.bratCollData, Collections.listing);
     });
 </script>
 
