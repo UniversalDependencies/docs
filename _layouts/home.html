@@ -78,8 +78,6 @@
                 root + 'lib/ext/jquery-ui.min.js',
                 root + 'lib/ext/waypoints.min.js',
                 root + 'lib/ext/jquery.address.min.js'
-                // embedding configuration
-                //root + 'lib/local/collections.js'
             );
         </script>
         {{ content }}
@@ -96,9 +94,6 @@
 
     head.ready(function() {
         setupTimeago();
-
-        // mark current collection (filled in by Jekyll)
-        //Collections.listing['_current'] = '{{ page.collection }}';
     });
 </script>
 
