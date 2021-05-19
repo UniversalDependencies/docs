@@ -64,7 +64,12 @@
 
     head.ready(function() {
         // set up UI tabs on page
+        // Use console.time() and console.timeEnd() to find out how long the execution takes.
+        console.time('setupTabs');
         setupTabs();
+        console.timeEnd('setupTabs');
+        console.time('setupAccordions');
         setupAccordions();
+        console.timeEnd('setupAccordions');
     });
 </script>
