@@ -74,7 +74,6 @@
                 root + 'lib/ext/jquery.min.js',
                 root + 'lib/ext/jquery.svg.min.js',
                 root + 'lib/ext/jquery.svgdom.min.js',
-                root + 'lib/ext/jquery.timeago.js',
                 root + 'lib/ext/jquery-ui.min.js',
                 root + 'lib/ext/waypoints.min.js',
                 root + 'lib/ext/jquery.address.min.js'
@@ -85,17 +84,6 @@
 
 <!-- support for accordions -->
 {% include accordion.html %}
-
-<!-- remnants from embedding.html; I am not sure they are needed on the home page -->
-<script type="text/javascript">
-    var setupTimeago = function() {
-        jQuery("time.timeago").timeago();
-    };
-
-    head.ready(function() {
-        setupTimeago();
-    });
-</script>
 
 <!-- google analytics -->
 {% include analytics.html %}
