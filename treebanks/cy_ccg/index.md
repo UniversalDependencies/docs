@@ -61,6 +61,7 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
 If you use this treebank in your work, please cite:
 
 ```
+{% raw %}
 @inproceedings{heinecke2019,
 author = {Heinecke, Johannes and Tyers, Francis M.},
 title = {{Development of a Universal Dependencies treebank for Welsh}},
@@ -71,6 +72,7 @@ address = {Dublin},
 pages = {21--31},
 url = {https://www.aclweb.org/anthology/W19-6904},
 }
+{% endraw %}
 ```
 
 
