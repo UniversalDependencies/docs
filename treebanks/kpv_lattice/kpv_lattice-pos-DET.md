@@ -68,8 +68,8 @@ The 3rd highest number of forms (2) was observed with the lemma “кыкнан�
 `DET` occurs with 15 feature-value pairs: `Case=Acc`, `Case=Gen`, `Case=Nom`, `Definite=Ind`, `NumType=Card`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person[psor]=1`, `Person[psor]=3`, `PronType=Dem`, `PronType=Prs`, `Reflex=Yes`
 
 `DET` occurs with 15 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing` (11 tokens).
-Examples: <em>став, быд, кыкнан</em>
+The most frequent feature combination is `_` (11 tokens).
+Examples: <em>уна, кымын, мыйта, мӧд</em>
 
 
 ## Relations

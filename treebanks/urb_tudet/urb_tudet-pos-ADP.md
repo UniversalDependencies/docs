@@ -36,8 +36,8 @@ The 2nd highest number of forms (1) was observed with the lemma “pe”: <em>pe
 `ADP` occurs with 2 feature-value pairs: `Rel=Cont`, `Rel=NCont`
 
 `ADP` occurs with 3 feature combinations.
-The most frequent feature combination is `Rel=Cont` (1 tokens).
-Examples: <em>rehe</em>
+The most frequent feature combination is `Rel=NCont` (1 tokens).
+Examples: <em>ehe</em>
 
 
 ## Relations

@@ -77,7 +77,7 @@ title = {From {L}exical {F}unctional {G}rammar to Enhanced {U}niversal {D}epende
 publisher = {Institute of Computer Science, Polish Academy of Sciences},
 year = 2018,
 address = {Warsaw},
-url = {http://nlp.ipipan.waw.pl/Bib/pat:prz:18:book.pdf}}
+url = {http://nlp.ipipan.waw.pl/Bib/pat:prz:18:book.pdf{% raw %}}}{% endraw %}
 
 
 

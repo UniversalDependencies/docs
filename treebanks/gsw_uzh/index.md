@@ -82,14 +82,12 @@ This work has been performed at the University of Zurich by Noëmi Aepli with th
 * Citation:
 
 ```
-{% raw %}
 @inproceedings{aepli2018parsing,
-title={{Parsing Approaches for Swiss German}},
+title={% raw %}{{{% endraw %}Parsing Approaches for Swiss German{% raw %}}}{% endraw %},
 author={No\"emi Aepli and Simon Clematide},
-booktitle={{Proceedings of the 3rd Swiss Text Analytics Conference (SwissText), Winterthur, Switzerland}},
+booktitle={% raw %}{{{% endraw %}Proceedings of the 3rd Swiss Text Analytics Conference (SwissText), Winterthur, Switzerland{% raw %}}}{% endraw %},
 year={2018}
 }
-{% endraw %}
 ```
 
 * [Download Paper](https://www.zora.uzh.ch/id/eprint/159152/1/paper1.pdf)

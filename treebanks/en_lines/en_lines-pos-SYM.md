@@ -41,8 +41,8 @@ The 2nd highest number of forms (1) was observed with the lemma “like”: <em>
 `SYM` occurs with 1 feature-value pairs: `Number=Sing`
 
 `SYM` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (3 tokens).
-Examples: <em>-%, Like</em>
+The most frequent feature combination is `Number=Sing` (3 tokens).
+Examples: <em>%</em>
 
 
 ## Relations

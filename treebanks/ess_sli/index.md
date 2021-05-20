@@ -59,7 +59,6 @@ The current version contains dependency annotations for end-of-chapter exercises
 ## References
 
 ```
-{% raw %}
 @inproceedings{park-etal-2021-expanding,
 title = "Expanding Universal Dependencies for Polysynthetic Languages: A Case of St.~Lawrence Island Yupik",
 author = "Park, Hyunji Hayley and
@@ -89,16 +88,16 @@ ISBN = "979-10-95546-34-4",
 }
 
 @book{jacobsonPracticalGrammarSt2001,
-title = {A Practical Grammar of the {{St}}. {{Lawrence Island}}/{{Siberian Yupik Eskimo}} Language},
+title = {A Practical Grammar of the {% raw %}{{{% endraw %}St{% raw %}}}{% endraw %}. {% raw %}{{{% endraw %}Lawrence Island{% raw %}}}{% endraw %}/{% raw %}{{{% endraw %}Siberian Yupik Eskimo{% raw %}}}{% endraw %} Language},
 author = {Jacobson, Steven A.},
 year = {2001},
 edition = {2. ed},
-publisher = {{Alaska Native Language Center, College of Liberal Arts, University of Alaska}},
-address = {{Fairbanks}},
+publisher = {% raw %}{{{% endraw %}Alaska Native Language Center, College of Liberal Arts, University of Alaska{% raw %}}}{% endraw %},
+address = {% raw %}{{{% endraw %}Fairbanks{% raw %}}}{% endraw %},
 isbn = {978-1-55500-077-6},
 language = {en}
 }
-{% endraw %}
+
 ```
 
 

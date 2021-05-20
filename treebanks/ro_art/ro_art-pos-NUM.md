@@ -37,8 +37,8 @@ The 3rd highest number of forms (1) was observed with the lemma “trei”: <em>
 `NUM` occurs with 8 feature-value pairs: `Case=Acc,Nom`, `Definite=Def`, `Gender=Fem`, `Gender=Masc`, `NumForm=Word`, `NumType=Card`, `Number=Plur`, `Number=Sing`
 
 `NUM` occurs with 4 feature combinations.
-The most frequent feature combination is `Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card` (2 tokens).
-Examples: <em>doľi, treiľi</em>
+The most frequent feature combination is `Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card` (2 tokens).
+Examples: <em>ună</em>
 
 
 ## Relations

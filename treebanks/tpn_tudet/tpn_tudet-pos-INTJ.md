@@ -32,8 +32,8 @@ The 2nd highest number of forms (1) was observed with the lemma “aʔãni”: <
 `INTJ` occurs with 1 feature-value pairs: `Polarity=Neg`
 
 `INTJ` occurs with 2 feature combinations.
-The most frequent feature combination is `Polarity=Neg` (2 tokens).
-Examples: <em>Aʔãni</em>
+The most frequent feature combination is `_` (2 tokens).
+Examples: <em>Awjé, Aʔãni</em>
 
 
 ## Relations

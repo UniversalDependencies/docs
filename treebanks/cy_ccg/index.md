@@ -61,18 +61,16 @@ A few example sentences are taken from Welsh Grammars (Gramaded Cymraeg Cyfoes: 
 If you use this treebank in your work, please cite:
 
 ```
-{% raw %}
 @inproceedings{heinecke2019,
 author = {Heinecke, Johannes and Tyers, Francis M.},
-title = {{Development of a Universal Dependencies treebank for Welsh}},
+title = {% raw %}{{{% endraw %}Development of a Universal Dependencies treebank for Welsh{% raw %}}}{% endraw %},
 year = {2019},
-booktitle = {{Proceedings of the Celtic Language Technology Workshop}},
+booktitle = {% raw %}{{{% endraw %}Proceedings of the Celtic Language Technology Workshop{% raw %}}}{% endraw %},
 publisher = {European Association for Machine Translation},
 address = {Dublin},
 pages = {21--31},
 url = {https://www.aclweb.org/anthology/W19-6904},
 }
-{% endraw %}
 ```
 
 

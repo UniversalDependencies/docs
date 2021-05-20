@@ -69,7 +69,7 @@ If you use this treebank in your work, please cite:
 author = {Francis M. Tyers and Vinit Ravishankar},
 title = {A prototype dependency treebank for Breton},
 booktitle = {Actes de la 25e conférence sur le Traitement Automatique des Langues Naturelles (TALN)},
-note = {\emph{to appear}},
+note = {\emph{to appear{% raw %}}}{% endraw %},
 year = 2018
 }
 ```

@@ -34,8 +34,8 @@ The 3rd highest number of forms (1) was observed with the lemma “мукӧд”
 `DET` occurs with 3 feature-value pairs: `Case=Nom`, `Number=Sing`, `PronType=Tot`
 
 `DET` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (1 tokens).
-Examples: <em>эта</em>
+The most frequent feature combination is `Case=Nom|Number=Sing|PronType=Tot` (1 tokens).
+Examples: <em>Быд</em>
 
 
 ## Relations

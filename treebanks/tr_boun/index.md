@@ -66,15 +66,15 @@ For now, you can use arXiv reference for this treebank:
 ```
 @misc{trk2020resources,
 title={Resources for Turkish Dependency Parsing: Introducing the BOUN Treebank and the BoAT Annotation Tool},
-author={Utku T{\”{u}}rk and
+author={Utku T{\”{u{% raw %}}}{% endraw %}rk and
 Furkan Atmaca and
-{\c{S}aziye Bet{\"{u}}l {\"{O}}zate{\c{s}} and
-G{\"{o}}zde Berk and
+{\c{S}aziye Bet{\"{u{% raw %}}}{% endraw %}l {\"{O{% raw %}}}{% endraw %}zate{\c{s{% raw %}}}{% endraw %} and
+G{\"{o{% raw %}}}{% endraw %}zde Berk and
 Seyyit Talha Bedir and
-Abdullatif K{\"{o}}ksal and
-Balk{\i}z {\"{O}}zt{\"{u}}rk Ba{\c{s}}aran and
-Tunga G{\"{u}}ng{\"{o}}r and
-Arzucan {\"{O}}zg{\"{u}}r},
+Abdullatif K{\"{o{% raw %}}}{% endraw %}ksal and
+Balk{\i}z {\"{O{% raw %}}}{% endraw %}zt{\"{u{% raw %}}}{% endraw %}rk Ba{\c{s{% raw %}}}{% endraw %}aran and
+Tunga G{\"{u{% raw %}}}{% endraw %}ng{\"{o{% raw %}}}{% endraw %}r and
+Arzucan {\"{O{% raw %}}}{% endraw %}zg{\"{u{% raw %}}}{% endraw %}r},
 year={2020},
 eprint={2002.10416},
 archivePrefix={arXiv},

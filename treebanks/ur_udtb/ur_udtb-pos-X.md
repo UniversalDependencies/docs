@@ -61,8 +61,8 @@ The 3rd highest number of forms (1) was observed with the lemma “افسوس”
 `X` occurs with 8 feature-value pairs: `Case=Acc`, `Case=Nom`, `Foreign=Yes`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=3`, `VerbForm=Inf`
 
 `X` occurs with 6 feature combinations.
-The most frequent feature combination is `Foreign=Yes` (7 tokens).
-Examples: ئن، را، لوڈ، نئچ، چۓۓپ، ڈان، ہتتپ
+The most frequent feature combination is `_` (7 tokens).
+Examples: خدارا، آخر، نسبتاً، نہ، واقعی، چلو
 
 
 ## Relations

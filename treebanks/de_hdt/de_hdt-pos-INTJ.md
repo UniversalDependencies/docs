@@ -48,8 +48,8 @@ The 3rd highest number of forms (1) was observed with the lemma “Aha”: <em>A
 `INTJ` occurs with 1 feature-value pairs: `PartType=Res`
 
 `INTJ` occurs with 2 feature combinations.
-The most frequent feature combination is `PartType=Res` (37 tokens).
-Examples: <em>ja, nein</em>
+The most frequent feature combination is `_` (37 tokens).
+Examples: <em>bitte, Ha, Aha, AHA, Ach, Hey, Hü, Pah, Tja, äh</em>
 
 
 ## Relations
