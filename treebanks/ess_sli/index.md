@@ -59,6 +59,7 @@ The current version contains dependency annotations for end-of-chapter exercises
 ## References
 
 ```
+{% raw %}
 @inproceedings{park-etal-2021-expanding,
 title = "Expanding Universal Dependencies for Polysynthetic Languages: A Case of St.~Lawrence Island Yupik",
 author = "Park, Hyunji Hayley and
@@ -97,7 +98,7 @@ address = {{Fairbanks}},
 isbn = {978-1-55500-077-6},
 language = {en}
 }
-
+{% endraw %}
 ```
 
 
