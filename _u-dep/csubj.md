@@ -30,4 +30,7 @@ csubj(interesting, said)
 What she said was well received
 csubj:pass(received, said)
 ~~~
+
+See also expletive subject examples under [expl]() that use `csubj`.
+
 <!-- Interlanguage links updated Pá kvě 14 11:08:59 CEST 2021 -->
