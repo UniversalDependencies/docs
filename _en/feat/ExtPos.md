@@ -12,31 +12,31 @@ the effective UPOS of the full expression when it differs from the UPOS of the w
 of some UD treebanks. Its inclusion in FEATS is currently specific to English, and only heads of the `fixed` relation, 
 though in the future it may be broadened.
 
-### <a name="ADP">`ADP`</a>
+### <a name="ADP">`ADP`</a>: adposition-like expression
 
 #### Examples
 
 * _figures <b>such as</b> the Pope_
 
-### <a name="ADV">`ADV`</a>
+### <a name="ADV">`ADV`</a>: adverb-like expression
 
 #### Examples
 
 * _I like dogs, <b>of course</b>_
 
-### <a name="AUX">`AUX`</a>
+### <a name="AUX">`AUX`</a>: auxiliary-like expression
 
 #### Examples
 
 * _you <b>had better</b> apologize_
 
-### <a name="CCONJ">`CCONJ`</a>
+### <a name="CCONJ">`CCONJ`</a>: coordinating conjunction-like expression
 
 #### Examples
 
 * _I like dogs <b>as well as</b> cats_
 
-### <a name="SCONJ">`SCONJ`</a>
+### <a name="SCONJ">`SCONJ`</a>: subordinator-like expression
 
 #### Examples
 
