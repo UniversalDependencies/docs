@@ -24,12 +24,6 @@ though in the future it may be broadened.
 
 * _I like dogs, <b>of course</b>_
 
-### <a name="AUX">`AUX`</a>: auxiliary-like expression
-
-#### Examples
-
-* _you <b>had better</b> apologize_
-
 ### <a name="CCONJ">`CCONJ`</a>: coordinating conjunction-like expression
 
 #### Examples
