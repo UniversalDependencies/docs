@@ -22,7 +22,7 @@ though in the future it may be broadened.
 
 #### Examples
 
-* _I like dogs <b>as well</b>_ (cf. 'also')
+* _I like dogs, <b>of course</b>_
 
 ### <a name="AUX">`AUX`</a>
 
