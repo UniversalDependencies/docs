@@ -16,22 +16,27 @@ though in the future it may be broadened.
 
 #### Examples
 
-* _figures <b>such as</b> the Pope_
+* _figures <b>such as</b> the Pope_ (_such_ = `ADJ`)
+* _I want a cat <b>instead of</b> a dog_ (_instead_ = `ADV`)
+* _<b>according to</b> the Pope_ (_according_ = `VERB`)
 
 ### <a name="ADV">`ADV`</a>: adverb-like expression
 
 #### Examples
 
-* _I like dogs, <b>of course</b>_
+* _I like dogs, <b>of course</b>_ (_of_ = `ADP`)
 
 ### <a name="CCONJ">`CCONJ`</a>: coordinating conjunction-like expression
 
 #### Examples
 
-* _I like dogs <b>as well as</b> cats_
+* _I like dogs <b>as well as</b> cats_ (first _as_ = `ADV`)
+* _I don't want a cat <b>let alone</b> a dog_ (_let_ = `VERB`)
 
 ### <a name="SCONJ">`SCONJ`</a>: subordinator-like expression
 
 #### Examples
 
-* _pastimes <b>such as</b> eating cake_
+* _pastimes <b>such as</b> eating cake_ (_such_ = `ADJ`)
+* _I brought an umbrella <b>in case</b> it rains_ (_in_ = `ADP`)
+* _Let's walk <b>instead of</b> taking the bus_ (_instead_ = `ADV`)
