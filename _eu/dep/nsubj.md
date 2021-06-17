@@ -14,7 +14,7 @@ Example of a subject in an intransitive sentence (ABS case):
 *These two **parts** fold by the sites that are marked .*
 
 ~~~ sdparse
-Bi zati hauek markaturik dauden tokietatik tolesten dira .\n Two parts these marked are_that sites_the_by fold .
+Bi zati hauek markaturik dauden tokietatik tolesten dira . \n Two parts these marked are_that sites_the_by fold .
 
 det(zati-2, Bi-1)
 nsubj(tolesten-7, zati-2)
@@ -34,7 +34,7 @@ Example of a subject in a transitive sentence (ERG case):
 *The **change** has caused a huge discussion .*
 
 ~~~ sdparse
-Eztabaida handia sortu du aldaketak .\n Discussion huge_a caused has change_the .
+Eztabaida handia sortu du aldaketak . \n Discussion huge_a caused has change_the .
 
 amod(Eztabaida-1, handia-2)
 dobj(sortu-3, Eztabaida-1)
@@ -44,7 +44,6 @@ punct(sortu-3, .-6)
 ~~~
 
 
-
 Being Basque a free word order language, arguments of the verb can appear in different orders with respect to the verb.
 
 ***Aldaketak** eztabaida handia sortu du .*
@@ -52,7 +51,7 @@ Being Basque a free word order language, arguments of the verb can appear in dif
 *The **change** has caused a huge discussion .*
 
 ~~~ sdparse
-Aldaketak eztabaida handia sortu du .\n Change_the discussion huge_a caused has .
+Aldaketak eztabaida handia sortu du . \n Change_the discussion huge_a caused has .
 
 nsubj(sortu-4, Aldaketak-1)
 amod(eztabaida-2, handia-3)

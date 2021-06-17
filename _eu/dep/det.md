@@ -57,7 +57,7 @@ Aukera asko daude . \n Options many there_are .
 
 det(Aukera-1, asko-2)
 cop(Aukera-1, daude-3)
-punct(Aukera-1-2, .-4)
+punct(Aukera-1, .-4)
 ~~~
 
 

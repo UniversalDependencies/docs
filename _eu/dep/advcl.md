@@ -17,7 +17,7 @@ Askatasunean oinarritutako alternatiba bat ematea . \n  Freedom based_on alterna
 
 nmod(oinarritutako-2, Askatasunean-1)
 advcl(alternatiba-3, oinarritutako-2)
-nummod(aternatiba-3, bat-4)
+nummod(alternatiba-3, bat-4)
 dobj(ematea-5, alternatiba-3)
 punct(ematea-5, .-6)
 ~~~

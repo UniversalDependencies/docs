@@ -14,13 +14,15 @@ We differentiate adverbials realized as adverbs _(advmod)_ and adverbials realiz
 *Rich, **however**, is not **alone** .*
 
 ~~~ sdparse
-Rich, ordea, ez dago bakarrik . \n Rich, however, is not alone .
+Rich , ordea , ez dago bakarrik . \n Rich , however , is not alone .
 
-nsubj(dago-4, Rich-1)
-advmod(dago-4, ordea-2)
-neg(dago-4, ez-3)
-advmod(dago-4, bakarrik-5)
-punct(dago-4, .-6)
+nsubj(dago-6, Rich-1)
+advmod(dago-6, ordea-3)
+neg(dago-6, ez-5)
+advmod(dago-6, bakarrik-7)
+punct(dago-6, .-8)
+punct(dago-6, ,-2)
+punct(dago-6, ,-4)
 ~~~
 
 

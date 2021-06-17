@@ -22,7 +22,7 @@ Even if Basque word order is quite free, the auxiliary can only appear right aft
 *These two parts fold by the places that **are** marked .*
 
 ~~~ sdparse
-Bi zati hauek markaturik dauden tokietatik tolesten dira .\n Two parts these marked are_that sites_the_by fold .
+Bi zati hauek markaturik dauden tokietatik tolesten dira . \n Two parts these marked are_that sites_the_by fold .
 
 det(zati-2, Bi-1)
 nsubj(tolesten-7, zati-2)
@@ -42,7 +42,7 @@ punct(tolesten-7, .-9)
 *The change **has** caused a huge discussion .*
 
 ~~~ sdparse
-Eztabaida handia sortu du aldaketak .\n Discussion huge_a caused has change_the .
+Eztabaida handia sortu du aldaketak . \n Discussion huge_a caused has change_the .
 
 amod(Eztabaida-1, handia-2)
 nobj(sortu-3, Eztabaida-1)

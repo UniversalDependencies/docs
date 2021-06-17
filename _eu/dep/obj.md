@@ -12,7 +12,7 @@ The direct object (`obj`) of a verb is the noun phrase that denotes the entity a
 *(He/she) reminded that Basque society refused the **Constitution** .*
 
 ~~~ sdparse
-Euskal gizarteak Konstituzioa errefusatu zuela oroitarazi zuen .\n Basque society Constitution_the refused_that reminded .
+Euskal gizarteak Konstituzioa errefusatu zuela oroitarazi zuen . \n Basque society Constitution_the refused_that reminded .
 
 nmod(Euskal-1, gizarteak-2)
 nsubj(errefusatu-4, gizarteak-2)

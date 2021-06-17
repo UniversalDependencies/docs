@@ -12,7 +12,7 @@ An appositional modifier of a noun (`appos`) is a nominal immediately following 
 *They killed a couple in Chinani, in the Taref **province** .*
 
 ~~~ sdparse
-Bikote bat hil zuten Chinanin, Taref probintzian . \n Couple a killed Chinani_in, Taref province_the_in .
+Bikote bat hil zuten Chinanin , Taref probintzian . \n Couple a killed Chinani_in , Taref province_the_in .
 
 dobj(hil-3, Bikote-1)
 nummod(Bikote-1, bat-2)
@@ -30,15 +30,17 @@ punct(hil-3, .-9)
 *They explained it in the last assembly, in **the one made** in the 10th march .*
 
 ~~~ sdparse
-Azkenengo asanbladan, martxoaren 10ean eginikoa, adierazi zuten . \n They explained it in the last assembly, in the one made in the 10th march .
+Azkenengo asanbladan , martxoaren 10ean eginikoa , adierazi zuten . \n They explained it in the last assembly , in the one made in the 10th march .
 
 amod(asanbladan-2, Azkenengo-1)
-nmod(adierazi-6, asanbladan-2)
-nmod(10ean-4, martxoaren-3)
-nmod(eginikoa-5, 10ean-4)
-appos(asanbladan-2, eginikoa-5)
-aux(adierazi-6, zuten-7)
-punct(adierazi-6, .-8)
+nmod(adierazi-8, asanbladan-2)
+nmod(10ean-5, martxoaren-4)
+nmod(eginikoa-6, 10ean-5)
+appos(asanbladan-2, eginikoa-6)
+aux(adierazi-8, zuten-9)
+punct(adierazi-8, .-10)
+punct(asanbladan-2, ,-3)
+punct(asanbladan-2, ,-7)
 ~~~
 
 
@@ -47,22 +49,24 @@ punct(adierazi-6, .-8)
 *Agriculture and stockbreeding **(milk, meat and pork)** are the main autochthonous economic activities .*
 
 ~~~ sdparse
-Nekazaritza eta abeltzaintza (esnea, haragia eta txerriak) dira bertako iharduera ekonomiko nagusiak . n\ Agriculture and stockbreeding (milk, meat and pork) are autochthonous activities economic main_the .
+Nekazaritza eta abeltzaintza ( esnea , haragia eta txerriak ) dira bertako iharduera ekonomiko nagusiak . \n Agriculture and stockbreeding ( milk , meat and pork ) are autochthonous activities economic main_the .
 
 nsubj(iharduera-13, Nekazaritza)
 cc(Nekazaritza-1, eta-2)
 conj(Nekazaritza-1, abeltzaintza-3)
-appos(abeltzaintza-3, esnea-4)
-punct(esnea-4, ,-6)
-conj(esnea-4, haragia-6)
-cc(esnea-4, eta-7)
-conj(esnea-4, txerriak-8)
-appos(abeltzaintza-3, esnea-4)
-cop(iharduera-11, dira-9)
-amod(iharduera-11, bertako-10)
-amod(iharduera-11, ekonomiko-12)
-amod(iharduera-11, nagusiak-13)
-punct(iharduera-11, .-14)
+appos(abeltzaintza-3, esnea-5)
+punct(esnea-5, ,-6)
+conj(esnea-5, haragia-7)
+cc(esnea-5, eta-8)
+conj(esnea-5, txerriak-9)
+appos(abeltzaintza-3, esnea-5)
+cop(iharduera-13, dira-11)
+amod(iharduera-13, bertako-12)
+amod(iharduera-13, ekonomiko-14)
+amod(iharduera-13, nagusiak-15)
+punct(iharduera-13, .-16)
+punct(abeltzaintza-3, (-4)
+punct(iharduera-13, )-10)
 ~~~
 
 
@@ -71,19 +75,21 @@ punct(iharduera-11, .-14)
 *The italian Francesco Casagrandre continues in the first position of the Union Cycliste Internationale **(UCI)** .*
 
 ~~~ sdparse
-Francesco Casagrandre italiarrak Nazioarteko Txirrindularitza Elkarteko (UCI) lehen postuan jarraitzen du . n\ Francesco Casagrandre italian_the Internationale_the_of Cycliste Union (UCI) first position_the_in continues .
+Francesco Casagrandre italiarrak Nazioarteko Txirrindularitza Elkarteko ( UCI ) lehen postuan jarraitzen du . \n Francesco Casagrandre italian_the Internationale_the_of Cycliste Union ( UCI ) first position_the_in continues .
 
 nmod(italiarrak-3, Francesco-1)
 name(Francesco-1, Casagrandre-2)
-nsubj(jarraitzen-9, italiarrak-3)
-amod(lehen-8, Nazioarteko-4)
+nsubj(jarraitzen-12, italiarrak-3)
+amod(lehen-10, Nazioarteko-4)
 name(Nazioarteko-4, Txirrindularitza-5)
 name(Txirrindularitza-5, Elkarteko-6)
-appos(Elkarteko-6, UCI-7)
-det(postuan-9, lehen-8)
-nmod(jarraitzen-11, postuan)
-aux(jarraitzen-11, du-12)
-punct(jarraitzen-11, .-13)
+appos(Elkarteko-6, UCI-8)
+punct(UCI-8, (-7)
+punct(UCI-8, )-9)
+det(postuan-11, lehen-10)
+nmod(jarraitzen-12, postuan-11)
+aux(jarraitzen-12, du-13)
+punct(jarraitzen-12, .-14)
 ~~~
 
 
