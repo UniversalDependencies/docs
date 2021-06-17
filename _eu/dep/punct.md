@@ -22,9 +22,8 @@ Coordination in the Basque UD annotation follows the general schema where the fi
 ***Zidane, Henry, Barthez, Deschamps, Blanc and the rest** form the most robust team of Europe according to most experts .*
 
 ~~~ sdparse
-Zidane, Henry, Barthez, Deschamps, Blanc eta enparauek Europako Talde sendoena osatzen dute aditu gehienentzat . \n Zidane, Henry, Barthez, Deschamps, Blanc and rest_the Europe_of team robust_the_most experts most_according_to .
+Zidane , Henry , Barthez , Deschamps , Blanc eta enparauek Europako talde sendoena osatzen dute aditu gehienentzat . \n Zidane , Henry , Barthez , Deschamps , Blanc and rest_the Europe_of team robust_the_most experts most_according_to .
 
-Zidane , Henry , Barthez , Deschamps , Blanc eta enparauek Europako talde sendoena osatzen dute aditu gehienentzat .
 punct(Henry-3, ,-2)
 conj(Zidane-1, Henry-3)
 punct(Barthez-5, ,-4)
@@ -54,7 +53,7 @@ Full stop is linked to the head of the sentence.
 ***The change** has caused a huge discussion .*
 
 ~~~ sdparse
-Eztabaida handia sortu du aldaketak .\n Discussion huge_a caused has change_the .
+Eztabaida handia sortu du aldaketak . \n Discussion huge_a caused has change_the .
 
 amod(Eztabaida-1, handia-2)
 nobj(sortu-3, Eztabaida-1)

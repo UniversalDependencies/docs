@@ -28,7 +28,7 @@ punct(hausnartzen-3, .-6)
 
 
 ~~~ sdparse
-Orio eta Castro garaipena lortzeko hautagaiak ziren arren, maila makala erakutsi zuten estropada hasieratik . \n  Orio and Castro victory_the obtain_to candidates_the were Although, level low_a showed regata_the_of beginning_the_from  .
+Orio eta Castro garaipena lortzeko hautagaiak ziren arren , maila makala erakutsi zuten estropada hasieratik . \n  Orio and Castro victory_the obtain_to candidates_the were Although, level low_a showed regata_the_of beginning_the_from  .
 
 nsubj(hautagaiak-6, Orio-1)
 cc(Orio-1, eta-2)
@@ -44,29 +44,31 @@ aux(erakutsi-12, zuten-13)
 nmod(hasieratik-15, estropada-14)
 nmod(erakutsi-12, hasieratik-15)
 punct(erakutsi-12, .-16)
+punct(erakutsi-12, ,-9)
 ~~~
 
 
-*ez dugu hemen azalduko, Mirande eta Kristautasuna saioan egina dago **eta** gehienbat .*
+*Ez dugu hemen azalduko, Mirande eta Kristautasuna saioan egina dago **eta** gehienbat .*
 
 *We will not show it here, mainly **because** it is done in the session Mirande and Cristianity .*
 
 
 ~~~ sdparse
-ez dugu hemen azalduko, Mirande eta Kristautasuna saioan egina dago eta gehienbat . \nWe will not show it here, mainly because it is done in the session Mirande and Cristianity .
+Ez dugu hemen azalduko , Mirande eta Kristautasuna saioan egina dago eta gehienbat . \n We will not show it here , mainly because it is done in the session Mirande and Cristianity .
 
-advmod(azalduko-4, ez-1)
+advmod(azalduko-4, Ez-1)
 aux(azalduko-4, dugu-2)
 advmod(azalduko-4, hemen-3)
-nmod(saioan-8, Mirande-5)
-cc(Mirande-5, eta-6)
-conj(Mirande-5, Kristautasuna-7)
-nmod(egina-9, saioan-8)
-advcl(azalduko-4, egina-9)
-cop(egina-9, dago-10)
-mark(dago-10, eta-11)
-advmod(dago-10, gehienbat-12)
-punct(azalduko-4, .-13)
+nmod(saioan-9, Mirande-6)
+cc(Mirande-6, eta-7)
+conj(Mirande-6, Kristautasuna-8)
+nmod(egina-10, saioan-9)
+advcl(azalduko-4, egina-10)
+cop(egina-10, dago-11)
+mark(dago-11, eta-12)
+advmod(dago-11, gehienbat-13)
+punct(azalduko-4, .-14)
+punct(azalduko-4, ,-5)
 ~~~
 
 <!-- Interlanguage links updated Pá kvě 14 11:09:08 CEST 2021 -->

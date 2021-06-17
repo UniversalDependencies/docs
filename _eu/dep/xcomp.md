@@ -13,14 +13,14 @@ These clauses are non-finite in Basque (although in some languages can be finite
 *Yesterday (he/she) decided **to leave** the training .*
 
 ~~~ sdparse
-Atzo entrenamendua uztea erabaki zuen .\n  Yesterday training_the to_leave decided .
+Atzo entrenamendua uztea erabaki zuen . \n  Yesterday training_the to_leave decided .
 
 advmod(erabaki-4, Atzo-1)
 obj(uztea-3, entrenamendua-2)
 xcomp(erabaki-4, uztea-3)
 aux(erabaki-4, zuen-5)
 punct(erabaki-4, .-6)
-~~~ sdparse
+~~~
 
 
 *Alkateek nahi dute lehenbailehen **biltzea** .*
@@ -28,12 +28,13 @@ punct(erabaki-4, .-6)
 *Mayors want **to meet** as soon as possible .*
 
 ~~~ sdparse
-Alkateek nahi dute lehenbailehen biltzea .\n  Mayors want as_soon_as_possible to_meet.
+Alkateek nahi dute lehenbailehen biltzea . \n  Mayors want as_soon_as_possible to_meet .
 
-nsubj(nahi_dute-2, Alkateek-1)
-xcomp(nahi_dute-2, biltzea-4)
-advmod(biltzea-4, lehenbailehen-3)
-punct(nahi_dute-2, .-5)
+nsubj(dute-3, Alkateek-1)
+compound(dute-3, nahi-2)
+xcomp(dute-3, biltzea-5)
+advmod(biltzea-5, lehenbailehen-4)
+punct(dute-3, .-6)
 ~~~
 
 
@@ -42,7 +43,7 @@ punct(nahi_dute-2, .-5)
 *I have seen them mentally **firm** .*
 
 ~~~ sdparse
-Mentalki irmo ikusi ditut haiek .\n Mentally firm seen have them .
+Mentalki irmo ikusi ditut haiek . \n Mentally firm seen have them .
 
 advmod(ikusi-3, Mentalki-1)
 xcomp(ikusi-3, irmo-2)
@@ -52,13 +53,12 @@ punct(ikusi-3, .-6)
 ~~~
 
 
-
 *Madrilera ez **joatea** erabaki zuen .*
 
 *(He/she) decided not **to go** to Madrid .*
 
 ~~~ sdparse
-Madrilera ez joatea erabaki zuen .\n  Madrid_to not to_go decided .
+Madrilera ez joatea erabaki zuen . \n  Madrid_to not to_go decided .
 
 nmod(joatea-3, Madrilera-1)
 advmod(joatea-3, ez-2)

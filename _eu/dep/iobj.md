@@ -12,13 +12,14 @@ The indirect object (`iobj`) of a verb is any nominal phrase that is a core argu
 *(He/she told **the students** that they needed to study in the evening .*
 
 ~~~ sdparse
-Ikasleei esan zien arratsaldean ikasi behar zutela .\n Students_the_to told evening_the_in to_study needed_that
+Ikasleei esan zien arratsaldean ikasi behar zutela . \n Students_the_to told evening_the_in to_study needed_that
 
 iobj(esan-2, Ikasleei-1)
 aux(esan-2, zien-3)
 nmod(esan-2, arratsaldean-4)
-xcomp(behar_zutela-6, ikasi-5)
-ccomp(esan-2, behar_zutela-6)
+xcomp(behar-6, ikasi-5)
+ccomp(esan-2, behar-6)
+compound(behar-6, zutela-7)
 punct(esan-2, .-8)
 ~~~
 
@@ -28,7 +29,7 @@ punct(esan-2, .-8)
 *(He/she) has made a great effort teaching **us** geography .*
 
 ~~~ sdparse
-Ahalegin haundia egin du guri geografia irakasten .\n  Effort great_a made has us geography teaching .
+Ahalegin haundia egin du guri geografia irakasten .i \n  Effort great_a made has us geography teaching .
 
 amod(Ahalegin-1, haundia-2)
 dobj(egin-3, Ahalegin-1)
@@ -45,7 +46,7 @@ punct(egin-3, .-8)
 *Djukanovic has given a big change to his political **course** .*
 
 ~~~ sdparse
-Djukanovicek aldaketa handia eman dio bere ildo politikoari .\n Djukanovic change big_a given has his course political_to .
+Djukanovicek aldaketa handia eman dio bere ildo politikoari . \n Djukanovic change big_a given has his course political_to .
 
 nsubj(eman-4, Djukanovicek-1)
 dobj(eman-4, aldaketa-2)

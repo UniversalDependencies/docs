@@ -12,7 +12,7 @@ udver: '2'
 *Journalists were rowdy yesterday in the entrace of the officce that **Euskadi Foundation** has in Derio .*
 
 ~~~ sdparse
-Kazetariak aztoratuta ibili ziren atzo Euskadi Fundazioak Derion duen egoitzaren atarian .\n Journalists rowdy were yesterday Euskadi Foundation Derio_in has_that officce_of entrace_the_in .
+Kazetariak aztoratuta ibili ziren atzo Euskadi Fundazioak Derion duen egoitzaren atarian . \n Journalists rowdy were yesterday Euskadi Foundation Derio_in has_that officce_of entrace_the_in .
 
 nsubj(aztoratuta-2, Kazetariak-1)
 cop(aztoratuta-2, ibili-3)
@@ -41,6 +41,6 @@ nsubj(da-6, zerbait-3)
 compound(da-6, behar-5)
 nmod(bukatzeko-8, nirekin-7)
 advcl(da-6, bukatzeko-8)
-punct(da-6, .-)
+punct(da-6, .-9)
 ~~~
 <!-- Interlanguage links updated Pá kvě 14 11:08:56 CEST 2021 -->

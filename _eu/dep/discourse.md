@@ -13,7 +13,7 @@ udver: '2'
 ***No**, I will not be alone eh !*
 
 ~~~ sdparse
-Ez, ez naiz bakarrik egoiten e ! \n No, I will not be alone eh !
+Ez , ez naiz bakarrik egoiten e ! \n No , I will not be alone eh !
 
 discourse(egoiten-6, Ez-1)
 neg(egoiten-6, ez-3)
@@ -28,12 +28,13 @@ punct(egoiten-6, !-8)
 ***So** it is not that, **no** .*
 
 ~~~ sdparse
-Ba ez da hori, ez . \n So it is not that, no .
+Ba ez da hori , ez . \n So it is not that , no .
 
 discourse(da-3, Ba-1)
 neg(da-3, ez-2)
 nsubj(da-3, hori-4)
-discourse(da-3, ez-5)
-punct(da-3, .-6)
+discourse(da-3, ez-6)
+punct(da-3, .-7)
+punct(da-3, ,-5)
 ~~~
 <!-- Interlanguage links updated Pá kvě 14 11:09:03 CEST 2021 -->
