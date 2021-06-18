@@ -306,6 +306,15 @@ fixed(had, better)
 aux(apologize, had)
 ~~~
 
+*one another* (as a reciprocal pronoun; however, `fixed` is not currently used for *each other*)
+
+~~~ sdparse
+They saw one another
+fixed(one, another)
+aux(saw, one)
+~~~
+
+
 ### Not `fixed`s
 The following are **not** annotated as `fixed`s, but are instead labeled according to their apparent internal structure.
 
