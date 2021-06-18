@@ -212,7 +212,7 @@ fixed(As, to)
 case(love, As)
 ~~~
 
-*kind of* (as a hedge)
+*kind of*, *sort of* (as a hedge)
 
 ~~~ sdparse
 I kind of like dogs
