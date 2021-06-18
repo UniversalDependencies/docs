@@ -33,6 +33,13 @@ though in the future it may be broadened.
 * _I like dogs <b>as well as</b> cats_ (first _as_ = `ADV`)
 * _I don't want a cat <b>let alone</b> a dog_ (_let_ = `VERB`)
 
+### <a name="PRON">`PRON`</a>: pronoun-like expression
+
+#### Examples
+
+* _<b>one another</b>_ (_one_ = `NUM`)
+  - By contrast, _each other_ is analyzed with a `det` relation, not `fixed`, so `ExtPos` is not used there.
+
 ### <a name="SCONJ">`SCONJ`</a>: subordinator-like expression
 
 #### Examples
