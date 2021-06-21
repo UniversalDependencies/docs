@@ -44,6 +44,12 @@ nmod:poss(office-4, Chair-2)
 case(Chair-2, 's-3)
 ~~~
 
+
+~~~ sdparse
+my office
+nmod:poss(office, my)
+~~~
+
 Nominal modifiers not marked by a preposition or 's genitive
 are tagged [nmod:npmod](), a subtype of `nmod`. Temporal nominal
 modifiers are also marked with a separate relation [nmod:tmod](). See
