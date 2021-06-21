@@ -20,10 +20,9 @@ det(Chair-5, the-4)
 ~~~
 
 ~~~ sdparse
-give the toys to the children
-dobj(give, toys)
-nmod(give, children)
-case(children, to)
+toys for children
+nmod(toys, children)
+case(children, for)
 ~~~
 
 ~~~ sdparse
