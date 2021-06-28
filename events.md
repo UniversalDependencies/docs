@@ -9,6 +9,7 @@ udver: '2'
 ## 2021
 
   * [IWPT 2021 shared task on enhanced UD parsing](http://universaldependencies.org/iwpt21/)
+  * [Workshop on Universal Dependencies for the Indigenous languages of the Americas](https://itml.cl.indiana.edu/tasclia/)
 
 ## 2020
 
