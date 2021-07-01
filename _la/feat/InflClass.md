@@ -191,13 +191,22 @@ Ablative | *re* | *rebus*
 
 ### <a name="LatPron">`LatPron`</a>: pronominal declension
 
-Restricted to most of the pronouns and determiners. It characteristically shows the same form in the singular genitive and dative cases for all genders. 
+Restricted to most of the (non-personal) pronouns and determiners. It is very similar (and clearly correlated) to the alternation between `IndEurA` ("first") and `IndEurO` ("second") declensions found in first-class [adjectives](la-pos/ADJ), but deviates from it principally under the following aspects:
 
+* in the singular, for all [genders](la-feat/Gender), it characteristically shows the same form in the genitive and dative cases;
+    * this trait is the only one to be common to all elements taking this inflectional class, and for some of them it has probably arisen in analogy to protoypical members (e.g. *ille* 'that (one)', *qui* 'who/which/that') 
+* singular nominative/accusative neuter forms end in *-d*;
+* singular nominative masculine forms may lack the typical *-s* suffix found in nominals (see other declensions).
+
+Many words belonging to this inflectional class also (or, in some cases, only) appear with a [clitic](la-feat/Clitic)-like suffix adjoined to the inflected form, and which contributes to semantic or pragmatic nuances (e.g. *eadem* 'the same (one)' with respect to *ea* 'she'), like [emphasis](la-feat/Emphatic).
+
+In future, this inflectional class may be revised and limited only to deviant forms, whith the others taking a "regular" `IndEurA`, `IndEurO` or `IndEurI` value.
+ 
 * Example overview by case and number: *qui*, relative pronoun
 
 [Case](la-feat/Case) | [Singular](la-feat/Number) | Plural 
 --|:--:|:--:
-Nominative   | *qui*, *quae*, *quod* | *qui*, *quae*, *quae*
+Nominative   | <i>qu**i**</i>, *quae*, *quo**d*** | *qui*, *quae*, *quae*
 Genitive   | ***cuius*** | *quorum*, *quarum*, *quorum*  
 Dative  | ***cui*** | *quibus*
 Accusative   | *quem*, *quam*, *quod* | *quos*, *quas*, *quae*
@@ -315,7 +324,7 @@ Present subjunctive   | *capias*
 Past subjunctive   | *capĕres* 
 Present imperative  | *capĕ* 
 Future imperative  | *capĭto* 
-Present participle  | *acapiens* 
+Present participle  | *capiens* 
 Gerundive  | *capiendus* 
 Infinitive   | *capĕre* 
 
