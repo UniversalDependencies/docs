@@ -34,7 +34,7 @@ Term used to refer to a planet, a star, a region in space (like a constellation)
 
 * ***Sol*** 'sun'
 * ***Aries*** 'Ram', sign of the zodiac (a common noun in its basic use)
-* ***Antares***, "the opponent of Mars", a star also known as *Cor Scorpii* 'heart of the scorpion', from the constellation it appears to reside
+* ***Antares***, "the opponent of Mars", a star also known as *Cor Scorpii* 'heart of the scorpion', from the constellation it appears to reside in
 
 ### <a name="Cal">`Cal`</a>: name of calendrical entity
 
@@ -76,12 +76,15 @@ The personal name(s), or the *praenomen* 'first name', the actual individual nam
 
 This value is also used for names of legendary mortals or beasts, but not for gods, demigods, and the like (see `Rel`). It is not used for epithets (for which the feature [`Proper`](la-feat/Proper) is more fitting). 
 
+It is also used for [adjectives](la-pos/ADJ) referring to personal names.
+
 #### Examples
 
 * ***Marcella***, ***Gaius*** 
 * ***Decimus***, ***Septimia*** (names derived from adjectives: 'tenth (son)', 'seventh (daughter)')
 * ***Tachipertus***, ***Ursula*** (Langobard names)
 * ***Rhea Silvia***, ***Romulus***, ***Aeneas***, ***Dido*** (legendary figures)
+* ***Antinoeus*** 'of/related to Antinous' (adjective)
 
 ### <a name="Let">`Let`</a>: name of letter or character
 
@@ -103,7 +106,7 @@ Specific *name* for a literary work, different from the *title* of a book or sim
 
 ### <a name="Nat">`Nat`</a>: designation of nationality
 
-Term which indicates some kind of national or ethnic membership, possibly defined by ancestry, or inhabitants of a particular territory. 
+Term which indicates some kind of national or ethnic membership, possibly defined by ancestry, or inhabitants of a particular territory, city, or similar. 
 
 In Latin, it is very often an [adjective](la-pos/ADJ), which can be used for persons and inanimated entites alike, and can be substantivised.
 
