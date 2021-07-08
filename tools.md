@@ -29,6 +29,7 @@ If you would like to have your tool added to this page, please write the
     * [LightTag](#lighttag)
     * [TrUDucer](#truducer)
     * [ConlluEditor](#conllueditor)
+    * [Palmyra](#palmyra)
   * Editor modes
     * [Emacs](#emacs)
     * [Atom](#atom)
@@ -242,6 +243,25 @@ The editor provides the following functionalities:
 * References: Johannes Heinecke (2019): [ConlluEditor: a fully graphical editor for Universal dependencies treebank files](https://syntaxfest.github.io/syntaxfest19/proceedings/papers/paper_55.pdf). In: [Proceedings of the Universal Dependencies Workshop 2019](http://universaldependencies.org/udw19/). Paris. ([Short demo video](https://syntaxfest.github.io/syntaxfest19/slides/conllueditor_demo_windows_subtitled.mp4))
 
 * Contact: johannes.heinecke@orange.com
+
+
+#### Palmyra
+
+<img style="float:right" src="http://universaldependencies.org/img/palmyra.png"/>
+**Palmyra** Palmyra is a configurable platform independent graphical dependency tree visualization and editing software. Palmyra has been designed with morphologically rich languages in mind, and thus has a number of features to support the complexities of these languages. These include supporting easy change of morphological tokenization through edits, additions, deletions and splits/merges of words. It can also be used to annotate a multitude of linguistic features. Palmyra uses an intuitive drag-and-drop metaphor for editing tree structures. Palmyra can be configured to be used with any dependency representation.  A [UD configuration file](https://github.com/CAMeL-Lab/palmyra/blob/562a0ee65764749ef0763368409012b5bc1e6046/palmyraSampleFiles/config/ud.config) is provided in its [github repo](https://github.com/CAMeL-Lab/palmyra).
+
+* Category: manual annotation tool
+* Platform: Any
+* Implementation: JavaScript
+* License: open source
+* Homepage: <http://palmyra.camel-lab.com/>
+* References: Taji and Habash (2020): [Dima Taji and Nizar Habash. 2020. PALMYRA 2.0: A Configurable Multilingual Platform Independent Tool for Morphology and Syntax Annotation. In Proceedings of Universal Dependencies Workshop (UDW) 2020.](https://aclanthology.org/2020.udw-1.19.pdf). 
+* Note: The ud.config file 
+* Contact: Nizar Habash (nizar.habash@nyu.edu)
+
+
+
+
 
 ### Editor modes
 
