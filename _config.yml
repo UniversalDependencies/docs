@@ -338,6 +338,8 @@ collections:
     output: true
   ti:
     output: true
+  pra:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
