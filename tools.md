@@ -247,7 +247,7 @@ The editor provides the following functionalities:
 
 #### Palmyra
 
-<img style="width: 40%; style="float:right" src="http://universaldependencies.org/img/palmyra.png"/>
+<img style="width: 40%; float:right" src="http://universaldependencies.org/img/palmyra.png"/>
 **Palmyra** Palmyra is a configurable platform independent graphical dependency tree visualization and editing software. Palmyra has been designed with morphologically rich languages in mind, and thus has a number of features to support the complexities of these languages. These include supporting easy change of morphological tokenization through edits, additions, deletions and splits/merges of words. It can also be used to annotate a multitude of linguistic features. Palmyra uses an intuitive drag-and-drop metaphor for editing tree structures. Palmyra can be configured to be used with any dependency representation.  A [UD configuration file](https://github.com/CAMeL-Lab/palmyra/blob/562a0ee65764749ef0763368409012b5bc1e6046/palmyraSampleFiles/config/ud.config) is provided in its [github repo](https://github.com/CAMeL-Lab/palmyra).
 
 * Category: manual annotation tool
@@ -256,7 +256,6 @@ The editor provides the following functionalities:
 * License: open source
 * Homepage: <http://palmyra.camel-lab.com/>
 * References: Taji and Habash (2020): [Dima Taji and Nizar Habash. 2020. PALMYRA 2.0: A Configurable Multilingual Platform Independent Tool for Morphology and Syntax Annotation. In Proceedings of Universal Dependencies Workshop (UDW) 2020.](https://aclanthology.org/2020.udw-1.19.pdf). 
-* Note: The ud.config file 
 * Contact: Nizar Habash (nizar.habash@nyu.edu)
 
 
