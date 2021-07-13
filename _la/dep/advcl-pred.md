@@ -24,8 +24,8 @@ In the following examples, the passages in the translations corresponding to adv
 ~~~ sdparse
 Nec margaritas profliga prodigus apris , nec preme Castalias indigna veste sorores ; at , precor , ora cie que te distinguere possint carmine vatisono , sorti comunis utrique . \n Nor pearls cast lavish to-boars , nor press Castalian undeign robe sisters ; but , I-pray , mouths stir which you distinguish they-may with-poetry diviner-sounding , to-sort common either .
 advcl:pred(profliga,prodigus)
-advcl:pred(cieo,communis)
-obl(communis,sorti)
+advcl:pred(cie,comunis)
+obl(comunis,sorti)
 det(sorti,utrique)
 advcl:pred(cast,lavish)
 advcl:pred(stir,common)
@@ -62,7 +62,7 @@ obl:arg(I-have-moved,to-ye)
 'You, members of the Senate, I have thanked **separately**, and will do so again.' (*Post reditum in Senatu*, Cicero; secondary predication of the oblique)
 
 
-###References
+### References
 
 * Pinkster, H. (1990). *Latin syntax and semantics*, Routledge.
 <!-- Interlanguage links updated Pá kvě 14 11:08:46 CEST 2021 -->
