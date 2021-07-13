@@ -144,16 +144,50 @@ Some verbal stems only appear in their perfective forms:  *memini* 'to remember'
 
 ### <a name="Prosp">`Prosp`</a>: prospective aspect
 
-If the prospective aspect is used in the annotation (see **Note**), it appears only in two [non-finite](la-feat/VerbForm) forms, i.e. the gerundive/gerund (morphologically just one form, with possibly different behaviours on the syntactic level) and the so-called "future" participle.
+If the prospective aspect is used in the annotation (see **Note**), it appears only in two [non-finite](la-feat/VerbForm) forms, i.e. the gerundive/gerund (morphologically just one form, with possibly different behaviours on the syntactic level) and the so-called "future" participle: the former is characterised by the affix *-nd-* and the latter by the affix *-(s/t)ur-*, both attached to the verbal stem (root + possible thematic vowel). An archaic infinitive form is also attested, with affix *-ssere*. The prospective aspect represents an action as yet to come, as impending, and as such, in Latin, it may often assume nuances of necessity and inevitability.
+
+The prospective aspect differs from a future [tense](la-feat/Tense) in that, while the reference point of the latter is absolute and fixed at the moment of its utterance, the former is relative and is fixed independently by other means. So, a prospective aspect for the past tense would represent an action that, from the present perspective of the speaker, would have *yet* had to occur at the referred time, but probably has already occurred *now*. In Latin, this reference point always has to be specified by another element in the clause, as the prospective aspect (contrary to other aspects) is limited to a couple nominal verbal forms, which do not bear a temporal reference by themselves.
+
+* Overview of prospective forms for all five conjunctional paradigms (masc. nom. sing. where applicable):
+
+Nominal form | 'to love' | 'to remind' | 'to read'| 'to seize' | 'to hear'  
+--|--|--|--|--|--
+Gerundive/gerund (passive)  | *amandus* | *monendus* | *legendus* | *capiendus* | *audiendus*
+Future participle (active)  | *amaturus* | *moniturus* | *lecturus* | *capturus* | *auditurus*
+Infinitive (active; archaic)   | **amassere* | ?*monessere* | ?*legessere* | ?*capessere* | ?*audissere*
+
+Latin has no synthetic finite forms for the prospective aspect, but uses these nominal forms in periphrastic, [copular](la-dep/cop) constructions to make up for that, with the [auxiliary](la-pos/AUX) expressing [mood](la-feat/Mood)/[tense](la-feat/Tense) & [person](la-feat/Person)/[number](la-feat/Number) (itself usually in the imperfective, "neutral", aspect).
+
+These forms can be regularly formed from any verbal stem, taking into account morphological and semantical compatibility with passive or active voice, and "inherent" aspects (e.g. the perfective verbs *memini* 'to remember' and *odi* 'to hate').
 
 
 #### Examples
 
-* ***amaui*** 'I have loved'
-* ***monueratis*** 'you (pl.) had reminded'
-* ***captum*** 'seized' 
+* ***legendum*** '(sth.) to be read'
+* ***moniturarum*** 'of those (f.) who will be [soon] watching'
+* ***deargentassere*** 'to be going to deprive of money' (Lucil., Sat. 682)
 
-##### Note: non-traditional aspects for Latin
+##### Note: "non-traditional" aspects for Latin
 
-It might be argued that the nominal forms of gerundive/gerund and future participle do not actually express the imperfective and perfective aspect respectively, but are instead instances of some other aspects tied to the notion of relative, immediate future and/or necessity, like e.g. the prospective aspect. For the moment, however, they keep the imperfective/perfective labels in the annotation.
+It might be argued that the nominal forms of gerundive/gerund (morphologically identical, syntactically possibly distinct) and future participle do not actually express the imperfective and perfective aspect respectively, as could be suggested by a possible reading of their forms (ger.: imperfective stem + *-nd-*; fut. part.: perfective stem + *-ur-*) and reflected by a more "conservative" annotation style. They seem instead to represent instances of some other aspect tied to the notion of relative, immediate future and/or necessity (as a secondary value). In UD, this aspect is well identified by the **prospective aspect**. 
+
+The gerundive is sometimes described as a "future passive participle", but, like for the *future* participle (active), this "future" cannot be actually identified with a future [tense](la-feat/Tense). In fact, while a Latin **finite** future verbal form has an "absolute" reference point (the moment of the utterance), one observes that no Latin [nominal verbal form](la-feat/VerbForm) (i.e. participles, gerundives, infinitives and supines) expresses the grammatical category of time by iself, while on the contrary it expresses the state of an action or event with respect to a main predicate, i.e. an aspect (except possibly for the supine). The introduction of the prospective aspect would acknowledge this matter of fact and supply the key to distinguishing all Latin participial forms from each other without misleadingly recurring to the `Tense` feature. One would have the following scheme for the traditional nomenclature, with *amo* 'to love' as an example:
+
+Voice/Aspect | Imperfective | (Inchoative) | Perfective | Prospective 
+--|--|--|--|--
+**Active**  | Present participle: *amans* | (Present participle: *amascens*) | - | Future participle: *amaturus*  
+**Passive**  | - | - | Perfect participle: *amatus* | Gerundive: *amandus*
+
+("Voice" is intended as morphological, not syntactical, voice here.)
+
+The use of both prospective participial forms in [periphrastical](la-dep/cop) constructions (*amaturus sum* 'I am [soon] going to love', distinguished from *amabo* 'I will love'; *amandus sum* 'I am [soon] going to be loved; I am to be loved, I need to be loved', distinct from *amabor* 'I will be loved') is also in line with the periphrastical formation of perfect [passive](la-feat/Voice) forms, which make use of the perfect participle in absence of any synthetic form; here, in the absence of synthetic prospective forms (e.g. a "future" infinitive, as opposed to the "present" one).
+
+
+
+
+
+
+
+
+
 <!-- Interlanguage links updated Pá kvě 14 11:08:28 CEST 2021 -->
