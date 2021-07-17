@@ -8,7 +8,8 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-*
+* The ATT treebank segments subject agreement morphemes from verbs as independent “syntactic words”, although they are not clitics (their position is fixed with respect to the verb stem, they cannot attach to other words, and they are present even when an overt nominal subject occurs in the sentence, hence they are bound agreement morphemes rather than pronoun clitics).
+* In contrast, object pronouns are clitics. They are also segmented off the verb.
 
 ---
 **Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
@@ -19,7 +20,7 @@ udver: '2'
 
 ### Tags
 
-*
+* TODO: Auxiliaries.
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
@@ -28,7 +29,7 @@ udver: '2'
 
 ### Features
 
-*
+* The Amharic UD annotation uses language-specific values for [Case]() and [Voice]().
 
 ---
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
