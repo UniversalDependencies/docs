@@ -54,14 +54,19 @@ It has to be pointed out the fact that (at least in Latin) the words in the subc
 * *[...] <b>domum</b>, <b>cuius</b> finis est domesticos ad bene vivere preparare* 'a **household**, **whose** purpose is to prepare its members to live the good life' (*De Monarchia*, UDante)
     * *cuius* acts as the [(possessive) nominal modifier](la-dep/nmod-poss) of *finis* 'purpose', which is itself the [subject](la-dep/nsubj) of the [copular](la-dep/cop) relative clause.
 
-Similar observations can be made also for other words like *cur* 'because'. These words can also act as "double pronouns" (see that section in [`acl:relcl`](la-dep/acl-relcl)), just like other relative pronouns:
+Similar observations can be made also for other words like *cur* 'because' (which is however of manner, not time or space). These words can also act as "double pronouns" (see that section in [`acl:relcl`](la-dep/acl-relcl)), just like other relative pronouns:
 
 * *<b>Ubi</b> maior minor cessat* '**Where** there is the greater, the lesser gives over' (Latin saying)
-    * here, a correlated *ibi* in the main clause has been taken over by the relative element: the equivalent is *ibi, ubi maior [est], minor cessat*.
+    * here, a correlated *ibi* in the main clause has been taken over by the relative element: the "extended" equivalent is *ibi, ubi maior [est], minor cessat*.
 
-Moreover, a tendency for these expressions to be used in nominal contexts is observed, probably becoming more pronounced in later stages of the language, e.g.: *ab hodie* 'from today', *de ubi* 'from where' (which eventually gave Italian *dove* 'where', which itself can appear in expressions like *da dove* 'from where'...), and so on.
+Moreover, a tendency for these expressions to be used in nominal contexts is observed, probably becoming more pronounced in later stages of the language, e.g., among others:
 
-Such characteristics set "adverbs" of location and time notably apart from other adverbial types, like those of manner, e.g. *celeriter* 'rapidly' (from the [adjective](la-pos/ADJ) *celer*). For example, while these latter can always express a [degree](la-feat/Degree) (like their bases), e.g. *celerius* 'more rapidly', spatiotemporal ones usually don't (both on morphological and semantical grounds). In the end, taken all together, "adverbial" expressions of time and place are seen to be more akin to a functional word class like [pronouns](la-pos/PRON) than adverbs, and labelling them as `PRON`s might be taken into consideration for future annotation. 
+* *ab hodie* 'from today on'
+* *de ubi* 'from where' (which eventually gave Italian *dove* 'where', which itself can appear in expressions like *da dove* 'from where'...), parallel to *unde*
+* *ab hinc* 'from here on' (pleonastic, because *hinc* already means 'hence')
+* the pseudo-prepositional use of adverbial elements like *ergo* lit. 'proceeding from', then 'because of; therefore', taking an argument in the genitive.
+
+Such characteristics set "adverbs" of location and time notably apart from other adverbial types, like those of manner, e.g. *celeriter* 'rapidly' (from the [adjective](la-pos/ADJ) *celer*). For example, while these latter can always express a [degree](la-feat/Degree) (like their bases), e.g. *celerius* 'more rapidly', spatiotemporal ones usually don't (both on morphological and semantical grounds). In the end, taken all together, "adverbial" expressions of time and place are seen to be more akin to a functional word class like that of [pronouns](la-pos/PRON) than adverbs, and labelling them as `PRON`s might be taken into consideration for future annotation. 
 
 
 

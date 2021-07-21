@@ -27,7 +27,7 @@ udver: '2'
 
 Latin distinguishes two main types of inflections: nominal and verbal.
 
-Nominal inflection is traditionally called *declension* and applies to ([proper](la-pos/PROPN)) [nouns](la-pos/NOUN), [adjectives](la-pos/ADJ), [pronouns](la-pos/PRON), [determiners](la-pos/DET) and [numerals](la-pos/NUM), and can express [gender](la-feat/Gender), [number](la-feat/Number), [case](la-feat/Case) and [degree](la-feat/Degree). It also applies to [nominal forms](la-feat/VerbForm) of verbs, for which an [additional layer](la-feat/InflClass-noun) is used.
+Nominal inflection is traditionally called *declension* and applies to ([proper](la-pos/PROPN)) [nouns](la-pos/NOUN), [adjectives](la-pos/ADJ), [pronouns](la-pos/PRON), [determiners](la-pos/DET) and [numerals](la-pos/NUM), and can express [gender](la-feat/Gender), [number](la-feat/Number), [case](la-feat/Case) and [degree](la-feat/Degree). It also applies to [nominal forms](la-feat/VerbForm) of verbs, for which an [additional layer](la-feat/InflClass-nominal) is used.
 
 Verbal inflection is traditionally called *conjugation* and applies to [finite and nominal forms](la-feat/VerbForm) of [verbs](la-pos/VERB) and the [auxiliary](la-pos/AUX) *sum*, and can express [aspect](la-feat/Aspect), [mood](la-feat/Mood), [tense](la-feat/Tense), [voice](la-feat/Voice), [person](la-feat/Person), [number](la-feat/Number) and [nominal form](la-feat/VerbForm).
 
@@ -113,7 +113,7 @@ Vocative   | *rex* | *reges* | *tempus* | *tempora*
 Ablative | *rege* | *regibus* | *tempore* | *temporibus* 
 
 
-In other Indo-European branches: gr. *θώραξ*, icel. *maður*. lith. *sesuo*
+In other Indo-European branches: gr. *θώραξ*, icel. *maður*, lith. *sesuo*
 
 #### Examples
 
