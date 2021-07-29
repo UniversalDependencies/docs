@@ -43,7 +43,7 @@ Expression of time. The origin of these terms is usually more varied than for sp
 
 
 
-#####Note: parts of speech of spatiotemporal expressions
+##### Note: parts of speech of spatiotemporal expressions
 
 It has to be pointed out the fact that (at least in Latin) the words in the subclass defined by the `Loc` and `Tim` values of `AdvType`, although currently labeled as [ADV](la-pos/ADV)s as suggested by the guidelines, generally show functions and behaviours which are retraceable rather to those of [**pronouns**](la-pos/PRON) (i.e. `PRON`). In fact, spatiotemporal expressions stand for, and are often replaced by, completely equivalent **deictic** noun phrases featuring pronouns or determinants, e.g. *ibi* 'there' = *in eo/ea* 'in him/her/it'. Some spatial expressions are still transparently analysable as inflected forms, like *hic* (< *heic*) 'here' as the [locative](la-feat/Case) form of the [determiner](la-pos/DET) *hic* 'that': this means that *hic* might as well be labeled not differently than e.g. *Romae* 'in Rome (locative case)', which naturally takes an [`obl`](la-dep/obl) relation.
 
