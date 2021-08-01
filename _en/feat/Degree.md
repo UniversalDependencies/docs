@@ -5,7 +5,7 @@ shortdef: 'degree of comparison'
 udver: '2'
 ---
 
-In English,  `Degree` is a feature of (adjectives)[en-pos/ADJ] and some (adverbs)[en-pos/ADV].
+In English,  `Degree` is a feature of [adjectives](ADJ) and some [adverbs](ADV).
 
 ### <a name="Pos">`Pos`</a>: positive, first degree
 
@@ -51,5 +51,5 @@ The following adverbs with PTB tag `RBS` also have this feature:
 * _hardest, fastest, latest, longest, highest, easiest, earliest, furthest, farthest, soonest, lowest, closest, best, worst, least, quickest, slowest_
 
 
-Note that most adverbs in English don't have a `Degree` feature because their sencond and third degree are constructed periphrastically using the adverbs _more_ and _most_, e.g. _more quietly_, _most seriously_.
+Note that most adverbs in English don't have a `Degree` feature because their second and third degree are constructed periphrastically using the adverbs _more_ and _most_, e.g. _more quietly_, _most seriously_.
 <!-- Interlanguage links updated Pá kvě 14 11:08:30 CEST 2021 -->
