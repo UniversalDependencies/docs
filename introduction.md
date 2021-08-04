@@ -134,6 +134,26 @@ UD is an open collaboration with many project members. The administrative struct
 
 ## UD-related publications
 
+### 2021
+
+* Marie-Catherine de Marneffe, Christopher Manning, Joakim Nivre, Daniel Zeman (2021): [Universal Dependencies](https://doi.org/10.1162/coli_a_00402). In: *Computational Linguistics*, ISSN 1530-9312, vol. 47, no. 2, pp. 255-308.
+
+### 2020
+
+* [_Proceedings of the Fourth Workshop on Universal Dependencies_](https://aclanthology.org/volumes/2020.udw-1/), UDW 2020, COLING, on-line.
+
+* Joakim Nivre, Marie-Catherine de Marneffe, Filip Ginter, Jan Hajič, Christopher Manning, Sampo Pyysalo, Sebastian Schuster, Francis Tyers, Daniel Zeman. 2020. [Universal Dependencies v2: An Evergrowing Multilingual Treebank Collection](https://aclanthology.org/2020.lrec-1.497/). In *Proceedings of the 12th International Conference on Language Resources and Evaluation (LREC 2020)*, pp. 4034-4043, European Language Resources Association, Marseille, France, ISBN 979-10-95546-34-4.
+
+* Ika Alfina, Daniel Zeman, Arawinda Dinakaramani, Indra Budi, Heru Suhartanto (2020): [Selecting the Universal Dependencies Morphological Features for Indonesian Dependency Treebank](http://www.colips.org/conferences/ialp2020/proceedings/papers/IALP2020_P87.pdf). In: Proceedings of the International Conference on Asian Language Processing (IALP 2020), pp. 104-109, Chinese and Oriental Languages Information Processing Society, Kuala Lumpur, Malaysia, ISBN 978-1-7281-7689-5.
+
+* Gosse Bouma, Djamé Seddah, Daniel Zeman (2020): [Overview of the IWPT 2020 Shared Task on Parsing into Enhanced Universal Dependencies](https://aclanthology.org/2020.iwpt-1.16/). In: Proceedings of the 16th International Conference on Parsing Technologies and the IWPT 2020 Shared Task on Parsing into Enhanced Universal Dependencies, pp. 151-161, Association for Computational Linguistics, Stroudsburg, PA, USA, ISBN 978-1-952148-11-8.
+
+* Ọlájídé Ishola, Daniel Zeman (2020): [Yorùbá Dependency Treebank (YTB)](https://aclanthology.org/2020.lrec-1.637/). In: Proceedings of the 12th International Conference on Language Resources and Evaluation (LREC 2020), pp. 5180-5188, European Language Resources Association, Marseille, France, ISBN 979-10-95546-34-4.
+
+* Atul Kumar Ojha, Daniel Zeman (2020): [Universal Dependency Treebanks for Low-Resource Indian Languages: The Case of Bhojpuri](https://lrec2020.lrec-conf.org/media/proceedings/Workshops/Books/WILDRE-5book.pdf#page=43). In: Proceedings of the LREC 2020 WILDRE5 – 5th Workshop on Indian Language Data: Resources and Evaluation, pp. 33-38, European Language Resources Association, Paris, France, ISBN 979-10-95546-67-2.
+
+* Marsida Toska, Joakim Nivre, Daniel Zeman (2020): [Universal Dependencies for Albanian](https://aclanthology.org/2020.udw-1.20/). In: Proceedings of the Fourth Workshop on Universal Dependencies (UDW 2020), pp. 178-188, Association for Computational Linguistics, Stroudsburg, PA, USA, ISBN 978-1-952148-48-4.
+
 ### 2019
 
 * [_Proceedings of the Third Workshop on Universal Dependencies_](https://www.aclweb.org/anthology/W19-80.pdf), UDW 2019, SyntaxFest, Paris.
@@ -150,7 +170,7 @@ UD is an open collaboration with many project members. The administrative struct
 
 ### 2018
 
-* [_Proceedings of the Second Workshop on Universal Dependencies_](https://www.aclweb.org/anthology/W18-6000.pdf), UDW 2018, EMNLP,Brussels.
+* [_Proceedings of the Second Workshop on Universal Dependencies_](https://www.aclweb.org/anthology/W18-6000.pdf), UDW 2018, EMNLP, Brussels.
 
 * Puneet Dwivedi, Daniel Zeman. 2018.
   [The Forest Lion and the Bull: Morphosyntactic Annotation of the Panchatantra](http://ufal.mff.cuni.cz/biblio/attachments/2018-zeman-p1924099829345317043.pdf).
