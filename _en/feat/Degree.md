@@ -34,7 +34,7 @@ feature.
 
 The following adverbs with PTB tag `RBR` also have this feature:
 
-* _harder, faster, later, longer, higher, easier, earlier, further, farther, sooner, lower, closer, better, worse, less, quicker, slower_
+* _more, harder, faster, later, longer, higher, easier, earlier, further, farther, sooner, lower, closer, better, worse, less, quicker, slower_
 
 ### <a name="Sup">`Sup`</a>: superlative, third degree
 
@@ -48,7 +48,7 @@ feature.
 
 The following adverbs with PTB tag `RBS` also have this feature:
 
-* _hardest, fastest, latest, longest, highest, easiest, earliest, furthest, farthest, soonest, lowest, closest, best, worst, least, quickest, slowest_
+* _most, hardest, fastest, latest, longest, highest, easiest, earliest, furthest, farthest, soonest, lowest, closest, best, worst, least, quickest, slowest_
 
 
 Note that most adverbs in English don't have a `Degree` feature because their second and third degree are constructed periphrastically using the adverbs _more_ and _most_, e.g. _more quietly_, _most seriously_.
