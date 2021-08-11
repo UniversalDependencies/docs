@@ -8,9 +8,9 @@ udver: '2'
 Examples in Indonesian:
 
 ~~~ sdparse
-Saya tahu siapa yang kamu cintai \n I know who you love
-acl:relcl(siapa, cintai)
-acl:relcl(who, love)
+Saya tahu apa yang kamu maksud \n I know what you mean
+acl:relcl(apa, maksud)
+acl:relcl(what, mean)
 ~~~
 
 ~~~ sdparse
