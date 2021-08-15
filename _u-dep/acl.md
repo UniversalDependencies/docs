@@ -27,6 +27,13 @@ acl(parakeet, named)
 ~~~
 
 ~~~ sdparse
+A president certain that they are correct is dangerous . 
+acl(president, certain)
+ccomp(certain, correct)
+nsubj(dangerous, president)
+~~~
+
+~~~ sdparse
 I just want a simple way to get my discount .
 acl(way, get)
 ~~~
