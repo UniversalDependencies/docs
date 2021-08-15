@@ -10,25 +10,26 @@ UD English contains data from multiple treebanks created by different teams at d
 
 ## Tokenization and Word Segmentation
 
-Words are generally delimited by whitespace or punctuation. No tokens in any of the UD English corpora currently contain whitespace. Most corpora do not use multiword tokens, since clitics in English can usually be expressed using `SpaceAfter=No` (for forms like "don't" = "do" + "n't"). The `SpaceAfter` annotation also allows the distinction between otherwise identical token sequences, such as "can not" versus "cannot". An exception regarding complex unit is Eng-ParTUT, which does use multiword tokens.
+Words are generally delimited by whitespace or punctuation. No tokens in any of the UD English corpora currently contain whitespace. Multiword tokens should be used for English clitics, such as _'ll_ (reduced form of the auxiliary _will), _n't_ (reduced form of _not_) and _'s_ (possessive clitic). For example, _don't_ = _do_ + _n't_). As of mid 2021, multiword tokens are used in the following English corpora: GUM, GUMReddit, and EWT, are partially used in ParTUT (used for forms like _ain't_ and _can't_ but not for forms that are concatenative like _John's_ or _she'll_), but are not used in: PUD, LinES, Pronouns, or ESL. If multiword tokens are not present, clitics in English can usually be identified by using the `SpaceAfter=No` annotation and it also allows distinguishing between otherwise identical token sequences, such as "can not" versus "cannot".
 
-Units that are generally tokenized apart include:
+Units that should be regarded as separate syntactic words include:
 
-  * Clitic auxiliaries ('ll, 'm, 's, 've ...)
+  * Clitic auxiliaries ('ll, 'm, 's, 've, 'd, …)
   * Possessive genitive markers ('s, ')
-  * Clitic negation (n't, but also not in cannot)
+  * Clitic negation (n't, and also not in cannot)
+  * Most hyphenated terms (search-engine becomes 3 words: search, -, engine)
 
 Units that are not tokenized apart include:
 
   * Acronyms (FBI, U.S.)
   * Abbreviations without spaces (e.g., i.e.)
-  * Hyphenated words, which are treated as tokens and not as compounds (part-time, [a] follow-up)
+  * Some hyphenated words, with common prefixes or occasionally suffixes, such as _e-mail_ or _co-ordinated_
 
 ## Morphology
 
 ### Tags
 
-All corpora use the full range of UPOS tags. The XPOS column uses the Penn Treebank tagset. Note that XPOS does not have a simple mapping to UPOS tags, as UD guidelines enforce complex relations between dependency relations and POS tags: for example, since the relation `advmod` must generally have the tag `ADV`, UPOS may have `ADV` for some non-adverbial XPOS tags, and vice versa.
+All corpora use the full range of UPOS tags. The XPOS column uses the Penn Treebank tagset (as extended in subsequent LDC corpus releases). Note that XPOS does not have a simple mapping to UPOS tags, as UD guidelines enforce complex relations between dependency relations and POS tags: for example, since the relation `advmod` must generally have the tag `ADV`, UPOS may have `ADV` for some non-adverbial XPOS tags, and vice versa.
 
 Closed class auxiliaries (tagged `AUX`) include:
   * auxiliaries for periphrastic tenses, aspects, voices and modalities – the lemmas 'be', 'have', 'do', 'will', 'would', 'may', 'might', 'can', 'could', 'shall', 'should', 'must', 'get' when attached with relations `aux` or `aux:pass`
@@ -40,7 +41,7 @@ All treebanks currently contain whitespace information, except for English-ESL. 
 
 ## Syntax
 
-Standard deprels are used, except for `clf` which is not used in any treebank. Commonly used custom subtypes include `obl:npmod` for oblique nominals (corresponds to Stanford Dependencies `npadvmod`), `nmod:tmod` and `obl:tmod` for temporal nouns used adverbially (e.g. "today"), based on the Stanford Dependencies label `tmod`. Additionally, passives are distinguished (`nsubj:pass`, `csubj:pass`), possessived (`nmod:poss`), predeterminers (`det:predet` for "both" in "both the children), preconj (`cc:preconj` for "either" in "either X or Y") and a special compound subtype for phrasal verb particles (`compound:prt` for "up" in "pick up").
+Standard deprels are used, except for `clf` which is not used in any treebank. Commonly used custom subtypes include `obl:npmod` for oblique nominals (corresponds to Stanford Dependencies `npadvmod`), `nmod:tmod` and `obl:tmod` for temporal nouns used adverbially (e.g. "today"), based on the Stanford Dependencies label `tmod`. Additionally, passives are distinguished (`nsubj:pass`, `csubj:pass`), pre-nominal possessives (`nmod:poss`), predeterminers (`det:predet` for "both" in "both the children), preconj (`cc:preconj` for "either" in "either X or Y") and a special compound subtype for phrasal verb particles (`compound:prt` for "up" in "pick up").
 
 For more information, see the list of [English relations](dep/index.html).
 
