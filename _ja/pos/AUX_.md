@@ -1,10 +1,10 @@
 ---
 layout: postag
-title: 'AUX_'
+title: 'AUX'
 shortdef: 'auxiliary verb'
 # The filename "aux" is not allowed on Windows, so we redirect instead
 # (see https://github.com/UniversalDependencies/docs/issues/20)
-redirect_from: "ja/pos/AUX_"
+redirect_from: "ja/pos/AUX"
 udver: '2'
 ---
 
