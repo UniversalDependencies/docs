@@ -5,7 +5,7 @@ shortdef: 'auxiliary verb'
 udver: '2'
 # The filename "aux" is not allowed on Windows, so we redirect instead
 # (see https://github.com/UniversalDependencies/docs/issues/20)
-redirect_from: "u/pos/AUX.html"
+redirect_from: "it/pos/AUX.html"
 ---
 
 ### Definition
