@@ -344,6 +344,8 @@ collections:
     output: true
   nap:
     output: true
+  jv:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
