@@ -25,10 +25,11 @@ det(Chair-5, the-4)
 French:
 
 ~~~ sdparse
-le bureau du président \n the office of the_Chair
-det(bureau, le)
+le bureau de le président \n the office of the Chair
+det(bureau, le-1)
 nmod(bureau, président)
-case(président, du)
+case(président, de)
+det(président, le-4)
 ~~~
 
 Hebrew:
