@@ -21,7 +21,6 @@ udver: '2'
     * Adjective: ...
     * Adverb: ...
   * For abbreviations. All abbreviations such as Mr., M.Sc. Tn., are not split and remain one token.
-
   
 
 ## Morphology
@@ -49,8 +48,6 @@ udver: '2'
   * _atawa/utawa_ "or"
   * _nanging_ as the equivalents of "but" in English
 
-
-
 ### Features
 
 * We propose the use of X of 24 features defined in UD v2 that are relevant to Javanese grammar:
@@ -73,13 +70,12 @@ udver: '2'
     * `Voice=Pass` for passive verbs that have characteristic of using prefixes _di-, ter-_ or circumfix _ke-an_.
 
 
-
 ## Syntax
 
 * The default word order is SVO, so the subject ([nsubj]()) normally precedes and the object follows the verb (with the exception of inverted sentences).
 * A verb may serve as the subject and is labeled as clausal subject, either as [csubj]() or [csubj:pass]().
 * Transitive verbs will have a noun phrase as the object ([obj]()). 
-* Passive verbs could be followed by agent ([obl:agent]()), such as in _Pesan yang dikirimkan **presiden**_ "Messages sent by **president**", _presiden_ "president" is the agent of predicate _dikirimkan_ "be sent".
+* Passive verbs could be followed by agent ([obl:agent]())
 * Verbs can have oblique arguments ([obl]()). Special for temporal modifiers, we label it as [obl:tmod]().
 
 ### Non-verbal Clauses
@@ -88,7 +84,7 @@ udver: '2'
 
 ### Relations Overview
 
-* The following 14 relation subtypes could be used in UD Javanese treebank:
+* The following X relation subtypes could be used in UD Javanese treebank:
   * [acl:relcl]() for relative clauses that modify a noun phrase. 
   * [advmod:emph]() for particles ([PART]()) _tho_ that emphasize other words. 
   * [csubj:pass]() for clausal subjects of passive verbs.
@@ -105,5 +101,5 @@ udver: '2'
 
 There are [N](../treebanks/jv-comparison.html) Javanese UD treebanks:
 
-  * [Javanese-A](../treebanks/jv_a/index.html)
+  * [Javanese-CSUI](../treebanks/jv_csui/index.html)
 
