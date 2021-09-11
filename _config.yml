@@ -346,6 +346,8 @@ collections:
     output: true
   jv:
     output: true
+  qpm:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
