@@ -87,6 +87,7 @@ udver: '2'
 * The following X relation subtypes could be used in UD Javanese treebank:
   * [acl:relcl]() for relative clauses that modify a noun phrase. 
   * [advmod:emph]() for particles ([PART]()) _tho_ that emphasize other words. 
+  * [case:adv]() for case to ADJ/VERB that plays role as adverb.
   * [csubj:pass]() for clausal subjects of passive verbs.
   * [flat:foreign]() to label sequences of foreign words.
   * [flat:name]() to label sequences of names of PROPN-PROPN pairs.
