@@ -13,12 +13,12 @@ This deprel is used in Indonesian grammar for word _baik_ in clause _baik A maup
 
 ~~~ sdparse
 Baik Jakarta maupun Bandung sama macet nya . \n Both Jakarta and Bandung are equally congested .
-cc:preconj(Jakarta-3, Baik)
-cc(Bandung-5, maupun)
-conj(Jakarta-3, Bandung-5)
-cc:preconj(Jakarta-12, Both)
-cc(Bandung-14, and)
-conj(Jakarta-12, Bandung-14)
+cc:preconj(Jakarta-2, Baik)
+cc(Bandung-4, maupun)
+conj(Jakarta-2, Bandung-4)
+cc:preconj(Jakarta-11, Both)
+cc(Bandung-13, and)
+conj(Jakarta-11, Bandung-13)
 ~~~
 
 ~~~ sdparse
