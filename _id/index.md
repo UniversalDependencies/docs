@@ -17,12 +17,12 @@ udver: '2'
     * _apa**tah**_ is split into _apa_ "what" and _**tah**_
     * _walau**pun**_ is split into _walau_ "although" and _**pun**_
 
-  * Multiword tokens that contain clitics of _-ku_ "me/my", _-mu_ "you/your", _-nya_ "he/him/she/her/it" are split into two tokens, with exceptions for words ended with _-nya_. 
+  * Multiword tokens that contain clitics of _-ku_ "me/my", _-mu_ "you/your", _-nya_ "he/him/she/her/it" are split into two tokens, with exceptions for words ended with _-nya_.
     * Words ended with _-nya_ where _-nya- itself serves as  a pronoun or determiner are split into two tokens. For example:
       * Word _-nya_ as pronoun, as in _mencintai**nya**_ "love **him/her/it**", this token is split into _mencintai_ "love" and _**nya**_ "him/her/it".
       * Word _-nya_ as posessive pronoun, as in _buku**nya**_ "**his/her/its** book", this token is split into _buku_ "book" and _**nya**_ "his/her/its".
       * Word _-nya_ as determiner in predicate nominalisation case, as in _meningkat**nya**_ "**the** increase", this token is split into _meningkat_ "increase" and _**nya**_ "the".
-      
+
     * Words ended with _-nya_ that functions as adverbs, adjectives or auxiliary are **not** split. For example:
       * adverbs ended with _-nya_: _khusus**nya**_ "especially", _awal**nya**_ "initially", _akhir**nya**_ "finally"
       * adjectives ended with _-nya_: _sebelum**nya**_ "previous", _sesudah**nya**_ "next", _berikutnya_ "next"
@@ -75,6 +75,10 @@ udver: '2'
   * _dan, serta, maupun_ as the equivalents of "and" in English
   * _atau_ "or"
   * _tapi, tetapi, namun, melainkan_ as the equivalents of "but" in English
+* Clauses can be **nominalized** by attaching the clitic _-nya_ to the predicate. In the annotation, the clitic is analyzed as a separate syntactic word, functioning as a determiner. However, the predicate keeps the [VERB]() tag, so there may be a verb with a determiner attached to it.
+  * _meningkat_ "to increase" is a verb
+  * _meningkatnya_ "the increase" is a nominalized form; however, since _-nya_ is also used with regular nouns and functions like a definite article, _meningkatnya_ is treated as a multi-word token _meningkat+nya_, where _nya_ is attached as a [det]() to the verb _meningkat_
+  * Since _meningkat_ stays tagged as a verb, it will attach to its parent as a clause rather than a nominal. So if it is a subject of another clause, it will be [csubj]() rather than [nsubj]().
 
 ### Features
 
@@ -122,7 +126,7 @@ udver: '2'
       * Passive verbs with prefix _di-_ : _dipublikasikan_ "be published", _dilepaskan_ "be released"
       * Passive verbs with prefix _ter-_: _terbakar_ "on fire", _terjatuh_ "fell", _terkejut_ "shocked"
       * Passive verbs with confix _ke-an_: _ketinggalan_ "lag behind", _kecurian_ "be stolen"
-      
+
 * We consider these 10 UD v2 features are not relevant to Indonesian grammar:
   * `Gender`. Indonesian words have no gender.
   * `Animacy`. Similar with Gender, there is no requirements of agreements between words in Indonesian.
@@ -141,7 +145,7 @@ udver: '2'
 
 * The default word order is SVO, so the subject ([nsubj]()) normally precedes and the object follows the verb (with the exception of inverted sentences).
 * A verb may serve as the subject and is labeled as clausal subject, either as [csubj]() or [csubj:pass]().
-* Transitive verbs will have a noun phrase as the object ([obj]()). 
+* Transitive verbs will have a noun phrase as the object ([obj]()).
 * Passive verbs could be followed by agent ([obl:agent]()), such as in _Pesan yang dikirimkan **presiden**_ "Messages sent by **president**", _presiden_ "president" is the agent of predicate _dikirimkan_ "be sent".
 * Verbs can have oblique arguments ([obl]()). Special for temporal modifiers, we label it as [obl:tmod]().
 
@@ -166,22 +170,22 @@ udver: '2'
   * [fixed]()
 
 * The following 14 relation subtypes could be used in Indonesian UD treebank:
-  * [acl:relcl]() for relative clauses that modify a noun phrase. 
-  * [advmod:emph]() for particles ([PART]()) _-lah, -kah, -tah and , pun_ that emphasize other words. 
+  * [acl:relcl]() for relative clauses that modify a noun phrase.
+  * [advmod:emph]() for particles ([PART]()) _-lah, -kah, -tah and , pun_ that emphasize other words.
   * [case:adv]() for adposition ([ADP]()) that is not a nominal dependent.
   * [cc:preconj]() for  word _baik_ in clause _baik A maupun B_ "both A and B".
   * [compound:a]() for adjective compounds
   * [csubj:pass]() for clausal subjects of passive verbs.
   * [flat:foreign]() to label sequences of foreign words.
   * [flat:name]() to label sequences of names of PROPN-PROPN pairs.
-  * [nmod:lmod]() for locative nouns. 
+  * [nmod:lmod]() for locative nouns.
   * [nmod:poss]() for possessive relationship.
-  * [nmod:tmod]() for temporal modifier of a noun phrase. 
+  * [nmod:tmod]() for temporal modifier of a noun phrase.
   * [nsubj:pass]() for nominal subjects of passive verbs.
   * [obl:agent]() for agents of passive verbs.
   * [obl:tmod]() for temporal modifier for a [VERB]()/[ADJ]().
-  
-  
+
+
 ## Remark
 This Indonesian documentation is applied only to the Indonesian-PUD and the Indonesian-CSUI treebank. The Indonesian-GSD does not conform to these guidelines.
 
