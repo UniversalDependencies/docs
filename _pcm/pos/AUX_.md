@@ -15,6 +15,7 @@ Auxiliaries can be combined with any other verb (unlike serialized verbs which c
 Auxiliaries can be root.
 
 ### The auxiliaries of Naija include :
+- no (negative marker) : I <b>no</b> know.
 - come (realis mood) : But if we <b>come</b> look di matter well.
   - [VERB](): See dat car wey dey <b>come</b>.
 - dey (continuous aspect) : Because as you <b>dey</b> use phone and <b>dey</b> do two thing at di same time.
