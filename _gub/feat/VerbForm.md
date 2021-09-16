@@ -9,7 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="Inf">Inf</a></td>
-  <td><a href="Imp">Inf</a></td>
+  <td><a href="Imp">Imp</a></td>
 </tr>
 </table>
 
