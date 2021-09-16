@@ -9,7 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="Inf">Inf</a></td>
-  <td><a href="Imp">Imp</a></td>
+
 </tr>
 </table>
 
@@ -23,14 +23,6 @@ udver: '2'
 
 * _<b>pɨhɨk</b>&nbsp;_ "catch” 
 
-
-### <a name="Imp">`Imp`</a>: Imperative
-
-
-
-#### Examples
-
-* _<b>emeʔe</b>&nbsp;_ "Look” 
 
 ## Diffs
 
