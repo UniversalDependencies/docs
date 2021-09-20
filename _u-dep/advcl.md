@@ -28,4 +28,12 @@ advcl(talked, secure)
 He was upset when I talked to him
 advcl(upset, talked)
 ~~~
+
+~~~ sdparse
+With the kids in school , I have plenty of free time
+advcl(have, school)
+mark(school, With)
+nsubj(school, kids)
+case(school, in)
+~~~
 <!-- Interlanguage links updated Pá kvě 14 11:08:46 CEST 2021 -->
