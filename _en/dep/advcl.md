@@ -32,4 +32,12 @@ advcl(upset, talked)
 They heard about you missing classes.
 advcl(heard, missing)
 ~~~
+
+~~~ sdparse
+With the kids in school , I have plenty of free time
+advcl(have, school)
+mark(school, With)
+nsubj(school, kids)
+case(school, in)
+~~~
 <!-- Interlanguage links updated Pá kvě 14 11:08:45 CEST 2021 -->
