@@ -20,7 +20,7 @@ Only **UD_French-ParTUT** and **UD_French-FTB** use the `expl` relations without
 
 ~~~ sdparse
 Je me permets de soulever un dernier point \n I would like to raise one last point
-expl(permer,me)
+expl(permets,me)
 ~~~
 
 Other treebanks use the subtypes: [expl:comp](), [expl:pass]() and [expl:subj]().
