@@ -13,7 +13,7 @@ predicate of the subject clause. In the following
 examples, *what she said* (that is, *said*) is the clausal subject of *makes* and *interesting*, respectively.
 
 **New from v2:** The `csubj` relation is also used for the clausal subject of a passive verb or verb group. For languages
-that have a grammaticalized passive transformation, it is strongly recommended to use the subtype `csubj:pass` in 
+that have a grammaticalized passive transformation, it is strongly recommended to use the subtype [csubj:pass]() in 
 such cases.
 
 ~~~ sdparse
