@@ -12,7 +12,7 @@ or it may be a pronoun or relative pronoun or, in ellipsis contexts, other thing
 
 **New from v2:** The `nsubj` relation is also used for the nominal subject of a passive verb or verb group, even
 though the subject is then not typically the proto-agent argument due to valency changing operations. For languages
-that have a grammaticalized passive transformation, it is strongly recommended to use the subtype `nsubj:pass` in 
+that have a grammaticalized passive transformation, it is strongly recommended to use the subtype [nsubj:pass]() in 
 such cases.
 
 The governor of the `nsubj` relation might not always be a verb: when
