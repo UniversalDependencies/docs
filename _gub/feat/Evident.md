@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Att">Att</a></td>
   <td><a href="#Fh">Fh</a></td>
+  <td><a href="#Nfh">Nfh</a></td>
   
 
 </tr>
@@ -19,7 +20,7 @@ udver: '2'
 
 ### <a name="Att">`Att`</a>: Attested 
 
-It is used to signal the instrument with which an action was performed.
+It is used to signal that an event has been attested
 
 #### Examples
 * _<b>Ukwaw kakwez zeʔengete imungetahaw aʔe wə kurɨ</b>&nbsp;_ “They know (attested in the distant past) how to read Guajajara" 
@@ -27,12 +28,20 @@ It is used to signal the instrument with which an action was performed.
 
 ### <a name="Fh">`Fh`</a>: First Hand 
 
-It is used to signal the instrument with which an action was performed.
+It is used to signal that an event has been witnessed by the utterer of the sentence
 
 #### Examples
 
 * _<b>Ukwaw kakwez zeʔengete imungetahaw aʔe wə kurɨ</b>&nbsp;_ “They know (attested in the distant past) how to read Guajajara" 
 
+
+### <a name="Nfh">`Nfh`</a>: Non-firsthand 
+
+It is used to signal that the utterer of the sentence has not witnessed the event, but heard from it.
+
+#### Examples
+
+* _<b>Mukuz awa wà uzemeʔkar zekaipo oho aʔe wà</b>&nbsp;_ “(For a long time, it is said), two men (met and) went to hunt together" 
 
 
 
