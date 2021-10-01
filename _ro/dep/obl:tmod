@@ -1,1 +1,19 @@
 
+---
+layout: relation
+title:  'obl:tmod'
+shortdef : 'temporal modifier'
+udver: '2'
+---
+
+A temporal modifier is a subtype of the [obl]() relation: if the modifier specifies a time, it is labeled as `tmod`.
+This is parallel to [advmod:tmod](), which covers temporal modifiers that are realized as adverbs.
+
+~~~ sdparse
+Au sosit la prânz .
+obl:tmod(sosit, prânz)
+~~~
+
+“They arrived at noon.”
+
+<!-- Interlanguage links updated Pá kvě 14 11:08:49 CEST 2021 -->
