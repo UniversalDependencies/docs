@@ -8,7 +8,9 @@ udver: '2'
 
 This page collects links to and minimal instructions for tools related to Universal Dependencies.
 
-If you would like to have your tool added to this page, please write the
+If you would like to have your tool added to this page, please submit a pull request for the
+[corresponding Github page](https://github.com/UniversalDependencies/docs/blob/pages-source/tools.md).
+You may also want to announce your tool in the
 [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
 
 **Listing**
