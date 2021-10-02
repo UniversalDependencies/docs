@@ -46,6 +46,7 @@ You may also want to announce your tool in the
     * [UDPipe](#udpipe)
     * [UDAPI](#udapi)
     * [UDon2](#udon2)
+    * [ACoLi CoNLL Libraries](#acoli-conll-libraries)
   * Visualization tools
     * [Deptreeviz](#deptreeviz)
     * [CoNLL-U viewer](#conll-u-viewer)
@@ -258,7 +259,7 @@ The editor provides the following functionalities:
 * Implementation: JavaScript
 * License: open source
 * Homepage: <http://palmyra.camel-lab.com/>
-* References: Taji and Habash (2020): [Dima Taji and Nizar Habash. 2020. PALMYRA 2.0: A Configurable Multilingual Platform Independent Tool for Morphology and Syntax Annotation. In Proceedings of Universal Dependencies Workshop (UDW) 2020.](https://aclanthology.org/2020.udw-1.19.pdf). 
+* References: Taji and Habash (2020): [Dima Taji and Nizar Habash. 2020. PALMYRA 2.0: A Configurable Multilingual Platform Independent Tool for Morphology and Syntax Annotation. In Proceedings of Universal Dependencies Workshop (UDW) 2020.](https://aclanthology.org/2020.udw-1.19.pdf).
 * Contact: Nizar Habash (nizar.habash@nyu.edu)
 
 
@@ -374,7 +375,7 @@ The latest CoNLL-U 2.0 format is not yet supported.
 
 #### conllu
 
-**conllu** is a python library that parses a CoNLL-U string into a nested python dictionary. 
+**conllu** is a python library that parses a CoNLL-U string into a nested python dictionary.
 
 It's easily installable with "pip install conllu", has good documentation and a big test suite that ensures working code, and is very customizable, which means it also works for custom formats that are similar to CoNLL-U. It works with both Python 2 and Python 3.
 
@@ -430,7 +431,42 @@ UDon2 is a library providing the possibility to manipulate Universal Dependencie
 * Documentation: <https://udon2.github.io/>
 * References: [Kalpakchi and Boye (2020)](https://www.aclweb.org/anthology/2020.udw-1.14/)
 
+#### ACoLi CoNLL Libraries
 
+Link: https://github.com/acoli-repo/conll
+
+Usage:
+- *All*: Over the Shell or within Java.
+- *Some*: Web interface (CQP4RDF), Docker (CoNLL-RDF)
+- *Experimental*: Python (CoNLL-RDF)
+
+Functionalities include
+- conversion between CoNLL formats
+- automated retokenization
+- merging concurrent annotations (i.e., multiple annotations of the same token merged into a single row)
+- machine-readable specs for more than 20 CoNLL and other TSV formats
+- parsing CoNLL data into graphs and back
+- Linked Open Data conversion of CoNLL corpora
+- enrichment with external knowledge bases
+- support for domain-specific extensions of the original tabular design of CoNLL formats, in particular for
+  + syntactic dependencies (resolving foreign keys/object properties),
+  + Semantic Role annotations (variable-sized tables),
+  + PTB phrase structure notation (parsed into directed acyclic graph),
+  + infused XML markup (also parsed into a directed acyclic graph),
+  + multi-layer annotations (multiple directed acyclic graphs over the same text)
+
+None of these operations are limited to CoNLL-U, but CoNLL-U and CoNLL-U Plus are supported as input and output formats.
+
+An early version of the ACoLi CoNLL Libraries was described in
+
+Chiarcos, C. & Schenk, N. (2018), The ACoLi CoNLL Libraries: Beyond Tab-Separated Values, In: Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018), Miyazaki, Japan, May 7-12, 2018, p.571-576.
+
+* Category: library, shell
+* Platform: any OS that runs Java. Shell scripts require Bash 4.0+ (MacOS users might need to upgrade the pre-installed Bash)
+* Implementation: Java
+* License: Apache License
+* Homepage: https://github.com/acoli-repo/conll
+* References: [Chiarcos and Schenk (2018)](https://aclanthology.org/L18-1090/)
 
 ### Visualization tools
 
