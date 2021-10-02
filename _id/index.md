@@ -16,14 +16,15 @@ udver: '2'
     * _dia**kah**_ is split into _dia_ "he/she" and _**kah**_
     * _apa**tah**_ is split into _apa_ "what" and _**tah**_
     * _walau**pun**_ is split into _walau_ "although" and _**pun**_
+    * The particle _kah_ marks yes-no questions and its position may emphasize the previous word as the focus of the question. The word _apa_ "what", when placed at the beginning of a sentence, also functions as a question particle, and it may be optionally strengthened by _kah_, resulting in _apakah_, as in _Apa(kah) dia guru?_ "Is she a teacher?" However, _apa_ is also used as an interrogative pronoun, even sentence-initially, as in _Apa pendapatmu?_ "What do you think?" Finally, _kah_ can be also added to interrogative words (_apa_ "what", _siapa_ "who", _di mana_ "where", _kapan_ "when", _bagaimana_ "how") in open questions; when _-kah_ is added, the tone becomes more polite.
 
-  * Multiword tokens that contain clitics of _-ku_ "me/my", _-mu_ "you/your", _-nya_ "he/him/she/her/it" are split into two tokens, with exceptions for words ended with _-nya_.
-    * Words ended with _-nya_ where _-nya- itself serves as  a pronoun or determiner are split into two tokens. For example:
+  * Multiword tokens that contain clitics of _-ku_ "me/my", _-mu_ "you/your", _-nya_ "he/him/she/her/it" are split into two tokens, with exceptions for certain words ending with _-nya_.
+    * Words ending with _-nya_ where _-nya- itself serves as  a pronoun or determiner are split into two tokens. For example:
       * Word _-nya_ as pronoun, as in _mencintai**nya**_ "love **him/her/it**", this token is split into _mencintai_ "love" and _**nya**_ "him/her/it".
       * Word _-nya_ as posessive pronoun, as in _buku**nya**_ "**his/her/its** book", this token is split into _buku_ "book" and _**nya**_ "his/her/its".
       * Word _-nya_ as determiner in predicate nominalisation case, as in _meningkat**nya**_ "**the** increase", this token is split into _meningkat_ "increase" and _**nya**_ "the".
 
-    * Words ended with _-nya_ that functions as adverbs, adjectives or auxiliary are **not** split. For example:
+    * Words ending with _-nya_ that functions as adverbs, adjectives or auxiliary are **not** split. For example:
       * adverbs ended with _-nya_: _khusus**nya**_ "especially", _awal**nya**_ "initially", _akhir**nya**_ "finally"
       * adjectives ended with _-nya_: _sebelum**nya**_ "previous", _sesudah**nya**_ "next", _berikutnya_ "next"
       * auxiliary ended with _-nya_: _seharus**nya**/sebaik**nya**_ "shall/should"
@@ -31,7 +32,7 @@ udver: '2'
 * Special treatments for punctuations. All punctuation symbols are separated from the words, except in two cases:
   * Hyphen in reduplicated words. Indonesian has many reduplicated words as nouns (both singular and plural), verbs, adjectives, adverbs, and so on. These reduplicated words are not split and remain one token. The examples of reduplicated words are:
     * Singular noun: _mata-mata_ "spy"
-    * Plural noun: _anak-anak_ "children"
+    * Plural noun: _anak-anak_ "children", from _anak_ "child"
     * Verb: _merobek-robek_ "shredding"
     * Adjective: _hiruk-pikuk_ "noisy"
     * Adverb: _terus-menerus_ "continuously"
