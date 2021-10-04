@@ -49,6 +49,7 @@ The `parataxis:conj` relation is used between juxtaposed clauses. The clauses ar
 10	scatter	_	_	_	_	0	_	_	_
 11	your	_	_	_	_	0	_	_	_
 12	mind	_	_	_	_	0	_	_	_
+
 ~~~
 
 ### Parallel constructions
@@ -105,5 +106,6 @@ Parallel constructions are a special case of juxtaposed clauses, in which a sing
 13	hundred	_	_	_	_	0	_	_	_
 14	has	_	_	_	_	0	_	_	_
 15	passed	_	_	_	_	0	_	_	_
+
 ~~~
 <!-- Interlanguage links updated Pá kvě 14 11:09:19 CEST 2021 -->
