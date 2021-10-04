@@ -421,7 +421,7 @@ It's easily installable with "pip install conllu", has good documentation and a 
 
 #### UDon2
 
-UDon2 is a library providing the possibility to manipulate Universal Dependencies trees. UDon2 is written in C++ with Python bindings via Boost.Python and is geared towards downstream NLP applications that require plenty of manipulations with individual dependency trees, including transforming UD trees to trees without labels on edges (as defined by [Croce et. al. (2011)](https://www.aclweb.org/anthology/D11-1096.pdf)) to be used in ML algorithms. The package can perform these manipulations, as well as reading and writing to CoNLL-U files, efficiently (see [benchmarks](https://udon2.github.io/benchmarks/). UDon2 lacks command-line interface and thus is not recommended by the authors for working with treebanks.
+**UDon2** is a library providing the possibility to manipulate Universal Dependencies trees. UDon2 is written in C++ with Python bindings via Boost.Python and is geared towards downstream NLP applications that require plenty of manipulations with individual dependency trees, including transforming UD trees to trees without labels on edges (as defined by [Croce et. al. (2011)](https://www.aclweb.org/anthology/D11-1096.pdf)) to be used in ML algorithms. The package can perform these manipulations, as well as reading and writing to CoNLL-U files, efficiently (see [benchmarks](https://udon2.github.io/benchmarks/). UDon2 lacks command-line interface and thus is not recommended by the authors for working with treebanks.
 
 * Category: library
 * Implementation: C++ (with Python bindings)
@@ -433,20 +433,16 @@ UDon2 is a library providing the possibility to manipulate Universal Dependencie
 
 #### ACoLi CoNLL Libraries
 
-Link: https://github.com/acoli-repo/conll
+The **ACoLi CoNLL Libraries** provide advanced tools for processing, creating and manipulating CoNLL/TSV formats, including CoNLL-U and CoNLL-U Plus.
+In particular, this includes *merging*, *transforming* and *querying* CoNLL and other TSV (CSV) data:
 
-Usage:
-- *All*: Over the Shell or within Java.
-- *Some*: Web interface (CQP4RDF), Docker (CoNLL-RDF)
-- *Experimental*: Python (CoNLL-RDF)
-
-Functionalities include
-- conversion between CoNLL formats
+- conversion between different CoNLL formats
 - automated retokenization
 - merging concurrent annotations (i.e., multiple annotations of the same token merged into a single row)
 - machine-readable specs for more than 20 CoNLL and other TSV formats
 - parsing CoNLL data into graphs and back
-- Linked Open Data conversion of CoNLL corpora
+- rule-based transformation of CoNLL annotations, e.g., for [annotation postprocessing](https://github.com/acoli-repo/RRG), [pre-annotation](https://github.com/cdli-gh/mtaac_syntax_pipeline) or [rule-based parsing](https://github.com/acoli-repo/germhist)
+- [Linked Open Data](https://en.wikipedia.org/wiki/Linguistic_Linked_Open_Data) publication of CoNLL corpora
 - enrichment with external knowledge bases
 - support for domain-specific extensions of the original tabular design of CoNLL formats, in particular for
   + syntactic dependencies (resolving foreign keys/object properties),
@@ -457,12 +453,8 @@ Functionalities include
 
 None of these operations are limited to CoNLL-U, but CoNLL-U and CoNLL-U Plus are supported as input and output formats.
 
-An early version of the ACoLi CoNLL Libraries was described in
-
-Chiarcos, C. & Schenk, N. (2018), The ACoLi CoNLL Libraries: Beyond Tab-Separated Values, In: Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018), Miyazaki, Japan, May 7-12, 2018, p.571-576.
-
 * Category: library, shell
-* Platform: any OS that runs Java. Shell scripts require Bash 4.0+ (MacOS users might need to upgrade the pre-installed Bash)
+* Platform: any OS that runs Java. Some shell scripts require Bash 4.0+ (MacOS users might need to [upgrade the pre-installed Bash](https://itnext.io/upgrading-bash-on-macos-7138bd1066ba))
 * Implementation: Java
 * License: Apache License
 * Homepage: https://github.com/acoli-repo/conll
@@ -472,13 +464,13 @@ Chiarcos, C. & Schenk, N. (2018), The ACoLi CoNLL Libraries: Beyond Tab-Separate
 
 #### Deptreeviz
 
-Deptreeviz is a SVG visualization and editing component.  It can be used as a swing component or to create SVGs from the command line.  It supports drag-and-drop modifications of trees, including dependency label and selecting the correct lexical items.  For the editing facilities, a matching backend needs to be programmed.  Deptreeviz is used to convert the Hamburg Dependency Treebank to UD.
+**Deptreeviz** is a SVG visualization and editing component.  It can be used as a swing component or to create SVGs from the command line.  It supports drag-and-drop modifications of trees, including dependency label and selecting the correct lexical items.  For the editing facilities, a matching backend needs to be programmed.  Deptreeviz is used to convert the Hamburg Dependency Treebank to UD.
 
 * Category: tree visualization (SVG graphics)
 * Platform: Any
 * Implementation: Java
 * License: Apache License 2.0 (open source)
-* Homepage: <https://gitlab.com/nats/deptreeviz>
+* Homepage: <https://gitlab.com/nats/deptreeviz
 * References: Sven Zimmer, Arne Köhn
 
 
