@@ -5,7 +5,7 @@ shortdef: 'names'
 udver: '2'
 ---
 
-The `flat:name` relation is a specialization of `flat` used for names.
+The `flat:name` relation is a specialization of [flat]() used for names.
 
 ~~~ sdparse
 Հրանտ Մելիք - Շահնազարյանը մամուլի ասուլիս է հրավիրել ։
