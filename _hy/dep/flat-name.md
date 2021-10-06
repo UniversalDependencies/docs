@@ -14,7 +14,7 @@ flat:name(Հրանտ, Շահնազարյանը)
 punct(Շահնազարյանը, -)
 ~~~
 
-Names are annotated in a `flat`, head-initial structure, in which all words in the name modify the first one using the `flat:name` label. This also works for numerals that are part of the names.
+Names are annotated in a flat, head-initial structure, in which all words in the name modify the first one using the `flat:name` label. This also works for numerals that are part of the names.
 
 ~~~ sdparse
 Գարեգին/PROPN[Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing] Բ/ADJ[NumForm=Armenian|NumType=Ord]
