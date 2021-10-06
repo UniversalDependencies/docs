@@ -11,7 +11,7 @@ Flat MWEs are annotated with a flat structure, where all subsequent words in the
 
 ## Names
 
-In Armenian (Eastern, Western) the `flat:name` relation as a specialization of `flat` is used to join the first (or middle) and the last name of a person. In general, names are annotated in a `flat:name`, head-initial structure, in which all words in the name modify the head using the `flat:name` label.
+In Armenian (Eastern, Western) the [flat:name]() relation as a specialization of `flat` is used to join the first (or middle) and the last name of a person. In general, names are annotated in a `flat:name`, head-initial structure, in which all words in the name modify the head using the `flat:name` label.
 
 For phrasal or clausal names the usual relations are used (e.g. multi-word names of places, organizations etc. _Երևանի պետական համալսարան, Պարսից ծով, Խաղաղ օվկիանոս, Ալանաց դշխուհի_).
 
