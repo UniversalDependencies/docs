@@ -11,16 +11,16 @@ Flat MWEs are annotated with a flat structure, where all subsequent words in the
 
 ## Names
 
-In Armenian the `flat` relation is used to join the first (or middle) and the last name of a person. In general, names are annotated in a `flat`, head-initial structure, in which all words in the name modify the head using the `flat` label.
+In Armenian (Eastern, Western) the `flat:name` relation as a specialization of `flat` is used to join the first (or middle) and the last name of a person. In general, names are annotated in a `flat:name`, head-initial structure, in which all words in the name modify the head using the `flat:name` label.
 
 For phrasal or clausal names the usual relations are used (e.g. multi-word names of places, organizations etc. _Երևանի պետական համալսարան, Պարսից ծով, Խաղաղ օվկիանոս, Ալանաց դշխուհի_).
 
 ~~~ sdparse
 Նախագահ Լևոն Տեր - Պետրոսյանը երեկ այցելել է Երևանի պետական համալսարան ։ \n President Levon Ter - Petrosyan yesterday visited Yerevan State University .
-flat(Լևոն, Պետրոսյանը)
-flat(Levon, Petrosyan)
-flat(Լևոն, Տեր)
-flat(Levon, Ter)
+flat:name(Լևոն, Պետրոսյանը)
+flat:name(Levon, Petrosyan)
+flat:name(Լևոն, Տեր)
+flat:name(Levon, Ter)
 nmod(Լևոն, Նախագահ)
 nmod(Levon, President)
 amod(համալսարան, պետական)
@@ -31,8 +31,8 @@ nmod:poss(University, Yerevan)
 
 ~~~ sdparse
 Նյու Յորք \n New York
-flat(Նյու, Յորք)
-flat(New, York)
+flat:name(Նյու, Յորք)
+flat:name(New, York)
 ~~~
 
 ~~~ sdparse
@@ -47,51 +47,43 @@ amod(ծոց, Պարսից)
 amod(Gulf, Persian)
 ~~~
 
-Note, that the titles/honorifics, when immediately following the first noun, are analyzed using the `flat` relation. They are treated as a part of the names: (see also [nmod]() and [apposition](appos)): 
+Note, that the titles/honorifics, when immediately following the first noun, are analyzed using the `flat:name` relation. They are treated as a part of the names: (see also [nmod]() and [apposition](appos)): 
 
 ~~~ sdparse
 Խոսրով Գ Կոտակ \n Khosrov III the-Small
-flat(Խոսրով, Կոտակ)
-flat(Khosrov, the-Small)
-flat(Խոսրով, Գ)
-flat(Khosrov, III)
+flat:name(Խոսրով, Կոտակ)
+flat:name(Khosrov, the-Small)
+flat:name(Խոսրով, Գ)
+flat:name(Khosrov, III)
 ~~~
 
 ~~~ sdparse
 Արշակ թագավորը \n King Arshak 
-flat(Արշակ, թագավորը)
-flat(King, Arshak)
+flat:name(Արշակ, թագավորը)
+flat:name(King, Arshak)
 ~~~
 
 ~~~ sdparse
 Զարեհ էֆենդին \n Zareh Efendi 
-flat(Զարեհ, էֆենդին)
-flat(Zareh, Efendi)
+flat:name(Զարեհ, էֆենդին)
+flat:name(Zareh, Efendi)
 ~~~
 
 ~~~ sdparse
 Անդրանիկ փաշան \n Andranik Pasha
-flat(Անդրանիկ, փաշան)
-flat(Andranik, Pasha)
+flat:name(Անդրանիկ, փաշան)
+flat:name(Andranik, Pasha)
 ~~~
 
 ~~~ sdparse
 Մարկոս աղան \n Markos Agha
-flat(Մարկոս, աղան)
-flat(Markos, Agha)
+flat:name(Մարկոս, աղան)
+flat:name(Markos, Agha)
 ~~~
 
 ## Dates and Complex Numerals
 
-The `flat` relation is also used for numerals and numerical expressions that lack phrasal structure. The most left numeral is the head, the other numerals are attached as its modifiers. Note, that for fraction or range [numbers](NumType) the [compound]() relation is used.
-
-~~~ sdparse
-Սա առավելագույնը հինգ հազար դրամ կարժենա ։ \n It will cost at-most 5 thousand drams .
-nummod(դրամ, հինգ)
-nummod(drams, 5)
-flat(հինգ, հազար-4)
-flat(5, thousand-14)
-~~~
+The `flat` relation is also used for numerals and numerical expressions that lack phrasal structure. The most left numeral is the head, the other numerals are attached as its modifiers. Note, that for fraction or range [numbers](NumType) the [flat:frac]() and [flat:range]() relations are used.
 
 ~~~ sdparse
 Սա առավելագույնը հարյուր հիսունհինգ հազար դրամ կարժենա ։ \n It will cost at-most hundred fifty-five thousand drams .
