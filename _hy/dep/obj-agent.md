@@ -15,10 +15,10 @@ This nominal phrase can be pronominalized as follows: _Վերակառուցմա�
 1	Վերակառուցման	վերակառուցում	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Coll	2	nmod:poss	_	_
 2	քաղաքականությունը	քաղաքականություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	3	nsubj:caus	_	_
 3	մոտեցրեց	մոտեցնել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	_
-4	Սառը	սառը	ADJ	_	_	5	amod	_	_
+4	Սառը	սառը	ADJ	_	Degree=Pos	5	amod	_	_
 5	պատերազմի	պատերազմ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	6	nmod:poss	_	_
 6	ավարտը	ավարտ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	3	obj:agent	_	SpaceAfter=No
-7	:	:	PUNCT	_	Foreign=Yes	3	punct	_	_
+7	։	։	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
