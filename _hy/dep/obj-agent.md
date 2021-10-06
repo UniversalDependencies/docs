@@ -7,7 +7,7 @@ udver: '2'
 
 In a causative construction the `obj:agent` relation attaches the content verb to his agent, when the latter is the syntactical object of the sentence
 (this initial agent has been demoted and became the object of the causative construction).
-For example, in the following sentence, _ավարտը_ is the true agent of the verb "մոտենալ" (_Մոտեցավ ավարտը։_).
+For example, in the following sentence, _ավարտը_ is the true agent of the verb "մոտեցնել" (_Մոտեցավ ավարտը։_).
 This nominal phrase can be pronominalized as follows: _Վերակառուցման քաղաքականությունը մոտեցրեց այն։_ The use of the pronoun _այն_ clearly shows that _ավարտը_ is the syntactical object of the sentence.
 
 ~~~ conllu
