@@ -5,8 +5,7 @@ shortdef: 'relative clause modifier of the clause'
 udver: '2'
 ---
 
-The `advcl:relcl` relation is used for indicating relative clauses with the relative adverbial pronouns.
-The antecedent of the pronoun is the entire superordinate clause.
+The `advcl:relcl` relation is used for indicating relative clauses with the relative adverbial pronouns modifying the head of the superordinate clause. `advcl:relcl` relative clauses are finite.
 
 ~~~ conllu
 # visual-style 1 6 advcl:relcl color:blue
