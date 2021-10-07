@@ -5,9 +5,7 @@ shortdef: 'relative clause modifier'
 udver: '2'
 ---
 
-The `acl:relcl` relation is used for relative clauses modifying
-a nominal. The relation points from the head of the nominal to the
-head of the relative clause.
+A relative clause modifier of an noun is a relative clause modifying the noun. The relation points from the noun that is modified to the head of the relative clause.
 
 ~~~ sdparse
 Տեսա նրան , ով սիրում է քեզ ։ \n I saw the man , who loves you .
