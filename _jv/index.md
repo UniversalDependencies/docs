@@ -47,8 +47,9 @@ udver: '2'
 
 ### Features
 
-* We propose the use of X of 24 features defined in UD v2 that are relevant to Javanese grammar:
+* We propose the use of 12 of 24 features defined in UD v2 that are relevant to Javanese grammar:
   * [Abbr](), with one possible value: `Yes`. This feature can be applied to all UPOS categories, except [PUNCT]() and [SYM]().
+  * [Definite(), applies to [DET]() with two possible values: `Def` and `Ind` .
   * [Degree](), applies to [ADJ]() with one possible value: `Sup`.
     * `Degree=Sup` for superlative adjectives
   * [Foreign](), with one possible value: `Yes`. This feature only applies to [X]().
@@ -61,6 +62,7 @@ udver: '2'
     * `Polarity=Neg` for [PART]() applies for negation particles 
     * `Polarity=Neg` for [INTJ]() as in _**Mboten**_ "**No**". The word _mboten_ "no" will be given feature `Polarity=Neg`.
   * [Poss](), applies to [PRON](), with one possible value: `Yes` for [PRON]() that serves as possessive pronouns.
+  * [PronType]()
   * [Typo](), with one possible value, `Yes`. This feature can be applied to all UPOS categories except [PUNCT]() and [SYM]().
   * [Voice](), applies to [VERB]() with two possible values: `Act` and `Pass`. Voice alternation is treated as inflection and the active and passive counterparts have the same lemma.
     * `Voice=Act` for active verbs that have characteristic of using base word
