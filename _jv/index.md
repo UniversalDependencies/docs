@@ -11,15 +11,12 @@ udver: '2'
 * In general, words are delimited by whitespace characters. Special treatments are given to multiword tokens and punctuations.
 
 * Special treatments of multiword tokens:
-  * Multiword tokens that contain clitics of _-ku_ "me/my", _-mu_ "you/your", _-né/é_ "he/him/she/her/it" are split into two tokens.
+  * Multiword tokens that contain clitics of _-ku_ "me/my", _-mu_ "you/your", _-né/-é/-ipun_ "he/him/she/her/it" are split into two tokens.
 
 * Special treatments for punctuations. All punctuation symbols are separated from the words, except in two cases:
-  * Hyphen in reduplicated words. Javanese has many reduplicated words as nouns (both singular and plural), verbs, adjectives, adverbs, and so on. These reduplicated words are not split and remain one token. The examples of reduplicated words are:
-    * Singular noun: ...
+  * Hyphen in reduplicated words. Javanese has many reduplicated words as nouns, verbs, and so on. These reduplicated words are not split and remain one token. The examples of reduplicated words are:
     * Plural noun: _bangsa-bangsa_ "nations"
     * Verb: _mlaku-laku_ "traveling"
-    * Adjective: ...
-    * Adverb: ...
   * For abbreviations. All abbreviations such as Mr., M.Sc. Tn., are not split and remain one token.
   
 
@@ -84,7 +81,7 @@ udver: '2'
 
 ### Relations Overview
 
-* The following X relation subtypes could be used in UD Javanese treebank:
+* The following 12 relation subtypes could be used in UD Javanese treebank:
   * [acl:relcl]() for relative clauses that modify a noun phrase. 
   * [advmod:emph]() for particles ([PART]()) _tho_ that emphasize other words. 
   * [case:adv]() for case to ADJ/VERB that plays role as adverb.
@@ -92,6 +89,7 @@ udver: '2'
   * [flat:foreign]() to label sequences of foreign words.
   * [flat:name]() to label sequences of names of PROPN-PROPN pairs.
   * [nmod:poss]() for possessive relationship.
+  * [nmod:lmod]() for locative modifier of a noun phrase. 
   * [nmod:tmod]() for temporal modifier of a noun phrase. 
   * [nsubj:pass]() for nominal subjects of passive verbs.
   * [obl:agent]() for agents of passive verbs.
