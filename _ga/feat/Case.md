@@ -7,11 +7,11 @@ udver: '2'
 
 Case is an inflectional feature of nouns and other parts of speech (adjectives, verbs, articles) that mark agreement with nouns.
 
-In Irish four cases are used: common (which covers nominative and accusative case), vocative, genitive and dative. These cases are labelled respectively as `NomAcc`, `Voc`, `Gen`, and `Dat`.
+In Irish four cases are used: common (which covers nominative and accusative case), vocative, genitive and dative. These cases are labelled respectively as `Nom` (common), `Voc`, `Gen`, and `Dat`.
 
-### <a name="NomAcc">`NomAcc`</a>: common case
+### <a name="Nom">`Nom`</a>: common case
 
-The common case is the base form of the noun, and is used for the lemma.
+The common case in Irish can apply to both the nominative case and acusative case (as they are the same form).
 This word form is used for subjects and objects of a clause, and predicates of a copula.
 
 #### Examples
