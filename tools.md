@@ -46,6 +46,7 @@ You may also want to announce your tool in the
     * [UDPipe](#udpipe)
     * [UDAPI](#udapi)
     * [UDon2](#udon2)
+    * [ACoLi CoNLL Libraries](#acoli-conll-libraries)
   * Visualization tools
     * [Deptreeviz](#deptreeviz)
     * [CoNLL-U viewer](#conll-u-viewer)
@@ -258,7 +259,7 @@ The editor provides the following functionalities:
 * Implementation: JavaScript
 * License: open source
 * Homepage: <http://palmyra.camel-lab.com/>
-* References: Taji and Habash (2020): [Dima Taji and Nizar Habash. 2020. PALMYRA 2.0: A Configurable Multilingual Platform Independent Tool for Morphology and Syntax Annotation. In Proceedings of Universal Dependencies Workshop (UDW) 2020.](https://aclanthology.org/2020.udw-1.19.pdf). 
+* References: Taji and Habash (2020): [Dima Taji and Nizar Habash. 2020. PALMYRA 2.0: A Configurable Multilingual Platform Independent Tool for Morphology and Syntax Annotation. In Proceedings of Universal Dependencies Workshop (UDW) 2020.](https://aclanthology.org/2020.udw-1.19.pdf).
 * Contact: Nizar Habash (nizar.habash@nyu.edu)
 
 
@@ -374,7 +375,7 @@ The latest CoNLL-U 2.0 format is not yet supported.
 
 #### conllu
 
-**conllu** is a python library that parses a CoNLL-U string into a nested python dictionary. 
+**conllu** is a python library that parses a CoNLL-U string into a nested python dictionary.
 
 It's easily installable with "pip install conllu", has good documentation and a big test suite that ensures working code, and is very customizable, which means it also works for custom formats that are similar to CoNLL-U. It works with both Python 2 and Python 3.
 
@@ -420,7 +421,7 @@ It's easily installable with "pip install conllu", has good documentation and a 
 
 #### UDon2
 
-UDon2 is a library providing the possibility to manipulate Universal Dependencies trees. UDon2 is written in C++ with Python bindings via Boost.Python and is geared towards downstream NLP applications that require plenty of manipulations with individual dependency trees, including transforming UD trees to trees without labels on edges (as defined by [Croce et. al. (2011)](https://www.aclweb.org/anthology/D11-1096.pdf)) to be used in ML algorithms. The package can perform these manipulations, as well as reading and writing to CoNLL-U files, efficiently (see [benchmarks](https://udon2.github.io/benchmarks/). UDon2 lacks command-line interface and thus is not recommended by the authors for working with treebanks.
+**UDon2** is a library providing the possibility to manipulate Universal Dependencies trees. UDon2 is written in C++ with Python bindings via Boost.Python and is geared towards downstream NLP applications that require plenty of manipulations with individual dependency trees, including transforming UD trees to trees without labels on edges (as defined by [Croce et. al. (2011)](https://www.aclweb.org/anthology/D11-1096.pdf)) to be used in ML algorithms. The package can perform these manipulations, as well as reading and writing to CoNLL-U files, efficiently (see [benchmarks](https://udon2.github.io/benchmarks/). UDon2 lacks command-line interface and thus is not recommended by the authors for working with treebanks.
 
 * Category: library
 * Implementation: C++ (with Python bindings)
@@ -430,19 +431,46 @@ UDon2 is a library providing the possibility to manipulate Universal Dependencie
 * Documentation: <https://udon2.github.io/>
 * References: [Kalpakchi and Boye (2020)](https://www.aclweb.org/anthology/2020.udw-1.14/)
 
+#### ACoLi CoNLL Libraries
 
+The **ACoLi CoNLL Libraries** provide advanced tools for processing, creating and manipulating CoNLL/TSV formats, including CoNLL-U and CoNLL-U Plus.
+In particular, this includes *merging*, *transforming* and *querying* CoNLL and other TSV (CSV) data:
+
+- conversion between different CoNLL formats
+- automated retokenization
+- merging concurrent annotations (i.e., multiple annotations of the same token merged into a single row)
+- machine-readable specs for more than 20 CoNLL and other TSV formats
+- parsing CoNLL data into graphs and back
+- rule-based transformation of CoNLL annotations, e.g., for [annotation postprocessing](https://github.com/acoli-repo/RRG), [pre-annotation](https://github.com/cdli-gh/mtaac_syntax_pipeline) or [rule-based parsing](https://github.com/acoli-repo/germhist)
+- [Linked Open Data](https://en.wikipedia.org/wiki/Linguistic_Linked_Open_Data) publication of CoNLL corpora
+- enrichment with external knowledge bases
+- support for domain-specific extensions of the original tabular design of CoNLL formats, in particular for
+  + syntactic dependencies (resolving foreign keys/object properties),
+  + Semantic Role annotations (variable-sized tables),
+  + PTB phrase structure notation (parsed into directed acyclic graph),
+  + infused XML markup (also parsed into a directed acyclic graph),
+  + multi-layer annotations (multiple directed acyclic graphs over the same text)
+
+None of these operations are limited to CoNLL-U, but CoNLL-U and CoNLL-U Plus are supported as input and output formats.
+
+* Category: library, shell
+* Platform: any OS that runs Java. Some shell scripts require Bash 4.0+ (MacOS users might need to [upgrade the pre-installed Bash](https://itnext.io/upgrading-bash-on-macos-7138bd1066ba))
+* Implementation: Java
+* License: Apache License
+* Homepage: https://github.com/acoli-repo/conll
+* References: [Chiarcos and Schenk (2018)](https://aclanthology.org/L18-1090/)
 
 ### Visualization tools
 
 #### Deptreeviz
 
-Deptreeviz is a SVG visualization and editing component.  It can be used as a swing component or to create SVGs from the command line.  It supports drag-and-drop modifications of trees, including dependency label and selecting the correct lexical items.  For the editing facilities, a matching backend needs to be programmed.  Deptreeviz is used to convert the Hamburg Dependency Treebank to UD.
+**Deptreeviz** is a SVG visualization and editing component.  It can be used as a swing component or to create SVGs from the command line.  It supports drag-and-drop modifications of trees, including dependency label and selecting the correct lexical items.  For the editing facilities, a matching backend needs to be programmed.  Deptreeviz is used to convert the Hamburg Dependency Treebank to UD.
 
 * Category: tree visualization (SVG graphics)
 * Platform: Any
 * Implementation: Java
 * License: Apache License 2.0 (open source)
-* Homepage: <https://gitlab.com/nats/deptreeviz>
+* Homepage: <https://gitlab.com/nats/deptreeviz
 * References: Sven Zimmer, Arne Köhn
 
 
