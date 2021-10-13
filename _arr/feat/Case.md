@@ -25,6 +25,7 @@ udver: '2'
 
 ### <a name="Ins">`Ins`</a>: Instrumental
 
+Instrumental is bla bla bla bla
 
 #### Examples
 
@@ -62,11 +63,15 @@ is used for the referential marker (also called argumentative, nominal). All lex
 * _<b>t-uβ-amo</b>&nbsp;_ “as / in the quality of a father”
 
 
+
+
 ### <a name="All">`All`</a>: Allative
 
 #### Examples
 
 * _<b>t-uβ-amo</b>&nbsp;_ “as / in the quality of a father”
+
+
 
 
 ### <a name="Abes">`Abes`</a>: Abesive
@@ -78,6 +83,8 @@ The vocative can be expressed, among others, by the sufix _we_ attached to the l
 * _<b>ʃe-ruβ-we</b>&nbsp;_ “ Oh, my father!”
 
 
+
+
 ### <a name="Dat">`Dat`</a>: Dative
 
 #### Examples
@@ -85,10 +92,14 @@ The vocative can be expressed, among others, by the sufix _we_ attached to the l
 * _<b>t-uβ-we</b>&nbsp;_ “To the father”
 
 
+
+
 ### <a name="Ines">`Ines`</a>: Inessive
 
 #### Examples
 
 * _<b>t-uβ-we</b>&nbsp;_ “To the father”
+
+
 
 <!-- Interlanguage links updated Pá kvě 14 11:08:29 CEST 2021 -->
