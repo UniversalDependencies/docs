@@ -11,6 +11,7 @@ udver: '2'
   <td><a href="#Int">Int</a></td>
   <td><a href="#Prs">Prs</a></td>
   <td><a href="#Ind">Ind</a></td>
+  <td><a href="#Dem">Dem</a></td>
   
 
 </tr>
@@ -43,6 +44,16 @@ Personal pronoun
 
 
 ### <a name="Ind">`Ind`</a>: Indefinite
+
+Indefinite pronoun
+
+#### Examples
+
+* _<b>?????a</b>&nbsp;_ “?????”
+
+
+
+### <a name="Dem">`Dem`</a>: Demonstrative
 
 Indefinite pronoun
 
