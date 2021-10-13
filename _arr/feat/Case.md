@@ -8,20 +8,21 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Ref">Ref</a></td>
-  <td><a href="#Loc">Loc</a></td>
-  <td><a href="#Tra">Tra</a></td>
-  <td><a href="#Per">Per</a></td>
+  <td><a href="#Ins">Ins</a></td>
+  <td><a href="#Ass">Ass</a></td>
+  <td><a href="#Sim">Per</a></td>
+  <td><a href="#Abl">Abl</a></td>
   <td><a href="#All">All</a></td>
   <td><a href="#Voc">Voc</a></td>
   <td><a href="#Dat">Dat</a></td>
+  <td><a href="#Ines">Ines</a></td>
 </tr>
 </table>
 
 `Case`
 
 
-### <a name="All">`All`</a>: Allative
+### <a name="Ins">`Ins`</a>: Instrumental
 
 
 #### Examples
@@ -31,7 +32,7 @@ udver: '2'
 
 
 
-### <a name="Ref">`Ref`</a>: Referential (Argumentative)
+### <a name="Assoc">`Ass`</a>: Associative
 
 is used for the referential marker (also called argumentative, nominal). All lexical roots in Tupinambá are predicates. In order for these to function as arguments of predicates the Ref marker is used. Its function is nothing like that of nominal cases.
 
@@ -43,7 +44,7 @@ is used for the referential marker (also called argumentative, nominal). All lex
 
 
 
-### <a name="Loc">`Loc`</a>: Locative
+### <a name="Sim">`Sim`</a>: Similative
 
 
 #### Examples
@@ -52,7 +53,7 @@ is used for the referential marker (also called argumentative, nominal). All lex
 
 
 
-### <a name="Tra">`Tra`</a>: Traslative
+### <a name="Abl">`Abl`</a>: Ablative
 
 Traslative
 
@@ -61,7 +62,7 @@ Traslative
 * _<b>t-uβ-amo</b>&nbsp;_ “as / in the quality of a father”
 
 
-### <a name="Per">`Per`</a>: Perlative
+### <a name="All">`All`</a>: Allative
 
 #### Examples
 
@@ -78,6 +79,13 @@ The vocative can be expressed, among others, by the sufix _we_ attached to the l
 
 
 ### <a name="Dat">`Dat`</a>: Dative
+
+#### Examples
+
+* _<b>t-uβ-we</b>&nbsp;_ “To the father”
+
+
+### <a name="Ines">`Ines`</a>: Inessive
 
 #### Examples
 
