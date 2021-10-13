@@ -11,6 +11,7 @@ udver: '2'
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Ind1">Ind1</a></td>
   <td><a href="#Ind2">Ind2</a></td>
+  <td><a href="#Opt">Opt</a></td>
   
   
   
@@ -39,6 +40,16 @@ Contiguity is more often associated with
 
 
 ### <a name="Ind2">`Ind2`</a>: Indicative2
+
+Contiguity is more often associated with
+
+#### Examples
+
+* _<b>mbaʔeʔupaβiré</b>&nbsp;_ “After (having finished) eating”
+
+
+
+### <a name="Opt">`Opt`</a>: Optative
 
 Contiguity is more often associated with
 
