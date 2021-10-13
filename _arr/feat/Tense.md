@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'Person'
-shortdef: 'person'
+title: 'Tense'
+shortdef: 'Tense'
 udver: '2'
 ---
 
