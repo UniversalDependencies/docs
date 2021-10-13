@@ -8,7 +8,8 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Perm">Perm</a></td>
+  <td><a href="#Ind1">Perm</a></td>
+  <td><a href="#Ind2">Perm</a></td>
   <td><a href="#Sub">Sub</a></td>
   <td><a href="#Cnd">Cnd</a></td>
   
@@ -18,7 +19,26 @@ udver: '2'
 
 `Mood` is a 
 
-### <a name="Perm">`Perm`</a>: Permissive
+### <a name="Ind">`Ind`</a>: Indicative
+
+Contiguity is more often associated with
+
+#### Examples
+
+* _<b>mbaʔeʔupaβiré</b>&nbsp;_ “After (having finished) eating”
+
+
+
+### <a name="Ind1">`Ind1`</a>: Indicative1
+
+Contiguity is more often associated with
+
+#### Examples
+
+* _<b>mbaʔeʔupaβiré</b>&nbsp;_ “After (having finished) eating”
+
+
+### <a name="Ind2">`Ind2`</a>: Indicative2
 
 Contiguity is more often associated with
 
@@ -29,23 +49,7 @@ Contiguity is more often associated with
 
 
 
-### <a name="Sub">`Sub`</a>: Subjunctive
 
-Contiguity is more often associated with
-
-#### Examples
-
-* _<b>mbaʔeʔupaβiré</b>&nbsp;_ “After (having finished) eating”
-
-
-
-### <a name="Cnd">`Cnd`</a>: Permissive
-
-Contiguity is more often associated with
-
-#### Examples
-
-* _<b>mbaʔeʔupaβiré</b>&nbsp;_ “After (having finished) eating”
 
 
 
