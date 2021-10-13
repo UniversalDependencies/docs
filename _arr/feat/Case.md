@@ -13,11 +13,12 @@ udver: '2'
   <td><a href="#Sim">Per</a></td>
   <td><a href="#Abl">Abl</a></td>
   <td><a href="#All">All</a></td>
-  <td><a href="#Voc">Voc</a></td>
+  <td><a href="#Abes">Abes</a></td>
   <td><a href="#Dat">Dat</a></td>
   <td><a href="#Ines">Ines</a></td>
 </tr>
 </table>
+
 
 `Case`
 
@@ -55,7 +56,6 @@ is used for the referential marker (also called argumentative, nominal). All lex
 
 ### <a name="Abl">`Abl`</a>: Ablative
 
-Traslative
 
 #### Examples
 
@@ -69,7 +69,7 @@ Traslative
 * _<b>t-uβ-amo</b>&nbsp;_ “as / in the quality of a father”
 
 
-### <a name="Voc">`Voc`</a>: Vocative
+### <a name="Abes">`Abes`</a>: Abesive
 
 The vocative can be expressed, among others, by the sufix _we_ attached to the lexical root.
 
