@@ -13,7 +13,7 @@ udver: '2'
   <td><a href="#Sim">Per</a></td>
   <td><a href="#Abl">Abl</a></td>
   <td><a href="#All">All</a></td>
-  <td><a href="#Abes">Abes</a></td>
+  <td><a href="#Abe">Abe</a></td>
   <td><a href="#Dat">Dat</a></td>
   <td><a href="#Ines">Ines</a></td>
 </tr>
@@ -74,7 +74,7 @@ is used for the referential marker (also called argumentative, nominal). All lex
 
 
 
-### <a name="Abes">`Abes`</a>: Abesive
+### <a name="Abe">`Abe`</a>: Abesive
 
 The vocative can be expressed, among others, by the sufix _we_ attached to the lexical root.
 
