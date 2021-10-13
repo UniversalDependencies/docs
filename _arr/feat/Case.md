@@ -9,7 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Ins">Ins</a></td>
-  <td><a href="#Ass">Ass</a></td>
+  <td><a href="#Com">Com</a></td>
   <td><a href="#Sim">Per</a></td>
   <td><a href="#Abl">Abl</a></td>
   <td><a href="#All">All</a></td>
@@ -34,7 +34,7 @@ Instrumental is bla bla bla bla
 
 
 
-### <a name="Assoc">`Ass`</a>: Associative
+### <a name="Com">`Com`</a>: Comitative
 
 is used for the referential marker (also called argumentative, nominal). All lexical roots in Tupinambá are predicates. In order for these to function as arguments of predicates the Ref marker is used. Its function is nothing like that of nominal cases.
 
