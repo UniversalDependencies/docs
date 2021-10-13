@@ -16,6 +16,7 @@ udver: '2'
   <td><a href="#Abe">Abe</a></td>
   <td><a href="#Dat">Dat</a></td>
   <td><a href="#Ines">Ines</a></td>
+  <td><a href="#Loc">Loc</a></td>
 </tr>
 </table>
 
@@ -95,6 +96,14 @@ The vocative can be expressed, among others, by the sufix _we_ attached to the l
 
 
 ### <a name="Ines">`Ines`</a>: Inessive
+
+#### Examples
+
+* _<b>t-uβ-we</b>&nbsp;_ “To the father”
+
+
+
+### <a name="Loc">`Loc`</a>: Locative
 
 #### Examples
 
