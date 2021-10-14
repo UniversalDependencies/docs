@@ -8,44 +8,62 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="">Round</a></td>
-  <td><a href="">Seed</a></td>
-  <td><a href="">Liquid</a></td>
-  <td><a href="">CilRig</a></td>
-  <td><a href="">CilFlx</a></td>
-
-
+  <td><a href="">Bds</a></td>
+  <td><a href="">Bss</a></td>
+  <td><a href="">Ccv</a></td>
+  <td><a href="">Cylb</a></td>
+  <td><a href="">Cylm</a></td>
+  td><a href="">Cyls</a></td>
+  td><a href="">Fem</a></td>
+  td><a href="">Flat</a></td>
+  <td><a href="">Rd</a></td>
+  <td><a href="">Tflat</a></td>
 </tr>
 </table>
 
-
-### <a name="Round">`Round`</a>: Round
+### <a name="Bds">`Bds`</a>: Bunch: Different Source
 
 #### Examples
 
-* _<b></b>&nbsp;_ “”
+### <a name="Bss">`Bss`</a>: Bunch: Same Source
 
+#### Examples
+
+### <a name="Ccv">`Ccv`</a>: Concave or Convex
+
+#### Examples
+
+### <a name="Cylb">`Cylb`</a>: Cylindrical: Big
+
+#### Examples
+
+### <a name="Cylm">`Cylm`</a>: Cylindrical: Medium
+
+#### Examples
+
+### <a name="Cyls">`Cyls`</a>: Cylindrical: Small
+
+#### Examples
+
+### <a name="Fem">`Fem`</a>: Feminine
+
+#### Examples
 
 
 ### <a name="Flat">`Flat`</a>: Flat
 
 #### Examples
 
+
+### <a name="Rd">`Rd`</a>: Round
+
+#### Examples
+
 * _<b></b>&nbsp;_ “”
 
-
-
-### <a name="CilRig">`CilRig`</a>: Cilindric and rigid
+### <a name="Tflat">`Tflat`</a>: Thin Flat
 
 #### Examples
-
-* _<b>ako-ba</b>&nbsp;_ “banana”
-
-### <a name="CilFlx">`CilFlx`</a>: Cilindric and flexible
-
-#### Examples
-
-* _<b>xek pu</b>&nbsp;_ “grub, caterpillar”
 
 
 
