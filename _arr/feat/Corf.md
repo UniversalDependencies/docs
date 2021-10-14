@@ -10,13 +10,9 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Yes">Yes</a></td>
   
-  
-  
-</tr>
-</table>
 
 
-### <a name="Corf">`Corf`</a>: Yes
+### <a name="Yes">`Yes`</a>: Yes
 
 The completive aspect is expressed by the particle _pa(β)_.
 
