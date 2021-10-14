@@ -9,10 +9,10 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="">3Imp</a></td>
+  <td><a href="">0</a></td>
   <td><a href="">1</a></td>
   <td><a href="">2</a></td>
   <td><a href="">3</a></td>
-  
   
   
  
@@ -34,10 +34,8 @@ The patient is always cross-referenced by the relational of non-contiguity.
 </tr>
 </table>
 
-### <a name="33">`33`</a>: Person=33
+### <a name="0">`0`</a>: Person=0
 
-When the object is third person, both arguments of a transitive verb are cross-referenced on the predicate. 
-The patient is always cross-referenced by the relational of non-contiguity.
 
 #### Examples
 
