@@ -15,9 +15,8 @@ udver: '2'
 </tr>
 </table>
 
-`Aspect` is a 
 
-### <a name="Compl">`Compl`</a>: Yes
+### <a name="Corf">`Corf`</a>: Yes
 
 The completive aspect is expressed by the particle _pa(β)_.
 
