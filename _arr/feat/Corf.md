@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'Corf'
-shortdef: 'Corf'
+shortdef: 'corf'
 udver: '2'
 ---
 
