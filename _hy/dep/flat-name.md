@@ -42,13 +42,13 @@ flat:name(Khosrov, III)
 ~~~
 
 ~~~ sdparse
-Արշակ թագավորը \n King Arshak 
-flat:name(Արշակ, թագավորը)
+Արշակ թագավոր \n King Arshak 
+flat:name(Արշակ, թագավոր)
 flat:name(King, Arshak)
 ~~~
 
 ~~~ sdparse
-Զարեհ էֆենդին \n Zareh Efendi 
-flat:name(Զարեհ, էֆենդին)
+Զարեհ էֆենդի \n Zareh Efendi 
+flat:name(Զարեհ, էֆենդի)
 flat:name(Zareh, Efendi)
 ~~~
