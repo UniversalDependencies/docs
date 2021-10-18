@@ -57,35 +57,40 @@ udver: '2'
 
 * We propose the use of 12 of 24 features defined in UD v2 that are relevant to Javanese grammar:
   * [Abbr](), with one possible value: `Yes`. This feature can be applied to all UPOS categories, except [PUNCT]() and [SYM]().
-  
+
   * [Definite](), applies to [DET]() with two possible values: `Def` and `Ind` .
 
   * [Foreign](), with one possible value: `Yes`. This feature only applies to [X]().
 
   * [Number](), applies to [DET](), [NOUN](), and [PRON](), with two possible values: `Sing`, or `Plur`.
+
   * [NumType](), applies to [NUM]() and [ADJ](), with two possible values: `Card` or `Ord`.
     * `NumType=Card` is used for `NUM`.
     * `NumType=Ord` is used for ordinal numbers tagged as `ADJ`.
+    
   * [Person](), applies to [PRON]() with three possible values: `1`, `2`, `3`.
 
   * [Polarity](), with one possible value: `Neg`, applies to [PART]() and [INTJ]().
     * `Polarity=Neg` for [PART]() applies for negating particles 
     * `Polarity=Neg` for [INTJ]() as in _**Mboten**_ "**No**". The word _mboten_ "no" will be given feature `Polarity=Neg`.
+
   * [Polite]() with four possible values: `Infm`, `Form`, `Elev`, `Humb`  
     * `Polite=Infm` for words from Ngoko language
-    * `Polite=Form` for words from Krama and Madya language
+    * `Polite=Form` for words from Krama and Madya languages
     * `Polite=Elev` for words from Krama Inggil
     * `Polite=Humb` for words from Krama Andhap
     
-  * [PronType]() with six possible values: `Art`, `Dem`, `Emp`, `Prs`, `Rel`, and `Tot`
+  * [PronType]() with eight possible values: `Art`, `Dem`, `Emp`, `Ind`, `Int`,  `Prs`, `Rel`, and `Tot`
     * `PronType=Art` is used for [DET]() along with [Definite]() feature.
-    * `PronType=Dem` is used for [DET]() or [PRON]() such as for words _iki_ "this".
+    * `PronType=Dem` is used for [DET]() or [PRON](), such as for words _iki_ "this".
     * `PronType=Emp` is used for [DET]() for word _piyambak_ "self"
+    * `PronType=Ind` is used for [DET]()
+    * `PronType=Int` is used for [ADV]() or [PRON]() 
     * `PronType=Prs` is used for [PRON]() along with [Person]() feature.
     * `PronType=Rel` is used for [PRON]() such as _ingkang, kang_.
     * `PronType=Tot` is used for [PRON]() or [DET]() such as _sedaya_ (Kr) "all"
       
-  * [Reflex]() with one possible value: `Yes`
+  * [Reflex]() with one possible value: `Yes`. For [PRON](), such as for word _dhèknè_ "self".
 
   * [Typo](), with one possible value, `Yes`. This feature can be applied to all UPOS categories except [PUNCT]() and [SYM]().
 
