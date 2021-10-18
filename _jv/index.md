@@ -12,18 +12,17 @@ udver: '2'
 
 * Special treatments of multiword tokens:
   * Multiword tokens that contain clitics of:
-    * _-ku_ "me/my"
-    * _-mu_ "you/your", 
-    * _-é/-ipun_ "he/him/she/her/it" 
+    * _-ku_ (Ng.) "me/my"
+    * _-mu_ (Ng.) "you/your", 
+    * _-é_ (Ng.) "he/him/she/her/it" 
+    * _-ipun_ (Kr.) "he/him/she/her/it" 
     are split into two tokens.
-
 
 * Special treatments for punctuations. All punctuation symbols are separated from the words, except in two cases:
   * Hyphen in reduplicated words. Javanese has many reduplicated words as nouns, verbs, and so on. These reduplicated words are not split and remain one token. The examples of reduplicated words are:
     * Plural noun: _bangsa-bangsa_ "nations"
     * Verb: _mlaku-laku_ "traveling"
   * For abbreviations. All abbreviations such as Mr., M.Sc. Tn., are not split and remain one token.
-  
 
 ## Morphology
 
@@ -35,8 +34,8 @@ udver: '2'
   * _yaiku_ (Ng.) or _inggih punika_ (Kr.) “be” serve as copulas.
 
   * Tenses-related AUX:
-    * _bakal_ (Ng.), _bade_ (Kr.), _arep_ “will/would” for the future tense.
-    * _lagi_ (Ng.), _lagek_ “be” for the present tense.
+    * _bakal_ (Ng.) or _bade_ (Kr.) “will/would” for the future tense.
+    * _lagi_ (Ng.) “be” for the present tense.
     * _wis_ (Ng.) or _sampun_ (Kr.) “have/has/had” for the simple/past perfect tense.
 
   * Modal-related AUX:
@@ -67,7 +66,7 @@ udver: '2'
   * [NumType](), applies to [NUM]() and [ADJ](), with two possible values: `Card` or `Ord`.
     * `NumType=Card` is used for `NUM`.
     * `NumType=Ord` is used for ordinal numbers tagged as `ADJ`.
-    
+
   * [Person](), applies to [PRON]() with three possible values: `1`, `2`, `3`.
 
   * [Polarity](), with one possible value: `Neg`, applies to [PART]() and [INTJ]().
@@ -75,19 +74,19 @@ udver: '2'
     * `Polarity=Neg` for [INTJ]() as in _**Mboten**_ "**No**". The word _mboten_ "no" will be given feature `Polarity=Neg`.
 
   * [Polite]() with four possible values: `Infm`, `Form`, `Elev`, `Humb`  
-    * `Polite=Infm` for words from Ngoko language
-    * `Polite=Form` for words from Krama and Madya languages
-    * `Polite=Elev` for words from Krama Inggil
-    * `Polite=Humb` for words from Krama Andhap
+    * `Polite=Infm` for words of Ngoko language
+    * `Polite=Form` for words of Krama and Madya languages
+    * `Polite=Elev` for words of Krama Inggil
+    * `Polite=Humb` for words of Krama Andhap
     
   * [PronType]() with eight possible values: `Art`, `Dem`, `Emp`, `Ind`, `Int`,  `Prs`, `Rel`, and `Tot`
     * `PronType=Art` is used for [DET]() along with [Definite]() feature.
     * `PronType=Dem` is used for [DET]() or [PRON](), such as for words _iki_ "this".
     * `PronType=Emp` is used for [DET]() for word _piyambak_ "self"
-    * `PronType=Ind` is used for [DET]()
-    * `PronType=Int` is used for [ADV]() or [PRON]() 
+    * `PronType=Ind` is used for [DET]() such as for _akèh_ (Ng.) "many"
+    * `PronType=Int` is used for [ADV]() or [PRON](), such as _sapa_ (Ng.), _sinten_ (Kr.) "who" 
     * `PronType=Prs` is used for [PRON]() along with [Person]() feature.
-    * `PronType=Rel` is used for [PRON]() such as _ingkang, kang_.
+    * `PronType=Rel` is used for [PRON]() such as _kang, sing_ (Ng.),_ingkang_ (Kr.) "that"
     * `PronType=Tot` is used for [PRON]() or [DET]() such as _sedaya_ (Kr) "all"
       
   * [Reflex]() with one possible value: `Yes`. For [PRON](), such as for word _dhèknè_ "self".
