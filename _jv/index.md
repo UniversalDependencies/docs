@@ -6,17 +6,19 @@ udver: '2'
 
 # UD for Javanese <span class="flagspan"><img class="flag" src="../../flags/svg/ID.svg" /></span>
 
+* Javanese has three language levels: Krama, Madya, and Ngoko. For certain words, we will add information about its level: Kr. for Krama, Md. for Madya, and Ng. for Ngoko. 
+
+
 ## Tokenization and Word Segmentation
 
 * In general, words are delimited by whitespace characters. Special treatments are given to multiword tokens and punctuations.
 
 * Special treatments of multiword tokens:
-  * Multiword tokens that contain clitics of:
+  * Multiword tokens that contain clitics are split into two tokens. 
     * _-ku_ (Ng.) "me/my"
     * _-mu_ (Ng.) "you/your", 
     * _-é_ (Ng.) "he/him/she/her/it" 
     * _-ipun_ (Kr.) "he/him/she/her/it" 
-    are split into two tokens.
 
 * Special treatments for punctuations. All punctuation symbols are separated from the words, except in two cases:
   * Hyphen in reduplicated words. Javanese has many reduplicated words as nouns, verbs, and so on. These reduplicated words are not split and remain one token. The examples of reduplicated words are:
@@ -28,9 +30,10 @@ udver: '2'
 
 ### Tags
 
-* UD Javanese treebank uses all universal POS categories.
-* Javanese has three language levels: Krama, Madya, and Ngoko. For certain words, we will add information about its level: Kr. for Krama, and Ng. for Ngoko. 
+* UD Javanese treebank uses all UPOS tags.
+
 * The auxiliary ([AUX]()). We defined these Javanese words as AUX:
+
   * _yaiku_ (Ng.) or _inggih punika_ (Kr.) “be” serve as copulas.
 
   * Tenses-related AUX:
@@ -41,7 +44,7 @@ udver: '2'
   * Modal-related AUX:
     * _kudu_ (Ng.) or _mesti_ (Kr.) as the equivalents of modal “must”.
     * _sekuduné/semestiné_ as the equivalents of modal 'shall/should'.
-    * _isa_ (Ng.) or _saget_ (Kr.) as the equivalents of modal “can/could”.
+    * _isa_ (Ng.) or _saged_ (Kr.) as the equivalents of modal “can/could”.
 
 * [PART]() is used for:
   * negation words: _ora_ (Ng.) or _mboten_ (Kr.) "no/not"
