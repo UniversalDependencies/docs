@@ -12,6 +12,7 @@ udver: '2'
   <td><a href="#Prs">Prs</a></td>
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Dem">Dem</a></td>
+  <td><a href="#Emp">Emp</a></td>
   
 
 </tr>
@@ -60,6 +61,16 @@ Indefinite pronoun
 #### Examples
 
 * _<b>?????a</b>&nbsp;_ “?????”
+
+
+### <a name="Emp">`Emp`</a>: Emphatic
+
+Indefinite pronoun
+
+#### Examples
+
+* _<b>?????a</b>&nbsp;_ “?????”
+
 
   
 </tr>

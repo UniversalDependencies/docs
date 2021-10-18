@@ -8,6 +8,7 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Art">Art</a></td>
   <td><a href="#Con">Con</a></td>
   <td><a href="#Dem">Dem</a></td>
   <td><a href="#Emp">Emp</a></td>
@@ -24,6 +25,14 @@ udver: '2'
 The pronominal type of a word (pronoun, determiner, adverb and others).
 
 Provisional schema.
+
+### <a name="Art">`Art`</a>: article ()
+
+This value is exceptional, since Latin, stably through its history, has never presented articles; it represents the encroaching of new Romance varieties into the language. 
+
+#### Examples
+
+* ***ly*** 'the' (in Thomas Aquinas, XIIIth c.)
 
 
 ### <a name="Con">`Con`</a>: contrastive

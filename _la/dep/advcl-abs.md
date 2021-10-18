@@ -78,7 +78,7 @@ nsubj:pass(revealed,with-face)
 'But we all beholding the glory of the Lord **with open face**, are transformed into the same image.' (*Summa contra Gentiles* citing 2 Cor. 3:18, ITTB)
 
 
-###References
+### References
 
 * Pinkster, H. (1990). *Latin syntax and semantics*, Routledge.
 * Nikitina, T., Haug, D. T. T. (2016). *Syntactic nominalization in Latin: a case of non-canonical subject agreement*, Transactions of the Philological Society, 114:1, 25–50.
