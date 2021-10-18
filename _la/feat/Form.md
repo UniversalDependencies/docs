@@ -35,5 +35,6 @@ Emphasis differs from [degree](la-feat/Degree) in that it does not scale a quali
 * ***sese***, emphasis by reduplication of the reflexive third person personal pronoun *se* (abl./acc. case)
 * ***mehercle*** can possibly be seen as an emphatic form of the vocative of *Hercules* (*me-* might correspond to the first-person personal pronoun)
 * ***īdem/eadem/ĭdem*** 'the same' is a strengthened form of the personal pronoun *is/ea/id* 'he/she/it' by means of the suffix *-dem*, of demonstrative origin
+* ***quamquam*** or ***quanquam*** is an example of emphasis by reduplication
 
 
