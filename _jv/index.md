@@ -11,7 +11,7 @@ udver: '2'
 * In general, words are delimited by whitespace characters. Special treatments are given to multiword tokens and punctuations.
 
 * Special treatments of multiword tokens:
-  * Multiword tokens that contain clitics of _-ku_ "me/my", _-mu_ "you/your", _-né/-é/-ipun_ "he/him/she/her/it" are split into two tokens.
+  * Multiword tokens that contain clitics of _-ku_ "me/my", _-mu_ "you/your", _-é/-ipun_ "he/him/she/her/it" are split into two tokens.
 
 * Special treatments for punctuations. All punctuation symbols are separated from the words, except in two cases:
   * Hyphen in reduplicated words. Javanese has many reduplicated words as nouns, verbs, and so on. These reduplicated words are not split and remain one token. The examples of reduplicated words are:
@@ -24,20 +24,21 @@ udver: '2'
 
 ### Tags
 
-* UD Javanese treebank uses (all) X universal POS categories.
-* The auxiliary ([AUX]()). We defined X Javanese words as AUX as follows:
-  * _yaiku_ “be” serve as copulas.
+* UD Javanese treebank uses all universal POS categories.
+* Javanese has three language levels: Krama, Madya, and Ngoko. For certain words, we will add information about its level: Kr. for Krama, and Ng. for Ngoko. 
+* The auxiliary ([AUX]()). We defined these Javanese words as AUX:
+  * _yaiku_ (Ng.) or _inggih punika_ (Kr.) “be” serve as copulas.
   * Tenses-related AUX:
-    * _bakal/bade/arep_ “will/would” for the future tense.
-    * _lagi/lagek_ “be” for the present tense.
-    * _wis/sampun_ “have/has/had” for the simple/past perfect tense.
+    * _bakal_ (Ng.), _bade_ (Kr.), _arep_ “will/would” for the future tense.
+    * _lagi_ (Ng.), _lagek_ “be” for the present tense.
+    * _wis_ (Ng.) or _sampun_ (Kr.) “have/has/had” for the simple/past perfect tense.
   * Modal-related AUX:
-    * _kudu/mesti_ as the equivalents of modal “must”.
+    * _kudu_ (Ng.) or _mesti_ (Kr.) as the equivalents of modal “must”.
     * _sekuduné/semestiné_ as the equivalents of modal 'shall/should'.
-    * _iso/saget_ as the equivalents of modal “can/could”.
+    * _isa_ (Ng.) or _saget_ (Kr.) as the equivalents of modal “can/could”.
 
 * [PART]() is used for:
-  * negation words: _ora/mboten_ "no/not"
+  * negation words: _ora_ (Ng.), _mboten_ (Kr.) "no/not"
   * particles of _ko, mbok, tho_
 
 * Javanese has the following coordinating conjunction words ([CCONJ]()):
@@ -49,9 +50,7 @@ udver: '2'
 
 * We propose the use of 12 of 24 features defined in UD v2 that are relevant to Javanese grammar:
   * [Abbr](), with one possible value: `Yes`. This feature can be applied to all UPOS categories, except [PUNCT]() and [SYM]().
-  * [Definite(), applies to [DET]() with two possible values: `Def` and `Ind` .
-  * [Degree](), applies to [ADJ]() with one possible value: `Sup`.
-    * `Degree=Sup` for superlative adjectives
+  * [Definite](), applies to [DET]() with two possible values: `Def` and `Ind` .
   * [Foreign](), with one possible value: `Yes`. This feature only applies to [X]().
   * [Number](), applies to [DET](), [NOUN](), and [PRON](), with two possible values: `Sing`, or `Plur`.
   * [NumType](), applies to [NUM]() and [ADJ](), with two possible values: `Card` or `Ord`.
@@ -59,14 +58,15 @@ udver: '2'
     * `NumType=Ord` is used for ordinal numbers tagged as `ADJ`.
   * [Person](), applies to [PRON]() with three possible values: `1`, `2`, `3`.
   * [Polarity](), with one possible value: `Neg`, applies to [PART]() and [INTJ]().
-    * `Polarity=Neg` for [PART]() applies for negation particles 
+    * `Polarity=Neg` for [PART]() applies for negating particles 
     * `Polarity=Neg` for [INTJ]() as in _**Mboten**_ "**No**". The word _mboten_ "no" will be given feature `Polarity=Neg`.
-  * [Poss](), applies to [PRON](), with one possible value: `Yes` for [PRON]() that serves as possessive pronouns.
-  * [PronType]()
+  * [Polite]() with four possible values: `Infm`, `Form`, `Elev`, `Humb`  
+  * [PronType]() with six possible values: `Art`, `Dem`, `Emp`, `Prs`, `Rel`, and `Tot`,  
+  * [Reflex]() with one possible value: `Yes`
   * [Typo](), with one possible value, `Yes`. This feature can be applied to all UPOS categories except [PUNCT]() and [SYM]().
-  * [Voice](), applies to [VERB]() with two possible values: `Act` and `Pass`. Voice alternation is treated as inflection and the active and passive counterparts have the same lemma.
-    * `Voice=Act` for active verbs that have characteristic of using base word
-    * `Voice=Pass` for passive verbs that have characteristic of using prefixes _di-, ter-_ or circumfix _ke-an_.
+  * [Voice](), applies to [VERB]() with two possible values: `Act` and `Pass`.
+    * `Voice=Act` for active verbs
+    * `Voice=Pass` for passive verbs
 
 
 ## Syntax
@@ -79,7 +79,7 @@ udver: '2'
 
 ### Non-verbal Clauses
 
-* The copula _yaiku_ (be) is optionally used in equational, attributional, locative, possessive and benefactory nonverbal clauses. 
+* The copula _yaiku_ (Ng.) or _inggih punika_ (Kr.) (be) is optionally used in equational, attributional, locative, possessive and benefactory nonverbal clauses. 
 
 ### Relations Overview
 
