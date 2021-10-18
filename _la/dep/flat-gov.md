@@ -22,6 +22,6 @@ nsubj(They-access,victims)
 acl:relcl(victims,...-19)
 ~~~
 
-'Now add to their number those most holy **victims**, the **Decii**, who ...' (UDante, *Monarchia*)
+'Now add to their number those most holy **victims**, the **Decii**, who ...' (*De Monarchia*, UDante)
 
 * Note: the Decii themselves are the victims; there are no victims caused by them. The English translation indeed conveys this expression with a mere apposition.
