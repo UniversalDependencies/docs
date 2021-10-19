@@ -366,6 +366,7 @@ Infinitive   | *uelle*
 * ***tibi*** 'to you (dat. sing.)', nom. sing. *tu*
 * ***fert*** '(he/she/it) carries', 1st pers. sing. ind. pres. act. *fero*
 
+There are no anomalous nouns (including proper nouns), adjectives, or determiners: when not simply indeclinable (see **`Ind`**), their deviant forms can unproblematically be considered just variants inside their inflectional paradigms (e.g. *animabus* instead of *animis* for the plural dative/ablative of *anima*, first declension).
 
 ### <a name="Ind">`Ind`</a>: indeclinable
 
