@@ -17,4 +17,5 @@ The `advcl:relcl` relation is used for indicating relative clauses (with the rel
 6	կոխկռճում	կոխկռճել	VERB	_	Aspect=Imp,Iter|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=koxkṙč̣owm|LTranslit=koxkṙč̣el
 7	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
 8	։	։	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
+
 ~~~
