@@ -78,11 +78,12 @@ chmod 666 evaluation-report.txt</pre>
     <pre>* 2018-04-15 v2.2
   * Repository renamed from UD_Czech to UD_Czech-PDT.</pre>
 7.  Commit and push the changes. This should also trigger an automatic re-validation of the treebank under the new name.
+    There will be a README error because the treebank is not recognized as previously released; see the next step.
 8.  Go to the `tools` repository to the script `check_files.pl` and locate the function `check_metadata()`.
     There is a back up list of treebanks and their "Data available since" metadata. Replace `UD_Czech` with `UD_Czech-PDT`,
-    keeping it in the list for the release where `UD_Czech` appeared for the first time.
+    keeping it in the list for the release where `UD_Czech` appeared for the first time. (We will probably change the way how this is checked in the future.)
 9.  Go to the `docs-automation` repository to the script `valdan/update-validation-report.pl`.
-    Inspect the two lists of treebanks in the `BEGIN` block and replace each occurrence of `UD_Czech` with `UD_Czech-PDT`.
+    Inspect the two lists of treebanks in the `BEGIN` block and replace each occurrence of `UD_Czech` with `UD_Czech-PDT`. (We will probably change the way how this is done in the future.)
 10. If there are other places where you maintain local clones of UD repositories (e.g., one is your laptop and the other is your
     university network), go to each of them, do a new git clone ; git checkout dev ; rm old clone.
 11. Finally, we want to regenerate the title page of Universal Dependencies.
