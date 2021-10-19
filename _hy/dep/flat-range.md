@@ -20,6 +20,7 @@ Armenian uses `flat:range` for numerical, spacial and time ranges.
 9	չեն	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	10	aux	_	Translit=čen|LTranslit=em
 10	թողել	թողնել	VERB	_	Aspect=Perf|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=t’oġel|LTranslit=t’oġnel|SpaceAfter=No
 11	։	։	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
+
 ~~~
 
 ~~~ conllu
@@ -30,4 +31,5 @@ Armenian uses `flat:range` for numerical, spacial and time ranges.
 4	ջահելներ	ջահել	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Plur|Style=Slng	0	root	_	Translit=ǰahelner|LTranslit=ǰahel
 5	էին	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	4	cop	_	Translit=ēin|LTranslit=em|SpaceAfter=No
 6	։	։	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
+
 ~~~
