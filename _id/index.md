@@ -38,8 +38,6 @@ udver: '2'
     * Adverb: _terus-menerus_ "continuously"
   * For abbreviations. All abbreviations such as Mr., M.Sc. Tn., are not split and remain one token.
 
-
-
 ## Morphology
 
 ### Tags
@@ -52,12 +50,12 @@ udver: '2'
 * The auxiliary ([AUX]()) vs. [VERB]() distinction is based on examples for English treebank, since initially there is no AUX type in KBBI. We defined 14 Indonesian words as AUX as follows:
   * _adalah_ and _ialah_ “be” serve as copulas.
   * Tenses-related AUX:
-    * _akan/bakal_ “will/would” for the future tense.
+    * _akan_ “will/would” for the future tense.
     * _sedang/tengah_ “be” for the present tense.
     * _telah/sudah_ “have/has/had” for the past tense.
   * Modal-related AUX:
     * _harus/mesti/wajib_ as the equivalents of modal “must”.
-    * _sebaiknya/seharusnya/perlu_ as the equivalents of modal 'shall/should'.
+    * _sebaiknya/seharusnya_ as the equivalents of modal 'shall/should'.
     * _bisa/dapat/sanggup/mampu_ as the equivalents of modal “can/could”.
     * _boleh_ as the equivalent of modal “may”.
     * _mungkin_ as the equivalent of modal “might”.
@@ -83,61 +81,76 @@ udver: '2'
 
 ### Features
 
-* We propose the use of 14 of 24 features defined in UD v2 that are relevant to Indonesian grammar:
+* We propose the use of 15 of 24 features defined in UD v2 that are relevant to Indonesian grammar:
   * [Abbr](), with one possible value: `Yes`. This feature can be applied to all UPOS categories, except [PUNCT]() and [SYM]().
+
   * [Clusivity](), applies to [PRON]() with two possible values: `Ex` and `In`.
     * `Clusivity=Ex` for _kami_ "we/our"
     * `Clusivity=In` for _kita_ "we/our"
+
   * [Degree](), applies to [ADJ]() with one possible value: `Sup`.
     * `Degree=Sup` for superlative adjectives, such as _terbaik_ "best", _tercantik_ "most beautiful", etc.
+
   * [Foreign](), with one possible value: `Yes`. This feature only applies to [X]().
+
   * [Mood](), with two possinle values: `Ind`, and `Imp`
+
   * [Number](), applies to [DET](), [NOUN](), and [PRON](), with two possible values: `Sing`, or `Plur`.
+
   * [NumType](), applies to [NUM]() and [ADJ](), with two possible values: `Card` or `Ord`.
-    * `NumType=Card` is used for `NUM`.
-    * `NumType=Ord` is used for ordinal numbers tagged as `ADJ`.
+    1. `NumType=Card` is used for `NUM`.
+    2. `NumType=Ord` is used for ordinal numbers tagged as `ADJ`.
+
   * [Person](), applies to [PRON]() with three possible values: `1`, `2`, `3`.
+
   * [Polarity](), with one possible value: `Neg`, applies to [PART]() and [INTJ]().
     * `Polarity=Neg` for [PART]() applies for negation particles as in _Saya **tidak** menyukainya_ "I do **not** like him/her/it". The word _tidak_ "no" will be tagged with `Polarity=Neg`.
     * `Polarity=Neg` for [INTJ]() as in _**Tidak**, terima kasih_ "**No**, thanks". The word _tidak_ "no" will be given feature `Polarity=Neg`.
-  * [Poss](), applies to [PRON](), with one possible value: `Yes` for [PRON]() that serves as possessive pronouns.
+
+  * [Polite](), applies to [PRON]() with two possible values: `Form` and `Infm`.
+    1. `Polite=Form`, applies to `PRON`, such as for _saya_ "I", _anda_ "you", and _beliau_ "him/her".
+    2. `Polite=Infm`, applies to `PRON`, such as for _aku_ "I", _kamu_ "you" (singular), and _kalian_ "you" (plural)
+
   * [PronType](), applies to [PRON](), [DET](), and [ADV](). For Indonesian, 7 possible values can be applied:
-    1. `PronType=Dem`, applies to `ADV`, `DET`, and `PRON` such as for _itu_ "that" in _**Itu** masalahmu._ "**That** is your problem."
-    2. `PronType=Emp`, applies to `DET` such as for _sendiri_ "self" in _Kamu harus percaya pada dirimu **sendiri**_ "You have to believe in your**self**".
-    3. `PronType=Ind`, applies to `ADV`, `DET`, and `PRON` such as for _seseorang_ "someone/somebody" or _sesuatu_ "something"
-    4. `PronType=Int`, applies to `PRON` and `ADV`.
+    1. `PronType=Art`, applies to `DET`, such as for _sebuah, seorang_ and _-nya_
+    2. `PronType=Dem`, applies to `ADV`, `DET`, and `PRON` such as for _itu_ "that" in _**Itu** masalahmu._ "**That** is your problem."
+    3. `PronType=Emp`, applies to `DET` such as for _sendiri_ "self" in _Kamu harus percaya pada dirimu **sendiri**_ "You have to believe in your**self**".
+    4. `PronType=Ind`, applies to `ADV`, `DET`, and `PRON` such as for _seseorang_ "someone/somebody" or _sesuatu_ "something"
+    5. `PronType=Int`, applies to `PRON` and `ADV`.
       * `PronType=Int` for `PRON`, such as for _apa_ "what" and _siapa_ "who" in interrogative sentences
       * `PronType=Int` for `ADV`, such as for _bagaimana_ "how" and _kapan_ "when" in interrogative sentences
-    5. `PronType=Prs`, applies to `PRON`for all personal pronouns.
-    6. `PronType=Rel`, applies to `PRON` and `ADV`.
+    6. `PronType=Prs`, applies to `PRON`for all personal pronouns.
+    7. `PronType=Rel`, applies to `PRON` and `ADV`.
       * `PronType=Rel` for `PRON`, such as for _apa_ "what", _siapa_ "who", _yang_ "that".
       * `PronType=Rel` for `ADV`, such as for _di mana_ "where", _bagaimana_ "how" and _kapan/saat/ketika_ "when" in non-interrogative sentences
-    7. `PronType=Tot`, applies to `ADV`, `DET`, and `PRON`.
+    8. `PronType=Tot`, applies to `ADV`, `DET`, and `PRON`.
       * `PronType=Tot` for `PRON`, such as for _semua_ "all" in _**Semua** adalah milikmu._ "**All** is yours."
       * `PronType=Tot` for `DET`, such as for _semua_ "all" in _**Semua** siswa terlihat senang._ "**All** students look happy."
       * `PronType=Tot` for `ADV`, such as for _selalu_ "always" in _Dia **selalu** terlambat_. "She is **always** late."
-  * [Reflex](), applies to [PRON]() with one possible value: Yes.
+
+  * [Reflex](), applies to [PRON]() with one possible value: `Yes`. Only one word qualifies to this feature: _diri_ "self".
+
   * [Typo](), with one possible value, `Yes`. This feature can be applied to all UPOS categories except [PUNCT]() and [SYM]().
+
   * [Voice](), applies to [VERB]() with two possible values: `Act` and `Pass`. Voice alternation is treated as inflection and the active and passive counterparts have the same lemma.
-    * `Voice=Act` for active verbs that have characteristic of using base word, prefixes _me-, ber-_
+    1. `Voice=Act` for active verbs that have characteristic of using base word, prefixes _me-, ber-_
       * Active verbs without affix: _duduk_ "sit", _pergi_ "go"
       * Active verbs with prefix _me-_: _memperbaiki_ "fix", _mengakui_ "admit"
       * Active verbs with prefix _ber-_: _belajar_ "study", _bekerja_ "work"
-    * `Voice=Pass` for passive verbs that have characteristic of using prefixes _di-, ter-_ or circumfix _ke-an_.
+    2. `Voice=Pass` for passive verbs that have characteristic of using prefixes _di-, ter-_ or circumfix _ke-an_.
       * Passive verbs with prefix _di-_ : _dipublikasikan_ "be published", _dilepaskan_ "be released"
       * Passive verbs with prefix _ter-_: _terbakar_ "on fire", _terjatuh_ "fell", _terkejut_ "shocked"
       * Passive verbs with confix _ke-an_: _ketinggalan_ "lag behind", _kecurian_ "be stolen"
 
-* We consider these 10 UD v2 features are not relevant to Indonesian grammar:
+* We consider these 9 UD v2 features are not relevant to Indonesian grammar:
   * `Gender`. Indonesian words have no gender.
   * `Animacy`. Similar with Gender, there is no requirements of agreements between words in Indonesian.
   * `NounClass`, with the same reason for Gender and Animacy
   * `Case`, with the same reason for Gender, Animacy, and NounClass
   * `Tense`. Indonesian verbs have the same form in all tenses.
   * `Aspect`, with the same reason for Tense.
-  * `Definite`
   * `Evident`
-  * `Polite`
+  * `Poss`
   * `VerbForm`
 
 ## Syntax
@@ -158,12 +171,11 @@ udver: '2'
 
 ### Relations Overview
 
-* Among 37 universal dependency relations in UDv2, 33 deprels are respresented in the Indonesian-PUD and Indonesian-CSUI treebank
-* The following universal delrel are not represented in both the Indonesian-PUD and Indonesian-CSUI:
-  * `dep`
-  * `expl`
-  * `list`
-  * `reparandum`
+* Among 37 universal dependency relations in UDv2:
+  * 31 deprels are represented in the Indonesian-CSUI (except: `compound`, `expl`, `goeswith`, `list`, `reparandum`, and `vocative`)
+  * 33 deprels are represented in the Indonesian-PUD (except: `clf`, `expl`, `list`, and `reparandum`)
+  *  34 deprels are represented in the Indonesian-PUD (except: `dislocated`, `expl`, and `reparandum`)
+
 * We provide additional docummentation with examples in Indonesian for some of universal deprels:
   * [aux]()
   * [cop]()
@@ -185,10 +197,6 @@ udver: '2'
   * [nsubj:pass]() for nominal subjects of passive verbs.
   * [obl:agent]() for agents of passive verbs.
   * [obl:tmod]() for temporal modifier for a [VERB]()/[ADJ]().
-
-
-## Remark
-This Indonesian documentation is applied only to the Indonesian-PUD and the Indonesian-CSUI treebank. The Indonesian-GSD does not conform to these guidelines.
 
 ## Treebanks
 
