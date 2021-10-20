@@ -8,7 +8,7 @@ udver: '2'
 Examples of the used of deprel [obl:tmod]() in Javanese:
 
 ~~~ sdparse
-ROOT Pesawat punika dipunsertifikasi perdana taun 1994 . \n The aircraft was first certified in 1994 .
+Pesawat punika dipunsertifikasi perdana taun 1994 . \n The aircraft was first certified in 1994 .
 obl:tmod(dipunsertifikasi, taun)
 obl:tmod(certified, 1994-15)
 ~~~
