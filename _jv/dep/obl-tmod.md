@@ -5,7 +5,7 @@ shortdef: 'temporal modifier of verb/adjective'
 udver: '2'
 ---
 
-Examples of the used of deprel [obl:tmod]() in Javanese:
+Example of the used of deprel [obl:tmod]() in Javanese:
 
 ~~~ sdparse
 Pesawat punika dipunsertifikasi perdana taun 1994 . \n The aircraft was first certified in 1994 .

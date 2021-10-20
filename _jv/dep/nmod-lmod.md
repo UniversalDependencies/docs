@@ -7,14 +7,16 @@ udver: '2'
 
 This is a special class of [nmod]().
 This deprel is used in Javanese grammar for locative nouns such as:
-* _sajroning_ "inside/on" such as in _ing sajroning bak sampah_ "in the waste bin"
+* _sajroning_ "inside" such as in _ing sajroning_ "in" + _bak sampah_ "waste bin" = "in the waste bin"
 
+The syntax is similar with locative nouns for Indonesian.
 
 ~~~ sdparse
 ing sajroning bak sampah \n in the waste bin
 case(bak, ing)
 nmod:lmod(bak, sajroning)
 nmod(bak, sampah)
+case(bin, in)
 ~~~
 
 

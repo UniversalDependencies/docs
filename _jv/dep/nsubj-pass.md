@@ -5,12 +5,14 @@ shortdef: 'passive nominal subject'
 udver: '2'
 ---
 
-A passive nominal subject is a noun phrase which is the syntactic subject of a passive clause. Examples in Javanese:
+A passive nominal subject is a noun phrase which is the syntactic subject of a passive clause. 
+
+Example in Javanese:
 
 ~~~ sdparse
-ROOT Piyambakipun dipunangkat minangka anggota . \n  He was appointed as a member .
-nsubj:pass(Piyambakipun, dipunangkat)
-root(ROOT, dipunangkat)
+Piyambakipun dipunangkat minangka anggota . \n  He was appointed as a member .
+nsubj:pass(dipunangkat, Piyambakipun)
+nsubj:pass(appointed, He)
 ~~~
 
 
