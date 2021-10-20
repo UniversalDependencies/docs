@@ -182,7 +182,7 @@ udver: '2'
 * Among 37 universal dependency relations in UDv2:
   * 31 deprels are represented in the Indonesian-CSUI (except: `compound`, `expl`, `goeswith`, `list`, `reparandum`, and `vocative`)
   * 33 deprels are represented in the Indonesian-PUD (except: `clf`, `expl`, `list`, and `reparandum`)
-  *  34 deprels are represented in the Indonesian-PUD (except: `dislocated`, `expl`, and `reparandum`)
+  * 34 deprels are represented in the Indonesian-GSD (except: `dislocated`, `expl`, and `reparandum`)
 
 * We provide additional docummentation with examples in Indonesian for some of universal deprels:
   * [aux]()
