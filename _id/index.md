@@ -85,20 +85,25 @@ udver: '2'
   * [Abbr](), with one possible value: `Yes`. This feature can be applied to all UPOS categories, except [PUNCT]() and [SYM]().
 
   * [Clusivity](), applies to [PRON]() with two possible values: `Ex` and `In`.
-    * `Clusivity=Ex` for _kami_ "we/our"
-    * `Clusivity=In` for _kita_ "we/our"
+    1. `Clusivity=Ex` for _kami_ "we/our"
+    2. `Clusivity=In` for _kita_ "we/our"
 
   * [Degree](), applies to [ADJ]() with one possible value: `Sup`.
-    * `Degree=Sup` for superlative adjectives, such as _terbaik_ "best", _tercantik_ "most beautiful", etc.
+    * `Degree=Sup` for superlative adjectives, such as _terbaik_ "the best", _tercantik_ "the most beautiful".
 
   * [Foreign](), with one possible value: `Yes`. This feature only applies to [X]().
 
-  * [Mood](), with two possinle values: `Ind`, and `Imp`
+  * [Mood](), applies to [VERB](), with two possible values: `Ind`, and `Imp`
+    1. `Mood=Ind` for verb in declarative sentences.
+    2. `Mood=Imp` for verb in imperative sentences.
+
 
   * [Number](), applies to [DET](), [NOUN](), and [PRON](), with two possible values: `Sing`, or `Plur`.
+    1. `Number=Sing` is used for singular nouns, determiner, or pronouns.
+    2. `Number=Plur` is used for plural nouns, determiner, or pronouns.
 
   * [NumType](), applies to [NUM]() and [ADJ](), with two possible values: `Card` or `Ord`.
-    1. `NumType=Card` is used for `NUM`.
+    1. `NumType=Card` is used for cardinal numbers tagged as `NUM`.
     2. `NumType=Ord` is used for ordinal numbers tagged as `ADJ`.
 
   * [Person](), applies to [PRON]() with three possible values: `1`, `2`, `3`.
@@ -107,11 +112,13 @@ udver: '2'
     * `Polarity=Neg` for [PART]() applies for negation particles as in _Saya **tidak** menyukainya_ "I do **not** like him/her/it". The word _tidak_ "no" will be tagged with `Polarity=Neg`.
     * `Polarity=Neg` for [INTJ]() as in _**Tidak**, terima kasih_ "**No**, thanks". The word _tidak_ "no" will be given feature `Polarity=Neg`.
 
+
   * [Polite](), applies to [PRON]() with two possible values: `Form` and `Infm`.
     1. `Polite=Form`, applies to `PRON`, such as for _saya_ "I", _anda_ "you", and _beliau_ "him/her".
-    2. `Polite=Infm`, applies to `PRON`, such as for _aku_ "I", _kamu_ "you" (singular), and _kalian_ "you" (plural)
+    2. `Polite=Infm`, applies to `PRON`, such as for _aku_ "I", _kamu_ "you" (singular), and _kalian_ "you" (plural).
 
-  * [PronType](), applies to [PRON](), [DET](), and [ADV](). For Indonesian, 7 possible values can be applied:
+
+  * [PronType](), applies to [PRON](), [DET](), and [ADV](). For Indonesian, eight possible values can be applied:
     1. `PronType=Art`, applies to `DET`, such as for _sebuah, seorang_ and _-nya_
     2. `PronType=Dem`, applies to `ADV`, `DET`, and `PRON` such as for _itu_ "that" in _**Itu** masalahmu._ "**That** is your problem."
     3. `PronType=Emp`, applies to `DET` such as for _sendiri_ "self" in _Kamu harus percaya pada dirimu **sendiri**_ "You have to believe in your**self**".
@@ -141,6 +148,7 @@ udver: '2'
       * Passive verbs with prefix _di-_ : _dipublikasikan_ "be published", _dilepaskan_ "be released"
       * Passive verbs with prefix _ter-_: _terbakar_ "on fire", _terjatuh_ "fell", _terkejut_ "shocked"
       * Passive verbs with confix _ke-an_: _ketinggalan_ "lag behind", _kecurian_ "be stolen"
+
 
 * We consider these 9 UD v2 features are not relevant to Indonesian grammar:
   * `Gender`. Indonesian words have no gender.
