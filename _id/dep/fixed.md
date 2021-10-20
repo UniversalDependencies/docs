@@ -67,9 +67,9 @@ fixed(such, as)
 
 ~~~ sdparse
 Oleh karena itu , kamu harus berobat . \n Therefore , you must seek treatment .
-case(itu, Oleh)
 fixed(Oleh, karena)
-obl(berobat, itu)
+fixed(Oleh, itu)
+advmod(berobat, Oleh)
 advmod(seek, Therefore)
 ~~~
 <!-- Interlanguage links updated Pá kvě 14 11:09:05 CEST 2021 -->
