@@ -5,9 +5,7 @@ shortdef: 'auxiliary'
 udver: '2'
 ---
 
-We use deprel 'aux' to annotate Indonesian words that serve as:
-- tenses marking: _akan/bakal_ for future tense, _sedang/tengah_ for present tense, _telah/sudah_ for past tense
-- modals: _bisa/dapat/sanggup/mampu_ "can/could", _harus/mesti/wajib_ "must", _seharusnya/sebaiknya_ "shall/should", _boleh/mungkin_ "may/might"
+Examples in Indonesian:
 
 ~~~ sdparse
 Dia telah pergi \n She has gone
