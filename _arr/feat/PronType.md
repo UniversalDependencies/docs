@@ -13,6 +13,7 @@ udver: '2'
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Dem">Dem</a></td>
   <td><a href="#Emp">Emp</a></td>
+  <td><a href="#Rcp">Rcp</a></td>
   
 
 </tr>
@@ -72,6 +73,18 @@ Indefinite pronoun
 * _<b>?????a</b>&nbsp;_ “?????”
 
 
+
+### <a name="Rcp">`Rcp`</a>: Reciprocal Pronoun
+
+This value is used for pronouns that are specifically reciprocal
+
+#### Examples
+
+* _<b> </b>&nbsp;_ “”
+
+  
+</tr>
+</table>
   
 </tr>
 </table>
