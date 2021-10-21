@@ -43,7 +43,7 @@ happen, without adding any attitude of the speaker.
 * [tr] *eve <b>gidiyor</b>* "she is going home"
 * [tr] *eve <b>gitti</b>* "she went home"
 * [et] _Sa ei <b>tule</b>._ "You are not coming."
-* [pt] Ela <b>foi</b> para casa._ “she went home.”
+* [pt] Ela <b>foi</b> para casa. “she went home.”
 * [sq] _Ti <b>flet</b> shqip._ "You speak Albanian."
 
 ### <a name="Imp">`Imp`</a>: imperative
