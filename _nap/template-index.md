@@ -8,7 +8,10 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-*
+Words are delimited by whitespace or apostrophes. The apostrophes indicate elision, i.e. the omission of a sound in a word.
+In Neapolitan, articles undergo elision, e.g.: _unu_-> _'nu_.INDF.M; _de/re_ -> _'e_.GEN
+
+Multiword tokens do occur, namely in the form of ADP+DET.
 
 ---
 **Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
@@ -19,7 +22,8 @@ udver: '2'
 
 ### Tags
 
-*
+Auxiliaries are verbal, usually formed from the verb _avé_ 'to have'.
+(De)verbal forms can be tagged in different ways. Participles are usually tagged as ADJ, sometimes as VERB.
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
@@ -28,7 +32,7 @@ udver: '2'
 
 ### Features
 
-*
+
 
 ---
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
