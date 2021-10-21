@@ -533,7 +533,7 @@ Adverbial relativizers receive the same treatment.
 2 episode episode NOUN NN Number=Sing 0 root _ _
 3 where where ADV WRB PronType=Rel 5 advmod _ _
 4 Monica Monica PROPN NNP Number=Sing 5 nsubj _ _
-5 sings sing NOUN NNS Number=Plur 2 acl:relcl _ _
+5 sings sing VERB VBZ Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin 2 acl:relcl _ _
 </div>
 </td><td width="600">
 <div class="conllu-parse">
@@ -543,7 +543,7 @@ Adverbial relativizers receive the same treatment.
 2 episode episode NOUN NN Number=Sing 0 root 5:obl _
 3 where where ADV WRB PronType=Rel 2 ref _ _
 4 Monica Monica PROPN NNP Number=Sing 5 nsubj _ _
-5 sings sing NOUN NNS Number=Plur 2 acl:relcl _ _
+5 sings sing VERB VBZ Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin 2 acl:relcl _ _
 </div>
 </td></tr></tbody>
 </table>
