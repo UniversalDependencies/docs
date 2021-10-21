@@ -41,7 +41,7 @@ Auxiliaries are verbal, usually formed from the verb _avé_ 'to have'.
 
 ## Syntax
 
-*
+
 
 ---
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
@@ -52,8 +52,8 @@ Auxiliaries are verbal, usually formed from the verb _avé_ 'to have'.
 
 There are [N](../treebanks/nap-comparison.html) Neapolitan UD treebanks:
 
-  * [Neapolitan-A](../treebanks/nap_a/index.html)
-  * [Neapolitan-B](../treebanks/nap_b/index.html)
+  [Neapolitan-A](../treebanks/nap_a/index.html)
+  [Neapolitan-B](../treebanks/nap_b/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
