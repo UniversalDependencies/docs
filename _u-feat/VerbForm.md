@@ -50,7 +50,7 @@ used as such (similar to the gerund in English).
 #### Examples
 
 * [de] _ich muss <b>gehen</b>_ “I must <b>go</b>”
-* [pt] _eu preciso <b>ir</br>_ “I must <b>go</b>”
+* [pt] _eu preciso <b>ir</b>_ “I must <b>go</b>”
 
 
 ### <a name="Sup">`Sup`</a>: supine
