@@ -10,8 +10,10 @@ udver: '2'
 
 * Words are delimited by whitespace or apostrophes. The apostrophes indicate elision, i.e. the omission of a sound in a word.
 * In Neapolitan, articles undergo elision, e.g.: _unu_ → _'nu_.INDF.M; _de/re_ → _'e_.GEN
-* Multiword tokens do occur, namely in the form of [ADP]()+[DET]().
-
+* Multiword tokens do occur, namely:
+  - in the form of preposition combined with a definite article -> [ADP]()+[DET]().
+  - in the form of clitic pronouns, e.g. _rammellĕ_ "give them to me"
+  - with partitive clitics, e.g. _vavattennĕ_ "go away.(from here)"
 ---
 
 ## Morphology
@@ -23,9 +25,9 @@ udver: '2'
   - _essĕ_ "to be", which is also the copula;
   - tense auxiliaries formed, as also in Italian, by _essĕ_ "to be" and _avé_ “to have”;
   - auxiliaries in the progressive form, such _stonghĕ venennĕ_ "I am coming"
-* (De)verbal forms can be tagged in different ways.
-  * Participles are usually tagged as [ADJ]().
-  * Infinitive forms are always tagged as [NOUN]().
+ * (De)verbal forms can be tagged in different ways.
+ * Participles are usually tagged as [ADJ]().
+ * Infinitive forms are always tagged as [NOUN]().
 
 ---
 
@@ -39,6 +41,8 @@ udver: '2'
 
 * Verbs all end with a reduced vowel. However, the distinction between etymological forms is retained by graphemes with a breve diacritic.
   - Example: _ijĕ magnĕ_ “I eat”; _issŏ magnă_ “he eats”
+* Often there is alternation between imperfect and simple past (with perfective meaning), used interchangeably, e.g.:
+  - _Venevă ccà e facettĕ..._ "(He/she) came here and was like..." _venevă_.IMP; _facettĕ_.PERF
 * Adverbs inflect for degree. However, Neapolitan tends to use the intensifier _cchiù_ "more" in phrases like _cchiù megliŏ_ lit. "more better", where _megliŏ_ "better" is already in the comparative grade.
 
 ---
@@ -49,7 +53,9 @@ udver: '2'
   - _Dimmanĕ venĕ Giuvannĕ_ “Tomorrow John is coming”
 * Subjects can be omitted, since Neapolitan is a pro-drop language.
 * Objects usually follow the main verb, or can be constituted by whole clauses, e.g.:
-  - _Mĕ piacĕ 'e pazzià a ppallonĕ_ “I like to play football”
+  - _Cantavă 'na canzonă_ "(He/she) sang/was singing a song"
+* Whole clauses can also be subjects of benefactive constructions in dative, e.g.:
+  - _Mĕ piacĕ 'e pazzià a ppallonĕ_ "I like to play football"
 
 ---
 
