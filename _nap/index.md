@@ -19,7 +19,10 @@ udver: '2'
 ### Tags
 
 * Neapolitan uses all 17 universal tags.
-* Auxiliaries are verbal, usually formed from the verb _avé_ “to have”, which indicates perfective aspect.
+* Auxiliaries are verbal, usually formed from the verbs _essĕ_ "to be" and _avé_ “to have”, which indicates perfective aspect. The tag AUX is mainly used to mark:
+  - _essĕ_ "to be", which is also the copula;
+  - tense auxiliaries formed, as also in Italian, by _essĕ_ "to be" and _avé_ “to have”;
+  - auxiliaries in the progressive form, such _stonghĕ venennĕ_ "I am coming"
 * (De)verbal forms can be tagged in different ways.
   * Participles are usually tagged as [ADJ]().
   * Infinitive forms are always tagged as [NOUN]().
@@ -41,7 +44,7 @@ udver: '2'
 
 ## Syntax
 
-* Subjects are constituted of noun phrases, which can be also deverbal. They are not marked and usually preceed the verb, except for presentational construction, e.g.:
+* Subjects are constituted of noun phrases, which can be also deverbal. They are not marked and usually preceed the verb, except for presentational constructions, e.g.:
   - _Dimmanĕ venĕ Giuvannĕ_ “Tomorrow John is coming”
 
 * Objects usually follow the main verb, or can be constituted by relative clauses, e.g.:
