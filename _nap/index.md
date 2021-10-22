@@ -31,7 +31,7 @@ udver: '2'
 
 ### Features
 
-* Nouns are inflected by [Gender]() and [Number]().
+* Nouns are inflected by [Gender](M or F) and [Number](Sg or Pl).
 * Sometimes, the difference is only graphic, as most word-final vowels are reduced (indicated with a breve diacritic).
   - Example: _gruossŏ_ “big”.`Masc`.`Sing` vs. _gruossĕ_ “big”.`Masc`.`Plur`
 * Grammatical gender is often marked not by the final vowel, but by the word-internal vowel or diphthong.
@@ -39,6 +39,7 @@ udver: '2'
 
 * Verbs all end with a reduced vowel. However, the distinction between etymological forms is retained by graphemes with a breve diacritic.
   - Example: _ijĕ magnĕ_ “I eat”; _issŏ magnă_ “he eats”
+* Adverbs inflect for degree. However, Neapolitan tends to use the intensifier _cchiù_ "more" in phrases like _cchiù megliŏ_ lit. "more better", where _megliŏ_ "better" is already in the comparative grade.
 
 ---
 
@@ -46,8 +47,8 @@ udver: '2'
 
 * Subjects are constituted of noun phrases, which can be also deverbal. They are not marked and usually preceed the verb, except for presentational constructions, e.g.:
   - _Dimmanĕ venĕ Giuvannĕ_ “Tomorrow John is coming”
-
-* Objects usually follow the main verb, or can be constituted by relative clauses, e.g.:
+* Subjects can be omitted, since Neapolitan is a pro-drop language.
+* Objects usually follow the main verb, or can be constituted by whole clauses, e.g.:
   - _Mĕ piacĕ 'e pazzià a ppallonĕ_ “I like to play football”
 
 ---
