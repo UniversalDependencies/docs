@@ -27,7 +27,7 @@ udver: '2'
 
 ### Features
 
-* Nouns are inflected by gender and number. 
+* Nouns are inflected by gender and number.
 * Sometimes, the difference is only graphic, as most word-final vowels are reduced (indicated with a breve diacritic).
   - Example: _gruossŏ_ 'big'.M.SG vs _gruossĕ_ 'big'.M.PL
 * Grammatical gender is often marked not by the final vowel, but by the word-internal vowel or diphthong.
@@ -50,9 +50,6 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/nap-comparison.html) Neapolitan UD treebanks:
+There is 1<!--[N](../treebanks/nap-comparison.html)--> Neapolitan UD treebank:
 
-* [Neapolitan-A](../treebanks/nap_a/index.html)
-* [Neapolitan-B](../treebanks/nap_b/index.html)
-
----
+* [Neapolitan-RB](../treebanks/nap_rb/index.html)
