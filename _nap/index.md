@@ -9,9 +9,11 @@ udver: '2'
 ## Tokenization and Word Segmentation
 
 * Words are delimited by whitespace or apostrophes. The apostrophes indicate elision, i.e. the omission of a sound in a word.
-* In Neapolitan, articles undergo elision, e.g.: _unu_-> _'nu_.INDF.M; _de/re_ -> _'e_.GEN
-* Multiword tokens do occur, namely in the form of ADP+DET.
-
+* In Neapolitan, articles undergo elision, e.g.: _unu_ → _'nu_.INDF.M; _de/re_ → _'e_.GEN
+* Multiword tokens do occur, namely:
+  - in the form of preposition combined with a definite article -> [ADP]()+[DET]().
+  - in the form of clitic pronouns, e.g. _rammellĕ_ "give them to me"
+  - with partitive clitics, e.g. _vavattennĕ_ "go away.(from here)"
 ---
 
 ## Morphology
@@ -19,40 +21,46 @@ udver: '2'
 ### Tags
 
 * Neapolitan uses all 17 universal tags.
-* Auxiliaries are verbal, usually formed from the verb _avé_ 'to have', which indicates perfective aspect.
-* (De)verbal forms can be tagged in different ways. Participles are usually tagged as ADJ.
-* Infinitive forms are always tagged as NOUN.
+* Auxiliaries are verbal, usually formed from the verbs _essĕ_ "to be" and _avé_ “to have”, which indicates perfective aspect. The tag AUX is mainly used to mark:
+  - _essĕ_ "to be", which is also the copula;
+  - tense auxiliaries formed, as also in Italian, by _essĕ_ "to be" and _avé_ “to have”;
+  - auxiliaries in the progressive form, such _stonghĕ venennĕ_ "I am coming"
+ * (De)verbal forms can be tagged in different ways.
+ * Participles are usually tagged as [ADJ]().
+ * Infinitive forms are always tagged as [NOUN]().
 
 ---
 
 ### Features
 
-* Nouns are inflected by gender and number. 
+* Nouns are inflected by [Gender](M or F) and [Number](Sg or Pl).
 * Sometimes, the difference is only graphic, as most word-final vowels are reduced (indicated with a breve diacritic).
-  - Example: _gruossŏ_ 'big'.M.SG vs _gruossĕ_ 'big'.M.PL
+  - Example: _gruossŏ_ “big”.`Masc`.`Sing` vs. _gruossĕ_ “big”.`Masc`.`Plur`
 * Grammatical gender is often marked not by the final vowel, but by the word-internal vowel or diphthong.
-  - Example: _gruossŏ_ 'big'.M.SG vs _grossă_ 'big'.F.SG
+  - Example: _gruossŏ_ “big”.`Masc`.`Sing` vs. _grossă_ “big”.`Fem`.`Sing`
 
 * Verbs all end with a reduced vowel. However, the distinction between etymological forms is retained by graphemes with a breve diacritic.
-  - Example: _ijĕ magnĕ_ 'I eat'; _issŏ magnă_ 'he eats'.
+  - Example: _ijĕ magnĕ_ “I eat”; _issŏ magnă_ “he eats”
+* Often there is alternation between imperfect and simple past (with perfective meaning), used interchangeably, e.g.:
+  - _Venevă ccà e facettĕ..._ "(He/she) came here and was like..." _venevă_.IMP; _facettĕ_.PERF
+* Adverbs inflect for degree. However, Neapolitan tends to use the intensifier _cchiù_ "more" in phrases like _cchiù megliŏ_ lit. "more better", where _megliŏ_ "better" is already in the comparative grade.
 
 ---
 
 ## Syntax
 
-* Subjects are constituted of Noun Phrases, which can be also deverbal. They are not marked and usually preceed the verb, except for presentational construction, e.g.:
-  - _Dimmanĕ venĕ Giuvannĕ_ 'Tomorrow John is coming'
-
-* Objects usually follow the main verb, or can be constituted by relative clauses, e.g.:
-  - _Mĕ piacĕ 'e pazzià a ppallonĕ_ 'I like to play football'
+* Subjects are constituted of noun phrases, which can be also deverbal. They are not marked and usually preceed the verb, except for presentational constructions, e.g.:
+  - _Dimmanĕ venĕ Giuvannĕ_ “Tomorrow John is coming”
+* Subjects can be omitted, since Neapolitan is a pro-drop language.
+* Objects usually follow the main verb, or can be constituted by whole clauses, e.g.:
+  - _Cantavă 'na canzonă_ "(He/she) sang/was singing a song"
+* Whole clauses can also be subjects of benefactive constructions in dative, e.g.:
+  - _Mĕ piacĕ 'e pazzià a ppallonĕ_ "I like to play football"
 
 ---
 
 ## Treebanks
 
-There are [N](../treebanks/nap-comparison.html) Neapolitan UD treebanks:
+There is 1<!--[N](../treebanks/nap-comparison.html)--> Neapolitan UD treebank:
 
-* [Neapolitan-A](../treebanks/nap_a/index.html)
-* [Neapolitan-B](../treebanks/nap_b/index.html)
-
----
+* [Neapolitan-RB](../treebanks/nap_rb/index.html)
