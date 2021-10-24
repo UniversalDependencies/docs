@@ -42,9 +42,7 @@ Mapping UPOS to XPOS Karo
  X     | x        |
 
 ---
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
 
----
 
 ### Nominal Features
 
@@ -86,7 +84,6 @@ monosylabic reduplication (`Red=Mo`), disylabic reduplication (`Red=Di`). The mo
 There are [N](../treebanks/arr-comparison.html) Karo UD treebanks:
 
   * [Karo-A](../treebanks/arr_a/index.html)
-  * [Karo-B](../treebanks/arr_b/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
