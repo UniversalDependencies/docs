@@ -70,7 +70,9 @@ monosylabic reduplication (`Red=Mo`), disylabic reduplication (`Red=Di`). The mo
 
 ## Syntax
 
-* As a head-marking language, core arguments, except oblique core arguments are cross-referenced on the predicate, as in the example below:
+ There are three types of sentences in Karo according to their illocutionary force: declarative, interrogative, and imperative.
+
+* Declarative sentences may as well contain adjuncts in their periphery (postpositional phrases or adverbials)
 
 
 
