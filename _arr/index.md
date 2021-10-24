@@ -17,7 +17,7 @@ udver: '2'
 
 ### Tags
 
-* Karo uses all 17 universal POS categories. `ADJ` is not used since there is no separate class of adjectives.
+* Karo uses all 18 universal POS categories. 
 
 Mapping UPOS to XPOS Karo
 
@@ -81,13 +81,16 @@ information questions.
 
 
 
-
----
-
 ## Treebanks
 
-There are [N](../treebanks/arr-comparison.html) Karo UD treebanks:
+There are [N](../treebanks/gub-comparison.html) Karo UD treebanks:
 
   * [Karo-A](../treebanks/arr_a/index.html)
+  * [Karo-B](../treebanks/arr_b/index.html)
+
+---
+**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
+from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
+and the treebank code in the file name.
 
 ---
