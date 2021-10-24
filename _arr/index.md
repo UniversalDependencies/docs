@@ -75,16 +75,8 @@ monosylabic reduplication (`Red=Mo`), disylabic reduplication (`Red=Di`). The mo
 * As a head-marking language, core arguments, except oblique core arguments are cross-referenced on the predicate, as in the example below:
 
 
----
 
 
----
-
-## Syntax
-
-*
-
----
 
 
 ---
