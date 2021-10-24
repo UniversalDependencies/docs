@@ -18,11 +18,12 @@ udver: '2'
 
 ### <a name="Assert">`Assert`</a>: Assert
 
-Contiguity is more often associated with
+Assert (_-t_ ~ _-n_) simply indicates a statement (main clauses).
 
 #### Examples
 
-* _<b>mbaʔeʔupaβiré</b>&nbsp;_ “After (having finished) eating”
+* _<b>at to=witup ʔo-t cú=tem </b>&nbsp;_ “He ate his own food a lot”.
+
 
 
 ### <a name="AssertFoc">`AssertFoc`</a>: AssertFoc
@@ -33,10 +34,6 @@ If an NP, PP or Adverbial Phrase is fronted (focal position) in main clauses, th
 #### Examples
 
 * _<b> cú=rem at to=witup ʔo-p</b>&nbsp;_ “A lot, he ate his own food”.
-
-
-
-
 
 
 
