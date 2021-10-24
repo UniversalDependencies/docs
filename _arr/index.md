@@ -72,7 +72,10 @@ monosylabic reduplication (`Red=Mo`), disylabic reduplication (`Red=Di`). The mo
 
  There are three types of sentences in Karo according to their illocutionary force: declarative, interrogative, and imperative.
 
-* Declarative sentences may as well contain adjuncts in their periphery (postpositional phrases or adverbials)
+* Declarative sentences may as well contain adjuncts in their periphery (postpositional phrases or adverbials).
+* Focused constituents are fronted.
+* Interrogative illocutionary force can be of two types: yes-no questions and
+information questions.
 
 
 
