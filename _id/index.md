@@ -181,7 +181,7 @@ udver: '2'
 
 * Among 37 universal dependency relations in UDv2:
   * 31 deprels are represented in the Indonesian-CSUI (except: `compound`, `expl`, `goeswith`, `list`, `reparandum`, and `vocative`)
-  * 33 deprels are represented in the Indonesian-PUD (except: `clf`, `expl`, `list`, and `reparandum`)
+  * 33 deprels are represented in the Indonesian-PUD (except: `dep`, `expl`, `list`, and `reparandum`)
   * 34 deprels are represented in the Indonesian-GSD (except: `dislocated`, `expl`, and `reparandum`)
 
 * We provide additional docummentation with examples in Indonesian for some of universal deprels:
@@ -191,20 +191,20 @@ udver: '2'
   * [fixed]()
 
 * The following 14 relation subtypes could be used in Indonesian UD treebank:
-  * [acl:relcl]() for relative clauses that modify a noun phrase.
-  * [advmod:emph]() for particles ([PART]()) _-lah, -kah, -tah and , pun_ that emphasize other words.
-  * [case:adv]() for adposition ([ADP]()) that is not a nominal dependent.
-  * [cc:preconj]() for  word _baik_ in clause _baik A maupun B_ "both A and B".
-  * [compound:a]() for adjective compounds
-  * [csubj:pass]() for clausal subjects of passive verbs.
-  * [flat:foreign]() to label sequences of foreign words.
-  * [flat:name]() to label sequences of names of PROPN-PROPN pairs.
-  * [nmod:lmod]() for locative nouns.
-  * [nmod:poss]() for possessive relationship.
-  * [nmod:tmod]() for temporal modifier of a noun phrase.
-  * [nsubj:pass]() for nominal subjects of passive verbs.
-  * [obl:agent]() for agents of passive verbs.
-  * [obl:tmod]() for temporal modifier for a [VERB]()/[ADJ]().
+  1. [acl:relcl]() for relative clauses that modify a noun phrase.
+  2. [advmod:emph]() for particles ([PART]()) _-lah, -kah, -tah and , pun_ that emphasize other words.
+  3. [case:adv]() for adposition ([ADP]()) that is not a nominal dependent.
+  4. [cc:preconj]() for  word _baik_ in clause _baik A maupun B_ "both A and B".
+  5. [compound:a]() for adjective compounds
+  6. [csubj:pass]() for clausal subjects of passive verbs.
+  7. [flat:foreign]() to label sequences of foreign words.
+  8. [flat:name]() to label sequences of names of PROPN-PROPN pairs.
+  9. [nmod:lmod]() for locative nouns.
+  10. [nmod:poss]() for possessive relationship.
+  11. [nmod:tmod]() for temporal modifier of a noun phrase.
+  12. [nsubj:pass]() for nominal subjects of passive verbs.
+  13. [obl:agent]() for agents of passive verbs.
+  14. [obl:tmod]() for temporal modifier for a [VERB]()/[ADJ]().
 
 ## Treebanks
 
