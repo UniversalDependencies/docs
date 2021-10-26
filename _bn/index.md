@@ -18,6 +18,9 @@ udver: '2'
 ### Tags
 
 * Bengali uses all 17 universal POS categories, including particles ([PART]()).
+* The following words are classified as particles ([PART]()):
+  * না _nā_, নাই _nāi_ the negative particle (“not”).
+  * কি _ki_ when it functions as a question particle (rather than the pronoun “what”) that marks a yes-no question.
 * At present, only some modal verbs are treated as auxiliaries ([AUX]()):
   * পারা _pārā_ (“be able, can, could”) combines with the imperfect participle (also called the infinitive) of the main verb
   * হওয়া _haoŷā_ (“be, become”) combines with the imperfect participle (also called the infinitive) of the main verb to create a necessitative meaning (“to have to”)
@@ -46,6 +49,21 @@ udver: '2'
     * Perfect participle.
     * Conditional participle: `Mood=Cnd`.
 
+### Nominal Features
+
+* The two main values of the [Number]() feature are `Sing` and `Plur`.
+  Nouns ([NOUN]() and [PROPN]()) can inflect for `Number` but the default singular form is usually used unless plural needs to be explicitly signaled.
+  For personal pronouns ([PRON]()), both singular and plural forms are used.
+  The `Number` of subject (unlike its `Person`) is not cross-referenced by the finite verb.
+* [Case]() has up to 4 possible values: `Nom`, `Gen`, `Acc`, `Loc`.
+  It occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON]().
+  The accusative form is also called objective and used in contexts where other languages would use a dative form.
+  While the accusative form of personal pronouns is regularly used, for nouns (and especially inanimate nouns), the nominative form is often used also in object position.
+
+### Degree and Polarity
+
+* [Degree]() applies to adjectives ([ADJ]()) and has one of three possible values: `Pos`, `Cmp`, `Sup`.
+
 ### Verbal Features
 
 * Two participle types are distinguished by [Aspect](), either imperfective (`Imp`) or perfective (`Perf`).
@@ -72,10 +90,11 @@ udver: '2'
   `Gen` (the genitive form).
   * There is no specific category of possessive pronouns. Instead, the genitive form of personal pronouns is used to encode possession.
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
+### Other Features
 
----
+* There are the following language-specific features:
+  * [PartType](): `PartType=Int` (interrogative) marks the word কি _ki_ when it functions as a question particle (rather than the pronoun “what”).
+    `PartType=Neg` (negative) marks the negative particles না _nā_, নাই _nāi_ (“not”).
 
 ## Syntax
 
