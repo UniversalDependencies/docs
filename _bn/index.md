@@ -58,6 +58,20 @@ udver: '2'
 * Verbs in the indicative mood always have one of three values of [Tense](): `Past`, `Pres` or `Fut`.
 * There are two values of the [Voice]() feature: `Act` and `Pass`.
 
+### Pronouns, Determiners, Quantifiers
+
+* [PronType]() is used with pronouns ([PRON]()), determiners ([DET]()) and adverbs ([ADV]()).
+* [NumType]() is used with numerals ([NUM]()), adjectives ([ADJ]()), determiners ([DET]()) and adverbs ([ADV]()).
+* [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
+  Person is not marked on other types of pronouns and on nouns, although they can be almost always interpreted as the 3rd person.
+  * As a cross-reference to subject, person is also marked on finite verbs ([VERB](), [AUX]()).
+* Personal pronouns also have one of two values of [Number](): `Sing` or `Plur`.
+  They are lemmatized to the singular form, i.e., grammatical number is treated as (irregular) inflection.
+  Note that the number of subject is not cross-referenced by finite verbs.
+* Personal pronouns have up to three [Case]() forms: `Nom` (the base form), `Acc` (the objective form, also used in contexts where other languages use dative), and
+  `Gen` (the genitive form).
+  * There is no specific category of possessive pronouns. Instead, the genitive form of personal pronouns is used to encode possession.
+
 ---
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
 
