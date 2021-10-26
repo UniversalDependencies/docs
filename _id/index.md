@@ -88,6 +88,8 @@ udver: '2'
     1. `Clusivity=Ex` for _kami_ "we/our"
     2. `Clusivity=In` for _kita_ "we/our"
 
+  * [Definite](), applies to [DET]() with two values: `Def` and `Ind`.
+  
   * [Degree](), applies to [ADJ]() with one possible value: `Sup`.
     * `Degree=Sup` for superlative adjectives, such as _terbaik_ "the best", _tercantik_ "the most beautiful".
 
