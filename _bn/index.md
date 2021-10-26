@@ -4,7 +4,7 @@ title:  'Bengali UD'
 udver: '2'
 ---
 
-# UD for Bengali <span class="flagspan"><img class="flag" src="../../flags/svg/BD.svg" /></span>
+# UD for Bengali <span class="flagspan"><img class="flag" src="../../flags/svg/BD.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/IN.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
