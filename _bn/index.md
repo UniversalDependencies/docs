@@ -53,6 +53,8 @@ udver: '2'
   Similarly, present continuous (progressive) finite forms will get `Aspect=Prog`.
 * Finite verbs always have one of two values of [Mood](): `Ind` or `Imp`.
   The conditional mood `Cnd` is only used with the conditional participle.
+* Finite verbs distinguish the [Person]() of the subject but not its `Number`.
+  Infinitives and participles do not distinguish `Person`.
 * Verbs in the indicative mood always have one of three values of [Tense](): `Past`, `Pres` or `Fut`.
 * There are two values of the [Voice]() feature: `Act` and `Pass`.
 
