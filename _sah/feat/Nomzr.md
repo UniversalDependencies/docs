@@ -8,13 +8,13 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Yes">Yes</a></td>
+  <td><a href="#Action">Action</a></td>
   
 </tr>
 </table>
 
 
-### <a name="Yes">`Yes`</a>: Yes
+### <a name="Action">`Action`</a>: Action
 
 The nominalizer of circumstance can be roughly translated as 
 
