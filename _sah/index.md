@@ -32,7 +32,7 @@ udver: '2'
 * `NumType` distinguish ordinal and cardinal.
 * The following valency change devices (`voice`) are found: passive, causative, reciprocal.
 * As it is common among Turkic languages, there is a rich verbal system: present, imperfect, simple past, post-terminal past, resultative, plusquamperfect, episodic-perfect, future.
-* As far as mood is concerned, the following are found: imperative, conditional.
+* There are 10 moods distinguished in Yakut: indicative, imperative, conditional, affirmative, obligative, habitual, dubitative, unrealized, subjunctive, suppositional.
 * Non-finite verb forms include: perfect-participle, aorist-participle, future-participle, not-yet-participle.
 * There are converbs.
 
