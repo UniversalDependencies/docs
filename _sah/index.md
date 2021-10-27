@@ -27,7 +27,7 @@ udver: '2'
 
 * Yakut nouns are not marked for gender.
 * Number is marked with a sing-plur distinction.
-* There are 8 `cases: nominative, accusative, dative, partitive, ablative, instrumental, comitative, comparative.
+* There are 8 `cases`: nominative, accusative, dative, partitive, ablative, instrumental, comitative, comparative.
 * Possession is marked by suffixes, which distinguish person and number.
 * Pronoun types 
 
