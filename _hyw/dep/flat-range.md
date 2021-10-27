@@ -22,7 +22,8 @@ Western Armenian uses `flat:range` for numerical, spacial and time ranges.
 ~~~
 
 ~~~ conllu
-# visual-style 5 7 9 flat:range color:blue
+# visual-style 5 7 flat:range color:blue
+# visual-style 5 9 flat:range color:blue
 1	մինչ	մինչ	SCONJ	_	_	4	mark	_	Translit=minč|LTranslit=minč
 2	Պաքուն	Պաքու	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Def|NameType=Geo|Number=Sing	4	nsubj	_	Translit=Pak’own|LTranslit=Pak’ow
 3	կ՚	կը	AUX	_	Aspect=Imp|Mood=Ind	4	aux	_	Translit=k,|LTranslit=kë|SpaceAfter=No
