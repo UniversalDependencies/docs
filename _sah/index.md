@@ -8,18 +8,30 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-*
+* Words are delimited by whitespase characters.
+* According to typographical rules, many punctuation marks are attached to a neighboring word. They are given as separate tokens (words).
 
 ---
 **Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
 
 ---
 
-## Morphology
-
 ### Tags
 
-*
+* Yakut uses all 17 universal POS categories.
+
+---
+
+## Morphology
+
+
+* Yakut nouns are not marked for gender.
+* Number is marked with a sing-plur distinction.
+* There are 8 `cases: nominative, accusative, dative, partitive, ablative, instrumental, comitative, comparative.
+* Possession is marked by suffixes, which distinguish person and number.
+* Pronoun types 
+
+
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
