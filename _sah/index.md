@@ -29,7 +29,8 @@ udver: '2'
 * Number is marked with a sing-plur distinction.
 * There are 8 `cases`: nominative, accusative, dative, partitive, ablative, instrumental, comitative, comparative.
 * Possession is marked by suffixes, which distinguish person and number.
-* Pronoun types 
+* Pronoun types are collective, demonstrative, indefinite, interrogative, personal, possessive.
+* `NumType` distinguish ordinal and cardinal.
 
 
 
