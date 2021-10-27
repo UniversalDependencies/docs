@@ -31,8 +31,8 @@ udver: '2'
 * Pronoun types are collective, demonstrative, indefinite, interrogative, personal, possessive.
 * `NumType` distinguish ordinal and cardinal.
 * The following valency change devices (`voice`) are found: passive, causative, reciprocal.
-* As it is common among Turkic languages, there is a rich verbal system: present, imperfect, simple past, post-terminal past, resultative, plusquamperfect, episodic-perfect, future.
-* There are 10 moods distinguished in Yakut: indicative, imperative, conditional, affirmative, obligative, habitual, dubitative, unrealized, subjunctive, suppositional.
+* As it is common among Turkic languages, there is a rich verbal system: present, future, definite past, remote past, past imperfect, past episodic, resultative, pluperfect,  pluperfect episodic.
+* 10 moods are distinguished in Yakut: indicative, imperative, conditional, affirmative, obligative, habitual, dubitative, unrealized, subjunctive, suppositional.
 * Non-finite verb forms include: perfect-participle, aorist-participle, future-participle, not-yet-participle.
 * There are converbs.
 
