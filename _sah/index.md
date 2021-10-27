@@ -24,18 +24,17 @@ udver: '2'
 
 ## Morphology
 
-
 * Yakut nouns are not marked for gender.
 * Number is marked with a sing-plur distinction.
 * There are 8 `cases`: nominative, accusative, dative, partitive, ablative, instrumental, comitative, comparative.
 * Possession is marked by suffixes, which distinguish person and number.
 * Pronoun types are collective, demonstrative, indefinite, interrogative, personal, possessive.
 * `NumType` distinguish ordinal and cardinal.
-
-
-
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
+* The following valency change devices (`voice`) are found: passive, causative, reciprocal.
+* As it is common among Turkic languages, there is a rich verbal system: present, imperfect, simple past, post-terminal past, resultative, plusquamperfect, episodic-perfect, future.
+* As far as mood is concerned, the following are found: imperative, conditional.
+* Non-finite verb forms include: perfect-participle, aorist-participle, future-participle, not-yet-participle.
+* There are converbs.
 
 ---
 
@@ -50,7 +49,11 @@ udver: '2'
 
 ## Syntax
 
-*
+* The following valency change devices (`voice`) are found: passive, causative, reciprocal.
+* As it is common among Turkic languages, there is a rich verbal system: present, imperfect, simple past, post-terminal past, resultative, plusquamperfect, episodic-perfect, future.
+* As far as mood is concerned, the following are found: imperative, conditional.
+* Non-finite verb forms include: perfect-participle, aorist-participle, future-participle, not-yet-participle.
+* There are converbs.
 
 ---
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
@@ -59,10 +62,9 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../treebanks/sah-comparison.html) Yakut UD treebanks:
+There is 1(../treebanks/sah-comparison.html) Yakut UD treebanks:
 
   * [Yakut-A](../treebanks/sah_a/index.html)
-  * [Yakut-B](../treebanks/sah_b/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
