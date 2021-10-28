@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'Dimin'
-shortdef: 'diminutive'
+title: 'Foreign'
+shortdef: 'foreign'
 udver: '2'
 ---
 
