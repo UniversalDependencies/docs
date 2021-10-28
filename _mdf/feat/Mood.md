@@ -31,6 +31,14 @@ The conditional mood is used to express conditions, i.e. protasis, for actions o
 
 * [mdf] _<b>Касондярян</b>, улян лётчикокс._ "<b>When I grow up</b>, I am going to be a pilot."
 
+### <a name="CndSub">`CndSub`</a>: conditional
+
+The conditional subjunctive mood is used to express hypothetical conditions, i.e. protasis, for actions of the main clause. This mood marker can be found in finite and non-finite forms alike, as well as followed by derivational suffixes.
+
+#### Examples
+
+* [mdf] _<b>Путондяряльхть</b> утомня, ..._ "<b>If they were to build</b> an outbuilding, ..."
+
 ### <a name="Des">`Des`</a>: desiderative
 
 The desiderative mood is used to express desired or potential actions that are not fulfilled.
