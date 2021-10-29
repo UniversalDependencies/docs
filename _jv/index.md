@@ -24,6 +24,9 @@ udver: '2'
   * Hyphen in reduplicated words. Javanese has many reduplicated words as nouns, verbs, and so on. These reduplicated words are not split and remain one token. The examples of reduplicated words are:
     * Plural noun: _bangsa-bangsa_ "nations"
     * Verb: _mlaku-laku_ "traveling"
+    * Determiner: _pinten-pinten, pira-pira_ "several"
+    * Adverb: _akèh-akèhan_ "much"
+    
   * For abbreviations. All abbreviations such as Mr., M.Sc. Tn., are not split and remain one token.
 
 ## Morphology
@@ -42,18 +45,18 @@ udver: '2'
     * _wis_ (Ng.) or _sampun_ (Kr.) “have/has/had” for the simple/past perfect tense.
 
   * Modal-related AUX:
-    * _kudu_ (Ng.) or _mesti_ (Kr.) as the equivalents of modal “must”.
+    * _kudu_ (Ng.), _mesti_ (Kr.) as the equivalents of modal “must”.
     * _sekuduné/semestiné_ as the equivalents of modal 'shall/should'.
-    * _isa_ (Ng.) or _saged_ (Kr.) as the equivalents of modal “can/could”.
+    * _bisa_ (Ng.), _saged_ (Kr.) as the equivalents of modal “can/could”.
 
 * [PART]() is used for:
-  * negation words: _ora_ (Ng.) or _mboten_ (Kr.) "no/not"
+  * negation words: _ora_ (Ng.) or _boten_ (Kr.): "no/not" 
   * particles of _ko, mbok, tho, ya_
 
 * Javanese has the following coordinating conjunction words ([CCONJ]()):
-  * _lan/karo_ as the equivalents of "and" in English
-  * _atawa/utawa_ "or"
-  * _nanging_ as the equivalents of "but" in English
+  * _lan/karo_ (Ng.), _kaliyan_ (Kr.): as the equivalents of "and" in English
+  * _atawa_ (Ng.), _utawi_ (Kr.): as the equivalents of "or" in English
+  * _nanging_ : as the equivalents of "but" in English
 
 ### Features
 
