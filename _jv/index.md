@@ -60,12 +60,16 @@ udver: '2'
 
 ### Features
 
-* We propose the use of 12 of 24 features defined in UD v2 that are relevant to Javanese grammar:
+* We propose the use of 13 of 24 features defined in UD v2 that are relevant to Javanese grammar:
   * [Abbr](), with one possible value: `Yes`. This feature can be applied to all UPOS categories, except [PUNCT]() and [SYM]().
 
   * [Definite](), applies to [DET]() with two possible values: `Def` and `Ind` .
 
   * [Foreign](), with one possible value: `Yes`. This feature only applies to [X]().
+
+  * [Mood](), applies to [VERB]() with two possible values: `Imp` and `Ind`.
+    * `Mood=Imp` for imperative clauses
+    * `Mood=Ind` for declarative clauses
 
   * [Number](), applies to [DET](), [NOUN](), and [PRON](), with two possible values: `Sing`, or `Plur`.
 
@@ -81,21 +85,21 @@ udver: '2'
 
 
   * [Polite]() with four possible values: `Infm`, `Form`, `Elev`, `Humb`
-    * `Polite=Infm` for words of Ngoko language
-    * `Polite=Form` for words of Krama and Madya languages
-    * `Polite=Elev` for words of Krama Inggil
-    * `Polite=Humb` for words of Krama Andhap
+    1. `Polite=Infm` for words of Ngoko language
+    2. `Polite=Form` for words of Krama and Madya languages
+    3. `Polite=Elev` for words of Krama Inggil
+    4. `Polite=Humb` for words of Krama Andhap
 
 
   * [PronType]() with eight possible values: `Art`, `Dem`, `Emp`, `Ind`, `Int`,  `Prs`, `Rel`, and `Tot`
-    * `PronType=Art` is used for [DET]() along with [Definite]() feature.
-    * `PronType=Dem` is used for [DET]() or [PRON](), such as for words _iki_ "this".
-    * `PronType=Emp` is used for [DET]() for word _piyambak_ "self"
-    * `PronType=Ind` is used for [DET]() such as for _akèh_ (Ng.) "many"
-    * `PronType=Int` is used for [ADV]() or [PRON](), such as _sapa_ (Ng.), _sinten_ (Kr.) "who"
-    * `PronType=Prs` is used for [PRON]() along with [Person]() feature.
-    * `PronType=Rel` is used for [PRON]() such as _kang, sing_ (Ng.),_ingkang_ (Kr.) "that"
-    * `PronType=Tot` is used for [PRON]() or [DET]() such as _sedaya_ (Kr) "all"
+    1. `PronType=Art` is used for [DET]() along with [Definite]() feature.
+    2. `PronType=Dem` is used for [DET]() or [PRON](), such as for words _iki_ (Ng.), _punika_ (Kr.) "this" 
+    3. `PronType=Emp` is used for [DET]() for word _piyambak_ "self"
+    4. `PronType=Ind` is used for [DET]() such as for _akèh_ (Ng.) "many"
+    5. `PronType=Int` is used for [ADV]() or [PRON](), such as _sapa_ (Ng.), _sinten_ (Kr.) "who", _opo_ (Ng.) "what"
+    6. `PronType=Prs` is used for [PRON]() along with [Person]() feature.
+    7. `PronType=Rel` is used for [PRON]() such as _kang, sing_ (Ng.),_ingkang_ (Kr.) "which/that"
+    8. `PronType=Tot` is used for [PRON]() or [DET]() such as _sedaya_ (Kr) "all"
 
   * [Reflex]() with one possible value: `Yes`. For [PRON](), such as for word _dhèknè_ "self".
 
