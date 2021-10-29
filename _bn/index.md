@@ -98,12 +98,27 @@ udver: '2'
 
 ## Syntax
 
-*
+### Core Arguments, Oblique Arguments and Adjuncts
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
+* Nominal subject ([nsubj]()) is a noun phrase in the nominative case, without preposition.
+  * An infinitive verb in the subject position is tagged as a verbal [NOUN](), hence it is also labeled [nsubj]().
+* Objects may be bare noun phrases in nominative or accusative form.
+* Nominals in the locative form, if modifying a verb, are considered oblique ([obl]()).
+* In passive clauses, the subject is labeled with [nsubj:pass]().
+  * If the demoted agent is present, it has the form of a bare instrumental phrase and its relation is labeled [obl:agent]().
 
----
+### Non-verbal Clauses
+
+* In the present tense, simple juxtaposition of the subject and the nominal/adjectival predicate is used, without an overt copula.
+
+### Relations Overview
+
+* The following relation subtypes are used in Bengali:
+  * [nsubj:pass]() for nominal subjects of passive verbs
+  * [csubj:pass]() for clausal subjects of passive verbs
+  * [obl:agent]() for agents of passive verbs
+  * [acl:relcl]() for relative clauses
+  * [nmod:poss]() for possessively used genitive modifiers
 
 ## Treebanks
 

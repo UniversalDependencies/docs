@@ -45,5 +45,12 @@ Expresses additive adverbal _too, even_.
 * [mdf] _бабасновок_ "their grandmother <b>too</b>"
 * [mdf] _Эста самолёт<b>овок</b> теень афоль эряв,..._ "Then I wouldn't <b>even</b> have needed an airplane,..."
 
+### <a name="I">`I`</a>: derivation with suffixes -и/ы
+
+Expresses adverbal _even_.
+
+#### Examples
+
+* [mdf] _<b>Сясы</b> синь сембе и лётчикт, и космонавтт._ "And that is why they are all both pilots and cosmonauts."
 
 <!-- Interlanguage links updated Pá kvě 14 11:08:29 CEST 2021 -->
