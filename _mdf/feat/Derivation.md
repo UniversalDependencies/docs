@@ -26,6 +26,14 @@ Produces participle-like adnominal modifiers.
 
 * [mdf] _ацаф_ \n "covered"
 
+### <a name="GenAttr">`GenAttr`</a>: genitive attribute -Онь
+
+Produces indefinite genitive-like modifiers from adverbs
+
+#### Examples
+
+* [mdf] _озадонь_ "sitting"
+
 ### <a name="Ozj">`Ozj`</a>: derivation with suffix -Озь
 
 Produces converb.
