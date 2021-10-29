@@ -6,7 +6,7 @@ udver: '2'
 
 # UD for Javanese <span class="flagspan"><img class="flag" src="../../flags/svg/ID.svg" /></span>
 
-* Javanese has several language levels, such as Krama, Krama Inggil, Ngoko. For certain words, we will add information about its level: Kr. for Krama, KI for Krama Inggil, and Ng. for Ngoko.
+* Javanese has several language levels, such as Krama, Krama Inggil, and Ngoko. For certain words, we will add information about its level: Kr. for Krama, KI for Krama Inggil, and Ng. for Ngoko.
 
 
 ## Tokenization and Word Segmentation
@@ -14,20 +14,25 @@ udver: '2'
 * In general, words are delimited by whitespace characters. Special treatments are given to multiword tokens and punctuations.
 
 * Special treatments of multiword tokens:
-  * Multiword tokens that contain clitics are split into two tokens.
-    * _-ku_ (Ng.) "me/my"
-    * _-mu_ (Ng.) "you/your",
-    * _-é_ (Ng.) "he/him/she/her/it"
-    * _-ipun_ (Kr.) "he/him/she/her/it"
+  * Multiword tokens that contain clitics are split into two tokens. Examples of clitics in Javanese:
+    * Examples of enclitics:
+      * _-ku_ (Ng.) "me/my", as in _bojoku_ "my wife"
+      * _-mu_ (Ng.) "you/your", as in _omahmu_ "your house"
+      * _-é_ (Ng.) "he/him/she/her/it", as in _gawéané_ "his/her work"
+      * _-ipun_ (Kr.) "he/him/she/her/it", as in _ramanipun_ "his/her father"
+    * Examples of proclitics:
+      * _tak-_ "I", as in _takbukak_ "I open"
+      * _kok-, _mbok-_ "you", as in _kokjupuk_ "you take", _mbokpangan_ "you eat"
+      * _ma-, me-_ "to", as in _mangulon_ "to the west", _mengetan_ "to the east"
 
 * Special treatments for punctuations. All punctuation symbols are separated from the words, except in two cases:
-  * Hyphen in reduplicated words. Javanese has many reduplicated words as nouns, verbs, and so on. These reduplicated words are not split and remain one token. The examples of reduplicated words are:
+  * Hyphen in reduplicated words. Javanese has many reduplicated words as nouns, verbs, determiner, adverb, and so on. These reduplicated words are not split and remain one token. The examples of reduplicated words are:
     * Plural noun: _bangsa-bangsa_ "nations"
     * Verb: _mlaku-mlaku_ (Ng.) "traveling"
     * Determiner: _pinten-pinten_ (Kr.), _pira-pira_ (Ng.) "several"
     * Adverb: _akèh-akèhan_ (Ng.) "as much as possible"
     
-  * For abbreviations. All abbreviations such as Dr., Tn. "Mr." are not split and remain one token.
+  * For abbreviations. All abbreviations such as Dr., _Tn._ "Mr.", _Ny._ "Mrs."  are not split and remain one token.
 
 ## Morphology
 
@@ -40,18 +45,18 @@ udver: '2'
   * _yaiku_ (Ng.) or _inggih punika_ (Kr.) “be” serve as copulas. For _inggih punika_ only _inggih_ will be tagged as AUX, _punika_ will be labeled as the child of _inggih_ with deprel [fixed]().
 
   * Tenses-related AUX:
-    * _bakal_ (Ng.) or _bade_ (Kr.) “will/would” for the future tense.
-    * _lagi_ (Ng.) “be” for the present tense.
-    * _wis_ (Ng.) or _sampun_ (Kr.) “have/has/had” for the simple/past perfect tense.
+    * _bakal_ (Ng.), _bade_ (Kr.) “will/would” for the future tense.
+    * _lagi_ (Ng.), _saweg_ (Kr.) “be” for the present tense.
+    * _wis_ (Ng.), _sampun_ (Kr.) “have/has/had” for the simple/past perfect tense.
 
   * Modal-related AUX:
     * _kudu_ (Ng.), _mesti_ (Kr.) as the equivalents of modal “must”.
-    * _sekuduné/semestiné_ as the equivalents of modal 'shall/should'.
+    * _sekuduné_ (Ng.), _semestiné_ (Kr.) as the equivalents of modal 'shall/should'.
     * _bisa_ (Ng.), _saged_ (Kr.) as the equivalents of modal “can/could”.
 
 * [PART]() is used for:
   * negation words: _ora_ (Ng.) or _boten_ (Kr.): "no/not" 
-  * particles of _ko, mbok, tho, ya_
+  * particles like _tho, ya_ that are used to emphasized something
 
 * Javanese has the following coordinating conjunction words ([CCONJ]()):
   * _lan/karo_ (Ng.), _kaliyan_ (Kr.): as the equivalents of "and" in English
@@ -81,7 +86,7 @@ udver: '2'
 
   * [Polarity](), with one possible value: `Neg`, applies to [PART]() and [INTJ]().
     * `Polarity=Neg` for [PART]() applies for negating particles
-    * `Polarity=Neg` for [INTJ]() as in _**Mboten**_ "**No**". The word _mboten_ "no" will be given feature `Polarity=Neg`.
+    * `Polarity=Neg` for [INTJ]() as in _**boten**_ "**no**". The word _boten_ "no" will be given feature `Polarity=Neg`.
 
 
   * [Polite]() with four possible values: `Infm`, `Form`, `Elev`, `Humb`
