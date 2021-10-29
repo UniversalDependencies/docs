@@ -9,6 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Prog">Prog</a></td>
+  <td><a href="#Perf">Perf</a></td>
   
   
 
@@ -24,6 +25,16 @@ The progressive aspect is expressed by the auxiliary "iko"
 #### Examples
 
 * _<b>U'u arapapa ipira'i iko a'e</b>&nbsp;_ “The boat-billed heron is eating small fishes”
+  
+</tr>
+
+### <a name="Perf">`Perf`</a>: Perfective 
+
+The perfective aspect is expressed with the suffix "paw"
+
+#### Examples
+
+* _<b>izapopawete</b>&nbsp;_ “REL-make-PERF-EMPH”
   
 </tr>
 </table>
