@@ -6,7 +6,7 @@ udver: '2'
 
 # UD for Javanese <span class="flagspan"><img class="flag" src="../../flags/svg/ID.svg" /></span>
 
-* Javanese has several language levels: Krama, Krama Inggil, Madya, and Ngoko. For certain words, we will add information about its level: Kr. for Krama, KI for Krama Inggil, Md. for Madya, and Ng. for Ngoko.
+* Javanese has several language levels, such as Krama, Krama Inggil, Ngoko. For certain words, we will add information about its level: Kr. for Krama, KI for Krama Inggil, and Ng. for Ngoko.
 
 
 ## Tokenization and Word Segmentation
@@ -23,11 +23,11 @@ udver: '2'
 * Special treatments for punctuations. All punctuation symbols are separated from the words, except in two cases:
   * Hyphen in reduplicated words. Javanese has many reduplicated words as nouns, verbs, and so on. These reduplicated words are not split and remain one token. The examples of reduplicated words are:
     * Plural noun: _bangsa-bangsa_ "nations"
-    * Verb: _mlaku-laku_ "traveling"
-    * Determiner: _pinten-pinten, pira-pira_ "several"
-    * Adverb: _akèh-akèhan_ "much"
+    * Verb: _mlaku-mlaku_ (Ng.) "traveling"
+    * Determiner: _pinten-pinten_ (Kr.), _pira-pira_ (Ng.) "several"
+    * Adverb: _akèh-akèhan_ (Ng.) "as much as possible"
     
-  * For abbreviations. All abbreviations such as Mr., M.Sc. Tn., are not split and remain one token.
+  * For abbreviations. All abbreviations such as Dr., Tn. "Mr." are not split and remain one token.
 
 ## Morphology
 
@@ -37,7 +37,7 @@ udver: '2'
 
 * The auxiliary ([AUX]()). We defined these Javanese words as AUX:
 
-  * _yaiku_ (Ng.) or _inggih punika_ (Kr.) “be” serve as copulas.
+  * _yaiku_ (Ng.) or _inggih punika_ (Kr.) “be” serve as copulas. For _inggih punika_ only _inggih_ will be tagged as AUX, _punika_ will be labeled as the child of _inggih_ with deprel [fixed]().
 
   * Tenses-related AUX:
     * _bakal_ (Ng.) or _bade_ (Kr.) “will/would” for the future tense.
@@ -120,7 +120,7 @@ udver: '2'
 
 ### Non-verbal Clauses
 
-* The copula _yaiku_ (Ng.) or _inggih punika_ (Kr.) (be) is optionally used in equational, attributional, locative, possessive and benefactory nonverbal clauses.
+* The copula _yaiku_ (Ng.) or _inggih punika_ (Kr.) "be" is optionally used in equational, attributional, locative, possessive and benefactory nonverbal clauses.
 
 ### Relations Overview
 
