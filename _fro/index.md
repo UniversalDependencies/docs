@@ -8,7 +8,7 @@ udver: '2'
 
 ## Sentence segmentation
 
-Due to the nature of the original texts where sentences are not usually clearly marked by punctuation, we keep only one main clause per tree regardless of the punctuation added by modern transcriptions. See for instance in *La queste del saint Graal*, 
+Due to the natures of the original texts where sentence boundaries are not usually clearly marked by punctuation, we keep only one main clause per tree regardless of the punctuation added by modern transcriptions. See for instance in *La queste del saint Graal*, 
 
 >  Certes, fet li rois, Keus, vos dites voir, ceste costume ai je toz jorz tenue et la tendrai tant com je porrai mes je avoie si grant joie de Lancelot et de ses cousins qui estoient venu a cort sain et haitié qu'il ne me sovenoit de la costume.
 
