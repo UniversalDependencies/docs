@@ -86,7 +86,7 @@ udver: '2'
 
   * [Polite]() with four possible values: `Infm`, `Form`, `Elev`, `Humb`
     1. `Polite=Infm` for words of Ngoko language
-    2. `Polite=Form` for words of Krama and Madya languages
+    2. `Polite=Form` for words of Krama language
     3. `Polite=Elev` for words of Krama Inggil
     4. `Polite=Humb` for words of Krama Andhap
 
@@ -96,9 +96,9 @@ udver: '2'
     2. `PronType=Dem` is used for [DET]() or [PRON](), such as for words _iki_ (Ng.), _punika_ (Kr.) "this" 
     3. `PronType=Emp` is used for [DET]() for word _piyambak_ "self"
     4. `PronType=Ind` is used for [DET]() such as for _akèh_ (Ng.) "many"
-    5. `PronType=Int` is used for [ADV]() or [PRON](), such as _sapa_ (Ng.), _sinten_ (Kr.) "who", _opo_ (Ng.) "what"
+    5. `PronType=Int` is used for [ADV]() or [PRON](), such as _sapa_ (Ng.), _sinten_ (Kr.) "who", _apa_ (Ng.) "what"
     6. `PronType=Prs` is used for [PRON]() along with [Person]() feature.
-    7. `PronType=Rel` is used for [PRON]() such as _kang, sing_ (Ng.),_ingkang_ (Kr.) "which/that"
+    7. `PronType=Rel` is used for [PRON]() such as _kang, sing_ (Ng.),_ingkang_ (Kr.) "which/that", _sapa_ (Ng.), _sinten_ (Kr.) "who", _apa_ (Ng.) "what"
     8. `PronType=Tot` is used for [PRON]() or [DET]() such as _sedaya_ (Kr) "all"
 
   * [Reflex]() with one possible value: `Yes`. For [PRON](), such as for word _dhèknè_ "self".
