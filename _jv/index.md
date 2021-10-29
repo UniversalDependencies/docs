@@ -6,7 +6,7 @@ udver: '2'
 
 # UD for Javanese <span class="flagspan"><img class="flag" src="../../flags/svg/ID.svg" /></span>
 
-* Javanese has three language levels: Krama, Madya, and Ngoko. For certain words, we will add information about its level: Kr. for Krama, Md. for Madya, and Ng. for Ngoko.
+* Javanese has several language levels: Krama, Krama Inggil, Madya, and Ngoko. For certain words, we will add information about its level: Kr. for Krama, KI for Krama Inggil, Md. for Madya, and Ng. for Ngoko.
 
 
 ## Tokenization and Word Segmentation
@@ -79,11 +79,13 @@ udver: '2'
     * `Polarity=Neg` for [PART]() applies for negating particles
     * `Polarity=Neg` for [INTJ]() as in _**Mboten**_ "**No**". The word _mboten_ "no" will be given feature `Polarity=Neg`.
 
+
   * [Polite]() with four possible values: `Infm`, `Form`, `Elev`, `Humb`
     * `Polite=Infm` for words of Ngoko language
     * `Polite=Form` for words of Krama and Madya languages
     * `Polite=Elev` for words of Krama Inggil
     * `Polite=Humb` for words of Krama Andhap
+
 
   * [PronType]() with eight possible values: `Art`, `Dem`, `Emp`, `Ind`, `Int`,  `Prs`, `Rel`, and `Tot`
     * `PronType=Art` is used for [DET]() along with [Definite]() feature.
