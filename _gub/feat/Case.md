@@ -11,7 +11,7 @@ udver: '2'
   <td><a href="#All">All</a></td>
   <td><a href="#Dat">Dat</a></td>
   <td><a href="#Loc">Loc</a></td>
-  
+  <td><a href="#Tem">Tem</a></td>
   
 
 </tr>
@@ -47,7 +47,13 @@ The locative case is expressed with the morpheme "pe"
 
 * _<b>a'e pe</b>&nbsp;_ “There”
 
+### <a name="Tem">`Tem`</a>: Temporal
 
+The temporal case is expressed with the morpheme "re"
+
+#### Examples
+
+* _<b>a'ere</b>&nbsp;_ “After that”
   
 </tr>
 </table>
