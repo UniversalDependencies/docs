@@ -56,12 +56,12 @@ udver: '2'
 
 * [PART]() is used for:
   * negation words: _ora_ (Ng.) or _boten_ (Kr.): "no/not" 
-  * particles like _tho, ya_ that are used to emphasized something
+  * particles like _tho, ya_ that are used to emphasize something
 
 * Javanese has the following coordinating conjunction words ([CCONJ]()):
   * _lan/karo_ (Ng.), _kaliyan_ (Kr.): as the equivalents of "and" in English
   * _atawa_ (Ng.), _utawi_ (Kr.): as the equivalents of "or" in English
-  * _nanging_ : as the equivalents of "but" in English
+  * _nanging_  (Ng.), _namung_ (Kr.): as the equivalents of "but" in English
 
 ### Features
 
@@ -130,18 +130,18 @@ udver: '2'
 ### Relations Overview
 
 * The following 12 relation subtypes could be used in UD Javanese treebank:
-  * [acl:relcl]() for relative clauses that modify a noun phrase.
-  * [advmod:emph]() for particles ([PART]()) that emphasize other words.
-  * [case:adv]() for case to ADJ/VERB that plays role as adverb.
-  * [csubj:pass]() for clausal subjects of passive verbs.
-  * [flat:foreign]() to label sequences of foreign words.
-  * [flat:name]() to label sequences of names of PROPN-PROPN pairs.
-  * [nmod:poss]() for possessive relationship.
-  * [nmod:lmod]() for locative modifier of a noun phrase.
-  * [nmod:tmod]() for temporal modifier of a noun phrase.
-  * [nsubj:pass]() for nominal subjects of passive verbs.
-  * [obl:agent]() for agents of passive verbs.
-  * [obl:tmod]() for temporal modifier for a [VERB]()/[ADJ]().
+  1. [acl:relcl]() for relative clauses that modify a noun phrase.
+  2. [advmod:emph]() for particles ([PART]()) that emphasize other words.
+  3. [case:adv]() for case to ADJ/VERB that plays role as adverb.
+  4. [csubj:pass]() for clausal subjects of passive verbs.
+  5. [flat:foreign]() to label sequences of foreign words.
+  6. [flat:name]() to label sequences of names of PROPN-PROPN pairs.
+  7. [nmod:poss]() for possessive relationship.
+  8. [nmod:lmod]() for locative modifier of a noun phrase.
+  9. [nmod:tmod]() for temporal modifier of a noun phrase.
+  10. [nsubj:pass]() for nominal subjects of passive verbs.
+  11. [obl:agent]() for agents of passive verbs.
+  12. [obl:tmod]() for temporal modifier for a [VERB]()/[ADJ]().
 
 
 ## Treebanks
