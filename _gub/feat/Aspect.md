@@ -10,7 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Prog">Prog</a></td>
   <td><a href="#Perf">Perf</a></td>
-  
+  <td><a href="#Prosp">Prosp</a></td>
   
 
 </tr>
@@ -35,6 +35,16 @@ The perfective aspect is expressed with the suffix "paw"
 #### Examples
 
 * _<b>izapopawete</b>&nbsp;_ “REL-make-PERF-EMPH”
+  
+</tr>
+
+### <a name="Prosp">`Prosp`</a>: Prospective 
+
+The prospective aspect is expressed with the suffix "piʔez"
+
+#### Examples
+
+* _<b>amonopiʔez</b>&nbsp;_ “1.SG-CAU-lend-PROSP”
   
 </tr>
 </table>
