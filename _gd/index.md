@@ -30,7 +30,7 @@ If an elided _a'_ or _ag_ before a verbal noun is indicated by _'_, close this u
 Close up around the hyphen in _a-measg_, _a-rèir_, _a-thaobh_ and similar but don't close up around hyphens if they're being used as dashes.
 Also don't attempt to bring into line with GOC by adding or taking away hyphens.
 
-Also close up _dhà-na-tri_ (see fp05_012).
+Also close up _dhà-na-tri_ (see fp05\_012).
 
 ### Multiword tokens
 
