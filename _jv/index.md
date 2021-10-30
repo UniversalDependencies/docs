@@ -21,7 +21,7 @@ udver: '2'
       * _-é_ (Ng.) "he/him/she/her/it", as in _gawéané_ "his/her work"
       * _-ipun_ (Kr.) "he/him/she/her/it", as in _ramanipun_ "his/her father"
     * Examples of proclitics:
-      * _tak-_ "I", as in _takbukak_ "I open"
+      * _tak-/dak-_ "I", as in _takbukak_ "I open", _dakopenane_ "I take care"
       * _kok-, _mbok-_ "you", as in _kokjupuk_ "you take", _mbokpangan_ "you eat"
       * _ma-, me-_ "to", as in _mangulon_ "to the west", _mengetan_ "to the east"
 
@@ -56,7 +56,7 @@ udver: '2'
 
 * [PART]() is used for:
   * negation words: _ora_ (Ng.) or _boten_ (Kr.): "no/not" 
-  * particles like _tho, ya_ that are used to emphasize something
+  * particles like _ta, ya_ that are used to emphasize something
 
 * Javanese has the following coordinating conjunction words ([CCONJ]()):
   * _lan/karo_ (Ng.), _kaliyan_ (Kr.): as the equivalents of "and" in English
