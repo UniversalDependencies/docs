@@ -68,13 +68,13 @@ monosylabic reduplication (`Red=Mo`), disylabic reduplication (`Red=Di`). The mo
 
 ### Nominalizers
 
-Tupinambá has many nominalizers with different functions:
+Tupinambá has many nominalizers with different functions. All but 
 
-Nominalizer    |       function             |    Example      |
-:------------: | :------------------------: |:--------------: |
- _mi_-         | passive deverbalizer       | t-emi-juka 'what is killed'|
- -_βaʔe_       | relativizer                | o-so-βaʔe 'the one who goes'| 
- -_pɨr_        | passive deverbalizer       | erobjar-(ɨ)-pɨr 'the one who must be killed'  |
+Nominalizer    |       function             |    Example                           |
+:------------: | :------------------------: |:----------------------:              |
+ _(e)mi_-         | passive deverbalizer    | t-emi-juka 'what is killed'.      |
+ -_βaʔe_       | relativizer                | o-juká-βaʔe 'the one who kills'.     | 
+ -_pɨr_        | passive deverbalizer       | eroβjar-(ɨ)-pɨr 'the one who must be killed'  |
  -_sar_        | agentive nominalizer       | juká-sar-a 'the killer'.             |                                
  -_saβ_        | circunstantial nominalizer | juká-saβ-a 'place/mode of killing'   |                      
  -_βor_        | habitual agent             | juká-βor 'one who often kills'       |                     
