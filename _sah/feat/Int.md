@@ -8,13 +8,13 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Int">Int</a></td>
+  <td><a href="#Yes">Yes</a></td>
   
 </tr>
 </table>
 
 
-### <a name="Int">`Int`</a>: Interrogative
+### <a name="Yes">`Yes`</a>: Yes
 
 WH-questions optionally require that the predicate incorporates the interrogative suffix _ий_.
 
@@ -22,7 +22,7 @@ Yes/no questions never occur with _ий_, but must end with the particle _дуо
 
 #### Examples
 
-* _<b>Кэскил аҕата ханна үлэлиир*ий*?</b>&nbsp;_ “Where does Keskil's father work?”
+* _<b>Кэскил аҕата ханна үлэлиир_ий_?</b>&nbsp;_ “Where does Keskil's father work?”
 
 * _<b>Кэскил аҕата ханна үлэлиирий?</b>&nbsp;_ “Where does Keskil's father work?”
 
