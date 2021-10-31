@@ -8,7 +8,10 @@ Currently there are three pronominal types used in the Scottish Gaelic treebank.
 
 ### <a name="Art">`Art`</a>: article
 
-This is used for the article _an_ and variants _na_, _nam_, _nan_ and _a'_.
+This is used for the article _an_ and its other forms _na_, _nam_, _nan_ and _a'_.
+
+#### Examples
+* _<b>a'</b> chompanaidh bhusaichean as motha ann am Breatuinn_  "<b>the</b> biggest bus company in Britain"
 
 ### <a name="Int">`Int`</a>: interrogative
 
