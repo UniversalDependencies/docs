@@ -8,18 +8,18 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-*
+* In general, words are delimited by whitespace characters. Description of exceptions follows.
+* According to typographical rules, some punctuation marks (e.g., comma) are attached to a neighboring word,
+  while others (e.g., the sentence-terminating danda) are not.
+  We tokenize punctuation as separate tokens (words).
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
 
 ## Morphology
 
 ### Tags
 
-*
+* Odia uses all 17 universal POS categories, including particles ([PART]()).
+* Odia has the following auxiliary verbs ([AUX]()):
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
