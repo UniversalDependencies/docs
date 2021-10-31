@@ -69,22 +69,19 @@ monosylabic reduplication (`Red=Mo`), disylabic reduplication (`Red=Di`). The mo
 
 ### Nominalizers
 
-Tupinambá has eight nominalizers
+Tupinambá has many nominalizers with different functions:
 
 Nominalizer | function | Example
-:----: | :------: |   :------: |
- ADJ   | adj      |            |
- ADV   | adv      |            |
- INTJ  | intj     |            |
- NOUN  | n        |            |
- PROPN | ppn      |            |
- VERB  | v, vi, vt|            |
- ADP   | pp       |            |
- AUX   | aux      |            |
- CCONJ | cc       |            |
- DET   | det      |            |
- NUM   | num      |            |
- PART  | pcl      |            |
+:------------: | :------: |   :------: |
+ _mi_-         | adj      |            |
+ -_βaʔe_       | adv      |            |
+ -_pɨr_        | intj     |            |
+ -_sar_        | n        |            |
+ -_saβ_        | ppn      |            |
+ -_βor_        | v, vi, vt|            |
+ -_(a)βo_      | pp       |            |
+ -_i_ ~ -_w_   | aux      |            |
+ 
 
 ---
 
