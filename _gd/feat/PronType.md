@@ -11,6 +11,7 @@ Currently there are three pronominal types used in the Scottish Gaelic treebank.
 This is used for the article _an_ and its other forms _na_, _nam_, _nan_ and _a'_.
 
 #### Examples
+
 * _<b>a'</b> chompanaidh bhusaichean as motha ann am Breatuinn_  "<b>the</b> biggest bus company in Britain"
 
 ### <a name="Int">`Int`</a>: interrogative
@@ -18,6 +19,7 @@ This is used for the article _an_ and its other forms _na_, _nam_, _nan_ and _a'
 The interrogative pronouns include _dè_ "what", _cò_ "who" or "what" and _cuin_ "when".
 
 #### Examples
+
 * _<b>Dè</b> do bheachd air a’ chùis, a Mhurchaidh?_  "<b>What</b> is your opinion on the matter, Murdo?"
 
 

@@ -37,7 +37,7 @@ Also close up _dhà-na-tri_ (see fp05\_012).
 The original version of ARCOSG contains tokens that contain spaces.
 For UD, however, we need to split these up.
 For the moment we duplicate the UPOS and the XPOS for each of the words.
-PROPNs have a `flat` relation; others have a `fixed` relation but this needs to be improved.
+PROPNs have a `flat:name` relation; others have a `fixed` relation but this needs to be improved.
 
 Some difficult cases follow:
 #### _na b'_/_na bu_
@@ -59,7 +59,7 @@ Here are the most common families:
 Standard UPOS tags are used throughout. Generally we follow the choices made in the Irish UD treebanks.
 * `AUX` is used for _is_ (the copula) only. _bi_ is tagged as `VERB`.
 * The following words are tagged `PART`: the adverbialiser _gu_ (_gu math_ 'well'), the comparative particle _nas_, the superlative particle _as_, the agreement particle _a_ (_a dol_ 'to go'), the vocative particle _a_ (_a Sheumais_ 'James'), the patronymic particles _Mac_ and _Nic_, the numerical particle _a_ (_a h-aon) 'one'), the past tense marker _do_, the negative particles _cha_ and _nach_, the interrogative particles _a_ and _an_ and the relative particle _a_.
-* Verbal nouns are tagged as `NOUN`.
+* Verbal nouns are tagged as `NOUN` with `VerbType=Vnoun`.
 * Deverbal adjectives are tagged as `ADJ`.
 * The aspectual particles _ag_/_a'_, _air_, _gu_ and _ri_ (all prototypically adpositions) are tagged as `ADP`.
 * Demonstrative pronouns, _seo_, _sin_ and _siud_ are tagged as `PRON` as in Irish.
@@ -140,29 +140,29 @@ The noun preceding it is an `obj` of it.
 
 ### _air ais_
 
-While _ais_ is tagged as _Nf_ in phrases like _air ais no air adhart_ there seems to be no good reason to treat the first half differently from the second half, so _air_ is `case` of _ais_ and _ais_ is the head and `obl` of whatever it is modifying.
+While _ais_ is tagged as `Nf` in phrases like _air ais no air adhart_ there seems to be no good reason to treat the first half differently from the second half, so _air_ is `case` of _ais_ and _ais_ is the head and `obl` of whatever it is modifying.
 
 ### _bi_
 Auxiliary use: we follow the Irish UD treebank and treat _bi_ as a `VERB`, and the verbal noun as a `NOUN` linked back to _bi_ with an `xcomp:pred` deprel.
 
-Predicative use: again, we follow Irish and use `xcomp:pred` for predicative adjectives, PPs and adverbs. There is a construction exemplified in c02_009a, c02_009b and c02_010 _bi... agam... ri dhol..._ and in this case we assume that the PP with _aig_ is the quirky experiencer and _ri_ is the predicate.
+Predicative use: again, we follow Irish and use `xcomp:pred` for predicative adjectives, PPs and adverbs. There is a construction exemplified in c02\_009a, c02\_009b and c02\_010 _bi... agam... ri dhol..._ and in this case we assume that the PP with _aig_ is the quirky experiencer and _ri_ is the predicate.
 
-However (see f01_028), there are also uses of _bi_ for extent in time (n03_041) and space.
+However (see f01\_028), there are also uses of _bi_ for extent in time (n03\_041) and space.
 
 ### _còrr is_ and friends
 
-Example taken from pw01_015a: in _còrr is deich bliadhna_, _bliadhna_ is conjoined with _còrr_ and _deich_ is a `nummod` of _bliadhna_.
+Example taken from pw01\_015a: in _còrr is deich bliadhna_, _bliadhna_ is conjoined with _còrr_ and _deich_ is a `nummod` of _bliadhna_.
 
-From ns04_053: in _thachair an tubaist còrr is bliadhna gu leth_ _còrr_ is `obl:tmod` of _thachair_ because the phrase as a whole is a time phrase.
+From ns04\_053: in _thachair an tubaist còrr is bliadhna gu leth_ _còrr_ is `obl:tmod` of _thachair_ because the phrase as a whole is a time phrase.
 
 ### _dè cho..._
 
-'how' as in 'how big'. Retag _dè_ as `ADV` and both it and _cho_ are `advmod` of the adjective.
+'how' as in 'how big'. _dè_ remains `PRON` and _cho_ is `advmod` of the succeeding adjective.
 
 ### _feuch_
 
 When this is tagged as `Vm-2s` the sense in which it is usually used is 'to try to', in which case it is linked to the higher clause with an `xcomp` deprel.
-For example n04_002: _... gu robh e 'dol a dh’fhalbh feuch a faigheadh..._, _feuch_ is an `xcomp` of _dh’fhalbh_.
+For example n04\_002: _... gu robh e 'dol a dh’fhalbh feuch a faigheadh..._, _feuch_ is an `xcomp` of _dh’fhalbh_.
 
 ### _fhios agad_ and variants
 
@@ -191,15 +191,15 @@ _Mas_ ('if') is divided into the two words _ma_ (`SCONJ`) and _is_ (`AUX`).
 
 ### `parataxis`
 
-Where you have a big long sentence with lots of "ars' esan" and "ars' ise"s in it, treat them like punctuation and make them `parataxis` of the most contentful content word in the nearest quoted text so as to avoid non-projectivity. Sentence n01_038 is an example of this.
+Where you have a big long sentence with lots of "ars' esan" and "ars' ise"s in it, treat them like punctuation and make them `parataxis` of the most contentful content word in the nearest quoted text so as to avoid non-projectivity. Sentence n01\_038 is an example of this.
 
 ### _an t-seachdain seo chaidh_ and others
 
-'last week', literally 'this week that went'. Treat _chaidh_ as being `acl:relcl` of _t-seachdain_ (pw05_005, also _ceud_ in the sense of 'century': see fp01_034).
+'last week', literally 'this week that went'. Treat _chaidh_ as being `acl:relcl` of _t-seachdain_ (pw05\_005, also _ceud_ in the sense of 'century': see fp01_034).
 
 ### _urrainn_
 
-In most dialects the person (or thing) that can follows the preposition _do_ so is of course `obl`. In some, however, you can say, for example, _'s urrainn mi_, so in this case _mi_ is `obl` of _urrainn_.
+In most dialects the person (or thing) that can follows the preposition _do_ so is of course `obl`. In some, however, you can say, for example, _'s urrainn mi_, so in this case _mi_ is `nmod` of _urrainn_.
 
 ---
 
