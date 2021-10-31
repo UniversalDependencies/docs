@@ -26,12 +26,11 @@ Mapping UPOS to XPOS Tupinambá
 
  UPOS | XPOS |
 :----: | :------: |
- ADJ   | adj      |
  ADV   | adv      |
  INTJ  | intj     |
  NOUN  | n        |
  PROPN | ppn      |
- VERB  | v, vi, vt|
+ VERB  | v, vi, vt, vd|
  ADP   | pp       |
  AUX   | aux      |
  CCONJ | cc       |
@@ -71,16 +70,16 @@ monosylabic reduplication (`Red=Mo`), disylabic reduplication (`Red=Di`). The mo
 
 Tupinambá has many nominalizers with different functions:
 
-Nominalizer | function | Example
-:------------: | :------: |   :------: |
- _mi_-         | adj      |            |
- -_βaʔe_       | adv      |            |
- -_pɨr_        | intj     |            |
- -_sar_        | n        |            |
- -_saβ_        | ppn      |            |
- -_βor_        | v, vi, vt|            |
- -_(a)βo_      | pp       |            |
- -_i_ ~ -_w_   | aux      |            |
+Nominalizer    |       function        |    Example      |
+:------------: | :-------------------: |:--------------: |
+ _mi_-         | passive deverbalizer  | t-emi-juka `what is killed'|
+ -_βaʔe_       | relativizer           | o-so-βaʔe `the one who goes'| 
+ -_pɨr_        | passive deverbalizer  | erobjar-(ɨ)-pɨr 'the one who must be killed'  |
+ -_sar_        | n        |            |            |                     
+ -_saβ_        | ppn      |            |            |                      
+ -_βor_        | v, vi, vt|            |            |          
+ -_(a)βo_      | pp       |            |            |          
+ -_i_ ~ -_w_   | aux      |            |            |          
  
 
 ---
