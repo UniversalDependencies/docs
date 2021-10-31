@@ -48,9 +48,9 @@ udver: '2'
 
 ## Treebanks
 
-There are [1](../treebanks/sjo-comparison.html) Xibe UD treebanks:
+There is [1](../treebanks/sjo-comparison.html) Xibe UD treebank:
 
-  * [Xibe-XDT](../treebanks/sjo_a/index.html)
+  * [Xibe-XDT](index.html)
 
 <!--**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
 from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
