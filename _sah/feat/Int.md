@@ -18,13 +18,13 @@ udver: '2'
 
 WH-questions optionally require that the predicate incorporates the interrogative suffix _ий_.
 
-Yes/no questions never occur with _ий_, but must end with the particle _дуо_.
+Yes/no questions never occur with _ий_, but may end with the particle _дуо_.
 
 #### Examples
 
-* _<b>Кэскил аҕата ханна үлэлиир_ий_?</b>&nbsp;_ “Where does Keskil's father work?”
-
 * _<b>Кэскил аҕата ханна үлэлиирий?</b>&nbsp;_ “Where does Keskil's father work?”
+
+* _<b>Ыскаапка кинигэ элбэх дуо?</b>&nbsp;_ “Are there many books in the bookcase?”
 
 
 </tr>
