@@ -26,12 +26,11 @@ Mapping UPOS to XPOS Tupinambá
 
  UPOS | XPOS |
 :----: | :------: |
- ADJ   | adj      |
  ADV   | adv      |
  INTJ  | intj     |
  NOUN  | n        |
  PROPN | ppn      |
- VERB  | v, vi, vt|
+ VERB  | v, vi, vt, vd|
  ADP   | pp       |
  AUX   | aux      |
  CCONJ | cc       |
@@ -66,6 +65,23 @@ Mapping UPOS to XPOS Tupinambá
 * Verbs are also marked for [mood](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/Mood.md): `Perm` (permissive).
 * Lexical roots may be [reduplicated](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/Red.md) in two differentways: 
 monosylabic reduplication (`Red=Mo`), disylabic reduplication (`Red=Di`). The modify the aspect of the verb in different ways: disylabic reduplication indicate the repetition or duration of an action; monosylabic reduplication indicates iteration of the action. 
+
+### Nominalizers
+
+Tupinambá has many nominalizers with different functions. All but 
+
+Nominalizer    |       function             |    Example                           |
+:------------: | :------------------------: |:----------------------:              |
+ _(e)mi_-         | passive deverbalizer    | t-emi-juka 'what is killed'.      |
+ -_βaʔe_       | relativizer                | o-juká-βaʔe 'the one who kills'.     | 
+ -_pɨr_        | passive deverbalizer       | eroβjar-(ɨ)-pɨr 'the one who must be killed'  |
+ -_sar_        | agentive nominalizer       | juká-sar-a 'the killer'.             |                                
+ -_saβ_        | circunstantial nominalizer | juká-saβ-a 'place/mode of killing'   |                      
+ -_βor_        | habitual agent             | juká-βor 'one who often kills'       |                     
+ -_(a)βo_      | gerund                     | juká-βo 'killing'                    |                   
+ -_i_ ~ -_w_   | nominalized with fronted focalized adverbials  | juká-w           |                        
+ 
+
 ---
 
 ## Syntax
@@ -105,3 +121,4 @@ from the data in the latest release. Link to the respective `*-index.html` page 
 and the treebank code in the file name.
 
 ---
+            
