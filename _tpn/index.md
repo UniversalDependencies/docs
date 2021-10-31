@@ -70,16 +70,16 @@ monosylabic reduplication (`Red=Mo`), disylabic reduplication (`Red=Di`). The mo
 
 Tupinambá has many nominalizers with different functions:
 
-Nominalizer    |       function        |    Example      |
-:------------: | :-------------------: |:--------------: |
- _mi_-         | passive deverbalizer  | t-emi-juka `what is killed'|
- -_βaʔe_       | relativizer           | o-so-βaʔe `the one who goes'| 
- -_pɨr_        | passive deverbalizer  | erobjar-(ɨ)-pɨr 'the one who must be killed'  |
- -_sar_        | n        |            |            |                     
- -_saβ_        | ppn      |            |            |                      
- -_βor_        | v, vi, vt|            |            |          
- -_(a)βo_      | pp       |            |            |          
- -_i_ ~ -_w_   | aux      |            |            |          
+Nominalizer    |       function             |    Example      |
+:------------: | :------------------------: |:--------------: |
+ _mi_-         | passive deverbalizer       | t-emi-juka 'what is killed'|
+ -_βaʔe_       | relativizer                | o-so-βaʔe 'the one who goes'| 
+ -_pɨr_        | passive deverbalizer       | erobjar-(ɨ)-pɨr 'the one who must be killed'  |
+ -_sar_        | agentive nominalizer       | juká-sar-a 'the killer'.             |                                
+ -_saβ_        | circunstantial nominalizer | juká-saβ-a 'place/mode of killing'   |                      
+ -_βor_        | habitual agent             | juká-βor 'one who often kills'       |                     
+ -_(a)βo_      | gerund                     | juká-βo 'killing'                    |                   
+ -_i_ ~ -_w_   | nominalized with fronted focalized adverbials  | juká-w           |                        
  
 
 ---
