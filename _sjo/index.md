@@ -41,9 +41,9 @@ udver: '2'
 
 ## Dependency Relations
 
-* [mark:adv](../docs/sjo/mark-adv.md)
-* [mark:rel](../docs/sjo/mark-rel.md)
-* [mark:plur](../docs/sjo/mark-plur.md)
+* [mark:adv](dep/mark-adv.md)
+* [mark:rel](dep/mark-rel.md)
+* [mark:plur](dep/mark-plur.md)
 
 
 ## Treebanks
