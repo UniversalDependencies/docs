@@ -77,7 +77,12 @@ Postpostion | Function   |           Example        |
  pi         |  inessive  |     |      
 
 
-
+Clitics     |            Function           |           Example        |
+:---------: | :----------------------------:|:------------------------:|
+(b)õ   | allative/dative/instrumental  |                 |    
+=(e)ɾi | comitative                    |                 |
+=na    |  inessive                     |                 | 
+=pe    | locative                      |                 | 
 
 
 
