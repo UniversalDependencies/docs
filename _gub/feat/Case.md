@@ -12,6 +12,7 @@ udver: '2'
   <td><a href="#Dat">Dat</a></td>
   <td><a href="#Loc">Loc</a></td>
   <td><a href="#Tem">Tem</a></td>
+  <td><a href="#Tra">Tra</a></td>
   
 
 </tr>
@@ -36,7 +37,7 @@ The dative case is expressed with the morpheme "pe"
 
 #### Examples
 
-* _<b>Nuzapo pixik kwaw agwer ma'e amo ae awa pe</b>&nbsp;_ “He never did this kind of things to any other man”
+* _<b>Nuzapo pixik kwaw agwer maʔe amo ae awa pe</b>&nbsp;_ “He never did this kind of things to any other man”
 
 
 ### <a name="Loc">`Loc`</a>: Locative
@@ -53,7 +54,18 @@ The temporal case is expressed with the morpheme "re"
 
 #### Examples
 
-* _<b>a'ere</b>&nbsp;_ “After that”
+* _<b>aʔere</b>&nbsp;_ “After that”
+  
+</tr>
+</table>
+
+### <a name="Tra">`Tra`</a>: Translative
+
+The translative case is expressed with the morpheme "romo" or "rumu"
+
+#### Examples
+
+* _<b>Aʔere uzeapo tahɨwai xixirogaturumu</b>&nbsp;_ “There he turned into ants of various sizes”
   
 </tr>
 </table>
