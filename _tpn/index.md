@@ -49,9 +49,9 @@ Mapping UPOS to XPOS Tupinambá
 * Nous can take the following [Cases](https://universaldependencies.org/u/feat/Case.html): `Tra`, `Loc`, `Per`, `Dat`.
 
 Case | Ending | Example |
-:----: | :------: |
+:----: | :------: | :------:|
 Translative | -(r)amo | t-uβ-amo 'as his father' |
-Locative | -pe |
+Locative | -pe |                      |
 Perlative | -βo | kaʔa-βo `through the forest'|
 Dative |-βe / -βo (with pronouns)| iʃé-βo, iʃéβe 'to me'|
 
