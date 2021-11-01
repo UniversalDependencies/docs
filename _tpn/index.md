@@ -20,7 +20,7 @@ udver: '2'
 
 * Tupinambá uses 16 of the 17 universal POS categories. `ADJ` is not used since there is no separate class of adjectives.
 Stative-verbs and possessed nouns behave alike, in a way that is not possible to distinguish them morphologically
-(I am ugly / I have uglyness; ugly boy / boy with uglyness /(the) boy has uglyness). The fundamental distinction in Tupinambá is that between predicates and arguments (potentially referring expressions), reflected in the `NOUN`or `VERB`tags.
+(I am ugly / I have uglyness; ugly boy / boy with uglyness /(the) boy has uglyness). The fundamental distinction in Tupinambá is that between predicates and arguments (potentially referring expressions), reflected in the `NOUN`or `VERB` tags. Lexical roots in Tupinambá are predicates, which require function indicating morphology in order to function as arguments (Croft 2021)
 
 Mapping UPOS to XPOS Tupinambá
 
