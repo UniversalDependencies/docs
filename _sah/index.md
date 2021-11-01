@@ -58,7 +58,7 @@ Nasal consonants: м, н, ҥ  |-нар, -нэр, -нор, - нөр| ааннар
 
 
 * There are 8 `cases`: [nominative](https://universaldependencies.org/u/feat/Case.html#nom-nominative--direct), [accusative](https://universaldependencies.org/u/feat/Case.html#acc-accusative--oblique), [dative](https://universaldependencies.org/u/feat/Case.html#dat-dative), [partitive](https://universaldependencies.org/u/feat/Case.html#par-partitive), [ablative](https://universaldependencies.org/u/feat/Case.html#abl-ablative), [instrumental](https://universaldependencies.org/u/feat/Case.html#ins-instrumental--instructive), [comitative](https://universaldependencies.org/u/feat/Case.html#com-comitative--associative), [comparative](https://universaldependencies.org/u/feat/Case.html#cmp-comparative).
-* The form of the accusative case is used in situations, in which the object undergoing an action is understood concretely, as something known or determinated.
+
 
 <b>Table of cases</b>
 
@@ -153,6 +153,21 @@ Third    | The form of the plural   | see [Plural suffixes](#plural-suf)  |  |
 ---
 
 ## Syntax
+
+* Differential object-marking is found depending on definiteness. If the object of a transitive verb is definite, the accusative case is used. With an indefinite object, the nominative case is used:
+
+```
+Уол кинигэни ааҕар
+Уол кинигэ-ни ааҕ-ар
+boy book-ACC  read.PRES-3.SG
+'A boy reads the book'
+
+Уол кинигэ ааҕар
+Уол кинигэ ааҕ-ар
+boy book.NOM read.PRES-3.SG
+'A boy reads a book'
+
+```
 
 * The following valency change devices (`voice`) are found: [passive](https://universaldependencies.org/u/feat/Voice.html#pass-passive-or-patient-focus-voice), [causative](https://universaldependencies.org/u/feat/Voice.html#cau-causative-voice), [reciprocal](https://universaldependencies.org/u/feat/Voice.html#rcp-reciprocal-voice).
 
