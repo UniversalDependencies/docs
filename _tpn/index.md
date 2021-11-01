@@ -98,7 +98,7 @@ o-s-epjak
 He/she/it/they see her/him/it/them
 ```
 
-Nominal phrases (NPs) semantically related to the core-arguments can appear in any order in relation to the predicate (where the core arguments are indexed). This is exemplified below through the sentence _John sees Mary_:
+* Nominal phrases (NPs) semantically related to the core-arguments can appear in any order in relation to the predicate (where the core arguments are indexed). This is exemplified below through the sentence _John sees Mary_:
 
 John<sub>i</sub> Mary<sub>j</sub> o<sub>i</sub>-s<sub>j</sub>-epjak   
  
@@ -112,9 +112,11 @@ Mary<sub>j</sub> o<sub>i</sub>-s<sub>j</sub>-epjak John<sub>i</sub>
  
 John<sub>i</sub> o<sub>i</sub>-s<sub>j</sub>-epjak Mary<sub>j</sub>   
 
-This is the case only when the object is third-person. For this reason the feature [Person](https://universaldependencies.org/u/feat/Person.html) takes values combining both arguments (A dn P): `Person=13`, `Person=23`, and `Person=33`. No othe combinations occur.
+* The object of transitive verbs is always indexed by `Rel=Ncont`. Tupinambá has transitive verbs only when third objects are person. In the other cases a predicative possession is used. When the objetc is third person, the feature [Person](https://universaldependencies.org/u/feat/Person.html) takes values combining both arguments (S and O): `Person=13`, `Person=23`, and `Person=33`. No othe combinations occur.
 
-* The order of arguments cross-referenced on the predicate is SOV. Full NPs associated with core arguments may appear in any order. These NPs are marked as `obl` ' obliques', since they are not the core arguments. 
+* The dependency linking the core arguments with the NPs semantically related to the core-arguments are `obl`([oblique](https://universaldependencies.org/u/dep/obl.html)).
+
+
 * What has been traditionally called circunstantial mood or indicative II in some Tupí-Guaraní languages referes to a nominalization accompanied by the fronting of an adverbial expression: adverbs, adverbial expressions, postpositional phrases (oblique topicalization). The nominalized form in this case is marked by the feature-value [OblTop=Yes](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/OblTop.md).
 Transitivity is found only with third person objects.
 
