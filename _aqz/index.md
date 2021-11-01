@@ -70,19 +70,14 @@ foot-foot
 ```
 * Akuntsú has postpositions and oblique clitics, including Ablative `Abl`, allative `All`, dative `Dat`,  essive `Ess`, locative `Loc`, translative `Tra` and inessive `Ine`. The bound (non-clitic) oblique markers are treated as `case`, while the term “postposition” is reserved only for cases of independent words, not bound forms which come after the word that they are grammatically related to.
 
-Postpostion | Function   |           Example            |
-:---------: | :---------:|:-------------------------:   |
+Postpostion | Function   |           Example        |
+:---------: | :---------:|:---------------------:   |
      etʃe   | perlative  |     |    
-     ete    | comitative |    | 
+     ete    | comitative |     | 
      pi     |  inessive  |     |      
 
 
-Clitics    |            Function           |           Example             |
-:---------: | :----------------------------:|:-------------------------:   |
-     (b)õ   | allative/dative/instrumental  |                 |    
-     =(e)ɾi | comitative                    |                 |
-     =na    |  inessive                     |                 | 
-     =pe    | locative                      |                 | 
+
 
 
 
