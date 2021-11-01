@@ -62,19 +62,20 @@ Person     |Possessor indexes   |  Argument indexes  |   Portmanteau indexes |  
 2.PL      |        pe=          |      pe-           |                       |        peje´               |          pe ʔẽ        |   
 
 Possessor indexes, as the name suggests, only index possessors. They are marked not marked with PronType, but they are marked as [Poss=Yes](https://universaldependencies.org/u/feat/Poss.html). Argument indexes are used with verbal predicates, as also are the portmanteau indexes (see below). Switch-reference indexes are used in dependent clauses with subjects coreferential with the subjects of the main clauses.
+Person indexes distinguish [Number](https://universaldependencies.org/u/feat/Number.html)(Singular or Plural). They also distinguish [Clusivity](https://universaldependencies.org/u/feat/Clusivity.html) in the 1<sup>st</sup> person plural.
 
 
 * Nouns can take the following [Cases](https://universaldependencies.org/u/feat/Case.html): `Tra`, `Loc`, `Per`, `Dat`.
 
 Case        |          Ending         |           Example            |
 :---------: | :---------------------: | :-------------------------:  |
-Translative | -(r)amo                 | t-uβ-amo 'as his father'     |
-Locative    | -pe                     | t-atá-pe 'in the fire'       |
-Perlative   | -βo                     | kaʔa-βo 'through the forest' |
-Dative      |-βe / -βo (with pronouns)| iʃé-βo, iʃéβe 'to me'        |
+[Translative](https://universaldependencies.org/u/feat/Case.html#Tra)| -(r)amo                 | t-uβ-amo 'as his father'     |
+[Locative](https://universaldependencies.org/u/feat/Case.html#Loc)   | -pe                     | t-atá-pe 'in the fire'       |
+[Perlative](https://universaldependencies.org/u/feat/Case.html#Per)  | -βo                     | kaʔa-βo 'through the forest' |
+[Dative](https://universaldependencies.org/u/feat/Case.html#Dat)      |-βe / -βo (with pronouns)| iʃé-βo, iʃéβe 'to me'        |
 
 
-* Personal Pronouns and argument indexes distinguish [Number](https://universaldependencies.org/u/feat/Number.html)(Singular or Plural). They also distinguish [Clusivity](https://universaldependencies.org/u/feat/Clusivity.html) in the 1<sup>st</sup> person plural.
+
 
 * The relational markers `Rel`, which indicate contiguity or non-contiguity between a head and its dependent, take respectively the following features: `Rel=Cont` and `Rel=NCont`. A third type or relational, `Rel=HUM`, indicates that obligatorily possessed noun is given without reference to a possessor at the same time marking the possessor as human. The reflexive/correferential morpheme _o_. which is often referred to as 'relational<sub>3</sub>' is associated with the feature-value `Reflex=Yes`. Another relational `Rel=Hum`indicates that the possessor is human. These are shown below:
 
