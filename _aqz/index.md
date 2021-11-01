@@ -91,7 +91,7 @@ Cont   | ∅     | _Konibu **ø**-ajtʃi Aɾamĩɾa_ 'Konibú's wife is Aramira'
 NCont  | t | _apaɾa **t**-ep tʃopa jẽ_ 'This one sees banana's leaf'    | 
 
 * The reflexive/correferential morpheme _te_ is associated with the feature-value `Reflex=Yes`. 
-* The demonstratives can occur as noun specifiers or as predicate complements, which receive the tag DEM with two values: Deixis=Prox and Deixis=Dist. 
+* The demonstratives can occur as noun specifiers or as predicate complements, which receive the tag DEM with two values: `Deixis=Prox` and `Deixis=Dist`.
 
 ```
 jẽ        kem-kɨ         jẽ        kem-kɨ=ɾom
