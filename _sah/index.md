@@ -32,7 +32,14 @@ udver: '2'
 * 10 `moods` are distinguished in Yakut: [indicative](https://universaldependencies.org/u/feat/Mood.html#ind-indicative-or-realis), [imperative](https://universaldependencies.org/u/feat/Mood.html#imp-imperative), [conditional](https://universaldependencies.org/u/feat/Mood.html#cnd-conditional), affirmative, obligative, habitual, dubitative, unrealized, [subjunctive](https://universaldependencies.org/u/feat/Mood.html#sub-subjunctive--conjunctive), suppositional.
 * Non-finite verb forms include: perfect-participle, aorist-participle, future-participle, not-yet-participle.
 * There are [converbs](https://universaldependencies.org/u/feat/VerbForm.html#conv-converb-transgressive-adverbial-participle-verbal-adverb).
-
+*
+*
+* The second-person singular imperative of a verb is identical in form to the infinitive.
+* The plural suffix -лар is used for both nouns and adjectives. The suffix yields 16 variants.
+* If the subject has the plural form, the predicate takes that form as well.
+* Possession is expressed by possessive suffixes, which correspond to possessive pronouns my, your, and so on. The suffixes differ according to person and number. It is often strengthenes by a personal pronoun standing in front of the noun that is in the possessive form. However, the personal pronoun of the first and the second person may be absent.
+* Certain nouns have double function of a noun and an adverb.
+* Some words that imply plurality (e.g. body parts) are often used in the singular form, preserving the meaning of the whole.
 ---
 
 ### Features
