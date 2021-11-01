@@ -49,10 +49,10 @@ NOMINAL FEATURE
 * Nominal words, NOUN, PROPN and PRON, are not marked for Gender, plural or animacy.
 * There are no classifiers.
 * The two main values of the Number feature are Sing and Plural.
-* The notion of plural is expressed through numerals, particles or through reduplication.
+* The notion of plural is expressed through numerals, particles or through reduplication:
 
 ```
-**tɨrɨ-tɨrɨ** apaɾa
+tɨrɨ-tɨrɨ apaɾa
 two-two   banana
 'four (or many) bananas'
 ```
@@ -64,18 +64,19 @@ fishhook-rope   bring  ITER
 ```
 
 ```
-__pi-pi__
+pi-pi
 foot-foot
 'feet'
 ```
-* Akuntsú has postpositions and oblique clitics, including Ablative `Abl`, allative `All`, dative `Dat`,  essive `Ess`, locative `Loc`, translative `Tra` and inessive `Ine`.
+* Akuntsú has postpositions and oblique clitics, including Ablative `Abl`, allative `All`, dative `Dat`,  essive `Ess`, locative `Loc`, translative `Tra` and inessive `Ine`. The bound (non-clitic) oblique markers are treated as `case`, while the term “postposition” is reserved only for cases of independent words, not bound forms which come after the word that they are grammatically related to.
 
-Case        |          Ending         |           Example            |
+Postpostion |  Oblique clitics        |           Example            |
 :---------: | :---------------------: | :-------------------------:  |
-Translative | -(r)amo                 | t-uβ-amo 'as his father'     |
+Translative na| -(r)amo                 | t-uβ-amo 'as his father'     |
 Locative    | -pe                     | t-atá-pe 'in the fire'       |
 Perlative   | -βo                     | kaʔa-βo 'through the forest' |
 Dative      |-βe / -βo (with pronouns)| iʃé-βo, iʃéβe 'to me'        |
+
 
 * The relational markers `Rel`, which indicate contiguity or non-contiguity between a head and its dependent, take respectively the following features: `Rel=Cont` and `Rel=NCont`. A third type or relational, `Rel=HUM`, indicates that obligatorily possessed noun is given without reference to a possessor at the same time marking the possessor as human. The reflexive/correferential morpheme _o_. which is often referred to as 'relational<sub>3</sub>' is associated with the feature-value `Reflex=Yes`. Another relational `Rel=Hum`indicates that the possessor is human. These are shown below:
 
