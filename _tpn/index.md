@@ -69,10 +69,10 @@ Person indexes distinguish [Number](https://universaldependencies.org/u/feat/Num
 
 Case        |          Ending         |           Example            |
 :---------: | :---------------------: | :-------------------------:  |
-[Translative](https://universaldependencies.org/u/feat/Case.html#Tra)| -(r)amo                 | t-uβ-amo 'as his father'     |
-[Locative](https://universaldependencies.org/u/feat/Case.html#Loc)   | -pe                     | t-atá-pe 'in the fire'       |
-[Perlative](https://universaldependencies.org/u/feat/Case.html#Per)  | -βo                     | kaʔa-βo 'through the forest' |
-[Dative](https://universaldependencies.org/u/feat/Case.html#Dat)      |-βe / -βo (with pronouns)| iʃé-βo, iʃéβe 'to me'        |
+[Translative](https://universaldependencies.org/u/feat/Case.html#Tra)| -(r)amo                 | _t-uβ-amo_ 'as his father'     |
+[Locative](https://universaldependencies.org/u/feat/Case.html#Loc)   | -pe                     | _t-atá-pe_ 'in the fire'       |
+[Perlative](https://universaldependencies.org/u/feat/Case.html#Per)  | -βo                     | _kaʔa-βo_ 'through the forest' |
+[Dative](https://universaldependencies.org/u/feat/Case.html#Dat)      |-βe / -βo (with pronouns)| _iʃé-βo, iʃéβe_ 'to me'        |
 
 
 
@@ -81,10 +81,10 @@ Case        |          Ending         |           Example            |
 
 Rel    | Form(s)   |             Example                  |
 :-----:|:---------:| :----------------------------------: |
-Cont   | ∅ ~ r     | ʃe-∅-sɨ 'I have a mother'            |    
-NCont  | i ~ s ~ t | i-sɨ-∅ 'his/her/its/their mother'    |
-Abs    | t ~ m     | t-oʔo  'his/her/their (human) flesh' |
-Corf   |   o       | o-sɨ-∅ 'his/her/its/their own mother'| 
+Cont   | ∅ ~ r     | _ʃe-∅-sɨ_ 'I have a mother'            |    
+NCont  | i ~ s ~ t | _i-sɨ-∅_ 'his/her/its/their mother'    |
+Abs    | t ~ m     | _t-oʔo_  'his/her/their (human) flesh' |
+Corf   |   o       | _o-sɨ-∅_ 'his/her/its/their own mother'| 
 
 
 
@@ -106,13 +106,13 @@ Tupinambá has many nominalizers with different functions. All but
 
 Nominalizer    |       function             |    Example                           |
 :------------: | :------------------------: |:----------------------:              |
- _(e)mi_-      | passive deverbalizer       | t-emi-juka 'what is killed'.         |
- -_βaʔe_       | relativizer                | o-juká-βaʔe 'the one who kills'.     | 
- -_pɨr_        | passive deverbalizer       | i-juká-pɨr 'the one who must be killed'  |
- -_sar_        | agentive nominalizer       | juká-sar-a 'the killer'.             |                                
- -_saβ_        | circunstantial nominalizer | juká-saβ-a 'occasion/place/mode/instrument of killing' |                      
- -_βor_        | habitual agent             | juká-βor 'one who often kills'       |                     
- -_(a)βo_      | gerund                     | juká-βo 'killing'                    |                   
+ _(e)mi_-      | passive deverbalizer       | _t-emi-juka_ 'what is killed'.         |
+ -_βaʔe_       | relativizer                | _o-juká-βaʔe_ 'the one who kills'.     | 
+ -_pɨr_        | passive deverbalizer       | _i-juká-pɨr_ 'the one who must be killed'  |
+ -_sar_        | agentive nominalizer       | _juká-sar-a_ 'the killer'.             |                                
+ -_saβ_        | circunstantial nominalizer | _juká-saβ-a_ 'occasion/place/mode/instrument of killing' |                      
+ -_βor_        | habitual agent             | _juká-βor_ 'one who often kills'       |                     
+ -_(a)βo_      | gerund                     | _juká-βo_ 'killing'                    |                   
  -_i_ ~ -_w_   | nominalized with fronted focalized adverbials  | juká-w           |                        
  
 
@@ -140,17 +140,17 @@ He/she/it/they see her/him/it/them
 
 * Nominal phrases (NPs) semantically related to the core-arguments can appear in any order in relation to the predicate (where the core arguments are indexed). This is exemplified below through the sentence _John sees Mary_:
 
-John<sub>i</sub> Mary<sub>j</sub> o<sub>i</sub>-s<sub>j</sub>-epjak   
+_John<sub>i</sub> Mary<sub>j</sub> o<sub>i</sub>-s<sub>j</sub>-epjak_   
  
-Mary<sub>j</sub> John<sub>i</sub> o<sub>i</sub>-s<sub>j</sub>-epjak  
+_Mary<sub>j</sub> John<sub>i</sub> o<sub>i</sub>-s<sub>j</sub>-epjak_  
  
-o<sub>i</sub>-s<sub>j</sub>-epjak John<sub>i</sub> Mary<sub>j</sub>   
+_o<sub>i</sub>-s<sub>j</sub>-epjak John<sub>i</sub> Mary<sub>j</sub>_   
  
-o<sub>i</sub>-s<sub>j</sub>-epjak Mary<sub>j</sub> John<sub>i</sub>   
+_o<sub>i</sub>-s<sub>j</sub>-epjak Mary<sub>j</sub> John<sub>i</sub>_   
  
-Mary<sub>j</sub> o<sub>i</sub>-s<sub>j</sub>-epjak John<sub>i</sub>   
+_Mary<sub>j</sub> o<sub>i</sub>-s<sub>j</sub>-epjak John<sub>i</sub>_   
  
-John<sub>i</sub> o<sub>i</sub>-s<sub>j</sub>-epjak Mary<sub>j</sub>
+_John<sub>i</sub> o<sub>i</sub>-s<sub>j</sub>-epjak Mary<sub>j</sub>_
 
 * The dependency linking the core arguments with the NPs semantically related to the core-arguments are `obl` ([oblique](https://universaldependencies.org/u/dep/obl.html)).
 
