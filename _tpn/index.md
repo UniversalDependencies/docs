@@ -157,6 +157,8 @@ opo-juká
 * What has been traditionally called circunstantial mood or indicative II in some Tupí-Guaraní languages referes to a nominalization accompanied by the fronting of an adverbial expression: adverbs, adverbial expressions, postpositional phrases (oblique topicalization). The nominalized form in this case is marked by the feature-value [OblTop=Yes](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/OblTop.md).
 
 
+### Non-verbal predicates
+
 ### 
 
 
