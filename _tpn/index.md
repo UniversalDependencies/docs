@@ -57,8 +57,8 @@ Person     |Possessor indexes   |  Argument indexes  |   Portmanteau indexes |  
 1.SG      |ʃe=                  |  a-                |          oro          |            wi-             |      iʃé              |
 2.SG      |ne=                  |  ere-              |                       |            e-              |      ené              | 
 3         |                     |     o-             |                       |        o-                  |   aʔe (demonstrative) | 
-1.PL.IN   |      jané=          |      ja-           |                       |      oro-                  |           jané        |
-1.PL.EX   |       oré=          |      oro-          |          opo          |      jere-                 |             oré       |
+1.PL.IN   |      jané=          |      ja-           |                       |      jeré-                  |           jané        |
+1.PL.EX   |       oré=          |      oro-          |          opo          |      oro-                 |             oré       |
 2.PL      |        pe=          |      pe-           |                       |        peje´               |          pe ʔẽ        |   
 
 Possessor indexes, as the name suggests, only index possessors. They are marked not marked with PronType, but they are marked as [Poss=Yes](https://universaldependencies.org/u/feat/Poss.html). Argument indexes are used with verbal predicates, as also are the portmanteau indexes (see below). Switch-reference indexes are used in dependent clauses with subjects coreferential with the subjects of the main clauses.
