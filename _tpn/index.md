@@ -11,7 +11,7 @@ udver: '2'
 * Words are delimited by whitespace characters
 * According to typographical rules, many punctuation marks are attached to a neighboring word. They are given as separate tokens (words);
 * There are no adjectives in Tupinambá. Modification is made by composition, juxtaposing lexical roots, so when a lexical root is modified by another a new word appears as in *kuɲãporaŋ(a)* 'beautiful woman' (*kuɲã* 'woman' + *poraŋ-(a)* 'beauty'). Such words are treated sometimes as [multiword tokens](https://universaldependencies.org/format.html#morphological-annotation), sometimes as a single word.
-* Some compound words from Portuguese are written as one word, e.g. _santaCruz_ 'holy cross'. 
+* Some compound words from Portuguese are written as one word, e.g. _santaCruz_ 'holy cross', _espíritoSanto_ 'holy spirit'. 
 
 
 ## Morphology
@@ -86,17 +86,22 @@ Nominalizer    |       function             |    Example                        
 
 ## Syntax
 
-* As a head-marking language, core arguments, except oblique core arguments are cross-referenced on the predicate, as in the example below:
+* As a head-marking language, core arguments, are indexed on the predicate, in the order SOV as in the example below:
 
 ```
-asepjak 
+osepjak 
 
-a-s-epjak
+o-s-epjak
 
-1.SG-3-see
+3.SG-3-see
 
-I see her/him/it/them
+He/she/it/they see her/him/it/them
 ```
+
+Nominal phrases (NPs) semantically related to the core-arguments can appear in any order in relation to the predicate (where the core arguments are indexed):
+
+NP_{i}
+
 
 This is the case only when the object is third-person. For this reason the feature [Person](https://universaldependencies.org/u/feat/Person.html) takes values combining both arguments (A dn P): `Person=13`, `Person=23`, and `Person=33`. No othe combinations occur.
 
