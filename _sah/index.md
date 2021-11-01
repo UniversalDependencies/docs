@@ -4,7 +4,7 @@ title:  'Yakut UD'
 udver: '2'
 ---
 
-# UD for Yakut <span class="flagspan"><img class="flag" src="../../flags/svg/RU-SA.svg" /></span>
+# UD for Yakut <span class="flagspan"><img class="flag" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Flag_of_Sakha.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
