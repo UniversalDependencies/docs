@@ -84,7 +84,7 @@ Nominalizer    |       function             |    Example                        
 
 ---
 
-## Syntax
+### Syntax
 
 * As a head-marking language, core arguments, are indexed on the predicate, in the order SOV as in the example below:
 
@@ -100,17 +100,17 @@ He/she/it/they see her/him/it/them
 
 Nominal phrases (NPs) semantically related to the core-arguments can appear in any order in relation to the predicate (where the core arguments are indexed). This is exemplified below through the sentence _John sees Mary_:
 
-John Mary o<sub>i</sub>-s<sub>j</sub>-epjak   
+John<sub>i</sub> Mary<sub>j</sub> o<sub>i</sub>-s<sub>j</sub>-epjak   
  
-Mary John o<sub>i</sub>-s<sub>j</sub>-epjak  
+Mary<sub>j</sub> John<sub>i</sub> o<sub>i</sub>-s<sub>j</sub>-epjak  
  
-o<sub>i</sub>-s<sub>j</sub>-epjak John Mary   
+o<sub>i</sub>-s<sub>j</sub>-epjak John<sub>i</sub> Mary<sub>j</sub>   
  
-o<sub>i</sub>-s<sub>j</sub>-epjak Mary John   
+o<sub>i</sub>-s<sub>j</sub>-epjak Mary<sub>j</sub> John<sub>i</sub>   
  
-Mary o<sub>i</sub>-s<sub>j</sub>-epjak John   
+Mary<sub>j</sub> o<sub>i</sub>-s<sub>j</sub>-epjak John<sub>i</sub>   
  
-John o<sub>i</sub>-s<sub>j</sub>-epjak Mary   
+John<sub>i</sub> o<sub>i</sub>-s<sub>j</sub>-epjak Mary<sub>j</sub>   
 
 This is the case only when the object is third-person. For this reason the feature [Person](https://universaldependencies.org/u/feat/Person.html) takes values combining both arguments (A dn P): `Person=13`, `Person=23`, and `Person=33`. No othe combinations occur.
 
