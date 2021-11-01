@@ -100,7 +100,7 @@ He/she/it/they see her/him/it/them
 
 Nominal phrases (NPs) semantically related to the core-arguments can appear in any order in relation to the predicate (where the core arguments are indexed):
 
-NP_i
+NP<sub>i<sub>
 
 
 This is the case only when the object is third-person. For this reason the feature [Person](https://universaldependencies.org/u/feat/Person.html) takes values combining both arguments (A dn P): `Person=13`, `Person=23`, and `Person=33`. No othe combinations occur.
