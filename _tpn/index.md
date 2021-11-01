@@ -169,7 +169,7 @@ ne=r-ub
 ```
 ```
 neruβa
-ne=r-ub-<b>a</b>
+ne=r-ub-**a**
 2.SG=Cont-father-<b>Ref</b>
 'My father'
 ```
