@@ -83,7 +83,7 @@ Clitics     |            Function           |           Example        |
 na    | Essive/Translative            | _powpow iko**na**_ 'It will be owl's food (the bird that they killed) '             | 
 pe    | Locative                      | _tɨeɾo kwiɾo**pe**_ 'Chicha is at the container'                | 
 
-* The relational markers `Rel` indicate contiguity `Rel=Cont` or non-contiguity `Rel=NCont` between a head and its dependent, as exemplified below:
+* The relational markers `Rel` indicate contiguity `Rel=Cont` or non-contiguity `Rel=NCont` between a head and its dependent. The relational expresses possessive relation between two elements within the same phrase, i.e., it indicates whether the possessed noun is or is not contiguous to its possessor, functioning in this language as a possessive marker, as exemplified below:
 
 Rel    | Form(s)   |             Example                  |
 :-----:|:---------:| :----------------------------------: |
