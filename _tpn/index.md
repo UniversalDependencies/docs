@@ -52,7 +52,7 @@ _kunumĩ-etá_ 'boys'
 
 * Person indexes and pronouns are given below:
 
-|Possessor indexes.  |  Argument indexes  |   Portmanteau indexes |  Switch-reference indexes  | Inependent pronouns   |
+bla        |Possessor indexes.  |  Argument indexes  |   Portmanteau indexes |  Switch-reference indexes  | Inependent pronouns   |
 :---------:|:-----------------: | :-----------------:| :------------------:  |:-------------------------: |:--------------------: |
 1.SG      |ʃe=                  |  a-                |          oro          |            wi              |      iʃé              |
 2.SG      |ne=                  |  ere-              |                       |            e               |      ené              | 
@@ -62,7 +62,7 @@ _kunumĩ-etá_ 'boys'
 2.PL      |                     | pe=                |                       |                            |            pe         |   
 
 
-* Nous can take the following [Cases](https://universaldependencies.org/u/feat/Case.html): `Tra`, `Loc`, `Per`, `Dat`.
+* Nouns can take the following [Cases](https://universaldependencies.org/u/feat/Case.html): `Tra`, `Loc`, `Per`, `Dat`.
 
 Case        |          Ending         |           Example            |
 :---------: | :---------------------: | :-------------------------:  |
