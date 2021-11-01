@@ -85,12 +85,19 @@ pe    | Locative                      | _tɨeɾo kwiɾo**pe**_ 'Chicha is at the
 
 * The relational markers `Rel` indicate contiguity `Rel=Cont` or non-contiguity `Rel=NCont` between a head and its dependent. That is, the relational indicates whether the possessed noun is or is not contiguous to its possessor, as exemplified below:
 
-Rel    | Form(s)   |             Example                  |
+Rel    | Form   |             Example                  |
 :-----:|:---------:| :----------------------------------: |
 Cont   | ∅     | _Konibu **ø**-ajtʃi Aɾamĩɾa_ 'Konibú's wife is Aramira'            |    
 NCont  | t | _apaɾa **t**-ep tʃopa jẽ_ 'This one sees banana's leaf'    | 
 
 * The reflexive/correferential morpheme _te_ is associated with the feature-value `Reflex=Yes`. 
+* The demonstratives can occur as noun specifiers or as predicate complements. The value is DET.
+
+```
+jẽ   kem-kɨ         jẽ   kem-kɨ=ɾom
+DET  breast-liquid  DET  breast-liquid=NEG
+'This one has breast-milk, this one doesn't have breast-milk'
+```
 
 VERBAL FEATURE
 * Verbs tend to combine with categories that denote aspect, modality, and voice.
@@ -103,7 +110,7 @@ VERBAL FEATURE
 :----: | :------: |:------: |:------: |:------: |
 |ãm|jã|toa|ko|tʃe|ka
 
-* Some verbs occur with the morpheme -*ka*, which is a transitivizer (cf. Aragon, 2014). This [feature](https://universaldependencies.org/u/feat/index.html) (`Trans`) takes the value YES if the when the morpheme is present.  Verbs that may or not combine with this morpheme take no overt object or require two obligatory arguments. 
+* Some verbs occur with the morpheme -*ka*, which is a transitivizer. This [feature](https://universaldependencies.org/u/feat/index.html) (`Trans`) takes the value YES if the when the morpheme is present.  Verbs that may or not combine with this morpheme take no overt object or require two obligatory arguments. 
 
 ## Syntax
 
