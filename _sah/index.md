@@ -103,7 +103,7 @@ Instrumental     | _аппытынан_      | _аккытынан_     | _ат�
 Comitative       | _аппытыныын_     | _аккытыныын_    | _аттапыныын_   |
 Comparative      | _аппытынааҕар_   | _аккытынааҕар_  | _аттарынааҕар_ |
 
-* Nouns that are being used as predicates take particular possession affixes, distinguished according to person and number, e.g. саха - a Yakut -> Мин сахабын - “I am a Yakut”
+* Nouns that are being used as predicates take particular possession affixes, distinguished according to person and number, e.g. саха - a Yakut -> _Мин сахабын_ - “I am a Yakut”.
 
 <b>Predication form: Singular</b>
 
