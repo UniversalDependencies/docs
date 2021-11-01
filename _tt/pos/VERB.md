@@ -24,6 +24,5 @@ Some feature assignments are ambiguous or non-trivial.
 ### Examples
 
 - _йөгер_, _аша_ "run, eat"
-- _йөгерде_, _ашады_ "run (past), ate"
+- _йөгерде_, _ашады_ "ran, ate"
 - _белдерелмәячәктер_ "It will probably not be told"
-<!-- Interlanguage links updated Pá kvě 14 11:08:26 CEST 2021 -->
