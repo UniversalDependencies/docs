@@ -40,6 +40,7 @@ udver: '2'
 * Possession is expressed by possessive suffixes, which correspond to possessive pronouns my, your, and so on. The suffixes differ according to person and number. It is often strengthenes by a personal pronoun standing in front of the noun that is in the possessive form. However, the personal pronoun of the first and the second person may be absent.
 * Certain nouns have double function of a noun and an adverb.
 * Some words that imply plurality (e.g. body parts) are often used in the singular form, preserving the meaning of the whole.
+* The form of the accusative case denotes the object that is immediately subjected to an action,
 ---
 
 ### Features
