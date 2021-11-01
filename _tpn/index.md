@@ -52,7 +52,7 @@ _kunumĩ-etá_ 'boys'
 
 * Person indexes and pronouns are given below:
 
-           |Possessor indexes.  |  Argument indexes  |   Portmanteau indexes |  Switch-reference indexes  | Inependent pronouns   |
+|Possessor indexes.  |  Argument indexes  |   Portmanteau indexes |  Switch-reference indexes  | Inependent pronouns   |
 :---------:|:-----------------: | :-----------------:| :------------------:  |:-------------------------: |:--------------------: |
 1.SG      |ʃe=                  |  a-                |          oro          |            wi              |      iʃé              |
 2.SG      |ne=                  |  ere-              |                       |            e               |      ené              | 
