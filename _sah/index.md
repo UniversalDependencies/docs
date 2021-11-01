@@ -131,11 +131,7 @@ Second   | Narrow vowels (ы, и, у, ү); й, л, р     | -гыт, -гит, -�
 Second   | к, п, с, т      | -кыт, -кит, -кут, - күт     |  |
 Second   | х     | -хыт, -хит, -хут, - хүт    |  |
 Second   | м, н, ҥ   | -ҥыт, -ҥит, -ҥут, - ҥүт  |  |
-Third    | The form of the plural   | see [Plural suffixes](#plural-suf)  | - |
-
-* Some words that imply plurality (e.g. body parts) are often used in the singular form, preserving the meaning of the whole.
-* If the subject has the plural form, the predicate takes that form as well.
-* Certain nouns have double function of a noun and an adverb.
+Third    | The form of the plural   | see [Plural suffixes](#plural-suf)  |  |
 
 * `PronTypes` are [collective](https://universaldependencies.org/u/feat/PronType.html#tot-total-collective-pronoun-determiner-or-adverb), [demonstrative](https://universaldependencies.org/u/feat/PronType.html#dem-demonstrative-pronoun-determiner-numeral-or-adverb), [indefinite](https://universaldependencies.org/u/feat/PronType.html#ind-indefinite-pronoun-determiner-numeral-or-adverb), [interrogative](https://universaldependencies.org/u/feat/PronType.html#int-interrogative-pronoun-determiner-numeral-or-adverb), [personal/possessive](https://universaldependencies.org/u/feat/PronType.html#prs-personal-or-possessive-personal-pronoun-or-determiner).
 * `NumType` distinguish [ordinal](https://universaldependencies.org/u/feat/NumType.html#ord-ordinal-number-or-corresponding-interrogative--relative--indefinite--demonstrative-word) and [cardinal](https://universaldependencies.org/u/feat/NumType.html#card-cardinal-number-or-corresponding-interrogative--relative--indefinite--demonstrative-word).
