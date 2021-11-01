@@ -98,19 +98,19 @@ o-s-epjak
 He/she/it/they see her/him/it/them
 ```
 
-Nominal phrases (NPs) semantically related to the core-arguments can appear in any order in relation to the predicate (where the core arguments are indexed):
+Nominal phrases (NPs) semantically related to the core-arguments can appear in any order in relation to the predicate (where the core arguments are indexed). This is exemplified below through the sentence _John sees Mary_:
 
-NP<sub>i</sub> NP<sub>j</sub> o<sub>i</sub>-s<sub>j</sub>-epjak   
+John Mary o<sub>i</sub>-s<sub>j</sub>-epjak   
  
-NP<sub>j</sub> NP<sub>i</sub> o<sub>i</sub>-s<sub>j</sub>-epjak  
+Mary John o<sub>i</sub>-s<sub>j</sub>-epjak  
  
-o<sub>i-</sub>-s<sub>j</sub>-epjak NP<sub>j</sub> NP<sub>i</sub>    
+o<sub>i</sub>-s<sub>j</sub>-epjak John Mary   
  
-o<sub>i-</sub>-s<sub>j</sub>-epjak NP<sub>i</sub> NP<sub>j</sub>   
+o<sub>i</sub>-s<sub>j</sub>-epjak Mary John   
  
-NP<sub>i</sub> o<sub>i</sub>-s<sub>j</sub>-epjak NP<sub>j</sub>   
+Mary o<sub>i</sub>-s<sub>j</sub>-epjak John   
  
-NP<sub>j</sub> o<sub>i</sub>-s<sub>j</sub>-epjak NP<sub>i</sub>   
+John o<sub>i</sub>-s<sub>j</sub>-epjak Mary   
 
 This is the case only when the object is third-person. For this reason the feature [Person](https://universaldependencies.org/u/feat/Person.html) takes values combining both arguments (A dn P): `Person=13`, `Person=23`, and `Person=33`. No othe combinations occur.
 
