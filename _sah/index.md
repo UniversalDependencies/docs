@@ -71,11 +71,7 @@ Comparative              | -тааҕар           | табатааҕар, ат�
 
 * Possession is expressed by suffixes, which correspond to possessive pronouns my, your, and so on. The suffixes differ according to [person](https://universaldependencies.org/u/feat/Person.html) and [number](https://universaldependencies.org/u/feat/Number.html). It is often strengthenes by a personal pronoun standing in front of the noun that is in the possessive form. However, the personal pronoun of the first and the second person may be absent.
 
-<p align="center" width="100%">
-    Possessive declension: singular
-</p>
-
-
+<b>Possessive declension: Singular</b>
 
 Case             | First Person | Second Person | Third Person |
 :--------------: | :--------:   | :-----------: |:-----------: |
@@ -90,7 +86,7 @@ Comparative      | аппынааҕар   | аккынааҕар    | атына
 
 
 
-Possessive declension: plural
+<b>Possessive declension: Plural</b>
 
 Case             | First Person   | Second Person | Third Person |
 :--------------: | :------------: | :-----------: |:-----------: |
