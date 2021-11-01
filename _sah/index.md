@@ -52,9 +52,9 @@ Mapping UPOS to Yakut XPOS
 Terminal letter of the stem  |     Form of the affix         |           Example            |
 :--------------------------: | :---------------------: | :-------------------------:  |
 Vowels and diphthongs        |  _-лар, -лэр, -лор, -лөр_ | _паарталар, кинигэлэр, оҕолор, бөрөлөр_ |
-Voiceless consonants: к, п, с, т, х| _-тар, -тэр, -тор, -төр_ | _харандаастар, түннүктэр, оһохтор_  |
-й, р  | _-дар, -дэр, -дор, - дөр_ | _сарайдар, үчүгэйдэр, томтордор_ |
-Nasal consonants: м, н, ҥ  | _-нар, -нэр, -нор, - нөр_ | _ааннар, тииҥнэр, ороннор_ |
+Voiceless consonants: _к, п, с, т, х_| _-тар, -тэр, -тор, -төр_ | _харандаастар, түннүктэр, оһохтор_  |
+_й, р_  | _-дар, -дэр, -дор, - дөр_ | _сарайдар, үчүгэйдэр, томтордор_ |
+Nasal consonants: _м, н, ҥ_  | _-нар, -нэр, -нор, - нөр_ | _ааннар, тииҥнэр, ороннор_ |
 
 
 * There are 8 `cases`: [nominative](https://universaldependencies.org/u/feat/Case.html#nom-nominative--direct), [accusative](https://universaldependencies.org/u/feat/Case.html#acc-accusative--oblique), [dative](https://universaldependencies.org/u/feat/Case.html#dat-dative), [partitive](https://universaldependencies.org/u/feat/Case.html#par-partitive), [ablative](https://universaldependencies.org/u/feat/Case.html#abl-ablative), [instrumental](https://universaldependencies.org/u/feat/Case.html#ins-instrumental--instructive), [comitative](https://universaldependencies.org/u/feat/Case.html#com-comitative--associative), [comparative](https://universaldependencies.org/u/feat/Case.html#cmp-comparative).
