@@ -76,7 +76,7 @@ Nominalizer    |       function             |    Example                        
  -_βaʔe_       | relativizer                | o-juká-βaʔe 'the one who kills'.     | 
  -_pɨr_        | passive deverbalizer       | eroβjar-(ɨ)-pɨr 'the one who must be killed'  |
  -_sar_        | agentive nominalizer       | juká-sar-a 'the killer'.             |                                
- -_saβ_        | circunstantial nominalizer | juká-saβ-a 'place/mode of killing'   |                      
+ -_saβ_        | circunstantial nominalizer | juká-saβ-a 'occasion/place/mode/instrument of killing'   |                      
  -_βor_        | habitual agent             | juká-βor 'one who often kills'       |                     
  -_(a)βo_      | gerund                     | juká-βo 'killing'                    |                   
  -_i_ ~ -_w_   | nominalized with fronted focalized adverbials  | juká-w           |                        
