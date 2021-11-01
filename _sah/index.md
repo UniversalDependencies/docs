@@ -56,6 +56,7 @@ Nasal consonants: м, н, ҥ  |-нар, -нэр, -нор, - нөр| ааннар
 
 
 * There are 8 `cases`: [nominative](https://universaldependencies.org/u/feat/Case.html#nom-nominative--direct), [accusative](https://universaldependencies.org/u/feat/Case.html#acc-accusative--oblique), [dative](https://universaldependencies.org/u/feat/Case.html#dat-dative), [partitive](https://universaldependencies.org/u/feat/Case.html#par-partitive), [ablative](https://universaldependencies.org/u/feat/Case.html#abl-ablative), [instrumental](https://universaldependencies.org/u/feat/Case.html#ins-instrumental--instructive), [comitative](https://universaldependencies.org/u/feat/Case.html#com-comitative--associative), [comparative](https://universaldependencies.org/u/feat/Case.html#cmp-comparative).
+* The form of the accusative case is used in situations, in which the object undergoing an action is understood concretely, as something known or determinated.
 
 Case                     | Form of the affix |       Examples      |
 :----------------------: | :---------------: | :-----------------: |
@@ -99,6 +100,9 @@ Instrumental     | аппытынан      | аккытынан     | аттар
 Comitative       | аппытыныын     | аккытыныын    | аттапыныын   |
 Comparative      | аппытынааҕар   | аккытынааҕар  | аттарынааҕар |
 
+* Some words that imply plurality (e.g. body parts) are often used in the singular form, preserving the meaning of the whole.
+* If the subject has the plural form, the predicate takes that form as well.
+* Certain nouns have double function of a noun and an adverb.
 * `PronTypes` are [collective](https://universaldependencies.org/u/feat/PronType.html#tot-total-collective-pronoun-determiner-or-adverb), [demonstrative](https://universaldependencies.org/u/feat/PronType.html#dem-demonstrative-pronoun-determiner-numeral-or-adverb), [indefinite](https://universaldependencies.org/u/feat/PronType.html#ind-indefinite-pronoun-determiner-numeral-or-adverb), [interrogative](https://universaldependencies.org/u/feat/PronType.html#int-interrogative-pronoun-determiner-numeral-or-adverb), [personal/possessive](https://universaldependencies.org/u/feat/PronType.html#prs-personal-or-possessive-personal-pronoun-or-determiner).
 * `NumType` distinguish [ordinal](https://universaldependencies.org/u/feat/NumType.html#ord-ordinal-number-or-corresponding-interrogative--relative--indefinite--demonstrative-word) and [cardinal](https://universaldependencies.org/u/feat/NumType.html#card-cardinal-number-or-corresponding-interrogative--relative--indefinite--demonstrative-word).
 * The following valency change devices (`voice`) are found: [passive](https://universaldependencies.org/u/feat/Voice.html#pass-passive-or-patient-focus-voice), [causative](https://universaldependencies.org/u/feat/Voice.html#cau-causative-voice), [reciprocal](https://universaldependencies.org/u/feat/Voice.html#rcp-reciprocal-voice).
@@ -109,10 +113,6 @@ Comparative      | аппытынааҕар   | аккытынааҕар  | ат
 *
 *
 * The second-person singular imperative of a verb is identical in form to the infinitive.
-* If the subject has the plural form, the predicate takes that form as well.
-* Certain nouns have double function of a noun and an adverb.
-* Some words that imply plurality (e.g. body parts) are often used in the singular form, preserving the meaning of the whole.
-* The form of the accusative case is used in situations, in which the object undergoing an action is understood concretely, as something known or determinated.
 * Adjectival determination always stands directly before the noun that is determined. It does not agree with the determinandum, and takes no affixes.
 ---
 
