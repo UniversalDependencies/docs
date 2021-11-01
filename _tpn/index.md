@@ -61,7 +61,7 @@ Person     |Possessor indexes   |  Argument indexes  |   Portmanteau indexes |  
 1.PL.EX   |       oré=          |      oro-          |          opo          |      jere-                 |             oré       |
 2.PL      |        pe=          |      pe-           |                       |        peje´               |          pe ʔẽ        |   
 
-Possessor indexes, as the name suggests, only index possessors, argument indexes are used with verbal predicates, as also are the portmanteau indexes (see below). Switch-reference indexes are used in dependent clauses with subjects coreferential with the subjects of the main clauses.
+Possessor indexes, as the name suggests, only index possessors. They are marked not marked with PronType, but they are marked as [Poss=Yes](https://universaldependencies.org/u/feat/Poss.html). Argument indexes are used with verbal predicates, as also are the portmanteau indexes (see below). Switch-reference indexes are used in dependent clauses with subjects coreferential with the subjects of the main clauses.
 
 
 * Nouns can take the following [Cases](https://universaldependencies.org/u/feat/Case.html): `Tra`, `Loc`, `Per`, `Dat`.
