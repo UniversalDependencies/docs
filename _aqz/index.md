@@ -73,15 +73,15 @@ foot-foot
 Postpostion | Function   |           Example            |
 :---------: | :---------:|:-------------------------:   |
      etʃe   | perlative  |     |    
-     ete    | comitative |     
+     ete    | comitative |    | 
      pi     |  inessive  |     |      
 
 
-Clitics.    |            Function           |           Example            |
+Clitics    |            Function           |           Example             |
 :---------: | :----------------------------:|:-------------------------:   |
-     (b)õ   | allative/dative/instrumental  |     |    
-     =(e)ɾi | comitative                    |     
-     =na    |  inessive                     |     | 
+     (b)õ   | allative/dative/instrumental  |                 |    
+     =(e)ɾi | comitative                    |                 |
+     =na    |  inessive                     |                 | 
      =pe    | locative                      |                 | 
 
 
