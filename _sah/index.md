@@ -59,7 +59,7 @@ Nasal consonants: м, н, ҥ  |-нар, -нэр, -нор, - нөр| ааннар
 
 Case                     | Form of the affix |       Examples      |
 :----------------------: | :---------------: | :-----------------: |
-Fundamental (nominative) | -                 | таба, ат            |
+Nominative               | -                 | таба, ат            |
 Partitive                | -та               | табата, атта        |
 Dative                   | -ҕа               | табаҕа, акка        |
 Accusative               | -ны (ы)           | табаны, аты         |
@@ -69,7 +69,36 @@ Comitative               | -лыын             | табалыын, аттыы�
 Comparative              | -тааҕар           | табатааҕар, аттаҕар |
 
 
-* Possession is marked by suffixes, which distinguish [person](https://universaldependencies.org/u/feat/Person.html) and [number](https://universaldependencies.org/u/feat/Number.html).
+* Possession is expressed by suffixes, which correspond to possessive pronouns my, your, and so on. The suffixes differ according to [person](https://universaldependencies.org/u/feat/Person.html) and [number](https://universaldependencies.org/u/feat/Number.html). It is often strengthenes by a personal pronoun standing in front of the noun that is in the possessive form. However, the personal pronoun of the first and the second person may be absent.
+
+Possessive declension: singular
+
+Case             | First Person | Second Person | Third Person |
+:--------------: | :--------:   | :-----------: |:-----------: |
+Nominative       | атым         | атыҥ          | ата          |
+Partitive        | -            | -             | -            |
+Dative           | аппар        | аккар         | атыгар       |
+Accusative       | аппын        | аккын         | атын         |
+Ablative         | аппыттан     | аккыттан      | атыттан      |
+Instrumental     | аппынан      | аккынан       | атынан       |
+Comitative       | аппыныын     | аккыныын      | атыныын      |
+Comparative      | аппынааҕар   | аккынааҕар    | атынааҕар    |
+
+
+
+Possessive declension: plural
+
+Case             | First Person   | Second Person | Third Person |
+:--------------: | :------------: | :-----------: |:-----------: |
+Nominative       | аппыт          | аккыт         | ата          |
+Partitive        | -              | -             | -            |
+Dative           | аппытыгар      | аккытыгар     | аттарыгар    |
+Accusative       | аппытын        | аккытын       | аттарын      |
+Ablative         | аппытыттан     | аккытыттан    | аттарыттан   |
+Instrumental     | аппытынан      | аккытынан     | аттарынан    |
+Comitative       | аппытыныын     | аккытыныын    | аттапыныын   |
+Comparative      | аппытынааҕар   | аккытынааҕар  | аттарынааҕар |
+
 * `PronTypes` are [collective](https://universaldependencies.org/u/feat/PronType.html#tot-total-collective-pronoun-determiner-or-adverb), [demonstrative](https://universaldependencies.org/u/feat/PronType.html#dem-demonstrative-pronoun-determiner-numeral-or-adverb), [indefinite](https://universaldependencies.org/u/feat/PronType.html#ind-indefinite-pronoun-determiner-numeral-or-adverb), [interrogative](https://universaldependencies.org/u/feat/PronType.html#int-interrogative-pronoun-determiner-numeral-or-adverb), [personal/possessive](https://universaldependencies.org/u/feat/PronType.html#prs-personal-or-possessive-personal-pronoun-or-determiner).
 * `NumType` distinguish [ordinal](https://universaldependencies.org/u/feat/NumType.html#ord-ordinal-number-or-corresponding-interrogative--relative--indefinite--demonstrative-word) and [cardinal](https://universaldependencies.org/u/feat/NumType.html#card-cardinal-number-or-corresponding-interrogative--relative--indefinite--demonstrative-word).
 * The following valency change devices (`voice`) are found: [passive](https://universaldependencies.org/u/feat/Voice.html#pass-passive-or-patient-focus-voice), [causative](https://universaldependencies.org/u/feat/Voice.html#cau-causative-voice), [reciprocal](https://universaldependencies.org/u/feat/Voice.html#rcp-reciprocal-voice).
@@ -81,7 +110,6 @@ Comparative              | -тааҕар           | табатааҕар, ат�
 *
 * The second-person singular imperative of a verb is identical in form to the infinitive.
 * If the subject has the plural form, the predicate takes that form as well.
-* Possession is expressed by possessive suffixes, which correspond to possessive pronouns my, your, and so on. The suffixes differ according to person and number. It is often strengthenes by a personal pronoun standing in front of the noun that is in the possessive form. However, the personal pronoun of the first and the second person may be absent.
 * Certain nouns have double function of a noun and an adverb.
 * Some words that imply plurality (e.g. body parts) are often used in the singular form, preserving the meaning of the whole.
 * The form of the accusative case is used in situations, in which the object undergoing an action is understood concretely, as something known or determinated.
