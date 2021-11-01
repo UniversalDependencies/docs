@@ -46,14 +46,20 @@ Mapping UPOS to XPOS Tupinambá
 ### Nominal Features
 
 * Tupinambá nouns are not marked for gender. Number is optionally marked by the lexical root _etá_ `(be) many'. 
+
+_kunumĩ_ 'boy / boys'  
+_kunumĩ-etá_ 'boys'
+
+* _<b>ko-pe</b>&nbsp;_ “To the countryside”
+
 * Nous can take the following [Cases](https://universaldependencies.org/u/feat/Case.html): `Tra`, `Loc`, `Per`, `Dat`.
 
-Case | Ending | Example |
-:----: | :------: | :------:|
-Translative | -(r)amo | t-uβ-amo 'as his father' |
-Locative | -pe |                      |
-Perlative | -βo | kaʔa-βo `through the forest'|
-Dative |-βe / -βo (with pronouns)| iʃé-βo, iʃéβe 'to me'|
+Case        |          Ending         |           Example            |
+:---------: | :---------------------: | :-------------------------:  |
+Translative | -(r)amo                 | t-uβ-amo 'as his father'     |
+Locative    | -pe                     | t-atá-pe 'in the fire'       |
+Perlative   | -βo                     | kaʔa-βo 'through the forest' |
+Dative      |-βe / -βo (with pronouns)| iʃé-βo, iʃéβe 'to me'        |
 
 
 * [NOUN](https://universaldependencies.org/u/pos/NOUN.html), [PROPN](https://universaldependencies.org/u/pos/PROPN.html) and [PRON](https://universaldependencies.org/u/pos/PRON.html), are not marked for [Gender](https://universaldependencies.org/u/feat/Gender.html).
