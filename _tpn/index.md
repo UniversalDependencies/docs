@@ -108,12 +108,16 @@ Nominalizer    |       function             |    Example                        
 * As a head-marking language, core arguments, are indexed on the predicate, in the order SOV as in the example below:
 
 ```
+aɲan
+a-ɲan
+1.SG-run
+'I ran/run'
+
+
+```
 osepjak 
-
 o-s-epjak
-
 3.SG(S)-3(O)-see
-
 He/she/it/they see her/him/it/them
 ```
 
