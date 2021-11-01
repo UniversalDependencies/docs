@@ -20,7 +20,7 @@ udver: '2'
 
 * Tupinambá uses 16 of the 17 universal POS categories. `ADJ` is not used since there is no separate class of adjectives.
 Stative-verbs and possessed nouns behave alike, in a way that is not possible to distinguish them morphologically
-(I am ugly / I have uglyness; ugly boy / boy with uglyness).
+(I am ugly / I have uglyness; ugly boy / boy with uglyness /(the) boy has uglyness). The fundamental distinction in Tupinambá is that between predicates and arguments (potentially referring expressions), reflected in the `NOUN`or `VERB`tags.
 
 Mapping UPOS to XPOS Tupinambá
 
@@ -45,12 +45,20 @@ Mapping UPOS to XPOS Tupinambá
 
 ### Nominal Features
 
-* Tupinambá nouns are not marked for gender. Number is optionally marked by the lexical root _etá_ .
-* Nous can take the following [Cases](https://universaldependencies.org/u/feat/Case.html): `Tra`, `Loc`, `All`, `Per`, `Dat`.
+* Tupinambá nouns are not marked for gender. Number is optionally marked by the lexical root _etá_ `(be) many'. 
+* Nous can take the following [Cases](https://universaldependencies.org/u/feat/Case.html): `Tra`, `Loc`, `Per`, `Dat`.
+
+Case | Ending | Example |
+:----: | :------: |
+Translative | -(r)amo | t-uβ-amo 'as his father' |
+Locative | -pe |
+Perlative | -βo | kaʔa-βo `through the forest'|
+Dative |-βe / -βo (with pronouns)| iʃé-βo, iʃéβe 'to me'|
+
+
 * [NOUN](https://universaldependencies.org/u/pos/NOUN.html), [PROPN](https://universaldependencies.org/u/pos/PROPN.html) and [PRON](https://universaldependencies.org/u/pos/PRON.html), are not marked for [Gender](https://universaldependencies.org/u/feat/Gender.html).
 * Personal Pronouns and Person Markers distinguish [Number](https://universaldependencies.org/u/feat/Number.html)(Singular or Plural). They also distinguish [Clusivity](https://universaldependencies.org/u/feat/Clusivity.html) in the 1<sup>st</sup> person plural.
 * The relational markers `Rel`, which indicate contiguity or non-contiguity between a head and its dependent, take respectively the following features: `Rel=Cont` and `Rel=NCont`. A third type or relational indicates that a possessor is not present, neither contiguously or non-contiguously. This relational is tagged `Rel=Abs`, for absolute. The reflexive/correferential morpheme _o_. which is often referred to as 'relational<sub>3</sub>' is associated with the feature-value `Reflex=Yes`. 
-* Tupinambá is reach in nominalizations. Lexical roots can be nominalized by suffixes that receive the following features: nominalizatin of circusntance `Nomzr=Circ` (*-saβ* 'thing, way of VERB'), passive nominalization `Nomzr=Pas`, deverbal passive nominalization `Nomzr=DevPass` (*-pɨr* 'one that is VERB past participle'), `Nomzr=Ag`(*-sar* 'the VERB-_er_').
 * Nouns may also be reduplicated in both ways denoting: plurality, collectivity, superlativity, and other semantic nuances. Numerals may also be reduplicated in order to indicate distribution.
 * Nouns are also marked for tense.
 * As an omnipredicative language, lexical roots in Tupinambá are existential predicates. In order to function as arguments, the referential marker (a  ̴ ∅), is required (marked as `Case=Ref`) despite its function being nothing like that of nominal cases.
@@ -93,7 +101,7 @@ osepjak
 
 o-s-epjak
 
-3.SG-3-see
+3.SG(S)-3(O)-see
 
 He/she/it/they see her/him/it/them
 ```
@@ -118,7 +126,7 @@ John<sub>i</sub> o<sub>i</sub>-s<sub>j</sub>-epjak Mary<sub>j</sub>
 
 
 * What has been traditionally called circunstantial mood or indicative II in some Tupí-Guaraní languages referes to a nominalization accompanied by the fronting of an adverbial expression: adverbs, adverbial expressions, postpositional phrases (oblique topicalization). The nominalized form in this case is marked by the feature-value [OblTop=Yes](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/OblTop.md).
-Transitivity is found only with third person objects.
+
 
 ### 
 
