@@ -60,7 +60,7 @@ In Tatar, `Gen` is expressed by the suffix _-ның_ or _нең_.
 
 * _Марат<b>ның</b> китабы_ "Marat<b>'s</b> book"
 * _Марат<b>ның</b> Америкага барганы бар_ "Marat has been to America" (lit. "There is Marat's going to America")
-* _Марат<b>ның>/b> китабы бар_ "Marat has a book"
+* _Марат<b>ның</b> китабы бар_ "Marat has a book"
 
 ### <a name="Loc">`Loc`</a>: locative
 
