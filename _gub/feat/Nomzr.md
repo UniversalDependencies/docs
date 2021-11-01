@@ -12,6 +12,7 @@ udver: '2'
   <td><a href="#Pas">Pas</a></td>
   <td><a href="#DevPass">DevPass</a></td>
   <td><a href="#Ag">Ag</a></td>
+  <td><a href="#Abs">Abs</a></td>
   
 
 </tr>
@@ -69,6 +70,17 @@ The nominalizer of deverbal passive is expressed with the prefix "emi"
 </tr>
 </table>
 
+### <a name="Abs">`Abs`</a>: Absolute
+
+The nominalizer is expressed with the sufix "maʔe"
+
+#### Examples
+
+* _<b>u-ze-apo-maʔe kwer</b>&nbsp;_  "what had happened"
+
+  
+</tr>
+</table>
 
 
 ## Diffs
