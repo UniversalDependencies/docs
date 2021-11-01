@@ -51,7 +51,6 @@ The affixex _-т_, _-д_, _-л_, _-н_ are added to the verb stems, which are fo
 #### Examples
 
 * _<b>үлэлээтим</b>&nbsp;_ “I worked (recently)”
-
 * _<b>аһаата</b>&nbsp;_ “He ate (recently)”
 
 The plural is used with the help of a complex suffix, to which the plural suffix -лар is added.
@@ -67,7 +66,6 @@ The past participle is formed from the stem of the verb by the affix _-быт-, 
 #### Examples
 
 * _<b>ууга түспүтүм</b>&nbsp;_ “I fell into water”
-
 * _<b>түспүт хаар</b>&nbsp;_ “Fallen snow”
 
 </tr>
