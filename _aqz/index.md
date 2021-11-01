@@ -72,9 +72,9 @@ foot-foot
 
 Postpostion | Function   |           Example        |
 :---------: | :---------:|:---------------------:   |
-     etʃe   | perlative  |     |    
-     ete    | comitative |     | 
-     pi     |  inessive  |     |      
+ etʃe       | perlative  |     |    
+ ete        | comitative |     | 
+ pi         |  inessive  |     |      
 
 
 
