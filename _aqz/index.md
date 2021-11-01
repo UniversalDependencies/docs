@@ -72,23 +72,23 @@ foot-foot
 
 Postpostion | Function   |           Example        |
 :---------: | :---------:|:---------------------:   |
- etʃe       | Perlative  | konitʃe okɨp **etʃe** 'The thorn gets **into** my leg' |    
- ete        | Comitative/Relative | tekwata Buko **ete** 'He leaves **with** Buquá'| 
- pi         | Inessive  | ojẽ **pi** õkwa 'I am washing the **interior** of my mouth'|      
+ etʃe       | Perlative  | _konitʃe okɨp **etʃe**_ 'The thorn gets **into** my leg' |    
+ ete        | Comitative/Relative | _tekwata Buko **ete**_ 'He leaves **with** Buquá'| 
+ pi         | Inessive  | _ojẽ **pi** õkwa_ 'I am washing the **interior** of my mouth'|      
 
 Clitics     |            Function           |           Example        |
 :---------: | :----------------------------:|:------------------------:|
-(b)õ   | Allative/Dative/Instrumental  | otʃipap tabɨt**õ** ka 'My grandmother went **to** the garden'             |    
-(e)ɾi | Comitative                    | ameko**ɾi** imaã 'because of the jaguar, she stores them'	|
-na    | Essive/Translative            | powpow iko**na** 'It will be owl's food (the bird that they killed) '             | 
-pe    | Locative                      | tɨeɾo kwiɾo**pe** 'Chicha is at the container'                | 
+(b)õ   | Allative/Dative/Instrumental  | _otʃipap tabɨt**õ** ka_ 'My grandmother went **to** the garden'             |    
+(e)ɾi | Comitative                    | _ameko**ɾi** imaã_ 'because of the jaguar, she stores them'	|
+na    | Essive/Translative            | _powpow iko**na**_ 'It will be owl's food (the bird that they killed) '             | 
+pe    | Locative                      | _tɨeɾo kwiɾo**pe**_ 'Chicha is at the container'                | 
 
 * The relational markers `Rel` indicate contiguity `Rel=Cont` or non-contiguity `Rel=NCont` between a head and its dependent, as exemplified below:
 
 Rel    | Form(s)   |             Example                  |
 :-----:|:---------:| :----------------------------------: |
-Cont   | ∅ ~ r     | ʃe-∅-sɨ 'I have a mother'            |    
-NCont  | i ~ s ~ t | i-sɨ-∅ 'his/her/its/their mother'    | 
+Cont   | ∅     | _Konibu **ø**-ajtʃi Aɾamĩɾa_ 'Konibú's wife is Aramira'            |    
+NCont  | t | _apaɾa **t**-ep tʃopa jẽ_ 'This one sees banana's leaf'    | 
 
 * The reflexive/correferential morpheme _te_ is associated with the feature-value `Reflex=Yes`. 
 
