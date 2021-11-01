@@ -169,8 +169,8 @@ ne=r-ub
 ```
 ```
 neruβa
-ne=r-ub-*a*
-2.SG=Cont-father-<b>Ref</b>
+ne=r-ub-__a__
+2.SG=Cont-father-__Ref__
 'My father'
 ```
 
