@@ -112,7 +112,7 @@ aɲan
 a-ɲan
 1.SG-run
 'I ran/run'
-
+```
 
 ```
 osepjak 
