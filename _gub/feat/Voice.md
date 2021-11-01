@@ -9,6 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="">Cau</a></td> 
+  <td><a href="">Com</a></td> 
 </tr>
 </table>
 
@@ -24,7 +25,13 @@ Causatives are marked by the prefix *mu-* on the verb.
 * _<b>U-mu-wɨwɨk</b>&nbsp;_ “He/She/They sew” (3-CAUS-sew)
 * _<b>u-mu-maw</b>&nbsp;_ “He/She/They cause the end" (3-CAUS-finish)
 
+### <a name="Com">`Com`</a>: comitative
 
+Comitative voice is marked by the interfix *-eru-* on the verb.
+
+#### Examples
+
+* _<b>U-era-ha</b>&nbsp;_ “He/She/They brought with them” (3-COM-go)
 
 ## Diffs
 
