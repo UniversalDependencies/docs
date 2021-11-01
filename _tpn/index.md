@@ -52,14 +52,14 @@ _kunumĩ-etá_ 'boys'
 
 * Person indexes and pronouns are given below:
 
-bla        |Possessor indexes.  |  Argument indexes  |   Portmanteau indexes |  Switch-reference indexes  | Inependent pronouns   |
+bla        |Possessor indexes   |  Argument indexes  |   Portmanteau indexes |  Switch-reference indexes  | Inependent pronouns   |
 :---------:|:-----------------: | :-----------------:| :------------------:  |:-------------------------: |:--------------------: |
-1.SG      |ʃe=                  |  a-                |          oro          |            wi              |      iʃé              |
-2.SG      |ne=                  |  ere-              |                       |            e               |      ené              | 
-3         |                     |     o-             |                       |                            |                       | 
-1.PL.IN   |                     | jané=              |                       |                            |           jané        |
-1.PL.EX   |                     | oré=               |          opo          |                            |             oré       |
-2.PL      |                     | pe=                |                       |                            |            pe         |   
+1.SG      |ʃe=                  |  a-                |          oro          |            wi-             |      iʃé              |
+2.SG      |ne=                  |  ere-              |                       |            e-              |      ené              | 
+3         |                     |     o-             |                       |        o-                  |   aʔe (demonstrative) | 
+1.PL.IN   |      jané=          |      ja-           |                       |      oro-                  |           jané        |
+1.PL.EX   |       oré=          |      oro-          |          opo          |      jere-                 |             oré       |
+2.PL      |        pe=          |                    |                       |        peje´               |          pe ʔẽ        |   
 
 
 * Nouns can take the following [Cases](https://universaldependencies.org/u/feat/Case.html): `Tra`, `Loc`, `Per`, `Dat`.
