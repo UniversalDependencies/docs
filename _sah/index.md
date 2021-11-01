@@ -51,10 +51,10 @@ Mapping UPOS to Yakut XPOS
 
 Terminal letter of the stem  |     Form of the affix         |           Example            |
 :--------------------------: | :---------------------: | :-------------------------:  |
-Vowels and diphthongs        |  -лар, -лэр, -лор, -лөр | паарталар, кинигэлэр, оҕолор, бөрөлөр |
-Voiceless consonants: к, п, с, т, х|-тар, -тэр, -тор, -төр | харандаастар, түннүктэр, оһохтор  |
-й, р  | -дар, -дэр, -дор, - дөр | сарайдар, үчүгэйдэр, томтордор |
-Nasal consonants: м, н, ҥ  |-нар, -нэр, -нор, - нөр| ааннар, тииҥнэр, ороннор |
+Vowels and diphthongs        |  _-лар, -лэр, -лор, -лөр_ | _паарталар, кинигэлэр, оҕолор, бөрөлөр_ |
+Voiceless consonants: к, п, с, т, х| _-тар, -тэр, -тор, -төр_ | _харандаастар, түннүктэр, оһохтор_  |
+й, р  | _-дар, -дэр, -дор, - дөр_ | _сарайдар, үчүгэйдэр, томтордор_ |
+Nasal consonants: м, н, ҥ  | _-нар, -нэр, -нор, - нөр_ | _ааннар, тииҥнэр, ороннор_ |
 
 
 * There are 8 `cases`: [nominative](https://universaldependencies.org/u/feat/Case.html#nom-nominative--direct), [accusative](https://universaldependencies.org/u/feat/Case.html#acc-accusative--oblique), [dative](https://universaldependencies.org/u/feat/Case.html#dat-dative), [partitive](https://universaldependencies.org/u/feat/Case.html#par-partitive), [ablative](https://universaldependencies.org/u/feat/Case.html#abl-ablative), [instrumental](https://universaldependencies.org/u/feat/Case.html#ins-instrumental--instructive), [comitative](https://universaldependencies.org/u/feat/Case.html#com-comitative--associative), [comparative](https://universaldependencies.org/u/feat/Case.html#cmp-comparative).
@@ -71,7 +71,7 @@ Accusative               | -_ны (ы)_           | _табаны, аты_      
 Ablative                 | -_ттан (-тан)_      | _табаттан, аттан_     |
 Instrumental             | -_нан (-ынан)_      | _табанан, атынан_     |
 Comitative               | -_лыын_             | _табалыын, аттыын_    |
-Comparative              | -_тааҕар_           | _табатааҕар, аттаҕарv |
+Comparative              | -_тааҕар_           | _табатааҕар, аттаҕар_ |
 
 
 * Possession is expressed by suffixes, which correspond to possessive pronouns my, your, and so on. The suffixes differ according to [person](https://universaldependencies.org/u/feat/Person.html) and [number](https://universaldependencies.org/u/feat/Number.html). It is often strengthenes by a personal pronoun standing in front of the noun that is in the possessive form. However, the personal pronoun of the first and the second person may be absent.
@@ -87,7 +87,7 @@ Accusative       | _аппын_        | _аккын_         | _атын_      
 Ablative         | _аппыттан_     | _аккыттан_      | _атыттан_      |
 Instrumental     | _аппынан_      | _аккынан_       | _атынан_       |
 Comitative       | _аппыныын_     | _аккыныын_      | _атыныын_      |
-Comparative      | _аппынааҕар_   | vаккынааҕар_    | vатынааҕар_    |
+Comparative      | _аппынааҕар_   | _аккынааҕар_    | _атынааҕар_    |
 
 
 <b>Possessive declension: Plural</b>
@@ -98,10 +98,10 @@ Nominative       | _аппыт_        | _аккыт_       | _ата_        |
 Partitive        | -              | -             | -            |
 Dative           | _аппытыгар_      | _аккытыгар_     | _аттарыгар_    |
 Accusative       | _аппытын_        | _аккытын_       | _аттарын_      |
-Ablative         | _аппытыттан_     | vаккытыттан_    | _аттарыттан_   |
+Ablative         | _аппытыттан_     | _аккытыттан_    | _аттарыттан_   |
 Instrumental     | _аппытынан_      | _аккытынан_     | _аттарынан_    |
 Comitative       | _аппытыныын_     | _аккытыныын_    | _аттапыныын_   |
-Comparative      | vаппытынааҕар_   | _аккытынааҕар_  | _аттарынааҕар_ |
+Comparative      | _аппытынааҕар_   | _аккытынааҕар_  | _аттарынааҕар_ |
 
 * Nouns that are being used as predicates take particular possession affixes, distinguished according to person and number, e.g. саха - a Yakut -> Мин сахабын - “I am a Yakut”
 
@@ -109,28 +109,28 @@ Comparative      | vаппытынааҕар_   | _аккытынааҕар_  | 
 
 Person   | Terminal letter of the stem   | Form of the affix | Example |
 :------: | :------------: | :-----------: |:-----------: |
-First    | Vowels, diphthongs; й, л, р | -бын, -бин, -бун, - бүн  | аҕа - аҕабын (I am a father), киһи - киһибин, оҕо - оҕобун     |
-First    | к, п, с, т, х               | -пын, -пин, -пун, - пүн  | ударник - ударникпын, үлэһит - үлэһиппин, оҕоһут - оҕоһуппун   |
-First    | м, н, ҥ                     | -мын, -мин, -мун, - мүн  | капитан - капитаммын, түргэн - түргэммин, агроном - агрономмун |
-Second   | Wide vowels (а, э, о, ө) and diphthongs | -ҕын, -ҕин, -ҕун, - ҕүн       | аҕа - аҕаҕын, эһэ - эһэҕин, оҕо - оҕоҕун, көнө - көнөҕүн |
-Second   | Narrow vowels (ы, и, у, ү); й, л, р     | -гын, -гин, -гун, - гүн    | сатыы - сатыыгын, киһи - киһигин, уол - уолгун, үчүгэй - үчүгэйгин |
-Second   | к, п, с, т      | -кын, -кин, -кун, - күн     | үлэһит - үлэһиккин, кыыс - кыыскын, оҕоһут - оҕоһуккун |
-Second   | х     | -хын, -хин, -хун, - хүн    | саалаах - саалааххын, тиистээх - тиистээххин, оҕолоох - оҕолооххун |
-Second   | м, н, ҥ   | -ҥын, -ҥин, -ҥун, - ҥүн  | капитан - капитаҥҥын, түргэн - түргэҥҥин, бөдөҥ - бөдөҥҥүн |
+First    | Vowels, diphthongs; _й, л, р_ | _-бын, -бин, -бун, - бүн_  | _аҕа - аҕабын (I am a father), киһи - киһибин, оҕо - оҕобун_     |
+First    | _к, п, с, т, х_               | _-пын, -пин, -пун, - пүн_  | _ударник - ударникпын, үлэһит - үлэһиппин, оҕоһут - оҕоһуппун_   |
+First    | _м, н, ҥ_                     | _-мын, -мин, -мун, - мүн_  | _капитан - капитаммын, түргэн - түргэммин, агроном - агрономмун_ |
+Second   | Wide vowels _(а, э, о, ө)_ and diphthongs | _-ҕын, -ҕин, -ҕун, - ҕүн_       | _аҕа - аҕаҕын, эһэ - эһэҕин, оҕо - оҕоҕун, көнө - көнөҕүн |
+Second   | Narrow vowels _(ы, и, у, ү); й, л, р_     | _-гын, -гин, -гун, - гүн_    | _сатыы - сатыыгын, киһи - киһигин, уол - уолгун, үчүгэй - үчүгэйгин_ |
+Second   | _к, п, с, т_      | _-кын, -кин, -кун, - күн_     | _үлэһит - үлэһиккин, кыыс - кыыскын, оҕоһут - оҕоһуккун_ |
+Second   | _х_     | _-хын, -хин, -хун, - хүн_    | _саалаах - саалааххын, тиистээх - тиистээххин, оҕолоох - оҕолооххун_ |
+Second   | _м, н, ҥ_   | _-ҥын, -ҥин, -ҥун, - ҥүн_  | _капитан - капитаҥҥын, түргэн - түргэҥҥин, бөдөҥ - бөдөҥҥүн_ |
 Third    | -   | -  | - |
 
 <b>Predication form: Plural</b>
 
 Person   | Terminal letter of the stem   | Form of the affix | Example |
 :------: | :------------: | :-----------: |:-----------: |
-First    | Vowels, diphthongs; й, л, р | -быт, -бит, -бут, - бүт  |      |
-First    | к, п, с, т, х               | -пыт, -пит, -пут, - пүт  |    |
-First    | м, н, ҥ                     | -мыт, -мит, -мут, - мүт  |  |
-Second   | Wide vowels (а, э, о, ө) and diphthongs | -ҕыт, -ҕит, -ҕут, - ҕүт       |  |
-Second   | Narrow vowels (ы, и, у, ү); й, л, р     | -гыт, -гит, -гут, -гүт    |  |
-Second   | к, п, с, т      | -кыт, -кит, -кут, - күт     |  |
-Second   | х     | -хыт, -хит, -хут, - хүт    |  |
-Second   | м, н, ҥ   | -ҥыт, -ҥит, -ҥут, - ҥүт  |  |
+First    | Vowels, diphthongs: _й, л, р_ | _-быт, -бит, -бут, - бүт_  |      |
+First    | _к, п, с, т, х_               | _-пыт, -пит, -пут, - пүт_  |    |
+First    | _м, н, ҥ _                    | _-мыт, -мит, -мут, - мүт_  |  |
+Second   | Wide vowels _(а, э, о, ө)_ and diphthongs | _-ҕыт, -ҕит, -ҕут, - ҕүт_       |  |
+Second   | Narrow vowels _(ы, и, у, ү); й, л, р_     | _-гыт, -гит, -гут, -гүт_    |  |
+Second   | _к, п, с, т_      | _-кыт, -кит, -кут, - күт_     |  |
+Second   | _х_     | _-хыт, -хит, -хут, - хүт_    |  |
+Second   | _м, н, ҥ_   | _-ҥыт, -ҥит, -ҥут, - ҥүт_  |  |
 Third    | The form of the plural   | see [Plural suffixes](#plural-suf)  |  |
 
 * `PronTypes` are [collective](https://universaldependencies.org/u/feat/PronType.html#tot-total-collective-pronoun-determiner-or-adverb), [demonstrative](https://universaldependencies.org/u/feat/PronType.html#dem-demonstrative-pronoun-determiner-numeral-or-adverb), [indefinite](https://universaldependencies.org/u/feat/PronType.html#ind-indefinite-pronoun-determiner-numeral-or-adverb), [interrogative](https://universaldependencies.org/u/feat/PronType.html#int-interrogative-pronoun-determiner-numeral-or-adverb), [personal/possessive](https://universaldependencies.org/u/feat/PronType.html#prs-personal-or-possessive-personal-pronoun-or-determiner).
