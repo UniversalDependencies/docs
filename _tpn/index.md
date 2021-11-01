@@ -50,8 +50,6 @@ Mapping UPOS to XPOS Tupinambá
 _kunumĩ_ 'boy / boys'  
 _kunumĩ-etá_ 'boys'
 
-* _<b>ko-pe</b>&nbsp;_ “To the countryside”
-
 * Nous can take the following [Cases](https://universaldependencies.org/u/feat/Case.html): `Tra`, `Loc`, `Per`, `Dat`.
 
 Case        |          Ending         |           Example            |
@@ -62,9 +60,19 @@ Perlative   | -βo                     | kaʔa-βo 'through the forest' |
 Dative      |-βe / -βo (with pronouns)| iʃé-βo, iʃéβe 'to me'        |
 
 
-* [NOUN](https://universaldependencies.org/u/pos/NOUN.html), [PROPN](https://universaldependencies.org/u/pos/PROPN.html) and [PRON](https://universaldependencies.org/u/pos/PRON.html), are not marked for [Gender](https://universaldependencies.org/u/feat/Gender.html).
-* Personal Pronouns and Person Markers distinguish [Number](https://universaldependencies.org/u/feat/Number.html)(Singular or Plural). They also distinguish [Clusivity](https://universaldependencies.org/u/feat/Clusivity.html) in the 1<sup>st</sup> person plural.
-* The relational markers `Rel`, which indicate contiguity or non-contiguity between a head and its dependent, take respectively the following features: `Rel=Cont` and `Rel=NCont`. A third type or relational indicates that a possessor is not present, neither contiguously or non-contiguously. This relational is tagged `Rel=Abs`, for absolute. The reflexive/correferential morpheme _o_. which is often referred to as 'relational<sub>3</sub>' is associated with the feature-value `Reflex=Yes`. 
+* Personal Pronouns and argument indexes distinguish [Number](https://universaldependencies.org/u/feat/Number.html)(Singular or Plural). They also distinguish [Clusivity](https://universaldependencies.org/u/feat/Clusivity.html) in the 1<sup>st</sup> person plural.
+
+* The relational markers `Rel`, which indicate contiguity or non-contiguity between a head and its dependent, take respectively the following features: `Rel=Cont` and `Rel=NCont`. A third type or relational, `Rel=Abs`, indicates that obligatorily possessed noun is given without reference to a possessor. The reflexive/correferential morpheme _o_. which is often referred to as 'relational<sub>3</sub>' is associated with the feature-value `Reflex=Yes`. Another relational `Rel=Hum`indicates that the possessor is human. These are shown below:
+
+Rel    | Form(s)   |             Example                  |
+:-----:|:---------:| :----------------------------------: |
+Cont   | ∅ ~ r     | ʃe-∅-sɨ 'I have a mother'            |    
+NCont  | i ~ s ~ t | i-sɨ-∅ 'his/her/its/their mother'    |
+Abs    | t ~ m     | t-oʔo  'his (human) flesh            |
+Corf   |   o       | o-sɨ-∅ 'his/her/its/their own mother'| 
+
+
+
 * Nouns may also be reduplicated in both ways denoting: plurality, collectivity, superlativity, and other semantic nuances. Numerals may also be reduplicated in order to indicate distribution.
 * Nouns are also marked for tense.
 * As an omnipredicative language, lexical roots in Tupinambá are existential predicates. In order to function as arguments, the referential marker (a  ̴ ∅), is required (marked as `Case=Ref`) despite its function being nothing like that of nominal cases.
