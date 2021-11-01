@@ -74,7 +74,7 @@ Nominalizer    |       function             |    Example                        
 :------------: | :------------------------: |:----------------------:              |
  _(e)mi_-         | passive deverbalizer    | t-emi-juka 'what is killed'.      |
  -_βaʔe_       | relativizer                | o-juká-βaʔe 'the one who kills'.     | 
- -_pɨr_        | passive deverbalizer       | eroβjar-(ɨ)-pɨr 'the one who must be killed'  |
+ -_pɨr_        | passive deverbalizer       | i-juká-pɨr 'the one who must be killed'  |
  -_sar_        | agentive nominalizer       | juká-sar-a 'the killer'.             |                                
  -_saβ_        | circunstantial nominalizer | juká-saβ-a 'occasion/place/mode/instrument of killing'   |                      
  -_βor_        | habitual agent             | juká-βor 'one who often kills'       |                     
