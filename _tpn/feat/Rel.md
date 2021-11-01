@@ -47,15 +47,14 @@ Non-contiguity is more often associated with
 
 ### <a name="Hum">`Hum`</a>: absolute
 
-Abslute relational indicates that the possessor
+Huma relational indicates that the possessor
 
 #### Examples
 
-* _<b>t-uβ</b>&nbsp;_ “(There is a) (someone's)  father / ”
-* _<b>t-uβ-a</b>&nbsp;_ “A/the father(s)”
-
-* _<b>s-orɨβ</b>&nbsp;_ “(There is a) (someone's) happiness”
-* _<b>s-orɨβ-a</b>&nbsp;_ “Someone's happiness”
+* _<b>m</b>osanga &nbsp;_ “medicine (of people)”
+* _<b></b>posanga &nbsp;_ “medicine”
+* _<b>t</b>oʔo &nbsp;_ “flesh (human)”
+* * _<b>s</b>oʔo &nbsp;_ “flesh (non-human)”
 
 
 ### <a name="Corf">`Corf`</a>: human
@@ -64,8 +63,8 @@ Abslute relational indicates that the possessor
 
 #### Examples
 
-* _<b>m</b>osanga &nbsp;_ “medicine (of people)”
-* _<b></b>posanga &nbsp;_ “medicine”
+* _<b>i</b>sɨ &nbsp;_ “his mother”
+* _<b>o</b>sɨ &nbsp;_ “his own mother”
 
 
 ## Diffs
