@@ -11,6 +11,7 @@ udver: '2'
   <td><a href="#Pres">Pres</a></td>
   <td><a href="#Fut">Fut</a></td>
   <td><a href="#NearPast">NearPast</a></td>
+  <td><a href="#PastPart">PastPart</a></td>
   
 </tr>
 </table>
@@ -55,6 +56,19 @@ The affixex _-т_, _-д_, _-л_, _-н_ are added to the verb stems, which are fo
 
 The plural is used with the help of a complex suffix, to which the plural suffix -лар is added.
 * _<b>оонньотулар</b>&nbsp;_ “They played (recently)”
+
+</tr>
+</table>
+
+### <a name="PastPart">`PastPart`</a>: Past Participle
+
+The past participle is formed from the stem of the verb by the affix _-быт-, _-пыт_, _-мыт_ .
+
+#### Examples
+
+* _<b>ууга түспүтүм</b>&nbsp;_ “I fell into water”
+
+* _<b>түспүт хаар</b>&nbsp;_ “Fallen snow”
 
 </tr>
 </table>
