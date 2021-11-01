@@ -47,6 +47,8 @@ Mapping UPOS to XPOS Yakut
 * `Number` is marked with a [sing](https://universaldependencies.org/u/feat/Number.html#sing-singular-number)-[plur](https://universaldependencies.org/u/feat/Number.html#plur-plural-number) distinction.
 * The plural suffix -лар is used for both nouns and adjectives. The suffix yields 16 variants.
 
+<b>Table of plural suffixes </b> <a name="plural-suf"></a>
+
 Terminal letter of the stem  |     Form of the affix         |           Example            |
 :--------------------------: | :---------------------: | :-------------------------:  |
 Vowels and diphthongs        |  -лар, -лэр, -лор, -лөр | паарталар, кинигэлэр, оҕолор, бөрөлөр |
@@ -57,6 +59,8 @@ Nasal consonants: м, н, ҥ  |-нар, -нэр, -нор, - нөр| ааннар
 
 * There are 8 `cases`: [nominative](https://universaldependencies.org/u/feat/Case.html#nom-nominative--direct), [accusative](https://universaldependencies.org/u/feat/Case.html#acc-accusative--oblique), [dative](https://universaldependencies.org/u/feat/Case.html#dat-dative), [partitive](https://universaldependencies.org/u/feat/Case.html#par-partitive), [ablative](https://universaldependencies.org/u/feat/Case.html#abl-ablative), [instrumental](https://universaldependencies.org/u/feat/Case.html#ins-instrumental--instructive), [comitative](https://universaldependencies.org/u/feat/Case.html#com-comitative--associative), [comparative](https://universaldependencies.org/u/feat/Case.html#cmp-comparative).
 * The form of the accusative case is used in situations, in which the object undergoing an action is understood concretely, as something known or determinated.
+
+<b>Table of cases</b>
 
 Case                     | Form of the affix |       Examples      |
 :----------------------: | :---------------: | :-----------------: |
@@ -105,15 +109,29 @@ Comparative      | аппытынааҕар   | аккытынааҕар  | ат
 
 Person   | Terminal letter of the stem   | Form of the affix | Example |
 :------: | :------------: | :-----------: |:-----------: |
-First    | 1. Vowels, diphthongs; й, л, р | -бын, -бин, -бун, - бүн  | аҕа - аҕабын (I am a father), киһи - киһибин, оҕо - оҕобун     |
-First    | 2. к, п, с, т, х               | -пын, -пин, -пун, - пүн  | ударник - ударникпын, үлэһит - үлэһиппин, оҕоһут - оҕоһуппун   |
-First    | 3. м, н, ҥ                     | -мын, -мин, -мун, - мүн  | капитан - капитаммын, түргэн - түргэммин, агроном - агрономмун |
-Second   | 1. Wide vowels (а, э, о, ө) and diphthongs | -ҕын, -ҕин, -ҕун, - ҕүн       | аҕа - аҕаҕын, эһэ - эһэҕин, оҕо - оҕоҕун, көнө - көнөҕүн |
-Second   | 2. Narrow vowels (ы, и, у, ү); й, л, р     | -гын, -гин, -гун, - гүн    | сатыы - сатыыгын, киһи - киһигин, уол - уолгун, үчүгэй - үчүгэйгин |
-Second   | 3. к, п, с, т      | -кын, -кин, -кун, - күн     | үлэһит - үлэһиккин, кыыс - кыыскын, оҕоһут - оҕоһуккун |
-Second   | 4. х     | -хын, -хин, -хун, - хүн    | саалаах - саалааххын, тиистээх - тиистээххин, оҕолоох - оҕолооххун |
-Second   | 5. м, н, ҥ   | -ҥын, -ҥин, -ҥун, - ҥүн  | капитан - капитаҥҥын, түргэн - түргэҥҥин, бөдөҥ - бөдөҥҥүн |
+First    | Vowels, diphthongs; й, л, р | -бын, -бин, -бун, - бүн  | аҕа - аҕабын (I am a father), киһи - киһибин, оҕо - оҕобун     |
+First    | к, п, с, т, х               | -пын, -пин, -пун, - пүн  | ударник - ударникпын, үлэһит - үлэһиппин, оҕоһут - оҕоһуппун   |
+First    | м, н, ҥ                     | -мын, -мин, -мун, - мүн  | капитан - капитаммын, түргэн - түргэммин, агроном - агрономмун |
+Second   | Wide vowels (а, э, о, ө) and diphthongs | -ҕын, -ҕин, -ҕун, - ҕүн       | аҕа - аҕаҕын, эһэ - эһэҕин, оҕо - оҕоҕун, көнө - көнөҕүн |
+Second   | Narrow vowels (ы, и, у, ү); й, л, р     | -гын, -гин, -гун, - гүн    | сатыы - сатыыгын, киһи - киһигин, уол - уолгун, үчүгэй - үчүгэйгин |
+Second   | к, п, с, т      | -кын, -кин, -кун, - күн     | үлэһит - үлэһиккин, кыыс - кыыскын, оҕоһут - оҕоһуккун |
+Second   | х     | -хын, -хин, -хун, - хүн    | саалаах - саалааххын, тиистээх - тиистээххин, оҕолоох - оҕолооххун |
+Second   | м, н, ҥ   | -ҥын, -ҥин, -ҥун, - ҥүн  | капитан - капитаҥҥын, түргэн - түргэҥҥин, бөдөҥ - бөдөҥҥүн |
 Third    | -   | -  | - |
+
+<b>Predication form: Plural</b>
+
+Person   | Terminal letter of the stem   | Form of the affix | Example |
+:------: | :------------: | :-----------: |:-----------: |
+First    | Vowels, diphthongs; й, л, р | -быт, -бит, -бут, - бүт  |      |
+First    | к, п, с, т, х               | -пыт, -пит, -пут, - пүт  |    |
+First    | м, н, ҥ                     | -мыт, -мит, -мут, - мүт  |  |
+Second   | Wide vowels (а, э, о, ө) and diphthongs | -ҕыт, -ҕит, -ҕут, - ҕүт       |  |
+Second   | Narrow vowels (ы, и, у, ү); й, л, р     | -гыт, -гит, -гут, -гүт    |  |
+Second   | к, п, с, т      | -кыт, -кит, -кут, - күт     |  |
+Second   | х     | -хыт, -хит, -хут, - хүт    |  |
+Second   | м, н, ҥ   | -ҥыт, -ҥит, -ҥут, - ҥүт  |  |
+Third    | The form of the plural   | see [Plural suffixes](#plural-suf)  | - |
 
 * Some words that imply plurality (e.g. body parts) are often used in the singular form, preserving the meaning of the whole.
 * If the subject has the plural form, the predicate takes that form as well.
@@ -152,3 +170,4 @@ There is 1 Yakut UD treebank:
   * [Yakut-A](https://github.com/UniversalDependencies/UD_Yakut-YKTDT)
 
 ---
+
