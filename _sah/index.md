@@ -161,12 +161,13 @@ Third    | The form of the plural   | see [Plural suffixes](#plural-suf)  |  |
 Уол кинигэ-ни ааҕ-ар
 boy book-ACC  read.PRES-3.SG
 'A boy reads the book'
+```
 
+```
 Уол кинигэ ааҕар
 Уол кинигэ ааҕ-ар
 boy book.NOM read.PRES-3.SG
 'A boy reads a book'
-
 ```
 
 * The following valency change devices (`voice`) are found: [passive](https://universaldependencies.org/u/feat/Voice.html#pass-passive-or-patient-focus-voice), [causative](https://universaldependencies.org/u/feat/Voice.html#cau-causative-voice), [reciprocal](https://universaldependencies.org/u/feat/Voice.html#rcp-reciprocal-voice).
