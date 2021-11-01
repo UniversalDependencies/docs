@@ -65,7 +65,7 @@ Accusative               | -ны (ы)           | табаны, аты         |
 Ablative                 | -ттан (-тан)      | табаттан, аттан     |
 Instrumental             | -нан (-ынан)      | табанан, атынан     |
 Comitative               | -лыын             | табалыын, аттыын    |
-[Comparative](https://universaldependencies.org/u/feat/Case.html#cmp-comparative)              | -тааҕар           | табатааҕар, аттаҕар |
+Comparative              | -тааҕар           | табатааҕар, аттаҕар |
 
 
 
