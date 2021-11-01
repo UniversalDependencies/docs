@@ -134,7 +134,8 @@ Mary<sub>j</sub> o<sub>i</sub>-s<sub>j</sub>-epjak John<sub>i</sub>
  
 John<sub>i</sub> o<sub>i</sub>-s<sub>j</sub>-epjak Mary<sub>j</sub>   
 
-* The object of transitive verbs is always indexed by `Rel=Ncont`. Tupinambá has transitive verbs only when third objects are person. In the other cases a predicative possession is used. When the objetc is third person, the feature [Person](https://universaldependencies.org/u/feat/Person.html) takes values combining both arguments (S and O): `Person=13`, `Person=23`, and `Person=33`. No othe combinations occur.
+* The object of transitive verbs is always indexed by `Rel=Ncont`. Tupinambá has transitive verbs only when objects are third person. In the other cases a predicative possession is used. When the objetc is third person, the feature [Person](https://universaldependencies.org/u/feat/Person.html) takes values combining both arguments (S and O): `Person=13`, `Person=23`, and `Person=33`. 
+* Other combinations of indexes are possible in the case of 1 &#8594; 2. Two portmanteau pronouns are available: _oro_- 1.SG &#8594; 2, and _oro_- 1.PL &#8594; 1:
 
 * The dependency linking the core arguments with the NPs semantically related to the core-arguments are `obl`([oblique](https://universaldependencies.org/u/dep/obl.html)).
 
