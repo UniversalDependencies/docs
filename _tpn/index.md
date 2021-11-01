@@ -68,7 +68,7 @@ Rel    | Form(s)   |             Example                  |
 :-----:|:---------:| :----------------------------------: |
 Cont   | ∅ ~ r     | ʃe-∅-sɨ 'I have a mother'            |    
 NCont  | i ~ s ~ t | i-sɨ-∅ 'his/her/its/their mother'    |
-Abs    | t ~ m     | t-oʔo  'his (human) flesh            |
+Abs    | t ~ m     | t-oʔo  'his/her/their (human) flesh' |
 Corf   |   o       | o-sɨ-∅ 'his/her/its/their own mother'| 
 
 
