@@ -56,9 +56,10 @@ Nasal consonants: м, н, ҥ  |-нар, -нэр, -нор, - нөр| ааннар
 
 
 * There are 8 `cases`: [nominative](https://universaldependencies.org/u/feat/Case.html#nom-nominative--direct), [accusative](https://universaldependencies.org/u/feat/Case.html#acc-accusative--oblique), [dative](https://universaldependencies.org/u/feat/Case.html#dat-dative), [partitive](https://universaldependencies.org/u/feat/Case.html#par-partitive), [ablative](https://universaldependencies.org/u/feat/Case.html#abl-ablative), [instrumental](https://universaldependencies.org/u/feat/Case.html#ins-instrumental--instructive), [comitative](https://universaldependencies.org/u/feat/Case.html#com-comitative--associative), [comparative](https://universaldependencies.org/u/feat/Case.html#cmp-comparative).
-Case                     | Form of the affix | Examples            |
-:----------------------: | :----------:      | :----------------:  |
-Fundamental (nominative) |                   | таба, ат            |
+
+Case                     | Form of the affix |       Examples      |
+:----------------------: | :---------------: | :-----------------: |
+Fundamental (nominative) | -                 | таба, ат            |
 Partitive                | -та               | табата, атта        |
 Dative                   | -ҕа               | табаҕа, акка        |
 Accusative               | -ны (ы)           | табаны, аты         |
@@ -66,7 +67,6 @@ Ablative                 | -ттан (-тан)      | табаттан, атта
 Instrumental             | -нан (-ынан)      | табанан, атынан     |
 Comitative               | -лыын             | табалыын, аттыын    |
 Comparative              | -тааҕар           | табатааҕар, аттаҕар |
-
 
 
 * Possession is marked by suffixes, which distinguish [person](https://universaldependencies.org/u/feat/Person.html) and [number](https://universaldependencies.org/u/feat/Number.html).
