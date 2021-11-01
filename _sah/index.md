@@ -49,13 +49,26 @@ Mapping UPOS to XPOS Yakut
 
 Terminal letter of the stem  |     Form of the affix         |           Example            |
 :--------------------------: | :---------------------: | :-------------------------:  |
-Vowels and diphthongs        |  -лар, -лэр, -лор | паарталар, кинигэлэр, оҕолор, бөрөлөр |
+Vowels and diphthongs        |  -лар, -лэр, -лор, -лөр | паарталар, кинигэлэр, оҕолор, бөрөлөр |
 Voiceless consonants: к, п, с, т, х|-тар, -тэр, -тор, -төр | харандаастар, түннүктэр, оһохтор  |
 й, р  | -дар, -дэр, -дор, - дөр | сарайдар, үчүгэйдэр, томтордор |
 Nasal consonants: м, н, ҥ  |-нар, -нэр, -нор, - нөр| ааннар, тииҥнэр, ороннор |
 
 
 * There are 8 `cases`: [nominative](https://universaldependencies.org/u/feat/Case.html#nom-nominative--direct), [accusative](https://universaldependencies.org/u/feat/Case.html#acc-accusative--oblique), [dative](https://universaldependencies.org/u/feat/Case.html#dat-dative), [partitive](https://universaldependencies.org/u/feat/Case.html#par-partitive), [ablative](https://universaldependencies.org/u/feat/Case.html#abl-ablative), [instrumental](https://universaldependencies.org/u/feat/Case.html#ins-instrumental--instructive), [comitative](https://universaldependencies.org/u/feat/Case.html#com-comitative--associative), [comparative](https://universaldependencies.org/u/feat/Case.html#cmp-comparative).
+Case                     | Form of the affix | Examples            |
+:----------------------: | :----------:      | :----------------:  |
+Fundamental (nominative) |                   | таба, ат            |
+Partitive                | -та               | табата, атта        |
+Dative                   | -ҕа               | табаҕа, акка        |
+Accusative               | -ны (ы)           | табаны, аты         |
+Ablative                 | -ттан (-тан)      | табаттан, аттан     |
+Instrumental             | -нан (-ынан)      | табанан, атынан     |
+Comitative               | -лыын             | табалыын, аттыын    |
+[Comparative](https://universaldependencies.org/u/feat/Case.html#cmp-comparative)              | -тааҕар           | табатааҕар, аттаҕар |
+
+
+
 * Possession is marked by suffixes, which distinguish [person](https://universaldependencies.org/u/feat/Person.html) and [number](https://universaldependencies.org/u/feat/Number.html).
 * `PronTypes` are [collective](https://universaldependencies.org/u/feat/PronType.html#tot-total-collective-pronoun-determiner-or-adverb), [demonstrative](https://universaldependencies.org/u/feat/PronType.html#dem-demonstrative-pronoun-determiner-numeral-or-adverb), [indefinite](https://universaldependencies.org/u/feat/PronType.html#ind-indefinite-pronoun-determiner-numeral-or-adverb), [interrogative](https://universaldependencies.org/u/feat/PronType.html#int-interrogative-pronoun-determiner-numeral-or-adverb), [personal/possessive](https://universaldependencies.org/u/feat/PronType.html#prs-personal-or-possessive-personal-pronoun-or-determiner).
 * `NumType` distinguish [ordinal](https://universaldependencies.org/u/feat/NumType.html#ord-ordinal-number-or-corresponding-interrogative--relative--indefinite--demonstrative-word) and [cardinal](https://universaldependencies.org/u/feat/NumType.html#card-cardinal-number-or-corresponding-interrogative--relative--indefinite--demonstrative-word).
