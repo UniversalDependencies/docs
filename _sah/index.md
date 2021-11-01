@@ -41,6 +41,7 @@ udver: '2'
 * Certain nouns have double function of a noun and an adverb.
 * Some words that imply plurality (e.g. body parts) are often used in the singular form, preserving the meaning of the whole.
 * The form of the accusative case is used in situations, in which the object undergoing an action is understood concretely, as something known or determinated.
+* Adjectival determination always stands directly before the noun that is determined. It does not agree with the determinandum, and takes no affixes.
 ---
 
 ### Features
