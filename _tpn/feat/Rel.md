@@ -10,8 +10,8 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Cont">Cont</a></td>
   <td><a href="#NCont">NCont</a></td>
-  <td><a href="#Hum">Abs</a></td>
-  <td><a href="#Corf">Hum</a></td>
+  <td><a href="#Hum">Hum</a></td>
+  <td><a href="#Corf">Corf</a></td>
   
   
 </tr>
