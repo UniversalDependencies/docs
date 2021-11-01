@@ -56,6 +56,25 @@ Mapping UPOS to XPOS Tupinambá
 * Nouns may also be reduplicated in both ways denoting emphasis. 
 * Nouns can be also marked for past tense.
 
+
+### Nominalizers
+
+### Nominalizers
+
+Guajajara has many nominalizers with different functions. All but 
+
+Nominalizer    |       function            |     Example                           |
+:------------: | :------------------------:|:----------------------:              |
+ _(e)mi_-      |    passive deverbalizer    | h-emi-eka 'what is expected/waited for'.         |
+ -_maʔe_       | relativizer                | u-zegar-maʔe 'the one who sings'.     | 
+ -_pɨr_        | passive deverbalizer       | i-zuká-pɨr 'the one who must be killed'  |
+ -_har_        | agentive nominalizer       | i-zàn-har 'the one who runs'.             |                                
+ -_haw_        | circunstantial nominalizer | i-ker-haw 'occasion/place/mode/instrument of sleeping'   |                      
+               
+                  
+  
+
+
 ### Verbal Features
 * Verbs are marked for [aspect](https://github.com/UniversalDependencies/docs/blob/pages-source/_gub/feat/Aspect.md): `Prog` (Progressive).
 * Verbs are also marked for [mood](https://github.com/UniversalDependencies/docs/blob/pages-source/_gub/feat/Mood.md): `Imp` (Imperative).
