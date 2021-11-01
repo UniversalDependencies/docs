@@ -53,7 +53,7 @@ The affixex _-т_, _-д_, _-л_, _-н_ are added to the verb stems, which are fo
 * _<b>үлэлээтим</b>&nbsp;_ “I worked (recently)”
 * _<b>аһаата</b>&nbsp;_ “He ate (recently)”
 
-The plural is used with the help of a complex suffix, to which the plural suffix -лар is added.
+The plural is used with the help of a complex suffix, to which the plural suffix _-лар_ is added.
 * _<b>оонньотулар</b>&nbsp;_ “They played (recently)”
 
 </tr>
@@ -61,7 +61,7 @@ The plural is used with the help of a complex suffix, to which the plural suffix
 
 ### <a name="PastPart">`PastPart`</a>: Past Participle
 
-The past participle is formed from the stem of the verb by the affix _-быт-, _-пыт_, _-мыт_ .
+The past participle is formed from the stem of the verb by the affix _-быт_, _-пыт_, _-мыт_ .
 
 #### Examples
 
