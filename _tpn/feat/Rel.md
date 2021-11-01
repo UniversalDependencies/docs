@@ -10,8 +10,8 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Cont">Cont</a></td>
   <td><a href="#NCont">NCont</a></td>
-  <td><a href="#Abs">Abs</a></td>
-  <td><a href="#Hum">Hum</a></td>
+  <td><a href="#Hum">Abs</a></td>
+  <td><a href="#Corf">Hum</a></td>
   
   
 </tr>
@@ -45,7 +45,7 @@ Non-contiguity is more often associated with
 * _<b>s-orɨβ</b>&nbsp;_ “(S)he/it is happy / there is her/his/its/their happiness”
 * _<b>s-orɨβ-a</b>&nbsp;_ “Her/his/their/its happiness”
 
-### <a name="Abs">`Abs`</a>: absolute
+### <a name="Hum">`Hum`</a>: absolute
 
 Abslute relational indicates that the possessor
 
@@ -58,7 +58,7 @@ Abslute relational indicates that the possessor
 * _<b>s-orɨβ-a</b>&nbsp;_ “Someone's happiness”
 
 
-### <a name="Hum">`Hum`</a>: human
+### <a name="Corf">`Corf`</a>: human
 
 Abslute relational indicates that the possessor
 
