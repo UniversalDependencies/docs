@@ -72,29 +72,25 @@ foot-foot
 
 Postpostion | Function   |           Example        |
 :---------: | :---------:|:---------------------:   |
- etʃe       | perlative  |     |    
- ete        | comitative |     | 
- pi         |  inessive  |     |      
-
+ etʃe       | Perlative  | konitʃe okɨp **etʃe** 'The thorn gets **into** my leg' |    
+ ete        | Comitative/Relative | tekwata Buko **ete** 'He leaves **with** Buquá'| 
+ pi         | Inessive  | ojẽ **pi** õkwa 'I am washing the **interior** of my mouth'|      
 
 Clitics     |            Function           |           Example        |
 :---------: | :----------------------------:|:------------------------:|
-(b)õ   | allative/dative/instrumental  |                 |    
-=(e)ɾi | comitative                    |                 |
-=na    |  inessive                     |                 | 
-=pe    | locative                      |                 | 
+(b)õ   | Allative/Dative/Instrumental  | otʃipap tabɨt**õ** ka 'My grandmother went **to** the garden'             |    
+(e)ɾi | Comitative                    | ameko**ɾi** imaã 'because of the jaguar, she stores them'	|
+na    | Essive/Translative            | powpow iko**na** 'It will be owl's food (the bird that they killed) '             | 
+pe    | Locative                      | tɨeɾo kwiɾo**pe** 'Chicha is at the container'                | 
 
-
-
-* The relational markers `Rel`, which indicate contiguity or non-contiguity between a head and its dependent, take respectively the following features: `Rel=Cont` and `Rel=NCont`. A third type or relational, `Rel=HUM`, indicates that obligatorily possessed noun is given without reference to a possessor at the same time marking the possessor as human. The reflexive/correferential morpheme _o_. which is often referred to as 'relational<sub>3</sub>' is associated with the feature-value `Reflex=Yes`. Another relational `Rel=Hum`indicates that the possessor is human. These are shown below:
+* The relational markers `Rel` indicate contiguity `Rel=Cont` or non-contiguity `Rel=NCont` between a head and its dependent, as exemplified below:
 
 Rel    | Form(s)   |             Example                  |
 :-----:|:---------:| :----------------------------------: |
 Cont   | ∅ ~ r     | ʃe-∅-sɨ 'I have a mother'            |    
-NCont  | i ~ s ~ t | i-sɨ-∅ 'his/her/its/their mother'    |
-Abs    | t ~ m     | t-oʔo  'his/her/their (human) flesh' |
-Corf   |   o       | o-sɨ-∅ 'his/her/its/their own mother'| 
+NCont  | i ~ s ~ t | i-sɨ-∅ 'his/her/its/their mother'    | 
 
+* The reflexive/correferential morpheme _te_ is associated with the feature-value `Reflex=Yes`. 
 
 VERBAL FEATURE
 * Verbs tend to combine with categories that denote aspect, modality, and voice.
