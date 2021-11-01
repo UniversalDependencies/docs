@@ -68,7 +68,7 @@ Nominalizer    |       function            |     Example                        
  _(e)mi_-      |    passive deverbalizer    | h-emi-eka 'what is expected/waited for'.         |
  -_maʔe_       | relativizer                | u-zegar-maʔe 'the one who sings'.     | 
  -_pɨr_        | passive deverbalizer       | i-zuká-pɨr 'the one who must be killed'  |
- -_har_        | agentive nominalizer       | i-zàn-har 'the one who runs'.             |                                
+ -_har_        | agentive nominalizer       | i-zan-har 'the one who runs'.             |                                
  -_haw_        | circunstantial nominalizer | i-ker-haw 'occasion/place/mode/instrument of sleeping'   |                      
                
                   
