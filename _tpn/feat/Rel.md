@@ -51,15 +51,15 @@ Huma relational indicates that the possessor
 
 #### Examples
 
-* _<b>m</b>osanga &nbsp;_ “medicine (of people)”
-* _<b></b>posanga &nbsp;_ “medicine”
-* _<b>t</b>oʔo &nbsp;_ “flesh (human)”
-* * _<b>s</b>oʔo &nbsp;_ “flesh (non-human)”
+* _<b>m.osanga</b> &nbsp;_ “medicine (of people)”
+* _<b></b>posanga</b> &nbsp;_ “medicine”
+* _<b>toʔo</b> &nbsp;_ “flesh (human)”
+* * _<b>soʔo</b> &nbsp;_ “flesh (non-human)”
 
 
 ### <a name="Corf">`Corf`</a>: human
 
-Abslute relational indicates that the possessor
+The correferential relational indicates that the possessor
 
 #### Examples
 
