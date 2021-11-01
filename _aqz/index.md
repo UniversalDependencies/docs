@@ -52,13 +52,13 @@ NOMINAL FEATURE
 * The notion of plural is expressed through numerals, particles or through reduplication.
 
 ```
-__tɨrɨ-tɨrɨ__ apaɾa
+**tɨrɨ-tɨrɨ** apaɾa
 two-two   banana
 'four (or many) bananas'
 ```
 
 ```
-ko-am           pega   __ekwa__ 
+ko-am           pega   ekwa 
 fishhook-rope   bring  ITER
 '(He) brings many fishing lines'
 ```
