@@ -79,12 +79,9 @@ Corf   |   o       | o-sɨ-∅ 'his/her/its/their own mother'|
 
 ### Verbal Features
 
-* Verbs have a lexical [Aspect](https://universaldependencies.org/u/feat/Aspect.html): imperfective (Imp), perfective (Perf), iterative (Iter).
-* As a head marking language, Tupinambá cross-references both arguments of a two-place predicate, S and O, only when O is third person: *a-s-epjak* 1.SG-3(RELNCONT)-see 'I see him/her/it/them'. The [PERSON](https://universaldependencies.org/u/feat/Person.html) feature in this case ha sthe value `Person=13` indicating that A is 1<sup>st</sup> and O 3<sup>rd</sup> person.
-* The protmanteau markers indicating 1 -> 2 (A is 1<sup>st</sup> and U is 2<sup>nd</sup> person) are asigned the [PERSON](https://universaldependencies.org/u/feat/Person.html) feature `Person12Sg` and `Person12Pl`.
 * The lexical root in the *gerund* [(VerbForm=Ger)](https://universaldependencies.org/u/feat/VerbForm.html) is marked as VERB even when combining with a relational.
 * Verbs are marked for [aspect](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/Aspect.md): `Compl` (completive), `Iter` (Iterative), `Suc` Successive.
-* Verbs are also marked for [mood](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/Mood.md): `Perm` (permissive).
+* Verbs are also marked for [mood](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/Mood.md): `Perm` (permissive) `Imp` (imperative).
 * Lexical roots may be [reduplicated](https://github.com/UniversalDependencies/docs/blob/pages-source/_tpn/feat/Red.md) in two differentways: 
 monosylabic reduplication (`Red=Mo`), disylabic reduplication (`Red=Di`). The modify the aspect of the verb in different ways: disylabic reduplication indicate the repetition or duration of an action; monosylabic reduplication indicates iteration of the action. 
 
@@ -94,11 +91,11 @@ Tupinambá has many nominalizers with different functions. All but
 
 Nominalizer    |       function             |    Example                           |
 :------------: | :------------------------: |:----------------------:              |
- _(e)mi_-         | passive deverbalizer    | t-emi-juka 'what is killed'.      |
+ _(e)mi_-      | passive deverbalizer       | t-emi-juka 'what is killed'.         |
  -_βaʔe_       | relativizer                | o-juká-βaʔe 'the one who kills'.     | 
  -_pɨr_        | passive deverbalizer       | i-juká-pɨr 'the one who must be killed'  |
  -_sar_        | agentive nominalizer       | juká-sar-a 'the killer'.             |                                
- -_saβ_        | circunstantial nominalizer | juká-saβ-a 'occasion/place/mode/instrument of killing'   |                      
+ -_saβ_        | circunstantial nominalizer | juká-saβ-a 'occasion/place/mode/instrument of killing' |                      
  -_βor_        | habitual agent             | juká-βor 'one who often kills'       |                     
  -_(a)βo_      | gerund                     | juká-βo 'killing'                    |                   
  -_i_ ~ -_w_   | nominalized with fronted focalized adverbials  | juká-w           |                        
