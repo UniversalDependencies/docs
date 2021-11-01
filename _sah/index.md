@@ -17,12 +17,44 @@ udver: '2'
 
 * Yakut uses all 17 universal POS categories.
 
+Mapping UPOS to XPOS Yakut
+
+ UPOS | XPOS |
+:----: | :------: |
+ NOUN  | n        |
+ VERB  | v, vi, vt, vd|
+ ADV   | adv      |
+ ADJ   | adj       |
+ INTJ  | intj     |
+ PROPN | propn      |
+ ADP   | adp       |
+ AUX   | aux      |
+ CCONJ | cconj       |
+ DET   | det      |
+ NUM   | num      |
+ PART  | part      |
+ PRON  | pron      |
+ SCONJ | sconj       |
+ PUNCT | punct    |
+ SYM   | sym      |
+ X     | x        |
+ 
 ---
 
 ## Morphology
 
 * Yakut nouns are not marked for gender.
 * `Number` is marked with a [sing](https://universaldependencies.org/u/feat/Number.html#sing-singular-number)-[plur](https://universaldependencies.org/u/feat/Number.html#plur-plural-number) distinction.
+* The plural suffix -лар is used for both nouns and adjectives. The suffix yields 16 variants.
+
+Terminal letter of the stem  |     Form of the affix         |           Example            |
+:--------------------------: | :---------------------: | :-------------------------:  |
+Vowels and diphthongs        |  -лар, -лэр, -лор | паарталар, кинигэлэр, оҕолор, бөрөлөр |
+Voiceless consonants: к, п, с, т, х|-тар, -тэр, -тор, -төр | харандаастар, түннүктэр, оһохтор  |
+й, р  | -дар, -дэр, -дор, - дөр | сарайдар, үчүгэйдэр, томтордор |
+Nasal consonants: м, н, ҥ  |-нар, -нэр, -нор, - нөр| ааннар, тииҥнэр, ороннор |
+
+
 * There are 8 `cases`: [nominative](https://universaldependencies.org/u/feat/Case.html#nom-nominative--direct), [accusative](https://universaldependencies.org/u/feat/Case.html#acc-accusative--oblique), [dative](https://universaldependencies.org/u/feat/Case.html#dat-dative), [partitive](https://universaldependencies.org/u/feat/Case.html#par-partitive), [ablative](https://universaldependencies.org/u/feat/Case.html#abl-ablative), [instrumental](https://universaldependencies.org/u/feat/Case.html#ins-instrumental--instructive), [comitative](https://universaldependencies.org/u/feat/Case.html#com-comitative--associative), [comparative](https://universaldependencies.org/u/feat/Case.html#cmp-comparative).
 * Possession is marked by suffixes, which distinguish [person](https://universaldependencies.org/u/feat/Person.html) and [number](https://universaldependencies.org/u/feat/Number.html).
 * `PronTypes` are [collective](https://universaldependencies.org/u/feat/PronType.html#tot-total-collective-pronoun-determiner-or-adverb), [demonstrative](https://universaldependencies.org/u/feat/PronType.html#dem-demonstrative-pronoun-determiner-numeral-or-adverb), [indefinite](https://universaldependencies.org/u/feat/PronType.html#ind-indefinite-pronoun-determiner-numeral-or-adverb), [interrogative](https://universaldependencies.org/u/feat/PronType.html#int-interrogative-pronoun-determiner-numeral-or-adverb), [personal/possessive](https://universaldependencies.org/u/feat/PronType.html#prs-personal-or-possessive-personal-pronoun-or-determiner).
@@ -35,7 +67,6 @@ udver: '2'
 *
 *
 * The second-person singular imperative of a verb is identical in form to the infinitive.
-* The plural suffix -лар is used for both nouns and adjectives. The suffix yields 16 variants.
 * If the subject has the plural form, the predicate takes that form as well.
 * Possession is expressed by possessive suffixes, which correspond to possessive pronouns my, your, and so on. The suffixes differ according to person and number. It is often strengthenes by a personal pronoun standing in front of the noun that is in the possessive form. However, the personal pronoun of the first and the second person may be absent.
 * Certain nouns have double function of a noun and an adverb.
