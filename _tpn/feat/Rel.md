@@ -54,7 +54,7 @@ Huma relational indicates that the possessor
 * _<b>m.osanga</b> &nbsp;_ “medicine (of people)”
 * _<b></b>posanga</b> &nbsp;_ “medicine”
 * _<b>toʔo</b> &nbsp;_ “flesh (human)”
-* * _<b>soʔo</b> &nbsp;_ “flesh (non-human)”
+* _<b>soʔo</b> &nbsp;_ “flesh (non-human)”
 
 
 ### <a name="Corf">`Corf`</a>: human
@@ -63,8 +63,8 @@ The correferential relational indicates that the possessor
 
 #### Examples
 
-* _<b>i</b>sɨ &nbsp;_ “his mother”
-* _<b>o</b>sɨ &nbsp;_ “his own mother”
+* _<b>i-sɨ</b> &nbsp;_ “his mother”
+* _<b>o-sɨ</b> &nbsp;_ “his own mother”
 
 
 ## Diffs
