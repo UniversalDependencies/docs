@@ -169,18 +169,11 @@ ne=r-ub
 ```
 ```
 neruβa
-ne=r-ub-__a__
-2.SG=Cont-father-__Ref__
+ne=r-ub-a
+2.SG=Cont-father-Ref
 'My father'
 ```
 
-
-
-### Non-verbal predicates
-
-Nominal predication in Tupinambá 
-
-### 
 
 
 ---
