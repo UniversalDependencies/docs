@@ -86,7 +86,6 @@ Comitative       | аппыныын     | аккыныын      | атыныын
 Comparative      | аппынааҕар   | аккынааҕар    | атынааҕар    |
 
 
-
 <b>Possessive declension: Plural</b>
 
 Case             | First Person   | Second Person | Third Person |
@@ -100,9 +99,25 @@ Instrumental     | аппытынан      | аккытынан     | аттар
 Comitative       | аппытыныын     | аккытыныын    | аттапыныын   |
 Comparative      | аппытынааҕар   | аккытынааҕар  | аттарынааҕар |
 
+* Nouns that are being used as predicates take particular possession affixes, distinguished according to person and number, e.g. саха - a Yakut -> Мин сахабын - “I am a Yakut”
+
+<b>Predication form: Singular</b>
+
+Person             | Terminal letter of the stem   | Form of the affix | Example |
+:--------------: | :------------: | :-----------: |:-----------: |
+First      | 1. Vowels, diphthongs; й, л, р | -бын, -бин, -бун, - бүн  | аҕа - аҕабын (I am a father), киһи - киһибин, оҕо - оҕобун     |
+           | 2. к, п, с, т, х               | -пын, -пин, -пун, - пүн  | ударник - ударникпын, үлэһит - үлэһиппин, оҕоһут - оҕоһуппун   |
+           | 3. м, н, ҥ                     | -мын, -мин, -мун, - мүн  | капитан - капитаммын, түргэн - түргэммин, агроном - агрономмун |
+Accusative       | аппытын        | аккытын       | аттарын      |
+Ablative         | аппытыттан     | аккытыттан    | аттарыттан   |
+Instrumental     | аппытынан      | аккытынан     | аттарынан    |
+Comitative       | аппытыныын     | аккытыныын    | аттапыныын   |
+Comparative      | аппытынааҕар   | аккытынааҕар  | аттарынааҕар |
+
 * Some words that imply plurality (e.g. body parts) are often used in the singular form, preserving the meaning of the whole.
 * If the subject has the plural form, the predicate takes that form as well.
 * Certain nouns have double function of a noun and an adverb.
+
 * `PronTypes` are [collective](https://universaldependencies.org/u/feat/PronType.html#tot-total-collective-pronoun-determiner-or-adverb), [demonstrative](https://universaldependencies.org/u/feat/PronType.html#dem-demonstrative-pronoun-determiner-numeral-or-adverb), [indefinite](https://universaldependencies.org/u/feat/PronType.html#ind-indefinite-pronoun-determiner-numeral-or-adverb), [interrogative](https://universaldependencies.org/u/feat/PronType.html#int-interrogative-pronoun-determiner-numeral-or-adverb), [personal/possessive](https://universaldependencies.org/u/feat/PronType.html#prs-personal-or-possessive-personal-pronoun-or-determiner).
 * `NumType` distinguish [ordinal](https://universaldependencies.org/u/feat/NumType.html#ord-ordinal-number-or-corresponding-interrogative--relative--indefinite--demonstrative-word) and [cardinal](https://universaldependencies.org/u/feat/NumType.html#card-cardinal-number-or-corresponding-interrogative--relative--indefinite--demonstrative-word).
 * The following valency change devices (`voice`) are found: [passive](https://universaldependencies.org/u/feat/Voice.html#pass-passive-or-patient-focus-voice), [causative](https://universaldependencies.org/u/feat/Voice.html#cau-causative-voice), [reciprocal](https://universaldependencies.org/u/feat/Voice.html#rcp-reciprocal-voice).
