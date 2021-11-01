@@ -50,6 +50,18 @@ Mapping UPOS to XPOS Tupinambá
 _kunumĩ_ 'boy / boys'  
 _kunumĩ-etá_ 'boys'
 
+* Person indexes and pronouns are given below:
+
+           |Possessor indexes | Argument indexes  |   Portmanteau indexes |  Switch-reference indexes         | Inependent pronouns |
+:---------:|:---------: | :---------------------: | :-------------------------:  |:-------------------------: |:-------------------------:  |
+1.SG|ʃe=         |  a-                            |          oro                 |            wi              |      iʃé         |
+2.SG|ne=         |  ere-                          |                              |            e               |      ené | 
+3                |                                |  o-                     |                              |            o               | 
+1.PL.IN          |jané=                           | jané                    |                              |           jané             |
+1.PL.EX          |oré=                            | oré                     |        opo                   |             oré            |
+2.PL             |pe=                             | you                     |                              |            pe              |.   
+
+
 * Nous can take the following [Cases](https://universaldependencies.org/u/feat/Case.html): `Tra`, `Loc`, `Per`, `Dat`.
 
 Case        |          Ending         |           Example            |
@@ -100,6 +112,8 @@ Nominalizer    |       function             |    Example                        
  -_(a)βo_      | gerund                     | juká-βo 'killing'                    |                   
  -_i_ ~ -_w_   | nominalized with fronted focalized adverbials  | juká-w           |                        
  
+
+
 
 ---
 
