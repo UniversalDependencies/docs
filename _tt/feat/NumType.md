@@ -46,5 +46,7 @@ Distributive numerals are formed by the suffix _-(ш)ар/әр_.
 Morphologically distinct class of numerals used to count sets of things, or nouns that are pluralia tantum. Some authors call this type collective numeral.
 In Tatar, collective numeral is expressed by the suffix _-әү/-ау_.
 
+#### Examples
+
 * _без икәү_ "we two"
 * _ничәү барасыз_ "how many of you are going"
