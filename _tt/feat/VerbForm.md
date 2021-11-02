@@ -70,8 +70,14 @@ In Tatar, verbal nouns are formed by the suffix *-у/ү*.
 
 #### Examples
 
-- _<b>Бару</b>_ "to go, going, the act of going"
+- _бар<b>у</b>_ "to go, going, the act of going"
 
 ### <a name="Inf">`Inf`</a>: infinitive
 
 Infinitive is a non-finite verb form that may be used together with auxiliaries or verbs to entail additional modal, aspectual, etc. meaning.
+
+Tatar infinitive is marked by the suffix *-ырга/ергә*.
+
+#### Examples
+
+- _бар<b>ырга</b> кирәк "it is necessary to go"
