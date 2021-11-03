@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="ru_taiga-dep-aux-pass.html">aux:pass</a></tt>.
 
-433 nodes (0%) are attached to their parents as `aux`.
+431 nodes (0%) are attached to their parents as `aux`.
 
-287 instances of `aux` (66%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.65357967667436.
+285 instances of `aux` (66%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.65197215777262.
 
-The following 10 pairs of parts of speech are connected with `aux`: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (368; 85% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (25; 6% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (16; 4% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (13; 3% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt>-<tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt>-<tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt>-<tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `aux`: <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (366; 85% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (25; 6% instances), <tt><a href="ru_taiga-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (12; 3% instances), <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (11; 3% instances), <tt><a href="ru_taiga-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="ru_taiga-pos-PART.html">PART</a></tt>-<tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt>-<tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt>-<tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ru_taiga-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ru_taiga-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -50,21 +50,20 @@ The following 10 pairs of parts of speech are connected with `aux`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 2 aux	color:blue
-1	Если	если	SCONJ	_	_	7	mark	_	_
-2	бы	бы	AUX	_	Mood=Cnd	7	aux	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	4	punct	_	_
-4	конечно	конечно	ADV	_	Degree=Pos	7	parataxis	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	4	punct	_	_
-6	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
-7	так	так	ADV	_	Degree=Pos|PronType=Dem	0	root	_	_
-8	и	и	PART	_	_	7	advmod	_	_
-9	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 7 4 aux	color:blue
+1	Эх	эх	INTJ	_	_	7	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	если	если	SCONJ	_	_	7	mark	_	_
+4	бы	бы	AUX	_	Mood=Cnd	7	aux	_	_
+5	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	_
+6	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
+7	правдой	правда	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+8	...	...	PUNCT	_	_	7	punct	_	_
+9	⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪	⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪	SYM	_	_	7	discourse	_	_
 
 ~~~
 

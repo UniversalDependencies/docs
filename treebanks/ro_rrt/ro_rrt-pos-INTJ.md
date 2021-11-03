@@ -15,7 +15,7 @@ The 10 most frequent `INTJ` types:  <em>iată, vai, Atențiune, Ei, Ia, Păi, ia
 
 The 10 most frequent ambiguous lemmas: <em>o</em> (<tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 10, <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>Ei</em> (<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 14, <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 2), <em>Ia</em> (<tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> 2), <em>O</em> (<tt><a href="ro_rrt-pos-DET.html">DET</a></tt> 111, <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 7, <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 1), <em>mă</em> (<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 87, <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>Ei</em> (<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 14, <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 2), <em>Ia</em> (<tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> 2), <em>O</em> (<tt><a href="ro_rrt-pos-DET.html">DET</a></tt> 111, <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 7, <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 1), <em>mă</em> (<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 86, <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 1)
 
 
 * <em>Ei</em>
@@ -31,12 +31,12 @@ The 10 most frequent ambiguous types:  <em>Ei</em> (<tt><a href="ro_rrt-pos-PRON
   * <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 1: <em><b>O</b> , mamă , dulce mamă , din negură de vremi Pe freamătul de frunze la tine tu mă chemi .</em>
   * <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 1: <em><b>O</b> fi " simpatie " de genul feminin , dar se folosește și la masculin tot așa .</em>
 * <em>mă</em>
-  * <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 87: <em>Iată astă -seară <b>mă</b> regăsești în duh , în claritatea și curajul duhului .</em>
+  * <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 86: <em>Iată astă -seară <b>mă</b> regăsești în duh , în claritatea și curajul duhului .</em>
   * <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 1: <em>― Uite ce e , <b>mă</b> neică , după cum vezi , greu să se hotărască între noi cine să plătească .</em>
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.814335).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.814733).
 
 The 1st highest number of forms (1) was observed with the lemma “adio”: <em>adio</em>.
 
@@ -63,7 +63,7 @@ Parents of `INTJ` nodes belong to 6 different parts of speech:  (19; 48% instanc
 
 The highest child degree of a `INTJ` node is 7.
 
-Children of `INTJ` nodes are attached using 17 different relations: <tt><a href="ro_rrt-dep-punct.html">punct</a></tt> (33; 45% instances), <tt><a href="ro_rrt-dep-ccomp.html">ccomp</a></tt> (8; 11% instances), <tt><a href="ro_rrt-dep-obj.html">obj</a></tt> (6; 8% instances), <tt><a href="ro_rrt-dep-parataxis.html">parataxis</a></tt> (5; 7% instances), <tt><a href="ro_rrt-dep-advmod.html">advmod</a></tt> (4; 5% instances), <tt><a href="ro_rrt-dep-vocative.html">vocative</a></tt> (3; 4% instances), <tt><a href="ro_rrt-dep-cc.html">cc</a></tt> (2; 3% instances), <tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt> (2; 3% instances), <tt><a href="ro_rrt-dep-nmod.html">nmod</a></tt> (2; 3% instances), <tt><a href="ro_rrt-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-det.html">det</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-nummod.html">nummod</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
+Children of `INTJ` nodes are attached using 18 different relations: <tt><a href="ro_rrt-dep-punct.html">punct</a></tt> (33; 45% instances), <tt><a href="ro_rrt-dep-ccomp.html">ccomp</a></tt> (8; 11% instances), <tt><a href="ro_rrt-dep-obj.html">obj</a></tt> (6; 8% instances), <tt><a href="ro_rrt-dep-parataxis.html">parataxis</a></tt> (5; 7% instances), <tt><a href="ro_rrt-dep-advmod.html">advmod</a></tt> (4; 5% instances), <tt><a href="ro_rrt-dep-vocative.html">vocative</a></tt> (3; 4% instances), <tt><a href="ro_rrt-dep-cc.html">cc</a></tt> (2; 3% instances), <tt><a href="ro_rrt-dep-fixed.html">fixed</a></tt> (2; 3% instances), <tt><a href="ro_rrt-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-det.html">det</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-nummod.html">nummod</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-obl.html">obl</a></tt> (1; 1% instances), <tt><a href="ro_rrt-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
 
 Children of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="ro_rrt-pos-PUNCT.html">PUNCT</a></tt> (33; 45% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (18; 25% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (9; 12% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (5; 7% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (2; 3% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (1; 1% instances)
 

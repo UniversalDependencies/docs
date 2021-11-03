@@ -6,22 +6,31 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_East_Slavic-RNC: POS Tags: `SCONJ`
 
-There are 38 `SCONJ` lemmas (1%), 45 `SCONJ` types (1%) and 270 `SCONJ` tokens (1%).
-Out of 17 observed tags, the rank of `SCONJ` is: 9 in number of lemmas, 10 in number of types and 13 in number of tokens.
+There are 44 `SCONJ` lemmas (1%), 54 `SCONJ` types (1%) and 385 `SCONJ` tokens (1%).
+Out of 17 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 11 in number of types and 13 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: <em>что, чтобъ, какъ, яко, ино, чтобы, буде, быти, якоже, аще</em>
+The 10 most frequent `SCONJ` lemmas: <em>яко, что, чтобъ, какъ, егда, аще, ино, чтобы, буде, убо</em>
 
-The 10 most frequent `SCONJ` types:  <em>что, чтобъ, яко, ино, как, буде, чтоб, чтобы, какъ, якоже</em>
+The 10 most frequent `SCONJ` types:  <em>что, ꙗко, чтобъ, яко, егда, аще, ино, как, буде, чтоб</em>
 
-The 10 most frequent ambiguous lemmas: <em>что</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 94, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 59, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1), <em>какъ</em> (<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 30, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 26), <em>ино</em> (<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 19, <tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> 7), <em>быти</em> (<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> 193, <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> 67, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 3), <em>якоже</em> (<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1), <em>иже</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 16, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> 2), <em>бо</em> (<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 8, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 2), <em>егда</em> (<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1), <em>тако</em> (<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 21, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 2), <em>убо</em> (<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 2, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>яко</em> (<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 63, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1), <em>что</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 113, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 62, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 2), <em>какъ</em> (<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 30, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 26), <em>егда</em> (<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1), <em>аще</em> (<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 21, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 2), <em>ино</em> (<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 19, <tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> 7), <em>убо</em> (<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 2), <em>якоже</em> (<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1), <em>быти</em> (<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> 235, <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> 69, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 8, <tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 3), <em>аки</em> (<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 4)
 
-The 10 most frequent ambiguous types:  <em>что</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 68, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 59, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1), <em>ино</em> (<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 19, <tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 1), <em>как</em> (<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 16, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 15), <em>какъ</em> (<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 13, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 8), <em>бꙋдетъ</em> (<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> 2), <em>будет</em> (<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> 10, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> 2), <em>иже</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 8, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 2), <em>бо</em> (<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 8, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 2), <em>егда</em> (<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1), <em>убо</em> (<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 2, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>что</em> (<tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 79, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 62, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 2), <em>ꙗко</em> (<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 40, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1), <em>егда</em> (<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 19, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1), <em>аще</em> (<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 15, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1), <em>ино</em> (<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 19, <tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> 1), <em>как</em> (<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 16, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 15), <em>какъ</em> (<tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 13, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 8), <em>аки</em> (<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 4), <em>бꙋдетъ</em> (<tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> 5), <em>будет</em> (<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> 10, <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> 2)
 
 
 * <em>что</em>
-  * <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 68: <em>а <b>что</b> понадобитца днгъ ты приятель мои возми ꙋ Марка Тихановича моіх днгъ</em>
-  * <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 59: <em>а про члвка моего скажи <b>что</b> Аверка Івановъ</em>
-  * <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1: <em>А <b>что</b> сѧ ꙋчинит меж вас какова обида , и вам ѡтослат[и] своих боѧръ , ини ꙋчинѧт исправꙋ .</em>
+  * <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 79: <em>а <b>что</b> понадобитца днгъ ты приятель мои возми ꙋ Марка Тихановича моіх днгъ</em>
+  * <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 62: <em>а про члвка моего скажи <b>что</b> Аверка Івановъ</em>
+  * <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 2: <em>Но <b>что</b> мы далечайшіи примѣри ище(м) и повѣствꙋе(м) ?</em>
+* <em>ꙗко</em>
+  * <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 40: <em>И не вотще сіꙗ рекошасꙗ , <b>ꙗко</b> всꙗ стран(н)аꙗ etc.</em>
+  * <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1: <em>Возведи окрестъ очи твои и возри на море Балтійское , на флотъ преславныⸯ , <b>ꙗко</b> скоро возсіꙗвший , тако скоро и никомꙋже чаꙗ(н)но многіꙗ и славныꙗ побѣди полꙋчившиⸯ !</em>
+* <em>егда</em>
+  * <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 19: <em>Сам искусих се во всяцей потребе , <b>егда</b> уповах на живуща в небе .</em>
+  * <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1: <em>Но ты , милостивый Спасе , простри руку свою невидимую , изведи нас от всякого зла и буди нам смиренъ помощник в день печали нашия , <b>егда</b> вострепещет душа наша , видящи противныя силы .</em>
+* <em>аще</em>
+  * <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 15: <em>Не тако слово в памяти держитъся , яко же <b>аще</b> что делом явится .</em>
+  * <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1: <em>И <b>аще</b> Филипъ Македо(н)скиⸯ , егда родисꙗ емꙋ Александеръ Великій , сицеваꙗ произнесе словеса : не сего ради , рече , радꙋюсꙗ , ꙗко сн҃а воспріꙗхъ , но радꙋюсꙗ , ꙗко вⸯ сіꙗ времена , ꙗже имꙋ(т) преславнаго философа Аристотелꙗ , — а то того ради , ꙗко имꙗше онаго Аристотелꙗ ꙋпо(т)ребити ко наꙋченію сн҃а своего Алекса(н)дра ; излышнаꙗ сіꙗ похвала Аристотелю и велми высокаꙗ мни(т)сꙗ и не по достоинствꙋ его , но изрече тако Филипъ , понеже вѣка оныꙗ вꙗщшаго м(д)реца не имѣꙗхꙋ .</em>
 * <em>ино</em>
   * <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 19: <em>А бꙋдет с ними нам миръ , <b>ино</b> и тобѣ с ними миръ .</em>
   * <tt><a href="orv_rnc-pos-CCONJ.html">CCONJ</a></tt> 6: <em>А бꙋдет емꙋ любѡв[ь] со мною , <b>ино</b> и с тобою .</em>
@@ -32,29 +41,20 @@ The 10 most frequent ambiguous types:  <em>что</em> (<tt><a href="orv_rnc-pos
 * <em>какъ</em>
   * <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 13: <em>а ко мнѣ свѣт мои прикажи писат про свое многолѣтное здорове <b>какъ</b> тебя свѣта моего бгъ милуетъ</em>
   * <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 8: <em>А гдѣ ты в которой земли был и в тѣх землях болши тово тебѣ вѣдомо , и нигдѣ того , чтоб государь ко государю так писал , <b>какъ</b> ты к нам писал .</em>
+* <em>аки</em>
+  * <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 6: <em>О блудном сыне вся речь будет наша , <b>аки</b> вещ живу , узрит милость ваша .</em>
+  * <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 4: <em>Егда азъ разсꙋждаю всꙗ рожденію Бл҃гочестивѣйшаго Мона(р)ха нш҃его приличествꙋющаꙗ и времꙗ , и м(с)цъ , и день , а всꙗ <b>аки</b> бꙋдꙋщее бл҃гополꙋчіе пре(д)ꙗвлꙗющаꙗ , воисти(н)нꙋ , аще бы хр҃стіа(н)скаꙗ Бг҃ословіꙗ не ꙋде(р)живала , астрологическомꙋ о гороскопіахъ мꙋ(д)рствованію по(д)ражати принꙋжде(н) былъ бы .</em>
 * <em>бꙋдетъ</em>
   * <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 6: <em>а мꙋжикъ ꙋ меня добытъ и <b>бꙋдетъ</b> вамъ не возможъно избыть и вы ко мне отпишите</em>
-  * <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> 2: <em>а <b>бꙋдетъ</b> Семенъ Еѳимовичь по кабале деньги взял и ты пожалꙋи возми ꙋ Семена Еѳимовича коль ... тебѣ понадобитъце денех</em>
+  * <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> 5: <em>а <b>бꙋдетъ</b> Семенъ Еѳимовичь по кабале деньги взял и ты пожалꙋи возми ꙋ Семена Еѳимовича коль ... тебѣ понадобитъце денех</em>
 * <em>будет</em>
   * <tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> 10: <em>а <b>будет</b> не дошла и ты спроси у него</em>
   * <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 4: <em>И <b>будет</b> им здесь быть , и вам бы указать , на коих пустошах пасти .</em>
   * <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> 2: <em>А кому <b>будет</b> чево искати на Кузме да на Осипе , ино их сужу яз великии государь святеиши Филарет патриарх царьствую{л._256_об.}щаго града Москвы и всеа Русии , или мои бояре .</em>
-* <em>иже</em>
-  * <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> 8: <em>Благословен бог отныне до века , <b>иже</b> от земля созда человека !</em>
-  * <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 2: <em>Иже бо святыя книги почитаетъ , {л._302_об.} той з Богомъ бесѣдуетъ , а <b>иже</b> кто почитаетъ пророческія бесѣды и евангельскія животныя глаголы и апостольская проповѣданія и отеческая ученія и житія святыхъ , сей пріемлетъ сугубо пользу души своей .</em>
-* <em>бо</em>
-  * <tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 8: <em>Моськвичамь же до понедѣлника отлагающим , бяше <b>бо</b> недиля .</em>
-  * <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 2: <em>А священником всем великопермьским также учительная глаголю , чтобы есте о своем священьстве и о душевней ползе , колико мочно , и о своей от бога врученной пастве всегда попечение имели по своему священническому долгу , по господню словеси , глаголющему : " Ему же <b>бо</b> , рече , много дасться , и много взыщется от него " , да не осуждени быхом пред богом были , да возмогли быхом пред господем богом кииждо нас рещи : " Се яз и дети , яже ми еси дал .</em>
-* <em>егда</em>
-  * <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 2: <em>Сам искусих се во всяцей потребе , <b>егда</b> уповах на живуща в небе .</em>
-  * <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> 1: <em>Но ты , милостивый Спасе , простри руку свою невидимую , изведи нас от всякого зла и буди нам смиренъ помощник в день печали нашия , <b>егда</b> вострепещет душа наша , видящи противныя силы .</em>
-* <em>убо</em>
-  * <tt><a href="orv_rnc-pos-PART.html">PART</a></tt> 2: <em>Изволте <b>убо</b> милость си явити , очеса и слух к действу приклонити ; Тако бо сладость будет обретенна , не токмо сердцам , но душам спасенна .</em>
-  * <tt><a href="orv_rnc-pos-SCONJ.html">SCONJ</a></tt> 2: <em>Ими <b>убо</b> тако речеши : " Не се ли есть град мой великий Вавилон , не рука ли моя сотвори сия вся ?</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.184211 (the average of all parts of speech is 1.947924).
+The form / lemma ratio of `SCONJ` is 1.227273 (the average of all parts of speech is 1.971070).
 
 The 1st highest number of forms (4) was observed with the lemma “какъ”: <em>к[ак], как, какъ, какь</em>.
 
@@ -62,22 +62,22 @@ The 2nd highest number of forms (3) was observed with the lemma “быти”: 
 
 The 3rd highest number of forms (3) was observed with the lemma “чтобы”: <em>чтоб, чтобъ, чтобы</em>.
 
-`SCONJ` occurs with 7 features: <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt> (22; 8% instances), <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt> (20; 7% instances), <tt><a href="orv_rnc-feat-Degree.html">Degree</a></tt> (14; 5% instances), <tt><a href="orv_rnc-feat-Case.html">Case</a></tt> (1; 0% instances), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt> (1; 0% instances), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt> (1; 0% instances), <tt><a href="orv_rnc-feat-PronType.html">PronType</a></tt> (1; 0% instances)
+`SCONJ` occurs with 6 features: <tt><a href="orv_rnc-feat-Mood.html">Mood</a></tt> (22; 6% instances), <tt><a href="orv_rnc-feat-Analyt.html">Analyt</a></tt> (20; 5% instances), <tt><a href="orv_rnc-feat-Case.html">Case</a></tt> (1; 0% instances), <tt><a href="orv_rnc-feat-Gender.html">Gender</a></tt> (1; 0% instances), <tt><a href="orv_rnc-feat-Number.html">Number</a></tt> (1; 0% instances), <tt><a href="orv_rnc-feat-PronType.html">PronType</a></tt> (1; 0% instances)
 
-`SCONJ` occurs with 7 feature-value pairs: `Analyt=Yes`, `Case=Nom`, `Degree=Pos`, `Gender=Masc`, `Mood=Cnd`, `Number=Sing`, `PronType=Rel`
+`SCONJ` occurs with 6 feature-value pairs: `Analyt=Yes`, `Case=Nom`, `Gender=Masc`, `Mood=Cnd`, `Number=Sing`, `PronType=Rel`
 
-`SCONJ` occurs with 6 feature combinations.
-The most frequent feature combination is `_` (216 tokens).
-Examples: <em>что, яко, буде, как, ино, чтобъ, чтоб, якоже, бꙋдетъ, аще</em>
+`SCONJ` occurs with 5 feature combinations.
+The most frequent feature combination is `_` (345 tokens).
+Examples: <em>что, ꙗко, яко, егда, аще, ино, как, буде, чтобъ, ꙋбо</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="orv_rnc-dep-mark.html">mark</a></tt> (255; 94% instances), <tt><a href="orv_rnc-dep-case.html">case</a></tt> (7; 3% instances), <tt><a href="orv_rnc-dep-ccomp.html">ccomp</a></tt> (3; 1% instances), <tt><a href="orv_rnc-dep-fixed.html">fixed</a></tt> (3; 1% instances), <tt><a href="orv_rnc-dep-cc.html">cc</a></tt> (2; 1% instances)
+`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="orv_rnc-dep-mark.html">mark</a></tt> (362; 94% instances), <tt><a href="orv_rnc-dep-case.html">case</a></tt> (15; 4% instances), <tt><a href="orv_rnc-dep-ccomp.html">ccomp</a></tt> (3; 1% instances), <tt><a href="orv_rnc-dep-fixed.html">fixed</a></tt> (3; 1% instances), <tt><a href="orv_rnc-dep-cc.html">cc</a></tt> (2; 1% instances)
 
-Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (203; 75% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (29; 11% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (20; 7% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (5; 2% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (3; 1% instances)
+Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (291; 76% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (41; 11% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (28; 7% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt> (9; 2% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (7; 2% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt> (4; 1% instances)
 
-266 (99%) `SCONJ` nodes are leaves.
+381 (99%) `SCONJ` nodes are leaves.
 
 1 (0%) `SCONJ` nodes have one child.
 

@@ -45,13 +45,13 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 19	bgColor:blue
 # visual-style 19	fgColor:white
 # visual-style 19 20 flat:name	color:blue
-1	O	o	DET	DT	Gender=Masc|Number=Sing	2	det	_	_
+1	O	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	encontro	encontro	NOUN	NN	Gender=Masc|Number=Sing	5	nsubj:pass	_	_
 3	foi	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	5	aux:pass	_	_
 4	originalmente	originalmente	ADV	RB	_	5	advmod	_	_
 5	marcado	_	VERB	VBN	Gender=Masc|Number=Sing	0	root	_	_
 6	para	para	ADP	IN	_	8	case	_	_
-7	o	o	DET	DT	Gender=Masc|Number=Sing	8	det	_	_
+7	o	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	Clube	Clube	PROPN	NN	Gender=Masc|Number=Sing	5	obl	_	_
 9	Metropolitano	Metropolitano	PROPN	JJ	Gender=Masc|Number=Sing	8	flat:name	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	12	punct	_	_
@@ -62,7 +62,7 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 15	Washington	Washington	PROPN	NNP	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	19	punct	_	_
 17	em	em	ADP	INDT	_	19	case	_	_
-18	a	o	DET	_	Gender=Fem|Number=Sing	19	det	_	_
+18	a	o	DET	_	Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	Rua	rua	NOUN	NN	Gender=Fem|Number=Sing	8	nmod	_	Proper=True
 20	H	h	NOUN	NN	Gender=Masc|Number=Sing	19	flat:name	_	Proper=True|SpaceAfter=No
 21	,	,	PUNCT	,	_	24	punct	_	_

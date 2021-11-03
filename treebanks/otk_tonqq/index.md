@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Mehmet Oguz Derin.
 
 Repository: [UD_Old_Turkish-Tonqq](https://github.com/UniversalDependencies/UD_Old_Turkish-Tonqq)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udotk_tonqq28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udotk_tonqq29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC0 1.0
 
@@ -58,6 +58,8 @@ TODO: Add interpretation references
 TODO: Add grammar references
 
 TODO: Add dictionary references
+
+TODO: Add The Executable Book Project compatible tooling
 
 ## Acknowledgments
 

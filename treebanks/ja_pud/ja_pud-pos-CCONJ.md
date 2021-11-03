@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  また (<tt><a href="ja_pud-pos-CCONJ.htm
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.058824 (the average of all parts of speech is 1.049631).
+The form / lemma ratio of `CCONJ` is 1.058824 (the average of all parts of speech is 1.050009).
 
 The 1st highest number of forms (2) was observed with the lemma “だ”: だ, です.
 
@@ -82,5 +82,5 @@ The highest child degree of a `CCONJ` node is 4.
 
 Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (70; 67% instances), <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (34; 33% instances)
 
-Children of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (70; 67% instances), <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (27; 26% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (5; 5% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances)
+Children of `CCONJ` nodes belong to 4 different parts of speech: <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (70; 67% instances), <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (27; 26% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (6; 6% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances)
 

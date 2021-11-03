@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1873 nodes (4%) are attached to their parents as `root`.
+2010 nodes (4%) are attached to their parents as `root`.
 
-1873 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.47197010144154.
+2010 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.57412935323383.
 
-The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1537; 82% instances), -<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (173; 9% instances), -<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (92; 5% instances), -<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (46; 2% instances), -<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (12; 1% instances), -<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (7; 0% instances), -<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (3; 0% instances), -<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (2; 0% instances), -<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt> (1643; 82% instances), -<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (196; 10% instances), -<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (94; 5% instances), -<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (51; 3% instances), -<tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt> (12; 1% instances), -<tt><a href="cop_scriptorium-pos-X.html">X</a></tt> (7; 0% instances), -<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (3; 0% instances), -<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (2; 0% instances), -<tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

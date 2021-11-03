@@ -25,14 +25,14 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 8 6 aux	color:blue
 1	Anteriormente	anteriormente	ADV	RB	_	8	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	,	_	1	punct	_	_
-3	os	o	DET	DT	Gender=Masc|Number=Plur	4	det	_	_
+3	os	o	DET	DT	Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
 4	jatos	jato	NOUN	NN	Gender=Masc|Number=Plur	8	nsubj:pass	_	_
 5	só	só	ADV	RB	_	8	advmod	_	_
 6	tinham	ter	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past	8	aux	_	_
 7	sido	ser	AUX	VBN	_	8	aux:pass	_	_
 8	vistos	_	VERB	VBN	Gender=Masc|Number=Plur	0	root	_	_
 9	por	por	ADP	INDT	_	11	case	_	_
-10	os	o	DET	_	Gender=Masc|Number=Plur	11	det	_	_
+10	os	o	DET	_	Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
 11	blogueiros	_	NOUN	NN	Gender=Masc|Number=Plur	8	obl	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	8	punct	_	_
 
@@ -67,13 +67,13 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 15	fgColor:white
 # visual-style 15 12 aux	color:blue
 1	Quando	_	SCONJ	IN	_	4	mark	_	_
-2	as	o	DET	DT	Gender=Fem|Number=Plur	3	det	_	_
+2	as	o	DET	DT	Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
 3	pessoas	pessoa	NOUN	NN	Gender=Fem|Number=Plur	4	nsubj	_	_
 4	morrem	morrer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres	15	advcl	_	_
 5	por	por	ADP	IN	_	6	case	_	_
 6	velhice	velhice	NOUN	NN	Gender=Fem|Number=Sing	4	obl	_	_
 7	em	em	ADP	INDT	_	9	case	_	_
-8	a	o	DET	_	Gender=Fem|Number=Sing	9	det	_	_
+8	a	o	DET	_	Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	Índia	índio	NOUN	NN	Gender=Fem|Number=Sing	4	obl	_	Proper=True|SpaceAfter=No
 10	,	,	PUNCT	,	_	4	punct	_	_
 11	isso	_	PRON	PDEM	Gender=Masc|Number=Sing	15	nsubj	_	_

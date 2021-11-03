@@ -22,7 +22,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="pcm_nsc-pos-ADJ.htm
 
 * `Cmp` (168; 80% of non-empty `Degree`): <em>better, more, later, younger, less, elder, higher, Lighter, beta, earlier</em>
 * `Sup` (42; 20% of non-empty `Degree`): <em>best, worst, highest, biggest, baddest, hardest, richest, latest, oldest, youngest</em>
-* `EMPTY` (3396): <em>small, own, good, kind, different, many, first, big, plenty, last</em>
+* `EMPTY` (3330): <em>small, own, good, kind, different, many, first, plenty, big, oder</em>
 
 `Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (23) occur only with one value of `Degree`.
 
@@ -33,7 +33,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="pcm_nsc-pos-ADJ.htm
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (1; 100% of non-empty `Degree`): <em>more</em>
-* `EMPTY` (5865): <em>so, now, just, even, well, how, dere, den, still, very</em>
+* `EMPTY` (6158): <em>so, now, just, even, when, well, how, dere, den, still</em>
 
 ## Relations with Agreement in `Degree`
 

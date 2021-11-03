@@ -71,7 +71,7 @@ The following 12 pairs of parts of speech are connected with `appos`: <tt><a hre
 1	Karya	karya	NOUN	_	Number=Sing	6	nsubj	_	_
 2	nonfiksi	nonfiksi	ADJ	_	_	1	amod	_	_
 3	terakhir	akhir	ADJ	_	Degree=Sup	1	amod	_	_
-4	nya	nya	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nmod:poss	_	_
+4	nya	nya	PRON	_	Number=Sing|Person=3|PronType=Prs	1	nmod:poss	_	_
 5	adalah	adalah	AUX	_	_	6	cop	_	_
 6	Margaret	Margaret	PROPN	_	_	0	root	_	_
 7	Douglas	Douglas	PROPN	_	_	6	flat:name	_	SpaceAfter=No

@@ -11,7 +11,7 @@ This relation is universal.
 381146 nodes (11%) are attached to their parents as `case`.
 
 377165 instances of `case` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.74128024431583.
+Average distance between parent and child is 1.89214369296805.
 
 The following 27 pairs of parts of speech are connected with `case`: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (290060; 76% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (48177; 13% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (12123; 3% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (10645; 3% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (5393; 1% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (4041; 1% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (2315; 1% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (2072; 1% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (1991; 1% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (1506; 0% instances), <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (1342; 0% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (499; 0% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (344; 0% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (164; 0% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt>-<tt><a href="de_hdt-pos-X.html">X</a></tt> (160; 0% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (105; 0% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (79; 0% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (54; 0% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (38; 0% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (11; 0% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt>-<tt><a href="de_hdt-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt>-<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
@@ -19,18 +19,19 @@ The following 27 pairs of parts of speech are connected with `case`: <tt><a href
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 case	color:blue
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 case	color:blue
 1	Die	Die	DET	ART	Case=Nom|Number=Plur|PronType=Art	2	det	_	_
-2	Nachrichten	Nachricht	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	5	nsubj	_	_
-3	vom	vom	ADP	APPRART	AdpType=Prep|Case=Dat|PronType=Art	4	case	_	_
-4	Konkurs	Konkurs	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
-5	entbehren	entbehren	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	jeder	jede	DET	PIDAT	Case=Gen|Gender=Fem|Number=Sing|Person=3	7	det	_	_
-7	Grundlage	Grundlage	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing|Person=3	5	obj	_	_
-8	.	.	PUNCT	$.	PunctType=Peri	5	punct	_	_
-9	"	"	PUNCT	$(	PunctType=Brck	5	punct	_	_
+2	Nachrichten	Nachricht	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur|Person=3	6	nsubj	_	_
+3	von	von	ADP	APPR	AdpType=Prep|Case=Dat	5	case	_	_
+4	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	5	det	_	_
+5	Konkurs	Konkurs	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing|Person=3	2	nmod	_	_
+6	entbehren	entbehren	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	jeder	jede	DET	PIDAT	Case=Gen|Gender=Fem|Number=Sing|Person=3	8	det	_	_
+8	Grundlage	Grundlage	NOUN	NN	Case=Gen|Gender=Fem|Number=Sing|Person=3	6	obj	_	_
+9	.	.	PUNCT	$.	PunctType=Peri	6	punct	_	_
+10	"	"	PUNCT	$(	PunctType=Brck	6	punct	_	_
 
 ~~~
 

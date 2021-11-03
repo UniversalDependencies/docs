@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Irish-IDT: Features: `Case`
 
-This feature is universal but the values `NomAcc` are language-specific.
-It occurs with 4 different values: `Dat`, `Gen`, `NomAcc`, `Voc`.
+This feature is universal.
+It occurs with 4 different values: `Dat`, `Gen`, `Nom`, `Voc`.
 
 38191 tokens (33%) have a non-empty value of `Case`.
 10894 types (73%) occur at least once with a non-empty value of `Case`.
@@ -24,23 +24,23 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 * `Dat` (224; 1% of non-empty `Case`): <em>leith, cionn, gcrích, mbliana, láimh, chois, cois, gcéin, chionn, gcionn</em>
 * `Gen` (6119; 21% of non-empty `Case`): <em>cinn, cathrach, bliana, pobail, forbartha, oibre, tuaithe, phobail, oideachais, imeachta</em>
-* `NomAcc` (22295; 78% of non-empty `Case`): <em>féidir, chuid, duine, réir, rud, éis, bhfeidhm, lá, daoine, bhliain</em>
+* `Nom` (22295; 78% of non-empty `Case`): <em>féidir, chuid, duine, réir, rud, éis, bhfeidhm, lá, daoine, bhliain</em>
 * `Voc` (30; 0% of non-empty `Case`): <em>bhó, dhochtúir, Chapaillín, Dhaid, LIA, Rí, bhithiúnaigh, bhráithre, bhráthair, chumannaigh</em>
 * `EMPTY` (4485): <em>chur, dhéanamh, fáil, bheith, chéile, thabhairt, dul, dtí, cur, teacht</em>
 
 <table>
-  <tr><th>Paradigm <i>bean</i></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>NomAcc</tt></th></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Ecl</tt>|<tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=Strong</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>mban</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Ecl</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td><em>mbean</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mhnaoi</em></td><td><em>mhná</em></td><td></td><td><em>bhean</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>mhná</em></td><td><em>mhná</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>mná</em></td><td></td><td><em>bean</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td><em>mná</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td><em>bhean</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td><em>mhná</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=Strong</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>ban</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>mná</em></td><td></td><td><em>bean, mná</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td><em>mná</em></td></tr>
+  <tr><th>Paradigm <i>bean</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Ecl</tt>|<tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=Strong</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>mban</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Ecl</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mbean</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>bhean</em></td><td><em>mhnaoi</em></td><td><em>mhná</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>mhná</em></td><td></td><td></td><td><em>mhná</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>bean</em></td><td></td><td><em>mná</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>mná</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>bhean</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>mhná</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=Strong</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>ban</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>bean, mná</em></td><td></td><td><em>mná</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>mná</em></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `PROPN`
@@ -53,14 +53,14 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 * `Dat` (61; 2% of non-empty `Case`): <em>Éirinn, hÉirinn, Tigh</em>
 * `Gen` (1945; 52% of non-empty `Case`): <em>Átha, cliath, Gaeltachta, Gaeilge, hÉireann, Bhaile, hEorpa, Ghaeltachta, Éireann, Fómhair</em>
-* `NomAcc` (1725; 46% of non-empty `Case`): <em>Bhaile, Ghaeltacht, Seán, Coimisiún, Chathair, Éire, Ghaeilge, Údarás, Mháire, Dhún</em>
+* `Nom` (1725; 46% of non-empty `Case`): <em>Bhaile, Ghaeltacht, Seán, Coimisiún, Chathair, Éire, Ghaeilge, Údarás, Mháire, Dhún</em>
 * `Voc` (28; 1% of non-empty `Case`): <em>Mháire, Sheáin, Shéamais, Tom, Bheartla, Bhobby, Chití, Dhoráid, Fhinn, Learaí</em>
 * `EMPTY` (2198): <em>Údarás, Baile, AE, Chomhairle, Ghaeilge, Dé, UNESCO, AIE, Márta, John</em>
 
 <table>
-  <tr><th>Paradigm <i>Éire</i></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>NomAcc</tt></th></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=HPref</tt></tt></td><td><em>hÉirinn</em></td><td><em>hÉireann</em></td><td><em>hÉire</em></td></tr>
-  <tr><td><tt></tt></td><td><em>Éirinn</em></td><td><em>Éireann, Éireanna</em></td><td><em>Éire</em></td></tr>
+  <tr><th>Paradigm <i>Éire</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=HPref</tt></tt></td><td><em>hÉire</em></td><td><em>hÉirinn</em></td><td><em>hÉireann</em></td></tr>
+  <tr><td><tt></tt></td><td><em>Éire</em></td><td><em>Éirinn</em></td><td><em>Éireann, Éireanna</em></td></tr>
 </table>
 
 ### `ADJ`
@@ -71,23 +71,15 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Gen` (384; 11% of non-empty `Case`): <em>Eorpaigh, réigiúnacha, náisiúnta, poiblí, áitiúil, nua, sóisialta, sibhialta, éagsúla, idirnáisiúnta</em>
-* `NomAcc` (3048; 89% of non-empty `Case`): <em>nua, amháin, náisiúnta, mór, éagsúla, céanna, sibhialta, áirithe, idirnáisiúnta, iomlán</em>
+* `Gen` (383; 11% of non-empty `Case`): <em>Eorpaigh, réigiúnacha, náisiúnta, poiblí, áitiúil, nua, sóisialta, sibhialta, éagsúla, idirnáisiúnta</em>
+* `Nom` (3048; 89% of non-empty `Case`): <em>nua, amháin, náisiúnta, mór, éagsúla, céanna, sibhialta, áirithe, idirnáisiúnta, iomlán</em>
+* `Voc` (1; 0% of non-empty `Case`): <em>ghil</em>
 * `EMPTY` (3086): <em>maith, mó, mór, déanta, amháin, léir, háirithe, curtha, fearr, chóir</em>
 
 <table>
-  <tr><th>Paradigm <i>mór</i></th><th><tt>Gen</tt></th><th><tt>NomAcc</tt></th></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt>|<tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=NotSlender</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>mhóra</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt>|<tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=Slender</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>mhóra</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt>|<tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mhóir</em></td><td><em>mhór</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt>|<tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>mhór</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=NotSlender</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>móra</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=Strong</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>móra</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=Weak</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>mór</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Móir</em></td><td><em>mór</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=NotSlender</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>móra</em></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=Strong</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>móra</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Móire, Móir</em></td><td><em>mór</em></td></tr>
+  <tr><th>Paradigm <i>geal</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=Len</tt></tt></td><td></td><td><em>ghil</em></td><td><em>ghil</em></td></tr>
+  <tr><td><tt></tt></td><td><em>geal</em></td><td></td><td></td></tr>
 </table>
 
 ### `DET`
@@ -104,7 +96,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="ga_idt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3170; 87%),
+<tt>NOUN --[<tt><a href="ga_idt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3171; 87%),
 <tt>NOUN --[<tt><a href="ga_idt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1933; 90%),
 <tt>PROPN --[<tt><a href="ga_idt-dep-det.html">det</a></tt>]--> DET</tt> (581; 73%),
 <tt>NOUN --[<tt><a href="ga_idt-dep-appos.html">appos</a></tt>]--> NOUN</tt> (114; 77%),

@@ -8,12 +8,30 @@ udver: '2'
 
 This relation is universal.
 
-10 nodes (0%) are attached to their parents as `expl`.
+12 nodes (0%) are attached to their parents as `expl`.
 
-10 instances of `expl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.2.
+12 instances of `expl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.16666666666667.
 
-The following 5 pairs of parts of speech are connected with `expl`: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (3; 30% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (3; 30% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (2; 20% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (1; 10% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (1; 10% instances).
+The following 5 pairs of parts of speech are connected with `expl`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (5; 42% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (3; 25% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (2; 17% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (1; 8% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (1; 8% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 1 expl	color:blue
+1	Ան	ան	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	6	expl	_	Translit=An|LTranslit=an
+2	ալ	ալ	ADV	_	_	1	advmod:emph	_	Translit=al|LTranslit=al
+3	մեզի	մենք	PRON	_	Animacy=Hum|Case=Dat|Number=Plur|Person=1|PronType=Prs	6	obl	_	Translit=mezi|LTranslit=menk’
+4	՜	՜	PUNCT	_	_	3	punct	_	Translit=!|LTranslit=!
+5	համար	համար	ADP	_	AdpType=Post	3	case	_	Translit=hamar|LTranslit=hamar
+6	ըսած	ըսել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=ësaç|LTranslit=ësel
+7	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
+8	։	։	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
+
+~~~
 
 
 ~~~ conllu
@@ -37,24 +55,6 @@ The following 5 pairs of parts of speech are connected with `expl`: <tt><a href=
 13	.	.	PUNCT	_	_	12	punct	_	Translit=.|LTranslit=.
 14	Աբովեան	Աբովեան	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Plur	12	flat:name	_	Translit=Abovean|LTranslit=Abovean|SpaceAfter=No
 15	։	։	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 1 expl	color:blue
-1	Ան	ան	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	6	expl	_	Translit=An|LTranslit=an
-2	ալ	ալ	ADV	_	_	1	advmod:emph	_	Translit=al|LTranslit=al
-3	մեզի	մենք	PRON	_	Animacy=Hum|Case=Dat|Number=Plur|Person=1|PronType=Prs	6	obl	_	Translit=mezi|LTranslit=menk’
-4	՜	՜	PUNCT	_	_	3	punct	_	Translit=!|LTranslit=!
-5	համար	համար	ADP	_	AdpType=Post	3	case	_	Translit=hamar|LTranslit=hamar
-6	ըսած	ըսել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=ësaç|LTranslit=ësel
-7	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
-8	։	։	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

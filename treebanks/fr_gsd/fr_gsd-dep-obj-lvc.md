@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="fr_gsd-dep-obj.html">obj</a></tt>.
 There are also 1 other language-specific subtypes of `obj`: <tt><a href="fr_gsd-dep-obj-agent.html">obj:agent</a></tt>.
 
-566 nodes (0%) are attached to their parents as `obj:lvc`.
+552 nodes (0%) are attached to their parents as `obj:lvc`.
 
-565 instances of `obj:lvc` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.23674911660777.
+552 instances of `obj:lvc` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.19565217391304.
 
-The following 3 pairs of parts of speech are connected with `obj:lvc`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (563; 99% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `obj:lvc`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (550; 100% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -32,37 +32,6 @@ The following 3 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 7	de	de	ADP	_	_	8	case	_	_
 8	Nobressart	Nobressart	PROPN	_	_	6	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 10 obj:lvc	color:blue
-1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	wordform=la
-2	Conquête	Conquête	PROPN	_	Gender=Fem|Number=Sing	0	root	_	_
-3	de	de	ADP	_	_	4	case	_	_
-4	Jérusalem	Jérusalem	PROPN	_	_	2	nmod	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	6	punct	_	_
-6	faisant	faire	VERB	_	Tense=Pres|VerbForm=Part	2	acl	_	_
-7	suite	suite	NOUN	_	Gender=Fem|Number=Sing	10	case	_	ExtPos=ADP|PhraseType=Idiom
-8	à	à	ADP	_	_	7	fixed	_	InIdiom=Yes
-9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-10	Chanson	Chanson	PROPN	_	Gender=Fem|Number=Sing	6	obj:lvc	_	_
-11	d'	de	ADP	_	_	12	case	_	SpaceAfter=No
-12	Antioche	Antioche	PROPN	_	_	10	nmod	_	SpaceAfter=No
-13	,	,	PUNCT	_	_	15	punct	_	_
-14	par	par	ADP	_	_	15	case	_	_
-15	Graindor	Graindor	PROPN	_	_	10	nmod	_	_
-16	de	de	ADP	_	_	17	case	_	_
-17	Douai	Douai	PROPN	_	_	15	nmod	_	_
-18	(	(	PUNCT	_	_	19	punct	_	SpaceAfter=No
-19	1868	1868	NUM	_	Number=Plur	10	nmod	_	SpaceAfter=No
-20	)	)	PUNCT	_	_	19	punct	_	_
-21	;	;	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
@@ -116,19 +85,55 @@ The following 3 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 41	,	,	PUNCT	_	_	8	punct	_	_
 42	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 43	«	«	PUNCT	_	_	44	punct	_	_
-44	contre	contre	ADP	_	_	42	obj:lvc	_	ExtPos=NOUN|PhraseType=Idiom
+44	contre	contre	ADP	_	_	42	obj:lvc	_	ExtPos=NOUN|Idiom=Yes
 45	mauvaise	mauvais	ADJ	_	Gender=Fem|Number=Sing	44	fixed	_	InIdiom=Yes
 46	fortune	fortune	NOUN	_	Gender=Fem|Number=Sing	44	fixed	_	InIdiom=Yes
 47	bon	bon	ADJ	_	Gender=Masc|Number=Sing	44	fixed	_	InIdiom=Yes
 48	coeur	cœur	NOUN	_	Gender=Masc|Number=Sing	44	fixed	_	InIdiom=Yes|wordform=cœur
 49	»	»	PUNCT	_	_	44	punct	_	_
 50	et	et	CCONJ	_	_	51	cc	_	_
-51	change	changer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	conj	_	ExtPos=VERB|PhraseType=Idiom
-52	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	51	fixed	_	InIdiom=Yes
-53	fusil	fusil	NOUN	_	Gender=Masc|Number=Sing	51	fixed	_	InIdiom=Yes
-54	d'	de	ADP	_	_	51	fixed	_	InIdiom=Yes|SpaceAfter=No
-55	épaule	épaule	NOUN	_	Gender=Fem|Number=Sing	51	fixed	_	InIdiom=Yes|SpaceAfter=No
+51	change	changer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	conj	_	_
+52	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	53	det	_	_
+53	fusil	fusil	NOUN	_	Gender=Masc|Number=Sing	51	obj:lvc	_	_
+54	d'	de	ADP	_	_	55	case	_	SpaceAfter=No
+55	épaule	épaule	NOUN	_	Gender=Fem|Number=Sing	51	obl:arg	_	SpaceAfter=No
 56	.	.	PUNCT	_	_	42	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 obj:lvc	color:blue
+1	Un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	wordform=un
+2	jour	jour	NOUN	_	Gender=Masc|Number=Sing	6	obl:mod	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	Abelforth	Abelforth	PROPN	_	_	6	nsubj	_	_
+5	en	en	PRON	_	Person=3|PronType=Prs	7	nmod	_	_
+6	eût	avoir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+7	assez	assez	ADV	_	_	6	obj:lvc	_	_
+8	et	et	CCONJ	_	_	9	cc	_	_
+9	tenta	tenter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
+10	de	de	ADP	_	_	11	mark	_	_
+11	convaincre	convaincre	VERB	_	VerbForm=Inf	9	xcomp	_	_
+12	Albus	Albus	PROPN	_	_	11	obj	_	_
+13	de	de	ADP	_	_	14	mark	_	_
+14	laisser	laisser	VERB	_	VerbForm=Inf	11	xcomp	_	_
+15	tomber	tomber	VERB	_	VerbForm=Inf	14	xcomp	_	_
+16	tous	tout	ADJ	_	Gender=Masc|Number=Plur	18	amod	_	_
+17	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|PronType=Prs	18	det	_	_
+18	plans	plan	NOUN	_	Gender=Masc|Number=Plur	15	obj	_	_
+19	de	de	ADP	_	_	20	case	_	_
+20	grandeur	grandeur	NOUN	_	Gender=Fem|Number=Sing	18	nmod	_	_
+21	pour	pour	ADP	_	_	23	mark	_	_
+22	s'	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	23	expl:pv	_	SpaceAfter=No
+23	occuper	occuper	VERB	_	VerbForm=Inf	14	advcl	_	_
+24	d'	de	ADP	_	_	25	case	_	SpaceAfter=No
+25	Ariana	Ariana	PROPN	_	_	23	obl:arg	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

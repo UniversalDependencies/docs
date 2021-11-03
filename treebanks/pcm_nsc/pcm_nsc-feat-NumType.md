@@ -16,12 +16,12 @@ The feature is used with 4 part-of-speech tags: <tt><a href="pcm_nsc-pos-NUM.htm
 
 ### `NUM`
 
-1305 <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> tokens (96% of all `NUM` tokens) have a non-empty value of `NumType`.
+1305 <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> tokens (95% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 `NUM` tokens may have the following values of `NumType`:
 
 * `Card` (1305; 100% of non-empty `NumType`): <em>one, two, five, three, hundred, thousand, twenty, six, seven, fifty</em>
-* `EMPTY` (61): <em>ten, fifteen, billion, k, o, 101, fourty, nineteen, o~, two</em>
+* `EMPTY` (62): <em>ten, fifteen, billion, k, o, two, 101, fourty, nineteen, o~</em>
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (31) occur only with one value of `NumType`.
 
@@ -32,7 +32,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="pcm_nsc-pos-NUM.htm
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (108; 100% of non-empty `NumType`): <em>first, second, third, fourth, eleventh, tenth, eighteenth, fifth, twenty-fourth</em>
-* `EMPTY` (3498): <em>small, own, good, kind, different, better, many, big, plenty, last</em>
+* `EMPTY` (3432): <em>small, own, good, kind, different, better, many, plenty, big, oder</em>
 
 ### `NOUN`
 
@@ -43,7 +43,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Card` (13; 100% of non-empty `NumType`): <em>one, sixteen</em>
-* `EMPTY` (14752): <em>people, one, money, ting, school, time, man, person, house, work</em>
+* `EMPTY` (14734): <em>people, one, money, ting, school, time, man, person, house, work</em>
 
 ### `X`
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `X` tokens may have the following values of `NumType`:
 
 * `Card` (1; 100% of non-empty `NumType`): <em>thou~</em>
-* `EMPTY` (40275): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
+* `EMPTY` (40230): <em>#, //, <, {, }, [, |c, ||, ], >+</em>
 
 ## Relations with Agreement in `NumType`
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1286 nodes (1%) are attached to their parents as `aux`.
+1285 nodes (1%) are attached to their parents as `aux`.
 
-1285 instances of `aux` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.04121306376361.
+1284 instances of `aux` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.04124513618677.
 
-The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (1170; 91% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (91; 7% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="tr_tourism-pos-DET.html">DET</a></tt>-<tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (1170; 91% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (90; 7% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="tr_tourism-pos-DET.html">DET</a></tt>-<tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -58,7 +58,7 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 3	ADINA	ad	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	6	parataxis	_	_
 4	BİLGİ	bilgi	NOUN	_	Case=Nom|Number=Sing|Person=3	5	compound	_	_
 5	BİLGİ	bilgi	NOUN	_	Case=Nom|Number=Sing|Person=3	6	compound	_	_
-6	ALABİLİR	al	VERB	_	Aspect=Hab|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	ALABİLİR	al	VERB	_	Aspect=Hab|Mood=GenPot|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	MİYİM	mi	AUX	_	PronType=Int	6	aux	_	_
 8	.	.	PUNCT	_	_	6	punct	_	_
 

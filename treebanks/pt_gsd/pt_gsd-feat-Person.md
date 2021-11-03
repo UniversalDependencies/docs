@@ -21,7 +21,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="pt_gsd-pos-PRON.htm
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (1; 100% of non-empty `Person`): <em>mim</em>
-* `EMPTY` (7389): <em>que, se, ele, isso, o, ela, um, eu, eles, quem</em>
+* `EMPTY` (7367): <em>que, se, ele, isso, o, ela, um, eu, eles, quem</em>
 
 ### `VERB`
 
@@ -30,5 +30,5 @@ The feature is used with 2 part-of-speech tags: <tt><a href="pt_gsd-pos-PRON.htm
 `VERB` tokens may have the following values of `Person`:
 
 * `3` (1; 100% of non-empty `Person`): <em>virou</em>
-* `EMPTY` (27581): <em>é, tem, disse, está, há, foi, fazer, estão, afirmou, teve</em>
+* `EMPTY` (27482): <em>é, tem, disse, está, há, foi, fazer, estão, afirmou, teve</em>
 

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Japanese-PUD: POS Tags: `ADP`
 
 There are 24 `ADP` lemmas (0%), 24 `ADP` types (0%) and 6642 `ADP` tokens (23%).
-Out of 16 observed tags, the rank of `ADP` is: 9 in number of lemmas, 9 in number of types and 2 in number of tokens.
+Out of 16 observed tags, the rank of `ADP` is: 8 in number of lemmas, 9 in number of types and 2 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: の, は, に, を, が, と, で, も, から, や
 
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  の (<tt><a href="ja_pud-pos-ADP.html">AD
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.049631).
+The form / lemma ratio of `ADP` is 1.000000 (the average of all parts of speech is 1.050009).
 
 The 1st highest number of forms (1) was observed with the lemma “か”: か.
 
@@ -73,15 +73,15 @@ Parents of `ADP` nodes belong to 12 different parts of speech: <tt><a href="ja_p
 
 6339 (95%) `ADP` nodes are leaves.
 
-111 (2%) `ADP` nodes have one child.
+112 (2%) `ADP` nodes have one child.
 
-188 (3%) `ADP` nodes have two children.
+187 (3%) `ADP` nodes have two children.
 
 4 (0%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 3.
 
-Children of `ADP` nodes are attached using 1 different relations: <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (499; 100% instances)
+Children of `ADP` nodes are attached using 1 different relations: <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (498; 100% instances)
 
-Children of `ADP` nodes belong to 4 different parts of speech: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (243; 49% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (169; 34% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (83; 17% instances), <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (4; 1% instances)
+Children of `ADP` nodes belong to 4 different parts of speech: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (243; 49% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (175; 35% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (76; 15% instances), <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (4; 1% instances)
 

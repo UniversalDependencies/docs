@@ -9,94 +9,106 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="hyw_armtdp-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="hyw_armtdp-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
-5 nodes (0%) are attached to their parents as `nsubj:caus`.
+15 nodes (0%) are attached to their parents as `nsubj:caus`.
 
-5 instances of `nsubj:caus` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.4.
+15 instances of `nsubj:caus` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.4.
 
-The following 2 pairs of parts of speech are connected with `nsubj:caus`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (4; 80% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (1; 20% instances).
+The following 4 pairs of parts of speech are connected with `nsubj:caus`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (9; 60% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (4; 27% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 nsubj:caus	color:blue
-1	—	—	PUNCT	_	_	6	punct	_	Translit=—|LTranslit=—
-2	Հանրային	հանրային	ADJ	_	Degree=Pos	3	amod	_	Translit=Hanrayin|LTranslit=hanrayin
-3	պարտքի	պարտք	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	4	nmod:poss	_	Translit=partk’i|LTranslit=partk’
-4	վարչութիւնը	վարչութիւն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	6	nsubj:caus	_	Translit=varčowt’iwnë|LTranslit=varčowt’iwn
-5	սնտուկներ	սնտուկ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Plur	6	obj	_	Translit=sntowkner|LTranslit=sntowk
-6	պատրաստել	պատրաստել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	0	root	_	Translit=patrastel|LTranslit=patrastel
-7	կու	կը	AUX	_	Aspect=Imp|Mood=Ind	6	aux	_	Translit=kow|LTranslit=kë
-8	տայ	տալ	AUX	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Cau	6	aux:caus	_	Translit=tay|LTranslit=tal
-9	կոր	կոր	AUX	_	Aspect=Prog|Mood=Ind|Style=Coll	6	aux	_	Translit=kor|LTranslit=kor
-10	տետրակները	տետրակ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	11	obj	_	Translit=tetraknerë|LTranslit=tetrak
-11	փոխադրելու	փոխադրել	VERB	_	Case=Dat|Definite=Ind|Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	6	obl	_	Translit=p’oxadrelow|LTranslit=p’oxadrel
-12	համար	համար	ADP	_	AdpType=Post	11	case	_	Translit=hamar|LTranslit=hamar|SpaceAfter=No
-13	։	։	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 3 nsubj:caus	color:blue
+1	Միայն	միայն	ADV	_	_	2	advmod:emph	_	Translit=Miayn|LTranslit=miayn
+2	Յունուար	Յունուար	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	3	nmod	_	Translit=Yownowar|LTranslit=Yownowar
+3	ամիսը	ամիս	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	7	nsubj:caus	_	Translit=amisë|LTranslit=amis
+4	այնքան	այնքան	DET	_	Deixis=Remt|PronType=Dem	5	det	_	Translit=aynk’an|LTranslit=aynk’an
+5	շատերու	շատ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Plur	7	obj	_	Translit=šaterow|LTranslit=šat
+6	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	7	aux	_	Translit=kë|LTranslit=kë
+7	յիշեցնէ	յիշեցնել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Cau	0	root	_	Translit=yišec’nē|LTranslit=yišec’nel
+8	մեզի	մենք	PRON	_	Animacy=Hum|Case=Dat|Number=Plur|Person=1|PronType=Prs	7	iobj:agent	_	Translit=mezi|LTranslit=menk’|SpaceAfter=No
+9	։	։	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 7 nsubj:caus	color:blue
-1	Յանկարծ	յանկարծ	ADV	_	_	5	advmod	_	Translit=Yankarç|LTranslit=yankarç
-2	հայրենիքէն	հայրենիք	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Def|Number=Sing	5	obl	_	Translit=hayrenik’ēn|LTranslit=hayrenik’
-3	թուղթ	թուղթ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	5	nsubj	_	Translit=t’owġt’|LTranslit=t’owġt’
-4	մը	մը	DET	_	PronType=Art	3	det	_	Translit=më|LTranslit=më
-5	եկաւ	գալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Translit=ekaw|LTranslit=gal|SpaceAfter=No
-6	,	,	PUNCT	_	_	10	punct	_	Translit=,|LTranslit=,
-7	որ	որ	PRON	_	Case=Nom|Definite=Ind|Number=Sing|PronType=Rel	10	nsubj:caus	_	Translit=or|LTranslit=or
-8	բռնի	բռնի	ADV	_	_	10	advmod	_	Translit=bṙni|LTranslit=bṙni
-9	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	10	aux	_	Translit=kë|LTranslit=kë
-10	յիշեցնէր	յիշեցնել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Cau	3	acl:relcl	_	Translit=yišec’nēr|LTranslit=yišec’nel
-11	իրեն	ինք	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Emp	10	iobj:agent	_	Translit=iren|LTranslit=ink’
-12	մոռցած	մոռնալ	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	17	acl	_	Translit=moṙc’aç|LTranslit=moṙnal
-13	ու	ու	CCONJ	_	_	15	cc	_	Translit=ow|LTranslit=ow
-14	ոտնակոխ	ոտնակոխ	ADJ	_	_	15	compound:lvc	_	Translit=otnakox|LTranslit=otnakox
-15	ըրած	ընել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	12	conj	_	Translit=ëraç|LTranslit=ënel
-16	սրբազան	սրբազան	ADJ	_	_	17	amod	_	Translit=srbazan|LTranslit=srbazan
-17	պարտաւորութիւնները	պարտաւորութիւն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	10	obj	_	Translit=partaworowt’iwnnerë|LTranslit=partaworowt’iwn|SpaceAfter=No
-18	.	.	PUNCT	_	_	28	punct	_	Translit=.|LTranslit=.
-19	այն	այն	DET	_	Deixis=Remt|PronType=Dem	21	det	_	Translit=ayn|LTranslit=ayn
-20	բարակ	բարակ	ADJ	_	Degree=Pos	21	amod	_	Translit=barak|LTranslit=barak
-21	պահարանին	պահարան	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	23	obl	_	Translit=paharanin|LTranslit=paharan
-22	մէջէն	մէջ	ADP	_	AdpType=Post|Case=Abl|Definite=Def	21	case:loc	_	Translit=mēǰēn|LTranslit=mēǰ
-23	ելլող	ելլել	VERB	_	Aspect=Dur|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	26	acl	_	Translit=elloġ|LTranslit=ellel
-24	քառածալ	քառածալ	ADJ	_	_	25	amod	_	Translit=k’aṙaçal|LTranslit=k’aṙaçal
-25	թուղթի	թուղթ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	26	nmod:poss	_	Translit=t’owġt’i|LTranslit=t’owġt’
-26	կտորը	կտոր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	28	nsubj	_	Translit=ktorë|LTranslit=ktor
-27	անխուսափելի	անխուսափելի	ADJ	_	Degree=Pos	28	amod	_	Translit=anxowsap’eli|LTranslit=anxowsap’eli
-28	պարսաւ	պարսաւ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Coll	5	conj	_	Translit=parsaw|LTranslit=parsaw
-29	մըն	մը	DET	_	PronType=Art	28	det	_	Translit=mën|LTranslit=më
-30	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	28	cop	_	Translit=ēr|LTranslit=em
-31	ուսկից	ուսկից	ADV	_	Style=Vrnc	34	advmod	_	Translit=owskic’|LTranslit=owskic’
-32	ակամայ	ակամայ	ADV	_	_	34	advmod	_	Translit=akamay|LTranslit=akamay
-33	կ՚	կը	AUX	_	Aspect=Imp|Mood=Ind	34	aux	_	Translit=k,|LTranslit=kë|SpaceAfter=No
-34	ամչնար	ամչնալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Mid	28	acl	_	Translit=amčnar|LTranslit=amčnal|SpaceAfter=No
-35	.	.	PUNCT	_	_	46	punct	_	Translit=.|LTranslit=.
-36	այդ	այդ	DET	_	Deixis=Med|PronType=Dem	39	det	_	Translit=ayd|LTranslit=ayd
-37	անզգայ	անզգայ	ADJ	_	Degree=Pos	39	amod	_	Translit=anzgay|LTranslit=anzgay
-38	փոքրիկ	փոքրիկ	ADJ	_	Degree=Pos	39	amod	_	Translit=p’ok’rik|LTranslit=p’ok’rik
-39	սուրհանդակը	սուրհանդակ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	46	nsubj	_	Translit=sowrhandakë|LTranslit=sowrhandak
-40	ընտանի	ընտանի	ADJ	_	Degree=Pos	43	amod	_	Translit=ëntani|LTranslit=ëntani
-41	եւ	եւ	CCONJ	_	_	42	cc	_	Translit=ew|LTranslit=ew
-42	անողոք	անողոք	ADJ	_	Degree=Pos	40	conj	_	Translit=anoġok’|LTranslit=anoġok’
-43	մարդու	մարդ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	44	nmod:poss	_	Translit=mardow|LTranslit=mard
-44	կերպարանք	կերպարանք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	46	compound:lvc	_	Translit=kerparank’|LTranslit=kerparank’
-45	կ՚	կը	AUX	_	Aspect=Imp|Mood=Ind	46	aux	_	Translit=k,|LTranslit=kë|SpaceAfter=No
-46	առնէր	առնել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	5	conj	_	Translit=aṙnēr|LTranslit=aṙnel
-47	եւ	եւ	CCONJ	_	_	50	cc	_	Translit=ew|LTranslit=ew
-48	զինքը	ինք	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Emp|Style=Coll	50	obj	_	Translit=zink’ë|LTranslit=ink’
-49	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	50	aux	_	Translit=kë|LTranslit=kë
-50	յանդիմանէր	յանդիմանել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	46	conj	_	Translit=yandimanēr|LTranslit=yandimanel|SpaceAfter=No
-51	:	:	PUNCT	_	Foreign=Yes	5	punct	_	Translit=.|LTranslit=.
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 nsubj:caus	color:blue
+1	Ան	ան	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj:caus	_	Translit=An|LTranslit=an
+2	դիտել	դիտել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	0	root	_	Translit=ditel|LTranslit=ditel
+3	տուաւ	տալ	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Cau	2	aux:caus	_	Translit=towaw|LTranslit=tal|SpaceAfter=No
+4	,	,	PUNCT	_	_	14	punct	_	Translit=,|LTranslit=,
+5	որ	որ	SCONJ	_	_	14	mark	_	Translit=or|LTranslit=or
+6	այսօր	այսօր	ADV	_	_	14	advmod	_	Translit=aysòr|LTranslit=aysòr
+7	նոյնիսկ	նոյնիսկ	ADV	_	_	10	advmod:emph	_	Translit=noynisk|LTranslit=noynisk
+8	մեր	մենք	DET	_	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	9	det:poss	_	Translit=mer|LTranslit=menk’
+9	վարժարաններու	վարժարան	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	10	nmod:poss	_	Translit=varžarannerow|LTranslit=varžaran
+10	վարիչները	վարիչ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur	14	nsubj	_	Translit=varičnerë|LTranslit=varič
+11	իրենց	ինք	DET	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	12	det:poss	_	Translit=irenc’|LTranslit=ink’
+12	զաւակները	զաւակ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur	14	obj	_	Translit=zawaknerë|LTranslit=zawak
+13	չեն	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	14	aux	_	Translit=čen|LTranslit=em
+14	ուղարկեր	ուղարկել	VERB	_	Aspect=Imp|Connegative=Yes|Subcat=Tran|VerbForm=Part|Voice=Act	2	ccomp	_	Translit=owġarker|LTranslit=owġarkel
+15	իրենց	ինք	DET	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	16	nsubj	_	Translit=irenc’|LTranslit=ink’
+16	ղեկավարած	ղեկավարել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	17	acl	_	Translit=ġekavaraç|LTranslit=ġekavarel
+17	դպրոցը	դպրոց	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	14	obl	_	Translit=dproc’ë|LTranslit=dproc’|SpaceAfter=No
+18	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 12 nsubj:caus	color:blue
+1	Սնահաւատութենէ	սնահաւատութիւն	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Coll	5	obl	_	Translit=Snahawatowt’enē|LTranslit=snahawatowt’iwn
+2	ալ	ալ	ADV	_	_	1	advmod:emph	_	Translit=al|LTranslit=al
+3	իր	ինք	DET	_	Case=Gen|Number=Sing|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	4	det:poss	_	Translit=ir|LTranslit=ink’
+4	բաժինը	բաժին	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	5	obj	_	Translit=bažinë|LTranslit=bažin
+5	ստացած	ստանալ	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=stac’aç|LTranslit=stanal
+6	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	Translit=ē|LTranslit=em
+7	աչքը	աչք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	5	nsubj	_	Translit=ačk’ë|LTranslit=ačk’|SpaceAfter=No
+8	.	.	PUNCT	_	_	15	punct	_	Translit=.|LTranslit=.
+9	երբեմն	երբեմն	ADV	_	_	15	advmod	_	Translit=erbemn|LTranslit=erbemn
+10	կապոյտ	կապոյտ	ADJ	_	Degree=Pos	11	amod	_	Translit=kapoyt|LTranslit=kapoyt
+11	գոյնով	գոյն	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	12	nmod:npmod	_	Translit=goynov|LTranslit=goyn
+12	աչքի	աչք	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	13	nsubj:caus	_	Translit=ačk’i|LTranslit=ačk’
+13	նշաններ	նշան	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Plur	15	nsubj:pass	_	Translit=nšanner|LTranslit=nšan
+14	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	15	aux	_	Translit=kë|LTranslit=kë
+15	դրուին	դնել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Pass	5	conj	_	Translit=drowin|LTranslit=dnel
+16	դռներու	դուռ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	15	obl	_	Translit=dṙnerow|LTranslit=dowṙ
+17	վրայ	վրայ	ADP	_	AdpType=Post	16	case	_	Translit=vray|LTranslit=vray
+18	եւ	եւ	CCONJ	_	_	27	cc	_	Translit=ew|LTranslit=ew
+19	ըստ	ըստ	ADP	_	AdpType=Prep	20	case	_	Translit=ëst|LTranslit=ëst
+20	այնմ	այնմ	PRON	_	Deixis=Remt|Number=Sing|PronType=Dem|Style=Rare	27	parataxis	_	Translit=aynm|LTranslit=aynm
+21	վատ	վատ	ADJ	_	Degree=Pos	22	amod	_	Translit=vat|LTranslit=vat
+22	բան	բան	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	24	nsubj	_	Translit=ban|LTranslit=ban
+23	մը	մը	DET	_	PronType=Art	22	det	_	Translit=më|LTranslit=më
+24	պատահելու	պատահիլ	VERB	_	Case=Dat|Definite=Ind|Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	27	obl	_	Translit=patahelow|LTranslit=patahil
+25	պարագային	պարագային	ADP	_	AdpType=Post	24	case	_	Translit=paragayin|LTranslit=paragayin
+26	կ՚	կը	AUX	_	Aspect=Imp|Mood=Ind	27	aux	_	Translit=k,|LTranslit=kë|SpaceAfter=No
+27	ըսուի	ըսել	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Pass	5	conj	_	Translit=ësowi|LTranslit=ësel
+28	«	«	PUNCT	_	_	31	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
+29	անպայման	անպայման	PART	_	_	31	discourse	_	Translit=anpayman|LTranslit=anpayman
+30	աչք	աչք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	31	compound:lvc	_	Translit=ačk’|LTranslit=ačk’
+31	դպած	դպիլ	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	27	csubj:pass	_	Translit=dpaç|LTranslit=dpil
+32	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	31	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
+33	»	»	PUNCT	_	_	31	punct	_	Translit=»|LTranslit=»
+34	կամ	կամ	CCONJ	_	_	37	cc	_	Translit=kam|LTranslit=kam
+35	«	«	PUNCT	_	_	37	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
+36	աչքէ	աչք	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Sing	37	obl	_	Translit=ačk’ē|LTranslit=ačk’
+37	եղաւ	ըլլալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	31	conj	_	Translit=eġaw|LTranslit=ëllal|SpaceAfter=No
+38	»	»	PUNCT	_	_	37	punct	_	Translit=»|LTranslit=»|SpaceAfter=No
+39	։	։	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

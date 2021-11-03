@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="id_pud-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-254 nodes (1%) are attached to their parents as `acl`.
+245 nodes (1%) are attached to their parents as `acl`.
 
-250 instances of `acl` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.90157480314961.
+242 instances of `acl` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.8.
 
-The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (235; 93% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (7; 3% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (7; 3% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (228; 93% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (7; 3% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (7; 3% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 1	Mungkin	mungkin	ADV	_	_	6	advmod	_	_
 2	kode	kode	NOUN	_	Number=Sing	6	nsubj	_	_
 3	berpakaian	pakai	VERB	_	Mood=Ind|Voice=Act	2	acl	_	_
-4	nya	nya	DET	_	PronType=Dem	2	det	_	_
+4	nya	nya	DET	_	Definite=Def|PronType=Art	2	det	_	_
 5	terlalu	lalu	ADV	_	_	6	advmod	_	_
 6	sesak	sesak	ADJ	_	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_

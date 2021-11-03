@@ -45,7 +45,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 591 <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (542; 92%), <tt><a href="it_valico-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (540; 91%), <tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=3</tt> (397; 67%), <tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (384; 65%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (542; 92%), <tt><a href="it_valico-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (541; 92%), <tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=3</tt> (397; 67%), <tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (384; 65%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 

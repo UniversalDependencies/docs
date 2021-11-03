@@ -9,7 +9,7 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `nmod`: <tt><a href="koi_uh-dep-nmod-lmod.html">nmod:lmod</a></tt>, <tt><a href="koi_uh-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-38 nodes (5%) are attached to their parents as `nmod`.
+38 nodes (4%) are attached to their parents as `nmod`.
 
 36 instances of `nmod` (95%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.13157894736842.

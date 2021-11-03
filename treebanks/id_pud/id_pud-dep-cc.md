@@ -9,29 +9,32 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `cc`: <tt><a href="id_pud-dep-cc-preconj.html">cc:preconj</a></tt>.
 
-587 nodes (3%) are attached to their parents as `cc`.
+559 nodes (3%) are attached to their parents as `cc`.
 
-587 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.24531516183986.
+559 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.09838998211091.
 
-The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (259; 44% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (203; 35% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (78; 13% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (26; 4% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (11; 2% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="id_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="id_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="id_pud-pos-DET.html">DET</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-X.html">X</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (233; 42% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (201; 36% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (78; 14% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (26; 5% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (11; 2% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="id_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="id_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="id_pud-pos-DET.html">DET</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-X.html">X</a></tt>-<tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 cc	color:blue
-1	Namun	namun	CCONJ	_	_	4	cc	_	SpaceAfter=No
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 1 cc	color:blue
+1	Dan	dan	CCONJ	_	_	6	cc	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
-3	masih	masih	ADV	_	_	4	advmod	_	_
-4	ada	ada	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
-5	pertanyaan	tanya	NOUN	_	Number=Sing	4	nsubj	_	_
-6	yang	yang	PRON	_	PronType=Rel	8	nsubj:pass	_	_
-7	tak	tak	PART	_	Polarity=Neg	8	advmod	_	_
-8	terjawab	jawab	VERB	_	Mood=Ind|Voice=Pass	5	acl:relcl	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	4	punct	_	_
+3	tentu	tentu	ADV	_	_	6	advmod	_	_
+4	saja	saja	ADV	_	_	3	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	ada	ada	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
+7	Bob	Bob	PROPN	_	_	6	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	sumber	sumber	NOUN	_	Number=Sing	7	appos	_	_
+10	tetap	tetap	ADJ	_	_	9	amod	_	_
+11	hiburan	hibur	NOUN	_	Number=Sing	9	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

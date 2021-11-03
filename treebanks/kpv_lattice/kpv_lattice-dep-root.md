@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-658 nodes (8%) are attached to their parents as `root`.
+662 nodes (8%) are attached to their parents as `root`.
 
-658 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.61094224924012.
+662 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.63293051359517.
 
-The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (516; 78% instances), -<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (54; 8% instances), -<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (51; 8% instances), -<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (23; 3% instances), -<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (8; 1% instances), -<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (3; 0% instances), -<tt><a href="kpv_lattice-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), -<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (520; 79% instances), -<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (54; 8% instances), -<tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (51; 8% instances), -<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (23; 3% instances), -<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (8; 1% instances), -<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (3; 0% instances), -<tt><a href="kpv_lattice-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), -<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

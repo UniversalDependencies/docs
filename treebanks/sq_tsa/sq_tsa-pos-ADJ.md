@@ -34,8 +34,8 @@ The 3rd highest number of forms (2) was observed with the lemma “emocional”:
 `ADJ` occurs with 5 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `VerbForm=Part`
 
 `ADJ` occurs with 9 feature combinations.
-The most frequent feature combination is `Gender=Masc|Number=Sing` (22 tokens).
-Examples: <em>rëndësishëm, madh, Anglez, Evropian, abstrakt, drejtpërdrejtë, jashtëinstitucional, kelt, kryesor, ngjashëm</em>
+The most frequent feature combination is `Gender=Fem|Number=Plur` (22 tokens).
+Examples: <em>dendura, emocionale, fiziologjike, fosile, greke, jetësore, komplekse, liberale, metafizike, mjaftueshme</em>
 
 
 ## Relations

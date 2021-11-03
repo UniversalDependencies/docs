@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="la_udante-dep-aux.html">aux</a></tt>.
 
-511 nodes (1%) are attached to their parents as `aux:pass`.
+512 nodes (1%) are attached to their parents as `aux:pass`.
 
-382 instances of `aux:pass` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.18003913894325.
+383 instances of `aux:pass` (75%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.1796875.
 
-The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (511; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (512; 100% instances).
 
 
 ~~~ conllu

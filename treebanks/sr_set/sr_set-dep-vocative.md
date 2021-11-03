@@ -22,9 +22,9 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 5 vocative	color:blue
-1	Southeast	southeast	X	Xf	_	10	parataxis	_	_
-2	European	european	X	Xf	_	1	flat	_	_
-3	Times	times	X	Xf	_	1	flat	_	SpaceAfter=No
+1	Southeast	southeast	X	Xf	Foreign=Yes	10	parataxis	_	_
+2	European	european	X	Xf	Foreign=Yes	1	flat	_	_
+3	Times	times	X	Xf	Foreign=Yes	1	flat	_	SpaceAfter=No
 4	:	:	PUNCT	Z	_	1	punct	_	_
 5	Gospodine	gospodin	NOUN	Ncmsv	Case=Voc|Gender=Masc|Number=Sing	10	vocative	_	_
 6	predsedniče	predsednik	NOUN	Ncmsv	Case=Voc|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No

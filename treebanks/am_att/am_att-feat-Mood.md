@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 `VERB` tokens may have the following values of `Mood`:
 
 * `Jus` (17; 100% of non-empty `Mood`): ሂድ, ብላ, ላክ, መጣ, ሰጥ, ስበር, አሳይ, አውጣ, ውረድ, ዘጋ
-* `EMPTY` (1536): ሄድ, መጣ, ኣል, ሆን, በላ, ብል, ሰጥ, ቀር, ገዛ, ል
+* `EMPTY` (1535): ሄድ, መጣ, ኣል, ሆን, በላ, ብል, ሰጥ, ቀር, ገዛ, ል
 
 `Mood` seems to be **lexical feature** of `VERB`. 100% lemmas (15) occur only with one value of `Mood`.
 

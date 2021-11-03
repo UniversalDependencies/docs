@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="pt_bosque-dep-aux.html">aux</a></tt>.
 
-1195 nodes (1%) are attached to their parents as `aux:pass`.
+1210 nodes (1%) are attached to their parents as `aux:pass`.
 
-1193 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.12970711297071.
+1208 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.13636363636364.
 
-The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (1178; 99% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (16; 1% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (1193; 99% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (16; 1% instances), <tt><a href="pt_bosque-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_bosque-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,15 +35,22 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 aux:pass	color:blue
-1	A	o	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	decoração	decoração	NOUN	_	Gender=Fem|Number=Sing	5	nsubj:pass	_	_
-3	também	também	ADV	_	_	5	advmod	_	_
-4	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
-5	divertida	divertido	ADJ	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	5	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 4 aux:pass	color:blue
+1	«	«	PUNCT	_	_	7	punct	_	SpaceAfter=No
+2	Qualquer	qualquer	DET	_	Gender=Fem|Number=Sing|PronType=Ind	3	det	_	_
+3	doação	doação	NOUN	_	Gender=Fem|Number=Sing	7	nsubj:pass	_	_
+4	seria	ser	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	7	aux:pass	_	_
+5	muito	muito	ADV	_	_	6	advmod	_	_
+6	bem	bem	ADV	_	_	7	advmod	_	_
+7	recebida	recebido	ADJ	_	Gender=Fem|Number=Sing	10	parataxis	_	SpaceAfter=No
+8	»	»	PUNCT	_	_	7	punct	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	7	punct	_	_
+10	diz	dizer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	madre	madre	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
+12	Maria	Maria	PROPN	_	Gender=Fem|Number=Sing	11	appos	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	10	punct	_	_
 
 ~~~
 
@@ -59,7 +66,7 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 3	único	único	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
 4	trabalho	trabalho	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
 5	de	de	ADP	_	_	7	case	_	_
-6	as	o	DET	_	Definite=Def|PronType=Art	7	det	_	_
+6	as	o	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
 7	pessoas	pessoa	NOUN	_	Gender=Fem|Number=Plur	4	nmod	_	_
 8	é	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
 9	separar	separar	VERB	_	VerbForm=Inf	0	root	_	_

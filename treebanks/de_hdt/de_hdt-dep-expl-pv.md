@@ -11,7 +11,7 @@ This relation is a language-specific subtype of <tt><a href="de_hdt-dep-expl.htm
 10468 nodes (0%) are attached to their parents as `expl:pv`.
 
 6275 instances of `expl:pv` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.79824226213221.
+Average distance between parent and child is 4.88842185708827.
 
 The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (10450; 100% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt>-<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (18; 0% instances).
 

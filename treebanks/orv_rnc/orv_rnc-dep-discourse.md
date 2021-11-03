@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-29 nodes (0%) are attached to their parents as `discourse`.
+36 nodes (0%) are attached to their parents as `discourse`.
 
-24 instances of `discourse` (83%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.48275862068966.
+29 instances of `discourse` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.58333333333333.
 
-The following 4 pairs of parts of speech are connected with `discourse`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (26; 90% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-INTJ.html">INTJ</a></tt> (1; 3% instances).
+The following 6 pairs of parts of speech are connected with `discourse`: <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt> (26; 72% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-INTJ.html">INTJ</a></tt> (6; 17% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-PART.html">PART</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -35,72 +35,68 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 discourse	color:blue
-1	Оле	оле	INTJ	_	_	2	discourse	_	_
-2	бѣда	бѣда	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	4	punct	_	_
-4	рещи	рещи	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	parataxis	_	SpaceAfter=No
-5	,	,	PUNCT	_	_	4	punct	_	_
-6	и	и	CCONJ	_	_	8	cc	_	_
-7	безаконное	беззаконный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
-8	поумѣние	поумѣние	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	conj	_	_
-9	тогда	тогда	ADV	_	Degree=Pos	10	advmod	_	_
-10	обрѣте	обрѣсти	VERB	Tense=Aor	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	_
-11	лукаво	лукавый	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	12	amod	_	_
-12	зломыслие	зломыслие	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	obj	_	_
-13	и	и	CCONJ	_	_	14	cc	_	_
-14	кознь	кознь	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	12	conj	_	_
-15	нечтивую	нечестивый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	SpaceAfter=No
-16	,	,	PUNCT	_	_	19	punct	_	_
-17	не	не	PART	_	Polarity=Neg	19	advmod	_	_
-18	язвами	язвами	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	19	iobj	_	_
-19	уязвити	уязвити	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	10	conj	_	_
-20	кого	кто	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	19	obj	_	SpaceAfter=No
-21	,	,	PUNCT	_	_	27	punct	_	_
-22	но	но	CCONJ	_	_	27	cc	_	_
-23	вся	весь	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	27	obj	_	_
-24	яже	иже	DET	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	27	nsubj	_	_
-25	во	въ	ADP	_	_	26	case	_	_
-26	гради	градъ	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	27	obl	_	_
-27	погубити	погубити	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	19	conj	_	_
-28	и	и	CCONJ	_	_	31	cc	_	_
-29	зборищу	сборище	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	31	iobj	_	_
-30	лукавому	лукавый	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	29	amod	_	_
-31	предати	предати	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	27	conj	_	SpaceAfter=No
-32	,	,	PUNCT	_	_	35	punct	_	_
-33	якоже	якоже	SCONJ	_	_	35	mark	_	_
-34	тогда	тогда	ADV	_	Degree=Pos	35	advmod	_	_
-35	ратоборющимся	ратоборющийся	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	31	advcl	_	SpaceAfter=No
-36	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 discourse	color:blue
+1	О	о	INTJ	_	_	3	discourse	_	Norm=О|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	Norm=,
+3	драко(н)	драконъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Norm=драконъ
+4	тотъ	тотъ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	Norm=тотъ
+5	мнꙗшесꙗ	мнитися	VERB	_	Aspect=Imp|Tense=Past|VerbForm=Conv|Voice=Mid	6	advcl	_	Norm=мнꙗшесꙗ
+6	непобѣдимыⸯ	непобѣдимый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	Norm=непобѣдимый|SpaceAfter=No
+7	!	!	PUNCT	_	_	3	punct	_	Norm=!
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 discourse	color:blue
-1	На	на	ADP	_	_	2	case	_	_
-2	мьзды	мзда	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	4	obl	_	_
-3	ли	ли	PART	_	_	4	advmod	_	_
-4	предаеши	предаяти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	врагом	врагъ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	4	iobj	_	_
-6	Новъгород	Новгородъ	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	9	punct	_	_
-8	о	о	INTJ	_	_	9	discourse	_	_
-9	Упадыщче	Упадышко	PROPN	_	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	13	punct	_	_
-11	сладкаго	сладкий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	_
-12	брашна	брашно	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	13	obj	_	_
-13	вкусивъ	вкусити	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	4	advcl	_	_
-14	в	въ	ADP	_	_	16	case	_	_
-15	Великом	великий	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	_
-16	Новѣградѣ	Новъградъ	PROPN	_	Case=Loc|Gender=Masc|Number=Sing	13	obl	_	SpaceAfter=No
-17	?	?	PUNCT	_	_	4	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 discourse	color:blue
+1	Де(н)	день	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	Norm=Денъ
+2	бо	бо	PART	_	_	1	discourse	_	Norm=бо
+3	сей	сей	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	1	det	_	Norm=сей
+4	тебѣ	ты	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	1	iobj	_	Norm=тебѣ|SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	Norm=,
+6	Россіе	Россия	PROPN	_	Case=Voc|Gender=Fem|Number=Sing	1	vocative	_	Norm=Россіе|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	Norm=,
+8	всѣхъ	весь	DET	_	Case=Gen|Gender=Fem|Number=Plur|PronType=Tot	10	det	_	Norm=всѣхъ
+9	твоихъ	твой	DET	_	Case=Gen|Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	10	det	_	Norm=твоихъ
+10	щасливостей	щасливость	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	11	nmod	_	Norm=щасливостей
+11	начало	начало	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	Norm=начало|SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	Norm=,
+13	всѣхъ	весь	DET	_	Case=Gen|Gender=Neut|Number=Plur|PronType=Tot	14	det	_	Norm=всѣхъ
+14	бл҃гополꙋчій	благополучие	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	15	nmod	_	Norm=благополꙋчій
+15	источникъ	источникъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	conj	_	Norm=источникъ|SpaceAfter=No
+16	,	,	PUNCT	_	_	41	punct	_	Norm=,
+17	всѣхъ	весь	DET	_	Case=Gen|Gender=Neut|Number=Plur|PronType=Tot	18	det	_	Norm=всѣхъ
+18	то(р)жествъ	торжество	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	41	nsubj	_	Norm=торжествъ|SpaceAfter=No
+19	,	,	PUNCT	_	_	20	punct	_	Norm=,
+20	прославленіꙗ	прославление	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	18	conj	_	Norm=прославленіꙗ|SpaceAfter=No
+21	,	,	PUNCT	_	_	22	punct	_	Norm=,
+22	побѣдъ	побѣда	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	18	conj	_	Norm=побѣдъ
+23	и	и	CCONJ	_	_	29	cc	_	Norm=и
+24	всѣхъ	весь	DET	_	Case=Gen|Gender=Neut|Number=Plur|PronType=Tot	29	det	_	Norm=всѣхъ
+25	прежде	прежде	ADV	_	Degree=Pos	22	conj	_	Norm=прежде
+26	желаемы(х)	желати	VERB	_	Aspect=Imp|Case=Gen|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	29	acl	_	Norm=желаемыхъ
+27	и	и	CCONJ	_	_	28	cc	_	Norm=и
+28	таковыхъ	таковой	DET	_	Case=Gen|Gender=Fem|Number=Plur|PronType=Dem	26	conj	_	Norm=таковыхъ
+29	дѣйствій	дѣйствие	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	18	conj	_	Norm=дѣйствій|SpaceAfter=No
+30	,	,	PUNCT	_	_	37	punct	_	Norm=,
+31	ꙗже	иже	PRON	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	37	nsubj	_	Norm=ꙗже
+32	на	на	ADP	_	_	33	case	_	Norm=на
+33	ср(д)це	сердце	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	37	obl	_	Norm=сердце
+34	и	и	CCONJ	_	_	33	cc	_	Norm=и
+35	помышленіе	помышление	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	33	conj	_	Norm=помышленіе
+36	не	не	PART	_	Polarity=Neg	37	advmod	_	Norm=не
+37	восхождахꙋ	восходити	VERB	Tense=Imp	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	29	acl	_	Norm=восхождахꙋ|SpaceAfter=No
+38	,	,	PUNCT	_	_	37	punct	_	Norm=,
+39	едино	единъ	NUM	_	Case=Nom|Gender=Neut|Number=Sing	41	nummod	_	Norm=едино
+40	е(ст)	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	41	cop	_	Norm=естъ
+41	основаніе	основание	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	11	conj	_	Norm=основаніе|SpaceAfter=No
+42	.	.	PUNCT	_	_	41	punct	_	Norm=.
 
 ~~~
 

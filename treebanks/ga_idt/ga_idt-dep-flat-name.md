@@ -45,11 +45,11 @@ The following 16 pairs of parts of speech are connected with `flat:name`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 flat:name	color:blue
-1	Grianghraif	grianghraf	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Plur	0	root	_	_
+1	Grianghraif	grianghraf	NOUN	Noun	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
 2	le	le	ADP	Simp	_	3	case	_	_
-3	Maidhc	Maidhc	PROPN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	1	nmod	_	NamedEntity=Yes
+3	Maidhc	Maidhc	PROPN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	nmod	_	NamedEntity=Yes
 4	Ó	ó	PART	Pat	PartType=Pat	3	flat:name	_	NamedEntity=Yes
-5	Seachnasaí	Seachnasaí	PROPN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	3	flat:name	_	NamedEntity=Yes|SpaceAfter=No
+5	Seachnasaí	Seachnasaí	PROPN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	flat:name	_	NamedEntity=Yes|SpaceAfter=No
 6	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
@@ -64,10 +64,10 @@ The following 16 pairs of parts of speech are connected with `flat:name`: <tt><a
 1	Tháinig	tar	VERB	VI	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 2	sé	sé	PRON	Pers	Gender=Masc|Number=Sing|Person=3	1	nsubj	_	_
 3	ar	ar	ADP	Simp	_	4	case	_	_
-4	Rí	rí	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	1	obl	_	NamedEntity=Yes
-5	Laighin	Laighin	PROPN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	4	flat:name	_	NamedEntity=Yes
+4	Rí	rí	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	1	obl	_	NamedEntity=Yes
+5	Laighin	Laighin	PROPN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	flat:name	_	NamedEntity=Yes
 6	ar	ar	ADP	Simp	_	7	case	_	_
-7	Tountinna	Tountinna	PROPN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
+7	Tountinna	Tountinna	PROPN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~

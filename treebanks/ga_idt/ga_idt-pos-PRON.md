@@ -65,7 +65,7 @@ The 10 most frequent ambiguous types:  <em>sé</em> (<tt><a href="ga_idt-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.694444 (the average of all parts of speech is 1.643740).
+The form / lemma ratio of `PRON` is 1.694444 (the average of all parts of speech is 1.643911).
 
 The 1st highest number of forms (6) was observed with the lemma “sin”: <em>hin, in, san, shin, shoin, sin</em>.
 

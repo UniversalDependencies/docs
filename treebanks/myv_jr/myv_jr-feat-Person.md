@@ -11,23 +11,23 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="myv_jr-feat-Person.html">Person</a></tt>, <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt>, <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt>, <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt>.
 
-467 tokens (3%) have a non-empty value of `Person`.
+472 tokens (3%) have a non-empty value of `Person`.
 85 types (2%) occur at least once with a non-empty value of `Person`.
 17 lemmas (1%) occur at least once with a non-empty value of `Person`.
-The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (466; 3% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (471; 3% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-466 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (49% of all `PRON` tokens) have a non-empty value of `Person`.
+471 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (50% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (466; 100%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (450; 97%), <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (367; 79%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (318; 68%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (471; 100%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (455; 97%), <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (370; 79%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (321; 68%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (139; 30% of non-empty `Person`): <em>мон, минь, минек, монь, тень, монень, миньсинек, тенек, миненек, минсенек</em>
-* `2` (64; 14% of non-empty `Person`): <em>тон, тынк, теть, тонеть, тонть, тенк, тонь, тынь, тонсь, Тонгак</em>
-* `3` (263; 56% of non-empty `Person`): <em>сон, сонзэ, сонсь, сынь, тензэ, сынст, кавонест, тенст, сонензэ, эсензэ</em>
-* `EMPTY` (477): <em>весе, те, мезе, кона, конань, истямо, кие, конат, неть, тень</em>
+* `1` (140; 30% of non-empty `Person`): <em>мон, минь, минек, монь, тень, монень, миньсинек, тенек, миненек, минсенек</em>
+* `2` (66; 14% of non-empty `Person`): <em>тон, тынк, теть, тонеть, тонть, тенк, тонь, тынь, тонсь, тыненк</em>
+* `3` (265; 56% of non-empty `Person`): <em>сон, сонзэ, сонсь, сынь, тензэ, сынст, кавонест, тенст, сонензэ, эсензэ</em>
+* `EMPTY` (479): <em>весе, те, мезе, кона, конань, истямо, кие, конат, неть, тень</em>
 
 <table>
   <tr><th>Paradigm <i>ськамонзо</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -46,7 +46,7 @@ The most frequent other feature values with which `NUM` and `Person` co-occurred
 `NUM` tokens may have the following values of `Person`:
 
 * `3` (1; 100% of non-empty `Person`): <em>кавонест</em>
-* `EMPTY` (159): <em>кавто, вейке, ве, колмо, вейкесь, ниле, вейкеть, кавто-колмо, колоньгеменьшка, Комсь</em>
+* `EMPTY` (160): <em>кавто, вейке, ве, колмо, вейкесь, ниле, вейкеть, кавто-колмо, колоньгеменьшка, Комсь</em>
 
 ## Relations with Agreement in `Person`
 

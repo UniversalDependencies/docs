@@ -32,7 +32,7 @@ The 10 most frequent ambiguous types:  <em>US</em> (<tt><a href="de_pud-pos-PROP
   * <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> 2: <em>Die Regierung von Grafton zerfiel 1770 , sodass die Tories unter der Führung von Lord <b>North</b> zurück an die Macht kommen konnten .</em>
 * <em>Gold</em>
   * <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 2: <em>Öl , <b>Gold</b> oder Nahrungsmittel wie Weizen sind Rohstoffe , in die Spekulanten weltweit Milliarden investieren .</em>
-  * <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> 1: <em>Hitchcock hat an dem liebsten mit den größten Talenten seiner Zeit gearbeitet , z. B. mit Filmposter - Designern wie Bill <b>Gold</b> und Saul Bass , die Poster produzierten , in denen präzise seine Filme dargestellt waren .</em>
+  * <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> 1: <em>Hitchcock hat an dem liebsten mit den größten Talenten seiner Zeit gearbeitet , zu dem B. mit Filmposter - Designern wie Bill <b>Gold</b> und Saul Bass , die Poster produzierten , in denen präzise seine Filme dargestellt waren .</em>
 * <em>Karibik</em>
   * <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 1: <em>Die Bezeichnung „ <b>Karibik</b> “ leitet sich von den Kahlina ab , einer der zu der Zeit des europäschen Kontakts während des späten 15. Jahrhunderts vorherrschenden uramerikanischen Gruppen in der Region .</em>
   * <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> 1: <em>Ab dem 16 . Jahrhundert bezeichneten Europäer , die die <b>Karibik</b> besuchten , sie als die „ Südsee “ ( den Pazifischen Ozean südlich des Isthmus von Panama ) , in dem Gegensatz zu der „ Nordsee “ ( das Karibische Meer nördlich desselben Isthmus ) .</em>
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>US</em> (<tt><a href="de_pud-pos-PROP
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.039352 (the average of all parts of speech is 1.195571).
+The form / lemma ratio of `PROPN` is 1.039352 (the average of all parts of speech is 1.195641).
 
 The 1st highest number of forms (3) was observed with the lemma “Hitchcock”: <em>Hichcocks, Hitchcock, Hitchcocks</em>.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6 nodes (0%) are attached to their parents as `fixed`.
+7 nodes (0%) are attached to their parents as `fixed`.
 
-6 instances of `fixed` (100%) are left-to-right (parent precedes child).
+7 instances of `fixed` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (2; 33% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (2; 33% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-SCONJ.html">SCONJ</a></tt> (1; 17% instances), <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (1; 17% instances).
+The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (3; 43% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (2; 29% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-SCONJ.html">SCONJ</a></tt> (1; 14% instances), <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (1; 14% instances).
 
 
 ~~~ conllu

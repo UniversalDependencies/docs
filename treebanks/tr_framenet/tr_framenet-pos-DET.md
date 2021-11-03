@@ -39,12 +39,12 @@ The 2nd highest number of forms (1) was observed with the lemma “bir”: <em>b
 
 The 3rd highest number of forms (1) was observed with the lemma “birkaç”: <em>birkaç</em>.
 
-`DET` occurs with 1 features: <tt><a href="tr_framenet-feat-Definite.html">Definite</a></tt> (687; 92% instances)
+`DET` occurs with 2 features: <tt><a href="tr_framenet-feat-PronType.html">PronType</a></tt> (747; 100% instances), <tt><a href="tr_framenet-feat-Definite.html">Definite</a></tt> (687; 92% instances)
 
-`DET` occurs with 2 feature-value pairs: `Definite=Def`, `Definite=Ind`
+`DET` occurs with 3 feature-value pairs: `Definite=Def`, `Definite=Ind`, `PronType=Art`
 
 `DET` occurs with 3 feature combinations.
-The most frequent feature combination is `Definite=Def` (378 tokens).
+The most frequent feature combination is `Definite=Def|PronType=Art` (378 tokens).
 Examples: <em>bu, her, o, şu</em>
 
 
@@ -52,7 +52,7 @@ Examples: <em>bu, her, o, şu</em>
 
 `DET` nodes are attached to their parents using 8 different relations: <tt><a href="tr_framenet-dep-det.html">det</a></tt> (708; 95% instances), <tt><a href="tr_framenet-dep-compound.html">compound</a></tt> (22; 3% instances), <tt><a href="tr_framenet-dep-advmod.html">advmod</a></tt> (5; 1% instances), <tt><a href="tr_framenet-dep-discourse.html">discourse</a></tt> (3; 0% instances), <tt><a href="tr_framenet-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="tr_framenet-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="tr_framenet-dep-fixed.html">fixed</a></tt> (2; 0% instances), <tt><a href="tr_framenet-dep-nmod.html">nmod</a></tt> (2; 0% instances)
 
-Parents of `DET` nodes belong to 9 different parts of speech: <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (674; 90% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> (23; 3% instances), <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> (20; 3% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (19; 3% instances), <tt><a href="tr_framenet-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="tr_framenet-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="tr_framenet-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="tr_framenet-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 9 different parts of speech: <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (675; 90% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> (23; 3% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (19; 3% instances), <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> (19; 3% instances), <tt><a href="tr_framenet-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="tr_framenet-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="tr_framenet-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="tr_framenet-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="tr_framenet-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
 727 (97%) `DET` nodes are leaves.
 

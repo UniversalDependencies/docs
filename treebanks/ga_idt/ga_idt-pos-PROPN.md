@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>Bhaile</em> (<tt><a href="ga_idt-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.155977 (the average of all parts of speech is 1.643740).
+The form / lemma ratio of `PROPN` is 1.155977 (the average of all parts of speech is 1.643911).
 
 The 1st highest number of forms (9) was observed with the lemma “Gaeltacht”: <em>Gaeltacha, Gaeltacht, Gaeltachta, Gaeltachtaí, Ghaeltacht, Ghaeltachta, Ghaeltachtaí, nGaeltacht, nGaeltachtaí</em>.
 
@@ -61,7 +61,7 @@ The 3rd highest number of forms (5) was observed with the lemma “Conamara”: 
 
 `PROPN` occurs with 11 features: <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt> (5351; 90% instances), <tt><a href="ga_idt-feat-Number.html">Number</a></tt> (5199; 87% instances), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt> (5189; 87% instances), <tt><a href="ga_idt-feat-Case.html">Case</a></tt> (3759; 63% instances), <tt><a href="ga_idt-feat-Form.html">Form</a></tt> (1443; 24% instances), <tt><a href="ga_idt-feat-Foreign.html">Foreign</a></tt> (322; 5% instances), <tt><a href="ga_idt-feat-Abbr.html">Abbr</a></tt> (299; 5% instances), <tt><a href="ga_idt-feat-NounType.html">NounType</a></tt> (284; 5% instances), <tt><a href="ga_idt-feat-Typo.html">Typo</a></tt> (18; 0% instances), <tt><a href="ga_idt-feat-Reflex.html">Reflex</a></tt> (6; 0% instances), <tt><a href="ga_idt-feat-Dialect.html">Dialect</a></tt> (1; 0% instances)
 
-`PROPN` occurs with 19 feature-value pairs: `Abbr=Yes`, `Case=Dat`, `Case=Gen`, `Case=NomAcc`, `Case=Voc`, `Definite=Def`, `Dialect=Munster`, `Foreign=Yes`, `Form=Ecl`, `Form=HPref`, `Form=Len`, `Gender=Fem`, `Gender=Masc`, `NounType=Strong`, `NounType=Weak`, `Number=Plur`, `Number=Sing`, `Reflex=Yes`, `Typo=Yes`
+`PROPN` occurs with 19 feature-value pairs: `Abbr=Yes`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Case=Voc`, `Definite=Def`, `Dialect=Munster`, `Foreign=Yes`, `Form=Ecl`, `Form=HPref`, `Form=Len`, `Gender=Fem`, `Gender=Masc`, `NounType=Strong`, `NounType=Weak`, `Number=Plur`, `Number=Sing`, `Reflex=Yes`, `Typo=Yes`
 
 `PROPN` occurs with 107 feature combinations.
 The most frequent feature combination is `Definite=Def|Gender=Masc|Number=Sing` (983 tokens).

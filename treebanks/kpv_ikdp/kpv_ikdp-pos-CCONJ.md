@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="kpv_ikdp-pos-CC
   * <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 7: <em>Медча сы помлась <b>и</b> кыске душаныс .</em>
 * <em>но</em>
   * <tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> 13: <em>Пока лёк из ло , <b>но</b> , пока , не то что лёк-а .</em>
-  * <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 3: <em>Кор миян ае-маме вӧрзисныс , <b>но</b> , стадыс миян , колхоз " Красный Октябрь " , да ?</em>
+  * <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 3: <em>Кор миян ае-маме вӧрзисныс , <b>но</b> , стадыс миян , колхоз « Красный Октябрь » , да ?</em>
 * <em>да</em>
   * <tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> 20: <em>Бать , мам , сизим чой <b>да</b> ӧтик вок .</em>
   * <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 10: <em>Сы бӧрын устроитчи рӧбитны , локті ас сиктэ <b>да</b> .</em>
@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="kpv_ikdp-pos-CC
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 0.750000 (the average of all parts of speech is 1.333333).
+The form / lemma ratio of `CCONJ` is 0.750000 (the average of all parts of speech is 1.332903).
 
 The 1st highest number of forms (1) was observed with the lemma “_”: <em>и</em>.
 

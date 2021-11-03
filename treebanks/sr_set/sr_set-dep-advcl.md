@@ -64,7 +64,7 @@ The following 30 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 11 advcl	color:blue
-1	Setimes	Setimes	X	Xf	_	6	parataxis	_	SpaceAfter=No
+1	Setimes	Setimes	X	Xf	Foreign=Yes	6	parataxis	_	SpaceAfter=No
 2	:	:	PUNCT	Z	_	1	punct	_	_
 3	Šta	šta	PRON	Pq3n-n	Case=Nom|Gender=Neut|PronType=Int,Rel	6	nsubj	_	_
 4	će	hteti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_

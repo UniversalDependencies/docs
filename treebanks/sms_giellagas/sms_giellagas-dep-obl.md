@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 3 language-specific subtypes of `obl`: <tt><a href="sms_giellagas-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="sms_giellagas-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="sms_giellagas-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-31 nodes (1%) are attached to their parents as `obl`.
+34 nodes (1%) are attached to their parents as `obl`.
 
-20 instances of `obl` (65%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.93548387096774.
+22 instances of `obl` (65%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.
 
-The following 9 pairs of parts of speech are connected with `obl`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (13; 42% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (8; 26% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (2; 6% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
+The following 9 pairs of parts of speech are connected with `obl`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (14; 41% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (8; 24% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (3; 9% instances), <tt><a href="sms_giellagas-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (2; 6% instances), <tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -54,18 +54,32 @@ The following 9 pairs of parts of speech are connected with `obl`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 obl	color:blue
-1	Eččad	eʹčč	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	4	nsubj	_	GTtags=Sem/Kin,Sg,Nom,PxSg2
-2	lij	leeʹd	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=1	4	cop	_	GTtags=IV,Ind,Prs,Sg3
-3	luândstes	luândd	NOUN	N	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obl	_	GTtags=Sg,Loc,PxSg3
-4	lääʹđesmiõllsab	lääʹđesmiõllsaž	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	0	root	_	GTtags=Comp,Sg,Nom
-5	ǥu	ǥu	ADV	Adv	_	6	mark	_	_
-6	eččan	eʹčč	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	4	obl	_	GTtags=Sem/Kin,Sg,Nom,PxSg1|SpaceAfter=No
-7	.	.	PUNCT	CLB	_	4	punct	_	_
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 19 17 obl	color:blue
+1	Ceäʹlǩǩe	ceäʹlǩǩed	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	GTtags=Ind,Prs,Pl3|SpaceAfter=No
+2	:	:	PUNCT	PUNCT	_	1	punct	_	_
+3	”	”	PUNCT	PUNCT	_	19	punct	_	GTtags=RIGHT|SpaceAfter=No
+4	Ton	ton	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	19	nsubj:cop	_	GTtags=Pers,Sg2,Nom|SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	7	punct	_	_
+6	vot	vot	ADV	Adv	_	7	advmod	_	_
+7	miʹjjid	mon	PRON	Pron	Case=Ill|Number=Plur|Person=1|PronType=Prs	10	reparandum	_	GTtags=Pers,Pl1,Ill|SpaceAfter=No
+8	,	,	PUNCT	PUNCT	_	10	punct	_	_
+9	vot	vot	ADV	Adv	_	10	advmod	_	_
+10	miʹjjid	mon	PRON	Pron	Case=Ill|Number=Plur|Person=1|PronType=Prs	14	obl	_	GTtags=Pers,Pl1,Ill
+11	i	i	ADV	Adv	_	10	advmod	_	_
+12	dõõt	dõõt	PRON	Pron	Case=Nom|Number=Sing	14	reparandum	_	GTtags=Pron,Sg,Nom
+13	...	...	PUNCT	PUNCT	_	12	punct	_	_
+14	triâŋgg	triâŋgg	NOUN	N	Case=Nom|Number=Sing	19	reparandum	_	GTtags=Sg,Nom|SpaceAfter=No
+15	,	,	PUNCT	PUNCT	_	14	punct	_	_
+16	vot	vot	ADV	Adv	_	17	advmod	_	_
+17	miʹjjid	mon	PRON	Pron	Case=Ill|Number=Plur|Person=1|PronType=Prs	19	obl	_	GTtags=Pers,Pl1,Ill
+18	i	i	ADV	Adv	_	17	advmod	_	_
+19	triâŋgg	triâŋgg	NOUN	N	Case=Nom|Number=Sing	1	parataxis	_	GTtags=Sg,Nom|SpaceAfter=No
+20	.	.	PUNCT	PUNCT	_	19	punct	_	SpaceAfter=No
+21	”	”	PUNCT	PUNCT	_	19	punct	_	GTtags=RIGHT
 
 ~~~
 

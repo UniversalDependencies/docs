@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-89 nodes (3%) are attached to their parents as `amod`.
+96 nodes (3%) are attached to their parents as `amod`.
 
-89 instances of `amod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.14606741573034.
+96 instances of `amod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.14583333333333.
 
-The following 4 pairs of parts of speech are connected with `amod`: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (86; 97% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `amod`: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (92; 96% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -59,22 +59,27 @@ The following 4 pairs of parts of speech are connected with `amod`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 amod	color:blue
-1	Мон	мон	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-2	седишкада	седишкада	ADV	Adv	_	3	advmod	_	_
-3	ванондан	ванондомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=2	0	root	_	_
-4	веленьконь	веле	NOUN	N	Case=Gen|Number=Plur,Sing|Number[psor]=Plur|Person[psor]=1	5	nmod	_	_
-5	велькска	велькска	NOUN	N	Case=Prl|Definite=Ind|Number=Plur,Sing|Typo=Yes	3	obl:lmp	_	CorrectForm=вельхкска
-6	лиенди	лиендемс	VERB	V	Tense=Pres|Valency=1|VerbForm=Part	7	amod	_	_
-7	самолёттнень	самолёт	NOUN	N	Case=Gen|Definite=Def|Number=Plur	3	obl:lmod	_	_
-8	мельге	мельге	ADP	Adp	AdpType=Post|Case=Prl	7	case	_	_
-9	и	и	CCONJ	CC	_	10	cc	_	_
-10	сельмотькшнян	сельмотькшнемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=1	3	conj	_	SpaceAfter=No
-11	.	.	PUNCT	CLB	_	3	punct	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 12 amod	color:blue
+1	Эрь	эрь	INTJ	Interj	_	11	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	PUNCT	_	3	punct	_	_
+3	аванят	ава	NOUN	N	Case=Nom|Definite=Ind|Derivation=Dimin|Number=Plur	11	vocative	_	GTtags=Der/Dimin,Pl,Nom,Indef|SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	3	punct	_	_
+5	аф	аф	AUX	_	Polarity=Neg|VerbType=Aux	6	aux:neg	_	GTtags=Aux,Neg
+6	озадонь	озадонь	ADJ	A	Derivation=GenAttr	7	amod	_	GTtags=GenAttr
+7	седи	седи	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	11	advcl	_	GTtags=Sg,Nom,Indef
+8	улефтяряль	улемс	AUX	V	Mood=NegCndSub|Number[subj]=Sing|Person[subj]=3|Polarity=Neg	7	cop	_	GTtags=NegProt,Conj,ScSg3|SpaceAfter=No
+9	,	,	PUNCT	PUNCT	_	7	punct	_	_
+10	дяряй	дяряй	PART	Pcle	_	11	advmod	_	GTtags=Cond
+11	сявольхце	сявомс	VERB	V	Mood=Sub|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3	0	root	_	GTtags=Conj,ScSg3,OcSg3
+12	илянь	иля	PRON	Pron	Case=Gen|Definite=Ind|Number=Plur,Sing	14	amod	_	GTtags=VGen
+13	пря	пря	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	14	nmod	_	GTtags=Sg,Nom,Indef
+14	урмать	урма	NOUN	N	Case=Gen|Definite=Def|Number=Sing	11	obj	_	GTtags=Sg,Gen,Def|SpaceAfter=No
+15	,	,	PUNCT	PUNCT	_	11	punct	_	_
+16	...	...	PUNCT	PUNCT	_	11	punct	_	_
 
 ~~~
 

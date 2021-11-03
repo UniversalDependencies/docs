@@ -43,7 +43,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (35; 18% of non-empty `Degree`): <em>longer, farther, more, nearer, sooner, harder, higher</em>
 * `Pos` (143; 73% of non-empty `Degree`): <em>well, far, long, soon, close, hard, little, badly, early, fast</em>
 * `Sup` (17; 9% of non-empty `Degree`): <em>least, Whilst, best, closest</em>
-* `EMPTY` (4930): <em>out, up, so, then, back, now, very, just, too, again</em>
+* `EMPTY` (4895): <em>out, up, so, then, back, now, very, just, too, again</em>
 
 <table>
   <tr><th>Paradigm <i>well</i></th><th><tt>Pos</tt></th><th><tt>Sup</tt></th></tr>
@@ -59,7 +59,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 `VERB` tokens may have the following values of `Degree`:
 
 * `Pos` (2; 100% of non-empty `Degree`): <em>Cursed, screaming</em>
-* `EMPTY` (11106): <em>said, was, know, had, have, see, is, made, do, come</em>
+* `EMPTY` (11108): <em>said, was, know, had, have, see, is, made, do, come</em>
 
 ### `INTJ`
 

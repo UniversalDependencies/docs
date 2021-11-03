@@ -20,7 +20,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="la_udante-pos-DET.h
 
 496 <tt><a href="la_udante-pos-DET.html">DET</a></tt> tokens (14% of all `DET` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `DET` and `Person[psor]` co-occurred: <tt><a href="la_udante-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (496; 100%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (496; 100%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (339; 68%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurO</tt> (262; 53%).
+The most frequent other feature values with which `DET` and `Person[psor]` co-occurred: <tt><a href="la_udante-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (496; 100%), <tt><a href="la_udante-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (496; 100%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (496; 100%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (339; 68%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurO</tt> (262; 53%).
 
 `DET` tokens may have the following values of `Person[psor]`:
 

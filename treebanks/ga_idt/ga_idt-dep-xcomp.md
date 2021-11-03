@@ -24,13 +24,13 @@ The following 16 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 1	fgColor:white
 # visual-style 1 5 xcomp	color:blue
 1	Caithfidh	caith	VERB	VTI	Mood=Ind|Tense=Fut	0	root	_	_
-2	foirne	foireann	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Plur	5	nsubj	_	_
-3	úsáid	úsáid	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	5	obj	_	_
+2	foirne	foireann	NOUN	Noun	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	_
+3	úsáid	úsáid	NOUN	Noun	Case=Nom|Gender=Fem|Number=Sing	5	obj	_	_
 4	a	a	PART	Inf	PartType=Inf	5	mark	_	_
 5	bhaint	baint	NOUN	Noun	Form=Len|VerbForm=Inf	1	xcomp	_	_
 6	as	as	ADP	Simp	_	8	case	_	_
 7	na	an	DET	Art	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
-8	huimhreacha	uimhir	NOUN	Noun	Case=NomAcc|Definite=Def|Form=HPref|Gender=Fem|Number=Plur	5	obl	_	_
+8	huimhreacha	uimhir	NOUN	Noun	Case=Nom|Definite=Def|Form=HPref|Gender=Fem|Number=Plur	5	obl	_	_
 9	4-15	4-15	NUM	Num	_	8	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -44,10 +44,10 @@ The following 16 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 7	fgColor:white
 # visual-style 7 8 xcomp	color:blue
 1	Ar	ar	ADP	Simp	_	2	case	_	_
-2	gcúl	cúl	NOUN	Noun	Case=NomAcc|Form=Ecl|Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+2	gcúl	cúl	NOUN	Noun	Case=Nom|Form=Ecl|Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 3	,	,	PUNCT	Punct	_	2	punct	_	_
 4	taispeántar	taispeáin	VERB	VT	Mood=Ind|Person=0|Tense=Pres	0	root	_	_
-5	slua	slua	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	4	obj	_	_
+5	slua	slua	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	4	obj	_	_
 6	ag	ag	ADP	Simp	_	7	case	_	_
 7	iarraidh	iarraidh	NOUN	Noun	VerbForm=Vnoun	4	xcomp	_	_
 8	brú	brú	NOUN	Noun	VerbForm=Inf	7	xcomp	_	_
@@ -65,12 +65,12 @@ The following 16 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 5 13 xcomp	color:blue
 1	Níl	bí	VERB	VI	Mood=Ind|Polarity=Neg|Tense=Pres	0	root	_	_
 2	a	a	DET	Det	Gender=Masc|Number=Sing|Person=3|Poss=Yes	3	nmod:poss	_	_
-3	fhios	fios	NOUN	Noun	Case=NomAcc|Definite=Def|Form=Len|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	fhios	fios	NOUN	Noun	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	1	nsubj	_	_
 4	agat	ag	ADP	Prep	Number=Sing|Person=2	1	obl:prep	_	_
 5	cad	cad	PRON	Q	PronType=Int	1	ccomp	_	_
 6	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	8	nmod	_	_
 7	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
-8	éagóir	éagóir	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Fem|Number=Sing	5	nsubj	_	_
+8	éagóir	éagóir	NOUN	Noun	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	5	nsubj	_	_
 9	orm	ar	ADP	Prep	Number=Sing|Person=1	8	obl:prep	_	_
 10	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	8	nmod	_	_
 11	mé	mé	PRON	Pers	Number=Sing|Person=1	13	obj	_	_

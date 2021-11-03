@@ -11,7 +11,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 210531 tokens (49%) have a non-empty value of `Number`.
 28556 types (63%) occur at least once with a non-empty value of `Number`.
-18090 lemmas (50%) occur at least once with a non-empty value of `Number`.
+17834 lemmas (50%) occur at least once with a non-empty value of `Number`.
 The feature is used with 10 part-of-speech tags: <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (73467; 17% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (60694; 14% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (27650; 6% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (24202; 6% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (10155; 2% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (7478; 2% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (4458; 1% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (1627; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt> (671; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (129; 0% instances).
 
 ### `NOUN`
@@ -53,7 +53,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 27650 <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> tokens (77% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (20892; 76%), <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20217; 73%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (19461; 70%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (18793; 68%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (20892; 76%), <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20217; 73%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (19459; 70%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (18791; 68%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -63,8 +63,9 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>tener</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>tenido</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>tenido</em></td><td><em>tenidos</em></td></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tengo</em></td><td><em>tienes</em></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>tenidas</em></td></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tenia</em></td><td></td></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tendría</em></td><td></td></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tenia</em></td><td></td></tr>

@@ -9,29 +9,34 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Di`, `Mo`.
 
-7 tokens (0%) have a non-empty value of `Red`.
-7 types (1%) occur at least once with a non-empty value of `Red`.
-7 lemmas (2%) occur at least once with a non-empty value of `Red`.
-The feature is used with 2 part-of-speech tags: <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
+11 tokens (1%) have a non-empty value of `Red`.
+11 types (2%) occur at least once with a non-empty value of `Red`.
+10 lemmas (2%) occur at least once with a non-empty value of `Red`.
+The feature is used with 2 part-of-speech tags: <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (5; 0% instances).
 
 ### `VERB`
 
-5 <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Red`.
+6 <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Red`.
 
-The most frequent other feature values with which `VERB` and `Red` co-occurred: <tt><a href="tpn_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="tpn_tudet-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="tpn_tudet-feat-Person.html">Person</a></tt><tt>=3</tt> (4; 80%), <tt><a href="tpn_tudet-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (3; 60%).
+The most frequent other feature values with which `VERB` and `Red` co-occurred: <tt><a href="tpn_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="tpn_tudet-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="tpn_tudet-feat-Person.html">Person</a></tt><tt>=3</tt> (5; 83%).
 
 `VERB` tokens may have the following values of `Red`:
 
-* `Di` (4; 80% of non-empty `Red`): <em>ojekájeká, opwáopwá, otumũtumunga, owasẽasẽmamo</em>
-* `Mo` (1; 20% of non-empty `Red`): <em>oβuoβur</em>
+* `Di` (5; 83% of non-empty `Red`): <em>ojekájeká, ojoporuporwaβo, opwáopwá, otumũtumunga, owasẽasẽmamo</em>
+* `Mo` (1; 17% of non-empty `Red`): <em>oβuoβur</em>
 
 ### `NOUN`
 
-2 <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Red`.
+5 <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Red`.
 
-The most frequent other feature values with which `NOUN` and `Red` co-occurred: <tt><a href="tpn_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="tpn_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `NOUN` and `Red` co-occurred: <tt><a href="tpn_tudet-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="tpn_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="tpn_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 60%), <tt><a href="tpn_tudet-feat-Nomzr.html">Nomzr</a></tt><tt>=EMPTY</tt> (3; 60%), <tt><a href="tpn_tudet-feat-Rel.html">Rel</a></tt><tt>=NCont</tt> (3; 60%).
 
 `NOUN` tokens may have the following values of `Red`:
 
-* `Di` (2; 100% of non-empty `Red`): <em>imoperépereβawera, joβasaβetáetáwne</em>
+* `Di` (5; 100% of non-empty `Red`): <em>imoperépereβawera, imoperéperéβi, inupãnupãsara, joβasaβetáetáwne, okaneʔõneʔõnamo</em>
+
+## Relations with Agreement in `Red`
+
+The 10 most frequent relations where parent and child node agree in `Red`:
+<tt>VERB --[<tt><a href="tpn_tudet-dep-acl.html">acl</a></tt>]--> NOUN</tt> (1; 100%).
 

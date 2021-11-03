@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Emanuel Borges Völker, Felix Hennig, Arne Köhn, Maximilan Wendt.
 
 Repository: [UD_German-HDT](https://github.com/UniversalDependencies/UD_German-HDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_hdt28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_hdt29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-SA 4.0
 
@@ -146,7 +146,7 @@ and correct errors in annotated corpora
 
 ## Features
 
-[AdpType](de_hdt-feat-AdpType.html) – [Aspect](de_hdt-feat-Aspect.html) – [Case](de_hdt-feat-Case.html) – [ConjType](de_hdt-feat-ConjType.html) – [Degree](de_hdt-feat-Degree.html) – [Foreign](de_hdt-feat-Foreign.html) – [Gender](de_hdt-feat-Gender.html) – [Hyph](de_hdt-feat-Hyph.html) – [Mood](de_hdt-feat-Mood.html) – [Number](de_hdt-feat-Number.html) – [NumType](de_hdt-feat-NumType.html) – [PartType](de_hdt-feat-PartType.html) – [Person](de_hdt-feat-Person.html) – [Polarity](de_hdt-feat-Polarity.html) – [Poss](de_hdt-feat-Poss.html) – [PronType](de_hdt-feat-PronType.html) – [PunctType](de_hdt-feat-PunctType.html) – [Reflex](de_hdt-feat-Reflex.html) – [Tense](de_hdt-feat-Tense.html) – [Variant](de_hdt-feat-Variant.html) – [VerbForm](de_hdt-feat-VerbForm.html) – [VerbType](de_hdt-feat-VerbType.html)
+[AdpType](de_hdt-feat-AdpType.html) – [Aspect](de_hdt-feat-Aspect.html) – [Case](de_hdt-feat-Case.html) – [ConjType](de_hdt-feat-ConjType.html) – [Definite](de_hdt-feat-Definite.html) – [Degree](de_hdt-feat-Degree.html) – [Foreign](de_hdt-feat-Foreign.html) – [Gender](de_hdt-feat-Gender.html) – [Hyph](de_hdt-feat-Hyph.html) – [Mood](de_hdt-feat-Mood.html) – [Number](de_hdt-feat-Number.html) – [NumType](de_hdt-feat-NumType.html) – [PartType](de_hdt-feat-PartType.html) – [Person](de_hdt-feat-Person.html) – [Polarity](de_hdt-feat-Polarity.html) – [Poss](de_hdt-feat-Poss.html) – [PronType](de_hdt-feat-PronType.html) – [PunctType](de_hdt-feat-PunctType.html) – [Reflex](de_hdt-feat-Reflex.html) – [Tense](de_hdt-feat-Tense.html) – [Variant](de_hdt-feat-Variant.html) – [VerbForm](de_hdt-feat-VerbForm.html) – [VerbType](de_hdt-feat-VerbType.html)
 
 ## Relations
 
@@ -156,7 +156,7 @@ and correct errors in annotated corpora
 
 
 <ul>
-<li>This corpus contains 189928 sentences and 3399390 tokens.</li>
+<li>This corpus contains 189928 sentences, 3399390 tokens and 3455580 syntactic words.</li>
 </ul>
 
 <ul>
@@ -172,6 +172,8 @@ and correct errors in annotated corpora
 </ul>
 
 <ul>
+<li>This corpus contains 56190 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 21 types of multi-word tokens. Examples: im, am, zum, zur, vom, beim, ins, fürs, ans, übers, aufs, ums, durchs, z., unterm, vorm, unters, hinters, vors, A., hinterm.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -248,7 +250,6 @@ and correct errors in annotated corpora
   <li>Fem
     <ul>
       <li>ADJ: neue, deutsche, erste, weitere, eigene, große, nächste, deutschen, andere, digitale</li>
-      <li>ADP: zur</li>
       <li>DET: die, der, eine, einer, diese, dieser, keine, jede, aller, einiger</li>
       <li>NOUN: Millionen, Mark, Milliarden, Firma, Angaben, Software, Zeit, Firmen, Version, Informationen</li>
       <li>PRON: die, sie, seiner, seine, ihre, der, ihrer, diese, eine, unsere</li>
@@ -261,7 +262,6 @@ and correct errors in annotated corpora
   <li>Masc
     <ul>
       <li>ADJ: neuen, neue, ersten, neuer, deutsche, deutschen, großen, größte, erste, eigenen</li>
-      <li>ADP: im</li>
       <li>DET: der, den, des, dem, einen, ein, einem, eines, diesem, keinen</li>
       <li>NOUN: US-Dollar, Euro, Markt, Dollar, Hersteller, Umsatz, Computer, Preis, Anfang, Mitarbeiter</li>
       <li>PRON: er, der, seinen, dem, ihren, den, seinem, ihn, einer, anderem</li>
@@ -271,16 +271,22 @@ and correct errors in annotated corpora
 </ul>
 
 <ul>
+  <li>Masc,Neut
+    <ul>
+      <li>DET: dem</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Neut
     <ul>
       <li>ADJ: neue, neues, erste, weiteres, ersten, laufende, neuen, eigenes, erstes, zweite</li>
-      <li>ADP: ins, fürs, ans, übers, aufs, ums, durchs, unters, hinters, vors</li>
       <li>ADV: bisschen, bißchen, erstenmal</li>
       <li>DET: das, ein, des, dem, einem, dieses, diesem, eines, kein, jedes</li>
       <li>NOUN: Prozent, Internet, Unternehmen, Jahr, Ende, Quartal, Jahres, Jahren, Netz, Daten</li>
       <li>PRON: es, das, allem, dies, was, mehr, anderem, dem, sein, ihr</li>
       <li>PROPN: AppleStore, PowerBooks, KurzFilmFestival, PowerBook, RealVideo, BusinessCall, Deutschland, FeRAMs, G3-PowerBook, InternetTeam</li>
-      <li>SCONJ: dass</li>
       <li>X: Inc., Corp.</li>
     </ul>
   </li>
@@ -314,12 +320,11 @@ and correct errors in annotated corpora
       <li>ADJ: neuen, neue, deutschen, deutsche, ersten, erste, vergangenen, letzten, zweiten, heutigen</li>
       <li>ADV: bisschen, bißchen, erstenmal</li>
       <li>AUX-Fin: ist, hat, wird, soll, sei, will, hatte, kann, habe, war</li>
-      <li>DET: der, die, das, des, den, eine, dem, ein, einen, einem</li>
+      <li>DET: der, dem, die, das, des, den, eine, ein, einen, einem</li>
       <li>NOUN: Internet, Jahr, Unternehmen, Firma, Markt, Ende, Quartal, Software, Jahres, Zeit</li>
       <li>NUM: 1, eins, ein, SR-1, 2^3021377-1, 3166-1, EFS-1, Slot-1, viertel, 2/1</li>
       <li>PRON: es, man, das, er, der, die, sie, allem, dies, was</li>
       <li>PROPN: Microsoft, Telekom, Deutschland, Intel, AOL, IBM, c't, Europa, AMD, Apple</li>
-      <li>SCONJ: dass</li>
       <li>VERB: sagte, gibt, geht, steht, bietet, erklärte, kommt, sieht, gab, stellt</li>
       <li>VERB-Fin: sagte, gibt, geht, steht, bietet, erklärte, kommt, sieht, gab, stellt</li>
       <li>X: Inc., Corp., Call</li>
@@ -335,9 +340,9 @@ and correct errors in annotated corpora
   <li>Acc
     <ul>
       <li>ADJ: neuen, viele, ersten, großen, eigenen, weiteren, deutschen, wenige, beiden, größten</li>
-      <li>ADP: für, auf, über, in, um, durch, an, gegen, ohne, ins</li>
+      <li>ADP: für, auf, in, über, um, durch, an, gegen, ohne, unter</li>
       <li>ADV: bisschen, bißchen</li>
-      <li>DET: die, den, eine, das, einen, ein, keine, diese, alle, keinen</li>
+      <li>DET: die, den, das, eine, einen, ein, keine, diese, alle, keinen</li>
       <li>NOUN: Internet, Mark, Server, Ende, US-Dollar, Markt, Kunden, Version, Zugang, Anfang</li>
       <li>PRON: sich, ihre, seine, die, das, seinen, sie, sein, es, ihren</li>
       <li>PROPN: Microsoft, AOL, Intel, Napster, Java, Palm, IBM, Apple, OS/2, Netscape</li>
@@ -350,8 +355,8 @@ and correct errors in annotated corpora
   <li>Dat
     <ul>
       <li>ADJ: anderen, eigenen, neuen, vielen, wenigen, verschiedenen, kurzem, weiteren, deutschen, beiden</li>
-      <li>ADP: von, in, mit, im, bei, nach, auf, zu, am, zum</li>
-      <li>DET: der, dem, den, einem, einer, diesem, dieser, allen, einigen, diesen</li>
+      <li>ADP: in, von, mit, zu, bei, an, nach, auf, aus, vor</li>
+      <li>DET: dem, der, den, einem, einer, diesem, dieser, allen, einigen, diesen</li>
       <li>NOUN: Jahren, Monaten, Tagen, Ländern, Mitarbeitern, Geräten, Computern, Bereichen, Worten, Zuge</li>
       <li>NUM: dreien, zweien</li>
       <li>PRON: sich, allem, dem, anderem, seiner, denen, der, seinem, ihren, ihrer</li>
@@ -384,13 +389,23 @@ and correct errors in annotated corpora
       <li>NUM: eins</li>
       <li>PRON: es, die, man, sie, er, das, der, wir, was, dies</li>
       <li>PROPN: Microsoft, Intel, AOL, IBM, Apple, Napster, Compaq, Siemens, Sony, Gates</li>
-      <li>SCONJ: dass</li>
       <li>X: AID, Anti-Spam-Petition, Digital, Push, Telekom-Mitarbeiter, dmmv</li>
     </ul>
   </li>
 </ul>
 
 
+<ul>
+  <li><a>Definite</a></li>
+</ul>
+
+<ul>
+  <li>Def
+    <ul>
+      <li>DET: dem, der, das</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
@@ -534,8 +549,7 @@ and correct errors in annotated corpora
 <ul>
   <li>Art
     <ul>
-      <li>ADP: im, am, zum, zur, vom, beim, ins, fürs, ans, übers</li>
-      <li>DET: die, der, den, das, des, eine, dem, ein, einen, einem</li>
+      <li>DET: der, die, dem, den, das, des, eine, ein, einen, einem</li>
     </ul>
   </li>
 </ul>
@@ -657,7 +671,6 @@ and correct errors in annotated corpora
       <li>NUM: zwei, 2000, drei, 2001, 1999, vier, fünf, 20, 100, 30</li>
       <li>PRON: sich, es, die, sie, man, das, er, der, ihre, seine</li>
       <li>PROPN: Microsoft, Telekom, Deutschland, Intel, USA, telepolis, AOL, ibm, ICANN, CeBIT</li>
-      <li>SCONJ: dass</li>
       <li>VERB: sagte, gibt, geht, steht, bietet, erklärte, kommt, sieht, gab, stellt</li>
       <li>VERB-Fin: sagte, gibt, geht, steht, bietet, erklärte, kommt, sieht, gab, stellt</li>
       <li>X: of, internet, the, and, digital, mobile, media, for, OS, network</li>
@@ -686,7 +699,7 @@ and correct errors in annotated corpora
       </li>
       <li>Prep
         <ul>
-          <li>ADP: in, von, für, mit, auf, im, bei, nach, an, zu</li>
+          <li>ADP: in, von, für, mit, auf, zu, an, bei, nach, über</li>
         </ul>
       </li>
     </ul>
@@ -841,52 +854,37 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN-Acc (3)</li>
       <li>VERB-Fin--NOUN (51684)</li>
-      <li>VERB-Fin--NOUN-ADP(Am) (4)</li>
       <li>VERB-Fin--NOUN-ADP(An) (18)</li>
       <li>VERB-Fin--NOUN-ADP(Auf) (37)</li>
       <li>VERB-Fin--NOUN-ADP(Aus) (2)</li>
       <li>VERB-Fin--NOUN-ADP(Bei) (4)</li>
       <li>VERB-Fin--NOUN-ADP(Für) (39)</li>
       <li>VERB-Fin--NOUN-ADP(Gegen) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(Im) (3)</li>
       <li>VERB-Fin--NOUN-ADP(In) (11)</li>
-      <li>VERB-Fin--NOUN-ADP(Ins) (2)</li>
       <li>VERB-Fin--NOUN-ADP(Mit) (20)</li>
       <li>VERB-Fin--NOUN-ADP(Nach) (8)</li>
-      <li>VERB-Fin--NOUN-ADP(Vom) (5)</li>
       <li>VERB-Fin--NOUN-ADP(Von) (14)</li>
       <li>VERB-Fin--NOUN-ADP(Zu) (95)</li>
-      <li>VERB-Fin--NOUN-ADP(Zum) (48)</li>
-      <li>VERB-Fin--NOUN-ADP(Zur) (34)</li>
       <li>VERB-Fin--NOUN-ADP(als) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(am) (28)</li>
-      <li>VERB-Fin--NOUN-ADP(an) (363)</li>
-      <li>VERB-Fin--NOUN-ADP(auf) (1345)</li>
+      <li>VERB-Fin--NOUN-ADP(an) (395)</li>
+      <li>VERB-Fin--NOUN-ADP(auf) (1350)</li>
       <li>VERB-Fin--NOUN-ADP(auf)-ADP(hin) (8)</li>
       <li>VERB-Fin--NOUN-ADP(auf)-ADP(zu) (3)</li>
-      <li>VERB-Fin--NOUN-ADP(aufs) (5)</li>
       <li>VERB-Fin--NOUN-ADP(aus) (153)</li>
-      <li>VERB-Fin--NOUN-ADP(bei) (18)</li>
-      <li>VERB-Fin--NOUN-ADP(beim) (4)</li>
+      <li>VERB-Fin--NOUN-ADP(bei) (22)</li>
       <li>VERB-Fin--NOUN-ADP(durch) (4)</li>
       <li>VERB-Fin--NOUN-ADP(für) (362)</li>
       <li>VERB-Fin--NOUN-ADP(gegen) (110)</li>
-      <li>VERB-Fin--NOUN-ADP(im) (7)</li>
-      <li>VERB-Fin--NOUN-ADP(in) (233)</li>
-      <li>VERB-Fin--NOUN-ADP(ins) (27)</li>
+      <li>VERB-Fin--NOUN-ADP(in) (272)</li>
       <li>VERB-Fin--NOUN-ADP(mit) (559)</li>
       <li>VERB-Fin--NOUN-ADP(nach) (108)</li>
-      <li>VERB-Fin--NOUN-ADP(um) (53)</li>
-      <li>VERB-Fin--NOUN-ADP(ums) (2)</li>
+      <li>VERB-Fin--NOUN-ADP(um) (55)</li>
       <li>VERB-Fin--NOUN-ADP(unter) (35)</li>
-      <li>VERB-Fin--NOUN-ADP(vom) (53)</li>
-      <li>VERB-Fin--NOUN-ADP(von) (252)</li>
+      <li>VERB-Fin--NOUN-ADP(von) (310)</li>
       <li>VERB-Fin--NOUN-ADP(von)-ADP(aus) (5)</li>
       <li>VERB-Fin--NOUN-ADP(vor) (4)</li>
       <li>VERB-Fin--NOUN-ADP(wie) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(zu) (406)</li>
-      <li>VERB-Fin--NOUN-ADP(zum) (214)</li>
-      <li>VERB-Fin--NOUN-ADP(zur) (133)</li>
+      <li>VERB-Fin--NOUN-ADP(zu) (835)</li>
       <li>VERB-Fin--NOUN-ADP(zwischen) (1)</li>
       <li>VERB-Fin--NOUN-ADP(Über) (14)</li>
       <li>VERB-Fin--NOUN-ADP(über) (532)</li>
@@ -894,13 +892,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc-ADP(An) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(Auf) (3)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(an) (8)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(auf) (67)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(aufs) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(durchs) (1)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(auf) (68)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(durch) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(für) (12)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(gegen) (11)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(in) (8)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(ins) (1)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(in) (9)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(unter) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(Über) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(über) (11)</li>
@@ -913,23 +909,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Dat-ADP(Nach) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(Von) (4)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(Zu) (84)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(Zum) (2)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(Zur) (2)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(an) (21)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(auf) (11)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(aus) (47)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(bei) (2)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(beim) (1)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(bei) (3)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(in) (5)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(mit) (113)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(nach) (49)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(vom) (1)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(von) (64)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(von) (65)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(von)-ADP(aus) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(vor) (1)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(zu) (211)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(zum) (21)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(zur) (4)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(zu) (240)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(zwischen) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(über) (3)</li>
       <li>VERB-Fin--NOUN-Gen (33)</li>
@@ -943,41 +933,28 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Gen (1)</li>
       <li>VERB-Fin--PRON-Nom (7)</li>
       <li>VERB-Inf--NOUN (37081)</li>
-      <li>VERB-Inf--NOUN-ADP(Am) (2)</li>
       <li>VERB-Inf--NOUN-ADP(An) (15)</li>
       <li>VERB-Inf--NOUN-ADP(Auf) (22)</li>
       <li>VERB-Inf--NOUN-ADP(Bei) (1)</li>
       <li>VERB-Inf--NOUN-ADP(Für) (11)</li>
       <li>VERB-Inf--NOUN-ADP(In) (4)</li>
       <li>VERB-Inf--NOUN-ADP(Mit) (32)</li>
-      <li>VERB-Inf--NOUN-ADP(Vom) (1)</li>
       <li>VERB-Inf--NOUN-ADP(Von) (7)</li>
       <li>VERB-Inf--NOUN-ADP(Zu) (5)</li>
-      <li>VERB-Inf--NOUN-ADP(Zum) (1)</li>
-      <li>VERB-Inf--NOUN-ADP(Zur) (2)</li>
-      <li>VERB-Inf--NOUN-ADP(am) (26)</li>
-      <li>VERB-Inf--NOUN-ADP(an) (196)</li>
-      <li>VERB-Inf--NOUN-ADP(ans) (1)</li>
-      <li>VERB-Inf--NOUN-ADP(auf) (575)</li>
-      <li>VERB-Inf--NOUN-ADP(aufs) (3)</li>
+      <li>VERB-Inf--NOUN-ADP(an) (225)</li>
+      <li>VERB-Inf--NOUN-ADP(auf) (578)</li>
       <li>VERB-Inf--NOUN-ADP(aus) (27)</li>
-      <li>VERB-Inf--NOUN-ADP(bei) (29)</li>
-      <li>VERB-Inf--NOUN-ADP(beim) (5)</li>
+      <li>VERB-Inf--NOUN-ADP(bei) (34)</li>
       <li>VERB-Inf--NOUN-ADP(durch) (2)</li>
       <li>VERB-Inf--NOUN-ADP(für) (166)</li>
       <li>VERB-Inf--NOUN-ADP(gegen) (16)</li>
-      <li>VERB-Inf--NOUN-ADP(im) (3)</li>
-      <li>VERB-Inf--NOUN-ADP(in) (218)</li>
-      <li>VERB-Inf--NOUN-ADP(ins) (10)</li>
+      <li>VERB-Inf--NOUN-ADP(in) (231)</li>
       <li>VERB-Inf--NOUN-ADP(mit) (232)</li>
       <li>VERB-Inf--NOUN-ADP(nach) (34)</li>
       <li>VERB-Inf--NOUN-ADP(um) (10)</li>
       <li>VERB-Inf--NOUN-ADP(unter) (8)</li>
-      <li>VERB-Inf--NOUN-ADP(vom) (42)</li>
-      <li>VERB-Inf--NOUN-ADP(von) (125)</li>
-      <li>VERB-Inf--NOUN-ADP(zu) (221)</li>
-      <li>VERB-Inf--NOUN-ADP(zum) (87)</li>
-      <li>VERB-Inf--NOUN-ADP(zur) (75)</li>
+      <li>VERB-Inf--NOUN-ADP(von) (168)</li>
+      <li>VERB-Inf--NOUN-ADP(zu) (386)</li>
       <li>VERB-Inf--NOUN-ADP(zwischen) (9)</li>
       <li>VERB-Inf--NOUN-ADP(Über) (3)</li>
       <li>VERB-Inf--NOUN-ADP(über) (148)</li>
@@ -988,16 +965,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Acc-ADP(auf) (20)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(für) (4)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(gegen) (3)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(in) (8)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(ins) (1)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(in) (9)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(über) (3)</li>
       <li>VERB-Inf--NOUN-Dat (294)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(Mit) (8)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(Nach) (1)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(Von) (1)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(Zu) (4)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(am) (2)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(an) (25)</li>
+      <li>VERB-Inf--NOUN-Dat-ADP(an) (27)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(auf) (1)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(aus) (5)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(bei) (2)</li>
@@ -1005,9 +980,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Dat-ADP(mit) (56)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(nach) (19)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(von) (27)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(zu) (73)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(zum) (3)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(zur) (3)</li>
+      <li>VERB-Inf--NOUN-Dat-ADP(zu) (79)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(zwischen) (2)</li>
       <li>VERB-Inf--NOUN-Gen (15)</li>
       <li>VERB-Inf--NOUN-Nom (16)</li>
@@ -1021,34 +994,23 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-ADP(Auf) (18)</li>
       <li>VERB-Part--NOUN-ADP(Für) (5)</li>
       <li>VERB-Part--NOUN-ADP(In) (2)</li>
-      <li>VERB-Part--NOUN-ADP(Ins) (1)</li>
       <li>VERB-Part--NOUN-ADP(Mit) (11)</li>
       <li>VERB-Part--NOUN-ADP(Um) (2)</li>
-      <li>VERB-Part--NOUN-ADP(Vom) (1)</li>
       <li>VERB-Part--NOUN-ADP(Von) (2)</li>
       <li>VERB-Part--NOUN-ADP(Zu) (2)</li>
-      <li>VERB-Part--NOUN-ADP(Zum) (4)</li>
-      <li>VERB-Part--NOUN-ADP(Zur) (4)</li>
-      <li>VERB-Part--NOUN-ADP(am) (2)</li>
-      <li>VERB-Part--NOUN-ADP(an) (153)</li>
-      <li>VERB-Part--NOUN-ADP(auf) (283)</li>
-      <li>VERB-Part--NOUN-ADP(aufs) (4)</li>
+      <li>VERB-Part--NOUN-ADP(an) (155)</li>
+      <li>VERB-Part--NOUN-ADP(auf) (287)</li>
       <li>VERB-Part--NOUN-ADP(aus) (2)</li>
       <li>VERB-Part--NOUN-ADP(bei) (2)</li>
       <li>VERB-Part--NOUN-ADP(für) (87)</li>
       <li>VERB-Part--NOUN-ADP(gegen) (58)</li>
-      <li>VERB-Part--NOUN-ADP(im) (1)</li>
-      <li>VERB-Part--NOUN-ADP(in) (148)</li>
-      <li>VERB-Part--NOUN-ADP(ins) (24)</li>
+      <li>VERB-Part--NOUN-ADP(in) (174)</li>
       <li>VERB-Part--NOUN-ADP(mit) (198)</li>
       <li>VERB-Part--NOUN-ADP(nach) (23)</li>
       <li>VERB-Part--NOUN-ADP(um) (25)</li>
       <li>VERB-Part--NOUN-ADP(unter) (16)</li>
-      <li>VERB-Part--NOUN-ADP(vom) (18)</li>
-      <li>VERB-Part--NOUN-ADP(von) (106)</li>
-      <li>VERB-Part--NOUN-ADP(zu) (185)</li>
-      <li>VERB-Part--NOUN-ADP(zum) (64)</li>
-      <li>VERB-Part--NOUN-ADP(zur) (82)</li>
+      <li>VERB-Part--NOUN-ADP(von) (125)</li>
+      <li>VERB-Part--NOUN-ADP(zu) (339)</li>
       <li>VERB-Part--NOUN-ADP(Über) (7)</li>
       <li>VERB-Part--NOUN-ADP(über) (62)</li>
       <li>VERB-Part--NOUN-Acc (551)</li>
@@ -1069,15 +1031,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Dat-ADP(in) (2)</li>
       <li>VERB-Part--NOUN-Dat-ADP(mit) (30)</li>
       <li>VERB-Part--NOUN-Dat-ADP(nach) (7)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(vom) (1)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(von) (18)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(zu) (54)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(zum) (3)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(zur) (8)</li>
+      <li>VERB-Part--NOUN-Dat-ADP(von) (19)</li>
+      <li>VERB-Part--NOUN-Dat-ADP(zu) (65)</li>
       <li>VERB-Part--NOUN-Dat-ADP(zwischen) (1)</li>
       <li>VERB-Part--NOUN-Dat-ADP(über) (2)</li>
       <li>VERB-Part--NOUN-Gen (12)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(vom) (1)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(von) (1)</li>
       <li>VERB-Part--NOUN-Gen-ADP(zu) (1)</li>
       <li>VERB-Part--NOUN-Nom (11)</li>
       <li>VERB-Part--PRON (92)</li>

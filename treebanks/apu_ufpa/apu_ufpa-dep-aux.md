@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Apurina-UFPA: Relations: `aux`
 
 This relation is universal.
+There are 1 language-specific subtypes of `aux`: <tt><a href="apu_ufpa-dep-aux-exhort.html">aux:exhort</a></tt>.
 
 2 nodes (0%) are attached to their parents as `aux`.
 

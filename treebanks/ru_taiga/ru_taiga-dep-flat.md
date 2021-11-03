@@ -28,9 +28,9 @@ The following 23 pairs of parts of speech are connected with `flat`: <tt><a href
 3	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 4	отмечается	отмечаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
 5	в	в	ADP	_	_	10	case	_	_
-6	одно	один	DET	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	10	det	_	_
+6	одно	один	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	10	det	_	_
 7	и	и	CCONJ	_	_	8	cc	_	_
-8	то	тот	DET	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	6	det	_	_
+8	то	тот	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	6	det	_	_
 9	же	же	PART	_	_	8	fixed	_	_
 10	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	4	obl	_	_
 11	—	—	PUNCT	_	_	12	punct	_	_
@@ -76,7 +76,7 @@ The following 23 pairs of parts of speech are connected with `flat`: <tt><a href
 5	хочу	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	flat	_	_
 6	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	1	obj	_	SpaceAfter=No
 7	!	!	PUNCT	_	_	1	punct	_	_
-8	💜	💜	SYM	_	_	1	discourse	_	_
+8	💜	💜	SYM	_	_	1	discourse	_	_~
 
 ~~~
 

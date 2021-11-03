@@ -9,33 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `csubj`: <tt><a href="id_pud-dep-csubj-pass.html">csubj:pass</a></tt>.
 
-26 nodes (0%) are attached to their parents as `csubj`.
+25 nodes (0%) are attached to their parents as `csubj`.
 
-16 instances of `csubj` (62%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.65384615384615.
+13 instances of `csubj` (52%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.68.
 
-The following 8 pairs of parts of speech are connected with `csubj`: <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (6; 23% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (6; 23% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (5; 19% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (5; 19% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 5 csubj	color:blue
-1	Bukan	bukan	PART	_	Polarity=Neg	2	advmod	_	_
-2	itu	itu	PRON	_	PronType=Dem	0	root	_	_
-3	yang	yang	SCONJ	_	_	5	mark	_	_
-4	kita	kita	PRON	_	Clusivity=In|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
-5	butuhkan	butuh	VERB	_	Mood=Ind|Voice=Act	2	csubj	_	_
-6	di	di	ADP	_	_	7	case	_	_
-7	negara	negara	NOUN	_	Number=Sing	5	obl	_	_
-8	ini	ini	DET	_	PronType=Dem	7	det	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	10	punct	_	_
-10	saudara-saudara	saudara	NOUN	_	Number=Plur	2	vocative	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	2	punct	_	_
-
-~~~
+The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (6; 24% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (5; 20% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (5; 20% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (2; 8% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (2; 8% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (2; 8% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -45,7 +24,7 @@ The following 8 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 7	fgColor:white
 # visual-style 7 1 csubj	color:blue
 1	Ambruk	ambruk	VERB	_	Mood=Ind|Voice=Act	7	csubj	_	_
-2	nya	nya	DET	_	PronType=Dem	1	det	_	_
+2	nya	nya	DET	_	Definite=Def|PronType=Art	1	det	_	_
 3	dan	dan	CCONJ	_	_	4	cc	_	_
 4	intervensi	intervensi	NOUN	_	Number=Sing	1	conj	_	_
 5	puluhan	puluh	NUM	_	NumType=Card	6	nummod	_	_
@@ -83,6 +62,25 @@ The following 8 pairs of parts of speech are connected with `csubj`: <tt><a href
 11	saling	saling	ADV	_	_	12	advmod	_	_
 12	mengawini	kawin	VERB	_	Mood=Ind|Voice=Act	4	csubj	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 1 csubj	color:blue
+1	Mengakhiri	akhir	VERB	_	Mood=Ind|Voice=Act	7	csubj	_	_
+2	karier	karier	NOUN	_	Number=Sing	1	obj	_	_
+3	nya	nya	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nmod:poss	_	_
+4	di	di	ADP	_	_	5	case	_	_
+5	sini	sini	PRON	_	PronType=Dem	1	obl	_	_
+6	adalah	adalah	AUX	_	_	7	cop	_	_
+7	mimpi	mimpi	NOUN	_	Number=Sing	0	root	_	_
+8	nya	nya	PRON	_	Number=Sing|Person=3|PronType=Prs	7	nmod:poss	_	_
+9	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~
 

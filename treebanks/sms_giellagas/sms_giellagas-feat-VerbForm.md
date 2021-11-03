@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal but the values `Vnoun` are language-specific.
 It occurs with 4 different values: `Ger`, `Inf`, `Part`, `Vnoun`.
 
-60 tokens (3%) have a non-empty value of `VerbForm`.
-42 types (7%) occur at least once with a non-empty value of `VerbForm`.
-39 lemmas (9%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (56; 3% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (4; 0% instances).
+73 tokens (3%) have a non-empty value of `VerbForm`.
+46 types (7%) occur at least once with a non-empty value of `VerbForm`.
+42 lemmas (9%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (69; 3% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (4; 0% instances).
 
 ### `VERB`
 
-56 <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> tokens (12% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+69 <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> tokens (13% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (56; 100%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (56; 100%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (56; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (55; 98%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (69; 100%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (69; 100%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (69; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (68; 99%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Ger` (1; 2% of non-empty `VerbForm`): <em>vaʹlljeeǩâni</em>
-* `Inf` (29; 52% of non-empty `VerbForm`): <em>kooǯǯted, mõõnnâd, väʹldded, jååʹtted, njuiʹǩǩeed, jälsted, kueʹstted, käggõõttâd, looppted, mainsted</em>
-* `Part` (25; 45% of non-empty `VerbForm`): <em>teâđstam, välddam, kaunnâm, koǯstam, koǯǯâm, šõddâm, jeällam, kooǯǯtam, kuâđđam, raajjâm</em>
-* `Vnoun` (1; 2% of non-empty `VerbForm`): <em>puälddmõõžž</em>
-* `EMPTY` (430): <em>ceälkk, mõõni, puõʹđi, vaaʹldi, ǩieʹzzi, lij, vuõʹlji, šõõddi, ǩiõzzam, jåått</em>
+* `Ger` (1; 1% of non-empty `VerbForm`): <em>vaʹlljeeǩâni</em>
+* `Inf` (41; 59% of non-empty `VerbForm`): <em>jieʹlled, kooǯǯted, väʹldded, jååʹtted, mõõnnâd, njuiʹǩǩeed, ǩiččâd, jälsted, kueʹstted, käggõõttâd</em>
+* `Part` (26; 38% of non-empty `VerbForm`): <em>teâđstam, välddam, kaunnâm, koǯstam, koǯǯâm, šõddâm, jeällam, kooǯǯtam, kuâđđam, raajjâm</em>
+* `Vnoun` (1; 1% of non-empty `VerbForm`): <em>puälddmõõžž</em>
+* `EMPTY` (480): <em>ceälkk, mõõni, puõʹđi, vaaʹldi, šõõddi, ǩieʹzzi, jälste, lij, vuõʹlji, ǩiõzzam</em>
 
 <table>
   <tr><th>Paradigm <i>väʹldded</i></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -34,7 +34,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><tt><a href="sms_giellagas-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt></tt></td><td></td><td><em>välddam</em></td></tr>
 </table>
 
-`VerbForm` seems to be **lexical feature** of `VERB`. 95% lemmas (35) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `VERB`. 93% lemmas (37) occur only with one value of `VerbForm`.
 
 ### `AUX`
 
@@ -46,7 +46,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 * `Inf` (2; 50% of non-empty `VerbForm`): <em>leeʹd</em>
 * `Part` (2; 50% of non-empty `VerbForm`): <em>leämmaž, õlggâm</em>
-* `EMPTY` (120): <em>lij, leäi, ij, jiõk, liâ, jiõm, õõk, leäk, i-ǥõl, leäkku</em>
+* `EMPTY` (136): <em>lij, leäi, ij, jiõk, õõk, liâ, jiõm, õõlǥ, leäk, i-ǥõl</em>
 
 <table>
   <tr><th>Paradigm <i>leeʹd</i></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>

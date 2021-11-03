@@ -90,7 +90,7 @@ The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 23	Eoin	Eoin	PROPN	_	_	18	obl:tmod	_	_
 24	4:19	4:19	NUM	_	_	23	flat	_	SpaceAfter=No
 25	-	-	PUNCT	_	_	26	punct	_	SpaceAfter=No
-26	5:4	5:4	NUM	_	_	23	nmod	_	_
+26	5:4	5:4	NUM	_	_	24	nmod	_	_
 
 ~~~
 

@@ -10,26 +10,26 @@ This feature is universal but the values `Emp` are language-specific.
 It occurs with 9 different values: `Art`, `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 Some words have combined values of the feature; 1 combinations have been observed: `Int|Rel`.
 
-25174 tokens (12%) have a non-empty value of `PronType`.
-455 types (1%) occur at least once with a non-empty value of `PronType`.
+25169 tokens (12%) have a non-empty value of `PronType`.
+454 types (1%) occur at least once with a non-empty value of `PronType`.
 82 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (12025; 6% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (11806; 5% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (1295; 1% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (48; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (12026; 6% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (11800; 5% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (1295; 1% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (48; 0% instances).
 
 ### `DET`
 
-12025 <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+12026 <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="ro_rrt-feat-Position.html">Position</a></tt><tt>=EMPTY</tt> (10109; 84%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9043; 75%), <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8172; 68%), <tt><a href="ro_rrt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (8168; 68%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (6383; 53%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (6256; 52%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="ro_rrt-feat-Position.html">Position</a></tt><tt>=EMPTY</tt> (10111; 84%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9046; 75%), <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8174; 68%), <tt><a href="ro_rrt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (8168; 68%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (6381; 53%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (6254; 52%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (406; 3% of non-empty `PronType`): <em>lui, -lea, -ul, -a, -ului, -urilor, -ilor, -urile</em>
-* `Dem` (1580; 13% of non-empty `PronType`): <em>acest, cel, această, aceste, cele, cea, același, acestor, cei, aceeași</em>
+* `Art` (407; 3% of non-empty `PronType`): <em>lui, -lea, -ul, -a, -ului, -urilor, -ilor, -urile</em>
+* `Dem` (1581; 13% of non-empty `PronType`): <em>acest, cel, această, aceste, cele, cea, același, acestor, cei, aceeași</em>
 * `Emp` (53; 0% of non-empty `PronType`): <em>însuși, însăși, înșiși, însumi, însele, înseși</em>
-* `Ind` (5990; 50% of non-empty `PronType`): <em>o, un, unei, unui, orice, toate, unor, alte, fiecare, multe</em>
-* `Int,Rel` (109; 1% of non-empty `PronType`): <em>ce, căror, câte, cărei, cărui, care, câți, cât, câtă</em>
+* `Ind` (5989; 50% of non-empty `PronType`): <em>o, un, unei, unui, orice, toate, unor, alte, fiecare, multe</em>
+* `Int,Rel` (108; 1% of non-empty `PronType`): <em>ce, căror, câte, cărei, cărui, care, câți, cât, câtă</em>
 * `Neg` (30; 0% of non-empty `PronType`): <em>niciun, nicio, niciunui</em>
-* `Prs` (3857; 32% of non-empty `PronType`): <em>a, al, ale, lui, lor, ei, său, ai, sale, sa</em>
+* `Prs` (3858; 32% of non-empty `PronType`): <em>a, al, ale, lui, lor, ei, său, ai, sale, sa</em>
 
 <table>
   <tr><th>Paradigm <i>lui</i></th><th><tt>Prs</tt></th><th><tt>Art</tt></th></tr>
@@ -42,20 +42,20 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `PRON`
 
-11806 <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+11800 <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt> (10635; 90%), <tt><a href="ro_rrt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (9742; 83%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8681; 74%), <tt><a href="ro_rrt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (7870; 67%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6805; 58%), <tt><a href="ro_rrt-feat-Strength.html">Strength</a></tt><tt>=Weak</tt> (6201; 53%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt> (10631; 90%), <tt><a href="ro_rrt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (9737; 83%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8721; 74%), <tt><a href="ro_rrt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (7864; 67%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6805; 58%), <tt><a href="ro_rrt-feat-Strength.html">Strength</a></tt><tt>=Weak</tt> (6197; 53%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (939; 8% of non-empty `PronType`): <em>ceea, aceasta, acestea, acesta, cele, cel, cei, cea, acestuia, aceea</em>
-* `Ind` (747; 6% of non-empty `PronType`): <em>unul, una, toate, ceva, fiecare, totul, tot, multe, altul, toți</em>
-* `Int,Rel` (2802; 24% of non-empty `PronType`): <em>care, ce, cine, cărora, căruia, căreia, ce-, cari, câte, cui</em>
+* `Dem` (938; 8% of non-empty `PronType`): <em>ceea, aceasta, acestea, acesta, cele, cel, cei, cea, acestuia, aceea</em>
+* `Ind` (748; 6% of non-empty `PronType`): <em>unul, una, toate, ceva, fiecare, totul, tot, multe, altul, toți</em>
+* `Int,Rel` (2803; 24% of non-empty `PronType`): <em>care, ce, cine, cărora, căruia, căreia, ce-, cari, câte, cui</em>
 * `Neg` (71; 1% of non-empty `PronType`): <em>nimic, nimeni, nimica, Niciunul, niciuna, nime, nimenea</em>
-* `Prs` (7247; 61% of non-empty `PronType`): <em>se, s-, el, le, o, își, -și, -l, și-, îi</em>
+* `Prs` (7240; 61% of non-empty `PronType`): <em>se, s-, el, le, o, își, -și, -l, și-, îi</em>
 * `EMPTY` (8): <em>ș.a., dvs., Î.P.S.</em>
 
-`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (48) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 100% lemmas (47) occur only with one value of `PronType`.
 
 ### `ADV`
 
@@ -67,7 +67,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 * `Int,Rel` (1058; 82% of non-empty `PronType`): <em>când, cum, unde, cât, precum, oare, ce, cân'</em>
 * `Neg` (237; 18% of non-empty `PronType`): <em>nici, niciodată, nicăieri, nicicând</em>
-* `EMPTY` (8226): <em>mai, ca, iar, astfel, decât, numai, mult, înainte, chiar, puțin</em>
+* `EMPTY` (8225): <em>mai, ca, iar, astfel, decât, numai, mult, înainte, chiar, puțin</em>
 
 `PronType` seems to be **lexical feature** of `ADV`. 100% lemmas (11) occur only with one value of `PronType`.
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Miguel Ballesteros, Héctor Martínez Alonso, Ryan McDonald, Elena Pascual, Natalia Silveira, Daniel Zeman, Joakim Nivre.
 
 Repository: [UD_Spanish-GSD](https://github.com/UniversalDependencies/UD_Spanish-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_gsd28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_gsd29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-SA 4.0
 
@@ -89,7 +89,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 </ul>
 
 <ul>
-<li>This corpus contains 46415 tokens (11%) that are not followed by a space.</li>
+<li>This corpus contains 46417 tokens (11%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -726,7 +726,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 211 lemmas as copulas (<a>cop</a>). Examples: ser, estar, llamado, encontrar, hacer, llamar, quedar, considerar, parecer, ver, resultar, denominado, volver, nombrar, significar, mantener, titulado, denominar, permanecer, nombrado, elegir, hallar, considerado, declarar, proclamar, titular, declarado, morir, pasar, salir, sentir, caer, constituir, designado, haber, nacer, nacido, nacionalizado, poner, seguir, sero, terminar, vivir, acabar, andar, aparecer, autodenominado, con, creer, dejar.</li>
+<li>This corpus uses 197 lemmas as copulas (<a>cop</a>). Examples: ser, estar, llamar, encontrar, hacer, quedar, considerar, denominar, parecer, ver, nombrar, resultar, volver, titular, significar, mantener, permanecer, declarar, elegir, proclamar, hallar, nacer, denominado, designar, morir, pasar, salir, sentir, caer, constituir, haber, nacionalizar, poner, seguir, sero, terminar, tratar, vivir, acabar, andar, aparecer, autodenominar, con, creer, dejar, electo, formar, huir, intitular, ir.</li>
 </ul>
 
 <ul>
@@ -864,9 +864,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 1183 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: encontrar se, hacer se, convertir se, ver se, dar se, tratar se, realizar se, producir se, presentar se, utilizar se, dedicar se, llamar se, poner se, mantener se, referir se, celebrar se, considerar se, llevar se, quedar se, unir se, desarrollar se, trasladar se, decir se, ubicar se, casar se, volver se, hallar se, incorporar se, conservar se, conocer se, deber se, extender se, establecer se, mostrar se, encargar se, iniciar se, usar se, construir se, dividir se, negar se, retirar se, basar se, crear se, incluir se, reunir se, acercar se, centrar se, creer se, denominar se, marchar se</li>
+  <li>This corpus contains 1125 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: encontrar se, convertir se, hacer se, ver se, dar se, tratar se, realizar se, producir se, presentar se, utilizar se, dedicar se, llamar se, poner se, mantener se, referir se, celebrar se, quedar se, considerar se, llevar se, unir se, desarrollar se, trasladar se, decir se, ubicar se, casar se, volver se, hallar se, incorporar se, conservar se, basar se, conocer se, deber se, extender se, establecer se, iniciar se, mostrar se, usar se, encargar se, retirar se, construir se, crear se, dividir se, negar se, acercar se, incluir se, reunir se, centrar se, denominar se, graduar se, marchar se</li>
     <ul>
-      <li>Out of those, 69 lemmas occurred more than once, but never without a reflexive dependent. Examples: basar, refugiar, especializar, apoderar, apresurar, agotar, asientar, basándo, congregar, doctorar, encontrándo, extiender, hospedar, acoplar, afiliar, aliar, aventurar, desintegrar, enamorándo, enrolar, fugar, intensificar, matricular, percatar, reincorporar, reutilizar, subdividir, volviéndo, yergar, abocar, abriéndo, adecuar, adjudicar, agudizar, alistar, asemejar, atrever, autoproclamar, avenir, bendizar, convertii, crio, desarrollándo, desmayar, despliegar, divorciar, enfadar, enquistar, entonar, entrevistar</li>
+      <li>Out of those, 53 lemmas occurred more than once, but never without a reflexive dependent. Examples: refugiar, apoderar, apresurar, agotar, asientar, doctorar, extiender, hospedar, acoplar, aventurar, desintegrar, divorciar, enrolar, fugar, intensificar, matricular, percatar, reincorporar, reutilizar, subdividir, volviéndo, yergar, abocar, abriéndo, adecuar, agudizar, alistar, asemejar, atrever, autoproclamar, avenir, bendizar, convertii, crio, desmayar, despliegar, enfadar, enquistar, entonar, entrevistar, equivocar, estancar, expandir, interponer, interrumper, levantar-, nó, opuser, propagar, rebelar</li>
     </ul>
 </ul>
 

@@ -12,9 +12,9 @@ There are also 2 other language-specific subtypes of `nmod`: <tt><a href="id_pud
 107 nodes (1%) are attached to their parents as `nmod:lmod`.
 
 107 instances of `nmod:lmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.23364485981308.
+Average distance between parent and child is 1.24299065420561.
 
-The following 7 pairs of parts of speech are connected with `nmod:lmod`: <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (68; 64% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (20; 19% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (14; 13% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="id_pud-pos-DET.html">DET</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `nmod:lmod`: <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (67; 63% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (21; 20% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (13; 12% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="id_pud-pos-DET.html">DET</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -42,7 +42,7 @@ The following 7 pairs of parts of speech are connected with `nmod:lmod`: <tt><a 
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 10 nmod:lmod	color:blue
-1	Suatu	suatu	DET	_	Number=Sing|PronType=Ind	2	det	_	_
+1	Suatu	suatu	DET	_	Definite=Ind|PronType=Art	2	det	_	_
 2	level	level	NOUN	_	Number=Sing	0	root	_	_
 3	yang	yang	PRON	_	PronType=Rel	8	nsubj	_	_
 4	dalam	dalam	ADP	_	_	6	case	_	_
@@ -73,7 +73,7 @@ The following 7 pairs of parts of speech are connected with `nmod:lmod`: <tt><a 
 6	di	di	ADP	_	_	8	case	_	_
 7	dalam	dalam	NOUN	_	Number=Sing	8	nmod:lmod	_	_
 8	yang	yang	PRON	_	PronType=Rel	4	obl	_	_
-9	mana	mana	PRON	_	PronType=Rel	8	nmod	_	SpaceAfter=No
+9	mana	mana	PRON	_	PronType=Dem	8	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~

@@ -34,7 +34,7 @@ The 10 most frequent ambiguous types:  あっ (<tt><a href="ja_gsd-pos-VERB.html
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.090909 (the average of all parts of speech is 1.059467).
+The form / lemma ratio of `INTJ` is 1.090909 (the average of all parts of speech is 1.059603).
 
 The 1st highest number of forms (2) was observed with the lemma “_”: チョーサンヤ, ヨーイトナ.
 

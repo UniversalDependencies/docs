@@ -27,7 +27,7 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 3	da	da	SCONJ	Cs	_	5	mark	_	_
 4	to	taj	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	_
 5	predstavlja	predstavljati	VERB	Vmr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	csubj	_	_
-6	prvi	prvi	NUM	Mlomsn	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	nummod	_	_
+6	prvi	prvi	ADJ	Mlomsn	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
 7	korak	korak	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	5	obj	_	_
 8	u	u	ADP	Sl	Case=Loc	9	case	_	_
 9	programu	program	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	7	nmod	_	_

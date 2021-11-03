@@ -22,13 +22,13 @@ The following 1 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 mark	color:blue
-1	kakake	kaka	NOUN	n	Case=Aff	3	obj	3:obj	_
-2	kurumĩ	kurumĩ	NOUN	n	Animacy=Hum|Number=Sing|Person=3	3	nsubj	3:nsubj	_
-3	uʔu	ʔu	VERB	vt	Person=3	7	advcl	7:advcl	_
-4	rahã	rahã	SCONJ	sc	_	3	mark	3:mark	_
-5	aʔe	aʔe	PRON	pro	Animacy=Hum|Number=Sing|Person=3	7	nsubj	7:nsubj	_
-6	hãʔĩmke	ãʔĩm	NOUN	n	Case=Aff|Number=Plur	7	obj	7:obj	_
-7	matɪr	matɪr	VERB	vt	Person=3	0	root	0:root	_
+1	kakake	kaka	NOUN	n	Case=Aff	3	obj	_	_
+2	kurumĩ	kurumĩ	NOUN	n	Animacy=Hum|Number=Sing|Person=3	3	nsubj	_	_
+3	uʔu	ʔu	VERB	vt	Person=3	7	advcl	_	_
+4	rahã	rahã	SCONJ	sc	_	3	mark	_	_
+5	aʔe	aʔe	PRON	pro	Animacy=Hum|Number=Sing|Person=3	7	nsubj	_	_
+6	hãʔĩmke	ãʔĩm	NOUN	n	Case=Aff|Number=Plur	7	obj	_	_
+7	matɪr	matɪr	VERB	vt	Person=3	0	root	_	_
 
 ~~~
 

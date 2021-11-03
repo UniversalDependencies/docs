@@ -11,7 +11,7 @@ This relation is a language-specific subtype of <tt><a href="de_hdt-dep-obl.html
 4 nodes (0%) are attached to their parents as `obl:arg`.
 
 3 instances of `obl:arg` (75%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.
+Average distance between parent and child is 6.25.
 
 The following 3 pairs of parts of speech are connected with `obl:arg`: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (2; 50% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (1; 25% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (1; 25% instances).
 
@@ -56,27 +56,28 @@ The following 3 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 15 obl:arg	color:blue
-1	Werner	Werner	PROPN	NE	Gender=Masc|Number=Sing|Person=3	10	nsubj	_	_
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 16 obl:arg	color:blue
+1	Werner	Werner	PROPN	NE	Gender=Masc|Number=Sing|Person=3	11	nsubj	_	_
 2	Schmidt	Schmidt	PROPN	NE	Number=Sing|Person=3	1	flat:name	_	_
 3	,	,	PUNCT	$,	PunctType=Comm	4	punct	_	_
 4	Wirtschaftsreferent	Referent	NOUN	NN	Gender=Masc|Number=Sing|Person=3	1	appos	_	_
-5	beim	beim	ADP	APPRART	AdpType=Prep|Case=Dat|PronType=Art	6	case	_	_
-6	Bundesbeauftragten	Beauftragt	NOUN	NN	Degree=Pos|Number=Sing|Person=3	4	nmod	_	_
-7	für	für	ADP	APPR	AdpType=Prep|Case=Acc	8	case	_	_
-8	Datenschutz	Schutz	NOUN	NN	Gender=Masc|Number=Sing|Person=3	6	nmod	_	_
-9	,	,	PUNCT	$,	PunctType=Comm	4	punct	_	_
-10	hält	halten	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-11	ein	ein	DET	ART	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	13	det	_	_
-12	solches	solch	ADJ	PIDAT	Case=Acc|Gender=Neut|Number=Sing|Person=3	13	amod	_	_
-13	Vorgehen	Vorgehen	NOUN	NN	Gender=Neut|Number=Sing|Person=3	10	obj	_	_
-14	für	für	ADP	APPR	AdpType=Prep|Case=Acc	15	case	_	_
-15	strafbar	strafbar	ADJ	ADJD	Degree=Pos|Variant=Short	10	obl:arg	_	_
-16	:	:	PUNCT	$.	PunctType=Peri	10	punct	_	_
+5	bei	bei	ADP	APPR	AdpType=Prep|Case=Dat	7	case	_	_
+6	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	7	det	_	_
+7	Bundesbeauftragten	Beauftragt	NOUN	NN	Degree=Pos|Number=Sing|Person=3	4	nmod	_	_
+8	für	für	ADP	APPR	AdpType=Prep|Case=Acc	9	case	_	_
+9	Datenschutz	Schutz	NOUN	NN	Gender=Masc|Number=Sing|Person=3	7	nmod	_	_
+10	,	,	PUNCT	$,	PunctType=Comm	4	punct	_	_
+11	hält	halten	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+12	ein	ein	DET	ART	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	14	det	_	_
+13	solches	solch	ADJ	PIDAT	Case=Acc|Gender=Neut|Number=Sing|Person=3	14	amod	_	_
+14	Vorgehen	Vorgehen	NOUN	NN	Gender=Neut|Number=Sing|Person=3	11	obj	_	_
+15	für	für	ADP	APPR	AdpType=Prep|Case=Acc	16	case	_	_
+16	strafbar	strafbar	ADJ	ADJD	Degree=Pos|Variant=Short	11	obl:arg	_	_
+17	:	:	PUNCT	$.	PunctType=Peri	11	punct	_	_
 
 ~~~
 

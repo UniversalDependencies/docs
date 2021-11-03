@@ -58,7 +58,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 5 <tt><a href="pt_pud-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="pt_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="pt_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt> (4; 80%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="pt_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="pt_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt> (4; 80%), <tt><a href="pt_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (4; 80%).
 
 `DET` tokens may have the following values of `Person`:
 

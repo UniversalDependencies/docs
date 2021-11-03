@@ -68,7 +68,7 @@ The following 10 pairs of parts of speech are connected with `acl`: <tt><a href=
 3	ладсо	лад	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	4	obl	_	GTtags=SP,Ine,Indef
 4	кортась	кортамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,ScSg3
 5	течи	течи	ADV	Adv	AdvType=Tim	4	obl:tmod	_	GTtags=Temp
-6	Федоров	Фёдоров	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|Gender=Masc|NameType=Sur|Number=Sing	4	nsubj	_	GTtags=Prop,Sur_Mal,Sg,Nom,Indef|SpaceAfter=No
+6	Федоров	Фёдоров	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	4	nsubj	_	GTtags=Prop,Sur_Mal,Sg,Nom,Indef|SpaceAfter=No
 7	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~

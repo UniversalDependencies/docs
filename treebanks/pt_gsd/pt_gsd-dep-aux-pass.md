@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="pt_gsd-dep-aux.html">aux</a></tt>.
 
-2449 nodes (1%) are attached to their parents as `aux:pass`.
+2445 nodes (1%) are attached to their parents as `aux:pass`.
 
-2447 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.08738260514496.
+2443 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.08588957055215.
 
-The following 6 pairs of parts of speech are connected with `aux:pass`: <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> (2407; 98% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> (25; 1% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (2; 0% instances).
+The following 6 pairs of parts of speech are connected with `aux:pass`: <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> (2405; 98% instances), <tt><a href="pt_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> (24; 1% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_gsd-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="pt_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="pt_gsd-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pt_gsd-pos-PROPN.html">PROPN</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -58,28 +58,27 @@ The following 6 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 aux:pass	color:blue
-1	Em	em	ADP	ADP	_	2	case	_	_
-2	1975	_	NUM	NUM	NumType=Card	5	nmod	_	_
-3	foi	_	AUX	AUX	_	5	aux:pass	_	_
-4	eleito	eleger	AUX	AUX	_	5	cop	_	_
-5	Deputado	_	PROPN	PNOUN	_	0	root	_	_
-6	Estadual	_	PROPN	PNOUN	_	5	amod	_	SpaceAfter=No
-7	,	,	PUNCT	.	_	8	punct	_	_
-8	mandato	mandato	NOUN	NOUN	_	5	appos	_	_
-9	que	_	PRON	PRON	_	10	obj	_	_
-10	repetiu	repetir	VERB	VERB	_	8	acl:relcl	_	_
-11	por	por	ADP	ADP	_	14	case	_	_
-12	mais	mais	ADV	ADV	_	13	advmod	_	_
-13	duas	_	NUM	NUM	NumType=Card	14	nummod	_	_
-14	vezes	vez	NOUN	NOUN	_	10	nmod	_	_
-15	até	_	ADP	ADP	_	16	case	_	_
-16	1986	_	NUM	NUM	NumType=Card	10	nmod	_	SpaceAfter=No
-17	.	.	PUNCT	.	_	5	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 aux:pass	color:blue
+1	O	o	DET	DET	_	2	det	_	_
+2	texto	texto	NOUN	NOUN	_	3	nsubj	_	_
+3	determina	determinar	VERB	VERB	_	0	root	_	_
+4	que	que	CCONJ	CONJ	_	8	mark	_	_
+5	veredas	vereda	NOUN	NOUN	_	8	nsubj:pass	_	_
+6	são	ser	AUX	AUX	_	8	aux:pass	_	_
+7	consideradas	considerar	AUX	AUX	_	8	cop	_	_
+8	APPs	_	PROPN	PNOUN	_	3	ccomp	_	SpaceAfter=No
+9	,	,	PUNCT	.	_	15	punct	_	_
+10	e	e	CCONJ	CONJ	_	15	cc	_	_
+11	portanto	_	ADV	ADV	_	15	advmod	_	SpaceAfter=No
+12	,	,	PUNCT	.	_	15	punct	_	_
+13	devem	_	AUX	AUX	_	15	aux	_	_
+14	ser	ser	AUX	AUX	_	15	aux:pass	_	_
+15	preservadas	preservar	VERB	VERB	_	8	conj	_	SpaceAfter=No
+16	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~
 

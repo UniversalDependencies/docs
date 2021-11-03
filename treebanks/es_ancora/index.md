@@ -19,10 +19,10 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Héctor Martínez Alonso, Daniel Zeman.
 
 Repository: [UD_Spanish-AnCora](https://github.com/UniversalDependencies/UD_Spanish-AnCora)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_ancora28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_ancora29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
-License: GNU GPL 3.0
+License: CC BY 4.0
 
 Genre: news
 
@@ -93,17 +93,17 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 
 ## Relations
 
-[acl](es_ancora-dep-acl.html) – [acl:relcl](es_ancora-dep-acl-relcl.html) – [advcl](es_ancora-dep-advcl.html) – [advmod](es_ancora-dep-advmod.html) – [amod](es_ancora-dep-amod.html) – [appos](es_ancora-dep-appos.html) – [aux](es_ancora-dep-aux.html) – [aux:pass](es_ancora-dep-aux-pass.html) – [case](es_ancora-dep-case.html) – [cc](es_ancora-dep-cc.html) – [ccomp](es_ancora-dep-ccomp.html) – [compound](es_ancora-dep-compound.html) – [conj](es_ancora-dep-conj.html) – [cop](es_ancora-dep-cop.html) – [csubj](es_ancora-dep-csubj.html) – [csubj:pass](es_ancora-dep-csubj-pass.html) – [dep](es_ancora-dep-dep.html) – [det](es_ancora-dep-det.html) – [discourse](es_ancora-dep-discourse.html) – [expl](es_ancora-dep-expl.html) – [expl:impers](es_ancora-dep-expl-impers.html) – [expl:pass](es_ancora-dep-expl-pass.html) – [expl:pv](es_ancora-dep-expl-pv.html) – [fixed](es_ancora-dep-fixed.html) – [flat](es_ancora-dep-flat.html) – [iobj](es_ancora-dep-iobj.html) – [list](es_ancora-dep-list.html) – [mark](es_ancora-dep-mark.html) – [nmod](es_ancora-dep-nmod.html) – [nsubj](es_ancora-dep-nsubj.html) – [nsubj:pass](es_ancora-dep-nsubj-pass.html) – [nummod](es_ancora-dep-nummod.html) – [obj](es_ancora-dep-obj.html) – [obl](es_ancora-dep-obl.html) – [orphan](es_ancora-dep-orphan.html) – [parataxis](es_ancora-dep-parataxis.html) – [punct](es_ancora-dep-punct.html) – [root](es_ancora-dep-root.html) – [xcomp](es_ancora-dep-xcomp.html)
+[acl](es_ancora-dep-acl.html) – [acl:relcl](es_ancora-dep-acl-relcl.html) – [advcl](es_ancora-dep-advcl.html) – [advmod](es_ancora-dep-advmod.html) – [amod](es_ancora-dep-amod.html) – [appos](es_ancora-dep-appos.html) – [aux](es_ancora-dep-aux.html) – [aux:pass](es_ancora-dep-aux-pass.html) – [case](es_ancora-dep-case.html) – [cc](es_ancora-dep-cc.html) – [ccomp](es_ancora-dep-ccomp.html) – [compound](es_ancora-dep-compound.html) – [conj](es_ancora-dep-conj.html) – [cop](es_ancora-dep-cop.html) – [csubj](es_ancora-dep-csubj.html) – [csubj:pass](es_ancora-dep-csubj-pass.html) – [dep](es_ancora-dep-dep.html) – [det](es_ancora-dep-det.html) – [discourse](es_ancora-dep-discourse.html) – [expl](es_ancora-dep-expl.html) – [expl:impers](es_ancora-dep-expl-impers.html) – [expl:pass](es_ancora-dep-expl-pass.html) – [expl:pv](es_ancora-dep-expl-pv.html) – [fixed](es_ancora-dep-fixed.html) – [flat](es_ancora-dep-flat.html) – [iobj](es_ancora-dep-iobj.html) – [list](es_ancora-dep-list.html) – [mark](es_ancora-dep-mark.html) – [nmod](es_ancora-dep-nmod.html) – [nsubj](es_ancora-dep-nsubj.html) – [nsubj:pass](es_ancora-dep-nsubj-pass.html) – [nummod](es_ancora-dep-nummod.html) – [obj](es_ancora-dep-obj.html) – [obl](es_ancora-dep-obl.html) – [orphan](es_ancora-dep-orphan.html) – [parataxis](es_ancora-dep-parataxis.html) – [punct](es_ancora-dep-punct.html) – [root](es_ancora-dep-root.html) – [vocative](es_ancora-dep-vocative.html) – [xcomp](es_ancora-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 17680 sentences, 547655 tokens and 560245 syntactic words.</li>
+<li>This corpus contains 17662 sentences, 547203 tokens and 559782 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 62438 tokens (11%) that are not followed by a space.</li>
+<li>This corpus contains 62357 tokens (11%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -111,12 +111,12 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 </ul>
 
 <ul>
-<li>This corpus contains 616 types of words that contain both letters and punctuation. Examples: TV-3, W., d'Esquadra, A., fig., G., S., coca-cola, d'Hebron, E., Iber-X, M., C., Alvarez-Cascos, B., Castilla-La, L., P., TVE-1, A-7, L'Hospitalet, Macapagal-Arroyo, Reynard/Honda, Ruiz-Mateos, Sotheby's, TCNQ-TTF, A-2, Alonso-Cuevillas, Carod-Rovira, D'Alema, IC-V, Ibex-35, Ivesur-PTV, J., PSC-PSOE, PSE-EE, PSE-PSOE, Paral.lel, T., d'Ebre, 12-M, CATAC-Presons, Deportivo-Juventus, F., Heinz-Harald, Horta-Guinardó, Jean-Pierre, Madrid-Barça, Miami-Dade, O'Neal</li>
+<li>This corpus contains 606 types of words that contain both letters and punctuation. Examples: TV-3, W., d'Esquadra, A., fig., G., S., coca-cola, d'Hebron, E., Iber-X, M., C., Alvarez-Cascos, B., Castilla-La, L., P., TVE-1, A-7, L'Hospitalet, Macapagal-Arroyo, Reynard/Honda, Ruiz-Mateos, Sotheby's, TCNQ-TTF, A-2, Alonso-Cuevillas, Carod-Rovira, D'Alema, IC-V, Ibex-35, Ivesur-PTV, J., PSC-PSOE, PSE-EE, PSE-PSOE, Paral.lel, T., d'Ebre, 12-M, CATAC-Presons, Deportivo-Juventus, F., Heinz-Harald, Horta-Guinardó, Jean-Pierre, Madrid-Barça, Miami-Dade, O'Neal</li>
 </ul>
 
 <ul>
-<li>This corpus contains 12568 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 1094 types of multi-word tokens. Examples: del, al, hacerlo, hacerse, haberse, convertirse, darle, enfrentarse, encontrarse, darse, presentarse, reunirse, situarse, ponerse, producirse, dedicarse, mantenerse, quedarse, conseguirlo, imponerse, sentirse, someterse, acercarse, asegurarse, considerarse, incorporarse, iniciarse, pedirle, referirse, do, irse, llevarse, pronunciarse, sentarse, verse, conocerse, da, darles, desprenderse, hacerle, situándose, tratarse, alejarse, casarse, clasificarse, concentrarse, distanciarse, fijarse, manifestarse, retirarse.</li>
+<li>This corpus contains 12557 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 1094 types of multi-word tokens. Examples: del, al, hacerlo, hacerse, haberse, convertirse, darle, enfrentarse, encontrarse, darse, presentarse, reunirse, situarse, ponerse, producirse, dedicarse, mantenerse, quedarse, conseguirlo, imponerse, sentirse, someterse, acercarse, asegurarse, considerarse, incorporarse, iniciarse, pedirle, referirse, irse, llevarse, pronunciarse, sentarse, verse, conocerse, da, darles, desprenderse, do, hacerle, situándose, tratarse, alejarse, casarse, clasificarse, concentrarse, distanciarse, fijarse, manifestarse, retirarse.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -208,9 +208,9 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
       <li>ADJ: primera, nueva, segunda, política, española, última, nuevas, única, buena, pública</li>
       <li>ADJ-Part: pasada, abierta, prevista, abiertas, celebrada, situada, dedicada, conocida, dirigida, privada</li>
       <li>DET: la, las, una, esta, esa, todas, estas, otras, toda, otra</li>
-      <li>NOUN: personas, parte, vida, situación, vez, forma, elecciones, empresa, horas, decisión</li>
+      <li>NOUN: personas, parte, vida, situación, vez, forma, elecciones, empresa, decisión, horas</li>
       <li>NUM: ambas, media, una, DECENAS, quinientas</li>
-      <li>PRON: la, una, ella, las, ellas, otra, cuya, unas, ésta, otras</li>
+      <li>PRON: la, una, ella, las, ellas, otra, cuya, ésta, unas, otras</li>
       <li>PROPN: Cuba</li>
       <li>VERB-Part: aprobada, considerada, dada, utilizada, comprada, dadas, incluida, rechazada, recibida, violada</li>
     </ul>
@@ -244,10 +244,10 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
   <li>Plur
     <ul>
       <li>ADJ: grandes, últimos, principales, internacionales, importantes, nuevas, sociales, nuevos, generales, primeros</li>
-      <li>ADJ-Part: abiertas, dispuestos, celebradas, relacionados, previstas, determinadas, determinados, heridas, obligados, registrados</li>
+      <li>ADJ-Part: abiertas, dispuestos, celebradas, relacionados, previstas, determinadas, determinados, heridas, obligados, afectadas</li>
       <li>AUX-Fin: han, son, están, fueron, pueden, habían, hemos, deben, eran, estamos</li>
       <li>DET: los, las, sus, todos, otros, estos, unos, todas, estas, otras</li>
-      <li>NOUN: años, millones, personas, países, días, meses, elecciones, partidos, horas, puntos</li>
+      <li>NOUN: años, millones, personas, países, días, meses, elecciones, partidos, puntos, horas</li>
       <li>NUM: dos, tres, cinco, cuatro, seis, ambos, siete, diez, ocho, nueve</li>
       <li>PRON: nos, les, ellos, unos, los, otros, todos, las, nosotros, algunos</li>
       <li>VERB-Fin: tienen, tenemos, hacen, tuvieron, dicen, quieren, existen, hicieron, llegaron, tenían</li>
@@ -532,7 +532,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
 <ul>
   <li>Ind
     <ul>
-      <li>DET: otros, otro, otras, otra, algunos, cualquier, muchos, varios, varias, muchas</li>
+      <li>DET: otros, otro, otras, otra, algunos, cualquier, muchos, varios, muchas, varias</li>
       <li>PRON: donde, uno, cómo, cuando, una, algo, unos, otros, otro, algunos</li>
     </ul>
   </li>
@@ -614,7 +614,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
   <li>Yes
     <ul>
       <li>DET: su, sus, mi, nuestra, nuestro, nuestros, mis, nuestras, tu, suyo</li>
-      <li>PRON: cuyo, cuya, sus, su, cuyos, cuyas, nuestra, suyo, mío, nuestro</li>
+      <li>PRON: cuyo, cuya, sus, su, cuyos, cuyas, nuestra, suyo, nuestro, mía</li>
     </ul>
   </li>
 </ul>
@@ -640,7 +640,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
     <ul>
       <li>AUX-Fin: he, hemos, estamos, estoy, somos, podemos, soy, vamos, debemos, puedo</li>
       <li>DET: mi, nuestra, nuestro, nuestros, mis, nuestras, mío, mía</li>
-      <li>PRON: me, nos, yo, nosotros, mí, conmigo, nuestra, mío, nuestro, mía</li>
+      <li>PRON: me, nos, yo, nosotros, mí, conmigo, nuestra, nuestro, mía, mío</li>
       <li>VERB-Fin: creo, tenemos, tengo, sé, queremos, quiero, pienso, sabemos, digo, hacemos</li>
     </ul>
   </li>
@@ -698,7 +698,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
   <li>Sing
     <ul>
       <li>DET: mi, mis, tu, mío, tus, mía</li>
-      <li>PRON: mío, mía, tuya, tuyo</li>
+      <li>PRON: mía, mío, tuya, tuyo</li>
     </ul>
   </li>
 </ul>
@@ -730,6 +730,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
           <li>DET: Al, A, la</li>
           <li>NOUN: Comerç, Conselleria, Indústria, Turisme</li>
           <li>PROPN: Generalitat</li>
+          <li>X: Ja, hi, som</li>
         </ul>
       </li>
     </ul>
@@ -789,7 +790,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
       </li>
       <li>Dash
         <ul>
-          <li>PUNCT: -, .</li>
+          <li>PUNCT: -, ", .</li>
         </ul>
       </li>
       <li>Excl
@@ -809,7 +810,7 @@ Spanish AnCora corpus’. Treebanks and Linguistic Theories (TLT-2010), Estonia.
       </li>
       <li>Quot
         <ul>
-          <li>PUNCT: ", ', `</li>
+          <li>PUNCT: ", ', `, .</li>
         </ul>
       </li>
       <li>Semi
@@ -852,13 +853,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (10187)</li>
+      <li>VERB-Fin--NOUN (10177)</li>
       <li>VERB-Fin--NOUN-ADP(a) (5)</li>
       <li>VERB-Fin--NOUN-ADP(alrededor) (1)</li>
       <li>VERB-Fin--NOUN-ADP(alrededor)-ADP(de) (1)</li>
       <li>VERB-Fin--NOUN-ADP(de) (1)</li>
       <li>VERB-Fin--NOUN-ADP(sobre) (1)</li>
-      <li>VERB-Fin--PRON (5007)</li>
+      <li>VERB-Fin--PRON (5001)</li>
       <li>VERB-Fin--PRON-Acc (6)</li>
       <li>VERB-Fin--PRON-Acc,Nom (215)</li>
       <li>VERB-Fin--PRON-Dat (1)</li>
@@ -867,16 +868,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--PRON (65)</li>
       <li>VERB-Ger--PRON-Acc,Nom (7)</li>
       <li>VERB-Ger--PRON-Nom (2)</li>
-      <li>VERB-Inf--NOUN (826)</li>
+      <li>VERB-Inf--NOUN (825)</li>
       <li>VERB-Inf--NOUN-ADP(a) (2)</li>
-      <li>VERB-Inf--PRON (309)</li>
+      <li>VERB-Inf--PRON (310)</li>
       <li>VERB-Inf--PRON-Acc,Nom (24)</li>
       <li>VERB-Inf--PRON-Nom (8)</li>
-      <li>VERB-Part--NOUN (1784)</li>
+      <li>VERB-Part--NOUN (1780)</li>
       <li>VERB-Part--NOUN-ADP(a) (4)</li>
       <li>VERB-Part--NOUN-ADP(en) (1)</li>
-      <li>VERB-Part--PRON (710)</li>
-      <li>VERB-Part--PRON-Acc (1)</li>
+      <li>VERB-Part--PRON (707)</li>
+      <li>VERB-Part--PRON-Acc (2)</li>
       <li>VERB-Part--PRON-Acc,Nom (37)</li>
       <li>VERB-Part--PRON-Nom (10)</li>
     </ul>
@@ -886,7 +887,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (8443)</li>
+      <li>VERB-Fin--NOUN (8435)</li>
       <li>VERB-Fin--NOUN-ADP(a) (1582)</li>
       <li>VERB-Fin--NOUN-ADP(a)-ADP(de) (1)</li>
       <li>VERB-Fin--NOUN-ADP(acerca) (3)</li>
@@ -905,7 +906,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(sin) (9)</li>
       <li>VERB-Fin--NOUN-ADP(sobre) (20)</li>
       <li>VERB-Fin--NOUN-ADP(tras) (1)</li>
-      <li>VERB-Fin--PRON (1413)</li>
+      <li>VERB-Fin--PRON (1412)</li>
       <li>VERB-Fin--PRON-ADP(a) (216)</li>
       <li>VERB-Fin--PRON-ADP(con) (19)</li>
       <li>VERB-Fin--PRON-ADP(contra) (1)</li>
@@ -931,7 +932,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Acc-ADP(en) (2)</li>
       <li>VERB-Fin--PRON-Com (1)</li>
       <li>VERB-Fin--PRON-Dat (726)</li>
-      <li>VERB-Ger--NOUN (522)</li>
+      <li>VERB-Ger--NOUN (521)</li>
       <li>VERB-Ger--NOUN-ADP(a) (91)</li>
       <li>VERB-Ger--NOUN-ADP(con) (17)</li>
       <li>VERB-Ger--NOUN-ADP(contra) (2)</li>
@@ -951,8 +952,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--PRON-Acc,Nom-ADP(en) (3)</li>
       <li>VERB-Ger--PRON-Acc-ADP(por) (1)</li>
       <li>VERB-Ger--PRON-Dat (39)</li>
-      <li>VERB-Inf--NOUN (4823)</li>
-      <li>VERB-Inf--NOUN-ADP(a) (832)</li>
+      <li>VERB-Inf--NOUN (4822)</li>
+      <li>VERB-Inf--NOUN-ADP(a) (828)</li>
       <li>VERB-Inf--NOUN-ADP(acerca) (1)</li>
       <li>VERB-Inf--NOUN-ADP(ante) (1)</li>
       <li>VERB-Inf--NOUN-ADP(como) (1)</li>
@@ -988,8 +989,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Com (1)</li>
       <li>VERB-Inf--PRON-Dat (228)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
-      <li>VERB-Part--NOUN (1296)</li>
-      <li>VERB-Part--NOUN-ADP(a) (259)</li>
+      <li>VERB-Part--NOUN (1294)</li>
+      <li>VERB-Part--NOUN-ADP(a) (257)</li>
       <li>VERB-Part--NOUN-ADP(a)-ADP(de) (1)</li>
       <li>VERB-Part--NOUN-ADP(acerca) (1)</li>
       <li>VERB-Part--NOUN-ADP(con) (29)</li>
@@ -1061,7 +1062,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-ADP(a) (1)</li>
       <li>VERB-Inf--PRON-Acc (9)</li>
       <li>VERB-Inf--PRON-Acc,Nom-ADP(de) (1)</li>
-      <li>VERB-Inf--PRON-Dat (140)</li>
+      <li>VERB-Inf--PRON-Dat (139)</li>
       <li>VERB-Part--NOUN (9)</li>
       <li>VERB-Part--NOUN-ADP(a) (32)</li>
       <li>VERB-Part--NOUN-ADP(por) (3)</li>
@@ -1070,7 +1071,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON-ADP(con) (1)</li>
       <li>VERB-Part--PRON-ADP(de) (1)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
-      <li>VERB-Part--PRON-Dat (92)</li>
+      <li>VERB-Part--PRON-Dat (93)</li>
     </ul>
   </li>
 </ul>
@@ -1100,5 +1101,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a></li>
-<li>The following 5 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 4 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>во</em> (<tt><a href="kpv_ikdp-pos-
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 1.688312 (the average of all parts of speech is 1.333333).
+The form / lemma ratio of `VERB` is 1.688312 (the average of all parts of speech is 1.332903).
 
 The 1st highest number of forms (10) was observed with the lemma “велӧдчыны”: <em>Велэдчем, велэдчемысь, велэдчи, велэдчин, велэдчыгмоз, велэдчыны, велӧдча, велӧдчигӧныс, велӧдчыны, велӧдчӧны</em>.
 

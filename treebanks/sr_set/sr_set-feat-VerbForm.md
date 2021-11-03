@@ -78,14 +78,14 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 ### `ADJ`
 
-1094 <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> tokens (10% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
+1094 <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> tokens (9% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1094; 100%), <tt><a href="sr_set-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (1094; 100%), <tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt> (946; 86%), <tt><a href="sr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (800; 73%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (777; 71%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1094; 100%), <tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt> (946; 86%), <tt><a href="sr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (800; 73%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (777; 71%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (1094; 100% of non-empty `VerbForm`): <em>održan, održana, otvorena, održano, otvoren, postignut, završen, zadužen, napravljen, održanom</em>
-* `EMPTY` (9743): <em>novi, prošle, inostranih, srpske, bivši, novog, političke, nove, evropske, glavni</em>
+* `EMPTY` (10567): <em>novi, prošle, drugi, inostranih, srpske, bivši, prvi, novog, političke, drugim</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (422) occur only with one value of `VerbForm`.
 
@@ -97,17 +97,11 @@ The most frequent other feature values with which `ADV` and `VerbForm` co-occurr
 
 `ADV` tokens may have the following values of `VerbForm`:
 
-* `Conv` (280; 99% of non-empty `VerbForm`): <em>uključujući, ukazujući, dodajući, govoreći, rekavši, obećavajući, opisujući, zahvaljujući, tražeći, tvrdeći</em>
-* `Part` (2; 1% of non-empty `VerbForm`): <em>Obraćajući, počev</em>
-* `EMPTY` (3067): <em>takođe, kada, međutim, samo, još, odsto, više, sada, oko, uvek</em>
+* `Conv` (281; 100% of non-empty `VerbForm`): <em>uključujući, ukazujući, dodajući, govoreći, rekavši, obećavajući, opisujući, zahvaljujući, tražeći, tvrdeći</em>
+* `Part` (1; 0% of non-empty `VerbForm`): <em>počev</em>
+* `EMPTY` (3042): <em>takođe, kada, međutim, samo, još, odsto, više, sada, oko, uvek</em>
 
-<table>
-  <tr><th>Paradigm <i>obraćati</i></th><th><tt>Part</tt></th><th><tt>Conv</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>Obraćajući</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sr_set-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>obraćajući</em></td></tr>
-</table>
-
-`VerbForm` seems to be **lexical feature** of `ADV`. 99% lemmas (119) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `ADV`. 100% lemmas (120) occur only with one value of `VerbForm`.
 
 ## Relations with Agreement in `VerbForm`
 

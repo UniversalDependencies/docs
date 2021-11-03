@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.6 release.
 The following people have contributed to making this treebank part of UD: Siyao Peng, Amir Zeldes.
 
 Repository: [UD_English-GUMReddit](https://github.com/UniversalDependencies/UD_English-GUMReddit)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gumreddit28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gumreddit29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY 4.0. The underlying text is not included; the user must obtain it separately and then merge with the UD annotation using a script distributed with UD
 
@@ -50,7 +50,7 @@ Universal Dependencies syntax annotations from the Reddit portion of the GUM cor
 
 **This repository only contains annotations, without the underlying textual data from Reddit**
 
-In order to obtain the underlying text, you will need to use the script `get_text.py`, and either install and set up credentials to use praw/bigquery or use a proxy server to obtain the data from Reddit dumps. For more information on the underlying Reddit text see [this page](https://github.com/amir-zeldes/gum/blob/master/README_reddit.md). For Universal Dependencies annotations of other genres from GUM, see https://github.com/UniversalDependencies/UD_English-GUM
+In order to obtain the underlying text, you will need to use the script `get_text.py`. For more information on the underlying Reddit text see [this page](https://github.com/amir-zeldes/gum/blob/master/README_reddit.md). For Universal Dependencies annotations of other genres from GUM, see https://github.com/UniversalDependencies/UD_English-GUM
 
 GUM, the Georgetown University Multilayer corpus, is an open source collection of richly annotated texts from multiple text types. The corpus is collected and expanded by students as part of the curriculum in the course LING-367 "Computational Corpus Linguistics" at Georgetown University. The selection of text types is meant to represent different communicative purposes, while coming from sources that are readily and openly available (usually Creative Commons licenses), so that new texts can be annotated and published with ease.
 
@@ -75,6 +75,7 @@ To cite the Reddit subset of GUM in particular, please use this citation:
 author = {Shabnam Behzad and Amir Zeldes},
 title = {A Cross-Genre Ensemble Approach to Robust {R}eddit Part of Speech Tagging},
 booktitle = {Proceedings of the 12th Web as Corpus Workshop (WAC-XII)},
+pages = {50--56},
 year = {2020},
 }
 ```
@@ -115,11 +116,11 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 
 
 <ul>
-<li>This corpus contains 895 sentences, 15923 tokens and 16286 syntactic words.</li>
+<li>This corpus contains 895 sentences, 15993 tokens and 16356 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1858 tokens (12%) that are not followed by a space.</li>
+<li>This corpus contains 1953 tokens (12%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -185,6 +186,7 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
   <ul>
     <li>AUX: _</li>
     <li>VERB: _</li>
+    <li>X: _</li>
   </ul>
   </li>
 </ul>
@@ -494,6 +496,14 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
 </ul>
 
 <ul>
+  <li>Frac
+    <ul>
+      <li>NOUN: _</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Mult
     <ul>
       <li>ADV: _</li>
@@ -624,11 +634,15 @@ doi = {http://dx.doi.org/10.1007/s10579-016-9343-x}
           <li>PART: _</li>
           <li>PRON: _</li>
           <li>PROPN: _</li>
+          <li>PUNCT: _</li>
           <li>SCONJ: _</li>
+          <li>VERB: _</li>
           <li>VERB-Fin: _</li>
           <li>VERB-Ger: _</li>
           <li>VERB-Inf: _</li>
           <li>VERB-Part: _</li>
+          <li>X: _</li>
+          <li>X-Ger: _</li>
         </ul>
       </li>
     </ul>
@@ -655,17 +669,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN (222)</li>
-      <li>VERB-Fin--PRON (80)</li>
+      <li>VERB-Fin--PRON (78)</li>
       <li>VERB-Fin--PRON-Nom (377)</li>
       <li>VERB-Ger--NOUN (6)</li>
       <li>VERB-Ger--PRON (2)</li>
       <li>VERB-Ger--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN (67)</li>
-      <li>VERB-Inf--PRON (29)</li>
-      <li>VERB-Inf--PRON-Nom (193)</li>
+      <li>VERB-Inf--PRON (26)</li>
+      <li>VERB-Inf--PRON-Nom (192)</li>
       <li>VERB-Part--NOUN (31)</li>
-      <li>VERB-Part--PRON (10)</li>
-      <li>VERB-Part--PRON-Nom (120)</li>
+      <li>VERB-Part--PRON (9)</li>
+      <li>VERB-Part--PRON-Nom (121)</li>
     </ul>
   </li>
 </ul>
@@ -673,15 +687,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (256)</li>
-      <li>VERB-Fin--PRON (34)</li>
-      <li>VERB-Fin--PRON-Acc (50)</li>
+      <li>VERB-Fin--NOUN (249)</li>
+      <li>VERB-Fin--PRON (31)</li>
+      <li>VERB-Fin--PRON-Acc (48)</li>
       <li>VERB-Ger--NOUN (58)</li>
       <li>VERB-Ger--PRON (4)</li>
       <li>VERB-Ger--PRON-Acc (12)</li>
-      <li>VERB-Inf--NOUN (218)</li>
-      <li>VERB-Inf--PRON (30)</li>
-      <li>VERB-Inf--PRON-Acc (55)</li>
+      <li>VERB-Inf--NOUN (223)</li>
+      <li>VERB-Inf--PRON (29)</li>
+      <li>VERB-Inf--PRON-Acc (57)</li>
       <li>VERB-Inf--PRON-Nom (2)</li>
       <li>VERB-Part--NOUN (59)</li>
       <li>VERB-Part--PRON (5)</li>

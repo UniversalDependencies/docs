@@ -58,11 +58,11 @@ The 2nd highest number of forms (9) was observed with the lemma “kendi”: <em
 
 The 3rd highest number of forms (8) was observed with the lemma “biri”: <em>Birilerini, biri, birileri, birine, birini, birinin, birisi, biriyle</em>.
 
-`PRON` occurs with 2 features: <tt><a href="tr_framenet-feat-PronType.html">PronType</a></tt> (467; 80% instances), <tt><a href="tr_framenet-feat-Reflex.html">Reflex</a></tt> (34; 6% instances)
+`PRON` occurs with 2 features: <tt><a href="tr_framenet-feat-PronType.html">PronType</a></tt> (585; 100% instances), <tt><a href="tr_framenet-feat-Reflex.html">Reflex</a></tt> (34; 6% instances)
 
-`PRON` occurs with 5 feature-value pairs: `PronType=Dem`, `PronType=Int`, `PronType=Prs`, `PronType=Rcp`, `Reflex=Yes`
+`PRON` occurs with 7 feature-value pairs: `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Prs`, `PronType=Rcp`, `Reflex=Yes`
 
-`PRON` occurs with 6 feature combinations.
+`PRON` occurs with 7 feature combinations.
 The most frequent feature combination is `PronType=Prs` (358 tokens).
 Examples: <em>onu, onun, ona, o, ben, bana, beni, sen, biz, senin</em>
 

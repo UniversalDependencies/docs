@@ -38,12 +38,12 @@ The following 1 pairs of parts of speech are connected with `advmod:lfrom`: <tt>
 13	кӧсъям	кӧсйыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres	6	dislocated	_	GTtags=Ind,Prs,Pl1
 14	босьны	босьтны	VERB	V	VerbForm=Inf	13	xcomp	_	GTtags=Inf
 15	статус	статус	NOUN	N	Case=Nom|Number=Sing	14	obj	_	GTtags=Sg,Nom
-16	"	_	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No
+16	«	_	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No
 17	коренного	коренного	ADJ	A	_	15	appos	_	GTtags=F
 18	малочисленного	малочисленного	ADJ	A	_	17	flat:foreign	_	GTtags=F
 19	народа	народ	NOUN	N	Case=Nom|Derivation=ProprietiveMod|Number=Sing	17	flat:foreign	_	GTtags=Sg,Der,Der/ProprietiveMod,A,Sg,Nom
 20	Севера	Север	NOUN	N	Case=Nom|Derivation=ProprietiveMod|Number=Sing	17	flat:foreign	_	GTtags=Prop,Sg,Der,Der/ProprietiveMod,A,Sg,Nom|SpaceAfter=No
-21	"	_	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No
+21	»	_	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No
 22	.	.	PUNCT	PUNCT	_	6	punct	_	_
 
 ~~~

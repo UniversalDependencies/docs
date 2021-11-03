@@ -9,24 +9,24 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Cop`, `Disc`.
 
-4067 tokens (3%) have a non-empty value of `PartType`.
+4065 tokens (3%) have a non-empty value of `PartType`.
 22 types (0%) occur at least once with a non-empty value of `PartType`.
 19 lemmas (0%) occur at least once with a non-empty value of `PartType`.
-The feature is used with 9 part-of-speech tags: <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (2775; 2% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (985; 1% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (291; 0% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (2788; 2% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (985; 1% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (276; 0% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `AUX`
 
-2775 <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> tokens (23% of all `AUX` tokens) have a non-empty value of `PartType`.
+2788 <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> tokens (20% of all `AUX` tokens) have a non-empty value of `PartType`.
 
-The most frequent other feature values with which `AUX` and `PartType` co-occurred: <tt><a href="pcm_nsc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2775; 100%), <tt><a href="pcm_nsc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2775; 100%).
+The most frequent other feature values with which `AUX` and `PartType` co-occurred: <tt><a href="pcm_nsc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2788; 100%), <tt><a href="pcm_nsc-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2788; 100%), <tt><a href="pcm_nsc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2788; 100%).
 
 `AUX` tokens may have the following values of `PartType`:
 
-* `Cop` (2775; 100% of non-empty `PartType`): <em>na, be, it's</em>
+* `Cop` (2788; 100% of non-empty `PartType`): <em>na, be, it's, dat's</em>
 
 ### `PART`
 
-985 <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> tokens (33% of all `PART` tokens) have a non-empty value of `PartType`.
+985 <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> tokens (73% of all `PART` tokens) have a non-empty value of `PartType`.
 
 The most frequent other feature values with which `PART` and `PartType` co-occurred: <tt><a href="pcm_nsc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (985; 100%).
 
@@ -36,11 +36,11 @@ The most frequent other feature values with which `PART` and `PartType` co-occur
 
 ### `VERB`
 
-291 <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `PartType`.
+276 <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `PartType`.
 
 `VERB` tokens may have the following values of `PartType`:
 
-* `Cop` (291; 100% of non-empty `PartType`): <em>be, dat's, it's</em>
+* `Cop` (276; 100% of non-empty `PartType`): <em>be, dat's, it's</em>
 
 ### `ADV`
 

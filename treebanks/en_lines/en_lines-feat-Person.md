@@ -45,7 +45,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 * `1` (915; 53% of non-empty `Person`): <em>was, am</em>
 * `3` (810; 47% of non-empty `Person`): <em>is, 's, has, does</em>
-* `EMPTY` (3441): <em>had, be, were, are, can, would, been, could, have, will</em>
+* `EMPTY` (3440): <em>had, be, were, are, can, would, been, could, have, will</em>
 
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -63,7 +63,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 * `1` (247; 27% of non-empty `Person`): <em>was, am</em>
 * `3` (660; 73% of non-empty `Person`): <em>is, 's, has, says, goes, makes, knows, means, contains, appears</em>
-* `EMPTY` (10201): <em>said, know, had, have, see, made, do, come, make, came</em>
+* `EMPTY` (10203): <em>said, know, had, have, see, made, do, come, make, came</em>
 
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>

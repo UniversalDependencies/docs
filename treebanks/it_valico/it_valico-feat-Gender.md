@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-2858 tokens (42%) have a non-empty value of `Gender`.
+2859 tokens (42%) have a non-empty value of `Gender`.
 731 types (54%) occur at least once with a non-empty value of `Gender`.
 586 lemmas (61%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 7 part-of-speech tags: <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (1012; 15% instances), <tt><a href="it_valico-pos-DET.html">DET</a></tt> (1008; 15% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (384; 6% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (240; 4% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (193; 3% instances), <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (20; 0% instances), <tt><a href="it_valico-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (1012; 15% instances), <tt><a href="it_valico-pos-DET.html">DET</a></tt> (1008; 15% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (384; 6% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (240; 4% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (194; 3% instances), <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (20; 0% instances), <tt><a href="it_valico-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 ### `DET`
 
-1008 <tt><a href="it_valico-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Gender`.
+1008 <tt><a href="it_valico-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (919; 91%), <tt><a href="it_valico-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (905; 90%), <tt><a href="it_valico-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (830; 82%), <tt><a href="it_valico-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (605; 60%).
 
@@ -44,7 +44,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 * `Fem` (387; 38% of non-empty `Gender`): <em>la, una, le, sua, un', l', mia, questa, altra, delle</em>
 * `Masc` (621; 62% of non-empty `Gender`): <em>il, un, l', suo, i, mio, questo, altro, lo, gli</em>
-* `EMPTY` (17): <em>che, ogni, qualche, alcun, loro, tutti</em>
+* `EMPTY` (15): <em>che, ogni, qualche, alcun, loro, tutti</em>
 
 <table>
   <tr><th>Paradigm <i>suo</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -89,15 +89,15 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `PRON`
 
-193 <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> tokens (38% of all `PRON` tokens) have a non-empty value of `Gender`.
+194 <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> tokens (38% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (172; 89%), <tt><a href="it_valico-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (148; 77%), <tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=3</tt> (143; 74%), <tt><a href="it_valico-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt> (98; 51%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (172; 89%), <tt><a href="it_valico-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (149; 77%), <tt><a href="it_valico-feat-Person.html">Person</a></tt><tt>=3</tt> (144; 74%), <tt><a href="it_valico-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt> (99; 51%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (79; 41% of non-empty `Gender`): <em>la, lei, le, l', questa, quella, altre, molte, queste, una</em>
+* `Fem` (80; 41% of non-empty `Gender`): <em>la, lei, le, l', questa, quella, altre, molte, queste, una</em>
 * `Masc` (114; 59% of non-empty `Gender`): <em>lui, lo, l', gli, quello, li, questo, nessuno, tutti, entrambi</em>
-* `EMPTY` (313): <em>che, mi, si, me, niente, c', io, qualcosa, ne, se</em>
+* `EMPTY` (315): <em>che, mi, si, me, niente, c', io, qualcosa, se, ne</em>
 
 <table>
   <tr><th>Paradigm <i>quello</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>

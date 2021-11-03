@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Short`.
 
-3012 tokens (2%) have a non-empty value of `Variant`.
+3013 tokens (2%) have a non-empty value of `Variant`.
 1199 types (3%) occur at least once with a non-empty value of `Variant`.
 764 lemmas (4%) occur at least once with a non-empty value of `Variant`.
-The feature is used with 4 part-of-speech tags: <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (2362; 1% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (640; 0% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (2362; 1% instances), <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> (641; 0% instances), <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="ru_taiga-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `ADJ`
 
@@ -28,13 +28,13 @@ The most frequent other feature values with which `ADJ` and `Variant` co-occurre
 
 ### `VERB`
 
-640 <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Variant`.
+641 <tt><a href="ru_taiga-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `VERB` and `Variant` co-occurred: <tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (640; 100%), <tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (640; 100%), <tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (640; 100%), <tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (640; 100%), <tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (635; 99%), <tt><a href="ru_taiga-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (633; 99%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (476; 74%).
+The most frequent other feature values with which `VERB` and `Variant` co-occurred: <tt><a href="ru_taiga-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (641; 100%), <tt><a href="ru_taiga-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (641; 100%), <tt><a href="ru_taiga-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (641; 100%), <tt><a href="ru_taiga-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (641; 100%), <tt><a href="ru_taiga-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (636; 99%), <tt><a href="ru_taiga-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (634; 99%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (477; 74%).
 
 `VERB` tokens may have the following values of `Variant`:
 
-* `Short` (640; 100% of non-empty `Variant`): <em>завышены, написано, сказано, связано, сделано, приложено, представлен, принято, установлены, связана</em>
+* `Short` (641; 100% of non-empty `Variant`): <em>завышены, написано, сказано, связано, сделано, приложено, представлен, принято, установлены, связана</em>
 
 `Variant` seems to be **lexical feature** of `VERB`. 100% lemmas (318) occur only with one value of `Variant`.
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `VERB` and `Variant` co-occurr
 
 9 <tt><a href="ru_taiga-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `DET` and `Variant` co-occurred: <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 100%), <tt><a href="ru_taiga-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (8; 89%), <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8; 89%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (6; 67%).
+The most frequent other feature values with which `DET` and `Variant` co-occurred: <tt><a href="ru_taiga-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 100%), <tt><a href="ru_taiga-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8; 89%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (6; 67%).
 
 `DET` tokens may have the following values of `Variant`:
 

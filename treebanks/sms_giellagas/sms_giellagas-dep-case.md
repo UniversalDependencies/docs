@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-21 nodes (1%) are attached to their parents as `case`.
+23 nodes (1%) are attached to their parents as `case`.
 
-15 instances of `case` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.0952380952381.
+17 instances of `case` (74%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.08695652173913.
 
-The following 2 pairs of parts of speech are connected with `case`: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> (17; 81% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> (4; 19% instances).
+The following 2 pairs of parts of speech are connected with `case`: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> (19; 83% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-ADP.html">ADP</a></tt> (4; 17% instances).
 
 
 ~~~ conllu

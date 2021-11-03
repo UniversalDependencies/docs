@@ -24,7 +24,7 @@ The following 11 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 4 9 parataxis	color:blue
 1	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
 2	Suara	suara	NOUN	_	Number=Sing	4	nsubj	_	_
-3	nya	nya	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	_
+3	nya	nya	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nmod:poss	_	_
 4	menjangkau	jangkau	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
 5	seluruh	seluruh	DET	_	PronType=Tot	6	det	_	_
 6	dunia	dunia	NOUN	_	Number=Sing	4	obj	_	SpaceAfter=No

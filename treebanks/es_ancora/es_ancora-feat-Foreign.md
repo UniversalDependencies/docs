@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-16 tokens (0%) have a non-empty value of `Foreign`.
-10 types (0%) occur at least once with a non-empty value of `Foreign`.
-10 lemmas (0%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 5 part-of-speech tags: <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+19 tokens (0%) have a non-empty value of `Foreign`.
+13 types (0%) occur at least once with a non-empty value of `Foreign`.
+13 lemmas (0%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 6 part-of-speech tags: <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="es_ancora-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `DET`
 
@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (8; 100% of non-empty `Foreign`): <em>Al, A, la</em>
-* `EMPTY` (84311): <em>el, la, los, un, las, una, su, sus, este, esta</em>
+* `EMPTY` (84239): <em>el, la, los, un, las, una, su, sus, este, esta</em>
 
 ### `NOUN`
 
@@ -34,7 +34,16 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>Comerç, Conselleria, Indústria, Turisme</em>
-* `EMPTY` (100663): <em>años, presidente, millones, año, equipo, partido, país, parte, vez, día</em>
+* `EMPTY` (100564): <em>años, presidente, millones, año, equipo, partido, país, parte, vez, día</em>
+
+### `X`
+
+3 <tt><a href="es_ancora-pos-X.html">X</a></tt> tokens (75% of all `X` tokens) have a non-empty value of `Foreign`.
+
+`X` tokens may have the following values of `Foreign`:
+
+* `Yes` (3; 100% of non-empty `Foreign`): <em>Ja, hi, som</em>
+* `EMPTY` (1): <em>tanto</em>
 
 ### `ADP`
 
@@ -43,7 +52,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>de</em>
-* `EMPTY` (88029): <em>de, en, a, por, con, para, entre, sobre, sin, desde</em>
+* `EMPTY` (87926): <em>de, en, a, por, con, para, entre, sobre, sin, desde</em>
 
 ### `CCONJ`
 
@@ -52,7 +61,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `CCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>i</em>
-* `EMPTY` (15117): <em>y, pero, o, e, ni, sino, mientras, i, u, bien</em>
+* `EMPTY` (15103): <em>y, pero, o, e, ni, sino, mientras, i, u, bien</em>
 
 ### `PROPN`
 
@@ -61,12 +70,13 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>Generalitat</em>
-* `EMPTY` (42542): <em>Gobierno, España, Madrid, Barcelona, José, PP, Estado, Juan, Nacional, Estados</em>
+* `EMPTY` (42483): <em>Gobierno, España, Madrid, Barcelona, José, Estado, PP, Juan, Nacional, Estados</em>
 
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>NOUN --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2; 100%),
+<tt>X --[<tt><a href="es_ancora-dep-flat.html">flat</a></tt>]--> X</tt> (2; 100%),
 <tt>NOUN --[<tt><a href="es_ancora-dep-case.html">case</a></tt>]--> ADP</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="es_ancora-dep-cc.html">cc</a></tt>]--> CCONJ</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="es_ancora-dep-det.html">det</a></tt>]--> DET</tt> (1; 100%),

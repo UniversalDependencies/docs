@@ -8,29 +8,33 @@ udver: '2'
 
 This relation is universal.
 
-89 nodes (0%) are attached to their parents as `vocative`.
+91 nodes (0%) are attached to their parents as `vocative`.
 
-46 instances of `vocative` (52%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.75280898876404.
+47 instances of `vocative` (52%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.72527472527473.
 
-The following 13 pairs of parts of speech are connected with `vocative`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (33; 37% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (24; 27% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (7; 8% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (6; 7% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (5; 6% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 13 pairs of parts of speech are connected with `vocative`: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (35; 38% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (24; 26% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt>-<tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (7; 8% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (6; 7% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (5; 5% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 vocative	color:blue
-1	Ir	būt	VERB	vmnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d60-p15s2w1|SpaceAfter=No
-2	,	,	PUNCT	zc	_	3	punct	3:punct	LvtbNodeId=a-d60-p15s2w2
-3	mīlīši	mīlītis	NOUN	ncmpn2	Case=Nom|Gender=Masc|Number=Plur	1	vocative	1:vocative|8:vocative	LvtbNodeId=a-d60-p15s2w3|SpaceAfter=No
-4	,	,	PUNCT	zc	_	3	punct	3:punct	LvtbNodeId=a-d60-p15s2w4
-5	un	un	CCONJ	cc	_	8	cc	8:cc	LvtbNodeId=a-d60-p15s2w5
-6	kā	kā	PART	q	_	8	discourse	8:discourse	LvtbNodeId=a-d60-p15s2w6
-7	vēl	vēl	PART	q	_	8	discourse	8:discourse	LvtbNodeId=a-d60-p15s2w7
-8	ir	būt	VERB	vmnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	1:conj	LvtbNodeId=a-d60-p15s2w8|SpaceAfter=No
-9	.	.	PUNCT	zs	_	1	punct	1:punct	LvtbNodeId=a-d60-p15s2w9
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 12 vocative	color:blue
+1	Ne	ne	PART	q	Polarity=Neg	4	discourse	4:discourse	LvtbNodeId=a-d206-p179s2w1
+2	par	par	ADP	sppd	_	4	case	4:case	LvtbNodeId=a-d206-p179s2w2
+3	tām	tā	DET	pd3fpdn	Case=Dat|Gender=Fem|Number=Plur|Person=3|PronType=Dem	4	det	4:det	LvtbNodeId=a-d206-p179s2w3
+4	asinīm	asins	NOUN	ncfpd6	Case=Dat|Gender=Fem|Number=Plur	9	iobj	9:iobj	LvtbNodeId=a-d206-p179s2w4|SpaceAfter=No
+5	,	,	PUNCT	zc	_	8	punct	8:punct	LvtbNodeId=a-d206-p179s2w5
+6	par	par	ADP	sppd	_	8	case	8:case	LvtbNodeId=a-d206-p179s2w6
+7	citām	cita	DET	pi0fpdn	Case=Dat|Gender=Fem|Number=Plur|PronType=Ind	8	det	8:det	LvtbNodeId=a-d206-p179s2w7
+8	asinīm	asins	NOUN	ncfpd6	Case=Dat|Gender=Fem|Number=Plur	4	conj	4:conj|9:iobj	LvtbNodeId=a-d206-p179s2w8
+9	iet	iet	VERB	vmnipii30an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-d206-p179s2w9
+10	runa	runa	NOUN	ncfsn4	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	9:nsubj	LvtbNodeId=a-d206-p179s2w10|SpaceAfter=No
+11	,	,	PUNCT	zc	_	12	punct	12:punct	LvtbNodeId=a-d206-p179s2w11
+12	draugs	draugs	NOUN	ncmsv1	Case=Voc|Gender=Masc|Number=Sing	9	vocative	9:vocative	LvtbNodeId=a-d206-p179s2w12|SpaceAfter=No
+13	!	!	PUNCT	zs	_	9	punct	9:punct	LvtbNodeId=a-d206-p179s2w13
 
 ~~~
 

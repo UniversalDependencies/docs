@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Ger`.
 
-100 tokens (7%) have a non-empty value of `VerbForm`.
-75 types (11%) occur at least once with a non-empty value of `VerbForm`.
-64 lemmas (14%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> (95; 6% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="tpn_tudet-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+105 tokens (7%) have a non-empty value of `VerbForm`.
+79 types (11%) occur at least once with a non-empty value of `VerbForm`.
+66 lemmas (14%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 3 part-of-speech tags: <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> (100; 6% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="tpn_tudet-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-95 <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> tokens (46% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+100 <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> tokens (47% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="tpn_tudet-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (87; 92%), <tt><a href="tpn_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (66; 69%), <tt><a href="tpn_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (59; 62%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="tpn_tudet-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (89; 89%), <tt><a href="tpn_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (67; 67%), <tt><a href="tpn_tudet-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (63; 63%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Ger` (95; 100% of non-empty `VerbForm`): <em>ojaβo, meʔenga, motá, ojkóβo, omanõmo, Ojerokɨ, akakapa, aʔupa, ijukáβo, imojá</em>
-* `EMPTY` (112): <em>eʔi, eʔipe, Osó, owerasó, Eresawsupe, Ojaoβok, Ojaratã, Ojmongetá, Owatá, ojmeʔeŋ</em>
+* `Ger` (100; 100% of non-empty `VerbForm`): <em>ojaβo, meʔenga, motá, ojkóβo, omanõmo, Ojerokɨ, akakapa, aʔupa, ijukáβo, imoingóβo</em>
+* `EMPTY` (114): <em>eʔi, eʔipe, Ojaoβok, Osó, owerasó, Eresawsupe, Ojaratã, Ojmongetá, Owatá, ojmeʔeŋ</em>
 
-`VerbForm` seems to be **lexical feature** of `VERB`. 100% lemmas (60) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `VERB`. 100% lemmas (62) occur only with one value of `VerbForm`.
 
 ### `NOUN`
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 `NOUN` tokens may have the following values of `VerbForm`:
 
 * `Ger` (4; 100% of non-empty `VerbForm`): <em>ipetépeteka, potareʔɨma, potasáβamo, rerojɨpa</em>
-* `EMPTY` (549): <em>jandéjara, aβá, cruz, judeus, Tupã, sereków, iʃɨ, mbaʔe, osɨ, raʔangaβa</em>
+* `EMPTY` (564): <em>jandéjara, aβá, cruz, judeus, Tupã, sereków, iʃɨ, mbaʔe, osɨ, raʔangaβa</em>
 
 ### `AUX`
 

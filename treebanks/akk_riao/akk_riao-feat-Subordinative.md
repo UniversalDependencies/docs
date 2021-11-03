@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-391 tokens (2%) have a non-empty value of `Subordinative`.
-132 types (5%) occur at least once with a non-empty value of `Subordinative`.
+369 tokens (2%) have a non-empty value of `Subordinative`.
+131 types (4%) occur at least once with a non-empty value of `Subordinative`.
 78 lemmas (5%) occur at least once with a non-empty value of `Subordinative`.
-The feature is used with 2 part-of-speech tags: <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (366; 2% instances), <tt><a href="akk_riao-pos-PART.html">PART</a></tt> (25; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> (344; 1% instances), <tt><a href="akk_riao-pos-PART.html">PART</a></tt> (25; 0% instances).
 
 ### `VERB`
 
-366 <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> tokens (12% of all `VERB` tokens) have a non-empty value of `Subordinative`.
+344 <tt><a href="akk_riao-pos-VERB.html">VERB</a></tt> tokens (11% of all `VERB` tokens) have a non-empty value of `Subordinative`.
 
-The most frequent other feature values with which `VERB` and `Subordinative` co-occurred: <tt><a href="akk_riao-feat-Person.html">Person</a></tt><tt>=3</tt> (319; 87%), <tt><a href="akk_riao-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (310; 85%), <tt><a href="akk_riao-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (308; 84%), <tt><a href="akk_riao-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (308; 84%), <tt><a href="akk_riao-feat-Number.html">Number</a></tt><tt>=Sing</tt> (285; 78%), <tt><a href="akk_riao-feat-VerbStem.html">VerbStem</a></tt><tt>=G</tt> (253; 69%), <tt><a href="akk_riao-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (221; 60%).
+The most frequent other feature values with which `VERB` and `Subordinative` co-occurred: <tt><a href="akk_riao-feat-Person.html">Person</a></tt><tt>=3</tt> (299; 87%), <tt><a href="akk_riao-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (290; 84%), <tt><a href="akk_riao-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (287; 83%), <tt><a href="akk_riao-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (287; 83%), <tt><a href="akk_riao-feat-Number.html">Number</a></tt><tt>=Sing</tt> (265; 77%), <tt><a href="akk_riao-feat-VerbStem.html">VerbStem</a></tt><tt>=G</tt> (238; 69%), <tt><a href="akk_riao-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (201; 58%).
 
 `VERB` tokens may have the following values of `Subordinative`:
 
-* `Yes` (366; 100% of non-empty `Subordinative`): <em>ittallaku, īšû, ipēlu, apēlu, šaknū, ipparšidūni, usbakūni, ikšudu, šaknu, imhuru</em>
+* `Yes` (344; 100% of non-empty `Subordinative`): <em>ittallaku, īšû, apēlu, šaknū, ipēlu, ipparšidūni, usbakūni, šaknu, ikšudu, ipaššiṭu</em>
 
 `Subordinative` seems to be **lexical feature** of `VERB`. 100% lemmas (78) occur only with one value of `Subordinative`.
 
@@ -37,6 +37,6 @@ The most frequent other feature values with which `VERB` and `Subordinative` co-
 ## Relations with Agreement in `Subordinative`
 
 The 10 most frequent relations where parent and child node agree in `Subordinative`:
-<tt>VERB --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> VERB</tt> (83; 73%),
+<tt>VERB --[<tt><a href="akk_riao-dep-conj.html">conj</a></tt>]--> VERB</tt> (75; 72%),
 <tt>VERB --[<tt><a href="akk_riao-dep-dep.html">dep</a></tt>]--> PART</tt> (21; 91%).
 

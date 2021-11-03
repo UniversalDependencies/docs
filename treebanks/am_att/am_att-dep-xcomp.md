@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-136 nodes (1%) are attached to their parents as `xcomp`.
+135 nodes (1%) are attached to their parents as `xcomp`.
 
-134 instances of `xcomp` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.65441176470588.
+133 instances of `xcomp` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.64444444444444.
 
-The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (59; 43% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (51; 38% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (10; 7% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (7; 5% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="am_att-pos-AUX.html">AUX</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (58; 43% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (51; 38% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (10; 7% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (7; 5% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="am_att-pos-AUX.html">AUX</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -31,7 +31,7 @@ The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 7	ጓዝ	ጓዝ	NOUN	NOUN	_	10	advcl	_	Translit=gwazə|LTranslit=gwazə
 8	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	7	nmod	_	Translit='u|LTranslit='u
 9	ን	ን	PART	ACC	_	7	case	_	Translit=nə|LTranslit=nə
-10	ይዝ	ይዝ	VERB	VERB	_	13	advmod	_	Translit=jəzə|LTranslit=jəzə
+10	ይዝ	ይዝ	VERB	VERB	_	13	advcl	_	Translit=jəzə|LTranslit=jəzə
 11	ኦ	ኦ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	10	expl	_	Translit='o|LTranslit='o
 12	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	13	expl	_	Translit=jə|LTranslit=jə
 13	ምጣ	ምጣ	VERB	VERB	_	0	root	_	Translit=məţa|LTranslit=məţa
@@ -77,7 +77,7 @@ The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 9	ፈልግ	ፈልግ	VERB	VERB	_	15	advcl	_	Translit=fäləgə|LTranslit=fäləgə
 10	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	9	nsubj	_	Translit='u|LTranslit='u
 11	ከ	ከ	SCONJ	SCONJ	_	12	mark	_	Translit=kä|LTranslit=kä
-12	ሆን	ሆን	VERB	VERB	_	9	aux	_	Translit=honə|LTranslit=honə
+12	ሆን	ሆን	VERB	VERB	_	9	advcl	_	Translit=honə|LTranslit=honə
 13	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	12	nsubj	_	Translit='ă|LTranslit='ă
 14	እ	እ	PRON	SUBJC	Number=Sing|Person=1	15	nsubj	_	Translit='ə|LTranslit='ə
 15	ልክ	ልክ	VERB	VERB	_	0	root	_	Translit=ləkə|LTranslit=ləkə

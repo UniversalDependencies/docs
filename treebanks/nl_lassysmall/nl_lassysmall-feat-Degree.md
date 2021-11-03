@@ -36,7 +36,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="nl_lassysmall-pos-A
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="nl_lassysmall-dep-conj.html">conj</a></tt>]--> ADJ</tt> (174; 99%),
-<tt>ADJ --[<tt><a href="nl_lassysmall-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (111; 90%),
+<tt>ADJ --[<tt><a href="nl_lassysmall-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (110; 89%),
 <tt>ADJ --[<tt><a href="nl_lassysmall-dep-fixed.html">fixed</a></tt>]--> ADJ</tt> (40; 89%),
 <tt>ADJ --[<tt><a href="nl_lassysmall-dep-amod.html">amod</a></tt>]--> ADJ</tt> (27; 96%),
 <tt>ADJ --[<tt><a href="nl_lassysmall-dep-flat.html">flat</a></tt>]--> ADJ</tt> (10; 100%),

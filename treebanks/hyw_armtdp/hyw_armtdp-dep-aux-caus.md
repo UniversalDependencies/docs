@@ -9,31 +9,34 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="hyw_armtdp-dep-aux.html">aux</a></tt>.
 There are also 1 other language-specific subtypes of `aux`: <tt><a href="hyw_armtdp-dep-aux-ex.html">aux:ex</a></tt>.
 
-15 nodes (0%) are attached to their parents as `aux:caus`.
+19 nodes (0%) are attached to their parents as `aux:caus`.
 
-15 instances of `aux:caus` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.33333333333333.
+18 instances of `aux:caus` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.26315789473684.
 
-The following 1 pairs of parts of speech are connected with `aux:caus`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (15; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:caus`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt> (19; 100% instances).
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 10 aux:caus	color:blue
-1	—	—	PUNCT	_	_	4	punct	_	Translit=—|LTranslit=—
-2	Բայց	բայց	CCONJ	_	_	4	cc	_	Translit=Bayc’|LTranslit=bayc’
-3	կատարեալ	կատարեալ	ADJ	_	Degree=Pos	4	amod	_	Translit=katareal|LTranslit=katareal
-4	յիմարութիւն	յիմարութիւն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=yimarowt’iwn|LTranslit=yimarowt’iwn
-5	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	Translit=ē|LTranslit=em
-6	ատիկա	ատիկա	PRON	_	Case=Nom|Deixis=Med|Number=Sing|PronType=Dem	4	nsubj	_	Translit=atika|LTranslit=atika|SpaceAfter=No
-7	,	,	PUNCT	_	_	9	punct	_	Translit=,|LTranslit=,|SpaceAfter=No
-8	—	—	PUNCT	_	_	9	punct	_	Translit=—|LTranslit=—
-9	դիտել	դիտել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	4	parataxis	_	Translit=ditel|LTranslit=ditel
-10	տուի	տալ	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Cau	9	aux:caus	_	Translit=towi|LTranslit=tal|SpaceAfter=No
-11	։	։	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 aux:caus	color:blue
+1	–	–	PUNCT	_	_	4	punct	_	Translit=–|LTranslit=–
+2	Խելօք	խելօք	ADJ	_	Degree=Pos	4	xcomp	_	Translit=Xelòk’|LTranslit=xelòk’
+3	կ՚	կը	AUX	_	Aspect=Imp|Mood=Ind	4	aux:caus	_	Translit=k,|LTranslit=kë|SpaceAfter=No
+4	ըլլաք	ըլլալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=2|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Translit=ëllak’|LTranslit=ëllal|SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
+6	–	–	PUNCT	_	_	8	punct	_	Translit=–|LTranslit=–
+7	կ՚	կը	AUX	_	Aspect=Imp|Mood=Ind	8	aux	_	Translit=k,|LTranslit=kë|SpaceAfter=No
+8	ըսէ	ըսել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	4	parataxis	_	Translit=ësē|LTranslit=ësel
+9	մաման	մամա	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	8	nsubj	_	Translit=maman|LTranslit=mama
+10	եւ	եւ	CCONJ	_	_	13	cc	_	Translit=ew|LTranslit=ew
+11	դուրս	դուրս	ADV	_	_	13	compound:lvc	_	Translit=dowrs|LTranslit=dowrs
+12	կ՚	կը	AUX	_	Aspect=Imp|Mood=Ind	13	aux	_	Translit=k,|LTranslit=kë|SpaceAfter=No
+13	ելլեն	ելլել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	8	conj	_	Translit=ellen|LTranslit=ellel|SpaceAfter=No
+14	:	:	PUNCT	_	Foreign=Yes	4	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

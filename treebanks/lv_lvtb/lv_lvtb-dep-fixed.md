@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-869 nodes (0%) are attached to their parents as `fixed`.
+917 nodes (0%) are attached to their parents as `fixed`.
 
-869 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.00460299194476.
+917 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.00545256270447.
 
-The following 14 pairs of parts of speech are connected with `fixed`: <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (260; 30% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (145; 17% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (134; 15% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (128; 15% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (59; 7% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (44; 5% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (36; 4% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (28; 3% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (17; 2% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (11; 1% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `fixed`: <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (261; 28% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (152; 17% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (152; 17% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (129; 14% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (68; 7% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (52; 6% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (36; 4% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (31; 3% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt>-<tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (18; 2% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (11; 1% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt>-<tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -44,6 +44,24 @@ The following 14 pairs of parts of speech are connected with `fixed`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 fixed	color:blue
+1	Viņš	viņš	PRON	pp3msnn	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj|7:nsubj	LvtbNodeId=a-p3323-p8s4w1
+2	vai	vai	CCONJ	cc	_	4	cc	4:cc	LvtbNodeId=a-p3323-p8s4w2
+3	nu	nu	PART	q	_	2	fixed	2:fixed	LvtbNodeId=a-p3323-p8s4w3
+4	atnāca	atnākt	VERB	vmnisi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p3323-p8s4w4|SpaceAfter=No
+5	,	,	PUNCT	zc	_	7	punct	7:punct	LvtbNodeId=a-p3323-p8s4w5
+6	vai	vai	CCONJ	cc	_	7	cc	7:cc	LvtbNodeId=a-p3323-p8s4w6
+7	neatnāca	atnākt	VERB	vmnisi130ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	4:conj	LvtbNodeId=a-p3323-p8s4w7|SpaceAfter=No
+8	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-p3323-p8s4w8
+
+~~~
+
+
+~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 1	bgColor:blue
@@ -59,24 +77,6 @@ The following 14 pairs of parts of speech are connected with `fixed`: <tt><a hre
 8	jums	jūs	PRON	pp20pdn	Case=Dat|Number=Plur|Person=2|PronType=Prs	9	iobj	9:iobj	LvtbNodeId=a-d178-p577s4w8
 9	tikties	tikties	VERB	vmyn0i1000n	Polarity=Pos|Reflex=Yes|VerbForm=Inf	6	ccomp	6:ccomp	LvtbNodeId=a-d178-p577s4w9|SpaceAfter=No
 10	.	.	PUNCT	zs	_	6	punct	6:punct	LvtbNodeId=a-d178-p577s4w10
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 fixed	color:blue
-1	Viņš	viņš	PRON	pp3msnn	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj|7:nsubj	LvtbNodeId=a-p3323-p8s4w1
-2	vai	vai	CCONJ	cc	_	4	cc	4:cc	LvtbNodeId=a-p3323-p8s4w2
-3	nu	nu	PART	q	_	2	fixed	2:fixed	LvtbNodeId=a-p3323-p8s4w3
-4	atnāca	atnākt	VERB	vmnisi130an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p3323-p8s4w4|SpaceAfter=No
-5	,	,	PUNCT	zc	_	7	punct	7:punct	LvtbNodeId=a-p3323-p8s4w5
-6	vai	vai	CCONJ	cc	_	7	cc	7:cc	LvtbNodeId=a-p3323-p8s4w6
-7	neatnāca	atnākt	VERB	vmnisi130ay	Evident=Fh|Mood=Ind|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	4:conj	LvtbNodeId=a-p3323-p8s4w7|SpaceAfter=No
-8	.	.	PUNCT	zs	_	4	punct	4:punct	LvtbNodeId=a-p3323-p8s4w8
 
 ~~~
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: <tt><a href="sms_giellagas-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-7 nodes (0%) are attached to their parents as `nmod`.
+9 nodes (0%) are attached to their parents as `nmod`.
 
-5 instances of `nmod` (71%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.14285714285714.
+7 instances of `nmod` (78%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.11111111111111.
 
-The following 2 pairs of parts of speech are connected with `nmod`: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (5; 71% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (2; 29% instances).
+The following 2 pairs of parts of speech are connected with `nmod`: <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (6; 67% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (3; 33% instances).
 
 
 ~~~ conllu

@@ -22,11 +22,11 @@ The following 3 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 case	color:blue
-1	teti	ti	NOUN	n	Person=3|Reflex=Yes	2	nsubj	2:nsubj	_
-2	pururu	pururu	VERB	ideo	_	0	root	0:root	_
-3	aj	aj	VERB	vi	_	2	dep	2:dep	_
-4	ɨmɨmere	ɨmɨmere	NOUN	n	_	2	obl	2:obl	_
-5	etʃe	etʃe	ADP	posp	_	4	case	4:case	_
+1	teti	ti	NOUN	n	Person=3|Reflex=Yes	2	nsubj	_	_
+2	pururu	pururu	VERB	ideo	_	0	root	_	_
+3	aj	aj	VERB	vi	_	2	dep	_	_
+4	ɨmɨmere	ɨmɨmere	NOUN	n	_	2	obl	_	_
+5	etʃe	etʃe	ADP	posp	_	4	case	_	_
 
 ~~~
 
@@ -37,10 +37,10 @@ The following 3 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 case	color:blue
-1	pabapebõ	pabape	NOUN	n	Case=All	2	case	2:case	_
-2	ɨkɨ	ɨkɨ	NOUN	n	_	3	obj	3:obj	_
-3	kiramka	kiram	VERB	vt	Trans=Yes	0	root	0:root	_
-4	en	en	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	_
+1	pabapebõ	pabape	NOUN	n	Case=All	2	case	_	_
+2	ɨkɨ	ɨkɨ	NOUN	n	_	3	obj	_	_
+3	kiramka	kiram	VERB	vt	Trans=Yes	0	root	_	_
+4	en	en	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
 
 ~~~
 
@@ -51,9 +51,9 @@ The following 3 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 case	color:blue
-1	tekwata	kwat	VERB	vi	Person=3|Reflex=Yes|Tv=Yes	0	root	0:root	_
-2	Buko	Buko	PROPN	pn	_	1	obl	1:obl	_
-3	ete	ete	ADP	posp	_	2	case	2:case	_
+1	tekwata	kwat	VERB	vi	Person=3|Reflex=Yes|Tv=Yes	0	root	_	_
+2	Buko	Buko	PROPN	pn	_	1	obl	_	_
+3	ete	ete	ADP	posp	_	2	case	_	_
 
 ~~~
 

@@ -53,7 +53,7 @@ The following 2 pairs of parts of speech are connected with `compound:svc`: <tt>
 6	ው	ው	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	4	expl	_	Translit=wə|LTranslit=wə
 7	ኣል	ኣል	AUX	AUX	_	4	aux	_	Translit='alə|LTranslit='alə
 8	ሁ	ሁ	PRON	SUBJC	Gender=Neut|Number=Sing|Person=3	4	nsubj	_	Translit=hu|LTranslit=hu
-9	ብል	ብል	VERB	VERB	VerbForm=Conv	4	aux	_	Translit=bələ|LTranslit=bələ
+9	ብል	ብል	VERB	VERB	VerbForm=Conv	4	parataxis	_	Translit=bələ|LTranslit=bələ
 10	ኦ	ኦ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	9	nsubj	_	Translit='o|LTranslit='o
 11	የ	የ	ADP	ADP	_	12	case	_	Translit=jä|LTranslit=jä
 12	ምስክርነት	ምስክርነት	NOUN	NOUN	_	13	nmod	_	Translit=məsəkərənätə|LTranslit=məsəkərənätə

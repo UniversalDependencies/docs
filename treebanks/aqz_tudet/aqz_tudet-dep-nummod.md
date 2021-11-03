@@ -22,9 +22,9 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nummod	color:blue
-1	Kɨte	kɨte	NUM	num	_	2	nummod	2:nummod	_
-2	babape	babape	NOUN	n	_	3	obj	3:obj	_
-3	at	at	VERB	vt	_	0	root	0:root	_
+1	Kɨte	kɨte	NUM	num	_	2	nummod	_	_
+2	babape	babape	NOUN	n	_	3	obj	_	_
+3	at	at	VERB	vt	_	0	root	_	_
 
 ~~~
 
@@ -35,11 +35,11 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 nummod	color:blue
-1	mepitet	mepit	NOUN	n	_	0	root	0:root	_
-2	jẽ	jẽ	DET	dem	Deixis=Prox	1	nmod	1:nmod	_
-3	,	,	PUNCT	punct	_	2	punct	2:punct	_
-4	jẽrom	jẽrom	DET	dem	Deixis=Dist	1	parataxis	1:parataxis	_
-5	tɨrɨ	tɨrɨ	NUM	num	NumType=Card	4	nummod	4:nummod	_
+1	mepitet	mepit	NOUN	n	_	0	root	_	_
+2	jẽ	jẽ	DET	dem	Deixis=Prox	1	nmod	_	_
+3	,	,	PUNCT	punct	_	2	punct	_	_
+4	jẽrom	jẽrom	DET	dem	Deixis=Dist	1	parataxis	_	_
+5	tɨrɨ	tɨrɨ	NUM	num	NumType=Card	4	nummod	_	_
 
 ~~~
 

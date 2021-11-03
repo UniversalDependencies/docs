@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="la_udante-pos-SCONJ
 
 731 <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> tokens (29% of all `SCONJ` tokens) have a non-empty value of `ConjType`.
 
-The most frequent other feature values with which `SCONJ` and `ConjType` co-occurred: <tt><a href="la_udante-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (488; 67%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (465; 64%).
+The most frequent other feature values with which `SCONJ` and `ConjType` co-occurred: <tt><a href="la_udante-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (488; 67%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (466; 64%).
 
 `SCONJ` tokens may have the following values of `ConjType`:
 

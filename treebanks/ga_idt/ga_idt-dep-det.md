@@ -23,13 +23,13 @@ The following 17 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 8	fgColor:white
 # visual-style 8 7 det	color:blue
 1	Caithfidh	caith	VERB	VTI	Mood=Ind|Tense=Fut	0	root	_	_
-2	foirne	foireann	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Plur	5	nsubj	_	_
-3	úsáid	úsáid	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	5	obj	_	_
+2	foirne	foireann	NOUN	Noun	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	_
+3	úsáid	úsáid	NOUN	Noun	Case=Nom|Gender=Fem|Number=Sing	5	obj	_	_
 4	a	a	PART	Inf	PartType=Inf	5	mark	_	_
 5	bhaint	baint	NOUN	Noun	Form=Len|VerbForm=Inf	1	xcomp	_	_
 6	as	as	ADP	Simp	_	8	case	_	_
 7	na	an	DET	Art	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
-8	huimhreacha	uimhir	NOUN	Noun	Case=NomAcc|Definite=Def|Form=HPref|Gender=Fem|Number=Plur	5	obl	_	_
+8	huimhreacha	uimhir	NOUN	Noun	Case=Nom|Definite=Def|Form=HPref|Gender=Fem|Number=Plur	5	obl	_	_
 9	4-15	4-15	NUM	Num	_	8	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -43,7 +43,7 @@ The following 17 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 7	fgColor:white
 # visual-style 7 6 det	color:blue
 1	Mo	mo	DET	Det	Number=Sing|Person=1|Poss=Yes	2	nmod:poss	_	_
-2	léan	léan	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
+2	léan	léan	NOUN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
 3	go	go	PART	Vb	PartType=Cmpl	4	mark:prt	_	_
 4	mbeidh	bí	VERB	FutInd	Form=Ecl|Mood=Ind|Tense=Fut	2	acl	_	_
 5	ar	ar	ADP	Simp	_	7	case	_	_
@@ -53,7 +53,7 @@ The following 17 pairs of parts of speech are connected with `det`: <tt><a href=
 9	síos	síos	ADV	Dir	_	8	advmod	_	_
 10	arís	arís	ADV	Gn	_	8	advmod	_	_
 11	ina	i	ADP	Poss	Number=Plur|Person=3|Poss=Yes	12	case	_	_
-12	dtír	tír	NOUN	Noun	Case=NomAcc|Definite=Def|Form=Ecl|Gender=Fem|Number=Sing	4	obl	_	_
+12	dtír	tír	NOUN	Noun	Case=Nom|Definite=Def|Form=Ecl|Gender=Fem|Number=Sing	4	obl	_	_
 13	féin	féin	PRON	Ref	Reflex=Yes	12	nmod	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -67,7 +67,7 @@ The following 17 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 6	fgColor:white
 # visual-style 6 7 det	color:blue
 1	Cén	cé	PRON	Q	Number=Sing|PronType=Int	0	root	_	_
-2	áit	áit	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	_
+2	áit	áit	NOUN	Noun	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	_
 3	an	an	PART	Vb	PartType=Vb	4	mark:prt	_	_
 4	bhfágfaidh	fág	VERB	VTI	Form=Ecl|Mood=Ind|Tense=Fut	2	acl:relcl	_	_
 5	mé	mé	PRON	Pers	Number=Sing|Person=1	4	nsubj	_	_

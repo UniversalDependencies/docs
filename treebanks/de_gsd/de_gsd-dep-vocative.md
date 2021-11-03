@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5 nodes (0%) are attached to their parents as `vocative`.
+6 nodes (0%) are attached to their parents as `vocative`.
 
-3 instances of `vocative` (60%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.8.
+4 instances of `vocative` (67%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.66666666666667.
 
-The following 4 pairs of parts of speech are connected with `vocative`: <tt><a href="de_gsd-pos-INTJ.html">INTJ</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (2; 40% instances), <tt><a href="de_gsd-pos-INTJ.html">INTJ</a></tt>-<tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (1; 20% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt>-<tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (1; 20% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (1; 20% instances).
+The following 5 pairs of parts of speech are connected with `vocative`: <tt><a href="de_gsd-pos-INTJ.html">INTJ</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (2; 33% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="de_gsd-pos-INTJ.html">INTJ</a></tt>-<tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (1; 17% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt>-<tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (1; 17% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (1; 17% instances).
 
 
 ~~~ conllu
@@ -43,6 +43,27 @@ The following 4 pairs of parts of speech are connected with `vocative`: <tt><a h
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 vocative	color:blue
+1	Vielen	viel	DET	PIAT	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|PronType=Ind	2	amod	_	_
+2	Dank	Dank	ADP	NN	_	0	root	_	_
+3	Frau	Frau	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	2	vocative	_	_
+4	Schrag	Schrag	PROPN	NE	Case=Dat|Gender=Masc|Number=Sing	3	flat	_	NamedEntity=Yes
+5	und	und	CCONJ	KON	_	2	cc	_	_
+6	bis	bis	ADP	APPR	_	10	case	_	_
+7	zu	zu	ADP	APPR	_	10	case	_	_
+8	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+9	nächsten	nah	ADJ	ADJA	Case=Dat|Gender=Masc|Number=Sing	10	amod	_	_
+10	Termin	Termin	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	2	conj	_	SpaceAfter=No
+11	.	.	PUNCT	$.	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 1	bgColor:blue
@@ -64,20 +85,6 @@ The following 4 pairs of parts of speech are connected with `vocative`: <tt><a h
 14	kompetente	kompetent	ADJ	ADJA	Case=Acc|Gender=Fem|Number=Sing	12	conj	_	_
 15	Bürovermietung	Bürovermietung	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
 16	.	.	PUNCT	$.	_	8	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 vocative	color:blue
-1	Danke	danke	PART	PTKANT	_	0	root	_	_
-2	Rosemarie	Rosemarie	PROPN	NN	Case=Nom|Gender=Fem|Number=Sing	1	vocative	_	SpaceAfter=No|NamedEntity=Yes
-3	!	!	PUNCT	$.	_	1	punct	_	_
-4	:-)	:-)	SYM	NE	Case=Nom|Gender=Masc|Number=Sing	1	dep	_	_
 
 ~~~
 

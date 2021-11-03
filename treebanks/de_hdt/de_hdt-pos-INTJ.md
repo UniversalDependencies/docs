@@ -24,18 +24,18 @@ The 10 most frequent ambiguous types:  <em>bitte</em> (<tt><a href="de_hdt-pos-I
   * <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> 5: <em>Das Bulletin Board kann wie üblich genutzt werden , <b>bitte</b> postet keine aggressiven Inhalte .</em>
 * <em>ja</em>
   * <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> 387: <em>Und an diesen sei <b>ja</b> schließlich allein die Deutsche Telekom schuld :</em>
-  * <tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt> 9: <em>QXL-Aktionäre sagen <b>ja</b> zur Fusion mit Ricardo.de</em>
+  * <tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt> 9: <em>QXL-Aktionäre sagen <b>ja</b> zu der Fusion mit Ricardo.de</em>
 * <em>Ach</em>
-  * <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> 3: <em>Derzeit steckt im Pentium III der Coppermine-Kern , der mit <b>Ach</b> und Krach die Gigahertz-Grenze erreichen konnte .</em>
+  * <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> 3: <em>Derzeit steckt in dem Pentium III der Coppermine-Kern , der mit <b>Ach</b> und Krach die Gigahertz-Grenze erreichen konnte .</em>
   * <tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt> 1: <em><b>Ach</b> !</em>
 * <em>Hey</em>
-  * <tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt> 1: <em>Mit dem Slogan " <b>Hey</b> , Arbeitsbiene , lass Dich von diesem Aufruf anstacheln und melde Raubkopierer " fordern inzwischen auch in anderen Städten Plakate auf Werbeflächen und U-Bahnen zur Denunziation auf .</em>
+  * <tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt> 1: <em>Mit dem Slogan " <b>Hey</b> , Arbeitsbiene , lass Dich von diesem Aufruf anstacheln und melde Raubkopierer " fordern inzwischen auch in anderen Städten Plakate auf Werbeflächen und U-Bahnen zu der Denunziation auf .</em>
   * <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> 1: <em>Moderator Henrik <b>Hey</b> gibt einen Einblick in die Welt der Wale , die Geheimnisse des menschlichen Körpers , Dinosaurier und den Weltraum .</em>
   * <tt><a href="de_hdt-pos-X.html">X</a></tt> 1: <em>" <b>Hey</b> , it sells more hardware , servers , disk arrays - I love it ! "</em>
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 2.524227).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 2.524629).
 
 The 1st highest number of forms (1) was observed with the lemma “AHA”: <em>AHA</em>.
 

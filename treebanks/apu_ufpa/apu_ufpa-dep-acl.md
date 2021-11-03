@@ -9,7 +9,7 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="apu_ufpa-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-10 nodes (2%) are attached to their parents as `acl`.
+10 nodes (1%) are attached to their parents as `acl`.
 
 5 instances of `acl` (50%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.2.

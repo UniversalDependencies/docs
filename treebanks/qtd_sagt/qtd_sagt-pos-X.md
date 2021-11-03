@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>be--</em> (<tt><a href="qtd_sagt-pos-
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.681057).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.679170).
 
 The 1st highest number of forms (1) was observed with the lemma “Leit”: <em>Leit--</em>.
 
@@ -41,13 +41,7 @@ The 2nd highest number of forms (1) was observed with the lemma “Medien”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “Nah”: <em>Nah--</em>.
 
-`X` occurs with 1 features: <tt><a href="qtd_sagt-feat-Typo.html">Typo</a></tt> (2; 4% instances)
-
-`X` occurs with 1 feature-value pairs: `Typo=Yes`
-
-`X` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (45 tokens).
-Examples: <em>be--, bis--, f--, şe--, Bu--, Comp--, Lab--, Leit--, Medien--, Nah--</em>
+`X` does not occur with any features.
 
 
 ## Relations

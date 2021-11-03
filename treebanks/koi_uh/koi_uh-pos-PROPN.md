@@ -13,7 +13,7 @@ The 10 most frequent `PROPN` lemmas: <em>Петя, Мери, Питер, Пар�
 
 The 10 most frequent `PROPN` types:  <em>Петялӧн, Мери, Питер, Парижын, Сэм, Браунӧс, Ворошилов, Джейн, Дёма, Игаузу</em>
 
-The 10 most frequent ambiguous lemmas: <em>Митя</em> (<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>Петя</em> (<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 17, <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> 4), <em>Митя</em> (<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>Митя</em> (<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> 1)
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>Митя</em> (<tt><a href="koi_uh-po
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.052632 (the average of all parts of speech is 1.206107).
+The form / lemma ratio of `PROPN` is 1.052632 (the average of all parts of speech is 1.228365).
 
 The 1st highest number of forms (2) was observed with the lemma “Франция”: <em>Франция, Франциялӧн</em>.
 

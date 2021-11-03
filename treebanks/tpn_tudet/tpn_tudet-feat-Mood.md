@@ -25,7 +25,7 @@ The most frequent other feature values with which `NOUN` and `Mood` co-occurred:
 * `Cnd` (1; 8% of non-empty `Mood`): <em>ʃekwaukámo</em>
 * `Perm` (4; 31% of non-empty `Mood`): <em>Taʃepɨsɨrõ, Taʃemaran, Taʃepeʔa</em>
 * `Sub` (8; 62% of non-empty `Mood`): <em>sekóreme, mombeʔureme, sɨkeme, omoʔangekoaíme</em>
-* `EMPTY` (540): <em>jandéjara, aβá, cruz, judeus, Tupã, sereków, iʃɨ, mbaʔe, osɨ, raʔangaβa</em>
+* `EMPTY` (555): <em>jandéjara, aβá, cruz, judeus, Tupã, sereków, iʃɨ, mbaʔe, osɨ, raʔangaβa</em>
 
 ### `VERB`
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 `VERB` tokens may have the following values of `Mood`:
 
 * `Perm` (3; 100% of non-empty `Mood`): <em>t'ojpeʔa, t'oβasem, tapejkwaβ</em>
-* `EMPTY` (204): <em>eʔi, ojaβo, eʔipe, ojkóβo, Osó, meʔenga, omanõmo, owerasó, Eresawsupe, Ojaoβok</em>
+* `EMPTY` (211): <em>eʔi, ojaβo, eʔipe, Ojaoβok, ojkóβo, Osó, meʔenga, omanõmo, owerasó, Eresawsupe</em>
 
 ### `PART`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `PART` and `Mood` co-occurred:
 `PART` tokens may have the following values of `Mood`:
 
 * `Cnd` (2; 100% of non-empty `Mood`): <em>ʃwémo, ʃwépemo</em>
-* `EMPTY` (60): <em>ɲẽ, ɨβɨá, e, ã, ɲẽpe, aʔepe, aé, jepé, pe, ruã</em>
+* `EMPTY` (63): <em>ɲẽ, ɨβɨá, e, ã, ɲẽpe, aʔepe, aé, jepé, pe, ruã</em>
 
 ### `ADP`
 
@@ -58,5 +58,5 @@ The most frequent other feature values with which `ADP` and `Mood` co-occurred: 
 `ADP` tokens may have the following values of `Mood`:
 
 * `Cnd` (1; 100% of non-empty `Mood`): <em>supémo</em>
-* `EMPTY` (137): <em>resé, swi, supé, pupé, sesé, iré, rupi, janondé, iʃupé, ri</em>
+* `EMPTY` (144): <em>resé, swi, supé, pupé, sesé, rupi, iré, janondé, iʃupé, ri</em>
 

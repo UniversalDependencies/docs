@@ -63,7 +63,7 @@ The following 5 pairs of parts of speech are connected with `root`: -<tt><a href
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	hiç	hiç	ADV	_	_	7	advmod	_	_
 7	alışkın	alışkın	ADJ	_	_	0	root	_	_
-8	değilim	değil	AUX	_	Number=Sing|Person=1|Tense=Pres	7	aux	_	_
+8	değilim	değil	AUX	_	Mood=Gen|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	_
 9	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~

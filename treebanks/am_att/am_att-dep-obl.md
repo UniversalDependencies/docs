@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-275 nodes (3%) are attached to their parents as `obl`.
+393 nodes (4%) are attached to their parents as `obl`.
 
-266 instances of `obl` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.57090909090909.
+380 instances of `obl` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.68956743002545.
 
-The following 14 pairs of parts of speech are connected with `obl`: <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (178; 65% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (45; 16% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> (21; 8% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (10; 4% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> (5; 2% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt>-<tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `obl`: <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (253; 64% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (50; 13% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (41; 10% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> (26; 7% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt>-<tt><a href="am_att-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -59,8 +59,8 @@ The following 14 pairs of parts of speech are connected with `obl`: <tt><a href=
 12	ን	ን	PART	ACC	_	9	case	_	Translit=nə|LTranslit=nə
 13	ዘዴ	ዘዴ	NOUN	NOUN	_	15	obj	_	Translit=zäde|LTranslit=zäde
 14	ብ	ብ	ADP	ADP	_	15	mark	_	Translit=bə|LTranslit=bə
-15	ኣገኝ	ኣገኝ	VERB	VERB	_	16	advmod	_	Translit='agäňə|LTranslit='agäňə
-16	ብል	ብል	VERB	VERB	_	18	advmod	_	Translit=bələ|LTranslit=bələ
+15	ኣገኝ	ኣገኝ	VERB	VERB	_	16	advcl	_	Translit='agäňə|LTranslit='agäňə
+16	ብል	ብል	VERB	VERB	_	18	advcl	_	Translit=bələ|LTranslit=bələ
 17	ኦ	ኦ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	16	expl	_	Translit='o|LTranslit='o
 18	ተመኝ	ተመኝ	VERB	VERB	Voice=Pass	0	root	_	Translit=tämäňə|LTranslit=tämäňə
 19	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	18	nsubj	_	Translit='ă|LTranslit='ă
@@ -70,18 +70,20 @@ The following 14 pairs of parts of speech are connected with `obl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 obl	color:blue
-1	ለ	ለ	ADP	ADP	_	2	case	_	Translit=lä|LTranslit=lä
-2	ከበደ	ከበደ	PROPN	PROPN	_	4	obl	_	Translit=käbädä|LTranslit=käbädä
-3	ገንዘብ	ገንዘብ	NOUN	NOUN	_	4	obj	_	Translit=gänəzäbə|LTranslit=gänəzäbə
-4	ሰጥ	ሰጥ	VERB	VERB	_	0	root	_	Translit=säţə|LTranslit=säţə
-5	ኧሁ	ኧሁ	PRON	SUBJC	Number=Sing|Person=1	4	nsubj	_	Translit='ăhu|LTranslit='ăhu
-6	ት	ት	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	4	expl	_	Translit=tə|LTranslit=tə
-7	።	።	PUNCT	PUNCT	_	4	punct	_	Translit=.|LTranslit=.
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 obl	color:blue
+1	ካሳ	ካሳ	PROPN	PROPN	_	7	nsubj	_	Translit=kasa|LTranslit=kasa
+2	ጥይት	ጥይት	NOUN	NOUN	_	7	obj	_	Translit=ţəjətə|LTranslit=ţəjətə
+3	ኡ	ኡ	DET	DET	_	2	det	_	Translit='u|LTranslit='u
+4	ን	ን	PART	ACC	_	2	case	_	Translit=nə|LTranslit=nə
+5	ወደ	ወደ	ADP	ADP	_	6	case	_	Translit=wädä|LTranslit=wädä
+6	እኔ	እኔ	PRON	PRON	_	7	obl	_	Translit='əne|LTranslit='əne
+7	አነጣጠር	አነጣጠር	VERB	VERB	_	0	root	_	Translit='änäţaţärə|LTranslit='änäţaţärə
+8	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	7	expl	_	Translit='ă|LTranslit='ă
+9	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

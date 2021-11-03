@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-2901 tokens (10%) have a non-empty value of `Person`.
-599 types (14%) occur at least once with a non-empty value of `Person`.
-323 lemmas (11%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (1140; 4% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1081; 4% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (677; 2% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (3; 0% instances).
+2900 tokens (10%) have a non-empty value of `Person`.
+597 types (14%) occur at least once with a non-empty value of `Person`.
+322 lemmas (11%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (1140; 4% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1081; 4% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (676; 2% instances), <tt><a href="fr_partut-pos-DET.html">DET</a></tt> (3; 0% instances).
 
 ### `VERB`
 
@@ -22,8 +22,8 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (250; 22% of non-empty `Person`): <em>voudrais, pense, devons, devrions, espérons, tiens, allons, crois, pouvons, avons</em>
-* `2` (82; 7% of non-empty `Person`): <em>pouvez, choisissez, cliquez, utilisez, avez, permettez, souhaitez, connaissez, publiez, saisissez</em>
+* `1` (251; 22% of non-empty `Person`): <em>voudrais, pense, devons, devrions, espérons, tiens, allons, crois, pouvons, avons</em>
+* `2` (81; 7% of non-empty `Person`): <em>pouvez, choisissez, cliquez, utilisez, avez, permettez, souhaitez, connaissez, publiez, saisissez</em>
 * `3` (808; 71% of non-empty `Person`): <em>a, peut, doit, est, devrait, convient, ont, peuvent, fait, concerne</em>
 * `EMPTY` (1597): <em>faire, dite, concernant, fait, tenu, améliorer, compris, dire, donné, abonner</em>
 
@@ -56,13 +56,13 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `AUX`
 
-677 <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> tokens (80% of all `AUX` tokens) have a non-empty value of `Person`.
+676 <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> tokens (80% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (676; 100%), <tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (622; 92%), <tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (611; 90%), <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (444; 66%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (675; 100%), <tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (621; 92%), <tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (610; 90%), <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (443; 66%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (52; 8% of non-empty `Person`): <em>suis, sommes, ai, avons, aurions, avions, aurai, aurais, aurons, avais</em>
+* `1` (51; 8% of non-empty `Person`): <em>suis, sommes, ai, avons, aurions, avions, aurai, aurais, aurons, avais</em>
 * `2` (14; 2% of non-empty `Person`): <em>avez, êtes, Faites</em>
 * `3` (611; 90% of non-empty `Person`): <em>est, a, sont, ont, sera, soit, soient, étaient, était, ait</em>
 * `EMPTY` (170): <em>être, été, étant, faire, avoir, ayant, faisant, fait</em>
@@ -73,7 +73,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>seraient</em></td></tr>
   <tr><td><tt><tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>sera</em></td></tr>
   <tr><td><tt><tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>étais</em></td><td></td><td><em>était</em></td></tr>
-  <tr><td><tt><tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>suis, seuis</em></td><td></td><td><em>est</em></td></tr>
+  <tr><td><tt><tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>suis</em></td><td></td><td><em>est</em></td></tr>
   <tr><td><tt><tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>seront</em></td></tr>
   <tr><td><tt><tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td><em>étaient</em></td></tr>
   <tr><td><tt><tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fr_partut-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sommes</em></td><td><em>êtes</em></td><td><em>sont, étaient</em></td></tr>
@@ -91,12 +91,12 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 `DET` tokens may have the following values of `Person`:
 
 * `3` (3; 100% of non-empty `Person`): <em>une</em>
-* `EMPTY` (4788): <em>le, les, la, l', une, un, des, ce, cette, ces</em>
+* `EMPTY` (4789): <em>le, les, la, l', une, un, des, ce, cette, ces</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (417; 65%),
+<tt>VERB --[<tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (418; 65%),
 <tt>VERB --[<tt><a href="fr_partut-dep-expl.html">expl</a></tt>]--> PRON</tt> (105; 62%),
 <tt>PRON --[<tt><a href="fr_partut-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (36; 63%),
 <tt>PRON --[<tt><a href="fr_partut-dep-conj.html">conj</a></tt>]--> PRON</tt> (1; 100%).

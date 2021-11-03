@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Bernard Caron, Emmett Strickland, Marine Courtin, Kim Gerdes, Bruno Guillaume, Sylvain Kahane, Chika Kennedy Ajede, Emeka Onwuegbuzia, Samson Tella.
 
 Repository: [UD_Naija-NSC](https://github.com/UniversalDependencies/UD_Naija-NSC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpcm_nsc28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpcm_nsc29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-SA 4.0
 
@@ -79,13 +79,13 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 
 ## Relations
 
-[acl](pcm_nsc-dep-acl.html) – [acl:relcl](pcm_nsc-dep-acl-relcl.html) – [advcl](pcm_nsc-dep-advcl.html) – [advcl:cleft](pcm_nsc-dep-advcl-cleft.html) – [advmod](pcm_nsc-dep-advmod.html) – [amod](pcm_nsc-dep-amod.html) – [appos](pcm_nsc-dep-appos.html) – [aux](pcm_nsc-dep-aux.html) – [case](pcm_nsc-dep-case.html) – [cc](pcm_nsc-dep-cc.html) – [ccomp](pcm_nsc-dep-ccomp.html) – [compound](pcm_nsc-dep-compound.html) – [compound:prt](pcm_nsc-dep-compound-prt.html) – [compound:redup](pcm_nsc-dep-compound-redup.html) – [compound:svc](pcm_nsc-dep-compound-svc.html) – [conj](pcm_nsc-dep-conj.html) – [cop](pcm_nsc-dep-cop.html) – [csubj](pcm_nsc-dep-csubj.html) – [dep](pcm_nsc-dep-dep.html) – [det](pcm_nsc-dep-det.html) – [discourse](pcm_nsc-dep-discourse.html) – [dislocated](pcm_nsc-dep-dislocated.html) – [expl:subj](pcm_nsc-dep-expl-subj.html) – [fixed](pcm_nsc-dep-fixed.html) – [flat](pcm_nsc-dep-flat.html) – [flat:foreign](pcm_nsc-dep-flat-foreign.html) – [iobj](pcm_nsc-dep-iobj.html) – [mark](pcm_nsc-dep-mark.html) – [nmod](pcm_nsc-dep-nmod.html) – [nmod:poss](pcm_nsc-dep-nmod-poss.html) – [nsubj](pcm_nsc-dep-nsubj.html) – [nummod](pcm_nsc-dep-nummod.html) – [obj](pcm_nsc-dep-obj.html) – [obj:lvc](pcm_nsc-dep-obj-lvc.html) – [obl:agent](pcm_nsc-dep-obl-agent.html) – [obl:arg](pcm_nsc-dep-obl-arg.html) – [obl:mod](pcm_nsc-dep-obl-mod.html) – [orphan](pcm_nsc-dep-orphan.html) – [parataxis](pcm_nsc-dep-parataxis.html) – [parataxis:conj](pcm_nsc-dep-parataxis-conj.html) – [parataxis:discourse](pcm_nsc-dep-parataxis-discourse.html) – [parataxis:dislocated](pcm_nsc-dep-parataxis-dislocated.html) – [parataxis:parenth](pcm_nsc-dep-parataxis-parenth.html) – [reparandum](pcm_nsc-dep-reparandum.html) – [root](pcm_nsc-dep-root.html) – [vocative](pcm_nsc-dep-vocative.html) – [xcomp](pcm_nsc-dep-xcomp.html)
+[acl](pcm_nsc-dep-acl.html) – [acl:relcl](pcm_nsc-dep-acl-relcl.html) – [advcl](pcm_nsc-dep-advcl.html) – [advcl:cleft](pcm_nsc-dep-advcl-cleft.html) – [advmod](pcm_nsc-dep-advmod.html) – [amod](pcm_nsc-dep-amod.html) – [appos](pcm_nsc-dep-appos.html) – [aux](pcm_nsc-dep-aux.html) – [case](pcm_nsc-dep-case.html) – [cc](pcm_nsc-dep-cc.html) – [ccomp](pcm_nsc-dep-ccomp.html) – [compound](pcm_nsc-dep-compound.html) – [compound:prt](pcm_nsc-dep-compound-prt.html) – [compound:redup](pcm_nsc-dep-compound-redup.html) – [compound:svc](pcm_nsc-dep-compound-svc.html) – [conj](pcm_nsc-dep-conj.html) – [cop](pcm_nsc-dep-cop.html) – [csubj](pcm_nsc-dep-csubj.html) – [dep](pcm_nsc-dep-dep.html) – [det](pcm_nsc-dep-det.html) – [discourse](pcm_nsc-dep-discourse.html) – [dislocated](pcm_nsc-dep-dislocated.html) – [expl:subj](pcm_nsc-dep-expl-subj.html) – [fixed](pcm_nsc-dep-fixed.html) – [flat](pcm_nsc-dep-flat.html) – [flat:foreign](pcm_nsc-dep-flat-foreign.html) – [iobj](pcm_nsc-dep-iobj.html) – [iobj:agent](pcm_nsc-dep-iobj-agent.html) – [mark](pcm_nsc-dep-mark.html) – [nmod](pcm_nsc-dep-nmod.html) – [nmod:poss](pcm_nsc-dep-nmod-poss.html) – [nsubj](pcm_nsc-dep-nsubj.html) – [nummod](pcm_nsc-dep-nummod.html) – [obj](pcm_nsc-dep-obj.html) – [obj:lvc](pcm_nsc-dep-obj-lvc.html) – [obl:agent](pcm_nsc-dep-obl-agent.html) – [obl:arg](pcm_nsc-dep-obl-arg.html) – [obl:mod](pcm_nsc-dep-obl-mod.html) – [orphan](pcm_nsc-dep-orphan.html) – [parataxis](pcm_nsc-dep-parataxis.html) – [parataxis:conj](pcm_nsc-dep-parataxis-conj.html) – [parataxis:discourse](pcm_nsc-dep-parataxis-discourse.html) – [parataxis:dislocated](pcm_nsc-dep-parataxis-dislocated.html) – [parataxis:mod](pcm_nsc-dep-parataxis-mod.html) – [parataxis:parenth](pcm_nsc-dep-parataxis-parenth.html) – [reparandum](pcm_nsc-dep-reparandum.html) – [root](pcm_nsc-dep-root.html) – [vocative](pcm_nsc-dep-vocative.html) – [xcomp](pcm_nsc-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 9242 sentences and 140859 tokens.</li>
+<li>This corpus contains 9241 sentences and 140799 tokens.</li>
 </ul>
 
 <ul>
@@ -113,11 +113,11 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 </ul>
 
 <ul>
-<li>This corpus contains 27 word types tagged as particles (PART): 's, ba, bah, dai, dat, dem, don't, gbe, ke, ko, kwa, ma, mai, masef, n't, ni, nko, nna, no, not, o, sebi, sef, self, sha, shey, wai</li>
+<li>This corpus contains 25 word types tagged as particles (PART): 's, ba, bah, dai, dat, dem, ke, ko, kwa, ma, mai, masef, n't, ni, nko, nna, no, not, o, sebi, sef, self, sha, shey, wai</li>
 </ul>
 
 <ul>
-<li>This corpus contains 67 lemmas tagged as pronouns (PRON): I, Kini, _, a'ah, am, any, anybody, anyone, anyting, anywhere, both, dat, debit, deir, dem, demsef, dere, dese, dis, dose, dream, e, everybody, everyone, everyting, eveybody, her, hersef, him, im, imsef, in, insef, it, itself, ka, mahnsef, me, my, mysef, nobody, notin, noting, oder, one, our, oursef, pump, she, shi, some, somebody, someone, sometin, someting, that, una, us, we, wetin, what, which, who, you, your, yours, yoursef</li>
+<li>This corpus contains 67 lemmas tagged as pronouns (PRON): I, Kini, _, a'ah, all, am, any, anybody, anyone, anyting, anywhere, both, dat, debit, deir, dem, demsef, dere, dese, dis, dose, dream, e, everybody, everyone, everyting, eveybody, her, hersef, him, im, imsef, insef, it, itself, ka, mahnsef, me, my, mysef, nobody, notin, noting, oder, one, our, oursef, pump, she, shi, some, somebody, someone, sometin, someting, that, una, us, we, wetin, what, which, who, you, your, yours, yoursef</li>
 </ul>
 
 <ul>
@@ -125,15 +125,15 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 </ul>
 
 <ul>
-<li>Out of the above, 9 lemmas occurred sometimes as PRON and sometimes as DET: any, both, dat, dese, dis, dose, one, some, which</li>
+<li>Out of the above, 10 lemmas occurred sometimes as PRON and sometimes as DET: all, any, both, dat, dese, dis, dose, one, some, which</li>
 </ul>
 
 <ul>
-<li>This corpus contains 25 lemmas tagged as auxiliaries (AUX): be, bin, can, cannot, con, could, dey, do, don, fit, for, gats, go, have, make, may, might, muna, must, na, never, shall, should, will, would</li>
+<li>This corpus contains 25 lemmas tagged as auxiliaries (AUX): be, bin, can, cannot, con, could, dey, do, don, fit, for, gats, go, have, make, may, might, must, na, never, no, shall, should, will, would</li>
 </ul>
 
 <ul>
-<li>Out of the above, 10 lemmas occurred sometimes as AUX and sometimes as VERB: be, con, dey, do, fit, gats, go, have, make, must</li>
+<li>Out of the above, 9 lemmas occurred sometimes as AUX and sometimes as VERB: be, dey, do, fit, gats, go, have, make, must</li>
 </ul>
 
 <ul>
@@ -162,7 +162,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
   <li>Part
   <ul>
     <li>AUX: being</li>
-    <li>VERB: according, done, born, cheating, following, going, lost, making, talking, boiled</li>
+    <li>VERB: according, born, done, cheating, following, going, making, talking, boiled, buying</li>
   </ul>
   </li>
 </ul>
@@ -177,7 +177,6 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: her</li>
       <li>PRON: she, her, herself, hersef</li>
     </ul>
   </li>
@@ -223,16 +222,16 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: her, its</li>
+      <li>ADJ: its</li>
       <li>AUX: is, was, 's, 'm, am, be, does</li>
       <li>AUX-Fin: is, was, 's, 'm, am, does</li>
-      <li>DET: dis, dat, that, da, this</li>
+      <li>DET: dat, dis, that, da, this</li>
       <li>PART: masef</li>
-      <li>PRON: I, e, am, me, my, im, dat, she, dis, it</li>
+      <li>PRON: I, e, am, me, my, im, dat, she, her, dis</li>
       <li>PRON-Fin: I</li>
-      <li>SCONJ: sey</li>
+      <li>SCONJ: dat, sey</li>
       <li>VERB-Fin: is, means, was, comes, has, begins, goes, am, depends, abounds</li>
-      <li>X: >+, {, }</li>
+      <li>X: >+, }</li>
     </ul>
   </li>
 </ul>
@@ -245,7 +244,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
   <li>Acc
     <ul>
       <li>PART: masef</li>
-      <li>PRON: am, me, dem, us, una, yourself, mysef, oursef, yoursef, myself</li>
+      <li>PRON: am, me, dem, us, una, her, yourself, mysef, oursef, yoursef</li>
     </ul>
   </li>
 </ul>
@@ -332,10 +331,10 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 <ul>
   <li>Neg
     <ul>
-      <li>AUX: never</li>
+      <li>AUX: no, never, don't, not</li>
       <li>DET: no</li>
       <li>INTJ: no</li>
-      <li>PART: no, not, n't, don't</li>
+      <li>PART: no, not, n't</li>
     </ul>
   </li>
 </ul>
@@ -368,7 +367,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 <ul>
   <li>Perf
     <ul>
-      <li>AUX: don, never</li>
+      <li>AUX: don, never, dey, done</li>
       <li>PRON: We</li>
     </ul>
   </li>
@@ -440,9 +439,9 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
     <ul>
       <li>AUX: bin, be, was, were, did, had</li>
       <li>AUX-Fin: was, were, did, had</li>
-      <li>VERB: done, born, was, said, told, cheating, lost, boiled, gave, grounded</li>
+      <li>VERB: born, done, was, said, told, cheating, boiled, gave, grounded, made</li>
       <li>VERB-Fin: was, said, told, gave, got, recommended, used, balanced, came, finished</li>
-      <li>VERB-Part: done, born, cheating, lost, boiled, grounded, made, accepted, called, closed</li>
+      <li>VERB-Part: born, done, cheating, boiled, grounded, made, accepted, called, closed, seen</li>
     </ul>
   </li>
 </ul>
@@ -490,9 +489,9 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 <ul>
   <li>Dem
     <ul>
-      <li>DET: dis, dat, dose, dese, those, that, da, this</li>
-      <li>PRON: dat, dis, dose, dese, those</li>
-      <li>X: {, }</li>
+      <li>DET: dis, dose, dese, those, that, da, this</li>
+      <li>PRON: dis, dose, dese, those</li>
+      <li>X: }</li>
     </ul>
   </li>
 </ul>
@@ -504,7 +503,6 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
       <li>DET: which</li>
       <li>PART: shey</li>
       <li>PRON: wetin, who, what</li>
-      <li>SCONJ: when</li>
     </ul>
   </li>
 </ul>
@@ -526,7 +524,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 <ul>
   <li>Rel
     <ul>
-      <li>PRON: dat, which, that</li>
+      <li>PRON: which, that</li>
     </ul>
   </li>
 </ul>
@@ -560,8 +558,8 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 <ul>
   <li>Yes
     <ul>
-      <li>ADJ: her, your, its</li>
-      <li>PRON: my, your, our, deir, her, im, we, dem, una, e</li>
+      <li>ADJ: your, its</li>
+      <li>PRON: my, your, our, deir, her, im, una, we, dem, e</li>
     </ul>
   </li>
 </ul>
@@ -609,11 +607,11 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 <ul>
   <li>3
     <ul>
-      <li>ADJ: her, its</li>
+      <li>ADJ: its</li>
       <li>AUX: is, 's, be, does</li>
       <li>AUX-Fin: is, 's, does</li>
       <li>PART: dem</li>
-      <li>PRON: e, am, de, dem, im, she, deir, it, her, imsef</li>
+      <li>PRON: e, am, de, dem, im, she, deir, her, it, imsef</li>
       <li>SCONJ: sey</li>
       <li>VERB-Fin: is, means, comes, has, begins, goes, depends, abounds, becomes, owes</li>
       <li>X: >+, de</li>
@@ -632,7 +630,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
     <ul>
       <li>Cop
         <ul>
-          <li>AUX: na, be, it's</li>
+          <li>AUX: na, be, it's, dat's</li>
           <li>INTJ: wa</li>
           <li>NOUN: feminist</li>
           <li>SCONJ: sey</li>
@@ -656,7 +654,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
     <ul>
       <li>Cop
         <ul>
-          <li>AUX: is, are, am, was, it's, 'm, dey, were</li>
+          <li>AUX: is, are, am, dey, was, it's, na, 'm, were</li>
           <li>AUX-Fin: is, are, am, was, 'm, were</li>
           <li>VERB: dey, was, am, becoming, is</li>
           <li>VERB-Fin: was, am, is</li>
@@ -676,7 +674,7 @@ The pilot corpus was recorded in various locations in Ibadan (Nigeria) by Bukola
 </ul>
 
 <ul>
-<li>This corpus uses 23 lemmas as auxiliaries (<a>aux</a>). Examples: dey, go, con, make, don, fit, bin, will, never, be, for, must, do, can, gats, should, have, would, may, shall, might, cannot, could.</li>
+<li>This corpus uses 24 lemmas as auxiliaries (<a>aux</a>). Examples: dey, go, no, con, don, make, fit, bin, will, never, be, must, for, do, can, gats, should, have, would, may, shall, might, cannot, could.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -685,18 +683,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (1815)</li>
+      <li>VERB--NOUN (1813)</li>
       <li>VERB--NOUN-ADP(as) (1)</li>
       <li>VERB--NOUN-ADP(on) (2)</li>
-      <li>VERB--PRON (330)</li>
-      <li>VERB--PRON-Acc (55)</li>
-      <li>VERB--PRON-Nom (9297)</li>
+      <li>VERB--PRON (356)</li>
+      <li>VERB--PRON-Acc (51)</li>
+      <li>VERB--PRON-Nom (9318)</li>
       <li>VERB-Fin--NOUN (37)</li>
       <li>VERB-Fin--PRON (17)</li>
-      <li>VERB-Fin--PRON-ADP(for) (1)</li>
       <li>VERB-Fin--PRON-Nom (37)</li>
-      <li>VERB-Part--NOUN (23)</li>
-      <li>VERB-Part--PRON (8)</li>
+      <li>VERB-Part--NOUN (22)</li>
+      <li>VERB-Part--PRON (6)</li>
       <li>VERB-Part--PRON-Nom (48)</li>
     </ul>
   </li>
@@ -705,28 +702,26 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (4267)</li>
-      <li>VERB--NOUN-ADP(as) (1)</li>
-      <li>VERB--NOUN-ADP(before) (1)</li>
-      <li>VERB--NOUN-ADP(in) (2)</li>
-      <li>VERB--NOUN-ADP(sey) (13)</li>
-      <li>VERB--NOUN-ADP(wey) (2)</li>
+      <li>VERB--NOUN (3896)</li>
+      <li>VERB--NOUN-ADP(in) (1)</li>
+      <li>VERB--NOUN-ADP(make) (1)</li>
+      <li>VERB--NOUN-ADP(more) (3)</li>
+      <li>VERB--NOUN-ADP(sey) (12)</li>
+      <li>VERB--NOUN-ADP(wey) (1)</li>
       <li>VERB--NOUN-Gen (1)</li>
-      <li>VERB--PRON (367)</li>
-      <li>VERB--PRON-ADP(sey) (12)</li>
-      <li>VERB--PRON-Acc (2203)</li>
-      <li>VERB--PRON-Acc-ADP(for) (1)</li>
-      <li>VERB--PRON-Nom (423)</li>
+      <li>VERB--PRON (379)</li>
+      <li>VERB--PRON-ADP(sey) (13)</li>
+      <li>VERB--PRON-Acc (1869)</li>
+      <li>VERB--PRON-Nom (328)</li>
       <li>VERB--PRON-Nom-ADP(sey) (3)</li>
-      <li>VERB-Fin--NOUN (16)</li>
+      <li>VERB-Fin--NOUN (13)</li>
       <li>VERB-Fin--PRON (1)</li>
       <li>VERB-Fin--PRON-ADP(sey) (1)</li>
-      <li>VERB-Fin--PRON-Acc (5)</li>
-      <li>VERB-Fin--PRON-Nom (1)</li>
-      <li>VERB-Part--NOUN (36)</li>
+      <li>VERB-Fin--PRON-Acc (3)</li>
+      <li>VERB-Part--NOUN (35)</li>
       <li>VERB-Part--PRON (1)</li>
       <li>VERB-Part--PRON-ADP(sey) (1)</li>
-      <li>VERB-Part--PRON-Acc (5)</li>
+      <li>VERB-Part--PRON-Acc (4)</li>
       <li>VERB-Part--PRON-Nom (7)</li>
     </ul>
   </li>
@@ -735,10 +730,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN (6)</li>
-      <li>VERB--PRON (3)</li>
-      <li>VERB--PRON-Acc (39)</li>
-      <li>VERB--PRON-Nom (1)</li>
+      <li>VERB--NOUN (402)</li>
+      <li>VERB--PRON (4)</li>
+      <li>VERB--PRON-Acc (395)</li>
+      <li>VERB--PRON-Nom (101)</li>
+      <li>VERB-Fin--NOUN (3)</li>
+      <li>VERB-Fin--PRON-Acc (2)</li>
+      <li>VERB-Fin--PRON-Nom (1)</li>
+      <li>VERB-Part--PRON-Acc (1)</li>
     </ul>
   </li>
 </ul>
@@ -754,7 +753,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 16 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>compound:prt</a>, <a>compound:redup</a>, <a>compound:svc</a>, <a>expl:subj</a>, <a>flat:foreign</a>, <a>nmod:poss</a>, <a>obj:lvc</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a>, <a>parataxis:conj</a>, <a>parataxis:discourse</a>, <a>parataxis:dislocated</a>, <a>parataxis:parenth</a></li>
+<li>This corpus uses 18 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>compound:prt</a>, <a>compound:redup</a>, <a>compound:svc</a>, <a>expl:subj</a>, <a>flat:foreign</a>, <a>iobj:agent</a>, <a>nmod:poss</a>, <a>obj:lvc</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a>, <a>parataxis:conj</a>, <a>parataxis:discourse</a>, <a>parataxis:dislocated</a>, <a>parataxis:mod</a>, <a>parataxis:parenth</a></li>
 <li>The following 2 main types are not used alone, they are always subtyped: <a>expl</a>, <a>obl</a></li>
 <li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>punct</a></li>
 </ul>

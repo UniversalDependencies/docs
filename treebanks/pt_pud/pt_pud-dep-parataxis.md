@@ -22,7 +22,7 @@ The following 9 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 13 parataxis	color:blue
-1	A	o	DET	DT	Gender=Fem|Number=Sing	2	det	_	_
+1	A	o	DET	DT	Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	voz	voz	NOUN	NN	Gender=Fem|Number=Sing	6	nsubj	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	ela	ela	PRON	INP	Gender=Fem|Number=Sing|Person=3	2	obj	_	_
@@ -31,7 +31,7 @@ The following 9 pairs of parts of speech are connected with `parataxis`: <tt><a 
 7	uma	um	DET	DT	Gender=Fem|Number=Sing	8	det	_	_
 8	volta	volta	NOUN	NN	Gender=Fem|Number=Sing	6	obj	_	_
 9	a	a	ADP	INDT	_	11	case	_	_
-10	o	o	DET	_	Gender=Masc|Number=Sing	11	det	_	_
+10	o	o	DET	_	Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	mundo	mundo	NOUN	NN	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	13	punct	_	_
 13	disse	dizer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	parataxis	_	_
@@ -52,7 +52,7 @@ The following 9 pairs of parts of speech are connected with `parataxis`: <tt><a 
 3	de	de	ADP	IN	_	4	case	_	_
 4	saída	saída	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	9	punct	_	_
-6	o	o	DET	DT	Gender=Masc|Number=Sing	7	det	_	_
+6	o	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	contigente	_	NOUN	NN	Gender=Masc|Number=Sing	9	nsubj	_	_
 8	Francês	francês	ADJ	JJ	Gender=Masc|Number=Sing	7	amod	_	_
 9	revelou	revelar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	4	parataxis	_	SpaceAfter=No

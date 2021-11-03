@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="orv_rnc-dep-flat.html">flat</a></tt>.
 
-685 nodes (2%) are attached to their parents as `flat:name`.
+688 nodes (2%) are attached to their parents as `flat:name`.
 
-685 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.16496350364964.
+688 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.16424418604651.
 
-The following 6 pairs of parts of speech are connected with `flat:name`: <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (661; 96% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (14; 2% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `flat:name`: <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (664; 97% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt> (14; 2% instances), <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -38,18 +38,18 @@ The following 6 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 13 flat:name	color:blue
-1	Сентября	сентябрь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	obl	_	Norm=Сентября|SpaceAfter=Yes
-2	въ	въ	ADP	_	_	4	case	_	Norm=въ|SpaceAfter=Yes
-3	З	3	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|NumForm=Digit	4	amod	_	Norm=3|SpaceAfter=Yes
-4	де	день	NOUN	_	Abbr=Yes	1	nmod	_	Norm=де|SpaceAfter=Yes
-5	подал	подати	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	Norm=подал|SpaceAfter=Yes
-6	грамотку	грамотка	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	Norm=грамотку|SpaceAfter=Yes
-7	Иванова	ивановъ	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes|Variant=Short	8	amod	_	Norm=Иванова|SpaceAfter=Yes
-8	приказу	приказъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	Norm=приказу|SpaceAfter=Yes
-9	Елагина	Елагинъ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	Norm=Елагина|SpaceAfter=Yes
-10	стрелец	стрѣлецъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Norm=стрелец|SpaceAfter=Yes
-11	Захарко	Захарко	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	appos	_	Norm=Захарко|SpaceAfter=Yes
-12	Ѡндреевъ	Ондрѣевъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	11	flat:name	_	Norm=Ѡндреевъ|SpaceAfter=Yes
+1	Сентября	сентябрь	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	obl	_	Norm=Сентября
+2	въ	въ	ADP	_	_	4	case	_	Norm=въ
+3	З	3	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|NumForm=Digit	4	amod	_	Norm=3
+4	де	день	NOUN	_	Abbr=Yes	1	nmod	_	Norm=де
+5	подал	подати	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=PartRes|Voice=Act	0	root	_	Norm=подал
+6	грамотку	грамотка	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	Norm=грамотку
+7	Иванова	ивановъ	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes|Variant=Short	8	amod	_	Norm=Иванова
+8	приказу	приказъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	Norm=приказу
+9	Елагина	Елагинъ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	Norm=Елагина
+10	стрелец	стрѣлецъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	Norm=стрелец
+11	Захарко	Захарко	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	appos	_	Norm=Захарко
+12	Ѡндреевъ	Ондрѣевъ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	11	flat:name	_	Norm=Ѡндреевъ
 13	снъ	сынъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	flat:name	_	Norm=снъ
 
 ~~~

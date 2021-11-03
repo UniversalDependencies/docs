@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-12 nodes (0%) are attached to their parents as `cop`.
+16 nodes (1%) are attached to their parents as `cop`.
 
-9 instances of `cop` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.66666666666667.
+12 instances of `cop` (75%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.5625.
 
-The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (5; 42% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (3; 25% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (2; 17% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (1; 8% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (1; 8% instances).
+The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (7; 44% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (3; 19% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (2; 13% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (2; 13% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (2; 13% instances).
 
 
 ~~~ conllu
@@ -48,24 +48,21 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 12 cop	color:blue
-1	Сёксень	сёксе	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	2	nmod	_	GTtags=SP,Gen,Indef
-2	вирсь	вирь	NOUN	N	Case=Nom|Definite=Def|Number=Sing	5	nsubj:cop	_	GTtags=Sg,Nom,Def
-3	ульсь	улемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past	5	cop	_	GTtags=Ind,Prt1,ScSg3
-4	пяк	пяк	ADV	Adv	AdvType=Deg	5	advmod:deg	_	GTtags=Deg
-5	мазы	мази	ADJ	A	Case=Nom|Definite=Ind|Number=Sing	0	root	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
-6	,	,	PUNCT	CLB	_	10	punct	_	_
-7	кодама	кодама	ADJ	A	Case=Nom|Definite=Ind|Number=Sing|PronType=Int	9	amod	_	GTtags=Interr,Sg,Nom,Indef
-8	аньцек	аньцек	ADV	Adv	_	7	advmod:foc	_	_
-9	краскат	краска	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	10	nsubj:cop	_	GTtags=Pl,Nom,Indef
-10	сонь	сон	PRON	Pron	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	conj	_	GTtags=Pers,Sg3,Gen
-11	эсонза	эса	ADP	Adp	Case=Ine|Number[psor]=Sing|Person[psor]=3	10	case	_	GTtags=Ine,PxSg3
-12	ашельхть	аш	AUX	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	10	cop	_	GTtags=Aux,Neg,Loc,Ind,Prt2,ScPl3|SpaceAfter=No
-13	.	.	PUNCT	CLB	_	5	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 cop	color:blue
+1	Ужяль	ужяль	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	0	root	_	GTtags=Sg,Nom,Indef
+2	—	—	PUNCT	PUNCT	_	7	punct	_	_
+3	мондедон	мон	PRON	Pron	Case=Abl|Number=Sing|Person=1|PronType=Prs	5	nmod:comp	_	GTtags=Pers,Sg1,Abl
+4	сяда	сяда	ADV	Adv	AdvType=Deg	5	advmod:deg	_	GTtags=Deg
+5	инголе	инголе	ADV	Adv	Case=Loc	7	advmod:tmod	_	GTtags=Loc
+6	ни	ни	ADV	Adv	AdvType=Tim	5	advmod:tmod	_	GTtags=Sem/Time
+7	тяса	тяса	ADV	Adv	Case=Ine	1	conj	_	GTtags=Ine
+8	ульсть	улемс	AUX	V	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Past	7	cop	_	GTtags=Ind,Prt1,ScPl3
+9	инжихть	инжи	NOUN	N	Case=Nom|Definite=Ind|Number=Plur	7	nsubj:cop	_	GTtags=Pl,Nom,Indef|SpaceAfter=No
+10	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
 

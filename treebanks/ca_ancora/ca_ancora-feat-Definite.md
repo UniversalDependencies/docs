@@ -24,7 +24,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (63638; 100% of non-empty `Definite`): <em>el, la, l', els, les</em>
 * `Ind` (16; 0% of non-empty `Definite`): <em>en, l', al, col·laboració, la, sa, ses, suficient</em>
-* `EMPTY` (23620): <em>un, una, la, aquest, seva, aquesta, el, seu, les, seus</em>
+* `EMPTY` (23614): <em>un, una, la, aquest, seva, aquesta, el, seu, les, seus</em>
 
 <table>
   <tr><th>Paradigm <i>el</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -39,5 +39,5 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
-<tt>DET --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> DET</tt> (15; 100%).
+<tt>DET --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> DET</tt> (18; 100%).
 

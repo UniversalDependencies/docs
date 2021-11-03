@@ -26,7 +26,7 @@ The following 20 pairs of parts of speech are connected with `aux`: <tt><a href=
 1	¿	¿	PUNCT	_	_	4	punct	_	SpaceAfter=No
 2	Cómo	cómo	ADV	_	_	4	advmod	_	_
 3	habéis	haber	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
-4	vivido	vivido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+4	vivido	vivir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 5	toda	todo	DET	_	Gender=Fem|Number=Sing|PronType=Tot	7	det	_	_
 6	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
 7	expectación	expectación	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No

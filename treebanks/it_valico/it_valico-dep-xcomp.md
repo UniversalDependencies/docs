@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-117 nodes (2%) are attached to their parents as `xcomp`.
+118 nodes (2%) are attached to their parents as `xcomp`.
 
-117 instances of `xcomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.00854700854701.
+118 instances of `xcomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.
 
-The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (76; 65% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (27; 23% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (5; 4% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt> (5; 4% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (4; 3% instances).
+The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (77; 65% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (27; 23% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (5; 4% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt> (5; 4% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (4; 3% instances).
 
 
 ~~~ conllu

@@ -25,10 +25,10 @@ The following 18 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 1	Quem	_	PRON	WP	_	2	nsubj	_	_
 2	consegue	conseguir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 3	parar	_	VERB	VB	_	2	xcomp	_	_
-4	o	o	DET	DT	Gender=Masc|Number=Sing	5	det	_	_
+4	o	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	time	time	NOUN	NN	Gender=Masc|Number=Sing	3	obj	_	_
 6	de	de	ADP	INDT	_	8	case	_	_
-7	a	o	DET	_	Gender=Fem|Number=Sing	8	det	_	_
+7	a	o	DET	_	Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	Austrália	Austrália	PROPN	NNP	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
 9	?	?	PUNCT	.	_	2	punct	_	_
 
@@ -41,14 +41,14 @@ The following 18 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 xcomp	color:blue
-1	A	o	DET	DT	Gender=Fem|Number=Sing	2	det	_	_
+1	A	o	DET	DT	Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	razão	razão	NOUN	NN	Gender=Fem|Number=Sing	12	nsubj	_	_
 3	para	para	ADP	IN	_	4	case	_	_
 4	anunciar	_	VERB	VB	_	2	xcomp	_	_
-5	o	o	DET	DT	Gender=Masc|Number=Sing	6	det	_	_
+5	o	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	vídeo	vídeo	NOUN	NN	Gender=Masc|Number=Sing	4	obj	_	_
 7	em	em	ADP	INDT	_	9	case	_	_
-8	a	o	DET	_	Gender=Fem|Number=Sing	9	det	_	_
+8	a	o	DET	_	Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	Alemanha	Alemanha	PROPN	NNP	Gender=Fem|Number=Sing	4	obl	_	_
 10	não	não	ADV	RB	Polarity=Neg	12	advmod	_	_
 11	é	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	cop	_	_
@@ -67,13 +67,13 @@ The following 18 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 1	Para	_	ADP	IN	_	2	case	_	_
 2	já	já	ADV	RB	_	7	xcomp	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	_
-4	os	o	DET	DT	Gender=Masc|Number=Plur	5	det	_	_
+4	os	o	DET	DT	Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	analistas	analista	NOUN	NN	Gender=Masc|Number=Plur	7	nsubj	_	_
 6	estão	estar	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres	7	cop	_	_
 7	hesitantes	hesitante	ADJ	JJ	Gender=Masc|Number=Plur	0	root	_	_
 8	em	em	ADP	IN	_	9	case	_	_
 9	eliminar	_	VERB	VB	_	7	xcomp	_	_
-10	o	o	DET	DT	Gender=Masc|Number=Sing	11	det	_	_
+10	o	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	serviço	serviço	NOUN	NN	Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	7	punct	_	_
 

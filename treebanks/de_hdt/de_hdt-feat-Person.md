@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-1463511 tokens (43%) have a non-empty value of `Person`.
+1463510 tokens (42%) have a non-empty value of `Person`.
 161798 types (86%) occur at least once with a non-empty value of `Person`.
 57349 lemmas (82%) occur at least once with a non-empty value of `Person`.
-The feature is used with 10 part-of-speech tags: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (723034; 21% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (193986; 6% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (134429; 4% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (134057; 4% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (125416; 4% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (71297; 2% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (52978; 2% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (19099; 1% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (9214; 0% instances), <tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (723034; 21% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (193986; 6% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (134429; 4% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (134057; 4% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (125416; 4% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (71297; 2% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (52978; 2% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (19099; 1% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (9214; 0% instances).
 
 ### `NOUN`
 
@@ -142,14 +142,14 @@ The most frequent other feature values with which `X` and `Person` co-occurred: 
 
 ### `DET`
 
-19099 <tt><a href="de_hdt-pos-DET.html">DET</a></tt> tokens (5% of all `DET` tokens) have a non-empty value of `Person`.
+19099 <tt><a href="de_hdt-pos-DET.html">DET</a></tt> tokens (4% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (12462; 65%), <tt><a href="de_hdt-feat-PronType.html">PronType</a></tt><tt>=Ind,Neg,Tot</tt> (11301; 59%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (10611; 56%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="de_hdt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (19099; 100%), <tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (12462; 65%), <tt><a href="de_hdt-feat-PronType.html">PronType</a></tt><tt>=Ind,Neg,Tot</tt> (11301; 59%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (10611; 56%).
 
 `DET` tokens may have the following values of `Person`:
 
 * `3` (19099; 100% of non-empty `Person`): <em>keine, alle, kein, einige, mehr, aller, allen, keinen, mehrere, einigen</em>
-* `EMPTY` (384685): <em>die, der, den, das, des, eine, dem, ein, einen, einem</em>
+* `EMPTY` (440875): <em>der, die, dem, den, das, des, eine, ein, einen, einem</em>
 
 `Person` seems to be **lexical feature** of `DET`. 100% lemmas (47) occur only with one value of `Person`.
 
@@ -165,15 +165,6 @@ The most frequent other feature values with which `ADJ` and `Person` co-occurred
 * `EMPTY` (259379): <em>neue, neuen, ersten, deutschen, deutsche, anderen, weitere, eigenen, erste, letzten</em>
 
 `Person` seems to be **lexical feature** of `ADJ`. 100% lemmas (105) occur only with one value of `Person`.
-
-### `SCONJ`
-
-1 <tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Person`.
-
-`SCONJ` tokens may have the following values of `Person`:
-
-* `3` (1; 100% of non-empty `Person`): <em>dass</em>
-* `EMPTY` (29441): <em>dass, um, wenn, ob, daß, da, während, weil, nachdem, als</em>
 
 ## Relations with Agreement in `Person`
 

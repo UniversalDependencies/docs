@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="id_pud-pos-VERB.htm
 
 2395 <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="id_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1892; 79%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="id_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1891; 79%).
 
 `VERB` tokens may have the following values of `Mood`:
 
@@ -29,13 +29,12 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="id_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (296; 100%),
+<tt>VERB --[<tt><a href="id_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (295; 100%),
 <tt>VERB --[<tt><a href="id_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (220; 100%),
 <tt>VERB --[<tt><a href="id_pud-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (176; 100%),
 <tt>VERB --[<tt><a href="id_pud-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (69; 100%),
 <tt>VERB --[<tt><a href="id_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (69; 100%),
 <tt>VERB --[<tt><a href="id_pud-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (6; 100%),
-<tt>VERB --[<tt><a href="id_pud-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="id_pud-dep-acl.html">acl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="id_pud-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="id_pud-dep-obl.html">obl</a></tt>]--> VERB</tt> (1; 100%).

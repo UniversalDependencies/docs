@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `flat`: <tt><a href="myv_jr-dep-flat-name.html">flat:name</a></tt>.
 
-16 nodes (0%) are attached to their parents as `flat`.
+17 nodes (0%) are attached to their parents as `flat`.
 
-16 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.5.
+17 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.41176470588235.
 
-The following 4 pairs of parts of speech are connected with `flat`: <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (6; 38% instances), <tt><a href="myv_jr-pos-X.html">X</a></tt>-<tt><a href="myv_jr-pos-X.html">X</a></tt> (6; 38% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (3; 19% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 6% instances).
+The following 4 pairs of parts of speech are connected with `flat`: <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (6; 35% instances), <tt><a href="myv_jr-pos-X.html">X</a></tt>-<tt><a href="myv_jr-pos-X.html">X</a></tt> (6; 35% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (4; 24% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -25,15 +25,15 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 1 2 flat	color:blue
 1	Нал	нал	PROPN	N	Case=Nom|Definite=Ind|Number=Sing	3	nmod	_	GTtags=Sg,Nom,Indef
 2	веле	веле	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	1	flat	_	GTtags=Sem/Plc,Sg,Nom,Indef
-3	пестэнть	пе	NOUN	N	Case=Ela|Definite=Def|Number=Sing	7	obl	_	GTtags=Sem/Plc,Sg,Ela,Def
+3	пестэнть	пе	NOUN	N	Case=Ela|Definite=Def|Number=Sing	8	obl	_	GTtags=Sem/Plc,Sg,Ela,Def
 4	кол	кол	ADJ	A	_	5	amod	_	_
-5	вармась	варма	NOUN	N	Case=Nom|Definite=Def|Number=Sing	7	nsubj	_	GTtags=Sg,Nom,Def
+5	вармась	варма	NOUN	N	Case=Nom|Definite=Def|Number=Sing	8	nsubj	_	GTtags=Sg,Nom,Def
 6	тензэ	сон	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Prs|Variant=Short	8	obl:agent	_	GTtags=Pers,Sg3,Dat,Short
-7	кармась	кармамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
-8	марявомо	марявомс	VERB	V	Case=Loc|Valency=1|VerbForm=Inf	7	xcomp	_	GTtags=IV,Inf,Loc
+7	кармась	кармамс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	8	aux:aspect	_	GTtags=IV,Ind,Prt1,ScSg3
+8	марявомо	марявомс	VERB	V	Case=Loc|Valency=1|VerbForm=Inf	0	root	_	GTtags=IV,Inf,Loc
 9	седе	седе	ADV	Adv	Degree=Cmp	10	advmod:comp	_	GTtags=Comp
 10	сэтьмекс	сэтьме	ADJ	A	Case=Tra|Definite=Ind|Number=Plur,Sing	8	xcomp	_	GTtags=Der/MWN,N,SP,Tra,Indef|SpaceAfter=No
-11	.	.	PUNCT	CLB	_	7	punct	_	_
+11	.	.	PUNCT	CLB	_	8	punct	_	_
 
 ~~~
 

@@ -64,7 +64,7 @@ The following 10 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 9 12 acl	color:blue
 1	Em	_	ADP	IN	_	2	case	_	_
 2	2007	_	NUM	CD	Gender=Masc	9	nmod	_	ToDo=nmod
-3	o	o	DET	DT	Gender=Masc|Number=Sing	4	det	_	_
+3	o	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	filme	filme	NOUN	NN	Gender=Masc|Number=Sing	9	nsubj	_	_
 5	mais	mais	ADV	RBS	_	6	advmod	_	_
 6	bem	bem	ADV	_	_	7	advmod	_	_

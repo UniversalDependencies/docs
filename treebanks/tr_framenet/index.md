@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Neslihan Cesur, Aslı Kuzgun, Olcay Taner Yıldız, Büşra Marşan, Oğuzhan Kuyrukçu, Bilge Nas Arıcan, Ezgi Sanıyar, Neslihan Kara, Merve Özçelik.
 
 Repository: [UD_Turkish-FrameNet](https://github.com/UniversalDependencies/UD_Turkish-FrameNet)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_framenet28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_framenet29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-SA 4.0
 
@@ -77,7 +77,7 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
 
 ## Relations
 
-[acl](tr_framenet-dep-acl.html) – [advcl](tr_framenet-dep-advcl.html) – [advmod](tr_framenet-dep-advmod.html) – [amod](tr_framenet-dep-amod.html) – [appos](tr_framenet-dep-appos.html) – [aux](tr_framenet-dep-aux.html) – [case](tr_framenet-dep-case.html) – [cc](tr_framenet-dep-cc.html) – [ccomp](tr_framenet-dep-ccomp.html) – [compound](tr_framenet-dep-compound.html) – [conj](tr_framenet-dep-conj.html) – [csubj](tr_framenet-dep-csubj.html) – [det](tr_framenet-dep-det.html) – [discourse](tr_framenet-dep-discourse.html) – [fixed](tr_framenet-dep-fixed.html) – [flat](tr_framenet-dep-flat.html) – [list](tr_framenet-dep-list.html) – [mark](tr_framenet-dep-mark.html) – [nmod](tr_framenet-dep-nmod.html) – [nsubj](tr_framenet-dep-nsubj.html) – [nummod](tr_framenet-dep-nummod.html) – [obj](tr_framenet-dep-obj.html) – [obl](tr_framenet-dep-obl.html) – [orphan](tr_framenet-dep-orphan.html) – [parataxis](tr_framenet-dep-parataxis.html) – [punct](tr_framenet-dep-punct.html) – [root](tr_framenet-dep-root.html) – [vocative](tr_framenet-dep-vocative.html) – [xcomp](tr_framenet-dep-xcomp.html)
+[acl](tr_framenet-dep-acl.html) – [advcl](tr_framenet-dep-advcl.html) – [advmod](tr_framenet-dep-advmod.html) – [amod](tr_framenet-dep-amod.html) – [appos](tr_framenet-dep-appos.html) – [aux](tr_framenet-dep-aux.html) – [case](tr_framenet-dep-case.html) – [cc](tr_framenet-dep-cc.html) – [ccomp](tr_framenet-dep-ccomp.html) – [compound](tr_framenet-dep-compound.html) – [conj](tr_framenet-dep-conj.html) – [csubj](tr_framenet-dep-csubj.html) – [det](tr_framenet-dep-det.html) – [discourse](tr_framenet-dep-discourse.html) – [fixed](tr_framenet-dep-fixed.html) – [flat](tr_framenet-dep-flat.html) – [iobj](tr_framenet-dep-iobj.html) – [list](tr_framenet-dep-list.html) – [mark](tr_framenet-dep-mark.html) – [nmod](tr_framenet-dep-nmod.html) – [nsubj](tr_framenet-dep-nsubj.html) – [nummod](tr_framenet-dep-nummod.html) – [obj](tr_framenet-dep-obj.html) – [obl](tr_framenet-dep-obl.html) – [orphan](tr_framenet-dep-orphan.html) – [parataxis](tr_framenet-dep-parataxis.html) – [punct](tr_framenet-dep-punct.html) – [root](tr_framenet-dep-root.html) – [vocative](tr_framenet-dep-vocative.html) – [xcomp](tr_framenet-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -139,7 +139,7 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: değildi</li>
+    <li>AUX: değildi, değilim</li>
     <li>VERB: etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, ettim, gitti</li>
   </ul>
   </li>
@@ -167,8 +167,7 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
     <ul>
       <li>NOUN: insanlar, şeyler, olanları, yıllar, çocuklar, gözleri, polisler, çocukları, gözlerini, işler</li>
       <li>PROPN: Ölenler</li>
-      <li>VERB: ettiler, ettik, kaldık, aldık, aldılar, ediyorlar, koydular, çıktık, döndük, edelim</li>
-      <li>VERB-Fin: ettiler, ettik, kaldık, aldık, aldılar, ediyorlar, koydular, çıktık, döndük, getirdik</li>
+      <li>VERB-Fin: ettiler, ettik, kaldık, aldık, aldılar, ediyorlar, koydular, çıktık, döndük, edelim</li>
     </ul>
   </li>
 </ul>
@@ -176,8 +175,7 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
 <ul>
   <li>Sing
     <ul>
-      <li>AUX: değildi, değilim</li>
-      <li>AUX-Fin: değildi</li>
+      <li>AUX-Fin: değildi, değilim</li>
       <li>NOUN: para, adam, çocuk, şey, gün, iş, şeyi, ay, işi, başına</li>
       <li>PROPN: Hanım, Nihal, Arsen, Jordan, Nihal'in, Seni, Ayşe, Firdevs, Rüştü, Türkiye</li>
       <li>VERB: etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, ettim, gitti</li>
@@ -305,8 +303,7 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
 <ul>
   <li>Neg
     <ul>
-      <li>VERB: alamadı, demiyor, kalmadı, gelmez, alamıyordu, açamıyorum, başaramadı, dinlemedi, dinlemiyor, edememiş</li>
-      <li>VERB-Fin: alamadı, demiyor, kalmadı, gelmez, alamıyordu, açamıyorum, başaramadı, dinlemedi, dinlemiyor, edemiyorum</li>
+      <li>VERB-Fin: alamadı, demiyor, kalmadı, gelmez, alamıyordu, açamıyorum, başaramadı, dinlemedi, dinlemiyor, edememiş</li>
     </ul>
   </li>
 </ul>
@@ -314,7 +311,6 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
 <ul>
   <li>Pos
     <ul>
-      <li>VERB: etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, ettim, gitti</li>
       <li>VERB-Fin: etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, ettim, gitti</li>
       <li>VERB-Vnoun: akmasın, sürümekti, yağlamaktı, yüzmekti</li>
     </ul>
@@ -341,7 +337,6 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
   <li>Perf
     <ul>
       <li>AUX-Fin: değildi</li>
-      <li>VERB: etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, ettim, gitti</li>
       <li>VERB-Fin: etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, ettim, gitti</li>
       <li>VERB-Vnoun: sürümekti, yağlamaktı, yüzmekti</li>
     </ul>
@@ -351,7 +346,6 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
 <ul>
   <li>Prog
     <ul>
-      <li>VERB: ediyor, yapıyor, atıyor, bakıyor, alıyor, demiyor, ediyorlar, ediyorum, kesiyor, veriyor</li>
       <li>VERB-Fin: ediyor, yapıyor, atıyor, bakıyor, alıyor, demiyor, ediyorlar, ediyorum, kesiyor, veriyor</li>
     </ul>
   </li>
@@ -364,8 +358,23 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
 <ul>
   <li>Cnd
     <ul>
-      <li>VERB: olursa, çabalarsan, varsa, yaptıysa, Yetmezse, alırsan, azaltırsan, bakılırsa, büyütmezsek, ederse</li>
-      <li>VERB-Fin: olursa, çabalarsan, yaptıysa, Yetmezse, alırsan, azaltırsan, bakılırsa, büyütmezsek, ederse, edersen</li>
+      <li>VERB-Fin: varsa, yaptıysa, geldiyse, kazanıyorsa, kuşattıysa, mümkünse, yazsa, yorulduysa, çalıştıysa</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>CndGen
+    <ul>
+      <li>VERB-Fin: olursa, çabalarsan, Yetmezse, alırsan, azaltırsan, bakılırsa, büyütmezsek, ederse, edersen, ederseniz</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>CndGenPot
+    <ul>
+      <li>VERB-Fin: çoğaltabilirsek</li>
     </ul>
   </li>
 </ul>
@@ -373,8 +382,33 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
 <ul>
   <li>Des
     <ul>
-      <li>VERB: olsa, kalkışsa, atsa, bıraksak, demese, gelse, getirsek, geçirse, gitmesek, gitse</li>
-      <li>VERB-Fin: küçülmeseydin</li>
+      <li>VERB-Fin: olsa, kalkışsa, atsa, bıraksak, demese, gelse, getirsek, geçirse, gitmesek, gitse</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Gen
+    <ul>
+      <li>AUX-Fin: değilim</li>
+      <li>VERB-Fin: eder, olur, geçer, ederim, alır, çıkar, bilir, gelmez, girer, yapar</li>
+      <li>VERB-Vnoun: akmasın</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>GenNec
+    <ul>
+      <li>VERB-Fin: olmalıdır</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>GenPot
+    <ul>
+      <li>VERB-Fin: kotaramam, alabiliriz, alabilirsin, alabilirsiniz, açabilir, bakamaz, benzetilebilir, beğendiremezdik, değiştirebiliriz, gelemezdi</li>
     </ul>
   </li>
 </ul>
@@ -382,7 +416,7 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
 <ul>
   <li>Imp
     <ul>
-      <li>VERB: et, bırak, aç, değiştir, al, dinle, gel, geç, olsun, çabala</li>
+      <li>VERB-Fin: et, bırak, aç, değiştir, al, dinle, gel, geç, olsun, çabala</li>
     </ul>
   </li>
 </ul>
@@ -400,8 +434,7 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
 <ul>
   <li>Nec
     <ul>
-      <li>VERB: etmeliyiz, beklemeliyiz, biçmeliyiz, bırakmamalısın, değiştirmelisin, etmelisiniz, getirmelisin, geçmeliydim, incelemeliyim, kazanmalıydım</li>
-      <li>VERB-Fin: geçmeliydim, kazanmalıydım, olmalıydı, tutmalıydı</li>
+      <li>VERB-Fin: etmeliyiz, beklemeliyiz, biçmeliyiz, bırakmamalısın, değiştirmelisin, etmelisiniz, getirmelisin, geçmeliydim, incelemeliyim, kazanmalıydım</li>
     </ul>
   </li>
 </ul>
@@ -409,7 +442,15 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
 <ul>
   <li>Opt
     <ul>
-      <li>VERB: sallaya, gide, havlaya, edelim, açalım, bırakalım, bırakayım, geçelim, kaldıralım, kaynaya</li>
+      <li>VERB-Fin: sallaya, gide, havlaya, edelim, açalım, bırakalım, bırakayım, geçelim, kaldıralım, kaynaya</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pot
+    <ul>
+      <li>VERB-Fin: alamadı, alamıyordu, açamıyorum, başaramadı, edememiş, edemiyorum, alabiliyordu, alamadım, alamıyorum, açınsayabildi</li>
     </ul>
   </li>
 </ul>
@@ -439,9 +480,9 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
 <ul>
   <li>Pres
     <ul>
-      <li>AUX: değilim</li>
+      <li>AUX-Fin: değilim</li>
       <li>VERB: ediyor, eder, olur, yapıyor, atıyor, bakıyor, et, geçer, sallaya, bırak</li>
-      <li>VERB-Fin: ediyor, eder, olur, yapıyor, atıyor, bakıyor, geçer, ederim, alır, alıyor</li>
+      <li>VERB-Fin: ediyor, eder, olur, yapıyor, atıyor, bakıyor, et, geçer, sallaya, bırak</li>
       <li>VERB-Vnoun: akmasın</li>
     </ul>
   </li>
@@ -454,8 +495,7 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
 <ul>
   <li>Cau
     <ul>
-      <li>VERB: çıkarırdı, kaçırdı, çıkarmış, çıkarıyor, aksettirdi, alıştırmışlar, arttıralım, attırmadı, azaltırsan, açtırmadı</li>
-      <li>VERB-Fin: çıkarırdı, kaçırdı, çıkarıyor, aksettirdi, attırmadı, azaltırsan, açtırmadı, beğendiremezdik, bildirdi, bileylettik</li>
+      <li>VERB-Fin: çıkarırdı, kaçırdı, çıkarmış, çıkarıyor, aksettirdi, alıştırmışlar, arttıralım, attırmadı, azaltırsan, açtırmadı</li>
     </ul>
   </li>
 </ul>
@@ -463,7 +503,6 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
 <ul>
   <li>Pass
     <ul>
-      <li>VERB: edildi, kesildi, sallanıyor, çekildi, atıldı, devrildi, koyuldu, alınmaz, atanmıştı, atılmıştı</li>
       <li>VERB-Fin: edildi, kesildi, sallanıyor, çekildi, atıldı, devrildi, koyuldu, alınmaz, atanmıştı, atılmıştı</li>
     </ul>
   </li>
@@ -472,8 +511,7 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
 <ul>
   <li>Rcp
     <ul>
-      <li>VERB: çekişe, elleşme, çöküştüler</li>
-      <li>VERB-Fin: çöküştüler</li>
+      <li>VERB-Fin: çekişe, elleşme, çöküştüler</li>
     </ul>
   </li>
 </ul>
@@ -495,9 +533,26 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
 </ul>
 
 <ul>
+  <li>Art
+    <ul>
+      <li>DET: bir, bu, her, tüm, o, hiçbir, birçok, şu, birkaç, bazı</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Dem
     <ul>
       <li>PRON: bu, bunları, bunu, onların, Bundan, Bunlar, onlara, şunu, buna, bunun</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>ADV: hep</li>
+      <li>PRON: herkes, hepsini, kimse, biri, herkese, kimseye, hepimizin, hepsi, herkesin, kimsenin</li>
     </ul>
   </li>
 </ul>
@@ -507,8 +562,15 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
     <ul>
       <li>ADV: ne, nasıl, kaçarak, kaçıp</li>
       <li>AUX: mı, mu, mi, musun, mi?, misin, miydim, muydu, mü, mı?</li>
-      <li>NOUN: kaçış</li>
       <li>PRON: ne, Kimden, neresi, Kimi, hangi, kim, kimin, neye</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>PRON: Hiçbirimizi</li>
     </ul>
   </li>
 </ul>
@@ -550,6 +612,14 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
   </li>
 </ul>
 
+<ul>
+  <li>Ord
+    <ul>
+      <li>NUM: %</li>
+    </ul>
+  </li>
+</ul>
+
 
 <ul>
   <li><a>Reflex</a></li>
@@ -570,8 +640,7 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
 <ul>
   <li>1
     <ul>
-      <li>AUX: değilim</li>
-      <li>VERB: ettim, oldum, aldım, ettik, kazandım, verdim, attım, dolaştım, kaldık, ederim</li>
+      <li>AUX-Fin: değilim</li>
       <li>VERB-Fin: ettim, oldum, aldım, ettik, kazandım, verdim, attım, dolaştım, kaldık, ederim</li>
     </ul>
   </li>
@@ -580,8 +649,7 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
 <ul>
   <li>2
     <ul>
-      <li>VERB: et, bırak, aç, değiştir, göreceksin, al, dinle, gel, geç, çabala</li>
-      <li>VERB-Fin: göreceksin, çabalarsan, olacaksın, Duydun, alabilirsin, alabilirsiniz, alacaksın, alırsan, alırsın, alıyorsun</li>
+      <li>VERB-Fin: et, bırak, aç, değiştir, göreceksin, al, dinle, gel, geç, çabala</li>
       <li>VERB-Vnoun: akmasın</li>
     </ul>
   </li>
@@ -617,8 +685,7 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
   <li>Sing
     <ul>
       <li>NOUN: başına, parasını, işi, şeyi, üstüne, altına, günü, içinde, karşısında, olduğu</li>
-      <li>VERB: karısıyım, yengenim, acemisin, aktörüsün, biçimidir, deyimidir, yolundaydı</li>
-      <li>VERB-Fin: yolundaydı</li>
+      <li>VERB-Fin: karısıyım, yengenim, acemisin, aktörüsün, biçimidir, deyimidir, yolundaydı</li>
     </ul>
   </li>
 </ul>
@@ -637,14 +704,13 @@ Marşan, B., Kara, N., Özçelik, M., Arıcan, B. N., Cesur, N., Kuzgun, A., ...
       <li>2
         <ul>
           <li>NOUN: yüzüne, Güveniniz, aklından, amcanın, ağzını, başına, dişinden, elindekini, gözünü, hatırında</li>
-          <li>VERB: yengenim</li>
+          <li>VERB-Fin: yengenim</li>
         </ul>
       </li>
       <li>3
         <ul>
           <li>NOUN: parasını, başına, işi, şeyi, üstüne, altına, günü, içinde, karşısında, olduğu</li>
-          <li>VERB: karısıyım, acemisin, aktörüsün, biçimidir, deyimidir, yolundaydı</li>
-          <li>VERB-Fin: yolundaydı</li>
+          <li>VERB-Fin: karısıyım, acemisin, aktörüsün, biçimidir, deyimidir, yolundaydı</li>
         </ul>
       </li>
     </ul>
@@ -669,23 +735,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Acc (6)</li>
-      <li>VERB--NOUN-Nom (101)</li>
-      <li>VERB--PRON (26)</li>
-      <li>VERB--PRON-ADP(de) (1)</li>
       <li>VERB-Fin--NOUN-Abl-ADP(beri) (1)</li>
       <li>VERB-Fin--NOUN-Abl-ADP(ötürü) (1)</li>
-      <li>VERB-Fin--NOUN-Acc (21)</li>
+      <li>VERB-Fin--NOUN-Acc (26)</li>
       <li>VERB-Fin--NOUN-Dat (4)</li>
-      <li>VERB-Fin--NOUN-Gen (4)</li>
+      <li>VERB-Fin--NOUN-Gen (3)</li>
       <li>VERB-Fin--NOUN-Loc (1)</li>
-      <li>VERB-Fin--NOUN-Nom (727)</li>
+      <li>VERB-Fin--NOUN-Nom (833)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(bile) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(da) (3)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(de) (3)</li>
-      <li>VERB-Fin--PRON (86)</li>
+      <li>VERB-Fin--PRON (112)</li>
       <li>VERB-Fin--PRON-ADP(da) (3)</li>
-      <li>VERB-Fin--PRON-ADP(de) (2)</li>
+      <li>VERB-Fin--PRON-ADP(de) (3)</li>
       <li>VERB-Vnoun--PRON (1)</li>
     </ul>
   </li>
@@ -694,23 +756,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Abl (3)</li>
-      <li>VERB--NOUN-Acc (72)</li>
-      <li>VERB--NOUN-Acc-ADP(da) (1)</li>
-      <li>VERB--NOUN-Dat (11)</li>
-      <li>VERB--NOUN-Nom (49)</li>
-      <li>VERB--PRON (16)</li>
-      <li>VERB-Fin--NOUN-Abl (14)</li>
-      <li>VERB-Fin--NOUN-Acc (522)</li>
+      <li>VERB-Fin--NOUN-Abl (17)</li>
+      <li>VERB-Fin--NOUN-Acc (592)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(da) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(dahi) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(de) (2)</li>
-      <li>VERB-Fin--NOUN-Dat (55)</li>
+      <li>VERB-Fin--NOUN-Dat (65)</li>
       <li>VERB-Fin--NOUN-Gen (2)</li>
-      <li>VERB-Fin--NOUN-Loc (4)</li>
-      <li>VERB-Fin--NOUN-Nom (319)</li>
+      <li>VERB-Fin--NOUN-Loc (2)</li>
+      <li>VERB-Fin--NOUN-Nom (367)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(de) (2)</li>
-      <li>VERB-Fin--PRON (96)</li>
+      <li>VERB-Fin--PRON (112)</li>
       <li>VERB-Fin--PRON-ADP(için) (1)</li>
       <li>VERB-Vnoun--NOUN-Nom (1)</li>
     </ul>
@@ -720,6 +776,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
+      <li>VERB-Fin--NOUN-Dat (1)</li>
     </ul>
   </li>
 </ul>
@@ -739,5 +796,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus does not use relation subtypes.</li>
-<li>The following 8 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>cop</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>cop</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

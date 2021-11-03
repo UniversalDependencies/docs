@@ -73,7 +73,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 `AUX` tokens may have the following values of `Number`:
 
 * `Sing` (1725; 100% of non-empty `Number`): <em>was, is, 's, has, does, am</em>
-* `EMPTY` (3441): <em>had, be, were, are, can, would, been, could, have, will</em>
+* `EMPTY` (3440): <em>had, be, were, are, can, would, been, could, have, will</em>
 
 ### `VERB`
 
@@ -85,7 +85,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 * `Plur` (1; 0% of non-empty `Number`): <em>mix</em>
 * `Sing` (908; 100% of non-empty `Number`): <em>was, is, 's, has, says, goes, makes, knows, means, contains</em>
-* `EMPTY` (10199): <em>said, know, had, have, see, made, do, come, make, came</em>
+* `EMPTY` (10201): <em>said, know, had, have, see, made, do, come, make, came</em>
 
 `Number` seems to be **lexical feature** of `VERB`. 100% lemmas (193) occur only with one value of `Number`.
 
@@ -122,7 +122,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 `ADV` tokens may have the following values of `Number`:
 
 * `Sing` (2; 100% of non-empty `Number`): <em>inside, that</em>
-* `EMPTY` (5123): <em>out, up, so, then, back, now, very, just, too, again</em>
+* `EMPTY` (5088): <em>out, up, so, then, back, now, very, just, too, again</em>
 
 ### `NUM`
 
@@ -149,14 +149,14 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="en_lines-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1576; 63%),
+<tt>NOUN --[<tt><a href="en_lines-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1564; 63%),
 <tt>NOUN --[<tt><a href="en_lines-dep-compound.html">compound</a></tt>]--> NOUN</tt> (1028; 66%),
 <tt>NOUN --[<tt><a href="en_lines-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (992; 62%),
 <tt>NOUN --[<tt><a href="en_lines-dep-conj.html">conj</a></tt>]--> NOUN</tt> (851; 75%),
 <tt>NOUN --[<tt><a href="en_lines-dep-cop.html">cop</a></tt>]--> AUX</tt> (374; 68%),
 <tt>PROPN --[<tt><a href="en_lines-dep-flat.html">flat</a></tt>]--> PROPN</tt> (322; 86%),
-<tt>NOUN --[<tt><a href="en_lines-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (166; 65%),
+<tt>NOUN --[<tt><a href="en_lines-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (165; 65%),
 <tt>NOUN --[<tt><a href="en_lines-dep-compound.html">compound</a></tt>]--> PROPN</tt> (155; 62%),
 <tt>PROPN --[<tt><a href="en_lines-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (143; 86%),
-<tt>NOUN --[<tt><a href="en_lines-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (123; 77%).
+<tt>NOUN --[<tt><a href="en_lines-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (128; 75%).
 

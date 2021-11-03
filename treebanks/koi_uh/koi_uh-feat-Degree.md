@@ -16,14 +16,14 @@ The feature is used with 2 part-of-speech tags: <tt><a href="koi_uh-pos-ADJ.html
 
 ### `ADJ`
 
-5 <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> tokens (16% of all `ADJ` tokens) have a non-empty value of `Degree`.
+5 <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> tokens (15% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
 The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5; 100%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (5; 100% of non-empty `Degree`): <em>буржык</em>
-* `EMPTY` (26): <em>ыджыт, важ, честнӧй, Куимӧдз, бур, быльнӧй, веськытлань, витӧдз, гажаӧсь, долыт</em>
+* `EMPTY` (28): <em>ыджыт, важ, честнӧй, Куимӧдз, бур, быльнӧй, веськытлань, витӧдз, гажаӧсь, долыт</em>
 
 ### `ADV`
 
@@ -32,5 +32,5 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (1; 100% of non-empty `Degree`): <em>дыржык</em>
-* `EMPTY` (81): <em>кыдз, ни, кӧр, сэсся, сё, талун, чожа, эшӧ, дасöтiсь, кынымкӧ</em>
+* `EMPTY` (82): <em>кыдз, ни, кӧр, сэсся, сё, талун, чожа, эшӧ, дасöтiсь, кынымкӧ</em>
 

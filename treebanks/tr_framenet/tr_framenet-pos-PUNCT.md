@@ -36,7 +36,7 @@ The 3rd highest number of forms (1) was observed with the lemma “!”: <em>!</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="tr_framenet-dep-punct.html">punct</a></tt> (3397; 100% instances)
 
-Parents of `PUNCT` nodes belong to 9 different parts of speech: <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> (3153; 93% instances), <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (122; 4% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (72; 2% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> (25; 1% instances), <tt><a href="tr_framenet-pos-PROPN.html">PROPN</a></tt> (10; 0% instances), <tt><a href="tr_framenet-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="tr_framenet-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="tr_framenet-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="tr_framenet-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 9 different parts of speech: <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> (3153; 93% instances), <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (123; 4% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (72; 2% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt> (24; 1% instances), <tt><a href="tr_framenet-pos-PROPN.html">PROPN</a></tt> (10; 0% instances), <tt><a href="tr_framenet-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="tr_framenet-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="tr_framenet-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="tr_framenet-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
 3397 (100%) `PUNCT` nodes are leaves.
 

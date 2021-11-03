@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 iobj	color:blue
-1	Saya	saya	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+1	Saya	saya	PRON	_	Number=Sing|Person=1|Polite=Form|PronType=Prs	4	nsubj	_	_
 2	tidak	tidak	PART	_	Polarity=Neg	4	advmod	_	_
 3	sekadar	kadar	ADV	_	_	4	advmod	_	_
 4	menyebut	sebut	VERB	_	Mood=Ind|Voice=Act	0	root	_	_

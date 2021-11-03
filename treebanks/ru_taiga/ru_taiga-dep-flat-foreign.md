@@ -64,7 +64,7 @@ The following 12 pairs of parts of speech are connected with `flat:foreign`: <tt
 6	Hotel	Hotel	X	_	Foreign=Yes	4	flat:foreign	_	_
 7	Prague	Prague	X	_	Foreign=Yes	4	flat:foreign	_	_
 8	Castle	Castle	X	_	Foreign=Yes	4	flat:foreign	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	3	punct	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_~
 
 ~~~
 

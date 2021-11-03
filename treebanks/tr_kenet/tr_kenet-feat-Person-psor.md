@@ -11,16 +11,16 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="tr_kenet-feat-Person.html">Person</a></tt>, <tt><a href="tr_kenet-feat-Person-psor.html">Person[psor]</a></tt>.
 
-23759 tokens (13%) have a non-empty value of `Person[psor]`.
-12404 types (28%) occur at least once with a non-empty value of `Person[psor]`.
-4809 lemmas (31%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 3 part-of-speech tags: <tt><a href="tr_kenet-pos-NOUN.html">NOUN</a></tt> (23261; 13% instances), <tt><a href="tr_kenet-pos-VERB.html">VERB</a></tt> (478; 0% instances), <tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt> (20; 0% instances).
+23754 tokens (13%) have a non-empty value of `Person[psor]`.
+12402 types (28%) occur at least once with a non-empty value of `Person[psor]`.
+4805 lemmas (31%) occur at least once with a non-empty value of `Person[psor]`.
+The feature is used with 3 part-of-speech tags: <tt><a href="tr_kenet-pos-NOUN.html">NOUN</a></tt> (23270; 13% instances), <tt><a href="tr_kenet-pos-VERB.html">VERB</a></tt> (464; 0% instances), <tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt> (20; 0% instances).
 
 ### `NOUN`
 
-23261 <tt><a href="tr_kenet-pos-NOUN.html">NOUN</a></tt> tokens (35% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
+23270 <tt><a href="tr_kenet-pos-NOUN.html">NOUN</a></tt> tokens (35% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="tr_kenet-feat-Person.html">Person</a></tt><tt>=3</tt> (23261; 100%), <tt><a href="tr_kenet-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (21024; 90%), <tt><a href="tr_kenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18958; 82%).
+The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="tr_kenet-feat-Person.html">Person</a></tt><tt>=3</tt> (23270; 100%), <tt><a href="tr_kenet-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (21028; 90%), <tt><a href="tr_kenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18961; 81%).
 
 `NOUN` tokens may have the following values of `Person[psor]`:
 
@@ -63,9 +63,9 @@ The most frequent other feature values with which `NOUN` and `Person[psor]` co-o
 
 ### `VERB`
 
-478 <tt><a href="tr_kenet-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Person[psor]`.
+464 <tt><a href="tr_kenet-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `VERB` and `Person[psor]` co-occurred: <tt><a href="tr_kenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (470; 98%), <tt><a href="tr_kenet-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (440; 92%), <tt><a href="tr_kenet-feat-Person.html">Person</a></tt><tt>=3</tt> (398; 83%), <tt><a href="tr_kenet-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (346; 72%), <tt><a href="tr_kenet-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (333; 70%), <tt><a href="tr_kenet-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (322; 67%), <tt><a href="tr_kenet-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (315; 66%).
+The most frequent other feature values with which `VERB` and `Person[psor]` co-occurred: <tt><a href="tr_kenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (461; 99%), <tt><a href="tr_kenet-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (427; 92%), <tt><a href="tr_kenet-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (422; 91%), <tt><a href="tr_kenet-feat-Person.html">Person</a></tt><tt>=3</tt> (389; 84%), <tt><a href="tr_kenet-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (332; 72%), <tt><a href="tr_kenet-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (309; 67%), <tt><a href="tr_kenet-feat-Mood.html">Mood</a></tt><tt>=Gen</tt> (287; 62%).
 
 `VERB` tokens may have the following values of `Person[psor]`:
 
@@ -77,13 +77,13 @@ The most frequent other feature values with which `VERB` and `Person[psor]` co-o
   <tr><td><tt><tt><a href="tr_kenet-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_kenet-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt></tt></td><td></td><td><em>olmasıdır</em></td></tr>
 </table>
 
-`Person[psor]` seems to be **lexical feature** of `VERB`. 94% lemmas (297) occur only with one value of `Person[psor]`.
+`Person[psor]` seems to be **lexical feature** of `VERB`. 94% lemmas (290) occur only with one value of `Person[psor]`.
 
 ### `AUX`
 
 20 <tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `AUX` and `Person[psor]` co-occurred: <tt><a href="tr_kenet-feat-Case.html">Case</a></tt><tt>=Nom</tt> (20; 100%), <tt><a href="tr_kenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (20; 100%), <tt><a href="tr_kenet-feat-Person.html">Person</a></tt><tt>=3</tt> (20; 100%), <tt><a href="tr_kenet-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="tr_kenet-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (20; 100%).
+The most frequent other feature values with which `AUX` and `Person[psor]` co-occurred: <tt><a href="tr_kenet-feat-Case.html">Case</a></tt><tt>=Nom</tt> (20; 100%), <tt><a href="tr_kenet-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="tr_kenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (20; 100%), <tt><a href="tr_kenet-feat-Person.html">Person</a></tt><tt>=3</tt> (20; 100%), <tt><a href="tr_kenet-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="tr_kenet-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="tr_kenet-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (20; 100%).
 
 `AUX` tokens may have the following values of `Person[psor]`:
 
@@ -91,6 +91,7 @@ The most frequent other feature values with which `AUX` and `Person[psor]` co-oc
 ## Relations with Agreement in `Person[psor]`
 
 The 10 most frequent relations where parent and child node agree in `Person[psor]`:
-<tt>NOUN --[<tt><a href="tr_kenet-dep-conj.html">conj</a></tt>]--> NOUN</tt> (641; 60%),
-<tt>NOUN --[<tt><a href="tr_kenet-dep-list.html">list</a></tt>]--> NOUN</tt> (63; 55%).
+<tt>NOUN --[<tt><a href="tr_kenet-dep-conj.html">conj</a></tt>]--> NOUN</tt> (717; 61%),
+<tt>NOUN --[<tt><a href="tr_kenet-dep-list.html">list</a></tt>]--> NOUN</tt> (44; 73%),
+<tt>NOUN --[<tt><a href="tr_kenet-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (2; 67%).
 

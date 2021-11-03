@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6 nodes (0%) are attached to their parents as `parataxis`.
+7 nodes (0%) are attached to their parents as `parataxis`.
 
-5 instances of `parataxis` (83%) are right-to-left (child precedes parent).
+5 instances of `parataxis` (71%) are right-to-left (child precedes parent).
 Average distance between parent and child is 5.
 
-The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (3; 50% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (2; 33% instances), <tt><a href="am_att-pos-ADV.html">ADV</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (1; 17% instances).
+The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (4; 57% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (2; 29% instances), <tt><a href="am_att-pos-ADV.html">ADV</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (1; 14% instances).
 
 
 ~~~ conllu
@@ -24,13 +24,13 @@ The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 7 15 parataxis	color:blue
 1	ስ	ስ	SCONJ	SCONJ	_	4	mark	_	Translit=sə|LTranslit=sə
 2	ኣል	ኣል	PART	NEG	Polarity=Neg	4	advmod	_	Translit='alə|LTranslit='alə
-3	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	mark	_	Translit=jə|LTranslit=jə
+3	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	Translit=jə|LTranslit=jə
 4	ጨልም	ጨልም	VERB	VERB	_	7	advcl	_	Translit=ćäləmə|LTranslit=ćäləmə
 5	ብ	ብ	SCONJ	SCONJ	_	7	mark	_	Translit=bə|LTranslit=bə
 6	ት	ት	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	7	nsubj	_	Translit=tə|LTranslit=tə
 7	መለስ	መለስ	VERB	VERB	_	0	root	_	Translit=mäläsə|LTranslit=mäläsə
 8	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	9	nsubj	_	Translit=jə|LTranslit=jə
-9	ተሻል	ተሻል	VERB	VERB	_	7	advmod	_	Translit=täšalə|LTranslit=täšalə
+9	ተሻል	ተሻል	VERB	VERB	_	7	advcl	_	Translit=täšalə|LTranslit=täšalə
 10	ኣል	ኣል	AUX	AUX	_	9	aux	_	Translit='alə|LTranslit='alə
 11	፤	፤	PUNCT	PUNCT	_	7	punct	_	Translit=;|LTranslit=;
 12	ኣል	ኣል	PART	NEG	Polarity=Neg	13	advmod	_	Translit='alə|LTranslit='alə
@@ -38,7 +38,7 @@ The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a 
 14	ት	ት	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	15	nsubj	_	Translit=tə|LTranslit=tə
 15	ጠፍ	ጠፍ	VERB	VERB	_	7	parataxis	_	Translit=ţäfə|LTranslit=ţäfə
 16	ኣል	ኣል	AUX	AUX	_	15	aux	_	Translit='alə|LTranslit='alə
-17	ኧህ	ኧህ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2	16	nsubj	_	Translit='ăhə|LTranslit='ăhə
+17	ኧህ	ኧህ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=2	15	nsubj	_	Translit='ăhə|LTranslit='ăhə
 18	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
@@ -51,7 +51,7 @@ The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 9	fgColor:white
 # visual-style 9 4 parataxis	color:blue
 1	በ	በ	ADP	ADP	_	2	case	_	Translit=bä|LTranslit=bä
-2	ምን	ምን	PRON	PRON	_	4	advmod	_	Translit=mənə|LTranslit=mənə
+2	ምን	ምን	PRON	PRON	_	4	obl	_	Translit=mənə|LTranslit=mənə
 3	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	Translit=jə|LTranslit=jə
 4	ኣርስ	ኣርስ	VERB	VERB	_	9	parataxis	_	Translit='arəsə|LTranslit='arəsə
 5	ኣል	ኣል	AUX	AUX	_	4	aux	_	Translit='alə|LTranslit='alə
@@ -84,8 +84,8 @@ The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a 
 9	ን	ን	AUX	AUX	_	8	cop	_	Translit=nə|LTranslit=nə
 10	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	8	expl	_	Translit='ăwə|LTranslit='ăwə
 11	?	?	PUNCT	PUNCT	_	8	punct	_	Translit=?|LTranslit=?
-12	ወዴት	ወዴት	ADV	ADV	_	13	aux	_	Translit=wädetə|LTranslit=wädetə
-13	ን	ን	AUX	AUX	_	0	root	_	Translit=nə|LTranslit=nə
+12	ወዴት	ወዴት	ADV	ADV	_	0	root	_	Translit=wädetə|LTranslit=wädetə
+13	ን	ን	AUX	AUX	_	12	cop	_	Translit=nə|LTranslit=nə
 14	ኧው	ኧው	PRON	SUBJC	Number=Sing|Person=3	12	nsubj	_	Translit='ăwə|LTranslit='ăwə
 15	?	?	PUNCT	PUNCT	_	12	punct	_	Translit=?|LTranslit=?
 

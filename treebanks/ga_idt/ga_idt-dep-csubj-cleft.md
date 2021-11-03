@@ -23,7 +23,7 @@ The following 18 pairs of parts of speech are connected with `csubj:cleft`: <tt>
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 7 csubj:cleft	color:blue
-1	Títhe	teach	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Plur	0	root	_	_
+1	Títhe	teach	NOUN	Noun	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
 2	lucht	lucht	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
 3	oibre	obair	NOUN	Noun	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 4	ba	is	PART	Sup	PartType=Sup|Tense=Past|VerbForm=Cop	5	mark:prt	_	_
@@ -44,7 +44,7 @@ The following 18 pairs of parts of speech are connected with `csubj:cleft`: <tt>
 # visual-style 3 5 csubj:cleft	color:blue
 1	Arbh	is	AUX	Cop	Form=VF|Mood=Int|Tense=Past|VerbForm=Cop	3	cop	_	_
 2	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
-3	Seán	Seán	PROPN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
+3	Seán	Seán	PROPN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
 4	a	a	PART	Vb	Form=Direct|PartType=Vb|PronType=Rel	5	mark:prt	_	_
 5	bhí	bí	VERB	VI	Form=Len|Mood=Ind|Tense=Past	3	csubj:cleft	_	_
 6	ann	i	ADP	Prep	Gender=Masc|Number=Sing|Person=3	5	xcomp:pred	_	SpaceAfter=No
@@ -63,7 +63,7 @@ The following 18 pairs of parts of speech are connected with `csubj:cleft`: <tt>
 2	amháin	amháin	ADJ	Adj	Degree=Pos	1	amod	_	_
 3	a	a	PART	Vb	Form=Direct|PartType=Vb|PronType=Rel	4	mark:prt	_	_
 4	thabharfas	tabhair	VERB	VTI	Form=Len|Mood=Ind|PronType=Rel|Tense=Fut	1	csubj:cleft	_	_
-5	aire	aire	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	4	obj	_	_
+5	aire	aire	NOUN	Noun	Case=Nom|Gender=Fem|Number=Sing	4	obj	_	_
 6	dó	do	ADP	Prep	Gender=Masc|Number=Sing|Person=3	4	obl:prep	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	1	punct	_	_
 

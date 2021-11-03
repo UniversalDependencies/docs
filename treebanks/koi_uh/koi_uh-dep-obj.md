@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-36 nodes (4%) are attached to their parents as `obj`.
+47 nodes (5%) are attached to their parents as `obj`.
 
-21 instances of `obj` (58%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.66666666666667.
+31 instances of `obj` (66%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.51063829787234.
 
-The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (27; 75% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (8; 22% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (1; 3% instances).
+The following 3 pairs of parts of speech are connected with `obj`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (38; 81% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (8; 17% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

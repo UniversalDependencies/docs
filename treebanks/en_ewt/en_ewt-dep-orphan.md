@@ -24,7 +24,7 @@ The following 14 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 12 16 orphan	color:blue
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj|10.1:nsubj|12:nsubj	_
 2	actually	actually	ADV	RB	_	3	advmod	3:advmod	_
-3	loss	lose	VERB	VBD	Mood=Ind|Tense=Past|Typo=Yes|VerbForm=Fin	0	root	0:root	CorrectForm=lose
+3	loss	lose	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|Typo=Yes|VerbForm=Fin	0	root	0:root	CorrectForm=lose
 4	4	4	NUM	CD	NumType=Card	5	nummod	5:nummod	_
 5	pounds	pound	NOUN	NNS	Number=Plur	3	obj	3:obj	_
 6	after	after	ADP	IN	_	9	case	9:case	_
@@ -50,7 +50,7 @@ The following 14 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 10	fgColor:white
 # visual-style 10 8 orphan	color:blue
 1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj|9.1:nsubj|10:nsubj	_
-2	wish	wish	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+2	wish	wish	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	all	all	DET	DT	_	2	iobj	2:iobj	_
 4	happy	happy	ADJ	JJ	Degree=Pos	5	amod	5:amod	_
 5	holidays	holiday	NOUN	NNS	Number=Plur	2	obj	2:obj	SpaceAfter=No
@@ -76,7 +76,7 @@ The following 14 pairs of parts of speech are connected with `orphan`: <tt><a hr
 2	and	and	CCONJ	CC	_	3	cc	3:cc	_
 3	restaurants	restaurant	NOUN	NNS	Number=Plur	1	conj	1:conj:and|5:nsubj	_
 4	rarely	rarely	ADV	RB	_	5	advmod	5:advmod	_
-5	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+5	use	use	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
 7	same	same	ADJ	JJ	Degree=Pos	8	amod	8:amod	_
 8	cutlery	cutlery	NOUN	NN	Number=Sing	5	obj	5:obj	_
@@ -88,7 +88,7 @@ The following 14 pairs of parts of speech are connected with `orphan`: <tt><a hr
 14	,	,	PUNCT	,	_	5	punct	5:punct	_
 15	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj	17:nsubj|22.1:nsubj|23:nsubj|27.1:nsubj|28:nsubj|33:nsubj	_
 16	normally	normally	ADV	RB	_	17	advmod	17:advmod	_
-17	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	parataxis	5:parataxis	_
+17	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	5:parataxis	_
 18	blue	blue	ADJ	JJ	Degree=Pos	17	obj	17:obj	_
 19	for	for	ADP	IN	_	21	case	21:case	_
 20	bakery	bakery	NOUN	NN	Number=Sing	21	compound	21:compound	_

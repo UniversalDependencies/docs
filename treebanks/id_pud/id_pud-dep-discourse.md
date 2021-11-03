@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 6 2 discourse	color:blue
 1	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
 2	Toh	toh	INTJ	_	_	6	discourse	_	_
-3	saya	saya	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+3	saya	saya	PRON	_	Number=Sing|Person=1|Polite=Form|PronType=Prs	6	nsubj	_	_
 4	tetap	tetap	ADV	_	_	6	advmod	_	_
 5	akan	akan	AUX	_	_	6	aux	_	_
 6	masuk	masuk	VERB	_	Mood=Ind|Voice=Act	0	root	_	_

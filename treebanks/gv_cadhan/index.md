@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Kevin Scannell.
 
 Repository: [UD_Manx-Cadhan](https://github.com/UniversalDependencies/UD_Manx-Cadhan)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgv_cadhan28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgv_cadhan29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: GNU GPL 3.0
 

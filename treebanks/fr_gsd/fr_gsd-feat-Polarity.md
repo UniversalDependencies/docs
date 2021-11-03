@@ -12,14 +12,23 @@ It occurs with 1 different values: `Neg`.
 2967 tokens (1%) have a non-empty value of `Polarity`.
 18 types (0%) occur at least once with a non-empty value of `Polarity`.
 9 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 1 part-of-speech tags: <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (2967; 1% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (2963; 1% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (4; 0% instances).
 
 ### `ADV`
 
-2967 <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> tokens (20% of all `ADV` tokens) have a non-empty value of `Polarity`.
+2963 <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> tokens (20% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
 `ADV` tokens may have the following values of `Polarity`:
 
-* `Neg` (2967; 100% of non-empty `Polarity`): <em>pas, n', ne, non, jamais, plus, qu', guère, point, nullement</em>
-* `EMPTY` (11621): <em>plus, très, aussi, où, ainsi, alors, bien, également, lors, même</em>
+* `Neg` (2963; 100% of non-empty `Polarity`): <em>pas, n', ne, non, jamais, plus, qu', guère, point, nullement</em>
+* `EMPTY` (11620): <em>plus, très, aussi, où, ainsi, alors, bien, également, lors, même</em>
+
+### `INTJ`
+
+4 <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> tokens (5% of all `INTJ` tokens) have a non-empty value of `Polarity`.
+
+`INTJ` tokens may have the following values of `Polarity`:
+
+* `Neg` (4; 100% of non-empty `Polarity`): <em>non</em>
+* `EMPTY` (79): <em>merci, bref, attention, bravo, oui, dommage, Bonjour, Ah, enfin, Allo</em>
 

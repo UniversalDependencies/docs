@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Binyam Ephrem, Gashaw Arutie, Tsegay Woldemariam, Juan Ignacio Navarro Horñiacek.
 
 Repository: [UD_Amharic-ATT](https://github.com/UniversalDependencies/UD_Amharic-ATT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udam_att28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udam_att29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-SA 4.0
 
@@ -125,11 +125,11 @@ The treebank is developed by Binyam Ephrem, Gashaw Arutie, and Tsegay Woldemaria
 </ul>
 
 <ul>
-<li>This corpus contains 16 lemmas tagged as auxiliaries (AUX): ሆን, ማለት, ብል, ቻል, ችል, ነ, ነበር, ን, ኖር, ኖሮ, አል, አይደል, አድርግ, ኣለ, ኣል, እየ</li>
+<li>This corpus contains 16 lemmas tagged as auxiliaries (AUX): ሆን, ብል, ቻል, ችል, ነ, ነበር, ን, ኖር, ኖሮ, አል, አይደል, አድርግ, ኣለ, ኣል, እየ, ጀመር</li>
 </ul>
 
 <ul>
-<li>Out of the above, 12 lemmas occurred sometimes as AUX and sometimes as VERB: ሆን, ማለት, ብል, ቻል, ችል, ነበር, ኖር, አል, አይደል, አድርግ, ኣለ, ኣል</li>
+<li>Out of the above, 12 lemmas occurred sometimes as AUX and sometimes as VERB: ሆን, ብል, ቻል, ችል, ነበር, ኖር, አል, አይደል, አድርግ, ኣለ, ኣል, ጀመር</li>
 </ul>
 
 <ul>
@@ -369,7 +369,7 @@ The treebank is developed by Binyam Ephrem, Gashaw Arutie, and Tsegay Woldemaria
 <ul>
   <li>Card
     <ul>
-      <li>NUM: አንድ, ሁለት, ሦስት, ብዙ, አስር, 1.85, ስምንት, ሶስት, ሺህ, በጣም</li>
+      <li>NUM: አንድ, ሁለት, ሦስት, ብዙ, አስር, 1.85, ስምንት, ሶስት, ሺህ, አምስት</li>
     </ul>
   </li>
 </ul>
@@ -428,11 +428,11 @@ The treebank is developed by Binyam Ephrem, Gashaw Arutie, and Tsegay Woldemaria
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 7 lemmas as copulas (<a>cop</a>). Examples: ን, ነበር, ሆን, አይደል, መልካም, ነ, ጮማ.</li>
+<li>This corpus uses 5 lemmas as copulas (<a>cop</a>). Examples: ን, ሆን, ነበር, አይደል, ነ.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 19 lemmas as auxiliaries (<a>aux</a>). Examples: ኣል, ን, ነበር, ሆን, ችል, ኖር, እየ, ብል, ማለት, ሻል, ቻል, ኖሮ, አል, አይደል, አድርግ, ኣለ, ወዴት, ወድ, ጀመር.</li>
+<li>This corpus uses 15 lemmas as auxiliaries (<a>aux</a>). Examples: ኣል, ን, ነበር, ሆን, ችል, ኖር, እየ, ብል, ቻል, ኖሮ, አል, አይደል, አድርግ, ኣለ, ጀመር.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -444,7 +444,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN (238)</li>
       <li>VERB--NOUN-ADP(ን) (3)</li>
       <li>VERB--NOUN-ADP(የ) (1)</li>
-      <li>VERB--PRON (872)</li>
+      <li>VERB--PRON (871)</li>
       <li>VERB-Conv--NOUN (4)</li>
       <li>VERB-Conv--NOUN-ADP(ን) (1)</li>
       <li>VERB-Conv--PRON (34)</li>
@@ -459,11 +459,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN (201)</li>
       <li>VERB--NOUN-ADP(ለ) (1)</li>
       <li>VERB--NOUN-ADP(መ) (1)</li>
-      <li>VERB--NOUN-ADP(ን) (205)</li>
+      <li>VERB--NOUN-ADP(ን) (206)</li>
       <li>VERB--NOUN-ADP(ከ)-ADP(በስተቀር) (1)</li>
       <li>VERB--NOUN-ADP(ወደ) (2)</li>
       <li>VERB--NOUN-ADP(የ)-ADP(ን) (1)</li>
-      <li>VERB--PRON (76)</li>
+      <li>VERB--PRON (81)</li>
       <li>VERB--PRON-ADP(ን) (9)</li>
       <li>VERB-Conv--NOUN (9)</li>
       <li>VERB-Conv--NOUN-ADP(ን) (11)</li>

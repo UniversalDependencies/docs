@@ -38,7 +38,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 14	siglo	siglo	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
 15	que	que	SCONJ	_	_	17	mark	_	_
 16	están	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	aux:pass	_	_
-17	aculturados	aculturado	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	11	csubj:pass	_	_
+17	aculturados	aculturar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	11	csubj:pass	_	_
 18	con	con	ADP	_	_	20	case	_	_
 19	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
 20	magiares	magiar	NOUN	_	Gender=Masc|Number=Plur	17	obl	_	SpaceAfter=No

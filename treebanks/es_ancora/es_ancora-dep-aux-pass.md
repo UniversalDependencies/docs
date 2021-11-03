@@ -22,18 +22,18 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 aux:pass	color:blue
-1	Eramos	ser	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux:pass	_	_
-2	considerados	considerar	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	11	ccomp	_	_
-3	como	como	SCONJ	_	_	4	mark	_	_
-4	gente	gente	NOUN	_	Gender=Fem|Number=Sing	2	xcomp	_	_
-5	que	que	PRON	_	PronType=Int,Rel	6	nsubj	_	_
-6	hacía	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	acl	_	_
-7	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
-8	vida	vida	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
-9	"	"	PUNCT	_	PunctType=Quot	2	punct	_	SpaceAfter=No
-10	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
-11	matizó	matizar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
-12	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
+1	Eramos	ser	AUX	vmip1p0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux:pass	2:aux:pass	_
+2	considerados	considerar	VERB	vmp00pm	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	11	ccomp	11:ccomp	_
+3	como	como	SCONJ	cs	_	4	mark	4:mark	_
+4	gente	gente	NOUN	ncfs000	Gender=Fem|Number=Sing	2	xcomp	2:xcomp	ClusterId=CESS-CAST-P-20000302-34-c11|ClusterType=Gen|MentionSpan=4-8
+5	que	que	PRON	pr0cn000	PronType=Int,Rel	6	nsubj	6:nsubj	ClusterId=CESS-CAST-P-20000302-34-c11|ClusterType=Gen|MentionSpan=5|MentionMisc=CorefType:ident
+6	hacía	hacer	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	acl	4:acl	_
+7	su	su	DET	dp3cs0	Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	8:det	_
+8	vida	vida	NOUN	ncfs000	Gender=Fem|Number=Sing	6	obj	6:obj	ClusterId=CESS-CAST-P-20000302-34-s9.sn.42|ClusterType=Gen|MentionSpan=7-8
+9	"	"	PUNCT	fe	PunctType=Quot	2	punct	2:punct	SpaceAfter=No
+10	,	,	PUNCT	fc	PunctType=Comm	2	punct	2:punct	_
+11	matizó	matizar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	SpaceAfter=No
+12	.	.	PUNCT	fp	PunctType=Peri	11	punct	11:punct	_
 
 ~~~
 

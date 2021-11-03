@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-10 nodes (0%) are attached to their parents as `discourse`.
+11 nodes (0%) are attached to their parents as `discourse`.
 
-9 instances of `discourse` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.4.
+10 instances of `discourse` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.
 
-The following 6 pairs of parts of speech are connected with `discourse`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> (4; 40% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> (2; 20% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-PART.html">PART</a></tt> (1; 10% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> (1; 10% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> (1; 10% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PART.html">PART</a></tt> (1; 10% instances).
+The following 6 pairs of parts of speech are connected with `discourse`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> (5; 45% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> (2; 18% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="mdf_jr-pos-PART.html">PART</a></tt> (1; 9% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt>-<tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> (1; 9% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> (1; 9% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-PART.html">PART</a></tt> (1; 9% instances).
 
 
 ~~~ conllu
@@ -49,7 +49,7 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 7	:	:	PUNCT	CLB	_	11	punct	_	_
 8	гулянять	гуляня	NOUN	N	Case=Gen|Definite=Def|Number=Sing	9	nmod	_	_
 9	пацяняц	паця	NOUN	N	Case=Nom|Derivation=Dimin|Number=Sing|Number[psor]=Sing|Person[psor]=3	11	obj	_	_
-10	апак	апак	AUX	Aux	Polarity=Neg	11	aux:neg	_	_
+10	апак	аф	AUX	Aux	Polarity=Neg|VerbForm=Conv,Part	11	aux:neg	_	_
 11	синтть	синдемс	VERB	V	Connegative=Yes|Valency=2	6	csubj	_	SpaceAfter=No
 12	.	.	PUNCT	CLB	_	6	punct	_	_
 

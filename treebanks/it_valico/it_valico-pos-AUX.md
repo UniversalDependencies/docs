@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>ha</em> (<tt><a href="it_valico-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 10.666667 (the average of all parts of speech is 1.390760).
+The form / lemma ratio of `AUX` is 10.666667 (the average of all parts of speech is 1.389423).
 
 The 1st highest number of forms (17) was observed with the lemma “essere”: <em>Siamo, e, ed, era, eranno, erano, ero, essere, fosse, sarebbe, sarei, sei, sono, stata, stati, stato, è</em>.
 
@@ -61,9 +61,9 @@ The 3rd highest number of forms (9) was observed with the lemma “dovere”: <e
 
 `AUX` occurs with 6 features: <tt><a href="it_valico-feat-VerbForm.html">VerbForm</a></tt> (591; 100% instances), <tt><a href="it_valico-feat-Number.html">Number</a></tt> (578; 98% instances), <tt><a href="it_valico-feat-Tense.html">Tense</a></tt> (578; 98% instances), <tt><a href="it_valico-feat-Mood.html">Mood</a></tt> (558; 94% instances), <tt><a href="it_valico-feat-Person.html">Person</a></tt> (558; 94% instances), <tt><a href="it_valico-feat-Gender.html">Gender</a></tt> (20; 3% instances)
 
-`AUX` occurs with 17 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Mood=Cnd`, `Mood=Imp`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Imp`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`
+`AUX` occurs with 16 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Mood=Cnd`, `Mood=Ind`, `Mood=Sub`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Tense=Imp`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`
 
-`AUX` occurs with 20 feature combinations.
+`AUX` occurs with 19 feature combinations.
 The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin` (238 tokens).
 Examples: <em>ha, è, e, a, deve, può, vuole, ed, sta, voglie</em>
 

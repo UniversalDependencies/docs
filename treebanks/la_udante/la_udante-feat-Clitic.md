@@ -9,24 +9,24 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-202 tokens (0%) have a non-empty value of `Clitic`.
+204 tokens (0%) have a non-empty value of `Clitic`.
 9 types (0%) occur at least once with a non-empty value of `Clitic`.
 7 lemmas (0%) occur at least once with a non-empty value of `Clitic`.
-The feature is used with 5 part-of-speech tags: <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (140; 0% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (33; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (21; 0% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (3; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (142; 0% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (33; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (21; 0% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (3; 0% instances).
 
 ### `CCONJ`
 
-140 <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> tokens (4% of all `CCONJ` tokens) have a non-empty value of `Clitic`.
+142 <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> tokens (5% of all `CCONJ` tokens) have a non-empty value of `Clitic`.
 
 `CCONJ` tokens may have the following values of `Clitic`:
 
-* `Yes` (140; 100% of non-empty `Clitic`): <em>que, ve</em>
+* `Yes` (142; 100% of non-empty `Clitic`): <em>que, ve</em>
 
 ### `PART`
 
 33 <tt><a href="la_udante-pos-PART.html">PART</a></tt> tokens (2% of all `PART` tokens) have a non-empty value of `Clitic`.
 
-The most frequent other feature values with which `PART` and `Clitic` co-occurred: <tt><a href="la_udante-feat-Emphatic.html">Emphatic</a></tt><tt>=EMPTY</tt> (33; 100%), <tt><a href="la_udante-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (30; 91%).
+The most frequent other feature values with which `PART` and `Clitic` co-occurred: <tt><a href="la_udante-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (33; 100%), <tt><a href="la_udante-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (30; 91%).
 
 `PART` tokens may have the following values of `Clitic`:
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `ADV` and `Clitic` co-occurred
 
 3 <tt><a href="la_udante-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Clitic`.
 
-The most frequent other feature values with which `DET` and `Clitic` co-occurred: <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Acc</tt> (3; 100%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3; 100%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (3; 100%), <tt><a href="la_udante-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="la_udante-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Emp</tt> (3; 100%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 67%).
+The most frequent other feature values with which `DET` and `Clitic` co-occurred: <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Acc</tt> (3; 100%), <tt><a href="la_udante-feat-Form.html">Form</a></tt><tt>=Emp</tt> (3; 100%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3; 100%), <tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (3; 100%), <tt><a href="la_udante-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="la_udante-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="la_udante-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (3; 100%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 67%).
 
 `DET` tokens may have the following values of `Clitic`:
 

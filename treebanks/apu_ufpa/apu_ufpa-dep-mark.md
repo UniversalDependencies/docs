@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 9 7 mark	color:blue
 1	Atuku	Atuku	ADV	XPOS=depois	_	3	advmod	_	gloss[pt]=depois
 2	ywa	ywa	PRON	Pron	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	gloss[pt]=3SG.M
-3	sary	sa	VERB	V	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	0	root	_	gloss[pt]=ir-3SG.M.O
+3	sary	sa	VERB	V	Gender[subj]=Masc|Number[subj]=Sing|Person[subj]=3|VerbType=Vido	0	root	_	gloss[pt]=ir-3SG.M.O
 4	hãty	hãty	NUM	XPOS=um,outro	_	5	nummod	_	gloss[pt]=um,outro
 5	itixi	itixi	NOUN	XPOS=terra,chão	_	3	obl:lmod	_	gloss[pt]=terra,chão|SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	_

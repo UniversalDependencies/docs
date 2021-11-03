@@ -7,23 +7,23 @@ udver: '2'
 ## Treebank Statistics: UD_Turkish-FrameNet: Features: `NumType`
 
 This feature is universal.
-It occurs with 2 different values: `Card`, `Dist`.
+It occurs with 3 different values: `Card`, `Dist`, `Ord`.
 
-151 tokens (1%) have a non-empty value of `NumType`.
-43 types (1%) occur at least once with a non-empty value of `NumType`.
-33 lemmas (1%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="tr_framenet-pos-NUM.html">NUM</a></tt> (143; 1% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (8; 0% instances).
+152 tokens (1%) have a non-empty value of `NumType`.
+44 types (1%) occur at least once with a non-empty value of `NumType`.
+34 lemmas (1%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="tr_framenet-pos-NUM.html">NUM</a></tt> (144; 1% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt> (8; 0% instances).
 
 ### `NUM`
 
-143 <tt><a href="tr_framenet-pos-NUM.html">NUM</a></tt> tokens (99% of all `NUM` tokens) have a non-empty value of `NumType`.
+144 <tt><a href="tr_framenet-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (143; 100% of non-empty `NumType`): <em>iki, bir, beş, bin, üç, İki, on, 2, altı, sekiz</em>
-* `EMPTY` (1): <em>%</em>
+* `Card` (143; 99% of non-empty `NumType`): <em>iki, bir, beş, bin, üç, İki, on, 2, altı, sekiz</em>
+* `Ord` (1; 1% of non-empty `NumType`): <em>%</em>
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (32) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (33) occur only with one value of `NumType`.
 
 ### `ADJ`
 
@@ -39,6 +39,5 @@ The feature is used with 2 part-of-speech tags: <tt><a href="tr_framenet-pos-NUM
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="tr_framenet-dep-compound.html">compound</a></tt>]--> NUM</tt> (17; 100%),
-<tt>NUM --[<tt><a href="tr_framenet-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (2; 100%),
-<tt>NUM --[<tt><a href="tr_framenet-dep-list.html">list</a></tt>]--> NUM</tt> (1; 100%).
+<tt>NUM --[<tt><a href="tr_framenet-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (2; 100%).
 

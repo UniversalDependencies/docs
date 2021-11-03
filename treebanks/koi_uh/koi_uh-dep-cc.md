@@ -9,7 +9,7 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `cc`: <tt><a href="koi_uh-dep-cc-preconj.html">cc:preconj</a></tt>.
 
-38 nodes (5%) are attached to their parents as `cc`.
+38 nodes (4%) are attached to their parents as `cc`.
 
 38 instances of `cc` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.60526315789474.

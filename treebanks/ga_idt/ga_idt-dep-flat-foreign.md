@@ -51,7 +51,7 @@ The following 17 pairs of parts of speech are connected with `flat:foreign`: <tt
 5	ag	ag	ADP	Simp	_	6	case	_	_
 6	Ascot	Ascot	PROPN	Noun	Definite=Def|Number=Sing	2	obl	_	_
 7	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	8	det	_	_
-8	tseachain	seachtain	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Fem|Number=Sing|Typo=Yes	2	obl:tmod	_	_
+8	tseachain	seachtain	NOUN	Noun	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|Typo=Yes	2	obl:tmod	_	_
 9	seo	seo	DET	Det	PronType=Dem	8	det	_	_
 10	caite	caite	ADJ	Adj	VerbForm=Part	9	fixed	_	SpaceAfter=No
 11	.	.	PUNCT	.	_	2	punct	_	_
@@ -79,16 +79,16 @@ The following 17 pairs of parts of speech are connected with `flat:foreign`: <tt
 12	Union	Union	PROPN	Foreign	Foreign=Yes	10	flat:foreign	_	_
 13	of	of	NOUN	Foreign	Foreign=Yes	10	flat:foreign	_	_
 14	Journalists	Journalists	PROPN	Foreign	Foreign=Yes	10	flat:foreign	_	_
-15	oiread	oiread	NOUN	Subst	Case=NomAcc|Number=Sing	5	obj	_	_
+15	oiread	oiread	NOUN	Subst	Case=Nom|Number=Sing	5	obj	_	_
 16	airde	aird	NOUN	Noun	Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
 17	ar	ar	ADP	Simp	_	19	case	_	_
 18	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	19	det	_	_
-19	difríocht	difríocht	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Fem|Number=Sing	5	obl	_	_
+19	difríocht	difríocht	NOUN	Noun	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	5	obl	_	_
 20	idir	idir	ADP	Simp	_	21	case	_	_
 21	Dún	dún	PROPN	Noun	Definite=Def|Gender=Masc|Number=Sing	15	nmod	_	NamedEntity=Yes
 22	Éideann	Éideann	PROPN	Noun	Definite=Def|Gender=Fem|Number=Sing	21	nmod	_	NamedEntity=Yes
 23	agus	agus	CCONJ	Coord	_	24	cc	_	_
-24	Londain	Londain	PROPN	Noun	Case=NomAcc|Definite=Def|Gender=Fem|Number=Sing	21	conj	_	_
+24	Londain	Londain	PROPN	Noun	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	21	conj	_	_
 25	agus	agus	CCONJ	Coord	_	27	cc	_	_
 26	a	a	PART	Vb	Form=Direct|PartType=Vb|PronType=Rel	27	obj	_	_
 27	thugann	tabhair	VERB	VTI	Form=Len|Mood=Ind|Tense=Pres	5	conj	_	_
@@ -98,7 +98,7 @@ The following 17 pairs of parts of speech are connected with `flat:foreign`: <tt
 31	Átha	Átha	PROPN	Noun	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	30	nmod	_	NamedEntity=Yes
 32	Cliath	Cliath	PROPN	Noun	Case=Gen|Definite=Def|Gender=Fem|NounType=Weak|Number=Plur	31	nmod	_	NamedEntity=Yes
 33	agus	agus	CCONJ	Coord	_	34	cc	_	_
-34	Béal	Béal	PROPN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	30	conj	_	NamedEntity=Yes
+34	Béal	Béal	PROPN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	30	conj	_	NamedEntity=Yes
 35	Feirste	Feirste	PROPN	Noun	Definite=Def|Gender=Masc|Number=Sing	34	nmod	_	NamedEntity=Yes|SpaceAfter=No
 36	,	,	PUNCT	Punct	_	38	punct	_	_
 37	'	'	PUNCT	Punct	_	38	punct	_	SpaceAfter=No

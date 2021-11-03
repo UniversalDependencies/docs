@@ -23,7 +23,7 @@ The following 46 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 2	fgColor:white
 # visual-style 2 7 parataxis	color:blue
 1	Han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
-2	cambiado	cambiado	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	cambiado	cambiar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	nombre	nombre	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	2	punct	_	_

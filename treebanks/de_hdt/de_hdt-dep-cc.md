@@ -11,24 +11,26 @@ This relation is universal.
 75304 nodes (2%) are attached to their parents as `cc`.
 
 75303 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.77953362371189.
+Average distance between parent and child is 2.81554764687135.
 
 The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (37785; 50% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (20172; 27% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (8923; 12% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (4419; 6% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (1450; 2% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (766; 1% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (542; 1% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (537; 1% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (516; 1% instances), <tt><a href="de_hdt-pos-PART.html">PART</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (102; 0% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (51; 0% instances), <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (23; 0% instances), <tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (12; 0% instances), <tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt>-<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 4 cc	color:blue
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 cc	color:blue
 1	Anleitung	Anleitung	NOUN	NN	Gender=Fem|Number=Sing|Person=3	0	root	_	_
-2	zum	zum	ADP	APPRART	AdpType=Prep|Case=Dat|PronType=Art	3	case	_	_
-3	Kindesmißbrauch	Mißbrauch	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing|Person=3	1	nmod	_	_
-4	und	und	CCONJ	KON	_	5	cc	_	_
-5	Mord	Mord	NOUN	NN	Gender=Masc|Number=Sing|Person=3	3	conj	_	_
-6	im	im	ADP	APPRART	AdpType=Prep|Case=Dat|PronType=Art	7	case	_	_
-7	Internet	Internet	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing|Person=3	1	nmod	_	_
+2	zu	zu	ADP	APPR	AdpType=Prep|Case=Dat	4	case	_	_
+3	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	4	det	_	_
+4	Kindesmißbrauch	Mißbrauch	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing|Person=3	1	nmod	_	_
+5	und	und	CCONJ	KON	_	6	cc	_	_
+6	Mord	Mord	NOUN	NN	Gender=Masc|Number=Sing|Person=3	4	conj	_	_
+7	in	in	ADP	APPR	AdpType=Prep|Case=Dat	9	case	_	_
+8	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	9	det	_	_
+9	Internet	Internet	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing|Person=3	1	nmod	_	_
 
 ~~~
 

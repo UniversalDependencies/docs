@@ -12,7 +12,7 @@ There are also 10 other language-specific subtypes of `advmod`: <tt><a href="myv
 30 nodes (0%) are attached to their parents as `advmod:lto`.
 
 19 instances of `advmod:lto` (63%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.66666666666667.
+Average distance between parent and child is 1.7.
 
 The following 2 pairs of parts of speech are connected with `advmod:lto`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (28; 93% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (2; 7% instances).
 

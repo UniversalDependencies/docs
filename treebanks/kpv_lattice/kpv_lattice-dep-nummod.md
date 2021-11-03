@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-54 nodes (1%) are attached to their parents as `nummod`.
+55 nodes (1%) are attached to their parents as `nummod`.
 
-50 instances of `nummod` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.2037037037037.
+51 instances of `nummod` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.21818181818182.
 
-The following 3 pairs of parts of speech are connected with `nummod`: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (52; 96% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 2 pairs of parts of speech are connected with `nummod`: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (54; 98% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -48,30 +48,6 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 5	ичӧтик	ичӧтик	ADJ	A	Case=Nom|Derivation=Ik|Number=Sing	6	amod	_	_
 6	ныв	ныв	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	SpaceAfter=No
 7	.	.	PUNCT	CLB	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 11 nummod	color:blue
-1	Михаил	Михаил	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing	4	nmod:poss	_	GTtags=Prop,Sem/Mal,Sg,Nom
-2	Елькинлӧн	Елькин	NOUN	N	Animacy=Hum|Case=Gen|Number=Sing	1	flat:name	_	GTtags=Prop,Sem/Sur-Mal,Sg,Gen
-3	медводдза	воддза	ADJ	A	Case=Nom|Degree=Sup|Number=Sing	4	amod	_	GTtags=Superl,Sg,Nom
-4	книга	книга	NOUN	N	Case=Nom|Number=Sing	10	nsubj	_	GTtags=Sg,Nom
-5	—	—	PUNCT	PUNCT	_	7	punct	_	_
-6	«	«	PUNCT	PUNCT	_	7	punct	_	GTtags=LEFT|SpaceAfter=No
-7	Озын	оз	NOUN	N	Case=Ine	4	appos	_	GTtags=Err/Orth-no-paragogic-j,Ine|SpaceAfter=No
-8	»	»	PUNCT	PUNCT	_	7	punct	_	GTtags=RIGHT
-9	—	—	PUNCT	PUNCT	_	7	punct	_	_
-10	петіс	петны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	GTtags=IV,Ind,Prt1,Sg3
-11	куим	Куим	NOUN	N	Case=Nom|Number=Sing	12	nummod	_	GTtags=Prop,Sem/Plc,EOLang/KOM,Sem/Plc,EOLang/KPV,Sg,Nom
-12	во	во	NOUN	N	Case=Nom|Number=Sing	10	obl	_	GTtags=Sg,Nom
-13	сайын	сайын	ADP	Adp	AdpType=Post|Case=Ine|Number=Sing	12	case	_	GTtags=Po,Sg,Ine|SpaceAfter=No
-14	.	.	PUNCT	CLB	_	10	punct	_	_
 
 ~~~
 

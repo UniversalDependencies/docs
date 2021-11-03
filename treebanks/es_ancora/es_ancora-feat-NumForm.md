@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Digit`.
 
-6287 tokens (1%) have a non-empty value of `NumForm`.
+6272 tokens (1%) have a non-empty value of `NumForm`.
 1724 types (4%) occur at least once with a non-empty value of `NumForm`.
 1685 lemmas (6%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (5258; 1% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (649; 0% instances), <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> (376; 0% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (4; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (5244; 1% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (649; 0% instances), <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> (375; 0% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (4; 0% instances).
 
 ### `NUM`
 
-5258 <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> tokens (60% of all `NUM` tokens) have a non-empty value of `NumForm`.
+5244 <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> tokens (60% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5257; 100%), <tt><a href="es_ancora-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (5250; 100%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5243; 100%), <tt><a href="es_ancora-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (5236; 100%).
 
 `NUM` tokens may have the following values of `NumForm`:
 
-* `Digit` (5258; 100% of non-empty `NumForm`): <em>20, 30, 10, 12, 15, 2, 16, 24, 18, 25</em>
+* `Digit` (5244; 100% of non-empty `NumForm`): <em>20, 30, 10, 12, 15, 2, 16, 24, 18, 25</em>
 
 `NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (1485) occur only with one value of `NumForm`.
 
@@ -40,13 +40,13 @@ The most frequent other feature values with which `NOUN` and `NumForm` co-occurr
 
 ### `SYM`
 
-376 <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> tokens (77% of all `SYM` tokens) have a non-empty value of `NumForm`.
+375 <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> tokens (97% of all `SYM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `SYM` and `NumForm` co-occurred: <tt><a href="es_ancora-feat-NumType.html">NumType</a></tt><tt>=Frac</tt> (271; 72%).
+The most frequent other feature values with which `SYM` and `NumForm` co-occurred: <tt><a href="es_ancora-feat-NumType.html">NumType</a></tt><tt>=Frac</tt> (270; 72%).
 
 `SYM` tokens may have the following values of `NumForm`:
 
-* `Digit` (376; 100% of non-empty `NumForm`): <em>%, 20%, 25%, 50%, 10%, 60%, 30%, 80%, 15%, 2%</em>
+* `Digit` (375; 100% of non-empty `NumForm`): <em>%, 20%, 25%, 50%, 10%, 60%, 30%, 80%, 15%, 2%</em>
 
 `NumForm` seems to be **lexical feature** of `SYM`. 100% lemmas (219) occur only with one value of `NumForm`.
 

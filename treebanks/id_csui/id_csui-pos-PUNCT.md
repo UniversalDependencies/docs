@@ -31,7 +31,7 @@ The 10 most frequent ambiguous types:  <em>-</em> (<tt><a href="id_csui-pos-PUNC
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.084934).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.085880).
 
 The 1st highest number of forms (1) was observed with the lemma “"”: <em>"</em>.
 
@@ -46,7 +46,7 @@ The 3rd highest number of forms (1) was observed with the lemma “'”: <em>'</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="id_csui-dep-punct.html">punct</a></tt> (3531; 100% instances)
 
-Parents of `PUNCT` nodes belong to 10 different parts of speech: <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> (2017; 57% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> (626; 18% instances), <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (535; 15% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (157; 4% instances), <tt><a href="id_csui-pos-X.html">X</a></tt> (116; 3% instances), <tt><a href="id_csui-pos-NUM.html">NUM</a></tt> (55; 2% instances), <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (15; 0% instances), <tt><a href="id_csui-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="id_csui-pos-SYM.html">SYM</a></tt> (2; 0% instances)
+Parents of `PUNCT` nodes belong to 12 different parts of speech: <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> (2005; 57% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> (621; 18% instances), <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (542; 15% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (158; 4% instances), <tt><a href="id_csui-pos-X.html">X</a></tt> (116; 3% instances), <tt><a href="id_csui-pos-NUM.html">NUM</a></tt> (57; 2% instances), <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (21; 1% instances), <tt><a href="id_csui-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="id_csui-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="id_csui-pos-DET.html">DET</a></tt> (1; 0% instances)
 
 3531 (100%) `PUNCT` nodes are leaves.
 

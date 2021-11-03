@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="pcm_nsc-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-177 nodes (0%) are attached to their parents as `acl`.
+157 nodes (0%) are attached to their parents as `acl`.
 
-95 instances of `acl` (54%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.1864406779661.
+92 instances of `acl` (59%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.82165605095541.
 
-The following 18 pairs of parts of speech are connected with `acl`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (118; 67% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (25; 14% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (10; 6% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (6; 3% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (3; 2% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 18 pairs of parts of speech are connected with `acl`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (104; 66% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (22; 14% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (11; 7% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (3; 2% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -35,7 +35,7 @@ The following 18 pairs of parts of speech are connected with `acl`: <tt><a href=
 10	<	<	X	_	_	3	dep	_	AlignBegin=47850|AlignEnd=47880|Gloss=PUNCT
 11	#	#	X	_	_	3	dep	_	AlignBegin=47880|AlignEnd=48320|Gloss=PUNCT
 12	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	15	nsubj	_	AlignBegin=48320|AlignEnd=48390|Gloss=NOM.2
-13	no	no	PART	_	Polarity=Neg	15	advmod	_	AlignBegin=48390|AlignEnd=48480|Gloss=NEG
+13	no	no	AUX	_	Polarity=Neg	15	aux	_	AlignBegin=48390|AlignEnd=48480|Gloss=NEG
 14	go	go	AUX	_	Aspect=Prosp	15	aux	_	AlignBegin=48480|AlignEnd=48590|Gloss=PROSP
 15	see	see	VERB	_	_	0	root	_	AlignBegin=48590|AlignEnd=48790|Gloss=see
 16	money	money	NOUN	_	_	15	obj	_	AlignBegin=48790|AlignEnd=48960|Gloss=money
@@ -53,7 +53,7 @@ The following 18 pairs of parts of speech are connected with `acl`: <tt><a href=
 1	if	if	SCONJ	_	_	3	mark	_	AlignBegin=30313|AlignEnd=30450|Gloss=if|Lang=en
 2	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	AlignBegin=30450|AlignEnd=30510|Gloss=NOM.2|Lang=en
 3	gave	give	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	13	advcl	_	AlignBegin=30510|AlignEnd=30790|Gloss=give.IND.PST.FIN|Lang=en
-4	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	AlignBegin=30790|AlignEnd=30903|Gloss=ACC.SG.1|Lang=en
+4	me	me	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	iobj	_	AlignBegin=30790|AlignEnd=30903|Gloss=ACC.SG.1|Lang=en
 5	answer	answer	NOUN	_	_	3	obj	_	AlignBegin=30903|AlignEnd=31490|Gloss=answer|Lang=en
 6	<	<	X	_	_	9	dep	_	AlignBegin=31490|AlignEnd=31520|Gloss=PUNCT
 7	#	#	X	_	_	9	dep	_	AlignBegin=31520|AlignEnd=31768|Gloss=PUNCT
@@ -79,7 +79,7 @@ The following 18 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 6 8 acl	color:blue
 1	ah	ah	INTJ	_	_	5	discourse	_	AlignBegin=75160|AlignEnd=75723|Gloss=ah
 2	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	AlignBegin=75753|AlignEnd=75870|Gloss=NOM.SG.1
-3	no	no	PART	_	Polarity=Neg	5	advmod	_	AlignBegin=75870|AlignEnd=76007|Gloss=NEG
+3	no	no	AUX	_	Polarity=Neg	5	aux	_	AlignBegin=75870|AlignEnd=76007|Gloss=NEG
 4	con	con	AUX	_	Aspect=Cons	5	aux	_	AlignBegin=76007|AlignEnd=76233|Gloss=CONS
 5	know	know	VERB	_	_	0	root	_	AlignBegin=76233|AlignEnd=76480|Gloss=know
 6	where	where	ADV	_	PronType=Int	5	obj	_	AlignBegin=76480|AlignEnd=76659|Gloss=where.Q

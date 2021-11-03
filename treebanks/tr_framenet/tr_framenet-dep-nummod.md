@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-120 nodes (1%) are attached to their parents as `nummod`.
+121 nodes (1%) are attached to their parents as `nummod`.
 
-120 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.14166666666667.
+121 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.17355371900826.
 
-The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_framenet-pos-NUM.html">NUM</a></tt> (104; 87% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_framenet-pos-NUM.html">NUM</a></tt> (4; 3% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_framenet-pos-NUM.html">NUM</a></tt> (4; 3% instances), <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="tr_framenet-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_framenet-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_framenet-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_framenet-pos-NUM.html">NUM</a></tt> (105; 87% instances), <tt><a href="tr_framenet-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_framenet-pos-NUM.html">NUM</a></tt> (4; 3% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_framenet-pos-NUM.html">NUM</a></tt> (4; 3% instances), <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="tr_framenet-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_framenet-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="tr_framenet-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_framenet-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

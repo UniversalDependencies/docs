@@ -22,14 +22,14 @@ The following 6 pairs of parts of speech are connected with `punct`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 punct	color:blue
-1	oatap	atap	NOUN	n	Person=1	7	nsubj	7:nsubj	_
-2	ãka	ãka	PART	pcl	_	1	discourse	1:discourse	_
-3	ẽ	ẽ	INTJ	intj	_	1	discourse	1:discourse	_
-4	ẽ	ẽ	INTJ	intj	_	1	discourse	1:discourse	_
-5	,	,	PUNCT	punct	_	1	punct	1:punct	_
-6	oatap	atap	NOUN	n	Person=1	7	obj	7:obj	_
-7	õkwa	õkwa	VERB	vi	_	0	root	0:root	_
-8	on	on	PRON	pron	Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj	_
+1	oatap	atap	NOUN	n	Person=1	7	nsubj	_	_
+2	ãka	ãka	PART	pcl	_	1	discourse	_	_
+3	ẽ	ẽ	INTJ	intj	_	1	discourse	_	_
+4	ẽ	ẽ	INTJ	intj	_	1	discourse	_	_
+5	,	,	PUNCT	punct	_	1	punct	_	_
+6	oatap	atap	NOUN	n	Person=1	7	obj	_	_
+7	õkwa	õkwa	VERB	vi	_	0	root	_	_
+8	on	on	PRON	pron	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 
 ~~~
 
@@ -40,9 +40,9 @@ The following 6 pairs of parts of speech are connected with `punct`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 punct	color:blue
-1	koro	koro	NOUN	n	_	3	obj	3:obj	_
-2	,	,	PUNCT	punct	_	3	punct	3:punct	_
-3	oerekwa	erek	VERB	vi	Person=1|Trans=Yes	0	root	0:root	_
+1	koro	koro	NOUN	n	_	3	obj	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	oerekwa	erek	VERB	vi	Person=1|Trans=Yes	0	root	_	_
 
 ~~~
 
@@ -53,10 +53,10 @@ The following 6 pairs of parts of speech are connected with `punct`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 punct	color:blue
-1	kotin	ko	NOUN	n	_	4	obj	4:obj	_
-2	,	,	PUNCT	punct	_	3	punct	3:punct	_
-3	eme	eme	DET	dem	Deixis=Prox	1	appos	1:appos	_
-4	peka	peka	VERB	vt	_	0	root	0:root	_
+1	kotin	ko	NOUN	n	_	4	obj	_	_
+2	,	,	PUNCT	punct	_	3	punct	_	_
+3	eme	eme	DET	dem	Deixis=Prox	1	appos	_	_
+4	peka	peka	VERB	vt	_	0	root	_	_
 
 ~~~
 

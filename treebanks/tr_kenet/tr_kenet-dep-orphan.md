@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-10 nodes (0%) are attached to their parents as `orphan`.
+15 nodes (0%) are attached to their parents as `orphan`.
 
-5 instances of `orphan` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.5.
+8 instances of `orphan` (53%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.26666666666667.
 
-The following 6 pairs of parts of speech are connected with `orphan`: <tt><a href="tr_kenet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_kenet-pos-NOUN.html">NOUN</a></tt> (5; 50% instances), <tt><a href="tr_kenet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_kenet-pos-DET.html">DET</a></tt> (1; 10% instances), <tt><a href="tr_kenet-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_kenet-pos-NOUN.html">NOUN</a></tt> (1; 10% instances), <tt><a href="tr_kenet-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_kenet-pos-PRON.html">PRON</a></tt> (1; 10% instances), <tt><a href="tr_kenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_kenet-pos-PRON.html">PRON</a></tt> (1; 10% instances), <tt><a href="tr_kenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_kenet-pos-VERB.html">VERB</a></tt> (1; 10% instances).
+The following 7 pairs of parts of speech are connected with `orphan`: <tt><a href="tr_kenet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_kenet-pos-NOUN.html">NOUN</a></tt> (7; 47% instances), <tt><a href="tr_kenet-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_kenet-pos-NOUN.html">NOUN</a></tt> (3; 20% instances), <tt><a href="tr_kenet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_kenet-pos-ADJ.html">ADJ</a></tt> (1; 7% instances), <tt><a href="tr_kenet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_kenet-pos-DET.html">DET</a></tt> (1; 7% instances), <tt><a href="tr_kenet-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_kenet-pos-PRON.html">PRON</a></tt> (1; 7% instances), <tt><a href="tr_kenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_kenet-pos-PRON.html">PRON</a></tt> (1; 7% instances), <tt><a href="tr_kenet-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_kenet-pos-VERB.html">VERB</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 6 pairs of parts of speech are connected with `orphan`: <tt><a hre
 3	barutunu	barut	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	6	nummod	_	_
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	tapasını	tapa	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	3	conj	_	_
-6	koyayım	koy	VERB	_	Mood=Opt|Number=Sing|Person=1|Polarity=Pos|Tense=Pres	0	root	_	_
+6	koyayım	koy	VERB	_	Mood=Opt|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	,	,	PUNCT	_	_	6	punct	_	_
 8	beybaba	beybaba	NOUN	_	Case=Nom|Number=Sing|Person=3	6	conj	_	_
 9	saçmasını	saç	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	8	orphan	_	_
@@ -37,46 +37,51 @@ The following 6 pairs of parts of speech are connected with `orphan`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 orphan	color:blue
-1	Bu	bu	DET	_	Definite=Def	2	det	_	_
-2	yolun	yol	NOUN	_	Case=Gen|Number=Sing|Person=3	3	nmod	_	_
-3	üstünde	üst	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	10	obl	_	_
-4	Edirne	edirne	PROPN	_	Case=Nom|Number=Sing	6	nsubj	_	_
-5	bir	bir	DET	_	Definite=Ind	6	det	_	_
-6	konak	konak	NOUN	_	Case=Nom|Number=Sing|Person=3	10	nsubj	_	_
-7	,	,	PUNCT	_	_	6	punct	_	_
-8	hürriyet	hürriyet	NOUN	_	Case=Nom|Number=Sing|Person=3	6	conj	_	_
-9	bir	bir	DET	_	Definite=Ind	8	orphan	_	_
-10	merhaledir	merhale	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
-11	.	.	PUNCT	_	_	10	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 orphan	color:blue
+1	Başkasını	başka	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	2	obj	_	_
+2	seçselerdi	seç	VERB	_	Aspect=Perf|Mood=Des|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	17	advcl	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	o	o	DET	_	Definite=Def|PronType=Art	17	nsubj	_	_
+5	kaptan	kaptan	NOUN	_	Case=Nom|Number=Sing|Person=3	7	orphan	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	ben	ben	PRON	_	PronType=Prs	4	conj	_	_
+8	de	de	CCONJ	_	_	7	case	_	_
+9	seve	sev	VERB	_	Mood=Opt|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	compound	_	_
+10	seve	sev	VERB	_	Mood=Opt|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	17	advcl	_	_
+11	dalgıç	dalgıç	NOUN	_	Case=Nom|Number=Sing|Person=3	17	obj	_	_
+12	ya	ya	CCONJ	_	_	16	cc	_	_
+13	da	da	CCONJ	_	_	16	advmod	_	_
+14	hava	hava	NOUN	_	Case=Nom|Number=Sing|Person=3	15	nmod	_	_
+15	verici	verici	NOUN	_	Case=Nom|Number=Sing|Person=3	16	nmod	_	_
+16	makineci	makine	ADJ	_	_	11	conj	_	_
+17	olurdum	ol	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
+18	.	.	PUNCT	_	_	17	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
-# visual-style 11 13 orphan	color:blue
-1	Ateşin	ateş	NOUN	_	Case=Gen|Number=Sing|Person=3	2	nmod	_	_
-2	üzerinde	üzerinde	ADV	_	_	8	obl	_	_
-3	tüm	tüm	DET	_	_	4	det	_	_
-4	malzemeler	malzeme	NOUN	_	Case=Nom|Number=Plur|Person=3	8	nsubj	_	_
-5	hep	hep	ADV	_	_	7	advmod	_	_
-6	bir	bir	DET	_	Definite=Ind	7	det	_	_
-7	ağızdan	ağızdan	ADV	_	_	8	obl	_	_
-8	fokurduyordu	fokurduyordu	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
-9	ama	ama	CCONJ	_	_	13	cc	_	_
-10	her	her	DET	_	Definite=Def	11	det	_	_
-11	biri	biri	PRON	_	_	8	conj	_	_
-12	kendi	kendi	PRON	_	Reflex=Yes	13	nmod	_	_
-13	dilinde	dil	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	11	orphan	_	_
-14	.	.	PUNCT	_	_	13	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 11 orphan	color:blue
+1	Onun	o	PRON	_	PronType=Prs	2	nmod	_	_
+2	suçu	suç	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	3	obj	_	_
+3	sayılır	say	VERB	_	Aspect=Hab|Mood=Gen|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	denizin	deniz	NOUN	_	Case=Gen|Number=Sing|Person=3	5	nmod	_	_
+5	alçalması	alçalma	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	3	csubj	_	_
+6	/	/	PUNCT	_	_	12	punct	_	_
+7	Tarlaların	tarla	NOUN	_	Case=Gen|Number=Plur|Person=3	12	nsubj	_	_
+8	ekinsiz	ekinsiz	ADJ	_	_	12	advmod	_	_
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	davarın	davar	NOUN	_	Case=Gen|Number=Sing|Person=3	7	conj	_	_
+11	aç	aç	ADJ	_	_	10	orphan	_	_
+12	kalması	kal	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	conj	_	_
 
 ~~~
 

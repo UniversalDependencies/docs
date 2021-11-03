@@ -7,34 +7,28 @@ udver: '2'
 ## Treebank Statistics: UD_Erzya-JR: Relations: `aux`
 
 This relation is universal.
-There are 5 language-specific subtypes of `aux`: <tt><a href="myv_jr-dep-aux-cnd.html">aux:cnd</a></tt>, <tt><a href="myv_jr-dep-aux-imp.html">aux:imp</a></tt>, <tt><a href="myv_jr-dep-aux-neg.html">aux:neg</a></tt>, <tt><a href="myv_jr-dep-aux-opt.html">aux:opt</a></tt>, <tt><a href="myv_jr-dep-aux-q.html">aux:q</a></tt>.
+There are 7 language-specific subtypes of `aux`: <tt><a href="myv_jr-dep-aux-aspect.html">aux:aspect</a></tt>, <tt><a href="myv_jr-dep-aux-cnd.html">aux:cnd</a></tt>, <tt><a href="myv_jr-dep-aux-imp.html">aux:imp</a></tt>, <tt><a href="myv_jr-dep-aux-nec.html">aux:nec</a></tt>, <tt><a href="myv_jr-dep-aux-neg.html">aux:neg</a></tt>, <tt><a href="myv_jr-dep-aux-opt.html">aux:opt</a></tt>, <tt><a href="myv_jr-dep-aux-q.html">aux:q</a></tt>.
 
-34 nodes (0%) are attached to their parents as `aux`.
+22 nodes (0%) are attached to their parents as `aux`.
 
-30 instances of `aux` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.38235294117647.
+21 instances of `aux` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.36363636363636.
 
-The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (33; 97% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (1; 3% instances).
+The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (21; 95% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 aux	color:blue
-1	―	―	PUNCT	PUNCT	_	5	punct	_	_
-2	Да	да	INTJ	Interj	_	5	discourse	_	GTtags=|SpaceAfter=No
-3	,	,	PUNCT	CLB	_	2	punct	_	_
-4	эряви	эрявомс	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	5	aux	_	_
-5	капшамс	капшамс	VERB	V	Valency=1|VerbForm=Inf	0	root	_	GTtags=IV,Inf|SpaceAfter=No
-6	!	!	PUNCT	CLB	_	5	punct	_	_
-7	―	―	PUNCT	PUNCT	_	10	punct	_	_
-8	кежей	кежей	ADJ	A	_	9	amod	_	_
-9	ладсо	ладсо	ADP	Adp	_	10	obl	_	_
-10	пшкадсь	пшкадемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	5	conj	_	GTtags=IV,Ind,Prt1,ScSg3
-11	Ясребов	Ястребов	PROPN	PROPN	Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	10	nsubj	_	GTtags=Sg,Nom,Indef|SpaceAfter=No
-12	.	.	PUNCT	CLB	_	5	punct	_	_
+# visual-style 4 3 aux	color:blue
+1	Тедиде	тедиде	ADV	Adv	AdvType=Tim	4	advmod:tmod	_	GTtags=Dial,Sem/Time_dur
+2	вана	вана	PART	Pcle	_	4	discourse	_	_
+3	савсь	савомс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	4	aux	_	GTtags=Der/ОвОмс,IV,Ind,Prt1,ScSg3
+4	молемс	молемс	VERB	V	VerbForm=Inf	0	root	_	GTtags=Inf
+5	Моргоненьгак	Морго	PROPN	N	Case=Dat|Definite=Ind|NameType=Giv|Number=Plur,Sing	4	nsubj	_	GTtags=Sem/Ant_Mal,SP,Dat,Indef|SpaceAfter=No
+6	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 

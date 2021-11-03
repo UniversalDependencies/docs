@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="tr_framenet-pos-VER
 
 134 <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (125; 93%), <tt><a href="tr_framenet-feat-Person.html">Person</a></tt><tt>=3</tt> (119; 89%), <tt><a href="tr_framenet-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (117; 87%), <tt><a href="tr_framenet-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (117; 87%), <tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (104; 78%), <tt><a href="tr_framenet-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (101; 75%), <tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (90; 67%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="tr_framenet-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (134; 100%), <tt><a href="tr_framenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (125; 93%), <tt><a href="tr_framenet-feat-Person.html">Person</a></tt><tt>=3</tt> (119; 89%), <tt><a href="tr_framenet-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (117; 87%), <tt><a href="tr_framenet-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (110; 82%), <tt><a href="tr_framenet-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (101; 75%), <tt><a href="tr_framenet-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (90; 67%).
 
 `VERB` tokens may have the following values of `Voice`:
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 * `Pass` (81; 60% of non-empty `Voice`): <em>edildi, kesildi, sallanıyor, çekildi, atıldı, devrildi, koyuldu, alınmaz, atanmıştı, atılmıştı</em>
 * `Rcp` (4; 3% of non-empty `Voice`): <em>çekişe, elleşme, çöküştüler</em>
 * `Rfl` (1; 1% of non-empty `Voice`): <em>taranıyor</em>
-* `EMPTY` (3204): <em>etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, ettim, gitti</em>
+* `EMPTY` (3203): <em>etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, ettim, gitti</em>
 
 <table>
   <tr><th>Paradigm <i>ol</i></th><th><tt>Pass</tt></th><th><tt>Cau</tt></th></tr>

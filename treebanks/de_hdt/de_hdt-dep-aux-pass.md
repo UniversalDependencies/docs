@@ -11,7 +11,7 @@ This relation is a language-specific subtype of <tt><a href="de_hdt-dep-aux.html
 32895 nodes (1%) are attached to their parents as `aux:pass`.
 
 18049 instances of `aux:pass` (55%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.79823681410549.
+Average distance between parent and child is 3.86858185134519.
 
 The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (32894; 100% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt>-<tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
@@ -19,17 +19,18 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 3 aux:pass	color:blue
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 3 aux:pass	color:blue
 1	Alte	alt	ADJ	ADJA	Degree=Pos|Number=Plur	2	amod	_	_
-2	EMails	EMails	NOUN	NN	Case=Nom|Person=3	7	nsubj:pass	_	_
-3	wurden	werden	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	aux:pass	_	_
-4	nicht	nicht	PART	PTKNEG	Polarity=Neg	7	advmod	_	_
-5	vom	vom	ADP	APPRART	AdpType=Prep|Case=Dat|PronType=Art	6	case	_	_
-6	Server	Server	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing|Person=3	7	obl	_	_
-7	gelöscht	löschen	VERB	VVPP	Aspect=Perf|VerbForm=Part	0	root	_	_
-8	.	.	PUNCT	$.	PunctType=Peri	7	punct	_	_
+2	EMails	EMails	NOUN	NN	Case=Nom|Person=3	8	nsubj:pass	_	_
+3	wurden	werden	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	aux:pass	_	_
+4	nicht	nicht	PART	PTKNEG	Polarity=Neg	8	advmod	_	_
+5	von	von	ADP	APPR	AdpType=Prep|Case=Dat	7	case	_	_
+6	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	7	det	_	_
+7	Server	Server	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing|Person=3	8	obl	_	_
+8	gelöscht	löschen	VERB	VVPP	Aspect=Perf|VerbForm=Part	0	root	_	_
+9	.	.	PUNCT	$.	PunctType=Peri	8	punct	_	_
 
 ~~~
 

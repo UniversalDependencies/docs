@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Lauren Cassidy, Teresa Lynn, Jennifer Foster, Sarah McGuinness.
 
 Repository: [UD_Irish-TwittIrish](https://github.com/UniversalDependencies/UD_Irish-TwittIrish)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udga_twittirish28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udga_twittirish29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-SA 4.0
 
@@ -216,7 +216,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (160)</li>
+      <li>VERB--NOUN (159)</li>
       <li>VERB--NOUN-ADP(chun) (1)</li>
       <li>VERB--NOUN-ADP(do) (1)</li>
       <li>VERB--PRON (38)</li>

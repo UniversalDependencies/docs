@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Fabrício Ferraz Gerardi.
 
 Repository: [UD_Tupinamba-TuDeT](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtpn_tudet28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtpn_tudet29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-SA 4.0
 
@@ -44,7 +44,7 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). The project is a work in progress and the treebank is being updated on a regular basis.
+UD_Tupinamba-TuDeT is a collection of annotated texts in Tupi(nambá). The project is work-in-progress and the treebank is being updated on a regular basis.
 
 
 
@@ -91,7 +91,7 @@ The development of the treebank is supported by the by European Research Council
 
 
 <ul>
-<li>This corpus contains 210 sentences, 1497 tokens and 1515 syntactic words.</li>
+<li>This corpus contains 218 sentences, 1542 tokens and 1560 syntactic words.</li>
 </ul>
 
 <ul>
@@ -152,7 +152,7 @@ The development of the treebank is supported by the by European Research Council
   <ul>
     <li>AUX: oina</li>
     <li>NOUN: ipetépeteka, potareʔɨma, potasáβamo, rerojɨpa</li>
-    <li>VERB: ojaβo, meʔenga, motá, ojkóβo, omanõmo, Ojerokɨ, akakapa, aʔupa, ijukáβo, imojá</li>
+    <li>VERB: ojaβo, meʔenga, motá, ojkóβo, omanõmo, Ojerokɨ, akakapa, aʔupa, ijukáβo, imoingóβo</li>
   </ul>
   </li>
 </ul>
@@ -244,7 +244,7 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Ref
     <ul>
-      <li>NOUN: jandéjara, ʔara, takwara, raʔangaβa, aotinga, itajuβa, jara, mondá, mombewaβa, oguβa</li>
+      <li>NOUN: jandéjara, ʔara, takwara, raʔangaβa, aotinga, itajuβa, jara, mondá, moruβiʃaβa, mombewaβa</li>
       <li>NOUN-Ger: potareʔɨma</li>
       <li>PRON: asé</li>
     </ul>
@@ -312,10 +312,10 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Iter
     <ul>
-      <li>NOUN: inupãnupã, ipetépeteka, seroʔaroʔa</li>
+      <li>NOUN: inupãnupã, imoperéperéβi, inupãnupãsara, ipetépeteka, seroʔaroʔa</li>
       <li>NOUN-Ger: ipetépeteka</li>
-      <li>VERB: Oposẽposem, kutukutuka, ojekájeká, opwáopwá, otumũtumunga, oβuoβur, sasapa, sekɨjsekɨjetéβo</li>
-      <li>VERB-Ger: kutukutuka, otumũtumunga, sasapa, sekɨjsekɨjetéβo</li>
+      <li>VERB: Oposẽposem, kutukutuka, ojekájeká, ojoporuporwaβo, opwáopwá, otumũtumunga, oβuoβur, sasapa, sekɨjsekɨjetéβo</li>
+      <li>VERB-Ger: kutukutuka, ojoporuporwaβo, otumũtumunga, sasapa, sekɨjsekɨjetéβo</li>
     </ul>
   </li>
 </ul>
@@ -381,10 +381,10 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Cau
     <ul>
-      <li>NOUN: ijukaukar, imoerapwanɨmbɨra, imojarɨpɨrwera, moetéw, moini, moreroka, moʔãmi, omoʔangekoaíme, rerojɨpa, ʃekwaukámo</li>
+      <li>NOUN: ijukaukar, imoerapwanɨmbɨra, imojarɨpɨrwera, imoperéperéβi, moetéw, moini, moreroka, moʔãmi, omoʔangekoaíme, rerojɨpa</li>
       <li>NOUN-Ger: rerojɨpa</li>
-      <li>VERB: moeté, ojmoeté, Nd'ojmoasɨipe, Ojmoasɨ, Ojmoʔɨʔu, Ojmoʔɨʔupe, ajukaukáne, moasɨ́aβo, momoʃɨaβo, mopena</li>
-      <li>VERB-Ger: moasɨ́aβo, momoʃɨaβo, mopena, mosɨrɨka, sepjakuká</li>
+      <li>VERB: moeté, ojmoeté, Nd'ojmoasɨipe, Ojmoasɨ, Ojmoʔɨʔu, Ojmoʔɨʔupe, ajukaukáne, imoingóβo, imouwɨsɨrɨka, imoʔama</li>
+      <li>VERB-Ger: imoingóβo, imouwɨsɨrɨka, imoʔama, moasɨ́aβo, momoʃɨaβo, mopena, mosɨrɨka, sepjakuká</li>
     </ul>
   </li>
 </ul>
@@ -475,8 +475,8 @@ The development of the treebank is supported by the by European Research Council
       <li>ADP: ojoupé, ojoesé, ojoswi</li>
       <li>NOUN: osɨ, oguβa, Oguwɨ, Oker, oakangaoβĩ, oeʔõ, ogupjarama, omaʔendwáramo, ombaʔe, opɨʔape</li>
       <li>PRON: o</li>
-      <li>VERB: Ojeaɨβɨk, Ojepoej, Ojerokɨ, Ojerokɨpe, Oɲenomũnomũ, ojekájeká, ojemotupana, ojoβasapa, oɲemopɨtun, oɲemosakojaβo</li>
-      <li>VERB-Ger: Ojeaɨβɨk, Ojerokɨ, Ojerokɨpe, ojoβasapa, oɲemosakojaβo</li>
+      <li>VERB: Ojeaɨβɨk, Ojepoej, Ojerokɨ, Ojerokɨpe, Oɲenomũnomũ, ojekájeká, ojemotupana, ojoporuporwaβo, ojoβasapa, oɲemopɨtun</li>
+      <li>VERB-Ger: Ojeaɨβɨk, Ojerokɨ, Ojerokɨpe, ojoporuporwaβo, ojoβasapa, oɲemosakojaβo</li>
     </ul>
   </li>
 </ul>
@@ -529,9 +529,9 @@ The development of the treebank is supported by the by European Research Council
   <li>3
     <ul>
       <li>AUX-Ger: oina</li>
-      <li>NOUN: Ojaseʔõerekó, ojkóβaʔe, oasẽngatúramo, ogókɨpe, ojopɨtérɨβo, osembaʔe, owatáβaʔe</li>
+      <li>NOUN: Ojaseʔõerekó, ojkóβaʔe, oasẽngatúramo, ogókɨpe, ojopɨtérɨβo, osembaʔe, ourɨβaʔe, owatáβaʔe</li>
       <li>VERB: eʔi, eʔipe, ojaβo, Osó, Owatá, ojkóβo, omanõmo, owerasó, Nd'ojkójpe, opjá</li>
-      <li>VERB-Ger: ojaβo, ojkóβo, omanõmo, osóβo, Ojeaɨβɨk, ojaseʔõerekóβo, ojaβope, ojoβasapa, ojáβope, omemwãnamo</li>
+      <li>VERB-Ger: ojaβo, ojkóβo, omanõmo, osóβo, Ojeaɨβɨk, ojaseʔõerekóβo, ojaβope, ojoporuporwaβo, ojoβasapa, ojáβope</li>
     </ul>
   </li>
 </ul>
@@ -539,7 +539,7 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>33
     <ul>
-      <li>VERB: Ojaratã, ojmeʔeŋ, Ojaoβok, Ojerokɨ, Ojerokɨpe, Ojmongetá, Ojpɨsó, Osapjar, Osapjápe, Osokendaβ</li>
+      <li>VERB: Ojaoβok, Ojaratã, ojmeʔeŋ, Ojerokɨ, Ojerokɨpe, Ojmongetá, Ojpɨsó, Osapjar, Osapjápe, Osokendaβ</li>
       <li>VERB-Ger: Ojerokɨ, Ojerokɨpe</li>
     </ul>
   </li>
@@ -623,10 +623,10 @@ The development of the treebank is supported by the by European Research Council
     <ul>
       <li>Yes
         <ul>
-          <li>ADP: pupépe, swipe, resépe</li>
+          <li>ADP: jakatupe, pupépe, swipe, resépe</li>
           <li>ADV: marã, Marãnamope, Marãpe, βépe, aβépe, Mamõpe, Marãnemetepe, aβépeno, marãnamo</li>
           <li>DET: aʔepe</li>
-          <li>NOUN: Aβápe, Natuβitepe, Niʃɨjtepe, osɨβápe, ɨβákɨpe</li>
+          <li>NOUN: Aβápe, Natuβitepe, Niʃɨjtepe, Setápe, osɨβápe, ɨβákɨpe</li>
           <li>PART: ɲẽpe, aʔepe, ʃwémo, ʃwépemo</li>
           <li>SCONJ: jaβépe</li>
           <li>VERB: eʔipe, Eresawsupe, Nd'ojmoasɨipe, Ojerokɨpe, Ojmoʔɨʔupe, Ojpotakatupe, Ojtɨ́kɨpe, Osoβasápe, ojáβope</li>
@@ -642,7 +642,8 @@ The development of the treebank is supported by the by European Research Council
     <ul>
       <li>Yes
         <ul>
-          <li>NOUN: Tupãetéramo, Ndepópekatu, Turusukatu, apɨaβetéramo, apɨ́aβetéramo, iporangete, ipópekatu, oasẽngatúramo, oporeawsuβetekatúramo, renõjndaβeté</li>
+          <li>ADP: jakatu</li>
+          <li>NOUN: Tupãetéramo, Ndepópekatu, Turusukatu, Turusukatupe, apɨaβetéramo, apɨ́aβetéramo, iporangete, ipópekatu, oasẽngatúramo, oporeawsuβetekatúramo</li>
           <li>VERB: Ojeaɨβɨk, Ojpotakatu, Ojpotakatupe, ʃemoɨrõetékatuaβo</li>
           <li>VERB-Ger: Ojeaɨβɨk, ʃemoɨrõetékatuaβo</li>
         </ul>
@@ -656,7 +657,7 @@ The development of the treebank is supported by the by European Research Council
     <ul>
       <li>Ag
         <ul>
-          <li>NOUN: iporeawsuβerekosáramo, itɨmbáramo, ojukasara, oréamotareʔɨmbara, reroβjasáramo, serobβjasareʔɨma, seroβjasara, soarama, tekoara</li>
+          <li>NOUN: inupãnupãsara, iporeawsuβerekosáramo, itɨmbáramo, ojukasara, oréamotareʔɨmbara, reroβjasáramo, serobβjasareʔɨma, seroβjasara, soarama, tekoara</li>
         </ul>
       </li>
       <li>CCirc
@@ -673,12 +674,12 @@ The development of the treebank is supported by the by European Research Council
       </li>
       <li>Pas
         <ul>
-          <li>NOUN: imongaraiβɨpɨra, imoerapwanɨmbɨra, imojarɨpɨrwera, remimoɲanga, seroβiarɨpɨra, ʃeaɲangusumiʃɨra</li>
+          <li>NOUN: imongaraiβɨpɨra, imoerapwanɨmbɨra, imojarɨpɨrwera, remiepjákamo, remimoɲanga, seroβiarɨpɨra, ʃeaɲangusumiʃɨra</li>
         </ul>
       </li>
       <li>Rel
         <ul>
-          <li>NOUN: ojkóβaʔe, serɨβaʔe, osembaʔe, owatáβaʔe, sérɨβaʔe, sɨapwanɨβaʔe</li>
+          <li>NOUN: ojkóβaʔe, serɨβaʔe, osembaʔe, ourɨβaʔe, owatáβaʔe, sérɨβaʔe, sɨapwanɨβaʔe</li>
         </ul>
       </li>
     </ul>
@@ -702,9 +703,9 @@ The development of the treebank is supported by the by European Research Council
     <ul>
       <li>Di
         <ul>
-          <li>NOUN: imoperépereβawera, joβasaβetáetáwne</li>
-          <li>VERB: ojekájeká, opwáopwá, otumũtumunga, owasẽasẽmamo</li>
-          <li>VERB-Ger: otumũtumunga, owasẽasẽmamo</li>
+          <li>NOUN: imoperépereβawera, imoperéperéβi, inupãnupãsara, joβasaβetáetáwne, okaneʔõneʔõnamo</li>
+          <li>VERB: ojekájeká, ojoporuporwaβo, opwáopwá, otumũtumunga, owasẽasẽmamo</li>
+          <li>VERB-Ger: ojoporuporwaβo, otumũtumunga, owasẽasẽmamo</li>
         </ul>
       </li>
       <li>Mo
@@ -719,11 +720,6 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li><a>Rel</a>
     <ul>
-      <li>Abs
-        <ul>
-          <li>NOUN: Tuβa, taʔɨra, teko, toʔo, tekoara, taβusu, tekó, tekópɨsasu, Natuβi, Natuβitepe</li>
-        </ul>
-      </li>
       <li>Cont
         <ul>
           <li>ADP: resé, supé, swi, pupé, rupi, ipupé, iré, naʃeresé, ʔári, ojoupé</li>
@@ -734,16 +730,16 @@ The development of the treebank is supported by the by European Research Council
       </li>
       <li>Hum
         <ul>
-          <li>NOUN: moroesé, mosanga</li>
+          <li>NOUN: teko, toʔo, Tuβa, tekoara, moroesé, tekó, tekópɨsasu, mosanga, tekoangajpaβa, teʔɨja</li>
         </ul>
       </li>
       <li>NCont
         <ul>
           <li>ADP: sesé, iʃupé, ipupé, ipɨ́ri, iʃuí, iʃwi, iʃwí, iʔárɨβo, soβaké, supé</li>
-          <li>NOUN: iʃɨ, sekó, seków, sekóreme, sereków, soβá, Ikatupe, Suwɨsɨrɨk, ipɨ, seroβjámo</li>
+          <li>NOUN: iʃɨ, sekó, ikatupe, seków, suwɨ, sekóreme, sereków, soβá, taʔɨra, Suwɨsɨrɨk</li>
           <li>SCONJ: ijaβé</li>
-          <li>VERB: Ojmongetá, iatɨkáβo, ijukáβo, Ijaoβoka, Nd'ojmoasɨipe, Ojmoasɨ, Ojtɨk, Ojtɨ́kɨpe, ikwaβeʔenga, imoingóβo</li>
-          <li>VERB-Ger: ijukáβo, Ijaoβoka, ikwaβeʔenga, imoingóβo, imojáno, imondepa, imondóβo, ipɨtɨβõmo, iʔwaβo, ojaβo</li>
+          <li>VERB: Ojmongetá, iatɨkáβo, ijukáβo, imoingóβo, Ijaoβoka, Nd'ojmoasɨipe, Ojmoasɨ, Ojtɨk, Ojtɨ́kɨpe, ikwaβeʔenga</li>
+          <li>VERB-Ger: ijukáβo, imoingóβo, Ijaoβoka, ikwaβeʔenga, imojáno, imondepa, imondóβo, imouwɨsɨrɨka, imoʔama, ipopwá</li>
         </ul>
       </li>
     </ul>

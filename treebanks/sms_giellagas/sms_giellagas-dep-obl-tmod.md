@@ -9,7 +9,7 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="sms_giellagas-dep-obl.html">obl</a></tt>.
 There are also 2 other language-specific subtypes of `obl`: <tt><a href="sms_giellagas-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="sms_giellagas-dep-obl-lmod.html">obl:lmod</a></tt>.
 
-12 nodes (1%) are attached to their parents as `obl:tmod`.
+12 nodes (0%) are attached to their parents as `obl:tmod`.
 
 8 instances of `obl:tmod` (67%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.

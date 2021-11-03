@@ -18,17 +18,21 @@ The following 1 pairs of parts of speech are connected with `nsubj:advmod`: <tt>
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 nsubj:advmod	color:blue
-1	kar	_	CCONJ	CONcoo	_	3	cc:nc	_	_
-2	jon	_	PRON	PROper.PROper	PronType=Prs	3	nsubj:advmod	_	_
-3	irai	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
-4	en	_	ADP	PRE	_	6	case	_	_
-5	l'	_	DET	DETdef	Definite=Def|PronType=Art	6	det	_	_
-6	estree	_	NOUN	NOMcom	_	3	obl	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 nsubj:advmod	color:blue
+1	cel	_	PRON	PROdem	PronType=Dem	5	obl	_	XmlId=w_AlexisRaM_4907
+2	n'	_	ADV	ADVneg	Polarity=Neg	5	advmod	_	SpaceAfter=No|XmlId=w_AlexisRaM_4908
+3	enn	_	ADV	PROadv	PronType=Dem	1	advmod	_	XmlId=w_AlexisRaM_4909
+4	i	_	ADV	PROadv	PronType=Dem	5	obl	_	XmlId=w_AlexisRaM_4910
+5	at	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_AlexisRaM_4911
+6	kin	_	PRON	PROrel.ADVneg	PronType=Rel	7	nsubj:advmod	_	XmlId=w_AlexisRaM_4912
+7	report	_	VERB	VERcjg	VerbForm=Fin	1	acl	_	XmlId=w_AlexisRaM_4913
+8	sa	_	DET	DETpos	Poss=Yes	9	det	_	XmlId=w_AlexisRaM_4914
+9	dolur	_	NOUN	NOMcom	_	7	obj	_	SpaceAfter=No|XmlId=w_AlexisRaM_4915
+10	.	_	PUNCT	PONfrt	_	7	punct	_	XmlId=w_AlexisRaM_4916
 
 ~~~
 

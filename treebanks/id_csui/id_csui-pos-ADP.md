@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Indonesian-CSUI: POS Tags: `ADP`
 
-There are 47 `ADP` lemmas (1%), 44 `ADP` types (1%) and 2230 `ADP` tokens (8%).
+There are 47 `ADP` lemmas (1%), 44 `ADP` types (1%) and 2233 `ADP` tokens (8%).
 Out of 17 observed tags, the rank of `ADP` is: 9 in number of lemmas, 9 in number of types and 5 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>di, pada, dari, dalam, dengan, untuk, per, oleh, turut, ke</em>
@@ -15,7 +15,7 @@ The 10 most frequent `ADP` types:  <em>di, pada, dari, dalam, dengan, untuk, per
 
 The 10 most frequent ambiguous lemmas: <em>di</em> (<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 374, <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 1), <em>pada</em> (<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 280, <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 2), <em>dari</em> (<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 253, <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 7), <em>dalam</em> (<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 195, <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> 16, <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 7), <em>dengan</em> (<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 188, <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 56), <em>untuk</em> (<tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 128, <tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 106), <em>oleh</em> (<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 87, <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 1), <em>turut</em> (<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 69, <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> 4), <em>hadap</em> (<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 43, <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> 9), <em>hingga</em> (<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 43, <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 6)
 
-The 10 most frequent ambiguous types:  <em>di</em> (<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 367, <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 1), <em>pada</em> (<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 270, <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 2), <em>dari</em> (<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 244, <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 7), <em>dalam</em> (<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 171, <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> 15, <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 7), <em>dengan</em> (<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 174, <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 55), <em>untuk</em> (<tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 126, <tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 102), <em>oleh</em> (<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 86, <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 1), <em>hingga</em> (<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 41, <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 6), <em>secara</em> (<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 31, <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 4), <em>atas</em> (<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 27, <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> 16)
+The 10 most frequent ambiguous types:  <em>di</em> (<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 367, <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 1), <em>pada</em> (<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 270, <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 2), <em>dari</em> (<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 244, <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 7), <em>dalam</em> (<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 171, <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> 15, <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 7), <em>dengan</em> (<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 174, <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 55), <em>untuk</em> (<tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 126, <tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 102), <em>oleh</em> (<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 86, <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 1), <em>hingga</em> (<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 41, <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 6), <em>atas</em> (<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 26, <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> 16, <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 1), <em>karena</em> (<tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 44, <tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 24)
 
 
 * <em>di</em>
@@ -43,16 +43,17 @@ The 10 most frequent ambiguous types:  <em>di</em> (<tt><a href="id_csui-pos-ADP
 * <em>hingga</em>
   * <tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 41: <em>Ia mengatakan kejahatan itu bernilai <b>hingga</b> £ 12.900 .</em>
   * <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 6: <em>" Kami memperkirakan rupiah akan kembali melemah <b>hingga</b> berada pada posisi Rp 9.420 sampai Rp 9.430 per dolar AS , " kata nya .</em>
-* <em>secara</em>
-  * <tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 31: <em>Dengan kata lain , pemerintah sekarang dalam posisi yang kuat <b>secara</b> finansial dan itu sangat bagus .</em>
-  * <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 4: <em>Untuk itu , ia mengatakan , saat ini pihak nya menurunkan tingkat BI rate <b>secara</b> bertahap sebesar 0,25 persen .</em>
 * <em>atas</em>
-  * <tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 27: <em>Sutradara Peter Jackson meraih Piala Oscar <b>atas</b> karya nya Lord of the Rings : The Return of the King .</em>
+  * <tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 26: <em>Sutradara Peter Jackson meraih Piala Oscar <b>atas</b> karya nya Lord of the Rings : The Return of the King .</em>
   * <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> 16: <em>Dia menambahkan semua pelamar harus berusia 16 tahun ke <b>atas</b> dan siapa pun yang tidak memenuhi ketentuan tinggi badan akan ditolak .</em>
+  * <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 1: <em>" Yang bertanggung jawab <b>atas</b> banyak nya remaja yang merokok adalah mereka yang memberi akses ke rokok itu sendiri . Itu lah yang harus dikejar . "</em>
+* <em>karena</em>
+  * <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> 44: <em>Binatang ini tidak bisa dibunuh <b>karena</b> masyarakat India menganggap mereka suci .</em>
+  * <tt><a href="id_csui-pos-ADP.html">ADP</a></tt> 24: <em>Sarah Murdoch berusaha menjelaskan kekeliruan itu terjadi <b>karena</b> selisih suara yang ketat .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 0.936170 (the average of all parts of speech is 1.084934).
+The form / lemma ratio of `ADP` is 0.936170 (the average of all parts of speech is 1.085880).
 
 The 1st highest number of forms (1) was observed with the lemma “Atas”: <em>Atas</em>.
 
@@ -65,17 +66,19 @@ The 3rd highest number of forms (1) was observed with the lemma “Dari”: <em>
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 5 different relations: <tt><a href="id_csui-dep-case.html">case</a></tt> (2197; 99% instances), <tt><a href="id_csui-dep-case-adv.html">case:adv</a></tt> (28; 1% instances), <tt><a href="id_csui-dep-fixed.html">fixed</a></tt> (3; 0% instances), <tt><a href="id_csui-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="id_csui-dep-amod.html">amod</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 6 different relations: <tt><a href="id_csui-dep-case.html">case</a></tt> (2173; 97% instances), <tt><a href="id_csui-dep-case-adv.html">case:adv</a></tt> (38; 2% instances), <tt><a href="id_csui-dep-advmod.html">advmod</a></tt> (10; 0% instances), <tt><a href="id_csui-dep-mark.html">mark</a></tt> (7; 0% instances), <tt><a href="id_csui-dep-fixed.html">fixed</a></tt> (4; 0% instances), <tt><a href="id_csui-dep-amod.html">amod</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 9 different parts of speech: <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (1431; 64% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> (519; 23% instances), <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (95; 4% instances), <tt><a href="id_csui-pos-NUM.html">NUM</a></tt> (79; 4% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (43; 2% instances), <tt><a href="id_csui-pos-X.html">X</a></tt> (31; 1% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> (27; 1% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="id_csui-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 10 different parts of speech: <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (1429; 64% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> (490; 22% instances), <tt><a href="id_csui-pos-NUM.html">NUM</a></tt> (111; 5% instances), <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (77; 3% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> (45; 2% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (44; 2% instances), <tt><a href="id_csui-pos-X.html">X</a></tt> (31; 1% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="id_csui-pos-DET.html">DET</a></tt> (1; 0% instances)
 
-2229 (100%) `ADP` nodes are leaves.
+2216 (99%) `ADP` nodes are leaves.
 
-1 (0%) `ADP` nodes have one child.
+16 (1%) `ADP` nodes have one child.
 
-The highest child degree of a `ADP` node is 1.
+1 (0%) `ADP` nodes have two children.
 
-Children of `ADP` nodes are attached using 1 different relations: <tt><a href="id_csui-dep-fixed.html">fixed</a></tt> (1; 100% instances)
+The highest child degree of a `ADP` node is 2.
 
-Children of `ADP` nodes belong to 1 different parts of speech: <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (1; 100% instances)
+Children of `ADP` nodes are attached using 1 different relations: <tt><a href="id_csui-dep-fixed.html">fixed</a></tt> (18; 100% instances)
+
+Children of `ADP` nodes belong to 3 different parts of speech: <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (16; 89% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (1; 6% instances)
 

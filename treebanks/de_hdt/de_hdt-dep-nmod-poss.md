@@ -67,28 +67,29 @@ The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 16 nmod:poss	color:blue
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 17 nmod:poss	color:blue
 1	"	"	PUNCT	$(	PunctType=Brck	5	punct	_	_
 2	Die	Die	DET	ART	Case=Nom|Number=Plur|PronType=Art	4	det	_	_
 3	amerikanischen	amerikanisch	ADJ	ADJA	Degree=Pos|Number=Plur	4	amod	_	_
 4	Geheimdienste	Dienst	NOUN	NN	Gender=Masc|Number=Plur|Person=3	5	nsubj	_	_
 5	handeln	handeln	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	nicht	nicht	PART	PTKNEG	Polarity=Neg	8	advmod	_	_
-7	im	im	ADP	APPRART	AdpType=Prep|Case=Dat|PronType=Art	8	case	_	_
-8	Auftrag	Auftrag	NOUN	NN	Gender=Masc|Number=Sing|Person=3	5	obl	_	_
-9	von	von	ADP	APPR	AdpType=Prep|Case=Dat	10	case	_	_
-10	US-Unternehmen	Unternehmen	NOUN	NN	Gender=Neut|Number=Plur|Person=3	8	nmod	_	_
-11	,	,	PUNCT	$,	PunctType=Comm	14	punct	_	_
-12	sondern	sondern	CCONJ	KON	_	14	cc	_	_
-13	in	in	ADP	APPR	AdpType=Prep|Case=Dat	14	case	_	_
-14	dem	dem	PRON	PDS	Case=Dat|Gender=Neut|Number=Sing|Person=3|PronType=Dem	8	conj	_	_
-15	der	der	DET	ART	Case=Gen|Gender=Fem|Number=Sing|PronType=Art	16	det:poss	_	_
-16	Regierung	Regierung	NOUN	NN	Gender=Fem|Number=Sing|Person=3	14	nmod:poss	_	_
-17	.	.	PUNCT	$.	PunctType=Peri	5	punct	_	_
+6	nicht	nicht	PART	PTKNEG	Polarity=Neg	9	advmod	_	_
+7	in	in	ADP	APPR	AdpType=Prep|Case=Dat	9	case	_	_
+8	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	9	det	_	_
+9	Auftrag	Auftrag	NOUN	NN	Gender=Masc|Number=Sing|Person=3	5	obl	_	_
+10	von	von	ADP	APPR	AdpType=Prep|Case=Dat	11	case	_	_
+11	US-Unternehmen	Unternehmen	NOUN	NN	Gender=Neut|Number=Plur|Person=3	9	nmod	_	_
+12	,	,	PUNCT	$,	PunctType=Comm	15	punct	_	_
+13	sondern	sondern	CCONJ	KON	_	15	cc	_	_
+14	in	in	ADP	APPR	AdpType=Prep|Case=Dat	15	case	_	_
+15	dem	dem	PRON	PDS	Case=Dat|Gender=Neut|Number=Sing|Person=3|PronType=Dem	9	conj	_	_
+16	der	der	DET	ART	Case=Gen|Gender=Fem|Number=Sing|PronType=Art	17	det:poss	_	_
+17	Regierung	Regierung	NOUN	NN	Gender=Fem|Number=Sing|Person=3	15	nmod:poss	_	_
+18	.	.	PUNCT	$.	PunctType=Peri	5	punct	_	_
 
 ~~~
 

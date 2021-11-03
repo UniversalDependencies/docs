@@ -8,12 +8,30 @@ udver: '2'
 
 This relation is universal.
 
-320 nodes (0%) are attached to their parents as `aux`.
+526 nodes (0%) are attached to their parents as `aux`.
 
-317 instances of `aux` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.08125.
+520 instances of `aux` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.09505703422053.
 
-The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="tr_penn-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (124; 39% instances), <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (120; 38% instances), <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (40; 13% instances), <tt><a href="tr_penn-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (19; 6% instances), <tt><a href="tr_penn-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (5; 2% instances), <tt><a href="tr_penn-pos-DET.html">DET</a></tt>-<tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="tr_penn-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="tr_penn-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="tr_penn-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (225; 43% instances), <tt><a href="tr_penn-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (193; 37% instances), <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (59; 11% instances), <tt><a href="tr_penn-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (23; 4% instances), <tt><a href="tr_penn-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (11; 2% instances), <tt><a href="tr_penn-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (8; 2% instances), <tt><a href="tr_penn-pos-DET.html">DET</a></tt>-<tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="tr_penn-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="tr_penn-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_penn-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 aux	color:blue
+1	Bu	bu	PRON	_	PronType=Dem	6	nsubj	_	_
+2	Giant'ın	giant	PROPN	_	Case=Gen|Number=Sing	3	nmod	_	_
+3	fanatiklerini	fanatik	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=2	4	obj	_	_
+4	rahatlatacak	rahatla	ADJ	_	_	6	acl	_	_
+5	bir	bir	DET	_	Definite=Ind|PronType=Art	6	det	_	_
+6	ortalama	ortala	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
+7	değildir	değil	AUX	_	Mood=Gen|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -33,24 +51,6 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 9	değil	değil	AUX	_	_	8	aux	_	_
 10	.	.	PUNCT	_	_	8	punct	_	_
 11	"	"	PUNCT	_	_	8	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 aux	color:blue
-1	Bu	bu	PRON	_	PronType=Dem	6	nsubj	_	_
-2	Giant'ın	giant	PROPN	_	Case=Gen|Number=Sing	3	nmod	_	_
-3	fanatiklerini	fanatik	NOUN	_	Case=Acc|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=2	4	obj	_	_
-4	rahatlatacak	rahatla	ADJ	_	_	6	acl	_	_
-5	bir	bir	DET	_	Definite=Ind	6	det	_	_
-6	ortalama	ortala	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
-7	değildir	değil	AUX	_	Number=Sing|Person=3|Tense=Pres	6	aux	_	_
-8	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

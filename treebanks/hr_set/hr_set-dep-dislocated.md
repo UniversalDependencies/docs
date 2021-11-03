@@ -30,7 +30,7 @@ The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a
 6	izjavio	izjaviti	VERB	Vmp-sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 7	da	da	SCONJ	Cs	_	22	mark	_	SpaceAfter=No
 8	,	,	PUNCT	Z	_	20	punct	_	_
-9	budući	budući	ADV	Cs	_	20	advmod	_	_
+9	budući	budući	SCONJ	Cs	_	20	mark	_	_
 10	da	da	SCONJ	Cs	_	9	fixed	_	_
 11	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
 12	spor	spor	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	20	nsubj	_	_
@@ -145,7 +145,7 @@ The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a
 39	s	sa	ADP	Si	Case=Ins	40	case	_	_
 40	New	New	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	31	nmod	_	_
 41	York	York	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	40	flat	_	_
-42	Timesom	Times	X	Xf	_	40	flat	_	SpaceAfter=No
+42	Timesom	Times	X	Xf	Foreign=Yes	40	flat	_	SpaceAfter=No
 43	.	.	PUNCT	Z	_	20	punct	_	_
 
 ~~~

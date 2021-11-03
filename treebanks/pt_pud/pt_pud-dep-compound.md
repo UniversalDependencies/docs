@@ -22,7 +22,7 @@ The following 6 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 compound	color:blue
-1	O	o	DET	PDT	Gender=Masc|Number=Sing	4	det	_	_
+1	O	o	DET	PDT	Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 2	seu	_	PRON	DTP$	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	4	det	_	_
 3	primeiro	primeiro	ADJ	JJ	Gender=Masc|Number=Sing	4	amod	_	_
 4	rei	rei	NOUN	NN	Gender=Masc|Number=Sing	6	nsubj	_	_
@@ -48,13 +48,13 @@ The following 6 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 compound	color:blue
-1	A	o	DET	DT	Gender=Fem|Number=Sing	2	det	_	_
+1	A	o	DET	DT	Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Revolução	revolução	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj	_	Proper=True
 3	Industrial	industrial	ADJ	JJ	Gender=Fem|Number=Sing	2	amod	_	Proper=True
 4	aconteceu	acontecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 5	antes	antes	ADV	RB	_	4	advmod	_	_
 6	em	em	ADP	INDT	_	8	case	_	_
-7	a	o	DET	_	Gender=Fem|Number=Sing	8	det	_	_
+7	a	o	DET	_	Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	Grã	Grã	PROPN	NNP	Gender=Fem|Number=Sing	5	obl	_	_
 9	Bretanha	_	X	GW	_	8	compound	_	Proper=True
 10	de	de	ADP	INDT	_	5	case	_	_
@@ -84,7 +84,7 @@ The following 6 pairs of parts of speech are connected with `compound`: <tt><a h
 7	o	o	DET	_	Gender=Masc|Number=Sing	8	det	_	_
 8	entrar	_	VERB	VB	_	3	xcomp	_	_
 9	em	em	ADP	INDT	_	11	case	_	_
-10	o	o	DET	_	Gender=Masc|Number=Sing	11	det	_	_
+10	o	o	DET	_	Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	torneio	torneio	NOUN	NN	Gender=Masc|Number=Sing	8	obl	_	_
 12	de	de	ADP	IN	_	13	case	_	_
 13	golfe	golfe	NOUN	NN	Gender=Masc|Number=Sing	11	nmod	_	_
@@ -94,10 +94,10 @@ The following 6 pairs of parts of speech are connected with `compound`: <tt><a h
 17	,	,	PUNCT	,	_	18	punct	_	_
 18	saiu	sair	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	3	parataxis	_	_
 19	em	em	ADP	INDT	_	21	case	_	_
-20	as	o	DET	_	Gender=Fem|Number=Plur	21	det	_	_
+20	as	o	DET	_	Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
 21	notícias	notícia	NOUN	NN	Gender=Fem|Number=Plur	18	obl	_	_
 22	de	de	ADP	INDT	_	24	case	_	_
-23	o	o	DET	_	Gender=Masc|Number=Sing	24	det	_	_
+23	o	o	DET	_	Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	Brisbane's	Brisbane's	PROPN	NNP	Gender=Masc|Number=Sing	21	nmod	_	_
 25	Nine	Nine	PROPN	NNP	Foreign=Yes|Gender=Masc|Number=Sing	24	flat	_	SpaceAfter=No
 26	.	.	PUNCT	.	_	3	punct	_	_

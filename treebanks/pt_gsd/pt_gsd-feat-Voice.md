@@ -21,5 +21,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="pt_gsd-pos-VERB.htm
 `VERB` tokens may have the following values of `Voice`:
 
 * `Pass` (1; 100% of non-empty `Voice`): <em>considerados</em>
-* `EMPTY` (27581): <em>é, tem, disse, está, há, foi, fazer, estão, afirmou, teve</em>
+* `EMPTY` (27482): <em>é, tem, disse, está, há, foi, fazer, estão, afirmou, teve</em>
 

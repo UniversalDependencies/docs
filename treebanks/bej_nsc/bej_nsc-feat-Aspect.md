@@ -40,18 +40,18 @@ The most frequent other feature values with which `PRON` and `Aspect` co-occurre
 * `Imp` (2; 5% of non-empty `Aspect`): <em>-iːni, -teːn</em>
 * `Perf` (5; 12% of non-empty `Aspect`): <em>-an, -ja</em>
 * `Pfv` (32; 74% of non-empty `Aspect`): <em>-an, -ja, -ta, -na, -tan, -ti</em>
-* `EMPTY` (196): <em>i-, a-, =heːb, hoːj, iː-, =i, ti-, -n, =oː, -i</em>
+* `EMPTY` (192): <em>i-, a-, =heːb, hoːj, iː-, =i, ti-, -n, =oː, -i</em>
 
 ### `SCONJ`
 
-20 <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> tokens (21% of all `SCONJ` tokens) have a non-empty value of `Aspect`.
+20 <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> tokens (22% of all `SCONJ` tokens) have a non-empty value of `Aspect`.
 
 The most frequent other feature values with which `SCONJ` and `Aspect` co-occurred: <tt><a href="bej_nsc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="bej_nsc-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt> (20; 100%).
 
 `SCONJ` tokens may have the following values of `Aspect`:
 
 * `Perf` (20; 100% of non-empty `Aspect`): <em>-aː, -a, -jaː</em>
-* `EMPTY` (76): <em>=hoːb, -eː, =eːt, =jeːt, =aj, na, -oːj, =eːb, =it, -a</em>
+* `EMPTY` (72): <em>=hoːb, -eː, =eːt, =jeːt, =aj, -oːj, =eːb, =it, -a, -jeː</em>
 
 ### `AUX`
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Olga Lyashevskaya, Olga Rudina, Natalia Vlasova, Anna Zhuravleva.
 
 Repository: [UD_Russian-Taiga](https://github.com/UniversalDependencies/UD_Russian-Taiga)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_taiga28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udru_taiga29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-SA 4.0
 
@@ -88,11 +88,11 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
 
 
 <ul>
-<li>This corpus contains 17870 sentences and 196996 tokens.</li>
+<li>This corpus contains 17871 sentences and 197001 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 36280 tokens (18%) that are not followed by a space.</li>
+<li>This corpus contains 36287 tokens (18%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -100,7 +100,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
 </ul>
 
 <ul>
-<li>This corpus contains 1009 types of words that contain both letters and punctuation. Examples: т., @xxxxxx, что-то, из-за, как-то, д., г., к., кто-то, п., где-то, какие-то, какой-то, с., м., @yabloko, е., н., http://xxxxxx, л., р., А., оч., все-таки, в., чего-то, https://xxxxxx, какая-то, кого-то, чем-то, @Zhirinovskiy, кому-то, тыс., что-нибудь, ООО-очень, и., ил., когда-то, почему-то, руб., ст., ч., Пер., Св., какого-то, какое-то, по-прежнему, P., p.s., какую-то</li>
+<li>This corpus contains 1006 types of words that contain both letters and punctuation. Examples: т., @xxxxxx, что-то, из-за, как-то, д., г., к., кто-то, п., где-то, какие-то, какой-то, с., м., @yabloko, е., н., http://xxxxxx, л., р., А., оч., все-таки, в., чего-то, https://xxxxxx, какая-то, кого-то, чем-то, @Zhirinovskiy, кому-то, тыс., что-нибудь, ООО-очень, и., ил., когда-то, почему-то, руб., ст., ч., Пер., Св., какого-то, какое-то, по-прежнему, P., p.s., какую-то</li>
 </ul>
 
 <ul>
@@ -115,15 +115,15 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
 </ul>
 
 <ul>
-<li>This corpus contains 124 word types tagged as particles (PART): -таки, Але, Воот, Д, Даа, Идааа, Мож, Неееее, Неужель, Ничего, Пожалуйстаааа, Спасиииибо, ХАЙ, а, ага, аж, ажжжж, аль, буд, будто, бы, было, ведь, во, вон, вот, все, все-таки, всего, всеж, всеже, всё, всё-таки, да, даааа, давайте, даже, дай, де, е, еле, ж, же, жеш, зато, здрасте, и, именно, как, конечно, ладно, ли, либо, лии, лиш, лишь, ль, мб, мол, на, не, небудь, неее, нет, нето, неужели, ни, нибудь, нибуть, норм, нп, ну, пж, пжж, плз, подалуйста, поди, пожалуйста, пожалуйстааа, посквй, прост, просто, прям, прямо, пускай, пусть, разве, с, спасибо, су, супер, та, таже, так, также, таки, там, те, тже, ти-по, тип, типа, типо, то, тоже, ток, тока, токмо, только, только-только, точно, уж, ужели, ужель, хорошо, хоть, хотя, че, чето, что, что-ли, что-то, это, якобы</li>
+<li>This corpus contains 124 word types tagged as particles (PART): -таки, Але, Воот, Д, Даа, Давайте, Идааа, Мож, Неееее, Неужель, Ничего, Пожалуйстаааа, Спасиииибо, ХАЙ, а, ага, аж, ажжжж, аль, буд, будто, бы, было, ведь, во, вон, вот, все, все-таки, всего, всеж, всеже, всё, всё-таки, да, даааа, даже, дай, де, е, еле, ж, же, жеш, зато, здрасте, и, именно, как, конечно, ладно, ли, либо, лии, лиш, лишь, ль, мб, мол, на, не, небудь, неее, нет, нето, неужели, ни, нибудь, нибуть, норм, нп, ну, пж, пжж, плз, подалуйста, поди, пожалуйста, пожалуйстааа, посквй, прост, просто, прям, прямо, пускай, пусть, разве, с, спасибо, су, супер, та, таже, так, также, таки, там, те, тже, ти-по, тип, типа, типо, то, тоже, ток, тока, токмо, только, только-только, точно, уж, ужели, ужель, хорошо, хоть, хотя, че, чето, что, что-ли, что-то, это, якобы</li>
 </ul>
 
 <ul>
-<li>This corpus contains 62 lemmas tagged as pronouns (PRON): goeswith, вам, весь, всë, все, всё, вы, друг, дружка, еë, ей, кое-кто, кое-что, кой, котоpый, который, кто, кто-либо, кто-нибудь, кто-то, мне, многие, мы, нашатырь, некоторые, некто, нечто, никто, ничeго, ничего, ничо, ничто, он, он+ж, она, они, оно, се, себя, сей, тo, то, то+же, тоже, тот, ты, у+мы, хто, че, че-то, чем, ченить, что, что+бы, что-ли, что-либо, что-нибудь, что-то, эт, это, этот, я</li>
+<li>This corpus contains 63 lemmas tagged as pronouns (PRON): goeswith, вам, весь, всë, все, всё, вы, друг, дружка, еë, ей, кое-кто, кое-что, кой, котоpый, который, кто, кто-либо, кто-нибудь, кто-то, мне, многие, многое, мы, нашатырь, некоторые, некто, нечто, никто, ничeго, ничего, ничо, ничто, он, он+ж, она, они, оно, се, себя, сей, тo, то, то+же, тоже, тот, ты, у+мы, хто, че, че-то, чем, ченить, что, что+бы, что-ли, что-либо, что-нибудь, что-то, эт, это, этот, я</li>
 </ul>
 
 <ul>
-<li>This corpus contains 57 lemmas tagged as determiners (DET): cвой, eго, ваш, ваша, весь, все, всего, всякий, всё, другой, его, ее, иной, их, каждый, каков, какой, какой-либо, какой-нибудь, какой-то, какой-то-то, какую-либо, кое-какой, кой, который, любой, многий, мой, наш, некий, некоторый, никакой, никой, один, одним, она, оный, прочий, с+такой, сам, самый, свой, сей, сякой, так, таков, таковой, такой, твой, то, тот, чей, чей-нибудь, чей-то, чейи-нибудь, это, этот</li>
+<li>This corpus contains 58 lemmas tagged as determiners (DET): cвой, eго, ваш, ваша, весь, все, всего, всякий, всё, другой, его, ее, иной, их, каждый, каков, какой, какой-либо, какой-нибудь, какой-то, какой-то-то, какую-либо, кое-какой, кой, который, любой, многий, мой, наш, некий, некоторый, никакой, никой, один, одним, она, оный, прочий, с+такой, сам, самый, свой, сей, столький, сякой, так, таков, таковой, такой, твой, то, тот, чей, чей-нибудь, чей-то, чейи-нибудь, это, этот</li>
 </ul>
 
 <ul>
@@ -164,7 +164,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
   <li>Inf
   <ul>
     <li>AUX: быть</li>
-    <li>VERB: делать, найти, сделать, купить, сказать, быть, есть, жить, смотреть, посмотреть</li>
+    <li>VERB: делать, найти, сделать, купить, быть, сказать, есть, жить, смотреть, посмотреть</li>
   </ul>
   </li>
 </ul>
@@ -173,7 +173,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
   <li>Part
   <ul>
     <li>AUX: бывшая, бывший</li>
-    <li>VERB: завышены, написано, исчезнувших, сказано, связано, сделано, желающих, приложено, знающие, представлен</li>
+    <li>VERB: завышены, написано, исчезнувших, сказано, связано, сделано, приложено, желающих, знающие, представлен</li>
   </ul>
   </li>
 </ul>
@@ -192,7 +192,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
       <li>AUX-Fin: была</li>
       <li>AUX-Part: бывшая</li>
       <li>DET: этой, такая, эту, своей, сама, моя, эта, какая, свою, всей</li>
-      <li>NOUN: цены, очереди, деньги, жизни, воды, жизнь, парковка, работы, цена, еда</li>
+      <li>NOUN: цены, очереди, деньги, правда, жизни, воды, жизнь, парковка, работы, цена</li>
       <li>NUM: две, одной, одна, одну, обеих, двух, обе, двумя, обеим, полторы</li>
       <li>PRON: она, ей, ее, ней, её, которая, нее, неё, которой, которую</li>
       <li>PROPN: россии, Россия, Москве, Ирина, москвы, Катя, Русь, Елена, Надя, Александровна</li>
@@ -214,7 +214,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
       <li>PRON: он, кто, его, ему, него, который, ним, никто, кого, которого</li>
       <li>PROPN: Петрович, жириновский, парнас, сочи, Убейд, Генрих, Петровича, крым, Петя, александр</li>
       <li>VERB-Fin: сказал, стал, был, понравился, видел, начал, решил, получил, хотел, мог</li>
-      <li>VERB-Part: представлен, организован, построен, потерян, закрыт, занят, открыт, посвящен, улучшенный, установлен</li>
+      <li>VERB-Part: представлен, организован, построен, потерян, закрыт, занят, открыт, посвящен, расположен, улучшенный</li>
     </ul>
   </li>
 </ul>
@@ -228,7 +228,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
       <li>NOUN: место, время, спасибо, фото, обслуживание, времени, качество, кафе, месте, дело</li>
       <li>NUM: одно, одном, два, одного, одним, оба</li>
       <li>PRON: это, что, все, всё, то, ничего, этого, чем, того, что-то</li>
-      <li>PROPN: яблоко, яблока, Девяткино, Стереолето, Билибино, Внуково, Домодедово, Дятьково, Известия, Подмосковье</li>
+      <li>PROPN: яблоко, яблока, Девяткино, Сити, Стереолето, авито, Билибино, Внуково, Динамо, Домодедово</li>
       <li>VERB-Fin: было, понравилось, стало, хотелось, получилось, осталось, пришлось, прошло, удалось, оказалось</li>
       <li>VERB-Inf: закончилось</li>
       <li>VERB-Part: написано, сказано, связано, сделано, приложено, принято, закрыто, связанно, вложено, дано</li>
@@ -249,7 +249,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
       <li>NUM: двоих, одного, двух, четверых, 3-х, 5х, нескольких, пятерых, семерых</li>
       <li>PRON: кто, всем, все, никто, всех, кого, кому, кто-то, кем, никому</li>
       <li>PROPN: Петрович, жириновский, Ирина, Генрих, Петровича, Катя, Петя, александр, Елена, Женя</li>
-      <li>VERB-Part: желающих, имеющих, вылетающих, жертвующего, живущих, звавшего, курящих, обвиняемого, обвисшего, организованных</li>
+      <li>VERB-Part: желающих, имеющих, вылетающих, жертвующего, живущих, звавшего, курящих, наблюдающий, обвиняемого, обвисшего</li>
     </ul>
   </li>
 </ul>
@@ -257,10 +257,10 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
 <ul>
   <li>Inan
     <ul>
-      <li>ADJ: первый, последний, данный, последние, следующий, новый, последнее, второй, хорошие, большой</li>
-      <li>DET: этот, все, каждый, это, эти, свои, свой, любой, мой, такие</li>
+      <li>ADJ: первый, последний, данный, последние, следующий, новый, второй, хорошие, большой, целый</li>
+      <li>DET: этот, все, каждый, эти, свои, свой, любой, мой, такие, весь</li>
       <li>NOUN: магазин, цены, день, раз, место, время, лет, выбор, персонал, года</li>
-      <li>NUM: один, два, три, две, несколько, четыре, одно, оба, двое, пять</li>
+      <li>NUM: два, один, три, две, четыре, оба, двое, пять, сто, 3е</li>
       <li>PRON: это, что, все, всё, то, ничего, этого, чем, того, что-то</li>
       <li>PROPN: россии, парнас, Россия, сочи, яблоко, Москве, Убейд, москвы, крым, Русь</li>
       <li>VERB-Part: интересующие, просроченные, связанные, собранные, улучшенный, Заглохший, активированый, асфальтированные, бегущий, вложеный</li>
@@ -279,7 +279,6 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
       <li>AUX-Fin: были, будут, будем, есть, будете, будьте, будте</li>
       <li>DET: все, эти, всех, такие, какие, других, мои, свои, этих, сами</li>
       <li>NOUN: цены, лет, люди, раз, сотрудники, людей, детей, деньги, товаров, продавцы</li>
-      <li>NUM: стольким</li>
       <li>PRON: они, мы, вы, нас, их, вам, них, вас, которые, всем</li>
       <li>PROPN: Сочи, Дзёмог, Известия, Пятерочек, Альфа-банков, Апатит, Афин, Бальмонты, Бернардацци, Блоки</li>
       <li>VERB-Fin: есть, здравствуйте, подскажите, работают, помогите, могут, говорят, сказали, бывают, делают</li>
@@ -293,14 +292,14 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
   <li>Sing
     <ul>
       <li>ADJ: хороший, большой, нужно, отличный, неплохой, хорошая, хорошо, хорошее, вежливый, обычный</li>
-      <li>AUX-Fin: было, был, будет, была, есть, буду, будь, будешь</li>
+      <li>AUX-Fin: было, был, будет, есть, была, буду, будь, будешь</li>
       <li>AUX-Part: бывшая, бывший</li>
       <li>DET: этот, такой, мой, этой, сам, это, такое, этом, какой, один</li>
       <li>NOUN: магазин, день, место, время, выбор, персонал, раз, ассортимент, года, спасибо</li>
-      <li>NUM: один, одной, одна, одном, одного, одно, одну, одним, оден, одному</li>
+      <li>NUM: один, одной, одна, одного, одном, одно, одну, одним, оден, одному</li>
       <li>PRON: я, это, что, он, мне, меня, все, она, всё, кто</li>
-      <li>PROPN: Петрович, россии, жириновский, парнас, Россия, яблоко, Москве, Ирина, Убейд, москвы</li>
-      <li>VERB-Fin: есть, может, могу, хочу, стоит, нравится, знаю, работает, сказал, рекомендую</li>
+      <li>PROPN: Петрович, россии, жириновский, парнас, Россия, яблоко, Москве, сочи, Ирина, Убейд</li>
+      <li>VERB-Fin: есть, может, могу, хочу, стоит, нравится, знаю, работает, сказал, было</li>
       <li>VERB-Inf: закончилось</li>
       <li>VERB-Part: написано, сказано, связано, сделано, приложено, представлен, принято, связана, закрыто, организован</li>
     </ul>
@@ -314,13 +313,13 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
 <ul>
   <li>Acc
     <ul>
-      <li>ADJ: первый, последний, данный, последние, следующий, новую, новый, последнее, второй, большую</li>
+      <li>ADJ: первый, последний, данный, последние, следующий, новую, новый, последнее, большую, второй</li>
       <li>DET: этот, все, эту, каждый, это, эти, свои, свой, свою, любой</li>
       <li>NOUN: время, день, раз, деньги, год, пару, работу, жизнь, вкус, месяц</li>
-      <li>NUM: несколько, сколько, два, один, три, две, одну, столько, пол, сто</li>
+      <li>NUM: несколько, много, сколько, два, один, три, две, одну, столько, пол</li>
       <li>PRON: что, его, меня, это, их, себя, все, ее, всё, то</li>
       <li>PROPN: Русь, крым, россию, сочи, Петровича, Турцию, Украину, Ирак, Китай, госдуму</li>
-      <li>VERB-Part: желающих, интересующие, просроченные, связанные, имеющих, связанную, собранные, улучшенный, Заглохший, Рекомендованную</li>
+      <li>VERB-Part: интересующие, просроченные, связанные, желающих, имеющих, связанную, собранные, улучшенный, Заглохший, Рекомендованную</li>
     </ul>
   </li>
 </ul>
@@ -331,7 +330,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
       <li>ADJ: крайней, данному, местному, новой, первому, полной, старшему, разным, разумной, советским</li>
       <li>DET: всем, этому, моему, своему, своей, другому, самой, тем, этим, какому</li>
       <li>NOUN: детям, сожалению, людям, поводу, телефону, городу, мере, словам, времени, мнению</li>
-      <li>NUM: одной, обоим, 12-ти, 3м, многим, нескольку, обеим, одному, пяти, стольким</li>
+      <li>NUM: одной, обоим, 12-ти, 3м, многим, нескольку, обеим, одному, пяти, трём</li>
       <li>PRON: мне, ему, вам, ей, всем, себе, им, нам, тебе, кому</li>
       <li>PROPN: Петровичу, Ирине, Наде, Виктору, Гарри, Интерфаксу, Москве, Пересу, России, Фарингейту</li>
       <li>VERB: погибшим, защищавшим, изложенным, некому, Ведущим, Вспотевшим, Входящим, Понимающим, Предпочитающим, Уносимым</li>
@@ -378,7 +377,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
       <li>NOUN: месте, уровне, году, городе, жизни, случае, целом, итоге, магазинах, центре</li>
       <li>NUM: одном, одной, двух, нескольких, трех, трёх, обоих, 3х, обеих, пяти</li>
       <li>PRON: том, этом, чем, ней, нем, себе, них, котором, чём, которой</li>
-      <li>PROPN: Москве, России, Сочи, крыму, Ираке, Петербурге, Туре, Украине, Питере, Франции</li>
+      <li>PROPN: россии, Москве, Сочи, крыму, Ираке, Петербурге, Туре, Украине, Питере, Франции</li>
       <li>VERB-Part: закрытой, возглашавших, выделенных, вынужденной, действующем, запомнившемся, заряженной, затерявшемся, затуманенном, написанном</li>
     </ul>
   </li>
@@ -391,7 +390,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
       <li>AUX-Part: бывшая, бывший</li>
       <li>DET: все, сам, этот, такая, мой, такое, один, такой, сама, моя</li>
       <li>NOUN: магазин, цены, место, выбор, персонал, ассортимент, спасибо, люди, обслуживание, сотрудники</li>
-      <li>NUM: два, один, сколько, одна, три, две, несколько, одно, оба, столько</li>
+      <li>NUM: много, мало, два, один, сколько, одна, три, две, несколько, немного</li>
       <li>PRON: я, он, это, все, она, что, они, мы, кто, вы</li>
       <li>PROPN: Петрович, жириновский, Россия, яблоко, Ирина, Генрих, Убейд, парнас, Катя, Петя</li>
       <li>VERB-Part: знающие, работающие, сопутствующие, Стоявшие, Управляющая, влекомый, забытый, завышенные, казавшаяся, намоленное</li>
@@ -429,8 +428,9 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
 <ul>
   <li>Cmp
     <ul>
-      <li>ADJ: лучше, хуже, дешевле, выше, ниже, больше, дороже, старше, ближе, вкуснее</li>
-      <li>ADV: больше, более, раньше, скорее, дальше, меньше, лучше, менее, далее, чаще</li>
+      <li>ADJ: лучше, хуже, дешевле, выше, больше, ниже, дороже, старше, ближе, вкуснее</li>
+      <li>ADV: раньше, больше, более, скорее, дальше, лучше, далее, чаще, короче, менее</li>
+      <li>NUM: больше, побольше, меньше, поболя</li>
     </ul>
   </li>
 </ul>
@@ -439,7 +439,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
   <li>Pos
     <ul>
       <li>ADJ: хороший, большой, нужно, отличный, неплохой, хорошая, хорошо, хорошее, вежливый, обычный</li>
-      <li>ADV: очень, уже, так, много, как, еще, там, ещё, где, часто</li>
+      <li>ADV: очень, уже, так, как, еще, там, ещё, где, часто, вообще</li>
     </ul>
   </li>
 </ul>
@@ -464,7 +464,6 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
       <li>CCONJ: ни</li>
       <li>PART: не, ни, нет, Неееее, Ничего, на, неее, е, нп</li>
       <li>VERB: нет, нету, нельзя, негде, некуда, нечего, некогда, Несть, не, некого</li>
-      <li>VERB-Fin: нету</li>
     </ul>
   </li>
 </ul>
@@ -495,11 +494,11 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
   <li>Imp
     <ul>
       <li>AUX-Conv: будучи</li>
-      <li>AUX-Fin: было, был, есть, была, были, БУДЕТ, БУДЕТЕ</li>
+      <li>AUX-Fin: было, был, есть, была, были</li>
       <li>AUX-Inf: быть</li>
       <li>AUX-Part: бывшая, бывший</li>
       <li>VERB-Conv: говоря, судя, начиная, смотря, учитывая, видя, зная, имея, пытаясь, сидя</li>
-      <li>VERB-Fin: есть, может, могу, хочу, здравствуйте, стоит, нравится, знаю, работает, рекомендую</li>
+      <li>VERB-Fin: есть, может, могу, хочу, здравствуйте, стоит, нравится, знаю, работает, было</li>
       <li>VERB-Inf: делать, быть, есть, жить, смотреть, ходить, пить, работать, ехать, ждать</li>
       <li>VERB-Part: желающих, знающие, работающие, имеющих, интересующие, проходящих, сопутствующие, сопутствующих, Стоявшие, Управляющая</li>
     </ul>
@@ -534,7 +533,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
   <li>Imp
     <ul>
       <li>AUX-Fin: будь, будьте, будте</li>
-      <li>VERB-Fin: здравствуйте, подскажите, помогите, скажите, посоветуйте, дайте, давай, объясните, дай, пишите</li>
+      <li>VERB-Fin: здравствуйте, подскажите, помогите, скажите, посоветуйте, дайте, давай, давайте, объясните, дай</li>
     </ul>
   </li>
 </ul>
@@ -543,7 +542,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
   <li>Ind
     <ul>
       <li>AUX-Fin: было, был, будет, есть, была, были, будут, буду, будем, будете</li>
-      <li>VERB-Fin: есть, может, могу, хочу, стоит, нравится, знаю, работает, сказал, рекомендую</li>
+      <li>VERB-Fin: есть, может, могу, хочу, стоит, нравится, знаю, работает, сказал, было</li>
       <li>VERB-Inf: закончилось, навязываються</li>
     </ul>
   </li>
@@ -557,7 +556,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
   <li>Fut
     <ul>
       <li>AUX-Fin: будет, будут, буду, будем, будете, будешь</li>
-      <li>VERB-Fin: помогут, скажу, сможет, будет, подскажут, поможет, придется, хватит, допустим, останется</li>
+      <li>VERB-Fin: помогут, скажу, будет, сможет, подскажут, поможет, придется, хватит, допустим, останется</li>
     </ul>
   </li>
 </ul>
@@ -568,7 +567,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
       <li>AUX-Fin: было, был, была, были</li>
       <li>AUX-Part: бывшая, бывший</li>
       <li>VERB-Conv: выйдя, дождавшись, нахмурясь, оставив, посмотрев, Услышав, выстрелив, дав, доставши, забыв</li>
-      <li>VERB-Fin: сказал, было, понравилось, стал, стало, был, понравился, сказали, была, сказала</li>
+      <li>VERB-Fin: сказал, было, понравилось, стал, стало, был, была, понравился, сказали, сказала</li>
       <li>VERB-Inf: закончилось</li>
       <li>VERB-Part: завышены, написано, исчезнувших, сказано, связано, сделано, приложено, представлен, принято, установлены</li>
     </ul>
@@ -601,7 +600,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
       <li>AUX-Part: бывшая, бывший</li>
       <li>VERB-Conv: говоря, судя, начиная, смотря, учитывая, видя, зная, имея, сидя, Глядя</li>
       <li>VERB-Fin: есть, может, могу, хочу, здравствуйте, стоит, знаю, подскажите, работает, сказал</li>
-      <li>VERB-Inf: делать, найти, сделать, купить, сказать, быть, есть, жить, смотреть, посмотреть</li>
+      <li>VERB-Inf: делать, найти, сделать, купить, быть, сказать, есть, жить, смотреть, посмотреть</li>
       <li>VERB-Part: исчезнувших, желающих, знающие, погибшим, работающие, имеющих, интересующие, проходящих, сопутствующие, сопутствующих</li>
     </ul>
   </li>
@@ -650,7 +649,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
   <li>Emp
     <ul>
       <li>DET: сам, сама, самый, самое, сами, самые, самом, самой, самого, самая</li>
-      <li>PRON: что</li>
+      <li>PRON: Что</li>
     </ul>
   </li>
 </ul>
@@ -679,8 +678,8 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
   <li>Int
     <ul>
       <li>ADV: как, где, почему, куда, зачем, откуда, когда, что, чего, Почто</li>
-      <li>DET: какой, какие, какая, какое, каком, какую, каким, Какого, каких, какому</li>
-      <li>PRON: что, кто, чем, чего, кого, кому, чём, че, кем, што</li>
+      <li>DET: какой, какие, какая, какую, какое, каком, каким, Какого, каких, какому</li>
+      <li>PRON: что, кто, чем, кого, чего, кому, чём, че, кем, што</li>
     </ul>
   </li>
 </ul>
@@ -688,7 +687,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
 <ul>
   <li>Neg
     <ul>
-      <li>ADV: никогда, никак, нигде, никуда, как, нихера, причем, Нифига, Нихуя, где</li>
+      <li>ADV: никогда, никак, нигде, никуда, как, нихера, ничего, причем, Нифига, Нихуя</li>
       <li>DET: никаких, никакой, никакого, каких, никакие, какие, какого, никакую, Никаким, как</li>
       <li>PRON: ничего, никто, никому, никого, чем, чего, ничем, что, кем, ничто</li>
     </ul>
@@ -715,7 +714,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
 <ul>
   <li>Rel
     <ul>
-      <li>ADV: как, где, куда, почему, к., когда, зачем, откуда, что, к</li>
+      <li>ADV: как, где, куда, почему, к., когда, зачем, откуда, что, сколько</li>
       <li>DET: какой, какая, какие, какое, какому, каким, каких, каком, какую, какими</li>
       <li>PRON: что, кто, которые, который, чего, чем, которая, которых, которого, которой</li>
     </ul>
@@ -725,9 +724,9 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
 <ul>
   <li>Tot
     <ul>
-      <li>ADV: всегда, иногда, везде, все, всё, всего, иначе, навсегда, всячески, повсюду</li>
+      <li>ADV: всегда, больше, более, иногда, везде, все, немного, менее, всё, меньше</li>
       <li>DET: все, всех, каждый, других, любой, другой, весь, всем, всей, вся</li>
-      <li>PRON: все, всё, всем, всего, всех, многие, всему, всём, всëм, всеми</li>
+      <li>PRON: все, всё, всем, всего, всех, многие, многое, всему, всём, всëм</li>
     </ul>
   </li>
 </ul>
@@ -739,7 +738,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
 <ul>
   <li>Card
     <ul>
-      <li>NUM: 2, 3, 1, 5, 4, два, один, 10, три, 7</li>
+      <li>NUM: много, 2, 3, 1, 5, несколько, 4, два, один, сколько</li>
     </ul>
   </li>
 </ul>
@@ -843,10 +842,10 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
         <ul>
           <li>ADJ: п., ст., жд, мед., Св., ч., англ., гос., дет., ж/д</li>
           <li>ADP: н, п</li>
-          <li>ADV: т., д., оч., к., тд, д, оч, Крч, к, в/м</li>
+          <li>ADV: т., д., оч., к., тд, д, оч, Крч, в/м, к</li>
           <li>DET: др., н., т., др, проч</li>
           <li>INTJ: пздц</li>
-          <li>NOUN: тц, г., см, мл, кг, с., р, р., км, л.</li>
+          <li>NOUN: тц, г., см, мл, кг, с., р, р., км, м</li>
           <li>NUM: неск, неск.</li>
           <li>PART: пж, плз, мб, пжж</li>
           <li>PRON: т., кот.</li>
@@ -870,7 +869,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
           <li>INTJ: Хэллоу</li>
           <li>NOUN: блю, дор, А, U, f, r, Ремо, С, ая, е</li>
           <li>PART: Д, Де, ХАЙ, плз</li>
-          <li>PROPN: PS4, М, Эль, тикетс, EF1057, F, G, NS3FB, Алегре, Беш-пять</li>
+          <li>PROPN: джо, PS4, М, Эль, тикетс, EF1057, F, G, NS3FB, Алегре</li>
           <li>VERB: МАНДРУЕ</li>
           <li>X: RT, P., p.s., iphone, s, P.S, the, apple, cm, of</li>
         </ul>
@@ -955,7 +954,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
       <li>Word
         <ul>
           <li>ADJ: первый, второй, первого, первые, первых, первая, вторая, второго, первую, втором</li>
-          <li>NUM: несколько, два, один, сколько, три, две, двух, одной, столько, одна</li>
+          <li>NUM: много, несколько, два, один, сколько, три, мало, две, больше, двух</li>
         </ul>
       </li>
     </ul>
@@ -976,7 +975,7 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
           <li>INTJ: бл@, бляь</li>
           <li>NOUN: ге, атракционов, бриджы, дело, линолиум, мороженное, тысеч, удаленьщики, #кайтсефринг, Аоезда</li>
           <li>NUM: з, оден, скольки</li>
-          <li>PART: Да, Спасиииибо, лии, лиш, небудь, та, е, не, ни, нп</li>
+          <li>PART: Даааа, Спасиииибо, лии, лиш, небудь, та, е, не, ни, нп</li>
           <li>PRON: сто, Нечего, Тоже, клторые, которые, некому, нё, оеа, она, от</li>
           <li>PROPN: Фарингейту, инстаграм, инстаграмме, телеграмме, Акропле, Анндрей, Беклемищева, Гелиадор, Громовв, Левиофан</li>
           <li>SCONJ: чтл, я, Чтоп</li>
@@ -1011,13 +1010,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (2)</li>
-      <li>VERB--NOUN-Gen (246)</li>
+      <li>VERB--NOUN-Gen (247)</li>
       <li>VERB--NOUN-Ins (1)</li>
       <li>VERB--NOUN-Nom (31)</li>
       <li>VERB--PRON-Gen (32)</li>
       <li>VERB--PRON-Nom (21)</li>
       <li>VERB-Conv--NOUN-Nom (3)</li>
-      <li>VERB-Fin--NOUN (23)</li>
+      <li>VERB-Fin--NOUN (24)</li>
       <li>VERB-Fin--NOUN-ADP(после) (1)</li>
       <li>VERB-Fin--NOUN-Acc (2)</li>
       <li>VERB-Fin--NOUN-Gen (209)</li>
@@ -1037,12 +1036,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Nom (3490)</li>
       <li>VERB-Fin--PRON-Nom-ADP(плюс) (1)</li>
       <li>VERB-Inf--NOUN-Gen (4)</li>
-      <li>VERB-Inf--NOUN-Nom (61)</li>
+      <li>VERB-Inf--NOUN-Nom (60)</li>
       <li>VERB-Inf--PRON-Gen (1)</li>
       <li>VERB-Inf--PRON-Nom (58)</li>
       <li>VERB-Part--NOUN-Gen (2)</li>
-      <li>VERB-Part--NOUN-Nom (37)</li>
-      <li>VERB-Part--PRON-Nom (12)</li>
+      <li>VERB-Part--NOUN-Nom (38)</li>
+      <li>VERB-Part--PRON-Nom (11)</li>
     </ul>
   </li>
 </ul>
@@ -1057,12 +1056,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Par (1)</li>
       <li>VERB-Conv--NOUN-Acc (138)</li>
       <li>VERB-Conv--NOUN-Dat (1)</li>
-      <li>VERB-Conv--NOUN-Gen (21)</li>
-      <li>VERB-Conv--NOUN-Ins (7)</li>
+      <li>VERB-Conv--NOUN-Gen (22)</li>
+      <li>VERB-Conv--NOUN-Ins (6)</li>
       <li>VERB-Conv--PRON-Acc (20)</li>
       <li>VERB-Conv--PRON-Nom (1)</li>
       <li>VERB-Fin--NOUN (23)</li>
-      <li>VERB-Fin--NOUN-Acc (2740)</li>
+      <li>VERB-Fin--NOUN-Acc (2735)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(в) (2)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(из) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(к) (1)</li>
@@ -1072,21 +1071,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc-ADP(типа) (1)</li>
       <li>VERB-Fin--NOUN-Dat (10)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(по) (2)</li>
-      <li>VERB-Fin--NOUN-Gen (346)</li>
+      <li>VERB-Fin--NOUN-Gen (344)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(до) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(из) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(около) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(по) (3)</li>
-      <li>VERB-Fin--NOUN-Ins (85)</li>
+      <li>VERB-Fin--NOUN-Ins (31)</li>
       <li>VERB-Fin--NOUN-Loc (1)</li>
-      <li>VERB-Fin--NOUN-Nom (7)</li>
+      <li>VERB-Fin--NOUN-Nom (6)</li>
       <li>VERB-Fin--NOUN-Par (5)</li>
       <li>VERB-Fin--PRON (1)</li>
-      <li>VERB-Fin--PRON-Acc (941)</li>
+      <li>VERB-Fin--PRON-Acc (944)</li>
       <li>VERB-Fin--PRON-Acc-ADP(в) (1)</li>
       <li>VERB-Fin--PRON-Dat (3)</li>
       <li>VERB-Fin--PRON-Gen (83)</li>
-      <li>VERB-Fin--PRON-Ins (19)</li>
+      <li>VERB-Fin--PRON-Ins (7)</li>
       <li>VERB-Fin--PRON-Nom (5)</li>
       <li>VERB-Inf--NOUN (18)</li>
       <li>VERB-Inf--NOUN-Acc (1438)</li>
@@ -1097,12 +1096,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Gen-ADP(по) (1)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(порядка) (1)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(у) (1)</li>
-      <li>VERB-Inf--NOUN-Ins (35)</li>
+      <li>VERB-Inf--NOUN-Ins (15)</li>
       <li>VERB-Inf--NOUN-Nom (2)</li>
       <li>VERB-Inf--NOUN-Par (2)</li>
       <li>VERB-Inf--PRON-Acc (521)</li>
       <li>VERB-Inf--PRON-Gen (40)</li>
-      <li>VERB-Inf--PRON-Ins (8)</li>
+      <li>VERB-Inf--PRON-Ins (1)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN-Acc (80)</li>
       <li>VERB-Part--NOUN-Dat (2)</li>
@@ -1121,7 +1120,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Dat (47)</li>
       <li>VERB--PRON-Ins (1)</li>
       <li>VERB-Conv--NOUN-Dat (9)</li>
-      <li>VERB-Conv--NOUN-Ins (28)</li>
+      <li>VERB-Conv--NOUN-Ins (29)</li>
       <li>VERB-Conv--NOUN-Ins-ADP(от) (1)</li>
       <li>VERB-Conv--NOUN-Ins-ADP(со) (1)</li>
       <li>VERB-Conv--PRON-Dat (6)</li>
@@ -1129,20 +1128,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (1)</li>
       <li>VERB-Fin--NOUN-Dat (238)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(в) (1)</li>
-      <li>VERB-Fin--NOUN-Ins (237)</li>
+      <li>VERB-Fin--NOUN-Gen (1)</li>
+      <li>VERB-Fin--NOUN-Ins (291)</li>
       <li>VERB-Fin--PRON-Acc (2)</li>
-      <li>VERB-Fin--PRON-Dat (723)</li>
-      <li>VERB-Fin--PRON-Ins (29)</li>
+      <li>VERB-Fin--PRON-Dat (725)</li>
+      <li>VERB-Fin--PRON-Ins (41)</li>
       <li>VERB-Fin--PRON-Nom (2)</li>
       <li>VERB-Inf--NOUN (3)</li>
-      <li>VERB-Inf--NOUN-Dat (80)</li>
+      <li>VERB-Inf--NOUN-Dat (78)</li>
       <li>VERB-Inf--NOUN-Dat-ADP(к) (1)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
-      <li>VERB-Inf--NOUN-Ins (84)</li>
-      <li>VERB-Inf--PRON-Dat (167)</li>
-      <li>VERB-Inf--PRON-Ins (29)</li>
+      <li>VERB-Inf--NOUN-Ins (104)</li>
+      <li>VERB-Inf--PRON-Dat (171)</li>
+      <li>VERB-Inf--PRON-Ins (36)</li>
       <li>VERB-Part--NOUN-Dat (12)</li>
-      <li>VERB-Part--NOUN-Ins (63)</li>
+      <li>VERB-Part--NOUN-Ins (62)</li>
       <li>VERB-Part--PRON-Dat (17)</li>
       <li>VERB-Part--PRON-Ins (4)</li>
     </ul>
@@ -1154,7 +1154,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 103 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: вести себя, чувствовать себя, купить себе, представлять собой, беречь себя, забрать себе, зарекомендовать себя, контролировать себя, кормить себя, найти себе, ограничить себя, побаловать себя, подобрать себе, позволять себе, почесать себя, почувствовать себя, баловать себя, бурчать себе, вернуть себе, взять себе, взять себя, вить себя, владеть собой, владеть собою, внушать себе, возомнить себя, выбрать себе, выдавать себя, говорить себе, дать свой, дать себе, делать себе, дурачить себя, есть себя, ждать себя, жеpтвовать cобой, жить себе, забыть свои, завести себе, задавать себе, занять себя, заполнять собою, заставить себя, заставлять себя, засыпать свой, звать себя, знаменовать собой, изменять себя, иметь себя, искать себе</li>
+  <li>This corpus contains 102 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: вести себя, чувствовать себя, купить себе, представлять собой, беречь себя, забрать себе, зарекомендовать себя, контролировать себя, кормить себя, найти себе, ограничить себя, побаловать себя, подобрать себе, позволять себе, почесать себя, почувствовать себя, баловать себя, бурчать себе, вернуть себе, взять себе, взять себя, вить себя, владеть собой, владеть собою, внушать себе, возомнить себя, выбрать себе, выдавать себя, говорить себе, дать свой, дать себе, делать себе, дурачить себя, есть себя, ждать себя, жеpтвовать cобой, жить себе, забыть свои, завести себе, задавать себе, занять себя, заполнять собою, заставить себя, заставлять себя, засыпать свой, звать себя, знаменовать собой, изменять себя, иметь себя, искать себе</li>
     <ul>
       <li>Out of those, 1 lemmas occurred more than once, but never without a reflexive dependent. Examples: зарекомендовать</li>
     </ul>

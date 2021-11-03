@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-96 nodes (0%) are attached to their parents as `cop`.
+128 nodes (0%) are attached to their parents as `cop`.
 
-64 instances of `cop` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.0625.
+74 instances of `cop` (58%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.8203125.
 
-The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (49; 51% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (20; 21% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (9; 9% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (7; 7% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (5; 5% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (5; 5% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="orv_rnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (58; 45% instances), <tt><a href="orv_rnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (33; 26% instances), <tt><a href="orv_rnc-pos-VERB.html">VERB</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (12; 9% instances), <tt><a href="orv_rnc-pos-PRON.html">PRON</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (10; 8% instances), <tt><a href="orv_rnc-pos-ADV.html">ADV</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (7; 5% instances), <tt><a href="orv_rnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (5; 4% instances), <tt><a href="orv_rnc-pos-NUM.html">NUM</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="orv_rnc-pos-DET.html">DET</a></tt>-<tt><a href="orv_rnc-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -59,26 +59,25 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 1 cop	color:blue
-1	бꙋдь	быти	AUX	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	3	cop	_	Norm=бꙋдь|SpaceAfter=Yes
-2	на	на	ADP	_	_	3	case	_	Norm=на|SpaceAfter=Yes
-3	тебѣ	ты	PRON	_	Case=Loc|Number=Sing|Person=2|PronType=Prs	0	root	_	Norm=тебѣ|SpaceAfter=Yes
-4	свѣтъ	свѣтъ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	vocative	_	Norm=свѣтъ|SpaceAfter=Yes
-5	мои	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	4	det	_	Norm=мои|SpaceAfter=Yes
-6	млсть	милость	NOUN	_	Abbr=Yes|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	Norm=млсть|SpaceAfter=Yes
-7	бжия	божий	ADJ	_	Abbr=Yes|Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Poss=Yes	6	amod	_	Norm=бжия|SpaceAfter=Yes
-8	и	и	CCONJ	_	_	11	cc	_	Norm=и|SpaceAfter=Yes
-9	мое	мой	DET	_	Case=Nom|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	11	det	_	Norm=мое|SpaceAfter=Yes
-10	грешное	грешный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	Norm=грешное|SpaceAfter=Yes
-11	блгоссловение	благословение	NOUN	_	Abbr=Yes|Case=Nom|Gender=Neut|Number=Sing	6	conj	_	Norm=блгоссловение|SpaceAfter=Yes
-12	отннѣ	отнынѣ	ADV	_	Abbr=Yes|Degree=Pos	3	advmod	_	Norm=отннѣ|SpaceAfter=Yes
-13	и	и	CCONJ	_	_	15	cc	_	Norm=и|SpaceAfter=Yes
-14	до	до	ADP	_	_	15	case	_	Norm=до|SpaceAfter=Yes
-15	века	векъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	12	conj	_	Norm=века
+# visual-style 3 2 cop	color:blue
+1	Токмо	токмо	PART	_	_	3	advmod	_	Norm=Токмо
+2	есть	быти	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Norm=есть
+3	требе	требѣ	VERB	_	_	0	root	_	Norm=требе
+4	бога	Богъ	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	obj	_	Norm=бога
+5	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	6	iobj	_	Norm=вам
+6	хвалити	хвалити	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	csubj	_	Norm=хвалити|SpaceAfter=No
+7	,	,	PUNCT	_	_	13	punct	_	Norm=,|# newpar
+8	в	въ	ADP	_	_	9	case	_	Norm=в
+9	любви	любовь	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	13	obl	_	Norm=любви
+10	и	и	CCONJ	_	_	11	cc	_	Norm=и
+11	правде	правда	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	9	conj	_	Norm=правде
+12	ему	она	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	iobj	_	Norm=ему
+13	послужити	послужити	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	conj	_	Norm=послужити|SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	Norm=.
 
 ~~~
 

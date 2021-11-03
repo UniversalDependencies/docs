@@ -25,7 +25,7 @@ The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="
 1	De	_	ADP	IN	_	2	case	_	_
 2	volta	volta	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	_
 3	a	a	ADP	INDT	_	5	case	_	_
-4	o	o	DET	_	Gender=Masc|Number=Sing	5	det	_	_
+4	o	o	DET	_	Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	trem	trem	NOUN	NN	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	,	_	2	punct	_	_
 7	nós	_	PRON	PRP	Case=Nom|Number=Plur|Person=1	8	nsubj	_	_
@@ -33,7 +33,7 @@ The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="
 9	em	em	ADP	IN	_	10	case	_	_
 10	direção	direção	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	_
 11	a	a	ADP	INDT	_	14	case	_	_
-12	o	o	DET	_	Gender=Masc|Number=Sing	14	det	_	_
+12	o	o	DET	_	Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 13	o	o	DET	DT	Gender=Masc|Number=Sing	14	dep	_	_
 14	sul	sul	NOUN	NN	Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	8	punct	_	_
@@ -49,7 +49,7 @@ The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 49 41 dep	color:blue
 1	Mas	_	CCONJ	CC	_	38	discourse	_	_
 2	quando	_	SCONJ	IN	_	6	mark	_	_
-3	o	o	DET	DT	Gender=Masc|Number=Sing	4	det	_	_
+3	o	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	Senado	senado	NOUN	NN	Gender=Masc|Number=Sing	6	nsubj	_	Proper=True
 5	lhe	_	PRON	PRP	Case=Dat|Number=Sing|Person=3	6	iobj	_	_
 6	respondeu	responder	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	38	advcl	_	_
@@ -62,14 +62,14 @@ The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="
 13	de	de	ADP	IN	_	14	case	_	_
 14	competir	_	VERB	VB	_	10	xcomp	_	_
 15	em	em	ADP	INDT	_	17	case	_	_
-16	o	o	DET	_	Gender=Masc|Number=Sing	17	det	_	_
+16	o	o	DET	_	Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	consulado	consulado	NOUN	NN	Gender=Masc|Number=Sing	14	obl	_	_
 18	geral	geral	ADJ	JJ	Gender=Masc|Number=Sing	17	amod	_	_
 19	e	e	CCONJ	CC	_	20	cc	_	_
 20	oferecendo	_	VERB	VBG	_	10	conj	_	SpaceAfter=No
 21	-	-	PUNCT	-	_	22	punct	_	SpaceAfter=No
 22	lhe	_	PRON	PRP	Case=Dat|Number=Sing|Person=3	20	iobj	_	_
-23	a	o	DET	DT	Gender=Fem|Number=Sing	24	det	_	_
+23	a	o	DET	DT	Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
 24	opção	opção	NOUN	NN	Gender=Fem|Number=Sing	20	obj	_	_
 25	de	de	ADP	IN	_	27	case	_	_
 26	ou	_	CCONJ	CC	_	27	cc:preconj	_	_
@@ -97,10 +97,10 @@ The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="
 48	entregaria	_	AUX	VBC	Mood=Cnd|Number=Sing|Person=3	49	cop	_	_
 49	desarmado	desarmado	ADJ	JJ	Gender=Masc|Number=Sing	38	ccomp	_	_
 50	em	em	ADP	INDT	_	52	case	_	_
-51	as	o	DET	_	Gender=Fem|Number=Plur	52	det	_	_
+51	as	o	DET	_	Gender=Fem|Number=Plur|PronType=Art	52	det	_	_
 52	mãos	mão	NOUN	NN	Gender=Fem|Number=Plur	49	obl	_	_
 53	de	de	ADP	INDT	_	56	case	_	_
-54	os	o	DET	_	Gender=Masc|Number=Plur	56	det	_	_
+54	os	o	DET	_	Gender=Masc|Number=Plur|PronType=Art	56	det	_	_
 55	seus	_	PRON	DTP$	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|PronType=Prs	56	det	_	_
 56	inimigos	inimigo	NOUN	NN	Gender=Masc|Number=Plur	52	nmod	_	_
 57	políticos	político	ADJ	JJ	Gender=Masc|Number=Plur	56	amod	_	SpaceAfter=No
@@ -123,15 +123,15 @@ The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="
 6	que	_	PRON	WP	_	7	nsubj	_	_
 7	remete	remeter	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	acl:relcl	_	_
 8	para	para	ADP	IN	_	10	case	_	_
-9	os	o	DET	DT	Gender=Masc|Number=Plur	10	det	_	_
+9	os	o	DET	DT	Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
 10	anos	ano	NOUN	NN	Gender=Masc|Number=Plur	7	obl	_	_
 11	setenta	_	NUM	CD	_	10	appos	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	25	punct	_	_
-13	a	o	DET	DT	Gender=Fem|Number=Sing	14	det	_	_
+13	a	o	DET	DT	Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	flocagem	_	NOUN	NN	Gender=Fem|Number=Sing	25	nsubj	_	_
 15	-	-	PUNCT	-	_	16	punct	_	_
 16	ou	_	CCONJ	CC	_	18	cc	_	_
-17	a	o	DET	DT	Gender=Fem|Number=Sing	18	det	_	_
+17	a	o	DET	DT	Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	cobertura	cobertura	NOUN	NN	Gender=Fem|Number=Sing	14	conj	_	_
 19	de	de	ADP	IN	_	21	case	_	_
 20	uma	um	DET	DT	Gender=Fem|Number=Sing	21	det	_	_
@@ -142,7 +142,7 @@ The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="
 25	está	estar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	parataxis	_	_
 26	novamente	novamente	ADV	RB	_	25	advmod	_	_
 27	em	em	ADP	INDT	_	29	case	_	_
-28	a	o	DET	_	Gender=Fem|Number=Sing	29	det	_	_
+28	a	o	DET	_	Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
 29	moda	moda	NOUN	NN	Gender=Fem|Number=Sing	25	obl	_	SpaceAfter=No
 30	.	.	PUNCT	.	_	5	punct	_	_
 

@@ -27,7 +27,7 @@ The following 12 pairs of parts of speech are connected with `det`: <tt><a href=
 3	por	por	ADP	IN	_	4	case	_	_
 4	pessoa	pessoa	NOUN	NN	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	7	punct	_	_
-6	o	o	DET	DT	Gender=Masc|Number=Sing	7	det	_	_
+6	o	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	máximo	máximo	NOUN	NN	Gender=Masc|Number=Sing	1	appos	_	_
 8	permitido	permitido	ADJ	JJ	Gender=Masc|Number=Sing	7	amod	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	1	punct	_	_
@@ -44,7 +44,7 @@ The following 12 pairs of parts of speech are connected with `det`: <tt><a href=
 1	Ele	_	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	nsubj	_	_
 2	trabalhou	trabalhar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 3	para	para	ADP	IN	_	5	case	_	_
-4	a	o	DET	DT	Gender=Fem|Number=Sing	5	det	_	_
+4	a	o	DET	DT	Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	BBC	BBC	PROPN	NNP	Gender=Fem|Number=Sing	2	obl	_	_
 6	por	por	ADP	IN	_	8	case	_	_
 7	uma	um	DET	CD	Gender=Fem	8	det	_	_
@@ -67,7 +67,7 @@ The following 12 pairs of parts of speech are connected with `det`: <tt><a href=
 5	que	_	PRON	WP	_	6	obj	_	_
 6	precisamos	precisar	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres	4	acl:relcl	_	_
 7	em	em	ADP	INDT	_	10	case	_	_
-8	o	o	DET	_	Gender=Masc|Number=Sing	10	det	_	_
+8	o	o	DET	_	Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 9	nosso	_	PRON	DTP$	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs	10	det	_	_
 10	país	país	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	12	punct	_	_

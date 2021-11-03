@@ -11,20 +11,20 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 44447 tokens (10%) have a non-empty value of `Person`.
 5670 types (12%) occur at least once with a non-empty value of `Person`.
-2229 lemmas (6%) occur at least once with a non-empty value of `Person`.
+2226 lemmas (6%) occur at least once with a non-empty value of `Person`.
 The feature is used with 7 part-of-speech tags: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (20153; 5% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (9979; 2% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (9790; 2% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (4361; 1% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt> (99; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (62; 0% instances), <tt><a href="es_gsd-pos-INTJ.html">INTJ</a></tt> (3; 0% instances).
 
 ### `VERB`
 
 20153 <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> tokens (56% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (20153; 100%), <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20151; 100%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (18793; 93%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14996; 74%), <tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (10145; 50%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (20153; 100%), <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (20151; 100%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (18791; 93%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14996; 74%), <tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (10143; 50%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (610; 3% of non-empty `Person`): <em>tenemos, creo, estamos, pedimos, recomiendo, encontramos, quiero, tengo, estuve, fuimos</em>
-* `2` (82; 0% of non-empty `Person`): <em>tienes, sabes, sientes, estás, llevas, añade, mira, quieres, viste, Afirma</em>
-* `3` (19461; 97% of non-empty `Person`): <em>tiene, es, encuentra, hay, hace, tenía, tienen, era, fue, hizo</em>
+* `2` (84; 0% of non-empty `Person`): <em>tienes, sabes, sientes, estás, llevas, añade, mira, quieres, viste, Afirma</em>
+* `3` (19459; 97% of non-empty `Person`): <em>tiene, es, encuentra, hay, hace, tenía, tienen, era, fue, hizo</em>
 * `EMPTY` (15875): <em>hacer, ubicado, ver, conocido, debido, decir, tener, dar, partir, llegar</em>
 
 <table>
@@ -46,7 +46,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>tengamos</em></td><td><em>tengáis</em></td><td><em>tengan</em></td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `VERB`. 93% lemmas (1985) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `VERB`. 93% lemmas (1982) occur only with one value of `Person`.
 
 ### `PRON`
 
@@ -178,7 +178,7 @@ The most frequent other feature values with which `X` and `Person` co-occurred: 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="es_gsd-dep-iobj.html">iobj</a></tt>]--> PRON</tt> (4554; 69%),
+<tt>VERB --[<tt><a href="es_gsd-dep-iobj.html">iobj</a></tt>]--> PRON</tt> (4555; 69%),
 <tt>VERB --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (1665; 65%),
 <tt>VERB --[<tt><a href="es_gsd-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (545; 50%),
 <tt>VERB --[<tt><a href="es_gsd-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (395; 53%),

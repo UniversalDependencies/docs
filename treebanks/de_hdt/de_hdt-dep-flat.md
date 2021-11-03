@@ -12,7 +12,7 @@ There are 1 language-specific subtypes of `flat`: <tt><a href="de_hdt-dep-flat-n
 37877 nodes (1%) are attached to their parents as `flat`.
 
 37877 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.90147054940993.
+Average distance between parent and child is 1.90152335190221.
 
 The following 8 pairs of parts of speech are connected with `flat`: <tt><a href="de_hdt-pos-X.html">X</a></tt>-<tt><a href="de_hdt-pos-X.html">X</a></tt> (23114; 61% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-X.html">X</a></tt> (6254; 17% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (4388; 12% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (3319; 9% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt>-<tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (773; 2% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt>-<tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (21; 0% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt>-<tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (3; 0% instances).
 

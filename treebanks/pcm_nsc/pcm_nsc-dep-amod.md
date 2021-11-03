@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1823 nodes (1%) are attached to their parents as `amod`.
+1800 nodes (1%) are attached to their parents as `amod`.
 
-1773 instances of `amod` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.29292375205705.
+1759 instances of `amod` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.28555555555556.
 
-The following 8 pairs of parts of speech are connected with `amod`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1681; 92% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (47; 3% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (38; 2% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (33; 2% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (11; 1% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (3; 0% instances).
+The following 9 pairs of parts of speech are connected with `amod`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1672; 93% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (46; 3% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (31; 2% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (27; 2% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (11; 1% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -60,15 +60,25 @@ The following 8 pairs of parts of speech are connected with `amod`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 amod	color:blue
-1	na	na	AUX	_	PartType=Cop	3	cop	_	AlignBegin=272009|AlignEnd=272220|Gloss=be
-2	your	your	ADJ	_	Number=Plur|Person=2|Poss=Yes	3	amod	_	AlignBegin=272220|AlignEnd=272442|Gloss=PL.2.POSS
-3	own	own	ADJ	_	_	0	root	_	AlignBegin=272442|AlignEnd=272550|Gloss=own
-4	//	//	X	_	_	3	dep	_	AlignBegin=272550|AlignEnd=272580|Gloss=PUNCT
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 10 amod	color:blue
+1	so	so	ADV	_	_	4	discourse	_	AlignBegin=252100|AlignEnd=252243|Gloss=so
+2	de	dem	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	AlignBegin=252243|AlignEnd=252385|Gloss=NOM.PL.3
+3	go	go	AUX	_	Aspect=Prosp	4	aux	_	AlignBegin=252385|AlignEnd=252528|Gloss=PROSP
+4	say	say	VERB	_	_	0	root	_	AlignBegin=252528|AlignEnd=252671|Gloss=say
+5	[	[	X	_	_	11	dep	_	AlignBegin=252671|AlignEnd=252671|Gloss=PUNCT
+6	dis	dis	DET	_	Number=Sing|PronType=Dem	7	det	_	AlignBegin=252671|AlignEnd=252814|Gloss=SG.DEM
+7	wedding	wedding	NOUN	_	_	11	nsubj	_	AlignBegin=252814|AlignEnd=252956|Gloss=wedding
+8	no	no	AUX	_	Polarity=Neg	11	aux	_	AlignBegin=252956|AlignEnd=253099|Gloss=NEG
+9	be	be	AUX	_	PartType=Cop	11	cop	_	AlignBegin=253099|AlignEnd=253242|Gloss=be1
+10	only	only	ADJ	_	_	11	amod	_	AlignBegin=253242|AlignEnd=253385|Gloss=only
+11	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	4	parataxis	_	AlignBegin=253385|AlignEnd=253527|Gloss=NOM.2
+12	o	o	PART	_	PartType=Disc	11	advmod	_	AlignBegin=253527|AlignEnd=253670|Gloss=EMPH
+13	]	]	X	_	_	11	dep	_	AlignBegin=253670|AlignEnd=253670|Gloss=PUNCT
+14	//	//	X	_	_	4	dep	_	AlignBegin=253670|AlignEnd=253670|Gloss=PUNCT
 
 ~~~
 

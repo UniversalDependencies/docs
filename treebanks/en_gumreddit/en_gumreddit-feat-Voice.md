@@ -23,5 +23,5 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 `VERB` tokens may have the following values of `Voice`:
 
 * `Pass` (97; 100% of non-empty `Voice`): <em>_</em>
-* `EMPTY` (1974): <em>_</em>
+* `EMPTY` (1983): <em>_</em>
 

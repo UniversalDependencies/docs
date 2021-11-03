@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="pcm_nsc-pos-DET.htm
 
 ### `DET`
 
-3173 <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> tokens (56% of all `DET` tokens) have a non-empty value of `Definite`.
+3173 <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> tokens (57% of all `DET` tokens) have a non-empty value of `Definite`.
 
 The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="pcm_nsc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3173; 100%), <tt><a href="pcm_nsc-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3173; 100%).
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 * `Def` (2812; 89% of non-empty `Definite`): <em>di, the</em>
 * `Ind` (134; 4% of non-empty `Definite`): <em>a, an</em>
 * `Spec` (227; 7% of non-empty `Definite`): <em>one</em>
-* `EMPTY` (2485): <em>dis, dat, all, some, dose, any, anoder, which, every, dese</em>
+* `EMPTY` (2404): <em>dis, dat, all, some, dose, any, anoder, which, every, dese</em>
 
 ## Relations with Agreement in `Definite`
 

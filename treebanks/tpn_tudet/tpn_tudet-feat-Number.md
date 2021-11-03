@@ -24,11 +24,11 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 * `Plur` (27; 40% of non-empty `Number`): <em>jandéjara, cristãos, kuɲãangaturametá, semimboʔeetá, iirũetá, jandépɨsɨrõ, oréamotareʔɨmbara, oréjar, orépɨsɨrõ, pemembɨrate</em>
 * `Sing` (41; 60% of non-empty `Number`): <em>Taʃepɨsɨrõ, ndesɨ, ʃerekó, ʃeruβɨwé, Naʃeremimotara, Ndepópekatu, Taʃemaran, Taʃepeʔa, iʃɨ, jandérepɨmeʔengawera</em>
-* `EMPTY` (485): <em>aβá, cruz, judeus, Tupã, sereków, mbaʔe, osɨ, raʔangaβa, sekóreme, seków</em>
+* `EMPTY` (500): <em>aβá, cruz, judeus, Tupã, sereków, mbaʔe, osɨ, raʔangaβa, sekóreme, seków</em>
 
 ### `VERB`
 
-16 <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> tokens (8% of all `VERB` tokens) have a non-empty value of `Number`.
+16 <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> tokens (7% of all `VERB` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="tpn_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (15; 94%), <tt><a href="tpn_tudet-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (14; 88%), <tt><a href="tpn_tudet-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (12; 75%).
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 * `Plur` (4; 25% of non-empty `Number`): <em>erejkó, pejeapirõ, pesapirõ, tapejkwaβ</em>
 * `Sing` (12; 75% of non-empty `Number`): <em>Eresawsupe, ajkó, ajukaukáne, arur, asó, naipotari, nd'erejkój, ojkóβo, witekóβo, ʃemoɨrõetékatuaβo</em>
-* `EMPTY` (191): <em>eʔi, ojaβo, eʔipe, Osó, meʔenga, ojkóβo, omanõmo, owerasó, Ojaoβok, Ojaratã</em>
+* `EMPTY` (198): <em>eʔi, ojaβo, eʔipe, Ojaoβok, Osó, meʔenga, ojkóβo, omanõmo, owerasó, Ojaratã</em>
 
 <table>
   <tr><th>Paradigm <i>ikó</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -70,7 +70,7 @@ The most frequent other feature values with which `ADP` and `Number` co-occurred
 
 * `Plur` (1; 33% of non-empty `Number`): <em>ʃepɨ́rine</em>
 * `Sing` (2; 67% of non-empty `Number`): <em>ʃeresé, ʃeswi</em>
-* `EMPTY` (135): <em>resé, swi, supé, pupé, sesé, iré, rupi, janondé, iʃupé, ri</em>
+* `EMPTY` (142): <em>resé, swi, supé, pupé, sesé, rupi, iré, janondé, iʃupé, ri</em>
 
 ### `PART`
 
@@ -81,7 +81,7 @@ The most frequent other feature values with which `PART` and `Number` co-occurre
 `PART` tokens may have the following values of `Number`:
 
 * `Sing` (1; 100% of non-empty `Number`): <em>Petéumẽ</em>
-* `EMPTY` (61): <em>ɲẽ, ɨβɨá, e, ã, ɲẽpe, aʔepe, aé, jepé, pe, ruã</em>
+* `EMPTY` (64): <em>ɲẽ, ɨβɨá, e, ã, ɲẽpe, aʔepe, aé, jepé, pe, ruã</em>
 
 ## Relations with Agreement in `Number`
 

@@ -42,7 +42,7 @@ The following 14 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 dislocated	color:blue
-1	Да	даже	PART	_	Typo=Yes	3	advmod	_	_
+1	Да	даже	PART	_	_	3	advmod	_	_
 2	же	же	PART	_	_	1	goeswith	_	_
 3	педали	педаль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	obj	_	_
 4	су..ки	сука	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur|Typo=Yes	5	dislocated	_	_
@@ -75,7 +75,7 @@ The following 14 pairs of parts of speech are connected with `dislocated`: <tt><
 15	скорбно	скорбно	ADV	_	Degree=Pos	11	advmod	_	_
 16	и	и	CCONJ	_	_	17	cc	_	_
 17	устало	устало	ADV	_	Degree=Pos	15	conj	_	SpaceAfter=No
-18	.	.	PUNCT	_	_	8	punct	_	_
+18	.	.	PUNCT	_	_	8	punct	_	_~
 
 ~~~
 

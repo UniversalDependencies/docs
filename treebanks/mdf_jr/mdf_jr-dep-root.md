@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-313 nodes (11%) are attached to their parents as `root`.
+342 nodes (11%) are attached to their parents as `root`.
 
-313 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.36421725239617.
+342 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.57017543859649.
 
-The following 6 pairs of parts of speech are connected with `root`: -<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (257; 82% instances), -<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (25; 8% instances), -<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (20; 6% instances), -<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (7; 2% instances), -<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (3; 1% instances), -<tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `root`: -<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (281; 82% instances), -<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (27; 8% instances), -<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (22; 6% instances), -<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (7; 2% instances), -<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (4; 1% instances), -<tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -49,7 +49,7 @@ The following 6 pairs of parts of speech are connected with `root`: -<tt><a href
 7	:	:	PUNCT	CLB	_	11	punct	_	_
 8	гулянять	гуляня	NOUN	N	Case=Gen|Definite=Def|Number=Sing	9	nmod	_	_
 9	пацяняц	паця	NOUN	N	Case=Nom|Derivation=Dimin|Number=Sing|Number[psor]=Sing|Person[psor]=3	11	obj	_	_
-10	апак	апак	AUX	Aux	Polarity=Neg	11	aux:neg	_	_
+10	апак	аф	AUX	Aux	Polarity=Neg|VerbForm=Conv,Part	11	aux:neg	_	_
 11	синтть	синдемс	VERB	V	Connegative=Yes|Valency=2	6	csubj	_	SpaceAfter=No
 12	.	.	PUNCT	CLB	_	6	punct	_	_
 

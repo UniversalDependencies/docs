@@ -64,7 +64,7 @@ The 10 most frequent ambiguous types:  <em>an</em> (<tt><a href="ga_idt-pos-DET.
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.863636 (the average of all parts of speech is 1.643740).
+The form / lemma ratio of `DET` is 1.863636 (the average of all parts of speech is 1.643911).
 
 The 1st highest number of forms (7) was observed with the lemma “an”: <em>'n, 'na, a, a', an, na, un</em>.
 

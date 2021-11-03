@@ -11,9 +11,9 @@ This relation is universal.
 1000 nodes (5%) are attached to their parents as `root`.
 
 1000 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.351.
+Average distance between parent and child is 6.341.
 
-The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (823; 82% instances), -<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (86; 9% instances), -<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (60; 6% instances), -<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (10; 1% instances), -<tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (9; 1% instances), -<tt><a href="id_pud-pos-SYM.html">SYM</a></tt> (5; 1% instances), -<tt><a href="id_pud-pos-AUX.html">AUX</a></tt> (2; 0% instances), -<tt><a href="id_pud-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (2; 0% instances), -<tt><a href="id_pud-pos-X.html">X</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (822; 82% instances), -<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (87; 9% instances), -<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (60; 6% instances), -<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (10; 1% instances), -<tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (9; 1% instances), -<tt><a href="id_pud-pos-SYM.html">SYM</a></tt> (5; 1% instances), -<tt><a href="id_pud-pos-AUX.html">AUX</a></tt> (2; 0% instances), -<tt><a href="id_pud-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (2; 0% instances), -<tt><a href="id_pud-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -59,12 +59,12 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	fgColor:white
 # visual-style 0 14 root	color:blue
 1	Apa	apa	PRON	_	PronType=Rel	14	nsubj	_	_
-2	yang	yang	SCONJ	_	_	4	mark	_	_
+2	yang	yang	PRON	_	PronType=Rel	4	obj	_	_
 3	ia	ia	PRON	_	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 4	katakan	kata	VERB	_	Mood=Ind|Voice=Act	1	acl:relcl	_	_
 5	dan	dan	CCONJ	_	_	6	cc	_	_
 6	apa	apa	PRON	_	PronType=Rel	1	conj	_	_
-7	yang	yang	SCONJ	_	_	9	mark	_	_
+7	yang	yang	PRON	_	PronType=Rel	9	obj	_	_
 8	ia	ia	PRON	_	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
 9	lakukan	laku	VERB	_	Mood=Ind|Voice=Act	6	acl:relcl	_	_
 10	—	—	PUNCT	_	_	1	punct	_	_

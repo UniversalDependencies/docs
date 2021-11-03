@@ -45,7 +45,7 @@ The following 27 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 1	La	lá	PROPN	_	_	0	root	_	CorrectForm=Lá|Lang=ga
 2	fheile	féile	PROPN	_	_	1	nmod	_	CorrectForm=Fhéile|Lang=ga
 3	#Padraig	#Padraig	X	_	_	1	nmod	_	Lang=ga
-4	dhaoibh	do	ADP	_	_	1	obl:prep	_	Lang=ga|SpaceAfter=No
+4	dhaoibh	do	ADP	_	_	1	nmod	_	Lang=ga|SpaceAfter=No
 5	!	!	PUNCT	_	_	1	punct	_	SpaceAfter=No
 6	Bain	bain	VERB	_	_	1	parataxis:sentence	_	Lang=ga
 7	sibh	sibh	PRON	_	_	6	nsubj	_	Lang=ga

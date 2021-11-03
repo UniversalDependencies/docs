@@ -13,22 +13,22 @@ The 10 most frequent `PART` lemmas: <em>nicht, zu</em>
 
 The 10 most frequent `PART` types:  <em>nicht, zu</em>
 
-The 10 most frequent ambiguous lemmas: <em>nicht</em> (<tt><a href="de_hdt-pos-PART.html">PART</a></tt> 18383, <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> 1), <em>zu</em> (<tt><a href="de_hdt-pos-PART.html">PART</a></tt> 16648, <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> 9665, <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> 1004)
+The 10 most frequent ambiguous lemmas: <em>nicht</em> (<tt><a href="de_hdt-pos-PART.html">PART</a></tt> 18383, <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> 1), <em>zu</em> (<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> 23436, <tt><a href="de_hdt-pos-PART.html">PART</a></tt> 16648, <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> 1004)
 
-The 10 most frequent ambiguous types:  <em>nicht</em> (<tt><a href="de_hdt-pos-PART.html">PART</a></tt> 18383, <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> 1), <em>zu</em> (<tt><a href="de_hdt-pos-PART.html">PART</a></tt> 16648, <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> 9665, <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> 1004)
+The 10 most frequent ambiguous types:  <em>nicht</em> (<tt><a href="de_hdt-pos-PART.html">PART</a></tt> 18383, <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> 1), <em>zu</em> (<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> 22416, <tt><a href="de_hdt-pos-PART.html">PART</a></tt> 16648, <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> 1004)
 
 
 * <em>nicht</em>
   * <tt><a href="de_hdt-pos-PART.html">PART</a></tt> 18383: <em>Amazon.com schließt Handel mit Kundendaten <b>nicht</b> aus</em>
   * <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> 1: <em>Intel prüft ... einen weiteren Kommentar gab es bisher noch <b>nicht</b> .</em>
 * <em>zu</em>
+  * <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> 22416: <em>Nach dem Konkurs wurden die Daten dann offen <b>zu</b> dem Verkauf angeboten .</em>
   * <tt><a href="de_hdt-pos-PART.html">PART</a></tt> 16648: <em>Allerdings behält sich MobilCom vor , Vielnutzern fristlos <b>zu</b> kündigen :</em>
-  * <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> 9665: <em>Es kam <b>zu</b> acht Festnahmen .</em>
   * <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> 1004: <em>Denen sei es <b>zu</b> mühsam , Kopierschutz-Codes zu knacken .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 2.524227).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 2.524629).
 
 The 1st highest number of forms (1) was observed with the lemma “Nicht”: <em>Nicht</em>.
 

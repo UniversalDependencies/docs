@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Brck`, `Comm`, `Peri`.
 
-396256 tokens (12%) have a non-empty value of `PunctType`.
+396256 tokens (11%) have a non-empty value of `PunctType`.
 15 types (0%) occur at least once with a non-empty value of `PunctType`.
 15 lemmas (0%) occur at least once with a non-empty value of `PunctType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> (396256; 12% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> (396256; 11% instances).
 
 ### `PUNCT`
 

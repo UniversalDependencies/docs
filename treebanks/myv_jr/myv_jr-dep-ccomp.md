@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-106 nodes (1%) are attached to their parents as `ccomp`.
+107 nodes (1%) are attached to their parents as `ccomp`.
 
-104 instances of `ccomp` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.50943396226415.
+105 instances of `ccomp` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.5607476635514.
 
-The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (83; 78% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (4; 4% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (84; 79% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (3; 3% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -57,27 +57,23 @@ The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 6 ccomp	color:blue
-1	—	—	PUNCT	PUNCT	_	2	punct	_	_
-2	Невтика	невтемс	VERB	V	Mood=Prec|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Valency=2	0	root	_	GTtags=TV,Imprt,ScSg2,OcSg3,Clt/Га|SpaceAfter=No
-3	,	,	PUNCT	CLB	_	6	punct	_	_
-4	мезеть	мезе	PRON	Pron	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2|PronType=Int	6	nsubj	_	GTtags=Interr,Sem/Obj,Sg,Nom,PxSg2
-5	истя	истя	ADV	Adv	AdvType=Man	6	advmod	_	GTtags=Manner
-6	ули	улемс	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	2	ccomp	_	GTtags=IV,Ind,Prs,ScSg3|SpaceAfter=No
-7	,	,	PUNCT	CLB	_	6	punct	_	_
-8	—	—	PUNCT	PUNCT	_	9	punct	_	_
-9	мерсь	меремс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=2	2	parataxis	_	GTtags=TV,Ind,Prt1,ScSg3
-10	Микол	Микол	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|Gender=Masc|NameType=Giv|Number=Sing	9	nsubj	_	GTtags=Prop,Ant_Mal,Sg,Nom,Indef
-11	ды	ды	CCONJ	CC	_	12	cc	_	_
-12	мольсь	молемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	9	conj	_	GTtags=IV,Ind,Prt1,ScSg3
-13	цёранзо	цёра	NOUN	N	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	12	obl	_	GTtags=Sg,Gen,PxSg3
-14	мельга	мельга	ADP	Adp	AdvType=Loc|Case=Prl	13	case	_	GTtags=Spat,Prl
-15	цюланс	цюлан	NOUN	N	Case=Ill|Definite=Ind|Number=Plur,Sing	12	obl	_	GTtags=SP,Ill,Indef|SpaceAfter=No
-16	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 11 ccomp	color:blue
+1	―	―	PUNCT	PUNCT	_	3	punct	_	_
+2	Мон	мон	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	GTtags=Pers,Sg1,Nom
+3	бажан	бажамс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Pres|Valency=1	0	root	_	GTtags=IV,Ind,Prs,ScSg1|SpaceAfter=No
+4	,	,	PUNCT	CLB	_	11	punct	_	_
+5	штобы	штобы	SCONJ	CS	_	11	mark	_	_
+6	весе	весе	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Tot	8	det	_	GTtags=Tot,Sg,Nom,Indef
+7	трудиця	трудиця	NOUN	N	Case=Nom|Definite=Ind|Number=Sing	8	nmod	_	GTtags=Sg,Nom,Indef
+8	аватне	ава	NOUN	N	Case=Nom|Definite=Def|Number=Plur	11	nsubj	_	GTtags=Sem/Kin,Pl,Nom,Def
+9	улест	улемс	AUX	V	Mood=Opt|Number[subj]=Plur|Person[subj]=3|Valency=1	11	cop	_	GTtags=IV,Opt,ScPl3
+10	истят	истямо	PRON	Pron	Case=Nom|Definite=Ind|Number=Plur|PronType=Dem	11	det	_	GTtags=Dem,Pl,Nom,Indef
+11	уцяскавт	уцяскав	ADJ	A	Case=Nom|Definite=Ind|Number=Plur	3	ccomp	_	GTtags=Pl,Nom,Indef|SpaceAfter=No
+12	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Western_Armenian-ArmTDP: Relations: `flat:dist`
 
 This relation is a language-specific subtype of <tt><a href="hyw_armtdp-dep-flat.html">flat</a></tt>.
-There are also 2 other language-specific subtypes of `flat`: <tt><a href="hyw_armtdp-dep-flat-name.html">flat:name</a></tt>, <tt><a href="hyw_armtdp-dep-flat-range.html">flat:range</a></tt>.
+There are also 3 other language-specific subtypes of `flat`: <tt><a href="hyw_armtdp-dep-flat-frac.html">flat:frac</a></tt>, <tt><a href="hyw_armtdp-dep-flat-name.html">flat:name</a></tt>, <tt><a href="hyw_armtdp-dep-flat-range.html">flat:range</a></tt>.
 
 3 nodes (0%) are attached to their parents as `flat:dist`.
 
@@ -29,9 +29,9 @@ The following 1 pairs of parts of speech are connected with `flat:dist`: <tt><a 
 4	բարապանները	բարապան	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Plur	25	nsubj	_	Translit=barapannerë|LTranslit=barapan|SpaceAfter=No
 5	,	,	PUNCT	_	_	16	punct	_	Translit=,|LTranslit=,
 6	«	«	PUNCT	_	_	16	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
-7	որոնց	որ	DET	_	Case=Gen|Number=Plur|Poss=Yes|PronType=Rel	10	det:poss	_	Translit=oronc’|LTranslit=or
-8	ամէն	ամէն	DET	_	PronType=Tot	10	det	_	Translit=amēn|LTranslit=amēn
-9	մէկի	մէկ	DET	_	Case=Gen|PronType=Ind	8	fixed	_	Translit=mēki|LTranslit=mēk
+7	որոնց	որ	PRON	_	Case=Dat|Number=Plur|PronType=Rel	9	nmod:poss	_	Translit=oronc’|LTranslit=or
+8	ամէն	ամէն	DET	_	PronType=Tot	9	det	_	Translit=amēn|LTranslit=amēn
+9	մէկի	մէկ	PRON	_	Case=Dat|Definite=Ind|PronType=Ind	10	nmod:poss	_	Translit=mēki|LTranslit=mēk
 10	պեխէն	պեխ	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Def|Number=Sing	16	obl	_	Translit=pexēn|LTranslit=pex
 11	մէկ	մէկ	NUM	_	NumForm=Word|NumType=Card	14	nummod	_	Translit=mēk|LTranslit=mēk|SpaceAfter=No
 12	-	-	PUNCT	_	_	13	punct	_	Translit=-|LTranslit=-|SpaceAfter=No

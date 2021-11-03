@@ -23,16 +23,16 @@ The following 18 pairs of parts of speech are connected with `parataxis:trans`: 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 parataxis:trans	color:blue
-1	Die	der	PRON	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	5	nsubj	_	LangID=DE
-2	haben	haben	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	LangID=DE
-3	mich	ich	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	_	LangID=DE
-4	nicht	nicht	PART	_	Polarity=Neg	5	advmod	_	LangID=DE
-5	angenommen	annehmen	VERB	_	VerbForm=Part	0	root	_	LangID=DE|SpaceAfter=No
-6	,	,	PUNCT	_	_	8	punct	_	LangID=OTHER
-7	ya	ya	INTJ	_	_	8	discourse	_	LangID=TR
-8	almadılar	al	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past	5	parataxis:trans	_	LangID=TR
-9	beni	ben	PRON	_	Case=Acc|Number=Sing	8	obj	_	LangID=TR|SpaceAfter=No
-10	.	.	PUNCT	_	_	5	punct	_	LangID=OTHER
+1	Die	der	PRON	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	5	nsubj	_	CSID=DE|Lang=de
+2	haben	haben	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	CSID=DE|Lang=de
+3	mich	ich	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	_	CSID=DE|Lang=de
+4	nicht	nicht	PART	_	Polarity=Neg	5	advmod	_	CSID=DE|Lang=de
+5	angenommen	annehmen	VERB	_	VerbForm=Part	0	root	_	CSID=DE|Lang=de|SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	CSID=OTHER
+7	ya	ya	INTJ	_	_	8	discourse	_	CSID=TR|Lang=tr
+8	almadılar	al	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Past	5	parataxis:trans	_	CSID=TR|Lang=tr
+9	beni	ben	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	obj	_	CSID=TR|Lang=tr|SpaceAfter=No
+10	.	.	PUNCT	_	_	5	punct	_	CSID=OTHER
 
 ~~~
 
@@ -43,14 +43,14 @@ The following 18 pairs of parts of speech are connected with `parataxis:trans`: 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 7 parataxis:trans	color:blue
-1	Çok	çok	ADV	_	_	2	advmod	_	LangID=TR
-2	güzel	güzel	ADJ	_	_	3	advmod	_	LangID=TR
-3	konuşuyor	konuş	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LangID=TR
-4	einfach	einfach	ADJ	_	_	7	advmod	_	LangID=DE
-5	richtig	richtig	ADJ	_	_	6	compound:redup	_	LangID=DE
-6	richtig	richtig	ADJ	_	_	7	advmod	_	LangID=DE
-7	gut	gut	ADJ	_	_	3	parataxis:trans	_	LangID=DE|SpaceAfter=No
-8	.	.	PUNCT	_	_	3	punct	_	LangID=OTHER
+1	Çok	çok	ADV	_	_	2	advmod	_	CSID=TR|Lang=tr
+2	güzel	güzel	ADJ	_	_	3	advmod	_	CSID=TR|Lang=tr
+3	konuşuyor	konuş	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	CSID=TR|Lang=tr
+4	einfach	einfach	ADJ	_	_	7	advmod	_	CSID=DE|Lang=de
+5	richtig	richtig	ADJ	_	_	6	compound:redup	_	CSID=DE|Lang=de
+6	richtig	richtig	ADJ	_	_	7	advmod	_	CSID=DE|Lang=de
+7	gut	gut	ADJ	_	_	3	parataxis:trans	_	CSID=DE|Lang=de|SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	CSID=OTHER
 
 ~~~
 
@@ -61,11 +61,11 @@ The following 18 pairs of parts of speech are connected with `parataxis:trans`: 
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 parataxis:trans	color:blue
-1	Richtig	richtig	ADV	_	_	2	advmod	_	LangID=DE
-2	gut	gut	ADJ	_	_	0	root	_	LangID=DE
-3	çok	çok	ADV	_	_	4	advmod	_	LangID=TR
-4	güzel	güzel	ADJ	_	_	2	parataxis:trans	_	LangID=TR|SpaceAfter=No
-5	.	.	PUNCT	_	_	2	punct	_	LangID=OTHER
+1	Richtig	richtig	ADV	_	_	2	advmod	_	CSID=DE|Lang=de
+2	gut	gut	ADJ	_	_	0	root	_	CSID=DE|Lang=de
+3	çok	çok	ADV	_	_	4	advmod	_	CSID=TR|Lang=tr
+4	güzel	güzel	ADJ	_	_	2	parataxis:trans	_	CSID=TR|Lang=tr|SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	CSID=OTHER
 
 ~~~
 

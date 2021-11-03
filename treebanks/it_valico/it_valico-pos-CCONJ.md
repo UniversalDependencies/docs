@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>e</em> (<tt><a href="it_valico-pos-CC
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.166667 (the average of all parts of speech is 1.390760).
+The form / lemma ratio of `CCONJ` is 1.166667 (the average of all parts of speech is 1.389423).
 
 The 1st highest number of forms (3) was observed with the lemma “e”: <em>e, ed, È</em>.
 
@@ -48,7 +48,7 @@ The 3rd highest number of forms (1) was observed with the lemma “en”: <em>en
 
 `CCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="it_valico-dep-cc.html">cc</a></tt> (273; 99% instances), <tt><a href="it_valico-dep-discourse.html">discourse</a></tt> (3; 1% instances), <tt><a href="it_valico-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (201; 73% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (37; 13% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (29; 10% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="it_valico-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="it_valico-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="it_valico-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 8 different parts of speech: <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (201; 73% instances), <tt><a href="it_valico-pos-ADJ.html">ADJ</a></tt> (37; 13% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (29; 10% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="it_valico-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="it_valico-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="it_valico-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
 271 (98%) `CCONJ` nodes are leaves.
 

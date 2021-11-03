@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `case`: <tt><a href="id_csui-dep-case-adv.html">case:adv</a></tt>.
 
-2197 nodes (8%) are attached to their parents as `case`.
+2173 nodes (8%) are attached to their parents as `case`.
 
-2197 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.16795630405098.
+2173 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.15324436263231.
 
-The following 9 pairs of parts of speech are connected with `case`: <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (1430; 65% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (519; 24% instances), <tt><a href="id_csui-pos-PRON.html">PRON</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (95; 4% instances), <tt><a href="id_csui-pos-NUM.html">NUM</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (79; 4% instances), <tt><a href="id_csui-pos-X.html">X</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (29; 1% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (23; 1% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (18; 1% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="id_csui-pos-DET.html">DET</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `case`: <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (1427; 66% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (490; 23% instances), <tt><a href="id_csui-pos-NUM.html">NUM</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (111; 5% instances), <tt><a href="id_csui-pos-PRON.html">PRON</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (77; 4% instances), <tt><a href="id_csui-pos-X.html">X</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (26; 1% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (23; 1% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (17; 1% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="id_csui-pos-DET.html">DET</a></tt>-<tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,8 +27,8 @@ The following 9 pairs of parts of speech are connected with `case`: <tt><a href=
 2	terhadap	hadap	ADP	IN	_	3	case	_	_
 3	dolar	dolar	NOUN	NN	Number=Sing	1	nmod	_	_
 4	AS	AS	PROPN	NNP	_	3	nmod	_	_
-5	mencapai	capai	VERB	VB	Voice=Act	0	root	_	_
-6	121,32	121,32	NUM	CD	_	5	obj	_	SpaceAfter=No
+5	mencapai	capai	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+6	121,32	121,32	NUM	CD	NumType=Card	5	obj	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	5	punct	_	_
 
 ~~~
@@ -40,7 +40,7 @@ The following 9 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 case	color:blue
-1	Membaca	baca	VERB	VB	Voice=Act	0	root	_	_
+1	Membaca	baca	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
 2	Don	Don	PROPN	NNP	_	1	obj	_	_
 3	Quixote	Quixote	PROPN	NNP	_	2	flat:name	_	_
 4	untuk	untuk	ADP	IN	_	5	case	_	_
@@ -50,22 +50,20 @@ The following 9 pairs of parts of speech are connected with `case`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 case	color:blue
-1	Menurut	turut	ADP	IN	_	2	case	_	_
-2	nya	nya	PRON	PRP	Number=Sing|Person=3|PronType=Prs	8	obl	_	_
-3	untuk	untuk	ADP	IN	_	4	case	_	_
-4	akuisisi	akuisisi	NOUN	NN	Number=Sing	8	obl	_	_
-5	ini	ini	DET	DT	PronType=Dem	4	det	_	_
-6	perseroan	perseroan	NOUN	NN	Number=Sing	8	nsubj	_	_
-7	akan	akan	AUX	MD	_	8	aux	_	_
-8	melakukan	laku	VERB	VB	Voice=Act	0	root	_	_
-9	rights	rights	X	FW	Foreign=Yes	8	obj	_	_
-10	issue	issue	X	FW	Foreign=Yes	9	flat:foreign	_	SpaceAfter=No
-11	.	.	PUNCT	.	_	8	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 case	color:blue
+1	Ia	ia	PRON	PRP	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	mengatakan	kata	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+3	kejahatan	jahat	NOUN	NN	Number=Sing	5	nsubj	_	_
+4	itu	itu	DET	DT	PronType=Dem	3	det	_	_
+5	bernilai	nilai	VERB	VB	Mood=Ind|Voice=Act	2	ccomp	_	_
+6	hingga	hingga	ADP	IN	_	8	case	_	_
+7	£	£	SYM	SYM	_	5	obl	_	SpaceAfter=No
+8	12.900	12.900	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 

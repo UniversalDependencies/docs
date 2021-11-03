@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 `NOUN` tokens may have the following values of `Polarity`:
 
 * `Neg` (16; 100% of non-empty `Polarity`): <em>Niapɨsɨki, Niʃɨj, nasetéj, nijɨpɨj, Natuβi, Natuβitepe, Naʃeremimotara, Niʃɨjtepe, iatõjmbɨreʔɨma, oréamotareʔɨmbara</em>
-* `EMPTY` (537): <em>jandéjara, aβá, cruz, judeus, Tupã, sereków, iʃɨ, mbaʔe, osɨ, raʔangaβa</em>
+* `EMPTY` (552): <em>jandéjara, aβá, cruz, judeus, Tupã, sereków, iʃɨ, mbaʔe, osɨ, raʔangaβa</em>
 
 `Polarity` seems to be **lexical feature** of `NOUN`. 100% lemmas (11) occur only with one value of `Polarity`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (6; 100% of non-empty `Polarity`): <em>Nd'ojmoasɨipe, aβɨpotareʔɨma, naipotari, nd'erejkój, oɲeraneʔɨma, potareʔɨma</em>
-* `EMPTY` (201): <em>eʔi, ojaβo, eʔipe, ojkóβo, Osó, meʔenga, omanõmo, owerasó, Eresawsupe, Ojaoβok</em>
+* `EMPTY` (208): <em>eʔi, ojaβo, eʔipe, Ojaoβok, ojkóβo, Osó, meʔenga, omanõmo, owerasó, Eresawsupe</em>
 
 ### `PART`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (4; 100% of non-empty `Polarity`): <em>umẽ, Petéumẽ, ʃwémo, ʃwépemo</em>
-* `EMPTY` (58): <em>ɲẽ, ɨβɨá, e, ã, ɲẽpe, aʔepe, aé, jepé, pe, ruã</em>
+* `EMPTY` (61): <em>ɲẽ, ɨβɨá, e, ã, ɲẽpe, aʔepe, aé, jepé, pe, ruã</em>
 
 ### `INTJ`
 
@@ -65,7 +65,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>nd'eʔi</em>
-* `EMPTY` (126): <em>marã, Marãpe, aβé, Marãnamope, βé, aʔéreme, koʔɨté, serã, βépe, Mamõpe</em>
+* `EMPTY` (129): <em>marã, Marãpe, aβé, Marãnamope, βé, aʔéreme, serã, βépe, koʔɨté, Mamõpe</em>
 
 ## Relations with Agreement in `Polarity`
 

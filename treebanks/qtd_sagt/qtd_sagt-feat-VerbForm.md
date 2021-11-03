@@ -56,7 +56,8 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="qtd_sagt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="qtd_sagt-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt>|<tt><a href="qtd_sagt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>yaptığınız</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="qtd_sagt-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="qtd_sagt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>yapmadığ</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="qtd_sagt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="qtd_sagt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="qtd_sagt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>yapan</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="qtd_sagt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="qtd_sagt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>yapan--, yapılan</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="qtd_sagt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="qtd_sagt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt>|<tt><a href="qtd_sagt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>yapan--</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="qtd_sagt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="qtd_sagt-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>yapılan</em></td><td></td><td></td></tr>
 </table>
 
 ### `AUX`

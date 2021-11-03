@@ -11,14 +11,14 @@ It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
 49747 tokens (12%) have a non-empty value of `VerbForm`.
 11276 types (25%) occur at least once with a non-empty value of `VerbForm`.
-4910 lemmas (14%) occur at least once with a non-empty value of `VerbForm`.
+4514 lemmas (13%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 7 part-of-speech tags: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (36028; 8% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (11006; 3% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (2000; 0% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (448; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (211; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt> (42; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (12; 0% instances).
 
 ### `VERB`
 
 36028 <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (28587; 79%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21028; 58%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (19461; 54%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (18793; 52%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (28587; 79%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21028; 58%), <tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (19459; 54%), <tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (18791; 52%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
@@ -34,7 +34,9 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>tengo</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>tenido</em></td><td></td></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>tienes</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>tenidos</em></td><td></td></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>tenia</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>tenidas</em></td><td></td></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>tendría</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>tenia</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_gsd-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>tengan</em></td><td></td><td></td><td></td></tr>
