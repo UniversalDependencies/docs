@@ -41,7 +41,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
   code of the script; instead, we will use `valdan/releases.json` in `docs-automation`.
 * Check the [validation report](http://quest.ms.mff.cuni.cz/udvalidator/)
   for legacy exceptions that are no longer needed.
-  Edit [valdan/dispensations.jso](https://github.com/UniversalDependencies/docs-automation/blob/master/valdan/dispensations.json)
+  Edit [valdan/dispensations.json](https://github.com/UniversalDependencies/docs-automation/blob/master/valdan/dispensations.json)
   and remove those exceptions.
   Also update the back-up release
   numbers for treebanks that are part of the current release. (If the treebank is not valid but it
