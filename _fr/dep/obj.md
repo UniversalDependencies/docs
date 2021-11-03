@@ -35,4 +35,4 @@ obj(souvenir, se)
 on voit une jeune fille habillée en noir \n we see a young girl dressed in black
 obj(voit, fille)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:09:15 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:59:03 CET 2021 -->

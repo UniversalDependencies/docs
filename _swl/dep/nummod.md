@@ -12,4 +12,4 @@ modify the meaning of the noun with a quantity.
 PRO1 SITTA I@b ÅTTA ÅR TID-FRAMÅT \n I sat for eight years
 nummod(ÅR, ÅTTA)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:09:14 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:59:02 CET 2021 -->

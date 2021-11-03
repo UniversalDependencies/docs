@@ -32,4 +32,4 @@ Neither masculine nor feminine (grammatically).
 
 Example: [bg] <I><span style='color:red'>дете</span></I> / _dete_ "child"
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:32 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:21 CET 2021 -->

@@ -55,4 +55,4 @@ list(Jan, e-mail)
 appos(tel, 777-000-111)
 appos(e-mail, novak@ab.cz)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:08:50 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:39 CET 2021 -->

@@ -468,4 +468,4 @@ For example, “sheep” is in the m class.
 
 * [wo] _<b>ni</b>_ “so”
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:35 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:23 CET 2021 -->

@@ -23,4 +23,4 @@ Ukrainian uses the `advcl:sp` relation for optional depictives. See issue [#476]
 4	.	_	_	_	_	0	root	_	_
 
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:08:46 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:35 CET 2021 -->

@@ -24,4 +24,4 @@ punct(Kamytwals, .-13)
 
 “All my sisters that are now alive are Kamytwals.”
 
-<!-- Interlanguage links updated Pá kvě 14 11:09:11 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:59:00 CET 2021 -->

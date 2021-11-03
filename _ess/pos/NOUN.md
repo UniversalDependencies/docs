@@ -27,4 +27,4 @@ The `NOUN` tag is intended for common nouns only. See [PRON]() for pronouns.
 
 
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:21 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:11 CET 2021 -->

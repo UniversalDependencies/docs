@@ -35,4 +35,4 @@ NO: Ordinal Number
 * _primo_ "first", _secondo_ "second", _terzo_ "third", _IV_ "fourth", _ennesimo_ "nth", _ultimo_ "last"
 
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:17 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:06 CET 2021 -->

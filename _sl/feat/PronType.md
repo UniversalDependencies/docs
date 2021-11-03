@@ -86,4 +86,4 @@ This feature includes both nominal personal, possessive and reflexive pronouns o
 All pronouns with feature Type=personal, Type=reflexive and Type=possessive are converted to UD `PronType=Prs`. All pronouns with Type=interrogative are converted to UD `PronType=Int`, all pronouns with Type=relative are converted to UD `PronType=Rel`, all pronouns with Type=demonstrative are converted to UD `PronType=Dem`, all pronouns with Type=general are converted to UD `PronType=Tot`, all pronouns with Type=negative are converted to UD `PronType=Neg` and all pronouns with Type=indefinite are converted to UD `PronType=Ind`.
 
 Not that currently `PronType` is only assigned to pronouns and determiners, but not to other POS categories, such as adverbs (_zakaj_ "why", _čemu_ "what for", _kako_ "how", _tukaj_ "here", _tam_ "there", _tolikokrat_ "this many times" etc.)
-<!-- Interlanguage links updated Pá kvě 14 11:08:40 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:28 CET 2021 -->

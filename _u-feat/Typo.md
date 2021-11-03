@@ -25,4 +25,4 @@ Intentionally nonstandard spellings are not considered typos. They should be mar
 
 * [en] _<b>Barak</b> Obama_
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:42 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:31 CET 2021 -->

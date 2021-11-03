@@ -33,4 +33,4 @@ det(curiosity-4, her.SHORT-5)
 ~~~
 
 
-<!-- Interlanguage links updated Pá kvě 14 11:09:01 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:50 CET 2021 -->

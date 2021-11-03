@@ -47,4 +47,4 @@ The `obl:cmpr` relation is used in the Polish [PDB-UD](http://universaldependenc
 13	Poland	_	_	_	_	_	_	_	_
 14	.	_	_	_	_	_	_	_	_
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:09:17 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:59:05 CET 2021 -->

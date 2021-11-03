@@ -79,4 +79,4 @@ The personal pronouns of Naija include _me, I/a, ma, you, your, him, im, e, am, 
 
 + _dis are di things <b>dat</b> make shawarma_ "These are the things that make shawarma"
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:40 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:28 CET 2021 -->

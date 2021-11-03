@@ -54,4 +54,4 @@ The small class of mostly Greek origin impersonal verbs also takes subject claus
 
 csubj(ⲉⲝⲉⲥⲧⲓ, ⲁⲁ)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:08:59 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:48 CET 2021 -->

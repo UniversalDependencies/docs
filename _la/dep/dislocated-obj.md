@@ -24,4 +24,4 @@ obj(to-witness,this-48)
 '**That mankind was then happy in the calm of universal peace** is attested by all historians and by famous poets; even the chronicler of Christ's gentleness deigned to bear witness to <u>it</u>.' (*De Monarchia*, UDante)
 
 * The [`orphan`](u-dep/orphan) relations actually correspond to an `obj`; in this co-ordination, all conjuncts but the last one are elliptical of *dignatus est testari* '[has] deigned to bear witness to'.
-<!-- Interlanguage links updated Pá kvě 14 11:09:04 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:52 CET 2021 -->

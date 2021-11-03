@@ -81,3 +81,4 @@ Tatar infinitive is marked by the suffix *-ырга/ергә*.
 #### Examples
 
 - _бар<b>ырга</b> кирәк "it is necessary to go"
+<!-- Interlanguage links updated St lis 3 20:58:32 CET 2021 -->

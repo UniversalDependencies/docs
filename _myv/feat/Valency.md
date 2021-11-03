@@ -23,4 +23,4 @@ The subject-object conjugation generally indicates the presence of a definite, c
 
 * _Эйкакшось <b>сэвсь</b> умарь._ “The child ate an apple.”
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:42 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:31 CET 2021 -->

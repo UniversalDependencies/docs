@@ -21,4 +21,4 @@ In paired clauses where both clauses are marked by a conjunctive word and the fi
 - 無論 / _wúlùn_ "no matter"
 - "in order to": 來 / _lái_, 去 / _qù_, 以 / _yǐ_
   - 伸出你的手<b>來</b>看看 / _shēn chū nǐ de shǒu <b>lái</b> kànkan_ "stretch out your hand (in order) to take a look"
-<!-- Interlanguage links updated Pá kvě 14 11:08:25 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:14 CET 2021 -->

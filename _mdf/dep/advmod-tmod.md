@@ -13,4 +13,4 @@ advmod:tmod(якан, нинге)
 
 ~~~
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:49 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:38 CET 2021 -->

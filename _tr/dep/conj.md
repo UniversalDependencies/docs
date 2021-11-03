@@ -46,4 +46,4 @@ fixed(ya-7, da)
 ~~~
 
 See the relation [cc]() for a few more examples.
-<!-- Interlanguage links updated Pá kvě 14 11:08:58 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:46 CET 2021 -->

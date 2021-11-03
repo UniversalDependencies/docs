@@ -22,4 +22,4 @@ Note that `Negative=Neg` is not the same thing as [PronType]()`=Neg`. For pronou
 
 * _<b>немає</b>&nbsp;_ the negative impersonal verb form from _мати_ “there are no / there are not” (It is important to differentiate this form from a similar 3rd person finite verb negative expression _<b>не має</b>&nbsp;_ “(he/she/it) does not have”, where negation is expressed by an independent particle. Their meanings and syntactic behaviour differ.)
 * _<b>чорт-мало</b>&nbsp;_ the negative impersonal verb form from _чортмати_ “there were no / there were not” (colloquial expression)
-<!-- Interlanguage links updated Pá kvě 14 11:08:38 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:27 CET 2021 -->

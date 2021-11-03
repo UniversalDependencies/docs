@@ -15,4 +15,4 @@ comparative conjunction is tagged as SCONJ.
 * [fi] _että_ "that", _koska_ "because", _jos_ "if"
 * [fi] _parempi <b>kuin</b>_ "better <b>than</b>"
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:25 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:14 CET 2021 -->

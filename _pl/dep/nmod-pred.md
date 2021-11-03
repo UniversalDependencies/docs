@@ -29,4 +29,4 @@ The `nmod:pred` relation is used in the Polish [PDB](http://universaldependencie
 7	Ciechowianka [a female resident of Ciechów]	_	_	_	_	_	_	_	_
 8	.	_	_	_	_	_	_	_	_
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:09:11 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:59 CET 2021 -->

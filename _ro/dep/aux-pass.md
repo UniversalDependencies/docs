@@ -11,4 +11,4 @@ A passive auxiliary of a clause is a non-main verb of the clause which contains 
 A fost spânzurat . \n Has been hanged .
 aux:pass(spânzurat, fost)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:08:52 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:41 CET 2021 -->

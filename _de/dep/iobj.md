@@ -19,4 +19,4 @@ In general, if there is just one object, it should be labeled [obj](), regardles
 Sie hilft ihrem Mann . \n She helps her husband .
 obj(hilft, Mann)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:09:07 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:55 CET 2021 -->

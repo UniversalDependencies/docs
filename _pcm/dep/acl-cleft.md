@@ -74,4 +74,4 @@ Clefted elements can often be identified by the presence of the copulative parti
 7	can	_	_	_	_	0	_	_	_	
 8	celebrate	_	_	_	_	0	_	_	_	
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:08:44 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:33 CET 2021 -->

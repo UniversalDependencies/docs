@@ -27,4 +27,4 @@ The `vocative` relation is used when someone is being addressed directly in a di
 3	are	_	_	_	_	0	_	_	_
 4	you	_	_	_	_	0	_	_	_
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:09:22 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:59:10 CET 2021 -->

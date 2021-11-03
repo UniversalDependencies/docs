@@ -83,4 +83,4 @@ The vocative can be expressed, among others, by the sufix _we_ attached to the l
 
 * _<b>t-uβ-we</b>&nbsp;_ “To the father”
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:29 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:18 CET 2021 -->

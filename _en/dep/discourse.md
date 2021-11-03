@@ -11,4 +11,4 @@ This is used for interjections and other discourse particles and elements (which
 Iguazu is in Argentina :)
 discourse(is-2, :)-5)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:09:03 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:51 CET 2021 -->

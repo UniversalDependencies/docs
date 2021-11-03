@@ -12,4 +12,4 @@ This relation is a subtype of the [nmod]() relation, which covers only those pos
 nmod:poss(գրասենյակը, տնօրենի)
 nmod:poss(office, of-the-director.Dat)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:09:11 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:59 CET 2021 -->

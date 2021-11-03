@@ -26,4 +26,4 @@ See the section on verbal features in [tr-overview/specific-syntax]().
 - _koş_, _ye_ "run, eat"
 - _koştu_, _yedi_ "run (past), ate"
 - _görüştürülmüyorlarmış_ "they were not allowed to see each other" 
-<!-- Interlanguage links updated Pá kvě 14 11:08:26 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:15 CET 2021 -->

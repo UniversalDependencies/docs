@@ -16,4 +16,4 @@ In Danish proper nouns differ from common nouns in inflecting only for case, not
 - _Anna_, _Otto_
 - _Skåne_, _USA_
 - _Texaco_, _Pirelli_
-<!-- Interlanguage links updated Pá kvě 14 11:08:23 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:13 CET 2021 -->

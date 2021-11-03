@@ -50,4 +50,4 @@ Tuilleadh eolais Fón: 01-4757401 r-phost: eolas@cnag.ie. \n More information Ph
 appos(fón, 01-4757401)
 appos(r-phost, eolas@cnag.ie)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:08:50 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:39 CET 2021 -->

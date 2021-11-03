@@ -29,4 +29,4 @@ Some abreviations are also marked as proper nouns.
 * _Lucht Oibre_ Labour Party
 * _RTE_ 'Raidió Teilifís Éireann
 * _TD_ 'Teachta Dála'
-<!-- Interlanguage links updated Pá kvě 14 11:08:23 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:13 CET 2021 -->

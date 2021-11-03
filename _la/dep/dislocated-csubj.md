@@ -16,4 +16,4 @@ csubj(contenebatur,offeruerat-12)
 ~~~
 
 'There it was defined <u>how *presbyter* Ratchis himself, for the cure of his soul, offered to God and His holy church of Saint Mary his own portion of that property</u> which belonged to his relatives by law, everything and every piece of land, wineyards, woods, osiers, lawns, meadows, tended and untended - **his portion he offered integrally to God and His church of Saint Mary as determined before**.' (LLCT)
-<!-- Interlanguage links updated Pá kvě 14 11:09:04 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:52 CET 2021 -->

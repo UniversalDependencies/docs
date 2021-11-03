@@ -14,4 +14,4 @@ Determiners are words that modify nouns or noun phrases and express the referenc
 - interrogative determiners: _quel, qel "En <b>qel</b> endroit sont il?"_
 - relative determiners: _quel, qel, quele "Ne savons el <b>qel</b> voie tienge"_
 - quantity/quantifier determiners: _tous, toutes, tot, autre, autres, cascun, maint, molt, tel_
-<!-- Interlanguage links updated Pá kvě 14 11:08:20 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:09 CET 2021 -->

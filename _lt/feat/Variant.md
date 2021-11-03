@@ -46,4 +46,4 @@ They are separate words (unlike in some other languages) but in the word order t
 * _<b>mi</b>, <b>mě</b>, <b>ti</b>, <b>tě</b>, <b>mu</b>, <b>ho</b>, <b>si</b>, <b>se</b>_
 * _mně, mne, tobě, tebe, jemu, jeho, sobě, sebe_
 * “me, me, you, you, him, him, oneself, oneself”
-<!-- Interlanguage links updated Pá kvě 14 11:08:42 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:31 CET 2021 -->

@@ -216,3 +216,4 @@ supini, VNoun e masdar arabi
 
 * Miller, D. G. (2000). *Gerund and gerundive in Latin*, Diachronica XVII:2.293–349.
 * Haspelmath M. (1987). *Verbal noun or verbal adjective? The case of the Latin gerundive and gerund*, Arbeitspapier Nr. 3 (Neue Folge).
+<!-- Interlanguage links updated St lis 3 20:58:32 CET 2021 -->
