@@ -423,7 +423,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-        <li>NomAcc
+        <li>Nom
           <ul>
             <li>ADJ: nua, amháin, náisiúnta, mór, éagsúla, céanna, sibhialta, áirithe, idirnáisiúnta, iomlán</li>
             <li>NOUN: féidir, chuid, duine, réir, rud, éis, bhfeidhm, lá, daoine, bhliain</li>
@@ -442,6 +442,7 @@ udver: '2'
       <ul>
         <li>Voc
           <ul>
+            <li>ADJ: ghil</li>
             <li>NOUN: bhó, dhochtúir, Chapaillín, Dhaid, LIA, Rí, bhithiúnaigh, bhráithre, bhráthair, chumannaigh</li>
             <li>PROPN: Mháire, Sheáin, Shéamais, Tom, Bheartla, Bhobby, Chití, Dhoráid, Fhinn, Learaí</li>
           </ul>
@@ -1198,8 +1199,7 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
-                <li>ADJ: general, strong, Ltd, white</li>
-                <li>ADJ-Part: white</li>
+                <li>ADJ: general, strong, white, Ltd</li>
                 <li>ADP: in</li>
                 <li>DET: all, The</li>
                 <li>NOUN: euro, of, tOmbudsman, abalone, Captains, Enterprise, FRANCA, Jail-Deliverer, LINGUA, Ombudsman</li>
@@ -1531,12 +1531,12 @@ udver: '2'
             <li>VERB--NOUN (39)</li>
             <li>VERB--NOUN-ADP(do) (1)</li>
             <li>VERB--NOUN-Gen (4)</li>
-            <li>VERB--NOUN-NomAcc (3042)</li>
-            <li>VERB--NOUN-NomAcc-ADP(ar) (2)</li>
-            <li>VERB--NOUN-NomAcc-ADP(de) (2)</li>
-            <li>VERB--NOUN-NomAcc-ADP(do) (2)</li>
-            <li>VERB--NOUN-NomAcc-ADP(le) (1)</li>
-            <li>VERB--NOUN-NomAcc-ADP(os) (7)</li>
+            <li>VERB--NOUN-Nom (3042)</li>
+            <li>VERB--NOUN-Nom-ADP(ar) (2)</li>
+            <li>VERB--NOUN-Nom-ADP(de) (2)</li>
+            <li>VERB--NOUN-Nom-ADP(do) (2)</li>
+            <li>VERB--NOUN-Nom-ADP(le) (1)</li>
+            <li>VERB--NOUN-Nom-ADP(os) (7)</li>
             <li>VERB--PRON (1501)</li>
           </ul>
         </li>
@@ -1566,13 +1566,13 @@ udver: '2'
             <li>VERB--NOUN (25)</li>
             <li>VERB--NOUN-Gen (2)</li>
             <li>VERB--NOUN-Gen-ADP(chun) (1)</li>
-            <li>VERB--NOUN-NomAcc (1933)</li>
-            <li>VERB--NOUN-NomAcc-ADP(as) (2)</li>
-            <li>VERB--NOUN-NomAcc-ADP(do) (1)</li>
-            <li>VERB--NOUN-NomAcc-ADP(gan) (1)</li>
-            <li>VERB--NOUN-NomAcc-ADP(le) (1)</li>
-            <li>VERB--NOUN-NomAcc-ADP(os) (1)</li>
-            <li>VERB--NOUN-NomAcc-ADP(um) (1)</li>
+            <li>VERB--NOUN-Nom (1933)</li>
+            <li>VERB--NOUN-Nom-ADP(as) (2)</li>
+            <li>VERB--NOUN-Nom-ADP(do) (1)</li>
+            <li>VERB--NOUN-Nom-ADP(gan) (1)</li>
+            <li>VERB--NOUN-Nom-ADP(le) (1)</li>
+            <li>VERB--NOUN-Nom-ADP(os) (1)</li>
+            <li>VERB--NOUN-Nom-ADP(um) (1)</li>
             <li>VERB--PRON (263)</li>
           </ul>
         </li>
@@ -1582,7 +1582,7 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (160)</li>
+            <li>VERB--NOUN (159)</li>
             <li>VERB--NOUN-ADP(chun) (1)</li>
             <li>VERB--NOUN-ADP(do) (1)</li>
             <li>VERB--PRON (38)</li>
