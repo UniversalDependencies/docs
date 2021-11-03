@@ -31,6 +31,8 @@ See [here](release_checklist.html) for the checklist for data contributors.
   It will also collect information such as the list of contributors (we need this metadata for Lindat).
 * In addition, you can get an estimate of what the treebanks do in enhanced graphs by calling this:
   <code>( for i in UD_* ; do echo $i ; ( cat $i/*.conllu | enhanced_graph_properties.pl ) ; echo ; done ) |& tee estats.log</code>
+  Or, alternatively, this:
+  <code>( for i in UD_* ; do echo $i ; ( cat $i/*.conllu | enhanced_classify_relations.pl > /dev/null ) ; echo ; done ) |& tee estats.log</code>
 * Freeze the list of treebanks that will be released (i.e., contain valid data).
   Take the list from the output of `tools/check_files.pl` and save it as
   `released_treebanks.txt` (just one line, names of UD folders separated by whitespace).
