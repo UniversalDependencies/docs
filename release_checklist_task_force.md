@@ -29,9 +29,9 @@ See [here](release_checklist.html) for the checklist for data contributors.
   and check whether the treebanks are valid (prerequisite: all UD repositories are registered
   on the validation server `quest.ms.mff.cuni.cz`).
   It will also collect information such as the list of contributors (we need this metadata for Lindat).
-* In addition, you can get an estimate of what the treebanks do in enhanced graphs by calling this:
+* In addition, you can get an estimate of what the treebanks do in enhanced graphs by calling this:<br />
   <code>( for i in UD_* ; do echo $i ; ( cat $i/*.conllu | enhanced_graph_properties.pl ) ; echo ; done ) |& tee estats.log</code>
-  * Or, alternatively, this:
+  * Or, alternatively, this:<br />
     <code>( for i in UD_* ; do echo $i ; ( cat $i/*.conllu | enhanced_classify_relations.pl > /dev/null ) ; echo ; done ) |& tee estats.log</code>
 * Freeze the list of treebanks that will be released (i.e., contain valid data).
   Take the list from the output of `tools/check_files.pl` and save it as
@@ -43,10 +43,9 @@ See [here](release_checklist.html) for the checklist for data contributors.
   for legacy exceptions that are no longer needed.
   Edit [valdan/dispensations.json](https://github.com/UniversalDependencies/docs-automation/blob/master/valdan/dispensations.json)
   and remove those exceptions.
-  Also update the back-up release
-  numbers for treebanks that are part of the current release. (If the treebank is not valid but it
-  has been previously released, its last valid release serves as back up and will be re-released
-  instead of the invalid new version.)
+* Save the list of the released treebanks in [valdan/releases.json](https://github.com/UniversalDependencies/docs-automation/blob/master/valdan/releases.json)
+  by running<br />
+  <code>docs-automation/valdan/save-release-json.pl --releasenum 2.9 --releasedate 2021-11-15 $(cat released-treebanks.txt)</code>
 
 ## Processing the data before releasing them
 
