@@ -45,7 +45,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
   and remove those exceptions.
 * Save the list of the released treebanks in [valdan/releases.json](https://github.com/UniversalDependencies/docs-automation/blob/master/valdan/releases.json)
   by running<br />
-  <code>docs-automation/valdan/save-release-json.pl --json docs-automation/valdan/releases.json --releasenum 2.9 --releasedate 2021-11-15 $(cat released-treebanks.txt)</code>
+  <code>docs-automation/valdan/save-release-json.pl --json docs-automation/valdan/releases.json --releasenum 2.9 --releasedate 2021-11-15 $(cat released_treebanks.txt)</code>
 
 ## Processing the data before releasing them
 
