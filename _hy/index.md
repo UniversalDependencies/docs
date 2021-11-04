@@ -190,6 +190,9 @@ as well as Armenian-specific examples scattered across the documentation of cons
 
 ## Treebanks
 
-There is just one Eastern Armenian UD treebank.
+There are [two](../treebanks/hy-comparison.html) Armenian UD treebanks and one treebank in Western Armenian:
 
   * [Armenian-ArmTDP](../treebanks/hy_armtdp/index.html)
+  * [Armenian-BSUT](../treebanks/hy_bsut/index.html)
+  * [Western_Armenian-ArmTDP](../treebanks/hyw_armtdp/index.html)
+
