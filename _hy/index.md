@@ -169,6 +169,7 @@ as well as Armenian-specific examples scattered across the documentation of cons
 
 * The following relation subtypes are used in Armenian:
   * [acl:relcl]() for relative clauses
+  * [advcl:relcl]() for relative clause modifiers of clauses
   * [advmod:emph]() for adverbs or particles that modify noun phrases and emphasize or negate them
   * [aux:caus]() for causative auxiliaries
   * [aux:ех]() for existentials as auxiliary
@@ -184,8 +185,7 @@ as well as Armenian-specific examples scattered across the documentation of cons
   * [nsubj:caus]() for nominal subjects of causative verbs
   * [nsubj:pass]() for nominal subjects of passive verbs
   * [obl:agent]() for agents of passive verbs
-* The following relation types are not used in Armenian at all:
-  [clf]()
+* The following relation types are not used in Armenian at all: [clf]()
 
 ## Treebanks
 
