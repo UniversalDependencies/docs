@@ -6,7 +6,7 @@ udver: '2'
 
 # Tokenization
 
-The low-level tokenization of the UD Eastern Armenian Treebank generally adopt the [Հայերենի ծառադարան - Armenian Treebank](http://www.ysu.am/files/06M_Yavrumyan.pdf) standard:
+The low-level tokenization of the UD Armenian Treebanks (both Eastern and Western Armenian) generally adopts the [Հայերենի ծառադարան - Armenian Treebank](http://www.ysu.am/files/06M_Yavrumyan.pdf) standard:
 
 * In general, tokens are delimited by whitespace.
 * Punctuation (recognized by the corresponding Unicode property) that is conventionally written adjacent to the preceding or following word is separated during tokenization.
