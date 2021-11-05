@@ -40,7 +40,7 @@ See above, the “infixed” punctuation.
 ### Verb forms, analytical grammatical forms, negation
 
 * the forms of indicative mood, complex tenses, analytical causative, complex comparatives, etc. are splitted
-according to the orthographic principle: {&nbsp;<b>կ՚</b> , <b>ըսուի</b>&nbsp;} “----”, {&nbsp;<b>պայքարած</b> , <b>են</b>&nbsp;} “----”, {&nbsp;<b>պէտք</b> , <b>է</b> , <b>սկսած</b> , <b>ըլլար</b>&nbsp;} “----”, {&nbsp;<b>շինել</b> , <b>տուեր</b> , <b>էին</b>&nbsp;} “made write”, {&nbsp;<b>աւելի</b> , <b>յաճախ</b>&nbsp;} “----”.
+according to the orthographic principle: {&nbsp;<b>կ՚</b> , <b>ըսուի</b>&nbsp;} “----”, {&nbsp;<b>պայքարած</b> , <b>են</b>&nbsp;} “----”, {&nbsp;<b>պէտք</b> , <b>է</b> , <b>սկսած</b> , <b>ըլլար</b>&nbsp;} “----”, {&nbsp;<b>շինել</b> , <b>տուեր</b> , <b>էին</b>&nbsp;} “----”, {&nbsp;<b>աւելի</b> , <b>յաճախ</b>&nbsp;} “----”.
 
 * <b>մի՛</b> and <b>ոչ</b> used as negation markers with verbs, adjectives, adverbs, pronouns and other words are tokenized according to the orthographic rules: {&nbsp;<b>մի</b> , <b>՛</b> , <b>ընէք</b>&nbsp;} “don't ----”, {&nbsp;<b>ոչ</b> , <b>հինցած</b>&nbsp;} “----”, {&nbsp;<b>ոչ </b> , <b>հիմա</b>&nbsp;} “----” , {&nbsp;<b>ոչ</b> , <b>մէկ</b> , <b>տեղ</b>&nbsp;} “---”.
 
