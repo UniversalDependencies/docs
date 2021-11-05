@@ -37,13 +37,14 @@ See above, the “infixed” punctuation.
 
 ### Pronouns and adverbs
 
-* Indefinite pronouns and adverbs like *ինչ-որ, փոքր-ինչ, դույզն-ինչ, ինչ-ինչ* “something, somewhat”, etc. are splitted as compounds containing a hyphen and become three tokens (two words and the hyphen).
+* Indefinite pronouns and adverbs like _ինչ-որ, ինչ-ինչ_ “something, somewhat”, etc. are splitted as compounds containing a hyphen and become three tokens (two words and the hyphen).
 
 ### Verb forms, analytical grammatical forms, negation
 
-* the forms of necessitative mood, analytical causative, complex tenses, complex comparatives, etc. are splitted
-according to the orthographic principle: {&nbsp;<b>պիտի</b> , <b>վազեն</b>&nbsp;} “they must run”, {&nbsp;<b>գրել</b> , <b>տվեց</b>&nbsp;} “made write”, {&nbsp;<b>վազում</b> , <b>եմ</b>&nbsp;} “I run”, {&nbsp;<b>ավելի</b> , <b>լուրջ</b>&nbsp;} “more serious”.
-* <b>մի</b> and <b>ոչ</b> used as negation markers with verbs, adjectives, pronouns and other words are tokenized according to the orthographic rules: {&nbsp;<b>մի</b> , <b>գրիր</b>&nbsp;} “don't write”, {&nbsp;<b>ոչ</b> , <b>պաշտոնական</b>&nbsp;} “unofficial”, {&nbsp;<b>ոչ</b> , <b>մի</b> , <b>կերպ</b>&nbsp;} “in no way”.
+* the forms of indicative mood, complex tenses, analytical causative, complex comparatives, etc. are splitted
+according to the orthographic principle: {&nbsp;<b>կ՚</b> , <b>ըսուի</b>&nbsp;} “----”, {&nbsp;<b>պայքարած</b> , <b>են</b>&nbsp;} “----”, {&nbsp;<b>պէտք</b> , <b>է</b> , <b>սկսած</b> , <b>ըլլար</b>&nbsp;} “----”, {&nbsp;<b>շինել</b> , <b>տուեր</b> , <b>էին</b>&nbsp;} “made write”, {&nbsp;<b>աւելի</b> , <b>յաճախ</b>&nbsp;} “----”.
+
+* <b>մի՛</b> and <b>ոչ</b> used as negation markers with verbs, adjectives, adverbs, pronouns and other words are tokenized according to the orthographic rules: {&nbsp;<b>մի</b> , <b>՛</b> , <b>ընէք</b>&nbsp;} “don't ----”, {&nbsp;<b>ոչ</b> , <b>հինցած</b>&nbsp;} “----”, {&nbsp;<b>ոչ </b> , <b>հիմա</b>&nbsp;} “----” , {&nbsp;<b>ոչ</b> , <b>մէկ</b> , <b>տեղ</b>&nbsp;} “---”.
 
 # Sentence splitting
 
