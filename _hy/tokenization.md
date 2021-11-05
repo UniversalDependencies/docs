@@ -27,7 +27,7 @@ The low-level tokenization of the UD Armenian Treebanks (both Eastern and Wester
 
 Some special cases worth mentioning:
 
-  * Numerical expressions are treated as single words as long as they do not contain spaces or hyphen, for example, *<b>355,089.40</b>* . Decimal numbers (with Armenian decimal comma or English decimal point) are also kept as one token, e.g. <b>2.1</b> , <b>2,1</b> .
+  * Numerical expressions are treated as single words as long as they do not contain spaces or hyphen, for example, <b>355,089.40</b> . Decimal numbers (with Armenian decimal comma or English decimal point) are also kept as one token, e.g. <b>2.1</b> , <b>2,1</b> .
   * EXCEPTION: Time expressions and dates like *19:45* or *20.05.2000* , *20/05/2000* are splitted into separate tokens (in this case, three {&nbsp;<b>19</b> , <b>:</b> , <b>45</b>&nbsp;} and five {&nbsp;<b>20</b> , <b>.</b> , <b>05</b> , <b>.</b> , <b>2000</b>&nbsp;} , {&nbsp;<b>20</b> , <b>/</b> , <b>05</b> , <b>/</b> , <b>2000</b>&nbsp;}).
   * Numerical expressions with or without hyphen and Armenian endings as well as adjectives and other non-numerals which contain digits (e.g. <b>1-ին</b> “1st” , <b>2րդ</b> “2nd” , <b>1000-ական</b> “by 1000” , <b>1700-ամյա</b> “1700-year-old” , <b>ՆԱՏՕ-ական</b> “belonging-to-NATO , <b>ՏՈՒ-154Մ</b> “TU-154M”) are treated as single tokens as long as they do not contain inflectional endings (e.g. *3-ով* “3.Ins” , *1950-ականներին* “in 1950s” , *20-ամյակը* “the 20th anniversary” ) which are splitted into separate tokens (in this case, three {&nbsp;<b>3</b> , <b>-</b> , <b>ով</b>&nbsp;} , {&nbsp;<b>1950</b> , <b>-</b> , <b>ականներին</b>&nbsp;} , {&nbsp;<b>20</b> , <b>-</b> , <b>ամյակը</b>&nbsp;}). 
 
