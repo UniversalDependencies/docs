@@ -16,6 +16,7 @@ udver: '2'
   <td><a href="">Iter</a></td>
   <td><a href="">Prog</a></td>
   <td><a href="">Dec</a></td>
+  <td><a href="">IterImp</a></td>
 
 
 </tr>
@@ -78,6 +79,10 @@ The iterative aspect
 #### Examples
 
 * _<b>g̃ebuje aĩhĩ tõtõm</b>&nbsp;_ “My mother used to cry / kept crying”
+
+### <a name="IterImp">`IterImp`</a>: Iterative Imperfective
+
+* _<b>imõg̃mõg̃ ip</b>&nbsp;_ “they keep removing it”
 
 
 ### <a name="Prog">`Prog`</a>: Progressive
