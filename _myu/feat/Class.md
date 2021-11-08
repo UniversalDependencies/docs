@@ -60,6 +60,8 @@ udver: '2'
 
 #### Examples
 
-* _<b>pirãy dup</b>&nbsp;_ “piranha”
+* _<b>pirãy.dup</b>&nbsp;_ “piranha”
+
+
 
 <!-- Interlanguage links updated St lis 3 20:58:18 CET 2021 -->
