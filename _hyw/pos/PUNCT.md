@@ -17,7 +17,7 @@ Note, that there is _infixed punctuation_ (exclamation, emphasis and question ma
 
 ### Examples
 
-- Period: _<b>։</b>_
+- Period (Armenian full stop): _<b>։</b>_
 - Comma: _<b>,</b>_
 - Parentheses: _<b>()</b>_
 - Quotation mark: _<b>«»</b>_
@@ -25,4 +25,5 @@ Note, that there is _infixed punctuation_ (exclamation, emphasis and question ma
 -	Question mark։ _<b>՞</b>_
 -	Emphasis mark, Acute accent: _<b>՛</b>_
 -	Apostrophe: _<b>՚</b>_
+-	Armenian hyphen (yentamna): _<b>֊</b>_
 <!-- Interlanguage links updated St lis 3 20:58:14 CET 2021 -->
