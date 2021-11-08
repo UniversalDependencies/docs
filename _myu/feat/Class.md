@@ -55,7 +55,8 @@ udver: '2'
 * _<b>xek pu</b>&nbsp;_ “grub, caterpillar”
 
 
-### <a name="Leaf">`Leaf`</a>: Cilindric and flexible
+
+### <a name="Leaf">`Leaf`</a>: Leaf
 
 #### Examples
 
