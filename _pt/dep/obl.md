@@ -6,15 +6,7 @@ udver: '2'
 ---
 
 In UD, the `obl` relation is used for a nominal dependent of a verb. 
-However, this dependent is neither a subject (for which we use the [nsubj]() relation) nor a direct object (for which we use the [obj]() relation).
-
-~~~ sdparse
-Sara donne une fleur à Tom . \n Sara gives a flower to Tom.
-obl(donne, Tom)
-case(Tom, à)
-~~~
-
-If the adjunct adverbial is a noun phrase or a noun, we use `obl`:
+However, this dependent is neither a subject (for which we use the [nsubj]() relation) nor a direct object (for which we use the [obj]() relation). The relation is specially useful for annotate the adjunct adverbials that are noun phrase or nouns:
 
 ~~~ sdparse
 Concentre-se nas suas aspirações e então siga com confiança na direção dos seus objetivos.
