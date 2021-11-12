@@ -12,7 +12,6 @@ udver: '2'
   <td><a href="#NCont">NCont</a></td>
   <td><a href="#Abs">Abs</a></td>
   <td><a href="#Corf">Corf</a></td>
-
 </tr>
 </table>
 
