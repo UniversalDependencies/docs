@@ -35,9 +35,10 @@ Non-contiguity is more often associated with the morphemes "i", "t" and "h".
 
 #### Examples
 
-* _<b>i-hɨ</b>&nbsp;_ “He has a mother / there is his/her mother”
+* _<b>i-hɨ</b>&nbsp;_ “He has a mother / there is his/her/their mother”
 
 * _<b>h-emi-r-eko</b>&nbsp;_ “there is her/his/its/their wife”
+
 
 ### <a name="Abs">`Abs`</a>: absolute
 
@@ -45,7 +46,7 @@ The absolute relational indicates that the possessor is absent. It is associated
 
 #### Examples
 
-* _<b>i-pira</b>&nbsp;_ “ (There is a) (someone's)  fish / ”
+* _<b>i-pira</b>&nbsp;_ “ (There is a) (someone's)  fish”
 
 * _<b>h-emi-r-eko</b>&nbsp;_ “(There is a) (someone's) wife”
 
