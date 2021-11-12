@@ -49,15 +49,15 @@ The absolute relational indicates that the possessor is absent. It is associated
 
 * _<b>h-emi-r-eko</b>&nbsp;_ “(There is a) (someone's) wife”
 
+
 ### <a name="Corf">`Corf`</a>: correferential
 
 The correferential relational indicates that the possessor is the same as the subject of the sentence. It is associated with the morpheme "u".
 
 #### Examples
 
-* _<b>i-hɨ</b>&nbsp;_ “(Someone's)  mother ”
-
 * _<b>u-hɨ</b>&nbsp;_ “Her/his/their own mother”
+
 
 
 ## Diffs
