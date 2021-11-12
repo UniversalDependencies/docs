@@ -11,7 +11,7 @@ udver: '2'
   <td><a href="#Cont">Cont</a></td>
   <td><a href="#NCont">NCont</a></td>
   <td><a href="#Abs">Abs</a></td>
-
+  <td><a href="#Corf">Corf</a></td>
 
 </tr>
 </table>
@@ -31,7 +31,7 @@ Contiguity is more often associated with the null morpheme or with "r".
 
 ### <a name="NCont">`NCont`</a>: non-contiguous
 
-Non-contiguity is more often associated with the morphemes "i" and "h".
+Non-contiguity is more often associated with the morphemes "i", "t" and "h".
 
 #### Examples
 
@@ -41,7 +41,7 @@ Non-contiguity is more often associated with the morphemes "i" and "h".
 
 ### <a name="Abs">`Abs`</a>: absolute
 
-Abslute relational indicates that the possessor is absent. It is associated with the morphemes "i" and "h".
+The absolute relational indicates that the possessor is absent. It is associated with the morphemes "i", "t" and "h".
 
 #### Examples
 
@@ -49,7 +49,15 @@ Abslute relational indicates that the possessor is absent. It is associated with
 
 * _<b>h-emi-r-eko</b>&nbsp;_ “(There is a) (someone's) wife”
 
+### <a name="">`Corf`</a>: correferential
 
+The correferential relational indicates that the possessor is the same as the subject of the sentence. It is associated with the morpheme "u".
+
+#### Examples
+
+* _<b>i-hɨ</b>&nbsp;_ “(Someone's)  mother ”
+
+* _<b>u-hɨ</b>&nbsp;_ “Her/his/their own mother”
 
 ## Diffs
 
