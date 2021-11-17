@@ -14,7 +14,7 @@ udver: '2'
 </tr>
 </table>
 
-`NFoc` refers to a construction in which and adverbial adjunct is fronted, becoming focalized. The fronting of the adverbial constituent triggers nominalization of the main predicate which, in this, case, is non-focal (NFoc). In Tupí-Guaraní language descritpions, this construction is usually called indicative-II or oblique topicalized. .
+`NFoc` refers to a construction in which and adverbial adjunct is fronted, becoming focalized. The fronting of the adverbial constituent triggers nominalization of the main predicate which, in this, case, is non-focal (NFoc). In Tupí-Guaraní language descritpions, this construction is usually called indicative-II or oblique topicalized.
 
 
 ### <a name="Yes">`Yes`</a>: Yes
