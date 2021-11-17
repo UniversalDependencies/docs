@@ -30,7 +30,7 @@ Contiguity is more often associated with the null morpheme or with "r".
 
 ### <a name="NCont">`NCont`</a>: non-contiguous
 
-Non-contiguity is more often associated with the morphemes "i", "t" and "h".
+Non-contiguity is more often associated with the morphemes "i" and "h".
 
 #### Examples
 
@@ -41,13 +41,11 @@ Non-contiguity is more often associated with the morphemes "i", "t" and "h".
 
 ### <a name="Abs">`Abs`</a>: absolute
 
-The absolute relational indicates that the possessor is absent. It is associated with the morphemes "i", "t" and "h".
+The absolute relational indicates that the possessor is inalienably possessed. It is associated with the morpheme "t".
 
 #### Examples
 
-* _<b>i-pira</b>&nbsp;_ “ (There is a) (someone's)  fish”
-
-* _<b>h-emi-r-eko</b>&nbsp;_ “(There is a) (someone's) wife”
+* _<b>t-u</b>&nbsp;_ “ (someone's)  father”
 
 
 ### <a name="Corf">`Corf`</a>: correferential
