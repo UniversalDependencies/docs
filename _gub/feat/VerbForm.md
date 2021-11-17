@@ -8,20 +8,20 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="Inf">Inf</a></td>
+  <td><a href="Ger">Ger</a></td>
 
 </tr>
 </table>
 
 `VerbForm`
 
-### <a name="Inf">`Inf`</a>: Infinitive
+### <a name="Ger">`Ger`</a>: Gerund
 
-
+In Guajajara the gerund marker is the posposition pà. The verb in gerund takes the possessive personal forms. 
 
 #### Examples
 
-* _<b>pɨhɨk</b>&nbsp;_ "catch” 
+* _<b>i-pɨhɨk pà</b>&nbsp;_ "to catch it” (NCont-catch GER) 
 
 
 ## Diffs
