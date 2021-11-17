@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'OblTop'
-shortdef: 'OblTop'
+title: 'NFoc'
+shortdef: 'NFoc'
 udver: '2'
 ---
 
@@ -14,7 +14,7 @@ udver: '2'
 </tr>
 </table>
 
-`OblTop` refers to a construction in which the main predicated is nominalized and adverbial expressions are fronted. The are indicated by the value Yes.
+`NFoc` refers to a construction in which and adverbial adjunct is fronted, becoming focalized. The fronting of the adverbial constituent triggers nominalization of the main predicate which, in this, case, is non-focal (NFoc). In Tupí-Guaraní language descritpions, this construction is usually called indicative-II or oblique topicalized. .
 
 
 ### <a name="Yes">`Yes`</a>: Yes
@@ -23,7 +23,7 @@ udver: '2'
 
 #### Examples
 
-* _<b>Kori i-juká-w</b>&nbsp;_ “ Today he killed him ” (Anch., Arte, 3 9v). Compare _o-(i)-juká kori_ "he killed him today".
+* _<b>Kori i-juká-w</b>&nbsp;_ “ Today he killed him ” (Anch., Arte, 3 9v). Compare _o-(i)-juká kori_ "He killed him today".
 
  
 
