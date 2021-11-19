@@ -11,7 +11,7 @@ udver: '2'
   <td><a href="#Int">Int</a></td>
   <td><a href="#Prs">Prs</a></td>
   <td><a href="#Ind">Ind</a></td>
-  <td><a href="#Tot">Ind</a></td>
+  <td><a href="#Tot">Tot</a></td>
   
 
 </tr>
