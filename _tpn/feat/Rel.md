@@ -12,6 +12,7 @@ udver: '2'
   <td><a href="#NCont">NCont</a></td>
   <td><a href="#Hum">Hum</a></td>
   <td><a href="#Corf">Corf</a></td>
+  <td><a href="#Abs">Abs</a></td>
   
   
 </tr>
@@ -65,6 +66,7 @@ The correferential relational indicates that the possessor
 
 * _<b>i-sɨ</b> &nbsp;_ “his mother”
 * _<b>o-sɨ</b> &nbsp;_ “his own mother”
+
 
 
 ## Diffs
