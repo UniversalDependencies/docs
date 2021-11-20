@@ -11,6 +11,7 @@ udver: '2'
   <td><a href="#Perm">Perm</a></td>
   <td><a href="#Sub">Sub</a></td>
   <td><a href="#Cnd">Cnd</a></td>
+  <td><a href="#Imp">Imp</a></td>
   
   
 </tr>
@@ -46,6 +47,14 @@ Contiguity is more often associated with
 #### Examples
 
 * _<b>mbaʔeʔupaβiré</b>&nbsp;_ “After (having finished) eating”
+
+### <a name="Imp">`Imp`</a>: Imperative
+
+
+
+#### Examples
+
+* _<b></b>&nbsp;_ “”
 
 
 
