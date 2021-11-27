@@ -13,7 +13,7 @@ This construction is quite frequent in spoken French.
 ~~~ sdparse
 Pierre je ne l' aime pas beaucoup  \n Peter I don't like him much
 dislocated(aime, Pierre)
-dobj(aime, l')
+obj(aime, l')
 ~~~
 
 Here are some examples from **UD_French-Spoken**:
