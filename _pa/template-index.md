@@ -4,7 +4,7 @@ title:  'Punjabi UD'
 udver: '2'
 ---
 
-# UD for Punjabi <span class="flagspan"><img class="flag" src="../../flags/svg/IN.svg" /></span>
+# UD for Punjabi <span class="flagspan"><img class="flag" src="../../flags/svg/PK.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/IN.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
