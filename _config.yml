@@ -364,6 +364,8 @@ collections:
     output: true
   bn:
     output: true
+  pa:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
