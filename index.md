@@ -40,7 +40,10 @@ If you want to discuss individual annotation questions, use the
 {% include at_glance.html %}
 </div>
 
-## Upcoming UD Languages
+## Possible Future Extensions
+
+People have expressed interest in providing annotated data for the following languages but no
+data has been provided so far.
 
 <div id="accordion" class="jquery-ui-accordion">
 {% include at_glance_empty.html %}
