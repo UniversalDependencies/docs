@@ -12,6 +12,7 @@ udver: '2'
   <td><a href="#Prs">Prs</a></td>
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Tot">Tot</a></td>
+  <td><a href="#Dem">Dem</a></td>
   
 
 </tr>
@@ -53,6 +54,14 @@ Indefinite pronoun
 
 
 ### <a name="Tot">`Tot`</a>: Total
+
+
+#### Examples
+
+* _<b>?????a</b>&nbsp;_ “?????”
+
+
+### <a name="Dem">`Dem`</a>: Demonstrative
 
 
 #### Examples
