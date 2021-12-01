@@ -122,6 +122,8 @@ directly from fieldwork.
 
 ### Lang
 
+See also [OrigLang](#origlang).
+
 Language of the current token, if different from the main language of the file (code switching).
 The value is the ISO 639 language code, as registered for the language in UD (either two letters
 from ISO 639-1, or three letters from ISO 639-3, lowercased!) The validation script will take
@@ -339,7 +341,7 @@ This attribute is used e.g. in the Tagalog and Warlpiri treebanks.
 
 ### MWE
 
-See also [MWEPOS](#mwepos), [NamedEntity](#namedentity) and [Proper](#proper).
+See also [MWEPOS](#mwepos), [NamedEntity](#namedentity), [Proper](#proper) and [Entity](#entity).
 
 Multi-word expression. The value serves to preserve a multi-word expression from the source corpus.
 This attribute is typically used at places where in the source corpus the MWE was treated as one
@@ -370,7 +372,7 @@ It is attested in Catalan AnCora, Portuguese Bosque (as _MWE), Spanish AnCora.
 
 ### MWEPOS
 
-See also [MWE](#mwe), [NamedEntity](#namedentity) and [Proper](#proper).
+See also [MWE](#mwe), [NamedEntity](#namedentity), [Proper](#proper) and [Entity](#entity).
 
 The part of speech of a multi-word expression. The value is taken from the set of [universal
 part-of-speech tags (UPOS)](u/overview/pos-index.html) but it is not necessarily identical
@@ -411,7 +413,7 @@ Ideally, these two attribute names should be merged into one.
 
 ### NamedEntity
 
-See also [MWE](#mwe), [MWEPOS](#mwepos) and [Proper](#proper).
+See also [MWE](#mwe), [MWEPOS](#mwepos), [Proper](#proper) and [Entity](#entity).
 
 `NamedEntity=Yes` preserves the information that the word was tagged `PROPN` when it was first
 imported to UD. Typically of Google-annotated data (GSD and PUD), all words in multi-word named entities are
@@ -477,9 +479,42 @@ and is attested in Swedish and Ukrainian.
     23   *               *              PUNCT   _   _   24   punct    _   NewPar=Yes
     24   konst           konst          NOUN    _   _   13   conj     _   _
 
+### OrigLang
+
+See also [Lang](#lang).
+
+Original language of the current token, if different from the main language of the file.
+Similarly to the `Lang` attribute, the value is the (lowercase) ISO 639 language code
+(ISO 639-1 if it exists, ISO 639-3 otherwise). However, unlike the `Lang` attribute,
+`OrigLang` does not switch the validator to the other language, i.e., the token must still
+adhere to the guidelines specific for the main language of the file.
+
+See also [issue #776](https://github.com/UniversalDependencies/docs/issues/776).
+
+Attested e.g. in Coptic or Komi Zyrian.
+
+    # sent_id = shenoute_fox-XH204-216_s0003
+    # text_en = ...
+    # text = ⲁⲗⲗⲁ ⲉⲕϯⲟⲩⲃⲉⲓⲏⲥⲟⲩⲥ ⲉⲧⲟⲩⲏϩ ϩⲛⲛⲉⲭⲣⲉⲓⲥⲧⲓⲁⲛⲟⲥ .
+    1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	4	cc	_	OrigLang=grc
+    2-6	ⲉⲕϯⲟⲩⲃⲉⲓⲏⲥⲟⲩⲥ	_	_	_	_	_	_	_	_
+    2	ⲉ	ⲉⲣⲉ	PART	CFOC	_	4	mark	_	_
+    3	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+    4	ϯ	ϯ	VERB	V	VerbForm=Fin	0	root	_	_
+    5	ⲟⲩⲃⲉ	ⲟⲩⲃⲉ	ADP	PREP	_	6	case	_	_
+    6	ⲓⲏⲥⲟⲩⲥ	ⲓⲏⲥⲟⲩⲥ	PROPN	NPROP	Foreign=Yes	4	obl	_	Entity=(person-Jesus|Orig=ⲓ︤ⲥ︥|OrigLang=he
+    7-8	ⲉⲧⲟⲩⲏϩ	_	_	_	_	_	_	_	_
+    7	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	8	mark	_	_
+    8	ⲟⲩⲏϩ	ⲟⲩⲱϩ	VERB	VSTAT	VerbForm=Fin	6	acl	_	_
+    9-11	ϩⲛⲛⲉⲭⲣⲉⲓⲥⲧⲓⲁⲛⲟⲥ	_	_	_	_	_	_	_	_
+    9	ϩⲛ	ϩⲛ	ADP	PREP	_	11	case	_	Orig=ϩ︤ⲛ︥
+    10	ⲛⲉ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	11	det	_	Entity=(person
+    11	ⲭⲣⲉⲓⲥⲧⲓⲁⲛⲟⲥ	ⲭⲣⲉⲓⲥⲧⲓⲁⲛⲟⲥ	NOUN	N	Foreign=Yes	8	obl	_	Entity=person)person-Jesus)|Orig=ⲭⲣⲉⲓⲥⲧⲓⲁⲛⲟⲥ⳿|OrigLang=grc
+    12	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
 ### Proper
 
-See also [MWE](#mwe), [MWEPOS](#mwepos) and [NamedEntity](#namedentity).
+See also [MWE](#mwe), [MWEPOS](#mwepos), [NamedEntity](#namedentity) and [Entity](#entity).
 
 `Proper=True` preserves a same-named feature from the original Google annotation in the PUD
 treebanks, but only for words that could not be tagged `PROPN` in UD (e.g., adjectives).
@@ -609,8 +644,6 @@ e.g. in Ukrainian, Armenian, Sanskrit, Telugu, and Tamil.
     4     ।      	।	PUNCT   _   _                         3   punct    _   Translit=.|LTranslit=.|Gloss=.
 
 ### to be documented
-
-Orig OrigLang in Coptic
 
 MorphInd: Indonesian GSD
 ??? Morf in Bambara or Buryat or Uyghur
