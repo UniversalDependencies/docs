@@ -646,7 +646,7 @@ UD treebanks, e.g., Belarusian HSE.
 
 ### Translit
 
-See also [LTranslit](#ltranslit) and [Gloss](#gloss).
+See also [LTranslit](#ltranslit), [Gloss](#gloss) and [Vform](#vform).
 
 Transliteration or transcription of the word form to another writing system. Typically this
 attribute is used in languages that do not write using the Latin script, and the attribute
@@ -666,6 +666,31 @@ e.g. in Ukrainian, Armenian, Sanskrit, Telugu, and Tamil.
     3     अनुश्रूयते   अनु-श्रु	VERB    _   Mood=Ind|…|Voice=Pass     0   root     _   Translit=anuśrūyate|LTranslit=anu-śru|Gloss=it-is-heard
     4     ।      	।	PUNCT   _   _                         3   punct    _   Translit=.|LTranslit=.|Gloss=.
 
+### Vform
+
+See also [Translit](#translit).
+
+This attribute shows the fully vocalized (diacriticized) version of an Arabic word, which
+typically appears without short vowel diacritics in the surface text.
+
+Used e.g. in Arabic PADT.
+
+    # sent_id = afp.20000715.0075:p1u1
+    # text = برلين ترفض حصول شركة اميركية على رخصة تصنيع دبابة "ليوبارد" الالمانية
+    1	برلين	بَرلِين	X	_	_	2	nsubj	_	Vform=بَرلِين|Gloss=Berlin|Root=barlIn|Translit=barlīn|LTranslit=barlīn
+    2	ترفض	رَفَض	VERB	_	_	0	root	_	Vform=تَرفُضُ|Gloss=reject,refuse|Root=r_f_.d|Translit=tarfuḍu|LTranslit=rafaḍ
+    3	حصول	حُصُول	NOUN	_	_	2	obj	_	Vform=حُصُولَ|Gloss=acquisition,obtaining,occurrence,happening|Root=.h_.s_l|Translit=ḥuṣūla|LTranslit=ḥuṣūl
+    4	شركة	شَرِكَة	NOUN	_	_	3	nmod	_	Vform=شَرِكَةٍ|Gloss=company,corporation|Root=^s_r_k|Translit=šarikatin|LTranslit=šarikat
+    5	اميركية	أَمِيرِكِيّ	ADJ	_	_	4	amod	_	Vform=أَمِيرِكِيَّةٍ|Gloss=American|Root='amIrik|Translit=ʾamīrikīyatin|LTranslit=ʾamīrikīy
+    6	على	عَلَى	ADP	_	_	7	case	_	Vform=عَلَى|Gloss=on,above|Root=`_l_w|Translit=ʿalā|LTranslit=ʿalā
+    7	رخصة	رُخصَة	NOUN	_	_	3	obl:arg	_	Vform=رُخصَةِ|Gloss=license,permit|Root=r__h_.s|Translit=ruḫṣati|LTranslit=ruḫṣat
+    8	تصنيع	تَصنِيع	NOUN	_	_	7	nmod	_	Vform=تَصنِيعِ|Gloss=fabrication,industrialization,processing|Root=.s_n_`|Translit=taṣnīʿi|LTranslit=taṣnīʿ
+    9	دبابة	دَبَّابَة	NOUN	_	_	8	nmod	_	Vform=دَبَّابَةِ|Gloss=tank|Root=d_b_b|Translit=dabbābati|LTranslit=dabbābat
+    10	"	"	PUNCT	_	_	11	punct	_	SpaceAfter=No|Vform="|Translit="
+    11	ليوبارد	لِيُوبَارد	X	_	_	9	nmod	_	SpaceAfter=No|Vform=لِيُوبَارد|Gloss=Leopard|Root=liyUbArd|Translit=liyūbārd|LTranslit=liyūbārd
+    12	"	"	PUNCT	_	_	11	punct	_	Vform="|Translit="
+    13	الالمانية	أَلمَانِيّ	ADJ	_	_	9	amod	_	Vform=اَلأَلمَانِيَّةِ|Gloss=German|Root='almAn|Translit=al-ʾalmānīyati|LTranslit=ʾalmānīy
+
 ### to be documented
 
 * MorphInd: Indonesian GSD
@@ -673,7 +698,6 @@ e.g. in Ukrainian, Armenian, Sanskrit, Telugu, and Tamil.
 * ??? Analysis in Yupik
 * ??? Morphs in Coptic
 
-* Arabic PADT: Root, Vform
 * Hindi HDTB, Urdu UDTB: AltTag, ChunkId, ChunkType, Stype, Tam, Vib
 
 * entity, coreference
