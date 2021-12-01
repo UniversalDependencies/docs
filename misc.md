@@ -48,6 +48,8 @@ together with brief documentation (and possibly with links to additional informa
 
 ### CorrectForm
 
+See also [CorrectSpaceAfter](#correctspaceafter).
+
 Shows the expected correct word form when there is a typo in the underlying text.
 The FORM column contains the form from the text including the error, and the FEATS
 column contains `Typo=Yes`, as described in the [guidelines for typos](u/overview/typos.html).
@@ -58,6 +60,23 @@ column contains `Typo=Yes`, as described in the [guidelines for typos](u/overvie
     3	two	two	NUM	_	_	4	nummod	_	_
     4	kats	cat	NOUN	_	Typo=Yes	2	obj	_	CorrectForm=cats|SpaceAfter=No
     5	.	.	PUNCT	_	_	2	punct	_	_
+
+### CorrectSpaceAfter
+
+See also [CorrectForm](#correctform) and [SpaceAfter](#spaceafter).
+
+`CorrectSpaceAfter=Yes` indicates that a space between two tokens is missing by error
+(hence it accompanies a `SpaceAfter=No`).
+`CorrectSpaceAfter=No` indicates that a space should not be there (e.g., before a period;
+it cannot occur together with `SpaceAfter=No`).
+More details are discussed in the [guidelines for typos](u/overview/typos.html).
+
+    # text = This spellingis wrong .
+    1	This	this	DET	_	_	2	det	_	_
+    2	spelling	spelling	NOUN	_	Number=Sing	4	nsubj	_	SpaceAfter=No|CorrectSpaceAfter=Yes
+    3	is	be	AUX	_	_	4	cop	_	_
+    4	wrong	wrong	ADJ	_	_	0	root	_	CorrectSpaceAfter=No
+    5	.	.	PUNCT	_	_	4	punct	_	_
 
 ### Gloss
 
@@ -331,7 +350,7 @@ are annotated in the file).
 
 ### SpacesAfter
 
-See also [SpaceAfter](#spaceafter), [SpacesBefore](#spacesbefore) and [NewPar](#newpar).
+See also [SpaceAfter](#spaceafter), [SpacesBefore](#spacesbefore), [CorrectSpaceAfter](#correctspaceafter) and [NewPar](#newpar).
 
 The mandatory attribute `SpaceAfter=No` only specifies whether there was at least one space
 between two tokens of a sentence. It cannot truly preserve the untokenized text if there
