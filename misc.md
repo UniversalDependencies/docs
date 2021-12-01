@@ -69,7 +69,7 @@ should correspond to the actual form that appears in the text, as described in t
 
 ### CorrectForm
 
-See also [Correct{FEATURE}](#correct-feature-) and [CorrectSpaceAfter](#correctspaceafter).
+See also [Correct{FEATURE}](#correctfeature), [CorrectSpaceAfter](#correctspaceafter) and [ModernForm](#modernform).
 
 Shows the expected correct word form when there is a typo in the underlying text.
 The FORM column contains the form from the text including the error, and the FEATS
@@ -84,7 +84,7 @@ column contains `Typo=Yes`, as described in the [guidelines for typos](u/overvie
 
 ### CorrectSpaceAfter
 
-See also [CorrectForm](#correctform), [Correct{FEATURE}](#correct-feature-) and [SpaceAfter](#spaceafter).
+See also [CorrectForm](#correctform), [Correct{FEATURE}](#correctfeature) and [SpaceAfter](#spaceafter).
 
 `CorrectSpaceAfter=Yes` indicates that a space between two tokens is missing by error
 (hence it accompanies a `SpaceAfter=No`).
@@ -295,6 +295,27 @@ This attribute is used e.g. in the Warlpiri treebank:
     3   nyangu        nyangu    VERB    _   Mood=Ind|…   0   root    _   Gloss=saw|SpaceAfter=No
     4   .             .         PUNCT   _   _            3   punct   _   Gloss=.
 
+### ModernForm
+
+See also [CorrectForm](#correctform).
+
+Shows the modern spelling for words in old texts, as described in the [guidelines for spelling
+deviations](u/overview/typos.html). For instance, German _sein_ “to be” used to be spelled _seyn_.
+In a text from the 18th century it is not a typo because this form was correct
+in the time the text was produced. Thus in the FEATS column, we may use [Style]()`=Arch` to mark
+that this is an archaic form. In the MISC column, we can add `ModernForm=sein` (an analogy to
+`CorrectForm=sein`, which we would use if we wanted to mark it as a typo).
+
+    # sent_id = bluethenstaub-f4-s1
+    # text = Akademie sollte ein durchaus philosophisches Institut seyn
+    1    Akademie           Akademie         NOUN    _    _    6    nsubj     _    _
+    2    sollte             sollen           AUX     _    _    6    aux       _    _
+    3    ein                ein              DET     _    _    6    det       _    _
+    4    durchaus           durchaus         ADV     _    _    5    advmod    _    _
+    5    philosophisches    philosophisch    ADJ     _    _    6    amod      _    _
+    6    Institut           Institut         NOUN    _    _    0    root      _    _
+    7    seyn               sein             AUX     _    _    6    cop       _    ModernForm=sein
+
 ### MSeg
 
 See also [MGloss](#mgloss).
@@ -434,7 +455,6 @@ e.g. in Ukrainian, Armenian, Sanskrit, Telugu, and Tamil.
     3     अनुश्रूयते   अनु-श्रु	VERB    _   Mood=Ind|…|Voice=Pass     0   root     _   Translit=anuśrūyate|LTranslit=anu-śru|Gloss=it-is-heard
     4     ।      	।	PUNCT   _   _                         3   punct    _   Translit=.|LTranslit=.|Gloss=.
 
-CorrectionType (Latvian LVTB), ModernForm
 Arabic PADT: Root, Vform
 Ref for Bible and other classical texts (but the treebanks currently use "ref"; should we change it?)
 
