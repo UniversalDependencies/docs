@@ -368,6 +368,47 @@ It is attested in Catalan AnCora, Portuguese Bosque (as _MWE), Spanish AnCora.
     9	la          el          DET     _   _   10   det     _   _
     10	condemna    condemna    NOUN    _   _   8    obj     _   _
 
+### MWEPOS
+
+See also [MWE](#mwe).
+
+The part of speech of a multi-word expression. The value is taken from the set of [universal
+part-of-speech tags (UPOS)](u/overview/pos-index.html) but it is not necessarily identical
+to the UPOS annotation of the current token, as the whole expression may function as a different
+part of speech than the individual words. For instance, a MWE may function as an [adposition](u/pos/ADP.html)
+but its member words may be nouns or adverbs. Or an expression consists of determiners, prepositions,
+common nouns and adjectives, but together it is a multi-word named entity, hence it acts as a [PROPN]().
+
+It typically occurs together with the `MWE` attribute, either at the first word of the MWE,
+or at the head word.
+
+It is attested in Catalan AnCora, Indonesian CSUI, Indonesian GSD, Indonesian PUD, Ligurian GLT,
+Portuguese Bosque (as POSMWE), Portuguese GSD, Spanish AnCora. It first appeared at around UD v1.3;
+it is briefly mentioned in [issue #664](https://github.com/UniversalDependencies/docs/issues/664).
+
+Note: Some treebanks later introduced the attribute `ExtPos` (possibly under the influence of SUD?),
+which seems to serve a similar purpose.
+It appears in Beja NSC, various French treebanks, and Naija NSC, as well as in issues
+[#608](https://github.com/UniversalDependencies/docs/issues/608),
+[#664](https://github.com/UniversalDependencies/docs/issues/664),
+[#678](https://github.com/UniversalDependencies/docs/issues/678),
+[#777](https://github.com/UniversalDependencies/docs/issues/777) and
+[#807](https://github.com/UniversalDependencies/docs/issues/807).
+Ideally, these two attribute names should be merged into one.
+
+    # sent_id = 3LB-CAT-06010100-1-s1
+    # text = El Tribunal Suprem (TS) ha confirmat la condemna
+    1	El          el          DET     _   _   2    det     _   _
+    2	Tribunal    tribunal    NOUN    _   _   8    nsubj   _   MWE=Tribunal_Suprem|MWEPOS=PROPN|ClusterId=3LB-CAT-06010100-1-s1.sn.2|ClusterType=Spec.organization|MentionSpan=1-6
+    3	Suprem      suprem      ADJ     _   _   2    amod    _   _
+    4	(           (           PUNCT   _   _   5    punct   _   SpaceAfter=No
+    5	TS          TS          PROPN   _   _   2    appos   _   SpaceAfter=No|ClusterId=3LB-CAT-06010100-1-s1.sn.7|ClusterType=Spec.organization|MentionSpan=4-6
+    6	)           )           PUNCT   _   _   5    punct   _   _
+    7	ha          haver       AUX     _   _   8    aux     _   _
+    8	confirmat   confirmar   VERB    _   _   0    root    _   _
+    9	la          el          DET     _   _   10   det     _   _
+    10	condemna    condemna    NOUN    _   _   8    obj     _   _
+
 ### NewPar
 
 See also [SpacesAfter](#spacesafter).
@@ -516,9 +557,6 @@ e.g. in Ukrainian, Armenian, Sanskrit, Telugu, and Tamil.
 
 ### to be documented
 
-MWEPOS, ExtPos
-MWE, MWEPOS: Catalan AnCora, Indonesian CSUI, Indonesian GSD (taky jednou MEPOS!), Indonesian PUD, perhaps Portuguese Bosque (but in different form: _MWE, POSMWE), Portuguese GSD, Spanish AnCora
-ExtPos: Beja NSC, various French treebanks, Naija NSC
 Proper: Arabic PUD, English PUD, French PUD, German PUD, Hindi PUD, Chinese PUD, Italian PUD, Korean PUD, Portuguese PUD, Russian PUD, Spanish PUD, Thai PUD, Turkish PUD
 NamedEntity: German GSD, Irish IDT
 OrigForm: English PUD, Galician CTG, Hindi PUD, Italian PUD, Korean PUD, Portuguese PUD, Russian PUD, Spanish PUD, Thai PUD
