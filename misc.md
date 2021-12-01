@@ -339,7 +339,7 @@ This attribute is used e.g. in the Tagalog and Warlpiri treebanks.
 
 ### MWE
 
-See also [MWEPOS](#mwepos) and [NamedEntity](#namedentity).
+See also [MWEPOS](#mwepos), [NamedEntity](#namedentity) and [Proper](#proper).
 
 Multi-word expression. The value serves to preserve a multi-word expression from the source corpus.
 This attribute is typically used at places where in the source corpus the MWE was treated as one
@@ -370,7 +370,7 @@ It is attested in Catalan AnCora, Portuguese Bosque (as _MWE), Spanish AnCora.
 
 ### MWEPOS
 
-See also [MWE](#mwe) and [NamedEntity](#namedentity).
+See also [MWE](#mwe), [NamedEntity](#namedentity) and [Proper](#proper).
 
 The part of speech of a multi-word expression. The value is taken from the set of [universal
 part-of-speech tags (UPOS)](u/overview/pos-index.html) but it is not necessarily identical
@@ -411,7 +411,7 @@ Ideally, these two attribute names should be merged into one.
 
 ### NamedEntity
 
-See also [MWE](#mwe) and [MWEPOS](#mwepos).
+See also [MWE](#mwe), [MWEPOS](#mwepos) and [Proper](#proper).
 
 `NamedEntity=Yes` preserves the information that the word was tagged `PROPN` when it was first
 imported to UD. Typically of Google-annotated data (GSD and PUD), all words in multi-word named entities are
@@ -476,6 +476,33 @@ and is attested in Swedish and Ukrainian.
     22   teknik          teknik         NOUN    _   _   13   conj     _   _
     23   *               *              PUNCT   _   _   24   punct    _   NewPar=Yes
     24   konst           konst          NOUN    _   _   13   conj     _   _
+
+### Proper
+
+See also [MWE](#mwe), [MWEPOS](#mwepos) and [NamedEntity](#namedentity).
+
+`Proper=True` preserves a same-named feature from the original Google annotation in the PUD
+treebanks, but only for words that could not be tagged `PROPN` in UD (e.g., adjectives).
+Typically of Google-annotated data (GSD and PUD), all words in multi-word named entities are
+labeled as proper, which is [wrong in UD](u/pos/PROPN.html). Determiners, numerals, adjectives,
+common nouns and other words should get their usual UPOS tags even inside titles of books or
+movies, names of organizations etc.
+
+The information that a non-proper-noun was annotated as `Proper` could be later converted
+to genuine annotation of multi-word named entities.
+
+Attested in the following PUD treebanks: Arabic, English, French, German, Hindi, Chinese,
+Italian, Korean, Portuguese, Russian, Spanish, Thai, Turkish.
+
+    # sent_id = n01035013
+    # text = Полиция в Британской Колумбии сказала,
+    # english_text = Police in B.C. said
+    1   Полиция      полиция      NOUN    _   _   5    nsubj   _   _
+    2   в            в            ADP     _   _   4    case    _   _
+    3   Британской   британский   ADJ     _   _   4    amod    _   Proper=True
+    4   Колумбии     Колумбия     PROPN   _   _   1    nmod    _   _
+    5   сказала      сказать      VERB    _   _   0    root    _   SpaceAfter=No
+    6   ,            ,            PUNCT   _   _   15   punct   _   _
 
 ### Ref
 
@@ -582,8 +609,6 @@ e.g. in Ukrainian, Armenian, Sanskrit, Telugu, and Tamil.
     4     ।      	।	PUNCT   _   _                         3   punct    _   Translit=.|LTranslit=.|Gloss=.
 
 ### to be documented
-
-Proper: Arabic PUD, English PUD, French PUD, German PUD, Hindi PUD, Chinese PUD, Italian PUD, Korean PUD, Portuguese PUD, Russian PUD, Spanish PUD, Thai PUD, Turkish PUD
 
 Orig OrigLang in Coptic
 
