@@ -135,7 +135,7 @@ The value is the ISO 639 language code, as registered for the language in UD (ei
 from ISO 639-1, or three letters from ISO 639-3, lowercased!) The validation script will take
 this attribute into account when validating language-specific annotation guidelines (hence it
 is one of the very few MISC attributes that are considered during
-[validation](https://universaldependencies.org/release_checklist.html#validation).
+[validation](https://universaldependencies.org/release_checklist.html#validation)).
 Note that annotation following the foreign language rules is optional. The alternative is that
 the annotators tag the foreign words with UPOS [X]() and `Foreign=Yes`, and they connect them
 using the [flat]()`:foreign` relation. In such cases, no `Lang` attribute is placed in MISC.
@@ -428,7 +428,7 @@ It appears in Beja NSC, various French treebanks, and Naija NSC, as well as in i
 [#678](https://github.com/UniversalDependencies/docs/issues/678),
 [#777](https://github.com/UniversalDependencies/docs/issues/777) and
 [#807](https://github.com/UniversalDependencies/docs/issues/807).
-Ideally, these two attribute names should be merged into one.
+**Ideally, these two attribute names should be merged into one!**
 
     # sent_id = 3LB-CAT-06010100-1-s1
     # text = El Tribunal Suprem (TS) ha confirmat la condemna
@@ -464,8 +464,8 @@ Attested in German GSD and Irish IDT.
     3   auf          auf          ADP    _   _   5   case    _   _
     4   dem          der          DET    _   _   5   det     _   _
     5   Leuchtturm   Leuchtturm   NOUN   _   _   2   nmod    _   _
-    6   Roter        rot          ADJ    _   _   5   appos   _   NamedEntity=Yes
-    7   Sand         Sand         NOUN   _   _   6   flat    _   NamedEntity=Yes
+    6   Roter        rot          ADJ    _   _   7   amod    _   NamedEntity=Yes
+    7   Sand         Sand         NOUN   _   _   5   appos   _   NamedEntity=Yes
     8   war          sein         AUX    _   _   9   cop     _   _
     9   einmalig     einmalig     ADJ    _   _   0   root    _   _
 
