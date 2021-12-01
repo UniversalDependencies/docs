@@ -274,7 +274,7 @@ e.g. in Ukrainian, Armenian, Sanskrit, Telugu, and Tamil.
 
 ### MGloss
 
-See also [MSeg](#mseg) and [Gloss](#gloss).
+See also [MSeg](#mseg), [Morf](#morf) and [Gloss](#gloss).
 
 Glossing of individual morphemes as commonly used in interlinear glossed text in linguistic
 literature. Hypens and equals-to symbols delimit morphemes as in `MSeg`, and there should be
@@ -318,9 +318,33 @@ that this is an archaic form. In the MISC column, we can add `ModernForm=sein` (
     6    Institut           Institut         NOUN    _    _    0    root      _    _
     7    seyn               sein             AUX     _    _    6    cop       _    ModernForm=sein
 
+### Morf
+
+See also [MGloss](#mgloss) and [MSeg](#mseg).
+
+Morphological analysis as output by a treebank-specific tool or resource. In contrast to `MSeg`,
+the syntax of the value may be different in various languages where this attribute is used,
+and it may be a mix of glosses, lexical strings and tags. Most of the time the information is
+redundant as it should be converted and distributed to other places on this token line, but
+preserving the original analysis may help later identify and fix conversion errors.
+
+In Bambara, it is a comma-separated sequence of French glosses and morphological features, as
+in `Morf=enfant,PL` (for the word _denw_).
+
+In Buryat and Uyghur, only `Morf=Unknown` is preserved to signal words that could not be analyzed by the
+morphological analyzer (while for other words the analysis was converted to UD annotation and
+then discarded).
+
+In Indonesian GSD, the attribute (called `MorphInd` until UD release 2.9) contains the output
+of the [MorphInd](http://septinalarasati.com/morphind/) morphological analyzer, as in
+`Morf=^peN+huni<v>_NSD+dia<p>_PS3$` (for the word _penghuninya_).
+
+In Yupik, this attribute seems to be called `Analysis`; **the two names should be merged across
+treebanks and languages!** Example: `Analysis=pagunghagh*(N)^[Abl_Mod.Sg]` (for the word _pagunghaghmeng_).
+
 ### MSeg
 
-See also [MGloss](#mgloss) and [Root](#root).
+See also [MGloss](#mgloss), [Morf](#morf) and [Root](#root).
 
 Morphemic segmentation as commonly used in interlinear glossed text in linguistic literature:
 a hyphen (“-”) denotes boundary between morphemes,
@@ -693,9 +717,6 @@ Used e.g. in Arabic PADT.
 
 ### to be documented
 
-* MorphInd: Indonesian GSD
-* ??? Morf in Bambara or Buryat or Uyghur
-* ??? Analysis in Yupik
 * ??? Morphs in Coptic
 
 * Hindi HDTB, Urdu UDTB: AltTag, ChunkId, ChunkType, Stype, Tam, Vib
