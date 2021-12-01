@@ -92,7 +92,7 @@ it would only allow the German copula _sein_.
 
 ### LGloss
 
-See also [LId](#lid) and [Gloss](#gloss).
+See also [LId](#lid), [Gloss](#gloss) and [LNumValue](#lnumvalue).
 
 An explanation of the meaning of the lemma/lexeme. This is particularly useful in connection
 with the `LId` attribute, although it can also appear alone as in the example below. While
@@ -117,7 +117,7 @@ describe or illustrate the usage of the word.
 
 ### LId
 
-See also [LGloss](#lgloss).
+See also [LGloss](#lgloss) and [LNumValue](#lnumvalue).
 
 Some non-UD corpora use numeric indices in lemmas to distinguish different lexemes with otherwise
 homonymous lemmas. In UD, the [LEMMA column](u/overview/morphology.html#lemmas) is supposed to
@@ -126,6 +126,27 @@ lexeme: it should be a valid surface form, hence it should not contain any disam
 
 In order to preserve the disambiguated lexeme identifier, it can be stored as a `LId` attribute
 in MISC. Attested e.g. in Czech or Ancient Greek.
+
+    # sent_id = 1
+    # text = Tato politika stojí český stát miliardu ročně.
+    1   Tato       tento      DET     _   _   2   det      _   _
+    2   politika   politika   NOUN    _   _   3   nsubj    _   LGloss=(věda)
+    3   stojí      stát       VERB    _   _   0   root     _   LId=stát-4|LGloss=(něco_stojí_peníze)
+    4   český      český      ADJ     _   _   5   amod     _   _
+    5   stát       stát       NOUN    _   _   3   iobj     _   LId=stát-1|LGloss=(státní_útvar)
+    6   miliardu   miliarda   NOUN    _   _   3   obj      _   LNumValue=1000000000
+    7   ročně      ročně      ADV     _   _   3   advmod   _   SpaceAfter=No|LDeriv=roční
+    8   .          .          PUNCT   _   _   3   punct    _   _
+
+### LNumValue
+
+See also [LId](#lid) and [LGloss](#lgloss).
+
+The numeric value of lexemes whose meaning relates to a number, expressed in Arabic digits.
+In the Czech dependency treebanks, the
+value of `LNumValue` is directly embedded in the lemma and it has to be separated in UD where
+the [LEMMA column](u/overview/morphology.html#lemmas) is supposed to contain just the citation
+form of the lexeme.
 
     # sent_id = 1
     # text = Tato politika stojí český stát miliardu ročně.
