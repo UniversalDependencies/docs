@@ -113,6 +113,30 @@ e.g. in Ukrainian, Armenian, Sanskrit, Telugu, and Tamil.
     3     अनुश्रूयते   अनु-श्रु	VERB    _   Mood=Ind|…|Voice=Pass     0   root     _   Translit=anuśrūyate|LTranslit=anu-śru|Gloss=it-is-heard
     4     ।      	।	PUNCT   _   _                         3   punct    _   Translit=.|LTranslit=.|Gloss=.
 
+### MGloss
+
+See also [MSeg](#mseg) and [Gloss](#gloss).
+
+Glossing of individual morphemes as commonly used in interlinear glossed text in linguistic
+literature. Hypens and equals-to symbols delimit morphemes as in `MSeg`, and there should be
+the same number of morphemes as in `MSeg` (if `MSeg` is missing, a single morpheme is assumed).
+A gloss is either a lexical meaning in English, or a grammatical tag; if multiple words/tags
+are needed in the gloss of one morpheme, they are joined by a period (“.”). There are no
+guidelines for the tags
+([Leipzig glossing rules](https://www.eva.mpg.de/lingua/resources/glossing-rules.php) are
+a source of tags that are commonly used). However, most of the tags should probably have
+a corresponding feature in the FEATS column, and there it must follow the UD guidelines.
+
+### MSeg
+
+See also [MGloss](#mgloss).
+
+Morphemic segmentation as commonly used in interlinear glossed text in linguistic literature:
+a hyphen (“-”) denotes boundary between morphemes,
+“=” is placed between a clitic and its host word.
+This attribute should be accompanied by the `MGloss` attribute, which provides interpretation
+of the morphemes.
+
 ### SpaceAfter
 
 See also [SpacesAfter](#spacesafter) and [SpacesBefore](#spacesbefore).
@@ -188,9 +212,6 @@ e.g. in Ukrainian, Armenian, Sanskrit, Telugu, and Tamil.
     2     यथा	यथा	ADV     _   PronType=Rel              3   advmod   _   Translit=yathā|LTranslit=yathā|Gloss=how
     3     अनुश्रूयते   अनु-श्रु	VERB    _   Mood=Ind|…|Voice=Pass     0   root     _   Translit=anuśrūyate|LTranslit=anu-śru|Gloss=it-is-heard
     4     ।      	।	PUNCT   _   _                         3   punct    _   Translit=.|LTranslit=.|Gloss=.
-
-* `MSeg` … morphemic segmentation as commonly used in interlinear glossed text in linguistic literature: a hyphen (“-”) denotes boundary between morphemes, “=” is placed between a clitic and its host word.
-* `MGloss` … glossing of individual morphemes as commonly used in interlinear glossed text in linguistic literature. Hypens and equals-to symbols delimit morphemes as in `MSeg`, and there should be the same number of morphemes as in `MSeg` (if `MSeg` is missing, a single morpheme is assumed). A gloss is either a lexical meaning in English, or a grammatical tag; if multiple words/tags are needed in the gloss of one morpheme, they are joined by a period (“.”). There are no guidelines for the tags ([Leipzig glossing rules](https://www.eva.mpg.de/lingua/resources/glossing-rules.php) are a source of tags that are commonly used). However, most of the tags should probably have a corresponding feature in the FEATS column, and there it must follow the UD guidelines.
 
 ohter lemma-level things from Czech
 NewPar
