@@ -46,6 +46,12 @@ for you. It is thus safer to avoid such practices.
 MISC attributes already attested in UD treebanks are listed here in alphabetical order
 together with brief documentation (and possibly with links to additional information).
 
+### Analysis
+
+See [Morf](#morf). Used currently in Yupik, the `Analysis` attribute conveys the kind of
+information that other treebanks store in the `Morf` attribute.
+**The two names should be merged across treebanks and languages!**
+
 ### Correct{FEATURE}
 
 For instance: `CorrectCase`, `CorrectDegree`, `CorrectGender`, `CorrectMood`, `CorrectNumber`,
@@ -320,7 +326,7 @@ that this is an archaic form. In the MISC column, we can add `ModernForm=sein` (
 
 ### Morf
 
-See also [MGloss](#mgloss) and [MSeg](#mseg).
+See also [MGloss](#mgloss), [MSeg](#mseg) and [Analysis](#analysis).
 
 Morphological analysis as output by a treebank-specific tool or resource. In contrast to `MSeg`,
 the syntax of the value may be different in various languages where this attribute is used,
@@ -353,6 +359,8 @@ This attribute should be accompanied by the `MGloss` attribute, which provides i
 of the morphemes.
 
 This attribute is used e.g. in the Tagalog and Warlpiri treebanks.
+The Coptic attribute `Morphs` seems to do the same thing; if so, then
+**the two names should be merged across treebanks and languages!**
 
     # sent_id = 1.104a
     # text = Ngarrkangku karnta nyangu.
@@ -716,8 +724,6 @@ Used e.g. in Arabic PADT.
     13	الالمانية	أَلمَانِيّ	ADJ	_	_	9	amod	_	Vform=اَلأَلمَانِيَّةِ|Gloss=German|Root='almAn|Translit=al-ʾalmānīyati|LTranslit=ʾalmānīy
 
 ### to be documented
-
-* ??? Morphs in Coptic
 
 * Hindi HDTB, Urdu UDTB: AltTag, ChunkId, ChunkType, Stype, Tam, Vib
 
