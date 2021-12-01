@@ -127,6 +127,17 @@ guidelines for the tags
 a source of tags that are commonly used). However, most of the tags should probably have
 a corresponding feature in the FEATS column, and there it must follow the UD guidelines.
 
+This attribute is used e.g. in the Warlpiri treebank:
+
+    # sent_id = 1.104a
+    # text = Ngarrkangku karnta nyangu.
+    # gloss = man-ERG woman saw
+    # text_en = The man saw the woman.
+    1   Ngarrkangku   ngarrka   NOUN    _   Case=Erg     3   nsubj   _   Gloss=man|MSeg=ngarrka-ngku|MGloss=man-ERG
+    2   karnta        karnta    NOUN    _   Case=Abs     3   obj     _   Gloss=woman
+    3   nyangu        nyangu    VERB    _   Mood=Ind|…   0   root    _   Gloss=saw|SpaceAfter=No
+    4   .             .         PUNCT   _   _            3   punct   _   Gloss=.
+
 ### MSeg
 
 See also [MGloss](#mgloss).
@@ -136,6 +147,17 @@ a hyphen (“-”) denotes boundary between morphemes,
 “=” is placed between a clitic and its host word.
 This attribute should be accompanied by the `MGloss` attribute, which provides interpretation
 of the morphemes.
+
+This attribute is used e.g. in the Warlpiri treebank:
+
+    # sent_id = 1.104a
+    # text = Ngarrkangku karnta nyangu.
+    # gloss = man-ERG woman saw
+    # text_en = The man saw the woman.
+    1   Ngarrkangku   ngarrka   NOUN    _   Case=Erg     3   nsubj   _   Gloss=man|MSeg=ngarrka-ngku|MGloss=man-ERG
+    2   karnta        karnta    NOUN    _   Case=Abs     3   obj     _   Gloss=woman
+    3   nyangu        nyangu    VERB    _   Mood=Ind|…   0   root    _   Gloss=saw|SpaceAfter=No
+    4   .             .         PUNCT   _   _            3   punct   _   Gloss=.
 
 ### SpaceAfter
 
