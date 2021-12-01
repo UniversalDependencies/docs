@@ -90,9 +90,35 @@ as it could occur in German as well; but we mark it as a part of the quoted Engl
 will now allow the lemma _be_ as a copula (because it is listed for English), while otherwise
 it would only allow the German copula _sein_.
 
+### LDeriv
+
+See also [LId](#lid), [LGloss](#lgloss) and [LNumValue](#lnumvalue).
+
+The lemma from which the lemma of the current token is morphologically derived (just the
+source word form, not a value of `LId`).
+In the Czech dependency treebanks, the
+value of `LDeriv` is directly embedded in the derived lemma and it has to be separated in UD where
+the [LEMMA column](u/overview/morphology.html#lemmas) is supposed to contain just the citation
+form of the current lexeme.
+
+In the example below, the adverb _ročně_ “yearly” is derived from the adjective _roční_
+(which, in turn, is derived from the noun _rok_ “year”, but it is not visible on this line;
+it would be visible on a line where the adjective occurs in the corpus).
+
+    # sent_id = 1
+    # text = Tato politika stojí český stát miliardu ročně.
+    1   Tato       tento      DET     _   _   2   det      _   _
+    2   politika   politika   NOUN    _   _   3   nsubj    _   LGloss=(věda)
+    3   stojí      stát       VERB    _   _   0   root     _   LId=stát-4|LGloss=(něco_stojí_peníze)
+    4   český      český      ADJ     _   _   5   amod     _   _
+    5   stát       stát       NOUN    _   _   3   iobj     _   LId=stát-1|LGloss=(státní_útvar)
+    6   miliardu   miliarda   NOUN    _   _   3   obj      _   LNumValue=1000000000
+    7   ročně      ročně      ADV     _   _   3   advmod   _   SpaceAfter=No|LDeriv=roční
+    8   .          .          PUNCT   _   _   3   punct    _   _
+
 ### LGloss
 
-See also [LId](#lid), [Gloss](#gloss) and [LNumValue](#lnumvalue).
+See also [LId](#lid), [Gloss](#gloss), [LNumValue](#lnumvalue) and [LDeriv](#lderiv).
 
 An explanation of the meaning of the lemma/lexeme. This is particularly useful in connection
 with the `LId` attribute, although it can also appear alone as in the example below. While
@@ -117,7 +143,7 @@ describe or illustrate the usage of the word.
 
 ### LId
 
-See also [LGloss](#lgloss) and [LNumValue](#lnumvalue).
+See also [LGloss](#lgloss), [LNumValue](#lnumvalue) and [LDeriv](#lderiv).
 
 Some non-UD corpora use numeric indices in lemmas to distinguish different lexemes with otherwise
 homonymous lemmas. In UD, the [LEMMA column](u/overview/morphology.html#lemmas) is supposed to
@@ -140,7 +166,7 @@ in MISC. Attested e.g. in Czech or Ancient Greek.
 
 ### LNumValue
 
-See also [LId](#lid) and [LGloss](#lgloss).
+See also [LId](#lid), [LGloss](#lgloss) and [LDeriv](#lderiv).
 
 The numeric value of lexemes whose meaning relates to a number, expressed in Arabic digits.
 In the Czech dependency treebanks, the
