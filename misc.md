@@ -14,7 +14,7 @@ in multiple UD treebanks, and it is desirable that they are annotated in the sam
 fashion as much as possible. This page serves as a notice board to raise awareness
 about MISC attributes that already exist, their form and purpose. If other treebanks
 add annotations of a kind described here, it is recommended that they use the same
-attribute names and values as much as possible.
+attribute names and values.
 
 ## Basic format
 
@@ -28,8 +28,11 @@ a CoNLL-U file is not considered invalid if it contains e.g. multiple consecutiv
 vertical bars (“|||”), a leading or trailing “|” in MISC etc.
 
 It is recommended that individual annotations separated by vertical bars are
-Attribute=Value pairs, similar to the FEATS column of CoNLL-U. However, it is not
-forbidden to have a “|”-delimited annotation that does not contain “=”, or even is empty
+Attribute=Value pairs, similar to the FEATS column of CoNLL-U. Attribute names normally
+consist of English letters, starting with uppercase and followed by “CamelCase”, that
+is, uppercase signals new word or segment, lowercase is used otherwise. However, it is not
+forbidden to have a “|”-delimited annotation that does not start with an attribute
+name, does not contain “=”, or even is empty
 (as long as the whole MISC is not empty). Unlike in FEATS, attributes do not have to be
 sorted alphabetically and it is allowed to have the same attribute multiple times (with
 the same or with different values) if it makes sense (but it rarely does). Note that
@@ -51,8 +54,29 @@ from ISO 639-1, or three letters from ISO 639-3, lowercased!) The validation scr
 this attribute into account when validating language-specific annotation guidelines (hence it
 is one of the very few MISC attributes that are considered during
 [validation](https://universaldependencies.org/release_checklist.html#validation).
+Note that annotation following the foreign language rules is optional. The alternative is that
+the annotators tag the foreign words with UPOS [X]() and `Foreign=Yes`, and they connect them
+using the [flat]()`:foreign` relation. In such cases, no `Lang` attribute is placed in MISC.
+See also [issue #776](https://github.com/UniversalDependencies/docs/issues/776).
 
-<b>example?</b>
+    # sent_id = de.01
+    # text = Sein erfolgreichstes Album ist „It's me!“
+    1    Sein              sein          DET     _   _   3   det     _   _
+    2    erfolgreichstes   erfolgreich   ADJ     _   _   3   amod    _   _
+    3    Album             Album         NOUN    _   _   0   root    _   _
+    4    ist               sein          VERB    _   _   3   cop     _   _
+    5    „                 „             PUNCT   _   _   8   punct   _   SpaceAfter=No
+    6    It                it            PRON    _   _   8   nsubj   _   SpaceAfter=No|Lang=en
+    7    's                be            VERB    _   _   8   cop     _   Lang=en
+    8    me                I             PRON    _   _   3   csubj   _   SpaceAfter=No|Lang=en
+    9    !                 !             PUNCT   _   _   8   punct   _   SpaceAfter=No|Lang=en
+    10   “                 “             PUNCT   _   _   8   punct   _   _
+
+Note that the exclamation mark in the above example would not need the `Lang` attribute
+as it could occur in German as well; but we mark it as a part of the quoted English phrase
+(while the surrounding quotation marks are genuinely German). Also note that the validator
+will now allow the lemma _be_ as a copula (because it is listed for English), while otherwise
+it would only allow the German copula _sein_.
 
 ### SpaceAfter
 
@@ -64,6 +88,16 @@ and not at the last word of the token. `SpaceAfter=No` may occur also at the end
 sentence, but not at the end of paragraph or document (if paragraph or document boundaries
 are annotated in the file).
 
+    # sent_id = 1
+    # text = I have no clue.
+    1   I       I       PRON    _   _   2   nsubj   _   _
+    2   have    have    VERB    _   _   0   root    _   _
+    3   no      no      DET     _   _   4   det     _   _
+    4   clue    clue    NOUN    _   _   2   obj     _   SpaceAfter=No
+    5   .       .       PUNCT   _   _   2   punct   _   _
+
+
+
 SpacesAfter (UDPipe - find that issue where Milan announced them)
 
 * `Translit` … transliteration or transcription of the word form to another writing system. Typically this attribute is used in languages that do not write using the Latin script, and the attribute provides some standard romanization.
@@ -71,6 +105,17 @@ SpacesAfter (UDPipe - find that issue where Milan announced them)
 * `Gloss` … approximate translation of the word form or the lemma to another language (typically English). If the translation consists of multiple words, they are connected using a hyphen.
 * `MSeg` … morphemic segmentation as commonly used in interlinear glossed text in linguistic literature: a hyphen (“-”) denotes boundary between morphemes, “=” is placed between a clitic and its host word.
 * `MGloss` … glossing of individual morphemes as commonly used in interlinear glossed text in linguistic literature. Hypens and equals-to symbols delimit morphemes as in `MSeg`, and there should be the same number of morphemes as in `MSeg` (if `MSeg` is missing, a single morpheme is assumed). A gloss is either a lexical meaning in English, or a grammatical tag; if multiple words/tags are needed in the gloss of one morpheme, they are joined by a period (“.”). There are no guidelines for the tags ([Leipzig glossing rules](https://www.eva.mpg.de/lingua/resources/glossing-rules.php) are a source of tags that are commonly used). However, most of the tags should probably have a corresponding feature in the FEATS column, and there it must follow the UD guidelines.
+
+    # sent_id = panc0.s4
+    # text = तत् यथानुश्रूयते।
+    # translit = tat yathānuśrūyate.
+    # text_fr = Voilà ce qui nous est parvenu par la tradition orale.
+    # text_en = This is what is heard.
+    1     तत्	तद्	DET     _   Case=Nom|…|PronType=Dem   3   nsubj    _   Translit=tat|LTranslit=tad|Gloss=it
+    2-3   यथानुश्रूयते	_	_       _   _                         _   _        _   SpaceAfter=No
+    2     यथा	यथा	ADV     _   PronType=Rel              3   advmod   _   Translit=yathā|LTranslit=yathā|Gloss=how
+    3     अनुश्रूयते   अनु-श्रु	VERB    _   Mood=Ind|…|Voice=Pass     0   root     _   Translit=anuśrūyate|LTranslit=anu-śru|Gloss=it-is-heard
+    4     ।      	।	PUNCT   _   _                         3   punct    _   Translit=.|LTranslit=.|Gloss=.
 
 ohter lemma-level things from Czech
 
