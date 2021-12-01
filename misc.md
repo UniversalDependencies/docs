@@ -337,6 +337,37 @@ This attribute is used e.g. in the Tagalog and Warlpiri treebanks.
     3   nyangu        nyangu    VERB    _   Mood=Ind|…   0   root    _   Gloss=saw|SpaceAfter=No
     4   .             .         PUNCT   _   _            3   punct   _   Gloss=.
 
+### MWE
+
+See also [MWEPOS](#mwepos).
+
+Multi-word expression. The value serves to preserve a multi-word expression from the source corpus.
+This attribute is typically used at places where in the source corpus the MWE was treated as one
+token (possibly with underscores instead of spaces). Various types of MWEs can be annotated this
+way, ranging from fixed functional expressions, such as multi-word prepositions, to multi-word
+named entities. (Note however that this attribute is not sufficient for named entity annotation,
+as it cannot handle nested entities.)
+
+Besides preserving the information that there is a multi-word expression, the attribute may also
+serve as a warning that the annotation conversion was difficult and may have to be checked by
+a human here (the annotation of the individual words probably had to be guessed during conversion).
+It is typically placed either at the first word of the MWE, or at the head word.
+
+It is attested in Catalan AnCora, Portuguese Bosque (as _MWE), Spanish AnCora.
+
+    # sent_id = 3LB-CAT-06010100-1-s1
+    # text = El Tribunal Suprem (TS) ha confirmat la condemna
+    1	El          el          DET     _   _   2    det     _   _
+    2	Tribunal    tribunal    NOUN    _   _   8    nsubj   _   MWE=Tribunal_Suprem|MWEPOS=PROPN|ClusterId=3LB-CAT-06010100-1-s1.sn.2|ClusterType=Spec.organization|MentionSpan=1-6
+    3	Suprem      suprem      ADJ     _   _   2    amod    _   _
+    4	(           (           PUNCT   _   _   5    punct   _   SpaceAfter=No
+    5	TS          TS          PROPN   _   _   2    appos   _   SpaceAfter=No|ClusterId=3LB-CAT-06010100-1-s1.sn.7|ClusterType=Spec.organization|MentionSpan=4-6
+    6	)           )           PUNCT   _   _   5    punct   _   _
+    7	ha          haver       AUX     _   _   8    aux     _   _
+    8	confirmat   confirmar   VERB    _   _   0    root    _   _
+    9	la          el          DET     _   _   10   det     _   _
+    10	condemna    condemna    NOUN    _   _   8    obj     _   _
+
 ### NewPar
 
 See also [SpacesAfter](#spacesafter).
