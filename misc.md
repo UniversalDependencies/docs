@@ -46,9 +46,30 @@ for you. It is thus safer to avoid such practices.
 MISC attributes already attested in UD treebanks are listed here in alphabetical order
 together with brief documentation (and possibly with links to additional information).
 
+### Correct{FEATURE}
+
+For instance: `CorrectCase`, `CorrectDegree`, `CorrectGender`, `CorrectMood`, `CorrectNumber`,
+`CorrectPerson`, `CorrectTense`, `CorrectVerbForm`…
+
+See also [CorrectForm](#correctform) and [CorrectSpaceAfter](#correctspaceafter).
+
+Shows the value of a morphological feature that would correspond to the correct form if
+a typo in the underlying text is fixed (while the actual value of the feature in FEATS
+should correspond to the actual form that appears in the text, as described in the
+[guidelines for typos](u/overview/typos.html)).
+
+    # text = The cars is produced in Detroit.
+    1   The        the       DET     _   Definite=Def|PronType=Art                               2   det     _   _
+    2   cars       car       NOUN    _   Number=Plur                                             4   nsubj   _   _
+    3   is         be        AUX     _   Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin   4   aux     _   CorrectForm=are|CorrectNumber=Plur
+    4   produced   produce   VERB    _   Tense=Past|VerbForm=Part                                0   root    _   _
+    5   in         in        ADP     _   _                                                       6   case    _   _
+    6   Detroit    Detroit   PROPN   _   Number=Sing                                             4   obl     _   SpaceAfter=No
+    7   .          .         PUNCT   _   _                                                       4   punct   _   _
+
 ### CorrectForm
 
-See also [CorrectSpaceAfter](#correctspaceafter).
+See also [Correct{FEATURE}](#correct-feature-) and [CorrectSpaceAfter](#correctspaceafter).
 
 Shows the expected correct word form when there is a typo in the underlying text.
 The FORM column contains the form from the text including the error, and the FEATS
@@ -63,7 +84,7 @@ column contains `Typo=Yes`, as described in the [guidelines for typos](u/overvie
 
 ### CorrectSpaceAfter
 
-See also [CorrectForm](#correctform) and [SpaceAfter](#spaceafter).
+See also [CorrectForm](#correctform), [Correct{FEATURE}](#correct-feature-) and [SpaceAfter](#spaceafter).
 
 `CorrectSpaceAfter=Yes` indicates that a space between two tokens is missing by error
 (hence it accompanies a `SpaceAfter=No`).
@@ -89,6 +110,15 @@ Spanish or Russian). If the translation consists of multiple words, they are con
 While English glosses would be helpful in any non-English treebank, they are typically available
 for lesser-known languages where the example sentences are taken from linguistic literature or
 directly from fieldwork.
+
+    # sent_id = 1.104a
+    # text = Ngarrkangku karnta nyangu.
+    # gloss = man-ERG woman saw
+    # text_en = The man saw the woman.
+    1   Ngarrkangku   ngarrka   NOUN    _   Case=Erg     3   nsubj   _   Gloss=man|MSeg=ngarrka-ngku|MGloss=man-ERG
+    2   karnta        karnta    NOUN    _   Case=Abs     3   obj     _   Gloss=woman
+    3   nyangu        nyangu    VERB    _   Mood=Ind|…   0   root    _   Gloss=saw|SpaceAfter=No
+    4   .             .         PUNCT   _   _            3   punct   _   Gloss=.
 
 ### Lang
 
@@ -404,7 +434,7 @@ e.g. in Ukrainian, Armenian, Sanskrit, Telugu, and Tamil.
     3     अनुश्रूयते   अनु-श्रु	VERB    _   Mood=Ind|…|Voice=Pass     0   root     _   Translit=anuśrūyate|LTranslit=anu-śru|Gloss=it-is-heard
     4     ।      	।	PUNCT   _   _                         3   punct    _   Translit=.|LTranslit=.|Gloss=.
 
-things for typos and the like: CorrectForm, CorrectLemma, CorrectSpaceAfter, CorrectCase, CorrectDegree, CorrectGender, CorrectMood, CorrectNumber, CorrectPerson, CorrectTense, CorrectVerbForm, CorrectionType (Latvian LVTB), ModernForm
+CorrectionType (Latvian LVTB), ModernForm
 Arabic PADT: Root, Vform
 Ref for Bible and other classical texts (but the treebanks currently use "ref"; should we change it?)
 
