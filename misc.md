@@ -46,6 +46,19 @@ for you. It is thus safer to avoid such practices.
 MISC attributes already attested in UD treebanks are listed here in alphabetical order
 together with brief documentation (and possibly with links to additional information).
 
+### CorrectForm
+
+Shows the expected correct word form when there is a typo in the underlying text.
+The FORM column contains the form from the text including the error, and the FEATS
+column contains `Typo=Yes`, as described in the [guidelines for typos](u/overview/typos.html).
+
+    # text = I have two kats.
+    1	I	I	PRON	_	_	2	nsubj	_	_
+    2	have	have	VERB	_	_	0	root	_	_
+    3	two	two	NUM	_	_	4	nummod	_	_
+    4	kats	cat	NOUN	_	Typo=Yes	2	obj	_	CorrectForm=cats|SpaceAfter=No
+    5	.	.	PUNCT	_	_	2	punct	_	_
+
 ### Gloss
 
 See also [Translit](#translit), [MGloss](#mgloss) and [LGloss](#lgloss).
@@ -372,18 +385,22 @@ e.g. in Ukrainian, Armenian, Sanskrit, Telugu, and Tamil.
     3     अनुश्रूयते   अनु-श्रु	VERB    _   Mood=Ind|…|Voice=Pass     0   root     _   Translit=anuśrūyate|LTranslit=anu-śru|Gloss=it-is-heard
     4     ।      	।	PUNCT   _   _                         3   punct    _   Translit=.|LTranslit=.|Gloss=.
 
-things for typos and the like: CorrectLemma
-ohter lemma-level things from Czech: LId, LGloss, LNumValue, LDeriv
+things for typos and the like: CorrectForm, CorrectLemma, CorrectSpaceAfter, CorrectCase, CorrectDegree, CorrectGender, CorrectMood, CorrectNumber, CorrectPerson, CorrectTense, CorrectVerbForm, CorrectionType (Latvian LVTB), ModernForm
 Arabic PADT: Root, Vform
-REF for Bible
+Ref for Bible and other classical texts (but the treebanks currently use "ref"; should we change it?)
 
 MWEPOS, ExtPos
-MWE, MWEPOS: Catalan AnCora
-ExtPos: Beja NSC
-Proper: Arabic PUD
+MWE, MWEPOS: Catalan AnCora, Indonesian CSUI, Indonesian GSD (taky jednou MEPOS!), Indonesian PUD, perhaps Portuguese Bosque (but in different form: _MWE, POSMWE), Portuguese GSD, Spanish AnCora
+ExtPos: Beja NSC, various French treebanks, Naija NSC
+Proper: Arabic PUD, English PUD, French PUD, German PUD, Hindi PUD, Chinese PUD, Italian PUD, Korean PUD, Portuguese PUD, Russian PUD, Spanish PUD, Thai PUD, Turkish PUD
+NamedEntity: German GSD, Irish IDT
+OrigForm: English PUD, Galician CTG, Hindi PUD, Italian PUD, Korean PUD, Portuguese PUD, Russian PUD, Spanish PUD, Thai PUD
+MorphInd: Indonesian GSD
 
-??? Morf in Bambara or Buryat
+??? Morf in Bambara or Buryat or Uyghur
+??? Analysis in Yupik
 ??? Morphs in Coptic
 Orig OrigLang in Coptic
+Hindi HDTB, Urdu UDTB: AltTag, ChunkId, ChunkType, Stype, Tam, Vib
 
 entity, coreference
