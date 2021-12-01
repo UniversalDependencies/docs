@@ -90,6 +90,26 @@ as it could occur in German as well; but we mark it as a part of the quoted Engl
 will now allow the lemma _be_ as a copula (because it is listed for English), while otherwise
 it would only allow the German copula _sein_.
 
+### LId
+
+Some non-UD corpora use numeric indices in lemmas to distinguish different lexemes with otherwise
+homonymous lemmas. In UD, the LEMMA column is supposed to contain just the citation form of the
+lexeme: it should be a valid surface form, hence it should not contain any disambiguating indices.
+
+In order to preserve the disambiguated lexeme identifier, it can be stored as a `LId` attribute
+in MISC. Attested e.g. in Czech or Ancient Greek.
+
+    # sent_id = 1
+    # text = Tato politika stojí český stát miliardu ročně.
+    1   Tato       tento      DET     _   _   2   det      _   _
+    2   politika   politika   NOUN    _   _   3   nsubj    _   LGloss=(věda)
+    3   stojí      stát       VERB    _   _   0   root     _   LId=stát-4|LGloss=(něco_stojí_peníze)
+    4   český      český      ADJ     _   _   5   amod     _   _
+    5   stát       stát       NOUN    _   _   3   iobj     _   LId=stát-1|LGloss=(státní_útvar)
+    6   miliardu   miliarda   NOUN    _   _   3   obj      _   LNumValue=1000000000
+    7   ročně      ročně      ADV     _   _   3   advmod   _   SpaceAfter=No|LDeriv=roční
+    8   .          .          PUNCT   _   _   3   punct    _   _
+
 ### LTranslit
 
 See also [Translit](#translit) and [Gloss](#gloss).
@@ -277,7 +297,8 @@ e.g. in Ukrainian, Armenian, Sanskrit, Telugu, and Tamil.
     3     अनुश्रूयते   अनु-श्रु	VERB    _   Mood=Ind|…|Voice=Pass     0   root     _   Translit=anuśrūyate|LTranslit=anu-śru|Gloss=it-is-heard
     4     ।      	।	PUNCT   _   _                         3   punct    _   Translit=.|LTranslit=.|Gloss=.
 
-ohter lemma-level things from Czech
+things for typos and the like: CorrectLemma
+ohter lemma-level things from Czech: LId, LGloss, LNumValue, LDeriv
 REF for Bible
 
 MWEPOS, ExtPos
