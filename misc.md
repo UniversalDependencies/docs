@@ -159,6 +159,48 @@ This attribute is used e.g. in the Warlpiri treebank:
     3   nyangu        nyangu    VERB    _   Mood=Ind|…   0   root    _   Gloss=saw|SpaceAfter=No
     4   .             .         PUNCT   _   _            3   punct   _   Gloss=.
 
+### NewPar
+
+See also [SpacesAfter](#spacesafter).
+
+Most of the time, a paragraph consists of one or more sentences, and the paragraph boundary
+is optionally [annotated using the sentence-level attribute newpar](format.html#paragraph-and-document-boundaries).
+However, in rare cases a syntactically coherent sentence is split into multiple paragraphs
+(for example, when it contains a list of items). Then the first token of the new
+sentence-internal paragraph has `NewPar=Yes`. The attribute can be taken into account by
+tools that generate plain text from CoNLL-U files, such as
+[conllu_to_text.pl](https://github.com/UniversalDependencies/tools/blob/master/conllu_to_text.pl).
+
+This attribute was proposed in [issue #412](https://github.com/UniversalDependencies/docs/issues/412)
+and is attested in Swedish and Ukrainian.
+
+    # sent_id = sv-ud-train-477
+    # text = På högstadiet skall varje elev välja ett av fyra tillvalsämnen: * språk (franska eller tyska) * ekonomi * teknik * konst
+    1    På              på             ADP     _   _   2    case     _   _
+    2    högstadiet      högstadium     NOUN    _   _   6    obl      _   _
+    3    skall           skola          AUX     _   _   6    aux      _   _
+    4    varje           varje          DET     _   _   5    det      _   _
+    5    elev            elev           NOUN    _   _   6    nsubj    _   _
+    6    välja           välja          VERB    _   _   0    root     _   _
+    7    ett             en             NUM     _   _   6    obj      _   _
+    8    av              av             ADP     _   _   10   case     _   _
+    9    fyra            fyra           NUM     _   _   10   nummod   _   _
+    10   tillvalsämnen   tillvalsämne   NOUN    _   _   7    nmod     _   SpaceAfter=No
+    11   :               :              PUNCT   _   _   10   punct    _   _
+    12   *               *              PUNCT   _   _   13   punct    _   NewPar=Yes
+    13   språk           språk          NOUN    _   _   10   appos    _   _
+    14   (               (              PUNCT   _   _   13   punct    _   SpaceAfter=No
+    15   franska         fransk         NOUN    _   _   13   appos    _   _
+    16   eller           eller          CCONJ   _   _   17   cc       _   _
+    17   tyska           tysk           NOUN    _   _   15   conj     _   SpaceAfter=No
+    18   )               )              PUNCT   _   _   13   punct    _   _
+    19   *               *              PUNCT   _   _   20   punct    _   NewPar=Yes
+    20   ekonomi         ekonomi        NOUN    _   _   13   conj     _   _
+    21   *               *              PUNCT   _   _   22   punct    _   NewPar=Yes
+    22   teknik          teknik         NOUN    _   _   13   conj     _   _
+    23   *               *              PUNCT   _   _   24   punct    _   NewPar=Yes
+    24   konst           konst          NOUN    _   _   13   conj     _   _
+
 ### SpaceAfter
 
 See also [SpacesAfter](#spacesafter) and [SpacesBefore](#spacesbefore).
@@ -181,7 +223,7 @@ are annotated in the file).
 
 ### SpacesAfter
 
-See also [SpaceAfter](#spaceafter) and [SpacesBefore](#spacesbefore).
+See also [SpaceAfter](#spaceafter), [SpacesBefore](#spacesbefore) and [NewPar](#newpar).
 
 The mandatory attribute `SpaceAfter=No` only specifies whether there was at least one space
 between two tokens of a sentence. It cannot truly preserve the untokenized text if there
@@ -236,7 +278,6 @@ e.g. in Ukrainian, Armenian, Sanskrit, Telugu, and Tamil.
     4     ।      	।	PUNCT   _   _                         3   punct    _   Translit=.|LTranslit=.|Gloss=.
 
 ohter lemma-level things from Czech
-NewPar
 REF for Bible
 
 MWEPOS, ExtPos
