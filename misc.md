@@ -156,7 +156,7 @@ it would only allow the German copula _sein_.
 
 ### LDeriv
 
-See also [LId](#lid), [LGloss](#lgloss) and [LNumValue](#lnumvalue).
+See also [LId](#lid), [LGloss](#lgloss), [LNumValue](#lnumvalue) and [Root](#root).
 
 The lemma from which the lemma of the current token is morphologically derived (just the
 source word form, not a value of `LId`).
@@ -320,7 +320,7 @@ that this is an archaic form. In the MISC column, we can add `ModernForm=sein` (
 
 ### MSeg
 
-See also [MGloss](#mgloss).
+See also [MGloss](#mgloss) and [Root](#root).
 
 Morphemic segmentation as commonly used in interlinear glossed text in linguistic literature:
 a hyphen (“-”) denotes boundary between morphemes,
@@ -494,23 +494,22 @@ See also [issue #776](https://github.com/UniversalDependencies/docs/issues/776).
 Attested e.g. in Coptic or Komi Zyrian.
 
     # sent_id = shenoute_fox-XH204-216_s0003
-    # text_en = ...
     # text = ⲁⲗⲗⲁ ⲉⲕϯⲟⲩⲃⲉⲓⲏⲥⲟⲩⲥ ⲉⲧⲟⲩⲏϩ ϩⲛⲛⲉⲭⲣⲉⲓⲥⲧⲓⲁⲛⲟⲥ .
-    1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	4	cc	_	OrigLang=grc
+    1	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	_	Foreign=Yes	4	cc	_	OrigLang=grc
     2-6	ⲉⲕϯⲟⲩⲃⲉⲓⲏⲥⲟⲩⲥ	_	_	_	_	_	_	_	_
-    2	ⲉ	ⲉⲣⲉ	PART	CFOC	_	4	mark	_	_
-    3	ⲕ	ⲛⲧⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
-    4	ϯ	ϯ	VERB	V	VerbForm=Fin	0	root	_	_
-    5	ⲟⲩⲃⲉ	ⲟⲩⲃⲉ	ADP	PREP	_	6	case	_	_
-    6	ⲓⲏⲥⲟⲩⲥ	ⲓⲏⲥⲟⲩⲥ	PROPN	NPROP	Foreign=Yes	4	obl	_	Entity=(person-Jesus|Orig=ⲓ︤ⲥ︥|OrigLang=he
+    2	ⲉ	ⲉⲣⲉ	PART	_	_	4	mark	_	_
+    3	ⲕ	ⲛⲧⲟⲕ	PRON	_	Definite=Def|…	4	nsubj	_	_
+    4	ϯ	ϯ	VERB	_	VerbForm=Fin	0	root	_	_
+    5	ⲟⲩⲃⲉ	ⲟⲩⲃⲉ	ADP	_	_	6	case	_	_
+    6	ⲓⲏⲥⲟⲩⲥ	ⲓⲏⲥⲟⲩⲥ	PROPN	_	Foreign=Yes	4	obl	_	Entity=(person-Jesus|Orig=ⲓ︤ⲥ︥|OrigLang=he
     7-8	ⲉⲧⲟⲩⲏϩ	_	_	_	_	_	_	_	_
-    7	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	8	mark	_	_
-    8	ⲟⲩⲏϩ	ⲟⲩⲱϩ	VERB	VSTAT	VerbForm=Fin	6	acl	_	_
+    7	ⲉⲧ	ⲉⲧⲉⲣⲉ	SCONJ	_	_	8	mark	_	_
+    8	ⲟⲩⲏϩ	ⲟⲩⲱϩ	VERB	_	VerbForm=Fin	6	acl	_	_
     9-11	ϩⲛⲛⲉⲭⲣⲉⲓⲥⲧⲓⲁⲛⲟⲥ	_	_	_	_	_	_	_	_
-    9	ϩⲛ	ϩⲛ	ADP	PREP	_	11	case	_	Orig=ϩ︤ⲛ︥
-    10	ⲛⲉ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	11	det	_	Entity=(person
-    11	ⲭⲣⲉⲓⲥⲧⲓⲁⲛⲟⲥ	ⲭⲣⲉⲓⲥⲧⲓⲁⲛⲟⲥ	NOUN	N	Foreign=Yes	8	obl	_	Entity=person)person-Jesus)|Orig=ⲭⲣⲉⲓⲥⲧⲓⲁⲛⲟⲥ⳿|OrigLang=grc
-    12	.	.	PUNCT	PUNCT	_	4	punct	_	_
+    9	ϩⲛ	ϩⲛ	ADP	_	_	11	case	_	Orig=ϩ︤ⲛ︥
+    10	ⲛⲉ	ⲡ	DET	_	Definite=Def|…	11	det	_	Entity=(person
+    11	ⲭⲣⲉⲓⲥⲧⲓⲁⲛⲟⲥ	ⲭⲣⲉⲓⲥⲧⲓⲁⲛⲟⲥ	NOUN	_	Foreign=Yes	8	obl	_	Entity=person)person-Jesus)|Orig=ⲭⲣⲉⲓⲥⲧⲓⲁⲛⲟⲥ⳿|OrigLang=grc
+    12	.	.	PUNCT	_	_	4	punct	_	_
 
 ### Proper
 
@@ -566,6 +565,30 @@ Old East Slavic TOROT, Romanian Nonstandard, Yoruba YTB.
     9    àti      àti      CCONJ   _   _   10   cc      _   Gloss=and|Ref=GEN_1.1
     10   ayé      ayé      NOUN    _   _   8    conj    _   Gloss=earth|Ref=GEN_1.1|SpaceAfter=No
     11   .        .        PUNCT   _   _   6    punct   _   Gloss=.|Ref=GEN_1.1
+
+### Root
+
+See also [MSeg](#mseg) and [LDeriv](#lderiv).
+
+The consonant root of the words in Semitic languages (typically three consonants).
+For example, the Arabic verb _rafaḍ_ “reject” has `Root=r_f_.d`.
+Used e.g. in Arabic PADT and Assyrian AS.
+
+    # sent_id = afp.20000715.0075:p1u1
+    # text = برلين ترفض حصول شركة اميركية على رخصة تصنيع دبابة "ليوبارد" الالمانية
+    1	برلين	بَرلِين	X	_	_	2	nsubj	_	Vform=بَرلِين|Gloss=Berlin|Root=barlIn|Translit=barlīn|LTranslit=barlīn
+    2	ترفض	رَفَض	VERB	_	_	0	root	_	Vform=تَرفُضُ|Gloss=reject,refuse|Root=r_f_.d|Translit=tarfuḍu|LTranslit=rafaḍ
+    3	حصول	حُصُول	NOUN	_	_	2	obj	_	Vform=حُصُولَ|Gloss=acquisition,obtaining,occurrence,happening|Root=.h_.s_l|Translit=ḥuṣūla|LTranslit=ḥuṣūl
+    4	شركة	شَرِكَة	NOUN	_	_	3	nmod	_	Vform=شَرِكَةٍ|Gloss=company,corporation|Root=^s_r_k|Translit=šarikatin|LTranslit=šarikat
+    5	اميركية	أَمِيرِكِيّ	ADJ	_	_	4	amod	_	Vform=أَمِيرِكِيَّةٍ|Gloss=American|Root='amIrik|Translit=ʾamīrikīyatin|LTranslit=ʾamīrikīy
+    6	على	عَلَى	ADP	_	_	7	case	_	Vform=عَلَى|Gloss=on,above|Root=`_l_w|Translit=ʿalā|LTranslit=ʿalā
+    7	رخصة	رُخصَة	NOUN	_	_	3	obl:arg	_	Vform=رُخصَةِ|Gloss=license,permit|Root=r__h_.s|Translit=ruḫṣati|LTranslit=ruḫṣat
+    8	تصنيع	تَصنِيع	NOUN	_	_	7	nmod	_	Vform=تَصنِيعِ|Gloss=fabrication,industrialization,processing|Root=.s_n_`|Translit=taṣnīʿi|LTranslit=taṣnīʿ
+    9	دبابة	دَبَّابَة	NOUN	_	_	8	nmod	_	Vform=دَبَّابَةِ|Gloss=tank|Root=d_b_b|Translit=dabbābati|LTranslit=dabbābat
+    10	"	"	PUNCT	_	_	11	punct	_	SpaceAfter=No|Vform="|Translit="
+    11	ليوبارد	لِيُوبَارد	X	_	_	9	nmod	_	SpaceAfter=No|Vform=لِيُوبَارد|Gloss=Leopard|Root=liyUbArd|Translit=liyūbārd|LTranslit=liyūbārd
+    12	"	"	PUNCT	_	_	11	punct	_	Vform="|Translit="
+    13	الالمانية	أَلمَانِيّ	ADJ	_	_	9	amod	_	Vform=اَلأَلمَانِيَّةِ|Gloss=German|Root='almAn|Translit=al-ʾalmānīyati|LTranslit=ʾalmānīy
 
 ### SpaceAfter
 
@@ -645,12 +668,12 @@ e.g. in Ukrainian, Armenian, Sanskrit, Telugu, and Tamil.
 
 ### to be documented
 
-MorphInd: Indonesian GSD
-??? Morf in Bambara or Buryat or Uyghur
-??? Analysis in Yupik
-??? Morphs in Coptic
+* MorphInd: Indonesian GSD
+* ??? Morf in Bambara or Buryat or Uyghur
+* ??? Analysis in Yupik
+* ??? Morphs in Coptic
 
-Arabic PADT: Root, Vform
-Hindi HDTB, Urdu UDTB: AltTag, ChunkId, ChunkType, Stype, Tam, Vib
+* Arabic PADT: Root, Vform
+* Hindi HDTB, Urdu UDTB: AltTag, ChunkId, ChunkType, Stype, Tam, Vib
 
-entity, coreference
+* entity, coreference
