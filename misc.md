@@ -557,15 +557,16 @@ e.g. in Ukrainian, Armenian, Sanskrit, Telugu, and Tamil.
 
 ### to be documented
 
-Proper: Arabic PUD, English PUD, French PUD, German PUD, Hindi PUD, Chinese PUD, Italian PUD, Korean PUD, Portuguese PUD, Russian PUD, Spanish PUD, Thai PUD, Turkish PUD
 NamedEntity: German GSD, Irish IDT
-OrigForm: English PUD, Galician CTG, Hindi PUD, Italian PUD, Korean PUD, Portuguese PUD, Russian PUD, Spanish PUD, Thai PUD
-MorphInd: Indonesian GSD
+Proper: Arabic PUD, English PUD, French PUD, German PUD, Hindi PUD, Chinese PUD, Italian PUD, Korean PUD, Portuguese PUD, Russian PUD, Spanish PUD, Thai PUD, Turkish PUD
 
+Orig OrigLang in Coptic
+
+MorphInd: Indonesian GSD
 ??? Morf in Bambara or Buryat or Uyghur
 ??? Analysis in Yupik
 ??? Morphs in Coptic
-Orig OrigLang in Coptic
+
 Arabic PADT: Root, Vform
 Hindi HDTB, Urdu UDTB: AltTag, ChunkId, ChunkType, Stype, Tam, Vib
 
