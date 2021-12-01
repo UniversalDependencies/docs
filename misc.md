@@ -284,7 +284,7 @@ guidelines for the tags
 a source of tags that are commonly used). However, most of the tags should probably have
 a corresponding feature in the FEATS column, and there it must follow the UD guidelines.
 
-This attribute is used e.g. in the Warlpiri treebank:
+This attribute is used e.g. in the Tagalog and Warlpiri treebanks.
 
     # sent_id = 1.104a
     # text = Ngarrkangku karnta nyangu.
@@ -326,7 +326,7 @@ a hyphen (“-”) denotes boundary between morphemes,
 This attribute should be accompanied by the `MGloss` attribute, which provides interpretation
 of the morphemes.
 
-This attribute is used e.g. in the Warlpiri treebank:
+This attribute is used e.g. in the Tagalog and Warlpiri treebanks.
 
     # sent_id = 1.104a
     # text = Ngarrkangku karnta nyangu.
@@ -378,6 +378,34 @@ and is attested in Swedish and Ukrainian.
     22   teknik          teknik         NOUN    _   _   13   conj     _   _
     23   *               *              PUNCT   _   _   24   punct    _   NewPar=Yes
     24   konst           konst          NOUN    _   _   13   conj     _   _
+
+### Ref
+
+Some standardized reference to the source text as used in classical studies. For example,
+annotated texts from the Bible have the uppercase abbreviation of the book, followed by
+an underscore and a decimal reference to the verse. It is a token-level reference (rather
+than sentence-level) because one sentence may contain parts with different source ids.
+On the other hand, the same source id may cover multiple sentences or their parts.
+
+Used e.g. in Ancient Greek PROIEL, Latin PROIEL, Gothic PROIEL, Old Church Slavonic PROIEL,
+Old East Slavic TOROT, Romanian Nonstandard, Yoruba YTB.
+
+    # source = Bibeli Mimọ, Jẹ́nẹ́sísì, Chapter 1
+    # newdoc id = GEN_1
+    # sent_id = GEN_1.1
+    # text = Ní ìbẹ̀rẹ̀ ohun gbogbo Ọlọ́run dá àwọn ọ̀run àti ayé.
+    # text_en = In the beginning God created the heaven and the earth.
+    1    Ní       ní       ADP     _   _   2    case    _   Gloss=in|Ref=GEN_1.1
+    2    ìbẹ̀rẹ̀    ìbẹ̀rẹ̀    NOUN    _   _   6    obl     _   Gloss=beginning|Ref=GEN_1.1
+    3    ohun     ohun     NOUN    _   _   5    nmod    _   Gloss=things|Ref=GEN_1.1
+    4    gbogbo   gbogbo   DET     _   _   5    det     _   Gloss=all|Ref=GEN_1.1
+    5    Ọlọ́run   ọlọ́run   NOUN    _   _   6    nsubj   _   Gloss=god|Ref=GEN_1.1
+    6    dá       dá       VERB    _   _   0    root    _   Gloss=made|Ref=GEN_1.1
+    7    àwọn     àwọn     DET     _   _   8    det     _   Gloss=the|Ref=GEN_1.1
+    8    ọ̀run     ọ̀run     NOUN    _   _   6    obj     _   Gloss=heaven|Ref=GEN_1.1
+    9    àti      àti      CCONJ   _   _   10   cc      _   Gloss=and|Ref=GEN_1.1
+    10   ayé      ayé      NOUN    _   _   8    conj    _   Gloss=earth|Ref=GEN_1.1|SpaceAfter=No
+    11   .        .        PUNCT   _   _   6    punct   _   Gloss=.|Ref=GEN_1.1
 
 ### SpaceAfter
 
@@ -455,8 +483,7 @@ e.g. in Ukrainian, Armenian, Sanskrit, Telugu, and Tamil.
     3     अनुश्रूयते   अनु-श्रु	VERB    _   Mood=Ind|…|Voice=Pass     0   root     _   Translit=anuśrūyate|LTranslit=anu-śru|Gloss=it-is-heard
     4     ।      	।	PUNCT   _   _                         3   punct    _   Translit=.|LTranslit=.|Gloss=.
 
-Arabic PADT: Root, Vform
-Ref for Bible and other classical texts (but the treebanks currently use "ref"; should we change it?)
+### to be documented
 
 MWEPOS, ExtPos
 MWE, MWEPOS: Catalan AnCora, Indonesian CSUI, Indonesian GSD (taky jednou MEPOS!), Indonesian PUD, perhaps Portuguese Bosque (but in different form: _MWE, POSMWE), Portuguese GSD, Spanish AnCora
@@ -470,6 +497,7 @@ MorphInd: Indonesian GSD
 ??? Analysis in Yupik
 ??? Morphs in Coptic
 Orig OrigLang in Coptic
+Arabic PADT: Root, Vform
 Hindi HDTB, Urdu UDTB: AltTag, ChunkId, ChunkType, Stype, Tam, Vib
 
 entity, coreference
