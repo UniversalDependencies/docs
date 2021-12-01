@@ -339,7 +339,7 @@ This attribute is used e.g. in the Tagalog and Warlpiri treebanks.
 
 ### MWE
 
-See also [MWEPOS](#mwepos).
+See also [MWEPOS](#mwepos) and [NamedEntity](#namedentity).
 
 Multi-word expression. The value serves to preserve a multi-word expression from the source corpus.
 This attribute is typically used at places where in the source corpus the MWE was treated as one
@@ -370,7 +370,7 @@ It is attested in Catalan AnCora, Portuguese Bosque (as _MWE), Spanish AnCora.
 
 ### MWEPOS
 
-See also [MWE](#mwe).
+See also [MWE](#mwe) and [NamedEntity](#namedentity).
 
 The part of speech of a multi-word expression. The value is taken from the set of [universal
 part-of-speech tags (UPOS)](u/overview/pos-index.html) but it is not necessarily identical
@@ -408,6 +408,32 @@ Ideally, these two attribute names should be merged into one.
     8	confirmat   confirmar   VERB    _   _   0    root    _   _
     9	la          el          DET     _   _   10   det     _   _
     10	condemna    condemna    NOUN    _   _   8    obj     _   _
+
+### NamedEntity
+
+See also [MWE](#mwe) and [MWEPOS](#mwepos).
+
+`NamedEntity=Yes` preserves the information that the word was tagged `PROPN` when it was first
+imported to UD. Typically of Google-annotated data (GSD and PUD), all words in multi-word named entities are
+tagged `PROPN`, which is [wrong in UD](u/pos/PROPN.html). Determiners, numerals, adjectives,
+common nouns and other words should get their usual UPOS tags even inside titles of books or
+movies, names of organizations etc. However, as we fix the UPOS tag, we may want to still preserve
+the information that a sequence of words were tagged `PROPN` because we could later convert it
+to genuine annotation of named entities.
+
+Attested in German GSD and Irish IDT.
+
+    # sent_id = train-s203
+    # text = Unser Erlebnis auf dem Leuchtturm Roter Sand war einmalig
+    1   Unser        unser        DET    _   _   2   det     _   _
+    2   Erlebnis     Erlebnis     NOUN   _   _   9   nsubj   _   _
+    3   auf          auf          ADP    _   _   5   case    _   _
+    4   dem          der          DET    _   _   5   det     _   _
+    5   Leuchtturm   Leuchtturm   NOUN   _   _   2   nmod    _   _
+    6   Roter        rot          ADJ    _   _   5   appos   _   NamedEntity=Yes
+    7   Sand         Sand         NOUN   _   _   6   flat    _   NamedEntity=Yes
+    8   war          sein         AUX    _   _   9   cop     _   _
+    9   einmalig     einmalig     ADJ    _   _   0   root    _   _
 
 ### NewPar
 
@@ -557,7 +583,6 @@ e.g. in Ukrainian, Armenian, Sanskrit, Telugu, and Tamil.
 
 ### to be documented
 
-NamedEntity: German GSD, Irish IDT
 Proper: Arabic PUD, English PUD, French PUD, German PUD, Hindi PUD, Chinese PUD, Italian PUD, Korean PUD, Portuguese PUD, Russian PUD, Spanish PUD, Thai PUD, Turkish PUD
 
 Orig OrigLang in Coptic
