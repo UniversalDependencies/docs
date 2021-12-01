@@ -723,6 +723,29 @@ Used e.g. in Arabic PADT.
     12	"	"	PUNCT	_	_	11	punct	_	Vform="|Translit="
     13	الالمانية	أَلمَانِيّ	ADJ	_	_	9	amod	_	Vform=اَلأَلمَانِيَّةِ|Gloss=German|Root='almAn|Translit=al-ʾalmānīyati|LTranslit=ʾalmānīy
 
+### Vib
+
+In Indian corpora, `Vib` encodes the vibhakti, which is typically a case suffix, a postposition,
+or a combination of both. Unlike the `Case` feature in FEATS, the vibhakti value is just a
+language-specific string such as the form of the suffix or the postposition; however, sometimes
+it is not a copy of a part of the current or neighboring token. For example, the Hindi
+postposition marking direct or indirect object is को _(ko)_ but some pronouns do not use the
+postposition and instead inflect irregularly. So the pronoun इसे _(ise)_ is the object form of
+यह _(yah)_, its morphological features will say `Case=Acc,Dat` but its vibhakti in MISC will be
+`Vib=को`.
+
+Used in Hindi HDTB and Urdu UDTB.
+
+    # sent_id = train-s2
+    # text = इसे नवाब शाहजेहन ने बनवाया था ।
+    1	इसे	यह	PRON    _   _   5   obj        _   Vib=को|Tam=ko|ChunkId=NP|ChunkType=head|Translit=ise
+    2	नवाब	नवाब	NOUN    _   _   3   compound   _   Vib=0|Tam=0|ChunkId=NP2|ChunkType=child|Translit=navāba
+    3	शाहजेहन	शाहजेहन	PROPN   _   _   5   nsubj      _   Vib=0_ने|Tam=0|ChunkId=NP2|ChunkType=head|Translit=śāhajehana
+    4	ने	ने	ADP     _   _   3   case       _   ChunkId=NP2|ChunkType=child|Translit=ne
+    5	बनवाया	बनवा	VERB    _   _   0   root       _   Vib=या_था|Tam=yA|ChunkId=VGF|ChunkType=head|Stype=declarative|Translit=banavāyā
+    6	था	था	AUX     _   _   5   aux        _   Vib=था|Tam=WA|ChunkId=VGF|ChunkType=child|Translit=thā
+    7	।	।	PUNCT   _   _   5   punct      _   ChunkId=BLK|ChunkType=head|Translit=.
+
 ### to be documented
 
 * Hindi HDTB, Urdu UDTB: AltTag, ChunkId, ChunkType, Stype, Tam, Vib
