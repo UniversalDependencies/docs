@@ -19,8 +19,7 @@ udver: '2'
 ### <a name="Yes">`Yes`</a>: Yes
 
 
-The passive deverbalizer prefix _emi-_ is a nominalizer with passive meaning. It is actually non different than the passive nominalizer suffix _-pɨr_ . 
-Deverbalizer has been chosen instead of nominalizer just to avoid confusion since both morphemes have the exact same function.
+The particle _te_ is used to indicate focus.
 
 #### Examples
 
