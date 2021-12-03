@@ -13,6 +13,7 @@ udver: '2'
   <td><a href="#Loc">Loc</a></td>
   <td><a href="#Tem">Tem</a></td>
   <td><a href="#Tra">Tra</a></td>
+  <td><a href="#Ref">Ref</a></td>
   
 
 </tr>
@@ -69,6 +70,17 @@ The translative case is expressed with the morpheme "romo" or "rumu"
   
 </tr>
 </table>
+
+### <a name="Ref">`Ref`</a>: Referential (Argumentative)
+
+is used for the referential marker (also called argumentative, nominal). All lexical roots in Guajajara are predicates. In order for these to function as arguments of predicates the Ref marker is used. Its function is nothing like that of nominal cases.
+
+
+#### Examples
+
+* _<b>Aʔe</b>&nbsp;_ “That” (Deictic determiner)
+* _<b>Aʔe=à</b>&nbsp;_ “He/She/It/They” (Subject)
+
 
 ## Diffs
 
