@@ -69,6 +69,19 @@ The following determiners and adverbs have this feature:
 
 Note that _that_ only has this feature when it is being used as a demonstrative determiner. If it is used to mark the beginning of a [clausal complement](en-dep/ccomp) or a [relative clause](en-dep/acl:relcl) it does not have this feature.
 
+### <a name="Emp">`Emp`</a>: emphatic pronoun
+
+#### Examples
+
+The following pronouns can have this feature:
+
+* _myself, yourself, herself, himself, itself, ourselves, yourselves, themselves_
+
+Note that the _-self_ pronouns only have this feature when used emphaticaly, as in 1., but not when they are used directly as arguments, as in 2., in which case they should be treated as personal pronouns
+
+  1. Thomas himself said so (himself: PronType=Emp)
+  2. Thomas saw himself in the mirror (himself: PronType=Prs)
+
 ### <a name="Neg">`Neg`</a>: negative pronoun or determiner
 
 #### Examples
