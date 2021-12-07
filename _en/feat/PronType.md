@@ -90,6 +90,15 @@ The following pronouns and determiners have this feature:
 
 * _none, no_
 
+### <a name="Rcp">`Rcp`</a>: reciprocal pronoun
+
+#### Examples
+
+Used for the following fixed expressions:
+
+* _each other, one another_
+
+
 ### <a name="Tot">`Tot`</a>: total pronoun or determiner
 
 #### Examples
