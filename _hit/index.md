@@ -64,7 +64,7 @@ HitTB contains one language-specific feature, called Language. Since Hittite use
 
 There is 1 Hittite UD treebank:
 
-  * [HitTB](../treebanks/hittb/index.html)
+  * [HitTB](../treebanks/hit_hittb/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
