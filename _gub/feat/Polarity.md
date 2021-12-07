@@ -9,7 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Neg">Neg</a></td>
-  
+  <td><a href="#Pos">Pos</a></td>
   
   
 </tr>
@@ -22,6 +22,14 @@ udver: '2'
 #### Examples
 
 * _<b>n-u-Z-apo</b>&nbsp;_ “He doesn't do" 
+
+</tr>
+
+### <a name="Pos">`Pos`</a>: positive
+
+#### Examples
+
+* _<b>Heʔe</b>&nbsp;_ “Yes" 
 
 </tr>
 </table>
