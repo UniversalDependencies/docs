@@ -5,7 +5,7 @@ shortdef: 'list'
 udver: '2'
 ---
 
-`list` is used for list items.
+The `list` relation is used for list items.
 
 The relation is mostly used in the PoSTWITA-UD treebank for examples like the following:
 
@@ -16,7 +16,7 @@ list(TT, #serviziopubblico)
 list(TT, #Grillo)
 list(TT, Trota)
 list(TT, Levon)
-list(TT, Damon)
+list(TT, Elena)
 list(TT, Prince)
 list(TT, Lega)
 ~~~
