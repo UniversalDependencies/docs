@@ -33,7 +33,8 @@ semantic criteria suggesting that they are prepositions (for example, they have 
 understood subject). These words have
 variously been called **deverbal prepositions**, **deverbal connectives**, 
 **quasi-prepositions**, or **pseudo-prepositions**. In English this includes words like
-*following*, *concerning*, *regarding*, and *given*. Similar cases occur in many other languages.
+*following*, *concerning*, *regarding*, and *given*. 
+Similar cases occur in many other languages (such as French *concernant* and *suivant*).
 For UD, we have decided that such words
 will be given the POS [VERB]() and normal verbal morphological features,
 but they can be recognized as syntactically adpositions by giving them the grammatical relation
