@@ -46,7 +46,7 @@ Non-contiguity is more often associated with
 * _<b>s-orɨβ</b>&nbsp;_ “(S)he/it is happy / there is her/his/its/their happiness”
 * _<b>s-orɨβ-a</b>&nbsp;_ “Her/his/their/its happiness”
 
-### <a name="Hum">`Hum`</a>: absolute
+### <a name="Hum">`Hum`</a>: Human
 
 Huma relational indicates that the possessor
 
@@ -58,7 +58,7 @@ Huma relational indicates that the possessor
 * _<b>soʔo</b> &nbsp;_ “flesh (non-human)”
 
 
-### <a name="Corf">`Corf`</a>: human
+### <a name="Corf">`Corf`</a>: Coreferential
 
 The correferential relational indicates that the possessor
 
