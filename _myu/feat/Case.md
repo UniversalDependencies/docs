@@ -20,4 +20,4 @@ udver: '2'
 
 #### Examples
 
-* _<b></b>&nbsp;_ “”
+* _<b>o'a-m</b>&nbsp;_ “with the ax”
