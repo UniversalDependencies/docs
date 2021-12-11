@@ -16,7 +16,7 @@ udver: '2'
 </table>
 
 
-### <a name="Ins">`Instrumental`</a>: Instrumental
+### <a name="Ins">`Ins`</a>: Instrumental
 
 #### Examples
 
