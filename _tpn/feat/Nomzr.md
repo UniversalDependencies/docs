@@ -13,6 +13,7 @@ udver: '2'
   <td><a href="#Ag">Ag</a></td>
   <td><a href="#Rel">Rel</a></td>
   <td><a href="#CCirc">CCirc</a></td>
+  <td><a href="#Hab">Hab</a></td>
   
   
 
@@ -74,6 +75,16 @@ The complement of circumstance 'the one who is (in)'
 #### Examples
 
 * _<b>ɨβakɨpendwara</b>&nbsp;_ “the one who is in heaven/in the sky”
+
+
+
+### <a name="Hab">`Hab`</a>: Habitual
+
+The habitual nominalizer indicates that the subject often does X
+
+#### Examples
+
+* _<b>kaɲem-βor</b>&nbsp;_ “one who often flees”
 
 
 
