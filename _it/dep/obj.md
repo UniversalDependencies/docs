@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'dobj'
+title: 'obj'
 shortdef: 'direct object'
 udver: '2'
 ---
@@ -10,22 +10,22 @@ A direct object is a nominal which is the (accusative) object of the verbal pred
 
 ~~~ sdparse
 Stravince le elezioni del 1990 . 
-dobj(Stravince, elezioni)
+obj(Stravince, elezioni)
 ~~~
 
 
-The <code>dobj</code> relation is also used to mark real reflexive constructions where the clitic pronoun is a direct object of the verb.
+The <code>obj</code> relation is also used to mark real reflexive constructions where the clitic pronoun is a direct object of the verb.
 
 ~~~ sdparse
 Mi ami ? 
-dobj(ami, Mi)
+obj(ami, Mi)
 ~~~
 
 
-<code>dobj</code> is also used in those cases where the direct object has no independent semantic value but it creates a unique semantic element together with the verb.
+<code>obj</code> is also used in those cases where the direct object has no independent semantic value but it creates a unique semantic element together with the verb.
 
 ~~~ sdparse
 Hanno fatto fuoco prima su mio marito . 
-dobj(fatto, fuoco)
+obj(fatto, fuoco)
 ~~~
 <!-- Interlanguage links updated St lis 3 20:59:03 CET 2021 -->
