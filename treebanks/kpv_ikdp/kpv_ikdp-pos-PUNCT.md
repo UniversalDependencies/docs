@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Zyrian-IKDP: POS Tags: `PUNCT`
 
-There are 10 `PUNCT` lemmas (1%), 9 `PUNCT` types (1%) and 529 `PUNCT` tokens (23%).
-Out of 16 observed tags, the rank of `PUNCT` is: 12 in number of lemmas, 14 in number of types and 1 in number of tokens.
+There are 11 `PUNCT` lemmas (1%), 10 `PUNCT` types (1%) and 529 `PUNCT` tokens (23%).
+Out of 16 observed tags, the rank of `PUNCT` is: 11 in number of lemmas, 13 in number of types and 1 in number of tokens.
 
-The 10 most frequent `PUNCT` lemmas: <em>,, ., ?, _, -, :, !, ", ..., …</em>
+The 10 most frequent `PUNCT` lemmas: <em>,, ., ?, _, -, :, !, ..., «, »</em>
 
-The 10 most frequent `PUNCT` types:  <em>,, ., ?, ", -, :, !, ..., …</em>
+The 10 most frequent `PUNCT` types:  <em>,, ., ?, -, «, », :, !, ..., …</em>
 
 The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="kpv_ikdp-pos-PUNCT.html">PUNCT</a></tt> 13, <tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> 1)
 
@@ -21,13 +21,13 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 0.900000 (the average of all parts of speech is 1.333333).
+The form / lemma ratio of `PUNCT` is 0.909091 (the average of all parts of speech is 1.332903).
 
-The 1st highest number of forms (2) was observed with the lemma “_”: <em>", ,</em>.
+The 1st highest number of forms (3) was observed with the lemma “_”: <em>,, «, »</em>.
 
 The 2nd highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “"”: <em>"</em>.
+The 3rd highest number of forms (1) was observed with the lemma “,”: <em>,</em>.
 
 `PUNCT` does not occur with any features.
 

@@ -8,27 +8,32 @@ udver: '2'
 
 This relation is universal.
 
-577 nodes (2%) are attached to their parents as `mark`.
+1344 nodes (1%) are attached to their parents as `mark`.
 
-574 instances of `mark` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.62564991334489.
+1340 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.63988095238095.
 
-The following 13 pairs of parts of speech are connected with `mark`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt> (449; 78% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt> (57; 10% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt> (45; 8% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt> (5; 1% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt>-<tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt>-<tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `mark`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt> (1054; 78% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt> (126; 9% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt> (106; 8% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt> (21; 2% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt> (15; 1% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-AUX.html">AUX</a></tt>-<tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt>-<tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 mark	color:blue
-1	Մանաւանդ	մանաւանդ	PART	_	_	5	discourse	_	Translit=Manawand|LTranslit=manawand|SpaceAfter=No
-2	,	,	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,
-3	եթէ	եթէ	SCONJ	_	_	5	mark	_	Translit=et’ē|LTranslit=et’ē
-4	Պոլիս	Պոլիս|Պօլիս	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	5	obl	_	Translit=Polis|LTranslit=Polis|Pòlis
-5	հանդիպած	հանդիպիլ	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=handipaç|LTranslit=handipil
-6	չըլլար	ըլլալ	AUX	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Neg|Tense=Imp|VerbForm=Fin	5	aux	_	Translit=čëllar|LTranslit=ëllal|SpaceAfter=No
-7	...	...	PUNCT	_	_	5	punct	_	Translit=...|LTranslit=...
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 3 mark	color:blue
+1	Հասկցար	հասկնալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=Haskc’ar|LTranslit=hasknal|SpaceAfter=No
+2	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
+3	որ	որ	SCONJ	_	_	8	mark	_	Translit=or|LTranslit=or
+4	օր	օր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	8	obl	_	Translit=òr|LTranslit=òr
+5	մըն	մը	DET	_	PronType=Art	4	det	_	Translit=mën|LTranslit=më
+6	ալ	ալ	ADV	_	_	4	advmod:emph	_	Translit=al|LTranslit=al
+7	պիտի	պիտի	AUX	_	Aspect=Prosp|Mood=Ind|Polarity=Pos	8	aux	_	Translit=piti|LTranslit=piti
+8	մոռնայիր	մոռնալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=2|Polarity=Pos|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	1	ccomp	_	Translit=moṙnayir|LTranslit=moṙnal
+9	թէ	թէ	SCONJ	_	_	10	mark	_	Translit=t’ē|LTranslit=t’ē
+10	եղած	ըլլալ	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	8	ccomp	_	Translit=eġaç|LTranslit=ëllal
+11	ես	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	aux	_	Translit=es|LTranslit=em|SpaceAfter=No
+12	:	:	PUNCT	_	Foreign=Yes	1	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -59,17 +64,18 @@ The following 13 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 3 mark	color:blue
-1	Յայտնի	յայտնի	ADJ	_	Degree=Pos	0	root	_	Translit=Yaytni|LTranslit=yaytni
-2	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	1	cop	_	Translit=ēr|LTranslit=em
+1	Կապ	կապ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	2	compound:lvc	_	Translit=Kap|LTranslit=kap
+2	չունի	ունիմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=čowni|LTranslit=ownim
 3	որ	որ	SCONJ	_	_	8	mark	_	Translit=or|LTranslit=or
-4	քիչ	քիչ	ADV	_	_	7	advmod	_	Translit=k’ič|LTranslit=k’ič
-5	շատ	շատ	ADV	_	_	4	compound	_	Translit=šat|LTranslit=šat
-6	ամենուն	ամէնը	PRON	_	Case=Dat|PronType=Tot	7	obl	_	Translit=amenown|LTranslit=amēnë
-7	հաճելի	հաճելի	ADJ	_	Degree=Pos	8	amod	_	Translit=hač̣eli|LTranslit=hač̣eli
-8	սպասաւոր	սպասաւոր	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	1	csubj	_	Translit=spasawor|LTranslit=spasawor
-9	մըն	մը	DET	_	PronType=Art	8	det	_	Translit=mën|LTranslit=më
-10	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	8	cop	_	Translit=ēr|LTranslit=em|SpaceAfter=No
-11	:	:	PUNCT	_	Foreign=Yes	1	punct	_	Translit=.|LTranslit=.
+4	ծնունդէդ	ծնունդ	NOUN	_	Animacy=Nhum|Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=2	8	nmod:npmod	_	Translit=çnowndēd|LTranslit=çnownd
+5	եօթ	եօթ|եօթը	NUM	_	NumForm=Word|NumType=Card	8	nummod	_	Translit=eòt’|LTranslit=eòt’|eòt’ë
+6	ու	ու	CCONJ	_	_	5	flat:frac	_	Translit=ow|LTranslit=ow
+7	կէս	կէս	NUM	_	NumForm=Word|NumType=Frac	5	flat:frac	_	Translit=kēs|LTranslit=kēs
+8	տասնամեակ	տասնամեակ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	2	csubj	_	Translit=tasnameak|LTranslit=tasnameak
+9	առաջ	առաջ	ADP	_	AdpType=Post	8	case	_	Translit=aṙaǰ|LTranslit=aṙaǰ
+10	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	8	cop	_	Translit=ēr|LTranslit=em
+11	Դէպքը	դէպք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	8	nsubj	_	Translit=Dēpk’ë|LTranslit=dēpk’|SpaceAfter=No
+12	:	:	PUNCT	_	Foreign=Yes	2	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

@@ -38,4 +38,4 @@ The negativeness feature is used to distinguish response
 - <b>неразбралата</b> жена / _nerazbralata zhena_ "the woman that did not understand"
 - <b>не вървя</b> / _ne varvya_ "I am not walking"
 - <b>не вървейки</b> / _ne varveyki_ "not walking"
-<!-- Interlanguage links updated Pá kvě 14 11:08:38 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:27 CET 2021 -->

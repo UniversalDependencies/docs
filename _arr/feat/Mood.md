@@ -9,8 +9,6 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Ind">Ind</a></td>
-  <td><a href="#Ind1">Ind1</a></td>
-  <td><a href="#Ind2">Ind2</a></td>
   <td><a href="#Opt">Opt</a></td>
   
   
@@ -27,26 +25,6 @@ Contiguity is more often associated with
 #### Examples
 
 * _<b>mbaʔeʔupaβiré</b>&nbsp;_ “After (having finished) eating”
-
-
-
-### <a name="Ind1">`Ind1`</a>: Indicative1
-
-Contiguity is more often associated with
-
-#### Examples
-
-* _<b>mbaʔeʔupaβiré</b>&nbsp;_ “After (having finished) eating”
-
-
-### <a name="Ind2">`Ind2`</a>: Indicative2
-
-Contiguity is more often associated with
-
-#### Examples
-
-* _<b>mbaʔeʔupaβiré</b>&nbsp;_ “After (having finished) eating”
-
 
 
 ### <a name="Opt">`Opt`</a>: Optative
@@ -71,4 +49,4 @@ Contiguity is more often associated with
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:34 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:22 CET 2021 -->

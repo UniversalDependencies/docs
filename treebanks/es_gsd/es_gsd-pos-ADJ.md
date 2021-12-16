@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>primera</em> (<tt><a href="es_gsd-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.441758 (the average of all parts of speech is 1.256161).
+The form / lemma ratio of `ADJ` is 1.441758 (the average of all parts of speech is 1.279343).
 
 The 1st highest number of forms (5) was observed with the lemma “primero”: <em>primer, primera, primeras, primero, primeros</em>.
 

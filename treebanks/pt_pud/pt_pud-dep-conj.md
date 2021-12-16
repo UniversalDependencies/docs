@@ -22,7 +22,7 @@ The following 34 pairs of parts of speech are connected with `conj`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 9 conj	color:blue
-1	O	o	DET	DT	Gender=Masc|Number=Sing	2	det	_	_
+1	O	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	esquema	esquema	NOUN	NN	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	faz	fazer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 4	dinheiro	dinheiro	NOUN	NN	Gender=Masc|Number=Sing	3	obj	_	_
@@ -67,14 +67,14 @@ The following 34 pairs of parts of speech are connected with `conj`: <tt><a href
 1	Entre	_	ADP	IN	_	2	case	_	_
 2	eles	_	PRON	PRP	Gender=Masc|Number=Plur|Person=3	3	obl	_	_
 3	está	estar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
-4	o	o	DET	DT	Gender=Masc|Number=Sing	6	det	_	_
+4	o	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 5	antigo	antigo	ADJ	JJ	Gender=Masc|Number=Sing	6	amod	_	_
 6	claustro	claustro	NOUN	NN	Gender=Masc|Number=Sing	3	nsubj	_	_
 7	de	de	ADP	INDT	_	9	case	_	_
-8	a	o	DET	_	Gender=Fem|Number=Sing	9	det	_	_
+8	a	o	DET	_	Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	abadia	abadia	NOUN	NN	Gender=Fem|Number=Sing	6	nmod	_	_
 10	de	de	ADP	INDT	_	12	case	_	_
-11	a	o	DET	_	Gender=Fem|Number=Sing	12	det	_	_
+11	a	o	DET	_	Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	igreja	igreja	NOUN	NN	Gender=Fem|Number=Sing	9	nmod	_	_
 13	de	de	ADP	IN	_	15	case	_	_
 14	São	são	ADJ	JJ	Gender=Masc|Number=Sing	15	amod	_	Proper=True

@@ -22,10 +22,10 @@ The following 1 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 acl:relcl	color:blue
-1	குமாருக்கு	குமார்	PROPN	_	Case=Dat|Number=Sing|Person=3	3	nsubj:nc	3:nsubj:nc	Translit=kumārukku|LTranslit=kumār
-2	வேண்டிய	வேண்டு	VERB	_	Tense=Past|VerbForm=Part	3	acl:relcl	3:acl:relcl	Translit=vēṇṭiya|LTranslit=vēṇṭu
-3	புத்தகம்	புத்தகம்	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	0:root	Translit=puttakam|LTranslit=puttakam
-4	.	.	PUNCT	_	PunctType=Peri	3	punct	3:punct	Translit=.|LTranslit=.
+1	குமாருக்கு	குமார்	PROPN	_	Case=Dat|Number=Sing|Person=3	3	nsubj:nc	_	Translit=kumārukku|LTranslit=kumār
+2	வேண்டிய	வேண்டு	VERB	_	Tense=Past|VerbForm=Part	3	acl:relcl	_	Translit=vēṇṭiya|LTranslit=vēṇṭu
+3	புத்தகம்	புத்தகம்	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	Translit=puttakam|LTranslit=puttakam
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

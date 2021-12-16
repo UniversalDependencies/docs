@@ -22,10 +22,10 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 vocative	color:blue
-1	அம்மா	அம்மா	NOUN	_	Case=Nom|Number=Sing|Person=3	3	vocative	3:vocative	Translit=ammā|LTranslit=ammā
-2	அது	அது	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nsubj	3:nsubj	Translit=atu|LTranslit=atu
-3	நேர்ந்தது	நேர்	VERB	_	Gender=Neut|Number=Sing|Person=3|Tense=Past	0	root	0:root	Translit=nērntatu|LTranslit=nēr
-4	.	.	PUNCT	_	PunctType=Peri	3	punct	3:punct	Translit=.|LTranslit=.
+1	அம்மா	அம்மா	NOUN	_	Case=Nom|Number=Sing|Person=3	3	vocative	_	Translit=ammā|LTranslit=ammā
+2	அது	அது	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	3	nsubj	_	Translit=atu|LTranslit=atu
+3	நேர்ந்தது	நேர்	VERB	_	Gender=Neut|Number=Sing|Person=3|Tense=Past	0	root	_	Translit=nērntatu|LTranslit=nēr
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

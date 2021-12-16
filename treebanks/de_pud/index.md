@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Georg Rehm, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Michael Mandl, Sebastian Bank, Martin Popel, Daniel Zeman.
 
 Repository: [UD_German-PUD](https://github.com/UniversalDependencies/UD_German-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_pud28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_pud29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-SA 3.0
 
@@ -86,7 +86,7 @@ employ ten-fold cross-validation.
 
 ## Features
 
-[Case](de_pud-feat-Case.html) – [Definite](de_pud-feat-Definite.html) – [Degree](de_pud-feat-Degree.html) – [Foreign](de_pud-feat-Foreign.html) – [Gender](de_pud-feat-Gender.html) – [Gender[psor]](de_pud-feat-Gender-psor.html) – [Mood](de_pud-feat-Mood.html) – [Number](de_pud-feat-Number.html) – [Number[psor]](de_pud-feat-Number-psor.html) – [NumType](de_pud-feat-NumType.html) – [Person](de_pud-feat-Person.html) – [Person[psor]](de_pud-feat-Person-psor.html) – [Polarity](de_pud-feat-Polarity.html) – [PronType](de_pud-feat-PronType.html) – [Tense](de_pud-feat-Tense.html) – [VerbForm](de_pud-feat-VerbForm.html)
+[AdpType](de_pud-feat-AdpType.html) – [Case](de_pud-feat-Case.html) – [Definite](de_pud-feat-Definite.html) – [Degree](de_pud-feat-Degree.html) – [Foreign](de_pud-feat-Foreign.html) – [Gender](de_pud-feat-Gender.html) – [Gender[psor]](de_pud-feat-Gender-psor.html) – [Mood](de_pud-feat-Mood.html) – [Number](de_pud-feat-Number.html) – [Number[psor]](de_pud-feat-Number-psor.html) – [NumType](de_pud-feat-NumType.html) – [Person](de_pud-feat-Person.html) – [Person[psor]](de_pud-feat-Person-psor.html) – [Polarity](de_pud-feat-Polarity.html) – [PronType](de_pud-feat-PronType.html) – [Tense](de_pud-feat-Tense.html) – [VerbForm](de_pud-feat-VerbForm.html)
 
 ## Relations
 
@@ -96,11 +96,11 @@ employ ten-fold cross-validation.
 
 
 <ul>
-<li>This corpus contains 1000 sentences, 21001 tokens and 21329 syntactic words.</li>
+<li>This corpus contains 1000 sentences, 21000 tokens and 21331 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2889 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 2888 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -108,12 +108,12 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 35 types of words that contain both letters and punctuation. Examples: Chr., v., I., bzw., B., St., ca., n., z., IV., Mrd., Nr., Addenbrooke's, Darius', Don', Dr., Hl., III., M.A., Mio., Männer., Pompeius', Smith', Thutmosis', VI., X., Zettel's, bleiben., didn', du., führen., tritt., u.a., werden., will.</li>
+<li>This corpus contains 35 types of words that contain both letters and punctuation. Examples: Chr., v., I., bzw., B., St., ca., n., IV., Mrd., Nr., Addenbrooke's, Darius', Don', Dr., Hl., III., M.A., Mio., Männer., Pompeius', Smith', Thutmosis', VI., X., Z., Zettel's, bleiben., didn', du., führen., tritt., u.a., werden., will.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 328 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 8 types of multi-word tokens. Examples: im, am, zum, zur, vom, beim, ins, ans.</li>
+<li>This corpus contains 331 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 9 types of multi-word tokens. Examples: im, am, zum, zur, vom, beim, ins, z., ans.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -211,10 +211,17 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
+  <li>Masc,Neut
+    <ul>
+      <li>DET: dem</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Neut
     <ul>
       <li>ADJ: letzten, ersten, Olympischen, eigenen, 8., drittes, karibische, neuen, 13., 1960er</li>
-      <li>ADP: z., z</li>
       <li>DET: das, dem, ein, des, die, den, der, einem, dies, dieses</li>
       <li>NOUN: Jahr, Jahre, Jahren, Jahrhundert, Mal, Land, Leben, Meer, Ende, Reich</li>
       <li>PRON: es, sich, das, die, ihr, was, sein, seines, sie, ihres</li>
@@ -247,7 +254,6 @@ employ ten-fold cross-validation.
   <li>Sing
     <ul>
       <li>ADJ: ersten, neue, eigene, große, britischen, erste, gemeinsamen, letzten, neuen, zweiten</li>
-      <li>ADP: z., z</li>
       <li>AUX: ist, war, wurde, wird, hat, hatte, kann, würde, muss, könnte</li>
       <li>DET: der, dem, die, das, des, eine, ein, den, einer, einem</li>
       <li>NOUN: Jahr, Zeit, Regierung, Stadt, Geschichte, Jahrhundert, Oktober, Teil, Film, Mal</li>
@@ -280,7 +286,7 @@ employ ten-fold cross-validation.
   <li>Dat
     <ul>
       <li>ADJ: ersten, letzten, neuen, selben, zweiten, 1., Vereinigten, besten, deutschen, gemeinsamen</li>
-      <li>ADP: z., z</li>
+      <li>ADP: zu</li>
       <li>DET: dem, der, den, einem, einer, dieser, diesem, anderen, vielen, beiden</li>
       <li>NOUN: Jahr, Jahren, Zeit, Jahrhundert, Bezug, Fall, Krieg, Leben, Region, Tag</li>
       <li>PRON: ihrer, ihm, denen, sich, seiner, der, ihren, ihr, dem, ihnen</li>
@@ -321,7 +327,6 @@ employ ten-fold cross-validation.
 <ul>
   <li>Def
     <ul>
-      <li>ADP: z., z</li>
       <li>DET: der, die, dem, den, das, des, diese, dieser, dies, dieses</li>
     </ul>
   </li>
@@ -458,6 +463,14 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
+  <li>Art
+    <ul>
+      <li>DET: dem</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Prs
     <ul>
       <li>PRON: seine, ihre, ihrer, seiner, ihr, sein, ihren, seinen, seines, ihrem</li>
@@ -524,7 +537,6 @@ employ ten-fold cross-validation.
   <li>3
     <ul>
       <li>ADJ: ersten, neue, letzten, neuen, große, politischen, Vereinigten, britische, britischen, eigene</li>
-      <li>ADP: z., z</li>
       <li>AUX: ist, war, wurde, wird, wurden, sind, hat, waren, hatte, kann</li>
       <li>DET: der, die, dem, den, das, des, eine, ein, einer, einem</li>
       <li>NOUN: Jahr, Jahre, Zeit, Jahren, Menschen, Regierung, Stadt, Geschichte, Jahrhundert, Oktober</li>
@@ -588,6 +600,18 @@ employ ten-fold cross-validation.
 
 <h3>Other Features</h3>
 
+
+<ul>
+  <li><a>AdpType</a>
+    <ul>
+      <li>Prep
+        <ul>
+          <li>ADP: zu</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Foreign</a>

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nsubj`: <tt><a href="id_csui-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
-1477 nodes (5%) are attached to their parents as `nsubj`.
+1764 nodes (6%) are attached to their parents as `nsubj`.
 
-1135 instances of `nsubj` (77%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.80839539607312.
+1429 instances of `nsubj` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.34240362811791.
 
-The following 25 pairs of parts of speech are connected with `nsubj`: <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (706; 48% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> (315; 21% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (300; 20% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (64; 4% instances), <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (28; 2% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-X.html">X</a></tt> (10; 1% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="id_csui-pos-AUX.html">AUX</a></tt>-<tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt>-<tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_csui-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="id_csui-pos-X.html">X</a></tt>-<tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="id_csui-pos-AUX.html">AUX</a></tt>-<tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="id_csui-pos-NUM.html">NUM</a></tt>-<tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="id_csui-pos-PRON.html">PRON</a></tt>-<tt><a href="id_csui-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_csui-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_csui-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 26 pairs of parts of speech are connected with `nsubj`: <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (687; 39% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (503; 29% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> (286; 16% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (128; 7% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (63; 4% instances), <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (27; 2% instances), <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (17; 1% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-X.html">X</a></tt> (10; 1% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="id_csui-pos-X.html">X</a></tt>-<tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt>-<tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="id_csui-pos-AUX.html">AUX</a></tt>-<tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="id_csui-pos-PRON.html">PRON</a></tt>-<tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="id_csui-pos-X.html">X</a></tt>-<tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_csui-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="id_csui-pos-AUX.html">AUX</a></tt>-<tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="id_csui-pos-NUM.html">NUM</a></tt>-<tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_csui-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_csui-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt>-<tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,12 +23,34 @@ The following 25 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 nsubj	color:blue
-1	Banyak	banyak	DET	DT	_	2	det	_	_
+1	Banyak	banyak	DET	DT	Number=Plur|PronType=Ind	2	det	_	_
 2	olahragawan	olahragawan	NOUN	NN	Number=Sing	4	nsubj	_	_
 3	terkenal	kenal	ADJ	JJ	_	2	amod	_	_
-4	melakukan	laku	VERB	VB	Voice=Act	0	root	_	_
+4	melakukan	laku	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
 5	nya	nya	PRON	PRP	Number=Sing|Person=3|PronType=Prs	4	obj	_	_
 6	.	.	PUNCT	.	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 nsubj	color:blue
+1	"	"	PUNCT	``	_	4	punct	_	SpaceAfter=No
+2	Mereka	mereka	PRON	PRP	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
+3	akan	akan	AUX	MD	_	4	aux	_	_
+4	mulai	mulai	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
+5	merokok	rokok	VERB	VB	Mood=Ind|Voice=Act	4	xcomp	_	_
+6	kalau	kalau	SCONJ	IN	_	7	mark	_	_
+7	melihat	lihat	VERB	VB	Mood=Ind|Voice=Act	5	advcl	_	_
+8	idola	idola	NOUN	NN	Number=Sing	10	nsubj	_	_
+9	mereka	mereka	PRON	PRP	Number=Plur|Person=3|PronType=Prs	8	nmod:poss	_	_
+10	merokok	rokok	VERB	VB	Mood=Ind|Voice=Act	7	ccomp	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
+12	"	"	PUNCT	''	_	4	punct	_	_
 
 ~~~
 
@@ -45,31 +67,9 @@ The following 25 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 4	pebasket	pebasket	NOUN	NN	Number=Sing	1	conj	_	_
 5	Michael	Michael	PROPN	NNP	_	4	nmod	_	_
 6	Jordan	Jordan	PROPN	NNP	_	5	flat:name	_	_
-7	melakukan	laku	VERB	VB	Voice=Act	0	root	_	_
+7	melakukan	laku	VERB	VB	Mood=Ind|Voice=Act	0	root	_	_
 8	nya	nya	PRON	PRP	Number=Sing|Person=3|PronType=Prs	7	obj	_	_
 9	.	.	PUNCT	.	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 nsubj	color:blue
-1	"	"	PUNCT	``	_	4	punct	_	SpaceAfter=No
-2	Mereka	Mereka	PRON	PRP	_	4	nsubj	_	_
-3	akan	akan	AUX	MD	_	4	aux	_	_
-4	mulai	mulai	VERB	VB	Voice=Act	0	root	_	_
-5	merokok	rokok	VERB	VB	Voice=Act	4	xcomp	_	_
-6	kalau	kalau	SCONJ	IN	_	7	mark	_	_
-7	melihat	lihat	VERB	VB	Voice=Act	5	advcl	_	_
-8	idola	idola	NOUN	NN	Number=Sing	10	nsubj	_	_
-9	mereka	mereka	PRON	PRP	Number=Plur|Person=3|PronType=Prs	8	nmod	_	_
-10	merokok	rokok	VERB	VB	Voice=Act	7	ccomp	_	SpaceAfter=No
-11	.	.	PUNCT	.	_	4	punct	_	SpaceAfter=No
-12	"	"	PUNCT	''	_	4	punct	_	_
 
 ~~~
 

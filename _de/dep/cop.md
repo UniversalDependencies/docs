@@ -22,4 +22,4 @@ cop(better, be)
 ~~~
 
 Note that the verbs sein and werden can be also used as full verbs. Examples for that case can be found under the `nsubj` relation.
-<!-- Interlanguage links updated Pá kvě 14 11:08:58 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:47 CET 2021 -->

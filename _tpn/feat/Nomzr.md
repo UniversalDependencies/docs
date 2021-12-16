@@ -13,6 +13,7 @@ udver: '2'
   <td><a href="#Ag">Ag</a></td>
   <td><a href="#Rel">Rel</a></td>
   <td><a href="#CCirc">CCirc</a></td>
+  <td><a href="#Hab">Hab</a></td>
   
   
 
@@ -77,10 +78,20 @@ The complement of circumstance 'the one who is (in)'
 
 
 
+### <a name="Hab">`Hab`</a>: Habitual
+
+The habitual nominalizer indicates that the subject often does X
+
+#### Examples
+
+* _<b>kaɲem-βor</b>&nbsp;_ “one who often flees”
+
+
+
 ## Diffs
 
 ### Prague Dependency Treebank
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Pá kvě 14 11:08:35 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:23 CET 2021 -->

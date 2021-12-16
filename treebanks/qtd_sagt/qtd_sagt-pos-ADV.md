@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Turkish_German-SAGT: POS Tags: `ADV`
 
-There are 400 `ADV` lemmas (9%), 407 `ADV` types (6%) and 6874 `ADV` tokens (18%).
+There are 400 `ADV` lemmas (9%), 407 `ADV` types (6%) and 6879 `ADV` tokens (18%).
 Out of 17 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 1 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>so, de, auch, hani, mesela, dann, also, yani, halt, jetzt</em>
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>so</em> (<tt><a href="qtd_sagt-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.017500 (the average of all parts of speech is 1.681057).
+The form / lemma ratio of `ADV` is 1.017500 (the average of all parts of speech is 1.679170).
 
 The 1st highest number of forms (3) was observed with the lemma “işte”: <em>işte, İş--, İşte</em>.
 
@@ -63,22 +63,22 @@ The 2nd highest number of forms (3) was observed with the lemma “mesela”: <e
 
 The 3rd highest number of forms (3) was observed with the lemma “ne”: <em>N--, ne, nese--</em>.
 
-`ADV` occurs with 1 features: <tt><a href="qtd_sagt-feat-Typo.html">Typo</a></tt> (4; 0% instances)
+`ADV` occurs with 1 features: <tt><a href="qtd_sagt-feat-Foreign.html">Foreign</a></tt> (1; 0% instances)
 
-`ADV` occurs with 1 feature-value pairs: `Typo=Yes`
+`ADV` occurs with 1 feature-value pairs: `Foreign=Yes`
 
 `ADV` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (6870 tokens).
+The most frequent feature combination is `_` (6878 tokens).
 Examples: <em>so, da, auch, hani, de, dann, mesela, also, yani, halt</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 28 different relations: <tt><a href="qtd_sagt-dep-advmod.html">advmod</a></tt> (5696; 83% instances), <tt><a href="qtd_sagt-dep-advmod-emph.html">advmod:emph</a></tt> (438; 6% instances), <tt><a href="qtd_sagt-dep-discourse.html">discourse</a></tt> (245; 4% instances), <tt><a href="qtd_sagt-dep-conj.html">conj</a></tt> (132; 2% instances), <tt><a href="qtd_sagt-dep-reparandum.html">reparandum</a></tt> (67; 1% instances), <tt><a href="qtd_sagt-dep-root.html">root</a></tt> (66; 1% instances), <tt><a href="qtd_sagt-dep-mark.html">mark</a></tt> (50; 1% instances), <tt><a href="qtd_sagt-dep-compound-prt.html">compound:prt</a></tt> (22; 0% instances), <tt><a href="qtd_sagt-dep-advcl.html">advcl</a></tt> (18; 0% instances), <tt><a href="qtd_sagt-dep-fixed.html">fixed</a></tt> (18; 0% instances), <tt><a href="qtd_sagt-dep-obl.html">obl</a></tt> (15; 0% instances), <tt><a href="qtd_sagt-dep-parataxis.html">parataxis</a></tt> (12; 0% instances), <tt><a href="qtd_sagt-dep-ccomp.html">ccomp</a></tt> (11; 0% instances), <tt><a href="qtd_sagt-dep-parataxis-discourse.html">parataxis:discourse</a></tt> (11; 0% instances), <tt><a href="qtd_sagt-dep-amod.html">amod</a></tt> (9; 0% instances), <tt><a href="qtd_sagt-dep-cc.html">cc</a></tt> (9; 0% instances), <tt><a href="qtd_sagt-dep-compound-redup.html">compound:redup</a></tt> (8; 0% instances), <tt><a href="qtd_sagt-dep-xcomp.html">xcomp</a></tt> (8; 0% instances), <tt><a href="qtd_sagt-dep-compound.html">compound</a></tt> (7; 0% instances), <tt><a href="qtd_sagt-dep-nsubj.html">nsubj</a></tt> (6; 0% instances), <tt><a href="qtd_sagt-dep-case.html">case</a></tt> (5; 0% instances), <tt><a href="qtd_sagt-dep-obj.html">obj</a></tt> (5; 0% instances), <tt><a href="qtd_sagt-dep-orphan.html">orphan</a></tt> (4; 0% instances), <tt><a href="qtd_sagt-dep-parataxis-trans.html">parataxis:trans</a></tt> (4; 0% instances), <tt><a href="qtd_sagt-dep-acl.html">acl</a></tt> (3; 0% instances), <tt><a href="qtd_sagt-dep-iobj.html">iobj</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-dep-appos.html">appos</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 28 different relations: <tt><a href="qtd_sagt-dep-advmod.html">advmod</a></tt> (5701; 83% instances), <tt><a href="qtd_sagt-dep-advmod-emph.html">advmod:emph</a></tt> (438; 6% instances), <tt><a href="qtd_sagt-dep-discourse.html">discourse</a></tt> (245; 4% instances), <tt><a href="qtd_sagt-dep-conj.html">conj</a></tt> (132; 2% instances), <tt><a href="qtd_sagt-dep-reparandum.html">reparandum</a></tt> (67; 1% instances), <tt><a href="qtd_sagt-dep-root.html">root</a></tt> (66; 1% instances), <tt><a href="qtd_sagt-dep-mark.html">mark</a></tt> (50; 1% instances), <tt><a href="qtd_sagt-dep-compound-prt.html">compound:prt</a></tt> (22; 0% instances), <tt><a href="qtd_sagt-dep-advcl.html">advcl</a></tt> (18; 0% instances), <tt><a href="qtd_sagt-dep-fixed.html">fixed</a></tt> (18; 0% instances), <tt><a href="qtd_sagt-dep-obl.html">obl</a></tt> (15; 0% instances), <tt><a href="qtd_sagt-dep-parataxis.html">parataxis</a></tt> (12; 0% instances), <tt><a href="qtd_sagt-dep-ccomp.html">ccomp</a></tt> (11; 0% instances), <tt><a href="qtd_sagt-dep-parataxis-discourse.html">parataxis:discourse</a></tt> (11; 0% instances), <tt><a href="qtd_sagt-dep-amod.html">amod</a></tt> (9; 0% instances), <tt><a href="qtd_sagt-dep-cc.html">cc</a></tt> (9; 0% instances), <tt><a href="qtd_sagt-dep-compound-redup.html">compound:redup</a></tt> (8; 0% instances), <tt><a href="qtd_sagt-dep-xcomp.html">xcomp</a></tt> (8; 0% instances), <tt><a href="qtd_sagt-dep-compound.html">compound</a></tt> (7; 0% instances), <tt><a href="qtd_sagt-dep-nsubj.html">nsubj</a></tt> (6; 0% instances), <tt><a href="qtd_sagt-dep-case.html">case</a></tt> (5; 0% instances), <tt><a href="qtd_sagt-dep-obj.html">obj</a></tt> (5; 0% instances), <tt><a href="qtd_sagt-dep-orphan.html">orphan</a></tt> (4; 0% instances), <tt><a href="qtd_sagt-dep-parataxis-trans.html">parataxis:trans</a></tt> (4; 0% instances), <tt><a href="qtd_sagt-dep-acl.html">acl</a></tt> (3; 0% instances), <tt><a href="qtd_sagt-dep-iobj.html">iobj</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-dep-appos.html">appos</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 15 different parts of speech: <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (4036; 59% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (937; 14% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (842; 12% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (397; 6% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (302; 4% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (134; 2% instances),  (66; 1% instances), <tt><a href="qtd_sagt-pos-PART.html">PART</a></tt> (44; 1% instances), <tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (36; 1% instances), <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (29; 0% instances), <tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (18; 0% instances), <tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt> (17; 0% instances), <tt><a href="qtd_sagt-pos-INTJ.html">INTJ</a></tt> (8; 0% instances), <tt><a href="qtd_sagt-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="qtd_sagt-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances)
+Parents of `ADV` nodes belong to 15 different parts of speech: <tt><a href="qtd_sagt-pos-VERB.html">VERB</a></tt> (4041; 59% instances), <tt><a href="qtd_sagt-pos-NOUN.html">NOUN</a></tt> (936; 14% instances), <tt><a href="qtd_sagt-pos-ADJ.html">ADJ</a></tt> (842; 12% instances), <tt><a href="qtd_sagt-pos-ADV.html">ADV</a></tt> (397; 6% instances), <tt><a href="qtd_sagt-pos-PRON.html">PRON</a></tt> (302; 4% instances), <tt><a href="qtd_sagt-pos-PROPN.html">PROPN</a></tt> (135; 2% instances),  (66; 1% instances), <tt><a href="qtd_sagt-pos-PART.html">PART</a></tt> (44; 1% instances), <tt><a href="qtd_sagt-pos-AUX.html">AUX</a></tt> (36; 1% instances), <tt><a href="qtd_sagt-pos-DET.html">DET</a></tt> (29; 0% instances), <tt><a href="qtd_sagt-pos-ADP.html">ADP</a></tt> (18; 0% instances), <tt><a href="qtd_sagt-pos-NUM.html">NUM</a></tt> (17; 0% instances), <tt><a href="qtd_sagt-pos-INTJ.html">INTJ</a></tt> (8; 0% instances), <tt><a href="qtd_sagt-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="qtd_sagt-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances)
 
-6342 (92%) `ADV` nodes are leaves.
+6347 (92%) `ADV` nodes are leaves.
 
 337 (5%) `ADV` nodes have one child.
 

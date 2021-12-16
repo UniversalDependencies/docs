@@ -34,7 +34,7 @@ The following 23 pairs of parts of speech are connected with `xcomp:pred`: <tt><
 10	b'	is	PART	Comp	Form=VF|PartType=Comp|Tense=Past|VerbForm=Cop	9	fixed	_	SpaceAfter=No
 11	fhearr	maith	ADJ	Adj	Degree=Cmp,Sup|Form=Len	7	conj	_	_
 12	i	i	ADP	Simp	_	13	case	_	_
-13	gcath	cath	NOUN	Noun	Case=NomAcc|Form=Ecl|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+13	gcath	cath	NOUN	Noun	Case=Nom|Form=Ecl|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~
@@ -49,9 +49,9 @@ The following 23 pairs of parts of speech are connected with `xcomp:pred`: <tt><
 1	Bhí	bí	VERB	PastInd	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 2	sí	sí	PRON	Pers	Gender=Fem|Number=Sing|Person=3	1	nsubj	_	_
 3	naoi	naoi	NUM	Num	NumType=Card	4	nummod	_	_
-4	mbliana	bliain	NOUN	Noun	Case=NomAcc|Form=Ecl|Gender=Fem|Number=Plur	1	xcomp:pred	_	_
+4	mbliana	bliain	NOUN	Noun	Case=Nom|Form=Ecl|Gender=Fem|Number=Plur	1	xcomp:pred	_	_
 5	agus	agus	CCONJ	Coord	_	6	cc	_	_
-6	leathchéad	leathchéad	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
+6	leathchéad	leathchéad	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
@@ -63,7 +63,7 @@ The following 23 pairs of parts of speech are connected with `xcomp:pred`: <tt><
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 xcomp:pred	color:blue
-1	Títhe	teach	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Plur	0	root	_	_
+1	Títhe	teach	NOUN	Noun	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
 2	lucht	lucht	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
 3	oibre	obair	NOUN	Noun	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
 4	ba	is	PART	Sup	PartType=Sup|Tense=Past|VerbForm=Cop	5	mark:prt	_	_

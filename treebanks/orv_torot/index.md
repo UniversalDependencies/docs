@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Hanne Eckhoff.
 
 Repository: [UD_Old_East_Slavic-TOROT](https://github.com/UniversalDependencies/UD_Old_East_Slavic-TOROT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udorv_torot28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udorv_torot29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-NC-SA 3.0
 

@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="la_ittb-pos-NUM.htm
 
 1635 <tt><a href="la_ittb-pos-NUM.html">NUM</a></tt> tokens (45% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1635; 100%), <tt><a href="la_ittb-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (1635; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1635; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1619; 99%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="la_ittb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1635; 100%), <tt><a href="la_ittb-feat-InflClass.html">InflClass</a></tt><tt>=Ind</tt> (1635; 100%), <tt><a href="la_ittb-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (1635; 100%), <tt><a href="la_ittb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1635; 100%), <tt><a href="la_ittb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1619; 99%).
 
 `NUM` tokens may have the following values of `NumForm`:
 

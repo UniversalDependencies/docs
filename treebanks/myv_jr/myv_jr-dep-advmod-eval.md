@@ -26,7 +26,7 @@ The following 9 pairs of parts of speech are connected with `advmod:eval`: <tt><
 1	―	―	PUNCT	PUNCT	_	5	punct	_	_
 2	Седеезэ	седей	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	nsubj	_	GTtags=Sg,Nom,PxSg3
 3	нать	нать	ADV	Adv	_	5	advmod:eval	_	GTtags=Parenthetic
-4	эзь	эзь	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	5	aux:neg	_	GTtags=VerbType=Aux,Neg,Ind,Prt1,ScSg3
+4	эзь	а	AUX	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	5	aux:neg	_	GTtags=VerbType=Aux,Neg,Ind,Prt1,ScSg3
 5	кирдть	кирдемс	VERB	V	Mood=Imp|Number[subj]=Sing|Person[subj]=2|Valency=2	0	root	_	GTtags=TV,Imprt,ScSg2|SpaceAfter=No
 6	.	.	PUNCT	CLB	_	5	punct	_	_
 

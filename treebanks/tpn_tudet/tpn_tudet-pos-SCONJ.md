@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 2.000000 (the average of all parts of speech is 1.424063).
+The form / lemma ratio of `SCONJ` is 2.000000 (the average of all parts of speech is 1.431068).
 
 The 1st highest number of forms (2) was observed with the lemma “jaβé”: <em>ijaβé, jaβépe</em>.
 
@@ -30,8 +30,8 @@ The 1st highest number of forms (2) was observed with the lemma “jaβé”: <e
 `SCONJ` occurs with 2 feature-value pairs: `Int=Yes`, `Rel=NCont`
 
 `SCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `Int=Yes` (1 tokens).
-Examples: <em>jaβépe</em>
+The most frequent feature combination is `Rel=NCont` (1 tokens).
+Examples: <em>ijaβé</em>
 
 
 ## Relations

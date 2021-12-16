@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="kpv_lattice-dep-aux.html">aux</a></tt>.
 There are also 4 other language-specific subtypes of `aux`: <tt><a href="kpv_lattice-dep-aux-aspect.html">aux:aspect</a></tt>, <tt><a href="kpv_lattice-dep-aux-nec.html">aux:nec</a></tt>, <tt><a href="kpv_lattice-dep-aux-neg.html">aux:neg</a></tt>, <tt><a href="kpv_lattice-dep-aux-tense.html">aux:tense</a></tt>.
 
-25 nodes (0%) are attached to their parents as `aux:pot`.
+26 nodes (0%) are attached to their parents as `aux:pot`.
 
-19 instances of `aux:pot` (76%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.56.
+19 instances of `aux:pot` (73%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.57692307692308.
 
-The following 1 pairs of parts of speech are connected with `aux:pot`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (25; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:pot`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (26; 100% instances).
 
 
 ~~~ conllu

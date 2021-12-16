@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-108 nodes (0%) are attached to their parents as `dep`.
+124 nodes (0%) are attached to their parents as `dep`.
 
-90 instances of `dep` (83%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.06481481481481.
+105 instances of `dep` (85%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.21774193548387.
 
-The following 11 pairs of parts of speech are connected with `dep`: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (48; 44% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (39; 36% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (7; 6% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (6; 6% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 13 pairs of parts of speech are connected with `dep`: <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (58; 47% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (42; 34% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (7; 6% instances), <tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (6; 5% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-PART.html">PART</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-VERB.html">VERB</a></tt>-<tt><a href="gd_arcosg-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-X.html">X</a></tt>-<tt><a href="gd_arcosg-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -53,7 +53,7 @@ The following 11 pairs of parts of speech are connected with `dep`: <tt><a href=
 1	Dalgleish	Dalgleish	PROPN	Nn	_	0	root	_	_
 2	[?]	[?]	X	Xx	_	1	dep	_	_
 3	bucais	bucas	NOUN	Ncsmg	Case=Gen|Gender=Masc|Number=Sing	2	dep	_	_
-4	na	an	DET	Tdpmg	Case=Gen|Gender=Masc|Number=Plur	5	det	_	_
+4	na	an	DET	Tdpmg	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	h-Astràilianaich	astràilianach	NOUN	Ncpmg	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
 6	agus	agus	CCONJ	Cc	_	7	cc	_	_
 7	Ratcliffe	Ratcliffe	PROPN	Nn	_	1	conj	_	_

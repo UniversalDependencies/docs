@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="id_pud-dep-nmod.html">nmod</a></tt>.
 There are also 2 other language-specific subtypes of `nmod`: <tt><a href="id_pud-dep-nmod-lmod.html">nmod:lmod</a></tt>, <tt><a href="id_pud-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-145 nodes (1%) are attached to their parents as `nmod:tmod`.
+143 nodes (1%) are attached to their parents as `nmod:tmod`.
 
-141 instances of `nmod:tmod` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.62758620689655.
+139 instances of `nmod:tmod` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.62937062937063.
 
-The following 10 pairs of parts of speech are connected with `nmod:tmod`: <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (81; 56% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (42; 29% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (9; 6% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (4; 3% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `nmod:tmod`: <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (80; 56% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (42; 29% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (9; 6% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (4; 3% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -64,7 +64,7 @@ The following 10 pairs of parts of speech are connected with `nmod:tmod`: <tt><a
 1	Tentu	tentu	ADV	_	_	5	advmod	_	_
 2	saja	saja	ADV	_	_	1	advmod	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	1	punct	_	_
-4	saya	saya	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+4	saya	saya	PRON	_	Number=Sing|Person=1|Polite=Form|PronType=Prs	5	nsubj	_	_
 5	mengerti	arti	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
 6	bahwa	bahwa	SCONJ	_	_	11	mark	_	_
 7	Jerman	Jerman	PROPN	_	_	11	nsubj:pass	_	_

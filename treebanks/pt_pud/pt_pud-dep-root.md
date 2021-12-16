@@ -22,13 +22,13 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 5 root	color:blue
-1	Os	o	DET	DT	Gender=Masc|Number=Plur	3	det	_	_
+1	Os	o	DET	DT	Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 2	novos	novo	ADJ	JJ	Gender=Masc|Number=Plur	3	amod	_	_
 3	gastos	gasto	NOUN	NN	Gender=Masc|Number=Plur	5	nsubj:pass	_	_
 4	são	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	aux:pass	_	_
 5	alimentados	_	VERB	VBN	Gender=Masc|Number=Plur	0	root	_	_
 6	por	por	ADP	INDT	_	9	case	_	_
-7	a	o	DET	_	Gender=Fem|Number=Sing	9	det	_	_
+7	a	o	DET	_	Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 8	grande	grande	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	_
 9	conta	conta	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	_
 10	bancária	bancário	ADJ	JJ	Gender=Fem|Number=Sing	9	amod	_	_
@@ -65,7 +65,7 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	fgColor:white
 # visual-style 0 7 root	color:blue
 1	Possivelmente	possivelmente	ADV	RB	_	7	advmod	_	_
-2	a	o	DET	DT	Gender=Fem|Number=Sing	3	det	_	_
+2	a	o	DET	DT	Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	indumentária	_	NOUN	NN	Gender=Fem|Number=Sing	7	nsubj	_	_
 4	aconselhada	aconselhado	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	_
 5	foi	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	cop	_	_

@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-1234 tokens (18%) have a non-empty value of `Person`.
+1235 tokens (18%) have a non-empty value of `Person`.
 316 types (24%) occur at least once with a non-empty value of `Person`.
 145 lemmas (15%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (558; 8% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (360; 5% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (316; 5% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> (558; 8% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> (360; 5% instances), <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (317; 5% instances).
 
 ### `AUX`
 
 558 <tt><a href="it_valico-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="it_valico-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (558; 100%), <tt><a href="it_valico-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (540; 97%), <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (523; 94%), <tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (384; 69%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="it_valico-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (558; 100%), <tt><a href="it_valico-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (541; 97%), <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (523; 94%), <tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (384; 69%).
 
 `AUX` tokens may have the following values of `Person`:
 
@@ -29,7 +29,6 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 <table>
   <tr><th>Paradigm <i>avere</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="it_valico-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>abbiamo</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it_valico-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>avevo</em></td><td></td><td><em>aveva</em></td></tr>
   <tr><td><tt><tt><a href="it_valico-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ho, he, h', o</em></td><td><em>hai</em></td><td><em>ha, a</em></td></tr>
   <tr><td><tt><tt><a href="it_valico-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>abiamo, abbiamo</em></td><td><em>avete</em></td><td><em>hanno</em></td></tr>
@@ -41,7 +40,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 360 <tt><a href="it_valico-pos-VERB.html">VERB</a></tt> tokens (37% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="it_valico-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (360; 100%), <tt><a href="it_valico-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (360; 100%), <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (338; 94%), <tt><a href="it_valico-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (333; 93%), <tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Imp</tt> (216; 60%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="it_valico-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (360; 100%), <tt><a href="it_valico-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (360; 100%), <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (338; 94%), <tt><a href="it_valico-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (335; 93%), <tt><a href="it_valico-feat-Tense.html">Tense</a></tt><tt>=Imp</tt> (216; 60%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -61,16 +60,16 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-316 <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> tokens (62% of all `PRON` tokens) have a non-empty value of `Person`.
+317 <tt><a href="it_valico-pos-PRON.html">PRON</a></tt> tokens (62% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="it_valico-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (316; 100%), <tt><a href="it_valico-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt> (242; 77%), <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (230; 73%), <tt><a href="it_valico-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (173; 55%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="it_valico-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (317; 100%), <tt><a href="it_valico-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt> (243; 77%), <tt><a href="it_valico-feat-Number.html">Number</a></tt><tt>=Sing</tt> (230; 73%), <tt><a href="it_valico-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (173; 55%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (91; 29% of non-empty `Person`): <em>mi, me, io, Noi, ci</em>
 * `2` (7; 2% of non-empty `Person`): <em>ti, vi</em>
-* `3` (218; 69% of non-empty `Person`): <em>si, la, lui, l', lei, lo, gli, le, li, se</em>
-* `EMPTY` (190): <em>che, niente, quello, c', lei, qualcosa, questo, ne, questa, cosa</em>
+* `3` (219; 69% of non-empty `Person`): <em>si, la, lui, l', lei, lo, gli, le, li, se</em>
+* `EMPTY` (192): <em>che, niente, quello, c', lei, qualcosa, questo, ne, questa, cosa</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (20) occur only with one value of `Person`.
 

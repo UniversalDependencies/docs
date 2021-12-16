@@ -22,24 +22,24 @@ The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 18	bgColor:blue
 # visual-style 18	fgColor:white
 # visual-style 18 11 ccomp	color:blue
-1	ša	ša	SCONJ	REL	_	11	mark	11:mark	ša
-2	ina	ina	ADP	PRP	_	3	case	3:case	ina
-3	šarrāni	šarru	NOUN	N	Gender=Masc|Number=Plur	11	obl	11:obl	MAN.MEŠ-ni
-4	abbī	abu	NOUN	N	Gender=Masc|NounBase=Suffixal|Number=Plur	3	appos	3:appos	AD.MEŠ-a
-5	ya	_	PRON	_	Number=Sing|Person=1	4	det:poss	4:det:poss	_
-6	mamma	mammāna	PRON	XP	_	11	nsubj	11:nsubj	ma-am-ma
-7	ina	ina	ADP	PRP	_	8	case	8:case	ina
-8	qereb	qerbu	NOUN	N	Case=Gen|Gender=Masc|NounBase=Suffixal|Number=Sing	11	obl	11:obl	qe₂-reb-šu₂-nu
-9	šunu	_	PRON	_	Gender=Masc|Number=Plur|Person=3	8	det:poss	8:det:poss	_
-10	lā	lā	PART	MOD	_	11	advmod	11:advmod	la
-11	iṭhû	ṭehû	VERB	V	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|VerbStem=G	18	ccomp	18:ccomp	_
-12	qurādī	qurādu	NOUN	N	Gender=Masc|NounBase=Suffixal|Number=Plur	18	nsubj	18:nsubj	qu-ra-di-ia
-13	ya	_	PRON	_	Number=Sing|Person=1	12	det:poss	12:det:poss	_
-14	kīma	kīma	ADP	PRP	_	15	case	15:case	GIM
-15	iṣṣūrī	iṣṣūru	NOUN	N	Gender=Masc|Number=Plur	18	obl	18:obl	_
-16	eli	eli	ADP	PRP	_	17	dep	17:dep	UGU-šu₂-nu
-17	šunu	_	PRON	_	Gender=Masc|Number=Plur|Person=3	18	obl	18:obl	_
-18	išēʾʾû	_	VERB	_	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|VerbStem=G	0	root	0:root	_
+1	ša	ša	SCONJ	REL	_	11	mark	_	ša
+2	ina	ina	ADP	PRP	_	3	case	_	ina
+3	šarrāni	šarru	NOUN	N	Gender=Masc|Number=Plur	11	obl	_	MAN.MEŠ-ni
+4	abbī	abu	NOUN	N	Gender=Masc|NounBase=Suffixal|Number=Plur	3	appos	_	AD.MEŠ-a
+5	ya	_	PRON	_	Number=Sing|Person=1	4	det:poss	_	_
+6	mamma	mammāna	PRON	XP	_	11	nsubj	_	ma-am-ma
+7	ina	ina	ADP	PRP	_	8	case	_	ina
+8	qereb	qerbu	NOUN	N	Case=Gen|Gender=Masc|NounBase=Suffixal|Number=Sing	11	obl	_	qe₂-reb-šu₂-nu
+9	šunu	_	PRON	_	Gender=Masc|Number=Plur|Person=3	8	det:poss	_	_
+10	lā	lā	PART	MOD	_	11	advmod	_	la
+11	iṭhû	ṭehû	VERB	V	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|VerbStem=G	18	ccomp	_	_
+12	qurādī	qurādu	NOUN	N	Gender=Masc|NounBase=Suffixal|Number=Plur	18	nsubj	_	qu-ra-di-ia
+13	ya	_	PRON	_	Number=Sing|Person=1	12	det:poss	_	_
+14	kīma	kīma	ADP	PRP	_	15	case	_	GIM
+15	iṣṣūrī	iṣṣūru	NOUN	N	Gender=Masc|Number=Plur	18	obl	_	_
+16	eli	eli	ADP	PRP	_	17	dep	_	UGU-šu₂-nu
+17	šunu	_	PRON	_	Gender=Masc|Number=Plur|Person=3	18	obl	_	_
+18	išēʾʾû	_	VERB	_	Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|VerbStem=G	0	root	_	_
 
 ~~~
 
@@ -50,14 +50,14 @@ The following 2 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 6 ccomp	color:blue
-1	ša	ša	PRON	DET	_	4	nsubj	4:nsubj	ša₂
-2	narû	_	NOUN	_	Gender=Masc|NounBase=Suffixal|Number=Sing	4	obj	4:obj	_
-3	wa	_	PRON	_	Number=Sing|Person=1	2	det	2:det	_
-4	emmaru	_	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Subordinative=Yes|Tense=Pres|VerbForm=Fin|VerbStem=G	0	root	0:root	_
-5	ma	_	CCONJ	_	_	8	cc	8:cc	_
-6	annâ	annû	DET	N	Case=Acc|Gender=Masc|NounBase=Free|Number=Sing	8	ccomp	8:ccomp	an-na-a
-7	mīna	mīnu	PRON	QP	Case=Acc	8	obj	8:obj	mi-na
-8	iqabbû	qabû	VERB	V	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Subordinative=Yes|Tense=Pres|VerbForm=Fin|VerbStem=G	4	conj	4:conj	i-qa-bu-u₂
+1	ša	ša	PRON	DET	_	4	nsubj	_	ša₂
+2	narû	_	NOUN	_	Gender=Masc|NounBase=Suffixal|Number=Sing	4	obj	_	_
+3	wa	_	PRON	_	Number=Sing|Person=1	2	det	_	_
+4	emmaru	_	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Subordinative=Yes|Tense=Pres|VerbForm=Fin|VerbStem=G	0	root	_	_
+5	ma	_	CCONJ	_	_	8	cc	_	_
+6	annâ	annû	DET	N	Case=Acc|Gender=Masc|NounBase=Free|Number=Sing	8	ccomp	_	an-na-a
+7	mīna	mīnu	PRON	QP	Case=Acc	8	obj	_	mi-na
+8	iqabbû	qabû	VERB	V	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Subordinative=Yes|Tense=Pres|VerbForm=Fin|VerbStem=G	4	conj	_	i-qa-bu-u₂
 
 ~~~
 

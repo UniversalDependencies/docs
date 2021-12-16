@@ -25,9 +25,9 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	Bhí	bí	VERB	PastInd	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 2	sí	sí	PRON	Pers	Gender=Fem|Number=Sing|Person=3	1	nsubj	_	_
 3	naoi	naoi	NUM	Num	NumType=Card	4	nummod	_	_
-4	mbliana	bliain	NOUN	Noun	Case=NomAcc|Form=Ecl|Gender=Fem|Number=Plur	1	xcomp:pred	_	_
+4	mbliana	bliain	NOUN	Noun	Case=Nom|Form=Ecl|Gender=Fem|Number=Plur	1	xcomp:pred	_	_
 5	agus	agus	CCONJ	Coord	_	6	cc	_	_
-6	leathchéad	leathchéad	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
+6	leathchéad	leathchéad	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
 7	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~
@@ -57,7 +57,7 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 7	fgColor:white
 # visual-style 7 8 nummod	color:blue
 1	Chosain	cosain	VERB	VTI	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
-2	féile	féile	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	_
+2	féile	féile	NOUN	Noun	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	_
 3	na	an	DET	Art	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	bliana	bliain	NOUN	Noun	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	2	nmod	_	_
 5	seo	seo	DET	Det	PronType=Dem	4	det	_	_

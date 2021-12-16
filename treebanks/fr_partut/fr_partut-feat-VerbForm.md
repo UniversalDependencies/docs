@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 
-3582 tokens (13%) have a non-empty value of `VerbForm`.
-1354 types (33%) occur at least once with a non-empty value of `VerbForm`.
-628 lemmas (21%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (2736; 10% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (846; 3% instances).
+3581 tokens (13%) have a non-empty value of `VerbForm`.
+1352 types (33%) occur at least once with a non-empty value of `VerbForm`.
+627 lemmas (21%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (2736; 10% instances), <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> (845; 3% instances).
 
 ### `VERB`
 
@@ -50,13 +50,13 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-846 <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+845 <tt><a href="fr_partut-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (636; 75%), <tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (611; 72%), <tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=3</tt> (610; 72%), <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (516; 61%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (635; 75%), <tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (610; 72%), <tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=3</tt> (610; 72%), <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (515; 61%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (676; 80% of non-empty `VerbForm`): <em>est, a, sont, ont, sera, soient, soit, suis, étaient, était</em>
+* `Fin` (675; 80% of non-empty `VerbForm`): <em>est, a, sont, ont, sera, soient, soit, suis, étaient, était</em>
 * `Inf` (84; 10% of non-empty `VerbForm`): <em>être, faire, avoir</em>
 * `Part` (86; 10% of non-empty `VerbForm`): <em>été, étant, ayant, faisant, fait</em>
 * `EMPTY` (1): <em>soit</em>
@@ -68,7 +68,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>serait</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>seraient</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>étais</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>suis, seuis</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>suis</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>sera</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>était</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_partut-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_partut-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>est</em></td><td></td><td></td></tr>

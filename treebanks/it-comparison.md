@@ -69,7 +69,7 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 6713 sentences, 119376 tokens and 124557 syntactic words.</li>
+      <li>This corpus contains 6712 sentences, 119342 tokens and 124523 syntactic words.</li>
       </ul>
     </td>
     <td width="14%" valign="top">
@@ -106,7 +106,7 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 13288 tokens (11%) that are not followed by a space.</li>
+      <li>This corpus contains 13279 tokens (11%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="14%" valign="top">
@@ -180,7 +180,7 @@ udver: '2'
     </td>
     <td width="14%" valign="top">
       <ul>
-      <li>This corpus contains 4116 types of words that contain both letters and punctuation. Examples: @user, l', #grillo, #monti, @user1, @user2, #governo, e', c', #serviziopubblico, @user3, #piazzapulita, #m5s, d', un', #manovra, #berlusconi, #mario, #politica, @user4, #lega, #ministri, #pd, #italia, :D, #Napolitano, po', #oramonti, #sapevatelo, #bersani, #rimontiamo, #pdl, @user5, B., #fullmonti, #bossi, c:, #rt, #crisi, #m5stour, #news, #roma, #fatepresto, #liberalizzazioni, #ballarò, #cinemaInChiesa, #movimento5stelle, #antipolitica, #opencamera, #postofisso</li>
+      <li>This corpus contains 4116 types of words that contain both letters and punctuation. Examples: @user, l', #grillo, #monti, @user1, @user2, #governo, e', c', #serviziopubblico, @user3, #piazzapulita, #m5s, d', un', #manovra, #berlusconi, #mario, #politica, @user4, #lega, #ministri, #pd, #italia, :D, #Napolitano, po', #oramonti, #sapevatelo, #bersani, #rimontiamo, #pdl, @user5, B., #fullmonti, #bossi, c:, #rt, #crisi, #m5stour, #news, #roma, #fatepresto, #liberalizzazioni, #ballarò, #movimento5stelle, #antipolitica, #cinemaInChiesa, #opencamera, #postofisso</li>
       </ul>
     </td>
     <td width="14%" valign="top">
@@ -1324,7 +1324,7 @@ udver: '2'
             <li>DET: le, i, gli, suoi, molti, delle, dei, miei, queste, sue</li>
             <li>NOUN: spalle, occhiali, parole, piedi, amici, capelli, anni, giardini, minuti, occhi</li>
             <li>NUM: diecisette</li>
-            <li>PRON: li, loro, tutti, entrambi, gli, le, Noi, altre, ci, cose</li>
+            <li>PRON: li, loro, le, tutti, entrambi, gli, Noi, altre, ci, cose</li>
             <li>VERB-Fin: litigavano, Cominciamo, DIVERTIVANO, ERANO, GIOCAVANO, Littigavano, arrivano, avevano, cantarono, colpivano</li>
             <li>VERB-Part: andati, caduti</li>
           </ul>
@@ -2393,8 +2393,7 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>AUX-Fin: abbiamo</li>
-            <li>VERB-Fin: lascia, scusi, aspetti, scusate, smetti, vai</li>
+            <li>VERB-Fin: lascia, scusi, aspetti, scusate, smetti, vada, vai</li>
           </ul>
         </li>
       </ul>
@@ -2542,7 +2541,7 @@ udver: '2'
         <li>Sub
           <ul>
             <li>AUX-Fin: fosse, abbia, avesse, dovesse, dovessi, possa, potesse, stesse, volesse</li>
-            <li>VERB-Fin: Pensa, accomoda, desse, dicesse, lasciasse, riceva, senta, vada</li>
+            <li>VERB-Fin: desse, dicesse, lasciasse, riceva, senta</li>
           </ul>
         </li>
       </ul>
@@ -3389,7 +3388,7 @@ udver: '2'
         <li>Int
           <ul>
             <li>DET: che</li>
-            <li>PRON: cosa, che, chi, cose</li>
+            <li>PRON: che, cosa, chi, cose</li>
           </ul>
         </li>
       </ul>
@@ -3717,7 +3716,7 @@ udver: '2'
       <ul>
         <li>Card
           <ul>
-            <li>NUM: 2, 3, 1, due, 5, 4, 7, 6, 10, 20</li>
+            <li>NUM: 2, 3, due, 1, 5, 4, 7, 6, 10, 20</li>
           </ul>
         </li>
       </ul>
@@ -4856,13 +4855,13 @@ udver: '2'
           <ul>
             <li>VERB--PRON (1)</li>
             <li>VERB-Fin--NOUN (81)</li>
-            <li>VERB-Fin--PRON (75)</li>
+            <li>VERB-Fin--PRON (74)</li>
             <li>VERB-Ger--NOUN (9)</li>
             <li>VERB-Ger--PRON (6)</li>
-            <li>VERB-Inf--NOUN (5)</li>
+            <li>VERB-Inf--NOUN (4)</li>
             <li>VERB-Inf--PRON (6)</li>
             <li>VERB-Part--NOUN (63)</li>
-            <li>VERB-Part--PRON (37)</li>
+            <li>VERB-Part--PRON (35)</li>
           </ul>
         </li>
       </ul>
@@ -4981,15 +4980,15 @@ udver: '2'
         <li><a>obj</a>
           <ul>
             <li>VERB--NOUN (1)</li>
-            <li>VERB-Fin--NOUN (100)</li>
-            <li>VERB-Fin--PRON (45)</li>
+            <li>VERB-Fin--NOUN (99)</li>
+            <li>VERB-Fin--PRON (47)</li>
             <li>VERB-Ger--NOUN (25)</li>
             <li>VERB-Ger--PRON (2)</li>
-            <li>VERB-Inf--NOUN (58)</li>
+            <li>VERB-Inf--NOUN (59)</li>
             <li>VERB-Inf--PRON (40)</li>
-            <li>VERB-Part--NOUN (93)</li>
+            <li>VERB-Part--NOUN (92)</li>
             <li>VERB-Part--NOUN-ADP(a) (1)</li>
-            <li>VERB-Part--PRON (65)</li>
+            <li>VERB-Part--PRON (67)</li>
           </ul>
         </li>
       </ul>
@@ -5084,7 +5083,7 @@ udver: '2'
             <li>VERB-Ger--PRON (2)</li>
             <li>VERB-Inf--PRON (3)</li>
             <li>VERB-Part--NOUN (1)</li>
-            <li>VERB-Part--PRON (22)</li>
+            <li>VERB-Part--PRON (23)</li>
           </ul>
         </li>
       </ul>
@@ -5238,7 +5237,7 @@ udver: '2'
       <ul>
       <li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>det:poss</a>, <a>det:predet</a>, <a>expl:impers</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
       <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
-      <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>reparandum</a></li>
+      <li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>compound</a>, <a>list</a>, <a>reparandum</a></li>
       </ul>
     </td>
   </tr>

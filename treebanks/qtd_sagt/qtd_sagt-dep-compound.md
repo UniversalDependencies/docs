@@ -23,16 +23,16 @@ The following 15 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 compound	color:blue
-1	Yani	yani	ADV	_	_	6	advmod	_	LangID=TR
-2	hangisi	hangisi	PRON	_	Case=Nom|Number=Sing|Person=3	6	obj	_	LangID=TR
-3	daha	daha	ADV	_	_	6	advmod	_	LangID=TR
-4	fazla	fazla	ADJ	_	_	6	advmod	_	LangID=TR
-5	hoşuna	hoş	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	compound	_	LangID=TR
-6	gitti	git	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	LangID=TR
-7	zu	zu	ADP	_	_	9	case	_	LangID=DE
-8	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	LangID=DE
-9	Lesen	lesen	VERB	_	VerbForm=Inf	6	obl	_	LangID=DE|SpaceAfter=No
-10	?	?	PUNCT	_	_	6	punct	_	LangID=OTHER
+1	Yani	yani	ADV	_	_	6	advmod	_	CSID=TR|Lang=tr
+2	hangisi	hangisi	PRON	_	Case=Nom|Number=Sing|Person=3	6	obj	_	CSID=TR|Lang=tr
+3	daha	daha	ADV	_	_	6	advmod	_	CSID=TR|Lang=tr
+4	fazla	fazla	ADJ	_	_	6	advmod	_	CSID=TR|Lang=tr
+5	hoşuna	hoş	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	compound	_	CSID=TR|Lang=tr
+6	gitti	git	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	CSID=TR|Lang=tr
+7	zu	zu	ADP	_	_	9	case	_	CSID=DE|Lang=de
+8	dem	der	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	CSID=DE|Lang=de
+9	Lesen	lesen	VERB	_	VerbForm=Inf	6	obl	_	CSID=DE|Lang=de|SpaceAfter=No
+10	?	?	PUNCT	_	_	6	punct	_	CSID=OTHER
 
 ~~~
 
@@ -43,17 +43,17 @@ The following 15 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 compound	color:blue
-1	En	en	ADV	_	_	2	advmod	_	LangID=TR
-2	son	son	NOUN	_	Case=Nom|Number=Sing	10	obl	_	LangID=TR
-3	sinemaya	sinema	NOUN	_	Case=Dat|Number=Sing	10	obl	_	LangID=TR
-4	belki	belki	ADV	_	_	10	advmod	_	LangID=TR
-5	eh	eh	INTJ	_	_	10	discourse	_	LangID=TR
-6	vor	vor	ADP	_	_	9	case	_	LangID=DE
-7	ein	ein	NUM	_	NumType=Card	8	compound	_	LangID=DE
-8	zwei	zwei	NUM	_	NumType=Card	9	nummod	_	LangID=DE
-9	Monaten	Monat	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	10	obl	_	LangID=DE
-10	gittim	git	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	LangID=TR|SpaceAfter=No
-11	.	.	PUNCT	_	_	10	punct	_	LangID=OTHER
+1	En	en	ADV	_	_	2	advmod	_	CSID=TR|Lang=tr
+2	son	son	NOUN	_	Case=Nom|Number=Sing	10	obl	_	CSID=TR|Lang=tr
+3	sinemaya	sinema	NOUN	_	Case=Dat|Number=Sing	10	obl	_	CSID=TR|Lang=tr
+4	belki	belki	ADV	_	_	10	advmod	_	CSID=TR|Lang=tr
+5	eh	eh	INTJ	_	_	10	discourse	_	CSID=TR|Lang=tr
+6	vor	vor	ADP	_	_	9	case	_	CSID=DE|Lang=de
+7	ein	ein	NUM	_	NumType=Card	8	compound	_	CSID=DE|Lang=de
+8	zwei	zwei	NUM	_	NumType=Card	9	nummod	_	CSID=DE|Lang=de
+9	Monaten	Monat	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	10	obl	_	CSID=DE|Lang=de
+10	gittim	git	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	CSID=TR|Lang=tr|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	CSID=OTHER
 
 ~~~
 
@@ -64,13 +64,13 @@ The following 15 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 compound	color:blue
-1	Ben	ben	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	LangID=TR
-2	ondan	o	PRON	_	Case=Abl|Number=Sing|Person=3|PronType=Prs	6	advmod	_	LangID=TR
-3	sonra	sonra	ADP	_	_	2	fixed	_	LangID=TR
-4	ona	o	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	6	obl	_	LangID=TR
-5	wechseln	wechseln	VERB	_	VerbForm=Inf	6	compound	_	LangID=DE
-6	edeceğim	et	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	_	LangID=TR|SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	_	LangID=OTHER
+1	Ben	ben	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	CSID=TR|Lang=tr
+2	ondan	o	PRON	_	Case=Abl|Number=Sing|Person=3|PronType=Prs	6	advmod	_	CSID=TR|Lang=tr
+3	sonra	sonra	ADP	_	_	2	fixed	_	CSID=TR|Lang=tr
+4	ona	o	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	6	obl	_	CSID=TR|Lang=tr
+5	wechseln	wechseln	VERB	_	VerbForm=Inf	6	compound	_	CSID=DE|Lang=de
+6	edeceğim	et	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	_	CSID=TR|Lang=tr|SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	CSID=OTHER
 
 ~~~
 

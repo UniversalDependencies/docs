@@ -37,4 +37,4 @@ When paired with 的 _de_, the adjective acts as head of the particle in a [mark
 2	problem"	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:08:50 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:39 CET 2021 -->

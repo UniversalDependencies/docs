@@ -11,6 +11,7 @@ udver: '2'
   <td><a href="#Perm">Perm</a></td>
   <td><a href="#Sub">Sub</a></td>
   <td><a href="#Cnd">Cnd</a></td>
+  <td><a href="#Imp">Imp</a></td>
   
   
 </tr>
@@ -47,6 +48,14 @@ Contiguity is more often associated with
 
 * _<b>mbaʔeʔupaβiré</b>&nbsp;_ “After (having finished) eating”
 
+### <a name="Imp">`Imp`</a>: Imperative
+
+
+
+#### Examples
+
+* _<b></b>&nbsp;_ “”
+
 
 
 ## Diffs
@@ -56,4 +65,4 @@ Contiguity is more often associated with
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:34 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:23 CET 2021 -->

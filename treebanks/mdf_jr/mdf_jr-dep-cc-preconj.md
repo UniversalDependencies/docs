@@ -22,7 +22,7 @@ The following 2 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 cc:preconj	color:blue
-1	Сясы	сясы	SCONJ	CS	_	5	mark	_	_
+1	Сясы	сяс	SCONJ	CS	Clitic=I	5	mark	_	_
 2	синь	сон	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
 3	сембе	сембе	ADV	Adv	_	2	advmod	_	_
 4	и	и	CCONJ	CC	_	5	cc:preconj	_	_

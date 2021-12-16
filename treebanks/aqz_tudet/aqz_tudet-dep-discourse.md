@@ -22,14 +22,14 @@ The following 8 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 discourse	color:blue
-1	oatap	atap	NOUN	n	Person=1	7	nsubj	7:nsubj	_
-2	ãka	ãka	PART	pcl	_	1	discourse	1:discourse	_
-3	ẽ	ẽ	INTJ	intj	_	1	discourse	1:discourse	_
-4	ẽ	ẽ	INTJ	intj	_	1	discourse	1:discourse	_
-5	,	,	PUNCT	punct	_	1	punct	1:punct	_
-6	oatap	atap	NOUN	n	Person=1	7	obj	7:obj	_
-7	õkwa	õkwa	VERB	vi	_	0	root	0:root	_
-8	on	on	PRON	pron	Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj	_
+1	oatap	atap	NOUN	n	Person=1	7	nsubj	_	_
+2	ãka	ãka	PART	pcl	_	1	discourse	_	_
+3	ẽ	ẽ	INTJ	intj	_	1	discourse	_	_
+4	ẽ	ẽ	INTJ	intj	_	1	discourse	_	_
+5	,	,	PUNCT	punct	_	1	punct	_	_
+6	oatap	atap	NOUN	n	Person=1	7	obj	_	_
+7	õkwa	õkwa	VERB	vi	_	0	root	_	_
+8	on	on	PRON	pron	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 
 ~~~
 
@@ -40,9 +40,9 @@ The following 8 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 discourse	color:blue
-1	Pura	Pura	PROPN	pn	_	2	nsubj	2:nsubj	_
-2	ikoa	ko	VERB	vt	Person=3|Tv=Yes	0	root	0:root	_
-3	te	te	PART	pclfoc	_	2	discourse	2:discourse	_
+1	Pura	Pura	PROPN	pn	_	2	nsubj	_	_
+2	ikoa	ko	VERB	vt	Person=3|Tv=Yes	0	root	_	_
+3	te	te	PART	pclfoc	_	2	discourse	_	_
 
 ~~~
 
@@ -53,14 +53,14 @@ The following 8 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 discourse	color:blue
-1	oatap	atap	NOUN	n	Person=1	7	nsubj	7:nsubj	_
-2	ãka	ãka	PART	pcl	_	1	discourse	1:discourse	_
-3	ẽ	ẽ	INTJ	intj	_	1	discourse	1:discourse	_
-4	ẽ	ẽ	INTJ	intj	_	1	discourse	1:discourse	_
-5	,	,	PUNCT	punct	_	1	punct	1:punct	_
-6	oatap	atap	NOUN	n	Person=1	7	obj	7:obj	_
-7	õkwa	õkwa	VERB	vi	_	0	root	0:root	_
-8	on	on	PRON	pron	Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj	_
+1	oatap	atap	NOUN	n	Person=1	7	nsubj	_	_
+2	ãka	ãka	PART	pcl	_	1	discourse	_	_
+3	ẽ	ẽ	INTJ	intj	_	1	discourse	_	_
+4	ẽ	ẽ	INTJ	intj	_	1	discourse	_	_
+5	,	,	PUNCT	punct	_	1	punct	_	_
+6	oatap	atap	NOUN	n	Person=1	7	obj	_	_
+7	õkwa	õkwa	VERB	vi	_	0	root	_	_
+8	on	on	PRON	pron	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 
 ~~~
 

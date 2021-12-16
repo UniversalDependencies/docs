@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal but the values `Cop`, `Vnoun` are language-specific.
 It occurs with 4 different values: `Cop`, `Inf`, `Part`, `Vnoun`.
 
-6673 tokens (6%) have a non-empty value of `VerbForm`.
-1217 types (8%) occur at least once with a non-empty value of `VerbForm`.
-902 lemmas (10%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 6 part-of-speech tags: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (4100; 4% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (1555; 1% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (915; 1% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (80; 0% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (20; 0% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (3; 0% instances).
+6672 tokens (6%) have a non-empty value of `VerbForm`.
+1216 types (8%) occur at least once with a non-empty value of `VerbForm`.
+901 lemmas (10%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 6 part-of-speech tags: <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> (4100; 4% instances), <tt><a href="ga_idt-pos-AUX.html">AUX</a></tt> (1555; 1% instances), <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> (914; 1% instances), <tt><a href="ga_idt-pos-SCONJ.html">SCONJ</a></tt> (80; 0% instances), <tt><a href="ga_idt-pos-PART.html">PART</a></tt> (20; 0% instances), <tt><a href="ga_idt-pos-PRON.html">PRON</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
@@ -48,16 +48,16 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 ### `ADJ`
 
-915 <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> tokens (14% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
+914 <tt><a href="ga_idt-pos-ADJ.html">ADJ</a></tt> tokens (14% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (915; 100%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (915; 100%), <tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (915; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (915; 100%), <tt><a href="ga_idt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (914; 100%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (888; 97%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (914; 100%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (914; 100%), <tt><a href="ga_idt-feat-NounType.html">NounType</a></tt><tt>=EMPTY</tt> (914; 100%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (914; 100%), <tt><a href="ga_idt-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (913; 100%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (887; 97%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
-* `Part` (915; 100% of non-empty `VerbForm`): <em>déanta, curtha, bunaithe, leagtha, aontaithe, caite, tugtha, scríofa, dírithe, fostaithe</em>
-* `EMPTY` (5603): <em>maith, mór, nua, amháin, mó, náisiúnta, éagsúla, sibhialta, céanna, léir</em>
+* `Part` (914; 100% of non-empty `VerbForm`): <em>déanta, curtha, bunaithe, leagtha, aontaithe, caite, tugtha, scríofa, dírithe, fostaithe</em>
+* `EMPTY` (5604): <em>maith, mór, nua, amháin, mó, náisiúnta, éagsúla, sibhialta, céanna, léir</em>
 
-`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (298) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (296) occur only with one value of `VerbForm`.
 
 ### `SCONJ`
 

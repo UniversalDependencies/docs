@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5593 nodes (5%) are attached to their parents as `root`.
+5598 nodes (5%) are attached to their parents as `root`.
 
-5593 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.89057750759878.
+5598 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.97070382279385.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (4202; 75% instances), -<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (944; 17% instances), -<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (199; 4% instances), -<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (144; 3% instances), -<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (59; 1% instances), -<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (16; 0% instances), -<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (13; 0% instances), -<tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (10; 0% instances), -<tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), -<tt><a href="id_gsd-pos-PART.html">PART</a></tt> (1; 0% instances), -<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), -<tt><a href="id_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="id_gsd-pos-VERB.html">VERB</a></tt> (4202; 75% instances), -<tt><a href="id_gsd-pos-NOUN.html">NOUN</a></tt> (947; 17% instances), -<tt><a href="id_gsd-pos-PROPN.html">PROPN</a></tt> (193; 3% instances), -<tt><a href="id_gsd-pos-PRON.html">PRON</a></tt> (137; 2% instances), -<tt><a href="id_gsd-pos-ADJ.html">ADJ</a></tt> (68; 1% instances), -<tt><a href="id_gsd-pos-ADV.html">ADV</a></tt> (20; 0% instances), -<tt><a href="id_gsd-pos-NUM.html">NUM</a></tt> (13; 0% instances), -<tt><a href="id_gsd-pos-ADP.html">ADP</a></tt> (11; 0% instances), -<tt><a href="id_gsd-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), -<tt><a href="id_gsd-pos-SYM.html">SYM</a></tt> (2; 0% instances), -<tt><a href="id_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="id_gsd-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), -<tt><a href="id_gsd-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -39,8 +39,8 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	fgColor:white
 # visual-style 0 5 root	color:blue
 1	Let	let	PROPN	F--	_	5	nsubj	_	MorphInd=^let<f>_F--$
-2	It	it	PROPN	F--	_	1	flat	_	MorphInd=^it<f>_F--$
-3	Shine	shine	PROPN	X--	_	2	flat	_	MorphInd=^shine<x>_X--$
+2	It	it	PROPN	F--	_	1	flat:name	_	MorphInd=^it<f>_F--$
+3	Shine	shine	PROPN	X--	_	2	flat:name	_	MorphInd=^shine<x>_X--$
 4	adalah	adalah	AUX	O--	_	5	cop	_	MorphInd=^adalah<o>_O--$
 5	film	film	NOUN	NSD	Number=Sing	0	root	_	MorphInd=^film<n>_NSD$
 6	televisi	televisi	NOUN	NSD	Number=Sing	5	compound	_	MorphInd=^televisi<n>_NSD$
@@ -57,7 +57,7 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
 1	SURO	suro	PROPN	X--	_	0	root	_	MorphInd=^suro<x>_X--$
-2	SEDONO	sedono	PROPN	X--	_	1	flat	_	MorphInd=^sedono<x>_X--$
+2	SEDONO	sedono	PROPN	X--	_	1	flat:name	_	MorphInd=^sedono<x>_X--$
 3	1887	1887	NUM	CC-	NumType=Card	1	nummod	_	MorphInd=^1887<c>_CC-$
 4	-	-	PUNCT	Z--	_	5	punct	_	MorphInd=^-<z>_Z--$
 5	1899	1899	NUM	CC-	NumType=Card	1	nummod	_	MorphInd=^1899<c>_CC-$

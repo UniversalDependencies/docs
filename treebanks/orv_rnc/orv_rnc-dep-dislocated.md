@@ -53,21 +53,21 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 1 dislocated	color:blue
-1	Печенѣги	печенѣгъ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	10	dislocated	_	Norm=Печенѣги|SpaceAfter=Yes
-2	же	же	PART	_	_	1	advmod	_	Norm=же|SpaceAfter=Yes
-3	устремившаяся	устремитися	VERB	_	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	1	acl	_	Norm=устремившаяся|SpaceAfter=Yes
-4	бранію	брань	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	3	iobj	_	Norm=бранію|SpaceAfter=Yes
-5	на	на	ADP	_	_	6	case	_	Norm=на|SpaceAfter=Yes
-6	отечество	отечество	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obl	_	Norm=отечество|SpaceAfter=Yes
+1	Печенѣги	печенѣгъ	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	10	dislocated	_	Norm=Печенѣги
+2	же	же	PART	_	_	1	advmod	_	Norm=же
+3	устремившаяся	устремитися	VERB	_	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	1	acl	_	Norm=устремившаяся
+4	бранію	брань	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	3	iobj	_	Norm=бранію
+5	на	на	ADP	_	_	6	case	_	Norm=на
+6	отечество	отечество	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obl	_	Norm=отечество
 7	его	онъ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	det	_	Norm=его|SpaceAfter=No
-8	,	,	PUNCT	_	_	1	punct	_	Norm=,|SpaceAfter=Yes
-9	и	и	CCONJ	_	_	14	cc	_	Norm=и|SpaceAfter=Yes
-10	сихъ	сей	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem	14	obj	_	Norm=сихъ|SpaceAfter=Yes
-11	Божіею	божий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	Norm=Божіею|SpaceAfter=Yes
-12	помощію	помощь	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	14	iobj	_	Norm=помощію|SpaceAfter=Yes
-13	преславно	преславно	ADV	_	Degree=Pos	14	advmod	_	Norm=преславно|SpaceAfter=Yes
+8	,	,	PUNCT	_	_	1	punct	_	Norm=,
+9	и	и	CCONJ	_	_	14	cc	_	Norm=и
+10	сихъ	сей	DET	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur|PronType=Dem	14	obj	_	Norm=сихъ
+11	Божіею	божий	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	Norm=Божіею
+12	помощію	помощь	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	14	iobj	_	Norm=помощію
+13	преславно	преславно	ADV	_	Degree=Pos	14	advmod	_	Norm=преславно
 14	победи	побѣдити	VERB	Tense=Aor	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Norm=победи|SpaceAfter=No
-15	.	.	PUNCT	_	_	14	punct	_	Norm=.|SpaceAfter=Yes
+15	.	.	PUNCT	_	_	14	punct	_	Norm=.
 
 ~~~
 
@@ -78,7 +78,7 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 3 dislocated	color:blue
-1	Такъжо	также	CCONJ	_	Degree=Pos	8	cc	_	_
+1	Такъжо	также	CCONJ	_	_	8	cc	_	_
 2	и	и	PART	_	_	3	advmod	_	_
 3	немъцомъ	немецъ	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	7	dislocated	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
@@ -115,7 +115,7 @@ The following 4 pairs of parts of speech are connected with `dislocated`: <tt><a
 35	псковъскую	псковский	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	36	amod	_	_
 36	сторону	сторона	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	30	obl	_	SpaceAfter=No
 37	,	,	PUNCT	_	_	27	punct	_	_
-38	ино	ино	SCONJ	_	Degree=Pos	42	mark	_	_
+38	ино	ино	SCONJ	_	_	42	mark	_	_
 39	в	въ	ADP	_	_	41	case	_	_
 40	томъ	тотъ	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	42	obl	_	_
 41	пени	пеня	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	42	nsubj	_	_

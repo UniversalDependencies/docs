@@ -50,6 +50,8 @@ used as such (similar to the gerund in English).
 #### Examples
 
 * [de] _ich muss <b>gehen</b>_ “I must <b>go</b>”
+* [pt] _eu preciso <b>ir</b>_ “I must <b>go</b>”
+
 
 ### <a name="Sup">`Sup`</a>: supine
 
@@ -147,4 +149,4 @@ Also called masdars by some authors, e.g. Haspelmath, 1995.
 
 * Haspelmath, Martin. 1995. The converb as a cross-linguistically valid category. _Converbs in Cross-Linguistic Perspective: Structure and Meaning of Adverbial Verb Forms – Adverbial Participles, Gerunds –,_ edited by Martin Haspelmath and Ekkehard König, Berlin: Mouton de Gruyter, Empirical Approaches to Language Typology, 1–56.
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:43 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:32 CET 2021 -->

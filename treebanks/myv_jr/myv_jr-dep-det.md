@@ -8,30 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-307 nodes (2%) are attached to their parents as `det`.
+314 nodes (2%) are attached to their parents as `det`.
 
-298 instances of `det` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.27035830618892.
+305 instances of `det` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.26751592356688.
 
-The following 9 pairs of parts of speech are connected with `det`: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (144; 47% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-DET.html">DET</a></tt> (135; 44% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-DET.html">DET</a></tt> (5; 2% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (2; 1% instances).
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 det	color:blue
-1	Весе	весе	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Tot	2	det	_	GTtags=Tot,Sg,Nom,Indef
-2	тайгась	тайга	NOUN	N	Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	GTtags=Sg,Nom,Def
-3	уды	удомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	GTtags=IV,Ind,Prs,ScSg3
-4	кеме	кеме	ADJ	A	_	7	amod	_	GTtags=|SpaceAfter=No
-5	,	,	PUNCT	CLB	_	6	punct	_	_
-6	плотна	плотна	ADJ	A	_	7	amod	_	_
-7	удомасо	удома	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	3	obl	_	GTtags=SP,Ine,Indef|SpaceAfter=No
-8	.	.	PUNCT	CLB	_	3	punct	_	_
-
-~~~
+The following 9 pairs of parts of speech are connected with `det`: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-DET.html">DET</a></tt> (145; 46% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (141; 45% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (7; 2% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt>-<tt><a href="myv_jr-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="myv_jr-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt>-<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (2; 1% instances).
 
 
 ~~~ conllu
@@ -54,6 +36,24 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 12	шканть	шка	NOUN	N	Case=Gen|Definite=Def|Number=Sing	9	obl	_	GTtags=Sg,Gen,Def
 13	эйстэ	эйстэ	ADP	Adp	AdvType=Loc|Case=Ela	12	case	_	GTtags=Spat,Ela|SpaceAfter=No
 14	.	.	PUNCT	CLB	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 det	color:blue
+1	Весе	весе	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Tot	2	det	_	GTtags=Tot,Sg,Nom,Indef
+2	тайгась	тайга	NOUN	N	Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	GTtags=Sg,Nom,Def
+3	уды	удомс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|Valency=1	0	root	_	GTtags=IV,Ind,Prs,ScSg3
+4	кеме	кеме	ADJ	A	_	7	amod	_	GTtags=|SpaceAfter=No
+5	,	,	PUNCT	CLB	_	6	punct	_	_
+6	плотна	плотна	ADJ	A	_	7	amod	_	_
+7	удомасо	удома	NOUN	N	Case=Ine|Definite=Ind|Number=Plur,Sing	3	obl	_	GTtags=SP,Ine,Indef|SpaceAfter=No
+8	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

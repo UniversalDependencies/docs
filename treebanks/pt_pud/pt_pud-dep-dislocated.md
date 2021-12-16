@@ -33,7 +33,7 @@ The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a
 9	lá	lá	ADV	RB	_	6	advmod	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	14	punct	_	_
 11	em	em	ADP	INDT	_	14	case	_	_
-12	o	o	DET	_	Gender=Masc|Number=Sing	14	det	_	_
+12	o	o	DET	_	Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 13	mesmo	_	DET	DT	Gender=Masc|Number=Sing	14	det	_	_
 14	ano	ano	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	6	punct	_	_

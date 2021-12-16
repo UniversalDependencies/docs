@@ -24,14 +24,14 @@ The following 20 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 8 1 advmod	color:blue
 1	Anteriormente	anteriormente	ADV	RB	_	8	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	,	_	1	punct	_	_
-3	os	o	DET	DT	Gender=Masc|Number=Plur	4	det	_	_
+3	os	o	DET	DT	Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
 4	jatos	jato	NOUN	NN	Gender=Masc|Number=Plur	8	nsubj:pass	_	_
 5	só	só	ADV	RB	_	8	advmod	_	_
 6	tinham	ter	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past	8	aux	_	_
 7	sido	ser	AUX	VBN	_	8	aux:pass	_	_
 8	vistos	_	VERB	VBN	Gender=Masc|Number=Plur	0	root	_	_
 9	por	por	ADP	INDT	_	11	case	_	_
-10	os	o	DET	_	Gender=Masc|Number=Plur	11	det	_	_
+10	os	o	DET	_	Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
 11	blogueiros	_	NOUN	NN	Gender=Masc|Number=Plur	8	obl	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	8	punct	_	_
 
@@ -45,7 +45,7 @@ The following 20 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 7	fgColor:white
 # visual-style 7 1 advmod	color:blue
 1	Possivelmente	possivelmente	ADV	RB	_	7	advmod	_	_
-2	a	o	DET	DT	Gender=Fem|Number=Sing	3	det	_	_
+2	a	o	DET	DT	Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	indumentária	_	NOUN	NN	Gender=Fem|Number=Sing	7	nsubj	_	_
 4	aconselhada	aconselhado	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	_
 5	foi	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	7	cop	_	_
@@ -62,17 +62,17 @@ The following 20 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 6 advmod	color:blue
-1	O	o	DET	DT	Gender=Masc|Number=Sing	2	det	_	_
+1	O	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	resultado	resultado	NOUN	NN	Gender=Masc|Number=Sing	9	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	4	punct	_	_
 4	então	então	ADV	RB	_	9	discourse	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	4	punct	_	_
 6	dificilmente	dificilmente	ADV	RB	_	9	advmod	_	_
 7	é	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	cop	_	_
-8	o	o	DET	DT	Gender=Masc|Number=Sing	9	det	_	_
+8	o	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	pijama	pijama	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 10	de	de	ADP	INDT	_	12	case	_	_
-11	o	o	DET	_	Gender=Masc|Number=Sing	12	det	_	_
+11	o	o	DET	_	Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	gato	gato	NOUN	NN	Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No|ToDo=nmod
 13	.	.	PUNCT	.	_	9	punct	_	_
 

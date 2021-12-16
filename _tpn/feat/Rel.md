@@ -10,8 +10,9 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Cont">Cont</a></td>
   <td><a href="#NCont">NCont</a></td>
-  <td><a href="#Abs">Abs</a></td>
   <td><a href="#Hum">Hum</a></td>
+  <td><a href="#Corf">Corf</a></td>
+  <td><a href="#Abs">Abs</a></td>
   
   
 </tr>
@@ -45,27 +46,27 @@ Non-contiguity is more often associated with
 * _<b>s-orɨβ</b>&nbsp;_ “(S)he/it is happy / there is her/his/its/their happiness”
 * _<b>s-orɨβ-a</b>&nbsp;_ “Her/his/their/its happiness”
 
-### <a name="Abs">`Abs`</a>: absolute
+### <a name="Hum">`Hum`</a>: Human
 
-Abslute relational indicates that the possessor
-
-#### Examples
-
-* _<b>t-uβ</b>&nbsp;_ “(There is a) (someone's)  father / ”
-* _<b>t-uβ-a</b>&nbsp;_ “A/the father(s)”
-
-* _<b>s-orɨβ</b>&nbsp;_ “(There is a) (someone's) happiness”
-* _<b>s-orɨβ-a</b>&nbsp;_ “Someone's happiness”
-
-
-### <a name="Hum">`Hum`</a>: human
-
-Abslute relational indicates that the possessor
+Huma relational indicates that the possessor
 
 #### Examples
 
-* _<b>m</b>osanga &nbsp;_ “medicine (of people)”
-* _<b></b>posanga &nbsp;_ “medicine”
+* _<b>m.osanga</b> &nbsp;_ “medicine (of people)”
+* _<b></b>posanga</b> &nbsp;_ “medicine”
+* _<b>toʔo</b> &nbsp;_ “flesh (human)”
+* _<b>soʔo</b> &nbsp;_ “flesh (non-human)”
+
+
+### <a name="Corf">`Corf`</a>: Coreferential
+
+The correferential relational indicates that the possessor
+
+#### Examples
+
+* _<b>i-sɨ</b> &nbsp;_ “his mother”
+* _<b>o-sɨ</b> &nbsp;_ “his own mother”
+
 
 
 ## Diffs
@@ -74,4 +75,4 @@ Abslute relational indicates that the possessor
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Pá kvě 14 11:08:41 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:29 CET 2021 -->

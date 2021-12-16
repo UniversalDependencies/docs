@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="pt_bosque-dep-expl.html">expl</a></tt>.
 
-1 nodes (0%) are attached to their parents as `expl:pass`.
+3 nodes (0%) are attached to their parents as `expl:pass`.
 
-1 instances of `expl:pass` (100%) are right-to-left (child precedes parent).
+2 instances of `expl:pass` (67%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (3; 100% instances).
 
 
 ~~~ conllu

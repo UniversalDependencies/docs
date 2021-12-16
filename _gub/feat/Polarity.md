@@ -9,7 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Neg">Neg</a></td>
-  
+  <td><a href="#Pos">Pos</a></td>
   
   
 </tr>
@@ -24,6 +24,14 @@ udver: '2'
 * _<b>n-u-Z-apo</b>&nbsp;_ “He doesn't do" 
 
 </tr>
+
+### <a name="Pos">`Pos`</a>: positive
+
+#### Examples
+
+* _<b>Heʔe</b>&nbsp;_ “Yes" 
+
+</tr>
 </table>
 
 
@@ -33,4 +41,4 @@ udver: '2'
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Pá kvě 14 11:08:38 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:27 CET 2021 -->

@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal but the values `Fh` are language-specific.
 It occurs with 2 different values: `Fh`, `Nfh`.
 
-25133 tokens (10%) have a non-empty value of `Evident`.
-6307 types (13%) occur at least once with a non-empty value of `Evident`.
-2787 lemmas (13%) occur at least once with a non-empty value of `Evident`.
-The feature is used with 2 part-of-speech tags: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (19038; 8% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (6095; 2% instances).
+26297 tokens (10%) have a non-empty value of `Evident`.
+6457 types (13%) occur at least once with a non-empty value of `Evident`.
+2836 lemmas (13%) occur at least once with a non-empty value of `Evident`.
+The feature is used with 2 part-of-speech tags: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (19912; 8% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (6385; 2% instances).
 
 ### `VERB`
 
-19038 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (49% of all `VERB` tokens) have a non-empty value of `Evident`.
+19912 <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> tokens (49% of all `VERB` tokens) have a non-empty value of `Evident`.
 
-The most frequent other feature values with which `VERB` and `Evident` co-occurred: <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (19038; 100%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (19038; 100%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (19038; 100%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (19038; 100%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (19038; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (19038; 100%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (19032; 100%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (18857; 99%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (17205; 90%), <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (15929; 84%).
+The most frequent other feature values with which `VERB` and `Evident` co-occurred: <tt><a href="lv_lvtb-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (19912; 100%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (19912; 100%), <tt><a href="lv_lvtb-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (19912; 100%), <tt><a href="lv_lvtb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (19912; 100%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (19912; 100%), <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (19912; 100%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (19906; 100%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19728; 99%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (17981; 90%), <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (16714; 84%).
 
 `VERB` tokens may have the following values of `Evident`:
 
-* `Fh` (18857; 99% of non-empty `Evident`): <em>ir, var, nav, bija, nevar, būs, teica, notiek, sāka, stāsta</em>
-* `Nfh` (181; 1% of non-empty `Evident`): <em>esot, neesot, nevarot, varot, gribot, iekarot, mīlot, varēšot, būšot, drīkstot</em>
-* `EMPTY` (19918): <em>varētu, iespējams, darīt, nepieciešams, izmantot, strādāt, dzīvot, iet, vajadzētu, būt</em>
+* `Fh` (19728; 99% of non-empty `Evident`): <em>ir, var, nav, bija, nevar, būs, teica, notiek, sāka, stāsta</em>
+* `Nfh` (184; 1% of non-empty `Evident`): <em>esot, neesot, nevarot, varot, gribot, iekarot, mīlot, varēšot, būšot, drīkstot</em>
+* `EMPTY` (20992): <em>varētu, iespējams, darīt, nepieciešams, izmantot, strādāt, iet, dzīvot, runāt, vajadzētu</em>
 
 <table>
   <tr><th>Paradigm <i>būt</i></th><th><tt>Nfh</tt></th><th><tt>Fh</tt></th></tr>
@@ -40,7 +40,7 @@ The most frequent other feature values with which `VERB` and `Evident` co-occurr
   <tr><td><tt><tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td><em>nebūs</em></td></tr>
   <tr><td><tt><tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>nebija</em></td></tr>
   <tr><td><tt><tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>nav</em></td></tr>
-  <tr><td><tt><tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td><em>būs</em></td></tr>
+  <tr><td><tt><tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td><em>būs, nebūs</em></td></tr>
   <tr><td><tt><tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>bija</em></td></tr>
   <tr><td><tt><tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="lv_lvtb-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>Tr</em></td></tr>
   <tr><td><tt><tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>ir, bij, bija</em></td></tr>
@@ -49,19 +49,19 @@ The most frequent other feature values with which `VERB` and `Evident` co-occurr
   <tr><td><tt><tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=Qot</tt>|<tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>esot</em></td><td></td></tr>
 </table>
 
-`Evident` seems to be **lexical feature** of `VERB`. 97% lemmas (2691) occur only with one value of `Evident`.
+`Evident` seems to be **lexical feature** of `VERB`. 97% lemmas (2740) occur only with one value of `Evident`.
 
 ### `AUX`
 
-6095 <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> tokens (91% of all `AUX` tokens) have a non-empty value of `Evident`.
+6385 <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> tokens (91% of all `AUX` tokens) have a non-empty value of `Evident`.
 
-The most frequent other feature values with which `AUX` and `Evident` co-occurred: <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (6095; 100%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6095; 100%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5954; 98%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt> (5513; 90%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (5202; 85%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4370; 72%).
+The most frequent other feature values with which `AUX` and `Evident` co-occurred: <tt><a href="lv_lvtb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (6385; 100%), <tt><a href="lv_lvtb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6385; 100%), <tt><a href="lv_lvtb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6240; 98%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt> (5777; 90%), <tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (5443; 85%), <tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4582; 72%).
 
 `AUX` tokens may have the following values of `Evident`:
 
-* `Fh` (5954; 98% of non-empty `Evident`): <em>ir, bija, nav, tiek, tika, būs, esmu, tiks, nebija, esam</em>
-* `Nfh` (141; 2% of non-empty `Evident`): <em>esot, neesot, būšot, tiekot, nebūšot, tikšot</em>
-* `EMPTY` (629): <em>būtu, būt, bijis, jābūt, nebūtu, bijusi, tiktu, tikt, bijuši, ticis</em>
+* `Fh` (6240; 98% of non-empty `Evident`): <em>ir, bija, nav, tiek, tika, būs, esmu, tiks, nebija, esam</em>
+* `Nfh` (145; 2% of non-empty `Evident`): <em>esot, neesot, būšot, tiekot, nebūšot, tikšot</em>
+* `EMPTY` (657): <em>būtu, būt, bijis, jābūt, nebūtu, bijusi, tikt, tiktu, bijuši, ticis</em>
 
 <table>
   <tr><th>Paradigm <i>būt</i></th><th><tt>Nfh</tt></th><th><tt>Fh</tt></th></tr>
@@ -101,13 +101,13 @@ The most frequent other feature values with which `AUX` and `Evident` co-occurre
 ## Relations with Agreement in `Evident`
 
 The 10 most frequent relations where parent and child node agree in `Evident`:
-<tt>VERB --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (3439; 77%),
-<tt>VERB --[<tt><a href="lv_lvtb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (341; 64%),
-<tt>AUX --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (7; 88%),
-<tt>AUX --[<tt><a href="lv_lvtb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (4; 80%),
-<tt>AUX --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> AUX</tt> (3; 100%),
+<tt>VERB --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (3591; 77%),
+<tt>VERB --[<tt><a href="lv_lvtb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (363; 64%),
+<tt>AUX --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> VERB</tt> (8; 80%),
+<tt>VERB --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> AUX</tt> (6; 86%),
+<tt>AUX --[<tt><a href="lv_lvtb-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (4; 67%),
+<tt>AUX --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> AUX</tt> (4; 100%),
 <tt>VERB --[<tt><a href="lv_lvtb-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (3; 75%),
-<tt>VERB --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> AUX</tt> (3; 75%),
 <tt>AUX --[<tt><a href="lv_lvtb-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (2; 100%),
 <tt>VERB --[<tt><a href="lv_lvtb-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (2; 100%).
 

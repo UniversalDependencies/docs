@@ -36,4 +36,4 @@ Non-periphrastic comparative and superlative [el-feat/Degree](degrees)  of Greek
 - _ακατάληπτος_, "incomprehensible"
 - _πρώτος, δεύτερος, τρίτος_, "first, second, third"
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:16 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:06 CET 2021 -->

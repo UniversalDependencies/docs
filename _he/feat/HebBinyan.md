@@ -83,4 +83,4 @@ Template `hitCaCeC`. Reflexive, reciprocal or middle voice.
 
 * _<b>hitkatev</b>_ “corresponded”
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:33 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:22 CET 2021 -->

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-536 nodes (5%) are attached to their parents as `mark`.
+527 nodes (5%) are attached to their parents as `mark`.
 
-453 instances of `mark` (85%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.83208955223881.
+452 instances of `mark` (86%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.83301707779886.
 
-The following 17 pairs of parts of speech are connected with `mark`: <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> (200; 37% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-PART.html">PART</a></tt> (172; 32% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-ADP.html">ADP</a></tt> (127; 24% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-PART.html">PART</a></tt> (6; 1% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> (5; 1% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="am_att-pos-AUX.html">AUX</a></tt>-<tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt>-<tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="am_att-pos-ADP.html">ADP</a></tt>-<tt><a href="am_att-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="am_att-pos-ADV.html">ADV</a></tt>-<tt><a href="am_att-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="am_att-pos-AUX.html">AUX</a></tt>-<tt><a href="am_att-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="am_att-pos-AUX.html">AUX</a></tt>-<tt><a href="am_att-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `mark`: <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> (201; 38% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-PART.html">PART</a></tt> (174; 33% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-ADP.html">ADP</a></tt> (128; 24% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-PART.html">PART</a></tt> (6; 1% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> (5; 1% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="am_att-pos-AUX.html">AUX</a></tt>-<tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="am_att-pos-ADJ.html">ADJ</a></tt>-<tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="am_att-pos-ADV.html">ADV</a></tt>-<tt><a href="am_att-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="am_att-pos-AUX.html">AUX</a></tt>-<tt><a href="am_att-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -75,7 +75,7 @@ The following 17 pairs of parts of speech are connected with `mark`: <tt><a href
 7	ጓዝ	ጓዝ	NOUN	NOUN	_	10	advcl	_	Translit=gwazə|LTranslit=gwazə
 8	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	7	nmod	_	Translit='u|LTranslit='u
 9	ን	ን	PART	ACC	_	7	case	_	Translit=nə|LTranslit=nə
-10	ይዝ	ይዝ	VERB	VERB	_	13	advmod	_	Translit=jəzə|LTranslit=jəzə
+10	ይዝ	ይዝ	VERB	VERB	_	13	advcl	_	Translit=jəzə|LTranslit=jəzə
 11	ኦ	ኦ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	10	expl	_	Translit='o|LTranslit='o
 12	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	13	expl	_	Translit=jə|LTranslit=jə
 13	ምጣ	ምጣ	VERB	VERB	_	0	root	_	Translit=məţa|LTranslit=məţa

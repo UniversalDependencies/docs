@@ -31,7 +31,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 8	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	9	det:poss	_	_
 9	raggazzo	raggazzo	NOUN	S	Gender=Masc|Number=Sing	6	obj	_	_
-10	co	così	ADV	B	_	6	advmod	_	_
+10	co	cosi	ADV	B	_	6	advmod	_	_
 11	si	_	X	_	_	10	goeswith	_	SpaceAfter=No
 12	,	,	PUNCT	FF	_	6	punct	_	_
 13	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	cop	_	_

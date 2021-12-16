@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-134 nodes (21%) are attached to their parents as `punct`.
+157 nodes (21%) are attached to their parents as `punct`.
 
-95 instances of `punct` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.6044776119403.
+114 instances of `punct` (73%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.45859872611465.
 
-The following 5 pairs of parts of speech are connected with `punct`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (104; 78% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (24; 18% instances), <tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (3; 2% instances), <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `punct`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (126; 80% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (25; 16% instances), <tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (3; 2% instances), <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt>-<tt><a href="apu_ufpa-pos-PUNCT.html">PUNCT</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

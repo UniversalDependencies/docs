@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 5	que	_	PRON	WP	_	6	obj	_	_
 6	precisamos	precisar	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres	4	acl:relcl	_	_
 7	em	em	ADP	INDT	_	10	case	_	_
-8	o	o	DET	_	Gender=Masc|Number=Sing	10	det	_	_
+8	o	o	DET	_	Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 9	nosso	_	PRON	DTP$	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs	10	det	_	_
 10	país	país	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 11	,	,	PUNCT	,	_	12	punct	_	_

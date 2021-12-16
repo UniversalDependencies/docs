@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>bhfuil</em> (<tt><a href="ga_idt-pos-
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 3.840449 (the average of all parts of speech is 1.643740).
+The form / lemma ratio of `VERB` is 3.840449 (the average of all parts of speech is 1.643911).
 
 The 1st highest number of forms (71) was observed with the lemma “bí”: <em>Bheinn, Bhíomar, Bím, Bítear, Nílim, Táimse, ata, atá, atáid, atáim, atáimse, atáthar, beadh, beidh, beifear, beimid, bheadh, bheas, bheidh, bheidís, bheifeá, bheifí, bheimid, bheimís, bheitheá, bhfuil, bhfuilid, bhfuilimid, bhfuilimíd, bhfuiltear, bhéas, bhéidh, bhí, bhídís, bhímid, bhíodar, bhíodh, bhíonn, bhíos, bhíothas, bígí, bímid, bíodh, bíonn, fuil, mbeadh, mbeidh, mbeidís, mbeifear, mbeifeá, mbeimid, mbeimis, mbeinn, mbímid, mbímis, mbínn, mbínnse, mbíodh, mbíonn, níl, nílirse, rabhadar, rabhamar, rabhas, rabhthas, raibh, tá, táid, táim, táimid, táthar</em>.
 

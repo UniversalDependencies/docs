@@ -74,4 +74,4 @@ Attributive or associative relations between two nouns, or a pronoun and a noun,
 ~~~
 
 But if a noun modifies another noun without the particle 嘅 _ge3_, and the relationship is not a possessive one, it is treated as a noun-noun compound (see [compound]()).
-<!-- Interlanguage links updated Pá kvě 14 11:09:10 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:58 CET 2021 -->

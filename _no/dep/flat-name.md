@@ -21,4 +21,4 @@ Universitetet i Bergen
 flat:name(Universitetet-1,i-2)
 flat:name(Universitetet-1,Bergen-3)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:09:06 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:55 CET 2021 -->

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-16 nodes (2%) are attached to their parents as `case`.
+18 nodes (2%) are attached to their parents as `case`.
 
-16 instances of `case` (100%) are left-to-right (parent precedes child).
+18 instances of `case` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 4 pairs of parts of speech are connected with `case`: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> (8; 50% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt>-<tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> (5; 31% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt>-<tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> (1; 6% instances).
+The following 4 pairs of parts of speech are connected with `case`: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> (10; 56% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt>-<tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> (5; 28% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (2; 11% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt>-<tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> (1; 6% instances).
 
 
 ~~~ conllu

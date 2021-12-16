@@ -75,7 +75,7 @@ The most frequent other feature values with which `PRON` and `Dialect` co-occurr
 
 13 <tt><a href="ga_idt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Dialect`.
 
-The most frequent other feature values with which `NOUN` and `Dialect` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt> (11; 85%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11; 85%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (10; 77%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (10; 77%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (9; 69%).
+The most frequent other feature values with which `NOUN` and `Dialect` co-occurred: <tt><a href="ga_idt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (11; 85%), <tt><a href="ga_idt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11; 85%), <tt><a href="ga_idt-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (10; 77%), <tt><a href="ga_idt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (10; 77%), <tt><a href="ga_idt-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (9; 69%).
 
 `NOUN` tokens may have the following values of `Dialect`:
 

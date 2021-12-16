@@ -11,7 +11,7 @@ This relation is a language-specific subtype of <tt><a href="de_hdt-dep-csubj.ht
 919 nodes (0%) are attached to their parents as `csubj:pass`.
 
 717 instances of `csubj:pass` (78%) are left-to-right (parent precedes child).
-Average distance between parent and child is 10.3068552774755.
+Average distance between parent and child is 10.4417845484222.
 
 The following 6 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (830; 90% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (32; 3% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (32; 3% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (20; 2% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-X.html">X</a></tt> (1; 0% instances).
 

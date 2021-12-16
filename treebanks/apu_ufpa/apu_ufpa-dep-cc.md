@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-8 nodes (1%) are attached to their parents as `cc`.
+9 nodes (1%) are attached to their parents as `cc`.
 
-8 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.5.
+9 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.33333333333333.
 
-The following 4 pairs of parts of speech are connected with `cc`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-CCONJ.html">CCONJ</a></tt> (4; 50% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-CCONJ.html">CCONJ</a></tt> (2; 25% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (1; 13% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (1; 13% instances).
+The following 4 pairs of parts of speech are connected with `cc`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-CCONJ.html">CCONJ</a></tt> (4; 44% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-CCONJ.html">CCONJ</a></tt> (3; 33% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (1; 11% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (1; 11% instances).
 
 
 ~~~ conllu
@@ -33,22 +33,17 @@ The following 4 pairs of parts of speech are connected with `cc`: <tt><a href="a
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 1 cc	color:blue
-1	Txamary	txamary	CCONJ	XPOS=AUX-FRUST	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	4	cc	_	gloss[pt]=AUX-FRUST-3SG.M.O
-2	nynuwa	nynuwa	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	gloss[pt]=3PL
-3	kuna	kuna	PART	XPOS=não	_	4	advmod:neg	_	gloss[pt]=não
-4	kadinhẽrutene	dinhẽru	NOUN	XPOS=ATRIB-dinheiro-POSSD-3PL	_	0	root	_	gloss[pt]=ATRIB-dinheiro-POSSD-3PL|SpaceAfter=No
-5	,	,	PUNCT	_	_	10	punct	_	_
-6	txamary	txamary	CCONJ	XPOS=AUX-FRUSTR	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	10	cc	_	gloss[pt]=AUX-FRUSTR-3SG.M.O
-7	nynuwa	nynuwa	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	gloss[pt]=3PL
-8	kaiãapukury	kaiãapukury	VERB	XPOS=muito-DISTR-M	_	10	acl	_	gloss[pt]=muito-DISTR-M
-9	nhipukury	nhipukury	VERB	XPOS=comida	Possessed=No	10	obj	_	gloss[pt]=comida-N.POSSD
-10	awa	awa	VERB	V	_	4	conj	_	gloss[pt]=ter|SpaceAfter=No
-11	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 cc	color:blue
+1	Awary	Awary	VERB	XPOS=existir	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	0	root	_	gloss[pt]=existir-3SG.M.O
+2	ithu	ithu	DET	XPOS=muito	_	3	det	_	gloss[pt]=muito
+3	nhipukury	nhipukury	NOUN	XPOS=comida-N.POSSD	_	1	nsubj	_	gloss[pt]=comida-N.POSSD
+4	i	i	CCONJ	XPOS=e	_	5	cc	_	gloss[pt]=e
+5	ỹarỹa	ỹarỹa	NOUN	XPOS=bebida	_	3	conj	_	gloss[pt]=bebida|SpaceAfter=No
+6	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
 

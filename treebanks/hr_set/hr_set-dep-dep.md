@@ -73,7 +73,7 @@ The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="
 6	će	htjeti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	dep	_	_
 7	biti	biti	AUX	Van	VerbForm=Inf	12	cop	_	_
 8	još	još	ADV	Rgp	Degree=Pos	9	advmod	_	_
-9	jedan	jedan	NUM	Mlcmsn	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	12	amod	_	_
+9	jedan	jedan	NUM	Mlcmsn	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	12	nummod	_	_
 10	od	od	ADP	Sg	Case=Gen	12	case	_	_
 11	njegovih	njegov	DET	Ps3mpg	Case=Gen|Gender=Masc|Gender[psor]=Masc,Neut|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
 12	prioriteta	prioritet	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	1	ccomp	_	_

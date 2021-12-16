@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="pcm_nsc-dep-nmod.html">nmod</a></tt>.
 
-1889 nodes (1%) are attached to their parents as `nmod:poss`.
+1898 nodes (1%) are attached to their parents as `nmod:poss`.
 
-1889 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.25516146109052.
+1898 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25605900948367.
 
-The following 10 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1859; 98% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (1866; 98% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 10 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 # visual-style 18	fgColor:white
 # visual-style 18 17 nmod:poss	color:blue
 1	#	#	X	_	_	14	dep	_	AlignBegin=58309|AlignEnd=58814|Gloss=PUNCT
-2	den	dem	ADV	_	_	14	advmod	_	AlignBegin=58814|AlignEnd=58970|Gloss=den
+2	den	den	ADV	_	_	14	advmod	_	AlignBegin=58814|AlignEnd=58970|Gloss=den
 3	<	<	X	_	_	2	dep	_	AlignBegin=58970|AlignEnd=59000|Gloss=PUNCT
 4	ending	ending	NOUN	_	_	14	obl:mod	_	AlignBegin=59000|AlignEnd=59369|Gloss=end
 5	of	of	ADP	_	_	7	case	_	AlignBegin=59369|AlignEnd=59585|Gloss=of
@@ -36,7 +36,7 @@ The following 10 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 12	con	con	AUX	_	Aspect=Cons	14	aux	_	AlignBegin=60391|AlignEnd=60601|Gloss=CONS
 13	dey	dey	AUX	_	Aspect=Imp	14	aux	_	AlignBegin=60601|AlignEnd=60771|Gloss=IPFV
 14	pay	pay	VERB	_	_	0	root	_	AlignBegin=60771|AlignEnd=60970|Gloss=pay
-15	us	us	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	14	obj	_	AlignBegin=60970|AlignEnd=61240|Gloss=ACC.PL.1
+15	us	us	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	14	iobj	_	AlignBegin=60970|AlignEnd=61240|Gloss=ACC.PL.1
 16	#	#	X	_	_	18	dep	_	AlignBegin=61240|AlignEnd=61442|Gloss=PUNCT
 17	our	our	PRON	_	Number=Plur|Person=1|Poss=Yes	18	nmod:poss	_	AlignBegin=61442|AlignEnd=61671|Gloss=PL.1.POSS
 18	money	money	NOUN	_	_	14	obj	_	AlignBegin=61671|AlignEnd=61941|Gloss=money
@@ -52,12 +52,12 @@ The following 10 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 # visual-style 5	fgColor:white
 # visual-style 5 4 nmod:poss	color:blue
 1	but	but	CCONJ	_	_	5	discourse	_	AlignBegin=145280|AlignEnd=145478|Gloss=but
-2	no	no	PART	_	Polarity=Neg	5	advmod	_	AlignBegin=145478|AlignEnd=145675|Gloss=NEG
+2	no	no	AUX	_	Polarity=Neg	5	aux	_	AlignBegin=145478|AlignEnd=145675|Gloss=NEG
 3	be	be	AUX	_	PartType=Cop	5	cop	_	AlignBegin=145675|AlignEnd=145872|Gloss=be1
 4	people	people	NOUN	_	Number=Plur	5	nmod:poss	_	AlignBegin=145872|AlignEnd=146070|Gloss=people.PL
 5	fault	fault	NOUN	_	_	0	root	_	AlignBegin=146070|AlignEnd=146268|Gloss=fault
 6	like	like	ADP	_	_	7	case	_	AlignBegin=146268|AlignEnd=146465|Gloss=like
-7	dat	dat	PRON	_	Number=Sing|PronType=Dem	5	obl:mod	_	AlignBegin=146465|AlignEnd=146662|Gloss=SG.DEM
+7	dat	dat	PRON	_	Number=Sing	5	obl:mod	_	AlignBegin=146465|AlignEnd=146662|Gloss=SG.DEM
 8	now	now	ADV	_	_	7	advmod	_	AlignBegin=146662|AlignEnd=146860|Gloss=now
 9	//	//	X	_	_	5	dep	_	AlignBegin=146860|AlignEnd=146860|Gloss=PUNCT
 

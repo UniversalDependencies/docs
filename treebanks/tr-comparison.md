@@ -6,269 +6,309 @@ udver: '2'
 
 <table>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <h1>UD_Turkish-Atis</h1>
+    </td>
+    <td width="11%" valign="top">
       <h1>UD_Turkish-BOUN</h1>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h1>UD_Turkish-FrameNet</h1>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h1>UD_Turkish-GB</h1>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h1>UD_Turkish-IMST</h1>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h1>UD_Turkish-Kenet</h1>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h1>UD_Turkish-PUD</h1>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h1>UD_Turkish-Penn</h1>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h1>UD_Turkish-Tourism</h1>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <h2>Tokenization and Word Segmentation</h2>
+    </td>
+    <td width="11%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+      <li>This corpus contains 5432 sentences and 45875 tokens.</li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 9761 sentences, 121214 tokens and 122383 syntactic words.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 2698 sentences and 19221 tokens.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 2880 sentences, 16803 tokens and 17177 syntactic words.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 5635 sentences, 56396 tokens and 57859 syntactic words.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
-      <li>This corpus contains 18687 sentences and 178660 tokens.</li>
+      <li>This corpus contains 18687 sentences and 178658 tokens.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 1000 sentences, 16536 tokens and 16882 syntactic words.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
-      <li>This corpus contains 9557 sentences and 87367 tokens.</li>
+      <li>This corpus contains 16396 sentences and 183554 tokens.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
-      <li>This corpus contains 19749 sentences and 92156 tokens.</li>
+      <li>This corpus contains 19725 sentences and 91733 tokens.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+      <li>All tokens in this corpus are followed by a space.</li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 20188 tokens (17%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>All tokens in this corpus are followed by a space.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 2707 tokens (16%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 10095 tokens (18%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>All tokens in this corpus are followed by a space.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 2179 tokens (13%) that are not followed by a space.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>All tokens in this corpus are followed by a space.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>All tokens in this corpus are followed by a space.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+      <li>This corpus does not contain words with spaces.</li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+      <li>This corpus contains 488 types of words that contain both letters and punctuation. Examples: Boston'dan, Francisco'ya, Denver'den, Denver'e, Atlanta'dan, Pittsburgh'tan, Atlanta'ya, Baltimore'ye, Boston'a, Dallas'a, Philadelphia'ya, Pittsburgh'a, Philadelphia'dan, Baltimore'den, Dallas'tan, Francisco'dan, St., City'e, Oakland'a, Washington'dan, City'den, washington'a, Milwaukee'den, Seattle'ye, Vegas'a, Milwaukee'ye, Chicago'dan, Orlando'ya, York'tan, dc'ye, Miami'ye, Oakland'dan, toronto'dan, Diego'ya, Chicago'ya, Phoenix'den, Temmuz'da, dc'den, Cleveland'dan, 6'dan, Charlotte'den, 5'ten, Memphis'ten, Newark'a, Houston'a, Newark'tan, Miami'den, 10'dan, Angeles'e, Vegas'tan</li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 2645 types of words that contain both letters and punctuation. Examples: Türkiye'de, Türkiye'nin, İstanbul'da, Türkiye'yi, Türkiye'ye, Atatürk'ün, Avrupa'da, İngiltere'de, İstanbul'a, ABD'nin, Irak'ta, AB'ye, Amerika'da, İsrail'in, AB'nin, Anadolu'nun, Ankara'da, "bu, 'lik, ABD'li, İstanbul'u, İstanbul'un, "o, ABD'de, ABD'ye, Almanya'nın, Anadolu'da, Ankara'dan, Avrupa'nın, Bakanlığı'nın, Dünya'nın, Fransa'da, Irak'ın, Kadıköy'de, Kurulu'nun, Manço'nun, O'nun, Türkiye'deki, Üniversitesi'nde, 'ydi, 1945'te, 1992'de, AKP'nin, Akdeniz'e, Akdeniz'in, Allah'a, Allah'ın, Almanya'da, Almanya'ya, Ankara'nın</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 78 types of words that contain both letters and punctuation. Examples: Nihal'in, Boğaziçi'nde, Hasan'la, Nihat'a, Tevfik'e, Yusuf'u, İstanbul'u, 'Dilimizi, 'Kaos', 1453'te, 1923'te, 2'yi, 3'te, Ahmet'in, Akdeniz'e, Alaçatı'da, Ali'nin, Allah'a, Almanya'da, Amerika'da, Amerika'ya, Ankara'da, Ankara'yı, Arda'nın, Ayşe'ye, Ayşe'yi, Açıkhava'da, Aşk'ı, Behlül'le, Behlül'ü, Berlin'e, Bey'e, Bey'in, Beyoğlu'na, Beşir'in, Bihter'den, Bursa'da, Caddesi'ne, Dante'nin, Ege'de, Eylül'ün, Gaugin'i, H7'ye, Hacı'ya, Halkapınar'da, Hamdi'nin, Hindistan'ı, Irak'ın, Kadıköy'de, Karabükspor'da</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 208 types of words that contain both letters and punctuation. Examples: Ali’nin, Ankara’ya, İstanbul’da, Ahmet’in, Ahmet’le, Ayşe’nin, Ayşe’yle, Erol’un, Semra’ya, Ankara’da, Londra’ya, Semra’yı, Amerika’ya, Fatma’nın, Londra’da, Mustafa’nın, Tosca’yı, Verona’da, Zeki’nin, Zeki’ye, 9’da, Ahmet’e, Ali’yi, Almanya’ya, Antalya’ya, Bodrum’a, Elif’e, Erol’a, Filiz’in, Hakan’ın, Jale’nin, Kemal'le, Konya’ya, Korkut’a, Mehmet’i, Mehmet’in, Murat’ın, Mustafa’ya, Paris’e, Semra’nın, Türkiye’de, Zehra’yla, Zeki’yi, Ziya’nın, İstanbul’a, ’lılar, 1994’te, 5’te, Afrika’yı, Ahmet’i</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 609 types of words that contain both letters and punctuation. Examples: Türkiye'nin, Türkiye'de, Taşhan'ın, Erdoğan'ın, Türkiye'ye, İstanbul'a, Diyarbakır'a, Ankara'ya, Avrupa'da, Mahmut'un, 'li, ABD'nin, Ankara'da, Devrim'in, Diyarbakır'da, Gül'ün, Hülya'nın, Irak'ta, Recep'in, Yunak'ın, İstanbul'da, 'lik, Arınç'ın, Hablemitoğlu'nun, Kemal'in, NA'nın, İstanbul'dan, AB'ye, Akgündüz'ün, Ali'nin, Almanya'da, Anadolu'da, Avrupa'dan, Bakanlığı'na, Erbakan'ın, Erdoğan'ı, Hazine'nin, KKTC'de, Meclis'e, Parkı'na, Sezer'in, Tanrı'nın, 'lı, Alev'in, Başbakanlık'ta, Bey'in, Cumhuriyet'in, Dr., Erbakan'la, Erdoğan'a</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 686 types of words that contain both letters and punctuation. Examples: İstanbul'a, İstanbul'un, Bey'in, Hanım'ın, İstanbul'da, İstanbul'dan, Atatürk'ün, Tanrı'nın, İstanbul'u, Paşa'nın, Türkiye'nin, Anadolu'ya, Ankara'da, Kemal'in, Türkiye'de, Ankara'ya, Beyoğlu'nda, Türk'ün, Allah'a, Anadolu'nun, Ankara'nın, Boğaziçi'nin, Allah'ım, Ankara'yı, Avrupa'nın, Bey'e, Boğaziçi'nde, Haliç'in, Kur'an, Tevfik'e, Tevfik'in, Ali'nin, Allah'tan, Allah'ın, Almanya'ya, Anadolu'dan, Anadolu'yu, Atatürk'e, Avrupa'dan, Baba'nın, Berlin'e, Bey'i, Boğaz'ın, Canan'ın, Efendi'nin, Emine'nin, Fikret'i, Fransa'da, Hamdi'nin, Hasan'ın</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 598 types of words that contain both letters and punctuation. Examples: M.Ö., Çin'in, 2014'te, Avrupa'nın, Üniversitesi'nde, İngiltere'de, 2012'de, ABD'de, Afrika'da, Akdeniz'de, Fransa'nın, Meksika'nın, Moğolistan'ın, Roma'da, Rona'nın, Rusya'ya, Savaşı'nın, Trump'ın, İtalya'ya, 1492'de, 1820'de, 1879'da, 1911'de, 1912'de, 1916'da, 1960'lardan, 1976'da, 1990'lı, 2004'te, 2011'de, 60'lı, ABD'nin, Alaska'da, Alvarez'in, Amerika'da, Amerika'nın, Antarktika'yı, Arnavutluk'un, Asya'da, Avrupa'da, Avustralya'da, Avustralya'nın, Clinton'un, Clinton'ın, Disney'in, Doss'un, Ekim'de, Fransa'dan, Gine'de, Hollanda'da</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
-      <li>This corpus contains 1740 types of words that contain both letters and punctuation. Examples: Doları'na, Corp., Doları'ndan, Co., Inc., A.B.D., Yen'e, Yen'den, a.m, A.Ş, S&P, Moody's, York'ta, Journal'ın, A., A.B.D, F., J., alım-satım, 1988'de, Borsası'ndaki, Japonya'nın, Doları'nda, Ekim'de, Kasım'da, Komisyonu'na, U.S.A, 1987'de, Aralık'ta, Avrupa'da, B., Borsası'nda, Bush'un, Dr., Japonya'da, R., Sotheby's, W., Çin'in, 30-hisse, 9'luk, AT&T, Corp'un, Doları'ydı, Londra'nın, S., U.S., 1/4'e, 3/4'e, Air'in</li>
+      <li>This corpus contains 3530 types of words that contain both letters and punctuation. Examples: Corp., Co., Inc., Doları'na, $'dan, Doları'ndan, $'a, Borsası'nda, yen'e, A.B.D., Japonya'nın, S&P, yen'den, 1988'de, Moody's, York'ta, ABD'de, J., a.m, Japonya'da, Ltd., A.Ş, Dr., Journal'ın, alım-satım, A., Bush'un, Tokyo'da, 1990'da, Corp.'un, IBM'in, ABD'deki, Borsası'ndaki, Ekim'de, Kasım'da, W., 1987'de, Almanya'nın, Avrupa'da, Ağustos'ta, E., F., Inc.,, Çin'in, ABD'li, ABD'nin, Inc.'in, 100'e, B., Co.'nun</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 26 types of words that contain both letters and punctuation. Examples: 7'DEN, 70'E, ANTALYA'NIN, ATLANTİS'TE, ETSTUR'U, İSTANBUL'A, BODRUM'A, HİLTON'A, M., V., 5'TEN, 5'İN, 7'DE, ALLAH'A, ARTEMiS'TEN, ARTEMİS'TEN, ATLANTİS'DE, ATİNA'YA, BODRUM'UN, ETS'DEN, ETSTUR'DAN, ETSTUR'LA, KAYA'YA, SANTORİNİ'YE, SİVAS'IN, THERMAL'DE</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 1163 multi-word tokens. On average, one multi-word token consists of 2.01 syntactic words.</li>
       <li>There are 783 types of multi-word tokens. Examples: vardır, yoktu, yoktur, yoksa, nedir, demektir, önemli, biridir, varken, arasındaki, gereklidir, gibiydi, yıllardır, önemlidir, şudur, biriydi, bizler, düşünürken, edilmelidir, saçlı, zordur, adlı, doludur, fazladır, gibidir, günüydü, içindedir, içindir, karşılıklı, sınırlı, önemliydi, öyleyse, Bizimkiler, aittir, bedeli, budur, bugünkü, böyledir, büyüktür, cumhuriyettir, doluydu, durumdadır, dışındadır, etmektir, insandır, içindeki, kadındı, karşısındaki, kolaydı, konusudur.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 371 multi-word tokens. On average, one multi-word token consists of 2.01 syntactic words.</li>
       <li>There are 269 types of multi-word tokens. Examples: vardı, yoktu, varmış, yıldır, masadaki, metrelik, önemli, 9’daki, Amerika’lılar, bahçedeki, belliydi, bence, gönüllü, kararlıyım, meşguldük, vardır, yandaki, yaşındaki, yokmuş, yoksa, Arkamızdaki, Benimki, Taksim’deki, arasındaki, bahçeli, bense, biriydi, boyalı, defalarca, gazetedeki, görevli, güzelmiş, hastayım, havuzlu, hocasıymış, kimdi, küçüksün, memnunlar, nedir, odalı, olmaktı, piyanistmiş, rahatsızmış, romandaki, tatilmiş, varsa, yorgunum, yıllardır, zamandır, çekmecedeki.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 1438 multi-word tokens. On average, one multi-word token consists of 2.02 syntactic words.</li>
       <li>There are 989 types of multi-word tokens. Examples: önemli, yoktu, vardı, vardır, yoksa, vadeli, önceki, arasındaki, benim, gibiydi, sessiz, yoktur, içindeki, saatlik, üzerindeki, adlı, demektir, dolarlık, nedir, yıllardır, altındaki, buradaki, buydu, bölgedeki, parmaklı, tehlikeli, yanındaki, zamanki, adamdı, başlıklı, camlı, doluydu, elindeki, imkansız, içindeydi, kazadaki, sağlıklı, sebzedir, tarihli, yaşındaydı, yıldır, Nerdeydin, aşağıdaki, elbiseli, günkü, imkansızdı, kadındı, kimsiniz, liralık, masadaki.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 346 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 275 types of multi-word tokens. Examples: arasındaki, sonraki, üzerindeki, bölgedeki, sahiptir, Üniversitesi'ndeki, aittir, ayındaki, değildi, dünyadaki, hakkındaki, ilgilidir, vardır, yaşındaki, yoksa, ABD'deki, Roma'daki, alandaki, buradaki, dolardır, dönemindeki, dışındaki, etrafındaki, gibiydi, görevdeki, göstergesidir, kıyısındaki, liderliğindeki, merkezdeki, tartışmalıdır, tümördür, vardı, yoktu, önceki, ülkedeki, 1912'deki, 1914'teki, 1996'daki, 2014'teki, ABD'deydi, Afrika'daki, Akdeniz'deki, Amerika'daki, Avrasya'daki, Avrupa'daki, Balkanlar'daki, Batı'daki, Brexit'teki, Cambridgeshire'deki, Capua'daki.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <h2>Morphology</h2>
+      
+      <h3>Tags</h3>
+      
+      <ul>
+      <li>This corpus uses 13 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>VERB</a></li>
+      <li>This corpus does not use the following tags: SCONJ, PART, SYM, X</li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -277,7 +317,7 @@ udver: '2'
       <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -287,7 +327,7 @@ udver: '2'
       <li>This corpus does not use the following tags: PART, SYM</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -297,7 +337,7 @@ udver: '2'
       <li>This corpus does not use the following tags: PART</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -307,7 +347,7 @@ udver: '2'
       <li>This corpus does not use the following tags: SCONJ, PART, SYM</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -317,7 +357,7 @@ udver: '2'
       <li>This corpus does not use the following tags: PART, SYM</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -327,7 +367,7 @@ udver: '2'
       <li>This corpus does not use the following tags: PART</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -337,7 +377,7 @@ udver: '2'
       <li>This corpus does not use the following tags: PART, SYM</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h2>Morphology</h2>
       
       <h3>Tags</h3>
@@ -349,290 +389,332 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 1 word types tagged as particles (PART): Kİ</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+      <li>This corpus contains 9 lemmas tagged as pronouns (PRON): ben, biri, bu, hangi, hepsi, ne, nere, çoğu, şu</li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 207 lemmas tagged as pronouns (PRON): "Bizim, "Bura, "O'nun, "Siz, "ben, "biz, "o, "Şura, Adana, Anon, Arcona, Arda, Binay, Buğday, Honda, Nitekim, Ramayana, Savarona, Senî, Tasvir, Türk, Zifir, ada, alto, anason, anoin, araba, avize, ayakkabı, aşk, bahçe, bak, bakan, balıkçı, banka, bas, baston, bazı, başhekim, beden, bekle, bellek, ben, bende, bent, benzin, beyefendi, biftek, bil, bilet, bilgi, bilim, bilincinde, bina, birara, birbiri, birey, biri, biribiri, birikim, birkaç, birlik, birliktelik, birçok, birçoğu, biz, bizimki, bu, bulun, buluş, bun, bura, buyur, bölge, bölüm, böyle, bülten, bürokrasi, ceset, deniz, deyim, din(I), dip, diri, diz, dizin, düzen, düşman, ekim, enerji, erozyon, et, ev, eylem, ez, fakir, fazla, gençlik, göz, gündüz, güven, had, hangi, hap, hekim, hemşehri, hep, heptatlo, hizmet, hiçbiri, hâkim, ilgi, insan, irade, iç, iş, işkence, işsiz, kardeş, kefen, kendi, kent, kim, kimi, kimler, kişilik, kongre, kriz, kuzen, kız, liman, meden, metin, müezzin, ne, neden, nefis, nere, neşe, nice, o, o'nun, oda, ol, on, onay, onca, opera, operasyon, ora, orası, ordu, organiz, orman, ortam, oyun, san, sanat, sanatçı, sanayi, sayfa, saçı, sen, servis, ses, sevgili, sevinç, siz, sofra, soluk, sonra, sıra, tabir, tahkim, tansiyon, tel, televizyon, teoriz, tüm, uyku, ver, volta, yaban, yazlık, yaşa, yok, yurt, Çekemoğlu', Üzer, çare, çekim, çene, çeviri, çevre, çevren, çizim, çoğu, önem, öner, ülke, İkizler, ızgara, şampiyona, şey, şiir, şu, şûra</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 24 lemmas tagged as pronouns (PRON): başkası, ben, birbiri, birbirleri, biri, birçoğu, biz, bu, hangi, hep, hepsi, herkes, hiçbiri, kendi, kim, kimse, ne, nere, o, sen, siz, çoğu, öbür, şu</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 53 lemmas tagged as pronouns (PRON): Fatma, aynısı, bazıları, bazılarımız, bazısı, başkaları, başkası, ben, bir, birbir, biri, birimiz, birşey, biz, bizler, bu, bura, böylesi, hangileri, hangileriniz, hanginiz, hangisi, hani, hepimiz, hepsi, herkes, herşey, hiçbiri, hiçbirimiz, hiçbiriniz, ikisi, insan, kendi, kim, kiminiz, kimse, ne, nere, o, onlar, ora, sen, siz, sizler, yarısı, yenisi, çok, çoğu, öbürü, öteki, şişmanın, şu, şura</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 29 lemmas tagged as pronouns (PRON): bazı, ben, birbiri, biri, birkaçı, birçoğu, biz, bizler, bu, bura, hangi, hep, hepsi, herbiri, hiçbiri, kendi, kim, kimi, ne, nere, o, ora, sen, siz, tümü, çoğu, öbür, şu, şura</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 33 lemmas tagged as pronouns (PRON): bazı, başkası, ben, birbiri, birbirleri, biri, birkaçı, birçokları, birçoğu, biz, bu, böylesi, cümlesi, diğeri, hangi, hep, hepsi, herkes, hiçbiri, kendi, kim, kimi, kimse, ne, nere, o, sen, siz, topu, çoğu, öbür, öteki, şu</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 33 lemmas tagged as pronouns (PRON): Buray, _, bazı, ben, bir, birbiri, biri, birçoğu, biz, bu, bura, diğer, hangi, hangis, hepsi, herkes, hiçbiri, kendi, kim, kimse, ne, nere, o, on, ora, senden, siz, tamam, çok, çoğ, Şura, şey, şu</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
-      <li>This corpus contains 23 lemmas tagged as pronouns (PRON): bazı, ben, birbiri, birbirleri, biri, birçoğu, biz, bu, hangi, hep, hepsi, hiçbiri, kendi, kim, kimse, ne, nere, o, sen, siz, tümü, çoğu, şu</li>
+      <li>This corpus contains 27 lemmas tagged as pronouns (PRON): bazı, ben, birbiri, birbirleri, biri, birçokları, birçoğu, biz, bu, diğeri, hangi, hep, hepsi, herkes, hiçbiri, kendi, kim, kimse, ne, nere, o, sen, siz, tümü, çoğu, öbür, şu</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 20 lemmas tagged as pronouns (PRON): bazı, ben, birbiri, biri, biz, bu, hangi, hep, hepsi, herkes, hiçbiri, kendi, kim, kimse, ne, o, sen, siz, çoğu, şu</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+      <li>This corpus contains 6 lemmas tagged as determiners (DET): bir, bu, her, o, tüm, şu</li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 65 lemmas tagged as determiners (DET): "Hiçbir, "bir, "bu, "o, 'tüm, ...bu, 0, Eco, Fabio, Hagi, Hugo, Kingfisher, NATO, T, Timoşenko, Yok, akis, aç, ağaç, bazı, başka, bir, birkaç, birsürü, birtakım, birçok, bu, bunca, bütün, dergi, diğer, dur, espresso, gardırop, hangi, hep, her, herhangi, hiç, hiçbir, ilaç, ilgi, ilk, itiraz, kendi, kimi, kuş, mikro, muhtaç, ne, o, olmaz, porno, radyo, sayaç, sistem, taç, tüm, unperiodismo, video, yazı, çok, çoğu, öteki, şu</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 10 lemmas tagged as determiners (DET): bazı, bir, birkaç, birçok, bu, her, hiçbir, o, tüm, şu</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 27 lemmas tagged as determiners (DET): aynı, bazı, başka, bir, biraz, birkaç, birtakım, birçok, bu, bunca, böyle, bütün, diğer, hangi, her, herhangi, hiç, hiçbir, iki, kimi, ne, o, tek, çok, öbür, öyle, şu</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 13 lemmas tagged as determiners (DET): bazı, bir, birkaç, birçok, bu, hangi, her, hiçbir, kimi, o, tüm, çoğu, şu</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 13 lemmas tagged as determiners (DET): bazı, bir, birkaç, birtakım, birçok, bu, her, hiçbir, kimi, o, tüm, çok, şu</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 23 lemmas tagged as determiners (DET): %, 50, _, bazı, başka, bir, birkaç, birtakım, birçok, bu, diğer, hangi, her, herhangi, hiçbir, ne, o, tüm, yüz, çok, çoğu, öte, şu</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 11 lemmas tagged as determiners (DET): bazı, bir, birkaç, birçok, bu, her, hiçbir, o, tüm, çok, şu</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 10 lemmas tagged as determiners (DET): bazı, bir, bu, dörtlük, her, hiçbir, o, tüm, çok, şu</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+      <li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: bu, şu</li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
       <li>Out of the above, 15 lemmas occurred sometimes as PRON and sometimes as DET: "o, bazı, birkaç, birçok, bu, hangi, hep, ilgi, kendi, kimi, ne, o, tüm, çoğu, şu</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: bu, o, şu</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>Out of the above, 6 lemmas occurred sometimes as PRON and sometimes as DET: bir, bu, ne, o, çok, şu</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>Out of the above, 7 lemmas occurred sometimes as PRON and sometimes as DET: bazı, bu, hangi, kimi, o, çoğu, şu</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>Out of the above, 5 lemmas occurred sometimes as PRON and sometimes as DET: bazı, bu, kimi, o, şu</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>Out of the above, 10 lemmas occurred sometimes as PRON and sometimes as DET: _, bazı, bir, bu, diğer, hangi, ne, o, çok, şu</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>Out of the above, 4 lemmas occurred sometimes as PRON and sometimes as DET: bazı, bu, o, şu</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>Out of the above, 4 lemmas occurred sometimes as PRON and sometimes as DET: bazı, bu, o, şu</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+      <li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): değil, mi</li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 5 lemmas tagged as auxiliaries (AUX): bulun, değil, i, mi, ol</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): değil, mi</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 8 lemmas tagged as auxiliaries (AUX): bil, bulun, değil, i, mi, ol, olacak, olduk</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): değil, i, mi</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): değil, mi</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 5 lemmas tagged as auxiliaries (AUX): _, değil, i, mi, ol</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): değil, mi</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): değil, mi</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
       <li>Out of the above, 5 lemmas occurred sometimes as AUX and sometimes as VERB: bulun, değil, i, mi, ol</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>Out of the above, 4 lemmas occurred sometimes as AUX and sometimes as VERB: bil, bulun, değil, ol</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: değil</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>Out of the above, 4 lemmas occurred sometimes as AUX and sometimes as VERB: _, değil, i, ol</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+      <li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
       <li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Conv
+        <ul>
+          <li>VERB: uçuşunuz, uçuşlardır</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -642,10 +724,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -655,7 +737,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -665,7 +747,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -674,7 +756,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -684,7 +766,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -693,7 +775,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Conv
         <ul>
@@ -704,20 +786,29 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
-
-    </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Fin
         <ul>
-          <li>AUX: değildi</li>
+          <li>VERB: göster, istiyorum, nedir, listeleyin, gösterin, listele, nelerdir, uçuyor, bul, ver</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
+      <ul>
+        <li>Fin
+        <ul>
+          <li>AUX: değildi, değilim</li>
           <li>VERB: etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, ettim, gitti</li>
         </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Fin
         <ul>
@@ -727,37 +818,37 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Fin
         <ul>
-          <li>AUX: değildi, değildim, değildik, değillerdi</li>
-          <li>VERB: vardı, oldu, geldi, başladı, olur, çıktı, etti, yoktu, dedi, aldı</li>
+          <li>AUX: değildir, değildi, değilse, değiliz, değilim, değilmiş, değildim, değilsin, değilsiniz, değildik</li>
+          <li>VERB: vardı, oldu, vardır, geldi, başladı, olur, çıktı, etti, olsun, yoktu</li>
         </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Fin
         <ul>
-          <li>AUX: değildi, değillerdi, değildim</li>
-          <li>VERB: oldu, ediyor, söyledi, geldi, etti, yükseldi, dedi, diyor, çıktı, düştü</li>
+          <li>AUX: değildir, değildi, değiliz, değilse, değillerdi, değilim, değildik, değildim, değillerdir, değilmiş</li>
+          <li>VERB: söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</li>
         </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Fin
         <ul>
-          <li>AUX: DEĞİLDİ, DEĞİLLERDİ, DEĞİLDİM, DEĞİLDİK, DEĞİLDİLER</li>
+          <li>AUX: DEĞİLDİ, DEĞİLİM, DEĞİLLERDİ, DEĞİLDİM, DEĞİLDİK, DEĞİLDİLER, DEĞİLDİR</li>
           <li>VERB: GÜZELDİ, İYİYDİ, GÖRÜŞÜLDÜ, YOKTU, KALDIK, TESİSTİ, KALDIM, EDERİM, İLGİLİYDİ, İLGİLENDİ</li>
         </ul>
         </li>
@@ -765,7 +856,10 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -775,10 +869,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -788,7 +882,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -797,7 +891,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -806,7 +900,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -815,16 +909,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Part
         <ul>
-          <li>VERB: düşündüğüdür, etkilenenlerdi, ettiğidir, getirdiğiydi, kazananıydı, olandır, olanlardır, olanıdır</li>
+          <li>VERB: olduğudur, Gördüğünüz, Sunduğunuz, alacağımızdır, bahsetmediğinizdir, dolaşacağıdır, dönüştürülebileceğidir, düşündüğüdür, etkilenenlerdi, ettiğidir</li>
         </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Part
         <ul>
@@ -835,7 +929,16 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Vnoun
+        <ul>
+          <li>VERB: demektir, kısaltmasıdır</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Vnoun
         <ul>
@@ -844,7 +947,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Vnoun
         <ul>
@@ -853,7 +956,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Vnoun
         <ul>
@@ -863,7 +966,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Vnoun
         <ul>
@@ -872,7 +975,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Vnoun
         <ul>
@@ -881,7 +984,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Vnoun
         <ul>
@@ -891,16 +994,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Vnoun
         <ul>
-          <li>VERB: danışmanlar, olmasıdır, demektir, sağlamaktır, bulmaktır, sözleşmeydi, Faturalandırmalar, almadır, almaktır, almalıyız</li>
+          <li>VERB: olmasıdır, danışmanlar, demektir, sağlamaktır, almaktır, bulmaktır, sözleşmeydi, Faturalandırmalar, almadır, almaktı</li>
         </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Vnoun
         <ul>
@@ -911,127 +1014,151 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Nominal Features</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <h3>Nominal Features</h3>
+    </td>
+    <td width="11%" valign="top">
       <h3>Nominal Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-  </tr>
-  <tr>
-    <td width="12%" valign="top">
-
-    </td>
-    <td width="12%" valign="top">
-
-    </td>
-    <td width="12%" valign="top">
-
-    </td>
-    <td width="12%" valign="top">
-
-    </td>
-    <td width="12%" valign="top">
-
-    </td>
-    <td width="12%" valign="top">
-
-    </td>
-    <td width="12%" valign="top">
-
-    </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="11%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Plur
+          <ul>
+            <li>NOUN: uçuşları, uçuşlar, uçuşlarını, havayolları, uçuşların, fiyatlarını, havayollarını, havayollarının, günleri, ücretleri</li>
+            <li>VERB-Fin: listeleyin, gösterin, verin, söyleyin, yapın, bakalım, açıklayın, bahsedin, ayarlayın, ayın</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1049,19 +1176,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Plur
           <ul>
             <li>NOUN: insanlar, şeyler, olanları, yıllar, çocuklar, gözleri, polisler, çocukları, gözlerini, işler</li>
             <li>PROPN: Ölenler</li>
-            <li>VERB: ettiler, ettik, kaldık, aldık, aldılar, ediyorlar, koydular, çıktık, döndük, edelim</li>
-            <li>VERB-Fin: ettiler, ettik, kaldık, aldık, aldılar, ediyorlar, koydular, çıktık, döndük, getirdik</li>
+            <li>VERB-Fin: ettiler, ettik, kaldık, aldık, aldılar, ediyorlar, koydular, çıktık, döndük, edelim</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1081,7 +1207,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1099,21 +1225,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Plur
           <ul>
-            <li>AUX: değiliz</li>
+            <li>AUX-Fin: değiliz</li>
             <li>NOUN: gözleri, gözlerini, şeyler, çocuklar, kadınlar, insanlar, elleri, ellerini, saçları, çocukları</li>
             <li>PROPN: Türkçüler, Anafartalar'da, Avcılar, Babalar, Efendiler, Gençler, Güzeller, Kadınlar, Kimler, Zeyniler</li>
-            <li>VERB: ettiler, başladılar, bakalım, derler, ediyorlar, aldılar, ediyoruz, verdiler, ettik, bakın</li>
-            <li>VERB-Fin: ettiler, başladılar, derler, ediyorlar, aldılar, ediyoruz, verdiler, ettik, dediler, ederler</li>
+            <li>VERB: ettiler, başladılar, bakalım, derler, ediyorlar, aldılar, ediyoruz, verdiler, ederler, ettik</li>
+            <li>VERB-Fin: ettiler, başladılar, bakalım, derler, ediyorlar, aldılar, ediyoruz, verdiler, ederler, ettik</li>
             <li>VERB-Vnoun: sevişmelerimiz</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1130,20 +1256,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Plur
           <ul>
-            <li>AUX: değiliz, değiller</li>
-            <li>NOUN: kıymetler, fiyatları, satışlar, hisseleri, tahviller, yatırımcılar, hisseler, tahvilleri, analistler, şirketler</li>
-            <li>PROPN: CD'ler, Bolar, CD'lerin, CFC'ler, Cumhuriyetler, Daimler, Devletler'de, Giansts'ların, Hıristiyanlar, Monet'leri</li>
-            <li>VERB: ediyorlar, istiyorlar, aldılar, alıyorlar, ettiler, gördük, söylediler, verdiler, diyorlar, düşünüyoruz</li>
-            <li>VERB-Fin: ediyorlar, istiyorlar, aldılar, alıyorlar, ettiler, gördük, söylediler, verdiler, diyorlar, düşünüyoruz</li>
+            <li>AUX: değiller, değiliz, değildik, değillerdir</li>
+            <li>AUX-Fin: değiliz, değildik, değillerdir</li>
+            <li>NOUN: fiyatları, hisseleri, satışlar, kıymetler, yatırımcılar, analistler, tahviller, şirketler, satışları, tahvilleri</li>
+            <li>PROPN: Kıymetler, CD'ler, Bolar, CD'lerde, A'lar, Avustralyalılar, Blanding'ler, Borsalar, CD'lerin, CFC'ler</li>
+            <li>VERB: söylediler, ediyorlar, istiyorlar, istiyoruz, söylüyorlar, ettiler, aldılar, verdiler, ediyoruz, yaptık</li>
+            <li>VERB-Fin: söylediler, ediyorlar, istiyorlar, istiyoruz, söylüyorlar, ettiler, aldılar, verdiler, ediyoruz, yaptık</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -1152,14 +1279,28 @@ udver: '2'
             <li>NOUN: YEMEKLER, YEMEKLERİ, PERSONELLER, PERSONELLERİ, AİLELER, ODALAR, OLANAKLARI, İMKANLARI, TEŞEKKÜRLER, AİLELERE</li>
             <li>PROPN: KİMLER</li>
             <li>VERB: KALDIK, İLGİLENDİLER, EDERİZ, EDİYORUZ, MEMNUNUZ, BEĞENDİK, OLDULAR, GÖRÜŞTÜK, YAŞAMADIK, KALMADIK</li>
-            <li>VERB-Fin: KALDIK, İLGİLENDİLER, EDERİZ, EDİYORUZ, BEĞENDİK, OLDULAR, GÖRÜŞTÜK, YAŞAMADIK, KALMADIK, ARADILAR</li>
+            <li>VERB-Fin: KALDIK, İLGİLENDİLER, EDERİZ, EDİYORUZ, MEMNUNUZ, BEĞENDİK, OLDULAR, GÖRÜŞTÜK, YAŞAMADIK, KALMADIK</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Sing
+          <ul>
+            <li>NOUN: uçuş, günü, uçuşu, akşam, öğleden, dönüş, gidiş, sabah, saat, ihtiyacım</li>
+            <li>PROPN: San, Boston'dan, Francisco'ya, Denver'den, Denver'e, Atlanta'dan, Pittsburgh'tan, çarşamba, Atlanta'ya, Baltimore'ye</li>
+            <li>VERB: göster, istiyorum, nedir, listele, nelerdir, uçuyor, bul, ver, kalkıyor, geliyor</li>
+            <li>VERB-Conv: uçuşunuz, uçuşlardır</li>
+            <li>VERB-Fin: göster, istiyorum, nedir, listele, nelerdir, uçuyor, bul, ver, kalkıyor, geliyor</li>
+            <li>VERB-Vnoun: demektir, kısaltmasıdır</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1181,12 +1322,11 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Sing
           <ul>
-            <li>AUX: değildi, değilim</li>
-            <li>AUX-Fin: değildi</li>
+            <li>AUX-Fin: değildi, değilim</li>
             <li>NOUN: para, adam, çocuk, şey, gün, iş, şeyi, ay, işi, başına</li>
             <li>PROPN: Hanım, Nihal, Arsen, Jordan, Nihal'in, Seni, Ayşe, Firdevs, Rüştü, Türkiye</li>
             <li>VERB: etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, ettim, gitti</li>
@@ -1196,7 +1336,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1219,7 +1359,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1238,24 +1378,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Sing
           <ul>
             <li>AUX: değil, değildir, değildi, değilim, değilse, değiliz, değilmiş, değildim, değilsin, değilsiniz</li>
-            <li>AUX-Fin: değildi, değildim, değildik, değillerdi</li>
+            <li>AUX-Fin: değildir, değildi, değilse, değilim, değiliz, değilmiş, değildim, değilsin, değilsiniz, değildik</li>
             <li>NOUN: gün, zaman, adam, şey, arasında, kadın, çocuk, iş, su, olduğunu</li>
             <li>PROPN: Allah, Mustafa, Türkiye, İstanbul'a, İstanbul'un, İstanbul, Ali, Avrupa, Ben, Bey'in</li>
             <li>VERB: vardı, oldu, vardır, geldi, başladı, olur, çıktı, etti, olsun, yoktu</li>
             <li>VERB-Conv: görüştü, kaçıştı, aldatıştır, alışıdır, buruşmuş, bölüştük, değişmiş, direnişler, dönüştü, düşüşteydi</li>
-            <li>VERB-Fin: vardı, oldu, geldi, başladı, olur, çıktı, etti, yoktu, dedi, aldı</li>
+            <li>VERB-Fin: vardı, oldu, vardır, geldi, başladı, olur, çıktı, etti, olsun, yoktu</li>
             <li>VERB-Part: olduğudur, uyandım, uyanmışım, çakıştığıdır, bulandı, dövüşeceklerdi, esirgediğiniz, ettiğindeyse, ettiğiniz, geldiğidir</li>
             <li>VERB-Vnoun: demektir, demekti, olmasıdır, koymaktır, olmasın, akdetmesiydi, aktarılmalıdır, almaktır, alınmalıdır, anlaşılmasıdır</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -1275,31 +1415,31 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Sing
           <ul>
-            <li>AUX: değildir, değildi, değilim, değillerdi, değilse, değildim, değilsin</li>
-            <li>AUX-Fin: değildi, değillerdi, değildim</li>
-            <li>NOUN: bay, hisse, Amerikan, şirket, şekilde, devam, yıl, gelir, doları, yorum</li>
-            <li>PROPN: New, York, ABD, Inc, Corp., Wall, Co., Inc., Dow, Street</li>
-            <li>VERB: oldu, ediyor, söyledi, geldi, etti, yükseldi, dedi, diyor, çıktı, düştü</li>
+            <li>AUX: değildir, değildi, değilim, değilse, değillerdi, değildim, değilmiş, değilsin</li>
+            <li>AUX-Fin: değildir, değildi, değilse, değillerdi, değilim, değildim, değilmiş</li>
+            <li>NOUN: bay, hisse, dolar, yıl, şirket, olduğunu, şekilde, satın, devam, gelir</li>
+            <li>PROPN: New, ABD, York, Corp., Dow, Jones, Wall, Cuma, Co., Inc.</li>
+            <li>VERB: söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</li>
             <li>VERB-Conv: arayışındalar, dönüştü, değişti, düşüşündedir, oluştu, yükseliştedir</li>
-            <li>VERB-Fin: oldu, ediyor, söyledi, geldi, etti, yükseldi, dedi, diyor, çıktı, düştü</li>
-            <li>VERB-Part: düşündüğüdür, etkilenenlerdi, ettiğidir, getirdiğiydi, kazananıydı, olandır, olanlardır, olanıdır</li>
-            <li>VERB-Vnoun: danışmanlar, olmasıdır, demektir, sağlamaktır, bulmaktır, sözleşmeydi, Faturalandırmalar, almadır, almaktır, almalıyız</li>
+            <li>VERB-Fin: söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</li>
+            <li>VERB-Part: olduğudur, Gördüğünüz, Sunduğunuz, alacağımızdır, bahsetmediğinizdir, dolaşacağıdır, dönüştürülebileceğidir, düşündüğüdür, etkilenenlerdi, ettiğidir</li>
+            <li>VERB-Vnoun: olmasıdır, danışmanlar, demektir, sağlamaktır, almaktır, bulmaktır, sözleşmeydi, Faturalandırmalar, almadır, almaktı</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Sing
           <ul>
             <li>AUX: DEĞİLDİ, DEĞİLİM, DEĞİLLERDİ, DEĞİLDİM, DEĞİLDİR</li>
-            <li>AUX-Fin: DEĞİLDİ, DEĞİLLERDİ, DEĞİLDİM</li>
+            <li>AUX-Fin: DEĞİLDİ, DEĞİLİM, DEĞİLLERDİ, DEĞİLDİM, DEĞİLDİR</li>
             <li>NOUN: HİZMET, BEY, PUAN, KONUMU, ÇEŞİT, TAVSİYE, TESİS, PERSONEL, OTEL, DENİZİ</li>
-            <li>PROPN: ETS, MEHMET, EMRE, FATİH, ETSTUR, TOLGA, ALİ, DENİZ, HAKAN, AHMET</li>
+            <li>PROPN: ETS, MEHMET, EMRE, FATİH, ETSTUR, TOLGA, ALİ, DENİZ, HAKAN, GÖKHAN</li>
             <li>VERB: GÜZELDİ, İYİYDİ, GÖRÜŞÜLDÜ, YOKTU, TESİSTİ, KALDIM, EDERİM, İLGİLİYDİ, İLGİLENDİ, VARDI</li>
             <li>VERB-Conv: GÖRÜŞTÜK</li>
             <li>VERB-Fin: GÜZELDİ, İYİYDİ, GÖRÜŞÜLDÜ, YOKTU, TESİSTİ, KALDIM, EDERİM, İLGİLİYDİ, İLGİLENDİ, VARDI</li>
@@ -1311,49 +1451,64 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li><a>Case</a></li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Abl
+          <ul>
+            <li>NOUN: öğleden, 6'dan, 5'ten, 10'dan, üzerinden, 8'den, havaalanından, 12'den, dolardan, 4'ten</li>
+            <li>PROPN: Boston'dan, Denver'den, Atlanta'dan, Pittsburgh'tan, Philadelphia'dan, Baltimore'den, Dallas'tan, Francisco'dan, Washington'dan, City'den</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Abl
           <ul>
@@ -1369,7 +1524,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Abl
           <ul>
@@ -1379,7 +1534,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Abl
           <ul>
@@ -1396,7 +1551,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Abl
           <ul>
@@ -1412,7 +1567,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Abl
           <ul>
@@ -1422,7 +1577,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Abl
           <ul>
@@ -1441,17 +1596,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Abl
           <ul>
-            <li>NOUN: tarafından, dolardan, Doları'ndan, milyardan, milyondan, azından, üzerinden, açısından, seviyesinden, sonundan</li>
-            <li>PROPN: Yen'den, Londra'dan, ABD'den, Campeau'dan, Drexel'den, Mesa'dan, Moskova'dan, Philadelphia'dan, York'tan, A'dan</li>
+            <li>NOUN: dolardan, tarafından, milyondan, milyardan, azından, seviyesinden, Doları'ndan, üzerinden, açısından, ortadan</li>
+            <li>PROPN: Yen'den, Co.'dan, York'tan, ABD'den, Kasım'dan, Londra'dan, İtalya'dan, Asya'dan, Ağustos'tan, Campeau'dan</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Abl
           <ul>
@@ -1463,7 +1618,17 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Acc
+          <ul>
+            <li>NOUN: uçuşlarını, listesini, fiyatlarını, havayollarını, uçuşları, ücretlerini, ücreti, ulaşımını, uçuşunu, olanaklarını</li>
+            <li>PROPN: Airlines'i, Field'i</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1481,7 +1646,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1491,7 +1656,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1509,7 +1674,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1525,7 +1690,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1535,7 +1700,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1551,17 +1716,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Acc
           <ul>
-            <li>NOUN: olduğunu, günü, fiyatları, yapmayı, doları, olmadığını, olacağını, merkezi, ettiğini, çoğu</li>
-            <li>PROPN: Co'yu, onu, Delmed'i, Kaliforniya'yı, A'yı, Andersson'u, Aoun'u, Arizona'yı, Bond'u, Bush'u</li>
+            <li>NOUN: olduğunu, olacağını, olmadığını, yapmayı, ettiğini, gerektiğini, günü, fiyatları, doları, hisselerini</li>
+            <li>PROPN: ABD'yi, Co'yu, onu, Co.'yu, Corp'u, Delmed'i, HUD'u, Inc'ı, Jaguar'ı, Kaliforniya'yı</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Acc
           <ul>
@@ -1573,7 +1738,17 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Dat
+          <ul>
+            <li>NOUN: uçuşa, uçağa, merkezine, anlama, şehrine, bilgiye, şehre, uçuşuna, bilgilerine, bilete</li>
+            <li>PROPN: Francisco'ya, Denver'e, Atlanta'ya, Baltimore'ye, Boston'a, Dallas'a, Philadelphia'ya, Pittsburgh'a, City'e, Oakland'a</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -1592,7 +1767,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -1602,7 +1777,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -1620,7 +1795,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -1637,7 +1812,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -1647,7 +1822,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Dat
           <ul>
@@ -1664,21 +1839,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Dat
           <ul>
-            <li>NOUN: Doları'na, dolara, başına, seviyesine, sona, makaleye, ortaya, işe, hâle, ise</li>
-            <li>PROPN: Yen'e, Dolar'a, Kasım'a, Frank'a, Paribas'a, Amerika'ya, Avrupa'ya, CenTrust'a, Kaliforniya'ya, Moskova'ya</li>
+            <li>NOUN: dolara, başına, sona, seviyesine, Doları'na, ortaya, hale, işe, hisseye, yıla</li>
+            <li>PROPN: Yen'e, Kasım'a, Dolar'a, ABD'ye, Amerika'ya, Washington'a, Avrupa'ya, Frank'a, Moskova'ya, Paribas'a</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Dat
           <ul>
-            <li>NOUN: ÜCRETE, FİYATA, DENİZE, AİLELERE, FİYATINA, MERKEZE, ADINA, ANKETE, BEYE, PARAYA</li>
+            <li>NOUN: ÜCRETE, FİYATA, DENİZE, AİLELERE, FİYATINA, MERKEZE, ADINA, ANKETE, PARAYA, BEYE</li>
             <li>PROPN: İSTANBUL'A, ATİNA'YA, KAYA'YA, SANTORİNİ'YE</li>
           </ul>
         </li>
@@ -1686,7 +1861,10 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Equ
           <ul>
@@ -1702,10 +1880,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Equ
           <ul>
@@ -1715,7 +1893,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Equ
           <ul>
@@ -1727,21 +1905,31 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Gen
+          <ul>
+            <li>NOUN: uçuşların, havayollarının, uçuşun, uçuşlarının, uçuşunun, sabahın, havayolunun, uçmanın, ayın, doların</li>
+            <li>PROPN: Airlines'in, Delta'nın, United'in, American'ın, Continental'ın, air'in, Eastern'in, Express'in, Twa'nin, Airline'nin</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -1759,7 +1947,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -1769,7 +1957,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -1783,7 +1971,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -1799,7 +1987,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -1809,7 +1997,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -1824,17 +2012,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Gen
           <ul>
-            <li>NOUN: şirketin, yılının, piyasanın, yatırımcıların, yılın, gününün, senetlerinin, şirketlerin, şirketinin, dünyanın</li>
-            <li>PROPN: Journal'ın, Japonya'nın, Bush'un, Çin'in, Corp'un, Londra'nın, Air'in, Almanya'nın, McCaw'ın, Noriega'nın</li>
+            <li>NOUN: şirketin, yılın, yatırımcıların, piyasanın, şirketlerin, yılının, hükümetin, dünyanın, şirketinin, hisselerin</li>
+            <li>PROPN: Japonya'nın, Bush'un, Journal'ın, Almanya'nın, Çin'in, ABD'nin, Co.'nun, Corp'un, Ford'un, Hazine'nin</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -1846,7 +2034,17 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Ins
+          <ul>
+            <li>NOUN: uçuşlarla, uçuşla, havayollarıyla, fiyatlarıyla, tarifeyle, uçakla, uçuşuyla, olanaklarıyla, uçuşlarıyla, ücretleriyle</li>
+            <li>PROPN: Continental'la, Airlines'le, Delta'yla, United'le, Air'le, American'la, Boston'la, Denver'le, Hvayolları'yla, Nationair'le</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -1860,7 +2058,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -1870,7 +2068,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -1883,7 +2081,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -1899,7 +2097,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -1909,7 +2107,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -1922,17 +2120,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ins
           <ul>
-            <li>NOUN: artışla, düşüşle, itibariyle, anlamıyla, nedenle, yükselişle, oranla, hisseyle, zamanla, deyişle</li>
-            <li>PROPN: Ford'la</li>
+            <li>NOUN: artışla, düşüşle, itibariyle, nedenle, yükselişle, oranla, anlamıyla, hisseyle, deyişle, zamanla</li>
+            <li>PROPN: Toyota'yla, CFC'lerle, Doğu'yla, Ford'la, Hut'la, Rubens'le</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ins
           <ul>
@@ -1944,7 +2142,17 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Loc
+          <ul>
+            <li>NOUN: arasında, civarında, havayollarında, saatlerinde, saatlerde, uçuşta, uçuşunda, Havaalanı'nda, saatte, 1991'de</li>
+            <li>PROPN: Temmuz'da, Ağustos'ta, Denver'de, Haziran'da, Dallas'ta, Atlanta'da, Kasım'da, Nisan'da, Aralık'ta, Eylül'de</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -1961,7 +2169,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -1971,7 +2179,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -1986,7 +2194,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -2002,7 +2210,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -2012,7 +2220,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Loc
           <ul>
@@ -2028,21 +2236,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Loc
           <ul>
-            <li>NOUN: şekilde, arasında, durumda, konusunda, ayında, anda, altında, yılında, katkıda, üzerinde</li>
-            <li>PROPN: York'ta, Kasım'da, Aralık'ta, Avrupa'da, Ekim'de, Japonya'da, Ağustos'ta, Tokyo'da, Londra'da, ABD'de</li>
+            <li>NOUN: şekilde, arasında, konusunda, ayında, altında, anda, yılında, durumda, zamanda, ölçüde</li>
+            <li>PROPN: York'ta, ABD'de, Japonya'da, Tokyo'da, Kasım'da, Avrupa'da, Ağustos'ta, Ekim'de, Aralık'ta, Eylül'de</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Loc
           <ul>
-            <li>NOUN: GİRİŞTE, GENELDE, OTELDE, ANLAMDA, YEMEKLERDE, ANDA, KONUSUNDA, ODADA, DIŞINDA, ÇIKIŞTA</li>
+            <li>NOUN: GİRİŞTE, GENELDE, ANLAMDA, OTELDE, YEMEKLERDE, ANDA, KONUSUNDA, ODADA, DIŞINDA, ÇIKIŞTA</li>
             <li>PROPN: ATLANTİS'TE</li>
           </ul>
         </li>
@@ -2050,7 +2258,17 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Nom
+          <ul>
+            <li>NOUN: uçuşları, uçuş, uçuşlar, günü, uçuşu, akşam, dönüş, gidiş, sabah, saat</li>
+            <li>PROPN: San, çarşamba, Boston, Denver, Washington, New, St., Francisco, pazartesi, Dallas</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -2072,7 +2290,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -2082,7 +2300,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -2102,7 +2320,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -2118,7 +2336,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -2129,7 +2347,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Nom
           <ul>
@@ -2146,100 +2364,105 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Nom
           <ul>
             <li>AUX: değilim, değiller, değilsin</li>
-            <li>NOUN: bay, hisse, Amerikan, şirket, devam, yıl, gelir, yorum, dolar, piyasa</li>
-            <li>PROPN: New, York, ABD, Inc, Corp., Wall, Co., Inc., Dow, Street</li>
+            <li>NOUN: bay, hisse, dolar, yıl, şirket, satın, devam, gelir, dün, Amerikan</li>
+            <li>PROPN: New, ABD, York, Corp., Dow, Jones, Wall, Cuma, Co., Inc.</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Nom
           <ul>
             <li>AUX: DEĞİLİM, DEĞİLLER</li>
             <li>NOUN: HİZMET, BEY, PUAN, ÇEŞİT, TAVSİYE, TESİS, PERSONEL, OTEL, YEMEKLER, KONUMU</li>
-            <li>PROPN: ETS, MEHMET, EMRE, FATİH, ETSTUR, TOLGA, ALİ, DENİZ, HAKAN, AHMET</li>
+            <li>PROPN: ETS, MEHMET, EMRE, FATİH, ETSTUR, TOLGA, ALİ, DENİZ, HAKAN, GÖKHAN</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li><a>Definite</a></li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
-
-    </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -2248,7 +2471,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
+      <ul>
+        <li>Def
+          <ul>
+            <li>DET: bu, her, o, şu</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -2258,10 +2493,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -2270,7 +2505,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -2281,7 +2516,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -2290,7 +2525,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Def
           <ul>
@@ -2301,10 +2536,19 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>DET: bir</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -2313,7 +2557,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -2323,7 +2567,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -2332,7 +2576,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -2341,7 +2585,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -2351,16 +2595,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ind
           <ul>
-            <li>DET: bir, bazı, birkaç, BİR, birçok, hedef, pazarlık</li>
+            <li>DET: bir, bazı, birkaç, BİR, Bİr, birçok, hedef</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -2371,70 +2615,75 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <h3>Degree and Polarity</h3>
+    </td>
+    <td width="11%" valign="top">
       <h3>Degree and Polarity</h3>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
-
-    </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
-
-    </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
+      <ul>
+        <li><a>Degree</a></li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
-
-    </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -2443,13 +2692,25 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Cmp
+          <ul>
+            <li>ADV: daha</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -2458,10 +2719,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -2470,7 +2731,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Cmp
           <ul>
@@ -2481,10 +2742,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
-
-    </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -2493,13 +2751,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
-
-    </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -2508,10 +2763,13 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -2520,7 +2778,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
+      <ul>
+        <li>Sup
+          <ul>
+            <li>ADV: en</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Sup
           <ul>
@@ -2531,49 +2801,63 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Neg
+          <ul>
+            <li>VERB-Fin: gitmem, bulmam, almam, geçirmem, görmem, istemiyorum, yaptırmam</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -2588,17 +2872,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Neg
           <ul>
-            <li>VERB: alamadı, demiyor, kalmadı, gelmez, alamıyordu, açamıyorum, başaramadı, dinlemedi, dinlemiyor, edememiş</li>
-            <li>VERB-Fin: alamadı, demiyor, kalmadı, gelmez, alamıyordu, açamıyorum, başaramadı, dinlemedi, dinlemiyor, edemiyorum</li>
+            <li>VERB-Fin: alamadı, demiyor, kalmadı, gelmez, alamıyordu, açamıyorum, başaramadı, dinlemedi, dinlemiyor, edememiş</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -2618,7 +2901,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -2631,18 +2914,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Neg
           <ul>
-            <li>VERB: olmaz, kalmadı, bilmem, olmasa, bilmiyorum, etmez, görmedim, gelmez, bilmez, olmazsa</li>
-            <li>VERB-Fin: olmaz, kalmadı, bilmem, bilmiyorum, etmez, görmedim, gelmez, bilmez, olmazsa, etmedi</li>
+            <li>VERB-Fin: olmaz, kalmadı, bilmem, olmasa, bilmiyorum, etmez, görmedim, gelmez, bilmez, olmazsa</li>
             <li>VERB-Vnoun: istememektedirler, yağmamasındaymış</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -2660,22 +2942,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Neg
           <ul>
-            <li>VERB: açıklanmadı, ulaşılamadı, yapmadı, değişmedi, olmayacak, açıklamadı, edilmedi, vermedi, etmedi, dönmedi</li>
-            <li>VERB-Fin: açıklanmadı, ulaşılamadı, yapmadı, değişmedi, olmayacak, açıklamadı, edilmedi, vermedi, etmedi, dönmedi</li>
-            <li>VERB-Vnoun: beklenmemektedir, düşünmemesiydi</li>
+            <li>VERB-Fin: açıklanmadı, ulaşılamadı, yapmadı, değişmedi, etmedi, olmayacak, söylemedi, vermedi, sanmıyorum, beklemiyor</li>
+            <li>VERB-Part: bahsetmediğinizdir, olmadığıydı</li>
+            <li>VERB-Vnoun: beklenmemektedir, düşünmemesiydi, olmamasıdır, olmamasıydı, yönlendirememenizdir</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Neg
           <ul>
-            <li>VERB: KALMADIM, İSTEMİYORUM, ETMEM, OLMADI, BEĞENMEDİM, KULLANMADIM, ALAMADIM, YAPTIRMADIM, GÖRMEDİM, KARŞILAMADI</li>
             <li>VERB-Fin: KALMADIM, İSTEMİYORUM, ETMEM, OLMADI, BEĞENMEDİM, KULLANMADIM, ALAMADIM, YAPTIRMADIM, GÖRMEDİM, KARŞILAMADI</li>
             <li>VERB-Vnoun: DÜŞÜNMEMEKTEDİR</li>
           </ul>
@@ -2684,7 +2965,18 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Pos
+          <ul>
+            <li>VERB-Conv: uçuşunuz, uçuşlardır</li>
+            <li>VERB-Fin: göster, istiyorum, listeleyin, gösterin, listele, uçuyor, bul, ver, kalkıyor, verin</li>
+            <li>VERB-Vnoun: demektir, kısaltmasıdır</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -2706,18 +2998,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Pos
           <ul>
-            <li>VERB: etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, ettim, gitti</li>
             <li>VERB-Fin: etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, ettim, gitti</li>
             <li>VERB-Vnoun: akmasın, sürümekti, yağlamaktı, yüzmekti</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -2728,7 +3019,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -2741,20 +3032,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Pos
           <ul>
-            <li>VERB: oldu, geldi, başladı, olur, vardı, çıktı, etti, olsun, dedi, aldı</li>
             <li>VERB-Conv: görüştü, kaçıştı, aldatıştır, alışıdır, buruşmuş, bölüştük, değişmiş, direnişler, dönüştü, düşüşteydi</li>
-            <li>VERB-Fin: oldu, geldi, başladı, olur, vardı, çıktı, etti, dedi, aldı, ediyordu</li>
+            <li>VERB-Fin: oldu, geldi, başladı, olur, vardı, çıktı, etti, olsun, dedi, aldı</li>
             <li>VERB-Part: olduğudur, uyandım, uyanmışım, çakıştığıdır, bulandı, dövüşeceklerdi, esirgediğiniz, ettiğindeyse, ettiğiniz, geldiğidir</li>
             <li>VERB-Vnoun: demektir, demekti, olmasıdır, koymaktır, olmasın, akdetmesiydi, aktarılmalıdır, almaktır, alınmalıdır, anlaşılmasıdır</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Pos
           <ul>
@@ -2771,24 +3061,22 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Pos
           <ul>
-            <li>VERB: oldu, ediyor, söyledi, geldi, etti, dedi, yükseldi, diyor, çıktı, düştü</li>
             <li>VERB-Conv: arayışındalar, dönüştü, değişti, düşüşündedir, oluştu, yükseliştedir</li>
-            <li>VERB-Fin: oldu, ediyor, söyledi, geldi, etti, dedi, yükseldi, diyor, çıktı, düştü</li>
-            <li>VERB-Part: düşündüğüdür, etkilenenlerdi, ettiğidir, getirdiğiydi, kazananıydı, olandır, olanlardır, olanıdır</li>
-            <li>VERB-Vnoun: danışmanlar, olmasıdır, demektir, sağlamaktır, bulmaktır, sözleşmeydi, Faturalandırmalar, almadır, almaktır, almalıyız</li>
+            <li>VERB-Fin: söyledi, dedi, ediyor, oldu, etti, yükseldi, diyor, düştü, kapandı, geldi</li>
+            <li>VERB-Part: olduğudur, Gördüğünüz, Sunduğunuz, alacağımızdır, dolaşacağıdır, dönüştürülebileceğidir, düşündüğüdür, etkilenenlerdi, ettiğidir, getirdiğiydi</li>
+            <li>VERB-Vnoun: olmasıdır, danışmanlar, demektir, sağlamaktır, almaktır, bulmaktır, sözleşmeydi, Faturalandırmalar, almadır, almaktı</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Pos
           <ul>
-            <li>VERB: GÖRÜŞÜLDÜ, KALDIK, KALDIM, EDERİM, İLGİLENDİ, VERİYORUM, İSTİYORUM, VERİRİM, OLABİLİRDİ, VARDI</li>
             <li>VERB-Conv: GÖRÜŞTÜK</li>
             <li>VERB-Fin: GÖRÜŞÜLDÜ, KALDIK, KALDIM, EDERİM, İLGİLENDİ, VERİYORUM, İSTİYORUM, VERİRİM, OLABİLİRDİ, VARDI</li>
             <li>VERB-Part: VERDİĞİNİZ</li>
@@ -2799,107 +3087,121 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Verbal Features</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Verbal Features</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Verbal Features</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Verbal Features</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Verbal Features</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Verbal Features</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Verbal Features</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <h3>Verbal Features</h3>
+    </td>
+    <td width="11%" valign="top">
       <h3>Verbal Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li><a>Aspect</a></li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li><a>Aspect</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Dur
           <ul>
@@ -2908,7 +3210,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Dur
           <ul>
@@ -2918,21 +3220,30 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Hab
+          <ul>
+            <li>VERB-Fin: söyleyebilir, alabilir, listeleyebilir, gösterebilir, söyler, bulabilir, varır, ederim, gitmem, gider</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Hab
           <ul>
@@ -2945,7 +3256,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Hab
           <ul>
@@ -2954,7 +3265,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Hab
           <ul>
@@ -2965,7 +3276,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Hab
           <ul>
@@ -2977,7 +3288,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Hab
           <ul>
@@ -2986,7 +3297,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Hab
           <ul>
@@ -3000,16 +3311,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Hab
           <ul>
-            <li>VERB-Fin: olabilir, kıyaslanır, olursa, olur, edebilir, eder, gelir, sanırım, içerir, olmayabilir</li>
+            <li>VERB-Fin: olabilir, eder, olursa, edebilir, olur, gerekir, içerir, dayanır, kıyaslanır, sanırım</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Hab
           <ul>
@@ -3020,7 +3331,10 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -3031,10 +3345,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -3045,24 +3359,33 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Perf
+          <ul>
+            <li>VERB-Fin: ayrılacağım, bulabileceğim, deneyeceğim, döneceğim, edeceğim, gidebileceğim, gideceğiz, isterdim, kalacağım, olacak</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -3077,19 +3400,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Perf
           <ul>
             <li>AUX-Fin: değildi</li>
-            <li>VERB: etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, ettim, gitti</li>
             <li>VERB-Fin: etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, ettim, gitti</li>
             <li>VERB-Vnoun: sürümekti, yağlamaktı, yüzmekti</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -3102,7 +3424,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -3116,13 +3438,11 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Perf
           <ul>
-            <li>AUX: değildi, değilmiş, değildim, değildik, değillerdi</li>
-            <li>AUX-Fin: değildi, değildim, değildik, değillerdi</li>
-            <li>VERB: vardı, oldu, geldi, başladı, çıktı, etti, yoktu, dedi, aldı, ediyordu</li>
+            <li>AUX-Fin: değildi, değilmiş, değildim, değildik, değillerdi</li>
             <li>VERB-Conv: görüştü, kaçıştı, buruşmuş, bölüştük, değişmiş, dönüştü, düşüşteydi, geçirişti, girişmiş, giriştiler</li>
             <li>VERB-Fin: vardı, oldu, geldi, başladı, çıktı, etti, yoktu, dedi, aldı, ediyordu</li>
             <li>VERB-Part: uyandım, uyanmışım, bulandı, dövüşeceklerdi, kuracaklarmış, olanlardı, pişireniydi, tıkanmış, uyandı</li>
@@ -3131,7 +3451,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Perf
           <ul>
@@ -3146,26 +3466,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Perf
           <ul>
-            <li>AUX-Fin: değildi, değillerdi, değildim</li>
-            <li>VERB: oldu, söyledi, geldi, etti, yükseldi, dedi, çıktı, düştü, kapandı, olacak</li>
+            <li>AUX-Fin: değildi, değillerdi, değildik, değildim, değilmiş</li>
             <li>VERB-Conv: dönüştü, değişti, oluştu</li>
-            <li>VERB-Fin: oldu, söyledi, geldi, etti, yükseldi, dedi, çıktı, düştü, kapandı, olacak</li>
-            <li>VERB-Part: etkilenenlerdi, getirdiğiydi, kazananıydı</li>
-            <li>VERB-Vnoun: sözleşmeydi, alınmasıydı, birleşmesiydi, düşünmemesiydi, edilmeli, getirmekti, korunmasızdı, oluşmaktaydı, satmaktı, saçmalamaktı</li>
+            <li>VERB-Fin: söyledi, dedi, oldu, yükseldi, etti, düştü, kapandı, geldi, çıktı, aldı</li>
+            <li>VERB-Part: etkilenenlerdi, getirdiğiydi, kazananıydı, olanlardı, olmadığıydı</li>
+            <li>VERB-Vnoun: sözleşmeydi, almaktı, alınmasıydı, açıklanmasıydı, birleşmesiydi, desteklemekti, düşmesiydi, düşünmemesiydi, edilmeli, edinmekti</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Perf
           <ul>
             <li>AUX-Fin: DEĞİLDİ, DEĞİLLERDİ, DEĞİLDİM, DEĞİLDİK, DEĞİLDİLER</li>
-            <li>VERB: GÜZELDİ, İYİYDİ, GÖRÜŞÜLDÜ, YOKTU, KALDIK, TESİSTİ, KALDIM, İLGİLİYDİ, İLGİLENDİ, VARDI</li>
             <li>VERB-Conv: GÖRÜŞTÜK</li>
             <li>VERB-Fin: GÜZELDİ, İYİYDİ, GÖRÜŞÜLDÜ, YOKTU, KALDIK, TESİSTİ, KALDIM, İLGİLİYDİ, İLGİLENDİ, VARDI</li>
             <li>VERB-Vnoun: ORTALAMAYDI, KARŞILAMAYDI</li>
@@ -3175,7 +3493,16 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Prog
+          <ul>
+            <li>VERB-Fin: istiyorum, uçuyor, kalkıyor, geliyor, gerekiyor, gidiyor, varıyor, arıyorum, veriyor, kullanılıyor</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Prog
           <ul>
@@ -3186,17 +3513,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Prog
           <ul>
-            <li>VERB: ediyor, yapıyor, atıyor, bakıyor, alıyor, demiyor, ediyorlar, ediyorum, kesiyor, veriyor</li>
             <li>VERB-Fin: ediyor, yapıyor, atıyor, bakıyor, alıyor, demiyor, ediyorlar, ediyorum, kesiyor, veriyor</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Prog
           <ul>
@@ -3206,7 +3532,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Prog
           <ul>
@@ -3215,17 +3541,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Prog
           <ul>
-            <li>VERB: geliyor, ediyor, oluyor, bakıyor, gidiyor, duruyor, konuşuyor, görünüyor, bilmiyorum, ediyorlar</li>
             <li>VERB-Fin: geliyor, ediyor, oluyor, bakıyor, gidiyor, duruyor, konuşuyor, görünüyor, bilmiyorum, ediyorlar</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Prog
           <ul>
@@ -3236,21 +3561,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Prog
           <ul>
-            <li>VERB: ediyor, diyor, söylüyor, veriyor, gösteriyor, geliyor, oluyor, görünüyor, yapıyor, bekleniyor</li>
-            <li>VERB-Fin: ediyor, diyor, söylüyor, veriyor, gösteriyor, geliyor, oluyor, görünüyor, yapıyor, bekleniyor</li>
+            <li>VERB-Fin: ediyor, diyor, söylüyor, bekleniyor, veriyor, gösteriyor, yapıyor, oluyor, düşünüyor, geliyor</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Prog
           <ul>
-            <li>VERB: VERİYORUM, İSTEMİYORUM, İSTİYORUM, EDİYORUM, EDİYORUZ, BİLMİYORUM, DÜŞÜNMÜYOR, DÜŞÜNÜYORUM, ETMİYORUM, HAKETMİYOR</li>
             <li>VERB-Fin: VERİYORUM, İSTEMİYORUM, İSTİYORUM, EDİYORUM, EDİYORUZ, BİLMİYORUM, DÜŞÜNMÜYOR, DÜŞÜNÜYORUM, ETMİYORUM, HAKETMİYOR</li>
           </ul>
         </li>
@@ -3258,13 +3581,16 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Prosp
           <ul>
@@ -3274,7 +3600,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Prosp
           <ul>
@@ -3283,10 +3609,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Prosp
           <ul>
@@ -3295,21 +3621,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Rapid
           <ul>
@@ -3318,7 +3647,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Rapid
           <ul>
@@ -3329,69 +3658,83 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Rapid
           <ul>
-            <li>VERB: atıver, aydınlanıversin, bulunuverse, buluverse, eşiver, gönderiver, görüver, uzatıver, yapıver</li>
+            <li>VERB-Fin: atıver, aydınlanıversin, bulunuverse, buluverse, eşiver, gönderiver, görüver, uzatıver, yapıver</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li><a>Mood</a></li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Cnd
+          <ul>
+            <li>VERB-Fin: mümkünse</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -3402,17 +3745,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Cnd
           <ul>
-            <li>VERB: olursa, çabalarsan, varsa, yaptıysa, Yetmezse, alırsan, azaltırsan, bakılırsa, büyütmezsek, ederse</li>
-            <li>VERB-Fin: olursa, çabalarsan, yaptıysa, Yetmezse, alırsan, azaltırsan, bakılırsa, büyütmezsek, ederse, edersen</li>
+            <li>VERB-Fin: varsa, yaptıysa, geldiyse, kazanıyorsa, kuşattıysa, mümkünse, yazsa, yorulduysa, çalıştıysa</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -3423,7 +3765,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -3433,20 +3775,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Cnd
           <ul>
-            <li>AUX: değilse</li>
-            <li>VERB: olursa, varsa, olmazsa, oysa, isterse, öyleyse, ederse, gelirse, isterseniz, bakılırsa</li>
-            <li>VERB-Fin: olursa, olmazsa, ederse, isterse, isterseniz, bakılırsa, edilirse, etmezse, düşerse, bakarsan</li>
+            <li>AUX-Fin: değilse</li>
+            <li>VERB-Fin: varsa, oysa, öyleyse, gelirse, ediyorsa, geldiyse, içinse, nedense, neyse, tutarsa</li>
             <li>VERB-Part: ettiğindeyse</li>
             <li>VERB-Vnoun: etmektense, girmektense, giymektense, kesinlemekse, olmaktansa, sağlamaktansa, yapmaktansa, ölmektense</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Cnd
           <ul>
@@ -3456,37 +3797,50 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Cnd
           <ul>
-            <li>AUX: değilse</li>
-            <li>VERB: olursa, varsa, yüksek, olursak, zayıflarsa, öyleyse, Yapmazsan, almazsa, artarsa, bakılırsa</li>
-            <li>VERB-Fin: olursa, olursak, zayıflarsa, Yapmazsan, almazsa, artarsa, bakılırsa, bilirlerse, biliyorsan, bilmezse</li>
+            <li>AUX-Fin: değilse</li>
+            <li>VERB-Fin: varsa, öyleyse, gerekiyorsa, düşüyorsa, gelirse, istiyorsa, olacaksa, yoksa, yüksek, adamlarıysa</li>
             <li>VERB-Vnoun: yapmaktansa</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Cnd
           <ul>
-            <li>VERB: OLURSA, VARSA, İSTİYORSANIZ, YENİLENİRSE, YAPTIYSA, İSTERSENİZ, DÜZELİRSE, DÜŞÜNÜRSE, GELİRSE, OLUNURSA</li>
-            <li>VERB-Fin: OLURSA, İSTİYORSANIZ, YENİLENİRSE, YAPTIYSA, İSTERSENİZ, DÜZELİRSE, DÜŞÜNÜRSE, GELİRSE, OLUNURSA, ARAMAZSANIZ</li>
+            <li>VERB-Fin: VARSA, İSTİYORSANIZ, YAPTIYSA, YAPINIZ, BİRSEN, DÜŞÜNÜYORSANIZ, GELDİYSENİZ</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>CndGen
+          <ul>
+            <li>VERB-Fin: inersem, yaparsam</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>CndGen
+          <ul>
+            <li>VERB-Fin: olursa, çabalarsan, Yetmezse, alırsan, azaltırsan, bakılırsa, büyütmezsek, ederse, edersen, ederseniz</li>
+          </ul>
+        </li>
+      </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>CndGen
           <ul>
@@ -3496,13 +3850,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>CndGen
+          <ul>
+            <li>VERB-Fin: olursa, olmazsa, ederse, isterse, isterseniz, bakılırsa, edilirse, etmezse, düşerse, bakarsan</li>
+          </ul>
+        </li>
+      </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>CndGen
           <ul>
@@ -3512,21 +3872,42 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>CndGen
+          <ul>
+            <li>VERB-Fin: olursa, düşerse, kalırsa, olmazsa, olursak, alırsa, artarsa, bakılırsa, bulursa, gerekirse</li>
+          </ul>
+        </li>
+      </ul>
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>CndGen
+          <ul>
+            <li>VERB-Fin: OLURSA, YENİLENİRSE, İSTERSENİZ, DÜZELİRSE, DÜŞÜNÜRSE, GELİRSE, OLUNURSA, ARAMAZSANIZ, BAŞARIRSANIZ, DÜZELTİRLERSE</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>CndGenPot
+          <ul>
+            <li>VERB-Fin: çoğaltabilirsek</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>CndGenPot
           <ul>
@@ -3535,30 +3916,57 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>CndGenPot
+          <ul>
+            <li>VERB-Fin: sevebilirse, beceremezse, boşalamazsam, bulabilirse, bulamazsak, dileyebilirsem, edebilirseniz, edemezsek, rastlayamazsam, satamazsam</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>CndGenPot
+          <ul>
+            <li>VERB-Fin: alabilirse, alamazsa, bulabilirse, kaçınamazsa, yapamazlarsa, yönlendirilebilirse</li>
+          </ul>
+        </li>
+      </ul>
     </td>
-    <td width="12%" valign="top">
-
-    </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>CndGenPot
+          <ul>
+            <li>VERB-Fin: GÖREBİLİRSENİZ, GİREBİLİRSENİZ</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>CndPot
+          <ul>
+            <li>VERB-Fin: yapabiliyorsan</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>CndPot
           <ul>
@@ -3567,7 +3975,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>CndPot
           <ul>
@@ -3576,10 +3984,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>CndPot
+          <ul>
+            <li>VERB-Fin: olunamıyorsa, öldüremedilerse</li>
+          </ul>
+        </li>
+      </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>CndPot
           <ul>
@@ -3588,15 +4002,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>CndPot
+          <ul>
+            <li>VERB-Fin: denetleyebiliyorsa</li>
+          </ul>
+        </li>
+      </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Des
           <ul>
@@ -3606,20 +4029,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Des
           <ul>
-            <li>VERB: olsa, kalkışsa, atsa, bıraksak, demese, gelse, getirsek, geçirse, gitmesek, gitse</li>
-            <li>VERB-Fin: küçülmeseydin</li>
+            <li>VERB-Fin: olsa, kalkışsa, atsa, bıraksak, demese, gelse, getirsek, geçirse, gitmesek, gitse</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Des
           <ul>
@@ -3628,51 +4050,51 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Des
           <ul>
-            <li>VERB: olsa, ise, olmasa, olsaydı, olmasaydı, gelse, görse, görsem, varsa, bulsam</li>
-            <li>VERB-Fin: olsaydı, olmasaydı, görseydi, okusaydım, seçselerdi, çıkmasaydı, çıksaydı, Tartsaydınız, almasaydı, alınsaydı</li>
+            <li>VERB-Fin: olsa, ise, olmasa, olsaydı, olmasaydı, gelse, görse, görsem, varsa, bulsam</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Des
           <ul>
-            <li>VERB: ise, olsa, olsaydı, etmeseler, iseniz, istense, olmasa, olmasak, olmasaydı, olsalar</li>
-            <li>VERB-Fin: olsaydı, olmasaydı, paylaşsaydı, söylenseydi, yapabilseydi</li>
+            <li>VERB-Fin: ise, olsa, olsaydı, olmasa, varsa, verse, Kazansam, artsa, artırmasaydık, aşsa</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Des
           <ul>
-            <li>VERB: OLSA, BİTSE, KURTULSAK, OLMASA, VARSA, KALKSAM, OLMASAM, OLSAK, OLSAYDI, İSE</li>
-            <li>VERB-Fin: OLSAYDI</li>
+            <li>VERB-Fin: OLSA, BİTSE, KURTULSAK, OLMASA, VARSA, KALKSAM, OLMASAM, OLSAK, OLSAYDI, İSE</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>DesPot
           <ul>
@@ -3681,21 +4103,44 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>DesPot
+          <ul>
+            <li>VERB-Fin: edebilsek, Geğirebilsem, bağlayabilsek, kavuşabilseydik, konuşabilse, koparabilse</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>DesPot
+          <ul>
+            <li>VERB-Fin: alınabilse, edebilse, geçemese, yapabilseydi</li>
+          </ul>
+        </li>
+      </ul>
     </td>
-    <td width="12%" valign="top">
-
-    </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Gen
+          <ul>
+            <li>VERB-Conv: uçuşunuz, uçuşlardır</li>
+            <li>VERB-Fin: nedir, nelerdir, söyler, mevcuttur, havayoludur, varır, ederim, gitmem, gider, hangileridir</li>
+            <li>VERB-Vnoun: demektir, kısaltmasıdır</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -3705,10 +4150,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>Gen
+          <ul>
+            <li>AUX-Fin: değilim</li>
+            <li>VERB-Fin: eder, olur, geçer, ederim, alır, çıkar, bilir, gelmez, girer, yapar</li>
+            <li>VERB-Vnoun: akmasın</li>
+          </ul>
+        </li>
+      </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -3719,7 +4172,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -3729,10 +4182,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>Gen
+          <ul>
+            <li>AUX-Fin: değildir, değiliz, değilim, değilsin, değilsiniz</li>
+            <li>VERB-Conv: aldatıştır, alışıdır, oluşumdur, verilişidir</li>
+            <li>VERB-Fin: olur, vardır, eder, yoktur, alır, çıkar, bilir, olmaz, söyler, nedir</li>
+            <li>VERB-Part: olduğudur, çakıştığıdır, esirgediğiniz, ettiğiniz, geldiğidir, gelenlerindendir, getirenlerdendir, gördüğünüz, istediğiniz, olanlardır</li>
+            <li>VERB-Vnoun: demektir, olmasıdır, koymaktır, olmasın, aktarılmalıdır, almaktır, alınmalıdır, anlaşılmasıdır, açmalıdırlar, baktırmasın</li>
+          </ul>
+        </li>
+      </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Gen
           <ul>
@@ -3744,21 +4207,49 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>Gen
+          <ul>
+            <li>AUX-Fin: değildir, değiliz, değilim, değillerdir</li>
+            <li>VERB-Conv: düşüşündedir, yükseliştedir</li>
+            <li>VERB-Fin: sahiptir, vardır, eder, şirketidir, biridir, dolardır, olur, nedir, gerekir, bağlıdır</li>
+            <li>VERB-Part: olduğudur, Gördüğünüz, Sunduğunuz, alacağımızdır, bahsetmediğinizdir, dolaşacağıdır, düşündüğüdür, ettiğidir, olacağıdır, olandır</li>
+            <li>VERB-Vnoun: olmasıdır, demektir, sağlamaktır, almaktır, bulmaktır, almadır, almalıyız, anlamasıdır, azalmasıdır, azaltmaktır</li>
+          </ul>
+        </li>
+      </ul>
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>Gen
+          <ul>
+            <li>AUX-Fin: DEĞİLİM, DEĞİLDİR</li>
+            <li>VERB-Fin: EDERİM, VERİRİM, ETMEM, EDERİZ, DEĞERLENDİRİRİM, MEMNUNUM, BAHSEDERİM, MEMNUNUZ, KARARSIZIM, İSTERİM</li>
+            <li>VERB-Part: VERDİĞİNİZ</li>
+            <li>VERB-Vnoun: DÜŞÜNMEMEKTEDİR</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>GenNec
+          <ul>
+            <li>VERB-Fin: olmalıdır</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>GenNec
           <ul>
@@ -3767,7 +4258,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>GenNec
           <ul>
@@ -3776,10 +4267,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>GenNec
+          <ul>
+            <li>VERB-Fin: kalmalıdır, olmalıdır, alınmalıdır, bulunmalıdır, heveslenmelidir, sayılmalıdır</li>
+          </ul>
+        </li>
+      </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>GenNec
           <ul>
@@ -3788,24 +4285,33 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>GenNec
+          <ul>
+            <li>VERB-Fin: olmalıdır, yapmalıdır, etmelidir, getirmelidir, kaldırmalıdır, onaylamalıdır, yapılmalıdır, almalıdır, alınmalıdır, açıklıyor</li>
+          </ul>
+        </li>
+      </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>GenNecPot
           <ul>
@@ -3814,27 +4320,42 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>GenPot
+          <ul>
+            <li>VERB-Fin: söyleyebilir, alabilir, listeleyebilir, gösterebilir, bulabilir, gidebilirim, verebilir, görebilir, uçabilir, alabilirim</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>GenPot
+          <ul>
+            <li>VERB-Fin: kotaramam, alabiliriz, alabilirsin, alabilirsiniz, açabilir, bakamaz, benzetilebilir, beğendiremezdik, değiştirebiliriz, gelemezdi</li>
+          </ul>
+        </li>
+      </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>GenPot
           <ul>
@@ -3844,7 +4365,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>GenPot
           <ul>
@@ -3853,10 +4374,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>GenPot
+          <ul>
+            <li>VERB-Fin: olabilir, edebilir, edemez, edilemez, olamaz, verebilirim, yapamaz, alamaz, edemem, getirebilirim</li>
+            <li>VERB-Vnoun: koyabilmesidir</li>
+          </ul>
+        </li>
+      </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>GenPot
           <ul>
@@ -3867,21 +4395,38 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>GenPot
+          <ul>
+            <li>VERB-Fin: olabilir, edebilir, olabilirdi, olmayabilir, edilebilir, getirebilir, alabilir, olamaz, verebilir, gelebilir</li>
+            <li>VERB-Part: dönüştürülebileceğidir, olabileceğidir, yapabileceğimizdir</li>
+            <li>VERB-Vnoun: geçebilmesidir, kullanılabilmesidir, yönlendirememenizdir</li>
+          </ul>
+        </li>
+      </ul>
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>GenPot
+          <ul>
+            <li>VERB-Fin: OLABİLİRDİ, OLABİLİR, VEREBİLİRİM, VEREMEM, ALABİLİRDİM, GİDEBİLİR, DİYEBİLİRİM, OLAMAZ, ALABİLİR, ALABİLİRİM</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>GenPotPot
           <ul>
@@ -3890,24 +4435,33 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Imp
+          <ul>
+            <li>VERB-Fin: göster, listeleyin, gösterin, listele, bul, ver, verin, bulun, söyle, açıkla</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -3919,16 +4473,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Imp
           <ul>
-            <li>VERB: et, bırak, aç, değiştir, al, dinle, gel, geç, olsun, çabala</li>
+            <li>VERB-Fin: et, bırak, aç, değiştir, al, dinle, gel, geç, olsun, çabala</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -3938,7 +4492,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -3947,16 +4501,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Imp
           <ul>
-            <li>VERB: olsun, bak, vardır, gel, var, söyle, gelsin, ol, bırak, bakın</li>
+            <li>VERB-Fin: olsun, bak, vardır, gel, var, söyle, gelsin, ol, bırak, bakın</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Imp
           <ul>
@@ -3967,27 +4521,36 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Imp
           <ul>
-            <li>VERB: olsun, anlaşma, buna, et, uçuş, al, artış, bekleyin, ol, satış</li>
+            <li>VERB-Fin: olsun, kıyasla, dile, dönüş, et, al, git, bekleyin, düşünün, edin</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Imp
           <ul>
-            <li>VERB: OLSUN, ARAMAYIN, GELSİN, OLSUNLAR, ALINIZ, GİDİN, SAĞOLUN, VAR, ANIL, CHECK</li>
+            <li>VERB-Fin: OLSUN, ARAMAYIN, GELSİN, OLSUNLAR, GİDİN, SAĞOLUN, VAR, ALINIZ, ANIL, CHECK</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>VERB-Fin: istiyorum, uçuyor, kalkıyor, geliyor, gerekiyor, gidiyor, varıyor, arıyorum, veriyor, kullanılıyor</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -4002,7 +4565,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -4013,7 +4576,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -4029,7 +4592,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -4043,20 +4606,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ind
           <ul>
-            <li>AUX-Fin: değildi, değildim, değildik, değillerdi</li>
-            <li>VERB-Conv: görüştü, kaçıştı, bölüştük, dönüştü, düşüşteydi, geçirişti, giriştiler, karıştı, kaçıştık, kaçıştılar</li>
+            <li>AUX-Fin: değildi, değilmiş, değildim, değildik, değillerdi</li>
+            <li>VERB-Conv: görüştü, kaçıştı, buruşmuş, bölüştük, değişmiş, dönüştü, düşüşteydi, geçirişti, girişmiş, giriştiler</li>
             <li>VERB-Fin: vardı, oldu, geldi, başladı, çıktı, etti, yoktu, dedi, aldı, ediyordu</li>
-            <li>VERB-Part: uyandım, bulandı, dövüşeceklerdi, olanlardı, pişireniydi, uyandı</li>
-            <li>VERB-Vnoun: demekti, akdetmesiydi, bastırılmasıydı, dalmaktı, etmekteydi, hazırlanmaktaydı, istemeleriydi, kavuşmasıydı, olmalıydı, oynamalıydı</li>
+            <li>VERB-Part: uyandım, uyanmışım, bulandı, dövüşeceklerdi, kuracaklarmış, olanlardı, pişireniydi, tıkanmış, uyandı</li>
+            <li>VERB-Vnoun: demekti, akdetmesiydi, bastırılmasıydı, dalmaktı, etmekmiş, etmekteydi, hazırlanmaktaydı, istemeleriydi, kavuşmasıydı, olmalıydı</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -4071,20 +4634,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ind
           <ul>
-            <li>AUX-Fin: değildi, değillerdi, değildim</li>
+            <li>AUX-Fin: değildi, değillerdi, değildik, değildim, değilmiş</li>
             <li>VERB-Conv: dönüştü, değişti, oluştu</li>
-            <li>VERB-Fin: oldu, ediyor, söyledi, geldi, etti, yükseldi, dedi, diyor, çıktı, düştü</li>
-            <li>VERB-Part: etkilenenlerdi, getirdiğiydi, kazananıydı</li>
-            <li>VERB-Vnoun: sözleşmeydi, alınmasıydı, birleşmesiydi, düşünmemesiydi, edilmeli, getirmekti, korunmasızdı, oluşmaktaydı, satmaktı, saçmalamaktı</li>
+            <li>VERB-Fin: söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</li>
+            <li>VERB-Part: etkilenenlerdi, getirdiğiydi, kazananıydı, olanlardı, olmadığıydı</li>
+            <li>VERB-Vnoun: sözleşmeydi, almaktı, alınmasıydı, açıklanmasıydı, birleşmesiydi, desteklemekti, düşmesiydi, düşünmemesiydi, edilmeli, edinmekti</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -4098,7 +4661,16 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Nec
+          <ul>
+            <li>VERB-Fin: binmeliyim, kalkmalı, olmalı, uçmalı, uçmalıyım, vermeli</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Nec
           <ul>
@@ -4107,17 +4679,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Nec
           <ul>
-            <li>VERB: etmeliyiz, beklemeliyiz, biçmeliyiz, bırakmamalısın, değiştirmelisin, etmelisiniz, getirmelisin, geçmeliydim, incelemeliyim, kazanmalıydım</li>
-            <li>VERB-Fin: geçmeliydim, kazanmalıydım, olmalıydı, tutmalıydı</li>
+            <li>VERB-Fin: etmeliyiz, beklemeliyiz, biçmeliyiz, bırakmamalısın, değiştirmelisin, etmelisiniz, getirmelisin, geçmeliydim, incelemeliyim, kazanmalıydım</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Nec
           <ul>
@@ -4127,7 +4698,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Nec
           <ul>
@@ -4136,17 +4707,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Nec
           <ul>
-            <li>VERB: olmalıydı, olmalı, etmeli, gelmeli, yazmalı, almalı, bilmeli, bitirilmeli, kaldırmalı, kalmalıdır</li>
-            <li>VERB-Fin: olmalıydı, almalıydı, bulmalıydı, düşünmeliydim, giymeliydim, görmeliydiniz, konuşmamalıydım, olmamalıydı, varmalıydılar, yapmalıydı</li>
+            <li>VERB-Fin: olmalıydı, olmalı, etmeli, gelmeli, yazmalı, almalı, bilmeli, bitirilmeli, kaldırmalı, kazanmalıyım</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Nec
           <ul>
@@ -4157,38 +4727,39 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Nec
           <ul>
-            <li>VERB: olmalı, etmeli, etmelidir, gitmeli, olmalılar, yapmalıdır, almalıdır, alınmalıdır, açmalı, açıklıyor</li>
-            <li>VERB-Fin: edilmeliydi, etmeliydi, getirilmeliydi, olmamalıydı, yapmalıydılar, yaratmalıydı</li>
+            <li>VERB-Fin: olmalı, etmeli, edilmeliydi, etmeliyiz, gitmeli, incelemeliyiz, olmalılar, olmalıydı, almalı, anlamalıyız</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Nec
           <ul>
-            <li>VERB: GİTMELİ, OLMALIYDI, ETMELİ, GİTMEMELİ, OLMALI, ÖDÜLLENDİRİLMELİ, YAPMALI, YAŞANMALI, ARAMALIYDI, EDİLMELİ</li>
-            <li>VERB-Fin: OLMALIYDI, ARAMALIYDI, OLMAMALIYDI</li>
+            <li>VERB-Fin: GİTMELİ, OLMALIYDI, ETMELİ, GİTMEMELİ, OLMALI, ÖDÜLLENDİRİLMELİ, YAPMALI, YAŞANMALI, ARAMALIYDI, EDİLMELİ</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>NecPot
           <ul>
@@ -4197,21 +4768,30 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Opt
+          <ul>
+            <li>VERB-Fin: bakalım, dönebileyim, aza, gidelim, kalabileyim, kısa, olabileyim, yapa</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Opt
           <ul>
@@ -4220,16 +4800,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Opt
           <ul>
-            <li>VERB: sallaya, gide, havlaya, edelim, açalım, bırakalım, bırakayım, geçelim, kaldıralım, kaynaya</li>
+            <li>VERB-Fin: sallaya, gide, havlaya, edelim, açalım, bırakalım, bırakayım, geçelim, kaldıralım, kaynaya</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Opt
           <ul>
@@ -4239,7 +4819,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Opt
           <ul>
@@ -4248,17 +4828,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Opt
           <ul>
-            <li>VERB: bakalım, yapalım, edelim, söyleyeyim, yana, bile, doya, ede, sarsıla, basa</li>
-            <li>VERB-Fin: duraydın, olaydım, olaydın, yiyeydi</li>
+            <li>VERB-Fin: bakalım, yapalım, edelim, söyleyeyim, yana, bile, doya, ede, sarsıla, basa</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Opt
           <ul>
@@ -4268,27 +4847,36 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Opt
           <ul>
-            <li>VERB: satışa, bile, artışa, açıklayalım, denkleştirmeye, dile, düze, düşüşe, gide, konumlanmaya</li>
+            <li>VERB-Fin: gide, olayım, satışa, Ola, Yaka, alalım, anlayalım, açıklayalım, bata, denemeyelim</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Opt
           <ul>
-            <li>VERB: VERMEYEYİM, DÖNE, GECE, SIRITA, BELİRTEYİM, GELELİM, GÖNDERELİM, GÖRÜŞELİM</li>
+            <li>VERB-Fin: VERMEYEYİM, DÖNE, GECE, SIRITA, BELİRTEYİM, GELELİM, GÖNDERELİM, GÖRÜŞELİM</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Pot
+          <ul>
+            <li>VERB-Fin: bulabileceğim, gidebileceğim, uçabileceğim</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Pot
           <ul>
@@ -4299,10 +4887,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>Pot
+          <ul>
+            <li>VERB-Fin: alamadı, alamıyordu, açamıyorum, başaramadı, edememiş, edemiyorum, alabiliyordu, alamadım, alamıyorum, açınsayabildi</li>
+          </ul>
+        </li>
+      </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Pot
           <ul>
@@ -4315,7 +4909,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Pot
           <ul>
@@ -4327,10 +4921,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>Pot
+          <ul>
+            <li>VERB-Fin: bulamadım, edemiyorum, silkinemiyorum, yediremiyorum, anlayamadım, bulamadık, bulamıyordum, veremiyor, alabilecekler, alamıyor</li>
+            <li>VERB-Vnoun: keşfedebilmekteyim</li>
+          </ul>
+        </li>
+      </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Pot
           <ul>
@@ -4341,21 +4942,36 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>Pot
+          <ul>
+            <li>VERB-Fin: ulaşılamadı, alamadı, ulaşamadık, yapamadı, alabiliyor, bulamadı, bulunamadı, edebiliyor, edemedi, edemiyor</li>
+          </ul>
+        </li>
+      </ul>
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>Pot
+          <ul>
+            <li>VERB-Fin: ALAMADIM, ALAMADIK, GÖREMEDİK, GÖRÜŞEMEDİK, VEREMİYORUM, BULAMADIM, GÖREMEDİM, KATILAMAYACAĞIM, VEREMEYECEĞİM, YAPAMAYACAĞIM</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>PotPot
           <ul>
@@ -4364,33 +4980,36 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -4399,63 +5018,77 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li><a>Tense</a></li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Fut
+          <ul>
+            <li>VERB-Fin: ayrılacağım, bulabileceğim, deneyeceğim, döneceğim, edeceğim, gidebileceğim, gideceğiz, kalacağım, olacak, uçabileceğim</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -4466,7 +5099,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -4475,7 +5108,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -4487,7 +5120,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -4497,7 +5130,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -4506,7 +5139,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -4518,16 +5151,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Fut
           <ul>
-            <li>VERB-Fin: olacak, edecek, gelecek, olmayacak, kalacak, olacaktır, yapacak, edilecek, alacak, girecek</li>
+            <li>VERB-Fin: olacak, edecek, olacaktır, başlayacak, alacak, olmayacak, kalacak, gelecek, yapacak, ödeyecek</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Fut
           <ul>
@@ -4538,13 +5171,16 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Fut,Past
           <ul>
@@ -4554,7 +5190,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Fut,Past
           <ul>
@@ -4563,21 +5199,30 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Past
+          <ul>
+            <li>VERB-Fin: isterdim, olurdu, yedi</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -4590,7 +5235,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -4601,7 +5246,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -4615,7 +5260,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -4628,7 +5273,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -4641,7 +5286,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -4653,20 +5298,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Past
           <ul>
-            <li>AUX-Fin: değildi, değillerdi, değildim</li>
+            <li>AUX-Fin: değildi, değillerdi, değildik, değildim</li>
             <li>VERB-Conv: dönüştü, değişti, oluştu</li>
-            <li>VERB-Fin: oldu, söyledi, geldi, etti, yükseldi, dedi, çıktı, düştü, kapandı, açıklanmadı</li>
-            <li>VERB-Part: etkilenenlerdi, getirdiğiydi, kazananıydı</li>
-            <li>VERB-Vnoun: sözleşmeydi, alınmasıydı, birleşmesiydi, düşünmemesiydi, edilmeli, getirmekti, korunmasızdı, oluşmaktaydı, satmaktı, saçmalamaktı</li>
+            <li>VERB-Fin: söyledi, dedi, oldu, yükseldi, etti, düştü, kapandı, geldi, çıktı, aldı</li>
+            <li>VERB-Part: etkilenenlerdi, getirdiğiydi, kazananıydı, olanlardı, olmadığıydı</li>
+            <li>VERB-Vnoun: sözleşmeydi, almaktı, alınmasıydı, açıklanmasıydı, birleşmesiydi, desteklemekti, düşmesiydi, düşünmemesiydi, edilmeli, edinmekti</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Past
           <ul>
@@ -4680,7 +5325,10 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Pqp
           <ul>
@@ -4689,10 +5337,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Pqp
           <ul>
@@ -4701,7 +5349,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Pqp
           <ul>
@@ -4710,10 +5358,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Pqp
           <ul>
@@ -4723,15 +5371,27 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Pres
+          <ul>
+            <li>VERB: göster, istiyorum, nedir, listeleyin, gösterin, listele, nelerdir, uçuyor, bul, ver</li>
+            <li>VERB-Conv: uçuşunuz, uçuşlardır</li>
+            <li>VERB-Fin: göster, istiyorum, nedir, listeleyin, gösterin, listele, nelerdir, uçuyor, bul, ver</li>
+            <li>VERB-Vnoun: demektir, kısaltmasıdır</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -4746,19 +5406,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Pres
           <ul>
-            <li>AUX: değilim</li>
+            <li>AUX-Fin: değilim</li>
             <li>VERB: ediyor, eder, olur, yapıyor, atıyor, bakıyor, et, geçer, sallaya, bırak</li>
-            <li>VERB-Fin: ediyor, eder, olur, yapıyor, atıyor, bakıyor, geçer, ederim, alır, alıyor</li>
+            <li>VERB-Fin: ediyor, eder, olur, yapıyor, atıyor, bakıyor, et, geçer, sallaya, bırak</li>
             <li>VERB-Vnoun: akmasın</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -4772,7 +5432,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -4786,21 +5446,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Pres
           <ul>
-            <li>AUX: değildir, değilse, değiliz, değilim, değilmiş, değilsin, değilsiniz</li>
+            <li>AUX-Fin: değildir, değilse, değiliz, değilim, değilmiş, değilsin, değilsiniz</li>
             <li>VERB: vardır, olur, olsun, olsa, eder, geliyor, ediyor, yoktur, oluyor, olmuş</li>
             <li>VERB-Conv: aldatıştır, alışıdır, buruşmuş, değişmiş, direnişler, girişmiş, kalkışmış, karışmış, kaçışmış, oluşumdur</li>
-            <li>VERB-Fin: olur, eder, geliyor, ediyor, oluyor, alır, olursa, çıkar, bilir, bakıyor</li>
+            <li>VERB-Fin: vardır, olur, olsun, olsa, eder, geliyor, ediyor, yoktur, oluyor, olmuş</li>
             <li>VERB-Part: olduğudur, uyanmışım, çakıştığıdır, esirgediğiniz, ettiğindeyse, ettiğiniz, geldiğidir, gelenlerindendir, getirenlerdendir, gördüğünüz</li>
             <li>VERB-Vnoun: demektir, olmasıdır, koymaktır, olmasın, aktarılmalıdır, almaktır, alınmalıdır, anlaşılmasıdır, açmalıdırlar, baktırmasın</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Pres
           <ul>
@@ -4815,27 +5475,29 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Pres
           <ul>
-            <li>AUX: değildir, değiliz, değilim, değilse</li>
-            <li>VERB: ediyor, diyor, olabilir, söylüyor, veriyor, gösteriyor, geliyor, oluyor, görünüyor, yapıyor</li>
+            <li>AUX: değildir, değiliz, değilse, değilim, değiller, değillerdir, değilmiş</li>
+            <li>AUX-Fin: değildir, değiliz, değilse, değilim, değillerdir, değilmiş</li>
+            <li>VERB: ediyor, diyor, söylüyor, olabilir, bekleniyor, veriyor, gösteriyor, yapıyor, oluyor, düşünüyor</li>
             <li>VERB-Conv: arayışındalar, düşüşündedir, yükseliştedir</li>
-            <li>VERB-Fin: ediyor, diyor, olabilir, söylüyor, veriyor, gösteriyor, geliyor, oluyor, yapıyor, görünüyor</li>
-            <li>VERB-Part: düşündüğüdür, ettiğidir, olandır, olanlardır, olanıdır</li>
-            <li>VERB-Vnoun: danışmanlar, olmasıdır, demektir, sağlamaktır, bulmaktır, Faturalandırmalar, almadır, almaktır, almalıyız, anlamasıdır</li>
+            <li>VERB-Fin: ediyor, diyor, söylüyor, olabilir, bekleniyor, veriyor, gösteriyor, yapıyor, oluyor, düşünüyor</li>
+            <li>VERB-Part: olduğudur, Gördüğünüz, Sunduğunuz, alacağımızdır, bahsetmediğinizdir, dolaşacağıdır, dönüştürülebileceğidir, düşündüğüdür, ettiğidir, olabileceğidir</li>
+            <li>VERB-Vnoun: olmasıdır, danışmanlar, demektir, sağlamaktır, almaktır, bulmaktır, Faturalandırmalar, almadır, almalıyız, anlamasıdır</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Pres
           <ul>
             <li>AUX: DEĞİLİM, DEĞİLLER, DEĞİLDİR</li>
+            <li>AUX-Fin: DEĞİLİM, DEĞİLDİR</li>
             <li>VERB: EDERİM, VERİYORUM, İSTEMİYORUM, İSTİYORUM, VERİRİM, ETMEM, EDİYORUM, EDERİZ, DEĞERLENDİRİRİM, MEMNUNUM</li>
-            <li>VERB-Fin: EDERİM, VERİYORUM, İSTEMİYORUM, İSTİYORUM, VERİRİM, ETMEM, EDİYORUM, EDERİZ, DEĞERLENDİRİRİM, BAHSEDERİM</li>
+            <li>VERB-Fin: EDERİM, VERİYORUM, İSTEMİYORUM, İSTİYORUM, VERİRİM, ETMEM, EDİYORUM, EDERİZ, DEĞERLENDİRİRİM, MEMNUNUM</li>
             <li>VERB-Part: VERDİĞİNİZ</li>
             <li>VERB-Vnoun: DÜŞÜNMEMEKTEDİR</li>
           </ul>
@@ -4844,49 +5506,63 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li><a>Voice</a></li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li><a>Voice</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Cau
+          <ul>
+            <li>VERB-Fin: yaptırmam</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Cau
           <ul>
@@ -4897,17 +5573,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Cau
           <ul>
-            <li>VERB: çıkarırdı, kaçırdı, çıkarmış, çıkarıyor, aksettirdi, alıştırmışlar, arttıralım, attırmadı, azaltırsan, açtırmadı</li>
-            <li>VERB-Fin: çıkarırdı, kaçırdı, çıkarıyor, aksettirdi, attırmadı, azaltırsan, açtırmadı, beğendiremezdik, bildirdi, bileylettik</li>
+            <li>VERB-Fin: çıkarırdı, kaçırdı, çıkarmış, çıkarıyor, aksettirdi, alıştırmışlar, arttıralım, attırmadı, azaltırsan, açtırmadı</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Cau
           <ul>
@@ -4918,7 +5593,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Cau
           <ul>
@@ -4930,18 +5605,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Cau
           <ul>
-            <li>VERB: vardır, çıkardı, çıkarıyor, geçirdi, anlattı, yaptırdım, çıkarıyordu, değiştiriyor, doldurdu, geçiriyor</li>
-            <li>VERB-Fin: çıkardı, çıkarıyor, geçirdi, anlattı, yaptırdım, çıkarıyordu, değiştiriyor, doldurdu, geçiriyor, çıkarır</li>
+            <li>VERB-Fin: vardır, çıkardı, çıkarıyor, geçirdi, anlattı, yaptırdım, çıkarıyordu, değiştiriyor, doldurdu, geçiriyor</li>
             <li>VERB-Vnoun: baktırmasın, bağdaştırmaktır, büyütmesidir, doyurmaktır, okutmasındandır, oturtmalıdır, yetiştirmektir, yükseltmektir</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Cau
           <ul>
@@ -4953,22 +5627,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Cau
           <ul>
-            <li>VERB: bildirdi, üretiyor, yükseltti, yansıtıyor, gerektiriyor, oluşturuyor, adlandırıyor, çıkarıyor, arttırdı, değiştirdi</li>
-            <li>VERB-Fin: bildirdi, üretiyor, yükseltti, yansıtıyor, gerektiriyor, oluşturuyor, adlandırıyor, çıkarıyor, arttırdı, değiştirdi</li>
-            <li>VERB-Vnoun: Faturalandırmalar, azaltmaktır, geçirmektedir, işletmektedir</li>
+            <li>VERB-Fin: bildirdi, gerektiriyor, yükseltti, üretiyor, oluşturuyor, oluşturdu, yansıtıyor, çıkarıyor, geliştirdi, oluşturmaktadır</li>
+            <li>VERB-Vnoun: Faturalandırmalar, azaltmaktır, dönüştürmektir, geçirmektedir, işletmektedir, oluşturmaktadır, yönlendirememenizdir</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Cau
           <ul>
-            <li>VERB: YAPTIRDI, YAPTIRMADIM, YÖNLENDİRDİ, YAPTIRDIM, SONLANDIRDI, YÖNLENDİRDİLER, BİLGİLENDİRDİ, ARATMADI, BEKLETTİLER, YAPTIRIYORUM</li>
             <li>VERB-Fin: YAPTIRDI, YAPTIRMADIM, YÖNLENDİRDİ, YAPTIRDIM, SONLANDIRDI, YÖNLENDİRDİLER, BİLGİLENDİRDİ, ARATMADI, BEKLETTİLER, YAPTIRIYORUM</li>
           </ul>
         </li>
@@ -4976,13 +5648,16 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>CauCau
           <ul>
@@ -4991,30 +5666,33 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>CauCauPass
           <ul>
@@ -5023,30 +5701,33 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>CauPass
           <ul>
@@ -5057,7 +5738,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>CauPass
           <ul>
@@ -5069,18 +5750,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>CauPass
           <ul>
-            <li>VERB: düzeltildi, dolduruldu, içirildi, çıkarılamaz, anlatılmaz, bastırılmasıydı, bildirildi, bildirilmeyecekti, bitirilmeli, cezalandırılacaktır</li>
-            <li>VERB-Fin: düzeltildi, dolduruldu, içirildi, çıkarılamaz, anlatılmaz, bildirildi, bildirilmeyecekti, cezalandırılacaktır, cezalandırılamaz, değerlendiriliyordu</li>
+            <li>VERB-Fin: düzeltildi, dolduruldu, içirildi, çıkarılamaz, anlatılmaz, bildirildi, bildirilmeyecekti, bitirilmeli, cezalandırılacaktır, cezalandırılamaz</li>
             <li>VERB-Vnoun: bastırılmasıydı, oynatılmasıdır</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>CauPass
           <ul>
@@ -5091,36 +5771,37 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>CauPass
           <ul>
-            <li>VERB: gerçekleştirildi, çıkarıldı, değerlendirilmektedir, sınıflandırıldı, adlandırıldı, adlandırılıyor, derecelendirildi, değiştirildi, durduruldu, dönüştürüldü</li>
-            <li>VERB-Fin: gerçekleştirildi, çıkarıldı, sınıflandırıldı, adlandırıldı, adlandırılıyor, derecelendirildi, değiştirildi, durduruldu, dönüştürüldü, kararlaştırıldı</li>
+            <li>VERB-Fin: gerçekleştirildi, çıkarıldı, sınıflandırıldı, adlandırıldı, adlandırılıyor, ağırlıklandırılmıştır, derecelendirildi, değerlendirilmektedir, değiştirildi, durduruldu</li>
             <li>VERB-Vnoun: değerlendirilmektedir, genişletilmektedir</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>CauPass
           <ul>
-            <li>VERB: ARTTIRILABİLİR, BEKLETİLDİK, BEKLETİLDİM, DEĞİŞTİRİLDİ, GELİŞTİRİLEBİLİR, GÜÇLENDİRİLMELİ, KALDIRILMIŞ, KONUMLANDIRILMIŞ, YÖNLENDİRİLDİK, YÖNLENDİRİLDİM</li>
-            <li>VERB-Fin: ARTTIRILABİLİR, BEKLETİLDİK, BEKLETİLDİM, DEĞİŞTİRİLDİ, GELİŞTİRİLEBİLİR, YÖNLENDİRİLDİK, YÖNLENDİRİLDİM</li>
+            <li>VERB-Fin: ARTTIRILABİLİR, BEKLETİLDİK, BEKLETİLDİM, DEĞİŞTİRİLDİ, GELİŞTİRİLEBİLİR, GÜÇLENDİRİLMELİ, KALDIRILMIŞ, KONUMLANDIRILMIŞ, YÖNLENDİRİLDİK, YÖNLENDİRİLDİM</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>CauPassRcp
           <ul>
@@ -5129,30 +5810,33 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>CauRcp
           <ul>
@@ -5161,24 +5845,33 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Pass
+          <ul>
+            <li>VERB-Fin: kullanılıyor, yapılıyor, verilmektedir, kullanılır, ediliyor, gidilir, sağlanmaktadır, ayrılır, bulunur, edilir</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -5190,17 +5883,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Pass
           <ul>
-            <li>VERB: edildi, kesildi, sallanıyor, çekildi, atıldı, devrildi, koyuldu, alınmaz, atanmıştı, atılmıştı</li>
             <li>VERB-Fin: edildi, kesildi, sallanıyor, çekildi, atıldı, devrildi, koyuldu, alınmaz, atanmıştı, atılmıştı</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -5212,7 +5904,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -5224,19 +5916,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Pass
           <ul>
-            <li>VERB: açıldı, kesildi, çekildi, edilmiş, bulunur, koyuldu, sayılır, açılıyor, edilir, görülüyor</li>
             <li>VERB-Conv: direnişler, verilişidir</li>
-            <li>VERB-Fin: açıldı, kesildi, çekildi, bulunur, koyuldu, sayılır, açılıyor, edilir, görülüyor, yapılır</li>
+            <li>VERB-Fin: açıldı, kesildi, çekildi, edilmiş, bulunur, koyuldu, sayılır, açılıyor, edilir, görülüyor</li>
             <li>VERB-Vnoun: aktarılmalıdır, alınmalıdır, anlaşılmasıdır, benimsenmesidir, bulunmaktadır, edilmektedir</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Pass
           <ul>
@@ -5248,37 +5939,38 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Pass
           <ul>
-            <li>VERB: açıklanmadı, edildi, ulaşılamadı, bekleniyor, bulundu, ediliyor, kıyaslanır, verildi, alındı, açıldı</li>
-            <li>VERB-Fin: açıklanmadı, edildi, ulaşılamadı, bekleniyor, bulundu, ediliyor, kıyaslanır, verildi, alındı, açıldı</li>
-            <li>VERB-Part: etkilenenlerdi</li>
-            <li>VERB-Vnoun: alınmasıydı, beklenmemektedir, bozulmasıdır, bölünmektedir, edilmeli, korunmasızdı, kullanılmaktadır, toparlanmasıdır, yaratılmasıdır, çekilmedeydi</li>
+            <li>VERB-Fin: edildi, bekleniyor, açıklanmadı, ulaşılamadı, bulundu, ediliyor, açıldı, seçildi, alındı, verildi</li>
+            <li>VERB-Part: dönüştürülebileceğidir, etkilenenlerdi</li>
+            <li>VERB-Vnoun: alınmasıydı, açıklanmasıydı, beklenmemektedir, bozulmasıdır, bölünmektedir, desteklenmektedir, edilmeli, indirilmesidir, korunmasızdı, kullanılabilmesidir</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Pass
           <ul>
-            <li>VERB: GÖRÜŞÜLDÜ, YAPILDI, VERİLDİ, ARANDIM, GİDİLEBİLECEK, EDİLMİŞTİ, SAYILIR, İLGİLENİLMEDİ, ANIL, ARANMADIM</li>
-            <li>VERB-Fin: GÖRÜŞÜLDÜ, YAPILDI, VERİLDİ, ARANDIM, GİDİLEBİLECEK, EDİLMİŞTİ, SAYILIR, İLGİLENİLMEDİ, ARANMADIM, GİDİLEBİLİR</li>
+            <li>VERB-Fin: GÖRÜŞÜLDÜ, YAPILDI, VERİLDİ, ARANDIM, GİDİLEBİLECEK, EDİLMİŞTİ, SAYILIR, İLGİLENİLMEDİ, ANIL, ARANMADIM</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>PassPass
           <ul>
@@ -5287,30 +5979,33 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>PassRcp
           <ul>
@@ -5319,30 +6014,33 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>PassRfl
           <ul>
@@ -5351,24 +6049,27 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Rcp
           <ul>
@@ -5377,17 +6078,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Rcp
           <ul>
-            <li>VERB: çekişe, elleşme, çöküştüler</li>
-            <li>VERB-Fin: çöküştüler</li>
+            <li>VERB-Fin: çekişe, elleşme, çöküştüler</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Rcp
           <ul>
@@ -5397,47 +6097,53 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Rcp
           <ul>
-            <li>VERB: bakış, dikiş, dönüşmüştü, dönüşür, karıştırıyorum, satış, tutuştururlardı, uçuşuyordu, ışılaşır, Dönüş</li>
-            <li>VERB-Fin: dönüşmüştü, dönüşür, karıştırıyorum, tutuştururlardı, uçuşuyordu, ışılaşır, Serpiştiriyordu, ağlaşır, bakışıyorlar, buluşacak</li>
+            <li>VERB-Fin: bakış, dikiş, dönüşmüştü, dönüşür, karıştırıyorum, satış, tutuştururlardı, uçuşuyordu, ışılaşır, Dönüş</li>
             <li>VERB-Part: dövüşeceklerdi</li>
             <li>VERB-Vnoun: boğuşmadır</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Rcp
           <ul>
-            <li>VERB: uçuş, artış, satış, dönüştü, düşüş, satışa, karıştırıyor, Anlaşma, Geliştirmenin, artışa</li>
-            <li>VERB-Fin: dönüştü, karıştırıyor, değişmedi, dolaştıracak, dönüşebilir, dönüştürebilirdi, dönüşür, gerçekleşti, görüşüyor, kalkışamıyor</li>
+            <li>VERB-Fin: dönüştü, artış, karıştırıyor, satış, satışa, sıkılaştırıyor, uçuş, Anlaşma, değişmedi, dolaştıracak</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Rcp
           <ul>
-            <li>VERB: KARŞILAŞMADIK, KARŞILAŞTIM, KARŞILAŞAMADIK, KARŞILAŞMADIM, KARŞILAŞTIK, SIKIŞTIRMIŞLAR</li>
-            <li>VERB-Fin: KARŞILAŞMADIK, KARŞILAŞTIM, KARŞILAŞAMADIK, KARŞILAŞMADIM, KARŞILAŞTIK</li>
+            <li>VERB-Fin: KARŞILAŞMADIK, KARŞILAŞTIM, KARŞILAŞAMADIK, KARŞILAŞMADIM, KARŞILAŞTIK, SIKIŞTIRMIŞLAR</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Rfl
+          <ul>
+            <li>VERB-Fin: den</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Rfl
           <ul>
@@ -5448,7 +6154,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Rfl
           <ul>
@@ -5457,7 +6163,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Rfl
           <ul>
@@ -5466,78 +6172,82 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Rfl
           <ul>
-            <li>VERB: denir, denirdi, giyinmiş, Temizlenmeye, aranamaz, aranmış, dendi, denebilecek, denecek, denen</li>
-            <li>VERB-Fin: denir, denirdi, aranamaz, dendi, denebilecek, denecek, denen, deniyor, deniyordu, denmez</li>
+            <li>VERB-Fin: denir, denirdi, giyinmiş, Temizlenmeye, aranamaz, aranmış, dendi, denebilecek, denecek, denen</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Rfl
           <ul>
-            <li>VERB-Fin: uyarlandı, dendi, denebilir, denebilirdi, denemez, sabitlendi, uyarlanmadı, uyarlanır, yuvarlandı</li>
+            <li>VERB-Fin: uyarlandı, den, dendi, denebilir, denebilirdi, denemez, denir, deniyordu, sabitlendi, uyarlanmadı</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Rfl
           <ul>
-            <li>VERB: DEN, TEMİZLENDİ, TEMİZLENMİYORDU, TEMİZLENMEDİ, TEMİZLENİYORDU, DENECEK, DENMEDİ, TEMİZLENMEMİŞ, TEMİZLENİYOR</li>
-            <li>VERB-Fin: TEMİZLENDİ, TEMİZLENMİYORDU, TEMİZLENMEDİ, TEMİZLENİYORDU, DENECEK, DENMEDİ, TEMİZLENİYOR</li>
+            <li>VERB-Fin: TEMİZLENDİ, TEMİZLENMİYORDU, DEN, TEMİZLENMEDİ, TEMİZLENİYORDU, DENECEK, DENMEDİ, TEMİZLENMEMİŞ, TEMİZLENİYOR</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
-      <ul>
-        <li><a>Evident</a></li>
-      </ul>
-    </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Evident</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
-      <ul>
-        <li><a>Evident</a></li>
-      </ul>
-    </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Evident</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li><a>Evident</a></li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li><a>Evident</a></li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Fh
           <ul>
@@ -5548,10 +6258,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Fh
           <ul>
@@ -5564,24 +6274,27 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Nfh
           <ul>
@@ -5593,10 +6306,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Nfh
           <ul>
@@ -5609,7 +6322,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Nfh
           <ul>
@@ -5622,10 +6335,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Nfh
           <ul>
@@ -5636,89 +6349,112 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <h3>Pronouns, Determiners, Quantifiers</h3>
+    </td>
+    <td width="11%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Art
+          <ul>
+            <li>DET: tüm, bir, bu, her, o, şu</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>Art
+          <ul>
+            <li>DET: bir, bu, her, tüm, o, hiçbir, birçok, şu, birkaç, bazı</li>
+          </ul>
+        </li>
+      </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Art
           <ul>
@@ -5727,7 +6463,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Art
           <ul>
@@ -5736,21 +6472,48 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Art
+          <ul>
+            <li>DET: bir, bu, her, o, hiçbir, şu, birkaç, birçok, tüm, bazı</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>Art
+          <ul>
+            <li>DET: bir, bu, birçok, tüm, her, bazı, hiçbir, o, birkaç, şu</li>
+          </ul>
+        </li>
+      </ul>
     </td>
-    <td width="12%" valign="top">
-
-    </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>Art
+          <ul>
+            <li>DET: BİR, HER, BU, O, ŞU, HİÇBİR, TÜM, BAZI, ÇOK, DÖRTLÜK</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Dem
+          <ul>
+            <li>PRON: bu, bunu, bunların, şu</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -5760,7 +6523,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -5769,7 +6532,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -5779,7 +6542,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -5788,7 +6551,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -5797,19 +6560,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Dem
           <ul>
-            <li>PRON: bu, bunu, bunun, buna, onun, bunlar, bununla, bunların, onlara, onların</li>
+            <li>PRON: bu, bunu, bunun, buna, bununla, onlar, bunlar, onun, onların, bunların</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Dem
           <ul>
@@ -5820,7 +6583,16 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>PRON: biri, hepsi, hepsini, çoğunu</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -5829,10 +6601,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>ADV: hep</li>
+            <li>PRON: herkes, hepsini, kimse, biri, herkese, kimseye, hepimizin, hepsi, herkesin, kimsenin</li>
+          </ul>
+        </li>
+      </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -5841,7 +6620,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -5850,10 +6629,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>ADV: hep, kimsedir</li>
+            <li>PRON: biri, hepsi, herkes, birisi, kimse, hepsini, kimseye, birinde, bazıları, herkesin</li>
+          </ul>
+        </li>
+      </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ind
           <ul>
@@ -5862,30 +6648,54 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>ADV: hep</li>
+            <li>PRON: biri, bazıları, hepsi, çoğu, kimse, herkes, çoğunu, hepimiz, çoğunun, hepsinin</li>
+          </ul>
+        </li>
+      </ul>
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>ADV: HEP</li>
+            <li>PRON: HEPSİ, HERKESE, HERKES, HEPSİNE, HEPSİNDEN, BİRİ, HEPSİNİ, KİMSE, BAZILARI, BİRİSİ</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Int
+          <ul>
+            <li>ADV: ne, nasıl</li>
+            <li>AUX: mı, misin, mu, misiniz, miyim, mü, mi, musunuz, mısın, mıyım</li>
+            <li>PRON: hangi, ne, hangisi, hangileri, neyin, hangisinin, nerede, neyi</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Int
           <ul>
             <li>ADV: ne, nasıl, kaçarak, kaçıp</li>
             <li>AUX: mı, mu, mi, musun, mi?, misin, miydim, muydu, mü, mı?</li>
-            <li>NOUN: kaçış</li>
             <li>PRON: ne, Kimden, neresi, Kimi, hangi, kim, kimin, neye</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -5901,22 +6711,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Int
           <ul>
             <li>ADV: ne, nasıl, kaçırıp, kaçalı, kaçmaktayken, kaçınca, kaçıp, midir, neysek</li>
             <li>AUX: mı, mi, mu, mü, misin, musun, midir, mıdır, mıydı, miydi</li>
-            <li>NOUN: kaçmak, kaçırmak, kaçma, kaçırmamak, mi, Nasıldan, Nasılsın, kaça, kaçanlar, kaçlara</li>
             <li>PRON: ne, kim, kimi, nereden, hangi, nerede, nesi, neye, kimden, neresi</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Int
           <ul>
@@ -5927,25 +6736,23 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Int
           <ul>
             <li>ADV: ne, nasıl, kaçıp, neler</li>
-            <li>AUX: mı, mi, mu, mıydı, miydi, musunuz, mısın, mü, mıydık, Mİ</li>
-            <li>NOUN: kaçırma, kaçırmaya, kaçırıldığını, kaçışının</li>
-            <li>PRON: ne, kim, neden, hangi, kimi, neyin, kimin, HANGİSİ, nerede, nereden</li>
+            <li>AUX: mi, mı, mu, mıydı, miydi, musunuz, mü, mısın, mıydık, Mİ</li>
+            <li>PRON: ne, kim, neden, hangi, kimin, neyin, kimi, neyi, kime, neye</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Int
           <ul>
             <li>ADV: NE, NASIL</li>
             <li>AUX: Mİ, MİYİM, MU, MİYDİ</li>
-            <li>NOUN: KİMİN</li>
             <li>PRON: KİM, HANGİ, NE</li>
           </ul>
         </li>
@@ -5953,13 +6760,22 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Neg
+          <ul>
+            <li>PRON: Hiçbirimizi</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Neg
           <ul>
@@ -5968,24 +6784,51 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Neg
+          <ul>
+            <li>PRON: hiçbiri, hiçbirini, Hiçbirine, hiçbirimiz, hiçbirimizin, hiçbirinde, hiçbirinden, hiçbirinin, hiçbirisi, hiçbirisinden</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>Neg
+          <ul>
+            <li>PRON: hiçbiri, hiçbirinin, hiçbirine, hiçbirini, hiçbiriyle</li>
+          </ul>
+        </li>
+      </ul>
     </td>
-    <td width="12%" valign="top">
-
-    </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>Neg
+          <ul>
+            <li>PRON: HİÇBİRİ</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Prs
+          <ul>
+            <li>PRON: bana, beni, benim</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -5994,7 +6837,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -6003,7 +6846,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -6012,7 +6855,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Prs
           <ul>
@@ -6021,42 +6864,45 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Prs
           <ul>
-            <li>PRON: ben, o, onun, bana, sen, beni, onu, benim, bizim, ona</li>
+            <li>PRON: ben, o, onun, bana, sen, beni, onu, benim, bizim, biz</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Prs
           <ul>
-            <li>PRON: onlar, onun, ben, o, onların, biz, onları, onu, sen, bize</li>
+            <li>PRON: onun, kendi, o, ben, onlar, onu, biz, ona, onların, onları</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Prs
           <ul>
-            <li>PRON: BEN, BİZİMLE, BENCE, BANA, BİZE, BİZİ, BENİ, BİZ, BENİM, SİZE</li>
+            <li>PRON: BEN, BİZİMLE, BENCE, BANA, BİZİ, BİZE, BENİ, BİZ, BENİM, KENDİSİ</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Rcp
           <ul>
@@ -6065,7 +6911,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Rcp
           <ul>
@@ -6074,10 +6920,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Rcp
           <ul>
@@ -6086,7 +6932,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Rcp
           <ul>
@@ -6095,16 +6941,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Rcp
           <ul>
-            <li>PRON: birbirine, birbirinden, birbirlerine, birbirini, birbirinin, birbirlerini</li>
+            <li>PRON: birbirine, birbirinden, birbirlerine, birbirini, birbirinin, birbirlerini, birbirlerinin</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Rcp
           <ul>
@@ -6115,49 +6961,64 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li><a>NumType</a></li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Card
+          <ul>
+            <li>ADJ: kaç, 1991'deki, 1992'deki, 1993'teki, 420'deki, altısındaki, sekizindeki</li>
+            <li>NUM: 7, on, 1, 27, 2, 6, 5, yirmi, bir, 12</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -6166,7 +7027,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -6176,7 +7037,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -6185,7 +7046,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -6194,7 +7055,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -6204,20 +7065,20 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Card
           <ul>
-            <li>ADJ: ikisi, 9'luk, milyonluk, 1980'li, 20'lik, kaç, milyarlık, 15'lik, 1970'li, 3.5'lik</li>
-            <li>NUM: milyon, milyar, iki, bir, 1, üç, 10, 30, 3, 2</li>
+            <li>ADJ: milyonluk, ikisi, 9'luk, kaç, 0.3'lük, 10'luk, 1980'li, 20'lik, 3'lük, 3/4'lük</li>
+            <li>NUM: milyon, milyar, iki, bir, 1, 10, üç, 30, 2, 3</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Card
           <ul>
@@ -6229,7 +7090,10 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Dist
           <ul>
@@ -6238,7 +7102,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Dist
           <ul>
@@ -6247,7 +7111,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Dist
           <ul>
@@ -6256,7 +7120,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Dist
           <ul>
@@ -6265,7 +7129,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Dist
           <ul>
@@ -6274,10 +7138,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Dist
           <ul>
@@ -6286,12 +7150,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Ord
+          <ul>
+            <li>NUM: altıncı, 19:00, 28., 5:55, 7:00, 8., birinci, yedinci</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -6301,10 +7174,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
-
+    <td width="11%" valign="top">
+      <ul>
+        <li>Ord
+          <ul>
+            <li>NUM: %</li>
+          </ul>
+        </li>
+      </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -6313,7 +7192,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -6322,7 +7201,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -6332,7 +7211,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -6341,17 +7220,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ord
           <ul>
-            <li>ADJ: Üçüncüsü</li>
-            <li>NUM: üçüncü, ikinci, birinci, dördüncü, İkinci, 13., 3., altıncı, 11., 20.</li>
+            <li>ADJ: 9:30'daki, Üçüncüsü</li>
+            <li>NUM: %, üçüncü, ikinci, 3., dördüncü, birinci, İkinci, 13., 2., altıncı</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Ord
           <ul>
@@ -6362,75 +7241,84 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -6439,7 +7327,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -6448,7 +7336,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -6457,7 +7345,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -6466,7 +7354,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -6475,7 +7363,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -6484,16 +7372,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Yes
           <ul>
-            <li>PRON: kendi, kendisi, kendini, kendilerini, kendine, kendisini, kendileri, kendilerine, kendisinin, kendilerinden</li>
+            <li>PRON: kendi, kendisi, kendini, kendilerini, kendine, kendisini, kendisinin, kendisine, kendilerine, kendileri</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Yes
           <ul>
@@ -6504,49 +7392,64 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>1
+          <ul>
+            <li>VERB-Conv: uçuşunuz</li>
+            <li>VERB-Fin: istiyorum, arıyorum, ilgileniyorum, ediyorum, ederim, gitmem, yaşıyorum, çalışıyorum, gidebilirim, giderim</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -6561,18 +7464,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>1
           <ul>
-            <li>AUX: değilim</li>
-            <li>VERB: ettim, oldum, aldım, ettik, kazandım, verdim, attım, dolaştım, kaldık, ederim</li>
+            <li>AUX-Fin: değilim</li>
             <li>VERB-Fin: ettim, oldum, aldım, ettik, kazandım, verdim, attım, dolaştım, kaldık, ederim</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -6584,7 +7486,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -6595,22 +7497,21 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>1
           <ul>
-            <li>AUX: değiliz, değilim, değildim, değildik</li>
-            <li>AUX-Fin: değildim, değildik</li>
+            <li>AUX-Fin: değiliz, değilim, değildim, değildik</li>
             <li>VERB: ettim, gördüm, oldum, aldım, başladım, ederim, buldum, bilmem, bakalım, bilmiyorum</li>
             <li>VERB-Conv: bölüştük, kaçıştık</li>
-            <li>VERB-Fin: ettim, gördüm, oldum, aldım, başladım, ederim, buldum, bilmem, bilmiyorum, ediyorum</li>
+            <li>VERB-Fin: ettim, gördüm, oldum, aldım, başladım, ederim, buldum, bilmem, bakalım, bilmiyorum</li>
             <li>VERB-Part: uyandım, uyanmışım, esirgediğiniz, ettiğiniz, gördüğünüz, istediğiniz, olduğunuz</li>
             <li>VERB-Vnoun: beklemeliyiz, dokunmayım, gelmeyeyim, keşfedebilmekteyim, olmayayım, sevişmelerimiz</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>1
           <ul>
@@ -6624,25 +7525,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>1
           <ul>
-            <li>AUX: değiliz, değilim, değildim</li>
-            <li>AUX-Fin: değildim</li>
-            <li>VERB: benim, düşünüyorum, sanırım, alım, bizim, gördük, sanmıyorum, bilmiyorum, düşünüyoruz, ediyoruz</li>
-            <li>VERB-Fin: düşünüyorum, sanırım, gördük, sanmıyorum, bilmiyorum, düşünüyoruz, ediyoruz, istiyoruz, aldım, ediyorum</li>
+            <li>AUX-Fin: değiliz, değilim, değildik, değildim</li>
+            <li>VERB: düşünüyorum, istiyoruz, sanmıyorum, sanırım, ediyoruz, yaptık, düşünüyoruz, bilmiyorum, düşündüm, ediyorum</li>
+            <li>VERB-Fin: düşünüyorum, istiyoruz, sanmıyorum, sanırım, ediyoruz, yaptık, düşünüyoruz, bilmiyorum, düşündüm, ediyorum</li>
+            <li>VERB-Part: Gördüğünüz, Sunduğunuz, yaptığınız</li>
             <li>VERB-Vnoun: almalıyız</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>1
           <ul>
-            <li>AUX: DEĞİLİM, DEĞİLDİM, DEĞİLDİK</li>
-            <li>AUX-Fin: DEĞİLDİM, DEĞİLDİK</li>
+            <li>AUX-Fin: DEĞİLİM, DEĞİLDİM, DEĞİLDİK</li>
             <li>VERB: KALDIK, KALDIM, EDERİM, VERİYORUM, KALMADIM, İSTEMİYORUM, İSTİYORUM, VERİRİM, ETMEM, BEĞENDİM</li>
             <li>VERB-Conv: GÖRÜŞTÜK</li>
             <li>VERB-Fin: KALDIK, KALDIM, EDERİM, VERİYORUM, KALMADIM, İSTEMİYORUM, İSTİYORUM, VERİRİM, ETMEM, BEĞENDİM</li>
@@ -6653,7 +7553,16 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>2
+          <ul>
+            <li>VERB-Fin: göster, listeleyin, gösterin, listele, bul, ver, verin, bulun, söyle, açıkla</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -6666,18 +7575,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>2
           <ul>
-            <li>VERB: et, bırak, aç, değiştir, göreceksin, al, dinle, gel, geç, çabala</li>
-            <li>VERB-Fin: göreceksin, çabalarsan, olacaksın, Duydun, alabilirsin, alabilirsiniz, alacaksın, alırsan, alırsın, alıyorsun</li>
+            <li>VERB-Fin: et, bırak, aç, değiştir, göreceksin, al, dinle, gel, geç, çabala</li>
             <li>VERB-Vnoun: akmasın</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -6689,7 +7597,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -6702,19 +7610,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>2
           <ul>
-            <li>AUX: değilsin, değilsiniz</li>
-            <li>VERB: bak, vardır, gel, var, söyle, ol, bırak, bakın, ver, gelin</li>
-            <li>VERB-Fin: gördün, ettin, isterseniz, anladın, edeceksiniz, gördünüz, göreceksin, oluyorsun, alırsınız, bilirsin</li>
+            <li>AUX-Fin: değilsin, değilsiniz</li>
+            <li>VERB: bak, vardır, gel, var, söyle, ol, bırak, bakın, ver, git</li>
+            <li>VERB-Fin: bak, vardır, gel, var, söyle, ol, bırak, bakın, ver, git</li>
             <li>VERB-Vnoun: olmasın, baktırmasın, bozmasın, düzeltmelisin, düşmesin, kasavetlenmeyesin</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>2
           <ul>
@@ -6726,29 +7634,41 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>2
           <ul>
-            <li>VERB: anlaşma, buna, biliyorsun, et, uçuş, al, artış, bekleyin, ol, satış</li>
-            <li>VERB-Fin: biliyorsun, yapıyorsun, atacaksın, diyebilirsiniz, geldiniz, Yapmazsan, alabilirsin, alamıyorsunuz, alıyorsun, arayacaksınız</li>
+            <li>VERB-Fin: kıyasla, biliyorsun, dile, dönüş, et, al, git, bekleyin, diyebilirsiniz, düşünün</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>2
           <ul>
-            <li>VERB: ARAMAYIN, ALINIZ, GİDİN, SAĞOLUN, VAR, İSTİYORSANIZ, ANIL, CHECK, DEN, İLETİN</li>
-            <li>VERB-Fin: İSTİYORSANIZ, KALIYORSUNUZ, PAYLAŞABİLİRSİNİZ, İSTERSENİZ, FAYDALANABİLİRSİNİZ, KALACAKSINIZ, KALDINIZ, YÜZÜYORSUNUZ, İLETEBİLİRSİNİZ, ALIRSINIZ</li>
+            <li>VERB: ARAMAYIN, GİDİN, SAĞOLUN, VAR, İSTİYORSANIZ, ALINIZ, ANIL, CHECK, İLETİN, AL</li>
+            <li>VERB-Fin: ARAMAYIN, GİDİN, SAĞOLUN, VAR, İSTİYORSANIZ, ALINIZ, ANIL, CHECK, İLETİN, AL</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>3
+          <ul>
+            <li>NOUN: uçuşları, uçuş, uçuşlar, günü, uçuşu, uçuşlarını, akşam, öğleden, dönüş, gidiş</li>
+            <li>VERB: nedir, nelerdir, uçuyor, kalkıyor, geliyor, gerekiyor, gidiyor, varıyor, söyleyebilir, alabilir</li>
+            <li>VERB-Conv: uçuşlardır</li>
+            <li>VERB-Fin: nedir, nelerdir, uçuyor, kalkıyor, geliyor, gerekiyor, gidiyor, varıyor, söyleyebilir, alabilir</li>
+            <li>VERB-Vnoun: demektir, kısaltmasıdır</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -6770,7 +7690,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -6783,7 +7703,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -6799,7 +7719,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -6818,23 +7738,23 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>3
           <ul>
             <li>AUX: değil, değildir, değildi, değilim, değilse, değilmiş, değillerdi</li>
-            <li>AUX-Fin: değildi, değillerdi</li>
+            <li>AUX-Fin: değildir, değildi, değilse, değilmiş, değillerdi</li>
             <li>NOUN: gün, zaman, adam, şey, arasında, kadın, çocuk, iş, su, olduğunu</li>
             <li>VERB: vardı, oldu, geldi, başladı, olur, vardır, çıktı, etti, olsun, yoktu</li>
             <li>VERB-Conv: görüştü, kaçıştı, aldatıştır, alışıdır, buruşmuş, değişmiş, direnişler, dönüştü, düşüşteydi, geçirişti</li>
-            <li>VERB-Fin: vardı, oldu, geldi, başladı, olur, çıktı, etti, yoktu, dedi, aldı</li>
+            <li>VERB-Fin: vardı, oldu, geldi, başladı, olur, vardır, çıktı, etti, olsun, yoktu</li>
             <li>VERB-Part: olduğudur, çakıştığıdır, bulandı, dövüşeceklerdi, ettiğindeyse, geldiğidir, gelenlerindendir, getirenlerdendir, kuracaklarmış, olanlardı</li>
             <li>VERB-Vnoun: demektir, demekti, olmasıdır, koymaktır, akdetmesiydi, aktarılmalıdır, almaktır, alınmalıdır, anlaşılmasıdır, açmalıdırlar</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>3
           <ul>
@@ -6851,28 +7771,28 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>3
           <ul>
-            <li>AUX: değildir, değildi, değillerdi, değilim, değiller, değilse, değilsin</li>
-            <li>AUX-Fin: değildi, değillerdi</li>
-            <li>NOUN: bay, hisse, Amerikan, şirket, şekilde, devam, yıl, gelir, doları, yorum</li>
-            <li>VERB: oldu, ediyor, söyledi, geldi, etti, yükseldi, dedi, diyor, çıktı, düştü</li>
+            <li>AUX: değildir, değildi, değiller, değilim, değilse, değillerdi, değillerdir, değilmiş, değilsin</li>
+            <li>AUX-Fin: değildir, değildi, değilse, değillerdi, değillerdir, değilmiş</li>
+            <li>NOUN: bay, hisse, dolar, yıl, şirket, olduğunu, şekilde, satın, devam, gelir</li>
+            <li>VERB: söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</li>
             <li>VERB-Conv: arayışındalar, dönüştü, değişti, düşüşündedir, oluştu, yükseliştedir</li>
-            <li>VERB-Fin: oldu, ediyor, söyledi, geldi, etti, yükseldi, dedi, diyor, çıktı, düştü</li>
-            <li>VERB-Part: düşündüğüdür, etkilenenlerdi, ettiğidir, getirdiğiydi, kazananıydı, olandır, olanlardır, olanıdır</li>
-            <li>VERB-Vnoun: danışmanlar, olmasıdır, demektir, sağlamaktır, bulmaktır, sözleşmeydi, Faturalandırmalar, almadır, almaktır, alınmasıydı</li>
+            <li>VERB-Fin: söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</li>
+            <li>VERB-Part: olduğudur, alacağımızdır, bahsetmediğinizdir, dolaşacağıdır, dönüştürülebileceğidir, düşündüğüdür, etkilenenlerdi, ettiğidir, getirdiğiydi, kazananıydı</li>
+            <li>VERB-Vnoun: olmasıdır, danışmanlar, demektir, sağlamaktır, almaktır, bulmaktır, sözleşmeydi, Faturalandırmalar, almadır, almaktı</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>3
           <ul>
             <li>AUX: DEĞİLDİ, DEĞİLLERDİ, DEĞİLİM, DEĞİLLER, DEĞİLDİLER, DEĞİLDİR</li>
-            <li>AUX-Fin: DEĞİLDİ, DEĞİLLERDİ, DEĞİLDİLER</li>
+            <li>AUX-Fin: DEĞİLDİ, DEĞİLLERDİ, DEĞİLDİLER, DEĞİLDİR</li>
             <li>NOUN: HİZMET, BEY, PUAN, KONUMU, ÇEŞİT, TAVSİYE, TESİS, PERSONEL, OTEL, DENİZİ</li>
             <li>VERB: GÜZELDİ, İYİYDİ, GÖRÜŞÜLDÜ, YOKTU, TESİSTİ, İLGİLİYDİ, İLGİLENDİ, VARDI, KÖTÜYDÜ, AZDI</li>
             <li>VERB-Fin: GÜZELDİ, İYİYDİ, GÖRÜŞÜLDÜ, YOKTU, TESİSTİ, İLGİLİYDİ, İLGİLENDİ, VARDI, KÖTÜYDÜ, AZDI</li>
@@ -6883,48 +7803,54 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li><a>Polite</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Polite</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Polite</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Form
           <ul>
@@ -6933,10 +7859,10 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Form
           <ul>
@@ -6946,15 +7872,18 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Infm
           <ul>
@@ -6963,13 +7892,13 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Infm
           <ul>
@@ -6978,89 +7907,107 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="12%" valign="top">
-
-    </td>
-    <td width="12%" valign="top">
-
-    </td>
-    <td width="12%" valign="top">
-
-    </td>
-    <td width="12%" valign="top">
-
-    </td>
-    <td width="12%" valign="top">
-
-    </td>
-    <td width="12%" valign="top">
-
-    </td>
-    <td width="12%" valign="top">
-
-    </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="11%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li><a>Number[psor]</a></li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Plur
+          <ul>
+            <li>NOUN: uçuşları, uçuşlarını, ücretlerini, ücretleri, uçuşlarınız, havayollarıyla, uçuşlarının, havayollarını, uçuşunuz, Havayolları'nın</li>
+            <li>VERB-Fin: hangileridir, havayollarıdır</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -7076,7 +8023,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -7085,7 +8032,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -7100,7 +8047,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -7115,20 +8062,19 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Plur
           <ul>
             <li>NOUN: aramızda, gözlerini, aralarında, olduklarını, çocukları, eniştemiz, başımıza, ellerinde, evlerine, başkalarının</li>
-            <li>VERB: cepheleridir, gösterileridir, müzelerimizdedir, adamlarıydı, arkadaşlarıdır, birimleridir, davamızdır, dizdarlarıydı, gayretleridir, gelenlerindendir</li>
-            <li>VERB-Fin: adamlarıydı, dizdarlarıydı, kapımızdı, komşumuzdun, sefalarıydı, tuluatçılarımızdı</li>
+            <li>VERB-Fin: cepheleridir, gösterileridir, müzelerimizdedir, adamlarıydı, arkadaşlarıdır, birimleridir, davamızdır, dizdarlarıydı, gayretleridir, hareketimizmiş</li>
             <li>VERB-Part: gelenlerindendir</li>
             <li>VERB-Vnoun: istemeleriydi</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Plur
           <ul>
@@ -7143,33 +8089,44 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Plur
           <ul>
-            <li>NOUN: fiyatları, hisseleri, koşulları, yetkilileri, oranları, tahvilleri, hizmetleri, kazançlarını, liderleri, sahipleri</li>
-            <li>PROPN: Doları'ydı, Doları, Doları'dır</li>
-            <li>VERB: ayarlarındalar, haplarıdır, kayıtlarıdır, ortaklıklarıdır, problemleriydi, rafineleriydi, uyarmalarıdır, örnekleridir, üzerimizdeydi</li>
-            <li>VERB-Fin: ayarlarındalar, problemleriydi, rafineleriydi, üzerimizdeydi</li>
-            <li>VERB-Vnoun: uyarmalarıdır</li>
+            <li>NOUN: fiyatları, hisseleri, koşulları, yetkilileri, oranları, tahvilleri, hizmetleri, ihtiyacımız, kazançlarını, liderleri</li>
+            <li>PROPN: Doları'ydı, Doları, Doları'dır, Hizmetleri'ne</li>
+            <li>VERB-Fin: ayarlarındalar, bahçemizdeydik, bonolarıdır, bırakmalarıdır, direktörleridir, haplarıdır, kayıtlarıdır, ortaklıklarıdır, problemleriydi, rafineleriydi</li>
+            <li>VERB-Part: alacağımızdır, bahsetmediğinizdir, yapabileceğimizdir</li>
+            <li>VERB-Vnoun: kalmalarıdır, uyarmalarıdır, yönlendirememenizdir</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Plur
           <ul>
             <li>NOUN: MİSAFİRİMİZ, ODAMIZ, YEMEKLERİNDEN, REHBERİMİZ, PERSONELLERİNDEN, TADIMIZA, PLANIMIZ, YEMEKLERİNİ, PERSONELLERİ, ACENTAMIZA</li>
-            <li>VERB: REHBERİMİZDİ, EVİMİZDEYMİŞİZ, YANIMIZDAYDI</li>
-            <li>VERB-Fin: REHBERİMİZDİ, YANIMIZDAYDI</li>
+            <li>VERB-Fin: REHBERİMİZDİ, EVİMİZDEYMİŞİZ, YANIMIZDAYDI</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li>Sing
+          <ul>
+            <li>NOUN: uçuşları, günü, uçuşu, uçuşlarını, havayolları, ihtiyacım, arasında, sabahı, karayolu, arası</li>
+            <li>PROPN: Airlines'in, F28'in, Dc'den, Havaaalanı'ndan, M80'in, S'in</li>
+            <li>VERB-Fin: havayoludur, hangisidir, kısaltmasıdır, dilimindedir, havayolunuz</li>
+            <li>VERB-Vnoun: kısaltmasıdır</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -7190,18 +8147,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Sing
           <ul>
             <li>NOUN: başına, parasını, işi, şeyi, üstüne, altına, günü, içinde, karşısında, olduğu</li>
-            <li>VERB: karısıyım, yengenim, acemisin, aktörüsün, biçimidir, deyimidir, yolundaydı</li>
-            <li>VERB-Fin: yolundaydı</li>
+            <li>VERB-Fin: karısıyım, yengenim, acemisin, aktörüsün, biçimidir, deyimidir, yolundaydı</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -7220,7 +8176,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -7236,7 +8192,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -7245,14 +8201,14 @@ udver: '2'
             <li>PROPN: Tanrı'm, Allah'ım, Ali'mi, Allah'ımı, Allah'ın, Anadolu'nun, Balıkpazarı'nda, Camii'nde, Dadaloğlu'm, Edirne'si</li>
             <li>VERB: biridir, biriydi, içindeydi, içindeyiz, işidir, karasıydılar, olmasıdır, biriyim, edindi, erbabıdır</li>
             <li>VERB-Conv: alışıdır, oluşumdur, verilişidir, yetişkindiler</li>
-            <li>VERB-Fin: biriydi, içindeydi, karasıydılar, edindi, memleketiydi, başındaydı, edindim, efendiler, emriydi, ezberimdeydi</li>
+            <li>VERB-Fin: biridir, biriydi, içindeydi, içindeyiz, işidir, karasıydılar, biriyim, edindi, erbabıdır, eseridir</li>
             <li>VERB-Part: olduğudur, çakıştığıdır, ettiğindeyse, geldiğidir, pişireniydi</li>
             <li>VERB-Vnoun: olmasıdır, akdetmesiydi, anlaşılmasıdır, bastırılmasıydı, benimsenmesidir, bulunmasıdır, büyütmesidir, kavuşmasıydı, konmasıdır, koyabilmesidir</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Sing
           <ul>
@@ -7270,63 +8226,69 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Sing
           <ul>
             <li>AUX: değilim, değilsin</li>
-            <li>NOUN: olduğunu, tarafından, doları, arasında, Doları'na, konusunda, başına, ayında, senedi, endeksi</li>
-            <li>PROPN: Corp.'un, Lynch'in, onu, IBM'in, Inc.'ın, AGIP'in, Blok'una, Bridge'in, CEO'su, Carbide'in</li>
-            <li>VERB: şirketidir, biridir, firmasıdır, birimidir, başkanıdır, editörüdür, içindeler, yardımcısıydı, danışmanlar, dolarıydı</li>
+            <li>NOUN: olduğunu, arasında, konusunda, senedi, günü, başına, tarafından, ayında, endeksi, doları</li>
+            <li>PROPN: IBM'in, CEO'su, Corp.'un, Inc.'ın, Lynch'in, onu, Bridge'in, Bronx'u, Colgate'in, OPEC'in</li>
+            <li>VERB: şirketidir, biridir, birimidir, seviyesindeydi, firmasıdır, olmasıdır, yardımcısıydı, başkanıdır, biriydi, eğilimindedir</li>
             <li>VERB-Conv: arayışındalar, düşüşündedir</li>
-            <li>VERB-Fin: yardımcısıydı, dolarıydı, seviyesindeydi, başkanıydı, kararıydı, arasındaydı, biriydi, düşündü, hatasıydı, tutarındaydı</li>
-            <li>VERB-Part: düşündüğüdür, ettiğidir, getirdiğiydi, kazananıydı, olanıdır</li>
-            <li>VERB-Vnoun: danışmanlar, olmasıdır, alınmasıydı, anlamasıdır, azalmasıdır, birleşmesiydi, bozulmasıdır, düşünmemesiydi, gözetmenler, kaybetmesidir</li>
+            <li>VERB-Fin: şirketidir, biridir, birimidir, seviyesindeydi, firmasıdır, yardımcısıydı, başkanıdır, biriydi, eğilimindedir, üzerindeydi</li>
+            <li>VERB-Part: olduğudur, dolaşacağıdır, dönüştürülebileceğidir, düşündüğüdür, ettiğidir, getirdiğiydi, kazananıydı, olabileceğidir, olacağıdır, olanıdır</li>
+            <li>VERB-Vnoun: olmasıdır, danışmanlar, alınmasıydı, anlamasıdır, azalmasıdır, açıklanmasıydı, birleşmesiydi, bozulmasıdır, düşmesiydi, düşünmemesiydi</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li>Sing
           <ul>
             <li>AUX: DEĞİLİM</li>
             <li>NOUN: KONUMU, KALİTESİ, YEMEKLERİ, PERSONELLERİ, DENİZİ, TEMİZLİĞİ, HAVUZU, OLMASI, KARŞILIĞINI, HİZMETİ</li>
             <li>VERB: ADINAYDI, ALTINDAYDI, BİRİYDİ, MERKEZİYDİ, OTELİYDİ, ÜZERİNDEYDİ, HALİNDEYİZ, YOLUNDAYDI, YORUMUDUR, ÜSTÜNDEYDİ</li>
-            <li>VERB-Fin: ADINAYDI, ALTINDAYDI, BİRİYDİ, MERKEZİYDİ, OTELİYDİ, ÜZERİNDEYDİ, YOLUNDAYDI, ÜSTÜNDEYDİ, KALİTESİNDEYDİ, ÇİFTİYDİK</li>
+            <li>VERB-Fin: ADINAYDI, ALTINDAYDI, BİRİYDİ, MERKEZİYDİ, OTELİYDİ, ÜZERİNDEYDİ, HALİNDEYİZ, YOLUNDAYDI, YORUMUDUR, ÜSTÜNDEYDİ</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Other Features</h3>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+    <td width="11%" valign="top">
       <h3>Other Features</h3>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -7340,13 +8302,13 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Abbr</a>
           <ul>
@@ -7360,21 +8322,24 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li><a>Echo</a>
           <ul>
@@ -7387,13 +8352,13 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Echo</a>
           <ul>
@@ -7406,36 +8371,39 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li><a>Foreign</a>
           <ul>
@@ -7448,15 +8416,41 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li><a>Person[psor]</a>
+          <ul>
+            <li>1
+              <ul>
+                <li>NOUN: ihtiyacım, uçmam, bilmem, kiralamam, seçeneklerim, gitmem, yapmam, arkadaşım, dönmem, götürmem</li>
+              </ul>
+            </li>
+            <li>2
+              <ul>
+                <li>NOUN: üzerinden, uçuşlarını, uçuşlarınız, uçuşların, uçuşunuz, yn, uçuşun, ücretini, ayarlamalarını, dersiniz</li>
+                <li>VERB-Fin: havayolunuz</li>
+              </ul>
+            </li>
+            <li>3
+              <ul>
+                <li>NOUN: uçuşları, günü, uçuşu, uçuşlarını, havayolları, arasında, sabahı, karayolu, arası, ulaşımı</li>
+                <li>VERB-Fin: havayoludur, hangileridir, hangisidir, kısaltmasıdır, dilimindedir, havayollarıdır</li>
+                <li>VERB-Vnoun: kısaltmasıdır</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li><a>Person[psor]</a>
           <ul>
@@ -7506,7 +8500,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Person[psor]</a>
           <ul>
@@ -7518,21 +8512,20 @@ udver: '2'
             <li>2
               <ul>
                 <li>NOUN: yüzüne, Güveniniz, aklından, amcanın, ağzını, başına, dişinden, elindekini, gözünü, hatırında</li>
-                <li>VERB: yengenim</li>
+                <li>VERB-Fin: yengenim</li>
               </ul>
             </li>
             <li>3
               <ul>
                 <li>NOUN: parasını, başına, işi, şeyi, üstüne, altına, günü, içinde, karşısında, olduğu</li>
-                <li>VERB: karısıyım, acemisin, aktörüsün, biçimidir, deyimidir, yolundaydı</li>
-                <li>VERB-Fin: yolundaydı</li>
+                <li>VERB-Fin: karısıyım, acemisin, aktörüsün, biçimidir, deyimidir, yolundaydı</li>
               </ul>
             </li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Person[psor]</a>
           <ul>
@@ -7578,7 +8571,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Person[psor]</a>
           <ul>
@@ -7621,7 +8614,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Person[psor]</a>
           <ul>
@@ -7629,18 +8622,18 @@ udver: '2'
               <ul>
                 <li>AUX: değilim</li>
                 <li>NOUN: benim, babam, bizim, annem, canım, annemin, aramızda, başım, babamın, başımı</li>
-                <li>VERB: ezberimdeydi, ihtiyaçlarımızdır, müzelerimizdedir, Dedemler, Pişdarlarımız, amcamlar, annemdi, ağrımsın, bizimdi, büyüğümsün</li>
+                <li>VERB: ezberimdeydi, ihtiyaçlarımızdır, müzelerimizdedir, Dedemler, amcamlar, annemdi, ağrımsın, bizimdi, büyüğümsün, davamızdır</li>
                 <li>VERB-Conv: oluşumdur</li>
-                <li>VERB-Fin: ezberimdeydi, annemdi, bizimdi, kapımızdı, karşımdaydı, komşumuzdun, sıramdı, tuluatçılarımızdı, üstümdeydi</li>
+                <li>VERB-Fin: ezberimdeydi, ihtiyaçlarımızdır, müzelerimizdedir, annemdi, ağrımsın, bizimdi, büyüğümsün, davamızdır, düzümdür, düşmanımdır</li>
                 <li>VERB-Vnoun: sevişmelerimiz</li>
               </ul>
             </li>
             <li>2
               <ul>
                 <li>NOUN: üzerine, üzerinde, yüzünü, gözlerini, kadın, yüzüne, baştan, suyun, yüzünde, birinde</li>
-                <li>VERB: edindi, alınmış, edindim, efendiler, kadınlar, Boyanmış, Burunlar, Kadınınsa, biçimindedir, coğrafyacılarındandır</li>
+                <li>VERB: edindi, alınmış, edindim, efendiler, Boyanmış, Kadınınsa, biçimindedir, coğrafyacılarındandır, dokundu, düşündü</li>
                 <li>VERB-Conv: yetişkindiler</li>
-                <li>VERB-Fin: edindi, edindim, efendiler, dokundu, düşündü, edindik, kılındı, niyetindeydim, simalarındandı, takındım</li>
+                <li>VERB-Fin: edindi, alınmış, edindim, efendiler, Boyanmış, Kadınınsa, biçimindedir, coğrafyacılarındandır, dokundu, düşündü</li>
                 <li>VERB-Part: ettiğindeyse</li>
                 <li>VERB-Vnoun: öğretmenler</li>
               </ul>
@@ -7650,7 +8643,7 @@ udver: '2'
                 <li>NOUN: arasında, olduğunu, içinde, üstünde, üstüne, önünde, altında, başına, gözleri, başını</li>
                 <li>VERB: biridir, biriydi, içindeydi, içindeyiz, işidir, karasıydılar, olmasıdır, biriyim, erbabıdır, eseridir</li>
                 <li>VERB-Conv: alışıdır, verilişidir</li>
-                <li>VERB-Fin: biriydi, içindeydi, karasıydılar, memleketiydi, başındaydı, emriydi, farkındaydı, saatiydi, üstündeydi, acısıydı</li>
+                <li>VERB-Fin: biridir, biriydi, içindeydi, içindeyiz, işidir, karasıydılar, biriyim, erbabıdır, eseridir, ilkidir</li>
                 <li>VERB-Part: olduğudur, çakıştığıdır, geldiğidir, gelenlerindendir, pişireniydi</li>
                 <li>VERB-Vnoun: olmasıdır, akdetmesiydi, anlaşılmasıdır, bastırılmasıydı, benimsenmesidir, bulunmasıdır, büyütmesidir, istemeleriydi, kavuşmasıydı, konmasıdır</li>
               </ul>
@@ -7659,7 +8652,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Person[psor]</a>
           <ul>
@@ -7697,42 +8690,42 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Person[psor]</a>
           <ul>
             <li>1
               <ul>
                 <li>AUX: değilim</li>
-                <li>NOUN: benim, bizim, satım, toplam, alım, devam, ihtiyacımız, toplamı, Dudaklarımı, IMA</li>
-                <li>VERB: Atılımlar, kararımdı, üzerimizdeydi</li>
-                <li>VERB-Fin: kararımdı, üzerimizdeydi</li>
+                <li>NOUN: benim, bizim, satım, toplam, alım, devam, ihtiyacımız, olduğum, IMA, arkadaşım</li>
+                <li>VERB-Fin: bahçemizdeydik, kararımdı, yeteneğimizdir, üzerimizdeydi</li>
+                <li>VERB-Part: alacağımızdır, yapabileceğimizdir</li>
               </ul>
             </li>
             <li>2
               <ul>
                 <li>AUX: değilsin</li>
-                <li>NOUN: üzerinde, altında, tarafından, üzerinden, azından, yılının, içinde, satın, teminatlarında, yılın</li>
-                <li>VERB: danışmanlar, düşündü, üzerindeydi, alındı, değerindedir, gözetmenler, sürendir, üzerindedir, üzerindeyim, üzgünüm</li>
-                <li>VERB-Fin: düşündü, üzerindeydi, alındı</li>
-                <li>VERB-Vnoun: danışmanlar, gözetmenler</li>
+                <li>NOUN: üzerinde, üzerinden, altında, tarafından, azından, satın, yılının, üzerine, içinde, süren</li>
+                <li>VERB-Fin: üzerindeydi, düşündü, üzerindedir, alındı, ayrılığındaydı, değerindedir, sürendir, üzerindeyim, üzerinedir, üzgünüm</li>
+                <li>VERB-Part: bahsetmediğinizdir</li>
+                <li>VERB-Vnoun: danışmanlar, gözetmenler, yönlendirememenizdir</li>
               </ul>
             </li>
             <li>3
               <ul>
-                <li>NOUN: olduğunu, doları, tarafından, arasında, Doları'na, konusunda, başına, ayında, senedi, hisseleri</li>
-                <li>VERB: şirketidir, biridir, firmasıdır, birimidir, başkanıdır, editörüdür, içindeler, yardımcısıydı, dolarıydı, kaynağıdır</li>
+                <li>NOUN: olduğunu, arasında, konusunda, senedi, günü, başına, ayında, tarafından, hisseleri, endeksi</li>
+                <li>VERB: şirketidir, biridir, birimidir, seviyesindeydi, firmasıdır, olmasıdır, yardımcısıydı, başkanıdır, biriydi, eğilimindedir</li>
                 <li>VERB-Conv: arayışındalar, düşüşündedir</li>
-                <li>VERB-Fin: yardımcısıydı, dolarıydı, seviyesindeydi, başkanıydı, kararıydı, arasındaydı, biriydi, hatasıydı, tutarındaydı, zamanıydı</li>
-                <li>VERB-Part: düşündüğüdür, ettiğidir, getirdiğiydi, kazananıydı, olanıdır</li>
-                <li>VERB-Vnoun: olmasıdır, alınmasıydı, anlamasıdır, azalmasıdır, birleşmesiydi, bozulmasıdır, düşünmemesiydi, kaybetmesidir, toparlanmasıdır, uyarmalarıdır</li>
+                <li>VERB-Fin: şirketidir, biridir, birimidir, seviyesindeydi, firmasıdır, yardımcısıydı, başkanıdır, biriydi, eğilimindedir, altındaydı</li>
+                <li>VERB-Part: olduğudur, dolaşacağıdır, dönüştürülebileceğidir, düşündüğüdür, ettiğidir, getirdiğiydi, kazananıydı, olabileceğidir, olacağıdır, olanıdır</li>
+                <li>VERB-Vnoun: olmasıdır, alınmasıydı, anlamasıdır, azalmasıdır, açıklanmasıydı, birleşmesiydi, bozulmasıdır, düşmesiydi, düşünmemesiydi, etmesidir</li>
               </ul>
             </li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>Person[psor]</a>
           <ul>
@@ -7740,22 +8733,20 @@ udver: '2'
               <ul>
                 <li>AUX: DEĞİLİM</li>
                 <li>NOUN: FATURAM, MİSAFİRİMİZ, ODAMIZ, EŞİM, REHBERİMİZ, ODAM, ARKADAŞIM, TADIMIZA, HOŞUMA, ODAMDAN</li>
-                <li>VERB: REHBERİMİZDİ, ALMADIM, ARKADAŞIMDI, EVİMİZDEYMİŞİZ, TAVSİYEMDİR, YANIMIZDAYDI</li>
-                <li>VERB-Fin: REHBERİMİZDİ, ALMADIM, ARKADAŞIMDI, YANIMIZDAYDI</li>
+                <li>VERB-Fin: REHBERİMİZDİ, ALMADIM, ARKADAŞIMDI, EVİMİZDEYMİŞİZ, TAVSİYEMDİR, YANIMIZDAYDI</li>
               </ul>
             </li>
             <li>2
               <ul>
-                <li>NOUN: ÜZERİNDEN, YURTDIŞINDA, KARŞIN, OTELİNİZDEN, TURAN, AN, KUSURUNUZ, OTELİNİZİ, PARANIZIN, YAŞAMANIZI</li>
+                <li>NOUN: ÜZERİNDEN, YURTDIŞINDA, OTELİNİZDEN, TURAN, AN, KARŞIN, KUSURUNUZ, OTELİNİZİ, PARANIZIN, YAŞAMANIZI</li>
                 <li>VERB: ÜZERİNDEYDİ, YURTDIŞINDAYIM, ALTINDAYDI, İNSANDI, İNSANLAR</li>
-                <li>VERB-Fin: ÜZERİNDEYDİ, ALTINDAYDI, İNSANDI</li>
+                <li>VERB-Fin: ÜZERİNDEYDİ, YURTDIŞINDAYIM, ALTINDAYDI, İNSANDI</li>
               </ul>
             </li>
             <li>3
               <ul>
                 <li>NOUN: KONUMU, KALİTESİ, YEMEKLERİ, PERSONELLERİ, DENİZİ, TEMİZLİĞİ, HAVUZU, OLMASI, KARŞILIĞINI, HİZMETİ</li>
-                <li>VERB: ADINAYDI, ALTINDAYDI, BİRİYDİ, MERKEZİYDİ, OTELİYDİ, HALİNDEYİZ, YOLUNDAYDI, YORUMUDUR, ÜSTÜNDEYDİ, İÇERİSİNDEYİZ</li>
-                <li>VERB-Fin: ADINAYDI, ALTINDAYDI, BİRİYDİ, MERKEZİYDİ, OTELİYDİ, YOLUNDAYDI, ÜSTÜNDEYDİ, KALİTESİNDEYDİ, ÇİFTİYDİK, ACEMİYDİ</li>
+                <li>VERB-Fin: ADINAYDI, ALTINDAYDI, BİRİYDİ, MERKEZİYDİ, OTELİYDİ, HALİNDEYİZ, YOLUNDAYDI, YORUMUDUR, ÜSTÜNDEYDİ, İÇERİSİNDEYİZ</li>
               </ul>
             </li>
           </ul>
@@ -7764,16 +8755,7 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
-      <h2>Syntax</h2>
-      
-      <h3>Auxiliary Verbs and Copula</h3>
-      
-      <ul>
-      <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: i, ol.</li>
-      </ul>
-    </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -7782,7 +8764,7 @@ udver: '2'
       <li>This corpus does not contain copulas.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -7791,7 +8773,25 @@ udver: '2'
       <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: i, ol.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <h2>Syntax</h2>
+      
+      <h3>Auxiliary Verbs and Copula</h3>
+      
+      <ul>
+      <li>This corpus does not contain copulas.</li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
+      <h2>Syntax</h2>
+      
+      <h3>Auxiliary Verbs and Copula</h3>
+      
+      <ul>
+      <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: i, ol.</li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -7800,7 +8800,7 @@ udver: '2'
       <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: i.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -7809,7 +8809,7 @@ udver: '2'
       <li>This corpus does not contain copulas.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -7818,7 +8818,7 @@ udver: '2'
       <li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: ol, i, _.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -7827,7 +8827,7 @@ udver: '2'
       <li>This corpus does not contain copulas.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -7838,49 +8838,74 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+      <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: mi, değil.</li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: değil, ol, i, bulun, mi.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: mi, değil.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: ol, değil, olduk, olacak, bulun, bil.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: değil.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: mi, değil.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: değil, mi, ol, i.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: değil, mi.</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
       <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: değil, mi.</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+      
+      Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+      <ul>
+        <li><a>nsubj</a>
+          <ul>
+            <li>VERB--NOUN-Nom (1)</li>
+            <li>VERB-Conv--NOUN-Nom (3)</li>
+            <li>VERB-Fin--NOUN-Acc (49)</li>
+            <li>VERB-Fin--NOUN-Gen (2)</li>
+            <li>VERB-Fin--NOUN-Nom (865)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(ilk) (1)</li>
+            <li>VERB-Fin--PRON (3)</li>
+            <li>VERB-Vnoun--NOUN-Acc (4)</li>
+            <li>VERB-Vnoun--NOUN-Nom (4)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -7931,36 +8956,32 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN-Acc (6)</li>
-            <li>VERB--NOUN-Nom (101)</li>
-            <li>VERB--PRON (26)</li>
-            <li>VERB--PRON-ADP(de) (1)</li>
             <li>VERB-Fin--NOUN-Abl-ADP(beri) (1)</li>
             <li>VERB-Fin--NOUN-Abl-ADP(ötürü) (1)</li>
-            <li>VERB-Fin--NOUN-Acc (21)</li>
+            <li>VERB-Fin--NOUN-Acc (26)</li>
             <li>VERB-Fin--NOUN-Dat (4)</li>
-            <li>VERB-Fin--NOUN-Gen (4)</li>
+            <li>VERB-Fin--NOUN-Gen (3)</li>
             <li>VERB-Fin--NOUN-Loc (1)</li>
-            <li>VERB-Fin--NOUN-Nom (727)</li>
+            <li>VERB-Fin--NOUN-Nom (833)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(bile) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(da) (3)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(de) (3)</li>
-            <li>VERB-Fin--PRON (86)</li>
+            <li>VERB-Fin--PRON (112)</li>
             <li>VERB-Fin--PRON-ADP(da) (3)</li>
-            <li>VERB-Fin--PRON-ADP(de) (2)</li>
+            <li>VERB-Fin--PRON-ADP(de) (3)</li>
             <li>VERB-Vnoun--PRON (1)</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -7993,7 +9014,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -8043,56 +9064,47 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN-Acc (43)</li>
-            <li>VERB--NOUN-Acc-ADP(de) (2)</li>
-            <li>VERB--NOUN-Dat (1)</li>
-            <li>VERB--NOUN-Dat-ADP(kadar) (1)</li>
-            <li>VERB--NOUN-Gen (17)</li>
-            <li>VERB--NOUN-Ins (2)</li>
-            <li>VERB--NOUN-Nom (1397)</li>
-            <li>VERB--NOUN-Nom-ADP(bile) (1)</li>
-            <li>VERB--NOUN-Nom-ADP(da) (3)</li>
-            <li>VERB--NOUN-Nom-ADP(de) (3)</li>
-            <li>VERB--NOUN-Nom-ADP(ki) (1)</li>
-            <li>VERB--NOUN-Nom-ADP(kredi) (1)</li>
-            <li>VERB--PRON (279)</li>
-            <li>VERB--PRON-ADP(da) (1)</li>
-            <li>VERB--PRON-ADP(de) (8)</li>
-            <li>VERB--PRON-ADP(i) (1)</li>
+            <li>VERB--PRON-ADP(de) (1)</li>
             <li>VERB-Conv--NOUN-Ins (1)</li>
-            <li>VERB-Conv--NOUN-Nom (15)</li>
+            <li>VERB-Conv--NOUN-Nom (16)</li>
             <li>VERB-Fin--NOUN (2)</li>
             <li>VERB-Fin--NOUN-Abl (1)</li>
             <li>VERB-Fin--NOUN-Abl-ADP(fazla) (1)</li>
-            <li>VERB-Fin--NOUN-Acc (132)</li>
+            <li>VERB-Fin--NOUN-Acc (177)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(bile) (1)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(de) (2)</li>
             <li>VERB-Fin--NOUN-Dat (9)</li>
-            <li>VERB-Fin--NOUN-Gen (33)</li>
-            <li>VERB-Fin--NOUN-Ins (15)</li>
+            <li>VERB-Fin--NOUN-Dat-ADP(kadar) (1)</li>
+            <li>VERB-Fin--NOUN-Gen (50)</li>
+            <li>VERB-Fin--NOUN-Ins (17)</li>
             <li>VERB-Fin--NOUN-Loc (2)</li>
-            <li>VERB-Fin--NOUN-Nom (4846)</li>
+            <li>VERB-Fin--NOUN-Nom (6284)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(barmen) (1)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(bile) (6)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(da) (11)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(bile) (7)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(da) (13)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(dahi) (1)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(de) (15)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(de) (18)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(falan) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(i) (2)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(için) (1)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(ki) (1)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(kredi) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(üzere) (1)</li>
-            <li>VERB-Fin--PRON (729)</li>
+            <li>VERB-Fin--PRON (1013)</li>
             <li>VERB-Fin--PRON-ADP(bari) (1)</li>
-            <li>VERB-Fin--PRON-ADP(da) (5)</li>
-            <li>VERB-Fin--PRON-ADP(de) (17)</li>
+            <li>VERB-Fin--PRON-ADP(da) (6)</li>
+            <li>VERB-Fin--PRON-ADP(de) (24)</li>
             <li>VERB-Fin--PRON-ADP(gibi) (1)</li>
+            <li>VERB-Fin--PRON-ADP(i) (1)</li>
             <li>VERB-Fin--PRON-ADP(kadar) (2)</li>
+            <li>VERB-Fin--PRON-ADP(ki) (1)</li>
             <li>VERB-Part--NOUN-Dat (1)</li>
             <li>VERB-Part--NOUN-Gen (3)</li>
             <li>VERB-Part--NOUN-Nom (7)</li>
@@ -8100,14 +9112,14 @@ udver: '2'
             <li>VERB-Part--PRON-ADP(da) (1)</li>
             <li>VERB-Vnoun--NOUN-Acc (3)</li>
             <li>VERB-Vnoun--NOUN-Gen (2)</li>
-            <li>VERB-Vnoun--NOUN-Nom (44)</li>
+            <li>VERB-Vnoun--NOUN-Nom (45)</li>
             <li>VERB-Vnoun--NOUN-Nom-ADP(da) (1)</li>
             <li>VERB-Vnoun--PRON (4)</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -8135,81 +9147,78 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN-Acc (34)</li>
-            <li>VERB--NOUN-Gen (4)</li>
-            <li>VERB--NOUN-Loc (1)</li>
-            <li>VERB--NOUN-Nom (378)</li>
-            <li>VERB--NOUN-Nom-ADP(da) (3)</li>
-            <li>VERB--NOUN-Nom-ADP(de) (3)</li>
-            <li>VERB--PRON (59)</li>
+            <li>VERB--NOUN-Nom (12)</li>
+            <li>VERB--PRON (2)</li>
+            <li>VERB--PRON-ADP(da) (1)</li>
+            <li>VERB-Conv--NOUN-Acc (1)</li>
+            <li>VERB-Conv--NOUN-Loc (1)</li>
             <li>VERB-Conv--NOUN-Nom (5)</li>
-            <li>VERB-Fin--NOUN-Abl (3)</li>
-            <li>VERB-Fin--NOUN-Abl-ADP(çok) (1)</li>
-            <li>VERB-Fin--NOUN-Acc (322)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(da) (8)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(de) (8)</li>
+            <li>VERB-Fin--NOUN (1)</li>
+            <li>VERB-Fin--NOUN-Abl (2)</li>
+            <li>VERB-Fin--NOUN-Abl-ADP(fazla) (2)</li>
+            <li>VERB-Fin--NOUN-Acc (379)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(da) (3)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(de) (2)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(i) (1)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(is) (1)</li>
-            <li>VERB-Fin--NOUN-Dat (22)</li>
+            <li>VERB-Fin--NOUN-Dat (26)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(da) (1)</li>
-            <li>VERB-Fin--NOUN-Gen (9)</li>
-            <li>VERB-Fin--NOUN-Nom (3138)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(bile) (2)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(da) (27)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(de) (21)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(i) (5)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(is) (4)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(taraf) (1)</li>
-            <li>VERB-Fin--PRON (238)</li>
-            <li>VERB-Fin--PRON-ADP(da) (2)</li>
-            <li>VERB-Fin--PRON-ADP(de) (1)</li>
-            <li>VERB-Fin--PRON-ADP(i) (1)</li>
-            <li>VERB-Fin--PRON-ADP(is) (1)</li>
-            <li>VERB-Part--NOUN-Gen (1)</li>
-            <li>VERB-Part--NOUN-Nom (5)</li>
+            <li>VERB-Fin--NOUN-Dat-ADP(yönelik) (1)</li>
+            <li>VERB-Fin--NOUN-Gen (32)</li>
+            <li>VERB-Fin--NOUN-Gen-ADP(iç) (1)</li>
+            <li>VERB-Fin--NOUN-Ins (1)</li>
+            <li>VERB-Fin--NOUN-Loc (5)</li>
+            <li>VERB-Fin--NOUN-Nom (7218)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(bile) (3)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(da) (40)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(de) (43)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(i) (8)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(is) (3)</li>
+            <li>VERB-Fin--PRON (578)</li>
+            <li>VERB-Fin--PRON-ADP(da) (4)</li>
+            <li>VERB-Fin--PRON-ADP(de) (5)</li>
+            <li>VERB-Fin--PRON-ADP(i) (3)</li>
+            <li>VERB-Part--NOUN-Nom (17)</li>
             <li>VERB-Part--PRON (1)</li>
             <li>VERB-Vnoun--NOUN-Acc (4)</li>
-            <li>VERB-Vnoun--NOUN-Gen (1)</li>
-            <li>VERB-Vnoun--NOUN-Nom (34)</li>
-            <li>VERB-Vnoun--PRON (1)</li>
+            <li>VERB-Vnoun--NOUN-Gen (2)</li>
+            <li>VERB-Vnoun--NOUN-Nom (68)</li>
+            <li>VERB-Vnoun--NOUN-Nom-ADP(da) (1)</li>
+            <li>VERB-Vnoun--PRON (2)</li>
+            <li>VERB-Vnoun--PRON-ADP(de) (1)</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
       
       Here we consider only relations between verbs (parent) and nouns or pronouns (child).
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN-Acc (5)</li>
-            <li>VERB--NOUN-Dat (1)</li>
-            <li>VERB--NOUN-Gen (1)</li>
-            <li>VERB--NOUN-Nom (97)</li>
-            <li>VERB--NOUN-Nom-ADP(dahi) (1)</li>
-            <li>VERB--NOUN-Nom-ADP(de) (1)</li>
-            <li>VERB--PRON (15)</li>
+            <li>VERB--NOUN-Nom (1)</li>
+            <li>VERB--PRON (1)</li>
             <li>VERB-Fin--NOUN-Abl (4)</li>
-            <li>VERB-Fin--NOUN-Acc (593)</li>
-            <li>VERB-Fin--NOUN-Dat (5)</li>
-            <li>VERB-Fin--NOUN-Gen (1)</li>
+            <li>VERB-Fin--NOUN-Acc (594)</li>
+            <li>VERB-Fin--NOUN-Dat (6)</li>
+            <li>VERB-Fin--NOUN-Gen (2)</li>
             <li>VERB-Fin--NOUN-Ins (131)</li>
-            <li>VERB-Fin--NOUN-Nom (5707)</li>
+            <li>VERB-Fin--NOUN-Nom (5805)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(da) (3)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(de) (5)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(dahi) (1)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(de) (6)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(dekorasyon) (2)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(diye) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(ile) (332)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(ol) (6)</li>
-            <li>VERB-Fin--PRON (306)</li>
+            <li>VERB-Fin--PRON (317)</li>
             <li>VERB-Fin--PRON-ADP(da) (1)</li>
             <li>VERB-Fin--PRON-ADP(de) (3)</li>
             <li>VERB-Vnoun--NOUN-Nom (2)</li>
@@ -8219,7 +9228,22 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li><a>obj</a>
+          <ul>
+            <li>VERB-Fin--NOUN-Acc (745)</li>
+            <li>VERB-Fin--NOUN-Dat (1)</li>
+            <li>VERB-Fin--NOUN-Ins (1)</li>
+            <li>VERB-Fin--NOUN-Nom (1581)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(ile) (2)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(için) (1)</li>
+            <li>VERB-Fin--PRON (11)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -8278,34 +9302,28 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN-Abl (3)</li>
-            <li>VERB--NOUN-Acc (72)</li>
-            <li>VERB--NOUN-Acc-ADP(da) (1)</li>
-            <li>VERB--NOUN-Dat (11)</li>
-            <li>VERB--NOUN-Nom (49)</li>
-            <li>VERB--PRON (16)</li>
-            <li>VERB-Fin--NOUN-Abl (14)</li>
-            <li>VERB-Fin--NOUN-Acc (522)</li>
+            <li>VERB-Fin--NOUN-Abl (17)</li>
+            <li>VERB-Fin--NOUN-Acc (592)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(da) (1)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(dahi) (1)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(de) (2)</li>
-            <li>VERB-Fin--NOUN-Dat (55)</li>
+            <li>VERB-Fin--NOUN-Dat (65)</li>
             <li>VERB-Fin--NOUN-Gen (2)</li>
-            <li>VERB-Fin--NOUN-Loc (4)</li>
-            <li>VERB-Fin--NOUN-Nom (319)</li>
+            <li>VERB-Fin--NOUN-Loc (2)</li>
+            <li>VERB-Fin--NOUN-Nom (367)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(de) (2)</li>
-            <li>VERB-Fin--PRON (96)</li>
+            <li>VERB-Fin--PRON (112)</li>
             <li>VERB-Fin--PRON-ADP(için) (1)</li>
             <li>VERB-Vnoun--NOUN-Nom (1)</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -8331,7 +9349,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -8391,72 +9409,54 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (1)</li>
-            <li>VERB--NOUN-Abl (21)</li>
-            <li>VERB--NOUN-Abl-ADP(sonra) (1)</li>
-            <li>VERB--NOUN-Acc (442)</li>
-            <li>VERB--NOUN-Acc-ADP(da) (2)</li>
-            <li>VERB--NOUN-Dat (68)</li>
-            <li>VERB--NOUN-Dat-ADP(kadar) (1)</li>
-            <li>VERB--NOUN-Gen (11)</li>
-            <li>VERB--NOUN-Ins (5)</li>
-            <li>VERB--NOUN-Loc (13)</li>
-            <li>VERB--NOUN-Nom (617)</li>
-            <li>VERB--NOUN-Nom-ADP(de) (3)</li>
-            <li>VERB--NOUN-Nom-ADP(diye) (2)</li>
-            <li>VERB--NOUN-Nom-ADP(için) (1)</li>
-            <li>VERB--NOUN-Nom-ADP(kadar) (2)</li>
-            <li>VERB--PRON (119)</li>
-            <li>VERB--PRON-ADP(bile) (1)</li>
             <li>VERB-Conv--NOUN-Nom (1)</li>
             <li>VERB-Fin--NOUN (1)</li>
-            <li>VERB-Fin--NOUN-Abl (111)</li>
-            <li>VERB-Fin--NOUN-Abl-ADP(sonra) (1)</li>
-            <li>VERB-Fin--NOUN-Acc (2114)</li>
+            <li>VERB-Fin--NOUN-Abl (106)</li>
+            <li>VERB-Fin--NOUN-Abl-ADP(sonra) (2)</li>
+            <li>VERB-Fin--NOUN-Acc (2497)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(bil) (1)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(bile) (3)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(da) (3)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(de) (6)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(da) (5)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(de) (7)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(ile) (1)</li>
-            <li>VERB-Fin--NOUN-Dat (273)</li>
+            <li>VERB-Fin--NOUN-Dat (312)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(bile) (1)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(doğru) (1)</li>
-            <li>VERB-Fin--NOUN-Dat-ADP(kadar) (2)</li>
-            <li>VERB-Fin--NOUN-Gen (13)</li>
-            <li>VERB-Fin--NOUN-Ins (53)</li>
-            <li>VERB-Fin--NOUN-Loc (53)</li>
-            <li>VERB-Fin--NOUN-Nom (2559)</li>
+            <li>VERB-Fin--NOUN-Gen (21)</li>
+            <li>VERB-Fin--NOUN-Ins (39)</li>
+            <li>VERB-Fin--NOUN-Loc (36)</li>
+            <li>VERB-Fin--NOUN-Nom (3080)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(bile) (3)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(boyunca) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(da) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(dahi) (1)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(de) (1)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(diye) (3)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(gibi) (6)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(ile) (6)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(için) (5)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(kadar) (1)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(vesaire) (1)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(de) (4)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(diye) (5)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(gibi) (5)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(ile) (5)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(için) (4)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(kadar) (2)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(yapsat) (1)</li>
-            <li>VERB-Fin--PRON (507)</li>
+            <li>VERB-Fin--PRON (613)</li>
+            <li>VERB-Fin--PRON-ADP(bile) (1)</li>
             <li>VERB-Fin--PRON-ADP(da) (1)</li>
             <li>VERB-Fin--PRON-ADP(de) (2)</li>
             <li>VERB-Part--NOUN-Ins (1)</li>
             <li>VERB-Part--NOUN-Nom (3)</li>
             <li>VERB-Vnoun--NOUN-Acc (18)</li>
-            <li>VERB-Vnoun--NOUN-Dat (4)</li>
+            <li>VERB-Vnoun--NOUN-Dat (3)</li>
             <li>VERB-Vnoun--NOUN-Gen (1)</li>
-            <li>VERB-Vnoun--NOUN-Nom (22)</li>
+            <li>VERB-Vnoun--NOUN-Nom (20)</li>
             <li>VERB-Vnoun--PRON (2)</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
@@ -8487,75 +9487,70 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN-Abl (10)</li>
-            <li>VERB--NOUN-Acc (75)</li>
-            <li>VERB--NOUN-Dat (35)</li>
-            <li>VERB--NOUN-Gen (2)</li>
-            <li>VERB--NOUN-Ins-ADP(de) (1)</li>
-            <li>VERB--NOUN-Loc (2)</li>
-            <li>VERB--NOUN-Nom (80)</li>
-            <li>VERB--NOUN-Nom-ADP(ile) (2)</li>
-            <li>VERB--PRON (18)</li>
+            <li>VERB--NOUN-Dat (1)</li>
+            <li>VERB--NOUN-Gen (1)</li>
             <li>VERB-Conv--NOUN-Nom (2)</li>
-            <li>VERB-Fin--NOUN-Abl (57)</li>
-            <li>VERB-Fin--NOUN-Abl-ADP(de) (1)</li>
-            <li>VERB-Fin--NOUN-Acc (835)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(da) (9)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(de) (7)</li>
-            <li>VERB-Fin--NOUN-Dat (297)</li>
+            <li>VERB-Fin--NOUN (1)</li>
+            <li>VERB-Fin--NOUN-Abl (100)</li>
+            <li>VERB-Fin--NOUN-Abl-ADP(fazla) (1)</li>
+            <li>VERB-Fin--NOUN-Acc (1827)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(da) (12)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(de) (13)</li>
+            <li>VERB-Fin--NOUN-Dat (477)</li>
+            <li>VERB-Fin--NOUN-Dat-ADP(de) (1)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(karşı) (1)</li>
-            <li>VERB-Fin--NOUN-Gen (6)</li>
-            <li>VERB-Fin--NOUN-Ins (12)</li>
-            <li>VERB-Fin--NOUN-Loc (20)</li>
-            <li>VERB-Fin--NOUN-Nom (762)</li>
+            <li>VERB-Fin--NOUN-Dat-ADP(yakın) (1)</li>
+            <li>VERB-Fin--NOUN-Gen (13)</li>
+            <li>VERB-Fin--NOUN-Ins (28)</li>
+            <li>VERB-Fin--NOUN-Loc (32)</li>
+            <li>VERB-Fin--NOUN-Nom (1985)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(alt) (1)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(da) (2)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(bile) (1)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(da) (5)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(de) (2)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(ile) (5)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(için) (2)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(gibi) (1)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(ile) (11)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(için) (1)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(kadar) (1)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(tarafından) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(üzerine) (2)</li>
-            <li>VERB-Fin--PRON (163)</li>
+            <li>VERB-Fin--PRON (283)</li>
             <li>VERB-Part--NOUN-Acc (1)</li>
+            <li>VERB-Part--NOUN-Nom (1)</li>
             <li>VERB-Part--PRON (1)</li>
+            <li>VERB-Part--PRON-ADP(kadar) (1)</li>
             <li>VERB-Vnoun--NOUN-Abl (1)</li>
-            <li>VERB-Vnoun--NOUN-Acc (8)</li>
+            <li>VERB-Vnoun--NOUN-Acc (15)</li>
+            <li>VERB-Vnoun--NOUN-Dat (2)</li>
             <li>VERB-Vnoun--NOUN-Gen (1)</li>
-            <li>VERB-Vnoun--NOUN-Nom (11)</li>
-            <li>VERB-Vnoun--PRON (1)</li>
+            <li>VERB-Vnoun--NOUN-Nom (19)</li>
+            <li>VERB-Vnoun--PRON (3)</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN-Abl (13)</li>
-            <li>VERB--NOUN-Abl-ADP(da) (1)</li>
-            <li>VERB--NOUN-Acc (12)</li>
-            <li>VERB--NOUN-Dat (8)</li>
-            <li>VERB--NOUN-Ins (2)</li>
-            <li>VERB--NOUN-Loc (1)</li>
-            <li>VERB--NOUN-Nom (23)</li>
-            <li>VERB--PRON (16)</li>
-            <li>VERB-Fin--NOUN-Abl (467)</li>
-            <li>VERB-Fin--NOUN-Acc (573)</li>
+            <li>VERB-Fin--NOUN-Abl (474)</li>
+            <li>VERB-Fin--NOUN-Acc (581)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(da) (1)</li>
-            <li>VERB-Fin--NOUN-Dat (192)</li>
+            <li>VERB-Fin--NOUN-Dat (197)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(da) (1)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(göre) (1)</li>
             <li>VERB-Fin--NOUN-Gen (6)</li>
-            <li>VERB-Fin--NOUN-Ins (12)</li>
-            <li>VERB-Fin--NOUN-Loc (11)</li>
-            <li>VERB-Fin--NOUN-Nom (766)</li>
+            <li>VERB-Fin--NOUN-Ins (14)</li>
+            <li>VERB-Fin--NOUN-Loc (9)</li>
+            <li>VERB-Fin--NOUN-Nom (786)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(hakkında) (3)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(ile) (10)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(ol) (1)</li>
-            <li>VERB-Fin--PRON (199)</li>
+            <li>VERB-Fin--PRON (213)</li>
             <li>VERB-Fin--PRON-ADP(ile) (3)</li>
           </ul>
         </li>
@@ -8563,7 +9558,16 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li><a>iobj</a>
+          <ul>
+            <li>VERB-Fin--PRON (1)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -8580,7 +9584,16 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li><a>iobj</a>
+          <ul>
+            <li>VERB-Fin--NOUN-Dat (1)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -8588,7 +9601,7 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -8596,37 +9609,27 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
-          </ul>
-        </li>
-      </ul>
-    </td>
-    <td width="12%" valign="top">
-      <ul>
-        <li><a>iobj</a>
-          <ul>
-            <li>VERB--NOUN-Dat (55)</li>
-            <li>VERB--NOUN-Nom (3)</li>
-            <li>VERB--NOUN-Nom-ADP(diye) (1)</li>
-            <li>VERB--PRON (6)</li>
-            <li>VERB-Fin--NOUN-Dat (202)</li>
+            <li>VERB-Fin--NOUN-Acc (2)</li>
+            <li>VERB-Fin--NOUN-Dat (275)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(bile) (1)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(d) (1)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(da) (1)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(karşı) (1)</li>
             <li>VERB-Fin--NOUN-Gen (1)</li>
-            <li>VERB-Fin--NOUN-Nom (12)</li>
-            <li>VERB-Fin--PRON (43)</li>
+            <li>VERB-Fin--NOUN-Nom (15)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(diye) (1)</li>
+            <li>VERB-Fin--PRON (59)</li>
             <li>VERB-Part--PRON (1)</li>
             <li>VERB-Vnoun--NOUN-Dat (2)</li>
           </ul>
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -8639,7 +9642,17 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <ul>
+        <li><a>iobj</a>
+          <ul>
+            <li>VERB-Fin--NOUN-Dat (17)</li>
+            <li>VERB-Fin--NOUN-Nom (1)</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <ul>
         <li><a>iobj</a>
           <ul>
@@ -8647,72 +9660,73 @@ udver: '2'
         </li>
       </ul>
     </td>
-    <td width="12%" valign="top">
-      <ul>
-        <li><a>iobj</a>
-          <ul>
-          </ul>
-        </li>
-      </ul>
-    </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
 
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
 
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+
+    </td>
+    <td width="11%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
@@ -8722,42 +9736,42 @@ udver: '2'
           </ul>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
         <li>This corpus contains 10 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: et kendimden, çağır kendisini, anlat kendimi, anlat kendinizi, aradık kendilerini, eleştir kendinizi, gör kendilerini, gör kendisini, sür kendini, sür kendisini</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
         <li>This corpus contains 42 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: as kendini, at kendini, ver kendini, yer kendimi, alıştırma kendini, anla kendilerini, anlat kendisini, at kendinizi, benze kendini, beğen kendimi, bırak kendimi, getir kendisini, gör kendilerini, gör kendimi, hisset kendimi, hisset kendimizi, hisset kendini, hisset kendisini, ilan kendini, inan kendini, iptal kendilerini, izle kendilerini, karış kendini, koru kendilerini, kurtar kendimi, kurtar kendinizi, kutla kendisini, rahatla kendisini, sal kendini, sat kendi, savun kendini, teslim kendinizi, toparla kendisini, tut kendimi, tutsaklaş kendisini, uğurla kendisini, yokla kendimizi, çek kendimizi, çek kendini, çevrele kendisini, çıkar kendisini, öl kendimi</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 130 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: at kendini, et kendini, bul kendini, gör kendisini, sat kendini, topla kendini, gör kendini, göster kendini, san kendini, ver kendimi, at kendimi, ayır kendini, bul kendimi, büyüle kendisini, bırak kendini, bırak kendisini, et kendilerini, hisset kendini, iste kendini, koyuver kendimi, kurtar kendisini, tut kendimi, tut kendini, ver kendilerini, ver kendisini, öl kendini, al kendisini, alış kendimi, anla kendisine, anla kendisini, anlayabil kendisini, at kendinizi, at kendisini, ata kendilerini, ata kendinizi, avut kendimi, avut kendisini, açıkla kendilerini, aşağıla kendisini, bak kendime, benzet kendimi, besle kendisini, bitir kendimi, boğ kendini, bul kendinizi, bul kendisini, bırak kendilerini, bırak kendimi, ceza kendisini, dağıt kendimi</li>
+        <li>This corpus contains 129 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: at kendini, et kendini, bul kendini, gör kendisini, sat kendini, topla kendini, gör kendini, göster kendini, san kendini, ver kendimi, at kendimi, ayır kendini, bul kendimi, büyüle kendisini, bırak kendini, bırak kendisini, et kendilerini, gör kendimizi, hisset kendini, koyuver kendimi, kurtar kendisini, tut kendimi, tut kendini, ver kendilerini, ver kendisini, öl kendini, adama kendini, al kendisini, alış kendimi, anla kendisine, anla kendisini, anlayabil kendisini, at kendinizi, at kendisini, ata kendilerini, ata kendinizi, avut kendimi, avut kendisini, açıkla kendilerini, aşağıla kendisini, bak kendime, benzet kendimi, besle kendisini, bitir kendimi, boğ kendini, bul kendinizi, bul kendisini, bırak kendilerini, bırak kendimi, ceza kendisini</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
         <li>This corpus contains 7 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: yönet kendi, bul kendisini, devir kendisini, emin kendinden, ilan kendisini, kur kendisini, önemse kendini</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 30 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: et kendini, et kendisini, hisset kendimi, ada kendimi, adlandır kendini, al kendilerini, at kendini, ayarla kendisini, açıkla kendisini, aş kendilerini, besle kendini, bil kendi̇ni̇, bul kendilerini, dölle kendisini, ekle kendini, gör kendilerini, gör kendini, hazırla kendilerini, hazırla kendini, katıl kendilerine, koru kendilerini, oluş kendilerini, savun kendisini, sür kendini, tanımla kendisini, ulaş kendisine, ver kendilerini, vur kendilerini, yapı kendisini, şımar kendilerini</li>
+        <li>This corpus contains 47 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: hisset kendimi, besle kendini, et kendilerini, et kendini, et kendisini, gör kendilerini, savun kendini, savun kendisini, ada kendilerini, ada kendimi, adlandır kendini, al kendilerini, an kendini, at kendini, ayarla kendisini, açıkla kendisini, aş kendilerini, bil kendi̇ni̇, biçim kendini, borçlu kendilerini, bul kendilerini, bul kendini, bul kendisini, diril kendini, dölle kendisini, ekle kendini, et kendisine, gör kendini, göster kendisini, hazırla kendilerini, hazırla kendini, hisset kendinizi, kanıtla kendimi, karart kendisi, katıl kendilerine, koru kendilerini, oluş kendilerini, sür kendini, tanımla kendisini, toparla kendini, ulaş kendisine, ver kendilerini, vur kendilerini, yapı kendisini, yarala kendini, çek kendilerini, şımar kendilerini</li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
@@ -8766,7 +9780,15 @@ udver: '2'
     </td>
   </tr>
   <tr>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
+      <h3>Relations Overview</h3>
+      
+      <ul>
+      <li>This corpus does not use relation subtypes.</li>
+      <li>The following 4 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>cop</a>, <a>reparandum</a></li>
+      </ul>
+    </td>
+    <td width="11%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -8774,15 +9796,15 @@ udver: '2'
       <li>The following 2 relation types are not used in this corpus at all: <a>expl</a>, <a>reparandum</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
       <li>This corpus does not use relation subtypes.</li>
-      <li>The following 8 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>cop</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+      <li>The following 7 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>cop</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -8790,7 +9812,7 @@ udver: '2'
       <li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -8798,7 +9820,7 @@ udver: '2'
       <li>The following 9 relation types are not used in this corpus at all: <a>iobj</a>, <a>xcomp</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -8806,7 +9828,7 @@ udver: '2'
       <li>The following 2 relation types are not used in this corpus at all: <a>expl</a>, <a>cop</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
@@ -8814,15 +9836,15 @@ udver: '2'
       <li>The following 4 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>list</a>, <a>reparandum</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
       <li>This corpus does not use relation subtypes.</li>
-      <li>The following 5 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>cop</a>, <a>orphan</a>, <a>reparandum</a></li>
+      <li>The following 3 relation types are not used in this corpus at all: <a>expl</a>, <a>cop</a>, <a>reparandum</a></li>
       </ul>
     </td>
-    <td width="12%" valign="top">
+    <td width="11%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>

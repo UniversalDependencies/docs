@@ -23,7 +23,7 @@ The following 13 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 cc	color:blue
-1	O	o	DET	DT	Gender=Masc|Number=Sing	2	det	_	_
+1	O	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	esquema	esquema	NOUN	NN	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	faz	fazer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 4	dinheiro	dinheiro	NOUN	NN	Gender=Masc|Number=Sing	3	obj	_	_

@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Tim`.
 
-1693 tokens (0%) have a non-empty value of `AdvType`.
+1689 tokens (0%) have a non-empty value of `AdvType`.
 302 types (1%) occur at least once with a non-empty value of `AdvType`.
 302 lemmas (1%) occur at least once with a non-empty value of `AdvType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (1691; 0% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (1687; 0% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-1691 <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `AdvType`.
+1687 <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `AdvType`.
 
-The most frequent other feature values with which `NOUN` and `AdvType` co-occurred: <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1691; 100%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1691; 100%).
+The most frequent other feature values with which `NOUN` and `AdvType` co-occurred: <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1687; 100%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1687; 100%).
 
 `NOUN` tokens may have the following values of `AdvType`:
 
-* `Tim` (1691; 100% of non-empty `AdvType`): <em>1999, divendres, 1998, dilluns, diumenge, dimecres, dissabte, 2001, dijous, 2000</em>
+* `Tim` (1687; 100% of non-empty `AdvType`): <em>1999, divendres, 1998, dilluns, diumenge, dimecres, dissabte, 2001, dijous, 2000</em>
 
 `AdvType` seems to be **lexical feature** of `NOUN`. 100% lemmas (300) occur only with one value of `AdvType`.
 

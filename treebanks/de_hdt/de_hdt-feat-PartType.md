@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="de_hdt-pos-ADP.html
 
 20484 <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> tokens (5% of all `ADP` tokens) have a non-empty value of `PartType`.
 
-The most frequent other feature values with which `ADP` and `PartType` co-occurred: <tt><a href="de_hdt-feat-AdpType.html">AdpType</a></tt><tt>=EMPTY</tt> (20484; 100%), <tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (20484; 100%), <tt><a href="de_hdt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (20484; 100%).
+The most frequent other feature values with which `ADP` and `PartType` co-occurred: <tt><a href="de_hdt-feat-AdpType.html">AdpType</a></tt><tt>=EMPTY</tt> (20484; 100%), <tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (20484; 100%).
 
 `ADP` tokens may have the following values of `PartType`:
 

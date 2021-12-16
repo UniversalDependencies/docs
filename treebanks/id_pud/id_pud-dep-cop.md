@@ -42,10 +42,10 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 5 4 cop	color:blue
 1	Raja	raja	NOUN	_	Number=Sing	5	nsubj	_	_
 2	pertama	pertama	ADJ	_	NumType=Ord	1	amod	_	_
-3	nya	nya	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nmod:poss	_	_
+3	nya	nya	PRON	_	Number=Sing|Person=3|PronType=Prs	1	nmod:poss	_	_
 4	adalah	adalah	AUX	_	_	5	cop	_	_
 5	Mojmír	Mojmír	PROPN	_	_	0	root	_	_
-6	I	i	ADJ	_	NumType=Ord	5	amod	_	_
+6	I	I	PROPN	_	_	5	flat:name	_	_
 7	(	(	PUNCT	_	_	8	punct	_	SpaceAfter=No
 8	berkuasa	kuasa	VERB	_	Mood=Ind|Voice=Act	5	parataxis	_	_
 9	830	830	NUM	_	NumType=Card	8	obl:tmod	_	_

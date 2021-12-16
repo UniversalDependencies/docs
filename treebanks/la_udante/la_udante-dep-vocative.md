@@ -29,7 +29,7 @@ The following 14 pairs of parts of speech are connected with `vocative`: <tt><a 
 5	et	et	CCONJ	co	_	6	cc	_	_
 6	pabula	pabulum	NOUN	snp2a	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	4	conj	_	_
 7	nota	notus	ADJ	anp1a	Case=Acc|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	6	amod	_	_
-8	desertare	deserto	VERB	va1fp	Aspect=Imp|InflClass=LatA|InflClass[noun]=Ind|Tense=Pres|VerbForm=Inf|Voice=Act	12	xcomp	_	_
+8	desertare	deserto	VERB	va1fp	Aspect=Imp|InflClass=LatA|InflClass[nominal]=Ind|Tense=Pres|VerbForm=Inf|Voice=Act	12	xcomp	_	_
 9	tuo	tuus	DET	dsnsb	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	11	det	_	_
 10	vivaci	uiuax	ADJ	ans2b	Case=Abl|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Sing	11	amod	_	_
 11	nomine	nomen	NOUN	sns3b	Case=Abl|Gender=Neut|InflClass=IndEurX|Number=Sing	8	obl:arg	_	_

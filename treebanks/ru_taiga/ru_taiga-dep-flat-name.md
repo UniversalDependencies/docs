@@ -48,7 +48,7 @@ The following 12 pairs of parts of speech are connected with `flat:name`: <tt><a
 9	что	что	SCONJ	_	_	8	fixed	_	_
 10	настоящий	настоящий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
 11	ИМПЕРЕЦ	имперец	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	7	acl	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	7	punct	_	_
+12	.	.	PUNCT	_	_	7	punct	_	_~
 
 ~~~
 
@@ -62,7 +62,7 @@ The following 12 pairs of parts of speech are connected with `flat:name`: <tt><a
 1	Исполнитель	исполнитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	SpaceAfter=No
 2	:	:	PUNCT	_	_	1	punct	_	_
 3	Leslie	Leslie	X	_	Foreign=Yes	0	root	_	_
-4	Howard	Howard	X	_	Foreign=Yes	3	flat:name	_	_
+4	Howard	Howard	X	_	Foreign=Yes	3	flat:name	_	_~
 
 ~~~
 

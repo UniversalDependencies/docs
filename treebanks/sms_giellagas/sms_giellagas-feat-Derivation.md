@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Dimin`, `InchL`, `Men`.
 
-12 tokens (1%) have a non-empty value of `Derivation`.
+12 tokens (0%) have a non-empty value of `Derivation`.
 10 types (2%) occur at least once with a non-empty value of `Derivation`.
 10 lemmas (2%) occur at least once with a non-empty value of `Derivation`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (11; 1% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (11; 0% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
 

@@ -22,10 +22,10 @@ The following 1 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 xcomp	color:blue
-1	Oho	ho	VERB	vi	Person=3	0	root	0:root	_
-2	uĩ	uĩ	VERB	vi	Person=3	1	xcomp	1:xcomp	_
-3	tipe	tipe	PART	pcl	Aspect=Frus	1	discourse	1:discourse	_
-4	ã	ã	PART	pcl	_	1	discourse	1:discourse	_
+1	Oho	ho	VERB	vi	Person=3	0	root	_	_
+2	uĩ	uĩ	VERB	vi	Person=3	1	xcomp	_	_
+3	tipe	tipe	PART	pcl	Aspect=Frus	1	discourse	_	_
+4	ã	ã	PART	pcl	_	1	discourse	_	_
 
 ~~~
 

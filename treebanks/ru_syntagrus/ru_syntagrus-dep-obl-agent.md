@@ -7,13 +7,49 @@ udver: '2'
 ## Treebank Statistics: UD_Russian-SynTagRus: Relations: `obl:agent`
 
 This relation is a language-specific subtype of <tt><a href="ru_syntagrus-dep-obl.html">obl</a></tt>.
+There are also 1 other language-specific subtypes of `obl`: <tt><a href="ru_syntagrus-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-1956 nodes (0%) are attached to their parents as `obl:agent`.
+613 nodes (0%) are attached to their parents as `obl:agent`.
 
-1779 instances of `obl:agent` (91%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.96932515337423.
+563 instances of `obl:agent` (92%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.76835236541599.
 
-The following 24 pairs of parts of speech are connected with `obl:agent`: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (1271; 65% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (226; 12% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (202; 10% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (161; 8% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (31; 2% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (17; 1% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (17; 1% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt>-<tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ru_syntagrus-dep-_.html">_</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (465; 76% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (89; 15% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (58; 9% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 obl:agent	color:blue
+1	Как	как	ADV	_	Degree=Pos	2	advmod	2:advmod	_
+2	много	много	ADV	_	Degree=Pos	4	advmod	4:advmod	_
+3	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	значить	значить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	3	xcomp	3:xcomp	_
+5	образ	образ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	3:nsubj|4:nsubj	_
+6	города	город	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	5:nmod:gen	SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	8:punct	_
+8	созданный	создать	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	5:acl	_
+9	кинематографом	кинематограф	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	8	obl:agent	8:obl:agent	SpaceAfter=No
+10	!	!	PUNCT	_	_	3	punct	3:punct	_~
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 obl:agent	color:blue
+1	Нами	мы	PRON	_	Case=Ins|Number=Plur|Person=1	2	obl:agent	2:obl:agent	_
+2	оплачиваемое	оплачивать	VERB	_	Aspect=Imp|Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	0	root	0:root	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	2:punct	_
+4	естественно	естественно	ADV	_	Degree=Pos	2	parataxis	2:parataxis	SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	2:punct	_~
+
+~~~
 
 
 ~~~ conllu
@@ -22,50 +58,14 @@ The following 24 pairs of parts of speech are connected with `obl:agent`: <tt><a
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 obl:agent	color:blue
-1	Донато	донато	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	2:nsubj	_
-2	установил	устанавливать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
-3	,	,	PUNCT	_	_	2	punct	2:punct	_
-4	что	что	SCONJ	_	_	2	mark	2:mark	_
-5	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	6	nsubj:pass	6:nsubj:pass	_
-6	сделаны	делать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	advcl	2:advcl	_
-7	человеком	человек	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	6	obl:agent	6:obl:agent	SpaceAfter=No
-8	.	.	PUNCT	_	_	7	punct	7:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 obl:agent	color:blue
-1	Разберем	разбирать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	0:root	_
-2	теперь	теперь	ADV	_	Degree=Pos	1	advmod	1:advmod	_
-3	по	по	ADP	_	_	4	case	4:case	_
-4	пунктам	пункт	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	1	obl	1:obl	_
-5	сказанное	сказать	VERB	_	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	xcomp	1:xcomp	_
-6	Патрушевым	патрушев	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	5	obl:agent	5:obl:agent	SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	6:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 8 obl:agent	color:blue
-1	При	при	ADP	_	_	3	case	3:case	_
-2	такой	такой	DET	_	Case=Loc|Gender=Fem|Number=Sing	3	amod	3:amod	_
-3	структуре	структура	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	obl	6:obl	_
-4	этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing	5	amod	5:amod	_
-5	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	nsubj:pass	6:nsubj:pass	_
-6	снимается	снимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	_
-7	сам	сам	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	fixed	8:fixed	_
-8	собой	себя	PRON	_	Case=Ins	6	obl:agent	6:obl:agent	SpaceAfter=No
-9	.	.	PUNCT	_	_	8	punct	8:punct	_
+1	Иногда	иногда	ADV	_	Degree=Pos	2	advmod	2:advmod	_
+2	собирали	собирать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+3	картофель	картофель	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	2:obj	SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	6:punct	_
+5	насильно	насильно	ADV	_	Degree=Pos	6	advmod	6:advmod	_
+6	введенный	ввести	VERB	_	Animacy=Inan|Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	acl	3:acl	_
+7	Екатериной	Екатерина	PROPN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	6	obl:agent	6:obl:agent	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	2:punct	_~
 
 ~~~
 

@@ -16,11 +16,6 @@ but they can be finite as well. The name `xcomp` is
 borrowed from Lexical-Functional Grammar.
 
 ~~~ sdparse
-He says that you like to swim
-ccomp(says, like)
-~~~
-
-~~~ sdparse
 Sue asked George to respond to her offer
 xcomp(asked, respond)
 obj(asked, George)
@@ -38,11 +33,13 @@ xcomp(started, work)
 
 ~~~ sdparse
 I consider him a fool
+obj(consider, him)
 xcomp(consider, fool)
 ~~~
 
 ~~~ sdparse
-I consider him honest
+I consider her honest
+obj(consider, her)
 xcomp(consider, honest)
 ~~~
 
@@ -51,6 +48,21 @@ We expect them to change their minds
 xcomp(expect, change)
 obj(expect, them)
 ~~~
+
+~~~ sdparse
+Susan is liable to be arrested
+cop(liable, is)
+xcomp(liable, arrested)
+~~~
+
+~~~ sdparse
+He says that you like to swim
+ccomp(says, like)
+~~~
+
+The clausal complement can be headed by various parts of speech, including a VERB, ADJ, or NOUN. The xcomp-taking predicate of the higher clause can be a VERB or ADJ. 
+
+In examples like "I consider her honest", the UD analysis corresponds to traditional grammar and what was termed "raising to object" in early generative grammar: the nominal "her" in these constructions is treated as the `obj` of the higher clause (as its accusative morphology and ability to passivize suggests).
 
 Note that the above condition “without its own subject” does not mean that a 
 clause is an `xcomp` just because its subject is not _overt._ The subject must be necessarily inherited from a fixed position in the higher clause. That is, there should be no available interpretation where the subject of the lower clause may be distinct
@@ -98,7 +110,7 @@ obj(declared, cake)
 xcomp(declared, beautiful)
 ~~~
 
-In the enhanced representation, there is an additional subject link showing the secondary predication:
+The subject of "declared" is again obligatorily controlled by a role in the higher clause. In the enhanced representation, there is an additional subject link showing the secondary predication:
 
 ~~~ sdparse
 She declared the cake beautiful .
@@ -127,4 +139,26 @@ will either render the sentence ungrammatical or lead to a different interpretat
 
 The result is that in _She entered the room sad,_ _sad_ will depend on _She_
 and the relation will be [acl]() instead of `xcomp`.
-<!-- Interlanguage links updated Pá kvě 14 11:09:23 CEST 2021 -->
+
+~~~ sdparse
+She entered the room sad .
+nsubj(entered, She)
+det(room, the)
+obj(entered, room)
+acl(She, sad)
+punct(entered, .)
+~~~
+
+~~~ sdparse
+Linda found the money walking our dog .
+nsubj(found, Linda)
+det(money, the)
+obj(found, money)
+acl(Linda, walking)
+det(dog, our)
+obj(walking, dog)
+punct(found, .)
+~~~
+
+
+<!-- Interlanguage links updated St lis 3 20:59:11 CET 2021 -->

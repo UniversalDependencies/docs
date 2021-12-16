@@ -22,4 +22,4 @@ nmod:poss(magazyn, broni)
 
 “There is a shooting range and a weapons warehouse in the basement.”
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:59 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:47 CET 2021 -->

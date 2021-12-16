@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Kristján Rúnarsson, Þórunn Arnardóttir, Hinrik Hafsteinsson, Starkaður Barkarson, Hildur Jónsdóttir, Steinþór Steingrímsson, Einar Freyr Sigurðsson.
 
 Repository: [UD_Icelandic-Modern](https://github.com/UniversalDependencies/UD_Icelandic-Modern)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udis_modern28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udis_modern29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-SA 4.0
 

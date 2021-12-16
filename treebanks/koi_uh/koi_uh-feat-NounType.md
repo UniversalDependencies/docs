@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="koi_uh-pos-NOUN.htm
 
 4 <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `NounType`.
 
-The most frequent other feature values with which `NOUN` and `NounType` co-occurred: <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 75%), <tt><a href="koi_uh-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (3; 75%).
+The most frequent other feature values with which `NOUN` and `NounType` co-occurred: <tt><a href="koi_uh-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 75%), <tt><a href="koi_uh-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (3; 75%).
 
 `NOUN` tokens may have the following values of `NounType`:
 

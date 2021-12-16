@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal but the values `13`, `23`, `33` are language-specific.
 It occurs with 6 different values: `1`, `13`, `2`, `23`, `3`, `33`.
 
-211 tokens (14%) have a non-empty value of `Person`.
-144 types (21%) occur at least once with a non-empty value of `Person`.
+215 tokens (14%) have a non-empty value of `Person`.
+146 types (20%) occur at least once with a non-empty value of `Person`.
 92 lemmas (20%) occur at least once with a non-empty value of `Person`.
-The feature is used with 6 part-of-speech tags: <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> (128; 8% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (73; 5% instances), <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="tpn_tudet-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> (1; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> (131; 8% instances), <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> (74; 5% instances), <tt><a href="tpn_tudet-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="tpn_tudet-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="tpn_tudet-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="tpn_tudet-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-128 <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> tokens (62% of all `VERB` tokens) have a non-empty value of `Person`.
+131 <tt><a href="tpn_tudet-pos-VERB.html">VERB</a></tt> tokens (61% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="tpn_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (121; 95%), <tt><a href="tpn_tudet-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (108; 84%), <tt><a href="tpn_tudet-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (92; 72%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="tpn_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (124; 95%), <tt><a href="tpn_tudet-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (111; 85%), <tt><a href="tpn_tudet-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (94; 72%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -26,9 +26,9 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `13` (1; 1% of non-empty `Person`): <em>naipotari</em>
 * `2` (4; 3% of non-empty `Person`): <em>erejkó, nd'erejkój, pejeapirõ, pesapirõ</em>
 * `23` (3; 2% of non-empty `Person`): <em>Eresawsupe, tapejkwaβ</em>
-* `3` (83; 65% of non-empty `Person`): <em>eʔi, eʔipe, ojaβo, Osó, Owatá, ojkóβo, omanõmo, owerasó, Nd'ojkójpe, opjá</em>
-* `33` (30; 23% of non-empty `Person`): <em>Ojaratã, ojmeʔeŋ, Ojaoβok, Ojerokɨ, Ojerokɨpe, Ojmongetá, Ojpɨsó, Osapjar, Osapjápe, Osokendaβ</em>
-* `EMPTY` (79): <em>ojaβo, meʔenga, ijukáβo, motá, Ijaoβoka, N'owarukáripe, Ombaʔeʔu, Owarukar, Sorɨβeté, ajmeʔeng</em>
+* `3` (84; 64% of non-empty `Person`): <em>eʔi, eʔipe, ojaβo, Osó, Owatá, ojkóβo, omanõmo, owerasó, Nd'ojkójpe, opjá</em>
+* `33` (32; 24% of non-empty `Person`): <em>Ojaoβok, Ojaratã, ojmeʔeŋ, Ojerokɨ, Ojerokɨpe, Ojmongetá, Ojpɨsó, Osapjar, Osapjápe, Osokendaβ</em>
+* `EMPTY` (83): <em>ojaβo, meʔenga, ijukáβo, imoingóβo, motá, Ijaoβoka, N'owarukáripe, Ombaʔeʔu, Owarukar, Sorɨβeté</em>
 
 <table>
   <tr><th>Paradigm <i>ikó</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -40,17 +40,17 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `NOUN`
 
-73 <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> tokens (13% of all `NOUN` tokens) have a non-empty value of `Person`.
+74 <tt><a href="tpn_tudet-pos-NOUN.html">NOUN</a></tt> tokens (13% of all `NOUN` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="tpn_tudet-feat-Nomzr.html">Nomzr</a></tt><tt>=EMPTY</tt> (65; 89%), <tt><a href="tpn_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (41; 56%), <tt><a href="tpn_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (41; 56%), <tt><a href="tpn_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (39; 53%).
+The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="tpn_tudet-feat-Nomzr.html">Nomzr</a></tt><tt>=EMPTY</tt> (65; 88%), <tt><a href="tpn_tudet-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (42; 57%), <tt><a href="tpn_tudet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (41; 55%), <tt><a href="tpn_tudet-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (40; 54%).
 
 `NOUN` tokens may have the following values of `Person`:
 
-* `1` (46; 63% of non-empty `Person`): <em>jandéjara, Taʃepɨsɨrõ, ʃerekó, ʃeruβɨwé, Naʃeremimotara, Taʃemaran, Taʃepeʔa, iʃɨ, jandépɨsɨrõ, jandérepɨmeʔengawera</em>
+* `1` (46; 62% of non-empty `Person`): <em>jandéjara, Taʃepɨsɨrõ, ʃerekó, ʃeruβɨwé, Naʃeremimotara, Taʃemaran, Taʃepeʔa, iʃɨ, jandépɨsɨrõ, jandérepɨmeʔengawera</em>
 * `2` (17; 23% of non-empty `Person`): <em>ndesɨ, Ndepópekatu, ndejoawsuβa, ndemaʔendwar, ndembaʔe, ndemembɨra, ndemena, nderapiʃara, nderaʔɨra, nderekó</em>
 * `23` (1; 1% of non-empty `Person`): <em>pemembɨrate</em>
-* `3` (9; 12% of non-empty `Person`): <em>Ojaseʔõerekó, ojkóβaʔe, oasẽngatúramo, ogókɨpe, ojopɨtérɨβo, osembaʔe, owatáβaʔe</em>
-* `EMPTY` (480): <em>aβá, cruz, judeus, Tupã, sereków, mbaʔe, osɨ, raʔangaβa, sekóreme, seków</em>
+* `3` (10; 14% of non-empty `Person`): <em>Ojaseʔõerekó, ojkóβaʔe, oasẽngatúramo, ogókɨpe, ojopɨtérɨβo, osembaʔe, ourɨβaʔe, owatáβaʔe</em>
+* `EMPTY` (494): <em>aβá, cruz, judeus, Tupã, sereków, mbaʔe, osɨ, raʔangaβa, sekóreme, seków</em>
 
 ### `PRON`
 
@@ -73,7 +73,7 @@ The most frequent other feature values with which `ADP` and `Person` co-occurred
 `ADP` tokens may have the following values of `Person`:
 
 * `1` (3; 100% of non-empty `Person`): <em>ʃepɨ́rine, ʃeresé, ʃeswi</em>
-* `EMPTY` (135): <em>resé, swi, supé, pupé, sesé, iré, rupi, janondé, iʃupé, ri</em>
+* `EMPTY` (142): <em>resé, swi, supé, pupé, sesé, rupi, iré, janondé, iʃupé, ri</em>
 
 ### `AUX`
 
@@ -94,7 +94,7 @@ The most frequent other feature values with which `PART` and `Person` co-occurre
 `PART` tokens may have the following values of `Person`:
 
 * `2` (1; 100% of non-empty `Person`): <em>Petéumẽ</em>
-* `EMPTY` (61): <em>ɲẽ, ɨβɨá, e, ã, ɲẽpe, aʔepe, aé, jepé, pe, ruã</em>
+* `EMPTY` (64): <em>ɲẽ, ɨβɨá, e, ã, ɲẽpe, aʔepe, aé, jepé, pe, ruã</em>
 
 ## Relations with Agreement in `Person`
 

@@ -24,4 +24,4 @@ orphan(Markéta-15, pork)
 cc(Markéta-6, a)
 cc(Markéta-15, and)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:09:18 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:59:07 CET 2021 -->

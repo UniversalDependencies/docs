@@ -13,6 +13,7 @@ udver: '2'
   <td><a href="">Liquid</a></td>
   <td><a href="">CilRig</a></td>
   <td><a href="">CilFlx</a></td>
+  <td><a href="">Leaf</a></td>
 
 
 </tr>
@@ -53,4 +54,14 @@ udver: '2'
 
 * _<b>xek pu</b>&nbsp;_ “grub, caterpillar”
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:29 CEST 2021 -->
+
+
+### <a name="Leaf">`Leaf`</a>: Leaf
+
+#### Examples
+
+* _<b>pirãy.dup</b>&nbsp;_ “piranha”
+
+
+
+<!-- Interlanguage links updated St lis 3 20:58:18 CET 2021 -->

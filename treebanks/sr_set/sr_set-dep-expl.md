@@ -23,7 +23,7 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 7	fgColor:white
 # visual-style 7 6 expl	color:blue
 1	Na	na	ADP	Sl	Case=Loc	3	case	_	_
-2	drugoj	drugi	NUM	Mlofsl	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	3	nummod	_	_
+2	drugoj	drugi	ADJ	Mlofsl	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
 3	strani	strana	NOUN	Ncfsl	Case=Loc|Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
 4	,	,	PUNCT	Z	_	3	punct	_	_
 5	Srbija	Srbija	PROPN	Npfsn	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_

@@ -16,4 +16,4 @@ dislocated(mag, Frau)
 Ich habe das immer gehasst , dieses Gelaber . \n I always hated it , this jabbering .
 dislocated(gehasst, Gelaber)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:09:03 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:52 CET 2021 -->

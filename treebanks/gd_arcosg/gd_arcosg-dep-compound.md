@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-90 nodes (0%) are attached to their parents as `compound`.
+95 nodes (0%) are attached to their parents as `compound`.
 
-90 instances of `compound` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.07777777777778.
+95 instances of `compound` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.07368421052632.
 
-The following 7 pairs of parts of speech are connected with `compound`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (57; 63% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (17; 19% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (8; 9% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (5; 6% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt>-<tt><a href="gd_arcosg-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `compound`: <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (61; 64% instances), <tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gd_arcosg-pos-NOUN.html">NOUN</a></tt> (17; 18% instances), <tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (9; 9% instances), <tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt>-<tt><a href="gd_arcosg-pos-NUM.html">NUM</a></tt> (5; 5% instances), <tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt>-<tt><a href="gd_arcosg-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="gd_arcosg-pos-DET.html">DET</a></tt>-<tt><a href="gd_arcosg-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -60,7 +60,7 @@ The following 7 pairs of parts of speech are connected with `compound`: <tt><a h
 7	an-dè	an-dè	ADV	Rt	_	1	advmod	_	_
 8	[?]	[?]	X	Xx	_	1	dep	_	_
 9	air	air	ADP	Sp	_	11	case	_	_
-10	a’	an	DET	Tdsm	Gender=Masc|Number=Sing	11	det	_	_
+10	a’	an	DET	Tdsm	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	chladach	cladach	NOUN	Ncsmd	Case=Dat|Gender=Masc|Number=Sing	1	nmod	_	_
 12	an-dè	an-dè	ADV	Rt	_	1	advmod	_	_
 

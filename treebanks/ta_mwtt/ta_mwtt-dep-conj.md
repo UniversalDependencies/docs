@@ -22,10 +22,10 @@ The following 2 pairs of parts of speech are connected with `conj`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 conj	color:blue
-1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3	0	root	0:root	Translit=kumār|LTranslit=kumār
-2	அல்லது	அல்லது	CCONJ	_	_	3	cc	3:cc	Translit=allatu|LTranslit=allatu
-3	ராஜா	ராஜா	PROPN	_	Case=Nom|Number=Sing|Person=3	1	conj	1:conj	Translit=rājā|LTranslit=rājā
-4	.	.	PUNCT	_	PunctType=Peri	1	punct	1:punct	Translit=.|LTranslit=.
+1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3	0	root	_	Translit=kumār|LTranslit=kumār
+2	அல்லது	அல்லது	CCONJ	_	_	3	cc	_	Translit=allatu|LTranslit=allatu
+3	ராஜா	ராஜா	PROPN	_	Case=Nom|Number=Sing|Person=3	1	conj	_	Translit=rājā|LTranslit=rājā
+4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -36,11 +36,11 @@ The following 2 pairs of parts of speech are connected with `conj`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 conj	color:blue
-1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3	4	nsubj	4:nsubj	Translit=kumār|LTranslit=kumār
-2	வாசலுக்கும்	வாசல்	NOUN	_	Case=Dat|Number=Sing|Person=3	4	obl	4:obl	Translit=vācalukkum|LTranslit=vācal
-3	தெருவுக்குமாக	தெரு	NOUN	_	Case=Dat|Number=Sing|Person=3	2	conj	2:conj	Translit=teruvukkumāka|LTranslit=teru
-4	நடந்தான்	நட	VERB	_	Gender=Masc|Number=Sing|Person=3|Tense=Past	0	root	0:root	Translit=naṭantāṉ|LTranslit=naṭa
-5	.	.	PUNCT	_	PunctType=Peri	4	punct	4:punct	Translit=.|LTranslit=.
+1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3	4	nsubj	_	Translit=kumār|LTranslit=kumār
+2	வாசலுக்கும்	வாசல்	NOUN	_	Case=Dat|Number=Sing|Person=3	4	obl	_	Translit=vācalukkum|LTranslit=vācal
+3	தெருவுக்குமாக	தெரு	NOUN	_	Case=Dat|Number=Sing|Person=3	2	conj	_	Translit=teruvukkumāka|LTranslit=teru
+4	நடந்தான்	நட	VERB	_	Gender=Masc|Number=Sing|Person=3|Tense=Past	0	root	_	Translit=naṭantāṉ|LTranslit=naṭa
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

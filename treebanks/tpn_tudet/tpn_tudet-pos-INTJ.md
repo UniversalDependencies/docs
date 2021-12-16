@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.424063).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.431068).
 
 The 1st highest number of forms (1) was observed with the lemma “awjé”: <em>Awjé</em>.
 
@@ -32,8 +32,8 @@ The 2nd highest number of forms (1) was observed with the lemma “aʔãni”: <
 `INTJ` occurs with 1 feature-value pairs: `Polarity=Neg`
 
 `INTJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (2 tokens).
-Examples: <em>Awjé, Aʔãni</em>
+The most frequent feature combination is `Polarity=Neg` (2 tokens).
+Examples: <em>Aʔãni</em>
 
 
 ## Relations

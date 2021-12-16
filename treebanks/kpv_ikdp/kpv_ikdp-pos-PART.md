@@ -35,7 +35,7 @@ The 10 most frequent ambiguous types:  <em>да</em> (<tt><a href="kpv_ikdp-pos-
   * <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 1: <em>Ме кӧсъя , мед менам , <b>гашке</b> , трудъясэ , рӧбетаяссэ кудзке ортсаласны миянлы босьны сіе статуссэ .</em>
 * <em>но</em>
   * <tt><a href="kpv_ikdp-pos-CCONJ.html">CCONJ</a></tt> 13: <em>Пока лёк из ло , <b>но</b> , пока , не то что лёк-а .</em>
-  * <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 3: <em>Кор миян ае-маме вӧрзисныс , <b>но</b> , стадыс миян , колхоз " Красный Октябрь " , да ?</em>
+  * <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 3: <em>Кор миян ае-маме вӧрзисныс , <b>но</b> , стадыс миян , колхоз « Красный Октябрь » , да ?</em>
 * <em>то</em>
   * <tt><a href="kpv_ikdp-pos-PART.html">PART</a></tt> 3: <em>Пока лёк из ло , но , пока , не <b>то</b> что лёк-а .</em>
   * <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> 1: <em>Он , он живносьсэ сдайт , но какой - <b>то</b> процент там , сколько налог сетасныс мыйттэм , сіе и сдайтан .</em>
@@ -48,7 +48,7 @@ The 10 most frequent ambiguous types:  <em>да</em> (<tt><a href="kpv_ikdp-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.333333).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.332903).
 
 The 1st highest number of forms (1) was observed with the lemma “вед”: <em>вед</em>.
 

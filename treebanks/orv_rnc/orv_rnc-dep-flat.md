@@ -23,12 +23,12 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 flat	color:blue
-1	Лѣта	лѣто	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	0	root	_	Norm=Лѣта|SpaceAfter=Yes
+1	Лѣта	лѣто	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	0	root	_	Norm=Лѣта
 2	7206	7206	ADJ	_	NumForm=Digit	1	amod	_	Norm=7206|SpaceAfter=No
-3	,	,	PUNCT	_	_	2	punct	_	Norm=,|SpaceAfter=Yes
-4	же	же	PART	_	_	2	advmod	_	Norm=же|SpaceAfter=Yes
-5	февраля	февраль	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	flat	_	Norm=февраля|SpaceAfter=Yes
-6	въ	въ	ADP	_	_	7	case	_	Norm=въ|SpaceAfter=Yes
+3	,	,	PUNCT	_	_	2	punct	_	Norm=,
+4	же	же	PART	_	_	2	advmod	_	Norm=же
+5	февраля	февраль	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	flat	_	Norm=февраля
+6	въ	въ	ADP	_	_	7	case	_	Norm=въ
 7	день	день	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	nmod	_	Norm=день|SpaceAfter=No
 8	.	.	PUNCT	_	_	1	punct	_	Norm=.
 
@@ -85,7 +85,7 @@ The following 3 pairs of parts of speech are connected with `flat`: <tt><a href=
 14	съ	съ	ADP	_	_	15	case	_	Norm=съ|SpaceAfter=Yes
 15	Сидоромъ	Сидоръ	PROPN	_	Case=Ins|Gender=Masc|Number=Sing	13	appos	_	Norm=Сидоромъ|SpaceAfter=Yes
 16	Олѳимовымъ	Олфимовъ	PROPN	_	Case=Ins|Gender=Masc|Number=Sing	15	flat:name	_	Norm=Олѳимовымъ|SpaceAfter=No
-17	.	.	PUNCT	_	_	1	punct	_	Norm=.|SpaceAfter=No
+17	.	.	PUNCT	_	_	1	punct	_	Norm=.
 
 ~~~
 

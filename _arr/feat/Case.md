@@ -17,6 +17,7 @@ udver: '2'
   <td><a href="#Dat">Dat</a></td>
   <td><a href="#Ines">Ines</a></td>
   <td><a href="#Loc">Loc</a></td>
+  <td><a href="#Disp">Disp</a></td>
 </tr>
 </table>
 
@@ -111,4 +112,11 @@ The vocative can be expressed, among others, by the sufix _we_ attached to the l
 
 
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:29 CEST 2021 -->
+### <a name="Disp">`Disp`</a>: Dispersive
+
+#### Examples
+
+
+
+
+<!-- Interlanguage links updated St lis 3 20:58:17 CET 2021 -->

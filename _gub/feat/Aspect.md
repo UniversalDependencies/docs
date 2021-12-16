@@ -9,7 +9,8 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Prog">Prog</a></td>
-  
+  <td><a href="#Perf">Perf</a></td>
+  <td><a href="#Prosp">Prosp</a></td>
   
 
 </tr>
@@ -26,6 +27,26 @@ The progressive aspect is expressed by the auxiliary "iko"
 * _<b>U'u arapapa ipira'i iko a'e</b>&nbsp;_ “The boat-billed heron is eating small fishes”
   
 </tr>
+
+### <a name="Perf">`Perf`</a>: Perfective 
+
+The perfective aspect is expressed with the suffix "paw"
+
+#### Examples
+
+* _<b>izapopawete</b>&nbsp;_ “REL-make-PERF-EMPH”
+  
+</tr>
+
+### <a name="Prosp">`Prosp`</a>: Prospective 
+
+The prospective aspect is expressed with the suffix "piʔez"
+
+#### Examples
+
+* _<b>amonopiʔez</b>&nbsp;_ “1.SG-CAU-lend-PROSP”
+  
+</tr>
 </table>
 
 
@@ -37,4 +58,4 @@ The progressive aspect is expressed by the auxiliary "iko"
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Pá kvě 14 11:08:28 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:17 CET 2021 -->

@@ -9,66 +9,66 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `nmod`: <tt><a href="hyw_armtdp-dep-nmod-npmod.html">nmod:npmod</a></tt>, <tt><a href="hyw_armtdp-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-329 nodes (1%) are attached to their parents as `nmod`.
+1212 nodes (1%) are attached to their parents as `nmod`.
 
-317 instances of `nmod` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.60182370820669.
+1176 instances of `nmod` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.86056105610561.
 
-The following 9 pairs of parts of speech are connected with `nmod`: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (204; 62% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (80; 24% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (34; 10% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `nmod`: <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (552; 46% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (379; 31% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (210; 17% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (24; 2% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (23; 2% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 nmod	color:blue
+1	Խումբ	խումբ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	3	nmod	_	Translit=Xowmb|LTranslit=xowmb
+2	մը	մը	DET	_	PronType=Art	1	det	_	Translit=më|LTranslit=më
+3	գայլեր	գայլ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Plur	5	nsubj	_	Translit=gayler|LTranslit=gayl
+4	կ՚	կը	AUX	_	Aspect=Imp|Mood=Ind	5	aux	_	Translit=k,|LTranslit=kë|SpaceAfter=No
+5	երեւան	երեւալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Translit=erewan|LTranslit=erewal
+6	հորիզոնին	հորիզոն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	5	obl	_	Translit=horizonin|LTranslit=horizon
+7	վրայ	վրայ	ADP	_	AdpType=Post	6	case	_	Translit=vray|LTranslit=vray|SpaceAfter=No
+8	:	:	PUNCT	_	Foreign=Yes	5	punct	_	Translit=.|LTranslit=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 nmod	color:blue
+1	Ապա	ապա	ADV	_	_	7	advmod	_	Translit=Apa|LTranslit=apa
+2	Աշոտ	Աշոտ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	7	nsubj	_	Translit=Ašot|LTranslit=Ašot
+3	արքան	արքայ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	2	nmod	_	Translit=ark’an|LTranslit=ark’ay
+4	ծանր	ծանր	ADJ	_	Degree=Pos	5	amod	_	Translit=çanr|LTranslit=çanr
+5	քայլերով	քայլ	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Plur	7	obl	_	Translit=k’aylerov|LTranslit=k’ayl
+6	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	7	aux	_	Translit=kë|LTranslit=kë
+7	հեռանայ	հեռանալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Translit=heṙanay|LTranslit=heṙanal
+8	վարագոյրի	վարագոյր	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	7	obl	_	Translit=varagoyri|LTranslit=varagoyr
+9	առջեւէն	առջեւ	ADP	_	AdpType=Post|Case=Abl|Definite=Def	8	case:loc	_	Translit=aṙǰewēn|LTranslit=aṙǰew|SpaceAfter=No
+10	:	:	PUNCT	_	Foreign=Yes	7	punct	_	Translit=.|LTranslit=.
+
+~~~
 
 
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 nmod	color:blue
-1	Համբուրեց	համբուրել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=Hambowrec’|LTranslit=hambowrel
-2	զայն	ան	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	1	obj	_	Translit=zayn|LTranslit=an|SpaceAfter=No
-3	,	,	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,
-4	աչքին	աչք	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	7	nmod:npmod	_	Translit=ačk’in|LTranslit=ačk’
-5	մէջ	մէջ	ADP	_	AdpType=Post	4	case	_	Translit=mēǰ|LTranslit=mēǰ
-6	արցունքէ	արցունք	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Sing	7	nmod	_	Translit=arc’ownk’ē|LTranslit=arc’ownk’
-7	կաթիլով	կաթիլ	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	1	obl	_	Translit=kat’ilov|LTranslit=kat’il
-8	մը	մը	DET	_	PronType=Art	7	det	_	Translit=më|LTranslit=më|SpaceAfter=No
-9	:	:	PUNCT	_	Foreign=Yes	1	punct	_	Translit=.|LTranslit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 1 nmod	color:blue
-1	Պրն	պրն.	NOUN	_	Abbr=Yes|Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	3	nmod	_	Translit=Prn|LTranslit=prn.|SpaceAfter=No
-2	.	.	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
-3	Քառլիէի	Քառլիէ	PROPN	_	Animacy=Hum|Case=Dat|Definite=Ind|NameType=Sur|Number=Sing	4	nmod:poss	_	Translit=K’aṙliēi|LTranslit=K’aṙliē
-4	քարտուղարը	քարտուղար	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	6	nsubj	_	Translit=k’artowġarë|LTranslit=k’artowġar
-5	քաղաքավար	քաղաքավար	ADJ	_	Degree=Pos	6	amod	_	Translit=k’aġak’avar|LTranslit=k’aġak’avar
-6	մարդ	մարդ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=mard|LTranslit=mard
-7	մըն	մը	DET	_	PronType=Art	6	det	_	Translit=mën|LTranslit=më
-8	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop	_	Translit=ē|LTranslit=em|SpaceAfter=No
-9	։	։	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 nmod	color:blue
-1	Սոնա	Սոնա	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	3	nmod	_	Translit=Sona|LTranslit=Sona
-2	«	«	PUNCT	_	_	3	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
-3	եար	եար	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=ear|LTranslit=ear|SpaceAfter=No
-4	»	»	PUNCT	_	_	3	punct	_	Translit=»|LTranslit=»|SpaceAfter=No
-5	երով	ը	NOUN	_	Animacy=Hum|Case=Ins|Definite=Ind|Hyph=Yes|Number=Plur	3	dep	_	Translit=erov|LTranslit=ë
-6	ու	ու	CCONJ	_	_	7	cc	_	Translit=ow|LTranslit=ow
-7	պարերով	պար	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Plur	3	conj	_	Translit=parerov|LTranslit=par|SpaceAfter=No
-8	։	։	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
+# visual-style 3 6 nmod	color:blue
+1	Կը	կը	AUX	_	Aspect=Imp|Mood=Ind	2	aux	_	Translit=Kë|LTranslit=kë
+2	տիրէ	տիրել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Translit=tirē|LTranslit=tirel
+3	լռութիւն	լռութիւն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	2	nsubj	_	Translit=lṙowt’iwn|LTranslit=lṙowt’iwn|SpaceAfter=No
+4	՝	՝	PUNCT	_	_	6	punct	_	Translit=,|LTranslit=,
+5	ներկայ	ներկայ	ADJ	_	_	6	amod	_	Translit=nerkay|LTranslit=nerkay
+6	Տաճկահայաստանի	Տաճկահայաստան	PROPN	_	Animacy=Nhum|Case=Dat|Definite=Ind|NameType=Geo|Number=Sing	3	nmod	_	Translit=Tač̣kahayastani|LTranslit=Tač̣kahayastan
+7	պէս	պէս	ADP	_	AdpType=Post	6	case	_	Translit=pēs|LTranslit=pēs|SpaceAfter=No
+8	:	:	PUNCT	_	Foreign=Yes	2	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

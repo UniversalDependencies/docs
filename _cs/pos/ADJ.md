@@ -75,4 +75,4 @@ the standard forms both in predication and to modify nouns.
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an adjective?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnAdjective.htm)
 - [Wikipedia](http://en.wikipedia.org/wiki/Adjective)
-<!-- Interlanguage links updated Pá kvě 14 11:08:16 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:06 CET 2021 -->

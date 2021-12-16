@@ -11,7 +11,7 @@ This relation is a language-specific subtype of <tt><a href="de_hdt-dep-flat.htm
 55475 nodes (2%) are attached to their parents as `flat:name`.
 
 55475 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.25317710680487.
+Average distance between parent and child is 1.25346552501127.
 
 The following 5 pairs of parts of speech are connected with `flat:name`: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (35958; 65% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (17180; 31% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt>-<tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (2297; 4% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt>-<tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (32; 0% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt>-<tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (8; 0% instances).
 

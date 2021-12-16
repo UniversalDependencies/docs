@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-41 tokens (2%) have a non-empty value of `Polarity`.
-11 types (2%) occur at least once with a non-empty value of `Polarity`.
+49 tokens (2%) have a non-empty value of `Polarity`.
+12 types (2%) occur at least once with a non-empty value of `Polarity`.
 3 lemmas (1%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 3 part-of-speech tags: <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (35; 2% instances), <tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (41; 2% instances), <tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (3; 0% instances).
 
 ### `AUX`
 
-35 <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> tokens (28% of all `AUX` tokens) have a non-empty value of `Polarity`.
+41 <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> tokens (29% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (35; 100%), <tt><a href="sms_giellagas-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (34; 97%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (32; 91%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (30; 86%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (19; 54%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (40; 98%), <tt><a href="sms_giellagas-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (40; 98%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (37; 90%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (36; 88%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
-* `Neg` (35; 100% of non-empty `Polarity`): <em>ij, jiõk, jiõm, iʹlla, iʹlleäk, jeäʹla, jeäʹp, jiâ</em>
-* `EMPTY` (89): <em>lij, leäi, liâ, õõk, leäk, i-ǥõl, leäkku, leeʹd, leäm, leʹjjiǩ</em>
+* `Neg` (41; 100% of non-empty `Polarity`): <em>ij, jiõk, jiõm, iʹlla, iʹlleäk, Jeäʹled, jeäʹla, jeäʹp, jiâ</em>
+* `EMPTY` (99): <em>lij, leäi, õõk, liâ, õõlǥ, leäk, i-ǥõl, leäkku, leeʹd, leäm</em>
 
 ### `PART`
 
@@ -36,10 +36,10 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 ### `INTJ`
 
-1 <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> tokens (3% of all `INTJ` tokens) have a non-empty value of `Polarity`.
+3 <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> tokens (7% of all `INTJ` tokens) have a non-empty value of `Polarity`.
 
 `INTJ` tokens may have the following values of `Polarity`:
 
-* `Neg` (1; 100% of non-empty `Polarity`): <em>Ij</em>
-* `EMPTY` (38): <em>na, näʹde, no, joo, A, Jaa, Oho, naa</em>
+* `Neg` (3; 100% of non-empty `Polarity`): <em>ij</em>
+* `EMPTY` (40): <em>na, no, näʹde, joo, A, Jaa, Oho, naa, äʹn</em>
 

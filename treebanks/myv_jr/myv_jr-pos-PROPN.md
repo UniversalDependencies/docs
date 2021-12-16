@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>Звездов</em> (<tt><a href="myv
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.595745 (the average of all parts of speech is 2.044097).
+The form / lemma ratio of `PROPN` is 1.595745 (the average of all parts of speech is 2.044845).
 
 The 1st highest number of forms (5) was observed with the lemma “Кирё”: <em>Кире, Кирё, Кирёнень, Кирёнь, Кирёяк</em>.
 
@@ -41,12 +41,12 @@ The 2nd highest number of forms (5) was observed with the lemma “Микол”
 
 The 3rd highest number of forms (5) was observed with the lemma “Ястребов”: <em>Ясребов, Ястребов, Ястребовгак, Ястребовонь, Ястребовоньгак</em>.
 
-`PROPN` occurs with 10 features: <tt><a href="myv_jr-feat-Case.html">Case</a></tt> (578; 100% instances), <tt><a href="myv_jr-feat-Number.html">Number</a></tt> (578; 100% instances), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt> (577; 100% instances), <tt><a href="myv_jr-feat-NameType.html">NameType</a></tt> (573; 99% instances), <tt><a href="myv_jr-feat-Animacy.html">Animacy</a></tt> (452; 78% instances), <tt><a href="myv_jr-feat-Gender.html">Gender</a></tt> (449; 78% instances), <tt><a href="myv_jr-feat-Clitic.html">Clitic</a></tt> (12; 2% instances), <tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt> (3; 1% instances), <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt> (1; 0% instances), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt> (1; 0% instances)
+`PROPN` occurs with 10 features: <tt><a href="myv_jr-feat-Case.html">Case</a></tt> (578; 100% instances), <tt><a href="myv_jr-feat-Number.html">Number</a></tt> (578; 100% instances), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt> (577; 100% instances), <tt><a href="myv_jr-feat-NameType.html">NameType</a></tt> (573; 99% instances), <tt><a href="myv_jr-feat-Animacy.html">Animacy</a></tt> (452; 78% instances), <tt><a href="myv_jr-feat-Gender.html">Gender</a></tt> (115; 20% instances), <tt><a href="myv_jr-feat-Clitic.html">Clitic</a></tt> (12; 2% instances), <tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt> (3; 1% instances), <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt> (1; 0% instances), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt> (1; 0% instances)
 
-`PROPN` occurs with 26 feature-value pairs: `Animacy=Anim`, `Animacy=Hum`, `Case=Abl`, `Case=Dat`, `Case=Ela`, `Case=Gen`, `Case=Lat`, `Case=Nom`, `Case=Tra`, `Clitic=Add`, `Definite=Def`, `Definite=Ind`, `Derivation=Dimin`, `Gender=Fem`, `Gender=Masc`, `NameType=Geo`, `NameType=Giv`, `NameType=Hom`, `NameType=Oth`, `NameType=Pat`, `NameType=Sur`, `Number=Plur`, `Number=Plur,Sing`, `Number=Sing`, `Number[psor]=Sing`, `Person[psor]=1`
+`PROPN` occurs with 25 feature-value pairs: `Animacy=Anim`, `Animacy=Hum`, `Case=Abl`, `Case=Dat`, `Case=Ela`, `Case=Gen`, `Case=Lat`, `Case=Nom`, `Case=Tra`, `Clitic=Add`, `Definite=Def`, `Definite=Ind`, `Derivation=Dimin`, `Gender=Fem`, `NameType=Geo`, `NameType=Giv`, `NameType=Hom`, `NameType=Oth`, `NameType=Pat`, `NameType=Sur`, `Number=Plur`, `Number=Plur,Sing`, `Number=Sing`, `Number[psor]=Sing`, `Person[psor]=1`
 
-`PROPN` occurs with 48 feature combinations.
-The most frequent feature combination is `Animacy=Hum|Case=Nom|Definite=Ind|Gender=Masc|NameType=Giv|Number=Sing` (141 tokens).
+`PROPN` occurs with 47 feature combinations.
+The most frequent feature combination is `Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing` (141 tokens).
 Examples: <em>Микол, Кирё, Кечай, Урван, Митя, Рамко, Микита, Елеська, Валдай, Елисей</em>
 
 

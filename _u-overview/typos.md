@@ -126,4 +126,8 @@ As for the syntactic annotation, there does not seem to be a simple and easy-to-
 
 ## Historical Spelling
 
-Similar mechanisms could also be used to mark historical spelling in older texts. For instance, German _sein_ “to be” used to be spelled _seyn_. It is not a typo because this form was correct in the time the text was produced. Thus in the FEATS column, we may use [Style]()`=Arch` to mark that this is an archaic form. In the MISC column, we can add `ModernForm=sein` (an analogy to `CorrectForm=sein`, which we would use if we wanted to mark it as a typo).
+Similar mechanisms could also be used to mark historical spelling in older texts. For instance,
+German _sein_ “to be” used to be spelled _seyn_. It is not a typo because this form was correct
+in the time the text was produced. Thus in the FEATS column, we may use [Style]()`=Arch` to mark
+that this is an archaic form. In the MISC column, we can add `ModernForm=sein` (an analogy to
+`CorrectForm=sein`, which we would use if we wanted to mark it as a typo).

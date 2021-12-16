@@ -37,7 +37,7 @@ The 3rd highest number of forms (1) was observed with the lemma “hadi”: <em>
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 4 different relations: <tt><a href="tr_framenet-dep-discourse.html">discourse</a></tt> (7; 58% instances), <tt><a href="tr_framenet-dep-compound.html">compound</a></tt> (3; 25% instances), <tt><a href="tr_framenet-dep-case.html">case</a></tt> (1; 8% instances), <tt><a href="tr_framenet-dep-ccomp.html">ccomp</a></tt> (1; 8% instances)
+`INTJ` nodes are attached to their parents using 3 different relations: <tt><a href="tr_framenet-dep-discourse.html">discourse</a></tt> (8; 67% instances), <tt><a href="tr_framenet-dep-compound.html">compound</a></tt> (3; 25% instances), <tt><a href="tr_framenet-dep-case.html">case</a></tt> (1; 8% instances)
 
 Parents of `INTJ` nodes belong to 2 different parts of speech: <tt><a href="tr_framenet-pos-VERB.html">VERB</a></tt> (10; 83% instances), <tt><a href="tr_framenet-pos-NOUN.html">NOUN</a></tt> (2; 17% instances)
 

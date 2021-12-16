@@ -31,6 +31,14 @@ The conditional mood is used to express conditions, i.e. protasis, for actions o
 
 * [mdf] _<b>Касондярян</b>, улян лётчикокс._ "<b>When I grow up</b>, I am going to be a pilot."
 
+### <a name="CndSub">`CndSub`</a>: conditional subjunctive
+
+The conditional subjunctive mood is used to express hypothetical conditions, i.e. protasis, for actions of the main clause. This mood marker can be found in finite and non-finite forms alike, as well as followed by derivational suffixes.
+
+#### Examples
+
+* [mdf] _<b>Путондяряльхть</b> утомня, ..._ "<b>If they were to build</b> an outbuilding, ..."
+
 ### <a name="Des">`Des`</a>: desiderative
 
 The desiderative mood is used to express desired or potential actions that are not fulfilled.
@@ -59,6 +67,15 @@ happen, without adding any attitude of the speaker.
 
 * [mdf] _Сон <b>кошардозе</b> мирденц машинань штама._ "She <b>ordered</b> her husband to wash the car."
 
+### <a name="NegCndSub">`NegCndSub`</a>: negative conditional subjunctive
+
+The negative conditional subjunctive mood is used to express hypothetical negative conditions, i.e. protasis, for actions of the main clause.
+
+#### Examples
+
+* [mdf] _аф озадонь седи <b>улефтяряль</b>,_ "<b>If it were not</b> for her being upset, ..."
+
+
 ### <a name="Opt">`Opt`</a>: optative
 
 The optative is used for three persons in two numbers. It expresses a concessive attitude and at time resultative.
@@ -86,4 +103,4 @@ The conjunctive is also used to express volition in both proclamations and quest
 
 * [mdf] _Цёранянди <b>шачелеть</b>, сяда кице удалаль,..._ "<b>Had you been born</b> a man, your road would have succeeded better,..."
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:34 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:22 CET 2021 -->

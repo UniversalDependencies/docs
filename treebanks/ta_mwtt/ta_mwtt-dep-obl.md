@@ -23,10 +23,10 @@ The following 9 pairs of parts of speech are connected with `obl`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 obl	color:blue
-1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3|Polite=Form	3	nsubj	3:nsubj	Translit=kumār|LTranslit=kumār
-2	ஊருக்குப்	ஊர்	NOUN	_	Case=Dat|Gender=Neut|Number=Sing|Person=3	3	obl	3:obl	Translit=ūrukkup|LTranslit=ūr
-3	போனான்	போ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Form|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Translit=pōṉāṉ|LTranslit=pō
-4	.	.	PUNCT	_	PunctType=Peri	3	punct	3:punct	Translit=.|LTranslit=.
+1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3|Polite=Form	3	nsubj	_	Translit=kumār|LTranslit=kumār
+2	ஊருக்குப்	ஊர்	NOUN	_	Case=Dat|Gender=Neut|Number=Sing|Person=3	3	obl	_	Translit=ūrukkup|LTranslit=ūr
+3	போனான்	போ	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Form|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=pōṉāṉ|LTranslit=pō
+4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -37,11 +37,11 @@ The following 9 pairs of parts of speech are connected with `obl`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 obl	color:blue
-1	குமாருக்கு	குமார்	PROPN	_	Case=Dat|Number=Sing|Person=3	4	obl	4:obl	Translit=kumārukku|LTranslit=kumār
-2	ஒரு	ஒன்று	NUM	_	_	3	nummod	3:nummod	Translit=oru|LTranslit=oṉṟu
-3	புத்தகம்	புத்தகம்	NOUN	_	Case=Nom|Number=Sing|Person=3	4	nsubj	4:nsubj	Translit=puttakam|LTranslit=puttakam
-4	இருக்கிறது	இரு	VERB	_	Gender=Neut|Number=Sing|Person=3|Tense=Pres	0	root	0:root	Translit=irukkiṟatu|LTranslit=iru
-5	.	.	PUNCT	_	PunctType=Peri	4	punct	4:punct	Translit=.|LTranslit=.
+1	குமாருக்கு	குமார்	PROPN	_	Case=Dat|Number=Sing|Person=3	4	obl	_	Translit=kumārukku|LTranslit=kumār
+2	ஒரு	ஒன்று	NUM	_	_	3	nummod	_	Translit=oru|LTranslit=oṉṟu
+3	புத்தகம்	புத்தகம்	NOUN	_	Case=Nom|Number=Sing|Person=3	4	nsubj	_	Translit=puttakam|LTranslit=puttakam
+4	இருக்கிறது	இரு	VERB	_	Gender=Neut|Number=Sing|Person=3|Tense=Pres	0	root	_	Translit=irukkiṟatu|LTranslit=iru
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -52,11 +52,11 @@ The following 9 pairs of parts of speech are connected with `obl`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 obl	color:blue
-1	நானாக	நான்	PRON	_	Gender=Com|Number=Sing|Person=1	4	obl	4:obl	Translit=nāṉāka|LTranslit=nāṉ
-2	இந்த	இந்த	DET	_	_	3	det	3:det	Translit=inta|LTranslit=inta
-3	கடிதத்தை	கடிதம்	NOUN	_	Case=Acc|Number=Sing|Person=3	4	obj	4:obj	Translit=kaṭitattai|LTranslit=kaṭitam
-4	எழுதினேன்	எழுது	VERB	_	Gender=Com|Number=Sing|Person=1|Tense=Past	0	root	0:root	Translit=eḻutiṉēṉ|LTranslit=eḻutu
-5	.	.	PUNCT	_	PunctType=Peri	4	punct	4:punct	Translit=.|LTranslit=.
+1	நானாக	நான்	PRON	_	Gender=Com|Number=Sing|Person=1	4	obl	_	Translit=nāṉāka|LTranslit=nāṉ
+2	இந்த	இந்த	DET	_	_	3	det	_	Translit=inta|LTranslit=inta
+3	கடிதத்தை	கடிதம்	NOUN	_	Case=Acc|Number=Sing|Person=3	4	obj	_	Translit=kaṭitattai|LTranslit=kaṭitam
+4	எழுதினேன்	எழுது	VERB	_	Gender=Com|Number=Sing|Person=1|Tense=Past	0	root	_	Translit=eḻutiṉēṉ|LTranslit=eḻutu
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

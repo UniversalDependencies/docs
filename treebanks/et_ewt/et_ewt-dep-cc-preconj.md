@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="et_ewt-dep-cc.html">cc</a></tt>.
 
-16 nodes (0%) are attached to their parents as `cc:preconj`.
+19 nodes (0%) are attached to their parents as `cc:preconj`.
 
-16 instances of `cc:preconj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.25.
+19 instances of `cc:preconj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.21052631578947.
 
-The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (7; 44% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (3; 19% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (2; 13% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (2; 13% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (2; 13% instances).
+The following 6 pairs of parts of speech are connected with `cc:preconj`: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (7; 37% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (3; 16% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (3; 16% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (3; 16% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (2; 11% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -28,6 +28,30 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 4	surmade	surm	NOUN	S	Case=Gen|Number=Plur	2	conj	2:conj	_
 5	arvu	arv	NOUN	S	Case=Gen|Number=Sing	0	root	0:root	_
 6	poolest	poolest	ADP	K	AdpType=Post	5	case	5:case	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 cc:preconj	color:blue
+1	Kas	kas	ADV	D	_	3	cc:preconj	3:cc	_
+2	kõik	kõik	PRON	P	Case=Nom|Number=Sing|PronType=Tot	3	nsubj:cop	3:nsubj	_
+3	vanamoodi	vana_moodi	ADV	D	_	0	root	0:root	_
+4	või	või	CCONJ	J	_	6	cc	6:cc	_
+5	kõik	kõik	PRON	P	Case=Nom|Number=Sing|PronType=Tot	6	nsubj:cop	6:nsubj	_
+6	uutmoodi	uut_moodi	ADV	D	_	3	conj	3:conj	SpaceAfter=No
+7	,	,	PUNCT	Z	_	12	punct	12:punct	_
+8	mõlemast	mõlema	PRON	P	Case=Ela|Number=Sing|PronType=Tot	13	obl	13:obl	_
+9	parimaid	parim	ADJ	A	Case=Par|Degree=Sup|Number=Plur	10	amod	10:amod	_
+10	palasid	pala	NOUN	S	Case=Par|Number=Plur	13	obj	13:obj	_
+11	pole	olema	AUX	V	Mood=Ind|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	12:cop	_
+12	ilus	ilus	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	3	conj	3:conj	_
+13	tahta	tahtma	VERB	V	VerbForm=Inf	12	csubj:cop	12:csubj	SpaceAfter=No
+14	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
 ~~~
 
@@ -52,26 +76,6 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 12	kindel	kindel	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	13	amod	13:amod	_
 13	mineja	mineja	NOUN	S	Case=Nom|Number=Sing	7	ccomp	7:ccomp	SpaceAfter=No
 14	.	.	PUNCT	Z	_	1	punct	1:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 cc:preconj	color:blue
-1	tussu	tussu	PROPN	S	Case=Nom|Number=Sing	6	parataxis	6:parataxis	SpaceAfter=No
-2	:	:	PUNCT	Z	_	1	punct	1:punct	_
-3	footon	footon	NOUN	S	Case=Nom|Number=Sing	6	nsubj:cop	6:nsubj	_
-4	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	6:cop	_
-5	nii	nii	ADV	D	_	6	cc:preconj	6:cc	_
-6	osake	osake	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	0:root	_
-7	kui	kui	CCONJ	J	_	9	cc	9:cc	_
-8	ka	ka	ADV	D	_	9	advmod	9:advmod	_
-9	laine	laine	NOUN	S	Case=Nom|Number=Sing	6	conj	6:conj	SpaceAfter=No
-10	.	.	PUNCT	Z	_	6	punct	6:punct	_
 
 ~~~
 

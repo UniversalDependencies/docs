@@ -35,4 +35,4 @@ c'est vraiment très agréable \n it's really very pleasant
 advmod(agréable, très)
 advmod(agréable, vraiment)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:08:47 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:35 CET 2021 -->

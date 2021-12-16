@@ -6,23 +6,23 @@ udver: '2'
 
 ## Treebank Statistics: UD_Skolt_Sami-Giellagas: POS Tags: `DET`
 
-There are 7 `DET` lemmas (2%), 8 `DET` types (1%) and 9 `DET` tokens (0%).
+There are 7 `DET` lemmas (1%), 8 `DET` types (1%) and 9 `DET` tokens (0%).
 Out of 15 observed tags, the rank of `DET` is: 12 in number of lemmas, 12 in number of types and 15 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>tõt, jeeʹres·årra, jiõčč, jäänab, måkam, tok, tät</em>
 
 The 10 most frequent `DET` types:  <em>tõn, Tät, Tõt, jeeʹres, jiijjâs, jäänab, måkam, tok</em>
 
-The 10 most frequent ambiguous lemmas: <em>tõt</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 49, <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 3), <em>jiõčč</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 3, <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 1), <em>tok</em> (<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 11, <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 1), <em>tät</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 4, <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>tõt</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 60, <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 3), <em>jiõčč</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 4, <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 1), <em>tok</em> (<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 11, <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 1), <em>tät</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 4, <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>tõn</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 20, <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 2), <em>Tõt</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 2, <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 1), <em>jeeʹres</em> (<tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 1, <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 1), <em>tok</em> (<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 9, <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>tõn</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 25, <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 2), <em>Tõt</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 3, <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 1), <em>jeeʹres</em> (<tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 1, <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 1), <em>tok</em> (<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> 9, <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 1)
 
 
 * <em>tõn</em>
-  * <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 20: <em>Joo mon <b>tõn</b> räjja teâđam , jäänab jiõm tieʹđ .</em>
+  * <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 25: <em>Joo mon <b>tõn</b> räjja teâđam , jäänab jiõm tieʹđ .</em>
   * <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 2: <em>Suʹst leäi õlggâm leeʹd <b>tõn</b> peeiʹv čååǥǥâʹttmen vuõptees , leša mii leežž šõddâm ǥu ij tâʹl ni vuäittam .</em>
 * <em>Tõt</em>
-  * <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 2: <em><b>Tõt</b> ooumaž ceälkk , jos ij täätt puk väʹldded , ceälkk što ” no peäʹl vääldam , peäʹl jällmõõžž vääldam . ”</em>
+  * <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 3: <em><b>Tõt</b> tõn âʹtte vaaʹldi , vuejjli âʹtte vuejai , vuejai .</em>
   * <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 1: <em><b>Tõt</b> nijdd ǩeeʹrjti ǩeeʹrj taaurõššʼses .</em>
 * <em>jeeʹres</em>
   * <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 1: <em>De son jeeʹres tõzz-e tok kuäʹđ ... jiijjâs kuäʹđ <b>jeeʹres</b> årra tok raaji pääiʹǩi ja de tok pääkkai mõõnnâd .</em>
@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>tõn</em> (<tt><a href="sms_giellagas
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.142857 (the average of all parts of speech is 1.421739).
+The form / lemma ratio of `DET` is 1.142857 (the average of all parts of speech is 1.444906).
 
 The 1st highest number of forms (2) was observed with the lemma “tõt”: <em>Tõt, tõn</em>.
 

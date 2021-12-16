@@ -48,13 +48,13 @@ The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a
 24	kaki	kaki	NOUN	NN	Number=Sing	23	nmod	_	_
 25	ke	ke	ADP	IN	_	26	case	_	_
 26	bawah	bawah	NOUN	NN	Number=Sing	23	nmod	_	_
-27	tertutup	tutup	VERB	VB	Voice=Pass	2	acl:relcl	_	_
+27	tertutup	tutup	VERB	VB	Mood=Ind|Voice=Pass	2	acl:relcl	_	_
 28	dengan	dengan	ADP	IN	_	29	case	_	_
 29	bulu	bulu	NOUN	NN	Number=Sing	27	obl	_	_
 30	cokelat	cokelat	ADJ	JJ	_	29	amod	_	SpaceAfter=No
 31	,	,	PUNCT	,	_	2	punct	_	SpaceAfter=No
 32	"	"	PUNCT	''	_	2	punct	_	_
-33	tambah	tambah	VERB	VB	Voice=Act	2	parataxis	_	_
+33	tambah	tambah	VERB	VB	Mood=Ind|Voice=Act	2	parataxis	_	_
 34	nya	nya	PRON	PRP	Number=Sing|Person=3|PronType=Prs	33	nsubj	_	_
 35	.	.	PUNCT	.	_	2	punct	_	_
 

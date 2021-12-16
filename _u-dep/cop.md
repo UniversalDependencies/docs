@@ -116,4 +116,4 @@ nsubj(is, problem)
 ~~~
 
 If we took the predicate of the clause as the head, instead of the copula verb, it would have two subjects, which would be unworkable. Examples like the above *could* be analyzed reversed with the initial noun phrase as the predicate, but in addition to this seeming undesirable, it would fail to be a solution if there were a clause on both sides of *be*, such as in: *(For us) to not attempt to solve the problem is (for us) to acknowledge defeat*. (Note: This solution is not perfect and refining it is a possible direction for the future.)
-<!-- Interlanguage links updated Pá kvě 14 11:08:59 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:47 CET 2021 -->

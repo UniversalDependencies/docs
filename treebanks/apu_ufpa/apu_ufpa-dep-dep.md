@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2 nodes (0%) are attached to their parents as `dep`.
+3 nodes (0%) are attached to their parents as `dep`.
 
-2 instances of `dep` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.5.
+3 instances of `dep` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.33333333333333.
 
-The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-X.html">X</a></tt> (2; 100% instances).
+The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-X.html">X</a></tt> (3; 100% instances).
 
 
 ~~~ conllu

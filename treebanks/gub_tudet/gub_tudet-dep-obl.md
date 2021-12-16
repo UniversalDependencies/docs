@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-77 nodes (13%) are attached to their parents as `obl`.
+255 nodes (12%) are attached to their parents as `obl`.
 
-68 instances of `obl` (88%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.11688311688312.
+221 instances of `obl` (87%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.4078431372549.
 
-The following 11 pairs of parts of speech are connected with `obl`: <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (51; 66% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> (9; 12% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (5; 6% instances), <tt><a href="gub_tudet-pos-AUX.html">AUX</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="gub_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 17 pairs of parts of speech are connected with `obl`: <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (157; 62% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> (32; 13% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt> (29; 11% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt> (7; 3% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (7; 3% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="gub_tudet-pos-AUX.html">AUX</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="gub_tudet-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="gub_tudet-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="gub_tudet-pos-NUM.html">NUM</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,9 +22,9 @@ The following 11 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 obl	color:blue
-1	Uzekok	kok	VERB	v	Person=3|Reflex=Yes	0	root	0:root	_
-2	ɨwɨok	ɨwɨok	NOUN	n	_	1	obl	1:obl	_
-3	rehe	ehe	ADP	posp	Rel=Cont	2	case	2:case	_
+1	Uzekok	kok	VERB	v	Person=3|Reflex=Yes	0	root	_	_
+2	ɨwɨok	ɨwɨok	NOUN	n	_	1	obl	_	_
+3	rehe	ehe	ADP	posp	Rel=Cont	2	case	_	_
 
 ~~~
 
@@ -35,28 +35,29 @@ The following 11 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 obl	color:blue
-1	Aha	ha	VERB	vi	Person=1	0	root	0:root	_
-2	putar	putar	ADV	adv	Tense=Fut	1	advmod	1:advmod	_
-3	aipo	aipo	PRON	pro	PronType=Dem	1	obl	1:obl	_
-4	pe	pe	ADP	posp	_	3	case	3:case	_
-5	nehe	nehe	PART	pcl	Tense=Fut	1	discourse	1:discourse	_
+1	Aha	ha	VERB	vi	Person=1	0	root	_	_
+2	putar	putar	ADV	adv	Tense=Fut	1	advmod	_	_
+3	aipo	aipo	PRON	pro	PronType=Dem	1	obl	_	_
+4	pe	pe	ADP	posp	_	3	case	_	_
+5	nehe	nehe	PART	pcl	Tense=Fut	1	discourse	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 obl	color:blue
-1	Aʔe	aʔe	DET	dem	PronType=Dem	2	det	2:det	_
-2	maʔe	maʔe	NOUN	n	_	4	nmod	4:nmod	_
-3	ʔɨw	ʔɨw	NOUN	n	_	2	compound	2:compound	_
-4	iʔa	ʔa	NOUN	n	Rel=NCont	0	root	0:root	_
-5	ʔar	ʔar	NOUN	n	_	4	obl	4:obl	_
-6	katu	katu	PART	pcl	_	5	discourse	5:discourse	_
-7	mehe	mehe	ADP	posp	_	5	case	5:case	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 7 obl	color:blue
+1	Ɨrɨhu	ɨrɨk	NOUN	n	Nomzr=DevPass	3	obl	_	_
+2	pe	pe	ADP	posp	Case=Loc	1	case	_	_
+3	heta	eta	VERB	vi	Person=3	0	root	_	_
+4	maʔe	maʔe	NOUN	n	_	3	nsubj	_	_
+5	putɨr	putɨr	NOUN	n	_	4	nmod	_	_
+6	teteaʔu	tete	ADV	adv	_	4	advmod	_	_
+7	iʔaromo	ʔaromo	ADP	posp	Rel=Abs	3	obl	_	_
+8	.	.	PUNCT	punct	_	3	punct	_	_
 
 ~~~
 

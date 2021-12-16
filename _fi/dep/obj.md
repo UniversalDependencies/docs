@@ -32,4 +32,4 @@ punct(tehtiin-2, .-4)
 <!-- Fine distinctions in special cases of subjects, objects and
 object-cased amount adverbials are discussed in Section
 [subj-obj](#sec-subj-obj).-->
-<!-- Interlanguage links updated Pá kvě 14 11:09:15 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:59:03 CET 2021 -->

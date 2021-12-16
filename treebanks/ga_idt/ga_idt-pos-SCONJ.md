@@ -64,7 +64,7 @@ The 10 most frequent ambiguous types:  <em>ach</em> (<tt><a href="ga_idt-pos-SCO
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.285714 (the average of all parts of speech is 1.643740).
+The form / lemma ratio of `SCONJ` is 1.285714 (the average of all parts of speech is 1.643911).
 
 The 1st highest number of forms (5) was observed with the lemma “mura”: <em>Mur, mara, mura, murab, murar</em>.
 

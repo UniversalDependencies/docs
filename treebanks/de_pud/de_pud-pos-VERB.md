@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_German-PUD: POS Tags: `VERB`
 
-There are 777 `VERB` lemmas (14%), 1181 `VERB` types (17%) and 1988 `VERB` tokens (9%).
+There are 777 `VERB` lemmas (14%), 1181 `VERB` types (18%) and 1988 `VERB` tokens (9%).
 Out of 16 observed tags, the rank of `VERB` is: 4 in number of lemmas, 2 in number of types and 5 in number of tokens.
 
 The 10 most frequent `VERB` lemmas: <em>haben, sein, sagen, geben, werden, beginnen, finden, führen, an, kommen</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>ist</em> (<tt><a href="de_pud-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 1.519949 (the average of all parts of speech is 1.195571).
+The form / lemma ratio of `VERB` is 1.519949 (the average of all parts of speech is 1.195641).
 
 The 1st highest number of forms (8) was observed with the lemma “sein”: <em>bin, gewesen, ist, sein, sind, war, waren, wären</em>.
 

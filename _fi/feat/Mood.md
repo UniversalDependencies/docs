@@ -61,4 +61,4 @@ In Universal Dependencies, the optative occurs in the FTB data but not in TDT an
 * [fi] _<b>kävellös</b>_ "you shall walk" (active voice 2nd person singular present optative of _kävellä_ "to walk"; the corresponding first imperative form is _kävele_)
 * [fi] _<b>ällös</b> kävele_ "don't walk" (negative optative of _kävellä_ "to walk"; the corresponding first imperative form is _älä kävele_)
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:33 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:22 CET 2021 -->

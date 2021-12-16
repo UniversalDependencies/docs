@@ -11,4 +11,4 @@ Some prepositions may function as verb particles, as in *slå opp* "look up", *g
 * *i* "in"
 * *på* "on"
 * *utenfor* "outside"
-<!-- Interlanguage links updated Pá kvě 14 11:08:18 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:07 CET 2021 -->

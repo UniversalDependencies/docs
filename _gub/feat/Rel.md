@@ -11,8 +11,7 @@ udver: '2'
   <td><a href="#Cont">Cont</a></td>
   <td><a href="#NCont">NCont</a></td>
   <td><a href="#Abs">Abs</a></td>
-
-
+  <td><a href="#Corf">Corf</a></td>
 </tr>
 </table>
 
@@ -35,19 +34,27 @@ Non-contiguity is more often associated with the morphemes "i" and "h".
 
 #### Examples
 
-* _<b>i-hɨ</b>&nbsp;_ “He has a mother / there is his/her mother”
+* _<b>i-hɨ</b>&nbsp;_ “He has a mother / there is his/her/their mother”
 
 * _<b>h-emi-r-eko</b>&nbsp;_ “there is her/his/its/their wife”
 
+
 ### <a name="Abs">`Abs`</a>: absolute
 
-Abslute relational indicates that the possessor is absent. It is associated with the morphemes "i" and "h".
+The absolute relational indicates that the possessor is inalienably possessed. It is associated with the morpheme "t".
 
 #### Examples
 
-* _<b>i-pira</b>&nbsp;_ “ (There is a) (someone's)  fish / ”
+* _<b>t-u</b>&nbsp;_ “ (someone's)  father”
 
-* _<b>h-emi-r-eko</b>&nbsp;_ “(There is a) (someone's) wife”
+
+### <a name="Corf">`Corf`</a>: correferential
+
+The correferential relational indicates that the possessor is the same as the subject of the sentence. It is associated with the morpheme "u".
+
+#### Examples
+
+* _<b>u-hɨ</b>&nbsp;_ “Her/his/their own mother”
 
 
 
@@ -57,4 +64,5 @@ Abslute relational indicates that the possessor is absent. It is associated with
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Pá kvě 14 11:08:41 CEST 2021 -->
+
+<!-- Interlanguage links updated St lis 3 20:58:29 CET 2021 -->

@@ -358,6 +358,18 @@ collections:
     output: true
   fy:
     output: true
+  aeb:
+    output: true
+  sjo:
+    output: true
+  bn:
+    output: true
+  pa:
+    output: true
+  ceb:
+    output: true
+  nhi:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 

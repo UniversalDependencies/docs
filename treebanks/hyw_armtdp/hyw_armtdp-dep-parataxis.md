@@ -8,32 +8,28 @@ udver: '2'
 
 This relation is universal.
 
-332 nodes (1%) are attached to their parents as `parataxis`.
+784 nodes (1%) are attached to their parents as `parataxis`.
 
-192 instances of `parataxis` (58%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.18674698795181.
+444 instances of `parataxis` (57%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.10331632653061.
 
-The following 29 pairs of parts of speech are connected with `parataxis`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (161; 48% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (36; 11% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (35; 11% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (16; 5% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (13; 4% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (11; 3% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (10; 3% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (8; 2% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (6; 2% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-INTJ.html">INTJ</a></tt> (2; 1% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 39 pairs of parts of speech are connected with `parataxis`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (342; 44% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (105; 13% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (53; 7% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (45; 6% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (40; 5% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (36; 5% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (21; 3% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (16; 2% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (16; 2% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (11; 1% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (9; 1% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (9; 1% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (9; 1% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-INTJ.html">INTJ</a></tt> (9; 1% instances), <tt><a href="hyw_armtdp-pos-INTJ.html">INTJ</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 11 parataxis	color:blue
-1	—	—	PUNCT	_	_	7	punct	_	Translit=—|LTranslit=—
-2	Աս	աս	PRON	_	Case=Nom|Deixis=Prox|Number=Sing|PronType=Dem	3	det	_	Translit=As|LTranslit=as
-3	փորձանքը	փորձանք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	7	nsubj	_	Translit=p’orjank’ë|LTranslit=p’orjank’
-4	՞	՞	PUNCT	_	_	3	punct	_	Translit=?|LTranslit=?
-5	ուրկէ	ուրկէ	ADV	_	PronType=Int	7	advmod	_	Translit=owrkē|LTranslit=owrkē
-6	մէջտեղ	մէջտեղ	ADV	_	_	7	compound:lvc	_	Translit=mēǰteġ|LTranslit=mēǰteġ
-7	ելաւ	ելլալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Translit=elaw|LTranslit=ellal|SpaceAfter=No
-8	,	,	PUNCT	_	_	11	punct	_	Translit=,|LTranslit=,|SpaceAfter=No
-9	—	—	PUNCT	_	_	11	punct	_	Translit=—|LTranslit=—
-10	կ՚	կը	AUX	_	Aspect=Imp|Mood=Ind	11	aux	_	Translit=k,|LTranslit=kë|SpaceAfter=No
-11	ըսէր	ըսել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	7	parataxis	_	Translit=ësēr|LTranslit=ësel|SpaceAfter=No
-12	:	:	PUNCT	_	Foreign=Yes	7	punct	_	Translit=.|LTranslit=.
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 7 parataxis	color:blue
+1	Գիրքեր	գիրք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Plur	2	obj	_	Translit=Girk’er|LTranslit=girk’
+2	բացիր	բանալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=bac’ir|LTranslit=banal|SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,
+4	ֆիլմեր	ֆիլմ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Plur	5	obj	_	Translit=filmer|LTranslit=film
+5	նայեցար	նայիլ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	Translit=nayec’ar|LTranslit=nayil|SpaceAfter=No
+6	՝	՝	PUNCT	_	_	7	punct	_	Translit=,|LTranslit=,
+7	չկայիր	կամ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Mid	2	parataxis	_	Translit=čkayir|LTranslit=kam|SpaceAfter=No
+8	:	:	PUNCT	_	Foreign=Yes	2	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -57,26 +53,21 @@ The following 29 pairs of parts of speech are connected with `parataxis`: <tt><a
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 11 parataxis	color:blue
-1	«	«	PUNCT	_	_	5	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
-2	Էն	էն	PRON	_	Deixis=Remt|PronType=Dem	5	expl	_	Translit=Ēn|LTranslit=ēn
-3	ինչ	ինչ	DET	_	PronType=Exc	5	det	_	Translit=inč|LTranslit=inč
-4	՜	՜	PUNCT	_	_	3	punct	_	Translit=!|LTranslit=!
-5	շունչ	շունչ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=šownč|LTranslit=šownč
-6	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	5	cop	_	Translit=ēr|LTranslit=em|SpaceAfter=No
-7	...	...	PUNCT	_	_	5	punct	_	Translit=...|LTranslit=...|SpaceAfter=No
-8	»	»	PUNCT	_	_	5	punct	_	Translit=»|LTranslit=»|SpaceAfter=No
-9	,	,	PUNCT	_	_	11	punct	_	Translit=,|LTranslit=,
-10	պիտի	պիտի	AUX	_	Aspect=Prosp|Mood=Ind|Polarity=Pos	11	aux	_	Translit=piti|LTranslit=piti
-11	ըսէր	ըսել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	5	parataxis	_	Translit=ësēr|LTranslit=ësel
-12	Խ	Խ.	PROPN	_	Abbr=Yes|Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	11	nsubj	_	Translit=X|LTranslit=X.|SpaceAfter=No
-13	.	.	PUNCT	_	_	12	punct	_	Translit=.|LTranslit=.
-14	Աբովեան	Աբովեան	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Plur	12	flat:name	_	Translit=Abovean|LTranslit=Abovean|SpaceAfter=No
-15	։	։	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 parataxis	color:blue
+1	—	—	PUNCT	_	_	2	punct	_	Translit=—|LTranslit=—
+2	Զաւակդ	զաւակ	NOUN	_	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	0	root	_	Translit=Zawakd|LTranslit=zawak|SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,|SpaceAfter=No
+4	—	—	PUNCT	_	_	5	punct	_	Translit=—|LTranslit=—
+5	ըսաւ	ըսել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	Translit=ësaw|LTranslit=ësel
+6	Զարեհ	Զարեհ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	5	nsubj	_	Translit=Zareh|LTranslit=Zareh
+7	հանդարտ	հանդարտ	ADJ	_	Degree=Pos	6	acl	_	Translit=handart|LTranslit=handart
+8	եւ	եւ	CCONJ	_	_	9	cc	_	Translit=ew|LTranslit=ew
+9	ժպտուն	ժպտուն	ADJ	_	Degree=Pos	7	conj	_	Translit=žptown|LTranslit=žptown|SpaceAfter=No
+10	:	:	PUNCT	_	Foreign=Yes	2	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

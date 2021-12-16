@@ -8,67 +8,68 @@ udver: '2'
 
 This relation is universal.
 
-139 nodes (0%) are attached to their parents as `list`.
+29 nodes (0%) are attached to their parents as `list`.
 
-127 instances of `list` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.41726618705036.
+25 instances of `list` (86%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.58620689655172.
 
-The following 14 pairs of parts of speech are connected with `list`: <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (92; 66% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (11; 8% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (8; 6% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (6; 4% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 3 pairs of parts of speech are connected with `list`: <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (24; 83% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (4; 14% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> (1; 3% instances).
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 list	color:blue
+1	PERSONELİ	personel	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	nsubj	_	_
+2	TEMİZLİĞİ	temizlik	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	1	list	_	_
+3	KONUMU	konum	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	1	list	_	_
+4	ÇOK	çok	ADV	_	_	5	advmod	_	_
+5	İYİYDİ	iyi	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+~~~
 
 
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 4 list	color:blue
-1	HİJYEN	hijyen	NOUN	_	Case=Nom|Number=Sing|Person=3	2	nsubj	_	_
-2	GÜZEL	güzel	ADJ	_	_	11	parataxis	_	_
-3	,	,	PUNCT	_	_	4	punct	_	_
-4	ODALAR	oda	NOUN	_	Case=Nom|Number=Plur|Person=3	7	list	_	_
-5	,	,	PUNCT	_	_	7	punct	_	_
-6	GENEL	genel	ADJ	_	_	7	nmod	_	_
-7	MEKANLAR	mekan	NOUN	_	Case=Nom|Number=Plur|Person=3	11	nsubj	_	_
-8	VE	ve	CCONJ	_	_	9	cc	_	_
-9	HAVUZLAR	havuz	NOUN	_	Case=Nom|Number=Plur|Person=3	7	conj	_	_
-10	GAYET	gayet	ADV	_	_	11	advmod	_	_
-11	TEMİZ	temiz	ADJ	_	_	0	root	_	_
-12	.	.	PUNCT	_	_	11	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 6 list	color:blue
-1	ÇALIŞAN	çalışan	NOUN	_	Case=Nom|Number=Sing|Person=3	2	acl	_	_
-2	PERSONEL	personel	NOUN	_	Case=Nom|Number=Sing|Person=3	9	nsubj	_	_
-3	GERÇEKTEN	gerçekten	ADV	_	_	6	advmod	_	_
-4	ÇOK	çok	ADV	_	_	5	advmod	_	_
-5	GÜLER	güler	NOUN	_	Case=Nom|Number=Sing|Person=3	6	compound	_	_
-6	YÜZLÜ	yüz	ADJ	_	_	9	list	_	_
-7	VE	ve	CCONJ	_	_	6	cc	_	_
-8	SICAK	sıcak	ADJ	_	_	9	compound	_	_
-9	KANLI	kan	ADJ	_	_	0	root	_	_
-10	.	.	PUNCT	_	_	9	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 list	color:blue
-1	PERSONEL	personel	NOUN	_	Case=Nom|Number=Sing|Person=3	4	nsubj	_	_
-2	GÜLER	güler	NOUN	_	Case=Nom|Number=Sing|Person=3	3	compound	_	_
-3	YÜZLÜ	yüz	ADJ	_	_	4	list	_	_
-4	İLGİLİYDİ	ilgili	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-5	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 3 4 list	color:blue
+1	KONUM	konum	NOUN	_	Case=Nom|Number=Sing|Person=3	2	nmod	_	_
+2	OLARAK	ol	ADV	_	_	3	advcl	_	_
+3	MUHTEŞEM	muhteşem	ADJ	_	_	0	root	_	_
+4	DENİZ	deniz	NOUN	_	Case=Nom|Number=Sing|Person=3	3	list	_	_
+5	KOY	koy	NOUN	_	Case=Nom|Number=Sing|Person=3	3	list	_	_
+6	HAVUZ	havuz	NOUN	_	Case=Nom|Number=Sing|Person=3	3	list	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 list	color:blue
+1	BUNUN	bu	PRON	_	PronType=Dem	2	nmod	_	_
+2	DIŞINDA	dış	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	14	discourse	_	_
+3	DA	da	CCONJ	_	_	2	advmod	_	_
+4	TV	tv	PROPN	_	Case=Nom|Number=Sing	5	nmod	_	_
+5	EKSİKLİĞİ	eksiklik	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	14	obl	_	_
+6	VE	ve	CCONJ	_	_	7	cc	_	_
+7	ÇAY	çay	NOUN	_	Case=Nom|Number=Sing|Person=3	5	conj	_	_
+8	VS	vs	CCONJ	_	_	7	list	_	_
+9	İÇİN	için	ADP	_	_	8	case	_	_
+10	KÜÇÜK	küçük	ADJ	_	_	13	amod	_	_
+11	BİR	bir	DET	_	Definite=Ind|PronType=Art	13	det	_	_
+12	SU	su	NOUN	_	Case=Nom|Number=Sing|Person=3	13	nmod	_	_
+13	ISITICISI	ısıtıcı	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	14	nsubj	_	_
+14	OLMALIYDI	ol	VERB	_	Aspect=Perf|Mood=Nec|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
+15	.	.	PUNCT	_	_	14	punct	_	_
 
 ~~~
 

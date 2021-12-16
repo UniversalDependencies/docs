@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Indonesian-CSUI: POS Tags: `ADJ`
 
-There are 254 `ADJ` lemmas (6%), 262 `ADJ` types (6%) and 1165 `ADJ` tokens (4%).
-Out of 17 observed tags, the rank of `ADJ` is: 5 in number of lemmas, 5 in number of types and 7 in number of tokens.
+There are 258 `ADJ` lemmas (6%), 266 `ADJ` types (6%) and 1170 `ADJ` tokens (4%).
+Out of 17 observed tags, the rank of `ADJ` is: 5 in number of lemmas, 5 in number of types and 8 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>besar, tinggi, sama, pertama, bersih, baik, lain, asing, rendah, utama</em>
 
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>sama</em> (<tt><a href="id_csui-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.031496 (the average of all parts of speech is 1.084934).
+The form / lemma ratio of `ADJ` is 1.031008 (the average of all parts of speech is 1.085880).
 
 The 1st highest number of forms (2) was observed with the lemma “baik”: <em>baik, terbaik</em>.
 
@@ -60,32 +60,32 @@ The 2nd highest number of forms (2) was observed with the lemma “banyak”: <e
 
 The 3rd highest number of forms (2) was observed with the lemma “besar”: <em>besar, terbesar</em>.
 
-`ADJ` occurs with 1 features: <tt><a href="id_csui-feat-Degree.html">Degree</a></tt> (49; 4% instances)
+`ADJ` occurs with 2 features: <tt><a href="id_csui-feat-NumType.html">NumType</a></tt> (67; 6% instances), <tt><a href="id_csui-feat-Degree.html">Degree</a></tt> (49; 4% instances)
 
-`ADJ` occurs with 1 feature-value pairs: `Degree=Sup`
+`ADJ` occurs with 2 feature-value pairs: `Degree=Sup`, `NumType=Ord`
 
-`ADJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (1116 tokens).
-Examples: <em>sama, pertama, bersih, besar, tinggi, lain, baik, asing, rendah, utama</em>
+`ADJ` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (1054 tokens).
+Examples: <em>sama, bersih, besar, tinggi, lain, baik, asing, rendah, utama, fiskal</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 17 different relations: <tt><a href="id_csui-dep-amod.html">amod</a></tt> (669; 57% instances), <tt><a href="id_csui-dep-advcl.html">advcl</a></tt> (98; 8% instances), <tt><a href="id_csui-dep-acl-relcl.html">acl:relcl</a></tt> (92; 8% instances), <tt><a href="id_csui-dep-ccomp.html">ccomp</a></tt> (69; 6% instances), <tt><a href="id_csui-dep-xcomp.html">xcomp</a></tt> (63; 5% instances), <tt><a href="id_csui-dep-root.html">root</a></tt> (52; 4% instances), <tt><a href="id_csui-dep-conj.html">conj</a></tt> (51; 4% instances), <tt><a href="id_csui-dep-advmod.html">advmod</a></tt> (46; 4% instances), <tt><a href="id_csui-dep-acl.html">acl</a></tt> (7; 1% instances), <tt><a href="id_csui-dep-parataxis.html">parataxis</a></tt> (7; 1% instances), <tt><a href="id_csui-dep-obl.html">obl</a></tt> (4; 0% instances), <tt><a href="id_csui-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="id_csui-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="id_csui-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="id_csui-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="id_csui-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="id_csui-dep-obj.html">obj</a></tt> (1; 0% instances)
+`ADJ` nodes are attached to their parents using 17 different relations: <tt><a href="id_csui-dep-amod.html">amod</a></tt> (667; 57% instances), <tt><a href="id_csui-dep-acl-relcl.html">acl:relcl</a></tt> (148; 13% instances), <tt><a href="id_csui-dep-advcl.html">advcl</a></tt> (100; 9% instances), <tt><a href="id_csui-dep-xcomp.html">xcomp</a></tt> (66; 6% instances), <tt><a href="id_csui-dep-root.html">root</a></tt> (53; 5% instances), <tt><a href="id_csui-dep-conj.html">conj</a></tt> (52; 4% instances), <tt><a href="id_csui-dep-advmod.html">advmod</a></tt> (46; 4% instances), <tt><a href="id_csui-dep-acl.html">acl</a></tt> (11; 1% instances), <tt><a href="id_csui-dep-ccomp.html">ccomp</a></tt> (11; 1% instances), <tt><a href="id_csui-dep-parataxis.html">parataxis</a></tt> (4; 0% instances), <tt><a href="id_csui-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="id_csui-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="id_csui-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="id_csui-dep-flat.html">flat</a></tt> (2; 0% instances), <tt><a href="id_csui-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="id_csui-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="id_csui-dep-fixed.html">fixed</a></tt> (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 10 different parts of speech: <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (802; 69% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> (191; 16% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (55; 5% instances),  (52; 4% instances), <tt><a href="id_csui-pos-NUM.html">NUM</a></tt> (21; 2% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> (18; 2% instances), <tt><a href="id_csui-pos-X.html">X</a></tt> (14; 1% instances), <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="id_csui-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (1; 0% instances)
+Parents of `ADJ` nodes belong to 10 different parts of speech: <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (809; 69% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> (188; 16% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (55; 5% instances),  (53; 5% instances), <tt><a href="id_csui-pos-NUM.html">NUM</a></tt> (22; 2% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> (18; 2% instances), <tt><a href="id_csui-pos-X.html">X</a></tt> (17; 1% instances), <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="id_csui-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
-729 (63%) `ADJ` nodes are leaves.
+723 (62%) `ADJ` nodes are leaves.
 
-180 (15%) `ADJ` nodes have one child.
+186 (16%) `ADJ` nodes have one child.
 
-99 (8%) `ADJ` nodes have two children.
+103 (9%) `ADJ` nodes have two children.
 
-157 (13%) `ADJ` nodes have three or more children.
+158 (14%) `ADJ` nodes have three or more children.
 
-The highest child degree of a `ADJ` node is 12.
+The highest child degree of a `ADJ` node is 11.
 
-Children of `ADJ` nodes are attached using 26 different relations: <tt><a href="id_csui-dep-advmod.html">advmod</a></tt> (216; 19% instances), <tt><a href="id_csui-dep-punct.html">punct</a></tt> (157; 14% instances), <tt><a href="id_csui-dep-mark.html">mark</a></tt> (151; 13% instances), <tt><a href="id_csui-dep-obl.html">obl</a></tt> (150; 13% instances), <tt><a href="id_csui-dep-nsubj.html">nsubj</a></tt> (77; 7% instances), <tt><a href="id_csui-dep-cc.html">cc</a></tt> (56; 5% instances), <tt><a href="id_csui-dep-conj.html">conj</a></tt> (52; 5% instances), <tt><a href="id_csui-dep-advcl.html">advcl</a></tt> (51; 5% instances), <tt><a href="id_csui-dep-ccomp.html">ccomp</a></tt> (46; 4% instances), <tt><a href="id_csui-dep-det.html">det</a></tt> (35; 3% instances), <tt><a href="id_csui-dep-case-adv.html">case:adv</a></tt> (23; 2% instances), <tt><a href="id_csui-dep-parataxis.html">parataxis</a></tt> (22; 2% instances), <tt><a href="id_csui-dep-aux.html">aux</a></tt> (21; 2% instances), <tt><a href="id_csui-dep-case.html">case</a></tt> (18; 2% instances), <tt><a href="id_csui-dep-fixed.html">fixed</a></tt> (9; 1% instances), <tt><a href="id_csui-dep-obj.html">obj</a></tt> (8; 1% instances), <tt><a href="id_csui-dep-cop.html">cop</a></tt> (7; 1% instances), <tt><a href="id_csui-dep-obl-tmod.html">obl:tmod</a></tt> (7; 1% instances), <tt><a href="id_csui-dep-compound-a.html">compound:a</a></tt> (4; 0% instances), <tt><a href="id_csui-dep-appos.html">appos</a></tt> (3; 0% instances), <tt><a href="id_csui-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="id_csui-dep-csubj.html">csubj</a></tt> (2; 0% instances), <tt><a href="id_csui-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="id_csui-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="id_csui-dep-advmod-emph.html">advmod:emph</a></tt> (1; 0% instances), <tt><a href="id_csui-dep-cc-preconj.html">cc:preconj</a></tt> (1; 0% instances)
+Children of `ADJ` nodes are attached using 29 different relations: <tt><a href="id_csui-dep-advmod.html">advmod</a></tt> (220; 19% instances), <tt><a href="id_csui-dep-nsubj.html">nsubj</a></tt> (196; 17% instances), <tt><a href="id_csui-dep-punct.html">punct</a></tt> (158; 14% instances), <tt><a href="id_csui-dep-obl.html">obl</a></tt> (147; 13% instances), <tt><a href="id_csui-dep-advcl.html">advcl</a></tt> (95; 8% instances), <tt><a href="id_csui-dep-cc.html">cc</a></tt> (52; 5% instances), <tt><a href="id_csui-dep-conj.html">conj</a></tt> (52; 5% instances), <tt><a href="id_csui-dep-mark.html">mark</a></tt> (40; 4% instances), <tt><a href="id_csui-dep-det.html">det</a></tt> (37; 3% instances), <tt><a href="id_csui-dep-case-adv.html">case:adv</a></tt> (23; 2% instances), <tt><a href="id_csui-dep-parataxis.html">parataxis</a></tt> (23; 2% instances), <tt><a href="id_csui-dep-aux.html">aux</a></tt> (22; 2% instances), <tt><a href="id_csui-dep-case.html">case</a></tt> (17; 1% instances), <tt><a href="id_csui-dep-obl-tmod.html">obl:tmod</a></tt> (12; 1% instances), <tt><a href="id_csui-dep-fixed.html">fixed</a></tt> (9; 1% instances), <tt><a href="id_csui-dep-obj.html">obj</a></tt> (8; 1% instances), <tt><a href="id_csui-dep-cop.html">cop</a></tt> (7; 1% instances), <tt><a href="id_csui-dep-compound-a.html">compound:a</a></tt> (4; 0% instances), <tt><a href="id_csui-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="id_csui-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="id_csui-dep-csubj.html">csubj</a></tt> (2; 0% instances), <tt><a href="id_csui-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="id_csui-dep-flat.html">flat</a></tt> (2; 0% instances), <tt><a href="id_csui-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="id_csui-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="id_csui-dep-advmod-emph.html">advmod:emph</a></tt> (1; 0% instances), <tt><a href="id_csui-dep-cc-preconj.html">cc:preconj</a></tt> (1; 0% instances), <tt><a href="id_csui-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="id_csui-dep-nmod-tmod.html">nmod:tmod</a></tt> (1; 0% instances)
 
-Children of `ADJ` nodes belong to 15 different parts of speech: <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (213; 19% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (176; 16% instances), <tt><a href="id_csui-pos-PUNCT.html">PUNCT</a></tt> (157; 14% instances), <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> (156; 14% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> (115; 10% instances), <tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> (57; 5% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (55; 5% instances), <tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (43; 4% instances), <tt><a href="id_csui-pos-DET.html">DET</a></tt> (35; 3% instances), <tt><a href="id_csui-pos-PART.html">PART</a></tt> (33; 3% instances), <tt><a href="id_csui-pos-AUX.html">AUX</a></tt> (28; 2% instances), <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (23; 2% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> (21; 2% instances), <tt><a href="id_csui-pos-X.html">X</a></tt> (7; 1% instances), <tt><a href="id_csui-pos-NUM.html">NUM</a></tt> (4; 0% instances)
+Children of `ADJ` nodes belong to 15 different parts of speech: <tt><a href="id_csui-pos-NOUN.html">NOUN</a></tt> (214; 19% instances), <tt><a href="id_csui-pos-ADV.html">ADV</a></tt> (179; 16% instances), <tt><a href="id_csui-pos-PUNCT.html">PUNCT</a></tt> (158; 14% instances), <tt><a href="id_csui-pos-PRON.html">PRON</a></tt> (146; 13% instances), <tt><a href="id_csui-pos-VERB.html">VERB</a></tt> (116; 10% instances), <tt><a href="id_csui-pos-ADJ.html">ADJ</a></tt> (55; 5% instances), <tt><a href="id_csui-pos-CCONJ.html">CCONJ</a></tt> (53; 5% instances), <tt><a href="id_csui-pos-ADP.html">ADP</a></tt> (44; 4% instances), <tt><a href="id_csui-pos-SCONJ.html">SCONJ</a></tt> (44; 4% instances), <tt><a href="id_csui-pos-DET.html">DET</a></tt> (37; 3% instances), <tt><a href="id_csui-pos-PART.html">PART</a></tt> (34; 3% instances), <tt><a href="id_csui-pos-AUX.html">AUX</a></tt> (29; 3% instances), <tt><a href="id_csui-pos-PROPN.html">PROPN</a></tt> (21; 2% instances), <tt><a href="id_csui-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="id_csui-pos-NUM.html">NUM</a></tt> (4; 0% instances)
 

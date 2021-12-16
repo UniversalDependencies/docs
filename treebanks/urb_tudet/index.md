@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Fabrício Ferraz Gerardi, Carolina Aragon, Gustavo Godoy.
 
 Repository: [UD_Kaapor-TuDeT](https://github.com/UniversalDependencies/UD_Kaapor-TuDeT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udurb_tudet28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udurb_tudet29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-SA 4.0
 
@@ -87,13 +87,13 @@ The development of the treebank is supported by the by European Research Council
 
 ## Relations
 
-[advcl](urb_tudet-dep-advcl.html) – [advmod](urb_tudet-dep-advmod.html) – [amod](urb_tudet-dep-amod.html) – [aux](urb_tudet-dep-aux.html) – [case](urb_tudet-dep-case.html) – [cc](urb_tudet-dep-cc.html) – [compound](urb_tudet-dep-compound.html) – [conj](urb_tudet-dep-conj.html) – [det](urb_tudet-dep-det.html) – [discourse](urb_tudet-dep-discourse.html) – [iobj](urb_tudet-dep-iobj.html) – [mark](urb_tudet-dep-mark.html) – [nmod](urb_tudet-dep-nmod.html) – [nsubj](urb_tudet-dep-nsubj.html) – [obj](urb_tudet-dep-obj.html) – [obl](urb_tudet-dep-obl.html) – [punct](urb_tudet-dep-punct.html) – [root](urb_tudet-dep-root.html) – [xcomp](urb_tudet-dep-xcomp.html)
+[advcl](urb_tudet-dep-advcl.html) – [advmod](urb_tudet-dep-advmod.html) – [amod](urb_tudet-dep-amod.html) – [aux](urb_tudet-dep-aux.html) – [case](urb_tudet-dep-case.html) – [cc](urb_tudet-dep-cc.html) – [ccomp](urb_tudet-dep-ccomp.html) – [compound](urb_tudet-dep-compound.html) – [conj](urb_tudet-dep-conj.html) – [csubj](urb_tudet-dep-csubj.html) – [det](urb_tudet-dep-det.html) – [discourse](urb_tudet-dep-discourse.html) – [iobj](urb_tudet-dep-iobj.html) – [mark](urb_tudet-dep-mark.html) – [nmod](urb_tudet-dep-nmod.html) – [nsubj](urb_tudet-dep-nsubj.html) – [obj](urb_tudet-dep-obj.html) – [obl](urb_tudet-dep-obl.html) – [punct](urb_tudet-dep-punct.html) – [root](urb_tudet-dep-root.html) – [xcomp](urb_tudet-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 61 sentences and 240 tokens.</li>
+<li>This corpus contains 83 sentences and 366 tokens.</li>
 </ul>
 
 <ul>
@@ -105,7 +105,7 @@ The development of the treebank is supported by the by European Research Council
 </ul>
 
 <ul>
-<li>This corpus contains 4 types of words that contain both letters and punctuation. Examples: a’eta, a’etake, ma’e, me’ẽ</li>
+<li>This corpus contains 5 types of words that contain both letters and punctuation. Examples: a’eta, a’etake, je‘ɪ, ma’e, me’ẽ</li>
 </ul>
 
 <ul>
@@ -121,22 +121,23 @@ The development of the treebank is supported by the by European Research Council
 </ul>
 
 <ul>
-<li>This corpus contains 9 word types tagged as particles (PART): je, ke, ketĩ, mi, riki, ta, tipe, tĩ, ã</li>
+<li>This corpus contains 13 word types tagged as particles (PART): je, je‘ɪ, ke, ketĩ, mi, riki, ta, tipe, tĩ, upa, ã, ɪm, ʔɪ</li>
 </ul>
 
 <ul>
-<li>This corpus contains 8 lemmas tagged as pronouns (PRON): _, a'e, aʔe, a’e, ihẽ, jane, ne, pehẽ</li>
+<li>This corpus contains 16 lemmas tagged as pronouns (PRON): _, a'e, aʔe, a’e, gā, ihē, ihẽ, jane, nde, ne, ngã, pe, pehẽ, ta, wiraʔi, ã</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2 lemmas tagged as determiners (DET): ko, upa</li>
+<li>This corpus contains 3 lemmas tagged as determiners (DET): ko, ne, upa</li>
 </ul>
 
 <ul>
+<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: ne</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): ho, ʔɪ</li>
+<li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): ho, ʃo, ʔɪ</li>
 </ul>
 
 <ul>
@@ -166,7 +167,7 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Hum
     <ul>
-      <li>NOUN: kurumĩ</li>
+      <li>NOUN: aʔi, aʔike, kurumĩ</li>
       <li>PRON: aʔe</li>
       <li>PROPN: Mataru, ʃaʔe</li>
     </ul>
@@ -180,8 +181,8 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Plur
     <ul>
-      <li>NOUN: hãʔĩmke</li>
-      <li>PRON: a’eta, a’etake</li>
+      <li>NOUN: hãʔĩmke, kujãtake</li>
+      <li>PRON: a’eta, ngā, ta, a’etake, ngã, take</li>
       <li>VERB: peharõta</li>
     </ul>
   </li>
@@ -190,10 +191,10 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Sing
     <ul>
-      <li>NOUN: Tapiʔir, sawaʔe, tatu, kurumĩ</li>
+      <li>NOUN: Tapiʔir, sawaʔe, tatu, kurumĩ, raʔɪr</li>
       <li>PRON: aʔe, ihẽ, jane, neke</li>
       <li>PROPN: Mataru, ʃaʔe</li>
-      <li>VERB: ahota, akarãj, amujã, apɪhɪk, araho, rekarãjta, remupuʔam, renupã, reʔutĩ</li>
+      <li>VERB: ahota, araho, ahɪk, ajur, akarãj, amoīta, amujã, amuwɪr, apɪhɪk, asak</li>
     </ul>
   </li>
 </ul>
@@ -205,9 +206,9 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Aff
     <ul>
-      <li>NOUN: taɁɪnke, uʔike, kakake, narãjke, pirerke, ɪwɪke, ʔokke, ehake, hãʔĩmke, ikɪke</li>
-      <li>PRON: ihẽke, neke, a’etake</li>
-      <li>PROPN: neʃĩke</li>
+      <li>NOUN: uʔike, taɁɪnke, aike, kakake, narãjke, pirerke, taʔɪnke, ɪwɪke, ʃirurke, ʔokke</li>
+      <li>PRON: ihẽke, neke, ndeke, a’etake, nekeã, take</li>
+      <li>PROPN: Purutuke, neʃĩke</li>
     </ul>
   </li>
 </ul>
@@ -251,7 +252,7 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Fut
     <ul>
-      <li>VERB: uʔuta, rekarãjta, ahota, akutukta, peharõta, ukwerta</li>
+      <li>VERB: uʔuta, ahota, rekarãjta, akutukta, amoīta, peharõta, ukwerta</li>
     </ul>
   </li>
 </ul>
@@ -263,7 +264,7 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>Cau
     <ul>
-      <li>VERB: remusak, ajumukahem, amujengar, amuɁe, eremuɁe, muwak, remupuʔam</li>
+      <li>VERB: mupinim, remusak, ajumukahem, amujengar, amuwɪr, amuɁe, eremuɁe, muhɪk, muwak, remupuʔam</li>
     </ul>
   </li>
 </ul>
@@ -283,8 +284,10 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>1
     <ul>
+      <li>AUX: aʃo</li>
+      <li>NOUN: raʔɪr</li>
       <li>PRON: ihẽ, jane</li>
-      <li>VERB: ajapi, ajengar, asak, ujan, ahota, ajumukahem, akarãj, akutukta, amujengar, amujã</li>
+      <li>VERB: asak, ahota, ajapi, ajengar, araho, ujan, ahɪk, ajumukahem, ajur, akarãj</li>
     </ul>
   </li>
 </ul>
@@ -292,8 +295,8 @@ The development of the treebank is supported by the by European Research Council
 <ul>
   <li>2
     <ul>
-      <li>PRON: neke</li>
-      <li>VERB: rekarãjta, eremuɁe, peharõta, remupuʔam, renupã, reʔutĩ</li>
+      <li>PRON: neke, nekeã</li>
+      <li>VERB: rekarãjta, eremuɁe, nejɪtɪʔɪmte, netawate, peharõta, remupuʔam, renupã, reʔutĩ</li>
     </ul>
   </li>
 </ul>
@@ -302,9 +305,9 @@ The development of the treebank is supported by the by European Research Council
   <li>3
     <ul>
       <li>AUX: oho</li>
-      <li>NOUN: kurumĩ</li>
-      <li>PRON: aʔe</li>
-      <li>VERB: oho, ujan, uʔuta, ahem, ajiʔok, aʔar, hapɪ, ihĩ, jiʔok, joʔok</li>
+      <li>NOUN: imu, ihai, ihái, itawa, hokwenke, kurumĩ</li>
+      <li>PRON: aʔe, ipe, ngā, ngã</li>
+      <li>VERB: oho, ahem, matɪr, nupã, ujan, uʔu, uʔuta, ajiʔok, aʔar, hapɪ</li>
     </ul>
   </li>
 </ul>
@@ -320,7 +323,7 @@ The development of the treebank is supported by the by European Research Council
     <ul>
       <li>Yes
         <ul>
-          <li>VERB: piɾokhũ, pɪnuhũ, pɪnupɪnuate</li>
+          <li>VERB: parahɪahɪ, pirokhũ, piɾokhũ, pɪnuhũ, pɪnupɪnuate, nejɪtɪʔɪmte, netawate</li>
         </ul>
       </li>
     </ul>
@@ -367,7 +370,7 @@ The development of the treebank is supported by the by European Research Council
 </ul>
 
 <ul>
-<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: ʔɪ, ho.</li>
+<li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: ʔɪ, ho, ʃo.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -376,9 +379,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (8)</li>
-      <li>VERB--PRON (28)</li>
-      <li>VERB--PRON-Aff (6)</li>
+      <li>VERB--NOUN (13)</li>
+      <li>VERB--NOUN-Aff (2)</li>
+      <li>VERB--PRON (37)</li>
+      <li>VERB--PRON-Aff (8)</li>
     </ul>
   </li>
 </ul>
@@ -386,10 +390,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (23)</li>
-      <li>VERB--NOUN-Aff (12)</li>
+      <li>VERB--NOUN (31)</li>
+      <li>VERB--NOUN-ADP(pe) (1)</li>
+      <li>VERB--NOUN-Aff (14)</li>
       <li>VERB--PRON (4)</li>
-      <li>VERB--PRON-Aff (3)</li>
+      <li>VERB--PRON-Aff (4)</li>
     </ul>
   </li>
 </ul>
@@ -397,6 +402,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
+      <li>VERB--NOUN (1)</li>
+      <li>VERB--PRON (2)</li>
+      <li>VERB--PRON-ADP(pe) (1)</li>
       <li>VERB--PRON-Aff (1)</li>
     </ul>
   </li>
@@ -409,5 +417,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus does not use relation subtypes.</li>
-<li>The following 18 relation types are not used in this corpus at all: <a>csubj</a>, <a>ccomp</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>cop</a>, <a>appos</a>, <a>nummod</a>, <a>acl</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 16 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>cop</a>, <a>appos</a>, <a>nummod</a>, <a>acl</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

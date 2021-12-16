@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-UDante: Relations: `flat:foreign`
 
 This relation is a language-specific subtype of <tt><a href="la_udante-dep-flat.html">flat</a></tt>.
-There are also 1 other language-specific subtypes of `flat`: <tt><a href="la_udante-dep-flat-name.html">flat:name</a></tt>.
+There are also 2 other language-specific subtypes of `flat`: <tt><a href="la_udante-dep-flat-gov.html">flat:gov</a></tt>, <tt><a href="la_udante-dep-flat-name.html">flat:name</a></tt>.
 
 371 nodes (1%) are attached to their parents as `flat:foreign`.
 
@@ -24,7 +24,7 @@ The following 7 pairs of parts of speech are connected with `flat:foreign`: <tt>
 # visual-style 4	fgColor:white
 # visual-style 4 5 flat:foreign	color:blue
 1	Dicunt	dico	VERB	va3ipp3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	enim	enim	PART	c	Emphatic=Yes	1	discourse	_	SpaceAfter=No
+2	enim	enim	PART	c	Form=Emp	1	discourse	_	SpaceAfter=No
 3	:	:	PUNCT	Pu	_	4	punct	_	_
 4	Messure	messure	X	zi	Foreign=Yes	1	obj	_	_
 5	quinto	quinto	X	zi	Foreign=Yes	4	flat:foreign	_	_
@@ -53,7 +53,7 @@ The following 7 pairs of parts of speech are connected with `flat:foreign`: <tt>
 12	:	:	PUNCT	Pu	_	13	punct	_	_
 13	Vuo'	uuo	X	zi	Foreign=Yes	11	orphan	_	_
 14	tu	tu	X	zi	Foreign=Yes	13	flat:foreign	_	_
-15	venire	uenio	VERB	v4fp	Aspect=Imp|InflClass=LatI|InflClass[noun]=Ind|Tense=Pres|VerbForm=Inf	13	flat:foreign	_	_
+15	venire	uenio	VERB	v4fp	Aspect=Imp|InflClass=LatI|InflClass[nominal]=Ind|Tense=Pres|VerbForm=Inf	13	flat:foreign	_	_
 16	ovelle	ouelle	X	zi	Foreign=Yes	13	flat:foreign	_	_
 17	De	de	ADP	e	AdpType=Prep|Proper=Yes	13	flat:foreign	_	_
 18	Perusio	perusium	PROPN	Sns2b	Case=Abl|Gender=Neut|InflClass=IndEurO|NameType=Geo|Number=Sing	13	flat:foreign	_	SpaceAfter=No
@@ -79,7 +79,7 @@ The following 7 pairs of parts of speech are connected with `flat:foreign`: <tt>
 38	Spoletanis	spoletanus	ADJ	Smp2b	Case=Abl|Gender=Masc|InflClass=IndEurO|NameType=Nat|Number=Plur	36	conj	_	SpaceAfter=No
 39	,	,	PUNCT	Pu	_	32	punct	_	_
 40	nichil	nihil	PRON	r	InflClass=Ind|PronType=Neg	41	obj	_	_
-41	tractare	tracto	VERB	va1fp	Aspect=Imp|InflClass=LatA|InflClass[noun]=Ind|Tense=Pres|VerbForm=Inf|Voice=Act	42	ccomp	_	_
+41	tractare	tracto	VERB	va1fp	Aspect=Imp|InflClass=LatA|InflClass[nominal]=Ind|Tense=Pres|VerbForm=Inf|Voice=Act	42	ccomp	_	_
 42	intendimus	intendo	VERB	va3ipp1	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	SpaceAfter=No
 43	.	.	PUNCT	Pu	_	1	punct	_	_
 
@@ -95,14 +95,14 @@ The following 7 pairs of parts of speech are connected with `flat:foreign`: <tt>
 1	Hoc	hic	DET	ddisna	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	4	obl:arg	_	_
 2	etiam	etiam	ADV	co	Compound=Yes	3	advmod:emph	_	_
 3	Yspani	hispanus	ADJ	Smp2n	Case=Nom|Gender=Masc|InflClass=IndEurO|NameType=Nat|Number=Plur	4	nsubj	_	_
-4	usi	utor	VERB	vd3irp3	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[noun]=IndEurO|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+4	usi	utor	VERB	vd3irp3	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 5	sunt	sum	AUX	va5ipp3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
 6	-	-	PUNCT	Pu	_	8	punct	_	_
 7	et	et	CCONJ	co	_	8	cc	_	_
 8	dico	dico	VERB	va3ips1	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
 9	Yspanos	hispanus	ADJ	Smp2a	Case=Acc|Gender=Masc|InflClass=IndEurO|NameType=Nat|Number=Plur	8	xcomp:pred	_	_
 10	qui	qui	PRON	prepmn	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Plur|PronType=Rel	11	nsubj	_	_
-11	poetati	poetor	VERB	vd1irp3	Aspect=Perf|Case=Nom|Gender=Masc|InflClass=LatA|InflClass[noun]=IndEurO|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	9	acl:relcl	_	_
+11	poetati	poetor	VERB	vd1irp3	Aspect=Perf|Case=Nom|Gender=Masc|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	9	acl:relcl	_	_
 12	sunt	sum	AUX	va5ipp3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
 13	in	in	ADP	e	AdpType=Prep	14	case	_	_
 14	vulgari	uulgare	NOUN	sns3b	Case=Abl|Gender=Neut|InflClass=IndEurI|Number=Sing	11	obl	_	_

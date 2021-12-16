@@ -95,4 +95,4 @@ Names of stadiums, guerilla bases, events etc.
 
 * [en] _the <b>COLING</b> 2020 conference_
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:34 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:23 CET 2021 -->

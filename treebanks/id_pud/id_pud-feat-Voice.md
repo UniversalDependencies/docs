@@ -22,8 +22,8 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (1892; 79% of non-empty `Voice`): <em>menjadi, ada, memiliki, membuat, mulai, mengatakan, merupakan, ujar, mendapatkan, bekerja</em>
-* `Pass` (503; 21% of non-empty `Voice`): <em>digunakan, terjadi, termasuk, terletak, diberi, didirikan, diikuti, dikenal, diperlukan, terbuka</em>
+* `Act` (1891; 79% of non-empty `Voice`): <em>menjadi, ada, memiliki, membuat, mulai, mengatakan, merupakan, ujar, mendapatkan, bekerja</em>
+* `Pass` (504; 21% of non-empty `Voice`): <em>digunakan, terjadi, termasuk, terletak, diberi, didirikan, diikuti, dikenal, diperlukan, terbuka</em>
 
 <table>
   <tr><th>Paradigm <i>ada</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -33,7 +33,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="id_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (208; 70%),
+<tt>VERB --[<tt><a href="id_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (207; 70%),
 <tt>VERB --[<tt><a href="id_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (175; 80%),
 <tt>VERB --[<tt><a href="id_pud-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (135; 77%),
 <tt>VERB --[<tt><a href="id_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (57; 83%),

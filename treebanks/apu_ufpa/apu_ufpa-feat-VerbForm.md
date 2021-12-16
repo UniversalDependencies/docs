@@ -11,20 +11,20 @@ It occurs with 2 different values: `Conv`, `Vnoun`.
 
 11 tokens (2%) have a non-empty value of `VerbForm`.
 10 types (4%) occur at least once with a non-empty value of `VerbForm`.
-11 lemmas (6%) occur at least once with a non-empty value of `VerbForm`.
+11 lemmas (5%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 2 part-of-speech tags: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
 
 ### `VERB`
 
-9 <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+9 <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> tokens (5% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (9; 100%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=EMPTY</tt> (8; 89%), <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (8; 89%), <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (8; 89%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (2; 22% of non-empty `VerbForm`): <em>sikasaaky, Ĩkanapyryãkasaaky</em>
 * `Vnoun` (7; 78% of non-empty `VerbForm`): <em>makinhi, faltatinhi, fawtatinhi, iatinhi, ivinitinhi, mitekatinhi</em>
-* `EMPTY` (139): <em>awa, awary, amutary, kaiãapuku, sary, apukary, awama, kaiãapukury, sããputa, 'awary</em>
+* `EMPTY` (160): <em>awa, awary, amutary, kaiãapuku, sary, apukary, awama, kaiãapukury, sããputa, 'awary</em>
 
 ### `NOUN`
 
@@ -35,7 +35,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 `NOUN` tokens may have the following values of `VerbForm`:
 
 * `Vnoun` (2; 100% of non-empty `VerbForm`): <em>iũkatsupatinhi, ysãkirawatinhi</em>
-* `EMPTY` (194): <em>iãtã, maky, ywãtãa, aapuku, kyky, ximaky, ũimiakury, awinhi, kananeã, tiwitxi</em>
+* `EMPTY` (223): <em>iãtã, awinhi, aapuku, maky, ywãtãa, kyky, sytu, ximaky, ũimiakury, aapukutxi</em>
 
 ## Relations with Agreement in `VerbForm`
 

@@ -19,4 +19,4 @@ appos(майката-6, жена-13)
 When reached_they to highway_the , mother_the - yellow and crushed woman - yet distantly looked husband her.REFL .
 appos(mother_the-6, woman-11)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:08:50 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:39 CET 2021 -->

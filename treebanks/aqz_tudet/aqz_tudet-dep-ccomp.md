@@ -22,9 +22,9 @@ The following 1 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 ccomp	color:blue
-1	oiko	ko	NOUN	n	Nomzr=Obj|Person=1	3	obj	3:obj	_
-2	tokwa	tok	VERB	vt	Trans=Yes	3	ccomp	3:ccomp	_
-3	ojã	jã	AUX	aux	Person=1	0	root	0:root	_
+1	oiko	ko	NOUN	n	Nomzr=Obj|Person=1	3	obj	_	_
+2	tokwa	tok	VERB	vt	Trans=Yes	3	ccomp	_	_
+3	ojã	jã	AUX	aux	Person=1	0	root	_	_
 
 ~~~
 

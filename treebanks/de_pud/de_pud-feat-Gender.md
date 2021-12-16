@@ -8,13 +8,14 @@ udver: '2'
 
 This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
+Some words have combined values of the feature; 1 combinations have been observed: `Masc|Neut`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="de_pud-feat-Gender.html">Gender</a></tt>, <tt><a href="de_pud-feat-Gender-psor.html">Gender[psor]</a></tt>.
 
 10195 tokens (48%) have a non-empty value of `Gender`.
-4443 types (68%) occur at least once with a non-empty value of `Gender`.
-3795 lemmas (71%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 7 part-of-speech tags: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (4133; 19% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (2781; 13% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1176; 6% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (1118; 5% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (983; 5% instances), <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+4441 types (68%) occur at least once with a non-empty value of `Gender`.
+3793 lemmas (71%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 6 part-of-speech tags: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (4133; 19% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (2784; 13% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1176; 6% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (1118; 5% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (983; 5% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -40,28 +41,30 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 ### `DET`
 
-2781 <tt><a href="de_pud-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Gender`.
+2784 <tt><a href="de_pud-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (2780; 100%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2259; 81%), <tt><a href="de_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2192; 79%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (2780; 100%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2262; 81%), <tt><a href="de_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2195; 79%).
 
 `DET` tokens may have the following values of `Gender`:
 
 * `Fem` (1156; 42% of non-empty `Gender`): <em>die, der, eine, einer, diese, den, dieser, keine, viele, alle</em>
 * `Masc` (955; 34% of non-empty `Gender`): <em>dem, der, den, die, des, ein, einen, einem, dieser, diesem</em>
+* `Masc,Neut` (3; 0% of non-empty `Gender`): <em>dem</em>
 * `Neut` (670; 24% of non-empty `Gender`): <em>das, dem, ein, des, die, den, der, einem, dies, dieses</em>
 * `EMPTY` (62): <em>die, den, the, der, a, Diese, meisten, viele, That, anderen</em>
 
 <table>
-  <tr><th>Paradigm <i>der</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>den</em></td><td><em>die</em></td><td><em>das</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>die</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>die</em></td><td><em>die</em></td><td><em>die</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>dem</em></td><td><em>der</em></td><td><em>dem</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>den</em></td><td><em>den</em></td><td><em>den</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>des, dessen</em></td><td><em>der</em></td><td><em>des</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>der, deren</em></td><td><em>der</em></td><td><em>der</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>der</em></td><td><em>die</em></td><td><em>das</em></td></tr>
-  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>die</em></td><td><em>die</em></td><td><em>die</em></td></tr>
+  <tr><th>Paradigm <i>der</i></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>den</em></td><td></td><td><em>die</em></td><td><em>das</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td><em>die</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>die</em></td><td></td><td><em>die</em></td><td><em>die</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>dem</em></td><td></td><td><em>der</em></td><td><em>dem</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td></td><td><em>dem</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>den</em></td><td></td><td><em>den</em></td><td><em>den</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>des, dessen</em></td><td></td><td><em>der</em></td><td><em>des</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>der, deren</em></td><td></td><td><em>der</em></td><td><em>der</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>der</em></td><td></td><td><em>die</em></td><td><em>das</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>die</em></td><td></td><td><em>die</em></td><td><em>die</em></td></tr>
 </table>
 
 ### `ADJ`
@@ -137,15 +140,6 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>der</em></td><td><em>die</em></td><td><em>das</em></td></tr>
   <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>die</em></td><td><em>die</em></td><td><em>die</em></td></tr>
 </table>
-
-### `ADP`
-
-3 <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Gender`.
-
-`ADP` tokens may have the following values of `Gender`:
-
-* `Neut` (3; 100% of non-empty `Gender`): <em>z., z</em>
-* `EMPTY` (2040): <em>in, von, zu, mit, für, an, auf, nach, bei, über</em>
 
 ### `NUM`
 

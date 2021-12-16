@@ -28,7 +28,7 @@ The following 8 pairs of parts of speech are connected with `reparandum`: <tt><a
 4	у	у	ADP	_	_	5	case	_	_
 5	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	0	root	_	_
 6	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	5	nsubj	_	SpaceAfter=No
-7	?	?	PUNCT	_	_	5	punct	_	_
+7	?	?	PUNCT	_	_	5	punct	_	_~
 
 ~~~
 
@@ -71,7 +71,7 @@ The following 8 pairs of parts of speech are connected with `reparandum`: <tt><a
 30	ы	ы	X	_	_	28	parataxis	_	SpaceAfter=No
 31	]	]	PUNCT	_	_	30	punct	_	SpaceAfter=No
 32	...	...	PUNCT	_	_	28	punct	_	_
-33	пнулся	запнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	7	reparandum	_	_
+33	пнулся	запнуться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	7	reparandum	_	_~
 
 ~~~
 
@@ -254,7 +254,7 @@ The following 8 pairs of parts of speech are connected with `reparandum`: <tt><a
 170	Если	если	SCONJ	_	_	172	mark	_	_
 171	не	не	PART	_	Polarity=Neg	172	advmod	_	_
 172	ошибаюсь	ошибаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	162	advcl	_	SpaceAfter=No
-173	.	.	PUNCT	_	_	1	punct	_	_
+173	.	.	PUNCT	_	_	1	punct	_	_~
 
 ~~~
 

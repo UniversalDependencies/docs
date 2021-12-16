@@ -24,7 +24,7 @@ The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 4 8 ccomp	color:blue
 1	Dengan	dengan	ADP	_	_	2	case	_	_
 2	ini	ini	PRON	_	PronType=Dem	4	obl	_	_
-3	saya	saya	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+3	saya	saya	PRON	_	Number=Sing|Person=1|Polite=Form|PronType=Prs	4	nsubj	_	_
 4	menyatakan	nyata	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
 5	pertandingan	tanding	NOUN	_	Number=Sing	8	nsubj	_	_
 6	Olimpiade	Olimpiade	PROPN	_	_	5	nmod	_	_
@@ -66,7 +66,7 @@ The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href
 8	itu	itu	PRON	_	PronType=Dem	10	nsubj	_	_
 9	juga	juga	ADV	_	_	10	advmod	_	_
 10	pertemuan	temu	NOUN	_	Number=Sing	6	ccomp	_	_
-11	kami	kami	PRON	_	Clusivity=Ex|Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	_
+11	kami	kami	PRON	_	Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	10	nmod:poss	_	_
 12	yang	yang	PRON	_	PronType=Rel	13	nsubj	_	_
 13	terakhir	akhir	ADJ	_	Degree=Sup	10	acl:relcl	_	_
 14	dengan	dengan	ADP	_	_	16	case	_	_

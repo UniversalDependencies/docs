@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 2 other language-specific subtypes of `obl`: <tt><a href="pcm_nsc-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="pcm_nsc-dep-obl-mod.html">obl:mod</a></tt>.
 
-11 nodes (0%) are attached to their parents as `obl:agent`.
+18 nodes (0%) are attached to their parents as `obl:agent`.
 
-11 instances of `obl:agent` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.81818181818182.
+18 instances of `obl:agent` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.94444444444444.
 
-The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (9; 82% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 9% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (1; 9% instances).
+The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (16; 89% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt>-<tt><a href="pcm_nsc-pos-X.html">X</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -94,7 +94,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 45	as	as	ADP	_	_	47	mark	_	AlignBegin=47840|AlignEnd=48040|Gloss=as
 46	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	47	nsubj	_	AlignBegin=48040|AlignEnd=48100|Gloss=NOM.SG.3
 47	be	be	VERB	_	PartType=Cop	44	ccomp	_	AlignBegin=48100|AlignEnd=48290|Gloss=be
-48	o	o	PART	_	PartType=Disc	47	advmod	_	AlignBegin=48290|AlignEnd=48510|Gloss=EMPH
+48	o	o	PART	_	PartType=Disc	44	advmod	_	AlignBegin=48290|AlignEnd=48510|Gloss=EMPH
 49	]	]	X	_	_	44	dep	_	AlignBegin=48510|AlignEnd=48540|Gloss=PUNCT
 50	//	//	X	_	_	4	dep	_	AlignBegin=48510|AlignEnd=48540|Gloss=PUNCT
 
@@ -122,7 +122,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 13	Ibeju	Ibeju	PROPN	_	_	12	flat	_	AlignBegin=217520|AlignEnd=218000|Gloss=Ibeju
 14	Lekki	Lekki	PROPN	_	_	12	flat	_	AlignBegin=218000|AlignEnd=218293|Gloss=Lekki
 15	for	for	ADP	_	_	16	case	_	AlignBegin=218293|AlignEnd=218460|Gloss=for
-16	Lagos	Lagos	PROPN	_	_	14	nmod	_	AlignBegin=218460|AlignEnd=218836|ExtPos=PROPN|Gloss=Lagos|PhraseType=Title
+16	Lagos	Lagos	PROPN	_	_	14	nmod	_	AlignBegin=218460|AlignEnd=218836|ExtPos=PROPN|Gloss=Lagos|Title=Yes
 17	State	state	NOUN	_	_	16	flat	_	AlignBegin=218836|AlignEnd=219210|Gloss=state|InTitle=Yes
 18	<	<	X	_	_	7	dep	_	AlignBegin=219210|AlignEnd=219240|Gloss=PUNCT
 19	#	#	X	_	_	7	dep	_	AlignBegin=219240|AlignEnd=219540|Gloss=PUNCT
@@ -130,7 +130,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 21	don	don	AUX	_	Aspect=Perf	22	aux	_	AlignBegin=219661|AlignEnd=219870|Gloss=PRF
 22	catch	catch	VERB	_	_	3	parataxis	_	AlignBegin=219870|AlignEnd=220110|Gloss=catch
 23	am	am	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	22	obj	_	AlignBegin=220110|AlignEnd=220340|Gloss=ACC.SG.3
-24	o	o	PART	_	PartType=Disc	23	advmod	_	AlignBegin=220340|AlignEnd=220480|Gloss=EMPH
+24	o	o	PART	_	PartType=Disc	22	advmod	_	AlignBegin=220340|AlignEnd=220480|Gloss=EMPH
 25	#	#	X	_	_	28	dep	_	AlignBegin=220480|AlignEnd=220656|Gloss=PUNCT
 26	by	by	ADP	_	_	28	case	_	AlignBegin=220656|AlignEnd=220946|Gloss=by
 27	{	{	X	_	_	28	dep	_	AlignBegin=220946|AlignEnd=220976|Gloss=PUNCT
@@ -140,11 +140,11 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 31	}	}	X	_	_	28	dep	_	AlignBegin=221942|AlignEnd=221972|Gloss=PUNCT
 32	of	of	ADP	_	_	34	case	_	AlignBegin=221972|AlignEnd=222136|Gloss=of
 33	di	di	DET	_	Definite=Def|PronType=Art	34	det	_	AlignBegin=222136|AlignEnd=222237|Gloss=DEF.ART
-34	Lagos	Lagos	PROPN	_	_	30	nmod	_	AlignBegin=222237|AlignEnd=222600|ExtPos=PROPN|Gloss=Lagos|PhraseType=Title
+34	Lagos	Lagos	PROPN	_	_	30	nmod	_	AlignBegin=222237|AlignEnd=222600|ExtPos=PROPN|Gloss=Lagos|Title=Yes
 35	State	state	NOUN	_	_	34	flat	_	AlignBegin=222600|AlignEnd=222786|Gloss=state|InTitle=Yes
 36	Command	command	NOUN	_	_	34	flat	_	AlignBegin=222786|AlignEnd=223350|ExtPos=PROPN|Gloss=command|InTitle=Yes
 37	#	#	X	_	_	44	dep	_	AlignBegin=223350|AlignEnd=223541|Gloss=PUNCT
-38	on	on	ADP	_	_	44	mark	_	AlignBegin=223541|AlignEnd=223731|ExtPos=ADP|Gloss=on|PhraseType=Idiom
+38	on	on	ADP	_	_	44	mark	_	AlignBegin=223541|AlignEnd=223731|ExtPos=ADP|Gloss=on|Idiom=Yes
 39	top	top	NOUN	_	_	38	fixed	_	AlignBegin=223731|AlignEnd=223973|Gloss=top|InIdiom=Yes
 40	sey	sey	SCONJ	_	_	38	fixed	_	AlignBegin=223973|AlignEnd=224241|Gloss=COMP|InIdiom=Yes
 41	[	[	X	_	_	44	dep	_	AlignBegin=224241|AlignEnd=224271|Gloss=PUNCT

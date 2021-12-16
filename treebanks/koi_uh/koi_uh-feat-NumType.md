@@ -41,7 +41,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 * `Card` (1; 20% of non-empty `NumType`): <em>ӧтикӧ</em>
 * `MultDist` (2; 40% of non-empty `NumType`): <em>кыкисьӧн, кыкисьӧн-куимисьӧн</em>
 * `OrdMult` (2; 40% of non-empty `NumType`): <em>дасöтiсь</em>
-* `EMPTY` (77): <em>кыдз, ни, кӧр, сэсся, сё, талун, чожа, эшӧ, кынымкӧ, кытӧн</em>
+* `EMPTY` (78): <em>кыдз, ни, кӧр, сэсся, сё, талун, чожа, эшӧ, кынымкӧ, кытӧн</em>
 
 ### `ADJ`
 
@@ -52,5 +52,5 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (2; 100% of non-empty `NumType`): <em>Куимӧдз, витӧдз</em>
-* `EMPTY` (29): <em>буржык, ыджыт, важ, честнӧй, бур, быльнӧй, веськытлань, гажаӧсь, долыт, июльскӧй</em>
+* `EMPTY` (31): <em>буржык, ыджыт, важ, честнӧй, бур, быльнӧй, веськытлань, гажаӧсь, долыт, июльскӧй</em>
 

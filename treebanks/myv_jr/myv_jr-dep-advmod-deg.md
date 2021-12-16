@@ -24,7 +24,7 @@ The following 9 pairs of parts of speech are connected with `advmod:deg`: <tt><a
 # visual-style 5	fgColor:white
 # visual-style 5 4 advmod:deg	color:blue
 1	Лиссь	лисемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|Valency=1	0	root	_	GTtags=IV,Ind,Prt1,ScSg3
-2	Ястребов	Ястребов	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|Gender=Masc|NameType=Sur|Number=Sing	1	nsubj	_	GTtags=Prop,Sur_Mal,Sg,Nom,Indef|SpaceAfter=No
+2	Ястребов	Ястребов	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	1	nsubj	_	GTtags=Prop,Sur_Mal,Sg,Nom,Indef|SpaceAfter=No
 3	,	,	PUNCT	CLB	_	5	punct	_	_
 4	седеяк	седеяк	ADV	Adv	Clitic=Add|Degree=Cmp	5	advmod:deg	_	GTtags=Degree=Cmp,Clt/Gak
 5	нусманясто	нусманясто	ADV	Adv	AdvType=Sta	2	acl	_	GTtags=State|SpaceAfter=No

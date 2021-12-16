@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Flavio Massimiliano Cecchini, Giovanni Moretti, Marco Passarotti, Rachele Sprugnoli.
 
 Repository: [UD_Latin-UDante](https://github.com/UniversalDependencies/UD_Latin-UDante)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_udante28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_udante29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -85,17 +85,17 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
 
 ## Features
 
-[Abbr](la_udante-feat-Abbr.html) – [AdpType](la_udante-feat-AdpType.html) – [Aspect](la_udante-feat-Aspect.html) – [Case](la_udante-feat-Case.html) – [Clitic](la_udante-feat-Clitic.html) – [Compound](la_udante-feat-Compound.html) – [ConjType](la_udante-feat-ConjType.html) – [Degree](la_udante-feat-Degree.html) – [Emphatic](la_udante-feat-Emphatic.html) – [Foreign](la_udante-feat-Foreign.html) – [Gender](la_udante-feat-Gender.html) – [InflClass](la_udante-feat-InflClass.html) – [InflClass[noun]](la_udante-feat-InflClass-noun.html) – [Mood](la_udante-feat-Mood.html) – [NameType](la_udante-feat-NameType.html) – [Number](la_udante-feat-Number.html) – [Number[psor]](la_udante-feat-Number-psor.html) – [NumForm](la_udante-feat-NumForm.html) – [NumType](la_udante-feat-NumType.html) – [PartType](la_udante-feat-PartType.html) – [Person](la_udante-feat-Person.html) – [Person[psor]](la_udante-feat-Person-psor.html) – [Polarity](la_udante-feat-Polarity.html) – [Poss](la_udante-feat-Poss.html) – [PronType](la_udante-feat-PronType.html) – [Proper](la_udante-feat-Proper.html) – [Reflex](la_udante-feat-Reflex.html) – [Tense](la_udante-feat-Tense.html) – [Variant](la_udante-feat-Variant.html) – [VerbForm](la_udante-feat-VerbForm.html) – [Voice](la_udante-feat-Voice.html)
+[Abbr](la_udante-feat-Abbr.html) – [AdpType](la_udante-feat-AdpType.html) – [AdvType](la_udante-feat-AdvType.html) – [Aspect](la_udante-feat-Aspect.html) – [Case](la_udante-feat-Case.html) – [Clitic](la_udante-feat-Clitic.html) – [Compound](la_udante-feat-Compound.html) – [ConjType](la_udante-feat-ConjType.html) – [Degree](la_udante-feat-Degree.html) – [Foreign](la_udante-feat-Foreign.html) – [Form](la_udante-feat-Form.html) – [Gender](la_udante-feat-Gender.html) – [InflClass](la_udante-feat-InflClass.html) – [InflClass[nominal]](la_udante-feat-InflClass-nominal.html) – [Mood](la_udante-feat-Mood.html) – [NameType](la_udante-feat-NameType.html) – [Number](la_udante-feat-Number.html) – [Number[psor]](la_udante-feat-Number-psor.html) – [NumForm](la_udante-feat-NumForm.html) – [NumType](la_udante-feat-NumType.html) – [PartType](la_udante-feat-PartType.html) – [Person](la_udante-feat-Person.html) – [Person[psor]](la_udante-feat-Person-psor.html) – [Polarity](la_udante-feat-Polarity.html) – [Poss](la_udante-feat-Poss.html) – [PronType](la_udante-feat-PronType.html) – [Proper](la_udante-feat-Proper.html) – [Reflex](la_udante-feat-Reflex.html) – [Tense](la_udante-feat-Tense.html) – [Variant](la_udante-feat-Variant.html) – [VerbForm](la_udante-feat-VerbForm.html) – [Voice](la_udante-feat-Voice.html)
 
 ## Relations
 
-[acl](la_udante-dep-acl.html) – [acl:relcl](la_udante-dep-acl-relcl.html) – [advcl](la_udante-dep-advcl.html) – [advcl:abs](la_udante-dep-advcl-abs.html) – [advcl:cmpr](la_udante-dep-advcl-cmpr.html) – [advcl:pred](la_udante-dep-advcl-pred.html) – [advmod](la_udante-dep-advmod.html) – [advmod:emph](la_udante-dep-advmod-emph.html) – [advmod:neg](la_udante-dep-advmod-neg.html) – [amod](la_udante-dep-amod.html) – [appos](la_udante-dep-appos.html) – [aux](la_udante-dep-aux.html) – [aux:pass](la_udante-dep-aux-pass.html) – [case](la_udante-dep-case.html) – [cc](la_udante-dep-cc.html) – [ccomp](la_udante-dep-ccomp.html) – [conj](la_udante-dep-conj.html) – [conj:expl](la_udante-dep-conj-expl.html) – [cop](la_udante-dep-cop.html) – [csubj](la_udante-dep-csubj.html) – [csubj:cleft](la_udante-dep-csubj-cleft.html) – [csubj:pass](la_udante-dep-csubj-pass.html) – [det](la_udante-dep-det.html) – [discourse](la_udante-dep-discourse.html) – [dislocated:nsubj](la_udante-dep-dislocated-nsubj.html) – [dislocated:obj](la_udante-dep-dislocated-obj.html) – [expl:pass](la_udante-dep-expl-pass.html) – [fixed](la_udante-dep-fixed.html) – [flat](la_udante-dep-flat.html) – [flat:foreign](la_udante-dep-flat-foreign.html) – [flat:name](la_udante-dep-flat-name.html) – [mark](la_udante-dep-mark.html) – [nmod](la_udante-dep-nmod.html) – [nmod:poss](la_udante-dep-nmod-poss.html) – [nsubj](la_udante-dep-nsubj.html) – [nsubj:cleft](la_udante-dep-nsubj-cleft.html) – [nsubj:pass](la_udante-dep-nsubj-pass.html) – [nummod](la_udante-dep-nummod.html) – [obj](la_udante-dep-obj.html) – [obl](la_udante-dep-obl.html) – [obl:agent](la_udante-dep-obl-agent.html) – [obl:arg](la_udante-dep-obl-arg.html) – [obl:cmpr](la_udante-dep-obl-cmpr.html) – [orphan](la_udante-dep-orphan.html) – [parataxis](la_udante-dep-parataxis.html) – [parataxis:rep](la_udante-dep-parataxis-rep.html) – [punct](la_udante-dep-punct.html) – [reparandum](la_udante-dep-reparandum.html) – [root](la_udante-dep-root.html) – [vocative](la_udante-dep-vocative.html) – [xcomp](la_udante-dep-xcomp.html) – [xcomp:pred](la_udante-dep-xcomp-pred.html)
+[acl](la_udante-dep-acl.html) – [acl:relcl](la_udante-dep-acl-relcl.html) – [advcl](la_udante-dep-advcl.html) – [advcl:abs](la_udante-dep-advcl-abs.html) – [advcl:cmpr](la_udante-dep-advcl-cmpr.html) – [advcl:pred](la_udante-dep-advcl-pred.html) – [advmod](la_udante-dep-advmod.html) – [advmod:emph](la_udante-dep-advmod-emph.html) – [advmod:lmod](la_udante-dep-advmod-lmod.html) – [advmod:neg](la_udante-dep-advmod-neg.html) – [advmod:tmod](la_udante-dep-advmod-tmod.html) – [amod](la_udante-dep-amod.html) – [appos](la_udante-dep-appos.html) – [aux](la_udante-dep-aux.html) – [aux:pass](la_udante-dep-aux-pass.html) – [case](la_udante-dep-case.html) – [cc](la_udante-dep-cc.html) – [ccomp](la_udante-dep-ccomp.html) – [conj](la_udante-dep-conj.html) – [conj:expl](la_udante-dep-conj-expl.html) – [cop](la_udante-dep-cop.html) – [csubj](la_udante-dep-csubj.html) – [csubj:cleft](la_udante-dep-csubj-cleft.html) – [csubj:pass](la_udante-dep-csubj-pass.html) – [det](la_udante-dep-det.html) – [discourse](la_udante-dep-discourse.html) – [dislocated:csubj](la_udante-dep-dislocated-csubj.html) – [dislocated:nsubj](la_udante-dep-dislocated-nsubj.html) – [dislocated:obj](la_udante-dep-dislocated-obj.html) – [expl:pass](la_udante-dep-expl-pass.html) – [fixed](la_udante-dep-fixed.html) – [flat](la_udante-dep-flat.html) – [flat:foreign](la_udante-dep-flat-foreign.html) – [flat:gov](la_udante-dep-flat-gov.html) – [flat:name](la_udante-dep-flat-name.html) – [mark](la_udante-dep-mark.html) – [nmod](la_udante-dep-nmod.html) – [nmod:poss](la_udante-dep-nmod-poss.html) – [nsubj](la_udante-dep-nsubj.html) – [nsubj:cleft](la_udante-dep-nsubj-cleft.html) – [nsubj:pass](la_udante-dep-nsubj-pass.html) – [nummod](la_udante-dep-nummod.html) – [obj](la_udante-dep-obj.html) – [obl](la_udante-dep-obl.html) – [obl:agent](la_udante-dep-obl-agent.html) – [obl:arg](la_udante-dep-obl-arg.html) – [obl:cmpr](la_udante-dep-obl-cmpr.html) – [orphan](la_udante-dep-orphan.html) – [parataxis](la_udante-dep-parataxis.html) – [parataxis:rep](la_udante-dep-parataxis-rep.html) – [punct](la_udante-dep-punct.html) – [reparandum](la_udante-dep-reparandum.html) – [root](la_udante-dep-root.html) – [vocative](la_udante-dep-vocative.html) – [xcomp](la_udante-dep-xcomp.html) – [xcomp:pred](la_udante-dep-xcomp-pred.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 1721 sentences, 55286 tokens and 55493 syntactic words.</li>
+<li>This corpus contains 1721 sentences, 55286 tokens and 55495 syntactic words.</li>
 </ul>
 
 <ul>
@@ -111,8 +111,8 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
 </ul>
 
 <ul>
-<li>This corpus contains 204 multi-word tokens. On average, one multi-word token consists of 2.01 syntactic words.</li>
-<li>There are 141 types of multi-word tokens. Examples: nonne, cumque, mecum, nunquid, Quidni, vobiscum, Romanorumque, eademque, eamque, eiusque, eodemque, hirteque, iamque, nobiscum, romanaque, secum, seipsum, tecum, torquibusque, vosmetipsos, Cesarisque, Dantisque, Estne, Francorumque, Graiumque, Hiique, Hocne, Latinorumque, Niseque, Priamique, Quadrifluumne, Quodque, Romuleoque, Utque, Vosne, abmotimque, accentibusque, alipedesque, aliusque, animusque, armentaque, armisque, arrectisque, asperorumque, assuetaque, astricoleque, astrorumque, barbariusque, belloque, breviusque.</li>
+<li>This corpus contains 206 multi-word tokens. On average, one multi-word token consists of 2.01 syntactic words.</li>
+<li>There are 142 types of multi-word tokens. Examples: nonne, cumque, mecum, nunquid, Quidni, vobiscum, Romanorumque, eademque, eamque, eiusque, eodemque, hirteque, iamque, nobiscum, romanaque, secum, seipsum, sive, tecum, torquibusque, vosmetipsos, Cesarisque, Dantisque, Estne, Francorumque, Graiumque, Hiique, Hocne, Latinorumque, Niseque, Priamique, Quadrifluumne, Quodque, Romuleoque, Utque, Vosne, abmotimque, accentibusque, alipedesque, aliusque, animusque, armentaque, armisque, arrectisque, asperorumque, assuetaque, astricoleque, astrorumque, barbariusque, belloque.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -125,7 +125,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
 </ul>
 
 <ul>
-<li>This corpus contains 22 word types tagged as particles (PART): Ecce, Siquidem, an, en, enim, equidem, etenim, etiam, igitur, itaque, met, nam, namque, nanque, ne, nempe, ni, non, num, o, quidem, quippe</li>
+<li>This corpus contains 21 word types tagged as particles (PART): Ecce, Siquidem, an, en, enim, equidem, etenim, etiam, igitur, itaque, met, nam, namque, nanque, ne, nempe, ni, non, num, o, quidem</li>
 </ul>
 
 <ul>
@@ -133,7 +133,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
 </ul>
 
 <ul>
-<li>This corpus contains 55 lemmas tagged as determiners (DET): aliqualis, aliqui, alius, alter, alteruter, ambo, ceterus, cunctus, hic, hoc, huiusmodi, idem, ille, ipse, iste, istis, meus, multus, neuter, nonnullus, noster, nullus, omne, omnis, paucus, plerusque, qualis, quamplures, quantum, quantus, quantuslibet, qui, quicumque, quidam, quilibet, quispiam, quisquam, quisque, quot, reliquus, solus, suus, talis, tantus, tot, totidem, totus, tuus, uester, ullus, uniuersus, unus, unusquisque, uos, uterque</li>
+<li>This corpus contains 54 lemmas tagged as determiners (DET): aliqualis, aliqui, alius, alter, alteruter, ambo, ceterus, cunctus, hic, huiusmodi, idem, ille, ipse, iste, istis, meus, multus, neuter, nonnullus, noster, nullus, omne, omnis, paucus, plerusque, qualis, quamplures, quantum, quantus, quantuslibet, qui, quicumque, quidam, quilibet, quispiam, quisquam, quisque, quot, reliquus, solus, suus, talis, tantus, tot, totidem, totus, tuus, uester, ullus, uniuersus, unus, unusquisque, uos, uterque</li>
 </ul>
 
 <ul>
@@ -198,7 +198,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
     <li>ADP: adversus, versus</li>
     <li>ADV: deorsum, sufficienter, inmediate, sursum, prorsus, recte, merito, subito, absolute, diligenter</li>
     <li>AUX: ens, futura, futuram, futuris, futuro, futurum</li>
-    <li>NOUN: natura, nature, naturam, subiectum, versus, effectus, actus, cantus, peccatum, spiritus</li>
+    <li>NOUN: natura, nature, naturam, subiectum, peccatum, figura, gentium, gentes, coniunx, ente</li>
     <li>VERB: dictum, existente, dicens, dicta, existens, factum, facta, datum, causatum, factus</li>
   </ul>
   </li>
@@ -207,6 +207,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
 <ul>
   <li>Sup
   <ul>
+    <li>NOUN: versus, effectus, actus, cantus, spiritus, versibus, intellectu, sensum, intellectus, sensus</li>
     <li>VERB: actu</li>
   </ul>
   </li>
@@ -247,12 +248,14 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       <li>AUX-Part: futurum</li>
       <li>DET: omnes, ipse, ille, ipsum, alii, omnibus, quidam, aliis, illum, hic</li>
       <li>NOUN: Dei, Deus, mundi, Deo, homo, finem, finis, homines, modo, hominem</li>
-      <li>NOUN-Part: versus, effectus, actus, cantus, spiritus, versibus, intellectu, sensum, intellectus, sensus</li>
+      <li>NOUN-Part: soni, punctus, sonus, sponsum, subditorum, Ducatus, coniugibus, legati, legato, legatos</li>
+      <li>NOUN-Sup: versus, effectus, actus, cantus, spiritus, versibus, intellectu, sensum, intellectus, sensus</li>
       <li>NUM: unum, duo, duos, unus, duobus, tres, uni, uno, duorum, unius</li>
       <li>PRON: qui, eius, quem, quo, quis, quos, eorum, eo, quorum, cui</li>
       <li>PROPN: Cristus, Petrus, Cristi, Petri, Cristum, Livius, Israel, Nicomacum, Cesaris, Guido</li>
       <li>VERB-Gdv: reducendus, audiendus, dicendi, excludendi, associandi, defensandum, detestandum, fugiendis, habendi, habendus</li>
       <li>VERB-Part: dicens, existente, factus, usi, dicentes, dicentem, loquens, poetati, volentes, agens</li>
+      <li>VERB-Sup: actu</li>
     </ul>
   </li>
 </ul>
@@ -267,6 +270,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       <li>DET: hoc, illud, aliud, omnia, hiis, ipsum, hec, omne, totum, illa</li>
       <li>NOUN: genus, iure, imperium, celum, vulgare, iudicium, bonum, principium, verba, celo</li>
       <li>NOUN-Part: subiectum, peccatum, ente, subiecto, littora, decreta, dicto, ens, entia, fluenta</li>
+      <li>NOUN-Sup: promptu, decursus</li>
       <li>NUM: unum, duo, tria, duorum, tribus, uno, duobus, unius, centum, uni</li>
       <li>PRON: quod, que, quo, quid, ea, nichil, aliquid, quicquid, quibus, eo</li>
       <li>PROPN: Latio, Politicis, Capitolium, Menala, Aquino, Bornello, Bornio, Capitolia, Latium, Mediolani</li>
@@ -293,7 +297,8 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       <li>AUX-Part: futuris</li>
       <li>DET: omnes, hiis, omnia, omnibus, aliis, suis, hec, quedam, omnium, illa</li>
       <li>NOUN: homines, verba, pedes, hominum, cantiones, carminum, leges, signa, partes, rerum</li>
-      <li>NOUN-Part: versus, versibus, gentium, gentes, littora, saltus, decreta, kalendas, actibus, effectibus</li>
+      <li>NOUN-Part: gentium, gentes, littora, decreta, kalendas, entia, fluenta, Scripturis, dicta, facta</li>
+      <li>NOUN-Sup: versus, versibus, saltus, actibus, effectibus, habitus, sonitus, accentibus, actus, cantibus</li>
       <li>NUM: duo, tria, duorum, duobus, tres, duos, tribus, duas, due, duodecim</li>
       <li>PRON: que, qui, nobis, nos, eorum, ea, quibus, vobis, quorum, quos</li>
       <li>PROPN: Politicis, Grai, Menala, Capitolia, Curiatios, Deciis, Deciorum, Fauni, Gadibus, Ghisileriis</li>
@@ -315,7 +320,8 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       <li>AUX-Part: ens, futura, futuram, futuro, futurum</li>
       <li>DET: hoc, illud, ipsum, illa, aliud, huius, sua, ipse, ille, ipsa</li>
       <li>NOUN: Dei, Deus, natura, terra, parte, mundi, genus, ratio, Deo, iure</li>
-      <li>NOUN-Part: natura, nature, naturam, subiectum, peccatum, spiritus, cantus, effectus, figura, intellectu</li>
+      <li>NOUN-Part: natura, nature, naturam, subiectum, peccatum, figura, coniunx, ente, figuram, gentem</li>
+      <li>NOUN-Sup: spiritus, cantus, effectus, intellectu, sensum, actus, intellectus, situ, tractatus, actu</li>
       <li>NUM: unum, uno, una, unus, uni, unius, unam</li>
       <li>PRON: quod, qui, quo, que, eius, quam, quid, me, te, quem</li>
       <li>PROPN: Cristus, Petrus, Cristi, Ytalie, Petri, Cristum, Livius, Israel, Nicomacum, Cesaris</li>
@@ -324,6 +330,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       <li>VERB-Ger: loquendo, subiciendo, regendum, affirmando, auctorizandi, merendo, operando, ostendendum, premiandi, puniendi</li>
       <li>VERB-Inf: repertum</li>
       <li>VERB-Part: dictum, existente, dicens, existens, factum, datum, causatum, factus, presens, loquens</li>
+      <li>VERB-Sup: actu</li>
     </ul>
   </li>
 </ul>
@@ -341,7 +348,8 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       <li>AUX-Part: futuris, futuro</li>
       <li>DET: hiis, illo, omnibus, sua, suis, aliis, hac, hoc, illa, suo</li>
       <li>NOUN: parte, iure, modo, celo, ratione, principio, forma, tempore, genere, natura</li>
-      <li>NOUN-Part: natura, versibus, intellectu, situ, actu, assensu, ente, respectu, subiecto, ambitu</li>
+      <li>NOUN-Part: natura, ente, subiecto, figura, dicto, Scripturis, incepto, mensura, meritis, precepto</li>
+      <li>NOUN-Sup: versibus, intellectu, situ, actu, assensu, respectu, ambitu, motu, spiritu, auditu</li>
       <li>NUM: duobus, uno, tribus, duabus, una</li>
       <li>PRON: quo, eo, qua, se, quibus, vobis, me, nobis, ea, te</li>
       <li>PROPN: Tuscia, Ytalia, Florentia, Europa, VIRGILIO, Cesare, Cristo, Politicis, Annibale, Asya</li>
@@ -362,7 +370,8 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       <li>AUX-Part: ens, futuram, futurum</li>
       <li>DET: hoc, ipsum, illud, suam, hanc, omnia, illam, illum, hec, ipsam</li>
       <li>NOUN: finem, hominem, modum, imperium, naturam, veritatem, vulgare, causam, genus, pedes</li>
-      <li>NOUN-Part: naturam, sensum, versus, actum, figuram, gentem, habitum, respectum, subiectum, intellectum</li>
+      <li>NOUN-Part: naturam, figuram, gentem, subiectum, decreta, kalendas, fluenta, gentes, mensuram, peccatum</li>
+      <li>NOUN-Sup: sensum, versus, actum, habitum, respectum, intellectum, effectum, motum, oppositum, principatum</li>
       <li>NUM: unum, duo, duos, duas, tria, tres, unam</li>
       <li>PRON: quod, se, quam, que, quem, te, me, quid, ea, aliquid</li>
       <li>PROPN: Cristum, Nicomacum, Ytaliam, Eneam, Petrum, Florentiam, Romam, Cesarem, Guidonem, Mopsum</li>
@@ -381,7 +390,8 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       <li>ADJ-Part: attentis, paratis</li>
       <li>DET: omnibus, aliis, alteri, cunctis, illi, soli, suis, illis, suo, huic</li>
       <li>NOUN: Ecclesie, domino, homini, iustitie, terre, domine, hominibus, imperio, nature, principibus</li>
-      <li>NOUN-Part: nature, sensui, Scripture, consulto, contextui, genti, legato, narratibus, peccatis</li>
+      <li>NOUN-Part: nature, Scripture, genti, legato, peccatis</li>
+      <li>NOUN-Sup: sensui, consulto, contextui, narratibus</li>
       <li>NUM: uni, duobus</li>
       <li>PRON: sibi, nobis, tibi, cui, vobis, michi, ei, eis, quibus, mi</li>
       <li>PROPN: Enee, Mopso, Cesari, Cristo, Margarite, Petro, DANTI, IOHANNI, Moysi, Pilato</li>
@@ -398,7 +408,8 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       <li>ADJ-Part: consequentis, Sancti, altissimi, oppositorum, perfecti, sancte</li>
       <li>DET: huius, omnium, totius, sue, illius, aliorum, ipsius, sui, nostre, horum</li>
       <li>NOUN: Dei, mundi, terre, Ecclesie, imperii, hominum, iuris, rei, nature, celi</li>
-      <li>NOUN-Part: nature, gentium, cantus, principatus, cursus, Spiritus, Sponse, peccati, soni, tractatus</li>
+      <li>NOUN-Part: nature, gentium, Sponse, peccati, soni, gentis, litoris, meritorum, subditorum, Scripturarum</li>
+      <li>NOUN-Sup: cantus, principatus, cursus, Spiritus, tractatus, accentus, actus, affectus, habituum, intellectus</li>
       <li>NUM: duorum, unius, duarum, trium</li>
       <li>PRON: eius, cuius, eorum, quorum, sui, earum, alicuius, quarum, aliquorum, cuiuscunque</li>
       <li>PROPN: Cristi, Ytalie, Petri, Cesaris, Alagherii, Christi, Europe, Sarni, ALAGHERII, Henrici</li>
@@ -426,9 +437,10 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       <li>AUX-Part: futura</li>
       <li>DET: hoc, hec, illa, aliud, ipse, ille, omnes, quedam, illud, omnis</li>
       <li>NOUN: ratio, homo, pars, finis, aqua, natura, terra, causa, genus, virtus</li>
-      <li>NOUN-Part: natura, subiectum, effectus, actus, peccatum, spiritus, coniunx, intellectus, sensus, versus</li>
+      <li>NOUN-Part: natura, subiectum, peccatum, coniunx, littora, figura, gentes, mensura, ens, gens</li>
+      <li>NOUN-Sup: effectus, actus, spiritus, intellectus, sensus, versus, status, tractatus, cantus, respectus</li>
       <li>NUM: duo, unum, tria, unus, tres, una, due</li>
-      <li>PRON: quod, que, qui, quis, quid, nichil, nos, quicquid, tu, id</li>
+      <li>PRON: que, quod, qui, quis, quid, nichil, nos, quicquid, tu, id</li>
       <li>PROPN: Cristus, Petrus, Livius, Guido, Lucanus, Mopsus, Lucas, Tityrus, Tullius, Cesar</li>
       <li>VERB-Gdv: sciendum, dicendum, advertendum, canenda, querenda, videndum, agendum, intelligendum, notandum, cavendum</li>
       <li>VERB-Part: dictum, dicens, existens, dicta, facta, factum, datum, factus, usi, dicentes</li>
@@ -579,7 +591,6 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       <li>VERB-Fin: fecit, inquit, dixit, potuit, diximus, persuasit, vidit, dedit, cepit, dixi</li>
       <li>VERB-Inf: dixisse, cecinisse, poetasse, transcendisse, vidisse, cognovisse, divertisse, intendisse, obtinuisse, remansisse</li>
       <li>VERB-Part: dictum, factum, dicta, facta, datum, causatum, factus, usi, probatum, considerata</li>
-      <li>VERB-Sup: actu</li>
     </ul>
   </li>
 </ul>
@@ -678,7 +689,6 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       <li>VERB-Fin: potest, patet, habet, dicimus, dicit, dico, oportet, dicunt, possit, debet</li>
       <li>VERB-Inf: habere, facere, dicere, posse, solvere, velle, ligare, agere, videre, dependere</li>
       <li>VERB-Part: existente, dicens, existens, presens, dicentes, loquens, agentis, dicentem, habens, loquentem</li>
-      <li>VERB-Sup: actu</li>
     </ul>
   </li>
 </ul>
@@ -704,11 +714,20 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
 </ul>
 
 <ul>
+  <li>Con
+    <ul>
+      <li>ADV: solum</li>
+      <li>DET: aliud, alia, aliis, alii, aliorum, sola, alios, alterum, solus, solo</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Dem
     <ul>
       <li>ADV: sic, tamen, tam, tantum, tunc, ita, hic, tanto, tum, huc</li>
       <li>CCONJ: tum, tamen</li>
-      <li>DET: hoc, illa, illud, hec, huius, hiis, ille, illo, ista, hac</li>
+      <li>DET: hoc, illa, illud, hec, ipsum, huius, hiis, ipsa, ipse, ille</li>
       <li>PART: itaque, Ecce</li>
       <li>SCONJ: sic</li>
     </ul>
@@ -716,18 +735,10 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
 </ul>
 
 <ul>
-  <li>Emp
-    <ul>
-      <li>ADV: solum</li>
-      <li>DET: ipsum, ipsa, ipse, idem, ipsam, sola, ipso, solus, ipsi, ipsius</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li>Ind
     <ul>
-      <li>DET: aliud, quedam, alia, aliis, alii, quidam, aliorum, una, alios, multa</li>
+      <li>ADV: undique</li>
+      <li>DET: quedam, quidam, una, multa, aliqua, aliquod, quoddam, unum, plura, quandam</li>
       <li>PRON: aliquid, quis, quid, alicuius, aliquo, aliqua, aliquis, aliquorum, aliquam, aliquos</li>
     </ul>
   </li>
@@ -736,9 +747,9 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
 <ul>
   <li>Int
     <ul>
-      <li>ADV: quid, utrum</li>
+      <li>ADV: quid, quam, utrum</li>
       <li>DET: quanta, que, quantis, quot, Quantos, quales, qualia, qualibus, qualis, quante</li>
-      <li>PRON: quid, quis, quo, quos, ubi, cui, cuius, quem, quod</li>
+      <li>PRON: quid, quis, cuius, quo, quos, ubi, cui, quem, quod</li>
     </ul>
   </li>
 </ul>
@@ -772,10 +783,9 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
 <ul>
   <li>Rel
     <ul>
-      <li>ADV: quid, quantum, quandoque, quando, quo, quasi, undique, qua, qualiter, ubique</li>
+      <li>ADV: quid, quantum, quandoque, quando, quo, quippe, quasi, qua, qualiter, ubique</li>
       <li>CCONJ: quare, unde, quia, Quapropter</li>
       <li>DET: quantum, quicunque, quodcunque, qualis, quale, qualem, quot, cuiuscunque, quantam, quibuscunque</li>
-      <li>PART: quippe</li>
       <li>PRON: quod, que, qui, quo, quam, quem, qua, ubi, cuius, quibus</li>
       <li>SCONJ: quod, cum, quia, quam, tanquam, quantum, quemadmodum, ubi, quando, quoniam</li>
     </ul>
@@ -952,6 +962,23 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
 </ul>
 
 <ul>
+  <li><a>AdvType</a>
+    <ul>
+      <li>Loc
+        <ul>
+          <li>ADV: ergo</li>
+        </ul>
+      </li>
+      <li>Tim
+        <ul>
+          <li>ADV: nunc, tunc</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Clitic</a>
     <ul>
       <li>Yes
@@ -1016,23 +1043,6 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
 </ul>
 
 <ul>
-  <li><a>Emphatic</a>
-    <ul>
-      <li>Yes
-        <ul>
-          <li>ADV: quoque, quandoque, denique, undique, ubique, plerunque, quippe, ecce, nequicquam, nequaquam</li>
-          <li>CCONJ: atque, ac</li>
-          <li>DET: idem, eadem, eodem, quicunque, quodcunque, eiusdem, utroque, eandem, eundem, plerique</li>
-          <li>PART: enim, nanque, etenim, itaque, equidem, namque, nempe, Ecce, quippe</li>
-          <li>PRON: quicquid, ibidem, quisquis, sese, ubicunque, cuiuscunque, quicunque</li>
-          <li>SCONJ: quanquam, quandoque, quantumcunque, quocunque, ubicunque</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
@@ -1040,6 +1050,23 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
           <li>NOUN: Amalech, Agag, cenith, Alfa, El, Iob, Omega, Sabaoth, Seraphin</li>
           <li>PROPN: Israel, David, Guinizelli, Ierusalem, Levi, Iacob, Batifolle, Balaam, Belnui, Amos</li>
           <li>X: che, amor, per, lo, de, amore, non, donna, sì, d'</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Form</a>
+    <ul>
+      <li>Emp
+        <ul>
+          <li>ADV: quoque, quandoque, denique, quippe, undique, ubique, plerunque, ecce, nequicquam, nequaquam</li>
+          <li>CCONJ: atque, ac</li>
+          <li>DET: ipsum, ipsa, ipse, idem, ipsam, ipso, ipsi, ipsius, eadem, eodem</li>
+          <li>PART: enim, nanque, etenim, equidem, itaque, namque, nempe, Ecce</li>
+          <li>PRON: quicquid, ibidem, quisquis, sese, ubicunque, cuiuscunque, quicunque</li>
+          <li>SCONJ: quanquam, quandoque, quantumcunque, quocunque, ubicunque</li>
         </ul>
       </li>
     </ul>
@@ -1102,7 +1129,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       <li>IndEurU
         <ul>
           <li>NOUN: versus, effectus, actus, cantus, spiritus, versibus, intellectu, sensum, intellectus, sensus</li>
-          <li>NOUN-Part: versus, effectus, actus, cantus, spiritus, versibus, intellectu, sensum, intellectus, sensus</li>
+          <li>NOUN-Sup: versus, effectus, actus, cantus, spiritus, versibus, intellectu, sensum, intellectus, sensus</li>
           <li>PROPN: Iesu, Iesus, Iesum</li>
         </ul>
       </li>
@@ -1132,11 +1159,11 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
           <li>AUX-Inf: esse, fuisse, fore</li>
           <li>AUX-Part: ens, futura, futuram, futuris, futuro, futurum</li>
           <li>PRON: se, nobis, sibi, me, te, nos, vobis, vos, tibi, tu</li>
-          <li>VERB-Fin: potest, possit, possunt, posset, possumus, potuit, poterat, possint, refert, inferunt</li>
+          <li>VERB-Fin: potest, possit, possunt, posset, vult, possumus, potuit, poterat, possint, refert</li>
           <li>VERB-Gdv: preferendam, preferendum, pretereundum, redeundi, redeundum, referenda</li>
           <li>VERB-Ger: transferendi, preferendi</li>
-          <li>VERB-Inf: posse, adesse, inesse, nolle, preterire, preesse, conferre, differre, ferri, interesse</li>
-          <li>VERB-Part: presens, illata, inferenti, nolentem, offerentes, redeuntes, Preferens, Transeuntes, abeuntes, ablatam</li>
+          <li>VERB-Inf: posse, velle, adesse, inesse, nolle, preterire, preesse, conferre, differre, ferri</li>
+          <li>VERB-Part: presens, volentes, volentem, volens, illata, inferenti, nolentem, offerentes, redeuntes, volitum</li>
         </ul>
       </li>
       <li>LatE
@@ -1159,11 +1186,11 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       </li>
       <li>LatI2
         <ul>
-          <li>VERB-Fin: fit, ait, fecit, inquit, recipit, vult, facit, fiat, incipit, faciunt</li>
+          <li>VERB-Fin: fit, ait, fecit, inquit, recipit, facit, fiat, incipit, faciunt, accipiunt</li>
           <li>VERB-Gdv: moriendum, recipienda, accipienda, aspiciendus, eliciendum, faciendum, fugiendis, patefaciendum, perficiendo, recipiendam</li>
           <li>VERB-Ger: subiciendo, accipiendo, moriendo, despiciendo, illiciendo, patiendum</li>
-          <li>VERB-Inf: facere, fieri, velle, accipere, recipere, ire, accipi, efficere, elicere, elici</li>
-          <li>VERB-Part: factum, facta, factus, volentes, incipientes, volentem, efficiens, inspicienti, volens, accepti</li>
+          <li>VERB-Inf: facere, fieri, accipere, recipere, ire, accipi, efficere, elicere, elici, pati</li>
+          <li>VERB-Part: factum, facta, factus, incipientes, efficiens, inspicienti, accepti, capta, efficientem, facientes</li>
         </ul>
       </li>
       <li>LatPron
@@ -1179,6 +1206,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
           <li>VERB-Ger: loquendo, regendum, ostendendum, arguendi, ascendendo, assummendo, construendo, dicendo, ducendo, loquendi</li>
           <li>VERB-Inf: dici, dicere, solvere, uti, reduci, agere, loqui, sequi, ostendere, scindere</li>
           <li>VERB-Part: dictum, existente, dicens, dicta, existens, usi, dicentes, loquens, agentis, dicentem</li>
+          <li>VERB-Sup: actu</li>
         </ul>
       </li>
     </ul>
@@ -1186,7 +1214,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
 </ul>
 
 <ul>
-  <li><a>InflClass[noun]</a>
+  <li><a>InflClass[nominal]</a>
     <ul>
       <li>Ind
         <ul>
@@ -1333,7 +1361,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
     <ul>
       <li>Emp
         <ul>
-          <li>PART: o, Ecce, met, equidem, etenim</li>
+          <li>PART: o, Ecce, met</li>
         </ul>
       </li>
       <li>Int
@@ -1377,7 +1405,8 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
           <li>ADP: De, ad</li>
           <li>DET: Illum, Illius, Illo, Idem, Ipso</li>
           <li>NOUN: Dei, Deus, Deo, Ecclesie, Ecclesia, Imperium, Imperii, Phylosophus, Deum, Ecclesiam</li>
-          <li>NOUN-Part: Spiritus, Nature, Scripture, Spiritu, Spiritum, Sponse, Actibus, Natura, Principatus, Scriptura</li>
+          <li>NOUN-Part: Nature, Scripture, Sponse, Natura, Scriptura, Scripturis, Ducatus, Scripturarum, Sponsa, Strate</li>
+          <li>NOUN-Sup: Spiritus, Spiritu, Spiritum, Actibus, Principatus, Principatum, auditu</li>
           <li>NUM: Sex</li>
           <li>PRON: Eo, Eius</li>
           <li>PROPN: Nicomacum, Bromii, Farsalie, Marchie</li>
@@ -1412,19 +1441,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Abl (5)</li>
       <li>VERB-Fin--NOUN-Acc (11)</li>
       <li>VERB-Fin--NOUN-Gen (3)</li>
-      <li>VERB-Fin--NOUN-Nom (898)</li>
+      <li>VERB-Fin--NOUN-Nom (899)</li>
       <li>VERB-Fin--NOUN-Voc (1)</li>
       <li>VERB-Fin--PRON (10)</li>
       <li>VERB-Fin--PRON-Acc (19)</li>
       <li>VERB-Fin--PRON-Dat (1)</li>
       <li>VERB-Fin--PRON-Nom (392)</li>
       <li>VERB-Fin--PRON-Voc (1)</li>
-      <li>VERB-Gdv--NOUN-Acc (3)</li>
+      <li>VERB-Gdv--NOUN-Acc (1)</li>
       <li>VERB-Gdv--NOUN-Nom (3)</li>
       <li>VERB-Gdv--PRON-Abl (1)</li>
       <li>VERB-Gdv--PRON-Nom (4)</li>
       <li>VERB-Inf--NOUN (7)</li>
-      <li>VERB-Inf--NOUN-Acc (83)</li>
+      <li>VERB-Inf--NOUN-Acc (81)</li>
       <li>VERB-Inf--NOUN-Nom (15)</li>
       <li>VERB-Inf--PRON-Acc (32)</li>
       <li>VERB-Inf--PRON-Nom (5)</li>
@@ -1445,7 +1474,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (9)</li>
       <li>VERB-Fin--NOUN-Abl (3)</li>
       <li>VERB-Fin--NOUN-Abl-ADP(a) (1)</li>
-      <li>VERB-Fin--NOUN-Acc (717)</li>
+      <li>VERB-Fin--NOUN-Acc (718)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(citra) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(contra) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(per) (1)</li>
@@ -1459,19 +1488,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Dat (1)</li>
       <li>VERB-Fin--PRON-Gen (1)</li>
       <li>VERB-Fin--PRON-Nom (14)</li>
-      <li>VERB-Gdv--NOUN-Acc (9)</li>
-      <li>VERB-Gdv--PRON-Abl (1)</li>
+      <li>VERB-Gdv--NOUN-Acc (4)</li>
       <li>VERB-Ger--NOUN (1)</li>
       <li>VERB-Ger--NOUN-Acc (28)</li>
       <li>VERB-Ger--NOUN-Nom (1)</li>
-      <li>VERB-Ger--PRON-Abl (1)</li>
-      <li>VERB-Ger--PRON-Nom (2)</li>
+      <li>VERB-Ger--PRON-Acc (2)</li>
       <li>VERB-Inf--NOUN (1)</li>
-      <li>VERB-Inf--NOUN-Acc (237)</li>
+      <li>VERB-Inf--NOUN-Acc (238)</li>
       <li>VERB-Inf--NOUN-Dat (1)</li>
       <li>VERB-Inf--PRON (1)</li>
       <li>VERB-Inf--PRON-Abl (1)</li>
-      <li>VERB-Inf--PRON-Acc (73)</li>
+      <li>VERB-Inf--PRON-Acc (74)</li>
       <li>VERB-Inf--PRON-Nom (6)</li>
       <li>VERB-Part--NOUN-Abl (1)</li>
       <li>VERB-Part--NOUN-Acc (144)</li>
@@ -1500,13 +1527,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 35 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: habeo se, expono se, destruo se, do se, auctorizo se, concipio se, consigno se, deuoueo se, dico se, dignor sese, dirigo se, erigo se, facio se, figo se, fingo se, iacto se, impedio se, innecto se, interimo se, mitto se, offero se, profiteor se, profundo se, recipio sua, recommendo se, sublimo suos, succingo se, suspendo se, tango suum, trado se, traho se, tribuo se, tueor se, uideo se, uolo se</li>
+  <li>This corpus contains 34 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: habeo se, expono se, destruo se, do se, auctorizo se, concipio se, consigno se, deuoueo se, dico se, dignor sese, dirigo se, erigo se, facio se, figo se, fingo se, iacto se, impedio se, innecto se, interimo se, mitto se, offero se, profundo se, recipio sua, recommendo se, sublimo suos, succingo se, suspendo se, tango suum, trado se, traho se, tribuo se, tueor se, uideo se, uolo se</li>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 23 relation subtypes: <a>acl:relcl</a>, <a>advcl:abs</a>, <a>advcl:cmpr</a>, <a>advcl:pred</a>, <a>advmod:emph</a>, <a>advmod:neg</a>, <a>aux:pass</a>, <a>conj:expl</a>, <a>csubj:cleft</a>, <a>csubj:pass</a>, <a>dislocated:nsubj</a>, <a>dislocated:obj</a>, <a>expl:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:cleft</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmpr</a>, <a>parataxis:rep</a>, <a>xcomp:pred</a></li>
+<li>This corpus uses 27 relation subtypes: <a>acl:relcl</a>, <a>advcl:abs</a>, <a>advcl:cmpr</a>, <a>advcl:pred</a>, <a>advmod:emph</a>, <a>advmod:lmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>conj:expl</a>, <a>csubj:cleft</a>, <a>csubj:pass</a>, <a>dislocated:csubj</a>, <a>dislocated:nsubj</a>, <a>dislocated:obj</a>, <a>expl:pass</a>, <a>flat:foreign</a>, <a>flat:gov</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:cleft</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmpr</a>, <a>parataxis:rep</a>, <a>xcomp:pred</a></li>
 <li>The following 2 main types are not used alone, they are always subtyped: <a>dislocated</a>, <a>expl</a></li>
 <li>The following 6 relation types are not used in this corpus at all: <a>iobj</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>dep</a></li>
 </ul>

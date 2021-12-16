@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="pt_pud-pos-DET.html
 
 4 <tt><a href="pt_pud-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="pt_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3; 75%), <tt><a href="pt_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 75%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="pt_pud-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (4; 100%), <tt><a href="pt_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3; 75%), <tt><a href="pt_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 75%).
 
 `DET` tokens may have the following values of `Poss`:
 

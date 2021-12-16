@@ -30,9 +30,9 @@ The most frequent other feature values with which `VERB` and `Derivation` co-occ
 
 ### `NOUN`
 
-7 <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> tokens (4% of all `NOUN` tokens) have a non-empty value of `Derivation`.
+7 <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> tokens (3% of all `NOUN` tokens) have a non-empty value of `Derivation`.
 
-The most frequent other feature values with which `NOUN` and `Derivation` co-occurred: <tt><a href="koi_uh-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6; 86%), <tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (6; 86%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 71%), <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4; 57%).
+The most frequent other feature values with which `NOUN` and `Derivation` co-occurred: <tt><a href="koi_uh-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6; 86%), <tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (6; 86%), <tt><a href="koi_uh-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5; 71%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 71%), <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4; 57%).
 
 `NOUN` tokens may have the following values of `Derivation`:
 

@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.138347).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.137196).
 
 The 1st highest number of forms (1) was observed with the lemma “belum”: <em>belum</em>.
 
@@ -42,7 +42,7 @@ Examples: <em>tidak, tak, belum, bukan</em>
 
 `PART` nodes are attached to their parents using 2 different relations: <tt><a href="id_pud-dep-advmod.html">advmod</a></tt> (177; 79% instances), <tt><a href="id_pud-dep-advmod-emph.html">advmod:emph</a></tt> (48; 21% instances)
 
-Parents of `PART` nodes belong to 10 different parts of speech: <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (112; 50% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (40; 18% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (33; 15% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (18; 8% instances), <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (6; 3% instances), <tt><a href="id_pud-pos-SCONJ.html">SCONJ</a></tt> (6; 3% instances), <tt><a href="id_pud-pos-DET.html">DET</a></tt> (5; 2% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="id_pud-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 10 different parts of speech: <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (123; 55% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (41; 18% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (20; 9% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (19; 8% instances), <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (6; 3% instances), <tt><a href="id_pud-pos-SCONJ.html">SCONJ</a></tt> (6; 3% instances), <tt><a href="id_pud-pos-DET.html">DET</a></tt> (5; 2% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="id_pud-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
 224 (100%) `PART` nodes are leaves.
 

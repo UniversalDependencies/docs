@@ -22,10 +22,10 @@ The following 1 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 iobj	color:blue
-1	šubtu	šubtu	NOUN	N	Case=Nom|Gender=Fem|NounBase=Free|Number=Sing	3	obj	3:obj	_
-2	nēhtu	nēhtu	ADJ	N	Case=Nom|Gender=Fem|Number=Sing	1	amod	1:amod	_
-3	ušēšib	wašābu	VERB	V	Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|VerbStem=S	0	root	0:root	_
-4	šunu	_	PRON	_	Gender=Masc|Number=Plur|Person=3	3	iobj	3:iobj	_
+1	šubtu	šubtu	NOUN	N	Case=Nom|Gender=Fem|NounBase=Free|Number=Sing	3	obj	_	_
+2	nēhtu	nēhtu	ADJ	N	Case=Nom|Gender=Fem|Number=Sing	1	amod	_	_
+3	ušēšib	wašābu	VERB	V	Gender=Com|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|VerbStem=S	0	root	_	_
+4	šunu	_	PRON	_	Gender=Masc|Number=Plur|Person=3	3	iobj	_	_
 
 ~~~
 

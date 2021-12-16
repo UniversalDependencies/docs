@@ -17,7 +17,7 @@ udver: '2'
 
 ### Tags
 
-* Karo uses all 17 universal POS categories. `ADJ` is not used since there is no separate class of adjectives.
+* Karo uses all 18 universal POS categories. 
 
 Mapping UPOS to XPOS Karo
 
@@ -42,15 +42,13 @@ Mapping UPOS to XPOS Karo
  X     | x        |
 
 ---
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
 
----
 
 ### Nominal Features
 
-* Tupinambá nouns are not marked for gender. Number is optionally marked by the lexical root _etá_ .
-* Nous can take the following [Cases](https://universaldependencies.org/u/feat/Case.html): `Tra`, `Loc`, `All`, `Per`, `Dat`.
-* [NOUN](https://universaldependencies.org/u/pos/NOUN.html), [PROPN](https://universaldependencies.org/u/pos/PROPN.html) and [PRON](https://universaldependencies.org/u/pos/PRON.html), are not marked for [Gender](https://universaldependencies.org/u/feat/Gender.html).
+* Karo nouns are not marked for gender. Number is optionally marked .
+* Nous can take the following [Cases](https://universaldependencies.org/u/feat/Case.html): `?`, `?`, `?`, `?`, `?`.
+* [PRON](https://universaldependencies.org/u/pos/PRON.html), are marked for [Gender](https://universaldependencies.org/u/feat/Gender.html) only in. .
 * Personal Pronouns and Person Markers distinguish [Number](https://universaldependencies.org/u/feat/Number.html)(Singular or Plural). They also distinguish [Clusivity](https://universaldependencies.org/u/feat/Clusivity.html) in the 1<sup>st</sup> person plural.
 * The relational markers `Rel`, which indicate contiguity or non-contiguity between a head and its dependent, take respectively the following features: `Rel=Cont` and `Rel=NCont`. A third type or relational indicates that a possessor is not present, neither contiguously or non-contiguously. This relational is tagged `Rel=Abs`, for absolute. The reflexive/correferential morpheme _o_. which is often referred to as 'relational<sub>3</sub>' is associated with the feature-value `Reflex=Yes`. 
 * Tupinambá is reach in nominalizations. Lexical roots can be nominalized by suffixes that receive the following features: nominalizatin of circusntance `Nomzr=Circ` (*-saβ* 'thing, way of VERB'), passive nominalization `Nomzr=Pas`, deverbal passive nominalization `Nomzr=DevPass` (*-pɨr* 'one that is VERB past participle'), `Nomzr=Ag`(*-sar* 'the VERB-_er_').
@@ -72,26 +70,20 @@ monosylabic reduplication (`Red=Mo`), disylabic reduplication (`Red=Di`). The mo
 
 ## Syntax
 
-* As a head-marking language, core arguments, except oblique core arguments are cross-referenced on the predicate, as in the example below:
+ There are three types of sentences in Karo according to their illocutionary force: declarative, interrogative, and imperative.
+
+* Declarative sentences may as well contain adjuncts in their periphery (postpositional phrases or adverbials).
+* Focused constituents are fronted.
+* Interrogative illocutionary force can be of two types: yes-no questions and
+information questions.
 
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
 
----
 
-## Syntax
-
-*
-
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
 
 ## Treebanks
 
-There are [N](../treebanks/arr-comparison.html) Karo UD treebanks:
+There are [N](../treebanks/gub-comparison.html) Karo UD treebanks:
 
   * [Karo-A](../treebanks/arr_a/index.html)
   * [Karo-B](../treebanks/arr_b/index.html)

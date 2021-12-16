@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Ruli Manurung, Muh Shohibussirri, Martin Popel, Daniel Zeman, Ika Alfina, Arawinda Dinakaramani, Muhammad Yudistira Hanifmuti, Jessica Naraiswari Arwidarasti, Yogi Lesmana Sulestio.
 
 Repository: [UD_Indonesian-PUD](https://github.com/UniversalDependencies/UD_Indonesian-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udid_pud28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udid_pud29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-SA 3.0
 
@@ -76,20 +76,18 @@ employ ten-fold cross-validation.
 
 ## Acknowledgments
 
-## From Google:
-We are greatful to the many people who made this dataset possible:
-Fernando Pereira, Hans Uszkoreit, Aljoscha Burchardt, Vivien Macketanz,
-Ali Elkahky, Abhijit Barde, Tolga Kayadelen, ...
+* The original treebank was built by Google for the CoNLL 2018 shared task in Zeman et al. (2018), based on method proposed by McDonald et al. (2013). We are greatful to the many people who made this dataset possible: Fernando Pereira, Hans Uszkoreit, Aljoscha Burchardt, Vivien Macketanz, Ali Elkahky, Abhijit Barde, and Tolga Kayadelen.
 
-## From UI:
-We thank the contributors of the revision project of the Indonesian PUD:
-* Designers of the Indonesian annotation guidelines: Ika Alfina, Daniel Zeman, Arawinda Dinakaramani
-* Annotators: Ika Alfina, Arawinda Dinakaramani, Muhammad Yudistira Hanifmuti, Jessica Naraiswari Arwidarasti, Yogi Lesmana Sulestio
+* The treebank was revised manually by Alfina et al. (2019) and Alfina et al (2020) from Universitas Indonesia (UI). We thank the contributors of the revision project of the Indonesian PUD:
+* Designers of the Indonesian annotation guidelines: Ika Alfina, Daniel Zeman, and Arawinda Dinakaramani.
+* Annotators: Ika Alfina, Arawinda Dinakaramani, Muhammad Yudistira Hanifmuti, Jessica Naraiswari Arwidarasti, and Yogi Lesmana Sulestio.
 
 ## References
+
 * Ika Alfina, Daniel Zeman, Arawinda Dinakaramani, Indra Budi, and Heru Suhartanto. ["**Selecting the UD v2 Morphological Features for Indonesian Dependency Treebank**"](https://ieeexplore.ieee.org/document/9310513). In Proceedings of the 2020 International Conference of Asian Language Processing (IALP) in Kuala Lumpur, Malaysia, 4-6 Desember 2020.
 * Ika Alfina, Arawinda Dinakaramani, Mohamad Ivan Fanany, and Heru Suhartanto. ["**A Gold Standard Dependency Treebank for Indonesian**"](https://waseda.repo.nii.ac.jp/?action=repository_action_common_download&item_id=48059&item_no=1&attribute_id=101&file_no=1). In Proceedings of 33rd Pacific Asia Conference on Language, Information and Computation (PACLIC) 2019 in Hakodate, Japan, 13-15 September 2019.
-* Ryan McDonald, Joakim Nivre, Yvonne Quirmbach-Brundage, Yoav Goldberg, Dipanjan Das, Kuzman Ganchev, Keith Hall, Slav Petrov, Hao Zhang, Oscar Tackstrom, Claudia Bedini, Nuria Bertomeu Castello and Jungmee Lee. "**Universal Dependency Annotation for Multilingual Parsing**". In Proceedings of ACL 2013.
+* Daniel Zeman, Jan Hajiˇc, Martin Popel, Martin Potthast, Milan Straka, Filip Ginter, Joakim Nivre, and Slav Petrov. ["**CoNLL 2018 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies**"](https://aclanthology.org/K18-2001.pdf). In Proceedings of the CoNLL 2018 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies, 2018.
+* Ryan McDonald, Joakim Nivre, Yvonne Quirmbach-Brundage, Yoav Goldberg, Dipanjan Das, Kuzman Ganchev, Keith Hall, Slav Petrov, Hao Zhang, Oscar Tackstrom, Claudia Bedini, Nuria Bertomeu Castello and Jungmee Lee. ["**Universal Dependency Annotation for Multilingual Parsing**"](https://aclanthology.org/P13-2017.pdf). In Proceedings of ACL 2013.
 
 
 
@@ -101,17 +99,17 @@ We thank the contributors of the revision project of the Indonesian PUD:
 
 ## Features
 
-[Abbr](id_pud-feat-Abbr.html) – [Clusivity](id_pud-feat-Clusivity.html) – [Degree](id_pud-feat-Degree.html) – [Foreign](id_pud-feat-Foreign.html) – [Mood](id_pud-feat-Mood.html) – [Number](id_pud-feat-Number.html) – [NumType](id_pud-feat-NumType.html) – [Person](id_pud-feat-Person.html) – [Polarity](id_pud-feat-Polarity.html) – [Poss](id_pud-feat-Poss.html) – [PronType](id_pud-feat-PronType.html) – [Reflex](id_pud-feat-Reflex.html) – [Typo](id_pud-feat-Typo.html) – [Voice](id_pud-feat-Voice.html)
+[Abbr](id_pud-feat-Abbr.html) – [Clusivity](id_pud-feat-Clusivity.html) – [Definite](id_pud-feat-Definite.html) – [Degree](id_pud-feat-Degree.html) – [Foreign](id_pud-feat-Foreign.html) – [Mood](id_pud-feat-Mood.html) – [Number](id_pud-feat-Number.html) – [NumType](id_pud-feat-NumType.html) – [Person](id_pud-feat-Person.html) – [Polarity](id_pud-feat-Polarity.html) – [Polite](id_pud-feat-Polite.html) – [PronType](id_pud-feat-PronType.html) – [Reflex](id_pud-feat-Reflex.html) – [Typo](id_pud-feat-Typo.html) – [Voice](id_pud-feat-Voice.html)
 
 ## Relations
 
-[acl](id_pud-dep-acl.html) – [acl:relcl](id_pud-dep-acl-relcl.html) – [advcl](id_pud-dep-advcl.html) – [advmod](id_pud-dep-advmod.html) – [advmod:emph](id_pud-dep-advmod-emph.html) – [amod](id_pud-dep-amod.html) – [appos](id_pud-dep-appos.html) – [aux](id_pud-dep-aux.html) – [case](id_pud-dep-case.html) – [case:adv](id_pud-dep-case-adv.html) – [cc](id_pud-dep-cc.html) – [cc:preconj](id_pud-dep-cc-preconj.html) – [ccomp](id_pud-dep-ccomp.html) – [compound](id_pud-dep-compound.html) – [compound:a](id_pud-dep-compound-a.html) – [conj](id_pud-dep-conj.html) – [cop](id_pud-dep-cop.html) – [csubj](id_pud-dep-csubj.html) – [csubj:pass](id_pud-dep-csubj-pass.html) – [det](id_pud-dep-det.html) – [discourse](id_pud-dep-discourse.html) – [dislocated](id_pud-dep-dislocated.html) – [fixed](id_pud-dep-fixed.html) – [flat](id_pud-dep-flat.html) – [flat:foreign](id_pud-dep-flat-foreign.html) – [flat:name](id_pud-dep-flat-name.html) – [goeswith](id_pud-dep-goeswith.html) – [iobj](id_pud-dep-iobj.html) – [mark](id_pud-dep-mark.html) – [nmod](id_pud-dep-nmod.html) – [nmod:lmod](id_pud-dep-nmod-lmod.html) – [nmod:poss](id_pud-dep-nmod-poss.html) – [nmod:tmod](id_pud-dep-nmod-tmod.html) – [nsubj](id_pud-dep-nsubj.html) – [nsubj:pass](id_pud-dep-nsubj-pass.html) – [nummod](id_pud-dep-nummod.html) – [obj](id_pud-dep-obj.html) – [obl](id_pud-dep-obl.html) – [obl:agent](id_pud-dep-obl-agent.html) – [obl:tmod](id_pud-dep-obl-tmod.html) – [orphan](id_pud-dep-orphan.html) – [parataxis](id_pud-dep-parataxis.html) – [punct](id_pud-dep-punct.html) – [root](id_pud-dep-root.html) – [vocative](id_pud-dep-vocative.html) – [xcomp](id_pud-dep-xcomp.html)
+[acl](id_pud-dep-acl.html) – [acl:relcl](id_pud-dep-acl-relcl.html) – [advcl](id_pud-dep-advcl.html) – [advmod](id_pud-dep-advmod.html) – [advmod:emph](id_pud-dep-advmod-emph.html) – [amod](id_pud-dep-amod.html) – [appos](id_pud-dep-appos.html) – [aux](id_pud-dep-aux.html) – [case](id_pud-dep-case.html) – [case:adv](id_pud-dep-case-adv.html) – [cc](id_pud-dep-cc.html) – [cc:preconj](id_pud-dep-cc-preconj.html) – [ccomp](id_pud-dep-ccomp.html) – [clf](id_pud-dep-clf.html) – [compound](id_pud-dep-compound.html) – [compound:a](id_pud-dep-compound-a.html) – [conj](id_pud-dep-conj.html) – [cop](id_pud-dep-cop.html) – [csubj](id_pud-dep-csubj.html) – [csubj:pass](id_pud-dep-csubj-pass.html) – [det](id_pud-dep-det.html) – [discourse](id_pud-dep-discourse.html) – [dislocated](id_pud-dep-dislocated.html) – [fixed](id_pud-dep-fixed.html) – [flat](id_pud-dep-flat.html) – [flat:foreign](id_pud-dep-flat-foreign.html) – [flat:name](id_pud-dep-flat-name.html) – [goeswith](id_pud-dep-goeswith.html) – [iobj](id_pud-dep-iobj.html) – [mark](id_pud-dep-mark.html) – [nmod](id_pud-dep-nmod.html) – [nmod:lmod](id_pud-dep-nmod-lmod.html) – [nmod:poss](id_pud-dep-nmod-poss.html) – [nmod:tmod](id_pud-dep-nmod-tmod.html) – [nsubj](id_pud-dep-nsubj.html) – [nsubj:pass](id_pud-dep-nsubj-pass.html) – [nummod](id_pud-dep-nummod.html) – [obj](id_pud-dep-obj.html) – [obl](id_pud-dep-obl.html) – [obl:agent](id_pud-dep-obl-agent.html) – [obl:tmod](id_pud-dep-obl-tmod.html) – [orphan](id_pud-dep-orphan.html) – [parataxis](id_pud-dep-parataxis.html) – [punct](id_pud-dep-punct.html) – [root](id_pud-dep-root.html) – [vocative](id_pud-dep-vocative.html) – [xcomp](id_pud-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 1000 sentences, 19032 tokens and 19442 syntactic words.</li>
+<li>This corpus contains 1000 sentences, 19034 tokens and 19446 syntactic words.</li>
 </ul>
 
 <ul>
@@ -127,8 +125,8 @@ We thank the contributors of the revision project of the Indonesian PUD:
 </ul>
 
 <ul>
-<li>This corpus contains 410 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 292 types of multi-word tokens. Examples: apakah, lainnya, dirinya, kalinya, istrinya, katanya, meskipun, semuanya, hidupnya, itulah, kepadanya, menyebutnya, terakhirnya, terjadinya, ujarnya, dalamnya, dengannya, jabatannya, kariernya, keduanya, kemampuannya, membuatnya, satu-satunya, sebabnya, adanya, akhirnya, artinya, ayahnya, banyaknya, bawahnya, berkembangnya, demikianlah, depannya, filmnya, harganya, hasilnya, inilah, kaitannya, kematiannya, kesehatannya, kurangnya, laki-lakinya, membawanya, menontonnya, negaranya, neneknya, pasukannya, pemerintahannya, putrinya, sejarahnya.</li>
+<li>This corpus contains 412 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 293 types of multi-word tokens. Examples: apakah, lainnya, dirinya, kalinya, istrinya, katanya, meskipun, semuanya, hidupnya, itulah, kepadanya, menyebutnya, terakhirnya, terjadinya, ujarnya, dalamnya, dengannya, jabatannya, kariernya, keduanya, kemampuannya, membuatnya, satu-satunya, sebabnya, adanya, akhirnya, artinya, ayahnya, banyaknya, bawahnya, berkembangnya, demikianlah, depannya, filmnya, harganya, hasilnya, inilah, kaitannya, kematiannya, kesehatannya, kurangnya, laki-lakinya, membawanya, menontonnya, misalnya, negaranya, neneknya, pasukannya, pemerintahannya, putrinya.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -148,11 +146,11 @@ We thank the contributors of the revision project of the Indonesian PUD:
 </ul>
 
 <ul>
-<li>This corpus contains 23 lemmas tagged as determiners (DET): bagai, bagi, banyak, berapa, buah, ini, itu, jenis, masing-masing, nya, orang, para, pasang, rangkai, sang, sebut, segala, seluruh, semua, sendiri, si, suatu, tiap</li>
+<li>This corpus contains 24 lemmas tagged as determiners (DET): bagai, bagi, banyak, berapa, buah, ini, itu, jenis, masing-masing, nya, orang, para, pasang, rangkai, sang, sebut, segala, seluruh, semua, sendiri, si, suatu, tiap, yang</li>
 </ul>
 
 <ul>
-<li>Out of the above, 6 lemmas occurred sometimes as PRON and sometimes as DET: ini, itu, nya, orang, semua, suatu</li>
+<li>Out of the above, 7 lemmas occurred sometimes as PRON and sometimes as DET: ini, itu, nya, orang, semua, suatu, yang</li>
 </ul>
 
 <ul>
@@ -180,7 +178,7 @@ We thank the contributors of the revision project of the Indonesian PUD:
   <li>Plur
     <ul>
       <li>DET: para, banyak, beberapa, berbagai, serangkaian, sepasang</li>
-      <li>NOUN: orang-orang, negara-negara, anak-anak, batas-batas, bagian-bagian, batu-batu, bertahun-tahun, bulan-bulan, kota-kota, puing-puing</li>
+      <li>NOUN: orang-orang, negara-negara, anak-anak, batas-batas, 1970-an, bagian-bagian, batu-batu, bertahun-tahun, bulan-bulan, kota-kota</li>
       <li>PRON: mereka, kami, kita, kalian</li>
     </ul>
   </li>
@@ -189,8 +187,7 @@ We thank the contributors of the revision project of the Indonesian PUD:
 <ul>
   <li>Sing
     <ul>
-      <li>DET: sebuah, seorang, suatu</li>
-      <li>NOUN: tahun, orang, bulan, bagian, hari, negara, kota, laut, perang, hal</li>
+      <li>NOUN: tahun, orang, bulan, bagian, hari, negara, kota, laut, hal, perang</li>
       <li>PRON: nya, ia, saya, dia, Anda, Aku, ku, kamu</li>
     </ul>
   </li>
@@ -198,6 +195,25 @@ We thank the contributors of the revision project of the Indonesian PUD:
 
 
 
+<ul>
+  <li><a>Definite</a></li>
+</ul>
+
+<ul>
+  <li>Def
+    <ul>
+      <li>DET: nya, yang</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: sebuah, seorang, suatu</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
@@ -273,10 +289,18 @@ We thank the contributors of the revision project of the Indonesian PUD:
 </ul>
 
 <ul>
+  <li>Art
+    <ul>
+      <li>DET: nya, sebuah, seorang, yang, suatu</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Dem
     <ul>
-      <li>DET: ini, itu, nya, tersebut, sang, si</li>
-      <li>PRON: itu, ini, sana, begitu, demikian, sini</li>
+      <li>DET: ini, itu, tersebut, sang, si</li>
+      <li>PRON: itu, ini, mana, sana, begitu, demikian, sini</li>
     </ul>
   </li>
 </ul>
@@ -293,7 +317,7 @@ We thank the contributors of the revision project of the Indonesian PUD:
   <li>Ind
     <ul>
       <li>ADV: kadang, kadang-kadang</li>
-      <li>DET: sebuah, para, banyak, beberapa, seorang, berbagai, suatu, sebagian, kebanyakan, sejenis</li>
+      <li>DET: para, banyak, beberapa, berbagai, sebagian, kebanyakan, sejenis, serangkaian, sepasang</li>
       <li>PRON: seseorang, sesuatu</li>
     </ul>
   </li>
@@ -302,8 +326,8 @@ We thank the contributors of the revision project of the Indonesian PUD:
 <ul>
   <li>Int
     <ul>
-      <li>ADV: bagaimana</li>
-      <li>PRON: apa, siapa, mana</li>
+      <li>ADV: apa, bagaimana</li>
+      <li>PRON: siapa, mana</li>
     </ul>
   </li>
 </ul>
@@ -320,7 +344,7 @@ We thank the contributors of the revision project of the Indonesian PUD:
   <li>Rel
     <ul>
       <li>ADV: saat, ketika, mengapa, bagaimana, berapa, kapan, seberapa</li>
-      <li>PRON: yang, apa, mana, siapa</li>
+      <li>PRON: yang, apa, siapa</li>
     </ul>
   </li>
 </ul>
@@ -350,22 +374,11 @@ We thank the contributors of the revision project of the Indonesian PUD:
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: pertama, kedua, ketiga, I, III, II, IV, ke-16, ke-3, ke-5</li>
+      <li>ADJ: pertama, kedua, ketiga, ke-16, ke-3, ke-5, ke-13, ke-14, ke-15, ke-20</li>
     </ul>
   </li>
 </ul>
 
-<ul>
-  <li><a>Poss</a></li>
-</ul>
-
-<ul>
-  <li>Yes
-    <ul>
-      <li>PRON: nya, mereka, kita, Anda, saya, kami, ku</li>
-    </ul>
-  </li>
-</ul>
 
 <ul>
   <li><a>Reflex</a></li>
@@ -407,6 +420,25 @@ We thank the contributors of the revision project of the Indonesian PUD:
   </li>
 </ul>
 
+<ul>
+  <li><a>Polite</a></li>
+</ul>
+
+<ul>
+  <li>Form
+    <ul>
+      <li>PRON: saya, Anda</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Infm
+    <ul>
+      <li>PRON: Aku, kalian, kamu</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -485,8 +517,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (477)</li>
-      <li>VERB--PRON (457)</li>
+      <li>VERB--NOUN (473)</li>
+      <li>VERB--PRON (454)</li>
     </ul>
   </li>
 </ul>
@@ -496,7 +528,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (687)</li>
       <li>VERB--NOUN-ADP(hingga) (1)</li>
-      <li>VERB--PRON (70)</li>
+      <li>VERB--PRON (78)</li>
     </ul>
   </li>
 </ul>
@@ -521,5 +553,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>case:adv</a>, <a>cc:preconj</a>, <a>compound:a</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:lmod</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:tmod</a></li>
-<li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 4 relation types are not used in this corpus at all: <a>expl</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

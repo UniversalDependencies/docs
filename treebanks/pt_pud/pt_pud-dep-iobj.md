@@ -36,7 +36,7 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 12	que	que	ADV	WRB	_	11	fixed	_	_
 13	é	ser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	ccomp	_	_
 14	que	que	SCONJ	IN	_	18	mark	_	_
-15	as	o	DET	DT	Gender=Fem|Number=Plur	16	det	_	_
+15	as	o	DET	DT	Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
 16	pessoas	pessoa	NOUN	NN	Gender=Fem|Number=Plur	18	nsubj	_	_
 17	poderiam	_	AUX	VBC	Mood=Cnd|Number=Plur|Person=3	18	aux	_	_
 18	votar	_	VERB	VB	_	13	ccomp	_	_
@@ -56,12 +56,12 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 1	Corrado	Corrado	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj	_	_
 2	Passera	Passera	PROPN	NNP	Gender=Masc|Number=Sing	1	flat:name	_	_
 3	retira	retirar	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
-4	a	o	DET	DT	Gender=Fem|Number=Sing	5	det	_	_
+4	a	o	DET	DT	Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	proposta	_	NOUN	NN	Gender=Fem|Number=Sing	3	obj	_	_
 6	para	para	ADP	IN	_	7	case	_	_
 7	membros	membro	NOUN	NN	Gender=Masc|Number=Plur	3	obl	_	_
 8	de	de	ADP	INDT	_	10	case	_	_
-9	o	o	DET	_	Gender=Masc|Number=Sing	10	det	_	_
+9	o	o	DET	_	Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	Parlamento	parlamento	NOUN	NN	Gender=Masc|Number=Sing	7	nmod	_	Proper=True
 11	devido	_	VERB	VBN	Gender=Masc|Number=Sing	14	case	_	_
 12	a	_	ADP	IN	_	11	fixed	_	_
@@ -71,7 +71,7 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 16	total	total	ADJ	JJ	Gender=Masc|Number=Sing	17	amod	_	_
 17	fechamento	fechamento	NOUN	NN	Gender=Masc|Number=Sing	14	nmod	_	_
 18	que	_	PRON	WP	_	23	obj	_	_
-19	os	o	DET	DT	Gender=Masc|Number=Plur	20	det	_	_
+19	os	o	DET	DT	Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
 20	bancos	banco	NOUN	NN	Gender=Masc|Number=Plur	23	nsubj	_	_
 21	em	em	ADP	PRP	_	23	iobj	_	_
 22	os	o	DET	_	Case=Dat|Number=Plur|Person=1	21	det	_	_

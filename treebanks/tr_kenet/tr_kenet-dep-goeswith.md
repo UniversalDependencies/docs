@@ -50,7 +50,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 5	yerleştikleri	yerleş	ADJ	_	_	9	ccomp	_	_
 6	hiç	hiç	ADV	_	_	8	nmod	_	_
 7	kimsenin	kimse	NOUN	_	Case=Gen|Number=Sing|Person=3	6	goeswith	_	_
-8	gözünden	göz	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	obj	_	_
+8	gözünden	göz	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	obl	_	_
 9	kaçmıyordu	kaç	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	_	_
 10	.	.	PUNCT	_	_	9	punct	_	_
 
@@ -65,12 +65,12 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 10 11 goeswith	color:blue
 1	Etrafında	etraf	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	13	obl	_	_
 2	,	,	PUNCT	_	_	13	punct	_	_
-3	bir	bir	DET	_	Definite=Ind	4	det	_	_
+3	bir	bir	DET	_	Definite=Ind|PronType=Art	4	det	_	_
 4	kolayını	kolay	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	5	obj	_	_
 5	bulup	bul	ADV	_	_	7	advcl	_	_
 6	dışarıya	dışarı	NOUN	_	Case=Dat|Number=Sing|Person=3	7	obl	_	_
 7	sızanlardan	sız	NOUN	_	Case=Abl|Number=Plur|Person=3	9	acl	_	_
-8	birkaç	birkaç	DET	_	Definite=Ind	9	det	_	_
+8	birkaç	birkaç	DET	_	Definite=Ind|PronType=Art	9	det	_	_
 9	kişi	kişi	NOUN	_	Case=Nom|Number=Sing|Person=3	13	nsubj	_	_
 10	ha	ha	CCONJ	_	_	13	advmod	_	_
 11	bire	bir	NOUN	_	Case=Dat|Number=Sing|Person=3	10	goeswith	_	_

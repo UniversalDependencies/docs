@@ -7,37 +7,25 @@ udver: '2'
 ## Treebank Statistics: UD_Western_Armenian-ArmTDP: Relations: `flat:name`
 
 This relation is a language-specific subtype of <tt><a href="hyw_armtdp-dep-flat.html">flat</a></tt>.
-There are also 2 other language-specific subtypes of `flat`: <tt><a href="hyw_armtdp-dep-flat-dist.html">flat:dist</a></tt>, <tt><a href="hyw_armtdp-dep-flat-range.html">flat:range</a></tt>.
+There are also 3 other language-specific subtypes of `flat`: <tt><a href="hyw_armtdp-dep-flat-dist.html">flat:dist</a></tt>, <tt><a href="hyw_armtdp-dep-flat-frac.html">flat:frac</a></tt>, <tt><a href="hyw_armtdp-dep-flat-range.html">flat:range</a></tt>.
 
-102 nodes (0%) are attached to their parents as `flat:name`.
+706 nodes (1%) are attached to their parents as `flat:name`.
 
-102 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.17647058823529.
+706 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.49008498583569.
 
-The following 11 pairs of parts of speech are connected with `flat:name`: <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (38; 37% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (33; 32% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (7; 7% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (6; 6% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (5; 5% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (1; 1% instances).
+The following 14 pairs of parts of speech are connected with `flat:name`: <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (457; 65% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (149; 21% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (21; 3% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (20; 3% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (18; 3% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (10; 1% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (9; 1% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (6; 1% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="hyw_armtdp-pos-X.html">X</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 14 flat:name	color:blue
-1	«	«	PUNCT	_	_	5	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
-2	Էն	էն	PRON	_	Deixis=Remt|PronType=Dem	5	expl	_	Translit=Ēn|LTranslit=ēn
-3	ինչ	ինչ	DET	_	PronType=Exc	5	det	_	Translit=inč|LTranslit=inč
-4	՜	՜	PUNCT	_	_	3	punct	_	Translit=!|LTranslit=!
-5	շունչ	շունչ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=šownč|LTranslit=šownč
-6	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	5	cop	_	Translit=ēr|LTranslit=em|SpaceAfter=No
-7	...	...	PUNCT	_	_	5	punct	_	Translit=...|LTranslit=...|SpaceAfter=No
-8	»	»	PUNCT	_	_	5	punct	_	Translit=»|LTranslit=»|SpaceAfter=No
-9	,	,	PUNCT	_	_	11	punct	_	Translit=,|LTranslit=,
-10	պիտի	պիտի	AUX	_	Aspect=Prosp|Mood=Ind|Polarity=Pos	11	aux	_	Translit=piti|LTranslit=piti
-11	ըսէր	ըսել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	5	parataxis	_	Translit=ësēr|LTranslit=ësel
-12	Խ	Խ.	PROPN	_	Abbr=Yes|Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	11	nsubj	_	Translit=X|LTranslit=X.|SpaceAfter=No
-13	.	.	PUNCT	_	_	12	punct	_	Translit=.|LTranslit=.
-14	Աբովեան	Աբովեան	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Plur	12	flat:name	_	Translit=Abovean|LTranslit=Abovean|SpaceAfter=No
-15	։	։	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 flat:name	color:blue
+1	ՄԱՐԿ	Մարկ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	3	nmod:poss	_	Translit=MARK|LTranslit=Mark
+2	ՆՇԱՆԵԱՆԻ	Նշանեան	PROPN	_	Animacy=Hum|Case=Dat|Definite=Ind|NameType=Sur|Number=Sing	1	flat:name	_	Translit=NŠANEANI|LTranslit=Nšanean
+3	ՊԱՏԱՍԽԱՆԸ	պատասխան	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	0	root	_	Translit=PATASXANË|LTranslit=patasxan
 
 ~~~
 
@@ -68,17 +56,21 @@ The following 11 pairs of parts of speech are connected with `flat:name`: <tt><a
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 flat:name	color:blue
-1	Տէր	տէր	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	5	nsubj	_	Translit=Tēr|LTranslit=tēr
-2	Հայրն	հայր	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	1	flat:name	_	Translit=Hayrn|LTranslit=hayr
-3	ալ	ալ	ADV	_	_	1	advmod:emph	_	Translit=al|LTranslit=al
-4	ներս	ներս	ADV	_	_	5	compound:lvc	_	Translit=ners|LTranslit=ners
-5	մտաւ	մտնել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Translit=mtaw|LTranslit=mtnel|SpaceAfter=No
-6	։	։	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 flat:name	color:blue
+1	Աս	աս	DET	_	Deixis=Prox|PronType=Dem	2	det	_	Translit=As|LTranslit=as
+2	գուրպը	գուրպ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing|Style=Coll	5	nsubj	_	Translit=gowrpë|LTranslit=gowrp
+3	մեծ	մեծ	ADJ	_	Degree=Pos	4	amod	_	Translit=meç|LTranslit=meç
+4	պատմութիւն	պատմութիւն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	5	obj	_	Translit=patmowt’iwn|LTranslit=patmowt’iwn
+5	ունի	ունիմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=owni|LTranslit=ownim
+6	ողորմած	ողորմած	ADJ	_	_	7	amod	_	Translit=oġormaç|LTranslit=oġormaç
+7	Ապու	Ապու	X	_	Foreign=Yes	5	obl	_	Translit=Apow|LTranslit=Apow
+8	Ազիզին	Ազիզ	PROPN	_	Animacy=Hum|Case=Dat|Definite=Def|NameType=Giv|Number=Sing	7	flat:name	_	Translit=Azizin|LTranslit=Aziz
+9	հետ	հետ	ADP	_	AdpType=Post	7	case	_	Translit=het|LTranslit=het|SpaceAfter=No
+10	։	։	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Catalan-AnCora: POS Tags: `INTJ`
 
 There are 12 `INTJ` lemmas (0%), 12 `INTJ` types (0%) and 15 `INTJ` tokens (0%).
-Out of 17 observed tags, the rank of `INTJ` is: 14 in number of lemmas, 14 in number of types and 16 in number of tokens.
+Out of 17 observed tags, the rank of `INTJ` is: 13 in number of lemmas, 14 in number of types and 16 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>vaja, he, compte, déu, ep, hola, home, marbella, mira, oh</em>
 
@@ -35,14 +35,14 @@ The 10 most frequent ambiguous types:  <em>he</em> (<tt><a href="ca_ancora-pos-A
   * <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1: <em>El seu contestador respon amb un " Hola , no sóc a <b>Marbella</b> " com a salutació , i les seves intervencions televisives van sempre acompanyades de el comentari que acaba d' aterrar d' un avió procedent de el principat monegasc .</em>
 * <em>Mira</em>
   * <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> 3: <em>Abans de el debat s' emet la pel·lícula Daniya , jardí de l' harem , dirigida per Carles <b>Mira</b> .</em>
-  * <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1: <em>¡ <b>Mira</b> que és lleig !</em>
+  * <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1: <em>" ¡ <b>Mira</b> que és lleig !</em>
 * <em>sóc</em>
-  * <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> 13: <em>Bàsicament <b>sóc</b> una persona organitzadora i crec que serveixo per a això .</em>
+  * <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> 13: <em>Sé com <b>sóc</b> .</em>
   * <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt> 1: <em>El seu contestador respon amb un " Hola , no <b>sóc</b> a Marbella " com a salutació , i les seves intervencions televisives van sempre acompanyades de el comentari que acaba d' aterrar d' un avió procedent de el principat monegasc .</em>
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.413654).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.415132).
 
 The 1st highest number of forms (1) was observed with the lemma “compte”: <em>Compte</em>.
 

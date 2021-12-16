@@ -11,7 +11,7 @@ It occurs with 2 different values: `Fem`, `Masc`.
 
 158442 tokens (37%) have a non-empty value of `Gender`.
 20664 types (45%) occur at least once with a non-empty value of `Gender`.
-14834 lemmas (41%) occur at least once with a non-empty value of `Gender`.
+14762 lemmas (42%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 10 part-of-speech tags: <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (70392; 16% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt> (56063; 13% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (15363; 4% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (7441; 2% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (4452; 1% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (3490; 1% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt> (542; 0% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt> (369; 0% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (208; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt> (122; 0% instances).
 
 ### `NOUN`
@@ -88,6 +88,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
   <tr><th>Paradigm <i>tener</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>tenido</em></td><td></td></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tengo</em></td><td><em>tenia</em></td></tr>
+  <tr><td><tt><tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_gsd-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>tenidos</em></td><td><em>tenidas</em></td></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tienes</em></td><td></td></tr>
   <tr><td><tt><tt><a href="es_gsd-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>tenéis</em></td><td></td></tr>
 </table>

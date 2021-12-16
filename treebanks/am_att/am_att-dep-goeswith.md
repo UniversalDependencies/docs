@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-13 nodes (0%) are attached to their parents as `goeswith`.
+12 nodes (0%) are attached to their parents as `goeswith`.
 
-11 instances of `goeswith` (85%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.07692307692308.
+12 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.
 
-The following 6 pairs of parts of speech are connected with `goeswith`: <tt><a href="am_att-pos-PRON.html">PRON</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (5; 38% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt>-<tt><a href="am_att-pos-PART.html">PART</a></tt> (4; 31% instances), <tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt>-<tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> (1; 8% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-INTJ.html">INTJ</a></tt> (1; 8% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-PART.html">PART</a></tt> (1; 8% instances).
+The following 5 pairs of parts of speech are connected with `goeswith`: <tt><a href="am_att-pos-PRON.html">PRON</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (5; 42% instances), <tt><a href="am_att-pos-PRON.html">PRON</a></tt>-<tt><a href="am_att-pos-PART.html">PART</a></tt> (4; 33% instances), <tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="am_att-pos-CCONJ.html">CCONJ</a></tt> (1; 8% instances), <tt><a href="am_att-pos-INTJ.html">INTJ</a></tt>-<tt><a href="am_att-pos-SCONJ.html">SCONJ</a></tt> (1; 8% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-PART.html">PART</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 6 pairs of parts of speech are connected with `goeswith`: <tt><a h
 3	ስጥ	ስጥ	VERB	VERB	_	0	root	_	Translit=səţə|LTranslit=səţə
 4	ኧ	ኧ	PRON	OBJC	Number=Sing|Person=1	3	iobj	_	Translit='ă|LTranslit='ă
 5	ኝ	ኝ	PRON	OBJC	Gender=Neut|Number=Sing|Person=1	4	goeswith	_	Translit=ňə|LTranslit=ňə
-6	እንጂ	እንጂ	INTJ	INTJ	_	3	cc	_	Translit='ənədži|LTranslit='ənədži
+6	እንጂ	እንጂ	CCONJ	CCONJ	_	13	cc	_	Translit='ənədži|LTranslit='ənədži
 7	የ	የ	ADP	ADP	_	8	mark	_	Translit=jä|LTranslit=jä
 8	ፈለግ	ፈለግ	VERB	VERB	_	13	xcomp	_	Translit=fälägə|LTranslit=fälägə
 9	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	8	nsubj	_	Translit='ă|LTranslit='ă
@@ -65,11 +65,11 @@ The following 6 pairs of parts of speech are connected with `goeswith`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
-# visual-style 10 9 goeswith	color:blue
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 goeswith	color:blue
 1	ብ	ብ	ADP	ADP	_	2	mark	_	Translit=bə|LTranslit=bə
 2	ሠር	ሠር	VERB	VERB	_	6	csubj	_	Translit=śärə|LTranslit=śärə
 3	ኣ	ኣ	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	2	nsubj	_	Translit='a|LTranslit='a
@@ -78,8 +78,8 @@ The following 6 pairs of parts of speech are connected with `goeswith`: <tt><a h
 6	ወድ	ወድ	VERB	VERB	_	0	root	_	Translit=wädə|LTranslit=wädə
 7	ኣል	ኣል	AUX	AUX	_	6	aux	_	Translit='alə|LTranslit='alə
 8	ኧሁ	ኧሁ	PRON	SUBJC	Gender=Com|Number=Sing|Person=1	6	expl	_	Translit='ăhu|LTranslit='ăhu
-9	ነገር	ነገር	NOUN	NOUN	_	10	goeswith	_	Translit=nägärə|LTranslit=nägärə
-10	ግን	ግን	CCONJ	CCONJ	_	12	cc	_	Translit=gənə|LTranslit=gənə
+9	ነገር	ነገር	CCONJ	CCONJ	_	12	cc	_	Translit=nägärə|LTranslit=nägärə
+10	ግን	ግን	CCONJ	CCONJ	_	9	goeswith	_	Translit=gənə|LTranslit=gənə
 11	ጊዜ	ጊዜ	NOUN	NOUN	_	12	obj	_	Translit=gize|LTranslit=gize
 12	የለ	የለ	VERB	VERB	_	6	conj	_	Translit=jälä|LTranslit=jälä
 13	ኝ	ኝ	PRON	SUBJC	Gender=Com|Number=Sing|Person=1	12	nsubj	_	Translit=ňə|LTranslit=ňə

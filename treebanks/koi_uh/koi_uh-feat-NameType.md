@@ -30,9 +30,9 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 
 ### `NOUN`
 
-1 <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `NameType`.
+1 <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `NOUN` and `NameType` co-occurred: <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="koi_uh-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `NOUN` and `NameType` co-occurred: <tt><a href="koi_uh-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="koi_uh-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `NOUN` tokens may have the following values of `NameType`:
 

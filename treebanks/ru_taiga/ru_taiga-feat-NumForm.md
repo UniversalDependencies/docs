@@ -9,23 +9,23 @@ udver: '2'
 This feature is language-specific.
 It occurs with 4 different values: `Combi`, `Digit`, `Roman`, `Word`.
 
-3441 tokens (2%) have a non-empty value of `NumForm`.
-671 types (2%) occur at least once with a non-empty value of `NumForm`.
+3799 tokens (2%) have a non-empty value of `NumForm`.
+680 types (2%) occur at least once with a non-empty value of `NumForm`.
 521 lemmas (3%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (2724; 1% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (717; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> (3082; 2% instances), <tt><a href="ru_taiga-pos-ADJ.html">ADJ</a></tt> (717; 0% instances).
 
 ### `NUM`
 
-2724 <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
+3082 <tt><a href="ru_taiga-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2366; 87%), <tt><a href="ru_taiga-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2210; 81%), <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1874; 69%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="ru_taiga-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2802; 91%), <tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2724; 88%), <tt><a href="ru_taiga-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1931; 63%).
 
 `NUM` tokens may have the following values of `NumForm`:
 
 * `Combi` (18; 1% of non-empty `NumForm`): <em>2-х, 3-х, 3х, 11-ти, 12-ти, 13-ти, 18-ти, 20-ти, 2х, 30-ти</em>
-* `Digit` (1873; 69% of non-empty `NumForm`): <em>2, 3, 1, 5, 4, 10, 7, 30, 6, 20</em>
+* `Digit` (1874; 61% of non-empty `NumForm`): <em>2, 3, 1, 5, 4, 10, 7, 30, 6, 20</em>
 * `Roman` (1; 0% of non-empty `NumForm`): <em>I</em>
-* `Word` (832; 31% of non-empty `NumForm`): <em>несколько, два, один, сколько, три, две, двух, одной, столько, одна</em>
+* `Word` (1189; 39% of non-empty `NumForm`): <em>много, несколько, два, один, сколько, три, мало, две, больше, двух</em>
 
 <table>
   <tr><th>Paradigm <i>2</i></th><th><tt>Combi</tt></th><th><tt>Digit</tt></th></tr>
@@ -56,13 +56,13 @@ The most frequent other feature values with which `ADJ` and `NumForm` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `NumForm`:
 <tt>NUM --[<tt><a href="ru_taiga-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (157; 99%),
-<tt>NUM --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> NUM</tt> (65; 100%),
+<tt>NUM --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> NUM</tt> (70; 100%),
 <tt>ADJ --[<tt><a href="ru_taiga-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (24; 96%),
+<tt>NUM --[<tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (10; 91%),
 <tt>ADJ --[<tt><a href="ru_taiga-dep-conj.html">conj</a></tt>]--> ADJ</tt> (9; 75%),
-<tt>NUM --[<tt><a href="ru_taiga-dep-parataxis.html">parataxis</a></tt>]--> NUM</tt> (9; 90%),
 <tt>NUM --[<tt><a href="ru_taiga-dep-list.html">list</a></tt>]--> NUM</tt> (7; 100%),
 <tt>ADJ --[<tt><a href="ru_taiga-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (3; 75%),
 <tt>NUM --[<tt><a href="ru_taiga-dep-nummod-gov.html">nummod:gov</a></tt>]--> NUM</tt> (3; 100%),
 <tt>NUM --[<tt><a href="ru_taiga-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (3; 100%),
-<tt>NUM --[<tt><a href="ru_taiga-dep-compound.html">compound</a></tt>]--> NUM</tt> (2; 100%).
+<tt>NUM --[<tt><a href="ru_taiga-dep-advcl.html">advcl</a></tt>]--> NUM</tt> (2; 100%).
 

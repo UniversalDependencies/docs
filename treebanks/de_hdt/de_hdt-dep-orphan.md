@@ -11,26 +11,27 @@ This relation is universal.
 6 nodes (0%) are attached to their parents as `orphan`.
 
 6 instances of `orphan` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.16666666666667.
+Average distance between parent and child is 3.33333333333333.
 
 The following 2 pairs of parts of speech are connected with `orphan`: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (4; 67% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (2; 33% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 4 orphan	color:blue
+# visual-style 2 5 orphan	color:blue
 1	Alle	all	DET	PIDAT	Case=Nom|Number=Plur|Person=3	2	det	_	_
 2	Schulen	Schule	NOUN	NN	Gender=Fem|Number=Plur|Person=3	0	root	_	_
-3	ans	ans	ADP	APPRART	AdpType=Prep|Case=Acc|Gender=Neut|PronType=Art	4	case	_	_
-4	Netz	Netz	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing|Person=3	2	orphan	_	_
-5	und	und	CCONJ	KON	_	7	cc	_	_
-6	jedem	jeder	DET	PIAT	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Ind,Neg,Tot	7	det	_	_
-7	Schüler	Schüler	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	conj	_	_
-8	einen	einen	DET	ART	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	Laptop	Laptop	NOUN	NN	Gender=Masc|Number=Sing|Person=3	7	orphan	_	_
+3	an	an	ADP	APPR	AdpType=Prep|Case=Acc	5	case	_	_
+4	das	der	DET	ART	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
+5	Netz	Netz	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing|Person=3	2	orphan	_	_
+6	und	und	CCONJ	KON	_	8	cc	_	_
+7	jedem	jeder	DET	PIAT	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Ind,Neg,Tot	8	det	_	_
+8	Schüler	Schüler	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	conj	_	_
+9	einen	einen	DET	ART	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	Laptop	Laptop	NOUN	NN	Gender=Masc|Number=Sing|Person=3	8	orphan	_	_
 
 ~~~
 

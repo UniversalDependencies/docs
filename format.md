@@ -226,6 +226,9 @@ all treebanks.
 * `MSeg` … morphemic segmentation as commonly used in interlinear glossed text in linguistic literature: a hyphen (“-”) denotes boundary between morphemes, “=” is placed between a clitic and its host word.
 * `MGloss` … glossing of individual morphemes as commonly used in interlinear glossed text in linguistic literature. Hypens and equals-to symbols delimit morphemes as in `MSeg`, and there should be the same number of morphemes as in `MSeg` (if `MSeg` is missing, a single morpheme is assumed). A gloss is either a lexical meaning in English, or a grammatical tag; if multiple words/tags are needed in the gloss of one morpheme, they are joined by a period (“.”). There are no guidelines for the tags ([Leipzig glossing rules](https://www.eva.mpg.de/lingua/resources/glossing-rules.php) are a source of tags that are commonly used). However, most of the tags should probably have a corresponding feature in the FEATS column, and there it must follow the UD guidelines.
 
+For a more comprehensive documentation of MISC attributes that have been used in various UD treebanks,
+[see here](misc.html).
+
 
 
 # Sentence Boundaries and Comments

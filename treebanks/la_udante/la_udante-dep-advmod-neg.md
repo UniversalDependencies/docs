@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-UDante: Relations: `advmod:neg`
 
 This relation is a language-specific subtype of <tt><a href="la_udante-dep-advmod.html">advmod</a></tt>.
-There are also 1 other language-specific subtypes of `advmod`: <tt><a href="la_udante-dep-advmod-emph.html">advmod:emph</a></tt>.
+There are also 3 other language-specific subtypes of `advmod`: <tt><a href="la_udante-dep-advmod-emph.html">advmod:emph</a></tt>, <tt><a href="la_udante-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="la_udante-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
 672 nodes (1%) are attached to their parents as `advmod:neg`.
 
 627 instances of `advmod:neg` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.76785714285714.
+Average distance between parent and child is 1.75446428571429.
 
-The following 12 pairs of parts of speech are connected with `advmod:neg`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (412; 61% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (85; 13% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (62; 9% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (52; 8% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (21; 3% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (19; 3% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (7; 1% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (5; 1% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `advmod:neg`: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (411; 61% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (84; 13% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (62; 9% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (52; 8% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (22; 3% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (19; 3% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (8; 1% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (5; 1% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_udante-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt>-<tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -43,7 +43,7 @@ The following 12 pairs of parts of speech are connected with `advmod:neg`: <tt><
 2	sic	sic	ADV	r	PronType=Dem	4	advmod	_	_
 3	instantia	instantia	NOUN	sfs1n	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	4	nsubj	_	_
 4	videtur	uideo	VERB	vp2ips3	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-5	errare	erro	VERB	va1fp	Aspect=Imp|InflClass=LatA|InflClass[noun]=Ind|Tense=Pres|VerbForm=Inf|Voice=Act	4	csubj	_	_
+5	errare	erro	VERB	va1fp	Aspect=Imp|InflClass=LatA|InflClass[nominal]=Ind|Tense=Pres|VerbForm=Inf|Voice=Act	4	csubj	_	_
 6	secundum	secundum	ADP	e	AdpType=Prep|VerbForm=Gdv	9	case	_	_
 7	“	“	PUNCT	Pu	_	9	punct	_	SpaceAfter=No
 8	non	non	PART	r	Polarity=Neg	9	advmod:neg	_	_

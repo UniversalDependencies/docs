@@ -12,9 +12,9 @@ It occurs with 2 different values: `Plur`, `Sing`.
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="de_pud-feat-Number.html">Number</a></tt>, <tt><a href="de_pud-feat-Number-psor.html">Number[psor]</a></tt>.
 
 12545 tokens (59%) have a non-empty value of `Number`.
-5314 types (82%) occur at least once with a non-empty value of `Number`.
-4398 lemmas (82%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (4244; 20% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (2841; 13% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (1219; 6% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1194; 6% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (1152; 5% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (1084; 5% instances), <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (804; 4% instances), <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+5312 types (82%) occur at least once with a non-empty value of `Number`.
+4396 lemmas (82%) occur at least once with a non-empty value of `Number`.
+The feature is used with 9 part-of-speech tags: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (4244; 20% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (2844; 13% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (1219; 6% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (1194; 6% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (1152; 5% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (1084; 5% instances), <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (804; 4% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -41,14 +41,14 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `DET`
 
-2841 <tt><a href="de_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+2844 <tt><a href="de_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (2840; 100%), <tt><a href="de_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2242; 79%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (2840; 100%), <tt><a href="de_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2245; 79%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Plur` (570; 20% of non-empty `Number`): <em>die, den, der, viele, diese, einige, beiden, alle, vielen, dieser</em>
-* `Sing` (2271; 80% of non-empty `Number`): <em>der, dem, die, das, des, eine, ein, den, einer, einem</em>
+* `Sing` (2274; 80% of non-empty `Number`): <em>der, dem, die, das, des, eine, ein, den, einer, einem</em>
 * `EMPTY` (2): <em>der, welchen</em>
 
 <table>
@@ -58,6 +58,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>die</em></td></tr>
   <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>das</em></td><td><em>die</em></td></tr>
   <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>die</em></td></tr>
+  <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="de_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>dem</em></td><td></td></tr>
   <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>dem</em></td><td><em>den</em></td></tr>
   <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>der</em></td><td><em>den</em></td></tr>
   <tr><td><tt><tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>dem</em></td><td><em>den</em></td></tr>
@@ -194,15 +195,6 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sei</em></td><td><em>seien</em></td></tr>
 </table>
 
-### `ADP`
-
-3 <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Number`.
-
-`ADP` tokens may have the following values of `Number`:
-
-* `Sing` (3; 100% of non-empty `Number`): <em>z., z</em>
-* `EMPTY` (2040): <em>in, von, zu, mit, für, an, auf, nach, bei, über</em>
-
 ### `X`
 
 3 <tt><a href="de_pud-pos-X.html">X</a></tt> tokens (8% of all `X` tokens) have a non-empty value of `Number`.
@@ -228,7 +220,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="de_pud-dep-det.html">det</a></tt>]--> DET</tt> (2621; 100%),
+<tt>NOUN --[<tt><a href="de_pud-dep-det.html">det</a></tt>]--> DET</tt> (2624; 100%),
 <tt>NOUN --[<tt><a href="de_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1054; 100%),
 <tt>NOUN --[<tt><a href="de_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (492; 60%),
 <tt>VERB --[<tt><a href="de_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (419; 76%),

@@ -12,27 +12,27 @@ It occurs with 2 different values: `Prox`, `Remt`.
 16 tokens (1%) have a non-empty value of `Deixis`.
 6 types (2%) occur at least once with a non-empty value of `Deixis`.
 1 lemmas (0) occur at least once with a non-empty value of `Deixis`.
-The feature is used with 2 part-of-speech tags: <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> (10; 1% instances), <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (6; 1% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> (14; 1% instances), <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 ### `DET`
 
-10 <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> tokens (8% of all `DET` tokens) have a non-empty value of `Deixis`.
+14 <tt><a href="bej_nsc-pos-DET.html">DET</a></tt> tokens (11% of all `DET` tokens) have a non-empty value of `Deixis`.
 
-The most frequent other feature values with which `DET` and `Deixis` co-occurred: <tt><a href="bej_nsc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="bej_nsc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (9; 90%), <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 80%).
+The most frequent other feature values with which `DET` and `Deixis` co-occurred: <tt><a href="bej_nsc-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="bej_nsc-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (14; 100%), <tt><a href="bej_nsc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (13; 93%), <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 71%).
 
 `DET` tokens may have the following values of `Deixis`:
 
-* `Prox` (9; 90% of non-empty `Deixis`): <em>uːn, eːn, oːn, toːt</em>
-* `Remt` (1; 10% of non-empty `Deixis`): <em>beːn</em>
+* `Prox` (13; 93% of non-empty `Deixis`): <em>uːn, oːn, aːn, eːn, toːt</em>
+* `Remt` (1; 7% of non-empty `Deixis`): <em>beːn</em>
 
 ### `PRON`
 
-6 <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> tokens (3% of all `PRON` tokens) have a non-empty value of `Deixis`.
+2 <tt><a href="bej_nsc-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Deixis`.
 
-The most frequent other feature values with which `PRON` and `Deixis` co-occurred: <tt><a href="bej_nsc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="bej_nsc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6; 100%), <tt><a href="bej_nsc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 67%).
+The most frequent other feature values with which `PRON` and `Deixis` co-occurred: <tt><a href="bej_nsc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="bej_nsc-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2; 100%), <tt><a href="bej_nsc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="bej_nsc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `PRON` tokens may have the following values of `Deixis`:
 
-* `Prox` (5; 83% of non-empty `Deixis`): <em>aːn, oːn, uːn</em>
-* `Remt` (1; 17% of non-empty `Deixis`): <em>beːn</em>
+* `Prox` (1; 50% of non-empty `Deixis`): <em>oːn</em>
+* `Remt` (1; 50% of non-empty `Deixis`): <em>beːn</em>
 

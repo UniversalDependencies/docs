@@ -8,41 +8,31 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="kpv_lattice-dep-acl.html">acl</a></tt>.
 
-35 nodes (0%) are attached to their parents as `acl:relcl`.
+36 nodes (0%) are attached to their parents as `acl:relcl`.
 
-33 instances of `acl:relcl` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.97142857142857.
+33 instances of `acl:relcl` (92%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.83333333333333.
 
-The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (23; 66% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (3; 9% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (1; 3% instances).
+The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (24; 67% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (3; 8% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (1; 3% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 13 acl:relcl	color:blue
-1	Веськыда	веськыда	ADV	Adv	_	3	advmod:mmod	_	_
-2	кӧ	кӧ	SCONJ	CS	_	3	mark	_	_
-3	сёрнитны	сёрнитны	VERB	V	Valency=1|VerbForm=Inf	6	advcl	_	GTtags=IV,Inf|SpaceAfter=No
+# visual-style 7 6 acl:relcl	color:blue
+1	Ми	ме	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	GTtags=Pers,Pl1,Nom|SpaceAfter=No
+2	,	,	PUNCT	PUNCT	_	3	punct	_	_
+3	зонпосни	зонпосни	NOUN	N	Case=Nom|Number=Sing	1	appos	_	GTtags=Sg,Nom|SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	3	punct	_	_
-5	ог	оз	AUX	V	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres	6	aux:neg	_	GTtags=Neg,Ind,Prs,Sg1
-6	лӧсяв	лӧсявны	VERB	V	Connegative=Yes|Valency=1	0	root	_	GTtags=IV,ConNeg
-7	морткӧд	морт	NOUN	N	Case=Com|Number=Sing	6	obl	_	GTtags=Sg,Com|SpaceAfter=No
-8	,	,	PUNCT	PUNCT	_	13	punct	_	_
-9	коді	коді	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	13	nsubj	_	GTtags=Rel,Sg,Nom
-10	би	би	NOUN	N	Case=Nom|Number=Sing	14	obj	_	GTtags=Sg,Nom
-11	ни	ни	CCONJ	CC	_	12	cc	_	_
-12	ва	ва	NOUN	N	Case=Nom|Number=Sing	10	conj	_	GTtags=Sg,Nom
-13	вермӧ	вермыны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Valency=2	7	acl:relcl	_	GTtags=TV,Ind,Prs,Sg3
-14	скӧрмыны	скӧрмыны	VERB	V	Valency=1|VerbForm=Inf	13	xcomp	_	GTtags=IV,Inf|SpaceAfter=No
-15	,	,	PUNCT	PUNCT	_	13	punct	_	_
-16	a	а	CCONJ	CC	_	20	cc	_	_
-17	тані	тані	ADV	Adv	_	20	advmod:lmod	_	_
-18	ачым	ас	PRON	Pron	Case=Nom|Number=Sing|Person=1|Reflex=Yes	20	nsubj	_	GTtags=Refl,Sg1,Nom
-19	сэтшӧмкодьнас	сэтшӧмкодь	ADJ	A	Case=Nom|Number=Sing	20	obl	_	GTtags=Sg,Nom
-20	лои	лоны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|Valency=1	6	conj	_	GTtags=IV,Ind,Prt1,Sg3|SpaceAfter=No
-21	...	...	PUNCT	PUNCT	_	6	punct	_	_
+5	туриясӧн	тури	NOUN	N	Case=Ins|Number=Plur	6	obl:agent	_	GTtags=Pl,Ins
+6	вайӧм	вайны	VERB	V	Valency=2|VerbForm=Vnoun	7	acl:relcl	_	GTtags=TV,Der,Der/ӧм,PastPtc
+7	шудсӧ	шуд	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obj	_	GTtags=Sg,Acc,PxSg3
+8	гӧгӧрволім	гӧгӧрволыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,Pl1
+9	ас	ас	PRON	Pron	Case=Nom|Number=Sing	10	det	_	GTtags=Sg,Nom
+10	ног	ног	NOUN	N	Case=Nom|Number=Sing	8	obl	_	GTtags=Sg,Nom|SpaceAfter=No
+11	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
 ~~~
 

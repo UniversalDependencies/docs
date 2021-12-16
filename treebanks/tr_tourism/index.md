@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Aslı Kuzgun, Neslihan Cesur, Olcay Taner Yıldız, Oğuzhan Kuyrukçu, Büşra Marşan, Bilge Nas Arıcan, Neslihan Kara, Deniz Baran Aslan, Ezgi Sanıyar.
 
 Repository: [UD_Turkish-Tourism](https://github.com/UniversalDependencies/UD_Turkish-Tourism)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_tourism28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_tourism29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-SA 4.0
 
@@ -75,7 +75,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 
 
 <ul>
-<li>This corpus contains 19749 sentences and 92156 tokens.</li>
+<li>This corpus contains 19725 sentences and 91733 tokens.</li>
 </ul>
 
 <ul>
@@ -139,7 +139,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: DEĞİLDİ, DEĞİLLERDİ, DEĞİLDİM, DEĞİLDİK, DEĞİLDİLER</li>
+    <li>AUX: DEĞİLDİ, DEĞİLİM, DEĞİLLERDİ, DEĞİLDİM, DEĞİLDİK, DEĞİLDİLER, DEĞİLDİR</li>
     <li>VERB: GÜZELDİ, İYİYDİ, GÖRÜŞÜLDÜ, YOKTU, KALDIK, TESİSTİ, KALDIM, EDERİM, İLGİLİYDİ, İLGİLENDİ</li>
   </ul>
   </li>
@@ -178,7 +178,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
       <li>NOUN: YEMEKLER, YEMEKLERİ, PERSONELLER, PERSONELLERİ, AİLELER, ODALAR, OLANAKLARI, İMKANLARI, TEŞEKKÜRLER, AİLELERE</li>
       <li>PROPN: KİMLER</li>
       <li>VERB: KALDIK, İLGİLENDİLER, EDERİZ, EDİYORUZ, MEMNUNUZ, BEĞENDİK, OLDULAR, GÖRÜŞTÜK, YAŞAMADIK, KALMADIK</li>
-      <li>VERB-Fin: KALDIK, İLGİLENDİLER, EDERİZ, EDİYORUZ, BEĞENDİK, OLDULAR, GÖRÜŞTÜK, YAŞAMADIK, KALMADIK, ARADILAR</li>
+      <li>VERB-Fin: KALDIK, İLGİLENDİLER, EDERİZ, EDİYORUZ, MEMNUNUZ, BEĞENDİK, OLDULAR, GÖRÜŞTÜK, YAŞAMADIK, KALMADIK</li>
     </ul>
   </li>
 </ul>
@@ -187,9 +187,9 @@ We wish to thank the Starlang Software for funding and supporting this work.
   <li>Sing
     <ul>
       <li>AUX: DEĞİLDİ, DEĞİLİM, DEĞİLLERDİ, DEĞİLDİM, DEĞİLDİR</li>
-      <li>AUX-Fin: DEĞİLDİ, DEĞİLLERDİ, DEĞİLDİM</li>
+      <li>AUX-Fin: DEĞİLDİ, DEĞİLİM, DEĞİLLERDİ, DEĞİLDİM, DEĞİLDİR</li>
       <li>NOUN: HİZMET, BEY, PUAN, KONUMU, ÇEŞİT, TAVSİYE, TESİS, PERSONEL, OTEL, DENİZİ</li>
-      <li>PROPN: ETS, MEHMET, EMRE, FATİH, ETSTUR, TOLGA, ALİ, DENİZ, HAKAN, AHMET</li>
+      <li>PROPN: ETS, MEHMET, EMRE, FATİH, ETSTUR, TOLGA, ALİ, DENİZ, HAKAN, GÖKHAN</li>
       <li>VERB: GÜZELDİ, İYİYDİ, GÖRÜŞÜLDÜ, YOKTU, TESİSTİ, KALDIM, EDERİM, İLGİLİYDİ, İLGİLENDİ, VARDI</li>
       <li>VERB-Conv: GÖRÜŞTÜK</li>
       <li>VERB-Fin: GÜZELDİ, İYİYDİ, GÖRÜŞÜLDÜ, YOKTU, TESİSTİ, KALDIM, EDERİM, İLGİLİYDİ, İLGİLENDİ, VARDI</li>
@@ -224,7 +224,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Dat
     <ul>
-      <li>NOUN: ÜCRETE, FİYATA, DENİZE, AİLELERE, FİYATINA, MERKEZE, ADINA, ANKETE, BEYE, PARAYA</li>
+      <li>NOUN: ÜCRETE, FİYATA, DENİZE, AİLELERE, FİYATINA, MERKEZE, ADINA, ANKETE, PARAYA, BEYE</li>
       <li>PROPN: İSTANBUL'A, ATİNA'YA, KAYA'YA, SANTORİNİ'YE</li>
     </ul>
   </li>
@@ -251,7 +251,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Loc
     <ul>
-      <li>NOUN: GİRİŞTE, GENELDE, OTELDE, ANLAMDA, YEMEKLERDE, ANDA, KONUSUNDA, ODADA, DIŞINDA, ÇIKIŞTA</li>
+      <li>NOUN: GİRİŞTE, GENELDE, ANLAMDA, OTELDE, YEMEKLERDE, ANDA, KONUSUNDA, ODADA, DIŞINDA, ÇIKIŞTA</li>
       <li>PROPN: ATLANTİS'TE</li>
     </ul>
   </li>
@@ -262,7 +262,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
     <ul>
       <li>AUX: DEĞİLİM, DEĞİLLER</li>
       <li>NOUN: HİZMET, BEY, PUAN, ÇEŞİT, TAVSİYE, TESİS, PERSONEL, OTEL, YEMEKLER, KONUMU</li>
-      <li>PROPN: ETS, MEHMET, EMRE, FATİH, ETSTUR, TOLGA, ALİ, DENİZ, HAKAN, AHMET</li>
+      <li>PROPN: ETS, MEHMET, EMRE, FATİH, ETSTUR, TOLGA, ALİ, DENİZ, HAKAN, GÖKHAN</li>
     </ul>
   </li>
 </ul>
@@ -318,7 +318,6 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Neg
     <ul>
-      <li>VERB: KALMADIM, İSTEMİYORUM, ETMEM, OLMADI, BEĞENMEDİM, KULLANMADIM, ALAMADIM, YAPTIRMADIM, GÖRMEDİM, KARŞILAMADI</li>
       <li>VERB-Fin: KALMADIM, İSTEMİYORUM, ETMEM, OLMADI, BEĞENMEDİM, KULLANMADIM, ALAMADIM, YAPTIRMADIM, GÖRMEDİM, KARŞILAMADI</li>
       <li>VERB-Vnoun: DÜŞÜNMEMEKTEDİR</li>
     </ul>
@@ -328,7 +327,6 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Pos
     <ul>
-      <li>VERB: GÖRÜŞÜLDÜ, KALDIK, KALDIM, EDERİM, İLGİLENDİ, VERİYORUM, İSTİYORUM, VERİRİM, OLABİLİRDİ, VARDI</li>
       <li>VERB-Conv: GÖRÜŞTÜK</li>
       <li>VERB-Fin: GÖRÜŞÜLDÜ, KALDIK, KALDIM, EDERİM, İLGİLENDİ, VERİYORUM, İSTİYORUM, VERİRİM, OLABİLİRDİ, VARDI</li>
       <li>VERB-Part: VERDİĞİNİZ</li>
@@ -357,7 +355,6 @@ We wish to thank the Starlang Software for funding and supporting this work.
   <li>Perf
     <ul>
       <li>AUX-Fin: DEĞİLDİ, DEĞİLLERDİ, DEĞİLDİM, DEĞİLDİK, DEĞİLDİLER</li>
-      <li>VERB: GÜZELDİ, İYİYDİ, GÖRÜŞÜLDÜ, YOKTU, KALDIK, TESİSTİ, KALDIM, İLGİLİYDİ, İLGİLENDİ, VARDI</li>
       <li>VERB-Conv: GÖRÜŞTÜK</li>
       <li>VERB-Fin: GÜZELDİ, İYİYDİ, GÖRÜŞÜLDÜ, YOKTU, KALDIK, TESİSTİ, KALDIM, İLGİLİYDİ, İLGİLENDİ, VARDI</li>
       <li>VERB-Vnoun: ORTALAMAYDI, KARŞILAMAYDI</li>
@@ -368,7 +365,6 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Prog
     <ul>
-      <li>VERB: VERİYORUM, İSTEMİYORUM, İSTİYORUM, EDİYORUM, EDİYORUZ, BİLMİYORUM, DÜŞÜNMÜYOR, DÜŞÜNÜYORUM, ETMİYORUM, HAKETMİYOR</li>
       <li>VERB-Fin: VERİYORUM, İSTEMİYORUM, İSTİYORUM, EDİYORUM, EDİYORUZ, BİLMİYORUM, DÜŞÜNMÜYOR, DÜŞÜNÜYORUM, ETMİYORUM, HAKETMİYOR</li>
     </ul>
   </li>
@@ -381,8 +377,23 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Cnd
     <ul>
-      <li>VERB: OLURSA, VARSA, İSTİYORSANIZ, YENİLENİRSE, YAPTIYSA, İSTERSENİZ, DÜZELİRSE, DÜŞÜNÜRSE, GELİRSE, OLUNURSA</li>
-      <li>VERB-Fin: OLURSA, İSTİYORSANIZ, YENİLENİRSE, YAPTIYSA, İSTERSENİZ, DÜZELİRSE, DÜŞÜNÜRSE, GELİRSE, OLUNURSA, ARAMAZSANIZ</li>
+      <li>VERB-Fin: VARSA, İSTİYORSANIZ, YAPTIYSA, YAPINIZ, BİRSEN, DÜŞÜNÜYORSANIZ, GELDİYSENİZ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>CndGen
+    <ul>
+      <li>VERB-Fin: OLURSA, YENİLENİRSE, İSTERSENİZ, DÜZELİRSE, DÜŞÜNÜRSE, GELİRSE, OLUNURSA, ARAMAZSANIZ, BAŞARIRSANIZ, DÜZELTİRLERSE</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>CndGenPot
+    <ul>
+      <li>VERB-Fin: GÖREBİLİRSENİZ, GİREBİLİRSENİZ</li>
     </ul>
   </li>
 </ul>
@@ -390,8 +401,26 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Des
     <ul>
-      <li>VERB: OLSA, BİTSE, KURTULSAK, OLMASA, VARSA, KALKSAM, OLMASAM, OLSAK, OLSAYDI, İSE</li>
-      <li>VERB-Fin: OLSAYDI</li>
+      <li>VERB-Fin: OLSA, BİTSE, KURTULSAK, OLMASA, VARSA, KALKSAM, OLMASAM, OLSAK, OLSAYDI, İSE</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Gen
+    <ul>
+      <li>AUX-Fin: DEĞİLİM, DEĞİLDİR</li>
+      <li>VERB-Fin: EDERİM, VERİRİM, ETMEM, EDERİZ, DEĞERLENDİRİRİM, MEMNUNUM, BAHSEDERİM, MEMNUNUZ, KARARSIZIM, İSTERİM</li>
+      <li>VERB-Part: VERDİĞİNİZ</li>
+      <li>VERB-Vnoun: DÜŞÜNMEMEKTEDİR</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>GenPot
+    <ul>
+      <li>VERB-Fin: OLABİLİRDİ, OLABİLİR, VEREBİLİRİM, VEREMEM, ALABİLİRDİM, GİDEBİLİR, DİYEBİLİRİM, OLAMAZ, ALABİLİR, ALABİLİRİM</li>
     </ul>
   </li>
 </ul>
@@ -399,7 +428,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Imp
     <ul>
-      <li>VERB: OLSUN, ARAMAYIN, GELSİN, OLSUNLAR, ALINIZ, GİDİN, SAĞOLUN, VAR, ANIL, CHECK</li>
+      <li>VERB-Fin: OLSUN, ARAMAYIN, GELSİN, OLSUNLAR, GİDİN, SAĞOLUN, VAR, ALINIZ, ANIL, CHECK</li>
     </ul>
   </li>
 </ul>
@@ -418,8 +447,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Nec
     <ul>
-      <li>VERB: GİTMELİ, OLMALIYDI, ETMELİ, GİTMEMELİ, OLMALI, ÖDÜLLENDİRİLMELİ, YAPMALI, YAŞANMALI, ARAMALIYDI, EDİLMELİ</li>
-      <li>VERB-Fin: OLMALIYDI, ARAMALIYDI, OLMAMALIYDI</li>
+      <li>VERB-Fin: GİTMELİ, OLMALIYDI, ETMELİ, GİTMEMELİ, OLMALI, ÖDÜLLENDİRİLMELİ, YAPMALI, YAŞANMALI, ARAMALIYDI, EDİLMELİ</li>
     </ul>
   </li>
 </ul>
@@ -427,7 +455,15 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Opt
     <ul>
-      <li>VERB: VERMEYEYİM, DÖNE, GECE, SIRITA, BELİRTEYİM, GELELİM, GÖNDERELİM, GÖRÜŞELİM</li>
+      <li>VERB-Fin: VERMEYEYİM, DÖNE, GECE, SIRITA, BELİRTEYİM, GELELİM, GÖNDERELİM, GÖRÜŞELİM</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pot
+    <ul>
+      <li>VERB-Fin: ALAMADIM, ALAMADIK, GÖREMEDİK, GÖRÜŞEMEDİK, VEREMİYORUM, BULAMADIM, GÖREMEDİM, KATILAMAYACAĞIM, VEREMEYECEĞİM, YAPAMAYACAĞIM</li>
     </ul>
   </li>
 </ul>
@@ -459,8 +495,9 @@ We wish to thank the Starlang Software for funding and supporting this work.
   <li>Pres
     <ul>
       <li>AUX: DEĞİLİM, DEĞİLLER, DEĞİLDİR</li>
+      <li>AUX-Fin: DEĞİLİM, DEĞİLDİR</li>
       <li>VERB: EDERİM, VERİYORUM, İSTEMİYORUM, İSTİYORUM, VERİRİM, ETMEM, EDİYORUM, EDERİZ, DEĞERLENDİRİRİM, MEMNUNUM</li>
-      <li>VERB-Fin: EDERİM, VERİYORUM, İSTEMİYORUM, İSTİYORUM, VERİRİM, ETMEM, EDİYORUM, EDERİZ, DEĞERLENDİRİRİM, BAHSEDERİM</li>
+      <li>VERB-Fin: EDERİM, VERİYORUM, İSTEMİYORUM, İSTİYORUM, VERİRİM, ETMEM, EDİYORUM, EDERİZ, DEĞERLENDİRİRİM, MEMNUNUM</li>
       <li>VERB-Part: VERDİĞİNİZ</li>
       <li>VERB-Vnoun: DÜŞÜNMEMEKTEDİR</li>
     </ul>
@@ -474,7 +511,6 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Cau
     <ul>
-      <li>VERB: YAPTIRDI, YAPTIRMADIM, YÖNLENDİRDİ, YAPTIRDIM, SONLANDIRDI, YÖNLENDİRDİLER, BİLGİLENDİRDİ, ARATMADI, BEKLETTİLER, YAPTIRIYORUM</li>
       <li>VERB-Fin: YAPTIRDI, YAPTIRMADIM, YÖNLENDİRDİ, YAPTIRDIM, SONLANDIRDI, YÖNLENDİRDİLER, BİLGİLENDİRDİ, ARATMADI, BEKLETTİLER, YAPTIRIYORUM</li>
     </ul>
   </li>
@@ -483,8 +519,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>CauPass
     <ul>
-      <li>VERB: ARTTIRILABİLİR, BEKLETİLDİK, BEKLETİLDİM, DEĞİŞTİRİLDİ, GELİŞTİRİLEBİLİR, GÜÇLENDİRİLMELİ, KALDIRILMIŞ, KONUMLANDIRILMIŞ, YÖNLENDİRİLDİK, YÖNLENDİRİLDİM</li>
-      <li>VERB-Fin: ARTTIRILABİLİR, BEKLETİLDİK, BEKLETİLDİM, DEĞİŞTİRİLDİ, GELİŞTİRİLEBİLİR, YÖNLENDİRİLDİK, YÖNLENDİRİLDİM</li>
+      <li>VERB-Fin: ARTTIRILABİLİR, BEKLETİLDİK, BEKLETİLDİM, DEĞİŞTİRİLDİ, GELİŞTİRİLEBİLİR, GÜÇLENDİRİLMELİ, KALDIRILMIŞ, KONUMLANDIRILMIŞ, YÖNLENDİRİLDİK, YÖNLENDİRİLDİM</li>
     </ul>
   </li>
 </ul>
@@ -492,8 +527,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Pass
     <ul>
-      <li>VERB: GÖRÜŞÜLDÜ, YAPILDI, VERİLDİ, ARANDIM, GİDİLEBİLECEK, EDİLMİŞTİ, SAYILIR, İLGİLENİLMEDİ, ANIL, ARANMADIM</li>
-      <li>VERB-Fin: GÖRÜŞÜLDÜ, YAPILDI, VERİLDİ, ARANDIM, GİDİLEBİLECEK, EDİLMİŞTİ, SAYILIR, İLGİLENİLMEDİ, ARANMADIM, GİDİLEBİLİR</li>
+      <li>VERB-Fin: GÖRÜŞÜLDÜ, YAPILDI, VERİLDİ, ARANDIM, GİDİLEBİLECEK, EDİLMİŞTİ, SAYILIR, İLGİLENİLMEDİ, ANIL, ARANMADIM</li>
     </ul>
   </li>
 </ul>
@@ -501,8 +535,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Rcp
     <ul>
-      <li>VERB: KARŞILAŞMADIK, KARŞILAŞTIM, KARŞILAŞAMADIK, KARŞILAŞMADIM, KARŞILAŞTIK, SIKIŞTIRMIŞLAR</li>
-      <li>VERB-Fin: KARŞILAŞMADIK, KARŞILAŞTIM, KARŞILAŞAMADIK, KARŞILAŞMADIM, KARŞILAŞTIK</li>
+      <li>VERB-Fin: KARŞILAŞMADIK, KARŞILAŞTIM, KARŞILAŞAMADIK, KARŞILAŞMADIM, KARŞILAŞTIK, SIKIŞTIRMIŞLAR</li>
     </ul>
   </li>
 </ul>
@@ -510,8 +543,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Rfl
     <ul>
-      <li>VERB: DEN, TEMİZLENDİ, TEMİZLENMİYORDU, TEMİZLENMEDİ, TEMİZLENİYORDU, DENECEK, DENMEDİ, TEMİZLENMEMİŞ, TEMİZLENİYOR</li>
-      <li>VERB-Fin: TEMİZLENDİ, TEMİZLENMİYORDU, TEMİZLENMEDİ, TEMİZLENİYORDU, DENECEK, DENMEDİ, TEMİZLENİYOR</li>
+      <li>VERB-Fin: TEMİZLENDİ, TEMİZLENMİYORDU, DEN, TEMİZLENMEDİ, TEMİZLENİYORDU, DENECEK, DENMEDİ, TEMİZLENMEMİŞ, TEMİZLENİYOR</li>
     </ul>
   </li>
 </ul>
@@ -525,9 +557,26 @@ We wish to thank the Starlang Software for funding and supporting this work.
 </ul>
 
 <ul>
+  <li>Art
+    <ul>
+      <li>DET: BİR, HER, BU, O, ŞU, HİÇBİR, TÜM, BAZI, ÇOK, DÖRTLÜK</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Dem
     <ul>
       <li>PRON: ONLAR, O, BU, BUNDAN, BUNA, BUNUN, BUNLAR, BUNU, ONDAN, ONLARA</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>ADV: HEP</li>
+      <li>PRON: HEPSİ, HERKESE, HERKES, HEPSİNE, HEPSİNDEN, BİRİ, HEPSİNİ, KİMSE, BAZILARI, BİRİSİ</li>
     </ul>
   </li>
 </ul>
@@ -537,8 +586,15 @@ We wish to thank the Starlang Software for funding and supporting this work.
     <ul>
       <li>ADV: NE, NASIL</li>
       <li>AUX: Mİ, MİYİM, MU, MİYDİ</li>
-      <li>NOUN: KİMİN</li>
       <li>PRON: KİM, HANGİ, NE</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>PRON: HİÇBİRİ</li>
     </ul>
   </li>
 </ul>
@@ -546,7 +602,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: BEN, BİZİMLE, BENCE, BANA, BİZE, BİZİ, BENİ, BİZ, BENİM, SİZE</li>
+      <li>PRON: BEN, BİZİMLE, BENCE, BANA, BİZİ, BİZE, BENİ, BİZ, BENİM, KENDİSİ</li>
     </ul>
   </li>
 </ul>
@@ -600,8 +656,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>1
     <ul>
-      <li>AUX: DEĞİLİM, DEĞİLDİM, DEĞİLDİK</li>
-      <li>AUX-Fin: DEĞİLDİM, DEĞİLDİK</li>
+      <li>AUX-Fin: DEĞİLİM, DEĞİLDİM, DEĞİLDİK</li>
       <li>VERB: KALDIK, KALDIM, EDERİM, VERİYORUM, KALMADIM, İSTEMİYORUM, İSTİYORUM, VERİRİM, ETMEM, BEĞENDİM</li>
       <li>VERB-Conv: GÖRÜŞTÜK</li>
       <li>VERB-Fin: KALDIK, KALDIM, EDERİM, VERİYORUM, KALMADIM, İSTEMİYORUM, İSTİYORUM, VERİRİM, ETMEM, BEĞENDİM</li>
@@ -613,8 +668,8 @@ We wish to thank the Starlang Software for funding and supporting this work.
 <ul>
   <li>2
     <ul>
-      <li>VERB: ARAMAYIN, ALINIZ, GİDİN, SAĞOLUN, VAR, İSTİYORSANIZ, ANIL, CHECK, DEN, İLETİN</li>
-      <li>VERB-Fin: İSTİYORSANIZ, KALIYORSUNUZ, PAYLAŞABİLİRSİNİZ, İSTERSENİZ, FAYDALANABİLİRSİNİZ, KALACAKSINIZ, KALDINIZ, YÜZÜYORSUNUZ, İLETEBİLİRSİNİZ, ALIRSINIZ</li>
+      <li>VERB: ARAMAYIN, GİDİN, SAĞOLUN, VAR, İSTİYORSANIZ, ALINIZ, ANIL, CHECK, İLETİN, AL</li>
+      <li>VERB-Fin: ARAMAYIN, GİDİN, SAĞOLUN, VAR, İSTİYORSANIZ, ALINIZ, ANIL, CHECK, İLETİN, AL</li>
     </ul>
   </li>
 </ul>
@@ -623,7 +678,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
   <li>3
     <ul>
       <li>AUX: DEĞİLDİ, DEĞİLLERDİ, DEĞİLİM, DEĞİLLER, DEĞİLDİLER, DEĞİLDİR</li>
-      <li>AUX-Fin: DEĞİLDİ, DEĞİLLERDİ, DEĞİLDİLER</li>
+      <li>AUX-Fin: DEĞİLDİ, DEĞİLLERDİ, DEĞİLDİLER, DEĞİLDİR</li>
       <li>NOUN: HİZMET, BEY, PUAN, KONUMU, ÇEŞİT, TAVSİYE, TESİS, PERSONEL, OTEL, DENİZİ</li>
       <li>VERB: GÜZELDİ, İYİYDİ, GÖRÜŞÜLDÜ, YOKTU, TESİSTİ, İLGİLİYDİ, İLGİLENDİ, VARDI, KÖTÜYDÜ, AZDI</li>
       <li>VERB-Fin: GÜZELDİ, İYİYDİ, GÖRÜŞÜLDÜ, YOKTU, TESİSTİ, İLGİLİYDİ, İLGİLENDİ, VARDI, KÖTÜYDÜ, AZDI</li>
@@ -642,8 +697,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
   <li>Plur
     <ul>
       <li>NOUN: MİSAFİRİMİZ, ODAMIZ, YEMEKLERİNDEN, REHBERİMİZ, PERSONELLERİNDEN, TADIMIZA, PLANIMIZ, YEMEKLERİNİ, PERSONELLERİ, ACENTAMIZA</li>
-      <li>VERB: REHBERİMİZDİ, EVİMİZDEYMİŞİZ, YANIMIZDAYDI</li>
-      <li>VERB-Fin: REHBERİMİZDİ, YANIMIZDAYDI</li>
+      <li>VERB-Fin: REHBERİMİZDİ, EVİMİZDEYMİŞİZ, YANIMIZDAYDI</li>
     </ul>
   </li>
 </ul>
@@ -654,7 +708,7 @@ We wish to thank the Starlang Software for funding and supporting this work.
       <li>AUX: DEĞİLİM</li>
       <li>NOUN: KONUMU, KALİTESİ, YEMEKLERİ, PERSONELLERİ, DENİZİ, TEMİZLİĞİ, HAVUZU, OLMASI, KARŞILIĞINI, HİZMETİ</li>
       <li>VERB: ADINAYDI, ALTINDAYDI, BİRİYDİ, MERKEZİYDİ, OTELİYDİ, ÜZERİNDEYDİ, HALİNDEYİZ, YOLUNDAYDI, YORUMUDUR, ÜSTÜNDEYDİ</li>
-      <li>VERB-Fin: ADINAYDI, ALTINDAYDI, BİRİYDİ, MERKEZİYDİ, OTELİYDİ, ÜZERİNDEYDİ, YOLUNDAYDI, ÜSTÜNDEYDİ, KALİTESİNDEYDİ, ÇİFTİYDİK</li>
+      <li>VERB-Fin: ADINAYDI, ALTINDAYDI, BİRİYDİ, MERKEZİYDİ, OTELİYDİ, ÜZERİNDEYDİ, HALİNDEYİZ, YOLUNDAYDI, YORUMUDUR, ÜSTÜNDEYDİ</li>
     </ul>
   </li>
 </ul>
@@ -669,22 +723,20 @@ We wish to thank the Starlang Software for funding and supporting this work.
         <ul>
           <li>AUX: DEĞİLİM</li>
           <li>NOUN: FATURAM, MİSAFİRİMİZ, ODAMIZ, EŞİM, REHBERİMİZ, ODAM, ARKADAŞIM, TADIMIZA, HOŞUMA, ODAMDAN</li>
-          <li>VERB: REHBERİMİZDİ, ALMADIM, ARKADAŞIMDI, EVİMİZDEYMİŞİZ, TAVSİYEMDİR, YANIMIZDAYDI</li>
-          <li>VERB-Fin: REHBERİMİZDİ, ALMADIM, ARKADAŞIMDI, YANIMIZDAYDI</li>
+          <li>VERB-Fin: REHBERİMİZDİ, ALMADIM, ARKADAŞIMDI, EVİMİZDEYMİŞİZ, TAVSİYEMDİR, YANIMIZDAYDI</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>NOUN: ÜZERİNDEN, YURTDIŞINDA, KARŞIN, OTELİNİZDEN, TURAN, AN, KUSURUNUZ, OTELİNİZİ, PARANIZIN, YAŞAMANIZI</li>
+          <li>NOUN: ÜZERİNDEN, YURTDIŞINDA, OTELİNİZDEN, TURAN, AN, KARŞIN, KUSURUNUZ, OTELİNİZİ, PARANIZIN, YAŞAMANIZI</li>
           <li>VERB: ÜZERİNDEYDİ, YURTDIŞINDAYIM, ALTINDAYDI, İNSANDI, İNSANLAR</li>
-          <li>VERB-Fin: ÜZERİNDEYDİ, ALTINDAYDI, İNSANDI</li>
+          <li>VERB-Fin: ÜZERİNDEYDİ, YURTDIŞINDAYIM, ALTINDAYDI, İNSANDI</li>
         </ul>
       </li>
       <li>3
         <ul>
           <li>NOUN: KONUMU, KALİTESİ, YEMEKLERİ, PERSONELLERİ, DENİZİ, TEMİZLİĞİ, HAVUZU, OLMASI, KARŞILIĞINI, HİZMETİ</li>
-          <li>VERB: ADINAYDI, ALTINDAYDI, BİRİYDİ, MERKEZİYDİ, OTELİYDİ, HALİNDEYİZ, YOLUNDAYDI, YORUMUDUR, ÜSTÜNDEYDİ, İÇERİSİNDEYİZ</li>
-          <li>VERB-Fin: ADINAYDI, ALTINDAYDI, BİRİYDİ, MERKEZİYDİ, OTELİYDİ, YOLUNDAYDI, ÜSTÜNDEYDİ, KALİTESİNDEYDİ, ÇİFTİYDİK, ACEMİYDİ</li>
+          <li>VERB-Fin: ADINAYDI, ALTINDAYDI, BİRİYDİ, MERKEZİYDİ, OTELİYDİ, HALİNDEYİZ, YOLUNDAYDI, YORUMUDUR, ÜSTÜNDEYDİ, İÇERİSİNDEYİZ</li>
         </ul>
       </li>
     </ul>
@@ -709,26 +761,22 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Acc (5)</li>
-      <li>VERB--NOUN-Dat (1)</li>
-      <li>VERB--NOUN-Gen (1)</li>
-      <li>VERB--NOUN-Nom (97)</li>
-      <li>VERB--NOUN-Nom-ADP(dahi) (1)</li>
-      <li>VERB--NOUN-Nom-ADP(de) (1)</li>
-      <li>VERB--PRON (15)</li>
+      <li>VERB--NOUN-Nom (1)</li>
+      <li>VERB--PRON (1)</li>
       <li>VERB-Fin--NOUN-Abl (4)</li>
-      <li>VERB-Fin--NOUN-Acc (593)</li>
-      <li>VERB-Fin--NOUN-Dat (5)</li>
-      <li>VERB-Fin--NOUN-Gen (1)</li>
+      <li>VERB-Fin--NOUN-Acc (594)</li>
+      <li>VERB-Fin--NOUN-Dat (6)</li>
+      <li>VERB-Fin--NOUN-Gen (2)</li>
       <li>VERB-Fin--NOUN-Ins (131)</li>
-      <li>VERB-Fin--NOUN-Nom (5707)</li>
+      <li>VERB-Fin--NOUN-Nom (5805)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(da) (3)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(de) (5)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(dahi) (1)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(de) (6)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(dekorasyon) (2)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(diye) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(ile) (332)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(ol) (6)</li>
-      <li>VERB-Fin--PRON (306)</li>
+      <li>VERB-Fin--PRON (317)</li>
       <li>VERB-Fin--PRON-ADP(da) (1)</li>
       <li>VERB-Fin--PRON-ADP(de) (3)</li>
       <li>VERB-Vnoun--NOUN-Nom (2)</li>
@@ -739,28 +787,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Abl (13)</li>
-      <li>VERB--NOUN-Abl-ADP(da) (1)</li>
-      <li>VERB--NOUN-Acc (12)</li>
-      <li>VERB--NOUN-Dat (8)</li>
-      <li>VERB--NOUN-Ins (2)</li>
-      <li>VERB--NOUN-Loc (1)</li>
-      <li>VERB--NOUN-Nom (23)</li>
-      <li>VERB--PRON (16)</li>
-      <li>VERB-Fin--NOUN-Abl (467)</li>
-      <li>VERB-Fin--NOUN-Acc (573)</li>
+      <li>VERB-Fin--NOUN-Abl (474)</li>
+      <li>VERB-Fin--NOUN-Acc (581)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(da) (1)</li>
-      <li>VERB-Fin--NOUN-Dat (192)</li>
+      <li>VERB-Fin--NOUN-Dat (197)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(da) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(göre) (1)</li>
       <li>VERB-Fin--NOUN-Gen (6)</li>
-      <li>VERB-Fin--NOUN-Ins (12)</li>
-      <li>VERB-Fin--NOUN-Loc (11)</li>
-      <li>VERB-Fin--NOUN-Nom (766)</li>
+      <li>VERB-Fin--NOUN-Ins (14)</li>
+      <li>VERB-Fin--NOUN-Loc (9)</li>
+      <li>VERB-Fin--NOUN-Nom (786)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(hakkında) (3)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(ile) (10)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(ol) (1)</li>
-      <li>VERB-Fin--PRON (199)</li>
+      <li>VERB-Fin--PRON (213)</li>
       <li>VERB-Fin--PRON-ADP(ile) (3)</li>
     </ul>
   </li>

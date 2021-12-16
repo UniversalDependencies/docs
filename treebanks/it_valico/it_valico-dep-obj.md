@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-444 nodes (7%) are attached to their parents as `obj`.
+446 nodes (7%) are attached to their parents as `obj`.
 
-356 instances of `obj` (80%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.97747747747748.
+355 instances of `obj` (80%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.97533632286996.
 
-The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (278; 63% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (152; 34% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt> (9; 2% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (277; 62% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (156; 35% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-PROPN.html">PROPN</a></tt> (9; 2% instances), <tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

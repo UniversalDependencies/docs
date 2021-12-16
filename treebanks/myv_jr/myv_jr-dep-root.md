@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1690 nodes (10%) are attached to their parents as `root`.
+1704 nodes (10%) are attached to their parents as `root`.
 
-1690 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.52603550295858.
+1704 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.5580985915493.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1335; 79% instances), -<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (148; 9% instances), -<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (68; 4% instances), -<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (41; 2% instances), -<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (38; 2% instances), -<tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (23; 1% instances), -<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (21; 1% instances), -<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (7; 0% instances), -<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (4; 0% instances), -<tt><a href="myv_jr-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="myv_jr-pos-PART.html">PART</a></tt> (2; 0% instances), -<tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (1344; 79% instances), -<tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (149; 9% instances), -<tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (68; 4% instances), -<tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (43; 3% instances), -<tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (39; 2% instances), -<tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (23; 1% instances), -<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (22; 1% instances), -<tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (7; 0% instances), -<tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (4; 0% instances), -<tt><a href="myv_jr-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="myv_jr-pos-PART.html">PART</a></tt> (2; 0% instances), -<tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0 4 root	color:blue
 1	Велень	веле	NOUN	N	Case=Gen|Definite=Ind|Number=Plur,Sing	2	nmod:poss	_	GTtags=Sem/Plc,SP,Gen,Indef
 2	росась	роса	NOUN	N	Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	GTtags=Sg,Nom,Def
-3	эзь	эзь	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	4	aux:neg	_	_
+3	эзь	а	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Tense=Past|VerbType=Aux	4	aux:neg	_	_
 4	костявт	костявомс	VERB	V	Connegative=Yes|Mood=Ind|Valency=1	0	root	_	GTtags=IV,Ind,ConNeg
 5	валске	валске	NOUN	N	AdvType=Tim|Case=Nom|Definite=Ind|Number=Sing	6	compound	_	GTtags=Temp,Sg,Nom,Indef
 6	мартонь	марто	NOUN	N	Case=Gen|Definite=Ind|NounType=Relat|Number=Plur,Sing	7	nmod	_	GTtags=Der/MWN,N,SP,Gen,Indef

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-464 nodes (0%) are attached to their parents as `iobj`.
+467 nodes (0%) are attached to their parents as `iobj`.
 
-464 instances of `iobj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.16594827586207.
+467 instances of `iobj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.17344753747323.
 
-The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (390; 84% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (47; 10% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (25; 5% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (391; 84% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (48; 10% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (26; 6% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -69,7 +69,7 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 3	Microwave	microwave	NOUN	NN	Number=Sing	9	nsubj	6:obj|9:nsubj	_
 4	that	that	PRON	WDT	PronType=Rel	6	obj	3:ref	_
 5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	6:nsubj	_
-6	gave	give	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	3	acl:relcl	3:acl:relcl	_
+6	gave	give	VERB	VBD	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin	3	acl:relcl	3:acl:relcl	_
 7	Dan	Dan	PROPN	NNP	Number=Sing	6	iobj	6:iobj	_
 8	really	really	ADV	RB	_	9	advmod	9:advmod	_
 9	expensive	expensive	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No

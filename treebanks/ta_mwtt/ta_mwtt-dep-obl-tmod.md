@@ -23,11 +23,11 @@ The following 4 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 obl:tmod	color:blue
-1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3|Polite=Form	4	nsubj	4:nsubj	Translit=kumār|LTranslit=kumār
-2	ஐந்து	ஐந்து	NUM	_	Case=Nom	3	nummod	3:nummod	Translit=aintu|LTranslit=aintu
-3	மணிக்கு	மணி	NOUN	_	Case=Dat|Number=Sing|Person=3	4	obl:tmod	4:obl:tmod	Translit=maṇikku|LTranslit=maṇi
-4	வருவான்	வா	VERB	_	Gender=Masc|Number=Sing|Person=3|Tense=Fut	0	root	0:root	Translit=varuvāṉ|LTranslit=vā
-5	.	.	PUNCT	_	PunctType=Peri	4	punct	4:punct	Translit=.|LTranslit=.
+1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3|Polite=Form	4	nsubj	_	Translit=kumār|LTranslit=kumār
+2	ஐந்து	ஐந்து	NUM	_	Case=Nom	3	nummod	_	Translit=aintu|LTranslit=aintu
+3	மணிக்கு	மணி	NOUN	_	Case=Dat|Number=Sing|Person=3	4	obl:tmod	_	Translit=maṇikku|LTranslit=maṇi
+4	வருவான்	வா	VERB	_	Gender=Masc|Number=Sing|Person=3|Tense=Fut	0	root	_	Translit=varuvāṉ|LTranslit=vā
+5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -38,12 +38,12 @@ The following 4 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 obl:tmod	color:blue
-1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3	5	nsubj	5:nsubj	Translit=kumār|LTranslit=kumār
-2	இன்று	இன்று	ADV	_	_	5	obl:tmod	5:obl:tmod	Translit=iṉṟu|LTranslit=iṉṟu
-3	மட்டும்	மட்டும்	ADV	_	_	5	advmod	5:advmod	Translit=maṭṭum|LTranslit=maṭṭum
-4	இங்கே	இங்கே	ADV	_	_	5	obl:pmod	5:obl:pmod	Translit=iṅkē|LTranslit=iṅkē
-5	இருக்கிறான்	இரு	VERB	_	Gender=Masc|Number=Sing|Person=3|Tense=Pres	0	root	0:root	Translit=irukkiṟāṉ|LTranslit=iru
-6	.	.	PUNCT	_	PunctType=Peri	5	punct	5:punct	Translit=.|LTranslit=.
+1	குமார்	குமார்	PROPN	_	Case=Nom|Number=Sing|Person=3	5	nsubj	_	Translit=kumār|LTranslit=kumār
+2	இன்று	இன்று	ADV	_	_	5	obl:tmod	_	Translit=iṉṟu|LTranslit=iṉṟu
+3	மட்டும்	மட்டும்	ADV	_	_	5	advmod	_	Translit=maṭṭum|LTranslit=maṭṭum
+4	இங்கே	இங்கே	ADV	_	_	5	obl:pmod	_	Translit=iṅkē|LTranslit=iṅkē
+5	இருக்கிறான்	இரு	VERB	_	Gender=Masc|Number=Sing|Person=3|Tense=Pres	0	root	_	Translit=irukkiṟāṉ|LTranslit=iru
+6	.	.	PUNCT	_	PunctType=Peri	5	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -54,11 +54,11 @@ The following 4 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 obl:tmod	color:blue
-1	காலை	காலை	NOUN	_	Case=Nom|Number=Sing|Person=3	3	obl:tmod	3:obl:tmod	Translit=kālai|LTranslit=kālai
-2	முதல்	முதல்	ADP	_	AdpType=Post	1	case	1:case	Translit=mutal|LTranslit=mutal
-3	மழை	மழை	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	0:root	Translit=maḻai|LTranslit=maḻai
-4	பெய்கிறது	பெய்	VERB	_	Gender=Neut|Number=Sing|Person=3|Tense=Pres	3	compound:lvc	3:compound:lvc	Translit=peykiṟatu|LTranslit=pey
-5	.	.	PUNCT	_	PunctType=Peri	3	punct	3:punct	Translit=.|LTranslit=.
+1	காலை	காலை	NOUN	_	Case=Nom|Number=Sing|Person=3	3	obl:tmod	_	Translit=kālai|LTranslit=kālai
+2	முதல்	முதல்	ADP	_	AdpType=Post	1	case	_	Translit=mutal|LTranslit=mutal
+3	மழை	மழை	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	Translit=maḻai|LTranslit=maḻai
+4	பெய்கிறது	பெய்	VERB	_	Gender=Neut|Number=Sing|Person=3|Tense=Pres	3	compound:lvc	_	Translit=peykiṟatu|LTranslit=pey
+5	.	.	PUNCT	_	PunctType=Peri	3	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

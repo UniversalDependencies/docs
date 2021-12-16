@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  <em>aber</em> (<tt><a href="qtd_sagt-pos-
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.037037 (the average of all parts of speech is 1.681057).
+The form / lemma ratio of `CCONJ` is 1.037037 (the average of all parts of speech is 1.679170).
 
 The 1st highest number of forms (2) was observed with the lemma “de”: <em>da, de</em>.
 
@@ -70,12 +70,12 @@ The 2nd highest number of forms (2) was observed with the lemma “hem”: <em>h
 
 The 3rd highest number of forms (1) was observed with the lemma “aber”: <em>aber</em>.
 
-`CCONJ` occurs with 1 features: <tt><a href="qtd_sagt-feat-Foreign.html">Foreign</a></tt> (2; 0% instances)
+`CCONJ` occurs with 2 features: <tt><a href="qtd_sagt-feat-Foreign.html">Foreign</a></tt> (2; 0% instances), <tt><a href="qtd_sagt-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
-`CCONJ` occurs with 1 feature-value pairs: `Foreign=Yes`
+`CCONJ` occurs with 2 feature-value pairs: `Foreign=Yes`, `Typo=Yes`
 
-`CCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (1459 tokens).
+`CCONJ` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (1458 tokens).
 Examples: <em>und, ama, aber, oder, ya, da, de, bir, ve, sondern</em>
 
 

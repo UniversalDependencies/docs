@@ -35,4 +35,4 @@ See also the related features of [Person[psor]]() and [Number[psor]]().
 #### Examples
 
 * _<b>շունը, շունն</b>_ “the dog”
-<!-- Interlanguage links updated Pá kvě 14 11:08:30 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:19 CET 2021 -->

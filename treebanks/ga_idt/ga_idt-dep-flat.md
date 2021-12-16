@@ -23,11 +23,11 @@ The following 15 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 flat	color:blue
-1	Campa	campa	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
+1	Campa	campa	NOUN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
 2	samhraidh	samhradh	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	NamedEntity=Yes
-3	Óg-Eagras	Óg-Eagras	PROPN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	1	flat	_	NamedEntity=Yes|SpaceAfter=No
+3	Óg-Eagras	Óg-Eagras	PROPN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	flat	_	NamedEntity=Yes|SpaceAfter=No
 4	,	,	PUNCT	Punct	_	5	punct	_	_
-5	Ionad	ionad	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	1	appos	_	NamedEntity=Yes
+5	Ionad	ionad	NOUN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	appos	_	NamedEntity=Yes
 6	Mosney	Mosney	PROPN	Noun	Definite=Def|Gender=Masc|Number=Sing	5	nmod	_	NamedEntity=Yes|SpaceAfter=No
 7	,	,	PUNCT	Punct	_	8	punct	_	_
 8	Co.	contae	NOUN	Abr	Abbr=Yes|Definite=Def	1	nmod	_	NamedEntity=Yes
@@ -62,7 +62,7 @@ The following 15 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 6	fgColor:white
 # visual-style 6 7 flat	color:blue
 1	Tá	bí	VERB	PresInd	Mood=Ind|Tense=Pres	0	root	_	_
-2	moladh	moladh	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	1	nsubj	_	_
+2	moladh	moladh	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 3	saothraithe	saothraithe	ADJ	Adj	VerbForm=Part	1	xcomp:pred	_	_
 4	ag	ag	ADP	Simp	_	6	case	_	_
 5	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
@@ -70,9 +70,9 @@ The following 15 pairs of parts of speech are connected with `flat`: <tt><a href
 7	Maskey	Maskey	PROPN	Noun	Definite=Def|Gender=Masc|Number=Sing	6	flat	_	NamedEntity=Yes
 8	ó	ó	ADP	Simp	_	10	case	_	_
 9	gach	gach	DET	Det	Definite=Def	10	det	_	_
-10	taobh	taobh	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	_
+10	taobh	taobh	NOUN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	obl	_	_
 11	den	de	ADP	Art	Number=Sing|PronType=Art	12	case	_	_
-12	phobal	pobal	NOUN	Noun	Case=NomAcc|Definite=Def|Form=Len|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
+12	phobal	pobal	NOUN	Noun	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
 13	.	.	PUNCT	.	_	1	punct	_	_
 
 ~~~

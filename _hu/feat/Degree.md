@@ -39,4 +39,4 @@ objects within a set.
 * [hu] _<b>legnagyobb</b>_ “biggest”
 * [hu] _<b>legjobban</b>_ “best” (adverb)
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:31 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:19 CET 2021 -->

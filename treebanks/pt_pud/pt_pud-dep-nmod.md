@@ -25,7 +25,7 @@ The following 25 pairs of parts of speech are connected with `nmod`: <tt><a href
 1	Foi	_	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	aux:pass	_	_
 2	realizado	_	VERB	VBN	Gender=Masc|Number=Sing	0	root	_	_
 3	em	em	ADP	INDT	_	5	case	_	_
-4	a	o	DET	_	Gender=Fem|Number=Sing	5	det	_	_
+4	a	o	DET	_	Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	costa	costa	NOUN	NN	Gender=Fem|Number=Sing	2	obl	_	_
 6	mexicana	mexicano	ADJ	JJ	Gender=Fem|Number=Sing	5	amod	_	SpaceAfter=No
 7	,	,	PUNCT	,	_	9	punct	_	_
@@ -47,10 +47,10 @@ The following 25 pairs of parts of speech are connected with `nmod`: <tt><a href
 1	Quem	_	PRON	WP	_	2	nsubj	_	_
 2	consegue	conseguir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 3	parar	_	VERB	VB	_	2	xcomp	_	_
-4	o	o	DET	DT	Gender=Masc|Number=Sing	5	det	_	_
+4	o	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	time	time	NOUN	NN	Gender=Masc|Number=Sing	3	obj	_	_
 6	de	de	ADP	INDT	_	8	case	_	_
-7	a	o	DET	_	Gender=Fem|Number=Sing	8	det	_	_
+7	a	o	DET	_	Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	Austrália	Austrália	PROPN	NNP	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
 9	?	?	PUNCT	.	_	2	punct	_	_
 
@@ -69,7 +69,7 @@ The following 25 pairs of parts of speech are connected with `nmod`: <tt><a href
 4	agosto	agosto	NOUN	NN	Gender=Masc|Number=Sing	2	nmod	_	_
 5	de	de	ADP	IN	_	6	case	_	_
 6	2010	_	NUM	CD	Gender=Masc	2	nmod	_	_
-7	a	o	DET	DT	Gender=Fem|Number=Sing	8	det	_	_
+7	a	o	DET	DT	Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	fome	fome	NOUN	NN	Gender=Fem|Number=Sing	9	nsubj	_	_
 9	atingiu	atingir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	_
 10	Sahel	Sahel	PROPN	NNP	Gender=Fem|Number=Sing	9	obj	_	SpaceAfter=No

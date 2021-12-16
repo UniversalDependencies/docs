@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-45 nodes (2%) are attached to their parents as `discourse`.
+49 nodes (2%) are attached to their parents as `discourse`.
 
-40 instances of `discourse` (89%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.06666666666667.
+44 instances of `discourse` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.04081632653061.
 
-The following 7 pairs of parts of speech are connected with `discourse`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (33; 73% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (4; 9% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (2; 4% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (2; 4% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `discourse`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (36; 73% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (4; 8% instances), <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (3; 6% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (2; 4% instances), <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt>-<tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -60,24 +60,19 @@ The following 7 pairs of parts of speech are connected with `discourse`: <tt><a 
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 3 discourse	color:blue
-1	–	–	PUNCT	PUNCT	_	13	punct	_	_
-2	”	”	PUNCT	PUNCT	_	13	punct	_	GTtags=RIGHT|SpaceAfter=No
-3	Na	na	INTJ	Interj	_	7	discourse	_	_
-4	teʹl	teʹl	ADV	Adv	AdvType=Tim	7	advmod:tmod	_	GTtags=Sem/Time
-5	kâʹl	kâʹl	ADV	Adv	_	7	advmod:eval	_	GTtags=@ADVL>
-6	vuäbbam	vuäʹbb	NOUN	N	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	7	vocative	_	GTtags=Sem/Kin,Sg,Nom,PxSg1
-7	iʹlla	iʹlla	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	13	reparandum	_	GTtags=Neg,Ind,Prs,Sg3
-8	go	ko	ADV	Adv	_	7	advmod	_	_
-9	jo	jo	ADV	Adv	AdvType=Tim	13	advmod:tmod	_	GTtags=Err/Lex,Sem/Time
-10	čääʹʒʒ	čääʹcc	NOUN	N	Case=Acc|Number=Sing	13	obj	_	GTtags=Sg,Acc
-11	jiõk	ij	AUX	V	Mood=Ind|Number=Sing|Person=2|Polarity=Neg	13	aux:neg	_	GTtags=Neg,Ind,Sg2
-12	leäkku	leeʹd	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres	13	aux:tense	_	GTtags=Ind,Prs,ConNeg
-13	kuâddam	kueʹdded	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past	0	root	_	GTtags=Ind,Prt,ConNeg|SpaceAfter=No
-14	.	.	PUNCT	PUNCT	_	13	punct	_	SpaceAfter=No
-15	”	”	PUNCT	PUNCT	_	13	punct	_	GTtags=RIGHT
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 discourse	color:blue
+1	–	–	PUNCT	PUNCT	_	4	punct	_	_
+2	”	”	PUNCT	PUNCT	_	4	punct	_	GTtags=RIGHT|SpaceAfter=No
+3	A	a	INTJ	Interj	_	4	discourse	_	_
+4	heäppaž	heävaš	NOUN	N	Case=Acc|Number=Sing	0	root	_	GTtags=Sg,Acc|SpaceAfter=No
+5	,	,	PUNCT	PUNCT	_	4	punct	_	_
+6	muʹnne	mon	PRON	Pron	Case=Ill|Number=Sing|Person=1|PronType=Prs	7	obl	_	GTtags=Pers,Sg1,Ill
+7	õõlǥči	õlggâd	VERB	V	Mood=Cnd|Number=Sing|Person=3	4	conj	_	GTtags=Cond,Sg3
+8	heävaš	heävaš	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	GTtags=Sg,Nom|SpaceAfter=No
+9	.	.	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No
+10	”	”	PUNCT	PUNCT	_	4	punct	_	GTtags=RIGHT
 
 ~~~
 

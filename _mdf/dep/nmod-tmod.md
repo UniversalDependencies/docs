@@ -14,4 +14,4 @@ nmod:tmod(boy-8, year-7)
 
 ~~~
 
-<!-- Interlanguage links updated Pá kvě 14 11:09:12 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:59:00 CET 2021 -->

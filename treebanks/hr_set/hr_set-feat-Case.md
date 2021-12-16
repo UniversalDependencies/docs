@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Voc`.
 
-116485 tokens (58%) have a non-empty value of `Case`.
-30249 types (85%) occur at least once with a non-empty value of `Case`.
-14917 lemmas (80%) occur at least once with a non-empty value of `Case`.
-The feature is used with 11 part-of-speech tags: <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (48387; 24% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (22661; 11% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (19089; 10% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (12826; 6% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (7362; 4% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (5334; 3% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (822; 0% instances), <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+116528 tokens (58%) have a non-empty value of `Case`.
+30251 types (85%) occur at least once with a non-empty value of `Case`.
+14915 lemmas (80%) occur at least once with a non-empty value of `Case`.
+The feature is used with 7 part-of-speech tags: <tt><a href="hr_set-pos-NOUN.html">NOUN</a></tt> (48387; 24% instances), <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> (22931; 11% instances), <tt><a href="hr_set-pos-ADP.html">ADP</a></tt> (19089; 10% instances), <tt><a href="hr_set-pos-PROPN.html">PROPN</a></tt> (12826; 6% instances), <tt><a href="hr_set-pos-DET.html">DET</a></tt> (7332; 4% instances), <tt><a href="hr_set-pos-PRON.html">PRON</a></tt> (5334; 3% instances), <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> (629; 0% instances).
 
 ### `NOUN`
 
@@ -39,47 +39,31 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `ADJ`
 
-22661 <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Case`.
+22931 <tt><a href="hr_set-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (21553; 95%), <tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (20604; 91%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14912; 66%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (21823; 95%), <tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (20684; 90%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15101; 66%).
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Acc` (4185; 18% of non-empty `Case`): <em>sve, novi, novu, nove, prvi, veliku, druge, ratne, brojne, političke</em>
-* `Dat` (507; 2% of non-empty `Case`): <em>svim, drugima, europskoj, međunarodnim, svima, gospodarskom, bivšem, drugim, državnim, europskim</em>
-* `Gen` (6346; 28% of non-empty `Case`): <em>vanjskih, novih, prošle, svih, prošlog, novog, drugih, unutarnjih, europske, hrvatske</em>
-* `Ins` (1128; 5% of non-empty `Case`): <em>drugim, ostalim, velikim, novim, političkim, brojnim, međunarodnim, samim, većim, najvećim</em>
-* `Loc` (2035; 9% of non-empty `Case`): <em>svim, novom, drugim, hrvatskom, drugom, međunarodnim, prvom, svjetskom, tiskovnoj, objavljenom</em>
-* `Nom` (8452; 37% of non-empty `Case`): <em>svi, drugi, novi, glavni, hrvatski, bivši, moguće, potrebno, prvi, najveći</em>
+* `Acc` (4236; 18% of non-empty `Case`): <em>sve, prvi, novi, novu, nove, druge, veliku, ratne, drugi, brojne</em>
+* `Dat` (511; 2% of non-empty `Case`): <em>svim, drugima, europskoj, međunarodnim, svima, drugim, gospodarskom, bivšem, državnim, europskim</em>
+* `Gen` (6402; 28% of non-empty `Case`): <em>vanjskih, novih, prošle, svih, drugih, prošlog, novog, unutarnjih, europske, hrvatske</em>
+* `Ins` (1143; 5% of non-empty `Case`): <em>drugim, ostalim, velikim, novim, političkim, brojnim, međunarodnim, samim, većim, najvećim</em>
+* `Loc` (2073; 9% of non-empty `Case`): <em>prvom, svim, drugom, drugim, novom, prvoj, hrvatskom, međunarodnim, svjetskom, tiskovnoj</em>
+* `Nom` (8558; 37% of non-empty `Case`): <em>svi, drugi, novi, glavni, prvi, hrvatski, bivši, moguće, potrebno, mnogi</em>
 * `Voc` (8; 0% of non-empty `Case`): <em>Najdraži, Nespretni, Uzoriti, dobri, dragi, mala, prvi, svemogući</em>
-* `EMPTY` (1156): <em>1., 2004., 2008., 2007., 2009., 2., 2005., 2006., 2010., 21.</em>
+* `EMPTY` (1206): <em>1., 2004., 2008., 2007., 2009., 2006., 2., 2005., 2010., 21.</em>
 
 <table>
-  <tr><th>Paradigm <i>dobar</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Najboljeg, dobrog</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>najboljeg</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>najbolji</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>bolji</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>najbolji</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>dobar</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td><em>dobrog</em></td><td><em>dobri</em></td><td><em>dobrom</em></td><td><em>dobrim</em></td></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>dobri</em></td><td><em>dobre</em></td><td></td><td><em>dobrih</em></td><td></td><td><em>dobrim</em></td><td><em>najboljim</em></td></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>dobra</em></td><td><em>dobru</em></td><td></td><td><em>dobre</em></td><td></td><td><em>dobroj</em></td><td><em>dobrom</em></td></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>dobre</em></td><td><em>dobre</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>dobro</em></td><td><em>dobro, najbolje</em></td><td><em>dobrom</em></td><td><em>boljeg</em></td><td></td><td><em>dobrom, dobrome</em></td><td><em>najboljim</em></td></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>bolji</em></td><td></td><td><em>boljem</em></td><td><em>boljeg</em></td><td></td><td></td><td><em>boljim</em></td></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>bolji</em></td><td><em>bolje</em></td><td></td><td><em>boljih</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>bolja, najbolja</em></td><td><em>bolju</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>bolje</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>bolje</em></td><td><em>bolje</em></td><td><em>boljem</em></td><td><em>boljega</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>bolja</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>najbolji</em></td><td></td><td></td><td><em>najboljeg</em></td><td></td><td><em>najboljem</em></td><td><em>najboljim</em></td></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>najbolji</em></td><td><em>najbolje</em></td><td></td><td><em>najboljih</em></td><td></td><td></td><td><em>dobrim, najboljim</em></td></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>najbolja</em></td><td><em>najbolju</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>najbolje</em></td><td><em>najbolje</em></td><td></td><td><em>najboljih</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>najbolje</em></td><td><em>najbolje</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>najbolja</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>dobar</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><th>Paradigm <i>prvi</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
+  <tr><td><tt><tt><a href="hr_set-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>prvog</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hr_set-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>prvi</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>prvi</em></td><td></td><td></td><td><em>prvog, prva, prvoga</em></td><td><em>prvi</em></td><td><em>prvom</em></td><td><em>prvim</em></td></tr>
+  <tr><td><tt><tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>prvi</em></td><td><em>prve</em></td><td></td><td><em>prvih</em></td><td></td><td><em>prvim</em></td><td><em>prvima</em></td></tr>
+  <tr><td><tt><tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>prva</em></td><td><em>prvu</em></td><td><em>prvoj</em></td><td><em>prve</em></td><td></td><td><em>prvoj</em></td><td><em>prvom</em></td></tr>
+  <tr><td><tt><tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>prve</em></td><td><em>prve</em></td><td></td><td><em>prvih</em></td><td></td><td><em>prvim</em></td><td><em>prvim</em></td></tr>
+  <tr><td><tt><tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>prvo</em></td><td><em>prvo</em></td><td></td><td><em>prvog, prva</em></td><td></td><td><em>prvom</em></td><td><em>prvim</em></td></tr>
+  <tr><td><tt><tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td><em>prvim</em></td><td></td></tr>
 </table>
 
 ### `ADP`
@@ -90,10 +74,9 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 * `Acc` (5270; 28% of non-empty `Case`): <em>za, u, na, uz, kroz, po, pred, pod, među, nad</em>
 * `Dat` (89; 0% of non-empty `Case`): <em>unatoč, ka, usprkos, k, nasuprot</em>
-* `Gen` (4766; 25% of non-empty `Case`): <em>od, iz, do, nakon, zbog, tijekom, protiv, prije, bez, između</em>
+* `Gen` (4767; 25% of non-empty `Case`): <em>od, iz, do, nakon, zbog, tijekom, protiv, prije, bez, između</em>
 * `Ins` (1668; 9% of non-empty `Case`): <em>s, sa, među, pod, za, pred, nad, Preda, umjesto</em>
 * `Loc` (7295; 38% of non-empty `Case`): <em>u, na, o, prema, po, pri, ka, naspram, pred</em>
-* `Nom` (1; 0% of non-empty `Case`): <em>to</em>
 
 <table>
   <tr><th>Paradigm <i>u</i></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th></tr>
@@ -126,20 +109,20 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 ### `DET`
 
-7362 <tt><a href="hr_set-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Case`.
+7332 <tt><a href="hr_set-pos-DET.html">DET</a></tt> tokens (95% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="hr_set-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6533; 89%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6533; 89%), <tt><a href="hr_set-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5781; 79%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5109; 69%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="hr_set-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6503; 89%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6503; 89%), <tt><a href="hr_set-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5750; 78%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5100; 70%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Acc` (1622; 22% of non-empty `Case`): <em>to, koje, svoje, koju, svoj, sve, svoju, koji, taj, tu</em>
+* `Acc` (1614; 22% of non-empty `Case`): <em>to, koje, svoje, koju, svoj, sve, svoju, koji, taj, tu</em>
 * `Dat` (192; 3% of non-empty `Case`): <em>tome, kojima, onima, svojim, kojoj, svim, svojoj, kojemu, kojem, toj</em>
-* `Gen` (1244; 17% of non-empty `Case`): <em>toga, ove, ovog, tih, svojih, te, tog, kojih, svih, svoje</em>
-* `Ins` (364; 5% of non-empty `Case`): <em>kojim, kojima, tim, time, svojim, kojom, svojom, takvim, ovom, nekim</em>
+* `Gen` (1238; 17% of non-empty `Case`): <em>toga, ove, ovog, tih, svojih, te, tog, kojih, svih, svoje</em>
+* `Ins` (362; 5% of non-empty `Case`): <em>kojim, kojima, tim, time, svojim, kojom, svojom, takvim, ovom, nekim</em>
 * `Loc` (779; 11% of non-empty `Case`): <em>kojoj, kojem, tome, tom, kojima, ovom, svojoj, ovoj, svojim, toj</em>
-* `Nom` (3158; 43% of non-empty `Case`): <em>koji, to, koja, koje, neki, ta, ovo, sve, taj, oni</em>
+* `Nom` (3144; 43% of non-empty `Case`): <em>koji, to, koja, koje, neki, ta, ovo, sve, taj, oni</em>
 * `Voc` (3; 0% of non-empty `Case`): <em>moj, moja, moji</em>
-* `EMPTY` (32): <em>bilo, sve, te, više, ni, niti, Die, The, barem, baš</em>
+* `EMPTY` (362): <em>nekoliko, više, mnogo, pola, puno, posto, manje, malo, koliko, toliko</em>
 
 <table>
   <tr><th>Paradigm <i>moj</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -176,19 +159,19 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `NUM`
 
-822 <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> tokens (24% of all `NUM` tokens) have a non-empty value of `Case`.
+629 <tt><a href="hr_set-pos-NUM.html">NUM</a></tt> tokens (20% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="hr_set-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (591; 72%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (581; 71%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="hr_set-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (594; 94%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (433; 69%).
 
 `NUM` tokens may have the following values of `Case`:
 
-* `Acc` (156; 19% of non-empty `Case`): <em>jedan, jednu, dvije, prvi, jednog, jedno, drugi, prvu, drugo, oba</em>
-* `Dat` (9; 1% of non-empty `Case`): <em>jednoj, drugim, Dvjema, objema, prvoj, trećem</em>
-* `Gen` (157; 19% of non-empty `Case`): <em>dviju, jednog, jedne, prvih, triju, drugih, dvaju, obiju, druge, prvog</em>
-* `Ins` (31; 4% of non-empty `Case`): <em>jednim, jednom, drugim, drugom, prvim, obje, trećim, trećom, trima</em>
-* `Loc` (88; 11% of non-empty `Case`): <em>jednom, prvom, jednoj, prvoj, drugom, trećem, dvama, obje, objema, prvim</em>
-* `Nom` (381; 46% of non-empty `Case`): <em>jedan, jedna, dvije, prvi, jedno, prva, jedni, obje, oba, druga</em>
-* `EMPTY` (2563): <em>tri, dva, pet, četiri, 20, 10, šest, deset, 15, 100</em>
+* `Acc` (118; 19% of non-empty `Case`): <em>jedan, jednu, dvije, jednog, jedno, oba, obje, pedeseti, trideset</em>
+* `Dat` (5; 1% of non-empty `Case`): <em>jednoj, Dvjema, objema</em>
+* `Gen` (113; 18% of non-empty `Case`): <em>dviju, jednog, jedne, triju, dvaju, obiju, četiriju, obaju, desetaka, jednoga</em>
+* `Ins` (20; 3% of non-empty `Case`): <em>jednim, jednom, obje, trima</em>
+* `Loc` (51; 8% of non-empty `Case`): <em>jednom, jednoj, dvama, obje, objema, četirima, jednome, oba, trima</em>
+* `Nom` (322; 51% of non-empty `Case`): <em>jedan, jedna, dvije, jedno, jedni, obje, oba, dva, Dvoje, dvoja</em>
+* `EMPTY` (2519): <em>tri, dva, pet, četiri, 20, 10, šest, deset, 15, 100</em>
 
 <table>
   <tr><th>Paradigm <i>jedan</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
@@ -200,57 +183,17 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
   <tr><td><tt><tt><a href="hr_set-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jedno</em></td><td><em>jedno</em></td><td></td><td><em>jednog, jednoga</em></td><td><em>jednom</em></td><td></td></tr>
 </table>
 
-### `ADV`
-
-1 <tt><a href="hr_set-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Case`.
-
-The most frequent other feature values with which `ADV` and `Case` co-occurred: <tt><a href="hr_set-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="hr_set-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (1; 100%).
-
-`ADV` tokens may have the following values of `Case`:
-
-* `Nom` (1; 100% of non-empty `Case`): <em>nešto</em>
-* `EMPTY` (8933): <em>više, samo, još, također, posto, već, kada, sada, nekoliko, tako</em>
-
-### `AUX`
-
-1 <tt><a href="hr_set-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Case`.
-
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="hr_set-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="hr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="hr_set-feat-Person.html">Person</a></tt><tt>=1</tt> (1; 100%), <tt><a href="hr_set-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="hr_set-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`AUX` tokens may have the following values of `Case`:
-
-* `Nom` (1; 100% of non-empty `Case`): <em>ja</em>
-* `EMPTY` (12559): <em>je, su, će, bi, biti, nije, smo, bio, bilo, bila</em>
-
-### `CCONJ`
-
-1 <tt><a href="hr_set-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `Case`.
-
-`CCONJ` tokens may have the following values of `Case`:
-
-* `Gen` (1; 100% of non-empty `Case`): <em>te</em>
-* `EMPTY` (8141): <em>i, a, te, ili, ali, no, nego, pa, ni, dakle</em>
-
-### `SCONJ`
-
-1 <tt><a href="hr_set-pos-SCONJ.html">SCONJ</a></tt> tokens (0% of all `SCONJ` tokens) have a non-empty value of `Case`.
-
-`SCONJ` tokens may have the following values of `Case`:
-
-* `Nom` (1; 100% of non-empty `Case`): <em>što</em>
-* `EMPTY` (4795): <em>da, kako, kao, što, jer, dok, ako, iako, nakon, ukoliko</em>
-
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (16972; 95%),
-<tt>NOUN --[<tt><a href="hr_set-dep-case.html">case</a></tt>]--> ADP</tt> (14016; 96%),
-<tt>NOUN --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3446; 94%),
-<tt>NOUN --[<tt><a href="hr_set-dep-det.html">det</a></tt>]--> DET</tt> (3225; 98%),
-<tt>PROPN --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (2345; 98%),
-<tt>PROPN --[<tt><a href="hr_set-dep-case.html">case</a></tt>]--> ADP</tt> (2342; 99%),
-<tt>ADJ --[<tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1450; 93%),
-<tt>NOUN --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1292; 72%),
-<tt>PROPN --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> PROPN</tt> (962; 99%),
-<tt>ADJ --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> ADJ</tt> (810; 99%).
+<tt>NOUN --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (17188; 95%),
+<tt>NOUN --[<tt><a href="hr_set-dep-case.html">case</a></tt>]--> ADP</tt> (14020; 96%),
+<tt>NOUN --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3447; 94%),
+<tt>NOUN --[<tt><a href="hr_set-dep-det.html">det</a></tt>]--> DET</tt> (3214; 98%),
+<tt>PROPN --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (2352; 98%),
+<tt>PROPN --[<tt><a href="hr_set-dep-case.html">case</a></tt>]--> ADP</tt> (2342; 98%),
+<tt>ADJ --[<tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1449; 93%),
+<tt>NOUN --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1290; 72%),
+<tt>PROPN --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> PROPN</tt> (960; 99%),
+<tt>ADJ --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> ADJ</tt> (813; 99%).
 

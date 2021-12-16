@@ -14,7 +14,7 @@ There are also 1 other language-specific subtypes of `obl`: <tt><a href="de_gsd-
 1 instances of `obl:agent` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 4.
 
-The following 1 pairs of parts of speech are connected with `obl:agent`: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `obl:agent`: <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (1; 100% instances).
 
 
 ~~~ conllu
@@ -34,7 +34,7 @@ The following 1 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 9	Johann	Johann	PROPN	NE	Case=Gen|Gender=Masc|Number=Sing	8	appos	_	NamedEntity=Yes
 10	Anton	Anton	PROPN	NE	Case=Gen|Gender=Masc|Number=Sing	9	flat	_	NamedEntity=Yes
 11	wesentlich	wesentlich	ADJ	ADJD	_	12	advmod	_	_
-12	erweiterten	erweitert	VERB	ADJA	Case=Gen|Gender=Masc|Number=Sing	13	amod	_	_
+12	erweiterten	erweitert	ADJ	ADJA	Case=Gen|Gender=Masc|Number=Sing	13	amod	_	_
 13	Familienbesitzes	Familienbesitz	NOUN	NN	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
 14	war	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	cop	_	_
 15	diesem	dies	PRON	PDS	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	18	iobj	_	_

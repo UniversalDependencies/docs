@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Martine Vanhove, Rayan Ziane, Sylvain Kahane, Bruno Guillaume.
 
 Repository: [UD_Beja-NSC](https://github.com/UniversalDependencies/UD_Beja-NSC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbej_nsc28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbej_nsc29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-SA 4.0
 
@@ -76,7 +76,7 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
 
 ## Relations
 
-[acl](bej_nsc-dep-acl.html) – [acl:fixed](bej_nsc-dep-acl-fixed.html) – [acl:relcl](bej_nsc-dep-acl-relcl.html) – [advcl](bej_nsc-dep-advcl.html) – [advmod](bej_nsc-dep-advmod.html) – [advmod:fixed](bej_nsc-dep-advmod-fixed.html) – [amod](bej_nsc-dep-amod.html) – [appos](bej_nsc-dep-appos.html) – [aux](bej_nsc-dep-aux.html) – [aux:aff](bej_nsc-dep-aux-aff.html) – [case](bej_nsc-dep-case.html) – [case:aff](bej_nsc-dep-case-aff.html) – [cc](bej_nsc-dep-cc.html) – [ccomp](bej_nsc-dep-ccomp.html) – [compound](bej_nsc-dep-compound.html) – [cop](bej_nsc-dep-cop.html) – [csubj](bej_nsc-dep-csubj.html) – [dep](bej_nsc-dep-dep.html) – [dep:aff](bej_nsc-dep-dep-aff.html) – [dep:comp](bej_nsc-dep-dep-comp.html) – [dep:conj](bej_nsc-dep-dep-conj.html) – [dep:redup](bej_nsc-dep-dep-redup.html) – [det](bej_nsc-dep-det.html) – [discourse](bej_nsc-dep-discourse.html) – [dislocated](bej_nsc-dep-dislocated.html) – [dislocated:subj](bej_nsc-dep-dislocated-subj.html) – [iobj](bej_nsc-dep-iobj.html) – [mark](bej_nsc-dep-mark.html) – [mark:aff](bej_nsc-dep-mark-aff.html) – [nmod](bej_nsc-dep-nmod.html) – [nmod:poss](bej_nsc-dep-nmod-poss.html) – [nsubj](bej_nsc-dep-nsubj.html) – [nsubj:aff](bej_nsc-dep-nsubj-aff.html) – [nummod:det](bej_nsc-dep-nummod-det.html) – [obj](bej_nsc-dep-obj.html) – [obl:arg](bej_nsc-dep-obl-arg.html) – [obl:mod](bej_nsc-dep-obl-mod.html) – [parataxis](bej_nsc-dep-parataxis.html) – [parataxis:coord](bej_nsc-dep-parataxis-coord.html) – [parataxis:mod](bej_nsc-dep-parataxis-mod.html) – [punct](bej_nsc-dep-punct.html) – [reparandum](bej_nsc-dep-reparandum.html) – [root](bej_nsc-dep-root.html) – [vocative](bej_nsc-dep-vocative.html)
+[acl](bej_nsc-dep-acl.html) – [acl:relcl](bej_nsc-dep-acl-relcl.html) – [advcl](bej_nsc-dep-advcl.html) – [advmod](bej_nsc-dep-advmod.html) – [amod](bej_nsc-dep-amod.html) – [appos](bej_nsc-dep-appos.html) – [aux](bej_nsc-dep-aux.html) – [aux:aff](bej_nsc-dep-aux-aff.html) – [case](bej_nsc-dep-case.html) – [case:aff](bej_nsc-dep-case-aff.html) – [cc](bej_nsc-dep-cc.html) – [ccomp](bej_nsc-dep-ccomp.html) – [compound](bej_nsc-dep-compound.html) – [compound:svc](bej_nsc-dep-compound-svc.html) – [cop](bej_nsc-dep-cop.html) – [csubj](bej_nsc-dep-csubj.html) – [dep](bej_nsc-dep-dep.html) – [dep:aff](bej_nsc-dep-dep-aff.html) – [dep:comp](bej_nsc-dep-dep-comp.html) – [dep:conj](bej_nsc-dep-dep-conj.html) – [dep:redup](bej_nsc-dep-dep-redup.html) – [det](bej_nsc-dep-det.html) – [discourse](bej_nsc-dep-discourse.html) – [dislocated](bej_nsc-dep-dislocated.html) – [dislocated:subj](bej_nsc-dep-dislocated-subj.html) – [fixed](bej_nsc-dep-fixed.html) – [iobj](bej_nsc-dep-iobj.html) – [mark](bej_nsc-dep-mark.html) – [mark:aff](bej_nsc-dep-mark-aff.html) – [nmod](bej_nsc-dep-nmod.html) – [nmod:poss](bej_nsc-dep-nmod-poss.html) – [nsubj](bej_nsc-dep-nsubj.html) – [nsubj:aff](bej_nsc-dep-nsubj-aff.html) – [nummod:det](bej_nsc-dep-nummod-det.html) – [obj](bej_nsc-dep-obj.html) – [obl:arg](bej_nsc-dep-obl-arg.html) – [obl:mod](bej_nsc-dep-obl-mod.html) – [parataxis](bej_nsc-dep-parataxis.html) – [parataxis:coord](bej_nsc-dep-parataxis-coord.html) – [parataxis:mod](bej_nsc-dep-parataxis-mod.html) – [punct](bej_nsc-dep-punct.html) – [reparandum](bej_nsc-dep-reparandum.html) – [root](bej_nsc-dep-root.html) – [vocative](bej_nsc-dep-vocative.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -167,9 +167,9 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
   <li>Masc
     <ul>
       <li>AUX: =wa</li>
-      <li>DET: =b, i=, oː=, uː=, w=, uːn, eː=, eːn, j=, oːn</li>
+      <li>DET: =b, i=, oː=, uː=, w=, uːn, eː=, oːn, aːn, eːn</li>
       <li>NOUN: tak, doːr, biri, gaw, mhiːn, halak, hanʤar, mbʔaɖ, ʔiːd, bʔaɖ</li>
-      <li>PRON: i-, -ja, iː-, -a, -i, -ta, aːn, oːn, -iːni, beːn</li>
+      <li>PRON: i-, -ja, iː-, -a, -i, -ta, -iːni, beːn, oːn, ti-</li>
       <li>SCONJ: =eːb, ji=, =jeːb</li>
       <li>VERB: eːja</li>
     </ul>
@@ -186,10 +186,10 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
     <ul>
       <li>ADP: =eːb</li>
       <li>AUX: =a</li>
-      <li>DET: eː=, eːn, aː=</li>
+      <li>DET: eː=, aːn, eːn, aː=</li>
       <li>NOUN: hamoː, iːjʔaː, jam, kam, nda, bhali, da, gaɖʔa, i̠ːjʔaː</li>
       <li>PART: -a, -eː, -jeː</li>
-      <li>PRON: -n, -na, =uːn, aːn, hinin, ni-, -aːna, -teːn, =aː, =jeː</li>
+      <li>PRON: -n, -na, =uːn, hinin, ni-, -aːna, -teːn, =aː, =jeː, =oːn</li>
       <li>SCONJ: ji=</li>
       <li>VERB: eːn</li>
     </ul>
@@ -225,8 +225,8 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
 <ul>
   <li>Acc
     <ul>
-      <li>DET: =b, oː=, toː=, eː=, eːn, oːn, toːt</li>
-      <li>PRON: =i, =eː, oːn, =jeː, =ji, =oː, =oːk, =oːn, barijoːk</li>
+      <li>DET: =b, oː=, toː=, eː=, oːn, eːn, toːt</li>
+      <li>PRON: =i, =eː, =jeː, =ji, =oː, =oːk, =oːn, barijoːk, oːn</li>
     </ul>
   </li>
 </ul>
@@ -275,8 +275,8 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
 <ul>
   <li>Nom
     <ul>
-      <li>DET: uː=, uːn, aː=, beːn</li>
-      <li>PRON: =i, ani, =uːn, aːn, hinin, =aː, beːn</li>
+      <li>DET: uː=, uːn, aːn, aː=, beːn</li>
+      <li>PRON: =i, ani, =uːn, hinin, =aː, beːn</li>
     </ul>
   </li>
 </ul>
@@ -447,8 +447,8 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
 <ul>
   <li>Dem
     <ul>
-      <li>DET: uːn, eːn, oːn, beːn, toːt</li>
-      <li>PRON: aːn, oːn, beːn, uːn</li>
+      <li>DET: uːn, oːn, aːn, eːn, beːn, toːt</li>
+      <li>PRON: beːn, oːn</li>
     </ul>
   </li>
 </ul>
@@ -532,8 +532,8 @@ This treebank has been done in collaboration between Vanhove Martine, Ziane Raya
     <ul>
       <li>Prox
         <ul>
-          <li>DET: uːn, eːn, oːn, toːt</li>
-          <li>PRON: aːn, oːn, uːn</li>
+          <li>DET: uːn, oːn, aːn, eːn, toːt</li>
+          <li>PRON: oːn</li>
         </ul>
       </li>
       <li>Remt
@@ -618,7 +618,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (38)</li>
+      <li>VERB--NOUN (37)</li>
       <li>VERB--PRON (26)</li>
       <li>VERB--PRON-Acc (2)</li>
       <li>VERB--PRON-Nom (1)</li>
@@ -642,7 +642,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 18 relation subtypes: <a>acl:fixed</a>, <a>acl:relcl</a>, <a>advmod:fixed</a>, <a>aux:aff</a>, <a>case:aff</a>, <a>dep:aff</a>, <a>dep:comp</a>, <a>dep:conj</a>, <a>dep:redup</a>, <a>dislocated:subj</a>, <a>mark:aff</a>, <a>nmod:poss</a>, <a>nsubj:aff</a>, <a>nummod:det</a>, <a>obl:arg</a>, <a>obl:mod</a>, <a>parataxis:coord</a>, <a>parataxis:mod</a></li>
+<li>This corpus uses 17 relation subtypes: <a>acl:relcl</a>, <a>aux:aff</a>, <a>case:aff</a>, <a>compound:svc</a>, <a>dep:aff</a>, <a>dep:comp</a>, <a>dep:conj</a>, <a>dep:redup</a>, <a>dislocated:subj</a>, <a>mark:aff</a>, <a>nmod:poss</a>, <a>nsubj:aff</a>, <a>nummod:det</a>, <a>obl:arg</a>, <a>obl:mod</a>, <a>parataxis:coord</a>, <a>parataxis:mod</a></li>
 <li>The following 2 main types are not used alone, they are always subtyped: <a>nummod</a>, <a>obl</a></li>
-<li>The following 9 relation types are not used in this corpus at all: <a>xcomp</a>, <a>expl</a>, <a>clf</a>, <a>conj</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a></li>
+<li>The following 8 relation types are not used in this corpus at all: <a>xcomp</a>, <a>expl</a>, <a>clf</a>, <a>conj</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a></li>
 </ul>

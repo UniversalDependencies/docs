@@ -22,5 +22,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="tr_kenet-pos-ADV.ht
 
 * `Cmp` (446; 58% of non-empty `Degree`): <em>daha, dah</em>
 * `Sup` (328; 42% of non-empty `Degree`): <em>en</em>
-* `EMPTY` (10272): <em>sonra, bir, bile, çok, içinde, ne, şimdi, hiç, artık, pek</em>
+* `EMPTY` (10252): <em>sonra, bir, bile, çok, içinde, ne, şimdi, hiç, artık, pek</em>
 

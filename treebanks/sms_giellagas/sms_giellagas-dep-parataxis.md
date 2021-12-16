@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-9 nodes (0%) are attached to their parents as `parataxis`.
+12 nodes (0%) are attached to their parents as `parataxis`.
 
-9 instances of `parataxis` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.33333333333333.
+12 instances of `parataxis` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.16666666666667.
 
-The following 3 pairs of parts of speech are connected with `parataxis`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (7; 78% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (1; 11% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 11% instances).
+The following 5 pairs of parts of speech are connected with `parataxis`: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (8; 67% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt>-<tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (1; 8% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (1; 8% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt>-<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (1; 8% instances).
 
 
 ~~~ conllu

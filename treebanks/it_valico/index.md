@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Elisa Di Nuovo, Manuela Sanguinetti, Cristina Bosco, Alessandro Mazzei.
 
 Repository: [UD_Italian-Valico](https://github.com/UniversalDependencies/UD_Italian-Valico)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_valico28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_valico29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-SA 4.0
 
@@ -47,7 +47,7 @@ Manually corrected Treebank of Learner Italian drawn from the Valico corpus and 
 
 
 
-UD Italian-Valico is a collection of 36 Italian as a Second Language texts (398 sentences and 6,784 tokens), in the Universal Dependencies formalism elicited from a comic strip. Each text is matched with a corrected version (TH) and both are automatically annotated and then manually corrected. The corrected texts are in corrected/it_thvalico-ud-test.conllu. In addition, in the err field, error annotation is performed. The annotations follow the standard Italian UD guidelines, along with a set of supplementary guidelines for error and dependency annotation (https://github.com/ElisaDiNuovo/VALICO-UD_guidelines). The treebank represents English, French, German, and Spanish learners of Italian at three different year of study. There are 9 texts for each native language and 3 texts per year of study.
+UD Italian-Valico is a collection of 36 Italian as a Second Language texts (398 sentences and 6,784 tokens), in the Universal Dependencies formalism elicited from a comic strip. Each text is matched with a corrected version (TH) and both are automatically annotated and then manually corrected. The corrected texts are in corrected/it_thvalico-ud-test.conllu. In addition, error annotation is provided in the err field. The annotations follow the standard Italian UD guidelines, along with a set of supplementary guidelines for error and dependency annotation (https://github.com/ElisaDiNuovo/VALICO-UD_guidelines). The treebank represents English, French, German, and Spanish learners of Italian at three different year of study. There are 9 texts for each native language and 3 texts per year of study.
 
 The treebank is realised as test set (TH are in corrected folder).
 
@@ -84,7 +84,7 @@ The treebank development has also been possible thanks to Prof. Elisa Corino's (
 
 ## Relations
 
-[acl](it_valico-dep-acl.html) – [acl:relcl](it_valico-dep-acl-relcl.html) – [advcl](it_valico-dep-advcl.html) – [advmod](it_valico-dep-advmod.html) – [amod](it_valico-dep-amod.html) – [appos](it_valico-dep-appos.html) – [aux](it_valico-dep-aux.html) – [aux:pass](it_valico-dep-aux-pass.html) – [case](it_valico-dep-case.html) – [cc](it_valico-dep-cc.html) – [ccomp](it_valico-dep-ccomp.html) – [conj](it_valico-dep-conj.html) – [cop](it_valico-dep-cop.html) – [csubj](it_valico-dep-csubj.html) – [dep](it_valico-dep-dep.html) – [det](it_valico-dep-det.html) – [det:poss](it_valico-dep-det-poss.html) – [det:predet](it_valico-dep-det-predet.html) – [discourse](it_valico-dep-discourse.html) – [expl](it_valico-dep-expl.html) – [expl:impers](it_valico-dep-expl-impers.html) – [fixed](it_valico-dep-fixed.html) – [flat:name](it_valico-dep-flat-name.html) – [goeswith](it_valico-dep-goeswith.html) – [iobj](it_valico-dep-iobj.html) – [mark](it_valico-dep-mark.html) – [nmod](it_valico-dep-nmod.html) – [nsubj](it_valico-dep-nsubj.html) – [nsubj:pass](it_valico-dep-nsubj-pass.html) – [nummod](it_valico-dep-nummod.html) – [obj](it_valico-dep-obj.html) – [obl](it_valico-dep-obl.html) – [obl:agent](it_valico-dep-obl-agent.html) – [orphan](it_valico-dep-orphan.html) – [parataxis](it_valico-dep-parataxis.html) – [punct](it_valico-dep-punct.html) – [root](it_valico-dep-root.html) – [vocative](it_valico-dep-vocative.html) – [xcomp](it_valico-dep-xcomp.html)
+[acl](it_valico-dep-acl.html) – [acl:relcl](it_valico-dep-acl-relcl.html) – [advcl](it_valico-dep-advcl.html) – [advmod](it_valico-dep-advmod.html) – [amod](it_valico-dep-amod.html) – [appos](it_valico-dep-appos.html) – [aux](it_valico-dep-aux.html) – [aux:pass](it_valico-dep-aux-pass.html) – [case](it_valico-dep-case.html) – [cc](it_valico-dep-cc.html) – [ccomp](it_valico-dep-ccomp.html) – [conj](it_valico-dep-conj.html) – [cop](it_valico-dep-cop.html) – [csubj](it_valico-dep-csubj.html) – [dep](it_valico-dep-dep.html) – [det](it_valico-dep-det.html) – [det:poss](it_valico-dep-det-poss.html) – [det:predet](it_valico-dep-det-predet.html) – [discourse](it_valico-dep-discourse.html) – [dislocated](it_valico-dep-dislocated.html) – [expl](it_valico-dep-expl.html) – [expl:impers](it_valico-dep-expl-impers.html) – [fixed](it_valico-dep-fixed.html) – [flat:name](it_valico-dep-flat-name.html) – [goeswith](it_valico-dep-goeswith.html) – [iobj](it_valico-dep-iobj.html) – [mark](it_valico-dep-mark.html) – [nmod](it_valico-dep-nmod.html) – [nsubj](it_valico-dep-nsubj.html) – [nsubj:pass](it_valico-dep-nsubj-pass.html) – [nummod](it_valico-dep-nummod.html) – [obj](it_valico-dep-obj.html) – [obl](it_valico-dep-obl.html) – [obl:agent](it_valico-dep-obl-agent.html) – [orphan](it_valico-dep-orphan.html) – [parataxis](it_valico-dep-parataxis.html) – [punct](it_valico-dep-punct.html) – [root](it_valico-dep-root.html) – [vocative](it_valico-dep-vocative.html) – [xcomp](it_valico-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -229,7 +229,7 @@ The treebank development has also been possible thanks to Prof. Elisa Corino's (
       <li>DET: le, i, gli, suoi, molti, delle, dei, miei, queste, sue</li>
       <li>NOUN: spalle, occhiali, parole, piedi, amici, capelli, anni, giardini, minuti, occhi</li>
       <li>NUM: diecisette</li>
-      <li>PRON: li, loro, tutti, entrambi, gli, le, Noi, altre, ci, cose</li>
+      <li>PRON: li, loro, le, tutti, entrambi, gli, Noi, altre, ci, cose</li>
       <li>VERB-Fin: litigavano, Cominciamo, DIVERTIVANO, ERANO, GIOCAVANO, Littigavano, arrivano, avevano, cantarono, colpivano</li>
       <li>VERB-Part: andati, caduti</li>
     </ul>
@@ -331,8 +331,7 @@ The treebank development has also been possible thanks to Prof. Elisa Corino's (
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: abbiamo</li>
-      <li>VERB-Fin: lascia, scusi, aspetti, scusate, smetti, vai</li>
+      <li>VERB-Fin: lascia, scusi, aspetti, scusate, smetti, vada, vai</li>
     </ul>
   </li>
 </ul>
@@ -351,7 +350,7 @@ The treebank development has also been possible thanks to Prof. Elisa Corino's (
   <li>Sub
     <ul>
       <li>AUX-Fin: fosse, abbia, avesse, dovesse, dovessi, possa, potesse, stesse, volesse</li>
-      <li>VERB-Fin: Pensa, accomoda, desse, dicesse, lasciasse, riceva, senta, vada</li>
+      <li>VERB-Fin: desse, dicesse, lasciasse, riceva, senta</li>
     </ul>
   </li>
 </ul>
@@ -444,7 +443,7 @@ The treebank development has also been possible thanks to Prof. Elisa Corino's (
   <li>Int
     <ul>
       <li>DET: che</li>
-      <li>PRON: cosa, che, chi, cose</li>
+      <li>PRON: che, cosa, chi, cose</li>
     </ul>
   </li>
 </ul>
@@ -588,13 +587,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--PRON (1)</li>
       <li>VERB-Fin--NOUN (81)</li>
-      <li>VERB-Fin--PRON (75)</li>
+      <li>VERB-Fin--PRON (74)</li>
       <li>VERB-Ger--NOUN (9)</li>
       <li>VERB-Ger--PRON (6)</li>
-      <li>VERB-Inf--NOUN (5)</li>
+      <li>VERB-Inf--NOUN (4)</li>
       <li>VERB-Inf--PRON (6)</li>
       <li>VERB-Part--NOUN (63)</li>
-      <li>VERB-Part--PRON (37)</li>
+      <li>VERB-Part--PRON (35)</li>
     </ul>
   </li>
 </ul>
@@ -603,15 +602,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (1)</li>
-      <li>VERB-Fin--NOUN (100)</li>
-      <li>VERB-Fin--PRON (45)</li>
+      <li>VERB-Fin--NOUN (99)</li>
+      <li>VERB-Fin--PRON (47)</li>
       <li>VERB-Ger--NOUN (25)</li>
       <li>VERB-Ger--PRON (2)</li>
-      <li>VERB-Inf--NOUN (58)</li>
+      <li>VERB-Inf--NOUN (59)</li>
       <li>VERB-Inf--PRON (40)</li>
-      <li>VERB-Part--NOUN (93)</li>
+      <li>VERB-Part--NOUN (92)</li>
       <li>VERB-Part--NOUN-ADP(a) (1)</li>
-      <li>VERB-Part--PRON (65)</li>
+      <li>VERB-Part--PRON (67)</li>
     </ul>
   </li>
 </ul>
@@ -623,7 +622,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--PRON (2)</li>
       <li>VERB-Inf--PRON (3)</li>
       <li>VERB-Part--NOUN (1)</li>
-      <li>VERB-Part--PRON (22)</li>
+      <li>VERB-Part--PRON (23)</li>
     </ul>
   </li>
 </ul>
@@ -636,5 +635,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
 <li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>det:poss</a>, <a>det:predet</a>, <a>expl:impers</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
-<li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>reparandum</a></li>
+<li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>compound</a>, <a>list</a>, <a>reparandum</a></li>
 </ul>

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-26 nodes (4%) are attached to their parents as `obj`.
+93 nodes (5%) are attached to their parents as `obj`.
 
-20 instances of `obj` (77%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.46153846153846.
+76 instances of `obj` (82%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.78494623655914.
 
-The following 2 pairs of parts of speech are connected with `obj`: <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (23; 88% instances), <tt><a href="gub_tudet-pos-AUX.html">AUX</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (3; 12% instances).
+The following 4 pairs of parts of speech are connected with `obj`: <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (85; 91% instances), <tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt>-<tt><a href="gub_tudet-pos-VERB.html">VERB</a></tt> (4; 4% instances), <tt><a href="gub_tudet-pos-AUX.html">AUX</a></tt>-<tt><a href="gub_tudet-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt>-<tt><a href="gub_tudet-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,10 +22,25 @@ The following 2 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 obj	color:blue
-1	Umuwɨwɨk	wɨwɨk	VERB	vt	Person=3|Voice=Cau	0	root	0:root	_
-2	ikamir	kamir	NOUN	n	Rel=Abs	1	obj	1:obj	_
-3	aguz	aguz	NOUN	n	_	1	obl	1:obl	_
-4	pupe	pupe	ADP	posp	Rel=Cont	3	case	3:case	_
+1	Umuwɨwɨk	wɨwɨk	VERB	vt	Person=3|Voice=Cau	0	root	_	_
+2	ikamir	kamir	NOUN	n	Rel=Abs	1	obj	_	_
+3	aguz	aguz	NOUN	n	_	1	obl	_	_
+4	pupe	pupe	ADP	posp	Rel=Cont	3	case	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 obj	color:blue
+1	Waro	aro	VERB	vt	Person=3	0	root	_	_
+2	mahaw	mahaw	NOUN	n	_	3	nmod	_	_
+3	tur	ur	VERB	vi	Person=3	1	obj	_	_
+4	haw	haw	ADV	adv	Nomzr=Circ	3	advmod	_	_
+5	.	.	PUNCT	punct	_	1	punct	_	_
 
 ~~~
 
@@ -36,11 +51,11 @@ The following 2 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 obj	color:blue
-1	Uʔu	ʔu	VERB	vt	Person=3	4	dep	4:dep	_
-2	arapapa	arapapa	NOUN	n	_	4	nsubj	4:nsubj	_
-3	ipiraʔi	pira	NOUN	n	Dimin=Yes|Rel=NCont	4	obj	4:obj	_
-4	iko	iko	AUX	aux	Aspect=Prog|Person=3	0	root	0:root	_
-5	aʔe	aʔe	DET	dem	PronType=Dem	2	discourse	2:discourse	_
+1	Uʔu	ʔu	VERB	vt	Person=3	4	dep	_	_
+2	arapapa	arapapa	NOUN	n	_	4	nsubj	_	_
+3	ipiraʔi	pira	NOUN	n	Dimin=Yes|Rel=NCont	4	obj	_	_
+4	iko	iko	AUX	aux	Aspect=Prog|Person=3	0	root	_	_
+5	aʔe	aʔe	DET	dem	PronType=Dem	2	discourse	_	_
 
 ~~~
 

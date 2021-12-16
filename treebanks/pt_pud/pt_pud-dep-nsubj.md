@@ -23,7 +23,7 @@ The following 23 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nsubj	color:blue
-1	O	o	DET	DT	Gender=Masc|Number=Sing	2	det	_	_
+1	O	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	esquema	esquema	NOUN	NN	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	faz	fazer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	_
 4	dinheiro	dinheiro	NOUN	NN	Gender=Masc|Number=Sing	3	obj	_	_
@@ -54,7 +54,7 @@ The following 23 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 9	lá	lá	ADV	RB	_	6	advmod	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	14	punct	_	_
 11	em	em	ADP	INDT	_	14	case	_	_
-12	o	o	DET	_	Gender=Masc|Number=Sing	14	det	_	_
+12	o	o	DET	_	Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 13	mesmo	_	DET	DT	Gender=Masc|Number=Sing	14	det	_	_
 14	ano	ano	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 15	.	.	PUNCT	.	_	6	punct	_	_
@@ -68,7 +68,7 @@ The following 23 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 14 nsubj	color:blue
-1	A	o	DET	DT	Gender=Fem|Number=Sing	2	det	_	_
+1	A	o	DET	DT	Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	voz	voz	NOUN	NN	Gender=Fem|Number=Sing	6	nsubj	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	ela	ela	PRON	INP	Gender=Fem|Number=Sing|Person=3	2	obj	_	_
@@ -77,7 +77,7 @@ The following 23 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 7	uma	um	DET	DT	Gender=Fem|Number=Sing	8	det	_	_
 8	volta	volta	NOUN	NN	Gender=Fem|Number=Sing	6	obj	_	_
 9	a	a	ADP	INDT	_	11	case	_	_
-10	o	o	DET	_	Gender=Masc|Number=Sing	11	det	_	_
+10	o	o	DET	_	Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	mundo	mundo	NOUN	NN	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	,	_	13	punct	_	_
 13	disse	dizer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past	6	parataxis	_	_

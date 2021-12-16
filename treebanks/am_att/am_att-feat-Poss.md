@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (205; 100% of non-empty `Poss`): ኡ, ዋ, ኤ, ህ, ኣችን, ኣቸው, ው, ዬ, ሽ, ኣችሁ
-* `EMPTY` (2344): ኧ, ይ, ት, ኧው, ኡ, ኧች, ኦ, ው, ኝ, ኣት
+* `EMPTY` (2350): ኧ, ይ, ት, ኧው, ኡ, ኧች, ኦ, ው, ኝ, ኣት
 
 `Poss` seems to be **lexical feature** of `PRON`. 100% lemmas (12) occur only with one value of `Poss`.
 

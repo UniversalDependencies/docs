@@ -11,7 +11,7 @@ This relation is universal.
 25 nodes (0%) are attached to their parents as `discourse`.
 
 20 instances of `discourse` (80%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.88.
+Average distance between parent and child is 1.92.
 
 The following 3 pairs of parts of speech are connected with `discourse`: <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt>-<tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt> (23; 92% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt> (1; 4% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt>-<tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt> (1; 4% instances).
 

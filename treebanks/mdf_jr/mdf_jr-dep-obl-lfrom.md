@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `obl:lfrom`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 obl:lfrom	color:blue
-1	Афи	афи	AUX	Aux	Polarity=Neg	2	aux:neg	_	_
+1	Афи	аф	AUX	Aux	Clitic=I|Polarity=Neg	2	aux:neg	_	_
 2	шарьхкодень	шарьхкодемс	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=1|Tense=Past|Valency=2	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	CLB	_	5	punct	_	_
 4	кода	кода	ADV	Adv	_	5	mark	_	_

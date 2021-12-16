@@ -19,4 +19,4 @@ In Beja, the feature « polite » applies to the use of 1PL pronouns instead of 
 
 #### Examples
 - _doːr han / hoːb <b>=uːn</b> -ej iraːnaj // oː-= meːk ʔam -a =b =wa_ "Grand-father, gosh, have you ever ridden a donkey?"
-<!-- Interlanguage links updated Pá kvě 14 11:08:38 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:27 CET 2021 -->

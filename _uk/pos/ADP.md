@@ -16,4 +16,4 @@ Some prepositions take the form of fixed multiword expressions, e.g. _на ві�
 - _в&nbsp;_ “in, at”
 - _до&nbsp;_ “to”
 - _протягом&nbsp;_ “during”
-<!-- Interlanguage links updated Pá kvě 14 11:08:18 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:07 CET 2021 -->

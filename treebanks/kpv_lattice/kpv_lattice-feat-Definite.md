@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADV` and `Definite` co-occurr
 `ADV` tokens may have the following values of `Definite`:
 
 * `Ind` (17; 100% of non-empty `Definite`): <em>кӧнкӧ, кытчӧкӧ, коркӧ, мыйтакӧ, Корсюрӧ, Кыськӧ, коркӧясас, кыдзисюрӧ, кыдзкӧ, кытсюрӧясті</em>
-* `EMPTY` (855): <em>нин, жӧ, на, и, сӧмын, сэсся, зэв, кыдзи, пыр, бара</em>
+* `EMPTY` (857): <em>нин, жӧ, на, и, сӧмын, сэсся, зэв, кыдзи, пыр, бара</em>
 
 `Definite` seems to be **lexical feature** of `ADV`. 100% lemmas (12) occur only with one value of `Definite`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 `PRON` tokens may have the following values of `Definite`:
 
 * `Ind` (5; 100% of non-empty `Definite`): <em>мыйкӧ, кодкӧ</em>
-* `EMPTY` (526): <em>сійӧ, тайӧ, ме, сы, мый, ми, сійӧс, найӧ, тэ, быд</em>
+* `EMPTY` (530): <em>сійӧ, тайӧ, ме, сы, ми, мый, сійӧс, найӧ, тэ, быд</em>
 
 ### `ADJ`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 `ADJ` tokens may have the following values of `Definite`:
 
 * `Ind` (1; 100% of non-empty `Definite`): <em>кутшӧмкӧ</em>
-* `EMPTY` (487): <em>ыджыд, кодь, важ, бур, мича, еджыд, ичӧтик, сэтшӧм, том, выль</em>
+* `EMPTY` (488): <em>ыджыд, кодь, бур, важ, мича, еджыд, ичӧтик, сэтшӧм, том, выль</em>
 
 ### `DET`
 

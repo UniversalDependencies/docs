@@ -22,11 +22,11 @@ The following 34 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 appos	color:blue
-1	Campa	campa	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
+1	Campa	campa	NOUN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
 2	samhraidh	samhradh	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	NamedEntity=Yes
-3	Óg-Eagras	Óg-Eagras	PROPN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	1	flat	_	NamedEntity=Yes|SpaceAfter=No
+3	Óg-Eagras	Óg-Eagras	PROPN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	flat	_	NamedEntity=Yes|SpaceAfter=No
 4	,	,	PUNCT	Punct	_	5	punct	_	_
-5	Ionad	ionad	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	1	appos	_	NamedEntity=Yes
+5	Ionad	ionad	NOUN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	1	appos	_	NamedEntity=Yes
 6	Mosney	Mosney	PROPN	Noun	Definite=Def|Gender=Masc|Number=Sing	5	nmod	_	NamedEntity=Yes|SpaceAfter=No
 7	,	,	PUNCT	Punct	_	8	punct	_	_
 8	Co.	contae	NOUN	Abr	Abbr=Yes|Definite=Def	1	nmod	_	NamedEntity=Yes
@@ -46,11 +46,11 @@ The following 34 pairs of parts of speech are connected with `appos`: <tt><a hre
 1	Agus	agus	CCONJ	Coord	_	2	cc	_	_
 2	sin	sin	PRON	Dem	PronType=Dem	0	root	_	_
 3	í	í	PRON	Pers	Gender=Fem|Number=Sing|Person=3	4	nmod	_	_
-4	umhlaíocht	umhlaíocht	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Fem|Number=Sing	2	nsubj	_	_
-5	fhíornaofa	fíornaofa	ADJ	Adj	Case=NomAcc|Form=Len|Gender=Fem|Number=Sing	4	amod	_	_
+4	umhlaíocht	umhlaíocht	NOUN	Noun	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	nsubj	_	_
+5	fhíornaofa	fíornaofa	ADJ	Adj	Case=Nom|Form=Len|Gender=Fem|Number=Sing	4	amod	_	_
 6	ár	ár	DET	Det	Number=Plur|Person=1|Poss=Yes	7	nmod:poss	_	_
 7	dTiarna	tiarna	NOUN	Noun	Case=Gen|Definite=Def|Form=Ecl|Gender=Masc|Number=Sing	4	nmod	_	NamedEntity=Yes
-8	Íosa	Íosa	PROPN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	7	appos	_	NamedEntity=Yes
+8	Íosa	Íosa	PROPN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	7	appos	_	NamedEntity=Yes
 9	Críost	Críost	PROPN	Noun	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	8	nmod	_	NamedEntity=Yes|SpaceAfter=No
 10	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -65,15 +65,15 @@ The following 34 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 6 9 appos	color:blue
 1	'	'	PUNCT	Punct	_	3	punct	_	SpaceAfter=No
 2	Ba	is	AUX	Cop	Tense=Past|VerbForm=Cop	3	cop	_	_
-3	duine	duine	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	0	root	_	_
+3	duine	duine	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 4	acu	ag	ADP	Prep	Number=Plur|Person=3	3	obl:prep	_	_
 5	sin	sin	PRON	Dem	PronType=Dem	6	det	_	_
 6	Giolla	Giolla	PROPN	Noun	Definite=Def|Gender=Masc|Number=Sing	3	nsubj	_	NamedEntity=Yes
 7	Bríde	Bríd	PROPN	Noun	Case=Gen|Definite=Def|Gender=Fem	6	flat:name	_	NamedEntity=Yes|SpaceAfter=No
 8	,	,	PUNCT	Punct	_	9	punct	_	_
-9	barún	barún	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	6	appos	_	_
+9	barún	barún	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	6	appos	_	_
 10	de	de	ADP	Simp	_	11	case	_	_
-11	chuid	cuid	NOUN	Noun	Case=NomAcc|Form=Len|Gender=Fem|Number=Sing	9	nmod	_	_
+11	chuid	cuid	NOUN	Noun	Case=Nom|Form=Len|Gender=Fem|Number=Sing	9	nmod	_	_
 12	Earragh	Earragh	PROPN	Foreign	Foreign=Yes	11	nmod	_	NamedEntity=Yes
 13	idheal	idheal	PROPN	Foreign	Foreign=Yes	12	nmod	_	NamedEntity=Yes|SpaceAfter=No
 14	.	.	PUNCT	.	_	3	punct	_	_

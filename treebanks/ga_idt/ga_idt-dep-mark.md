@@ -24,13 +24,13 @@ The following 30 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 5	fgColor:white
 # visual-style 5 4 mark	color:blue
 1	Caithfidh	caith	VERB	VTI	Mood=Ind|Tense=Fut	0	root	_	_
-2	foirne	foireann	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Plur	5	nsubj	_	_
-3	úsáid	úsáid	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	5	obj	_	_
+2	foirne	foireann	NOUN	Noun	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	_
+3	úsáid	úsáid	NOUN	Noun	Case=Nom|Gender=Fem|Number=Sing	5	obj	_	_
 4	a	a	PART	Inf	PartType=Inf	5	mark	_	_
 5	bhaint	baint	NOUN	Noun	Form=Len|VerbForm=Inf	1	xcomp	_	_
 6	as	as	ADP	Simp	_	8	case	_	_
 7	na	an	DET	Art	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
-8	huimhreacha	uimhir	NOUN	Noun	Case=NomAcc|Definite=Def|Form=HPref|Gender=Fem|Number=Plur	5	obl	_	_
+8	huimhreacha	uimhir	NOUN	Noun	Case=Nom|Definite=Def|Form=HPref|Gender=Fem|Number=Plur	5	obl	_	_
 9	4-15	4-15	NUM	Num	_	8	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	1	punct	_	_
 
@@ -50,7 +50,7 @@ The following 30 pairs of parts of speech are connected with `mark`: <tt><a href
 5	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	6	obj	_	_
 6	bhí	bí	VERB	PastInd	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 7	'	'	PUNCT	Punct	_	8	punct	_	SpaceAfter=No
-8	fhios	fios	NOUN	Noun	Case=NomAcc|Form=Len|Gender=Masc|Number=Sing	6	nsubj	_	_
+8	fhios	fios	NOUN	Noun	Case=Nom|Form=Len|Gender=Masc|Number=Sing	6	nsubj	_	_
 9	agam	ag	ADP	Prep	Number=Sing|Person=1	6	obl:prep	_	_
 10	gur	gur	PART	Vb	PartType=Vb|Tense=Past	11	mark:prt	_	_
 11	thuig	tuig	VERB	VTI	Form=Len|Mood=Ind|Tense=Past	6	ccomp	_	_
@@ -58,7 +58,7 @@ The following 30 pairs of parts of speech are connected with `mark`: <tt><a href
 13	sin	sin	PRON	Dem	PronType=Dem	11	obj	_	_
 14	i	i	ADP	Simp	_	16	case	_	_
 15	do	do	DET	Det	Number=Sing|Person=2|Poss=Yes	16	nmod:poss	_	_
-16	chroí	croí	NOUN	Noun	Case=NomAcc|Definite=Def|Form=Len|Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
+16	chroí	croí	NOUN	Noun	Case=Nom|Definite=Def|Form=Len|Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
 17	.	.	PUNCT	.	_	6	punct	_	_
 
 ~~~
@@ -75,7 +75,7 @@ The following 30 pairs of parts of speech are connected with `mark`: <tt><a href
 3	isteach	isteach	ADV	Dir	_	2	advmod	_	_
 4	chuig	chuig	ADP	Simp	_	6	case	_	_
 5	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
-6	obair	obair	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Fem|Number=Sing	2	obl	_	_
+6	obair	obair	NOUN	Noun	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	obl	_	_
 7	Dé	Dé	PROPN	Subst	Definite=Def|Number=Sing	6	obl:tmod	_	NamedEntity=Yes
 8	Sathairn	Satharn	PROPN	Noun	Case=Gen|Definite=Def|Gender=Masc|Number=Sing	7	nmod	_	NamedEntity=Yes
 9	chomh	chomh	ADV	Its	_	2	advmod	_	_

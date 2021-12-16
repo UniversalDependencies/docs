@@ -16,12 +16,12 @@ The feature is used with 1 part-of-speech tags: <tt><a href="bej_nsc-pos-SCONJ.h
 
 ### `SCONJ`
 
-36 <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> tokens (38% of all `SCONJ` tokens) have a non-empty value of `VerbForm`.
+36 <tt><a href="bej_nsc-pos-SCONJ.html">SCONJ</a></tt> tokens (39% of all `SCONJ` tokens) have a non-empty value of `VerbForm`.
 
 The most frequent other feature values with which `SCONJ` and `VerbForm` co-occurred: <tt><a href="bej_nsc-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (36; 100%), <tt><a href="bej_nsc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (20; 56%).
 
 `SCONJ` tokens may have the following values of `VerbForm`:
 
 * `Conv` (36; 100% of non-empty `VerbForm`): <em>-eː, -aː, -a, -jeː, -jaː, -ja</em>
-* `EMPTY` (60): <em>=hoːb, =eːt, =jeːt, =aj, na, -oːj, =eːb, =it, =t, ji=</em>
+* `EMPTY` (56): <em>=hoːb, =eːt, =jeːt, =aj, -oːj, =eːb, =it, =t, ji=, -it</em>
 

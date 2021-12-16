@@ -22,11 +22,11 @@ The following 1 pairs of parts of speech are connected with `punct`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 punct	color:blue
-1	kux	kux	NOUN	n	_	2	obj	2:obj	_
-2	kixa	kix	VERB	vt	Aspect=Imp	3	advcl	3:advcl	_
-3	ngarap	ngarap	VERB	vi	Aspect=Perf	0	root	0:root	_
-4	,	,	PUNCT	n	_	3	punct	3:punct	_
-5	pit	pit	PRON	pro	Polarity=Neg	3	parataxis	3:parataxis	_
+1	kux	kux	NOUN	n	_	2	obj	_	_
+2	kixa	kix	VERB	vt	Aspect=Imp	3	advcl	_	_
+3	ngarap	ngarap	VERB	vi	Aspect=Perf	0	root	_	_
+4	,	,	PUNCT	n	_	3	punct	_	_
+5	pit	pit	PRON	pro	Polarity=Neg	3	parataxis	_	_
 
 ~~~
 

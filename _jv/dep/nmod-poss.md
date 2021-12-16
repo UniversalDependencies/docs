@@ -19,4 +19,4 @@ nmod:poss(Jeneng, é)
 nmod:poss(name, her)
 ~~~
 
-<!-- Interlanguage links updated Pá kvě 14 11:09:11 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:59 CET 2021 -->

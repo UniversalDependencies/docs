@@ -58,7 +58,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 12	materia	materia	NOUN	sfs1n	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	13	nsubj	_	_
 13	pateretur	patior	VERB	vd3cis3	Aspect=Imp|InflClass=LatI2|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	15	advcl	_	SpaceAfter=No
 14	,	,	PUNCT	Pu	_	13	punct	_	_
-15	inquirere	inquiro	VERB	va3fp	Aspect=Imp|InflClass=LatX|InflClass[noun]=Ind|Tense=Pres|VerbForm=Inf|Voice=Act	5	ccomp	_	SpaceAfter=No
+15	inquirere	inquiro	VERB	va3fp	Aspect=Imp|InflClass=LatX|InflClass[nominal]=Ind|Tense=Pres|VerbForm=Inf|Voice=Act	5	ccomp	_	SpaceAfter=No
 16	;	;	PUNCT	Pu	_	20	punct	_	_
 17	de	de	ADP	e	AdpType=Prep	20	case	_	_
 18	quarum	qui	PRON	prepfg	Case=Gen|Gender=Fem|InflClass=LatPron|Number=Plur|PronType=Rel	20	nmod	_	_
@@ -72,7 +72,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 26	credo	credo	VERB	va3ips1	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	29	parataxis	_	SpaceAfter=No
 27	,	,	PUNCT	Pu	_	26	punct	_	_
 28	sufficienter	sufficienter	ADV	r	Degree=Pos|VerbForm=Part	29	advmod	_	_
-29	peractum	perago	VERB	vp3*irs3	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatX|InflClass[noun]=IndEurO|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	15	conj	_	_
+29	peractum	perago	VERB	vp3*irs3	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	15	conj	_	_
 30	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	aux:pass	_	SpaceAfter=No
 31	.	.	PUNCT	Pu	_	5	punct	_	_
 
@@ -85,7 +85,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 15 nummod	color:blue
-1	Inquisitis	inquiro	VERB	vp3prpnb	Aspect=Perf|Case=Abl|Degree=Pos|Gender=Neut|InflClass=LatX|InflClass[noun]=IndEurO|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	11	advcl:abs	_	_
+1	Inquisitis	inquiro	VERB	vp3prpnb	Aspect=Perf|Case=Abl|Degree=Pos|Gender=Neut|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	11	advcl:abs	_	_
 2	hiis	hic	DET	ddipnb	Case=Abl|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Dem	1	nsubj:pass	_	_
 3	tribus	tres	NUM	aunpb	Case=Abl|Gender=Neut|InflClass=IndEurI|Number=Plur|NumForm=Word|NumType=Card	2	nummod	_	_
 4	in	in	ADP	e	AdpType=Prep	5	case	_	_
@@ -95,10 +95,10 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 8	a	a	ADP	e	AdpType=Prep	9	case	_	_
 9	toto	totus	DET	dpnsb	Case=Abl|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Tot	6	obl:arg	_	SpaceAfter=No
 10	,	,	PUNCT	Pu	_	1	punct	_	_
-11	videndum	uideo	VERB	vp2gvsnn	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatE|InflClass[noun]=IndEurO|Number=Sing|Tense=Fut|VerbForm=Gdv|Voice=Pass	0	root	_	_
+11	videndum	uideo	VERB	vp2gvsnn	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Neut|InflClass=LatE|InflClass[nominal]=IndEurO|Number=Sing|Tense=Fut|VerbForm=Gdv|Voice=Pass	0	root	_	_
 12	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
 13	de	de	ADP	e	AdpType=Prep	14	case	_	_
-14	aliis	alius	DET	dpnpb	Case=Abl|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Ind	11	obl	_	_
+14	aliis	alius	DET	dpnpb	Case=Abl|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Con	11	obl	_	_
 15	tribus	tres	NUM	aunpb	Case=Abl|Gender=Neut|InflClass=IndEurI|Number=Plur|NumForm=Word|NumType=Card	14	nummod	_	_
 16	in	in	ADP	e	AdpType=Prep	17	case	_	_
 17	quibus	qui	PRON	prepnb	Case=Abl|Gender=Neut|InflClass=LatPron|Number=Plur|PronType=Rel	19	obl	_	_

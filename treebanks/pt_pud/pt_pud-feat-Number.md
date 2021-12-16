@@ -31,7 +31,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 3540 <tt><a href="pt_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="pt_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1879; 53%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="pt_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (2730; 77%), <tt><a href="pt_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1879; 53%).
 
 `DET` tokens may have the following values of `Number`:
 
@@ -46,7 +46,9 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><tt><a href="pt_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="pt_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pt_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>o</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="pt_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pt_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>a</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>o</em></td><td><em>os</em></td></tr>
+  <tr><td><tt><tt><a href="pt_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pt_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>o</em></td><td><em>os</em></td></tr>
   <tr><td><tt><tt><a href="pt_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>a</em></td><td><em>as, os</em></td></tr>
+  <tr><td><tt><tt><a href="pt_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pt_pud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>a</em></td><td><em>as</em></td></tr>
 </table>
 
 ### `ADJ`

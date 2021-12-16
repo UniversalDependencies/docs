@@ -9,28 +9,29 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="fro_srcmf-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="fro_srcmf-dep-nsubj-advmod.html">nsubj:advmod</a></tt>.
 
-89 nodes (0%) are attached to their parents as `nsubj:obj`.
+87 nodes (0%) are attached to their parents as `nsubj:obj`.
 
-89 instances of `nsubj:obj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.40449438202247.
+87 instances of `nsubj:obj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.4367816091954.
 
-The following 1 pairs of parts of speech are connected with `nsubj:obj`: <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (89; 100% instances).
+The following 1 pairs of parts of speech are connected with `nsubj:obj`: <tt><a href="fro_srcmf-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_srcmf-pos-PRON.html">PRON</a></tt> (87; 100% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 nsubj:obj	color:blue
-1	S'	_	SCONJ	CONsub	_	2	mark	_	_
-2	est	_	VERB	VERcjg	VerbForm=Fin	7	advcl	_	_
-3	kil	_	PRON	PROrel.PROper	_	4	nsubj:obj	_	_
-4	demandet	_	VERB	VERcjg	VerbForm=Fin	2	csubj	_	_
-5	ne	_	ADV	ADVneg	Polarity=Neg	7	advmod	_	_
-6	l'	_	PRON	PROper	PronType=Prs	7	obj	_	_
-7	estoet	_	VERB	VERcjg	VerbForm=Fin	0	root	_	_
-8	enseigner	_	VERB	VERinf	VerbForm=Inf	7	xcomp	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 nsubj:obj	color:blue
+1	Or	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_58_02942
+2	irez	_	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_02943
+3	vos	_	PRON	PROper	PronType=Prs	2	nsubj	_	XmlId=w_58_02944
+4	certes	_	ADV	ADVgen	_	2	advmod	_	SpaceAfter=No|XmlId=w_58_02945
+5	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_58_02946
+6	quant	_	SCONJ	CONsub	_	8	mark	_	XmlId=w_58_02947
+7	jol	_	PRON	PROper.PROper	PronType=Prs	8	nsubj:obj	_	XmlId=w_58_02948
+8	cumant	_	VERB	VERcjg	VerbForm=Fin	2	advcl	_	SpaceAfter=No|XmlId=w_58_02949
+9	.	_	PUNCT	PONfrt	_	2	punct	_	XmlId=w_58_02950
 
 ~~~
 

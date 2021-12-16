@@ -43,4 +43,4 @@ The `expl` relation is not used in Naija. The [nsubj:expl]() relation is used in
 8	our	_	_	_	_	0	_	_	_
 9	house	_	_	_	_	0	_	_	_
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:09:14 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:59:02 CET 2021 -->

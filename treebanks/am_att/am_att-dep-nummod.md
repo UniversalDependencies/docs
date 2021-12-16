@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-38 nodes (0%) are attached to their parents as `nummod`.
+35 nodes (0%) are attached to their parents as `nummod`.
 
-37 instances of `nummod` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.21052631578947.
+35 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.22857142857143.
 
-The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-NUM.html">NUM</a></tt> (32; 84% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="am_att-pos-NUM.html">NUM</a></tt>-<tt><a href="am_att-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-NUM.html">NUM</a></tt> (1; 3% instances).
+The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-NUM.html">NUM</a></tt> (32; 91% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="am_att-pos-NUM.html">NUM</a></tt>-<tt><a href="am_att-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-NUM.html">NUM</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -41,40 +41,51 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 nummod	color:blue
-1	ሚስት	ሚስት	NOUN	NOUN	_	7	obj	_	Translit=misətə|LTranslit=misətə
-2	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	1	nummod	_	Translit='u|LTranslit='u
-3	ን	ን	PART	ACC	_	1	case	_	Translit=nə|LTranslit=nə
-4	በ	በ	ADP	ADP	_	5	case	_	Translit=bä|LTranslit=bä
-5	መግደል	መግደል	NOUN	NOUN	VerbForm=Vnoun	7	advcl	_	Translit=mägədälə|LTranslit=mägədälə
-6	ኡ	ኡ	PRON	POSM	Gender=Masc|Number=Sing|Person=3|Poss=Yes	5	nmod	_	Translit='u|LTranslit='u
-7	ተከሰስ	ተከሰስ	VERB	VERB	Voice=Pass	0	root	_	Translit=täkäsäsə|LTranslit=täkäsäsə
-8	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	7	nsubj:pass	_	Translit='ă|LTranslit='ă
-9	።	።	PUNCT	PUNCT	_	7	punct	_	Translit=.|LTranslit=.
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 nummod	color:blue
+1	ከ	ከ	ADP	ADP	Case=Loc	4	case	_	Translit=kä|LTranslit=kä
+2	አንድ	አንድ	NUM	NUM	NumType=Card	4	nummod	_	Translit='änədə|LTranslit='änədə
+3	ኡ	ኡ	DET	DET	_	4	det	_	Translit='u|LTranslit='u
+4	አገር	አገር	NOUN	NOUN	_	9	obl	_	Translit='ägärə|LTranslit='ägärə
+5	ወደ	ወደ	ADP	ADP	_	8	case	_	Translit=wädä|LTranslit=wädä
+6	አንድ	አንድ	NOUN	NOUN	_	8	nummod	_	Translit='änədə|LTranslit='änədə
+7	ኡ	ኡ	DET	DET	_	8	det	_	Translit='u|LTranslit='u
+8	አገር	አገር	NOUN	NOUN	_	9	obl	_	Translit='ägärə|LTranslit='ägärə
+9	እየ_ዞርክ	እየ_ዞርክ	VERB	VERB	_	12	advcl	_	Translit='əjä_zorəkə|LTranslit='əjä_zorəkə
+10	ኡ	ኡ	PRON	SUBJC	Number=Plur|Person=3	9	nsubj	_	Translit='u|LTranslit='u
+11	እ	እ	PRON	SUBJC	Number=Sing|Person=1	12	nsubj	_	Translit='ə|LTranslit='ə
+12	ኖር	ኖር	VERB	VERB	_	0	root	_	Translit=norə|LTranslit=norə
+13	ኣል	ኣል	AUX	AUX	_	12	aux	_	Translit='alə|LTranslit='alə
+14	ኧሁ	ኧሁ	PRON	SUBJC	Gender=Neut|Number=Sing|Person=1	12	nsubj	_	Translit='ăhu|LTranslit='ăhu
+15	።	።	PUNCT	PUNCT	_	12	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 nummod	color:blue
-1	የ	የ	ADP	ADP	_	2	mark	_	Translit=jä|LTranslit=jä
-2	መሬት	መሬት	NOUN	NOUN	_	4	nmod	_	Translit=märetə|LTranslit=märetə
-3	ኡ	ኡ	DET	DET	_	2	det	_	Translit='u|LTranslit='u
-4	መንቀጥቀጥ	መንቀጥቀጥ	NOUN	NOUN	VerbForm=Vnoun	8	nsubj	_	Translit=mänəqäţəqäţə|LTranslit=mänəqäţəqäţə
-5	ብዙ	ብዙ	ADJ	ADJ	_	6	nummod	_	Translit=bəzu|LTranslit=bəzu
-6	ቋጥኞች	ቋጥኞች	NOUN	NOUN	Number=Plur	8	obj	_	Translit=qwaţəňočə|LTranslit=qwaţəňočə
-7	ን	ን	PART	ACC	_	6	case	_	Translit=nə|LTranslit=nə
-8	ፈነቃቀል	ፈነቃቀል	VERB	VERB	_	0	root	_	Translit=fänäqaqälə|LTranslit=fänäqaqälə
-9	ኧ	ኧ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	8	expl	_	Translit='ă|LTranslit='ă
-10	።	።	PUNCT	PUNCT	_	8	punct	_	Translit=.|LTranslit=.
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 nummod	color:blue
+1	በ	በ	ADP	ADP	_	2	case	_	Translit=bä|LTranslit=bä
+2	ሳምንት	ሳምንት	NOUN	NOUN	_	6	obl	_	Translit=samənətə|LTranslit=samənətə
+3	አንድ	አንድ	NUM	NUM	NumType=Card	4	nummod	_	Translit='änədə|LTranslit='änədə
+4	ሺህ	ሺህ	NUM	NUM	NumType=Card	5	nummod	_	Translit=šihə|LTranslit=šihə
+5	ብር	ብር	NOUN	NOUN	_	6	obj	_	Translit=bərə|LTranslit=bərə
+6	አገኝ	አገኝ	VERB	VERB	_	11	ccomp	_	Translit='ägäňə|LTranslit='ägäňə
+7	ኣል	ኣል	AUX	AUX	_	6	aux	_	Translit='alə|LTranslit='alə
+8	ኧሁ	ኧሁ	PRON	SUBJC	Gender=Neut|Number=Sing|Person=3	6	nsubj	_	Translit='ăhu|LTranslit='ăhu
+9	ስ	ስ	SCONJ	SCONJ	_	11	mark	_	Translit=sə|LTranslit=sə
+10	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	11	nsubj	_	Translit=jə|LTranslit=jə
+11	ል	ል	VERB	VERB	_	12	advcl	_	Translit=lə|LTranslit=lə
+12	ተጠራጠር	ተጠራጠር	VERB	VERB	_	0	root	_	Translit=täţäraţärə|LTranslit=täţäraţärə
+13	ኩ	ኩ	PRON	SUBJC	Number=Sing|Person=1	12	nsubj	_	Translit=ku|LTranslit=ku
+14	ት	ት	PRON	OBJC	Gender=Masc|Number=Sing|Person=3	12	expl	_	Translit=tə|LTranslit=tə
+15	።	።	PUNCT	PUNCT	_	12	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

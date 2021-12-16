@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2763 nodes (0%) are attached to their parents as `ccomp`.
+2770 nodes (0%) are attached to their parents as `ccomp`.
 
-2762 instances of `ccomp` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.10821570756424.
+2770 instances of `ccomp` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.11046931407942.
 
-The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (2024; 73% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt> (512; 19% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (214; 8% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (2031; 73% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt> (512; 18% instances), <tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (214; 8% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwj-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

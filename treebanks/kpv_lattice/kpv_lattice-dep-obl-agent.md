@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="kpv_lattice-dep-obl.html">obl</a></tt>.
 There are also 7 other language-specific subtypes of `obl`: <tt><a href="kpv_lattice-dep-obl-cau.html">obl:cau</a></tt>, <tt><a href="kpv_lattice-dep-obl-lfrom.html">obl:lfrom</a></tt>, <tt><a href="kpv_lattice-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="kpv_lattice-dep-obl-lmp.html">obl:lmp</a></tt>, <tt><a href="kpv_lattice-dep-obl-lto.html">obl:lto</a></tt>, <tt><a href="kpv_lattice-dep-obl-mcl.html">obl:mcl</a></tt>, <tt><a href="kpv_lattice-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-4 nodes (0%) are attached to their parents as `obl:agent`.
+5 nodes (0%) are attached to their parents as `obl:agent`.
 
-3 instances of `obl:agent` (75%) are right-to-left (child precedes parent).
+4 instances of `obl:agent` (80%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `obl:agent`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (4; 100% instances).
+The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (4; 80% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (1; 20% instances).
 
 
 ~~~ conllu
@@ -41,6 +41,27 @@ The following 1 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 16	тэа-меа	тэа-меа	PRON	Pron	_	17	nsubj	_	_
 17	окыштчылім	окыштчывны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|Valency=1	12	ccomp	_	GTtags=IV,Ind,Prt1,Pl1|SpaceAfter=No
 18	.	.	PUNCT	CLB	_	12	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 obl:agent	color:blue
+1	Ми	ме	PRON	Pron	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	GTtags=Pers,Pl1,Nom|SpaceAfter=No
+2	,	,	PUNCT	PUNCT	_	3	punct	_	_
+3	зонпосни	зонпосни	NOUN	N	Case=Nom|Number=Sing	1	appos	_	GTtags=Sg,Nom|SpaceAfter=No
+4	,	,	PUNCT	PUNCT	_	3	punct	_	_
+5	туриясӧн	тури	NOUN	N	Case=Ins|Number=Plur	6	obl:agent	_	GTtags=Pl,Ins
+6	вайӧм	вайны	VERB	V	Valency=2|VerbForm=Vnoun	7	acl:relcl	_	GTtags=TV,Der,Der/ӧм,PastPtc
+7	шудсӧ	шуд	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obj	_	GTtags=Sg,Acc,PxSg3
+8	гӧгӧрволім	гӧгӧрволыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|Valency=2	0	root	_	GTtags=TV,Ind,Prt1,Pl1
+9	ас	ас	PRON	Pron	Case=Nom|Number=Sing	10	det	_	GTtags=Sg,Nom
+10	ног	ног	NOUN	N	Case=Nom|Number=Sing	8	obl	_	GTtags=Sg,Nom|SpaceAfter=No
+11	.	.	PUNCT	PUNCT	_	8	punct	_	_
 
 ~~~
 

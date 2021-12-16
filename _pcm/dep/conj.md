@@ -69,4 +69,4 @@ udver: '2'
 10	faculty	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:08:57 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:46 CET 2021 -->

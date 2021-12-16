@@ -16,4 +16,4 @@ advcl(bucuros, luat)
 Ajungând la birou, a observat că îi lipsește cheia . \n Arriving at office, has noticed that to-him lacks key-the . (When arriving at the office, he noticed that didn't have the key.)
 advcl(observat, Ajungând)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:08:46 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:34 CET 2021 -->

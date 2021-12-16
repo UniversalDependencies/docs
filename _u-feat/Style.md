@@ -97,4 +97,4 @@ In the case of an expressive spelling variant, this feature should be paired wit
 
 * [cs] _Doporučuji vrátit <b>parchanta</b> do košíčku, postrčit po vodě a na hloubce ho převrhnout._ “I recommend returning the bastard to the basket, pushing it over the water and overturning it at depth.”
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:41 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:30 CET 2021 -->

@@ -26,10 +26,10 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 1	D'	do	PART	Vb	PartType=Vb	2	mark:prt	_	SpaceAfter=No
 2	éirigh	éirigh	VERB	VI	Mood=Ind|Tense=Past	0	root	_	_
 3	sa	i	ADP	Art	Number=Sing|PronType=Art	4	case	_	_
-4	scrúdú	scrúdú	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	2	obl	_	_
+4	scrúdú	scrúdú	NOUN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	obl	_	_
 5	leis	le	ADP	Simp	_	7	case	_	_
 6	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	7	det	_	_
-7	mac	mac	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	2	obl	_	_
+7	mac	mac	NOUN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	obl	_	_
 8	léinn	léann	NOUN	Noun	Case=Gen|Gender=Masc|Number=Sing	7	compound	_	SpaceAfter=No
 9	.	.	PUNCT	.	_	2	punct	_	_
 
@@ -49,13 +49,13 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 5	siúd	siúd	PRON	Dem	PronType=Dem	4	det	_	_
 6	ag	ag	ADP	Simp	_	7	case	_	_
 7	tabhairt	tabhairt	NOUN	Noun	VerbForm=Vnoun	3	xcomp	_	_
-8	chothrom	cothrom	NOUN	Noun	Case=NomAcc|Form=Len|Gender=Masc|Number=Sing	7	obj	_	_
+8	chothrom	cothrom	NOUN	Noun	Case=Nom|Form=Len|Gender=Masc|Number=Sing	7	obj	_	_
 9	na	an	DET	Art	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	compound	_	_
 10	Féinne	Fiann	PROPN	Noun	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	compound	_	_
 11	dúinne	do	ADP	Prep	Number=Plur|Person=1|PronType=Emp	7	obl:prep	_	_
 12	agus	agus	CCONJ	Coord	_	14	cc	_	_
 13	dár	do	ADP	Poss	Number=Plur|Person=1|Poss=Yes	14	case	_	_
-14	stát	stát	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	11	conj	_	SpaceAfter=No
+14	stát	stát	NOUN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	11	conj	_	SpaceAfter=No
 15	?	?	PUNCT	?	_	3	punct	_	_
 
 ~~~
@@ -74,13 +74,13 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 5	siúd	siúd	PRON	Dem	PronType=Dem	4	det	_	_
 6	ag	ag	ADP	Simp	_	7	case	_	_
 7	tabhairt	tabhairt	NOUN	Noun	VerbForm=Vnoun	3	xcomp	_	_
-8	chothrom	cothrom	NOUN	Noun	Case=NomAcc|Form=Len|Gender=Masc|Number=Sing	7	obj	_	_
+8	chothrom	cothrom	NOUN	Noun	Case=Nom|Form=Len|Gender=Masc|Number=Sing	7	obj	_	_
 9	na	an	DET	Art	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	compound	_	_
 10	Féinne	Fiann	PROPN	Noun	Case=Gen|Definite=Def|Gender=Fem|Number=Sing	8	compound	_	_
 11	dúinne	do	ADP	Prep	Number=Plur|Person=1|PronType=Emp	7	obl:prep	_	_
 12	agus	agus	CCONJ	Coord	_	14	cc	_	_
 13	dár	do	ADP	Poss	Number=Plur|Person=1|Poss=Yes	14	case	_	_
-14	stát	stát	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	11	conj	_	SpaceAfter=No
+14	stát	stát	NOUN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	11	conj	_	SpaceAfter=No
 15	?	?	PUNCT	?	_	3	punct	_	_
 
 ~~~

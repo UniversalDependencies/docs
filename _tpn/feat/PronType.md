@@ -11,6 +11,8 @@ udver: '2'
   <td><a href="#Int">Int</a></td>
   <td><a href="#Prs">Prs</a></td>
   <td><a href="#Ind">Ind</a></td>
+  <td><a href="#Tot">Tot</a></td>
+  <td><a href="#Dem">Dem</a></td>
   
 
 </tr>
@@ -50,6 +52,22 @@ Indefinite pronoun
 
 * _<b>?????a</b>&nbsp;_ “?????”
 
+
+### <a name="Tot">`Tot`</a>: Total
+
+
+#### Examples
+
+* _<b>?????a</b>&nbsp;_ “?????”
+
+
+### <a name="Dem">`Dem`</a>: Demonstrative
+
+
+#### Examples
+
+* _<b>?????a</b>&nbsp;_ “?????”
+
   
 </tr>
 </table>
@@ -61,4 +79,4 @@ Indefinite pronoun
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Pá kvě 14 11:08:40 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:28 CET 2021 -->

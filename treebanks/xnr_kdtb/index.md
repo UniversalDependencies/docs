@@ -16,11 +16,11 @@ Family: Indo-European, Indic
 
 This treebank has been part of Universal Dependencies since the UD v2.8 release.
 
-The following people have contributed to making this treebank part of UD: Shweta Chauhan, Shefali Saxena, Apoorva Jha, Philemon. Daniel.
+The following people have contributed to making this treebank part of UD: Shweta Chauhan, Shefali Saxena, Apoorva Jha, Philemon Daniel.
 
 Repository: [UD_Kangri-KDTB](https://github.com/UniversalDependencies/UD_Kangri-KDTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udxnr_kdtb28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udxnr_kdtb29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-SA 4.0
 
@@ -45,7 +45,7 @@ Development of the treebank happens directly in the UD repository, so you may su
 The Kangri UD Treebank (KDTB) is a part of the Universal Dependency treebank project.
 
 
-The Kangri UD Treebank (KDTB) consists of 2,249 tokens and 1108 vocabulary (288 sentences). This Treebank is a part of the Universal Dependency treebank project. Department of Language Art and Culture, Shimla, Himachal Pradesh, India helped in providing annotators for universal dependency tagging. KDTB data contains syntactic annotation according to dependency-constituency schema, as well as morphological tags. In this data, XPOS is annotated according to Bureau of Indian Standards (BIS) Part of Speech (POS) tagset.
+The Kangri UD Treebank (KDTB) consists of 2,249 tokens and 1108 vocabulary (288 sentences). This Treebank is a part of the Universal Dependency treebank project. Himachal Academy of Arts Culture and Languages, Shimla, Himachal Pradesh, India helped in providing annotators for universal dependency tagging. KDTB data contains syntactic annotation according to dependency-constituency schema, as well as morphological tags. In this data, XPOS is annotated according to Bureau of Indian Standards (BIS) Part of Speech (POS) tagset.
 
 
 ## Acknowledgments

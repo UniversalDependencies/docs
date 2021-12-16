@@ -16,6 +16,7 @@ udver: '2'
   <td><a href="">Iter</a></td>
   <td><a href="">Prog</a></td>
   <td><a href="">Dec</a></td>
+  <td><a href="">IterImp</a></td>
 
 
 </tr>
@@ -33,6 +34,7 @@ The exmaple below has the root *bu* 'finger' in classifier function.
 * _<b>tõ-tõ-m</b>&nbsp;_ “be/keep crying”
 
 
+
 ### <a name="Imp">`Imp`</a>: Imperfective
 
 The exmaple below has the root *bu* 'finger' in classifier function.
@@ -42,6 +44,7 @@ The exmaple below has the root *bu* 'finger' in classifier function.
 * _<b>orog̃</b>&nbsp;_ “Hunt(ing)” (perfective form *orok*)
 
 
+
 ### <a name="Perf">`Perf`</a>: Perfective
 
 The default form is perfective aspect.
@@ -49,6 +52,7 @@ The default form is perfective aspect.
 #### Examples
 
 * _<b>orok</b>&nbsp;_ “hunt”
+
 
 
 ### <a name="Compl">`Compl`</a>: Completive
@@ -80,6 +84,18 @@ The iterative aspect
 * _<b>g̃ebuje aĩhĩ tõtõm</b>&nbsp;_ “My mother used to cry / kept crying”
 
 
+
+### <a name="IterImp">`IterImp`</a>: Iterative Imperfective
+
+* _<b>imõg̃mõg̃ ip</b>&nbsp;_ “they keep removing it”
+
+
+#### Examples
+
+* _<b></b>&nbsp;_ “”
+
+
+
 ### <a name="Prog">`Prog`</a>: Progressive
 
 The progressive aspect
@@ -87,7 +103,6 @@ The progressive aspect
 #### Examples
 
 * _<b>jokjog̃ tu ẽn?</b>&nbsp;_ “Are you bathing?”
-
 
 
 
@@ -99,4 +114,6 @@ The progressive aspect
 
 * _<b>jokjog̃ tu ẽn?</b>&nbsp;_ “Are you bathing?”
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:28 CEST 2021 -->
+
+
+<!-- Interlanguage links updated St lis 3 20:58:17 CET 2021 -->

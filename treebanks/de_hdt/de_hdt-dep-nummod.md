@@ -11,7 +11,7 @@ This relation is universal.
 58781 nodes (2%) are attached to their parents as `nummod`.
 
 58776 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.07003963865875.
+Average distance between parent and child is 1.07053299535564.
 
 The following 12 pairs of parts of speech are connected with `nummod`: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (48097; 82% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (10036; 17% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt>-<tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (273; 0% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (167; 0% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (70; 0% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt>-<tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (61; 0% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (38; 0% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (19; 0% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt>-<tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt>-<tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (3; 0% instances).
 
@@ -67,10 +67,11 @@ The following 12 pairs of parts of speech are connected with `nummod`: <tt><a hr
 5	auf	auf	ADP	APPR	AdpType=Prep|Case=Acc	7	case	_	_
 6	14.000	14.000	NUM	CARD	Number=Plur|NumType=Card|Person=3	7	nummod	_	_
 7	Ports	Ports	X	FM	Foreign=Yes|Person=3	4	nmod	_	_
-8	noch	noch	ADV	ADV	_	10	advmod	_	_
-9	im	im	ADP	APPRART	AdpType=Prep|Case=Dat|PronType=Art	10	case	_	_
-10	Januar	Januar	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing|Person=3	2	obl	_	_
-11	.	.	PUNCT	$.	PunctType=Peri	2	punct	_	_
+8	noch	noch	ADV	ADV	_	11	advmod	_	_
+9	in	in	ADP	APPR	AdpType=Prep|Case=Dat	11	case	_	_
+10	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	11	det	_	_
+11	Januar	Januar	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing|Person=3	2	obl	_	_
+12	.	.	PUNCT	$.	PunctType=Peri	2	punct	_	_
 
 ~~~
 

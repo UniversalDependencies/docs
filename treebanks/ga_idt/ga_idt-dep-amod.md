@@ -22,7 +22,7 @@ The following 19 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 amod	color:blue
-1	Bean	bean	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	0	root	_	_
+1	Bean	bean	NOUN	Noun	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
 2	shuidhte	suidhte	ADJ	Adj	Form=Len|VerbForm=Part	1	amod	_	_
 3	dhéanta	déanta	ADJ	Adj	Degree=Pos|Form=Len	1	amod	_	SpaceAfter=No
 4	...	...	PUNCT	...	_	1	punct	_	_
@@ -44,7 +44,7 @@ The following 19 pairs of parts of speech are connected with `amod`: <tt><a href
 6	,	,	PUNCT	Punct	_	4	punct	_	_
 7	tá	bí	VERB	PresInd	Mood=Ind|Tense=Pres	0	root	_	_
 8	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
-9	Rialtas	rialtas	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	7	nsubj	_	_
+9	Rialtas	rialtas	NOUN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	7	nsubj	_	_
 10	páirteach	páirteach	ADJ	Adj	Degree=Pos	7	xcomp:pred	_	_
 11	ann	i	ADP	Prep	Gender=Masc|Number=Sing|Person=3	7	obl:prep	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	7	punct	_	_
@@ -58,7 +58,7 @@ The following 19 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 amod	color:blue
-1	Slán	slán	NOUN	Noun	Case=NomAcc|Gender=Masc|Number=Sing	0	root	_	_
+1	Slán	slán	NOUN	Noun	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 2	leat	le	ADP	Prep	Number=Sing|Person=2	1	obl:prep	_	SpaceAfter=No
 3	,	,	PUNCT	Punct	_	5	punct	_	_
 4	a	a	PART	Voc	PartType=Voc	5	case:voc	_	_

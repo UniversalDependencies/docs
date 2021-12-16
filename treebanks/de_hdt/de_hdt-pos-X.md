@@ -29,13 +29,13 @@ The 10 most frequent ambiguous types:  <em>of</em> (<tt><a href="de_hdt-pos-X.ht
   * <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> 6: <em>" It's time for those 128- , 192- , <b>and</b> 256-bit keys . "</em>
   * <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> 1: <em>Für die Microsoft Indexing Services enthält die Default-Installation ISAPI-Bindungen für die Dateitypen Internet Data Administration ( .ida ) <b>and</b> Internet Data Query ( .idq ) .</em>
 * <em>digital</em>
-  * <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> 65: <em>Seit heute gibt es das Angebot auch <b>digital</b> im Netz .</em>
+  * <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> 65: <em>Seit heute gibt es das Angebot auch <b>digital</b> in dem Netz .</em>
   * <tt><a href="de_hdt-pos-X.html">X</a></tt> 8: <em>AM-Radio goes <b>digital</b></em>
   * <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> 1: <em>Bislang wurde der Bereich auch nicht in das Cabletron-Produktspektrum integriert ; die Geräte liefen weiterhin unter dem Markennamen " <b>digital</b> " .</em>
 * <em>mobile</em>
   * <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> 238: <em>Debitel ermöglicht das <b>mobile</b> Aufladen von Prepaid-Karten via Paybox .</em>
   * <tt><a href="de_hdt-pos-X.html">X</a></tt> 20: <em>Crusoe will be cool hardware and software for <b>mobile</b> applications .</em>
-  * <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> 1: <em>Die Hauptanwendungen für organische Displays sieht Stanford Resources bei den <b>mobile</b> Appliances und im Automobilsektor .</em>
+  * <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> 1: <em>Die Hauptanwendungen für organische Displays sieht Stanford Resources bei den <b>mobile</b> Appliances und in dem Automobilsektor .</em>
 * <em>media</em>
   * <tt><a href="de_hdt-pos-X.html">X</a></tt> 13: <em>Die " Heavy-User-Studie " von interactive <b>media</b> gibt hierzu einige Hinweise .</em>
   * <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> 2: <em>Die virtuellen Wesen würden als zusätzliches Marketinginstrument eingesetzt , sagt Kai Bühler , Vorstandsvorsitzender der Kölner Firma plan_b <b>media</b> , die auch den vwd-Nachrichtensprecher und Baby Fred kreierte .</em>
@@ -49,7 +49,7 @@ The 10 most frequent ambiguous types:  <em>of</em> (<tt><a href="de_hdt-pos-X.ht
 * <em>Explorer</em>
   * <tt><a href="de_hdt-pos-X.html">X</a></tt> 356: <em>Internet <b>Explorer</b> 6.0 auf deutsch</em>
   * <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> 125: <em>Internet <b>Explorer</b> 6 ist da</em>
-  * <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> 5: <em>Der nordhessische Sägenhersteller ging letzte Woche ins Internet und setzt dabei voll auf den Movex Web <b>Explorer</b> .</em>
+  * <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> 5: <em>Der nordhessische Sägenhersteller ging letzte Woche in das Internet und setzt dabei voll auf den Movex Web <b>Explorer</b> .</em>
 * <em>international</em>
   * <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> 110: <em>Es würde sich dabei <b>international</b> um den ersten Fall dieser Art handeln .</em>
   * <tt><a href="de_hdt-pos-X.html">X</a></tt> 7: <em>It is a fact that we are considerably better financed than some of our large <b>international</b> competitors .</em>
@@ -57,7 +57,7 @@ The 10 most frequent ambiguous types:  <em>of</em> (<tt><a href="de_hdt-pos-X.ht
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 2.524227).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 2.524629).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -82,15 +82,15 @@ Parents of `X` nodes belong to 11 different parts of speech: <tt><a href="de_hdt
 
 32357 (60%) `X` nodes are leaves.
 
-4882 (9%) `X` nodes have one child.
+4781 (9%) `X` nodes have one child.
 
-5461 (10%) `X` nodes have two children.
+5412 (10%) `X` nodes have two children.
 
-11013 (21%) `X` nodes have three or more children.
+11163 (21%) `X` nodes have three or more children.
 
 The highest child degree of a `X` node is 41.
 
-Children of `X` nodes are attached using 25 different relations: <tt><a href="de_hdt-dep-flat.html">flat</a></tt> (23887; 37% instances), <tt><a href="de_hdt-dep-punct.html">punct</a></tt> (10559; 17% instances), <tt><a href="de_hdt-dep-det.html">det</a></tt> (6846; 11% instances), <tt><a href="de_hdt-dep-case.html">case</a></tt> (5895; 9% instances), <tt><a href="de_hdt-dep-appos.html">appos</a></tt> (5079; 8% instances), <tt><a href="de_hdt-dep-flat-name.html">flat:name</a></tt> (2297; 4% instances), <tt><a href="de_hdt-dep-nmod.html">nmod</a></tt> (2244; 4% instances), <tt><a href="de_hdt-dep-amod.html">amod</a></tt> (1799; 3% instances), <tt><a href="de_hdt-dep-conj.html">conj</a></tt> (1772; 3% instances), <tt><a href="de_hdt-dep-cc.html">cc</a></tt> (1450; 2% instances), <tt><a href="de_hdt-dep-advmod.html">advmod</a></tt> (787; 1% instances), <tt><a href="de_hdt-dep-acl.html">acl</a></tt> (605; 1% instances), <tt><a href="de_hdt-dep-nummod.html">nummod</a></tt> (292; 0% instances), <tt><a href="de_hdt-dep-cop.html">cop</a></tt> (102; 0% instances), <tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt> (101; 0% instances), <tt><a href="de_hdt-dep-obl.html">obl</a></tt> (53; 0% instances), <tt><a href="de_hdt-dep-parataxis.html">parataxis</a></tt> (45; 0% instances), <tt><a href="de_hdt-dep-mark.html">mark</a></tt> (14; 0% instances), <tt><a href="de_hdt-dep-aux.html">aux</a></tt> (5; 0% instances), <tt><a href="de_hdt-dep-csubj.html">csubj</a></tt> (4; 0% instances), <tt><a href="de_hdt-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="de_hdt-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="de_hdt-dep-expl.html">expl</a></tt> (2; 0% instances), <tt><a href="de_hdt-dep-vocative.html">vocative</a></tt> (1; 0% instances), <tt><a href="de_hdt-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+Children of `X` nodes are attached using 25 different relations: <tt><a href="de_hdt-dep-flat.html">flat</a></tt> (23887; 37% instances), <tt><a href="de_hdt-dep-punct.html">punct</a></tt> (10559; 16% instances), <tt><a href="de_hdt-dep-det.html">det</a></tt> (7450; 12% instances), <tt><a href="de_hdt-dep-case.html">case</a></tt> (5895; 9% instances), <tt><a href="de_hdt-dep-appos.html">appos</a></tt> (5079; 8% instances), <tt><a href="de_hdt-dep-flat-name.html">flat:name</a></tt> (2297; 4% instances), <tt><a href="de_hdt-dep-nmod.html">nmod</a></tt> (2244; 3% instances), <tt><a href="de_hdt-dep-amod.html">amod</a></tt> (1799; 3% instances), <tt><a href="de_hdt-dep-conj.html">conj</a></tt> (1772; 3% instances), <tt><a href="de_hdt-dep-cc.html">cc</a></tt> (1450; 2% instances), <tt><a href="de_hdt-dep-advmod.html">advmod</a></tt> (787; 1% instances), <tt><a href="de_hdt-dep-acl.html">acl</a></tt> (605; 1% instances), <tt><a href="de_hdt-dep-nummod.html">nummod</a></tt> (292; 0% instances), <tt><a href="de_hdt-dep-cop.html">cop</a></tt> (102; 0% instances), <tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt> (101; 0% instances), <tt><a href="de_hdt-dep-obl.html">obl</a></tt> (53; 0% instances), <tt><a href="de_hdt-dep-parataxis.html">parataxis</a></tt> (45; 0% instances), <tt><a href="de_hdt-dep-mark.html">mark</a></tt> (14; 0% instances), <tt><a href="de_hdt-dep-aux.html">aux</a></tt> (5; 0% instances), <tt><a href="de_hdt-dep-csubj.html">csubj</a></tt> (4; 0% instances), <tt><a href="de_hdt-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="de_hdt-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="de_hdt-dep-expl.html">expl</a></tt> (2; 0% instances), <tt><a href="de_hdt-dep-vocative.html">vocative</a></tt> (1; 0% instances), <tt><a href="de_hdt-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Children of `X` nodes belong to 15 different parts of speech: <tt><a href="de_hdt-pos-X.html">X</a></tt> (24195; 38% instances), <tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> (10559; 17% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (6697; 10% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (5734; 9% instances), <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (5393; 8% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (4478; 7% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (1951; 3% instances), <tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (1950; 3% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (1144; 2% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (684; 1% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (630; 1% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (265; 0% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (120; 0% instances), <tt><a href="de_hdt-pos-PART.html">PART</a></tt> (33; 0% instances), <tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt> (12; 0% instances)
+Children of `X` nodes belong to 15 different parts of speech: <tt><a href="de_hdt-pos-X.html">X</a></tt> (24195; 38% instances), <tt><a href="de_hdt-pos-PUNCT.html">PUNCT</a></tt> (10559; 16% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (7301; 11% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (5734; 9% instances), <tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (5393; 8% instances), <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (4478; 7% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (1951; 3% instances), <tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (1950; 3% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (1144; 2% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (684; 1% instances), <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (630; 1% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (265; 0% instances), <tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (120; 0% instances), <tt><a href="de_hdt-pos-PART.html">PART</a></tt> (33; 0% instances), <tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt> (12; 0% instances)
 

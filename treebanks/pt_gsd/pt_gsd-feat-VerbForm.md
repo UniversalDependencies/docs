@@ -23,5 +23,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="pt_gsd-pos-VERB.htm
 * `Fin` (1; 33% of non-empty `VerbForm`): <em>virou</em>
 * `Ger` (1; 33% of non-empty `VerbForm`): <em>tornando</em>
 * `Part` (1; 33% of non-empty `VerbForm`): <em>considerados</em>
-* `EMPTY` (27579): <em>é, tem, disse, está, há, foi, fazer, estão, afirmou, teve</em>
+* `EMPTY` (27480): <em>é, tem, disse, está, há, foi, fazer, estão, afirmou, teve</em>
 

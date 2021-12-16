@@ -21,5 +21,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="am_att-pos-AUX.html
 `AUX` tokens may have the following values of `Tense`:
 
 * `Past` (1; 100% of non-empty `Tense`): ነበር
-* `EMPTY` (418): ኣል, ን, ነበር, ሆን, ችል, ኖር, አይደል, እየ, ማለት, ብል
+* `EMPTY` (419): ኣል, ን, ነበር, ሆን, ችል, ኖር, አይደል, እየ, ብል, ቻል
 

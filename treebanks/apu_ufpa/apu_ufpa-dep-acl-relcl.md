@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="apu_ufpa-dep-acl.html">acl</a></tt>.
 
-5 nodes (1%) are attached to their parents as `acl:relcl`.
+7 nodes (1%) are attached to their parents as `acl:relcl`.
 
-5 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.
+7 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.28571428571429.
 
-The following 2 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (4; 80% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (1; 20% instances).
+The following 3 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (5; 71% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (1; 14% instances), <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (1; 14% instances).
 
 
 ~~~ conllu
@@ -39,7 +39,7 @@ The following 2 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 6 7 acl:relcl	color:blue
 1	Nynuwa	nynuwa	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	gloss[pt]=3PL
 2	awary	awa	VERB	XPOS=ter	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	0	root	_	gloss[pt]=ter-3SG.M.O
-3	ximaky	ximaky	NOUN	XPOS=peixe	_	2	obj	_	gloss[pt]=peixe|SpaceAfter=No
+3	ximaky	ximaky	NOUN	N	Case=Nom|Gender=Masc|Number=Sing|Possessed=No	2	obj	_	gloss[pt]=peixe|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
 5	awa	awa	VERB	XPOS=ter	_	2	conj	_	gloss[pt]=ter
 6	nhipukury	nhipuku	NOUN	XPOS=comida	Possessed=No	5	obj	_	gloss[pt]=comida-N.POSSD
@@ -52,6 +52,22 @@ The following 2 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 13	apikumunhi	apiku	NOUN	XPOS=adiante	Case=Dat	12	nmod	_	gloss[pt]=adiante-DAT
 14	amãnteere	amãnteere	NOUN	XPOS=fruta	_	12	conj	_	gloss[pt]=fruta|SpaceAfter=No
 15	.	.	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 acl:relcl	color:blue
+1	Awa	Awa	VERB	XPOS=existir	_	0	root	_	gloss[pt]=existir
+2	ykynypuku	ykynypuku	PRON	XPOS=todo-DISTR	_	1	nsubj	_	gloss[pt]=todo-DISTR|SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	5	punct	_	_
+4	kariwa	kariwa	NOUN	XPOS=não.índio	_	5	obl	_	gloss[pt]=não.índio
+5	mawakynỹãty	awa	VERB	XPOS=PRIV-ter-REL.PL-LOC	Gender[obj]=Masc|Number[obj]=Sing|Person[obj]=3	2	acl:relcl	_	gloss[pt]=PRIV-ter-REL.PL-LOC-3SG.M.O|SpaceAfter=No
+6	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
 

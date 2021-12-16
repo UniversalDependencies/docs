@@ -64,7 +64,7 @@ The following 1 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 40	rubato	rubare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
 41	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	43	det	_	_
 42	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	43	det:poss	_	_
-43	bat	bat	NOUN	S	Gender=Masc|Number=Sing	40	obj	_	Foreign=Yes|SpaceAfter=No
+43	bat	bat	NOUN	S	Gender=Masc|Number=Sing	40	dislocated	_	Foreign=Yes|SpaceAfter=No
 44	,	,	PUNCT	FF	_	47	punct	_	_
 45	povero	povero	ADJ	A	Gender=Masc|Number=Sing	46	amod	_	_
 46	bambino	bambino	NOUN	S	Gender=Masc|Number=Sing	47	vocative	_	_

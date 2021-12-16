@@ -20,4 +20,21 @@ Western Armenian uses `flat:range` for numerical, spacial and time ranges.
 9	։	։	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:09:06 CEST 2021 -->
+
+~~~ conllu
+# visual-style 5 7 flat:range color:blue
+# visual-style 5 9 flat:range color:blue
+1	մինչ	մինչ	SCONJ	_	_	4	mark	_	Translit=minč|LTranslit=minč
+2	Պաքուն	Պաքու	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Def|NameType=Geo|Number=Sing	4	nsubj	_	Translit=Pak’own|LTranslit=Pak’ow
+3	կ՚	կը	AUX	_	Aspect=Imp|Mood=Ind	4	aux	_	Translit=k,|LTranslit=kë|SpaceAfter=No
+4	առաջադրէ	առաջադրել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=aṙaǰadrē|LTranslit=aṙaǰadrel
+5	Երեւան	Երեւան	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	11	nmod	_	Translit=Erewan|LTranslit=Erewan|SpaceAfter=No
+6	-	-	PUNCT	_	_	7	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
+7	Պաքու	Պաքու	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	5	flat:range	_	Translit=Pak’ow|LTranslit=Pak’ow|SpaceAfter=No
+8	-	-	PUNCT	_	_	9	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
+9	Մոսկուա	Մոսկուա	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	5	flat:range	_	Translit=Moskowa|LTranslit=Moskowa
+10	եռակողմ	եռակողմ	ADJ	_	_	11	amod	_	Translit=eṙakoġm|LTranslit=eṙakoġm
+11	ձեւաչափը	ձեւաչափ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	4	obj	_	Translit=jewačap’ë|LTranslit=jewačap’
+
+~~~
+<!-- Interlanguage links updated St lis 3 20:58:55 CET 2021 -->

@@ -43,6 +43,7 @@ happen, without adding any attitude of the speaker.
 * [tr] *eve <b>gidiyor</b>* "she is going home"
 * [tr] *eve <b>gitti</b>* "she went home"
 * [et] _Sa ei <b>tule</b>._ "You are not coming."
+* [pt] Ela <b>foi</b> para casa. “she went home.”
 * [sq] _Ti <b>flet</b> shqip._ "You speak Albanian."
 
 ### <a name="Imp">`Imp`</a>: imperative
@@ -181,4 +182,4 @@ and in Caddo (Native American from Oklahoma).
 
 * [sq] _Ti <b>fliske</b> shqip!_ “You (surprisingly) speak Albanian!”
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:34 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:23 CET 2021 -->

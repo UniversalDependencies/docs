@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ro_rrt-dep-aux.html">aux</a></tt>.
 
-1602 nodes (1%) are attached to their parents as `aux:pass`.
+1645 nodes (1%) are attached to their parents as `aux:pass`.
 
-1599 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.10986267166042.
+1642 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.10699088145897.
 
-The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (1571; 98% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (26; 2% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (5; 0% instances).
+The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (1616; 98% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (25; 2% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (4; 0% instances).
 
 
 ~~~ conllu

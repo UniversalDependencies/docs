@@ -84,14 +84,14 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 12	story	story	NOUN	_	_	0	root	_	AlignBegin=134930|AlignEnd=135210|Gloss=story
 13	as	as	ADP	_	_	15	mark	_	AlignBegin=135210|AlignEnd=135347|Gloss=as
 14	e	im	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	AlignBegin=135347|AlignEnd=135440|Gloss=NOM.SG.3
-15	take	take	VERB	_	_	12	advcl	_	AlignBegin=135440|AlignEnd=135589|Gloss=take
+15	take	take	VERB	_	_	12	acl:relcl	_	AlignBegin=135440|AlignEnd=135589|Gloss=take
 16	concern	concern	VERB	_	_	15	compound:svc	_	AlignBegin=135589|AlignEnd=135980|Gloss=concern
 17	five	five	NUM	_	NumType=Card	18	nummod	_	AlignBegin=135980|AlignEnd=136220|Gloss=five.CARD
 18	o'clock	o'clock	ADV	_	_	16	obj	_	AlignBegin=136220|AlignEnd=136955|Gloss=o'clock
 19	today	today	NOUN	_	_	16	obl:mod	_	AlignBegin=136955|AlignEnd=137500|Gloss=today
 20	>+	>+	X	_	_	21	dep	_	AlignBegin=137500|AlignEnd=137530|Gloss=PUNCT
 21	be	be	VERB	_	PartType=Cop	12	advcl:cleft	_	AlignBegin=137530|AlignEnd=137710|Gloss=be
-22	dat	dat	PRON	_	Number=Sing|PronType=Dem	21	nsubj	_	AlignBegin=137710|AlignEnd=138054|Gloss=SG.DEM
+22	dat	dat	PRON	_	Number=Sing	21	nsubj	_	AlignBegin=137710|AlignEnd=138054|Gloss=SG.DEM
 23	//	//	X	_	_	12	dep	_	AlignBegin=138054|AlignEnd=138084|Gloss=PUNCT
 
 ~~~

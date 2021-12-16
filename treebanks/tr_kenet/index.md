@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Aslı Kuzgun, Neslihan Cesur, Olcay Taner Yıldız, Oğuzhan Kuyrukçu, Arife Betül Yenice, Bilge Nas Arıcan, Ezgi Sanıyar.
 
 Repository: [UD_Turkish-Kenet](https://github.com/UniversalDependencies/UD_Turkish-Kenet)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_kenet28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_kenet29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-SA 4.0
 
@@ -78,7 +78,7 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 
 
 <ul>
-<li>This corpus contains 18687 sentences and 178660 tokens.</li>
+<li>This corpus contains 18687 sentences and 178658 tokens.</li>
 </ul>
 
 <ul>
@@ -142,8 +142,8 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: değildi, değildim, değildik, değillerdi</li>
-    <li>VERB: vardı, oldu, geldi, başladı, olur, çıktı, etti, yoktu, dedi, aldı</li>
+    <li>AUX: değildir, değildi, değilse, değiliz, değilim, değilmiş, değildim, değilsin, değilsiniz, değildik</li>
+    <li>VERB: vardı, oldu, vardır, geldi, başladı, olur, çıktı, etti, olsun, yoktu</li>
   </ul>
   </li>
 </ul>
@@ -176,11 +176,11 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 <ul>
   <li>Plur
     <ul>
-      <li>AUX: değiliz</li>
+      <li>AUX-Fin: değiliz</li>
       <li>NOUN: gözleri, gözlerini, şeyler, çocuklar, kadınlar, insanlar, elleri, ellerini, saçları, çocukları</li>
       <li>PROPN: Türkçüler, Anafartalar'da, Avcılar, Babalar, Efendiler, Gençler, Güzeller, Kadınlar, Kimler, Zeyniler</li>
-      <li>VERB: ettiler, başladılar, bakalım, derler, ediyorlar, aldılar, ediyoruz, verdiler, ettik, bakın</li>
-      <li>VERB-Fin: ettiler, başladılar, derler, ediyorlar, aldılar, ediyoruz, verdiler, ettik, dediler, ederler</li>
+      <li>VERB: ettiler, başladılar, bakalım, derler, ediyorlar, aldılar, ediyoruz, verdiler, ederler, ettik</li>
+      <li>VERB-Fin: ettiler, başladılar, bakalım, derler, ediyorlar, aldılar, ediyoruz, verdiler, ederler, ettik</li>
       <li>VERB-Vnoun: sevişmelerimiz</li>
     </ul>
   </li>
@@ -190,12 +190,12 @@ We wish to thank all the contributors and the Starlang Software for funding and 
   <li>Sing
     <ul>
       <li>AUX: değil, değildir, değildi, değilim, değilse, değiliz, değilmiş, değildim, değilsin, değilsiniz</li>
-      <li>AUX-Fin: değildi, değildim, değildik, değillerdi</li>
+      <li>AUX-Fin: değildir, değildi, değilse, değilim, değiliz, değilmiş, değildim, değilsin, değilsiniz, değildik</li>
       <li>NOUN: gün, zaman, adam, şey, arasında, kadın, çocuk, iş, su, olduğunu</li>
       <li>PROPN: Allah, Mustafa, Türkiye, İstanbul'a, İstanbul'un, İstanbul, Ali, Avrupa, Ben, Bey'in</li>
       <li>VERB: vardı, oldu, vardır, geldi, başladı, olur, çıktı, etti, olsun, yoktu</li>
       <li>VERB-Conv: görüştü, kaçıştı, aldatıştır, alışıdır, buruşmuş, bölüştük, değişmiş, direnişler, dönüştü, düşüşteydi</li>
-      <li>VERB-Fin: vardı, oldu, geldi, başladı, olur, çıktı, etti, yoktu, dedi, aldı</li>
+      <li>VERB-Fin: vardı, oldu, vardır, geldi, başladı, olur, çıktı, etti, olsun, yoktu</li>
       <li>VERB-Part: olduğudur, uyandım, uyanmışım, çakıştığıdır, bulandı, dövüşeceklerdi, esirgediğiniz, ettiğindeyse, ettiğiniz, geldiğidir</li>
       <li>VERB-Vnoun: demektir, demekti, olmasıdır, koymaktır, olmasın, akdetmesiydi, aktarılmalıdır, almaktır, alınmalıdır, anlaşılmasıdır</li>
     </ul>
@@ -321,8 +321,7 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 <ul>
   <li>Neg
     <ul>
-      <li>VERB: olmaz, kalmadı, bilmem, olmasa, bilmiyorum, etmez, görmedim, gelmez, bilmez, olmazsa</li>
-      <li>VERB-Fin: olmaz, kalmadı, bilmem, bilmiyorum, etmez, görmedim, gelmez, bilmez, olmazsa, etmedi</li>
+      <li>VERB-Fin: olmaz, kalmadı, bilmem, olmasa, bilmiyorum, etmez, görmedim, gelmez, bilmez, olmazsa</li>
       <li>VERB-Vnoun: istememektedirler, yağmamasındaymış</li>
     </ul>
   </li>
@@ -331,9 +330,8 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 <ul>
   <li>Pos
     <ul>
-      <li>VERB: oldu, geldi, başladı, olur, vardı, çıktı, etti, olsun, dedi, aldı</li>
       <li>VERB-Conv: görüştü, kaçıştı, aldatıştır, alışıdır, buruşmuş, bölüştük, değişmiş, direnişler, dönüştü, düşüşteydi</li>
-      <li>VERB-Fin: oldu, geldi, başladı, olur, vardı, çıktı, etti, dedi, aldı, ediyordu</li>
+      <li>VERB-Fin: oldu, geldi, başladı, olur, vardı, çıktı, etti, olsun, dedi, aldı</li>
       <li>VERB-Part: olduğudur, uyandım, uyanmışım, çakıştığıdır, bulandı, dövüşeceklerdi, esirgediğiniz, ettiğindeyse, ettiğiniz, geldiğidir</li>
       <li>VERB-Vnoun: demektir, demekti, olmasıdır, koymaktır, olmasın, akdetmesiydi, aktarılmalıdır, almaktır, alınmalıdır, anlaşılmasıdır</li>
     </ul>
@@ -359,9 +357,7 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 <ul>
   <li>Perf
     <ul>
-      <li>AUX: değildi, değilmiş, değildim, değildik, değillerdi</li>
-      <li>AUX-Fin: değildi, değildim, değildik, değillerdi</li>
-      <li>VERB: vardı, oldu, geldi, başladı, çıktı, etti, yoktu, dedi, aldı, ediyordu</li>
+      <li>AUX-Fin: değildi, değilmiş, değildim, değildik, değillerdi</li>
       <li>VERB-Conv: görüştü, kaçıştı, buruşmuş, bölüştük, değişmiş, dönüştü, düşüşteydi, geçirişti, girişmiş, giriştiler</li>
       <li>VERB-Fin: vardı, oldu, geldi, başladı, çıktı, etti, yoktu, dedi, aldı, ediyordu</li>
       <li>VERB-Part: uyandım, uyanmışım, bulandı, dövüşeceklerdi, kuracaklarmış, olanlardı, pişireniydi, tıkanmış, uyandı</li>
@@ -373,7 +369,6 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 <ul>
   <li>Prog
     <ul>
-      <li>VERB: geliyor, ediyor, oluyor, bakıyor, gidiyor, duruyor, konuşuyor, görünüyor, bilmiyorum, ediyorlar</li>
       <li>VERB-Fin: geliyor, ediyor, oluyor, bakıyor, gidiyor, duruyor, konuşuyor, görünüyor, bilmiyorum, ediyorlar</li>
     </ul>
   </li>
@@ -382,7 +377,7 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 <ul>
   <li>Rapid
     <ul>
-      <li>VERB: atıver, aydınlanıversin, bulunuverse, buluverse, eşiver, gönderiver, görüver, uzatıver, yapıver</li>
+      <li>VERB-Fin: atıver, aydınlanıversin, bulunuverse, buluverse, eşiver, gönderiver, görüver, uzatıver, yapıver</li>
     </ul>
   </li>
 </ul>
@@ -394,9 +389,8 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 <ul>
   <li>Cnd
     <ul>
-      <li>AUX: değilse</li>
-      <li>VERB: olursa, varsa, olmazsa, oysa, isterse, öyleyse, ederse, gelirse, isterseniz, bakılırsa</li>
-      <li>VERB-Fin: olursa, olmazsa, ederse, isterse, isterseniz, bakılırsa, edilirse, etmezse, düşerse, bakarsan</li>
+      <li>AUX-Fin: değilse</li>
+      <li>VERB-Fin: varsa, oysa, öyleyse, gelirse, ediyorsa, geldiyse, içinse, nedense, neyse, tutarsa</li>
       <li>VERB-Part: ettiğindeyse</li>
       <li>VERB-Vnoun: etmektense, girmektense, giymektense, kesinlemekse, olmaktansa, sağlamaktansa, yapmaktansa, ölmektense</li>
     </ul>
@@ -404,10 +398,70 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 </ul>
 
 <ul>
+  <li>CndGen
+    <ul>
+      <li>VERB-Fin: olursa, olmazsa, ederse, isterse, isterseniz, bakılırsa, edilirse, etmezse, düşerse, bakarsan</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>CndGenPot
+    <ul>
+      <li>VERB-Fin: sevebilirse, beceremezse, boşalamazsam, bulabilirse, bulamazsak, dileyebilirsem, edebilirseniz, edemezsek, rastlayamazsam, satamazsam</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>CndPot
+    <ul>
+      <li>VERB-Fin: olunamıyorsa, öldüremedilerse</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Des
     <ul>
-      <li>VERB: olsa, ise, olmasa, olsaydı, olmasaydı, gelse, görse, görsem, varsa, bulsam</li>
-      <li>VERB-Fin: olsaydı, olmasaydı, görseydi, okusaydım, seçselerdi, çıkmasaydı, çıksaydı, Tartsaydınız, almasaydı, alınsaydı</li>
+      <li>VERB-Fin: olsa, ise, olmasa, olsaydı, olmasaydı, gelse, görse, görsem, varsa, bulsam</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>DesPot
+    <ul>
+      <li>VERB-Fin: edebilsek, Geğirebilsem, bağlayabilsek, kavuşabilseydik, konuşabilse, koparabilse</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Gen
+    <ul>
+      <li>AUX-Fin: değildir, değiliz, değilim, değilsin, değilsiniz</li>
+      <li>VERB-Conv: aldatıştır, alışıdır, oluşumdur, verilişidir</li>
+      <li>VERB-Fin: olur, vardır, eder, yoktur, alır, çıkar, bilir, olmaz, söyler, nedir</li>
+      <li>VERB-Part: olduğudur, çakıştığıdır, esirgediğiniz, ettiğiniz, geldiğidir, gelenlerindendir, getirenlerdendir, gördüğünüz, istediğiniz, olanlardır</li>
+      <li>VERB-Vnoun: demektir, olmasıdır, koymaktır, olmasın, aktarılmalıdır, almaktır, alınmalıdır, anlaşılmasıdır, açmalıdırlar, baktırmasın</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>GenNec
+    <ul>
+      <li>VERB-Fin: kalmalıdır, olmalıdır, alınmalıdır, bulunmalıdır, heveslenmelidir, sayılmalıdır</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>GenPot
+    <ul>
+      <li>VERB-Fin: olabilir, edebilir, edemez, edilemez, olamaz, verebilirim, yapamaz, alamaz, edemem, getirebilirim</li>
+      <li>VERB-Vnoun: koyabilmesidir</li>
     </ul>
   </li>
 </ul>
@@ -415,7 +469,7 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 <ul>
   <li>Imp
     <ul>
-      <li>VERB: olsun, bak, vardır, gel, var, söyle, gelsin, ol, bırak, bakın</li>
+      <li>VERB-Fin: olsun, bak, vardır, gel, var, söyle, gelsin, ol, bırak, bakın</li>
     </ul>
   </li>
 </ul>
@@ -423,11 +477,11 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: değildi, değildim, değildik, değillerdi</li>
-      <li>VERB-Conv: görüştü, kaçıştı, bölüştük, dönüştü, düşüşteydi, geçirişti, giriştiler, karıştı, kaçıştık, kaçıştılar</li>
+      <li>AUX-Fin: değildi, değilmiş, değildim, değildik, değillerdi</li>
+      <li>VERB-Conv: görüştü, kaçıştı, buruşmuş, bölüştük, değişmiş, dönüştü, düşüşteydi, geçirişti, girişmiş, giriştiler</li>
       <li>VERB-Fin: vardı, oldu, geldi, başladı, çıktı, etti, yoktu, dedi, aldı, ediyordu</li>
-      <li>VERB-Part: uyandım, bulandı, dövüşeceklerdi, olanlardı, pişireniydi, uyandı</li>
-      <li>VERB-Vnoun: demekti, akdetmesiydi, bastırılmasıydı, dalmaktı, etmekteydi, hazırlanmaktaydı, istemeleriydi, kavuşmasıydı, olmalıydı, oynamalıydı</li>
+      <li>VERB-Part: uyandım, uyanmışım, bulandı, dövüşeceklerdi, kuracaklarmış, olanlardı, pişireniydi, tıkanmış, uyandı</li>
+      <li>VERB-Vnoun: demekti, akdetmesiydi, bastırılmasıydı, dalmaktı, etmekmiş, etmekteydi, hazırlanmaktaydı, istemeleriydi, kavuşmasıydı, olmalıydı</li>
     </ul>
   </li>
 </ul>
@@ -435,8 +489,7 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 <ul>
   <li>Nec
     <ul>
-      <li>VERB: olmalıydı, olmalı, etmeli, gelmeli, yazmalı, almalı, bilmeli, bitirilmeli, kaldırmalı, kalmalıdır</li>
-      <li>VERB-Fin: olmalıydı, almalıydı, bulmalıydı, düşünmeliydim, giymeliydim, görmeliydiniz, konuşmamalıydım, olmamalıydı, varmalıydılar, yapmalıydı</li>
+      <li>VERB-Fin: olmalıydı, olmalı, etmeli, gelmeli, yazmalı, almalı, bilmeli, bitirilmeli, kaldırmalı, kazanmalıyım</li>
     </ul>
   </li>
 </ul>
@@ -444,8 +497,16 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 <ul>
   <li>Opt
     <ul>
-      <li>VERB: bakalım, yapalım, edelim, söyleyeyim, yana, bile, doya, ede, sarsıla, basa</li>
-      <li>VERB-Fin: duraydın, olaydım, olaydın, yiyeydi</li>
+      <li>VERB-Fin: bakalım, yapalım, edelim, söyleyeyim, yana, bile, doya, ede, sarsıla, basa</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pot
+    <ul>
+      <li>VERB-Fin: bulamadım, edemiyorum, silkinemiyorum, yediremiyorum, anlayamadım, bulamadık, bulamıyordum, veremiyor, alabilecekler, alamıyor</li>
+      <li>VERB-Vnoun: keşfedebilmekteyim</li>
     </ul>
   </li>
 </ul>
@@ -477,10 +538,10 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 <ul>
   <li>Pres
     <ul>
-      <li>AUX: değildir, değilse, değiliz, değilim, değilmiş, değilsin, değilsiniz</li>
+      <li>AUX-Fin: değildir, değilse, değiliz, değilim, değilmiş, değilsin, değilsiniz</li>
       <li>VERB: vardır, olur, olsun, olsa, eder, geliyor, ediyor, yoktur, oluyor, olmuş</li>
       <li>VERB-Conv: aldatıştır, alışıdır, buruşmuş, değişmiş, direnişler, girişmiş, kalkışmış, karışmış, kaçışmış, oluşumdur</li>
-      <li>VERB-Fin: olur, eder, geliyor, ediyor, oluyor, alır, olursa, çıkar, bilir, bakıyor</li>
+      <li>VERB-Fin: vardır, olur, olsun, olsa, eder, geliyor, ediyor, yoktur, oluyor, olmuş</li>
       <li>VERB-Part: olduğudur, uyanmışım, çakıştığıdır, esirgediğiniz, ettiğindeyse, ettiğiniz, geldiğidir, gelenlerindendir, getirenlerdendir, gördüğünüz</li>
       <li>VERB-Vnoun: demektir, olmasıdır, koymaktır, olmasın, aktarılmalıdır, almaktır, alınmalıdır, anlaşılmasıdır, açmalıdırlar, baktırmasın</li>
     </ul>
@@ -494,8 +555,7 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 <ul>
   <li>Cau
     <ul>
-      <li>VERB: vardır, çıkardı, çıkarıyor, geçirdi, anlattı, yaptırdım, çıkarıyordu, değiştiriyor, doldurdu, geçiriyor</li>
-      <li>VERB-Fin: çıkardı, çıkarıyor, geçirdi, anlattı, yaptırdım, çıkarıyordu, değiştiriyor, doldurdu, geçiriyor, çıkarır</li>
+      <li>VERB-Fin: vardır, çıkardı, çıkarıyor, geçirdi, anlattı, yaptırdım, çıkarıyordu, değiştiriyor, doldurdu, geçiriyor</li>
       <li>VERB-Vnoun: baktırmasın, bağdaştırmaktır, büyütmesidir, doyurmaktır, okutmasındandır, oturtmalıdır, yetiştirmektir, yükseltmektir</li>
     </ul>
   </li>
@@ -504,8 +564,7 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 <ul>
   <li>CauPass
     <ul>
-      <li>VERB: düzeltildi, dolduruldu, içirildi, çıkarılamaz, anlatılmaz, bastırılmasıydı, bildirildi, bildirilmeyecekti, bitirilmeli, cezalandırılacaktır</li>
-      <li>VERB-Fin: düzeltildi, dolduruldu, içirildi, çıkarılamaz, anlatılmaz, bildirildi, bildirilmeyecekti, cezalandırılacaktır, cezalandırılamaz, değerlendiriliyordu</li>
+      <li>VERB-Fin: düzeltildi, dolduruldu, içirildi, çıkarılamaz, anlatılmaz, bildirildi, bildirilmeyecekti, bitirilmeli, cezalandırılacaktır, cezalandırılamaz</li>
       <li>VERB-Vnoun: bastırılmasıydı, oynatılmasıdır</li>
     </ul>
   </li>
@@ -514,9 +573,8 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 <ul>
   <li>Pass
     <ul>
-      <li>VERB: açıldı, kesildi, çekildi, edilmiş, bulunur, koyuldu, sayılır, açılıyor, edilir, görülüyor</li>
       <li>VERB-Conv: direnişler, verilişidir</li>
-      <li>VERB-Fin: açıldı, kesildi, çekildi, bulunur, koyuldu, sayılır, açılıyor, edilir, görülüyor, yapılır</li>
+      <li>VERB-Fin: açıldı, kesildi, çekildi, edilmiş, bulunur, koyuldu, sayılır, açılıyor, edilir, görülüyor</li>
       <li>VERB-Vnoun: aktarılmalıdır, alınmalıdır, anlaşılmasıdır, benimsenmesidir, bulunmaktadır, edilmektedir</li>
     </ul>
   </li>
@@ -525,8 +583,7 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 <ul>
   <li>Rcp
     <ul>
-      <li>VERB: bakış, dikiş, dönüşmüştü, dönüşür, karıştırıyorum, satış, tutuştururlardı, uçuşuyordu, ışılaşır, Dönüş</li>
-      <li>VERB-Fin: dönüşmüştü, dönüşür, karıştırıyorum, tutuştururlardı, uçuşuyordu, ışılaşır, Serpiştiriyordu, ağlaşır, bakışıyorlar, buluşacak</li>
+      <li>VERB-Fin: bakış, dikiş, dönüşmüştü, dönüşür, karıştırıyorum, satış, tutuştururlardı, uçuşuyordu, ışılaşır, Dönüş</li>
       <li>VERB-Part: dövüşeceklerdi</li>
       <li>VERB-Vnoun: boğuşmadır</li>
     </ul>
@@ -536,8 +593,7 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 <ul>
   <li>Rfl
     <ul>
-      <li>VERB: denir, denirdi, giyinmiş, Temizlenmeye, aranamaz, aranmış, dendi, denebilecek, denecek, denen</li>
-      <li>VERB-Fin: denir, denirdi, aranamaz, dendi, denebilecek, denecek, denen, deniyor, deniyordu, denmez</li>
+      <li>VERB-Fin: denir, denirdi, giyinmiş, Temizlenmeye, aranamaz, aranmış, dendi, denebilecek, denecek, denen</li>
     </ul>
   </li>
 </ul>
@@ -551,9 +607,26 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 </ul>
 
 <ul>
+  <li>Art
+    <ul>
+      <li>DET: bir, bu, her, o, hiçbir, şu, birkaç, birçok, tüm, bazı</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Dem
     <ul>
       <li>PRON: bu, o, onun, bunlar, bunu, onu, bunun, onlar, ona, onları</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>ADV: hep, kimsedir</li>
+      <li>PRON: biri, hepsi, herkes, birisi, kimse, hepsini, kimseye, birinde, bazıları, herkesin</li>
     </ul>
   </li>
 </ul>
@@ -563,8 +636,15 @@ We wish to thank all the contributors and the Starlang Software for funding and 
     <ul>
       <li>ADV: ne, nasıl, kaçırıp, kaçalı, kaçmaktayken, kaçınca, kaçıp, midir, neysek</li>
       <li>AUX: mı, mi, mu, mü, misin, musun, midir, mıdır, mıydı, miydi</li>
-      <li>NOUN: kaçmak, kaçırmak, kaçma, kaçırmamak, mi, Nasıldan, Nasılsın, kaça, kaçanlar, kaçlara</li>
       <li>PRON: ne, kim, kimi, nereden, hangi, nerede, nesi, neye, kimden, neresi</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>PRON: hiçbiri, hiçbirini, Hiçbirine, hiçbirimiz, hiçbirimizin, hiçbirinde, hiçbirinden, hiçbirinin, hiçbirisi, hiçbirisinden</li>
     </ul>
   </li>
 </ul>
@@ -572,7 +652,7 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: ben, o, onun, bana, sen, beni, onu, benim, bizim, ona</li>
+      <li>PRON: ben, o, onun, bana, sen, beni, onu, benim, bizim, biz</li>
     </ul>
   </li>
 </ul>
@@ -635,11 +715,10 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 <ul>
   <li>1
     <ul>
-      <li>AUX: değiliz, değilim, değildim, değildik</li>
-      <li>AUX-Fin: değildim, değildik</li>
+      <li>AUX-Fin: değiliz, değilim, değildim, değildik</li>
       <li>VERB: ettim, gördüm, oldum, aldım, başladım, ederim, buldum, bilmem, bakalım, bilmiyorum</li>
       <li>VERB-Conv: bölüştük, kaçıştık</li>
-      <li>VERB-Fin: ettim, gördüm, oldum, aldım, başladım, ederim, buldum, bilmem, bilmiyorum, ediyorum</li>
+      <li>VERB-Fin: ettim, gördüm, oldum, aldım, başladım, ederim, buldum, bilmem, bakalım, bilmiyorum</li>
       <li>VERB-Part: uyandım, uyanmışım, esirgediğiniz, ettiğiniz, gördüğünüz, istediğiniz, olduğunuz</li>
       <li>VERB-Vnoun: beklemeliyiz, dokunmayım, gelmeyeyim, keşfedebilmekteyim, olmayayım, sevişmelerimiz</li>
     </ul>
@@ -649,9 +728,9 @@ We wish to thank all the contributors and the Starlang Software for funding and 
 <ul>
   <li>2
     <ul>
-      <li>AUX: değilsin, değilsiniz</li>
-      <li>VERB: bak, vardır, gel, var, söyle, ol, bırak, bakın, ver, gelin</li>
-      <li>VERB-Fin: gördün, ettin, isterseniz, anladın, edeceksiniz, gördünüz, göreceksin, oluyorsun, alırsınız, bilirsin</li>
+      <li>AUX-Fin: değilsin, değilsiniz</li>
+      <li>VERB: bak, vardır, gel, var, söyle, ol, bırak, bakın, ver, git</li>
+      <li>VERB-Fin: bak, vardır, gel, var, söyle, ol, bırak, bakın, ver, git</li>
       <li>VERB-Vnoun: olmasın, baktırmasın, bozmasın, düzeltmelisin, düşmesin, kasavetlenmeyesin</li>
     </ul>
   </li>
@@ -661,11 +740,11 @@ We wish to thank all the contributors and the Starlang Software for funding and 
   <li>3
     <ul>
       <li>AUX: değil, değildir, değildi, değilim, değilse, değilmiş, değillerdi</li>
-      <li>AUX-Fin: değildi, değillerdi</li>
+      <li>AUX-Fin: değildir, değildi, değilse, değilmiş, değillerdi</li>
       <li>NOUN: gün, zaman, adam, şey, arasında, kadın, çocuk, iş, su, olduğunu</li>
       <li>VERB: vardı, oldu, geldi, başladı, olur, vardır, çıktı, etti, olsun, yoktu</li>
       <li>VERB-Conv: görüştü, kaçıştı, aldatıştır, alışıdır, buruşmuş, değişmiş, direnişler, dönüştü, düşüşteydi, geçirişti</li>
-      <li>VERB-Fin: vardı, oldu, geldi, başladı, olur, çıktı, etti, yoktu, dedi, aldı</li>
+      <li>VERB-Fin: vardı, oldu, geldi, başladı, olur, vardır, çıktı, etti, olsun, yoktu</li>
       <li>VERB-Part: olduğudur, çakıştığıdır, bulandı, dövüşeceklerdi, ettiğindeyse, geldiğidir, gelenlerindendir, getirenlerdendir, kuracaklarmış, olanlardı</li>
       <li>VERB-Vnoun: demektir, demekti, olmasıdır, koymaktır, akdetmesiydi, aktarılmalıdır, almaktır, alınmalıdır, anlaşılmasıdır, açmalıdırlar</li>
     </ul>
@@ -682,8 +761,7 @@ We wish to thank all the contributors and the Starlang Software for funding and 
   <li>Plur
     <ul>
       <li>NOUN: aramızda, gözlerini, aralarında, olduklarını, çocukları, eniştemiz, başımıza, ellerinde, evlerine, başkalarının</li>
-      <li>VERB: cepheleridir, gösterileridir, müzelerimizdedir, adamlarıydı, arkadaşlarıdır, birimleridir, davamızdır, dizdarlarıydı, gayretleridir, gelenlerindendir</li>
-      <li>VERB-Fin: adamlarıydı, dizdarlarıydı, kapımızdı, komşumuzdun, sefalarıydı, tuluatçılarımızdı</li>
+      <li>VERB-Fin: cepheleridir, gösterileridir, müzelerimizdedir, adamlarıydı, arkadaşlarıdır, birimleridir, davamızdır, dizdarlarıydı, gayretleridir, hareketimizmiş</li>
       <li>VERB-Part: gelenlerindendir</li>
       <li>VERB-Vnoun: istemeleriydi</li>
     </ul>
@@ -698,7 +776,7 @@ We wish to thank all the contributors and the Starlang Software for funding and 
       <li>PROPN: Tanrı'm, Allah'ım, Ali'mi, Allah'ımı, Allah'ın, Anadolu'nun, Balıkpazarı'nda, Camii'nde, Dadaloğlu'm, Edirne'si</li>
       <li>VERB: biridir, biriydi, içindeydi, içindeyiz, işidir, karasıydılar, olmasıdır, biriyim, edindi, erbabıdır</li>
       <li>VERB-Conv: alışıdır, oluşumdur, verilişidir, yetişkindiler</li>
-      <li>VERB-Fin: biriydi, içindeydi, karasıydılar, edindi, memleketiydi, başındaydı, edindim, efendiler, emriydi, ezberimdeydi</li>
+      <li>VERB-Fin: biridir, biriydi, içindeydi, içindeyiz, işidir, karasıydılar, biriyim, edindi, erbabıdır, eseridir</li>
       <li>VERB-Part: olduğudur, çakıştığıdır, ettiğindeyse, geldiğidir, pişireniydi</li>
       <li>VERB-Vnoun: olmasıdır, akdetmesiydi, anlaşılmasıdır, bastırılmasıydı, benimsenmesidir, bulunmasıdır, büyütmesidir, kavuşmasıydı, konmasıdır, koyabilmesidir</li>
     </ul>
@@ -715,18 +793,18 @@ We wish to thank all the contributors and the Starlang Software for funding and 
         <ul>
           <li>AUX: değilim</li>
           <li>NOUN: benim, babam, bizim, annem, canım, annemin, aramızda, başım, babamın, başımı</li>
-          <li>VERB: ezberimdeydi, ihtiyaçlarımızdır, müzelerimizdedir, Dedemler, Pişdarlarımız, amcamlar, annemdi, ağrımsın, bizimdi, büyüğümsün</li>
+          <li>VERB: ezberimdeydi, ihtiyaçlarımızdır, müzelerimizdedir, Dedemler, amcamlar, annemdi, ağrımsın, bizimdi, büyüğümsün, davamızdır</li>
           <li>VERB-Conv: oluşumdur</li>
-          <li>VERB-Fin: ezberimdeydi, annemdi, bizimdi, kapımızdı, karşımdaydı, komşumuzdun, sıramdı, tuluatçılarımızdı, üstümdeydi</li>
+          <li>VERB-Fin: ezberimdeydi, ihtiyaçlarımızdır, müzelerimizdedir, annemdi, ağrımsın, bizimdi, büyüğümsün, davamızdır, düzümdür, düşmanımdır</li>
           <li>VERB-Vnoun: sevişmelerimiz</li>
         </ul>
       </li>
       <li>2
         <ul>
           <li>NOUN: üzerine, üzerinde, yüzünü, gözlerini, kadın, yüzüne, baştan, suyun, yüzünde, birinde</li>
-          <li>VERB: edindi, alınmış, edindim, efendiler, kadınlar, Boyanmış, Burunlar, Kadınınsa, biçimindedir, coğrafyacılarındandır</li>
+          <li>VERB: edindi, alınmış, edindim, efendiler, Boyanmış, Kadınınsa, biçimindedir, coğrafyacılarındandır, dokundu, düşündü</li>
           <li>VERB-Conv: yetişkindiler</li>
-          <li>VERB-Fin: edindi, edindim, efendiler, dokundu, düşündü, edindik, kılındı, niyetindeydim, simalarındandı, takındım</li>
+          <li>VERB-Fin: edindi, alınmış, edindim, efendiler, Boyanmış, Kadınınsa, biçimindedir, coğrafyacılarındandır, dokundu, düşündü</li>
           <li>VERB-Part: ettiğindeyse</li>
           <li>VERB-Vnoun: öğretmenler</li>
         </ul>
@@ -736,7 +814,7 @@ We wish to thank all the contributors and the Starlang Software for funding and 
           <li>NOUN: arasında, olduğunu, içinde, üstünde, üstüne, önünde, altında, başına, gözleri, başını</li>
           <li>VERB: biridir, biriydi, içindeydi, içindeyiz, işidir, karasıydılar, olmasıdır, biriyim, erbabıdır, eseridir</li>
           <li>VERB-Conv: alışıdır, verilişidir</li>
-          <li>VERB-Fin: biriydi, içindeydi, karasıydılar, memleketiydi, başındaydı, emriydi, farkındaydı, saatiydi, üstündeydi, acısıydı</li>
+          <li>VERB-Fin: biridir, biriydi, içindeydi, içindeyiz, işidir, karasıydılar, biriyim, erbabıdır, eseridir, ilkidir</li>
           <li>VERB-Part: olduğudur, çakıştığıdır, geldiğidir, gelenlerindendir, pişireniydi</li>
           <li>VERB-Vnoun: olmasıdır, akdetmesiydi, anlaşılmasıdır, bastırılmasıydı, benimsenmesidir, bulunmasıdır, büyütmesidir, istemeleriydi, kavuşmasıydı, konmasıdır</li>
         </ul>
@@ -763,49 +841,40 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Acc (43)</li>
-      <li>VERB--NOUN-Acc-ADP(de) (2)</li>
-      <li>VERB--NOUN-Dat (1)</li>
-      <li>VERB--NOUN-Dat-ADP(kadar) (1)</li>
-      <li>VERB--NOUN-Gen (17)</li>
-      <li>VERB--NOUN-Ins (2)</li>
-      <li>VERB--NOUN-Nom (1397)</li>
-      <li>VERB--NOUN-Nom-ADP(bile) (1)</li>
-      <li>VERB--NOUN-Nom-ADP(da) (3)</li>
-      <li>VERB--NOUN-Nom-ADP(de) (3)</li>
-      <li>VERB--NOUN-Nom-ADP(ki) (1)</li>
-      <li>VERB--NOUN-Nom-ADP(kredi) (1)</li>
-      <li>VERB--PRON (279)</li>
-      <li>VERB--PRON-ADP(da) (1)</li>
-      <li>VERB--PRON-ADP(de) (8)</li>
-      <li>VERB--PRON-ADP(i) (1)</li>
+      <li>VERB--PRON-ADP(de) (1)</li>
       <li>VERB-Conv--NOUN-Ins (1)</li>
-      <li>VERB-Conv--NOUN-Nom (15)</li>
+      <li>VERB-Conv--NOUN-Nom (16)</li>
       <li>VERB-Fin--NOUN (2)</li>
       <li>VERB-Fin--NOUN-Abl (1)</li>
       <li>VERB-Fin--NOUN-Abl-ADP(fazla) (1)</li>
-      <li>VERB-Fin--NOUN-Acc (132)</li>
+      <li>VERB-Fin--NOUN-Acc (177)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(bile) (1)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(de) (2)</li>
       <li>VERB-Fin--NOUN-Dat (9)</li>
-      <li>VERB-Fin--NOUN-Gen (33)</li>
-      <li>VERB-Fin--NOUN-Ins (15)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(kadar) (1)</li>
+      <li>VERB-Fin--NOUN-Gen (50)</li>
+      <li>VERB-Fin--NOUN-Ins (17)</li>
       <li>VERB-Fin--NOUN-Loc (2)</li>
-      <li>VERB-Fin--NOUN-Nom (4846)</li>
+      <li>VERB-Fin--NOUN-Nom (6284)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(barmen) (1)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(bile) (6)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(da) (11)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(bile) (7)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(da) (13)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(dahi) (1)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(de) (15)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(de) (18)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(falan) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(i) (2)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(için) (1)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(ki) (1)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(kredi) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(üzere) (1)</li>
-      <li>VERB-Fin--PRON (729)</li>
+      <li>VERB-Fin--PRON (1013)</li>
       <li>VERB-Fin--PRON-ADP(bari) (1)</li>
-      <li>VERB-Fin--PRON-ADP(da) (5)</li>
-      <li>VERB-Fin--PRON-ADP(de) (17)</li>
+      <li>VERB-Fin--PRON-ADP(da) (6)</li>
+      <li>VERB-Fin--PRON-ADP(de) (24)</li>
       <li>VERB-Fin--PRON-ADP(gibi) (1)</li>
+      <li>VERB-Fin--PRON-ADP(i) (1)</li>
       <li>VERB-Fin--PRON-ADP(kadar) (2)</li>
+      <li>VERB-Fin--PRON-ADP(ki) (1)</li>
       <li>VERB-Part--NOUN-Dat (1)</li>
       <li>VERB-Part--NOUN-Gen (3)</li>
       <li>VERB-Part--NOUN-Nom (7)</li>
@@ -813,7 +882,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON-ADP(da) (1)</li>
       <li>VERB-Vnoun--NOUN-Acc (3)</li>
       <li>VERB-Vnoun--NOUN-Gen (2)</li>
-      <li>VERB-Vnoun--NOUN-Nom (44)</li>
+      <li>VERB-Vnoun--NOUN-Nom (45)</li>
       <li>VERB-Vnoun--NOUN-Nom-ADP(da) (1)</li>
       <li>VERB-Vnoun--PRON (4)</li>
     </ul>
@@ -823,62 +892,44 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (1)</li>
-      <li>VERB--NOUN-Abl (21)</li>
-      <li>VERB--NOUN-Abl-ADP(sonra) (1)</li>
-      <li>VERB--NOUN-Acc (442)</li>
-      <li>VERB--NOUN-Acc-ADP(da) (2)</li>
-      <li>VERB--NOUN-Dat (68)</li>
-      <li>VERB--NOUN-Dat-ADP(kadar) (1)</li>
-      <li>VERB--NOUN-Gen (11)</li>
-      <li>VERB--NOUN-Ins (5)</li>
-      <li>VERB--NOUN-Loc (13)</li>
-      <li>VERB--NOUN-Nom (617)</li>
-      <li>VERB--NOUN-Nom-ADP(de) (3)</li>
-      <li>VERB--NOUN-Nom-ADP(diye) (2)</li>
-      <li>VERB--NOUN-Nom-ADP(için) (1)</li>
-      <li>VERB--NOUN-Nom-ADP(kadar) (2)</li>
-      <li>VERB--PRON (119)</li>
-      <li>VERB--PRON-ADP(bile) (1)</li>
       <li>VERB-Conv--NOUN-Nom (1)</li>
       <li>VERB-Fin--NOUN (1)</li>
-      <li>VERB-Fin--NOUN-Abl (111)</li>
-      <li>VERB-Fin--NOUN-Abl-ADP(sonra) (1)</li>
-      <li>VERB-Fin--NOUN-Acc (2114)</li>
+      <li>VERB-Fin--NOUN-Abl (106)</li>
+      <li>VERB-Fin--NOUN-Abl-ADP(sonra) (2)</li>
+      <li>VERB-Fin--NOUN-Acc (2497)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(bil) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(bile) (3)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(da) (3)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(de) (6)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(da) (5)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(de) (7)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(ile) (1)</li>
-      <li>VERB-Fin--NOUN-Dat (273)</li>
+      <li>VERB-Fin--NOUN-Dat (312)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(bile) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(doğru) (1)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(kadar) (2)</li>
-      <li>VERB-Fin--NOUN-Gen (13)</li>
-      <li>VERB-Fin--NOUN-Ins (53)</li>
-      <li>VERB-Fin--NOUN-Loc (53)</li>
-      <li>VERB-Fin--NOUN-Nom (2559)</li>
+      <li>VERB-Fin--NOUN-Gen (21)</li>
+      <li>VERB-Fin--NOUN-Ins (39)</li>
+      <li>VERB-Fin--NOUN-Loc (36)</li>
+      <li>VERB-Fin--NOUN-Nom (3080)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(bile) (3)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(boyunca) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(da) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(dahi) (1)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(de) (1)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(diye) (3)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(gibi) (6)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(ile) (6)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(için) (5)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(kadar) (1)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(vesaire) (1)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(de) (4)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(diye) (5)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(gibi) (5)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(ile) (5)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(için) (4)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(kadar) (2)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(yapsat) (1)</li>
-      <li>VERB-Fin--PRON (507)</li>
+      <li>VERB-Fin--PRON (613)</li>
+      <li>VERB-Fin--PRON-ADP(bile) (1)</li>
       <li>VERB-Fin--PRON-ADP(da) (1)</li>
       <li>VERB-Fin--PRON-ADP(de) (2)</li>
       <li>VERB-Part--NOUN-Ins (1)</li>
       <li>VERB-Part--NOUN-Nom (3)</li>
       <li>VERB-Vnoun--NOUN-Acc (18)</li>
-      <li>VERB-Vnoun--NOUN-Dat (4)</li>
+      <li>VERB-Vnoun--NOUN-Dat (3)</li>
       <li>VERB-Vnoun--NOUN-Gen (1)</li>
-      <li>VERB-Vnoun--NOUN-Nom (22)</li>
+      <li>VERB-Vnoun--NOUN-Nom (20)</li>
       <li>VERB-Vnoun--PRON (2)</li>
     </ul>
   </li>
@@ -887,18 +938,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN-Dat (55)</li>
-      <li>VERB--NOUN-Nom (3)</li>
-      <li>VERB--NOUN-Nom-ADP(diye) (1)</li>
-      <li>VERB--PRON (6)</li>
-      <li>VERB-Fin--NOUN-Dat (202)</li>
+      <li>VERB-Fin--NOUN-Acc (2)</li>
+      <li>VERB-Fin--NOUN-Dat (275)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(bile) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(d) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(da) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(karşı) (1)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>
-      <li>VERB-Fin--NOUN-Nom (12)</li>
-      <li>VERB-Fin--PRON (43)</li>
+      <li>VERB-Fin--NOUN-Nom (15)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(diye) (1)</li>
+      <li>VERB-Fin--PRON (59)</li>
       <li>VERB-Part--PRON (1)</li>
       <li>VERB-Vnoun--NOUN-Dat (2)</li>
     </ul>
@@ -910,7 +959,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 130 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: at kendini, et kendini, bul kendini, gör kendisini, sat kendini, topla kendini, gör kendini, göster kendini, san kendini, ver kendimi, at kendimi, ayır kendini, bul kendimi, büyüle kendisini, bırak kendini, bırak kendisini, et kendilerini, hisset kendini, iste kendini, koyuver kendimi, kurtar kendisini, tut kendimi, tut kendini, ver kendilerini, ver kendisini, öl kendini, al kendisini, alış kendimi, anla kendisine, anla kendisini, anlayabil kendisini, at kendinizi, at kendisini, ata kendilerini, ata kendinizi, avut kendimi, avut kendisini, açıkla kendilerini, aşağıla kendisini, bak kendime, benzet kendimi, besle kendisini, bitir kendimi, boğ kendini, bul kendinizi, bul kendisini, bırak kendilerini, bırak kendimi, ceza kendisini, dağıt kendimi</li>
+  <li>This corpus contains 129 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: at kendini, et kendini, bul kendini, gör kendisini, sat kendini, topla kendini, gör kendini, göster kendini, san kendini, ver kendimi, at kendimi, ayır kendini, bul kendimi, büyüle kendisini, bırak kendini, bırak kendisini, et kendilerini, gör kendimizi, hisset kendini, koyuver kendimi, kurtar kendisini, tut kendimi, tut kendini, ver kendilerini, ver kendisini, öl kendini, adama kendini, al kendisini, alış kendimi, anla kendisine, anla kendisini, anlayabil kendisini, at kendinizi, at kendisini, ata kendilerini, ata kendinizi, avut kendimi, avut kendisini, açıkla kendilerini, aşağıla kendisini, bak kendime, benzet kendimi, besle kendisini, bitir kendimi, boğ kendini, bul kendinizi, bul kendisini, bırak kendilerini, bırak kendimi, ceza kendisini</li>
 </ul>
 
 <h3>Relations Overview</h3>

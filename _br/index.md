@@ -54,7 +54,7 @@ Verbal "particles":
 
 Inherent:
 
-* [Gender]() (in NOUNs)
+* [Gender]() (in [NOUN]()s)
 * [NumType]()
 * [Polarity]()
 * [Case]()
@@ -80,12 +80,12 @@ Inflectional:
 
 The following relation subtypes are used in the Breton data:
 
-* [acl:relcl]()
+* [acl:relcl]() Relative adnominal clause
 * [aux:pass]() Auxiliary verb used in the construction of the passive
-* [flat:name]()
+* [flat:name]() Parts of a multi-word personal name attached to the first part
 * [nmod:gen]() Nominal modification with genitive meaning using Celtic-style conjunctive genitive
-* [nmod:poss]()
-* [nsubj:cop]()
+* [nmod:poss]() Nominal modification with possessive meaning
+* [nsubj:cop]() Nominal subject of a non-verbal or copular clause
 * [obl:agent]() An oblique introduced with *gant* "with" that expresses the agent in a passive construction
 
 

@@ -19,4 +19,4 @@ This feature is used for verbs and auxiliaries, with the values Past and Pres.
 
 * [hu] _A szépet <b>kell</b> megmutatni._ “The beautiful <b>must</b> be shown.”
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:41 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:30 CET 2021 -->

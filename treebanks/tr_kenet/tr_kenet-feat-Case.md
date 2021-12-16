@@ -9,26 +9,26 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Abl`, `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`.
 
-69327 tokens (39%) have a non-empty value of `Case`.
-30519 types (68%) occur at least once with a non-empty value of `Case`.
-10877 lemmas (71%) occur at least once with a non-empty value of `Case`.
-The feature is used with 3 part-of-speech tags: <tt><a href="tr_kenet-pos-NOUN.html">NOUN</a></tt> (66650; 37% instances), <tt><a href="tr_kenet-pos-PROPN.html">PROPN</a></tt> (2513; 1% instances), <tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt> (164; 0% instances).
+69237 tokens (39%) have a non-empty value of `Case`.
+30515 types (68%) occur at least once with a non-empty value of `Case`.
+10856 lemmas (71%) occur at least once with a non-empty value of `Case`.
+The feature is used with 3 part-of-speech tags: <tt><a href="tr_kenet-pos-NOUN.html">NOUN</a></tt> (66568; 37% instances), <tt><a href="tr_kenet-pos-PROPN.html">PROPN</a></tt> (2505; 1% instances), <tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt> (164; 0% instances).
 
 ### `NOUN`
 
-66650 <tt><a href="tr_kenet-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+66568 <tt><a href="tr_kenet-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="tr_kenet-feat-Person.html">Person</a></tt><tt>=3</tt> (66650; 100%), <tt><a href="tr_kenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (57057; 86%), <tt><a href="tr_kenet-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (43426; 65%), <tt><a href="tr_kenet-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (43426; 65%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="tr_kenet-feat-Person.html">Person</a></tt><tt>=3</tt> (66568; 100%), <tt><a href="tr_kenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (56918; 86%), <tt><a href="tr_kenet-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (43335; 65%), <tt><a href="tr_kenet-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (43335; 65%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Abl` (3602; 5% of non-empty `Case`): <em>yandan, içinden, yerden, günden, altından, elinden, yerinden, arasından, arkasından, olmaktan</em>
-* `Acc` (6265; 9% of non-empty `Case`): <em>olduğunu, başını, gözlerini, beni, yüzünü, elini, ellerini, biri, kapıyı, suyu</em>
-* `Dat` (7973; 12% of non-empty `Case`): <em>üstüne, yere, başına, içine, önüne, yana, yerine, eve, altına, ortaya</em>
-* `Gen` (5086; 8% of non-empty `Case`): <em>evin, insanın, adamın, kadının, dünyanın, günün, işin, kapının, masanın, çocuğun</em>
+* `Abl` (3595; 5% of non-empty `Case`): <em>yandan, içinden, yerden, günden, altından, elinden, yerinden, arasından, arkasından, olmaktan</em>
+* `Acc` (6269; 9% of non-empty `Case`): <em>olduğunu, başını, gözlerini, beni, yüzünü, elini, ellerini, biri, kapıyı, suyu</em>
+* `Dat` (7954; 12% of non-empty `Case`): <em>üstüne, yere, başına, içine, önüne, yana, yerine, eve, altına, ortaya</em>
+* `Gen` (5089; 8% of non-empty `Case`): <em>evin, insanın, adamın, kadının, dünyanın, günün, işin, kapının, masanın, çocuğun</em>
 * `Ins` (1904; 3% of non-empty `Case`): <em>adımlarla, sesle, eliyle, olmakla, gözleriyle, sesiyle, gözlerle, zamanla, elleriyle, kadınla</em>
-* `Loc` (4890; 7% of non-empty `Case`): <em>arasında, üstünde, içinde, önünde, altında, hâlde, yerde, elinde, başında, arada</em>
-* `Nom` (36930; 55% of non-empty `Case`): <em>gün, zaman, adam, şey, kadın, çocuk, iş, su, gece, Türk</em>
+* `Loc` (4835; 7% of non-empty `Case`): <em>arasında, üstünde, içinde, önünde, altında, hâlde, yerde, elinde, başında, arada</em>
+* `Nom` (36922; 55% of non-empty `Case`): <em>gün, zaman, adam, şey, kadın, çocuk, iş, su, gece, Türk</em>
 * `EMPTY` (115): <em>yıllarca, aylarca, görünce, günlerce, saatlerce, Eleştirmenlerce, alınca, asırlarca, binlerce, duyunca</em>
 
 <table>
@@ -43,14 +43,14 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
   <tr><td><tt><tt><a href="tr_kenet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_kenet-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_kenet-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td></td><td><em>olduklarını</em></td><td></td><td></td><td></td><td></td><td><em>oluşlarından</em></td></tr>
   <tr><td><tt><tt><a href="tr_kenet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_kenet-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_kenet-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>olanları, oldukları, olmadıkları, olmaları</em></td><td><em>olduklarını</em></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_kenet-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_kenet-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="tr_kenet-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>oldukları, olmazları</em></td><td><em>olduklarını, olmadıklarını</em></td><td><em>olmalarına</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_kenet-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>olanlar, olmayanlar, olurlar</em></td><td></td><td><em>olanlara</em></td><td><em>olanların</em></td><td></td><td></td><td><em>olanlardan</em></td></tr>
+  <tr><td><tt><tt><a href="tr_kenet-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>olanlar, olmayanlar</em></td><td></td><td><em>olanlara</em></td><td><em>olanların</em></td><td></td><td></td><td><em>olanlardan</em></td></tr>
 </table>
 
 ### `PROPN`
 
-2513 <tt><a href="tr_kenet-pos-PROPN.html">PROPN</a></tt> tokens (98% of all `PROPN` tokens) have a non-empty value of `Case`.
+2505 <tt><a href="tr_kenet-pos-PROPN.html">PROPN</a></tt> tokens (98% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="tr_kenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2501; 100%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="tr_kenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2493; 100%).
 
 `PROPN` tokens may have the following values of `Case`:
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 * `Gen` (371; 15% of non-empty `Case`): <em>İstanbul'un, Bey'in, Hanım'ın, Atatürk'ün, Tanrı'nın, Paşa'nın, Türkiye'nin, Kemal'in, Türk'ün, Ankara'nın</em>
 * `Ins` (25; 1% of non-empty `Case`): <em>Bey'le, Fahri'yle, Hasan'la, Keloğlan'la, Ahmet'le, Allah'la, Diyojen'le, Edirne'yle, Efendi'yle, Halil'le</em>
 * `Loc` (104; 4% of non-empty `Case`): <em>İstanbul'da, Ankara'da, Türkiye'de, Fransa'da, Viyana'da, Avrupa'da, Ay'da, Bursa'da, Frankfurt'ta, Makedonya'da</em>
-* `Nom` (1644; 65% of non-empty `Case`): <em>Allah, Mustafa, Türkiye, İstanbul, Ali, Avrupa, Ben, Ömer, Ayşe, Hanım</em>
+* `Nom` (1636; 65% of non-empty `Case`): <em>Allah, Mustafa, Türkiye, İstanbul, Ali, Avrupa, Ben, Ömer, Ayşe, Hanım</em>
 * `EMPTY` (43): <em>Allah'ım, Atatürk'tür, Avrupa'daki, Trakya'daki, İstanbul'daki, Aksaray'daki, Almanya'daki, Anadolu'daki, Ankara'daki, Asya'daki</em>
 
 <table>
@@ -72,7 +72,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 164 <tt><a href="tr_kenet-pos-AUX.html">AUX</a></tt> tokens (18% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="tr_kenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (164; 100%), <tt><a href="tr_kenet-feat-Person.html">Person</a></tt><tt>=3</tt> (164; 100%), <tt><a href="tr_kenet-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (164; 100%), <tt><a href="tr_kenet-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (164; 100%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="tr_kenet-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (164; 100%), <tt><a href="tr_kenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (164; 100%), <tt><a href="tr_kenet-feat-Person.html">Person</a></tt><tt>=3</tt> (164; 100%), <tt><a href="tr_kenet-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (164; 100%), <tt><a href="tr_kenet-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (164; 100%), <tt><a href="tr_kenet-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (164; 100%).
 
 `AUX` tokens may have the following values of `Case`:
 
@@ -82,14 +82,14 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="tr_kenet-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2247; 85%),
-<tt>NOUN --[<tt><a href="tr_kenet-dep-compound.html">compound</a></tt>]--> NOUN</tt> (1198; 55%),
-<tt>NOUN --[<tt><a href="tr_kenet-dep-amod.html">amod</a></tt>]--> NOUN</tt> (505; 54%),
-<tt>NOUN --[<tt><a href="tr_kenet-dep-list.html">list</a></tt>]--> NOUN</tt> (198; 82%),
-<tt>NOUN --[<tt><a href="tr_kenet-dep-acl.html">acl</a></tt>]--> NOUN</tt> (184; 52%),
+<tt>NOUN --[<tt><a href="tr_kenet-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2397; 85%),
+<tt>NOUN --[<tt><a href="tr_kenet-dep-compound.html">compound</a></tt>]--> NOUN</tt> (1199; 55%),
+<tt>NOUN --[<tt><a href="tr_kenet-dep-amod.html">amod</a></tt>]--> NOUN</tt> (509; 55%),
+<tt>NOUN --[<tt><a href="tr_kenet-dep-acl.html">acl</a></tt>]--> NOUN</tt> (179; 52%),
+<tt>NOUN --[<tt><a href="tr_kenet-dep-list.html">list</a></tt>]--> NOUN</tt> (168; 96%),
 <tt>PROPN --[<tt><a href="tr_kenet-dep-flat.html">flat</a></tt>]--> NOUN</tt> (125; 84%),
-<tt>PROPN --[<tt><a href="tr_kenet-dep-flat.html">flat</a></tt>]--> PROPN</tt> (113; 56%),
-<tt>NOUN --[<tt><a href="tr_kenet-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (75; 83%),
-<tt>NOUN --[<tt><a href="tr_kenet-dep-flat.html">flat</a></tt>]--> NOUN</tt> (55; 68%),
+<tt>PROPN --[<tt><a href="tr_kenet-dep-flat.html">flat</a></tt>]--> PROPN</tt> (114; 56%),
+<tt>NOUN --[<tt><a href="tr_kenet-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (77; 84%),
+<tt>NOUN --[<tt><a href="tr_kenet-dep-flat.html">flat</a></tt>]--> NOUN</tt> (55; 67%),
 <tt>NOUN --[<tt><a href="tr_kenet-dep-csubj.html">csubj</a></tt>]--> NOUN</tt> (39; 71%).
 

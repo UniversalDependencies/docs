@@ -24,14 +24,14 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 8 7 aux:pass	color:blue
 1	Anteriormente	anteriormente	ADV	RB	_	8	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	,	_	1	punct	_	_
-3	os	o	DET	DT	Gender=Masc|Number=Plur	4	det	_	_
+3	os	o	DET	DT	Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
 4	jatos	jato	NOUN	NN	Gender=Masc|Number=Plur	8	nsubj:pass	_	_
 5	só	só	ADV	RB	_	8	advmod	_	_
 6	tinham	ter	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past	8	aux	_	_
 7	sido	ser	AUX	VBN	_	8	aux:pass	_	_
 8	vistos	_	VERB	VBN	Gender=Masc|Number=Plur	0	root	_	_
 9	por	por	ADP	INDT	_	11	case	_	_
-10	os	o	DET	_	Gender=Masc|Number=Plur	11	det	_	_
+10	os	o	DET	_	Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
 11	blogueiros	_	NOUN	NN	Gender=Masc|Number=Plur	8	obl	_	SpaceAfter=No
 12	.	.	PUNCT	.	_	8	punct	_	_
 
@@ -44,10 +44,10 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 6 aux:pass	color:blue
-1	O	o	DET	DT	Gender=Masc|Number=Sing	2	det	_	_
+1	O	o	DET	DT	Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	estudo	estudo	NOUN	NN	Gender=Masc|Number=Sing	8	nsubj:pass	_	_
 3	de	de	ADP	INDT	_	5	case	_	_
-4	os	o	DET	_	Gender=Masc|Number=Plur	5	det	_	_
+4	os	o	DET	_	Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	vulcões	vulcão	NOUN	NN	Gender=Masc|Number=Plur	2	nmod	_	_
 6	é	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres	8	aux:pass	_	_
 7	chamado	_	AUX	VBN	Gender=Masc|Number=Sing	8	cop	_	_

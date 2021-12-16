@@ -8,32 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-28 nodes (0%) are attached to their parents as `dep`.
+43 nodes (0%) are attached to their parents as `dep`.
 
-28 instances of `dep` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.25.
+42 instances of `dep` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.6046511627907.
 
-The following 12 pairs of parts of speech are connected with `dep`: <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_penn-pos-DET.html">DET</a></tt> (7; 25% instances), <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_penn-pos-ADJ.html">ADJ</a></tt> (5; 18% instances), <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (4; 14% instances), <tt><a href="tr_penn-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_penn-pos-DET.html">DET</a></tt> (2; 7% instances), <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_penn-pos-NUM.html">NUM</a></tt> (2; 7% instances), <tt><a href="tr_penn-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_penn-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="tr_penn-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_penn-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_penn-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_penn-pos-INTJ.html">INTJ</a></tt> (1; 4% instances), <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_penn-pos-NUM.html">NUM</a></tt> (1; 4% instances).
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 dep	color:blue
-1	Yakında	yakında	ADV	_	_	9	advmod	_	_
-2	gösterinin	gösteri	NOUN	_	Case=Gen|Number=Sing|Person=3	4	nmod	_	_
-3	tüm	tüm	DET	_	_	4	dep	_	_
-4	amacı	amaç	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	nsubj	_	_
-5	güruh	güruh	NOUN	_	Case=Nom|Number=Sing|Person=3	6	nmod	_	_
-6	cinneti	cinnet	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	7	nmod	_	_
-7	içinde	içinde	ADV	_	_	9	obl	_	_
-8	yitip	yit	ADV	_	_	9	compound	_	_
-9	gidecek	git	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	0	root	_	_
-10	.	.	PUNCT	_	_	9	punct	_	_
-
-~~~
+The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_penn-pos-DET.html">DET</a></tt> (18; 42% instances), <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_penn-pos-ADJ.html">ADJ</a></tt> (14; 33% instances), <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (5; 12% instances), <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_penn-pos-INTJ.html">INTJ</a></tt> (2; 5% instances), <tt><a href="tr_penn-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_penn-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="tr_penn-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_penn-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="tr_penn-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_penn-pos-DET.html">DET</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -42,14 +22,37 @@ The following 12 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 dep	color:blue
-1	GASB	GASB	PROPN	_	Case=Nom|Number=Sing	2	nmod	_	_
-2	kuralları	kural	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Plur|Person=3|Person[psor]=3	7	nsubj	_	_
-3	halen	halen	ADV	_	_	7	advmod	_	_
-4	diğer	diğer	ADJ	_	_	5	dep	_	_
-5	hükümet	hükümet	NOUN	_	Case=Nom|Number=Sing|Person=3	6	nmod	_	_
-6	birimlerine	birim	NOUN	_	Case=Dat|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	7	obl	_	_
-7	uygulanıyor	uygula	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-8	.	.	PUNCT	_	_	7	punct	_	_
+1	Herkesin	herkes	PRON	_	PronType=Ind	2	nmod	_	_
+2	yapması	yapma	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	3	nmod	_	_
+3	gereken	gerek	ADJ	_	_	4	acl	_	_
+4	bir	bir	DET	_	Definite=Ind|PronType=Art	5	dep	_	_
+5	dükkan	dükkan	NOUN	_	Case=Nom|Number=Sing|Person=3	6	obj	_	_
+6	açıp	aç	ADV	_	_	8	advcl	_	_
+7	planlamaya	planlama	NOUN	_	Case=Dat|Number=Sing|Person=3	8	obl	_	_
+8	başlamak	başla	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 dep	color:blue
+1	Bazı	bazı	ADJ	_	_	2	dep	_	_
+2	anneler	anne	NOUN	_	Case=Nom|Number=Plur|Person=3	11	obl	_	_
+3	için	için	ADP	_	_	2	case	_	_
+4	,	,	PUNCT	_	_	11	punct	_	_
+5	beklenen	bekle	ADJ	_	_	7	acl	_	_
+6	FDA	FDA	PROPN	_	Case=Nom|Number=Sing	7	nmod	_	_
+7	eylemleri	eylem	NOUN	_	Case=Nom|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	11	nsubj	_	_
+8	olabileceklerin	ol	NOUN	_	Case=Gen|Number=Plur|Person=3	11	nmod	_	_
+9	dokunaklı	dokunaklı	ADJ	_	_	11	amod	_	_
+10	bir	bir	DET	_	Definite=Ind|PronType=Art	11	det	_	_
+11	hatırlatması	hatırla	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	0	root	_	_
+12	.	.	PUNCT	_	_	11	punct	_	_
 
 ~~~
 

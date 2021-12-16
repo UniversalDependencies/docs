@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Jack Rueter, Markus Juutinen, Francis Tyers, Tommi A Pirinen, Mika Hämäläinen.
 
 Repository: [UD_Skolt_Sami-Giellagas](https://github.com/UniversalDependencies/UD_Skolt_Sami-Giellagas)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsms_giellagas28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsms_giellagas29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-SA 4.0
 
@@ -101,11 +101,11 @@ however, we would be no where…
 
 
 <ul>
-<li>This corpus contains 178 sentences, 2175 tokens and 2176 syntactic words.</li>
+<li>This corpus contains 200 sentences, 2460 tokens and 2461 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 471 tokens (22%) that are not followed by a space.</li>
+<li>This corpus contains 544 tokens (22%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -113,7 +113,7 @@ however, we would be no where…
 </ul>
 
 <ul>
-<li>This corpus contains 22 types of words that contain both letters and punctuation. Examples: i-ǥõl, dõõzz-e, koll’je, leäk-a, lij-a, nuʹt-i, tok-i, võʹll’ji, Haaʹlääk-a, Jeänn’jam, aalmi-han, jeänn’jad, jiânnai-a, koozz-a, miõtt-talkknid, olgglab-a, puk-i, pâi-i, tõt-i, tõzz-e, vueʹljžiǩ-a, võʹll’jam</li>
+<li>This corpus contains 22 types of words that contain both letters and punctuation. Examples: i-ǥõl, dõõzz-e, koll’je, leäk-a, lij-a, nuʹt-i, tok-i, tõt-i, võʹll’ji, Haaʹlääk-a, Jeänn’jam, aalmi-han, jeänn’jad, jiânnai-a, koozz-a, miõtt-talkknid, olgglab-a, puk-i, pâi-i, tõzz-e, vueʹljžiǩ-a, võʹll’jam</li>
 </ul>
 
 <ul>
@@ -170,7 +170,7 @@ however, we would be no where…
   <li>Inf
   <ul>
     <li>AUX: leeʹd</li>
-    <li>VERB: kooǯǯted, mõõnnâd, väʹldded, jååʹtted, njuiʹǩǩeed, jälsted, kueʹstted, käggõõttâd, looppted, mainsted</li>
+    <li>VERB: jieʹlled, kooǯǯted, väʹldded, jååʹtted, mõõnnâd, njuiʹǩǩeed, ǩiččâd, jälsted, kueʹstted, käggõõttâd</li>
   </ul>
   </li>
 </ul>
@@ -203,7 +203,7 @@ however, we would be no where…
 <ul>
   <li>Hum
     <ul>
-      <li>NOUN: ooumaž, ääkka, eččad, nijdd, niõđ, kaavân, kåʹddpäärnaž, ääkkaž, jeäʹnn, jeäʹnnes</li>
+      <li>NOUN: ooumaž, nijdd, ääkka, eččad, niõđ, kaavân, kåʹddpäärnaž, ääkkaž, jeäʹnn, jeäʹnnes</li>
       <li>PROPN: Peter, Mary, Brown, Jane, Smith</li>
     </ul>
   </li>
@@ -224,11 +224,11 @@ however, we would be no where…
 <ul>
   <li>Plur
     <ul>
-      <li>AUX: liâ, jeäʹla, jeäʹp, jiâ, lee</li>
+      <li>AUX: liâ, jeäʹla, Jeäʹled, jeäʹp, jiâ, lee</li>
       <li>DET: tok</li>
-      <li>NOUN: muõrid, kooʹddid, kåʹllkåʹđđnjõõzzid, oummu, peästtõõǥǥ, päärna, jurddi, järraz, kaappi, kaarbivuiʹm</li>
-      <li>PRON: seeʹst, måttam, tõid, Jiijj, Täk, dõõk, mij, sij, tij, tuk</li>
-      <li>VERB: jälste, mõõnnâd, räʹjje, puõʹtte, ceäʹlǩǩe, kâʹčče, mõʹnne, aʹhtte, koll’je, kooʹddže</li>
+      <li>NOUN: muõrid, kooʹddid, kåʹllkåʹđđnjõõzzid, oummu, peästtõõǥǥ, päärna, aaiʹtid, jurddi, järraz, kaappi</li>
+      <li>PRON: miʹjjid, seeʹst, tõid, dõõk, jiijj, måttam, tuk, Täk, mij, sij</li>
+      <li>VERB: jälste, ceäʹlǩǩe, mõõnnâd, puõʹtte, räʹjje, vaʹldde, kâʹčče, mõʹnne, aʹhtte, koll’je</li>
     </ul>
   </li>
 </ul>
@@ -238,13 +238,13 @@ however, we would be no where…
     <ul>
       <li>ADJ: jõnn, nuʹbb, tiõrvâs, jåʹttel, kuuʹǩǩ, lääʹđesmiõllsab, muʹvddem, nuuʹbb, occkaž, šuurab</li>
       <li>ADV: kuuʹǩǩ, mâʹst, mõõzz</li>
-      <li>AUX: lij, leäi, ij, jiõk, jiõm, õõk, leäk, iʹlla, iʹlleäk, leäm</li>
+      <li>AUX: lij, leäi, ij, jiõk, õõk, jiõm, leäk, iʹlla, iʹlleäk, leäm</li>
       <li>DET: tõn, Tät, Tõt, jiijjâs</li>
-      <li>NOUN: ooumaž, tueʹllj, mieʹccest, heävaš, ääkka, eččad, nijdd, niõđâž, källsaž, niõđ</li>
-      <li>NUM: kueʹhtt, õhtt, čiččâm, kooum</li>
-      <li>PRON: son, tõt, tõn, ton, mon, muu, suu, mii, puk, mâiʹd</li>
+      <li>NOUN: ooumaž, tueʹllj, mieʹccest, heävaš, nijdd, stäʹlmmstääll, ääkka, eččad, niõđ, niõđâž</li>
+      <li>NUM: kueʹhtt, õhtt, čiččâm, kooum, kooumâst</li>
+      <li>PRON: son, tõn, tõt, ton, mon, suu, mii, muu, puk, mâiʹd</li>
       <li>PROPN: Peter, Mary, Brown, Franskkjânnam, Jane, Pariizzâst, Smith</li>
-      <li>VERB: ceälkk, mõõni, puõʹđi, vaaʹldi, ǩieʹzzi, lij, vuõʹlji, šõõddi, ǩiõzzam, jåått</li>
+      <li>VERB: ceälkk, mõõni, puõʹđi, vaaʹldi, šõõddi, ǩieʹzzi, lij, vuõʹlji, ǩiõzzam, jåått</li>
       <li>VERB-Vnoun: puälddmõõžž</li>
     </ul>
   </li>
@@ -268,9 +268,9 @@ however, we would be no where…
     <ul>
       <li>ADJ: kuuʹǩǩ, nuuʹbb</li>
       <li>DET: jiijjâs</li>
-      <li>NOUN: tueʹllj, muõrid, niõđ, kåʹddtueʹllj, čääʹʒʒ, kooʹddid, kåʹllkåʹđđnjõõzzid, peäʹl, aaut, jällmõõžž</li>
+      <li>NOUN: tueʹllj, niõđ, muõrid, kåʹddtueʹllj, čääʹʒʒ, kooʹddid, kåʹllkåʹđđnjõõzzid, peäʹl, aaut, jällmõõžž</li>
       <li>NUM: kooum</li>
-      <li>PRON: tõn, muu, mâiʹd, suu, tuu, tõid, Tän, muännaid</li>
+      <li>PRON: tõn, muu, mâiʹd, suu, tuu, tõid, Tän, miʹjjid, muännaid</li>
       <li>VERB-Vnoun: puälddmõõžž</li>
     </ul>
   </li>
@@ -279,7 +279,7 @@ however, we would be no where…
 <ul>
   <li>Com
     <ul>
-      <li>NOUN: mannuin, peeiʹvin, jieʹlličaaʹʒʒin, kaarbivuiʹm, paaʹrnines, peeʹlljin</li>
+      <li>NOUN: mannuin, peeiʹvin, heäppšines, jieʹlličaaʹʒʒin, kaarbivuiʹm, paaʹrnines, peeʹlljin</li>
       <li>PRON: mõin, tõin</li>
     </ul>
   </li>
@@ -288,7 +288,8 @@ however, we would be no where…
 <ul>
   <li>Ess
     <ul>
-      <li>NOUN: kämmǥižžen, kaavân, kueʹllen, näuʹdden, heäppšen, låʹdden, ooumžen, säldten</li>
+      <li>NOUN: kämmǥižžen, triâŋggân, kaavân, kueʹllen, näuʹdden, heäppšen, låʹdden, ooumžen, säldten</li>
+      <li>NUM: koummân</li>
       <li>VERB: vueʹtǩǩmen, håiddmen, jååʹttmen</li>
     </ul>
   </li>
@@ -298,9 +299,9 @@ however, we would be no where…
   <li>Gen
     <ul>
       <li>DET: tõn</li>
-      <li>NOUN: ääkka, suõv, tueʹllj, heäppaž, kuäʹđ, kämmǥa, Peter, Siõm, Tuõddâr, eeʹjj</li>
+      <li>NOUN: ääkka, heäppaž, suõv, tueʹllj, kuäʹđ, kämmǥa, Peter, Siõm, Tuõddâr, caar</li>
       <li>NUM: kooum</li>
-      <li>PRON: tõn, suu, dõõn, nuuʹbb, tuu, tän</li>
+      <li>PRON: tõn, suu, dõõn, mõõn, nuuʹbb, tuu, tän</li>
       <li>PROPN: Franskkjânnam</li>
     </ul>
   </li>
@@ -310,10 +311,10 @@ however, we would be no where…
   <li>Ill
     <ul>
       <li>ADJ: jõnn</li>
-      <li>ADP: luzz, årra</li>
+      <li>ADP: årra, luzz</li>
       <li>ADV: koozz, koozz-a, mõõzz</li>
-      <li>NOUN: pärnna, kuätta, põʹrtte, ekka, heävašstallju, kuättses, kuäʹttnjälmma, kõʹsǩǩe, muõrrmaddja, njikkõnja</li>
-      <li>PRON: muʹnne, ǩeäzz</li>
+      <li>NOUN: pärnna, kuätta, põʹrtte, aaiʹtid, ekka, heävašstallju, kuättses, kuäʹttnjälmma, kõʹsǩǩe, muõrrmaddja</li>
+      <li>PRON: miʹjjid, muʹnne, tõid, ǩeäzz</li>
     </ul>
   </li>
 </ul>
@@ -322,8 +323,9 @@ however, we would be no where…
   <li>Loc
     <ul>
       <li>ADV: koʹst, mâʹst</li>
-      <li>NOUN: mieʹccest, oummust, luândstes, lõõnjâst, vueiʹvvgåårdest, ǩeeʹrjteeʹjest</li>
-      <li>PRON: seeʹst, suʹst, dââʹst, muʹst, suännast, tõʹst</li>
+      <li>NOUN: mieʹccest, oummust, ääiʹtest, luândstes, lõõnjâst, vueiʹvvgåårdest, ǩeeʹrjteeʹjest</li>
+      <li>NUM: kooumâst</li>
+      <li>PRON: suʹst, seeʹst, dââʹst, muʹst, suännast, tõʹst</li>
       <li>PROPN: Pariizzâst</li>
     </ul>
   </li>
@@ -335,9 +337,9 @@ however, we would be no where…
       <li>ADJ: nuʹbb, tiõrvâs, jåʹttel, lääʹđesmiõllsab, muʹvddem, occkaž, šuurab</li>
       <li>ADV: kuuʹǩǩ</li>
       <li>DET: Tät, Tõt, tok</li>
-      <li>NOUN: ooumaž, heävaš, eččad, nijdd, niõđâž, källsaž, kåʹddpäärnaž, stäʹlmmstääll, ääkkaž, jeäʹnn</li>
+      <li>NOUN: ooumaž, heävaš, nijdd, stäʹlmmstääll, eččad, niõđâž, källsaž, triâŋgg, kåʹddpäärnaž, tieʹrmes</li>
       <li>NUM: kueʹhtt, õhtt, čiččâm</li>
-      <li>PRON: son, tõt, ton, mon, mii, puk, kååʹtt, nåkkam, jiõčč, måttam</li>
+      <li>PRON: son, tõt, ton, mon, mii, puk, kååʹtt, nåkkam, dõõk, dõõt</li>
       <li>PROPN: Peter, Mary, Brown, Jane, Smith</li>
       <li>VERB: älgg</li>
     </ul>
@@ -376,8 +378,8 @@ however, we would be no where…
 <ul>
   <li>Neg
     <ul>
-      <li>AUX: ij, jiõk, jiõm, iʹlla, iʹlleäk, jeäʹla, jeäʹp, jiâ</li>
-      <li>INTJ: Ij</li>
+      <li>AUX: ij, jiõk, jiõm, iʹlla, iʹlleäk, Jeäʹled, jeäʹla, jeäʹp, jiâ</li>
+      <li>INTJ: ij</li>
       <li>PART: ni</li>
     </ul>
   </li>
@@ -415,6 +417,7 @@ however, we would be no where…
 <ul>
   <li>Imp
     <ul>
+      <li>AUX: Jeäʹled</li>
       <li>VERB: mõõnnâd, tiâr, puäʹđ, kueʹst, kulddâl, säärn, vueiʹn, Ääʹved</li>
     </ul>
   </li>
@@ -423,8 +426,8 @@ however, we would be no where…
 <ul>
   <li>Ind
     <ul>
-      <li>AUX: lij, leäi, ij, jiõk, liâ, jiõm, õõk, leäk, leäkku, iʹlla</li>
-      <li>VERB: ceälkk, mõõni, puõʹđi, vaaʹldi, ǩieʹzzi, lij, vuõʹlji, šõõddi, ǩiõzzam, jåått</li>
+      <li>AUX: lij, leäi, ij, jiõk, õõk, liâ, jiõm, õõlǥ, leäk, leäkku</li>
+      <li>VERB: ceälkk, mõõni, puõʹđi, vaaʹldi, šõõddi, ǩieʹzzi, jälste, lij, vuõʹlji, ǩiõzzam</li>
     </ul>
   </li>
 </ul>
@@ -446,7 +449,7 @@ however, we would be no where…
   <li>Past
     <ul>
       <li>AUX: leäi, leʹjjiǩ, feʹrttji, leʹjjem</li>
-      <li>VERB: mõõni, puõʹđi, vaaʹldi, ǩieʹzzi, vuõʹlji, šõõddi, jälste, lueʹšti, vuejai, puõʹtte</li>
+      <li>VERB: mõõni, puõʹđi, vaaʹldi, šõõddi, ǩieʹzzi, jälste, vuõʹlji, leäi, vuejai, lueʹšti</li>
     </ul>
   </li>
 </ul>
@@ -454,8 +457,8 @@ however, we would be no where…
 <ul>
   <li>Pres
     <ul>
-      <li>AUX: lij, liâ, õõk, leäk, leäkku, iʹlla, iʹlleäk, jeäʹla, leäm, lij-a</li>
-      <li>VERB: ceälkk, lij, ǩiõzzam, jåått, pohtt, räʹjje, väldd, vääldam, čuõlmmääm, ceäʹlǩǩe</li>
+      <li>AUX: lij, õõk, liâ, õõlǥ, leäk, leäkku, iʹlla, iʹlleäk, jeäʹla, leäm</li>
+      <li>VERB: ceälkk, lij, ǩiõzzam, jåått, ceäʹlǩǩe, pohtt, räʹjje, mâânn, väldd, vääldam</li>
     </ul>
   </li>
 </ul>
@@ -467,7 +470,7 @@ however, we would be no where…
 <ul>
   <li>Pass
     <ul>
-      <li>VERB-Part: tuåimtum</li>
+      <li>VERB-Part: tuåimtum, čõnnum</li>
     </ul>
   </li>
 </ul>
@@ -484,7 +487,7 @@ however, we would be no where…
   <li>Dem
     <ul>
       <li>DET: tõn, Tät, Tõt</li>
-      <li>PRON: tõt, tõn, tut, tän, tõid, Täk, dõõk, dõõn, dõõt, tuk</li>
+      <li>PRON: tõn, tõt, tõid, tuk, tut, tän, tõt-i, Täk, dõõk, dõõn</li>
     </ul>
   </li>
 </ul>
@@ -502,7 +505,7 @@ however, we would be no where…
   <li>Prs
     <ul>
       <li>DET: jiijjâs</li>
-      <li>PRON: son, ton, mon, muu, suu, seeʹst, suʹst, tuu, jiõčč, Jiijj</li>
+      <li>PRON: son, ton, mon, suu, muu, miʹjjid, suʹst, seeʹst, tuu, jiijj</li>
     </ul>
   </li>
 </ul>
@@ -511,7 +514,7 @@ however, we would be no where…
   <li>Rel
     <ul>
       <li>ADV: mâʹst, mõõzz</li>
-      <li>PRON: mii, kååʹtt, mõin, ǩeäzz</li>
+      <li>PRON: mii, kååʹtt, mõin, mõõn, ǩeäzz</li>
     </ul>
   </li>
 </ul>
@@ -545,7 +548,7 @@ however, we would be no where…
   <li>Yes
     <ul>
       <li>DET: jiijjâs</li>
-      <li>PRON: jiõčč, Jiijj</li>
+      <li>PRON: jiijj, jiõčč</li>
     </ul>
   </li>
 </ul>
@@ -558,7 +561,7 @@ however, we would be no where…
   <li>1
     <ul>
       <li>AUX: jiõm, leäm, jeäʹp, leʹjjem</li>
-      <li>PRON: mon, muu, mij, muännaid, muʹnne, muʹst</li>
+      <li>PRON: mon, muu, miʹjjid, mij, muännaid, muʹnne, muʹst</li>
       <li>VERB: ǩiõzzam, vääldam, čuõlmmääm, vuâlǥam, vuõʹlǧǧem, Joordam, jieʹlim, pooutam, puõʹttem, teâđam</li>
     </ul>
   </li>
@@ -567,7 +570,7 @@ however, we would be no where…
 <ul>
   <li>2
     <ul>
-      <li>AUX: jiõk, õõk, leäk, leʹjjiǩ, leäk-a</li>
+      <li>AUX: jiõk, õõk, leäk, leʹjjiǩ, Jeäʹled, leäk-a</li>
       <li>PRON: ton, tuu, tij</li>
       <li>VERB: mõõnnâd, tiâr, puäʹđ, Mõõnžiǩ, puõʹttiǩ, Haaʹlääk-a, joordak, kooʹddid, kueʹst, kulddâl</li>
     </ul>
@@ -579,8 +582,8 @@ however, we would be no where…
     <ul>
       <li>AUX: lij, leäi, ij, liâ, iʹlla, iʹlleäk, jeäʹla, lij-a, feʹrttji, jiâ</li>
       <li>DET: jiijjâs</li>
-      <li>PRON: son, suu, seeʹst, suʹst, sij, suäna, suännast</li>
-      <li>VERB: ceälkk, mõõni, puõʹđi, vaaʹldi, ǩieʹzzi, lij, vuõʹlji, šõõddi, jåått, jälste</li>
+      <li>PRON: son, suu, suʹst, seeʹst, sij, suäna, suännast</li>
+      <li>VERB: ceälkk, mõõni, puõʹđi, vaaʹldi, šõõddi, ǩieʹzzi, jälste, lij, vuõʹlji, jåått</li>
     </ul>
   </li>
 </ul>
@@ -603,7 +606,7 @@ however, we would be no where…
   <li>Sing
     <ul>
       <li>ADP: piirâs</li>
-      <li>NOUN: eččad, jeäʹnnes, vuäʹbbes, ääušas, Jeänn’jam, eččan, jeännam, jeänn’jad, jueʹljes, juâlǥad</li>
+      <li>NOUN: eččad, jeäʹnnes, triâŋgâs, vuäʹbbes, ääušas, Jeänn’jam, eččan, heäppšines, jeännam, jeänn’jad</li>
     </ul>
   </li>
 </ul>
@@ -633,7 +636,7 @@ however, we would be no where…
     <ul>
       <li>Tim
         <ul>
-          <li>ADV: âʹtte, mâŋŋa, eʹpet, teä, teʹl, ååʹn, kuuʹǩǩ, Eiʹdde, Vuõššân, jo</li>
+          <li>ADV: âʹtte, mâŋŋa, ååʹn, teä, eʹpet, kuuʹǩǩ, teʹl, vuõššân, Eiʹdde, jo</li>
           <li>SCONJ: Gu</li>
         </ul>
       </li>
@@ -647,7 +650,7 @@ however, we would be no where…
       <li>AddI
         <ul>
           <li>ADV: tok-i, nuʹt-i, pâi-i</li>
-          <li>PRON: puk-i, tõt-i</li>
+          <li>PRON: tõt-i, puk-i</li>
         </ul>
       </li>
       <li>Han
@@ -672,8 +675,8 @@ however, we would be no where…
     <ul>
       <li>Yes
         <ul>
-          <li>AUX: leäkku, õõlǥ</li>
-          <li>VERB: kuâddam, kueʹst, tieʹđ, õõlǥ, šõõdd, kaaun, kooǯǯtam, kååddče, kååʹdd, muuʹšt</li>
+          <li>AUX: õõlǥ, leäkku</li>
+          <li>VERB: kuâddam, kueʹst, tieʹđ, õõlǥ, šõõdd, cieʹlǩ, kaaun, kooǯǯtam, kååddče, kååʹdd</li>
         </ul>
       </li>
     </ul>
@@ -746,7 +749,7 @@ however, we would be no where…
       <li>3
         <ul>
           <li>ADP: piirâs</li>
-          <li>NOUN: jeäʹnnes, vuäʹbbes, ääušas, jueʹljes, jällmõõžžâz, kuättses, kuõjâs, luândstes, paaʹrnines, pärnnses</li>
+          <li>NOUN: jeäʹnnes, triâŋgâs, vuäʹbbes, ääušas, heäppšines, jueʹljes, jällmõõžžâz, kuättses, kuõjâs, luândstes</li>
         </ul>
       </li>
     </ul>
@@ -771,7 +774,7 @@ however, we would be no where…
     <ul>
       <li>1
         <ul>
-          <li>AUX: leäi, õõk, lij, leeʹd, lij-a, liâ, feʹrttji, iʹlla, jeäʹla, leäk-a</li>
+          <li>AUX: õõk, leäi, lij, leeʹd, lij-a, liâ, feʹrttji, iʹlla, jeäʹla, leäk-a</li>
           <li>AUX-Inf: leeʹd</li>
           <li>VERB: jåått, suõʹppjââtt, vuâjj, Haaʹlääk-a, iʹttli, jälsti, kuâđđje, liõʹhtte, mâânn, mõʹnne</li>
         </ul>
@@ -805,11 +808,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN-Gen (2)</li>
       <li>VERB--NOUN-Ill (1)</li>
-      <li>VERB--NOUN-Nom (72)</li>
+      <li>VERB--NOUN-Nom (78)</li>
       <li>VERB--NOUN-Par (1)</li>
-      <li>VERB--PRON-Nom (88)</li>
+      <li>VERB--PRON-Nom (99)</li>
       <li>VERB-Inf--NOUN-Nom (1)</li>
-      <li>VERB-Inf--PRON-Nom (1)</li>
+      <li>VERB-Inf--PRON-Nom (2)</li>
       <li>VERB-Part--NOUN-Ill (1)</li>
       <li>VERB-Part--NOUN-Nom (8)</li>
       <li>VERB-Part--PRON-Nom (8)</li>
@@ -820,15 +823,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Acc (53)</li>
+      <li>VERB--NOUN-Acc (57)</li>
       <li>VERB--NOUN-Acc-ADP(rââst) (1)</li>
       <li>VERB--NOUN-Gen (2)</li>
       <li>VERB--NOUN-Nom (5)</li>
       <li>VERB--PRON (4)</li>
-      <li>VERB--PRON-Acc (20)</li>
+      <li>VERB--PRON-Acc (24)</li>
       <li>VERB--PRON-Gen (1)</li>
       <li>VERB--PRON-Nom (2)</li>
-      <li>VERB-Inf--NOUN-Acc (4)</li>
+      <li>VERB-Inf--NOUN-Acc (5)</li>
+      <li>VERB-Inf--NOUN-Ill (1)</li>
       <li>VERB-Inf--PRON-Acc (4)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN-Acc (9)</li>

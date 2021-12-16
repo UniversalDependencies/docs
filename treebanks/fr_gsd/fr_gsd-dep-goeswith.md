@@ -50,7 +50,7 @@ The following 15 pairs of parts of speech are connected with `goeswith`: <tt><a 
 4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	restaurant	restaurant	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
 6	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
-7	week	weekend	NOUN	_	Gender=Masc|Number=Sing	3	obl:mod	_	ExtPos=NOUN|PhraseType=Idiom|wordform=week-end
+7	week	weekend	NOUN	_	Gender=Masc|Number=Sing	3	obl:mod	_	ExtPos=NOUN|wordform=week-end
 8	end	end	NOUN	_	Gender=Fem|Number=Sing	7	goeswith	_	SpaceAfter=No|wordform=_
 9	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -77,7 +77,7 @@ The following 15 pairs of parts of speech are connected with `goeswith`: <tt><a 
 12	dans	dans	ADP	_	_	15	case	_	_
 13	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 14	petit	petit	ADJ	_	Gender=Masc|Number=Sing	15	amod	_	_
-15	sous	sous	ADP	_	Gender=Masc|Number=Sing	11	nmod	_	ExtPos=NOUN|PhraseType=Idiom|wordform=sous-marin
+15	sous	sous	ADP	_	Gender=Masc|Number=Sing	11	nmod	_	ExtPos=NOUN|wordform=sous-marin
 16	marin	marin	NOUN	_	Gender=Masc|Number=Sing	15	goeswith	_	wordform=_
 17	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
 18	parfait	parfait	ADJ	_	Gender=Masc|Number=Sing	2	conj	_	_

@@ -48,9 +48,62 @@ Mapping UPOS to XPOS Akuntsú
 NOMINAL FEATURE
 * Nominal words, NOUN, PROPN and PRON, are not marked for Gender, plural or animacy.
 * There are no classifiers.
-* The notion of plural is expressed through numerals, particles or through reduplication.
-* The two main values of the Number feature are Sing and Plural. Plural is marked by reduplication.
-* Akuntsú has postpositions and oblique clitis, including Ablative `Abl`, allative `All`, dative `Dat`,  essive `Ess`, locative `Loc`, translative `Tra` and inessive `Ine`.
+* The two main values of the Number feature are Sing and Plural.
+* The notion of plural is expressed through numerals, particles or through reduplication:
+
+```
+tɨrɨ-tɨrɨ apaɾa
+two-two   banana
+'four (or many) bananas'
+```
+
+```
+ko-am           pega   ekwa 
+fishhook-rope   bring  ITER
+'(He) brings many fishing lines'
+```
+
+```
+pi-pi
+foot-foot
+'feet'
+```
+* Akuntsú has postpositions and oblique clitics, including Ablative `Abl`, allative `All`, dative `Dat`,  essive `Ess`, locative `Loc`, translative `Tra` and inessive `Ine`. The bound (non-clitic) oblique markers are treated as `case`, while the term “postposition” is reserved only for cases of independent words, not bound forms which come after the word that they are grammatically related to.
+
+Postpostion | Function   |           Example        |
+:---------: | :---------:|:---------------------:   |
+ etʃe       | Perlative  | _konitʃe okɨp **etʃe**_ 'The thorn gets **into** my leg' |    
+ ete        | Comitative/Relative | _tekwata Buko **ete**_ 'He leaves **with** Buquá'| 
+ pi         | Inessive  | _ojẽ **pi** õkwa_ 'I am washing the **interior** of my mouth'|      
+
+Clitics     |            Function           |           Example        |
+:---------: | :----------------------------:|:------------------------:|
+(b)õ   | Allative/Dative/Instrumental  | _otʃipap tabɨt**õ** ka_ 'My grandmother went **to** the garden'             |    
+(e)ɾi | Comitative                    | _ameko**ɾi** imaã_ 'because of the jaguar, she stores them'	|
+na    | Essive/Translative            | _powpow iko**na**_ 'It will be owl's food (the bird that they killed) '             | 
+pe    | Locative                      | _tɨeɾo kwiɾo**pe**_ 'Chicha is at the container'                | 
+
+* The relational markers `Rel` indicate contiguity `Rel=Cont` or non-contiguity `Rel=NCont` between a head and its dependent. That is, the relational indicates whether the possessed noun is or is not contiguous to its possessor, as exemplified below:
+
+Rel    | Form   |             Example                  |
+:-----:|:---------:| :----------------------------------: |
+Cont   | ∅     | _Konibu **ø**-ajtʃi Aɾamĩɾa_ 'Konibú's wife is Aramira'            |    
+NCont  | t | _apaɾa **t**-ep tʃopa jẽ_ 'This one sees banana's leaf'    | 
+
+* The reflexive/correferential morpheme _te_ is associated with the feature-value `Reflex=Yes`. 
+* The demonstratives can occur as noun specifiers or as predicate complements, which receive the tag DEM with two values: `Deixis=Prox` and `Deixis=Dist`.
+
+```
+jẽ        kem-kɨ         jẽ        kem-kɨ=ɾom
+DEM.PROX  breast-liquid  DEM.PROX  breast-liquid=NEG
+'This one has breast-milk, this one doesn't have breast-milk'
+```
+
+```
+otʃe t-ek         no        jẽɾom     tʃok
+1PL.EXCL R-house  other     DEM.DIST  build 
+'Our other house, they built that one'
+```
 
 VERBAL FEATURE
 * Verbs tend to combine with categories that denote aspect, modality, and voice.
@@ -63,7 +116,7 @@ VERBAL FEATURE
 :----: | :------: |:------: |:------: |:------: |
 |ãm|jã|toa|ko|tʃe|ka
 
-* Some verbs occur with the morpheme -*ka*, which is a transitivizer (cf. Aragon, 2014). This [feature](https://universaldependencies.org/u/feat/index.html) (`Trans`) takes the value YES if the when the morpheme is present.  Verbs that may or not combine with this morpheme take no overt object or require two obligatory arguments. 
+* Some verbs occur with the morpheme -*ka*, which is a transitivizer. This [feature](https://universaldependencies.org/u/feat/index.html) (`Trans`) takes the value YES if the when the morpheme is present.  Verbs that may or not combine with this morpheme take no overt object or require two obligatory arguments. 
 
 ## Syntax
 

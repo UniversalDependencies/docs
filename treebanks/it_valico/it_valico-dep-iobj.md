@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-58 nodes (1%) are attached to their parents as `iobj`.
+59 nodes (1%) are attached to their parents as `iobj`.
 
-51 instances of `iobj` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.39655172413793.
+52 instances of `iobj` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.40677966101695.
 
-The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (57; 98% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-PRON.html">PRON</a></tt> (58; 98% instances), <tt><a href="it_valico-pos-VERB.html">VERB</a></tt>-<tt><a href="it_valico-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

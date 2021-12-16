@@ -22,14 +22,14 @@ The following 2 pairs of parts of speech are connected with `cc`: <tt><a href="t
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 cc	color:blue
-1	Aopiranga	aoβ	NOUN	n	Case=Ref	5	obj	5:obj	_
-2	,	,	PUNCT	punct	_	1	punct	1:punct	_
-3	ju	ju	NOUN	n	_	1	conj	1:conj	_
-4	aβé	aβé	ADV	adv	_	3	cc	3:cc	_
-5	owerur	ur	VERB	v	Person=3|Voice=Com	0	root	0:root	_
-6	ojoesé	_	ADP	posp	Reflex=Yes	5	obl	5:obl	_
-7	,	,	PUNCT	punct	_	5	punct	5:punct	_
-8	oporeawsuβetekatúramo	poreawsuβ	NOUN	n	Case=Tra|Intens=Yes|Reflex=Yes	5	obl	5:obl	_
+1	Aopiranga	aoβ	NOUN	n	Case=Ref	5	obj	_	_
+2	,	,	PUNCT	punct	_	1	punct	_	_
+3	ju	ju	NOUN	n	_	1	conj	_	_
+4	aβé	aβé	ADV	adv	_	3	cc	_	_
+5	owerur	ur	VERB	v	Person=3|Voice=Com	0	root	_	_
+6	ojoesé	_	ADP	posp	Reflex=Yes	5	obl	_	_
+7	,	,	PUNCT	punct	_	5	punct	_	_
+8	oporeawsuβetekatúramo	poreawsuβ	NOUN	n	Case=Tra|Intens=Yes|Reflex=Yes	5	obl	_	_
 
 ~~~
 
@@ -40,19 +40,19 @@ The following 2 pairs of parts of speech are connected with `cc`: <tt><a href="t
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 cc	color:blue
-1	Marã	marã	ADV	adv	Int=Yes	12	advmod	12:advmod	_
-2	itá	itá	NOUN	n	_	12	obl	12:obl	_
-3	ɲẽpe	ɲẽ	PART	pcl	Int=Yes	2	discourse	2:discourse	_
-4	,	,	PUNCT	punct	_	2	punct	2:punct	_
-5	kojpó	kojpó	CCONJ	cc	ConjType=Disj	2	cc	2:cc	_
-6	ɨβɨrá	ɨβɨrá	NOUN	n	_	2	conj	2:conj	_
-7	,	,	PUNCT	punct	_	6	punct	6:punct	_
-8	ɲauʔuma	ɲauʔum	NOUN	n	Case=Ref	2	conj	2:conj	_
-9	imoɲangɨmbɨra	moɲang	NOUN	n	Rel=NCont	8	appos	8:appos	_
-10	ɲẽpe	ɲẽ	PART	pcl	Int=Yes	8	discourse	8:discourse	_
-11	asé	asé	PRON	pro	PronType=Prs	12	obl	12:obl	_
-12	ojmoeté	eté	VERB	vt	Person=33|Voice=Cau	0	root	0:root	_
-13	?	?	PUNCT	punct	_	12	punct	12:punct	_
+1	Marã	marã	ADV	adv	Int=Yes	12	advmod	_	_
+2	itá	itá	NOUN	n	_	12	obl	_	_
+3	ɲẽpe	ɲẽ	PART	pcl	Int=Yes	2	discourse	_	_
+4	,	,	PUNCT	punct	_	2	punct	_	_
+5	kojpó	kojpó	CCONJ	cc	ConjType=Disj	2	cc	_	_
+6	ɨβɨrá	ɨβɨrá	NOUN	n	_	2	conj	_	_
+7	,	,	PUNCT	punct	_	6	punct	_	_
+8	ɲauʔuma	ɲauʔum	NOUN	n	Case=Ref	2	conj	_	_
+9	imoɲangɨmbɨra	moɲang	NOUN	n	Rel=NCont	8	appos	_	_
+10	ɲẽpe	ɲẽ	PART	pcl	Int=Yes	8	discourse	_	_
+11	asé	asé	PRON	pro	PronType=Prs	12	obl	_	_
+12	ojmoeté	eté	VERB	vt	Person=33|Voice=Cau	0	root	_	_
+13	?	?	PUNCT	punct	_	12	punct	_	_
 
 ~~~
 

@@ -100,4 +100,4 @@ Naija makes little use of the fixed relation and instead analyzes these expressi
 10	have	_	_	_	_	0	_	_	_
 11	died	_	_	_	_	0	_	_	_
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:09:05 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:53 CET 2021 -->

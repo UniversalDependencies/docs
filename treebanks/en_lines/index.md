@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Lars Ahrenberg.
 
 Repository: [UD_English-LinES](https://github.com/UniversalDependencies/UD_English-LinES)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_lines28)<br />
-Download all treebanks: [UD 2.8](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_lines29)<br />
+Download all treebanks: [UD 2.9](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -251,7 +251,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
     <ul>
       <li>ADJ: following, loud, pale, such, moving, existing, trading, living, calculated, Arabic</li>
       <li>ADP: ago, opposite, according, in, regardless, Thanks, all, instead, prior, underneath</li>
-      <li>ADV: n't, for, last, nearest, and, a.m., alike, besides, left, p.m</li>
+      <li>ADV: for, last, nearest, and, a.m., alike, besides, left, p.m, past</li>
       <li>AUX: 'd, 're</li>
       <li>CCONJ: as, only, so, rather</li>
       <li>DET: one, La, whose</li>
@@ -601,7 +601,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (33)</li>
+      <li>VERB--NOUN (34)</li>
       <li>VERB--NOUN-Nom (1)</li>
       <li>VERB--PRON (46)</li>
       <li>VERB--PRON-Nom (49)</li>
@@ -618,11 +618,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Acc (10)</li>
       <li>VERB-Inf--PRON-Nom (514)</li>
       <li>VERB-Inf--PRON-Nom-ADP(for) (1)</li>
-      <li>VERB-Part--NOUN (248)</li>
-      <li>VERB-Part--NOUN-Nom (12)</li>
+      <li>VERB-Part--NOUN (259)</li>
+      <li>VERB-Part--NOUN-Nom (13)</li>
       <li>VERB-Part--PRON (156)</li>
       <li>VERB-Part--PRON-Acc (2)</li>
-      <li>VERB-Part--PRON-Nom (331)</li>
+      <li>VERB-Part--PRON-Nom (330)</li>
     </ul>
   </li>
 </ul>
@@ -634,7 +634,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON (8)</li>
       <li>VERB--PRON-ADP(into) (1)</li>
       <li>VERB--PRON-Acc (22)</li>
-      <li>VERB--PRON-Nom (2)</li>
+      <li>VERB--PRON-Nom (3)</li>
       <li>VERB-Fin--NOUN (1252)</li>
       <li>VERB-Fin--NOUN-ADP(for) (1)</li>
       <li>VERB-Fin--NOUN-ADP(in) (1)</li>
@@ -642,7 +642,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-ADP(out) (1)</li>
       <li>VERB-Fin--NOUN-ADP(to) (3)</li>
       <li>VERB-Fin--NOUN-ADP(up) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(with) (1)</li>
       <li>VERB-Fin--NOUN-Nom (30)</li>
       <li>VERB-Fin--PRON (286)</li>
       <li>VERB-Fin--PRON-ADP(to) (1)</li>
@@ -655,7 +654,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-ADP(as) (1)</li>
       <li>VERB-Inf--PRON-Acc (142)</li>
       <li>VERB-Inf--PRON-Nom (11)</li>
-      <li>VERB-Part--NOUN (668)</li>
+      <li>VERB-Part--NOUN (669)</li>
       <li>VERB-Part--NOUN-ADP(through) (1)</li>
       <li>VERB-Part--NOUN-ADP(to) (1)</li>
       <li>VERB-Part--NOUN-Nom (13)</li>

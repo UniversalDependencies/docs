@@ -12,7 +12,7 @@ There are also 3 other language-specific subtypes of `expl`: <tt><a href="ro_rrt
 122 nodes (0%) are attached to their parents as `expl:impers`.
 
 121 instances of `expl:impers` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.10655737704918.
+Average distance between parent and child is 1.12295081967213.
 
 The following 1 pairs of parts of speech are connected with `expl:impers`: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (122; 100% instances).
 

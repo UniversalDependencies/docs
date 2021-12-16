@@ -9,25 +9,28 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `expl`: <tt><a href="pt_bosque-dep-expl-pass.html">expl:pass</a></tt>.
 
-973 nodes (0%) are attached to their parents as `expl`.
+972 nodes (0%) are attached to their parents as `expl`.
 
-578 instances of `expl` (59%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.07194244604317.
+577 instances of `expl` (59%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.0462962962963.
 
-The following 3 pairs of parts of speech are connected with `expl`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (968; 99% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `expl`: <tt><a href="pt_bosque-pos-VERB.html">VERB</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (968; 100% instances), <tt><a href="pt_bosque-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="pt_bosque-pos-ADV.html">ADV</a></tt>-<tt><a href="pt_bosque-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 expl	color:blue
-1	O	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	deputado	deputado	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
-3	se	se	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
-4	aproximou	aproximar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 expl	color:blue
+1	Enchentes	enchente	NOUN	_	Gender=Fem|Number=Plur	2	nsubj	_	_
+2	dão	dar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	se	se	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	2	expl	_	_
+4	por	por	ADP	_	_	6	case	_	_
+5	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	país	país	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
+7	inteiro	inteiro	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
@@ -97,7 +100,7 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 16	eles	ele	PRON	_	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	nmod	_	_
 17	o	o	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	actor	actor	NOUN	_	Gender=Masc|Number=Sing	13	appos	_	_
-19	Dustin	Dustin	PROPN	_	Gender=Masc|Number=Sing	18	appos	_	MWE=Dustin_Farnum|MWEPOS=PROPN
+19	Dustin	Dustin	PROPN	_	ExtPos=PROPN|Gender=Masc|Number=Sing	18	appos	_	_
 20	Farnum	Farnum	PROPN	_	Number=Sing	19	flat:name	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	1	punct	_	_
 

@@ -29,4 +29,4 @@ or [adverbs](ADV) (_mais_uma_vez_ "once more"; _pela_primeira_vez_ "for the firs
 - _um, dois, três, trinta e sete_
 - _I, II, III, IV, V, MMXIV_
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:22 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:11 CET 2021 -->

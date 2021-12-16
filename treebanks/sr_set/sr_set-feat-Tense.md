@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-14095 tokens (14%) have a non-empty value of `Tense`.
+14096 tokens (14%) have a non-empty value of `Tense`.
 2981 types (16%) occur at least once with a non-empty value of `Tense`.
 1241 lemmas (13%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (7761; 8% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (6054; 6% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (280; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (7761; 8% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (6054; 6% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (281; 0% instances).
 
 ### `VERB`
 
@@ -79,15 +79,15 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 ### `ADV`
 
-280 <tt><a href="sr_set-pos-ADV.html">ADV</a></tt> tokens (8% of all `ADV` tokens) have a non-empty value of `Tense`.
+281 <tt><a href="sr_set-pos-ADV.html">ADV</a></tt> tokens (8% of all `ADV` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADV` and `Tense` co-occurred: <tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (280; 100%), <tt><a href="sr_set-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (280; 100%).
+The most frequent other feature values with which `ADV` and `Tense` co-occurred: <tt><a href="sr_set-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (281; 100%), <tt><a href="sr_set-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (281; 100%).
 
 `ADV` tokens may have the following values of `Tense`:
 
 * `Past` (31; 11% of non-empty `Tense`): <em>rekavši, dostigavši, osvojivši, pobedivši, ponovivši, primetivši, Naslutivši, Pohvalivši, Počevši, dobivši</em>
-* `Pres` (249; 89% of non-empty `Tense`): <em>uključujući, ukazujući, dodajući, govoreći, obećavajući, opisujući, zahvaljujući, tražeći, tvrdeći, ističući</em>
-* `EMPTY` (3069): <em>takođe, kada, međutim, samo, još, odsto, više, sada, oko, uvek</em>
+* `Pres` (250; 89% of non-empty `Tense`): <em>uključujući, ukazujući, dodajući, govoreći, obećavajući, opisujući, zahvaljujući, tražeći, tvrdeći, ističući</em>
+* `EMPTY` (3043): <em>takođe, kada, međutim, samo, još, odsto, više, sada, oko, uvek</em>
 
 `Tense` seems to be **lexical feature** of `ADV`. 100% lemmas (119) occur only with one value of `Tense`.
 

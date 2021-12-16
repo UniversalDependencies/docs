@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-202069 nodes (18%) are attached to their parents as `punct`.
+280723 nodes (19%) are attached to their parents as `punct`.
 
-105561 instances of `punct` (52%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.80418569894442.
+147729 instances of `punct` (53%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.67096746614991.
 
-The following 17 pairs of parts of speech are connected with `punct`: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (103066; 51% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (50968; 25% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (18146; 9% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (10834; 5% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (7769; 4% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (4020; 2% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (2484; 1% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (1264; 1% instances), <tt><a href="ru_syntagrus-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (974; 0% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (838; 0% instances), <tt><a href="ru_syntagrus-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (462; 0% instances), <tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (445; 0% instances), <tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (276; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (257; 0% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (117; 0% instances), <tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (113; 0% instances), <tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (36; 0% instances).
+The following 17 pairs of parts of speech are connected with `punct`: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (145292; 52% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (68939; 25% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (24874; 9% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (15346; 5% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (10689; 4% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (5599; 2% instances), <tt><a href="ru_syntagrus-pos-NUM.html">NUM</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (3134; 1% instances), <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (2126; 1% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (1369; 0% instances), <tt><a href="ru_syntagrus-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (970; 0% instances), <tt><a href="ru_syntagrus-pos-ADP.html">ADP</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (583; 0% instances), <tt><a href="ru_syntagrus-pos-X.html">X</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (551; 0% instances), <tt><a href="ru_syntagrus-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (473; 0% instances), <tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (330; 0% instances), <tt><a href="ru_syntagrus-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (274; 0% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (128; 0% instances), <tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt> (46; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 17 pairs of parts of speech are connected with `punct`: <tt><a hre
 3	истинного	истинный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	amod	5:amod	SpaceAfter=No
 4	"	"	PUNCT	_	_	3	punct	3:punct	_
 5	определения	определение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nsubj	10:nsubj	_
-6	понятия	понятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	5:nmod	_
+6	понятия	понятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	5:nmod:gen	_
 7	"	"	PUNCT	_	_	8	punct	8:punct	SpaceAfter=No
 8	алгоритм	алгоритм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	appos	6:appos	SpaceAfter=No
 9	"	"	PUNCT	_	_	8	punct	8:punct	_
@@ -44,7 +44,7 @@ The following 17 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 1	fgColor:white
 # visual-style 1 3 punct	color:blue
 1	Определения	определение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	0	root	0:root	_
-2	алгоритма	алгоритм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	1:nmod	SpaceAfter=No
+2	алгоритма	алгоритм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	1:nmod:gen	SpaceAfter=No
 3	.	.	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
@@ -61,7 +61,7 @@ The following 17 pairs of parts of speech are connected with `punct`: <tt><a hre
 3	истинного	истинный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	amod	5:amod	SpaceAfter=No
 4	"	"	PUNCT	_	_	3	punct	3:punct	_
 5	определения	определение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nsubj	10:nsubj	_
-6	понятия	понятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	5:nmod	_
+6	понятия	понятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	5:nmod:gen	_
 7	"	"	PUNCT	_	_	8	punct	8:punct	SpaceAfter=No
 8	алгоритм	алгоритм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	6	appos	6:appos	SpaceAfter=No
 9	"	"	PUNCT	_	_	8	punct	8:punct	_

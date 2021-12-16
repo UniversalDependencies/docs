@@ -27,4 +27,4 @@ Marked as adverbs:
 
 - _sí_, e.g. _Votaremos <b>sí</b>_ "We will vote <b>yes</b>."
 - _no_, e.g. _<b>No</b> es verdad_ "It is <b>not</b> true."
-<!-- Interlanguage links updated Pá kvě 14 11:08:20 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:10 CET 2021 -->

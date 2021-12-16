@@ -54,7 +54,7 @@ The following 25 pairs of parts of speech are connected with `mark:prt`: <tt><a 
 10	b'	is	PART	Comp	Form=VF|PartType=Comp|Tense=Past|VerbForm=Cop	9	fixed	_	SpaceAfter=No
 11	fhearr	maith	ADJ	Adj	Degree=Cmp,Sup|Form=Len	7	conj	_	_
 12	i	i	ADP	Simp	_	13	case	_	_
-13	gcath	cath	NOUN	Noun	Case=NomAcc|Form=Ecl|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
+13	gcath	cath	NOUN	Noun	Case=Nom|Form=Ecl|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
 14	.	.	PUNCT	.	_	3	punct	_	_
 
 ~~~
@@ -74,7 +74,7 @@ The following 25 pairs of parts of speech are connected with `mark:prt`: <tt><a 
 6	mó	mór	ADJ	Adj	Degree=Cmp,Sup	2	amod	_	_
 7	ach	ach	SCONJ	Subord	_	11	mark:prt	_	_
 8	an	an	DET	Art	Definite=Def|Number=Sing|PronType=Art	9	det	_	_
-9	doras	doras	NOUN	Noun	Case=NomAcc|Definite=Def|Gender=Masc|Number=Sing	11	obj	_	_
+9	doras	doras	NOUN	Noun	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	11	obj	_	_
 10	a	a	PART	Inf	PartType=Inf	11	mark	_	_
 11	dhúnadh	dúnadh	NOUN	Noun	Form=Len|VerbForm=Inf	2	advcl	_	_
 12	amach	amach	ADV	Dir	_	11	advmod	_	_

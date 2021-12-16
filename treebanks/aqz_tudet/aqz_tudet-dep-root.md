@@ -22,9 +22,9 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 2 root	color:blue
-1	ep	ep	NOUN	n	_	2	obj	2:obj	_
-2	koa	ko	VERB	vt	_	0	root	0:root	_
-3	jẽ	jẽ	DET	dem	Deixis=Prox	2	nsubj	2:nsubj	_
+1	ep	ep	NOUN	n	_	2	obj	_	_
+2	koa	ko	VERB	vt	_	0	root	_	_
+3	jẽ	jẽ	DET	dem	Deixis=Prox	2	nsubj	_	_
 
 ~~~
 
@@ -35,10 +35,10 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 3 root	color:blue
-1	pero	pero	NOUN	n	_	2	nmod	2:nmod	_
-2	okwaj	okwaj	NOUN	n	_	3	dislocated	3:dislocated	_
-3	tokwaj	okwaj	NOUN	n	Rel=Cont	0	root	0:root	_
-4	perek	perek	ADJ	adj	_	3	amod	3:amod	_
+1	pero	pero	NOUN	n	_	2	nmod	_	_
+2	okwaj	okwaj	NOUN	n	_	3	dislocated	_	_
+3	tokwaj	okwaj	NOUN	n	Rel=Cont	0	root	_	_
+4	perek	perek	ADJ	adj	_	3	amod	_	_
 
 ~~~
 
@@ -49,13 +49,13 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 7 root	color:blue
-1	poga	poga	NOUN	n	_	2	nmod	2:nmod	_
-2	pe	pe	NOUN	n	_	3	nmod	3:nmod	_
-3	pi	pi	NOUN	n	_	7	nsubj	7:nsubj	_
-4	,	,	PUNCT	punct	_	3	punct	3:punct	_
-5	ameko	ameko	NOUN	n	_	7	nsubj	7:nsubj	_
-6	ikora	kora	VERB	vt	Person=3	7	dep	7:dep	_
-7	tʃe	tʃe	AUX	aux	_	0	root	0:root	_
+1	poga	poga	NOUN	n	_	2	nmod	_	_
+2	pe	pe	NOUN	n	_	3	nmod	_	_
+3	pi	pi	NOUN	n	_	7	nsubj	_	_
+4	,	,	PUNCT	punct	_	3	punct	_	_
+5	ameko	ameko	NOUN	n	_	7	nsubj	_	_
+6	ikora	kora	VERB	vt	Person=3	7	dep	_	_
+7	tʃe	tʃe	AUX	aux	_	0	root	_	_
 
 ~~~
 

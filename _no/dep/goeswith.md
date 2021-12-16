@@ -11,4 +11,4 @@ This relation links two parts of a word that are separated in text that is not w
 CNN har flere resultater fra fra valgdagsmålinger \n CNN have several results from from election polls
 goeswith(har-2,fra-5)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:09:07 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:55 CET 2021 -->

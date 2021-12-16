@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
-27260 tokens (12%) have a non-empty value of `VerbForm`.
-7191 types (23%) occur at least once with a non-empty value of `VerbForm`.
-1898 lemmas (11%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (23051; 11% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (4209; 2% instances).
+27228 tokens (12%) have a non-empty value of `VerbForm`.
+7172 types (23%) occur at least once with a non-empty value of `VerbForm`.
+1886 lemmas (11%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (23014; 11% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (4214; 2% instances).
 
 ### `VERB`
 
-23051 <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+23014 <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (15410; 67%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11820; 51%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (15375; 67%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (12327; 53% of non-empty `VerbForm`): <em>poate, trebuie, pot, are, avea, era, putea, există, face, au</em>
+* `Fin` (12294; 53% of non-empty `VerbForm`): <em>poate, trebuie, pot, are, avea, era, putea, există, au, face</em>
 * `Ger` (991; 4% of non-empty `VerbForm`): <em>având, începând, ținând, făcând, lăsând, urmând, înregistrând, putând, reprezentând, aparținând</em>
-* `Inf` (2092; 9% of non-empty `VerbForm`): <em>putea, trebui, avea, face, aduce, lua, asigura, fi, permite, vedea</em>
-* `Part` (7641; 33% of non-empty `VerbForm`): <em>avut, prevăzute, făcut, spus, putut, rupt, dat, murit, devenit, luat</em>
+* `Inf` (2090; 9% of non-empty `VerbForm`): <em>putea, trebui, avea, face, aduce, lua, asigura, fi, permite, vedea</em>
+* `Part` (7639; 33% of non-empty `VerbForm`): <em>avut, prevăzute, făcut, spus, putut, rupt, dat, murit, devenit, luat</em>
 
 <table>
   <tr><th>Paradigm <i>putea</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Ger</tt></th></tr>
@@ -53,17 +53,17 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-4209 <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> tokens (49% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+4214 <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> tokens (49% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2907; 69%), <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt> (2688; 64%), <tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2555; 61%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2456; 58%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2911; 69%), <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt> (2694; 64%), <tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2560; 61%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2459; 58%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (2772; 66% of non-empty `VerbForm`): <em>este, sunt, era, fie, e, erau, fusese, -i, avea, sunteți</em>
+* `Fin` (2777; 66% of non-empty `VerbForm`): <em>este, sunt, era, fie, e, erau, fusese, -i, avea, sunteți</em>
 * `Ger` (170; 4% of non-empty `VerbForm`): <em>fiind, nefiind, fiindu</em>
 * `Inf` (635; 15% of non-empty `VerbForm`): <em>fi</em>
 * `Part` (632; 15% of non-empty `VerbForm`): <em>fost, este</em>
-* `EMPTY` (4348): <em>a, au, va, ar, am, vor, ai, ați, -a, aș</em>
+* `EMPTY` (4345): <em>a, au, va, ar, am, vor, ai, ați, -a, aș</em>
 
 <table>
   <tr><th>Paradigm <i>fi</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th><th><tt>Ger</tt></th></tr>
@@ -99,9 +99,9 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2114; 86%),
-<tt>VERB --[<tt><a href="ro_rrt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (162; 55%),
-<tt>VERB --[<tt><a href="ro_rrt-dep-ccomp-pmod.html">ccomp:pmod</a></tt>]--> VERB</tt> (87; 51%),
-<tt>VERB --[<tt><a href="ro_rrt-dep-advcl-tcl.html">advcl:tcl</a></tt>]--> VERB</tt> (58; 66%),
+<tt>VERB --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2118; 86%),
+<tt>VERB --[<tt><a href="ro_rrt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (162; 56%),
+<tt>VERB --[<tt><a href="ro_rrt-dep-ccomp-pmod.html">ccomp:pmod</a></tt>]--> VERB</tt> (89; 51%),
+<tt>VERB --[<tt><a href="ro_rrt-dep-advcl-tcl.html">advcl:tcl</a></tt>]--> VERB</tt> (58; 67%),
 <tt>VERB --[<tt><a href="ro_rrt-dep-appos.html">appos</a></tt>]--> VERB</tt> (14; 88%).
 

@@ -22,14 +22,14 @@ The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 expl:pass	color:blue
-1	qualiter	qualiter	ADV	C1|grn1|casG	Degree=Pos	3	advmod	_	_
-2	se	se	PRON	F1|grn1|casD|gen2	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs|Reflex=Yes	3	expl:pass	_	_
-3	habeat	habeo	VERB	K3|modB|tem1|gen6	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	humana	humanus	ADJ	A1|grn1|casA|gen2	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
-5	ratio	ratio	NOUN	C1|grn1|casA|gen2|vgr1	Case=Nom|Gender=Fem|Number=Sing	3	nsubj:pass	_	_
+1	qualiter	qualiter	ADV	C1|grn1|casG	_	3	advmod	_	_
+2	se	se	PRON	F1|grn1|casD|gen2	Case=Acc|InflClass=LatAnom|PronType=Prs|Reflex=Yes	3	expl:pass	_	_
+3	habeat	habeo	VERB	K3|modB|tem1|gen6	Aspect=Imp|InflClass=LatE|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	humana	humanus	ADJ	A1|grn1|casA|gen2	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	5	amod	_	_
+5	ratio	ratio	NOUN	C1|grn1|casA|gen2|vgr1	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	3	nsubj:pass	_	_
 6	ad	ad	ADP	S4	AdpType=Prep	7	case	_	_
-7	ueritatem	ueritas	NOUN	C1|grn1|casD|gen2|vgr1	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	_
-8	fidei	fides	NOUN	E1|grn1|casB|gen2	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+7	ueritatem	ueritas	NOUN	C1|grn1|casD|gen2|vgr1	Case=Acc|Gender=Fem|InflClass=IndEurX|Number=Sing	3	obl	_	_
+8	fidei	fides	NOUN	E1|grn1|casB|gen2	Case=Gen|Gender=Fem|InflClass=IndEurE|Number=Sing	7	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	Punc	_	3	punct	_	_
 
 ~~~

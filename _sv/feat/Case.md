@@ -36,4 +36,4 @@ Prototypical meaning of genitive is that the noun phrase somehow belongs to its 
 * [sv] _<b>eftermiddagens</b> övningar_ "the <b>afternoon's</b> exercises"
 * [sv] _<b>patientens</b> ekonomi_ "the <b>patient's</b> finances"
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:29 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:18 CET 2021 -->

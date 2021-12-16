@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `advmod`: <tt><a href="id_pud-dep-advmod-emph.html">advmod:emph</a></tt>.
 
-921 nodes (5%) are attached to their parents as `advmod`.
+971 nodes (5%) are attached to their parents as `advmod`.
 
-778 instances of `advmod` (84%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.67318132464712.
+828 instances of `advmod` (85%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.85581874356334.
 
-The following 22 pairs of parts of speech are connected with `advmod`: <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (349; 38% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (138; 15% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-PART.html">PART</a></tt> (111; 12% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (96; 10% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (80; 9% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-PART.html">PART</a></tt> (40; 4% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (15; 2% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (15; 2% instances), <tt><a href="id_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (14; 2% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-PART.html">PART</a></tt> (13; 1% instances), <tt><a href="id_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (11; 1% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="id_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="id_pud-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="id_pud-pos-DET.html">DET</a></tt>-<tt><a href="id_pud-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="id_pud-pos-DET.html">DET</a></tt>-<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="id_pud-pos-DET.html">DET</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 23 pairs of parts of speech are connected with `advmod`: <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (393; 40% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (140; 14% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-PART.html">PART</a></tt> (111; 11% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (96; 10% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (83; 9% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-PART.html">PART</a></tt> (41; 4% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (15; 2% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (15; 2% instances), <tt><a href="id_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (14; 1% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-PART.html">PART</a></tt> (13; 1% instances), <tt><a href="id_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (11; 1% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="id_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="id_pud-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="id_pud-pos-DET.html">DET</a></tt>-<tt><a href="id_pud-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="id_pud-pos-DET.html">DET</a></tt>-<tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="id_pud-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="id_pud-pos-DET.html">DET</a></tt>-<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="id_pud-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id_pud-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 22 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 6 4 advmod	color:blue
 1	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
 2	Toh	toh	INTJ	_	_	6	discourse	_	_
-3	saya	saya	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+3	saya	saya	PRON	_	Number=Sing|Person=1|Polite=Form|PronType=Prs	6	nsubj	_	_
 4	tetap	tetap	ADV	_	_	6	advmod	_	_
 5	akan	akan	AUX	_	_	6	aux	_	_
 6	masuk	masuk	VERB	_	Mood=Ind|Voice=Act	0	root	_	_
@@ -48,7 +48,7 @@ The following 22 pairs of parts of speech are connected with `advmod`: <tt><a hr
 1	Mungkin	mungkin	ADV	_	_	6	advmod	_	_
 2	kode	kode	NOUN	_	Number=Sing	6	nsubj	_	_
 3	berpakaian	pakai	VERB	_	Mood=Ind|Voice=Act	2	acl	_	_
-4	nya	nya	DET	_	PronType=Dem	2	det	_	_
+4	nya	nya	DET	_	Definite=Def|PronType=Art	2	det	_	_
 5	terlalu	lalu	ADV	_	_	6	advmod	_	_
 6	sesak	sesak	ADJ	_	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
@@ -62,7 +62,7 @@ The following 22 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 advmod	color:blue
-1	Namun	namun	CCONJ	_	_	4	cc	_	SpaceAfter=No
+1	Namun	namun	ADV	_	_	4	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	masih	masih	ADV	_	_	4	advmod	_	_
 4	ada	ada	VERB	_	Mood=Ind|Voice=Act	0	root	_	_

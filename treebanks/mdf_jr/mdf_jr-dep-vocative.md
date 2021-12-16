@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2 nodes (0%) are attached to their parents as `vocative`.
+4 nodes (0%) are attached to their parents as `vocative`.
 
-1 instances of `vocative` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.
+3 instances of `vocative` (75%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.5.
 
-The following 1 pairs of parts of speech are connected with `vocative`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (2; 100% instances).
+The following 1 pairs of parts of speech are connected with `vocative`: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt>-<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (4; 100% instances).
 
 
 ~~~ conllu

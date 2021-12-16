@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-114 nodes (1%) are attached to their parents as `ccomp`.
+115 nodes (1%) are attached to their parents as `ccomp`.
 
-105 instances of `ccomp` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.28070175438596.
+106 instances of `ccomp` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.32173913043478.
 
-The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (74; 65% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (25; 22% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (5; 4% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (75; 65% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (25; 22% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-VERB.html">VERB</a></tt> (5; 4% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="am_att-pos-NOUN.html">NOUN</a></tt>-<tt><a href="am_att-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="am_att-pos-VERB.html">VERB</a></tt>-<tt><a href="am_att-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -30,9 +30,9 @@ The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href
 6	ት	ት	PRON	SUBJC	Gender=Fem|Number=Sing|Person=3	7	nsubj	_	Translit=tə|LTranslit=tə
 7	ሄድ	ሄድ	VERB	VERB	_	9	ccomp	_	Translit=hedə|LTranslit=hedə
 8	ይ	ይ	PRON	SUBJC	Gender=Masc|Number=Sing|Person=3	9	expl	_	Translit=jə|LTranslit=jə
-9	ሻል	ሻል	VERB	VERB	_	11	aux	_	Translit=šalə|LTranslit=šalə
+9	ሻል	ሻል	VERB	VERB	_	0	root	_	Translit=šalə|LTranslit=šalə
 10	ኧኝ	ኧኝ	PRON	SUBJC	Number=Sing|Person=1	9	nsubj	_	Translit='ăňə|LTranslit='ăňə
-11	ኣል	ኣል	AUX	AUX	_	0	root	_	Translit='alə|LTranslit='alə
+11	ኣል	ኣል	AUX	AUX	_	9	aux	_	Translit='alə|LTranslit='alə
 12	።	።	PUNCT	PUNCT	_	9	punct	_	Translit=.|LTranslit=.
 
 ~~~

@@ -8,10 +8,10 @@ udver: '2'
 
 This relation is universal.
 
-189928 nodes (6%) are attached to their parents as `root`.
+189928 nodes (5%) are attached to their parents as `root`.
 
 189928 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.94869108293669.
+Average distance between parent and child is 8.08563245019165.
 
 The following 15 pairs of parts of speech are connected with `root`: -<tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> (150192; 79% instances), -<tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (17170; 9% instances), -<tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (9411; 5% instances), -<tt><a href="de_hdt-pos-AUX.html">AUX</a></tt> (6506; 3% instances), -<tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (3852; 2% instances), -<tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (1340; 1% instances), -<tt><a href="de_hdt-pos-X.html">X</a></tt> (828; 0% instances), -<tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (467; 0% instances), -<tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (89; 0% instances), -<tt><a href="de_hdt-pos-INTJ.html">INTJ</a></tt> (25; 0% instances), -<tt><a href="de_hdt-pos-CCONJ.html">CCONJ</a></tt> (16; 0% instances), -<tt><a href="de_hdt-pos-PART.html">PART</a></tt> (15; 0% instances), -<tt><a href="de_hdt-pos-ADP.html">ADP</a></tt> (12; 0% instances), -<tt><a href="de_hdt-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), -<tt><a href="de_hdt-pos-DET.html">DET</a></tt> (1; 0% instances).
 
@@ -39,8 +39,9 @@ The following 15 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0 2 root	color:blue
 1	Europäischer	europäisch	ADJ	ADJA	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	2	amod	_	_
 2	Fernsehsender	Sender	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	0	root	_	_
-3	im	im	ADP	APPRART	AdpType=Prep|Case=Dat|PronType=Art	4	case	_	_
-4	Internet	Internet	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing|Person=3	2	nmod	_	_
+3	in	in	ADP	APPR	AdpType=Prep|Case=Dat	5	case	_	_
+4	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	5	det	_	_
+5	Internet	Internet	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing|Person=3	2	nmod	_	_
 
 ~~~
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `flat`: <tt><a href="en_ewt-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-1909 nodes (1%) are attached to their parents as `flat`.
+1966 nodes (1%) are attached to their parents as `flat`.
 
-1909 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.25301204819277.
+1966 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.30671414038657.
 
-The following 8 pairs of parts of speech are connected with `flat`: <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (1835; 96% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (57; 3% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `flat`: <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (1835; 93% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (57; 3% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (51; 3% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt>-<tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt>-<tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_ewt-pos-X.html">X</a></tt>-<tt><a href="en_ewt-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -57,23 +57,18 @@ The following 8 pairs of parts of speech are connected with `flat`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 flat	color:blue
-1	Shall	shall	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
-2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
-3	censor	censor	VERB	VB	VerbForm=Inf	0	root	0:root	_
-4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
-5	works	work	NOUN	NNS	Number=Plur	3	obj	3:obj	_
-6	of	of	ADP	IN	_	8	case	8:case	_
-7	poet	poet	NOUN	NN	Number=Sing	8	compound	8:compound	_
-8	Charles	charle	NOUN	NNS	Number=Plur	5	nmod	5:nmod:of	_
-9	Baudelaire	Baudelaire	PROPN	NNP	Number=Sing	8	flat	8:flat	_
-10	as	as	ADV	RB	_	3	advmod	3:advmod	_
-11	well	well	ADV	RB	Degree=Pos	10	fixed	10:fixed	SpaceAfter=No
-12	?	?	PUNCT	.	_	3	punct	3:punct	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 flat	color:blue
+1	-	-	PUNCT	NFP	_	2	punct	2:punct	_
+2	ENRON-CPS	enron-cps	NOUN	GW	_	0	root	0:root	_
+3	(	(	X	GW	_	2	flat	2:flat	SpaceAfter=No
+4	GISB	gisb	X	GW	_	2	flat	2:flat	_
+5	rev1	rev1	X	GW	_	2	flat	2:flat	SpaceAfter=No
+6	)	)	X	GW	_	2	flat	2:flat	SpaceAfter=No
+7	.doc	.doc	X	NN	Number=Sing	2	flat	2:flat	_
 
 ~~~
 

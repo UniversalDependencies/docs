@@ -26,4 +26,4 @@ aux:pot(сулавны, позь)
 aux:neg(сулавны, оз)
 ~~~
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:53 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:41 CET 2021 -->

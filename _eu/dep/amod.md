@@ -57,4 +57,4 @@ name(Derartu-8, Tuluk-9)
 nsubj(osatu-6, Derartu-8)
 punct(osatu-6, .-10)
 ~~~
-<!-- Interlanguage links updated Pá kvě 14 11:08:50 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:38 CET 2021 -->

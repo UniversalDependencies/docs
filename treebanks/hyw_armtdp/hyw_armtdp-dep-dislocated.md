@@ -8,33 +8,29 @@ udver: '2'
 
 This relation is universal.
 
-57 nodes (0%) are attached to their parents as `dislocated`.
+79 nodes (0%) are attached to their parents as `dislocated`.
 
-38 instances of `dislocated` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.28070175438596.
+58 instances of `dislocated` (73%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.70886075949367.
 
-The following 13 pairs of parts of speech are connected with `dislocated`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (26; 46% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (6; 11% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (5; 9% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (5; 9% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (1; 2% instances).
+The following 19 pairs of parts of speech are connected with `dislocated`: <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (34; 43% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (7; 9% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (6; 8% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (6; 8% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (5; 6% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (3; 4% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (3; 4% instances), <tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hyw_armtdp-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="hyw_armtdp-pos-PRON.html">PRON</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="hyw_armtdp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="hyw_armtdp-pos-VERB.html">VERB</a></tt>-<tt><a href="hyw_armtdp-pos-X.html">X</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 4 dislocated	color:blue
-1	Քաջակորով	քաջակորով	ADJ	_	_	4	amod	_	Translit=K’aǰakorov|LTranslit=k’aǰakorov
-2	ու	ու	CCONJ	_	_	3	cc	_	Translit=ow|LTranslit=ow
-3	մեծ	մեծ	ADJ	_	Degree=Pos	1	conj	_	Translit=meç|LTranslit=meç
-4	ձայն	ձայն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	8	dislocated	_	Translit=jayn|LTranslit=jayn
-5	մը	մը	DET	_	PronType=Art	4	det	_	Translit=më|LTranslit=më|SpaceAfter=No
-6	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
-7	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	8	aux	_	Translit=kë|LTranslit=kë
-8	գոռար	գոռալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Mid	0	root	_	Translit=goṙar|LTranslit=goṙal
-9	ռազմի	ռազմ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	8	obl	_	Translit=ṙazmi|LTranslit=ṙazm
-10	ու	ու	CCONJ	_	_	11	cc	_	Translit=ow|LTranslit=ow
-11	գուպարի	գուպար	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	9	conj	_	Translit=gowpari|LTranslit=gowpar
-12	մասին	մասին	ADP	_	AdpType=Post	9	case	_	Translit=masin|LTranslit=masin|SpaceAfter=No
-13	։	։	PUNCT	_	_	8	punct	_	Translit=.|LTranslit=.
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 dislocated	color:blue
+1	Ամէն	ամէն	DET	_	PronType=Tot	2	det	_	Translit=Amēn|LTranslit=amēn
+2	արտ	արտ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	5	nsubj	_	Translit=art|LTranslit=art
+3	անհատականութիւն	անհատականութիւն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	5	obj	_	Translit=anhatakanowt’iwn|LTranslit=anhatakanowt’iwn
+4	մը	մը	DET	_	PronType=Art	3	det	_	Translit=më|LTranslit=më
+5	ունի	ունիմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=owni|LTranslit=ownim
+6	ու	ու	CCONJ	_	_	7	cc	_	Translit=ow|LTranslit=ow
+7	դէմք	դէմք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	5	dislocated	_	Translit=dēmk’|LTranslit=dēmk’
+8	մը	մը	DET	_	PronType=Art	7	det	_	Translit=më|LTranslit=më|SpaceAfter=No
+9	։	։	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

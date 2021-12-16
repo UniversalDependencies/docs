@@ -147,6 +147,7 @@
   - label: 'la/dep'
 - label: 'advcl:relcl'
   languages:
+  - label: 'hy/dep'
   - label: 'hyw/dep'
   - label: 'pl/dep'
 - label: 'advcl:sp'
@@ -259,6 +260,7 @@
   languages:
   - label: 'apu/dep'
   - label: 'kpv/dep'
+  - label: 'la/dep'
   - label: 'u/dep'
 - label: 'advmod:lmp'
   languages:
@@ -310,6 +312,7 @@
   - label: 'apu/dep'
   - label: 'koi/dep'
   - label: 'kpv/dep'
+  - label: 'la/dep'
   - label: 'mdf/dep'
   - label: 'myv/dep'
   - label: 'ro/dep'
@@ -442,6 +445,7 @@
 - label: 'aux:aspect'
   languages:
   - label: 'kpv/dep'
+  - label: 'myv/dep'
 - label: 'aux:caus'
   languages:
   - label: 'fr/dep'
@@ -454,12 +458,16 @@
   languages:
   - label: 'koi/dep'
   - label: 'kpv/dep'
+  - label: 'mdf/dep'
   - label: 'myv/dep'
   - label: 'pl/dep'
 - label: 'aux:ex'
   languages:
   - label: 'hy/dep'
   - label: 'hyw/dep'
+- label: 'aux:exhort'
+  languages:
+  - label: 'apu/dep'
 - label: 'aux:imp'
   languages:
   - label: 'myv/dep'
@@ -468,6 +476,7 @@
   languages:
   - label: 'kpv/dep'
   - label: 'mdf/dep'
+  - label: 'myv/dep'
   - label: 'sms/dep'
 - label: 'aux:neg'
   languages:
@@ -514,6 +523,7 @@
   - label: 'kpv/dep'
 - label: 'aux:q'
   languages:
+  - label: 'mdf/dep'
   - label: 'myv/dep'
   - label: 'qtd/dep'
   - label: 'tr/dep'
@@ -558,6 +568,7 @@
 - label: 'case:adv'
   languages:
   - label: 'id/dep'
+  - label: 'jv/dep'
 - label: 'case:aff'
   languages:
   - label: 'bej/dep'
@@ -738,6 +749,7 @@
   languages:
   - label: 'hy/dep'
   - label: 'tr/dep'
+  - label: 'tt/dep'
   - label: 'u/dep'
 - label: 'compound:nn'
   languages:
@@ -1290,10 +1302,17 @@
   - label: 'ru/dep'
   - label: 'tr/dep'
   - label: 'u/dep'
+- label: 'flat:frac'
+  languages:
+  - label: 'hyw/dep'
+- label: 'flat:gov'
+  languages:
+  - label: 'la/dep'
 - label: 'flat:name'
   languages:
   - label: 'fr/dep'
   - label: 'ga/dep'
+  - label: 'hy/dep'
   - label: 'it/dep'
   - label: 'no/dep'
   - label: 'ru/dep'
@@ -1305,6 +1324,7 @@
   - label: 'kpv/dep'
 - label: 'flat:range'
   languages:
+  - label: 'hy/dep'
   - label: 'hyw/dep'
   - label: 'uk/dep'
 - label: 'flat:repeat'
@@ -1371,6 +1391,7 @@
   - label: 'fr/dep'
   - label: 'hy/dep'
   - label: 'hyw/dep'
+  - label: 'pcm/dep'
 - label: 'iobj:appl'
   languages:
   - label: 'wo/dep'
@@ -1429,6 +1450,7 @@
   - label: 'zh/dep'
 - label: 'mark:adv'
   languages:
+  - label: 'sjo/dep'
   - label: 'yue/dep'
   - label: 'zh/dep'
 - label: 'mark:advmod'
@@ -1437,6 +1459,9 @@
 - label: 'mark:aff'
   languages:
   - label: 'bej/dep'
+- label: 'mark:plur'
+  languages:
+  - label: 'sjo/dep'
 - label: 'mark:prt'
   languages:
   - label: 'ga/dep'
@@ -1447,6 +1472,7 @@
   - label: 'he/dep'
 - label: 'mark:rel'
   languages:
+  - label: 'sjo/dep'
   - label: 'yue/dep'
   - label: 'zh/dep'
 - label: 'neg'
@@ -1541,6 +1567,7 @@
 - label: 'nmod:lmod'
   languages:
   - label: 'id/dep'
+  - label: 'jv/dep'
   - label: 'koi/dep'
   - label: 'kpv/dep'
   - label: 'mdf/dep'
@@ -1572,6 +1599,7 @@
   - label: 'ga/dep'
   - label: 'hy/dep'
   - label: 'id/dep'
+  - label: 'jv/dep'
   - label: 'pcm/dep'
   - label: 'sv/dep'
   - label: 'swl/dep'
@@ -1599,6 +1627,7 @@
   languages:
   - label: 'en/dep'
   - label: 'id/dep'
+  - label: 'jv/dep'
   - label: 'mdf/dep'
   - label: 'u/dep'
 - label: 'nsubj'
@@ -1707,6 +1736,7 @@
   - label: 'hy/dep'
   - label: 'id/dep'
   - label: 'it/dep'
+  - label: 'jv/dep'
   - label: 'no/dep'
   - label: 'pt/dep'
   - label: 'ro/dep'
@@ -1820,6 +1850,7 @@
   languages:
   - label: 'apu/dep'
   - label: 'fr/dep'
+  - label: 'hy/dep'
   - label: 'tl/dep'
 - label: 'obj:appl'
   languages:
@@ -1932,6 +1963,7 @@
   - label: 'apu/dep'
   - label: 'koi/dep'
   - label: 'kpv/dep'
+  - label: 'la/dep'
   - label: 'sms/dep'
   - label: 'u/dep'
 - label: 'obl:lmp'
@@ -1991,6 +2023,8 @@
   - label: 'en/dep'
   - label: 'ga/dep'
   - label: 'id/dep'
+  - label: 'jv/dep'
+  - label: 'la/dep'
   - label: 'tr/dep'
   - label: 'u/dep'
   - label: 'ug/dep'
@@ -2088,6 +2122,7 @@
 - label: 'parataxis:mod'
   languages:
   - label: 'bej/dep'
+  - label: 'pcm/dep'
 - label: 'parataxis:newsent'
   languages:
   - label: 'uk/dep'

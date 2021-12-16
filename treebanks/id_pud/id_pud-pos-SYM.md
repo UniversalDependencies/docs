@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.138347).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.137196).
 
 The 1st highest number of forms (1) was observed with the lemma “$”: <em>$</em>.
 
@@ -40,15 +40,15 @@ Parents of `SYM` nodes belong to 5 different parts of speech: <tt><a href="id_pu
 
 0 (0%) `SYM` nodes are leaves.
 
-9 (24%) `SYM` nodes have one child.
+8 (21%) `SYM` nodes have one child.
 
-15 (39%) `SYM` nodes have two children.
+16 (42%) `SYM` nodes have two children.
 
 14 (37%) `SYM` nodes have three or more children.
 
 The highest child degree of a `SYM` node is 6.
 
-Children of `SYM` nodes are attached using 14 different relations: <tt><a href="id_pud-dep-nummod.html">nummod</a></tt> (38; 40% instances), <tt><a href="id_pud-dep-nmod.html">nmod</a></tt> (12; 13% instances), <tt><a href="id_pud-dep-advmod.html">advmod</a></tt> (11; 12% instances), <tt><a href="id_pud-dep-punct.html">punct</a></tt> (10; 11% instances), <tt><a href="id_pud-dep-nsubj.html">nsubj</a></tt> (4; 4% instances), <tt><a href="id_pud-dep-case.html">case</a></tt> (3; 3% instances), <tt><a href="id_pud-dep-conj.html">conj</a></tt> (3; 3% instances), <tt><a href="id_pud-dep-cop.html">cop</a></tt> (3; 3% instances), <tt><a href="id_pud-dep-flat.html">flat</a></tt> (3; 3% instances), <tt><a href="id_pud-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="id_pud-dep-parataxis.html">parataxis</a></tt> (2; 2% instances), <tt><a href="id_pud-dep-dislocated.html">dislocated</a></tt> (1; 1% instances), <tt><a href="id_pud-dep-nmod-lmod.html">nmod:lmod</a></tt> (1; 1% instances), <tt><a href="id_pud-dep-nmod-tmod.html">nmod:tmod</a></tt> (1; 1% instances)
+Children of `SYM` nodes are attached using 15 different relations: <tt><a href="id_pud-dep-nummod.html">nummod</a></tt> (38; 40% instances), <tt><a href="id_pud-dep-advmod.html">advmod</a></tt> (11; 12% instances), <tt><a href="id_pud-dep-nmod.html">nmod</a></tt> (11; 12% instances), <tt><a href="id_pud-dep-punct.html">punct</a></tt> (10; 11% instances), <tt><a href="id_pud-dep-nsubj.html">nsubj</a></tt> (4; 4% instances), <tt><a href="id_pud-dep-case.html">case</a></tt> (3; 3% instances), <tt><a href="id_pud-dep-conj.html">conj</a></tt> (3; 3% instances), <tt><a href="id_pud-dep-cop.html">cop</a></tt> (3; 3% instances), <tt><a href="id_pud-dep-flat.html">flat</a></tt> (3; 3% instances), <tt><a href="id_pud-dep-cc.html">cc</a></tt> (2; 2% instances), <tt><a href="id_pud-dep-det.html">det</a></tt> (2; 2% instances), <tt><a href="id_pud-dep-parataxis.html">parataxis</a></tt> (2; 2% instances), <tt><a href="id_pud-dep-dislocated.html">dislocated</a></tt> (1; 1% instances), <tt><a href="id_pud-dep-nmod-lmod.html">nmod:lmod</a></tt> (1; 1% instances), <tt><a href="id_pud-dep-nmod-tmod.html">nmod:tmod</a></tt> (1; 1% instances)
 
-Children of `SYM` nodes belong to 11 different parts of speech: <tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (38; 40% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (17; 18% instances), <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (11; 12% instances), <tt><a href="id_pud-pos-PUNCT.html">PUNCT</a></tt> (10; 11% instances), <tt><a href="id_pud-pos-SYM.html">SYM</a></tt> (5; 5% instances), <tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (3; 3% instances), <tt><a href="id_pud-pos-AUX.html">AUX</a></tt> (3; 3% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
+Children of `SYM` nodes belong to 12 different parts of speech: <tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (38; 40% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (16; 17% instances), <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (11; 12% instances), <tt><a href="id_pud-pos-PUNCT.html">PUNCT</a></tt> (10; 11% instances), <tt><a href="id_pud-pos-SYM.html">SYM</a></tt> (5; 5% instances), <tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (3; 3% instances), <tt><a href="id_pud-pos-AUX.html">AUX</a></tt> (3; 3% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="id_pud-pos-CCONJ.html">CCONJ</a></tt> (2; 2% instances), <tt><a href="id_pud-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="id_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances)
 

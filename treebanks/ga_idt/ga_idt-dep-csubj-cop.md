@@ -26,7 +26,7 @@ The following 18 pairs of parts of speech are connected with `csubj:cop`: <tt><a
 1	Shíl	síl	VERB	VTI	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
 2	siad	siad	PRON	Pers	Number=Plur|Person=3	1	nsubj	_	_
 3	gur	is	AUX	Cop	Tense=Pres|VerbForm=Cop	4	cop	_	_
-4	chóir	cóir	NOUN	Noun	Case=NomAcc|Form=Len|Gender=Fem|Number=Sing	1	ccomp	_	_
+4	chóir	cóir	NOUN	Noun	Case=Nom|Form=Len|Gender=Fem|Number=Sing	1	ccomp	_	_
 5	daobhtha	do	ADP	Pron	Number=Plur|Person=3	4	obl:prep	_	_
 6	é	é	PRON	Pers	Gender=Masc|Number=Sing|Person=3	8	obj	_	_
 7	a	a	PART	Inf	PartType=Inf	8	mark	_	_
@@ -43,7 +43,7 @@ The following 18 pairs of parts of speech are connected with `csubj:cop`: <tt><a
 # visual-style 7	fgColor:white
 # visual-style 7 11 csubj:cop	color:blue
 1	Bhí	bí	VERB	PastInd	Form=Len|Mood=Ind|Tense=Past	0	root	_	_
-2	piseog	piseog	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	1	nsubj	_	_
+2	piseog	piseog	NOUN	Noun	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
 3	ag	ag	ADP	Simp	_	4	case	_	_
 4	baint	baint	NOUN	Noun	VerbForm=Vnoun	1	xcomp	_	_
 5	leis	le	ADP	Prep	Gender=Masc|Number=Sing|Person=3	4	obl:prep	_	_
@@ -68,8 +68,8 @@ The following 18 pairs of parts of speech are connected with `csubj:cop`: <tt><a
 2	gnách	gnách	ADJ	Adj	Degree=Pos	0	root	_	_
 3	go	go	PART	Vb	PartType=Cmpl	4	mark:prt	_	_
 4	mbíonn	bí	VERB	PresImp	Aspect=Hab|Form=Ecl|Mood=Ind|Tense=Pres	2	csubj:cop	_	_
-5	teocht	teocht	NOUN	Noun	Case=NomAcc|Gender=Fem|Number=Sing	4	nsubj	_	_
-6	ard	ard	ADJ	Adj	Case=NomAcc|Gender=Fem|Number=Sing	5	amod	_	_
+5	teocht	teocht	NOUN	Noun	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+6	ard	ard	ADJ	Adj	Case=Nom|Gender=Fem|Number=Sing	5	amod	_	_
 7	iontu	i	ADP	Prep	Number=Plur|Person=3	4	obl:prep	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	2	punct	_	_
 

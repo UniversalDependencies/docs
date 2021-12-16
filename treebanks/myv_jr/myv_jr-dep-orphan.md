@@ -23,7 +23,7 @@ The following 13 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 6	fgColor:white
 # visual-style 6 5 orphan	color:blue
 1	—	—	PUNCT	PUNCT	_	6	punct	_	_
-2	Микол	Микол	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|Gender=Masc|NameType=Giv|Number=Sing	6	orphan	_	GTtags=Ant_Mal,Prop,Sg,Nom,Indef|Gloss=Mikol|SpaceAfter=No
+2	Микол	Микол	PROPN	N	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	6	orphan	_	GTtags=Ant_Mal,Prop,Sg,Nom,Indef|Gloss=Mikol|SpaceAfter=No
 3	,	,	PUNCT	CLB	_	2	punct	_	_
 4	тон	тон	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	orphan	_	GTtags=Pers,Sg2,Nom|Gloss=you-sg2
 5	умок	умок	ADV	Adv	AdvType=Tim	6	orphan	_	GTtags=Temp|Gloss=long-time-ago

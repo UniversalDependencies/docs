@@ -27,9 +27,9 @@ The following 11 pairs of parts of speech are connected with `obl:cmpr`: <tt><a 
 2	demonstrabitur	demonstro	VERB	vp1ifs3	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	_
 3	terram	terra	NOUN	sfs1a	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	8	nsubj	_	_
 4	hanc	hic	DET	dpfsa	Case=Acc|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Dem	3	det	_	_
-5	emergentem	emergo	VERB	va3ppsfa	Aspect=Imp|Case=Acc|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[noun]=IndEurI|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	acl	_	_
-6	esse	sum	AUX	va5fp	Aspect=Imp|InflClass=LatAnom|InflClass[noun]=Ind|Tense=Pres|VerbForm=Inf	8	cop	_	_
-7	ubique	ubique	ADV	r	Emphatic=Yes|PronType=Rel	8	advmod	_	_
+5	emergentem	emergo	VERB	va3ppsfa	Aspect=Imp|Case=Acc|Degree=Pos|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurI|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	acl	_	_
+6	esse	sum	AUX	va5fp	Aspect=Imp|InflClass=LatAnom|InflClass[nominal]=Ind|Tense=Pres|VerbForm=Inf	8	cop	_	_
+7	ubique	ubique	ADV	r	Form=Emp|PronType=Rel	8	advmod	_	_
 8	altiorem	altus	ADJ	afs1ac	Case=Acc|Degree=Cmp|Gender=Fem|InflClass=IndEurA|Number=Sing|VerbForm=Part	2	csubj:pass	_	_
 9	totali	totalis	ADJ	afs2b	Case=Abl|Degree=Pos|Gender=Fem|InflClass=IndEurI|Number=Sing	10	amod	_	_
 10	superficie	superficies	NOUN	sfs5b	Case=Abl|Gender=Fem|InflClass=IndEurE|Number=Sing	8	obl:cmpr	_	_
@@ -45,7 +45,7 @@ The following 11 pairs of parts of speech are connected with `obl:cmpr`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 11 obl:cmpr	color:blue
-1	Itaque	itaque	PART	co	Emphatic=Yes|PronType=Dem	13	discourse	_	_
+1	Itaque	itaque	PART	co	Form=Emp|PronType=Dem	13	discourse	_	_
 2	illud	ille	DET	dpnsn	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	14	nsubj	_	_
 3	“	“	PUNCT	Pu	_	4	punct	_	SpaceAfter=No
 4	patrocinium	patrocinium	NOUN	sns2n	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	14	xcomp:pred	_	SpaceAfter=No
@@ -58,7 +58,7 @@ The following 11 pairs of parts of speech are connected with `obl:cmpr`: <tt><a 
 11	imperium	imperium	NOUN	sns2n	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	4	obl:cmpr	_	SpaceAfter=No
 12	”	”	PUNCT	Pu	_	11	punct	_	_
 13	poterat	possum	VERB	va5iis3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-14	nominari	nomino	VERB	vp1fp	Aspect=Imp|InflClass=LatA|InflClass[noun]=Ind|Tense=Pres|VerbForm=Inf|Voice=Pass	13	csubj:pass	_	SpaceAfter=No
+14	nominari	nomino	VERB	vp1fp	Aspect=Imp|InflClass=LatA|InflClass[nominal]=Ind|Tense=Pres|VerbForm=Inf|Voice=Pass	13	csubj:pass	_	SpaceAfter=No
 15	»	»	PUNCT	Pu	_	13	punct	_	SpaceAfter=No
 16	.	.	PUNCT	Pu	_	13	punct	_	_
 
@@ -78,8 +78,8 @@ The following 11 pairs of parts of speech are connected with `obl:cmpr`: <tt><a 
 5	non	non	PART	r	Polarity=Neg	6	advmod:neg	_	_
 6	fiat	fio	VERB	vs5cps3	Aspect=Imp|InflClass=LatI2|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	35	advcl	_	_
 7	circa	circa	ADP	e	AdpType=Prep	9	case	_	_
-8	idem	idem	DET	dpnsa	Case=Acc|Emphatic=Yes|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Emp	9	det	_	_
-9	obiectum	obiectum	NOUN	sms4a	Case=Acc|Gender=Masc|InflClass=IndEurU|Number=Sing|VerbForm=Part	6	obl	_	SpaceAfter=No
+8	idem	idem	DET	dpnsa	Case=Acc|Form=Emp|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	9	det	_	_
+9	obiectum	obiectum	NOUN	sms4a	Case=Acc|Gender=Masc|InflClass=IndEurU|Number=Sing|VerbForm=Sup	6	obl	_	SpaceAfter=No
 10	,	,	PUNCT	Pu	_	13	punct	_	_
 11	sed	sed	CCONJ	co	_	13	cc	_	_
 12	circa	circa	ADP	e	AdpType=Prep	13	case	_	_
@@ -99,9 +99,9 @@ The following 11 pairs of parts of speech are connected with `obl:cmpr`: <tt><a 
 26	(	(	PUNCT	Pu	_	32	punct	_	SpaceAfter=No
 27	quia	quia	SCONJ	cs	PronType=Rel	32	mark	_	_
 28	nichil	nihil	PRON	dinsnn	Case=Nom|Gender=Neut|InflClass=Ind|Number=Sing|PronType=Neg	32	nsubj	_	_
-29	eodem	idem	DET	ddesnb	Case=Abl|Emphatic=Yes|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Emp	30	obl:cmpr	_	_
+29	eodem	idem	DET	ddesnb	Case=Abl|Form=Emp|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	30	obl:cmpr	_	_
 30	dignius	dignus	ADJ	ans1nc	Case=Nom|Degree=Cmp|Gender=Neut|InflClass=IndEurX|Number=Sing	32	xcomp	_	_
-31	esse	sum	AUX	va5fp	Aspect=Imp|InflClass=LatAnom|InflClass[noun]=Ind|Tense=Pres|VerbForm=Inf	30	cop	_	_
+31	esse	sum	AUX	va5fp	Aspect=Imp|InflClass=LatAnom|InflClass[nominal]=Ind|Tense=Pres|VerbForm=Inf	30	cop	_	_
 32	potest	possum	VERB	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	parataxis	_	SpaceAfter=No
 33	)	)	PUNCT	Pu	_	32	punct	_	SpaceAfter=No
 34	,	,	PUNCT	Pu	_	6	punct	_	_

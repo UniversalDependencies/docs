@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal but the values `Hab` are language-specific.
 It occurs with 2 different values: `Hab`, `Perf`.
 
-6 tokens (0%) have a non-empty value of `Aspect`.
-6 types (0%) occur at least once with a non-empty value of `Aspect`.
-6 lemmas (1%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 1 part-of-speech tags: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (6; 0% instances).
+9 tokens (0%) have a non-empty value of `Aspect`.
+9 types (1%) occur at least once with a non-empty value of `Aspect`.
+9 lemmas (1%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 1 part-of-speech tags: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (9; 0% instances).
 
 ### `VERB`
 
-6 <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Aspect`.
+9 <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="mdf_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="mdf_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="mdf_jr-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4; 67%), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (4; 67%), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (4; 67%), <tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (4; 67%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="mdf_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="mdf_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="mdf_jr-feat-Valency.html">Valency</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (7; 78%), <tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (7; 78%), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6; 67%), <tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (5; 56%), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (5; 56%), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (5; 56%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Hab` (2; 33% of non-empty `Aspect`): <em>каннель, лезнель</em>
-* `Perf` (4; 67% of non-empty `Aspect`): <em>содафоль, таргозьфтольхть, тиф, эйндаф</em>
-* `EMPTY` (500): <em>марявсь, варжакстсь, кармась, рамась, тусь, арась, ащи, кармасть, касан, куцема</em>
+* `Hab` (2; 22% of non-empty `Aspect`): <em>каннель, лезнель</em>
+* `Perf` (7; 78% of non-empty `Aspect`): <em>анеляф, максф, содафоль, таргозьфтольхть, тиф, шапфт, эйндаф</em>
+* `EMPTY` (581): <em>марявсь, варжакстсь, кармась, рамась, сась, тусь, арась, ащи, кармасть, касан</em>
 
 ## Relations with Agreement in `Aspect`
 

@@ -22,13 +22,13 @@ The following 2 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 fixed	color:blue
-1	கோயிலுக்கு	கோயில்	NOUN	_	Case=Dat|Number=Sing|Person=3	6	obl	6:obl	Translit=kōyilukku|LTranslit=kōyil
-2	எதிர்த்தார்	எதிர்	ADP	_	AdpType=Post	1	case	1:case	Translit=etirttār|LTranslit=etir
-3	போல	போல	ADP	_	_	2	fixed	2:fixed	Translit=pōla|LTranslit=pōla
-4	ஒரு	ஒன்று	NUM	_	_	6	nummod	6:nummod	Translit=oru|LTranslit=oṉṟu
-5	குளம்	குளம்	NOUN	_	Case=Nom|Number=Sing|Person=3	6	nsubj	6:nsubj	Translit=kuḷam|LTranslit=kuḷam
-6	இருக்கிறது	இரு	VERB	_	Gender=Neut|Number=Sing|Person=3|Tense=Pres	0	root	0:root	Translit=irukkiṟatu|LTranslit=iru
-7	.	.	PUNCT	_	PunctType=Peri	6	punct	6:punct	Translit=.|LTranslit=.
+1	கோயிலுக்கு	கோயில்	NOUN	_	Case=Dat|Number=Sing|Person=3	6	obl	_	Translit=kōyilukku|LTranslit=kōyil
+2	எதிர்த்தார்	எதிர்	ADP	_	AdpType=Post	1	case	_	Translit=etirttār|LTranslit=etir
+3	போல	போல	ADP	_	_	2	fixed	_	Translit=pōla|LTranslit=pōla
+4	ஒரு	ஒன்று	NUM	_	_	6	nummod	_	Translit=oru|LTranslit=oṉṟu
+5	குளம்	குளம்	NOUN	_	Case=Nom|Number=Sing|Person=3	6	nsubj	_	Translit=kuḷam|LTranslit=kuḷam
+6	இருக்கிறது	இரு	VERB	_	Gender=Neut|Number=Sing|Person=3|Tense=Pres	0	root	_	Translit=irukkiṟatu|LTranslit=iru
+7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	Translit=.|LTranslit=.
 
 ~~~
 
@@ -39,14 +39,14 @@ The following 2 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 fixed	color:blue
-1	அந்த	அந்த	DET	_	_	2	det	2:det	Translit=anta|LTranslit=anta
-2	வீட்டுக்கு	வீடு	NOUN	_	Case=Dat|Number=Sing|Person=3	7	obl	7:obl	Translit=vīṭṭukku|LTranslit=vīṭu
-3	அடுத்தால்	அடுத்து	ADP	_	AdpType=Post	1	case	1:case	Translit=aṭuttāl|LTranslit=aṭuttu
-4	போல	போல	ADP	_	_	2	fixed	2:fixed	Translit=pōla|LTranslit=pōla
-5	ஒரு	ஒன்று	NUM	_	_	6	nummod	6:nummod	Translit=oru|LTranslit=oṉṟu
-6	கடை	கடை	NOUN	_	Case=Nom|Number=Sing|Person=3	7	nsubj	7:nsubj	Translit=kaṭai|LTranslit=kaṭai
-7	இருக்கிறது	இரு	VERB	_	Gender=Neut|Number=Sing|Person=3|Tense=Pres	0	root	0:root	Translit=irukkiṟatu|LTranslit=iru
-8	.	.	PUNCT	_	PunctType=Peri	7	punct	7:punct	Translit=.|LTranslit=.
+1	அந்த	அந்த	DET	_	_	2	det	_	Translit=anta|LTranslit=anta
+2	வீட்டுக்கு	வீடு	NOUN	_	Case=Dat|Number=Sing|Person=3	7	obl	_	Translit=vīṭṭukku|LTranslit=vīṭu
+3	அடுத்தால்	அடுத்து	ADP	_	AdpType=Post	1	case	_	Translit=aṭuttāl|LTranslit=aṭuttu
+4	போல	போல	ADP	_	_	2	fixed	_	Translit=pōla|LTranslit=pōla
+5	ஒரு	ஒன்று	NUM	_	_	6	nummod	_	Translit=oru|LTranslit=oṉṟu
+6	கடை	கடை	NOUN	_	Case=Nom|Number=Sing|Person=3	7	nsubj	_	Translit=kaṭai|LTranslit=kaṭai
+7	இருக்கிறது	இரு	VERB	_	Gender=Neut|Number=Sing|Person=3|Tense=Pres	0	root	_	Translit=irukkiṟatu|LTranslit=iru
+8	.	.	PUNCT	_	PunctType=Peri	7	punct	_	Translit=.|LTranslit=.
 
 ~~~
 

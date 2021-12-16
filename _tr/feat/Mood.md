@@ -241,4 +241,4 @@ A combination of the desiderative and potential suffixes yields the meaning of �
 * Aslı Göksel and Celia Kerslake. _Turkish: A Comprehensive Grammar_.
   London: Routledge, 2005.
 
-<!-- Interlanguage links updated Pá kvě 14 11:08:34 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:23 CET 2021 -->

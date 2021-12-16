@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_German-PUD: POS Tags: `DET`
 
-There are 37 `DET` lemmas (1%), 78 `DET` types (1%) and 2843 `DET` tokens (13%).
+There are 37 `DET` lemmas (1%), 78 `DET` types (1%) and 2846 `DET` tokens (13%).
 Out of 16 observed tags, the rank of `DET` is: 8 in number of lemmas, 7 in number of types and 2 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>der, ein, dies, viel, kein, ander, jed, einige, mehr, beide</em>
 
 The 10 most frequent `DET` types:  <em>der, die, dem, den, das, des, eine, ein, einer, einem</em>
 
-The 10 most frequent ambiguous lemmas: <em>der</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 2118, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 236), <em>ein</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 411, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 20, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 11, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 1), <em>viel</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 35, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 2), <em>ander</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 21, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>jed</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 17, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 3), <em>einige</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 15, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 2), <em>mehr</em> (<tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 22, <tt><a href="de_pud-pos-DET.html">DET</a></tt> 14, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 6), <em>beide</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 12, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>weit</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 11, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>alle</em> (<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 16, <tt><a href="de_pud-pos-DET.html">DET</a></tt> 10)
+The 10 most frequent ambiguous lemmas: <em>der</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 2121, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 236), <em>ein</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 411, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 20, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 11, <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> 1), <em>viel</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 35, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 2), <em>ander</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 21, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>jed</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 17, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 3), <em>einige</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 15, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 2), <em>mehr</em> (<tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 22, <tt><a href="de_pud-pos-DET.html">DET</a></tt> 14, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 6), <em>beide</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 12, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>weit</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 11, <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>alle</em> (<tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 16, <tt><a href="de_pud-pos-DET.html">DET</a></tt> 10)
 
-The 10 most frequent ambiguous types:  <em>der</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 541, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 65), <em>die</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 474, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 131), <em>dem</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 399, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 7), <em>den</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 201, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 1), <em>das</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 143, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 17), <em>des</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 131, <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>eine</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 122, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 5), <em>ein</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 98, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 11), <em>einer</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 57, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 9), <em>einem</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 46, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>der</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 541, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 65), <em>die</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 474, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 131), <em>dem</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 402, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 7), <em>den</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 201, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 1), <em>das</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 143, <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 17), <em>des</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 131, <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>eine</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 122, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 5), <em>ein</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 98, <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> 11), <em>einer</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 57, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 9), <em>einem</em> (<tt><a href="de_pud-pos-DET.html">DET</a></tt> 46, <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> 1)
 
 
 * <em>der</em>
@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>der</em> (<tt><a href="de_pud-pos-DET
   * <tt><a href="de_pud-pos-DET.html">DET</a></tt> 474: <em>Vielleicht war <b>die</b> Kleiderordnung zu bieder .</em>
   * <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 131: <em>Normalerweise sind es Künstler , <b>die</b> eine Menge Sachen machen wollen .</em>
 * <em>dem</em>
-  * <tt><a href="de_pud-pos-DET.html">DET</a></tt> 399: <em>Er hat seine harten Kanten in <b>dem</b> Spiel , aber auch weiche Hände .</em>
+  * <tt><a href="de_pud-pos-DET.html">DET</a></tt> 402: <em>Er hat seine harten Kanten in <b>dem</b> Spiel , aber auch weiche Hände .</em>
   * <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> 7: <em>North Carolina ist der Ort , bei <b>dem</b> sich in dieser Wahl alles entscheidet .</em>
 * <em>den</em>
   * <tt><a href="de_pud-pos-DET.html">DET</a></tt> 201: <em>Vor diesem Hintergrund ist es sinnvoll , über <b>den</b> Handel zu schimpfen .</em>
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>der</em> (<tt><a href="de_pud-pos-DET
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.108108 (the average of all parts of speech is 1.195571).
+The form / lemma ratio of `DET` is 2.108108 (the average of all parts of speech is 1.195641).
 
 The 1st highest number of forms (9) was observed with the lemma “der”: <em>das, dem, den, denen, der, deren, des, dessen, die</em>.
 
@@ -59,22 +59,22 @@ The 2nd highest number of forms (6) was observed with the lemma “dies”: <em>
 
 The 3rd highest number of forms (6) was observed with the lemma “ein”: <em>ein, eine, einem, einen, einer, eines</em>.
 
-`DET` occurs with 5 features: <tt><a href="de_pud-feat-Person.html">Person</a></tt> (2842; 100% instances), <tt><a href="de_pud-feat-Number.html">Number</a></tt> (2841; 100% instances), <tt><a href="de_pud-feat-Case.html">Case</a></tt> (2840; 100% instances), <tt><a href="de_pud-feat-Definite.html">Definite</a></tt> (2837; 100% instances), <tt><a href="de_pud-feat-Gender.html">Gender</a></tt> (2781; 98% instances)
+`DET` occurs with 6 features: <tt><a href="de_pud-feat-Number.html">Number</a></tt> (2844; 100% instances), <tt><a href="de_pud-feat-Case.html">Case</a></tt> (2843; 100% instances), <tt><a href="de_pud-feat-Person.html">Person</a></tt> (2842; 100% instances), <tt><a href="de_pud-feat-Definite.html">Definite</a></tt> (2840; 100% instances), <tt><a href="de_pud-feat-Gender.html">Gender</a></tt> (2784; 98% instances), <tt><a href="de_pud-feat-PronType.html">PronType</a></tt> (3; 0% instances)
 
-`DET` occurs with 12 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=3`
+`DET` occurs with 14 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=3`, `PronType=Art`
 
-`DET` occurs with 70 feature combinations.
+`DET` occurs with 71 feature combinations.
 The most frequent feature combination is `Case=Dat|Definite=Def|Gender=Masc|Number=Sing|Person=3` (248 tokens).
 Examples: <em>dem, diesem, Le, Los</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 12 different relations: <tt><a href="de_pud-dep-det.html">det</a></tt> (2766; 97% instances), <tt><a href="de_pud-dep-nsubj.html">nsubj</a></tt> (39; 1% instances), <tt><a href="de_pud-dep-obj.html">obj</a></tt> (13; 0% instances), <tt><a href="de_pud-dep-nmod-poss.html">nmod:poss</a></tt> (7; 0% instances), <tt><a href="de_pud-dep-obl.html">obl</a></tt> (6; 0% instances), <tt><a href="de_pud-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="de_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (3; 0% instances), <tt><a href="de_pud-dep-iobj.html">iobj</a></tt> (2; 0% instances), <tt><a href="de_pud-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="de_pud-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="de_pud-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="de_pud-dep-nmod.html">nmod</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 12 different relations: <tt><a href="de_pud-dep-det.html">det</a></tt> (2769; 97% instances), <tt><a href="de_pud-dep-nsubj.html">nsubj</a></tt> (39; 1% instances), <tt><a href="de_pud-dep-obj.html">obj</a></tt> (13; 0% instances), <tt><a href="de_pud-dep-nmod-poss.html">nmod:poss</a></tt> (7; 0% instances), <tt><a href="de_pud-dep-obl.html">obl</a></tt> (6; 0% instances), <tt><a href="de_pud-dep-conj.html">conj</a></tt> (3; 0% instances), <tt><a href="de_pud-dep-nsubj-pass.html">nsubj:pass</a></tt> (3; 0% instances), <tt><a href="de_pud-dep-iobj.html">iobj</a></tt> (2; 0% instances), <tt><a href="de_pud-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="de_pud-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="de_pud-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="de_pud-dep-nmod.html">nmod</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 7 different parts of speech: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (2642; 93% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (124; 4% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (50; 2% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (21; 1% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 7 different parts of speech: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (2645; 93% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (124; 4% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (50; 2% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (21; 1% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 
-2812 (99%) `DET` nodes are leaves.
+2815 (99%) `DET` nodes are leaves.
 
 21 (1%) `DET` nodes have one child.
 

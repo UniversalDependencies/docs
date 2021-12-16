@@ -34,7 +34,7 @@ The 10 most frequent ambiguous types:  <em>telah</em> (<tt><a href="id_pud-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 1.090909 (the average of all parts of speech is 1.138347).
+The form / lemma ratio of `AUX` is 1.090909 (the average of all parts of speech is 1.137196).
 
 The 1st highest number of forms (2) was observed with the lemma “harus”: <em>harus, seharusnya</em>.
 

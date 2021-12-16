@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 9 8 compound	color:blue
 1	Počevši	početi	ADV	Rr	Tense=Past|VerbForm=Conv	9	xcomp	_	_
 2	od	od	ADP	Sg	Case=Gen	4	case	_	_
-3	1.	1.	NUM	Mdo	NumType=Ord	4	nummod	_	_
+3	1.	1.	ADJ	Mdo	NumType=Ord	4	amod	_	_
 4	siječnja	siječanj	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	_
 5	na	na	ADP	Sa	Case=Acc	6	case	_	_
 6	robu	roba	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	_

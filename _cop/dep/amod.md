@@ -16,4 +16,4 @@ det(ϣⲏⲣⲉ, ⲟⲩ)
 ~~~
 
 Note that such adjectives are still tagged with the POS tag N, following the Scriptorium POS tagging guidelines.
-<!-- Interlanguage links updated Pá kvě 14 11:08:49 CEST 2021 -->
+<!-- Interlanguage links updated St lis 3 20:58:38 CET 2021 -->

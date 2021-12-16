@@ -70,7 +70,7 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 5	por	por	ADP	IN	_	10	case	_	_
 6	causa	causa	NOUN	NN	Gender=Fem|Number=Sing	5	fixed	_	_
 7	de	de	ADP	INDT	_	5	fixed	_	_
-8	a	o	DET	_	Gender=Fem|Number=Sing	10	det	_	_
+8	a	o	DET	_	Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 9	sua	_	PRON	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	10	det	_	_
 10	idade	idade	NOUN	NN	Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No|ToDo=nmod
 11	,	,	PUNCT	,	_	10	punct	_	_
@@ -78,7 +78,7 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 13	seriam	_	AUX	VBC	Mood=Cnd|Number=Plur|Person=3	14	cop	_	_
 14	desconhecedores	desconhecedor	NOUN	NN	Gender=Masc|Number=Plur	2	ccomp	_	_
 15	de	de	ADP	INDT	_	18	case	_	_
-16	a	o	DET	_	Gender=Fem|Number=Sing	18	det	_	_
+16	a	o	DET	_	Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 17	sua	_	PRON	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	18	det	_	_
 18	história	história	NOUN	NN	Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No|ToDo=nmod
 19	.	.	PUNCT	.	_	2	punct	_	_

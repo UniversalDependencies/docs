@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 2 other language-specific subtypes of `aux`: <tt><a href="fr_gsd-dep-aux-caus.html">aux:caus</a></tt>, <tt><a href="fr_gsd-dep-aux-tense.html">aux:tense</a></tt>.
 
-2896 nodes (1%) are attached to their parents as `aux:pass`.
+2905 nodes (1%) are attached to their parents as `aux:pass`.
 
-2894 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.24861878453039.
+2903 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.24922547332186.
 
-The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (2894; 100% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (2903; 100% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -59,10 +59,10 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 17	symboliquement	symboliquement	ADV	_	_	14	advmod	_	_
 18	par	par	ADP	_	_	20	case	_	_
 19	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	20	det	_	_
-20	roi	roi	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	_
+20	roi	roi	NOUN	_	Gender=Masc|Number=Sing	14	obl:agent	_	_
 21	Carl	Carl	PROPN	_	_	20	appos	_	_
 22	XVI	XVI	PROPN	_	_	21	flat:name	_	_
-23	Gustaf	Gustaf	PROPN	_	_	22	flat:name	_	SpaceAfter=No
+23	Gustaf	Gustaf	PROPN	_	_	21	flat:name	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~
