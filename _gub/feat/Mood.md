@@ -9,6 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Imp">Imp</a></td>
+  <td><a href="#Des">Des</a></td>
   
   
 
@@ -24,6 +25,16 @@ The imperative mood is expressed with the person morpheme "e" (2.SG).
 #### Examples
 
 * _<b>Ezapo arapuk nehe</b>&nbsp;_ “Make a trap”
+  
+</tr>
+
+### <a name="Des">`Des`</a>: Desiderative
+
+The desiderative mood is expressed with the suffix 'hez'.
+
+#### Examples
+
+* _<b>imaʔuhez</b>&nbsp;_ “Want to eat something” (NCont-thing-eat-DES)
   
 </tr>
 </table>
