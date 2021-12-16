@@ -209,7 +209,7 @@ From a syntactic point of view, in traditional grammars a difference is made bet
 
 ##### Note 1: rationalisation of Latin `VerbForm`s with regard to universality
 
-[To be completed; see upcoming article (Flavio massimiliano Cecchini, 2021).]
+[To be completed; see upcoming article (Cecchini, 2021).]
 
 
 ##### Note 2: when is a word no longer a verb?
