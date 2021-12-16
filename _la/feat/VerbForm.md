@@ -177,10 +177,6 @@ With respect to the other verb forms, the supine is an outlier in that it does n
 From a syntactic point of view, in traditional grammars a difference is made between "passive" and "active" supine, the former being in the (singular) ablative case and the latter in the (singular) accusative. Actually, there are also occurrences identified as supines and in the dative case (see **Examples**), and, widening the field to all similar abstract deverbal names, there is no limitation to case nor number in their inflection. However, what is usually identified as the "active" supine does show some verbal syntax (in particular, the possibility to have an [object argument](la-dep/obj) in the accusative), and appears as a crystallised form of the aforementioned original fourth-declension nominal paradigm: this, together with its syntactic distribution, actually concurs to considering it a **converb** (see entry for **`Conv`**). 
 
 
-
-
-
-
 * Complete paradigm of the abstract [fourth-declension](la-feat/InflClass#IndEurU) deverbal noun in the singular number with the canonical forms of the supine highlighted, with the example of *amo* 'to love', hence *\*amatus* 'the act of loving' (not attested as an independent word):
 
 [Case](la-feat/Case) | [Singular](la-feat/Number)
@@ -223,12 +219,6 @@ From a syntactic point of view, in traditional grammars a difference is made bet
 
 ### References
 
-<<<<<<< HEAD
 * Cecchini, F. M. (2021, to be published). **Formae reformandae*: for a reorganisation of verb form annotation in Universal Dependencies illustrated by the specific case of Latin*, in Proceedings of the Fifth Workshop on Universal Dependencies (UDW 2021), Sofia, Bulgaria, March 2022; Association for Computational Linguistics.
 * Haspelmath M. (1987). *Verbal noun or verbal adjective? The case of the Latin gerundive and gerund*, Arbeitspapier Nr. 3 (Neue Folge). Institut für Linguistik (Köln).
 * Miller, D. G. (2000). *Gerund and gerundive in Latin*, Diachronica XVII:2.293–349.
-=======
-* Miller, D. G. (2000). *Gerund and gerundive in Latin*, Diachronica XVII:2.293–349.
-* Haspelmath M. (1987). *Verbal noun or verbal adjective? The case of the Latin gerundive and gerund*, Arbeitspapier Nr. 3 (Neue Folge).
-<!-- Interlanguage links updated St lis 3 20:58:32 CET 2021 -->
->>>>>>> f824d3bd7478e302cc0084df3efac67857879428
