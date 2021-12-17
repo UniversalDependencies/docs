@@ -344,7 +344,7 @@ English preposition _without_.
 
 ### <a name="Cau">`Cau`</a>: causative / motivative / purposive
 
-Noun in this case is the cause of something. In Hungarian it also
+Noun in this case is the cause or purpose of something. In Hungarian it also
 seems to be used frequently with currency ("to buy something _for_ the
 money") and it also can mean the goal of something.
 
