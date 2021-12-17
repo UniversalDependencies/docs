@@ -2,6 +2,7 @@
 layout: postag
 title: 'ADV'
 shortdef: 'adverb'
+udver: '2'
 ---
 
 ### Definition
@@ -10,7 +11,7 @@ Adverbs are words that typically modify [verbs](VERB) for such categories as tim
 		       
 <!-- Since in traditional Italian grammars there is no clear consensus on the existence of _pronominal adverbs_ as an independent morpho-syntactic category, we decided to avoid using the `ADV` postag to deal with potential pronominal adverbs which are rather treated as [PRON]().--> 
 
-###Corresponding language-specific part-of-speech tags
+### Corresponding language-specific part-of-speech tags
 
 B: 	Adverb
 
