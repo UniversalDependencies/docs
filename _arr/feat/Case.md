@@ -15,7 +15,7 @@ udver: '2'
   <td><a href="#All">All</a></td>
   <td><a href="#Abe">Abe</a></td>
   <td><a href="#Dat">Dat</a></td>
-  <td><a href="#Ines">Ines</a></td>
+  <td><a href="#Ine">Ine</a></td>
   <td><a href="#Loc">Loc</a></td>
   <td><a href="#Disp">Disp</a></td>
 </tr>
@@ -96,11 +96,11 @@ The vocative can be expressed, among others, by the sufix _we_ attached to the l
 
 
 
-### <a name="Ines">`Ines`</a>: Inessive
+### <a name="Ine">`Ine`</a>: Inessive
 
 #### Examples
 
-* _<b>t-uβ-we</b>&nbsp;_ “To the father”
+* _Ip cú gət icɨ <b>bət</b>.&nbsp;_ (lit. fish big swam water in) “The big fish swam <b>in</b> the water.”
 
 
 
