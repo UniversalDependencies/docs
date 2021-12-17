@@ -376,6 +376,12 @@ Basque it is derived from allative, which also exists independently.
 * [eu] _<b>etxerantz</b>_ "toward house/home"
 * [eu] _behe_ "low"; _<b>beherantz</b>_ "down"
 
+Ibarretxe-Antuñano (2004: 282) says about directional and terminal
+allative in Basque: “What crucially distinguishes these two cases
+from the allative is that, on top of profiling the goal, they also
+profile the path, or to be more precise, some of the components
+of the path.”
+
 ### <a name="Ter">`Ter`</a>: terminative / terminal allative
 
 The terminative case specifies where something ends in space or
@@ -596,4 +602,6 @@ marks the property being compared. It occurs in Turkish.
 # References
 
 * Avery D. Andrews: The major functions of the noun phrase. In: Timothy Shopen (ed.) (2007): Language Typology and Syntactic Description, Volume I: Clause Structure. Second Edition. Cambridge University Press. ISBN 978-0-521-58156-1.
+* Iraide Ibarretxe-Antuñano (2004): “Polysemy in Basque locational cases”. Belgian Journal of Linguistics 18: 271–298.
+
 <!-- Interlanguage links updated St lis 3 20:58:18 CET 2021 -->
