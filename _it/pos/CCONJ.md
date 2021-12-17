@@ -14,6 +14,10 @@ expresses a semantic relationship between them.
 
 For _subordinating conjunctions_ see [SCONJ]().
 
+### Corresponding language-specific part-of-speech tags
+
+CC: Coordinative conjunction
+
 ### Examples
 
 - _e_ "and"
