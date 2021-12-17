@@ -2,6 +2,7 @@
 layout: postag
 title: 'ADP'
 shortdef: 'adposition'
+udver: '2'
 ---
 
 ### Definition
@@ -20,7 +21,7 @@ Italian prepositions are also used for introducing non-finite clausal complement
 
 Italian distinguishes between simple and articulated prepositions: note however that to comply with the UD [Tokenization]() guidelines the latter are systematically splitted into the following sequence of part-of-speech tags, `ADP` and `DET` (e.g. _nello_ "in the" is splitted into _in_ `ADP` _lo_ `DET`).
 
-###Corresponding language-specific part-of-speech tags
+### Corresponding language-specific part-of-speech tags
 
 E:  Preposition 
 
@@ -30,5 +31,5 @@ E:  Preposition
 - _<b>a</b> Milano_ "in Milan"
 - _<b>durante</b> la notte_ "during the night"
 - _<b>davanti al</b> cancello_ "in front of the gate"
-- _ha promesso <b>di</b> invitarlo a cena_ "he promised to invite him to dinner"
+- _ha promesso <b>di</b> invitarlo <b>a</b> cena_ "he promised to invite him to dinner"
 <!-- Interlanguage links updated St lis 3 20:58:07 CET 2021 -->
