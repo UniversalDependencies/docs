@@ -2,6 +2,7 @@
 layout: postag
 title: 'SCONJ'
 shortdef: 'subordinating conjunction'
+udver: '2'
 ---
 
 ### Definition
@@ -17,6 +18,10 @@ We recognize these two subclasses as subordinating conjunctions:
 * Adverbial clause introducers, _come_ "like", _quando_ "when", _poiché, perché_ "since", or _prima_ "before" (when introducing a clause not a nominal)
 
 For _coordinating conjunctions_ see [CCONJ]().
+
+### Corresponding language-specific part-of-speech tags
+
+CS: Subordinative conjunction
 
 ### Examples
 
