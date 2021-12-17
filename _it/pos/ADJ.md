@@ -16,7 +16,7 @@ The class of adjectives in Italian UD also includes ordinal numbers and particip
 To conform to the UD guidelines, possessive adjectives are handled as determiners [DET]().
 
 
-###Corresponding language-specific part-of-speech tags
+### Corresponding language-specific part-of-speech tags
 
 A:  Adjective
 
@@ -28,11 +28,11 @@ NO: Ordinal Number
 * _grande_ "big"
 * _vecchio_ "old"
 * _verde_ "green"
-* Un _caro_ amico_ "a dear friend"
+* Un _caro_ amico "a dear friend"
 * Un libro _interessante_ "An interesting book"
 * Il cancello è _aperto_ "The gate is open"
 * È stato _illuminante_ "It has been illuminating"
-* _primo_ "first", _secondo_ "second", _terzo_ "third", _IV_ "fourth", _ennesimo_ "nth", _ultimo_ "last"
+* _primo_ "first", _secondo_ "second", _terzo_ "third", _IV_ "fourth", _ennesimo_ "nth", _ultimo_ "last", _bis_ "bis", _ter_ "ter"
 
 
 <!-- Interlanguage links updated St lis 3 20:58:06 CET 2021 -->
