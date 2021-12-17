@@ -26,12 +26,12 @@ usually happen.
 
 #### Examples
 
-* _andrà a casa_ "he/she will go home"
+* _<b>andrà</b> a casa_ "he/she will go home"
 
 ### <a name="Imp">`Imp`</a>: imperfect
 
 #### Examples
 
-* _andava a casa_ "he/she was going home"
+* _<b>andava</b> a casa_ "he/she was going home"
 
 <!-- Interlanguage links updated St lis 3 20:58:30 CET 2021 -->

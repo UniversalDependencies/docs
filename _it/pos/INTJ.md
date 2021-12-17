@@ -2,13 +2,14 @@
 layout: postag
 title: 'INTJ'
 shortdef: 'interjection'
+udver: '2'
 ---
 An interjection is a form, typically brief, which is used most often as an exclamation or part of an exclamation.
 
 As a special case of interjections, we recognize feedback particles
 such as: _sì_ "yes" and _no_ "no". Note that uses of _sì_ and _no_ syntactically related to other accompanying expressions in a sentence are recognized as [ADV]().
 
-###Corresponding language-specific part-of-speech tags
+### Corresponding language-specific part-of-speech tags
 
 I:	Interjection
 

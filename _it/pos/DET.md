@@ -18,7 +18,7 @@ _<b>Tutti</b> gli amici_ "<b>All</b> the friends".
 - possessive adjectives, which following the UD guidelines are also tagged as `DET`. For example:
 _Mio padre_ "my father", _la mia macchina_ lit. "the my car", _la figlia mia_ lit. "the daughter my" 
 
-Corresponding language-specific part-of-speech tags:
+### Corresponding language-specific part-of-speech tags:
 
 RD:	Definite article
 

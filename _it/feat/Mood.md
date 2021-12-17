@@ -45,6 +45,6 @@ otherwise uncertain.
 
 #### Examples
 
-* _Voglio che tu te ne <b>vada</b> "I want you to leave"
+* _Voglio che tu te ne <b>vada</b>_ "I want you to leave"
 
 <!-- Interlanguage links updated St lis 3 20:58:22 CET 2021 -->

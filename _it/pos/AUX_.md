@@ -11,20 +11,18 @@ redirect_from: "it/pos/AUX.html"
 ### Definition
 
 Italian auxiliary verbs can be divided into:
-- cop
+- copulas
 - _stare_ in "sto arrivando"
 - tense auxiliaries, used to form compound tenses represented by _avere_ "to have" and _essere_ "to be";
 - passive auxiliaries, used to form passive verb forms represented by _essere_ "to be" and _venire_ lit. "to come".
 
 Following the UD guidelines, Italian modal verbs are handled as modal auxiliaries (e.g. _potere_ "can", _dovere_ "must").
 
-Corresponding language-specific part-of-speech tags
+### Corresponding language-specific part-of-speech tags
 
-VA: Auxiliary verb
+VA: Auxiliary verb, copula
 
-VM: Modal verb	
-
-V: Copula
+VM: Modal verb
 
 ### Examples
 

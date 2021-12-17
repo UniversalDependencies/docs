@@ -2,6 +2,7 @@
 layout: postag
 title: 'PROPN'
 shortdef: 'proper noun'
+udver: '2'
 ---
 
 ### Definition
@@ -10,7 +11,7 @@ A proper noun is a noun that is the name (or part of the name) of a unique entit
 
 Acronyms of proper nouns, such as _UN_ and _NATO_, are also tagged as `PROPN`.
 
-###Corresponding language-specific part-of-speech tags
+### Corresponding language-specific part-of-speech tags
 
 SP:	Proper noun
 
