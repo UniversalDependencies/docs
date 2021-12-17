@@ -230,27 +230,6 @@ restriction and inanimate things can be addressed as well.
 * [cs] _Co myslíš, <b>Filip</b><b>e</b>?_ "What do you think,
   <b>Filip</b>?"
 
-### <a name="Loc">`Loc`</a>: locative
-
-The locative case often expresses location in space or time, which
-gave it its name. As elsewhere, non-locational meanings also exist and
-they are not rare. Uralic languages have a complex set of fine-grained
-locational and directional cases (see below) instead of the
-locative. Even in languages that have locative, some location roles
-may be expressed using other cases (e.g. because those cases are
-required by a preposition).
-
-In Slavic languages this is the only case that is used exclusively in
-combination with prepositions (but such a restriction may not hold in
-other languages that have locative).
-
-#### Examples
-
-* [cs] _V <b>červenci</b> jsem byl ve <b>Švédsku</b>._ "In <b>July</b>
-  I was in <b>Sweden</b>."
-* [cs] _Mluvili jsme tam o <b>morfologii</b>._ "We talked there about
-  <b>morphology</b>." (Non-locational non-temporal example)
-
 ### <a name="Ins">`Ins`</a>: instrumental / instructive
 
 The role from which the name of the instrumental case is derived is
@@ -361,6 +340,44 @@ The abessive case corresponds to the English preposition _without_.
 
 * [fi] _raha_ "money"; _<b>rahatta</b>_ "without money"
 
+## Location and direction
+
+### <a name="Loc">`Loc`</a>: locative
+
+The locative case often expresses location in space or time, which
+gave it its name. As elsewhere, non-locational meanings also exist and
+they are not rare. Uralic languages have a complex set of fine-grained
+locational and directional cases (see below) instead of the
+locative. Even in languages that have locative, some location roles
+may be expressed using other cases (e.g. because those cases are
+required by a preposition).
+
+In Slavic languages this is the only case that is used exclusively in
+combination with prepositions (but such a restriction may not hold in
+other languages that have locative).
+
+#### Examples
+
+* [cs] _V <b>červenci</b> jsem byl ve <b>Švédsku</b>._ "In <b>July</b>
+  I was in <b>Sweden</b>."
+* [cs] _Mluvili jsme tam o <b>morfologii</b>._ "We talked there about
+  <b>morphology</b>." (Non-locational non-temporal example)
+
+### <a name="Lat">`Lat`</a>: lative / directional allative
+
+The lative case denotes movement towards/to/into/onto
+something. Similar case in Basque is called directional allative
+(Spanish _adlativo direccional_). However, lative is typically
+thought of as a union of allative, illative and sublative, while in
+Basque it is derived from allative, which also exists independently.
+
+#### Examples
+
+* [eu] _<b>etxerantz</b>_ "toward house/home"
+* [eu] _behe_ "low"; _<b>beherantz</b>_ "down"
+
+## Internal location
+
 ### <a name="Ine">`Ine`</a>: inessive
 
 The inessive case expresses location inside of something.
@@ -404,6 +421,8 @@ Forms of this case exist only in singular and not for all nouns.
 
 * [et] _riik_ "government"; _riigisse_ "to the government" (singular illative); _<b>riiki</b>_ "to the government" (singular additive)
 
+## External location
+
 ### <a name="Ade">`Ade`</a>: adessive
 
 The adessive case expresses location at or on something.  The
@@ -439,6 +458,8 @@ Prototypical meaning: direction from some point.
 * [hu] _a <b>barátomtól</b> jövök_ "I'm coming <b>from my friend</b>"
 * [fi] _<b>pöydältä</b>_ "from the table"; _<b>katolta</b>_ "from the roof";
   _<b>rannalta</b>_ "from the beach"
+
+## Higher location
 
 ### <a name="Sup">`Sup`</a>: superessive
 
@@ -480,18 +501,6 @@ something".
 * [hu] _asztal_ "table"; _az <b>asztal</b><b>ról</b>_ "off the table"
 * [hu]_<b>Budapestről</b> jövök_ "I am coming from Budapest"
 
-### <a name="Lat">`Lat`</a>: lative / directional allative
-
-The lative case denotes movement towards/to/into/onto
-something. Similar case in Basque is called directional allative
-(Spanish _adlativo direccional_).  However, lative is typically
-thought of as a union of allative, illative and sublative, while in
-Basque it is derived from allative, which also exists independently.
-
-#### Examples
-
-* [eu] _behe_ "low"; _<b>beherantz</b>_ "down"
-
 ### <a name="Per">`Per`</a>: perlative
 
 The perlative case denotes movement along something.
@@ -521,11 +530,12 @@ _adlativo terminal_).
 
 #### Examples
 
-* [et] _<b>j&otilde;eni</b>_ "down to the river"; _kella <b>kuueni</b>_
-  "till six o'clock"
-* [hu] _a <b>házig</b>_ "up to the house"; _hat <b>óráig</b>_ "till
-  six o'clock"
-* [eu] _erdi_ "half"; _<b>erdiraino</b>_ "up to the half"
+* [et] _<b>jõeni</b>_ "down to the river";
+  _kella <b>kuueni</b>_ "till six o'clock"
+* [hu] _a <b>házig</b>_ "up to the house";
+  _hat <b>óráig</b>_ "till six o'clock"
+* [eu] _<b>etxeraino</b>_ "up to the house";
+  _erdi_ "half"; _<b>erdiraino</b>_ "up to the half"
 
 ### <a name="Cau">`Cau`</a>: causative / motivative / purposive
 
