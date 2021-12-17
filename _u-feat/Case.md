@@ -376,6 +376,23 @@ Basque it is derived from allative, which also exists independently.
 * [eu] _<b>etxerantz</b>_ "toward house/home"
 * [eu] _behe_ "low"; _<b>beherantz</b>_ "down"
 
+### <a name="Ter">`Ter`</a>: terminative / terminal allative
+
+The terminative case specifies where something ends in space or
+time. Similar case in Basque is called terminal allative (Spanish
+_adlativo terminal_). While the lative (or directional allative)
+specifies only the general direction, the terminative (terminal
+allative) also says that the destination is reached.
+
+#### Examples
+
+* [et] _<b>jõeni</b>_ "down to the river";
+  _kella <b>kuueni</b>_ "till six o'clock"
+* [hu] _a <b>házig</b>_ "up to the house";
+  _hat <b>óráig</b>_ "till six o'clock"
+* [eu] _<b>etxeraino</b>_ "up to the house";
+  _erdi_ "half"; _<b>erdiraino</b>_ "up to the half"
+
 ## Internal location
 
 ### <a name="Ine">`Ine`</a>: inessive
@@ -521,21 +538,6 @@ The temporal case is used to indicate time.
 
 * [hu] _<b>hétkor</b>_ "at seven (o'clock)"; _<b>éjfélkor</b>_ "at midnight";
   _<b>karácsonykor</b>_ "at Christmas"
-
-### <a name="Ter">`Ter`</a>: terminative / terminal allative
-
-The terminative case specifies where something ends in space or
-time. Similar case in Basque is called terminal allative (Spanish
-_adlativo terminal_).
-
-#### Examples
-
-* [et] _<b>jõeni</b>_ "down to the river";
-  _kella <b>kuueni</b>_ "till six o'clock"
-* [hu] _a <b>házig</b>_ "up to the house";
-  _hat <b>óráig</b>_ "till six o'clock"
-* [eu] _<b>etxeraino</b>_ "up to the house";
-  _erdi_ "half"; _<b>erdiraino</b>_ "up to the half"
 
 ### <a name="Cau">`Cau`</a>: causative / motivative / purposive
 
