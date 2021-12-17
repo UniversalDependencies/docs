@@ -332,13 +332,68 @@ The comitative (also called associative) case corresponds to English
 
 * [et] _koer_ "dog"; _<b>koeraga</b>_ "with dog"
 
-### <a name="Abe">`Abe`</a>: abessive
+### <a name="Abe">`Abe`</a>: abessive / caritive / privative
 
-The abessive case corresponds to the English preposition _without_.
+The abessive case (also called caritive or privative) corresponds to the
+English preposition _without_.
 
 #### Examples
 
 * [fi] _raha_ "money"; _<b>rahatta</b>_ "without money"
+
+### <a name="Cau">`Cau`</a>: causative / motivative / purposive
+
+Noun in this case is the cause of something. In Hungarian it also
+seems to be used frequently with currency ("to buy something _for_ the
+money") and it also can mean the goal of something.
+
+#### Examples
+
+* [hu] _Egy világcég benzinkútjánál 7183 <b>forintért</b> tankoltam._
+  lit. _a world-wide.company petrol.station.Ade 7183 forint.Cau
+  refueled_ "I refueled my car at the petrol station of a world-wide
+  company for 7183 forints."
+* [hu] _Elmentem a boltba <b>tejért</b>._ lit. _went the shop.Ill
+  milk.Cau_ "I went to the shop to buy milk."
+* [eu] _jokaera_ "behavior"; _<b>jokaeragatik</b>_ "because of
+  behavior"
+
+### <a name="Ben">`Ben`</a>: benefactive / destinative
+
+The benefactive case corresponds to the English preposition _for_.
+
+#### Examples
+
+* [eu] _mutil_ "boy"; _<b>mutilarentzat</b>_ "for boys"
+
+### <a name="Cns">`Cns`</a>: considerative
+
+The considerative case denotes something that is given in exchange for something else.
+It is used in Warlpiri (Andrews 2007, p.164).
+
+#### Examples
+
+* [wbp] _miyi_ “food”; _<b>miyiwanawana</b>_ “for food” (_Japanangkarlu kaju karli yinyi <b>miyiwanawana</b>_ “Japanangka is giving me a boomerang in exchange for food”)
+
+### <a name="Cmp">`Cmp`</a>: comparative
+
+The comparative case means “than X”. It marks the standard of comparison and
+it differs from the comparative [Degree](), which marks the property being
+compared. It occurs in Dravidian and Northeast-Caucasian languages.
+
+#### Examples
+
+* [mr] हे फूल त्या <b>फुलापेक्षा</b> सुंदर आहे. _(Hē phūla tyā <b>phulāpēkṣā</b> sundara āhē.)_ “This flower is more beautiful than that flower.”
+
+### <a name="Equ">`Equ`</a>: equative
+
+The equative case means “X-like”, “similar to X”, “same as X”. It marks the
+standard of comparison and it differs from the equative [Degree](), which
+marks the property being compared. It occurs in Turkish.
+
+#### Examples
+
+* [tr] _ben_ "I"; _<b>bence</b>_ "like me"
 
 ## Location and direction
 
@@ -544,60 +599,6 @@ The temporal case is used to indicate time.
 
 * [hu] _<b>hétkor</b>_ "at seven (o'clock)"; _<b>éjfélkor</b>_ "at midnight";
   _<b>karácsonykor</b>_ "at Christmas"
-
-### <a name="Cau">`Cau`</a>: causative / motivative / purposive
-
-Noun in this case is the cause of something. In Hungarian it also
-seems to be used frequently with currency ("to buy something _for_ the
-money") and it also can mean the goal of something.
-
-#### Examples
-
-* [hu] _Egy világcég benzinkútjánál 7183 <b>forintért</b> tankoltam._
-  lit. _a world-wide.company petrol.station.Ade 7183 forint.Cau
-  refueled_ "I refueled my car at the petrol station of a world-wide
-  company for 7183 forints."
-* [hu] _Elmentem a boltba <b>tejért</b>._ lit. _went the shop.Ill
-  milk.Cau_ "I went to the shop to buy milk."
-* [eu] _jokaera_ "behavior"; _<b>jokaeragatik</b>_ "because of
-  behavior"
-
-### <a name="Ben">`Ben`</a>: benefactive / destinative
-
-The benefactive case corresponds to the English preposition _for_.
-
-#### Examples
-
-* [eu] _mutil_ "boy"; _<b>mutilarentzat</b>_ "for boys"
-
-### <a name="Cns">`Cns`</a>: considerative
-
-The considerative case denotes something that is given in exchange for something else.
-It is used in Warlpiri (Andrews 2007, p.164).
-
-#### Examples
-
-* [wbp] _miyi_ “food”; _<b>miyiwanawana</b>_ “for food” (_Japanangkarlu kaju karli yinyi <b>miyiwanawana</b>_ “Japanangka is giving me a boomerang in exchange for food”)
-
-### <a name="Cmp">`Cmp`</a>: comparative
-
-The comparative case means “than X”. It marks the standard of comparison and
-it differs from the comparative [Degree](), which marks the property being
-compared. It occurs in Dravidian and Northeast-Caucasian languages.
-
-#### Examples
-
-* [mr] हे फूल त्या <b>फुलापेक्षा</b> सुंदर आहे. _(Hē phūla tyā <b>phulāpēkṣā</b> sundara āhē.)_ “This flower is more beautiful than that flower.”
-
-### <a name="Equ">`Equ`</a>: equative
-
-The equative case means “X-like”, “similar to X”, “same as X”. It marks the
-standard of comparison and it differs from the equative [Degree](), which
-marks the property being compared. It occurs in Turkish.
-
-#### Examples
-
-* [tr] _ben_ "I"; _<b>bence</b>_ "like me"
 
 # References
 
