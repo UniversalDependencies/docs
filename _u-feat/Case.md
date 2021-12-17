@@ -340,6 +340,7 @@ English preposition _without_.
 #### Examples
 
 * [fi] _raha_ "money"; _<b>rahatta</b>_ "without money"
+* [kpv] _<b>сьӧмтӧг</b>_ "without money"
 
 ### <a name="Cau">`Cau`</a>: causative / motivative / purposive
 
