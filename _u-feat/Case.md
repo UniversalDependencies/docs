@@ -30,7 +30,7 @@ udver: '2'
   <td><a href="#Par">Par</a></td>
   <td><a href="#Tem">Tem</a></td>
   <td colspan="2"><a href="#Tra">Tra</a></td>
-  <td colspan="2"><a href="#Voc">Voc</a></td>
+  <td colspan="3"><a href="#Voc">Voc</a></td>
 </tr>
 <tr>
   <td colspan="2" style="background-color:cornflowerblue;color:white"><strong>Local:</strong> </td>
