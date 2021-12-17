@@ -15,10 +15,10 @@ my $source = <<EOF
 Abbr: abbreviation
 Animacy: animate, inanimate, human, non-human
 Aspect: aspect, imperfective aspect, perfective aspect, prospective, progressive, habitual, iterative, frequentative
-Case: case, nominative, direct case, accusative, oblique case, absolutive, ergative, dative, genitive, vocative, locative, instrumental, instructive, partitive, distributive case, essive, prolative, translative, factive, comitative, associative, abessive, caritive, privative, inessive, illative, elative, additive, adessive, allative, ablative, superessive, sublative, delative, lative, directional allative, perlative, temporal, terminative, terminal allative, causative case, motivative, purposive case, benefactive, destinative, considerative, comparative case, equative case
+Case: case, nominative, direct case, accusative, oblique case, absolutive, ergative, dative, genitive, vocative, locative, instrumental, instructive, partitive, distributive case, essive, prolative, translative, factive, comitative, associative, abessive, caritive, privative, inessive, illative, inlative, elative, inelative, additive, adessive, allative, adlative, ablative, adelative, superessive, superlative case, delative, superelative, subessive, sublative, subelative, lative, directional allative, perlative, temporal, terminative, terminal allative, causative case, motivative, purposive case, benefactive, destinative, considerative, comparative case, equative case
 Clusivity: clusivity, inclusive, exclusive
 Definite: definiteness, indefinite, non-specific indefinite, specific indefinite, definite, construct state, reduced definiteness, complex definiteness
-Degree: degree of comparison, positive degree, equative degree, comparative degree, superlative, absolute superlative
+Degree: degree of comparison, positive degree, equative degree, comparative degree, superlative degree, absolute superlative
 Evident: evidentiality, firsthand, non-firsthand, narrative
 Foreign: foreign word
 Gender: gender, masculine, feminine, neuter, uter, common gender

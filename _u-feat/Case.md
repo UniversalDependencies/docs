@@ -9,10 +9,10 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td style="background-color:cornflowerblue;color:white"><strong>Core:</strong> </td>
-  <td colspan="4" align="center"><a href="#Abs">Abs</a></td>
+  <td colspan="5" align="center"><a href="#Abs">Abs</a></td>
   <td colspan="4" align="center"><a href="#Acc">Acc</a></td>
-  <td colspan="3" align="center"><a href="#Erg">Erg</a></td>
-  <td colspan="4" align="center"><a href="#Nom">Nom</a></td>
+  <td colspan="4" align="center"><a href="#Erg">Erg</a></td>
+  <td colspan="5" align="center"><a href="#Nom">Nom</a></td>
 </tr>
 <tr>
   <td colspan="2" style="background-color:cornflowerblue;color:white"><strong>Non-core:</strong> </td>
@@ -29,8 +29,8 @@ udver: '2'
   <td><a href="#Ins">Ins</a></td>
   <td><a href="#Par">Par</a></td>
   <td><a href="#Tem">Tem</a></td>
-  <td><a href="#Tra">Tra</a></td>
-  <td><a href="#Voc">Voc</a></td>
+  <td colspan="2"><a href="#Tra">Tra</a></td>
+  <td colspan="2"><a href="#Voc">Voc</a></td>
 </tr>
 <tr>
   <td colspan="2" style="background-color:cornflowerblue;color:white"><strong>Local:</strong> </td>
@@ -46,6 +46,9 @@ udver: '2'
   <td><a href="#Lat">Lat</a></td>
   <td><a href="#Loc">Loc</a></td>
   <td><a href="#Per">Per</a></td>
+  <td><a href="#Sbe">Sbe</a></td>
+  <td><a href="#Sbl">Sbl</a></td>
+  <td><a href="#Spl">Spl</a></td>
   <td><a href="#Sub">Sub</a></td>
   <td><a href="#Sup">Sup</a></td>
   <td><a href="#Ter">Ter</a></td>
@@ -467,7 +470,7 @@ The inessive case expresses location inside of something.
 * [fi] _talo_ "house"; _<b>talossa</b>_ "in the house"
 * [et] _maja_ "house"; _<b>majas</b>_ "in the house"
 
-### <a name="Ill">`Ill`</a>: illative
+### <a name="Ill">`Ill`</a>: illative / inlative
 
 The illative case expresses direction into something.
 
@@ -477,7 +480,7 @@ The illative case expresses direction into something.
 * [fi] _talo_ "house"; _<b>taloon</b>_ "into the house"
 * [et] _maja_ "house"; _<b>majasse</b>_ "into the house"
 
-### <a name="Ela">`Ela`</a>: elative
+### <a name="Ela">`Ela`</a>: elative / inelative
 
 The elative case expresses direction out of something.
 
@@ -504,8 +507,8 @@ Forms of this case exist only in singular and not for all nouns.
 
 ### <a name="Ade">`Ade`</a>: adessive
 
-The adessive case expresses location at or on something.  The
-corresponding directional cases are allative (towards something) and
+The adessive case expresses location at, on the surface, or near something.
+The corresponding directional cases are allative (towards something) and
 ablative (from something).
 
 #### Examples
@@ -518,19 +521,21 @@ Note that adessive is used to express location on the surface of
 something in Finnish and Estonian, but does not carry this meaning in
 Hungarian.
 
-### <a name="All">`All`</a>: allative
+### <a name="All">`All`</a>: allative / adlative
 
 The allative case expresses direction to something (destination is
 adessive, i.e. at or on that something).
 
 #### Examples
 
-* [hu] _pénztár_ "cash desk"; _<b>pénztár</b><b>hoz</b>_ "to the cash desk"
-* [fi] _pöytä_ "table"; _<b>pöydäll</b><b>e</b>_ "onto the table"
+* [hu] _pénztár_ "cash desk"; _<b>pénztárhoz</b>_ "to the cash desk"
+* [fi] _pöytä_ "table"; _<b>pöydälle</b>_ "onto the table"
 
-### <a name="Abl">`Abl`</a>: ablative
+### <a name="Abl">`Abl`</a>: ablative / adelative
 
 Prototypical meaning: direction from some point.
+In systems that distinguish different source locatins (e.g. in Uralic languages),
+this case corresponds to the "adelative", that is, the source is adessive.
 
 #### Examples
 
@@ -542,43 +547,91 @@ Prototypical meaning: direction from some point.
 
 ### <a name="Sup">`Sup`</a>: superessive
 
-Used, chiefly [in
-Hungarian](http://www.hungarianreference.com/Nouns/-n-superessive.aspx),
-to indicate location on top of something or on the surface of
-something.
+Used to express location higher than a reference point (atop something
+or above something). Attested in Nakh-Dagestanian languages and also
+in Hungarian (while other Uralic languages express this location with
+the adessive case, [Hungarian](http://www.hungarianreference.com/Nouns/-n-superessive.aspx)
+has both adessive and superessive).
 
 #### Examples
 
 * [hu] _asztal_ "table"; _<b>asztalon</b>_ "on the table"
 * [hu] _könyvek_ "books"; _<b>könyveken</b>_ "on books"
+* [dar] _ustuj_ "table"; _<b>ustujčeb</b> "on the table"
+* [lez] _<b>векьел</b> (veq'el)_ "on grass"
 
-### <a name="Sub">`Sub`</a>: sublative
+### <a name="Spl">`Spl`</a>: superlative
 
-The sublative case is used in Finno-Ugric languages to express the
-destination of movement, originally to the surface of something
-(e.g. "to climb a tree"), and, by extension, in other figurative
+The superlative case is used in Nakh-Dagestanian languages to express the
+destination of movement, originally to the top of something,
+and, by extension, in other figurative meanings as well.
+
+Note that Hungarian assigns this meaning to the sublative case,
+which otherwise indicates that the destination is below (not above) something.
+
+#### Examples
+
+* [dar] _ʁarʁa_ "stone"; _<b>ʁarʁaliče</b>_ "onto the stone"
+* [lez] _<b>вичелди</b> (vičeldi)_ "onto himself"
+
+### <a name="Del">`Del`</a>: delative / superelative
+
+Used [in
+Hungarian](http://www.hungarianreference.com/Nouns/ról-rol-delative.aspx)
+and in Nakh-Dagestanian languages
+to express the movement from the surface of something (like "moved off
+the table").
+
+Other meanings are possible as well, e.g. "about something".
+
+#### Examples
+
+* [hu] _asztal_ "table"; _az <b>asztalról</b>_ "off the table"
+* [hu]_<b>Budapestről</b> jövök_ "I am coming from Budapest"
+* [dar] _<b>bahičela</b>_ "from (on) the wall"
+* [lez] _<b>балкIандилай</b> (balk'andilaj)_ "off the horse"
+
+## Lower location
+
+### <a name="Sub">`Sub`</a>: subessive
+
+Used to express location lower than a reference point (under something
+or below something). Attested in Nakh-Dagestanian languages.
+
+#### Examples
+
+* [lez] _тарцин <b>сериндик</b> (tarcin serindik)_ "under the shade of a tree"
+
+### <a name="Sbl">`Sbl`</a>: sublative
+
+The original meaning of the sublative case is movement towards a place
+under or lower than something, that is, the destination is subessive.
+It is attested in Nakh-Dagestanian languages.
+Note however that like many other cases, it is now used in abstract
+senses that are not apparently connected to the spatial meaning:
+for example, in Lezgian it may indicate the cause of something.
+
+Hungarian uses the sublative label for what would be better categorized
+as superlative, as it expresses the movement to the surface of something
+(e.g. "to climb a tree"), and, by extension, other figurative
 meanings as well (e.g. "to university").
 
 #### Examples
 
 * [hu] _Belgrádtól 150 <b>kilométerre délnyugatra</b>_ lit.
-  _Belgrade.Abl 150 kilometer.Sub southwest.Sub_ "150 kilometers
+  _Belgrade.Abl 150 kilometer.Sbl southwest.Sbl_ "150 kilometers
   southwest of Belgrade"
 * [hu] _hajó_ "ship"; _<b>hajóra</b>_ "onto the ship"
 * [hu] _<b>bokorra</b>_ "on the shrub"
+* [lez] _Жанавур <b>кашакди</b> гиликьна. (Žanavur <b>kašakdi</b> giliq'na.)_ "The wolf died <b>of hunger</b>."
 
-### <a name="Del">`Del`</a>: delative
+### <a name="Sbe">`Sbe`</a>: subelative
 
-Used, chiefly [in
-Hungarian](http://www.hungarianreference.com/Nouns/ról-rol-delative.aspx),
-to express the movement from the surface of something (like "moved off
-the table"). Other meanings are possible as well, e.g. "about
-something".
+Used to express movement or direction from under something.
 
 #### Examples
 
-* [hu] _asztal_ "table"; _az <b>asztal</b><b>ról</b>_ "off the table"
-* [hu]_<b>Budapestről</b> jövök_ "I am coming from Budapest"
+* [lez] _Палту <b>михиникай</b> куьрсарнава. (Paltu <b>mixinikaj</b> kyrsarnava.)_ "The coat hangs <b>from the nail</b>."
 
 ### <a name="Per">`Per`</a>: perlative
 
