@@ -414,7 +414,7 @@ case(sandwiches, but)
 *compared to/with X*: *compared* is treated as a verb <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/78 -->
 
 ~~~ sdparse
-This glass is tall compared to that one.
+This glass is tall compared to that one
 advcl(tall, compared)
 obl(compared, one)
 case(one, to)
