@@ -9,7 +9,9 @@ udver: '2'
 
 A relative clause (RC) is a finite clause modifying some head (typically a noun) that is understood to fulfill some grammatical role in the RC. 
 The head is said to be "extracted" from the RC.
+
 In the Basic Dependencies representation, the main predicate of the RC attaches to the head as `acl:relcl`. 
+
 In the [Enhanced Dependencies]() layer, there is an additional dependency in the opposite direction to indicate the role from which the head was "extracted".
 
 ~~~ sdparse
@@ -20,7 +22,9 @@ acl:relcl(man, love)
 The RC may begin with a **relativizer** (*that*, *which*, *who*, or another WH-word); in some contexts (e.g., object relativization) the relativizer is optional. 
 See [PronType=Rel](). 
 The relativizer can be understood as an anaphor whose antecedent is the head of the relative clause.
+
 Basic UD analyzes the relativizer, if present, as filling a role in the RC such as subject, object, or oblique (if nominal) or [mark]() (if an adverb).
+
 In the Enhanced Dependencies layer, the relativizer instead attaches to its antecedent via the `ref` relation (as the antecedent is directly connected to a role in the RC).
 
 ~~~ sdparse
