@@ -402,4 +402,21 @@ advmod(long, So)
 vocative(long, Ham)
 parataxis(long, missed)
 ~~~
+
+*nothing but X*, *anything but X*: *but* is treated as a preposition like *except* <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/272 -->
+
+~~~ sdparse
+Harriet eats nothing but tomato sandwiches
+nmod(nothing, sandwiches)
+case(sandwiches, but)
+~~~
+
+*compared to/with X*: *compared* is treated as a verb <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/78 -->
+
+~~~ sdparse
+This glass is tall compared to that one.
+advcl(tall, compared)
+obl(compared, one)
+case(one, to)
+~~~
 <!-- Interlanguage links updated St lis 3 20:58:53 CET 2021 -->
