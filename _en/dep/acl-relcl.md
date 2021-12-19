@@ -95,7 +95,7 @@ xcomp(wanted, live)
 obl(live, in)
 ~~~
 
-TODO: prepositional relatives: the house in which you live; I don't know in which house you live/from where you get the nerve
+TODO: prepositional relatives: the house in which you live; the king from whose crown we stole the jewel; I don't know in which house you live/from where you get the nerve
 
 ## Free Relatives
 
