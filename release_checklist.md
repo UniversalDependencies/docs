@@ -377,10 +377,11 @@ a web interface and the data in the `tools` repository will be automatically upd
 is saved in the web interface.
 
 At present, morphological features can be registered
-[here](https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_feature.pl)
-and dependency relations for basic trees
-[here](https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_deprel.pl).
-Enhanced dependency relations are still registered in the old text lists.
+[here](https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_feature.pl),
+dependency relations for basic trees
+[here](https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_deprel.pl) and
+case markers for enhanced relations
+[here](https://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/langspec/specify_edeprel.pl).
 
 It is possible to register language-specific features and relations only if they
 [have been properly documented](contributing_language_specific.html). If a feature or relation does not have
@@ -388,13 +389,6 @@ its own documentation page in the `docs` repository (either as part of the unive
 or in the language-specific folder), or if the page is not in the prescribed (machine-recognizable)
 format, the web interface will not allow to register the feature or relation as valid, and consequently, the
 validator will not accept it in the data.
-
-The language-specific lists of enhanced dependency relations are stored here (temporarily, until
-they are ported to the new system too):
-
-* `data/edeprel.xx` (additional language-specific relations that are valid _only_ in the _enhanced
-  representation,_ i.e., the DEPS column; do not register them for DEPREL; all basic dependency
-  relations are automatically allowed in DEPS as well)
 
 Since the `v2.0` release, whitespace is allowed in the `FORM` and `LEMMA` fields under conditions
 specified [here](v2/segmentation.html). This is supported in the validator through the UD-wide
