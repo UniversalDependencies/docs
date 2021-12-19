@@ -8,7 +8,9 @@ udver: '2'
 
 This page collects links to and minimal instructions for tools related to Universal Dependencies.
 
-If you would like to have your tool added to this page, please write the
+If you would like to have your tool added to this page, please submit a pull request for the
+[corresponding Github page](https://github.com/UniversalDependencies/docs/blob/pages-source/tools.md).
+You may also want to announce your tool in the
 [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
 
 **Listing**
@@ -28,6 +30,8 @@ If you would like to have your tool added to this page, please write the
     * [Arborator](#arborator)
     * [LightTag](#lighttag)
     * [TrUDucer](#truducer)
+    * [ConlluEditor](#conllueditor)
+    * [Palmyra](#palmyra)
   * Editor modes
     * [Emacs](#emacs)
     * [Atom](#atom)
@@ -37,13 +41,17 @@ If you would like to have your tool added to this page, please write the
     * [DepEdit](#depedit)
     * [DKPro Core CoNLL-U reader/writer support](#dkpro-core-conll-u-readerwriter)
     * [pyconll](#pyconll)
+    * [conllu](#conllu)
     * [Treex](#treex)
     * [UDPipe](#udpipe)
     * [UDAPI](#udapi)
+    * [UDon2](#udon2)
+    * [ACoLi CoNLL Libraries](#acoli-conll-libraries)
   * Visualization tools
     * [Deptreeviz](#deptreeviz)
     * [CoNLL-U viewer](#conll-u-viewer)
     * [UDAPI](#udapi)
+    * [TüNDRA](#tündra)
 
 
 
@@ -210,6 +218,55 @@ An example rule file converting (large parts of) the Hamburg Dependency Treebank
 * References:  Hennig, Felix and Köhn, Arne (2017), Dependency Tree Transformation with Tree Transducers. In: Proceedings of the NoDaLiDa 2017 Workshop on Universal Dependencies (UDW 2017). Gothenburg, 58–66.
 * Contact: arne@chark.eu
 
+#### ConlluEditor
+
+<img style="float:right" src="http://universaldependencies.org/img/conllueditor_tree.png"/>
+[ConlluEditor](https://github.com/Orange-OpenSource/conllueditor) is a tool which facilitates the editing of syntactic relations and morphological features of files in CoNLL-U format. It uses a Java-based server and a HTML/CSS/Javascript based front-end. The editor loads the CoNLL-U file and saves every change to disk (and performs a git commit if the file is under git version control).
+It serves also as a graphical front-end to dependecy parsers (like the
+UDPipe-Server).
+
+The editor provides the following functionalities:
+
+* editing words (forms, lemmas, upos, xpos, features, enhanced dependencies)
+* editing basic dependency relations and enhanced dependency relations
+* autocompletion
+* join/split words (to correct tokenization errors)
+* join/split sentences (to correct tokenization errors)
+* search (also sequences)
+* undo/redo (partially)
+* run validation scripts
+* git support
+* edit sentence metadata (sent_id, newdoc, newpar, translations, transliterations)
+* add initial transliteration (FORM -> MISC:Translit, LEMMA -> MISC:LTranslit)
+
+
+* Category: manual annotation tool
+* Platform: Any
+* Implementation: Java, JavaScript, Python3
+* License: BSD-3-Clause (open source)
+* Homepage: <https://github.com/Orange-OpenSource/conllueditor>
+* References: Johannes Heinecke (2019): [ConlluEditor: a fully graphical editor for Universal dependencies treebank files](https://syntaxfest.github.io/syntaxfest19/proceedings/papers/paper_55.pdf). In: [Proceedings of the Universal Dependencies Workshop 2019](http://universaldependencies.org/udw19/). Paris. ([Short demo video](https://syntaxfest.github.io/syntaxfest19/slides/conllueditor_demo_windows_subtitled.mp4))
+
+* Contact: johannes.heinecke@orange.com
+
+
+#### Palmyra
+
+<img style="width: 70%; float:right" src="http://universaldependencies.org/img/palmyra.png"/>
+
+**Palmyra** Palmyra is a configurable platform independent graphical dependency tree visualization and editing software. Palmyra has been designed with morphologically rich languages in mind, and thus has a number of features to support the complexities of these languages. These include supporting easy change of morphological tokenization through edits, additions, deletions and splits/merges of words. It can also be used to annotate a multitude of linguistic features. Palmyra uses an intuitive drag-and-drop metaphor for editing tree structures. Palmyra can be configured to be used with any dependency representation.  A [UD configuration file](https://github.com/CAMeL-Lab/palmyra/blob/562a0ee65764749ef0763368409012b5bc1e6046/palmyraSampleFiles/config/ud.config) is provided in its [github repo](https://github.com/CAMeL-Lab/palmyra).
+
+* Category: manual annotation tool
+* Platform: Any
+* Implementation: JavaScript
+* License: open source
+* Homepage: <http://palmyra.camel-lab.com/>
+* References: Taji and Habash (2020): [Dima Taji and Nizar Habash. 2020. PALMYRA 2.0: A Configurable Multilingual Platform Independent Tool for Morphology and Syntax Annotation. In Proceedings of Universal Dependencies Workshop (UDW) 2020.](https://aclanthology.org/2020.udw-1.19.pdf).
+* Contact: Nizar Habash (nizar.habash@nyu.edu)
+
+
+
+
 
 ### Editor modes
 
@@ -245,6 +302,16 @@ Syntax highlighting for CoNLL-U files on Sublime Text.
 * License: Apache 2.0
 * Homepage <https://github.com/stephsamson/CoNLL-U.tmLanguage/>
 
+#### Vim
+
+Basic syntax highlighting and automatic syntax checking (through ALE or
+syntastic) for CONLL-U files.
+
+* Category: editor
+* Platform: any OS that runs Vim
+* Implementation: vimscript
+* License: GPL 3.0
+* Homepage <https://github.com/flammie/vim-conllu/>
 
 
 ### Processing tools
@@ -285,7 +352,7 @@ DepEdit is a simple, open source, configurable tool for manipulating dependency 
 
 DKPro Core is collection of software components for natural language processing (NLP) based on the Apache UIMA framework. DKPro Core can be used to build workflows that automatically process text using a wide range of NLP tools from third parties that are all interoperable (Stanford CoreNLP, Apache OpenNLP, ClearNLP, mate-tools, etc etc.). It also supports a range of different data formats and can be used to convert between the different supported formats.
 
-Starting with version 1.9.0, DKPro Core supports [reading and writing](https://zoidberg.ukp.informatik.tu-darmstadt.de/jenkins/job/DKPro%20Core%20Documentation%20(GitHub)/de.tudarmstadt.ukp.dkpro.core$de.tudarmstadt.ukp.dkpro.core.doc-asl/doclinks/6/#format-ConllU) the CoNLL-U format.
+Starting with version 1.9.0, DKPro Core supports reading and writing the CoNLL-U format.
 
 The latest CoNLL-U 2.0 format is not yet supported.
 
@@ -308,6 +375,18 @@ The latest CoNLL-U 2.0 format is not yet supported.
 * Homepage: <https://pyconll.github.io/>
 * Documentation: <https://pyconll.readthedocs.io/en/latest/>
 
+#### conllu
+
+**conllu** is a python library that parses a CoNLL-U string into a nested python dictionary.
+
+It's easily installable with "pip install conllu", has good documentation and a big test suite that ensures working code, and is very customizable, which means it also works for custom formats that are similar to CoNLL-U. It works with both Python 2 and Python 3.
+
+* Category: library
+* Platform: Any OS with Python 2 or Python 3 implementation
+* Implementation: Python 2 and Python 3
+* License: MIT License
+* Homepage: <https://pypi.org/project/conllu/>
+* Documentation: <https://github.com/EmilStenstrom/conllu/blob/master/README.md>
 
 #### Treex
 
@@ -342,19 +421,58 @@ The latest CoNLL-U 2.0 format is not yet supported.
 * License: GPL, Perl
 * Homepage: <http://udapi.github.io/>
 
+#### UDon2
 
+**UDon2** is a library providing the possibility to manipulate Universal Dependencies trees. UDon2 is written in C++ with Python bindings via Boost.Python and is geared towards downstream NLP applications that require plenty of manipulations with individual dependency trees, including transforming UD trees to trees without labels on edges (as defined by [Croce et. al. (2011)](https://www.aclweb.org/anthology/D11-1096.pdf)) to be used in ML algorithms. The package can perform these manipulations, as well as reading and writing to CoNLL-U files, efficiently (see [benchmarks](https://udon2.github.io/benchmarks/). UDon2 lacks command-line interface and thus is not recommended by the authors for working with treebanks.
+
+* Category: library
+* Implementation: C++ (with Python bindings)
+* Platform: Linux and Windows (contributions for supporting OS X are welcome)
+* License: MIT (starting from release 0.1b1)
+* Homepage: <https://github.com/udon2/udon2>
+* Documentation: <https://udon2.github.io/>
+* References: [Kalpakchi and Boye (2020)](https://www.aclweb.org/anthology/2020.udw-1.14/)
+
+#### ACoLi CoNLL Libraries
+
+The **ACoLi CoNLL Libraries** provide advanced tools for processing, creating and manipulating CoNLL/TSV formats, including CoNLL-U and CoNLL-U Plus.
+In particular, this includes *merging*, *transforming* and *querying* CoNLL and other TSV (CSV) data:
+
+- conversion between different CoNLL formats
+- automated retokenization
+- merging concurrent annotations (i.e., multiple annotations of the same token merged into a single row)
+- machine-readable specs for more than 20 CoNLL and other TSV formats
+- parsing CoNLL data into graphs and back
+- rule-based transformation of CoNLL annotations, e.g., for [annotation postprocessing](https://github.com/acoli-repo/RRG), [pre-annotation](https://github.com/cdli-gh/mtaac_syntax_pipeline) or [rule-based parsing](https://github.com/acoli-repo/germhist)
+- [Linked Open Data](https://en.wikipedia.org/wiki/Linguistic_Linked_Open_Data) publication of CoNLL corpora
+- enrichment with external knowledge bases
+- support for domain-specific extensions of the original tabular design of CoNLL formats, in particular for
+  + syntactic dependencies (resolving foreign keys/object properties),
+  + Semantic Role annotations (variable-sized tables),
+  + PTB phrase structure notation (parsed into directed acyclic graph),
+  + infused XML markup (also parsed into a directed acyclic graph),
+  + multi-layer annotations (multiple directed acyclic graphs over the same text)
+
+None of these operations are limited to CoNLL-U, but CoNLL-U and CoNLL-U Plus are supported as input and output formats.
+
+* Category: library, shell
+* Platform: any OS that runs Java. Some shell scripts require Bash 4.0+ (MacOS users might need to [upgrade the pre-installed Bash](https://itnext.io/upgrading-bash-on-macos-7138bd1066ba))
+* Implementation: Java
+* License: Apache License
+* Homepage: https://github.com/acoli-repo/conll
+* References: [Chiarcos and Schenk (2018)](https://aclanthology.org/L18-1090/)
 
 ### Visualization tools
 
 #### Deptreeviz
 
-Deptreeviz is a SVG visualization and editing component.  It can be used as a swing component or to create SVGs from the command line.  It supports drag-and-drop modifications of trees, including dependency label and selecting the correct lexical items.  For the editing facilities, a matching backend needs to be programmed.  Deptreeviz is used to convert the Hamburg Dependency Treebank to UD.
+**Deptreeviz** is a SVG visualization and editing component.  It can be used as a swing component or to create SVGs from the command line.  It supports drag-and-drop modifications of trees, including dependency label and selecting the correct lexical items.  For the editing facilities, a matching backend needs to be programmed.  Deptreeviz is used to convert the Hamburg Dependency Treebank to UD.
 
 * Category: tree visualization (SVG graphics)
 * Platform: Any
 * Implementation: Java
 * License: Apache License 2.0 (open source)
-* Homepage: <https://gitlab.com/nats/deptreeviz>
+* Homepage: <https://gitlab.com/nats/deptreeviz
 * References: Sven Zimmer, Arne Köhn
 
 
@@ -373,3 +491,13 @@ A simple browser-based (JavaScript, i.e. client side) viewer of your CoNLL-U fil
 
 * Live site: [http://www.let.rug.nl/kleiweg/conllu/](http://www.let.rug.nl/kleiweg/conllu/)
 * Source code: [Github](https://github.com/rug-compling/conllu-viewer)
+
+#### TüNDRA
+
+TüNDRA (Tübingen aNnotated Data Retrieval Application) is a web application for searching in treebanks using a lightweight query language inspired by the widely used [TIGERSearch application](http://www.ims.uni-stuttgart.de/forschung/ressourcen/werkzeuge/tigersearch.html). It offers corpus linguists an interface for using corpora with complex annotation and syntactic links. Most of the treebanks available in TüNDRA are free and publicly available. To access all the treebanks a user has to have an account at a European institution of higher education (i.e. be a student or an employee). Any user may upload a CoNLL-U or a TCF file to browse/search it with the tool. A visualization is interactive (scaling, zooming, panning) and can be saved in multiple formats (e.g. to be later used for a publication). TüNDRA is a part of [CLARIN-D project](http://de.clarin.eu/) and is funded by the German Federal Ministry for Education and Research (BMBF).
+
+* Category: tree viewer and search engine
+* Platform: any (web application)
+* Implementation: JavaScript, React (frontend), Java (backend)
+* Credit: Department of General and Computational Linguistics at the University of Tübingen
+* [Access here](https://weblicht.sfs.uni-tuebingen.de/Tundra/)
