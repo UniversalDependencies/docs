@@ -105,23 +105,13 @@ extensions. Therefore the lower levels checked only the general format of these 
 not the actual labels. Level 4 assumes that we know the language of the data we are validating
 and we can check a list of available labels in a separate file. The current practice is that
 maintainers of treebanks of a given language collectively maintain the lists of labels for that
-language. A feature-value pair is considered valid if it is either documented in the universal
-guidelines or it is listed in the language-specific list. A relation subtype is considered valid
-if it is listed in the language-specific list.
+language. A feature-value pair is considered valid if it is documented in the guidelines
+(either globally or specifically for the language) **and** it is specifically permitted with
+the given UPOS tag in the given language. A relation subtype is considered valid if it is
+documented and permitted (turned on) in the given language.
 
 In addition to features and deprels, language-specific configuration may also describe the
 permitted types of “words with spaces”. These are currently described using regular expressions.
-
-In the future, this level could be modified in the following ways:
-
-* It is not enough that a label is listed. It must be also documented. If the validator does not
-  find a corresponding page in the UD documentation, or if the page does not say that this label
-  can be used in the given language, the label is not valid.
-* Usage of universally defined labels can be restricted if they do not apply to a language.
-
-The present implementation of level 4 does not pose a problem to legacy treebanks: their labels
-can be simply added to the list. If a stricter approach is taken in the future, legacy treebanks
-will need exceptions.
 
 Note that it could make sense to check level 4 for a treebank that is valid on levels 1 and 2 but
 not 3. It would mean that we want to test the general file format and label inventory, but not the
@@ -139,8 +129,9 @@ Any other reliably testable rules that apply to one language or a group of langu
 all languages. At present there is an experimental set of level-5 rules that lists for each
 language the lemmas that can be auxiliary verbs/particles, and lemmas that can be copulas.
 
-Future rules could specify that a particular feature must or must not occur with a particular
-UPOS tag; however, we would have to account for the fact that features in general are optional
+Future rules could specify that a particular feature must occur with a particular UPOS tag
+(currently it is only possible to exclude features that must not occur with a UPOS tag);
+however, we would have to account for the fact that features in general are optional
 and the treebank may not have them at all.
 
 ## Level 6: Treebank-specific Requirements
