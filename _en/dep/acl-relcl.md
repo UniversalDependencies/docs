@@ -19,6 +19,8 @@ I saw the man you love
 acl:relcl(man, love)
 ~~~
 
+TODO: Add edeprels to examples
+
 The RC may begin with a **relativizer** (*that*, *which*, *who*, or another WH-word); in some contexts (e.g., object relativization) the relativizer is optional. 
 See [PronType=Rel](). 
 The relativizer can be understood as an anaphor whose antecedent is the head of the relative clause.
@@ -30,16 +32,17 @@ In the Enhanced Dependencies layer, the relativizer instead attaches to its ante
 ~~~ sdparse
 I saw the book which you bought
 acl:relcl(book, bought)
+obj(bought, which)
 ~~~
 
-(A relative clause with no relativizer, like (1), is called a *reduced relative clause*. One with a relativizer, like (2), is called a *nonreduced relative clause*.)
+(A relative clause with no relativizer, like (1), is called a **reduced relative clause**. One with a relativizer, like (2), is called a **nonreduced relative clause**.)
 
 Relativization can create unbounded dependency—an element can be extracted from several levels of embedding:
 
 ~~~ sdparse
 I saw the book which you pretended to want to read
 acl:relcl(book, pretended)
-obj(read, book)
+obj(read, which)
 xcomp(pretended, want)
 xcomp(want, read)
 ~~~
@@ -70,7 +73,7 @@ A preposition may be left "stranded" in the relative clause (its object correspo
 
 The Basic UD analysis depends on whether it is a reduced or nonreduced RC. 
 In a nonreduced RC, the relativizer is available to fill a role in the RC, and thus gets marked with 
-the preposition (even if this makes the tree nonprojective):
+the preposition (even if this contributes to the nonprojectivity of the tree):
 
 ~~~ sdparse
 the house that you said you wanted to live in
