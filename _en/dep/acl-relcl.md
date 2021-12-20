@@ -47,7 +47,7 @@ Basic UD (left) analyzes the relativizer, if present, as filling a role in the R
 Specifically:
 - Pronominal relativizers (*that*, *which*, *who*, *what*, etc.) fill roles such as subject, object, or oblique.
 - WH-adverb relativizers (*where*, *when*, *why*, *how*, etc.) attach as [advmod]() within the RC.
-- The possessive pronominal relativizer *whose* may occur within a subject, object, or oblique.
+- The possessive pronominal relativizer *whose* may occur within a subject, object, or oblique phrase.
 
 In the Enhanced Dependencies layer (right), the relativizer instead attaches to its antecedent via the `ref` relation (as the antecedent is directly connected to a role in the RC).
 
