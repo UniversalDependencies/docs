@@ -43,7 +43,11 @@ The RC may begin with a **relativizer** (*that*, *which*, *who*, or another WH-w
 See [PronType=Rel](). 
 The relativizer can be understood as an anaphor whose antecedent is the head of the relative clause.
 
-Basic UD (left) analyzes the relativizer, if present, as filling a role in the RC such as subject, object, or oblique (if nominal), or [advmod]() (if an adverb).
+Basic UD (left) analyzes the relativizer, if present, as filling a role in the RC. 
+Specifically:
+- Pronominal relativizers (*that*, *which*, *who*, *what*, etc.) fill roles such as subject, object, or oblique.
+- WH-adverb relativizers (*where*, *when*, *why*, *how*, etc.) attach as [advmod]() within the RC.
+- The possessive pronominal relativizer *whose* may occur within a subject, object, or oblique.
 
 In the Enhanced Dependencies layer (right), the relativizer instead attaches to its antecedent via the `ref` relation (as the antecedent is directly connected to a role in the RC).
 
@@ -95,6 +99,29 @@ In the Enhanced Dependencies layer (right), the relativizer instead attaches to 
 3 where where ADV WRB PronType=Rel 2 ref _ _
 4 Monica Monica PROPN NNP Number=Sing 5 nsubj _ _
 5 sings sing VERB VBZ Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin 2 acl:relcl _ _
+</div>
+</td></tr></tbody>
+</table>
+
+
+<table> <!--the woman whose cat smells-->
+<tbody><tr><td width="600">
+<div class="conllu-parse">
+1 the the DET DT Definite=Def|PronType=Art 2 det _ _
+2 woman woman NOUN NN Number=Sing 0 root _ _
+3 whose whose PRON WP$ Poss=Yes|PronType=Rel 4 nmod:poss _ _
+4 cat cat NOUN NN Number=Sing 5 nsubj _ _
+5 smells smell VERB VBZ Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin 2 acl:relcl _ _
+</div>
+</td><td width="600">
+<div class="conllu-parse">
+# visual-style 2 3 ref color:blue
+# visual-style 4 2 obl color:blue
+1 the the DET DT Definite=Def|PronType=Art 2 det _ _
+2 woman woman NOUN NN Number=Sing 0 root 4:nmod:poss _
+3 whose whose PRON WP$ Poss=Yes|PronType=Rel 2 ref _ _
+4 cat cat NOUN NN Number=Sing 5 nsubj _ _
+5 smells smell VERB VBZ Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin 2 acl:relcl _ _
 </div>
 </td></tr></tbody>
 </table>
