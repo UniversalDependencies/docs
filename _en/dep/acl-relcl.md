@@ -10,14 +10,40 @@ udver: '2'
 A relative clause (RC) is a finite clause modifying some head (typically a noun) that is understood to fulfill some grammatical role in the RC. 
 The head is said to be "extracted" from the RC.
 
-In the Basic Dependencies representation, the main predicate of the RC attaches to the head as `acl:relcl`. 
+In the Basic Dependencies representation, the main predicate of the RC attaches to the head as `acl:relcl`. This is shown in the example on the left.
 
-In the [Enhanced Dependencies]() layer, there is an additional dependency in the opposite direction to indicate the role from which the head was "extracted".
+In the [Enhanced Dependencies]() layer, there is an additional dependency in the opposite direction to indicate the role from which the head was "extracted". This is shown on the right.
 
 ~~~ sdparse
 I saw the man you love
 acl:relcl(man, love)
 ~~~
+
+<table id="rc-example1"> <!--I saw the man you love . -->
+<tbody><tr><td width="600">
+<div class="conllu-parse">
+1 I      _ _ _ _ _ _ _ _
+2 saw    _ _ _ _ _ _ _ _
+3 the    _ _ _ _ _ _ _ _
+4 man    _ _ _ _ 2 obj _ _
+5 you    _ _ _ _ 6 nsubj   _ _
+6 love   _ _ _ _ 4 acl:relcl _ _
+7 .      _ _ _ _ _ _ _ _
+</div>
+</td><td width="600">
+<div class="conllu-parse">
+# visual-style 6 4 obj color:blue
+1 I      _ _ _ _ _ _ _ _
+2 saw    _ _ _ _ _ _ _ _
+3 the    _ _ _ _ _ _ _ _
+4 man    _ _ _ _ 2 obj 6:obj _
+5 you    _ _ _ _ 6 nsubj   _ _
+6 love   _ _ _ _ 4 acl:relcl _ _
+7 .      _ _ _ _ _ _ _ _
+</div>
+</td></tr></tbody>
+</table>
+
 
 TODO: Add edeprels to examples
 
@@ -25,15 +51,17 @@ The RC may begin with a **relativizer** (*that*, *which*, *who*, or another WH-w
 See [PronType=Rel](). 
 The relativizer can be understood as an anaphor whose antecedent is the head of the relative clause.
 
-Basic UD analyzes the relativizer, if present, as filling a role in the RC such as subject, object, or oblique (if nominal) or [mark]() (if an adverb).
+Basic UD analyzes the relativizer, if present, as filling a role in the RC such as subject, object, or oblique (if nominal) or [mark]() (if an adverb). This is shown in the example on the left.
 
-In the Enhanced Dependencies layer, the relativizer instead attaches to its antecedent via the `ref` relation (as the antecedent is directly connected to a role in the RC).
+In the Enhanced Dependencies layer, the relativizer instead attaches to its antecedent via the `ref` relation (as the antecedent is directly connected to a role in the RC). This is shown in the example on the right.
 
 ~~~ sdparse
 I saw the book which you bought
 acl:relcl(book, bought)
 obj(bought, which)
 ~~~
+
+
 
 (A relative clause with no relativizer, like (1), is called a **reduced relative clause**. One with a relativizer, like (2), is called a **nonreduced relative clause**.)
 
