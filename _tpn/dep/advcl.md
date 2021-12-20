@@ -5,8 +5,8 @@ shortdef: 'adverbial clause modifier'
 udver: '2'
 ---
 
-An adverbial clause modifier is a clause which modifies another clause. 
-This includes temporal clause,consequence, conditional clause, purpose clause, etc.
+An adverbial clause modifier is a clause which modifies another clause 
+(temporal, consequence, conditional, purpose, etc).
 The dependent must be clausal (or else it is an [advmod]())
 and the dependent is the main predicate of the clause.
 
