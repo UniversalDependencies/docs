@@ -14,7 +14,8 @@ or its is discontinuous or absent ([Rel=NCont]())
 
 ### Examples
 
-- _ <b></b>_ "<b></b> "
+- _ʃe=<b>∅-pɨri</b>_ "<b>near me</b> "
+- _aβá_<b>r-esé</b> "<b>with men</b>"
 
 
 
