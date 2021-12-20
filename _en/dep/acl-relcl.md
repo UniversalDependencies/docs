@@ -95,10 +95,25 @@ xcomp(wanted, live)
 obl(live, in)
 ~~~
 
-TODO: prepositional relatives: the house in which you live; the king from whose crown we stole the jewel; I don't know in which house you live/from where you get the nerve
+TODO: prepositional relatives: the house in which you live; the king from whose crown we stole the jewel
 
 ## Free Relatives
 
-TODO: I don't know how old he is, how much money he has, or what car he drives.
+TODO: borrow from http://universaldependencies.org/docsv1/en/overview/specific-syntax.html#free-relatives
+
+TODO [free]: You can go where you want and eat what you want.
+
+Free relatives are noun phrases containing a relative clause modifying a WH-word head.
+They are subtly different from **interrogative clauses**, where the WH-word making it interrogative is inside the clause.
+Verbs such as *wonder*, *know*, and *tell* license interrogative clause complements (including ones beginning with *whether*).
+According to *CGEL* (Huddleston and Pullum 2002, pp. 1070–1079), in contrast to interrogative clauses, free relatives 
+- are always finite;
+- are never marked by *whether*; 
+- generally permit WH-*ever* heads (*Eat what(ever) you want*); 
+- cannot be reduced with a non-*ever* head, even given sufficient context
+  * Free relative: *He bought what I was selling* → *\*I was selling something (he bought what!).*
+  * cf. interrogative: *He wondered what I was selling* → *I was selling something (he wondered what!)*).
+
+TODO [interrog]: I don't know who he is, where he lives, how old he is, how much money he has, what car he drives, to whom he is married, whether he has kids, or why he is here.
 
 <!-- Interlanguage links updated St lis 3 20:58:33 CET 2021 -->
