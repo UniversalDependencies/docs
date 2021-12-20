@@ -107,7 +107,8 @@ In the Enhanced Dependencies layer (right), the relativizer instead attaches to 
 <table> <!--the woman whose cat smells-->
 <tbody><tr><td width="600">
 <div class="conllu-parse">
-1 the the DET DT Definite=Def|PronType=Art 2 det _ _
+# visual-style 4 3 nmod:poss color:orange
+ 1 the the DET DT Definite=Def|PronType=Art 2 det _ _
 2 woman woman NOUN NN Number=Sing 0 root _ _
 3 whose whose PRON WP$ Poss=Yes|PronType=Rel 4 nmod:poss _ _
 4 cat cat NOUN NN Number=Sing 5 nsubj _ _
@@ -116,7 +117,7 @@ In the Enhanced Dependencies layer (right), the relativizer instead attaches to 
 </td><td width="600">
 <div class="conllu-parse">
 # visual-style 2 3 ref color:blue
-# visual-style 4 2 obl color:blue
+# visual-style 4 2 nmod:poss color:blue
 1 the the DET DT Definite=Def|PronType=Art 2 det _ _
 2 woman woman NOUN NN Number=Sing 0 root 4:nmod:poss _
 3 whose whose PRON WP$ Poss=Yes|PronType=Rel 2 ref _ _
