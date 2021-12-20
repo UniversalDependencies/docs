@@ -11,6 +11,7 @@ udver: '2'
   <td><a href="#Com">Com</a></td>
   <td><a href="#Cau">Cau</a></td>
   <td><a href="#Mid">Mid</a></td>
+  <td><a href="#Rcp">Rcp</a></td>
   
   
 </tr>
@@ -46,6 +47,14 @@ The middle voice
 #### Examples
 
 * _<b></b>&nbsp;_ “”
+
+### <a name="Rcp">`Rcp`</a>: Reciprocal
+
+The reciprocal voice
+
+#### Examples
+
+* _<b>o-jo-enõj</b>&nbsp;_ “they call each other”
 
 
 
