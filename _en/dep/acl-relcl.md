@@ -47,7 +47,7 @@ Basic UD (left) analyzes the relativizer, if present, as filling a role in the R
 
 In the Enhanced Dependencies layer (right), the relativizer instead attaches to its antecedent via the `ref` relation (as the antecedent is directly connected to a role in the RC).
 
-<table id="rc-example1"> <!--I saw the book which you bought . -->
+<table id="rc-example3"> <!--I saw the book which you bought . -->
 <tbody><tr><td width="600">
 <div class="conllu-parse">
 # visual-style 7 5 obj color:orange
@@ -75,6 +75,33 @@ In the Enhanced Dependencies layer (right), the relativizer instead attaches to 
 </div>
 </td></tr></tbody>
 </table>
+
+<table> <!--the episode where Monica sings-->
+<tbody><tr><td width="600">
+<div class="conllu-parse">
+# visual-style 5 3 advmod color:orange
+1 the the DET DT Definite=Def|PronType=Art 2 det _ _
+2 episode episode NOUN NN Number=Sing 0 root _ _
+3 where where ADV WRB PronType=Rel 5 advmod _ _
+4 Monica Monica PROPN NNP Number=Sing 5 nsubj _ _
+5 sings sing VERB VBZ Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin 2 acl:relcl _ _
+</div>
+</td><td width="600">
+<div class="conllu-parse">
+# visual-style 2 3 ref color:blue
+# visual-style 5 2 obl color:blue
+1 the the DET DT Definite=Def|PronType=Art 2 det _ _
+2 episode episode NOUN NN Number=Sing 0 root 5:obl _
+3 where where ADV WRB PronType=Rel 2 ref _ _
+4 Monica Monica PROPN NNP Number=Sing 5 nsubj _ _
+5 sings sing VERB VBZ Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin 2 acl:relcl _ _
+</div>
+</td></tr></tbody>
+</table>
+
+TODO: Above is from https://universaldependencies.org/u/overview/enhanced-syntax.html#relative-clauses
+Should relativizers "where", "when" be SCONJ/mark or ADV/advmod? SCONJ/mark is the majority in EWT but not consistent. (They are ADV as question words, SCONJ as interrogative complement clause markers.)
+https://github.com/UniversalDependencies/UD_English-EWT/issues/88, http://match.grew.fr/?corpus=UD_English-EWT@dev&custom=61bfec493c0d3&clustering=W.upos
 
 A relative clause with no relativizer, like (1), is called a **reduced relative clause**. One with a relativizer, like (3), is called a **nonreduced relative clause**.
 
