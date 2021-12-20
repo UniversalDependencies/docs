@@ -68,6 +68,15 @@ The correferential relational indicates that the possessor
 * _<b>o-sɨ</b> &nbsp;_ “his own mother”
 
 
+### <a name="Abs">`Abs`</a>: Absolute
+
+
+#### Examples
+
+* _<b></b> &nbsp;_ “”
+* _<b></b> &nbsp;_ “”
+
+
 
 ## Diffs
 
