@@ -103,9 +103,11 @@ TODO: borrow from http://universaldependencies.org/docsv1/en/overview/specific-s
 
 TODO [free]: You can go where you want and eat what you want.
 
-Free relatives are noun phrases containing a relative clause modifying a WH-word head.
-They are subtly different from **interrogative clauses**, where the WH-word making it interrogative is inside the clause.
-Verbs such as *wonder*, *know*, and *tell* license interrogative clause complements (including ones beginning with *whether*).
+**Free relatives** are noun phrases containing a relative clause modifying a WH-word head. 
+There is no separate relativizer in the RC; it is "fused" with the head (thus these constructions are also known as **fused relatives**).
+
+Free relatives are subtly different from **interrogative clauses**, where the WH-word making it interrogative is inside the clause.
+Verbs such as *wonder*, *know*, and *tell* license interrogative complement clauses (including ones beginning with *whether*).
 According to *CGEL* (Huddleston and Pullum 2002, pp. 1070–1079), in contrast to interrogative clauses, free relatives 
 - are always finite;
 - are never marked by *whether*; 
@@ -115,5 +117,10 @@ According to *CGEL* (Huddleston and Pullum 2002, pp. 1070–1079), in contrast t
   * cf. interrogative: *He wondered what I was selling* → *I was selling something (he wondered what!)*).
 
 TODO [interrog]: I don't know who he is, where he lives, how old he is, how much money he has, what car he drives, to whom he is married, whether he has kids, or why he is here.
+
+## Additional Examples
+
+<!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/78 -->
+TODO: She was telling me how wrong I was about how another dress that I loved compared to one of her dresses.
 
 <!-- Interlanguage links updated St lis 3 20:58:33 CET 2021 -->
