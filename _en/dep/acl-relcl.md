@@ -55,20 +55,20 @@ In the Enhanced Dependencies layer (right), the relativizer instead attaches to 
 2 saw    _ _ _ _ 0 _ _ _
 3 the    _ _ _ _ 0 _ _ _
 4 book   _ _ _ _ 2 obj _ _
-5 which  _ PRON WDT PronType=Rel 7 obj   _ _
+5 which  which PRON WDT PronType=Rel 7 obj   _ _
 6 you    _ _ _ _ 7 nsubj   _ _
 7 bought _ _ _ _ 4 acl:relcl _ _
 8 .      _ _ _ _ 0 _ _ _
 </div>
 </td><td width="600">
 <div class="conllu-parse">
-# visual-style 7 4 ref color:blue
 # visual-style 4 5 ref color:blue
+# visual-style 7 4 ref color:blue
 1 I      _ _ _ _ 0 _ _ _
 2 saw    _ _ _ _ 0 _ _ _
 3 the    _ _ _ _ 0 _ _ _
 4 book   _ _ _ _ 2 obj 7:obj _
-5 which  _ PRON WDT PronType=Rel 4 ref   _ _
+5 which  which PRON WDT PronType=Rel 4 ref   _ _
 6 you    _ _ _ _ 7 nsubj   _ _
 7 bought _ _ _ _ 4 acl:relcl _ _
 8 .      _ _ _ _ 0 _ _ _
