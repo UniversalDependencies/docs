@@ -43,7 +43,7 @@ The RC may begin with a **relativizer** (*that*, *which*, *who*, or another WH-w
 See [PronType=Rel](). 
 The relativizer can be understood as an anaphor whose antecedent is the head of the relative clause.
 
-Basic UD (left) analyzes the relativizer, if present, as filling a role in the RC such as subject, object, or oblique (if nominal) or [mark]() (if an adverb).
+Basic UD (left) analyzes the relativizer, if present, as filling a role in the RC such as subject, object, or oblique (if nominal), or [advmod]() (if an adverb).
 
 In the Enhanced Dependencies layer (right), the relativizer instead attaches to its antecedent via the `ref` relation (as the antecedent is directly connected to a role in the RC).
 
@@ -99,9 +99,9 @@ In the Enhanced Dependencies layer (right), the relativizer instead attaches to 
 </td></tr></tbody>
 </table>
 
-TODO: Above is from https://universaldependencies.org/u/overview/enhanced-syntax.html#relative-clauses
+TODO: Above is from <https://universaldependencies.org/u/overview/enhanced-syntax.html#relative-clauses>
 Should relativizers "where", "when" be SCONJ/mark or ADV/advmod? SCONJ/mark is the majority in EWT but not consistent. (They are ADV as question words, SCONJ as interrogative complement clause markers.)
-https://github.com/UniversalDependencies/UD_English-EWT/issues/88, http://match.grew.fr/?corpus=UD_English-EWT@dev&custom=61bfec493c0d3&clustering=W.upos
+<https://github.com/UniversalDependencies/UD_English-EWT/issues/88>, <http://match.grew.fr/?corpus=UD_English-EWT@dev&custom=61bfec493c0d3&clustering=W.upos>
 
 A relative clause with no relativizer, like (1), is called a **reduced relative clause**. One with a relativizer, like (3), is called a **nonreduced relative clause**.
 
@@ -128,7 +128,7 @@ Semantically, relative clauses may be **specifying/restrictive** (helping to nar
   * I rented the movie, **which you bought** (as opposed to renting).
   * I tried to explain myself – **which was a bad idea**. [antecedent is a clause]
 
-The specifying/ascriptive distinction does not affect the UD analysis: all RCs are analyzed with the `acl:relcl` relation, even if the anteceded is clausal:
+The specifying/ascriptive distinction does not affect the UD analysis: all RCs are analyzed with the `acl:relcl` relation, even if the antecedent is clausal:
 
 ~~~ sdparse
 I tried to explain myself – which was a bad idea
