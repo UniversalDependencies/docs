@@ -15,7 +15,7 @@ or it is discontinuous or absent ([Rel=NCont]())
 ### Examples
 
 - _pe=<b>∅-me</b>_ "<b>to you(pl)</b> "
-- _aʔe _<b>r-upi</b> "<b>because of that</b>"
+- _aʔe_ <b>r-upi</b> "<b>because of that</b>"
 - <b>i-z-upe</b> "<b>to him/her (absent)</b>"
 
 
