@@ -11,6 +11,14 @@ udver: '2'
 
 * _הוא_ "he"
 
+### <a name="Dual">`Dual`</a>: dual
+
+TODO: this feature should maybe be dropped or merged with `Plur`.
+
+#### Examples
+
+* _ידינו_ "our hands"
+
 ### <a name="Plur">`Plur`</a>: plural
 
 #### Examples
