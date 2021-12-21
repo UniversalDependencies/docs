@@ -7,6 +7,12 @@ udver: '2'
 
 ### <a name="Sing">`Sing`</a>: singular
 
-### <a name="Dual">`Dual`</a>: dual
+#### Examples
+
+* _הוא_ "he"
 
 ### <a name="Plur">`Plur`</a>: plural
+
+#### Examples
+
+* _הם_ "they (m)"
