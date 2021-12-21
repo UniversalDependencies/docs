@@ -35,6 +35,9 @@ participles_ that share properties and usage of adverbs and
 verbs. Depending on language and context, they may be classified as
 either `VERB` or [ADV]().
 
+Deverbal connectives acting as adpositions or subordinators may be tagged `VERB` 
+while participating in a [case]() or [mark]() relation: see [ADP]().
+
 ### Examples
 
 - _run, eat_
