@@ -4,16 +4,14 @@ DET: determiner
 
 Determiners are words that modify nouns or noun phrases and express the reference of the noun phrase in context. Ιt is possible to replace a single determiner (that seems to function like a pronoun) with a synonymous full NP.
 The traditional grammar of Modern Greek does not specify the category “determiner”; rather it specifies definite and indefinite articles, adjectives and pronouns. 
-The label DET is assigned to the two articles, certain traditional adjectives (and their comparatives) and to a set of pronouns.  
+The label 'det' is assigned to the two articles, certain traditional adjectives (and their comparatives) and to a set of pronouns.  
 
 #Examples
-1.definite article (PronType=Art): ο, η, το
-2. 	indefinite article (PronType=Art): ένας, μία, ένα
-3. adjectives denoting quantities and their comparatives:
- 
-o	  (PronType=Ind) αρκετός ‘enough’, λίγος ‘little/few’ (ελάχιστος ‘very very little/few’), μερικός ‘some’, μισός ‘half’, μόνος ‘only’, πολύς ‘many/much’
-
-o	  (PronType=Tot) ολόκληρος ‘whole’, όλος ‘all’
+*   definite article (PronType=Art): *ο*, *η*, *το* / *o*, *i*, *to* "the"
+*  	indefinite article (PronType=Art): *ένας*, *μία*, *ένα* / *enas*, *mia*, *ena* "a"
+*   adjectives denoting quantities and their comparatives:
+    *   ('PronType=Ind') αρκετός ‘enough’, λίγος ‘little/few’ (ελάχιστος ‘very very little/few’), μερικός ‘some’, μισός ‘half’, μόνος ‘only’, πολύς    ‘many/much’
+    *   ('PronType=Tot') ολόκληρος ‘whole’, όλος ‘all’
 
 4.	demonstrative pronouns (PronType=Dem): αυτός ‘this’, εκείνος ‘that’, (ε)τούτος ‘this/that’, τέτοιος ‘such’, τόσος ‘this/that many/much, so/as’, ίδιος ‘the same’
 5. indefinite pronouns: 
