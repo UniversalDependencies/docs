@@ -8,7 +8,13 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-* Words are generally delimited by whitespace or punctuation. For more details, see [tokenization](tokenization.html).
+* In general, words are delimited by whitespace characters. Description of exceptions follows.
+* According to typographical rules, a punctuation mark is attached to a neighbouring (usually following) word. Punctuation marks are usually tokenised as separate tokens (words), unless they are considered an integral part of the lemma (as in _2-րդ_ “2nd”, _44-օրեայ_ “44-day”, or _85-ամեայ_ “85th anniversary”). On the other hand, hyphens in constructions such as _ռուսա-իրանա-սուրիական_ “Russian-Iranian-Syrian” or before inflectional endings (as in _96-ի_ “of 96.Dat”, _1956-ին_ “in 1956.Dat”, _196-ամեակի_ “196th anniversary.Dat” ) are treated as separate tokens.
+* A whitespace separating digits in a large number is not treated as a word separator. For example, _1 000 000_ (“1,000,000” by English rules) is one token. (However, such tokens do not occur in Western Armenian treebanks as of release 2.8.)
+* There are two classes of “orthographic words” (sequences of letters without spaces inside) that are split into several syntactic tokens.
+  * The most prominent type is so-called “infixed punctuation”, i.e. words containing question, exclamation, emphasis and Armenian abbreviation marks, as in _ինչպէ՞ս = ինչպէս + ՞_ “How?”, are treated as multi-word tokens and segmented to individual syntactic words.
+  * Orthographic words of the other class consist of a indicative or negative particles _կ՚_ and _չ՚_ (followed by a vocal and treated as auxiliaries), as in _կ՚այցելեմ = կ՚ + այցելեմ_ “(I am) visiting” and _չ՚ուզեր = չի + ուզեր_ “(He/She) does not want”.
+* For more details, see [tokenization](tokenization.html).
 
 ## Morphology
 
