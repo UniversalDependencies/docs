@@ -164,7 +164,7 @@ acl:relcl(tried, idea)
 nsubj(idea, which)
 ~~~
 
-## Preposition Stranding and Prepositional Relatives
+## Preposition Stranding
 
 A preposition may be left "stranded" in the relative clause (its object corresponding to the head of the RC):
 
@@ -195,7 +195,39 @@ xcomp(wanted, live)
 obl(live, in)
 ~~~
 
-TODO: prepositional relatives: the house in which you live; the king from whose crown we stole the jewel
+## Prepositional Relatives
+
+As an alternative to stranding, the preposition may occur before the relativizer (for some relativizers, particularly *which*, *whom*, and *whose*):
+
+~~~ sdparse
+the house in which you live
+acl:relcl(house, live)
+obl(live, which)
+case(which, in)
+~~~
+
+~~~ sdparse
+the crown from where the jewels were stolen
+acl:relcl(crown, stolen)
+obl(stolen, where)
+case(where, from)
+~~~
+
+~~~ sdparse
+the king from whom the jewels were stolen
+acl:relcl(king, stolen)
+obl(stolen, whom)
+case(where, from)
+~~~
+
+~~~ sdparse
+the king from whose crown we stole the jewels
+acl:relcl(king, stole)
+obl(stole, crown)
+case(crown, from)
+nmod:poss(crown, whose)
+~~~
+
 
 ## Free Relatives
 
