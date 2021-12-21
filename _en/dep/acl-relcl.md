@@ -199,12 +199,33 @@ TODO: prepositional relatives: the house in which you live; the king from whose 
 
 ## Free Relatives
 
-TODO: borrow from http://universaldependencies.org/docsv1/en/overview/specific-syntax.html#free-relatives
-
-TODO [free]: You can go where you want and eat what you want.
+NOTE: partially adapted from <https://universaldependencies.org/en/specific-syntax.html#free-relatives>
 
 **Free relatives** are noun phrases containing a relative clause modifying a WH-word head. 
 There is no separate relativizer in the RC; it is "fused" with the head (thus these constructions are also known as **fused relatives**).
+
+<!-- In free relative constructions, the _wh_-clause functions as an argument in the higher clause. In these cases, the _wh_-phrase is deemed the head of the construction, thereby receiving a dependency relation reflective of its function in the higher clause, and the rest of the _wh_-clause is an `acl:relcl` dependent on it. -->
+
+~~~sdparse
+I 'll have whatever she 's having .
+obj(have, whatever)
+acl:relcl(whatever, having)
+~~~
+
+~~~sdparse
+You can go where you want and eat what you want .
+advmod(go, where)
+acl:relcl(where, want)
+obj(eat, what)
+acl:relcl(what, want)
+~~~
+
+~~~sdparse
+I love how well everyone behaved .
+obj(love, well)
+advmod(well, how)
+acl:relcl(well, behaved)
+~~~
 
 Free relatives are subtly different from **interrogative clauses**, where the WH-word making it interrogative is inside the clause.
 Verbs such as *wonder*, *know*, and *tell* license interrogative complement clauses (including ones beginning with *whether*).
@@ -216,7 +237,95 @@ According to *CGEL* (Huddleston and Pullum 2002, pp. 1070–1079), in contrast t
   * Free relative: *He bought what I was selling* → *\*I was selling something (he bought what!).*
   * cf. interrogative: *He wondered what I was selling* → *I was selling something (he wondered what!)*).
 
-TODO [interrog]: I don't know who he is, where he lives, how old he is, how much money he has, what car he drives, to whom he is married, whether he has kids, or why he is here.
+The following contain interrogative complement clauses, not free relatives, and thus use [ccomp]():
+
+~~~sdparse
+I need to know who you are planning to leave with .
+obl(leave, who)
+case(who, with)
+ccomp(know, leave)
+~~~
+
+~~~sdparse
+I don't know who he is , where he lives , how old he is , how much money he has , what car he drives , to whom he is married , whether he has kids , or why he is here .
+ccomp(know, who)
+nsubj(who, he)
+conj(who, lives)
+advmod(lives, where)
+conj(who, old)
+advmod(old, how-12)
+conj(who, has-21)
+advmod(much, how-18)
+amod(money, much)
+nsubj(has, money)
+conj(who, drives)
+nsubj(drives, car)
+det(car, what)
+conj(who, married)
+obl(married, whom)
+case(whom, to)
+conj(who, has-36)
+mark(has-36, whether)
+conj(who, here)
+advmod(here, why)
+~~~
+
+*When*, *where*, *why*, and *how* frequently introduce adverbial clauses ([advcl]()):
+
+~~~sdparse
+When you leave , be sure to let me know .
+advmod(leave, When)
+advcl(sure, leave)
+~~~
+
+TODO: the above would be `mark` not `advmod` in EWT
+
+TODO: is plain `acl` ever correct for a WH-clause? "the time when", "the reason why"? <http://match.grew.fr/?corpus=UD_English-EWT@dev&custom=61c1f3622bda6>
+
+## Clefts
+
+The free relative analysis is also extended to cleft constructions.
+
+~~~sdparse
+-ROOT- John is who we want to help .
+root(-ROOT-, who)
+nsubj(who, John)
+acl:relcl(who, want)
+cop(who, is)
+~~~
+
+~~~sdparse
+-ROOT- It 's John who we want to help .
+expl(who, It)
+root(-ROOT-, who)
+nsubj(who, John)
+acl:relcl(who, want)
+cop(who, 's)
+~~~
+
+~~~sdparse
+-ROOT- What the committee hopes to learn is why all these events transpired .
+nsubj(why, What)
+acl:relcl(What, hopes)
+cop(why, is)
+acl:relcl(why, transpired)
+nsubj(transpired, events)
+root(-ROOT-, why)
+~~~
+
+## _No matter_
+
+The phrase _no matter_ is analyzed as taking a `obj` complement in, e.g., _no matter the cost_. When it takes free relative object, that object is also analyzed according to the rules above.
+
+~~~sdparse
+No matter what progress we make as individuals, we will never achieve real health until ...
+neg(matter, No)
+npmod(achieve, matter)
+dobj(matter, progress)
+det(progress, what)
+acl:relcl(make, progress)
+~~~
+
 
 ## Additional Examples
 
