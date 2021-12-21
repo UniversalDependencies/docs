@@ -261,6 +261,19 @@ acl:relcl(well, behaved)
 
 ### Versus other constructions
 
+*When*, *where*, *why*, and *how* frequently introduce **adverbial clauses** ([advcl]()):
+
+~~~sdparse
+When you leave , be sure to let me know .
+advmod(leave, When)
+advcl(sure, leave)
+~~~
+
+TODO: the above would be `mark` not `advmod` in EWT
+
+TODO: is plain `acl` ever correct for a WH-clause? "the time when", "the reason why"? <http://match.grew.fr/?corpus=UD_English-EWT@dev&custom=61c1f3622bda6>
+
+
 Free relatives are subtly different from **interrogative clauses**, where the WH-word making it interrogative is inside the clause.
 Verbs such as *wonder*, *know*, and *tell* license interrogative complement clauses (including ones beginning with *whether*).
 According to *CGEL* (Huddleston and Pullum 2002, pp. 1070–1079), in contrast to interrogative clauses, free relatives 
@@ -305,18 +318,6 @@ mark(has-36, whether)
 conj(lives, here)
 advmod(here, why)
 ~~~
-
-*When*, *where*, *why*, and *how* frequently introduce adverbial clauses ([advcl]()):
-
-~~~sdparse
-When you leave , be sure to let me know .
-advmod(leave, When)
-advcl(sure, leave)
-~~~
-
-TODO: the above would be `mark` not `advmod` in EWT
-
-TODO: is plain `acl` ever correct for a WH-clause? "the time when", "the reason why"? <http://match.grew.fr/?corpus=UD_English-EWT@dev&custom=61c1f3622bda6>
 
 ### Cyclic cases
 
