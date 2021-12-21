@@ -73,7 +73,7 @@ det(no-such, token)
 ## CoNLL-U example
 
 <div class="conllu-parse" tabs="yes">
-1     I         I        PRON    PRN      Num=Sing|Per=1     2      nsubj _ _
+1     Εγώ         εγώ        PRON    PRN      Num=Sing|Per=1     2      nsubj _ _
 2-3   haven't   _        _       _        _                  _      _ _ _
 2     have      have     VERB    VB       Tens=Pres          0      root _ _
 3     not       not      ADV     RB       _                  2      neg _ _
