@@ -227,6 +227,8 @@ advmod(well, how)
 acl:relcl(well, behaved)
 ~~~
 
+### Versus other constructions
+
 Free relatives are subtly different from **interrogative clauses**, where the WH-word making it interrogative is inside the clause.
 Verbs such as *wonder*, *know*, and *tell* license interrogative complement clauses (including ones beginning with *whether*).
 According to *CGEL* (Huddleston and Pullum 2002, pp. 1070–1079), in contrast to interrogative clauses, free relatives 
@@ -283,6 +285,39 @@ advcl(sure, leave)
 TODO: the above would be `mark` not `advmod` in EWT
 
 TODO: is plain `acl` ever correct for a WH-clause? "the time when", "the reason why"? <http://match.grew.fr/?corpus=UD_English-EWT@dev&custom=61c1f3622bda6>
+
+### Cyclic cases
+
+In some cases, the _wh_-phrase would be analyzed as the head of the _wh_-clause. For example, in the sentence _I love how appreciative everyone was_, the word _appreciative_ would normally be a predicative head (since the verb _was_ is a copula and would receive the `cop` relation). Since _appreciative_ cannot be an `acl:relcl` dependent on itself, the auxiliary is promoted to the head of the relative clause and assigned the `acl:relcl` relation.
+
+~~~sdparse
+I love how appreciative everyone was .
+obj(love, appreciative)
+acl:relcl(appreciative, was)
+advmod(appreciative, how)
+~~~
+
+TODO: Also copied from the v1 guidelines:
+
+~~~sdparse
+This is the key to how worthy the effort might be .
+nmod(key, worthy)
+case(worthy, to)
+advmod(worthy, how)
+acl:relcl(worthy, be)
+~~~
+
+But I am not sure whether this is a free relative. Cf. "This is the key to whether the effort might be worthy." (suggests clause-like) "This is the key to its worthiness." (suggests NP-like). Maybe it's ambiguous? How about:
+
+~~~sdparse
+This is the key to how worthy the effort might be .
+nmod(key, worthy)
+mark(worthy, to)
+advmod(worthy, how)
+acl(key, worthy)
+cop(worthy, be)
+~~~
+
 
 ## Clefts
 
