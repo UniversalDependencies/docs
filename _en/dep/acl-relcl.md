@@ -217,7 +217,7 @@ case(where, from)
 the king from whom the jewels were stolen
 acl:relcl(king, stolen)
 obl(stolen, whom)
-case(where, from)
+case(whom, from)
 ~~~
 
 ~~~ sdparse
