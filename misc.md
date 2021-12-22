@@ -52,6 +52,51 @@ See [Morf](#morf). Used currently in Yupik, the `Analysis` attribute conveys the
 information that other treebanks store in the `Morf` attribute.
 **The two names should be merged across treebanks and languages!**
 
+### Bridge
+
+Used in conjunction with [Entity](#Entity) to indicate bridging anaphora, by creating a pointing relation between two coreference GRP identifiers:
+
+```CoNLL-U
+# sent_id = GUM_bio_gordon-32
+1	An	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	Entity=(abstract-142
+2	incomplete	incomplete	ADJ	JJ	Degree=Pos|Polarity=Neg	6	amod	_	_
+3	and	and	CCONJ	CC	_	4	cc	_	_
+4	faulty	faulty	ADJ	JJ	Degree=Pos	2	conj	_	_
+5	German	German	ADJ	JJ	Degree=Pos	6	amod	_	_
+6	translation	translation	NOUN	NN	Number=Sing	21	nsubj:pass	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	8	punct	_	_
+8	edited	edit	VERB	VBN	Tense=Past|VerbForm=Part	6	acl	_	_
+9	by	by	ADP	IN	_	10	case	_	_
+10	Dr	Dr	PROPN	NNP	Number=Sing	8	obl	_	Entity=(person-143
+11	Moritz	Moritz	PROPN	NNP	Number=Sing	10	flat	_	_
+12	Posselt	Posselt	PROPN	NNP	Number=Sing	10	flat	_	Entity=142)143)
+13	(	(	PUNCT	-LRB-	_	18	punct	_	SpaceAfter=No
+14	Tagebuch	Tagebuch	X	FW	_	18	compound	_	Entity=(abstract-142
+15	des	des	X	FW	_	18	compound	_	_
+16	Generals	Generals	X	FW	_	18	compound	_	_
+17	Patrick	Patrick	PROPN	NNP	Number=Sing	18	compound	_	_
+18	Gordon	Gordon	PROPN	NNP	Number=Sing	6	appos	_	Entity=142)|SpaceAfter=No
+19	)	)	PUNCT	-RRB-	_	18	punct	_	_
+20	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21	aux:pass	_	_
+21	published	publish	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
+22	,	,	PUNCT	,	_	25	punct	_	_
+23	the	the	DET	DT	Definite=Def|PronType=Art	25	det	_	Entity=(abstract-144|Bridge=142<144
+24	first	first	ADJ	JJ	Degree=Pos|NumType=Ord	25	amod	_	_
+25	volume	volume	NOUN	NN	Number=Sing	21	parataxis	_	Entity=144)
+26	at	at	ADP	IN	_	27	case	_	_
+27	Moscow	Moscow	PROPN	NNP	Number=Sing	25	orphan	_	Entity=(place-95)
+28	in	in	ADP	IN	_	29	case	_	_
+29	1849	1849	NUM	CD	NumType=Card	25	orphan	_	Entity=(time-145)|SpaceAfter=No
+30	,	,	PUNCT	,	_	32	punct	_	_
+31	the	the	DET	DT	Definite=Def|PronType=Art	32	det	_	Entity=(abstract-146|Bridge=142<146
+32	second	second	ADJ	JJ	Degree=Pos|NumType=Ord	25	conj	_	Entity=146)
+33	at	at	ADP	IN	_	34	case	_	_
+34	St	St	PROPN	NNP	Number=Sing	32	orphan	_	Entity=(place-147
+35	Petersburg	Petersburg	PROPN	NNP	Number=Sing	34	flat	_	Entity=147)
+```
+
+Here "the first" (entity number 144) and "the second" (entity number 146) are volumes of a "translation" (entity number 142), hence we have `Bridge=142<144` and `Bridge=142<146`, indicating that the identity of 144 and 146 is resolvable by reference to entity 142. See more information in the [Entity](#Entity) notation section and the documentation from the [Universal Anaphora format specifications](https://github.com/UniversalAnaphora/UniversalAnaphora/blob/main/documents/UA_CONLL_U_proposal_compact.md)
+
 ### Correct{FEATURE}
 
 For instance: `CorrectCase`, `CorrectDegree`, `CorrectGender`, `CorrectMood`, `CorrectNumber`,
