@@ -787,6 +787,47 @@ Used in Hindi HDTB and Urdu UDTB.
     6	था	था	AUX     _   _   5   aux        _   Vib=था|Tam=WA|ChunkId=VGF|ChunkType=child|Translit=thā
     7	।	।	PUNCT   _   _   5   punct      _   ChunkId=BLK|ChunkType=head|Translit=.
 
+### XML
+
+The annotation `XML` is used to encode opening and closing XML/HTML tags in source documents, which are not part of the text that appears in the actual word forms and do not correspond to some other, already existing MISC annotation. For example, because paragraphs are representable in `# newpar` or `NewPar` annotations, there is no need to represent XML elements such as `<p>`. However, some tags represent features other than block elements, and may also have attributes. These are used, for example, in the English GUM corpua:
+
+```CoNLL-U
+1	Antonín	Antonín	PROPN	NNP	Number=Sing	31	nsubj	31:nsubj	XML=<hi rend:::"bold">
+2	Leopold	Leopold	PROPN	NNP	Number=Sing	1	flat	1:flat	_
+3	Dvořák	Dvořák	PROPN	NNP	Number=Sing	1	flat	1:flat	XML=</hi>
+4	(	(	PUNCT	-LRB-	_	6	punct	6:punct	SpaceAfter=No
+5	/	/	PUNCT	SYM	_	6	punct	6:punct	_
+6	d(ə)ˈvɔːrʒɑːk	d(ə)ˈvɔːrʒɑːk	PROPN	NNP	Number=Sing	1	appos	1:appos	XML=<ref target:::"https://en.wikipedia.org/wiki/Help:IPA/English"></ref>
+7	,	,	PUNCT	,	_	8	punct	8:punct	_
+8	-ʒæk	-ʒæk	PROPN	NNP	Number=Sing	6	conj	1:appos|6:conj	XML=<ref target:::"https://en.wikipedia.org/wiki/Help:IPA/English"></ref>
+9	/	/	PUNCT	SYM	_	10	punct	10:punct	_
+10	d(ə)-VOR-zha(h)k	d(ə)-VOR-zha(h)k	PROPN	NNP	Number=Sing	1	appos	1:appos	SpaceAfter=No|XML=<hi rend:::"italic"><ref target:::"https://en.wikipedia.org/wiki/Help:IPA/English"></ref></hi>
+11	;	;	PUNCT	:	_	12	punct	12:punct	_
+12	Czech	Czech	PROPN	NNP	Number=Sing	15	dep	15:dep	SpaceAfter=No
+13	:	:	PUNCT	:	_	12	punct	12:punct	_
+14	[	[	PUNCT	-LRB-	_	15	punct	15:punct	SpaceAfter=No
+15	ˈantoɲiːn	ˈantoɲiːn	PROPN	NNP	Number=Sing	1	parataxis	1:parataxis	XML=<ref target:::"https://en.wikipedia.org/wiki/Help:IPA/Czech">
+16	ˈlɛopolt	ˈlɛopolt	PROPN	NNP	Number=Sing	15	flat	15:flat	_
+17	ˈdvor̝aːk	ˈdvor̝aːk	PROPN	NNP	Number=Sing	15	flat	15:flat	SpaceAfter=No|XML=</ref>
+18	]	]	PUNCT	-RRB-	_	15	punct	15:punct	SpaceAfter=No
+19	;	;	PUNCT	:	_	20	punct	20:punct	_
+20	8	8	NUM	CD	NumForm=Digit|NumType=Card	15	nmod:tmod	15:nmod:tmod	XML=<date when:::"1841-09-08">
+21	September	September	PROPN	NNP	Number=Sing	20	compound	20:compound	_
+22	1841	1841	NUM	CD	NumForm=Digit|NumType=Card	20	nmod:tmod	20:nmod:tmod	XML=</date>
+23	–	-	SYM	SYM	_	24	case	24:case	_
+24	1	1	NUM	CD	NumForm=Digit|NumType=Card	20	nmod	20:nmod:to	XML=<date when:::"1904-05-01">
+25	May	May	PROPN	NNP	Number=Sing	24	compound	24:compound	_
+26	1904	1904	NUM	CD	NumForm=Digit|NumType=Card	24	nmod:tmod	24:nmod:tmod	SpaceAfter=No|XML=</date>
+27	)	)	PUNCT	-RRB-	_	15	punct	15:punct	_
+28	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	31	cop	31:cop	_
+29	a	a	DET	DT	Definite=Ind|PronType=Art	31	det	31:det	_
+30	Czech	Czech	ADJ	JJ	Degree=Pos	31	amod	31:amod	XML=<ref target:::"https://en.wikipedia.org/wiki/Czechs"></ref>
+31	composer	composer	NOUN	NN	Number=Sing	0	root	0:root	SpaceAfter=No
+32	.	.	PUNCT	.	_	31	punct	31:punct	_
+```
+
+This example illustrates several types of tags found in the source data for this document: hyperlinks, resolved date annotations, and rendering markup, such as bold font weight. The convention for the XML annotations is to indicate all opening tags opening before a token on its line's MISC field, in oreder of opening, and all closing tags on the line of the token after which the tag closes (in the reverse order). As a result, XML markup around a single token will have both the opening and closing elements on the same line (see token 30 in the example, a single-token hyperlink). The XML elements are represented canonically including their attributes, except that the equals sign is escaped as `:::`, to avoid confusion with the MISC field's own `=` sign. If pipes occur in the value, they must also be escaped using an XML escape (e.g. `&#124;`).
+
 ### to be documented
 
 * entity, coreference
