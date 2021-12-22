@@ -105,6 +105,58 @@ More details are discussed in the [guidelines for typos](u/overview/typos.html).
     4	wrong	wrong	ADJ	_	_	0	root	_	CorrectSpaceAfter=No
     5	.	.	PUNCT	_	_	4	punct	_	_
 
+### Entity
+
+This annotation is used to encode entity types and, if available, entity linking, coreference information, and other information about entities as well. The span of tokens encompassed by each entity mention is indicated by a pair of `Entity` annotations in the MISC field, which begin and end the entity span using opening and closing round brackets (or both, for single token entities). The values of each entity annotation, in cases where multiple pieces of information are given for each entity, are separated by `-`, and the key names for these annotations are specified once in a `# Global.Entity` comment at the beginning of the document, in the order in which they appear for each entity. A basic example can look like this, with three keys declared - the entity type `entity`, a coreference group ID `GRP` and an entity linking identifier `identity`:
+
+```CoNLL-U
+# newdoc id = GUM_voyage_tulsa
+# global.Entity = entity-GRP-identity
+1	Tulsa	_	_	_	_	_	_	_	Entity=(place-1-Tulsa)
+2	Tulsa	_	_	_	_	_	_	_	Entity=(place-1-Tulsa)
+3	is	_	_	_	_	_	_	_	_
+4	in	_	_	_	_	_	_	_	_
+5	the	_	_	_	_	_	_	_	Entity=(place-2-Green_Country
+6	Green	_	_	_	_	_	_	_	_
+7	Country	_	_	_	_	_	_	_	_
+8	region	_	_	_	_	_	_	_	_
+9	of	_	_	_	_	_	_	_	_
+10	Oklahoma	_	_	_	_	_	_	_	Entity=(place-3-Oklahoma)2)
+11	.	_	_	_	_	_	_	_	_
+12	It	_	_	_	_	_	_	_	Entity=(place-1-Tulsa)
+13	is	_	_	_	_	_	_	_	_
+14	also	_	_	_	_	_	_	_	_
+15	called	_	_	_	_	_	_	_	_
+16	“	_	_	_	_	_	_	_	_
+17	T-town	_	_	_	_	_	_	_	Entity=(place-1-Tulsa)
+18	”	_	_	_	_	_	_	_	_
+```
+
+Note that key-value annotations aside from the group ID are not repeated at closing brackets, and that multiple entities can open or close at the same line (see token 10 in the example). A more complex example indicating actual usage in the GUM corpus is as follows:
+
+```CoNLL-U
+# global.Entity = entity-GRP-infstat-MIN-coref_type-identity
+...
+# text = He is said to have had a bad relationship with his father.
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	3:nsubj:pass|6:nsubj:xsubj	Entity=(person-1-giv:act-1-ana-Daniel_Bernoulli)
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	3:aux:pass	_
+3	said	say	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
+4	to	to	PART	TO	_	6	mark	6:mark	_
+5	have	have	AUX	VB	VerbForm=Inf	6	aux	6:aux	_
+6	had	have	VERB	VBN	Tense=Past|VerbForm=Part	3	xcomp	3:xcomp	_
+7	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	Entity=(abstract-54-new-3-sgl
+8	bad	bad	ADJ	JJ	Degree=Pos	9	amod	9:amod	_
+9	relationship	relationship	NOUN	NN	Number=Sing	6	obj	6:obj	_
+10	with	with	ADP	IN	_	12	case	12:case	_
+11	his	his	PRON	PRP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	12:nmod:poss	Entity=(person-45-giv:inact-2-coref-Johann_Bernoulli(person-1-giv:act-1-ana-Daniel_Bernoulli)
+12	father	father	NOUN	NN	Number=Sing	9	nmod	9:nmod:with	Entity=45)54)|SpaceAfter=No
+13	.	.	PUNCT	.	_	3	punct	3:punct	_
+```
+
+In this example, each Entity annotation again contains possibly multiple opening or closing entities (see token 11, which begins both "his" and "his father", i.e. we have [[his] father] as a nested entity). There are six segments to each opening bracket, separated by hyphen, including entity, GRP and identity as before, but also infstat (information status), MIN (the minimal span for fuzzy entity matching, indicating running token numbers inside the entity span) and coref_type, for example 'ana' for pronominal anaphora. 
+
+For more details and use case of the `Entity` annotation, see the [Universal Anaphora documentation](https://github.com/UniversalAnaphora/UniversalAnaphora/blob/main/documents/UA_CONLL_U_proposal_compact.md)
+
 ### Gloss
 
 See also [Translit](#translit), [MGloss](#mgloss) and [LGloss](#lgloss).
@@ -828,6 +880,3 @@ The annotation `XML` is used to encode opening and closing XML/HTML tags in sour
 
 This example illustrates several types of tags found in the source data for this document: hyperlinks, resolved date annotations, and rendering markup, such as bold font weight. The convention for the XML annotations is to indicate all opening tags opening before a token on its line's MISC field, in oreder of opening, and all closing tags on the line of the token after which the tag closes (in the reverse order). As a result, XML markup around a single token will have both the opening and closing elements on the same line (see token 30 in the example, a single-token hyperlink). The XML elements are represented canonically including their attributes, except that the equals sign is escaped as `:::`, to avoid confusion with the MISC field's own `=` sign. If pipes occur in the value, they must also be escaped using an XML escape (e.g. `&#124;`).
 
-### to be documented
-
-* entity, coreference
