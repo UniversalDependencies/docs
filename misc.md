@@ -150,6 +150,46 @@ More details are discussed in the [guidelines for typos](u/overview/typos.html).
     4	wrong	wrong	ADJ	_	_	0	root	_	CorrectSpaceAfter=No
     5	.	.	PUNCT	_	_	4	punct	_	_
 
+### Discourse
+
+This annotation is used to indicate discourse relations between discourse units, which may or may not span whole sentences. At the beginning of each elementary discourse unit (EDU), the annotation `Discourse` gives the discourse function of the unit beginning with that token, followed by a colon, the ID of the current unit, and an arrow pointing to the ID of the parent unit in the discourse parse. 
+
+For instance, Discourse=purpose:105->104:0 at token 21 in the example below means that this token begins discourse unit 105, which functions as a purpose to unit 104, which begins at token 1 in this sentence ("Padalecki partnered with co-star Jensen Ackles --purpose-> to release a shirt..."). In relations derived from hierarchical discourse trees, as in UD_English-GUM, we also have an added number after a colon - the final :0 indicates that the attachment has a depth of 0, without an intervening span in the original RST constituent tree (this information allows deterministic reconstruction of the RST constituent discourse tree from the conllu file). 
+
+```CoNLL-U
+1	For	for	ADP	IN	_	4	case	4:case	Discourse=sequence_m:104->98:2
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
+3	second	second	ADJ	JJ	Degree=Pos|NumType=Ord	4	amod	4:amod	_
+4	campaign	campaign	NOUN	NN	Number=Sing	16	obl	16:obl:for	_
+5	in	in	ADP	IN	_	10	case	10:case	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	_
+7	Always	Always	ADV	NNP	Number=Sing	8	advmod	8:advmod	_
+8	Keep	Keep	PROPN	NNP	Number=Sing	10	compound	10:compound	_
+9	Fighting	Fighting	PROPN	NNP	Number=Sing	8	xcomp	8:xcomp	_
+10	series	series	NOUN	NN	Number=Sing	4	nmod	4:nmod:in	_
+11	in	in	ADP	IN	_	12	case	12:case	_
+12	April	April	PROPN	NNP	Number=Sing	4	nmod	4:nmod:in	_
+13	2015	2015	NUM	CD	NumForm=Digit|NumType=Card	12	nmod:tmod	12:nmod:tmod	SpaceAfter=No
+14	,	,	PUNCT	,	_	4	punct	4:punct	_
+15	Padalecki	Padalecki	PROPN	NNP	Number=Sing	16	nsubj	16:nsubj	_
+16	partnered	partner	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+17	with	with	ADP	IN	_	18	case	18:case	_
+18	co-star	co-star	NOUN	NN	Number=Sing	16	obl	16:obl:with	_
+19	Jensen	Jensen	PROPN	NNP	Number=Sing	18	appos	18:appos	_
+20	Ackles	Ackles	PROPN	NNP	Number=Sing	19	flat	19:flat	_
+21	to	to	PART	TO	_	22	mark	22:mark	Discourse=purpose:105->104:0
+22	release	release	VERB	VB	VerbForm=Inf	16	advcl	16:advcl:to	_
+23	a	a	DET	DT	Definite=Ind|PronType=Art	24	det	24:det	_
+24	shirt	shirt	NOUN	NN	Number=Sing	22	obj	22:obj	_
+25	featuring	feature	VERB	VBG	VerbForm=Ger	24	acl	24:acl	Discourse=elaboration:106->105:0
+26	both	both	DET	DT	_	25	obj	25:obj	_
+27	of	of	ADP	IN	_	29	case	29:case	_
+28	their	their	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	29	nmod:poss	29:nmod:poss	_
+29	faces	face	NOUN	NNS	Number=Plur	26	nmod	26:nmod:of	SpaceAfter=No
+```
+
+The unique ROOT node of the discourse tree has no arrow notation, e.g. `Discourse=ROOT:2:0` means that this token begins unit 2, which is the Central Discourse Unit (or discourse root) of the current document. 
+
 ### Entity
 
 This annotation is used to encode entity types and, if available, entity linking, coreference information, and other information about entities as well. The span of tokens encompassed by each entity mention is indicated by a pair of `Entity` annotations in the MISC field, which begin and end the entity span using opening and closing round brackets (or both, for single token entities). The values of each entity annotation, in cases where multiple pieces of information are given for each entity, are separated by `-`, and the key names for these annotations are specified once in a `# Global.Entity` comment at the beginning of the document, in the order in which they appear for each entity. A basic example can look like this, with three keys declared - the entity type `entity`, a coreference group ID `GRP` and an entity linking identifier `identity`:
