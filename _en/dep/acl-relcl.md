@@ -247,9 +247,9 @@ acl:relcl(whatever, having)
 ~~~sdparse
 You can go where you want and eat what you want .
 advmod(go, where)
-acl:relcl(where, want)
+acl:relcl(where, want-6)
 obj(eat, what)
-acl:relcl(what, want)
+acl:relcl(what, want-11)
 ~~~
 
 ~~~sdparse
