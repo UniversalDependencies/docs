@@ -2,8 +2,8 @@
 
 ## Definition ##
 
-Determiners are words that modify nouns or noun phrases and express the reference of the noun phrase in context. Ιt is possible to replace a single determiner (that seems to function like a pronoun) with a synonymous full noun phrase.
-The traditional grammar of Modern Greek does not specify the category “determiner”; rather it specifies definite and indefinite articles, adjectives and pronouns. 
+Determiners are words that modify nouns [NOUN]() or noun phrases and express the reference of the noun phrase in context. Ιt is possible to replace a single determiner (that seems to function like a pronoun [PRON]()) with a synonymous full noun phrase.
+The traditional grammar of Modern Greek does not specify the category “determiner”; rather it specifies definite and indefinite articles, adjectives [ADJ]() and pronouns. 
 The label <code>DET</code> is assigned to the two articles, certain traditional adjectives (and their comparatives) and to a set of pronouns.  
 
 ## Examples ##
@@ -22,9 +22,9 @@ The label <code>DET</code> is assigned to the two articles, certain traditional 
 
 ## References ##
 
-Holton, David, Peter Mackridge & Irene Philippaki-Warburton. 1997. *Greek: A Comprehensive Grammar of the Modern Language*. Routledge, London 1997; reprinted 1999, 2002 & 2004. [Greek translation: *Γραμματική της ελληνικής γλώσσας* (tr. Vasilis Spyropoulos), Patakis, Athens 1999]; 2nd edn published as Greek: A Comprehensive Grammar, revised by Vassilios Spyropoulos (London and New York: Routledge, 2012).
+Holton, David, Peter Mackridge & Irene Philippaki-Warburton. 1997. *Greek: A Comprehensive Grammar of the Modern Language*. Routledge, London 1997; reprinted 1999, 2002 & 2004 
 
-Mackridge, Peter. 1985. *The Modern Greek Language. A Descriptive Analysis of Standard Modern Greek*. Oxford University Press, Oxford 1985. [Paperback edn, 1987, reprinted 1989 & 1992; Greek translation, with corrections: H νεοελληνική γλώσσα (tr. K.N. Petropoulos), Patakis, Athens 1991]
+Mackridge, Peter. 1985. *The Modern Greek Language. A Descriptive Analysis of Standard Modern Greek*. Oxford University Press, Oxford 1985. (Paperback edn, 1987, reprinted 1989 & 1992) 
 
 Χρήστος Κλαίρης & Γεώργιος Μπαμπινώτης. 2001. *Γραμματική της Νέας Ελληνικής* Τόμος Γ’. 2η έκδοση. Αθήνα: Ελληνικά Γράμματα. 
 
