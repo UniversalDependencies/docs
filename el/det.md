@@ -10,7 +10,7 @@ The label 'det' is assigned to the two articles, certain traditional adjectives 
 *   definite article (PronType=Art): *ο*, *η*, *το* / *o*, *i*, *to* "the"
 *  	indefinite article (PronType=Art): *ένας*, *μία*, *ένα* / *enas*, *mia*, *ena* "a"
 *   adjectives denoting quantities and their comparatives:
-    *   ('PronType=Ind') αρκετός ‘enough’, λίγος ‘little/few’ (ελάχιστος ‘very very little/few’), μερικός ‘some’, μισός ‘half’, μόνος ‘only’, πολύς    ‘many/much’
+    *   ('PronType=Ind') *αρκετός*/*arketos* "enough", *λίγος*/*ligos* "little/few" (*ελάχιστος*/*elachistos* "very very little/few"), *μερικός*/*merikos* "some", *μισός*/*misos* "half", *μόνος ‘only’, πολύς    ‘many/much’
     *   ('PronType=Tot') ολόκληρος ‘whole’, όλος ‘all’
 
 4.	demonstrative pronouns (PronType=Dem): αυτός ‘this’, εκείνος ‘that’, (ε)τούτος ‘this/that’, τέτοιος ‘such’, τόσος ‘this/that many/much, so/as’, ίδιος ‘the same’
