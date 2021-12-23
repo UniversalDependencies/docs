@@ -1,12 +1,12 @@
-<b>DET: determiner</b>
+# <b>DET: determiner</b> #
 
-<b>Definition</b>
+## <b>Definition</b> ##
 
 Determiners are words that modify nouns or noun phrases and express the reference of the noun phrase in context. Ιt is possible to replace a single determiner (that seems to function like a pronoun) with a synonymous full NP.
 The traditional grammar of Modern Greek does not specify the category “determiner”; rather it specifies definite and indefinite articles, adjectives and pronouns. 
 The label 'det' is assigned to the two articles, certain traditional adjectives (and their comparatives) and to a set of pronouns.  
 
-<b>Examples</b>
+## <b>Examples</b> ##
 *   definite article (PronType=Art): *ο*, *η*, *το* / *o*, *i*, *to* "the"
 *  	indefinite article (PronType=Art): *ένας*, *μία*, *ένα* / *enas*, *mia*, *ena* "a"
 *   adjectives denoting quantities and their comparatives:
@@ -20,7 +20,7 @@ The label 'det' is assigned to the two articles, certain traditional adjectives 
 *   interrogative pronouns when followed by a noun ('PronType=Int'): *ποιος* / *pios* "who", *πόσος* / *posos* "how many/much", *τι* / *ti* "what kind", e.g., *ποιο/πόσο/τι φαγητό θέλεις;* / *pio/poso/ti fagito thelis?* "which/how much/what kind of food do you want?"
 *   relative pronouns ('PronType=Rel'): *όποιος/-δήποτε* / *opios/-dipote* "anyone/whoever", *όσος/-δήποτε* / *osos/-dipote* "no matter how many/much", *ό,τι/-δήποτε* / *oti/-dipote* "whichever"
 
-<b>References</b> 
+## <b>References</b> ##
 
 Holton, David, Peter Mackridge & Irene Philippaki-Warburton. 1997. *Greek: A Comprehensive Grammar of the Modern Language*. Routledge, London 1997; reprinted 1999, 2002 & 2004. [Greek translation: *Γραμματική της ελληνικής γλώσσας* (tr. Vasilis Spyropoulos), Patakis, Athens 1999]; 2nd edn published as Greek: A Comprehensive Grammar, revised by Vassilios Spyropoulos (London and New York: Routledge, 2012).
 
