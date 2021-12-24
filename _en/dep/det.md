@@ -23,4 +23,6 @@ nsubj(won, You)
 det(You, all)
 aux(won, 've)
 ~~~
+
+See also: [det:predet]()
 <!-- Interlanguage links updated St lis 3 20:58:50 CET 2021 -->
