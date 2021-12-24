@@ -19,6 +19,6 @@ Following UD v2, words are pre-classified in the dictionary as PRON, based on th
 
 Holton, David, Peter Mackridge & Irene Philippaki-Warburton. 1997. *Greek: A Comprehensive Grammar of the Modern Language*. Routledge, London 1997; reprinted 1999, 2002 & 2004. 
 
-Χρήστος Κλαίρης & Γεώργιος Μπαμπινώτης. 2001. *Γραμματική της Νέας Ελληνικής* Τόμος Γ’. 2η έκδοση. Αθήνα: Ελληνικά Γράμματα. 
+Κλαίρης, Χρήστος  & Γεώργιος Μπαμπινώτης. 2001. *Γραμματική της Νέας Ελληνικής* Τόμος Γ’. 2η έκδοση. Αθήνα: Ελληνικά Γράμματα. 
 
 Τζάρτζανος, Αχιλλέας, 2002. *Νεοελληνική Σύνταξις της Κοινής Δημοτικής*. Αθήνα: Εκδόσεις Κυριακίδη. σελ. 225.
