@@ -8,18 +8,18 @@ The tag <code>NOUN</code>  is intended for common nouns only. See <code>PROPN</c
 
 ## Examples
 
-*	Certain adjectives are considered nouns. As such they tend to disallow the formation of comparatives (but an adjective may not allow for comparatives anyway).
+*	Certain adjectives are considered nouns. As such they disallow the formation of comparatives (but not all adjectives allow for comparatives anyway).
   
-      o	  NOUN: Professions such as αστυνομικός ‘policeman’, στρατιωτικός ‘military officer’. When the same words co occur with another noun, such as αστυνομικός σκύλος ‘police dog’, they are assigned the tag <code>ADJ</code>.
+      o	  Professions such as *αστυνομικός* / *astinomikos* "policeman", *στρατιωτικός* / *stratiotikos* "military officer". When the same words cooccur with another noun, such as *αστυνομικός σκύλος* / *astinomikos skilos* "police dog", they are assigned the tag <code>ADJ</code>.
   
-      o	  NOUN: ακουστικό ‘head phone /hearing aid’, κινητό ‘mobile’, ενδότερα ‘inner parts’, πρωϊνό ‘breakfast’, μεσημεριανό ‘lunch’, βραδινό ‘dinner’, λαδερά ‘dish (cooked) in olive oil ‘etc.
+      o	  *ακουστικό* / *akoustiko* "head phone/hearing aid", *κινητό* / *kinito* "mobile phone", *ενδότερα* / *endhotera* "inner parts", *πρωϊνό* / *proino* "breakfast", *μεσημεριανό* / *mesimeriano* "lunch", *βραδινό* / *vradhino* "dinner", *λαδερά* / *ladhera* "vegetable dishes cooked in olive oil", etc.
     
-*	Diminutives (υποκοριστικά) productively formed with suffixes such as  –άκι, –ιτσα, –ούλης, –ούλα, -άκης like χταποδάκι ‘little octopus’, παιδάκι ‘little child’, μικρούλα ‘little girl’,  φωνίτσα ‘little voice’: they are assigned the lemma of the original noun and the feature el-DIM takes the value Dim. 
-*	Magnifiers (μεγεθυντικά)  productively formed with suffixes such as -άρας, -αράς like τρυπάρα ‘large hole’, παιχταράς ‘excellent football player’: they are assigned the lemma of the original noun and the feature el-DIM takes the value Mag.
-*	Lexicalised diminutives and magnifiers such as  λακκάκι ‘dimple’, αγριοφωνάρα ‘barbarous voice’: they are not defined for the feature DIM. 
+*	Diminutives (*υποκοριστικά* / *ipokoristika*) productively formed with suffixes such as  *–άκι* / *-aki*, *–ιτσα* / *-itsa*, *–ούλης* / *-oulis*, *-άκης* / *-akis* like *χταποδάκι* / *chtapodhaki* "little octopus", *παιδάκι* / *pedhaki* "little child", *μικρούλα* / *mikroula* "little girl",  *φωνίτσα* / *fonitsa* "little voice": they are assigned the lemma of the original noun and the feature <code>el-DIM</code> takes the value <code>Dim</code>. 
+*	Magnifiers (*μεγεθυντικά* / *megethintika*)  productively formed with suffixes such as *-άρας* / *-aras*, *-αράς* / *-aras* like  *τρυπάρα* / *tripara* "large hole", *ψευταράς* / *pseftaras* "great lier": they are assigned the lemma of the original noun and the feature <code>el-DIM</code> takes the value <code>Mag</code>.
+*	Lexicalised diminutives and magnifiers such as  *λακκάκι* ‘dimple’, *σουβλάκι* / *souvlaki* "roasted pieces of meat on a little spit", *παιχταράς* / *pechtaras* "excellent (football) player": they are not defined for the feature <code>el-DIM</code>. 
 
 
 # References 
 
-Αθανασία Καρρά. 2006. *Προβλήματα κλίσης και υποκορισμού στην Ελληνική και στα ευρωπαϊκά συστήματα*. Μεταπτυχιακή Διατριβή.  Πανεπιστήμιο Πατρών. https://nemertes.library.upatras.gr/jspui/bitstream/10889/911/1/Nimertis_Karra.pdf 
+Athanasia Karra.  2006. *Problems of inflection and of diminutives formatino in Modern Greek and the other European systems.* PhD Thesis (in Greek). University of Patras.   https://nemertes.library.upatras.gr/jspui/bitstream/10889/911/1/Nimertis_Karra.pdf 
 
