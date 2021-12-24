@@ -2,39 +2,40 @@
 
 ## Definition
 
-Adjectives are words that typically modify nouns and specify their properties or attributes. They may also function as predicates, as in Το αυτοκίνητο είναι πράσινο. ‘The car is green.’
+Adjectives are words that typically modify nouns and specify their properties or attributes. They may also function as predicates, as in *το αυτοκίνητο είναι πράσινο* / *to aftokinito ine prasino* "The car is green."
 
-The ADJ tag is intended for ordinary adjectives only. See DET for determiners and NUM for cardinal numerals.
+The tag <code>ADJ</code> is intended for ordinary adjectives only (see <code>DET</code> for determiners and <code>NUM</code> for cardinal numerals).
+Αdjectival ordinal numerals that behave like adjectives both morphologically and syntactically (*πρώτος* / *protos* "first", *δεύτερος* / *defteros* "second", *εξηκοστός* / *exikostos* "sixtieth") are tagged as adjectives.
 
-Αdjectival ordinal numerals that behave like adjectives both morphologically and syntactically (πρώτος, δεύτερος, εξηκοστός) are tagged as adjectives.
+Nationalities are assigned the tag <code>ADJ</code>, such as *Έλληνας* / *Greek* "Greek", *Ευρωπαίος* / *Evropeos* "European" , *Ασιάτης* / *Asiatis" "Asian" etc.
 
-Nationalities are assigned the tag ADJ, such as Έλληνας ‘Greek’, Ευρωπαίος ‘ European’ , Ασιάτης ‘Asian’ etc.
 
-Participles ending in -μένος, -μένη, -μένο are not assigned the ADJ label.
+Certain adjectives, which are assigned the tag code>NOUN</code> or <code>PROPN</code>, disallow the formation of comparatives (but there are adjectives that do not allow for comparatives anyway, such as "dead"). These include:
 
-Certain adjectives are considered nouns or proper nouns. As such they tend to disallow the formation of comparatives (but an adjective may not allow for comparatives anyway).
-●	NOUN: Languages, such as ελληνικά ‘Greek’, αγγλικά ‘English’ (and the lemma is ελληνικά etc)
-●	NOUN: Professions such as αστυνομικός ‘policeman’, στρατιωτικός ‘military officer’. When the same words cooccur with anothere noun, such as αστυνομικός σκύλος ‘police dog’, they are assigned the tag ADJ.
-●	NOUN: ακουστικό ‘head phone /hearing aid’, κινητό ‘mobile’, ενδότερα ‘inner parts’, πρωϊνό ‘breakfast’, μεσημεριανό ‘lunch’, βραδινό ‘dinner’, λαδερά ‘dish (cooked) in olive oil ‘etc.
+*	Languages, such as *ελληνικά* / *elinika* "Greek", *πομακικά* / *pomakika* "Pomak" (and the lemma is ελληνικά.PL etc) are assigned the tag NOUN.
+*	Professions such as *αστυνομικός* / *astinomikos* "policeman", *στρατιωτικός* / *stratiotikos* "military officer" are assigned the tag NOUN. When the same words cooccur with another noun, such as *αστυνομικός σκύλος* / *astinomikos skilos* "police dog", they are assigned the tag ADJ.
+*	ακουστικό ‘head phone /hearing aid’, κινητό ‘mobile’, ενδότερα ‘inner parts’, πρωϊνό ‘breakfast’, μεσημεριανό ‘lunch’, βραδινό ‘dinner’, λαδερά ‘dish (cooked) in olive oil ‘etc.
 
 ●	PROPN: 
-o	Day names such as Τρίτη ‘Tuesday’, Σαββατοκύριακο ‘weekend’
-o	Public bodies such as Δημόσιο, Λιμενικό etc. 
+  o	  Day names such as Τρίτη ‘Tuesday’, Σαββατοκύριακο ‘weekend’
+  o	  Public bodies such as Δημόσιο, Λιμενικό etc. 
 
-Greek adjectives inflect for el-feat/Gender (μεγάλος – μεγάλη – μεγάλο) “big”, el-feat/Number (μεγάλος – μεγάλοι) and el-feat/Case (μεγάλοι – μεγάλων – μεγάλους).
+Greek adjectives inflect for <code>el-feat/Gender</code> (μεγάλος – μεγάλη – μεγάλο) “big”, <code>el-feat/Number</code> (μεγάλος – μεγάλοι) and <code>el-feat/Case</code> (μεγάλοι – μεγάλων – μεγάλους).
 
-Non-periphrastic comparative and superlative el-feat/Degree of Greek adjectives are formed using a small set of suffixes or irregular forms.
-●	ταχύς – ταχύτερος – ταχύτατος ‘fast’
-●	ακριβής – ακριβέστερος – ακριβέστατος ‘exact’
-●	μεγάλος – μεγαλύτερος – μέγιστος ‘big’
+Non-periphrastic comparative and superlative <code>el-feat/Degree</code> of Greek adjectives are formed using a small set of suffixes or irregular forms.
+* ταχύς – ταχύτερος – ταχύτατος ‘fast’
+*	ακριβής – ακριβέστερος – ακριβέστατος ‘exact’
+*	μεγάλος – μεγαλύτερος – μέγιστος ‘big’
+
+<b>Participles</b> ending in -μένος, -μένη, -μένο are not assigned the tag ADJ.
 
 ## Examples
 
-●	μεγάλος ‘big’, πράσινος ‘green’, ακατάληπτος ‘incomprehensible’
-●	πρώτος, δεύτερος, τρίτος ‘first, second, third’
-●	(elsewhere categorised as pronouns): δικός ‘my’, ίδιος ‘same’
-●	ancient adverbs used as adjectives in Modern Greek: νυν ‘current’, τέως ‘past’
-●	pieces of phrases received from older forms of the language: καθωσπρέπει ‘proper’
+*	μεγάλος ‘big’, πράσινος ‘green’, ακατάληπτος ‘incomprehensible’
+*	πρώτος, δεύτερος, τρίτος ‘first, second, third’
+*	(elsewhere categorised as pronouns): δικός ‘my’, ίδιος ‘same’
+*	ancient adverbs used as adjectives in Modern Greek: νυν ‘current’, τέως ‘past’
+*	pieces of phrases received from older forms of the language: καθωσπρέπει ‘proper’
 
 ## References
 
