@@ -253,11 +253,19 @@ acl:relcl(what, want-11)
 ~~~
 
 ~~~sdparse
+I don't like how it looks (CGEL p. 1077)
+obj(like, how)
+acl:relcl(how, looks)
+~~~
+
+~~~sdparse
 I love how well everyone behaved .
 obj(love, well)
 advmod(well, how)
 acl:relcl(well, behaved)
 ~~~
+
+TODO: GKP: exclamative. CGEL p. 919: exclamatives license *very*: "I love how very well everyone behaved" (\*I wonder how very well everyone behaved). cf. "I love how appreciative everyone was" (cyclic example)
 
 ### Versus other constructions
 
@@ -282,7 +290,8 @@ According to *CGEL* (Huddleston and Pullum 2002, pp. 1070–1079), in contrast t
 - generally permit WH-*ever* heads (*Eat what(ever) you want*); 
 - cannot be reduced with a non-*ever* head, even given sufficient context
   * Free relative: *He bought what I was selling* → *\*I was selling something (he bought what!).*
-  * cf. interrogative: *He wondered what I was selling* → *I was selling something (he wondered what!)*).
+  * cf. interrogative: *He wondered what I was selling* → *I was selling something (he wondered what!)*);
+- never license *else* after a non-*ever* head (*\*He bought what else I was selling*) [this test is from *SIEG*, Huddleston et al. 2021, p. 291].
 
 The following contain interrogative complement clauses, not free relatives, and thus use [ccomp]():
 
@@ -319,9 +328,22 @@ conj(lives, here)
 advmod(here, why)
 ~~~
 
+**Exclamative clauses** beginning with *how* or *what* may also function as complements:
+
+- I know/\*wonder what a jerk he is!
+   ~~~sdparse
+I know what a jerk he is !
+ccomp(know, jerk)
+nsubj(jerk, he)
+cop(jerk, is)
+~~~
+- I noticed how big a car he has. ('I noticed that he has a remarkably big car.')
+
 ### Cyclic cases
 
 In some cases, the _wh_-phrase would be analyzed as the head of the _wh_-clause. For example, in the sentence _I love how appreciative everyone was_, the word _appreciative_ would normally be a predicative head (since the verb _was_ is a copula and would receive the `cop` relation). Since _appreciative_ cannot be an `acl:relcl` dependent on itself, the auxiliary is promoted to the head of the relative clause and assigned the `acl:relcl` relation.
+
+TODO: If I am reading CGEL correctly this should be an exclamative complement clause, not a free relative, so the cyclicity problem goes away. If we adopt the exclamative claus analysis [these results with BE as the RC predicate](http://match.grew.fr/?corpus=UD_English-EWT@dev&custom=61c5129ddeaf0) should be revisited.
 
 ~~~sdparse
 I love how appreciative everyone was .
