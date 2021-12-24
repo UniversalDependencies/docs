@@ -72,7 +72,7 @@ Does he go oink oink ?
 compound(oink-5, oink-4)
 ~~~
 
- - idiomatic phrasal verbs are analyzed as a language-specific subrelation of *compound*
+ - idiomatic verb-particle constructions are analyzed with a language-specific subtype, [compound:prt]()
 
 ~~~ sdparse
 She just made up the answer .
