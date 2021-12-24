@@ -21,5 +21,5 @@ The tag <code>NOUN</code>  is intended for common nouns only. See <code>PROPN</c
 
 # References 
 
-Karra, Athanasia .  2006. *Problems of inflection and of diminutives formatino in Modern Greek and the other European systems.* PhD Thesis (in Greek). University of Patras.   https://nemertes.library.upatras.gr/jspui/bitstream/10889/911/1/Nimertis_Karra.pdf 
+Karra, Athanasia.  2006. *Problems of inflection and of diminutives formatino in Modern Greek and the other European systems.* PhD Thesis (in Greek). University of Patras.   https://nemertes.library.upatras.gr/jspui/bitstream/10889/911/1/Nimertis_Karra.pdf 
 
