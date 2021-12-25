@@ -380,6 +380,8 @@ cop(worthy, be)
 
 The free relative analysis is also extended to cleft constructions.
 
+TODO: potential problem—"that" cannot normally head free relatives, but it can appear in clefts: "It is [the marrying off of young girls to older men often close relatives] that enfurates me."
+
 ~~~sdparse
 -ROOT- John is who we want to help .
 root(-ROOT-, who)
