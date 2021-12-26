@@ -9,7 +9,7 @@ The tag <code>ADJ</code> is intended for ordinary adjectives only (see <code>DET
 
 Nationalities are assigned the tag ADJ, such as *Έλληνας* / *Greek* "Greek", *Ευρωπαίος* / *Evropeos* "European" , *Ασιάτης* / *Asiatis* "Asian" etc.
 
-Certain adjectives, which are assigned the tag code>NOUN</code> or <code>PROPN</code>, do not form comparatives (but there are adjectives that do not allow for comparatives, such as "dead"). These include:
+Certain adjectives, which are assigned the tag <code>NOUN</code> or <code>PROPN</code>, do not form comparatives (but there are adjectives that do not allow for comparatives, such as "dead"). These include:
 
 *	Languages, such as *ελληνικά* / *elinika* "Greek", *πομακικά* / *pomakika* "Pomak" (and the lemma is *ελληνικά*.PL etc) are assigned the tag NOUN.
 *	Professions such as *αστυνομικός* / *astinomikos* "policeman", *στρατιωτικός* / *stratiotikos* "military officer". When the same words cooccur with another noun, such as *αστυνομικός σκύλος* / *astinomikos skilos* "police dog", they are assigned the tag <code>ADJ</code>.
