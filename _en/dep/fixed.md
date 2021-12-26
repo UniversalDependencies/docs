@@ -420,7 +420,7 @@ obl(compared, one)
 case(one, to)
 ~~~
 
-*as soon as*
+*as soon as*, *as long as* (standard [comparative analysis](/u/overview/specific-syntax.html#comparatives); contrast coordinating *as well as* above)
 
 ~~~ sdparse
 Let 's leave as soon as it ends .
