@@ -16,13 +16,13 @@ Following UD v2, words are pre-classified in the dictionary as PRON, based on th
 
 Several words that traditionally have been classified as pronouns are considered <code>DET</code>:
 
-* demonstrative pronouns (PronType=Dem): αυτός / aftos "this", εκείνος / ekinos "that", (ε)τούτος / (e)toutos "this/that", τέτοιος / tetios "such", τόσος / tosos "this/that many/much, so/as", ίδιος / idios "the same"
-* indefinite pronouns:
-
-    <code>PronType=Ind</code> *άλλος* / *alos* "other", *κάποιος* / *kapios* "somebody", *κάτι* / *kati* "some"
-    <code>PronType=Tot</code> *κάθε* / *kathe* "every", *καθένας* / *kathenas* "each one"
-    <code>PronType=Ind/Neg</code> *κανείς (κανένας)* / *kanis (kanenas)* "nobody", *τίποτα/ε* / *tipota/e* "nothing/anything"
-
+* demonstrative pronouns (PronType=Dem): *αυτός* / *aftos* "this", *εκείνος* / *ekinos* "that", *(ε)τούτος* / *(e)toutos* "this/that", *τέτοιος* / *tetios* "such", *τόσος* / *tosos* "this/that many/much, so/as", *ίδιος* / *idios* "the same"
+*   indefinite pronouns: 
+    *   (<code>PronType=Ind</code>) *άλλος* / *alos* "other", *κάποιος* / *kapios* "somebody", *κάτι* / *kati* "some"
+    *   (<code>PronType=Tot</code>) *κάθε* / *kathe* "every", *καθένας* / *kathenas* "each one"
+    *   (<code>PronType=Ind/Neg</code>) *κανείς (κανένας)*  /*kanis (kanenas)* "nobody", *τίποτα/ε* / *tipota/e* "nothing/anything"
+*   interrogative pronouns when followed by a noun (<code>PronType=Int</code>): *ποιος* / *pios* "who", *πόσος* / *posos* "how many/much", *τι* / *ti* "what kind", e.g., *ποιο/πόσο/τι φαγητό θέλεις;* / *pio/poso/ti fagito thelis?* "which/how much/what kind of food do you want?"
+*   relative pronouns (<code>PronType=Rel</code>): *όποιος/-δήποτε* / *opios/-dipote* "anyone/whoever", *όσος/-δήποτε* / *osos/-dipote* "no matter how many/much", *ό,τι/-δήποτε* / *oti/-dipote* "whichever"
 
 
 ## References
