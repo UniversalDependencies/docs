@@ -17,10 +17,8 @@ Certain adjectives, which are assigned the tag code>NOUN</code> or <code>PROPN</
     
 
 *	PROPN: 
-
-    o	  Names of days such as *Τρίτη* / *Triti* "Tuesday"
-  
-    o	  Public bodies such as *Δημόσιο* / *Dhimosio* "Public Domain", *Ναυτικό* / *Naftiko* "Navy" etc. 
+    *	  Names of days such as *Τρίτη* / *Triti* "Tuesday
+    *	  Public bodies such as *Δημόσιο* / *Dhimosio* "Public Domain", *Ναυτικό* / *Naftiko* "Navy" etc. 
 
 Greek adjectives inflect for <code>el-feat/Gender</code>, <code>el-feat/Number</code> and <code>el-feat/Case</code>.
 
