@@ -419,4 +419,15 @@ advcl(tall, compared)
 obl(compared, one)
 case(one, to)
 ~~~
+
+*as soon as*
+
+~~~ sdparse
+Let 's leave as soon as it ends .
+advmod(leave, soon)
+advmod(soon, as-4)
+advcl(soon, ends)
+mark(ends, as-6)
+nsubj(ends, it)
+~~~
 <!-- Interlanguage links updated St lis 3 20:58:53 CET 2021 -->
