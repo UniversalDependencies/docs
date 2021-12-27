@@ -5,9 +5,7 @@ shortdef: 'determiner'
 ---
 
 
-# DET: determiner #
-
-### Definition 
+C
 
 Determiners are words that modify nouns [NOUN]() or noun phrases and express the reference of the noun phrase in context. Ιt is possible to replace a single determiner (that seems to function like a pronoun [PRON]()) with a synonymous full noun phrase.
 The traditional grammar of Modern Greek does not specify the category “determiner”; rather it specifies definite and indefinite articles, adjectives [ADJ]() and pronouns. 
