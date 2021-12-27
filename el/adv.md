@@ -21,9 +21,14 @@ There is a closed subclass of pronominal adverbs that refer to circumstances in 
 
 ### References
 
-Holton, David, Peter Mackridge & Irene Philippaki-Warburton, Greek: A Comprehensive Grammar of the Modern Language. Routledge, London 1997; reprinted 1999, 2002 & 2004. [Greek translation: Γραμματική της ελληνικής γλώσσας (tr. Vasilis Spyropoulos), Patakis, Athens 1999]; 2nd edn published as Greek: A Comprehensive Grammar, revised by Vassilios Spyropoulos (London and New York: Routledge, 2012).
-Χρήστος Κλαίρης & Γεώργιος Μπαμπινώτης. 2001. Γραμματική της Νέας Ελληνικής Τόμος Γ’. 2η έκδοση. Αθήνα: Ελληνικά Γράμματα. 
-Τζάρτζανος, Αχιλλέας, 2002. Νεοελληνική Σύνταξις της Κοινής Δημοτικής. Αθήνα: Εκδόσεις Κυριακίδη. σελ. 225.
+Holton, David, Peter Mackridge & Irene Philippaki-Warburton. 1997. *Greek: A Comprehensive Grammar of the Modern Language*. Routledge, London 1997; reprinted 1999, 2002 & 2004 
+
+Mackridge, Peter. 1985. *The Modern Greek Language. A Descriptive Analysis of Standard Modern Greek*. Oxford University Press, Oxford 1985. (Paperback edn, 1987, reprinted 1989 & 1992) 
+
+Κλαίρης, Χρήστος  & Γεώργιος Μπαμπινώτης. 2001. *Γραμματική της Νέας Ελληνικής* Τόμος Γ’. 2η έκδοση. Αθήνα: Ελληνικά Γράμματα. 
+
+Τζάρτζανος, Αχιλλέας, 2002. *Νεοελληνική Σύνταξις της Κοινής Δημοτικής*. Αθήνα: Εκδόσεις Κυριακίδη. σελ. 225.
+
 https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/
 
 
