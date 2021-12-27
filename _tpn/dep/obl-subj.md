@@ -1,7 +1,7 @@
 ---
 layout: relation
 title:  'obl:subj'
-shortdef : 'agent modifier'
+shortdef : 'NP-related subject'
 udver: '2'
 ---
 
