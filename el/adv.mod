@@ -28,5 +28,4 @@ There is a closed subclass of pronominal adverbs that refer to circumstances in 
 
 Τζάρτζανος, Αχιλλέας, 2002. *Νεοελληνική Σύνταξις της Κοινής Δημοτικής*. Αθήνα: Εκδόσεις Κυριακίδη. σελ. 225.
 
-[https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/]()
 
