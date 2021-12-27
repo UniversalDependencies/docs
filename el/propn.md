@@ -10,6 +10,7 @@ shortdef: 'adjective'
 #### Definition
 
 A proper noun [PROPN]() is a noun (or nominal content word) that is the name (or part of the name) of a specific individual, place, or object.
+
 When a PROPN is formed by an [ADJ]() and a [Noun](), such as *Μεγάλη Βδομάδα* / *Meghali Vdhomadha* "Holy Week", *Λιμενικό Σώμα* / *Limeniko Soma* "Coast Guard", *Άρειος Πάγος*/ *Arios Pagos* "The Supreme Court"  the adjective is tagged ADJ and the noun PROPN; the adjective modifies the noun via the syntactic dependency [amod]().
 
 When other phrases or sentences are used as names, the component words retain their original tags. For example, in *Δίωξη ναρκωτικών* / *Dioxi narkotikon* "Drug Enforcement  Agency", both *Δίωξη* and  *ναρκωτικών* are assigned the tag NOUN.
