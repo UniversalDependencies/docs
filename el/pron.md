@@ -14,6 +14,9 @@ Following UD v2, words are pre-classified in the dictionary as PRON, based on th
 *	relative pronouns <code>PronType=Rel</code>: *οποίος* / *opios* "who"
 *	definite pronouns <code>PronType= Emp</code>: *ίδιος* / *idhios* "himself" e.g.,  *ήρθε ο ίδιος και μου είπε* / *irthe o idhios ke mou ipe* "he himself came  and told me..."
 
+ Greek pronouns inflect for <code>el-feat/Gender</code>, <code>el-feat/Number</code> and <code>el-feat/Case</code>. 
+ 
+
 Several words that traditionally have been classified as pronouns are considered <code>DET</code>:
 
 * demonstrative pronouns (PronType=Dem): *αυτός* / *aftos* "this", *εκείνος* / *ekinos* "that", *(ε)τούτος* / *(e)toutos* "this/that", *τέτοιος* / *tetios* "such", *τόσος* / *tosos* "this/that many/much, so/as", *ίδιος* / *idios* "the same"
