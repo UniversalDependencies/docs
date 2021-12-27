@@ -1,7 +1,7 @@
 ---
 layout: relation
 title:  'obl:obj'
-shortdef : 'NP-related object'
+shortdef : 'oblique object'
 udver: '2'
 ---
 
