@@ -5,7 +5,7 @@ shortdef: 'noun'
 ---
 
 
-# NOUN : noun 
+## NOUN : noun 
 
 ### Definition
 
