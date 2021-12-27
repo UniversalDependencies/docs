@@ -3,6 +3,8 @@ layout: postag
 title: 'ADV'
 shortdef: 'adverb'
 ---
+
+
 ## ΑDV: adverb
 
 ### Definition
@@ -22,9 +24,9 @@ There is a closed subclass of pronominal adverbs that refer to circumstances in 
 
 Holton, David, Peter Mackridge and Irene Philippaki-Warburton, Greek: A Comprehensive Grammar of the Modern Language. Routledge, London 1997; reprinted 1999, 2002 & 2004. [Greek translation: Γραμματική της ελληνικής γλώσσας (tr. Vasilis Spyropoulos), Patakis, Athens 1999]; 2nd edn published as Greek: A Comprehensive Grammar, revised by Vassilios Spyropoulos (London and New York: Routledge, 2012).
 
-Κλαίρης, Χρήστος, Γεώργιος Μπαμπινώτης. 2001. Γραμματική της Νέας Ελληνικής Τόμος Γ’. 2η έκδοση. Αθήνα: Ελληνικά Γράμματα. 
+Κλαίρης, Χρήστος  & Γεώργιος Μπαμπινώτης. 2001. *Γραμματική της Νέας Ελληνικής* Τόμος Γ’. 2η έκδοση. Αθήνα: Ελληνικά Γράμματα. 
 
-Τζάρτζανος, Αχιλλέας, 2002. Νεοελληνική Σύνταξις της Κοινής Δημοτικής. Αθήνα: Εκδόσεις Κυριακίδη. σελ. 225.
+Τζάρτζανος, Αχιλλέας, 2002. *Νεοελληνική Σύνταξις της Κοινής Δημοτικής*. Αθήνα: Εκδόσεις Κυριακίδη. σελ. 225.
 
 [https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/]()
 
