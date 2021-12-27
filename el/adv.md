@@ -8,9 +8,14 @@ shortdef: 'adverb'
 
 ### Definition
 
-Adverbs are words that typically modify verbs for such categories as place, time, manner or quantity. They may also modify adjectives and other adverbs, as in πολύ έξυπνος, πολύ αργά respectively.
+Adverbs are words that typically modify verbs for such categories as place, time, manner or quantity. They may also modify adjectives and other adverbs, as in *πολύ έξυπνος* / *poli eksipnos* "very clever", *πολύ αργά* / *poli arga* "very late.ADV" respectively.
 
-There is a closed subclass of pronominal adverbs that refer to circumstances in context, rather than naming them directly; they are distributed across the adverb categories defined above.
+There are:
+- interrogative adverbs ([PronType=Int]()): *πού* / *pou* where, *πότε* / *pote* when, *πώς* / *pos* how, *γιατί* / *yiati* why
+- demonstrative adverbs ([PronType=Dem]()): *εδώ* / *edho* here, *εκεί* / *eki* there, *τώρα* / *tora* now, *τότε* / *tote* then
+- indefinite adverbs ([PronType=Ind]()): *κάπου* / *kapou* somewhere, *κάποτε* / *kapote* sometime, *οπουδήποτε* / *opoudipote* anywhere, *οποτεδήποτε* / *opotedipote* anytime
+- totality adverbs ([PronType=Tot]()): *παντού* / *pantou* everywhere, *πάντα/πάντοτε* / *panta/pantote* always
+- negative adverbs ([PronType=Neg]()): *πουθενά* / *pouthena* nowhere, *ποτέ* / *pote* never.
 
 ### Examples
 -	locative adverbs: *απέξω* / *apekso* ‘outside’, *εδώ* / *edho*  ‘here’, *εκεί* / *eki* ‘there’, *πάνω* / *pano* ‘up’, *κάτω* / *kato* ‘down’, *δεξιά* / *dheksia* ‘right’, *αριστερά* / *aristera* ‘left’, *κάπου* / *kapou* ‘somewhere’, *παντού* / *pantou* ‘everywhere’, *πουθενά* / *pouthena* ‘nowhere’, *πού* / *pou* ‘where’
