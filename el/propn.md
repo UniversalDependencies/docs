@@ -22,9 +22,9 @@ Acronyms of proper nouns, such as *OHE* / *OIE* "UN" and NATO are tagged PROPN. 
 -	Place names such as *Ανατολή* / *Anatoli* "East", *Δύση* / *Disi* "West", *Όλυμπος* / *olibos* "Mount Olympus"
 -	Day names such as *Τρίτη* / *Triti* "Tuesday", *Σαββατοκύριακο* / *Savatokiriako* "weekend"
 -	Countries such as *Eλλάδα* / *Eladha* "Greece", *Κύπρος* / *Kipros* "Cyprus"
--	Diminutives productively formed from PROPN with suffixes such as  *–άκι, –ίτσα, –ούλης,-άκης* / *-aki, -itsa, -oulis, -akis* like *Mαράκι* / *Maraki* "little Maria", *Γιαννάκης* / *Yianakis* "little Joh": they are assigned the lemma of the original noun and the feature [el-DegreeModif]() takes the value [Diminutive]() 
--	Magnifiers (μεγεθυντικά)  productively formed from PROPN with suffixes such as *-άρας* / *-aras*, like *Στελάρας* / *Stelaras* "large/great Stelios", *Σουλάρα* /  *Soulara* "large/great Soula": they are assigned the lemma of the original noun and the feature [el-DegreeModif]() takes the value [Magnifier]()
+-	Diminutives productively formed by a proper noun and a suffix such as  *–άκι, –ίτσα, –ούλης,-άκης* / *-aki, -itsa, -oulis, -akis* like *Mαράκι* / *Maraki* "little Maria", *Γιαννάκης* / *Yianakis* "little Joh": they are assigned the lemma of the original noun and the feature [el-DegreeMod]() takes the value [Diminutive]() 
+-	Magnifiers (μεγεθυντικά)  productively formed by a proper noun and a suffix such as *-άρας* / *-aras*, like *Στελάρας* / *Stelaras* "large/great Stelios", *Σουλάρα* /  *Soulara* "large/great Soula": they are assigned the lemma of the original noun and the feature [el-DegreeMod]() takes the value [Magnifier]()
 -	Names of anniversaries, bank holidays such as *Ανάσταση* / *Anastasi* "Resurrection", *Επιτάφιος* / *Epitafios* "Epitaph", *Μεγάλη Εβδομάδα* / *Meghali Bdhomadha* "Holy Week", *Πάσχα* / *Pascha* "Easter", *Χριστούγεννα* / *Christouyena* "Christmas" 
--	Place names: Street names in the genitive case resulting from the drop of the noun *οδός* / *odhos* "street", such as *(οδός) Ερμού* / *(odhos) Ermou* "Ermou (street)"
+-	Place names: street names in the genitive case resulting from the drop of the noun *οδός* / *odhos* "street", such as *(οδός) Ερμού* / *(odhos) Ermou* "Ermou (street)"
 
 Surnames in the genitive case like *Κανέλλου* / *Kanelou*  (feminine)  and  *Δημητρίου* /  *Dimitriou* (masculine/femnine) do not inflect and are assigned their own form as a lemma, e.g., the lemma is *Κανέλλου*.  
