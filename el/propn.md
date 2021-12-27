@@ -15,7 +15,7 @@ When a PROPN is formed by an [ADJ]() and a [Noun](), such as *Μεγάλη Βδ�
 
 When other phrases or sentences are used as names, the component words retain their original tags. For example, in *Δίωξη ναρκωτικών* / *Dioxi narkotikon* "Drug Enforcement  Agency", both *Δίωξη* and  *ναρκωτικών* are assigned the tag NOUN.
 
-Acronyms of proper nouns, such as *OHE* / *OIE* "UN" and NATO are tagged PROPN. Even if they contain numbers (as in various product names) but still consist of one token, they are tagged PROPN and not [SYM](). However, if a token in a multitoken PROPN consists entirely of digits (like *7* in *Windows 7*), it is tagged [NUM]().
+Acronyms of proper nouns, such as *OHE* / *OIE* "UN" and NATO are tagged PROPN. If they contain numbers (as in various product names) but still consist of one token, they are tagged PROPN and not [SYM](). However, if a token in a multitoken PROPN consists entirely of digits (like *7* in *Windows 7*), it is tagged [NUM]().
 
 ### Examples
 
