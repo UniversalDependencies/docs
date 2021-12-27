@@ -1,10 +1,17 @@
-# ΑDJ: adjective
+---
+layout: postag
+title: 'ADJ'
+shortdef: 'adjective'
+---
 
-## Definition
+
+## ΑDJ: adjective
+
+### Definition
 
 Adjectives are words that typically modify nouns and specify their properties or attributes. They may also function as predicates, as in *το αυτοκίνητο είναι πράσινο* / *to aftokinito ine prasino* "The car is green."
 
-The tag <code>ADJ</code> is intended for ordinary adjectives only (see <code>DET</code> for determiners and <code>NUM</code> for cardinal numerals).
+The tag <code>ADJ</code> is intended for ordinary adjectives only (see [DET]() for determiners and [NUM]() for cardinal numerals).
 Αdjectival ordinal numerals that behave like adjectives both morphologically and syntactically (*πρώτος* / *protos* "first", *δεύτερος* / *defteros* "second", *εξηκοστός* / *exikostos* "sixtieth") are assigned the tag ADJ.
 
 Nationalities are assigned the tag ADJ, such as *Έλληνας* / *Greek* "Greek", *Ευρωπαίος* / *Evropeos* "European" , *Ασιάτης* / *Asiatis* "Asian" etc.
@@ -29,7 +36,7 @@ The non-periphrastic comparative and superlative degrees (<code>el-feat/Degree</
 
 Greek adjectives inflect for <code>el-feat/Gender</code>, <code>el-feat/Number</code> and <code>el-feat/Case</code>.
 
-## Examples
+### Examples
 
 *	*μεγάλος* / *meghalos* "big", *πράσινος* / *prasinos* "green", *ακατάληπτος* / *akataliptos* "incomprehensible"
 *	*πρώτος* / *protos* "first", *δεύτερος* / *defteros* "second", *τρίτος* / *tritos*  "third"
@@ -37,7 +44,7 @@ Greek adjectives inflect for <code>el-feat/Gender</code>, <code>el-feat/Number</
 *	Ancient Greek adverbs may be used as adjectives in Modern Greek: *νυν* / *nin* "current", *τέως* / *teos* "past" 
 *	pieces of phrases received from older forms of the language: *καθωσπρέπει* / *kathosprepi* "proper"
 
-## References
+### References
 
 Κλαίρης, Χρήστος  & Γεώργιος Μπαμπινώτης. 2001. *Γραμματική της Νέας Ελληνικής* Τόμος Γ’. 2η έκδοση. Αθήνα: Ελληνικά Γράμματα. 
 
