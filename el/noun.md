@@ -17,6 +17,8 @@ The tag <code>NOUN</code>  is intended for common nouns only. See <code>PROPN</c
 *	Lexicalised diminutives and magnifiers such as  *λακκάκι* ‘dimple’, *σουβλάκι* / *souvlaki* "roasted pieces of meat on a little spit", *παιχταράς* / *pechtaras* "excellent (football) player": they are not defined for the feature <code>el-DIM</code>. 
 
 
+Greek nouns inflect for <code>el-feat/Gender</code>, <code>el-feat/Number</code> and <code>el-feat/Case</code>.
+
 # References 
 
 Karra, Athanasia.  2006. *Problems of inflection and of diminutives formatino in Modern Greek and the other European systems.* PhD Thesis (in Greek). University of Patras.   https://nemertes.library.upatras.gr/jspui/bitstream/10889/911/1/Nimertis_Karra.pdf 
