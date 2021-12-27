@@ -1,7 +1,7 @@
 ---
 layout: postag
-title: 'ADJ'
-shortdef: 'adjective'
+title: 'PROPN'
+shortdef: 'proper noun'
 ---
 
 
