@@ -1,9 +1,8 @@
----
+----
 layout: postag
 title: 'ADV'
 shortdef: 'adverb'
 ---
-
 
 ## ΑDV: adverb
 
