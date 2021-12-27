@@ -26,5 +26,5 @@ Holton, David, Peter Mackridge & Irene Philippaki-Warburton, Greek: A Comprehens
 
 Τζάρτζανος, Αχιλλέας, 2002. Νεοελληνική Σύνταξις της Κοινής Δημοτικής. Αθήνα: Εκδόσεις Κυριακίδη. σελ. 225.
 
-https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/
+[https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/]()
 
