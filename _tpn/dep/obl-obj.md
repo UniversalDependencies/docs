@@ -1,6 +1,6 @@
 ---
 layout: relation
-title:  'obl:obj'
+title:  'obl-obj'
 shortdef : 'NP-related object'
 udver: '2'
 ---
