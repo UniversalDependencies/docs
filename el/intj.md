@@ -12,7 +12,7 @@ An interjection is a word that is used most often as an exclamation or part of a
 
 Note that words primarily belonging to another part of speech retain their original category when they are used in exclamations. For example, the exclamation *Παναγία μου!* / *Panagia mou!* "My Virgin Mary!" is assigned the tags [PROPN]() and [PRON]() in that order.
 
-As a special case of interjections, we recognize feedback particles such as yes, no, uhuh, etc. However, the Greek όχι ‘no’ should be tagged as PART, e.g. φέρε τον αναπτήρα, όχι τα σπίρτα ‘fetch the lighter, not the matches’.
+As a special case of interjections, we recognize feedback particles such as yes, no, uhuh, etc.  *Όχι* / *ochi* "no/not" is typically used as an interjection [INTJ]() with [Polarity=Neg]() but it should be tagged as [PART]() and [Polarity=Neg]() if it is used like the English particle *not*, e.g., *φέρε τον αναπτήρα, όχι τα σπίρτα* / *fere ton anaptira, ochi ta spirta* "fetch the lighter, not the matches".
 
 ### Examples
 
@@ -28,5 +28,9 @@ As a special case of interjections, we recognize feedback particles such as yes,
 -	καλημέρα
 -	καληνύχτα
 
+
 ### References
-Τριανταφυλλίδης, Μανόλης. 1941, Ανατύπωση 2000. Νεοελληνική Γραμματική. Αθήνα: Οργανισμός Εκδόσεως Διδακτικών Βιβλίων. σελ. 203-205.
+
+Τριανταφυλλίδης, Μανόλης. 1941, Reprinted 2000. *Νεοελληνική Γραμματική. Αθήνα: Οργανισμός Εκδόσεως Διδακτικών Βιβλίων*: 203-205.
+         
+https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/
