@@ -17,7 +17,7 @@ The label <code>DET</code> is assigned to the two articles, certain traditional 
 *  	indefinite article (<code>PronType=Art</code>): *ένας*, *μία*, *ένα* / *enas*, *mia*, *ena* "a"
 *   adjectives denoting quantities and their comparatives:
     *   (<code>PronType=Ind</code>) *αρκετός* / *arketos* "enough", *λίγος* / *ligos* "little/few" (*ελάχιστος*/*elachistos* "very very little/few"), *μερικός* / *merikos* "some", *μισός* / *misos* "half", *μόνος* / *monos* "only", *πολύς* / *polis*   "many/much"
-    *   (<code>PronType=Tot</code>) *ολόκληρος* / *olokliros* "whole", *όλος* / *olos* "all"
+    *   (<code>PronType=Tot</code>) *ολόκληρος* / *olokliros* "whole", *όλος* / *olos* "all", *πας/άπας* / *pas/apas* "all"
 *	 demonstrative pronouns (<code>PronType=Dem</code>): *αυτός* / *aftos* "this", *εκείνος* / *ekinos* "that", *(ε)τούτος* / *(e)toutos* "this/that", *τέτοιος* / *tetios* "such", *τόσος* / *tosos* "this/that many/much, so/as", *ίδιος* / *idios* "the same"
 *   indefinite pronouns: 
     *   (<code>PronType=Ind</code>) *άλλος* / *alos* "other", *κάποιος* / *kapios* "somebody", *κάτι* / *kati* "some"
