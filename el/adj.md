@@ -32,7 +32,7 @@ The non-periphrastic comparative and superlative degrees ([el-feat/Degree]()) of
 *	(regular) *ακριβής – ακριβέστερος – ακριβέστατος* / *akrivis - akrivesteros - akrivestatos* "exact - more extact - most exact"
 *	(irregular) *μεγάλος – μεγαλύτερος – μέγιστος* / *meghalos - meghaliteros - meghistos* "big - bigger - biggest"
 
-<b>Participles</b> ending in *-μένος* / *-menos*, *-μένη* / *-meni*, *-μένο* / *-meno* are not assigned the tag ADJ.
+<b>Participles</b> ending in *-μένος* / *-menos*, *-μένη* / *-meni*, *-μένο* / *-meno* are  assigned the tag ADJ.
 
 Greek adjectives inflect for [el-feat/Gender](), [el-feat/Number]() and [el-feat/Case]().
 
