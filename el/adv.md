@@ -10,6 +10,8 @@ shortdef: 'adverb'
 
 Adverbs are words that typically modify verbs for such categories as place, time, manner or quantity. They may also modify adjectives and other adverbs, as in *πολύ έξυπνος* / *poli eksipnos* "very clever", *πολύ αργά* / *poli arga* "very late.ADV" respectively.
 
+Some adverbs seem to form phrasal verbs (rare phenomenon in Greek),  such as *βάζω μπρος/μπροστά* / *vazo bros/brosta* "to start an engine/to start operating". Although they function as particles in a multiword expression, they are assigned the tag ADV and the multiword status of the expression is accounted for in syntax.
+
 There are:
 - interrogative adverbs ([PronType=Int]()): *πού* / *pou* where, *πότε* / *pote* when, *πώς* / *pos* how, *γιατί* / *yiati* why
 - demonstrative adverbs ([PronType=Dem]()): *εδώ* / *edho* here, *εκεί* / *eki* there, *τώρα* / *tora* now, *τότε* / *tote* then
