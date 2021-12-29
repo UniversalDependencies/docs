@@ -8,7 +8,6 @@ shortdef: 'adjective'
 
 Pronouns are words that substitute for nouns <code>NOUN</code> or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context. Τhey never occur with the noun for which they stand and they cannot be replaced with a synonymous nominal phrase; these facts offer a criterion for setting determiners apart from pronouns.
 
-Following UD v2, words are pre-classified in the dictionary as PRON, based on their typical syntactic distribution (and morphology, when applicable).
 
 ### Examples
 
