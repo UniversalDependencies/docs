@@ -13,7 +13,7 @@ Particles are function words that must be associated with another word or phrase
 Hint: *όχι" / *ochi* "no/not" should be tagged as [PART]() and [Polarity=Neg]() if it is used like the English particle *not*, e.g., *φέρε τον αναπτήρα, όχι τα σπίρτα* / *fere ton anaptira, ochi ta spirta* "fetch the lighter, not the matches". *Όχι* / *ochi* "no/not" is typically used as an interjection [INTJ]() with [Polarity=Neg]().
 
 ### Examples
--	*ας
+-	*ας*
 -	*δεν*
 -	*θα*
 -	*καν*
