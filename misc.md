@@ -950,7 +950,7 @@ Used in Hindi HDTB and Urdu UDTB.
 
 ### XML
 
-The annotation `XML` is used to encode opening and closing XML/HTML tags in source documents, which are not part of the text that appears in the actual word forms and do not correspond to some other, already existing MISC annotation. For example, because paragraphs are representable in `# newpar` or `NewPar` annotations, there is no need to represent XML elements such as `<p>`. However, some tags represent features other than block elements, and may also have attributes. These are used, for example, in the English GUM corpua:
+The annotation `XML` is used to encode opening and closing XML/HTML tags in source documents, which are not part of the text that appears in the actual word forms and do not correspond to some other, already existing MISC annotation. For example, because paragraphs are representable in `# newpar` or `NewPar` annotations, there is no need to represent XML elements such as `<p>`. However, some tags represent features other than block elements, and may also have attributes. These are used, for example, in the English GUM corpus:
 
 ```CoNLL-U
 1	Antonín	Antonín	PROPN	NNP	Number=Sing	31	nsubj	31:nsubj	XML=<hi rend:::"bold">
