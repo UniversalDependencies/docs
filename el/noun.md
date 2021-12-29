@@ -24,9 +24,10 @@ Modern Greek expresses degree modification of nouns with a large variety of morp
 
 Greek nouns inflect for [el-feat/Gender](), [el-feat/Number]() and [el-feat/Case]().
 
+
 ###  Examples
 
-*	  *γυναίκα* / *yineka* "woman" 
+
 *   *σκύλος* / *skilos* "dog", *τραπέζι* / *trapezi* "table", *επανάσταση* / *epanastasi* "revolution", *ελευθερία* / *freedom* "liberty"
 *	   Professions such as *αστυνομικός* / *astinomikos* "policeman", *στρατιωτικός* / *stratiotikos* "military officer". When the same words cooccur with another noun, such as *αστυνομικός σκύλος* / *astinomikos skilos* "police dog", they are assigned the tag [ADJ]().
 *	   *ακουστικό* / *akoustiko* "head phone/hearing aid", *κινητό* / *kinito* "mobile phone", *ενδότερα* / *endhotera* "inner parts", *πρωϊνό* / *proino* "breakfast", *μεσημεριανό* / *mesimeriano* "lunch", *βραδινό* / *vradhino* "dinner", *λαδερά* / *ladhera* "vegetable dishes cooked in olive oil", etc.
