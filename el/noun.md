@@ -16,7 +16,7 @@ The tag <code>NOUN</code>  is intended for common nouns only. See [PROPN]() for 
 Certain adjectives are considered nouns. As such they disallow the formation of comparatives (but not all adjectives allow for comparatives anyway).
 
 
-Modern Greek expresses degree modification of nouns with a large variety of morphological (and syntactic) means:
+Modern Greek expresses degree modification of nouns with a variety of morphological (and syntactic) means:
 
 *	Diminutives (*υποκοριστικά* / *ipokoristika*) productively formed with suffixes such as  *–άκι* / *-aki*, *–ιτσα* / *-itsa*, *–ούλης* / *-oulis*, *-άκης* / *-akis* like *χταποδάκι* / *chtapodhaki* "little octopus", *παιδάκι* / *pedhaki* "little child", *μικρούλα* / *mikroula* "little girl",  *φωνίτσα* / *fonitsa* "little voice": they are assigned the lemma of the original noun and the feature [el-DegreeMod]() takes the value [Diminutive](). 
 *	Magnifiers (*μεγεθυντικά* / *megethintika*)  productively formed with suffixes such as *-άρας* / *-aras*, *-αράς* / *-aras* like  *τρυπάρα* / *tripara* "large hole", *ψευταράς* / *pseftaras* "great lier": they are assigned the lemma of the original noun and the feature [el-DegreeMod]() takes the value [Magnifier]().
