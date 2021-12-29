@@ -7,7 +7,7 @@ shortdef: 'noun'
 
 ## NOUN : noun 
 
-### Definition
+###  Definition
 
 Nouns typically denote entities such as persons, places, things, animals or ideas.
 
@@ -24,7 +24,7 @@ Modern Greek expresses degree modification of nouns with a large variety of morp
 
 Greek nouns inflect for [el-feat/Gender](), [el-feat/Number]() and [el-feat/Case]().
 
-### Examples
+###  Examples
 
 *	  *γυναίκα* / *yineka* "woman", *σκύλος* / *skilos* "dog", *τραπέζι* / *trapezi* "table", *επανάσταση* / *epanastasi* "revolution", *ελευθερία* / *freedom* "liberty"
 *	  Professions such as *αστυνομικός* / *astinomikos* "policeman", *στρατιωτικός* / *stratiotikos* "military officer". When the same words cooccur with another noun, such as *αστυνομικός σκύλος* / *astinomikos skilos* "police dog", they are assigned the tag [ADJ]().
