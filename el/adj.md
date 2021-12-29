@@ -12,7 +12,7 @@ shortdef: 'adjective'
 Adjectives are words that typically modify nouns and specify their properties or attributes. They may also function as predicates, as in *το αυτοκίνητο είναι πράσινο* / *to aftokinito ine prasino* "The car is green."
 
 The tag <code>ADJ</code> is intended for ordinary adjectives only (see [DET]() for determiners and [NUM]() for cardinal numerals).
-Αdjectival ordinal numerals that behave like adjectives both morphologically and syntactically (*πρώτος* / *protos* "first", *δεύτερος* / *defteros* "second", *εξηκοστός* / *exikostos* "sixtieth") are assigned the tag ADJ.
+Αdjectival ordinal numerals, e.g., *πρώτος* / *protos* "first", *δεύτερος* / *defteros* "second", *εξηκοστός* / *exikostos* "sixtieth", are assigned the tag ADJ.
 
 Nationalities are assigned the tag ADJ, such as *Έλληνας* / *Greek* "Greek", *Ευρωπαίος* / *Evropeos* "European" , *Ασιάτης* / *Asiatis* "Asian" etc.
 
@@ -26,13 +26,13 @@ Certain proper nouns <code>PROPN</code> are directly related with adjectives:
 *	Names of days such as *Τρίτη* / *Triti* "Tuesday
 *	Public bodies such as *Δημόσιο* / *Dhimosio* "Public Domain", *Ναυτικό* / *Naftiko* "Navy" etc. 
 
-The non-periphrastic comparative and superlative degrees ([el-feat/Degree]()) of Greek adjectives are formed using a small set of suffixes or irregular forms:
+The non-periphrastic comparative and superlative degrees ([el-feat/Degree]()) of Greek adjectives are formed with a small set of suffixes or they have irregular forms:
 
 *  (regular) *ταχύς – ταχύτερος – ταχύτατος* / *tachis - tachiteros - tachitatos* "fast - faster -fastest"
 *	(regular) *ακριβής – ακριβέστερος – ακριβέστατος* / *akrivis - akrivesteros - akrivestatos* "exact - more extact - most exact"
 *	(irregular) *μεγάλος – μεγαλύτερος – μέγιστος* / *meghalos - meghaliteros - meghistos* "big - bigger - biggest"
 
-<b>Participles</b> ending in *-μένος* / *-menos*, *-μένη* / *-meni*, *-μένο* / *-meno* are  assigned the tag ADJ.
+<b>Participles</b> ending in *-μένος* / *-menos* and *-θείς* / *-this* are  assigned the tag ADJ.
 
 Greek adjectives inflect for [el-feat/Gender](), [el-feat/Number]() and [el-feat/Case]().
 
