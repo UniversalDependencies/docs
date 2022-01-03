@@ -12,9 +12,9 @@ Words are normally delimited by whitespace characters (but see below for excepti
 
 ## Which technique should be used?
 
-Tokenization is the simpler and more low-level of the two. A surface string of non-whitespace characters is segmented into two or more tokens, and each token except the last one gets the attribute `SpaceAfter=No` in the MISC column. Unlike in some non-UD approaches, tokenization does not involve any normalization of the word forms, that is, the FORM column of surface tokens<nowiki>*</nowiki> contains exact substrings of the input text, and the original surface string can be reconstructed by concatenation. (If normalization is desired, it can be done in the LEMMA column and possibly with additional attributes in MISC.) `SpaceAfter=No` can occur even on the last token of the sentence if there was no space between this token and the first token of the next sentence.
+Tokenization is the simpler and more low-level of the two. A surface string of non-whitespace characters is segmented into two or more tokens, and each token except the last one gets the attribute `SpaceAfter=No` in the MISC column. Unlike in some non-UD approaches, tokenization does not involve any normalization of the word forms, that is, the FORM column of surface tokens\* contains exact substrings of the input text, and the original surface string can be reconstructed by concatenation. (If normalization is desired, it can be done in the LEMMA column and possibly with additional attributes in MISC.) `SpaceAfter=No` can occur even on the last token of the sentence if there was no space between this token and the first token of the next sentence.
 
-<nowiki>*</nowiki> Some lines correspond to “empty nodes” or to syntactic words within “multi-word tokens” (see below). The contents of the FORM column on such lines does not correspond to a substring of the input text.
+\* Some lines correspond to “empty nodes” or to syntactic words within “multi-word tokens” (see below). The contents of the FORM column on such lines does not correspond to a substring of the input text.
 
     # text = Go home!
     1   Go     go     VERB    _   Mood=Imp|VerbForm=Fin   0   root     _   _
