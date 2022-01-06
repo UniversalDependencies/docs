@@ -462,7 +462,6 @@ This dependency can be recognized by the extension (subtype) `:xsubj`.
 </table>
 
 <table id="control-raising-example1"> <!--Mary made me buy the house .-->
-<thead><tr><th>Basic</th><th>Enhanced</th></tr></thead>
 <tbody><tr><td width="600">
 <div class="conllu-parse">
 1 Mary  _ _ _ _ 2 nsubj _ _
@@ -488,7 +487,6 @@ This dependency can be recognized by the extension (subtype) `:xsubj`.
 </table>
 
 <table id="control-raising-example1"> <!--Mary wants me to be promoted .-->
-<thead><tr><th>Basic</th><th>Enhanced</th></tr></thead>
 <tbody><tr><td width="600">
 <div class="conllu-parse">
 1 Mary     _ _ _ _ 2 nsubj    _ _
