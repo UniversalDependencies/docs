@@ -32,6 +32,9 @@ in the order described below. We provide a more detailed explanation of the extr
 1. Universal dependency relation. In addition to the [37 relations](http://universaldependencies.org/u/dep/index.html)
    defined in the basic representation, the relation can also be <tt><a href="#relative-clauses">ref</a></tt>.
 2. Documented [relation subtype](/ext-dep-index.html) (either language-specific or more general) from the basic representation.
+3. The string <tt><a href="#controlledraised-subjects">xsubj</a></tt>, denoting external subject relations of [xcomp]() predicates.
+   This extension is used only with [nsubj](), [csubj](), and their subtypes such as [nsubj:pass]().
+   It does not combine with the other extensions described below because they do not apply to subjects.
 3. [Case information](#case-information) –
    adposition or conjunction that occurs as a `case` or `mark` dependent of the node whose relation to its
    parent is being enhanced. Note that this is the only part where non-ASCII letters are permitted within the enhanced relation label.
@@ -400,7 +403,10 @@ Similarly, the enhanced representation can also distinguish private dependents o
 
 ## Controlled/raised subjects
 
-The _basic_ trees lack a subject dependency between a controlled verb and its controller or between an embedded verb and its raised subject. In the _enhanced_ graph, there is an additional dependency between the embedded verb and the subject of the matrix clause.
+The _basic_ trees lack a subject dependency between a controlled verb and its controller
+or between an embedded verb and its raised subject. In the _enhanced_ graph, there is an
+additional dependency between the embedded verb and the subject of the matrix clause.
+This dependency can be recognized by the extension (subtype) `:xsubj`.
 
 <table id="control-raising-example1"> <!--Mary wants to buy a book .-->
 <thead><tr><th>Basic</th><th>Enhanced</th></tr></thead>
@@ -416,8 +422,8 @@ The _basic_ trees lack a subject dependency between a controlled verb and its co
 </div>
 </td><td width="600">
 <div class="conllu-parse">
-# visual-style 4 1 nsubj color:blue
-1 Mary  _ _ _ _ 2 nsubj 4:nsubj _
+# visual-style 4 1 nsubj:xsubj color:blue
+1 Mary  _ _ _ _ 2 nsubj 4:nsubj:xsubj _
 2 wants _ _ _ _ 0 root  _ _
 3 to    _ _ _ _ 4 mark  _ _
 4 buy   _ _ _ _ 2 xcomp _ _
@@ -442,8 +448,8 @@ The _basic_ trees lack a subject dependency between a controlled verb and its co
 </div>
 </td><td width="600">
 <div class="conllu-parse">
-# visual-style 5 1 nsubj color:blue
-1 She     _ _ _ _ 2 nsubj 5:nsubj _
+# visual-style 5 1 nsubj:xsubj color:blue
+1 She     _ _ _ _ 2 nsubj 5:nsubj:xsubj _
 2 seems   _ _ _ _ 0 root  _ _
 3 to      _ _ _ _ 5 mark  _ _
 4 be      _ _ _ _ 5 aux   _ _
@@ -451,6 +457,58 @@ The _basic_ trees lack a subject dependency between a controlled verb and its co
 6 a       _ _ _ _ 7 det   _ _
 7 book    _ _ _ _ 5 obj   _ _
 8 .       _ _ _ _ 2 punct _ _
+</div>
+</td></tr></tbody>
+</table>
+
+<table id="control-raising-example1"> <!--Mary made me buy the house .-->
+<thead><tr><th>Basic</th><th>Enhanced</th></tr></thead>
+<tbody><tr><td width="600">
+<div class="conllu-parse">
+1 Mary  _ _ _ _ 2 nsubj _ _
+2 made  _ _ _ _ 0 root  _ _
+3 me    _ _ _ _ 2 obj   _ _
+4 buy   _ _ _ _ 2 xcomp _ _
+5 the   _ _ _ _ 6 det   _ _
+6 house _ _ _ _ 4 obj   _ _
+7 .     _ _ _ _ 2 punct _ _
+</div>
+</td><td width="600">
+<div class="conllu-parse">
+# visual-style 4 3 nsubj:xsubj color:blue
+1 Mary  _ _ _ _ 2 nsubj _ _
+2 made  _ _ _ _ 0 root  _ _
+3 me    _ _ _ _ 2 obj   4:nsubj:xsubj _
+4 buy   _ _ _ _ 2 xcomp _ _
+5 the   _ _ _ _ 6 det   _ _
+6 house _ _ _ _ 4 obj   _ _
+7 .     _ _ _ _ 2 punct _ _
+</div>
+</td></tr></tbody>
+</table>
+
+<table id="control-raising-example1"> <!--Mary wants me to be promoted .-->
+<thead><tr><th>Basic</th><th>Enhanced</th></tr></thead>
+<tbody><tr><td width="600">
+<div class="conllu-parse">
+1 Mary     _ _ _ _ 2 nsubj    _ _
+2 wants    _ _ _ _ 0 root     _ _
+3 me       _ _ _ _ 2 obj      _ _
+4 to       _ _ _ _ 6 mark     _ _
+5 be       _ _ _ _ 6 aux:pass _ _
+6 promoted _ _ _ _ 2 xcomp    _ _
+7 .        _ _ _ _ 2 punct    _ _
+</div>
+</td><td width="600">
+<div class="conllu-parse">
+# visual-style 6 3 nsubj:pass:xsubj color:blue
+1 Mary     _ _ _ _ 2 nsubj    _ _
+2 wants    _ _ _ _ 0 root     _ _
+3 me       _ _ _ _ 2 obj      6:nsubj:pass:xsubj _
+4 to       _ _ _ _ 6 mark     _ _
+5 be       _ _ _ _ 6 aux:pass _ _
+6 promoted _ _ _ _ 2 xcomp    _ _
+7 .        _ _ _ _ 2 punct    _ _
 </div>
 </td></tr></tbody>
 </table>
@@ -845,5 +903,5 @@ treebanks that already contain some enhanced annotation).
 * If a corpus does not annotate any of the enhancements defined in the guidelines, it should always have the underscore character in the DEPS column. That is, the enhanced graph should not be just an exact copy of the basic tree. Otherwise it creates the impression that the user can expect some enhancements while there are actually none.
 * If one sentence in a corpus has the enhanced graph, then all sentences in the corpus must have it. It will facilitate processing of the corpus.
 * While individual enhancement types are optional, once a particular enhancement type is annotated somewhere in the corpus, the authors should annotate it everywhere in the corpus. This cannot be checked automatically for some enhancement types, but obviously the user will then assume that non-presence of the annotation in a sentence means that the phenomenon does not occur there.
-* It would be useful if one could recognize from the enhanced relation type what type of enhancement it represents. (Some relations may be a result of two enhancement types combined.) The Stanford Enhancer does this at least for the controlled subjects (generating `nsubj:xsubj`, `nsubj:pass:xsubj`, `csubj:xsubj`, or `csubj:pass:xsubj` for the new enhanced relation) but in fact, the `:xsubj` extension is not supported in the guidelines and is technically illegal.
+* It would be useful if one could recognize from the enhanced relation type what type of enhancement it represents. (Some relations may be a result of two enhancement types combined.) The Stanford Enhancer does this at least for the controlled subjects (generating `nsubj:xsubj`, `nsubj:pass:xsubj`, `csubj:xsubj`, or `csubj:pass:xsubj` for the new enhanced relation).
 * Besides adding case information to `nmod`, `obl`, `acl`, and `advcl`, the Stanford Enhancer also adds conjunction information to `conj`. This is not allowed in the guidelines and thus illegal; however, several UD treebanks already contain it and, arguably, its usefulness can be compared to that of case information.
