@@ -19,6 +19,10 @@ for an _enhanced_ representation, which makes some of the implicit relations bet
 the dependency labels to facilitate the disambiguation of types of arguments and modifiers.
 
 _Enhanced_ UD graphs may contain some or all of the following enhancements, which are described in the sections below.
+If a corpus does not annotate any of the enhancements defined in the guidelines, it should always have the underscore
+character in the DEPS column. That is, the enhanced graph should not be just an exact copy of the basic tree for all
+sentences in the corpus. Otherwise it creates the impression that the user can expect some enhancements while there are
+actually none.
 
 * [Empty (null) nodes for elided predicates](#ellipsis)
 * [Propagation of incoming dependencies to conjuncts](#propagation-of-incoming-dependencies-to-conjuncts)
@@ -953,6 +957,5 @@ DZ: Here are some additional thoughts on things that are not part of the officia
 but I think that they should be considered for addition in the future (based on experience with the
 treebanks that already contain some enhanced annotation).
 
-* If a corpus does not annotate any of the enhancements defined in the guidelines, it should always have the underscore character in the DEPS column. That is, the enhanced graph should not be just an exact copy of the basic tree. Otherwise it creates the impression that the user can expect some enhancements while there are actually none.
 * While individual enhancement types are optional, once a particular enhancement type is annotated somewhere in the corpus, the authors should annotate it everywhere in the corpus. This cannot be checked automatically for some enhancement types, but obviously the user will then assume that non-presence of the annotation in a sentence means that the phenomenon does not occur there.
 * It would be useful if one could recognize from the enhanced relation type what type of enhancement it represents. (Some relations may be a result of two enhancement types combined.) The Stanford Enhancer does this at least for the controlled subjects (generating `nsubj:xsubj`, `nsubj:pass:xsubj`, `csubj:xsubj`, or `csubj:pass:xsubj` for the new enhanced relation).
