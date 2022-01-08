@@ -51,8 +51,8 @@ acl(blessings, given)
 ਭਾਰਤ ਜਾਣ ਦੀ ਗੱਲ \n India going GEN talk
 acl(ਗੱਲ, ਜਾਣ)
 acl(talk, going)
-obj(ਜਾਣ, ਭਾਰਤ)
-obj(going, India)
+obl(ਜਾਣ, ਭਾਰਤ)
+obl(going, India)
 mark(ਜਾਣ, ਦੀ)
 mark(going, GEN)
 ~~~
