@@ -59,19 +59,6 @@ case(you, because)
 fixed(because, of)
 ~~~
 
-*instead of*
-
-~~~ sdparse
-John went instead of Mary
-fixed(instead, of)
-case(Mary, instead)
-~~~
-
-~~~ sdparse
-John left early instead of staying for the whole thing
-fixed(instead, of)
-mark(staying, instead)
-~~~
 
 *in case*
 
@@ -165,13 +152,40 @@ mark(have, in)
 fixed(in, order)
 ~~~
 
-*rather than*
+*rather than* <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/182 -->
+
+Typically analyzed as a coordinating conjunction:
 
 ~~~ sdparse
 I decided to get a dog rather than a cat
 fixed(rather, than)
 cc(cat, rather)
 conj(dog, cat)
+~~~
+
+However, when fronted, it attaches as `case` or `mark`:
+
+~~~ sdparse
+Rather than a cat, I decided to get a dog.
+fixed(rather, than)
+case(cat, rather)
+obl(decided, cat)
+~~~
+
+*instead of* <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/182 -->
+
+Similar in meaning to *rather than*, but never analyzed as a coordinating conjunction, always `case` or `mark`:
+
+~~~ sdparse
+John went instead of Mary
+fixed(instead, of)
+case(Mary, instead)
+~~~
+
+~~~ sdparse
+John left early instead of staying for the whole thing
+fixed(instead, of)
+mark(staying, instead)
 ~~~
 
 *at least* (when not used for quantities)
