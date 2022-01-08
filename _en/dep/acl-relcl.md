@@ -290,7 +290,7 @@ According to *CGEL* (Huddleston and Pullum 2002, pp. 1070–1079), in contrast t
 - generally permit WH-*ever* heads (*Eat what(ever) you want*); 
 - cannot be reduced with a non-*ever* head, even given sufficient context
   * Free relative: *He bought what I was selling* → *\*I was selling something (he bought what!).*
-  * cf. interrogative: *He wondered what I was selling* → *I was selling something (he wondered what!)*);
+  * cf. interrogative: *He wondered what I was selling* → *I was selling something (he wondered what!).*;
 - never license *else* after a non-*ever* head (*\*He bought what else I was selling*) [this test is from *SIEG*, Huddleston et al. 2021, p. 291].
 
 The following contain interrogative complement clauses, not free relatives, and thus use [ccomp]():
@@ -415,13 +415,14 @@ The phrase _no matter_ is analyzed as taking a `obj` complement in, e.g., _no ma
 
 ~~~sdparse
 No matter what progress we make as individuals, we will never achieve real health until ...
-neg(matter, No)
-npmod(achieve, matter)
-dobj(matter, progress)
+det(matter, No)
+obl:npmod(achieve, matter)
+obj(matter, progress)
 det(progress, what)
-acl:relcl(make, progress)
+acl:relcl(progress, make)
 ~~~
 
+TODO: or should it be `advmod(matter, no)`, as in EWT?
 
 ## Additional Examples
 
