@@ -328,6 +328,8 @@ conj(lives, here)
 advmod(here, why)
 ~~~
 
+TODO: "how old he is": I think this is a good argument to treat WH words introducing an interrogative complement clause as `advmod`, not `mark`, because "how", "what", "which" can be NP dependents. cf. "it depends on [how good a horse] your horse is"
+
 **Exclamative clauses** beginning with *how* or *what* may also function as complements:
 
 - I know/\*wonder what a jerk he is!
