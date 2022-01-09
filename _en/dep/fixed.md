@@ -124,6 +124,15 @@ fixed(Up, to)
 advmod(percent, Up)
 ~~~
 
+*as many/much/few/little as* (when used in quantities)  <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/281 -->
+
+~~~ sdparse
+As much as fifty percent
+fixed(As, much)
+fixed(As, as)
+advmod(percent, As)
+~~~
+
 *according to*
 
 ~~~ sdparse
