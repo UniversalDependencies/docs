@@ -5,7 +5,7 @@ shortdef : 'clausal modifier of noun'
 udver: '2'
 ---
 
-Clausal modifiers do not have relative pronouns. The prototypical case is a verb preceding the noun.
+Clausal modifiers of nouns, with the bare [acl]() relation, do not have relative pronouns dependent to them. The head is the noun being modified, and the dependent is the head of the clausal modifier, which is usually the main verb.
 
 ~~~ sdparse
 ਤੁਰਦੀ ਰੇਲ ਗੱਡੀ \n moving rail car
@@ -15,8 +15,6 @@ acl(ਗੱਡੀ, ਤੁਰਦੀ)
 acl(car, moving)
 ~~~
 
-Some other ways of phrasing this:
-
 ~~~ sdparse
 ਬੈਠਿਆ ਹੋਇਆ ਮੁੰਡਾ \n sitting being boy
 acl(ਮੁੰਡਾ, ਬੈਠਿਆ)
@@ -25,15 +23,7 @@ aux(ਬੈਠਿਆ, ਹੋਇਆ)
 aux(sitting, being)
 ~~~
 
-~~~ sdparse
-ਆਖਣ ਵਾਲਾ ਮੁੰਡਾ \n saying (vālā) boy
-acl(ਮੁੰਡਾ, ਆਖਣ)
-acl(boy, saying)
-mark(ਆਖਣ, ਵਾਲਾ)
-mark(saying, (vālā))
-~~~
-
-This kind of verb can take some arguments, but the subject can never take the ergative, instead a passive agentive case marker like ਵੱਲੋਂ.
+Clausal modifiers can take some arguments, but the subject can never take the ergative case, instead a passive agentive case marker like ਵੱਲੋਂ *vallõ*.
 
 ~~~ sdparse
 ਸੱਸ ਵੱਲੋਂ ਨੂੰਹ ਨੂੰ ਦਿੱਤੇ ਅਸ਼ੀਰਵਾਦ \n mother.in.law by daughter.in.law DAT given blessings
@@ -45,7 +35,19 @@ acl(ਅਸ਼ੀਰਵਾਦ, ਦਿੱਤੇ)
 acl(blessings, given)
 ~~~
 
-## With case markers
+## With case markers and postpositions
+
+The postposition ਵਾਲਾ *vālā* marks such clausal modifiers, with a habitual connotation, as well.
+
+~~~ sdparse
+ਆਖਣ ਵਾਲਾ ਮੁੰਡਾ \n saying (vālā) boy
+acl(ਮੁੰਡਾ, ਆਖਣ)
+acl(boy, saying)
+mark(ਆਖਣ, ਵਾਲਾ)
+mark(saying, (vālā))
+~~~
+
+Other cases can also be used. For example, the genitive with topic/information content of the head nominal.
 
 ~~~ sdparse
 ਭਾਰਤ ਜਾਣ ਦੀ ਗੱਲ \n India going GEN talk

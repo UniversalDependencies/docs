@@ -5,7 +5,7 @@ shortdef : 'clausal complement'
 udver: '2'
 ---
 
-Some verbs take clausal complements, which generally go after the verb unlike nominal objects which are pre-verbal.
+Some verbs (e.g. of feeling or mental perception, or communicating) take clausal complements, which generally go after the verb in unmarked position. Nominal objects, on the other hand, are generally pre-verbal.
 
 ~~~ sdparse
 ਉਹ ਜਾਣਦਾ ਹੈ ਕਿ ਕੁੜੀ ਉੱਥੇ ਗਈ \n He knows is that girl there went

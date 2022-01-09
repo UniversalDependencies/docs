@@ -5,7 +5,7 @@ shortdef : 'open clausal complement'
 udver: '2'
 ---
 
-Some verbs (e.g. ਚਾਹੁਣਾ *cāhuṇā* "to want") can select a clausal complement without its own subject. The strategies for case-marking (or not) these complements are varied.
+Some verbs (e.g. ਚਾਹੁਣਾ *cāhuṇā* "to want") can select a clausal complement that does not have its own subject, instead with the subject being a sister of that complement (e.g. the object of the verb).
 
 ~~~ sdparse
 ਮੈਂ ਜਾਣਾ ਚਾਹੁੰਦਾ ਹਾਂ \n I to.go want am
@@ -14,6 +14,8 @@ nsubj(want, I)
 xcomp(ਚਾਹੁੰਦਾ, ਜਾਣਾ)
 xcomp(want, to.go)
 ~~~
+
+Such complemenets can also take genitive, ablative, or accusative case licensed by the verb.
 
 ~~~ sdparse
 ਰਾਮ ਨੇ ਜਾਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਿੱਤੀ \n Ram ERG going GEN trying did
