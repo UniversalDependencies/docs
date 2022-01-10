@@ -42,7 +42,7 @@ Below the description of `fixed` expressions are a few idiomatic combinations th
 *as well*
 
 ~~~ sdparse
-I like dogs as well
+I like dogs as/ADV well/ADV
 advmod(like, as)
 fixed(as, well)
 ~~~
@@ -50,12 +50,14 @@ fixed(as, well)
 *as well as*
 
 ~~~ sdparse
-I like dogs as well as cats
+I like dogs as/ADV well/ADV as/ADP cats
 fixed(as-4, well)
 fixed(as-4, as-6)
 cc(cats, as-4)
 conj(dogs, cats)
 ~~~
+
+<!-- TODO: add POS tags for remaining examples -->
 
 *rather than* <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/182 -->
 
