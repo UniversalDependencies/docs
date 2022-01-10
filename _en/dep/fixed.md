@@ -20,63 +20,47 @@ At present, this relation is used inside the following expressions:
 
 ### Augmentative/substitutive/conjunctive expressions
 
-<details open="open"><summary><i>
-  as well
- </i></summary>
+*as well*
 
- <div class="sdparse">
-I like dogs as/ADV well/ADV
+~~~ sdparse
+I like dogs as well
 advmod(like, as)
 fixed(as, well)
- </div>
- 
-</details>
+~~~
 
-<details open="open"><summary><i>
-  as well as
- </i></summary>
+*as well as*
 
- <div class="sd-parse">
-I like dogs as/ADV well/ADV as/ADP cats
+~~~ sdparse
+I like dogs as well as cats
 fixed(as-4, well)
 fixed(as-4, as-6)
 cc(cats, as-4)
 conj(dogs, cats)
- </div>
- 
-</details>
+~~~
 
-<!-- TODO: add POS tags for other examples -->
-
-<details open="open"><summary><i>
-  rather than <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/182 -->
- </i></summary>
+*rather than* <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/182 -->
 
 Typically analyzed as a coordinating conjunction:
 
- <div class="sd-parse">
+~~~ sdparse
 I decided to get a dog rather than a cat
 fixed(rather, than)
 cc(cat, rather)
 conj(dog, cat)
- </div>
+~~~
 
 However, when fronted, it attaches as `case` or `mark`:
 
- <div class="sd-parse">
+~~~ sdparse
 Rather than a cat , I decided to get a dog.
 fixed(Rather, than)
 case(cat, Rather)
 obl(decided, cat)
- </div>
-</details>
+~~~
 
-<details open="open"><summary><i>
-  instead of <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/182 -->
- </i></summary>
+*instead of* <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/182 -->
 
 Similar in meaning to *rather than*, but never analyzed as a coordinating conjunction, always `case` or `mark`:
-
 
 ~~~ sdparse
 John went instead of Mary
@@ -90,19 +74,15 @@ fixed(instead, of)
 mark(staying, instead)
 ~~~
 
-</details>
+*let alone*
 
-<details open="open"><summary><i>
-  let alone
- </i></summary>
-  
 ~~~ sdparse
 He could n't handle being hurt , let alone hurt by you
 fixed(let, alone)
 cc(hurt-10, let)
 conj(hurt-6, hurt-10)
 ~~~
-</details>
+
 
 ### Causal connectives
 
