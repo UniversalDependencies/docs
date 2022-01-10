@@ -20,15 +20,20 @@ At present, this relation is used inside the following expressions:
 
 ### Augmentative/substitutive/conjunctive expressions
 
-*as well*
+<details><summary>
+  *as well*
+  </summary>
 
 ~~~ sdparse
 I like dogs as well
 advmod(like, as)
 fixed(as, well)
 ~~~
+</details>
 
-*as well as*
+<details><summary>
+  *as well as*
+  </summary>
 
 ~~~ sdparse
 I like dogs as well as cats
@@ -37,8 +42,11 @@ fixed(as-4, as-6)
 cc(cats, as-4)
 conj(dogs, cats)
 ~~~
+</details>
 
-*rather than* <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/182 -->
+<details><summary>
+  *rather than* <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/182 -->
+  </summary>
 
 Typically analyzed as a coordinating conjunction:
 
@@ -57,9 +65,11 @@ fixed(Rather, than)
 case(cat, Rather)
 obl(decided, cat)
 ~~~
+</details>
 
-*instead of* <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/182 -->
-
+<details><summary>
+  *instead of* <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/182 -->
+  </summary>
 Similar in meaning to *rather than*, but never analyzed as a coordinating conjunction, always `case` or `mark`:
 
 ~~~ sdparse
@@ -73,16 +83,19 @@ John left early instead of staying for the whole thing
 fixed(instead, of)
 mark(staying, instead)
 ~~~
+</details>
 
-*let alone*
-
+<details><summary>
+  *let alone*
+  </summary>
+  
 ~~~ sdparse
 He could n't handle being hurt , let alone hurt by you
 fixed(let, alone)
 cc(hurt-10, let)
 conj(hurt-6, hurt-10)
 ~~~
-
+</details>
 
 ### Causal connectives
 
