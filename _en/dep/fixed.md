@@ -20,9 +20,9 @@ At present, this relation is used inside the following expressions:
 
 ### Augmentative/substitutive/conjunctive expressions
 
-<details><summary>
-  *as well*
-  </summary>
+<details><summary><i>
+  as well
+ </i></summary>
 
  <div class="sdparse">
 I like dogs as/ADV well/ADV
@@ -32,11 +32,11 @@ fixed(as, well)
  
 </details>
 
-<details><summary>
-  *as well as*
-  </summary>
+<details><summary><i>
+  as well as
+ </i></summary>
 
- <div class="sdparse">
+ <div class="sd-parse">
 I like dogs as/ADV well/ADV as/ADP cats
 fixed(as-4, well)
 fixed(as-4, as-6)
@@ -54,7 +54,7 @@ conj(dogs, cats)
 
 Typically analyzed as a coordinating conjunction:
 
- <div class="sdparse">
+ <div class="sd-parse">
 I decided to get a dog rather than a cat
 fixed(rather, than)
 cc(cat, rather)
@@ -63,7 +63,7 @@ conj(dog, cat)
 
 However, when fronted, it attaches as `case` or `mark`:
 
- <div class="sdparse">
+ <div class="sd-parse">
 Rather than a cat , I decided to get a dog.
 fixed(Rather, than)
 case(cat, Rather)
@@ -74,6 +74,7 @@ obl(decided, cat)
 <details><summary><i>
   instead of <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/182 -->
  </i></summary>
+
 Similar in meaning to *rather than*, but never analyzed as a coordinating conjunction, always `case` or `mark`:
 
 
@@ -83,13 +84,12 @@ fixed(instead, of)
 case(Mary, instead)
 ~~~
 
- 
- 
 ~~~ sdparse
 John left early instead of staying for the whole thing
 fixed(instead, of)
 mark(staying, instead)
 ~~~
+
 </details>
 
 <details><summary><i>
