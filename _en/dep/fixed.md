@@ -20,7 +20,7 @@ At present, this relation is used inside the following expressions:
 
 ### Augmentative/substitutive/conjunctive expressions
 
-<details><summary><i>
+<details open="open"><summary><i>
   as well
  </i></summary>
 
@@ -32,7 +32,7 @@ fixed(as, well)
  
 </details>
 
-<details><summary><i>
+<details open="open"><summary><i>
   as well as
  </i></summary>
 
@@ -48,7 +48,7 @@ conj(dogs, cats)
 
 <!-- TODO: add POS tags for other examples -->
 
-<details><summary><i>
+<details open="open"><summary><i>
   rather than <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/182 -->
  </i></summary>
 
@@ -71,7 +71,7 @@ obl(decided, cat)
  </div>
 </details>
 
-<details><summary><i>
+<details open="open"><summary><i>
   instead of <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/182 -->
  </i></summary>
 
@@ -92,7 +92,7 @@ mark(staying, instead)
 
 </details>
 
-<details><summary><i>
+<details open="open"><summary><i>
   let alone
  </i></summary>
   
