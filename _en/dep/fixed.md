@@ -16,6 +16,10 @@ Fixed expressions are annotated in a flat, head-initial structure, in which all 
 
 At present, this relation is used inside the following expressions: 
 
+
+
+### Augmentative/substitutive/conjunctive expressions
+
 *as well*
 
 ~~~ sdparse
@@ -32,133 +36,6 @@ fixed(as-4, well)
 fixed(as-4, as-6)
 cc(cats, as-4)
 conj(dogs, cats)
-~~~
-
-*such as*
-
-~~~ sdparse
-I like fluffy animals , such as dogs
-case(dogs, such)
-fixed(such, as)
-~~~
-
-
-*due to* (and other forms, such as *d t* and *d/t*)
-
-~~~ sdparse
-He cried due to the fact that you hurt him
-case(fact, due)
-fixed(due, to)
-~~~
-
-*because of* (and other forms, such as *b c of* and *b/c of*)
-
-~~~ sdparse
-He cried because of you
-case(you, because)
-fixed(because, of)
-~~~
-
-
-*in case*
-
-~~~ sdparse
-I always back up my files in case my computer crashes
-fixed(in, case)
-mark(crashes, in)
-~~~
-
-~~~ sdparse
-I always back up my files just in case
-fixed(in, case)
-advmod(back, in)
-advmod(in, just)
-~~~
-
-*in case of*
-
-~~~ sdparse
-I always back up my files in case of a crash
-fixed(in, case)
-fixed(in, of)
-case(crash, in)
-~~~
-
-*of course*
-
-~~~ sdparse
-I like dogs , of course
-advmod(like, of)
-fixed(of, course)
-~~~
-
-*so that*
-
-~~~ sdparse
-He cried so that you would feel bad
-mark(feel, so)
-fixed(so, that)
-~~~
-
-*more than* (when used synonymously with "over" in a quantity)
-
-~~~ sdparse
-More than 90 percent
-advmod(percent, More)
-fixed(More, than)
-~~~
-
-*less than* (when used synonymously with "under" in a quantity)
-
-~~~ sdparse
-Less than ten percent
-advmod(percent, Less)
-fixed(Less, than)
-~~~
-
-*up to* (when used in quantities)
-
-~~~ sdparse
-Up to fifty percent
-fixed(Up, to)
-advmod(percent, Up)
-~~~
-
-*as many/much/few/little as* (when used in quantities)  <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/281 -->
-
-~~~ sdparse
-As much as fifty percent
-fixed(As, much)
-fixed(As, as)
-advmod(percent, As)
-~~~
-
-*according to*
-
-~~~ sdparse
-According to John
-fixed(According, to)
-case(John, According)
-~~~
-
-*in order*
-
-~~~ sdparse
-He cried in order to make you feel bad
-mark(feel, in)
-fixed(in, order)
-~~~
-
-~~~ sdparse
-He cried in order that you might feel bad
-mark(feel, in)
-fixed(in, order)
-~~~
-
-~~~ sdparse
-He cried in order for you to have something to feel bad about
-mark(have, in)
-fixed(in, order)
 ~~~
 
 *rather than* <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/182 -->
@@ -197,12 +74,201 @@ fixed(instead, of)
 mark(staying, instead)
 ~~~
 
-*at least* (when not used for quantities)
+*let alone*
 
 ~~~ sdparse
-At least I like dogs
-fixed(At, least)
-advmod(like, At)
+He could n't handle being hurt , let alone hurt by you
+fixed(let, alone)
+cc(hurt-10, let)
+conj(hurt-6, hurt-10)
+~~~
+
+
+### Causal connectives
+
+*because of* (and other forms, such as *b c of* and *b/c of*)
+
+~~~ sdparse
+He cried because of you
+case(you, because)
+fixed(because, of)
+~~~
+
+*due to* (and other forms, such as *d t* and *d/t*)
+
+~~~ sdparse
+He cried due to the fact that you hurt him
+case(fact, due)
+fixed(due, to)
+~~~
+
+*how come*
+
+~~~ sdparse
+How come John left early ?
+fixed(How, come)
+mark(left, How)
+~~~
+
+*in order*
+
+~~~ sdparse
+He cried in order to make you feel bad
+mark(feel, in)
+fixed(in, order)
+~~~
+
+~~~ sdparse
+He cried in order that you might feel bad
+mark(feel, in)
+fixed(in, order)
+~~~
+
+~~~ sdparse
+He cried in order for you to have something to feel bad about
+mark(have, in)
+fixed(in, order)
+~~~
+
+*so as to*
+
+~~~ sdparse
+John left early so as to miss the meeting
+fixed(so, as)
+fixed(so, to)
+mark(miss, so)
+~~~
+
+*so that*
+
+~~~ sdparse
+He cried so that you would feel bad
+mark(feel, so)
+fixed(so, that)
+~~~
+
+
+### Spatiotemporal markers
+
+*in between*
+
+~~~ sdparse
+John left in between meetings
+fixed(in, between)
+case(meetings, in)
+~~~
+
+*prior to*
+
+~~~ sdparse
+John left prior to the meeting
+fixed(prior, to)
+case(meeting, prior)
+~~~
+
+
+### Circumstantial/conditional connectives
+
+*in case*
+
+~~~ sdparse
+I always back up my files in case my computer crashes
+fixed(in, case)
+mark(crashes, in)
+~~~
+
+~~~ sdparse
+I always back up my files just in case
+fixed(in, case)
+advmod(back, in)
+advmod(in, just)
+~~~
+
+*in case of*
+
+~~~ sdparse
+I always back up my files in case of a crash
+fixed(in, case)
+fixed(in, of)
+case(crash, in)
+~~~
+
+*whether or not*
+
+~~~ sdparse
+He 's crying whether or not you feel bad about it
+fixed(whether, or)
+fixed(whether, not)
+mark(feel, whether)
+~~~
+
+
+### Approximators (quantity modifiers)
+
+*more than* (when used synonymously with "over" in a quantity)
+
+~~~ sdparse
+More than 90 percent
+advmod(percent, More)
+fixed(More, than)
+~~~
+
+*less than* (when used synonymously with "under" in a quantity)
+
+~~~ sdparse
+Less than ten percent
+advmod(percent, Less)
+fixed(Less, than)
+~~~
+
+*up to* (when used in quantities)
+
+~~~ sdparse
+Up to fifty percent
+fixed(Up, to)
+advmod(percent, Up)
+~~~
+
+*as many/much/few/little as* (when used in quantities)  <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/281 -->
+
+~~~ sdparse
+As much as fifty percent
+fixed(As, much)
+fixed(As, as)
+advmod(percent, As)
+~~~
+
+
+### Attributional markers
+
+*according to*
+
+~~~ sdparse
+According to John
+fixed(According, to)
+case(John, According)
+~~~
+
+
+### Exemplification
+
+*such as*
+
+~~~ sdparse
+I like fluffy animals , such as dogs
+case(dogs, such)
+fixed(such, as)
+~~~
+
+
+### Pragmatic/miscellaneous markers
+
+*all but*
+
+~~~ sdparse
+John has all but left
+fixed(all, but)
+advmod(left, all)
 ~~~
 
 *as if*
@@ -213,12 +279,13 @@ fixed(as, if)
 mark(cried, as)
 ~~~
 
-*prior to*
+*as opposed to*
 
 ~~~ sdparse
-John left prior to the meeting
-fixed(prior, to)
-case(meeting, prior)
+John decided to leave early , as opposed to Mary
+fixed(as, opposed)
+fixed(as, to-9)
+case(Mary, as)
 ~~~
 
 *as to*
@@ -235,21 +302,20 @@ fixed(As, to)
 case(love, As)
 ~~~
 
+*at least* (when not used for quantities)
+
+~~~ sdparse
+At least I like dogs
+fixed(At, least)
+advmod(like, At)
+~~~
+
 *kind of*, *sort of* (as a hedge)
 
 ~~~ sdparse
 I kind of like dogs
 fixed(kind, of)
 advmod(like, kind)
-~~~
-
-*whether or not*
-
-~~~ sdparse
-He 's crying whether or not you feel bad about it
-fixed(whether, or)
-fixed(whether, not)
-mark(feel, whether)
 ~~~
 
 *not to mention*
@@ -262,47 +328,12 @@ cc(staff, not)
 conj(food, staff)
 ~~~
 
-*as opposed to*
+*of course*
 
 ~~~ sdparse
-John decided to leave early , as opposed to Mary
-fixed(as, opposed)
-fixed(as, to-9)
-case(Mary, as)
-~~~
-
-*let alone*
-
-~~~ sdparse
-He could n't handle being hurt , let alone hurt by you
-fixed(let, alone)
-cc(hurt-10, let)
-conj(hurt-6, hurt-10)
-~~~
-
-*so as to*
-
-~~~ sdparse
-John left early so as to miss the meeting
-fixed(so, as)
-fixed(so, to)
-mark(miss, so)
-~~~
-
-*in between*
-
-~~~ sdparse
-John left in between meetings
-fixed(in, between)
-case(meetings, in)
-~~~
-
-*all but*
-
-~~~ sdparse
-John has all but left
-fixed(all, but)
-advmod(left, all)
+I like dogs , of course
+advmod(like, of)
+fixed(of, course)
 ~~~
 
 *that is*
@@ -313,21 +344,8 @@ fixed(that, is)
 advmod(trained, that)
 ~~~
 
-*how come*
 
-~~~ sdparse
-How come John left early ?
-fixed(How, come)
-mark(left, How)
-~~~
-
-*had better* (and *'d better*)
-
-~~~ sdparse
-You had better apologize
-fixed(had, better)
-aux(apologize, had)
-~~~
+### NEED DISCUSSION
 
 *one another* (as a reciprocal pronoun; however, `fixed` is not currently used for *each other*)
 
@@ -337,9 +355,19 @@ fixed(one, another)
 aux(saw, one)
 ~~~
 
+*had better* (and *'d better*)
 
-### Not `fixed`s
-The following are **not** annotated as `fixed`s, but are instead labeled according to their apparent internal structure.
+** Disputed—see [issue #803](https://github.com/UniversalDependencies/docs/issues/803) **
+
+~~~ sdparse
+You had better apologize
+fixed(had, better)
+aux(apologize, had)
+~~~
+
+
+## Not `fixed`
+The following are **not** annotated as `fixed`, but are instead labeled according to their apparent internal structure.
 
 *out of*, *off of* (All double prepositions denoting spatial relations are annotated with two cases on the nominal)
 
