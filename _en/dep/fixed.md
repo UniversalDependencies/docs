@@ -24,53 +24,58 @@ At present, this relation is used inside the following expressions:
   *as well*
   </summary>
 
-~~~ sdparse
-I like dogs as well
+ <div class="sdparse">
+I like dogs as/ADV well/ADV
 advmod(like, as)
 fixed(as, well)
-~~~
+ </div>
+ 
 </details>
 
 <details><summary>
   *as well as*
   </summary>
 
-~~~ sdparse
-I like dogs as well as cats
+ <div class="sdparse">
+I like dogs as/ADV well/ADV as/ADP cats
 fixed(as-4, well)
 fixed(as-4, as-6)
 cc(cats, as-4)
 conj(dogs, cats)
-~~~
+ </div>
+ 
 </details>
 
-<details><summary>
-  *rather than* <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/182 -->
-  </summary>
+<!-- TODO: add POS tags for other examples -->
+
+<details><summary><i>
+  rather than <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/182 -->
+ </i></summary>
 
 Typically analyzed as a coordinating conjunction:
 
-~~~ sdparse
+ <div class="sdparse">
 I decided to get a dog rather than a cat
 fixed(rather, than)
 cc(cat, rather)
 conj(dog, cat)
-~~~
+ </div>
 
 However, when fronted, it attaches as `case` or `mark`:
 
-~~~ sdparse
+ <div class="sdparse">
 Rather than a cat , I decided to get a dog.
 fixed(Rather, than)
 case(cat, Rather)
 obl(decided, cat)
-~~~
+ </div>
 </details>
 
-<details><summary>
-  *instead of* <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/182 -->
-  </summary>
+<details><summary><i>
+  instead of <!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/182 -->
+ </i></summary>
 Similar in meaning to *rather than*, but never analyzed as a coordinating conjunction, always `case` or `mark`:
+
 
 ~~~ sdparse
 John went instead of Mary
@@ -78,6 +83,8 @@ fixed(instead, of)
 case(Mary, instead)
 ~~~
 
+ 
+ 
 ~~~ sdparse
 John left early instead of staying for the whole thing
 fixed(instead, of)
@@ -85,9 +92,9 @@ mark(staying, instead)
 ~~~
 </details>
 
-<details><summary>
-  *let alone*
-  </summary>
+<details><summary><i>
+  let alone
+ </i></summary>
   
 ~~~ sdparse
 He could n't handle being hurt , let alone hurt by you
