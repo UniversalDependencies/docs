@@ -175,9 +175,9 @@ conj(dog, cat)
 However, when fronted, it attaches as `case` or `mark`:
 
 ~~~ sdparse
-Rather than a cat, I decided to get a dog.
-fixed(rather, than)
-case(cat, rather)
+Rather than a cat , I decided to get a dog.
+fixed(Rather, than)
+case(cat, Rather)
 obl(decided, cat)
 ~~~
 
