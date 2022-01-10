@@ -14,9 +14,28 @@ The fixed relation is used for certain fixed grammaticized expressions with func
 Fixed expressions are annotated in a flat, head-initial structure, in which all words in the expression modify the first one using the
 `fixed` label.
 
-At present, this relation is used inside the following expressions: 
+At present, this relation is used inside the following expressions, semantically grouped for convenience: 
 
+| Category | Expressions |
+|----------|-------------|
+| [Augmentative/substitutive/conjunctive](#augmentativesubstitutiveconjunctive-expressions) | *as well*, *as well as*, *rather than*, *instead of*, *let alone* |
+| [Causal](#causal-connectives) | *because of*, *due to*, *how come*, *in order*, *so as to*, *so that* |
+| [Spatiotemporal](#spatiotemporal-markers) | *in between*, *prior to* |
+| [Circumstantial/conditional](#circumstantialconditional-connectives) | *in case (of)*, *whether or not* |
+| [Approximators](#approximators-quantity-modifiers) | with a quantity: *more than*, *less than*, *up to*, *as many/much/few/little as* |
+| [Attributional](#attributional-markers) | *according to* |
+| [Exemplification](#exemplification) | *such as* |
+| [Pragmatic/miscellaneous](#pragmaticmiscellaneous-markers) | *all but*, *as if*, *as opposed to*, *as to*, *at least* (non-quantity), *kind/sort of* (hedge), *not to mention*, *of course*, *that is* |
+| [NEED DISCUSSION](#need-discussion) | *one another*, *had better* |
 
+Below the description of `fixed` expressions are a few idiomatic combinations that are [analyzed without `fixed`](#not-fixed). These are summarized as follows:
+
+| Non-`fixed` Expressions |
+|-------------------------|
+| Double spatial prepositions: *out of*, *off of*, etc. |
+| *as soon/long as*; *at all*, *at best/worst*, *by far*; *at most/least* (with quantities); *compared to/with*; *nothing/anything but*; *so long*; *what about*, *what if* |
+
+## `fixed` expressions
 
 ### Augmentative/substitutive/conjunctive expressions
 
