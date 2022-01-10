@@ -783,6 +783,7 @@
   languages:
   - label: 'bm/dep'
   - label: 'hy/dep'
+  - label: 'pa/dep'
   - label: 'pcm/dep'
   - label: 'tr/dep'
   - label: 'u/dep'
