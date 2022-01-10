@@ -5,7 +5,7 @@ shortdef : 'clausal modifier of noun'
 udver: '2'
 ---
 
-Clausal modifiers of nouns, with the bare [acl]() relation, do not have relative pronouns dependent to them. The head is the noun being modified, and the dependent is the head of the clausal modifier, which is usually the main verb.
+Clausal modifiers of nouns, with the bare [acl]() relation, do not have relative pronouns dependent to them (those take the deprel [acl:relcl]()). The head is the noun being modified, and the dependent is the head of the clausal modifier, which is usually the main verb.
 
 ~~~ sdparse
 ਤੁਰਦੀ ਰੇਲ ਗੱਡੀ \n moving rail car

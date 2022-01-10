@@ -512,6 +512,7 @@
   - label: 'gsw/dep'
   - label: 'it/dep'
   - label: 'no/dep'
+  - label: 'pa/dep'
   - label: 'pt/dep'
   - label: 'ro/dep'
   - label: 'ru/dep'
@@ -751,6 +752,7 @@
 - label: 'compound:lvc'
   languages:
   - label: 'hy/dep'
+  - label: 'pa/dep'
   - label: 'tr/dep'
   - label: 'tt/dep'
   - label: 'u/dep'
@@ -791,6 +793,7 @@
   languages:
   - label: 'hy/dep'
   - label: 'mr/dep'
+  - label: 'pa/dep'
   - label: 'pcm/dep'
   - label: 'swl/dep'
   - label: 'u/dep'
@@ -1742,6 +1745,7 @@
   - label: 'it/dep'
   - label: 'jv/dep'
   - label: 'no/dep'
+  - label: 'pa/dep'
   - label: 'pt/dep'
   - label: 'ro/dep'
   - label: 'ru/dep'

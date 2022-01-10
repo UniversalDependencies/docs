@@ -5,7 +5,7 @@ shortdef: 'passive nominal subject'
 udver: '2'
 ---
 
-A passive nominal subject is a noun phrase which is the syntactic subject of a passive clause. These are not case marked with the ergative, but rather with one of several possible postpositions: ਵੱਲੋਂ *vallõ*, ਕੋਲੋਂ *kolõ*, ਤੋਂ *tõ*, or in some literary language ਦੁਆਰਾ *duārā*. See also [aux:pass]()
+A passive nominal subject is a noun phrase which is the syntactic subject of a passive clause. These are not case marked with the ergative, but rather with one of several possible postpositions: ਵੱਲੋਂ *vallõ*, ਕੋਲੋਂ *kolõ*, ਤੋਂ *tõ*, or in some literary language ਦੁਆਰਾ *duārā*. See also [aux:pass]().
 
 ~~~ sdparse
 ਹਕੀਮ ਤੋਂ ਮਰੀਜ਼ ਵੇਖਿਆ ਗਿਆ \n doctor by patient seen was
