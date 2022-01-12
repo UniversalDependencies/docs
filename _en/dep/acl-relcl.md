@@ -232,7 +232,7 @@ nmod:poss(crown, whose)
 ~~~
 
 ~~~ sdparse
-the king bequeathed a crown, the jewels of which were stolen
+the king bequeathed a crown , the jewels of which were stolen
 acl:relcl(crown, stolen)
 nmod(jewels, which)
 case(which, of)
