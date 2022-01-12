@@ -231,12 +231,20 @@ case(crown, from)
 nmod:poss(crown, whose)
 ~~~
 
+~~~ sdparse
+the king bequeathed a crown, the jewels of which were stolen
+acl:relcl(crown, stolen)
+nmod(jewels, which)
+case(which, of)
+nsubj:pass(stolen, jewels)
+~~~
+
 
 ## Free Relatives
 
 NOTE: partially adapted from <https://universaldependencies.org/en/specific-syntax.html#free-relatives>
 
-**Free relatives** are noun phrases containing a relative clause modifying a WH-word head. 
+**Free relatives** are noun phrases containing a relative clause modifying a WH-phrase. 
 There is no separate relativizer in the RC; it is "fused" with the head (thus these constructions are also known as **fused relatives**).
 
 <!-- In free relative constructions, the _wh_-clause functions as an argument in the higher clause. In these cases, the _wh_-phrase is deemed the head of the construction, thereby receiving a dependency relation reflective of its function in the higher clause, and the rest of the _wh_-clause is an `acl:relcl` dependent on it. -->
@@ -253,6 +261,19 @@ advmod(go, where)
 acl:relcl(where, want-6)
 obj(eat, what)
 acl:relcl(what, want-11)
+~~~
+
+~~~sdparse
+the time when the pizza exploded
+acl:relcl(time, exploded)
+advmod(exploded, when)
+~~~
+
+~~~sdparse
+What money we have left will go to charity
+det(money, What)
+acl:relcl(money, have)
+nsubj(go, money)
 ~~~
 
 ~~~sdparse
@@ -281,8 +302,6 @@ advcl(sure, leave)
 ~~~
 
 TODO: the above would be `mark` not `advmod` in EWT
-
-TODO: is plain `acl` ever correct for a WH-clause? "the time when", "the reason why"? <http://match.grew.fr/?corpus=UD_English-EWT@dev&custom=61c1f3622bda6>
 
 
 Free relatives are subtly different from **interrogative clauses**, where the WH-word making it interrogative is inside the clause.
@@ -345,6 +364,9 @@ nsubj(jerk, he)
 cop(jerk, is)
 ~~~
 - I noticed how big a car he has. ('I noticed that he has a remarkably big car.')
+
+TODO: plain `acl` for a WH-clause: is this limited to interrogative and exclamative complements of nouns, and non-RC adjuncts ("press conferences when the US forces were already inside Baghdad")? <http://match.grew.fr/?corpus=UD_English-EWT@dev&custom=61c1f3622bda6>
+
 
 ### Cyclic cases
 
