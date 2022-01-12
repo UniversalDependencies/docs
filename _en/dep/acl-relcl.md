@@ -45,9 +45,11 @@ The relativizer can be understood as an anaphor whose antecedent is the head of 
 
 Basic UD (left) analyzes the relativizer, if present, as filling a role in the RC. 
 Specifically:
-- Pronominal relativizers (*that*, *which*, *who*, *what*, etc.) fill roles such as subject, object, or oblique.
+- Pronominal relativizers (*that*, *which*, *who*, *what*, etc.) fill roles such as subject, object, or oblique.[^1]
 - WH-adverb relativizers (*where*, *when*, *why*, *how*, etc.) attach as [advmod]() within the RC.
 - The possessive pronominal relativizer *whose* may occur within a subject, object, or oblique phrase.
+
+[^1]: *CGEL* considers *that* at the beginning of a relative clause to be a subordinator. UD adopts the traditional analysis of *that* as a relative pronoun roughly interchangeable with *which* etc.
 
 In the Enhanced Dependencies layer (right), the relativizer instead attaches to its antecedent via the `ref` relation (as the antecedent is directly connected to a role in the RC).
 
@@ -134,6 +136,7 @@ Should relativizers "where", "when" be SCONJ/mark or ADV/advmod? SCONJ/mark is t
 A relative clause with no relativizer, like (1), is called a **reduced relative clause**. One with a relativizer, like (3), is called a **nonreduced relative clause**.
 
 Basic UD is shown for the rest of the examples below.
+
 
 ## Notable Properties
 
