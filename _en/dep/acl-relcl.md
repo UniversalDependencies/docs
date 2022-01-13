@@ -143,11 +143,11 @@ Basic UD is shown for the rest of the examples below.
 Relativization can create unbounded dependency—an element can be extracted from several levels of embedding:
 
 ~~~ sdparse
-I saw the book which you pretended to want to read
+I saw the book which you pretended to think was boring
 acl:relcl(book, pretended)
-obj(read, which)
-xcomp(pretended, want)
-xcomp(want, read)
+nsubj(boring, which)
+xcomp(pretended, think)
+ccomp(think, boring)
 ~~~
 
 Semantically, relative clauses may be **specifying/restrictive** (helping to narrow a set of referents), or **ascriptive/nonrestrictive** (adding detail about a referent that has already been identified):
