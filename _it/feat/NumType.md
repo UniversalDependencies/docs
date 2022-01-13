@@ -5,6 +5,16 @@ shortdef: 'numeral type'
 udver: '2'
 ---
 
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Card">Card</a></td>
+  <td><a href="#Ord">Ord</a></td>
+  <td><a href="#Range">Range</a></td>
+  <td><a href="#Gen">Gen</a></td>
+</tr>
+</table>
+
 The `NumType` feature applies to:
 
 * [u-pos/NUM](): numerals
@@ -25,6 +35,7 @@ This is a subtype of adjectives or pronouns.
 * _primo_ "first", _secondo_ "second", _terzo_ "third";
 * _III_, _IV_, XIX
 * 30a, 30esima, 1°
+* _bis_ "bis", _ter_ "ter", _quater_ "quater"
 
 ### <a name="Range">`Range`</a>: range of values
 
