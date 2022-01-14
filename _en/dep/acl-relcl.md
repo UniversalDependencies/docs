@@ -40,7 +40,7 @@ In the [Enhanced Dependencies]() layer, there is an additional dependency in the
 </table>
 
 The RC may begin with a **relativizer** (*that*, *which*, *who*, or another WH-word); in some contexts (e.g., object relativization) the relativizer is optional. 
-See [PronType=Rel](). 
+See [PronType]()`=Rel`. 
 The relativizer can be understood as an anaphor whose antecedent is the head of the relative clause.
 
 Basic UD (left) analyzes the relativizer, if present, as filling a role in the RC. 
