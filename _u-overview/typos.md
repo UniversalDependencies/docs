@@ -35,6 +35,10 @@ Finally, neither the lemma nor the morphological features tell the user what the
 
 </pre>
 
+`Typo=Yes` is not intended for all typographical errors in a text, only those that are internal to (the rendering of) a single word in the language, 
+including wrongly split words as described below. 
+Errors in spacing *around* words, or erroneous insertion or deletion of words, are represented via other means (see below).
+
 ### Intentionally Noncanonical Spellings
 
 Abbreviations and expressive spelling variants are not considered typos, but may be paired with a `CorrectForm` for the canonical spelling.
@@ -43,13 +47,16 @@ See the [Abbr]()=`Yes` and [Style]()=`Expr` features.
 ## Wrongly Split Word
 
 If the word is erroneously written with one or more spaces, we have several incorrect tokens. We do not join them into one token with a space, although Universal Dependencies since version 2 allow words with spaces. This option is reserved for very specific situations, usually quite marginal in the language (with the exception of Vietnamese), but _predictable._ Not for arbitrary errors. Instead, UD defines the [goeswith]() relation to connect the parts of the word. The first part is always the head, the other parts are attached to it via `goeswith`.
+Parts attaching as `goeswith` should not themselves have any dependents.
 
-The head should also bear the part-of-speech tag and morphological annotation of the entire word. It is not necessary to add the `Typo` feature and `CorrectForm` in MISC, unless there is a “normal” typo too, i.e. if simple concatenation of the parts does not yield the correct form. Example:
+The head should bear the part-of-speech tag, lemma, and morphological annotation of the entire word. Beginning with UD release 2.10, any treebank that uses the `Typo` feature must apply it to all words with `goeswith` dependents, as an extra space within a word is a misrendering of that word.
+<!-- OLD POLICY: It is not necessary to add the `Typo` feature and `CorrectForm` in MISC, unless there is a “normal” typo too, i.e. if simple concatenation of the parts does not yield the correct form. --> 
+Example:
 
 <pre>
 # text = This spel ling is wrong.
 1	This	this	DET	_	Number=Sing|PronType=Dem	2	det	_	_
-2	spel	spelling	NOUN	_	Number=Sing	5	nsubj	_	_
+2	spel	spelling	NOUN	_	Number=Sing|Typo=Yes	5	nsubj	_	CorrectForm=spelling
 3	ling	_	X	_	_	2	goeswith	_	_
 4	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 5	wrong	wrong	ADJ	_	_	0	root	_	SpaceAfter=No
@@ -62,6 +69,8 @@ The head should also bear the part-of-speech tag and morphological annotation of
 UD has two mechanisms capable of capturing that two words are not separated by whitespace: the `SpaceAfter=No` attribute in MISC, and multi-word tokens. The former is considered low-level and it is normally used between a word and a punctuation node. The latter is intended for situations where two real words are merged into one, but it is assumed that these cases adhere to regular rules of the grammar, i.e., they are not arbitrary errors. Also, the format of multi-word token annotation is technically more complex because it allows for non-concatenative fusions. For the annotation of poorly edited text, the low-level `SpaceAfter` attribute seems quite suitable.
 
 As with `Typo=Yes` and `CorrectForm=X`, it is desirable to indicate that the space is missing by error. Therefore, `SpaceAfter=No` should be accompanied by `CorrectSpaceAfter=Yes`.
+
+Though `CorrectSpaceAfter=Yes` signals a kind of typographical error in the sentence, `Typo=Yes` should not be applied unless there is an error in how a word is rendered, and that error is *internal* to the word. Missing spaces *between* legitimate words are considered external to the word.
 
 Note that a similar mechanism can be used also to mark excess spaces around punctuation (using `CorrectSpaceAfter=No`). Punctuation should not be attached to another node via `goeswith` because they do not together constitute a word. Example:
 
@@ -77,17 +86,28 @@ Note that a similar mechanism can be used also to mark excess spaces around punc
 
 ## A Combination of the Above
 
-Here is a more complex example that combines several error types in one sentence:
+Here is a more complex example with several error types:
 
 <pre>
 # text = This spel lingi$ wrong .
 1	This	this	DET	_	Number=Sing|PronType=Dem	2	det	_	_
-2	spel	spelling	NOUN	_	Number=Sing	5	nsubj	_	_
+2	spel	spelling	NOUN	Typo=Yes	Number=Sing	5	nsubj	_	CorrectForm=spelling
 3	ling	_	X	_	_	2	goeswith	_	SpaceAfter=No|CorrectSpaceAfter=Yes
 4	i$	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	5	cop	_	CorrectForm=is
 5	wrong	wrong	ADJ	_	_	0	root	_	CorrectSpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
+</pre>
+
+The following contains two errors as well as a multi-word token. 
+Note that the second word of the multi-word token is headed by the beginning of the erroneously split word, which is outside of the multi-word token:
+
+<pre>
+# text = mc donalds
+1	mc	McDonald	PROPN	NNP	Number=Sing|Typo=Yes	0	root	0:root	CorrectForm=McDonald
+2-3	donalds	_	_	_	_	_	_	_	_
+2	donald	_	X	NNP	_	1	goeswith	1:goeswith	_
+3	s	's	PART	POS	Typo=Yes	1	case	1:case	CorrectForm='s
 </pre>
 
 ## Missing Word
