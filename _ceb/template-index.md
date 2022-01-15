@@ -19,7 +19,7 @@ udver: '2'
 
 ### Tags
 
-*
+* 
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
@@ -27,8 +27,11 @@ udver: '2'
 ---
 
 ### Features
-
 *
+
+### Polarity
+* [Polarity]() has two values, `Pos` and `Neg`, and applies marginally to some existential verbs [VERB](), as well as to the negation particle dili and ayaw.
+
 
 ---
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
