@@ -12,7 +12,7 @@ udver: '2'
 </tr>
 </table>
 
-`Link=Yes` is currently used in the GJA treebank to signal the linker suffix. Linkers are are shown as separate syntactic words and the surface word is treated as a multi-word token.
+`Link=Yes` is currently used in the GJA treebank to signal the linker suffix. Linkers are also shown as separate syntactic words and the surface word is treated as a multi-word token.
 
 
 ### <a name="Yes">`Yes`</a>: the word contains a linker
