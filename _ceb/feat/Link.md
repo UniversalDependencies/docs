@@ -19,6 +19,6 @@ udver: '2'
 
 #### Examples
 
-* _Intelihente ang lalaki<b>ng</b> nagabasa og mantalaan.__ “The man who reads a newpaper is intelligent.” (The linker links the noun
-  _lalaki_ “man” with the relative clause _nagabasa og mantalaan_ “reads a newspaper”. The word _lalaking_ will have `Link=Yes`.)
+* _Intelihente ang lalaki<b>ng</b> nagabasa ug libro.__ “The man who reads a libro is intelligent.” (The linker links the noun
+  _lalaki_ “man” with the relative clause _nagabasa ug libro_ “reads a book”. The word _lalaking_ will have `Link=Yes`.)
 
