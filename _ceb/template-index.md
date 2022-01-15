@@ -30,7 +30,7 @@ udver: '2'
 *
 
 ### Polarity
-* [Polarity]() has two values, `Pos` and `Neg`, and applies marginally to some existential verbs [VERB](), as well as to the negation particle dili and ayaw.
+* 
 
 
 ---
