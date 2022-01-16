@@ -7,8 +7,13 @@ udver: '2'
 
 ** UNDER REVISION **
 
-A relative clause (RC) is a finite clause modifying some head (typically a noun) that is understood to fulfill some grammatical role in the RC. 
+A relative clause (RC) is a clause modifying some head (typically a noun) that is understood to fulfill some grammatical role in the RC. 
 The head is said to be "extracted" from the RC.
+
+RCs are usually finite (*people who live in glass houses*), but may also be infinitival (*I found a house in which to live*, *I found a house (for my mother) to live in*). Gerund-participial and past-participial clauses (*people living in glass houses*, *students given high marks*) are never considered relative clauses.
+<!-- Infinitival RCs are discussed in CGEL pp. 1067-1068 -->
+
+TODO: do we want to implement infinitival RCs? EWT only has them for free relatives. "nice people to meet here" is plain `acl(people,meet)`. Not marking it as an RC means there is no way to find that there is a gap/extracted element (cf. "the idea to meet").
 
 In the Basic Dependencies representation, the main predicate of the RC attaches to the head as `acl:relcl`. This is shown in the example on the left.
 
@@ -436,7 +441,7 @@ nsubj(transpired, events)
 root(-ROOT-, why)
 ~~~
 
-## _No matter_
+## _No matter_ and similar
 
 The phrase _no matter_ is analyzed as taking a `obj` complement in, e.g., _no matter the cost_. When it takes free relative object, that object is also analyzed according to the rules above.
 
@@ -450,6 +455,8 @@ acl:relcl(progress, make)
 ~~~
 
 TODO: or should it be `advmod(matter, no)`, as in EWT?
+
+TODO: A particular non-relative construction in which WH-ever forms occur (these are interrogative clauses functioning as adjuncts): *Whatever the reasons behind the duel (were), he was convinced of his impending death* (cf. *I'm doing this whether you like it or not.*; see CGEL pp. 985-986)
 
 ## Additional Examples
 
