@@ -26,7 +26,8 @@ systematically change between dialects or styles).
 English pronouns offer a useful case study: *thou* is archaic; 
 *whom* is often somewhat formal; *ya* is colloquial, used in a casual/familiar way (*See ya!*); 
 *y'all* is vernacular (especially associated with certain regions); 
-and *wtf* is arguably an expressive variant of the pronoun *what*.
+and *wtf* is arguably an expressive variant of the pronoun *what* in contexts where a nominal is required 
+(*Wtf are you doing?!*).
 
 Besides real morphology, the choices that make a particular word form
 belong to a different style may also be orthographic.
