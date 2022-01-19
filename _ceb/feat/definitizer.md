@@ -21,5 +21,4 @@ The definitizer suffix is attached to nouns precedeed by a word that is usually 
 
 #### Examples
 
-* _Kadtung bata<b>a</b> kay badlongon._ “That child is naughty.” (The definitizer suffix is attached to _bata "child", with the demonstrative pronoun _kadtu "that" 
-and in this example _kadtu has an attached linker suffix _nga.)
+* _Kadtung bata<b>a</b> kay badlongon._ “That child is naughty.” (The definitizer suffix is attached to _bata_ "child", with the demonstrative pronoun _kadtu_ "that" preceding the noun, and in this example _kadtu_ has an attached linker suffix _nga_.)
