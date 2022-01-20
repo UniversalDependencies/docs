@@ -5,6 +5,24 @@ shortdef: 'pronominal type'
 udver: '2'
 ---
 
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Prs">Prs</a></td>
+  <td><a href="#Art">Art</a></td>
+  <td><a href="#Int">Int</a></td>
+  <td><a href="#Rel">Rel</a></td>
+  <td><a href="#Dem">Dem</a></td>
+  <td><a href="#Tot">Tot</a></td>
+  <td><a href="#Neg">Neg</a></td>
+  <td><a href="#Ind">Ind</a></td>
+  <td><a href="#Exc">Exc</a></td>
+  <td><a href="#Clit">Clit</a></td>
+  <td><a href="#Predet">Exc</a></td>
+  <td><a href="#Ord">Clit</a></td>
+</tr>
+</table>
+
 This feature typically applies to [pronouns](u-pos/PRON),
 [determiners](u-pos/DET), pronominal [numerals](u-pos/NUM)
 (quantifiers) and pronominal [adverbs](u-pos/ADV).
@@ -68,15 +86,13 @@ Note: Demonstrative adverbs such as _qui_ "here" and _là_ "there", _ora_ "now" 
 
 ### <a name="Tot">`Tot`</a>: total (collective) pronoun, determiner or adverb
 
-#### Examples
-
 We are not using `PronType=Tot`.
 
 ### <a name="Neg">`Neg`</a>: negative pronoun, determiner or adverb
 
-Examples:
+#### Examples:
 
-We distinguish only negative adverbs such as: _non_, _nemmeno, _neppure_.
+We distinguish only negative adverbs such as: _non_, _nemmeno_, _neppure_.
 
 ### <a name="Ind">`Ind`</a>: indefinite pronoun, determiner, numeral or adverb
 
@@ -85,7 +101,7 @@ We distinguish only negative adverbs such as: _non_, _nemmeno, _neppure_.
 * Indefinite pronouns: _uno_ "one", _tutti_ "everybody", _ognuno_ "each one", _chiunque_ "anybody", _qualcosa_ "something", _qualcuno_ "somebody"
 * indefinite determiners: _tutti_ "all", _qualche_ "some", _ogni_ "each", _alcuni_ "some", _diversi_ "several"
 
-### <a name="Exc">`Exc`</a>: exclamative determiners. This value is language specific.
+### <a name="Exc">`Exc`</a>: exclamative determiners.
 
 #### Examples
 
