@@ -24,5 +24,5 @@ class to which the word belongs in its original language.
 
 Example: 
 
-* _Nel 1630 Ferdinando Secondo emise un vero proprio corpus legislativo chiamato <b>Statuta Valachorum<\b>._
-* _Capri, Procida, Ischia, Giglio, Eolie e Ponza <b>off limits<\b> per i turisti con la macchina._
+* _Nel 1630 Ferdinando Secondo emise un vero proprio corpus legislativo chiamato <b>Statuta Valachorum</b>._
+* _Capri, Procida, Ischia, Giglio, Eolie e Ponza <b>off limits</b> per i turisti con la macchina._
