@@ -48,7 +48,7 @@ Article is a special case of determiner that bears the feature of
 
 #### Examples
 
-* Definite articles (`Definite=Def`): _<b>La</b> luna_ "The moon", _I regali di Natale_ "Christmas presents"
+* Definite articles (`Definite=Def`): _<b>La</b> luna_ "The moon", _<b>I</b> regali di Natale_ "Christmas presents"
 * Indefinite articles (`Definite=Ind`): _<b>Un</b> amico_ "A friend", _<b>Una</b> sorpresa_ "A surprise"
 
 ### <a name="Int">`Int`</a>: interrogative pronoun, determiner, numeral or adverb
