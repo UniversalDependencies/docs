@@ -86,6 +86,8 @@ Note: Demonstrative adverbs such as _qui_ "here" and _là_ "there", _ora_ "now" 
 
 ### <a name="Tot">`Tot`</a>: total (collective) pronoun, determiner or adverb
 
+#### Examples
+
 We are not using `PronType=Tot`.
 
 ### <a name="Neg">`Neg`</a>: negative pronoun, determiner or adverb
