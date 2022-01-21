@@ -47,6 +47,8 @@ Used for expressions such as:
 
 ### <a name="Gen">`Gen`</a>: generic numeral, i.e. a numeral that is neither of the above
 
+Currently not attested and also deprecated by v2 guidelines.
+
 #### Examples
 
 Used for time expressions such as:
