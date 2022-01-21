@@ -44,8 +44,8 @@ nsubj(fossero, pericoli)
 ~~~ sdparse
 Sono convinto/ADJ che la storia di Moretti sia segnata/VERB da le sue origini romane .
 ccomp(convinto, segnata)
-auxpass(segnata, sia)
-nsubjpass(segnata, storia)
+aux:pass(segnata, sia)
+nsubj:pass(segnata, storia)
 ~~~
 ~~~ sdparse
 Certo che possiedo delle prove .
@@ -57,7 +57,7 @@ ccomp(Certo, possiedo)
 ~~~ sdparse
 bisogna/VERB avviare/VERB[VerbForm=Inf] un dialogo
 ccomp(bisogna, avviare)
-dobj(avviare, dialogo)
+obj(avviare, dialogo)
 ~~~
 ~~~ sdparse
 si fa/VERB per dire/VERB[VerbForm=Inf]
@@ -67,7 +67,7 @@ mark(dire, per)
 ~~~ sdparse
 Mi fecero pagare/VERB[VerbForm=Inf] per liberare/VERB[VerbForm=Inf] due ostaggi .
 ccomp(fecero, pagare)
-iobj(fecero, mi)
+iobj(fecero, Mi)
 advcl(pagare, liberare)
 ~~~
 
