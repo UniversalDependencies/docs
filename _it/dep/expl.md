@@ -38,7 +38,7 @@ In armeria ci sono 300 armature .
 expl(sono, ci)
 ~~~
 ~~~ sdparse
-C'è gente nuova da ieri in pista .
+C' è gente nuova da ieri in pista .
 expl(è, C')
 ~~~
 
