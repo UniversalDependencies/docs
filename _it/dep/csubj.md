@@ -28,4 +28,6 @@ csubj(avventura, Sbarcare)
 cop(avventura, è)
 ~~~
 
+**NB** Note that when the clause is the subject of a passive clause (or more generally, any voice where the proto-agent argument does not become the subject of the clause), it should be tagged with the specialized subtype [csubj:pass]().” 
+
 <!-- Interlanguage links updated St lis 3 20:58:48 CET 2021 -->
