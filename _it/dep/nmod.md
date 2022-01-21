@@ -12,7 +12,7 @@ nmod(migliaia, casi)
 nmod(casi, genere)
 ~~~
 
-From <b>v2</b>, nominal modifiers that depend on a verb, adverb or adjective are covered by the new <code>obl</code> relation:
+From **v2**, nominal modifiers that depend on a verb, adverb or adjective are covered by the new <code>obl</code> relation:
 
 ~~~ sdparse
 Da il '93 dirige il Festival di Taormina 
