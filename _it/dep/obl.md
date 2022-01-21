@@ -8,14 +8,14 @@ udver: '2'
 The <code>obl</code> relation is used for a nominal (noun, pronoun, noun phrase), typically introduced by a preposition, functioning as a non-core (oblique) argument or adjunct. This means that it functionally corresponds to an adverbial attaching to a verb, adjective or other adverb.
 
 ~~~ sdparse
-È successo un quarto d'ora fa. 
+È successo un quarto d'ora fa
 obl(successo, quarto)
 advmod(quarto, fa)
 ~~~
 ~~~ sdparse
 Con legge ordinaria sono stabilite le altre norme necessarie. 
 obl(stabilite, legge)
-case(legge, con)
+case(legge, Con)
 ~~~
 ~~~ sdparse
 Ci arriva generalmente alla vigilia degli esami. 
@@ -23,7 +23,7 @@ obl(arriva, vigilia)
 case(vigilia, alla)
 ~~~
 ~~~ sdparse
-Collocati in un deposito esterno al sito.
+Collocati in un deposito esterno al sito
 obl(esterno, sito)
 case(sito, al)
 ~~~
@@ -31,7 +31,7 @@ case(sito, al)
 <code>obl</code> is also used for the agent of a passive verb with the subtype [obl:agent]():
 
 ~~~ sdparse
-La riunione è stata chiesta dagli stessi commissari. 
+La riunione è stata chiesta dagli stessi commissari 
 obl:agent(chiesta, commissari)
 case(commissari, dagli)
 ~~~
