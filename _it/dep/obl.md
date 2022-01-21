@@ -46,7 +46,7 @@ case(soldati, dai)
 The relation <code>obl</code> does not cover nominal dependents of nouns and noun phrases, which are instead covered by the relation <code>nmod</code>:
 
 ~~~ sdparse
-La sperimentazione dell’ atomica ha cambiato il mondo per sempre. 
+La sperimentazione dell' atomica ha cambiato il mondo per sempre. 
 nmod(sperimentazione, atomica)
 case(atomica, dell')
 ~~~
