@@ -58,4 +58,13 @@ mwe(vale, dire)
 ~~~
 
 **NB** For prepositional multiword expressions the correct relations are [case]() or [mark]().
+
+Adverbials realized by noun phrases or adpositional phrases are instead covered by the relation [obl]():
+
+~~~ sdparse
+oggi la canto qui da voi
+advmod(canto, oggi)
+advmod(canto, qui)
+obl(canto, voi)
+~~~
 <!-- Interlanguage links updated St lis 3 20:58:35 CET 2021 -->
