@@ -460,7 +460,8 @@ TODO: A particular non-relative construction in which WH-ever forms occur (these
 
 ## Additional Examples
 
-<!-- https://github.com/UniversalDependencies/UD_English-EWT/issues/78 -->
-TODO: She was telling me how wrong I was about how another dress that I loved compared to one of her dresses.
+- She was telling me how wrong I was about how another dress that I loved compared to one of her dresses. [issue](https://github.com/UniversalDependencies/UD_English-EWT/issues/78)
+- if we lose Dean (which we will if we don't pay 65k + 10k) [issue](https://github.com/UniversalDependencies/UD_English-EWT/issues/203)
+
 
 <!-- Interlanguage links updated St lis 3 20:58:33 CET 2021 -->
