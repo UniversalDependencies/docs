@@ -34,7 +34,4 @@ punct(muovevano, ,-4)
 punct(muovevano, ,-8)
 ~~~
 
-Punctuation marks separating coordinated units must be all attached to the first conjunct.
-
-
 <!-- Interlanguage links updated St lis 3 20:59:09 CET 2021 -->
