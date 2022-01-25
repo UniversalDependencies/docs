@@ -42,5 +42,5 @@ dovrà sparire la figura
 aux(sparire, dovrà)
 ~~~
 
-Note that the auxiliary verb used to construct the passive voice is not labeled <code>aux</code> but [auxpass]().
+Note that the auxiliary verb used to construct the passive voice is not labeled <code>aux</code> but [aux:pass]().
 <!-- Interlanguage links updated St lis 3 20:58:40 CET 2021 -->

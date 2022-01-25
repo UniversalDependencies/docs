@@ -11,17 +11,17 @@ A conjunct is the relation between two elements connected by a coordinating conj
 
 ~~~ sdparse
 Siamo andati alla stazione Termini e lo abbiamo chiesto
-cc(andati, e)
+cc(chiesto, e)
 conj(andati, chiesto)
 ~~~
 ~~~ sdparse
 sparatorie e rapine
-cc(sparatorie, e)
+cc(rapine, e)
 conj(sparatorie, rapine)
 ~~~
 ~~~ sdparse
 qua e là
-cc(qua, e)
+cc(là, e)
 conj(qua, là)
 ~~~
 
@@ -31,8 +31,8 @@ conj(qua, là)
 Per il fratello di Luigi , la cognata , i nipoti
 conj(fratello, cognata)
 conj(fratello, nipoti)
-punct(fratello, ,-6)
-punct(fratello, ,-9)
+punct(cognata, ,-6)
+punct(nipoti, ,-9)
 ~~~
 ~~~ sdparse
 quanto gli piaceva , quanto ne era innamorato
@@ -46,17 +46,17 @@ aux(innamorato, era)
 l' ho vista brutta , ma poi si è ripreso
 conj(vista, ripreso)
 punct(vista, , )
-cc(vista, ma)
+cc(ripreso, ma)
 ~~~
 
-The dependent of the relation automatically inherit the syntactic relations of the head, unless they have different dependencies explicitly expressed. Here, for instance, the subject of the two verbs is the same (so *cominciare* inherits it from *lasciare*), but the direct object is different (so not inherited).
+The dependent of the relation automatically inherits the syntactic relations of the head, unless they have different dependencies explicitly expressed. Here, for instance, the subject of the two verbs is the same (so *cominciare* inherits it from *lasciare*), but the direct object is different (so not inherited).
 
 ~~~ sdparse
 I tre avevano da poco lasciato la cima e stavano cominciando la discesa .
 conj(lasciato, cominciando)
 nsubj(lasciato, tre)
-dobj(lasciato, cima)
-dobj(cominciando, discesa)
-cc(lasciato, e)
+obj(lasciato, cima)
+obj(cominciando, discesa)
+cc(cominciando, e)
 ~~~
 <!-- Interlanguage links updated St lis 3 20:58:46 CET 2021 -->

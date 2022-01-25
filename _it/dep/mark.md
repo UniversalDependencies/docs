@@ -26,6 +26,6 @@ It is used also on the head of <code>mwe</code> relations when they refer to ver
 ~~~ sdparse
 Prima di gettarsi in mare . 
 mark(gettarsi, Prima)
-mwe(Prima, di)
+fixed(Prima, di)
 ~~~
 <!-- Interlanguage links updated St lis 3 20:58:57 CET 2021 -->

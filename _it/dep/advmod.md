@@ -22,7 +22,7 @@ advmod(fucilarono, dopo)
 ~~~
 ~~~ sdparse
 una strada abbastanza/ADV frequentata/ADJ 
-advmod(abbastanza, frequentata)
+advmod(frequentata, abbastanza)
 ~~~
 ~~~ sdparse
 cinque anni/NOUN fa/ADV
