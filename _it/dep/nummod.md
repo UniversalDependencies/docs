@@ -19,7 +19,7 @@ nummod(ragazze, Due)
 nmod(uomo, un)
 ~~~
 
-Please note that ,in dates, years should be marked as <code>nmod</code>, while the day is a numeric modifier. The month is the head.
+Please note that, in dates, years should be marked as <code>nmod</code>, while the day is a numeric modifier. The month is the head.
 
 ~~~ sdparse
 Feb 26 , 2014 .
