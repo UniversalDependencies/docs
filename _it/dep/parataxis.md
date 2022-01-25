@@ -18,7 +18,7 @@ come hanno fatto sempre per tre anni ( mi dicono )
 parataxis(fatto, dicono)
 ~~~
 ~~~ sdparse
-e adesso non si può fermare, questi sono contratti vecchi.
+e adesso non si può fermare , questi sono contratti vecchi.
 parataxis(fermare, contratti)
 ~~~
 
