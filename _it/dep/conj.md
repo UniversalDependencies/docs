@@ -11,17 +11,17 @@ A conjunct is the relation between two elements connected by a coordinating conj
 
 ~~~ sdparse
 Siamo andati alla stazione Termini e lo abbiamo chiesto
-cc(e, andati)
+cc(chiesto, e)
 conj(andati, chiesto)
 ~~~
 ~~~ sdparse
 sparatorie e rapine
-cc(e, sparatorie)
+cc(rapine, e)
 conj(sparatorie, rapine)
 ~~~
 ~~~ sdparse
 qua e là
-cc(e, qua)
+cc(là, e)
 conj(qua, là)
 ~~~
 
@@ -46,7 +46,7 @@ aux(innamorato, era)
 l' ho vista brutta , ma poi si è ripreso
 conj(vista, ripreso)
 punct(vista, , )
-cc(ma, vista)
+cc(ripreso, ma)
 ~~~
 
 The dependent of the relation automatically inherits the syntactic relations of the head, unless they have different dependencies explicitly expressed. Here, for instance, the subject of the two verbs is the same (so *cominciare* inherits it from *lasciare*), but the direct object is different (so not inherited).
@@ -57,6 +57,6 @@ conj(lasciato, cominciando)
 nsubj(lasciato, tre)
 obj(lasciato, cima)
 obj(cominciando, discesa)
-cc(e, lasciato)
+cc(cominciando, e)
 ~~~
 <!-- Interlanguage links updated St lis 3 20:58:46 CET 2021 -->
