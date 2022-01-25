@@ -12,4 +12,8 @@ udver: '2'
 goeswith(1, °)
 amod(gennaio, 1)
 ~~~
+~~~ sdparse
+Sta sera tempesta più grande di ieri
+goeswith(Sta, sera)
+~~~
 <!-- Interlanguage links updated St lis 3 20:58:55 CET 2021 -->
