@@ -37,7 +37,7 @@ case(tutto, Prima)
 mwe(Prima, di)
 ~~~
 
-If the head of the relation is a verb in a subordinate clause, than the correct relation is [mark](). If the verb is used as a noun infinitive, than <code>case</code> is the correct relation.
+If the head of the relation is a verb in a subordinate clause, then the correct relation is [mark](). If the verb is used as a noun infinitive, then <code>case</code> is the correct relation.
 
 ~~~ sdparse
 La consegna consiste in il fare ronde notturne .
