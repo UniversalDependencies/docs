@@ -22,7 +22,7 @@ udver: '2'
 Stative-verbs and possessed nouns behave alike, in a way that is not possible to distinguish them morphologically
 (I am ugly / I have uglyness; ugly boy / boy with uglyness /(the) boy has uglyness). The fundamental distinction in Tupinambá is that between predicates and arguments (potentially referring expressions), reflected in the `NOUN`or `VERB` tags. Lexical roots in Tupinambá are predicates, which require function indicating morphology in order to function as arguments (Croft 2021)
 
-Mapping UPOS to XPOS Tupinambá
+Mapping UPOS to XPOS Old Guaraní
 
  UPOS | XPOS |
 :----: | :------: |
@@ -45,7 +45,7 @@ Mapping UPOS to XPOS Tupinambá
 
 ### Nominal Features
 
-* Tupinambá nouns are not marked for gender. Number is optionally marked by the lexical root _etá_ `(be) many'. 
+* Old Guaraní nouns are not marked for gender. Number is optionally marked by the lexical root _etá_ `(be) many'. 
 
 _kunumĩ_ 'boy / boys'  
 _kunumĩ-etá_ 'boys'
