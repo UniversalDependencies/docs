@@ -8,9 +8,9 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Past">Cont</a></td>
-  <td><a href="#Fut">NCont</a></td>
-  <td><a href="#FutPast">Corf</a></td>
+  <td><a href="#Past">Past</a></td>
+  <td><a href="#Fut">Fut</a></td>
+  <td><a href="#FutPast">FutPast</a></td>
   
   
 </tr>
