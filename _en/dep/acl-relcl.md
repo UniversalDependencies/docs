@@ -320,8 +320,8 @@ Some phrases are ambiguous. *The ceremony where/when we became citizens* can be 
 But *the ceremony when we became citizens* could be used to refer to a particular ceremony held around the time of becoming a citizen, as opposed to some other ceremony held at some other time; the modifier can be fronted as an `advmod` within the higher clause: *When we became citizens, the ceremony...*. This is the `acl` interpretation.
 
 Illustrating the contrast with *where*:
-- The economy where Kim lives is struggling: `acl`. Cf.: Where Kim lives, the economy is struggling.
-- The house where Kim grew up is on Elm Street: free relative with `acl:relcl`. Cf.: the house in which place Kim grew up; #Where Kim grew up, the house is on Elm Street.
+- The house where Kim grew up is on Elm Street: free relative with `acl:relcl`. Cf.: the house in which Kim grew up; #Where Kim grew up, the house is on Elm Street.
+- The economy where Kim lives is struggling: probably `acl`, interpreted like *Where Kim lives, the economy is struggling.* 
 
 [^2]: Or, formally, *wherein*.
 
