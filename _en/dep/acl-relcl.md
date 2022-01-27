@@ -244,6 +244,43 @@ case(which, of)
 nsubj:pass(stolen, jewels)
 ~~~
 
+## RCs Versus Non-relative Modifier Clauses
+
+*When*, *where*, *why*, and *how* frequently introduce **adverbial clauses** ([advcl]()). They can also introduce non-relative **adnominal modifier clauses** ([acl]()) similarly providing time/place/manner information:
+
+~~~sdparse
+When you leave , be sure to let me know .
+advmod(leave, When)
+advcl(sure, leave)
+~~~
+
+~~~sdparse
+The headlines when Nixon resigned were legendary .
+advmod(resigned, when)
+acl(headlines, resigned)
+~~~
+
+TODO: the above would be `mark` not `advmod` in EWT
+
+However, it should be considered a relative construction if the WH-adverb can be paraphrased by *in which* or similar, or if the head noun reifies the kind of relation (*the time when*, *the place where*, *the reason why*).
+
+~~~sdparse
+the time when the pizza exploded
+acl:relcl(time, exploded)
+advmod(exploded, when)
+~~~
+
+Some phrases are ambiguous. *The ceremony where/when we became citizens* can be interpreted as an RC if the bestowal of citizenship happened during the ceremony (*in which* interpretation[^2], thus `acl:relcl`). 
+But *the ceremony when we became citizens* could be used to refer to a particular ceremony held around the time of becoming a citizen, as opposed to some other ceremony held at some other time; the modifier can be fronted as an `advmod` within the higher clause: *When we became citizens, the ceremony...*. This is the `acl` interpretation.
+
+Illustrating the contrast with *where*:
+- The house where Kim grew up is on Elm Street: `acl:relcl`. Cf.:
+   * the house **in which** Kim grew up
+   * #Where Kim grew up, the house is on Elm Street.
+- The economy where Kim lives is struggling: probably `acl`, interpreted like *Where Kim lives, the economy is struggling.* 
+
+[^2]: Or, formally, *wherein*.
+
 
 ## Free Relatives
 
@@ -269,12 +306,6 @@ acl:relcl(what, want-11)
 ~~~
 
 ~~~sdparse
-the time when the pizza exploded
-acl:relcl(time, exploded)
-advmod(exploded, when)
-~~~
-
-~~~sdparse
 What money we have left will go to charity
 det(money, What)
 acl:relcl(money, have)
@@ -296,36 +327,7 @@ acl:relcl(well, behaved)
 
 TODO: GKP: exclamative. CGEL p. 919: exclamatives license *very*: "I love how very well everyone behaved" (\*I wonder how very well everyone behaved). cf. "I love how appreciative everyone was" (cyclic example)
 
-### Versus other modifier clauses
-
-*When*, *where*, *why*, and *how* frequently introduce **adverbial clauses** ([advcl]()), or non-relative **adnominal clause modifiers** ([acl]()) similarly providing time/place/manner information:
-
-~~~sdparse
-When you leave , be sure to let me know .
-advmod(leave, When)
-advcl(sure, leave)
-~~~
-
-~~~sdparse
-The headlines when Nixon resigned were legendary .
-advmod(resigned, when)
-acl(headlines, resigned)
-~~~
-
-TODO: the above would be `mark` not `advmod` in EWT
-
-However, if the WH-adverb can be paraphrased by *in which* or similar, or if the head noun reifies the kind of relation (*the time when*, *the place where*, *the reason why*), it should be considered a free relative construction.
-
-Some phrases are ambiguous. *The ceremony where/when we became citizens* can be interpreted as a free relative if the bestowal of citizenship happened during the ceremony (*in which* or *during which* interpretation[^2] involving `acl:relcl`). 
-But *the ceremony when we became citizens* could be used to refer to a particular ceremony held around the time of becoming a citizen, as opposed to some other ceremony held at some other time; the modifier can be fronted as an `advmod` within the higher clause: *When we became citizens, the ceremony...*. This is the `acl` interpretation.
-
-Illustrating the contrast with *where*:
-- The house where Kim grew up is on Elm Street: free relative with `acl:relcl`. Cf.: the house in which Kim grew up; #Where Kim grew up, the house is on Elm Street.
-- The economy where Kim lives is struggling: probably `acl`, interpreted like *Where Kim lives, the economy is struggling.* 
-
-[^2]: Or, formally, *wherein*.
-
-### Versus interrogative/exclamative complement clauses
+### Free Relatives Versus Interrogative/Exclamative Complement Clauses
 
 Free relatives are subtly different from **interrogative clauses**, where the WH-word making it interrogative is inside the clause.
 Verbs such as *wonder*, *know*, and *tell* license interrogative complement clauses (including ones beginning with *whether*).
