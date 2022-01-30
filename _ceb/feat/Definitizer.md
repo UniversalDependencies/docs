@@ -17,7 +17,7 @@ udver: '2'
 
 ### <a name="Yes">`Yes`</a>: the word contains a definitizer suffix.
 
-The definitizer suffix is attached to nouns precedeed by a word that is usually a demonstrative pronoun. If the noun ends with a consonant, the suffix is _-a_ (for example, _bata_ "child" to _bata<b>a</b>_). In some constructions where the noun ends with a vowel, _-h-_ is added before the _-a_ (for example, _libro_ "book" to _libro<b>ha</b>_).
+The definitizer suffix is attached to nouns precedeed by a word that is usually a demonstrative pronoun. If the noun ends with a consonant, the suffix is _-a_ (for example, _bata_ "child" to _bata<b>a</b>_). In some constructions where the noun ends with a vowel, _-h-_ is added before the _-a_ (for example, _libro_ "book" to _libro<b>ha</b>_). It can also be observed in adjectives in certain constructions (for example, _gwapa_ "beautiful" to _gwapa<b>ha</b>_).
 
 #### Examples
 
