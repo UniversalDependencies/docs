@@ -47,7 +47,8 @@ See the [Abbr]()=`Yes` and [Style]()=`Expr` features.
 ## Wrongly Split Word
 
 If the word is erroneously written with one or more spaces, we have several incorrect tokens. We do not join them into one token with a space, although Universal Dependencies since version 2 allow words with spaces. This option is reserved for very specific situations, usually quite marginal in the language (with the exception of Vietnamese), but _predictable._ Not for arbitrary errors. Instead, UD defines the [goeswith]() relation to connect the parts of the word. The first part is always the head, the other parts are attached to it via `goeswith`.
-Parts attaching as `goeswith` should not themselves have any dependents, nor should they be included as nodes in [Enhanced Dependencies]().
+Parts attaching as `goeswith` should not themselves have any dependents.
+If the treebank provides [Enhanced Dependencies](), `goeswith` relations should be the same as in Basic Dependencies, and `goeswith` dependents should not participate in any additional enhanced relations.
 
 The head should bear the part-of-speech tag, lemma, and morphological annotation of the entire word. Beginning with UD release 2.10, any treebank that uses the `Typo` feature must apply it to all words with `goeswith` dependents, as an extra space within a word is a misrendering of that word.
 <!-- OLD POLICY: It is not necessary to add the `Typo` feature and `CorrectForm` in MISC, unless there is a “normal” typo too, i.e. if simple concatenation of the parts does not yield the correct form. --> 
@@ -67,7 +68,7 @@ Example:
 The `goeswith` solution is only for segmentations that violate syntactic word boundaries. If the extra space is inserted between syntactic word boundaries (e.g., a clitic and its base), this is instead represented as two syntactic words, the first of which has `CorrectSpaceAfter=No`. (Note that a multi-word token should *not* be used in this case: multi-word tokens are strictly for syntactically complex single orthographic tokens, whether spaced correctly or not.)
 
 To summarize the rules about `goeswith`:
-- Any surface word attaching as `goeswith` in Basic Dependencies should have an orthographic form but empty lemma, UPOS of `X`, no morphological features (empty FEATS), and no Enhanced Dependencies (empty DEPS).
+- Any surface word attaching as `goeswith` in Basic Dependencies should have an orthographic form but empty lemma, UPOS of `X`, and no morphological features (empty FEATS). If the corpus uses DEPS, it should have the same `goeswith` relation and no other relations.
 - The `goeswith` dependents of a head must be immediately after it and must be consecutive (cannot skip any words).
 - The head must not have `goeswith` as its deprel.
 - If the treebank uses `Typo=Yes`, it must appear in the FEATS column for the head.
@@ -115,10 +116,10 @@ Note that the second word of the multi-word token is headed by the beginning of 
 
 <pre>
 # text = mc donalds
-1	mc	McDonald	PROPN	NNP	Number=Sing|Typo=Yes	0	root	0:root	CorrectForm=McDonald
+1	mc	McDonald	PROPN	NNP	Number=Sing|Typo=Yes	0	root	_	CorrectForm=McDonald
 2-3	donalds	_	_	_	_	_	_	_	_
-2	donald	_	X	NNP	_	1	goeswith	1:goeswith	_
-3	s	's	PART	POS	Typo=Yes	1	case	1:case	CorrectForm='s
+2	donald	_	X	NNP	_	1	goeswith	_	_
+3	s	's	PART	POS	Typo=Yes	1	case	_	CorrectForm='s
 </pre>
 
 ## Missing Word
