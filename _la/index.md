@@ -232,8 +232,8 @@ There are five Latin UD treebanks:
   * [Latin-ITTB](../treebanks/la_ittb/index.html)
   * [Latin-Perseus](../treebanks/la_perseus/index.html)
   * [Latin-PROIEL](../treebanks/la_proiel/index.html)
-  * [Latin-PROIEL](../treebanks/la_proiel/index.html)
-  * [Latin-PROIEL](../treebanks/la_proiel/index.html)
+  * [Latin-LLCT](../treebanks/la_llct/index.html)
+  * [Latin-Udante](../treebanks/la_udante/index.html)
 
 ## Documentation
 
