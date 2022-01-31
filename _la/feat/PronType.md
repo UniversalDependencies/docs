@@ -24,11 +24,11 @@ udver: '2'
 
 The pronominal type of a word (pronoun, determiner, adverb and others).
 
-Provisional schema.
+Provisional schema and explanations.
 
-### <a name="Art">`Art`</a>: article ()
+### <a name="Art">`Art`</a>: article (non standard)
 
-This value is exceptional, since Latin, stably through its history, has never presented articles; it represents the encroaching of new Romance varieties into the language. 
+This value is exceptional, since Latin, stably through its history, has never presented articles; it represents the encroaching of new Romance varieties into the written language. 
 
 #### Examples
 

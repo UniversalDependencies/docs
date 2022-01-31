@@ -227,9 +227,18 @@ No subtypes are used
 
 ## Treebanks
 
-There are three Latin UD treebanks:
+There are five Latin UD treebanks:
 
   * [Latin-ITTB](../treebanks/la_ittb/index.html)
   * [Latin-Perseus](../treebanks/la_perseus/index.html)
   * [Latin-PROIEL](../treebanks/la_proiel/index.html)
+  * [Latin-PROIEL](../treebanks/la_proiel/index.html)
+  * [Latin-PROIEL](../treebanks/la_proiel/index.html)
+
+## Documentation
+
+The writing up of the Latin-specific documentation, detailing the guide lines pursued by the three currently active Latin treebanks (ITTB, LLCT and UDante), is a work in (slow) progress and has been focusing on the more language-specific issues and values, before going into the details of more universally defined elements. As of now, all research, setting of the guide lines and compilation of documentation pages (apart from this index) has been performed by **Flavio M. Cecchini** (Università Cattolica del Sacro Cuore di Milano), so send any question, doubt or critic to `flavio.cecchini[at]unicatt[.]it`, or, better, open an issue on UD's [GitHub](https://github.com/UniversalDependencies/docs)!  
+
+
+
 

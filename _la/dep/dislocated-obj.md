@@ -5,7 +5,7 @@ shortdef: 'dislocated object'
 udver: '2'
 ---
 
-Through different subtypes of [`dislocated`](u-dep/dislocated) we more precisely identify which element has been dislocated in the sentence. This information is not directly retrievable otherwise from "basic" dependencies, since the `dislocated` relation always depends on the local head.
+Through different subtypes of [`dislocated`](u-dep/dislocated) we more precisely identify which argument has been dislocated in the sentence and how it is realized in this position (nominally or clausally). This information is not directly retrievable otherwise from "basic" dependencies, since the `dislocated` relation always depends on the local head.
 
 In the translation of the example, the bold passage corresponds to the dislocated element, and the underlined passage to the dislocating one.
 
