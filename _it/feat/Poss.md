@@ -5,7 +5,7 @@ shortdef: 'possessive'
 udver: '2'
 ---
 
-Boolean feature of pronouns or adjectives.It tells whether the word is possessive.
+Boolean feature of pronouns or adjectives. It tells whether the word is possessive.
 
 ### <a name="Yes">`Yes`</a>: it is possessive
 
