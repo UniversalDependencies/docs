@@ -73,9 +73,7 @@ Note: for the time being we do not use the feature `ProntType=Int` interrogative
 
 ### <a name="Dem">`Dem`</a>: demonstrative pronoun, determiner, numeral or adverb
 
-These are often parallel to interrogatives. Some tagsets might also
-distinguish a separate feature of distance (_here / there_; [es] _aquí
-/ ahí / allí_).
+These are often parallel to interrogatives.
 
 #### Examples
 
