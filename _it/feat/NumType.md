@@ -33,7 +33,7 @@ This is a subtype of adjectives or pronouns.
 #### Examples
 
 * _primo_ "first", _secondo_ "second", _terzo_ "third";
-* _III_, _IV_, XIX
+* _III_, _IV_, _XIX_
 * 30a, 30esima, 1°
 * _bis_ "bis", _ter_ "ter", _quater_ "quater"
 
