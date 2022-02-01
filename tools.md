@@ -62,7 +62,7 @@ The Universal Dependencies project maintains a number of core tools for working 
 These tools are available from <https://github.com/universaldependencies/tools> and briefly
 described below.
 
-* [Specification for converters and validators for v2](v1_to_v2.html)
+* [Specification for converters and validators for v2](workgroups/v1_to_v2.html)
 
 ### Annotation statistics
 
