@@ -2,6 +2,7 @@
 layout: postag
 title: 'NUM'
 shortdef: 'numeral'
+udver: '2'
 ---
 
 ### Definition
@@ -19,7 +20,7 @@ tagging scheme, based mainly on syntactic criteria: e.g. ordinal numerals
 are tagged as [adjectives](ADJ) or [pronouns](PRON) _(first, second, third, ...)_. 
 In Italian there are no adverbial numerals like [cs] _poprvé_ "for the first time" nor multiplicative numerals such as [en] _(once, twice)_.
 
-Note that, since Roman numerals _(IV)_ are only used as ordinal numerals in Italian (Enciclopedia Treccani), are tagged [ADJ]() for coherence with other ordinal numerals. 
+Note that, since Roman numerals _(IV)_ are only used as ordinal numerals in Italian (Enciclopedia Treccani), they are tagged [ADJ]() for coherence with other ordinal numerals. 
 In this case we specify `NumType=Ord` as morphological feature. 
 A similar treatment is reserved to a cardinal with a suffix such as *a*, *o*, *esimo*, *esima*, or the symbol *°* (similar to the English use of the suffix "th").
 
