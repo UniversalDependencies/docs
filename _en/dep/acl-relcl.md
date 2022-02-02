@@ -397,14 +397,16 @@ TODO: plain `acl` for a WH-clause: is this limited to interrogative and exclamat
 
 In some cases, the _wh_-phrase would be analyzed as the head of the _wh_-clause. For example, in the sentence _I love how appreciative everyone was_, the word _appreciative_ would normally be a predicative head (since the verb _was_ is a copula and would receive the `cop` relation). Since _appreciative_ cannot be an `acl:relcl` dependent on itself, the auxiliary is promoted to the head of the relative clause and assigned the `acl:relcl` relation.
 
-TODO: If I am reading CGEL correctly this should be an exclamative complement clause, not a free relative, so the cyclicity problem goes away. If we adopt the exclamative clause analysis [these results with BE as the RC predicate](http://match.grew.fr/?corpus=UD_English-EWT@dev&custom=61c5129ddeaf0) should be revisited.
-
 ~~~sdparse
 I love how appreciative everyone was .
 obj(love, appreciative)
 acl:relcl(appreciative, was)
 advmod(appreciative, how)
 ~~~
+
+TODO: If I am reading CGEL correctly this should be an exclamative complement clause, not a free relative, so the cyclicity problem goes away. If we adopt the exclamative clause analysis [these results with BE as the RC predicate](http://match.grew.fr/?corpus=UD_English-EWT@dev&custom=61c5129ddeaf0) should be revisited.
+Maybe a better example: "Whatever this is, I like it!" or "I want to sample whatever dish this is". "Whatever (dish)" cannot be simultaneously the head of the RC and the predicate of the embedded clause, so "is" gets promoted.
+
 
 TODO: Also copied from the v1 guidelines:
 
