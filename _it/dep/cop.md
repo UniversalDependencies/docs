@@ -31,7 +31,7 @@ nsubj(Qual, capitale)
 cop(Qual, è)
 ~~~
 
-If the copula comes together another verbal auxiliaries (e.g. because of the tense), they are taken as dependents of the lexical predicate:
+If the copula comes together with other verbal auxiliaries (e.g. because of the tense), they are taken as dependents of the lexical predicate:
 
 ~~~ sdparse
 Non venne mai chiarito quale formazione era stata responsabile
