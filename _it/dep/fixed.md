@@ -35,7 +35,7 @@ Pur se .
 fixed(Pur, se)
 ~~~
 
-When involving more than two tokens, the first one is the head of each of the others. 
+When the mwe is composed of more than two tokens, the first one is the head of each of the others. 
 
 ~~~ sdparse
 Fino a quando . 
