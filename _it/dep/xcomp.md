@@ -50,7 +50,7 @@ xcomp(diventato, emergenza)
 ~~~ sdparse
 Sono stati ritrovati sani e salvi cinque americani
 acl(ritrovati, sani)
-cc(sani, e)
+cc(salvi, e)
 conj(sani, salvi)
 ~~~
 <!-- Interlanguage links updated St lis 3 20:59:11 CET 2021 -->
