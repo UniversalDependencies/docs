@@ -6,7 +6,20 @@ udver: '2'
 ---
 
 This element is used for any piece of punctuation in a clause. 
-The last punctuation mark of the sentence (usually a full stop or interrogative/exclamation point) always depends on the root; within the relevant unit, a punctuation mark is attached at the highest possible node that preserves projectivity. In general, tokens with the relation <code>punct</code> always attach to content words (except in cases of ellipsis) and can never have dependents on their own.
+The last punctuation mark of the sentence (usually a full stop or interrogative/exclamation mark) always depends on the root; within the relevant unit, a punctuation mark is attached at the highest possible node that preserves projectivity. In general, tokens with the relation <code>punct</code> always attach to content words (except in cases of ellipsis) and can never have dependents on their own.
+
+~~~ sdparse
+Evacuata la Tate Gallery .
+punct(Tate, .)
+~~~
+~~~ sdparse
+Le è simpatica Nicole Kidman ?
+punct(simpatica, ?)
+~~~
+~~~ sdparse
+Purché i partiti non si rimettano a litigare ...
+punct(rimettano, ...)
+~~~
 
 A punctuation mark separating coordinated units is attached to the following conjunct.
 
