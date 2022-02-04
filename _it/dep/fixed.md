@@ -35,7 +35,7 @@ Pur se .
 fixed(Pur, se)
 ~~~
 
-When the mwe is composed of more than two tokens, the first one is the head of each of the others. 
+Fixed MWEs are annotated in a flat structure, where all subsequent words in the expression are attached to the first one.
 
 ~~~ sdparse
 Fino a quando . 
