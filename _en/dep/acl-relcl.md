@@ -377,6 +377,12 @@ advmod(here, why)
 
 TODO: "how old he is": I think this is a good argument to treat WH words introducing an interrogative complement clause as `advmod`, not `mark`, because "how", "what", "which" can be NP dependents. cf. "it depends on [how good a horse] your horse is"
 
+Interrogative WH-clauses can also function as clause adjuncts:
+
+- **Whether you like it or not**, I'm doing it. TODO: nsubj(like, you), mark(like, Whether), advcl(doing, like)
+- **Whatever this is**, I like it! TODO: nsubj(Whatever, this), advcl(like, Whatever)
+- **Whatever your reasons (are)**, I disagree. TODO: nsubj(Whatever, reasons), advcl(disagree, Whatever). See [*No matter* and similar](#no-matter-and-similar) below.
+
 **Exclamative clauses** beginning with *how* or *what* may also function as complements:
 
 - I know/\*wonder what a jerk he is!
@@ -405,7 +411,7 @@ advmod(appreciative, how)
 ~~~
 
 TODO: If I am reading CGEL correctly this should be an exclamative complement clause, not a free relative, so the cyclicity problem goes away. If we adopt the exclamative clause analysis [these results with BE as the RC predicate](http://match.grew.fr/?corpus=UD_English-EWT@dev&custom=61c5129ddeaf0) should be revisited.
-Maybe a better example: "Whatever this is, I like it!" or "I want to sample whatever dish this is". "Whatever (dish)" cannot be simultaneously the head of the RC and the predicate of the embedded clause, so "is" gets promoted.
+Maybe a better example: "I want to sample whatever dish this is". "Whatever dish" cannot be simultaneously the head of the RC and the predicate of the embedded clause, so "is" gets promoted.
 
 
 TODO: Also copied from the v1 guidelines:
