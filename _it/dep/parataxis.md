@@ -5,18 +5,23 @@ shortdef: 'parataxis'
 udver: '2'
 ---
 
-The parataxis relation (from Greek for “place side by side”) is a relation between a word (often the main predicate of a sentence) and other elements, such as a sentential parenthetical or a clause after a “*:*” or a “*;*”, placed side by side without any explicit coordination, subordination, or argument relation with the head word. 
-In Italian it is most often used with direct dialogs, introduced by declarative verbs.
+The parataxis relation (from Greek for “place side by side”) is a relation between a word (often the main predicate of a sentence) and other elements, such as a sentential parenthetical or a clause after a “:” or a “;”, placed side by side without any explicit coordination, subordination, or argument relation with the head word. 
+In Italian it is typically used with direct dialogs, introduced by declarative verbs. For other uses see the universal page of the same tag.
 
+### Treatment of reported speech
 ~~~ sdparse
 " Ma no , non è così - replica Ante - .
 cop(così, è)
 parataxis(così, replica)
 ~~~
+
+### Interjected clauses
 ~~~ sdparse
 come hanno fatto sempre per tre anni ( mi dicono )
 parataxis(fatto, dicono)
 ~~~
+
+### Side-by-side sentences ("run-on sentences")
 ~~~ sdparse
 e adesso non si può fermare , questi sono contratti vecchi.
 parataxis(fermare, contratti)
