@@ -34,4 +34,12 @@ fixed(prima, di)
 Pur se . 
 fixed(Pur, se)
 ~~~
+
+When involving more than two tokens, the first one is the head of each of the others. 
+
+~~~ sdparse
+Fino a quando . 
+fixed(Fino, a)
+fixed(Fino, quando)
+~~~
 <!-- Interlanguage links updated St lis 3 20:58:53 CET 2021 -->
