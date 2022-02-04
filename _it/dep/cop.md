@@ -74,7 +74,7 @@ case(Hamad, di)
 det(Hamad, il)
 nmod(è, Hamad)
 amod(Hamad, pachistano)
-name(Hamad, Butt)
+flat:name(Hamad, Butt)
 ~~~
 ~~~ sdparse
 ROOT Oggi è in grado di dir ci qualcosa
