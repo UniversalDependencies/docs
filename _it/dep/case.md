@@ -34,7 +34,7 @@ The <code>case</code> relation can also be used for multiword expression introdu
 ~~~ sdparse
 Prima di tutto 
 case(tutto, Prima)
-mwe(Prima, di)
+fixed(Prima, di)
 ~~~
 
 If the head of the relation is a verb in a subordinate clause, then the correct relation is [mark](). If the verb is used as a noun infinitive, then <code>case</code> is the correct relation.
