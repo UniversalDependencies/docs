@@ -379,9 +379,27 @@ TODO: "how old he is": I think this is a good argument to treat WH words introdu
 
 Interrogative WH-clauses can also function as clause adjuncts:
 
-- **Whether you like it or not**, I'm doing it. TODO: nsubj(like, you), mark(like, Whether), advcl(doing, like)
-- **Whatever this is**, I like it! TODO: nsubj(Whatever, this), advcl(like, Whatever)
-- **Whatever your reasons (are)**, I disagree. TODO: nsubj(Whatever, reasons), advcl(disagree, Whatever). See [*No matter* and similar](#no-matter-and-similar) below.
+~~~ sdparse
+Whether you like it or not , it works .
+mark(like, Whether)
+conj(like, not)
+advcl(works, like)
+~~~
+
+~~~ sdparse
+Whatever it is , I 'm against it !
+advcl(against, Whatever)
+nsubj(Whatever, it)
+cop(Whatever, is)
+~~~
+
+~~~ sdparse
+Whatever your reasons , I disagree .
+advcl(disagree, Whatever)
+nsubj(Whatever, reasons)
+~~~
+
+See [*No matter* and similar](#no-matter-and-similar) below.
 
 **Exclamative clauses** beginning with *how* or *what* may also function as complements:
 
