@@ -15,7 +15,7 @@ The initial agent of the action described by the sentence is demoted and will be
 2	ընտանեկան	ընտանեկան	ADJ	_	_	3	amod	_	Translit=ëntanekan|LTranslit=ëntanekan
 3	պատճառներով	պատճառ	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Plur	6	obl	_	Translit=patč̣aṙnerov|LTranslit=patč̣aṙ
 4	մայրս	մայր	NOUN	_	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	6	nsubj:caus	_	Translit=mayrs|LTranslit=mayr
-5	զինքը	ինք	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Emp|Style=Coll	6	iobj:agent	_	Translit=zink’ë|LTranslit=ink’
+5	զինքը	ինք	PRON	_	Case=Acc|Number=Sing|Person[psor]=3|PronType=Emp	6	obj	_	Translit=zink’ë|LTranslit=ink’
 6	բերել	բերել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	0	root	_	Translit=berel|LTranslit=berel
 7	տուած	տալ	AUX	_	Aspect=Perf|Polarity=Pos|VerbForm=Part|Voice=Cau	6	aux:caus	_	Translit=towaç|LTranslit=tal
 8	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	Translit=ē|LTranslit=em
