@@ -29,7 +29,7 @@ Names of cities, countries, rivers, mountains etc.
 
 #### Examples
 
-* _<b>Երևան, ՀՀ, Եվրոպա, Գերմանիա, Վանա, Սևանա</b>&nbsp;_ “Yerevan, RA, Europe, Germany, ov Van, of Sevan”
+* _<b>Երևան, ՀՀ, Եվրոպա, Գերմանիա, Վանա, Սևանա</b>&nbsp;_ “Yerevan, RA, Europe, Germany, of Van, of Sevan”
 
 ### <a name="Prs">`Prs`</a>: name of person
 
