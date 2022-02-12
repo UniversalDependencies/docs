@@ -9,7 +9,7 @@ udver: '2'
 ## Tokenization and Word Segmentation
 
 * Words are generally delimited by whitespace but with exceptions:
-  * Compound words and full reduplications that are separated by a hyphen are tokenized as multi-word tokens (e.g. adis + - + adis) if each word can be taken as a separate semantic expression forming a whole.
+  * Compound words and full reduplications that are separated by a hyphen are tokenized as multi-word tokens (e.g. *adis* + *-* + *adis*) if each word can be taken as a separate semantic expression forming a whole.
   * Occurrences of the linker nga, and case markers ug and ang, that are supposed to be attached to a word are tokenized as multi-word tokens (e.g. ako + -ng).
   * Occurrences of the definitizer suffix (-a in “lenggwahea”) and neutral marker (-y in “ikay”) are part of the tokens but marked as a feature.
   * Words with spaces do not regularly occur in Cebuano.
