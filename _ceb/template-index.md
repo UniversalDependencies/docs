@@ -23,13 +23,13 @@ udver: '2'
 
 * Cebuano uses 16 of the UPOS tags. Auxiliary (AUX) is excluded.
 * Several word types are classified as particles (PART). These fall under two categories:
- * Grammatical particles (linkers nga and ka)
- * Lexical particles (such as the question marker ba, negation marker dili, ayaw, ambot, wala)
+  * Grammatical particles (linkers nga and ka)
+  * Lexical particles (such as the question marker ba, negation marker dili, ayaw, ambot, wala)
 * Quantifiers (including the plural marker mga and indefinite quantifiers such as daghan “many”) are classified as determiners (DET)
 * Similar to other Philippine languages, Cebuano has nominal markers that function both as prepositions and articles. Calling these as markers is probably the safest classification instead of prepositions or articles or determiners, as the markers can function all of them. To parallel the Tagalog treebank, they are labeled as ADP. These markers are: 
- * The topic nominative/absolutive marker “ang”
- * The non-topic genitive/ergative marker “ug” or “sa”
- * The non-core oblique/dative marker that is also “ug” or “sa”
+  * The topic nominative/absolutive marker “ang”
+  * The non-topic genitive/ergative marker “ug” or “sa”
+  * The non-core oblique/dative marker that is also “ug” or “sa”
 
 ### Nominal Features
 
@@ -53,10 +53,10 @@ udver: '2'
 * Verbs in the current data contains 3 possible mood values: Ind (indicative), Imp (imperative), Pot (potential).
 * Aspect has 3 possible values: Perf (perfective), Imp (imperfective), Prosp (prospective)
 * Voice is different in many Austronesian languages such as Cebuano as it does not follow the active-passive voice difference. Verbs “focus” on one specific argument, making it as the subject, but it does not transform the patient-like argument from a transitive clause to intransitive, and retains the agent-like argument, if present, is still a core argument. Since Tagalog has the same features, this is follows for Cebuano.  There are 4 possible values for Voice:
- * Act (actor-focused voice) where the actor is the topic of the sentence.
- * Pass (patient-focused voice) where the patient is the topic of the sentence.
- * Lfoc (locative-focused voice) where the location is the topic of the sentence.
- * Ifoc (instrumental-focused voice) where the instrument is the topic of the sentence.
+  * Act (actor-focused voice) where the actor is the topic of the sentence.
+  * Pass (patient-focused voice) where the patient is the topic of the sentence.
+  * Lfoc (locative-focused voice) where the location is the topic of the sentence.
+  * Ifoc (instrumental-focused voice) where the instrument is the topic of the sentence.
 
 ### Pronouns, Determiners, Quantifiers
 
@@ -82,10 +82,10 @@ udver: '2'
 
 ### Core Arguments and Adjuncts
 * Like many Philippine languages, Cebuano uses the Austronesian voice system. In Cebuano, there are two core arguments, which are the topic argument and the non-topic argument. These are marked by prepositions (ADP), and affixation on the verb determines their semantic roles.
- * The core topic nominative/absolutive argument (usually marked by the ADP “ang” for common nouns or “si” for personal nouns) attaches to the predicate using nsubj relation.
- * The core non-topic genitive/ergative argument (usually marked by the ADP for common nouns “ug” or “sa” or for personal common nouns “ni”) attached to the predicate using the obj relation.
- * Non-core nominals are attached to the predicate using the obl relation.
- * Note that the ADP “ug” or “sa” can be both non-topic genitive/ergative argument and non-core dative/oblique argument, and can appear at the same in the sentence.
+  * The core topic nominative/absolutive argument (usually marked by the ADP “ang” for common nouns or “si” for personal nouns) attaches to the predicate using nsubj relation.
+  * The core non-topic genitive/ergative argument (usually marked by the ADP for common nouns “ug” or “sa” or for personal common nouns “ni”) attached to the predicate using the obj relation.
+  * Non-core nominals are attached to the predicate using the obl relation.
+  * Note that the ADP “ug” or “sa” can be both non-topic genitive/ergative argument and non-core dative/oblique argument, and can appear at the same in the sentence.
 
 
 ### Non-Verbal Predicates
