@@ -50,13 +50,13 @@ udver: '2'
 ### Verbal Features
 
 * Verbs inflect according to Mood, Aspect (instead of Tense), and Voice.
-* Verbs in the current data contains 3 possible mood values: Ind (indicative), Imp (imperative), Pot (potential).
-* Aspect has 3 possible values: Perf (perfective), Imp (imperfective), Prosp (prospective)
+* Verbs in the current data contains 3 possible mood values: *Ind* (indicative), *Imp* (imperative), *Pot* (potential).
+* Aspect has 3 possible values: *Perf* (perfective), *Imp* (imperfective), *Prosp* (prospective)
 * Voice is different in many Austronesian languages such as Cebuano as it does not follow the active-passive voice difference. Verbs “focus” on one specific argument, making it as the subject, but it does not transform the patient-like argument from a transitive clause to intransitive, and retains the agent-like argument, if present, is still a core argument. Since Tagalog has the same features, this is follows for Cebuano.  There are 4 possible values for Voice:
-  * Act (actor-focused voice) where the actor is the topic of the sentence.
-  * Pass (patient-focused voice) where the patient is the topic of the sentence.
-  * Lfoc (locative-focused voice) where the location is the topic of the sentence.
-  * Ifoc (instrumental-focused voice) where the instrument is the topic of the sentence.
+  * *Act* (actor-focused voice) where the actor is the topic of the sentence.
+  * *Pass* (patient-focused voice) where the patient is the topic of the sentence.
+  * *Lfoc* (locative-focused voice) where the location is the topic of the sentence.
+  * *Ifoc* (instrumental-focused voice) where the instrument is the topic of the sentence.
 
 ### Pronouns, Determiners, Quantifiers
 
@@ -68,10 +68,10 @@ udver: '2'
 
 ### Other Features
 
-* PartType is used to distinguish the particles used in Cebuano. This excludes linkers even though they are considered as particles. For now, only Int (interrogative particles) such as ba or no are marked. 
-* Definitizer=Yes feature is used for the definitizer suffix -a that attaches to words such as nouns, verbs or adjectives to make an object or modifier “definite”.
-* Neutral=Yes feature is used for the neutral marker suffix -y that attaches to words like pronouns, verbs (especially existential verbs), adverbs and particles. 
-* Foreign=Yes feature is used for words that are not natively Cebuano, usually English words that are used a substitute for Cebuano words. If an English word is naturally used in Cebuano and if there is a Cebuano translation but is not really commonly used (e.g. travel document) then it is not labeled as Foreign=Yes anymore
+* PartType is used to distinguish the particles used in Cebuano. This excludes linkers even though they are considered as particles. For now, only *Int* (interrogative particles) such as ba or no are marked. 
+* *Definitizer=Yes* feature is used for the definitizer suffix -a that attaches to words such as nouns, verbs or adjectives to make an object or modifier “definite”.
+* *Neutral=Yes* feature is used for the neutral marker suffix -y that attaches to words like pronouns, verbs (especially existential verbs), adverbs and particles. 
+* *Foreign=Yes* feature is used for words that are not natively Cebuano, usually English words that are used a substitute for Cebuano words. If an English word is naturally used in Cebuano and if there is a Cebuano translation but is not really commonly used (e.g. *travel document*) then it is not labeled as *Foreign=Yes* anymore
 
 ---
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
@@ -84,13 +84,13 @@ udver: '2'
 * Like many Philippine languages, Cebuano uses the Austronesian voice system. In Cebuano, there are two core arguments, which are the topic argument and the non-topic argument. These are marked by prepositions (ADP), and affixation on the verb determines their semantic roles.
   * The core topic nominative/absolutive argument (usually marked by the ADP “ang” for common nouns or “si” for personal nouns) attaches to the predicate using nsubj relation.
   * The core non-topic genitive/ergative argument (usually marked by the ADP for common nouns “ug” or “sa” or for personal common nouns “ni”) attached to the predicate using the obj relation.
-  * Non-core nominals are attached to the predicate using the obl relation.
+  * Non-core nominals are attached to the predicate using the *obl* relation.
   * Note that the ADP “ug” or “sa” can be both non-topic genitive/ergative argument and non-core dative/oblique argument, and can appear at the same in the sentence.
 
 
 ### Non-Verbal Predicates
 
-* In cases of non-verbal clauses (such as noun, adverb, or adjective phrases), these may be used as predicates in Cebuano. The highest node of the clause is labeled as root, and all other nodes are connected to this node, similar to nodes connected to a verb. There is no copula.
+* In cases of non-verbal clauses (such as noun, adverb, or adjective phrases), these may be used as predicates in Cebuano. The highest node of the clause is labeled as *root*, and all other nodes are connected to this node, similar to nodes connected to a verb. There is no copula.
 
 
 ---
