@@ -11,7 +11,7 @@ udver: '2'
 * Words are generally delimited by whitespace but with exceptions:
   * Compound words and full reduplications that are separated by a hyphen are tokenized as multi-word tokens (e.g. *adis* + *-* + *adis*) if each word can be taken as a separate semantic expression forming a whole.
   * Occurrences of the linker *nga*, and case markers *ug* and *ang*, that are supposed to be attached to a word are tokenized as multi-word tokens (e.g. *ako* + *-ng*).
-  * Occurrences of the definitizer suffix (-a in “lenggwahe<b>a_</b>”) and neutral marker (-y in “ika<b>y</b>”) are part of the tokens but marked as a feature.
+  * Occurrences of the definitizer suffix (-a in “lenggwahe<b>a</b>”) and neutral marker (-y in “ika<b>y</b>”) are part of the tokens but marked as a feature.
   * Words with spaces do not regularly occur in Cebuano.
 
 ---
@@ -23,9 +23,9 @@ udver: '2'
 
 * Cebuano uses 16 of the UPOS tags. Auxiliary (AUX) is excluded.
 * Several word types are classified as particles (PART). These fall under two categories:
-  * Grammatical particles (linkers nga and ka)
-  * Lexical particles (such as the question marker ba, negation marker dili, ayaw, ambot, wala)
-* Quantifiers (including the plural marker mga and indefinite quantifiers such as daghan “many”) are classified as determiners (DET)
+  * Grammatical particles (linkers *nga* and *ka*)
+  * Lexical particles (such as the question marker *ba*, negation marker *dili*, *ayaw*, *ambot*, *wala*)
+* Quantifiers (including the plural marker *mga* and indefinite quantifiers such as *daghan* “many”) are classified as determiners (DET)
 * Similar to other Philippine languages, Cebuano has nominal markers that function both as prepositions and articles. Calling these as markers is probably the safest classification instead of prepositions or articles or determiners, as the markers can function all of them. To parallel the Tagalog treebank, they are labeled as ADP. These markers are: 
   * The topic nominative/absolutive marker “ang”
   * The non-topic genitive/ergative marker “ug” or “sa”
@@ -33,15 +33,15 @@ udver: '2'
 
 ### Nominal Features
 
-* Plurality is signaled, if overly stated, by the function word mga, hence mga expresses the Number=Plur feature and does not need for nouns (NOUN) and proper nouns (PROPN) to have Number=Plur. However, some affixation on nouns show number, and are not preceded with a mga marker anymore. In such occurences, the noun then has a Number=Plur.
-* Pronouns (PRON) are marked for number with 3 possible values: Sing, Dual, Plur
-* Some nouns (NOUN) and adjectives (ADJ) have Gender with 2 possible values: Masc, Fem.  This is usually loanwords from Spanish. Other nouns or adjectives do not have this feature.
-* There is a debate about the names the case markers, depending to which morphosyntactic alignment you analyze Cebuano on. Some linguists would argue Philippine languages are ergative-absolutive, some would say nominative-accusative, and some would reject both and say there is an Austronesian alignment. To adopt the similarities of Tagalog, Cebuano has Nom, Gen, Dat as the 3 possible values for ADP.
+* Plurality is signaled, if overly stated, by the function word *mga*, hence *mga* expresses the *Number=Plur* feature and does not need for nouns (NOUN) and proper nouns (PROPN) to have Number=Plur. However, some affixation on nouns show number, and are not preceded with a *mga* marker anymore. In such occurences, the noun then has a *Number=Plur*.
+* Pronouns (PRON) are marked for number with 3 possible values: *Sing*, *Dual*, *Plur*
+* Some nouns (NOUN) and adjectives (ADJ) have Gender with 2 possible values: *Masc*, *Fem*.  This is usually loanwords from Spanish. Other nouns or adjectives do not have this feature.
+* There is a debate about the names the case markers, depending to which morphosyntactic alignment you analyze Cebuano on. Some linguists would argue Philippine languages are ergative-absolutive, some would say nominative-accusative, and some would reject both and say there is an Austronesian alignment. To adopt the similarities of Tagalog, Cebuano has *Nom*, *Gen*, *Dat* as the 3 possible values for ADP.
 
 ### Degree and Polarity
 
-* Degree applies to adjectives (ADJ) and has 2 possible values: Pos, Sup. Cmp (comparative form) is not formed morphologically
-* Polarity is used to some existential verbs (VERBS), negation particles like dili, ayaw, wala, ambot, and response to interjection like uu and dili. It has 2 possible values: Pos, Neg.
+* Degree applies to adjectives (ADJ) and has 2 possible values: *Pos*, *Sup*. *Cmp* (comparative form) is not formed morphologically
+* Polarity is used to some existential verbs (VERBS), negation particles like *dili*, *ayaw*, *wala*, *ambot*, and response to interjection like *uu* and *dili*. It has 2 possible values: *Pos*, *Neg*.
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
