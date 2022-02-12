@@ -52,7 +52,7 @@ udver: '2'
 * Verbs inflect according to Mood, Aspect (instead of Tense), and Voice.
 * Verbs in the current data contains 3 possible mood values: *Ind* (indicative), *Imp* (imperative), *Pot* (potential).
 * Aspect has 3 possible values: *Perf* (perfective), *Imp* (imperfective), *Prosp* (prospective)
-* Voice is different in many Austronesian languages such as Cebuano as it does not follow the active-passive voice difference. Verbs “focus” on one specific argument, making it as the subject, but it does not transform the patient-like argument from a transitive clause to intransitive, and retains the agent-like argument, if present, is still a core argument. Since Tagalog has the same features, this is follows for Cebuano.  There are 4 possible values for Voice:
+* Voice is different in many Austronesian languages such as Cebuano as it does not follow the active-passive voice difference. Verbs “focus” on one specific argument, making it as the subject, but it does not transform the patient-like argument from a transitive clause to intransitive, and retains the agent-like argument, if present, is still a core argument. This feature is similar to Tagalog. There are 4 possible values for Voice:
   * *Act* (actor-focused voice) where the actor is the topic of the sentence.
   * *Pass* (patient-focused voice) where the patient is the topic of the sentence.
   * *Lfoc* (locative-focused voice) where the location is the topic of the sentence.
