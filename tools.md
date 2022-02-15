@@ -38,6 +38,7 @@ You may also want to announce your tool in the
     * [Sublime Text](#sublime-text)
   * Processing tools
     * [CL-CONLLU](#cl-conllu)
+    * [hs-conllu](#hs-conllu)
     * [DepEdit](#depedit)
     * [DKPro Core CoNLL-U reader/writer support](#dkpro-core-conll-u-readerwriter)
     * [pyconll](#pyconll)
@@ -326,6 +327,17 @@ A Common Lisp library for various CoNLL-U-related operations. We have already fu
 * License: Apache License
 * Homepage: <https://github.com/own-pt/cl-conllu/>
 * References: http://arademaker.github.io/bibliography/tilic-stil-2017.html
+
+#### hs-conllu
+
+A Haskel library for various CoNLL-U-related operations. So far, the basic functions for reading and writing. The plan is to port all other functions from the CL-CONLLU
+
+* Category: library
+* Platform: any OS that runs a Haskell compiler/interpreter
+* Implementation: Haskell
+* License: Apache License
+* Homepage: https://hackage.haskell.org/package/hs-conllu
+* References: see homepage
 
 
 #### DepEdit
