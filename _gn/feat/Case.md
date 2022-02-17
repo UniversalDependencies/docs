@@ -15,6 +15,7 @@ udver: '2'
   <td><a href="#All">All</a></td>
   <td><a href="#Voc">Voc</a></td>
   <td><a href="#Dat">Dat</a></td>
+  <td><a href="#Abl">Abl</a></td>
 </tr>
 </table>
 
@@ -82,5 +83,12 @@ The vocative can be expressed, among others, by the sufix _we_ attached to the l
 #### Examples
 
 * _<b>t-uβ-we</b>&nbsp;_ “To the father”
+
+
+### <a name="Abl">`Abl`</a>: Ablative
+
+#### Examples
+
+* _<b></b>&nbsp;_ “”
 
 <!-- Interlanguage links updated St lis 3 20:58:18 CET 2021 -->
