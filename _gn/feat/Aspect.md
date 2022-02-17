@@ -12,6 +12,7 @@ udver: '2'
   <td><a href="#Iter">Iter</a></td>
   <td><a href="#Suc">Suc</a></td>
   <td><a href="#Lus">Lus</a></td>
+  <td><a href="#Hab">Hab</a></td>
   
   
 </tr>
@@ -53,6 +54,7 @@ TZhe lusive aspect aspect indicates that the action is done without a particular
 #### Examples
 
 * _<b>a-i-meʔeŋ-ĩ</b>&nbsp;_ “I gave it (for no reason)” - 1SG-R2-give-LUS
+
 
 
 
