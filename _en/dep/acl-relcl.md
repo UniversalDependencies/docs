@@ -446,7 +446,6 @@ But I am not sure whether this is a free relative. Cf. "This is the key to wheth
 
 ~~~sdparse
 This is the key to how worthy the effort might be .
-nmod(key, worthy)
 mark(worthy, to)
 advmod(worthy, how)
 acl(key, worthy)
