@@ -36,7 +36,7 @@ The following thematically organized reports describe the changes adopted when g
 
 The reports are meant to be self-contained, but for those who want to dig deeper there is more information about the discussions leading up to the proposal:
 
-* [Issues](../issues.html) identified before the Uppsala meeting in August 2015
-* [Reports](/2015-08-23-uppsala/index.html) from the Uppsala meeting in August 2015
+* [Issues](/workgroups/issues.html) identified before the Uppsala meeting in August 2015
+* [Reports](/workgroups/2015-08-23-uppsala/index.html) from the Uppsala meeting in August 2015
 * [Preliminary v2](/v2_prelim/index.html) proposals and discussions (Aug-Sep 2016)
-* [Core group discussion](https://github.com/UniversalDependencies/UD_v2/issues) on v2 proposal (Sep-Oct 2016)
+* [Core group discussion](https://github.com/UniversalDependencies/UD_v2/issues)  <!-- TODO: BROKEN --> on v2 proposal (Sep-Oct 2016)
