@@ -12,7 +12,8 @@ The head is always the first part, the other parts are attached to it with the `
 
 The first part of the word is given the part of speech that the word would have been given if written together,
 while the later parts of the word are given the POS `X`. Similarly, only the first part can have a lemma
-and morphological features.
+and morphological features. And while the annotation of morphological features is optional, if the treebank
+does have features, then [Typo]()`=Yes` must be used with the `goeswith` head.
 
 Note also that only the last word part may be annotated with `SpaceAfter=No`.
 
