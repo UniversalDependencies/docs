@@ -18,16 +18,16 @@ nsubj(steht, der)
 ~~~ sdparse
 Er stellt den Teller auf den Tisch , auf dem schon das Buch liegt . \n Put the plate on the table on which the book lies already .
 acl:relcl(Tisch, liegt)
-nmod(liegt, dem)
+obl(liegt, dem)
 ~~~
 
 Extraposed relative clauses often introduce non-projective structures.
 
 ~~~ sdparse
-Petra hat diese Frau angerufen , die er gestern getroffen hat . \n Petra called this woman who she met yesterday .
+Petra hat diese Frau angerufen , die sie gestern getroffen hat . \n Petra called this woman who she met yesterday .
 acl:relcl(Frau, getroffen)
-dobj(angerufen, Frau)
+obj(angerufen, Frau)
 aux(angerufen, hat)
-nsubj(getroffen, die)
+obj(getroffen, die)
 ~~~
 <!-- Interlanguage links updated St lis 3 20:58:33 CET 2021 -->
