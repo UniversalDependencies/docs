@@ -11,7 +11,9 @@ The head is always the first part, the other parts are attached to it with the `
 (for consistency, similarly as in [flat](), [fixed]() and [conj]()).
 
 The first part of the word is given the part of speech that the word would have been given if written together,
-while the later parts of the word are given the POS `X`.
+while the later parts of the word are given the POS `X`. Similarly, only the first part can have a lemma
+and morphological features.
+
 Note also that only the last word part may be annotated with `SpaceAfter=No`.
 
 ~~~ sdparse
