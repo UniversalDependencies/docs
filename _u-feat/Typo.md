@@ -12,7 +12,8 @@ udver: '2'
 </tr>
 </table>
 
-Indicates bad spelling, grammatical error etc.
+Indicates bad spelling, grammatical error etc. This also includes mistakenly interrupted words that are connected using the [goeswith]() relation.
+While the annotation of morphological features is optional, if the treebank does have features, then [Typo]()`=Yes` must be used with the `goeswith` head.
 
 The correct spelling can be indicated in the MISC column with the `CorrectForm` feature,
 as discussed in the [page on typos](https://universaldependencies.org/u/overview/typos.html).
