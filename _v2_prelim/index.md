@@ -16,7 +16,7 @@ Some quick links:
 
 * [UD v2 draft](../v2/index.html)
 * [Issue tracker, universal v2 filter](https://github.com/UniversalDependencies/docs/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20milestone%3A%22universal%20v2%22)
-* [Uppsala meeting](../2015-08-23-uppsala/)
+* [Uppsala meeting](/workgroups/2015-08-23-uppsala/)
 
 ## The main issues
 
