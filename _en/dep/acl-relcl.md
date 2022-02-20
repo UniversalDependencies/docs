@@ -13,7 +13,7 @@ The head is said to be "extracted" from the RC.
 RCs are usually finite (*people who live in glass houses*), but may also be infinitival (*I found a house in which to live*, *I found a house (for my mother) to live in*). Gerund-participial and past-participial clauses (*people living in glass houses*, *students given high marks*) are never considered relative clauses.
 <!-- Infinitival RCs are discussed in CGEL pp. 1067-1068 -->
 
-TODO: do we want to implement infinitival RCs? EWT only has them for free relatives. "nice people to meet here" is plain `acl(people,meet)`. Not marking it as an RC means there is no way to find that there is a gap/extracted element (cf. "the idea to meet").
+☞ TODO: do we want to implement infinitival RCs? EWT only has them for free relatives. "nice people to meet here" is plain `acl(people,meet)`. Not marking it as an RC means there is no way to find that there is a gap/extracted element (cf. "the idea to meet").
 
 In the Basic Dependencies representation, the main predicate of the RC attaches to the head as `acl:relcl`. This is shown in the example on the left.
 
@@ -133,10 +133,6 @@ In the Enhanced Dependencies layer (right), the relativizer instead attaches to 
 </div>
 </td></tr></tbody>
 </table>
-
-TODO: Above is from <https://universaldependencies.org/u/overview/enhanced-syntax.html#relative-clauses>
-Should relativizers "where", "when" be SCONJ/mark or ADV/advmod? SCONJ/mark is the majority in EWT but not consistent. (They are ADV as question words, SCONJ as interrogative complement clause markers.)
-<https://github.com/UniversalDependencies/UD_English-EWT/issues/88>, <http://match.grew.fr/?corpus=UD_English-EWT@dev&custom=61bfec493c0d3&clustering=W.upos>
 
 A relative clause with no relativizer, like (1), is called a **reduced relative clause**. One with a relativizer, like (3), is called a **nonreduced relative clause**.
 
@@ -260,7 +256,8 @@ advmod(resigned, when)
 acl(headlines, resigned)
 ~~~
 
-TODO: the above would be `mark` not `advmod` in EWT
+☞ TODO: the above (non-relative WH words) would be SCONJ/`mark` not ADV/`advmod` in EWT. Also, relativizers are inconsistent in EWT.
+<https://github.com/UniversalDependencies/UD_English-EWT/issues/88>, <http://match.grew.fr/?corpus=UD_English-EWT@dev&custom=61bfec493c0d3&clustering=W.upos>
 
 However, it should be considered a relative construction if the WH-adverb can be paraphrased by *in which* or similar, or if the head noun reifies the kind of relation (*the time when*, *the place where*, *the reason why*).
 
@@ -325,7 +322,7 @@ advmod(well, how)
 acl:relcl(well, behaved)
 ~~~
 
-TODO: GKP: exclamative. CGEL p. 919: exclamatives license *very*: "I love how very well everyone behaved" (\*I wonder how very well everyone behaved). cf. "I love how appreciative everyone was" (cyclic example)
+☞ TODO: GKP: exclamative. CGEL p. 919: exclamatives license *very*: "I love how very well everyone behaved" (\*I wonder how very well everyone behaved). cf. "I love how appreciative everyone was" (cyclic example)
 
 ### Free Relatives Versus Interrogative/Exclamative Complement Clauses
 
@@ -375,7 +372,7 @@ conj(lives, here)
 advmod(here, why)
 ~~~
 
-TODO: "how old he is": I think this is a good argument to treat WH words introducing an interrogative complement clause as `advmod`, not `mark`, because "how", "what", "which" can be NP dependents. cf. "it depends on [how good a horse] your horse is"
+☞ TODO: "how old he is": I think this is a good argument to treat WH words introducing an interrogative complement clause as `advmod`, not `mark`, because "how", "what", "which" can be NP dependents. cf. "it depends on [how good a horse] your horse is"
 
 Interrogative WH-clauses can also function as clause adjuncts:
 
@@ -414,7 +411,7 @@ cop(jerk, is)
 ~~~
 - I noticed how big a car he has. ('I noticed that he has a remarkably big car.')
 
-TODO: plain `acl` for a WH-clause: is this limited to interrogative and exclamative complements of nouns, and non-RC adjuncts ("press conferences when the US forces were already inside Baghdad")? <http://match.grew.fr/?corpus=UD_English-EWT@dev&custom=61c1f3622bda6>
+☞ TODO: plain `acl` for a WH-clause: is this limited to interrogative and exclamative complements of nouns, and non-RC adjuncts ("press conferences when the US forces were already inside Baghdad")? <http://match.grew.fr/?corpus=UD_English-EWT@dev&custom=61c1f3622bda6>
 
 
 ### Cyclic cases
@@ -428,11 +425,11 @@ acl:relcl(appreciative, was)
 advmod(appreciative, how)
 ~~~
 
-TODO: If I am reading CGEL correctly this should be an exclamative complement clause, not a free relative, so the cyclicity problem goes away. If we adopt the exclamative clause analysis [these results with BE as the RC predicate](http://match.grew.fr/?corpus=UD_English-EWT@dev&custom=61c5129ddeaf0) should be revisited.
+☞ TODO: If I am reading CGEL correctly this should be an exclamative complement clause, not a free relative, so the cyclicity problem goes away. If we adopt the exclamative clause analysis [these results with BE as the RC predicate](http://match.grew.fr/?corpus=UD_English-EWT@dev&custom=61c5129ddeaf0) should be revisited.
 Maybe a better example: "I want to sample whatever dish this is". "Whatever dish" cannot be simultaneously the head of the RC and the predicate of the embedded clause, so "is" gets promoted.
 
 
-TODO: Also copied from the v1 guidelines:
+☞ TODO: Also copied from the v1 guidelines:
 
 ~~~sdparse
 This is the key to how worthy the effort might be .
@@ -457,7 +454,7 @@ cop(worthy, be)
 
 The free relative analysis is also extended to cleft constructions.
 
-TODO: potential problem—"that" cannot normally head free relatives, but it can appear in clefts: "It is [the marrying off of young girls to older men often close relatives] that enfurates me."
+☞ TODO: potential problem—"that" cannot normally head free relatives, but it can appear in clefts: "It is [the marrying off of young girls to older men often close relatives] that enfurates me."
 
 ~~~sdparse
 -ROOT- John is who we want to help .
@@ -499,9 +496,9 @@ det(progress, what)
 acl:relcl(progress, make)
 ~~~
 
-TODO: or should it be `advmod(matter, no)`, as in EWT?
+☞ TODO: or should it be `advmod(matter, no)`, as in EWT?
 
-TODO: A particular non-relative construction in which WH-ever forms occur (these are interrogative clauses functioning as adjuncts): *Whatever the reasons behind the duel (were), he was convinced of his impending death* (cf. *I'm doing this whether you like it or not.*; see CGEL pp. 985-986)
+☞ TODO: A particular non-relative construction in which WH-ever forms occur (these are interrogative clauses functioning as adjuncts): *Whatever the reasons behind the duel (were), he was convinced of his impending death* (cf. *I'm doing this whether you like it or not.*; see CGEL pp. 985-986)
 
 ## Additional Examples
 
