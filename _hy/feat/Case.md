@@ -91,7 +91,7 @@ This is the word form most frequently used for direct objects of verbs, see abov
 
 #### Examples
 
-* _եղբայրս սիրում է <b>Աննային</b>. “My brother loves <b>Anna</b>.”
+* _Եղբայրս սիրում է <b>Աննային</b>։_ “My brother loves <b>Anna</b>.”
 
 ### <a name="Abl">`Abl`</a>: ablative
 
