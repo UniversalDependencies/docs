@@ -8,6 +8,7 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Acc">Acc</a></td>
   <td><a href="#Abl">Abl</a></td>
   <td><a href="#Dat">Dat</a></td>
   <td><a href="#Gen">Gen</a></td>
@@ -82,6 +83,15 @@ belongs to its governor (adnominal dative) or depends on the verb (adverbal dati
   (_եղբորս&nbsp;_ “my brother” is dative and _նվեր&nbsp;_ “present” is nominative.)
 * _Երևանը <b>Հայաստանի</b> մայրաքաղաքն է։&nbsp;_ “Yerevan is the
   capital <b>of Armenia</b>.”
+
+### <a name="Acc">`Acc`</a>: accusative
+
+Perhaps the second most widely spread morphological case.
+This is the word form most frequently used for direct objects of verbs, see above.
+
+#### Examples
+
+* _եղբայրս սիրում է <b>Աննային</b>. “My brother loves <b>Anna</b>.”
 
 ### <a name="Abl">`Abl`</a>: ablative
 
