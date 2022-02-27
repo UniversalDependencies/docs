@@ -14,7 +14,7 @@ udver: '2'
   <td><a href="#Tem">Tem</a></td>
   <td><a href="#Tra">Tra</a></td>
   <td><a href="#Ref">Ref</a></td>
-  
+  <td><a href="#Equ">Ref</a></td>
 
 </tr>
 </table>
@@ -38,7 +38,7 @@ The dative case is expressed with the morpheme "pe"
 
 #### Examples
 
-* _<b>Nuzapo pixik kwaw agwer maʔe amo ae awa pe</b>&nbsp;_ “He never did this kind of things to any other man”
+* _<b>Nuzapo pixik kwaw agwer maʔe amo ae awa-pe</b>&nbsp;_ “He never did this kind of things to any other man”
 
 
 ### <a name="Loc">`Loc`</a>: Locative
@@ -47,7 +47,7 @@ The locative case is expressed with the morpheme "pe"
 
 #### Examples
 
-* _<b>a'e pe</b>&nbsp;_ “There”
+* _<b>a'e-pe</b>&nbsp;_ “There”
 
 ### <a name="Tem">`Tem`</a>: Temporal
 
@@ -55,7 +55,7 @@ The temporal case is expressed with the morpheme "re"
 
 #### Examples
 
-* _<b>aʔere</b>&nbsp;_ “After that”
+* _<b>aʔe-re</b>&nbsp;_ “After that”
   
 </tr>
 </table>
@@ -66,7 +66,7 @@ The translative case is expressed with the morpheme "romo" or "rumu"
 
 #### Examples
 
-* _<b>Aʔere uzeapo tahɨwai xixirogaturumu</b>&nbsp;_ “There he turned into ants of various sizes”
+* _<b>Aʔere uzeapo tahɨwai xixirogatu-rumu</b>&nbsp;_ “There he turned into ants of various sizes”
   
 </tr>
 </table>
@@ -80,6 +80,16 @@ is used for the referential marker (also called argumentative, nominal). All lex
 
 * _<b>Aʔe</b>&nbsp;_ “That” (Deictic determiner)
 * _<b>Aʔe=à</b>&nbsp;_ “He/She/It/They” (Subject)
+
+### <a name="Equ">`Equ`</a>: Equative
+
+The equative case is expressed with the suffix "zawe" or "zawen"
+
+
+#### Examples
+
+* _<b>Mara-zawe</b>&nbsp;_ “Why”
+
 
 
 ## Diffs
