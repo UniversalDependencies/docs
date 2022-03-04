@@ -8,6 +8,7 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Abe">Abe</a></td>
   <td><a href="#All">All</a></td>
   <td><a href="#Dat">Dat</a></td>
   <td><a href="#Loc">Loc</a></td>
@@ -20,6 +21,14 @@ udver: '2'
 </table>
 
 `Case`  
+### <a name="Abe">`Abe`</a>: Abessive 
+
+The abessive case is expressed with the morpheme "ʔɨm"
+
+#### Examples
+
+
+* _<b>ɨ r-eta-naw-ʔɨm</b>&nbsp;_ “Where there is no water”
 
 
 ### <a name="All">`All`</a>: Allative 
