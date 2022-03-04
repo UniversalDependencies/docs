@@ -20,7 +20,8 @@ udver: '2'
 </tr>
 </table>
 
-`Case`  
+`Case`
+
 ### <a name="Abe">`Abe`</a>: Abessive 
 
 The abessive case is expressed with the morpheme "ʔɨm"
