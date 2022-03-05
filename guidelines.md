@@ -1,6 +1,7 @@
 ---
 layout: base
 title:  'Universal Dependencies'
+shortdef: 'guidelines'
 udver: '2'
 ---
 
