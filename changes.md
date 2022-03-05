@@ -1,13 +1,13 @@
 ---
 layout: base
 title:  'Guidelines Changes'
-shortdef: 'changes'
+shortdef: 'guidelines changes'
 udver: '2'
 ---
 
 # Guidelines Changes
 
-This pages summarizes the history of notable changes to the universal annotation [guidelines]().
+This pages summarizes the history of notable changes to the universal annotation [guidelines](guidelines.html).
 
 Significant changes are classified as: 
 - CLARIFICATION: resolution of an important ambiguity in the guidelines
@@ -21,8 +21,44 @@ Significant changes are classified as:
 Updates to UDv2 will NOT alter the inventory of basic top-level dependency relations, UPOS tags, etc. 
 But some updates have been necessary to clarify how they should be applied to particular linguistic phenomena, as well as formal constraints to be enforced by validation.
 
+| # | Date | Type |                                      |
+|---|------|------|--------------------------------------|
+| 3 | Feb. 2022 | AMENDMENT | Revised the policy regarding reported speech: the quoted material attaches as [ccomp]() to the speech verb regardless of order and punctuation; [parataxis]() should be used only if the quotation is interrupted. |
+| 2 | Jan. 2022 | | [Updates](https://github.com/UniversalDependencies/docs/pull/838) to the policy on [typos](u/overview/typos.html) to clarify treatment of [goeswith]():
+   * [AMENDMENT, VALIDATOR] Effective in release 2.10, [Typo]()`=Yes` is now required on the first part of a [goeswith]() structure (previously stated to be unnecessary)
+   * [VALIDATOR] Morphological features and lemmas now prohibited on tokens attaching as [goeswith](); UPOS required to be [X]()
+   * [CLARIFICATION, VALIDATOR] Further explanation of [goeswith]() structures, including interaction with multiword tokens |
+| 1 | Dec. 2021 | | TODO |
+
+
+
+<table>
+  <thead><tr><td>#</td><td>Date</td><td>Type</td><td></td></tr></thead>
+  <tbody>
+    <tr><td>3</td>
+      <td>Feb. 2022</td>
+      <td>AMENDMENT</td>
+      <td>
+        Revised the policy regarding reported speech: the quoted material attaches as [ccomp]() to the speech verb regardless of order and punctuation; [parataxis]() should be used only if the quotation is interrupted.
+      </td>
+    </tr>
+    <tr><td>2</td>
+      <td>**Jan. 2022**</td>
+      <td></td>
+      <td>
+
+[Updates](https://github.com/UniversalDependencies/docs/pull/838) to the policy on [typos](u/overview/typos.html) to clarify treatment of [goeswith]():
+   * [AMENDMENT, VALIDATOR] Effective in release 2.10, [Typo]()`=Yes` is now required on the first part of a [goeswith]() structure (previously stated to be unnecessary)
+   * [VALIDATOR] Morphological features and lemmas now prohibited on tokens attaching as [goeswith](); UPOS required to be [X]()
+   * [CLARIFICATION, VALIDATOR] Further explanation of [goeswith]() structures, including interaction with multiword tokens
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 - **Feb. 2022 [AMENDMENT]** Revised the policy regarding reported speech: the quoted material attaches as [ccomp]() to the speech verb regardless of order and punctuation; [parataxis]() should be used only if the quotation is interrupted.
-- **Jan. 2022** [Updates](https://github.com/UniversalDependencies/docs/pull/838) to the policy on [typos]() to clarify treatment of [goeswith]():
+- **Jan. 2022** [Updates](https://github.com/UniversalDependencies/docs/pull/838) to the policy on [typos](u/overview/typos.html) to clarify treatment of [goeswith]():
    * [AMENDMENT, VALIDATOR] Effective in release 2.10, [Typo]()`=Yes` is now required on the first part of a [goeswith]() structure (previously stated to be unnecessary)
    * [VALIDATOR] Morphological features and lemmas now prohibited on tokens attaching as [goeswith](); UPOS required to be [X]()
    * [CLARIFICATION, VALIDATOR] Further explanation of [goeswith]() structures, including interaction with multiword tokens
