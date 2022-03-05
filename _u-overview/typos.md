@@ -1,6 +1,7 @@
 ---
 layout: base
 title:  'Typos and Other Errors in Underlying Text'
+shortdef: 'typos'
 permalink: u/overview/typos.html
 udver: '2'
 ---
