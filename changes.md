@@ -25,37 +25,16 @@ But some updates have been necessary to clarify how they should be applied to pa
 |---|------|------|--------------------------------------|
 | 3 | Feb. 2022 | AMENDMENT | Revised the policy regarding reported speech: the quoted material attaches as [ccomp]() to the speech verb regardless of order and punctuation; [parataxis]() should be used only if the quotation is interrupted. |
 | 2 | Jan. 2022 | | [Updates](https://github.com/UniversalDependencies/docs/pull/838) to the policy on [typos](u/overview/typos.html) to clarify treatment of [goeswith]():
-   * [AMENDMENT, VALIDATOR] Effective in release 2.10, [Typo]()`=Yes` is now required on the first part of a [goeswith]() structure (previously stated to be unnecessary)
-   * [VALIDATOR] Morphological features and lemmas now prohibited on tokens attaching as [goeswith](); UPOS required to be [X]()
-   * [CLARIFICATION, VALIDATOR] Further explanation of [goeswith]() structures, including interaction with multiword tokens |
+   <ul><li>[AMENDMENT, VALIDATOR] Effective in release 2.10, [Typo]()`=Yes` is now required on the first part of a [goeswith]() structure (previously stated to be unnecessary)</li>
+   <li>[VALIDATOR] Morphological features and lemmas now prohibited on tokens attaching as [goeswith](); UPOS required to be [X]()</li>
+   <li>[CLARIFICATION, VALIDATOR] Further explanation of [goeswith]() structures, including interaction with multiword tokens</li>
+  </ul> |
 | 1 | Dec. 2021 | | TODO |
 
 
-
-<table>
-  <thead><tr><td>#</td><td>Date</td><td>Type</td><td></td></tr></thead>
-  <tbody>
-    <tr><td>3</td>
-      <td>Feb. 2022</td>
-      <td>AMENDMENT</td>
-      <td>
-        Revised the policy regarding reported speech: the quoted material attaches as [ccomp]() to the speech verb regardless of order and punctuation; [parataxis]() should be used only if the quotation is interrupted.
-      </td>
-    </tr>
-    <tr><td>2</td>
-      <td>**Jan. 2022**</td>
-      <td></td>
-      <td>
-
-[Updates](https://github.com/UniversalDependencies/docs/pull/838) to the policy on [typos](u/overview/typos.html) to clarify treatment of [goeswith]():
-   * [AMENDMENT, VALIDATOR] Effective in release 2.10, [Typo]()`=Yes` is now required on the first part of a [goeswith]() structure (previously stated to be unnecessary)
-   * [VALIDATOR] Morphological features and lemmas now prohibited on tokens attaching as [goeswith](); UPOS required to be [X]()
-   * [CLARIFICATION, VALIDATOR] Further explanation of [goeswith]() structures, including interaction with multiword tokens
-
-      </td>
-    </tr>
-  </tbody>
-</table>
+| # | Date | Type |                                      |
+|---|------|------|--------------------------------------|
+| 3 | Feb. 2022 | AMENDMENT | <ul><li>list [ccomp]()</li><li>another</li><li>another [ccomp]() word</li></ul> |
 
 - **Feb. 2022 [AMENDMENT]** Revised the policy regarding reported speech: the quoted material attaches as [ccomp]() to the speech verb regardless of order and punctuation; [parataxis]() should be used only if the quotation is interrupted.
 - **Jan. 2022** [Updates](https://github.com/UniversalDependencies/docs/pull/838) to the policy on [typos](u/overview/typos.html) to clarify treatment of [goeswith]():
@@ -73,3 +52,7 @@ But some updates have been necessary to clarify how they should be applied to pa
 
 - [Discussion notes](/discussion.html)
 - [Universal guidelines issue tracker](https://github.com/UniversalDependencies/docs/issues)
+
+## Data Releases
+
+- [Release history on the homepage](/#download)
