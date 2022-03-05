@@ -26,9 +26,10 @@ But some updates have been necessary to clarify how they should be applied to pa
    * [CLARIFICATION, VALIDATOR] Further explanation of [goeswith]() structures, including interaction with multiword tokens
 - **Dec. 2021 [CLARIFICATION, VALIDATOR]** Deverbal connectives may be tagged as [VERB]() while attaching as [case]() or [mark](). Documented at [ADP]().
 
-## UDv1 → UDv2 changes
+## UDv1 and transition to UDv2
 
-- [Executive summary](/v2/summary.html)
+- [Archived v1 guidelines](/docsv1/)
+- [Executive summary of changes from v1 to v2](/v2/summary.html)
 
 ## Discussions
 
