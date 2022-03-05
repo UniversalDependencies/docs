@@ -1,6 +1,8 @@
 ---
 layout: base
 title:  'Guidelines Changes'
+shortdef: 'changes'
+udver: '2'
 ---
 
 # Guidelines Changes
