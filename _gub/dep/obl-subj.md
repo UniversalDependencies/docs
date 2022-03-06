@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 The relation `obl:subj` is used for the NP related to the subject core-argument in a head-marking language.
-In Tupinambá, a strictly head-marking language, the core arguments are indexed on the predicate, but the NPs related to the core-arguments
+In Guajajara, a head-marking language, the core arguments are indexed on the predicate, but the NPs related to the core-arguments
 are in free-order in relation to the head.
 
 ```
