@@ -74,7 +74,7 @@ nummod(muffins, Three)
 ccomp(answered, muffins)
 ~~~
 
-If the speech verb interrupts the reported speech content, [parataxis]() is used instead:
+If the speech verb interrupts the reported speech content, [parataxis]() is used instead. The speech verb attaches to the root of the reported speech (_all_ in the following example):
 
 ~~~ sdparse
 " Three muffins , " he answered , " are all that I need today . "
