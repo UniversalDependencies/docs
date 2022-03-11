@@ -5,7 +5,7 @@ shortdef: 'case marking'
 udver: '2'
 ---
 
-Case marking elements are function words which assign case to the noun of which they are dependents. They are always separate syntactic words, otherwise case is marked with the morphological feature `Case` [https://universaldependencies.org/u/feat/Case.html]
+Case marking elements are function words which assign case to the noun of which they are dependents. They are always separate syntactic words, otherwise case is marked with the morphological feature ([Case](https://universaldependencies.org/u/feat/Case.html))
 
 Case marking elements in Guajajara are always pospositions. They can be distinguished from morphological case in that they can appear with the contiguity or non-contiguity relational marker:
 
