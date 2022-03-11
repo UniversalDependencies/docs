@@ -11,7 +11,7 @@ Indirect objects in Guajajara require the noun to be marked with the postpositio
 
 ~~~ sdparse
 uwexakar tɨwɨr hemiʔiwàkwer izupe no \n (He) took the older brother to the one who was wounded with the arrow
-advcl(uwexakar, izupe)
+iobj(uwexakar, izupe)
 ~~~
 
 The indirect object can also be pronominal, in which case the possessor pronoun is incorporated to the postposition.
