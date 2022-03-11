@@ -10,8 +10,8 @@ udver: '2'
 This pages summarizes the history of notable changes to the universal annotation [guidelines](guidelines.html).
 
 Significant changes are classified as: 
-- CLARIFICATION: resolution of an important ambiguity in the guidelines
 - AMENDMENT: change that negates a policy articulated in an earlier version of the guidelines
+- CLARIFICATION: resolution of an important ambiguity in the guidelines (that doesn't negate a previous policy)
 - VALIDATOR: important change to the requirements checked by the official [UD validator](https://github.com/UniversalDependencies/tools/)
 
 (Note: Many minor clarifications are not listed.)
@@ -22,11 +22,11 @@ Updates to UDv2 will NOT alter the inventory of basic top-level dependency relat
 But some updates have been necessary to clarify how they should be applied to particular linguistic phenomena, as well as formal constraints to be enforced by validation.
 
 
-| # | Date | Type | Title                                |
-|---|------|------|--------------------------------------|
-| 3 | Feb. 2022 | AMENDMENT | [Reported Speech](#reported-speech) |
-| 2 | Jan. 2022 | AMENDMENT, CLARIFICATION, VALIDATOR | [Typos and `goeswith`](#typos-and-goeswith)
-| 1 | Dec. 2021 | CLARIFICATION, VALIDATOR | [Deverbal Connectives](#deverbal-connectives) |
+| # | Date Decided | Effective Release | Type                     | Title                                         |
+|---|--------------|-------------------|--------------------------|-----------------------------------------------|
+| 3 | 2022-Feb     | 2.10              | AMENDMENT                | [Reported Speech](#reported-speech)           |
+| 2 | 2022-Jan     | 2.10              | AMENDMENT, VALIDATOR     | [Typos and `goeswith`](#typos-and-goeswith)   |
+| 1 | 2021-Dec     | 2.10              | CLARIFICATION, VALIDATOR | [Deverbal Connectives](#deverbal-connectives) |
 
 ### Reported Speech
 
@@ -35,9 +35,9 @@ Revised the policy regarding reported speech: the quoted material attaches as [c
 ### Typos and `goeswith`
 
 [Updates](https://github.com/UniversalDependencies/docs/pull/838) to the policy on [typos](u/overview/typos.html) to clarify treatment of [goeswith]():
-   * [AMENDMENT, VALIDATOR] Effective in release 2.10, [Typo]()`=Yes` is now required on the first part of a [goeswith]() structure (previously stated to be unnecessary)
-   * [VALIDATOR] Morphological features and lemmas now prohibited on tokens attaching as [goeswith](); UPOS required to be [X]()
-   * [CLARIFICATION, VALIDATOR] Further explanation of [goeswith]() structures, including interaction with multiword tokens
+   * [Typo]()`=Yes` is now required on the first part of a [goeswith]() structure (previously stated to be unnecessary)
+   * Morphological features and lemmas now prohibited on tokens attaching as [goeswith](); UPOS required to be [X]()
+   * Further explanation of [goeswith]() structures, including interaction with multiword tokens
 
 ### Deverbal Connectives
 
