@@ -41,6 +41,62 @@ sentence to mean that the boss will not be doing any digging, in the second
 sentence it is clear that the subject of __digging__ can only be __we__. This is
 what distinguishes `ccomp` and `xcomp`.
 
+### Reported Speech
+
+With a speech verb like _say_, the content of reported speech is considered to be part of the verb's valency. It therefore attaches as [ccomp]()—not only when integrated within the clause as an indirect quotation (_said that..._), but also when set off as a direct quotation, even with inverted order:
+
+~~~ sdparse
+He said that he knew the muffin man .
+ccomp(said, knew)
+~~~
+
+~~~ sdparse
+I asked : " Do you know the muffin man ? "
+ccomp(asked, know)
+~~~
+
+~~~ sdparse
+" Do you know the muffin man ? " I asked .
+ccomp(asked, know)
+~~~
+
+~~~ sdparse
+" I had hoped to remain anonymous , " said the muffin man , who was tracked down Sunday at his home on Drury Lane .
+ccomp(said, hoped)
+nsubj(said, man)
+~~~~
+
+Quoted content is considered to be [ccomp]() even if it is a sentence fragment:
+
+~~~ sdparse
+" Three/NUM muffins/NOUN , " he answered .
+nummod(muffins, Three)
+ccomp(answered, muffins)
+~~~
+
+If the speech verb interrupts the reported speech content, [parataxis]() is used instead. The speech verb attaches to the root of the reported speech (_all_ in the following example):
+
+~~~ sdparse
+" Three muffins , " he answered , " are all that I need today . "
+parataxis(all, answered)
+nsubj(all, muffins)
+~~~
+
+~~~ sdparse
+Weapons of mass destruction , the report explained , are designed to target civilian populations .
+parataxis(designed, explained)
+nsubj:pass(designed, Weapons)
+~~~
+
+~~~ sdparse
+the impact that the group 's practices , law enforcement officials say , are having on the most vulnerable within the sect
+acl:relcl(impact, having)
+nsubj(having, practices)
+parataxis(having, say)
+~~~
+
+### Copular Construction with Full Clause as Predicate
+
 Additionally, `ccomp` is used with copulas in equational constructions involving full clauses.
 
 ~~~ sdparse
