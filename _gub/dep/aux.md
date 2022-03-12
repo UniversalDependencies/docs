@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 An auxiliary is a function word which accompanies the verbal predicate and provides information regarding tense, mood, aspect, voice or evidentiality.
-
+ 
 Auxiliaries in Guajajara are verbal predicates which coreference the subject and (optionally) the object of the clause. They generally follow the main verb, but other syntactic elements may be placed between the main predicate and its auxiliary.
 
 Some auxiliaries offer aspectual information regarding the main verb, such as the progressive aspect:
