@@ -140,6 +140,11 @@ head noun (because they are the same node). We should only add a `nsubj` relatio
 to the `nsubj` of the relative clause (and remove the corresponding `nsubj` relation between the
 relative pronoun and the subject).
 
+<span style='color:red; font-weight:bold'>DZ: This example and explanation is taken from our
+documentation of enhanced dependencies, where it was added after issue #531. However, the solution
+appears half-done (why are the remaining children of _which_ not re-attached to _chairman_?)
+and it should be elaborated.</span>
+
 <!-- https://github.com/UniversalDependencies/docs/issues/531 -->
 <table> <!--He became chairman, which he still is-->
 <tbody><tr><td width="480">
@@ -212,6 +217,10 @@ Semantically, relative clauses may be **restrictive** (helping to narrow a set o
   * I tried to explain myself – **which was a bad idea**. [antecedent is a clause]
 
 The restrictive/ascriptive distinction does not affect the UD analysis: all RCs are analyzed with the `acl:relcl` relation.
+
+<span style='color:red; font-weight:bold'>DZ: Did we reach a consensus about clausal antecedents?
+There is the fundamental issue that `acl` must depend on a nominal. I would prefer something like
+`parataxis:relcl` or `advcl:relcl` over `acl:relcl` in these cases.</span>
 
 ???, even if the antecedent is clausal:
 
