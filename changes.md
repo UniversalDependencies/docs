@@ -30,7 +30,7 @@ But some updates have been necessary to clarify how they should be applied to pa
 
 ### Reported Speech
 
-Revised the policy regarding reported speech: the quoted material attaches as [ccomp]() to the speech verb regardless of order and punctuation; [parataxis]() should be used only if the quotation is interrupted.
+[Revised](https://github.com/UniversalDependencies/docs/pull/850) the policy regarding reported speech: the quoted material attaches as [ccomp]() to the speech verb regardless of order and punctuation; [parataxis]() should be used only if the quotation is interrupted.
 
 ### Typos and `goeswith`
 
