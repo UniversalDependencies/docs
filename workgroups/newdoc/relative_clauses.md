@@ -180,6 +180,22 @@ and it should be elaborated.</span>
 
 A relative clause with no relativizer, like (1), is called a **reduced relative clause**. One with a relativizer, like (3), is called a **nonreduced relative clause**.
 
+<!--
+https://github.com/UniversalDependencies/docs/commit/b7b62a7f9bafdbd8c3f7be9e4f72da62b3cb0d0d#commitcomment-68550464
+
+Nathan: Another case is "ENA shall pay $38,000, which amount shall be subject to…" for which I tentatively put E:det(amount,which), E:ref($, amount)—so "which" retains a dependent in the enhanced graph.
+
+Dan:
+Strictly mechanically applying the enhanced rules, I think we should get the following in the enhanced graph:
+
+<pre>
+ref($, which)
+nmod(amount, $)
+nsubj(subject, amount)
+acl:relcl($, subject)
+</pre>
+-->
+
 
 
 ## Notable Properties
