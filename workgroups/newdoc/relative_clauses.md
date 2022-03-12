@@ -178,14 +178,21 @@ A relative clause with no relativizer, like (1), is called a **reduced relative 
 Basic UD is shown for the rest of the examples below.
 
 
+
 ## Notable Properties
 
-☞ TODO: RCs are usually finite (*people who live in glass houses*), but may also be infinitival (*I found a house in which to live*, *I found a house (for my mother) to live in*). Gerund-participial and past-participial clauses (*people living in glass houses*, *students given high marks*) are never considered relative clauses.
-<!-- Infinitival RCs are discussed in CGEL pp. 1067-1068 -->
+In some languages (such as English), relative clauses are typically expected to be finite _(people who live in glass houses),_
+although they may also be infinitival _(I found a house in which to live; I found a house (for my mother) to live in)._
+Participial clauses _(people living in glass houses; students given high marks)_ are not considered relative clauses in English,
+they are ordinary adnominal clauses ([acl]()), or even adjectival modifiers ([amod]()) if the participle is tagged [ADJ]().
+<!-- Infinitival RCs are discussed in CGEL pp. 1067-1068
+English EWT only has infinitival relative clauses for free relatives.
+_nice people to meet here_ is plain `acl(people, meet)` there.
+Not marking it as a RC means there is no way to find that there is a gap/extracted element (cf. _the idea to meet_). -->
 
-☞ TODO: do we want to implement infinitival RCs? EWT only has them for free relatives. "nice people to meet here" is plain `acl(people,meet)`. Not marking it as an RC means there is no way to find that there is a gap/extracted element (cf. "the idea to meet").
+Note that the above distinction is not universal, as some languages do not distinguish finite and non-finite verb forms.
 
-Relativization can create unbounded dependency—an element can be extracted from several levels of embedding:
+An element can be extracted from several levels of embedding:
 
 ~~~ sdparse
 I saw the book which you pretended to think was boring
@@ -195,22 +202,26 @@ xcomp(pretended, think)
 ccomp(think, boring)
 ~~~
 
-Semantically, relative clauses may be **specifying/restrictive** (helping to narrow a set of referents), or **ascriptive/nonrestrictive** (adding detail about a referent that has already been identified):
+Semantically, relative clauses may be **restrictive** (helping to narrow a set of referents), or **ascriptive** (adding detail about a referent that has already been identified):
 
-- Specifying
+* Restrictive
   * I rented the movie **which you bought** (as opposed to some other one).
-- Ascriptive
+* Ascriptive
   * I introduced myself to John, **who promptly forgot my name**.
   * I rented the movie, **which you bought** (as opposed to renting).
   * I tried to explain myself – **which was a bad idea**. [antecedent is a clause]
 
-The specifying/ascriptive distinction does not affect the UD analysis: all RCs are analyzed with the `acl:relcl` relation, even if the antecedent is clausal:
+The restrictive/ascriptive distinction does not affect the UD analysis: all RCs are analyzed with the `acl:relcl` relation.
+
+???, even if the antecedent is clausal:
 
 ~~~ sdparse
 I tried to explain myself – which was a bad idea
 acl:relcl(tried, idea)
 nsubj(idea, which)
 ~~~
+
+
 
 ## Preposition Stranding
 
