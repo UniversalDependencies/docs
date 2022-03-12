@@ -22,8 +22,8 @@ Updates to UDv2 will NOT alter the inventory of basic top-level dependency relat
 But some updates have been necessary to clarify how they should be applied to particular linguistic phenomena, as well as formal constraints to be enforced by validation.
 
 
-| # | Date Decided | Effective Release | Type                     | Title                                         |
-|---|--------------|-------------------|--------------------------|-----------------------------------------------|
+| &nbsp;&nbsp;#&nbsp;&nbsp; | Date<br>Decided | Effective<Br>Release | Type                     | Title                                         |
+|:-:|:------------:|:-----------------:|--------------------------|-----------------------------------------------|
 | 3 | 2022-Feb     | 2.10              | AMENDMENT                | [Reported Speech](#reported-speech)           |
 | 2 | 2022-Jan     | 2.10              | AMENDMENT, VALIDATOR     | [Typos and `goeswith`](#typos-and-goeswith)   |
 | 1 | 2021-Dec     | 2.10              | CLARIFICATION, VALIDATOR | [Deverbal Connectives](#deverbal-connectives) |
