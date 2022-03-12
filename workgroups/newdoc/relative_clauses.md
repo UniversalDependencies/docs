@@ -197,14 +197,6 @@ Note that the above distinction is not universal, as some languages do not disti
 
 An element can be extracted from several levels of embedding:
 
-~~~ sdparse
-I saw the book which you pretended to think was boring
-acl:relcl(book, pretended)
-nsubj(boring, which)
-xcomp(pretended, think)
-ccomp(think, boring)
-~~~
-
 <table> <!--I saw the book which you pretended to think was boring-->
 <tbody><tr><td width="480">
 <div class="conllu-parse">
@@ -229,7 +221,7 @@ ccomp(think, boring)
 1  I         _ PRON  _ _ 2 nsubj _ _
 2  saw       _ VERB  _ _ 0 root _ _
 3  the       _ DET   _ _ 4 det _ _
-4  book      _ NOUN  _ _ 2 obj _ _
+4  book      _ NOUN  _ _ 2 obj 11:nsubj _
 5  which which PRON  WDT PronType=Rel 4 ref _ _
 6  you       _ PRON  _ _ 7 nsubj 9:nsubj:xsubj _
 7  pretended _ VERB  _ _ 4 acl:relcl _ _
