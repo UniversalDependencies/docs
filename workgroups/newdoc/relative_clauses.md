@@ -54,37 +54,36 @@ Specifically:
 * The possessive pronominal relativizer _(whose)_ modifies a nominal (subject, object, oblique modifier) within the RC the same way
   as a normal possessive modifier would, i.e., depending on language, it can be [nmod:poss](), [det:poss](), [nmod]() or [det]().
 
-[^1]: *The Cambridge Grammar of the English Language* (Huddleston and Pullum, 2002) considers _that_ at the beginning of a relative clause
-to be a subordinator. UD adopts the traditional analysis of _that_ as a relative pronoun roughly interchangeable with _which_ etc.
+[^1]: *The Cambridge Grammar of the English Language* (Huddleston and Pullum, 2002) considers _that_ at the beginning of a relative clause to be a subordinator. UD adopts the traditional analysis of _that_ as a relative pronoun roughly interchangeable with _which_ etc.
 
-In Enhanced UD (right), the relativizer instead attaches to its antecedent via the [ref]() relation
+In Enhanced UD (right), the relativizer instead attaches to its antecedent via the `ref` relation
 (as the antecedent is directly connected to a role in the RC).
 
 <table id="rc-example3"> <!--I saw the book which you bought . -->
 <tbody><tr><td width="600">
 <div class="conllu-parse">
 # visual-style 7 5 obj color:orange
-1 I      _ _ _ _ 2 nsubj _ _
-2 saw    _ _ _ _ 0 root _ _
-3 the    _ _ _ _ 4 det _ _
-4 book   _ _ _ _ 2 obj _ _
+1 I      _ PRON  _ _ 2 nsubj _ _
+2 saw    _ VERB  _ _ 0 root _ _
+3 the    _ DET   _ _ 4 det _ _
+4 book   _ NOUN  _ _ 2 obj _ _
 5 which  which PRON WDT PronType=Rel 7 obj   _ _
-6 you    _ _ _ _ 7 nsubj   _ _
-7 bought _ _ _ _ 4 acl:relcl _ _
-8 .      _ _ _ _ 2 punct _ _
+6 you    _ PRON  _ _ 7 nsubj   _ _
+7 bought _ VERB  _ _ 4 acl:relcl _ _
+8 .      _ PUNCT _ _ 2 punct _ _
 </div>
 </td><td width="600">
 <div class="conllu-parse">
 # visual-style 4 5 ref color:blue
 # visual-style 7 4 obj color:blue
-1 I      _ _ _ _ 2 nsubj _ _
-2 saw    _ _ _ _ 0 root _ _
-3 the    _ _ _ _ 4 det _ _
-4 book   _ _ _ _ 2 obj 7:obj _
+1 I      _ PRON  _ _ 2 nsubj _ _
+2 saw    _ VERB  _ _ 0 root _ _
+3 the    _ DET   _ _ 4 det _ _
+4 book   _ NOUN  _ _ 2 obj 7:obj _
 5 which  which PRON WDT PronType=Rel 4 ref   _ _
-6 you    _ _ _ _ 7 nsubj   _ _
-7 bought _ _ _ _ 4 acl:relcl _ _
-8 .      _ _ _ _ 2 punct _ _
+6 you    _ PRON  _ _ 7 nsubj   _ _
+7 bought _ VERB  _ _ 4 acl:relcl _ _
+8 .      _ PUNCT _ _ 2 punct _ _
 </div>
 </td></tr></tbody>
 </table>
@@ -111,7 +110,6 @@ In Enhanced UD (right), the relativizer instead attaches to its antecedent via t
 </div>
 </td></tr></tbody>
 </table>
-
 
 <table> <!--the woman whose cat smells-->
 <tbody><tr><td width="600">
