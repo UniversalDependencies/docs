@@ -180,8 +180,6 @@ and it should be elaborated.</span>
 
 A relative clause with no relativizer, like (1), is called a **reduced relative clause**. One with a relativizer, like (3), is called a **nonreduced relative clause**.
 
-Basic UD is shown for the rest of the examples below.
-
 
 
 ## Notable Properties
@@ -207,22 +205,60 @@ xcomp(pretended, think)
 ccomp(think, boring)
 ~~~
 
+<table> <!--I saw the book which you pretended to think was boring-->
+<tbody><tr><td width="480">
+<div class="conllu-parse">
+# visual-style 11 5 nsubj color:orange
+1  I         _ PRON  _ _ 2 nsubj _ _
+2  saw       _ VERB  _ _ 0 root _ _
+3  the       _ DET   _ _ 4 det _ _
+4  book      _ NOUN  _ _ 2 obj _ _
+5  which which PRON  WDT PronType=Rel 11 nsubj _ _
+6  you       _ PRON  _ _ 7 nsubj _ _
+7  pretended _ VERB  _ _ 4 acl:relcl _ _
+8  to        _ PART  _ _ 9 mark _ _
+9  think     _ VERB  _ _ 7 xcomp _ _
+10 was       _ AUX   _ _ 11 cop _ _
+11 boring    _ ADJ   _ _ 9 ccomp _ _
+12 .         _ PUNCT _ _ 2 punct _ _
+</div>
+</td><td width="480">
+<div class="conllu-parse">
+# visual-style 4 5 ref color:blue
+# visual-style 11 4 nsubj color:blue
+1  I         _ PRON  _ _ 2 nsubj _ _
+2  saw       _ VERB  _ _ 0 root _ _
+3  the       _ DET   _ _ 4 det _ _
+4  book      _ NOUN  _ _ 2 obj _ _
+5  which which PRON  WDT PronType=Rel 4 ref _ _
+6  you       _ PRON  _ _ 7 nsubj 9:nsubj:xsubj _
+7  pretended _ VERB  _ _ 4 acl:relcl _ _
+8  to        _ PART  _ _ 9 mark _ _
+9  think     _ VERB  _ _ 7 xcomp _ _
+10 was       _ AUX   _ _ 11 cop _ _
+11 boring    _ ADJ   _ _ 9 ccomp _ _
+12 .         _ PUNCT _ _ 2 punct _ _
+</div>
+</td></tr></tbody>
+</table>
+
 Semantically, relative clauses may be **restrictive** (helping to narrow a set of referents), or **ascriptive** (adding detail about a referent that has already been identified):
 
 * Restrictive
-  * I rented the movie **which you bought** (as opposed to some other one).
+  * _I rented the movie <b>which you bought</b> (as opposed to some other one)._
 * Ascriptive
-  * I introduced myself to John, **who promptly forgot my name**.
-  * I rented the movie, **which you bought** (as opposed to renting).
-  * I tried to explain myself – **which was a bad idea**. [antecedent is a clause]
+  * _I introduced myself to John, <b>who promptly forgot my name</b>._
+  * _I rented the movie, <b>which you bought</b> (as opposed to renting)._
 
 The restrictive/ascriptive distinction does not affect the UD analysis: all RCs are analyzed with the `acl:relcl` relation.
+
+The antecedent of an ascriptive relative clause may be even a clause (rather than a nominal):
+
+  * _I tried to explain myself – <b>which was a bad idea</b>._ (antecedent is a clause)
 
 <span style='color:red; font-weight:bold'>DZ: Did we reach a consensus about clausal antecedents?
 There is the fundamental issue that `acl` must depend on a nominal. I would prefer something like
 `parataxis:relcl` or `advcl:relcl` over `acl:relcl` in these cases.</span>
-
-???, even if the antecedent is clausal:
 
 ~~~ sdparse
 I tried to explain myself – which was a bad idea
