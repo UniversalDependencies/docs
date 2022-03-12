@@ -42,45 +42,49 @@ to indicate the role from which the head was “extracted”. This is shown on t
 </td></tr></tbody>
 </table>
 
-The RC may begin with a **relativizer** (*that*, *which*, *who*, or another WH-word); in some contexts (e.g., object relativization) the relativizer is optional.
-See [PronType]()`=Rel`.
-The relativizer can be understood as an anaphor whose antecedent is the head of the relative clause.
+The RC may contain a **relativizer** (relative pronoun _that_, _who_, relative determiner _which_, _whose_ etc.; see [PronType]()`=Rel`).
+The relativizer can be understood as an anaphor whose antecedent is the head of the relative clause. Not all languages use a relativizer.
+Even in English, the relativizer is optional in some contexts, as in the object relativization in the examples above.
 
 Basic UD (left) analyzes the relativizer, if present, as filling a role in the RC.
 Specifically:
-- Pronominal relativizers (*that*, *which*, *who*, *what*, etc.) fill roles such as subject, object, or oblique.[^1]
-- WH-adverb relativizers (*where*, *when*, *why*, *how*, etc.) attach as [advmod]() within the RC.
-- The possessive pronominal relativizer *whose* may occur within a subject, object, or oblique phrase.
 
-[^1]: *CGEL* considers *that* at the beginning of a relative clause to be a subordinator. UD adopts the traditional analysis of *that* as a relative pronoun roughly interchangeable with *which* etc.
+* Pronominal relativizers (_that_, _which_, _who_, _what_, etc.) are nominals and fill roles such as subject, object, or oblique.[^1]
+* Adverbial relativizers (_where_, _when_, _why_, _how_, etc.) attach as [advmod]() within the RC.
+* The possessive pronominal relativizer _(whose)_ modifies a nominal (subject, object, oblique modifier) within the RC the same way
+  as a normal possessive modifier would, i.e., depending on language, it can be [nmod:poss](), [det:poss](), [nmod]() or [det]().
 
-In the Enhanced Dependencies layer (right), the relativizer instead attaches to its antecedent via the `ref` relation (as the antecedent is directly connected to a role in the RC).
+[^1]: *The Cambridge Grammar of the English Language* (Huddleston and Pullum, 2002) considers _that_ at the beginning of a relative clause
+to be a subordinator. UD adopts the traditional analysis of _that_ as a relative pronoun roughly interchangeable with _which_ etc.
+
+In Enhanced UD (right), the relativizer instead attaches to its antecedent via the [ref]() relation
+(as the antecedent is directly connected to a role in the RC).
 
 <table id="rc-example3"> <!--I saw the book which you bought . -->
 <tbody><tr><td width="600">
 <div class="conllu-parse">
 # visual-style 7 5 obj color:orange
-1 I      _ _ _ _ 0 _ _ _
-2 saw    _ _ _ _ 0 _ _ _
-3 the    _ _ _ _ 0 _ _ _
+1 I      _ _ _ _ 2 nsubj _ _
+2 saw    _ _ _ _ 0 root _ _
+3 the    _ _ _ _ 4 det _ _
 4 book   _ _ _ _ 2 obj _ _
 5 which  which PRON WDT PronType=Rel 7 obj   _ _
 6 you    _ _ _ _ 7 nsubj   _ _
 7 bought _ _ _ _ 4 acl:relcl _ _
-8 .      _ _ _ _ 0 _ _ _
+8 .      _ _ _ _ 2 punct _ _
 </div>
 </td><td width="600">
 <div class="conllu-parse">
 # visual-style 4 5 ref color:blue
 # visual-style 7 4 obj color:blue
-1 I      _ _ _ _ 0 _ _ _
-2 saw    _ _ _ _ 0 _ _ _
-3 the    _ _ _ _ 0 _ _ _
+1 I      _ _ _ _ 2 nsubj _ _
+2 saw    _ _ _ _ 0 root _ _
+3 the    _ _ _ _ 4 det _ _
 4 book   _ _ _ _ 2 obj 7:obj _
 5 which  which PRON WDT PronType=Rel 4 ref   _ _
 6 you    _ _ _ _ 7 nsubj   _ _
 7 bought _ _ _ _ 4 acl:relcl _ _
-8 .      _ _ _ _ 0 _ _ _
+8 .      _ _ _ _ 2 punct _ _
 </div>
 </td></tr></tbody>
 </table>
@@ -508,5 +512,6 @@ acl:relcl(progress, make)
 - She was telling me how wrong I was about how another dress that I loved compared to one of her dresses. [issue](https://github.com/UniversalDependencies/UD_English-EWT/issues/78)
 - if we lose Dean (which we will if we don't pay 65k + 10k) [issue](https://github.com/UniversalDependencies/UD_English-EWT/issues/203)
 
+## Notes
 
 <!-- Interlanguage links updated St lis 3 20:58:33 CET 2021 -->
