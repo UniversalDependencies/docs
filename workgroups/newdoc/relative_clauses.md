@@ -246,17 +246,48 @@ The restrictive/ascriptive distinction does not affect the UD analysis: all RCs 
 
 The antecedent of an ascriptive relative clause may be even a clause (rather than a nominal):
 
-  * _I tried to explain myself – <b>which was a bad idea</b>._ (antecedent is a clause)
+  * _I tried to explain myself – <b>which was a bad idea</b>._
 
 <span style='color:red; font-weight:bold'>DZ: Did we reach a consensus about clausal antecedents?
 There is the fundamental issue that `acl` must depend on a nominal. I would prefer something like
 `parataxis:relcl` or `advcl:relcl` over `acl:relcl` in these cases.</span>
 
-~~~ sdparse
-I tried to explain myself – which was a bad idea
-acl:relcl(tried, idea)
-nsubj(idea, which)
-~~~
+<table> <!--I tried to explain myself – which was a bad idea-->
+<tbody><tr><td width="480">
+<div class="conllu-parse">
+# visual-style 11 7 nsubj color:orange
+1  I         _ PRON  _ _ 2 nsubj _ _
+2  tried     _ VERB  _ _ 0 root _ _
+3  to        _ PART  _ _ 4 mark _ _
+4  explain   _ NOUN  _ _ 2 xcomp _ _
+5  myself    _ PRON  _ _ 4 obj _ _
+6  –         _ PUNCT _ _ 11 punct _ _
+7  which which PRON  WDT PronType=Rel 11 nsubj _ _
+8  was       _ AUX   _ _ 11 cop _ _
+9  a         _ DET   _ _ 11 det _ _
+10 bad       _ ADJ   _ _ 11 amod _ _
+11 idea      _ NOUN  _ _ 2 parataxis:relcl _ _
+12 .         _ PUNCT _ _ 2 punct _ _
+</div>
+</td><td width="480">
+<div class="conllu-parse">
+# visual-style 2 7 ref color:blue
+# visual-style 11 2 csubj color:blue
+1  I         _ PRON  _ _ 2 nsubj 4:nsubj:xsubj _
+2  tried     _ VERB  _ _ 0 root 11:csubj _
+3  to        _ PART  _ _ 4 mark _ _
+4  explain   _ NOUN  _ _ 2 xcomp _ _
+5  myself    _ PRON  _ _ 4 obj _ _
+6  –         _ PUNCT _ _ 11 punct _ _
+7  which which PRON  WDT PronType=Rel 2 ref _ _
+8  was       _ AUX   _ _ 11 cop _ _
+9  a         _ DET   _ _ 11 det _ _
+10 bad       _ ADJ   _ _ 11 amod _ _
+11 idea      _ NOUN  _ _ 2 parataxis:relcl _ _
+12 .         _ PUNCT _ _ 2 punct _ _
+</div>
+</td></tr></tbody>
+</table>
 
 
 
