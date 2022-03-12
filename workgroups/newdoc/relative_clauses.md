@@ -134,6 +134,44 @@ In Enhanced UD (right), the relativizer instead attaches to its antecedent via t
 </td></tr></tbody>
 </table>
 
+If the relative clause has a nominal predicate, the relative pronoun may occupy the head position
+within the clause. In such cases no enhanced relation should be added from its parent to the
+head noun (because they are the same node). We should only add a `nsubj` relation from the antecedent
+to the `nsubj` of the relative clause (and remove the corresponding `nsubj` relation between the
+relative pronoun and the subject).
+
+<!-- https://github.com/UniversalDependencies/docs/issues/531 -->
+<table> <!--He became chairman, which he still is-->
+<tbody><tr><td width="600">
+<div class="conllu-parse">
+# visual-style 5 6 nsubj color:orange
+1 He       he       PRON  _ Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs 2 nsubj _ _
+2 became   become   VERB  _ Mood=Ind|Tense=Past|VerbForm=Fin 0 root _ _
+3 chairman chairman NOUN  _ Number=Sing 2 xcomp _ SpaceAfter=No
+4 ,        ,        PUNCT _ _ 5 punct _ _
+5 which    which    PRON  _ PronType=Rel 3 acl:relcl _ _
+6 he       he       PRON  _ Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs 5 nsubj _ _
+7 still    still    ADV   _ _ 5 advmod _ _
+8 is       be       AUX   _ Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin 5 cop _ SpaceAfter=No
+9 .        .        PUNCT _ _ 2 punct _ _
+</div>
+</td><td width="600">
+<div class="conllu-parse">
+# visual-style 3 6 nsubj color:blue
+# visual-style 3 5 ref color:blue
+1 He       he       PRON  _ Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs 2 nsubj _ _
+2 became   become   VERB  _ Mood=Ind|Tense=Past|VerbForm=Fin 0 root _ _
+3 chairman chairman NOUN  _ Number=Sing 2 xcomp _ SpaceAfter=No
+4 ,        ,        PUNCT _ _ 5 punct _ _
+5 which    which    PRON  _ PronType=Rel 3 acl:relcl 3:ref _
+6 he       he       PRON  _ Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs 3 nsubj _ _
+7 still    still    ADV   _ _ 5 advmod _ _
+8 is       be       AUX   _ Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin 5 cop _ SpaceAfter=No
+9 .        .        PUNCT _ _ 2 punct _ _
+</div>
+</td></tr></tbody>
+</table>
+
 A relative clause with no relativizer, like (1), is called a **reduced relative clause**. One with a relativizer, like (3), is called a **nonreduced relative clause**.
 
 Basic UD is shown for the rest of the examples below.
