@@ -32,5 +32,4 @@ udver: '2'
   * [MISC attributes](misc.html)
 * Incubator for [Construction-Oriented Documentation](/workgroups/newdoc/index.html) (it will be moved here when it is mature enough)
 
-This is the online documentation of UD guidelines v2 (2016-12-01). For earlier versions, see
-[archived v1 guidelines](docsv1/) and [changes from v1 to v2](v2/summary.html).
+This is the online documentation of UD guidelines v2 (launched 2016-12-01 with subsequent revisions). For change history, see [Guidelines Changes](changes.html).
