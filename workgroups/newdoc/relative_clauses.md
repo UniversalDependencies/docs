@@ -159,7 +159,8 @@ relative pronoun and the subject).
 <div class="conllu-parse">
 # visual-style 3 6 nsubj color:blue
 # visual-style 3 5 ref color:blue
-1 He       he       PRON  _ Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs 2 nsubj _ _
+# visual-style 3 1 nsubj:xsubj color:blue
+1 He       he       PRON  _ Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs 2 nsubj 3:nsubj:xsubj _
 2 became   become   VERB  _ Mood=Ind|Tense=Past|VerbForm=Fin 0 root _ _
 3 chairman chairman NOUN  _ Number=Sing 2 xcomp _ SpaceAfter=No
 4 ,        ,        PUNCT _ _ 5 punct _ _
