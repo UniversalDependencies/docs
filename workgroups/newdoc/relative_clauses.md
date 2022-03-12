@@ -18,7 +18,7 @@ In the [enhanced dependency layer](/u/overview/enhanced-syntax.html), there is a
 to indicate the role from which the head was “extracted”. This is shown on the right.
 
 <table id="rc-example1"> <!--I saw the man you love . -->
-<tbody><tr><td width="600">
+<tbody><tr><td width="480">
 <div class="conllu-parse">
 1 I      _ _ _ _ 2 nsubj _ _
 2 saw    _ _ _ _ 0 root _ _
@@ -28,7 +28,7 @@ to indicate the role from which the head was “extracted”. This is shown on t
 6 love   _ _ _ _ 4 acl:relcl _ _
 7 .      _ _ _ _ 2 punct _ _
 </div>
-</td><td width="600">
+</td><td width="480">
 <div class="conllu-parse">
 # visual-style 6 4 obj color:blue
 1 I      _ _ _ _ 2 nsubj _ _
@@ -60,7 +60,7 @@ In Enhanced UD (right), the relativizer instead attaches to its antecedent via t
 (as the antecedent is directly connected to a role in the RC).
 
 <table id="rc-example3"> <!--I saw the book which you bought . -->
-<tbody><tr><td width="600">
+<tbody><tr><td width="480">
 <div class="conllu-parse">
 # visual-style 7 5 obj color:orange
 1 I      _ PRON  _ _ 2 nsubj _ _
@@ -72,7 +72,7 @@ In Enhanced UD (right), the relativizer instead attaches to its antecedent via t
 7 bought _ VERB  _ _ 4 acl:relcl _ _
 8 .      _ PUNCT _ _ 2 punct _ _
 </div>
-</td><td width="600">
+</td><td width="480">
 <div class="conllu-parse">
 # visual-style 4 5 ref color:blue
 # visual-style 7 4 obj color:blue
@@ -89,7 +89,7 @@ In Enhanced UD (right), the relativizer instead attaches to its antecedent via t
 </table>
 
 <table> <!--the episode where Monica sings-->
-<tbody><tr><td width="600">
+<tbody><tr><td width="480">
 <div class="conllu-parse">
 # visual-style 5 3 advmod color:orange
 1 the the DET DT Definite=Def|PronType=Art 2 det _ _
@@ -98,7 +98,7 @@ In Enhanced UD (right), the relativizer instead attaches to its antecedent via t
 4 Monica Monica PROPN NNP Number=Sing 5 nsubj _ _
 5 sings sing VERB VBZ Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin 2 acl:relcl _ _
 </div>
-</td><td width="600">
+</td><td width="480">
 <div class="conllu-parse">
 # visual-style 2 3 ref color:blue
 # visual-style 5 2 obl color:blue
@@ -112,7 +112,7 @@ In Enhanced UD (right), the relativizer instead attaches to its antecedent via t
 </table>
 
 <table> <!--the woman whose cat smells-->
-<tbody><tr><td width="600">
+<tbody><tr><td width="480">
 <div class="conllu-parse">
 # visual-style 4 3 nmod:poss color:orange
  1 the the DET DT Definite=Def|PronType=Art 2 det _ _
@@ -121,7 +121,7 @@ In Enhanced UD (right), the relativizer instead attaches to its antecedent via t
 4 cat cat NOUN NN Number=Sing 5 nsubj _ _
 5 smells smell VERB VBZ Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin 2 acl:relcl _ _
 </div>
-</td><td width="600">
+</td><td width="480">
 <div class="conllu-parse">
 # visual-style 2 3 ref color:blue
 # visual-style 4 2 nmod:poss color:blue
@@ -142,7 +142,7 @@ relative pronoun and the subject).
 
 <!-- https://github.com/UniversalDependencies/docs/issues/531 -->
 <table> <!--He became chairman, which he still is-->
-<tbody><tr><td width="600">
+<tbody><tr><td width="480">
 <div class="conllu-parse">
 # visual-style 5 6 nsubj color:orange
 1 He       he       PRON  _ Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs 2 nsubj _ _
@@ -155,7 +155,7 @@ relative pronoun and the subject).
 8 is       be       AUX   _ Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin 5 cop _ SpaceAfter=No
 9 .        .        PUNCT _ _ 2 punct _ _
 </div>
-</td><td width="600">
+</td><td width="480">
 <div class="conllu-parse">
 # visual-style 3 6 nsubj color:blue
 # visual-style 3 5 ref color:blue
