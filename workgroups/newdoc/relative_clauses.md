@@ -20,32 +20,27 @@ to indicate the role from which the head was “extracted”. This is shown on t
 <table id="rc-example1"> <!--I saw the man you love . -->
 <tbody><tr><td width="600">
 <div class="conllu-parse">
-1 I      _ _ _ _ 0 _ _ _
-2 saw    _ _ _ _ 0 _ _ _
-3 the    _ _ _ _ 0 _ _ _
+1 I      _ _ _ _ 2 nsubj _ _
+2 saw    _ _ _ _ 0 root _ _
+3 the    _ _ _ _ 4 det _ _
 4 man    _ _ _ _ 2 obj _ _
 5 you    _ _ _ _ 6 nsubj   _ _
 6 love   _ _ _ _ 4 acl:relcl _ _
-7 .      _ _ _ _ 0 _ _ _
+7 .      _ _ _ _ 2 punct _ _
 </div>
 </td><td width="600">
 <div class="conllu-parse">
 # visual-style 6 4 obj color:blue
-1 I      _ _ _ _ 0 _ _ _
-2 saw    _ _ _ _ 0 _ _ _
-3 the    _ _ _ _ 0 _ _ _
+1 I      _ _ _ _ 2 nsubj _ _
+2 saw    _ _ _ _ 0 root _ _
+3 the    _ _ _ _ 4 det _ _
 4 man    _ _ _ _ 2 obj 6:obj _
 5 you    _ _ _ _ 6 nsubj   _ _
 6 love   _ _ _ _ 4 acl:relcl _ _
-7 .      _ _ _ _ 0 _ _ _
+7 .      _ _ _ _ 2 punct _ _
 </div>
 </td></tr></tbody>
 </table>
-
-RCs are usually finite (*people who live in glass houses*), but may also be infinitival (*I found a house in which to live*, *I found a house (for my mother) to live in*). Gerund-participial and past-participial clauses (*people living in glass houses*, *students given high marks*) are never considered relative clauses.
-<!-- Infinitival RCs are discussed in CGEL pp. 1067-1068 -->
-
-☞ TODO: do we want to implement infinitival RCs? EWT only has them for free relatives. "nice people to meet here" is plain `acl(people,meet)`. Not marking it as an RC means there is no way to find that there is a gap/extracted element (cf. "the idea to meet").
 
 The RC may begin with a **relativizer** (*that*, *which*, *who*, or another WH-word); in some contexts (e.g., object relativization) the relativizer is optional.
 See [PronType]()`=Rel`.
@@ -143,6 +138,11 @@ Basic UD is shown for the rest of the examples below.
 
 
 ## Notable Properties
+
+☞ TODO: RCs are usually finite (*people who live in glass houses*), but may also be infinitival (*I found a house in which to live*, *I found a house (for my mother) to live in*). Gerund-participial and past-participial clauses (*people living in glass houses*, *students given high marks*) are never considered relative clauses.
+<!-- Infinitival RCs are discussed in CGEL pp. 1067-1068 -->
+
+☞ TODO: do we want to implement infinitival RCs? EWT only has them for free relatives. "nice people to meet here" is plain `acl(people,meet)`. Not marking it as an RC means there is no way to find that there is a gap/extracted element (cf. "the idea to meet").
 
 Relativization can create unbounded dependency—an element can be extracted from several levels of embedding:
 
