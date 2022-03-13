@@ -371,7 +371,7 @@ going to a nominative dependent is something we would not expect to see, given t
 
 ### Preposition Stranding
 
-In English, a preposition may be left “stranded” in the relative clause (its object corresponding to the parent of the RC):
+In English, a preposition may be left “stranded” in the relative clause (its noun corresponding to the parent of the RC):
 
 * _The house (that) you said you wanted to live <b>in</b> is for sale._
   * Non-RC paraphrase: _The house is on sale; you said you wanted to live <b>in</b> that house._
@@ -452,43 +452,115 @@ ellipsis).
 
 
 
-## RCs Versus Non-relative Modifier Clauses
+## Relative versus Non-relative Subordinate Clauses
 
-*When*, *where*, *why*, and *how* frequently introduce **adverbial clauses** ([advcl]()). They can also introduce non-relative **adnominal modifier clauses** ([acl]()) similarly providing time/place/manner information:
+### Interrogative Clauses
 
-~~~sdparse
-When you leave , be sure to let me know .
-advmod(leave, When)
-advcl(sure, leave)
-~~~
+In languages where the set of relativizers overlaps with interrogative words (such as the wh-words in English),
+some clauses may superficially look like relative clauses while they are in fact interrogative clauses (indirect
+questions). Such clauses are typically complements of verbs of saying or knowing _(I don't know who paid the bill),_
+but they may also depend on a similar nominal _(the question who paid the bill)._ In this
+latter case they are adnominal clauses ([acl]()) but not relative clauses. There is no coreference between
+_question_ and _who_ (cf. _the person who paid the bill,_ here _person_ and _who_ are coreferential and it is
+a relative clause).
 
-~~~sdparse
-The headlines when Nixon resigned were legendary .
-advmod(resigned, when)
-acl(headlines, resigned)
-~~~
+Language-specific guidelines must specify whether the wh-word is to be disambiguated between [PronType]()`=Int`
+and `Rel`, or it can be `PronType=Int,Rel` everywhere and the disambiguation is only at the syntactic level
+between `acl` and `acl:relcl`.
 
-☞ TODO: the above (non-relative WH words) would be SCONJ/`mark` not ADV/`advmod` in EWT. Also, relativizers are inconsistent in EWT.
-<https://github.com/UniversalDependencies/UD_English-EWT/issues/88>, <http://match.grew.fr/?corpus=UD_English-EWT@dev&custom=61bfec493c0d3&clustering=W.upos>
+<table> <!--the question who paid the bill-->
+<tbody><tr><td>
+<div class="conllu-parse">
+# visual-style 6 4 obl color:orange
+1 the      the      DET   _ _ 2 det _ _
+2 question question NOUN  _ _ 0 root _ _
+3 who      who      PRON  _ _ 4 nsubj _ _
+4 paid     pay      VERB  _ _ 2 acl _ _
+5 the      the      DET   _ _ 6 det _ _
+6 bill     bill     NOUN  _ _ 4 obj _ _
+</div>
+</td></tr></tbody>
+</table>
 
-However, it should be considered a relative construction if the WH-adverb can be paraphrased by *in which* or similar, or if the head noun reifies the kind of relation (*the time when*, *the place where*, *the reason why*).
+### Adverbial Clauses
 
-~~~sdparse
-the time when the pizza exploded
-acl:relcl(time, exploded)
-advmod(exploded, when)
-~~~
+Pronominal adverbs such as _where_, _when_, _how_, _why_ frequently introduce **adverbial clauses** ([advcl]()).
+They can also introduce non-relative **adnominal modifier clauses** ([acl]()) similarly providing time/place/manner information.
+In the following example, _when_ is an interrogative/relative adverb (`PronType=Int,Rel`) but the adnominal clause
+it introduces is not relative because there is no coreference between _headlines_ and _when_ (but cf.
+_the times when Nixon resigned_, here it would be a relative clause).
 
-Some phrases are ambiguous. *The ceremony where/when we became citizens* can be interpreted as an RC if the bestowal of citizenship happened during the ceremony (*in which* interpretation[^2], thus `acl:relcl`).
-But *the ceremony when we became citizens* could be used to refer to a particular ceremony held around the time of becoming a citizen, as opposed to some other ceremony held at some other time; the modifier can be fronted as an `advmod` within the higher clause: *When we became citizens, the ceremony...*. This is the `acl` interpretation.
+<table> <!--the question who paid the bill-->
+<tbody><tr><td>
+<div class="conllu-parse">
+1 The       the       DET   _ _ 2 det _ _
+2 headlines headline  NOUN  _ _ 7 nsubj _ _
+3 when      when      ADV   _ _ 5 advmod _ _
+4 Nixon     Nixon     PROPN _ _ 5 nsubj _ _
+5 resigned  resign    VERB  _ _ 2 acl _ _
+6 were      be        AUX   _ _ 7 cop _ _
+7 legendary legendary ADJ   _ _ 0 root _ _
+8 .         .         PUNCT _ _ 7 punct _ _
+</div>
+</td></tr></tbody>
+</table>
 
-Illustrating the contrast with *where*:
-- The house where Kim grew up is on Elm Street: `acl:relcl`. Cf.:
-   * the house **in which** Kim grew up
-   * #Where Kim grew up, the house is on Elm Street.
-- The economy where Kim lives is struggling: probably `acl`, interpreted like *Where Kim lives, the economy is struggling.*
+In general, an adnominal phrase with a wh-adverb is considered a relative clause if the wh-adverb can be paraphrased
+by _in which_ or similar, or if the head noun reifies the kind of relation (_the time when_, _the place where_, _the reason why_).
 
-[^2]: Or, formally, *wherein*.
+<table> <!--I remember the time when Nixon resigned.-->
+<tbody><tr><td width="480">
+<div class="conllu-parse">
+# visual-style 7 5 advmod color:orange
+1 I        I        PRON  _ _ 2 nsubj _ _
+2 remember remember VERB  _ _ 0 root _ _
+3 the       the     DET   _ _ 4 det _ _
+4 time      time    NOUN  _ _ 2 obj _ _
+5 when      when    ADV   _ _ 7 advmod _ _
+6 Nixon     Nixon   PROPN _ _ 7 nsubj _ _
+7 resigned  resign  VERB  _ _ 4 acl:relcl _ _
+8 .         .       PUNCT _ _ 2 punct _ _
+</div>
+</td><td width="480">
+<div class="conllu-parse">
+# visual-style 4 5 ref color:blue
+# visual-style 7 4 obl color:blue
+1 I        I        PRON  _ _ 2 nsubj _ _
+2 remember remember VERB  _ _ 0 root _ _
+3 the       the     DET   _ _ 4 det _ _
+4 time      time    NOUN  _ _ 2 obj 7:obl _
+5 when      when    ADV   _ _ 4 ref _ _
+6 Nixon     Nixon   PROPN _ _ 7 nsubj _ _
+7 resigned  resign  VERB  _ _ 4 acl:relcl _ _
+8 .         .       PUNCT _ _ 2 punct _ _
+</div>
+</td></tr></tbody>
+</table>
+
+Note that the English word _when_ is ambiguous between an interrogative/relative adverb, and a subordinating
+conjunction introducing a conditional clause. In the former context it should be tagged [ADV]() `PronType=Int,Rel`,
+in the latter it should be tagged [SCONJ]().
+
+* _I don't know <b>when<tt>/ADV</tt></b> he comes._
+  * Adnominal: _the question <b>when<tt>/ADV</tt></b> does he come_
+  * Adnominal relative: _the moment <b>when<tt>/ADV</tt></b> he comes_
+* _You cannot swim <b>when<tt>/SCONJ</tt></b> the weather is like this._
+
+Other languages do not have this problem, as they use distinct words for the adverb and the subordinating conjunction:
+
+* [cs] _Nevím, <b>kdy<tt>/ADV</tt></b> přijde._ “I don't know when he comes.”
+  * Adnominal: [cs] _otázka, <b>kdy<tt>/ADV</tt></b> přijde_ “the question when does he come”
+  * Adnominal relative: [cs] _okamžik, <b>kdy<tt>/ADV</tt></b> přijde_ “the moment when he comes”
+* [cs] _Nemůžeš se koupat, <b>když<tt>/SCONJ</tt></b> je takovéhle počasí._ “You cannot swim when the weather is like this.”
+
+Some phrases are ambiguous. _The ceremony where/when we became citizens_ can be interpreted as an RC if the bestowal
+of citizenship happened during the ceremony (_in which_ interpretation[^2], thus `acl:relcl`).
+But _the ceremony when we became citizens_ could be used to refer to a particular ceremony held around the time
+of becoming a citizen, as opposed to some other ceremony held at some other time; the modifier can be fronted as
+an `advmod` within the higher clause: _When we became citizens, the ceremony..._. This is the `acl` interpretation.
+
+[^2]: Or, formally, _wherein_.
+
 
 
 ## Free Relatives
