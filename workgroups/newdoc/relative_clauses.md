@@ -650,7 +650,19 @@ demonstrative is driven by the requirements of the higher clause.
 _(Teď se budeme věnovat tomu, čeho se bojíš.)_
 Even when the demonstrative is omitted, the relative pronoun is considered a part of the relative
 clause. For example, in _Má, co si zaslouží_, the comma before the relativizer _co_ delimits the
-boundary between the higher and the lower clause.
+boundary between the higher and the lower clause. We could analyze it as an ellipsis of
+_Má to, co si zaslouží_. But it would mean that the relative clause would be promoted to the
+position of the elided demonstrative, it would get the [obj]() relation and there would be no
+trace of [acl:relcl](). In this example, both the elided _to_ and the present _co_ are in the
+accusative, so the main obstacle for giving it the English-like free relative analysis is the
+comma (in Czech obligatory marking of nested clause boundary). I suspect that it is no coincidence
+that both pronouns share the accusative case. If they had different cases, the ellipsis would be
+much less likely. Such examples are extremely rare but I have found one:
+_Lidé ničili (to), čeho se jim dostalo jako božího daru._ (Higher clause requires accusative,
+the nested clause requires genitive. The accusative _to_ is elided. The genitive form of _čeho_
+is evidence that it belongs to the nested, not to the higher clause.)
+Alternatively we could say about these examples that they are not elliptical, they are simply
+a complement clause [ccomp]() (that is actually the current conversion of the Czech data).
 
 ### Cyclic cases
 
