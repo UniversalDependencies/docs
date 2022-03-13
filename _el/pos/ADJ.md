@@ -25,6 +25,7 @@ for determiners and [NUM]() for cardinal numerals.
 - _ακατάληπτος_, "incomprehensible"
 - _πρώτος, δεύτερος, τρίτος_, "first, second, third"
 
+
 Nationalities are assigned the tag ADJ, e.g., _Έλληνας_  "Greek", _Ευρωπαίος_ / Evropeos "European", _Ασιάτης_/ Asiatis "Asian" etc
 
 Certain adjectives, which are assigned the tag [NOUN]() or [PROPN](), do not form comparatives (of course, there are adjectives that do not allow for comparatives, such as *νεκρός* / nekros "dead"). These include:
@@ -36,6 +37,7 @@ Certain proper nouns PROPN are directly related with adjectives:
 -	Names of days such as *Τρίτη* / Triti "Tuesday
 -	Public bodies such as *Δημόσιο* / Dimosio "Public Domain", *Ναυτικό* / Naftiko "Navy" etc.
 	
+Ancient Greek adverbs may be used as adjectives in Modern Greek: *νυν* / *nin* "current", *τέως* / *teos* "past" as well as pieces of phrases received from older forms of the language: *καθωσπρέπει* / *kathosprepi* "proper" (these are originally two words written as one word today).
 Non-periphrastic comparative and superlative degrees (el-feat/Degree) of Greek adjectives are formed with a small set of suffixes or they have irregular forms:
 -	(regular) *ταχύς – ταχύτερος – ταχύτατος* / tachis - tachiteros - tachitatos "fast - faster -fastest"
 -	(regular) *ακριβής – ακριβέστερος – ακριβέστατος* / akrivis - akrivesteros - akrivestatos "exact - more extact - most exact"
@@ -50,6 +52,21 @@ Greek adjectives inflect for
 [el-feat/Number]() _(μεγάλος – μεγάλοι)_ and
 [el-feat/Case]() _(μεγάλοι – μεγάλων – μεγάλους)_.
 
+
+### Examples
+
+*	*μεγάλος* / *meghalos* "big", *πράσινος* / *prasinos* "green", *ακατάληπτος* / *akataliptos* "incomprehensible"
+*	*πρώτος* / *protos* "first", *δεύτερος* / *defteros* "second", *τρίτος* / *tritos*  "third"
+*	(it is also assigned the tag [PRON]()):  *ίδιος* / *idhios* "same"
+*	Ancient Greek adverbs may be used as adjectives in Modern Greek: *νυν* / *nin* "current", *τέως* / *teos* "past" 
+*	pieces of phrases received from older forms of the language: *καθωσπρέπει* / *kathosprepi* "proper"
+
+### References
+
+Κλαίρης, Χρήστος  & Γεώργιος Μπαμπινώτης. 2001. *Γραμματική της Νέας Ελληνικής* Τόμος Γ’. 2η έκδοση. Αθήνα: Ελληνικά Γράμματα. 
+
+Τζάρτζανος, Αχιλλέας, 2002. *Νεοελληνική Σύνταξις της Κοινής Δημοτικής*. Αθήνα: Εκδόσεις Κυριακίδη. σελ. 225.
+https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/
 
 
 
