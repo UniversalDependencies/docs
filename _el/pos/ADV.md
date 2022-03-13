@@ -8,16 +8,16 @@ shortdef: 'adverb'
 
 ### Definition
 
-Adverbs are words that typically modify verbs for place, time, manner or quantity. They may also modify adjectives and other adverbs, as in *πολύ έξυπνος* / *poli eksipnos* `very clever', *πολύ αργά* / *poli arga* `very late.ADV' respectively.
+Adverbs are words that typically modify verbs for place, time, manner or quantity. They may also modify adjectives and other adverbs, as in *πολύ έξυπνος* / *poli eksipnos* ‘very clever', *πολύ αργά* / *poli arga* ‘very late.ADV' respectively.
 
-Some adverbs seem to form phrasal verbs (rare phenomenon in Greek),  such as *βάζω μπρος/μπροστά* / *vazo bros/brosta* `to start an engine/to start operating'. Although they function as particles in a multiword expression, they are assigned the tag ADV and the multiword status of the expression is accounted for in syntax.
+Some adverbs seem to form phrasal verbs (rare phenomenon in Greek),  such as *βάζω μπρος/μπροστά* / *vazo bros/brosta* ‘to start an engine/to start operating'. Although they function as particles in a multiword expression, they are assigned the tag ADV and the multiword status of the expression is accounted for in syntax.
 
 There are:
-- interrogative adverbs ([PronType=Int]()): *πού* / *pou* `where', *πότε* / *pote* `when', *πώς* / *pos* `how', *γιατί* / *giati* `why'
-- demonstrative adverbs ([PronType=Dem]()): *εδώ* / *edo* `here', *εκεί* / *eki* `there', *τώρα* / *tora* `now', *τότε* / *tote* `then'
+- interrogative adverbs ([PronType=Int]()): *πού* / *pou* ‘where', *πότε* / *pote* ‘when', *πώς* / *pos* ‘how', *γιατί* / *giati* ‘why'
+- demonstrative adverbs ([PronType=Dem]()): *εδώ* / *edo* ‘here', *εκεί* / *eki* `there', *τώρα* / *tora* ‘now', *τότε* / *tote* ‘then'
 - indefinite adverbs ([PronType=Ind]()): *κάπου* / *kapou* `somewhere', *κάποτε* / *kapote* `sometime', *οπουδήποτε* / *opoudipote* `anywhere', *οποτεδήποτε* / *opotedipote* `anytime'
-- totality adverbs ([PronType=Tot]()): *παντού* / *pantou* `everywhere', *πάντα/πάντοτε* / *panta/pantote* `always'
-- negative adverbs ([PronType=Neg]()): *πουθενά* / *pouthena* `nowhere', *ποτέ* / *pote* `never'.
+- totality adverbs ([PronType=Tot]()): *παντού* / *pantou* ‘everywhere', *πάντα/πάντοτε* / *panta/pantote* ‘always'
+- negative adverbs ([PronType=Neg]()): *πουθενά* / *pouthena* ‘nowhere', *ποτέ* / *pote* ‘never'.
 
 Modern Greek uses complex structures consisting of an adverb and an adposition: *(μέσα σε)* (lit: in to) μέσα: ADV σε: ADP, *(ενάντια σε)* (lit: contrary to) ενάντια: ADV σε: ADP.
 
