@@ -8,23 +8,29 @@ shortdef: 'adverb'
 
 ### Definition
 
-Adverbs are words that typically modify verbs for place, time, manner or quantity. They may also modify adjectives and other adverbs, as in *πολύ έξυπνος* / *poli eksipnos* "very clever", *πολύ αργά* / *poli arga* "very late.ADV" respectively.
+Adverbs are words that typically modify verbs for place, time, manner or quantity. They may also modify adjectives and other adverbs, as in *πολύ έξυπνος* / *poli eksipnos* ‘very clever', *πολύ αργά* / *poli arga* ‘very late.ADV' respectively.
 
-Some adverbs seem to form phrasal verbs (rare phenomenon in Greek),  such as *βάζω μπρος/μπροστά* / *vazo bros/brosta* "to start an engine/to start operating". Although they function as particles in a multiword expression, they are assigned the tag ADV and the multiword status of the expression is accounted for in syntax.
+Some adverbs seem to form phrasal verbs (rare phenomenon in Greek),  such as *βάζω μπρος/μπροστά* / *vazo bros/brosta* ‘to start an engine/to start operating'. Although they function as particles in a multiword expression, they are assigned the tag ADV and the multiword status of the expression is accounted for in syntax.
 
 There are:
-- interrogative adverbs ([PronType=Int]()): *πού* / *pou* where, *πότε* / *pote* when, *πώς* / *pos* how, *γιατί* / *yiati* why
-- demonstrative adverbs ([PronType=Dem]()): *εδώ* / *edho* here, *εκεί* / *eki* there, *τώρα* / *tora* now, *τότε* / *tote* then
-- indefinite adverbs ([PronType=Ind]()): *κάπου* / *kapou* somewhere, *κάποτε* / *kapote* sometime, *οπουδήποτε* / *opoudipote* anywhere, *οποτεδήποτε* / *opotedipote* anytime
-- totality adverbs ([PronType=Tot]()): *παντού* / *pantou* everywhere, *πάντα/πάντοτε* / *panta/pantote* always
-- negative adverbs ([PronType=Neg]()): *πουθενά* / *pouthena* nowhere, *ποτέ* / *pote* never.
+- interrogative adverbs ([PronType=Int]()): *πού* / *pou* ‘where', *πότε* / *pote* ‘when', *πώς* / *pos* ‘how', *γιατί* / *giati* ‘why'
+- demonstrative adverbs ([PronType=Dem]()): *εδώ* / *edo* ‘here', *εκεί* / *eki* `there', *τώρα* / *tora* ‘now', *τότε* / *tote* ‘then'
+- indefinite adverbs ([PronType=Ind]()): *κάπου* / *kapou* ‘somewhere', *κάποτε* / *kapote* ‘sometime', *οπουδήποτε* / *opoudipote* ‘anywhere', *οποτεδήποτε* / *opotedipote* ‘anytime'
+- totality adverbs ([PronType=Tot]()): *παντού* / *pantou* ‘everywhere', *πάντα/πάντοτε* / *panta/pantote* ‘always'
+- negative adverbs ([PronType=Neg]()): *πουθενά* / *pouthena* ‘nowhere', *ποτέ* / *pote* ‘never'.
+
+Modern Greek uses complex structures consisting of an adverb and an adposition: *(μέσα σε)* (lit: in to) μέσα: ADV σε: ADP, *(ενάντια σε)* (lit: contrary to) ενάντια: ADV σε: ADP.
+
+*μετά* and *εντός* may appear with a noun in the genitive case: the first denotes accompaniment, e.g.,  *μετά ληστείας* / meta listias ‘together with a robbery' while both are structures inherited from older versions of the language, e.g. *εντός δευτερολέπτων* / entos defterolepton ‘within minutes'. In all these cases *μετά* and *εντός* are assigned the tag [ADV]().
 
 ### Examples
--	locative adverbs: *απέξω* / *apekso* ‘outside’, *εδώ* / *edho*  ‘here’, *εκεί* / *eki* ‘there’, *πάνω* / *pano* ‘up’, *κάτω* / *kato* ‘down’, *δεξιά* / *dheksia* ‘right’, *αριστερά* / *aristera* ‘left’, *κάπου* / *kapou* ‘somewhere’, *παντού* / *pantou* ‘everywhere’, *πουθενά* / *pouthena* ‘nowhere’, *πού* / *pou* ‘where’
+-	locative adverbs: *απέξω* / *apekso* ‘outside’, *εδώ* / *edo*  ‘here’, *εκεί* / *eki* ‘there’, *πάνω* / *pano* ‘up’, *κάτω* / *kato* ‘down’, *δεξιά* / *deksia* ‘right’, *αριστερά* / *aristera* ‘left’, *κάπου* / *kapou* ‘somewhere’, *παντού* / *pantou* ‘everywhere’, *πουθενά* / *pouthena* ‘nowhere’, *πού* / *pou* ‘where’
 -	manner adverbs: *ακριβώς* / *akrivos* ‘precisely’, *γιατί* / *yiati* ‘why’  (when it is on its own/it introduces direct questions), *καλά* / *kala* ‘good/fine’, *κατανάγκη* / *katanagki* ‘necessarily’, *πώς* / *pos* ‘how’
--	adverbs ending in *-όντας/ώντας* / *-ontas/-ontas*: *λέγοντας* / *leyontas* ‘by saying’, *ρωτώντας* / *rotontas* ‘by asking’
+-	adverbs ending in *-όντας/ώντας* / *-ontas/-ontas*: *λέγοντας* / *legontas* ‘by saying’, *ρωτώντας* / *rotontas* ‘by asking’
 -	temporal adverbs: *αύριο* / *avrio* ‘tomorrow’, *κάποτε* / *kapote* ‘sometime’, *καταρχήν* / *katarchin* ‘first of all’, *πάντα* / *panta* ‘always’, *πέρσυ* / *persi* ‘last year’, *πότε* / *pote* ‘when’, *ποτέ* / *pote* ‘never’, *σήμερα* / *simera* ‘today’, *τότε* / *tote* ‘then’, *τώρα* / *tora* ‘now’, *χθες* / *chthes* ‘yesterday’
--	quantity adverbs: *άπαξ* / *apaks* ‘once’, *καθόλου* / *katholou* ‘at all’, *λίγο* / *liyo* ‘a little’, *μόνο* / *mono* ‘only’, *τόσο* / *toso* ‘so’
+-	quantity adverbs: *άπαξ* / *apaks* ‘once’, *καθόλου* / *katholou* ‘at all’, *λίγο* / *ligo* ‘a little’, *μόνο* / *mono* ‘only’, *τόσο* / *toso* ‘so’
+
+
 
 ### References
 
