@@ -680,14 +680,6 @@ _Koho chleba jíš, toho píseň zpívej._ “Sing the song of those whose bread
 Relative clauses also occur in the analysis of cleft constructions. In languages that have free relatives,
 cleft constructions may have them, too.
 
-~~~sdparse
--ROOT- John is who we want to help .
-root(-ROOT-, who)
-nsubj(who, John)
-acl:relcl(who, want)
-cop(who, is)
-~~~
-
 <table> <!--John is who we want to help.-->
 <tbody><tr><td width="480">
 <div class="conllu-parse">
