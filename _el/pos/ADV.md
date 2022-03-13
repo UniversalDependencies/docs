@@ -15,14 +15,13 @@ Some adverbs seem to form phrasal verbs (rare phenomenon in Greek),  such as *β
 There are:
 - interrogative adverbs ([PronType=Int]()): *πού* / *pou* ‘where', *πότε* / *pote* ‘when', *πώς* / *pos* ‘how', *γιατί* / *giati* ‘why'
 - demonstrative adverbs ([PronType=Dem]()): *εδώ* / *edo* ‘here', *εκεί* / *eki* `there', *τώρα* / *tora* ‘now', *τότε* / *tote* ‘then'
-- indefinite adverbs ([PronType=Ind]()): *κάπου* / *kapou* `somewhere', *κάποτε* / *kapote* `sometime', *οπουδήποτε* / *opoudipote* `anywhere', *οποτεδήποτε* / *opotedipote* `anytime'
+- indefinite adverbs ([PronType=Ind]()): *κάπου* / *kapou* ‘somewhere', *κάποτε* / *kapote* ‘sometime', *οπουδήποτε* / *opoudipote* ‘anywhere', *οποτεδήποτε* / *opotedipote* ‘anytime'
 - totality adverbs ([PronType=Tot]()): *παντού* / *pantou* ‘everywhere', *πάντα/πάντοτε* / *panta/pantote* ‘always'
 - negative adverbs ([PronType=Neg]()): *πουθενά* / *pouthena* ‘nowhere', *ποτέ* / *pote* ‘never'.
 
 Modern Greek uses complex structures consisting of an adverb and an adposition: *(μέσα σε)* (lit: in to) μέσα: ADV σε: ADP, *(ενάντια σε)* (lit: contrary to) ενάντια: ADV σε: ADP.
 
--		(μέσα σε) μέσα: ADV σε: ADP, (ενάντια σε) ενάντια: ADV σε: ADP, μέσα:ADV σου
-●	{μετά, εντός}: ADP + ΝΟUN[Case=Gen], e .g., μετά ληστείας, εντός δευτερολέπτων and in all other environments μετά, εντός are tagged [ADV]()
+*μετά* and *εντός* may appear with a noun in the genitive case: the first denotes accompaniment, e.g.,  *μετά ληστείας* / meta listias ‘together with a robbery' while both are structures inherited from older versions of the language, e.g. *εντός δευτερολέπτων* / entos defterolepton ‘within minutes'. In all these cases *μετά* and *εντός* are assigned the tag [ADV]().
 
 ### Examples
 -	locative adverbs: *απέξω* / *apekso* ‘outside’, *εδώ* / *edo*  ‘here’, *εκεί* / *eki* ‘there’, *πάνω* / *pano* ‘up’, *κάτω* / *kato* ‘down’, *δεξιά* / *deksia* ‘right’, *αριστερά* / *aristera* ‘left’, *κάπου* / *kapou* ‘somewhere’, *παντού* / *pantou* ‘everywhere’, *πουθενά* / *pouthena* ‘nowhere’, *πού* / *pou* ‘where’
