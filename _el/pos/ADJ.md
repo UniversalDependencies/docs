@@ -33,19 +33,18 @@ Certain adjectives, which are assigned the tag [NOUN]() or [PROPN](), do not for
 -	Professions such as *αστυνομικός* / astinomikos "policeman", *στρατιωτικός* / stratiotikos "military officer". When the same words cooccur with another noun, such as *αστυνομικός σκύλος* / astinomikos skilos "police dog", they are assigned the tag ADJ.
 -	*ακουστικό* / akoustiko "head phone/hearing aid", *κινητό* / kinito "mobile phone", *ενδότερα* / endotera "inner parts", *πρωϊνό* / proino "breakfast", *μεσημεριανό* / mesimeriano "lunch", *βραδινό* / vradino "dinner", *λαδερά* / ladera "vegetable dishes cooked in olive oil", etc.
 
-Certain proper nouns PROPN are directly related with adjectives:
+Certain proper nouns [PROPN]() are directly related with adjectives:
 -	Names of days such as *Τρίτη* / Triti "Tuesday
 -	Public bodies such as *Δημόσιο* / Dimosio "Public Domain", *Ναυτικό* / Naftiko "Navy" etc.
 	
-Ancient Greek adverbs may be used as adjectives in Modern Greek: *νυν* / *nin* "current", *τέως* / *teos* "past" as well as pieces of phrases received from older forms of the language: *καθωσπρέπει* / *kathosprepi* "proper" (these are originally two words written as one word today).
+Ancient Greek adverbs are used as adjectives in Modern Greek: *νυν* / *nin* "current", *τέως* / *teos* "past"; also, pieces of phrases received from older forms of the language: *καθωσπρέπει* / *kathosprepi* "proper" (these are originally two words written as one word nowadays).
+
 Non-periphrastic comparative and superlative degrees (el-feat/Degree) of Greek adjectives are formed with a small set of suffixes or they have irregular forms:
 -	(regular) *ταχύς – ταχύτερος – ταχύτατος* / tachis - tachiteros - tachitatos "fast - faster -fastest"
 -	(regular) *ακριβής – ακριβέστερος – ακριβέστατος* / akrivis - akrivesteros - akrivestatos "exact - more extact - most exact"
 -	(irregular) *μεγάλος – μεγαλύτερος – μέγιστος* / megalos - megaliteros - megistos "big - bigger - biggest"
 
-Participles ending in *-μένος*  and *-θείς* are assigned the tag VERB.
-
-VERB	Aspect=...|Case=...|Gender=...|Number=...VerbForm=Part|Voice=Αct or Pass 	
+Participles ending in *-μένος*  and *-θείς* are assigned the tag VERB: VERB Aspect=...|Case=...|Gender=...|Number=...VerbForm=Part|Voice=Αct or Pass 	
 
 Greek adjectives inflect for
 [el-feat/Gender]() _(μεγάλος – μεγάλη – μεγάλο)_ “big”,
@@ -55,11 +54,10 @@ Greek adjectives inflect for
 
 ### Examples
 
-*	*μεγάλος* / *meghalos* "big", *πράσινος* / *prasinos* "green", *ακατάληπτος* / *akataliptos* "incomprehensible"
+*	*μεγάλος* / *megalos* "big", *πράσινος* / *prasinos* "green", *ακατάληπτος* / *akataliptos* "incomprehensible"
 *	*πρώτος* / *protos* "first", *δεύτερος* / *defteros* "second", *τρίτος* / *tritos*  "third"
 *	(it is also assigned the tag [PRON]()):  *ίδιος* / *idhios* "same"
-*	Ancient Greek adverbs may be used as adjectives in Modern Greek: *νυν* / *nin* "current", *τέως* / *teos* "past" 
-*	pieces of phrases received from older forms of the language: *καθωσπρέπει* / *kathosprepi* "proper"
+
 
 ### References
 
