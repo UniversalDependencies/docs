@@ -468,8 +468,7 @@ Language-specific guidelines must specify whether the wh-word is to be disambigu
 and `Rel`, or it can be `PronType=Int,Rel` everywhere and the disambiguation is only at the syntactic level
 between `acl` and `acl:relcl`.
 
-<table> <!--the question who paid the bill-->
-<tbody><tr><td>
+<!--the question who paid the bill-->
 <div class="conllu-parse">
 # visual-style 6 4 obl color:orange
 1 the      the      DET   _ _ 2 det _ _
@@ -479,8 +478,6 @@ between `acl` and `acl:relcl`.
 5 the      the      DET   _ _ 6 det _ _
 6 bill     bill     NOUN  _ _ 4 obj _ _
 </div>
-</td></tr></tbody>
-</table>
 
 ### Adverbial Clauses
 
@@ -490,8 +487,7 @@ In the following example, _when_ is an interrogative/relative adverb (`PronType=
 it introduces is not relative because there is no coreference between _headlines_ and _when_ (but cf.
 _the times when Nixon resigned_, here it would be a relative clause).
 
-<table> <!--the question who paid the bill-->
-<tbody><tr><td>
+<!--The headlines when Nixon resigned were legendary.-->
 <div class="conllu-parse">
 1 The       the       DET   _ _ 2 det _ _
 2 headlines headline  NOUN  _ _ 7 nsubj _ _
@@ -502,8 +498,6 @@ _the times when Nixon resigned_, here it would be a relative clause).
 7 legendary legendary ADJ   _ _ 0 root _ _
 8 .         .         PUNCT _ _ 7 punct _ _
 </div>
-</td></tr></tbody>
-</table>
 
 In general, an adnominal phrase with a wh-adverb is considered a relative clause if the wh-adverb can be paraphrased
 by _in which_ or similar, or if the head noun reifies the kind of relation (_the time when_, _the place where_, _the reason why_).
