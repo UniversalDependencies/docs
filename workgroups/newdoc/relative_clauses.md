@@ -638,125 +638,19 @@ of the relative clause and the modified nominal will still be added.
 </td></tr></tbody>
 </table>
 
-~~~sdparse
-You can go where you want and eat what you want .
-advmod(go, where)
-acl:relcl(where, want-6)
-obj(eat, what)
-acl:relcl(what, want-11)
-~~~
+<span style='color:red; font-weight:bold'>DZ: In the above example, we have once again the problem
+that a relative clause should not be a subtype of `acl` because it does not modify a nominal. Here
+it modifies an adverb _(where)_, hence I went with `advcl:relcl`.</span>
 
-~~~sdparse
-What money we have left will go to charity
-det(money, What)
-acl:relcl(money, have)
-nsubj(go, money)
-~~~
-
-~~~sdparse
-I don't like how it looks (CGEL p. 1077)
-obj(like, how)
-acl:relcl(how, looks)
-~~~
-
-~~~sdparse
-I love how well everyone behaved .
-obj(love, well)
-advmod(well, how)
-acl:relcl(well, behaved)
-~~~
-
-☞ TODO: GKP: exclamative. CGEL p. 919: exclamatives license *very*: "I love how very well everyone behaved" (\*I wonder how very well everyone behaved). cf. "I love how appreciative everyone was" (cyclic example)
-
-### Free Relatives Versus Interrogative/Exclamative Complement Clauses
-
-Free relatives are subtly different from **interrogative clauses**, where the WH-word making it interrogative is inside the clause.
-Verbs such as *wonder*, *know*, and *tell* license interrogative complement clauses (including ones beginning with *whether*).
-According to *CGEL* (Huddleston and Pullum 2002, pp. 1070–1079), in contrast to interrogative clauses, free relatives
-- are always finite;
-- are never marked by *whether*;
-- generally permit WH-*ever* heads (*Eat what(ever) you want*);
-- cannot be reduced with a non-*ever* head, even given sufficient context
-  * Free relative: *He bought what I was selling* → *\*I was selling something (he bought what!).*
-  * cf. interrogative: *He wondered what I was selling* → *I was selling something (he wondered what!).*;
-- never license *else* after a non-*ever* head (*\*He bought what else I was selling*) [this test is from *SIEG*, Huddleston et al. 2021, p. 291].
-
-The following contain interrogative complement clauses, not free relatives, and thus use [ccomp]():
-
-~~~sdparse
-I need to know who you are planning to leave with .
-obl(leave, who)
-case(who, with)
-ccomp(know, leave)
-~~~
-
-~~~sdparse
-I don't know where he lives , who he is , how old he is , how much money he has , what car he drives , to whom he is married , whether he has kids , or why he is here .
-ccomp(know, lives)
-advmod(lives, where)
-conj(lives, who)
-nsubj(who, he-9)
-cop(who, is-10)
-conj(lives, old)
-advmod(old, how-12)
-cop(old, is-15)
-conj(lives, has-21)
-advmod(much, how-17)
-amod(money, much)
-obj(has, money)
-conj(lives, drives)
-nsubj(drives, car)
-det(car, what)
-conj(lives, married)
-obl(married, whom)
-case(whom, to)
-conj(lives, has-36)
-mark(has-36, whether)
-conj(lives, here)
-advmod(here, why)
-~~~
-
-☞ TODO: "how old he is": I think this is a good argument to treat WH words introducing an interrogative complement clause as `advmod`, not `mark`, because "how", "what", "which" can be NP dependents. cf. "it depends on [how good a horse] your horse is"
-
-Interrogative WH-clauses can also function as clause adjuncts:
-
-~~~ sdparse
-Whether you like it or not , it works .
-mark(like, Whether)
-conj(like, not)
-advcl(works, like)
-~~~
-
-~~~ sdparse
-Whatever it is , I 'm against it !
-advcl(against, Whatever)
-nsubj(Whatever, it)
-cop(Whatever, is)
-~~~
-
-~~~ sdparse
-Whatever your reasons , I disagree .
-advcl(disagree, Whatever)
-nsubj(Whatever, reasons)
-~~~
-
-See [*No matter* and similar](#no-matter-and-similar) below.
-
-**Exclamative clauses** beginning with *how* or *what* may also function as complements:
-
-- I know/\*wonder what a jerk he is!
-   ~~~sdparse
-I know what a jerk he is !
-ccomp(know, jerk)
-det:predet(jerk, what)
-det(jerk, a)
-nsubj(jerk, he)
-cop(jerk, is)
-~~~
-- I noticed how big a car he has. ('I noticed that he has a remarkably big car.')
-
-☞ TODO: plain `acl` for a WH-clause: is this limited to interrogative and exclamative complements of nouns, and non-RC adjuncts ("press conferences when the US forces were already inside Baghdad")? <http://match.grew.fr/?corpus=UD_English-EWT@dev&custom=61c1f3622bda6>
-
+☞ TODO: Not all languages have free relatives or use them as frequently as English.
+In Czech, the corresponding construction will typically involve a demonstrative pronoun,
+which will be modified by a relative clause. The relative clause will have a relative pronoun,
+which will be case-marked as required within the relative clause, while the case marking of the
+demonstrative is driven by the requirements of the higher clause.
+_(Teď se budeme věnovat tomu, čeho se bojíš.)_
+Even when the demonstrative is omitted, the relative pronoun is considered a part of the relative
+clause. For example, in _Má, co si zaslouží_, the comma before the relativizer _co_ delimits the
+boundary between the higher and the lower clause.
 
 ### Cyclic cases
 
