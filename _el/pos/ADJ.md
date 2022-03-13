@@ -54,7 +54,7 @@ Modern Greek expresses degree modification of nouns with a variety of morphologi
 
 * Diminutives (*υποκοριστικά* / *ipokoristika*) productively formed with suffixes such as  *–ούτσικος* / *-outsikos*,  *–ούλης* / *-oulis*,  like *μικρούτσικος* / *mikroutsikos* "smallish", *κιτρινούλης* / *kitrinoulis* "a bit yellow": they are assigned the lemma of the original adjective and the feature <code>el-DegreeMod</code> takes the value <code>Diminutive</code>. 
 
-* Augmentatives may be formed with prefixes such as *κατά-* / *kata-*, *ολό-* / *olo-*, e.g., *κατά-μαυρος, ολό-μαυρος* / *katamavros, olomavros* "stark black".
+* Augmentatives may be formed with prefixes such as *κατά-* / *kata-*, *ολό-* / *olo-*, e.g., *κατά-μαυρος, ολό-μαυρος* / *katamavros, olomavros* "stark black": they are assigned the lemma of the original noun and the feature <code>el-DegreeMod</code>  takes the value <code>Magnifier</code>.
 
 
 Greek adjectives inflect for
