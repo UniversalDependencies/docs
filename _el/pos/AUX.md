@@ -9,15 +9,14 @@ An auxiliary is a function word that accompanies the lexical verb of a verb phra
 
 The verb *έχω* / *echo* "have" and the particle *θα* are assigned the tag [AUX]() in periphrastic verb tenses, both active and passive ones. 
 
-In all constructions of Modern Greek  that include the verb είμαι “to be”  and an ADJ, the POS VERB and the syntactic tag cop is assigned to είμαι “to be”. 
-
-When the passive is formed with the verb είμαι “to be” and a participle ending in -μένος, e.g., το δημοσίευμα του ΑΠΕ για το Ελληνικό είναι γραμμένο από τον Άδωνι, the verb είναι is assigned the tag VERB, the feature Voice=Pass and the syntactic tag aux. 
+As opposed to morphological and syntactic tagging of Modern Greek adhering to UD1, in all constructions that include *είμαι* /ime “to be”  and a participle (that is assigned the tag VERB), the tag [VERB]() and the syntactic tag [aux]() are assigned to *είμαι*  “to be”. 
+In this way we avoid the peculiar situation where the verb *είμαι*  “to be” is sometimes characterised as passive. 
 
 Auxiliary verbs like "μπορει"  should be assigned with the Mood value: Pot Pot: Potential 
 The action of the verb is possible but not certain. This mood corresponds to the modal verbs can, might, be able to, too.
 
 ### Examples
-●	Tense auxiliaries: έχει φύγει, θα φύγει
-●	Auxiliaries with passive verb forms: έχει γραφτεί, θα γραφτεί 
+-	Tense auxiliaries: έχει φύγει, θα φύγει
+-	Auxiliaries with passive verb forms: έχει γραφτεί, θα γραφτεί 
 
 ### References
