@@ -664,40 +664,6 @@ is evidence that it belongs to the nested, not to the higher clause.)
 Alternatively we could say about these examples that they are not elliptical, they are simply
 a complement clause [ccomp]() (that is actually the current conversion of the Czech data).
 
-### Cyclic cases
-
-In some cases, the _wh_-phrase would be analyzed as the head of the _wh_-clause. For example, in the sentence _I love how appreciative everyone was_, the word _appreciative_ would normally be a predicative head (since the verb _was_ is a copula and would receive the `cop` relation). Since _appreciative_ cannot be an `acl:relcl` dependent on itself, the auxiliary is promoted to the head of the relative clause and assigned the `acl:relcl` relation.
-
-~~~sdparse
-I love how appreciative everyone was .
-obj(love, appreciative)
-acl:relcl(appreciative, was)
-advmod(appreciative, how)
-~~~
-
-☞ TODO: If I am reading CGEL correctly this should be an exclamative complement clause, not a free relative, so the cyclicity problem goes away. If we adopt the exclamative clause analysis [these results with BE as the RC predicate](http://match.grew.fr/?corpus=UD_English-EWT@dev&custom=61c5129ddeaf0) should be revisited.
-Maybe a better example: "I want to sample whatever dish this is". "Whatever dish" cannot be simultaneously the head of the RC and the predicate of the embedded clause, so "is" gets promoted.
-
-
-☞ TODO: Also copied from the v1 guidelines:
-
-~~~sdparse
-This is the key to how worthy the effort might be .
-nmod(key, worthy)
-case(worthy, to)
-advmod(worthy, how)
-acl:relcl(worthy, be)
-~~~
-
-But I am not sure whether this is a free relative. Cf. "This is the key to whether the effort might be worthy." (suggests clause-like) "This is the key to its worthiness." (suggests NP-like). Maybe it's ambiguous? How about:
-
-~~~sdparse
-This is the key to how worthy the effort might be .
-mark(worthy, to)
-advmod(worthy, how)
-acl(key, worthy)
-cop(worthy, be)
-~~~
 
 
 ## Clefts
