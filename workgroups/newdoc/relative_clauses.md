@@ -677,9 +677,8 @@ _Koho chleba jíš, toho píseň zpívej._ “Sing the song of those whose bread
 
 ## Clefts
 
-The free relative analysis is also extended to cleft constructions.
-
-☞ TODO: potential problem—"that" cannot normally head free relatives, but it can appear in clefts: "It is [the marrying off of young girls to older men often close relatives] that enfurates me."
+Relative clauses also occur in the analysis of cleft constructions. In languages that have free relatives,
+cleft constructions may have them, too.
 
 ~~~sdparse
 -ROOT- John is who we want to help .
@@ -689,23 +688,68 @@ acl:relcl(who, want)
 cop(who, is)
 ~~~
 
-~~~sdparse
--ROOT- It 's John who we want to help .
-expl(who, It)
-root(-ROOT-, who)
-nsubj(who, John)
-acl:relcl(who, want)
-cop(who, 's)
-~~~
+<table> <!--John is who we want to help.-->
+<tbody><tr><td width="480">
+<div class="conllu-parse">
+1 John     John     PROPN _ _ 3 nsubj _ _
+2 is       be       AUX   _ _ 3 cop _ _
+3 who      who      PRON  _ _ 0 root _ _
+4 we       we       PRON  _ _ 5 nsubj _ _
+5 want     want     VERB  _ _ 3 acl:relcl _ _
+6 to       to       PART  _ _ 7 mark _ _
+7 help     help     VERB  _ _ 5 xcomp _ _
+8 .        .        PUNCT _ _ 3 punct _ _
+</div>
+</td><td width="480">
+<div class="conllu-parse">
+# visual-style 7 3 obj color:blue
+# visual-style 7 4 nsubj:xsubj color:blue
+1 John     John     PROPN _ _ 3 nsubj _ _
+2 is       be       AUX   _ _ 3 cop _ _
+3 who      who      PRON  _ _ 0 root 7:obj _
+4 we       we       PRON  _ _ 5 nsubj 7:nsubj:xsubj _
+5 want     want     VERB  _ _ 3 acl:relcl _ _
+6 to       to       PART  _ _ 7 mark _ _
+7 help     help     VERB  _ _ 5 xcomp _ _
+8 .        .        PUNCT _ _ 3 punct _ _
+</div>
+</td></tr></tbody>
+</table>
 
-~~~sdparse
--ROOT- What the committee hopes to learn is why all these events transpired .
-nsubj(why, What)
-acl:relcl(What, hopes)
-cop(why, is)
-acl:relcl(why, transpired)
-nsubj(transpired, events)
-root(-ROOT-, why)
-~~~
+The Czech equivalent uses a demonstrative pronoun instead of a free relative:
+_Jan je ten, komu chceme pomoct._ “Jan is who we want to help.”
+The demonstrative _ten_ is in the nominative, while the relative _komu_ is in the dative,
+as required by their respective clauses.
+
+<table> <!--Jan je ten, komu chceme pomoct.-->
+<tbody><tr><td width="480">
+<div class="conllu-parse">
+# visual-style 7 5 obl color:orange
+1 Jan      Jan      PROPN _ _ 3 nsubj _ _
+2 je       být      AUX   _ _ 3 cop _ _
+3 ten      ten      PRON  _ _ 0 root _ _
+4 ,        ,        PUNCT _ _ 6 punct _ _
+5 komu     kdo      PRON  _ _ 7 obl _ _
+6 chceme   chtít    VERB  _ _ 3 acl:relcl _ _
+7 pomoct   pomoci   VERB  _ _ 6 xcomp _ _
+8 .        .        PUNCT _ _ 3 punct _ _
+</div>
+</td><td width="480">
+<div class="conllu-parse">
+# visual-style 3 5 ref color:blue
+# visual-style 7 3 obj color:blue
+1 Jan      Jan      PROPN _ _ 3 nsubj _ _
+2 je       být      AUX   _ _ 3 cop _ _
+3 ten      ten      PRON  _ _ 0 root 7:obj _
+4 ,        ,        PUNCT _ _ 6 punct _ _
+5 komu     kdo      PRON  _ _ 3 ref _ _
+6 chceme   chtít    VERB  _ _ 3 acl:relcl _ _
+7 pomoct   pomoci   VERB  _ _ 6 xcomp _ _
+8 .        .        PUNCT _ _ 3 punct _ _
+</div>
+</td></tr></tbody>
+</table>
+
+
 
 ## Notes
