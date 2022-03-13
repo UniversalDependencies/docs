@@ -1,11 +1,15 @@
-AUX: auxiliary
+---
+layout: postag
+title: 'AUX'
+shortdef: 'auxiliary'
+---
 
 ### Definition
 An auxiliary is a function word that accompanies the lexical verb of a verb phrase and expresses grammatical distinctions not carried by the lexical verb, such as person, number, tense, mood, aspect, voice or evidentiality. 
 
-The verb έχω and the particle θα are assigned the tag AUX in periphrastic verb tenses, both active and passive ones. 
+The verb *έχω* / *echo* "have" and the particle *θα* are assigned the tag [AUX]() in periphrastic verb tenses, both active and passive ones. 
 
-In all constructions of Modern Greek  that include είμαι “to be”  and an ADJ, the POS VERB and the syntactic tag cop is assigned to είμαι “to be”. 
+In all constructions of Modern Greek  that include the verb είμαι “to be”  and an ADJ, the POS VERB and the syntactic tag cop is assigned to είμαι “to be”. 
 
 When the passive is formed with the verb είμαι “to be” and a participle ending in -μένος, e.g., το δημοσίευμα του ΑΠΕ για το Ελληνικό είναι γραμμένο από τον Άδωνι, the verb είναι is assigned the tag VERB, the feature Voice=Pass and the syntactic tag aux. 
 
