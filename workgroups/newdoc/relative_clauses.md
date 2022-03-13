@@ -729,10 +729,10 @@ as required by their respective clauses.
 </td><td width="480">
 <div class="conllu-parse">
 # visual-style 3 5 ref color:blue
-# visual-style 7 3 obj color:blue
+# visual-style 7 3 obl:dat color:blue
 1 Jan      Jan      PROPN _ _ 3 nsubj _ _
 2 je       být      AUX   _ _ 3 cop _ _
-3 ten      ten      PRON  _ _ 0 root 7:obj _
+3 ten      ten      PRON  _ _ 0 root 7:obl:dat _
 4 ,        ,        PUNCT _ _ 6 punct _ _
 5 komu     kdo      PRON  _ _ 3 ref _ _
 6 chceme   chtít    VERB  _ _ 3 acl:relcl _ _
