@@ -44,7 +44,14 @@ Non-periphrastic comparative and superlative degrees (el-feat/Degree) of Greek a
 -	(regular) *ακριβής – ακριβέστερος – ακριβέστατος* / akrivis - akrivesteros - akrivestatos "exact - more extact - most exact"
 -	(irregular) *μεγάλος – μεγαλύτερος – μέγιστος* / megalos - megaliteros - megistos "big - bigger - biggest"
 
-Participles ending in *-μένος*  and *-θείς* are assigned the tag VERB: VERB Aspect=...|Case=...|Gender=...|Number=...VerbForm=Part|Voice=Αct or Pass 	
+Participles of verbs in use in Modern Greek ending in *-μένος*  and *-θείς* are assigned the tag [VERB](): VERB Aspect=...|Case=...|Gender=...|Number=...VerbForm=Part|Voice=Αct or Pass. 
+Ηowever, there are formations in *-μένος* not related to a verb in use in Modern Greek, e.g. *χιλιοτραγουδισμένος* / chiliotragoudismenos “storied”, *ξακουσμένος* / ksakousmenos “famous”, etc; these are assigned the  tag ADJ.  
+
+
+As opposed to morphological tagging of Modern Greek adhering to UD1,  all constructions that include *είμαι* /ime “to be”  and an ADJ, the tag [VERB]() and the syntactic tag [cop]() is assigned to *είμαι*  “to be”. 
+In this way we avoid the peculiar situation where the verb *είμαι*  “to be” is sometimes passive. Furthermore, the head of the structure is the participle that is the "content" word in the <*είμαι* + participle> construct.
+
+
 
 Greek adjectives inflect for
 [el-feat/Gender]() _(μεγάλος – μεγάλη – μεγάλο)_ “big”,
