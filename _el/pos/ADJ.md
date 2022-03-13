@@ -48,9 +48,13 @@ Participles of verbs in use in Modern Greek ending in *-μένος*  and *-θε�
 Ηowever, there are formations in *-μένος* not related to a verb in use in Modern Greek, e.g. *χιλιοτραγουδισμένος* / chiliotragoudismenos “storied”, *ξακουσμένος* / ksakousmenos “famous”, etc; these are assigned the  tag ADJ.  
 
 
-As opposed to morphological and syntactic tagging of Modern Greek adhering to UD1, in all constructions that include *είμαι* /ime “to be”  and an ADJ or participle (that is assigned the tag VERB), the tag [VERB]() and the syntactic tag [cop]() are assigned to *είμαι*  “to be”. 
-In this way we avoid the peculiar situation where the verb *είμαι*  “to be” is sometimes characterised as passive. 
+When a participle depends on the verb *είμαι* /ime “to be”, the tag <code>VERB</code> and the syntactic tag <code>aux</code> are assigned to *είμαι*  “to be”. The participle is assigned the tag <code>VERB</code> and bears values for the feature <code>Voice</code>.
 
+Modern Greek expresses degree modification of nouns with a variety of morphological (and syntactic) means:
+
+* Diminutives (*υποκοριστικά* / *ipokoristika*) productively formed with suffixes such as  *–ούτσικος* / *-outsikos*,  *–ούλης* / *-oulis*,  like *μικρούτσικος* / *mikroutsikos* "smallish", *κιτρινούλης* / *kitrinoulis* "a bit yellow": they are assigned the lemma of the original adjective and the feature <code>el-DegreeMod</code> takes the value <code>Diminutive</code>. 
+
+* Augmentatives may be formed with prefixes such as *κατά-* / *kata-*, *ολό-* / *olo-*, e.g., *κατά-μαυρος, ολό-μαυρος* / *katamavros, olomavros* "stark black": they are assigned the lemma of the original noun and the feature <code>el-DegreeMod</code>  takes the value <code>Magnifier</code>.
 
 
 Greek adjectives inflect for
