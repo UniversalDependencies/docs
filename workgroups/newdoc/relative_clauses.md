@@ -135,11 +135,28 @@ In Enhanced UD (right), the relativizer instead attaches to its antecedent via t
 </td></tr></tbody>
 </table>
 
-<!-- https://github.com/UniversalDependencies/docs/commit/b7b62a7f9bafdbd8c3f7be9e4f72da62b3cb0d0d#commitcomment-68550464 -->
+<!-- https://github.com/UniversalDependencies/docs/commit/b7b62a7f9bafdbd8c3f7be9e4f72da62b3cb0d0d#commitcomment-68550464
+@nschneid:
+
+CGEL (Huddleston and Pullum) pp. 1043-44:
+
+> - [ii] I said that it might be more efficient to hold the meeting on Saturday morning, [**which suggestion** they all enthusiastically endorsed].
+>
+> Determinative _which_ is not itself a phrase, and cannot be separated from the head on which it is dependent, as evident from [iii]. We take the relativised element in [ii] to be the whole object NP, _which suggestion_: this is the phrase whose interpretation is given by the antecedent (_it might be more efficient to hold the meeting on Saturday morning_), though the presentation of it as a suggestion is of course contributed by the relative clause rather than being inherent in the antecedent itself.
+
+In other words _which_ by itself does not have an antecedent; it is only the phrase _which suggestion_ that has an antecedent. This matches my intuition that `ref` should point to the head of the phrase (_suggestion_).
+
+-->
+Determinative _which_ cannot be separated from the head on which it is dependent. We take the relativized
+element in the following example to be the whole nominal, _which amount_: this is the phrase whose interpretation
+is given by the antecedent _$38,000_.[^2]
+
+[^2]: *The Cambridge Grammar of the English Language* (Huddleston and Pullum, 2002), pp. 1043–44.
+
 <table> <!--ENA shall pay $38,000, which amount shall be subject to…-->
 <tbody><tr><td width="480">
 <div class="conllu-parse">
-# visual-style 8 7 det color:orange
+# visual-style 11 8 nsubj color:orange
 1 ENA ENA PROPN _ _ 3 nsubj _ _
 2 shall shall AUX _ _ 3 aux _ _
 3 pay pay VERB _ _ 0 root _ _
@@ -154,16 +171,16 @@ In Enhanced UD (right), the relativizer instead attaches to its antecedent via t
 </div>
 </td><td width="480">
 <div class="conllu-parse">
-# visual-style 4 7 ref color:blue
-# visual-style 8 4 nmod color:blue
+# visual-style 4 8 ref color:blue
+# visual-style 11 4 nsubj color:blue
 1 ENA ENA PROPN _ _ 3 nsubj _ _
 2 shall shall AUX _ _ 3 aux _ _
 3 pay pay VERB _ _ 0 root _ _
-4 $ $ SYM _ _ 3 obj 8:nmod _
+4 $ $ SYM _ _ 3 obj 11:nsubj _
 5 38,000 38,000 NUM _ _ 4 nummod _ _
 6 , , PUNCT _ _ 11 punct _ _
-7 which which DET _ _ 4 ref _ _
-8 amount amount NOUN _ _ 11 nsubj _ _
+7 which which DET _ _ 8 det _ _
+8 amount amount NOUN _ _ 4 ref _ _
 9 shall shall AUX _ _ 11 aux _ _
 10 be be AUX _ _ 11 cop _ _
 11 subject… subject NOUN _ _ 4 acl:relcl _ _
@@ -536,24 +553,24 @@ conjunction introducing a conditional clause. In the former context it should be
 in the latter it should be tagged [SCONJ]().
 
 * _I don't know <b>when<tt>/ADV</tt></b> he comes._
-  * Adnominal: _the question <b>when<tt>/ADV</tt></b> does he come_
+  * Adnominal: _the question <b>when<tt>/ADV</tt></b> he comes_
   * Adnominal relative: _the moment <b>when<tt>/ADV</tt></b> he comes_
 * _You cannot swim <b>when<tt>/SCONJ</tt></b> the weather is like this._
 
 Other languages do not have this problem, as they use distinct words for the adverb and the subordinating conjunction:
 
 * [cs] _Nevím, <b>kdy<tt>/ADV</tt></b> přijde._ “I don't know when he comes.”
-  * Adnominal: [cs] _otázka, <b>kdy<tt>/ADV</tt></b> přijde_ “the question when does he come”
+  * Adnominal: [cs] _otázka, <b>kdy<tt>/ADV</tt></b> přijde_ “the question when he comes”
   * Adnominal relative: [cs] _okamžik, <b>kdy<tt>/ADV</tt></b> přijde_ “the moment when he comes”
 * [cs] _Nemůžeš se koupat, <b>když<tt>/SCONJ</tt></b> je takovéhle počasí._ “You cannot swim when the weather is like this.”
 
 Some phrases are ambiguous. _The ceremony where/when we became citizens_ can be interpreted as an RC if the bestowal
-of citizenship happened during the ceremony (_in which_ interpretation[^2], thus `acl:relcl`).
+of citizenship happened during the ceremony (_in which_ interpretation[^3], thus `acl:relcl`).
 But _the ceremony when we became citizens_ could be used to refer to a particular ceremony held around the time
 of becoming a citizen, as opposed to some other ceremony held at some other time; the modifier can be fronted as
 an `advmod` within the higher clause: _When we became citizens, the ceremony..._. This is the `acl` interpretation.
 
-[^2]: Or, formally, _wherein_.
+[^3]: Or, formally, _wherein_.
 
 
 
