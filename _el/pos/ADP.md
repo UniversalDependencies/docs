@@ -15,7 +15,7 @@ Adposition is a cover term for prepositions and postpositions. Adpositions belon
 
 ### Examples
 
-*σε, από, με* / se, apo, me `to, from, with'
+*σε, από, με* / *se, apo, me* "to, from, with"
 
 
 ### References
