@@ -21,7 +21,7 @@ As a special case of interjection, we recognize feedback particles such as *yes*
 -	*βρε*
 -	*καλέ*
 -	*ναι* / *ne* "yes",  [INTJ]() with [Polarity=Pos]()
--	*όχι* /*ochi* "no", [INTJ]() with [Polarity=Neg]()
+-	*όχι* /*ochi* "no/not", [INTJ]() with [Polarity=Neg]()
 -	*ορίστε*
 -	*μα*
 -	*λοιπόν* / *lipon* "well,so"
