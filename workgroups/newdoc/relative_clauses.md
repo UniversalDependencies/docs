@@ -565,8 +565,8 @@ an `advmod` within the higher clause: _When we became citizens, the ceremony..._
 head of the whole nominal; in other words, there is no explicit modified noun, and its position is filled
 with a relative pronoun which would otherwise serve as the relativizer (thus these constructions are also
 known as **fused relatives**). The relative pronoun is deemed as the head of the construction, thereby
-receiving a dependency relation reflective of its function in the higher clause, and the rest of the of
-the relative clause depends on it as an [acl:relcl]().
+receiving a dependency relation reflective of its function in the higher clause, and the rest of the
+relative clause depends on it as an [acl:relcl]().
 
 The enhanced representation of a free relative construction will not have a `ref` relation between the
 parent nominal and the relativizer because they are the same node. However, a relation between the predicate
@@ -599,11 +599,44 @@ of the relative clause and the modified nominal will still be added.
 </td></tr></tbody>
 </table>
 
-~~~sdparse
-I 'll have whatever she 's having .
-obj(have, whatever)
-acl:relcl(whatever, having)
-~~~
+<table> <!--You can go where you want and eat what you want.-->
+<tbody><tr><td width="480">
+<div class="conllu-parse">
+1 You      you      PRON  _ _ 3 nsubj _ _
+2 can      can      AUX   _ _ 3 aux _ _
+3 go       go       VERB  _ _ 0 root _ _
+4 where    where    ADV   _ _ 3 advmod _ _
+5 you      you      PRON  _ _ 6 nsubj _ _
+6 want     want     VERB  _ _ 4 advcl:relcl _ _
+7 and      and      CCONJ _ _ 8 cc _ _
+8 eat      eat      VERB  _ _ 3 conj _ _
+9 what     what     PRON  _ _ 8 obj _ _
+10 you     you      PRON  _ _ 11 nsubj _ _
+11 want    want     VERB  _ _ 9 acl:relcl _ _
+12 .       .        PUNCT _ _ 3 punct _ _
+</div>
+</td><td width="480">
+<div class="conllu-parse">
+# visual-style 8 1 nsubj color:blue
+# visual-style 8 2 aux color:blue
+# visual-style 6 4 advmod color:blue
+# visual-style 0 8 root color:blue
+# visual-style 11 9 obj color:blue
+1 You      you      PRON  _ _ 3 nsubj 8:nsubj _
+2 can      can      AUX   _ _ 3 aux 8:aux _
+3 go       go       VERB  _ _ 0 root _ _
+4 where    where    ADV   _ _ 3 advmod 6:advmod _
+5 you      you      PRON  _ _ 6 nsubj _ _
+6 want     want     VERB  _ _ 4 advcl:relcl _ _
+7 and      and      CCONJ _ _ 8 cc _ _
+8 eat      eat      VERB  _ _ 3 conj 0:root _
+9 what     what     PRON  _ _ 8 obj 11:obj _
+10 you     you      PRON  _ _ 11 nsubj _ _
+11 want    want     VERB  _ _ 9 acl:relcl _ _
+12 .       .        PUNCT _ _ 3 punct _ _
+</div>
+</td></tr></tbody>
+</table>
 
 ~~~sdparse
 You can go where you want and eat what you want .
