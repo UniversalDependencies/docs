@@ -699,28 +699,4 @@ nsubj(transpired, events)
 root(-ROOT-, why)
 ~~~
 
-## _No matter_ and similar
-
-The phrase _no matter_ is analyzed as taking a `obj` complement in, e.g., _no matter the cost_. When it takes free relative object, that object is also analyzed according to the rules above.
-
-~~~sdparse
-No matter what progress we make as individuals, we will never achieve real health until ...
-det(matter, No)
-obl:npmod(achieve, matter)
-obj(matter, progress)
-det(progress, what)
-acl:relcl(progress, make)
-~~~
-
-☞ TODO: or should it be `advmod(matter, no)`, as in EWT?
-
-☞ TODO: A particular non-relative construction in which WH-ever forms occur (these are interrogative clauses functioning as adjuncts): *Whatever the reasons behind the duel (were), he was convinced of his impending death* (cf. *I'm doing this whether you like it or not.*; see CGEL pp. 985-986)
-
-## Additional Examples
-
-- She was telling me how wrong I was about how another dress that I loved compared to one of her dresses. [issue](https://github.com/UniversalDependencies/UD_English-EWT/issues/78)
-- if we lose Dean (which we will if we don't pay 65k + 10k) [issue](https://github.com/UniversalDependencies/UD_English-EWT/issues/203)
-
 ## Notes
-
-<!-- Interlanguage links updated St lis 3 20:58:33 CET 2021 -->
