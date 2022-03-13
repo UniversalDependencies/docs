@@ -559,12 +559,45 @@ an `advmod` within the higher clause: _When we became citizens, the ceremony..._
 
 ## Free Relatives
 
-NOTE: partially adapted from <https://universaldependencies.org/en/specific-syntax.html#free-relatives>
+<!-- Partially adapted from https://universaldependencies.org/en/specific-syntax.html#free-relatives -->
 
-**Free relatives** are noun phrases containing a relative clause modifying a WH-phrase.
-There is no separate relativizer in the RC; it is "fused" with the head (thus these constructions are also known as **fused relatives**).
+**Free relatives** are nominals containing a relative clause where the relativizer is “fused” with the
+head of the whole nominal; in other words, there is no explicit modified noun, and its position is filled
+with a relative pronoun which would otherwise serve as the relativizer (thus these constructions are also
+known as **fused relatives**). The relative pronoun is deemed as the head of the construction, thereby
+receiving a dependency relation reflective of its function in the higher clause, and the rest of the of
+the relative clause depends on it as an [acl:relcl]().
 
-<!-- In free relative constructions, the _wh_-clause functions as an argument in the higher clause. In these cases, the _wh_-phrase is deemed the head of the construction, thereby receiving a dependency relation reflective of its function in the higher clause, and the rest of the _wh_-clause is an `acl:relcl` dependent on it. -->
+The enhanced representation of a free relative construction will not have a `ref` relation between the
+parent nominal and the relativizer because they are the same node. However, a relation between the predicate
+of the relative clause and the modified nominal will still be added.
+
+<table> <!--I'll have whatever she's having.-->
+<tbody><tr><td width="480">
+<div class="conllu-parse">
+1 I        I        PRON  _ _ 3 nsubj _ _
+2 'll      will     AUX   _ _ 3 aux _ _
+3 have     have     VERB  _ _ 0 root _ _
+4 whatever whatever PRON  _ _ 3 obj _ _
+5 she      she      PRON  _ _ 7 nsubj _ _
+6 's       be       AUX   _ _ 7 aux _ _
+7 having   have     VERB  _ _ 4 acl:relcl _ _
+8 .         .       PUNCT _ _ 3 punct _ _
+</div>
+</td><td width="480">
+<div class="conllu-parse">
+# visual-style 7 4 obj color:blue
+1 I        I        PRON  _ _ 3 nsubj _ _
+2 'll      will     AUX   _ _ 3 aux _ _
+3 have     have     VERB  _ _ 0 root _ _
+4 whatever whatever PRON  _ _ 3 obj 7:obj _
+5 she      she      PRON  _ _ 7 nsubj _ _
+6 's       be       AUX   _ _ 7 aux _ _
+7 having   have     VERB  _ _ 4 acl:relcl _ _
+8 .         .       PUNCT _ _ 3 punct _ _
+</div>
+</td></tr></tbody>
+</table>
 
 ~~~sdparse
 I 'll have whatever she 's having .
