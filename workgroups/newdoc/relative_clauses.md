@@ -661,8 +661,17 @@ much less likely. Such examples are extremely rare but I have found one:
 _Lidé ničili (to), čeho se jim dostalo jako božího daru._ (Higher clause requires accusative,
 the nested clause requires genitive. The accusative _to_ is elided. The genitive form of _čeho_
 is evidence that it belongs to the nested, not to the higher clause.)
+Another example is accusative-nominative (but they have the same form for the pronoun _co_,
+so it is not so problematic for the speakers): _Dostanou, co jim patří._
+(http://hdl.handle.net/11346/PMLTQ-XWFZ)
 Alternatively we could say about these examples that they are not elliptical, they are simply
-a complement clause [ccomp]() (that is actually the current conversion of the Czech data).
+a complement clause [ccomp]() (that is actually the current conversion of the Czech data;
+and if the requirement were to distinguish "ellipsis-free relatives" from normal complement
+clauses, there would be no way to achieve it other than disrupting the link with the upstream
+data and manually checking thousands of instances in UD).
+
+_Koho chleba jíš, toho píseň zpívej._ “Sing the song of those whose bread you eat.”
+(a semantically equivalent English proverb: “Let every man praise the bridge he goes over.”)
 
 
 
