@@ -9,13 +9,13 @@ An auxiliary is a function word that accompanies the lexical verb of a verb phra
 
 The verb *έχω* / *echo* "have" and the particle *θα* are assigned the tag [AUX]() in periphrastic verb tenses, both active and passive ones. 
 
-In all constructions that include *είμαι* /ime “to be”  and a participle, the tag <code>VERB</code> and the syntactic tag <code>aux</code> are assigned to *είμαι*  “to be”. The participle is assigned the tag <code>VERB</code> and bears values for the feature <code>Voice</code>.
+When a participle depends on the verb *είμαι* /ime “to be”, the tag <code>VERB</code> and the syntactic tag <code>aux</code> are assigned to *είμαι*  “to be”. The participle is assigned the tag <code>VERB</code> and bears values for the feature <code>Voice</code>.
 
-Auxiliary verbs like "μπορει"  should be assigned with the Mood value: Pot Pot: Potential 
-The action of the verb is possible but not certain. This mood corresponds to the modal verbs can, might, be able to, too.
+With auxiliary verbs like *μπορεί* / *bori* "may be", the value of the feature <code>Mood</code> is <code>Pot</code>.
+
 
 ### Examples
--	Tense auxiliaries: έχει φύγει, θα φύγει
--	Auxiliaries with passive verb forms: έχει γραφτεί, θα γραφτεί 
+-	Tense auxiliaries: *έχει φύγει* / *echi figi* "he/she/it is gone", *θα φύγει* / *tha figi* "he/she/it will go"
+-	Auxiliaries with passive verb forms: *έχει γραφτεί* / *echi grafti* "he/she/it has been written", *θα γραφτεί* / *tha grafti* "he/she/it  will be written" 
 
 ### References
