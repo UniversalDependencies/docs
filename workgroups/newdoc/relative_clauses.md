@@ -619,7 +619,7 @@ Pronominal adverbs such as _where_, _when_, _how_, _why_ frequently introduce **
 They can also introduce non-relative **adnominal modifier clauses** ([acl]()) similarly providing time/place/manner information.
 In the following example, _when_ is an interrogative/relative adverb (`PronType=Int,Rel`) but the adnominal clause
 it introduces is not relative because there is no coreference between _headlines_ and _when_ (but cf.
-_the times when Nixon resigned_, here it would be a relative clause).
+_the time when Nixon resigned_, here it would be a relative clause).
 
 <!--The headlines when Nixon resigned were legendary.-->
 <div class="conllu-parse">
