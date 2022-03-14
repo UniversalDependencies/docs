@@ -910,6 +910,11 @@ the same way as free relatives in English. So what are the options?
 </td></tr></tbody>
 </table>
 
+<span style='color:red; font-weight:bold'>DZ: [http://hdl.handle.net/11346/PMLTQ-IXY8](http://hdl.handle.net/11346/PMLTQ-IXY8)
+has a different set of examples with _kdo/kde/kdy(koli)_ at the beginning of the sentence.
+These are much closer to the English free relatives described above but are not analyzed
+that way. Free relatives are evil!</span>
+
 ☞ TODO:
 _Koho chleba jíš, toho píseň zpívej._ “Sing the song of those whose bread you eat.”
 (a semantically equivalent English proverb: “Let every man praise the bridge he goes over.”)
