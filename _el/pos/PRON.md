@@ -21,7 +21,8 @@ Pronouns are words that substitute for nouns <code>NOUN</code> or noun phrases, 
  Greek pronouns inflect for [el-feat/Gender](), [el-feat/Number]() and [el-feat/Case](). 
  
 
-Several words that traditionally have been classified as pronouns are considered [DET]():
+
+Several words that traditionally have been classified as pronouns are classified as <code>DET</code> in UD2:
 
 * demonstrative pronouns ([PronType=Dem]()): *αυτός* / *aftos* "this", *εκείνος* / *ekinos* "that", *(ε)τούτος* / *(e)toutos* "this/that", *τέτοιος* / *tetios* "such", *τόσος* / *tosos* "this/that many/much, so/as", *ίδιος* / *idios* "the same"
 *   indefinite pronouns: 
