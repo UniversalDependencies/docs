@@ -1,7 +1,7 @@
 ---
 layout: postag
-title: 'ADJ'
-shortdef: 'adjective'
+title: 'PRON'
+shortdef: 'pronoun'
 ---
 
 ## PRON: pronoun
