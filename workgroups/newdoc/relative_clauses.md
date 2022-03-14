@@ -771,11 +771,11 @@ the same way as free relatives in English. So what are the options?
 # visual-style 1.1 3 ref color:blue
 # visual-style 5 1.1 obj color:blue
 1 Má       mít       VERB  _ _ 0 root _ Gloss=he-has
-1.1 to     to        PRON  _ Case=Acc|PronType=Dem _ _ 1:obj|5:obj Gloss=that
+1.1 E(to)  to        PRON  _ Case=Acc|PronType=Dem _ _ 1:obj|5:obj Gloss=that
 2 ,        ,         PUNCT _ _ 5 punct _ Gloss=,
-3 co       co        PRON  _ Case=Acc|PronType=Int,Rel _ _ 1.1:ref Gloss=what
+3 co       co        PRON  _ Case=Acc|PronType=Int,Rel 0 _ 1.1:ref Gloss=what
 4 si       si        PRON  _ _ 5 expl:pv _ Gloss=REFL
-5 zaslouží zasloužit VERB  _ _ _ _ 1.1:acl:relcl Gloss=he-deserves
+5 zaslouží zasloužit VERB  _ _ 0 _ 1.1:acl:relcl Gloss=he-deserves
 6 .        .         PUNCT _ _ 1 punct _ Gloss=.
 </div>
 </td></tr></tbody>
