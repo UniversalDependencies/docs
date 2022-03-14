@@ -16,7 +16,7 @@ Pronouns are words that substitute for nouns <code>NOUN</code> or noun phrases, 
 *	possessive pronouns: weak types, e.g., *μου* in *το σπίτι μου* / *to spiti mou* "my house"
 * reflexive pronouns: *εαυτός* / *eaftos* "self"
 *	relative pronouns <code>PronType=Rel</code>: *οποίος* / *opios* "who"
-*	definite pronouns <code>PronType= Emp</code>: *ίδιος* / *idhios* "himself" e.g.,  *ήρθε ο ίδιος και μου είπε* / *irthe o idhios ke mou ipe* "he himself came  and told me..."
+*	definite pronouns <code>PronType= Emp</code>: *ίδιος* / *idios* "himself" e.g.,  *ήρθε ο ίδιος και μου είπε* / *irthe o idios ke mou ipe* "he himself came  and told me..."
 
  Greek pronouns inflect for [el-feat/Gender](), [el-feat/Number]() and [el-feat/Case](). 
  
@@ -24,13 +24,13 @@ Pronouns are words that substitute for nouns <code>NOUN</code> or noun phrases, 
 
 Several words that traditionally have been classified as pronouns are classified as <code>DET</code> in UD2:
 
-* demonstrative pronouns ([PronType=Dem]()): *αυτός* / *aftos* "this", *εκείνος* / *ekinos* "that", *(ε)τούτος* / *(e)toutos* "this/that", *τέτοιος* / *tetios* "such", *τόσος* / *tosos* "this/that many/much, so/as", *ίδιος* / *idios* "the same"
+* demonstrative pronouns (<code>PronType=Dem</code>): *αυτός* / *aftos* "this", *εκείνος* / *ekinos* "that", *(ε)τούτος* / *(e)toutos* "this/that", *τέτοιος* / *tetios* "such", *τόσος* / *tosos* "this/that many/much, so/as", *ίδιος* / *idios* "the same"
 *   indefinite pronouns: 
-    *   ([PronType=Ind]()) *άλλος* / *alos* "other", *κάποιος* / *kapios* "somebody", *κάτι* / *kati* "some"
-    *   ([PronType=Tot]()) *κάθε* / *kathe* "every", *καθένας* / *kathenas* "each one"
-    *   ([PronType=Ind/Neg]()) *κανείς (κανένας)*  /*kanis (kanenas)* "nobody", *τίποτα/ε* / *tipota/e* "nothing/anything"
-*   interrogative pronouns when followed by a noun ([PronType=Int]()): *ποιος* / *pios* "who", *πόσος* / *posos* "how many/much", *τι* / *ti* "what kind", e.g., *ποιο/πόσο/τι φαγητό θέλεις;* / *pio/poso/ti fagito thelis?* "which/how much/what kind of food do you want?"
-*   relative pronouns ([PronType=Rel]()): *όποιος/-δήποτε* / *opios/-dipote* "anyone/whoever", *όσος/-δήποτε* / *osos/-dipote* "no matter how many/much", *ό,τι/-δήποτε* / *oti/-dipote* "whichever"
+    *   (<code>PronType=Ind</code>) *άλλος* / *alos* "other", *κάποιος* / *kapios* "somebody", *κάτι* / *kati* "some"
+    *   (<code>PronType=Tot</code>) *κάθε* / *kathe* "every", *καθένας* / *kathenas* "each one"
+    *   (<code>PronType=Ind/Neg</code>) *κανείς (κανένας)*  /*kanis (kanenas)* "nobody", *τίποτα/ε* / *tipota/e* "nothing/anything"
+*   interrogative pronouns when followed by a noun (<code>PronType=Int</code>): *ποιος* / *pios* "who", *πόσος* / *posos* "how many/much", *τι* / *ti* "what kind", e.g., *ποιο/πόσο/τι φαγητό θέλεις;* / *pio/poso/ti fagito thelis?* "which/how much/what kind of food do you want?"
+*   relative pronouns (<code>PronType=Rel</code>): *όποιος/-δήποτε* / *opios/-dipote* "anyone/whoever", *όσος/-δήποτε* / *osos/-dipote* "no matter how many/much", *ό,τι/-δήποτε* / *oti/-dipote* "whichever"
 
 
 ### References
