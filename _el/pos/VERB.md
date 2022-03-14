@@ -1,5 +1,13 @@
-     VERB: verb
-Definition
+ ---
+layout: postag
+title: 'VERB'
+shortdef: 'verb'
+---
+ 
+ 
+
+### Definition
+
 A verb typically denotes events and actions, can constitute a minimal predicate in a clause, and governs the number and types of other constituents which may occur in the clause. Verbs are often associated with grammatical categories like tense, mood, aspect and voice, which can either be expressed inflectionally or using auxilliary verbs or particles.
 
  In all constructions of Modern Greek that include είμαι “to be”  and an ADJ, the POS VERB and the syntactic tag cop is assigned to είμαι “to be”. When the passive is formed with the verb είμαι “to be” and a participle ending in -μένος, e.g., το δημοσίευμα του ΑΠΕ για το Ελληνικό είναι γραμμένο από τον Άδωνι;, both the verb and the participle are assigned the tag VERB, the participle is assigned the feature Voice=Pass and the verb είμαι “to be” the syntactic tag aux and no voice value is specified..
@@ -13,8 +21,9 @@ Verb forms ending in -όντας, -ώντας (adverbial participles) share prop
 Deverbal connectives acting as adpositions or subordinators may be tagged VERB while participating in a case or mark relation: see ADP.
 
 
-Examples
+### Examples
 ●	τρέχω, τρώει
 ●	τρέχοντας, τρώγοντας
-References
+
+### References
  
