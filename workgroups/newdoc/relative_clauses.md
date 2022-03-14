@@ -708,7 +708,7 @@ of the main clause.
 </td></tr></tbody>
 </table>
 
-In rare cases[^4] the demonstrative can be omitted in Czech. Even when it is omitted, the relative
+In rare cases,[^4] the demonstrative can be omitted in Czech. Even when the demonstrative is omitted, the relative
 pronoun is considered a part of the relative clause, not of the main clause. First, the relative
 pronoun still follows the case requirements of the relative clause. This is not easy to observe
 due to limited contexts in which the demonstrative is omitted and to case syncretism, yet it is so.
@@ -722,17 +722,66 @@ after it.
 * [cs] _Dostanou (to), co jim patří._ “They get what belongs to them.” (main clause accusative, relative clause nominative)
 * [cs] _Lidé ničili (to), čeho se jim dostalo jako božího daru._ “People destroyed what they received as a gift from God.” (main clause accusative, relative clause genitive)
 
-☞ TODO:
-We could analyze it as an ellipsis of
-_Má to, co si zaslouží_. But it would mean that the relative clause would be promoted to the
-position of the elided demonstrative, it would get the [obj]() relation and there would be no
-trace of [acl:relcl]().
-Alternatively we could say about these examples that they are not elliptical, they are simply
-a complement clause [ccomp]() (that is actually the current conversion of the Czech data;
-and if the requirement were to distinguish "ellipsis-free relatives" from normal complement
-clauses, there would be no way to achieve it other than disrupting the link with the upstream
-data and manually checking thousands of instances in UD).
+<span style='color:red; font-weight:bold'>DZ: The recommended analysis of the Czech examples is
+not yet final.</span>
 
+Since the relative pronoun does not belong to the main clause, we cannot analyze the Czech examples
+the same way as free relatives in English. So what are the options?
+
+1. The “relative” clause is actually an object clause, i.e., the direct object of the main clause
+   is realized as a clause. Consequently, it is attached via [ccomp]() to the predicate of the main
+   clause. This is the approach that is employed in the current conversion of the Czech data.
+   Note that it would be difficult to depart from this approach, as this construction is similar
+   to complement clauses: _Vím, co si zaslouží._ “I know what he deserves.” The drawback of this
+   approach is that there is no trace of the relativity of the clause, and of the coreference between
+   the argument of the relative/complement clause and the omitted argument of the main clause.
+2. There is an elided demonstrative _to_ in the main clause; we use the standard UD treatment of
+   ellipsis. That is, we promote the relative clause to the position of the elided pronoun. Unlike
+   in the previous option, the relation between the predicates of the main and the relative clauses
+   will be [obj](), not [ccomp](). There is still the drawback that the construction cannot be
+   recognized as involving a relative clause. An additional drawback is that one has to distinguish
+   between complement clauses (`ccomp`) and promoted relative clauses (`obj`), which may be difficult
+   for annotators, and for large corpora such as Czech PDT it is not tractable.
+3. The elided demonstrative could be handled similarly to how UD currently handles gapping constructions.
+   The relative clause would be attached to the predicate of the main clause via the [obj]() relation
+   (not [orphan](), because it is not a link between two orphaned dependents). In the enhanced representation,
+   there would be an empty node representing the demonstrative _to_, and all the expected relations would
+   be restored as if the demonstrative were overtly present. The objection that we cannot reliably
+   detect these cases in corpora like Czech PDT still holds. The solution would also require a modification
+   of the guidelines regarding the usage of empty nodes (but there is a separate proposal for such an
+   extension). On the other hand, the similarity of the construction to relative clauses would now be
+   recognizable, and so would be the coreference between the missing argument of the main clause and the
+   visible argument of the relative clause. The diagrams below illustrate this last option:
+
+<table> <!--Má, co si zaslouží.-->
+<tbody><tr><td width="480">
+<div class="conllu-parse">
+# visual-style 1 5 obj color:orange
+1 Má       mít       VERB  _ _ 0 root _ Gloss=he-has
+2 ,        ,         PUNCT _ _ 5 punct _ Gloss=,
+3 co       co        PRON  _ Case=Acc|PronType=Int,Rel 5 obj _ Gloss=what
+4 si       si        PRON  _ _ 5 expl:pv _ Gloss=REFL
+5 zaslouží zasloužit VERB  _ _ 1 obj _ Gloss=he-deserves
+6 .        .         PUNCT _ _ 1 punct _ Gloss=.
+</div>
+</td><td width="480">
+<div class="conllu-parse">
+# visual-style 1 1.1 obj color:blue
+# visual-style 1.1 5 acl:relcl color:blue
+# visual-style 1.1 3 ref color:blue
+# visual-style 5 1.1 obj color:blue
+1 Má       mít       VERB  _ _ 0 root _ Gloss=he-has
+1.1 to     to        PRON  _ Case=Acc|PronType=Dem _ _ 1:obj|5:obj Gloss=that
+2 ,        ,         PUNCT _ _ 5 punct _ Gloss=,
+3 co       co        PRON  _ Case=Acc|PronType=Int,Rel _ _ 1.1:ref Gloss=what
+4 si       si        PRON  _ _ 5 expl:pv _ Gloss=REFL
+5 zaslouží zasloužit VERB  _ _ _ _ 1.1:acl:relcl Gloss=he-deserves
+6 .        .         PUNCT _ _ 1 punct _ Gloss=.
+</div>
+</td></tr></tbody>
+</table>
+
+☞ TODO:
 _Koho chleba jíš, toho píseň zpívej._ “Sing the song of those whose bread you eat.”
 (a semantically equivalent English proverb: “Let every man praise the bridge he goes over.”)
 
