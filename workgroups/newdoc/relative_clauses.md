@@ -665,11 +665,13 @@ clause. The relative clause will have a relative pronoun, which will be case-mar
 within the relative clause, while the case marking of the demonstrative is driven by the requirements
 of the main clause.
 
-* _Teď se budeme věnovat <b>tomu</b>, <b>čeho</b> se bojíš._
+* [cs] _Teď se budeme věnovat <b>tomu</b>, <b>čeho</b> se bojíš._
   “Let's now attend to what you are afraid of.”
   (The demonstrative _tomu_ is in the dative, as required by the predicate _věnovat se_ of the
   main clause. The relative _čeho_ is in the genitive, as required by the predicate _bát se_
-  of the relative clause.)
+  of the relative clause. If we swap the functions and make the main clause relative, the forms
+  of the pronouns will change: _Teď se bojíš <b>toho</b>, <b>čemu</b> se věnujeme._
+  “You are now afraid of what we are attending to.”)
 
 <table> <!--Teď se budeme věnovat tomu, čeho se bojíš.-->
 <tbody><tr><td width="480">
