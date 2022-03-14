@@ -659,12 +659,52 @@ of the relative clause and the modified nominal will still be added.
 that a relative clause should not be a subtype of `acl` because it does not modify a nominal. Here
 it modifies an adverb _(where)_, hence I went with `advcl:relcl`.</span>
 
-☞ TODO: Not all languages have free relatives or use them as frequently as English.
-In Czech, the corresponding construction will typically involve a demonstrative pronoun,
-which will be modified by a relative clause. The relative clause will have a relative pronoun,
-which will be case-marked as required within the relative clause, while the case marking of the
-demonstrative is driven by the requirements of the higher clause.
-_(Teď se budeme věnovat tomu, čeho se bojíš.)_
+Not all languages have free relatives in the same sense as in English. In Czech, the corresponding
+construction will typically involve a demonstrative pronoun, which will be modified by a relative
+clause. The relative clause will have a relative pronoun, which will be case-marked as required
+within the relative clause, while the case marking of the demonstrative is driven by the requirements
+of the main clause.
+
+* _Teď se budeme věnovat <b>tomu</b>, <b>čeho</b> se bojíš._
+  “Let's now attend to what you are afraid of.”
+  (The demonstrative _tomu_ is in the dative, as required by the predicate _věnovat se_ of the
+  main clause. The relative _čeho_ is in the genitive, as required by the predicate _bát se_
+  of the relative clause.)
+
+<table> <!--Teď se budeme věnovat tomu, čeho se bojíš.-->
+<tbody><tr><td width="480">
+<div class="conllu-parse">
+# visual-style 9 7 obl:arg color:orange
+1 Teď      teď      ADV   _ _ 4 advmod _ Gloss=now
+2 se       se       PRON  _ _ 4 expl:pv _ Gloss=REFL
+3 budeme   být      AUX   _ _ 4 aux _ Gloss=we-will
+4 věnovat  věnovat  VERB  _ _ 0 root _ Gloss=attend
+5 tomu     ten      PRON  _ Case=Dat|PronType=Dem 4 obl:arg _ Gloss=to-that
+6 ,        ,        PUNCT _ _ 9 punct _ Gloss=,
+7 čeho     co       PRON  _ Case=Gen|PronType=Int,Rel 9 obl:arg _ Gloss=of-what
+8 se       se       PRON  _ _ 9 expl:pv _ Gloss=REFL
+9 bojíš    bát      VERB  _ _ 5 acl:relcl _ Gloss=you-are-afraid
+10 .       .        PUNCT _ _ 4 punct _ Gloss=.
+</div>
+</td><td width="480">
+<div class="conllu-parse">
+# visual-style 5 7 ref color:blue
+# visual-style 9 5 obl:arg:gen color:blue
+1 Teď      teď      ADV   _ _ 4 advmod _ Gloss=now
+2 se       se       PRON  _ _ 4 expl:pv _ Gloss=REFL
+3 budeme   být      AUX   _ _ 4 aux _ Gloss=we-will
+4 věnovat  věnovat  VERB  _ _ 0 root _ Gloss=attend
+5 tomu     ten      PRON  _ Case=Dat|PronType=Dem 4 obl:arg:dat 9:obl:arg:gen Gloss=to-that
+6 ,        ,        PUNCT _ _ 9 punct _ Gloss=,
+7 čeho     co       PRON  _ Case=Gen|PronType=Int,Rel 5 ref _ Gloss=of-what
+8 se       se       PRON  _ _ 9 expl:pv _ Gloss=REFL
+9 bojíš    bát      VERB  _ _ 5 acl:relcl _ Gloss=you-are-afraid
+10 .       .        PUNCT _ _ 4 punct _ Gloss=.
+</div>
+</td></tr></tbody>
+</table>
+
+☞ TODO:
 Even when the demonstrative is omitted, the relative pronoun is considered a part of the relative
 clause. For example, in _Má, co si zaslouží_, the comma before the relativizer _co_ delimits the
 boundary between the higher and the lower clause. We could analyze it as an ellipsis of
