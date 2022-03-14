@@ -590,27 +590,29 @@ ellipsis).
 
 ### Interrogative Clauses
 
-In languages where the set of relativizers overlaps with interrogative words (such as the wh-words in English),
-some clauses may superficially look like relative clauses while they are in fact interrogative clauses (indirect
-questions). Such clauses are typically complements of verbs of saying or knowing _(I don't know who paid the bill),_
-but they may also depend on a similar nominal _(the question who paid the bill)._ In this
-latter case they are adnominal clauses ([acl]()) but not relative clauses. There is no coreference between
-_question_ and _who_ (cf. _the person who paid the bill,_ here _person_ and _who_ are coreferential and it is
-a relative clause).
+In languages where the set of relativizers overlaps with interrogative words (such as English or Czech),
+some clauses may superficially look like relative clauses while they are in fact interrogative clauses
+(indirect questions). Such clauses are typically complements of verbs of saying or knowing _(I don't know
+where he lives)_ but they may also depend on a similar nominal. Compare
+
+* [cs] _dům, kde bydlel Hemingway_ “the house where Hemingway lived”
+* [cs] _otázka, kde bydlel Hemingway_ “the question of where Hemingway lived”
+
+In the second example, _kde bydlel Hemingway_ is an adnominal clause ([acl]()) but not a relative clause.
+There is no coreference between _otázka_ “question” and _kde_ “where”. There is such coreference in the
+first example, hence the clause is relative there.
 
 Language-specific guidelines must specify whether the wh-word is to be disambiguated between [PronType]()`=Int`
 and `Rel`, or it can be `PronType=Int,Rel` everywhere and the disambiguation is only at the syntactic level
 between `acl` and `acl:relcl`.
 
-<!--the question who paid the bill-->
+<!--otázka, kde bydlel Hemingway-->
 <div class="conllu-parse">
-# visual-style 6 4 obl color:orange
-1 the      the      DET   _ _ 2 det _ _
-2 question question NOUN  _ _ 0 root _ _
-3 who      who      PRON  _ _ 4 nsubj _ _
-4 paid     pay      VERB  _ _ 2 acl _ _
-5 the      the      DET   _ _ 6 det _ _
-6 bill     bill     NOUN  _ _ 4 obj _ _
+1 otázka    otázka    NOUN  _ _ 0 root                  _ Gloss=question
+2 ,         ,         PUNCT _ _ 4 punct                 _ Gloss=,
+3 kde       kde       ADV   _ PronType=Int,Rel 4 advmod _ Gloss=where
+4 bydlel    bydlet    VERB  _ _ 1 acl                   _ Gloss=lived
+5 Hemingway Hemingway PROPN _ _ 4 nsubj                 _ Gloss=Hemingway
 </div>
 
 ### Adverbial Clauses
