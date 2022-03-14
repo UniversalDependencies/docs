@@ -245,10 +245,10 @@ It does not represent the shared argument within the RC; that argument is either
 if it is in a core function, or represented by a personal pronoun (他 _tā_ “he” in the second example;
 examples from Dixon vol. 2, p.&nbsp;330).
 
-* 你给我邮来<b>的</b>信一半都是英文。
+* [zh] 你给我邮来<b>的</b>信一半都是英文。
   _Nǐ gěi wǒ yóu lái <b>de</b> xìn yībàn dōu shì yīngwén._
   “Half of the letters you send to me are in English.”
-* 我给他送书<b>的</b>人是我弟弟。
+* [zh] 我给他送书<b>的</b>人是我弟弟。
   _Wǒ gěi tā sòng shū <b>de</b> rén shì wǒ dìdì._
   “The person I gave the book to was my younger brother.”
 
@@ -318,6 +318,35 @@ examples from Dixon vol. 2, p.&nbsp;330).
 9 我       wǒ       PRON  _ _ 10 nmod:poss _ _
 10 弟弟    dìdì     NOUN  _ _ 0 root _ _
 11 。      .        PUNCT _ _ 10 punct _ _
+</div>
+</td></tr></tbody>
+</table>
+
+The relative marker may also be a bound morpheme. In Dyirbal, a relative clause is marked by relative suffix
+_-ŋu_ replacing the tense suffix on the RC verb (Dixon vol. 2, p.&nbsp;323).
+
+* [dbl] _Jani manigu budilŋa<b>ŋu</b> banagañu._ “John, who had got the money, returned.”
+  (lit. John-`Abs` money-`Dat` get-`Antip`-`Relative`-`Abs` return-`Past`.)
+
+<table> <!--我给他送书的人是我弟弟。-->
+<tbody><tr><td width="480">
+<div class="conllu-parse">
+# visual-style 3 2 obl color:orange
+1 Jani      Jani   PROPN Case=Abs _ 4 nsubj _ _
+2 manigu    mani   NOUN  Case=Dat _ 3 obl _ _
+3 budilŋaŋu budil  VERB  Case=Abs _ 1 acl:relcl _ _
+4 banagañu  banaga VERB  _ _ 0 root _ _
+5 .         .      PUNCT _ _ 4 punct _ _
+</div>
+</td><td width="480">
+<div class="conllu-parse">
+# visual-style 3 2 obl:dat color:blue
+# visual-style 3 1 nsubj color:blue
+1 Jani      Jani   PROPN Case=Abs _ 4 nsubj 3:nsubj _
+2 manigu    mani   NOUN  Case=Dat _ 3 obl:dat _ _
+3 budilŋaŋu budil  VERB  Case=Abs _ 1 acl:relcl _ _
+4 banagañu  banaga VERB  _ _ 0 root _ _
+5 .         .      PUNCT _ _ 4 punct _ _
 </div>
 </td></tr></tbody>
 </table>
