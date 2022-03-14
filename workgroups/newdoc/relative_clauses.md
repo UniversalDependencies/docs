@@ -676,6 +676,7 @@ of the main clause.
 <table> <!--Teď se budeme věnovat tomu, čeho se bojíš.-->
 <tbody><tr><td width="480">
 <div class="conllu-parse">
+# visual-style 4 5 obl:arg color:orange
 # visual-style 9 7 obl:arg color:orange
 1 Teď      teď      ADV   _ _ 4 advmod _ Gloss=now
 2 se       se       PRON  _ _ 4 expl:pv _ Gloss=REFL
@@ -690,6 +691,7 @@ of the main clause.
 </div>
 </td><td width="480">
 <div class="conllu-parse">
+# visual-style 4 5 obl:arg:dat color:blue
 # visual-style 5 7 ref color:blue
 # visual-style 9 5 obl:arg:gen color:blue
 1 Teď      teď      ADV   _ _ 4 advmod _ Gloss=now
