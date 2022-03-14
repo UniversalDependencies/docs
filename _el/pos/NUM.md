@@ -19,5 +19,3 @@ Cardinal numerals are always assigned the tag [NUM]() whether they are used as d
 -	 *ένα, δύο, τρία, εβδομήντα πέντε* "one, two, three, seventy five"
 -	I, II, III, IV, V, MMXIV
 
-
-### References

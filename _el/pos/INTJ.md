@@ -1,7 +1,7 @@
 ---
 layout: postag
-title: 'PART'
-shortdef: 'particle'
+title: 'INTJ'
+shortdef: 'interjection'
 ---
 
 ## INTJ: interjection 
