@@ -30,3 +30,5 @@ Non-inflecting verb forms ending in *-όντας, -ώντας* (adverbial partic
 
 ### References
  
+Τζάρτζανος, Αχιλλέας, 2002. *Νεοελληνική Σύνταξις της Κοινής Δημοτικής*. Αθήνα: Εκδόσεις Κυριακίδη. σελ. 225.
+https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/
