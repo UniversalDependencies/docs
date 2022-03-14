@@ -243,7 +243,9 @@ within the relative clause; it is thus not a pronoun, and not a _relativizer_ in
 above. For example, the _de_ morpheme in Chinese marks the preceding clause as a relative clause.
 It does not represent the shared argument within the RC; that argument is either realized by zero
 if it is in a core function, or represented by a personal pronoun (他 _tā_ “he” in the second example;
-examples from Dixon vol. 2, p.&nbsp;330).
+examples from Dixon vol. 2, p.&nbsp;330[^3]).
+
+[^3]: R. M. W. Dixon. 2013 (first published 2010). _Basic Linguistic Theory._ Oxford University Press, Oxford, UK. ISBN 978-0-19-957108-6.
 
 * [zh] 你给我邮来<b>的</b>信一半都是英文。
   _Nǐ gěi wǒ yóu lái <b>de</b> xìn yībàn dōu shì yīngwén._
@@ -684,12 +686,12 @@ Other languages do not have this problem, as they use distinct words for the adv
 * [cs] _Nemůžeš se koupat, <b>když<tt>/SCONJ</tt></b> je takovéhle počasí._ “You cannot swim when the weather is like this.”
 
 Some phrases are ambiguous. _The ceremony where/when we became citizens_ can be interpreted as an RC if the bestowal
-of citizenship happened during the ceremony (_in which_ interpretation[^3], thus `acl:relcl`).
+of citizenship happened during the ceremony (_in which_ interpretation[^4], thus `acl:relcl`).
 But _the ceremony when we became citizens_ could be used to refer to a particular ceremony held around the time
 of becoming a citizen, as opposed to some other ceremony held at some other time; the modifier can be fronted as
 an `advmod` within the higher clause: _When we became citizens, the ceremony..._. This is the `acl` interpretation.
 
-[^3]: Or, formally, _wherein_.
+[^4]: Or, formally, _wherein_.
 
 
 
@@ -827,7 +829,7 @@ of the main clause.
 </td></tr></tbody>
 </table>
 
-In rare cases,[^4] the demonstrative can be omitted in Czech. Even when the demonstrative is omitted, the relative
+In rare cases,[^5] the demonstrative can be omitted in Czech. Even when the demonstrative is omitted, the relative
 pronoun is considered a part of the relative clause, not of the main clause. First, the relative
 pronoun still follows the case requirements of the relative clause. This is not easy to observe
 due to limited contexts in which the demonstrative is omitted and to case syncretism, yet it is so.
@@ -835,7 +837,7 @@ Second, according to the Czech grammar, the relative clause is obligatorily deli
 from the main clause in writing, and the comma is invariably put before the relative pronoun, not
 after it.
 
-[^4]: The necessary condition for omissibility of the demonstrative seems to be that the main clause require it to be in accusative or nominative _(to)_. In most cases, the relative clause also requires the relative pronoun to be in accusative or nominative _(co)_, although PDT contains one example where the relative is in the genitive (_Lidé ničili (to), čeho se jim dostalo jako božího daru._ “People destroyed what they received as a gift from God.”) For a query that partially filters examples of omitted demonstrative in UD_Czech-PDT 2.9, see [http://hdl.handle.net/11346/PMLTQ-XWFZ](http://hdl.handle.net/11346/PMLTQ-XWFZ).
+[^5]: The necessary condition for omissibility of the demonstrative seems to be that the main clause require it to be in accusative or nominative _(to)_. In most cases, the relative clause also requires the relative pronoun to be in accusative or nominative _(co)_, although PDT contains one example where the relative is in the genitive (_Lidé ničili (to), čeho se jim dostalo jako božího daru._ “People destroyed what they received as a gift from God.”) For a query that partially filters examples of omitted demonstrative in UD_Czech-PDT 2.9, see [http://hdl.handle.net/11346/PMLTQ-XWFZ](http://hdl.handle.net/11346/PMLTQ-XWFZ).
 
 * [cs] _Má (to), co si zaslouží._ “He has what he deserves.” (main clause accusative, relative clause accusative)
 * [cs] _Dostanou (to), co jim patří._ “They get what belongs to them.” (main clause accusative, relative clause nominative)
