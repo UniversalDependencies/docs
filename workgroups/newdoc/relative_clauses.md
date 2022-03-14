@@ -236,6 +236,94 @@ A relative clause with no relativizer, like (1), is called a **reduced relative 
 
 
 
+## Relative Markers
+
+In some languages, the relative clause is marked by a morpheme that does not represent any argument
+within the relative clause; it is thus not a pronoun, and not a _relativizer_ in the sense described
+above. For example, the _de_ morpheme in Chinese marks the preceding clause as a relative clause.
+It does not represent the shared argument within the RC; that argument is either realized by zero
+if it is in a core function, or represented by a personal pronoun (他 _tā_ “he” in the second example;
+examples from Dixon vol. 2, p.&nbsp;330).
+
+* 你给我邮来<b>的</b>信一半都是英文。
+  _Nǐ gěi wǒ yóu lái <b>de</b> xìn yībàn dōu shì yīngwén._
+  “Half of the letters you send to me are in English.”
+* 我给他送书<b>的</b>人是我弟弟。
+  _Wǒ gěi tā sòng shū <b>de</b> rén shì wǒ dìdì._
+  “The person I gave the book to was my younger brother.”
+
+<table> <!--你给我邮来的信一半都是英文。-->
+<tbody><tr><td width="480">
+<div class="conllu-parse">
+# visual-style 4 3 obl color:orange
+1 你       nǐ       PRON  _ _ 4 nsubj _ _
+2 给       gěi      ADP   _ _ 3 case _ _
+3 我       wǒ       PRON  _ _ 4 obl _ _
+4 邮来     yóulái   VERB  _ _ 6 acl:relcl _ _
+5 的       de       SCONJ _ _ 4 mark _ _
+6 信       xìn      NOUN  _ _ 7 nmod _ _
+7 一半     yībàn    ADV   _ _ 10 nsubj _ _
+8 都       dōu      DET   _ _ 7 det _ _
+9 是       shì      AUX   _ _ 10 cop _ _
+10 英文    yīngwén  NOUN  _ _ 0 root _ _
+11 。      .        PUNCT _ _ 10 punct _ _
+</div>
+</td><td width="480">
+<div class="conllu-parse">
+# visual-style 4 3 obl:给 color:blue
+# visual-style 4 6 obj color:blue
+1 你       nǐ       PRON  _ _ 4 nsubj _ _
+2 给       gěi      ADP   _ _ 3 case _ _
+3 我       wǒ       PRON  _ _ 4 obl:给 _ _
+4 邮来     yóulái   VERB  _ _ 6 acl:relcl _ _
+5 的       de       SCONJ _ _ 4 mark _ _
+6 信       xìn      NOUN  _ _ 7 nmod 4:obj _
+7 一半     yībàn    ADV   _ _ 10 nsubj _ _
+8 都       dōu      DET   _ _ 7 det _ _
+9 是       shì      AUX   _ _ 10 cop _ _
+10 英文    yīngwén  NOUN  _ _ 0 root _ _
+11 。      .        PUNCT _ _ 10 punct _ _
+</div>
+</td></tr></tbody>
+</table>
+
+<table> <!--我给他送书的人是我弟弟。-->
+<tbody><tr><td width="480">
+<div class="conllu-parse">
+# visual-style 4 3 obl color:orange
+1 我       wǒ       PRON  _ _ 4 nsubj _ _
+2 给       gěi      ADP   _ _ 3 case _ _
+3 他       tā       PRON  _ _ 4 obl _ _
+4 送       sòng     VERB  _ _ 7 acl:relcl _ _
+5 书       shū      NOUN  _ _ 4 obj _ _
+6 的       de       SCONJ _ _ 4 mark _ _
+7 人       rén      NOUN  _ _ 10 nsubj _ _
+8 是       shì      AUX   _ _ 10 cop _ _
+9 我       wǒ       PRON  _ _ 10 nmod:poss _ _
+10 弟弟    dìdì     NOUN  _ _ 0 root _ _
+11 。      .        PUNCT _ _ 10 punct _ _
+</div>
+</td><td width="480">
+<div class="conllu-parse">
+# visual-style 7 3 ref color:blue
+# visual-style 4 7 obl:给 color:blue
+1 我       wǒ       PRON  _ _ 4 nsubj _ _
+2 给       gěi      ADP   _ _ 3 case _ _
+3 他       tā       PRON  _ _ 7 ref _ _
+4 送       sòng     VERB  _ _ 7 acl:relcl _ _
+5 书       shū      NOUN  _ _ 4 obj _ _
+6 的       de       SCONJ _ _ 4 mark _ _
+7 人       rén      NOUN  _ _ 10 nsubj 4:obl:给 _
+8 是       shì      AUX   _ _ 10 cop _ _
+9 我       wǒ       PRON  _ _ 10 nmod:poss _ _
+10 弟弟    dìdì     NOUN  _ _ 0 root _ _
+11 。      .        PUNCT _ _ 10 punct _ _
+</div>
+</td></tr></tbody>
+</table>
+
+
+
 ## Notable Properties
 
 In some languages (such as English), relative clauses are typically expected to be finite _(people who live in glass houses),_
