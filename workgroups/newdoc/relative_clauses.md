@@ -669,22 +669,6 @@ by _in which_ or similar, or if the head noun reifies the kind of relation (_the
 </td></tr></tbody>
 </table>
 
-Note that the English word _when_ is ambiguous between an interrogative/relative adverb, and a subordinating
-conjunction introducing a conditional clause. In the former context it should be tagged [ADV]() `PronType=Int,Rel`,
-in the latter it should be tagged [SCONJ]().
-
-* _I don't know <b>when<tt>/ADV</tt></b> he comes._
-  * Adnominal: _the question <b>when<tt>/ADV</tt></b> he comes_
-  * Adnominal relative: _the moment <b>when<tt>/ADV</tt></b> he comes_
-* _You cannot swim <b>when<tt>/SCONJ</tt></b> the weather is like this._
-
-Other languages do not have this problem, as they use distinct words for the adverb and the subordinating conjunction:
-
-* [cs] _Nevím, <b>kdy<tt>/ADV</tt></b> přijde._ “I don't know when he comes.”
-  * Adnominal: [cs] _otázka, <b>kdy<tt>/ADV</tt></b> přijde_ “the question when he comes”
-  * Adnominal relative: [cs] _okamžik, <b>kdy<tt>/ADV</tt></b> přijde_ “the moment when he comes”
-* [cs] _Nemůžeš se koupat, <b>když<tt>/SCONJ</tt></b> je takovéhle počasí._ “You cannot swim when the weather is like this.”
-
 Some phrases are ambiguous. _The ceremony where/when we became citizens_ can be interpreted as an RC if the bestowal
 of citizenship happened during the ceremony (_in which_ interpretation[^4], thus `acl:relcl`).
 But _the ceremony when we became citizens_ could be used to refer to a particular ceremony held around the time
@@ -692,6 +676,30 @@ of becoming a citizen, as opposed to some other ceremony held at some other time
 an `advmod` within the higher clause: _When we became citizens, the ceremony..._. This is the `acl` interpretation.
 
 [^4]: Or, formally, _wherein_.
+
+### Interrogative/Relative Adverbs versus Subordinating Conjunctions
+
+Note that the English word _when_ is ambiguous between an interrogative/relative adverb, and a subordinating
+conjunction introducing a conditional clause. In the former context it should be tagged [ADV]() `PronType=Int,Rel`,
+in the latter it should be tagged [SCONJ]().
+
+<!-- https://github.com/UniversalDependencies/docs/commit/b7eeeee6a99be469f2a628e8a0530cbf43008473#commitcomment-68587595 -->
+<span style='color:red; font-weight:bold'>DZ: In the end it is not at all clear whether there are good reasons
+to distinguish when/ADV and when/SCONJ. However, the adverbial reading clearly exists, so we cannot say that
+the word is always SCONJ. If we cannot find a justifiable dividing line, then the word must be always ADV.</span>
+
+* Complement clause: _I don't know <b>when<tt>/ADV</tt></b> he came._
+  * Adnominal clause: _the question of <b>when<tt>/ADV</tt></b> he came_
+* Temporal adverbial clause: _We were eating <b>when<tt>/ADV</tt></b> he came._
+  * Adnominal relative clause: _the moment <b>when<tt>/ADV</tt></b> he came_
+* Conditional adverbial clause: _You cannot swim <b>when<tt>/SCONJ</tt></b> the weather is like this._
+
+Other languages do not have this problem, as they use distinct words for the adverb and the subordinating conjunction:
+
+* [cs] _Nevím, <b>kdy<tt>/ADV</tt></b> přijde._ “I don't know when he comes.”
+  * Adnominal: [cs] _otázka, <b>kdy<tt>/ADV</tt></b> přijde_ “the question when he comes”
+  * Adnominal relative: [cs] _okamžik, <b>kdy<tt>/ADV</tt></b> přijde_ “the moment when he comes”
+* [cs] _Nemůžeš se koupat, <b>když<tt>/SCONJ</tt></b> je takovéhle počasí._ “You cannot swim when the weather is like this.”
 
 
 
