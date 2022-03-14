@@ -332,9 +332,9 @@ _-ŋu_ replacing the tense suffix on the RC verb (Dixon vol. 2, p.&nbsp;323).
 <tbody><tr><td width="480">
 <div class="conllu-parse">
 # visual-style 3 2 obl color:orange
-1 Jani      Jani   PROPN Case=Abs _ 4 nsubj _ _
-2 manigu    mani   NOUN  Case=Dat _ 3 obl _ _
-3 budilŋaŋu budil  VERB  Case=Abs _ 1 acl:relcl _ _
+1 Jani      Jani   PROPN _ Case=Abs 4 nsubj _ _
+2 manigu    mani   NOUN  _ Case=Dat 3 obl _ _
+3 budilŋaŋu budil  VERB  _ Case=Abs 1 acl:relcl _ _
 4 banagañu  banaga VERB  _ _ 0 root _ _
 5 .         .      PUNCT _ _ 4 punct _ _
 </div>
@@ -342,9 +342,9 @@ _-ŋu_ replacing the tense suffix on the RC verb (Dixon vol. 2, p.&nbsp;323).
 <div class="conllu-parse">
 # visual-style 3 2 obl:dat color:blue
 # visual-style 3 1 nsubj color:blue
-1 Jani      Jani   PROPN Case=Abs _ 4 nsubj 3:nsubj _
-2 manigu    mani   NOUN  Case=Dat _ 3 obl:dat _ _
-3 budilŋaŋu budil  VERB  Case=Abs _ 1 acl:relcl _ _
+1 Jani      Jani   PROPN _ Case=Abs 4 nsubj 3:nsubj _
+2 manigu    mani   NOUN  _ Case=Dat 3 obl:dat _ _
+3 budilŋaŋu budil  VERB  _ Case=Abs 1 acl:relcl _ _
 4 banagañu  banaga VERB  _ _ 0 root _ _
 5 .         .      PUNCT _ _ 4 punct _ _
 </div>
