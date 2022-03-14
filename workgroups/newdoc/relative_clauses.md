@@ -706,23 +706,25 @@ of the main clause.
 </td></tr></tbody>
 </table>
 
+In rare cases[^4] the demonstrative can be omitted in Czech. Even when it is omitted, the relative
+pronoun is considered a part of the relative clause, not of the main clause. First, the relative
+pronoun still follows the case requirements of the relative clause. This is not easy to observe
+due to limited contexts in which the demonstrative is omitted and to case syncretism, yet it is so.
+Second, according to the Czech grammar, the relative clause is obligatorily delimited by a comma
+from the main clause in writing, and the comma is invariably put before the relative pronoun, not
+after it.
+
+[^4]: The necessary condition for omissibility of the demonstrative seems to be that the main clause require it to be in accusative or nominative _(to)_. In most cases, the relative clause also requires the relative pronoun to be in accusative or nominative _(co)_, although PDT contains one example where the relative is in the genitive (_Lidé ničili (to), čeho se jim dostalo jako božího daru._ “People destroyed what they received as a gift from God.”) For a query that partially filters examples of omitted demonstrative in UD_Czech-PDT 2.9, see [http://hdl.handle.net/11346/PMLTQ-XWFZ](http://hdl.handle.net/11346/PMLTQ-XWFZ).
+
+* [cs] _Má (to), co si zaslouží._ “He has what he deserves.” (main clause accusative, relative clause accusative)
+* [cs] _Dostanou (to), co jim patří._ “They get what belongs to them.” (main clause accusative, relative clause nominative)
+* [cs] _Lidé ničili (to), čeho se jim dostalo jako božího daru._ “People destroyed what they received as a gift from God.” (main clause accusative, relative clause genitive)
+
 ☞ TODO:
-Even when the demonstrative is omitted, the relative pronoun is considered a part of the relative
-clause. For example, in _Má, co si zaslouží_, the comma before the relativizer _co_ delimits the
-boundary between the higher and the lower clause. We could analyze it as an ellipsis of
+We could analyze it as an ellipsis of
 _Má to, co si zaslouží_. But it would mean that the relative clause would be promoted to the
 position of the elided demonstrative, it would get the [obj]() relation and there would be no
-trace of [acl:relcl](). In this example, both the elided _to_ and the present _co_ are in the
-accusative, so the main obstacle for giving it the English-like free relative analysis is the
-comma (in Czech obligatory marking of nested clause boundary). I suspect that it is no coincidence
-that both pronouns share the accusative case. If they had different cases, the ellipsis would be
-much less likely. Such examples are extremely rare but I have found one:
-_Lidé ničili (to), čeho se jim dostalo jako božího daru._ (Higher clause requires accusative,
-the nested clause requires genitive. The accusative _to_ is elided. The genitive form of _čeho_
-is evidence that it belongs to the nested, not to the higher clause.)
-Another example is accusative-nominative (but they have the same form for the pronoun _co_,
-so it is not so problematic for the speakers): _Dostanou, co jim patří._
-(http://hdl.handle.net/11346/PMLTQ-XWFZ)
+trace of [acl:relcl]().
 Alternatively we could say about these examples that they are not elliptical, they are simply
 a complement clause [ccomp]() (that is actually the current conversion of the Czech data;
 and if the requirement were to distinguish "ellipsis-free relatives" from normal complement
