@@ -679,27 +679,31 @@ an `advmod` within the higher clause: _When we became citizens, the ceremony..._
 
 ### Interrogative/Relative Adverbs versus Subordinating Conjunctions
 
-Note that the English word _when_ is ambiguous between an interrogative/relative adverb, and a subordinating
-conjunction introducing a conditional clause. In the former context it should be tagged [ADV]() `PronType=Int,Rel`,
-in the latter it should be tagged [SCONJ]().
+Relative adverbs ([ADV]() `PronType=Int,Rel`) should not be confused with subordinating conjunctions ([SCONJ]()).
+The former are constituents in the sentence, they refer to circumstances such as location or time of an event.
+The latter just mark a clause as such a constituent, but they are not constituents themselves. The problem is
+that some words in some languages seem to oscilate between the two categories. For example, the English word _when_
+is clearly an adverb in interrogative contexts: _When did he arrive?_ Like other English question words, it
+can also be used as a relative adverb: _That's the moment when you'll realise what really matters to you._
+In this sentence, _when_ is a constituent of the relative clause and although it is an adverb (and not a nominal),
+it is coreferential with the nominal argument in the main clause, _the moment_. However, in other contexts
+the reference to a particular time period seems to be weakened and the adverb seems to be in the process of
+grammaticalization towards a subordinating conjunction, somewhat similar to _if_ (which is never an adverb):
+_These companies find it harder to recruit skilled graduates <b>when</b> financial firms can pay higher salaries._
 
+<span style='color:red; font-weight:bold'>DZ: One option is to say that _when_ is always `ADV` and never `SCONJ`,
+despite possible grammaticalization. Another option is to say that when it introduces an adverbial clause, it is
+`SCONJ`, otherwise it is `ADV`. Adverbial clauses indeed can be introduced by subordinating conjunctions, such
+as _if_.</span>
 <!-- https://github.com/UniversalDependencies/docs/commit/b7eeeee6a99be469f2a628e8a0530cbf43008473#commitcomment-68587595 -->
-<span style='color:red; font-weight:bold'>DZ: In the end it is not at all clear whether there are good reasons
-to distinguish when/ADV and when/SCONJ. However, the adverbial reading clearly exists, so we cannot say that
-the word is always SCONJ. If we cannot find a justifiable dividing line, then the word must be always ADV.</span>
 
-* Complement clause: _I don't know <b>when<tt>/ADV</tt></b> he came._
-  * Adnominal clause: _the question of <b>when<tt>/ADV</tt></b> he came_
-* Temporal adverbial clause: _We were eating <b>when<tt>/ADV</tt></b> he came._
-  * Adnominal relative clause: _the moment <b>when<tt>/ADV</tt></b> he came_
-* Conditional adverbial clause: _You cannot swim <b>when<tt>/SCONJ</tt></b> the weather is like this._
+Other languages do not have this problem, as they use distinct words for the adverb and the subordinating
+conjunction. For example, the possible Czech translations of _when_ are either _kdy_ (`ADV`) or _když_ (`SCONJ`):
 
-Other languages do not have this problem, as they use distinct words for the adverb and the subordinating conjunction:
-
-* [cs] _Nevím, <b>kdy<tt>/ADV</tt></b> přijde._ “I don't know when he comes.”
-  * Adnominal: [cs] _otázka, <b>kdy<tt>/ADV</tt></b> přijde_ “the question when he comes”
-  * Adnominal relative: [cs] _okamžik, <b>kdy<tt>/ADV</tt></b> přijde_ “the moment when he comes”
-* [cs] _Nemůžeš se koupat, <b>když<tt>/SCONJ</tt></b> je takovéhle počasí._ “You cannot swim when the weather is like this.”
+* [cs] _Neodpověděl mi na otázku, <b>kdy</b> hodlá přijet._ “He didn't answer my question of <b>when</b> he was going to come.”
+* [cs] _V okamžiku, <b>kdy</b> přijede, jsme připraveni mu předvést výsledky._ “The moment he arrives, we are ready to show him the results.”
+* [cs] _Nepřijel, <b>když</b> jsme to nejvíc potřebovali._ “He didn't come <b>when</b> we needed it most.”
+* [cs] _<b>Když</b> budete mít výsledky, přijedu také._ “<b>If</b> you have results, I will come too.”
 
 
 
@@ -916,8 +920,16 @@ These are much closer to the English free relatives described above but are not 
 that way. Free relatives are evil!</span>
 
 ☞ TODO:
+Ohledně free relatives se v práci podívat jednak do Huddleston and Pullum, jednak do nějaké podobně
+silné autority pro češtinu (Akademická mluvnice nebo Štíchova mluvnice).
+
+☞ TODO:
 _Koho chleba jíš, toho píseň zpívej._ “Sing the song of those whose bread you eat.”
 (a semantically equivalent English proverb: “Let every man praise the bridge he goes over.”)
+
+☞ TODO:
+Add examples from languages where the fullest representation of the common argument is in the relative
+clause and there is nothing in the main clause.
 
 
 
