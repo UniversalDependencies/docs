@@ -928,7 +928,7 @@ examples resemble the English free relatives more closely than the previous ones
 
 <!--
 Dixon (vol. 2 p. 359, §17.5.3) calls them “Condensed (or fused) relative clauses”. He does not provide clues as to what to do with them in dependency structures. Nor does he explain why they should be different from canonical relative clauses in languages where the full nominal can be or must be expressed within the relative clause (rather than the main clause).
-Avery D. Andrews. 2007. Relative clauses. In: Timothy Shopen (ed.): Language Typology and Syntactic Description. Volume II: Complex Constructions (second edition). Cambridge University Presss, Cambridge, UK. ISBN 978-0-521-58856-0, pp. 206–236.
+Avery D. Andrews. 2007. Relative clauses. In: Timothy Shopen (ed.): Language Typology and Syntactic Description. Volume II: Complex Constructions (second edition). Cambridge University Presss, Cambridge, UK. ISBN 978-0-521-58856-0, pp. 206–236. Free RCs are §1.1.3; Andrews says that Bresnan and Grimshaw (1978) argue for the relativizer's being part of the main clause, but he shows that this is problematic even in English.
 
 Further examples and discussion for Slavic languages:
 Roland Sussex, Paul Cubberley. 2011 (first published 2006). The Slavic Languages. Cambridge University Presss, Cambridge, UK. ISBN 978-0-521-29448-5, pp. 388–389, examples (131a–e).
