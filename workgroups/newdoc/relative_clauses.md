@@ -792,11 +792,11 @@ of the relative clause and the modified nominal will still be added.
 that a relative clause should not be a subtype of `acl` because it does not modify a nominal. Here
 it modifies an adverb _(where)_, hence I went with `advcl:relcl`.</span>
 
-Not all languages have free relatives in the same sense as in English. In Czech, the corresponding
-construction will typically involve a demonstrative pronoun, which will be modified by a relative
-clause. The relative clause will have a relative pronoun, which will be case-marked as required
-within the relative clause, while the case marking of the demonstrative is driven by the requirements
-of the main clause.
+Not all languages have free relatives in the same sense and extent as in English.
+In Czech, the corresponding construction will typically involve a demonstrative pronoun, which
+will be modified by a relative clause. The relative clause will have a relative pronoun, which will
+be case-marked as required within the relative clause, while the case marking of the demonstrative
+is driven by the requirements of the main clause.
 
 * [cs] _Teď se budeme věnovat <b>tomu</b>, <b>čeho</b> se bojíš._
   “Let's now attend to what you are afraid of.”
@@ -925,6 +925,19 @@ examples resemble the English free relatives more closely than the previous ones
 * [cs] _Kdo kupoval později, může dnes své akcie prodat dráž._ “Whoever bought later can sell their shares more expensive today.” <!-- http://hdl.handle.net/11346/PMLTQ-IXY8 -->
 * [cs] _Kdo se bojí, nesmí do lesa._ “He that is afraid of leaves must not come in a forest.” <!-- Petr Karlík, Marek Nekula, Zdenka Rusínová (eds.) 1996. Příruční mluvnice češtiny. Nakladatelství Lidové noviny, Praha. ISBN 80-7106-134-4 (str. 414, bod 640d): „Jsou to podmětné věty vztažné. Nominativní forma podmětu může být signalizována výrazem _ten_ v Nom (Ten, kdo se bojí, nesmí do lesa) a _to_ (To, co se vleče, neuteče), který plní funkci pádového ukazatele. Někdy je možné výraz _ten, to_ opakovat dvakrát: Ten, kdo se opozdí, tak ten nic nedostane.“ Jde tedy o vedlejší větu podmětnou, ale je to jiný druh podmětné věty, než u tzv. podmětu situačního (str. 416, bod 642): Říká se, že elektřina bude od června dražší. Vadilo by mi být poslední v každém závodě.-->
 * [cs] _Co se vleče, neuteče._ “All is not lost that is delayed.”
+
+<!--
+Dixon (vol. 2 p. 359, §17.5.3) calls them “Condensed (or fused) relative clauses”. He does not provide clues as to what to do with them in dependency structures. Nor does he explain why they should be different from canonical relative clauses in languages where the full nominal can be or must be expressed within the relative clause (rather than the main clause).
+Avery D. Andrews. 2007. Relative clauses. In: Timothy Shopen (ed.): Language Typology and Syntactic Description. Volume II: Complex Constructions (second edition). Cambridge University Presss, Cambridge, UK. ISBN 978-0-521-58856-0, pp. 206–236.
+
+Further examples and discussion for Slavic languages:
+Roland Sussex, Paul Cubberley. 2011 (first published 2006). The Slavic Languages. Cambridge University Presss, Cambridge, UK. ISBN 978-0-521-29448-5, pp. 388–389, examples (131a–e).
+David Short. 2006 (first published 1993). Czech. In: Bernard Comrie, Greville G. Corbett (eds.) The Slavonic Languages. Routledge, Oxon, UK. ISBN 978-0-415-28078-5, pp. 508–509 discuss relative clauses but there is nothing specific about free relatives.
+Petr Karlík. 2013. K vztažným větám bez hlavy. In: Dan Faltýnek, Vít Gvoždiak (eds.) Tygramatika. Soubor studií věnovaných prof. Janu Kořenskému k 75. narozeninám. Dokořán, Praha, pp. 91–106. [does not seem to be available online]
+... alternative: https://www.czechency.org/slovnik/VZTA%C5%BDN%C3%81%20V%C4%9ATA%20BEZ%20HLAVY (Nový encyklopedický slovník češtiny, heslo Vztažná věta bez hlavy, Petr Karlík & Radek Šimík
+Radek Šimík. 2016. On the semantics of Czech free relatives. 64 / 2016 / 1, pp. 109–129.
+Radek Šimík. 2018. Ever free relatives crosslinguistically. In: Uli Sauerland, Stephanie Solt (eds.): Proceedings of Sinn und Bedeutung 22, vol. 2, ZASPiL 61, pp. 375–392, ZAS, Berlin.
+-->
 
 These **relative clausal subjects** are different from **situational clausal subjects** <!-- PMČ §642 and 622 -->
 in that they represent an entity rather than a situation (event or state). An example of a situational
