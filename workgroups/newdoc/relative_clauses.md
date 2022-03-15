@@ -926,7 +926,7 @@ examples resemble the English free relatives more closely than the previous ones
 * [cs] _Kdo se bojí, nesmí do lesa._ “He that is afraid of leaves must not come in a forest.” <!-- Petr Karlík, Marek Nekula, Zdenka Rusínová (eds.) 1996. Příruční mluvnice češtiny. Nakladatelství Lidové noviny, Praha. ISBN 80-7106-134-4 (str. 414, bod 640d): „Jsou to podmětné věty vztažné. Nominativní forma podmětu může být signalizována výrazem _ten_ v Nom (Ten, kdo se bojí, nesmí do lesa) a _to_ (To, co se vleče, neuteče), který plní funkci pádového ukazatele. Někdy je možné výraz _ten, to_ opakovat dvakrát: Ten, kdo se opozdí, tak ten nic nedostane.“ Jde tedy o vedlejší větu podmětnou, ale je to jiný druh podmětné věty, než u tzv. podmětu situačního (str. 416, bod 642): Říká se, že elektřina bude od června dražší. Vadilo by mi být poslední v každém závodě.-->
 * [cs] _Co se vleče, neuteče._ “All is not lost that is delayed.”
 
-These relative clausal subjects are different from **situational clausal subjects** <!-- PMČ §642 and 622 -->
+These **relative clausal subjects** are different from **situational clausal subjects** <!-- PMČ §642 and 622 -->
 in that they represent an entity rather than a situation (event or state). An example of a situational
 clausal subject would be _Že je nevinen, bylo jasně prokázáno._ “That he was innocent was clearly proven.”
 Nevertheless, relative clausal subjects are still clausal subjects, and there is no reason why they
