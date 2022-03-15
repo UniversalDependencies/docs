@@ -682,9 +682,9 @@ an `advmod` within the higher clause: _When we became citizens, the ceremony..._
 Relative adverbs ([ADV]() `PronType=Int,Rel`) should not be confused with subordinating conjunctions ([SCONJ]()).
 The former are constituents in the sentence, they refer to circumstances such as location or time of an event.
 The latter just mark a clause as such a constituent, but they are not constituents themselves. The problem is
-that some words in some languages seem to oscilate between the two categories. For example, the English word _when_
-is clearly an adverb in interrogative contexts: _When did he arrive?_ Like other English question words, it
-can also be used as a relative adverb: _That's the moment when you'll realise what really matters to you._
+that some words in some languages seem to oscillate between the two categories. For example, the English word _when_
+is clearly an adverb in interrogative contexts: _<b>When</b> did he arrive?_ Like other English question words, it
+can also be used as a relative adverb: _That's the moment <b>when</b> you'll realize what really matters to you._
 In this sentence, _when_ is a constituent of the relative clause and although it is an adverb (and not a nominal),
 it is coreferential with the nominal argument in the main clause, _the moment_. However, in other contexts
 the reference to a particular time period seems to be weakened and the adverb seems to be in the process of
@@ -914,16 +914,30 @@ the same way as free relatives in English. So what are the options?
 </td></tr></tbody>
 </table>
 
-<span style='color:red; font-weight:bold'>DZ: [http://hdl.handle.net/11346/PMLTQ-IXY8](http://hdl.handle.net/11346/PMLTQ-IXY8)
-has a different set of examples with _kdo/kde/kdy(koli)_ at the beginning of the sentence.
-These are much closer to the English free relatives described above but are not analyzed
-that way. Free relatives are evil!</span>
+In the Czech examples so far, the elided argument always functioned as a direct object in the main clause.
+There is another pattern where the common argument acts as a subject both in the main clause and in the
+relative clause. There are thus no case conflicts, as both positions require the nominative. These
+examples resemble the English free relatives more closely than the previous ones.[^6]
+
+[^6]: See [http://hdl.handle.net/11346/PMLTQ-IXY8](http://hdl.handle.net/11346/PMLTQ-IXY8) for similar examples in UD Czech PDT 2.9.
+
+* [cs] _Kdo neokrádá stát, okrádá svou rodinu._ “He who does not rob the state robs his family.” <!-- http://hdl.handle.net/11346/PMLTQ-IXY8 -->
+* [cs] _Kdo kupoval později, může dnes své akcie prodat dráž._ “Whoever bought later can sell their shares more expensive today.” <!-- http://hdl.handle.net/11346/PMLTQ-IXY8 -->
+* [cs] _Kdo se bojí, nesmí do lesa._ “He that is afraid of leaves must not come in a forest.” <!-- Petr Karlík, Marek Nekula, Zdenka Rusínová (eds.) 1996. Příruční mluvnice češtiny. Nakladatelství Lidové noviny, Praha. ISBN 80-7106-134-4 (str. 414, bod 640d): „Jsou to podmětné věty vztažné. Nominativní forma podmětu může být signalizována výrazem _ten_ v Nom (Ten, kdo se bojí, nesmí do lesa) a _to_ (To, co se vleče, neuteče), který plní funkci pádového ukazatele. Někdy je možné výraz _ten, to_ opakovat dvakrát: Ten, kdo se opozdí, tak ten nic nedostane.“ Jde tedy o vedlejší větu podmětnou, ale je to jiný druh podmětné věty, než u tzv. podmětu situačního (str. 416, bod 642): Říká se, že elektřina bude od června dražší. Vadilo by mi být poslední v každém závodě.-->
+* [cs] _Co se vleče, neuteče._ “All is not lost that is delayed.”
+
+These relative clausal subjects are different from **situational clausal subjects** <!-- PMČ §642 and 622 -->
+in that they represent an entity rather than a situation (event or state). An example of a situational
+clausal subject would be _Že je nevinen, bylo jasně prokázáno._ “That he was innocent was clearly proven.”
+Nevertheless, relative clausal subjects are still clausal subjects, and there is no reason why they
+could not be attached via the [csubj]() relation. In particular, there is no indication that the relative
+pronoun belongs to the main clause (rather than to the RC).
 
 ☞ TODO:
 Ohledně free relatives se v práci podívat jednak do Huddleston and Pullum, jednak do nějaké podobně
 silné autority pro češtinu (Akademická mluvnice nebo Štíchova mluvnice).
 
-☞ TODO:
+☞ TODO: correlatives (also in Indian languages)
 _Koho chleba jíš, toho píseň zpívej._ “Sing the song of those whose bread you eat.”
 (a semantically equivalent English proverb: “Let every man praise the bridge he goes over.”)
 
