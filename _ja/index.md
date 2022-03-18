@@ -98,7 +98,7 @@ The BCCWJ-DepPara schema is two-sided: bunsetsu-based dependency using four labe
 There are [five](../treebanks/ja-comparison.html) Japanese UD treebanks:
 
   * [Japanese-GSD](../treebanks/ja_gsd/index.html)
-  * [Japanese-BCCWJ](../treebanks/ja_bccws/index.html)
+  * [Japanese-BCCWJ](../treebanks/ja_bccwj/index.html)
   * [Japanese-KTC](../treebanks/ja_ktc/index.html)
   * [Japanese-Modern](../treebanks/ja_modern/index.html)
   * [Japanese-PUD](../treebanks/ja_pud/index.html)
