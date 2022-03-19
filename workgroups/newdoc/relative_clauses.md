@@ -929,10 +929,14 @@ examples resemble the English free relatives more closely than the previous ones
 <!--
 Dixon (vol. 2 p. 359, §17.5.3) calls them “Condensed (or fused) relative clauses”. He does not provide clues as to what to do with them in dependency structures. Nor does he explain why they should be different from canonical relative clauses in languages where the full nominal can be or must be expressed within the relative clause (rather than the main clause).
 Avery D. Andrews. 2007. Relative clauses. In: Timothy Shopen (ed.): Language Typology and Syntactic Description. Volume II: Complex Constructions (second edition). Cambridge University Presss, Cambridge, UK. ISBN 978-0-521-58856-0, pp. 206–236. Free RCs are §1.1.3; Andrews says that Bresnan and Grimshaw (1978) argue for the relativizer's being part of the main clause, but he shows that this is problematic even in English.
+Rodney Huddleston, Geoffrey K. Pullum. 2002. The Cambridge Grammar of the English Language. Cambridge University Press, Cambridge. ISBN 0-521-43146-8.
+Str. 1035–1036: The fused relative construction. A potom str. 1068–1079, §6 The fused relative construction. 6.2 Fused relatives contrasted with open interrogatives ... ukazuje, že může být těžké je rozlišit. To je podle mě argument, aby je UD anotovalo stejně.
 
 Further examples and discussion for Slavic languages:
 Roland Sussex, Paul Cubberley. 2011 (first published 2006). The Slavic Languages. Cambridge University Presss, Cambridge, UK. ISBN 978-0-521-29448-5, pp. 388–389, examples (131a–e).
 David Short. 2006 (first published 1993). Czech. In: Bernard Comrie, Greville G. Corbett (eds.) The Slavonic Languages. Routledge, Oxon, UK. ISBN 978-0-415-28078-5, pp. 508–509 discuss relative clauses but there is nothing specific about free relatives.
+František Daneš, Miroslav Grepl, Zdeněk Hlavsa (eds.) 1987. Mluvnice češtiny (3) Skladba. [The Grammar of Czech (3) Syntax.] Academia, Praha.
+František Štícha et al. 2013. Akademická gramatika spisovné češtiny. [The Academic Grammar of Standard Czech.] Academia, Praha. ISBN 978-80-200-2205-9.
 Petr Karlík. 2013. K vztažným větám bez hlavy. In: Dan Faltýnek, Vít Gvoždiak (eds.) Tygramatika. Soubor studií věnovaných prof. Janu Kořenskému k 75. narozeninám. Dokořán, Praha, pp. 91–106. [does not seem to be available online]
 ... alternative: https://www.czechency.org/slovnik/VZTA%C5%BDN%C3%81%20V%C4%9ATA%20BEZ%20HLAVY (Nový encyklopedický slovník češtiny, heslo Vztažná věta bez hlavy, Petr Karlík & Radek Šimík
 Radek Šimík. 2016. On the semantics of Czech free relatives. 64 / 2016 / 1, pp. 109–129.
