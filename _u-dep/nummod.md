@@ -33,7 +33,7 @@ Sam ate many sheep
 det(sheep, many)
 ~~~
 
-Furthermor, a number that serves as a label for an entity rather than denoting quantity
+Furthermore, a number that serves as a label for an entity rather than denoting quantity
 is not `nummod`. For example, in _The meeting will be in room 4_, the number is the name
 of a particular room, it is different from the expression _4 rooms_. Note that the label
 of the room could also be non-numeric, as in _The meeting will be in room A_. UD analyzes
