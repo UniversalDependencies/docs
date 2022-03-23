@@ -48,7 +48,7 @@ det(meeting, The)
 nsubj(room, meeting)
 aux(room, will)
 cop(room, be)
-case(room, case)
+case(room, in)
 nmod(room, 4)
 ~~~
 
