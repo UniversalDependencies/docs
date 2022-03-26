@@ -43,9 +43,11 @@ Infinitive is the citation form of verbs in many languages. Unlike in
 English, it often has morphological form that is distinct from the
 finite forms. Infinitives may be used together with auxiliaries to
 form periphrastic tenses (e.g. future tense [cs] _budu <b>sedět</b> v
-letadle_ "I will sit in a plane"), they appear as arguments of modal
-verbs etc.  In some languages they behave similarly to nouns and are
-used as such (similar to the gerund in English).
+letadle_ “I will sit in a plane”), they appear as arguments of modal
+verbs etc. In some languages, e.g. in Hindi, they behave similarly
+to nouns and are used as such (similar to the gerund in English).
+Nevertheless, this observation is not universal and, e.g. in Slavic
+languages, infinitives are quite distinct from verbal nouns.
 
 #### Examples
 
@@ -141,9 +143,17 @@ versions but comprehensive investigation has to be done first.
 Verbal nouns other than infinitives.
 Also called masdars by some authors, e.g. Haspelmath, 1995.
 
+While in some languages verbal noun and infinitive may be two labels for the
+same category (and then the language-specific documentation must specify which
+label should be used), in other languages these categories are distinct. For
+example, most Slavic languages have infinitive as a specific, uninflected form
+of the verb, and they also have derived verbal nouns, which behave much like
+ordinary nouns, have a noun-like distribution (different from infinitives),
+and inflect for case and number.
+
 #### Examples
 
-* [cs] _<b>dělání</b>_ "doing"
+* [cs] _<b>dělání</b>_ “doing”
 
 ### References
 
