@@ -52,6 +52,40 @@ parataxis(world, CIA)
 det(CIA, the)
 ~~~
 
+### Paired clauses with non-conjunction connective ("X so Y" etc.)
+
+The relation is also used for clauses connected by a word like *so*, *then*, *therefore*, or *however* 
+if neither clause is interpreted as modifying the other, and there is no coordinating conjunction:
+
+~~~ sdparse
+He claimed to be a wizard ; however/ADV , he turned out to be a humbug .
+parataxis(claimed, turned)
+advmod(turned, however)
+~~~
+
+~~~ sdparse
+I 'm hungry , so/ADV I 'm getting a bagel .
+parataxis(hungry, getting)
+advmod(getting, so)
+~~~
+
+The following, by contrast, are [advcl]() modifiers:
+
+~~~ sdparse
+Eat now so/ADV you wo n't be hungry later .
+advcl(Eat, hungry)
+advmod(hungry, so)
+~~~
+
+~~~ sdparse
+If/SCONJ you build it , then/ADV they will come .
+advcl(come, build)
+mark(build, If)
+advmod(come, then)
+~~~
+
+Note that *if*-clauses should almost always be analyzed as subordinate, even when *then* is present.
+
 ### Treatment of reported speech
 
 When a speech verb interrupts reported speech content, the interruption is treated as a parenthetical parataxis:
