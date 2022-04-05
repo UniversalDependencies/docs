@@ -27,7 +27,7 @@ This is an overview only. For a more detailed discussion and examples, see the l
 	* The weak types of possessive pronouns (_mi, ti, mu, ji, nu, vu, mi_) are assigned the PoS tag [PRON](pos/PRON.md).
 	* The reflexive pronouns  `sá/sé/só` και `sí` are assigned the PoS tag [PRON](pos/PRON.md).
 	* Then pronoun types _kaná_ "what", _kanása / kanáta / kanána_ "whatever here - proximal / whatever there -medial / whatever over there - distal", _ní kaná_ "nothing" and _síčko / síčkoso / síčkoto / síčkono_ "all / everything" are assigned the PoS tag [PRON](pos/PRON.md).
-	* The strong types of possessive pronouns (_moj, tvoj, tógav, tójin, naš, vaš, tǽhan_) and all other pronouns are assigned the PoS tag [DET] (pos/DET.md).
+	* The strong types of possessive pronouns (_moj, tvoj, tógav, tójin, naš, vaš, tǽhan_) and all other pronouns are assigned the PoS tag [DET](pos/DET.md).
 	* The adjective _adín/edín/idín_ is assigned the PoS tag [DET](pos/DET.md) when it is used as an indefinite article.
 
 * Pomak has only one auxiliary verb ([AUX](pos/AUX_.md)), _som_ (“to be”), but lemmas such as _býdom_ are also possible.
