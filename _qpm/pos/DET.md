@@ -15,7 +15,7 @@ to an element belonging to a specified person or thing, to a particular number o
 
 In Pomak the triple post-positioned definite article is part of the word, thus it is not considered a determiner.
 
-The tag [PRON](PRON.html) is assigned to the strong and week personal pronouns, the week types of possessive pronouns and the reflexive pronous
+The tag [PRON](PRON.md) is assigned to the strong and week personal pronouns, the week types of possessive pronouns and the reflexive pronous
  _sá/sé/só_ and _sí_. All the other words that have been considered as pronouns traditionally are assigned the tag [DET](DET.html):
 
 #### Examples
