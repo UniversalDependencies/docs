@@ -40,8 +40,8 @@ udver: '2'
 
 ### Verbal Features
 
-* Verbs inflect according to Mood, Aspect (instead of Tense), and Voice.
-* Verbs in the current data contains 3 possible mood values: `Ind` (indicative), `Imp` (imperative), `Pot` (potential).
+* Verbs ([VERBS](https://universaldependencies.org/u/pos/all.html#al-u-pos/VERB)) inflect according to ([Mood](https://universaldependencies.org/u/feat/all.html#al-u-feat/Mood)), ([Aspect](https://universaldependencies.org/u/feat/all.html#al-u-feat/Aspect)) (instead of ([Tense](https://universaldependencies.org/u/feat/all.html#al-u-feat/Tense))), and ([Voice](https://universaldependencies.org/u/feat/all.html#al-u-feat/Voice)).
+* Verbs ([VERBS](https://universaldependencies.org/u/pos/all.html#al-u-pos/VERB)) in the current data contains 3 possible mood values: `Ind` (indicative), `Imp` (imperative), `Pot` (potential).
 * Aspect has 3 possible values: `Perf` (perfective), `Imp` (imperfective), `Prosp` (prospective)
 * Voice is different in many Austronesian languages such as Cebuano as it does not follow the active-passive voice difference. Verbs “focus” on one specific argument, making it as the subject, but it does not transform the patient-like argument from a transitive clause to intransitive, and retains the agent-like argument, if present, is still a core argument. This feature is similar to Tagalog. There are 4 possible values for `Voice`:
   * `Act` (actor-focused voice) where the actor is the topic of the sentence.
