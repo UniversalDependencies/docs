@@ -10,25 +10,44 @@ holds between the verb and its particle (tagged as [ADP]()). It is a subtype of 
 [compound]() relation.
 
 ~~~ sdparse
-They shut down the station
+They/PRON shut/VERB down/ADP the/DET station/NOUN
 compound:prt(shut, down)
+obj(shut, station)
 ~~~
 
 ~~~ sdparse
-They shut the station down
+They/PRON shut/VERB the/DET station/NOUN down/ADP
 compound:prt(shut, down)
+obj(shut, station)
 ~~~
+
+~~~ sdparse
+They/PRON ended/VERB up/ADP leaving/VERB
+compound:prt(ended, up)
+xcomp(ended, leaving)
+~~~
+
+This relation is also used for the quotative idiom *be like* heard in informal conversation. Here the *be* verb is treated as a main verb (not a copula) and the quoted material attaches as [ccomp]():
+
+~~~ sdparse
+I/PRON was/VERB like/ADP , " What/PRON ? "
+compound:prt(was, like)
+ccomp(was, What)
+~~~
+
 
 This relation excludes literal/directional uses of prepositions/particles, such as _up_, _down_, _in_, _out_, etc.
-These would typically become an ADV with the relation [advmod]():
+These would typically become an [ADV]() with the relation [advmod]():
 
 ~~~ sdparse
-The dentist pulled out the tooth
+The dentist pulled out/ADV the tooth
 advmod(pulled, out)
+obj(pulled, tooth)
 ~~~
 
 ~~~ sdparse
-The dentist pulled the tooth out
+The dentist pulled the tooth out/ADV
 advmod(pulled, out)
+obj(pulled, tooth)
 ~~~
 <!-- Interlanguage links updated St lis 3 20:58:45 CET 2021 -->
