@@ -83,10 +83,9 @@ udver: '2'
 ## Treebanks
 
 
-There are [N](../treebanks/ceb-comparison.html) Cebuano UD treebanks:
+There is [1](../treebanks/ceb-comparison.html) Cebuano UD treebank:
 
-  * [Cebuano-A](../treebanks/ceb_a/index.html)
-  * [Cebuano-B](../treebanks/ceb_b/index.html)
+  * [Cebuano-GJA](../treebanks/ceb_a/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
