@@ -33,10 +33,10 @@ udver: '2'
 
 ### Nominal Features
 
-* Plurality is signaled, if explicitly stated, by the function word *mga*, hence *mga* expresses the `Number=Plur` feature and does not need for nouns (NOUN) and proper nouns (PROPN) to have Number=Plur. However, some affixations on nouns show number, and are not preceded with a *mga* marker anymore. In such occurences, the noun then has a *Number=Plur*.
-* Pronouns (PRON) are marked for number with 3 possible values: *Sing*, *Dual*, *Plur*
-* Some nouns (NOUN) and adjectives (ADJ) have Gender with 2 possible values: *Masc*, *Fem*.  This is usually loanwords from Spanish. Other nouns or adjectives do not have this feature.
-* There is a debate about the names of the case markers, depending to which morphosyntactic alignment is subscribed to when analyzing Cebuano. Some linguists would argue Philippine-type languages are ergative-absolutive, some would say nominative-accusative, and some would reject both and say there is an Austronesian alignment. To adopt the similarities of Tagalog, Cebuano has *Nom*, *Gen*, *Dat* as the 3 possible values for ADP.
+* Plurality is signaled, if explicitly stated, by the function word *mga*, hence *mga* expresses the `Number=Plur` feature and does not need for nouns (NOUN) and proper nouns (PROPN) to have Number=Plur. However, some affixations on nouns show number, and are not preceded with a *mga* marker anymore. In such occurences, the noun then has a `Number=Plur`.
+* Pronouns (PRON) are marked for number with 3 possible values: `Sing`, `Dual`, `Plur`
+* Some nouns (NOUN) and adjectives (ADJ) have Gender with 2 possible values: `Masc`, `Fem`.  This is usually loanwords from Spanish. Other nouns or adjectives do not have this feature.
+* There is a debate about the names of the case markers, depending to which morphosyntactic alignment is subscribed to when analyzing Cebuano. Some linguists would argue Philippine-type languages are ergative-absolutive, some would say nominative-accusative, and some would reject both and say there is an Austronesian alignment. To adopt the similarities of Tagalog, Cebuano has `Nom`, `Gen`, `Dat` as the 3 possible values for ADP.
 
 ### Degree and Polarity
 
