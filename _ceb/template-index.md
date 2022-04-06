@@ -17,7 +17,7 @@ udver: '2'
 ## Morphology
 
 * Cebuano uses 16 of the UPOS tags. Auxiliary (AUX) is excluded.
-* Several word types are classified as particles [(PART)](https://universaldependencies.org/u/pos/PART.html). These fall under two categories:
+* Several word types are classified as particles ([(PART)](https://universaldependencies.org/u/pos/PART.html)). These fall under two categories:
   * Grammatical particles (linkers *nga* and *ka*)
   * Lexical particles (such as the question marker *ba*, negation marker *dili*, *ayaw*, *ambot*, *wala*)
 * Quantifiers (including the plural marker *mga* and indefinite quantifiers such as *daghan* “many”) are classified as determiners (DET)
