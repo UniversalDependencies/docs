@@ -27,13 +27,13 @@ udver: '2'
   * Lexical particles (such as the question marker *ba*, negation marker *dili*, *ayaw*, *ambot*, *wala*)
 * Quantifiers (including the plural marker *mga* and indefinite quantifiers such as *daghan* “many”) are classified as determiners (DET)
 * Similar to other Philippine-type languages, Cebuano has nominal markers that function both as prepositions and articles. Calling these as markers is probably the safest classification instead of prepositions, articles or determiners, as the markers can function all of them. To parallel the Tagalog treebank, they are labeled as ADP. These markers are: 
-  * The topic nominative/absolutive marker “ang”
-  * The non-topic genitive/ergative marker “ug” or “sa”
-  * The non-core oblique/dative marker that is also “ug” or “sa”
+  * The topic nominative/absolutive marker *ang*
+  * The non-topic genitive/ergative marker *ug* or *sa*
+  * The non-core oblique/dative marker that is also *ug* or *sa*
 
 ### Nominal Features
 
-* Plurality is signaled, if explicitly stated, by the function word *mga*, hence *mga* expresses the `Number=Plur` feature and does not need for nouns (NOUN) and proper nouns (PROPN) to have Number=Plur. However, some affixations on nouns show number, and are not preceded with a *mga* marker anymore. In such occurences, the noun then has a `Number=Plur`.
+* Plurality is signaled, if explicitly stated, by the function word *mga*, hence *mga* expresses the `Number=Plur` feature and does not need for nouns (NOUN) and proper nouns (PROPN) to have `Number=Plur`. However, some affixations on nouns show number, and are not preceded with a *mga* marker anymore. In such occurences, the noun then has a `Number=Plur`.
 * Pronouns (PRON) are marked for number with 3 possible values: `Sing`, `Dual`, `Plur`
 * Some nouns (NOUN) and adjectives (ADJ) have Gender with 2 possible values: `Masc`, `Fem`.  This is usually loanwords from Spanish. Other nouns or adjectives do not have this feature.
 * There is a debate about the names of the case markers, depending to which morphosyntactic alignment is subscribed to when analyzing Cebuano. Some linguists would argue Philippine-type languages are ergative-absolutive, some would say nominative-accusative, and some would reject both and say there is an Austronesian alignment. To adopt the similarities of Tagalog, Cebuano has `Nom`, `Gen`, `Dat` as the 3 possible values for ADP.
@@ -67,7 +67,7 @@ udver: '2'
 * PartType is used to distinguish the particles used in Cebuano. This excludes linkers even though they are considered as particles. For now, only `Int` (interrogative particles) such as ba or no are marked. 
 * *Definitizer*`=Yes` feature is used for the definitizer suffix -a that attaches to words such as nouns, verbs or adjectives to make an object or modifier “definite”.
 * *Neutral*`=Yes` feature is used for the neutral marker suffix -y that attaches to words like pronouns, verbs (especially existential verbs), adverbs and particles. 
-* *Foreign*`=Yes` feature is used for words that are not natively Cebuano, usually English or Spanish words that are used a substitute for Cebuano words. If an English word is naturally used in Cebuano sentences and if there is a Cebuano translation but is not really commonly used (e.g. *travel document*) then it is not labeled as *Foreign=Yes* anymore
+* *Foreign*`=Yes` feature is used for words that are not natively Cebuano, usually English or Spanish words that are used a substitute for Cebuano words. If an English word is naturally used in Cebuano sentences and if there is a Cebuano translation but is not really commonly used (e.g. *travel document*) then it is not labeled as `Foreign=Yes` anymore
 
 
 ## Syntax
