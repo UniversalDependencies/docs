@@ -76,7 +76,7 @@ udver: '2'
 
 ### Non-Verbal Predicates
 
-* In cases of non-verbal clauses (such as noun, adverb, or adjective phrases), these may be used as predicates in Cebuano. The highest node of the clause is labeled as [root*](https://universaldependencies.org/u/dep/all.html#al-u-dep/root), and all other nodes are connected to this node, similar to nodes connected to a verb. There is no copula.
+* In cases of non-verbal clauses (such as noun, adverb, or adjective phrases), these may be used as predicates in Cebuano. The highest node of the clause is labeled as [root](https://universaldependencies.org/u/dep/all.html#al-u-dep/root), and all other nodes are connected to this node, similar to nodes connected to a verb. There is no copula.
 
 
 
