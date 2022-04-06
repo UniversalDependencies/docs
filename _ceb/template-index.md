@@ -60,8 +60,8 @@ udver: '2'
 ### Other Features
 
 * [PartType](https://universaldependencies.org/u/feat/all.html#al-u-feat/PartType) is used to distinguish the particles used in Cebuano. This excludes linkers even though they are considered as particles. For now, only `Int` (interrogative particles) such as ba or no are marked. 
-* *Definitizer*`=Yes` feature is used for the definitizer suffix -a that attaches to words such as nouns, verbs or adjectives to make an object or modifier “definite”.
-* *Neutral*`=Yes` feature is used for the neutral marker suffix -y that attaches to words like pronouns, verbs (especially existential verbs), adverbs and particles. 
+* [Definitizer](https://github.com/UniversalDependencies/docs/blob/pages-source/_ceb/feat/Definitizer.md)`=Yes` feature is used for the definitizer suffix -a that attaches to words such as nouns, verbs or adjectives to make an object or modifier “definite”.
+* [Neutral](https://github.com/UniversalDependencies/docs/blob/pages-source/_ceb/feat/Neutral.md)`=Yes` feature is used for the neutral marker suffix -y that attaches to words like pronouns, verbs (especially existential verbs), adverbs and particles. 
 * [Foreign](https://universaldependencies.org/u/feat/all.html#al-u-feat/Foreign)`=Yes` feature is used for words that are not natively Cebuano, usually English or Spanish words that are used a substitute for Cebuano words. If an English word is naturally used in Cebuano sentences and if there is a Cebuano translation but is not really commonly used (e.g. *travel document*) then it is not labeled as `Foreign=Yes` anymore
 
 ## Syntax
