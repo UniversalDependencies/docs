@@ -69,15 +69,14 @@ udver: '2'
 * *Neutral*`=Yes` feature is used for the neutral marker suffix -y that attaches to words like pronouns, verbs (especially existential verbs), adverbs and particles. 
 * *Foreign*`=Yes` feature is used for words that are not natively Cebuano, usually English or Spanish words that are used a substitute for Cebuano words. If an English word is naturally used in Cebuano sentences and if there is a Cebuano translation but is not really commonly used (e.g. *travel document*) then it is not labeled as `Foreign=Yes` anymore
 
-
 ## Syntax
 
 ### Core Arguments and Adjuncts
 * Like many Philippine-type languages, Cebuano uses the Austronesian voice system. In Cebuano, there are two core arguments, which are the topic argument and the non-topic argument. These are marked by prepositions (ADP), and affixation on the verb determines their semantic roles.
-  * The core topic nominative/absolutive argument (usually marked by the ADP “ang” for common nouns or “si” for personal nouns) attaches to the predicate using nsubj relation.
-  * The core non-topic genitive/ergative argument (usually marked by the ADP for common nouns “ug” or “sa” or for personal common nouns “ni”) attached to the predicate using the obj relation.
+  * The core topic nominative/absolutive argument (usually marked by the ADP *ang* for common nouns or *si* for personal nouns) attaches to the predicate using nsubj relation.
+  * The core non-topic genitive/ergative argument (usually marked by the ADP for common nouns *ug* or *sa* or for personal common nouns *ni*) attached to the predicate using the obj relation.
   * Non-core nominals are attached to the predicate using the *obl* relation.
-  * Note that the ADP “ug” or “sa” can be both non-topic genitive/ergative argument and non-core dative/oblique argument, and can appear at the same instance in the sentence.
+  * Note that the ADP *ug* or *sa* can be both non-topic genitive/ergative argument and non-core dative/oblique argument, and can appear at the same instance in the sentence.
 
 
 ### Non-Verbal Predicates
