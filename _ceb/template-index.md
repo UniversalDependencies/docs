@@ -40,8 +40,8 @@ udver: '2'
 
 ### Degree and Polarity
 
-* Degree applies to adjectives (ADJ) and has 2 possible values: *Pos*, *Sup*. *Cmp* (comparative form) is not formed morphologically
-* Polarity is used to some existential verbs (VERBS), negation particles like *dili*, *ayaw*, *wala*, *ambot*, and response to interjection like *uu* and *dili*. It has 2 possible values: *Pos*, *Neg*.
+* Degree applies to adjectives (ADJ) and has 2 possible values: `Pos`, `Sup`. `Cmp` (comparative form) is not formed morphologically
+* Polarity is used to some existential verbs (VERBS), negation particles like *dili*, *ayaw*, *wala*, *ambot*, and response to interjection like *uu* and *dili*. It has 2 possible values: `Pos`, `Neg`.
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
