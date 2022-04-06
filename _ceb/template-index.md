@@ -43,40 +43,32 @@ udver: '2'
 * Degree applies to adjectives (ADJ) and has 2 possible values: `Pos`, `Sup`. `Cmp` (comparative form) is not formed morphologically
 * Polarity is used to some existential verbs (VERBS), negation particles like *dili*, *ayaw*, *wala*, *ambot*, and response to interjection like *uu* and *dili*. It has 2 possible values: `Pos`, `Neg`.
 
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
 ### Verbal Features
 
 * Verbs inflect according to Mood, Aspect (instead of Tense), and Voice.
-* Verbs in the current data contains 3 possible mood values: *Ind* (indicative), *Imp* (imperative), *Pot* (potential).
-* Aspect has 3 possible values: *Perf* (perfective), *Imp* (imperfective), *Prosp* (prospective)
+* Verbs in the current data contains 3 possible mood values: `Ind` (indicative), `Imp` (imperative), `Pot` (potential).
+* Aspect has 3 possible values: `Perf` (perfective), `Imp` (imperfective), `Prosp` (prospective)
 * Voice is different in many Austronesian languages such as Cebuano as it does not follow the active-passive voice difference. Verbs “focus” on one specific argument, making it as the subject, but it does not transform the patient-like argument from a transitive clause to intransitive, and retains the agent-like argument, if present, is still a core argument. This feature is similar to Tagalog. There are 4 possible values for Voice:
-  * *Act* (actor-focused voice) where the actor is the topic of the sentence.
-  * *Pass* (patient-focused voice) where the patient is the topic of the sentence.
-  * *Lfoc* (locative-focused voice) where the location is the topic of the sentence.
-  * *Ifoc* (instrumental-focused voice) where the instrument is the topic of the sentence.
+  * `Act` (actor-focused voice) where the actor is the topic of the sentence.
+  * `Pass` (patient-focused voice) where the patient is the topic of the sentence.
+  * `Lfoc` (locative-focused voice) where the location is the topic of the sentence.
+  * `Ifoc` (instrumental-focused voice) where the instrument is the topic of the sentence.
 
 ### Pronouns, Determiners, Quantifiers
 
 * PronType is used with pronouns (PRON), determiners (DET), and adverbs (ADV)
 * NumType is used with cardinal numerals (NUM)
-* Person is a feature for personal pronouns (PRON) and has 3 possible values: 1, 2, 3. Person is not marked on other types of pronouns or nouns, but they can be interpreted as they are in 3rd person.
-* Clusivity is a feature in 1st personal plural pronouns. It has 2 possible values: In (inclusive), Ex (exclusive).
-* Deixis is a lexical feature of demonstratives (PRON, ADV) and has 3 possible values: Prox (proximate), Med (medial), Remt (remote or distal).
+* Person is a feature for personal pronouns (PRON) and has 3 possible values: `1`, `2`, `3`. Person is not marked on other types of pronouns or nouns, but they can be interpreted as they are in 3rd person.
+* Clusivity is a feature in 1st personal plural pronouns. It has 2 possible values: `In` (inclusive), `Ex` (exclusive).
+* Deixis is a lexical feature of demonstratives (PRON, ADV) and has 3 possible values: `Prox` (proximate), `Med` (medial), `Remt` (remote or distal).
 
 ### Other Features
 
-* PartType is used to distinguish the particles used in Cebuano. This excludes linkers even though they are considered as particles. For now, only *Int* (interrogative particles) such as ba or no are marked. 
-* *Definitizer=Yes* feature is used for the definitizer suffix -a that attaches to words such as nouns, verbs or adjectives to make an object or modifier “definite”.
-* *Neutral=Yes* feature is used for the neutral marker suffix -y that attaches to words like pronouns, verbs (especially existential verbs), adverbs and particles. 
-* *Foreign=Yes* feature is used for words that are not natively Cebuano, usually English or Spanish words that are used a substitute for Cebuano words. If an English word is naturally used in Cebuano sentences and if there is a Cebuano translation but is not really commonly used (e.g. *travel document*) then it is not labeled as *Foreign=Yes* anymore
+* PartType is used to distinguish the particles used in Cebuano. This excludes linkers even though they are considered as particles. For now, only `Int` (interrogative particles) such as ba or no are marked. 
+* *Definitizer*`=Yes` feature is used for the definitizer suffix -a that attaches to words such as nouns, verbs or adjectives to make an object or modifier “definite”.
+* *Neutral*`=Yes` feature is used for the neutral marker suffix -y that attaches to words like pronouns, verbs (especially existential verbs), adverbs and particles. 
+* *Foreign*`=Yes` feature is used for words that are not natively Cebuano, usually English or Spanish words that are used a substitute for Cebuano words. If an English word is naturally used in Cebuano sentences and if there is a Cebuano translation but is not really commonly used (e.g. *travel document*) then it is not labeled as *Foreign=Yes* anymore
 
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
 
 ## Syntax
 
@@ -93,10 +85,6 @@ udver: '2'
 * In cases of non-verbal clauses (such as noun, adverb, or adjective phrases), these may be used as predicates in Cebuano. The highest node of the clause is labeled as *root*, and all other nodes are connected to this node, similar to nodes connected to a verb. There is no copula.
 
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
 
 ## Treebanks
 
