@@ -42,8 +42,8 @@ udver: '2'
 
 * Verbs ([VERBS](https://universaldependencies.org/u/pos/all.html#al-u-pos/VERB)) inflect according to [Mood](https://universaldependencies.org/u/feat/all.html#al-u-feat/Mood), [Aspect](https://universaldependencies.org/u/feat/all.html#al-u-feat/Aspect) (instead of [Tense](https://universaldependencies.org/u/feat/all.html#al-u-feat/Tense)), and [Voice](https://universaldependencies.org/u/feat/all.html#al-u-feat/Voice).
 * Verbs ([VERBS](https://universaldependencies.org/u/pos/all.html#al-u-pos/VERB)) in the current data contains 3 possible mood values: `Ind` (indicative), `Imp` (imperative), `Pot` (potential).
-* Aspect has 3 possible values: `Perf` (perfective), `Imp` (imperfective), `Prosp` (prospective)
-* Voice is different in many Austronesian languages such as Cebuano as it does not follow the active-passive voice difference. Verbs “focus” on one specific argument, making it as the subject, but it does not transform the patient-like argument from a transitive clause to intransitive, and retains the agent-like argument, if present, is still a core argument. This feature is similar to Tagalog. There are 4 possible values for `Voice`:
+* [Aspect](https://universaldependencies.org/u/feat/all.html#al-u-feat/Aspect) has 3 possible values: `Perf` (perfective), `Imp` (imperfective), `Prosp` (prospective)
+* [Voice](https://universaldependencies.org/u/feat/all.html#al-u-feat/Voice) is different in many Austronesian languages such as Cebuano as it does not follow the active-passive voice difference. [Verbs](https://universaldependencies.org/u/pos/all.html#al-u-pos/VERB) “focus” on one specific argument, making it as the subject, but it does not transform the patient-like argument from a transitive clause to intransitive, and retains the agent-like argument, if present, is still a core argument. This feature is similar to Tagalog. There are 4 possible values for `Voice`:
   * `Act` (actor-focused voice) where the actor is the topic of the sentence.
   * `Pass` (patient-focused voice) where the patient is the topic of the sentence.
   * `Lfoc` (locative-focused voice) where the location is the topic of the sentence.
@@ -51,11 +51,11 @@ udver: '2'
 
 ### Pronouns, Determiners, Quantifiers
 
-* PronType is used with pronouns (PRON), determiners (DET), and adverbs (ADV)
-* NumType is used with cardinal numerals (NUM)
-* Person is a feature for personal pronouns (PRON) and has 3 possible values: `1`, `2`, `3`. Person is not marked on other types of pronouns or nouns, but they can be interpreted as they are in 3rd person.
-* Clusivity is a feature in 1st personal plural pronouns. It has 2 possible values: `In` (inclusive), `Ex` (exclusive).
-* Deixis is a lexical feature of demonstratives (PRON, ADV) and has 3 possible values: `Prox` (proximate), `Med` (medial), `Remt` (remote or distal).
+* [PronType](https://universaldependencies.org/u/feat/all.html#al-u-feat/PronType) is used with pronouns ([PRON](https://universaldependencies.org/u/pos/all.html#al-u-pos/PRON)), determiners ([DET](https://universaldependencies.org/u/pos/DET.html)), and adverbs ([ADV](https://universaldependencies.org/u/pos/all.html#al-u-pos/ADV))
+* [NumType](https://universaldependencies.org/u/feat/all.html#al-u-feat/NumType) is used with cardinal numerals ([NUM](https://universaldependencies.org/u/pos/all.html#al-u-pos/NUM))
+* [Person](https://universaldependencies.org/u/feat/all.html#al-u-feat/Person) is a feature for personal pronouns ([PRON](https://universaldependencies.org/u/pos/all.html#al-u-pos/PRON)) and has 3 possible values: `1`, `2`, `3`. Person is not marked on other types of pronouns or nouns, but they can be interpreted as they are in 3rd person.
+* [Clusivity](https://universaldependencies.org/u/feat/all.html#al-u-feat/Clusivity) is a feature in 1st personal plural pronouns. It has 2 possible values: `In` (inclusive), `Ex` (exclusive).
+* [Deixis](https://universaldependencies.org/u/feat/all.html#al-u-feat/Deixis) is a lexical feature of demonstratives (PRON, ADV) and has 3 possible values: `Prox` (proximate), `Med` (medial), `Remt` (remote or distal).
 
 ### Other Features
 
