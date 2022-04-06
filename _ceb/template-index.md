@@ -14,11 +14,6 @@ udver: '2'
   * Occurrences of the definitizer suffix (-a in “lenggwahe<b>a</b>”) and neutral marker (-y in “ika<b>y</b>”) are part of the tokens but marked as a feature.
   * Words with spaces do not regularly occur in Cebuano.
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
-
 ## Morphology
 
 * Cebuano uses 16 of the UPOS tags. Auxiliary (AUX) is excluded.
