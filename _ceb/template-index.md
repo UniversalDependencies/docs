@@ -20,8 +20,8 @@ udver: '2'
 * Several word types are classified as particles ([PART](https://universaldependencies.org/u/pos/PART.html)). These fall under two categories:
   * Grammatical particles (linkers *nga* and *ka*)
   * Lexical particles (such as the question marker *ba*, negation marker *dili*, *ayaw*, *ambot*, *wala*)
-* Quantifiers (including the plural marker *mga* and indefinite quantifiers such as *daghan* “many”) are classified as determiners (DET)
-* Similar to other Philippine-type languages, Cebuano has nominal markers that function both as prepositions and articles. Calling these as markers is probably the safest classification instead of prepositions, articles or determiners, as the markers can function all of them. To parallel the Tagalog treebank, they are labeled as ADP. These markers are: 
+* Quantifiers (including the plural marker *mga* and indefinite quantifiers such as *daghan* “many”) are classified as determiners ([DET](https://universaldependencies.org/u/pos/DET.html))
+* Similar to other Philippine-type languages, Cebuano has nominal markers that function both as prepositions and articles. Calling these as markers is probably the safest classification instead of prepositions, articles or determiners, as the markers can function all of them. To parallel the Tagalog treebank, they are labeled as ([ADP](https://universaldependencies.org/u/pos/all.html#al-u-pos/ADP)). These markers are: 
   * The topic nominative/absolutive marker *ang*
   * The non-topic genitive/ergative marker *ug* or *sa*
   * The non-core oblique/dative marker that is also *ug* or *sa*
