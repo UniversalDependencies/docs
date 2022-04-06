@@ -100,8 +100,6 @@ udver: '2'
 
 ## Treebanks
 
-* In cases of non-verbal clauses (such as noun, adverb, or adjective phrases), these may be used as predicates in Cebuano. The highest node of the clause is labeled as root, and all other nodes are connected to this node, similar to nodes connected to a verb. There is no copula.
-
 
 There are [N](../treebanks/ceb-comparison.html) Cebuano UD treebanks:
 
