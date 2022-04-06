@@ -67,16 +67,16 @@ udver: '2'
 ## Syntax
 
 ### Core Arguments and Adjuncts
-* Like many Philippine-type languages, Cebuano uses the Austronesian voice system. In Cebuano, there are two core arguments, which are the topic argument and the non-topic argument. These are marked by prepositions (ADP), and affixation on the verb determines their semantic roles.
-  * The core topic nominative/absolutive argument (usually marked by the ADP *ang* for common nouns or *si* for personal nouns) attaches to the predicate using nsubj relation.
-  * The core non-topic genitive/ergative argument (usually marked by the ADP for common nouns *ug* or *sa* or for personal common nouns *ni*) attached to the predicate using the obj relation.
-  * Non-core nominals are attached to the predicate using the *obl* relation.
-  * Note that the ADP *ug* or *sa* can be both non-topic genitive/ergative argument and non-core dative/oblique argument, and can appear at the same instance in the sentence.
+* Like many Philippine-type languages, Cebuano uses the Austronesian voice system. In Cebuano, there are two core arguments, which are the topic argument and the non-topic argument. These are marked by prepositions ([ADP](https://universaldependencies.org/u/pos/all.html#al-u-pos/ADP)), and affixation on the verb determines their semantic roles.
+  * The core topic nominative/absolutive argument (usually marked by the [ADP](https://universaldependencies.org/u/pos/all.html#al-u-pos/ADP) *ang* for common nouns or *si* for personal nouns) attaches to the predicate using [nsubj](https://universaldependencies.org/u/dep/all.html#al-u-dep/nsubj) relation.
+  * The core non-topic genitive/ergative argument (usually marked by the [ADP](https://universaldependencies.org/u/pos/all.html#al-u-pos/ADP) for common nouns *ug* or *sa* or for personal common nouns *ni*) attached to the predicate using the [obj](https://universaldependencies.org/u/dep/all.html#al-u-dep/obj) relation.
+  * Non-core nominals are attached to the predicate using the [obl](https://universaldependencies.org/u/dep/all.html#al-u-dep/obl) relation.
+  * Note that the [ADP](https://universaldependencies.org/u/pos/all.html#al-u-pos/ADP) *ug* or *sa* can be both non-topic genitive/ergative argument and non-core dative/oblique argument, and can appear at the same instance in the sentence.
 
 
 ### Non-Verbal Predicates
 
-* In cases of non-verbal clauses (such as noun, adverb, or adjective phrases), these may be used as predicates in Cebuano. The highest node of the clause is labeled as *root*, and all other nodes are connected to this node, similar to nodes connected to a verb. There is no copula.
+* In cases of non-verbal clauses (such as noun, adverb, or adjective phrases), these may be used as predicates in Cebuano. The highest node of the clause is labeled as [root*](https://universaldependencies.org/u/dep/all.html#al-u-dep/root), and all other nodes are connected to this node, similar to nodes connected to a verb. There is no copula.
 
 
 
