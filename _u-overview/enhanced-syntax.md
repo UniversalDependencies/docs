@@ -753,9 +753,24 @@ The following formal rules apply (copied from the summary at the beginning of th
   * Multiple `case` or `mark` nodes may occur even if it is not a fixed expression. For example, a type of adverbial clause
     in Dutch uses two markers _om_ and _te_, the first one roughly corresponding to English “so that”, the second one being
     an infinitive marker. The incoming dependency of the subordinate clause will then be labeled `advcl:om_te`.
+  * Case markers may be coordinated, as in _they transport goods <b>to and from</b> Prague_. Here there are two different relations
+    between the verb and the nominal: `obl:to` and `obl:from`. Both will be added to the enhanced graph.
+    <!-- https://github.com/UniversalDependencies/docs/issues/854 -->
 * Morphological case of the node whose relation to its parent is being enhanced. Value corresponds to the value of
   the Case feature but it is lowercased (e.g., `gen` instead of `Gen`). Unlike in morphological features, multivalues with comma
   (`Case=Acc,Dat`) are not allowed. Case information in enhanced relations must be fully disambiguated.
+  * In certain languages and situations, the morphological case is combined with a lexical case marker (adposition).
+    This is particularly useful if adpositions in the language select a subset of the morphological cases available
+    and if the same adposition may have different meanings with different morphological cases.
+  * It may happen that two adpositions are coordinated, each selects a different morphological case and the noun can satisfy only
+    one of the case requirements. For instance, [cs] _Lidé se rozutekli <b>před a během útoku</b>._ “People ran away <b>before
+    and during the attack</b>.” The first preposition requires instrumental, the second requires genitive, the noun is in genitive.
+    However, the relations in the enhanced graph should be `obl:před:ins` and `obl:během:gen`. The first relation should indicate
+    instrumental despite the fact that the surface form of the noun in the current sentence is not instrumental, and its morphological
+    feature is `Case=Gen`. The relation `obl:před:gen` does not exist in the language and has no meaning. (Note however that
+    instrumental is not the only option with this preposition; accusative is also possible, and `obl:před:acc` does not mean
+    the same thing as `obl:před:ins`.)
+    <!-- https://github.com/UniversalDependencies/docs/issues/854 -->
 
 <table> <!--the house on the hill-->
 <tbody><tr><td width="600">
@@ -915,6 +930,39 @@ The following formal rules apply (copied from the summary at the beginning of th
 6  язык     language  NOUN   _  Case=Acc  5  obj                     _  _
 7  майя     Maya      PROPN  _  Case=Gen  6  nmod:gen                _  SpaceAfter=No
 8  .        .         PUNCT  _  _         5  punct                   _  _
+</div>
+</td></tr></tbody>
+</table>
+
+<table> <!--Lidé se rozutekli před a během útoku. \n People ran away before and during the attack.-->
+<tbody><tr><td width="600">
+<div class="conllu-parse">
+# visual-style 3 7 obl color:green
+# visual-style 4 6 conj color:green
+# text = Lidé se rozutekli před a během útoku.
+1  Lidé      People     NOUN   _  Case=Nom  3  nsubj     _  _
+2  se        themselves PRON   _  Case=Acc  3  expl:pv   _  _
+3  rozutekli scattered  VERB   _  _         0  root      _  _
+4  před      before     ADP    _  Case=Ins  7  case      _  _
+5  a         and        CCONJ  _  _         6  cc        _  _
+6  během     during     ADP    _  Case=Gen  4  conj      _  _
+7  útoku     attack     NOUN   _  Case=Gen  3  obl       _  SpaceAfter=No
+8  .         .          PUNCT  _  _         3  punct     _  _
+</div>
+</td><td width="600">
+<div class="conllu-parse">
+# visual-style 3 7 obl:během:gen color:blue
+# visual-style 3 7 obl:před:ins color:blue
+# visual-style 4 6 conj:a color:blue
+# text = Lidé se rozutekli před a během útoku.
+1  Lidé      People     NOUN   _  Case=Nom  3  nsubj          _  _
+2  se        themselves PRON   _  Case=Acc  3  expl:pv        _  _
+3  rozutekli scattered  VERB   _  _         0  root           _  _
+4  před      before     ADP    _  Case=Ins  7  case           _  _
+5  a         and        CCONJ  _  _         6  cc             _  _
+6  během     during     ADP    _  Case=Gen  4  conj:a         _  _
+7  útoku     attack     NOUN   _  Case=Gen  3  obl:během:gen  3:obl:před:ins  SpaceAfter=No
+8  .         .          PUNCT  _  _         3  punct          _  _
 </div>
 </td></tr></tbody>
 </table>
