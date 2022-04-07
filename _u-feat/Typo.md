@@ -12,11 +12,13 @@ udver: '2'
 </tr>
 </table>
 
-Indicates an unexpected typographical rendering of a word. 
+Indicates an erroneous or typographically unexpected word form. 
 
-Most unexpected spellings are typographical errors (inadvertent on the part of the author). Also unexpected: Creative spellings, e.g. using special characters or spaces for visual effect; or unusual character encoding.
+Most unexpected spellings are typographical errors (inadvertent on the part of the author). Also unexpected: creatively using special characters or spaces for visual effect; or unusual character encoding.
+For transcribed speech, no distinction is made between the original speaker and the transcriber, so a mispronunciation like _shilly_ for _silly_ is also treated like a typo.
+This feature can also encompass clear errors in word choice, such as learner errors and dysfluencies (e.g. _lesser_ where _fewer_ is appropriate, or _eats_ instead of _eat_).
 
-"Unexpected" is interpreted in the context of the genre. Abbreviations or popular informal spellings are not necessarily unexpected. See [Abbr]().
+Note that "typographically unexpected" is interpreted in the context of the genre. Abbreviations or popular informal spellings are not necessarily unexpected. See [Abbr]().
 
 Superfluous word-internal spaces are addressed using the [goeswith]() relation to connect parts of the word.
 [Typo]()`=Yes` should be used with the `goeswith` head (and this is enforced by validation for treebanks that use features).
@@ -28,19 +30,13 @@ as discussed in the [page on typos](https://universaldependencies.org/u/overview
 Cases where an unexpected form of a letter is used within a word—e.g., unexpected capitalization choices—should be handled on a language- and treebank-specific basis. In a social media treebank, for example, it may not be practical to flag all nonstandard capitalization choices as [Typo]()=`Yes` given the wide variability of capitalization in unedited writing.
 
 **Stylistic choices:**
-[Typo]()=`Yes` is intended for specifically orthographic unexpectedness, not unexpected word variants in general. If the author is taken to be signaling a modified pronunciation of a word, inventing a new word, or making a pun, that is not Typo if the unexpectedness is reflected phonologically. [Style]()`=Expr` may apply in such cases.
+[Typo]()=`Yes` is intended for specifically orthographic unexpectedness, not unexpected word variants in general. If the author is taken to be signaling an intentionally modified pronunciation of a word, inventing a new word, or making a pun, that is not Typo if the unexpectedness is reflected phonologically. [Style]()`=Expr` may apply in such cases.
 Deliberate, well-established conventions of altering the written forms of words, e.g. censoring profanity with nonalphabetic symbols, should also be considered expressive stylistic choices rather than typographical unexpectedness.
 [Style]()`=Expr` and [Typo]()=`Yes` should *both* apply if expressiveness is conveyed via unconventional spelling not reflected in the pronunciation, e.g. _CA$H_ instead of _CASH_.
 
-**Grammatical errors and dysfluencies:**
-TODO: using a contextually inappropriate word for reasons other than typographical error
-
+**Extra words:**
 For extra or missing words, see the [policy on errors](https://universaldependencies.org/u/overview/typos.html).
 A valid word that is superfluous in the sentence (attaching as [reparandum]()) does not receive [Typo]()`=Yes`.
-
-TODO:
-- A word that should be in the sentence but uses a grammatically incorrect form, or for which the form reflects a pronunciation error
-- Word choice errors, e.g. if a nonnative speaker uses *lesser* meaning *fewer*
 
 ### <a name="Yes">`Yes`</a>: it is typo
 
