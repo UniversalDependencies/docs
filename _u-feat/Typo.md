@@ -25,7 +25,7 @@ The correct spelling can be indicated in the MISC column with the `CorrectForm` 
 as discussed in the [page on typos](https://universaldependencies.org/u/overview/typos.html).
 
 **Capitalization, etc.:**
-Cases where an unexpected form of a letter is used within a word—e.g., unexpected capitalization choices—should be handled on a language- and script-specific basis. In English treebanks, for example, unexpected capitalization choices do *not* fall under [Typo]()=`Yes` given the wide variability of capitalization in unedited writing.
+Cases where an unexpected form of a letter is used within a word—e.g., unexpected capitalization choices—should be handled on a language- and treebank-specific basis. In a social media treebank, for example, it may not be practical to flag all nonstandard capitalization choices as [Typo]()=`Yes` given the wide variability of capitalization in unedited writing.
 
 **Stylistic choices:**
 [Typo]()=`Yes` is intended for specifically orthographic unexpectedness, not unexpected word variants in general. If the author is taken to be signaling a modified pronunciation of a word, inventing a new word, or making a pun, that is not Typo if the unexpectedness is reflected phonologically. [Style]()`=Expr` may apply in such cases.
