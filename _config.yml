@@ -378,6 +378,8 @@ collections:
     output: true
   jaa:
     output: true
+  xum:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
