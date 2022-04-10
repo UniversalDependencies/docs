@@ -30,9 +30,9 @@ as discussed in the [page on typos](https://universaldependencies.org/u/overview
 Cases where an unexpected form of a letter is used within a word—e.g., unexpected capitalization choices—should be handled on a language- and treebank-specific basis. In a social media treebank, for example, it may not be practical to flag all nonstandard capitalization choices as [Typo]()=`Yes` given the wide variability of capitalization in unedited writing.
 
 **Stylistic choices:**
-[Typo]()=`Yes` is intended for specifically orthographic unexpectedness, not unexpected word variants in general. If the author is taken to be signaling an intentionally modified pronunciation of a word, inventing a new word, or making a pun, that is not Typo if the unexpectedness is reflected phonologically. [Style]()`=Expr` may apply in such cases.
+[Typo]()=`Yes` is intended for specifically orthographic unexpectedness, not unexpected word variants in general. If the author is taken to be signaling an intentionally modified pronunciation of a word, inventing a new word, or making a pun, that is not Typo if the unexpectedness is reflected phonologically. 
+The optional [Style]() feature may be useful in such cases.
 Deliberate, well-established conventions of altering the written forms of words, e.g. censoring profanity with nonalphabetic symbols, should also be considered expressive stylistic choices rather than typographical unexpectedness.
-[Style]()`=Expr` and [Typo]()=`Yes` should *both* apply if expressiveness is conveyed via unconventional spelling not reflected in the pronunciation, e.g. _CA$H_ instead of _CASH_.
 
 **Extra words:**
 For extra or missing words, see the [policy on errors](https://universaldependencies.org/u/overview/typos.html).
