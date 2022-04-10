@@ -36,7 +36,7 @@ Deliberate, well-established conventions of altering the written forms of words,
 
 **Extra words:**
 For extra or missing words, see the [policy on errors](https://universaldependencies.org/u/overview/typos.html).
-A valid word that is superfluous in the sentence (attaching as [reparandum]()) does not receive [Typo]()`=Yes`.
+A valid word that is superfluous in the sentence and attached as [reparandum]() does not receive [Typo]()`=Yes`.
 
 ### <a name="Yes">`Yes`</a>: it is typo
 
