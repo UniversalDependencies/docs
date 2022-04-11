@@ -35,8 +35,8 @@ udver: '2'
 
 ### Degree and Polarity
 
-* ([Degree](https://universaldependencies.org/u/feat/all.html#al-u-feat/Degree)) applies to adjectives ([ADJ](https://universaldependencies.org/u/pos/all.html#al-u-pos/ADJ)) and has 2 possible values: `Pos`, `Sup`. `Cmp` (comparative form) is not formed morphologically
-* ([Polarity](https://universaldependencies.org/u/feat/all.html#al-u-feat/Polarity)) is used to some existential verbs ([VERBS](https://universaldependencies.org/u/pos/all.html#al-u-pos/VERB)), negation particles like *dili*, *ayaw*, *wala*, *ambot*, and response to interjection like *uu* and *dili*. It has 2 possible values: `Pos`, `Neg`.
+* [Degree](https://universaldependencies.org/u/feat/all.html#al-u-feat/Degree) applies to adjectives ([ADJ](https://universaldependencies.org/u/pos/all.html#al-u-pos/ADJ)) and has 2 possible values: `Pos`, `Sup`. `Cmp` (comparative form) is not formed morphologically
+* [Polarity](https://universaldependencies.org/u/feat/all.html#al-u-feat/Polarity) is used to some existential verbs ([VERBS](https://universaldependencies.org/u/pos/all.html#al-u-pos/VERB)), negation particles like *dili*, *ayaw*, *wala*, *ambot*, and response to interjection like *uu* and *dili*. It has 2 possible values: `Pos`, `Neg`.
 
 ### Verbal Features
 
