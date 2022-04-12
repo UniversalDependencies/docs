@@ -52,13 +52,13 @@ Stella Markantonatou with expertise in formal grammatical frameworks. Nicolaos K
 Data available since: UD v1.1
 License: CC BY-NC-SA 3.0
 Includes text: yes
-Genre: news folk_tales
-Lemmas: manual correction  automatic assignment native
-UPOS: manual correction automatic assignment native
-XPOS: 
-Features: manual correction automatic assignment native 
-Relations: automatic
-Contributors: Ritvan Karahodja, Vivian Stamou, Stella Markantonatou
+Genre: news grammar-examples poetry fiction
+Lemmas: automatic with corrections
+UPOS: automatic with corrections
+XPOS: -
+Features: automatic with corrections
+Relations: converted from manual
+Contributors: Karahodja Ritvan: Stamou Vivian;   Markantonatou Stella
 Contributing: -
 Contact: marks@athenarc.gr, ritvank@gmail.com
 ===============================================================================
