@@ -1,11 +1,11 @@
 ---
 layout: feature
-title: 'PartType'
-shortdef: 'PartType'
+title: 'PartTypeQpm'
+shortdef: 'PartTypeQpm'
 udver: '2'
 ---
 
-## qpm-PartType
+## PartTypeQpm
 
 Certain Pomak determiners and adverbs that are tagged with 'PronType=Int' are composite pronouns (see also [PronType]()) or adverbs with one of the particles`nǽ / nó, ní, sǽ`as a first word.  The particles are assigned the feature `qpm-PartType` as follows:
  
