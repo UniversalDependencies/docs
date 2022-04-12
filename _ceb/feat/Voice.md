@@ -33,7 +33,7 @@ actor-focus voice of Austronesian languages. <!-- which is labeled AGFOC in UniM
 
 #### Examples
 
-* [tl] _<b>Naglilinis</b> siya ng bahay._ “He/she <b>cleans</b> a/the house.”
+* [ceb] _Si Pedro <b>mokaon</b> ug mangga ._ “Pedro <b>will eat</b> mangoes.”
 
 ### <a name="Pass">`Pass`</a>: passive or patient-focus voice
 
