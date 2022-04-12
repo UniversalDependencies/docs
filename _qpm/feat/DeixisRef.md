@@ -23,6 +23,7 @@ Pomak nouns, adjectives, pronouns and adverbs may be tagged with `DeixisRef` alo
 
 ### <a name="2">`2`</a>: deixis relative to the second person participant (hearer)
 
+#### Examples
 
 * _górm<b>ot</b>_ "το δέντρο (εκεί κοντά σ' εσένα)"
 `Deixis=Prox|DeixisRef=2`
