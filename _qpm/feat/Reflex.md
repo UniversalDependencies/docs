@@ -16,10 +16,12 @@ Note that there is no `No` value. If the word is not reflexive, the `Reflex` fea
 an empty value has the `No` meaning.
 
 
-* [qpm] reflexive personal pronouns: _sa / se / só, sí_
+* reflexive personal pronouns: _sá / sé / só, sí_
 
 In a  number of Slavic languages, including Pomak, the middle voice of verbs is formed by means of a verb form preceded or followed by a 
  reflexive pronoun *sa, se, só*. The precise word order is governed by strict syntactic rules.
+
+#### Examples
 
 - *razbúdom* "ξυπνώ, αφυπνίζω", *razbúdom so* "ξυπνώ, αφυπνίζομαι"
 - *písavom* "γράφω", *písavom so* "γράφομαι"
