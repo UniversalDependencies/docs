@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'PartType'
-shortdef: 'PartType'
+title: 'qpm-PartType'
+shortdef: 'qpm-PartType'
 udver: '2'
 ---
 
