@@ -53,7 +53,7 @@ doer and the undergoer/theme are coded as objects.
 
 #### Examples
 
-* [tl] _<b>Aalisan</b> ng babae ng bigas ang sako para sa bata._ “A/the woman <b>will take</b> some rice out of the sack for a/the child.”
+* [ceb] _<b>Lutoan</b> ni Pedro ang karahay og itlog._ “Pedro <b>will cook</b> eggs in the frying pan.”
 
 ### <a name="Ifoc">`Ifoc`</a>: instrument-focus voice
 
