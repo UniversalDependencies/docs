@@ -22,7 +22,7 @@ For *subordinating* conjunctions, see [SCONJ]().
 
 * _και_ "and"
 * _ή_ "or"
-* _αλλά_ "but", _όμως, _ωστόσο_  "however, nevertheless, yet"
+* _αλλά_ "but", _όμως_, _ωστόσο_  "however, nevertheless, yet"
 * _<b>είτε</b> εσύ <b>είτε</b> ο Παύλος_ "<b>either</b> you <b>or</b> Pavlos"
 * _<b>ούτε</b> εσύ <b>ούτε</b> ο Παύλος_ "<b>neither</b> you <b>nor</b> Pavlos" 
 <!-- Interlanguage links updated St lis 3 20:58:09 CET 2021 -->
