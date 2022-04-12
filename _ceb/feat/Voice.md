@@ -62,4 +62,4 @@ doer and the undergoer/theme are coded as objects.
 
 #### Examples
 
-* [tl] _<b>Ipinansulat</b> ni John ng liham kay Mary ang makinilya._ “John <b>wrote</b> Mary a letter on the typewriter.”
+* [ceb] _<b>Ipasa</b> ni Pedro ang asin sa bisita._ “Pedro <b>will pass</b> the salt to the guest.”
