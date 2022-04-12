@@ -24,9 +24,11 @@ As a special case of interjection, we recognize feedback particles such as *yes*
 -	*όχι* /*ochi* "no/not", [INTJ]() with [Polarity=Neg]()
 -	*ορίστε*
 -	*μα*
+-	*εντάξει* / *edaxi* "alright, Okay"
 -	*λοιπόν* / *lipon* "well,so"
 -	*καλημέρα* / *kalimera* "goodmorning"
 -	*καληνύχτα* / *kalinichta* "goodnight"
+-	*Καλά* / *kala*, e.g. *Καλά, πώς ήρθες εδώ;* "My, how did you come here?"
 
 
 ### References
