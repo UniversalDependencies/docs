@@ -19,6 +19,7 @@ When other phrases or sentences are used as names, the component words retain th
 
 
 Acronyms of proper nouns, such as *OHE* / *OIE* "UN" and NATO are assigned the tag PROPN. If they contain numbers (as in various product names) but still consist of one token, they are tagged PROPN and not <code>SYM</code>. However, if a token in a multitoken PROPN consists entirely of digits or an independent word (like *7* in *Windows 7*, *Τρείς Γέφυρες* / *Tris Gefires* "Three Bridges"), it is tagged <code>NUM</code>.
+Also when acronyms are spelled out, e.g.,  #μου-μου-ε* (spelling out of the acronym MME) *Μπε-εμ-βε* `BMW', they are assigned the tag PROPN. 
 
 ### Examples
 
