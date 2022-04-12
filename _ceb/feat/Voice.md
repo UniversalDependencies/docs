@@ -9,7 +9,6 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Act">Act</a></td>
-  <td><a href="#Bfoc">Bfoc</a></td>
   <td><a href="#Ifoc">Ifoc</a></td>
   <td><a href="#Lfoc">Lfoc</a></td>
   <td><a href="#Pass">Pass</a></td>
@@ -56,15 +55,6 @@ doer and the undergoer/theme are coded as objects.
 
 * [tl] _<b>Aalisan</b> ng babae ng bigas ang sako para sa bata._ “A/the woman <b>will take</b> some rice out of the sack for a/the child.”
 
-### <a name="Bfoc">`Bfoc`</a>: beneficiary-focus voice
-
-The subject of the verb indicates the beneficiary, while the
-doer and the undergoer/theme are coded as objects.
-
-#### Examples
-
-* [tl] _<b>Ipagaalis</b> ng babae ng bigas sa sako ang bata._ “A/the woman <b>will take</b> some rice out of a/the sack for the child.”
-
 ### <a name="Ifoc">`Ifoc`</a>: instrument-focus voice
 
 The subject of the verb indicates the instrument, while the
@@ -73,5 +63,3 @@ doer and the undergoer/theme are coded as objects.
 #### Examples
 
 * [tl] _<b>Ipinansulat</b> ni John ng liham kay Mary ang makinilya._ “John <b>wrote</b> Mary a letter on the typewriter.”
-
-<!-- Interlanguage links updated St lis 3 20:58:32 CET 2021 -->
