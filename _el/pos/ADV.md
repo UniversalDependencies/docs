@@ -21,12 +21,13 @@ There are:
 
 Modern Greek uses complex structures consisting of an adverb and an adposition: *(μέσα σε)* (lit: in to) μέσα: ADV σε: ADP, *(ενάντια σε)* (lit: contrary to) ενάντια: ADV σε: ADP.
 
+Non-inflecting verb forms ending in *-όντας, -ώντας* (adverbial participles) share properties and usage of adverbs and verbs and are assigned the tag [VERB](), the specification <code>VerbForm=Conv<,code> and are tagged for <code>Aspect</code> and <code>Voice</code>.  
+
 *μετά* and *εντός* may appear with a noun in the genitive case: the first denotes accompaniment, e.g.,  *μετά ληστείας* / meta listias ‘together with a robbery' while both are structures inherited from older versions of the language, e.g. *εντός δευτερολέπτων* / entos defterolepton ‘within minutes'. In all these cases *μετά* and *εντός* are assigned the tag [ADV]().
 
 ### Examples
 -	locative adverbs: *απέξω* / *apekso* ‘outside’, *εδώ* / *edo*  ‘here’, *εκεί* / *eki* ‘there’, *πάνω* / *pano* ‘up’, *κάτω* / *kato* ‘down’, *δεξιά* / *deksia* ‘right’, *αριστερά* / *aristera* ‘left’, *κάπου* / *kapou* ‘somewhere’, *παντού* / *pantou* ‘everywhere’, *πουθενά* / *pouthena* ‘nowhere’, *πού* / *pou* ‘where’
 -	manner adverbs: *ακριβώς* / *akrivos* ‘precisely’, *γιατί* / *yiati* ‘why’  (when it is on its own/it introduces direct questions), *καλά* / *kala* ‘good/fine’, *κατανάγκη* / *katanagki* ‘necessarily’, *πώς* / *pos* ‘how’
--	adverbs ending in *-όντας/ώντας* / *-ontas/-ontas*: *λέγοντας* / *legontas* ‘by saying’, *ρωτώντας* / *rotontas* ‘by asking’
 -	temporal adverbs: *αύριο* / *avrio* ‘tomorrow’, *κάποτε* / *kapote* ‘sometime’, *καταρχήν* / *katarchin* ‘first of all’, *πάντα* / *panta* ‘always’, *πέρσυ* / *persi* ‘last year’, *πότε* / *pote* ‘when’, *ποτέ* / *pote* ‘never’, *σήμερα* / *simera* ‘today’, *τότε* / *tote* ‘then’, *τώρα* / *tora* ‘now’, *χθες* / *chthes* ‘yesterday’
 -	quantity adverbs: *άπαξ* / *apaks* ‘once’, *καθόλου* / *katholou* ‘at all’, *λίγο* / *ligo* ‘a little’, *μόνο* / *mono* ‘only’, *τόσο* / *toso* ‘so’
 
