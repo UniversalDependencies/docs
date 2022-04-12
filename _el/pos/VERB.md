@@ -11,9 +11,7 @@ shortdef: 'verb'
 A verb typically denotes events and actions, can constitute a minimal predicate in a clause, and governs the number and types of other constituents which may occur in the clause. Verbs are often associated with grammatical categories like tense, mood, aspect and voice, which can either be expressed inflectionally or using auxilliary verbs or particles.
 
 
-Participles of verbs in use in Modern Greek ending in *-μένος*  and *-θείς* are assigned the tag [VERB](): 
-
-VERB Aspect=...|Case=...|Gender=...|Number=...VerbForm=Part|Voice=Αct or Pass. 
+Participles of verbs in use in Modern Greek ending in *-μένος*  and *-θείς* are assigned the tag VERB  and the features Aspect=...|Case=...|Gender=...|Number=...VerbForm=Part|Voice=Αct or Pass. 
 Ηowever, there are formations in *-μένος* not related to a verb in use in Modern Greek, e.g., *χιλιοτραγουδισμένος* / chiliotragoudismenos “storied”, *ξακουσμένος* / ksakousmenos “famous”, etc; these are assigned the  tag <code>ADJ</code>.  
 
 
