@@ -99,7 +99,7 @@ Multiplicative numerals that are registered as [ADV]()
 - *triš* "three times"
 - *čétriš* "four times"
 
-About the diminutives of the following adverbs (*húbbefce [húbbe]* "so and so", *duléčko [duléče]* "a little far") see the category [qpm-DegreeMod](../feat/qpm-DegreeMod.md).
+About the diminutives of the following adverbs (*húbbefce [húbbe]* "so and so", *duléčko [duléče]* "a little far") see the category [DegreeModQpm](../feat/DegreeModQpm.md).
 
 The comparative and superlative degree of adverbs is formed with the adverbs  _po_ and _naj_ respectively: they both are distinct words.   Τhe feature [Degree](feat/Degree.md) is used to denote the positive, comparative and superlative degre of adverbs and is assigned one of the values  `Pos`, `Cmp` και `Sup` respectively. Only the comparative and the superlative degree have been declared so far while the positive degree is treated as the default.
  

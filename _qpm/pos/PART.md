@@ -50,8 +50,8 @@ A dedicated set of particles are preposed to interrogative pronouns/determiners 
 #### Examples
 
 
-* _nǽ_ ([qpm-PartType=Ind](../feat/qpm-PartType.md)) as in _nǽ kakvóv_ "of some kind / quality - no matter what" and _nǽ kadé_ "somewhere"
-* _nó_ ([qpm-PartType=Ind](../feat/qpm-PartType.md)) as in _nó kutrí_ "someone" and _nó kadé_ "somewhere"
-* _ní_ ([qpm-PartType=Neg](../feat/qpm-PartType.md)) as in _ní kutrí_ "no one" and _ní kadé_ "nowhere"
-* _sǽ_ ([qpm-PartType=Tot](../feat/qpm-PartType.md)) as in _sǽ kutrí_ "everybody" "everyone" "every" and _sǽ kadé_ "everywhere"
+* _nǽ_ ([PartTypeQpm=Ind](../feat/PartTypeQpm.md)) as in _nǽ kakvóv_ "of some kind / quality - no matter what" and _nǽ kadé_ "somewhere"
+* _nó_ ([PartTypeQpm=Ind](../feat/PartTypeQpm.md)) as in _nó kutrí_ "someone" and _nó kadé_ "somewhere"
+* _ní_ ([PartTypeQpm=Neg](../feat/PartTypeQpm.md)) as in _ní kutrí_ "no one" and _ní kadé_ "nowhere"
+* _sǽ_ ([PartTypeQpm=Tot](../feat/PartTypeQpm.md)) as in _sǽ kutrí_ "everybody" "everyone" "every" and _sǽ kadé_ "everywhere"
 "every~ / of all kinds / qualities - in all / every~ / all of~"

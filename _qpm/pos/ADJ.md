@@ -65,7 +65,7 @@ Ordinal numerals that behave like adjectives both  morphologically and syntactic
 Nationalities are assigned the tag ADJ, such as
 - *Pomáčin* "Pomak", *Urúmin* "Greek", *Bulgárin* "Bulgarian", *Túrčin* "Turk", *Itaļánin* "Italian", *Evropéjin* "European", *Amerikánin* "American", *Afrikánin* "African", *Asiátin* "Asian"
 
-About diminutives and augmentatives of adjectives (*gulǽmček [gulǽm]* "biggish", *gróznišiček [grózan]* "bad-looking") see the feature [qpm-DegreeMod](../feat/qpm-DegreeMod.md).
+About diminutives and augmentatives of adjectives (*gulǽmček [gulǽm]* "biggish", *gróznišiček [grózan]* "bad-looking") see the feature [DegreeModQpm](../feat/DegreeModQpm.md).
 
 The comparative and superlative degree of adjectives is formed with the adverbs  _po_ και _naj_ respectively.
 * _visók_ "tall", _po visók_ "taller", _naj visók_ "the tallest"
