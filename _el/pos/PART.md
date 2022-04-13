@@ -15,7 +15,6 @@ Hint: *όχι" / *ochi* "no/not" should be tagged as [PART]() and <code>Polarity
 ### Examples
 -	*ας* 
 -	*δεν* 
--	*θα*
 -	*καν*
 -	*μπας (και)*
 -	*μην* 
