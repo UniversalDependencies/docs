@@ -84,7 +84,7 @@ in Bulgarian, Czech, Danish, English, Finnish and Hungarian.
 This indicates a distinctive morphological or spelling choice for added expressiveness (with respect to pronunciation or meaning).
 
 In the case of an expressive spelling variant, this feature should be paired with a `CorrectForm` in the MISC column, as explained in [the page on typos](/u/overview/typos.html). 
-`Style=Expr` should not apply if the variant differs from the canonical spelling only in capitalization, or is an abbreviation or typo.
+Compare the [Typo]() feature, which covers errors and typographical unexpectedness.
 
 
 
@@ -93,7 +93,7 @@ In the case of an expressive spelling variant, this feature should be paired wit
 
 * [cs] _Vezeme také několik set <b>čokoládiček</b>._ “We also take several hundred chocolates.”
   (The diminutive signals affection rather than size. The neutral equivalent would be _čokolád_.)
-* [en] Kinds of expressive spelling variation include: expressive lengthening (_niiiiice_), dialectal or colloquial pronunciation (_Hahvahd_), censored characters (_sh*t_), symbolic characters (_CA$H_), etc.
+* [en] Kinds of expressive spelling variation include: expressive lengthening (_niiiiice_), dialectal or colloquial pronunciation (_Hahvahd_), censored characters (_sh*t_), symbolic characters (_CA$H_), etc. As _CA$H_ defies typographical convention it should also be labeled [Typo]`=Yes`.
 
 <!-- not used so far ### <a name="Derg">`Derg`</a>: derogatory -->
 
