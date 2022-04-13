@@ -47,7 +47,7 @@ Erzya morphology distinguishes fifteen cases:
 
 ### <a name="Abl">`Abl`</a>: ablative
 
-In Erzya the ablative case is used to  express (1)  standard of comparison, (2) theme of discussion, (3) manipulation point of the direct object, (4) in quantification of the object with verbs of `consumption` eat, drink and breath, (5) beginning of path...
+In Erzya the ablative case is used to  express (1)  standard of comparison, (2) theme of discussion, (3) manipulation point of the direct object, (4) in quantification of the object with verbs of `consumption` eat, drink and breath, (5) beginning of path, (6) it has a considerative use denoting something given in exchange for something else...
 
 
 #### Examples
@@ -57,6 +57,7 @@ In Erzya the ablative case is used to  express (1)  standard of comparison, (2) 
 * [myv] _саизе эйкакшонть <b>кедте</b>_ "She took the child <b>by the hand</b>"
 * [myv] _ней лекси ванькс <b>коштто</b>_ "now it is breathing fresh <b>air</b>"
 * [myv] _<b>педе</b>-пес_ "<b>from end</b> to end"
+* [myv] _<b>ярмакто</b> макссь тенек ярсамопель_ "he/she gave us food <b>for money</b>"
 
 ### <a name="Com">`Com`</a>: comitative
 
@@ -65,6 +66,8 @@ In Erzya the ablative case is used to  express (1)  standard of comparison, (2) 
 * [myv] _Сыргасть <b>веленек</b>_ "They set off <b>the whole village</b>"
 
 ### <a name="Cmp">`Cmp`</a>: comparative
+
+In Erzya the comparative case is used to indicate `(about) the size of X'.
 
 #### Examples
 
@@ -102,9 +105,13 @@ In the indefinite declension the genitive, when attached to words with material 
 
 ### <a name="Ine">`Ine`</a>: inessive
 
+In Erzya the inessive is used to express (1) location inside of something, (2) being in direct contact with, (3) use as an instrument
+
 #### Examples
 
 * [myv] _Кискась ашти <b>кудосо</b>_ "The dog is <b>at homed</b>"
+* [myv] _Цёрынкась ашти картуз <b>прясонзо</b>_ "The boy sits with a visored hat <b>on his head</b>."
+* [myv] _Тейтересь сёрмады <b>толгасо</b>_ "The girl is writing <b>with a quill</b>."
 
 ### <a name="Lat">`Lat`</a>: lative
 
@@ -135,20 +142,29 @@ The indefinite nominative singular and plural are used as indefinite object form
 
 ### <a name="Prl">`Prl`</a>: prolative
 
+In Erzya the prolative is used to express multipoint reference. (1) When used with verbs of motion, this would make its use similar to the perlative in Warlpiri. (2) When the verbal construction expresses something stationary, it express distributive location. (3) When it refers to an end point, it acts as a distributive goal. (4) When it refers to approximate location, it serves as a marker for non-precise location...
+
 #### Examples
 
+* [myv] _Ломантне ютасть <b>янга</b>_ "The people walked <b>along the path</b>"
+* [myv] _Цецятне касыть кудо <b>икельга</b>_ "The flowers are growing <b>(along) the front</b> of the house"
 * [myv] _Ломантне тусть <b>кудова</b>_ "The people left <b>for home, each to his or her own</b>"
+* [myv] _Ведесь <b>кумажава</b>_ "The water is <b>up to (about) the knees</b>"
 
 ### <a name="Tem">`Tem`</a>: temporalis
 
 #### Examples
 
-* [myv] _Виев <b>даволнэ</b> лоткинек лелянь кедьс_ "During a strong <b>rain fall</b>, we stopped at my brother's."
+* [myv] _<b>Виев даволнэ</b> лоткинек лелянь кедьс_ "<b>During a strong rain fall</b>, we stopped at my brother's."
 
 ### <a name="Tra">`Tra`</a>: transative
 
+In Erzya the transitive can be used in both the noun phrase and the verbal clause. In the verbal clause it can express (1) change of state and (2) essive temporary state. (3) In the noun phrase it marks a potential change of state.
+
 #### Examples
 
+* [myv] _Кудонть артынек <b>пижекс</b>_ "We painted the house <b>green</b>" (it was a different color before)
 * [myv] _Ялгам совась <b>инжекс</b>_ "My friend came <b>to visit (as a visitor)</b>"
+* [myv] _<b>Кудокс</b> чокштнэнь кандынек латалов_ "We carried the logs <b>for the house</b> under the roof."
 
 <!-- Interlanguage links updated St lis 3 20:58:17 CET 2021 -->
