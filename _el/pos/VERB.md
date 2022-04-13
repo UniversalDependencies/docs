@@ -18,7 +18,7 @@ Participles of verbs in use in Modern Greek ending in *-μένος*  and *-θε�
 Most verb forms inflect for <code>Number</code>, <code>Person</code> and are also tagged for <code>Aspect</code>, <code>Mood</code>, <code>Tense</code> and <code>Voice</code>. 
 
 
-Non-inflecting verb forms ending in *-όντας, -ώντας* (adverbial participles) share properties and usage of adverbs and verbs and are assigned the tag VERB, the specification <code>VerbForm=Conv<,code> and are tagged for <code>Aspect</code> and <code>Voice</code>.  
+Non-inflecting verb forms ending in *-όντας, -ώντας* (adverbial participles) share properties and usage of adverbs and verbs and are assigned the tag VERB, the specification <code>VerbForm=Conv</code> and are tagged for <code>Aspect</code> and <code>Voice</code>.  
 
 
 
