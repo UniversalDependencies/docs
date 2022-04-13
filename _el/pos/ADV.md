@@ -21,7 +21,7 @@ There are:
 
 Modern Greek uses complex structures consisting of an adverb and an adposition: *(μέσα σε)* (lit: in to) μέσα: ADV σε: ADP, *(ενάντια σε)* (lit: contrary to) ενάντια: ADV σε: ADP.
 
-Non-inflecting verb forms ending in *-όντας, -ώντας* (adverbial participles) share properties and usage of adverbs and verbs and are assigned the tag [VERB](), the specification <code>VerbForm=Conv<,code> and are tagged for <code>Aspect</code> and <code>Voice</code>.  
+Non-inflecting verb forms ending in *-όντας, -ώντας* (adverbial participles) share properties and usage of adverbs and verbs and are assigned the tag [VERB](), the specification <code>VerbForm=Conv</code> and are tagged for <code>Aspect</code> and <code>Voice</code>.  
 
 *μετά* and *εντός* may appear with a noun in the genitive case: the first denotes accompaniment, e.g.,  *μετά ληστείας* / meta listias ‘together with a robbery' while both are structures inherited from older versions of the language, e.g. *εντός δευτερολέπτων* / entos defterolepton ‘within minutes'. In all these cases *μετά* and *εντός* are assigned the tag [ADV]().
 
