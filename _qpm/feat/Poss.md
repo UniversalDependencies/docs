@@ -19,7 +19,7 @@ In Pomak, the feature 'Poss=Yes is assigned to some pronoun types.
 Note that there is no `No` value. If the word is not possessive, the `Poss` feature will just not be mentioned in the `FEAT` column:
  the empty value has the `No` meaning.
 
-#### Examples [qpm]
+#### Examples
 
 * κτητικές προσωπικές αντωνυμίες:
     * _moj, tvoj, tógov / tógav, tójin, naš, vаš, tǽhan_ "δικός μου, δικός σου, δικός του, δικός της, δικός μας, δικός σας, δικός τους"

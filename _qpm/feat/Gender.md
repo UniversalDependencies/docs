@@ -15,7 +15,7 @@ The possible values for Gender in Pomak is _masculine_, _feminine_ and _neuter_.
 
 Nouns denoting male persons are masculine. Other nouns may be also grammatically masculine, without any relation to sex.
 
-Examples [qpm]:
+Examples:
 
 Ουσιαστικά:
 
@@ -49,7 +49,7 @@ Examples [qpm]:
 
 Nouns denoting female persons are feminine. Other nouns may be also grammatically feminine, without any relation to sex.
 
-Examples [qpm]:
+Examples:
 
 Ουσιαστικά:
 
@@ -82,7 +82,7 @@ Examples [qpm]:
 
 Neither masculine nor feminine (grammatically).
 
-Examples [qpm]:
+Examples:
 
 Απλά ουσιαστικά:
 

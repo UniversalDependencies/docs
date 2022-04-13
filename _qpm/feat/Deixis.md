@@ -23,9 +23,9 @@ The entity is close to the reference point (e.g., to the speaker).
 
 #### Examples
 
-* [qpm] _górm<b>os</b>_ "το δέντρο (εδώ κοντά σ' εμένα ή το ίδιο κοντά στον ομιλητή και τον ακροατή)"
+* _górm<b>os</b>_ "το δέντρο (εδώ κοντά σ' εμένα ή το ίδιο κοντά στον ομιλητή και τον ακροατή)"
 `Deixis=Prox|DeixisRef=1`
-* [qpm] _górm<b>ot</b>_ "το δέντρο (εκεί κοντά σ' εσένα)"
+* _górm<b>ot</b>_ "το δέντρο (εκεί κοντά σ' εσένα)"
 `Deixis=Prox|DeixisRef=2`
 
 
@@ -35,7 +35,7 @@ The entity is far away from the reference point (e.g., from the speaker).
 
 #### Examples
 
-* [qpm] _górm<b>on</b>_ "το δέντρο (εκεί μακριά και από τον ομιλητή και από τον ακροατή)"
+* _górm<b>on</b>_ "το δέντρο (εκεί μακριά και από τον ομιλητή και από τον ακροατή)"
 `Deixis=Remt|DeixisRef=3`
 <!-- ΡΙΤΒΑΝ ΠΡΟΣ ΣΤΕΛΛΑ:
 Το '|DeixisRef=3' καταργείται από την περίπτωση 'Remt'
