@@ -17,9 +17,12 @@ Certain multiword expressions, such as *ενάντια σε*, *γύρω από* 
 
 ### Examples
 
-* *σε, από, μεC / *se, apo, me* "to, from, with"
+* *σε, από, με, για, ως, εκ/εξ* / *se, apo, me, gia, os, ek/ex* "to, from, with, for, up to/like, from"
 * (μέσα σε) μέσα:ADV σε:ADP, (ενάντια σε) ενάντια:ADV σε:AD
 {μετά, εντός}: ADP + ΝΟUN[Case=Gen], e .g., μετά ληστείας, Lit. with robbery, εντός δευτερολέπτων "in seconds", and in all other environments *μετά, εντός* are tagged [ADV]()
+
+
+
 
 
 ### References
