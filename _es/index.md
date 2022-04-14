@@ -144,6 +144,6 @@ udver: '2'
 
 There are [three](../../treebanks/es-comparison.html) Spanish UD treebanks:
 
-  * [Spanish](../../treebanks/es-index.html)
-  * [Spanish-AnCora](../../treebanks/es_ancora-index.html)
-  * [Spanish-PUD](../../treebanks/es_pud-index.html)
+  * [Spanish](../../treebanks/es_gsd/index.html)
+  * [Spanish-AnCora](../../treebanks/es_ancora/index.html)
+  * [Spanish-PUD](../../treebanks/es_pud/index.html)
