@@ -23,11 +23,11 @@ This
 may be a lexical feature (some words-lemmas are archaic, some are
 colloquial) or a morphological feature (inflectional patterns may
 systematically change between dialects or styles).
-English pronouns offer a useful case study: *thou* is archaic; 
-*whom* is often somewhat formal; *ya* is colloquial, used in a casual/familiar way (*See ya!*); 
-*y'all* is vernacular (especially associated with certain regions); 
-and *wtf* is arguably an expressive variant of the pronoun *what* in contexts where a nominal is required 
-(*Wtf are you doing?!*).
+English pronouns offer a useful case study: <b>thou</b> is archaic; 
+<b>whom</b> is often somewhat formal; <b>ya</b> is colloquial, used in a casual/familiar way (<b>See ya!</b>); 
+<b>y'all</b> is vernacular (especially associated with certain regions); 
+and <b>wtf</b> is arguably an expressive variant of the pronoun *what* in contexts where a nominal is required 
+(*<b>Wtf</b> are you doing?!*).
 
 Besides real morphology, the choices that make a particular word form
 belong to a different style may also be orthographic.
@@ -93,7 +93,7 @@ Compare the [Typo]() feature, which covers errors and typographical unexpectedne
 
 * [cs] _Vezeme také několik set <b>čokoládiček</b>._ “We also take several hundred chocolates.”
   (The diminutive signals affection rather than size. The neutral equivalent would be _čokolád_.)
-* [en] Kinds of expressive spelling variation include: expressive lengthening (_niiiiice_), dialectal or colloquial pronunciation (_Hahvahd_), censored characters (_sh*t_), symbolic characters (_CA$H_), etc. As _CA$H_ defies typographical convention it should also be labeled [Typo]`=Yes`.
+* [en] Kinds of expressive spelling variation include: expressive lengthening (<b>niiiiice</b>), dialectal or colloquial pronunciation (<b>Hahvahd</b>), censored characters (<b>sh*t</b>), symbolic characters (<b>CA$H</b>), etc. As <b>CA$H</b> defies typographical convention it should also be labeled [Typo]`=Yes`.
 
 <!-- not used so far ### <a name="Derg">`Derg`</a>: derogatory -->
 
