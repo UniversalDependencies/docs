@@ -93,7 +93,7 @@ Compare the [Typo]() feature, which covers errors and typographical unexpectedne
 
 * [cs] _Vezeme také několik set <b>čokoládiček</b>._ “We also take several hundred chocolates.”
   (The diminutive signals affection rather than size. The neutral equivalent would be _čokolád_.)
-* [en] Kinds of expressive spelling variation include: expressive lengthening (_<b>niiiiice</b>_), dialectal or colloquial pronunciation (_<b>Hahvahd</b>_), censored characters (_<b>sh*t</b>_), symbolic characters (_<b>CA$H</b>_), etc. As _<b>CA$H</b>_ defies typographical convention it should also be labeled [Typo]`=Yes`.
+* [en] Kinds of expressive spelling variation include: expressive lengthening (_<b>niiiiice</b>_), dialectal or colloquial pronunciation (_<b>Hahvahd</b>_), censored characters (_<b>sh*t</b>_), symbolic characters (_<b>CA$H</b>_), etc. As _<b>CA$H</b>_ defies typographical convention it should also be labeled [Typo]()`=Yes`.
 
 <!-- not used so far ### <a name="Derg">`Derg`</a>: derogatory -->
 
