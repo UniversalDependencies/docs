@@ -29,7 +29,7 @@ Greek nouns inflect for [el-feat/Gender](), [el-feat/Number]() and [el-feat/Case
 
 *   *γυναίκα* / *gineka* "woman", *σκύλος* / *skilos* "dog", *τραπέζι* / *trapezi* "table", *επανάσταση* / *epanastasi* "revolution", *ελευθερία* / *freedom* "liberty"
 * Professions such as *αστυνομικός* / *astinomikos* "policeman", *στρατιωτικός* / *stratiotikos* "military officer". When the same words cooccur with another noun, such as *αστυνομικός σκύλος* / *astinomikos skilos* "police dog", they are assigned the tag <code>ADJ</code>.
-* *ακουστικό* / *akoustiko* "head phone/hearing aid", *κινητό* / *kinito* "mobile phone", *ενδότερα* / *endotera* "inner parts", *πρωϊνό* / *proino* "breakfast", *μεσημεριανό* / *mesimeriano* "lunch", *βραδινό* / *vradino* "dinner", *λαδερά* / *ladera* "vegetable dishes cooked in olive oil", etc.
+* *ακουστικό* / *akoustiko* "head phone/hearing aid", *κινητό* / *kinito* "mobile phone", *ενδότερα* / *endotera* "inner parts", *πρωϊνό* / *proino* "breakfast", *μεσημεριανό* / *mesimeriano* "lunch", *βραδινό* / *vradino* "dinner", *λαδερά* / *ladera* "vegetable dishes cooked in olive oil", *λαϊκή* "open market", etc.
   
 ### References 
 
