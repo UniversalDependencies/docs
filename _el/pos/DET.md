@@ -8,9 +8,11 @@ shortdef: 'determiner'
 
 ### Definition
 
-Determiners are words that modify nouns  or noun phrases and express the reference of the noun phrase in context. Ιt is possible to replace a single determiner (that seems to function like a pronoun [PRON]()) with a synonymous full noun phrase.
+Determiners are words that modify nouns  or noun phrases and express the reference of the noun phrase in context. Ιt is possible to replace a single determiner (that seems to function like a pronoun [PRON]()) with a synonymous full noun phrase. They are often used to modify a noun phrase rather than replacing it. 
+
 
 The traditional grammar of Modern Greek does not specify the category “determiner”; rather it specifies definite and indefinite articles, adjectives [ADJ]() and pronouns. 
+
 
 The label <code>DET</code> is assigned to the two articles, certain traditional adjectives (and their comparatives) and to a set of pronouns.  
 
@@ -29,7 +31,7 @@ The label <code>DET</code> is assigned to the two articles, certain traditional 
 *   relative pronouns when followed by a noun (<code>PronType=Rel</code>): *όποιος/-δήποτε* / *opios/-dipote* "anyone/whoever", *όσος/-δήποτε* / *osos/-dipote* "no matter how many/much", *ό,τι/-δήποτε* / *oti/-dipote* "whichever"
 
 
-Most of Greek determiners inflect for <code>el-feat/Gender</code>, <code>el-feat/Number</code> and <code>el-feat/Case</code>. The DETs *κάτι* / *kati* "some",
+Most of Greek determiners inflect for <code>el-feat/Gender</code>, <code>el-feat/Number</code> and <code>el-feat/Case</code>. In the overall they tend to inflect more like adjectives, in particular because they tend to have three genders. They agree in gender, number and case with the nouns they modify.  The DETs *κάτι* / *kati* "some",
  *κάθε* / *kathe* "every", *τίποτα/ε* / *tipota/e* "nothing/anything" do not inflect.
  
 ### References 
