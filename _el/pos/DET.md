@@ -31,7 +31,7 @@ The label <code>DET</code> is assigned to the two articles, certain traditional 
 *   relative pronouns when followed by a noun (<code>PronType=Rel</code>): *όποιος/-δήποτε* / *opios/-dipote* "anyone/whoever", *όσος/-δήποτε* / *osos/-dipote* "no matter how many/much", *ό,τι/-δήποτε* / *oti/-dipote* "whichever"
 
 
-Most of Greek determiners inflect for <code>el-feat/Gender</code>, <code>el-feat/Number</code> and <code>el-feat/Case</code>. In the overall they tend to inflect more like adjectives, in particular because they tend to have three genders. They agree in gender, number and case with the nouns they modify.  The DETs *κάτι* / *kati* "some",
+Most of Greek determiners inflect for <code>el-feat/Gender</code>, <code>el-feat/Number</code> and <code>el-feat/Case</code>. They tend to inflect  like adjectives, in particular because they often have three genders. They agree in gender, number and case with the nouns they modify.  The DETs *κάτι* / *kati* "some",
  *κάθε* / *kathe* "every", *τίποτα/ε* / *tipota/e* "nothing/anything" do not inflect.
  
 ### References 
