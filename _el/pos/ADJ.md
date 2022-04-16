@@ -67,7 +67,7 @@ Greek adjectives inflect for
 
 *	*μεγάλος* / *megalos* "big", *πράσινος* / *prasinos* "green", *ακατάληπτος* / *akataliptos* "incomprehensible"
 *	*πρώτος* / *protos* "first", *δεύτερος* / *defteros* "second", *τρίτος* / *tritos*  "third"
-*	(it is also assigned the tag [PRON]()):  *ίδιος* / *idios* "same"
+*	(it is also assigned the tags [DET](), [PRON]()):  *ίδιος* / *idios* "same" in *Η Ελένη είναι ίδια με την μητέρα της* "Eleni has taken after her mother"
 
 
 ### References
