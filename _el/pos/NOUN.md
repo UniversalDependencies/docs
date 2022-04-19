@@ -18,7 +18,7 @@ Certain adjectives are considered nouns. As such they disallow the formation of 
 
 Modern Greek expresses degree modification of nouns with a variety of morphological (and syntactic) means:
 
-*	Diminutives (*υποκοριστικά* / *ipokoristika*) productively formed with suffixes such as  *–άκι* / *-aki*, *–ιτσα* / *-itsa*, *–ούλης* / *-oulis*, *-άκης* / *-akis* like *χταποδάκι* / *chtapodaki* "little octopus", *παιδάκι* / *pedaki* "little child", *μικρούλα* / *mikroula* "little girl",  *φωνίτσα* / *fonitsa* "little voice": they are assigned the lemma of the original noun and the feature <code>el-DegreeMod</code> takes the value <code>Diminutive</code> . 
+*	Diminutives (*υποκοριστικά* / *ipokoristika*) productively formed with suffixes such as  *–άκι* / *-aki*, *–ιτσα* / *-itsa*, *–ούλης* / *-oulis*, *-άκης* / *-akis*, *-άκιας* / *-akias* like *χταποδάκι* / *chtapodaki* "little octopus", *παιδάκι* / *pedaki* "little child", *μικρούλα* / *mikroula* "little girl",  *φωνίτσα* / *fonitsa* "little voice", *γυαλάκιας* / *gialakias* "bespectacled" : they are assigned the lemma of the original noun and the feature <code>el-DegreeMod</code> takes the value <code>Diminutive</code> . 
 * Augmentatives  (*μεγεθυντικά* / *megethintika*)  productively formed with suffixes such as *-άρας* / *-aras*, *-αράς* / *-aras* like  *τρυπάρα* / *tripara* "large hole", *ψευταράς* / *pseftaras* "great lier": they are assigned the lemma of the original noun and the feature <code>el-DegreeMod</code>  takes the value <code>Magnifier</code>.
 *	Lexicalised diminutives and augmentatives such as  *λακκάκι* ‘dimple’, *σουβλάκι* / *souvlaki* "roasted pieces of meat on a little spit", *παιχταράς* / *pechtaras* "excellent (football) player": they are not defined for the feature <code>el-DegreeMod</code>. 
 
@@ -29,7 +29,7 @@ Greek nouns inflect for [el-feat/Gender](), [el-feat/Number]() and [el-feat/Case
 
 *   *γυναίκα* / *gineka* "woman", *σκύλος* / *skilos* "dog", *τραπέζι* / *trapezi* "table", *επανάσταση* / *epanastasi* "revolution", *ελευθερία* / *freedom* "liberty"
 * Professions such as *αστυνομικός* / *astinomikos* "policeman", *στρατιωτικός* / *stratiotikos* "military officer". When the same words cooccur with another noun, such as *αστυνομικός σκύλος* / *astinomikos skilos* "police dog", they are assigned the tag <code>ADJ</code>.
-* *ακουστικό* / *akoustiko* "head phone/hearing aid", *κινητό* / *kinito* "mobile phone", *ενδότερα* / *endotera* "inner parts", *πρωϊνό* / *proino* "breakfast", *μεσημεριανό* / *mesimeriano* "lunch", *βραδινό* / *vradino* "dinner", *λαδερά* / *ladera* "vegetable dishes cooked in olive oil", etc.
+* *ακουστικό* / *akoustiko* "head phone/hearing aid", *(καρτο-)κινητό* / *(karto-)kinito* "mobile phone (with a card)", *ενδότερα* / *endotera* "inner parts", *πρωϊνό* / *proino* "breakfast", *μεσημεριανό* / *mesimeriano* "lunch", *βραδινό* / *vradino* "dinner", *λαδερά* / *ladera* "vegetable dishes cooked in olive oil", *λαϊκή* "open market", *περιπολικό* / *peripoliko* "patrol car", etc.
   
 ### References 
 
