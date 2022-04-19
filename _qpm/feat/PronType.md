@@ -119,12 +119,11 @@ The composite determiners and adverbs formed by the particles `nǽ / nó / jéta
 
 
 
-### <a name="Emp">`Ind`</a>: emphatic determiner
+### <a name="Emp">`Emp`</a>: emphatic determiner
 
 
 Emphatic pro-adjectives (determiners) emphasize the nominal they depend on. There are similarities with reflexive and demonstrative pronouns / determiners.
 
 #### Examples
 * _samýj_
-* 
 <!-- Interlanguage links updated Pá kvě 14 11:08:39 CEST 2021 -->
