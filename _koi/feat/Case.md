@@ -8,6 +8,7 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Abe">Abe</a></td>
   <td><a href="#Abl">Abl</a></td>
   <td><a href="#Acc">Acc</a></td>
   <td><a href="#Apr">Apr</a></td>
@@ -18,7 +19,6 @@ udver: '2'
   <td><a href="#AprPrl">AprPrl</a></td>
   <td><a href="#AprTer">AprTer</a></td>
   <td><a href="#AprTra">AprTra</a></td>
-  <td><a href="#Car">Car</a></td>
   <td><a href="#Cns">Cns</a></td>
   <td><a href="#Com">Com</a></td>
   <td><a href="#Cmp">Cmp</a></td>
@@ -123,7 +123,7 @@ The approximative transitive case expresses going through the general vicinity o
 * [koi] _Одыб сикт <b>помланьӧд</b> визувтысь Кирӧ шорсянь туй_ "The road from Kiro creek flowing _along the end_ of Odyb village"
 
 
-### <a name="Car">`Car`</a>: caritive
+### <a name="Abe">`Abe`</a>: caritive
 
 The caritive case corresponds to the English preposition _without_.
 

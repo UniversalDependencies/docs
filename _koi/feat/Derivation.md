@@ -111,7 +111,7 @@ Produces adnominal modifiers (in the time of X).
 
 * [koi] _июль тӧлысся_ "from the month of June"
 
-### <a name="VCar">`VCar`</a>: derivation with suffix -тӧг
+### <a name="VAbe">`VAbe`</a>: derivation with suffix -тӧг
 
 Produces converbs.
 

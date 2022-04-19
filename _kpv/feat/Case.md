@@ -48,14 +48,12 @@ Komi-Zyrian has 25 inflectional cases.
 
 ### <a name="Abe">`Abe`</a>: abessive
 
-The abessive case is used primarily in the nominal phrase, and it expresses the absence of the locus.
-The abessive in <тӧм> should be distinguished from the caritive <тӧг>, which has a predicative clause range.
-Earlier this has been refered to as PrivMod (privative modifier). The argumentation for the casehood of this morpheme lies in the fact that it can be symmetrically applied to both singular and plural forms of the locus noun phrase head.
+The abessive case corresponds to the English preposition _without_. Its primary range is the predicative clause and should therefore be distinguished from the caritive case <тӧм>, whose range lies in the noun phrase.
 
 #### Examples
 
-* [kpv] _кӧмтӧм_ "without a boot"
-* [kpv] _кӧмъястӧм_ "without boots"
+* [kpv] _<b>сьӧмтӧг</b>_ "without money"
+* [kpv] _Он кисьмы некор <b>шондіястӧг</b>..._ "You never grow up without sunshine..."
 
 
 ### <a name="Abl">`Abl`</a>: ablative
@@ -153,12 +151,15 @@ The approximative transitive case expresses going through the general vicinity o
 
 ### <a name="Car">`Car`</a>: caritive
 
-The caritive case corresponds to the English preposition _without_. Its primary range is the predicative clause and should therefore be distinguished from the abessive case <тӧм>, whose range lies in the noun phrase.
+The caritive case is used primarily in the nominal phrase, and it expresses the absence of the locus.
+The caritive in <тӧм> should be distinguished from the abessive <тӧг>, which has a predicative clause range.
+Earlier this has been refered to as PrivMod (privative modifier). The argumentation for the casehood of this morpheme lies in the fact that it can be symmetrically applied to both singular and plural forms of the locus noun phrase head.
 
 #### Examples
 
-* [kpv] _<b>сьӧмтӧг</b>_ "without money"
-* [kpv] _Он кисьмы некор <b>шондіястӧг</b>..._ "You never grow up without sunshine..."
+* [kpv] _кӧмтӧм_ "without a boot"
+* [kpv] _кӧмъястӧм_ "without boots"
+
 
 ### <a name="Cmp">`Cmp`</a>: comparative
 
