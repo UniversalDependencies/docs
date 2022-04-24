@@ -20,7 +20,6 @@ udver: '2'
   <td><a href="#AprPrl">AprPrl</a></td>
   <td><a href="#AprTer">AprTer</a></td>
   <td><a href="#AprTra">AprTra</a></td>
-  <td><a href="#Car">Car</a></td>
   <td><a href="#Cns">Cns</a></td>
   <td><a href="#Com">Com</a></td>
   <td><a href="#Cmp">Cmp</a></td>
@@ -48,12 +47,22 @@ Komi-Zyrian has 25 inflectional cases.
 
 ### <a name="Abe">`Abe`</a>: abessive
 
-The abessive case corresponds to the English preposition _without_. Its primary range is the predicative clause and should therefore be distinguished from the caritive case <тӧм>, whose range lies in the noun phrase.
+The first abessive case (previously called caritive) corresponds to the English preposition _without_. Its primary range is the verbal predicate clause and should therefore be distinguished from the second abessive case <тӧм>, whose range lies in the noun phrase and non-verbal predication clause. In 'Modern Komi Language' (Ӧнія коми кыв, 2000) this case is defined in contrast to the comitative <-кӧд>, the instrumental <-ӧн> to mention but two concepts.
 
 #### Examples
 
 * [kpv] _<b>сьӧмтӧг</b>_ "without money"
 * [kpv] _Он кисьмы некор <b>шондіястӧг</b>..._ "You never grow up without sunshine..."
+
+The second abessive case is used primarily in the nominal phrase, but it also occurs in non-verbal predication. Like the first abessive, this case expresses the absence of the locus.
+The second abessive in <-тӧм> should be distinguished from the first abessive <-тӧг>, which has a verbal predicate clause range.
+Earlier in this project, this form has been refered to as PrivMod (privative modifier). The argumentation for the casehood of this morpheme lies in the fact that both the first and second abessive formatives can be symmetrically applied to complex noun phrases and noun phrases allowing for regular alternation in singular and plural values in the category of number.
+
+#### Examples
+
+* [kpv] _кӧмтӧм_ "without a boot"
+* [kpv] _кӧмъястӧм_ "without boots"
+
 
 
 ### <a name="Abl">`Abl`</a>: ablative
@@ -147,18 +156,6 @@ The approximative transitive case expresses going through the general vicinity o
 #### Examples
 
 * [kpv] _Одыб сикт <b>помланьӧд</b> визувтысь Кирӧ шорсянь туй_ "The road from Kiro creek flowing _along the end_ of Odyb village"
-
-
-### <a name="Car">`Car`</a>: caritive
-
-The caritive case is used primarily in the nominal phrase, and it expresses the absence of the locus.
-The caritive in <тӧм> should be distinguished from the abessive <тӧг>, which has a predicative clause range.
-Earlier this has been refered to as PrivMod (privative modifier). The argumentation for the casehood of this morpheme lies in the fact that it can be symmetrically applied to both singular and plural forms of the locus noun phrase head.
-
-#### Examples
-
-* [kpv] _кӧмтӧм_ "without a boot"
-* [kpv] _кӧмъястӧм_ "without boots"
 
 
 ### <a name="Cmp">`Cmp`</a>: comparative
