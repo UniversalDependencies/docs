@@ -34,12 +34,18 @@ udver: '2'
   * _ser_ and _estar_ “to be”, used as copulas
   * _ser_ “to be” for the passive (_la sentencia fue publicada_ “the sentence was published”)
   * _estar_ “to be” for the progressive (_mis hijos están estudiando inglés_ “my children are studying English”)
-  * _haber_ “to be” for the perfect tenses (_ha venido hoy_ “he came today”)
+  * _haber_ “to be/have” for the perfect tenses (_ha venido hoy_ “he came today”)
 * There are four main (de)verbal forms, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
   * Infinitive `Inf`, tagged [VERB]() or [AUX](), e.g. _estudiar_ “to study”.
   * Finite verb `Fin`, tagged [VERB]() or [AUX](), e.g. _estudio_ “I study”.
-  * Participle `Part`, tagged [VERB]() or [AUX](), e.g. _estudiado_ “studied”.
+  * Participle `Part`, tagged [VERB](), [AUX]() or [ADJ](), e.g. _estudiado_ “studied”.
   * Gerund `Ger` (Spanish _gerundio_) or present participle, e.g. _estudiando_ “studying”.
+    The gerund can be used as a present participle together with the auxiliary _estar_:
+    _Adidas está ayudando a limpiar los océanos._ “Adidas is helping to clean up the oceans.”
+    It can also be used with a pseudo-copular verb such as _seguir_, in which case it is attached to the pseudo-copula as its [xcomp]():
+    _Este gobierno seguirá teniendo que trabajar con él._ “This government will still have to work with him.”
+    Finally, it can be used as a converb, in which case it is attached to the main verb as [advcl]():
+    _Lo obtiene viendo a sus amigos._ “She obtains it seeing her friends.”
 
 ### Nominal Features
 
@@ -66,6 +72,7 @@ udver: '2'
 
 ### Verbal Features
 
+* Infinitives have only the `VerbForm=Inf` feature.
 * Finite verbs always have one of four values of [Mood](): `Ind`, `Imp`, `Sub` and `Cnd`.
 * Finite verbs can have one of four values of [Tense](): `Past`, `Imp`, `Pres`, `Fut`.
   * Imperative and conditional forms do not have the `Tense` feature.
@@ -76,6 +83,9 @@ udver: '2'
   It is not needed for the imperfect past tense because UD has the special value `Tense=Imp`.
   And it is not needed for the perfect tenses because they are constructed periphrastically.
 * The [Voice]() feature is not used in Spanish because the passive voice is expressed periphrastically.
+* Gerunds have only the `VerbForm=Ger` feature. They do not inflect for gender or number; the suffix is always _-ndo_.
+* Participles have `VerbForm=Part`, `Tense=Past`, [Gender]() (`Masc` or `Fem`), and [Number]() (`Sing` or `Plur`).
+  The gender and number is annotated also in periphrastic perfect constructions, where the form is obligatorily masculine singular.
 
 ### Pronouns, Determiners, Quantifiers
 

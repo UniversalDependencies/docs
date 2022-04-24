@@ -22,7 +22,7 @@ udver: '2'
 
 ### <a name="Sub">`Sub`</a>: Subjunctive
 
-The completive aspect is expressed by the particle _pa(β)_.
+The subjunctive aspect is marked by the  .
 
 #### Examples
 
