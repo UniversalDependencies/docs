@@ -45,8 +45,7 @@ The main exceptions are when the original segmentation itself is erroneous (pesn
 
 There are [N](../treebanks/xum-comparison.html) Umbrian UD treebanks:
 
-  * [Umbrian-A](../treebanks/xum_a/index.html)
-  * [Umbrian-B](../treebanks/xum_b/index.html)
+  * [IKUVINA](../treebanks/xum_a/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
