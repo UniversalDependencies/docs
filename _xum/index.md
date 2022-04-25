@@ -8,12 +8,9 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-*
-
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
+The Iguvine tablets use a word separator to (: in the Umbrian script and ⋅ in the Latin script).
+We thus follow native word segmentation as much as possible.
+The main exceptions are when the original segmentation itself is erroneous (pesni:mu for pesnimu) and cliticised adpositions that we decided to separate from their host.
 
 ## Morphology
 
