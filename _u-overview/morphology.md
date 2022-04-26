@@ -59,7 +59,7 @@ If unique lemma identifiers are available, they can be preserved in the `MISC` c
 *Details at: [Typos and Other Errors](typos.html)*
 
 In addition to normalizing spelling in lemmas, treebanks are encouraged to adopt the optional morphological feature 
-[`Typo=Yes`]() for clear accidental misspellings of a word (e.g. *ltake* for *take* or *too* for *to*). 
+[`Typo=Yes`](../feat/Typo.html) for clear accidental misspellings of a word (e.g. *ltake* for *take* or *too* for *to*). 
 Typos of words in closed-class categories can be found in a corpus by inspecting word frequencies in each category.
 Treebank maintainers should take care not to use `Typo=Yes` for words that may reflect actual linguistic variation, 
 e.g., dialect, style, or nonnative grammar.
