@@ -18,7 +18,7 @@ The main exceptions are :
 
 ### Tags
 
-* `PUNCT` is not used for Umbrian.
+* `PUNCT` is not used in Umbrian (note that there are word boundaries in the original text but no sentence boundaries).
 
 <!--
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
@@ -26,9 +26,9 @@ The main exceptions are :
 
 ### Features
 
-* `NOUN` is marked with `Case` and `Number` and `Gender` when the gender is known.
+* `NOUN` is marked with `Case` and `Number`, and `Gender` when the gender is known.
 * `VERB` is marked with `VerbForm`, and `Tense`, `Mood`, `Person`, `Number` or `Case`, `Gender`, `Number` depending on the finiteness of the form.
-** Note that verbs have a future perfect which comes from a very reduced periphrastic construction. Until we find a better solution, we decided to use `Aspect=Per` in conjunction with `Tense=Fut` for these cases. 
+** Note that verbs have a future perfect form which comes from a very reduced periphrastic construction. Until we find a better solution, we decided to use `Aspect=Per` in conjunction with `Tense=Fut` for these cases. 
 
 <!--
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
