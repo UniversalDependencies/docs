@@ -43,7 +43,7 @@ The main exceptions are :
 
 ## Syntax
 
-* Core arguments are identified with case (`Nom` and `Acc`) and in absence of case triggering adposition ("rupinam-e" is `obl` even if "rupinam" is `Acc`).
+* Core arguments are identified with case (`Nom` and `Acc`) and in absence of case triggering adposition (__rupinam-e__ is `obl` even if __rupinam__ is `Acc` because of the adposition __e__).
 
 <!--
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
