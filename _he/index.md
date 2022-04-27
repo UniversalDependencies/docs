@@ -87,6 +87,12 @@ Non-verbal Clauses
   past/future. Hebrew allows for demonstrative determiners to serve as copulas as well, e.g. שוקולד זה טעים ‘chocolate is tasty’.
 * In equational clauses the copular verb may appear also with inflection to present tense הילד הזה הוא אני ‘this boy is me.’
 * Existential clauses use a different lemma, יש ‘give’ with an accusative object: יש אוכל ‘there is food.’
+* In addition to the verbal copula, Hebrew should have 4 additional pronominal ones:
+  * היה [haya] – the proper, verbal copula, used in past and future contexts
+  * הוא [hu] – the 3rd person masculine personal pronoun ‘he’, present tense use, used just as in Arabic, agrees with predicate (but just the one masculine singular lemma is needed)
+  * זה [ze] – masculine demonstrative ‘this’, present tense use, does not need to agree, probably borrowed from Polish _to_, Russian _это / èto_, & co.
+  * הינו [hino] – declinable particle, present tense, formal (historically probably from a locative stem, synchronically only used as a copula or rarely by itself for strong existential, in which case it would not be [AUX]())
+  * אינו [eino] – lexically negative equivalent of the previous item (by itself can also mean someone has died, i.e. ‘is no more’, but again, this would not be tagged [cop]())
 
 ### Relations Overview
 
