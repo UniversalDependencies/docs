@@ -17,13 +17,15 @@ When a PROPN is formed by an <code>ADJ</code> and a noun, such as *Μεγάλη 
 
 When other phrases or sentences are used as names, the component words retain their original tags. For example, in *Δίωξη ναρκωτικών* / *Dioxi narkotikon* "Drug Enforcement  Agency", both *Δίωξη* and  *ναρκωτικών* are assigned the tag NOUN.
 
+The word *κύριος* / *kirios* 'mister' is assigned the tag <code>ADJ</code>; however, when it is used with the meaning "the Lord" (see examples),it is assigned the tag <code>PROPN</code> e.g.,  *ο*.DET *κύριος*.ADJ *Χαρδάκος*.PROPN, *ένας*.DET *κύριος*.ADJ
+
 
 Acronyms of proper nouns, such as *OHE* / *OIE* "UN" and NATO are assigned the tag PROPN. If they contain numbers (as in various product names) but still consist of one token, they are tagged PROPN and not <code>SYM</code>. However, if a token in a multitoken PROPN consists entirely of digits or an independent word (like *7* in *Windows 7*, *Τρείς Γέφυρες* / *Tris Gefires* "Three Bridges"), it is tagged <code>NUM</code>.
 Also when acronyms are spelled out, e.g.,  #μου-μου-ε* (spelling out of the acronym MME) *Μπε-εμ-βε* `BMW', they are assigned the tag PROPN. 
 
 ### Examples
 
--	*Κύριε* / *kirie* "Lord. VOC"
+-	*Κύριε* / *kirie* "Lord.VOC"
 -	Place names such as *Ανατολή* / *Anatoli* "East", *Δύση* / *Disi* "West", *Όλυμπος* / *olibos* "Mount Olympus"
 -	Day names such as *Τρίτη* / *Triti* "Tuesday", *Σαββατοκύριακο* / *Savatokiriako* "weekend"
 -	Countries such as *Eλλάδα* / *Elada* "Greece", *Κύπρος* / *Kipros* "Cyprus"
