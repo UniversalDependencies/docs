@@ -11,7 +11,7 @@ shortdef: 'determiner'
 
 A subordinating conjunction is a conjunction that links constructions by making one of them a constituent of the other. The subordinating conjunction typically marks the incorporated constituent which has the status of a (subordinate) clause.
 
-*που* is assigned the tag <code>PRON</code> if it refers to a noun, e.g. *Έχουμε πολλές πληροφορίες, που*.PRON *δεν οδηγούν όμως πουθενά* 'we have much information that, however, leads to nowhere". However, if *που* does not refer to a noun then:
+*που* is assigned the tag <code>PRON</code> if it refers to a noun, e.g. *Έχουμε πολλές πληροφορίες, που*.PRON *δεν οδηγούν όμως πουθενά* "we have much information that, however, leads to nowhere". However, if *που* does not refer to a noun then:
 
   - it is assigned the tag <code>SCONJ</code> when it introduces a  complement of saying or sense verbs  (criterion: in this case, it can be replaced with the word *ότι* with somewhat different implications), e.g., *Σε είδα που τον κοίταζες.* "I saw that you watched him.",  *Δεν άκουσες που είπε: «Ευχαριστώ, ωραία μου κυρία»;* "Haven't you heard him saying "Thanks my fair lady"?"
   
