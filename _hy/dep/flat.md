@@ -83,7 +83,7 @@ flat:name(Markos, Agha)
 
 ## Dates and Complex Numerals
 
-The `flat` relation is also used for numerals and numerical expressions that lack phrasal structure. The most left numeral is the head, the other numerals are attached as its modifiers. Note, that for fraction or range [numbers](NumType) the [flat:frac]() and [flat:range]() relations are used.
+The `flat` relation is also used for numerals and numerical expressions that lack phrasal structure. The most left numeral is the head, the other numerals are attached as its modifiers. Note, that for distributive or range [numbers](NumType) the [flat:dist]() and [flat:range]() relations are used.
 
 ~~~ sdparse
 Սա առավելագույնը հարյուր հիսունհինգ հազար դրամ կարժենա ։ \n It will cost at-most hundred fifty-five thousand drams .
