@@ -17,5 +17,8 @@ In the four corpora **UD_French-ParTUT**, **UD_French-Sequoia**, **UD_French-PUD
 
 In the *UD_French-GSD**, there are a few case of *jamais* used as a positive adverb.
 
+#### Examples
+
+* _<b>jamais</b>
 
 <!-- Interlanguage links updated St lis 3 20:58:27 CET 2021 -->
