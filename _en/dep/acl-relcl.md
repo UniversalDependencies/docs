@@ -472,18 +472,18 @@ cop(who, is)
 ~~~
 
 ~~~sdparse
--ROOT- Who we want to help is John.
-root(-ROOT-, who)
-nsubj(who, John)
-acl:relcl(who, want)
-cop(who, is)
+-ROOT- Who we want to help is John .
+root(-ROOT-, John)
+nsubj(John, Who)
+acl:relcl(Who, want)
+cop(John, is)
 ~~~
 
 The following shows the pseudocleft construction combined with an interrogative clause:
 
 ~~~sdparse
 -ROOT- What the committee asked is whether the plan worked .
-nsubj(why, What)
+nsubj:outer(worked, What)
 acl:relcl(What, asked)
 cop(worked, is)
 mark(worked, whether)
@@ -512,11 +512,12 @@ In UD terms, the relative clause is *adverbial*; we therefore use `advcl:relcl`:
 
 ~~~sdparse
 -ROOT- It 's John who we want to help .
-expl(who, It)
+expl(John, It)
 cop(John, 's)
 root(-ROOT-, John)
 advcl:relcl(John, want)
-
+xcomp(want, help)
+obj(help, who)
 ~~~
 
 (Previous versions of the guidelines treated *who we want to help* in the *it*-cleft as a free relative. But note that the above can be paraphrased as *It's John __that__ we want to help* or even *It's John we want to help*, whereas free relatives require a WH-word to serve as the head.)
