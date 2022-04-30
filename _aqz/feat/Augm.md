@@ -16,7 +16,7 @@ udver: '2'
 
 `Augm` the Augmentative 'atʃo'
 
-### <a name="Yes">`Yes`</a>: Augmentative
+### <a name="Yes">`Yes`</a>: Yes
 
 
 #### Example
