@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: 'Determ'
-shortdef: 'Determ'
+title: 'Nomlzr'
+shortdef: 'Nomlzr'
 udver: '2'
 ---
 
@@ -13,14 +13,13 @@ udver: '2'
 </tr>
 </table>
 
-### <a name="Circ">`Circ`</a>: determinative
+### <a name="Circ">`Circ`</a>: nominalizer
 
-The determinative is a nominal morpheme with anaphoric function.
+Derives nouns from transitive verbs and intransitive verbs 
 
 #### Examples
 
 * _<b>eo-tʃoga-ap</b>&nbsp;_ “belly (already mentioned in the discourse)”
-
 
 
 ## Diffs
