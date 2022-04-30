@@ -63,6 +63,8 @@ arrive-1SG-AUX-IPST.EVID.F
 
 * Verbs may be transitive or intransitive, but most transitive verbs have an intransitive use. Intransitive verbs also can have a transitive use. These are cases of S=O and S=A.
 * There are two copular verbs, which are neither transitive nor intransitive.
+* Following Vogel (2003), there are only 3 derivational prefixes.
+* Derivational suffixes are more than a hundred, of which only about twenty are derivational.
 
 ### Nominalizers
 
