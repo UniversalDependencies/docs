@@ -124,6 +124,11 @@ VERBAL FEATURE
 
 * Verbal Reduplication: it assigns aspectual function in verbs, as in *ãbi-bi* ‘to pull successively.ʼ As in the nouns, it can be monosyllabic (involving the first or the second syllable of the stem) or dissyllabic. Reduplication is associated with the feature-value `Redup`.
 
+* Nominalization: there are two productive nominalizer affixes in this language: -ap `Nomzr=Circ`and i- `Nomlzr=Obj`. 
+
+
+    taptot     te=i-ko
+manioc   3COR=OBJ.NMLZ-ingest ‘Manioc, his own food’
 ## Syntax
 
 * Akuntsú is predominantly head-final. 
