@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'Tupinambá UD'
+title:  'Teko UD'
 udver: '2'
 ---
 
@@ -10,7 +10,7 @@ udver: '2'
 
 * Words are delimited by whitespace characters
 * According to typographical rules, many punctuation marks are attached to a neighboring word. They are given as separate tokens (words);
-* There are no adjectives in Tupinambá. Modification is made by composition, juxtaposing lexical roots, so when a lexical root is modified by another a new word appears as in *kuɲãporaŋ(a)* 'beautiful woman' (*kuɲã* 'woman' + *poraŋ-(a)* 'beauty'). Such words are treated sometimes as [multiword tokens](https://universaldependencies.org/format.html#morphological-annotation), sometimes as a single word.
+* There are no adjectives in Teko. Modification is made by composition, juxtaposing lexical roots, so when a lexical root is modified by another a new word appears as in *kuɲãporaŋ(a)* 'beautiful woman' (*kuɲã* 'woman' + *poraŋ-(a)* 'beauty'). Such words are treated sometimes as [multiword tokens](https://universaldependencies.org/format.html#morphological-annotation), sometimes as a single word.
 * Some compound words from Portuguese are written as one word, e.g. _santaCruz_ 'holy cross', _espíritoSanto_ 'holy spirit'. 
 
 
@@ -18,11 +18,11 @@ udver: '2'
 
 ### Tags
 
-* Tupinambá uses 16 of the 17 universal POS categories. `ADJ` is not used since there is no separate class of adjectives.
+* Teko uses 16 of the 17 universal POS categories. `ADJ` is not used since there is no separate class of adjectives.
 Stative-verbs and possessed nouns behave alike, in a way that is not possible to distinguish them morphologically
-(I am ugly / I have uglyness; ugly boy / boy with uglyness /(the) boy has uglyness). The fundamental distinction in Tupinambá is that between predicates and arguments (potentially referring expressions), reflected in the `NOUN`or `VERB` tags. Lexical roots in Tupinambá are predicates, which require function indicating morphology in order to function as arguments (Croft 2021)
+(I am ugly / I have uglyness; ugly boy / boy with uglyness /(the) boy has uglyness). The fundamental distinction in Teko is that between predicates and arguments (potentially referring expressions), reflected in the `NOUN`or `VERB` tags. Lexical roots in Teko are predicates, which require function indicating morphology in order to function as arguments (Croft 2021)
 
-Mapping UPOS to XPOS Tupinambá
+Mapping UPOS to XPOS Teko
 
  UPOS | XPOS |
 :----: | :------: |
@@ -45,7 +45,7 @@ Mapping UPOS to XPOS Tupinambá
 
 ### Nominal Features
 
-* Tupinambá nouns are not marked for gender. Number is optionally marked by the lexical root _etá_ `(be) many'. 
+* Teko nouns are not marked for gender. Number is optionally marked by the lexical root _etá_ `(be) many'. 
 
 _kunumĩ_ 'boy / boys'  
 _kunumĩ-etá_ 'boys'
@@ -90,7 +90,7 @@ Corf   |   o       | _o-sɨ-∅_ 'his/her/its/their own mother'|
 
 * Nouns may also be reduplicated in both ways denoting: plurality, collectivity, superlativity, and other semantic nuances. Numerals may also be reduplicated in order to indicate distribution.
 * Nouns are also marked for tense.
-* As an omnipredicative language, lexical roots in Tupinambá are existential predicates. In order to function as arguments, the referential marker (a  ̴ ∅), is required (marked as `Case=Ref`) despite its function being nothing like that of nominal cases.
+* As an omnipredicative language, lexical roots in Teko are existential predicates. In order to function as arguments, the referential marker (a  ̴ ∅), is required (marked as `Case=Ref`) despite its function being nothing like that of nominal cases.
 
 ### Verbal Features
 
@@ -102,7 +102,7 @@ monosylabic reduplication (`Red=Mo`), disylabic reduplication (`Red=Di`). The mo
 
 ### Nominalizers
 
-Tupinambá has many nominalizers with different functions. All but 
+Teko has many nominalizers with different functions. All but 
 
 Nominalizer    |       function             |    Example                           |
 :------------: | :------------------------: |:----------------------:              |
@@ -154,7 +154,7 @@ _John<sub>i</sub> o<sub>i</sub>-s<sub>j</sub>-epjak Mary<sub>j</sub>_
 
 * The dependency linking the core arguments with the NPs semantically related to the core-arguments are `obl` ([oblique](https://universaldependencies.org/u/dep/obl.html)).
 
-* The object of transitive verbs is always indexed by `Rel=Ncont`. Tupinambá has transitive verbs only when objects are third person. In the other cases a predicative possession is used. When the object is third person, the feature [Person](https://universaldependencies.org/u/feat/Person.html) takes values combining both arguments (S and O): `Person=13`, `Person=23`, and `Person=33`. 
+* The object of transitive verbs is always indexed by `Rel=Ncont`. Teko has transitive verbs only when objects are third person. In the other cases a predicative possession is used. When the object is third person, the feature [Person](https://universaldependencies.org/u/feat/Person.html) takes values combining both arguments (S and O): `Person=13`, `Person=23`, and `Person=33`. 
 * Other combinations of person indexes occur in the case of 1 &#8594; 2. Two portmanteau pronouns are available: _oro_- 1 &#8594; 2.SG, and _opo_- 1 &#8594; 2.PL:
 
 ```
@@ -176,7 +176,7 @@ opo-juká
 
 ### Arguments (or potentially refering expressions)
 
-Since all lexical roots in Tupinambá are predicates, their use as potentially refering expressions or arguments require aditional morphology. Compare both examples below:
+Since all lexical roots in Teko are predicates, their use as potentially refering expressions or arguments require aditional morphology. Compare both examples below:
 
 ```
 nerub
@@ -197,9 +197,9 @@ ne=r-ub-a
 
 ## Treebanks
 
-There is 1 Tupinamba UD treebank:
+There is 1 Teko UD treebank:
 
-  * [Tupinamba-A](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT)
+  * [Teko-A](https://github.com/UniversalDependencies/UD_Teko-TuDeT)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
