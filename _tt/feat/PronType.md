@@ -60,4 +60,11 @@ This value covers reciprocal pronoun _бер-бере_ and its inflected forms.
 
 * _беркем_, _һичкем_ "no one"
 * _бернәрсә_, _һичнәрсә_ "nothing"
+
+### <a name="Tot">`Tot`</a>: collective determiner or pronoun
+
+#### Examples:
+
+* _һәр кеше_ "every person"
+
 <!-- Interlanguage links updated St lis 3 20:58:28 CET 2021 -->
