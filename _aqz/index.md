@@ -116,7 +116,7 @@ VERBAL FEATURE
 
 | Standing | Sitting | Lying | In movement |Going|
 :----: | :------: |:------: |:------: |:------: |
-|ãm|jã|toa|ko|tʃe|ka
+|ãm|jã|toa|tʃe|ka|ko
 
 * Some verbs occur with the morpheme -*ka*, which is a transitivizer. This [feature](https://universaldependencies.org/u/feat/index.html) (`Trans`) takes the value YES if the when the morpheme is present.  Verbs that may or not combine with this morpheme take no overt object or require two obligatory arguments. 
 
