@@ -1,7 +1,7 @@
 ---
 layout: relation
 title:  'acl:relcl'
-shortdef : 'relative clause modifier'
+shortdef : 'adnominal relative clause modifier'
 udver: '2'
 ---
 
@@ -9,6 +9,8 @@ udver: '2'
 
 A relative clause (RC) is a clause modifying some head (typically a noun) that is understood to fulfill some grammatical role in the RC. 
 The head is said to be "extracted" from the RC.
+
+Most RCs are adnominal, hence the relation `acl:relcl`. Adverbial RCs attach as [advcl:relcl](), as discussed [below](#adverbial-relative-clauses).
 
 RCs are usually finite (*people who live in glass houses*), but may also be infinitival (*I found a house in which to live*, *I found a house (for my mother) to live in*). Gerund-participial and past-participial clauses (*people living in glass houses*, *students given high marks*) are never considered relative clauses.
 <!-- Infinitival RCs are discussed in CGEL pp. 1067-1068 -->
@@ -160,13 +162,20 @@ Semantically, relative clauses may be **specifying/restrictive** (helping to nar
   * I rented the movie, **which you bought** (as opposed to renting).
   * I tried to explain myself – **which was a bad idea**. [antecedent is a clause]
 
-The specifying/ascriptive distinction does not affect the UD analysis: all RCs are analyzed with the `acl:relcl` relation, even if the antecedent is clausal:
+The specifying/ascriptive distinction does not affect the UD analysis.
+
+## Adverbial Relative Clauses
+
+On occasion, a relative clause attaches not as a noun modifier but as a clause modifier, and therefore the appropriate relation is [advcl:relcl]().
+One such case is clausal anaphora, where the antecedent is a clause:
 
 ~~~ sdparse
 I tried to explain myself – which was a bad idea
-acl:relcl(tried, idea)
+advcl:relcl(tried, idea)
 nsubj(idea, which)
 ~~~
+
+Another such case occurs in *it*-clefts: see [below](#clefts).
 
 ## Preposition Stranding
 
@@ -452,9 +461,7 @@ cop(worthy, be)
 
 ## Clefts
 
-The free relative analysis is also extended to cleft constructions.
-
-☞ TODO: potential problem—"that" cannot normally head free relatives, but it can appear in clefts: "It is [the marrying off of young girls to older men often close relatives] that enfurates me."
+A free relative can be used within a copular construction to background some material relative to a foregrounded element. *John* is foregrounded in the following two variants of the __pseudocleft construction__:
 
 ~~~sdparse
 -ROOT- John is who we want to help .
@@ -465,23 +472,54 @@ cop(who, is)
 ~~~
 
 ~~~sdparse
--ROOT- It 's John who we want to help .
-expl(who, It)
+-ROOT- Who we want to help is John.
 root(-ROOT-, who)
 nsubj(who, John)
 acl:relcl(who, want)
-cop(who, 's)
+cop(who, is)
 ~~~
 
+The following shows the pseudocleft construction combined with an interrogative clause:
+
 ~~~sdparse
--ROOT- What the committee hopes to learn is why all these events transpired .
+-ROOT- What the committee asked is whether the plan worked .
 nsubj(why, What)
-acl:relcl(What, hopes)
-cop(why, is)
-acl:relcl(why, transpired)
-nsubj(transpired, events)
-root(-ROOT-, why)
+acl:relcl(What, asked)
+cop(worked, is)
+mark(worked, whether)
+nsubj(worked, plan)
+root(-ROOT-, worked)
 ~~~
+
+☞ TODO: nesting of copular clauses: What the committee asked is whether the plan is viable.
+
+<!--
+~~~sdparse
+-ROOT- What the committee asked is why all these events transpired .
+nsubj(why, What)
+acl:relcl(What, asked)
+cop(transpired, is)
+advmod(transpired, why)
+nsubj(transpired, events)
+root(-ROOT-, transpired)
+~~~
+-->
+
+The __*it*-cleft construction__ serves a similar purpose—foregrounding one element (with expletive *it* plus copula). 
+The remainder of the sentence is a standard (not free) relative clause that elaborates on the copular predication. 
+CGEL (p. 416) describes it as a relative clause functioning as a dependent of the main clause (versus the canonical function of a relative clause as dependent within a nominal phrase). 
+In UD terms, the relative clause is *adverbial*; we therefore use `advcl:relcl`:
+
+~~~sdparse
+-ROOT- It 's John who we want to help .
+expl(who, It)
+cop(John, 's)
+root(-ROOT-, John)
+advcl:relcl(John, want)
+
+~~~
+
+(Previous versions of the guidelines treated *who we want to help* in the *it*-cleft as a free relative. But note that the above can be paraphrased as *It's John __that__ we want to help* or even *It's John we want to help*, whereas free relatives require a WH-word to serve as the head.)
 
 ## _No matter_ and similar
 
