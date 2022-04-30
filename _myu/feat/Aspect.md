@@ -17,6 +17,7 @@ udver: '2'
   <td><a href="">Prog</a></td>
   <td><a href="">Dec</a></td>
   <td><a href="">IterImp</a></td>
+  <td><a href="">Dur</a></td>
 
 
 </tr>
@@ -113,6 +114,16 @@ The progressive aspect
 #### Examples
 
 * _<b>jokjog̃ tu ẽn?</b>&nbsp;_ “Are you bathing?”
+
+
+
+### <a name="Dur">`Dur`</a>: Dur
+
+
+
+#### Examples
+
+* _<b></b>&nbsp;_ “”
 
 
 
