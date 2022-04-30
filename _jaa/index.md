@@ -61,6 +61,9 @@ arrive-1SG-AUX-IPST.EVID.F
 
 * The only suffix that may attach to a non-inflecting verb is the distributive suffix *-ri*.
 
+* Verbs may be transitive or intransitive, but most transitive verbs have an intransitive use. Intransitive verbs also can have a transitive use. These are cases of S=O and S=A.
+* There are two copular verbs, which are neither transitive nor intransitive.
+
 ### Nominalizers
 
 Tupinambá has many nominalizers with different functions. All but 
