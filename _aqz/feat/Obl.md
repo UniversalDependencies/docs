@@ -16,7 +16,7 @@ udver: '2'
 
 `Obl` oblique 'pe'
 
-### <a name="Yes">`Yes`</a>: Oblique
+### <a name="Yes">`Yes`</a>: Yes
 
 
 #### Examples
