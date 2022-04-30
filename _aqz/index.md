@@ -105,6 +105,8 @@ otʃe t-ek         no        jẽɾom     tʃok
 'Our other house, they built that one'
 ```
 
+* Nominal Reduplication: it marks pluralilty in nouns, as in pi-pi ‘feetʼ. It can be monosyllabic (involving the first or the second syllable of the stem) or dissyllabic. Reduplication is associated with the feature-value `Redup`.
+
 VERBAL FEATURE
 * Verbs tend to combine with categories that denote aspect, modality, and voice.
 * The aspectual morphemes include the iterative `Iter`, and habitual `Hab`. There is also a projective aspect.
@@ -117,6 +119,8 @@ VERBAL FEATURE
 |ãm|jã|toa|ko|tʃe|ka
 
 * Some verbs occur with the morpheme -*ka*, which is a transitivizer. This [feature](https://universaldependencies.org/u/feat/index.html) (`Trans`) takes the value YES if the when the morpheme is present.  Verbs that may or not combine with this morpheme take no overt object or require two obligatory arguments. 
+
+* Verbal Reduplication: it assigns aspectual function in verbs, as in ãbi-bi ‘to pull successively.ʼ As in the nouns, it can be monosyllabic (involving the first or the second syllable of the stem) or dissyllabic. Reduplication is associated with the feature-value `Redup`.
 
 ## Syntax
 
