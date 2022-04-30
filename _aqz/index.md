@@ -107,6 +107,8 @@ otʃe t-ek         no        jẽɾom     tʃok
 
 * Nominal Reduplication: it marks pluralilty in nouns, as in pi-pi ‘feetʼ. It can be monosyllabic (involving the first or the second syllable of the stem) or dissyllabic. Reduplication is associated with the feature-value `Redup`.
 
+* Augmentative and diminutive: the diminutive morpheme is -tin `Dim` and the augmentative -atʃo `Augm`. These morphemes refer to the size of something or the expansion of an event (if it is big or not). 
+
 VERBAL FEATURE
 * Verbs tend to combine with categories that denote aspect, modality, and voice.
 * The aspectual morphemes include the iterative `Iter`, and habitual `Hab`. There is also a projective aspect.
