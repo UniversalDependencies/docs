@@ -21,12 +21,7 @@ udver: '2'
 
 #### Examples
 
-* _<b>nako kwiɾi tʃã-ka</b>&nbsp;_ “Men are kneading (with a powder) the açaí”
-
-* _<b>en i=wip-ka</b>&nbsp;_ “You made it slide (from the hammock to the floor)”
-
-* _<b>o=atʃino-kwa</b>&nbsp;_ “I sneezed over and over”
-
+* _<b>awawaʧo</b>&nbsp;_ “Many bees”
 
 
 
