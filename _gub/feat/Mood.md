@@ -10,6 +10,8 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Des">Des</a></td>
+  <td><a href="#Prp">Prp</a></td>
+
   
   
 
@@ -35,6 +37,16 @@ The desiderative mood is expressed with the suffix 'hez'.
 #### Examples
 
 * _<b>imaʔuhez</b>&nbsp;_ “Want to eat something” (NCont-thing-eat-DES)
+  
+</tr>
+
+### <a name="Prp">`Prp`</a>: Purposive
+
+The purposive mood is expressed with the prefix 't'.
+
+#### Examples
+
+* _<b>tazuka</b>&nbsp;_ “kill something with intention” (Prp-kill)
   
 </tr>
 </table>
