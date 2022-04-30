@@ -8,33 +8,24 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#"></a></td>
+  <td><a href="Yes"></a>Yes</td>
   
   
 </tr>
 </table>
 
-`Dem`  The demonstratives express their deictic reference point, showing their space location in relation to the speech act (distance/person-oriented). The demonstrative appears in a noun phrase coding spatial orientation and position of the element in discussion with respect to the hearer and speaker. They do not have a fixed order; they may appear before or after the noun or appear as the head of a NP.
+`Redup`  
 
-### <a name="Prox">`Prox`</a>: Proximal
+### <a name="Yes">`Yes`</a>: Proximal
 
-Close to the speaker or the hearer
-
-
-#### Examples
-
-* _<b>jẽ t-et</b>&nbsp;_ “this one's name”
-
-
-### <a name="Dist">`Dist`</a>: Distant
-
-Distant from the
 
 
 #### Examples
 
-* _<b>ke t-et</b>&nbsp;_ “that one's name”
-* _<b>ta t-et</b>&nbsp;_ “that one's name”
+* _<b> </b>&nbsp;_ “”
+
+
+
 
 ## Diffs
 
