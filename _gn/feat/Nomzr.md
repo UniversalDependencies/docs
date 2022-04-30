@@ -33,14 +33,24 @@ The nominalizer of circumstance can be roughly translated as 'way / place of x'
 </tr>
 </table>
 
-### <a name="Pas">`Pas`</a>: Pasive deverbal
+### <a name="Pas">`Pas`</a>: Pasive
 
-The deverbal passive
+The passive
 
 #### Examples
 
 * _<b>i-juká-pɨr-a</b>&nbsp;_ “the one who is/must be killed”
 
+</tr>
+</table>
+
+### <a name="DevPass">`DevPass`</a>: Deverbal passive
+
+The nominalizer of deverbal passive is expressed with the prefix "emi"
+
+#### Examples
+
+* _<b>he-r-emi-apo kwer</b>&nbsp;_  "what I did"
   
 </tr>
 </table>
