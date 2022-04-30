@@ -102,3 +102,10 @@ It describes an event in which two agents (or groups of agents) perform the same
 
 * _Укучылар эвакуация планы белән тан-<b>ыш-тыр-ыл</b>-ды_ "The students got familiarized with the evacuation plan" (lit: "The students were made to get to know with the evacuation plan")
 <!-- Interlanguage links updated St lis 3 20:58:32 CET 2021 -->
+
+### <a name="Mid">`Mid`</a>: middle voice
+
+This voice often has the same morpheme as the passive voice, but the middle voice does not reflect passivization.
+In the middle voice, the subject is both the actor and the undergoer.
+
+* _Вирустан ничек сакланырга?_ "How should we protect ourselves from the virus?"
