@@ -479,7 +479,15 @@ acl:relcl(Who, want)
 cop(John, is)
 ~~~
 
-The following shows the pseudocleft construction combined with an interrogative clause:
+The following show the pseudocleft construction being used to foreground a clause:
+
+~~~sdparse
+-ROOT- What John did was to play tennis .
+mark(play, to)
+cop:outer(play, was)
+nsubj:outer(play, What)
+acl:relcl(What, did)
+~~~
 
 ~~~sdparse
 -ROOT- What the committee asked is whether the plan worked .
