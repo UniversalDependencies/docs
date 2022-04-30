@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Circ">Circ</a></td>
   <td><a href="#Pas">Pas</a></td>
+  <td><a href="#DevPass">DevPass</a></td>
   <td><a href="#Ag">Ag</a></td>
   <td><a href="#Rel">Rel</a></td>
   <td><a href="#CCirc">CCirc</a></td>
@@ -33,9 +34,9 @@ The nominalizer of circumstance can be roughly translated as 'way / place of x'
 </tr>
 </table>
 
-### <a name="Pas">`Pas`</a>: Pasive deverbal
+### <a name="Pas">`Pas`</a>: Pasive 
 
-The deverbal passive
+The passive
 
 #### Examples
 
@@ -45,6 +46,16 @@ The deverbal passive
 </tr>
 </table>
 
+### <a name="DevPass">`DevPass`</a>: Deverbal Pasive
+
+The passive deverbalizer prefix _emi-_ is a nominalizer with passive meaning. It is actually non different than the passive nominalizer suffix _-pɨr_ . 
+
+#### Examples
+
+* _<b>-emi-motar-a</b>&nbsp;_ “wanted thing?”
+  
+</tr>
+</table>
 
 ### <a name="Ag">`Ag`</a>: Agent
 
