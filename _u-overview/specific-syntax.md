@@ -569,7 +569,7 @@ punct(said, ,-3)
 punct(said, ,-6)
 ~~~
 
-See further discussion of reported speech at [ccomp](ccomp.html#reported-speech).
+See further discussion of reported speech at [ccomp](/u/dep/ccomp.html#reported-speech).
 
 ### News article bylines
 
