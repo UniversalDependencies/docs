@@ -20,6 +20,18 @@ udver: '2'
 </tr>
 </table>
 
+### <a name="Abs">`Abs`</a>: Absolute
+
+The nominalizer is expressed with the sufix "mbaʔe"
+
+#### Examples
+
+* _<b>u-ze-apo-mbaʔe-kwer</b>&nbsp;_  "what had happened"
+
+  
+</tr>
+</table>
+
 
 ### <a name="Circ">`Circ`</a>: Circumstance
 
