@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'Atten'
-shortdef: 'attenuative'
+shortdef: 'atten'
 udver: '2'
 ---
 
