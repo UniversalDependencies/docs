@@ -16,13 +16,13 @@ udver: '2'
 
 `Redup`  
 
-### <a name="Yes">`Yes`</a>: Proximal
+### <a name="Yes">`Yes`</a>
 
 
 
 #### Examples
 
-* _<b> </b>&nbsp;_ “”
+* _<b>jẽ nom pi kapa-kapa</b>&nbsp;_ “This doesn't have shoes”
 
 
 
