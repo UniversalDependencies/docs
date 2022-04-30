@@ -129,6 +129,14 @@ VERBAL FEATURE
 * The basic clausal constituents may be described basically as [(PRONOMINAL CLITICS) + NOUNS + (NOMINAL MORPHOLOGY) + (OBJECT) + (VERBAL MORPHOLOGY) + VERB + (VERBAL MORPHOLOGY) + (AUXILIARY)]. 
 * Clause combining mainly involves coordination, subordination, and complementation. Coordination is done by the simple juxtaposition of clauses; complementation is usually in the form of nominalizations. 
 
+* In Akuntsú, the antipassive voice is not morphologically marked directly on the verb, but through the demotion of the object to an oblique position in a given transitive clause. The oblique clitic =pe, described with the feature `Obl`, marks the object when it is occurring outside of the usual syntactic position of the object.
+
+```
+tɨrɨ         puru-ru-ru         me-me-me          ek        pagop=pe
+two          IDEO-RED-RED       IDEO-RED-RED      house     new=OBL
+'In two (days) that one goes back and forth and builds [on] a new house'
+```
+
 ## Treebanks
 
 There is 1 Akuntsu UD treebank:
