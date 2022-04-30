@@ -48,6 +48,18 @@ Mapping UPOS to XPOS Tupinambá
 
 * The most important verbal feature is the distinction between two morphological verb classes, inflecting and non-inflecting. The infelcting class takes prefixes and suffixes, while non-inflecting verbs require auxiliaries which carry infixes.
 
+```
+o-tafa-ra
+1SG-eat-IPST.EVID.F
+'I have just eaten'
+
+kobo o-na-hara
+arrive-1SG-AUX-IPST.EVID.F
+'I have just arrived'
+
+```
+
+* The only suffix that may attach to a non-inflecting verb is the distributive suffix *-ri*.
 
 ### Nominalizers
 
