@@ -14,6 +14,7 @@ udver: '2'
 
 ## Morphology
 
+As a synthetic agglutinating language
 
 
 ### Tags
@@ -42,13 +43,6 @@ Mapping UPOS to XPOS Tupinambá
  SYM   | sym      |
  X     | x        |
 
-
-
-
-
-* Nouns may also be reduplicated in both ways denoting: plurality, collectivity, superlativity, and other semantic nuances. Numerals may also be reduplicated in order to indicate distribution.
-* Nouns are also marked for tense.
-* As an omnipredicative language, lexical roots in Tupinambá are existential predicates. In order to function as arguments, the referential marker (a  ̴ ∅), is required (marked as `Case=Ref`) despite its function being nothing like that of nominal cases.
 
 ### Verbal Features
 
