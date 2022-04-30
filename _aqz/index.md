@@ -105,9 +105,9 @@ otʃe t-ek         no        jẽɾom     tʃok
 'Our other house, they built that one'
 ```
 
-* Nominal Reduplication: it marks pluralilty in nouns, as in pi-pi ‘feetʼ. It can be monosyllabic (involving the first or the second syllable of the stem) or dissyllabic. Reduplication is associated with the feature-value `Redup`.
+* Nominal Reduplication: it marks pluralilty in nouns, as in *pi-pi* ‘feetʼ. It can be monosyllabic (involving the first or the second syllable of the stem) or dissyllabic. Reduplication is associated with the feature-value `Redup`.
 
-* Augmentative and diminutive: the diminutive morpheme is -tin `Dim` and the augmentative -atʃo `Augm`. These morphemes refer to the size of something or the expansion of an event (if it is big or not). 
+* Augmentative and diminutive: the diminutive morpheme is -*tin* `Dim` and the augmentative -*atʃo* `Augm`. These morphemes refer to the size of something or the expansion of an event (if it is big or not). 
 
 VERBAL FEATURE
 * Verbs tend to combine with categories that denote aspect, modality, and voice.
@@ -122,7 +122,7 @@ VERBAL FEATURE
 
 * Some verbs occur with the morpheme -*ka*, which is a transitivizer. This [feature](https://universaldependencies.org/u/feat/index.html) (`Trans`) takes the value YES if the when the morpheme is present.  Verbs that may or not combine with this morpheme take no overt object or require two obligatory arguments. 
 
-* Verbal Reduplication: it assigns aspectual function in verbs, as in ãbi-bi ‘to pull successively.ʼ As in the nouns, it can be monosyllabic (involving the first or the second syllable of the stem) or dissyllabic. Reduplication is associated with the feature-value `Redup`.
+* Verbal Reduplication: it assigns aspectual function in verbs, as in *ãbi-bi* ‘to pull successively.ʼ As in the nouns, it can be monosyllabic (involving the first or the second syllable of the stem) or dissyllabic. Reduplication is associated with the feature-value `Redup`.
 
 ## Syntax
 
@@ -131,7 +131,7 @@ VERBAL FEATURE
 * The basic clausal constituents may be described basically as [(PRONOMINAL CLITICS) + NOUNS + (NOMINAL MORPHOLOGY) + (OBJECT) + (VERBAL MORPHOLOGY) + VERB + (VERBAL MORPHOLOGY) + (AUXILIARY)]. 
 * Clause combining mainly involves coordination, subordination, and complementation. Coordination is done by the simple juxtaposition of clauses; complementation is usually in the form of nominalizations. 
 
-* In Akuntsú, the antipassive voice is not morphologically marked directly on the verb, but through the demotion of the object to an oblique position in a given transitive clause. The oblique clitic =pe, described with the feature `Obl`, marks the object when it is occurring outside of the usual syntactic position of the object.
+* In Akuntsú, the antipassive voice is not morphologically marked directly on the verb, but through the demotion of the object to an oblique position in a given transitive clause. The oblique clitic =*pe*, described with the feature `Obl`, marks the object when it is occurring outside of the usual syntactic position of the object.
 
 ```
 tɨrɨ         puru-ru-ru         me-me-me          ek        pagop=pe
