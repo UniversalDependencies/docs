@@ -1,7 +1,5 @@
 ---
 layout: feature
----
-layout: feature
 title: 'Redup'
 shortdef: 'Redup'
 udver: '2'
@@ -15,16 +13,22 @@ udver: '2'
 </tr>
 </table>
 
+`Redup` Reduplication
+
 ### <a name="Redup">`Redup`</a>: Reduplication
 
 
-#### Examples
+#### Example
 
 * _<b>jẽ nom pi kapa-kapa</b>&nbsp;_ “This doesn't have shoes”
+
 
 
 
 ## Diffs
 
 ### Prague Dependency Treebank
-<!-- Interlanguage links updated St lis 3 20:58:23 CET 2021 -->
+
+The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
+therefore this distinction is not being made in the converted data.
+<!-- Interlanguage links updated St lis 3 20:58:31 CET 2021 -->
