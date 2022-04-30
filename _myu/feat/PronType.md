@@ -12,6 +12,7 @@ udver: '2'
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Int">Int</a></td>
   <td><a href="#Dem">Dem</a></td>
+  <td><a href="#Tot">Tot</a></td>
 </tr>
 </table>
 
@@ -45,6 +46,13 @@ udver: '2'
 
 
 ### <a name="Dem">`Dem`</a>: Demonstrative
+
+#### Examples
+
+* _<b></b>&nbsp;_ “”
+
+
+### <a name="Tot">`Tot`</a>: Total
 
 #### Examples
 
