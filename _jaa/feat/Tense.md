@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#IPast">IPast</a></td>
   <td><a href="#RPast">RPast</a></td>
+  <td><a href="#Fut">Fut</a></td>
 </tr>
 </table>
 
@@ -35,6 +36,14 @@ udver: '2'
 
 * _<b></b>&nbsp;_ “”
 
+
+### <a name="Fut">`Fut`</a>: Future
+
+
+
+#### Examples
+
+* _<b></b>&nbsp;_ “”
 
 ## Diffs
 
