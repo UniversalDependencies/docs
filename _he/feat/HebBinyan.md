@@ -10,6 +10,7 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#HIFIL">HIFIL</a></td>
   <td><a href="#HITPAEL">HITPAEL</a></td>
+  <td><a href="#NITPAEL">NITPAEL</a></td>
   <td><a href="#HUFAL">HUFAL</a></td>
   <td><a href="#NIFAL">NIFAL</a></td>
   <td><a href="#PAAL">PAAL</a></td>
