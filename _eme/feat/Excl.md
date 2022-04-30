@@ -13,7 +13,7 @@ udver: '2'
 </tr>
 </table>
 
-`Excl`
+`Excl` is defined in Teko as particle -sipo, which both has interogative and exclamative features.
 
 ### <a name="Yes">`Yes`</a>: Yes
 
@@ -21,7 +21,7 @@ udver: '2'
 #### Examples
 
 
-* _<b></b>&nbsp;_ “”
+* _<b>mana-sipo</b>&nbsp;_ “”
 
 ## Diffs
 
