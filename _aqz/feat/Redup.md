@@ -15,7 +15,7 @@ udver: '2'
 
 `Redup` Reduplication
 
-### <a name="#Yes">`Yes`</a>: Yes
+### <a name="Yes">`Yes`</a>: Yes
 
 
 #### Example
