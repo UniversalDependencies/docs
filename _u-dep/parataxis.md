@@ -25,9 +25,11 @@ punct(said, ,-6)
 
 ## An inventory of constructions to which parataxis has been applied
 
+*The following material is duplicated in the [syntax overview](/u/overview/specific-syntax.html#paratactic-constructions).*
+
 ### Side-by-side sentences ("run-on sentences")
 
-The relation parataxis is used for a pair of what could have been standalone sentences, 
+The parataxis relation is used for a pair of what could have been standalone sentences, 
 but which are being treated together as a single sentence. This may happen because sentence
 segmentation of the sentence was done primarily following the presence of sentence-final punctuation,
 and these clauses are joined by punctuation such as a colon or comma, or not delimited by punctuation
@@ -86,7 +88,7 @@ advmod(come, then)
 
 Note that *if*-clauses should almost always be analyzed as subordinate, even when *then* is present.
 
-### Treatment of reported speech
+### Reported speech
 
 When a speech verb interrupts reported speech content, the interruption is treated as a parenthetical parataxis:
 
