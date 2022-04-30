@@ -13,7 +13,7 @@ udver: '2'
 </tr>
 </table>
 
-`Contrast`
+`Contrast` indicates contrast when more than one option is available
 
 
 ### <a name="Yes">`Yes`</a>: Yes
@@ -21,6 +21,8 @@ udver: '2'
 
 #### Examples
 
+* _<b>sidʒao-nẽ</b>&nbsp;_ “Are we going (or someone else)?
+”
 
 ## Diffs
 
