@@ -15,7 +15,7 @@ udver: '2'
 </tr>
 </table>
 
-### <a name="Redup">`Circ`</a>: Reduplication
+### <a name="Redup">`Redup`</a>: Reduplication
 
 
 #### Examples
